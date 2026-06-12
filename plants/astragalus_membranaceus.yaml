@@ -1,31 +1,65 @@
 common_names:
 - Astragalus
+- Huang qi
+- Milkvetch root
+- Mongolian milkvetch
 scientific_name: Astragalus membranaceus
 family: Fabaceae
 parts_used:
-- name: Whole plant
+- name: Root
   medicinal_actions:
-  - action: Immune support (symptom-lookup evidence 3/4)
+  - action: Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Fatigue (symptom-lookup evidence 2/4)
+    - REF-0401
+    - REF-0402
+    status: verified
+  - action: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Kidney support (symptom-lookup evidence 2/4)
+    - REF-0402
+    status: verified
+  - action: Supports resistance to colds and respiratory infection (immune)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Cold (symptom-lookup evidence 1/4)
+    - REF-0401
+    status: verified
+  - action: Renoprotective (kidney support)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0402
+    status: verified
+  - action: Antioxidant and anti-inflammatory
+    reference_ids:
+    - REF-0402
+    status: verified
+constituents:
+- name: Astragalus polysaccharides (APS)
+  note: Principal immunomodulatory constituents.
+  reference_ids:
+  - REF-0401
+- name: Cycloartane triterpenoid saponins (astragaloside IV)
+  note: Major bioactive saponin with cardio-, neuro-, hepato- and renoprotective effects.
+  reference_ids:
+  - REF-0402
+- name: Isoflavonoids (calycosin, formononetin)
+  note: Antioxidant flavonoid constituents of the root.
+  reference_ids:
+  - REF-0402
+contraindications:
+- note: Astragalus stimulates immune activity; on theoretical grounds it should be used cautiously in
+    autoimmune disease and with immunosuppressant medicines (for example after organ transplant) - discuss
+    with a clinician.
+  reference_ids:
+  - REF-0401
+  status: verified
+- note: Generally well tolerated; high-quality long-term human safety and toxicity data remain limited.
+  reference_ids:
+  - REF-0402
+  status: verified
+- note: Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses.
+  reference_ids:
+  - REF-0402
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
+  of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton
+  imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);
+  associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,27 +1,55 @@
 common_names:
 - Bay-leaf willowherb
+- Small-flowered willowherb
+- Hoary willowherb
 scientific_name: Epilobium parviflorum
 family: Onagraceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (herb)
   medicinal_actions:
-  - action: Prostate support (symptom-lookup evidence 2/4)
+  - action: Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 1/4)
+    - REF-0403
+    - REF-0404
+    status: verified
+  - action: Anti-inflammatory (inhibits COX-1 and COX-2 prostaglandin synthesis)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Urinary tract infection (UTI) (symptom-lookup evidence 1/4)
+    - REF-0403
+    status: verified
+  - action: Antibacterial, including against Escherichia coli (urinary support)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0403
+    status: verified
+  - action: Antioxidant (hydroxyl-radical scavenging)
+    reference_ids:
+    - REF-0403
+    status: verified
+constituents:
+- name: Macrocyclic ellagitannins (notably oenothein B)
+  note: Characteristic Epilobium polyphenols underlying the anti-inflammatory and prostate activity.
+  reference_ids:
+  - REF-0403
+- name: Flavonoids (myricetin and quercetin glycosides)
+  note: Antioxidant constituents.
+  reference_ids:
+  - REF-0403
+- name: Plant sterols (beta-sitosterol)
+  note: Sterols associated with benign prostatic hyperplasia support.
+  reference_ids:
+  - REF-0403
+contraindications:
+- note: Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer;
+    willowherb is a supportive measure, not a substitute for diagnosis and treatment.
+  reference_ids:
+  - REF-0404
+  status: verified
+- note: Well tolerated over three months in clinical use; longer-term safety data are limited.
+  reference_ids:
+  - REF-0404
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity
+  study; Complementary Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (prostate-support, uti, inflammation); associations retained and now part-mapped
+  and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

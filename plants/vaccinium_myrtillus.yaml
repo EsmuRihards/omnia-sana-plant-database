@@ -1,31 +1,64 @@
 common_names:
 - Bilberry
+- European blueberry
+- Whortleberry
+- Huckleberry
 scientific_name: Vaccinium myrtillus
 family: Ericaceae
 parts_used:
-- name: Whole plant
+- name: Fruit (berry)
   medicinal_actions:
-  - action: Eye strain (symptom-lookup evidence 2/4)
+  - action: 'Traditional support for eye strain and vision (note: rigorous trials do NOT support improved
+      night vision in healthy eyes)'
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
+    - REF-0408
+    status: verified
+  - action: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic
+      venous insufficiency)
     reference_ids:
-    - REF-0384
+    - REF-0409
     status: needs-review
-  - action: Varicose veins (symptom-lookup evidence 2/4)
+  - action: Antioxidant and anti-inflammatory
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: High cholesterol (symptom-lookup evidence 1/4)
+    - REF-0409
+    status: verified
+  - action: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0409
+    status: verified
+constituents:
+- name: Anthocyanins (anthocyanosides)
+  note: The deep blue-purple pigments; the principal antioxidant constituents.
+  reference_ids:
+  - REF-0409
+  - REF-0408
+- name: Other flavonoids and tannins
+  note: Contribute to antioxidant and astringent activity.
+  reference_ids:
+  - REF-0409
+- name: Vitamin C and organic acids
+  note: Minor nutritive constituents of the berry.
+  reference_ids:
+  - REF-0409
+contraindications:
+- note: The berry is a food and generally very safe; long-term safety of concentrated high-dose extracts
+    is less well characterised.
+  reference_ids:
+  - REF-0409
+  status: verified
+- note: May lower blood sugar and has mild antiplatelet potential, so use cautiously alongside antidiabetic
+    or anticoagulant/antiplatelet medication.
+  reference_ids:
+  - REF-0409
+  status: verified
+- note: Claims that bilberry improves night vision in people with normal sight are not supported by rigorous
+    clinical trials.
+  reference_ids:
+  - REF-0408
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Survey of Ophthalmology systematic review;
+  Molecules review of metabolic/cardiovascular effects). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (eye-strain, varicose-veins, high-cholesterol, inflammation); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

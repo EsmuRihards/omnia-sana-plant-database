@@ -1,24 +1,66 @@
 common_names:
 - Bearberry
-- Uva-Ursi
+- Uva-ursi
+- Kinnikinnick
+- Bear's grape
 scientific_name: Arctostaphylos uva-ursi
 family: Ericaceae
 parts_used:
-- name: Whole plant
+- name: Leaf
   medicinal_actions:
-  - action: Urinary tract infection (UTI) (symptom-lookup evidence 3/4)
+  - action: Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Infection (symptom-lookup evidence 2/4)
+    - REF-0405
+    - REF-0406
+    status: verified
+  - action: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
+      by alkaline urine)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0405
+    - REF-0406
+    status: verified
+  - action: Astringent (tannins)
+    reference_ids:
+    - REF-0405
+    - REF-0407
+    status: verified
+constituents:
+- name: Arbutin (and methylarbutin)
+  note: Hydroquinone glycoside; hydrolysed and excreted as antibacterial hydroquinone in the urine.
+  reference_ids:
+  - REF-0405
+  - REF-0406
+- name: Tannins (gallotannins)
+  note: Up to ~20%; responsible for the astringency and for gastric irritation at high doses.
+  reference_ids:
+  - REF-0405
+  - REF-0407
+- name: Flavonoids and phenolic acids
+  note: Antioxidant constituents of the leaf.
+  reference_ids:
+  - REF-0407
+contraindications:
+- note: 'Short-term use only: not for more than 1 week at a time and not more than about 5 times per year.
+    If symptoms persist beyond ~4 days, worsen, or are accompanied by fever, blood in the urine or pain,
+    seek medical care.'
+  reference_ids:
+  - REF-0405
+  status: verified
+- note: Contraindicated in pregnancy and breastfeeding and not for use in children or adolescents under
+    18 years.
+  reference_ids:
+  - REF-0405
+  status: verified
+- note: Works best when the urine is alkaline; avoid taking with substances that acidify the urine. The
+    hydroquinone released can be irritant/potentially hepatotoxic, so prolonged or repeated use must be
+    avoided.
+  reference_ids:
+  - REF-0405
+  - REF-0406
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (EMA HMPC monograph, ESCOP
+  monograph, Journal of Ethnopharmacology toxicology study). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (uti, infection); associations retained and now part-mapped and cited.
+  NOTE strict short-term-use and pregnancy contraindications.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

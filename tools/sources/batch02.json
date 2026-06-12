@@ -1,0 +1,152 @@
+[
+  {
+    "file": "astragalus_membranaceus.yaml",
+    "common_names": ["Astragalus", "Huang qi", "Milkvetch root", "Mongolian milkvetch"],
+    "scientific_name": "Astragalus membranaceus",
+    "family": "Fabaceae",
+    "references": {
+      "li2022": {"type": "article", "author": "Li, C.X., Liu, Y., Zhang, Y.Z., Li, J.C. and Lai, J.", "year": "2022", "title": "Astragalus polysaccharide: a review of its immunomodulatory effect", "journal": "Archives of Pharmacal Research", "doi": "10.1007/s12272-022-01393-3"},
+      "zhang2019": {"type": "article", "author": "Zhang, J., Wu, C., Gao, L., Du, G. and Qin, X.", "year": "2019", "title": "Astragaloside IV derived from Astragalus membranaceus: A research review on the pharmacological effects", "journal": "Advances in Pharmacology", "doi": "10.1016/bs.apha.2019.08.002"}
+    },
+    "parts_used": [
+      {"name": "Root", "actions": [
+        {"action": "Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes)", "refs": ["li2022", "zhang2019"], "status": "verified"},
+        {"action": "Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)", "refs": ["zhang2019"], "status": "verified"},
+        {"action": "Supports resistance to colds and respiratory infection (immune)", "refs": ["li2022"], "status": "verified"},
+        {"action": "Renoprotective (kidney support)", "refs": ["zhang2019"], "status": "verified"},
+        {"action": "Antioxidant and anti-inflammatory", "refs": ["zhang2019"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Astragalus polysaccharides (APS)", "note": "Principal immunomodulatory constituents.", "refs": ["li2022"]},
+      {"name": "Cycloartane triterpenoid saponins (astragaloside IV)", "note": "Major bioactive saponin with cardio-, neuro-, hepato- and renoprotective effects.", "refs": ["zhang2019"]},
+      {"name": "Isoflavonoids (calycosin, formononetin)", "note": "Antioxidant flavonoid constituents of the root.", "refs": ["zhang2019"]}
+    ],
+    "contraindications": [
+      {"note": "Astragalus stimulates immune activity; on theoretical grounds it should be used cautiously in autoimmune disease and with immunosuppressant medicines (for example after organ transplant) - discuss with a clinician.", "refs": ["li2022"], "status": "verified"},
+      {"note": "Generally well tolerated; high-quality long-term human safety and toxicity data remain limited.", "refs": ["zhang2019"], "status": "verified"},
+      {"note": "Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses.", "refs": ["zhang2019"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "epilobium_parviflorum.yaml",
+    "common_names": ["Bay-leaf willowherb", "Small-flowered willowherb", "Hoary willowherb"],
+    "scientific_name": "Epilobium parviflorum",
+    "family": "Onagraceae",
+    "references": {
+      "steenkamp2005": {"type": "article", "author": "Steenkamp, V., Gouws, M.C., Gulumian, M., Elgorashi, E.E. and van Staden, J.", "year": "2005", "title": "Studies on antibacterial, anti-inflammatory and antioxidant activity of herbal remedies used in the treatment of benign prostatic hyperplasia and prostatitis", "journal": "Journal of Ethnopharmacology", "doi": "10.1016/j.jep.2005.07.007"},
+      "coulson2013": {"type": "article", "author": "Coulson, S., Rao, A., Beck, S.L., Steels, E., Gramotnev, H. and Vitetta, L.", "year": "2013", "title": "A phase II randomised double-blind placebo-controlled clinical trial investigating the efficacy and safety of ProstateEZE Max: a herbal medicine preparation (containing Epilobium parviflorum) for the management of symptoms of benign prostatic hypertrophy", "journal": "Complementary Therapies in Medicine", "doi": "10.1016/j.ctim.2013.01.007"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (herb)", "actions": [
+        {"action": "Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support)", "refs": ["steenkamp2005", "coulson2013"], "status": "verified"},
+        {"action": "Anti-inflammatory (inhibits COX-1 and COX-2 prostaglandin synthesis)", "refs": ["steenkamp2005"], "status": "verified"},
+        {"action": "Antibacterial, including against Escherichia coli (urinary support)", "refs": ["steenkamp2005"], "status": "verified"},
+        {"action": "Antioxidant (hydroxyl-radical scavenging)", "refs": ["steenkamp2005"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Macrocyclic ellagitannins (notably oenothein B)", "note": "Characteristic Epilobium polyphenols underlying the anti-inflammatory and prostate activity.", "refs": ["steenkamp2005"]},
+      {"name": "Flavonoids (myricetin and quercetin glycosides)", "note": "Antioxidant constituents.", "refs": ["steenkamp2005"]},
+      {"name": "Plant sterols (beta-sitosterol)", "note": "Sterols associated with benign prostatic hyperplasia support.", "refs": ["steenkamp2005"]}
+    ],
+    "contraindications": [
+      {"note": "Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer; willowherb is a supportive measure, not a substitute for diagnosis and treatment.", "refs": ["coulson2013"], "status": "verified"},
+      {"note": "Well tolerated over three months in clinical use; longer-term safety data are limited.", "refs": ["coulson2013"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity study; Complementary Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (prostate-support, uti, inflammation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "arctostaphylos_uva_ursi.yaml",
+    "common_names": ["Bearberry", "Uva-ursi", "Kinnikinnick", "Bear's grape"],
+    "scientific_name": "Arctostaphylos uva-ursi",
+    "family": "Ericaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "2018", "title": "European Union herbal monograph on Arctostaphylos uva-ursi (L.) Spreng., folium (Uvae ursi folium)", "url": "https://www.ema.europa.eu/en/medicines/herbal/uvae-ursi-folium"},
+      "hudek2022": {"type": "article", "author": "Hudek Turkovic, A., Gunjaca, M., Marjanovic, M., Lovric, M., Butorac, A., Rasic, D., Peraica, M., Vujcic Bok, V., Sola, I., Rusak, G. and Durgo, K.", "year": "2022", "title": "Proteome changes in human bladder T24 cells induced by hydroquinone derived from Arctostaphylos uva-ursi herbal preparation", "journal": "Journal of Ethnopharmacology", "doi": "10.1016/j.jep.2022.115092"},
+      "escop": {"type": "misc", "author": "ESCOP (European Scientific Cooperative on Phytotherapy)", "year": "n.d.", "title": "Uvae ursi folium (Bearberry Leaf) monograph", "url": "https://www.escop.com/downloads/bearberry-leaf/"}
+    },
+    "parts_used": [
+      {"name": "Leaf", "actions": [
+        {"action": "Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)", "refs": ["ema", "hudek2022"], "status": "verified"},
+        {"action": "Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured by alkaline urine)", "refs": ["ema", "hudek2022"], "status": "verified"},
+        {"action": "Astringent (tannins)", "refs": ["ema", "escop"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Arbutin (and methylarbutin)", "note": "Hydroquinone glycoside; hydrolysed and excreted as antibacterial hydroquinone in the urine.", "refs": ["ema", "hudek2022"]},
+      {"name": "Tannins (gallotannins)", "note": "Up to ~20%; responsible for the astringency and for gastric irritation at high doses.", "refs": ["ema", "escop"]},
+      {"name": "Flavonoids and phenolic acids", "note": "Antioxidant constituents of the leaf.", "refs": ["escop"]}
+    ],
+    "contraindications": [
+      {"note": "Short-term use only: not for more than 1 week at a time and not more than about 5 times per year. If symptoms persist beyond ~4 days, worsen, or are accompanied by fever, blood in the urine or pain, seek medical care.", "refs": ["ema"], "status": "verified"},
+      {"note": "Contraindicated in pregnancy and breastfeeding and not for use in children or adolescents under 18 years.", "refs": ["ema"], "status": "verified"},
+      {"note": "Works best when the urine is alkaline; avoid taking with substances that acidify the urine. The hydroquinone released can be irritant/potentially hepatotoxic, so prolonged or repeated use must be avoided.", "refs": ["ema", "hudek2022"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and regulatory literature (EMA HMPC monograph, ESCOP monograph, Journal of Ethnopharmacology toxicology study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (uti, infection); associations retained and now part-mapped and cited. NOTE strict short-term-use and pregnancy contraindications.",
+    "status": "verified"
+  },
+  {
+    "file": "vaccinium_myrtillus.yaml",
+    "common_names": ["Bilberry", "European blueberry", "Whortleberry", "Huckleberry"],
+    "scientific_name": "Vaccinium myrtillus",
+    "family": "Ericaceae",
+    "references": {
+      "canter2004": {"type": "article", "author": "Canter, P.H. and Ernst, E.", "year": "2004", "title": "Anthocyanosides of Vaccinium myrtillus (bilberry) for night vision - a systematic review of placebo-controlled trials", "journal": "Survey of Ophthalmology", "doi": "10.1016/j.survophthal.2003.10.006"},
+      "chan2020": {"type": "article", "author": "Chan, S.W. and Tomlinson, B.", "year": "2020", "title": "Effects of Bilberry Supplementation on Metabolic and Cardiovascular Disease Risk", "journal": "Molecules", "doi": "10.3390/molecules25071653"}
+    },
+    "parts_used": [
+      {"name": "Fruit (berry)", "actions": [
+        {"action": "Traditional support for eye strain and vision (note: rigorous trials do NOT support improved night vision in healthy eyes)", "refs": ["canter2004"], "status": "verified"},
+        {"action": "Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous insufficiency)", "refs": ["chan2020"], "status": "needs-review"},
+        {"action": "Antioxidant and anti-inflammatory", "refs": ["chan2020"], "status": "verified"},
+        {"action": "Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)", "refs": ["chan2020"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Anthocyanins (anthocyanosides)", "note": "The deep blue-purple pigments; the principal antioxidant constituents.", "refs": ["chan2020", "canter2004"]},
+      {"name": "Other flavonoids and tannins", "note": "Contribute to antioxidant and astringent activity.", "refs": ["chan2020"]},
+      {"name": "Vitamin C and organic acids", "note": "Minor nutritive constituents of the berry.", "refs": ["chan2020"]}
+    ],
+    "contraindications": [
+      {"note": "The berry is a food and generally very safe; long-term safety of concentrated high-dose extracts is less well characterised.", "refs": ["chan2020"], "status": "verified"},
+      {"note": "May lower blood sugar and has mild antiplatelet potential, so use cautiously alongside antidiabetic or anticoagulant/antiplatelet medication.", "refs": ["chan2020"], "status": "verified"},
+      {"note": "Claims that bilberry improves night vision in people with normal sight are not supported by rigorous clinical trials.", "refs": ["canter2004"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Survey of Ophthalmology systematic review; Molecules review of metabolic/cardiovascular effects). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, varicose-veins, high-cholesterol, inflammation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "bistorta_officinalis.yaml",
+    "common_names": ["Bistort", "Common bistort", "Snakeroot", "Easter-ledges", "Adderwort"],
+    "scientific_name": "Bistorta officinalis",
+    "family": "Polygonaceae",
+    "references": {
+      "review2020": {"type": "article", "author": "", "year": "2020", "title": "Antibacterial and anti-inflammatory activity of bistort (Bistorta officinalis) aqueous extract and its major components - justification of the usage of the medicinal plant material as a traditional topical agent", "journal": "Journal of Ethnopharmacology", "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378874120321061"},
+      "webmd": {"type": "misc", "author": "WebMD", "year": "n.d.", "title": "Bistort: Overview, Uses, Side Effects, Precautions, Interactions, Dosing and Reviews", "url": "https://www.webmd.com/vitamins/ai/ingredientmono-75/bistort"}
+    },
+    "parts_used": [
+      {"name": "Rhizome (root) and aerial parts", "actions": [
+        {"action": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)", "refs": ["review2020", "webmd"], "status": "verified"},
+        {"action": "Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)", "refs": ["review2020", "webmd"], "status": "verified"},
+        {"action": "Vulnerary and styptic for minor wounds (topical)", "refs": ["review2020", "webmd"], "status": "verified"},
+        {"action": "Antibacterial (topical)", "refs": ["review2020"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Tannins (15-36% of the rhizome: oligomeric proanthocyanidins, gallotannins, catechins)", "note": "Very high tannin content is the basis of the strong astringency.", "refs": ["webmd", "review2020"]},
+      {"name": "Phenolic acids and flavonoids", "note": "Contribute to antioxidant and antibacterial activity.", "refs": ["review2020"]},
+      {"name": "Starch and oxalic acid", "note": "Other rhizome constituents.", "refs": ["webmd"]}
+    ],
+    "contraindications": [
+      {"note": "Very tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce the absorption of iron and some medicines taken at the same time.", "refs": ["webmd"], "status": "verified"},
+      {"note": "Traditional use only; diarrhoea persisting beyond a few days, or mouth/throat inflammation that does not settle, needs medical assessment.", "refs": ["webmd"], "status": "verified"},
+      {"note": "Safety in pregnancy and breastfeeding is not established; avoid medicinal doses.", "refs": ["webmd"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (Journal of Ethnopharmacology activity study; WebMD monograph). Bistorta officinalis = Persicaria bistorta = Polygonum bistorta. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, wounds); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

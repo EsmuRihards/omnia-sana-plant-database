@@ -1,23 +1,47 @@
 common_names:
 - Saw Palmetto
+- Sabal
+- Dwarf palmetto
 scientific_name: Serenoa repens
 family: Arecaceae
 parts_used:
-- name: Whole plant
+- name: Fruit (berry)
   medicinal_actions:
-  - action: Prostate support (symptom-lookup evidence 4/4)
+  - action: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
+      Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Urinary tract infection (UTI) (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
+    - REF-0504
+    - REF-0496
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+  - action: General urinary support (traditional)
+    reference_ids:
+    - REF-0496
+    status: needs-review
+constituents:
+- name: Fatty acids and phytosterols (beta-sitosterol)
+  note: The lipid/sterol fraction proposed to act on the prostate.
+  reference_ids:
+  - REF-0496
+- name: Flavonoids
+  note: Antioxidant constituents of the berry.
+  reference_ids:
+  - REF-0496
+contraindications:
+- note: Generally well tolerated; mild gastrointestinal upset is the most common effect. BPH must be medically
+    diagnosed (to exclude prostate cancer), and because the best evidence does not show benefit, saw palmetto
+    should not replace proven treatment.
+  reference_ids:
+  - REF-0504
+  - REF-0496
+  status: verified
+- note: Has mild anti-androgen and antiplatelet effects, so use caution with anticoagulant medicines and
+    before surgery; avoid in pregnancy (hormonal activity).
+  reference_ids:
+  - REF-0496
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane systematic review/meta-analysis;
+  Canadian Journal of Urology review). High-quality evidence finds no benefit over placebo, reflected
+  in needs-review action statuses. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (prostate-support, uti); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

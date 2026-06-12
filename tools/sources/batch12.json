@@ -1,0 +1,139 @@
+[
+  {
+    "file": "prunus_africana.yaml",
+    "common_names": ["Pygeum", "African cherry", "Red stinkwood", "African plum"],
+    "scientific_name": "Prunus africana",
+    "family": "Rosaceae",
+    "references": {
+      "keehn2015": {"type": "article", "author": "Keehn, A. and Lowe, F.C.", "year": "2015", "title": "Complementary and alternative medications for benign prostatic hyperplasia", "journal": "The Canadian Journal of Urology"}
+    },
+    "parts_used": [
+      {"name": "Bark", "actions": [
+        {"action": "Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - small trials are positive but larger, better-designed trials show no significant benefit over placebo", "refs": ["keehn2015"], "status": "needs-review"},
+        {"action": "Anti-inflammatory (prostate)", "refs": ["keehn2015"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Phytosterols (beta-sitosterol)", "note": "Sterols associated with the prostate-supporting activity.", "refs": ["keehn2015"]},
+      {"name": "Pentacyclic triterpenes (ursolic and oleanolic acid) and ferulic acid esters", "note": "Anti-inflammatory supporting constituents of the bark.", "refs": ["keehn2015"]}
+    ],
+    "contraindications": [
+      {"note": "Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer. Best available evidence does not show a significant benefit over placebo, so men with moderate or severe BPH should not rely on it instead of proven treatment.", "refs": ["keehn2015"], "status": "verified"},
+      {"note": "Generally well tolerated, with mild gastrointestinal effects the most common report.", "refs": ["keehn2015"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Canadian Journal of Urology review of phytotherapy for BPH). Evidence for efficacy is weak/mixed, reflected in needs-review action statuses. Note: Prunus africana is a conservation-threatened species (CITES-listed) - sustainable sourcing matters. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (prostate-support); association retained and now cited.",
+    "status": "verified"
+  },
+  {
+    "file": "rubus_idaeus.yaml",
+    "common_names": ["Raspberry Leaf", "Red raspberry", "Garden raspberry"],
+    "scientific_name": "Rubus idaeus",
+    "family": "Rosaceae",
+    "references": {
+      "bowman2024": {"type": "article", "author": "Bowman, R.L., Taylor, J. and Davis, D.L.", "year": "2024", "title": "Raspberry leaf (Rubus idaeus) use in pregnancy: a prospective observational study", "journal": "BMC Complementary Medicine and Therapies", "doi": "10.1186/s12906-024-04465-7"},
+      "farnaghi2022": {"type": "article", "author": "Farnaghi, S. and Braniff, K.", "year": "2022", "title": "Survey of Raspberry Leaf Tea in pregnancy", "journal": "Australian and New Zealand Journal of Obstetrics and Gynaecology", "doi": "10.1111/ajo.13496"}
+    },
+    "parts_used": [
+      {"name": "Leaf", "actions": [
+        {"action": "Traditional uterine tonic taken in late pregnancy to tone the uterus and support labour (observational signals only - no randomised-trial proof)", "refs": ["bowman2024", "farnaghi2022"], "status": "needs-review"},
+        {"action": "Astringent for menstrual cramps (traditional)", "refs": ["bowman2024"], "status": "needs-review"},
+        {"action": "Astringent for mild diarrhoea (tannins)", "refs": ["bowman2024"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Tannins", "note": "Astringent constituents of the leaf.", "refs": ["bowman2024"]},
+      {"name": "Flavonoids and the alkaloid fragarine", "note": "Fragarine is the constituent proposed to give the uterine-toning effect.", "refs": ["bowman2024"]},
+      {"name": "Vitamin C and minerals", "note": "Nutritive constituents.", "refs": ["bowman2024"]}
+    ],
+    "contraindications": [
+      {"note": "Despite widespread popular use, there is no robust (randomised-trial) evidence of efficacy or safety. Use in pregnancy should be discussed with a midwife or doctor and is generally reserved for the last few weeks rather than early pregnancy.", "refs": ["bowman2024", "farnaghi2022"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies observational study; ANZJOG survey). Evidence is weak/observational, reflected in needs-review action statuses. Note: distinct from the book's Rubus fruticosus (blackberry leaf). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps, pregnancy-support, diarrhea); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "plantago_lanceolata.yaml",
+    "common_names": ["Ribwort Plantain", "Narrowleaf plantain", "English plantain", "Lamb's tongue"],
+    "scientific_name": "Plantago lanceolata",
+    "family": "Plantaginaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Plantago lanceolata L., folium (Plantaginis lanceolatae folium)", "url": "https://www.ema.europa.eu/en/medicines/herbal/plantaginis-lanceolatae-folium"},
+      "escop": {"type": "misc", "author": "ESCOP (European Scientific Cooperative on Phytotherapy)", "year": "n.d.", "title": "Plantaginis lanceolatae folium-herba (Ribwort Plantain Leaf/Herb) monograph", "url": "https://www.escop.com/downloads/ribwort-plantain-leaf-herb/"}
+    },
+    "parts_used": [
+      {"name": "Leaf (and aerial parts)", "actions": [
+        {"action": "Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage soothes and protects irritated airways)", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat)", "refs": ["ema"], "status": "verified"},
+        {"action": "Vulnerary for minor wounds and insect bites (topical)", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Antibacterial, antiviral and immunostimulant (in vitro)", "refs": ["escop", "ema"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Iridoid glycosides (aucubin, catalpol)", "note": "Anti-inflammatory and antimicrobial constituents.", "refs": ["ema"]},
+      {"name": "Mucilage polysaccharides (~2-3%)", "note": "Coat and protect inflamed mucous membranes and reduce cough-receptor sensitivity.", "refs": ["ema"]},
+      {"name": "Phenylethanoids (acteoside/verbascoside, plantamajoside) and flavonoids (apigenin, luteolin)", "note": "Antioxidant and anti-inflammatory constituents.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Generally very well tolerated. A cough or throat irritation that persists beyond about a week, or is accompanied by fever or breathlessness, needs medical assessment.", "refs": ["ema"], "status": "verified"},
+      {"note": "Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs). Note: distinct from the book's Plantago major (greater plantain). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, wounds, inflammation, bronchitis); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "salvia_officinalis.yaml",
+    "common_names": ["Sage", "Common sage", "Garden sage", "True sage"],
+    "scientific_name": "Salvia officinalis",
+    "family": "Lamiaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Salvia officinalis L., folium (Salviae officinalis folium)", "url": "https://www.ema.europa.eu/en/medicines/herbal/salviae-officinalis-folium"},
+      "miroddi2014": {"type": "article", "author": "Miroddi, M., Navarra, M., Quattropani, M.C., Calapai, F., Gangemi, S. and Calapai, G.", "year": "2014", "title": "Systematic review of clinical trials assessing pharmacological properties of Salvia species on memory, cognitive impairment and Alzheimer's disease", "journal": "CNS Neuroscience & Therapeutics", "doi": "10.1111/cns.12270"},
+      "perry2010": {"type": "article", "author": "Perry, E. and Howes, M.J.R.", "year": "2010", "title": "Medicinal plants and dementia therapy: herbal hopes for brain aging?", "journal": "CNS Neuroscience & Therapeutics", "doi": "10.1111/j.1755-5949.2010.00202.x"}
+    },
+    "parts_used": [
+      {"name": "Leaf", "actions": [
+        {"action": "Gargle/rinse for sore throat and inflammation of the mouth and throat", "refs": ["ema"], "status": "verified"},
+        {"action": "Memory and cognitive-function support (enhances cognition in healthy subjects and people with dementia)", "refs": ["miroddi2014", "perry2010"], "status": "verified"},
+        {"action": "Reduces excessive sweating, including menopausal hot flushes and night sweats", "refs": ["ema"], "status": "verified"},
+        {"action": "Carminative for mild dyspeptic complaints (indigestion)", "refs": ["ema"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Essential oil (thujone, 1,8-cineole, camphor, borneol)", "note": "Aromatic constituents; thujone is the safety-limiting compound.", "refs": ["ema"]},
+      {"name": "Rosmarinic acid and other phenolic acids", "note": "Antioxidant and anti-inflammatory constituents associated with the cognitive effects.", "refs": ["ema", "miroddi2014"]},
+      {"name": "Flavonoids", "note": "Additional antioxidant constituents.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "The essential oil contains thujone, which is neurotoxic and can trigger seizures in high doses - do not exceed recommended doses and do not take the pure essential oil internally; avoid medicinal doses in epilepsy.", "refs": ["ema"], "status": "verified"},
+      {"note": "Avoid medicinal and essential-oil doses in pregnancy and breastfeeding (thujone; sage may also reduce milk supply). Culinary amounts are safe.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph; CNS Neuroscience & Therapeutics systematic review and dementia review). Note: this is Salvia officinalis, distinct from the book's Salvia hispanica (chia) and Salvia rosmarinus (rosemary). Originally a skeleton from the omniasana.bio Symptom-to-Plant Lookup tool (sore-throat, memory, hot-flashes, menopause, indigestion, cognitive-function); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "serenoa_repens.yaml",
+    "common_names": ["Saw Palmetto", "Sabal", "Dwarf palmetto"],
+    "scientific_name": "Serenoa repens",
+    "family": "Arecaceae",
+    "references": {
+      "tacklind2012": {"type": "article", "author": "Tacklind, J., Macdonald, R., Rutks, I., Stanke, J.U. and Wilt, T.J.", "year": "2012", "title": "Serenoa repens for benign prostatic hyperplasia", "journal": "Cochrane Database of Systematic Reviews", "doi": "10.1002/14651858.CD001423.pub3"},
+      "keehn2015": {"type": "article", "author": "Keehn, A. and Lowe, F.C.", "year": "2015", "title": "Complementary and alternative medications for benign prostatic hyperplasia", "journal": "The Canadian Journal of Urology"}
+    },
+    "parts_used": [
+      {"name": "Fruit (berry)", "actions": [
+        {"action": "Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even at double and triple doses", "refs": ["tacklind2012", "keehn2015"], "status": "needs-review"},
+        {"action": "General urinary support (traditional)", "refs": ["keehn2015"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Fatty acids and phytosterols (beta-sitosterol)", "note": "The lipid/sterol fraction proposed to act on the prostate.", "refs": ["keehn2015"]},
+      {"name": "Flavonoids", "note": "Antioxidant constituents of the berry.", "refs": ["keehn2015"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; mild gastrointestinal upset is the most common effect. BPH must be medically diagnosed (to exclude prostate cancer), and because the best evidence does not show benefit, saw palmetto should not replace proven treatment.", "refs": ["tacklind2012", "keehn2015"], "status": "verified"},
+      {"note": "Has mild anti-androgen and antiplatelet effects, so use caution with anticoagulant medicines and before surgery; avoid in pregnancy (hormonal activity).", "refs": ["keehn2015"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Cochrane systematic review/meta-analysis; Canadian Journal of Urology review). High-quality evidence finds no benefit over placebo, reflected in needs-review action statuses. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (prostate-support, uti); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

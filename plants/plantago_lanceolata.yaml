@@ -1,35 +1,59 @@
 common_names:
 - Ribwort Plantain
+- Narrowleaf plantain
+- English plantain
+- Lamb's tongue
 scientific_name: Plantago lanceolata
 family: Plantaginaceae
 parts_used:
-- name: Whole plant
+- name: Leaf (and aerial parts)
   medicinal_actions:
-  - action: Cough (symptom-lookup evidence 3/4)
+  - action: Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage
+      soothes and protects irritated airways)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Bronchitis (symptom-lookup evidence 2/4)
+    - REF-0499
+    - REF-0500
+    status: verified
+  - action: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
+    - REF-0499
+    status: verified
+  - action: Vulnerary for minor wounds and insect bites (topical)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Sore throat (symptom-lookup evidence 2/4)
+    - REF-0499
+    - REF-0500
+    status: verified
+  - action: Antibacterial, antiviral and immunostimulant (in vitro)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Wounds (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0500
+    - REF-0499
+    status: verified
+constituents:
+- name: Iridoid glycosides (aucubin, catalpol)
+  note: Anti-inflammatory and antimicrobial constituents.
+  reference_ids:
+  - REF-0499
+- name: Mucilage polysaccharides (~2-3%)
+  note: Coat and protect inflamed mucous membranes and reduce cough-receptor sensitivity.
+  reference_ids:
+  - REF-0499
+- name: Phenylethanoids (acteoside/verbascoside, plantamajoside) and flavonoids (apigenin, luteolin)
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0499
+contraindications:
+- note: Generally very well tolerated. A cough or throat irritation that persists beyond about a week,
+    or is accompanied by fever or breathlessness, needs medical assessment.
+  reference_ids:
+  - REF-0499
+  status: verified
+- note: Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.
+  reference_ids:
+  - REF-0499
+  status: verified
+internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs).
+  Note: distinct from the book''s Plantago major (greater plantain). Originally a skeleton imported from
+  the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, wounds, inflammation, bronchitis);
+  associations retained and now part-mapped and cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

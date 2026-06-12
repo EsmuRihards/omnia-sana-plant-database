@@ -1,19 +1,46 @@
 common_names:
 - Pygeum
+- African cherry
+- Red stinkwood
+- African plum
 scientific_name: Prunus africana
 family: Rosaceae
 parts_used:
-- name: Whole plant
+- name: Bark
   medicinal_actions:
-  - action: Prostate support (symptom-lookup evidence 3/4)
+  - action: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - small trials
+      are positive but larger, better-designed trials show no significant benefit over placebo
     reference_ids:
-    - REF-0384
-    status: draft
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0496
+    status: needs-review
+  - action: Anti-inflammatory (prostate)
+    reference_ids:
+    - REF-0496
+    status: needs-review
+constituents:
+- name: Phytosterols (beta-sitosterol)
+  note: Sterols associated with the prostate-supporting activity.
+  reference_ids:
+  - REF-0496
+- name: Pentacyclic triterpenes (ursolic and oleanolic acid) and ferulic acid esters
+  note: Anti-inflammatory supporting constituents of the bark.
+  reference_ids:
+  - REF-0496
+contraindications:
+- note: Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer.
+    Best available evidence does not show a significant benefit over placebo, so men with moderate or
+    severe BPH should not rely on it instead of proven treatment.
+  reference_ids:
+  - REF-0496
+  status: verified
+- note: Generally well tolerated, with mild gastrointestinal effects the most common report.
+  reference_ids:
+  - REF-0496
+  status: verified
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journal of Urology review of
+  phytotherapy for BPH). Evidence for efficacy is weak/mixed, reflected in needs-review action statuses.
+  Note: Prunus africana is a conservation-threatened species (CITES-listed) - sustainable sourcing matters.
+  Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (prostate-support);
+  association retained and now cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

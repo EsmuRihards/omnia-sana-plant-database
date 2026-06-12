@@ -1,27 +1,51 @@
 common_names:
 - Raspberry Leaf
+- Red raspberry
+- Garden raspberry
 scientific_name: Rubus idaeus
 family: Rosaceae
 parts_used:
-- name: Whole plant
+- name: Leaf
   medicinal_actions:
-  - action: Menstrual cramps (symptom-lookup evidence 2/4)
+  - action: Traditional uterine tonic taken in late pregnancy to tone the uterus and support labour (observational
+      signals only - no randomised-trial proof)
     reference_ids:
-    - REF-0384
+    - REF-0497
+    - REF-0498
     status: needs-review
-  - action: Pregnancy support (symptom-lookup evidence 2/4)
+  - action: Astringent for menstrual cramps (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0497
     status: needs-review
-  - action: Diarrhea (symptom-lookup evidence 1/4)
+  - action: Astringent for mild diarrhoea (tannins)
     reference_ids:
-    - REF-0384
+    - REF-0497
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Tannins
+  note: Astringent constituents of the leaf.
+  reference_ids:
+  - REF-0497
+- name: Flavonoids and the alkaloid fragarine
+  note: Fragarine is the constituent proposed to give the uterine-toning effect.
+  reference_ids:
+  - REF-0497
+- name: Vitamin C and minerals
+  note: Nutritive constituents.
+  reference_ids:
+  - REF-0497
+contraindications:
+- note: Despite widespread popular use, there is no robust (randomised-trial) evidence of efficacy or
+    safety. Use in pregnancy should be discussed with a midwife or doctor and is generally reserved for
+    the last few weeks rather than early pregnancy.
+  reference_ids:
+  - REF-0497
+  - REF-0498
+  status: verified
+internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
+  observational study; ANZJOG survey). Evidence is weak/observational, reflected in needs-review action
+  statuses. Note: distinct from the book''s Rubus fruticosus (blackberry leaf). Originally a skeleton
+  imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps, pregnancy-support, diarrhea);
+  associations retained and now part-mapped and cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

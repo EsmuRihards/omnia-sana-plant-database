@@ -1,39 +1,61 @@
 common_names:
 - Sage
+- Common sage
+- Garden sage
+- True sage
 scientific_name: Salvia officinalis
 family: Lamiaceae
 parts_used:
-- name: Whole plant
+- name: Leaf
   medicinal_actions:
-  - action: Hot flashes (symptom-lookup evidence 3/4)
+  - action: Gargle/rinse for sore throat and inflammation of the mouth and throat
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Memory (symptom-lookup evidence 3/4)
+    - REF-0501
+    status: verified
+  - action: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
+      dementia)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Sore throat (symptom-lookup evidence 3/4)
+    - REF-0502
+    - REF-0503
+    status: verified
+  - action: Reduces excessive sweating, including menopausal hot flushes and night sweats
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Cognitive function (symptom-lookup evidence 2/4)
+    - REF-0501
+    status: verified
+  - action: Carminative for mild dyspeptic complaints (indigestion)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Indigestion (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Menopause (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0501
+    status: verified
+constituents:
+- name: Essential oil (thujone, 1,8-cineole, camphor, borneol)
+  note: Aromatic constituents; thujone is the safety-limiting compound.
+  reference_ids:
+  - REF-0501
+- name: Rosmarinic acid and other phenolic acids
+  note: Antioxidant and anti-inflammatory constituents associated with the cognitive effects.
+  reference_ids:
+  - REF-0501
+  - REF-0502
+- name: Flavonoids
+  note: Additional antioxidant constituents.
+  reference_ids:
+  - REF-0501
+contraindications:
+- note: The essential oil contains thujone, which is neurotoxic and can trigger seizures in high doses
+    - do not exceed recommended doses and do not take the pure essential oil internally; avoid medicinal
+    doses in epilepsy.
+  reference_ids:
+  - REF-0501
+  status: verified
+- note: Avoid medicinal and essential-oil doses in pregnancy and breastfeeding (thujone; sage may also
+    reduce milk supply). Culinary amounts are safe.
+  reference_ids:
+  - REF-0501
+  status: verified
+internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph; CNS
+  Neuroscience & Therapeutics systematic review and dementia review). Note: this is Salvia officinalis,
+  distinct from the book''s Salvia hispanica (chia) and Salvia rosmarinus (rosemary). Originally a skeleton
+  from the omniasana.bio Symptom-to-Plant Lookup tool (sore-throat, memory, hot-flashes, menopause, indigestion,
+  cognitive-function); associations retained and now part-mapped and cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,31 +1,68 @@
 common_names:
 - Chasteberry
+- Chaste tree
+- Monk's pepper
+- Agnus castus
 scientific_name: Vitex agnus-castus
 family: Lamiaceae
 parts_used:
-- name: Whole plant
+- name: Fruit (berry)
   medicinal_actions:
-  - action: Premenstrual syndrome (PMS) (symptom-lookup evidence 4/4)
+  - action: Relief of premenstrual syndrome (PMS) symptoms
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Menstrual cramps (symptom-lookup evidence 3/4)
+    - REF-0433
+    status: verified
+  - action: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Menopause (symptom-lookup evidence 2/4)
+    - REF-0433
+    - REF-0435
+    status: verified
+  - action: Lowers mildly raised prolactin and normalises a short luteal phase (dopaminergic D2 action)
     reference_ids:
-    - REF-0384
+    - REF-0435
+    - REF-0433
+    status: verified
+  - action: Supports menstrual irregularities and perimenopausal cycle symptoms (traditional / Commission
+      E)
+    reference_ids:
+    - REF-0434
+    status: verified
+  - action: Cycle-related (hormonal) acne (traditional)
+    reference_ids:
+    - REF-0434
     status: needs-review
-  - action: Acne (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Diterpenes (e.g. rotundifuran, clerodadienols)
+  note: Bind dopamine D2 receptors in the pituitary, reducing prolactin release - the key mechanism.
+  reference_ids:
+  - REF-0435
+- name: Flavonoids (casticin, vitexin)
+  note: Antioxidant constituents of the fruit.
+  reference_ids:
+  - REF-0433
+- name: Iridoid glycosides (agnuside, aucubin)
+  note: Characteristic constituents used in standardisation.
+  reference_ids:
+  - REF-0434
+contraindications:
+- note: Reported adverse events are mild and reversible (nausea, headache, gastrointestinal upset, menstrual
+    changes, acne, itching or rash).
+  reference_ids:
+  - REF-0434
+  status: verified
+- note: Because it acts on dopamine and the hormonal axis, avoid alongside dopamine-antagonist (antipsychotic)
+    or dopamine-agonist drugs and use caution with hormonal medicines (oral contraceptives, HRT) and hormone-sensitive
+    conditions.
+  reference_ids:
+  - REF-0434
+  status: verified
+- note: Avoid during pregnancy and breastfeeding.
+  reference_ids:
+  - REF-0434
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Planta Medica efficacy review; Drug Safety
+  adverse-events review; Frontiers in Endocrinology prolactin review). Vitex is now placed in Lamiaceae
+  (formerly Verbenaceae). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (pms, menstrual-cramps, menopause, acne); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

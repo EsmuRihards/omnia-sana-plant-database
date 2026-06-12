@@ -1,27 +1,55 @@
 common_names:
 - Couch Grass
+- Twitch grass
+- Quack grass
+- Dog grass
 scientific_name: Elymus repens
 family: Poaceae
 parts_used:
-- name: Whole plant
+- name: Rhizome
   medicinal_actions:
-  - action: Kidney support (symptom-lookup evidence 1/4)
+  - action: Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with
+      plenty of fluids)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Swelling (symptom-lookup evidence 1/4)
+    - REF-0437
+    - REF-0438
+    status: verified
+  - action: Soothing demulcent (mucilage) for urinary-tract irritation
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Urinary tract infection (UTI) (symptom-lookup evidence 1/4)
+    - REF-0438
+    status: verified
+  - action: Supports mild fluid retention / swelling
     reference_ids:
-    - REF-0384
+    - REF-0437
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Polysaccharides (the fructan triticin) and mucilage
+  note: Soothing, demulcent carbohydrates of the rhizome.
+  reference_ids:
+  - REF-0437
+  - REF-0438
+- name: Flavonoids and phenolic acids (caffeoyl/feruloyl quinic esters)
+  note: Antioxidant constituents.
+  reference_ids:
+  - REF-0437
+- name: Small amount of volatile oil (agropyrene)
+  note: Minor aromatic constituent.
+  reference_ids:
+  - REF-0438
+contraindications:
+- note: Drink plenty of fluids during use. Irrigation therapy must NOT be used if there is oedema (swelling)
+    due to impaired heart or kidney function.
+  reference_ids:
+  - REF-0437
+  status: verified
+- note: Traditional use only; if urinary symptoms persist or are accompanied by fever, spasms or blood
+    in the urine, seek medical care. Use in pregnancy and breastfeeding is not recommended.
+  reference_ids:
+  - REF-0437
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph; ESCOP
+  monograph). Elymus repens = Agropyron repens = Elytrigia repens. Originally a skeleton imported from
+  the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained
+  and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

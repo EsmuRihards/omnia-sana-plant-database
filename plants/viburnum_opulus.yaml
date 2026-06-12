@@ -1,27 +1,55 @@
 common_names:
 - Cramp Bark
+- Guelder rose
+- Snowball tree
+- High cranberry
 scientific_name: Viburnum opulus
 family: Adoxaceae
 parts_used:
-- name: Whole plant
+- name: Bark (stem bark)
   medicinal_actions:
-  - action: Menstrual cramps (symptom-lookup evidence 2/4)
+  - action: Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Muscle spasm (symptom-lookup evidence 2/4)
+    - REF-0439
+    - REF-0440
+    status: verified
+  - action: Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Pain (symptom-lookup evidence 1/4)
+    - REF-0439
+    status: verified
+  - action: Mild analgesic for cramping pain
     reference_ids:
-    - REF-0384
+    - REF-0439
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Coumarins (scopoletin)
+  note: A principal antispasmodic constituent of the bark.
+  reference_ids:
+  - REF-0439
+- name: Viopudial and hydroquinones (arbutin)
+  note: Contribute to the smooth-muscle-relaxant and astringent activity.
+  reference_ids:
+  - REF-0439
+  - REF-0440
+- name: Tannins
+  note: Astringent constituents.
+  reference_ids:
+  - REF-0439
+contraindications:
+- note: Only the bark is used medicinally; the raw berries are toxic and cause stomach upset, vomiting
+    and diarrhoea if eaten in quantity.
+  reference_ids:
+  - REF-0440
+  - REF-0439
+  status: verified
+- note: Human safety data are limited; medicinal use in pregnancy or breastfeeding should only be under
+    the guidance of a qualified practitioner.
+  reference_ids:
+  - REF-0439
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect
+  overview). Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review.
+  Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps,
+  muscle-spasm, pain); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

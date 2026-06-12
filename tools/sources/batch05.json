@@ -1,0 +1,145 @@
+[
+  {
+    "file": "vitex_agnus_castus.yaml",
+    "common_names": ["Chasteberry", "Chaste tree", "Monk's pepper", "Agnus castus"],
+    "scientific_name": "Vitex agnus-castus",
+    "family": "Lamiaceae",
+    "references": {
+      "vandie2012": {"type": "article", "author": "van Die, M.D., Burger, H.G., Teede, H.J. and Bone, K.M.", "year": "2012", "title": "Vitex agnus-castus extracts for female reproductive disorders: a systematic review of clinical trials", "journal": "Planta Medica", "doi": "10.1055/s-0032-1327831"},
+      "daniele2005": {"type": "article", "author": "Daniele, C., Thompson Coon, J., Pittler, M.H. and Ernst, E.", "year": "2005", "title": "Vitex agnus castus: a systematic review of adverse events", "journal": "Drug Safety", "doi": "10.2165/00002018-200528040-00004"},
+      "puglia2023": {"type": "article", "author": "Puglia, L.T., Lowry, J. and Tamagno, G.", "year": "2023", "title": "Vitex agnus castus effects on hyperprolactinaemia", "journal": "Frontiers in Endocrinology", "doi": "10.3389/fendo.2023.1269781"}
+    },
+    "parts_used": [
+      {"name": "Fruit (berry)", "actions": [
+        {"action": "Relief of premenstrual syndrome (PMS) symptoms", "refs": ["vandie2012"], "status": "verified"},
+        {"action": "Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping", "refs": ["vandie2012", "puglia2023"], "status": "verified"},
+        {"action": "Lowers mildly raised prolactin and normalises a short luteal phase (dopaminergic D2 action)", "refs": ["puglia2023", "vandie2012"], "status": "verified"},
+        {"action": "Supports menstrual irregularities and perimenopausal cycle symptoms (traditional / Commission E)", "refs": ["daniele2005"], "status": "verified"},
+        {"action": "Cycle-related (hormonal) acne (traditional)", "refs": ["daniele2005"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Diterpenes (e.g. rotundifuran, clerodadienols)", "note": "Bind dopamine D2 receptors in the pituitary, reducing prolactin release - the key mechanism.", "refs": ["puglia2023"]},
+      {"name": "Flavonoids (casticin, vitexin)", "note": "Antioxidant constituents of the fruit.", "refs": ["vandie2012"]},
+      {"name": "Iridoid glycosides (agnuside, aucubin)", "note": "Characteristic constituents used in standardisation.", "refs": ["daniele2005"]}
+    ],
+    "contraindications": [
+      {"note": "Reported adverse events are mild and reversible (nausea, headache, gastrointestinal upset, menstrual changes, acne, itching or rash).", "refs": ["daniele2005"], "status": "verified"},
+      {"note": "Because it acts on dopamine and the hormonal axis, avoid alongside dopamine-antagonist (antipsychotic) or dopamine-agonist drugs and use caution with hormonal medicines (oral contraceptives, HRT) and hormone-sensitive conditions.", "refs": ["daniele2005"], "status": "verified"},
+      {"note": "Avoid during pregnancy and breastfeeding.", "refs": ["daniele2005"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Planta Medica efficacy review; Drug Safety adverse-events review; Frontiers in Endocrinology prolactin review). Vitex is now placed in Lamiaceae (formerly Verbenaceae). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (pms, menstrual-cramps, menopause, acne); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "zea_mays.yaml",
+    "common_names": ["Corn Silk", "Maize silk", "Stigma maydis"],
+    "scientific_name": "Zea mays",
+    "family": "Poaceae",
+    "references": {
+      "hasanudin2012": {"type": "article", "author": "Hasanudin, K., Hashim, P. and Mustafa, S.", "year": "2012", "title": "Corn Silk (Stigma Maydis) in Healthcare: A Phytochemical and Pharmacological Review", "journal": "Molecules", "doi": "10.3390/molecules171112937"}
+    },
+    "parts_used": [
+      {"name": "Stigmas and styles (corn silk)", "actions": [
+        {"action": "Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling", "refs": ["hasanudin2012"], "status": "verified"},
+        {"action": "Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function", "refs": ["hasanudin2012"], "status": "verified"},
+        {"action": "Antioxidant and anti-inflammatory", "refs": ["hasanudin2012"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Flavonoids (including maysin)", "note": "Major antioxidant constituents of corn silk.", "refs": ["hasanudin2012"]},
+      {"name": "Phenolic compounds", "note": "Contribute to antioxidant and anti-inflammatory activity.", "refs": ["hasanudin2012"]},
+      {"name": "Potassium salts, polysaccharides and saponins", "note": "Associated with the diuretic and demulcent actions.", "refs": ["hasanudin2012"]}
+    ],
+    "contraindications": [
+      {"note": "As a diuretic it should be taken with plenty of fluids; use caution alongside prescription diuretics or medicines that affect potassium.", "refs": ["hasanudin2012"], "status": "verified"},
+      {"note": "May lower blood sugar and blood pressure, so use caution with antidiabetic or antihypertensive medication; avoid concentrated medicinal doses in pregnancy.", "refs": ["hasanudin2012"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "elymus_repens.yaml",
+    "common_names": ["Couch Grass", "Twitch grass", "Quack grass", "Dog grass"],
+    "scientific_name": "Elymus repens",
+    "family": "Poaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "2022", "title": "European Union herbal monograph on Agropyron repens (L.) P. Beauv., rhizoma (Agropyri repentis rhizoma)", "url": "https://www.ema.europa.eu/en/medicines/herbal/agropyri-repentis-rhizoma"},
+      "escop": {"type": "misc", "author": "ESCOP (European Scientific Cooperative on Phytotherapy)", "year": "n.d.", "title": "Graminis Rhizoma (Couch Grass Rhizome) monograph", "url": "https://www.escop.com/downloads/graminis/"}
+    },
+    "parts_used": [
+      {"name": "Rhizome", "actions": [
+        {"action": "Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty of fluids)", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Soothing demulcent (mucilage) for urinary-tract irritation", "refs": ["escop"], "status": "verified"},
+        {"action": "Supports mild fluid retention / swelling", "refs": ["ema"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Polysaccharides (the fructan triticin) and mucilage", "note": "Soothing, demulcent carbohydrates of the rhizome.", "refs": ["ema", "escop"]},
+      {"name": "Flavonoids and phenolic acids (caffeoyl/feruloyl quinic esters)", "note": "Antioxidant constituents.", "refs": ["ema"]},
+      {"name": "Small amount of volatile oil (agropyrene)", "note": "Minor aromatic constituent.", "refs": ["escop"]}
+    ],
+    "contraindications": [
+      {"note": "Drink plenty of fluids during use. Irrigation therapy must NOT be used if there is oedema (swelling) due to impaired heart or kidney function.", "refs": ["ema"], "status": "verified"},
+      {"note": "Traditional use only; if urinary symptoms persist or are accompanied by fever, spasms or blood in the urine, seek medical care. Use in pregnancy and breastfeeding is not recommended.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph; ESCOP monograph). Elymus repens = Agropyron repens = Elytrigia repens. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "viburnum_opulus.yaml",
+    "common_names": ["Cramp Bark", "Guelder rose", "Snowball tree", "High cranberry"],
+    "scientific_name": "Viburnum opulus",
+    "family": "Adoxaceae",
+    "references": {
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Cramp Bark (Viburnum opulus): Benefits, Uses, Safety", "url": "https://www.herbalreality.com/herb/cramp-bark/"},
+      "sciencedirect": {"type": "misc", "author": "ScienceDirect Topics", "year": "n.d.", "title": "Viburnum opulus - an overview", "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/viburnum-opulus"}
+    },
+    "parts_used": [
+      {"name": "Bark (stem bark)", "actions": [
+        {"action": "Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)", "refs": ["herbalreality", "sciencedirect"], "status": "verified"},
+        {"action": "Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant)", "refs": ["herbalreality"], "status": "verified"},
+        {"action": "Mild analgesic for cramping pain", "refs": ["herbalreality"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Coumarins (scopoletin)", "note": "A principal antispasmodic constituent of the bark.", "refs": ["herbalreality"]},
+      {"name": "Viopudial and hydroquinones (arbutin)", "note": "Contribute to the smooth-muscle-relaxant and astringent activity.", "refs": ["herbalreality", "sciencedirect"]},
+      {"name": "Tannins", "note": "Astringent constituents.", "refs": ["herbalreality"]}
+    ],
+    "contraindications": [
+      {"note": "Only the bark is used medicinally; the raw berries are toxic and cause stomach upset, vomiting and diarrhoea if eaten in quantity.", "refs": ["sciencedirect", "herbalreality"], "status": "verified"},
+      {"note": "Human safety data are limited; medicinal use in pregnancy or breastfeeding should only be under the guidance of a qualified practitioner.", "refs": ["herbalreality"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect overview). Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps, muscle-spasm, pain); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "verbascum_densiflorum.yaml",
+    "common_names": ["Dense-flowered Mullein", "Mullein", "Great mullein", "Denseflower mullein"],
+    "scientific_name": "Verbascum densiflorum",
+    "family": "Scrophulariaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Verbascum thapsus L., V. densiflorum Bertol. and V. phlomoides L., flos (Verbasci flos)", "url": "https://www.ema.europa.eu/en/medicines/herbal/verbasci-flos"},
+      "escop": {"type": "misc", "author": "ESCOP (European Scientific Cooperative on Phytotherapy)", "year": "n.d.", "title": "Verbasci flos (Mullein Flower) monograph", "url": "https://www.escop.com/downloads/mullein-flower/"}
+    },
+    "parts_used": [
+      {"name": "Flower (Verbasci flos)", "actions": [
+        {"action": "Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa; saponins loosen mucus)", "refs": ["escop", "ema"], "status": "verified"},
+        {"action": "Traditional infused-oil ('mullein oil') for earache", "refs": ["escop"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Mucilage polysaccharides (~3%)", "note": "The demulcent constituents that soothe mucous membranes.", "refs": ["ema", "escop"]},
+      {"name": "Saponins", "note": "Thought to be responsible for the mild expectorant action.", "refs": ["ema", "escop"]},
+      {"name": "Flavonoids, iridoid and phenylethanoid glycosides (verbascoside)", "note": "Anti-inflammatory and antioxidant constituents.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Per the EU herbal monograph, for use in adults and adolescents over 12 years. Cough that persists beyond about a week, or is accompanied by fever, shortness of breath or purulent sputum, needs medical assessment.", "refs": ["ema"], "status": "verified"},
+      {"note": "Use in pregnancy and breastfeeding is not recommended. Strain liquid preparations to remove the fine flower/leaf hairs, which can irritate the throat.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and ESCOP monograph, which cover V. densiflorum together with V. thapsus and V. phlomoides). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, earache, sore-throat); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

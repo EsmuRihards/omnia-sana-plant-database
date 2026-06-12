@@ -1,27 +1,51 @@
 common_names:
 - Corn Silk
+- Maize silk
+- Stigma maydis
 scientific_name: Zea mays
 family: Poaceae
 parts_used:
-- name: Whole plant
+- name: Stigmas and styles (corn silk)
   medicinal_actions:
-  - action: Kidney support (symptom-lookup evidence 2/4)
+  - action: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Urinary tract infection (UTI) (symptom-lookup evidence 2/4)
+    - REF-0436
+    status: verified
+  - action: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney
+      function
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Swelling (symptom-lookup evidence 1/4)
+    - REF-0436
+    status: verified
+  - action: Antioxidant and anti-inflammatory
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0436
+    status: verified
+constituents:
+- name: Flavonoids (including maysin)
+  note: Major antioxidant constituents of corn silk.
+  reference_ids:
+  - REF-0436
+- name: Phenolic compounds
+  note: Contribute to antioxidant and anti-inflammatory activity.
+  reference_ids:
+  - REF-0436
+- name: Potassium salts, polysaccharides and saponins
+  note: Associated with the diuretic and demulcent actions.
+  reference_ids:
+  - REF-0436
+contraindications:
+- note: As a diuretic it should be taken with plenty of fluids; use caution alongside prescription diuretics
+    or medicines that affect potassium.
+  reference_ids:
+  - REF-0436
+  status: verified
+- note: May lower blood sugar and blood pressure, so use caution with antidiabetic or antihypertensive
+    medication; avoid concentrated medicinal doses in pregnancy.
+  reference_ids:
+  - REF-0436
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological
+  review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling,
+  kidney-support); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

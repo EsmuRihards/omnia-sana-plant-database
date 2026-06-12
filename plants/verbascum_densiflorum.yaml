@@ -1,31 +1,58 @@
 common_names:
 - Dense-flowered Mullein
+- Mullein
+- Great mullein
+- Denseflower mullein
 scientific_name: Verbascum densiflorum
 family: Scrophulariaceae
 parts_used:
-- name: Whole plant
+- name: Flower (Verbasci flos)
   medicinal_actions:
-  - action: Bronchitis (symptom-lookup evidence 2/4)
+  - action: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Cough (symptom-lookup evidence 2/4)
+    - REF-0441
+    - REF-0442
+    status: verified
+  - action: Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa;
+      saponins loosen mucus)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Earache (symptom-lookup evidence 2/4)
+    - REF-0442
+    - REF-0441
+    status: verified
+  - action: Traditional infused-oil ('mullein oil') for earache
     reference_ids:
-    - REF-0384
+    - REF-0442
     status: needs-review
-  - action: Sore throat (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Mucilage polysaccharides (~3%)
+  note: The demulcent constituents that soothe mucous membranes.
+  reference_ids:
+  - REF-0441
+  - REF-0442
+- name: Saponins
+  note: Thought to be responsible for the mild expectorant action.
+  reference_ids:
+  - REF-0441
+  - REF-0442
+- name: Flavonoids, iridoid and phenylethanoid glycosides (verbascoside)
+  note: Anti-inflammatory and antioxidant constituents.
+  reference_ids:
+  - REF-0441
+contraindications:
+- note: Per the EU herbal monograph, for use in adults and adolescents over 12 years. Cough that persists
+    beyond about a week, or is accompanied by fever, shortness of breath or purulent sputum, needs medical
+    assessment.
+  reference_ids:
+  - REF-0441
+  status: verified
+- note: Use in pregnancy and breastfeeding is not recommended. Strain liquid preparations to remove the
+    fine flower/leaf hairs, which can irritate the throat.
+  reference_ids:
+  - REF-0441
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and
+  ESCOP monograph, which cover V. densiflorum together with V. thapsus and V. phlomoides). Originally
+  a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, earache,
+  sore-throat); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

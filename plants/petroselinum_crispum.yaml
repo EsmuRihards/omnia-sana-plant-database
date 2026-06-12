@@ -1,31 +1,55 @@
 common_names:
 - Parsley
+- Garden parsley
+- Curly parsley
 scientific_name: Petroselinum crispum
 family: Apiaceae
 parts_used:
-- name: Whole plant
+- name: Leaf, root and seed
   medicinal_actions:
-  - action: Kidney support (symptom-lookup evidence 2/4)
+  - action: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
+      used for urinary stones)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Swelling (symptom-lookup evidence 2/4)
+    - REF-0489
+    status: verified
+  - action: Carminative digestive and stomach tonic (bloating, indigestion)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Bad breath (symptom-lookup evidence 1/4)
+    - REF-0489
+    status: verified
+  - action: Breath freshener (chlorophyll-rich; traditional for bad breath)
     reference_ids:
-    - REF-0384
+    - REF-0489
     status: needs-review
-  - action: Bloating (symptom-lookup evidence 1/4)
+  - action: Antioxidant, nephroprotective and hepatoprotective
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0489
+    status: verified
+constituents:
+- name: Flavonoids (apigenin) and other phenolics
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0489
+- name: Essential oil (apiole and myristicin)
+  note: Aromatic constituents that drive the diuretic action but are toxic in large amounts.
+  reference_ids:
+  - REF-0489
+- name: Vitamin C and carotenoids
+  note: Nutritive antioxidant constituents.
+  reference_ids:
+  - REF-0489
+contraindications:
+- note: Culinary amounts are safe, but medicinal/seed doses and the essential oil (apiole, myristicin)
+    can be toxic and stimulate the uterus - AVOID medicinal doses of parsley in pregnancy.
+  reference_ids:
+  - REF-0489
+  status: verified
+- note: Its diuretic action means caution alongside diuretic medicines; the furanocoumarins can cause
+    mild photosensitivity, and concentrated use should be avoided in active kidney disease.
+  reference_ids:
+  - REF-0489
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley).
+  Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (swelling, kidney-support,
+  bloating, bad-breath); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,31 +1,52 @@
 common_names:
 - Passionflower
+- Maypop
+- Purple passionflower
+- Passion vine
 scientific_name: Passiflora incarnata
 family: Passifloraceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Anxiety (symptom-lookup evidence 4/4)
+  - action: Anxiolytic for anxiety and nervous tension (reduces anxiety in clinical trials)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Insomnia (symptom-lookup evidence 3/4)
+    - REF-0490
+    - REF-0491
+    status: verified
+  - action: Sleep support for insomnia (improves sleep quality)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Stress (symptom-lookup evidence 3/4)
+    - REF-0490
+    - REF-0491
+    status: verified
+  - action: Relief of mild mental stress
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Nervous tension (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0490
+    - REF-0491
+    status: verified
+constituents:
+- name: Flavonoids (vitexin, isovitexin, chrysin)
+  note: The principal calming constituents, thought to act on GABA pathways.
+  reference_ids:
+  - REF-0490
+- name: Trace harman-type alkaloids
+  note: Minor constituents that may contribute to the sedative effect.
+  reference_ids:
+  - REF-0490
+contraindications:
+- note: Generally well tolerated, with no serious adverse effects reported in trials. Its sedative effect
+    can add to that of alcohol, sedatives and sleep medicines, so avoid combining and do not use before
+    driving.
+  reference_ids:
+  - REF-0490
+  - REF-0491
+  status: verified
+- note: Use in pregnancy and breastfeeding is not recommended.
+  reference_ids:
+  - REF-0491
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (Nutrients systematic review;
+  EMA HMPC monograph for Passiflorae herba). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (anxiety, insomnia, stress, nervous-tension); associations retained and now part-mapped
+  and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

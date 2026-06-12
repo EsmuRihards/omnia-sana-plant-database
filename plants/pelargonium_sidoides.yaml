@@ -1,31 +1,59 @@
 common_names:
 - Pelargonium
+- Umckaloabo
+- South African geranium
+- Black geranium
 scientific_name: Pelargonium sidoides
 family: Geraniaceae
 parts_used:
-- name: Whole plant
+- name: Root (standardised extract EPs 7630)
   medicinal_actions:
-  - action: Bronchitis (symptom-lookup evidence 4/4)
+  - action: Acute bronchitis - reduces symptom severity and shortens illness
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Cold (symptom-lookup evidence 3/4)
+    - REF-0492
+    - REF-0493
+    status: verified
+  - action: Common cold and acute respiratory tract infection
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Sinusitis (symptom-lookup evidence 2/4)
+    - REF-0492
+    status: verified
+  - action: Sore throat / acute tonsillopharyngitis
     reference_ids:
-    - REF-0384
+    - REF-0492
+    status: verified
+  - action: Rhinosinusitis (sinusitis) support
+    reference_ids:
+    - REF-0492
     status: needs-review
-  - action: Sore throat (symptom-lookup evidence 2/4)
+  - action: Antiviral and immunomodulatory (mechanism of action)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0493
+    status: verified
+constituents:
+- name: Highly oxygenated coumarins (umckalin)
+  note: Characteristic root constituents with antibacterial activity.
+  reference_ids:
+  - REF-0493
+- name: Polyphenols and proanthocyanidins (gallic acid derivatives)
+  note: Contribute to the antiviral and immunomodulatory effects.
+  reference_ids:
+  - REF-0493
+contraindications:
+- note: Generally well tolerated; the main effects are mild gastrointestinal upset or, rarely, an allergic
+    skin reaction. Rare reports of liver injury mean you should stop and seek advice if signs of liver
+    problems occur.
+  reference_ids:
+  - REF-0492
+  - REF-0493
+  status: verified
+- note: The coumarin content gives a theoretical bleeding risk, so use caution with anticoagulant medicines;
+    use in pregnancy and breastfeeding is not recommended.
+  reference_ids:
+  - REF-0492
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Int J Gen Med and Wien Med Wochenschr
+  reviews of the standardised root extract EPs 7630). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (bronchitis, cold, sore-throat, sinusitis); associations retained and now
+  part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

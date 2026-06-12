@@ -1,0 +1,140 @@
+[
+  {
+    "file": "mahonia_aquifolium.yaml",
+    "common_names": ["Oregon Grape", "Oregon grape root", "Holly-leaved barberry", "Berberis aquifolium"],
+    "scientific_name": "Mahonia aquifolium",
+    "family": "Berberidaceae",
+    "references": {
+      "gulliver2018": {"type": "article", "author": "Gulliver, W.P. and colleagues", "year": "2018", "title": "Review of the Efficacy and Safety of Topical Mahonia aquifolium for the Treatment of Psoriasis and Atopic Dermatitis", "journal": "Journal of Clinical and Aesthetic Dermatology", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334833/"},
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Oregon Grape Root (Berberis aquifolium): Benefits, Uses, Safety", "url": "https://www.herbalreality.com/herb/oregon-grape/"}
+    },
+    "parts_used": [
+      {"name": "Root (and bark/wood)", "actions": [
+        {"action": "Topical treatment of mild-to-moderate psoriasis (reduces plaque severity)", "refs": ["gulliver2018"], "status": "verified"},
+        {"action": "Topical for atopic dermatitis (eczema) and skin irritation", "refs": ["gulliver2018"], "status": "verified"},
+        {"action": "Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis)", "refs": ["gulliver2018"], "status": "verified"},
+        {"action": "Antimicrobial (berberine) - supports skin and mucosal infection", "refs": ["herbalreality"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Isoquinoline alkaloids (berberine, berbamine, palmatine, jatrorrhizine, magnoflorine)", "note": "Berberine is the main anti-psoriatic and antimicrobial constituent.", "refs": ["gulliver2018", "herbalreality"]}
+    ],
+    "contraindications": [
+      {"note": "Avoid internal use in pregnancy and breastfeeding: like goldenseal, the berberine it contains can cross the placenta and into milk and worsen newborn jaundice (kernicterus risk).", "refs": ["herbalreality"], "status": "verified"},
+      {"note": "Berberine impairs the metabolism of some medicines - for example it raises blood levels of cyclosporine, risking toxicity - so use caution with prescription drugs. It is used mainly topically for skin conditions.", "refs": ["gulliver2018", "herbalreality"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (J Clin Aesthet Dermatol review of topical Mahonia for psoriasis/eczema; Herbal Reality monograph). Mahonia aquifolium = Berberis aquifolium. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (psoriasis, eczema, skin-irritation, infection); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "petroselinum_crispum.yaml",
+    "common_names": ["Parsley", "Garden parsley", "Curly parsley"],
+    "scientific_name": "Petroselinum crispum",
+    "family": "Apiaceae",
+    "references": {
+      "bahramsoltani2024": {"type": "article", "author": "Bahramsoltani, R., Ahmadian, R., Daglia, M. and Rahimi, R.", "year": "2024", "title": "Petroselinum crispum (Mill.) Fuss (Parsley): An Updated Review of the Traditional Uses, Phytochemistry, and Pharmacology", "journal": "Journal of Agricultural and Food Chemistry", "doi": "10.1021/acs.jafc.3c06429"}
+    },
+    "parts_used": [
+      {"name": "Leaf, root and seed", "actions": [
+        {"action": "Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally used for urinary stones)", "refs": ["bahramsoltani2024"], "status": "verified"},
+        {"action": "Carminative digestive and stomach tonic (bloating, indigestion)", "refs": ["bahramsoltani2024"], "status": "verified"},
+        {"action": "Breath freshener (chlorophyll-rich; traditional for bad breath)", "refs": ["bahramsoltani2024"], "status": "needs-review"},
+        {"action": "Antioxidant, nephroprotective and hepatoprotective", "refs": ["bahramsoltani2024"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Flavonoids (apigenin) and other phenolics", "note": "Antioxidant and anti-inflammatory constituents.", "refs": ["bahramsoltani2024"]},
+      {"name": "Essential oil (apiole and myristicin)", "note": "Aromatic constituents that drive the diuretic action but are toxic in large amounts.", "refs": ["bahramsoltani2024"]},
+      {"name": "Vitamin C and carotenoids", "note": "Nutritive antioxidant constituents.", "refs": ["bahramsoltani2024"]}
+    ],
+    "contraindications": [
+      {"note": "Culinary amounts are safe, but medicinal/seed doses and the essential oil (apiole, myristicin) can be toxic and stimulate the uterus - AVOID medicinal doses of parsley in pregnancy.", "refs": ["bahramsoltani2024"], "status": "verified"},
+      {"note": "Its diuretic action means caution alongside diuretic medicines; the furanocoumarins can cause mild photosensitivity, and concentrated use should be avoided in active kidney disease.", "refs": ["bahramsoltani2024"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (swelling, kidney-support, bloating, bad-breath); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "passiflora_incarnata.yaml",
+    "common_names": ["Passionflower", "Maypop", "Purple passionflower", "Passion vine"],
+    "scientific_name": "Passiflora incarnata",
+    "family": "Passifloraceae",
+    "references": {
+      "janda2020": {"type": "article", "author": "Janda, K., Wojtkowska, K., Jakubczyk, K., Antoniewicz, J. and Skonieczna-Zydecka, K.", "year": "2020", "title": "Passiflora incarnata in Neuropsychiatric Disorders - A Systematic Review", "journal": "Nutrients", "doi": "10.3390/nu12123894"},
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Passiflora incarnata L., herba (Passiflorae herba)", "url": "https://www.ema.europa.eu/en/medicines/herbal/passiflorae-herba"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Anxiolytic for anxiety and nervous tension (reduces anxiety in clinical trials)", "refs": ["janda2020", "ema"], "status": "verified"},
+        {"action": "Sleep support for insomnia (improves sleep quality)", "refs": ["janda2020", "ema"], "status": "verified"},
+        {"action": "Relief of mild mental stress", "refs": ["janda2020", "ema"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Flavonoids (vitexin, isovitexin, chrysin)", "note": "The principal calming constituents, thought to act on GABA pathways.", "refs": ["janda2020"]},
+      {"name": "Trace harman-type alkaloids", "note": "Minor constituents that may contribute to the sedative effect.", "refs": ["janda2020"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated, with no serious adverse effects reported in trials. Its sedative effect can add to that of alcohol, sedatives and sleep medicines, so avoid combining and do not use before driving.", "refs": ["janda2020", "ema"], "status": "verified"},
+      {"note": "Use in pregnancy and breastfeeding is not recommended.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and regulatory literature (Nutrients systematic review; EMA HMPC monograph for Passiflorae herba). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (anxiety, insomnia, stress, nervous-tension); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "pelargonium_sidoides.yaml",
+    "common_names": ["Pelargonium", "Umckaloabo", "South African geranium", "Black geranium"],
+    "scientific_name": "Pelargonium sidoides",
+    "family": "Geraniaceae",
+    "references": {
+      "careddu2018": {"type": "article", "author": "Careddu, D. and Pettenazzo, A.", "year": "2018", "title": "Pelargonium sidoides extract EPs 7630: a review of its clinical efficacy and safety for treating acute respiratory tract infections in children", "journal": "International Journal of General Medicine", "doi": "10.2147/IJGM.S154198"},
+      "conrad2007": {"type": "article", "author": "Conrad, A., Kolodziej, H. and Schulz, V.", "year": "2007", "title": "Pelargonium sidoides-extract (EPs 7630): registration confirms efficacy and safety", "journal": "Wiener Medizinische Wochenschrift", "doi": "10.1007/s10354-007-0434-6"}
+    },
+    "parts_used": [
+      {"name": "Root (standardised extract EPs 7630)", "actions": [
+        {"action": "Acute bronchitis - reduces symptom severity and shortens illness", "refs": ["careddu2018", "conrad2007"], "status": "verified"},
+        {"action": "Common cold and acute respiratory tract infection", "refs": ["careddu2018"], "status": "verified"},
+        {"action": "Sore throat / acute tonsillopharyngitis", "refs": ["careddu2018"], "status": "verified"},
+        {"action": "Rhinosinusitis (sinusitis) support", "refs": ["careddu2018"], "status": "needs-review"},
+        {"action": "Antiviral and immunomodulatory (mechanism of action)", "refs": ["conrad2007"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Highly oxygenated coumarins (umckalin)", "note": "Characteristic root constituents with antibacterial activity.", "refs": ["conrad2007"]},
+      {"name": "Polyphenols and proanthocyanidins (gallic acid derivatives)", "note": "Contribute to the antiviral and immunomodulatory effects.", "refs": ["conrad2007"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; the main effects are mild gastrointestinal upset or, rarely, an allergic skin reaction. Rare reports of liver injury mean you should stop and seek advice if signs of liver problems occur.", "refs": ["careddu2018", "conrad2007"], "status": "verified"},
+      {"note": "The coumarin content gives a theoretical bleeding risk, so use caution with anticoagulant medicines; use in pregnancy and breastfeeding is not recommended.", "refs": ["careddu2018"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Int J Gen Med and Wien Med Wochenschr reviews of the standardised root extract EPs 7630). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (bronchitis, cold, sore-throat, sinusitis); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "asclepias_tuberosa.yaml",
+    "common_names": ["Pleurisy Root", "Butterfly weed", "Butterfly milkweed", "Orange milkweed"],
+    "scientific_name": "Asclepias tuberosa",
+    "family": "Apocynaceae",
+    "references": {
+      "naturopathic": {"type": "misc", "author": "The Naturopathic Herbalist", "year": "n.d.", "title": "Asclepias tuberosa", "url": "https://thenaturopathicherbalist.com/2015/09/06/asclepius-tuberosa/"},
+      "herbs2000": {"type": "misc", "author": "Herbs2000", "year": "n.d.", "title": "Pleurisy Root (Asclepias tuberosa)", "url": "https://www.herbs2000.com/herbs/herbs_pleurisy_root.htm"}
+    },
+    "parts_used": [
+      {"name": "Root", "actions": [
+        {"action": "Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy", "refs": ["naturopathic", "herbs2000"], "status": "needs-review"},
+        {"action": "Diaphoretic - promotes sweating to support feverish illness", "refs": ["naturopathic", "herbs2000"], "status": "needs-review"},
+        {"action": "Anti-inflammatory for lung inflammation (traditional)", "refs": ["herbs2000"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Cardiac glycosides (cardenolides such as asclepin, calactin and calotropin)", "note": "Heart-active compounds that make dosing and safety critical.", "refs": ["naturopathic", "herbs2000"]},
+      {"name": "Flavonoids and amino acids", "note": "Supporting constituents of the root.", "refs": ["herbs2000"]}
+    ],
+    "contraindications": [
+      {"note": "Contains cardiac glycosides: do NOT use in pregnancy, breastfeeding or infancy, in anyone with a heart condition, or alongside cardiac glycoside medicines (e.g. digoxin).", "refs": ["naturopathic", "herbs2000"], "status": "verified"},
+      {"note": "Large doses are emetic and purgative (cause vomiting and diarrhoea). There is very little modern safety or efficacy data, so use only under the guidance of a qualified practitioner.", "refs": ["herbs2000"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general herbal literature (traditional monographs). Record status set to needs-review because Asclepias tuberosa contains cardiac glycosides and has essentially no modern clinical evidence. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (bronchitis, cough, fever); associations retained and now part-mapped and cited.",
+    "status": "needs-review"
+  }
+]

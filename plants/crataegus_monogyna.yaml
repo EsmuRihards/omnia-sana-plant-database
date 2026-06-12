@@ -1,0 +1,63 @@
+common_names:
+- Hawthorn
+- common hawthorn
+- may tree
+- whitethorn
+scientific_name: Crataegus monogyna
+family: Rosaceae
+parts_used:
+- name: Flower / Fruit / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0082
+    - REF-0195
+    - REF-0220
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0082
+    - REF-0195
+    - REF-0220
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0082
+    - REF-0195
+    - REF-0220
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0082
+    - REF-0195
+    - REF-0220
+    status: verified
+constituents: []
+contraindications:
+- note: Generally well tolerated. Hawthorn should not replace prescribed cardiac medications without medical
+    supervision. May potentiate the effects of cardiac glycosides (digoxin), antihypertensive drugs, and
+    coronary dilators. Not recommended during pregnancy and breastfeeding due to insufficient safety data.
+    Mild side effects (nausea, dizziness, GI upset) occasionally reported.
+  reference_ids:
+  - REF-0082
+  - REF-0195
+  - REF-0220
+  status: verified
+- note: 'Duke (2002) rates hawthorn as +++ — one of the most clinically supported cardiovascular herbs.
+    Clinical evidence (score 2) supports its use for decreasing cardiac output (NYHA functional Stage
+    II heart failure), as recognized by Commission E. Key activities include vasodilation, positive inotropic
+    effects, and antioxidant protection of vascular tissue. Dose: 160–900 mg standardized leaf/flower
+    extract (containing 18.75% oligomeric proanthocyanidins) daily. Duke emphasizes that hawthorn should
+    not replace conventional heart failure therapy, and therapeutic effects may take 4–8 weeks to emerge.
+    Mild interactions with cardiac glycosides (digitalis) are possible (Duke, 2002).'
+  reference_ids:
+  - REF-0082
+  - REF-0195
+  - REF-0220
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

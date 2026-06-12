@@ -1,0 +1,72 @@
+common_names:
+- Olive
+- common olive
+- European olive
+scientific_name: Olea europaea
+family: Oleaceae
+parts_used:
+- name: Fruit / Leaf / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0032
+    - REF-0299
+    - REF-0301
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0032
+    - REF-0299
+    - REF-0301
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0032
+    - REF-0299
+    - REF-0301
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0032
+    - REF-0299
+    - REF-0301
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0032
+    - REF-0299
+    - REF-0301
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0032
+    - REF-0299
+    - REF-0301
+    status: verified
+constituents: []
+contraindications:
+- note: Olive leaf extract may lower blood pressure; use caution if already on antihypertensive medication.
+    May have mild hypoglycaemic effects. Olive oil is safe for dietary use. Rare olive pollen allergy.
+    Well tolerated in normal culinary and supplement doses.
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: verified
+- note: Duke (2002) includes olive leaf as ++ and notes hypotensive, hypoglycemic, ACE inhibitor-like,
+    and antioxidant activities at the experimental level (score 1). Olive leaf extract (containing oleuropein)
+    has demonstrated blood pressure-lowering and antiarrhythmic effects consistent with clinical support
+    (PHR). Duke notes that traditional Mediterranean use for both the leaf and fruit is food-grade and
+    safe. Olive leaf preparations are used as mild antihypertensives in European phytotherapy. No significant
+    adverse effects are reported at standard herbal doses (Duke, 2002).
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

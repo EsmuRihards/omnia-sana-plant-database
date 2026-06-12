@@ -1,0 +1,62 @@
+common_names:
+- Greater Plantain
+- broadleaf plantain
+- common plantain
+- waybread
+scientific_name: Plantago major
+family: Plantaginaceae
+parts_used:
+- name: Leaf / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0234
+    - REF-0260
+    - REF-0309
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0234
+    - REF-0260
+    - REF-0309
+    status: verified
+  - action: Expectorant
+    reference_ids:
+    - REF-0234
+    - REF-0260
+    - REF-0309
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0234
+    - REF-0260
+    - REF-0309
+    status: verified
+constituents: []
+contraindications:
+- note: Extremely safe; one of the most widely used edible and medicinal plants in the world. Psyllium
+    seeds (closely related) are well-studied as a bulk laxative but should always be taken with adequate
+    water. Allergic reactions are rare but possible. No significant drug interactions documented at normal
+    doses.
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  status: verified
+- note: 'Duke (2002) rates plantain as ++ and notes anti-inflammatory, antitussive, antiatherosclerotic,
+    and COX-2-inhibitory activities at the experimental level (score 1). The seeds (psyllium) of related
+    species have clinical evidence for cholesterol reduction and as bulk laxatives, though entries here
+    apply to the leaf. Dose: leaf as tea or poultice for wounds, sore throat, and bronchial conditions.
+    Duke notes the plant is generally safe with anti-inflammatory topical use well-supported in traditional
+    practice. Commission E approved plantain (ribwort species) for catarrh and wound healing (Duke, 2002).'
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

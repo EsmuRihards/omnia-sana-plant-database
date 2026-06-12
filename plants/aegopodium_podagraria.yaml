@@ -1,0 +1,58 @@
+common_names:
+- Ground Elder
+- bishop's weed
+- goutweed
+- gout wort
+- snow-in-the-mountain
+scientific_name: Aegopodium podagraria
+family: Apiaceae
+parts_used:
+- name: Leaf / Root / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0098
+    - REF-0168
+    - REF-0207
+    status: verified
+  - action: Anti-rheumatic
+    reference_ids:
+    - REF-0098
+    - REF-0168
+    - REF-0207
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0098
+    - REF-0168
+    - REF-0207
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0098
+    - REF-0168
+    - REF-0207
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe as a food plant when young leaves are harvested. Contains furocoumarins (photosensitising
+    compounds) — handling large quantities in bright sunlight may cause skin irritation. Individuals with
+    Apiaceae allergies should exercise caution. Not recommended in therapeutic doses during pregnancy.
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: verified
+- note: Duke (2002) does not appear to include a dedicated entry for ground elder (Aegopodium podagraria)
+    in the Handbook of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

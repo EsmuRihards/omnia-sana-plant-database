@@ -1,0 +1,77 @@
+common_names:
+- Perforate St John’s-wort
+- St John's wort
+- common St John's wort
+- perforate St John's wort
+scientific_name: Hypericum perforatum
+family: Hypericaceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0092
+    - REF-0154
+    - REF-0181
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0092
+    - REF-0154
+    - REF-0181
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0092
+    - REF-0154
+    - REF-0181
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0092
+    - REF-0154
+    - REF-0181
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0092
+    - REF-0154
+    - REF-0181
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0092
+    - REF-0154
+    - REF-0181
+    status: verified
+constituents: []
+contraindications:
+- note: 'Significant drug interactions: strongly induces CYP3A4 and P-glycoprotein, reducing plasma levels
+    of many drugs including oral contraceptives, antiretrovirals, cyclosporine, warfarin, and digoxin.
+    May cause photosensitivity (fair-skinned individuals). Do not combine with SSRIs, SNRIs, or MAOIs
+    (serotonin syndrome risk). Avoid in bipolar disorder.'
+  reference_ids:
+  - REF-0092
+  - REF-0154
+  - REF-0181
+  status: verified
+- note: 'Duke (2002) rates St. John''s wort as ++ (raised from earlier editions) and notes antidepressant,
+    antiviral, antibacterial, and wound-healing activities at experimental and clinical levels. Hypericin
+    and hyperforin are identified as key active constituents. Clinical evidence (score 2) confirms antidepressant
+    efficacy in mild-to-moderate depression, and WHO/Commission E provide approval for this indication.
+    Dose: 300 mg standardized extract (0.3% hypericin, 3–5% hyperforin) three times daily. Duke emphasizes
+    the critical drug interaction: St. John''s wort is a potent CYP3A4 inducer and can significantly reduce
+    blood levels of many medications including oral contraceptives, cyclosporine, antiretrovirals, and
+    warfarin. Avoid combined use with SSRIs (serotonin syndrome risk) and pharmaceutical antidepressants
+    (Duke, 2002).'
+  reference_ids:
+  - REF-0092
+  - REF-0154
+  - REF-0181
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

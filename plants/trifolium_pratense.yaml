@@ -1,0 +1,74 @@
+common_names:
+- Red Clover
+- meadow clover
+- cow clover
+scientific_name: Trifolium pratense
+family: Fabaceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0013
+    - REF-0036
+    - REF-0112
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0013
+    - REF-0036
+    - REF-0112
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0013
+    - REF-0036
+    - REF-0112
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0013
+    - REF-0036
+    - REF-0112
+    status: verified
+  - action: Expectorant
+    reference_ids:
+    - REF-0013
+    - REF-0036
+    - REF-0112
+    status: verified
+  - action: Menstrual cramps
+    reference_ids:
+    - REF-0013
+    - REF-0036
+    - REF-0112
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe in normal dietary amounts. Isoflavones are phytoestrogens — exercise caution in
+    oestrogen-receptor-positive breast cancer patients or those taking hormone therapies. May interact
+    with warfarin (antiplatelet activity). Avoid in pregnancy and breastfeeding. Well tolerated in most
+    adults.
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+- note: 'Duke (2002) rates red clover as +++ and provides clinical evidence (score 2) for estrogenic activity
+    — the plant is one of the richest plant sources of isoflavones (formononetin, biochanin A, daidzein,
+    genistein). Clinical applications include menopausal symptom relief, osteoporosis prevention, and
+    cardiovascular protection in peri-menopausal women. Dose: standardized extract providing 40–160 mg
+    isoflavones daily. Duke cautions that due to strong estrogenic activity, red clover is not recommended
+    in estrogen-dependent cancers (breast, uterine) or alongside hormone replacement therapy without medical
+    supervision. Anti-coagulant coumarins are also present (Duke, 2002).'
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

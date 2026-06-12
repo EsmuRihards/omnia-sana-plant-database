@@ -1,0 +1,61 @@
+common_names:
+- Guarana
+- Brazilian cocoa
+- zoom
+scientific_name: Paullinia cupana
+family: Sapindaceae
+parts_used:
+- name: Seed
+  medicinal_actions:
+  - action: Antioxidant
+    reference_ids:
+    - REF-0009
+    - REF-0106
+    - REF-0233
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0009
+    - REF-0106
+    - REF-0233
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0009
+    - REF-0106
+    - REF-0233
+    status: verified
+  - action: Physical performance / strength improvement
+    reference_ids:
+    - REF-0009
+    - REF-0106
+    - REF-0233
+    status: verified
+constituents: []
+contraindications:
+- note: Guarana contains very high levels of caffeine (2–4 times that of coffee by weight). All the cautions
+    of caffeine apply — avoid in cardiac arrhythmia, hypertension, anxiety disorders, insomnia, and during
+    pregnancy and breastfeeding. Should not be combined with other stimulants, MAOIs, or medications affected
+    by caffeine. Risk of dependence and withdrawal symptoms with prolonged high-dose use.
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: verified
+- note: Duke (2002) rates guarana as ++ and notes CNS-stimulant, anti-aggregant, diuretic, and thermogenic
+    activities, primarily due to its high caffeine content (3–5%). It has positive chronotropic and inotropic
+    effects on the heart. Duke flags guarana as genotoxic and mutagenic at the experimental level (score
+    1), which warrants caution with high-dose supplementation. Contraindicated in cardiovascular disease,
+    anxiety disorders, peptic ulcers, and during pregnancy. Interactions include potentiation of other
+    stimulants and anticoagulants (Duke, 2002).
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

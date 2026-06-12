@@ -1,0 +1,67 @@
+common_names:
+- Chaga
+- Chaga mushroom
+- clinker polypore
+- birch conk
+scientific_name: Inonotus obliquus
+family: Hymenochaetaceae
+parts_used:
+- name: Mycelium / Whole Plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0093
+    - REF-0228
+    - REF-0272
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0093
+    - REF-0228
+    - REF-0272
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0093
+    - REF-0228
+    - REF-0272
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0093
+    - REF-0228
+    - REF-0272
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0093
+    - REF-0228
+    - REF-0272
+    status: verified
+constituents: []
+contraindications:
+- note: 'Autoimmune conditions: Chaga can stimulate parts of the immune system—people with autoimmune
+    diseases should be cautious.Blood thinners: Chaga contains compounds that may affect clotting—avoid
+    large doses if on anticoagulants.Blood sugar meds: May slightly lower glucose—monitor if taking diabetes
+    medication.Pregnancy & breastfeeding: Limited safety data—best avoided unless guided by a professional.Quality
+    matters: Wild-harvested Chaga can accumulate heavy metals from trees and soil—source from reputable
+    suppliers.'
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for chaga (Inonotus obliquus) in the Handbook of
+    Medicinal Herbs, Second Edition, as this medicinal fungus was not widely documented in Western herbal
+    literature at that time (Duke, 2002).
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,151 @@
+common_names:
+- Dandelion
+- Common dandelion
+- Lion's tooth
+- Blowball
+- Puffball
+- Priest's crown
+- Pissenlit
+- Wet-the-bed
+- Irish daisy
+- Monk's head
+scientific_name: Taraxacum officinale
+family: Asteraceae
+parts_used:
+- name: Leaf
+  medicinal_actions:
+  - action: Diuretic (potassium-sparing)
+    reference_ids:
+    - REF-0321
+    - REF-0326
+    - REF-0338
+    status: verified
+  - action: Bitter digestive tonic
+    reference_ids:
+    - REF-0326
+    - REF-0328
+    status: verified
+  - action: Choleretic (stimulates bile flow)
+    reference_ids:
+    - REF-0326
+    - REF-0338
+    status: verified
+  - action: Edible bitter spring green (traditional food use)
+    reference_ids:
+    - REF-0323
+    - REF-0325
+    - REF-0336
+    - REF-0335
+    - REF-0337
+    - REF-0320
+    status: verified
+- name: Root
+  medicinal_actions:
+  - action: Hepatic (liver) support
+    reference_ids:
+    - REF-0326
+    - REF-0338
+    - REF-0329
+    status: verified
+  - action: Choleretic (stimulates bile flow)
+    reference_ids:
+    - REF-0326
+    - REF-0338
+    status: verified
+  - action: Prebiotic (inulin-rich, especially autumn root)
+    reference_ids:
+    - REF-0329
+    - REF-0326
+    status: verified
+  - action: Mild laxative
+    reference_ids:
+    - REF-0328
+    - REF-0326
+    status: verified
+  - action: Roasted-root coffee substitute (traditional preparation)
+    reference_ids:
+    - REF-0322
+    - REF-0330
+    - REF-0334
+    - REF-0327
+    status: verified
+- name: Flower
+  medicinal_actions:
+  - action: Traditional preparation into wines and syrups
+    reference_ids:
+    - REF-0322
+    - REF-0331
+    - REF-0334
+    - REF-0324
+    status: verified
+- name: Whole plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0333
+    - REF-0326
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0333
+    - REF-0329
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0333
+    status: verified
+constituents:
+- name: Sesquiterpene lactones
+  note: Bitter principles (e.g. taraxacin) responsible for the characteristic bitterness and bitter-tonic
+    action.
+  reference_ids:
+  - REF-0326
+  - REF-0338
+- name: Triterpenes and plant sterols
+  note: Including taraxasterol; contribute to anti-inflammatory and hepatoprotective signals.
+  reference_ids:
+  - REF-0326
+  - REF-0333
+- name: Phenolic acids and flavonoids
+  note: Antioxidant constituents (e.g. chicoric acid, luteolin derivatives).
+  reference_ids:
+  - REF-0329
+  - REF-0333
+- name: Inulin
+  note: Fructan storage carbohydrate; prebiotic fibre concentrated in the autumn root.
+  reference_ids:
+  - REF-0329
+  - REF-0326
+contraindications:
+- note: Allergy risk in individuals sensitive to Asteraceae (daisy family) plants such as ragweed and
+    chamomile.
+  reference_ids:
+  - REF-0328
+  - REF-0332
+  status: verified
+- note: Avoid medicinal use in anyone with a blocked bile duct or gallstones; use caution with gallbladder
+    or serious liver disease.
+  reference_ids:
+  - REF-0328
+  status: verified
+- note: May potentiate prescription diuretics; possible interactions with lithium and drugs metabolised
+    by the liver.
+  reference_ids:
+  - REF-0332
+  - REF-0328
+  status: verified
+- note: Can accumulate soil pollutants and heavy metals; harvest from clean, unpolluted sites.
+  reference_ids:
+  - REF-0338
+  - REF-0328
+  status: verified
+- note: Use during pregnancy or breastfeeding should be guided by a qualified practitioner. Herbal use
+    should support, not replace, conventional medical care.
+  reference_ids:
+  - REF-0328
+  status: verified
+internal_notes: Worked example. Curated from the omniasana.bio Materia Medica post (https://omniasana.bio/dandelion-taraxacum-officinale/).
+  Unlike the bulk book-ingested records, actions are mapped to specific parts and references per the source
+  post. The Kew Plants of the World Online entry is shared with the book ingestion (REF-0248).
+last_updated: '2026-06-12'
+status: verified

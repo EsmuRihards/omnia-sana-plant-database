@@ -1,0 +1,87 @@
+common_names:
+- Field Horsetail
+- common horsetail
+- horse pipes
+- mare's tail
+- scouring rush
+scientific_name: Equisetum arvense
+family: Equisetaceae
+parts_used:
+- name: Stem / Whole Plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0041
+    - REF-0083
+    - REF-0117
+    - REF-0223
+    - REF-0262
+    status: verified
+  - action: Anti-rheumatic
+    reference_ids:
+    - REF-0041
+    - REF-0083
+    - REF-0117
+    - REF-0223
+    - REF-0262
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0041
+    - REF-0083
+    - REF-0117
+    - REF-0223
+    - REF-0262
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0041
+    - REF-0083
+    - REF-0117
+    - REF-0223
+    - REF-0262
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0041
+    - REF-0083
+    - REF-0117
+    - REF-0223
+    - REF-0262
+    status: verified
+constituents: []
+contraindications:
+- note: Field horsetail contains thiaminase, an enzyme that degrades thiamine (vitamin B1); prolonged
+    or excessive use can cause thiamine deficiency — symptoms include neurological problems and weight
+    loss. This risk is greatest with repeated large doses or prolonged use. The plant also contains nicotine
+    at low levels and silica compounds. Not recommended for children or during pregnancy and breastfeeding.
+    People with impaired kidney function should avoid use, as diuretic effects may worsen fluid and electrolyte
+    imbalance. Caution with concurrent diuretic medications. The EMA herbal monograph recognises traditional
+    use at appropriate short-term doses in adults only (European Medicines Agency, 2016; Sandhu et al.,
+    2010).
+  reference_ids:
+  - REF-0041
+  - REF-0083
+  - REF-0117
+  - REF-0223
+  - REF-0262
+  status: verified
+- note: 'Duke (2002) rates horsetail as + (moderate caution) and notes clinical evidence (score 2) for
+    its diuretic and wound-healing (vulnerary) activities, consistent with Commission E approval. High
+    silica content may strengthen connective tissue, hair, and nails. Dose: 6 g dried herb daily as tea
+    or in capsules. Horsetail contains thiaminase (breaks down vitamin B1) and an unidentified neurotoxin
+    — it should not be taken long-term or in large quantities. Not for use in patients with edema due
+    to cardiac or renal insufficiency, and avoid in children under 12 (Duke, 2002).'
+  reference_ids:
+  - REF-0041
+  - REF-0083
+  - REF-0117
+  - REF-0223
+  - REF-0262
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,67 @@
+common_names:
+- Lemon balm
+- bee balm
+- sweet balm
+scientific_name: Melissa officinalis
+family: Lamiaceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0112
+    - REF-0134
+    - REF-0194
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0112
+    - REF-0134
+    - REF-0194
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0112
+    - REF-0134
+    - REF-0194
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0112
+    - REF-0134
+    - REF-0194
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0112
+    - REF-0134
+    - REF-0194
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0112
+    - REF-0134
+    - REF-0194
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe for adults. Theoretically may interact with thyroid medications and sedatives.
+    Avoid high therapeutic doses during pregnancy. Long-term safety data beyond a few months is limited.
+  reference_ids:
+  - REF-0112
+  - REF-0134
+  - REF-0194
+  status: verified
+- note: Duke (2002) does not include a dedicated entry under 'Lemon Balm' or 'Melissa' in the Handbook
+    of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0112
+  - REF-0134
+  - REF-0194
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

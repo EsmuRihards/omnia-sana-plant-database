@@ -1,0 +1,60 @@
+common_names:
+- Cleavers
+- clivers
+- goose grass/goosegrass
+- stickyweed
+- stickywilly
+- catchweed bedstraw
+scientific_name: Galium aparine
+family: Rubiaceae
+parts_used:
+- name: Leaf / Seed / Stem
+  medicinal_actions:
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0035
+    - REF-0113
+    - REF-0225
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0035
+    - REF-0113
+    - REF-0225
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0035
+    - REF-0113
+    - REF-0225
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0035
+    - REF-0113
+    - REF-0225
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0035
+    - REF-0113
+    - REF-0225
+    status: verified
+constituents: []
+contraindications:
+- note: Duke (2002) describes cleavers as a diuretic, lymph tonic, and depurative with experimental support
+    (score 1). The plant has been used in traditional medicine for swollen lymph nodes, urinary complaints,
+    and skin conditions. Diuretic and anti-inflammatory activities are supported experimentally. No Commission
+    E approval. Safety rating is ++ (relatively safe), with no known significant contraindications at
+    usual herbal doses (Duke, 2002).
+  reference_ids:
+  - REF-0035
+  - REF-0113
+  - REF-0225
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

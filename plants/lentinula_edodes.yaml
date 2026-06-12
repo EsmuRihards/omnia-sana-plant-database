@@ -1,0 +1,81 @@
+common_names:
+- Shiitake (mushroom)
+- Shiitake
+- Chinese forest mushroom
+- black mushroom
+scientific_name: Lentinula edodes
+family: Omphalotaceae
+parts_used:
+- name: Mycelium / Whole Plant
+  medicinal_actions:
+  - action: Anticancer
+    reference_ids:
+    - REF-0293
+    - REF-0300
+    - REF-0315
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0293
+    - REF-0300
+    - REF-0315
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0293
+    - REF-0300
+    - REF-0315
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0293
+    - REF-0300
+    - REF-0315
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0293
+    - REF-0300
+    - REF-0315
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0293
+    - REF-0300
+    - REF-0315
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0293
+    - REF-0300
+    - REF-0315
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe as a food. Raw or undercooked shiitake can cause a rare skin rash (shiitake
+    dermatitis / flagellate dermatitis) in sensitive individuals — fully cooking eliminates this risk.
+    May have mild anticoagulant effects. Rarely causes digestive upset. Well tolerated in normal culinary
+    quantities.
+  reference_ids:
+  - REF-0293
+  - REF-0300
+  - REF-0315
+  status: verified
+- note: 'Duke (2002) rates shiitake as +++ and notes immunostimulant, hypocholesterolemic, antibacterial,
+    and anti-HIV activities at the experimental level (score 1). The key active compound is lentinan,
+    a beta-1,3-glucan polysaccharide, which is used as an injectable anticancer drug in Japan. Duke notes
+    clinical applications of shiitake preparations for immune support, cancer adjuvant therapy, and cholesterol
+    management. Dose: 1–3 (606 mg) capsules up to three times daily for standardized preparations. Shiitake
+    dermatitis (flagellate erythema) is a rare but recognized adverse effect from eating raw or undercooked
+    shiitake — cooking prevents this (Duke, 2002).'
+  reference_ids:
+  - REF-0293
+  - REF-0300
+  - REF-0315
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

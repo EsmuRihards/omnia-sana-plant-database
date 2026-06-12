@@ -1,0 +1,152 @@
+common_names:
+- Ashwagandha
+- Indian Ginseng
+- Winter Cherry
+- Poison Gooseberry
+- Ajagandha
+- Kanaje Hindi
+- Asgand
+scientific_name: Withania somnifera
+family: Solanaceae
+parts_used:
+- name: Leaf / Root
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+  - action: Anticancer
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+  - action: Fertility
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+  - action: Physical performance / strength improvement
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0030
+    - REF-0047
+    - REF-0060
+    - REF-0159
+    - REF-0160
+    - REF-0180
+    - REF-0259
+    - REF-0276
+    status: verified
+constituents: []
+contraindications:
+- note: Generally well-tolerated in clinical trials at doses up to 600 mg/day for up to 12 weeks. Common
+    side effects may include mild drowsiness, gastrointestinal upset, and diarrhea at higher doses. Contraindicated
+    during pregnancy due to potential abortifacient effects. May interact with sedatives, immunosuppressants,
+    thyroid medications, and blood sugar medications. People with autoimmune diseases, hyperthyroidism,
+    or scheduled for surgery should consult healthcare providers before use. May cause allergic reactions
+    in sensitive individuals. Not recommended for children without medical supervision.
+  reference_ids:
+  - REF-0030
+  - REF-0047
+  - REF-0060
+  - REF-0159
+  - REF-0160
+  - REF-0180
+  - REF-0259
+  - REF-0276
+  status: verified
+- note: Duke (2002) classifies ashwagandha activities primarily at the experimental level (score 1), with
+    adaptogenic, sedative, immunostimulant, and anti-inflammatory actions demonstrated in animal and in
+    vitro models. Root preparations are used at 2–3 g powdered root three times daily, or 150–300 mg of
+    standardized extract. Importantly, the plant has documented abortifacient and antifertility properties
+    in animal studies, and its use should be avoided during pregnancy. It may potentiate the effects of
+    barbiturates and sedatives (Duke, 2002).
+  reference_ids:
+  - REF-0030
+  - REF-0047
+  - REF-0060
+  - REF-0159
+  - REF-0160
+  - REF-0180
+  - REF-0259
+  - REF-0276
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

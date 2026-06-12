@@ -1,0 +1,72 @@
+common_names:
+- Selfheal
+- heal-all
+- woundwort
+scientific_name: Prunella vulgaris
+family: Lamiaceae
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0098
+    - REF-0200
+    - REF-0314
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0098
+    - REF-0200
+    - REF-0314
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0098
+    - REF-0200
+    - REF-0314
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0098
+    - REF-0200
+    - REF-0314
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0098
+    - REF-0200
+    - REF-0314
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0098
+    - REF-0200
+    - REF-0314
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe and well tolerated. No significant known toxicity or drug interactions. Safe
+    for topical and internal use in normal medicinal doses. Suitable for most adults including children
+    in appropriate doses.
+  reference_ids:
+  - REF-0098
+  - REF-0200
+  - REF-0314
+  status: verified
+- note: Duke (2002) rates self-heal as +++ and notes antioxidant (score 2), anti-inflammatory, antiviral,
+    and COX-2 inhibitory activities. The plant contains luteolin, rosmarinic acid, and hyperoside — all
+    with well-documented bioactivities. Hepatoprotective activity has been experimentally demonstrated.
+    Duke notes that self-heal has a broad antimicrobial spectrum and an impressive antioxidant profile,
+    supporting its traditional reputation as a versatile wound-healing herb. No significant safety concerns
+    at normal herbal doses (Duke, 2002).
+  reference_ids:
+  - REF-0098
+  - REF-0200
+  - REF-0314
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

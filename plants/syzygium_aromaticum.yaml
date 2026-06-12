@@ -1,0 +1,75 @@
+common_names:
+- Clove
+- Clove bud
+- aromatic clove
+scientific_name: Syzygium aromaticum
+family: Myrtaceae
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0029
+    - REF-0247
+    - REF-0309
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0029
+    - REF-0247
+    - REF-0309
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0029
+    - REF-0247
+    - REF-0309
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0029
+    - REF-0247
+    - REF-0309
+    status: verified
+  - action: Oral health support
+    reference_ids:
+    - REF-0029
+    - REF-0247
+    - REF-0309
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0029
+    - REF-0247
+    - REF-0309
+    status: verified
+constituents: []
+contraindications:
+- note: 'Strong and concentrated: Clove oil is very potent and should always be diluted before skin or
+    mouth use.Dental use: Undiluted clove oil can burn gums or skin.Blood thinning: Clove may increase
+    bleeding risk in large amounts or with anticoagulants.Pregnancy: Culinary amounts are fine; medicinal
+    doses should be used cautiously.Children: Essential oil should be used with extra caution and diluted
+    well.'
+  reference_ids:
+  - REF-0029
+  - REF-0247
+  - REF-0309
+  status: verified
+- note: 'Duke (2002) rates cloves as +++ with clinical evidence (score 2) for analgesic activity — specifically,
+    topical application of clove oil (eugenol) for dental pain is clinically validated. The plant also
+    shows strong antimicrobial, antifungal (anti-Candida), antispasmodic, and antiviral activities at
+    the experimental level. Commission E approves topical clove preparations for dental pain. Recommended
+    dose: 1–5% clove oil preparation (topical) or 150 mg clove powder internally. The essential oil is
+    irritating to mucous membranes and should not be applied undiluted to skin or mucous membranes (Duke,
+    2002).'
+  reference_ids:
+  - REF-0029
+  - REF-0247
+  - REF-0309
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

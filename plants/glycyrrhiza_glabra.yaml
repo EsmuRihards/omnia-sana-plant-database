@@ -1,0 +1,81 @@
+common_names:
+- Licorice root
+- liquorice
+- sweet root
+scientific_name: Glycyrrhiza glabra
+family: Fabaceae
+parts_used:
+- name: Root
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0012
+    - REF-0089
+    - REF-0305
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0012
+    - REF-0089
+    - REF-0305
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0012
+    - REF-0089
+    - REF-0305
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0012
+    - REF-0089
+    - REF-0305
+    status: verified
+  - action: Expectorant
+    reference_ids:
+    - REF-0012
+    - REF-0089
+    - REF-0305
+    status: verified
+  - action: Gastroprotective
+    reference_ids:
+    - REF-0012
+    - REF-0089
+    - REF-0305
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0012
+    - REF-0089
+    - REF-0305
+    status: verified
+constituents: []
+contraindications:
+- note: Avoid prolonged use of whole licorice root in large doses. May cause pseudoaldosteronism (hypertension,
+    oedema, hypokalaemia). Contraindicated in hypertension, renal failure, liver disease, hypokalaemia,
+    and pregnancy. DGL form is safer for prolonged gastric use. Interactions with antihypertensives, diuretics,
+    and corticosteroids.
+  reference_ids:
+  - REF-0012
+  - REF-0089
+  - REF-0305
+  status: verified
+- note: 'Duke (2002) rates licorice as ++ and documents extensive activities. Glycyrrhizin (the key compound)
+    has anti-inflammatory, antiulcer, antiviral, and adrenal-stimulant properties. Duke highlights an
+    important safety concern: chronic use of licorice can cause pseudoaldosteronism — sodium retention,
+    potassium loss, edema, and hypertension — due to glycyrrhizin''s inhibition of cortisol metabolism.
+    This effect is typically seen with >50 g licorice/day for more than 6 weeks. Deglycyrrhizinated licorice
+    (DGL) avoids this side effect. Dose: 5–15 g dried root daily. Contraindicated in hypertension, kidney
+    disease, low potassium, liver cirrhosis, and in combination with diuretics or corticosteroids (Duke,
+    2002).'
+  reference_ids:
+  - REF-0012
+  - REF-0089
+  - REF-0305
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

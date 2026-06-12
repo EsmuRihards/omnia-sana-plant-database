@@ -1,0 +1,233 @@
+common_names:
+- Cumin
+- Roman cumin
+- jeera
+- zira (Britannica
+- 2025)
+scientific_name: Cuminum cyminum
+family: Apiaceae
+parts_used:
+- name: Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0008
+    - REF-0026
+    - REF-0034
+    - REF-0066
+    - REF-0067
+    - REF-0116
+    - REF-0130
+    - REF-0147
+    - REF-0150
+    - REF-0156
+    - REF-0158
+    - REF-0171
+    - REF-0175
+    - REF-0185
+    - REF-0201
+    - REF-0221
+    - REF-0267
+    - REF-0286
+    - REF-0294
+    - REF-0307
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0008
+    - REF-0026
+    - REF-0034
+    - REF-0066
+    - REF-0067
+    - REF-0116
+    - REF-0130
+    - REF-0147
+    - REF-0150
+    - REF-0156
+    - REF-0158
+    - REF-0171
+    - REF-0175
+    - REF-0185
+    - REF-0201
+    - REF-0221
+    - REF-0267
+    - REF-0286
+    - REF-0294
+    - REF-0307
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0008
+    - REF-0026
+    - REF-0034
+    - REF-0066
+    - REF-0067
+    - REF-0116
+    - REF-0130
+    - REF-0147
+    - REF-0150
+    - REF-0156
+    - REF-0158
+    - REF-0171
+    - REF-0175
+    - REF-0185
+    - REF-0201
+    - REF-0221
+    - REF-0267
+    - REF-0286
+    - REF-0294
+    - REF-0307
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0008
+    - REF-0026
+    - REF-0034
+    - REF-0066
+    - REF-0067
+    - REF-0116
+    - REF-0130
+    - REF-0147
+    - REF-0150
+    - REF-0156
+    - REF-0158
+    - REF-0171
+    - REF-0175
+    - REF-0185
+    - REF-0201
+    - REF-0221
+    - REF-0267
+    - REF-0286
+    - REF-0294
+    - REF-0307
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0008
+    - REF-0026
+    - REF-0034
+    - REF-0066
+    - REF-0067
+    - REF-0116
+    - REF-0130
+    - REF-0147
+    - REF-0150
+    - REF-0156
+    - REF-0158
+    - REF-0171
+    - REF-0175
+    - REF-0185
+    - REF-0201
+    - REF-0221
+    - REF-0267
+    - REF-0286
+    - REF-0294
+    - REF-0307
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0008
+    - REF-0026
+    - REF-0034
+    - REF-0066
+    - REF-0067
+    - REF-0116
+    - REF-0130
+    - REF-0147
+    - REF-0150
+    - REF-0156
+    - REF-0158
+    - REF-0171
+    - REF-0175
+    - REF-0185
+    - REF-0201
+    - REF-0221
+    - REF-0267
+    - REF-0286
+    - REF-0294
+    - REF-0307
+    status: verified
+constituents: []
+contraindications:
+- note: Food amounts are generally considered safe; in the US it’s listed as GRAS as a spice/flavoring
+    (LactMed, 2025).
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  status: verified
+- note: 'Allergy risk: cumin can trigger allergic reactions in sensitive people; cross-reactivity is reported
+    within Apiaceae spices (e.g., celery/coriander/fennel/cumin) and in “pollen–spice” allergy patterns
+    (Lisiecka et al., 2025; Berghea et al., 2025).'
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  status: verified
+- note: Duke (2002) rates cumin as +++ and notes carminative, digestive, and aperitif activities at experimental
+    levels (score 1). The plant demonstrates estrogenic activity in animal studies and has antifungal
+    and antioxidant properties. Photodermatitic potential (phototoxicity) of the essential oil is noted
+    — users should avoid sun exposure after topical application. Duke advises caution in pregnancy due
+    to potential emmenagogue and antifertility effects at high medicinal doses (Duke, 2002).
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,132 @@
+common_names:
+- Flaxseed
+- linseed
+- common flax
+- flax
+scientific_name: Linum usitatissimum
+family: Linaceae
+parts_used:
+- name: Seed / Young sprouts
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0001
+    - REF-0039
+    - REF-0084
+    - REF-0105
+    - REF-0152
+    - REF-0190
+    - REF-0230
+    - REF-0288
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0001
+    - REF-0039
+    - REF-0084
+    - REF-0105
+    - REF-0152
+    - REF-0190
+    - REF-0230
+    - REF-0288
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0001
+    - REF-0039
+    - REF-0084
+    - REF-0105
+    - REF-0152
+    - REF-0190
+    - REF-0230
+    - REF-0288
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0001
+    - REF-0039
+    - REF-0084
+    - REF-0105
+    - REF-0152
+    - REF-0190
+    - REF-0230
+    - REF-0288
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0001
+    - REF-0039
+    - REF-0084
+    - REF-0105
+    - REF-0152
+    - REF-0190
+    - REF-0230
+    - REF-0288
+    status: verified
+constituents: []
+contraindications:
+- note: Flaxseeds are safe for most people at recommended food amounts (1–2 tablespoons ground/day). They
+    must be ground or milled to be bioavailable — whole seeds largely pass through the gut undigested.
+    High fibre content may cause bloating, flatulence, and loose stools, especially if fibre intake is
+    increased rapidly without adequate hydration. Flaxseeds contain cyanogenic glycosides (linamarin,
+    linustatin); cooking or roasting reduces these to negligible levels in normal food amounts. Raw seeds
+    in very large quantities are a theoretical concern, but typical use is safe (EFSA, 2017).
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+- note: 'Medication interactions: Flaxseed may reduce absorption of oral medications if taken simultaneously
+    — space flaxseed supplementation 1–2 hours from medications. Omega-3 ALA and lignans may mildly enhance
+    anticoagulant/antiplatelet effects; use caution with blood thinners. Some sources suggest caution
+    with hormone-sensitive conditions due to phytoestrogen (lignan) content, though dietary amounts are
+    unlikely to pose risk (Adolphe et al., 2010).'
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+- note: 'Pregnancy: Food amounts are generally considered safe; high-dose supplements should be discussed
+    with a clinician due to limited safety data.'
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+- note: 'Duke (2002) rates flaxseed as +++ with clinical evidence (score 2) for antiatherogenic, hypocholesterolemic,
+    laxative, lipolytic (fat-dissolving), and demulcent activities. Flaxseed''s omega-3 fatty acids (ALA)
+    and lignans are associated with reduced cardiovascular risk. Commission E approves flaxseed as a laxative
+    and for mucilaginous protection of inflamed gastrointestinal mucosa. Dose: 1–2 tablespoons ground
+    seed with ample water, twice daily. Whole seeds should be chewed or ground for full medicinal effect.
+    Cyanogenic glycosides are present but at safe levels in normal dietary amounts (Duke, 2002).'
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

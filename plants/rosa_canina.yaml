@@ -1,0 +1,61 @@
+common_names:
+- Dog-rose
+- Dog rose
+- rosehip
+- wild rose (Arthritis UK
+- 2025)
+scientific_name: Rosa canina
+family: Rosaceae
+parts_used:
+- name: Fruit / Petals / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0051
+    - REF-0076
+    - REF-0239
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0051
+    - REF-0076
+    - REF-0239
+    status: verified
+  - action: Joint support
+    reference_ids:
+    - REF-0051
+    - REF-0076
+    - REF-0239
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0051
+    - REF-0076
+    - REF-0239
+    status: verified
+constituents: []
+contraindications:
+- note: Rosa canina (dog rose) hips are generally recognized as safe (GRAS) for consumption, widely used
+    in teas, jams, and supplements. They are highly nutritious but may cause minor digestive upset (nausea,
+    diarrhea) in some users. The small, irritating hairs around the seeds should be removed before consumption.
+  reference_ids:
+  - REF-0051
+  - REF-0076
+  - REF-0239
+  status: verified
+- note: Duke (2002) rates dog rose hips as +++ with clinical evidence (score 2) for astringent activity
+    and experimental support for antioxidant and diuretic effects. Dog rose hips are exceptionally rich
+    in vitamin C and bioflavonoids. They are traditionally used for cold and influenza prevention, urinary
+    tract health, and mild diarrhea. Duke notes the diuretic (score 1) and lipoxygenase-inhibitory activities
+    as experimentally documented. The fruit is considered food-grade safe (Duke, 2002).
+  reference_ids:
+  - REF-0051
+  - REF-0076
+  - REF-0239
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

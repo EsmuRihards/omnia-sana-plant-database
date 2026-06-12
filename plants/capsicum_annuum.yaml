@@ -1,0 +1,101 @@
+common_names:
+- Chili Pepper
+- cayenne pepper
+- hot pepper
+- red pepper
+- jalapeño
+scientific_name: Capsicum annuum
+family: Solanaceae
+parts_used:
+- name: Fruit / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0010
+    - REF-0021
+    - REF-0057
+    - REF-0161
+    - REF-0169
+    - REF-0214
+    - REF-0287
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0010
+    - REF-0021
+    - REF-0057
+    - REF-0161
+    - REF-0169
+    - REF-0214
+    - REF-0287
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0010
+    - REF-0021
+    - REF-0057
+    - REF-0161
+    - REF-0169
+    - REF-0214
+    - REF-0287
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0010
+    - REF-0021
+    - REF-0057
+    - REF-0161
+    - REF-0169
+    - REF-0214
+    - REF-0287
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0010
+    - REF-0021
+    - REF-0057
+    - REF-0161
+    - REF-0169
+    - REF-0214
+    - REF-0287
+    status: verified
+constituents: []
+contraindications:
+- note: Capsaicin causes intense burning sensation; avoid contact with eyes and mucous membranes. High
+    oral doses can cause gastrointestinal irritation, nausea, and diarrhoea. Topical preparations may
+    cause skin irritation and should be used diluted. Not recommended for individuals with active peptic
+    ulcers. Caution with anticoagulants — capsaicin may enhance bleeding risk. During pregnancy, culinary
+    amounts are considered safe, but high-dose supplements should be avoided. Repeated topical application
+    leads to desensitisation (TRPV1 depletion), which is the basis for its analgesic use. Children under
+    2 should not be given capsaicin-containing topical products (Basu and Bhattacharyya, 2023).
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: verified
+- note: Duke (2002) rates cayenne/chili pepper (Capsicum annuum) highly for its clinically documented
+    analgesic, counterirritant, and rubefacient activities. Commission E approves topical capsaicin preparations
+    for muscle pain, arthritis, and neuralgia (score 2). The active compound capsaicin depletes substance
+    P in sensory neurons upon repeated application, reducing pain signals. Capsaicin cream (0.025–0.075%)
+    is a validated treatment for post-herpetic neuralgia, diabetic neuropathy, and osteoarthritis pain.
+    Internal use can irritate mucous membranes; external use requires avoiding contact with eyes and mucous
+    membranes (Duke, 2002).
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

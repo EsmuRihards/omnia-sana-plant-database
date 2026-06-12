@@ -1,0 +1,61 @@
+common_names:
+- Greater Burdock
+- burdock
+- gobo
+scientific_name: Arctium lappa
+family: Asteraceae
+parts_used:
+- name: Leaf / Root / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0211
+    - REF-0309
+    - REF-0313
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0211
+    - REF-0309
+    - REF-0313
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0211
+    - REF-0309
+    - REF-0313
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0211
+    - REF-0309
+    - REF-0313
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe as a food plant. Allergic reactions are possible in those sensitive to Asteraceae.
+    Avoid in pregnancy due to uterine-stimulating effects reported in animal studies. The burs (seed heads)
+    can cause mechanical irritation of skin and eyes on contact. Not recommended in biliary obstruction.
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  status: verified
+- note: 'Duke (2002) rates burdock as +++ and notes antibacterial, antimutagenic, antitumor, choleretic,
+    diuretic, and prebiotic (bifidogenic) activities at the experimental level (score 1). The root is
+    rich in inulin (a prebiotic fructooligosaccharide), which promotes growth of beneficial intestinal
+    bacteria. Dose: 1–2 g dried root in tea three times daily, or 2–4 ml of tincture. Duke notes burdock''s
+    general safety, though it belongs to the Asteraceae family and can trigger reactions in sensitive
+    individuals. It should be distinguished from belladonna and similar plants, which resemble it in early
+    growth (Duke, 2002).'
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

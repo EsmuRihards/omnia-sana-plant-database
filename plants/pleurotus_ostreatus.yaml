@@ -1,0 +1,66 @@
+common_names:
+- Oyster mushroom
+- tree oyster mushroom
+scientific_name: Pleurotus ostreatus
+family: Pleurotaceae
+parts_used:
+- name: Mycelium / Whole Plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0102
+    - REF-0258
+    - REF-0300
+    status: verified
+  - action: Anticancer
+    reference_ids:
+    - REF-0102
+    - REF-0258
+    - REF-0300
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0102
+    - REF-0258
+    - REF-0300
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0102
+    - REF-0258
+    - REF-0300
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0102
+    - REF-0258
+    - REF-0300
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0102
+    - REF-0258
+    - REF-0300
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe as a food. Rare cases of occupational asthma and allergy reported among people
+    working with mushroom cultivation. Safe for culinary use without significant known interactions.
+  reference_ids:
+  - REF-0102
+  - REF-0258
+  - REF-0300
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for Oyster mushroom (Pleurotus ostreatus) in the
+    Handbook of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0102
+  - REF-0258
+  - REF-0300
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

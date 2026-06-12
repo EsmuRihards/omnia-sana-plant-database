@@ -1,0 +1,72 @@
+common_names:
+- Scots Pine
+- Scotch pine
+- Baltic pine
+scientific_name: Pinus sylvestris
+family: Pinaceae
+parts_used:
+- name: Bark / Leaf / Sap / Young sprouts
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0018
+    - REF-0098
+    - REF-0279
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0018
+    - REF-0098
+    - REF-0279
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0018
+    - REF-0098
+    - REF-0279
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0018
+    - REF-0098
+    - REF-0279
+    status: verified
+  - action: Expectorant
+    reference_ids:
+    - REF-0018
+    - REF-0098
+    - REF-0279
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0018
+    - REF-0098
+    - REF-0279
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe in normal amounts. Pine essential oil should not be ingested; topical use only
+    in diluted form. May irritate airways in high concentrations. Allergic reactions to pine pollen and
+    resin are common. Turpentine products are irritant and potentially toxic if ingested.
+  reference_ids:
+  - REF-0018
+  - REF-0098
+  - REF-0279
+  status: verified
+- note: 'Duke (2002) rates Scotch pine as + and notes antiseptic, antibacterial (score 1), and bronchospasmolytic
+    activities. Commission E (KOM) and PhEur (PIP) approve pine needle preparations for topical use in
+    rheumatic and neuralgic conditions and for inhalations in upper respiratory catarrh. Duke cautions
+    that pine needle oil should not be inhaled by patients with severe asthma, whooping cough, or laryngospasm.
+    Pine bud preparations are traditionally used for bronchitis and sinus congestion. Dose: 100–200 mg
+    essential oil in ointment or cream for topical use (Duke, 2002).'
+  reference_ids:
+  - REF-0018
+  - REF-0098
+  - REF-0279
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

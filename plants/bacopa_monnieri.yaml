@@ -1,0 +1,59 @@
+common_names:
+- Water Hyssop
+- Bacopa
+- brahmi
+- herb of grace
+scientific_name: Bacopa monnieri
+family: Plantaginaceae
+parts_used:
+- name: Leaf / Whole Plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0038
+    - REF-0283
+    - REF-0309
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0038
+    - REF-0283
+    - REF-0309
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0038
+    - REF-0283
+    - REF-0309
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0038
+    - REF-0283
+    - REF-0309
+    status: verified
+constituents: []
+contraindications:
+- note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal
+    — nausea, stomach cramps, and increased bowel movements — which can be reduced by taking with food.
+    Not recommended during pregnancy. May interact with medications that increase acetylcholine levels
+    (e.g. Alzheimer's medications). Use with caution in thyroid conditions, as bacopa may increase thyroid
+    hormone levels.
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for Bacopa monnieri (water hyssop/brahmi) in the
+    Handbook of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

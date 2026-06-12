@@ -1,0 +1,71 @@
+common_names:
+- Elder
+- elderberry
+- black elderberry
+- European elder
+- common elder
+- elderflower (NCCIH
+- 2024)
+scientific_name: Sambucus nigra
+family: Adoxaceae
+parts_used:
+- name: Flower / Fruit
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0085
+    - REF-0243
+    - REF-0316
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0085
+    - REF-0243
+    - REF-0316
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0085
+    - REF-0243
+    - REF-0316
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0085
+    - REF-0243
+    - REF-0316
+    status: verified
+constituents: []
+contraindications:
+- note: The dark blue or purple berries are mildly poisonous in their raw state, but are edible after
+    cooking.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-nccih-26https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-Fagan-2019-28
+    Components of the elderberry plant, including its fruit, contain diverse https://en.wikipedia.org/wiki/Phytochemical,
+    such as https://en.wikipedia.org/wiki/Alkaloid, https://en.wikipedia.org/wiki/Lectin, and cyanogenic
+    glycosides, which may be toxic if consumed raw.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8
+    Consumption of berries, leaves, bark or stems, if not properly prepared, may cause https://en.wikipedia.org/wiki/Nausea,
+    vomiting, and severe https://en.wikipedia.org/wiki/Diarrhea.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-nccih-26https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27
+    Elderberry plant constituents or products should not be consumed during pregnancy or by people with
+    https://en.wikipedia.org/wiki/Allergy or https://en.wikipedia.org/wiki/Gastrointestinal_disease.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27
+    Elderberry products may cause https://en.wikipedia.org/wiki/Adverse_effect when used with https://en.wikipedia.org/wiki/Prescription_drug.https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-drugs-8https://en.wikipedia.org/wiki/Sambucus_nigra#cite_note-msk-27
+  reference_ids:
+  - REF-0085
+  - REF-0243
+  - REF-0316
+  status: verified
+- note: 'Duke (2002) rates elderflower and elderberry as +++ with clinical evidence (score 2) for bronchostimulant,
+    diaphoretic, and secretagogue activities, consistent with Commission E approval. Clinical use for
+    colds, bronchitis, and fever is well-supported. Dose: dried flower: 3–5 g as tea three times daily.
+    Important safety consideration: raw elderberries and elder bark contain sambunigrin (cyanogenic glycoside)
+    and lectins — always cook berries before consumption, and avoid bark preparations for medicinal use
+    without expert guidance (Duke, 2002).'
+  reference_ids:
+  - REF-0085
+  - REF-0243
+  - REF-0316
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

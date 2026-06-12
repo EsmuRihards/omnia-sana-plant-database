@@ -1,0 +1,114 @@
+common_names:
+- Garlic
+- cultivated garlic
+- common garlic
+scientific_name: Allium sativum
+family: Amaryllidaceae
+parts_used:
+- name: Leaf / Root / Young sprouts
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0127
+    - REF-0166
+    - REF-0177
+    - REF-0204
+    - REF-0209
+    - REF-0312
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0127
+    - REF-0166
+    - REF-0177
+    - REF-0204
+    - REF-0209
+    - REF-0312
+    status: verified
+  - action: Antifungal
+    reference_ids:
+    - REF-0127
+    - REF-0166
+    - REF-0177
+    - REF-0204
+    - REF-0209
+    - REF-0312
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0127
+    - REF-0166
+    - REF-0177
+    - REF-0204
+    - REF-0209
+    - REF-0312
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0127
+    - REF-0166
+    - REF-0177
+    - REF-0204
+    - REF-0209
+    - REF-0312
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0127
+    - REF-0166
+    - REF-0177
+    - REF-0204
+    - REF-0209
+    - REF-0312
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0127
+    - REF-0166
+    - REF-0177
+    - REF-0204
+    - REF-0209
+    - REF-0312
+    status: verified
+constituents: []
+contraindications:
+- note: 'Garlic is generally very safe at culinary and supplemental doses for most healthy adults. Raw
+    garlic contains allicin (formed when crushed) at concentrations that can irritate the gastrointestinal
+    tract — nausea, heartburn, flatulence, and diarrhoea are the most common side effects, especially
+    with large amounts of raw garlic on an empty stomach. Garlic may inhibit platelet aggregation and
+    enhance anticoagulant effects of warfarin — use caution with blood-thinning medications, especially
+    before surgery (stop 7–10 days prior). May lower blood pressure and blood sugar — caution when combined
+    with antihypertensive or antidiabetic medications. Topical raw garlic can cause chemical burns (contact
+    dermatitis) and should not be applied undiluted to skin for prolonged periods. Odour (from allicin
+    metabolites) affects breath and perspiration. Pregnancy: culinary amounts safe; avoid medicinal-dose
+    supplements due to blood-thinning risk (National Center for Complementary and Integrative Health,
+    2021).'
+  reference_ids:
+  - REF-0127
+  - REF-0166
+  - REF-0177
+  - REF-0204
+  - REF-0209
+  - REF-0312
+  status: verified
+- note: 'Duke (2002) rates garlic as +++ with exceptional clinical evidence (score 3) for antiseptic activity,
+    and score 2 for anti-aggregant (antiplatelet), antiatherosclerotic, antiatherogenic, antibacterial,
+    and antimycotic effects — among the most clinically validated herbal medicines. Commission E approves
+    garlic for arteriosclerosis prevention and elevated blood lipids. Dose: 4 g (1 clove) fresh garlic
+    daily, or 300 mg standardized dry powder extract (1.3% allicin) three times daily. Important interaction:
+    garlic significantly potentiates anticoagulant medications (warfarin, aspirin) due to its anti-aggregant
+    effects; use with caution in patients on blood thinners (Duke, 2002).'
+  reference_ids:
+  - REF-0127
+  - REF-0166
+  - REF-0177
+  - REF-0204
+  - REF-0209
+  - REF-0312
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

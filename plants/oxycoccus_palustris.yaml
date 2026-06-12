@@ -1,0 +1,61 @@
+common_names:
+- Cranberry
+- bog cranberry
+- marshberry
+- swamp cranberry
+- European cranberry
+scientific_name: Oxycoccus palustris
+family: Ericaceae
+parts_used:
+- name: Fruit
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0114
+    - REF-0124
+    - REF-0253
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0114
+    - REF-0124
+    - REF-0253
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0114
+    - REF-0124
+    - REF-0253
+    status: verified
+  - action: Urinary support
+    reference_ids:
+    - REF-0114
+    - REF-0124
+    - REF-0253
+    status: verified
+constituents: []
+contraindications:
+- note: Food amounts are generally considered safe (berries in meals, drinks, sauces). (Williams et al.,
+    2023).
+  reference_ids:
+  - REF-0114
+  - REF-0124
+  - REF-0253
+  status: verified
+- note: Duke (2002) includes cranberry primarily at the experimental level for its astringent, diuretic,
+    and antioxidant properties. Commission E has not approved cranberry for specific indications, though
+    there is evidence supporting its role in preventing urinary tract infections (UTIs) by inhibiting
+    bacterial adhesion to uroepithelial cells (proanthocyanidins). Duke notes the high vitamin C and organic
+    acid content. Food-grade consumption is considered safe and beneficial as a urinary acidifier (Duke,
+    2002).
+  reference_ids:
+  - REF-0114
+  - REF-0124
+  - REF-0253
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

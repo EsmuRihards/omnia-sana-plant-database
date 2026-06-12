@@ -1,0 +1,66 @@
+common_names:
+- Midland Hawthorn
+- woodland hawthorn
+- may tree
+scientific_name: Crataegus laevigata
+family: Rosaceae
+parts_used:
+- name: Flower / Fruit / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0108
+    - REF-0138
+    - REF-0196
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0108
+    - REF-0138
+    - REF-0196
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0108
+    - REF-0138
+    - REF-0196
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0108
+    - REF-0138
+    - REF-0196
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0108
+    - REF-0138
+    - REF-0196
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe and well tolerated. High doses may cause low blood pressure and sedation. May interact
+    with cardiac glycosides (digoxin) and antihypertensive drugs. Consult a physician before using with
+    existing heart medications.
+  reference_ids:
+  - REF-0108
+  - REF-0138
+  - REF-0196
+  status: verified
+- note: Duke (2002) rates hawthorn (Crataegus spp., including C. laevigata) as a triple-plus herb (+++)
+    with Commission E approval (score 2-3) for decreasing cardiac output in functional Stage II heart
+    insufficiency (NYHA). Clinical evidence supports hawthorn standardized extracts (80-500 mg, standardized
+    to flavonoids or procyanidins) for angina, arrhythmia, atherosclerosis, and hypertension. Hawthorn
+    may potentiate digitalis and other cardiac medications and is not considered suitable for self-medication
+    without professional guidance (Duke, 2002).
+  reference_ids:
+  - REF-0108
+  - REF-0138
+  - REF-0196
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

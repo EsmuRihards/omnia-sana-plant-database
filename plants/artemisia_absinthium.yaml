@@ -1,0 +1,76 @@
+common_names:
+- Wormwood
+- common wormwood
+- grand wormwood
+scientific_name: Artemisia absinthium
+family: Asteraceae
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0020
+    - REF-0098
+    - REF-0112
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0020
+    - REF-0098
+    - REF-0112
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0020
+    - REF-0098
+    - REF-0112
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0020
+    - REF-0098
+    - REF-0112
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0020
+    - REF-0098
+    - REF-0112
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0020
+    - REF-0098
+    - REF-0112
+    status: verified
+constituents: []
+contraindications:
+- note: 'CAUTION: Contains thujone, which is neurotoxic in significant amounts. Internal use should be
+    limited in duration and dose — short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful
+    uterine stimulant). Avoid in epilepsy, renal disease, and in children. The small amounts present in
+    properly prepared bitter tinctures and vermouth are generally considered safe. The thujone content
+    of absinthe was historically exaggerated.'
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: verified
+- note: Duke (2002) rates wormwood as + (use with caution) and provides clinical evidence (score 2) for
+    use as an aperitif and bitter digestive tonic, consistent with Commission E approval for dyspeptic
+    complaints and loss of appetite. The plant contains absinthin and artabsin (bitter sesquiterpene lactones)
+    responsible for digestive stimulation, and also thujone — a neurotoxic ketone that is the active agent
+    responsible for 'absinthism' (historical neurological syndrome linked to absinthe consumption). Duke
+    strongly cautions that thujone content limits safe long-term use, and wormwood should not be taken
+    internally for more than 4 weeks at a time. Strictly contraindicated in pregnancy (abortifacient,
+    neurotoxic) and epilepsy (Duke, 2002).
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

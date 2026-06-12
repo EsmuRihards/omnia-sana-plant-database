@@ -1,0 +1,80 @@
+common_names:
+- Peppermint
+- brandy mint
+- balm mint
+scientific_name: Mentha × piperita
+family: Lamiaceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0004
+    - REF-0100
+    - REF-0163
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0004
+    - REF-0100
+    - REF-0163
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0004
+    - REF-0100
+    - REF-0163
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0004
+    - REF-0100
+    - REF-0163
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0004
+    - REF-0100
+    - REF-0163
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0004
+    - REF-0100
+    - REF-0163
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0004
+    - REF-0100
+    - REF-0163
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children
+    — menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing
+    drugs. May worsen GERD by relaxing the lower oesophageal sphincter. Avoid in bile duct obstruction
+    and gallstones.
+  reference_ids:
+  - REF-0004
+  - REF-0100
+  - REF-0163
+  status: verified
+- note: 'Duke (2002) rates peppermint as +++ with clinical evidence (score 2) for antispasmodic activity,
+    consistent with Commission E approval for IBS (irritable bowel syndrome) using enteric-coated peppermint
+    oil capsules. Enteric-coated peppermint oil is one of the most clinically validated herbal treatments
+    for IBS, reducing abdominal pain and spasm. Dose: 0.6 ml enteric-coated oil two to three times daily
+    between meals (for IBS); 1.5–3 g dried leaf as tea three times daily for digestive complaints. Peppermint
+    should not be applied near the face or nostrils of infants and small children (risk of laryngospasm
+    from menthol). Contraindicated in cholelithiasis (gallstones) (Duke, 2002).'
+  reference_ids:
+  - REF-0004
+  - REF-0100
+  - REF-0163
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

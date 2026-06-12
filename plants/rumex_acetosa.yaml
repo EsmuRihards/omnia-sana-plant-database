@@ -1,0 +1,76 @@
+common_names:
+- Common Sorrel
+- garden sorrel
+- sorrel
+- 'French: “oseille” (Royal Botanic Gardens'
+- Kew
+- n.d.)
+scientific_name: Rumex acetosa
+family: Polygonaceae
+parts_used:
+- name: Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0048
+    - REF-0098
+    - REF-0241
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0048
+    - REF-0098
+    - REF-0241
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0048
+    - REF-0098
+    - REF-0241
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0048
+    - REF-0098
+    - REF-0241
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0048
+    - REF-0098
+    - REF-0241
+    status: verified
+constituents: []
+contraindications:
+- note: 'High in oxalates (the sour taste): Large, frequent amounts can be a bad idea if you’re prone
+    to kidney or bladder stones, or certain “rheumatic-type” complaints (Royal Botanic Gardens, Kew, n.d.).
+    Moderation matters: Measured oxalate levels in leaves can be high, and researchers recommend treating
+    sorrel more like an occasional delicacy than a daily staple (Tuazon-Nartea & Savage, 2013). Mineral
+    binding: Oxalic acid can reduce how much calcium you absorb from a meal (Tuazon-Nartea & Savage, 2013).
+    Sensitive stomach/mouth: Very sour leaves can irritate some people (common-sense caution; strongest
+    source is the oxalate discussion above). Pregnancy/lactation: As a normal food herb in culinary amounts
+    is generally considered fine, but avoid high-dose “medicinal” use because safety data are limited
+    (Bello et al., 2019). Foraging safety (important): Sorrel can accumulate heavy metals depending on
+    where it grows; avoid harvesting near roads/industrial areas (Gawęda, 2009).'
+  reference_ids:
+  - REF-0048
+  - REF-0098
+  - REF-0241
+  status: verified
+- note: Duke (2002) rates sorrel as ++ and notes diuretic, antiscorbutic (high vitamin C), and depurative
+    activities at experimental and folkloric levels. The plant is traditionally used for anemia, fever,
+    and scurvy prevention. High oxalic acid content is an important consideration — excessive consumption
+    can promote kidney stone formation (oxalate stones) and may be harmful in individuals with gout or
+    existing kidney disease. Duke advises limiting medicinal use and avoiding in those with a history
+    of calcium oxalate kidney stones (Duke, 2002).
+  reference_ids:
+  - REF-0048
+  - REF-0098
+  - REF-0241
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,86 @@
+common_names:
+- Tumeric
+- Turmeric
+- common turmeric
+- Indian saffron
+scientific_name: Curcuma longa
+family: Zingiberaceae
+parts_used:
+- name: Rhizome
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0002
+    - REF-0273
+    - REF-0305
+    status: verified
+  - action: Anticancer
+    reference_ids:
+    - REF-0002
+    - REF-0273
+    - REF-0305
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0002
+    - REF-0273
+    - REF-0305
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0002
+    - REF-0273
+    - REF-0305
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0002
+    - REF-0273
+    - REF-0305
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0002
+    - REF-0273
+    - REF-0305
+    status: verified
+  - action: Gastroprotective
+    reference_ids:
+    - REF-0002
+    - REF-0273
+    - REF-0305
+    status: verified
+  - action: Joint support
+    reference_ids:
+    - REF-0002
+    - REF-0273
+    - REF-0305
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe in culinary quantities. High-dose curcumin supplements may cause gastrointestinal
+    upset. May interact with anticoagulants (warfarin), antidiabetic drugs, and acid-suppressing medications.
+    Avoid very high doses during pregnancy and breastfeeding. Rarely causes allergic reactions.
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+- note: 'Duke (2002) rates turmeric as +++ with clinical evidence (score 2) for anti-inflammatory activity,
+    consistent with Commission E and WHO approvals. Curcumin is the primary bioactive compound with well-documented
+    anti-inflammatory, antioxidant, anti-aggregant, and hepatoprotective effects. Duke notes Commission
+    E approval for dyspeptic complaints. Dose: 1.5–3 g dried rhizome powder daily. A major pharmacological
+    consideration is bioavailability: curcumin alone has low absorption, but combining with piperine (black
+    pepper) increases bioavailability by up to 2000%. Contraindicated in bile duct obstruction; use with
+    caution in gallstones and during pregnancy at medicinal doses (Duke, 2002).'
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

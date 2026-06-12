@@ -1,0 +1,85 @@
+common_names:
+- Lingzhi
+- Reishi
+- varnished conk
+- mushroom of immortality
+scientific_name: Ganoderma lingzhi
+family: Ganodermataceae
+parts_used:
+- name: Mycelium / Whole Plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0019
+    - REF-0125
+    - REF-0298
+    status: verified
+  - action: Anticancer
+    reference_ids:
+    - REF-0019
+    - REF-0125
+    - REF-0298
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0019
+    - REF-0125
+    - REF-0298
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0019
+    - REF-0125
+    - REF-0298
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0019
+    - REF-0125
+    - REF-0298
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0019
+    - REF-0125
+    - REF-0298
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0019
+    - REF-0125
+    - REF-0298
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0019
+    - REF-0125
+    - REF-0298
+    status: verified
+constituents: []
+contraindications:
+- note: Generally well tolerated at standard doses. May cause mild digestive upset, dry mouth, or dizziness
+    in some individuals. May enhance the effects of anticoagulant and antihypertensive medications. Avoid
+    during pregnancy and breastfeeding. Extended use beyond 6 months is not well studied in humans.
+  reference_ids:
+  - REF-0019
+  - REF-0125
+  - REF-0298
+  status: verified
+- note: Duke (2002) rates reishi (Ganoderma lucidum) as + and notes immunostimulant, hepatoprotective,
+    antioxidant, antitumor, and hypoglycemic activities at the experimental level (score 1). It is a key
+    adaptogen in traditional Chinese medicine, valued for its polysaccharide (beta-glucan) content. Duke
+    notes antiviral (score 1) and anti-aggregant activities. No strong clinical trials existed at time
+    of publication, but lentinan and polysaccharide fractions from related species show immunomodulatory
+    potential. Duke suggests caution in bleeding disorders due to anti-aggregant activity (Duke, 2002).
+  reference_ids:
+  - REF-0019
+  - REF-0125
+  - REF-0298
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

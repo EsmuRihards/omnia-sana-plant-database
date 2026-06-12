@@ -1,0 +1,72 @@
+common_names:
+- Marjoram
+- sweet marjoram
+- knotted marjoram
+scientific_name: Origanum majorana
+family: Lamiaceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0020
+    - REF-0112
+    - REF-0266
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0020
+    - REF-0112
+    - REF-0266
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0020
+    - REF-0112
+    - REF-0266
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0020
+    - REF-0112
+    - REF-0266
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0020
+    - REF-0112
+    - REF-0266
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0020
+    - REF-0112
+    - REF-0266
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe as a culinary herb. Essential oil should not be ingested in large amounts
+    and avoided in pregnancy. Theoretically may interact with anticoagulants. Avoid medicinal doses during
+    pregnancy.
+  reference_ids:
+  - REF-0020
+  - REF-0112
+  - REF-0266
+  status: verified
+- note: 'Duke (2002) rates marjoram (Origanum majorana) as +++ and notes antiviral, antispasmodic, COX-2
+    inhibitory, and antiseptic activities at the experimental level (score 1). It demonstrates antiherpetic
+    activity in vitro. The plant contains rosmarinic acid and thymol, which contribute to antioxidant
+    and antimicrobial effects. Dose: 1–2 g dried herb as tea three times daily or equivalent preparations.
+    Duke notes the plant is generally well-tolerated with no significant contraindications at usual herbal
+    doses (Duke, 2002).'
+  reference_ids:
+  - REF-0020
+  - REF-0112
+  - REF-0266
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

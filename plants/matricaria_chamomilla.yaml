@@ -1,0 +1,138 @@
+common_names:
+- Chamomile
+- German chamomile
+- blue chamomile
+- wild chamomile
+- Scented Mayweed
+scientific_name: Matricaria chamomilla
+family: Asteraceae
+parts_used:
+- name: Flower
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+  - action: Dermatological
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0079
+    - REF-0112
+    - REF-0189
+    - REF-0231
+    - REF-0280
+    status: verified
+constituents: []
+contraindications:
+- note: 'Generally considered very safe when used as tea or topical preparations.Allergy risk: People
+    allergic to ragweed, daisies, or other Asteraceae plants may react (itching, rash).Blood thinners:
+    Chamomile may slightly enhance effects of anticoagulants—use large amounts cautiously.Pregnancy: Normal
+    tea amounts are usually considered safe, but concentrated extracts should be used with caution.Topical
+    use: Rare skin irritation in sensitive individuals.'
+  reference_ids:
+  - REF-0079
+  - REF-0112
+  - REF-0189
+  - REF-0231
+  - REF-0280
+  status: verified
+- note: 'Duke (2002) rates German chamomile (Matricaria chamomilla) highly for anti-inflammatory, antispasmodic,
+    and wound-healing activities. The essential oil contains the potent anti-inflammatory compound alpha-bisabolol.
+    Chamomile is Commission E approved for digestive complaints and topical wound care. Dose: 3 g dried
+    flower heads per cup of water, three times daily. Alpha-bisabolol is noted as one of the most active
+    natural anti-inflammatory compounds known. Caution: chamomile belongs to the Asteraceae family and
+    can cause allergic reactions in individuals sensitive to ragweed, chrysanthemums, or related plants
+    (Duke, 2002).'
+  reference_ids:
+  - REF-0079
+  - REF-0112
+  - REF-0189
+  - REF-0231
+  - REF-0280
+  status: verified
+- note: Generally very safe. Rare allergic reactions in individuals sensitive to the Asteraceae family
+    (ragweed, chrysanthemums). May cause contact dermatitis with topical essential oil use. Avoid very
+    high doses in pregnancy. Well tolerated by children in appropriate amounts.
+  reference_ids:
+  - REF-0079
+  - REF-0112
+  - REF-0189
+  - REF-0231
+  - REF-0280
+  status: verified
+- note: 'Scented mayweed (Matricaria chamomilla) shares the same species as German chamomile (see German
+    Chamomile entry above). Duke (2002) provides the same clinical support: Commission E approves it for
+    dyspeptic complaints (orally) and skin and mucous membrane inflammation (topically). Anti-inflammatory,
+    antispasmodic, and wound-healing activities are well-established (Duke, 2002).'
+  reference_ids:
+  - REF-0079
+  - REF-0112
+  - REF-0189
+  - REF-0231
+  - REF-0280
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

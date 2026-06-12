@@ -1,0 +1,61 @@
+common_names:
+- Hyssop
+- common hyssop
+scientific_name: Hyssopus officinalis
+family: Lamiaceae
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0072
+    - REF-0143
+    - REF-0227
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0072
+    - REF-0143
+    - REF-0227
+    status: verified
+  - action: Expectorant
+    reference_ids:
+    - REF-0072
+    - REF-0143
+    - REF-0227
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0072
+    - REF-0143
+    - REF-0227
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe at therapeutic doses. Hyssop essential oil is neurotoxic in high doses (contains
+    pinocamphone and isopinocamphone) — internal use of the essential oil is contraindicated, especially
+    in epilepsy, pregnancy, and children. The herb (dried or fresh) at normal tea doses does not carry
+    this risk. Not recommended internally in medicinal doses during pregnancy.
+  reference_ids:
+  - REF-0072
+  - REF-0143
+  - REF-0227
+  status: verified
+- note: 'Duke (2002) rates hyssop as ++ and notes clinical evidence (score 2) for antiviral activity,
+    particularly against herpes simplex virus, which is notable clinical validation for this herb. It
+    also demonstrates experimental antibacterial, antispasmodic, and expectorant activities. Duke warns
+    that hyssop essential oil is potentially convulsant at higher doses (due to pinocamphone content)
+    and should not be used in epilepsy or by children. Dose: 2–3 g dried herb as tea three times daily;
+    no more than 0.3 ml of essential oil internally. Avoid in pregnancy due to emmenagogue properties
+    (Duke, 2002).'
+  reference_ids:
+  - REF-0072
+  - REF-0143
+  - REF-0227
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

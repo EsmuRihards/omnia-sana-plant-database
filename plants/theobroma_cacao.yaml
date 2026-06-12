@@ -1,0 +1,77 @@
+common_names:
+- Cacao
+- Cocoa
+- Chocolate tree
+- Cocoa bean
+scientific_name: Theobroma cacao
+family: Malvaceae
+parts_used:
+- name: Fruit / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0131
+    - REF-0167
+    - REF-0249
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0131
+    - REF-0167
+    - REF-0249
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0131
+    - REF-0167
+    - REF-0249
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0131
+    - REF-0167
+    - REF-0249
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0131
+    - REF-0167
+    - REF-0249
+    status: verified
+constituents: []
+contraindications:
+- note: '• Stimulant effect (most common issue): cacao naturally contains theobromine (and some caffeine).
+    In larger amounts it can feel like a “gentle coffee”: faster heartbeat, restlessness, trouble sleeping.
+    • Heavy metals (quality matters): cocoa/chocolate can contain cadmium and lead from soil and processing.
+    For frequent use (especially powders, dark chocolate, “ceremonial” paste), choose brands that publish
+    lab tests. • Pregnancy (extra caution late pregnancy): some research suggests very polyphenol-rich
+    foods (including cocoa/dark chocolate) could affect fetal circulation in late pregnancy. This is not
+    “everyone must avoid chocolate,” but high-dose cacao drinks are something to discuss with a clinician
+    if pregnant—especially in the 3rd trimester. • Breastfeeding: moderate chocolate/cacao is usually
+    fine, but very large amounts can affect some infants (stimulation/irritability) because stimulant
+    compounds can pass into milk in small amounts. • If you’re sensitive: cacao can worsen reflux/heartburn,
+    trigger migraines in some people, or cause nausea—especially in strong ceremonial-style servings.
+    • Medication caution: if you take stimulant-sensitive meds, have heart rhythm issues, severe anxiety,
+    or use MAOI antidepressants, treat high-dose cacao drinks like a stimulant and be cautious'
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: verified
+- note: Duke (2002) notes that cacao is primarily known for its cardiotonic, CNS-stimulant, and broncholytic
+    activities at the experimental level (score 1). Theobromine is identified as the principal active
+    constituent responsible for mild bronchodilation and cardiovascular stimulation. Cocoa butter is classified
+    as emollient (score 1). Chocolate's content of phenylethylamine may contribute to reported aphrodisiac
+    properties. Duke notes that excessive consumption may be cariogenic and pro-acneic, and cocoa is a
+    known allergen in sensitive individuals (Duke, 2002).
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

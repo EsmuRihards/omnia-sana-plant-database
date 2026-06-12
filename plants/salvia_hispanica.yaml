@@ -1,0 +1,65 @@
+common_names:
+- Chia
+- chia seed
+- Spanish sage
+- Salba
+scientific_name: Salvia hispanica
+family: Lamiaceae
+parts_used:
+- name: Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0046
+    - REF-0242
+    - REF-0297
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0046
+    - REF-0242
+    - REF-0297
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0046
+    - REF-0242
+    - REF-0297
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0046
+    - REF-0242
+    - REF-0297
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0046
+    - REF-0242
+    - REF-0297
+    status: verified
+constituents: []
+contraindications:
+- note: 'Never swallow a spoon of dry chia seeds and “chase” with water. They can swell fast and (rarely)
+    cause a blockage, especially if someone already has swallowing problems (American College of Gastroenterology,
+    2014) Blood pressure / diabetes meds: if you’re on medication for blood pressure or blood sugar, chia
+    as a major daily addition may slightly add to the effect for some people—monitor and talk to your
+    clinician (Saadh et al., 2024) (Pam et al., 2024).'
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for Chia (Salvia hispanica) in the Handbook of
+    Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

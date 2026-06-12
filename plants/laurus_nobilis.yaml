@@ -1,0 +1,108 @@
+common_names:
+- Bay Leaf
+- Bay Laurel
+- Sweet Bay
+- True Laurel
+- Laurel Leaf
+scientific_name: Laurus nobilis
+family: Lauraceae
+parts_used:
+- name: Fruit / Leaf / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0065
+    - REF-0088
+    - REF-0202
+    - REF-0277
+    - REF-0291
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0065
+    - REF-0088
+    - REF-0202
+    - REF-0277
+    - REF-0291
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0065
+    - REF-0088
+    - REF-0202
+    - REF-0277
+    - REF-0291
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0065
+    - REF-0088
+    - REF-0202
+    - REF-0277
+    - REF-0291
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0065
+    - REF-0088
+    - REF-0202
+    - REF-0277
+    - REF-0291
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0065
+    - REF-0088
+    - REF-0202
+    - REF-0277
+    - REF-0291
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0065
+    - REF-0088
+    - REF-0202
+    - REF-0277
+    - REF-0291
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0065
+    - REF-0088
+    - REF-0202
+    - REF-0277
+    - REF-0291
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe when used in food amounts. Not toxic to people and safe to cook with. Leaves are
+    very rigid and leathery - should be removed before eating as they don't soften with cooking and edges
+    can be sharp. Insufficient reliable information about safety during pregnancy or breastfeeding - stick
+    to food amounts. Large amounts of bay leaf tea may cause vomiting (emetic properties) and drowsiness
+    (sedative properties). In high doses, bay laurel has cytotoxic activity. Some people may experience
+    allergic contact dermatitis from bay laurel oil.
+  reference_ids:
+  - REF-0065
+  - REF-0088
+  - REF-0202
+  - REF-0277
+  - REF-0291
+  status: verified
+- note: Duke (2002) notes antibacterial, anti-inflammatory, and antioxidant activities for bay laurel,
+    primarily at the experimental level. The essential oil contains eugenol and 1,8-cineole as principal
+    bioactive components. Traditional dosages in European phytotherapy include 1–3 g of dried leaf as
+    a tea. Caution is advised as the essential oil may cause allergic contact dermatitis, and bay berries
+    should not be confused with the less toxic leaves (Duke, 2002).
+  reference_ids:
+  - REF-0065
+  - REF-0088
+  - REF-0202
+  - REF-0277
+  - REF-0291
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

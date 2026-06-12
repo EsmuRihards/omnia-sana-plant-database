@@ -1,0 +1,78 @@
+common_names:
+- Sea buckthorn
+- common sea buckthorn
+- seaberry
+scientific_name: Hippophae rhamnoides
+family: Elaeagnaceae
+parts_used:
+- name: Fruit / Leaf / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0049
+    - REF-0206
+    - REF-0319
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0049
+    - REF-0206
+    - REF-0319
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0049
+    - REF-0206
+    - REF-0319
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0049
+    - REF-0206
+    - REF-0319
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0049
+    - REF-0206
+    - REF-0319
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0049
+    - REF-0206
+    - REF-0319
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0049
+    - REF-0206
+    - REF-0319
+    status: verified
+constituents: []
+contraindications:
+- note: Berries and juice are safe as food. Seed oil is safe topically and orally in moderate amounts.
+    May have mild anticoagulant effects. May lower blood pressure and blood sugar — use caution with medications.
+    Allergic reactions are rare.
+  reference_ids:
+  - REF-0049
+  - REF-0206
+  - REF-0319
+  status: verified
+- note: Duke (2002) rates sea buckthorn as +++ and notes antioxidant, hepatoprotective, antiulcer, and
+    vulnerary activities at the experimental level (score 1). The berries are exceptionally rich in vitamins
+    C (one of the highest natural sources) and E, carotenoids, flavonoids, and omega-7 fatty acids (palmitoleic
+    acid). Duke recommends sea buckthorn as a 'food farmacy' — consumed as part of the regular diet for
+    its nutritional-medicinal benefits. Its radioprotective properties have been studied, though without
+    strong clinical validation. No significant safety concerns at food doses (Duke, 2002).
+  reference_ids:
+  - REF-0049
+  - REF-0206
+  - REF-0319
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

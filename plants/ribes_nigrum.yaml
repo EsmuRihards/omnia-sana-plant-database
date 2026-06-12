@@ -1,0 +1,85 @@
+common_names:
+- Blackcurrant
+- Black currant
+- Cassis
+scientific_name: Ribes nigrum
+family: Grossulariaceae
+parts_used:
+- name: Fruit / Leaf / Seed / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0097
+    - REF-0238
+    - REF-0302
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0097
+    - REF-0238
+    - REF-0302
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0097
+    - REF-0238
+    - REF-0302
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0097
+    - REF-0238
+    - REF-0302
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0097
+    - REF-0238
+    - REF-0302
+    status: verified
+  - action: Eye Health
+    reference_ids:
+    - REF-0097
+    - REF-0238
+    - REF-0302
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0097
+    - REF-0238
+    - REF-0302
+    status: verified
+constituents: []
+contraindications:
+- note: 'Fruit (berries) • Generally safe as food for most people; adverse effects mainly GI discomfort
+    or allergy in sensitive individuals. • If using high-dose extracts, use extra caution with blood-thinners/anticoagulants
+    (evidence is not definitive, but polyphenol-rich supplements are often treated cautiously in practice).
+    Leaf (folium) • EMA classifies blackcurrant leaf as a traditional herbal medicinal product (not “well-established
+    use”): minor joint pain and urinary-tract flushing. • Typical label cautions (EMA-style): not recommended
+    <18, avoid if you have edema due to impaired heart/kidney function, and seek medical advice if urinary
+    symptoms persist/worsen. • Pregnancy/lactation: food use is fine, but medicinal leaf dosing is generally
+    used cautiously due to limited robust safety data. Seed (seed oil) • Usually well tolerated, but may
+    cause GI upset in some people. • Caution with anticoagulants/antiplatelet drugs (PUFA supplements
+    are often used cautiously here). • Note: some trials explored maternal/infant contexts, but that does
+    not automatically mean “recommended in pregnancy” outside medical supervision.'
+  reference_ids:
+  - REF-0097
+  - REF-0238
+  - REF-0302
+  status: verified
+- note: Duke (2002) rates blackcurrant fruit highly (+++), with evidence for anti-inflammatory, angioprotective,
+    and antioxidant activities. Ribes nigrum extracts showed the richest anthocyanin and polyphenol content
+    in antioxidant studies, outperforming many other common berries. Clinical use is supported for diarrhea,
+    colds, and flu. The high vitamin C and anthocyanin content underpin its vasoprotective effects. The
+    fruit is treated as food-grade medicine and is classified as generally safe (Duke, 2002).
+  reference_ids:
+  - REF-0097
+  - REF-0238
+  - REF-0302
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

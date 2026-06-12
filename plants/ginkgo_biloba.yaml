@@ -1,0 +1,64 @@
+common_names:
+- Ginko
+- Ginkgo
+- maidenhair tree
+- ginkgo biloba
+scientific_name: Ginkgo biloba
+family: Ginkgoaceae
+parts_used:
+- name: Leaf / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0056
+    - REF-0128
+    - REF-0308
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0056
+    - REF-0128
+    - REF-0308
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0056
+    - REF-0128
+    - REF-0308
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0056
+    - REF-0128
+    - REF-0308
+    status: verified
+constituents: []
+contraindications:
+- note: Generally well tolerated at standard doses but notable interactions exist. Ginkgo has antiplatelet
+    and anticoagulant effects and should not be combined with warfarin, aspirin, or other blood-thinning
+    medications without medical supervision. May lower the seizure threshold — avoid in epilepsy. Possible
+    side effects include headache, dizziness, and GI upset. The raw seeds contain ginkgotoxin and are
+    toxic; only processed leaf extracts are used medicinally.
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: verified
+- note: 'Duke (2002) rates ginkgo as + (downgraded from higher rating for safety concerns) while noting
+    clinical evidence (score 2) for anti-aggregant (platelet-inhibitory), anti-Alzheimer, and antioxidant
+    activities. Commission E approves ginkgo leaf extract for cognitive deficits, peripheral circulatory
+    disorders, and vertigo. However, Duke emphasizes significant safety concerns: ginkgo substantially
+    increases bleeding risk when combined with anticoagulants (warfarin, aspirin, NSAIDs) and may cause
+    spontaneous bleeding at high doses alone. Dose: 120–240 mg standardized extract (EGb 761) daily. Contraindicated
+    with anticoagulants without medical supervision (Duke, 2002).'
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

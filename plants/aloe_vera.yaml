@@ -1,0 +1,119 @@
+common_names:
+- Aloe Vera
+- True Aloe
+- Barbados Aloe
+- Medicinal Aloe
+- Burn Plant
+- First Aid Plant
+scientific_name: Aloe vera
+family: Asphodelaceae
+parts_used:
+- name: Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0042
+    - REF-0087
+    - REF-0107
+    - REF-0176
+    - REF-0257
+    - REF-0261
+    - REF-0284
+    - REF-0290
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0042
+    - REF-0087
+    - REF-0107
+    - REF-0176
+    - REF-0257
+    - REF-0261
+    - REF-0284
+    - REF-0290
+    status: verified
+  - action: Dermatological
+    reference_ids:
+    - REF-0042
+    - REF-0087
+    - REF-0107
+    - REF-0176
+    - REF-0257
+    - REF-0261
+    - REF-0284
+    - REF-0290
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0042
+    - REF-0087
+    - REF-0107
+    - REF-0176
+    - REF-0257
+    - REF-0261
+    - REF-0284
+    - REF-0290
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0042
+    - REF-0087
+    - REF-0107
+    - REF-0176
+    - REF-0257
+    - REF-0261
+    - REF-0284
+    - REF-0290
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0042
+    - REF-0087
+    - REF-0107
+    - REF-0176
+    - REF-0257
+    - REF-0261
+    - REF-0284
+    - REF-0290
+    status: verified
+constituents: []
+contraindications:
+- note: Topical use of aloe gel is generally safe for most people. Oral use of aloe latex as a laxative
+    is potentially unsafe with prolonged use due to risk of dehydration, electrolyte imbalance, and potential
+    kidney damage. Aloe latex contains anthraquinone glycosides which may cause abdominal cramping and
+    diarrhea. Not recommended during pregnancy or breastfeeding. May interact with diabetes medications,
+    diuretics, and laxatives. Oral aloe gel at typical doses appears safe short-term but long-term safety
+    is unclear. Allergic reactions possible in sensitive individuals.
+  reference_ids:
+  - REF-0042
+  - REF-0087
+  - REF-0107
+  - REF-0176
+  - REF-0257
+  - REF-0261
+  - REF-0284
+  - REF-0290
+  status: verified
+- note: 'Duke (2002) reports clinical evidence (score 2/3) supporting aloe gel''s use in psoriasis, constipation
+    (in adults), and as a vulnerary. Gel preparations have been clinically validated for peptic ulcers
+    (excluding stress-induced), radiation burns, and skin ulcers. Dose: 1 tablespoon gel three times daily
+    or 50–200 mg dried juice equivalent per day as a laxative. An important safety distinction is made:
+    the gel (inner leaf mucilage) is AHPA Class 1 (safe), while the inner leaf juice or dried latex is
+    Class 2b due to anthraquinone content and is contraindicated in intestinal inflammation, colitis,
+    Crohn''s disease, appendicitis, and during menstruation (Duke, 2002).'
+  reference_ids:
+  - REF-0042
+  - REF-0087
+  - REF-0107
+  - REF-0176
+  - REF-0257
+  - REF-0261
+  - REF-0284
+  - REF-0290
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

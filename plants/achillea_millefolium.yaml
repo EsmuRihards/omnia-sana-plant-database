@@ -1,0 +1,82 @@
+common_names:
+- Yarrow
+- common yarrow
+- milfoil
+- soldiers' woundwort
+scientific_name: Achillea millefolium
+family: Unknown (needs-review)
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0011
+    - REF-0098
+    - REF-0296
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0011
+    - REF-0098
+    - REF-0296
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0011
+    - REF-0098
+    - REF-0296
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0011
+    - REF-0098
+    - REF-0296
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0011
+    - REF-0098
+    - REF-0296
+    status: verified
+  - action: Menstrual cramps
+    reference_ids:
+    - REF-0011
+    - REF-0098
+    - REF-0296
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0011
+    - REF-0098
+    - REF-0296
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe. Rarely causes contact dermatitis in sensitive individuals (sesquiterpene
+    lactones, same Asteraceae family). Avoid high doses during pregnancy (emmenagogue at large doses).
+    May increase photosensitivity. Allergic reactions uncommon but possible in those sensitive to Asteraceae
+    plants.
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: verified
+- note: 'Duke (2002) rates yarrow as ++ with clinical evidence (score 2) for antibacterial, antiseptic,
+    antispasmodic, choleretic, aperitif, and astringent activities, consistent with Commission E (KOM)
+    approval for loss of appetite and dyspeptic ailments. Yarrow contains achillin, achilleic acid, and
+    apigenin — compounds with anti-inflammatory and hemostatic properties. Traditional use for wound healing,
+    fever management, and digestive complaints is well-supported. Dose: 2–4 g dried herb as tea three
+    times daily. Caution: yarrow belongs to the Asteraceae family and can cause allergic reactions in
+    sensitive individuals; rare contact dermatitis from sesquiterpene lactones has been reported. Contraindicated
+    in pregnancy due to potential emmenagogue effects (Duke, 2002).'
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,62 @@
+common_names:
+- Hop
+- Hops
+- common hop
+- hop vine
+scientific_name: Humulus lupulus
+family: Cannabaceae
+parts_used:
+- name: Flower
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0024
+    - REF-0141
+    - REF-0226
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0024
+    - REF-0141
+    - REF-0226
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0024
+    - REF-0141
+    - REF-0226
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0024
+    - REF-0141
+    - REF-0226
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe at therapeutic doses for short-term use. Hop preparations may enhance the sedative
+    effects of alcohol, benzodiazepines, and other CNS depressants — avoid combination. Not recommended
+    during pregnancy or breastfeeding. May have mild oestrogenic effects due to 8-prenylnaringenin — caution
+    in hormone-sensitive conditions. Fresh hops can cause contact dermatitis in pickers.
+  reference_ids:
+  - REF-0024
+  - REF-0141
+  - REF-0226
+  status: verified
+- note: 'Duke (2002) rates hops as +++ and provides clinical evidence (score 2) for sedative activity,
+    consistent with Commission E approval for nervousness, unrest, and sleep disturbances. The primary
+    sedative compound is 2-methyl-3-buten-2-ol, formed from humulone during storage. Duke notes that hop
+    cones have estrogenic activity, explaining occupational menstrual irregularities reported among hop
+    pickers. Dose: 0.5 g dried flower in tea before bed; often combined with valerian. Hops should not
+    be used in depression, as its CNS-depressant effect may worsen depressive symptoms (Duke, 2002).'
+  reference_ids:
+  - REF-0024
+  - REF-0141
+  - REF-0226
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

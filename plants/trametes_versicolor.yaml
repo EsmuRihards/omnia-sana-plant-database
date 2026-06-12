@@ -1,0 +1,69 @@
+common_names:
+- Turkey tail
+- Turkey tail mushroom
+- many-zoned polypore
+- yun zhi
+scientific_name: Trametes versicolor
+family: Polyporaceae
+parts_used:
+- name: Mycelium / Whole Plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0052
+    - REF-0282
+    - REF-0300
+    status: verified
+  - action: Anticancer
+    reference_ids:
+    - REF-0052
+    - REF-0282
+    - REF-0300
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0052
+    - REF-0282
+    - REF-0300
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0052
+    - REF-0282
+    - REF-0300
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0052
+    - REF-0282
+    - REF-0300
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0052
+    - REF-0282
+    - REF-0300
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe and well tolerated. Rare cases of digestive upset or allergic reaction. No
+    significant known drug interactions at normal doses. The PSK pharmaceutical form is used safely alongside
+    standard cancer treatments. Suitable for most adults.
+  reference_ids:
+  - REF-0052
+  - REF-0282
+  - REF-0300
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for Turkey tail mushroom (Trametes versicolor)
+    in the Handbook of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0052
+  - REF-0282
+  - REF-0300
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

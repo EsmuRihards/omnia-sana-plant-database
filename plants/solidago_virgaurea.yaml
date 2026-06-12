@@ -1,0 +1,61 @@
+common_names:
+- Goldenrod
+- European goldenrod
+- woundwort
+scientific_name: Solidago virgaurea
+family: Asteraceae
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0016
+    - REF-0069
+    - REF-0244
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0016
+    - REF-0069
+    - REF-0244
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0016
+    - REF-0069
+    - REF-0244
+    status: verified
+  - action: Urinary support
+    reference_ids:
+    - REF-0016
+    - REF-0069
+    - REF-0244
+    status: verified
+constituents: []
+contraindications:
+- note: Generally well tolerated. Not recommended in cases of fluid retention due to impaired cardiac
+    or renal function. Ensure adequate fluid intake when using as a diuretic. May cause allergic reactions
+    in individuals sensitive to Asteraceae plants. Avoid use during pregnancy and breastfeeding due to
+    limited safety data.
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: verified
+- note: 'Duke (2002) provides clinical evidence (score 2) for goldenrod''s anti-inflammatory activity,
+    consistent with Commission E approval. It is also classified as an aquaretic (increases urine output
+    without electrolyte loss) and antispasmodic, used for urinary tract irrigation therapy. Dose: 6–12
+    g dried herb daily as tea for urinary complaints. Duke cautions against use in cases of edema from
+    renal or cardiac insufficiency, and notes that the herb may cause allergic reactions in individuals
+    sensitive to Asteraceae plants (Duke, 2002).'
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

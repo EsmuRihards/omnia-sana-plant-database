@@ -1,0 +1,94 @@
+common_names:
+- Cardamom
+- Green cardamom
+- true cardamom
+- small cardamom
+- '“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking'
+scientific_name: Elettaria cardamomum
+family: Zingiberaceae
+parts_used:
+- name: Fruit / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0028
+    - REF-0122
+    - REF-0144
+    - REF-0222
+    - REF-0292
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0028
+    - REF-0122
+    - REF-0144
+    - REF-0222
+    - REF-0292
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0028
+    - REF-0122
+    - REF-0144
+    - REF-0222
+    - REF-0292
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0028
+    - REF-0122
+    - REF-0144
+    - REF-0222
+    - REF-0292
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0028
+    - REF-0122
+    - REF-0144
+    - REF-0222
+    - REF-0292
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0028
+    - REF-0122
+    - REF-0144
+    - REF-0222
+    - REF-0292
+    status: verified
+constituents: []
+contraindications:
+- note: Cardamom is generally considered safe for most people when used in culinary amounts. At medicinal
+    doses (supplement form), rare side effects include mild gastrointestinal discomfort and allergic reactions.
+    There are no well-documented serious drug interactions at culinary doses. Cardamom may mildly lower
+    blood pressure — caution if combined with antihypertensive medications. Some sources suggest potential
+    gallstone formation with very high doses, as cardamom may stimulate bile flow. Avoid therapeutic doses
+    during pregnancy until more safety data are available; culinary use is considered safe. Allergy to
+    other Zingiberaceae (ginger, turmeric) may indicate cross-reactivity risk (Korikanthimath and Hiremath,
+    2002).
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: verified
+- note: 'Duke (2002) provides clinical support (score 2) for cardamom as a cholagogue, antiviral agent,
+    and appetite stimulant. Commission E and the German PDR (PHR) approve it for loss of appetite and
+    bronchitis (score 2). The essential oil shows antispasmodic and carminative activity. Dose: 1.5 g
+    ground fruit or equivalent preparation three times daily. Duke rates cardamom as generally safe (++),
+    with no significant contraindications at therapeutic doses (Duke, 2002).'
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

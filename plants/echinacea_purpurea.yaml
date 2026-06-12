@@ -1,0 +1,54 @@
+common_names:
+- Purple coneflower
+- Snakeroot
+- Black Sampson
+scientific_name: Echinacea purpurea
+family: Asteraceae
+parts_used:
+- name: Flower / Root
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0153
+    - REF-0271
+    - REF-0308
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0153
+    - REF-0271
+    - REF-0308
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0153
+    - REF-0271
+    - REF-0308
+    status: verified
+constituents: []
+contraindications:
+- note: Generally considered safe, but caution advised for those with autoimmune conditions. Not recommended
+    for long-term use (more than 8 weeks continuously).
+  reference_ids:
+  - REF-0153
+  - REF-0271
+  - REF-0308
+  status: verified
+- note: 'Duke (2002) rates echinacea as +++ — among the most thoroughly documented herbal immunostimulants.
+    It notes experimental and clinical evidence for immunostimulant, antiviral, and anti-inflammatory
+    activities. Multiple species have been studied (E. purpurea, E. angustifolia, E. pallida), and Duke
+    emphasizes that species identification in commercial products is often unreliable. Commission E approves
+    E. purpurea for supporting immune function during colds and flu. Dose: 900 mg standardized extract
+    daily in acute use; use should be limited to 8 weeks continuous. Contraindicated in autoimmune diseases
+    (MS, lupus, HIV/AIDS), tuberculosis, and with immunosuppressive drugs (cyclosporine) (Duke, 2002).'
+  reference_ids:
+  - REF-0153
+  - REF-0271
+  - REF-0308
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

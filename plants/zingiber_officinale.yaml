@@ -1,0 +1,141 @@
+common_names:
+- Ginger
+- garden ginger
+- common ginger
+scientific_name: Zingiber officinale
+family: Zingiberaceae
+parts_used:
+- name: Rhizome / Root
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0007
+    - REF-0077
+    - REF-0120
+    - REF-0162
+    - REF-0164
+    - REF-0255
+    - REF-0269
+    - REF-0295
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0007
+    - REF-0077
+    - REF-0120
+    - REF-0162
+    - REF-0164
+    - REF-0255
+    - REF-0269
+    - REF-0295
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0007
+    - REF-0077
+    - REF-0120
+    - REF-0162
+    - REF-0164
+    - REF-0255
+    - REF-0269
+    - REF-0295
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0007
+    - REF-0077
+    - REF-0120
+    - REF-0162
+    - REF-0164
+    - REF-0255
+    - REF-0269
+    - REF-0295
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0007
+    - REF-0077
+    - REF-0120
+    - REF-0162
+    - REF-0164
+    - REF-0255
+    - REF-0269
+    - REF-0295
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0007
+    - REF-0077
+    - REF-0120
+    - REF-0162
+    - REF-0164
+    - REF-0255
+    - REF-0269
+    - REF-0295
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0007
+    - REF-0077
+    - REF-0120
+    - REF-0162
+    - REF-0164
+    - REF-0255
+    - REF-0269
+    - REF-0295
+    status: verified
+constituents: []
+contraindications:
+- note: Ginger is widely considered safe at culinary and conventional supplemental doses. At high doses
+    (>5 g/day), ginger may cause heartburn, acid reflux, mouth irritation, and mild gastrointestinal discomfort.
+    Ginger may modestly inhibit platelet aggregation and enhance the effects of anticoagulants (e.g.,
+    warfarin) — clinical significance at dietary amounts is low, but caution is warranted with high-dose
+    supplementation alongside blood-thinning medications (Shalansky et al., 2007). May lower blood sugar
+    — monitor closely if combining with antidiabetic medications.
+  reference_ids:
+  - REF-0007
+  - REF-0077
+  - REF-0120
+  - REF-0162
+  - REF-0164
+  - REF-0255
+  - REF-0269
+  - REF-0295
+  status: verified
+- note: 'Pregnancy: Ginger is among the most studied herbal remedies for pregnancy nausea. At doses up
+    to 1 g/day, it is generally considered safe and effective for nausea and vomiting of pregnancy (NVP),
+    based on multiple RCTs. The EMA monograph supports its use for NVP. Avoid doses >1.5 g/day during
+    pregnancy due to theoretical concern about anticoagulant activity. Breastfeeding: generally considered
+    safe at food amounts; limited data for medicinal doses (European Medicines Agency, 2012a).'
+  reference_ids:
+  - REF-0007
+  - REF-0077
+  - REF-0120
+  - REF-0162
+  - REF-0164
+  - REF-0255
+  - REF-0269
+  - REF-0295
+  status: verified
+- note: Duke (2002) rates ginger as a triple-plus herb (+++) with strong clinical support (score 3) for
+    antiemetic activity, including motion sickness, morning sickness, and postoperative nausea, and score
+    2 evidence for dyspepsia, diarrhea, and inflammation. Typical doses are 2-4 g dry rhizome per day
+    or 500-1000 mg fresh root three times daily; Commission E approves ginger for dyspepsia and motion
+    sickness. Ginger has antiplatelet properties and should be used with caution alongside anticoagulant
+    medications (Duke, 2002).
+  reference_ids:
+  - REF-0007
+  - REF-0077
+  - REF-0120
+  - REF-0162
+  - REF-0164
+  - REF-0255
+  - REF-0269
+  - REF-0295
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,98 @@
+common_names:
+- Birch
+- Silver Birch
+- Warty Birch
+- European White Birch
+- East Asian White Birch
+scientific_name: Betula pendula
+family: Betulaceae
+parts_used:
+- name: Bark / Leaf / Sap
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Anti-rheumatic
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Anticancer
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Antiviral
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Dermatological
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+  - action: Gastroprotective
+    reference_ids:
+    - REF-0080
+    - REF-0188
+    - REF-0203
+    status: verified
+constituents: []
+contraindications:
+- note: Generally considered safe when used appropriately. Side effects may include diarrhea, nausea,
+    and allergic reactions (itching, rash, stuffy nose). Not recommended for individuals with edema caused
+    by heart or kidney dysfunction. Ensure adequate fluid intake when using as a diuretic. Frequency of
+    side effects is unknown.
+  reference_ids:
+  - REF-0080
+  - REF-0188
+  - REF-0203
+  status: verified
+- note: Duke (2002) provides clinical evidence (score 2) for birch leaf's diuretic activity, as well as
+    for its use in urinary gravel, kidney stones, and rheumatic conditions — consistent with Commission
+    E (KOM) and German Phytotherapy (PIP) approvals. It acts as an aquaretic, increasing urine volume
+    without electrolyte loss. Antimelanomic activity has been demonstrated in experimental studies. The
+    plant has a good safety profile and is classified as non-toxic at usual therapeutic doses (Duke, 2002).
+  reference_ids:
+  - REF-0080
+  - REF-0188
+  - REF-0203
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

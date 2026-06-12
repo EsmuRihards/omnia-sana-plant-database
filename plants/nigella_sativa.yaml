@@ -1,0 +1,150 @@
+common_names:
+- Black Cumin
+- Black Seed
+- Black Caraway
+- Kalonji
+- Roman Coriander
+- Habbatul Barakah
+scientific_name: Nigella sativa
+family: Ranunculaceae
+parts_used:
+- name: Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Anticancer
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Gastroprotective
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0003
+    - REF-0054
+    - REF-0090
+    - REF-0094
+    - REF-0104
+    - REF-0142
+    - REF-0285
+    status: verified
+constituents: []
+contraindications:
+- note: Generally well-tolerated in clinical trials at doses up to 200 mg/day of oil for 90 days. Potential
+    side effects may include mild gastrointestinal discomfort. Contraindicated during pregnancy due to
+    potential uterine stimulant effects. May interact with immunosuppressants and antidiabetic medications.
+    Allergic reactions possible in sensitive individuals. Consult healthcare provider before use, especially
+    with concurrent medications.
+  reference_ids:
+  - REF-0003
+  - REF-0054
+  - REF-0090
+  - REF-0094
+  - REF-0104
+  - REF-0142
+  - REF-0285
+  status: verified
+- note: Duke (2002) describes black cumin (Nigella sativa) as one of the most multi-active medicinal spices,
+    with experimental evidence for bronchodilation, immunostimulation, hepatoprotection, and antihistaminic
+    activity. The prophet Muhammad reportedly described it as 'a cure for all things except death.' Key
+    bioactive compounds include thymoquinone and nigellone. Antihistaminic and bronchodilatory activity
+    supports its traditional use in asthma and allergic conditions. Duke notes it is generally safe at
+    culinary amounts but recommends caution with medicinal doses in pregnancy due to potential uterotonic
+    effects (Duke, 2002).
+  reference_ids:
+  - REF-0003
+  - REF-0054
+  - REF-0090
+  - REF-0094
+  - REF-0104
+  - REF-0142
+  - REF-0285
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

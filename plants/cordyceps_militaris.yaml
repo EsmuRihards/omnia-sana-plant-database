@@ -1,0 +1,73 @@
+common_names:
+- Cordyceps
+- caterpillar fungus
+- Dong Chong Xia Cao (冬蟲夏草
+- “ziemas tārps – vasaras zāle”)
+- Yartsa gunbu  (Lin
+- '2011'
+- National Geographic
+- 2011)
+scientific_name: Cordyceps militaris
+family: Cordycipitaceae
+parts_used:
+- name: Whole Plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0111
+    - REF-0218
+    - REF-0318
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0111
+    - REF-0218
+    - REF-0318
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0111
+    - REF-0218
+    - REF-0318
+    status: verified
+  - action: Physical performance / strength improvement
+    reference_ids:
+    - REF-0111
+    - REF-0218
+    - REF-0318
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0111
+    - REF-0218
+    - REF-0318
+    status: verified
+constituents: []
+contraindications:
+- note: 'Generally well tolerated short-term in human studies, but research is still limited (Ontawong
+    et al., 2024; Hirsch et al., 2016). Possible side effects: stomach upset, nausea, diarrhea, headache
+    (reported broadly for “Cordyceps” supplements; not everyone gets this) (Jędrejko, Lazur and Muszyńska,
+    2021). Avoid / use medical guidance if you have: autoimmune disease, you’re on immunosuppressants,
+    you have a bleeding disorder, or you take blood thinners/antiplatelet drugs (theoretical interaction
+    + caution used in reviews) (Jędrejko, Lazur and Muszyńska, 2021). Pregnancy/lactation: not enough
+    safety data → best to avoid (Jędrejko, Lazur and Muszyńska, 2021). Quality matters: choose reputable
+    brands with testing for contaminants and clear labeling (fruiting body vs mycelium; extract ratio)
+    (Jędrejko et al., 2022).'
+  reference_ids:
+  - REF-0111
+  - REF-0218
+  - REF-0318
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for Cordyceps (Cordyceps militaris) in the Handbook
+    of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0111
+  - REF-0218
+  - REF-0318
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

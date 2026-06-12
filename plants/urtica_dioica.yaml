@@ -1,0 +1,77 @@
+common_names:
+- Stinging Nettle
+- common nettle
+scientific_name: Urtica dioica
+family: Urticaceae
+parts_used:
+- name: Leaf / Root / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0050
+    - REF-0098
+    - REF-0263
+    status: verified
+  - action: Anti-rheumatic
+    reference_ids:
+    - REF-0050
+    - REF-0098
+    - REF-0263
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0050
+    - REF-0098
+    - REF-0263
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0050
+    - REF-0098
+    - REF-0263
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0050
+    - REF-0098
+    - REF-0263
+    status: verified
+  - action: Joint support
+    reference_ids:
+    - REF-0050
+    - REF-0098
+    - REF-0263
+    status: verified
+  - action: Urinary support
+    reference_ids:
+    - REF-0050
+    - REF-0098
+    - REF-0263
+    status: verified
+constituents: []
+contraindications:
+- note: Fresh plant causes stinging skin reaction (formic acid, histamine). Once cooked, dried, or freeze-dried,
+    this is eliminated. Root tincture may interact with diuretics, antihypertensives, and antidiabetic
+    drugs. Generally very safe in culinary and standard medicinal use. Avoid very high doses in pregnancy.
+  reference_ids:
+  - REF-0050
+  - REF-0098
+  - REF-0263
+  status: verified
+- note: 'Duke (2002) rates stinging nettle as +++ and provides clinical evidence (score 2) for antiprostatitic
+    activity (BPH — benign prostatic hyperplasia), consistent with Commission E approval for irritative
+    urination symptoms associated with BPH. Dose: 4–6 g dried herb daily or 600–1200 mg root extract.
+    The root preparations are used for BPH while leaf preparations are used for antiallergic and anti-inflammatory
+    purposes. Duke also notes experimental antiarthritic and analgesic activity. Generally safe; the most
+    common adverse effect is mild gastrointestinal upset (Duke, 2002).'
+  reference_ids:
+  - REF-0050
+  - REF-0098
+  - REF-0263
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

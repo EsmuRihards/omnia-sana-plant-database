@@ -1,0 +1,88 @@
+common_names:
+- Borage
+- Starflower
+- Common borage
+- Bee bush
+- Bee bread
+scientific_name: Borago officinalis
+family: Boraginaceae
+parts_used:
+- name: Flower / Leaf / Seed / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0129
+    - REF-0212
+    - REF-0309
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0129
+    - REF-0212
+    - REF-0309
+    status: verified
+  - action: Dermatological
+    reference_ids:
+    - REF-0129
+    - REF-0212
+    - REF-0309
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0129
+    - REF-0212
+    - REF-0309
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0129
+    - REF-0212
+    - REF-0309
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0129
+    - REF-0212
+    - REF-0309
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0129
+    - REF-0212
+    - REF-0309
+    status: verified
+constituents: []
+contraindications:
+- note: 'Pyrrolizidine alkaloids (PAs): Many Boraginaceae can produce PAs; unsaturated PAs are hepatotoxic
+    and genotoxic (risk increases with cumulative exposure). Borage as food/tea: PA presence in borage
+    consumed as herb/tea has been specifically studied; EU has set PA maximum levels for certain foods
+    including borage (context for why sourcing/limits matter). Pregnancy/breastfeeding: avoid internal
+    use of borage herb products due to PA-related concerns and risk uncertainty. Liver disease / long-term
+    use: avoid (PA risk + cumulative exposure logic). Seed oil vs herb: refined/quality-controlled seed
+    oil is generally the preferred form when borage is used medicinally, because the main target compound
+    is GLA; however, product quality and contamination control still matter. Drug interactions (caution):
+    GLA oils have been discussed with anticoagulants (bleeding risk caution is better established for
+    evening primrose oil; borage oil is often grouped in the same “GLA oil” category). Use caution if
+    on anticoagulants/antiplatelets.'
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- note: Duke (2002) rates borage as a single-plus herb (+) with predominantly folklore-level evidence.
+    Borage seed oil is rich in gamma-linolenic acid (GLA) and has been used for inflammatory conditions
+    such as arthritis and PMS, and for cardiovascular support; typical dose is one 300 mg softgel containing
+    24% GLA or 2-4 ml liquid leaf extract. Commission E does not approve borage for any indication, and
+    the herb contains hepatotoxic and carcinogenic pyrrolizidine alkaloids, making long-term use inadvisable
+    (Duke, 2002).
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,74 @@
+common_names:
+- Ajwain
+- Ajowan
+scientific_name: Trachyspermum ammi
+family: Apiaceae
+parts_used:
+- name: Leaf / Root / Seed
+  medicinal_actions:
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0015
+    - REF-0017
+    - REF-0031
+    - REF-0251
+    - REF-0275
+    status: verified
+  - action: Menstrual cramps
+    reference_ids:
+    - REF-0015
+    - REF-0017
+    - REF-0031
+    - REF-0251
+    - REF-0275
+    status: verified
+  - action: Oral health support
+    reference_ids:
+    - REF-0015
+    - REF-0017
+    - REF-0031
+    - REF-0251
+    - REF-0275
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0015
+    - REF-0017
+    - REF-0031
+    - REF-0251
+    - REF-0275
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe at culinary amounts used in Indian and Middle Eastern cooking. Ajwain essential
+    oil is highly concentrated and should not be ingested in large quantities — thymol toxicity can cause
+    nausea, vomiting, and central nervous system effects at high doses. May increase photosensitivity
+    (phototoxic potential of essential oil). May mildly lower blood pressure and blood sugar — caution
+    when combined with antihypertensive or antidiabetic medications. Contains thymol, which may enhance
+    anticoagulant effects at very high doses. Not recommended in medicinal doses during pregnancy (has
+    emmenagogue properties in traditional use) or breastfeeding. Avoid in large amounts with peptic ulcer
+    as it may aggravate gastric acidity in some individuals (Bairwa et al., 2012).
+  reference_ids:
+  - REF-0015
+  - REF-0017
+  - REF-0031
+  - REF-0251
+  - REF-0275
+  status: verified
+- note: According to Duke (2002), ajowan essential oil is fungitoxic at 500 ppm and possesses spasmogenic
+    activity. The oil is rich in thymol, which may be responsible for many of the plant's biological activities
+    including its antispasmodic, carminative, and antimicrobial effects. Recommended dosage in traditional
+    medicine is 3–6 g of powdered seed, or 125 mg of standardized extract (Duke, 2002).
+  reference_ids:
+  - REF-0015
+  - REF-0017
+  - REF-0031
+  - REF-0251
+  - REF-0275
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,81 @@
+common_names:
+- True Cinnamon
+- Ceylon cinnamon
+- Sri Lanka cinnamon
+scientific_name: Cinnamomum verum
+family: Lauraceae
+parts_used:
+- name: Bark
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0006
+    - REF-0101
+    - REF-0136
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0006
+    - REF-0101
+    - REF-0136
+    status: verified
+  - action: Antifungal
+    reference_ids:
+    - REF-0006
+    - REF-0101
+    - REF-0136
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0006
+    - REF-0101
+    - REF-0136
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0006
+    - REF-0101
+    - REF-0136
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0006
+    - REF-0101
+    - REF-0136
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0006
+    - REF-0101
+    - REF-0136
+    status: verified
+constituents: []
+contraindications:
+- note: True cinnamon (C. verum) is safe in culinary and moderate medicinal doses. Cassia (C. cassia)
+    contains high coumarin — excessive intake may be hepatotoxic and should not be confused with true
+    cinnamon. May lower blood sugar — use caution with antidiabetic medications. Avoid high doses during
+    pregnancy.
+  reference_ids:
+  - REF-0006
+  - REF-0101
+  - REF-0136
+  status: verified
+- note: 'Duke (2002) rates Ceylon cinnamon as +++ and provides clinical evidence (score 2) for antibacterial
+    activity, consistent with Commission E and WHO recognition. Key activities include antifungal (anti-Candida),
+    antispasmodic, and carminative effects. Cinnamon contains cinnamaldehyde, eugenol, and coumarin. Important
+    safety concern: Duke''s entry aggregates true cinnamon (C. verum) and cassia (C. cassia) — cassia
+    contains significantly higher coumarin levels (potentially hepatotoxic) than true Ceylon cinnamon.
+    True cinnamon (C. verum) has very low coumarin content and is safe at normal culinary doses. Medicinal
+    dose: 0.5–1 g bark powder three times daily. Caution: cinnamon bark oil is highly irritating to mucous
+    membranes (Duke, 2002).'
+  reference_ids:
+  - REF-0006
+  - REF-0101
+  - REF-0136
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

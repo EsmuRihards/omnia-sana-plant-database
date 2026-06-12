@@ -1,0 +1,69 @@
+common_names:
+- Hemp
+- industrial hemp
+- cannabis
+scientific_name: Cannabis sativa
+family: Cannabaceae
+parts_used:
+- name: Flower / Leaf / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0044
+    - REF-0058
+    - REF-0213
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0044
+    - REF-0058
+    - REF-0213
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0044
+    - REF-0058
+    - REF-0213
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0044
+    - REF-0058
+    - REF-0213
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0044
+    - REF-0058
+    - REF-0213
+    status: verified
+constituents: []
+contraindications:
+- note: Industrial hemp (low-THC cannabis) seed oil and seeds are generally safe as food. CBD products
+    derived from hemp may interact with medications metabolised by cytochrome P450 liver enzymes, including
+    common anticoagulants, antiepileptics, and immunosuppressants. THC-containing preparations impair
+    driving and are regulated or prohibited in many jurisdictions. Not recommended during pregnancy or
+    breastfeeding. Quality and cannabinoid content vary widely between hemp products.
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: verified
+- note: Duke (2002) rates cannabis as ++ and notes clinical evidence (score 2) for its antiemetic activity,
+    especially relevant for chemotherapy-induced nausea. Score 1 activities include analgesic, anticonvulsant,
+    and anti-inflammatory properties. Duke highlights the legal and pharmacological complexity, noting
+    THC as the primary psychoactive compound. Medically, synthetic cannabinoids (dronabinol, nabilone)
+    are clinically approved for nausea and anorexia. Duke cautions that while the plant has genuine therapeutic
+    potential, psychoactive effects, legal restrictions, and risk of dependence with regular use must
+    be considered (Duke, 2002).
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

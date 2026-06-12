@@ -1,0 +1,72 @@
+common_names:
+- Motherwort
+- throw-wort
+- lion's tail
+scientific_name: Leonurus cardiaca
+family: Lamiaceae
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0145
+    - REF-0198
+    - REF-0270
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0145
+    - REF-0198
+    - REF-0270
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0145
+    - REF-0198
+    - REF-0270
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0145
+    - REF-0198
+    - REF-0270
+    status: verified
+  - action: Menstrual cramps
+    reference_ids:
+    - REF-0145
+    - REF-0198
+    - REF-0270
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0145
+    - REF-0198
+    - REF-0270
+    status: verified
+constituents: []
+contraindications:
+- note: Contraindicated in pregnancy (uterine stimulant). Avoid in heavy menstrual bleeding. May enhance
+    anticoagulant and antihypertensive drug effects. Avoid in thyroid disorders. Generally well tolerated
+    in normal doses for short-term use.
+  reference_ids:
+  - REF-0145
+  - REF-0198
+  - REF-0270
+  status: verified
+- note: 'Duke (2002) rates motherwort as ++ and notes hypotensive, cardiotonic (negative chronotropic),
+    anti-aggregant, and sedative activities at the experimental level (score 1). The plant is traditionally
+    used for heart palpitations, hypertension, and menstrual regulation in European herbalism. Duke emphasizes
+    strong safety caution: motherwort has documented oxytocic (uterine-stimulating) activity and is strictly
+    contraindicated in pregnancy. It may also enhance the effects of cardiac medications and sedatives
+    (Duke, 2002).'
+  reference_ids:
+  - REF-0145
+  - REF-0198
+  - REF-0270
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,56 @@
+common_names:
+- Lions mane
+- Lauvas krēpes
+scientific_name: Hericium erinaceus
+family: Hericiaceae
+parts_used:
+- name: Fruit / Mycelium
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0157
+    - REF-0170
+    - REF-0179
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0157
+    - REF-0170
+    - REF-0179
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0157
+    - REF-0170
+    - REF-0179
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0157
+    - REF-0170
+    - REF-0179
+    status: verified
+constituents: []
+contraindications:
+- note: Mild gastrointestinal upset (nausea, bloating, diarrhoea) is the most common side effect. Rare
+    allergic reactions can occur, particularly in individuals sensitive to mushrooms, and it may slightly
+    lower blood sugar or have mild blood-thinning effects, so caution is advised for people on diabetes
+    or anticoagulant medications.
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for Lion's mane mushroom (Hericium erinaceus) in
+    the Handbook of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

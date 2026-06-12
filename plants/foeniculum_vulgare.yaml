@@ -1,0 +1,90 @@
+common_names:
+- Fennel
+- Common Fennel
+- Florence Fennel
+scientific_name: Foeniculum vulgare
+family: Apiaceae
+parts_used:
+- name: Leaf / Root / Seed
+  medicinal_actions:
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0119
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0119
+    status: verified
+  - action: Expectorant
+    reference_ids:
+    - REF-0119
+    status: verified
+constituents: []
+contraindications:
+- note: 'When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine
+    at appropriate doses for a short period of time. There isn''t enough reliable information to know
+    whether fennel is safe when used long-term. Although rare, side effects might include stomach upset
+    and seizures.'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'When applied to the skin: Fennel is possibly safe. Fennel can make skin extra sensitive to the
+    sun and make it easier to get a sunburn. Wear sunblock if you are light-skinned. Special Precautions
+    and Warnings When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used
+    as medicine at appropriate doses for a short period of time. There isn''t enough reliable information
+    to know whether fennel is safe when used long-term. Although rare, side effects might include stomach
+    upset and seizures.'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'When applied to the skin: Fennel is possibly safe. Fennel can make skin extra sensitive to the
+    sun and make it easier to get a sunburn. Wear sunblock if you are light-skinned.'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'Pregnancy: Fennel is possibly unsafe to use when pregnant. Regularly using fennel has been linked
+    to preterm birth.'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'Breast-feeding: Fennel is possibly unsafe. There are some reports of breast-feeding infants with
+    damage to their nervous systems after they were exposed to herbal tea containing fennel through breastmilk.'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'Children: Fennel is possibly safe when used at appropriate doses for up to one week in young
+    infants with colic.'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'Allergy to celery, carrot or mugwort: Fennel might cause an allergic reaction in people who are
+    sensitive to these plants.'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'Bleeding disorders: Fennel might slow blood clotting. Taking fennel might increase the risk of
+    bleeding or bruising in people with bleeding disorders.'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'Hormone-sensitive condition such as breast cancer, uterine cancer, ovarian cancer, endometriosis,
+    or uterine fibroids: Fennel might act like estrogen. If you have any condition that might be made
+    worse by estrogen, do not use fennel. (WebMD, n.d.b)'
+  reference_ids:
+  - REF-0119
+  status: verified
+- note: 'Duke (2002) rates fennel as ++ and notes antispasmodic, carminative, and digestive activities
+    at experimental levels (score 1). Its estrogenic activity is well-documented, and it is traditionally
+    used as a lactagogue. Commission E approves fennel for dyspeptic complaints and upper respiratory
+    tract catarrh. Dose: 1.5–7.5 g seed or equivalent daily. Duke cautions that fennel essential oil in
+    large amounts may be neurotoxic (estrole content), and prolonged use of concentrated extracts should
+    be avoided during pregnancy (Duke, 2002).'
+  reference_ids:
+  - REF-0119
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

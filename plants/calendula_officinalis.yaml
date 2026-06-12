@@ -1,0 +1,73 @@
+common_names:
+- Pot marigold
+- Calendula
+- common marigold
+scientific_name: Calendula officinalis
+family: Asteraceae
+parts_used:
+- name: Flower / Petals
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0112
+    - REF-0183
+    - REF-0199
+    status: verified
+  - action: Antifungal
+    reference_ids:
+    - REF-0112
+    - REF-0183
+    - REF-0199
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0112
+    - REF-0183
+    - REF-0199
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0112
+    - REF-0183
+    - REF-0199
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0112
+    - REF-0183
+    - REF-0199
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0112
+    - REF-0183
+    - REF-0199
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe for topical use. May cause contact dermatitis in rare cases (Asteraceae family
+    allergy). Internal use is safe in normal doses. Avoid during pregnancy at therapeutic doses (uterine
+    stimulant potential). Generally safe during breastfeeding for topical use.
+  reference_ids:
+  - REF-0112
+  - REF-0183
+  - REF-0199
+  status: verified
+- note: 'Duke (2002) rates calendula (Calendula officinalis) and notes anti-inflammatory, wound-healing
+    (vulnerary), antifungal, and antispasmodic activities at experimental levels. Commission E (KOM) approves
+    calendula flower for wound healing and anti-inflammatory uses, both topically and as a gargle. The
+    plant contains flavonoids, triterpene saponins (oleanolic acid glycosides), and essential oils. Dose:
+    1–2 g dried flower as tea (for mouth rinse/gargle); or as cream/ointment containing 2–5% calendula
+    extract for topical use. Duke notes that calendula is generally very well-tolerated, though Asteraceae
+    sensitivity can occasionally cause allergic reactions (Duke, 2002).'
+  reference_ids:
+  - REF-0112
+  - REF-0183
+  - REF-0199
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

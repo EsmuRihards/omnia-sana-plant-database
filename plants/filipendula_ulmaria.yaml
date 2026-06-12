@@ -1,0 +1,79 @@
+common_names:
+- Meadowsweet
+- queen of the meadow
+- mead wort
+scientific_name: Filipendula ulmaria
+family: Rosaceae
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0033
+    - REF-0062
+    - REF-0098
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0033
+    - REF-0062
+    - REF-0098
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0033
+    - REF-0062
+    - REF-0098
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0033
+    - REF-0062
+    - REF-0098
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0033
+    - REF-0062
+    - REF-0098
+    status: verified
+  - action: Gastroprotective
+    reference_ids:
+    - REF-0033
+    - REF-0062
+    - REF-0098
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0033
+    - REF-0062
+    - REF-0098
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe in normal culinary and medicinal doses. Avoid in salicylate sensitivity or aspirin
+    allergy. Not recommended for children with viral illnesses (Reye's syndrome risk, as with other salicylate-containing
+    plants). Avoid during pregnancy and breastfeeding.
+  reference_ids:
+  - REF-0033
+  - REF-0062
+  - REF-0098
+  status: verified
+- note: Duke (2002) rates meadowsweet as ++ and notes analgesic, antiulcer, antirheumatic, astringent,
+    and anti-aggregant activities at the experimental level (score 1). The plant is historically significant
+    as a precursor to aspirin — salicylate compounds in meadowsweet were originally used to derive acetylsalicylic
+    acid. Unlike aspirin, meadowsweet's salicylates are combined with protective mucilaginous compounds
+    that may reduce gastric irritation. Duke notes that individuals with aspirin (salicylate) sensitivity
+    should avoid meadowsweet; the plant also has anticoagulant properties that may interact with blood-thinning
+    medications (Duke, 2002).
+  reference_ids:
+  - REF-0033
+  - REF-0062
+  - REF-0098
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

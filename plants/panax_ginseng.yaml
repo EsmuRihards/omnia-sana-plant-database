@@ -1,0 +1,86 @@
+common_names:
+- Panax Ginseng
+- Asian ginseng
+- Korean ginseng
+- Chinese ginseng
+scientific_name: Panax ginseng
+family: Araliaceae
+parts_used:
+- name: Root
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0014
+    - REF-0137
+    - REF-0192
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0014
+    - REF-0137
+    - REF-0192
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0014
+    - REF-0137
+    - REF-0192
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0014
+    - REF-0137
+    - REF-0192
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0014
+    - REF-0137
+    - REF-0192
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0014
+    - REF-0137
+    - REF-0192
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0014
+    - REF-0137
+    - REF-0192
+    status: verified
+  - action: Physical performance / strength improvement
+    reference_ids:
+    - REF-0014
+    - REF-0137
+    - REF-0192
+    status: verified
+constituents: []
+contraindications:
+- note: Generally well tolerated in short-term use (up to 3 months). May cause insomnia, headache, or
+    gastrointestinal upset at high doses. Avoid during pregnancy and breastfeeding. May interact with
+    warfarin, MAOIs, and diabetic medications. Not recommended for continuous use without breaks.
+  reference_ids:
+  - REF-0014
+  - REF-0137
+  - REF-0192
+  status: verified
+- note: 'Duke (2002) rates Korean/Oriental ginseng (Panax ginseng) as highly active with clinical support
+    for adaptogenic, immunostimulant, and performance-enhancing effects. Commission E approves standardized
+    ginseng root extract (4–7% ginsenosides) as a tonic for fatigue and during convalescence. Dose: 200–600
+    mg standardized extract daily. Duke cautions about ''Ginseng Abuse Syndrome'' (GAS) with overdose
+    — symptoms include hypertension, insomnia, edema, and nervousness. Drug interactions are notable:
+    ginseng potentiates MAOIs and may interact with warfarin, digoxin, and stimulants. Cycle use (2–3
+    weeks on, 2 weeks off) is recommended (Duke, 2002).'
+  reference_ids:
+  - REF-0014
+  - REF-0137
+  - REF-0192
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

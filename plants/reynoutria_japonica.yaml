@@ -1,0 +1,61 @@
+common_names:
+- Japanese knotweed
+- Asian knotweed
+- Hu Zhang
+scientific_name: Reynoutria japonica
+family: Polygonaceae
+parts_used:
+- name: Leaf / Root / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0037
+    - REF-0236
+    - REF-0311
+    status: verified
+  - action: Anticancer
+    reference_ids:
+    - REF-0037
+    - REF-0236
+    - REF-0311
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0037
+    - REF-0236
+    - REF-0311
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0037
+    - REF-0236
+    - REF-0311
+    status: verified
+constituents: []
+contraindications:
+- note: Japanese knotweed root contains resveratrol and emodin; high doses of emodin may cause GI discomfort
+    and have laxative effects. Not recommended during pregnancy (emodin has potential teratogenic effects
+    in animal studies). May interact with anticoagulants and antiplatelet medications. Quality control
+    of commercial preparations is important as invasive weed extracts vary significantly.
+  reference_ids:
+  - REF-0037
+  - REF-0236
+  - REF-0311
+  status: verified
+- note: Duke (2002) rates Japanese knotweed (listed as Hu-Zhang, Fallopia japonica) as +++ and highlights
+    its rich content of resveratrol and emodin. Experimental evidence (score 1) supports COX-2 inhibitory,
+    antioxidant, anti-inflammatory, hepatoprotective, and lipid-lowering activities — largely attributed
+    to resveratrol. Duke notes its use in traditional Chinese medicine for fractures, burns, abscesses,
+    and gynecological conditions. No significant clinical trials were available at time of publication,
+    but resveratrol's biological activity is well-documented in vitro (Duke, 2002).
+  reference_ids:
+  - REF-0037
+  - REF-0236
+  - REF-0311
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

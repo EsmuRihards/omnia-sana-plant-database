@@ -1,0 +1,86 @@
+common_names:
+- Fireweed
+- willowherb
+- rosebay willowherb
+- great willowherb
+- Ivan-chai
+- epilobium
+scientific_name: Chamerion angustifolium
+family: Onagraceae
+parts_used:
+- name: Flower / Leaf / Young sprouts
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0022
+    - REF-0118
+    - REF-0146
+    - REF-0216
+    - REF-0317
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0022
+    - REF-0118
+    - REF-0146
+    - REF-0216
+    - REF-0317
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0022
+    - REF-0118
+    - REF-0146
+    - REF-0216
+    - REF-0317
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0022
+    - REF-0118
+    - REF-0146
+    - REF-0216
+    - REF-0317
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0022
+    - REF-0118
+    - REF-0146
+    - REF-0216
+    - REF-0317
+    status: verified
+constituents: []
+contraindications:
+- note: Generally considered safe at culinary and traditional tea-preparation doses. No major contraindications
+    established for healthy adults in normal use. The young shoots and leaves are widely eaten as a spring
+    vegetable in many cultures without adverse effects. At higher supplemental doses, limited human safety
+    data are available; caution is advised during pregnancy and breastfeeding due to lack of robust safety
+    studies. Tannin content may cause digestive upset or constrain iron absorption at very high doses.
+    Rarely, contact dermatitis has been reported with topical preparations in sensitive individuals (Kozhevnikov
+    and Kozhevnikova, 2021).
+  reference_ids:
+  - REF-0022
+  - REF-0118
+  - REF-0146
+  - REF-0216
+  - REF-0317
+  status: verified
+- note: Duke (2002) includes fireweed (Epilobium angustifolium) as ++ with primarily experimental (score
+    1) evidence. It is used in European phytomedicine as an anti-inflammatory and astringent for gastrointestinal
+    complaints. The related species Epilobium parviflorum has clinical support for benign prostatic hyperplasia
+    (BPH), though data for E. angustifolium specifically is limited. Duke does not note major safety concerns
+    at customary herbal doses (Duke, 2002).
+  reference_ids:
+  - REF-0022
+  - REF-0118
+  - REF-0146
+  - REF-0216
+  - REF-0317
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

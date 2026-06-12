@@ -1,0 +1,76 @@
+common_names:
+- Rosemary
+- garden rosemary
+scientific_name: Salvia rosmarinus
+family: Lamiaceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0112
+    - REF-0173
+    - REF-0194
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0112
+    - REF-0173
+    - REF-0194
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0112
+    - REF-0173
+    - REF-0194
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0112
+    - REF-0173
+    - REF-0194
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0112
+    - REF-0173
+    - REF-0194
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0112
+    - REF-0173
+    - REF-0194
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0112
+    - REF-0173
+    - REF-0194
+    status: verified
+constituents: []
+contraindications:
+- note: Culinary use is entirely safe. Essential oil should not be ingested in large amounts; avoid during
+    pregnancy in medicinal doses. May trigger epileptic seizures in predisposed individuals at high doses.
+    May interact with anticoagulants and antiplatelet drugs.
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+- note: Duke (2002) does not appear to include a dedicated entry for rosemary (Salvia rosmarinus / Rosmarinus
+    officinalis) as a primary herb entry in the section searched; however, rosemary is referenced throughout
+    the text in relation to antioxidant and antimicrobial properties of its key compounds (carnosol, rosmarinic
+    acid). Commission E (KOM) approves rosemary for dyspeptic complaints and externally for rheumatic
+    conditions and circulatory problems.
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

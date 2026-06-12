@@ -1,0 +1,90 @@
+common_names:
+- Common coltsfoot
+- Coltsfoot
+- coughwort
+- foal’s foot
+- horsehoof
+- Kuan Dong Hua / Farfarae Flos (Chen et al
+- '2020'
+- Liu et al
+- 2020)
+scientific_name: Tussilago farfara
+family: Asteraceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0068
+    - REF-0252
+    - REF-0304
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0068
+    - REF-0252
+    - REF-0304
+    status: verified
+constituents: []
+contraindications:
+- note: 'Safety notes (contraindications, interactions, pregnancy/lactation notes, adverse effects, dose-duration
+    cautions) Important: Coltsfoot naturally contains pyrrolizidine alkaloids (PAs)—plant chemicals that
+    can damage the liver and may increase cancer risk with enough exposure (EMA, 2021; Kopp et al., 2020).'
+  reference_ids:
+  - REF-0068
+  - REF-0252
+  - REF-0304
+  status: verified
+- note: Because of this, European regulators set very strict limits for PA exposure from herbal products
+    (EMA, 2021).
+  reference_ids:
+  - REF-0068
+  - REF-0252
+  - REF-0304
+  status: verified
+- note: Many safety-focused herbal references recommend avoiding homemade/internal coltsfoot use, unless
+    the product is specifically made to be PA-controlled / PA-reduced (EMA, 2021).
+  reference_ids:
+  - REF-0068
+  - REF-0252
+  - REF-0304
+  status: verified
+- note: Avoid internal use if you are pregnant or breastfeeding, have liver disease, or for children—these
+    groups are treated as “sensitive” in PA risk guidance (EMA, 2021).
+  reference_ids:
+  - REF-0068
+  - REF-0252
+  - REF-0304
+  status: verified
+- note: 'Medication caution: if you take medicines that stress the liver (some prescription drugs can),
+    it’s extra important to avoid unregulated PA exposure (general PA risk logic; consult a clinician)
+    (EMA, 2021).'
+  reference_ids:
+  - REF-0068
+  - REF-0252
+  - REF-0304
+  status: verified
+- note: Topical use may still carry PA considerations; EMA discusses limits and recommends use only on
+    intact skin for PA-containing products (EMA, 2021).
+  reference_ids:
+  - REF-0068
+  - REF-0252
+  - REF-0304
+  status: verified
+- note: Duke (2002) provides clinical support (score 2) for coltsfoot's anti-inflammatory and expectorant
+    effects, explaining its traditional use in bronchitis and coughs. However, the plant contains hepatotoxic
+    pyrrolizidine alkaloids (PAs), and Duke notes a carcinogenic score (1) — a critical safety concern.
+    Commission E has placed restrictions on coltsfoot use, recommending maximum internal use of 4–6 weeks
+    per year and avoiding use in pregnancy, lactation, and in children under 12. Duke rates its overall
+    safety as low (+) and emphasizes that preparations free of PAs are preferred (Duke, 2002).
+  reference_ids:
+  - REF-0068
+  - REF-0252
+  - REF-0304
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

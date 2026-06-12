@@ -1,0 +1,74 @@
+common_names:
+- Common Juniper
+- Juniper
+- Juniper “berries” / juniper cone berries
+- Eneberries / Enebær
+- Jeneverbes (EMA/HMPC
+- 2023)
+scientific_name: Juniperus communis
+family: Cupressaceae
+parts_used:
+- name: Fruit / Leaf / Stem
+  medicinal_actions:
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0035
+    - REF-0073
+    - REF-0229
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0035
+    - REF-0073
+    - REF-0229
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0035
+    - REF-0073
+    - REF-0229
+    status: verified
+  - action: Diuretic
+    reference_ids:
+    - REF-0035
+    - REF-0073
+    - REF-0229
+    status: verified
+  - action: Urinary antiseptic
+    reference_ids:
+    - REF-0035
+    - REF-0073
+    - REF-0229
+    status: verified
+constituents: []
+contraindications:
+- note: 'Avoid in pregnancy. Juniper is not recommended during pregnancy (EMA/HMPC, 2023; Health Canada,
+    2025).Avoid with kidney disorders / serious kidney disease. It’s not recommended if you have kidney
+    disease (EMA/HMPC, 2023; Health Canada, 2025).Adults only (for medicinal use). Use in under-18s is
+    not recommended due to lack of data (EMA/HMPC, 2023).Hydration matters. If you’re using it for urinary
+    “flushing,” you need adequate fluid intake (EMA/HMPC, 2023).Stop and seek help if symptoms look serious.
+    Fever, painful urination, cramps/spasms, or blood in urine = talk to a clinician (EMA/HMPC, 2023).Duration
+    caution. If using it beyond a few weeks, talk to a health professional (Health Canada, 2025).If breastfeeding:
+    ask a health professional first (EMA/HMPC, 2023; Health Canada, 2025).'
+  reference_ids:
+  - REF-0035
+  - REF-0073
+  - REF-0229
+  status: verified
+- note: Duke (2002) rates juniper as + (use with caution), noting diuretic, carminative, and aquaretic
+    activities, primarily at the experimental level (score 1). Traditional use for urinary infections
+    is not supported by strong clinical evidence. The essential oil contains potentially nephrotoxic terpinen-4-ol,
+    and juniper is contraindicated in kidney disease, urinary infections with inflammation, and pregnancy
+    (emmenagogue and potential abortifacient properties). Commission E and PhEur do not recommend medicinal
+    doses for prolonged use exceeding 4–6 weeks (Duke, 2002).
+  reference_ids:
+  - REF-0035
+  - REF-0073
+  - REF-0229
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

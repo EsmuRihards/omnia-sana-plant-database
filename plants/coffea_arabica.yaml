@@ -1,0 +1,114 @@
+common_names:
+- Coffee (Arabica & Robusta)
+- Coffee
+scientific_name: Coffea arabica
+family: Rubiaceae
+parts_used:
+- name: Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0059
+    - REF-0081
+    - REF-0096
+    - REF-0109
+    - REF-0121
+    - REF-0135
+    - REF-0178
+    - REF-0205
+    - REF-0217
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0059
+    - REF-0081
+    - REF-0096
+    - REF-0109
+    - REF-0121
+    - REF-0135
+    - REF-0178
+    - REF-0205
+    - REF-0217
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0059
+    - REF-0081
+    - REF-0096
+    - REF-0109
+    - REF-0121
+    - REF-0135
+    - REF-0178
+    - REF-0205
+    - REF-0217
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0059
+    - REF-0081
+    - REF-0096
+    - REF-0109
+    - REF-0121
+    - REF-0135
+    - REF-0178
+    - REF-0205
+    - REF-0217
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0059
+    - REF-0081
+    - REF-0096
+    - REF-0109
+    - REF-0121
+    - REF-0135
+    - REF-0178
+    - REF-0205
+    - REF-0217
+    status: verified
+constituents: []
+contraindications:
+- note: Caffeine is the primary psychoactive component; excessive intake (>400 mg/day in adults, >200
+    mg/day in pregnancy) can cause anxiety, insomnia, palpitations, and elevated blood pressure. Caffeine
+    dependence and withdrawal (headaches, fatigue) are well documented. Individuals with anxiety disorders,
+    arrhythmias, or hypertension should limit intake. Cafestol and kahweol in unfiltered coffee (e.g.,
+    French press, espresso) raise LDL cholesterol; paper-filtered coffee removes these compounds. During
+    pregnancy, limit to <200 mg caffeine/day due to risk of foetal growth restriction. Coffee may interact
+    with certain medications including thyroid hormones, levothyroxine, and some antibiotics (ciprofloxacin
+    increases caffeine levels). Heartburn and gastro-oesophageal reflux are common side effects in sensitive
+    individuals (EFSA, 2015; NIH, 2023).
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: verified
+- note: 'Duke (2002) notes clinical evidence (score 2) for coffee as an adsorbent (activated charcoal
+    use), astringent, bronchodilator, and gastric stimulant. A key safety concern: unfiltered (e.g., French
+    press or boiled) coffee raises LDL cholesterol (hypercholesterolemic effect, score 2) due to diterpenes
+    cafestol and kahweol. Filtered coffee does not carry this risk. Duke notes coffee''s CNS stimulant,
+    diuretic, and hepatoprotective properties, though excessive consumption is associated with increased
+    anxiety, tachycardia, and hypertension. It is contraindicated in peptic ulcer disease due to gastric
+    acid stimulation (Duke, 2002).'
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

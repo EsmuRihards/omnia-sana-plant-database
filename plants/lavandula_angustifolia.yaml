@@ -1,0 +1,72 @@
+common_names:
+- Lavender
+- English lavender
+- true lavender
+scientific_name: Lavandula angustifolia
+family: Lamiaceae
+parts_used:
+- name: Flower
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0043
+    - REF-0155
+    - REF-0265
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0043
+    - REF-0155
+    - REF-0265
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0043
+    - REF-0155
+    - REF-0265
+    status: verified
+  - action: Antispasmodic (cramp easing)
+    reference_ids:
+    - REF-0043
+    - REF-0155
+    - REF-0265
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0043
+    - REF-0155
+    - REF-0265
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0043
+    - REF-0155
+    - REF-0265
+    status: verified
+constituents: []
+contraindications:
+- note: Generally very safe. Essential oil should not be ingested in large amounts. Rarely, contact dermatitis
+    may occur. May potentiate the effect of sedative medications. Avoid therapeutic doses during pregnancy.
+  reference_ids:
+  - REF-0043
+  - REF-0155
+  - REF-0265
+  status: verified
+- note: 'Duke (2002) rates lavender as ++ and provides clinical evidence (score 2) for carminative activity,
+    consistent with Commission E approval for nervous stomach disorders and functional abdominal complaints.
+    Additional experimental activities include anxiolytic, antispasmodic, and antiseptic effects. The
+    essential oil demonstrates COX-2 inhibitory and Alzheimer''s-relevant properties at the experimental
+    level. Dose: 1–2 teaspoons (4–8 g) dried flowers as tea; 1–3 drops essential oil in a carrier for
+    topical or aromatherapy use. Duke notes that oral lavender oil (Silexan) has clinical evidence for
+    generalized anxiety disorder (Duke, 2002).'
+  reference_ids:
+  - REF-0043
+  - REF-0155
+  - REF-0265
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

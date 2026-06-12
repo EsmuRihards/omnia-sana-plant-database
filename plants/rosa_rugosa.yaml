@@ -1,0 +1,56 @@
+common_names:
+- Japanese Rose
+- rugosa rose
+- beach rose
+scientific_name: Rosa rugosa
+family: Rosaceae
+parts_used:
+- name: Flower / Fruit / Petals
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0051
+    - REF-0098
+    - REF-0240
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0051
+    - REF-0098
+    - REF-0240
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0051
+    - REF-0098
+    - REF-0240
+    status: verified
+  - action: Immune Support
+    reference_ids:
+    - REF-0051
+    - REF-0098
+    - REF-0240
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe as a food plant. Rose hips should be used after removing the achenes (seeds and
+    inner hairs), which can cause irritation. Allergic reactions are rare. No significant drug interactions
+    documented.
+  reference_ids:
+  - REF-0051
+  - REF-0098
+  - REF-0240
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for Japanese rose (Rosa rugosa) in the Handbook
+    of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0051
+  - REF-0098
+  - REF-0240
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

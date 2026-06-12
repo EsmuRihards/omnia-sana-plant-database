@@ -1,0 +1,68 @@
+common_names:
+- Breckland Thyme
+- Wild thyme
+- creeping thyme
+- elfin thyme
+scientific_name: Thymus serpyllum
+family: Lamiaceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0071
+    - REF-0133
+    - REF-0250
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0071
+    - REF-0133
+    - REF-0250
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0071
+    - REF-0133
+    - REF-0250
+    status: verified
+  - action: Gastroprotective
+    reference_ids:
+    - REF-0071
+    - REF-0133
+    - REF-0250
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0071
+    - REF-0133
+    - REF-0250
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe at culinary doses. Essential oil is highly concentrated and must be diluted before
+    topical use; undiluted application can cause skin sensitisation. Not recommended internally during
+    pregnancy (uterine stimulant effects possible). Phenol-rich thyme preparations should be avoided long-term
+    in high doses. May potentiate anticoagulant medications.
+  reference_ids:
+  - REF-0071
+  - REF-0133
+  - REF-0250
+  status: verified
+- note: 'Duke (2002) rates Thymus vulgaris (garden thyme, closely related to breckland thyme) as +++ with
+    clinical evidence (score 2) for antibacterial, bronchospasmolytic, and antispasmodic activities, consistent
+    with Commission E and WHO approvals for bronchitis and upper respiratory catarrh. The primary active
+    constituent is thymol, with carvacrol as a secondary compound. Dose: 1–2 g dried herb as tea three
+    times daily. The plant demonstrates COX-2 inhibitory activity and calcium antagonism, which may explain
+    its antispasmodic effects (Duke, 2002).'
+  reference_ids:
+  - REF-0071
+  - REF-0133
+  - REF-0250
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

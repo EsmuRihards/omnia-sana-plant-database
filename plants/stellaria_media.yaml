@@ -1,0 +1,59 @@
+common_names:
+- Chickweed
+- Common chickweed
+- starweed
+- chickenwort
+scientific_name: Stellaria media
+family: Caryophyllaceae
+parts_used:
+- name: Flower / Leaf / Stem
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0048
+    - REF-0098
+    - REF-0245
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0048
+    - REF-0098
+    - REF-0245
+    status: verified
+  - action: Skin-soothing
+    reference_ids:
+    - REF-0048
+    - REF-0098
+    - REF-0245
+    status: verified
+constituents: []
+contraindications:
+- note: 'Don’t overdo it as food: some wild-edible-plant research flags chickweed among plants checked
+    for oxalic acid / nitrates—fine in normal amounts, but “huge daily servings” aren’t a smart idea for
+    everyone. (Guil et al., 1997). Kidney stones / high-oxalate diets: if you’re prone to calcium-oxalate
+    stones, treat chickweed like other higher-oxalate greens—moderation. (Guil et al., 1997). Possible
+    stomach upset in large amounts (nausea/diarrhea reported anecdotally; some sources link this to saponins
+    and “too much fresh herb”). (Singh et al., 2022). Pregnancy / breastfeeding: because good human data
+    is limited, many herbal references advise sticking to food amounts or avoiding medicinal dosing unless
+    guided by a professional. (Singh et al., 2022).'
+  reference_ids:
+  - REF-0048
+  - REF-0098
+  - REF-0245
+  status: verified
+- note: Duke (2002) notes that chickweed has primarily folkloric (score f) activity as a demulcent, emollient,
+    and depurative. Its main medicinal applications are external — including soothing inflamed skin, eczema,
+    and itching. No strong clinical evidence supports specific internal medicinal uses. The plant contains
+    flavonoids and coumarins. It is considered generally safe as a dietary green and in topical preparations,
+    though no standardized dosages are established (Duke, 2002).
+  reference_ids:
+  - REF-0048
+  - REF-0098
+  - REF-0245
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

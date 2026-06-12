@@ -1,0 +1,60 @@
+common_names:
+- Lady’s-mantle
+- Lady's mantle
+- lion's foot
+scientific_name: Alchemilla vulgaris
+family: Rosaceae
+parts_used:
+- name: Flower / Leaf
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0113
+    - REF-0193
+    - REF-0208
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0113
+    - REF-0193
+    - REF-0208
+    status: verified
+  - action: Menstrual cramps
+    reference_ids:
+    - REF-0113
+    - REF-0193
+    - REF-0208
+    status: verified
+  - action: Wound Healing
+    reference_ids:
+    - REF-0113
+    - REF-0193
+    - REF-0208
+    status: verified
+constituents: []
+contraindications:
+- note: Generally considered very safe. One of the gentlest astringent herbs in European herbalism. No
+    significant drug interactions. Tannin content means very high doses should be avoided in sensitive
+    stomachs. Not significantly contraindicated in pregnancy at normal herbal tea doses, but medicinal
+    doses should be used cautiously.
+  reference_ids:
+  - REF-0113
+  - REF-0193
+  - REF-0208
+  status: verified
+- note: Duke (2002) rates lady's mantle as ++ and notes astringent, angioprotective, anti-inflammatory,
+    and vulnerary activities at the experimental level (score 1). The plant is rich in tannins and is
+    traditionally used for diarrhea, wound healing, and as a mild gynecological tonic. Duke notes its
+    anti-inflammatory and antioxidant properties as experimentally supported. No significant safety concerns
+    are noted at usual herbal doses; the plant is generally well-tolerated (Duke, 2002).
+  reference_ids:
+  - REF-0113
+  - REF-0193
+  - REF-0208
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

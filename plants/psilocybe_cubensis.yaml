@@ -1,0 +1,59 @@
+common_names:
+- Psilocybin mushrooms
+- Psilocybin mushroom
+- magic mushroom
+- golden teacher
+scientific_name: Psilocybe cubensis
+family: Hymenogastraceae
+parts_used:
+- name: Mycelium / Whole Plant
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0040
+    - REF-0086
+    - REF-0099
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0040
+    - REF-0086
+    - REF-0099
+    status: verified
+  - action: Cognitive support
+    reference_ids:
+    - REF-0040
+    - REF-0086
+    - REF-0099
+    status: verified
+  - action: Sedative
+    reference_ids:
+    - REF-0040
+    - REF-0086
+    - REF-0099
+    status: verified
+constituents: []
+contraindications:
+- note: Psilocybin is physiologically non-toxic and non-addictive in clinical contexts. Psychological
+    risks include anxiety, paranoia, and triggering of latent psychiatric conditions (contraindicated
+    in personal or family history of psychosis or schizophrenia). Use only in appropriate clinical/ceremonial
+    settings with trained supervision. Illegal in most jurisdictions. Avoid mixing with lithium (seizure
+    risk).
+  reference_ids:
+  - REF-0040
+  - REF-0086
+  - REF-0099
+  status: verified
+- note: Duke (2002) does not include a dedicated entry for psilocybin mushrooms (Psilocybe cubensis) in
+    the Handbook of Medicinal Herbs, Second Edition.
+  reference_ids:
+  - REF-0040
+  - REF-0086
+  - REF-0099
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

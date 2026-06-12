@@ -1,0 +1,88 @@
+common_names:
+- Anise
+- Aniseed
+- Anise seed
+scientific_name: Pimpinella anisum
+family: Apiaceae
+parts_used:
+- name: Fruit / Seed
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0123
+    - REF-0165
+    - REF-0268
+    - REF-0274
+    - REF-0278
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0123
+    - REF-0165
+    - REF-0268
+    - REF-0274
+    - REF-0278
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0123
+    - REF-0165
+    - REF-0268
+    - REF-0274
+    - REF-0278
+    status: verified
+  - action: Digestive Aid
+    reference_ids:
+    - REF-0123
+    - REF-0165
+    - REF-0268
+    - REF-0274
+    - REF-0278
+    status: verified
+  - action: Pain Relief
+    reference_ids:
+    - REF-0123
+    - REF-0165
+    - REF-0268
+    - REF-0274
+    - REF-0278
+    status: verified
+  - action: Respiratory Support
+    reference_ids:
+    - REF-0123
+    - REF-0165
+    - REF-0268
+    - REF-0274
+    - REF-0278
+    status: verified
+constituents: []
+contraindications:
+- note: Generally safe when consumed in food amounts. Doses up to 20g daily considered safe for adults.
+    May cause allergic reactions in some people. Caution advised during pregnancy and breastfeeding -
+    stick to food amounts. Anethole can be toxic at high concentrations, particularly to the nervous system.
+    Not enough safety data for medicinal use in children.
+  reference_ids:
+  - REF-0123
+  - REF-0165
+  - REF-0268
+  - REF-0274
+  - REF-0278
+  status: verified
+- note: Duke (2002) provides clinical evidence (score 2) for anise as an antibacterial, antiseptic, antispasmodic,
+    and expectorant. It has demonstrated estrogenic activity and is used as a clinically supported lactagogue
+    to promote milk production. Commission E and WHO have both approved its use for catarrh and gastrointestinal
+    spasms. Typical dosages are 0.5–1 g crushed seed three times per day in tea, or 0.05–0.2 ml of the
+    fruit essential oil (Duke, 2002).
+  reference_ids:
+  - REF-0123
+  - REF-0165
+  - REF-0268
+  - REF-0274
+  - REF-0278
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

@@ -1,0 +1,77 @@
+common_names:
+- Fenugreek
+- Bird’s foot
+- goat’s horn
+- Greek clover
+- and alholva
+scientific_name: Trigonella foenum-graecum
+family: Fabaceae
+parts_used:
+- name: Leaf / Seed / Young sprouts
+  medicinal_actions:
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0148
+    - REF-0182
+    - REF-0308
+    status: verified
+  - action: Antidiabetic
+    reference_ids:
+    - REF-0148
+    - REF-0182
+    - REF-0308
+    status: verified
+  - action: Aphrodisiac
+    reference_ids:
+    - REF-0148
+    - REF-0182
+    - REF-0308
+    status: verified
+  - action: Cardiovascular Health
+    reference_ids:
+    - REF-0148
+    - REF-0182
+    - REF-0308
+    status: verified
+  - action: Metabolic support
+    reference_ids:
+    - REF-0148
+    - REF-0182
+    - REF-0308
+    status: verified
+constituents: []
+contraindications:
+- note: Fenugreek appears https://www.nccih.nih.gov/health/fenugreek for most people.
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+- note: Less serious side effects like diarrhea and indigestion have been reported anecdotally. You may
+    also experience https://pubmed.ncbi.nlm.nih.gov/26251835/, which could be harmful if you have an eating
+    disorder or are trying to https://www.healthline.com/nutrition/how-to-gain-weight. Moreover, some
+    people report a strange and slightly sweet body odor when supplementing, but this is unconfirmed.
+    Given its effect on blood sugar, fenugreek should be used with caution if you’re taking diabetes medication
+    or other supplements that lower blood sugar levels.
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+- note: 'Duke (2002) provides strong clinical evidence (score 2) for fenugreek''s hypoglycemic and hypocholesterolemic
+    activities — among the best-evidenced herbal treatments for blood sugar and lipid management. Anti-inflammatory
+    and demulcent activities also have clinical support. The seed is Commission E approved as an appetite
+    stimulant. Dose: 6–50 g of ground seeds daily for blood sugar management; 1–4 g seeds in tea for digestive
+    use. The plant has lactagogue effects and can cause maple syrup-like body odor due to sotolon content.
+    Contraindicated in pregnancy at medicinal doses due to uterotonic effects (Duke, 2002).'
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending.'
+last_updated: '2026-06-12'
+status: verified

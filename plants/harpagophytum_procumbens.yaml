@@ -1,31 +1,55 @@
 common_names:
 - Devil's Claw
+- Grapple plant
+- Wood spider
 scientific_name: Harpagophytum procumbens
 family: Pedaliaceae
 parts_used:
-- name: Whole plant
+- name: Secondary root tuber
   medicinal_actions:
-  - action: Arthritis (symptom-lookup evidence 4/4)
+  - action: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Pain (symptom-lookup evidence 4/4)
+    - REF-0443
+    - REF-0444
+    status: verified
+  - action: Relief of chronic non-specific low back pain
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Back pain (symptom-lookup evidence 3/4)
+    - REF-0444
+    - REF-0443
+    status: verified
+  - action: General joint pain and arthritis support
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Inflammation (symptom-lookup evidence 3/4)
-    reference_ids:
-    - REF-0384
-    status: draft
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0443
+    status: verified
+constituents:
+- name: Iridoid glycosides (harpagoside, harpagide, procumbide)
+  note: Harpagoside is the main marker compound and anti-inflammatory principle; effective extracts are
+    standardised to it.
+  reference_ids:
+  - REF-0444
+  - REF-0443
+- name: Phenylethanoids (acteoside/verbascoside) and flavonoids
+  note: Antioxidant supporting constituents.
+  reference_ids:
+  - REF-0443
+contraindications:
+- note: Because it is a bitter that increases stomach-acid and bile secretion, it is contraindicated in
+    active peptic ulcer, gastritis and (without medical supervision) gallstones.
+  reference_ids:
+  - REF-0443
+  status: verified
+- note: May add to the effect of anticoagulants (e.g. warfarin) and may influence blood sugar, blood pressure
+    and heart rhythm; use caution with these medicines.
+  reference_ids:
+  - REF-0443
+  status: verified
+- note: Avoid during pregnancy (oxytocic/uterine effect) and while breastfeeding.
+  reference_ids:
+  - REF-0443
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Natural Standard evidence-based systematic
+  review; Der Orthopade review of herbal analgesia). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (pain, arthritis, back-pain, inflammation); associations retained and now
+  part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

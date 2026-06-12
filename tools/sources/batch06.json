@@ -1,0 +1,141 @@
+[
+  {
+    "file": "harpagophytum_procumbens.yaml",
+    "common_names": ["Devil's Claw", "Grapple plant", "Wood spider"],
+    "scientific_name": "Harpagophytum procumbens",
+    "family": "Pedaliaceae",
+    "references": {
+      "brendler2006": {"type": "article", "author": "Brendler, T., Gruenwald, J., Ulbricht, C. and Basch, E.", "year": "2006", "title": "Devil's Claw (Harpagophytum procumbens DC): an evidence-based systematic review by the Natural Standard Research Collaboration", "journal": "Journal of Herbal Pharmacotherapy"},
+      "chrubasik2004": {"type": "article", "author": "Chrubasik, S.", "year": "2004", "title": "Devil's claw extract as an example of the effectiveness of herbal analgesics", "journal": "Der Orthopade", "doi": "10.1007/s00132-004-0675-7"}
+    },
+    "parts_used": [
+      {"name": "Secondary root tuber", "actions": [
+        {"action": "Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain", "refs": ["brendler2006", "chrubasik2004"], "status": "verified"},
+        {"action": "Relief of chronic non-specific low back pain", "refs": ["chrubasik2004", "brendler2006"], "status": "verified"},
+        {"action": "General joint pain and arthritis support", "refs": ["brendler2006"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Iridoid glycosides (harpagoside, harpagide, procumbide)", "note": "Harpagoside is the main marker compound and anti-inflammatory principle; effective extracts are standardised to it.", "refs": ["chrubasik2004", "brendler2006"]},
+      {"name": "Phenylethanoids (acteoside/verbascoside) and flavonoids", "note": "Antioxidant supporting constituents.", "refs": ["brendler2006"]}
+    ],
+    "contraindications": [
+      {"note": "Because it is a bitter that increases stomach-acid and bile secretion, it is contraindicated in active peptic ulcer, gastritis and (without medical supervision) gallstones.", "refs": ["brendler2006"], "status": "verified"},
+      {"note": "May add to the effect of anticoagulants (e.g. warfarin) and may influence blood sugar, blood pressure and heart rhythm; use caution with these medicines.", "refs": ["brendler2006"], "status": "verified"},
+      {"note": "Avoid during pregnancy (oxytocic/uterine effect) and while breastfeeding.", "refs": ["brendler2006"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Natural Standard evidence-based systematic review; Der Orthopade review of herbal analgesia). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (pain, arthritis, back-pain, inflammation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "inula_helenium.yaml",
+    "common_names": ["Elecampane", "Horse-heal", "Elf dock", "Scabwort"],
+    "scientific_name": "Inula helenium",
+    "family": "Asteraceae",
+    "references": {
+      "kenny2022": {"type": "article", "author": "Kenny, C.R., Stojakowska, A., Furey, A. and Lucey, B.", "year": "2022", "title": "From Monographs to Chromatograms: The Antimicrobial Potential of Inula helenium L. (Elecampane) Naturalised in Ireland", "journal": "Molecules", "doi": "10.3390/molecules27041406"}
+    },
+    "parts_used": [
+      {"name": "Root and rhizome", "actions": [
+        {"action": "Expectorant for productive cough and bronchitis (long-standing respiratory remedy)", "refs": ["kenny2022"], "status": "verified"},
+        {"action": "Antimicrobial, notably anti-staphylococcal (supports respiratory and skin infection)", "refs": ["kenny2022"], "status": "verified"},
+        {"action": "Soothes irritated airways / chronic catarrh (traditional)", "refs": ["kenny2022"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Sesquiterpene lactones (alantolactone, isoalantolactone, igalan)", "note": "The antimicrobial principles of the root.", "refs": ["kenny2022"]},
+      {"name": "Inulin", "note": "A fructan polysaccharide abundant in the root (the genus Inula gives inulin its name).", "refs": ["kenny2022"]},
+      {"name": "Essential oil", "note": "Aromatic constituents of the root.", "refs": ["kenny2022"]}
+    ],
+    "contraindications": [
+      {"note": "The sesquiterpene lactones (especially alantolactone) are known skin sensitisers and can cause allergic contact dermatitis; people sensitive to the daisy family (Asteraceae) should be cautious.", "refs": ["kenny2022"], "status": "verified"},
+      {"note": "Large doses can cause nausea, vomiting and diarrhoea; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.", "refs": ["kenny2022"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Molecules antimicrobial/ethnobotanical study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, infection); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "oenothera_biennis.yaml",
+    "common_names": ["Evening Primrose", "Evening star", "Sundrop", "Fever plant"],
+    "scientific_name": "Oenothera biennis",
+    "family": "Onagraceae",
+    "references": {
+      "sharifi2024": {"type": "article", "author": "Sharifi, M., Nourani, N., Sanaie, S. and Hamedeyazdan, S.", "year": "2024", "title": "The effect of Oenothera biennis (Evening primrose) oil on inflammatory diseases: a systematic review of clinical trials", "journal": "BMC Complementary Medicine and Therapies", "doi": "10.1186/s12906-024-04378-5"},
+      "bamford2013": {"type": "article", "author": "Bamford, J.T.M., Ray, S., Musekiwa, A., van Gool, C., Humphreys, R. and Ernst, E.", "year": "2013", "title": "Oral evening primrose oil and borage oil for eczema", "journal": "Cochrane Database of Systematic Reviews", "doi": "10.1002/14651858.CD004416.pub2"}
+    },
+    "parts_used": [
+      {"name": "Seed oil", "actions": [
+        {"action": "Dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid (the rationale for its use)", "refs": ["sharifi2024"], "status": "verified"},
+        {"action": "Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective", "refs": ["bamford2013"], "status": "needs-review"},
+        {"action": "Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results", "refs": ["sharifi2024"], "status": "needs-review"},
+        {"action": "Menopausal hot flushes - some trial benefit reported", "refs": ["sharifi2024"], "status": "needs-review"},
+        {"action": "Skin hydration and barrier function in healthy skin", "refs": ["sharifi2024"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Gamma-linolenic acid (GLA) and linoleic acid", "note": "Omega-6 essential fatty acids of the seed oil; GLA is the constituent the supplement is taken for.", "refs": ["sharifi2024", "bamford2013"]},
+      {"name": "Other seed-oil fatty acids and plant sterols", "note": "Minor lipid constituents.", "refs": ["sharifi2024"]}
+    ],
+    "contraindications": [
+      {"note": "Evidence is weak and largely negative: a Cochrane review concluded that oral evening primrose oil is not an effective treatment for eczema, and the broader trial literature is heterogeneous. Adverse effects are mild and mainly gastrointestinal.", "refs": ["bamford2013", "sharifi2024"], "status": "verified"},
+      {"note": "May increase bleeding risk and has been reported to interact with warfarin; avoid concentrated/medicinal use in pregnancy unless advised by a clinician.", "refs": ["bamford2013"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies systematic review; Cochrane review of EPO/borage oil for eczema). Evidence for most symptom claims is weak or negative, reflected in needs-review action statuses. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, pms, skin-irritation, inflammation, menopause); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "euphrasia_officinalis.yaml",
+    "common_names": ["Eyebright", "Euphrasy", "Red eyebright"],
+    "scientific_name": "Euphrasia officinalis",
+    "family": "Orobanchaceae",
+    "references": {
+      "paduch2014": {"type": "article", "author": "Paduch, R. and colleagues", "year": "2014", "title": "Assessment of Eyebright (Euphrasia officinalis L.) Extract Activity in Relation to Human Corneal Cells Using In Vitro Tests", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4115993/"},
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Eyebright (Euphrasia officinalis): Benefits, Uses, Safety", "url": "https://www.herbalreality.com/herb/eyebright/"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional, as an eye compress or bath)", "refs": ["herbalreality", "paduch2014"], "status": "verified"},
+        {"action": "Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)", "refs": ["herbalreality"], "status": "needs-review"},
+        {"action": "Soothes upper-respiratory catarrh and mild infection (traditional)", "refs": ["herbalreality"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Iridoid glycosides (notably aucubin)", "note": "Give the plant its anti-inflammatory action on irritated tissue.", "refs": ["herbalreality", "paduch2014"]},
+      {"name": "Tannins", "note": "Astringent constituents useful in watery, irritated eyes.", "refs": ["herbalreality"]},
+      {"name": "Flavonoids (quercetin) and phenolic acids", "note": "Antioxidant constituents.", "refs": ["herbalreality", "paduch2014"]}
+    ],
+    "contraindications": [
+      {"note": "CRITICAL: do not put non-sterile, homemade eyebright preparations directly into the eye - this risks serious eye infection. Use only commercially prepared sterile products in the eye, or apply a strained, cooled infusion as a compress over closed eyelids.", "refs": ["herbalreality"], "status": "verified"},
+      {"note": "Traditional use only; persistent eye symptoms, pain, discharge or vision change need assessment by an eye-care professional. Safety in pregnancy and breastfeeding is not established.", "refs": ["herbalreality"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study; Herbal Reality monograph). Euphrasia is now placed in Orobanchaceae (formerly Scrophulariaceae). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, allergy, infection); associations retained and now part-mapped and cited. NOTE sterility caution for eye use.",
+    "status": "verified"
+  },
+  {
+    "file": "tanacetum_parthenium.yaml",
+    "common_names": ["Feverfew", "Featherfew", "Bachelor's buttons", "Midsummer daisy"],
+    "scientific_name": "Tanacetum parthenium",
+    "family": "Asteraceae",
+    "references": {
+      "wider2015": {"type": "article", "author": "Wider, B., Pittler, M.H. and Ernst, E.", "year": "2015", "title": "Feverfew for preventing migraine", "journal": "Cochrane Database of Systematic Reviews", "doi": "10.1002/14651858.CD002286.pub3"}
+    },
+    "parts_used": [
+      {"name": "Leaf (aerial parts)", "actions": [
+        {"action": "Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised preparations, though mixed)", "refs": ["wider2015"], "status": "verified"},
+        {"action": "Headache prevention and relief", "refs": ["wider2015"], "status": "verified"},
+        {"action": "Anti-inflammatory (parthenolide inhibits inflammatory mediators)", "refs": ["wider2015"], "status": "verified"},
+        {"action": "Traditional use for fever and for joint pain / arthritis", "refs": ["wider2015"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Sesquiterpene lactones (parthenolide)", "note": "Parthenolide is the principal active compound, to which extracts are often standardised.", "refs": ["wider2015"]},
+      {"name": "Flavonoids and essential oil", "note": "Supporting antioxidant and aromatic constituents.", "refs": ["wider2015"]}
+    ],
+    "contraindications": [
+      {"note": "As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive to ragweed and related plants. Chewing fresh leaves commonly causes mouth ulcers and oral soreness.", "refs": ["wider2015"], "status": "verified"},
+      {"note": "Stopping feverfew abruptly after prolonged use can cause a 'post-feverfew' rebound of headache, anxiety and muscle/joint stiffness. Avoid in pregnancy (uterine-stimulant) and breastfeeding, and use caution with anticoagulant/antiplatelet medicines.", "refs": ["wider2015"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Cochrane systematic review of feverfew for migraine prevention). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (headache, migraine, inflammation, fever, arthritis); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

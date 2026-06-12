@@ -1,35 +1,62 @@
 common_names:
 - Evening Primrose
+- Evening star
+- Sundrop
+- Fever plant
 scientific_name: Oenothera biennis
 family: Onagraceae
 parts_used:
-- name: Whole plant
+- name: Seed oil
   medicinal_actions:
-  - action: Eczema (symptom-lookup evidence 3/4)
+  - action: Dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid (the rationale for its
+      use)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Premenstrual syndrome (PMS) (symptom-lookup evidence 3/4)
+    - REF-0446
+    status: verified
+  - action: Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Inflammation (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
+    - REF-0447
     status: needs-review
-  - action: Menopause (symptom-lookup evidence 2/4)
+  - action: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
     reference_ids:
-    - REF-0384
+    - REF-0446
     status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 2/4)
+  - action: Menopausal hot flushes - some trial benefit reported
     reference_ids:
-    - REF-0384
+    - REF-0446
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+  - action: Skin hydration and barrier function in healthy skin
+    reference_ids:
+    - REF-0446
+    status: needs-review
+constituents:
+- name: Gamma-linolenic acid (GLA) and linoleic acid
+  note: Omega-6 essential fatty acids of the seed oil; GLA is the constituent the supplement is taken
+    for.
+  reference_ids:
+  - REF-0446
+  - REF-0447
+- name: Other seed-oil fatty acids and plant sterols
+  note: Minor lipid constituents.
+  reference_ids:
+  - REF-0446
+contraindications:
+- note: 'Evidence is weak and largely negative: a Cochrane review concluded that oral evening primrose
+    oil is not an effective treatment for eczema, and the broader trial literature is heterogeneous. Adverse
+    effects are mild and mainly gastrointestinal.'
+  reference_ids:
+  - REF-0447
+  - REF-0446
+  status: verified
+- note: May increase bleeding risk and has been reported to interact with warfarin; avoid concentrated/medicinal
+    use in pregnancy unless advised by a clinician.
+  reference_ids:
+  - REF-0447
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
+  systematic review; Cochrane review of EPO/borage oil for eczema). Evidence for most symptom claims is
+  weak or negative, reflected in needs-review action statuses. Originally a skeleton imported from the
+  omniasana.bio Symptom-to-Plant Lookup tool (eczema, pms, skin-irritation, inflammation, menopause);
+  associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

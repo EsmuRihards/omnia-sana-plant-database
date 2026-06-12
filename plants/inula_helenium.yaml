@@ -1,27 +1,51 @@
 common_names:
 - Elecampane
+- Horse-heal
+- Elf dock
+- Scabwort
 scientific_name: Inula helenium
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Root and rhizome
   medicinal_actions:
-  - action: Bronchitis (symptom-lookup evidence 2/4)
+  - action: Expectorant for productive cough and bronchitis (long-standing respiratory remedy)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Cough (symptom-lookup evidence 2/4)
+    - REF-0445
+    status: verified
+  - action: Antimicrobial, notably anti-staphylococcal (supports respiratory and skin infection)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Infection (symptom-lookup evidence 2/4)
+    - REF-0445
+    status: verified
+  - action: Soothes irritated airways / chronic catarrh (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0445
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Sesquiterpene lactones (alantolactone, isoalantolactone, igalan)
+  note: The antimicrobial principles of the root.
+  reference_ids:
+  - REF-0445
+- name: Inulin
+  note: A fructan polysaccharide abundant in the root (the genus Inula gives inulin its name).
+  reference_ids:
+  - REF-0445
+- name: Essential oil
+  note: Aromatic constituents of the root.
+  reference_ids:
+  - REF-0445
+contraindications:
+- note: The sesquiterpene lactones (especially alantolactone) are known skin sensitisers and can cause
+    allergic contact dermatitis; people sensitive to the daisy family (Asteraceae) should be cautious.
+  reference_ids:
+  - REF-0445
+  status: verified
+- note: Large doses can cause nausea, vomiting and diarrhoea; safety in pregnancy and breastfeeding is
+    not established, so avoid medicinal doses.
+  reference_ids:
+  - REF-0445
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Molecules antimicrobial/ethnobotanical
+  study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis,
+  infection); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

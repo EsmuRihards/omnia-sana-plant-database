@@ -1,35 +1,54 @@
 common_names:
 - Feverfew
+- Featherfew
+- Bachelor's buttons
+- Midsummer daisy
 scientific_name: Tanacetum parthenium
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Leaf (aerial parts)
   medicinal_actions:
-  - action: Migraine (symptom-lookup evidence 4/4)
+  - action: Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised
+      preparations, though mixed)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Headache (symptom-lookup evidence 3/4)
+    - REF-0450
+    status: verified
+  - action: Headache prevention and relief
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Arthritis (symptom-lookup evidence 2/4)
+    - REF-0450
+    status: verified
+  - action: Anti-inflammatory (parthenolide inhibits inflammatory mediators)
     reference_ids:
-    - REF-0384
+    - REF-0450
+    status: verified
+  - action: Traditional use for fever and for joint pain / arthritis
+    reference_ids:
+    - REF-0450
     status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Fever (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Sesquiterpene lactones (parthenolide)
+  note: Parthenolide is the principal active compound, to which extracts are often standardised.
+  reference_ids:
+  - REF-0450
+- name: Flavonoids and essential oil
+  note: Supporting antioxidant and aromatic constituents.
+  reference_ids:
+  - REF-0450
+contraindications:
+- note: As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive
+    to ragweed and related plants. Chewing fresh leaves commonly causes mouth ulcers and oral soreness.
+  reference_ids:
+  - REF-0450
+  status: verified
+- note: Stopping feverfew abruptly after prolonged use can cause a 'post-feverfew' rebound of headache,
+    anxiety and muscle/joint stiffness. Avoid in pregnancy (uterine-stimulant) and breastfeeding, and
+    use caution with anticoagulant/antiplatelet medicines.
+  reference_ids:
+  - REF-0450
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane systematic review of feverfew
+  for migraine prevention). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (headache, migraine, inflammation, fever, arthritis); associations retained and now part-mapped
+  and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

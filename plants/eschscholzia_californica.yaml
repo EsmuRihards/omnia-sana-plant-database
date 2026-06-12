@@ -1,31 +1,45 @@
 common_names:
 - California Poppy
+- Golden poppy
+- Cup of gold
 scientific_name: Eschscholzia californica
 family: Papaveraceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Anxiety (symptom-lookup evidence 2/4)
+  - action: Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Insomnia (symptom-lookup evidence 2/4)
+    - REF-0427
+    status: verified
+  - action: Anxiolytic for anxiety and nervous tension
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Nervous tension (symptom-lookup evidence 2/4)
+    - REF-0427
+    status: verified
+  - action: Mild analgesic (traditional use for pain)
     reference_ids:
-    - REF-0384
+    - REF-0427
     status: needs-review
-  - action: Pain (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Isoquinoline alkaloids (protopine, allocryptopine, californidine, escholtzine, (S)-reticuline)
+  note: (S)-reticuline modulates GABA-A receptor chloride currents, underlying the calming effect.
+  reference_ids:
+  - REF-0427
+  - REF-0428
+contraindications:
+- note: 'Has sedative activity: it can add to the effects of alcohol, sedatives and sleep medicines, so
+    avoid combining and do not use before driving.'
+  reference_ids:
+  - REF-0427
+  status: verified
+- note: Alcoholic (ethanol) extracts inhibit or induce several cytochrome P450 enzymes (CYP3A4, 2C9, 2C19,
+    2D6) and activate the pregnane X receptor, so there is a risk of herb-drug interactions; the water-based
+    tea appears safer in this respect. Avoid in pregnancy and breastfeeding.
+  reference_ids:
+  - REF-0428
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (GABA-A receptor pharmacology study; CYP/P-gp/PXR
+  herb-drug-interaction study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (insomnia, anxiety, nervous-tension, pain); associations retained and now part-mapped and
+  cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,0 +1,138 @@
+[
+  {
+    "file": "ruscus_aculeatus.yaml",
+    "common_names": ["Butcher's Broom", "Knee holly", "Box holly", "Sweet broom"],
+    "scientific_name": "Ruscus aculeatus",
+    "family": "Asparagaceae",
+    "references": {
+      "masullo2016": {"type": "article", "author": "Masullo, M., Pizza, C. and Piacente, S.", "year": "2016", "title": "Ruscus Genus: A Rich Source of Bioactive Steroidal Saponins", "journal": "Planta Medica", "doi": "10.1055/s-0042-119728"},
+      "bylka2005": {"type": "article", "author": "Bylka, W. and Kornobis, J.", "year": "2005", "title": "Butcher's Broom, in the treatment of venous insufficiency", "journal": "Polski Merkuriusz Lekarski"}
+    },
+    "parts_used": [
+      {"name": "Rhizome (underground parts)", "actions": [
+        {"action": "Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs and varicose veins)", "refs": ["masullo2016", "bylka2005"], "status": "verified"},
+        {"action": "Anti-oedematous (reduces leg swelling)", "refs": ["masullo2016", "bylka2005"], "status": "verified"},
+        {"action": "Relief of haemorrhoid symptoms", "refs": ["bylka2005", "masullo2016"], "status": "verified"},
+        {"action": "Supports orthostatic (postural) hypotension (traditional)", "refs": ["masullo2016"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Steroidal saponins (spirostanol and furostanol)", "note": "Aglycones ruscogenin and neoruscogenin carry the vasoconstrictive and venotonic activity.", "refs": ["masullo2016"]},
+      {"name": "Phytosterols and flavonoids", "note": "Supporting constituents of the rhizome.", "refs": ["masullo2016"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; occasional mild gastrointestinal upset is the main reported effect.", "refs": ["masullo2016", "bylka2005"], "status": "verified"},
+      {"note": "Because it is vasoconstrictive, use with caution if you have high blood pressure or take circulatory medicines; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.", "refs": ["masullo2016"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Planta Medica phytochemical review; Polski Merkuriusz Lekarski venous-insufficiency review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "petasites_hybridus.yaml",
+    "common_names": ["Butterbur", "Bog rhubarb", "Pestilence wort", "Umbrella plant"],
+    "scientific_name": "Petasites hybridus",
+    "family": "Asteraceae",
+    "references": {
+      "sadler2007": {"type": "article", "author": "Sadler, C., Vanderjagt, L. and Vohra, S.", "year": "2007", "title": "Complementary, holistic, and integrative medicine: butterbur", "journal": "Pediatrics in Review", "doi": "10.1542/pir.28-6-235"}
+    },
+    "parts_used": [
+      {"name": "Root/rhizome and leaf (standardised PA-free extract)", "actions": [
+        {"action": "Migraine prophylaxis (reduces attack frequency)", "refs": ["sadler2007"], "status": "verified"},
+        {"action": "Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting)", "refs": ["sadler2007"], "status": "verified"},
+        {"action": "Headache relief", "refs": ["sadler2007"], "status": "verified"},
+        {"action": "Antispasmodic support in bronchial asthma", "refs": ["sadler2007"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Sesquiterpenes (petasin and isopetasin)", "note": "The anti-inflammatory and antispasmodic active principles; standardised in commercial extracts.", "refs": ["sadler2007"]},
+      {"name": "Pyrrolizidine alkaloids (PAs)", "note": "Naturally present but hepatotoxic and carcinogenic; must be removed to make a safe product.", "refs": ["sadler2007"]}
+    ],
+    "contraindications": [
+      {"note": "Use ONLY certified pyrrolizidine-alkaloid (PA)-free, standardised extracts. Raw or unprocessed butterbur contains PAs that are toxic to the liver and potentially carcinogenic.", "refs": ["sadler2007"], "status": "verified"},
+      {"note": "Avoid during pregnancy and breastfeeding. As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive to ragweed and related plants. Watch for and report any signs of liver problems.", "refs": ["sadler2007"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Pediatrics in Review integrative-medicine review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (migraine, allergy, headache, asthma); associations retained and now part-mapped and cited. CRITICAL: PA-free extracts only - see contraindications.",
+    "status": "verified"
+  },
+  {
+    "file": "eschscholzia_californica.yaml",
+    "common_names": ["California Poppy", "Golden poppy", "Cup of gold"],
+    "scientific_name": "Eschscholzia californica",
+    "family": "Papaveraceae",
+    "references": {
+      "fedurco2015": {"type": "article", "author": "Fedurco, M., Gregorova, J., Sebrlova, K., Kantorova, J., Pes, O., Baur, R., Sigel, E. and Taborska, E.", "year": "2015", "title": "Modulatory Effects of Eschscholzia californica Alkaloids on Recombinant GABAA Receptors", "journal": "Biochemistry Research International", "doi": "10.1155/2015/617620"},
+      "manda2016": {"type": "article", "author": "Manda, V.K., Ibrahim, M.A., Dale, O.R., Kumarihamy, M., Cutler, S.J., Khan, I.A., Walker, L.A., Muhammad, I. and Khan, S.I.", "year": "2016", "title": "Modulation of CYPs, P-gp, and PXR by Eschscholzia californica (California Poppy) and Its Alkaloids", "journal": "Planta Medica", "doi": "10.1055/s-0042-103689"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)", "refs": ["fedurco2015"], "status": "verified"},
+        {"action": "Anxiolytic for anxiety and nervous tension", "refs": ["fedurco2015"], "status": "verified"},
+        {"action": "Mild analgesic (traditional use for pain)", "refs": ["fedurco2015"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Isoquinoline alkaloids (protopine, allocryptopine, californidine, escholtzine, (S)-reticuline)", "note": "(S)-reticuline modulates GABA-A receptor chloride currents, underlying the calming effect.", "refs": ["fedurco2015", "manda2016"]}
+    ],
+    "contraindications": [
+      {"note": "Has sedative activity: it can add to the effects of alcohol, sedatives and sleep medicines, so avoid combining and do not use before driving.", "refs": ["fedurco2015"], "status": "verified"},
+      {"note": "Alcoholic (ethanol) extracts inhibit or induce several cytochrome P450 enzymes (CYP3A4, 2C9, 2C19, 2D6) and activate the pregnane X receptor, so there is a risk of herb-drug interactions; the water-based tea appears safer in this respect. Avoid in pregnancy and breastfeeding.", "refs": ["manda2016"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (GABA-A receptor pharmacology study; CYP/P-gp/PXR herb-drug-interaction study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, anxiety, nervous-tension, pain); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "cinnamomum_cassia.yaml",
+    "common_names": ["Cassia Cinnamon", "Chinese cinnamon", "Cassia bark", "Rou gui"],
+    "scientific_name": "Cinnamomum cassia",
+    "family": "Lauraceae",
+    "references": {
+      "allen2013": {"type": "article", "author": "Allen, R.W., Schwartzman, E., Baker, W.L., Coleman, C.I. and Phung, O.J.", "year": "2013", "title": "Cinnamon use in type 2 diabetes: an updated systematic review and meta-analysis", "journal": "Annals of Family Medicine", "doi": "10.1370/afm.1517"},
+      "cassia2021": {"type": "article", "author": "", "year": "2021", "title": "Impact of Cassia Bark Consumption on Glucose and Lipid Control in Type 2 Diabetes: An Updated Systematic Review and Meta-Analysis", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8361532/"}
+    },
+    "parts_used": [
+      {"name": "Bark", "actions": [
+        {"action": "Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)", "refs": ["allen2013", "cassia2021"], "status": "verified"},
+        {"action": "Improves the lipid profile (lowers total and LDL cholesterol and triglycerides)", "refs": ["allen2013", "cassia2021"], "status": "verified"},
+        {"action": "Warming carminative for indigestion (traditional)", "refs": ["cassia2021"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Cinnamaldehyde (cinnamic aldehyde)", "note": "The main volatile-oil constituent; associated with the insulin-sensitising effect.", "refs": ["cassia2021"]},
+      {"name": "Proanthocyanidins and other polyphenols", "note": "Antioxidant constituents of the bark.", "refs": ["cassia2021"]},
+      {"name": "Coumarin", "note": "Present in much higher amounts in cassia than in Ceylon cinnamon (~2-5 mg/g); the key safety-limiting compound.", "refs": ["cassia2021"]}
+    ],
+    "contraindications": [
+      {"note": "Cassia is high in coumarin: regular high intake of cassia bark or supplements can stress or damage the liver. For frequent or medicinal use, prefer true Ceylon cinnamon (Cinnamomum verum) and keep within safe daily limits.", "refs": ["cassia2021"], "status": "verified"},
+      {"note": "Its blood-sugar-lowering action means it can add to the effect of diabetes medicines (risk of hypoglycaemia); avoid concentrated/medicinal doses in pregnancy (culinary amounts are fine).", "refs": ["allen2013"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Annals of Family Medicine meta-analysis; cassia-bark glucose/lipid meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (blood-sugar, high-cholesterol, indigestion); associations retained and now part-mapped and cited. NOTE coumarin/liver caution vs Ceylon cinnamon.",
+    "status": "verified"
+  },
+  {
+    "file": "centaurium_erythraea.yaml",
+    "common_names": ["Centaury", "Common centaury", "European centaury", "Feverwort"],
+    "scientific_name": "Centaurium erythraea",
+    "family": "Gentianaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "Assessment report on Centaurium erythraea Rafn s.l., herba (Centaurii herba)", "url": "https://www.ema.europa.eu/en/documents/herbal-report/assessment-report-centaurium-erythraea-rafn-sl-herba_en.pdf"},
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Centaury (Centaurium erythraea): Benefits, Safety, Uses", "url": "https://www.herbalreality.com/herb/centaury/"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Aromatic bitter tonic for temporary loss of appetite", "refs": ["ema", "herbalreality"], "status": "verified"},
+        {"action": "Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric and bile secretion)", "refs": ["ema", "herbalreality"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Secoiridoid bitter glycosides (gentiopicroside, swertiamarin, sweroside, centapicrin)", "note": "The intensely bitter principles that stimulate digestive secretions.", "refs": ["ema", "herbalreality"]},
+      {"name": "Xanthones and flavonoids", "note": "Additional constituents of the herb.", "refs": ["herbalreality", "ema"]},
+      {"name": "Phenolic acids", "note": "Antioxidant constituents.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Because bitters increase stomach-acid secretion, centaury is contraindicated in peptic (stomach or duodenal) ulcer disease and hyperacidity.", "refs": ["ema"], "status": "verified"},
+      {"note": "Traditional use only; appetite loss or dyspepsia that persists needs medical assessment. Use during pregnancy and breastfeeding is not recommended.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report; Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

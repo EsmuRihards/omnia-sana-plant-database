@@ -1,31 +1,53 @@
 common_names:
 - Butterbur
+- Bog rhubarb
+- Pestilence wort
+- Umbrella plant
 scientific_name: Petasites hybridus
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Root/rhizome and leaf (standardised PA-free extract)
   medicinal_actions:
-  - action: Allergy (symptom-lookup evidence 4/4)
+  - action: Migraine prophylaxis (reduces attack frequency)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Migraine (symptom-lookup evidence 4/4)
+    - REF-0426
+    status: verified
+  - action: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Asthma (symptom-lookup evidence 2/4)
+    - REF-0426
+    status: verified
+  - action: Headache relief
     reference_ids:
-    - REF-0384
+    - REF-0426
+    status: verified
+  - action: Antispasmodic support in bronchial asthma
+    reference_ids:
+    - REF-0426
     status: needs-review
-  - action: Headache (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Sesquiterpenes (petasin and isopetasin)
+  note: The anti-inflammatory and antispasmodic active principles; standardised in commercial extracts.
+  reference_ids:
+  - REF-0426
+- name: Pyrrolizidine alkaloids (PAs)
+  note: Naturally present but hepatotoxic and carcinogenic; must be removed to make a safe product.
+  reference_ids:
+  - REF-0426
+contraindications:
+- note: Use ONLY certified pyrrolizidine-alkaloid (PA)-free, standardised extracts. Raw or unprocessed
+    butterbur contains PAs that are toxic to the liver and potentially carcinogenic.
+  reference_ids:
+  - REF-0426
+  status: verified
+- note: Avoid during pregnancy and breastfeeding. As a member of the daisy family (Asteraceae), it can
+    cause allergic reactions in people sensitive to ragweed and related plants. Watch for and report any
+    signs of liver problems.
+  reference_ids:
+  - REF-0426
+  status: verified
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in Review integrative-medicine
+  review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (migraine,
+  allergy, headache, asthma); associations retained and now part-mapped and cited. CRITICAL: PA-free extracts
+  only - see contraindications.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,27 +1,56 @@
 common_names:
 - Cassia Cinnamon
+- Chinese cinnamon
+- Cassia bark
+- Rou gui
 scientific_name: Cinnamomum cassia
 family: Lauraceae
 parts_used:
-- name: Whole plant
+- name: Bark
   medicinal_actions:
-  - action: Blood-sugar support (symptom-lookup evidence 3/4)
+  - action: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: High cholesterol (symptom-lookup evidence 2/4)
+    - REF-0429
+    - REF-0430
+    status: verified
+  - action: Improves the lipid profile (lowers total and LDL cholesterol and triglycerides)
     reference_ids:
-    - REF-0384
+    - REF-0429
+    - REF-0430
+    status: verified
+  - action: Warming carminative for indigestion (traditional)
+    reference_ids:
+    - REF-0430
     status: needs-review
-  - action: Indigestion (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Cinnamaldehyde (cinnamic aldehyde)
+  note: The main volatile-oil constituent; associated with the insulin-sensitising effect.
+  reference_ids:
+  - REF-0430
+- name: Proanthocyanidins and other polyphenols
+  note: Antioxidant constituents of the bark.
+  reference_ids:
+  - REF-0430
+- name: Coumarin
+  note: Present in much higher amounts in cassia than in Ceylon cinnamon (~2-5 mg/g); the key safety-limiting
+    compound.
+  reference_ids:
+  - REF-0430
+contraindications:
+- note: 'Cassia is high in coumarin: regular high intake of cassia bark or supplements can stress or damage
+    the liver. For frequent or medicinal use, prefer true Ceylon cinnamon (Cinnamomum verum) and keep
+    within safe daily limits.'
+  reference_ids:
+  - REF-0430
+  status: verified
+- note: Its blood-sugar-lowering action means it can add to the effect of diabetes medicines (risk of
+    hypoglycaemia); avoid concentrated/medicinal doses in pregnancy (culinary amounts are fine).
+  reference_ids:
+  - REF-0429
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Annals of Family Medicine meta-analysis;
+  cassia-bark glucose/lipid meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (blood-sugar, high-cholesterol, indigestion); associations retained and now part-mapped
+  and cited. NOTE coumarin/liver caution vs Ceylon cinnamon.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,27 +1,52 @@
 common_names:
 - Centaury
+- Common centaury
+- European centaury
+- Feverwort
 scientific_name: Centaurium erythraea
 family: Gentianaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Appetite loss (symptom-lookup evidence 2/4)
+  - action: Aromatic bitter tonic for temporary loss of appetite
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Indigestion (symptom-lookup evidence 2/4)
+    - REF-0431
+    - REF-0432
+    status: verified
+  - action: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
+      and bile secretion)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Bloating (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0431
+    - REF-0432
+    status: verified
+constituents:
+- name: Secoiridoid bitter glycosides (gentiopicroside, swertiamarin, sweroside, centapicrin)
+  note: The intensely bitter principles that stimulate digestive secretions.
+  reference_ids:
+  - REF-0431
+  - REF-0432
+- name: Xanthones and flavonoids
+  note: Additional constituents of the herb.
+  reference_ids:
+  - REF-0432
+  - REF-0431
+- name: Phenolic acids
+  note: Antioxidant constituents.
+  reference_ids:
+  - REF-0431
+contraindications:
+- note: Because bitters increase stomach-acid secretion, centaury is contraindicated in peptic (stomach
+    or duodenal) ulcer disease and hyperacidity.
+  reference_ids:
+  - REF-0431
+  status: verified
+- note: Traditional use only; appetite loss or dyspepsia that persists needs medical assessment. Use during
+    pregnancy and breastfeeding is not recommended.
+  reference_ids:
+  - REF-0431
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report;
+  Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,27 +1,56 @@
 common_names:
 - Butcher's Broom
+- Knee holly
+- Box holly
+- Sweet broom
 scientific_name: Ruscus aculeatus
 family: Asparagaceae
 parts_used:
-- name: Whole plant
+- name: Rhizome (underground parts)
   medicinal_actions:
-  - action: Varicose veins (symptom-lookup evidence 3/4)
+  - action: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen
+      legs and varicose veins)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Hemorrhoids (symptom-lookup evidence 2/4)
+    - REF-0424
+    - REF-0425
+    status: verified
+  - action: Anti-oedematous (reduces leg swelling)
     reference_ids:
-    - REF-0384
+    - REF-0424
+    - REF-0425
+    status: verified
+  - action: Relief of haemorrhoid symptoms
+    reference_ids:
+    - REF-0425
+    - REF-0424
+    status: verified
+  - action: Supports orthostatic (postural) hypotension (traditional)
+    reference_ids:
+    - REF-0424
     status: needs-review
-  - action: Swelling (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Steroidal saponins (spirostanol and furostanol)
+  note: Aglycones ruscogenin and neoruscogenin carry the vasoconstrictive and venotonic activity.
+  reference_ids:
+  - REF-0424
+- name: Phytosterols and flavonoids
+  note: Supporting constituents of the rhizome.
+  reference_ids:
+  - REF-0424
+contraindications:
+- note: Generally well tolerated; occasional mild gastrointestinal upset is the main reported effect.
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  status: verified
+- note: Because it is vasoconstrictive, use with caution if you have high blood pressure or take circulatory
+    medicines; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  reference_ids:
+  - REF-0424
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Planta Medica phytochemical review; Polski
+  Merkuriusz Lekarski venous-insufficiency review). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids); associations retained and now
+  part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

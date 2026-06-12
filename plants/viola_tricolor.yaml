@@ -1,27 +1,49 @@
 common_names:
 - Heartsease
+- Wild pansy
+- Johnny-jump-up
+- Love-in-idleness
 scientific_name: Viola tricolor
 family: Violaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Eczema (symptom-lookup evidence 2/4)
+  - action: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
+      and scabs (traditional, supported by cyclotide research)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 2/4)
+    - REF-0463
+    status: verified
+  - action: Soothes irritated skin (demulcent and anti-inflammatory)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Cough (symptom-lookup evidence 1/4)
+    - REF-0463
+    status: verified
+  - action: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
     reference_ids:
-    - REF-0384
+    - REF-0463
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Cyclotides (cyclic plant peptides)
+  note: Bioactive peptides shown to suppress over-active immune (T-cell) responses - the rationale for
+    use in inflammatory skin disease.
+  reference_ids:
+  - REF-0463
+- name: Flavonoids (rutin, violanthin), salicylates and mucilage
+  note: Antioxidant, anti-inflammatory and soothing constituents.
+  reference_ids:
+  - REF-0463
+contraindications:
+- note: Regarded as safe in customary traditional use; because the extract suppresses immune-cell activity,
+    there is a theoretical caution when taking immunosuppressant medicines.
+  reference_ids:
+  - REF-0463
+  status: verified
+- note: Contains salicylates, so use caution if you are salicylate-sensitive; safety in pregnancy and
+    breastfeeding is not established.
+  reference_ids:
+  - REF-0463
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology study identifying
+  immunosuppressive cyclotides). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (eczema, skin-irritation, cough); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,0 +1,143 @@
+[
+  {
+    "file": "cynara_scolymus.yaml",
+    "common_names": ["Artichoke", "Globe artichoke", "Garden artichoke"],
+    "scientific_name": "Cynara scolymus",
+    "family": "Asteraceae",
+    "references": {
+      "bensalem2015": {"type": "article", "author": "Ben Salem, M., Affes, H., Ksouda, K., Dhouibi, R., Sahnoun, Z., Hammami, S. and Zeghal, K.M.", "year": "2015", "title": "Pharmacological Studies of Artichoke Leaf Extract and Their Health Benefits", "journal": "Plant Foods for Human Nutrition", "doi": "10.1007/s11130-015-0503-8"},
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Cynara cardunculus L. (syn. Cynara scolymus L.), folium (Cynarae folium)", "url": "https://www.ema.europa.eu/en/medicines/herbal/cynarae-folium"}
+    },
+    "parts_used": [
+      {"name": "Leaf", "actions": [
+        {"action": "Digestive aid for dyspeptic complaints - indigestion, bloating and fullness", "refs": ["ema", "bensalem2015"], "status": "verified"},
+        {"action": "Choleretic - stimulates bile flow to aid fat digestion", "refs": ["bensalem2015", "ema"], "status": "verified"},
+        {"action": "Hepatoprotective / liver support (protects liver cells and may aid their regeneration)", "refs": ["bensalem2015"], "status": "verified"},
+        {"action": "Lipid-lowering - helps reduce cholesterol", "refs": ["bensalem2015"], "status": "verified"},
+        {"action": "Supports irritable bowel syndrome (IBS) symptoms", "refs": ["bensalem2015"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Caffeoylquinic acids (chlorogenic acid and cynarin)", "note": "The principal choleretic, hepatoprotective and antioxidant constituents.", "refs": ["bensalem2015"]},
+      {"name": "Flavonoids (luteolin glycosides)", "note": "Antioxidant constituents of the leaf.", "refs": ["bensalem2015"]},
+      {"name": "Sesquiterpene lactones (cynaropicrin)", "note": "The bitter principle that stimulates digestion.", "refs": ["bensalem2015"]}
+    ],
+    "contraindications": [
+      {"note": "Because it stimulates bile flow, artichoke is contraindicated in bile-duct obstruction and should only be used under medical supervision if you have gallstones.", "refs": ["ema"], "status": "verified"},
+      {"note": "As a member of the daisy family (Asteraceae), it can cause allergic reactions in sensitive people; use in pregnancy and breastfeeding is not recommended.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and regulatory literature (Plant Foods for Human Nutrition pharmacological review; EMA HMPC monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, liver-support, high-cholesterol, ibs); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "viola_tricolor.yaml",
+    "common_names": ["Heartsease", "Wild pansy", "Johnny-jump-up", "Love-in-idleness"],
+    "scientific_name": "Viola tricolor",
+    "family": "Violaceae",
+    "references": {
+      "hellinger2013": {"type": "article", "author": "Hellinger, R., Koehbach, J., Fedchuk, H., Sauer, B., Huber, R., Gruber, C.W. and Grundemann, C.", "year": "2013", "title": "Immunosuppressive activity of an aqueous Viola tricolor herbal extract", "journal": "Journal of Ethnopharmacology", "doi": "10.1016/j.jep.2013.10.044"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching and scabs (traditional, supported by cyclotide research)", "refs": ["hellinger2013"], "status": "verified"},
+        {"action": "Soothes irritated skin (demulcent and anti-inflammatory)", "refs": ["hellinger2013"], "status": "verified"},
+        {"action": "Traditional demulcent / expectorant for cough, bronchitis and chest inflammation", "refs": ["hellinger2013"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Cyclotides (cyclic plant peptides)", "note": "Bioactive peptides shown to suppress over-active immune (T-cell) responses - the rationale for use in inflammatory skin disease.", "refs": ["hellinger2013"]},
+      {"name": "Flavonoids (rutin, violanthin), salicylates and mucilage", "note": "Antioxidant, anti-inflammatory and soothing constituents.", "refs": ["hellinger2013"]}
+    ],
+    "contraindications": [
+      {"note": "Regarded as safe in customary traditional use; because the extract suppresses immune-cell activity, there is a theoretical caution when taking immunosuppressant medicines.", "refs": ["hellinger2013"], "status": "verified"},
+      {"note": "Contains salicylates, so use caution if you are salicylate-sensitive; safety in pregnancy and breastfeeding is not established.", "refs": ["hellinger2013"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology study identifying immunosuppressive cyclotides). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, skin-irritation, cough); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "hibiscus_sabdariffa.yaml",
+    "common_names": ["Hibiscus", "Roselle", "Sorrel", "Karkade"],
+    "scientific_name": "Hibiscus sabdariffa",
+    "family": "Malvaceae",
+    "references": {
+      "ellis2022": {"type": "article", "author": "Ellis, L.R., Zulfiqar, S., Holmes, M., Marshall, L., Dye, L. and Boesch, C.", "year": "2022", "title": "A systematic review and meta-analysis of the effects of Hibiscus sabdariffa on blood pressure and cardiometabolic markers", "journal": "Nutrition Reviews", "doi": "10.1093/nutrit/nuab104"},
+      "garciamunoz2023": {"type": "article", "author": "Garcia-Munoz, A.M., Garcia-Guillen, A.I., Victoria-Montesinos, D., Abellan-Ruiz, M.S., Alburquerque-Gonzalez, B. and Canovas, F.", "year": "2023", "title": "Effect of the Combination of Hibiscus sabdariffa with Other Plant Extracts in the Prevention of Metabolic Syndrome: A Systematic Review and Meta-Analysis", "journal": "Foods", "doi": "10.3390/foods12112269"}
+    },
+    "parts_used": [
+      {"name": "Calyx (dried flower calyces)", "actions": [
+        {"action": "Lowers blood pressure, with the greatest effect in people with raised blood pressure", "refs": ["ellis2022", "garciamunoz2023"], "status": "verified"},
+        {"action": "Improves the lipid profile - lowers LDL and total cholesterol", "refs": ["ellis2022", "garciamunoz2023"], "status": "verified"},
+        {"action": "Antioxidant", "refs": ["ellis2022"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Anthocyanins (delphinidin and cyanidin glucosides)", "note": "The red pigments and principal antioxidant/vasoactive constituents.", "refs": ["ellis2022"]},
+      {"name": "Organic acids (including hibiscus/hydroxycitric acid) and polyphenols", "note": "Contribute to the tartness and cardiometabolic effects.", "refs": ["ellis2022"]},
+      {"name": "Flavonoids", "note": "Additional antioxidant constituents.", "refs": ["ellis2022"]}
+    ],
+    "contraindications": [
+      {"note": "Its blood-pressure-lowering effect can add to that of antihypertensive medicines; monitor blood pressure if you take them.", "refs": ["ellis2022"], "status": "verified"},
+      {"note": "May alter the absorption or levels of some medicines (e.g. paracetamol, chloroquine); avoid concentrated or medicinal doses in pregnancy.", "refs": ["ellis2022"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Nutrition Reviews meta-analysis; Foods systematic review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (high-blood-pressure, high-cholesterol); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "ocimum_tenuiflorum.yaml",
+    "common_names": ["Holy Basil", "Tulsi", "Sacred basil"],
+    "scientific_name": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "references": {
+      "jamshidi2017": {"type": "article", "author": "Jamshidi, N. and Cohen, M.M.", "year": "2017", "title": "The Clinical Efficacy and Safety of Tulsi in Humans: A Systematic Review of the Literature", "journal": "Evidence-Based Complementary and Alternative Medicine", "doi": "10.1155/2017/9217567"},
+      "bhattacharyya2013": {"type": "article", "author": "Bhattacharyya, P. and Bishayee, A.", "year": "2013", "title": "Ocimum sanctum Linn. (Tulsi): an ethnomedicinal plant for the prevention and treatment of cancer", "journal": "Anti-Cancer Drugs", "doi": "10.1097/CAD.0b013e328361aca1"}
+    },
+    "parts_used": [
+      {"name": "Leaf", "actions": [
+        {"action": "Adaptogen for stress and anxiety (improves stress scores and well-being in trials)", "refs": ["jamshidi2017"], "status": "verified"},
+        {"action": "Supports blood-sugar control (lowers fasting and post-meal glucose)", "refs": ["jamshidi2017"], "status": "verified"},
+        {"action": "Immunomodulatory / immune support", "refs": ["jamshidi2017", "bhattacharyya2013"], "status": "verified"},
+        {"action": "Antioxidant and anti-inflammatory", "refs": ["bhattacharyya2013"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Volatile oil rich in eugenol", "note": "The principal aromatic constituent, with anti-inflammatory and antimicrobial activity.", "refs": ["bhattacharyya2013"]},
+      {"name": "Ursolic acid, rosmarinic acid, apigenin and luteolin", "note": "Antioxidant and adaptogenic constituents.", "refs": ["bhattacharyya2013"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; mild nausea has been reported. Its blood-sugar-lowering effect means caution alongside antidiabetic medicines.", "refs": ["jamshidi2017"], "status": "verified"},
+      {"note": "Animal studies suggest mild anti-fertility and antiplatelet effects, so avoid medicinal doses when pregnant or trying to conceive, and before surgery.", "refs": ["jamshidi2017", "bhattacharyya2013"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress, anxiety, blood-sugar, immune-support); now fully part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "marrubium_vulgare.yaml",
+    "common_names": ["Horehound", "White horehound", "Common horehound"],
+    "scientific_name": "Marrubium vulgare",
+    "family": "Lamiaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "2013", "title": "European Union herbal monograph on Marrubium vulgare L., herba (Marrubii herba)", "url": "https://www.ema.europa.eu/en/medicines/herbal/marrubii-herba"},
+      "escop": {"type": "misc", "author": "ESCOP (European Scientific Cooperative on Phytotherapy)", "year": "n.d.", "title": "Marrubii herba (White Horehound) monograph", "url": "https://www.escop.com/downloads/white-horehound/"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Soothes sore throat (traditional)", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite", "refs": ["ema"], "status": "verified"},
+        {"action": "Antispasmodic (traditional use in whooping cough)", "refs": ["escop"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Labdane diterpene marrubiin", "note": "The characteristic bitter principle (pharmacopoeial material contains at least 0.7%); drives the expectorant and digestive actions.", "refs": ["ema", "escop"]},
+      {"name": "Flavonoids and phenylethanoid esters (e.g. verbascoside)", "note": "Antioxidant and anti-inflammatory constituents.", "refs": ["ema", "escop"]},
+      {"name": "Tannins and volatile oil", "note": "Astringent and aromatic constituents of the herb.", "refs": ["escop"]}
+    ],
+    "contraindications": [
+      {"note": "As a strong bitter it may aggravate hyperacidity; theoretical caution in peptic ulcer. Large amounts have shown effects on heart rhythm and blood pressure in studies, so avoid excessive intake.", "refs": ["ema"], "status": "verified"},
+      {"note": "Traditional use only; a cough or digestive complaint that persists needs medical assessment. Use in pregnancy and breastfeeding is not recommended.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for Marrubii herba; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, indigestion, bloating); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

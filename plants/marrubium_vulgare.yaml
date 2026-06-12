@@ -1,31 +1,61 @@
 common_names:
 - Horehound
+- White horehound
+- Common horehound
 scientific_name: Marrubium vulgare
 family: Lamiaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Cough (symptom-lookup evidence 2/4)
+  - action: Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Indigestion (symptom-lookup evidence 2/4)
+    - REF-0468
+    - REF-0469
+    status: verified
+  - action: Soothes sore throat (traditional)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Sore throat (symptom-lookup evidence 2/4)
+    - REF-0468
+    - REF-0469
+    status: verified
+  - action: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of
+      appetite
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Bloating (symptom-lookup evidence 1/4)
+    - REF-0468
+    status: verified
+  - action: Antispasmodic (traditional use in whooping cough)
     reference_ids:
-    - REF-0384
+    - REF-0469
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Labdane diterpene marrubiin
+  note: The characteristic bitter principle (pharmacopoeial material contains at least 0.7%); drives the
+    expectorant and digestive actions.
+  reference_ids:
+  - REF-0468
+  - REF-0469
+- name: Flavonoids and phenylethanoid esters (e.g. verbascoside)
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0468
+  - REF-0469
+- name: Tannins and volatile oil
+  note: Astringent and aromatic constituents of the herb.
+  reference_ids:
+  - REF-0469
+contraindications:
+- note: As a strong bitter it may aggravate hyperacidity; theoretical caution in peptic ulcer. Large amounts
+    have shown effects on heart rhythm and blood pressure in studies, so avoid excessive intake.
+  reference_ids:
+  - REF-0468
+  status: verified
+- note: Traditional use only; a cough or digestive complaint that persists needs medical assessment. Use
+    in pregnancy and breastfeeding is not recommended.
+  reference_ids:
+  - REF-0468
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
+  Marrubii herba; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (cough, sore-throat, indigestion, bloating); associations retained and now part-mapped and
+  cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,23 +1,53 @@
 common_names:
 - Hibiscus
+- Roselle
+- Sorrel
+- Karkade
 scientific_name: Hibiscus sabdariffa
 family: Malvaceae
 parts_used:
-- name: Whole plant
+- name: Calyx (dried flower calyces)
   medicinal_actions:
-  - action: High blood pressure (symptom-lookup evidence 3/4)
+  - action: Lowers blood pressure, with the greatest effect in people with raised blood pressure
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: High cholesterol (symptom-lookup evidence 2/4)
+    - REF-0464
+    - REF-0465
+    status: verified
+  - action: Improves the lipid profile - lowers LDL and total cholesterol
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0464
+    - REF-0465
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0464
+    status: verified
+constituents:
+- name: Anthocyanins (delphinidin and cyanidin glucosides)
+  note: The red pigments and principal antioxidant/vasoactive constituents.
+  reference_ids:
+  - REF-0464
+- name: Organic acids (including hibiscus/hydroxycitric acid) and polyphenols
+  note: Contribute to the tartness and cardiometabolic effects.
+  reference_ids:
+  - REF-0464
+- name: Flavonoids
+  note: Additional antioxidant constituents.
+  reference_ids:
+  - REF-0464
+contraindications:
+- note: Its blood-pressure-lowering effect can add to that of antihypertensive medicines; monitor blood
+    pressure if you take them.
+  reference_ids:
+  - REF-0464
+  status: verified
+- note: May alter the absorption or levels of some medicines (e.g. paracetamol, chloroquine); avoid concentrated
+    or medicinal doses in pregnancy.
+  reference_ids:
+  - REF-0464
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Nutrition Reviews meta-analysis; Foods
+  systematic review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (high-blood-pressure, high-cholesterol); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

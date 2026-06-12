@@ -1,40 +1,53 @@
 common_names:
 - Holy Basil
 - Tulsi
+- Sacred basil
 scientific_name: Ocimum tenuiflorum
 family: Lamiaceae
 parts_used:
 - name: Leaf
   medicinal_actions:
-  - action: Anxiety (symptom-lookup evidence 3/4)
+  - action: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Stress (symptom-lookup evidence 3/4)
+    - REF-0466
+    status: verified
+  - action: Supports blood-sugar control (lowers fasting and post-meal glucose)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Blood-sugar support (symptom-lookup evidence 2/4)
+    - REF-0466
+    status: verified
+  - action: Immunomodulatory / immune support
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Immune support (symptom-lookup evidence 2/4)
+    - REF-0466
+    - REF-0467
+    status: verified
+  - action: Antioxidant and anti-inflammatory
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Adaptogen (calm, clear mind; balanced response to everyday stress) - traditional use
-    reference_ids:
-    - REF-0385
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications:
-- note: Most often taken as a daily tea; speak with a practitioner if pregnant or managing blood sugar.
+    - REF-0467
+    status: verified
+constituents:
+- name: Volatile oil rich in eugenol
+  note: The principal aromatic constituent, with anti-inflammatory and antimicrobial activity.
   reference_ids:
-  - REF-0385
+  - REF-0467
+- name: Ursolic acid, rosmarinic acid, apigenin and luteolin
+  note: Antioxidant and adaptogenic constituents.
+  reference_ids:
+  - REF-0467
+contraindications:
+- note: Generally well tolerated; mild nausea has been reported. Its blood-sugar-lowering effect means
+    caution alongside antidiabetic medicines.
+  reference_ids:
+  - REF-0466
+  status: verified
+- note: Animal studies suggest mild anti-fertility and antiplatelet effects, so avoid medicinal doses
+    when pregnant or trying to conceive, and before surgery.
+  reference_ids:
+  - REF-0466
+  - REF-0467
   status: needs-review
-internal_notes: Combined from the omniasana.bio Symptom-to-Plant Lookup tool and the Holy Basil Materia
-  Medica page (https://omniasana.bio/holy-basil/). Ocimum tenuiflorum (accepted) = Ocimum sanctum (synonym).
-  Skeletal record - manual enrichment pending.
+internal_notes: Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
+  Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum
+  = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
+  anxiety, blood-sugar, immune-support); now fully part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

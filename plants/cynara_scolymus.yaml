@@ -1,35 +1,61 @@
 common_names:
 - Artichoke
+- Globe artichoke
+- Garden artichoke
 scientific_name: Cynara scolymus
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Leaf
   medicinal_actions:
-  - action: Bloating (symptom-lookup evidence 3/4)
+  - action: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: High cholesterol (symptom-lookup evidence 3/4)
+    - REF-0462
+    - REF-0461
+    status: verified
+  - action: Choleretic - stimulates bile flow to aid fat digestion
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Indigestion (symptom-lookup evidence 3/4)
+    - REF-0461
+    - REF-0462
+    status: verified
+  - action: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Liver support (symptom-lookup evidence 3/4)
+    - REF-0461
+    status: verified
+  - action: Lipid-lowering - helps reduce cholesterol
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Irritable bowel syndrome (IBS) (symptom-lookup evidence 2/4)
+    - REF-0461
+    status: verified
+  - action: Supports irritable bowel syndrome (IBS) symptoms
     reference_ids:
-    - REF-0384
+    - REF-0461
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Caffeoylquinic acids (chlorogenic acid and cynarin)
+  note: The principal choleretic, hepatoprotective and antioxidant constituents.
+  reference_ids:
+  - REF-0461
+- name: Flavonoids (luteolin glycosides)
+  note: Antioxidant constituents of the leaf.
+  reference_ids:
+  - REF-0461
+- name: Sesquiterpene lactones (cynaropicrin)
+  note: The bitter principle that stimulates digestion.
+  reference_ids:
+  - REF-0461
+contraindications:
+- note: Because it stimulates bile flow, artichoke is contraindicated in bile-duct obstruction and should
+    only be used under medical supervision if you have gallstones.
+  reference_ids:
+  - REF-0462
+  status: verified
+- note: As a member of the daisy family (Asteraceae), it can cause allergic reactions in sensitive people;
+    use in pregnancy and breastfeeding is not recommended.
+  reference_ids:
+  - REF-0462
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (Plant Foods for Human Nutrition
+  pharmacological review; EMA HMPC monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (indigestion, bloating, liver-support, high-cholesterol, ibs); associations retained and
+  now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

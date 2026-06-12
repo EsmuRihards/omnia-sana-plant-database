@@ -1,31 +1,51 @@
 common_names:
 - Horse Chestnut
+- Conker tree
+- Buckeye
 scientific_name: Aesculus hippocastanum
 family: Sapindaceae
 parts_used:
-- name: Whole plant
+- name: Seed (standardised extract)
   medicinal_actions:
-  - action: Varicose veins (symptom-lookup evidence 4/4)
+  - action: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching;
+      supports varicose veins
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Swelling (symptom-lookup evidence 3/4)
+    - REF-0470
+    - REF-0471
+    status: verified
+  - action: Anti-oedematous and anti-inflammatory
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Hemorrhoids (symptom-lookup evidence 2/4)
+    - REF-0471
+    status: verified
+  - action: Relief of haemorrhoid symptoms (venotonic)
     reference_ids:
-    - REF-0384
+    - REF-0471
     status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Triterpene saponins (escin / aescin)
+  note: The active mixture responsible for the venotonic and anti-oedematous effects; extracts are standardised
+    to it.
+  reference_ids:
+  - REF-0471
+  - REF-0470
+- name: Flavonoids and coumarins (aesculin)
+  note: Supporting constituents of the seed.
+  reference_ids:
+  - REF-0471
+contraindications:
+- note: Use only standardised, processed seed extract. Raw conkers, leaves and bark contain toxic esculin
+    and can cause poisoning - never eat raw horse chestnut.
+  reference_ids:
+  - REF-0470
+  status: verified
+- note: May increase bleeding risk, so use caution with anticoagulant/antiplatelet medicines; use caution
+    in kidney disease and avoid in pregnancy and breastfeeding.
+  reference_ids:
+  - REF-0470
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed
+  extract for CVI; Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained
+  and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

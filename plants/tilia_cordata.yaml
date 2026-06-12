@@ -1,35 +1,55 @@
 common_names:
 - Linden
+- Lime flower
+- Small-leaved lime
+- Basswood
 scientific_name: Tilia cordata
 family: Malvaceae
 parts_used:
-- name: Whole plant
+- name: Flower (lime / linden flower)
   medicinal_actions:
-  - action: Anxiety (symptom-lookup evidence 2/4)
+  - action: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Cold (symptom-lookup evidence 2/4)
+    - REF-0478
+    status: verified
+  - action: Relief of mild mental stress and to aid sleep (gentle calming)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Fever (symptom-lookup evidence 2/4)
+    - REF-0478
+    status: verified
+  - action: Demulcent for cough and catarrh (soothing mucilage)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Insomnia (symptom-lookup evidence 2/4)
+    - REF-0478
+    status: verified
+  - action: Antispasmodic (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0478
     status: needs-review
-  - action: Stress (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Flavonoids (quercetin and kaempferol glycosides, tiliroside)
+  note: Antioxidant constituents associated with the diaphoretic and calming effects.
+  reference_ids:
+  - REF-0478
+- name: Mucilage
+  note: Soothing, demulcent polysaccharides.
+  reference_ids:
+  - REF-0478
+- name: Volatile oil (with farnesol), phenolic acids and tannins
+  note: Aromatic and astringent constituents.
+  reference_ids:
+  - REF-0478
+contraindications:
+- note: Generally very well tolerated, including (per the EU herbal monograph) in children. A feverish
+    cold that persists or worsens, or a high or prolonged fever, needs medical assessment.
+  reference_ids:
+  - REF-0478
+  status: verified
+- note: Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.
+  reference_ids:
+  - REF-0478
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Tiliae flos, covering
+  T. cordata with T. platyphyllos and T. x vulgaris). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (anxiety, insomnia, cold, fever, stress); associations retained and now
+  part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

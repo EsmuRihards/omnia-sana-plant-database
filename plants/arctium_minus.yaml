@@ -1,31 +1,59 @@
 common_names:
 - Lesser Burdock
+- Common burdock
+- Wild rhubarb
 scientific_name: Arctium minus
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Root (and leaf)
   medicinal_actions:
-  - action: Acne (symptom-lookup evidence 2/4)
+  - action: Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne
+      and boils (internally and topically)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Eczema (symptom-lookup evidence 2/4)
+    - REF-0476
+    - REF-0477
+    status: verified
+  - action: Sebaceous-gland regulator - helps balance skin oil (acne)
     reference_ids:
-    - REF-0384
+    - REF-0476
     status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 2/4)
+  - action: Mild diuretic supporting elimination ('detox', traditional)
     reference_ids:
-    - REF-0384
+    - REF-0477
+    - REF-0476
     status: needs-review
-  - action: Detox (symptom-lookup evidence 1/4)
+  - action: Anti-inflammatory and antioxidant
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0476
+    status: verified
+constituents:
+- name: Inulin (prebiotic fructan, up to ~50% of the root)
+  note: The major storage carbohydrate; a prebiotic fibre.
+  reference_ids:
+  - REF-0476
+  - REF-0477
+- name: Lignans (arctigenin, arctiin)
+  note: Anti-inflammatory and antioxidant constituents.
+  reference_ids:
+  - REF-0476
+- name: Polyphenolic acids (caffeic, chlorogenic), polyacetylenes and tannins
+  note: Antimicrobial and antioxidant constituents.
+  reference_ids:
+  - REF-0477
+contraindications:
+- note: As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive
+    to ragweed and related plants. The high inulin content can cause temporary bloating or gas.
+  reference_ids:
+  - REF-0477
+  status: verified
+- note: May lower blood sugar (caution with antidiabetic medicines) and add to diuretics; avoid medicinal
+    doses in pregnancy.
+  reference_ids:
+  - REF-0477
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and Drugs.com
+  monographs). Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database
+  already contains A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (eczema, acne, skin-irritation, detox); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

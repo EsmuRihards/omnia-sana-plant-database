@@ -1,35 +1,61 @@
 common_names:
 - Lemon Verbena
+- Lemon beebrush
+- Lippia citriodora
 scientific_name: Aloysia citrodora
 family: Verbenaceae
 parts_used:
-- name: Whole plant
+- name: Leaf
   medicinal_actions:
-  - action: Indigestion (symptom-lookup evidence 2/4)
+  - action: Sedative / sleep support (insomnia)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
+    - REF-0474
+    status: verified
+  - action: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related
+      Aloysia polystachya
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Insomnia (symptom-lookup evidence 2/4)
+    - REF-0474
+    - REF-0475
+    status: verified
+  - action: Carminative digestive aid (indigestion, flatulence)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Muscle soreness (symptom-lookup evidence 2/4)
+    - REF-0474
+    status: verified
+  - action: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
+      stress
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Anxiety (symptom-lookup evidence 1/4)
+    - REF-0474
+    status: verified
+  - action: Anti-inflammatory
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0474
+    status: verified
+constituents:
+- name: Essential oil (neral and geranial, i.e. citral)
+  note: Gives the lemon aroma and contributes to the calming and antimicrobial effects.
+  reference_ids:
+  - REF-0474
+- name: Verbascoside (acteoside)
+  note: The principal polyphenol of the extract and a major antioxidant constituent.
+  reference_ids:
+  - REF-0474
+- name: Flavonoids
+  note: Additional antioxidant constituents.
+  reference_ids:
+  - REF-0474
+contraindications:
+- note: Generally well tolerated; human safety and efficacy are not fully established. Its sedative effect
+    can add to that of alcohol, sedatives and sleep medicines.
+  reference_ids:
+  - REF-0474
+  status: verified
+- note: Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  reference_ids:
+  - REF-0474
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology review of
+  A. citrodora; congeneric anxiety RCT of A. polystachya). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (insomnia, anxiety, indigestion, muscle-soreness, inflammation); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

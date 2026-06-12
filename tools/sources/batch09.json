@@ -1,0 +1,142 @@
+[
+  {
+    "file": "aesculus_hippocastanum.yaml",
+    "common_names": ["Horse Chestnut", "Conker tree", "Buckeye"],
+    "scientific_name": "Aesculus hippocastanum",
+    "family": "Sapindaceae",
+    "references": {
+      "pittler2012": {"type": "article", "author": "Pittler, M.H. and Ernst, E.", "year": "2012", "title": "Horse chestnut seed extract for chronic venous insufficiency", "journal": "Cochrane Database of Systematic Reviews", "doi": "10.1002/14651858.CD003230.pub4"},
+      "cheong2018": {"type": "article", "author": "Cheong, D.H.J., Arfuso, F., Sethi, G., Wang, L., Hui, K.M., Kumar, A.P. and Tran, T.", "year": "2018", "title": "Molecular targets and anti-cancer potential of escin", "journal": "Cancer Letters", "doi": "10.1016/j.canlet.2018.02.027"}
+    },
+    "parts_used": [
+      {"name": "Seed (standardised extract)", "actions": [
+        {"action": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins", "refs": ["pittler2012", "cheong2018"], "status": "verified"},
+        {"action": "Anti-oedematous and anti-inflammatory", "refs": ["cheong2018"], "status": "verified"},
+        {"action": "Relief of haemorrhoid symptoms (venotonic)", "refs": ["cheong2018"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Triterpene saponins (escin / aescin)", "note": "The active mixture responsible for the venotonic and anti-oedematous effects; extracts are standardised to it.", "refs": ["cheong2018", "pittler2012"]},
+      {"name": "Flavonoids and coumarins (aesculin)", "note": "Supporting constituents of the seed.", "refs": ["cheong2018"]}
+    ],
+    "contraindications": [
+      {"note": "Use only standardised, processed seed extract. Raw conkers, leaves and bark contain toxic esculin and can cause poisoning - never eat raw horse chestnut.", "refs": ["pittler2012"], "status": "verified"},
+      {"note": "May increase bleeding risk, so use caution with anticoagulant/antiplatelet medicines; use caution in kidney disease and avoid in pregnancy and breastfeeding.", "refs": ["pittler2012"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed extract for CVI; Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "hedera_helix.yaml",
+    "common_names": ["Ivy Leaf", "Common ivy", "English ivy"],
+    "scientific_name": "Hedera helix",
+    "family": "Araliaceae",
+    "references": {
+      "kruttschnitt2020": {"type": "article", "author": "Kruttschnitt, E., Wegener, T., Zahner, C. and Henzen-Bucking, S.", "year": "2020", "title": "Assessment of the Efficacy and Safety of Ivy Leaf Cough Syrup Compared with Acetylcysteine in Adults and Children with Acute Bronchitis", "journal": "Evidence-Based Complementary and Alternative Medicine", "doi": "10.1155/2020/1910656"},
+      "schonknecht2017": {"type": "article", "author": "Schonknecht, K., Fal, A.M., Mastalerz-Migas, A., Joachimiak, M. and Doniec, Z.", "year": "2017", "title": "Efficacy of dry extract of ivy leaves in the treatment of productive cough", "journal": "Wiadomosci Lekarskie"}
+    },
+    "parts_used": [
+      {"name": "Leaf (standardised dry extract)", "actions": [
+        {"action": "Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear mucus)", "refs": ["kruttschnitt2020", "schonknecht2017"], "status": "verified"},
+        {"action": "Antispasmodic / bronchodilatory - eases coughing fits and breathlessness", "refs": ["kruttschnitt2020"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Triterpene saponins (hederacoside C, alpha-hederin)", "note": "The secretolytic and antispasmodic active constituents; extracts are standardised to them.", "refs": ["kruttschnitt2020", "schonknecht2017"]},
+      {"name": "Flavonoids and phenolic acids", "note": "Antioxidant supporting constituents.", "refs": ["kruttschnitt2020"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; occasional gastrointestinal upset or, rarely, allergic reaction. Use only standardised extract products - the fresh raw plant contains irritant saponins and falcarinol that can cause contact dermatitis.", "refs": ["kruttschnitt2020"], "status": "verified"},
+      {"note": "A cough lasting more than a week, or with fever, breathlessness or purulent sputum, needs medical assessment. Safety in pregnancy and breastfeeding is not established.", "refs": ["kruttschnitt2020"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (two clinical effectiveness studies of standardised ivy-leaf extract in acute bronchitis / productive cough). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "aloysia_citrodora.yaml",
+    "common_names": ["Lemon Verbena", "Lemon beebrush", "Lippia citriodora"],
+    "scientific_name": "Aloysia citrodora",
+    "family": "Verbenaceae",
+    "references": {
+      "bahramsoltani2018": {"type": "article", "author": "Bahramsoltani, R., Rostamiasrabadi, P., Shahpiri, Z., Marques, A.M., Rahimi, R. and Farzaei, M.H.", "year": "2018", "title": "Aloysia citrodora Palau (Lemon verbena): A review of phytochemistry and pharmacology", "journal": "Journal of Ethnopharmacology", "doi": "10.1016/j.jep.2018.04.021"},
+      "carmona2019": {"type": "article", "author": "Carmona, F., Coneglian, F.S., Batista, P.A., Aragon, D.C., Angelucci, M.A., Martinez, E.Z. and Pereira, A.M.S.", "year": "2019", "title": "Aloysia polystachya powdered leaves are effective in treating anxiety symptoms: A phase-2, randomized, placebo-controlled clinical trial", "journal": "Journal of Ethnopharmacology", "doi": "10.1016/j.jep.2019.112060"}
+    },
+    "parts_used": [
+      {"name": "Leaf", "actions": [
+        {"action": "Sedative / sleep support (insomnia)", "refs": ["bahramsoltani2018"], "status": "verified"},
+        {"action": "Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia polystachya", "refs": ["bahramsoltani2018", "carmona2019"], "status": "verified"},
+        {"action": "Carminative digestive aid (indigestion, flatulence)", "refs": ["bahramsoltani2018"], "status": "verified"},
+        {"action": "Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative stress", "refs": ["bahramsoltani2018"], "status": "verified"},
+        {"action": "Anti-inflammatory", "refs": ["bahramsoltani2018"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Essential oil (neral and geranial, i.e. citral)", "note": "Gives the lemon aroma and contributes to the calming and antimicrobial effects.", "refs": ["bahramsoltani2018"]},
+      {"name": "Verbascoside (acteoside)", "note": "The principal polyphenol of the extract and a major antioxidant constituent.", "refs": ["bahramsoltani2018"]},
+      {"name": "Flavonoids", "note": "Additional antioxidant constituents.", "refs": ["bahramsoltani2018"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; human safety and efficacy are not fully established. Its sedative effect can add to that of alcohol, sedatives and sleep medicines.", "refs": ["bahramsoltani2018"], "status": "verified"},
+      {"note": "Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.", "refs": ["bahramsoltani2018"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology review of A. citrodora; congeneric anxiety RCT of A. polystachya). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, anxiety, indigestion, muscle-soreness, inflammation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "arctium_minus.yaml",
+    "common_names": ["Lesser Burdock", "Common burdock", "Wild rhubarb"],
+    "scientific_name": "Arctium minus",
+    "family": "Asteraceae",
+    "references": {
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Burdock (Arctium): Benefits, Medicinal Uses, Safety", "url": "https://www.herbalreality.com/herb/burdock/"},
+      "drugs": {"type": "misc", "author": "Drugs.com", "year": "n.d.", "title": "Burdock Uses, Benefits & Dosage", "url": "https://www.drugs.com/npp/burdock.html"}
+    },
+    "parts_used": [
+      {"name": "Root (and leaf)", "actions": [
+        {"action": "Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and boils (internally and topically)", "refs": ["herbalreality", "drugs"], "status": "verified"},
+        {"action": "Sebaceous-gland regulator - helps balance skin oil (acne)", "refs": ["herbalreality"], "status": "needs-review"},
+        {"action": "Mild diuretic supporting elimination ('detox', traditional)", "refs": ["drugs", "herbalreality"], "status": "needs-review"},
+        {"action": "Anti-inflammatory and antioxidant", "refs": ["herbalreality"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Inulin (prebiotic fructan, up to ~50% of the root)", "note": "The major storage carbohydrate; a prebiotic fibre.", "refs": ["herbalreality", "drugs"]},
+      {"name": "Lignans (arctigenin, arctiin)", "note": "Anti-inflammatory and antioxidant constituents.", "refs": ["herbalreality"]},
+      {"name": "Polyphenolic acids (caffeic, chlorogenic), polyacetylenes and tannins", "note": "Antimicrobial and antioxidant constituents.", "refs": ["drugs"]}
+    ],
+    "contraindications": [
+      {"note": "As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive to ragweed and related plants. The high inulin content can cause temporary bloating or gas.", "refs": ["drugs"], "status": "verified"},
+      {"note": "May lower blood sugar (caution with antidiabetic medicines) and add to diuretics; avoid medicinal doses in pregnancy.", "refs": ["drugs"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and Drugs.com monographs). Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database already contains A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, acne, skin-irritation, detox); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "tilia_cordata.yaml",
+    "common_names": ["Linden", "Lime flower", "Small-leaved lime", "Basswood"],
+    "scientific_name": "Tilia cordata",
+    "family": "Malvaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "2012", "title": "Community herbal monograph on Tilia cordata Miller, Tilia platyphyllos Scop., Tilia x vulgaris Heyne or their mixtures, flos (Tiliae flos)", "url": "https://www.ema.europa.eu/en/medicines/herbal/tiliae-flos"}
+    },
+    "parts_used": [
+      {"name": "Flower (lime / linden flower)", "actions": [
+        {"action": "Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)", "refs": ["ema"], "status": "verified"},
+        {"action": "Relief of mild mental stress and to aid sleep (gentle calming)", "refs": ["ema"], "status": "verified"},
+        {"action": "Demulcent for cough and catarrh (soothing mucilage)", "refs": ["ema"], "status": "verified"},
+        {"action": "Antispasmodic (traditional)", "refs": ["ema"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Flavonoids (quercetin and kaempferol glycosides, tiliroside)", "note": "Antioxidant constituents associated with the diaphoretic and calming effects.", "refs": ["ema"]},
+      {"name": "Mucilage", "note": "Soothing, demulcent polysaccharides.", "refs": ["ema"]},
+      {"name": "Volatile oil (with farnesol), phenolic acids and tannins", "note": "Aromatic and astringent constituents.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Generally very well tolerated, including (per the EU herbal monograph) in children. A feverish cold that persists or worsens, or a high or prolonged fever, needs medical assessment.", "refs": ["ema"], "status": "verified"},
+      {"note": "Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Tiliae flos, covering T. cordata with T. platyphyllos and T. x vulgaris). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (anxiety, insomnia, cold, fever, stress); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

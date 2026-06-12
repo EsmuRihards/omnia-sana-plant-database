@@ -1,23 +1,47 @@
 common_names:
 - Ivy Leaf
+- Common ivy
+- English ivy
 scientific_name: Hedera helix
 family: Araliaceae
 parts_used:
-- name: Whole plant
+- name: Leaf (standardised dry extract)
   medicinal_actions:
-  - action: Bronchitis (symptom-lookup evidence 3/4)
+  - action: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
+      mucus)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Cough (symptom-lookup evidence 3/4)
+    - REF-0472
+    - REF-0473
+    status: verified
+  - action: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
     reference_ids:
-    - REF-0384
-    status: draft
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0472
+    status: verified
+constituents:
+- name: Triterpene saponins (hederacoside C, alpha-hederin)
+  note: The secretolytic and antispasmodic active constituents; extracts are standardised to them.
+  reference_ids:
+  - REF-0472
+  - REF-0473
+- name: Flavonoids and phenolic acids
+  note: Antioxidant supporting constituents.
+  reference_ids:
+  - REF-0472
+contraindications:
+- note: Generally well tolerated; occasional gastrointestinal upset or, rarely, allergic reaction. Use
+    only standardised extract products - the fresh raw plant contains irritant saponins and falcarinol
+    that can cause contact dermatitis.
+  reference_ids:
+  - REF-0472
+  status: verified
+- note: A cough lasting more than a week, or with fever, breathlessness or purulent sputum, needs medical
+    assessment. Safety in pregnancy and breastfeeding is not established.
+  reference_ids:
+  - REF-0472
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (two clinical effectiveness studies of
+  standardised ivy-leaf extract in acute bronchitis / productive cough). Originally a skeleton imported
+  from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis); associations retained and now
+  part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

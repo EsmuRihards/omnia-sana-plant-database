@@ -1,0 +1,136 @@
+[
+  {
+    "file": "schisandra_chinensis.yaml",
+    "common_names": ["Schisandra", "Five-flavour berry", "Wu wei zi", "Magnolia berry"],
+    "scientific_name": "Schisandra chinensis",
+    "family": "Schisandraceae",
+    "references": {
+      "kopustinskiene2021": {"type": "article", "author": "Kopustinskiene, D.M. and Bernatoniene, J.", "year": "2021", "title": "Antioxidant Effects of Schisandra chinensis Fruits and Their Active Constituents", "journal": "Antioxidants", "doi": "10.3390/antiox10040620"},
+      "todorova2021": {"type": "article", "author": "Todorova, V., Ivanov, K., Delattre, C., Nalbantova, V., Karcheva-Bahchevanska, D. and Ivanova, S.", "year": "2021", "title": "Plant Adaptogens - History and Future Perspectives", "journal": "Nutrients", "doi": "10.3390/nu13082861"}
+    },
+    "parts_used": [
+      {"name": "Fruit (berry)", "actions": [
+        {"action": "Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)", "refs": ["todorova2021", "kopustinskiene2021"], "status": "verified"},
+        {"action": "Hepatoprotective / liver support (antioxidant and mitoprotective)", "refs": ["kopustinskiene2021"], "status": "verified"},
+        {"action": "Cognitive-function support (concentration and mental performance)", "refs": ["todorova2021", "kopustinskiene2021"], "status": "verified"},
+        {"action": "Antioxidant and anti-inflammatory", "refs": ["kopustinskiene2021"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Dibenzocyclooctadiene lignans (schisandrins, schisandrin B, gomisins)", "note": "The principal active constituents responsible for the adaptogenic and hepatoprotective effects.", "refs": ["kopustinskiene2021"]},
+      {"name": "Flavonoids and phenolic acids", "note": "Antioxidant constituents of the berry.", "refs": ["kopustinskiene2021"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; mild gastrointestinal upset or heartburn can occur. It can induce liver enzymes (CYPs), so there is a potential to alter the levels of some medicines.", "refs": ["todorova2021", "kopustinskiene2021"], "status": "verified"},
+      {"note": "Traditionally avoided in pregnancy (uterine-stimulant reputation) and in epilepsy, peptic ulcer and raised intracranial pressure.", "refs": ["todorova2021"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Antioxidants review of Schisandra; Nutrients adaptogens review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (fatigue, stress, liver-support, cognitive-function); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "capsella_bursa_pastoris.yaml",
+    "common_names": ["Shepherd's Purse", "Shepherd's bag", "Mother's heart"],
+    "scientific_name": "Capsella bursa-pastoris",
+    "family": "Brassicaceae",
+    "references": {
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Shepherd's purse (Capsella bursa-pastoris): Benefits, Uses, Safety", "url": "https://www.herbalreality.com/herb/shepherds-purse/"},
+      "escop": {"type": "misc", "author": "ESCOP (European Scientific Cooperative on Phytotherapy)", "year": "n.d.", "title": "Capsella bursa-pastoris (shepherd's purse) reduces heavy menstrual bleeding", "url": "https://www.escop.com/capsella-bursa-pastoris-shepherds-purse-reduces-heavy-menstrual-bleeding/"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Haemostatic / styptic - reduces heavy menstrual bleeding (menorrhagia); also used for nosebleeds and postpartum bleeding", "refs": ["escop", "herbalreality"], "status": "verified"},
+        {"action": "Astringent / styptic for minor wounds (helps stop bleeding, topical)", "refs": ["herbalreality"], "status": "verified"},
+        {"action": "Tones the uterus and eases menstrual flow and cramps (traditional)", "refs": ["herbalreality"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Flavonoids and tannins", "note": "Astringent constituents underlying the styptic action.", "refs": ["herbalreality"]},
+      {"name": "Vitamin K, biogenic amines and organic acids (oxalic, dicarboxylic)", "note": "Constituents linked to its blood-clotting (haemostatic) effect.", "refs": ["herbalreality"]}
+    ],
+    "contraindications": [
+      {"note": "Avoid during pregnancy (it stimulates the uterus). Any heavy or abnormal bleeding needs medical evaluation to identify the cause - do not self-treat without assessment.", "refs": ["herbalreality"], "status": "verified"},
+      {"note": "May affect blood pressure and heart rhythm, so use caution with cardiac, blood-pressure, anticoagulant, thyroid and sedative medicines.", "refs": ["herbalreality"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph; ESCOP note citing an RCT showing reduced menstrual blood loss). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "eleutherococcus_senticosus.yaml",
+    "common_names": ["Siberian Ginseng", "Eleuthero", "Devil's bush", "Touch-me-not"],
+    "scientific_name": "Eleutherococcus senticosus",
+    "family": "Araliaceae",
+    "references": {
+      "bleakney2008": {"type": "article", "author": "Bleakney, T.L.", "year": "2008", "title": "Deconstructing an adaptogen: Eleutherococcus senticosus", "journal": "Holistic Nursing Practice", "doi": "10.1097/01.HNP.0000326005.65310.7c"},
+      "todorova2021": {"type": "article", "author": "Todorova, V., Ivanov, K., Delattre, C., Nalbantova, V., Karcheva-Bahchevanska, D. and Ivanova, S.", "year": "2021", "title": "Plant Adaptogens - History and Future Perspectives", "journal": "Nutrients", "doi": "10.3390/nu13082861"}
+    },
+    "parts_used": [
+      {"name": "Root and rhizome", "actions": [
+        {"action": "Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)", "refs": ["bleakney2008", "todorova2021"], "status": "verified"},
+        {"action": "Cognitive-function and mental-performance support", "refs": ["todorova2021"], "status": "verified"},
+        {"action": "Immune support (immunomodulatory)", "refs": ["bleakney2008", "todorova2021"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Eleutherosides (B and E - lignan and phenylpropanoid glycosides)", "note": "The principal marker compounds of the root.", "refs": ["bleakney2008"]},
+      {"name": "Polysaccharides", "note": "Immunomodulatory constituents.", "refs": ["todorova2021", "bleakney2008"]}
+    ],
+    "contraindications": [
+      {"note": "Generally safe with few side effects; taken late in the day it may cause mild insomnia or irritability. Use caution in uncontrolled high blood pressure.", "refs": ["bleakney2008"], "status": "verified"},
+      {"note": "May interact with digoxin, anticoagulants, and antidiabetic or sedative medicines. Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.", "refs": ["bleakney2008"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Holistic Nursing Practice review; Nutrients adaptogens review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (fatigue, stress, cognitive-function, immune-support); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "scutellaria_lateriflora.yaml",
+    "common_names": ["Skullcap", "American skullcap", "Blue skullcap", "Mad-dog skullcap"],
+    "scientific_name": "Scutellaria lateriflora",
+    "family": "Lamiaceae",
+    "references": {
+      "awad2003": {"type": "article", "author": "Awad, R., Arnason, J.T., Trudeau, V., Bergeron, C., Budzinski, J.W., Foster, B.C. and Merali, Z.", "year": "2003", "title": "Phytochemical and biological analysis of skullcap (Scutellaria lateriflora L.): a medicinal plant with anxiolytic properties", "journal": "Phytomedicine", "doi": "10.1078/0944-7113-00374"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine site of the GABA-A receptor)", "refs": ["awad2003"], "status": "verified"},
+        {"action": "Sedative / sleep support (insomnia)", "refs": ["awad2003"], "status": "verified"},
+        {"action": "Calming nervine for stress and nervous disorders (traditional)", "refs": ["awad2003"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Flavonoids (baicalin, baicalein)", "note": "Bind the benzodiazepine site of the GABA-A receptor, underlying the calming effect.", "refs": ["awad2003"]},
+      {"name": "GABA and glutamine (amino acids)", "note": "GABA is the main inhibitory neurotransmitter and contributes to the anxiolytic activity.", "refs": ["awad2003"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; its sedative effect can add to that of alcohol, sedatives and sleep medicines, and it may inhibit some drug-metabolising (CYP) enzymes.", "refs": ["awad2003"], "status": "verified"},
+      {"note": "Buy from a reputable source: skullcap products have historically been adulterated with hepatotoxic germander (Teucrium). Safety in pregnancy and breastfeeding is not established.", "refs": ["awad2003"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Phytomedicine phytochemical/anxiolytic study). Note: this is the American skullcap, distinct from Chinese skullcap (Scutellaria baicalensis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (anxiety, insomnia, stress, nervous-tension); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "saponaria_officinalis.yaml",
+    "common_names": ["Soapwort", "Bouncing Bet", "Common soapwort", "Fuller's herb"],
+    "scientific_name": "Saponaria officinalis",
+    "family": "Caryophyllaceae",
+    "references": {
+      "drugs": {"type": "misc", "author": "Drugs.com", "year": "n.d.", "title": "Soapwort Uses, Benefits & Dosage", "url": "https://www.drugs.com/npp/soapwort.html"},
+      "medicinenet": {"type": "misc", "author": "MedicineNet", "year": "n.d.", "title": "Soapwort Root: Eczema Uses, Benefits, Side Effects", "url": "https://www.medicinenet.com/soapwort/article.htm"}
+    },
+    "parts_used": [
+      {"name": "Root (and aerial parts)", "actions": [
+        {"action": "Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough reflex and loosen mucus) - largely an outdated use", "refs": ["drugs", "medicinenet"], "status": "needs-review"},
+        {"action": "Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional for eczema)", "refs": ["medicinenet"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Triterpenoid saponins (up to ~5%; e.g. saponarioside, vaccaroside)", "note": "Surfactant compounds giving the soapy, expectorant and irritant properties.", "refs": ["drugs", "medicinenet"]},
+      {"name": "Flavonoids, vitamin C and resin", "note": "Supporting constituents of the root.", "refs": ["medicinenet"]}
+    ],
+    "contraindications": [
+      {"note": "SERIOUS: the saponins are irritant and can cause haemolysis (destruction of red blood cells). Never take soapwort in large doses or for prolonged periods. Internal use can cause severe gastrointestinal irritation (cramps, nausea, vomiting, diarrhoea).", "refs": ["drugs", "medicinenet"], "status": "verified"},
+      {"note": "Internal use should only be under professional supervision; its expectorant use is now largely outdated. Avoid in pregnancy and breastfeeding.", "refs": ["medicinenet"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record status set to needs-review because the saponins carry a real haemolysis/irritation risk and the internal use is largely outdated. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, skin-irritation); associations retained and now part-mapped and cited.",
+    "status": "needs-review"
+  }
+]

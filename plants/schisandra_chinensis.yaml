@@ -1,31 +1,55 @@
 common_names:
 - Schisandra
+- Five-flavour berry
+- Wu wei zi
+- Magnolia berry
 scientific_name: Schisandra chinensis
 family: Schisandraceae
 parts_used:
-- name: Whole plant
+- name: Fruit (berry)
   medicinal_actions:
-  - action: Cognitive function (symptom-lookup evidence 2/4)
+  - action: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Fatigue (symptom-lookup evidence 2/4)
+    - REF-0506
+    - REF-0505
+    status: verified
+  - action: Hepatoprotective / liver support (antioxidant and mitoprotective)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Liver support (symptom-lookup evidence 2/4)
+    - REF-0505
+    status: verified
+  - action: Cognitive-function support (concentration and mental performance)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Stress (symptom-lookup evidence 2/4)
+    - REF-0506
+    - REF-0505
+    status: verified
+  - action: Antioxidant and anti-inflammatory
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0505
+    status: verified
+constituents:
+- name: Dibenzocyclooctadiene lignans (schisandrins, schisandrin B, gomisins)
+  note: The principal active constituents responsible for the adaptogenic and hepatoprotective effects.
+  reference_ids:
+  - REF-0505
+- name: Flavonoids and phenolic acids
+  note: Antioxidant constituents of the berry.
+  reference_ids:
+  - REF-0505
+contraindications:
+- note: Generally well tolerated; mild gastrointestinal upset or heartburn can occur. It can induce liver
+    enzymes (CYPs), so there is a potential to alter the levels of some medicines.
+  reference_ids:
+  - REF-0506
+  - REF-0505
+  status: verified
+- note: Traditionally avoided in pregnancy (uterine-stimulant reputation) and in epilepsy, peptic ulcer
+    and raised intracranial pressure.
+  reference_ids:
+  - REF-0506
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Antioxidants review of Schisandra; Nutrients
+  adaptogens review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (fatigue, stress, liver-support, cognitive-function); associations retained and now part-mapped
+  and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

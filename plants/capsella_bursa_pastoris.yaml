@@ -1,27 +1,49 @@
 common_names:
 - Shepherd's Purse
+- Shepherd's bag
+- Mother's heart
 scientific_name: Capsella bursa-pastoris
 family: Brassicaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Heavy menstrual bleeding (symptom-lookup evidence 2/4)
+  - action: Haemostatic / styptic - reduces heavy menstrual bleeding (menorrhagia); also used for nosebleeds
+      and postpartum bleeding
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Menstrual cramps (symptom-lookup evidence 1/4)
+    - REF-0508
+    - REF-0507
+    status: verified
+  - action: Astringent / styptic for minor wounds (helps stop bleeding, topical)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Wounds (symptom-lookup evidence 1/4)
+    - REF-0507
+    status: verified
+  - action: Tones the uterus and eases menstrual flow and cramps (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0507
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Flavonoids and tannins
+  note: Astringent constituents underlying the styptic action.
+  reference_ids:
+  - REF-0507
+- name: Vitamin K, biogenic amines and organic acids (oxalic, dicarboxylic)
+  note: Constituents linked to its blood-clotting (haemostatic) effect.
+  reference_ids:
+  - REF-0507
+contraindications:
+- note: Avoid during pregnancy (it stimulates the uterus). Any heavy or abnormal bleeding needs medical
+    evaluation to identify the cause - do not self-treat without assessment.
+  reference_ids:
+  - REF-0507
+  status: verified
+- note: May affect blood pressure and heart rhythm, so use caution with cardiac, blood-pressure, anticoagulant,
+    thyroid and sedative medicines.
+  reference_ids:
+  - REF-0507
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph;
+  ESCOP note citing an RCT showing reduced menstrual blood loss). Originally a skeleton imported from
+  the omniasana.bio Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

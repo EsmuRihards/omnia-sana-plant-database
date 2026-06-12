@@ -1,31 +1,49 @@
 common_names:
 - Skullcap
+- American skullcap
+- Blue skullcap
+- Mad-dog skullcap
 scientific_name: Scutellaria lateriflora
 family: Lamiaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Anxiety (symptom-lookup evidence 3/4)
+  - action: Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the
+      benzodiazepine site of the GABA-A receptor)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Insomnia (symptom-lookup evidence 2/4)
+    - REF-0510
+    status: verified
+  - action: Sedative / sleep support (insomnia)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Nervous tension (symptom-lookup evidence 2/4)
+    - REF-0510
+    status: verified
+  - action: Calming nervine for stress and nervous disorders (traditional)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Stress (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0510
+    status: verified
+constituents:
+- name: Flavonoids (baicalin, baicalein)
+  note: Bind the benzodiazepine site of the GABA-A receptor, underlying the calming effect.
+  reference_ids:
+  - REF-0510
+- name: GABA and glutamine (amino acids)
+  note: GABA is the main inhibitory neurotransmitter and contributes to the anxiolytic activity.
+  reference_ids:
+  - REF-0510
+contraindications:
+- note: Generally well tolerated; its sedative effect can add to that of alcohol, sedatives and sleep
+    medicines, and it may inhibit some drug-metabolising (CYP) enzymes.
+  reference_ids:
+  - REF-0510
+  status: verified
+- note: 'Buy from a reputable source: skullcap products have historically been adulterated with hepatotoxic
+    germander (Teucrium). Safety in pregnancy and breastfeeding is not established.'
+  reference_ids:
+  - REF-0510
+  status: needs-review
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytomedicine phytochemical/anxiolytic
+  study). Note: this is the American skullcap, distinct from Chinese skullcap (Scutellaria baicalensis).
+  Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (anxiety, insomnia,
+  stress, nervous-tension); associations retained and now part-mapped and cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

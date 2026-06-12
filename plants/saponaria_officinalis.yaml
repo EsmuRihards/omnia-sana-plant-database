@@ -1,23 +1,50 @@
 common_names:
 - Soapwort
+- Bouncing Bet
+- Common soapwort
+- Fuller's herb
 scientific_name: Saponaria officinalis
 family: Caryophyllaceae
 parts_used:
-- name: Whole plant
+- name: Root (and aerial parts)
   medicinal_actions:
-  - action: Cough (symptom-lookup evidence 1/4)
+  - action: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
+      reflex and loosen mucus) - largely an outdated use
     reference_ids:
-    - REF-0384
+    - REF-0511
+    - REF-0512
     status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 1/4)
+  - action: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
+      for eczema)
     reference_ids:
-    - REF-0384
+    - REF-0512
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Triterpenoid saponins (up to ~5%; e.g. saponarioside, vaccaroside)
+  note: Surfactant compounds giving the soapy, expectorant and irritant properties.
+  reference_ids:
+  - REF-0511
+  - REF-0512
+- name: Flavonoids, vitamin C and resin
+  note: Supporting constituents of the root.
+  reference_ids:
+  - REF-0512
+contraindications:
+- note: 'SERIOUS: the saponins are irritant and can cause haemolysis (destruction of red blood cells).
+    Never take soapwort in large doses or for prolonged periods. Internal use can cause severe gastrointestinal
+    irritation (cramps, nausea, vomiting, diarrhoea).'
+  reference_ids:
+  - REF-0511
+  - REF-0512
+  status: verified
+- note: Internal use should only be under professional supervision; its expectorant use is now largely
+    outdated. Avoid in pregnancy and breastfeeding.
+  reference_ids:
+  - REF-0512
+  status: verified
+internal_notes: Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record
+  status set to needs-review because the saponins carry a real haemolysis/irritation risk and the internal
+  use is largely outdated. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (cough, skin-irritation); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
 status: needs-review

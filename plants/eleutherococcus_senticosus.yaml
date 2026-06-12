@@ -1,31 +1,51 @@
 common_names:
 - Siberian Ginseng
+- Eleuthero
+- Devil's bush
+- Touch-me-not
 scientific_name: Eleutherococcus senticosus
 family: Araliaceae
 parts_used:
-- name: Whole plant
+- name: Root and rhizome
   medicinal_actions:
-  - action: Fatigue (symptom-lookup evidence 3/4)
+  - action: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Stress (symptom-lookup evidence 3/4)
+    - REF-0509
+    - REF-0506
+    status: verified
+  - action: Cognitive-function and mental-performance support
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Cognitive function (symptom-lookup evidence 2/4)
+    - REF-0506
+    status: verified
+  - action: Immune support (immunomodulatory)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Immune support (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0509
+    - REF-0506
+    status: verified
+constituents:
+- name: Eleutherosides (B and E - lignan and phenylpropanoid glycosides)
+  note: The principal marker compounds of the root.
+  reference_ids:
+  - REF-0509
+- name: Polysaccharides
+  note: Immunomodulatory constituents.
+  reference_ids:
+  - REF-0506
+  - REF-0509
+contraindications:
+- note: Generally safe with few side effects; taken late in the day it may cause mild insomnia or irritability.
+    Use caution in uncontrolled high blood pressure.
+  reference_ids:
+  - REF-0509
+  status: verified
+- note: May interact with digoxin, anticoagulants, and antidiabetic or sedative medicines. Safety in pregnancy
+    and breastfeeding is not established, so avoid medicinal doses.
+  reference_ids:
+  - REF-0509
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (Holistic Nursing Practice review; Nutrients
+  adaptogens review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
+  (fatigue, stress, cognitive-function, immune-support); associations retained and now part-mapped and
+  cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

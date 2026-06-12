@@ -1,0 +1,60 @@
+[
+  {
+    "file": "hamamelis_virginiana.yaml",
+    "common_names": ["Witch Hazel", "Common witch hazel", "Winterbloom", "Snapping hazelnut"],
+    "scientific_name": "Hamamelis virginiana",
+    "family": "Hamamelidaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Hamamelis virginiana L., cortex/folium/aqua (Hamamelidis cortex)", "url": "https://www.ema.europa.eu/en/medicines/herbal/hamamelidis-cortex"},
+      "skincare2025": {"type": "article", "author": "", "year": "2025", "title": "Hamamelis virginiana L. in Skin Care: A Review of Its Pharmacological Properties and Cosmetological Applications", "journal": "Molecules", "doi": "10.3390/molecules30132744"},
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Witch Hazel (Hamamelis virginiana): Benefits, Safety, Uses", "url": "https://www.herbalreality.com/herb/witch-hazel/"}
+    },
+    "parts_used": [
+      {"name": "Bark, leaf and distilled witch-hazel water", "actions": [
+        {"action": "Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied topically", "refs": ["ema", "skincare2025"], "status": "verified"},
+        {"action": "Relief of haemorrhoid symptoms (astringent and anti-inflammatory)", "refs": ["ema", "herbalreality"], "status": "verified"},
+        {"action": "Vulnerary for minor wounds, bruises and insect bites", "refs": ["ema", "herbalreality"], "status": "verified"},
+        {"action": "Anti-inflammatory and antioxidant (supports irritated/atopic skin)", "refs": ["skincare2025"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Tannins (4-10%, including hamamelitannin and gallotannins)", "note": "The principal astringent and anti-inflammatory constituents.", "refs": ["ema", "skincare2025"]},
+      {"name": "Flavonoids, catechins, proanthocyanidins and phenolic acids", "note": "Antioxidant and anti-inflammatory constituents of the bark and leaf.", "refs": ["skincare2025"]}
+    ],
+    "contraindications": [
+      {"note": "For topical use. Do not apply to deep wounds, serious burns or severe rectal bleeding - these need medical care.", "refs": ["herbalreality"], "status": "verified"},
+      {"note": "Oral use is not recommended in pregnancy or breastfeeding without professional guidance, and swallowing tannin-rich preparations can upset the stomach. Mild skin irritation or contact allergy is possible.", "refs": ["herbalreality", "skincare2025"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Hamamelidis cortex; Molecules skin-care review; Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (skin-irritation, inflammation, hemorrhoids, wounds); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "stachys_officinalis.yaml",
+    "common_names": ["Wood Betony", "Betony", "Bishopwort", "Purple betony"],
+    "scientific_name": "Stachys officinalis",
+    "family": "Lamiaceae",
+    "references": {
+      "peacehealth": {"type": "misc", "author": "PeaceHealth", "year": "n.d.", "title": "Wood Betony (Health Information Library)", "url": "https://www.peacehealth.org/medical-topics/id/hn-3662000"},
+      "naturopathic": {"type": "misc", "author": "The Naturopathic Herbalist", "year": "n.d.", "title": "Stachys officinalis (Wood Betony)", "url": "https://thenaturopathicherbalist.com/herbs/r-s/stachys-officinalis/"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by anxiety or muscle tension)", "refs": ["naturopathic", "peacehealth"], "status": "verified"},
+        {"action": "Gentle calmative for anxiety", "refs": ["naturopathic"], "status": "needs-review"},
+        {"action": "Digestive bitter for indigestion, mild stomach upset and bloating", "refs": ["naturopathic"], "status": "needs-review"},
+        {"action": "Anti-inflammatory and antispasmodic", "refs": ["naturopathic"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Phenylethanoid and iridoid glycosides (acteoside, harpagide, harpagoside, aucubin, betonyosides)", "note": "Anti-inflammatory and antispasmodic constituents.", "refs": ["naturopathic"]},
+      {"name": "Alkaloids (stachydrine, betaine)", "note": "Characteristic nitrogen-containing constituents.", "refs": ["naturopathic"]},
+      {"name": "Phenolic acids (rosmarinic, caffeic, chlorogenic), tannins and volatile oil", "note": "Antioxidant, astringent and aromatic constituents.", "refs": ["naturopathic"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated, with occasional mild nausea the main reported effect.", "refs": ["naturopathic"], "status": "verified"},
+      {"note": "Traditionally avoided in pregnancy (uterine reputation), and it may lower blood pressure - use caution with blood-pressure medicines.", "refs": ["peacehealth", "naturopathic"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general phytotherapy literature (PeaceHealth and Naturopathic Herbalist monographs). Stachys officinalis = Betonica officinalis. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (headache, anxiety, nervous-tension, indigestion); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

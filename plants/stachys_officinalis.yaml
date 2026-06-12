@@ -1,31 +1,58 @@
 common_names:
 - Wood Betony
+- Betony
+- Bishopwort
+- Purple betony
 scientific_name: Stachys officinalis
 family: Lamiaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Nervous tension (symptom-lookup evidence 2/4)
+  - action: Nervine / relaxant for nervous tension and tension headaches (especially headache worsened
+      by anxiety or muscle tension)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Anxiety (symptom-lookup evidence 1/4)
+    - REF-0535
+    - REF-0534
+    status: verified
+  - action: Gentle calmative for anxiety
     reference_ids:
-    - REF-0384
+    - REF-0535
     status: needs-review
-  - action: Headache (symptom-lookup evidence 1/4)
+  - action: Digestive bitter for indigestion, mild stomach upset and bloating
     reference_ids:
-    - REF-0384
+    - REF-0535
     status: needs-review
-  - action: Indigestion (symptom-lookup evidence 1/4)
+  - action: Anti-inflammatory and antispasmodic
     reference_ids:
-    - REF-0384
+    - REF-0535
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Phenylethanoid and iridoid glycosides (acteoside, harpagide, harpagoside, aucubin, betonyosides)
+  note: Anti-inflammatory and antispasmodic constituents.
+  reference_ids:
+  - REF-0535
+- name: Alkaloids (stachydrine, betaine)
+  note: Characteristic nitrogen-containing constituents.
+  reference_ids:
+  - REF-0535
+- name: Phenolic acids (rosmarinic, caffeic, chlorogenic), tannins and volatile oil
+  note: Antioxidant, astringent and aromatic constituents.
+  reference_ids:
+  - REF-0535
+contraindications:
+- note: Generally well tolerated, with occasional mild nausea the main reported effect.
+  reference_ids:
+  - REF-0535
+  status: verified
+- note: Traditionally avoided in pregnancy (uterine reputation), and it may lower blood pressure - use
+    caution with blood-pressure medicines.
+  reference_ids:
+  - REF-0534
+  - REF-0535
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from general phytotherapy literature (PeaceHealth and Naturopathic
+  Herbalist monographs). Stachys officinalis = Betonica officinalis. Originally a skeleton imported from
+  the omniasana.bio Symptom-to-Plant Lookup tool (headache, anxiety, nervous-tension, indigestion); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

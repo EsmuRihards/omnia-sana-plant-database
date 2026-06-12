@@ -1,31 +1,58 @@
 common_names:
 - Witch Hazel
+- Common witch hazel
+- Winterbloom
+- Snapping hazelnut
 scientific_name: Hamamelis virginiana
 family: Hamamelidaceae
 parts_used:
-- name: Whole plant
+- name: Bark, leaf and distilled witch-hazel water
   medicinal_actions:
-  - action: Skin irritation (symptom-lookup evidence 3/4)
+  - action: Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins),
+      applied topically
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Hemorrhoids (symptom-lookup evidence 2/4)
+    - REF-0531
+    - REF-0532
+    status: verified
+  - action: Relief of haemorrhoid symptoms (astringent and anti-inflammatory)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
+    - REF-0531
+    - REF-0533
+    status: verified
+  - action: Vulnerary for minor wounds, bruises and insect bites
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Wounds (symptom-lookup evidence 2/4)
+    - REF-0531
+    - REF-0533
+    status: verified
+  - action: Anti-inflammatory and antioxidant (supports irritated/atopic skin)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0532
+    status: verified
+constituents:
+- name: Tannins (4-10%, including hamamelitannin and gallotannins)
+  note: The principal astringent and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0531
+  - REF-0532
+- name: Flavonoids, catechins, proanthocyanidins and phenolic acids
+  note: Antioxidant and anti-inflammatory constituents of the bark and leaf.
+  reference_ids:
+  - REF-0532
+contraindications:
+- note: For topical use. Do not apply to deep wounds, serious burns or severe rectal bleeding - these
+    need medical care.
+  reference_ids:
+  - REF-0533
+  status: verified
+- note: Oral use is not recommended in pregnancy or breastfeeding without professional guidance, and swallowing
+    tannin-rich preparations can upset the stomach. Mild skin irritation or contact allergy is possible.
+  reference_ids:
+  - REF-0533
+  - REF-0532
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
+  Hamamelidis cortex; Molecules skin-care review; Herbal Reality monograph). Originally a skeleton imported
+  from the omniasana.bio Symptom-to-Plant Lookup tool (skin-irritation, inflammation, hemorrhoids, wounds);
+  associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

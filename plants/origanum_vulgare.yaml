@@ -1,35 +1,57 @@
 common_names:
 - Oregano
+- Wild marjoram
+- Origanum
 scientific_name: Origanum vulgare
 family: Lamiaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (leaf/herb) and essential oil
   medicinal_actions:
-  - action: Infection (symptom-lookup evidence 3/4)
+  - action: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory
+      and gastrointestinal infections
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Cold (symptom-lookup evidence 2/4)
+    - REF-0485
+    - REF-0486
+    status: verified
+  - action: Aromatic support for coughs and colds (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0485
     status: needs-review
-  - action: Cough (symptom-lookup evidence 2/4)
+  - action: Carminative digestive for indigestion (traditional bitter aromatic)
     reference_ids:
-    - REF-0384
+    - REF-0485
     status: needs-review
-  - action: Indigestion (symptom-lookup evidence 2/4)
+  - action: Antioxidant and anti-inflammatory
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0486
+    - REF-0485
+    status: verified
+constituents:
+- name: Essential oil rich in carvacrol and thymol
+  note: Phenolic monoterpenes responsible for the strong antimicrobial activity.
+  reference_ids:
+  - REF-0485
+  - REF-0486
+- name: Phenolic acids (rosmarinic acid) and flavonoids
+  note: Antioxidant constituents.
+  reference_ids:
+  - REF-0485
+contraindications:
+- note: Culinary amounts are safe. Concentrated oregano essential oil is a strong irritant - dilute well
+    before any topical use and do not take undiluted oil internally.
+  reference_ids:
+  - REF-0486
+  status: verified
+- note: May lower blood sugar and has a mild antiplatelet effect, so use caution with antidiabetic or
+    anticoagulant medicines; avoid medicinal/oil doses in pregnancy. Allergy is possible in people sensitive
+    to the mint family (Lamiaceae).
+  reference_ids:
+  - REF-0485
+  status: needs-review
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal of Pharmaceutical Research
+  phytochemistry/antimicrobial review; Phytotherapy Research carvacrol review). Note: this is Origanum
+  vulgare (wild marjoram), distinct from the book''s Origanum majorana (sweet marjoram). Originally a
+  skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cold, cough, indigestion, infection,
+  inflammation); associations retained and now part-mapped and cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

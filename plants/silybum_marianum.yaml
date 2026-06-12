@@ -1,31 +1,56 @@
 common_names:
 - Milk Thistle
+- Mary thistle
+- Holy thistle
+- Silybum
 scientific_name: Silybum marianum
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Seed (fruit)
   medicinal_actions:
-  - action: Liver support (symptom-lookup evidence 4/4)
+  - action: Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Detox (symptom-lookup evidence 3/4)
+    - REF-0483
+    - REF-0484
+    status: verified
+  - action: Anti-inflammatory and antioxidant
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Indigestion (symptom-lookup evidence 2/4)
+    - REF-0484
+    - REF-0483
+    status: verified
+  - action: Supports liver recovery and 'detox' (traditional framing of the hepatoprotective action)
     reference_ids:
-    - REF-0384
+    - REF-0483
     status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
+  - action: Digestive support / mild dyspepsia (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0483
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Silymarin (a flavonolignan complex)
+  note: The active complex; silybin (silibinin) is the most active component, with silydianin and silychristin.
+  reference_ids:
+  - REF-0483
+  - REF-0484
+- name: Flavonoids
+  note: Additional antioxidant constituents of the seed.
+  reference_ids:
+  - REF-0484
+contraindications:
+- note: Very well tolerated, even at high doses; the main effects are mild gastrointestinal upset (nausea,
+    loose stools). As a member of the daisy family (Asteraceae), it can cause allergic reactions in sensitive
+    people.
+  reference_ids:
+  - REF-0483
+  status: verified
+- note: Has a low potential for drug interactions (little effect on liver CYP enzymes), but use caution
+    with medicines that have a narrow therapeutic window. Human pregnancy data are limited, so use cautiously.
+  reference_ids:
+  - REF-0483
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Phytotherapy Research safety/toxicity
+  review; Biomedicine & Pharmacotherapy review). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (liver-support, detox, indigestion, inflammation); associations retained
+  and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,35 +1,63 @@
 common_names:
 - Marshmallow Root
+- Marsh mallow
+- White mallow
 scientific_name: Althaea officinalis
 family: Malvaceae
 parts_used:
-- name: Whole plant
+- name: Root
   medicinal_actions:
-  - action: Sore throat (symptom-lookup evidence 3/4)
+  - action: Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and
+      soothes)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Acid reflux (symptom-lookup evidence 2/4)
+    - REF-0481
+    - REF-0482
+    status: verified
+  - action: Soothes sore throat
     reference_ids:
-    - REF-0384
+    - REF-0481
+    status: verified
+  - action: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
+      mucilage)
+    reference_ids:
+    - REF-0481
+    status: verified
+  - action: Antitussive (calms dry, irritating cough)
+    reference_ids:
+    - REF-0481
+    status: verified
+  - action: Topical soothing for irritated skin
+    reference_ids:
+    - REF-0482
     status: needs-review
-  - action: Cough (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Indigestion (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Mucilage polysaccharides (rhamnogalacturonans, arabinans, glucans, arabinogalactans)
+  note: The principal soothing, film-forming constituents.
+  reference_ids:
+  - REF-0481
+- name: Flavonoids and phenolic acids
+  note: Antioxidant constituents.
+  reference_ids:
+  - REF-0482
+- name: Pectin and starch
+  note: Other carbohydrate constituents of the root.
+  reference_ids:
+  - REF-0481
+contraindications:
+- note: Very well tolerated. The mucilage can slow the absorption of other medicines, so take other drugs
+    about an hour before or after marshmallow.
+  reference_ids:
+  - REF-0481
+  - REF-0482
+  status: verified
+- note: It may mildly lower blood sugar (caution alongside antidiabetic medicines). Use in pregnancy and
+    breastfeeding is not recommended in the absence of adequate data.
+  reference_ids:
+  - REF-0481
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
+  Althaeae radix; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (cough, sore-throat, indigestion, acid-reflux, skin-irritation); associations retained and
+  now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

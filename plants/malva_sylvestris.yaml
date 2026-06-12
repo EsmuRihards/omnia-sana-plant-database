@@ -1,35 +1,54 @@
 common_names:
 - Mallow
+- Common mallow
+- High mallow
+- Blue mallow
 scientific_name: Malva sylvestris
 family: Malvaceae
 parts_used:
-- name: Whole plant
+- name: Leaf and flower
   medicinal_actions:
-  - action: Cough (symptom-lookup evidence 2/4)
+  - action: Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
+    - REF-0480
+    status: verified
+  - action: Soothes sore throat
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 2/4)
+    - REF-0480
+    status: verified
+  - action: Soothes irritated and inflamed skin and mucous membranes
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Sore throat (symptom-lookup evidence 2/4)
+    - REF-0480
+    status: verified
+  - action: Mild laxative for occasional constipation (mucilage; traditional)
     reference_ids:
-    - REF-0384
+    - REF-0480
     status: needs-review
-  - action: Constipation (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Mucilage polysaccharides
+  note: The high mucilage content gives the demulcent, soothing action.
+  reference_ids:
+  - REF-0480
+- name: Anthocyanins (malvin) and flavonoids
+  note: The blue-purple pigments and antioxidant constituents.
+  reference_ids:
+  - REF-0480
+- name: Tannins
+  note: Mildly astringent constituents.
+  reference_ids:
+  - REF-0480
+contraindications:
+- note: Generally very well tolerated. Irritation of the mouth/throat or a cough that persists beyond
+    about a week, or is accompanied by fever or breathlessness, needs medical assessment.
+  reference_ids:
+  - REF-0480
+  status: verified
+- note: Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.
+  reference_ids:
+  - REF-0480
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium /
+  flos). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat,
+  skin-irritation, inflammation, constipation); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

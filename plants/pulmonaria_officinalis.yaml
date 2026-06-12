@@ -1,27 +1,45 @@
 common_names:
 - Lungwort
+- Common lungwort
+- Jerusalem cowslip
+- Spotted dog
 scientific_name: Pulmonaria officinalis
 family: Boraginaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Bronchitis (symptom-lookup evidence 1/4)
+  - action: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
+      (mucilage and saponins)
     reference_ids:
-    - REF-0384
+    - REF-0479
     status: needs-review
-  - action: Cough (symptom-lookup evidence 1/4)
+  - action: Anti-inflammatory (cyclooxygenase-2 inhibition) and antioxidant
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Sore throat (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0479
+    status: verified
+constituents:
+- name: Phenolic acids (rosmarinic, lithospermic and salvianolic acids)
+  note: The main antioxidant and COX-2-inhibiting constituents.
+  reference_ids:
+  - REF-0479
+- name: Mucilage, flavonoids, allantoin and silicic acid
+  note: Soothing and supporting constituents underlying the traditional respiratory use.
+  reference_ids:
+  - REF-0479
+contraindications:
+- note: As a member of the borage family (Boraginaceae), which can contain hepatotoxic pyrrolizidine alkaloids,
+    prolonged or high-dose internal use is best avoided; use in pregnancy and breastfeeding is not recommended.
+  reference_ids:
+  - REF-0479
+  status: needs-review
+- note: Traditional use only; clinical evidence in humans is limited, so a cough or respiratory complaint
+    that persists needs medical assessment.
+  reference_ids:
+  - REF-0479
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Molecules study of Pulmonaria antioxidant
+  and COX-2-inhibitory activity). Lungwort is poorly covered by clinical trials, so respiratory actions
+  remain needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
+  (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

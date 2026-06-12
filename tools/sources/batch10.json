@@ -1,0 +1,141 @@
+[
+  {
+    "file": "pulmonaria_officinalis.yaml",
+    "common_names": ["Lungwort", "Common lungwort", "Jerusalem cowslip", "Spotted dog"],
+    "scientific_name": "Pulmonaria officinalis",
+    "family": "Boraginaceae",
+    "references": {
+      "krzyzanowska2021": {"type": "article", "author": "Krzyzanowska-Kowalczyk, J., Kowalczyk, M., Ponczek, M.B., Pecio, L., Nowak, P. and Kolodziejczyk-Czepas, J.", "year": "2021", "title": "Pulmonaria officinalis and Pulmonaria obscura Extracts as Mitigators of Peroxynitrite-Induced Oxidative Stress and Cyclooxygenase-2 Inhibitors - In Vitro and In Silico Studies", "journal": "Molecules", "doi": "10.3390/molecules26030631"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh (mucilage and saponins)", "refs": ["krzyzanowska2021"], "status": "needs-review"},
+        {"action": "Anti-inflammatory (cyclooxygenase-2 inhibition) and antioxidant", "refs": ["krzyzanowska2021"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Phenolic acids (rosmarinic, lithospermic and salvianolic acids)", "note": "The main antioxidant and COX-2-inhibiting constituents.", "refs": ["krzyzanowska2021"]},
+      {"name": "Mucilage, flavonoids, allantoin and silicic acid", "note": "Soothing and supporting constituents underlying the traditional respiratory use.", "refs": ["krzyzanowska2021"]}
+    ],
+    "contraindications": [
+      {"note": "As a member of the borage family (Boraginaceae), which can contain hepatotoxic pyrrolizidine alkaloids, prolonged or high-dose internal use is best avoided; use in pregnancy and breastfeeding is not recommended.", "refs": ["krzyzanowska2021"], "status": "needs-review"},
+      {"note": "Traditional use only; clinical evidence in humans is limited, so a cough or respiratory complaint that persists needs medical assessment.", "refs": ["krzyzanowska2021"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Molecules study of Pulmonaria antioxidant and COX-2-inhibitory activity). Lungwort is poorly covered by clinical trials, so respiratory actions remain needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "malva_sylvestris.yaml",
+    "common_names": ["Mallow", "Common mallow", "High mallow", "Blue mallow"],
+    "scientific_name": "Malva sylvestris",
+    "family": "Malvaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Malva sylvestris L., folium and flos (Malvae folium / Malvae sylvestris flos)", "url": "https://www.ema.europa.eu/en/medicines/herbal/malvae-folium"}
+    },
+    "parts_used": [
+      {"name": "Leaf and flower", "actions": [
+        {"action": "Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage)", "refs": ["ema"], "status": "verified"},
+        {"action": "Soothes sore throat", "refs": ["ema"], "status": "verified"},
+        {"action": "Soothes irritated and inflamed skin and mucous membranes", "refs": ["ema"], "status": "verified"},
+        {"action": "Mild laxative for occasional constipation (mucilage; traditional)", "refs": ["ema"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Mucilage polysaccharides", "note": "The high mucilage content gives the demulcent, soothing action.", "refs": ["ema"]},
+      {"name": "Anthocyanins (malvin) and flavonoids", "note": "The blue-purple pigments and antioxidant constituents.", "refs": ["ema"]},
+      {"name": "Tannins", "note": "Mildly astringent constituents.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Generally very well tolerated. Irritation of the mouth/throat or a cough that persists beyond about a week, or is accompanied by fever or breathlessness, needs medical assessment.", "refs": ["ema"], "status": "verified"},
+      {"note": "Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium / flos). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, skin-irritation, inflammation, constipation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "althaea_officinalis.yaml",
+    "common_names": ["Marshmallow Root", "Marsh mallow", "White mallow"],
+    "scientific_name": "Althaea officinalis",
+    "family": "Malvaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Althaea officinalis L., radix (Althaeae radix)", "url": "https://www.ema.europa.eu/en/medicines/herbal/althaeae-radix"},
+      "escop": {"type": "misc", "author": "ESCOP (European Scientific Cooperative on Phytotherapy)", "year": "n.d.", "title": "Althaeae radix (Marshmallow Root) monograph", "url": "https://www.escop.com/downloads/althaea-radix-marshmallow-root/"}
+    },
+    "parts_used": [
+      {"name": "Root", "actions": [
+        {"action": "Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and soothes)", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Soothes sore throat", "refs": ["ema"], "status": "verified"},
+        {"action": "Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective mucilage)", "refs": ["ema"], "status": "verified"},
+        {"action": "Antitussive (calms dry, irritating cough)", "refs": ["ema"], "status": "verified"},
+        {"action": "Topical soothing for irritated skin", "refs": ["escop"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Mucilage polysaccharides (rhamnogalacturonans, arabinans, glucans, arabinogalactans)", "note": "The principal soothing, film-forming constituents.", "refs": ["ema"]},
+      {"name": "Flavonoids and phenolic acids", "note": "Antioxidant constituents.", "refs": ["escop"]},
+      {"name": "Pectin and starch", "note": "Other carbohydrate constituents of the root.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Very well tolerated. The mucilage can slow the absorption of other medicines, so take other drugs about an hour before or after marshmallow.", "refs": ["ema", "escop"], "status": "verified"},
+      {"note": "It may mildly lower blood sugar (caution alongside antidiabetic medicines). Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for Althaeae radix; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, indigestion, acid-reflux, skin-irritation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "silybum_marianum.yaml",
+    "common_names": ["Milk Thistle", "Mary thistle", "Holy thistle", "Silybum"],
+    "scientific_name": "Silybum marianum",
+    "family": "Asteraceae",
+    "references": {
+      "soleimani2019": {"type": "article", "author": "Soleimani, V., Delghandi, P.S., Moallem, S.A. and Karimi, G.", "year": "2019", "title": "Safety and toxicity of silymarin, the major constituent of milk thistle extract: An updated review", "journal": "Phytotherapy Research", "doi": "10.1002/ptr.6361"},
+      "fallah2021": {"type": "article", "author": "Fallah, M., Davoodvandi, A., Nikmanzar, S., Aghili, S., Mirazimi, S.M.A., Aschner, M., Rashidian, A., Hamblin, M.R., Chamanara, M., Naghsh, N. and Mirzaei, H.", "year": "2021", "title": "Silymarin (milk thistle extract) as a therapeutic agent in gastrointestinal cancer", "journal": "Biomedicine & Pharmacotherapy", "doi": "10.1016/j.biopha.2021.112024"}
+    },
+    "parts_used": [
+      {"name": "Seed (fruit)", "actions": [
+        {"action": "Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic)", "refs": ["soleimani2019", "fallah2021"], "status": "verified"},
+        {"action": "Anti-inflammatory and antioxidant", "refs": ["fallah2021", "soleimani2019"], "status": "verified"},
+        {"action": "Supports liver recovery and 'detox' (traditional framing of the hepatoprotective action)", "refs": ["soleimani2019"], "status": "needs-review"},
+        {"action": "Digestive support / mild dyspepsia (traditional)", "refs": ["soleimani2019"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Silymarin (a flavonolignan complex)", "note": "The active complex; silybin (silibinin) is the most active component, with silydianin and silychristin.", "refs": ["soleimani2019", "fallah2021"]},
+      {"name": "Flavonoids", "note": "Additional antioxidant constituents of the seed.", "refs": ["fallah2021"]}
+    ],
+    "contraindications": [
+      {"note": "Very well tolerated, even at high doses; the main effects are mild gastrointestinal upset (nausea, loose stools). As a member of the daisy family (Asteraceae), it can cause allergic reactions in sensitive people.", "refs": ["soleimani2019"], "status": "verified"},
+      {"note": "Has a low potential for drug interactions (little effect on liver CYP enzymes), but use caution with medicines that have a narrow therapeutic window. Human pregnancy data are limited, so use cautiously.", "refs": ["soleimani2019"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Phytotherapy Research safety/toxicity review; Biomedicine & Pharmacotherapy review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (liver-support, detox, indigestion, inflammation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "origanum_vulgare.yaml",
+    "common_names": ["Oregano", "Wild marjoram", "Origanum"],
+    "scientific_name": "Origanum vulgare",
+    "family": "Lamiaceae",
+    "references": {
+      "soltani2021": {"type": "article", "author": "Soltani, S., Shakeri, A., Iranshahi, M. and Boozari, M.", "year": "2021", "title": "A Review of the Phytochemistry and Antimicrobial Properties of Origanum vulgare L. and Subspecies", "journal": "Iranian Journal of Pharmaceutical Research", "doi": "10.22037/ijpr.2020.113874.14539"},
+      "sharifirad2018": {"type": "article", "author": "Sharifi-Rad, M., Varoni, E.M., Iriti, M., Martorell, M., Setzer, W.N., del Mar Contreras, M., Salehi, B., Soltani-Nejad, A., Rajabi, S., Tajbakhsh, M. and Sharifi-Rad, J.", "year": "2018", "title": "Carvacrol and human health: A comprehensive review", "journal": "Phytotherapy Research", "doi": "10.1002/ptr.6103"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (leaf/herb) and essential oil", "actions": [
+        {"action": "Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and gastrointestinal infections", "refs": ["soltani2021", "sharifirad2018"], "status": "verified"},
+        {"action": "Aromatic support for coughs and colds (traditional)", "refs": ["soltani2021"], "status": "needs-review"},
+        {"action": "Carminative digestive for indigestion (traditional bitter aromatic)", "refs": ["soltani2021"], "status": "needs-review"},
+        {"action": "Antioxidant and anti-inflammatory", "refs": ["sharifirad2018", "soltani2021"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Essential oil rich in carvacrol and thymol", "note": "Phenolic monoterpenes responsible for the strong antimicrobial activity.", "refs": ["soltani2021", "sharifirad2018"]},
+      {"name": "Phenolic acids (rosmarinic acid) and flavonoids", "note": "Antioxidant constituents.", "refs": ["soltani2021"]}
+    ],
+    "contraindications": [
+      {"note": "Culinary amounts are safe. Concentrated oregano essential oil is a strong irritant - dilute well before any topical use and do not take undiluted oil internally.", "refs": ["sharifirad2018"], "status": "verified"},
+      {"note": "May lower blood sugar and has a mild antiplatelet effect, so use caution with antidiabetic or anticoagulant medicines; avoid medicinal/oil doses in pregnancy. Allergy is possible in people sensitive to the mint family (Lamiaceae).", "refs": ["soltani2021"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Iranian Journal of Pharmaceutical Research phytochemistry/antimicrobial review; Phytotherapy Research carvacrol review). Note: this is Origanum vulgare (wild marjoram), distinct from the book's Origanum majorana (sweet marjoram). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cold, cough, indigestion, infection, inflammation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

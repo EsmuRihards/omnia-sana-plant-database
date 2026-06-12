@@ -32,7 +32,54 @@ parts_used:
     - REF-0260
     - REF-0309
     status: verified
-constituents: []
+  - action: Vulnerary (wound healing) - fresh leaf poultice
+    reference_ids:
+    - REF-0368
+    - REF-0364
+    - REF-0358
+    status: verified
+  - action: Demulcent / expectorant (coughs, catarrh, irritated airways)
+    reference_ids:
+    - REF-0358
+    - REF-0357
+    status: verified
+  - action: Astringent (diarrhoea)
+    reference_ids:
+    - REF-0358
+    - REF-0357
+    status: verified
+  - action: Antimicrobial
+    reference_ids:
+    - REF-0354
+    status: verified
+  - action: Bulk laxative (mucilaginous seeds)
+    reference_ids:
+    - REF-0358
+    status: verified
+constituents:
+- name: Iridoid glycosides (aucubin, catalpol)
+  note: Characteristic iridoids of Plantago major.
+  reference_ids:
+  - REF-0364
+  - REF-0354
+- name: Caffeic acid esters (plantamajoside, acteoside/verbascoside)
+  note: Polyphenolic esters contributing to antioxidant and anti-inflammatory activity.
+  reference_ids:
+  - REF-0364
+  - REF-0354
+- name: Flavonoids (baicalein, luteolin, hispidulin)
+  note: Flavonoid constituents of the leaf.
+  reference_ids:
+  - REF-0354
+- name: Allantoin
+  note: Cell-proliferative compound supporting wound healing.
+  reference_ids:
+  - REF-0364
+- name: Mucilage and triterpenes (ursolic and oleanolic acid)
+  note: Demulcent mucilage plus anti-inflammatory triterpenes.
+  reference_ids:
+  - REF-0364
+  - REF-0354
 contraindications:
 - note: Extremely safe; one of the most widely used edible and medicinal plants in the world. Psyllium
     seeds (closely related) are well-studied as a bulk laxative but should always be taken with adequate
@@ -54,9 +101,37 @@ contraindications:
   - REF-0260
   - REF-0309
   status: verified
+- note: Generally regarded as safe as food and in customary medicinal use; allergic reactions are uncommon,
+    though the abundant wind-borne pollen can aggravate hay fever in sensitive people.
+  reference_ids:
+  - REF-0364
+  - REF-0358
+  status: verified
+- note: Correct identification is essential and material should be gathered away from roadsides, sprayed
+    lawns and other contaminated ground; deep or infected wounds warrant proper medical care.
+  reference_ids:
+  - REF-0365
+  - REF-0364
+  status: verified
+- note: Additional omniasana.bio sources cited for Plantago major (identification, distribution, foraging,
+    traditional use and supporting evidence; see bibliography).
+  reference_ids:
+  - REF-0353
+  - REF-0355
+  - REF-0356
+  - REF-0359
+  - REF-0360
+  - REF-0361
+  - REF-0362
+  - REF-0363
+  - REF-0366
+  - REF-0367
+  status: verified
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
+  not yet extracted — manual enrichment pending. | Enriched 2026-06-12 from the omniasana.bio ''Broadleaf
+  Plantain'' Materia Medica page (https://omniasana.bio/broadleaf-plantain-plantago-major/): added constituents,
+  web-sourced actions and cautions.'
 last_updated: '2026-06-12'
 status: verified

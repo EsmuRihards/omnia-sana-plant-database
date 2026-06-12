@@ -1,0 +1,95 @@
+common_names:
+- White Dead Nettle
+- White dead-nettle
+- Bee nettle
+- Dumb nettle
+scientific_name: Lamium album
+family: Lamiaceae
+parts_used:
+- name: Flower
+  medicinal_actions:
+  - action: Astringent (catarrh, excessive menstrual or vaginal discharge)
+    reference_ids:
+    - REF-0347
+    - REF-0348
+    status: verified
+  - action: Expectorant
+    reference_ids:
+    - REF-0347
+    - REF-0339
+    status: verified
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0343
+    - REF-0349
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0342
+    - REF-0343
+    status: verified
+- name: Leaf
+  medicinal_actions:
+  - action: Vulnerary (minor wounds), applied topically
+    reference_ids:
+    - REF-0347
+    - REF-0348
+    status: verified
+  - action: Edible spring potherb (young leaves and shoots, cooked)
+    reference_ids:
+    - REF-0345
+    - REF-0345
+    status: verified
+- name: Aerial parts
+  medicinal_actions:
+  - action: Astringent and anti-inflammatory infusion or tincture (flowering tops)
+    reference_ids:
+    - REF-0347
+    - REF-0349
+    - REF-0348
+    status: verified
+constituents:
+- name: Phenylpropanoid and flavonoid glycosides
+  note: Verbascoside, tiliroside and quercetin/kaempferol 3-O-glucosides in the flowers.
+  reference_ids:
+  - REF-0342
+- name: Iridoid glycosides
+  note: Lamalbid, alboside A and B and caryoptoside; linked to antioxidant and anti-inflammatory activity.
+  reference_ids:
+  - REF-0343
+- name: Standardisation markers (Lamii albi flos)
+  note: Lamalbid, chlorogenic acid, verbascoside, rutin and tiliroside, richest in the flowering tops.
+  reference_ids:
+  - REF-0349
+contraindications:
+- note: Generally regarded as safe in culinary amounts and at normal medicinal doses; unlike the stinging
+    nettle it has no stinging hairs.
+  reference_ids:
+  - REF-0345
+  status: verified
+- note: Medicinal use during pregnancy or breastfeeding should be approached cautiously, as for any traditional
+    astringent.
+  reference_ids:
+  - REF-0347
+  - REF-0345
+  status: verified
+- note: Identify correctly before foraging (resembles stinging nettle before flowering and red dead-nettle);
+    clinical evidence is limited, so it should not replace conventional treatment.
+  reference_ids:
+  - REF-0344
+  - REF-0348
+  status: verified
+- note: Identification, distribution and horticultural references for Lamium album.
+  reference_ids:
+  - REF-0340
+  - REF-0341
+  - REF-0346
+  - REF-0350
+  - REF-0351
+  - REF-0352
+  status: verified
+internal_notes: Ingested from the omniasana.bio Materia Medica page (https://omniasana.bio/white-dead-nettle-lamium-album/).
+  New species not in the book manuscript. Identification, distribution and collection notes from the source
+  are retained in the bibliography (some references are cited at plant level).
+last_updated: '2026-06-12'
+status: verified

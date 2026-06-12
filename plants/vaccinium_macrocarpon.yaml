@@ -1,0 +1,19 @@
+common_names:
+- American Cranberry
+scientific_name: Vaccinium macrocarpon
+family: Ericaceae
+parts_used:
+- name: Whole plant
+  medicinal_actions:
+  - action: Urinary tract infection (UTI) (symptom-lookup evidence 4/4)
+    reference_ids:
+    - REF-0384
+    status: draft
+constituents: []
+contraindications: []
+internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
+  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
+  not an independent verification. No parts, constituents or contraindications were given by the source
+  - manual enrichment pending.
+last_updated: '2026-06-12'
+status: needs-review

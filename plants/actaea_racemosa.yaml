@@ -1,0 +1,31 @@
+common_names:
+- Black Cohosh
+scientific_name: Actaea racemosa
+family: Ranunculaceae
+parts_used:
+- name: Whole plant
+  medicinal_actions:
+  - action: Hot flashes (symptom-lookup evidence 4/4)
+    reference_ids:
+    - REF-0384
+    status: draft
+  - action: Menopause (symptom-lookup evidence 4/4)
+    reference_ids:
+    - REF-0384
+    status: draft
+  - action: Premenstrual syndrome (PMS) (symptom-lookup evidence 2/4)
+    reference_ids:
+    - REF-0384
+    status: needs-review
+  - action: Anxiety (symptom-lookup evidence 1/4)
+    reference_ids:
+    - REF-0384
+    status: needs-review
+constituents: []
+contraindications: []
+internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
+  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
+  not an independent verification. No parts, constituents or contraindications were given by the source
+  - manual enrichment pending.
+last_updated: '2026-06-12'
+status: needs-review

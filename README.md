@@ -34,6 +34,11 @@ plant-database/
 ├── plants/                     # one YAML file per plant
 │   ├── taraxacum_officinale.yaml
 │   └── ...
+├── tools/                      # reproducible ingestion scripts (provenance)
+│   ├── ingest_book.py          # book manuscript -> plant YAML + bibliography
+│   ├── add_dandelion.py        # Dandelion worked example from omniasana.bio
+│   ├── ingest_website.py       # omniasana.bio pages + Symptom-to-Plant Lookup
+│   └── sources/                # saved raw source data the scripts ingest
 └── .github/workflows/
     └── validate.yml            # CI: runs validate_references.py on every push/PR
 ```
@@ -189,6 +194,30 @@ CI runs this automatically on every push and pull request
 (`.github/workflows/validate.yml`).
 
 ---
+
+## Data provenance
+
+Records come from three ingestion passes, all reproducible from `tools/`:
+
+1. **Book manuscript** (`ingest_book.py`) — 96 species from the Omnia Sana book,
+   `status: verified`. Parts and actions are flat/unmapped (see the note above),
+   with plant-level references.
+2. **omniasana.bio Materia Medica pages** (`add_dandelion.py`,
+   `ingest_website.py`) — fully part-mapped, well-cited records:
+   Dandelion, White Dead Nettle (new), and enrichment of the existing Greater
+   Plantain and Yarrow records with site-sourced constituents, actions and
+   cautions. `status: verified`.
+3. **Symptom-to-Plant Lookup tool** (`ingest_website.py`, from
+   `tools/sources/symptom_lookup.json`) — 77 plants imported as **skeletal
+   records**: a single `Whole plant` part whose actions are the symptoms the
+   tool associates with the plant, each tagged with the tool's evidence score
+   (`evidence N/4`) and citing the tool itself. These are
+   `status: needs-review` (associations to be confirmed against primary
+   literature, not independently verified). They are the obvious next target
+   for enrichment.
+
+Re-running an ingestion script regenerates its records; the scripts are additive
+and the bibliography re-sorts alphabetically while preserving `REF-XXXX` ids.
 
 ## Syncing with GitHub
 

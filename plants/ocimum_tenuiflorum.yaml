@@ -1,0 +1,40 @@
+common_names:
+- Holy Basil
+- Tulsi
+scientific_name: Ocimum tenuiflorum
+family: Lamiaceae
+parts_used:
+- name: Leaf
+  medicinal_actions:
+  - action: Anxiety (symptom-lookup evidence 3/4)
+    reference_ids:
+    - REF-0384
+    status: draft
+  - action: Stress (symptom-lookup evidence 3/4)
+    reference_ids:
+    - REF-0384
+    status: draft
+  - action: Blood-sugar support (symptom-lookup evidence 2/4)
+    reference_ids:
+    - REF-0384
+    status: needs-review
+  - action: Immune support (symptom-lookup evidence 2/4)
+    reference_ids:
+    - REF-0384
+    status: needs-review
+  - action: Adaptogen (calm, clear mind; balanced response to everyday stress) - traditional use
+    reference_ids:
+    - REF-0385
+    - REF-0384
+    status: needs-review
+constituents: []
+contraindications:
+- note: Most often taken as a daily tea; speak with a practitioner if pregnant or managing blood sugar.
+  reference_ids:
+  - REF-0385
+  status: needs-review
+internal_notes: Combined from the omniasana.bio Symptom-to-Plant Lookup tool and the Holy Basil Materia
+  Medica page (https://omniasana.bio/holy-basil/). Ocimum tenuiflorum (accepted) = Ocimum sanctum (synonym).
+  Skeletal record - manual enrichment pending.
+last_updated: '2026-06-12'
+status: needs-review

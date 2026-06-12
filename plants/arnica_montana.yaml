@@ -1,0 +1,31 @@
+common_names:
+- Arnica
+scientific_name: Arnica montana
+family: Asteraceae
+parts_used:
+- name: Whole plant
+  medicinal_actions:
+  - action: Bruising (symptom-lookup evidence 3/4)
+    reference_ids:
+    - REF-0384
+    status: draft
+  - action: Inflammation (symptom-lookup evidence 2/4)
+    reference_ids:
+    - REF-0384
+    status: needs-review
+  - action: Muscle soreness (symptom-lookup evidence 2/4)
+    reference_ids:
+    - REF-0384
+    status: needs-review
+  - action: Pain (symptom-lookup evidence 2/4)
+    reference_ids:
+    - REF-0384
+    status: needs-review
+constituents: []
+contraindications: []
+internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
+  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
+  not an independent verification. No parts, constituents or contraindications were given by the source
+  - manual enrichment pending.
+last_updated: '2026-06-12'
+status: needs-review

@@ -50,7 +50,49 @@ parts_used:
     - REF-0098
     - REF-0296
     status: verified
-constituents: []
+  - action: Styptic / haemostatic (slows bleeding from minor cuts)
+    reference_ids:
+    - REF-0369
+    - REF-0373
+    - REF-0381
+    status: verified
+  - action: Vulnerary (wound healing)
+    reference_ids:
+    - REF-0372
+    - REF-0369
+    status: verified
+  - action: Diaphoretic (supports the body during colds and fevers)
+    reference_ids:
+    - REF-0369
+    - REF-0373
+    status: verified
+  - action: Bitter digestive tonic (stimulates appetite and bile flow)
+    reference_ids:
+    - REF-0369
+    - REF-0373
+    status: verified
+  - action: Astringent
+    reference_ids:
+    - REF-0369
+    - REF-0373
+    status: verified
+constituents:
+- name: Essential oil (mono- and sesquiterpenes)
+  note: Chamazulene (blue colour), sabinene, 1,8-cineole, camphor and alpha-bisabolol.
+  reference_ids:
+  - REF-0369
+- name: Flavonoids (apigenin, luteolin, rutin, quercetin)
+  note: Antioxidant and antispasmodic flavonoids.
+  reference_ids:
+  - REF-0369
+- name: Sesquiterpene lactones, phenolic acids, tannins and coumarins
+  note: Contribute to anti-inflammatory and astringent activity.
+  reference_ids:
+  - REF-0369
+- name: Betonicine and achilleine
+  note: Compounds traditionally linked to the haemostatic (styptic) effect.
+  reference_ids:
+  - REF-0369
 contraindications:
 - note: Generally very safe. Rarely causes contact dermatitis in sensitive individuals (sesquiterpene
     lactones, same Asteraceae family). Avoid high doses during pregnancy (emmenagogue at large doses).
@@ -74,9 +116,46 @@ contraindications:
   - REF-0098
   - REF-0296
   status: verified
+- note: As a member of the daisy family (Asteraceae) it can cause allergic reactions or contact dermatitis
+    in sensitive people, and handling the fresh plant in sunlight can occasionally cause photosensitivity.
+  reference_ids:
+  - REF-0369
+  status: verified
+- note: Medicinal use is traditionally avoided in pregnancy (can stimulate the uterus and influence menstruation);
+    caution while breastfeeding.
+  reference_ids:
+  - REF-0373
+  status: verified
+- note: May interact with anticoagulant, sedative and blood-pressure medications and with drugs metabolised
+    by the liver; seek professional advice if on regular medication.
+  reference_ids:
+  - REF-0369
+  status: verified
+- note: Correct identification is essential, as several poisonous white-flowered umbellifers can be confused
+    with yarrow; clinical evidence in humans is limited.
+  reference_ids:
+  - REF-0370
+  - REF-0369
+  status: verified
+- note: Additional omniasana.bio sources cited for Achillea millefolium (identification, distribution,
+    foraging, traditional use and supporting evidence; see bibliography).
+  reference_ids:
+  - REF-0371
+  - REF-0374
+  - REF-0375
+  - REF-0376
+  - REF-0377
+  - REF-0378
+  - REF-0379
+  - REF-0380
+  - REF-0382
+  - REF-0383
+  status: verified
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
+  not yet extracted — manual enrichment pending. | Enriched 2026-06-12 from the omniasana.bio ''Yarrow''
+  Materia Medica page (https://omniasana.bio/yarrow-achillea-millefolium/): added constituents, web-sourced
+  actions and cautions.'
 last_updated: '2026-06-12'
 status: verified

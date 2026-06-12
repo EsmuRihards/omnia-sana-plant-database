@@ -1,27 +1,49 @@
 common_names:
 - Sweet Flag
+- Calamus
+- Sweet sedge
+- Sweet root
 scientific_name: Acorus calamus
 family: Acoraceae
 parts_used:
-- name: Whole plant
+- name: Rhizome
   medicinal_actions:
-  - action: Bloating (symptom-lookup evidence 2/4)
+  - action: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0516
     status: needs-review
-  - action: Indigestion (symptom-lookup evidence 2/4)
+  - action: Traditional nervine for memory and concentration (preclinical neuroprotective activity)
     reference_ids:
-    - REF-0384
+    - REF-0516
     status: needs-review
-  - action: Appetite loss (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Phenylpropanoid asarones (alpha- and beta-asarone)
+  note: Characteristic aromatic constituents - but beta-asarone is the toxic, safety-limiting compound.
+  reference_ids:
+  - REF-0515
+  - REF-0516
+- name: Essential oil and lignans
+  note: Other aromatic and bioactive constituents of the rhizome.
+  reference_ids:
+  - REF-0516
+contraindications:
+- note: 'SERIOUS: beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies. Regulators
+    have restricted internal use of asarone-containing Acorus calamus (the Asian high-beta-asarone varieties),
+    and it is banned as a food additive in the USA. Avoid internal use except properly characterised beta-asarone-free
+    preparations.'
+  reference_ids:
+  - REF-0515
+  - REF-0516
+  status: verified
+- note: Do not use in pregnancy or breastfeeding, or for prolonged periods. The North American variety
+    (Acorus americanus) is essentially beta-asarone-free, but most commercial calamus is not.
+  reference_ids:
+  - REF-0515
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Applied Toxicology asarone
+  toxicology review; Phytochemistry systematic review). Record status set to needs-review because beta-asarone
+  carries documented carcinogenicity and regulatory restrictions. Originally a skeleton imported from
+  the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
 status: needs-review

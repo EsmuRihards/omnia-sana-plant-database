@@ -1,27 +1,50 @@
 common_names:
 - Tormentil
+- Common tormentil
+- Septfoil
+- Bloodroot
 scientific_name: Potentilla erecta
 family: Rosaceae
 parts_used:
-- name: Whole plant
+- name: Rhizome
   medicinal_actions:
-  - action: Diarrhea (symptom-lookup evidence 3/4)
+  - action: Astringent for mild diarrhoea (ellagitannins tighten the gut lining)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Sore throat (symptom-lookup evidence 2/4)
+    - REF-0520
+    - REF-0521
+    status: verified
+  - action: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
     reference_ids:
-    - REF-0384
+    - REF-0520
+    - REF-0521
+    status: verified
+  - action: Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)
+    reference_ids:
+    - REF-0521
     status: needs-review
-  - action: Inflammatory bowel disease (IBD) (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Tannins (ellagitannins such as agrimoniin, and catechin-type tannins)
+  note: The main astringent active constituents.
+  reference_ids:
+  - REF-0520
+  - REF-0521
+- name: Flavonoids and phenolic acids
+  note: Antioxidant supporting constituents.
+  reference_ids:
+  - REF-0521
+contraindications:
+- note: 'Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
+    the absorption of iron and some medicines taken at the same time.'
+  reference_ids:
+  - REF-0520
+  status: verified
+- note: Diarrhoea persisting more than 3-4 days, or with fever or blood in the stool, needs medical care.
+    Use in pregnancy and breastfeeding is not recommended in the absence of data.
+  reference_ids:
+  - REF-0520
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs
+  for Tormentillae rhizoma). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (diarrhea, sore-throat, ibd); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

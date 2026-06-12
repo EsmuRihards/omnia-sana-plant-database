@@ -1,35 +1,55 @@
 common_names:
 - Thyme
+- Common thyme
+- Garden thyme
 scientific_name: Thymus vulgaris
 family: Lamiaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (herb) and essential oil
   medicinal_actions:
-  - action: Bronchitis (symptom-lookup evidence 3/4)
+  - action: Expectorant for productive (chesty) cough associated with cold and bronchitis
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Cough (symptom-lookup evidence 3/4)
+    - REF-0519
+    status: verified
+  - action: Antitussive and antispasmodic (eases bronchial spasm and coughing)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Cold (symptom-lookup evidence 2/4)
+    - REF-0519
+    status: verified
+  - action: Sore throat relief (antiseptic gargle)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Infection (symptom-lookup evidence 2/4)
+    - REF-0519
+    status: verified
+  - action: Antimicrobial (thymol and carvacrol) - supports respiratory infection
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Sore throat (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0486
+    - REF-0519
+    status: verified
+constituents:
+- name: Essential oil rich in thymol and carvacrol
+  note: Phenolic monoterpenes responsible for the antimicrobial and expectorant actions.
+  reference_ids:
+  - REF-0519
+  - REF-0486
+- name: Flavonoids and rosmarinic acid
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0519
+contraindications:
+- note: Culinary amounts are safe. Thyme essential oil is a strong irritant - dilute well before any topical
+    use and do not take the undiluted oil internally.
+  reference_ids:
+  - REF-0486
+  status: verified
+- note: A cough that persists beyond about a week, or with fever or breathlessness, needs medical assessment.
+    Avoid medicinal/oil doses in pregnancy; allergy is possible in people sensitive to the mint family
+    (Lamiaceae).
+  reference_ids:
+  - REF-0519
+  status: verified
+internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
+  Thymi herba; Phytotherapy Research carvacrol review). Note: this is Thymus vulgaris (garden thyme),
+  distinct from the book''s Thymus serpyllum (Breckland thyme). Originally a skeleton imported from the
+  omniasana.bio Symptom-to-Plant Lookup tool (cough, cold, sore-throat, bronchitis, infection); associations
+  retained and now part-mapped and cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

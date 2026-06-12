@@ -1,27 +1,54 @@
 common_names:
 - Speedwell
+- Common speedwell
+- Heath speedwell
+- Gypsyweed
 scientific_name: Veronica officinalis
 family: Plantaginaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Cough (symptom-lookup evidence 1/4)
+  - action: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
+      inflammation)
     reference_ids:
-    - REF-0384
+    - REF-0513
+    - REF-0514
     status: needs-review
-  - action: Indigestion (symptom-lookup evidence 1/4)
+  - action: Mild digestive / stomach tonic (indigestion)
     reference_ids:
-    - REF-0384
+    - REF-0514
     status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 1/4)
+  - action: Soothing for skin irritation (topical)
     reference_ids:
-    - REF-0384
+    - REF-0514
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+  - action: Anti-inflammatory and antioxidant
+    reference_ids:
+    - REF-0513
+    status: verified
+constituents:
+- name: Iridoid glycosides (aucubin, catalpol, verproside, verminoside)
+  note: Anti-inflammatory constituents that inhibit pro-inflammatory mediators in lung cells.
+  reference_ids:
+  - REF-0513
+- name: Flavonoids and phenolic acids
+  note: Antioxidant constituents.
+  reference_ids:
+  - REF-0513
+contraindications:
+- note: Traditional use only; clinical evidence is limited, so a persistent cough or digestive complaint
+    needs medical assessment. Safety in pregnancy and breastfeeding is not established.
+  reference_ids:
+  - REF-0514
+  status: needs-review
+- note: 'Buy from a reputable source: Veronica officinalis is frequently adulterated with the related
+    Veronica chamaedrys.'
+  reference_ids:
+  - REF-0513
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
+  authentication/phytochemistry study; HerbaZest monograph). Speedwell is poorly covered by clinical trials,
+  so most actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (cough, indigestion, skin-irritation); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

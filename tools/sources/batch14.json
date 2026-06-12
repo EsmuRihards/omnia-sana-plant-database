@@ -1,0 +1,140 @@
+[
+  {
+    "file": "veronica_officinalis.yaml",
+    "common_names": ["Speedwell", "Common speedwell", "Heath speedwell", "Gypsyweed"],
+    "scientific_name": "Veronica officinalis",
+    "family": "Plantaginaceae",
+    "references": {
+      "frontiers2017": {"type": "article", "author": "", "year": "2017", "title": "Veronica officinalis Product Authentication Using DNA Metabarcoding and HPLC-MS Reveals Widespread Adulteration with Veronica chamaedrys", "journal": "Frontiers in Pharmacology", "doi": "10.3389/fphar.2017.00378"},
+      "herbazest": {"type": "misc", "author": "HerbaZest", "year": "n.d.", "title": "Veronica (Speedwell)", "url": "https://www.herbazest.com/herbs/veronica"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung inflammation)", "refs": ["frontiers2017", "herbazest"], "status": "needs-review"},
+        {"action": "Mild digestive / stomach tonic (indigestion)", "refs": ["herbazest"], "status": "needs-review"},
+        {"action": "Soothing for skin irritation (topical)", "refs": ["herbazest"], "status": "needs-review"},
+        {"action": "Anti-inflammatory and antioxidant", "refs": ["frontiers2017"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Iridoid glycosides (aucubin, catalpol, verproside, verminoside)", "note": "Anti-inflammatory constituents that inhibit pro-inflammatory mediators in lung cells.", "refs": ["frontiers2017"]},
+      {"name": "Flavonoids and phenolic acids", "note": "Antioxidant constituents.", "refs": ["frontiers2017"]}
+    ],
+    "contraindications": [
+      {"note": "Traditional use only; clinical evidence is limited, so a persistent cough or digestive complaint needs medical assessment. Safety in pregnancy and breastfeeding is not established.", "refs": ["herbazest"], "status": "needs-review"},
+      {"note": "Buy from a reputable source: Veronica officinalis is frequently adulterated with the related Veronica chamaedrys.", "refs": ["frontiers2017"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology authentication/phytochemistry study; HerbaZest monograph). Speedwell is poorly covered by clinical trials, so most actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, indigestion, skin-irritation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "acorus_calamus.yaml",
+    "common_names": ["Sweet Flag", "Calamus", "Sweet sedge", "Sweet root"],
+    "scientific_name": "Acorus calamus",
+    "family": "Acoraceae",
+    "references": {
+      "uebel2020": {"type": "article", "author": "Uebel, T., Hermes, L., Haupenthal, S., Muller, L. and Esselen, M.", "year": "2020", "title": "alpha-Asarone, beta-asarone, and gamma-asarone: Current status of toxicological evaluation", "journal": "Journal of Applied Toxicology", "doi": "10.1002/jat.4112"},
+      "he2023": {"type": "article", "author": "He, X., Chen, X., Yang, Y., Liu, Y. and Xie, Y.", "year": "2023", "title": "Acorus calamus var. angustatus Besser: Insight into current research on ethnopharmacological use, phytochemistry, pharmacology, toxicology, and pharmacokinetics", "journal": "Phytochemistry", "doi": "10.1016/j.phytochem.2023.113626"}
+    },
+    "parts_used": [
+      {"name": "Rhizome", "actions": [
+        {"action": "Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)", "refs": ["he2023"], "status": "needs-review"},
+        {"action": "Traditional nervine for memory and concentration (preclinical neuroprotective activity)", "refs": ["he2023"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Phenylpropanoid asarones (alpha- and beta-asarone)", "note": "Characteristic aromatic constituents - but beta-asarone is the toxic, safety-limiting compound.", "refs": ["uebel2020", "he2023"]},
+      {"name": "Essential oil and lignans", "note": "Other aromatic and bioactive constituents of the rhizome.", "refs": ["he2023"]}
+    ],
+    "contraindications": [
+      {"note": "SERIOUS: beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies. Regulators have restricted internal use of asarone-containing Acorus calamus (the Asian high-beta-asarone varieties), and it is banned as a food additive in the USA. Avoid internal use except properly characterised beta-asarone-free preparations.", "refs": ["uebel2020", "he2023"], "status": "verified"},
+      {"note": "Do not use in pregnancy or breastfeeding, or for prolonged periods. The North American variety (Acorus americanus) is essentially beta-asarone-free, but most commercial calamus is not.", "refs": ["uebel2020"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Journal of Applied Toxicology asarone toxicology review; Phytochemistry systematic review). Record status set to needs-review because beta-asarone carries documented carcinogenicity and regulatory restrictions. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss); associations retained and now part-mapped and cited.",
+    "status": "needs-review"
+  },
+  {
+    "file": "viola_odorata.yaml",
+    "common_names": ["Sweet Violet", "Garden violet", "English violet", "Banafsha"],
+    "scientific_name": "Viola odorata",
+    "family": "Violaceae",
+    "references": {
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Violets (Viola odorata): Benefits, Safety, Uses", "url": "https://www.herbalreality.com/herb/violets/"},
+      "rxlist": {"type": "misc", "author": "RxList", "year": "n.d.", "title": "Sweet Violet: Health Benefits, Side Effects, Uses, Dose & Precautions", "url": "https://www.rxlist.com/supplements/sweet_violet.htm"}
+    },
+    "parts_used": [
+      {"name": "Flower and leaf (aerial parts)", "actions": [
+        {"action": "Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)", "refs": ["herbalreality"], "status": "verified"},
+        {"action": "Soothes sore throat", "refs": ["herbalreality"], "status": "verified"},
+        {"action": "Mild sedative for sleeplessness and to ease headache (traditional)", "refs": ["herbalreality"], "status": "needs-review"},
+        {"action": "Anti-inflammatory", "refs": ["herbalreality"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Mucilage and saponins", "note": "Mucilage gives the soothing demulcent action; saponins give the expectorant action.", "refs": ["herbalreality"]},
+      {"name": "Flavonoids and salicylic acid", "note": "Antioxidant and mild analgesic constituents.", "refs": ["herbalreality"]},
+      {"name": "Alkaloids (e.g. violine) and essential oil", "note": "Minor aromatic and bioactive constituents.", "refs": ["herbalreality"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated as flower/leaf preparations. It contains salicylates, so use caution if you are salicylate-sensitive; the root in large doses is emetic and purgative.", "refs": ["herbalreality", "rxlist"], "status": "verified"},
+      {"note": "Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.", "refs": ["rxlist"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs). Note: distinct from the book's Viola tricolor (heartsease). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, insomnia, sore-throat, headache); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "thymus_vulgaris.yaml",
+    "common_names": ["Thyme", "Common thyme", "Garden thyme"],
+    "scientific_name": "Thymus vulgaris",
+    "family": "Lamiaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Thymus vulgaris L. and Thymus zygis L., herba (Thymi herba)", "url": "https://www.ema.europa.eu/en/medicines/herbal/thymi-herba"},
+      "sharifirad2018": {"type": "article", "author": "Sharifi-Rad, M., Varoni, E.M., Iriti, M., Martorell, M., Setzer, W.N., del Mar Contreras, M., Salehi, B., Soltani-Nejad, A., Rajabi, S., Tajbakhsh, M. and Sharifi-Rad, J.", "year": "2018", "title": "Carvacrol and human health: A comprehensive review", "journal": "Phytotherapy Research", "doi": "10.1002/ptr.6103"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (herb) and essential oil", "actions": [
+        {"action": "Expectorant for productive (chesty) cough associated with cold and bronchitis", "refs": ["ema"], "status": "verified"},
+        {"action": "Antitussive and antispasmodic (eases bronchial spasm and coughing)", "refs": ["ema"], "status": "verified"},
+        {"action": "Sore throat relief (antiseptic gargle)", "refs": ["ema"], "status": "verified"},
+        {"action": "Antimicrobial (thymol and carvacrol) - supports respiratory infection", "refs": ["sharifirad2018", "ema"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Essential oil rich in thymol and carvacrol", "note": "Phenolic monoterpenes responsible for the antimicrobial and expectorant actions.", "refs": ["ema", "sharifirad2018"]},
+      {"name": "Flavonoids and rosmarinic acid", "note": "Antioxidant and anti-inflammatory constituents.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Culinary amounts are safe. Thyme essential oil is a strong irritant - dilute well before any topical use and do not take the undiluted oil internally.", "refs": ["sharifirad2018"], "status": "verified"},
+      {"note": "A cough that persists beyond about a week, or with fever or breathlessness, needs medical assessment. Avoid medicinal/oil doses in pregnancy; allergy is possible in people sensitive to the mint family (Lamiaceae).", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Thymi herba; Phytotherapy Research carvacrol review). Note: this is Thymus vulgaris (garden thyme), distinct from the book's Thymus serpyllum (Breckland thyme). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, cold, sore-throat, bronchitis, infection); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "potentilla_erecta.yaml",
+    "common_names": ["Tormentil", "Common tormentil", "Septfoil", "Bloodroot"],
+    "scientific_name": "Potentilla erecta",
+    "family": "Rosaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Potentilla erecta (L.) Raeusch., rhizoma (Tormentillae rhizoma)", "url": "https://www.ema.europa.eu/en/medicines/herbal/tormentillae-rhizoma"},
+      "escop": {"type": "misc", "author": "ESCOP (European Scientific Cooperative on Phytotherapy)", "year": "n.d.", "title": "Tormentillae rhizoma (Tormentil) monograph", "url": "https://www.escop.com/downloads/tormentil/"}
+    },
+    "parts_used": [
+      {"name": "Rhizome", "actions": [
+        {"action": "Astringent for mild diarrhoea (ellagitannins tighten the gut lining)", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat", "refs": ["ema", "escop"], "status": "verified"},
+        {"action": "Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)", "refs": ["escop"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Tannins (ellagitannins such as agrimoniin, and catechin-type tannins)", "note": "The main astringent active constituents.", "refs": ["ema", "escop"]},
+      {"name": "Flavonoids and phenolic acids", "note": "Antioxidant supporting constituents.", "refs": ["escop"]}
+    ],
+    "contraindications": [
+      {"note": "Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce the absorption of iron and some medicines taken at the same time.", "refs": ["ema"], "status": "verified"},
+      {"note": "Diarrhoea persisting more than 3-4 days, or with fever or blood in the stool, needs medical care. Use in pregnancy and breastfeeding is not recommended in the absence of data.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs for Tormentillae rhizoma). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, ibd); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

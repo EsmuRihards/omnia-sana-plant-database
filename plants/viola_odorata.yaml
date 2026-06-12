@@ -1,31 +1,57 @@
 common_names:
 - Sweet Violet
+- Garden violet
+- English violet
+- Banafsha
 scientific_name: Viola odorata
 family: Violaceae
 parts_used:
-- name: Whole plant
+- name: Flower and leaf (aerial parts)
   medicinal_actions:
-  - action: Cough (symptom-lookup evidence 2/4)
+  - action: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen
+      mucus)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Headache (symptom-lookup evidence 1/4)
+    - REF-0517
+    status: verified
+  - action: Soothes sore throat
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Insomnia (symptom-lookup evidence 1/4)
+    - REF-0517
+    status: verified
+  - action: Mild sedative for sleeplessness and to ease headache (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0517
     status: needs-review
-  - action: Sore throat (symptom-lookup evidence 1/4)
+  - action: Anti-inflammatory
     reference_ids:
-    - REF-0384
+    - REF-0517
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Mucilage and saponins
+  note: Mucilage gives the soothing demulcent action; saponins give the expectorant action.
+  reference_ids:
+  - REF-0517
+- name: Flavonoids and salicylic acid
+  note: Antioxidant and mild analgesic constituents.
+  reference_ids:
+  - REF-0517
+- name: Alkaloids (e.g. violine) and essential oil
+  note: Minor aromatic and bioactive constituents.
+  reference_ids:
+  - REF-0517
+contraindications:
+- note: Generally well tolerated as flower/leaf preparations. It contains salicylates, so use caution
+    if you are salicylate-sensitive; the root in large doses is emetic and purgative.
+  reference_ids:
+  - REF-0517
+  - REF-0518
+  status: verified
+- note: Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  reference_ids:
+  - REF-0518
+  status: needs-review
+internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs).
+  Note: distinct from the book''s Viola tricolor (heartsease). Originally a skeleton imported from the
+  omniasana.bio Symptom-to-Plant Lookup tool (cough, insomnia, sore-throat, headache); associations retained
+  and now part-mapped and cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

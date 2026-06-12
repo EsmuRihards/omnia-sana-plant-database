@@ -1,35 +1,62 @@
 common_names:
 - Boswellia
+- Indian frankincense
+- Salai guggul
+- Shallaki
 scientific_name: Boswellia serrata
 family: Burseraceae
 parts_used:
-- name: Whole plant
+- name: Gum resin (oleo-gum-resin)
   medicinal_actions:
-  - action: Arthritis (symptom-lookup evidence 4/4)
+  - action: Anti-inflammatory (inhibits 5-lipoxygenase / leukotriene synthesis and NF-kB signalling)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Inflammation (symptom-lookup evidence 4/4)
+    - REF-0423
+    status: verified
+  - action: 'Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks)'
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Pain (symptom-lookup evidence 3/4)
+    - REF-0422
+    status: verified
+  - action: Supports inflammatory arthritis including rheumatoid arthritis
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Asthma (symptom-lookup evidence 2/4)
+    - REF-0423
+    status: verified
+  - action: Analgesic (pain relief)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammatory bowel disease (IBD) (symptom-lookup evidence 2/4)
+    - REF-0422
+    status: verified
+  - action: Supportive in inflammatory bowel disease (ulcerative colitis, Crohn's disease)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0423
+    status: verified
+  - action: Supportive in bronchial asthma
+    reference_ids:
+    - REF-0423
+    status: verified
+constituents:
+- name: Boswellic acids (pentacyclic triterpenes, especially KBA and AKBA)
+  note: The principal anti-inflammatory compounds; AKBA inhibits 5-lipoxygenase. Absorption improves when
+    taken with a high-fat meal.
+  reference_ids:
+  - REF-0423
+- name: Other triterpenes and essential oil of the resin
+  note: Additional constituents of the oleo-gum-resin.
+  reference_ids:
+  - REF-0423
+contraindications:
+- note: Generally well tolerated; the most commonly reported side effects are mild gastrointestinal symptoms,
+    and allergic reactions are rare.
+  reference_ids:
+  - REF-0423
+  - REF-0422
+  status: verified
+- note: Boswellic acids can affect drug-metabolising enzymes, so caution is advised when taking other
+    medicines; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  reference_ids:
+  - REF-0423
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
+  osteoarthritis meta-analysis; review of boswellic acids in chronic inflammatory disease). Originally
+  a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (inflammation, arthritis, asthma,
+  pain, ibd); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,27 +1,64 @@
 common_names:
 - Blessed Thistle
+- Holy thistle
+- St Benedict's thistle
+- Spotted thistle
 scientific_name: Cnicus benedictus
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Appetite loss (symptom-lookup evidence 2/4)
+  - action: Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric
+      secretion)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Indigestion (symptom-lookup evidence 1/4)
+    - REF-0419
+    - REF-0420
+    status: verified
+  - action: Appetite stimulant for loss of appetite (approved use under German Commission E)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Lactation support (symptom-lookup evidence 1/4)
+    - REF-0420
+    - REF-0419
+    status: verified
+  - action: Galactagogue to support breast-milk supply (traditional; no valid clinical-trial evidence)
     reference_ids:
-    - REF-0384
+    - REF-0421
+    - REF-0420
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+  - action: Antimicrobial and anti-inflammatory (attributed to cnicin)
+    reference_ids:
+    - REF-0419
+    status: verified
+constituents:
+- name: Sesquiterpene lactones (cnicin, arctigenin, arctiin)
+  note: Cnicin is the principal bitter principle and main bioactive compound.
+  reference_ids:
+  - REF-0419
+- name: Flavonoids, lignans and tannins
+  note: Additional antioxidant and astringent constituents.
+  reference_ids:
+  - REF-0419
+- name: Volatile oil
+  note: Aromatic constituents of the herb.
+  reference_ids:
+  - REF-0419
+contraindications:
+- note: As a member of the daisy family (Asteraceae/ragweed), it can cause allergic reactions in sensitive
+    people; high doses reportedly cause stomach cramps, nausea and vomiting.
+  reference_ids:
+  - REF-0420
+  status: verified
+- note: Avoid during pregnancy because of a traditional uterine-stimulating reputation.
+  reference_ids:
+  - REF-0420
+  status: verified
+- note: Although traditionally used to support milk supply, there is no scientifically valid clinical
+    evidence for the galactagogue use.
+  reference_ids:
+  - REF-0421
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and general literature (Planta Medica review; Drugs.com
+  and LactMed monographs). Cnicus benedictus = Centaurea benedicta. Originally a skeleton imported from
+  the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, appetite-loss, lactation-support); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

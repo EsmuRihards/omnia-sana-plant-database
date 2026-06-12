@@ -1,31 +1,55 @@
 common_names:
 - Black Cohosh
+- Black snakeroot
+- Cimicifuga
+- Rattleweed
 scientific_name: Actaea racemosa
 family: Ranunculaceae
 parts_used:
-- name: Whole plant
+- name: Root and rhizome
   medicinal_actions:
-  - action: Hot flashes (symptom-lookup evidence 4/4)
+  - action: Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Menopause (symptom-lookup evidence 4/4)
+    - REF-0415
+    status: verified
+  - action: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Premenstrual syndrome (PMS) (symptom-lookup evidence 2/4)
+    - REF-0415
+    status: verified
+  - action: Premenstrual and menstrual complaints (traditional use)
     reference_ids:
-    - REF-0384
+    - REF-0415
     status: needs-review
-  - action: Anxiety (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Triterpene glycosides (actein, 23-epi-26-deoxyactein/cimicifugoside)
+  note: The compounds to which standardised extracts are normalised; act without measurable systemic oestrogenic
+    effect.
+  reference_ids:
+  - REF-0415
+  - REF-0416
+- name: Phenolic acids (fukinolic and cimicifugic acids)
+  note: Antioxidant constituents of the root.
+  reference_ids:
+  - REF-0415
+contraindications:
+- note: Rare reports of liver injury have prompted a precaution; large meta-analytic data found no evidence
+    of hepatotoxicity, but stop use and seek advice if signs of liver problems occur (jaundice, dark urine,
+    upper-abdominal pain).
+  reference_ids:
+  - REF-0415
+  status: verified
+- note: Current evidence does not show an increased risk of breast cancer or proliferation of oestrogen-sensitive
+    tissue, but women with or at risk of hormone-sensitive cancer should use it only under medical guidance.
+  reference_ids:
+  - REF-0416
+  status: verified
+- note: Not recommended during pregnancy or breastfeeding.
+  reference_ids:
+  - REF-0415
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative
+  Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported
+  from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,0 +1,151 @@
+[
+  {
+    "file": "momordica_charantia.yaml",
+    "common_names": ["Bitter Melon", "Bitter gourd", "Karela", "Balsam pear"],
+    "scientific_name": "Momordica charantia",
+    "family": "Cucurbitaceae",
+    "references": {
+      "cicek2022": {"type": "article", "author": "Cicek, S.S.", "year": "2022", "title": "Momordica charantia L. - Diabetes-Related Bioactivities, Quality Control, and Safety Considerations", "journal": "Frontiers in Pharmacology", "doi": "10.3389/fphar.2022.904643"},
+      "yedjou2023": {"type": "article", "author": "Yedjou, C.G., Grigsby, J., Mbemi, A., Nelson, D., Mildort, B., Latinwo, L. and Tchounwou, P.B.", "year": "2023", "title": "The Management of Diabetes Mellitus Using Medicinal Plants and Vitamins", "journal": "International Journal of Molecular Sciences", "doi": "10.3390/ijms24109085"},
+      "webmd": {"type": "misc", "author": "WebMD", "year": "n.d.", "title": "Bitter Melon: Overview, Uses, Side Effects, Precautions, Interactions", "url": "https://www.webmd.com/vitamins/ai/ingredientmono-795/bitter-melon"}
+    },
+    "parts_used": [
+      {"name": "Fruit (unripe)", "actions": [
+        {"action": "Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)", "refs": ["cicek2022", "yedjou2023"], "status": "verified"},
+        {"action": "Bitter digestive / stomachic (traditional use for poor digestion); mild laxative", "refs": ["cicek2022"], "status": "verified"},
+        {"action": "Antioxidant and anti-inflammatory", "refs": ["cicek2022"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Cucurbitane-type triterpenoids (momordicosides)", "note": "Now regarded as the main antidiabetic principles.", "refs": ["cicek2022"]},
+      {"name": "Charantin", "note": "A mixture of two sterol glucosides, historically credited with the hypoglycaemic effect.", "refs": ["cicek2022"]},
+      {"name": "Polypeptide-p ('plant insulin')", "note": "An insulin-like polypeptide of the fruit and seed.", "refs": ["cicek2022"]},
+      {"name": "Vicine (in the seeds)", "note": "A pyrimidine glycoside that can trigger favism in G6PD-deficient people.", "refs": ["webmd"]}
+    ],
+    "contraindications": [
+      {"note": "Avoid in pregnancy: bitter melon can stimulate the uterus and has been associated with miscarriage; also avoid during breastfeeding.", "refs": ["webmd"], "status": "verified"},
+      {"note": "Strong blood-sugar-lowering action: used with insulin or other diabetes medicines it can cause hypoglycaemia - monitor blood glucose and seek medical advice.", "refs": ["webmd", "cicek2022"], "status": "verified"},
+      {"note": "People with glucose-6-phosphate dehydrogenase (G6PD) deficiency should avoid the seeds, which contain vicine and can cause favism (haemolytic anaemia). Excessive intake may cause abdominal pain and diarrhoea.", "refs": ["webmd"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology and Int J Mol Sci reviews; WebMD safety monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (blood-sugar, indigestion); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "actaea_racemosa.yaml",
+    "common_names": ["Black Cohosh", "Black snakeroot", "Cimicifuga", "Rattleweed"],
+    "scientific_name": "Actaea racemosa",
+    "family": "Ranunculaceae",
+    "references": {
+      "castelo2020": {"type": "article", "author": "Castelo-Branco, C., Gambacciani, M., Cano, A., Minkin, M.J., Rachon, D., Ruan, X., Beer, A.M., Schnitker, J., Henneicke-von Zepelin, H.H. and Pickartz, S.", "year": "2020", "title": "Review & meta-analysis: isopropanolic black cohosh extract iCR for menopausal symptoms - an update on the evidence", "journal": "Climacteric", "doi": "10.1080/13697137.2020.1820477"},
+      "fritz2013": {"type": "article", "author": "Fritz, H., Seely, D., McGowan, J., Skidmore, B., Fernandes, R., Kennedy, D.A., Cooley, K., Wong, R., Sagar, S., Balneaves, L.G. and Fergusson, D.", "year": "2013", "title": "Black cohosh and breast cancer: a systematic review", "journal": "Integrative Cancer Therapies", "doi": "10.1177/1534735413477191"}
+    },
+    "parts_used": [
+      {"name": "Root and rhizome", "actions": [
+        {"action": "Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance", "refs": ["castelo2020"], "status": "verified"},
+        {"action": "Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)", "refs": ["castelo2020"], "status": "verified"},
+        {"action": "Premenstrual and menstrual complaints (traditional use)", "refs": ["castelo2020"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Triterpene glycosides (actein, 23-epi-26-deoxyactein/cimicifugoside)", "note": "The compounds to which standardised extracts are normalised; act without measurable systemic oestrogenic effect.", "refs": ["castelo2020", "fritz2013"]},
+      {"name": "Phenolic acids (fukinolic and cimicifugic acids)", "note": "Antioxidant constituents of the root.", "refs": ["castelo2020"]}
+    ],
+    "contraindications": [
+      {"note": "Rare reports of liver injury have prompted a precaution; large meta-analytic data found no evidence of hepatotoxicity, but stop use and seek advice if signs of liver problems occur (jaundice, dark urine, upper-abdominal pain).", "refs": ["castelo2020"], "status": "verified"},
+      {"note": "Current evidence does not show an increased risk of breast cancer or proliferation of oestrogen-sensitive tissue, but women with or at risk of hormone-sensitive cancer should use it only under medical guidance.", "refs": ["fritz2013"], "status": "verified"},
+      {"note": "Not recommended during pregnancy or breastfeeding.", "refs": ["castelo2020"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "rubus_fruticosus.yaml",
+    "common_names": ["Blackberry Leaf", "Bramble", "European blackberry"],
+    "scientific_name": "Rubus fruticosus",
+    "family": "Rosaceae",
+    "references": {
+      "review2014": {"type": "misc", "author": "Verma, R., Gangrade, T., Punasiya, R. and Ghulaxe, C.", "year": "2014", "title": "Rubus fruticosus (blackberry) use as an herbal medicine", "journal": "Pharmacognosy Reviews", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4127818/"},
+      "grabek2022": {"type": "article", "author": "Grabek-Lejko, D., Milek, M., Sidor, E., Puchalski, C. and Dzugan, M.", "year": "2022", "title": "Antiviral and Antibacterial Effect of Honey Enriched with Rubus spp. as a Functional Food with Enhanced Antioxidant Properties", "journal": "Molecules", "doi": "10.3390/molecules27154859"}
+    },
+    "parts_used": [
+      {"name": "Leaf", "actions": [
+        {"action": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)", "refs": ["review2014", "grabek2022"], "status": "verified"},
+        {"action": "Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation", "refs": ["review2014"], "status": "verified"},
+        {"action": "Antioxidant", "refs": ["grabek2022"], "status": "verified"},
+        {"action": "Antibacterial", "refs": ["grabek2022"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Tannins (gallotannins and ellagitannins)", "note": "The astringent principles of the leaf.", "refs": ["review2014", "grabek2022"]},
+      {"name": "Flavonoids and phenolic acids (including gallic acid)", "note": "Antioxidant and antibacterial constituents.", "refs": ["grabek2022"]},
+      {"name": "Vitamin C and minerals (iron)", "note": "Minor nutritive constituents of the leaf.", "refs": ["review2014"]}
+    ],
+    "contraindications": [
+      {"note": "Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce the absorption of iron and some medicines taken at the same time.", "refs": ["review2014"], "status": "verified"},
+      {"note": "Traditional use only; diarrhoea that persists (especially in children) needs medical assessment and attention to rehydration.", "refs": ["review2014"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (Pharmacognosy Reviews herbal-medicine review; Molecules antioxidant/antibacterial study). Note: Rubus fruticosus is an aggregate of many microspecies. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, inflammation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "cnicus_benedictus.yaml",
+    "common_names": ["Blessed Thistle", "Holy thistle", "St Benedict's thistle", "Spotted thistle"],
+    "scientific_name": "Cnicus benedictus",
+    "family": "Asteraceae",
+    "references": {
+      "zietal2024": {"type": "article", "author": "Zietal, K., Mirowska-Guzel, D., Nowaczyk, A. and Blecharz-Klin, K.", "year": "2024", "title": "Cnicus benedictus: Folk Medicinal Uses, Biological Activities, and In Silico Screening of Main Phytochemical Constituents", "journal": "Planta Medica", "doi": "10.1055/a-2401-6049"},
+      "drugs": {"type": "misc", "author": "Drugs.com", "year": "n.d.", "title": "Blessed Thistle Uses, Benefits & Dosage", "url": "https://www.drugs.com/npp/blessed-thistle.html"},
+      "lactmed": {"type": "misc", "author": "Drugs and Lactation Database (LactMed)", "year": "2021", "title": "Blessed Thistle", "url": "https://www.ncbi.nlm.nih.gov/books/NBK501775/"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric secretion)", "refs": ["zietal2024", "drugs"], "status": "verified"},
+        {"action": "Appetite stimulant for loss of appetite (approved use under German Commission E)", "refs": ["drugs", "zietal2024"], "status": "verified"},
+        {"action": "Galactagogue to support breast-milk supply (traditional; no valid clinical-trial evidence)", "refs": ["lactmed", "drugs"], "status": "needs-review"},
+        {"action": "Antimicrobial and anti-inflammatory (attributed to cnicin)", "refs": ["zietal2024"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Sesquiterpene lactones (cnicin, arctigenin, arctiin)", "note": "Cnicin is the principal bitter principle and main bioactive compound.", "refs": ["zietal2024"]},
+      {"name": "Flavonoids, lignans and tannins", "note": "Additional antioxidant and astringent constituents.", "refs": ["zietal2024"]},
+      {"name": "Volatile oil", "note": "Aromatic constituents of the herb.", "refs": ["zietal2024"]}
+    ],
+    "contraindications": [
+      {"note": "As a member of the daisy family (Asteraceae/ragweed), it can cause allergic reactions in sensitive people; high doses reportedly cause stomach cramps, nausea and vomiting.", "refs": ["drugs"], "status": "verified"},
+      {"note": "Avoid during pregnancy because of a traditional uterine-stimulating reputation.", "refs": ["drugs"], "status": "verified"},
+      {"note": "Although traditionally used to support milk supply, there is no scientifically valid clinical evidence for the galactagogue use.", "refs": ["lactmed"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (Planta Medica review; Drugs.com and LactMed monographs). Cnicus benedictus = Centaurea benedicta. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, appetite-loss, lactation-support); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "boswellia_serrata.yaml",
+    "common_names": ["Boswellia", "Indian frankincense", "Salai guggul", "Shallaki"],
+    "scientific_name": "Boswellia serrata",
+    "family": "Burseraceae",
+    "references": {
+      "yu2020": {"type": "article", "author": "Yu, G., Xiang, W., Zhang, T., Zeng, L., Yang, K. and Li, J.", "year": "2020", "title": "Effectiveness of Boswellia and Boswellia extract for osteoarthritis patients: a systematic review and meta-analysis", "journal": "BMC Complementary Medicine and Therapies", "doi": "10.1186/s12906-020-02985-6"},
+      "ammon2016": {"type": "article", "author": "Ammon, H.P.T.", "year": "2016", "title": "Boswellic Acids and Their Role in Chronic Inflammatory Diseases", "journal": "Advances in Experimental Medicine and Biology", "doi": "10.1007/978-3-319-41334-1_13"}
+    },
+    "parts_used": [
+      {"name": "Gum resin (oleo-gum-resin)", "actions": [
+        {"action": "Anti-inflammatory (inhibits 5-lipoxygenase / leukotriene synthesis and NF-kB signalling)", "refs": ["ammon2016"], "status": "verified"},
+        {"action": "Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks)", "refs": ["yu2020"], "status": "verified"},
+        {"action": "Supports inflammatory arthritis including rheumatoid arthritis", "refs": ["ammon2016"], "status": "verified"},
+        {"action": "Analgesic (pain relief)", "refs": ["yu2020"], "status": "verified"},
+        {"action": "Supportive in inflammatory bowel disease (ulcerative colitis, Crohn's disease)", "refs": ["ammon2016"], "status": "verified"},
+        {"action": "Supportive in bronchial asthma", "refs": ["ammon2016"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Boswellic acids (pentacyclic triterpenes, especially KBA and AKBA)", "note": "The principal anti-inflammatory compounds; AKBA inhibits 5-lipoxygenase. Absorption improves when taken with a high-fat meal.", "refs": ["ammon2016"]},
+      {"name": "Other triterpenes and essential oil of the resin", "note": "Additional constituents of the oleo-gum-resin.", "refs": ["ammon2016"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated; the most commonly reported side effects are mild gastrointestinal symptoms, and allergic reactions are rare.", "refs": ["ammon2016", "yu2020"], "status": "verified"},
+      {"note": "Boswellic acids can affect drug-metabolising enzymes, so caution is advised when taking other medicines; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.", "refs": ["ammon2016"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies osteoarthritis meta-analysis; review of boswellic acids in chronic inflammatory disease). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (inflammation, arthritis, asthma, pain, ibd); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

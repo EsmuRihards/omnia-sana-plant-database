@@ -1,27 +1,57 @@
 common_names:
 - Blackberry Leaf
+- Bramble
+- European blackberry
 scientific_name: Rubus fruticosus
 family: Rosaceae
 parts_used:
-- name: Whole plant
+- name: Leaf
   medicinal_actions:
-  - action: Diarrhea (symptom-lookup evidence 2/4)
+  - action: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Sore throat (symptom-lookup evidence 2/4)
+    - REF-0417
+    - REF-0418
+    status: verified
+  - action: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 1/4)
+    - REF-0417
+    status: verified
+  - action: Antioxidant
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0418
+    status: verified
+  - action: Antibacterial
+    reference_ids:
+    - REF-0418
+    status: verified
+constituents:
+- name: Tannins (gallotannins and ellagitannins)
+  note: The astringent principles of the leaf.
+  reference_ids:
+  - REF-0417
+  - REF-0418
+- name: Flavonoids and phenolic acids (including gallic acid)
+  note: Antioxidant and antibacterial constituents.
+  reference_ids:
+  - REF-0418
+- name: Vitamin C and minerals (iron)
+  note: Minor nutritive constituents of the leaf.
+  reference_ids:
+  - REF-0417
+contraindications:
+- note: 'Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
+    the absorption of iron and some medicines taken at the same time.'
+  reference_ids:
+  - REF-0417
+  status: verified
+- note: Traditional use only; diarrhoea that persists (especially in children) needs medical assessment
+    and attention to rehydration.
+  reference_ids:
+  - REF-0417
+  status: verified
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pharmacognosy Reviews herbal-medicine
+  review; Molecules antioxidant/antibacterial study). Note: Rubus fruticosus is an aggregate of many microspecies.
+  Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat,
+  inflammation); associations retained and now part-mapped and cited.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

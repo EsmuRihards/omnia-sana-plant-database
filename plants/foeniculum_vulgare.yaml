@@ -10,16 +10,36 @@ parts_used:
   - action: Antimicrobial
     reference_ids:
     - REF-0119
+    - REF-0537
     status: verified
   - action: Antispasmodic (cramp easing)
     reference_ids:
     - REF-0119
+    - REF-0537
     status: verified
   - action: Expectorant
     reference_ids:
     - REF-0119
+    - REF-0537
     status: verified
-constituents: []
+constituents:
+- name: Essential oil (mainly trans-anethole, with fenchone and estragole/methyl chavicol)
+  note: The aromatic volatile oil of the seed; trans-anethole is the principal component and is associated
+    with the antispasmodic, carminative and estrogen-like activity.
+  reference_ids:
+  - REF-0537
+- name: Flavonoids (quercetin, rutin and kaempferol glycosides)
+  note: Antioxidant polyphenolic constituents.
+  reference_ids:
+  - REF-0537
+- name: Phenolic acids (chlorogenic, caffeic and rosmarinic acids)
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0537
+- name: Fatty acids (chiefly petroselinic acid) and amino acids
+  note: Major constituents of the fruit/seed oil.
+  reference_ids:
+  - REF-0537
 contraindications:
 - note: 'When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine
     at appropriate doses for a short period of time. There isn''t enough reliable information to know
@@ -84,7 +104,9 @@ contraindications:
   status: verified
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  set of references cited for this plant is attached to each action rather than split per action. Enriched
+  2026-06-13 from a comprehensive PubMed review (REF-0537, Badgujar et al. 2014): constituents extracted
+  (essential oil/trans-anethole, flavonoids, phenolic acids, fatty acids) and the review cited alongside
+  the book for the antimicrobial, antispasmodic and expectorant actions.'
+last_updated: '2026-06-13'
 status: verified

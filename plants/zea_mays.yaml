@@ -7,9 +7,12 @@ family: Poaceae
 parts_used:
 - name: Stigmas and styles (corn silk)
   medicinal_actions:
-  - action: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling
+  - action: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
+      in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
+      and potassium excretion
     reference_ids:
     - REF-0436
+    - REF-0557
     status: verified
   - action: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney
       function
@@ -22,9 +25,11 @@ parts_used:
     status: verified
 constituents:
 - name: Flavonoids (including maysin)
-  note: Major antioxidant constituents of corn silk.
+  note: Major antioxidant constituents of corn silk; maysin is the predominant flavonoid quantified in
+    standardised extracts.
   reference_ids:
   - REF-0436
+  - REF-0558
 - name: Phenolic compounds
   note: Contribute to antioxidant and anti-inflammatory activity.
   reference_ids:
@@ -40,12 +45,16 @@ contraindications:
   - REF-0436
   status: verified
 - note: May lower blood sugar and blood pressure, so use caution with antidiabetic or antihypertensive
-    medication; avoid concentrated medicinal doses in pregnancy.
+    medication; avoid concentrated medicinal doses in pregnancy - a high-dose standardised extract increased
+    pre-implantation losses in pregnant rats (no fetal malformations were seen).
   reference_ids:
   - REF-0436
+  - REF-0558
   status: needs-review
 internal_notes: Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological
-  review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling,
-  kidney-support); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  review). Further enriched 2026-06-13 with two PubMed studies - a renal diuretic mechanism study in conscious
+  rats (REF-0557, Velazquez et al. 2005) and a gestational toxicology study confirming maysin as the predominant
+  flavonoid (REF-0558, Caixeta et al. 2025). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (uti, swelling, kidney-support); associations retained and now part-mapped and cited.
+last_updated: '2026-06-13'
 status: verified

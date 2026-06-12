@@ -9,17 +9,21 @@ parts_used:
 - name: Leaf (aerial parts)
   medicinal_actions:
   - action: Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised
-      preparations, though mixed)
+      preparations, though mixed); parthenolide is identified as the component responsible for the antimigraine
+      effect in animal models
     reference_ids:
     - REF-0450
+    - REF-0552
     status: verified
   - action: Headache prevention and relief
     reference_ids:
     - REF-0450
     status: verified
-  - action: Anti-inflammatory (parthenolide inhibits inflammatory mediators)
+  - action: Anti-inflammatory - parthenolide inhibits NF-kB and nitroglycerin-induced neuronal (Fos) activation,
+      the proposed basis of its antimigraine action
     reference_ids:
     - REF-0450
+    - REF-0552
     status: verified
   - action: Traditional use for fever and for joint pain / arthritis
     reference_ids:
@@ -27,9 +31,12 @@ parts_used:
     status: needs-review
 constituents:
 - name: Sesquiterpene lactones (parthenolide)
-  note: Parthenolide is the principal active compound, to which extracts are often standardised.
+  note: Parthenolide is the principal active compound, to which extracts are often standardised; it is
+    biosynthesised and stored in the glandular trichomes of the aerial parts.
   reference_ids:
   - REF-0450
+  - REF-0552
+  - REF-0553
 - name: Flavonoids and essential oil
   note: Supporting antioxidant and aromatic constituents.
   reference_ids:
@@ -47,8 +54,10 @@ contraindications:
   - REF-0450
   status: verified
 internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane systematic review of feverfew
-  for migraine prevention). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
-  tool (headache, migraine, inflammation, fever, arthritis); associations retained and now part-mapped
+  for migraine prevention). Further enriched 2026-06-13 with two PubMed studies - a parthenolide mechanism-of-action
+  study in an animal migraine model (REF-0552, Tassorelli et al. 2005) and a parthenolide biosynthesis/localization
+  study (REF-0553, Majdi et al. 2011). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (headache, migraine, inflammation, fever, arthritis); associations retained and now part-mapped
   and cited.
-last_updated: '2026-06-12'
+last_updated: '2026-06-13'
 status: verified

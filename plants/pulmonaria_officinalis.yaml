@@ -19,9 +19,12 @@ parts_used:
     status: verified
 constituents:
 - name: Phenolic acids (rosmarinic, lithospermic and salvianolic acids)
-  note: The main antioxidant and COX-2-inhibiting constituents.
+  note: The main antioxidant and COX-2-inhibiting constituents; LC-MS/MS profiling of the aerial parts
+    identified dozens of phenolic compounds (caffeic acid esters and danshensu/dicaffeic-acid conjugates),
+    nine of them previously undescribed, with marked seasonal variation.
   reference_ids:
   - REF-0479
+  - REF-0549
 - name: Mucilage, flavonoids, allantoin and silicic acid
   note: Soothing and supporting constituents underlying the traditional respiratory use.
   reference_ids:
@@ -38,8 +41,10 @@ contraindications:
   - REF-0479
   status: verified
 internal_notes: Enriched 2026-06-12 from scientific literature (Molecules study of Pulmonaria antioxidant
-  and COX-2-inhibitory activity). Lungwort is poorly covered by clinical trials, so respiratory actions
-  remain needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
-  (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  and COX-2-inhibitory activity). Further enriched 2026-06-13 with a PubMed LC-MS/MS phenolic-constituents
+  profiling study (REF-0549, Krzyzanowska-Kowalczyk et al. 2018). Lungwort is poorly covered by clinical
+  trials, so respiratory actions remain needs-review. Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (cough, bronchitis, sore-throat); associations retained and now part-mapped
+  and cited.
+last_updated: '2026-06-13'
 status: verified

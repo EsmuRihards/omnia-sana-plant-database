@@ -12,19 +12,32 @@ parts_used:
     reference_ids:
     - REF-0445
     status: verified
-  - action: Antimicrobial, notably anti-staphylococcal (supports respiratory and skin infection)
+  - action: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
+      against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection
     reference_ids:
     - REF-0445
+    - REF-0539
+    - REF-0540
+    status: verified
+  - action: Anti-inflammatory - sesquiterpene lactones (alantolactone, isoalantolactone) inhibit NF-kB
+      and MAPK signalling and pro-inflammatory cytokines; total sesquiterpene lactones eased arthritis
+      in animal models (potential in rheumatoid arthritis)
+    reference_ids:
+    - REF-0538
     status: verified
   - action: Soothes irritated airways / chronic catarrh (traditional)
     reference_ids:
     - REF-0445
     status: needs-review
 constituents:
-- name: Sesquiterpene lactones (alantolactone, isoalantolactone, igalan)
-  note: The antimicrobial principles of the root.
+- name: Sesquiterpene lactones (alantolactone, isoalantolactone, igalan, diplophyllin)
+  note: The antimicrobial and anti-inflammatory principles of the root; the eudesmane core and the alpha,beta-methylene-lactone
+    ring are essential for the antimicrobial activity.
   reference_ids:
   - REF-0445
+  - REF-0538
+  - REF-0539
+  - REF-0540
 - name: Inulin
   note: A fructan polysaccharide abundant in the root (the genus Inula gives inulin its name).
   reference_ids:
@@ -45,7 +58,10 @@ contraindications:
   - REF-0445
   status: needs-review
 internal_notes: Enriched 2026-06-12 from scientific literature (Molecules antimicrobial/ethnobotanical
-  study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis,
-  infection); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  study). Further enriched 2026-06-13 with three PubMed studies - a total-sesquiterpene-lactone anti-inflammatory/anti-arthritic
+  study (REF-0538), an antistaphylococcal essential-oil study (REF-0539) and an antimycobacterial eudesmanolide
+  study (REF-0540); a new anti-inflammatory action was added. Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (cough, bronchitis, infection); associations retained and now part-mapped
+  and cited.
+last_updated: '2026-06-13'
 status: verified

@@ -24,6 +24,21 @@ parts_used:
     reference_ids:
     - REF-0480
     status: needs-review
+  - action: Antioxidant (phenolic compounds and anthocyanins)
+    reference_ids:
+    - REF-0541
+    - REF-0542
+    status: verified
+  - action: Antibacterial / antimicrobial (methanolic leaf extracts; the naphthoquinone Malvone A)
+    reference_ids:
+    - REF-0541
+    - REF-0542
+    status: verified
+  - action: Anti-inflammatory, analgesic and wound-healing (preclinical)
+    reference_ids:
+    - REF-0541
+    - REF-0542
+    status: needs-review
 constituents:
 - name: Mucilage polysaccharides
   note: The high mucilage content gives the demulcent, soothing action.
@@ -33,6 +48,14 @@ constituents:
   note: The blue-purple pigments and antioxidant constituents.
   reference_ids:
   - REF-0480
+  - REF-0541
+  - REF-0542
+- name: Coumarins and other phenolic compounds
+  note: Phenolic constituents associated with antioxidant and reported antiproliferative (anticancer)
+    activity in cell studies.
+  reference_ids:
+  - REF-0541
+  - REF-0542
 - name: Tannins
   note: Mildly astringent constituents.
   reference_ids:
@@ -48,7 +71,10 @@ contraindications:
   - REF-0480
   status: verified
 internal_notes: Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium /
-  flos). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat,
-  skin-irritation, inflammation, constipation); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  flos). Further enriched 2026-06-13 with two PubMed phytochemistry/pharmacology reviews (REF-0541, Paul
+  et al. 2024; REF-0542, Batiha et al. 2022) that added antioxidant, antibacterial and anti-inflammatory/analgesic
+  actions and a coumarins/phenolics constituent. Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (cough, sore-throat, skin-irritation, inflammation, constipation); associations
+  retained and now part-mapped and cited.
+last_updated: '2026-06-13'
 status: verified

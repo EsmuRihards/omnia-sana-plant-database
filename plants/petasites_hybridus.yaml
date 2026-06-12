@@ -8,17 +8,23 @@ family: Asteraceae
 parts_used:
 - name: Root/rhizome and leaf (standardised PA-free extract)
   medicinal_actions:
-  - action: Migraine prophylaxis (reduces attack frequency)
+  - action: Migraine prophylaxis (reduces attack frequency; up to ~60% reduction vs placebo in a randomised
+      controlled trial of a standardised CO2 root extract)
     reference_ids:
     - REF-0426
+    - REF-0543
     status: verified
-  - action: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting)
+  - action: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
+      review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
+      allergic rhinitis)
     reference_ids:
     - REF-0426
+    - REF-0544
     status: verified
   - action: Headache relief
     reference_ids:
     - REF-0426
+    - REF-0543
     status: verified
   - action: Antispasmodic support in bronchial asthma
     reference_ids:
@@ -46,8 +52,10 @@ contraindications:
   - REF-0426
   status: verified
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in Review integrative-medicine
-  review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (migraine,
-  allergy, headache, asthma); associations retained and now part-mapped and cited. CRITICAL: PA-free extracts
-  only - see contraindications.'
-last_updated: '2026-06-12'
+  review). Further enriched 2026-06-13 with two PubMed sources: a randomised placebo-controlled migraine-prophylaxis
+  trial (REF-0543, Grossmann & Schmidramsl 2000) and a systematic review of herbal medicines for allergic
+  rhinitis covering six butterbur RCTs (REF-0544, Guo et al. 2007). Originally a skeleton imported from
+  the omniasana.bio Symptom-to-Plant Lookup tool (migraine, allergy, headache, asthma); associations retained
+  and now part-mapped and cited. CRITICAL: PA-free extracts only - see contraindications.'
+last_updated: '2026-06-13'
 status: verified

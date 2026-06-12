@@ -21,12 +21,19 @@ parts_used:
     reference_ids:
     - REF-0463
     status: needs-review
+  - action: Cytotoxic / antiproliferative against cancer cell lines in vitro (cyclotides vitri A, varv
+      A and varv E)
+    reference_ids:
+    - REF-0556
+    status: needs-review
 constituents:
 - name: Cyclotides (cyclic plant peptides)
-  note: Bioactive peptides shown to suppress over-active immune (T-cell) responses - the rationale for
-    use in inflammatory skin disease.
+  note: Bioactive cyclic peptides shown to suppress over-active immune (T-cell) responses - the rationale
+    for use in inflammatory skin disease; the cytotoxic cyclotides vitri A, varv A and varv E have been
+    isolated from V. tricolor.
   reference_ids:
   - REF-0463
+  - REF-0556
 - name: Flavonoids (rutin, violanthin), salicylates and mucilage
   note: Antioxidant, anti-inflammatory and soothing constituents.
   reference_ids:
@@ -43,7 +50,9 @@ contraindications:
   - REF-0463
   status: needs-review
 internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology study identifying
-  immunosuppressive cyclotides). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (eczema, skin-irritation, cough); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  immunosuppressive cyclotides). Further enriched 2026-06-13 with a PubMed study isolating cytotoxic cyclotides
+  (vitri A, varv A, varv E) from V. tricolor (REF-0556, Svangard et al. 2004); a new in-vitro cytotoxic
+  action was added. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
+  (eczema, skin-irritation, cough); associations retained and now part-mapped and cited.
+last_updated: '2026-06-13'
 status: verified

@@ -8,9 +8,12 @@ parts_used:
 - name: Leaf, root and seed
   medicinal_actions:
   - action: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
-      used for urinary stones)
+      used for urinary stones); animal studies attribute the effect to inhibition of the renal Na+/K+
+      pump, raising urine flow
     reference_ids:
     - REF-0489
+    - REF-0545
+    - REF-0546
     status: verified
   - action: Carminative digestive and stomach tonic (bloating, indigestion)
     reference_ids:
@@ -23,16 +26,22 @@ parts_used:
   - action: Antioxidant, nephroprotective and hepatoprotective
     reference_ids:
     - REF-0489
+    - REF-0546
     status: verified
 constituents:
 - name: Flavonoids (apigenin) and other phenolics
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0489
+  - REF-0546
 - name: Essential oil (apiole and myristicin)
   note: Aromatic constituents that drive the diuretic action but are toxic in large amounts.
   reference_ids:
   - REF-0489
+- name: Furanocoumarins (bergapten, imperatorin)
+  note: Photosensitising constituents; the basis for the mild phototoxicity caution.
+  reference_ids:
+  - REF-0546
 - name: Vitamin C and carotenoids
   note: Nutritive antioxidant constituents.
   reference_ids:
@@ -47,9 +56,13 @@ contraindications:
     mild photosensitivity, and concentrated use should be avoided in active kidney disease.
   reference_ids:
   - REF-0489
+  - REF-0546
   status: needs-review
 internal_notes: Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley).
-  Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (swelling, kidney-support,
-  bloating, bad-breath); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  Further enriched 2026-06-13 with two PubMed studies - a diuretic mechanism-of-action study (REF-0545,
+  Kreydiyyeh & Usta 2002) and a constituents/medicinal review (REF-0546, Mahmood et al. 2014); a furanocoumarins
+  constituent was added. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (swelling, kidney-support, bloating, bad-breath); associations retained and now part-mapped and
+  cited.
+last_updated: '2026-06-13'
 status: verified

@@ -8,10 +8,13 @@ family: Rosaceae
 parts_used:
 - name: Bark
   medicinal_actions:
-  - action: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - small trials
-      are positive but larger, better-designed trials show no significant benefit over placebo
+  - action: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
+      of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo,
+      but the trials were small, short and methodologically weak, so the evidence remains uncertain
     reference_ids:
     - REF-0496
+    - REF-0547
+    - REF-0548
     status: needs-review
   - action: Anti-inflammatory (prostate)
     reference_ids:
@@ -22,25 +25,29 @@ constituents:
   note: Sterols associated with the prostate-supporting activity.
   reference_ids:
   - REF-0496
+  - REF-0548
 - name: Pentacyclic triterpenes (ursolic and oleanolic acid) and ferulic acid esters
   note: Anti-inflammatory supporting constituents of the bark.
   reference_ids:
   - REF-0496
 contraindications:
 - note: Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer.
-    Best available evidence does not show a significant benefit over placebo, so men with moderate or
-    severe BPH should not rely on it instead of proven treatment.
+    The evidence is mixed and rests on small, short, methodologically weak trials, so men with moderate
+    or severe BPH should not rely on it instead of proven treatment.
   reference_ids:
   - REF-0496
+  - REF-0547
   status: verified
 - note: Generally well tolerated, with mild gastrointestinal effects the most common report.
   reference_ids:
   - REF-0496
   status: verified
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journal of Urology review of
-  phytotherapy for BPH). Evidence for efficacy is weak/mixed, reflected in needs-review action statuses.
+  phytotherapy for BPH). Further enriched 2026-06-13 with two PubMed systematic reviews - the Cochrane
+  review of Pygeum africanum for BPH (REF-0547, Wilt et al. 2002) and a J Urol phytotherapy review (REF-0548,
+  Dedhia & McVary 2008). Evidence for efficacy is weak/mixed, reflected in needs-review action statuses.
   Note: Prunus africana is a conservation-threatened species (CITES-listed) - sustainable sourcing matters.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (prostate-support);
   association retained and now cited.'
-last_updated: '2026-06-12'
+last_updated: '2026-06-13'
 status: verified

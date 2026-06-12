@@ -25,9 +25,12 @@ parts_used:
 constituents:
 - name: Steroidal saponins yielding diosgenin
   note: Diosgenin is an industrial precursor for making steroid hormones in the laboratory, but it is
-    NOT converted into hormones in the human body.
+    NOT converted into hormones in the human body. Oral bioavailability of diosgenin is low; in animal
+    studies orally administered diosgenin restored skin thickness in ovariectomised mice and lowered
+    blood lipids.
   reference_ids:
   - REF-0528
+  - REF-0536
 - name: Phytosterols and alkaloids
   note: Supporting constituents of the root.
   reference_ids:
@@ -45,7 +48,9 @@ contraindications:
   - REF-0528
   status: needs-review
 internal_notes: Enriched 2026-06-12 from scientific literature (BMC Complementary and Alternative Medicine
-  bioassay/toxicity study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
-  tool (menstrual-cramps, menopause, muscle-spasm); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  bioassay/toxicity study). Further enriched 2026-06-13 with an additional diosgenin pharmacokinetic/pharmacology
+  study (REF-0536, Okawara et al. 2013) sourced from PubMed. Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (menstrual-cramps, menopause, muscle-spasm); associations retained and now
+  part-mapped and cited.
+last_updated: '2026-06-13'
 status: verified

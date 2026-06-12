@@ -9,9 +9,12 @@ parts_used:
 - name: Aerial parts (flowering herb)
   medicinal_actions:
   - action: Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the
-      benzodiazepine site of the GABA-A receptor)
+      benzodiazepine site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover
+      trial in healthy volunteers found significantly improved overall mood without loss of energy or
+      cognition
     reference_ids:
     - REF-0510
+    - REF-0551
     status: verified
   - action: Sedative / sleep support (insomnia)
     reference_ids:
@@ -20,12 +23,15 @@ parts_used:
   - action: Calming nervine for stress and nervous disorders (traditional)
     reference_ids:
     - REF-0510
+    - REF-0551
     status: verified
 constituents:
 - name: Flavonoids (baicalin, baicalein)
-  note: Bind the benzodiazepine site of the GABA-A receptor, underlying the calming effect.
+  note: Bind the benzodiazepine site of the GABA-A receptor, underlying the calming effect; baicalin is
+    used as the HPLC quality marker, and its content varies widely between commercial tinctures.
   reference_ids:
   - REF-0510
+  - REF-0550
 - name: GABA and glutamine (amino acids)
   note: GABA is the main inhibitory neurotransmitter and contributes to the anxiolytic activity.
   reference_ids:
@@ -37,13 +43,18 @@ contraindications:
   - REF-0510
   status: verified
 - note: 'Buy from a reputable source: skullcap products have historically been adulterated with hepatotoxic
-    germander (Teucrium). Safety in pregnancy and breastfeeding is not established.'
+    germander (Teucrium), and the flavonoid content of commercial tinctures varies widely. Safety in pregnancy
+    and breastfeeding is not established.'
   reference_ids:
   - REF-0510
+  - REF-0550
   status: needs-review
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytomedicine phytochemical/anxiolytic
-  study). Note: this is the American skullcap, distinct from Chinese skullcap (Scutellaria baicalensis).
-  Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (anxiety, insomnia,
-  stress, nervous-tension); associations retained and now part-mapped and cited.'
-last_updated: '2026-06-12'
+  study). Further enriched 2026-06-13 with two PubMed sources - a randomised, double-blind, placebo-controlled
+  crossover mood trial (REF-0551, Brock et al. 2014) and an HPLC study of flavonoid-marker variability
+  in commercial tinctures (REF-0550, Gao et al. 2008). Note: this is the American skullcap, distinct from
+  Chinese skullcap (Scutellaria baicalensis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (anxiety, insomnia, stress, nervous-tension); associations retained and now part-mapped and
+  cited.'
+last_updated: '2026-06-13'
 status: verified

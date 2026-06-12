@@ -1,35 +1,59 @@
 common_names:
 - Vervain
+- Common vervain
+- Holy herb
+- Herb of the cross
 scientific_name: Verbena officinalis
 family: Verbenaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Anxiety (symptom-lookup evidence 2/4)
+  - action: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Inflammation (symptom-lookup evidence 2/4)
+    - REF-0523
+    - REF-0522
+    status: verified
+  - action: Mild mood support / antidepressant (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0523
     status: needs-review
-  - action: Nervous tension (symptom-lookup evidence 2/4)
+  - action: Anti-inflammatory and analgesic
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Depression (symptom-lookup evidence 1/4)
+    - REF-0523
+    status: verified
+  - action: Digestive bitter and relief of mild mental stress
     reference_ids:
-    - REF-0384
+    - REF-0522
     status: needs-review
-  - action: Insomnia (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Iridoid glycosides (verbenalin, hastatoside)
+  note: Characteristic constituents; verbenalin has a dopaminergic effect.
+  reference_ids:
+  - REF-0523
+  - REF-0522
+- name: Phenylpropanoid glycosides (verbascoside/acteoside)
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0523
+- name: Flavonoids, phenolic acids and essential oil
+  note: Supporting antioxidant and aromatic constituents.
+  reference_ids:
+  - REF-0523
+contraindications:
+- note: Generally well tolerated in traditional use. Avoid during pregnancy - vervain has a traditional
+    uterine-stimulant (oxytocic) reputation linked to verbenalin.
+  reference_ids:
+  - REF-0522
+  - REF-0523
+  status: verified
+- note: May add to the effect of sedatives; use in breastfeeding is not recommended in the absence of
+    data.
+  reference_ids:
+  - REF-0522
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
+  Verbenae herba; Planta Medica review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (anxiety, insomnia, nervous-tension, inflammation, depression); associations retained and
+  now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -1,31 +1,57 @@
 common_names:
 - Wild Lettuce
+- Bitter lettuce
+- Opium lettuce
+- Lactucarium
 scientific_name: Lactuca virosa
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts and dried latex (lactucarium)
   medicinal_actions:
-  - action: Cough (symptom-lookup evidence 1/4)
+  - action: Sedative for sleeplessness / insomnia
     reference_ids:
-    - REF-0384
+    - REF-0526
     status: needs-review
-  - action: Insomnia (symptom-lookup evidence 1/4)
+  - action: Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system)
     reference_ids:
-    - REF-0384
+    - REF-0526
+    - REF-0527
     status: needs-review
-  - action: Nervous tension (symptom-lookup evidence 1/4)
+  - action: Calming for nervous tension and restlessness
     reference_ids:
-    - REF-0384
+    - REF-0526
     status: needs-review
-  - action: Pain (symptom-lookup evidence 1/4)
+  - action: Antitussive for an irritable, dry cough (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0526
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Sesquiterpene lactones (lactucin, lactucopicrin)
+  note: Bitter, centrally-active constituents responsible for the sedative and pain-relieving effects.
+  reference_ids:
+  - REF-0526
+  - REF-0527
+- name: Lactucarium (the dried milky latex)
+  note: The historical medicinal preparation, concentrating the active lactones.
+  reference_ids:
+  - REF-0526
+contraindications:
+- note: 'Can be unsafe in large amounts or if harvested too early: overdose can cause sweating, fast heartbeat,
+    dilated pupils, dizziness, ringing in the ears, vision changes, heavy sedation, breathing difficulty
+    and, in extreme cases, death.'
+  reference_ids:
+  - REF-0527
+  status: verified
+- note: Its sedative effect can add to that of sedatives and alcohol - avoid combining and do not use
+    before driving. As a daisy-family (Asteraceae) plant it can cause allergy; avoid in pregnancy and
+    breastfeeding.
+  reference_ids:
+  - REF-0527
+  - REF-0526
+  status: verified
+internal_notes: Enriched 2026-06-12 from general literature (Herbal Reality and RxList monographs). Record
+  status set to needs-review because of the overdose toxicity risk and limited modern evidence. Originally
+  a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, pain, nervous-tension,
+  cough); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
 status: needs-review

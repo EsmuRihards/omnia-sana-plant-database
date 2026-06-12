@@ -1,27 +1,51 @@
 common_names:
 - Wild Cherry Bark
+- Black cherry
+- Wild black cherry
+- Rum cherry
 scientific_name: Prunus serotina
 family: Rosaceae
 parts_used:
-- name: Whole plant
+- name: Bark (dried)
   medicinal_actions:
-  - action: Cough (symptom-lookup evidence 2/4)
+  - action: Antitussive - calms a persistent dry, irritating cough (prunasin quietens the cough reflex)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Bronchitis (symptom-lookup evidence 1/4)
+    - REF-0524
+    - REF-0525
+    status: verified
+  - action: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)
     reference_ids:
-    - REF-0384
+    - REF-0525
     status: needs-review
-  - action: Sore throat (symptom-lookup evidence 1/4)
+  - action: Soothes sore throat and respiratory irritation (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0524
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Cyanogenic glycoside prunasin
+  note: Releases trace hydrogen cyanide that calms the cough reflex - the basis of both the antitussive
+    action and the safety caution.
+  reference_ids:
+  - REF-0524
+  - REF-0525
+- name: Tannins, coumarins (scopoletin) and benzaldehyde
+  note: Astringent and aromatic supporting constituents.
+  reference_ids:
+  - REF-0525
+contraindications:
+- note: 'Contains cyanogenic compounds: use only properly dried, prepared bark and avoid large or prolonged
+    doses (fresh bark has a higher toxic content). It suppresses the cough reflex, so it suits dry, unproductive
+    coughs - not productive coughs where mucus needs clearing.'
+  reference_ids:
+  - REF-0524
+  - REF-0525
+  status: verified
+- note: Avoid in pregnancy and breastfeeding because of the cyanogenic glycosides.
+  reference_ids:
+  - REF-0525
+  status: verified
+internal_notes: Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and The Herbal
+  Medic monographs). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
+  (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

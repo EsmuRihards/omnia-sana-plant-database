@@ -1,0 +1,140 @@
+[
+  {
+    "file": "verbena_officinalis.yaml",
+    "common_names": ["Vervain", "Common vervain", "Holy herb", "Herb of the cross"],
+    "scientific_name": "Verbena officinalis",
+    "family": "Verbenaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Verbena officinalis L., herba (Verbenae herba)", "url": "https://www.ema.europa.eu/en/medicines/herbal/verbenae-herba"},
+      "review2020": {"type": "article", "author": "", "year": "2020", "title": "Verbena officinalis (Common Vervain) - A Review on the Investigations of This Medicinally Important Plant Species", "journal": "Planta Medica", "doi": "10.1055/a-1232-5758"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional)", "refs": ["review2020", "ema"], "status": "verified"},
+        {"action": "Mild mood support / antidepressant (traditional)", "refs": ["review2020"], "status": "needs-review"},
+        {"action": "Anti-inflammatory and analgesic", "refs": ["review2020"], "status": "verified"},
+        {"action": "Digestive bitter and relief of mild mental stress", "refs": ["ema"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Iridoid glycosides (verbenalin, hastatoside)", "note": "Characteristic constituents; verbenalin has a dopaminergic effect.", "refs": ["review2020", "ema"]},
+      {"name": "Phenylpropanoid glycosides (verbascoside/acteoside)", "note": "Antioxidant and anti-inflammatory constituents.", "refs": ["review2020"]},
+      {"name": "Flavonoids, phenolic acids and essential oil", "note": "Supporting antioxidant and aromatic constituents.", "refs": ["review2020"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated in traditional use. Avoid during pregnancy - vervain has a traditional uterine-stimulant (oxytocic) reputation linked to verbenalin.", "refs": ["ema", "review2020"], "status": "verified"},
+      {"note": "May add to the effect of sedatives; use in breastfeeding is not recommended in the absence of data.", "refs": ["ema"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Verbenae herba; Planta Medica review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (anxiety, insomnia, nervous-tension, inflammation, depression); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "prunus_serotina.yaml",
+    "common_names": ["Wild Cherry Bark", "Black cherry", "Wild black cherry", "Rum cherry"],
+    "scientific_name": "Prunus serotina",
+    "family": "Rosaceae",
+    "references": {
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Wild Cherry (Prunus serotina): Benefits, Uses, Research", "url": "https://www.herbalreality.com/herb/wild-cherry/"},
+      "theherbalmedic": {"type": "misc", "author": "The Herbal Medic", "year": "n.d.", "title": "Wild Cherry Bark (Prunus serotina) - Soothing Herb for Coughs & Lungs", "url": "https://theherbalmedic.co.uk/wild-cherry-prunus-serotina"}
+    },
+    "parts_used": [
+      {"name": "Bark (dried)", "actions": [
+        {"action": "Antitussive - calms a persistent dry, irritating cough (prunasin quietens the cough reflex)", "refs": ["herbalreality", "theherbalmedic"], "status": "verified"},
+        {"action": "Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)", "refs": ["theherbalmedic"], "status": "needs-review"},
+        {"action": "Soothes sore throat and respiratory irritation (traditional)", "refs": ["herbalreality"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Cyanogenic glycoside prunasin", "note": "Releases trace hydrogen cyanide that calms the cough reflex - the basis of both the antitussive action and the safety caution.", "refs": ["herbalreality", "theherbalmedic"]},
+      {"name": "Tannins, coumarins (scopoletin) and benzaldehyde", "note": "Astringent and aromatic supporting constituents.", "refs": ["theherbalmedic"]}
+    ],
+    "contraindications": [
+      {"note": "Contains cyanogenic compounds: use only properly dried, prepared bark and avoid large or prolonged doses (fresh bark has a higher toxic content). It suppresses the cough reflex, so it suits dry, unproductive coughs - not productive coughs where mucus needs clearing.", "refs": ["herbalreality", "theherbalmedic"], "status": "verified"},
+      {"note": "Avoid in pregnancy and breastfeeding because of the cyanogenic glycosides.", "refs": ["theherbalmedic"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and The Herbal Medic monographs). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "lactuca_virosa.yaml",
+    "common_names": ["Wild Lettuce", "Bitter lettuce", "Opium lettuce", "Lactucarium"],
+    "scientific_name": "Lactuca virosa",
+    "family": "Asteraceae",
+    "references": {
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Wild Lettuce (Lactuca virosa): Benefits, Uses, Safety", "url": "https://www.herbalreality.com/herb/wild-lettuce/"},
+      "rxlist": {"type": "misc", "author": "RxList", "year": "n.d.", "title": "Wild Lettuce: Health Benefits, Side Effects, Uses, Dose & Precautions", "url": "https://www.rxlist.com/supplements/wild_lettuce.htm"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts and dried latex (lactucarium)", "actions": [
+        {"action": "Sedative for sleeplessness / insomnia", "refs": ["herbalreality"], "status": "needs-review"},
+        {"action": "Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system)", "refs": ["herbalreality", "rxlist"], "status": "needs-review"},
+        {"action": "Calming for nervous tension and restlessness", "refs": ["herbalreality"], "status": "needs-review"},
+        {"action": "Antitussive for an irritable, dry cough (traditional)", "refs": ["herbalreality"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Sesquiterpene lactones (lactucin, lactucopicrin)", "note": "Bitter, centrally-active constituents responsible for the sedative and pain-relieving effects.", "refs": ["herbalreality", "rxlist"]},
+      {"name": "Lactucarium (the dried milky latex)", "note": "The historical medicinal preparation, concentrating the active lactones.", "refs": ["herbalreality"]}
+    ],
+    "contraindications": [
+      {"note": "Can be unsafe in large amounts or if harvested too early: overdose can cause sweating, fast heartbeat, dilated pupils, dizziness, ringing in the ears, vision changes, heavy sedation, breathing difficulty and, in extreme cases, death.", "refs": ["rxlist"], "status": "verified"},
+      {"note": "Its sedative effect can add to that of sedatives and alcohol - avoid combining and do not use before driving. As a daisy-family (Asteraceae) plant it can cause allergy; avoid in pregnancy and breastfeeding.", "refs": ["rxlist", "herbalreality"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general literature (Herbal Reality and RxList monographs). Record status set to needs-review because of the overdose toxicity risk and limited modern evidence. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, pain, nervous-tension, cough); associations retained and now part-mapped and cited.",
+    "status": "needs-review"
+  },
+  {
+    "file": "dioscorea_villosa.yaml",
+    "common_names": ["Wild Yam", "Colic root", "Rheumatism root", "Mexican wild yam"],
+    "scientific_name": "Dioscorea villosa",
+    "family": "Dioscoreaceae",
+    "references": {
+      "lima2013": {"type": "article", "author": "Lima, C.M., Lima, A.K., Melo, M.G.D., Serafini, M.R., Oliveira, D.L., de Almeida, E.B., Barreto, R.S.S., Nogueira, P.C., Moraes, V.R.S., Oliveira, E.R.A., de Albuquerque, R.L.C., Quintans-Junior, L.J. and Araujo, A.A.S.", "year": "2013", "title": "Bioassay-guided evaluation of Dioscorea villosa - an acute and subchronic toxicity, antinociceptive and anti-inflammatory approach", "journal": "BMC Complementary and Alternative Medicine", "doi": "10.1186/1472-6882-13-195"}
+    },
+    "parts_used": [
+      {"name": "Root and rhizome", "actions": [
+        {"action": "Antispasmodic / analgesic for menstrual cramps and muscle spasm (antinociceptive in animal models)", "refs": ["lima2013"], "status": "needs-review"},
+        {"action": "Anti-inflammatory for joint and inflammatory pain", "refs": ["lima2013"], "status": "verified"},
+        {"action": "Traditional support for menopausal symptoms (see safety note - it does NOT act as a natural progesterone)", "refs": ["lima2013"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Steroidal saponins yielding diosgenin", "note": "Diosgenin is an industrial precursor for making steroid hormones in the laboratory, but it is NOT converted into hormones in the human body.", "refs": ["lima2013"]},
+      {"name": "Phytosterols and alkaloids", "note": "Supporting constituents of the root.", "refs": ["lima2013"]}
+    ],
+    "contraindications": [
+      {"note": "IMPORTANT myth-bust: wild yam / diosgenin is NOT converted into progesterone or DHEA in the body, so it does not work as a 'natural progesterone' - claims to that effect are incorrect.", "refs": ["lima2013"], "status": "verified"},
+      {"note": "Generally well tolerated orally (no acute or subchronic toxicity in animal studies); large doses may cause nausea or vomiting. Avoid medicinal doses in pregnancy and breastfeeding and in hormone-sensitive conditions as a precaution.", "refs": ["lima2013"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (BMC Complementary and Alternative Medicine bioassay/toxicity study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps, menopause, muscle-spasm); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "salix_alba.yaml",
+    "common_names": ["Willow Bark", "White willow", "European willow"],
+    "scientific_name": "Salix alba",
+    "family": "Salicaceae",
+    "references": {
+      "vlachojannis2009": {"type": "article", "author": "Vlachojannis, J.E., Cameron, M. and Chrubasik, S.", "year": "2009", "title": "A systematic review on the effectiveness of willow bark for musculoskeletal pain", "journal": "Phytotherapy Research", "doi": "10.1002/ptr.2747"},
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Salix [various species], cortex (Salicis cortex)", "url": "https://www.ema.europa.eu/en/medicines/herbal/salicis-cortex"}
+    },
+    "parts_used": [
+      {"name": "Bark", "actions": [
+        {"action": "Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240 mg salicin/day)", "refs": ["vlachojannis2009", "ema"], "status": "verified"},
+        {"action": "Relief of joint pain, osteoarthritis and rheumatic complaints", "refs": ["vlachojannis2009", "ema"], "status": "verified"},
+        {"action": "Headache relief", "refs": ["ema"], "status": "verified"},
+        {"action": "Antipyretic (reduces fever)", "refs": ["ema"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Salicin and related salicylates", "note": "Metabolised in the body to salicylic acid - the 'natural aspirin' that gives the analgesic, anti-inflammatory and antipyretic effects.", "refs": ["vlachojannis2009", "ema"]},
+      {"name": "Polyphenols, flavonoids and tannins", "note": "Contribute additionally to the anti-inflammatory and antioxidant activity.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Because it works like aspirin, avoid willow bark if you are allergic to aspirin or salicylates, and do NOT give it to children or teenagers with a viral illness (risk of Reye's syndrome). Use caution in asthma (salicylate sensitivity).", "refs": ["ema"], "status": "verified"},
+      {"note": "Avoid with anticoagulant/antiplatelet medicines (bleeding risk) and in active peptic ulcer; avoid in pregnancy (especially the third trimester) and breastfeeding.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and regulatory literature (Phytotherapy Research systematic review; EMA HMPC monograph for Salicis cortex). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (pain, headache, inflammation, arthritis, fever, back-pain); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  }
+]

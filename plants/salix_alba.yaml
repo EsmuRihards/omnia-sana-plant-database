@@ -1,39 +1,57 @@
 common_names:
 - Willow Bark
+- White willow
+- European willow
 scientific_name: Salix alba
 family: Salicaceae
 parts_used:
-- name: Whole plant
+- name: Bark
   medicinal_actions:
-  - action: Pain (symptom-lookup evidence 4/4)
+  - action: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around
+      240 mg salicin/day)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Arthritis (symptom-lookup evidence 3/4)
+    - REF-0529
+    - REF-0530
+    status: verified
+  - action: Relief of joint pain, osteoarthritis and rheumatic complaints
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Back pain (symptom-lookup evidence 3/4)
+    - REF-0529
+    - REF-0530
+    status: verified
+  - action: Headache relief
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Inflammation (symptom-lookup evidence 3/4)
+    - REF-0530
+    status: verified
+  - action: Antipyretic (reduces fever)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Fever (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Headache (symptom-lookup evidence 2/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0530
+    status: verified
+constituents:
+- name: Salicin and related salicylates
+  note: Metabolised in the body to salicylic acid - the 'natural aspirin' that gives the analgesic, anti-inflammatory
+    and antipyretic effects.
+  reference_ids:
+  - REF-0529
+  - REF-0530
+- name: Polyphenols, flavonoids and tannins
+  note: Contribute additionally to the anti-inflammatory and antioxidant activity.
+  reference_ids:
+  - REF-0530
+contraindications:
+- note: Because it works like aspirin, avoid willow bark if you are allergic to aspirin or salicylates,
+    and do NOT give it to children or teenagers with a viral illness (risk of Reye's syndrome). Use caution
+    in asthma (salicylate sensitivity).
+  reference_ids:
+  - REF-0530
+  status: verified
+- note: Avoid with anticoagulant/antiplatelet medicines (bleeding risk) and in active peptic ulcer; avoid
+    in pregnancy (especially the third trimester) and breastfeeding.
+  reference_ids:
+  - REF-0530
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (Phytotherapy Research systematic
+  review; EMA HMPC monograph for Salicis cortex). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (pain, headache, inflammation, arthritis, fever, back-pain); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

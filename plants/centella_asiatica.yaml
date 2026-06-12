@@ -1,35 +1,61 @@
 common_names:
 - Gotu Kola
+- Indian pennywort
+- Brahmi
+- Asiatic pennywort
 scientific_name: Centella asiatica
 family: Apiaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (leaf and herb)
   medicinal_actions:
-  - action: Varicose veins (symptom-lookup evidence 3/4)
+  - action: Wound healing and scar/collagen support (stimulates collagen synthesis and tissue repair)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Wounds (symptom-lookup evidence 3/4)
+    - REF-0457
+    - REF-0458
+    status: verified
+  - action: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose
+      veins and reduces leg swelling
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Anxiety (symptom-lookup evidence 2/4)
+    - REF-0458
+    status: verified
+  - action: Cognitive and memory support; neuroprotective
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Cognitive function (symptom-lookup evidence 2/4)
+    - REF-0457
+    status: verified
+  - action: Anxiolytic / calming (anxiety)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Memory (symptom-lookup evidence 2/4)
+    - REF-0457
+    status: verified
+  - action: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis,
+      ulcers)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0457
+    - REF-0458
+    status: verified
+constituents:
+- name: Pentacyclic triterpenoid glycosides (asiaticoside, madecassoside) and their aglycones (asiatic
+    and madecassic acid)
+  note: The marker compounds and principal actives for wound healing, vascular and neuroprotective effects.
+  reference_ids:
+  - REF-0457
+- name: Flavonoids and essential oil
+  note: Antioxidant and aromatic supporting constituents.
+  reference_ids:
+  - REF-0457
+contraindications:
+- note: Generally well tolerated topically and orally; it can occasionally cause allergic contact dermatitis
+    and, rarely, reversible elevation of liver enzymes with prolonged high oral doses.
+  reference_ids:
+  - REF-0457
+  status: verified
+- note: May add to the effect of sedatives; use caution with other liver-affecting medicines. Safety in
+    pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  reference_ids:
+  - REF-0457
+  status: needs-review
+internal_notes: Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside;
+  Panminerva Medica status paper on titrated Centella extract). Originally a skeleton imported from the
+  omniasana.bio Symptom-to-Plant Lookup tool (wounds, anxiety, memory, varicose-veins, cognitive-function);
+  associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

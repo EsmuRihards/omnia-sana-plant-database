@@ -1,31 +1,52 @@
 common_names:
 - Goldenseal
+- Orange root
+- Yellow root
+- Ground raspberry
 scientific_name: Hydrastis canadensis
 family: Ranunculaceae
 parts_used:
-- name: Whole plant
+- name: Rhizome and root
   medicinal_actions:
-  - action: Infection (symptom-lookup evidence 3/4)
+  - action: Antimicrobial (berberine) - supports skin, mucosal and gastrointestinal infections and sore
+      throat
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Sore throat (symptom-lookup evidence 2/4)
+    - REF-0455
+    - REF-0456
+    status: verified
+  - action: Anti-inflammatory and astringent for inflamed mucous membranes (sore-throat gargle, mouth)
     reference_ids:
-    - REF-0384
+    - REF-0455
+    status: verified
+  - action: Digestive / gastrointestinal support (traditional for dyspepsia and ulcers)
+    reference_ids:
+    - REF-0455
     status: needs-review
-  - action: Indigestion (symptom-lookup evidence 1/4)
+  - action: Topical for skin infections and irritation
     reference_ids:
-    - REF-0384
+    - REF-0455
     status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Isoquinoline alkaloids - berberine (principal), hydrastine and canadine
+  note: Berberine is the main antimicrobial, hypoglycaemic and hypolipidaemic constituent.
+  reference_ids:
+  - REF-0455
+  - REF-0456
+contraindications:
+- note: 'Contraindicated in pregnancy and breastfeeding: berberine crosses the placenta and into milk
+    and can cause or worsen newborn jaundice (risk of kernicterus); do not give to infants.'
+  reference_ids:
+  - REF-0455
+  status: verified
+- note: Berberine strongly inhibits drug-metabolising enzymes (especially CYP3A4 and CYP2D6), so it can
+    raise the blood levels of many medicines - a significant herb-drug-interaction risk. High doses have
+    shown possible liver, nerve and photo-toxicity.
+  reference_ids:
+  - REF-0455
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Pharmacological Research critical review;
+  European Journal of Medicinal Chemistry berberine review). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (infection, sore-throat, indigestion, skin-irritation); associations retained
+  and now part-mapped and cited. NOTE pregnancy/infant contraindication and CYP drug interactions.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

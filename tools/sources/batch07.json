@@ -1,0 +1,142 @@
+[
+  {
+    "file": "scrophularia_nodosa.yaml",
+    "common_names": ["Figwort", "Woodland figwort", "Common figwort", "Scrofula plant"],
+    "scientific_name": "Scrophularia nodosa",
+    "family": "Scrophulariaceae",
+    "references": {
+      "webmd": {"type": "misc", "author": "WebMD", "year": "n.d.", "title": "Figwort: Overview, Uses, Side Effects, Precautions, Interactions", "url": "https://www.webmd.com/vitamins/ai/ingredientmono-446/figwort"},
+      "medherbals": {"type": "misc", "author": "Medicinal Herbals", "year": "n.d.", "title": "Figwort (Scrophularia nodosa): The Natural Skin Healer", "url": "https://medicinalherbals.net/figwort-scrophularia-nodosa-natural-skin-healer/"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (and root)", "actions": [
+        {"action": "Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)", "refs": ["medherbals", "webmd"], "status": "needs-review"},
+        {"action": "Anti-inflammatory; soothes inflamed, irritated skin", "refs": ["medherbals"], "status": "needs-review"},
+        {"action": "Mild diuretic and lymphatic 'detoxifying' herb (traditional)", "refs": ["medherbals"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Iridoid glycosides (aucubin, harpagoside, harpagide, catalpol)", "note": "Anti-inflammatory constituents; harpagoside also has cardiac (inotropic) activity.", "refs": ["medherbals", "webmd"]},
+      {"name": "Flavonoids", "note": "Antioxidant constituents.", "refs": ["medherbals"]},
+      {"name": "Phenolic acids (caffeic, ferulic, vanillic)", "note": "Supporting antioxidant constituents.", "refs": ["medherbals"]}
+    ],
+    "contraindications": [
+      {"note": "Avoid if you have a heart condition or take cardiac medicines: figwort's harpagoside has a stimulating (inotropic) effect on the heart, so it is traditionally avoided with rapid heartbeat or heart disease.", "refs": ["webmd", "medherbals"], "status": "verified"},
+      {"note": "Avoid during pregnancy. There is insufficient reliable evidence on the safety of taking figwort by mouth, so internal use should be cautious and short-term.", "refs": ["webmd"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from general literature (WebMD and herbal monographs); Scrophularia nodosa is not covered by clinical trials, so efficacy actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, psoriasis, skin-irritation); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "gentiana_lutea.yaml",
+    "common_names": ["Gentian", "Yellow gentian", "Bitterwort", "Great yellow gentian"],
+    "scientific_name": "Gentiana lutea",
+    "family": "Gentianaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "n.d.", "title": "European Union herbal monograph on Gentiana lutea L., radix (Gentianae radix)", "url": "https://www.ema.europa.eu/en/medicines/herbal/gentianae-radix"},
+      "olennikov2015": {"type": "article", "author": "Olennikov, D.N., Kashchenko, N.I., Chirikova, N.K. and Tankhaeva, L.M.", "year": "2015", "title": "Iridoids and Flavonoids of Four Siberian Gentians: Chemical Profile and Gastric Stimulatory Effect", "journal": "Molecules", "doi": "10.3390/molecules201019172"}
+    },
+    "parts_used": [
+      {"name": "Root", "actions": [
+        {"action": "Aromatic bitter for temporary loss of appetite", "refs": ["ema"], "status": "verified"},
+        {"action": "Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric acid, enzyme and bile secretion)", "refs": ["ema", "olennikov2015"], "status": "verified"},
+        {"action": "Eases nausea linked to sluggish digestion (traditional)", "refs": ["olennikov2015"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Secoiridoid bitter glycosides (gentiopicroside, amarogentin, swertiamarin)", "note": "Amarogentin is one of the bitterest natural compounds known; these stimulate digestive secretions.", "refs": ["ema", "olennikov2015"]},
+      {"name": "Xanthones (gentisin) and flavonoids", "note": "Pigment and antioxidant constituents.", "refs": ["olennikov2015", "ema"]},
+      {"name": "Sugars (gentiobiose)", "note": "Carbohydrate constituents of the root.", "refs": ["ema"]}
+    ],
+    "contraindications": [
+      {"note": "Because bitters increase stomach-acid secretion, gentian is contraindicated in peptic (stomach or duodenal) ulcer disease and hyperacidity.", "refs": ["ema"], "status": "verified"},
+      {"note": "Traditional use only; appetite loss or dyspepsia that persists needs medical assessment, and use in pregnancy and breastfeeding is not recommended.", "refs": ["ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Gentianae radix; Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss, nausea); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "hydrastis_canadensis.yaml",
+    "common_names": ["Goldenseal", "Orange root", "Yellow root", "Ground raspberry"],
+    "scientific_name": "Hydrastis canadensis",
+    "family": "Ranunculaceae",
+    "references": {
+      "mandal2020": {"type": "article", "author": "Mandal, S.K., Maji, A.K., Mishra, S.K., Ishfaq, P.M., Devkota, H.P., Silva, A.S. and Das, N.", "year": "2020", "title": "Goldenseal (Hydrastis canadensis L.) and its active constituents: A critical review of their efficacy and toxicological issues", "journal": "Pharmacological Research", "doi": "10.1016/j.phrs.2020.105085"},
+      "singh2021": {"type": "article", "author": "Singh, S., Pathak, N., Fatima, E. and Negi, A.S.", "year": "2021", "title": "Plant isoquinoline alkaloids: Advances in the chemistry and biology of berberine", "journal": "European Journal of Medicinal Chemistry", "doi": "10.1016/j.ejmech.2021.113839"}
+    },
+    "parts_used": [
+      {"name": "Rhizome and root", "actions": [
+        {"action": "Antimicrobial (berberine) - supports skin, mucosal and gastrointestinal infections and sore throat", "refs": ["mandal2020", "singh2021"], "status": "verified"},
+        {"action": "Anti-inflammatory and astringent for inflamed mucous membranes (sore-throat gargle, mouth)", "refs": ["mandal2020"], "status": "verified"},
+        {"action": "Digestive / gastrointestinal support (traditional for dyspepsia and ulcers)", "refs": ["mandal2020"], "status": "needs-review"},
+        {"action": "Topical for skin infections and irritation", "refs": ["mandal2020"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Isoquinoline alkaloids - berberine (principal), hydrastine and canadine", "note": "Berberine is the main antimicrobial, hypoglycaemic and hypolipidaemic constituent.", "refs": ["mandal2020", "singh2021"]}
+    ],
+    "contraindications": [
+      {"note": "Contraindicated in pregnancy and breastfeeding: berberine crosses the placenta and into milk and can cause or worsen newborn jaundice (risk of kernicterus); do not give to infants.", "refs": ["mandal2020"], "status": "verified"},
+      {"note": "Berberine strongly inhibits drug-metabolising enzymes (especially CYP3A4 and CYP2D6), so it can raise the blood levels of many medicines - a significant herb-drug-interaction risk. High doses have shown possible liver, nerve and photo-toxicity.", "refs": ["mandal2020"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Pharmacological Research critical review; European Journal of Medicinal Chemistry berberine review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (infection, sore-throat, indigestion, skin-irritation); associations retained and now part-mapped and cited. NOTE pregnancy/infant contraindication and CYP drug interactions.",
+    "status": "verified"
+  },
+  {
+    "file": "centella_asiatica.yaml",
+    "common_names": ["Gotu Kola", "Indian pennywort", "Brahmi", "Asiatic pennywort"],
+    "scientific_name": "Centella asiatica",
+    "family": "Apiaceae",
+    "references": {
+      "bandopadhyay2023": {"type": "article", "author": "Bandopadhyay, S., Mandal, S., Ghorai, M., Jha, N.K., Kumar, M., Radha, Ghosh, A., Prockow, J., Perez de la Lastra, J.M. and Dey, A.", "year": "2023", "title": "Therapeutic properties and pharmacological activities of asiaticoside and madecassoside: A review", "journal": "Journal of Cellular and Molecular Medicine", "doi": "10.1111/jcmm.17635"},
+      "belcaro2011": {"type": "article", "author": "Belcaro, G., Maquart, F.-X., Scoccianti, M., Dugall, M., Hosoi, M., Cesarone, M.R., Luzzi, R., Cornelli, U., Ledda, A. and Feragalli, B.", "year": "2011", "title": "TECA (Titrated Extract of Centella Asiatica): new microcirculatory, biomolecular, and vascular application in preventive and clinical medicine. A status paper", "journal": "Panminerva Medica"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (leaf and herb)", "actions": [
+        {"action": "Wound healing and scar/collagen support (stimulates collagen synthesis and tissue repair)", "refs": ["bandopadhyay2023", "belcaro2011"], "status": "verified"},
+        {"action": "Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins and reduces leg swelling", "refs": ["belcaro2011"], "status": "verified"},
+        {"action": "Cognitive and memory support; neuroprotective", "refs": ["bandopadhyay2023"], "status": "verified"},
+        {"action": "Anxiolytic / calming (anxiety)", "refs": ["bandopadhyay2023"], "status": "verified"},
+        {"action": "Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)", "refs": ["bandopadhyay2023", "belcaro2011"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Pentacyclic triterpenoid glycosides (asiaticoside, madecassoside) and their aglycones (asiatic and madecassic acid)", "note": "The marker compounds and principal actives for wound healing, vascular and neuroprotective effects.", "refs": ["bandopadhyay2023"]},
+      {"name": "Flavonoids and essential oil", "note": "Antioxidant and aromatic supporting constituents.", "refs": ["bandopadhyay2023"]}
+    ],
+    "contraindications": [
+      {"note": "Generally well tolerated topically and orally; it can occasionally cause allergic contact dermatitis and, rarely, reversible elevation of liver enzymes with prolonged high oral doses.", "refs": ["bandopadhyay2023"], "status": "verified"},
+      {"note": "May add to the effect of sedatives; use caution with other liver-affecting medicines. Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.", "refs": ["bandopadhyay2023"], "status": "needs-review"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside; Panminerva Medica status paper on titrated Centella extract). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (wounds, anxiety, memory, varicose-veins, cognitive-function); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "chelidonium_majus.yaml",
+    "common_names": ["Greater Celandine", "Tetterwort", "Swallowwort", "Nipplewort"],
+    "scientific_name": "Chelidonium majus",
+    "family": "Papaveraceae",
+    "references": {
+      "teschke2012": {"type": "article", "author": "Teschke, R., Frenzel, C., Glass, X., Schulze, J. and Eickhoff, A.", "year": "2012", "title": "Greater Celandine hepatotoxicity: a clinical review", "journal": "Annals of Hepatology"},
+      "gilca2010": {"type": "article", "author": "Gilca, M., Gaman, L., Panait, E., Stoian, I. and Atanasiu, V.", "year": "2010", "title": "Chelidonium majus - an integrative review: traditional knowledge versus modern findings", "journal": "Forschende Komplementarmedizin", "doi": "10.1159/000321397"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (and fresh orange latex)", "actions": [
+        {"action": "Antispasmodic / choleretic bitter for upper-abdominal and biliary dyspepsia (indigestion, bloating, cramping) - oral use now restricted for safety", "refs": ["gilca2010"], "status": "needs-review"},
+        {"action": "Fresh orange latex traditionally dabbed on warts", "refs": ["gilca2010"], "status": "needs-review"},
+        {"action": "Anti-inflammatory, antimicrobial and analgesic (preclinical)", "refs": ["gilca2010"], "status": "needs-review"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Isoquinoline alkaloids (chelidonine, coptisine, berberine, sanguinarine, chelerythrine)", "note": "The biologically active and toxicologically important constituents.", "refs": ["gilca2010"]},
+      {"name": "Flavonoids and phenolic acids", "note": "Antioxidant constituents.", "refs": ["gilca2010"]},
+      {"name": "Orange latex (alkaloid-rich sap)", "note": "The caustic sap used traditionally on warts.", "refs": ["gilca2010"]}
+    ],
+    "contraindications": [
+      {"note": "SERIOUS: oral greater celandine can cause acute idiosyncratic liver injury (hepatocellular hepatotoxicity with jaundice). Multiple reported cases led regulators to restrict or suspend oral products. Do not take internally if you have any liver disease, and stop immediately and seek care at any sign of liver problems (jaundice, dark urine, upper-abdominal pain).", "refs": ["teschke2012"], "status": "verified"},
+      {"note": "Avoid in pregnancy and breastfeeding. The fresh orange latex is irritant and caustic - keep it away from the eyes and broken skin.", "refs": ["teschke2012", "gilca2010"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Annals of Hepatology clinical review of hepatotoxicity; Forschende Komplementarmedizin integrative review). Record status set to needs-review because oral use carries a documented hepatotoxicity risk that regulators have restricted. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, warts); associations retained and now part-mapped and cited.",
+    "status": "needs-review"
+  }
+]

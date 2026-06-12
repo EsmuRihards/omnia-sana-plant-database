@@ -1,31 +1,56 @@
 common_names:
 - Gentian
+- Yellow gentian
+- Bitterwort
+- Great yellow gentian
 scientific_name: Gentiana lutea
 family: Gentianaceae
 parts_used:
-- name: Whole plant
+- name: Root
   medicinal_actions:
-  - action: Appetite loss (symptom-lookup evidence 3/4)
+  - action: Aromatic bitter for temporary loss of appetite
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Indigestion (symptom-lookup evidence 3/4)
+    - REF-0453
+    status: verified
+  - action: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates
+      gastric acid, enzyme and bile secretion)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Bloating (symptom-lookup evidence 2/4)
+    - REF-0453
+    - REF-0454
+    status: verified
+  - action: Eases nausea linked to sluggish digestion (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0454
     status: needs-review
-  - action: Nausea (symptom-lookup evidence 1/4)
-    reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Secoiridoid bitter glycosides (gentiopicroside, amarogentin, swertiamarin)
+  note: Amarogentin is one of the bitterest natural compounds known; these stimulate digestive secretions.
+  reference_ids:
+  - REF-0453
+  - REF-0454
+- name: Xanthones (gentisin) and flavonoids
+  note: Pigment and antioxidant constituents.
+  reference_ids:
+  - REF-0454
+  - REF-0453
+- name: Sugars (gentiobiose)
+  note: Carbohydrate constituents of the root.
+  reference_ids:
+  - REF-0453
+contraindications:
+- note: Because bitters increase stomach-acid secretion, gentian is contraindicated in peptic (stomach
+    or duodenal) ulcer disease and hyperacidity.
+  reference_ids:
+  - REF-0453
+  status: verified
+- note: Traditional use only; appetite loss or dyspepsia that persists needs medical assessment, and use
+    in pregnancy and breastfeeding is not recommended.
+  reference_ids:
+  - REF-0453
+  status: verified
+internal_notes: Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
+  Gentianae radix; Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton
+  imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss,
+  nausea); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

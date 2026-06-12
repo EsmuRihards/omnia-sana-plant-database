@@ -1,27 +1,56 @@
 common_names:
 - Figwort
+- Woodland figwort
+- Common figwort
+- Scrofula plant
 scientific_name: Scrophularia nodosa
 family: Scrophulariaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (and root)
   medicinal_actions:
-  - action: Eczema (symptom-lookup evidence 1/4)
+  - action: Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice,
+      salve or tea)
     reference_ids:
-    - REF-0384
+    - REF-0452
+    - REF-0451
     status: needs-review
-  - action: Psoriasis (symptom-lookup evidence 1/4)
+  - action: Anti-inflammatory; soothes inflamed, irritated skin
     reference_ids:
-    - REF-0384
+    - REF-0452
     status: needs-review
-  - action: Skin irritation (symptom-lookup evidence 1/4)
+  - action: Mild diuretic and lymphatic 'detoxifying' herb (traditional)
     reference_ids:
-    - REF-0384
+    - REF-0452
     status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+constituents:
+- name: Iridoid glycosides (aucubin, harpagoside, harpagide, catalpol)
+  note: Anti-inflammatory constituents; harpagoside also has cardiac (inotropic) activity.
+  reference_ids:
+  - REF-0452
+  - REF-0451
+- name: Flavonoids
+  note: Antioxidant constituents.
+  reference_ids:
+  - REF-0452
+- name: Phenolic acids (caffeic, ferulic, vanillic)
+  note: Supporting antioxidant constituents.
+  reference_ids:
+  - REF-0452
+contraindications:
+- note: 'Avoid if you have a heart condition or take cardiac medicines: figwort''s harpagoside has a stimulating
+    (inotropic) effect on the heart, so it is traditionally avoided with rapid heartbeat or heart disease.'
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: verified
+- note: Avoid during pregnancy. There is insufficient reliable evidence on the safety of taking figwort
+    by mouth, so internal use should be cautious and short-term.
+  reference_ids:
+  - REF-0451
+  status: verified
+internal_notes: Enriched 2026-06-12 from general literature (WebMD and herbal monographs); Scrophularia
+  nodosa is not covered by clinical trials, so efficacy actions are needs-review. Originally a skeleton
+  imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, psoriasis, skin-irritation); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

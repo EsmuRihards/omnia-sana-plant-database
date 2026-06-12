@@ -1,31 +1,77 @@
 common_names:
 - Agrimony
+- Common agrimony
+- Church steeples
+- Sticklewort
 scientific_name: Agrimonia eupatoria
 family: Rosaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Diarrhea (symptom-lookup evidence 2/4)
+  - action: Astringent (relief of mild diarrhoea)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Indigestion (symptom-lookup evidence 1/4)
+    - REF-0386
+    - REF-0387
+    - REF-0388
+    status: verified
+  - action: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Sore throat (symptom-lookup evidence 1/4)
+    - REF-0386
+    - REF-0387
+    status: verified
+  - action: Vulnerary (minor skin inflammation and small superficial wounds, topical)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Wounds (symptom-lookup evidence 1/4)
+    - REF-0386
+    - REF-0388
+    status: verified
+  - action: Mild bitter digestive tonic (indigestion)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0387
+    - REF-0388
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0388
+    status: verified
+constituents:
+- name: Tannins (condensed and hydrolysable, including agrimoniin)
+  note: Responsible for the characteristic astringency.
+  reference_ids:
+  - REF-0386
+  - REF-0388
+- name: Flavonoids (luteolin, apigenin, quercetin and their glycosides)
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0388
+  - REF-0387
+- name: Phenolic acids
+  note: Contribute to antioxidant activity.
+  reference_ids:
+  - REF-0388
+- name: Triterpenes, volatile oil and silica
+  note: Minor constituents of the herb.
+  reference_ids:
+  - REF-0387
+  - REF-0388
+contraindications:
+- note: 'Traditional-use indication only: if diarrhoea persists longer than 3-4 days, or symptoms of mouth/throat
+    inflammation persist beyond about a week, a doctor should be consulted.'
+  reference_ids:
+  - REF-0386
+  status: verified
+- note: Use during pregnancy and breastfeeding is not recommended, as safety has not been established.
+  reference_ids:
+  - REF-0386
+  status: verified
+- note: Tannin-rich; very high or prolonged intake may cause gastrointestinal upset or constipation and
+    can reduce the absorption of iron and some medicines taken at the same time.
+  reference_ids:
+  - REF-0387
+  - REF-0386
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality,
+  peer-reviewed review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (diarrhea, sore-throat, indigestion, wounds); symptom associations retained and now part-mapped
+  and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

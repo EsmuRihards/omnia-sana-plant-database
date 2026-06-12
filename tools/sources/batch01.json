@@ -1,0 +1,166 @@
+[
+  {
+    "file": "agrimonia_eupatoria.yaml",
+    "common_names": ["Agrimony", "Common agrimony", "Church steeples", "Sticklewort"],
+    "scientific_name": "Agrimonia eupatoria",
+    "family": "Rosaceae",
+    "references": {
+      "ema": {"type": "misc", "author": "European Medicines Agency (HMPC)", "year": "2015", "title": "European Union herbal monograph on Agrimonia eupatoria L., herba (Agrimoniae herba)", "url": "https://www.ema.europa.eu/en/medicines/herbal/agrimoniae-herba"},
+      "herbalreality": {"type": "misc", "author": "Herbal Reality", "year": "n.d.", "title": "Agrimony (Agrimonia eupatoria): Benefits, Uses, Safety", "url": "https://www.herbalreality.com/herb/agrimony/"},
+      "review2022": {"type": "article", "author": "", "year": "2022", "title": "Agrimonia eupatoria L.: An integrative perspective on ethnomedicinal use, phenolic composition and pharmacological activity", "journal": "Journal of Ethnopharmacology", "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378874122005372"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (flowering herb)", "actions": [
+        {"action": "Astringent (relief of mild diarrhoea)", "refs": ["ema", "herbalreality", "review2022"], "status": "verified"},
+        {"action": "Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)", "refs": ["ema", "herbalreality"], "status": "verified"},
+        {"action": "Vulnerary (minor skin inflammation and small superficial wounds, topical)", "refs": ["ema", "review2022"], "status": "verified"},
+        {"action": "Mild bitter digestive tonic (indigestion)", "refs": ["herbalreality", "review2022"], "status": "verified"},
+        {"action": "Antioxidant", "refs": ["review2022"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Tannins (condensed and hydrolysable, including agrimoniin)", "note": "Responsible for the characteristic astringency.", "refs": ["ema", "review2022"]},
+      {"name": "Flavonoids (luteolin, apigenin, quercetin and their glycosides)", "note": "Antioxidant and anti-inflammatory constituents.", "refs": ["review2022", "herbalreality"]},
+      {"name": "Phenolic acids", "note": "Contribute to antioxidant activity.", "refs": ["review2022"]},
+      {"name": "Triterpenes, volatile oil and silica", "note": "Minor constituents of the herb.", "refs": ["herbalreality", "review2022"]}
+    ],
+    "contraindications": [
+      {"note": "Traditional-use indication only: if diarrhoea persists longer than 3-4 days, or symptoms of mouth/throat inflammation persist beyond about a week, a doctor should be consulted.", "refs": ["ema"], "status": "verified"},
+      {"note": "Use during pregnancy and breastfeeding is not recommended, as safety has not been established.", "refs": ["ema"], "status": "verified"},
+      {"note": "Tannin-rich; very high or prolonged intake may cause gastrointestinal upset or constipation and can reduce the absorption of iron and some medicines taken at the same time.", "refs": ["herbalreality", "ema"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality, peer-reviewed review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, indigestion, wounds); symptom associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "vaccinium_macrocarpon.yaml",
+    "common_names": ["American Cranberry", "Cranberry", "Large cranberry", "Bearberry"],
+    "scientific_name": "Vaccinium macrocarpon",
+    "family": "Ericaceae",
+    "references": {
+      "moro2024": {"type": "article", "author": "Moro, C., Phelps, C., Veer, V., Jones, M., Glasziou, P., Clark, J., Tikkinen, K.A.O. and Scott, A.M.", "year": "2024", "title": "Cranberry Juice, Cranberry Tablets, or Liquid Therapies for Urinary Tract Infection: A Systematic Review and Network Meta-analysis", "journal": "European Urology Focus", "doi": "10.1016/j.euf.2024.07.002"},
+      "llano2020": {"type": "article", "author": "Gonzalez de Llano, D., Moreno-Arribas, M.V. and Bartolome, B.", "year": "2020", "title": "Cranberry Polyphenols and Prevention against Urinary Tract Infections: Relevant Considerations", "journal": "Molecules", "doi": "10.3390/molecules25153523"},
+      "nccih": {"type": "misc", "author": "National Center for Complementary and Integrative Health (NCCIH)", "year": "2020", "title": "Cranberry: Usefulness and Safety", "url": "https://www.nccih.nih.gov/health/cranberry"}
+    },
+    "parts_used": [
+      {"name": "Fruit (berry)", "actions": [
+        {"action": "Prevention of recurrent urinary tract infections (UTI), especially in women", "refs": ["moro2024", "llano2020", "nccih"], "status": "verified"},
+        {"action": "Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining", "refs": ["llano2020"], "status": "verified"},
+        {"action": "Antioxidant", "refs": ["llano2020"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "A-type proanthocyanidins (PACs)", "note": "The constituents responsible for the anti-adhesion effect against uropathogenic E. coli.", "refs": ["llano2020"]},
+      {"name": "Flavan-3-ols, anthocyanins and other flavonoids", "note": "Antioxidant polyphenols of the berry.", "refs": ["llano2020"]},
+      {"name": "Phenolic acids and organic acids (quinic, malic, citric)", "note": "Contribute to the acidity and antioxidant capacity.", "refs": ["llano2020"]},
+      {"name": "Oxalates", "note": "Present in relatively high amounts; relevant to kidney-stone risk.", "refs": ["nccih"]}
+    ],
+    "contraindications": [
+      {"note": "Best supported for PREVENTION of recurrent UTIs, not for treating an active infection; an established UTI needs proper medical assessment and, usually, antibiotics.", "refs": ["moro2024", "nccih"], "status": "verified"},
+      {"note": "May interact with the anticoagulant warfarin (evidence is conflicting); people taking warfarin should be cautious and consult their clinician.", "refs": ["nccih"], "status": "verified"},
+      {"note": "High in oxalates; people with a history of kidney stones should avoid large or prolonged intake. Many cranberry juices are also high in sugar.", "refs": ["nccih"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (systematic review/network meta-analysis, mechanistic review, NCCIH). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (uti); the association is retained and now cited.",
+    "status": "verified"
+  },
+  {
+    "file": "andrographis_paniculata.yaml",
+    "common_names": ["Andrographis", "Green chiretta", "King of bitters", "Kalmegh", "Chuan xin lian"],
+    "scientific_name": "Andrographis paniculata",
+    "family": "Acanthaceae",
+    "references": {
+      "hu2017": {"type": "article", "author": "Hu, X.Y., Wu, R.H., Logue, M., Blondel, C., Lai, L.Y.W., Stuart, B., Flower, A., Fei, Y.T., Moore, M., Shepherd, J., Liu, J.P. and Lewith, G.", "year": "2017", "title": "Andrographis paniculata (Chuan Xin Lian) for symptomatic relief of acute respiratory tract infections in adults and children: A systematic review and meta-analysis", "journal": "PLoS ONE", "doi": "10.1371/journal.pone.0181780"},
+      "zeng2021": {"type": "article", "author": "Zeng, B., Wei, A., Zhou, Q., Yuan, M., Lei, K., Liu, Y., Song, J., Guo, L. and Ye, Q.", "year": "2021", "title": "Andrographolide: A review of its pharmacology, pharmacokinetics, toxicity and clinical trials and pharmaceutical researches", "journal": "Phytotherapy Research", "doi": "10.1002/ptr.7324"},
+      "gonde2023": {"type": "article", "author": "Gonde, D.P., Bhole, B.K. and Kakad, K.S.", "year": "2023", "title": "Andrographolide, diterpenoid constituent of Andrographis paniculata: Review on botany, phytochemistry, molecular docking analysis, and pharmacology", "journal": "Annales Pharmaceutiques Francaises", "doi": "10.1016/j.pharma.2023.10.001"},
+      "mskcc": {"type": "misc", "author": "Memorial Sloan Kettering Cancer Center", "year": "n.d.", "title": "Andrographis (About Herbs)", "url": "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/andrographis"}
+    },
+    "parts_used": [
+      {"name": "Aerial parts (leaves and herb)", "actions": [
+        {"action": "Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom severity and duration)", "refs": ["hu2017", "mskcc", "zeng2021"], "status": "verified"},
+        {"action": "Relief of sore throat", "refs": ["hu2017", "mskcc"], "status": "verified"},
+        {"action": "Antipyretic (fever)", "refs": ["gonde2023", "mskcc"], "status": "verified"},
+        {"action": "Immunostimulant / immune support", "refs": ["zeng2021", "gonde2023"], "status": "verified"},
+        {"action": "Anti-inflammatory", "refs": ["zeng2021", "gonde2023"], "status": "verified"},
+        {"action": "Antimicrobial and antiviral", "refs": ["gonde2023", "zeng2021"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Diterpenoid lactones", "note": "Andrographolide is the principal active compound; also neoandrographolide and deoxyandrographolide.", "refs": ["zeng2021", "gonde2023"]},
+      {"name": "Flavonoids", "note": "Antioxidant and anti-inflammatory constituents.", "refs": ["gonde2023"]},
+      {"name": "Polyphenols and other phenolics", "note": "Contribute to antioxidant activity.", "refs": ["gonde2023"]}
+    ],
+    "contraindications": [
+      {"note": "Avoid in pregnancy and when trying to conceive: high doses have shown reproductive toxicity in animals and the herb has a traditional reputation as an abortifacient.", "refs": ["zeng2021", "mskcc"], "status": "verified"},
+      {"note": "High doses have caused nephrotoxicity and reproductive toxicity in studies; use standardized products at recommended doses and avoid prolonged high-dose use.", "refs": ["zeng2021"], "status": "verified"},
+      {"note": "May lower blood pressure and blood sugar and may interact with anticoagulant/antiplatelet, antihypertensive and immunosuppressant medicines; allergic reactions can occur.", "refs": ["mskcc", "zeng2021"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy Research and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "angelica_archangelica.yaml",
+    "common_names": ["Angelica", "Garden angelica", "Wild celery", "Norwegian angelica", "Angel plant"],
+    "scientific_name": "Angelica archangelica",
+    "family": "Apiaceae",
+    "references": {
+      "kaur2021": {"type": "article", "author": "Kaur, A. and Bhatti, R.", "year": "2021", "title": "Understanding the phytochemistry and molecular insights to the pharmacology of Angelica archangelica L. (garden angelica) and its bioactive components", "journal": "Phytotherapy Research", "doi": "10.1002/ptr.7206"},
+      "patel2023": {"type": "article", "author": "Patel, D.K. and Patel, K.", "year": "2023", "title": "Biological Potential and Pharmacological Activity of Columbianetin in Chronic Diseases", "journal": "Drug Metabolism and Bioanalysis Letters", "doi": "10.2174/1872312815666230124154630"}
+    },
+    "parts_used": [
+      {"name": "Root", "actions": [
+        {"action": "Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)", "refs": ["kaur2021"], "status": "verified"},
+        {"action": "Anti-inflammatory and gastroprotective", "refs": ["kaur2021", "patel2023"], "status": "verified"},
+        {"action": "Diaphoretic / expectorant support during colds", "refs": ["kaur2021"], "status": "verified"}
+      ]},
+      {"name": "Fruit and seed", "actions": [
+        {"action": "Anxiolytic / sedative (anxiety, nervous tension)", "refs": ["kaur2021"], "status": "verified"},
+        {"action": "Anticonvulsant and cognition-supporting (preclinical)", "refs": ["kaur2021"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Coumarins and furanocoumarins", "note": "Including columbianetin, angelicin, imperatorin and xanthotoxin.", "refs": ["kaur2021", "patel2023"]},
+      {"name": "Essential (volatile) oil", "note": "Rich in monoterpenes such as alpha-pinene and beta-phellandrene; gives the aromatic, carminative character.", "refs": ["kaur2021"]},
+      {"name": "Phenolic acids and flavonoids", "note": "Antioxidant constituents.", "refs": ["kaur2021"]}
+    ],
+    "contraindications": [
+      {"note": "Contains furanocoumarins, which can cause photosensitivity; avoid excessive sun or UV exposure while using the herb medicinally.", "refs": ["kaur2021"], "status": "verified"},
+      {"note": "Medicinal doses should be avoided during pregnancy and breastfeeding.", "refs": ["kaur2021"], "status": "verified"},
+      {"note": "Coumarin constituents may interact with anticoagulant medicines, and furanocoumarins with photosensitising drugs; when wild-harvesting, take great care to distinguish garden angelica from poisonous Apiaceae look-alikes such as hemlock.", "refs": ["kaur2021"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica; review of its coumarin columbianetin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited.",
+    "status": "verified"
+  },
+  {
+    "file": "arnica_montana.yaml",
+    "common_names": ["Arnica", "Mountain arnica", "Leopard's bane", "Wolf's bane", "Mountain tobacco"],
+    "scientific_name": "Arnica montana",
+    "family": "Asteraceae",
+    "references": {
+      "kriplani2017": {"type": "article", "author": "Kriplani, P., Guarve, K. and Baghael, U.S.", "year": "2017", "title": "Arnica montana L. - a plant of healing: review", "journal": "Journal of Pharmacy and Pharmacology", "doi": "10.1111/jphp.12724"},
+      "gaertner2021": {"type": "article", "author": "Gaertner, K., Baumgartner, S. and Walach, H.", "year": "2021", "title": "Is Homeopathic Arnica Effective for Postoperative Recovery? A Meta-analysis of Placebo-Controlled and Active Comparator Trials", "journal": "Frontiers in Surgery", "doi": "10.3389/fsurg.2021.680930"},
+      "poison": {"type": "misc", "author": "National Capital Poison Center (Poison Control)", "year": "n.d.", "title": "Caution when using Arnica products", "url": "https://www.poison.org/articles/caution-when-using-arnica-products-193"}
+    },
+    "parts_used": [
+      {"name": "Flower head (topical preparations)", "actions": [
+        {"action": "Topical anti-inflammatory for bruising, swelling and sprains", "refs": ["kriplani2017", "gaertner2021"], "status": "verified"},
+        {"action": "Topical analgesic for muscle soreness and pain", "refs": ["kriplani2017", "gaertner2021"], "status": "verified"},
+        {"action": "Antiecchymotic / vulnerary (helps disperse bruises)", "refs": ["kriplani2017"], "status": "verified"},
+        {"action": "Antimicrobial and antioxidant (in vitro)", "refs": ["kriplani2017"], "status": "verified"}
+      ]}
+    ],
+    "constituents": [
+      {"name": "Sesquiterpene lactones (helenalin, dihydrohelenalin)", "note": "The main anti-inflammatory principles; also responsible for the plant's toxicity and contact-allergy potential.", "refs": ["kriplani2017"]},
+      {"name": "Flavonoids", "note": "Antioxidant and anti-inflammatory constituents.", "refs": ["kriplani2017"]},
+      {"name": "Essential oil, phenolic acids and coumarins", "note": "Aromatic and supporting constituents of the flower.", "refs": ["kriplani2017"]},
+      {"name": "Pyrrolizidine alkaloids (trace)", "note": "Present in small amounts; relevant to the caution against internal use.", "refs": ["kriplani2017"]}
+    ],
+    "contraindications": [
+      {"note": "EXTERNAL USE ONLY on unbroken skin. Arnica is toxic if swallowed and can cause stomach pain, vomiting, diarrhoea, breathing difficulty, irregular heartbeat and, in serious cases, cardiac arrest; the only safe oral form is the highly diluted homeopathic preparation.", "refs": ["poison", "kriplani2017"], "status": "verified"},
+      {"note": "Do not apply to broken or damaged skin, open wounds, eyes or mucous membranes.", "refs": ["poison"], "status": "verified"},
+      {"note": "As a member of the daisy family (Asteraceae) it can cause allergic contact dermatitis; prolonged topical use can also irritate the skin.", "refs": ["kriplani2017"], "status": "verified"},
+      {"note": "Avoid medicinal use during pregnancy and breastfeeding.", "refs": ["poison", "gaertner2021"], "status": "verified"}
+    ],
+    "internal_notes": "Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review, Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained and now part-mapped and cited. NOTE: external use only - see contraindications.",
+    "status": "verified"
+  }
+]

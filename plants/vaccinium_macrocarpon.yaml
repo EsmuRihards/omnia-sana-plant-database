@@ -1,19 +1,63 @@
 common_names:
 - American Cranberry
+- Cranberry
+- Large cranberry
+- Bearberry
 scientific_name: Vaccinium macrocarpon
 family: Ericaceae
 parts_used:
-- name: Whole plant
+- name: Fruit (berry)
   medicinal_actions:
-  - action: Urinary tract infection (UTI) (symptom-lookup evidence 4/4)
+  - action: Prevention of recurrent urinary tract infections (UTI), especially in women
     reference_ids:
-    - REF-0384
-    status: draft
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0389
+    - REF-0390
+    - REF-0391
+    status: verified
+  - action: Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining
+    reference_ids:
+    - REF-0390
+    status: verified
+  - action: Antioxidant
+    reference_ids:
+    - REF-0390
+    status: verified
+constituents:
+- name: A-type proanthocyanidins (PACs)
+  note: The constituents responsible for the anti-adhesion effect against uropathogenic E. coli.
+  reference_ids:
+  - REF-0390
+- name: Flavan-3-ols, anthocyanins and other flavonoids
+  note: Antioxidant polyphenols of the berry.
+  reference_ids:
+  - REF-0390
+- name: Phenolic acids and organic acids (quinic, malic, citric)
+  note: Contribute to the acidity and antioxidant capacity.
+  reference_ids:
+  - REF-0390
+- name: Oxalates
+  note: Present in relatively high amounts; relevant to kidney-stone risk.
+  reference_ids:
+  - REF-0391
+contraindications:
+- note: Best supported for PREVENTION of recurrent UTIs, not for treating an active infection; an established
+    UTI needs proper medical assessment and, usually, antibiotics.
+  reference_ids:
+  - REF-0389
+  - REF-0391
+  status: verified
+- note: May interact with the anticoagulant warfarin (evidence is conflicting); people taking warfarin
+    should be cautious and consult their clinician.
+  reference_ids:
+  - REF-0391
+  status: verified
+- note: High in oxalates; people with a history of kidney stones should avoid large or prolonged intake.
+    Many cranberry juices are also high in sugar.
+  reference_ids:
+  - REF-0391
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and general literature (systematic review/network
+  meta-analysis, mechanistic review, NCCIH). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (uti); the association is retained and now cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

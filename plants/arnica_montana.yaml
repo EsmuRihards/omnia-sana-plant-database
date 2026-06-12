@@ -1,31 +1,75 @@
 common_names:
 - Arnica
+- Mountain arnica
+- Leopard's bane
+- Wolf's bane
+- Mountain tobacco
 scientific_name: Arnica montana
 family: Asteraceae
 parts_used:
-- name: Whole plant
+- name: Flower head (topical preparations)
   medicinal_actions:
-  - action: Bruising (symptom-lookup evidence 3/4)
+  - action: Topical anti-inflammatory for bruising, swelling and sprains
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Inflammation (symptom-lookup evidence 2/4)
+    - REF-0398
+    - REF-0399
+    status: verified
+  - action: Topical analgesic for muscle soreness and pain
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Muscle soreness (symptom-lookup evidence 2/4)
+    - REF-0398
+    - REF-0399
+    status: verified
+  - action: Antiecchymotic / vulnerary (helps disperse bruises)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Pain (symptom-lookup evidence 2/4)
+    - REF-0398
+    status: verified
+  - action: Antimicrobial and antioxidant (in vitro)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0398
+    status: verified
+constituents:
+- name: Sesquiterpene lactones (helenalin, dihydrohelenalin)
+  note: The main anti-inflammatory principles; also responsible for the plant's toxicity and contact-allergy
+    potential.
+  reference_ids:
+  - REF-0398
+- name: Flavonoids
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0398
+- name: Essential oil, phenolic acids and coumarins
+  note: Aromatic and supporting constituents of the flower.
+  reference_ids:
+  - REF-0398
+- name: Pyrrolizidine alkaloids (trace)
+  note: Present in small amounts; relevant to the caution against internal use.
+  reference_ids:
+  - REF-0398
+contraindications:
+- note: EXTERNAL USE ONLY on unbroken skin. Arnica is toxic if swallowed and can cause stomach pain, vomiting,
+    diarrhoea, breathing difficulty, irregular heartbeat and, in serious cases, cardiac arrest; the only
+    safe oral form is the highly diluted homeopathic preparation.
+  reference_ids:
+  - REF-0400
+  - REF-0398
+  status: verified
+- note: Do not apply to broken or damaged skin, open wounds, eyes or mucous membranes.
+  reference_ids:
+  - REF-0400
+  status: verified
+- note: As a member of the daisy family (Asteraceae) it can cause allergic contact dermatitis; prolonged
+    topical use can also irritate the skin.
+  reference_ids:
+  - REF-0398
+  status: verified
+- note: Avoid medicinal use during pregnancy and breastfeeding.
+  reference_ids:
+  - REF-0400
+  - REF-0399
+  status: verified
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review,
+  Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained
+  and now part-mapped and cited. NOTE: external use only - see contraindications.'
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

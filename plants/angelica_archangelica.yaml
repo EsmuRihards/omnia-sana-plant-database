@@ -1,31 +1,70 @@
 common_names:
 - Angelica
+- Garden angelica
+- Wild celery
+- Norwegian angelica
+- Angel plant
 scientific_name: Angelica archangelica
 family: Apiaceae
 parts_used:
-- name: Whole plant
+- name: Root
   medicinal_actions:
-  - action: Bloating (symptom-lookup evidence 2/4)
+  - action: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Indigestion (symptom-lookup evidence 2/4)
+    - REF-0396
+    status: verified
+  - action: Anti-inflammatory and gastroprotective
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Anxiety (symptom-lookup evidence 1/4)
+    - REF-0396
+    - REF-0397
+    status: verified
+  - action: Diaphoretic / expectorant support during colds
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Cold (symptom-lookup evidence 1/4)
+    - REF-0396
+    status: verified
+- name: Fruit and seed
+  medicinal_actions:
+  - action: Anxiolytic / sedative (anxiety, nervous tension)
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0396
+    status: verified
+  - action: Anticonvulsant and cognition-supporting (preclinical)
+    reference_ids:
+    - REF-0396
+    status: verified
+constituents:
+- name: Coumarins and furanocoumarins
+  note: Including columbianetin, angelicin, imperatorin and xanthotoxin.
+  reference_ids:
+  - REF-0396
+  - REF-0397
+- name: Essential (volatile) oil
+  note: Rich in monoterpenes such as alpha-pinene and beta-phellandrene; gives the aromatic, carminative
+    character.
+  reference_ids:
+  - REF-0396
+- name: Phenolic acids and flavonoids
+  note: Antioxidant constituents.
+  reference_ids:
+  - REF-0396
+contraindications:
+- note: Contains furanocoumarins, which can cause photosensitivity; avoid excessive sun or UV exposure
+    while using the herb medicinally.
+  reference_ids:
+  - REF-0396
+  status: verified
+- note: Medicinal doses should be avoided during pregnancy and breastfeeding.
+  reference_ids:
+  - REF-0396
+  status: verified
+- note: Coumarin constituents may interact with anticoagulant medicines, and furanocoumarins with photosensitising
+    drugs; when wild-harvesting, take great care to distinguish garden angelica from poisonous Apiaceae
+    look-alikes such as hemlock.
+  reference_ids:
+  - REF-0396
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica;
+  review of its coumarin columbianetin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

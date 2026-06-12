@@ -1,31 +1,81 @@
 common_names:
 - Andrographis
+- Green chiretta
+- King of bitters
+- Kalmegh
+- Chuan xin lian
 scientific_name: Andrographis paniculata
 family: Acanthaceae
 parts_used:
-- name: Whole plant
+- name: Aerial parts (leaves and herb)
   medicinal_actions:
-  - action: Cold (symptom-lookup evidence 4/4)
+  - action: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces
+      symptom severity and duration)
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Sore throat (symptom-lookup evidence 3/4)
+    - REF-0392
+    - REF-0395
+    - REF-0393
+    status: verified
+  - action: Relief of sore throat
     reference_ids:
-    - REF-0384
-    status: draft
-  - action: Fever (symptom-lookup evidence 2/4)
+    - REF-0392
+    - REF-0395
+    status: verified
+  - action: Antipyretic (fever)
     reference_ids:
-    - REF-0384
-    status: needs-review
-  - action: Immune support (symptom-lookup evidence 2/4)
+    - REF-0394
+    - REF-0395
+    status: verified
+  - action: Immunostimulant / immune support
     reference_ids:
-    - REF-0384
-    status: needs-review
-constituents: []
-contraindications: []
-internal_notes: Imported from the omniasana.bio Symptom-to-Plant Lookup tool (https://omniasana.bio/symptom-plant-lookup/).
-  Symptom associations only; the evidence score (1-4) is the tool's indicative strength-of-evidence rating,
-  not an independent verification. No parts, constituents or contraindications were given by the source
-  - manual enrichment pending.
+    - REF-0393
+    - REF-0394
+    status: verified
+  - action: Anti-inflammatory
+    reference_ids:
+    - REF-0393
+    - REF-0394
+    status: verified
+  - action: Antimicrobial and antiviral
+    reference_ids:
+    - REF-0394
+    - REF-0393
+    status: verified
+constituents:
+- name: Diterpenoid lactones
+  note: Andrographolide is the principal active compound; also neoandrographolide and deoxyandrographolide.
+  reference_ids:
+  - REF-0393
+  - REF-0394
+- name: Flavonoids
+  note: Antioxidant and anti-inflammatory constituents.
+  reference_ids:
+  - REF-0394
+- name: Polyphenols and other phenolics
+  note: Contribute to antioxidant activity.
+  reference_ids:
+  - REF-0394
+contraindications:
+- note: 'Avoid in pregnancy and when trying to conceive: high doses have shown reproductive toxicity in
+    animals and the herb has a traditional reputation as an abortifacient.'
+  reference_ids:
+  - REF-0393
+  - REF-0395
+  status: verified
+- note: High doses have caused nephrotoxicity and reproductive toxicity in studies; use standardized products
+    at recommended doses and avoid prolonged high-dose use.
+  reference_ids:
+  - REF-0393
+  status: verified
+- note: May lower blood pressure and blood sugar and may interact with anticoagulant/antiplatelet, antihypertensive
+    and immunosuppressant medicines; allergic reactions can occur.
+  reference_ids:
+  - REF-0395
+  - REF-0393
+  status: verified
+internal_notes: Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy
+  Research and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported
+  from the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
+  retained and now part-mapped and cited.
 last_updated: '2026-06-12'
-status: needs-review
+status: verified

@@ -12,12 +12,17 @@ parts_used:
     reference_ids:
     - REF-0470
     - REF-0471
+    - REF-0675
+    - REF-0678
+    - REF-0679
     status: verified
   - action: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
       and exerts venotonic effects on veins
     reference_ids:
     - REF-0471
     - REF-0590
+    - REF-0675
+    - REF-0676
     status: verified
   - action: Relief of haemorrhoid symptoms (venotonic)
     reference_ids:
@@ -32,6 +37,7 @@ constituents:
   - REF-0471
   - REF-0470
   - REF-0590
+  - REF-0677
 - name: Flavonoids and coumarins (aesculin)
   note: Supporting constituents of the seed.
   reference_ids:
@@ -52,6 +58,9 @@ internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane review 
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained
   and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced pharmacological/clinical
   review of escin's anti-edematous, anti-inflammatory and venotonic properties (REF-0590; reduced vascular
-  permeability, efficacy in CVI and blunt trauma).
+  permeability, efficacy in CVI and blunt trauma). Further enriched 2026-06-14 with five more PubMed sources
+  (REF-0675..REF-0679) - escin reviews and an endothelial-cell mechanism study (REF-0675, REF-0676), an
+  escin pharmacokinetics study (REF-0677), and two venoactive-compound reviews of chronic venous disease
+  that include horse chestnut seed extract (REF-0678, REF-0679).
 last_updated: '2026-06-14'
 status: verified

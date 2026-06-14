@@ -18,20 +18,29 @@ parts_used:
     reference_ids:
     - REF-0386
     - REF-0387
+    - REF-0680
+    - REF-0681
+    - REF-0683
     status: verified
   - action: Vulnerary (minor skin inflammation and small superficial wounds, topical)
     reference_ids:
     - REF-0386
     - REF-0388
+    - REF-0682
+    - REF-0683
     status: verified
   - action: Mild bitter digestive tonic (indigestion)
     reference_ids:
     - REF-0387
     - REF-0388
+    - REF-0684
     status: verified
   - action: Antioxidant
     reference_ids:
     - REF-0388
+    - REF-0681
+    - REF-0683
+    - REF-0684
     status: verified
 constituents:
 - name: Tannins (condensed and hydrolysable, including agrimoniin)
@@ -72,6 +81,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality,
   peer-reviewed review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (diarrhea, sore-throat, indigestion, wounds); symptom associations retained and now part-mapped
-  and cited.
-last_updated: '2026-06-12'
+  and cited. Further enriched 2026-06-14 with five PubMed sources (REF-0680..REF-0684) - an antinociceptive
+  neuropathy study (REF-0680), two pharmacology reviews of phenolic composition and activities (REF-0681,
+  REF-0683), a skin-wound-healing study (REF-0682) and a gastroprotective anti-ulcer study (REF-0684).
+last_updated: '2026-06-14'
 status: verified

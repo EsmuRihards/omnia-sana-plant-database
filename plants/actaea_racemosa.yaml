@@ -13,10 +13,16 @@ parts_used:
     reference_ids:
     - REF-0415
     - REF-0623
+    - REF-0670
+    - REF-0671
+    - REF-0672
+    - REF-0673
     status: verified
   - action: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
     reference_ids:
     - REF-0415
+    - REF-0670
+    - REF-0674
     status: verified
   - action: Premenstrual and menstrual complaints (traditional use)
     reference_ids:
@@ -39,6 +45,7 @@ contraindications:
     upper-abdominal pain).
   reference_ids:
   - REF-0415
+  - REF-0670
   status: verified
 - note: Current evidence does not show an increased risk of breast cancer or proliferation of oestrogen-sensitive
     tissue, but women with or at risk of hormone-sensitive cancer should use it only under medical guidance.
@@ -54,6 +61,9 @@ internal_notes: Enriched 2026-06-12 from scientific literature (Climacteric meta
   from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced systematic
   review (Borrelli & Ernst) that found the evidence for efficacy on menopausal symptoms inconsistent (REF-0623),
-  added as a balancing counterpoint to the positive meta-analysis.
+  added as a balancing counterpoint to the positive meta-analysis. Further enriched 2026-06-14 with five
+  more PubMed sources (REF-0670..REF-0674) - a large isopropanolic-extract meta-analysis (REF-0670), a
+  combination RCT (REF-0671), two null RCTs including an oncology Phase III trial (REF-0672, REF-0673) and
+  an anxiety/depression meta-analysis (REF-0674).
 last_updated: '2026-06-14'
 status: verified

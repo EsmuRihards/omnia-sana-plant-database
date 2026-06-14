@@ -32,6 +32,13 @@ parts_used:
     reference_ids:
     - REF-0396
     status: verified
+- name: Leaf (standardised extract)
+  medicinal_actions:
+  - action: Overactive bladder - a pilot RCT of an Angelica archangelica leaf extract reduced daytime voids
+      and storage symptoms and improved quality of life, with near-significant benefit for nocturia
+    reference_ids:
+    - REF-0615
+    status: needs-review
 constituents:
 - name: Coumarins and furanocoumarins
   note: Including columbianetin, angelicin, imperatorin and xanthotoxin.
@@ -66,5 +73,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica;
   review of its coumarin columbianetin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  Further enriched 2026-06-14 with a PubMed-sourced pilot randomized controlled trial of Angelica archangelica
+  leaf extract for overactive bladder (REF-0615; reduced daytime voids and storage symptoms, improved quality
+  of life) - added as a new leaf-part action, needs-review pending larger trials.
+last_updated: '2026-06-14'
 status: verified

@@ -8,10 +8,12 @@ parts_used:
 - name: Aerial parts (flowering herb)
   medicinal_actions:
   - action: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
-      as an eye compress or bath)
+      as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported
+      recovery or clear improvement in most patients with conjunctivitis
     reference_ids:
     - REF-0449
     - REF-0448
+    - REF-0613
     status: verified
   - action: Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)
     reference_ids:
@@ -51,6 +53,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study;
   Herbal Reality monograph). Euphrasia is now placed in Orobanchaceae (formerly Scrophulariaceae). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, allergy, infection);
-  associations retained and now part-mapped and cited. NOTE sterility caution for eye use.
-last_updated: '2026-06-12'
+  associations retained and now part-mapped and cited. NOTE sterility caution for eye use. Further enriched
+  2026-06-14 with a PubMed-sourced prospective cohort trial of Euphrasia single-dose eye drops in conjunctivitis
+  (REF-0613; complete recovery or clear improvement in ~98% of patients, well tolerated - open-label, single-arm).
+last_updated: '2026-06-14'
 status: verified

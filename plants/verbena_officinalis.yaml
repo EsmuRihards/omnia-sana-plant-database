@@ -8,10 +8,12 @@ family: Verbenaceae
 parts_used:
 - name: Aerial parts (flowering herb)
   medicinal_actions:
-  - action: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional)
+  - action: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a
+      crude extract showed anxiolytic, sedative and anticonvulsant activity in animal models
     reference_ids:
     - REF-0523
     - REF-0522
+    - REF-0616
     status: verified
   - action: Mild mood support / antidepressant (traditional)
     reference_ids:
@@ -54,6 +56,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Verbenae herba; Planta Medica review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (anxiety, insomnia, nervous-tension, inflammation, depression); associations retained and
-  now part-mapped and cited.
-last_updated: '2026-06-12'
+  now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced study showing Verbena officinalis
+  crude extract has anxiolytic, sedative and anticonvulsant activity in rodent models (REF-0616), supporting
+  the nervine action mechanistically.
+last_updated: '2026-06-14'
 status: verified

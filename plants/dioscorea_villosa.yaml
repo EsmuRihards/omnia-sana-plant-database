@@ -18,9 +18,11 @@ parts_used:
     - REF-0528
     status: verified
   - action: Traditional support for menopausal symptoms (see safety note - it does NOT act as a natural
-      progesterone)
+      progesterone) - a placebo-controlled crossover RCT of topical wild yam cream found little effect
+      on menopausal symptoms, lipids or hormones
     reference_ids:
     - REF-0528
+    - REF-0614
     status: needs-review
 constituents:
 - name: Steroidal saponins yielding diosgenin
@@ -37,9 +39,12 @@ constituents:
   - REF-0528
 contraindications:
 - note: 'IMPORTANT myth-bust: wild yam / diosgenin is NOT converted into progesterone or DHEA in the body,
-    so it does not work as a ''natural progesterone'' - claims to that effect are incorrect.'
+    so it does not work as a ''natural progesterone'' - claims to that effect are incorrect. Consistent
+    with this, a randomized placebo-controlled crossover trial of topical wild yam cream found no significant
+    change in symptoms, serum/salivary progesterone, oestradiol, FSH or lipids.'
   reference_ids:
   - REF-0528
+  - REF-0614
   status: verified
 - note: Generally well tolerated orally (no acute or subchronic toxicity in animal studies); large doses
     may cause nausea or vomiting. Avoid medicinal doses in pregnancy and breastfeeding and in hormone-sensitive
@@ -51,6 +56,8 @@ internal_notes: Enriched 2026-06-12 from scientific literature (BMC Complementar
   bioassay/toxicity study). Further enriched 2026-06-13 with an additional diosgenin pharmacokinetic/pharmacology
   study (REF-0536, Okawara et al. 2013) sourced from PubMed. Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (menstrual-cramps, menopause, muscle-spasm); associations retained and now
-  part-mapped and cited.
-last_updated: '2026-06-13'
+  part-mapped and cited. Further enriched 2026-06-14 with the PubMed-sourced Komesaroff et al. RCT of topical
+  wild yam cream (REF-0614), which found little effect on menopausal symptoms or hormones - directly supporting
+  the myth-bust on diosgenin and progesterone.
+last_updated: '2026-06-14'
 status: verified

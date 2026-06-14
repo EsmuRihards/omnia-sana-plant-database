@@ -19,9 +19,13 @@ parts_used:
     - REF-0442
     - REF-0441
     status: verified
-  - action: Traditional infused-oil ('mullein oil') for earache
+  - action: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear
+      drop containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis
+      media (combination products, not mullein alone)
     reference_ids:
     - REF-0442
+    - REF-0611
+    - REF-0612
     status: needs-review
 constituents:
 - name: Mucilage polysaccharides (~3%)
@@ -53,6 +57,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and
   ESCOP monograph, which cover V. densiflorum together with V. thapsus and V. phlomoides). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, earache,
-  sore-throat); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  sore-throat); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with two
+  PubMed-sourced RCTs of a naturopathic herbal ear drop containing Verbascum (with other herbs) that relieved
+  ear pain in paediatric acute otitis media as well as anaesthetic drops (REF-0611, REF-0612); the earache
+  action stays needs-review as these are combination products.
+last_updated: '2026-06-14'
 status: verified

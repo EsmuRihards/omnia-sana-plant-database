@@ -139,6 +139,28 @@ BibTeX entry's `note` field:
 So a plant YAML cites `REF-0042`, and `validate_references.py` confirms that a
 BibTeX entry carries `note = {REF-0042}`.
 
+### Abstracts (optional)
+
+Scientific-publication entries (`@article`) may carry an optional **`abstract`**
+field holding the publication's official abstract:
+
+```bibtex
+@article{clare2009dandelion,
+  ...
+  note     = {REF-0042},
+  abstract = {Dandelion (Taraxacum officinale) has a long history of use ...}
+}
+```
+
+- Stored on a **single line** with braces removed and whitespace collapsed, so
+  the lightweight regex parsers in the builders (`build_citations_json.py` and
+  the live PHP port) read it without brace-depth or terminator surprises.
+- Populated reproducibly by `tools/add_abstracts_2026_06_14.py` (Europe PMC by
+  DOI, then by title with a similarity guard, then Crossref). Re-running is
+  idempotent — entries that already have an `abstract` are skipped.
+- Surfaced by the Knowledge Finder's **"View Abstract"** button. Entries with no
+  publicly available abstract simply omit the field (the button is hidden).
+
 ---
 
 ## How to add a new plant

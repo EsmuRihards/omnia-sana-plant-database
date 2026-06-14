@@ -8,10 +8,12 @@ family: Rosaceae
 parts_used:
 - name: Rhizome
   medicinal_actions:
-  - action: Astringent for mild diarrhoea (ellagitannins tighten the gut lining)
+  - action: Astringent for mild diarrhoea (ellagitannins tighten the gut lining) - in a paediatric RCT,
+      tormentil root extract shortened rotavirus diarrhoea (3 vs 5 days) and reduced rehydration needs
     reference_ids:
     - REF-0520
     - REF-0521
+    - REF-0602
     status: verified
   - action: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
     reference_ids:
@@ -45,6 +47,8 @@ contraindications:
   status: verified
 internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs
   for Tormentillae rhizoma). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
-  tool (diarrhea, sore-throat, ibd); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  tool (diarrhea, sore-throat, ibd); associations retained and now part-mapped and cited. Further enriched
+  2026-06-14 with a PubMed-sourced randomized, double-blind, placebo-controlled paediatric trial showing
+  tormentil root extract shortened rotavirus diarrhoea and lowered rehydration requirements (REF-0602).
+last_updated: '2026-06-14'
 status: verified

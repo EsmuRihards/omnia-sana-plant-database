@@ -18,8 +18,11 @@ parts_used:
     - REF-0447
     status: needs-review
   - action: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
+      (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with
+      a combination of EPO and vitamin E most effective)
     reference_ids:
     - REF-0446
+    - REF-0600
     status: needs-review
   - action: Menopausal hot flushes - some trial benefit reported
     reference_ids:
@@ -57,6 +60,9 @@ internal_notes: Enriched 2026-06-12 from scientific literature (BMC Complementar
   systematic review; Cochrane review of EPO/borage oil for eczema). Evidence for most symptom claims is
   weak or negative, reflected in needs-review action statuses. Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (eczema, pms, skin-irritation, inflammation, menopause);
-  associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
+  randomized controlled trial reporting that evening primrose oil reduced cyclical mastalgia severity versus
+  placebo (combination with vitamin E most effective) (REF-0600); the cyclical breast-pain action remains
+  needs-review given the heterogeneous broader literature.
+last_updated: '2026-06-14'
 status: verified

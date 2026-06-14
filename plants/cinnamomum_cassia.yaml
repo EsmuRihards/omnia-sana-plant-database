@@ -9,14 +9,18 @@ parts_used:
 - name: Bark
   medicinal_actions:
   - action: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
+      - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR
     reference_ids:
     - REF-0429
     - REF-0430
+    - REF-0598
+    - REF-0599
     status: verified
   - action: Improves the lipid profile (lowers total and LDL cholesterol and triglycerides)
     reference_ids:
     - REF-0429
     - REF-0430
+    - REF-0599
     status: verified
   - action: Warming carminative for indigestion (traditional)
     reference_ids:
@@ -51,6 +55,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Annals of Family Medicine meta-analysis;
   cassia-bark glucose/lipid meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (blood-sugar, high-cholesterol, indigestion); associations retained and now part-mapped
-  and cited. NOTE coumarin/liver caution vs Ceylon cinnamon.
-last_updated: '2026-06-12'
+  and cited. NOTE coumarin/liver caution vs Ceylon cinnamon. Further enriched 2026-06-14 with two recent
+  PubMed-sourced meta-analyses of RCTs - an updated dose-response meta-analysis (REF-0598; lower fasting
+  glucose, HbA1c and HOMA-IR) and a 28-RCT review (REF-0599; capsule form at <=2 g/day also improved the
+  lipid profile and BMI).
+last_updated: '2026-06-14'
 status: verified

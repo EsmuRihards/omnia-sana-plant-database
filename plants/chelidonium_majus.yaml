@@ -36,11 +36,13 @@ constituents:
   - REF-0460
 contraindications:
 - note: 'SERIOUS: oral greater celandine can cause acute idiosyncratic liver injury (hepatocellular hepatotoxicity
-    with jaundice). Multiple reported cases led regulators to restrict or suspend oral products. Do not
-    take internally if you have any liver disease, and stop immediately and seek care at any sign of liver
-    problems (jaundice, dark urine, upper-abdominal pain).'
+    with jaundice). Multiple reported cases - dozens of herb-induced liver injury reports in the literature,
+    with continuing recent case reports - led regulators to restrict or suspend oral products. Do not take
+    internally if you have any liver disease, and stop immediately and seek care at any sign of liver problems
+    (jaundice, dark urine, upper-abdominal pain).'
   reference_ids:
   - REF-0459
+  - REF-0601
   status: verified
 - note: Avoid in pregnancy and breastfeeding. The fresh orange latex is irritant and caustic - keep it
     away from the eyes and broken skin.
@@ -52,6 +54,8 @@ internal_notes: Enriched 2026-06-12 from scientific literature (Annals of Hepato
   hepatotoxicity; Forschende Komplementarmedizin integrative review). Record status set to needs-review
   because oral use carries a documented hepatotoxicity risk that regulators have restricted. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, warts);
-  associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
+  2024 report of two herb-induced liver injury cases plus a literature review of 38 such cases (REF-0601),
+  reinforcing the serious hepatotoxicity caution.
+last_updated: '2026-06-14'
 status: needs-review

@@ -29,10 +29,12 @@ parts_used:
 constituents:
 - name: Labdane diterpene marrubiin
   note: The characteristic bitter principle (pharmacopoeial material contains at least 0.7%); drives the
-    expectorant and digestive actions.
+    expectorant and digestive actions. A phytochemical/pharmacological overview identifies marrubiin and
+    the phenolic fraction as the basis for antioxidant, anti-inflammatory and antimicrobial activity.
   reference_ids:
   - REF-0468
   - REF-0469
+  - REF-0603
 - name: Flavonoids and phenylethanoid esters (e.g. verbascoside)
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
@@ -56,6 +58,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Marrubii herba; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, bloating); associations retained and now part-mapped and
-  cited.
-last_updated: '2026-06-12'
+  cited. Further enriched 2026-06-14 with a PubMed-sourced phytochemical and pharmacological overview of
+  Marrubium vulgare (REF-0603) supporting the marrubiin-driven expectorant/digestive actions and its antioxidant,
+  anti-inflammatory and antimicrobial activity.
+last_updated: '2026-06-14'
 status: verified

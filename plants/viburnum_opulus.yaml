@@ -12,6 +12,7 @@ parts_used:
     reference_ids:
     - REF-0439
     - REF-0440
+    - REF-0610
     status: verified
   - action: Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant)
     reference_ids:
@@ -23,9 +24,12 @@ parts_used:
     status: needs-review
 constituents:
 - name: Coumarins (scopoletin)
-  note: A principal antispasmodic constituent of the bark.
+  note: A principal antispasmodic constituent of the bark. A phytochemistry/biological-effects review documents
+    the species' antioxidant, anti-inflammatory and antimicrobial activity and its traditional use for
+    cramps and colds.
   reference_ids:
   - REF-0439
+  - REF-0610
 - name: Viopudial and hydroquinones (arbutin)
   note: Contribute to the smooth-muscle-relaxant and astringent activity.
   reference_ids:
@@ -50,6 +54,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect
   overview). Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps,
-  muscle-spasm, pain); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  muscle-spasm, pain); associations retained and now part-mapped and cited. Further enriched 2026-06-14
+  with a PubMed-sourced phytochemistry and biological-effects review of Viburnum opulus (REF-0610) supporting
+  the constituent profile and its antioxidant/anti-inflammatory activity; clinical trial data remain limited.
+last_updated: '2026-06-14'
 status: verified

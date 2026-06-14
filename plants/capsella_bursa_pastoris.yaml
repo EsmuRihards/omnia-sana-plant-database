@@ -8,10 +8,12 @@ parts_used:
 - name: Aerial parts (flowering herb)
   medicinal_actions:
   - action: Haemostatic / styptic - reduces heavy menstrual bleeding (menorrhagia); also used for nosebleeds
-      and postpartum bleeding
+      and postpartum bleeding. In a randomized clinical trial, Capsella bursa-pastoris added to mefenamic
+      acid reduced menstrual blood loss significantly more than mefenamic acid alone
     reference_ids:
     - REF-0508
     - REF-0507
+    - REF-0608
     status: verified
   - action: Astringent / styptic for minor wounds (helps stop bleeding, topical)
     reference_ids:
@@ -44,6 +46,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph;
   ESCOP note citing an RCT showing reduced menstrual blood loss). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  retained and now part-mapped and cited. Further enriched 2026-06-14 by citing that RCT directly - the
+  PubMed-sourced triple-blind trial by Naafe et al. (REF-0608) in which Capsella bursa-pastoris significantly
+  reduced heavy menstrual bleeding (PBLAC score) versus control.
+last_updated: '2026-06-14'
 status: verified

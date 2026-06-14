@@ -9,9 +9,11 @@ parts_used:
 - name: Flower and leaf (aerial parts)
   medicinal_actions:
   - action: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen
-      mucus)
+      mucus) - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
+      in children with asthma
     reference_ids:
     - REF-0517
+    - REF-0609
     status: verified
   - action: Soothes sore throat
     reference_ids:
@@ -52,6 +54,8 @@ contraindications:
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs).
   Note: distinct from the book''s Viola tricolor (heartsease). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, insomnia, sore-throat, headache); associations retained
-  and now part-mapped and cited.'
-last_updated: '2026-06-12'
+  and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind RCT (n=182)
+  showing Viola odorata flower syrup, as an adjuvant to a short-acting beta-agonist, accelerated cough
+  suppression in children with asthma (REF-0609).'
+last_updated: '2026-06-14'
 status: verified

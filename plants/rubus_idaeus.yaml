@@ -7,11 +7,13 @@ family: Rosaceae
 parts_used:
 - name: Leaf
   medicinal_actions:
-  - action: Traditional uterine tonic taken in late pregnancy to tone the uterus and support labour (observational
-      signals only - no randomised-trial proof)
+  - action: Traditional uterine tonic taken in late pregnancy to tone the uterus and support labour - one
+      small double-blind RCT found a shorter second stage of labour and fewer forceps deliveries (no effect
+      on the first stage), alongside observational signals; robust proof is still lacking
     reference_ids:
     - REF-0497
     - REF-0498
+    - REF-0607
     status: needs-review
   - action: Astringent for menstrual cramps (traditional)
     reference_ids:
@@ -46,6 +48,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   observational study; ANZJOG survey). Evidence is weak/observational, reflected in needs-review action
   statuses. Note: distinct from the book''s Rubus fruticosus (blackberry leaf). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps, pregnancy-support, diarrhea);
-  associations retained and now part-mapped and cited.'
-last_updated: '2026-06-12'
+  associations retained and now part-mapped and cited. Further enriched 2026-06-14 with the PubMed-sourced
+  double-blind RCT by Simpson et al. (REF-0607; n=192, shorter second stage of labour and fewer forceps
+  deliveries, no effect on first stage, no adverse effects) - the action remains needs-review given the
+  single small trial.'
+last_updated: '2026-06-14'
 status: verified

@@ -11,9 +11,11 @@ parts_used:
     reference_ids:
     - REF-0427
     status: verified
-  - action: Anxiolytic for anxiety and nervous tension
+  - action: Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed
+      California poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety
     reference_ids:
     - REF-0427
+    - REF-0606
     status: verified
   - action: Mild analgesic (traditional use for pain)
     reference_ids:
@@ -40,6 +42,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (GABA-A receptor pharmacology study; CYP/P-gp/PXR
   herb-drug-interaction study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (insomnia, anxiety, nervous-tension, pain); associations retained and now part-mapped and
-  cited.
-last_updated: '2026-06-12'
+  cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind, placebo-controlled RCT (n=264)
+  of a fixed Eschscholzia + Crataegus + magnesium combination that improved mild-to-moderate anxiety (REF-0606;
+  a combination product, not California poppy alone).
+last_updated: '2026-06-14'
 status: verified

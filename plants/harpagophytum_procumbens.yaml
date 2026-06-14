@@ -16,18 +16,27 @@ parts_used:
     reference_ids:
     - REF-0444
     - REF-0443
+    - REF-0561
     status: verified
   - action: General joint pain and arthritis support
     reference_ids:
     - REF-0443
     status: verified
+  - action: Effective at standardised doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior
+      to rofecoxib for short-term chronic low back pain
+    reference_ids:
+    - REF-0561
+    - REF-0562
+    status: verified
 constituents:
 - name: Iridoid glycosides (harpagoside, harpagide, procumbide)
   note: Harpagoside is the main marker compound and anti-inflammatory principle; effective extracts are
-    standardised to it.
+    standardised to it, with the better-quality clinical evidence using preparations delivering roughly
+    50-60 mg harpagoside per day.
   reference_ids:
   - REF-0444
   - REF-0443
+  - REF-0562
 - name: Phenylethanoids (acteoside/verbascoside) and flavonoids
   note: Antioxidant supporting constituents.
   reference_ids:
@@ -50,6 +59,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Natural Standard evidence-based systematic
   review; Der Orthopade review of herbal analgesia). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (pain, arthritis, back-pain, inflammation); associations retained and now
-  part-mapped and cited.
-last_updated: '2026-06-12'
+  part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced reviews - a systematic review
+  of osteoarthritis and low-back-pain trials (REF-0561; strongest evidence for aqueous extracts at >=50
+  mg harpagoside/day, non-inferior to rofecoxib short-term) and a clinical-efficacy review on harpagoside
+  dose standardisation (REF-0562).
+last_updated: '2026-06-14'
 status: verified

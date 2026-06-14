@@ -26,6 +26,14 @@ parts_used:
     reference_ids:
     - REF-0483
     status: needs-review
+  - action: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
+    reference_ids:
+    - REF-0559
+    status: verified
+  - action: May improve liver enzymes and hepatic fat in non-alcoholic fatty liver disease (NAFLD)
+    reference_ids:
+    - REF-0560
+    status: needs-review
 constituents:
 - name: Silymarin (a flavonolignan complex)
   note: The active complex; silybin (silibinin) is the most active component, with silydianin and silychristin.
@@ -51,6 +59,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Phytotherapy Research safety/toxicity
   review; Biomedicine & Pharmacotherapy review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (liver-support, detox, indigestion, inflammation); associations retained
-  and now part-mapped and cited.
-last_updated: '2026-06-12'
+  and now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced clinical evidence - a
+  meta-analysis of RCTs in type 2 diabetes (REF-0559; significant reductions in fasting glucose and HbA1c)
+  and a network meta-analysis in NAFLD (REF-0560; modest liver-enzyme benefit, with novel metabolic agents
+  outperforming plant drugs, hence needs-review).
+last_updated: '2026-06-14'
 status: verified

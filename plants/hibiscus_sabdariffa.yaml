@@ -12,6 +12,8 @@ parts_used:
     reference_ids:
     - REF-0464
     - REF-0465
+    - REF-0566
+    - REF-0567
     status: verified
   - action: Improves the lipid profile - lowers LDL and total cholesterol
     reference_ids:
@@ -21,6 +23,10 @@ parts_used:
   - action: Antioxidant
     reference_ids:
     - REF-0464
+    status: verified
+  - action: Lowers fasting blood glucose
+    reference_ids:
+    - REF-0567
     status: verified
 constituents:
 - name: Anthocyanins (delphinidin and cyanidin glucosides)
@@ -37,9 +43,11 @@ constituents:
   - REF-0464
 contraindications:
 - note: Its blood-pressure-lowering effect can add to that of antihypertensive medicines; monitor blood
-    pressure if you take them.
+    pressure if you take them. Note that it is not superior to standard antihypertensive drugs and did
+    not significantly lower blood pressure in the metabolic-syndrome subgroup.
   reference_ids:
   - REF-0464
+  - REF-0566
   status: verified
 - note: May alter the absorption or levels of some medicines (e.g. paracetamol, chloroquine); avoid concentrated
     or medicinal doses in pregnancy.
@@ -49,5 +57,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Nutrition Reviews meta-analysis; Foods
   systematic review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (high-blood-pressure, high-cholesterol); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  Further enriched 2026-06-14 with PubMed-sourced meta-analyses of RCTs - a 13-trial review confirming
+  systolic/diastolic reductions but no advantage over antihypertensive drugs and no effect in metabolic
+  syndrome (REF-0566) and a sour-tea review showing reduced fasting plasma glucose and blood pressure
+  (REF-0567).
+last_updated: '2026-06-14'
 status: verified

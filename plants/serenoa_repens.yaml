@@ -13,6 +13,13 @@ parts_used:
     - REF-0504
     - REF-0496
     status: needs-review
+  - action: Standardised hexanic extract (Permixon) specifically - meta-analyses report reduced nocturia
+      and improved urinary flow versus placebo and efficacy comparable to tamsulosin and short-term finasteride,
+      with better sexual-function tolerability; this contrasts with the null finding for pooled mixed extracts
+    reference_ids:
+    - REF-0571
+    - REF-0572
+    status: needs-review
   - action: General urinary support (traditional)
     reference_ids:
     - REF-0496
@@ -42,6 +49,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane systematic review/meta-analysis;
   Canadian Journal of Urology review). High-quality evidence finds no benefit over placebo, reflected
   in needs-review action statuses. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (prostate-support, uti); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  Lookup tool (prostate-support, uti); associations retained and now part-mapped and cited. Further enriched
+  2026-06-14 with two PubMed-sourced meta-analyses of the hexanic extract Permixon (REF-0571, REF-0572)
+  reporting symptom benefit and good tolerability; these are extract-specific and partly industry-linked,
+  so the conflict with the pooled Cochrane null is flagged needs-review rather than overriding it.
+last_updated: '2026-06-14'
 status: verified

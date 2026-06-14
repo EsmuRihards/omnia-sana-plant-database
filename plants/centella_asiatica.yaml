@@ -17,11 +17,18 @@ parts_used:
       veins and reduces leg swelling
     reference_ids:
     - REF-0458
+    - REF-0569
+    - REF-0570
     status: verified
   - action: Cognitive and memory support; neuroprotective
     reference_ids:
     - REF-0457
     status: verified
+  - action: Improves alertness and mood (raises alertness, reduces anger); a meta-analysis found no significant
+      improvement in specific cognitive-function domains versus placebo
+    reference_ids:
+    - REF-0568
+    status: needs-review
   - action: Anxiolytic / calming (anxiety)
     reference_ids:
     - REF-0457
@@ -56,6 +63,10 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside;
   Panminerva Medica status paper on titrated Centella extract). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (wounds, anxiety, memory, varicose-veins, cognitive-function);
-  associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  associations retained and now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced
+  reviews - a chronic-venous-insufficiency systematic review (REF-0569) and the Cochrane phlebotonics review
+  that includes Centella among agents reducing leg oedema (REF-0570) support the venous action, while a
+  cognition/mood meta-analysis (REF-0568) found improved alertness and reduced anger but no significant
+  cognitive-domain benefit (added as a needs-review qualifier).
+last_updated: '2026-06-14'
 status: verified

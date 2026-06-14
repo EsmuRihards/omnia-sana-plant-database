@@ -12,6 +12,7 @@ parts_used:
     reference_ids:
     - REF-0476
     - REF-0477
+    - REF-0625
     status: verified
   - action: Sebaceous-gland regulator - helps balance skin oil (acne)
     reference_ids:
@@ -55,5 +56,7 @@ internal_notes: Enriched 2026-06-12 from general phytotherapy literature (Herbal
   monographs). Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database
   already contains A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (eczema, acne, skin-irritation, detox); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  Further enriched 2026-06-14 with a PubMed-sourced pharmacological review of the better-studied congener
+  Arctium lappa (REF-0625), whose root supports the traditional skin/alterative use and antioxidant activity.
+last_updated: '2026-06-14'
 status: verified

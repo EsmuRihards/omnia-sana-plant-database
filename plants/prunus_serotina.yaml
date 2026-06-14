@@ -32,6 +32,11 @@ constituents:
   note: Astringent and aromatic supporting constituents.
   reference_ids:
   - REF-0525
+- name: Flavanones (naringenin) and methoxylated benzene derivatives
+  note: Bio-guided fractionation of the bark identified naringenin and trimethoxy-benzene/benzoic-acid compounds;
+    the bark extract also showed antiparasitic (cysticidal) activity in laboratory studies.
+  reference_ids:
+  - REF-0628
 contraindications:
 - note: 'Contains cyanogenic compounds: use only properly dried, prepared bark and avoid large or prolonged
     doses (fresh bark has a higher toxic content). It suppresses the cough reflex, so it suits dry, unproductive
@@ -46,6 +51,9 @@ contraindications:
   status: verified
 internal_notes: Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and The Herbal
   Medic monographs). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
-  (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited. Further enriched
+  2026-06-14 with a PubMed-sourced bio-guided phytochemical study of Prunus serotina bark (REF-0628) that
+  identified naringenin and methoxylated benzene derivatives; this characterises bark constituents (its
+  headline activity is antiparasitic, not antitussive).
+last_updated: '2026-06-14'
 status: verified

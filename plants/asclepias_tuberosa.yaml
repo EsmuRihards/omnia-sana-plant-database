@@ -34,10 +34,12 @@ constituents:
   - REF-0495
 contraindications:
 - note: 'Contains cardiac glycosides: do NOT use in pregnancy, breastfeeding or infancy, in anyone with
-    a heart condition, or alongside cardiac glycoside medicines (e.g. digoxin).'
+    a heart condition, or alongside cardiac glycoside medicines (e.g. digoxin). The plant''s cardenolide-rich
+    latex is directly toxic - a documented case caused corneal injury through Na/K-ATPase inhibition.'
   reference_ids:
   - REF-0494
   - REF-0495
+  - REF-0626
   status: verified
 - note: Large doses are emetic and purgative (cause vomiting and diarrhoea). There is very little modern
     safety or efficacy data, so use only under the guidance of a qualified practitioner.
@@ -47,6 +49,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from general herbal literature (traditional monographs). Record status
   set to needs-review because Asclepias tuberosa contains cardiac glycosides and has essentially no modern
   clinical evidence. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
-  (bronchitis, cough, fever); associations retained and now part-mapped and cited.
+  (bronchitis, cough, fever); associations retained and now part-mapped and cited. Further enriched 2026-06-14
+  with a PubMed-sourced clinical case report of corneal toxicity from A. tuberosa latex (REF-0626), reinforcing
+  the cardiac-glycoside safety caution; efficacy evidence remains essentially absent.
 last_updated: '2026-06-12'
 status: needs-review

@@ -12,9 +12,11 @@ parts_used:
     reference_ids:
     - REF-0516
     status: needs-review
-  - action: Traditional nervine for memory and concentration (preclinical neuroprotective activity)
+  - action: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
+      and antidepressant-like activity)
     reference_ids:
     - REF-0516
+    - REF-0624
     status: needs-review
 constituents:
 - name: Phenylpropanoid asarones (alpha- and beta-asarone)
@@ -44,6 +46,8 @@ internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Appli
   toxicology review; Phytochemistry systematic review). Record status set to needs-review because beta-asarone
   carries documented carcinogenicity and regulatory restrictions. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced review of Acorus
+  calamus in neurological and metabolic disorders (REF-0624) supporting the preclinical nervine/neuroprotective
+  activity.
+last_updated: '2026-06-14'
 status: needs-review

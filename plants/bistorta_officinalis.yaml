@@ -24,9 +24,10 @@ parts_used:
     - REF-0410
     - REF-0411
     status: verified
-  - action: Antibacterial (topical)
+  - action: Antibacterial (topical) - GC-MS-characterised extracts showed antibacterial activity
     reference_ids:
     - REF-0410
+    - REF-0627
     status: verified
 constituents:
 - name: 'Tannins (15-36% of the rhizome: oligomeric proanthocyanidins, gallotannins, catechins)'
@@ -60,6 +61,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific and general literature (Journal of Ethnopharmacology
   activity study; WebMD monograph). Bistorta officinalis = Persicaria bistorta = Polygonum bistorta. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, wounds);
-  associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
+  GC-MS study of Persicaria bistorta that characterised its constituents and confirmed antibacterial activity
+  (REF-0627).
+last_updated: '2026-06-14'
 status: verified

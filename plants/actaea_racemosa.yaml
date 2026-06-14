@@ -8,9 +8,11 @@ family: Ranunculaceae
 parts_used:
 - name: Root and rhizome
   medicinal_actions:
-  - action: Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance
+  - action: Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
+      supports benefit, though an earlier systematic review judged the evidence inconsistent)
     reference_ids:
     - REF-0415
+    - REF-0623
     status: verified
   - action: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
     reference_ids:
@@ -50,6 +52,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative
   Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced systematic
+  review (Borrelli & Ernst) that found the evidence for efficacy on menopausal symptoms inconsistent (REF-0623),
+  added as a balancing counterpoint to the positive meta-analysis.
+last_updated: '2026-06-14'
 status: verified

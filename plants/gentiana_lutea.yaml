@@ -17,6 +17,7 @@ parts_used:
     reference_ids:
     - REF-0453
     - REF-0454
+    - REF-0580
     status: verified
   - action: Eases nausea linked to sluggish digestion (traditional)
     reference_ids:
@@ -25,9 +26,13 @@ parts_used:
 constituents:
 - name: Secoiridoid bitter glycosides (gentiopicroside, amarogentin, swertiamarin)
   note: Amarogentin is one of the bitterest natural compounds known; these stimulate digestive secretions.
+    Genus-level reviews identify these secoiridoids, together with xanthones and flavonoids, as the main
+    bioactives and report gastrointestinal, hepatoprotective and anti-inflammatory activity.
   reference_ids:
   - REF-0453
   - REF-0454
+  - REF-0580
+  - REF-0581
 - name: Xanthones (gentisin) and flavonoids
   note: Pigment and antioxidant constituents.
   reference_ids:
@@ -51,6 +56,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Gentianae radix; Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss,
-  nausea); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  nausea); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with two PubMed-sourced
+  genus Gentiana phytochemistry/pharmacology reviews (REF-0580, REF-0581); these are genus-level (G. lutea
+  is the type species), cited here for constituent characterisation and the digestive-secretion action.
+last_updated: '2026-06-14'
 status: verified

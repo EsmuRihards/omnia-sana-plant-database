@@ -12,6 +12,7 @@ parts_used:
     reference_ids:
     - REF-0472
     - REF-0473
+    - REF-0575
     status: verified
   - action: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
     reference_ids:
@@ -42,6 +43,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (two clinical effectiveness studies of
   standardised ivy-leaf extract in acute bronchitis / productive cough). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis); associations retained and now
-  part-mapped and cited.
-last_updated: '2026-06-12'
+  part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced randomized, double-blind, placebo-controlled
+  multicentre trial of the EA 575 ivy-leaf extract in adults with acute cough, showing a significant,
+  clinically relevant reduction in cough severity with onset within 48 hours (REF-0575).
+last_updated: '2026-06-14'
 status: verified

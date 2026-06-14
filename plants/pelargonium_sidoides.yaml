@@ -12,6 +12,7 @@ parts_used:
     reference_ids:
     - REF-0492
     - REF-0493
+    - REF-0576
     status: verified
   - action: Common cold and acute respiratory tract infection
     reference_ids:
@@ -24,7 +25,8 @@ parts_used:
   - action: Rhinosinusitis (sinusitis) support
     reference_ids:
     - REF-0492
-    status: needs-review
+    - REF-0577
+    status: verified
   - action: Antiviral and immunomodulatory (mechanism of action)
     reference_ids:
     - REF-0493
@@ -54,6 +56,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Int J Gen Med and Wien Med Wochenschr
   reviews of the standardised root extract EPs 7630). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bronchitis, cold, sore-throat, sinusitis); associations retained and now
-  part-mapped and cited.
-last_updated: '2026-06-12'
+  part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced systematic reviews - a meta-analysis
+  showing EPs 7630 reduces acute-bronchitis symptom scores by day 7 versus placebo (REF-0576) and a systematic
+  review of phytotherapy for acute rhinosinusitis in which EPs 7630 appeared useful (REF-0577; rhinosinusitis
+  action upgraded to verified).
+last_updated: '2026-06-14'
 status: verified

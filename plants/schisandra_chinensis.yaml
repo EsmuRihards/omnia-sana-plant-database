@@ -16,6 +16,7 @@ parts_used:
   - action: Hepatoprotective / liver support (antioxidant and mitoprotective)
     reference_ids:
     - REF-0505
+    - REF-0583
     status: verified
   - action: Cognitive-function support (concentration and mental performance)
     reference_ids:
@@ -25,6 +26,10 @@ parts_used:
   - action: Antioxidant and anti-inflammatory
     reference_ids:
     - REF-0505
+    status: verified
+  - action: Relieves menopausal symptoms - hot flushes, sweating and palpitations (RCT)
+    reference_ids:
+    - REF-0582
     status: verified
 constituents:
 - name: Dibenzocyclooctadiene lignans (schisandrins, schisandrin B, gomisins)
@@ -36,11 +41,14 @@ constituents:
   reference_ids:
   - REF-0505
 contraindications:
-- note: Generally well tolerated; mild gastrointestinal upset or heartburn can occur. It can induce liver
-    enzymes (CYPs), so there is a potential to alter the levels of some medicines.
+- note: Generally well tolerated; mild gastrointestinal upset or heartburn can occur. It affects drug-metabolising
+    enzymes and transporters - inhibition of CYP3A and P-glycoprotein is documented (with enzyme induction
+    also reported on prolonged use) - so there is a real potential to alter the levels of co-administered
+    medicines.
   reference_ids:
   - REF-0506
   - REF-0505
+  - REF-0583
   status: verified
 - note: Traditionally avoided in pregnancy (uterine-stimulant reputation) and in epilepsy, peptic ulcer
     and raised intracranial pressure.
@@ -50,6 +58,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Antioxidants review of Schisandra; Nutrients
   adaptogens review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (fatigue, stress, liver-support, cognitive-function); associations retained and now part-mapped
-  and cited.
-last_updated: '2026-06-12'
+  and cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind RCT showing relief of menopausal
+  symptoms (REF-0582) and a comprehensive ethnopharmacology/pharmacology review (REF-0583) that also documents
+  CYP3A and P-glycoprotein inhibition, refining the drug-interaction caution.
+last_updated: '2026-06-14'
 status: verified

@@ -15,7 +15,14 @@ parts_used:
   - action: 'Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks)'
     reference_ids:
     - REF-0422
+    - REF-0573
+    - REF-0574
     status: verified
+  - action: Reduces inflammatory markers (e.g. hs-CRP) and, in one RCT, improved knee joint-space and reduced
+      osteophytes on radiograph
+    reference_ids:
+    - REF-0573
+    status: needs-review
   - action: Supports inflammatory arthritis including rheumatoid arthritis
     reference_ids:
     - REF-0423
@@ -57,6 +64,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   osteoarthritis meta-analysis; review of boswellic acids in chronic inflammatory disease). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (inflammation, arthritis, asthma,
-  pain, ibd); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  pain, ibd); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced
+  evidence - a double-blind RCT in knee osteoarthritis with radiographic and hs-CRP outcomes (REF-0573)
+  and an independent systematic review/meta-analysis of supplements for osteoarthritis that ranked Boswellia
+  among the few with a large short-term effect on pain (REF-0574).
+last_updated: '2026-06-14'
 status: verified

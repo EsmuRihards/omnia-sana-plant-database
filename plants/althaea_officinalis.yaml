@@ -22,9 +22,12 @@ parts_used:
     reference_ids:
     - REF-0481
     status: verified
-  - action: Antitussive (calms dry, irritating cough)
+  - action: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
+      the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation
     reference_ids:
     - REF-0481
+    - REF-0578
+    - REF-0579
     status: verified
   - action: Topical soothing for irritated skin
     reference_ids:
@@ -32,9 +35,11 @@ parts_used:
     status: needs-review
 constituents:
 - name: Mucilage polysaccharides (rhamnogalacturonans, arabinans, glucans, arabinogalactans)
-  note: The principal soothing, film-forming constituents.
+  note: The principal soothing, film-forming constituents; the isolated rhamnogalacturonan also shows direct
+    antitussive activity in animal models.
   reference_ids:
   - REF-0481
+  - REF-0578
 - name: Flavonoids and phenolic acids
   note: Antioxidant constituents.
   reference_ids:
@@ -58,6 +63,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Althaeae radix; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, acid-reflux, skin-irritation); associations retained and
-  now part-mapped and cited.
-last_updated: '2026-06-12'
+  now part-mapped and cited. Further enriched 2026-06-14 with two PubMed-sourced preclinical (guinea-pig)
+  studies showing the root rhamnogalacturonan suppresses the cough reflex dose-dependently and comparably
+  to codeine, acting via 5-HT2 receptors (REF-0578, REF-0579); clinical antitussive data for marshmallow
+  remain limited.
+last_updated: '2026-06-14'
 status: verified

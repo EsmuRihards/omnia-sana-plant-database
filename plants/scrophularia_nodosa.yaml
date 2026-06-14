@@ -22,6 +22,11 @@ parts_used:
     reference_ids:
     - REF-0452
     status: needs-review
+  - action: Antispasmodic / smooth-muscle relaxant (preclinical - an extract relaxed isolated intestinal
+      smooth muscle, apparently via muscarinic receptors)
+    reference_ids:
+    - REF-0630
+    status: needs-review
 constituents:
 - name: Iridoid glycosides (aucubin, harpagoside, harpagide, catalpol)
   note: Anti-inflammatory constituents; harpagoside also has cardiac (inotropic) activity.
@@ -51,6 +56,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from general literature (WebMD and herbal monographs); Scrophularia
   nodosa is not covered by clinical trials, so efficacy actions are needs-review. Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, psoriasis, skin-irritation); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced phytochemical/pharmacological
+  study of S. nodosa that isolated seven flavonoids and demonstrated smooth-muscle-relaxant (spasmolytic)
+  activity on isolated intestine (REF-0630).
+last_updated: '2026-06-14'
 status: verified

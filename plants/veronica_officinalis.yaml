@@ -9,10 +9,12 @@ parts_used:
 - name: Aerial parts (flowering herb)
   medicinal_actions:
   - action: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
-      inflammation)
+      inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human
+      lung epithelial cells
     reference_ids:
     - REF-0513
     - REF-0514
+    - REF-0632
     status: needs-review
   - action: Mild digestive / stomach tonic (indigestion)
     reference_ids:
@@ -50,5 +52,8 @@ internal_notes: Enriched 2026-06-12 from scientific and general literature (Fron
   authentication/phytochemistry study; HerbaZest monograph). Speedwell is poorly covered by clinical trials,
   so most actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, indigestion, skin-irritation); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  Further enriched 2026-06-14 with a PubMed-sourced study showing a standardised Veronica officinalis extract
+  inhibits proinflammatory mediators (COX-2, eotaxin) via NF-kB in a human lung cell line (REF-0632), giving
+  a molecular rationale for the traditional respiratory use.
+last_updated: '2026-06-14'
 status: verified

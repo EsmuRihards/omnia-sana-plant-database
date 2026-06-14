@@ -16,6 +16,7 @@ parts_used:
   - action: Anti-inflammatory (cyclooxygenase-2 inhibition) and antioxidant
     reference_ids:
     - REF-0479
+    - REF-0629
     status: verified
 constituents:
 - name: Phenolic acids (rosmarinic, lithospermic and salvianolic acids)
@@ -45,6 +46,7 @@ internal_notes: Enriched 2026-06-12 from scientific literature (Molecules study 
   profiling study (REF-0549, Krzyzanowska-Kowalczyk et al. 2018). Lungwort is poorly covered by clinical
   trials, so respiratory actions remain needs-review. Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (cough, bronchitis, sore-throat); associations retained and now part-mapped
-  and cited.
-last_updated: '2026-06-13'
+  and cited. Further enriched 2026-06-14 with a PubMed-sourced study isolating yunnaneic acid B from P.
+  officinalis and demonstrating its antioxidant (peroxynitrite-scavenging) activity (REF-0629).
+last_updated: '2026-06-14'
 status: verified

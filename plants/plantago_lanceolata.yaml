@@ -14,9 +14,12 @@ parts_used:
     - REF-0499
     - REF-0500
     status: verified
-  - action: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat)
+  - action: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in
+      vitro the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its
+      traditional respiratory anti-inflammatory use
     reference_ids:
     - REF-0499
+    - REF-0633
     status: verified
   - action: Vulnerary for minor wounds and insect bites (topical)
     reference_ids:
@@ -54,6 +57,9 @@ contraindications:
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs).
   Note: distinct from the book''s Plantago major (greater plantain). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, wounds, inflammation, bronchitis);
-  associations retained and now part-mapped and cited.'
-last_updated: '2026-06-12'
+  associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
+  in-vitro study showing Plantago lanceolata extract inhibits nitric oxide production and inducible NOS
+  expression in macrophages (REF-0633), a molecular basis for its traditional respiratory anti-inflammatory
+  use.'
+last_updated: '2026-06-14'
 status: verified

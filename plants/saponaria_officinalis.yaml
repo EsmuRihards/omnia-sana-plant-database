@@ -21,10 +21,13 @@ parts_used:
     status: needs-review
 constituents:
 - name: Triterpenoid saponins (up to ~5%; e.g. saponarioside, vaccaroside)
-  note: Surfactant compounds giving the soapy, expectorant and irritant properties.
+  note: Surfactant compounds giving the soapy, expectorant and irritant properties; their surface activity
+    has been confirmed experimentally, with Saponaria officinalis saponins forming stable oil-in-water
+    nanoemulsions.
   reference_ids:
   - REF-0511
   - REF-0512
+  - REF-0631
 - name: Flavonoids, vitamin C and resin
   note: Supporting constituents of the root.
   reference_ids:
@@ -45,6 +48,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record
   status set to needs-review because the saponins carry a real haemolysis/irritation risk and the internal
   use is largely outdated. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
-  tool (cough, skin-irritation); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  tool (cough, skin-irritation); associations retained and now part-mapped and cited. Further enriched
+  2026-06-14 with a PubMed-sourced study demonstrating the surfactant/emulsifying behaviour of Saponaria
+  officinalis saponins (REF-0631), the physicochemical basis of its traditional "natural soap" use.
+last_updated: '2026-06-14'
 status: needs-review

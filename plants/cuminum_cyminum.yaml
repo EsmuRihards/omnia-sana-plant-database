@@ -54,6 +54,7 @@ parts_used:
     - REF-0286
     - REF-0294
     - REF-0307
+    - REF-0657
     status: verified
   - action: Antioxidant
     reference_ids:
@@ -77,6 +78,7 @@ parts_used:
     - REF-0286
     - REF-0294
     - REF-0307
+    - REF-0657
     status: verified
   - action: Antispasmodic (cramp easing)
     reference_ids:
@@ -100,6 +102,7 @@ parts_used:
     - REF-0286
     - REF-0294
     - REF-0307
+    - REF-0656
     status: verified
   - action: Digestive Aid
     reference_ids:
@@ -123,6 +126,7 @@ parts_used:
     - REF-0286
     - REF-0294
     - REF-0307
+    - REF-0656
     status: verified
   - action: Metabolic support
     reference_ids:
@@ -146,8 +150,18 @@ parts_used:
     - REF-0286
     - REF-0294
     - REF-0307
+    - REF-0652
+    - REF-0653
+    - REF-0654
+    - REF-0655
     status: verified
-constituents: []
+constituents:
+- name: Cuminaldehyde
+  note: Cuminaldehyde (4-isopropylbenzaldehyde) is the dominant constituent of cumin-seed essential oil
+    (around two-thirds of the oil) and the main driver of its antimicrobial, antifungal (anti-aflatoxigenic)
+    and antioxidant activity.
+  reference_ids:
+  - REF-0657
 contraindications:
 - note: Food amounts are generally considered safe; in the US it’s listed as GRAS as a spice/flavoring
     (LactMed, 2025).
@@ -228,6 +242,10 @@ contraindications:
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies (REF-0652..REF-0657):
+  meta-analyses on lipids (REF-0652) and glycaemic parameters (REF-0653 positive, REF-0654 null - the
+  glycaemic evidence is mixed), a metabolic-syndrome essential-oil RCT (REF-0655), a post-operative bowel-motility
+  RCT (REF-0656), and an essential-oil antifungal/antioxidant study identifying cuminaldehyde (REF-0657);
+  cuminaldehyde constituent added.'
+last_updated: '2026-06-14'
 status: verified

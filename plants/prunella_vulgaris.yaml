@@ -12,38 +12,65 @@ parts_used:
     - REF-0098
     - REF-0200
     - REF-0314
+    - REF-0658
+    - REF-0659
+    - REF-0660
     status: verified
   - action: Antimicrobial
     reference_ids:
     - REF-0098
     - REF-0200
     - REF-0314
+    - REF-0659
     status: verified
   - action: Antioxidant
     reference_ids:
     - REF-0098
     - REF-0200
     - REF-0314
+    - REF-0659
     status: verified
   - action: Antiviral
     reference_ids:
     - REF-0098
     - REF-0200
     - REF-0314
+    - REF-0660
+    - REF-0661
+    - REF-0662
+    - REF-0663
     status: verified
   - action: Immune Support
     reference_ids:
     - REF-0098
     - REF-0200
     - REF-0314
+    - REF-0658
+    - REF-0660
+    - REF-0663
     status: verified
   - action: Wound Healing
     reference_ids:
     - REF-0098
     - REF-0200
     - REF-0314
+    - REF-0659
     status: verified
-constituents: []
+constituents:
+- name: Triterpenoids and phenolic acids
+  note: Pentacyclic triterpenoids (ursolic, oleanolic and betulinic acids), the phenolic acid rosmarinic
+    acid, coumarins (umbelliferone, scopoletin, esculetin) and the flavonoid luteolin are the main bioactives
+    behind self-heal's antioxidant, anti-inflammatory and antimicrobial activity.
+  reference_ids:
+  - REF-0659
+- name: Sulphated and polyphenol-conjugated polysaccharides
+  note: Water-extracted polysaccharides — including a partially sulphated arabinogalactomannan (PSP-2B)
+    and polyphenolic-protein-polysaccharide conjugates (PVG/PVE30) — are the principal antiviral and immunomodulatory
+    constituents, blocking herpes simplex virus attachment and modulating innate immune signalling.
+  reference_ids:
+  - REF-0660
+  - REF-0661
+  - REF-0662
 contraindications:
 - note: Generally very safe and well tolerated. No significant known toxicity or drug interactions. Safe
     for topical and internal use in normal medicinal doses. Suitable for most adults including children
@@ -67,6 +94,10 @@ contraindications:
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies (REF-0658..REF-0663):
+  a spontaneous-colitis model showing anti-inflammatory/immune activity (REF-0658), a comprehensive phytochemistry/pharmacology
+  review (REF-0659), and four polysaccharide studies establishing anti-herpes-simplex-virus and innate-immune
+  mechanisms (REF-0660, REF-0661, REF-0662, REF-0663); triterpenoid/phenolic and polysaccharide constituents
+  added.'
+last_updated: '2026-06-14'
 status: verified

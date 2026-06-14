@@ -12,36 +12,47 @@ parts_used:
     - REF-0006
     - REF-0101
     - REF-0136
+    - REF-0667
+    - REF-0669
     status: verified
   - action: Antidiabetic
     reference_ids:
     - REF-0006
     - REF-0101
     - REF-0136
+    - REF-0664
+    - REF-0665
+    - REF-0667
     status: verified
   - action: Antifungal
     reference_ids:
     - REF-0006
     - REF-0101
     - REF-0136
+    - REF-0668
     status: verified
   - action: Antimicrobial
     reference_ids:
     - REF-0006
     - REF-0101
     - REF-0136
+    - REF-0668
     status: verified
   - action: Antioxidant
     reference_ids:
     - REF-0006
     - REF-0101
     - REF-0136
+    - REF-0667
     status: verified
   - action: Cardiovascular Health
     reference_ids:
     - REF-0006
     - REF-0101
     - REF-0136
+    - REF-0665
+    - REF-0666
+    - REF-0667
     status: verified
   - action: Digestive Aid
     reference_ids:
@@ -49,7 +60,20 @@ parts_used:
     - REF-0101
     - REF-0136
     status: verified
-constituents: []
+constituents:
+- name: Cinnamaldehyde
+  note: Trans-cinnamaldehyde is the principal constituent of cinnamon bark essential oil and the main
+    driver of its antimicrobial, antifungal (anti-Candida) and anti-inflammatory activity, acting partly
+    by damaging microbial cell membranes and inhibiting NF-kB signalling.
+  reference_ids:
+  - REF-0668
+  - REF-0669
+- name: Coumarin (species caution)
+  note: Cassia cinnamon (C. cassia) contains high levels of coumarin, which is potentially hepatotoxic
+    in excess; true Ceylon cinnamon (C. verum) contains only trace coumarin and is the safer culinary/medicinal
+    choice. Several pooled clinical and antimicrobial studies do not distinguish the two species.
+  reference_ids:
+  - REF-0668
 contraindications:
 - note: True cinnamon (C. verum) is safe in culinary and moderate medicinal doses. Cassia (C. cassia)
     contains high coumarin — excessive intake may be hepatotoxic and should not be confused with true
@@ -76,6 +100,10 @@ contraindications:
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies (REF-0664..REF-0669):
+  type-2-diabetes glycaemic meta-analyses (REF-0664, REF-0665), lipid and cardiovascular-risk meta-analyses
+  (REF-0666, REF-0667), and cinnamaldehyde antifungal/anti-tumour mechanism studies (REF-0668, REF-0669);
+  cinnamaldehyde and coumarin (species-caution) constituents added. Note: several pooled meta-analyses and
+  the C. cassia antifungal study (REF-0668) do not isolate C. verum specifically.'
+last_updated: '2026-06-14'
 status: verified

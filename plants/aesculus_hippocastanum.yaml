@@ -13,9 +13,11 @@ parts_used:
     - REF-0470
     - REF-0471
     status: verified
-  - action: Anti-oedematous and anti-inflammatory
+  - action: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
+      and exerts venotonic effects on veins
     reference_ids:
     - REF-0471
+    - REF-0590
     status: verified
   - action: Relief of haemorrhoid symptoms (venotonic)
     reference_ids:
@@ -24,10 +26,12 @@ parts_used:
 constituents:
 - name: Triterpene saponins (escin / aescin)
   note: The active mixture responsible for the venotonic and anti-oedematous effects; extracts are standardised
-    to it.
+    to it. Escin is available as oral drages and a transdermal gel, with efficacy shown in chronic venous
+    insufficiency and blunt-trauma injury.
   reference_ids:
   - REF-0471
   - REF-0470
+  - REF-0590
 - name: Flavonoids and coumarins (aesculin)
   note: Supporting constituents of the seed.
   reference_ids:
@@ -46,6 +50,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed
   extract for CVI; Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained
-  and now part-mapped and cited.
-last_updated: '2026-06-12'
+  and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced pharmacological/clinical
+  review of escin's anti-edematous, anti-inflammatory and venotonic properties (REF-0590; reduced vascular
+  permeability, efficacy in CVI and blunt trauma).
+last_updated: '2026-06-14'
 status: verified

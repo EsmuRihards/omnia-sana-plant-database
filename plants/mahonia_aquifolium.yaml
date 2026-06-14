@@ -8,9 +8,11 @@ family: Berberidaceae
 parts_used:
 - name: Root (and bark/wood)
   medicinal_actions:
-  - action: Topical treatment of mild-to-moderate psoriasis (reduces plaque severity)
+  - action: Topical treatment of mild-to-moderate psoriasis (reduces plaque severity) - a double-blind,
+      placebo-controlled RCT showed significant improvement in PASI and quality-of-life scores
     reference_ids:
     - REF-0487
+    - REF-0591
     status: verified
   - action: Topical for atopic dermatitis (eczema) and skin irritation
     reference_ids:
@@ -45,6 +47,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific and general literature (J Clin Aesthet Dermatol review
   of topical Mahonia for psoriasis/eczema; Herbal Reality monograph). Mahonia aquifolium = Berberis aquifolium.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (psoriasis, eczema,
-  skin-irritation, infection); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  skin-irritation, infection); associations retained and now part-mapped and cited. Further enriched 2026-06-14
+  with a PubMed-sourced double-blind, placebo-controlled RCT of a topical Mahonia aquifolium cream showing
+  significant PASI and quality-of-life improvement in mild-to-moderate psoriasis (REF-0591).
+last_updated: '2026-06-14'
 status: verified

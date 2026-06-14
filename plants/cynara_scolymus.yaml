@@ -21,9 +21,12 @@ parts_used:
     reference_ids:
     - REF-0461
     status: verified
-  - action: Lipid-lowering - helps reduce cholesterol
+  - action: Lipid-lowering - helps reduce cholesterol (an RCT showed lower total and LDL cholesterol and
+      higher HDL; a Cochrane review judged the overall evidence promising but not yet convincing)
     reference_ids:
     - REF-0461
+    - REF-0584
+    - REF-0585
     status: verified
   - action: Supports irritable bowel syndrome (IBS) symptoms
     reference_ids:
@@ -56,6 +59,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (Plant Foods for Human Nutrition
   pharmacological review; EMA HMPC monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (indigestion, bloating, liver-support, high-cholesterol, ibs); associations retained and
-  now part-mapped and cited.
-last_updated: '2026-06-12'
+  now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced evidence on the lipid action
+  - a Cochrane review of artichoke leaf extract for hypercholesterolaemia (REF-0584; promising but not
+  yet convincing) and a double-blind RCT showing increased HDL and reduced total/LDL cholesterol (REF-0585).
+last_updated: '2026-06-14'
 status: verified

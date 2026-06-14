@@ -12,6 +12,7 @@ parts_used:
     reference_ids:
     - REF-0509
     - REF-0506
+    - REF-0587
     status: verified
   - action: Cognitive-function and mental-performance support
     reference_ids:
@@ -21,12 +22,19 @@ parts_used:
     reference_ids:
     - REF-0509
     - REF-0506
+    - REF-0587
     status: verified
+  - action: Preclinical neuroprotective and antidiabetic (glucose-regulating) activity
+    reference_ids:
+    - REF-0587
+    status: needs-review
 constituents:
 - name: Eleutherosides (B and E - lignan and phenylpropanoid glycosides)
-  note: The principal marker compounds of the root.
+  note: The principal marker compounds of the root; together with saponins, flavonoids and polysaccharides
+    they underlie the adaptogenic, immunostimulatory and neuroprotective activity.
   reference_ids:
   - REF-0509
+  - REF-0587
 - name: Polysaccharides
   note: Immunomodulatory constituents.
   reference_ids:
@@ -46,6 +54,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Holistic Nursing Practice review; Nutrients
   adaptogens review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (fatigue, stress, cognitive-function, immune-support); associations retained and now part-mapped and
-  cited.
-last_updated: '2026-06-12'
+  cited. Further enriched 2026-06-14 with a PubMed-sourced comprehensive review of E. senticosus phytochemistry
+  and pharmacology (REF-0587) supporting the adaptogenic and immunomodulatory actions and adding preclinical
+  neuroprotective/antidiabetic activity (needs-review).
+last_updated: '2026-06-14'
 status: verified

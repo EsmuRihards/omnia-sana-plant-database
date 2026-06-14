@@ -17,6 +17,8 @@ parts_used:
     - REF-0255
     - REF-0269
     - REF-0295
+    - REF-0637
+    - REF-0638
     status: verified
   - action: Antioxidant
     reference_ids:
@@ -39,6 +41,7 @@ parts_used:
     - REF-0255
     - REF-0269
     - REF-0295
+    - REF-0636
     status: verified
   - action: Cardiovascular Health
     reference_ids:
@@ -50,6 +53,7 @@ parts_used:
     - REF-0255
     - REF-0269
     - REF-0295
+    - REF-0639
     status: verified
   - action: Digestive Aid
     reference_ids:
@@ -61,6 +65,8 @@ parts_used:
     - REF-0255
     - REF-0269
     - REF-0295
+    - REF-0634
+    - REF-0635
     status: verified
   - action: Pain Relief
     reference_ids:
@@ -72,6 +78,9 @@ parts_used:
     - REF-0255
     - REF-0269
     - REF-0295
+    - REF-0636
+    - REF-0637
+    - REF-0638
     status: verified
   - action: Respiratory Support
     reference_ids:
@@ -84,7 +93,14 @@ parts_used:
     - REF-0269
     - REF-0295
     status: verified
-constituents: []
+constituents:
+- name: Gingerols and shogaols
+  note: The pungent phenolic constituents of the rhizome (notably 6-gingerol, which dehydrates to 6-shogaol
+    on drying) responsible for ginger's antiemetic and anti-inflammatory activity; a standardized regimen
+    of 84 mg/day gingerols/shogaols was effective against chemotherapy-induced nausea.
+  reference_ids:
+  - REF-0634
+  - REF-0637
 contraindications:
 - note: Ginger is widely considered safe at culinary and conventional supplemental doses. At high doses
     (>5 g/day), ginger may cause heartburn, acid reflux, mouth irritation, and mild gastrointestinal discomfort.
@@ -136,6 +152,10 @@ contraindications:
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies (REF-0634..REF-0639):
+  an RCT and meta-analyses for chemotherapy- and pregnancy-related nausea (REF-0634, REF-0635), a primary-dysmenorrhoea
+  pain meta-analysis (REF-0636), two osteoarthritis supplement meta-analyses showing reduced pain and
+  inflammatory markers (REF-0637, REF-0638), and a type-2-diabetes meta-analysis showing improved HbA1c
+  (REF-0639); gingerol/shogaol constituents added.'
+last_updated: '2026-06-14'
 status: verified

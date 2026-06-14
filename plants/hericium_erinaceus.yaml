@@ -11,26 +11,47 @@ parts_used:
     - REF-0157
     - REF-0170
     - REF-0179
+    - REF-0642
+    - REF-0643
     status: verified
   - action: Cognitive support
     reference_ids:
     - REF-0157
     - REF-0170
     - REF-0179
+    - REF-0640
+    - REF-0641
+    - REF-0642
     status: verified
   - action: Digestive Aid
     reference_ids:
     - REF-0157
     - REF-0170
     - REF-0179
+    - REF-0643
+    - REF-0645
     status: verified
   - action: Immune Support
     reference_ids:
     - REF-0157
     - REF-0170
     - REF-0179
+    - REF-0644
     status: verified
-constituents: []
+constituents:
+- name: Erinacines and hericenones
+  note: Diterpenoid erinacines (concentrated in the mycelium) and aromatic hericenones (in the fruiting
+    body) are the signature low-molecular-weight compounds that stimulate nerve growth factor synthesis
+    and underlie the mushroom's neurotrophic and neuroprotective effects.
+  reference_ids:
+  - REF-0642
+- name: Polysaccharides (beta-glucans)
+  note: High-molecular-weight fruiting-body and mycelial polysaccharides with immunomodulatory, anti-inflammatory
+    and prebiotic activity — alleviating ulcerative colitis, activating macrophages and supporting gut
+    microbiota.
+  reference_ids:
+  - REF-0643
+  - REF-0644
 contraindications:
 - note: Mild gastrointestinal upset (nausea, bloating, diarrhoea) is the most common side effect. Rare
     allergic reactions can occur, particularly in individuals sensitive to mushrooms, and it may slightly
@@ -51,6 +72,10 @@ contraindications:
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies (REF-0640..REF-0645):
+  two randomised controlled trials of cognition/mood in healthy adults (REF-0640, REF-0641), a neurotrophic/neuroprotective
+  review of erinacines and hericenones (REF-0642), polysaccharide studies on ulcerative colitis and macrophage
+  immunomodulation (REF-0643, REF-0644), and clinical/preclinical evidence in chronic atrophic gastritis
+  and Helicobacter pylori (REF-0645); erinacine/hericenone and polysaccharide constituents added.'
+last_updated: '2026-06-14'
 status: verified

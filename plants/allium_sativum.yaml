@@ -15,6 +15,7 @@ parts_used:
     - REF-0204
     - REF-0209
     - REF-0312
+    - REF-0648
     status: verified
   - action: Antidiabetic
     reference_ids:
@@ -24,6 +25,7 @@ parts_used:
     - REF-0204
     - REF-0209
     - REF-0312
+    - REF-0648
     status: verified
   - action: Antifungal
     reference_ids:
@@ -33,6 +35,7 @@ parts_used:
     - REF-0204
     - REF-0209
     - REF-0312
+    - REF-0650
     status: verified
   - action: Antimicrobial
     reference_ids:
@@ -42,6 +45,8 @@ parts_used:
     - REF-0204
     - REF-0209
     - REF-0312
+    - REF-0650
+    - REF-0651
     status: verified
   - action: Antioxidant
     reference_ids:
@@ -51,6 +56,7 @@ parts_used:
     - REF-0204
     - REF-0209
     - REF-0312
+    - REF-0649
     status: verified
   - action: Cardiovascular Health
     reference_ids:
@@ -60,6 +66,10 @@ parts_used:
     - REF-0204
     - REF-0209
     - REF-0312
+    - REF-0646
+    - REF-0647
+    - REF-0648
+    - REF-0649
     status: verified
   - action: Immune Support
     reference_ids:
@@ -69,8 +79,18 @@ parts_used:
     - REF-0204
     - REF-0209
     - REF-0312
+    - REF-0646
     status: verified
-constituents: []
+constituents:
+- name: Allicin and organosulfur compounds (ajoene, S-allyl-cysteine)
+  note: Allicin (diallyl thiosulfinate), formed enzymatically when raw garlic is crushed, together with
+    ajoene and the aged-garlic compound S-allyl-cysteine, are the principal bioactives behind garlic's
+    antimicrobial and cardiovascular effects — acting partly by raising nitric oxide and by targeting
+    microbial thiol-containing enzymes.
+  reference_ids:
+  - REF-0647
+  - REF-0649
+  - REF-0650
 contraindications:
 - note: 'Garlic is generally very safe at culinary and supplemental doses for most healthy adults. Raw
     garlic contains allicin (formed when crushed) at concentrations that can irritate the gastrointestinal
@@ -109,6 +129,10 @@ contraindications:
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies (REF-0646..REF-0651):
+  blood-pressure/cholesterol/immunity and cardiovascular meta-analyses and reviews (REF-0646, REF-0647,
+  REF-0648), an aged-garlic RCT in treated hypertensives (REF-0649), and allicin antimicrobial studies
+  including activity against multidrug-resistant lung pathogens (REF-0650, REF-0651); allicin/organosulfur
+  constituents added.'
+last_updated: '2026-06-14'
 status: verified

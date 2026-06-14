@@ -22,9 +22,11 @@ parts_used:
     - REF-0474
     status: verified
   - action: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
-      stress
+      stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
+      less soreness after exhaustive exercise
     reference_ids:
     - REF-0474
+    - REF-0620
     status: verified
   - action: Anti-inflammatory
     reference_ids:
@@ -56,6 +58,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology review of
   A. citrodora; congeneric anxiety RCT of A. polystachya). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (insomnia, anxiety, indigestion, muscle-soreness, inflammation); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced randomized,
+  placebo-controlled trial of a lemon verbena extract (Recoverben) showing reduced loss of muscle strength
+  and muscle soreness with faster recovery after exhaustive exercise (REF-0620), directly supporting the
+  antioxidant / muscle-recovery action.
+last_updated: '2026-06-14'
 status: verified

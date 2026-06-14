@@ -14,10 +14,12 @@ parts_used:
     - REF-0432
     status: verified
   - action: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
-      and bile secretion)
+      and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
+      anti-inflammatory activity
     reference_ids:
     - REF-0431
     - REF-0432
+    - REF-0619
     status: verified
 constituents:
 - name: Secoiridoid bitter glycosides (gentiopicroside, swertiamarin, sweroside, centapicrin)
@@ -47,6 +49,9 @@ contraindications:
   status: verified
 internal_notes: Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report;
   Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
-  tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited. Further
+  enriched 2026-06-14 with a PubMed-sourced comprehensive review of Centaurium erythraea phytochemistry
+  and pharmacology (REF-0619; documents gastroprotective, hepatoprotective, antioxidant and anti-inflammatory
+  activity of the secoiridoid-rich herb).
+last_updated: '2026-06-14'
 status: verified

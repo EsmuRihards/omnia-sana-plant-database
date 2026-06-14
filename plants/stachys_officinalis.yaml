@@ -26,6 +26,11 @@ parts_used:
     reference_ids:
     - REF-0535
     status: needs-review
+  - action: Antioxidant - among the strongest free-radical scavengers in a comparative study of Lamiaceae
+      herbs
+    reference_ids:
+    - REF-0621
+    status: verified
 constituents:
 - name: Phenylethanoid and iridoid glycosides (acteoside, harpagide, harpagoside, aucubin, betonyosides)
   note: Anti-inflammatory and antispasmodic constituents.
@@ -36,9 +41,11 @@ constituents:
   reference_ids:
   - REF-0535
 - name: Phenolic acids (rosmarinic, caffeic, chlorogenic), tannins and volatile oil
-  note: Antioxidant, astringent and aromatic constituents.
+  note: Antioxidant, astringent and aromatic constituents; methanolic extract of the herb showed strong
+    free-radical-scavenging and lipid-peroxidation-inhibiting activity in vitro.
   reference_ids:
   - REF-0535
+  - REF-0621
 contraindications:
 - note: Generally well tolerated, with occasional mild nausea the main reported effect.
   reference_ids:
@@ -53,6 +60,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from general phytotherapy literature (PeaceHealth and Naturopathic
   Herbalist monographs). Stachys officinalis = Betonica officinalis. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (headache, anxiety, nervous-tension, indigestion); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced comparative
+  study of Lamiaceae antioxidants in which Stachys officinalis was among the strongest free-radical scavengers
+  (REF-0621), adding an antioxidant action.
+last_updated: '2026-06-14'
 status: verified

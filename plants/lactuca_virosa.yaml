@@ -8,14 +8,18 @@ family: Asteraceae
 parts_used:
 - name: Aerial parts and dried latex (lactucarium)
   medicinal_actions:
-  - action: Sedative for sleeplessness / insomnia
+  - action: Sedative for sleeplessness / insomnia - lactucin and lactucopicrin showed sedative activity
+      in animal models
     reference_ids:
     - REF-0526
+    - REF-0622
     status: needs-review
   - action: Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system)
+      - in mice these compounds produced analgesia comparable to ibuprofen
     reference_ids:
     - REF-0526
     - REF-0527
+    - REF-0622
     status: needs-review
   - action: Calming for nervous tension and restlessness
     reference_ids:
@@ -27,10 +31,13 @@ parts_used:
     status: needs-review
 constituents:
 - name: Sesquiterpene lactones (lactucin, lactucopicrin)
-  note: Bitter, centrally-active constituents responsible for the sedative and pain-relieving effects.
+  note: Bitter, centrally-active constituents responsible for the sedative and pain-relieving effects;
+    isolated lactucin and lactucopicrin produced analgesia comparable to ibuprofen and sedation in rodent
+    tests.
   reference_ids:
   - REF-0526
   - REF-0527
+  - REF-0622
 - name: Lactucarium (the dried milky latex)
   note: The historical medicinal preparation, concentrating the active lactones.
   reference_ids:
@@ -52,6 +59,9 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from general literature (Herbal Reality and RxList monographs). Record
   status set to needs-review because of the overdose toxicity risk and limited modern evidence. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, pain, nervous-tension,
-  cough); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  cough); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
+  study showing the Lactuca sesquiterpene lactones lactucin and lactucopicrin have analgesic (ibuprofen-comparable)
+  and sedative activity in mice (REF-0622), supporting the analgesic and sedative actions mechanistically
+  (preclinical).
+last_updated: '2026-06-14'
 status: needs-review

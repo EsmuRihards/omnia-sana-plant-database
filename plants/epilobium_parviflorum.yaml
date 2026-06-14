@@ -7,10 +7,13 @@ family: Onagraceae
 parts_used:
 - name: Aerial parts (herb)
   medicinal_actions:
-  - action: Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support)
+  - action: Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a
+      genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical
+      evidence is not yet conclusive
     reference_ids:
     - REF-0403
     - REF-0404
+    - REF-0618
     status: verified
   - action: Anti-inflammatory (inhibits COX-1 and COX-2 prostaglandin synthesis)
     reference_ids:
@@ -26,9 +29,12 @@ parts_used:
     status: verified
 constituents:
 - name: Macrocyclic ellagitannins (notably oenothein B)
-  note: Characteristic Epilobium polyphenols underlying the anti-inflammatory and prostate activity.
+  note: Characteristic Epilobium polyphenols underlying the anti-inflammatory and prostate activity; a genus
+    review identifies oenothein B as the dominant constituent and likely driver of the antimicrobial, anti-inflammatory,
+    anti-proliferative and antioxidant effects.
   reference_ids:
   - REF-0403
+  - REF-0618
 - name: Flavonoids (myricetin and quercetin glycosides)
   note: Antioxidant constituents.
   reference_ids:
@@ -50,6 +56,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity
   study; Complementary Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (prostate-support, uti, inflammation); associations retained and now part-mapped
-  and cited.
-last_updated: '2026-06-12'
+  and cited. Further enriched 2026-06-14 with a PubMed-sourced genus Epilobium phytochemistry/pharmacology
+  review (REF-0618) centring oenothein B as the key bioactive and noting that the BPH evidence base, while
+  supportive of traditional use, is not yet conclusive.
+last_updated: '2026-06-14'
 status: verified

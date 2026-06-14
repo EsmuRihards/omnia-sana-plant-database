@@ -25,6 +25,7 @@ parts_used:
   - action: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
     reference_ids:
     - REF-0409
+    - REF-0594
     status: verified
 constituents:
 - name: Anthocyanins (anthocyanosides)
@@ -59,6 +60,7 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Survey of Ophthalmology systematic review;
   Molecules review of metabolic/cardiovascular effects). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (eye-strain, varicose-veins, high-cholesterol, inflammation); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced review of bilberry
+  anthocyanins in the prevention and treatment of dyslipidemia (REF-0594), supporting the blood-lipid action.
+last_updated: '2026-06-14'
 status: verified

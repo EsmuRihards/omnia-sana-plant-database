@@ -9,10 +9,12 @@ parts_used:
 - name: Rhizome (underground parts)
   medicinal_actions:
   - action: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen
-      legs and varicose veins)
+      legs and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl
+      chalcone and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo
     reference_ids:
     - REF-0424
     - REF-0425
+    - REF-0595
     status: verified
   - action: Anti-oedematous (reduces leg swelling)
     reference_ids:
@@ -51,6 +53,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Planta Medica phytochemical review; Polski
   Merkuriusz Lekarski venous-insufficiency review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids); associations retained and now
-  part-mapped and cited.
-last_updated: '2026-06-12'
+  part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced meta-analysis (25 trials, ~10,000
+  subjects) of the Ruscus-based combination Cyclo 3 Fort in chronic venous insufficiency (REF-0595); note
+  it tests Ruscus combined with hesperidin methyl chalcone and ascorbic acid, not Ruscus alone.
+last_updated: '2026-06-14'
 status: verified

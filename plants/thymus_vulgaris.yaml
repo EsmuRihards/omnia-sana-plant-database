@@ -7,9 +7,12 @@ family: Lamiaceae
 parts_used:
 - name: Aerial parts (herb) and essential oil
   medicinal_actions:
-  - action: Expectorant for productive (chesty) cough associated with cold and bronchitis
+  - action: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
+      extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
+      fits)
     reference_ids:
     - REF-0519
+    - REF-0593
     status: verified
   - action: Antitussive and antispasmodic (eases bronchial spasm and coughing)
     reference_ids:
@@ -50,6 +53,8 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   Thymi herba; Phytotherapy Research carvacrol review). Note: this is Thymus vulgaris (garden thyme),
   distinct from the book''s Thymus serpyllum (Breckland thyme). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, cold, sore-throat, bronchitis, infection); associations
-  retained and now part-mapped and cited.'
-last_updated: '2026-06-12'
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind,
+  placebo-controlled RCT of a fixed thyme-ivy fluid-extract combination in acute bronchitis with productive
+  cough (REF-0593; faster and greater reduction in coughing fits than placebo).'
+last_updated: '2026-06-14'
 status: verified

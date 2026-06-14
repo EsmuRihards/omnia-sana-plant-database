@@ -11,6 +11,11 @@ parts_used:
     reference_ids:
     - REF-0466
     status: verified
+  - action: Cognitive support - a placebo-controlled study in healthy adults found improved reaction time
+      and accuracy and shorter P300 latency
+    reference_ids:
+    - REF-0596
+    status: needs-review
   - action: Supports blood-sugar control (lowers fasting and post-meal glucose)
     reference_ids:
     - REF-0466
@@ -48,6 +53,8 @@ contraindications:
 internal_notes: Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
   Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum
   = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
-  anxiety, blood-sugar, immune-support); now fully part-mapped and cited.
-last_updated: '2026-06-12'
+  anxiety, blood-sugar, immune-support); now fully part-mapped and cited. Further enriched 2026-06-14 with
+  a PubMed-sourced placebo-controlled study of holy basil leaf extract reporting improved cognitive parameters
+  (reaction time, accuracy, P300 latency) in healthy adults (REF-0596; small single trial, hence needs-review).
+last_updated: '2026-06-14'
 status: verified

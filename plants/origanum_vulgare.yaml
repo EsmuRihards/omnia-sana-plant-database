@@ -8,10 +8,12 @@ parts_used:
 - name: Aerial parts (leaf/herb) and essential oil
   medicinal_actions:
   - action: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory
-      and gastrointestinal infections
+      and gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric
+      parasites (incl. Blastocystis hominis) and improved gut symptoms
     reference_ids:
     - REF-0485
     - REF-0486
+    - REF-0597
     status: verified
   - action: Aromatic support for coughs and colds (traditional)
     reference_ids:
@@ -52,6 +54,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal
   phytochemistry/antimicrobial review; Phytotherapy Research carvacrol review). Note: this is Origanum
   vulgare (wild marjoram), distinct from the book''s Origanum majorana (sweet marjoram). Originally a
   skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cold, cough, indigestion, infection,
-  inflammation); associations retained and now part-mapped and cited.'
-last_updated: '2026-06-12'
+  inflammation); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a
+  PubMed-sourced small clinical study showing emulsified oregano oil eradicated enteric parasites (incl.
+  Blastocystis hominis) and improved gastrointestinal symptoms (REF-0597).'
+last_updated: '2026-06-14'
 status: verified

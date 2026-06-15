@@ -23,6 +23,11 @@ VOCAB = os.path.join(ROOT, "vocabularies")
 COMPDIR = os.path.join(ROOT, "compounds")
 OUT = os.path.join(ROOT, "build")
 
+# Floor for indications written to symptoms.json (the Symptom-tool feed). 1 keeps
+# every link (mechanism-inferred ones flagged "inferred"); raise to e.g. 3 for a
+# high-confidence-only tool. plants.json always keeps the full set.
+SYM_MIN_EVIDENCE = 1
+
 REF_RE = re.compile(r"REF-\d{3,}")
 FIELD_START_RE = re.compile(r"([A-Za-z][A-Za-z0-9_-]*)\s*=\s*")
 
@@ -189,10 +194,9 @@ def main():
     for e in entries:
         f = e["fields"]
         link, lt = best_link(f)
-        # Prefer the hand-verified annote (carries volume/issue/pages); harvard() is
-        # the generated fallback and the path to dropping annote once those structured
-        # fields are backfilled.
-        citation = f.get("annote", "").strip() or harvard(f)
+        # Citation is generated from structured fields (annote was dropped after its
+        # volume/issue/pages were backfilled into structured fields).
+        citation = harvard(f)
         pi = inv.get(e["ref_id"], {"plants": set(), "scientific": set(), "actions": set(), "conditions": set()})
         cites.append({
             "ref_id": e["ref_id"], "key": e["key"], "type": e["type"],
@@ -214,17 +218,20 @@ def main():
     # ---- symptoms.json ----
     sym_plants = []
     for p in plants:
-        inds = p.get("indications", [])
-        if not inds:
+        keep = [i for i in p.get("indications", []) if i.get("evidence", 0) >= SYM_MIN_EVIDENCE]
+        if not keep:
             continue
+        keep.sort(key=lambda i: (-i.get("evidence", 0),
+                                 conditions.get(i["condition"], {}).get("label", i["condition"]).lower()))
         sym_plants.append({
             "name": (p.get("common_names") or [p["scientific_name"]])[0],
             "scientific": p["scientific_name"],
             "wp_post_id": p.get("wp_post_id"),
             "indications": [{"condition": i["condition"],
                             "label": conditions.get(i["condition"], {}).get("label", i["condition"]),
-                            "evidence": i["evidence"], "status": i.get("status", "")}
-                           for i in inds],
+                            "evidence": i["evidence"], "status": i.get("status", ""),
+                            "inferred": i.get("status") == "needs-review"}
+                           for i in keep],
         })
     sym_conditions = [{"id": c["id"], "label": c["label"], "body_system": c.get("body_system", ""),
                        "consumer_synonyms": c.get("consumer_synonyms", [])} for c in conditions.values()]

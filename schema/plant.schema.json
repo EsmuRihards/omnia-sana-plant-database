@@ -30,10 +30,11 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["compound"],
+        "required": ["name"],
         "additionalProperties": false,
         "properties": {
-          "compound": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Compound id -> compounds/<id>.yaml."},
+          "name": {"type": "string", "description": "Original free-text constituent name (preserved verbatim)."},
+          "compounds": {"type": "array", "items": {"type": "string", "pattern": "^[a-z0-9-]+$"}, "description": "Compound entity ids -> compounds/<id>.yaml (classes + named bioactives detected in name)."},
           "note": {"type": "string"},
           "reference_ids": {"$ref": "#/$defs/reference_ids"}
         }

@@ -1,58 +1,151 @@
+id: salvia-rosmarinus
+scientific_name: Salvia rosmarinus
 common_names:
 - Rosemary
 - garden rosemary
-scientific_name: Salvia rosmarinus
 family: Lamiaceae
 parts_used:
-- name: Flower / Leaf
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0112
-    - REF-0173
-    - REF-0194
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0112
-    - REF-0173
-    - REF-0194
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0112
-    - REF-0173
-    - REF-0194
-    status: verified
-  - action: Antispasmodic (cramp easing)
-    reference_ids:
-    - REF-0112
-    - REF-0173
-    - REF-0194
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0112
-    - REF-0173
-    - REF-0194
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0112
-    - REF-0173
-    - REF-0194
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0112
-    - REF-0173
-    - REF-0194
-    status: verified
-constituents: []
+- Flower
+- Leaf
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (cramp easing)
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: needs-review
 contraindications:
 - note: Culinary use is entirely safe. Essential oil should not be ingested in large amounts; avoid during
     pregnancy in medicinal doses. May trigger epileptic seizures in predisposed individuals at high doses.
     May interact with anticoagulants and antiplatelet drugs.
+  severity: caution
   reference_ids:
   - REF-0112
   - REF-0173
@@ -63,14 +156,17 @@ contraindications:
     the text in relation to antioxidant and antimicrobial properties of its key compounds (carnosol, rosmarinic
     acid). Commission E (KOM) approves rosemary for dyspeptic complaints and externally for rheumatic
     conditions and circulatory problems.
+  severity: info
   reference_ids:
   - REF-0112
   - REF-0173
   - REF-0194
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

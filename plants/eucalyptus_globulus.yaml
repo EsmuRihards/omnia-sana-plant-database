@@ -1,56 +1,113 @@
+id: eucalyptus-globulus
+scientific_name: Eucalyptus globulus
 common_names:
 - Blue gum eucalyptus
 - Tasmanian blue gum
 - southern blue gum
 - blue gum
-scientific_name: Eucalyptus globulus
 family: Myrtaceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0224
-    - REF-0256
-    - REF-0309
-    status: verified
-  - action: Antifungal
-    reference_ids:
-    - REF-0224
-    - REF-0256
-    - REF-0309
-    status: verified
-  - action: Antimalarial
-    reference_ids:
-    - REF-0224
-    - REF-0256
-    - REF-0309
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0224
-    - REF-0256
-    - REF-0309
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0224
-    - REF-0256
-    - REF-0309
-    status: verified
-  - action: Immune Support
-    reference_ids:
-    - REF-0224
-    - REF-0256
-    - REF-0309
-    status: verified
-  - action: Respiratory Support
-    reference_ids:
-    - REF-0224
-    - REF-0256
-    - REF-0309
-    status: verified
-constituents: []
+- Leaf
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: verified
+- action: antifungal
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: verified
+- action: antimalarial
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: verified
+- action: immunomodulator
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: needs-review
+- condition: immune-support
+  evidence: 3
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: verified
+- condition: infection
+  evidence: 2
+  note: inferred from antifungal action
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: needs-review
+- condition: respiratory-support
+  evidence: 3
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0224
+  - REF-0256
+  - REF-0309
+  status: needs-review
 contraindications:
 - note: Eucalyptus globulus essential oil is highly concentrated and rich in the monoterpene 1,8-cineole;
     it should never be applied undiluted to the skin or ingested outside of standardized pharmaceutical
@@ -61,6 +118,7 @@ contraindications:
     Preparations such as leaf-infused oils or external applications using whole plant material are considerably
     milder, but they should still be used with care and an understanding that different preparation methods
     carry different levels of risk.
+  severity: caution
   reference_ids:
   - REF-0224
   - REF-0256
@@ -72,14 +130,17 @@ contraindications:
     Therapeutic use as steam inhalation is well-established. Internal use of the essential oil at high
     doses is contraindicated due to toxicity; even small amounts (3.5 ml) can be fatal in children. Contraindicated
     for inflammatory diseases of the gastrointestinal tract or bile ducts (Duke, 2002).
+  severity: caution
   reference_ids:
   - REF-0224
   - REF-0256
   - REF-0309
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

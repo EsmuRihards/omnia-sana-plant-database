@@ -1,39 +1,21 @@
+id: tilia-cordata
+scientific_name: Tilia cordata
 common_names:
 - Linden
 - Lime flower
 - Small-leaved lime
 - Basswood
-scientific_name: Tilia cordata
 family: Malvaceae
 parts_used:
-- name: Flower (lime / linden flower)
-  medicinal_actions:
-  - action: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
-    reference_ids:
-    - REF-0478
-    status: verified
-  - action: Relief of mild mental stress and to aid sleep (gentle calming); flavonoid fractions of Tilia
-      (notably tiliroside) show anxiolytic activity in animal models via the serotonergic and GABA/benzodiazepine
-      systems (mechanistic evidence from the related species T. americana)
-    reference_ids:
-    - REF-0478
-    - REF-0555
-    status: verified
-  - action: Demulcent for cough and catarrh (soothing mucilage)
-    reference_ids:
-    - REF-0478
-    status: verified
-  - action: Antispasmodic (traditional)
-    reference_ids:
-    - REF-0478
-    status: needs-review
-  - action: Antioxidant and acetylcholinesterase-inhibitory (linden-flower extract scavenges free radicals
-      and inhibits AChE in vitro)
-    reference_ids:
-    - REF-0554
-    status: verified
+- Flower (lime
+- linden flower)
 constituents:
 - name: Flavonoids (quercetin and kaempferol glycosides, tiliroside)
+  compounds:
+  - flavonoid
+  - glycoside
+  - kaempferol
+  - quercetin
   note: Antioxidant constituents associated with the diaphoretic and calming effects; tiliroside is highlighted
     as a key anxiolytic flavonoid of the genus.
   reference_ids:
@@ -41,29 +23,140 @@ constituents:
   - REF-0554
   - REF-0555
 - name: Mucilage
+  compounds:
+  - polysaccharide
+  - mucilage
   note: Soothing, demulcent polysaccharides.
   reference_ids:
   - REF-0478
 - name: Volatile oil (with farnesol), phenolic acids and tannins
+  compounds:
+  - phenolic-acid
+  - essential-oil
+  - tannin
   note: Aromatic and astringent constituents.
   reference_ids:
   - REF-0478
+actions:
+- action: antioxidant
+  note: Antioxidant and acetylcholinesterase-inhibitory (linden-flower extract scavenges free radicals
+    and inhibits AChE in vitro)
+  reference_ids:
+  - REF-0554
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (traditional)
+  reference_ids:
+  - REF-0478
+  status: needs-review
+- action: anxiolytic
+  note: Relief of mild mental stress and to aid sleep (gentle calming); flavonoid fractions of Tilia (notably
+    tiliroside) show anxiolytic activity in animal models via the serotonergic and GABA/benzodiazepine
+    systems (mechanistic evidence from the related species T. americana)
+  reference_ids:
+  - REF-0478
+  - REF-0555
+  status: verified
+- action: demulcent
+  note: Demulcent for cough and catarrh (soothing mucilage)
+  reference_ids:
+  - REF-0478
+  status: verified
+- action: diaphoretic
+  note: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
+  reference_ids:
+  - REF-0478
+  status: verified
+indications:
+- condition: anxiety
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0478
+  - REF-0555
+  status: needs-review
+- condition: cold
+  evidence: 3
+  note: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
+  reference_ids:
+  - REF-0478
+  status: verified
+- condition: cough
+  evidence: 3
+  note: Demulcent for cough and catarrh (soothing mucilage)
+  reference_ids:
+  - REF-0478
+  status: verified
+- condition: fever
+  evidence: 3
+  note: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
+  reference_ids:
+  - REF-0478
+  status: verified
+- condition: insomnia
+  evidence: 2
+  reference_ids: []
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0478
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0478
+  status: needs-review
+- condition: nervous-tension
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0478
+  - REF-0555
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0478
+  status: needs-review
+- condition: sore-throat
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0478
+  status: needs-review
+- condition: stress
+  evidence: 3
+  note: Relief of mild mental stress and to aid sleep (gentle calming); flavonoid fractions of Tilia (notably
+    tiliroside) show anxiolytic activity in animal models via the serotonergic and GABA/benzodiazepine
+    systems (mechanistic evidence from the related species T. americana)
+  reference_ids:
+  - REF-0478
+  - REF-0555
+  status: verified
 contraindications:
 - note: Generally very well tolerated, including (per the EU herbal monograph) in children. A feverish
     cold that persists or worsens, or a high or prolonged fever, needs medical assessment.
+  severity: info
   reference_ids:
   - REF-0478
   status: verified
 - note: Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.
+  severity: caution
   reference_ids:
   - REF-0478
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Tiliae flos, covering
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-13'
+internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Tiliae flos, covering
   T. cordata with T. platyphyllos and T. x vulgaris). Further enriched 2026-06-13 with two PubMed studies
   - an in-vitro antioxidant/acetylcholinesterase-inhibition study of T. cordata flowers (REF-0554, Guller
   et al. 2021) and a flavonoid-fraction anxiolytic study (REF-0555, Nogueron-Merino et al. 2015) on the
   related species T. americana, cited as genus-level mechanistic support for the calming action (tiliroside).
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (anxiety, insomnia,
-  cold, fever, stress); associations retained and now part-mapped and cited.
-last_updated: '2026-06-13'
-status: verified
+  cold, fever, stress); associations retained and now part-mapped and cited. | 2026-06-15: migrated to
+  entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

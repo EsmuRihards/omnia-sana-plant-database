@@ -1,33 +1,12 @@
+id: salix-alba
+scientific_name: Salix alba
 common_names:
 - Willow Bark
 - White willow
 - European willow
-scientific_name: Salix alba
 family: Salicaceae
 parts_used:
-- name: Bark
-  medicinal_actions:
-  - action: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around
-      240 mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4
-      weeks
-    reference_ids:
-    - REF-0529
-    - REF-0530
-    - REF-0592
-    status: verified
-  - action: Relief of joint pain, osteoarthritis and rheumatic complaints
-    reference_ids:
-    - REF-0529
-    - REF-0530
-    status: verified
-  - action: Headache relief
-    reference_ids:
-    - REF-0530
-    status: verified
-  - action: Antipyretic (reduces fever)
-    reference_ids:
-    - REF-0530
-    status: verified
+- Bark
 constituents:
 - name: Salicin and related salicylates
   note: Metabolised in the body to salicylic acid - the 'natural aspirin' that gives the analgesic, anti-inflammatory
@@ -36,26 +15,110 @@ constituents:
   - REF-0529
   - REF-0530
 - name: Polyphenols, flavonoids and tannins
+  compounds:
+  - phenolic-compound
+  - flavonoid
+  - tannin
   note: Contribute additionally to the anti-inflammatory and antioxidant activity.
   reference_ids:
   - REF-0530
+actions:
+- action: analgesic
+  note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
+    mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks
+  reference_ids:
+  - REF-0529
+  - REF-0530
+  - REF-0592
+  status: verified
+- action: anti-inflammatory
+  note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
+    mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks
+  reference_ids:
+  - REF-0529
+  - REF-0530
+  - REF-0592
+  status: verified
+- action: antipyretic
+  note: Antipyretic (reduces fever)
+  reference_ids:
+  - REF-0530
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 3
+  note: Relief of joint pain, osteoarthritis and rheumatic complaints
+  reference_ids:
+  - REF-0529
+  - REF-0530
+  status: verified
+- condition: back-pain
+  evidence: 4
+  note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
+    mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks
+  reference_ids:
+  - REF-0529
+  - REF-0530
+  - REF-0592
+  status: verified
+- condition: fever
+  evidence: 3
+  note: Antipyretic (reduces fever)
+  reference_ids:
+  - REF-0530
+  status: verified
+- condition: headache
+  evidence: 3
+  reference_ids:
+  - REF-0530
+  status: verified
+- condition: inflammation
+  evidence: 3
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0529
+  - REF-0530
+  - REF-0592
+  status: needs-review
+- condition: pain
+  evidence: 4
+  note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
+    mg salicin/day) - in an RCT, 240 mg salicin/day left 39% pain-free vs 6% on placebo within 4 weeks;
+    Relief of joint pain, osteoarthritis and rheumatic complaints
+  reference_ids:
+  - REF-0529
+  - REF-0530
+  - REF-0592
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0529
+  - REF-0530
+  - REF-0592
+  status: needs-review
 contraindications:
 - note: Because it works like aspirin, avoid willow bark if you are allergic to aspirin or salicylates,
     and do NOT give it to children or teenagers with a viral illness (risk of Reye's syndrome). Use caution
     in asthma (salicylate sensitivity).
+  severity: caution
   reference_ids:
   - REF-0530
   status: verified
 - note: Avoid with anticoagulant/antiplatelet medicines (bleeding risk) and in active peptic ulcer; avoid
     in pregnancy (especially the third trimester) and breastfeeding.
+  severity: caution
   reference_ids:
   - REF-0530
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (Phytotherapy Research systematic
-  review; EMA HMPC monograph for Salicis cortex). Originally a skeleton imported from the omniasana.bio
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Phytotherapy Research
+  systematic review; EMA HMPC monograph for Salicis cortex). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (pain, headache, inflammation, arthritis, fever, back-pain); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with the landmark PubMed-sourced
   randomized double-blind RCT of willow bark extract for low-back-pain exacerbations (REF-0592; 240 mg
-  salicin/day, 39% pain-free vs 6% placebo, effect within one week).
-last_updated: '2026-06-14'
-status: verified
+  salicin/day, 39% pain-free vs 6% placebo, effect within one week). | 2026-06-15: migrated to entity
+  schema (actions->vocab ids, indications split out, constituents linked to compounds).'

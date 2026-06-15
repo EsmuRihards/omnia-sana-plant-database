@@ -1,53 +1,122 @@
+id: olea-europaea
+scientific_name: Olea europaea
 common_names:
 - Olive
 - common olive
 - European olive
-scientific_name: Olea europaea
 family: Oleaceae
 parts_used:
-- name: Fruit / Leaf / Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0032
-    - REF-0299
-    - REF-0301
-    status: verified
-  - action: Antidiabetic
-    reference_ids:
-    - REF-0032
-    - REF-0299
-    - REF-0301
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0032
-    - REF-0299
-    - REF-0301
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0032
-    - REF-0299
-    - REF-0301
-    status: verified
-  - action: Antiviral
-    reference_ids:
-    - REF-0032
-    - REF-0299
-    - REF-0301
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0032
-    - REF-0299
-    - REF-0301
-    status: verified
-constituents: []
+- Fruit
+- Leaf
+- Seed
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: verified
+- action: antiviral
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: needs-review
+- condition: blood-sugar
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: verified
+- condition: cold
+  evidence: 2
+  note: inferred from antiviral action
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: needs-review
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0032
+  - REF-0299
+  - REF-0301
+  status: needs-review
 contraindications:
 - note: Olive leaf extract may lower blood pressure; use caution if already on antihypertensive medication.
     May have mild hypoglycaemic effects. Olive oil is safe for dietary use. Rare olive pollen allergy.
     Well tolerated in normal culinary and supplement doses.
+  severity: caution
   reference_ids:
   - REF-0032
   - REF-0299
@@ -59,14 +128,17 @@ contraindications:
     (PHR). Duke notes that traditional Mediterranean use for both the leaf and fruit is food-grade and
     safe. Olive leaf preparations are used as mild antihypertensives in European phytotherapy. No significant
     adverse effects are reported at standard herbal doses (Duke, 2002).
+  severity: info
   reference_ids:
   - REF-0032
   - REF-0299
   - REF-0301
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

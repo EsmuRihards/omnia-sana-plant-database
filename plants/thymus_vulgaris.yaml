@@ -1,60 +1,145 @@
+id: thymus-vulgaris
+scientific_name: Thymus vulgaris
 common_names:
 - Thyme
 - Common thyme
 - Garden thyme
-scientific_name: Thymus vulgaris
 family: Lamiaceae
 parts_used:
-- name: Aerial parts (herb) and essential oil
-  medicinal_actions:
-  - action: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
-      extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
-      fits)
-    reference_ids:
-    - REF-0519
-    - REF-0593
-    status: verified
-  - action: Antitussive and antispasmodic (eases bronchial spasm and coughing)
-    reference_ids:
-    - REF-0519
-    status: verified
-  - action: Sore throat relief (antiseptic gargle)
-    reference_ids:
-    - REF-0519
-    status: verified
-  - action: Antimicrobial (thymol and carvacrol) - supports respiratory infection
-    reference_ids:
-    - REF-0486
-    - REF-0519
-    status: verified
+- Aerial parts (herb) and essential oil
 constituents:
 - name: Essential oil rich in thymol and carvacrol
+  compounds:
+  - essential-oil
+  - terpene
+  - carvacrol
+  - thymol
   note: Phenolic monoterpenes responsible for the antimicrobial and expectorant actions.
   reference_ids:
   - REF-0519
   - REF-0486
 - name: Flavonoids and rosmarinic acid
+  compounds:
+  - rosmarinic-acid
+  - flavonoid
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0519
+actions:
+- action: antimicrobial
+  note: Antimicrobial (thymol and carvacrol) - supports respiratory infection; Sore throat relief (antiseptic
+    gargle)
+  reference_ids:
+  - REF-0486
+  - REF-0519
+  status: verified
+- action: antispasmodic
+  note: Antitussive and antispasmodic (eases bronchial spasm and coughing)
+  reference_ids:
+  - REF-0519
+  status: verified
+- action: antitussive
+  note: Antitussive and antispasmodic (eases bronchial spasm and coughing)
+  reference_ids:
+  - REF-0519
+  status: verified
+- action: expectorant
+  note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
+    extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
+    fits)
+  reference_ids:
+  - REF-0519
+  - REF-0593
+  status: verified
+indications:
+- condition: bronchitis
+  evidence: 3
+  note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
+    extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
+    fits)
+  reference_ids:
+  - REF-0519
+  - REF-0593
+  status: verified
+- condition: cold
+  evidence: 3
+  note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
+    extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
+    fits)
+  reference_ids:
+  - REF-0519
+  - REF-0593
+  status: verified
+- condition: cough
+  evidence: 3
+  note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
+    extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
+    fits)
+  reference_ids:
+  - REF-0519
+  - REF-0593
+  status: verified
+- condition: infection
+  evidence: 3
+  note: Antimicrobial (thymol and carvacrol) - supports respiratory infection
+  reference_ids:
+  - REF-0486
+  - REF-0519
+  status: verified
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0519
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0519
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0519
+  - REF-0593
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  note: Sore throat relief (antiseptic gargle)
+  reference_ids:
+  - REF-0519
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0486
+  - REF-0519
+  status: needs-review
 contraindications:
 - note: Culinary amounts are safe. Thyme essential oil is a strong irritant - dilute well before any topical
     use and do not take the undiluted oil internally.
+  severity: caution
   reference_ids:
   - REF-0486
   status: verified
 - note: A cough that persists beyond about a week, or with fever or breathlessness, needs medical assessment.
     Avoid medicinal/oil doses in pregnancy; allergy is possible in people sensitive to the mint family
     (Lamiaceae).
+  severity: caution
   reference_ids:
   - REF-0519
   status: verified
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Thymi herba; Phytotherapy Research carvacrol review). Note: this is Thymus vulgaris (garden thyme),
   distinct from the book''s Thymus serpyllum (Breckland thyme). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, cold, sore-throat, bronchitis, infection); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind,
   placebo-controlled RCT of a fixed thyme-ivy fluid-extract combination in acute bronchitis with productive
-  cough (REF-0593; faster and greater reduction in coughing fits than placebo).'
-last_updated: '2026-06-14'
-status: verified
+  cough (REF-0593; faster and greater reduction in coughing fits than placebo). | 2026-06-15: migrated
+  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

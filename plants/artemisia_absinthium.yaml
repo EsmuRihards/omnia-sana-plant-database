@@ -1,55 +1,148 @@
+id: artemisia-absinthium
+scientific_name: Artemisia absinthium
 common_names:
 - Wormwood
 - common wormwood
 - grand wormwood
-scientific_name: Artemisia absinthium
 family: Asteraceae
 parts_used:
-- name: Flower / Leaf / Stem
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0020
-    - REF-0098
-    - REF-0112
-    status: verified
-  - action: Antidiabetic
-    reference_ids:
-    - REF-0020
-    - REF-0098
-    - REF-0112
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0020
-    - REF-0098
-    - REF-0112
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0020
-    - REF-0098
-    - REF-0112
-    status: verified
-  - action: Antispasmodic (cramp easing)
-    reference_ids:
-    - REF-0020
-    - REF-0098
-    - REF-0112
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0020
-    - REF-0098
-    - REF-0112
-    status: verified
-constituents: []
+- Flower
+- Leaf
+- Stem
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (cramp easing)
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: blood-sugar
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0020
+  - REF-0098
+  - REF-0112
+  status: needs-review
 contraindications:
 - note: 'CAUTION: Contains thujone, which is neurotoxic in significant amounts. Internal use should be
     limited in duration and dose — short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful
     uterine stimulant). Avoid in epilepsy, renal disease, and in children. The small amounts present in
     properly prepared bitter tinctures and vermouth are generally considered safe. The thujone content
     of absinthe was historically exaggerated.'
+  severity: caution
   reference_ids:
   - REF-0020
   - REF-0098
@@ -63,14 +156,17 @@ contraindications:
     strongly cautions that thujone content limits safe long-term use, and wormwood should not be taken
     internally for more than 4 weeks at a time. Strictly contraindicated in pregnancy (abortifacient,
     neurotoxic) and epilepsy (Duke, 2002).
+  severity: caution
   reference_ids:
   - REF-0020
   - REF-0098
   - REF-0112
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

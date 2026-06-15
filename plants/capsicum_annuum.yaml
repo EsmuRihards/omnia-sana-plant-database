@@ -1,65 +1,187 @@
+id: capsicum-annuum
+scientific_name: Capsicum annuum
 common_names:
 - Chili Pepper
 - cayenne pepper
 - hot pepper
 - red pepper
 - jalapeño
-scientific_name: Capsicum annuum
 family: Solanaceae
 parts_used:
-- name: Fruit / Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0010
-    - REF-0021
-    - REF-0057
-    - REF-0161
-    - REF-0169
-    - REF-0214
-    - REF-0287
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0010
-    - REF-0021
-    - REF-0057
-    - REF-0161
-    - REF-0169
-    - REF-0214
-    - REF-0287
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0010
-    - REF-0021
-    - REF-0057
-    - REF-0161
-    - REF-0169
-    - REF-0214
-    - REF-0287
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0010
-    - REF-0021
-    - REF-0057
-    - REF-0161
-    - REF-0169
-    - REF-0214
-    - REF-0287
-    status: verified
-  - action: Pain Relief
-    reference_ids:
-    - REF-0010
-    - REF-0021
-    - REF-0057
-    - REF-0161
-    - REF-0169
-    - REF-0214
-    - REF-0287
-    status: verified
-constituents: []
+- Fruit
+- Seed
+actions:
+- action: analgesic
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: verified
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
+- condition: pain
+  evidence: 3
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0010
+  - REF-0021
+  - REF-0057
+  - REF-0161
+  - REF-0169
+  - REF-0214
+  - REF-0287
+  status: needs-review
 contraindications:
 - note: Capsaicin causes intense burning sensation; avoid contact with eyes and mucous membranes. High
     oral doses can cause gastrointestinal irritation, nausea, and diarrhoea. Topical preparations may
@@ -68,6 +190,7 @@ contraindications:
     amounts are considered safe, but high-dose supplements should be avoided. Repeated topical application
     leads to desensitisation (TRPV1 depletion), which is the basis for its analgesic use. Children under
     2 should not be given capsaicin-containing topical products (Basu and Bhattacharyya, 2023).
+  severity: caution
   reference_ids:
   - REF-0010
   - REF-0021
@@ -84,6 +207,7 @@ contraindications:
     is a validated treatment for post-herpetic neuralgia, diabetic neuropathy, and osteoarthritis pain.
     Internal use can irritate mucous membranes; external use requires avoiding contact with eyes and mucous
     membranes (Duke, 2002).
+  severity: caution
   reference_ids:
   - REF-0010
   - REF-0021
@@ -93,9 +217,11 @@ contraindications:
   - REF-0214
   - REF-0287
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

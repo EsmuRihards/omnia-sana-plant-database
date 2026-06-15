@@ -1,69 +1,138 @@
+id: linum-usitatissimum
+scientific_name: Linum usitatissimum
 common_names:
 - Flaxseed
 - linseed
 - common flax
 - flax
-scientific_name: Linum usitatissimum
 family: Linaceae
 parts_used:
-- name: Seed / Young sprouts
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0001
-    - REF-0039
-    - REF-0084
-    - REF-0105
-    - REF-0152
-    - REF-0190
-    - REF-0230
-    - REF-0288
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0001
-    - REF-0039
-    - REF-0084
-    - REF-0105
-    - REF-0152
-    - REF-0190
-    - REF-0230
-    - REF-0288
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0001
-    - REF-0039
-    - REF-0084
-    - REF-0105
-    - REF-0152
-    - REF-0190
-    - REF-0230
-    - REF-0288
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0001
-    - REF-0039
-    - REF-0084
-    - REF-0105
-    - REF-0152
-    - REF-0190
-    - REF-0230
-    - REF-0288
-    status: verified
-  - action: Metabolic support
-    reference_ids:
-    - REF-0001
-    - REF-0039
-    - REF-0084
-    - REF-0105
-    - REF-0152
-    - REF-0190
-    - REF-0230
-    - REF-0288
-    status: verified
-constituents: []
+- Seed
+- Young sprouts
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: needs-review
+- condition: metabolic-support
+  evidence: 3
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  - REF-0288
+  status: needs-review
 contraindications:
 - note: Flaxseeds are safe for most people at recommended food amounts (1–2 tablespoons ground/day). They
     must be ground or milled to be bioavailable — whole seeds largely pass through the gut undigested.
@@ -71,6 +140,7 @@ contraindications:
     increased rapidly without adequate hydration. Flaxseeds contain cyanogenic glycosides (linamarin,
     linustatin); cooking or roasting reduces these to negligible levels in normal food amounts. Raw seeds
     in very large quantities are a theoretical concern, but typical use is safe (EFSA, 2017).
+  severity: info
   reference_ids:
   - REF-0001
   - REF-0039
@@ -86,6 +156,7 @@ contraindications:
     anticoagulant/antiplatelet effects; use caution with blood thinners. Some sources suggest caution
     with hormone-sensitive conditions due to phytoestrogen (lignan) content, though dietary amounts are
     unlikely to pose risk (Adolphe et al., 2010).'
+  severity: caution
   reference_ids:
   - REF-0001
   - REF-0039
@@ -98,6 +169,7 @@ contraindications:
   status: verified
 - note: 'Pregnancy: Food amounts are generally considered safe; high-dose supplements should be discussed
     with a clinician due to limited safety data.'
+  severity: caution
   reference_ids:
   - REF-0001
   - REF-0039
@@ -114,6 +186,7 @@ contraindications:
     and for mucilaginous protection of inflamed gastrointestinal mucosa. Dose: 1–2 tablespoons ground
     seed with ample water, twice daily. Whole seeds should be chewed or ground for full medicinal effect.
     Cyanogenic glycosides are present but at safe levels in normal dietary amounts (Duke, 2002).'
+  severity: info
   reference_ids:
   - REF-0001
   - REF-0039
@@ -124,9 +197,11 @@ contraindications:
   - REF-0230
   - REF-0288
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

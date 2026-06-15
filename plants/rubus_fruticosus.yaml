@@ -1,36 +1,25 @@
+id: rubus-fruticosus
+scientific_name: Rubus fruticosus
 common_names:
 - Blackberry Leaf
 - Bramble
 - European blackberry
-scientific_name: Rubus fruticosus
 family: Rosaceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
-    reference_ids:
-    - REF-0417
-    - REF-0418
-    status: verified
-  - action: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
-    reference_ids:
-    - REF-0417
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0418
-    status: verified
-  - action: Antibacterial
-    reference_ids:
-    - REF-0418
-    status: verified
+- Leaf
 constituents:
 - name: Tannins (gallotannins and ellagitannins)
+  compounds:
+  - tannin
   note: The astringent principles of the leaf.
   reference_ids:
   - REF-0417
   - REF-0418
 - name: Flavonoids and phenolic acids (including gallic acid)
+  compounds:
+  - phenolic-acid
+  - gallic-acid
+  - flavonoid
   note: Antioxidant and antibacterial constituents.
   reference_ids:
   - REF-0418
@@ -38,20 +27,102 @@ constituents:
   note: Minor nutritive constituents of the leaf.
   reference_ids:
   - REF-0417
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
+  reference_ids:
+  - REF-0417
+  status: verified
+- action: antidiarrheal
+  note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
+  reference_ids:
+  - REF-0417
+  - REF-0418
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0418
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0418
+  status: verified
+- action: astringent
+  note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
+  reference_ids:
+  - REF-0417
+  - REF-0418
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0417
+  status: needs-review
+- condition: diarrhea
+  evidence: 3
+  note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
+  reference_ids:
+  - REF-0417
+  - REF-0418
+  status: verified
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0418
+  status: needs-review
+- condition: inflammation
+  evidence: 3
+  note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
+  reference_ids:
+  - REF-0417
+  status: verified
+- condition: oral-health
+  evidence: 3
+  note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
+  reference_ids:
+  - REF-0417
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0417
+  - REF-0418
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
+  reference_ids:
+  - REF-0417
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0417
+  - REF-0418
+  status: needs-review
 contraindications:
 - note: 'Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
     the absorption of iron and some medicines taken at the same time.'
+  severity: info
   reference_ids:
   - REF-0417
   status: verified
 - note: Traditional use only; diarrhoea that persists (especially in children) needs medical assessment
     and attention to rehydration.
+  severity: info
   reference_ids:
   - REF-0417
   status: verified
+provenance: website+symptom-tool
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pharmacognosy Reviews herbal-medicine
   review; Molecules antioxidant/antibacterial study). Note: Rubus fruticosus is an aggregate of many microspecies.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat,
-  inflammation); associations retained and now part-mapped and cited.'
-last_updated: '2026-06-12'
-status: verified
+  inflammation); associations retained and now part-mapped and cited. | 2026-06-15: migrated to entity
+  schema (actions->vocab ids, indications split out, constituents linked to compounds).'

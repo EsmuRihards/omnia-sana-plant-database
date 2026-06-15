@@ -1,64 +1,102 @@
+id: pelargonium-sidoides
+scientific_name: Pelargonium sidoides
 common_names:
 - Pelargonium
 - Umckaloabo
 - South African geranium
 - Black geranium
-scientific_name: Pelargonium sidoides
 family: Geraniaceae
 parts_used:
-- name: Root (standardised extract EPs 7630)
-  medicinal_actions:
-  - action: Acute bronchitis - reduces symptom severity and shortens illness
-    reference_ids:
-    - REF-0492
-    - REF-0493
-    - REF-0576
-    status: verified
-  - action: Common cold and acute respiratory tract infection
-    reference_ids:
-    - REF-0492
-    status: verified
-  - action: Sore throat / acute tonsillopharyngitis
-    reference_ids:
-    - REF-0492
-    status: verified
-  - action: Rhinosinusitis (sinusitis) support
-    reference_ids:
-    - REF-0492
-    - REF-0577
-    status: verified
-  - action: Antiviral and immunomodulatory (mechanism of action)
-    reference_ids:
-    - REF-0493
-    status: verified
+- Root (standardised extract EPs 7630)
 constituents:
 - name: Highly oxygenated coumarins (umckalin)
+  compounds:
+  - coumarin
   note: Characteristic root constituents with antibacterial activity.
   reference_ids:
   - REF-0493
 - name: Polyphenols and proanthocyanidins (gallic acid derivatives)
+  compounds:
+  - proanthocyanidin
+  - gallic-acid
+  - phenolic-compound
   note: Contribute to the antiviral and immunomodulatory effects.
   reference_ids:
   - REF-0493
+actions:
+- action: antiviral
+  note: Antiviral and immunomodulatory (mechanism of action)
+  reference_ids:
+  - REF-0493
+  status: verified
+- action: immunomodulator
+  note: Antiviral and immunomodulatory (mechanism of action)
+  reference_ids:
+  - REF-0493
+  status: verified
+indications:
+- condition: bronchitis
+  evidence: 4
+  note: Acute bronchitis - reduces symptom severity and shortens illness
+  reference_ids:
+  - REF-0492
+  - REF-0493
+  - REF-0576
+  status: verified
+- condition: cold
+  evidence: 3
+  note: Common cold and acute respiratory tract infection
+  reference_ids:
+  - REF-0492
+  status: verified
+- condition: immune-support
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0493
+  status: needs-review
+- condition: infection
+  evidence: 3
+  note: Common cold and acute respiratory tract infection
+  reference_ids:
+  - REF-0492
+  status: verified
+- condition: sinusitis
+  evidence: 3
+  note: Rhinosinusitis (sinusitis) support
+  reference_ids:
+  - REF-0492
+  - REF-0577
+  status: verified
+- condition: sore-throat
+  evidence: 3
+  note: Sore throat / acute tonsillopharyngitis
+  reference_ids:
+  - REF-0492
+  status: verified
 contraindications:
 - note: Generally well tolerated; the main effects are mild gastrointestinal upset or, rarely, an allergic
     skin reaction. Rare reports of liver injury mean you should stop and seek advice if signs of liver
     problems occur.
+  severity: info
   reference_ids:
   - REF-0492
   - REF-0493
   status: verified
 - note: The coumarin content gives a theoretical bleeding risk, so use caution with anticoagulant medicines;
     use in pregnancy and breastfeeding is not recommended.
+  severity: caution
   reference_ids:
   - REF-0492
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Int J Gen Med and Wien Med Wochenschr
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Int J Gen Med and Wien Med Wochenschr
   reviews of the standardised root extract EPs 7630). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bronchitis, cold, sore-throat, sinusitis); associations retained and now
   part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced systematic reviews - a meta-analysis
   showing EPs 7630 reduces acute-bronchitis symptom scores by day 7 versus placebo (REF-0576) and a systematic
   review of phytotherapy for acute rhinosinusitis in which EPs 7630 appeared useful (REF-0577; rhinosinusitis
-  action upgraded to verified).
-last_updated: '2026-06-14'
-status: verified
+  action upgraded to verified). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
+  split out, constituents linked to compounds).'

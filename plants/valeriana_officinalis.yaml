@@ -1,48 +1,93 @@
+id: valeriana-officinalis
+scientific_name: Valeriana officinalis
 common_names:
 - Valerian
 - common valerian
 - garden valerian
-scientific_name: Valeriana officinalis
 family: Caprifoliaceae
 parts_used:
-- name: Rhizome / Root
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0025
-    - REF-0091
-    - REF-0112
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0025
-    - REF-0091
-    - REF-0112
-    status: verified
-  - action: Antispasmodic (cramp easing)
-    reference_ids:
-    - REF-0025
-    - REF-0091
-    - REF-0112
-    status: verified
-  - action: Menstrual cramps
-    reference_ids:
-    - REF-0025
-    - REF-0091
-    - REF-0112
-    status: verified
-  - action: Sedative
-    reference_ids:
-    - REF-0025
-    - REF-0091
-    - REF-0112
-    status: verified
-constituents: []
+- Rhizome
+- Root
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (cramp easing)
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: verified
+- action: sedative
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: inferred from sedative action
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 3
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: verified
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: needs-review
 contraindications:
 - note: Generally well tolerated for short-to-medium term use. May cause vivid dreams, morning grogginess,
     or headache in some individuals. Avoid combining with alcohol, sedatives, or anaesthetics. Do not
     drive immediately after taking high doses. Do not use in children under 3 years. Abrupt discontinuation
     after long-term use may cause withdrawal symptoms.
+  severity: caution
   reference_ids:
   - REF-0025
   - REF-0091
@@ -52,14 +97,17 @@ contraindications:
     in the sections searched. The entry found was for Indian valerian (Valeriana jatamansi). Commission
     E approves European valerian for restlessness and sleep disorders. Dose: 400–900 mg standardized root
     extract before bedtime. Interactions include potentiation of CNS depressants and sedatives.'
+  severity: caution
   reference_ids:
   - REF-0025
   - REF-0091
   - REF-0112
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

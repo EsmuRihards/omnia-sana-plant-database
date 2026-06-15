@@ -1,61 +1,160 @@
+id: origanum-vulgare
+scientific_name: Origanum vulgare
 common_names:
 - Oregano
 - Wild marjoram
 - Origanum
-scientific_name: Origanum vulgare
 family: Lamiaceae
 parts_used:
-- name: Aerial parts (leaf/herb) and essential oil
-  medicinal_actions:
-  - action: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory
-      and gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric
-      parasites (incl. Blastocystis hominis) and improved gut symptoms
-    reference_ids:
-    - REF-0485
-    - REF-0486
-    - REF-0597
-    status: verified
-  - action: Aromatic support for coughs and colds (traditional)
-    reference_ids:
-    - REF-0485
-    status: needs-review
-  - action: Carminative digestive for indigestion (traditional bitter aromatic)
-    reference_ids:
-    - REF-0485
-    status: needs-review
-  - action: Antioxidant and anti-inflammatory
-    reference_ids:
-    - REF-0486
-    - REF-0485
-    status: verified
+- Aerial parts (leaf
+- herb) and essential oil
 constituents:
 - name: Essential oil rich in carvacrol and thymol
+  compounds:
+  - essential-oil
+  - terpene
+  - carvacrol
+  - thymol
   note: Phenolic monoterpenes responsible for the strong antimicrobial activity.
   reference_ids:
   - REF-0485
   - REF-0486
 - name: Phenolic acids (rosmarinic acid) and flavonoids
+  compounds:
+  - rosmarinic-acid
+  - phenolic-acid
+  - flavonoid
   note: Antioxidant constituents.
   reference_ids:
   - REF-0485
+actions:
+- action: anti-inflammatory
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  status: verified
+- action: antifungal
+  note: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and
+    gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric parasites
+    (incl. Blastocystis hominis) and improved gut symptoms
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  - REF-0597
+  status: verified
+- action: antimicrobial
+  note: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and
+    gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric parasites
+    (incl. Blastocystis hominis) and improved gut symptoms
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  - REF-0597
+  status: verified
+- action: antioxidant
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  status: verified
+- action: carminative
+  note: Carminative digestive for indigestion (traditional bitter aromatic)
+  reference_ids:
+  - REF-0485
+  status: needs-review
+- action: digestive
+  note: Carminative digestive for indigestion (traditional bitter aromatic)
+  reference_ids:
+  - REF-0485
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from carminative action
+  reference_ids:
+  - REF-0485
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: Aromatic support for coughs and colds (traditional)
+  reference_ids:
+  - REF-0485
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: Aromatic support for coughs and colds (traditional)
+  reference_ids:
+  - REF-0485
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: Carminative digestive for indigestion (traditional bitter aromatic)
+  reference_ids:
+  - REF-0485
+  status: needs-review
+- condition: infection
+  evidence: 3
+  note: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and
+    gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric parasites
+    (incl. Blastocystis hominis) and improved gut symptoms
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  - REF-0597
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from antifungal action
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  - REF-0597
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  - REF-0597
+  status: needs-review
 contraindications:
 - note: Culinary amounts are safe. Concentrated oregano essential oil is a strong irritant - dilute well
     before any topical use and do not take undiluted oil internally.
+  severity: caution
   reference_ids:
   - REF-0486
   status: verified
 - note: May lower blood sugar and has a mild antiplatelet effect, so use caution with antidiabetic or
     anticoagulant medicines; avoid medicinal/oil doses in pregnancy. Allergy is possible in people sensitive
     to the mint family (Lamiaceae).
+  severity: caution
   reference_ids:
   - REF-0485
   status: needs-review
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal of Pharmaceutical Research
   phytochemistry/antimicrobial review; Phytotherapy Research carvacrol review). Note: this is Origanum
   vulgare (wild marjoram), distinct from the book''s Origanum majorana (sweet marjoram). Originally a
   skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cold, cough, indigestion, infection,
-  inflammation); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a
-  PubMed-sourced small clinical study showing emulsified oregano oil eradicated enteric parasites (incl.
-  Blastocystis hominis) and improved gastrointestinal symptoms (REF-0597).'
-last_updated: '2026-06-14'
-status: verified
+  inflammation); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with
+  a PubMed-sourced small clinical study showing emulsified oregano oil eradicated enteric parasites (incl.
+  Blastocystis hominis) and improved gastrointestinal symptoms (REF-0597). | 2026-06-15: migrated to entity
+  schema (actions->vocab ids, indications split out, constituents linked to compounds).'

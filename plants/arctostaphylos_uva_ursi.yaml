@@ -1,34 +1,17 @@
+id: arctostaphylos-uva-ursi
+scientific_name: Arctostaphylos uva-ursi
 common_names:
 - Bearberry
 - Uva-ursi
 - Kinnikinnick
 - Bear's grape
-scientific_name: Arctostaphylos uva-ursi
 family: Ericaceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)
-    reference_ids:
-    - REF-0405
-    - REF-0406
-    - REF-0700
-    - REF-0701
-    status: verified
-  - action: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
-      by alkaline urine)
-    reference_ids:
-    - REF-0405
-    - REF-0406
-    - REF-0702
-    status: verified
-  - action: Astringent (tannins)
-    reference_ids:
-    - REF-0405
-    - REF-0407
-    status: verified
+- Leaf
 constituents:
 - name: Arbutin (and methylarbutin)
+  compounds:
+  - glycoside
   note: Hydroquinone glycoside; hydrolysed and excreted as antibacterial hydroquinone in the urine.
   reference_ids:
   - REF-0405
@@ -36,43 +19,139 @@ constituents:
   - REF-0702
   - REF-0703
 - name: Tannins (gallotannins)
+  compounds:
+  - tannin
   note: Up to ~20%; responsible for the astringency and for gastric irritation at high doses.
   reference_ids:
   - REF-0405
   - REF-0407
 - name: Flavonoids and phenolic acids
+  compounds:
+  - phenolic-acid
+  - flavonoid
   note: Antioxidant constituents of the leaf.
   reference_ids:
   - REF-0407
   - REF-0704
+actions:
+- action: antimicrobial
+  note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
+    by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis
+    (short-term)
+  reference_ids:
+  - REF-0405
+  - REF-0406
+  - REF-0700
+  - REF-0701
+  - REF-0702
+  status: verified
+- action: astringent
+  note: Astringent (tannins)
+  reference_ids:
+  - REF-0405
+  - REF-0407
+  status: verified
+- action: urinary-antiseptic
+  note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
+    by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis
+    (short-term)
+  reference_ids:
+  - REF-0405
+  - REF-0406
+  - REF-0700
+  - REF-0701
+  - REF-0702
+  status: verified
+indications:
+- condition: diarrhea
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0405
+  - REF-0407
+  status: needs-review
+- condition: infection
+  evidence: 3
+  note: Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)
+  reference_ids:
+  - REF-0405
+  - REF-0406
+  - REF-0700
+  - REF-0701
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0405
+  - REF-0407
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: inferred from urinary-antiseptic action
+  reference_ids:
+  - REF-0405
+  - REF-0406
+  - REF-0700
+  - REF-0701
+  - REF-0702
+  status: needs-review
+- condition: uti
+  evidence: 3
+  note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
+    by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis
+    (short-term)
+  reference_ids:
+  - REF-0405
+  - REF-0406
+  - REF-0700
+  - REF-0701
+  - REF-0702
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0405
+  - REF-0406
+  - REF-0700
+  - REF-0701
+  - REF-0702
+  status: needs-review
 contraindications:
 - note: 'Short-term use only: not for more than 1 week at a time and not more than about 5 times per year.
     If symptoms persist beyond ~4 days, worsen, or are accompanied by fever, blood in the urine or pain,
     seek medical care.'
+  severity: info
   reference_ids:
   - REF-0405
   status: verified
 - note: Contraindicated in pregnancy and breastfeeding and not for use in children or adolescents under
     18 years.
+  severity: caution
   reference_ids:
   - REF-0405
   status: verified
 - note: Works best when the urine is alkaline; avoid taking with substances that acidify the urine. The
     hydroquinone released can be irritant/potentially hepatotoxic, so prolonged or repeated use must be
     avoided.
+  severity: serious
   reference_ids:
   - REF-0405
   - REF-0406
   - REF-0702
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (EMA HMPC monograph, ESCOP
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-15'
+internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (EMA HMPC monograph, ESCOP
   monograph, Journal of Ethnopharmacology toxicology study). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (uti, infection); associations retained and now part-mapped and cited.
   NOTE strict short-term-use and pregnancy contraindications. Further enriched 2026-06-15 with five PubMed
   sources (REF-0700..REF-0704). Two primary-care randomized trials (REF-0700, REF-0701) found that uva-ursi
-  did not reliably relieve UTI symptoms or safely replace antibiotics (one failed non-inferiority with more
-  pyelonephritis), so the urinary action - though monograph-supported for traditional use - has weak clinical-trial
-  backing. An analytical study quantified arbutin and hydroquinone in the leaf (REF-0702), and two studies
-  characterise arbutin anti-inflammatory and antioxidant pharmacology (REF-0703, REF-0704).
-last_updated: '2026-06-15'
-status: verified
+  did not reliably relieve UTI symptoms or safely replace antibiotics (one failed non-inferiority with
+  more pyelonephritis), so the urinary action - though monograph-supported for traditional use - has weak
+  clinical-trial backing. An analytical study quantified arbutin and hydroquinone in the leaf (REF-0702),
+  and two studies characterise arbutin anti-inflammatory and antioxidant pharmacology (REF-0703, REF-0704).
+  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

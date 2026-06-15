@@ -1,49 +1,109 @@
+id: cannabis-sativa
+scientific_name: Cannabis sativa
 common_names:
 - Hemp
 - industrial hemp
 - cannabis
-scientific_name: Cannabis sativa
 family: Cannabaceae
 parts_used:
-- name: Flower / Leaf / Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0044
-    - REF-0058
-    - REF-0213
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0044
-    - REF-0058
-    - REF-0213
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0044
-    - REF-0058
-    - REF-0213
-    status: verified
-  - action: Pain Relief
-    reference_ids:
-    - REF-0044
-    - REF-0058
-    - REF-0213
-    status: verified
-  - action: Sedative
-    reference_ids:
-    - REF-0044
-    - REF-0058
-    - REF-0213
-    status: verified
-constituents: []
+- Flower
+- Leaf
+- Seed
+actions:
+- action: analgesic
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: verified
+- action: sedative
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: verified
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: inferred from sedative action
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: needs-review
+- condition: pain
+  evidence: 3
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  - REF-0213
+  status: needs-review
 contraindications:
 - note: Industrial hemp (low-THC cannabis) seed oil and seeds are generally safe as food. CBD products
     derived from hemp may interact with medications metabolised by cytochrome P450 liver enzymes, including
     common anticoagulants, antiepileptics, and immunosuppressants. THC-containing preparations impair
     driving and are regulated or prohibited in many jurisdictions. Not recommended during pregnancy or
     breastfeeding. Quality and cannabinoid content vary widely between hemp products.
+  severity: caution
   reference_ids:
   - REF-0044
   - REF-0058
@@ -56,14 +116,17 @@ contraindications:
     are clinically approved for nausea and anorexia. Duke cautions that while the plant has genuine therapeutic
     potential, psychoactive effects, legal restrictions, and risk of dependence with regular use must
     be considered (Duke, 2002).
+  severity: caution
   reference_ids:
   - REF-0044
   - REF-0058
   - REF-0213
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

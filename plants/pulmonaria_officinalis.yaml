@@ -1,25 +1,20 @@
+id: pulmonaria-officinalis
+scientific_name: Pulmonaria officinalis
 common_names:
 - Lungwort
 - Common lungwort
 - Jerusalem cowslip
 - Spotted dog
-scientific_name: Pulmonaria officinalis
 family: Boraginaceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
-      (mucilage and saponins)
-    reference_ids:
-    - REF-0479
-    status: needs-review
-  - action: Anti-inflammatory (cyclooxygenase-2 inhibition) and antioxidant
-    reference_ids:
-    - REF-0479
-    - REF-0629
-    status: verified
+- Aerial parts (flowering herb)
 constituents:
 - name: Phenolic acids (rosmarinic, lithospermic and salvianolic acids)
+  compounds:
+  - phenolic-compound
+  - phenolic-acid
+  - caffeic-acid
+  - rosmarinic-acid
   note: The main antioxidant and COX-2-inhibiting constituents; LC-MS/MS profiling of the aerial parts
     identified dozens of phenolic compounds (caffeic acid esters and danshensu/dicaffeic-acid conjugates),
     nine of them previously undescribed, with marked seasonal variation.
@@ -27,26 +22,108 @@ constituents:
   - REF-0479
   - REF-0549
 - name: Mucilage, flavonoids, allantoin and silicic acid
+  compounds:
+  - flavonoid
+  - allantoin
+  - mucilage
   note: Soothing and supporting constituents underlying the traditional respiratory use.
   reference_ids:
   - REF-0479
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory (cyclooxygenase-2 inhibition) and antioxidant
+  reference_ids:
+  - REF-0479
+  - REF-0629
+  status: verified
+- action: antioxidant
+  note: Anti-inflammatory (cyclooxygenase-2 inhibition) and antioxidant
+  reference_ids:
+  - REF-0479
+  - REF-0629
+  status: verified
+- action: demulcent
+  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
+    (mucilage and saponins)
+  reference_ids:
+  - REF-0479
+  status: needs-review
+- action: expectorant
+  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
+    (mucilage and saponins)
+  reference_ids:
+  - REF-0479
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0479
+  - REF-0629
+  status: needs-review
+- condition: bronchitis
+  evidence: 2
+  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
+    (mucilage and saponins)
+  reference_ids:
+  - REF-0479
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
+    (mucilage and saponins)
+  reference_ids:
+  - REF-0479
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0479
+  - REF-0629
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
+    (mucilage and saponins)
+  reference_ids:
+  - REF-0479
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0479
+  status: needs-review
+- condition: sore-throat
+  evidence: 2
+  note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
+    (mucilage and saponins)
+  reference_ids:
+  - REF-0479
+  status: needs-review
 contraindications:
 - note: As a member of the borage family (Boraginaceae), which can contain hepatotoxic pyrrolizidine alkaloids,
     prolonged or high-dose internal use is best avoided; use in pregnancy and breastfeeding is not recommended.
+  severity: serious
   reference_ids:
   - REF-0479
   status: needs-review
 - note: Traditional use only; clinical evidence in humans is limited, so a cough or respiratory complaint
     that persists needs medical assessment.
+  severity: info
   reference_ids:
   - REF-0479
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Molecules study of Pulmonaria antioxidant
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study of Pulmonaria antioxidant
   and COX-2-inhibitory activity). Further enriched 2026-06-13 with a PubMed LC-MS/MS phenolic-constituents
   profiling study (REF-0549, Krzyzanowska-Kowalczyk et al. 2018). Lungwort is poorly covered by clinical
   trials, so respiratory actions remain needs-review. Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (cough, bronchitis, sore-throat); associations retained and now part-mapped
   and cited. Further enriched 2026-06-14 with a PubMed-sourced study isolating yunnaneic acid B from P.
-  officinalis and demonstrating its antioxidant (peroxynitrite-scavenging) activity (REF-0629).
-last_updated: '2026-06-14'
-status: verified
+  officinalis and demonstrating its antioxidant (peroxynitrite-scavenging) activity (REF-0629). | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

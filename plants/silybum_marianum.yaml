@@ -1,67 +1,143 @@
+id: silybum-marianum
+scientific_name: Silybum marianum
 common_names:
 - Milk Thistle
 - Mary thistle
 - Holy thistle
 - Silybum
-scientific_name: Silybum marianum
 family: Asteraceae
 parts_used:
-- name: Seed (fruit)
-  medicinal_actions:
-  - action: Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic)
-    reference_ids:
-    - REF-0483
-    - REF-0484
-    status: verified
-  - action: Anti-inflammatory and antioxidant
-    reference_ids:
-    - REF-0484
-    - REF-0483
-    status: verified
-  - action: Supports liver recovery and 'detox' (traditional framing of the hepatoprotective action)
-    reference_ids:
-    - REF-0483
-    status: needs-review
-  - action: Digestive support / mild dyspepsia (traditional)
-    reference_ids:
-    - REF-0483
-    status: needs-review
-  - action: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
-    reference_ids:
-    - REF-0559
-    status: verified
-  - action: May improve liver enzymes and hepatic fat in non-alcoholic fatty liver disease (NAFLD)
-    reference_ids:
-    - REF-0560
-    status: needs-review
+- Seed (fruit)
 constituents:
 - name: Silymarin (a flavonolignan complex)
+  compounds:
+  - silymarin
   note: The active complex; silybin (silibinin) is the most active component, with silydianin and silychristin.
   reference_ids:
   - REF-0483
   - REF-0484
 - name: Flavonoids
+  compounds:
+  - flavonoid
   note: Additional antioxidant constituents of the seed.
   reference_ids:
   - REF-0484
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory and antioxidant
+  reference_ids:
+  - REF-0483
+  - REF-0484
+  status: verified
+- action: antidiabetic
+  note: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
+  reference_ids:
+  - REF-0559
+  status: verified
+- action: antioxidant
+  note: Anti-inflammatory and antioxidant; Hepatoprotective / liver support (protects liver cells, antioxidant
+    and antifibrotic)
+  reference_ids:
+  - REF-0483
+  - REF-0484
+  status: verified
+- action: digestive
+  note: Digestive support / mild dyspepsia (traditional)
+  reference_ids:
+  - REF-0483
+  status: needs-review
+- action: hepatoprotective
+  note: Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic); May improve
+    liver enzymes and hepatic fat in non-alcoholic fatty liver disease (NAFLD); Supports liver recovery
+    and 'detox' (traditional framing of the hepatoprotective action)
+  reference_ids:
+  - REF-0483
+  - REF-0484
+  - REF-0560
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0483
+  - REF-0484
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0483
+  status: needs-review
+- condition: blood-sugar
+  evidence: 3
+  note: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
+  reference_ids:
+  - REF-0559
+  status: verified
+- condition: detox
+  evidence: 3
+  note: Supports liver recovery and 'detox' (traditional framing of the hepatoprotective action)
+  reference_ids:
+  - REF-0483
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: Digestive support / mild dyspepsia (traditional)
+  reference_ids:
+  - REF-0483
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0483
+  - REF-0484
+  status: needs-review
+- condition: liver-support
+  evidence: 4
+  note: Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic); May improve
+    liver enzymes and hepatic fat in non-alcoholic fatty liver disease (NAFLD)
+  reference_ids:
+  - REF-0483
+  - REF-0484
+  - REF-0560
+  status: needs-review
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0559
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0483
+  - REF-0484
+  status: needs-review
 contraindications:
 - note: Very well tolerated, even at high doses; the main effects are mild gastrointestinal upset (nausea,
     loose stools). As a member of the daisy family (Asteraceae), it can cause allergic reactions in sensitive
     people.
+  severity: info
   reference_ids:
   - REF-0483
   status: verified
 - note: Has a low potential for drug interactions (little effect on liver CYP enzymes), but use caution
     with medicines that have a narrow therapeutic window. Human pregnancy data are limited, so use cautiously.
+  severity: caution
   reference_ids:
   - REF-0483
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Phytotherapy Research safety/toxicity
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research safety/toxicity
   review; Biomedicine & Pharmacotherapy review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (liver-support, detox, indigestion, inflammation); associations retained
   and now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced clinical evidence - a
   meta-analysis of RCTs in type 2 diabetes (REF-0559; significant reductions in fasting glucose and HbA1c)
   and a network meta-analysis in NAFLD (REF-0560; modest liver-enzyme benefit, with novel metabolic agents
-  outperforming plant drugs, hence needs-review).
-last_updated: '2026-06-14'
-status: verified
+  outperforming plant drugs, hence needs-review). | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

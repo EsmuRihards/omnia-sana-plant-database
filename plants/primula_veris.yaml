@@ -1,38 +1,75 @@
+id: primula-veris
+scientific_name: Primula veris
 common_names:
 - Cowslip
 - common cowslip
 - cowslip primrose
 - keyflower
-scientific_name: Primula veris
 family: Primulaceae
 parts_used:
-- name: Flower / Leaf / Rhizome / Root
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0075
-    - REF-0235
-    - REF-0306
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0075
-    - REF-0235
-    - REF-0306
-    status: verified
-  - action: Respiratory Support
-    reference_ids:
-    - REF-0075
-    - REF-0235
-    - REF-0306
-    status: verified
-  - action: Sedative
-    reference_ids:
-    - REF-0075
-    - REF-0235
-    - REF-0306
-    status: verified
-constituents: []
+- Flower
+- Leaf
+- Rhizome
+- Root
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: verified
+- action: sedative
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: inferred from sedative action
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: needs-review
+- condition: respiratory-support
+  evidence: 3
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: needs-review
 contraindications:
 - note: 'Allergy risk: avoid if you’re allergic to cowslip/other Primula species (European Medicines Agency,
     2012). Stomach sensitivity: use caution if you have gastritis or a stomach ulcer—cowslip can upset
@@ -41,6 +78,7 @@ contraindications:
     Pregnancy/breastfeeding: not recommended due to lack of good safety data (European Medicines Agency,
     2012). Kids: many preparations are not recommended under 12 (and some root extracts under 4) unless
     a labeled product specifically allows it (European Medicines Agency, 2012).'
+  severity: caution
   reference_ids:
   - REF-0075
   - REF-0235
@@ -51,14 +89,17 @@ contraindications:
     g root or 1–2 g herb as tea three times daily. Saponins in the root are responsible for the expectorant
     action. Duke warns that the plant may cause hemolysis in large doses due to saponin content, and caution
     is warranted in individuals with aspirin sensitivity due to phenolic acid content (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0075
   - REF-0235
   - REF-0306
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

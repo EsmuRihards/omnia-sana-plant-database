@@ -1,46 +1,14 @@
+id: andrographis-paniculata
+scientific_name: Andrographis paniculata
 common_names:
 - Andrographis
 - Green chiretta
 - King of bitters
 - Kalmegh
 - Chuan xin lian
-scientific_name: Andrographis paniculata
 family: Acanthaceae
 parts_used:
-- name: Aerial parts (leaves and herb)
-  medicinal_actions:
-  - action: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces
-      symptom severity and duration)
-    reference_ids:
-    - REF-0392
-    - REF-0395
-    - REF-0393
-    status: verified
-  - action: Relief of sore throat
-    reference_ids:
-    - REF-0392
-    - REF-0395
-    status: verified
-  - action: Antipyretic (fever)
-    reference_ids:
-    - REF-0394
-    - REF-0395
-    status: verified
-  - action: Immunostimulant / immune support
-    reference_ids:
-    - REF-0393
-    - REF-0394
-    status: verified
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0393
-    - REF-0394
-    status: verified
-  - action: Antimicrobial and antiviral
-    reference_ids:
-    - REF-0394
-    - REF-0393
-    status: verified
+- Aerial parts (leaves and herb)
 constituents:
 - name: Diterpenoid lactones
   note: Andrographolide is the principal active compound; also neoandrographolide and deoxyandrographolide.
@@ -48,34 +16,140 @@ constituents:
   - REF-0393
   - REF-0394
 - name: Flavonoids
+  compounds:
+  - flavonoid
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0394
 - name: Polyphenols and other phenolics
+  compounds:
+  - phenolic-compound
   note: Contribute to antioxidant activity.
   reference_ids:
   - REF-0394
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: verified
+- action: antimicrobial
+  note: Antimicrobial and antiviral
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: verified
+- action: antipyretic
+  note: Antipyretic (fever)
+  reference_ids:
+  - REF-0394
+  - REF-0395
+  status: verified
+- action: antiviral
+  note: Antimicrobial and antiviral
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: verified
+- action: immunomodulator
+  note: Immunostimulant / immune support
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: needs-review
+- condition: cold
+  evidence: 4
+  note: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom
+    severity and duration)
+  reference_ids:
+  - REF-0392
+  - REF-0393
+  - REF-0395
+  status: verified
+- condition: fever
+  evidence: 3
+  note: Antipyretic (fever)
+  reference_ids:
+  - REF-0394
+  - REF-0395
+  status: verified
+- condition: immune-support
+  evidence: 3
+  note: Immunostimulant / immune support
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: verified
+- condition: infection
+  evidence: 3
+  note: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom
+    severity and duration)
+  reference_ids:
+  - REF-0392
+  - REF-0393
+  - REF-0395
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  reference_ids:
+  - REF-0392
+  - REF-0395
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0393
+  - REF-0394
+  status: needs-review
 contraindications:
 - note: 'Avoid in pregnancy and when trying to conceive: high doses have shown reproductive toxicity in
     animals and the herb has a traditional reputation as an abortifacient.'
+  severity: caution
   reference_ids:
   - REF-0393
   - REF-0395
   status: verified
 - note: High doses have caused nephrotoxicity and reproductive toxicity in studies; use standardized products
     at recommended doses and avoid prolonged high-dose use.
+  severity: caution
   reference_ids:
   - REF-0393
   status: verified
 - note: May lower blood pressure and blood sugar and may interact with anticoagulant/antiplatelet, antihypertensive
     and immunosuppressant medicines; allergic reactions can occur.
+  severity: caution
   reference_ids:
   - REF-0395
   - REF-0393
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy
+provenance: website+symptom-tool
+status: verified
+last_updated: '2026-06-12'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy
   Research and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
-status: verified
+  retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
+  indications split out, constituents linked to compounds).'

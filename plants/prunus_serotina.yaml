@@ -1,59 +1,102 @@
+id: prunus-serotina
+scientific_name: Prunus serotina
 common_names:
 - Wild Cherry Bark
 - Black cherry
 - Wild black cherry
 - Rum cherry
-scientific_name: Prunus serotina
 family: Rosaceae
 parts_used:
-- name: Bark (dried)
-  medicinal_actions:
-  - action: Antitussive - calms a persistent dry, irritating cough (prunasin quietens the cough reflex)
-    reference_ids:
-    - REF-0524
-    - REF-0525
-    status: verified
-  - action: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)
-    reference_ids:
-    - REF-0525
-    status: needs-review
-  - action: Soothes sore throat and respiratory irritation (traditional)
-    reference_ids:
-    - REF-0524
-    status: needs-review
+- Bark (dried)
 constituents:
 - name: Cyanogenic glycoside prunasin
+  compounds:
+  - glycoside
   note: Releases trace hydrogen cyanide that calms the cough reflex - the basis of both the antitussive
     action and the safety caution.
   reference_ids:
   - REF-0524
   - REF-0525
 - name: Tannins, coumarins (scopoletin) and benzaldehyde
+  compounds:
+  - coumarin
+  - tannin
   note: Astringent and aromatic supporting constituents.
   reference_ids:
   - REF-0525
 - name: Flavanones (naringenin) and methoxylated benzene derivatives
-  note: Bio-guided fractionation of the bark identified naringenin and trimethoxy-benzene/benzoic-acid compounds;
-    the bark extract also showed antiparasitic (cysticidal) activity in laboratory studies.
+  compounds:
+  - flavonoid
+  note: Bio-guided fractionation of the bark identified naringenin and trimethoxy-benzene/benzoic-acid
+    compounds; the bark extract also showed antiparasitic (cysticidal) activity in laboratory studies.
   reference_ids:
   - REF-0628
+actions:
+- action: antispasmodic
+  note: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)
+  reference_ids:
+  - REF-0525
+  status: needs-review
+- action: antitussive
+  note: Antitussive - calms a persistent dry, irritating cough (prunasin quietens the cough reflex)
+  reference_ids:
+  - REF-0524
+  - REF-0525
+  status: verified
+indications:
+- condition: bronchitis
+  evidence: 2
+  note: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)
+  reference_ids:
+  - REF-0525
+  status: needs-review
+- condition: cough
+  evidence: 3
+  note: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways); Antitussive - calms
+    a persistent dry, irritating cough (prunasin quietens the cough reflex)
+  reference_ids:
+  - REF-0524
+  - REF-0525
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0525
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0525
+  status: needs-review
+- condition: sore-throat
+  evidence: 2
+  note: Soothes sore throat and respiratory irritation (traditional)
+  reference_ids:
+  - REF-0524
+  status: needs-review
 contraindications:
 - note: 'Contains cyanogenic compounds: use only properly dried, prepared bark and avoid large or prolonged
     doses (fresh bark has a higher toxic content). It suppresses the cough reflex, so it suits dry, unproductive
     coughs - not productive coughs where mucus needs clearing.'
+  severity: caution
   reference_ids:
   - REF-0524
   - REF-0525
   status: verified
 - note: Avoid in pregnancy and breastfeeding because of the cyanogenic glycosides.
+  severity: caution
   reference_ids:
   - REF-0525
   status: verified
-internal_notes: Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and The Herbal
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and The Herbal
   Medic monographs). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited. Further enriched
   2026-06-14 with a PubMed-sourced bio-guided phytochemical study of Prunus serotina bark (REF-0628) that
   identified naringenin and methoxylated benzene derivatives; this characterises bark constituents (its
-  headline activity is antiparasitic, not antitussive).
-last_updated: '2026-06-14'
-status: verified
+  headline activity is antiparasitic, not antitussive). | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

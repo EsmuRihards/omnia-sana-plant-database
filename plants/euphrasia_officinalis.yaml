@@ -1,60 +1,159 @@
+id: euphrasia-officinalis
+scientific_name: Euphrasia officinalis
 common_names:
 - Eyebright
 - Euphrasy
 - Red eyebright
-scientific_name: Euphrasia officinalis
 family: Orobanchaceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
-      as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported
-      recovery or clear improvement in most patients with conjunctivitis
-    reference_ids:
-    - REF-0449
-    - REF-0448
-    - REF-0613
-    status: verified
-  - action: Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)
-    reference_ids:
-    - REF-0449
-    status: needs-review
-  - action: Soothes upper-respiratory catarrh and mild infection (traditional)
-    reference_ids:
-    - REF-0449
-    status: needs-review
+- Aerial parts (flowering herb)
 constituents:
 - name: Iridoid glycosides (notably aucubin)
+  compounds:
+  - iridoid-glycoside
+  - glycoside
   note: Give the plant its anti-inflammatory action on irritated tissue.
   reference_ids:
   - REF-0449
   - REF-0448
 - name: Tannins
+  compounds:
+  - tannin
   note: Astringent constituents useful in watery, irritated eyes.
   reference_ids:
   - REF-0449
 - name: Flavonoids (quercetin) and phenolic acids
+  compounds:
+  - phenolic-acid
+  - flavonoid
+  - quercetin
   note: Antioxidant constituents.
   reference_ids:
   - REF-0449
   - REF-0448
+actions:
+- action: anti-inflammatory
+  note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
+    as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported
+    recovery or clear improvement in most patients with conjunctivitis
+  reference_ids:
+  - REF-0448
+  - REF-0449
+  - REF-0613
+  status: verified
+- action: astringent
+  note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
+    as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported
+    recovery or clear improvement in most patients with conjunctivitis
+  reference_ids:
+  - REF-0448
+  - REF-0449
+  - REF-0613
+  status: verified
+indications:
+- condition: allergy
+  evidence: 2
+  note: Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)
+  reference_ids:
+  - REF-0449
+  status: needs-review
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0448
+  - REF-0449
+  - REF-0613
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: Soothes upper-respiratory catarrh and mild infection (traditional)
+  reference_ids:
+  - REF-0449
+  status: needs-review
+- condition: diarrhea
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0448
+  - REF-0449
+  - REF-0613
+  status: needs-review
+- condition: eye-strain
+  evidence: 2
+  note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
+    as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported
+    recovery or clear improvement in most patients with conjunctivitis; Eases eye strain and watery, itchy
+    eyes from allergy (hay fever / allergic conjunctivitis)
+  reference_ids:
+  - REF-0448
+  - REF-0449
+  - REF-0613
+  status: needs-review
+- condition: fever
+  evidence: 2
+  note: Eases eye strain and watery, itchy eyes from allergy (hay fever / allergic conjunctivitis)
+  reference_ids:
+  - REF-0449
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: Soothes upper-respiratory catarrh and mild infection (traditional)
+  reference_ids:
+  - REF-0449
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0448
+  - REF-0449
+  - REF-0613
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: Soothes upper-respiratory catarrh and mild infection (traditional)
+  reference_ids:
+  - REF-0449
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0448
+  - REF-0449
+  - REF-0613
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0448
+  - REF-0449
+  - REF-0613
+  status: needs-review
 contraindications:
 - note: 'CRITICAL: do not put non-sterile, homemade eyebright preparations directly into the eye - this
     risks serious eye infection. Use only commercially prepared sterile products in the eye, or apply
     a strained, cooled infusion as a compress over closed eyelids.'
+  severity: caution
   reference_ids:
   - REF-0449
   status: verified
 - note: Traditional use only; persistent eye symptoms, pain, discharge or vision change need assessment
     by an eye-care professional. Safety in pregnancy and breastfeeding is not established.
+  severity: caution
   reference_ids:
   - REF-0449
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study;
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study;
   Herbal Reality monograph). Euphrasia is now placed in Orobanchaceae (formerly Scrophulariaceae). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, allergy, infection);
   associations retained and now part-mapped and cited. NOTE sterility caution for eye use. Further enriched
   2026-06-14 with a PubMed-sourced prospective cohort trial of Euphrasia single-dose eye drops in conjunctivitis
-  (REF-0613; complete recovery or clear improvement in ~98% of patients, well tolerated - open-label, single-arm).
-last_updated: '2026-06-14'
-status: verified
+  (REF-0613; complete recovery or clear improvement in ~98% of patients, well tolerated - open-label,
+  single-arm). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

@@ -1,65 +1,117 @@
+id: hibiscus-sabdariffa
+scientific_name: Hibiscus sabdariffa
 common_names:
 - Hibiscus
 - Roselle
 - Sorrel
 - Karkade
-scientific_name: Hibiscus sabdariffa
 family: Malvaceae
 parts_used:
-- name: Calyx (dried flower calyces)
-  medicinal_actions:
-  - action: Lowers blood pressure, with the greatest effect in people with raised blood pressure
-    reference_ids:
-    - REF-0464
-    - REF-0465
-    - REF-0566
-    - REF-0567
-    status: verified
-  - action: Improves the lipid profile - lowers LDL and total cholesterol
-    reference_ids:
-    - REF-0464
-    - REF-0465
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0464
-    status: verified
-  - action: Lowers fasting blood glucose
-    reference_ids:
-    - REF-0567
-    status: verified
+- Calyx (dried flower calyces)
 constituents:
 - name: Anthocyanins (delphinidin and cyanidin glucosides)
+  compounds:
+  - anthocyanin
   note: The red pigments and principal antioxidant/vasoactive constituents.
   reference_ids:
   - REF-0464
 - name: Organic acids (including hibiscus/hydroxycitric acid) and polyphenols
+  compounds:
+  - phenolic-compound
   note: Contribute to the tartness and cardiometabolic effects.
   reference_ids:
   - REF-0464
 - name: Flavonoids
+  compounds:
+  - flavonoid
   note: Additional antioxidant constituents.
   reference_ids:
   - REF-0464
+actions:
+- action: antidiabetic
+  note: Lowers fasting blood glucose
+  reference_ids:
+  - REF-0567
+  status: verified
+- action: antihypertensive
+  note: Lowers blood pressure, with the greatest effect in people with raised blood pressure
+  reference_ids:
+  - REF-0464
+  - REF-0465
+  - REF-0566
+  - REF-0567
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0464
+  status: verified
+- action: lipid-lowering
+  note: Improves the lipid profile - lowers LDL and total cholesterol
+  reference_ids:
+  - REF-0464
+  - REF-0465
+  status: verified
+indications:
+- condition: blood-sugar
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0567
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 2
+  note: inferred from antihypertensive action
+  reference_ids:
+  - REF-0464
+  - REF-0465
+  - REF-0566
+  - REF-0567
+  status: needs-review
+- condition: high-blood-pressure
+  evidence: 3
+  note: Lowers blood pressure, with the greatest effect in people with raised blood pressure
+  reference_ids:
+  - REF-0464
+  - REF-0465
+  - REF-0566
+  - REF-0567
+  status: verified
+- condition: high-cholesterol
+  evidence: 2
+  note: inferred from lipid-lowering action
+  reference_ids:
+  - REF-0464
+  - REF-0465
+  status: needs-review
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0567
+  status: needs-review
 contraindications:
 - note: Its blood-pressure-lowering effect can add to that of antihypertensive medicines; monitor blood
     pressure if you take them. Note that it is not superior to standard antihypertensive drugs and did
     not significantly lower blood pressure in the metabolic-syndrome subgroup.
+  severity: info
   reference_ids:
   - REF-0464
   - REF-0566
   status: verified
 - note: May alter the absorption or levels of some medicines (e.g. paracetamol, chloroquine); avoid concentrated
     or medicinal doses in pregnancy.
+  severity: caution
   reference_ids:
   - REF-0464
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Nutrition Reviews meta-analysis; Foods
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Reviews meta-analysis; Foods
   systematic review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (high-blood-pressure, high-cholesterol); associations retained and now part-mapped and cited.
   Further enriched 2026-06-14 with PubMed-sourced meta-analyses of RCTs - a 13-trial review confirming
   systolic/diastolic reductions but no advantage over antihypertensive drugs and no effect in metabolic
   syndrome (REF-0566) and a sour-tea review showing reduced fasting plasma glucose and blood pressure
-  (REF-0567).
-last_updated: '2026-06-14'
-status: verified
+  (REF-0567). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

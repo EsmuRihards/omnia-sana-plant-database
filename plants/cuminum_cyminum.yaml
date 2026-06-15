@@ -1,170 +1,408 @@
+id: cuminum-cyminum
+scientific_name: Cuminum cyminum
 common_names:
 - Cumin
 - Roman cumin
 - jeera
 - zira (Britannica
 - 2025)
-scientific_name: Cuminum cyminum
 family: Apiaceae
 parts_used:
-- name: Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0008
-    - REF-0026
-    - REF-0034
-    - REF-0066
-    - REF-0067
-    - REF-0116
-    - REF-0130
-    - REF-0147
-    - REF-0150
-    - REF-0156
-    - REF-0158
-    - REF-0171
-    - REF-0175
-    - REF-0185
-    - REF-0201
-    - REF-0221
-    - REF-0267
-    - REF-0286
-    - REF-0294
-    - REF-0307
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0008
-    - REF-0026
-    - REF-0034
-    - REF-0066
-    - REF-0067
-    - REF-0116
-    - REF-0130
-    - REF-0147
-    - REF-0150
-    - REF-0156
-    - REF-0158
-    - REF-0171
-    - REF-0175
-    - REF-0185
-    - REF-0201
-    - REF-0221
-    - REF-0267
-    - REF-0286
-    - REF-0294
-    - REF-0307
-    - REF-0657
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0008
-    - REF-0026
-    - REF-0034
-    - REF-0066
-    - REF-0067
-    - REF-0116
-    - REF-0130
-    - REF-0147
-    - REF-0150
-    - REF-0156
-    - REF-0158
-    - REF-0171
-    - REF-0175
-    - REF-0185
-    - REF-0201
-    - REF-0221
-    - REF-0267
-    - REF-0286
-    - REF-0294
-    - REF-0307
-    - REF-0657
-    status: verified
-  - action: Antispasmodic (cramp easing)
-    reference_ids:
-    - REF-0008
-    - REF-0026
-    - REF-0034
-    - REF-0066
-    - REF-0067
-    - REF-0116
-    - REF-0130
-    - REF-0147
-    - REF-0150
-    - REF-0156
-    - REF-0158
-    - REF-0171
-    - REF-0175
-    - REF-0185
-    - REF-0201
-    - REF-0221
-    - REF-0267
-    - REF-0286
-    - REF-0294
-    - REF-0307
-    - REF-0656
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0008
-    - REF-0026
-    - REF-0034
-    - REF-0066
-    - REF-0067
-    - REF-0116
-    - REF-0130
-    - REF-0147
-    - REF-0150
-    - REF-0156
-    - REF-0158
-    - REF-0171
-    - REF-0175
-    - REF-0185
-    - REF-0201
-    - REF-0221
-    - REF-0267
-    - REF-0286
-    - REF-0294
-    - REF-0307
-    - REF-0656
-    status: verified
-  - action: Metabolic support
-    reference_ids:
-    - REF-0008
-    - REF-0026
-    - REF-0034
-    - REF-0066
-    - REF-0067
-    - REF-0116
-    - REF-0130
-    - REF-0147
-    - REF-0150
-    - REF-0156
-    - REF-0158
-    - REF-0171
-    - REF-0175
-    - REF-0185
-    - REF-0201
-    - REF-0221
-    - REF-0267
-    - REF-0286
-    - REF-0294
-    - REF-0307
-    - REF-0652
-    - REF-0653
-    - REF-0654
-    - REF-0655
-    status: verified
+- Seed
 constituents:
 - name: Cuminaldehyde
+  compounds:
+  - essential-oil
   note: Cuminaldehyde (4-isopropylbenzaldehyde) is the dominant constituent of cumin-seed essential oil
     (around two-thirds of the oil) and the main driver of its antimicrobial, antifungal (anti-aflatoxigenic)
     and antioxidant activity.
   reference_ids:
   - REF-0657
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0657
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0657
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (cramp easing)
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0656
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0656
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0656
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0656
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0657
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0656
+  status: needs-review
+- condition: metabolic-support
+  evidence: 3
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0652
+  - REF-0653
+  - REF-0654
+  - REF-0655
+  status: verified
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0656
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0008
+  - REF-0026
+  - REF-0034
+  - REF-0066
+  - REF-0067
+  - REF-0116
+  - REF-0130
+  - REF-0147
+  - REF-0150
+  - REF-0156
+  - REF-0158
+  - REF-0171
+  - REF-0175
+  - REF-0185
+  - REF-0201
+  - REF-0221
+  - REF-0267
+  - REF-0286
+  - REF-0294
+  - REF-0307
+  - REF-0657
+  status: needs-review
 contraindications:
 - note: Food amounts are generally considered safe; in the US it’s listed as GRAS as a spice/flavoring
     (LactMed, 2025).
+  severity: info
   reference_ids:
   - REF-0008
   - REF-0026
@@ -190,6 +428,7 @@ contraindications:
 - note: 'Allergy risk: cumin can trigger allergic reactions in sensitive people; cross-reactivity is reported
     within Apiaceae spices (e.g., celery/coriander/fennel/cumin) and in “pollen–spice” allergy patterns
     (Lisiecka et al., 2025; Berghea et al., 2025).'
+  severity: info
   reference_ids:
   - REF-0008
   - REF-0026
@@ -217,6 +456,7 @@ contraindications:
     and antioxidant properties. Photodermatitic potential (phototoxicity) of the essential oil is noted
     — users should avoid sun exposure after topical application. Duke advises caution in pregnancy due
     to potential emmenagogue and antifertility effects at high medicinal doses (Duke, 2002).
+  severity: caution
   reference_ids:
   - REF-0008
   - REF-0026
@@ -239,13 +479,15 @@ contraindications:
   - REF-0294
   - REF-0307
   status: verified
+provenance: book+pubmed
+status: verified
+last_updated: '2026-06-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies (REF-0652..REF-0657):
-  meta-analyses on lipids (REF-0652) and glycaemic parameters (REF-0653 positive, REF-0654 null - the
-  glycaemic evidence is mixed), a metabolic-syndrome essential-oil RCT (REF-0655), a post-operative bowel-motility
-  RCT (REF-0656), and an essential-oil antifungal/antioxidant study identifying cuminaldehyde (REF-0657);
-  cuminaldehyde constituent added.'
-last_updated: '2026-06-14'
-status: verified
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
+  (REF-0652..REF-0657): meta-analyses on lipids (REF-0652) and glycaemic parameters (REF-0653 positive,
+  REF-0654 null - the glycaemic evidence is mixed), a metabolic-syndrome essential-oil RCT (REF-0655),
+  a post-operative bowel-motility RCT (REF-0656), and an essential-oil antifungal/antioxidant study identifying
+  cuminaldehyde (REF-0657); cuminaldehyde constituent added. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

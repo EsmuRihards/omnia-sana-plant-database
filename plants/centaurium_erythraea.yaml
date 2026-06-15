@@ -1,57 +1,173 @@
+id: centaurium-erythraea
+scientific_name: Centaurium erythraea
 common_names:
 - Centaury
 - Common centaury
 - European centaury
 - Feverwort
-scientific_name: Centaurium erythraea
 family: Gentianaceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Aromatic bitter tonic for temporary loss of appetite
-    reference_ids:
-    - REF-0431
-    - REF-0432
-    status: verified
-  - action: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
-      and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
-      anti-inflammatory activity
-    reference_ids:
-    - REF-0431
-    - REF-0432
-    - REF-0619
-    status: verified
+- Aerial parts (flowering herb)
 constituents:
 - name: Secoiridoid bitter glycosides (gentiopicroside, swertiamarin, sweroside, centapicrin)
+  compounds:
+  - glycoside
   note: The intensely bitter principles that stimulate digestive secretions.
   reference_ids:
   - REF-0431
   - REF-0432
 - name: Xanthones and flavonoids
+  compounds:
+  - flavonoid
   note: Additional constituents of the herb.
   reference_ids:
   - REF-0432
   - REF-0431
 - name: Phenolic acids
+  compounds:
+  - phenolic-acid
   note: Antioxidant constituents.
   reference_ids:
   - REF-0431
+actions:
+- action: anti-inflammatory
+  note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
+    and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
+    anti-inflammatory activity
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: verified
+- action: bitter-tonic
+  note: Aromatic bitter tonic for temporary loss of appetite
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  status: verified
+- action: digestive
+  note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
+    and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
+    anti-inflammatory activity
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: verified
+- action: gastroprotective
+  note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
+    and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
+    anti-inflammatory activity
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: verified
+- action: hepatoprotective
+  note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
+    and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
+    anti-inflammatory activity
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: verified
+indications:
+- condition: acid-reflux
+  evidence: 2
+  note: inferred from gastroprotective action
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: needs-review
+- condition: appetite-loss
+  evidence: 3
+  note: Aromatic bitter tonic for temporary loss of appetite
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  status: verified
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: needs-review
+- condition: bloating
+  evidence: 3
+  note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
+    and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
+    anti-inflammatory activity
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: verified
+- condition: detox
+  evidence: 2
+  note: inferred from hepatoprotective action
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: needs-review
+- condition: indigestion
+  evidence: 3
+  note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
+    and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
+    anti-inflammatory activity
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: needs-review
+- condition: liver-support
+  evidence: 2
+  note: inferred from hepatoprotective action
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0431
+  - REF-0432
+  - REF-0619
+  status: needs-review
 contraindications:
 - note: Because bitters increase stomach-acid secretion, centaury is contraindicated in peptic (stomach
     or duodenal) ulcer disease and hyperacidity.
+  severity: caution
   reference_ids:
   - REF-0431
   status: verified
 - note: Traditional use only; appetite loss or dyspepsia that persists needs medical assessment. Use during
     pregnancy and breastfeeding is not recommended.
+  severity: caution
   reference_ids:
   - REF-0431
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report;
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report;
   Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited. Further
   enriched 2026-06-14 with a PubMed-sourced comprehensive review of Centaurium erythraea phytochemistry
   and pharmacology (REF-0619; documents gastroprotective, hepatoprotective, antioxidant and anti-inflammatory
-  activity of the secoiridoid-rich herb).
-last_updated: '2026-06-14'
-status: verified
+  activity of the secoiridoid-rich herb). | 2026-06-15: migrated to entity schema (actions->vocab ids,
+  indications split out, constituents linked to compounds).'

@@ -1,60 +1,147 @@
+id: zea-mays
+scientific_name: Zea mays
 common_names:
 - Corn Silk
 - Maize silk
 - Stigma maydis
-scientific_name: Zea mays
 family: Poaceae
 parts_used:
-- name: Stigmas and styles (corn silk)
-  medicinal_actions:
-  - action: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
-      in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
-      and potassium excretion
-    reference_ids:
-    - REF-0436
-    - REF-0557
-    status: verified
-  - action: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney
-      function
-    reference_ids:
-    - REF-0436
-    status: verified
-  - action: Antioxidant and anti-inflammatory
-    reference_ids:
-    - REF-0436
-    status: verified
+- Stigmas and styles (corn silk)
 constituents:
 - name: Flavonoids (including maysin)
+  compounds:
+  - flavonoid
   note: Major antioxidant constituents of corn silk; maysin is the predominant flavonoid quantified in
     standardised extracts.
   reference_ids:
   - REF-0436
   - REF-0558
 - name: Phenolic compounds
+  compounds:
+  - phenolic-compound
   note: Contribute to antioxidant and anti-inflammatory activity.
   reference_ids:
   - REF-0436
 - name: Potassium salts, polysaccharides and saponins
+  compounds:
+  - polysaccharide
+  - saponin
   note: Associated with the diuretic and demulcent actions.
   reference_ids:
   - REF-0436
+actions:
+- action: anti-inflammatory
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0436
+  status: verified
+- action: antioxidant
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0436
+  status: verified
+- action: demulcent
+  note: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function
+  reference_ids:
+  - REF-0436
+  status: verified
+- action: diuretic
+  note: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
+    in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
+    and potassium excretion
+  reference_ids:
+  - REF-0436
+  - REF-0557
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0436
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0436
+  status: needs-review
+- condition: infection
+  evidence: 3
+  note: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function
+  reference_ids:
+  - REF-0436
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0436
+  status: needs-review
+- condition: kidney-support
+  evidence: 2
+  reference_ids: []
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0436
+  status: needs-review
+- condition: sore-throat
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0436
+  status: needs-review
+- condition: swelling
+  evidence: 3
+  note: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
+    in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
+    and potassium excretion
+  reference_ids:
+  - REF-0436
+  - REF-0557
+  status: verified
+- condition: urinary-support
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0436
+  - REF-0557
+  status: needs-review
+- condition: uti
+  evidence: 3
+  note: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
+    in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
+    and potassium excretion; Soothing demulcent for urinary-tract irritation and mild urinary infections;
+    supports kidney function
+  reference_ids:
+  - REF-0436
+  - REF-0557
+  status: verified
 contraindications:
 - note: As a diuretic it should be taken with plenty of fluids; use caution alongside prescription diuretics
     or medicines that affect potassium.
+  severity: caution
   reference_ids:
   - REF-0436
   status: verified
 - note: May lower blood sugar and blood pressure, so use caution with antidiabetic or antihypertensive
     medication; avoid concentrated medicinal doses in pregnancy - a high-dose standardised extract increased
     pre-implantation losses in pregnant rats (no fetal malformations were seen).
+  severity: caution
   reference_ids:
   - REF-0436
   - REF-0558
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-13'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological
   review). Further enriched 2026-06-13 with two PubMed studies - a renal diuretic mechanism study in conscious
   rats (REF-0557, Velazquez et al. 2005) and a gestational toxicology study confirming maysin as the predominant
   flavonoid (REF-0558, Caixeta et al. 2025). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (uti, swelling, kidney-support); associations retained and now part-mapped and cited.
-last_updated: '2026-06-13'
-status: verified
+  Lookup tool (uti, swelling, kidney-support); associations retained and now part-mapped and cited. |
+  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

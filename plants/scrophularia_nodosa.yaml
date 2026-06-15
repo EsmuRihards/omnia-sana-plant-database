@@ -1,63 +1,163 @@
+id: scrophularia-nodosa
+scientific_name: Scrophularia nodosa
 common_names:
 - Figwort
 - Woodland figwort
 - Common figwort
 - Scrofula plant
-scientific_name: Scrophularia nodosa
 family: Scrophulariaceae
 parts_used:
-- name: Aerial parts (and root)
-  medicinal_actions:
-  - action: Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice,
-      salve or tea)
-    reference_ids:
-    - REF-0452
-    - REF-0451
-    status: needs-review
-  - action: Anti-inflammatory; soothes inflamed, irritated skin
-    reference_ids:
-    - REF-0452
-    status: needs-review
-  - action: Mild diuretic and lymphatic 'detoxifying' herb (traditional)
-    reference_ids:
-    - REF-0452
-    status: needs-review
-  - action: Antispasmodic / smooth-muscle relaxant (preclinical - an extract relaxed isolated intestinal
-      smooth muscle, apparently via muscarinic receptors)
-    reference_ids:
-    - REF-0630
-    status: needs-review
+- Aerial parts (and root)
 constituents:
 - name: Iridoid glycosides (aucubin, harpagoside, harpagide, catalpol)
+  compounds:
+  - iridoid-glycoside
+  - harpagoside
+  - glycoside
   note: Anti-inflammatory constituents; harpagoside also has cardiac (inotropic) activity.
   reference_ids:
   - REF-0452
   - REF-0451
 - name: Flavonoids
+  compounds:
+  - flavonoid
   note: Antioxidant constituents.
   reference_ids:
   - REF-0452
 - name: Phenolic acids (caffeic, ferulic, vanillic)
+  compounds:
+  - phenolic-acid
+  - caffeic-acid
+  - ferulic-acid
   note: Supporting antioxidant constituents.
   reference_ids:
   - REF-0452
+actions:
+- action: alterative
+  note: Mild diuretic and lymphatic 'detoxifying' herb (traditional); Traditional 'alterative' for chronic
+    skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: needs-review
+- action: anti-inflammatory
+  note: Anti-inflammatory; soothes inflamed, irritated skin
+  reference_ids:
+  - REF-0452
+  status: needs-review
+- action: antispasmodic
+  note: Antispasmodic / smooth-muscle relaxant (preclinical - an extract relaxed isolated intestinal smooth
+    muscle, apparently via muscarinic receptors)
+  reference_ids:
+  - REF-0630
+  status: needs-review
+- action: diuretic
+  note: Mild diuretic and lymphatic 'detoxifying' herb (traditional)
+  reference_ids:
+  - REF-0452
+  status: needs-review
+indications:
+- condition: acne
+  evidence: 2
+  note: inferred from alterative action
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: needs-review
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0452
+  status: needs-review
+- condition: detox
+  evidence: 2
+  note: inferred from alterative action
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: needs-review
+- condition: eczema
+  evidence: 2
+  note: Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice,
+    salve or tea)
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0452
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0630
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0630
+  status: needs-review
+- condition: psoriasis
+  evidence: 2
+  note: Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice,
+    salve or tea)
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: Anti-inflammatory; soothes inflamed, irritated skin; Traditional 'alterative' for chronic skin
+    conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0452
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0452
+  status: needs-review
+- condition: uti
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0452
+  status: needs-review
 contraindications:
 - note: 'Avoid if you have a heart condition or take cardiac medicines: figwort''s harpagoside has a stimulating
     (inotropic) effect on the heart, so it is traditionally avoided with rapid heartbeat or heart disease.'
+  severity: caution
   reference_ids:
   - REF-0451
   - REF-0452
   status: verified
 - note: Avoid during pregnancy. There is insufficient reliable evidence on the safety of taking figwort
     by mouth, so internal use should be cautious and short-term.
+  severity: caution
   reference_ids:
   - REF-0451
   status: verified
-internal_notes: Enriched 2026-06-12 from general literature (WebMD and herbal monographs); Scrophularia
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from general literature (WebMD and herbal monographs); Scrophularia
   nodosa is not covered by clinical trials, so efficacy actions are needs-review. Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, psoriasis, skin-irritation); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced phytochemical/pharmacological
   study of S. nodosa that isolated seven flavonoids and demonstrated smooth-muscle-relaxant (spasmolytic)
-  activity on isolated intestine (REF-0630).
-last_updated: '2026-06-14'
-status: verified
+  activity on isolated intestine (REF-0630). | 2026-06-15: migrated to entity schema (actions->vocab ids,
+  indications split out, constituents linked to compounds).'

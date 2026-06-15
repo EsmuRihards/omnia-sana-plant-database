@@ -1,69 +1,145 @@
+id: astragalus-membranaceus
+scientific_name: Astragalus membranaceus
 common_names:
 - Astragalus
 - Huang qi
 - Milkvetch root
 - Mongolian milkvetch
-scientific_name: Astragalus membranaceus
 family: Fabaceae
 parts_used:
-- name: Root
-  medicinal_actions:
-  - action: Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes)
-    reference_ids:
-    - REF-0401
-    - REF-0402
-    status: verified
-  - action: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
-    reference_ids:
-    - REF-0402
-    status: verified
-  - action: Supports resistance to colds and respiratory infection (immune)
-    reference_ids:
-    - REF-0401
-    status: verified
-  - action: Renoprotective (kidney support) - as an adjunct in chronic kidney disease, reduced proteinuria
-      and raised haemoglobin and serum albumin across trials (Cochrane review; study quality low)
-    reference_ids:
-    - REF-0402
-    - REF-0586
-    status: verified
-  - action: Antioxidant and anti-inflammatory
-    reference_ids:
-    - REF-0402
-    status: verified
+- Root
 constituents:
 - name: Astragalus polysaccharides (APS)
+  compounds:
+  - polysaccharide
   note: Principal immunomodulatory constituents.
   reference_ids:
   - REF-0401
 - name: Cycloartane triterpenoid saponins (astragaloside IV)
+  compounds:
+  - saponin
   note: Major bioactive saponin with cardio-, neuro-, hepato- and renoprotective effects.
   reference_ids:
   - REF-0402
 - name: Isoflavonoids (calycosin, formononetin)
+  compounds:
+  - flavonoid
   note: Antioxidant flavonoid constituents of the root.
   reference_ids:
   - REF-0402
+actions:
+- action: adaptogen
+  note: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
+  reference_ids:
+  - REF-0402
+  status: verified
+- action: anti-inflammatory
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0402
+  status: verified
+- action: antioxidant
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0402
+  status: verified
+- action: immunomodulator
+  note: Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes)
+  reference_ids:
+  - REF-0401
+  - REF-0402
+  status: verified
+- action: nephroprotective
+  note: Renoprotective (kidney support) - as an adjunct in chronic kidney disease, reduced proteinuria
+    and raised haemoglobin and serum albumin across trials (Cochrane review; study quality low)
+  reference_ids:
+  - REF-0402
+  - REF-0586
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0402
+  status: needs-review
+- condition: cold
+  evidence: 3
+  note: Supports resistance to colds and respiratory infection (immune)
+  reference_ids:
+  - REF-0401
+  status: verified
+- condition: fatigue
+  evidence: 2
+  note: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
+  reference_ids:
+  - REF-0402
+  status: verified
+- condition: immune-support
+  evidence: 3
+  note: Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes); Supports
+    resistance to colds and respiratory infection (immune)
+  reference_ids:
+  - REF-0401
+  - REF-0402
+  status: verified
+- condition: infection
+  evidence: 3
+  note: Supports resistance to colds and respiratory infection (immune)
+  reference_ids:
+  - REF-0401
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0402
+  status: needs-review
+- condition: kidney-support
+  evidence: 4
+  note: Renoprotective (kidney support) - as an adjunct in chronic kidney disease, reduced proteinuria
+    and raised haemoglobin and serum albumin across trials (Cochrane review; study quality low)
+  reference_ids:
+  - REF-0402
+  - REF-0586
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0402
+  status: needs-review
+- condition: stress
+  evidence: 2
+  note: inferred from adaptogen action
+  reference_ids:
+  - REF-0402
+  status: needs-review
 contraindications:
 - note: Astragalus stimulates immune activity; on theoretical grounds it should be used cautiously in
     autoimmune disease and with immunosuppressant medicines (for example after organ transplant) - discuss
     with a clinician.
+  severity: info
   reference_ids:
   - REF-0401
   status: verified
 - note: Generally well tolerated; high-quality long-term human safety and toxicity data remain limited.
+  severity: info
   reference_ids:
   - REF-0402
   status: verified
 - note: Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses.
+  severity: caution
   reference_ids:
   - REF-0402
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
   of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
   Cochrane review of Astragalus as an adjunct in chronic kidney disease (REF-0586; reduced proteinuria
-  and raised haemoglobin/serum albumin, but low study quality precludes firm conclusions).
-last_updated: '2026-06-14'
-status: verified
+  and raised haemoglobin/serum albumin, but low study quality precludes firm conclusions). | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

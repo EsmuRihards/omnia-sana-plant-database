@@ -1,67 +1,136 @@
+id: camellia-sinensis
+scientific_name: Camellia sinensis
 common_names:
 - Tea
 - green tea
 - black tea
 - white tea
 - oolong
-scientific_name: Camellia sinensis
 family: Theaceae
 parts_used:
-- name: Leaf / Young sprouts
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0045
-    - REF-0061
-    - REF-0184
-    status: verified
-  - action: Anticancer
-    reference_ids:
-    - REF-0045
-    - REF-0061
-    - REF-0184
-    status: verified
-  - action: Antidiabetic
-    reference_ids:
-    - REF-0045
-    - REF-0061
-    - REF-0184
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0045
-    - REF-0061
-    - REF-0184
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0045
-    - REF-0061
-    - REF-0184
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0045
-    - REF-0061
-    - REF-0184
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0045
-    - REF-0061
-    - REF-0184
-    status: verified
-  - action: Metabolic support
-    reference_ids:
-    - REF-0045
-    - REF-0061
-    - REF-0184
-    status: verified
-constituents: []
+- Leaf
+- Young sprouts
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: needs-review
+- condition: blood-sugar
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: verified
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: needs-review
+- condition: metabolic-support
+  evidence: 3
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0045
+  - REF-0061
+  - REF-0184
+  status: needs-review
 contraindications:
 - note: Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations,
     or dependence. Large amounts of green tea extract supplements may be hepatotoxic (rare). May reduce
     iron absorption if consumed with meals. Avoid very high supplement doses during pregnancy.
+  severity: serious
   reference_ids:
   - REF-0045
   - REF-0061
@@ -74,14 +143,17 @@ contraindications:
     is associated with reduced cardiovascular risk. Excess consumption (>10 cups daily) may cause fluoride-related
     bone changes. Caffeine content is relevant for sleep disturbance, anxiety, and interactions with cardiovascular
     medications (Duke, 2002).
+  severity: caution
   reference_ids:
   - REF-0045
   - REF-0061
   - REF-0184
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

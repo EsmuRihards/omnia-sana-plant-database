@@ -1,32 +1,21 @@
+id: momordica-charantia
+scientific_name: Momordica charantia
 common_names:
 - Bitter Melon
 - Bitter gourd
 - Karela
 - Balsam pear
-scientific_name: Momordica charantia
 family: Cucurbitaceae
 parts_used:
-- name: Fruit (unripe)
-  medicinal_actions:
-  - action: Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)
-    reference_ids:
-    - REF-0412
-    - REF-0413
-    status: verified
-  - action: Bitter digestive / stomachic (traditional use for poor digestion); mild laxative
-    reference_ids:
-    - REF-0412
-    status: verified
-  - action: Antioxidant and anti-inflammatory
-    reference_ids:
-    - REF-0412
-    status: verified
+- Fruit (unripe)
 constituents:
 - name: Cucurbitane-type triterpenoids (momordicosides)
   note: Now regarded as the main antidiabetic principles.
   reference_ids:
   - REF-0412
 - name: Charantin
+  compounds:
+  - phytosterol
   note: A mixture of two sterol glucosides, historically credited with the hypoglycaemic effect.
   reference_ids:
   - REF-0412
@@ -35,17 +24,110 @@ constituents:
   reference_ids:
   - REF-0412
 - name: Vicine (in the seeds)
+  compounds:
+  - glycoside
   note: A pyrimidine glycoside that can trigger favism in G6PD-deficient people.
   reference_ids:
   - REF-0414
+actions:
+- action: anti-inflammatory
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0412
+  status: verified
+- action: antidiabetic
+  note: Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)
+  reference_ids:
+  - REF-0412
+  - REF-0413
+  status: verified
+- action: antioxidant
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0412
+  status: verified
+- action: bitter-tonic
+  note: Bitter digestive / stomachic (traditional use for poor digestion); mild laxative
+  reference_ids:
+  - REF-0412
+  status: verified
+- action: digestive
+  note: Bitter digestive / stomachic (traditional use for poor digestion); mild laxative
+  reference_ids:
+  - REF-0412
+  status: verified
+- action: laxative
+  note: Bitter digestive / stomachic (traditional use for poor digestion); mild laxative
+  reference_ids:
+  - REF-0412
+  status: verified
+indications:
+- condition: appetite-loss
+  evidence: 2
+  note: inferred from bitter-tonic action
+  reference_ids:
+  - REF-0412
+  status: needs-review
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0412
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0412
+  status: needs-review
+- condition: blood-sugar
+  evidence: 3
+  note: Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)
+  reference_ids:
+  - REF-0412
+  - REF-0413
+  status: verified
+- condition: constipation
+  evidence: 2
+  note: inferred from laxative action
+  reference_ids:
+  - REF-0412
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from bitter-tonic action
+  reference_ids:
+  - REF-0412
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0412
+  status: needs-review
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0412
+  - REF-0413
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0412
+  status: needs-review
 contraindications:
 - note: 'Avoid in pregnancy: bitter melon can stimulate the uterus and has been associated with miscarriage;
     also avoid during breastfeeding.'
+  severity: caution
   reference_ids:
   - REF-0414
   status: verified
 - note: 'Strong blood-sugar-lowering action: used with insulin or other diabetes medicines it can cause
     hypoglycaemia - monitor blood glucose and seek medical advice.'
+  severity: info
   reference_ids:
   - REF-0414
   - REF-0412
@@ -53,12 +135,15 @@ contraindications:
 - note: People with glucose-6-phosphate dehydrogenase (G6PD) deficiency should avoid the seeds, which
     contain vicine and can cause favism (haemolytic anaemia). Excessive intake may cause abdominal pain
     and diarrhoea.
+  severity: caution
   reference_ids:
   - REF-0414
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
+provenance: website+symptom-tool
+status: verified
+last_updated: '2026-06-12'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   and Int J Mol Sci reviews; WebMD safety monograph). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (blood-sugar, indigestion); associations retained and now part-mapped and
-  cited.
-last_updated: '2026-06-12'
-status: verified
+  cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

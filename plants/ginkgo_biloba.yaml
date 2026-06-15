@@ -1,44 +1,88 @@
+id: ginkgo-biloba
+scientific_name: Ginkgo biloba
 common_names:
 - Ginko
 - Ginkgo
 - maidenhair tree
 - ginkgo biloba
-scientific_name: Ginkgo biloba
 family: Ginkgoaceae
 parts_used:
-- name: Leaf / Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0056
-    - REF-0128
-    - REF-0308
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0056
-    - REF-0128
-    - REF-0308
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0056
-    - REF-0128
-    - REF-0308
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0056
-    - REF-0128
-    - REF-0308
-    status: verified
-constituents: []
+- Leaf
+- Seed
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: verified
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0056
+  - REF-0128
+  - REF-0308
+  status: needs-review
 contraindications:
 - note: Generally well tolerated at standard doses but notable interactions exist. Ginkgo has antiplatelet
     and anticoagulant effects and should not be combined with warfarin, aspirin, or other blood-thinning
     medications without medical supervision. May lower the seizure threshold — avoid in epilepsy. Possible
     side effects include headache, dizziness, and GI upset. The raw seeds contain ginkgotoxin and are
     toxic; only processed leaf extracts are used medicinally.
+  severity: caution
   reference_ids:
   - REF-0056
   - REF-0128
@@ -51,14 +95,17 @@ contraindications:
     increases bleeding risk when combined with anticoagulants (warfarin, aspirin, NSAIDs) and may cause
     spontaneous bleeding at high doses alone. Dose: 120–240 mg standardized extract (EGb 761) daily. Contraindicated
     with anticoagulants without medical supervision (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0056
   - REF-0128
   - REF-0308
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

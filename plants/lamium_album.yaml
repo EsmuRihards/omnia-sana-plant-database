@@ -1,85 +1,179 @@
+id: lamium-album
+scientific_name: Lamium album
 common_names:
 - White Dead Nettle
 - White dead-nettle
 - Bee nettle
 - Dumb nettle
-scientific_name: Lamium album
 family: Lamiaceae
 parts_used:
-- name: Flower
-  medicinal_actions:
-  - action: Astringent (catarrh, excessive menstrual or vaginal discharge)
-    reference_ids:
-    - REF-0347
-    - REF-0348
-    status: verified
-  - action: Expectorant
-    reference_ids:
-    - REF-0347
-    - REF-0339
-    status: verified
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0343
-    - REF-0349
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0342
-    - REF-0343
-    status: verified
-- name: Leaf
-  medicinal_actions:
-  - action: Vulnerary (minor wounds), applied topically
-    reference_ids:
-    - REF-0347
-    - REF-0348
-    status: verified
-  - action: Edible spring potherb (young leaves and shoots, cooked)
-    reference_ids:
-    - REF-0345
-    - REF-0345
-    status: verified
-- name: Aerial parts
-  medicinal_actions:
-  - action: Astringent and anti-inflammatory infusion or tincture (flowering tops)
-    reference_ids:
-    - REF-0347
-    - REF-0349
-    - REF-0348
-    status: verified
+- Flower
+- Leaf
+- Aerial parts
 constituents:
 - name: Phenylpropanoid and flavonoid glycosides
+  compounds:
+  - verbascoside
+  - glycoside
+  - kaempferol
+  - flavonoid
+  - quercetin
   note: Verbascoside, tiliroside and quercetin/kaempferol 3-O-glucosides in the flowers.
   reference_ids:
   - REF-0342
 - name: Iridoid glycosides
+  compounds:
+  - iridoid-glycoside
+  - glycoside
   note: Lamalbid, alboside A and B and caryoptoside; linked to antioxidant and anti-inflammatory activity.
   reference_ids:
   - REF-0343
 - name: Standardisation markers (Lamii albi flos)
+  compounds:
+  - chlorogenic-acid
+  - verbascoside
+  - rutin
   note: Lamalbid, chlorogenic acid, verbascoside, rutin and tiliroside, richest in the flowering tops.
   reference_ids:
   - REF-0349
+actions:
+- action: anti-inflammatory
+  parts:
+  - Flower
+  - Aerial parts
+  note: Astringent and anti-inflammatory infusion or tincture (flowering tops)
+  reference_ids:
+  - REF-0343
+  - REF-0347
+  - REF-0348
+  - REF-0349
+  status: verified
+- action: antioxidant
+  parts:
+  - Flower
+  reference_ids:
+  - REF-0342
+  - REF-0343
+  status: verified
+- action: astringent
+  parts:
+  - Flower
+  - Aerial parts
+  note: Astringent (catarrh, excessive menstrual or vaginal discharge); Astringent and anti-inflammatory
+    infusion or tincture (flowering tops)
+  reference_ids:
+  - REF-0347
+  - REF-0348
+  - REF-0349
+  status: verified
+- action: expectorant
+  parts:
+  - Flower
+  reference_ids:
+  - REF-0339
+  - REF-0347
+  status: verified
+- action: vulnerary
+  parts:
+  - Leaf
+  note: Vulnerary (minor wounds), applied topically
+  reference_ids:
+  - REF-0347
+  - REF-0348
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0343
+  - REF-0347
+  - REF-0348
+  - REF-0349
+  status: needs-review
+- condition: bronchitis
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0339
+  - REF-0347
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0347
+  - REF-0348
+  status: needs-review
+- condition: cough
+  evidence: 3
+  note: Astringent (catarrh, excessive menstrual or vaginal discharge)
+  reference_ids:
+  - REF-0347
+  - REF-0348
+  status: verified
+- condition: diarrhea
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0347
+  - REF-0348
+  - REF-0349
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0343
+  - REF-0347
+  - REF-0348
+  - REF-0349
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0339
+  - REF-0347
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0347
+  - REF-0348
+  - REF-0349
+  status: needs-review
+- condition: wounds
+  evidence: 3
+  note: Vulnerary (minor wounds), applied topically
+  reference_ids:
+  - REF-0347
+  - REF-0348
+  status: verified
 contraindications:
 - note: Generally regarded as safe in culinary amounts and at normal medicinal doses; unlike the stinging
     nettle it has no stinging hairs.
+  severity: info
   reference_ids:
   - REF-0345
   status: verified
 - note: Medicinal use during pregnancy or breastfeeding should be approached cautiously, as for any traditional
     astringent.
+  severity: caution
   reference_ids:
   - REF-0347
   - REF-0345
   status: verified
 - note: Identify correctly before foraging (resembles stinging nettle before flowering and red dead-nettle);
     clinical evidence is limited, so it should not replace conventional treatment.
+  severity: caution
   reference_ids:
   - REF-0344
   - REF-0348
   status: verified
 - note: Identification, distribution and horticultural references for Lamium album.
+  severity: info
   reference_ids:
   - REF-0340
   - REF-0341
@@ -88,8 +182,11 @@ contraindications:
   - REF-0351
   - REF-0352
   status: verified
-internal_notes: Ingested from the omniasana.bio Materia Medica page (https://omniasana.bio/white-dead-nettle-lamium-album/).
-  New species not in the book manuscript. Identification, distribution and collection notes from the source
-  are retained in the bibliography (some references are cited at plant level).
-last_updated: '2026-06-12'
+provenance: book+website
 status: verified
+last_updated: '2026-06-12'
+internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://omniasana.bio/white-dead-nettle-lamium-album/).
+  New species not in the book manuscript. Identification, distribution and collection notes from the source
+  are retained in the bibliography (some references are cited at plant level). | 2026-06-15: migrated
+  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). Unmapped
+  uses kept for reference: Edible spring potherb (young leaves and shoots, cooked).'

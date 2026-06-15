@@ -1,50 +1,94 @@
+id: salvia-hispanica
+scientific_name: Salvia hispanica
 common_names:
 - Chia
 - chia seed
 - Spanish sage
 - Salba
-scientific_name: Salvia hispanica
 family: Lamiaceae
 parts_used:
-- name: Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0046
-    - REF-0242
-    - REF-0297
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0046
-    - REF-0242
-    - REF-0297
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0046
-    - REF-0242
-    - REF-0297
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0046
-    - REF-0242
-    - REF-0297
-    status: verified
-  - action: Metabolic support
-    reference_ids:
-    - REF-0046
-    - REF-0242
-    - REF-0297
-    status: verified
-constituents: []
+- Seed
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: verified
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: needs-review
+- condition: metabolic-support
+  evidence: 3
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0046
+  - REF-0242
+  - REF-0297
+  status: needs-review
 contraindications:
 - note: 'Never swallow a spoon of dry chia seeds and “chase” with water. They can swell fast and (rarely)
     cause a blockage, especially if someone already has swallowing problems (American College of Gastroenterology,
     2014) Blood pressure / diabetes meds: if you’re on medication for blood pressure or blood sugar, chia
     as a major daily addition may slightly add to the effect for some people—monitor and talk to your
     clinician (Saadh et al., 2024) (Pam et al., 2024).'
+  severity: info
   reference_ids:
   - REF-0046
   - REF-0242
@@ -52,14 +96,17 @@ contraindications:
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Chia (Salvia hispanica) in the Handbook of
     Medicinal Herbs, Second Edition.
+  severity: info
   reference_ids:
   - REF-0046
   - REF-0242
   - REF-0297
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

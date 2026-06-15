@@ -1,66 +1,134 @@
+id: curcuma-longa
+scientific_name: Curcuma longa
 common_names:
 - Tumeric
 - Turmeric
 - common turmeric
 - Indian saffron
-scientific_name: Curcuma longa
 family: Zingiberaceae
 parts_used:
-- name: Rhizome
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0002
-    - REF-0273
-    - REF-0305
-    status: verified
-  - action: Anticancer
-    reference_ids:
-    - REF-0002
-    - REF-0273
-    - REF-0305
-    status: verified
-  - action: Antidiabetic
-    reference_ids:
-    - REF-0002
-    - REF-0273
-    - REF-0305
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0002
-    - REF-0273
-    - REF-0305
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0002
-    - REF-0273
-    - REF-0305
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0002
-    - REF-0273
-    - REF-0305
-    status: verified
-  - action: Gastroprotective
-    reference_ids:
-    - REF-0002
-    - REF-0273
-    - REF-0305
-    status: verified
-  - action: Joint support
-    reference_ids:
-    - REF-0002
-    - REF-0273
-    - REF-0305
-    status: verified
-constituents: []
+- Rhizome
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+- action: gastroprotective
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+indications:
+- condition: acid-reflux
+  evidence: 2
+  note: inferred from gastroprotective action
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: needs-review
+- condition: arthritis
+  evidence: 3
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+- condition: blood-sugar
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: verified
+- condition: indigestion
+  evidence: 2
+  note: inferred from gastroprotective action
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: needs-review
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0002
+  - REF-0273
+  - REF-0305
+  status: needs-review
 contraindications:
 - note: Generally very safe in culinary quantities. High-dose curcumin supplements may cause gastrointestinal
     upset. May interact with anticoagulants (warfarin), antidiabetic drugs, and acid-suppressing medications.
     Avoid very high doses during pregnancy and breastfeeding. Rarely causes allergic reactions.
+  severity: caution
   reference_ids:
   - REF-0002
   - REF-0273
@@ -73,14 +141,17 @@ contraindications:
     consideration is bioavailability: curcumin alone has low absorption, but combining with piperine (black
     pepper) increases bioavailability by up to 2000%. Contraindicated in bile duct obstruction; use with
     caution in gallstones and during pregnancy at medicinal doses (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0002
   - REF-0273
   - REF-0305
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

@@ -1,71 +1,123 @@
+id: althaea-officinalis
+scientific_name: Althaea officinalis
 common_names:
 - Marshmallow Root
 - Marsh mallow
 - White mallow
-scientific_name: Althaea officinalis
 family: Malvaceae
 parts_used:
-- name: Root
-  medicinal_actions:
-  - action: Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and
-      soothes)
-    reference_ids:
-    - REF-0481
-    - REF-0482
-    status: verified
-  - action: Soothes sore throat
-    reference_ids:
-    - REF-0481
-    status: verified
-  - action: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
-      mucilage)
-    reference_ids:
-    - REF-0481
-    status: verified
-  - action: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
-      the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation
-    reference_ids:
-    - REF-0481
-    - REF-0578
-    - REF-0579
-    status: verified
-  - action: Topical soothing for irritated skin
-    reference_ids:
-    - REF-0482
-    status: needs-review
+- Root
 constituents:
 - name: Mucilage polysaccharides (rhamnogalacturonans, arabinans, glucans, arabinogalactans)
-  note: The principal soothing, film-forming constituents; the isolated rhamnogalacturonan also shows direct
-    antitussive activity in animal models.
+  compounds:
+  - polysaccharide
+  - mucilage
+  note: The principal soothing, film-forming constituents; the isolated rhamnogalacturonan also shows
+    direct antitussive activity in animal models.
   reference_ids:
   - REF-0481
   - REF-0578
 - name: Flavonoids and phenolic acids
+  compounds:
+  - phenolic-acid
+  - flavonoid
   note: Antioxidant constituents.
   reference_ids:
   - REF-0482
 - name: Pectin and starch
+  compounds:
+  - pectin
+  - starch
   note: Other carbohydrate constituents of the root.
   reference_ids:
   - REF-0481
+actions:
+- action: antitussive
+  note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
+    the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation
+  reference_ids:
+  - REF-0481
+  - REF-0578
+  - REF-0579
+  status: verified
+- action: demulcent
+  note: Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and soothes);
+    Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
+    mucilage)
+  reference_ids:
+  - REF-0481
+  - REF-0482
+  status: verified
+- action: emollient
+  note: Topical soothing for irritated skin
+  reference_ids:
+  - REF-0482
+  status: needs-review
+indications:
+- condition: acid-reflux
+  evidence: 3
+  note: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
+    mucilage)
+  reference_ids:
+  - REF-0481
+  status: verified
+- condition: cough
+  evidence: 3
+  note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
+    the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation;
+    Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and soothes)
+  reference_ids:
+  - REF-0481
+  - REF-0482
+  - REF-0578
+  - REF-0579
+  status: verified
+- condition: eczema
+  evidence: 2
+  note: inferred from emollient action
+  reference_ids:
+  - REF-0482
+  status: needs-review
+- condition: indigestion
+  evidence: 3
+  note: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
+    mucilage)
+  reference_ids:
+  - REF-0481
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: Topical soothing for irritated skin
+  reference_ids:
+  - REF-0482
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  reference_ids:
+  - REF-0481
+  status: verified
 contraindications:
 - note: Very well tolerated. The mucilage can slow the absorption of other medicines, so take other drugs
     about an hour before or after marshmallow.
+  severity: info
   reference_ids:
   - REF-0481
   - REF-0482
   status: verified
 - note: It may mildly lower blood sugar (caution alongside antidiabetic medicines). Use in pregnancy and
     breastfeeding is not recommended in the absence of adequate data.
+  severity: caution
   reference_ids:
   - REF-0481
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Althaeae radix; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, acid-reflux, skin-irritation); associations retained and
   now part-mapped and cited. Further enriched 2026-06-14 with two PubMed-sourced preclinical (guinea-pig)
   studies showing the root rhamnogalacturonan suppresses the cough reflex dose-dependently and comparably
   to codeine, acting via 5-HT2 receptors (REF-0578, REF-0579); clinical antitussive data for marshmallow
-  remain limited.
-last_updated: '2026-06-14'
-status: verified
+  remain limited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
+  constituents linked to compounds).'

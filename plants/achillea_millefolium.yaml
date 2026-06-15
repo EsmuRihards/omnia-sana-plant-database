@@ -1,91 +1,44 @@
+id: achillea-millefolium
+scientific_name: Achillea millefolium
 common_names:
 - Yarrow
 - common yarrow
 - milfoil
 - soldiers' woundwort
-scientific_name: Achillea millefolium
 family: Asteraceae
 parts_used:
-- name: Flower / Leaf / Stem
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0011
-    - REF-0098
-    - REF-0296
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0011
-    - REF-0098
-    - REF-0296
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0011
-    - REF-0098
-    - REF-0296
-    status: verified
-  - action: Antispasmodic (cramp easing)
-    reference_ids:
-    - REF-0011
-    - REF-0098
-    - REF-0296
-    status: verified
-  - action: Diuretic
-    reference_ids:
-    - REF-0011
-    - REF-0098
-    - REF-0296
-    status: verified
-  - action: Menstrual cramps
-    reference_ids:
-    - REF-0011
-    - REF-0098
-    - REF-0296
-    status: verified
-  - action: Wound Healing
-    reference_ids:
-    - REF-0011
-    - REF-0098
-    - REF-0296
-    status: verified
-  - action: Styptic / haemostatic (slows bleeding from minor cuts)
-    reference_ids:
-    - REF-0369
-    - REF-0373
-    - REF-0381
-    status: verified
-  - action: Vulnerary (wound healing)
-    reference_ids:
-    - REF-0372
-    - REF-0369
-    status: verified
-  - action: Diaphoretic (supports the body during colds and fevers)
-    reference_ids:
-    - REF-0369
-    - REF-0373
-    status: verified
-  - action: Bitter digestive tonic (stimulates appetite and bile flow)
-    reference_ids:
-    - REF-0369
-    - REF-0373
-    status: verified
-  - action: Astringent
-    reference_ids:
-    - REF-0369
-    - REF-0373
-    status: verified
+- Flower
+- Leaf
+- Stem
 constituents:
 - name: Essential oil (mono- and sesquiterpenes)
+  compounds:
+  - sesquiterpene
+  - essential-oil
+  - chamazulene
+  - bisabolol
+  - camphor
+  - cineole
   note: Chamazulene (blue colour), sabinene, 1,8-cineole, camphor and alpha-bisabolol.
   reference_ids:
   - REF-0369
 - name: Flavonoids (apigenin, luteolin, rutin, quercetin)
+  compounds:
+  - flavonoid
+  - quercetin
+  - apigenin
+  - luteolin
+  - rutin
   note: Antioxidant and antispasmodic flavonoids.
   reference_ids:
   - REF-0369
 - name: Sesquiterpene lactones, phenolic acids, tannins and coumarins
+  compounds:
+  - sesquiterpene-lactone
+  - phenolic-acid
+  - sesquiterpene
+  - coumarin
+  - tannin
   note: Contribute to anti-inflammatory and astringent activity.
   reference_ids:
   - REF-0369
@@ -93,11 +46,223 @@ constituents:
   note: Compounds traditionally linked to the haemostatic (styptic) effect.
   reference_ids:
   - REF-0369
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (cramp easing)
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: verified
+- action: astringent
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: verified
+- action: bitter-tonic
+  note: Bitter digestive tonic (stimulates appetite and bile flow)
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: verified
+- action: diaphoretic
+  note: Diaphoretic (supports the body during colds and fevers)
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: verified
+- action: digestive
+  note: Bitter digestive tonic (stimulates appetite and bile flow)
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: verified
+- action: diuretic
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: verified
+- action: styptic
+  note: Styptic / haemostatic (slows bleeding from minor cuts)
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  - REF-0381
+  status: verified
+- action: vulnerary
+  note: Vulnerary (wound healing)
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  - REF-0369
+  - REF-0372
+  status: verified
+indications:
+- condition: appetite-loss
+  evidence: 2
+  note: inferred from bitter-tonic action
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: needs-review
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  - REF-0369
+  - REF-0372
+  status: needs-review
+- condition: cold
+  evidence: 3
+  note: Diaphoretic (supports the body during colds and fevers)
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: verified
+- condition: diarrhea
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: needs-review
+- condition: fever
+  evidence: 3
+  note: Diaphoretic (supports the body during colds and fevers)
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: verified
+- condition: heavy-bleeding
+  evidence: 2
+  note: inferred from styptic action
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  - REF-0381
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from bitter-tonic action
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 3
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: verified
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: needs-review
+- condition: uti
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0011
+  - REF-0098
+  - REF-0296
+  status: needs-review
+- condition: wounds
+  evidence: 3
+  note: Styptic / haemostatic (slows bleeding from minor cuts)
+  reference_ids:
+  - REF-0369
+  - REF-0373
+  - REF-0381
+  status: verified
 contraindications:
 - note: Generally very safe. Rarely causes contact dermatitis in sensitive individuals (sesquiterpene
     lactones, same Asteraceae family). Avoid high doses during pregnancy (emmenagogue at large doses).
     May increase photosensitivity. Allergic reactions uncommon but possible in those sensitive to Asteraceae
     plants.
+  severity: caution
   reference_ids:
   - REF-0011
   - REF-0098
@@ -111,6 +276,7 @@ contraindications:
     times daily. Caution: yarrow belongs to the Asteraceae family and can cause allergic reactions in
     sensitive individuals; rare contact dermatitis from sesquiterpene lactones has been reported. Contraindicated
     in pregnancy due to potential emmenagogue effects (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0011
   - REF-0098
@@ -118,27 +284,32 @@ contraindications:
   status: verified
 - note: As a member of the daisy family (Asteraceae) it can cause allergic reactions or contact dermatitis
     in sensitive people, and handling the fresh plant in sunlight can occasionally cause photosensitivity.
+  severity: info
   reference_ids:
   - REF-0369
   status: verified
 - note: Medicinal use is traditionally avoided in pregnancy (can stimulate the uterus and influence menstruation);
     caution while breastfeeding.
+  severity: caution
   reference_ids:
   - REF-0373
   status: verified
 - note: May interact with anticoagulant, sedative and blood-pressure medications and with drugs metabolised
     by the liver; seek professional advice if on regular medication.
+  severity: caution
   reference_ids:
   - REF-0369
   status: verified
 - note: Correct identification is essential, as several poisonous white-flowered umbellifers can be confused
     with yarrow; clinical evidence in humans is limited.
+  severity: info
   reference_ids:
   - REF-0370
   - REF-0369
   status: verified
 - note: Additional omniasana.bio sources cited for Achillea millefolium (identification, distribution,
     foraging, traditional use and supporting evidence; see bibliography).
+  severity: info
   reference_ids:
   - REF-0371
   - REF-0374
@@ -151,11 +322,14 @@ contraindications:
   - REF-0382
   - REF-0383
   status: verified
+provenance: book+website
+status: verified
+last_updated: '2026-06-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | Enriched 2026-06-12 from the omniasana.bio ''Yarrow''
   Materia Medica page (https://omniasana.bio/yarrow-achillea-millefolium/): added constituents, web-sourced
-  actions and cautions. | 2026-06-15: corrected family from Unknown to Asteraceae (Achillea millefolium is in the Asteraceae family).'
-last_updated: '2026-06-15'
-status: verified
+  actions and cautions. | 2026-06-15: corrected family from Unknown to Asteraceae (Achillea millefolium
+  is in the Asteraceae family). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
+  split out, constituents linked to compounds).'

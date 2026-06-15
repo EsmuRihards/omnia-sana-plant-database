@@ -1,44 +1,102 @@
+id: inonotus-obliquus
+scientific_name: Inonotus obliquus
 common_names:
 - Chaga
 - Chaga mushroom
 - clinker polypore
 - birch conk
-scientific_name: Inonotus obliquus
 family: Hymenochaetaceae
 parts_used:
-- name: Mycelium / Whole Plant
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0093
-    - REF-0228
-    - REF-0272
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0093
-    - REF-0228
-    - REF-0272
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0093
-    - REF-0228
-    - REF-0272
-    status: verified
-  - action: Immune Support
-    reference_ids:
-    - REF-0093
-    - REF-0228
-    - REF-0272
-    status: verified
-  - action: Metabolic support
-    reference_ids:
-    - REF-0093
-    - REF-0228
-    - REF-0272
-    status: verified
-constituents: []
+- Mycelium
+- Whole Plant
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: verified
+- action: immunomodulator
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: needs-review
+- condition: immune-support
+  evidence: 3
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: verified
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: needs-review
+- condition: metabolic-support
+  evidence: 3
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0093
+  - REF-0228
+  - REF-0272
+  status: needs-review
 contraindications:
 - note: 'Autoimmune conditions: Chaga can stimulate parts of the immune system—people with autoimmune
     diseases should be cautious.Blood thinners: Chaga contains compounds that may affect clotting—avoid
@@ -46,6 +104,7 @@ contraindications:
     medication.Pregnancy & breastfeeding: Limited safety data—best avoided unless guided by a professional.Quality
     matters: Wild-harvested Chaga can accumulate heavy metals from trees and soil—source from reputable
     suppliers.'
+  severity: caution
   reference_ids:
   - REF-0093
   - REF-0228
@@ -54,14 +113,17 @@ contraindications:
 - note: Duke (2002) does not include a dedicated entry for chaga (Inonotus obliquus) in the Handbook of
     Medicinal Herbs, Second Edition, as this medicinal fungus was not widely documented in Western herbal
     literature at that time (Duke, 2002).
+  severity: info
   reference_ids:
   - REF-0093
   - REF-0228
   - REF-0272
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

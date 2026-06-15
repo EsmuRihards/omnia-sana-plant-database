@@ -1,54 +1,106 @@
+id: mahonia-aquifolium
+scientific_name: Mahonia aquifolium
 common_names:
 - Oregon Grape
 - Oregon grape root
 - Holly-leaved barberry
 - Berberis aquifolium
-scientific_name: Mahonia aquifolium
 family: Berberidaceae
 parts_used:
-- name: Root (and bark/wood)
-  medicinal_actions:
-  - action: Topical treatment of mild-to-moderate psoriasis (reduces plaque severity) - a double-blind,
-      placebo-controlled RCT showed significant improvement in PASI and quality-of-life scores
-    reference_ids:
-    - REF-0487
-    - REF-0591
-    status: verified
-  - action: Topical for atopic dermatitis (eczema) and skin irritation
-    reference_ids:
-    - REF-0487
-    status: verified
-  - action: Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis)
-    reference_ids:
-    - REF-0487
-    status: verified
-  - action: Antimicrobial (berberine) - supports skin and mucosal infection
-    reference_ids:
-    - REF-0488
-    status: needs-review
+- Root (and bark
+- wood)
 constituents:
 - name: Isoquinoline alkaloids (berberine, berbamine, palmatine, jatrorrhizine, magnoflorine)
+  compounds:
+  - alkaloid
+  - berberine
   note: Berberine is the main anti-psoriatic and antimicrobial constituent.
   reference_ids:
   - REF-0487
   - REF-0488
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis)
+  reference_ids:
+  - REF-0487
+  status: verified
+- action: anticancer
+  note: Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis)
+  reference_ids:
+  - REF-0487
+  status: verified
+- action: antimicrobial
+  note: Antimicrobial (berberine) - supports skin and mucosal infection
+  reference_ids:
+  - REF-0488
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0487
+  status: needs-review
+- condition: eczema
+  evidence: 3
+  note: Topical for atopic dermatitis (eczema) and skin irritation
+  reference_ids:
+  - REF-0487
+  status: verified
+- condition: infection
+  evidence: 2
+  note: Antimicrobial (berberine) - supports skin and mucosal infection
+  reference_ids:
+  - REF-0488
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0487
+  status: needs-review
+- condition: psoriasis
+  evidence: 4
+  note: Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis); Topical
+    treatment of mild-to-moderate psoriasis (reduces plaque severity) - a double-blind, placebo-controlled
+    RCT showed significant improvement in PASI and quality-of-life scores
+  reference_ids:
+  - REF-0487
+  - REF-0591
+  status: verified
+- condition: skin-irritation
+  evidence: 3
+  note: Topical for atopic dermatitis (eczema) and skin irritation
+  reference_ids:
+  - REF-0487
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0488
+  status: needs-review
 contraindications:
 - note: 'Avoid internal use in pregnancy and breastfeeding: like goldenseal, the berberine it contains
     can cross the placenta and into milk and worsen newborn jaundice (kernicterus risk).'
+  severity: caution
   reference_ids:
   - REF-0488
   status: verified
 - note: Berberine impairs the metabolism of some medicines - for example it raises blood levels of cyclosporine,
     risking toxicity - so use caution with prescription drugs. It is used mainly topically for skin conditions.
+  severity: caution
   reference_ids:
   - REF-0487
   - REF-0488
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and general literature (J Clin Aesthet Dermatol review
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Clin Aesthet Dermatol review
   of topical Mahonia for psoriasis/eczema; Herbal Reality monograph). Mahonia aquifolium = Berberis aquifolium.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (psoriasis, eczema,
   skin-irritation, infection); associations retained and now part-mapped and cited. Further enriched 2026-06-14
   with a PubMed-sourced double-blind, placebo-controlled RCT of a topical Mahonia aquifolium cream showing
-  significant PASI and quality-of-life improvement in mild-to-moderate psoriasis (REF-0591).
-last_updated: '2026-06-14'
-status: verified
+  significant PASI and quality-of-life improvement in mild-to-moderate psoriasis (REF-0591). | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

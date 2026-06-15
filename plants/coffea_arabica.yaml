@@ -1,72 +1,145 @@
+id: coffea-arabica
+scientific_name: Coffea arabica
 common_names:
 - Coffee (Arabica & Robusta)
 - Coffee
-scientific_name: Coffea arabica
 family: Rubiaceae
 parts_used:
-- name: Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0059
-    - REF-0081
-    - REF-0096
-    - REF-0109
-    - REF-0121
-    - REF-0135
-    - REF-0178
-    - REF-0205
-    - REF-0217
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0059
-    - REF-0081
-    - REF-0096
-    - REF-0109
-    - REF-0121
-    - REF-0135
-    - REF-0178
-    - REF-0205
-    - REF-0217
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0059
-    - REF-0081
-    - REF-0096
-    - REF-0109
-    - REF-0121
-    - REF-0135
-    - REF-0178
-    - REF-0205
-    - REF-0217
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0059
-    - REF-0081
-    - REF-0096
-    - REF-0109
-    - REF-0121
-    - REF-0135
-    - REF-0178
-    - REF-0205
-    - REF-0217
-    status: verified
-  - action: Metabolic support
-    reference_ids:
-    - REF-0059
-    - REF-0081
-    - REF-0096
-    - REF-0109
-    - REF-0121
-    - REF-0135
-    - REF-0178
-    - REF-0205
-    - REF-0217
-    status: verified
-constituents: []
+- Seed
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: verified
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: needs-review
+- condition: metabolic-support
+  evidence: 3
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0059
+  - REF-0081
+  - REF-0096
+  - REF-0109
+  - REF-0121
+  - REF-0135
+  - REF-0178
+  - REF-0205
+  - REF-0217
+  status: needs-review
 contraindications:
 - note: Caffeine is the primary psychoactive component; excessive intake (>400 mg/day in adults, >200
     mg/day in pregnancy) can cause anxiety, insomnia, palpitations, and elevated blood pressure. Caffeine
@@ -77,6 +150,7 @@ contraindications:
     with certain medications including thyroid hormones, levothyroxine, and some antibiotics (ciprofloxacin
     increases caffeine levels). Heartburn and gastro-oesophageal reflux are common side effects in sensitive
     individuals (EFSA, 2015; NIH, 2023).
+  severity: caution
   reference_ids:
   - REF-0059
   - REF-0081
@@ -95,6 +169,7 @@ contraindications:
     diuretic, and hepatoprotective properties, though excessive consumption is associated with increased
     anxiety, tachycardia, and hypertension. It is contraindicated in peptic ulcer disease due to gastric
     acid stimulation (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0059
   - REF-0081
@@ -106,9 +181,11 @@ contraindications:
   - REF-0205
   - REF-0217
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

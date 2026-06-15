@@ -1,59 +1,157 @@
+id: morinda-citrifolia
+scientific_name: Morinda citrifolia
 common_names:
 - Noni
 - Indian mulberry
 - great morinda
-scientific_name: Morinda citrifolia
 family: Rubiaceae
 parts_used:
-- name: Fruit / Leaf / Root
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0110
-    - REF-0197
-    - REF-0303
-    status: verified
-  - action: Antidiabetic
-    reference_ids:
-    - REF-0110
-    - REF-0197
-    - REF-0303
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0110
-    - REF-0197
-    - REF-0303
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0110
-    - REF-0197
-    - REF-0303
-    status: verified
-  - action: Antiviral
-    reference_ids:
-    - REF-0110
-    - REF-0197
-    - REF-0303
-    status: verified
-  - action: Immune Support
-    reference_ids:
-    - REF-0110
-    - REF-0197
-    - REF-0303
-    status: verified
-  - action: Pain Relief
-    reference_ids:
-    - REF-0110
-    - REF-0197
-    - REF-0303
-    status: verified
-constituents: []
+- Fruit
+- Leaf
+- Root
+actions:
+- action: analgesic
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+- action: antiviral
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+- action: immunomodulator
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: blood-sugar
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from antiviral action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: immune-support
+  evidence: 3
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: pain
+  evidence: 3
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: needs-review
 contraindications:
 - note: Generally safe in moderate amounts. High potassium content — use caution in renal disease. Rare
     cases of hepatotoxicity reported with excessive consumption. May interact with warfarin (due to vitamin
     K content). Avoid during pregnancy.
+  severity: serious
   reference_ids:
   - REF-0110
   - REF-0197
@@ -65,14 +163,17 @@ contraindications:
     which are under investigation for immunomodulatory and anti-tumor effects. Duke notes that noni fruit
     can be consumed as food and is generally safe, though the juice has a strong unpleasant odor and taste.
     No significant toxicity has been reported with regular food consumption (Duke, 2002).
+  severity: info
   reference_ids:
   - REF-0110
   - REF-0197
   - REF-0303
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

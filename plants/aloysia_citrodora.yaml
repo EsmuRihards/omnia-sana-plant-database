@@ -1,68 +1,172 @@
+id: aloysia-citrodora
+scientific_name: Aloysia citrodora
 common_names:
 - Lemon Verbena
 - Lemon beebrush
 - Lippia citriodora
-scientific_name: Aloysia citrodora
 family: Verbenaceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Sedative / sleep support (insomnia)
-    reference_ids:
-    - REF-0474
-    - REF-0690
-    - REF-0691
-    status: verified
-  - action: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related
-      Aloysia polystachya
-    reference_ids:
-    - REF-0474
-    - REF-0475
-    status: verified
-  - action: Carminative digestive aid (indigestion, flatulence)
-    reference_ids:
-    - REF-0474
-    status: verified
-  - action: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
-      stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
-      less soreness after exhaustive exercise
-    reference_ids:
-    - REF-0474
-    - REF-0620
-    - REF-0692
-    - REF-0693
-    - REF-0694
-    status: verified
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0474
-    - REF-0692
-    status: verified
+- Leaf
 constituents:
 - name: Essential oil (neral and geranial, i.e. citral)
+  compounds:
+  - essential-oil
+  - citral
   note: Gives the lemon aroma and contributes to the calming and antimicrobial effects.
   reference_ids:
   - REF-0474
 - name: Verbascoside (acteoside)
+  compounds:
+  - verbascoside
+  - phenolic-compound
   note: The principal polyphenol of the extract and a major antioxidant constituent.
   reference_ids:
   - REF-0474
   - REF-0692
 - name: Flavonoids
+  compounds:
+  - flavonoid
   note: Additional antioxidant constituents.
   reference_ids:
   - REF-0474
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0474
+  - REF-0692
+  status: verified
+- action: antioxidant
+  note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
+    stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
+    less soreness after exhaustive exercise
+  reference_ids:
+  - REF-0474
+  - REF-0620
+  - REF-0692
+  - REF-0693
+  - REF-0694
+  status: verified
+- action: anxiolytic
+  note: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia
+    polystachya
+  reference_ids:
+  - REF-0474
+  - REF-0475
+  status: verified
+- action: carminative
+  note: Carminative digestive aid (indigestion, flatulence)
+  reference_ids:
+  - REF-0474
+  status: verified
+- action: digestive
+  note: Carminative digestive aid (indigestion, flatulence)
+  reference_ids:
+  - REF-0474
+  status: verified
+- action: sedative
+  note: Sedative / sleep support (insomnia)
+  reference_ids:
+  - REF-0474
+  - REF-0690
+  - REF-0691
+  status: verified
+indications:
+- condition: anxiety
+  evidence: 4
+  note: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia
+    polystachya
+  reference_ids:
+  - REF-0474
+  - REF-0475
+  status: verified
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0474
+  - REF-0692
+  status: needs-review
+- condition: bloating
+  evidence: 3
+  note: Carminative digestive aid (indigestion, flatulence)
+  reference_ids:
+  - REF-0474
+  status: verified
+- condition: indigestion
+  evidence: 3
+  note: Carminative digestive aid (indigestion, flatulence)
+  reference_ids:
+  - REF-0474
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0474
+  - REF-0692
+  status: needs-review
+- condition: insomnia
+  evidence: 3
+  note: Sedative / sleep support (insomnia)
+  reference_ids:
+  - REF-0474
+  - REF-0690
+  - REF-0691
+  status: verified
+- condition: muscle-soreness
+  evidence: 4
+  note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
+    stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
+    less soreness after exhaustive exercise
+  reference_ids:
+  - REF-0474
+  - REF-0620
+  - REF-0692
+  - REF-0693
+  - REF-0694
+  status: verified
+- condition: nervous-tension
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0474
+  - REF-0475
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0474
+  - REF-0692
+  status: needs-review
+- condition: stress
+  evidence: 4
+  note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
+    stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
+    less soreness after exhaustive exercise
+  reference_ids:
+  - REF-0474
+  - REF-0620
+  - REF-0692
+  - REF-0693
+  - REF-0694
+  status: verified
 contraindications:
 - note: Generally well tolerated; human safety and efficacy are not fully established. Its sedative effect
     can add to that of alcohol, sedatives and sleep medicines.
+  severity: info
   reference_ids:
   - REF-0474
   status: verified
 - note: Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  severity: caution
   reference_ids:
   - REF-0474
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology review of
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-15'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology review of
   A. citrodora; congeneric anxiety RCT of A. polystachya). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (insomnia, anxiety, indigestion, muscle-soreness, inflammation); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced randomized,
@@ -71,6 +175,5 @@ internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethno
   antioxidant / muscle-recovery action. Further enriched 2026-06-15 with five PubMed sources (REF-0690..REF-0694)
   - two randomized sleep trials (an insomnia RCT, REF-0690, and a sleep-quality RCT, REF-0691), a verbascoside-rich
   antioxidant/anti-inflammatory study (REF-0692), an antioxidant/antiproliferation study (REF-0693) and
-  an immune/antioxidant study (REF-0694).
-last_updated: '2026-06-15'
-status: verified
+  an immune/antioxidant study (REF-0694). | 2026-06-15: migrated to entity schema (actions->vocab ids,
+  indications split out, constituents linked to compounds).'

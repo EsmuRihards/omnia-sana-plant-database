@@ -1,47 +1,122 @@
+id: trifolium-repens
+scientific_name: Trifolium repens
 common_names:
 - White clover
 - Dutch clover
 - shamrock
-scientific_name: Trifolium repens
 family: Fabaceae
 parts_used:
-- name: Flower / Leaf
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0027
-    - REF-0098
-    - REF-0140
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0027
-    - REF-0098
-    - REF-0140
-    status: verified
-  - action: Antispasmodic (cramp easing)
-    reference_ids:
-    - REF-0027
-    - REF-0098
-    - REF-0140
-    status: verified
-  - action: Immune Support
-    reference_ids:
-    - REF-0027
-    - REF-0098
-    - REF-0140
-    status: verified
-  - action: Wound Healing
-    reference_ids:
-    - REF-0027
-    - REF-0098
-    - REF-0140
-    status: verified
-constituents: []
+- Flower
+- Leaf
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (cramp easing)
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: verified
+- action: immunomodulator
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: verified
+- action: vulnerary
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: needs-review
+- condition: immune-support
+  evidence: 3
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: needs-review
 contraindications:
 - note: Generally very safe as a food and in moderate herbal use. Cyanogenic glucosides present in very
     small amounts — not significant in normal food or tea use. Isoflavones are phytoestrogens (as in red
     clover) — same precautions apply in hormone-sensitive conditions. Well tolerated by most people.
+  severity: caution
   reference_ids:
   - REF-0027
   - REF-0098
@@ -49,14 +124,17 @@ contraindications:
   status: verified
 - note: Duke (2002) does not include a dedicated entry for white clover (Trifolium repens) in the Handbook
     of Medicinal Herbs, Second Edition.
+  severity: info
   reference_ids:
   - REF-0027
   - REF-0098
   - REF-0140
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

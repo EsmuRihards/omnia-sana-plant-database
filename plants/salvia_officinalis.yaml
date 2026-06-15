@@ -1,61 +1,120 @@
+id: salvia-officinalis
+scientific_name: Salvia officinalis
 common_names:
 - Sage
 - Common sage
 - Garden sage
 - True sage
-scientific_name: Salvia officinalis
 family: Lamiaceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Gargle/rinse for sore throat and inflammation of the mouth and throat
-    reference_ids:
-    - REF-0501
-    status: verified
-  - action: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
-      dementia)
-    reference_ids:
-    - REF-0502
-    - REF-0503
-    status: verified
-  - action: Reduces excessive sweating, including menopausal hot flushes and night sweats
-    reference_ids:
-    - REF-0501
-    status: verified
-  - action: Carminative for mild dyspeptic complaints (indigestion)
-    reference_ids:
-    - REF-0501
-    status: verified
+- Leaf
 constituents:
 - name: Essential oil (thujone, 1,8-cineole, camphor, borneol)
+  compounds:
+  - essential-oil
+  - camphor
+  - cineole
   note: Aromatic constituents; thujone is the safety-limiting compound.
   reference_ids:
   - REF-0501
 - name: Rosmarinic acid and other phenolic acids
+  compounds:
+  - rosmarinic-acid
+  - phenolic-acid
   note: Antioxidant and anti-inflammatory constituents associated with the cognitive effects.
   reference_ids:
   - REF-0501
   - REF-0502
 - name: Flavonoids
+  compounds:
+  - flavonoid
   note: Additional antioxidant constituents.
   reference_ids:
   - REF-0501
+actions:
+- action: carminative
+  note: Carminative for mild dyspeptic complaints (indigestion)
+  reference_ids:
+  - REF-0501
+  status: verified
+- action: neuroprotective
+  note: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
+    dementia)
+  reference_ids:
+  - REF-0502
+  - REF-0503
+  status: verified
+indications:
+- condition: bloating
+  evidence: 2
+  note: inferred from carminative action
+  reference_ids:
+  - REF-0501
+  status: needs-review
+- condition: cognitive-function
+  evidence: 3
+  note: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
+    dementia)
+  reference_ids:
+  - REF-0502
+  - REF-0503
+  status: verified
+- condition: hot-flashes
+  evidence: 3
+  note: Reduces excessive sweating, including menopausal hot flushes and night sweats
+  reference_ids:
+  - REF-0501
+  status: verified
+- condition: indigestion
+  evidence: 3
+  note: Carminative for mild dyspeptic complaints (indigestion)
+  reference_ids:
+  - REF-0501
+  status: verified
+- condition: inflammation
+  evidence: 3
+  note: Gargle/rinse for sore throat and inflammation of the mouth and throat
+  reference_ids:
+  - REF-0501
+  status: verified
+- condition: memory
+  evidence: 3
+  note: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
+    dementia)
+  reference_ids:
+  - REF-0502
+  - REF-0503
+  status: verified
+- condition: menopause
+  evidence: 2
+  reference_ids: []
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  note: Gargle/rinse for sore throat and inflammation of the mouth and throat
+  reference_ids:
+  - REF-0501
+  status: verified
 contraindications:
 - note: The essential oil contains thujone, which is neurotoxic and can trigger seizures in high doses
     - do not exceed recommended doses and do not take the pure essential oil internally; avoid medicinal
     doses in epilepsy.
+  severity: caution
   reference_ids:
   - REF-0501
   status: verified
 - note: Avoid medicinal and essential-oil doses in pregnancy and breastfeeding (thujone; sage may also
     reduce milk supply). Culinary amounts are safe.
+  severity: caution
   reference_ids:
   - REF-0501
   status: verified
+provenance: website+symptom-tool
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph; CNS
   Neuroscience & Therapeutics systematic review and dementia review). Note: this is Salvia officinalis,
   distinct from the book''s Salvia hispanica (chia) and Salvia rosmarinus (rosemary). Originally a skeleton
   from the omniasana.bio Symptom-to-Plant Lookup tool (sore-throat, memory, hot-flashes, menopause, indigestion,
-  cognitive-function); associations retained and now part-mapped and cited.'
-last_updated: '2026-06-12'
-status: verified
+  cognitive-function); associations retained and now part-mapped and cited. | 2026-06-15: migrated to
+  entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

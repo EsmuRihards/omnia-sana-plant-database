@@ -1,63 +1,137 @@
+id: elettaria-cardamomum
+scientific_name: Elettaria cardamomum
 common_names:
 - Cardamom
 - Green cardamom
 - true cardamom
 - small cardamom
 - '“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking'
-scientific_name: Elettaria cardamomum
 family: Zingiberaceae
 parts_used:
-- name: Fruit / Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0028
-    - REF-0122
-    - REF-0144
-    - REF-0222
-    - REF-0292
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0028
-    - REF-0122
-    - REF-0144
-    - REF-0222
-    - REF-0292
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0028
-    - REF-0122
-    - REF-0144
-    - REF-0222
-    - REF-0292
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0028
-    - REF-0122
-    - REF-0144
-    - REF-0222
-    - REF-0292
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0028
-    - REF-0122
-    - REF-0144
-    - REF-0222
-    - REF-0292
-    status: verified
-  - action: Respiratory Support
-    reference_ids:
-    - REF-0028
-    - REF-0122
-    - REF-0144
-    - REF-0222
-    - REF-0292
-    status: verified
-constituents: []
+- Fruit
+- Seed
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: verified
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: needs-review
+- condition: respiratory-support
+  evidence: 3
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0028
+  - REF-0122
+  - REF-0144
+  - REF-0222
+  - REF-0292
+  status: needs-review
 contraindications:
 - note: Cardamom is generally considered safe for most people when used in culinary amounts. At medicinal
     doses (supplement form), rare side effects include mild gastrointestinal discomfort and allergic reactions.
@@ -67,6 +141,7 @@ contraindications:
     during pregnancy until more safety data are available; culinary use is considered safe. Allergy to
     other Zingiberaceae (ginger, turmeric) may indicate cross-reactivity risk (Korikanthimath and Hiremath,
     2002).
+  severity: caution
   reference_ids:
   - REF-0028
   - REF-0122
@@ -79,6 +154,7 @@ contraindications:
     bronchitis (score 2). The essential oil shows antispasmodic and carminative activity. Dose: 1.5 g
     ground fruit or equivalent preparation three times daily. Duke rates cardamom as generally safe (++),
     with no significant contraindications at therapeutic doses (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0028
   - REF-0122
@@ -86,9 +162,11 @@ contraindications:
   - REF-0222
   - REF-0292
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

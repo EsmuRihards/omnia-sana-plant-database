@@ -1,50 +1,114 @@
+id: hedera-helix
+scientific_name: Hedera helix
 common_names:
 - Ivy Leaf
 - Common ivy
 - English ivy
-scientific_name: Hedera helix
 family: Araliaceae
 parts_used:
-- name: Leaf (standardised dry extract)
-  medicinal_actions:
-  - action: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
-      mucus)
-    reference_ids:
-    - REF-0472
-    - REF-0473
-    - REF-0575
-    status: verified
-  - action: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
-    reference_ids:
-    - REF-0472
-    status: verified
+- Leaf (standardised dry extract)
 constituents:
 - name: Triterpene saponins (hederacoside C, alpha-hederin)
+  compounds:
+  - triterpene-saponin
+  - terpene
+  - saponin
   note: The secretolytic and antispasmodic active constituents; extracts are standardised to them.
   reference_ids:
   - REF-0472
   - REF-0473
 - name: Flavonoids and phenolic acids
+  compounds:
+  - phenolic-acid
+  - flavonoid
   note: Antioxidant supporting constituents.
   reference_ids:
   - REF-0472
+actions:
+- action: antispasmodic
+  note: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
+  reference_ids:
+  - REF-0472
+  status: verified
+- action: bronchodilator
+  note: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
+  reference_ids:
+  - REF-0472
+  status: verified
+- action: expectorant
+  note: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
+    mucus)
+  reference_ids:
+  - REF-0472
+  - REF-0473
+  - REF-0575
+  status: verified
+indications:
+- condition: asthma
+  evidence: 2
+  note: inferred from bronchodilator action
+  reference_ids:
+  - REF-0472
+  status: needs-review
+- condition: bronchitis
+  evidence: 3
+  note: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
+    mucus)
+  reference_ids:
+  - REF-0472
+  - REF-0473
+  - REF-0575
+  status: verified
+- condition: cough
+  evidence: 3
+  note: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
+    mucus)
+  reference_ids:
+  - REF-0472
+  - REF-0473
+  - REF-0575
+  status: verified
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0472
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0472
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0472
+  - REF-0473
+  - REF-0575
+  status: needs-review
 contraindications:
 - note: Generally well tolerated; occasional gastrointestinal upset or, rarely, allergic reaction. Use
     only standardised extract products - the fresh raw plant contains irritant saponins and falcarinol
     that can cause contact dermatitis.
+  severity: info
   reference_ids:
   - REF-0472
   status: verified
 - note: A cough lasting more than a week, or with fever, breathlessness or purulent sputum, needs medical
     assessment. Safety in pregnancy and breastfeeding is not established.
+  severity: caution
   reference_ids:
   - REF-0472
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (two clinical effectiveness studies of
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical effectiveness studies of
   standardised ivy-leaf extract in acute bronchitis / productive cough). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis); associations retained and now
   part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced randomized, double-blind, placebo-controlled
   multicentre trial of the EA 575 ivy-leaf extract in adults with acute cough, showing a significant,
-  clinically relevant reduction in cough severity with onset within 48 hours (REF-0575).
-last_updated: '2026-06-14'
-status: verified
+  clinically relevant reduction in cough severity with onset within 48 hours (REF-0575). | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

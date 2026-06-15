@@ -1,68 +1,90 @@
+id: vitex-agnus-castus
+scientific_name: Vitex agnus-castus
 common_names:
 - Chasteberry
 - Chaste tree
 - Monk's pepper
 - Agnus castus
-scientific_name: Vitex agnus-castus
 family: Lamiaceae
 parts_used:
-- name: Fruit (berry)
-  medicinal_actions:
-  - action: Relief of premenstrual syndrome (PMS) symptoms
-    reference_ids:
-    - REF-0433
-    status: verified
-  - action: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping
-    reference_ids:
-    - REF-0433
-    - REF-0435
-    status: verified
-  - action: Lowers mildly raised prolactin and normalises a short luteal phase (dopaminergic D2 action)
-    reference_ids:
-    - REF-0435
-    - REF-0433
-    status: verified
-  - action: Supports menstrual irregularities and perimenopausal cycle symptoms (traditional / Commission
-      E)
-    reference_ids:
-    - REF-0434
-    status: verified
-  - action: Cycle-related (hormonal) acne (traditional)
-    reference_ids:
-    - REF-0434
-    status: needs-review
+- Fruit (berry)
 constituents:
 - name: Diterpenes (e.g. rotundifuran, clerodadienols)
+  compounds:
+  - terpene
   note: Bind dopamine D2 receptors in the pituitary, reducing prolactin release - the key mechanism.
   reference_ids:
   - REF-0435
 - name: Flavonoids (casticin, vitexin)
+  compounds:
+  - flavonoid
   note: Antioxidant constituents of the fruit.
   reference_ids:
   - REF-0433
 - name: Iridoid glycosides (agnuside, aucubin)
+  compounds:
+  - iridoid-glycoside
+  - glycoside
   note: Characteristic constituents used in standardisation.
   reference_ids:
   - REF-0434
+indications:
+- condition: acne
+  evidence: 2
+  note: Cycle-related (hormonal) acne (traditional)
+  reference_ids:
+  - REF-0434
+  status: needs-review
+- condition: menopause
+  evidence: 2
+  reference_ids: []
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 3
+  reference_ids: []
+  status: needs-review
+- condition: pain
+  evidence: 3
+  note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping
+  reference_ids:
+  - REF-0433
+  - REF-0435
+  status: verified
+- condition: pms
+  evidence: 4
+  note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping; Relief
+    of premenstrual syndrome (PMS) symptoms
+  reference_ids:
+  - REF-0433
+  - REF-0435
+  status: verified
 contraindications:
 - note: Reported adverse events are mild and reversible (nausea, headache, gastrointestinal upset, menstrual
     changes, acne, itching or rash).
+  severity: info
   reference_ids:
   - REF-0434
   status: verified
 - note: Because it acts on dopamine and the hormonal axis, avoid alongside dopamine-antagonist (antipsychotic)
     or dopamine-agonist drugs and use caution with hormonal medicines (oral contraceptives, HRT) and hormone-sensitive
     conditions.
+  severity: caution
   reference_ids:
   - REF-0434
   status: verified
 - note: Avoid during pregnancy and breastfeeding.
+  severity: caution
   reference_ids:
   - REF-0434
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Planta Medica efficacy review; Drug Safety
+provenance: website+symptom-tool
+status: verified
+last_updated: '2026-06-12'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica efficacy review; Drug Safety
   adverse-events review; Frontiers in Endocrinology prolactin review). Vitex is now placed in Lamiaceae
   (formerly Verbenaceae). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (pms, menstrual-cramps, menopause, acne); associations retained and now part-mapped and cited.
-last_updated: '2026-06-12'
-status: verified
+  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds). Unmapped uses kept for reference: Lowers mildly raised prolactin and normalises a short
+  luteal phase (dopaminergic D2 action) | Supports menstrual irregularities and perimenopausal cycle symptoms
+  (traditional / Commission E).'

@@ -1,88 +1,219 @@
+id: agrimonia-eupatoria
+scientific_name: Agrimonia eupatoria
 common_names:
 - Agrimony
 - Common agrimony
 - Church steeples
 - Sticklewort
-scientific_name: Agrimonia eupatoria
 family: Rosaceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Astringent (relief of mild diarrhoea)
-    reference_ids:
-    - REF-0386
-    - REF-0387
-    - REF-0388
-    status: verified
-  - action: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
-    reference_ids:
-    - REF-0386
-    - REF-0387
-    - REF-0680
-    - REF-0681
-    - REF-0683
-    status: verified
-  - action: Vulnerary (minor skin inflammation and small superficial wounds, topical)
-    reference_ids:
-    - REF-0386
-    - REF-0388
-    - REF-0682
-    - REF-0683
-    status: verified
-  - action: Mild bitter digestive tonic (indigestion)
-    reference_ids:
-    - REF-0387
-    - REF-0388
-    - REF-0684
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0388
-    - REF-0681
-    - REF-0683
-    - REF-0684
-    status: verified
+- Aerial parts (flowering herb)
 constituents:
 - name: Tannins (condensed and hydrolysable, including agrimoniin)
+  compounds:
+  - tannin
   note: Responsible for the characteristic astringency.
   reference_ids:
   - REF-0386
   - REF-0388
 - name: Flavonoids (luteolin, apigenin, quercetin and their glycosides)
+  compounds:
+  - flavonoid
+  - glycoside
+  - quercetin
+  - apigenin
+  - luteolin
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0388
   - REF-0387
 - name: Phenolic acids
+  compounds:
+  - phenolic-acid
   note: Contribute to antioxidant activity.
   reference_ids:
   - REF-0388
 - name: Triterpenes, volatile oil and silica
+  compounds:
+  - essential-oil
+  - terpene
+  - silica
   note: Minor constituents of the herb.
   reference_ids:
   - REF-0387
   - REF-0388
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
+  reference_ids:
+  - REF-0386
+  - REF-0387
+  - REF-0680
+  - REF-0681
+  - REF-0683
+  status: verified
+- action: antidiarrheal
+  note: Astringent (relief of mild diarrhoea)
+  reference_ids:
+  - REF-0386
+  - REF-0387
+  - REF-0388
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0388
+  - REF-0681
+  - REF-0683
+  - REF-0684
+  status: verified
+- action: astringent
+  note: Astringent (relief of mild diarrhoea)
+  reference_ids:
+  - REF-0386
+  - REF-0387
+  - REF-0388
+  status: verified
+- action: bitter-tonic
+  note: Mild bitter digestive tonic (indigestion)
+  reference_ids:
+  - REF-0387
+  - REF-0388
+  - REF-0684
+  status: verified
+- action: digestive
+  note: Mild bitter digestive tonic (indigestion)
+  reference_ids:
+  - REF-0387
+  - REF-0388
+  - REF-0684
+  status: verified
+- action: vulnerary
+  note: Vulnerary (minor skin inflammation and small superficial wounds, topical)
+  reference_ids:
+  - REF-0386
+  - REF-0388
+  - REF-0682
+  - REF-0683
+  status: verified
+indications:
+- condition: appetite-loss
+  evidence: 2
+  note: inferred from bitter-tonic action
+  reference_ids:
+  - REF-0387
+  - REF-0388
+  - REF-0684
+  status: needs-review
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0386
+  - REF-0387
+  - REF-0680
+  - REF-0681
+  - REF-0683
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0387
+  - REF-0388
+  - REF-0684
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0386
+  - REF-0388
+  - REF-0682
+  - REF-0683
+  status: needs-review
+- condition: diarrhea
+  evidence: 3
+  note: Astringent (relief of mild diarrhoea)
+  reference_ids:
+  - REF-0386
+  - REF-0387
+  - REF-0388
+  status: verified
+- condition: indigestion
+  evidence: 3
+  note: Mild bitter digestive tonic (indigestion)
+  reference_ids:
+  - REF-0387
+  - REF-0388
+  - REF-0684
+  status: verified
+- condition: inflammation
+  evidence: 3
+  note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat); Vulnerary
+    (minor skin inflammation and small superficial wounds, topical)
+  reference_ids:
+  - REF-0386
+  - REF-0387
+  - REF-0388
+  - REF-0680
+  - REF-0681
+  - REF-0682
+  - REF-0683
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0386
+  - REF-0387
+  - REF-0388
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
+  reference_ids:
+  - REF-0386
+  - REF-0387
+  - REF-0680
+  - REF-0681
+  - REF-0683
+  status: verified
+- condition: wounds
+  evidence: 3
+  note: Vulnerary (minor skin inflammation and small superficial wounds, topical)
+  reference_ids:
+  - REF-0386
+  - REF-0388
+  - REF-0682
+  - REF-0683
+  status: verified
 contraindications:
 - note: 'Traditional-use indication only: if diarrhoea persists longer than 3-4 days, or symptoms of mouth/throat
     inflammation persist beyond about a week, a doctor should be consulted.'
+  severity: info
   reference_ids:
   - REF-0386
   status: verified
 - note: Use during pregnancy and breastfeeding is not recommended, as safety has not been established.
+  severity: caution
   reference_ids:
   - REF-0386
   status: verified
 - note: Tannin-rich; very high or prolonged intake may cause gastrointestinal upset or constipation and
     can reduce the absorption of iron and some medicines taken at the same time.
+  severity: info
   reference_ids:
   - REF-0387
   - REF-0386
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality,
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality,
   peer-reviewed review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (diarrhea, sore-throat, indigestion, wounds); symptom associations retained and now part-mapped
   and cited. Further enriched 2026-06-14 with five PubMed sources (REF-0680..REF-0684) - an antinociceptive
   neuropathy study (REF-0680), two pharmacology reviews of phenolic composition and activities (REF-0681,
   REF-0683), a skin-wound-healing study (REF-0682) and a gastroprotective anti-ulcer study (REF-0684).
-last_updated: '2026-06-14'
-status: verified
+  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

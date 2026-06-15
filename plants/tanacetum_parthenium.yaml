@@ -1,36 +1,19 @@
+id: tanacetum-parthenium
+scientific_name: Tanacetum parthenium
 common_names:
 - Feverfew
 - Featherfew
 - Bachelor's buttons
 - Midsummer daisy
-scientific_name: Tanacetum parthenium
 family: Asteraceae
 parts_used:
-- name: Leaf (aerial parts)
-  medicinal_actions:
-  - action: Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised
-      preparations, though mixed); parthenolide is identified as the component responsible for the antimigraine
-      effect in animal models
-    reference_ids:
-    - REF-0450
-    - REF-0552
-    status: verified
-  - action: Headache prevention and relief
-    reference_ids:
-    - REF-0450
-    status: verified
-  - action: Anti-inflammatory - parthenolide inhibits NF-kB and nitroglycerin-induced neuronal (Fos) activation,
-      the proposed basis of its antimigraine action
-    reference_ids:
-    - REF-0450
-    - REF-0552
-    status: verified
-  - action: Traditional use for fever and for joint pain / arthritis
-    reference_ids:
-    - REF-0450
-    status: needs-review
+- Leaf (aerial parts)
 constituents:
 - name: Sesquiterpene lactones (parthenolide)
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
+  - parthenolide
   note: Parthenolide is the principal active compound, to which extracts are often standardised; it is
     biosynthesised and stored in the glandular trichomes of the aerial parts.
   reference_ids:
@@ -38,26 +21,89 @@ constituents:
   - REF-0552
   - REF-0553
 - name: Flavonoids and essential oil
+  compounds:
+  - essential-oil
+  - flavonoid
   note: Supporting antioxidant and aromatic constituents.
   reference_ids:
   - REF-0450
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory - parthenolide inhibits NF-kB and nitroglycerin-induced neuronal (Fos) activation,
+    the proposed basis of its antimigraine action
+  reference_ids:
+  - REF-0450
+  - REF-0552
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: Traditional use for fever and for joint pain / arthritis
+  reference_ids:
+  - REF-0450
+  status: needs-review
+- condition: fever
+  evidence: 2
+  note: Traditional use for fever and for joint pain / arthritis
+  reference_ids:
+  - REF-0450
+  status: needs-review
+- condition: headache
+  evidence: 3
+  note: Headache prevention and relief
+  reference_ids:
+  - REF-0450
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0450
+  - REF-0552
+  status: needs-review
+- condition: migraine
+  evidence: 4
+  note: Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised preparations,
+    though mixed); parthenolide is identified as the component responsible for the antimigraine effect
+    in animal models
+  reference_ids:
+  - REF-0450
+  - REF-0552
+  status: verified
+- condition: pain
+  evidence: 2
+  note: Traditional use for fever and for joint pain / arthritis
+  reference_ids:
+  - REF-0450
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0450
+  - REF-0552
+  status: needs-review
 contraindications:
 - note: As a member of the daisy family (Asteraceae), it can cause allergic reactions in people sensitive
     to ragweed and related plants. Chewing fresh leaves commonly causes mouth ulcers and oral soreness.
+  severity: info
   reference_ids:
   - REF-0450
   status: verified
 - note: Stopping feverfew abruptly after prolonged use can cause a 'post-feverfew' rebound of headache,
     anxiety and muscle/joint stiffness. Avoid in pregnancy (uterine-stimulant) and breastfeeding, and
     use caution with anticoagulant/antiplatelet medicines.
+  severity: caution
   reference_ids:
   - REF-0450
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane systematic review of feverfew
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-13'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane systematic review of feverfew
   for migraine prevention). Further enriched 2026-06-13 with two PubMed studies - a parthenolide mechanism-of-action
   study in an animal migraine model (REF-0552, Tassorelli et al. 2005) and a parthenolide biosynthesis/localization
   study (REF-0553, Majdi et al. 2011). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (headache, migraine, inflammation, fever, arthritis); associations retained and now part-mapped
-  and cited.
-last_updated: '2026-06-13'
-status: verified
+  and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

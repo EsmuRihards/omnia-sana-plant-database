@@ -1,57 +1,148 @@
+id: borago-officinalis
+scientific_name: Borago officinalis
 common_names:
 - Borage
 - Starflower
 - Common borage
 - Bee bush
 - Bee bread
-scientific_name: Borago officinalis
 family: Boraginaceae
 parts_used:
-- name: Flower / Leaf / Seed / Stem
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0129
-    - REF-0212
-    - REF-0309
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0129
-    - REF-0212
-    - REF-0309
-    status: verified
-  - action: Dermatological
-    reference_ids:
-    - REF-0129
-    - REF-0212
-    - REF-0309
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0129
-    - REF-0212
-    - REF-0309
-    status: verified
-  - action: Immune Support
-    reference_ids:
-    - REF-0129
-    - REF-0212
-    - REF-0309
-    status: verified
-  - action: Pain Relief
-    reference_ids:
-    - REF-0129
-    - REF-0212
-    - REF-0309
-    status: verified
-  - action: Respiratory Support
-    reference_ids:
-    - REF-0129
-    - REF-0212
-    - REF-0309
-    status: verified
-constituents: []
+- Flower
+- Leaf
+- Seed
+- Stem
+actions:
+- action: analgesic
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- action: emollient
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- action: immunomodulator
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
+- condition: eczema
+  evidence: 2
+  note: inferred from emollient action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
+- condition: immune-support
+  evidence: 3
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
+- condition: pain
+  evidence: 3
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- condition: respiratory-support
+  evidence: 3
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0129
+  - REF-0212
+  - REF-0309
+  status: needs-review
 contraindications:
 - note: 'Pyrrolizidine alkaloids (PAs): Many Boraginaceae can produce PAs; unsaturated PAs are hepatotoxic
     and genotoxic (risk increases with cumulative exposure). Borage as food/tea: PA presence in borage
@@ -64,6 +155,7 @@ contraindications:
     GLA oils have been discussed with anticoagulants (bleeding risk caution is better established for
     evening primrose oil; borage oil is often grouped in the same “GLA oil” category). Use caution if
     on anticoagulants/antiplatelets.'
+  severity: serious
   reference_ids:
   - REF-0129
   - REF-0212
@@ -75,14 +167,17 @@ contraindications:
     24% GLA or 2-4 ml liquid leaf extract. Commission E does not approve borage for any indication, and
     the herb contains hepatotoxic and carcinogenic pyrrolizidine alkaloids, making long-term use inadvisable
     (Duke, 2002).
+  severity: serious
   reference_ids:
   - REF-0129
   - REF-0212
   - REF-0309
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

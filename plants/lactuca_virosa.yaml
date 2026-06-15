@@ -1,36 +1,18 @@
+id: lactuca-virosa
+scientific_name: Lactuca virosa
 common_names:
 - Wild Lettuce
 - Bitter lettuce
 - Opium lettuce
 - Lactucarium
-scientific_name: Lactuca virosa
 family: Asteraceae
 parts_used:
-- name: Aerial parts and dried latex (lactucarium)
-  medicinal_actions:
-  - action: Sedative for sleeplessness / insomnia - lactucin and lactucopicrin showed sedative activity
-      in animal models
-    reference_ids:
-    - REF-0526
-    - REF-0622
-    status: needs-review
-  - action: Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system)
-      - in mice these compounds produced analgesia comparable to ibuprofen
-    reference_ids:
-    - REF-0526
-    - REF-0527
-    - REF-0622
-    status: needs-review
-  - action: Calming for nervous tension and restlessness
-    reference_ids:
-    - REF-0526
-    status: needs-review
-  - action: Antitussive for an irritable, dry cough (traditional)
-    reference_ids:
-    - REF-0526
-    status: needs-review
+- Aerial parts and dried latex (lactucarium)
 constituents:
 - name: Sesquiterpene lactones (lactucin, lactucopicrin)
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
   note: Bitter, centrally-active constituents responsible for the sedative and pain-relieving effects;
     isolated lactucin and lactucopicrin produced analgesia comparable to ibuprofen and sedation in rodent
     tests.
@@ -42,26 +24,114 @@ constituents:
   note: The historical medicinal preparation, concentrating the active lactones.
   reference_ids:
   - REF-0526
+actions:
+- action: analgesic
+  note: Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system)
+    - in mice these compounds produced analgesia comparable to ibuprofen
+  reference_ids:
+  - REF-0526
+  - REF-0527
+  - REF-0622
+  status: needs-review
+- action: antitussive
+  note: Antitussive for an irritable, dry cough (traditional)
+  reference_ids:
+  - REF-0526
+  status: needs-review
+- action: anxiolytic
+  note: Calming for nervous tension and restlessness
+  reference_ids:
+  - REF-0526
+  status: needs-review
+- action: sedative
+  note: Sedative for sleeplessness / insomnia - lactucin and lactucopicrin showed sedative activity in
+    animal models
+  reference_ids:
+  - REF-0526
+  - REF-0622
+  status: needs-review
+indications:
+- condition: anxiety
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0526
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0526
+  - REF-0527
+  - REF-0622
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: Antitussive for an irritable, dry cough (traditional)
+  reference_ids:
+  - REF-0526
+  status: needs-review
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0526
+  - REF-0527
+  - REF-0622
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: Sedative for sleeplessness / insomnia - lactucin and lactucopicrin showed sedative activity in
+    animal models
+  reference_ids:
+  - REF-0526
+  - REF-0622
+  status: needs-review
+- condition: nervous-tension
+  evidence: 2
+  note: Calming for nervous tension and restlessness
+  reference_ids:
+  - REF-0526
+  status: needs-review
+- condition: pain
+  evidence: 2
+  note: Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system)
+    - in mice these compounds produced analgesia comparable to ibuprofen
+  reference_ids:
+  - REF-0526
+  - REF-0527
+  - REF-0622
+  status: needs-review
+- condition: stress
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0526
+  status: needs-review
 contraindications:
 - note: 'Can be unsafe in large amounts or if harvested too early: overdose can cause sweating, fast heartbeat,
     dilated pupils, dizziness, ringing in the ears, vision changes, heavy sedation, breathing difficulty
     and, in extreme cases, death.'
+  severity: info
   reference_ids:
   - REF-0527
   status: verified
 - note: Its sedative effect can add to that of sedatives and alcohol - avoid combining and do not use
     before driving. As a daisy-family (Asteraceae) plant it can cause allergy; avoid in pregnancy and
     breastfeeding.
+  severity: caution
   reference_ids:
   - REF-0527
   - REF-0526
   status: verified
-internal_notes: Enriched 2026-06-12 from general literature (Herbal Reality and RxList monographs). Record
+provenance: website+pubmed+symptom-tool
+status: needs-review
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from general literature (Herbal Reality and RxList monographs). Record
   status set to needs-review because of the overdose toxicity risk and limited modern evidence. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, pain, nervous-tension,
   cough); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
   study showing the Lactuca sesquiterpene lactones lactucin and lactucopicrin have analgesic (ibuprofen-comparable)
   and sedative activity in mice (REF-0622), supporting the analgesic and sedative actions mechanistically
-  (preclinical).
-last_updated: '2026-06-14'
-status: needs-review
+  (preclinical). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

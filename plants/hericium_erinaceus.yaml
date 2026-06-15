@@ -1,43 +1,12 @@
+id: hericium-erinaceus
+scientific_name: Hericium erinaceus
 common_names:
 - Lions mane
 - Lauvas krēpes
-scientific_name: Hericium erinaceus
 family: Hericiaceae
 parts_used:
-- name: Fruit / Mycelium
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0157
-    - REF-0170
-    - REF-0179
-    - REF-0642
-    - REF-0643
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0157
-    - REF-0170
-    - REF-0179
-    - REF-0640
-    - REF-0641
-    - REF-0642
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0157
-    - REF-0170
-    - REF-0179
-    - REF-0643
-    - REF-0645
-    status: verified
-  - action: Immune Support
-    reference_ids:
-    - REF-0157
-    - REF-0170
-    - REF-0179
-    - REF-0644
-    status: verified
+- Fruit
+- Mycelium
 constituents:
 - name: Erinacines and hericenones
   note: Diterpenoid erinacines (concentrated in the mycelium) and aromatic hericenones (in the fruiting
@@ -46,17 +15,143 @@ constituents:
   reference_ids:
   - REF-0642
 - name: Polysaccharides (beta-glucans)
+  compounds:
+  - polysaccharide
   note: High-molecular-weight fruiting-body and mycelial polysaccharides with immunomodulatory, anti-inflammatory
     and prebiotic activity — alleviating ulcerative colitis, activating macrophages and supporting gut
     microbiota.
   reference_ids:
   - REF-0643
   - REF-0644
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0642
+  - REF-0643
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0643
+  - REF-0645
+  status: verified
+- action: immunomodulator
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0644
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0640
+  - REF-0641
+  - REF-0642
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0642
+  - REF-0643
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0643
+  - REF-0645
+  status: needs-review
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0640
+  - REF-0641
+  - REF-0642
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0644
+  status: needs-review
+- condition: immune-support
+  evidence: 3
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0644
+  status: verified
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0643
+  - REF-0645
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0642
+  - REF-0643
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0640
+  - REF-0641
+  - REF-0642
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0157
+  - REF-0170
+  - REF-0179
+  - REF-0642
+  - REF-0643
+  status: needs-review
 contraindications:
 - note: Mild gastrointestinal upset (nausea, bloating, diarrhoea) is the most common side effect. Rare
     allergic reactions can occur, particularly in individuals sensitive to mushrooms, and it may slightly
     lower blood sugar or have mild blood-thinning effects, so caution is advised for people on diabetes
     or anticoagulant medications.
+  severity: caution
   reference_ids:
   - REF-0157
   - REF-0170
@@ -64,18 +159,22 @@ contraindications:
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Lion's mane mushroom (Hericium erinaceus) in
     the Handbook of Medicinal Herbs, Second Edition.
+  severity: info
   reference_ids:
   - REF-0157
   - REF-0170
   - REF-0179
   status: verified
+provenance: book+pubmed
+status: verified
+last_updated: '2026-06-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies (REF-0640..REF-0645):
-  two randomised controlled trials of cognition/mood in healthy adults (REF-0640, REF-0641), a neurotrophic/neuroprotective
-  review of erinacines and hericenones (REF-0642), polysaccharide studies on ulcerative colitis and macrophage
-  immunomodulation (REF-0643, REF-0644), and clinical/preclinical evidence in chronic atrophic gastritis
-  and Helicobacter pylori (REF-0645); erinacine/hericenone and polysaccharide constituents added.'
-last_updated: '2026-06-14'
-status: verified
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
+  (REF-0640..REF-0645): two randomised controlled trials of cognition/mood in healthy adults (REF-0640,
+  REF-0641), a neurotrophic/neuroprotective review of erinacines and hericenones (REF-0642), polysaccharide
+  studies on ulcerative colitis and macrophage immunomodulation (REF-0643, REF-0644), and clinical/preclinical
+  evidence in chronic atrophic gastritis and Helicobacter pylori (REF-0645); erinacine/hericenone and
+  polysaccharide constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
+  split out, constituents linked to compounds).'

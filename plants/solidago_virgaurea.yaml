@@ -1,42 +1,87 @@
+id: solidago-virgaurea
+scientific_name: Solidago virgaurea
 common_names:
 - Goldenrod
 - European goldenrod
 - woundwort
-scientific_name: Solidago virgaurea
 family: Asteraceae
 parts_used:
-- name: Flower / Leaf / Stem
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0016
-    - REF-0069
-    - REF-0244
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0016
-    - REF-0069
-    - REF-0244
-    status: verified
-  - action: Diuretic
-    reference_ids:
-    - REF-0016
-    - REF-0069
-    - REF-0244
-    status: verified
-  - action: Urinary support
-    reference_ids:
-    - REF-0016
-    - REF-0069
-    - REF-0244
-    status: verified
-constituents: []
+- Flower
+- Leaf
+- Stem
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: verified
+- action: diuretic
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: needs-review
+- condition: urinary-support
+  evidence: 3
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: verified
+- condition: uti
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: needs-review
 contraindications:
 - note: Generally well tolerated. Not recommended in cases of fluid retention due to impaired cardiac
     or renal function. Ensure adequate fluid intake when using as a diuretic. May cause allergic reactions
     in individuals sensitive to Asteraceae plants. Avoid use during pregnancy and breastfeeding due to
     limited safety data.
+  severity: caution
   reference_ids:
   - REF-0016
   - REF-0069
@@ -48,14 +93,17 @@ contraindications:
     g dried herb daily as tea for urinary complaints. Duke cautions against use in cases of edema from
     renal or cardiac insufficiency, and notes that the herb may cause allergic reactions in individuals
     sensitive to Asteraceae plants (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0016
   - REF-0069
   - REF-0244
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

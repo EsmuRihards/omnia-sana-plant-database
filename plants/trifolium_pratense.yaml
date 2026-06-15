@@ -1,54 +1,116 @@
+id: trifolium-pratense
+scientific_name: Trifolium pratense
 common_names:
 - Red Clover
 - meadow clover
 - cow clover
-scientific_name: Trifolium pratense
 family: Fabaceae
 parts_used:
-- name: Flower / Leaf
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0013
-    - REF-0036
-    - REF-0112
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0013
-    - REF-0036
-    - REF-0112
-    status: verified
-  - action: Antispasmodic (cramp easing)
-    reference_ids:
-    - REF-0013
-    - REF-0036
-    - REF-0112
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0013
-    - REF-0036
-    - REF-0112
-    status: verified
-  - action: Expectorant
-    reference_ids:
-    - REF-0013
-    - REF-0036
-    - REF-0112
-    status: verified
-  - action: Menstrual cramps
-    reference_ids:
-    - REF-0013
-    - REF-0036
-    - REF-0112
-    status: verified
-constituents: []
+- Flower
+- Leaf
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (cramp easing)
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+- action: expectorant
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: needs-review
+- condition: bronchitis
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+- condition: cough
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 3
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: needs-review
 contraindications:
 - note: Generally safe in normal dietary amounts. Isoflavones are phytoestrogens — exercise caution in
     oestrogen-receptor-positive breast cancer patients or those taking hormone therapies. May interact
     with warfarin (antiplatelet activity). Avoid in pregnancy and breastfeeding. Well tolerated in most
     adults.
+  severity: caution
   reference_ids:
   - REF-0013
   - REF-0036
@@ -61,14 +123,17 @@ contraindications:
     isoflavones daily. Duke cautions that due to strong estrogenic activity, red clover is not recommended
     in estrogen-dependent cancers (breast, uterine) or alongside hormone replacement therapy without medical
     supervision. Anti-coagulant coumarins are also present (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0013
   - REF-0036
   - REF-0112
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

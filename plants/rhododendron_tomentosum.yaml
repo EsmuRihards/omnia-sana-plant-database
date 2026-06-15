@@ -1,44 +1,96 @@
+id: rhododendron-tomentosum
+scientific_name: Rhododendron tomentosum
 common_names:
 - Labrador-tea
 - Labrador tea
 - bog tea
 - Hudson's Bay tea
 - marsh tea
-scientific_name: Rhododendron tomentosum
 family: Ericaceae
 parts_used:
-- name: Leaf / Stem
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0053
-    - REF-0098
-    - REF-0237
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0053
-    - REF-0098
-    - REF-0237
-    status: verified
-  - action: Diuretic
-    reference_ids:
-    - REF-0053
-    - REF-0098
-    - REF-0237
-    status: verified
-  - action: Respiratory Support
-    reference_ids:
-    - REF-0053
-    - REF-0098
-    - REF-0237
-    status: verified
-constituents: []
+- Leaf
+- Stem
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: verified
+- action: diuretic
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: needs-review
+- condition: respiratory-support
+  evidence: 3
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: needs-review
+- condition: uti
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0053
+  - REF-0098
+  - REF-0237
+  status: needs-review
 contraindications:
 - note: Labrador tea contains ledol, a toxic sesquiterpene alcohol, particularly concentrated in fresh
     leaves. Excessive consumption can cause dizziness, headache, nausea, and even toxicity (especially
     in the related Ledum palustre). Use only in small, controlled amounts. Not recommended during pregnancy
     or breastfeeding. Identify plant correctly — confusion with other bog plants can be dangerous.
+  severity: caution
   reference_ids:
   - REF-0053
   - REF-0098
@@ -50,14 +102,17 @@ contraindications:
     toxicity. It contains ericolin and ledol, which are potentially neurotoxic compounds. Duke emphasizes
     that Labrador tea should be used only with caution and at low doses, and notes that it is not appropriate
     for regular internal use given its toxicity profile at higher amounts (Duke, 2002).
+  severity: caution
   reference_ids:
   - REF-0053
   - REF-0098
   - REF-0237
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

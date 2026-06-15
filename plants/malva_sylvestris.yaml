@@ -1,80 +1,186 @@
+id: malva-sylvestris
+scientific_name: Malva sylvestris
 common_names:
 - Mallow
 - Common mallow
 - High mallow
 - Blue mallow
-scientific_name: Malva sylvestris
 family: Malvaceae
 parts_used:
-- name: Leaf and flower
-  medicinal_actions:
-  - action: Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage)
-    reference_ids:
-    - REF-0480
-    status: verified
-  - action: Soothes sore throat
-    reference_ids:
-    - REF-0480
-    status: verified
-  - action: Soothes irritated and inflamed skin and mucous membranes
-    reference_ids:
-    - REF-0480
-    status: verified
-  - action: Mild laxative for occasional constipation (mucilage; traditional)
-    reference_ids:
-    - REF-0480
-    status: needs-review
-  - action: Antioxidant (phenolic compounds and anthocyanins)
-    reference_ids:
-    - REF-0541
-    - REF-0542
-    status: verified
-  - action: Antibacterial / antimicrobial (methanolic leaf extracts; the naphthoquinone Malvone A)
-    reference_ids:
-    - REF-0541
-    - REF-0542
-    status: verified
-  - action: Anti-inflammatory, analgesic and wound-healing (preclinical)
-    reference_ids:
-    - REF-0541
-    - REF-0542
-    status: needs-review
+- Leaf and flower
 constituents:
 - name: Mucilage polysaccharides
+  compounds:
+  - polysaccharide
+  - mucilage
   note: The high mucilage content gives the demulcent, soothing action.
   reference_ids:
   - REF-0480
 - name: Anthocyanins (malvin) and flavonoids
+  compounds:
+  - anthocyanin
+  - flavonoid
   note: The blue-purple pigments and antioxidant constituents.
   reference_ids:
   - REF-0480
   - REF-0541
   - REF-0542
 - name: Coumarins and other phenolic compounds
+  compounds:
+  - phenolic-compound
+  - coumarin
   note: Phenolic constituents associated with antioxidant and reported antiproliferative (anticancer)
     activity in cell studies.
   reference_ids:
   - REF-0541
   - REF-0542
 - name: Tannins
+  compounds:
+  - tannin
   note: Mildly astringent constituents.
   reference_ids:
   - REF-0480
+actions:
+- action: analgesic
+  note: Anti-inflammatory, analgesic and wound-healing (preclinical)
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- action: anti-inflammatory
+  note: Anti-inflammatory, analgesic and wound-healing (preclinical)
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- action: antimicrobial
+  note: Antibacterial / antimicrobial (methanolic leaf extracts; the naphthoquinone Malvone A)
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: verified
+- action: antioxidant
+  note: Antioxidant (phenolic compounds and anthocyanins)
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: verified
+- action: demulcent
+  note: Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage);
+    Mild laxative for occasional constipation (mucilage; traditional)
+  reference_ids:
+  - REF-0480
+  status: needs-review
+- action: laxative
+  note: Mild laxative for occasional constipation (mucilage; traditional)
+  reference_ids:
+  - REF-0480
+  status: needs-review
+- action: vulnerary
+  note: Anti-inflammatory, analgesic and wound-healing (preclinical)
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- condition: constipation
+  evidence: 2
+  note: Mild laxative for occasional constipation (mucilage; traditional)
+  reference_ids:
+  - REF-0480
+  status: needs-review
+- condition: cough
+  evidence: 3
+  note: Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage)
+  reference_ids:
+  - REF-0480
+  status: verified
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- condition: pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
+- condition: skin-irritation
+  evidence: 3
+  note: Soothes irritated and inflamed skin and mucous membranes
+  reference_ids:
+  - REF-0480
+  status: verified
+- condition: sore-throat
+  evidence: 3
+  reference_ids:
+  - REF-0480
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0541
+  - REF-0542
+  status: needs-review
 contraindications:
 - note: Generally very well tolerated. Irritation of the mouth/throat or a cough that persists beyond
     about a week, or is accompanied by fever or breathlessness, needs medical assessment.
+  severity: info
   reference_ids:
   - REF-0480
   status: verified
 - note: Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.
+  severity: caution
   reference_ids:
   - REF-0480
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium /
-  flos). Further enriched 2026-06-13 with two PubMed phytochemistry/pharmacology reviews (REF-0541, Paul
-  et al. 2024; REF-0542, Batiha et al. 2022) that added antioxidant, antibacterial and anti-inflammatory/analgesic
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-13'
+internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium
+  / flos). Further enriched 2026-06-13 with two PubMed phytochemistry/pharmacology reviews (REF-0541,
+  Paul et al. 2024; REF-0542, Batiha et al. 2022) that added antioxidant, antibacterial and anti-inflammatory/analgesic
   actions and a coumarins/phenolics constituent. Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (cough, sore-throat, skin-irritation, inflammation, constipation); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-13'
-status: verified
+  retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
+  indications split out, constituents linked to compounds).'

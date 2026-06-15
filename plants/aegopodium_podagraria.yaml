@@ -1,43 +1,118 @@
+id: aegopodium-podagraria
+scientific_name: Aegopodium podagraria
 common_names:
 - Ground Elder
 - bishop's weed
 - goutweed
 - gout wort
 - snow-in-the-mountain
-scientific_name: Aegopodium podagraria
 family: Apiaceae
 parts_used:
-- name: Leaf / Root / Stem
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0098
-    - REF-0168
-    - REF-0207
-    status: verified
-  - action: Anti-rheumatic
-    reference_ids:
-    - REF-0098
-    - REF-0168
-    - REF-0207
-    status: verified
-  - action: Diuretic
-    reference_ids:
-    - REF-0098
-    - REF-0168
-    - REF-0207
-    status: verified
-  - action: Pain Relief
-    reference_ids:
-    - REF-0098
-    - REF-0168
-    - REF-0207
-    status: verified
-constituents: []
+- Leaf
+- Root
+- Stem
+actions:
+- action: analgesic
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: verified
+- action: anti-rheumatic
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: verified
+- action: diuretic
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from anti-rheumatic action
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: needs-review
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: needs-review
+- condition: pain
+  evidence: 3
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: needs-review
+- condition: uti
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0098
+  - REF-0168
+  - REF-0207
+  status: needs-review
 contraindications:
 - note: Generally safe as a food plant when young leaves are harvested. Contains furocoumarins (photosensitising
     compounds) — handling large quantities in bright sunlight may cause skin irritation. Individuals with
     Apiaceae allergies should exercise caution. Not recommended in therapeutic doses during pregnancy.
+  severity: caution
   reference_ids:
   - REF-0098
   - REF-0168
@@ -45,14 +120,17 @@ contraindications:
   status: verified
 - note: Duke (2002) does not appear to include a dedicated entry for ground elder (Aegopodium podagraria)
     in the Handbook of Medicinal Herbs, Second Edition.
+  severity: info
   reference_ids:
   - REF-0098
   - REF-0168
   - REF-0207
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

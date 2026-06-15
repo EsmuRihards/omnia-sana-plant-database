@@ -1,66 +1,130 @@
+id: cynara-scolymus
+scientific_name: Cynara scolymus
 common_names:
 - Artichoke
 - Globe artichoke
 - Garden artichoke
-scientific_name: Cynara scolymus
 family: Asteraceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
-    reference_ids:
-    - REF-0462
-    - REF-0461
-    status: verified
-  - action: Choleretic - stimulates bile flow to aid fat digestion
-    reference_ids:
-    - REF-0461
-    - REF-0462
-    status: verified
-  - action: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
-    reference_ids:
-    - REF-0461
-    status: verified
-  - action: Lipid-lowering - helps reduce cholesterol (an RCT showed lower total and LDL cholesterol and
-      higher HDL; a Cochrane review judged the overall evidence promising but not yet convincing)
-    reference_ids:
-    - REF-0461
-    - REF-0584
-    - REF-0585
-    status: verified
-  - action: Supports irritable bowel syndrome (IBS) symptoms
-    reference_ids:
-    - REF-0461
-    status: needs-review
+- Leaf
 constituents:
 - name: Caffeoylquinic acids (chlorogenic acid and cynarin)
+  compounds:
+  - chlorogenic-acid
   note: The principal choleretic, hepatoprotective and antioxidant constituents.
   reference_ids:
   - REF-0461
 - name: Flavonoids (luteolin glycosides)
+  compounds:
+  - flavonoid
+  - glycoside
+  - luteolin
   note: Antioxidant constituents of the leaf.
   reference_ids:
   - REF-0461
 - name: Sesquiterpene lactones (cynaropicrin)
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
   note: The bitter principle that stimulates digestion.
   reference_ids:
   - REF-0461
+actions:
+- action: choleretic
+  note: Choleretic - stimulates bile flow to aid fat digestion
+  reference_ids:
+  - REF-0461
+  - REF-0462
+  status: verified
+- action: digestive
+  note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
+  reference_ids:
+  - REF-0461
+  - REF-0462
+  status: verified
+- action: hepatoprotective
+  note: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
+  reference_ids:
+  - REF-0461
+  status: verified
+- action: lipid-lowering
+  note: Lipid-lowering - helps reduce cholesterol (an RCT showed lower total and LDL cholesterol and higher
+    HDL; a Cochrane review judged the overall evidence promising but not yet convincing)
+  reference_ids:
+  - REF-0461
+  - REF-0584
+  - REF-0585
+  status: verified
+indications:
+- condition: bloating
+  evidence: 3
+  note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
+  reference_ids:
+  - REF-0461
+  - REF-0462
+  status: verified
+- condition: cardiovascular-support
+  evidence: 2
+  note: inferred from lipid-lowering action
+  reference_ids:
+  - REF-0461
+  - REF-0584
+  - REF-0585
+  status: needs-review
+- condition: detox
+  evidence: 2
+  note: inferred from hepatoprotective action
+  reference_ids:
+  - REF-0461
+  status: needs-review
+- condition: high-cholesterol
+  evidence: 3
+  note: inferred from lipid-lowering action
+  reference_ids:
+  - REF-0461
+  - REF-0584
+  - REF-0585
+  status: needs-review
+- condition: ibs
+  evidence: 2
+  note: Supports irritable bowel syndrome (IBS) symptoms
+  reference_ids:
+  - REF-0461
+  status: needs-review
+- condition: indigestion
+  evidence: 3
+  note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
+  reference_ids:
+  - REF-0461
+  - REF-0462
+  status: verified
+- condition: liver-support
+  evidence: 3
+  note: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
+  reference_ids:
+  - REF-0461
+  status: verified
 contraindications:
 - note: Because it stimulates bile flow, artichoke is contraindicated in bile-duct obstruction and should
     only be used under medical supervision if you have gallstones.
+  severity: caution
   reference_ids:
   - REF-0462
   status: verified
 - note: As a member of the daisy family (Asteraceae), it can cause allergic reactions in sensitive people;
     use in pregnancy and breastfeeding is not recommended.
+  severity: caution
   reference_ids:
   - REF-0462
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (Plant Foods for Human Nutrition
-  pharmacological review; EMA HMPC monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (indigestion, bloating, liver-support, high-cholesterol, ibs); associations retained and
-  now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced evidence on the lipid action
-  - a Cochrane review of artichoke leaf extract for hypercholesterolaemia (REF-0584; promising but not
-  yet convincing) and a double-blind RCT showing increased HDL and reduced total/LDL cholesterol (REF-0585).
-last_updated: '2026-06-14'
+provenance: website+pubmed+symptom-tool
 status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Plant Foods for Human
+  Nutrition pharmacological review; EMA HMPC monograph). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (indigestion, bloating, liver-support, high-cholesterol, ibs); associations
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced evidence on
+  the lipid action - a Cochrane review of artichoke leaf extract for hypercholesterolaemia (REF-0584;
+  promising but not yet convincing) and a double-blind RCT showing increased HDL and reduced total/LDL
+  cholesterol (REF-0585). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds).'

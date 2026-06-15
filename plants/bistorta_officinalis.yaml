@@ -1,68 +1,163 @@
+id: bistorta-officinalis
+scientific_name: Bistorta officinalis
 common_names:
 - Bistort
 - Common bistort
 - Snakeroot
 - Easter-ledges
 - Adderwort
-scientific_name: Bistorta officinalis
 family: Polygonaceae
 parts_used:
-- name: Rhizome (root) and aerial parts
-  medicinal_actions:
-  - action: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
-    reference_ids:
-    - REF-0410
-    - REF-0411
-    status: verified
-  - action: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
-    reference_ids:
-    - REF-0410
-    - REF-0411
-    status: verified
-  - action: Vulnerary and styptic for minor wounds (topical)
-    reference_ids:
-    - REF-0410
-    - REF-0411
-    status: verified
-  - action: Antibacterial (topical) - GC-MS-characterised extracts showed antibacterial activity
-    reference_ids:
-    - REF-0410
-    - REF-0627
-    status: verified
+- Rhizome (root) and aerial parts
 constituents:
 - name: 'Tannins (15-36% of the rhizome: oligomeric proanthocyanidins, gallotannins, catechins)'
+  compounds:
+  - proanthocyanidin
+  - tannin
+  - catechin
   note: Very high tannin content is the basis of the strong astringency.
   reference_ids:
   - REF-0411
   - REF-0410
 - name: Phenolic acids and flavonoids
+  compounds:
+  - phenolic-acid
+  - flavonoid
   note: Contribute to antioxidant and antibacterial activity.
   reference_ids:
   - REF-0410
 - name: Starch and oxalic acid
+  compounds:
+  - starch
   note: Other rhizome constituents.
   reference_ids:
   - REF-0411
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+- action: antidiarrheal
+  note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+- action: antimicrobial
+  note: Antibacterial (topical) - GC-MS-characterised extracts showed antibacterial activity
+  reference_ids:
+  - REF-0410
+  - REF-0627
+  status: verified
+- action: astringent
+  note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+- action: styptic
+  note: Vulnerary and styptic for minor wounds (topical)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+- action: vulnerary
+  note: Vulnerary and styptic for minor wounds (topical)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: needs-review
+- condition: diarrhea
+  evidence: 3
+  note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+- condition: heavy-bleeding
+  evidence: 2
+  note: inferred from styptic action
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0410
+  - REF-0627
+  status: needs-review
+- condition: inflammation
+  evidence: 3
+  note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+- condition: wounds
+  evidence: 3
+  note: Vulnerary and styptic for minor wounds (topical)
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
 contraindications:
 - note: 'Very tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
     the absorption of iron and some medicines taken at the same time.'
+  severity: info
   reference_ids:
   - REF-0411
   status: verified
 - note: Traditional use only; diarrhoea persisting beyond a few days, or mouth/throat inflammation that
     does not settle, needs medical assessment.
+  severity: info
   reference_ids:
   - REF-0411
   status: verified
 - note: Safety in pregnancy and breastfeeding is not established; avoid medicinal doses.
+  severity: caution
   reference_ids:
   - REF-0411
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific and general literature (Journal of Ethnopharmacology
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Journal of Ethnopharmacology
   activity study; WebMD monograph). Bistorta officinalis = Persicaria bistorta = Polygonum bistorta. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, wounds);
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
   GC-MS study of Persicaria bistorta that characterised its constituents and confirmed antibacterial activity
-  (REF-0627).
-last_updated: '2026-06-14'
-status: verified
+  (REF-0627). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

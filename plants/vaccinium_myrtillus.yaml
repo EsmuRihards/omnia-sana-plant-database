@@ -1,39 +1,25 @@
+id: vaccinium-myrtillus
+scientific_name: Vaccinium myrtillus
 common_names:
 - Bilberry
 - European blueberry
 - Whortleberry
 - Huckleberry
-scientific_name: Vaccinium myrtillus
 family: Ericaceae
 parts_used:
-- name: Fruit (berry)
-  medicinal_actions:
-  - action: 'Traditional support for eye strain and vision (note: rigorous trials do NOT support improved
-      night vision in healthy eyes)'
-    reference_ids:
-    - REF-0408
-    status: verified
-  - action: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic
-      venous insufficiency)
-    reference_ids:
-    - REF-0409
-    status: needs-review
-  - action: Antioxidant and anti-inflammatory
-    reference_ids:
-    - REF-0409
-    status: verified
-  - action: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
-    reference_ids:
-    - REF-0409
-    - REF-0594
-    status: verified
+- Fruit (berry)
 constituents:
 - name: Anthocyanins (anthocyanosides)
+  compounds:
+  - anthocyanin
   note: The deep blue-purple pigments; the principal antioxidant constituents.
   reference_ids:
   - REF-0409
   - REF-0408
 - name: Other flavonoids and tannins
+  compounds:
+  - flavonoid
+  - tannin
   note: Contribute to antioxidant and astringent activity.
   reference_ids:
   - REF-0409
@@ -41,26 +27,108 @@ constituents:
   note: Minor nutritive constituents of the berry.
   reference_ids:
   - REF-0409
+actions:
+- action: anti-inflammatory
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0409
+  status: verified
+- action: antioxidant
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0409
+  status: verified
+- action: venotonic
+  note: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous
+    insufficiency)
+  reference_ids:
+  - REF-0409
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0409
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  note: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
+  reference_ids:
+  - REF-0409
+  - REF-0594
+  status: verified
+- condition: eye-strain
+  evidence: 2
+  note: 'Traditional support for eye strain and vision (note: rigorous trials do NOT support improved
+    night vision in healthy eyes)'
+  reference_ids:
+  - REF-0408
+  status: verified
+- condition: hemorrhoids
+  evidence: 2
+  note: inferred from venotonic action
+  reference_ids:
+  - REF-0409
+  status: needs-review
+- condition: high-cholesterol
+  evidence: 3
+  note: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
+  reference_ids:
+  - REF-0409
+  - REF-0594
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0409
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0409
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: inferred from venotonic action
+  reference_ids:
+  - REF-0409
+  status: needs-review
+- condition: varicose-veins
+  evidence: 2
+  note: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous
+    insufficiency)
+  reference_ids:
+  - REF-0409
+  status: needs-review
 contraindications:
 - note: The berry is a food and generally very safe; long-term safety of concentrated high-dose extracts
     is less well characterised.
+  severity: info
   reference_ids:
   - REF-0409
   status: verified
 - note: May lower blood sugar and has mild antiplatelet potential, so use cautiously alongside antidiabetic
     or anticoagulant/antiplatelet medication.
+  severity: caution
   reference_ids:
   - REF-0409
   status: verified
 - note: Claims that bilberry improves night vision in people with normal sight are not supported by rigorous
     clinical trials.
+  severity: info
   reference_ids:
   - REF-0408
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Survey of Ophthalmology systematic review;
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Survey of Ophthalmology systematic review;
   Molecules review of metabolic/cardiovascular effects). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (eye-strain, varicose-veins, high-cholesterol, inflammation); associations
-  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced review of bilberry
-  anthocyanins in the prevention and treatment of dyslipidemia (REF-0594), supporting the blood-lipid action.
-last_updated: '2026-06-14'
-status: verified
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced review of
+  bilberry anthocyanins in the prevention and treatment of dyslipidemia (REF-0594), supporting the blood-lipid
+  action. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

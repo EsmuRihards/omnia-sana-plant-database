@@ -1,3 +1,5 @@
+id: taraxacum-officinale
+scientific_name: Taraxacum officinale
 common_names:
 - Dandelion
 - Common dandelion
@@ -9,143 +11,278 @@ common_names:
 - Wet-the-bed
 - Irish daisy
 - Monk's head
-scientific_name: Taraxacum officinale
 family: Asteraceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Diuretic (potassium-sparing)
-    reference_ids:
-    - REF-0321
-    - REF-0326
-    - REF-0338
-    status: verified
-  - action: Bitter digestive tonic
-    reference_ids:
-    - REF-0326
-    - REF-0328
-    status: verified
-  - action: Choleretic (stimulates bile flow)
-    reference_ids:
-    - REF-0326
-    - REF-0338
-    status: verified
-  - action: Edible bitter spring green (traditional food use)
-    reference_ids:
-    - REF-0323
-    - REF-0325
-    - REF-0336
-    - REF-0335
-    - REF-0337
-    - REF-0320
-    status: verified
-- name: Root
-  medicinal_actions:
-  - action: Hepatic (liver) support
-    reference_ids:
-    - REF-0326
-    - REF-0338
-    - REF-0329
-    status: verified
-  - action: Choleretic (stimulates bile flow)
-    reference_ids:
-    - REF-0326
-    - REF-0338
-    status: verified
-  - action: Prebiotic (inulin-rich, especially autumn root)
-    reference_ids:
-    - REF-0329
-    - REF-0326
-    status: verified
-  - action: Mild laxative
-    reference_ids:
-    - REF-0328
-    - REF-0326
-    status: verified
-  - action: Roasted-root coffee substitute (traditional preparation)
-    reference_ids:
-    - REF-0322
-    - REF-0330
-    - REF-0334
-    - REF-0327
-    status: verified
-- name: Flower
-  medicinal_actions:
-  - action: Traditional preparation into wines and syrups
-    reference_ids:
-    - REF-0322
-    - REF-0331
-    - REF-0334
-    - REF-0324
-    status: verified
-- name: Whole plant
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0333
-    - REF-0326
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0333
-    - REF-0329
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0333
-    status: verified
+- Leaf
+- Root
+- Flower
+- Whole plant
 constituents:
 - name: Sesquiterpene lactones
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
   note: Bitter principles (e.g. taraxacin) responsible for the characteristic bitterness and bitter-tonic
     action.
   reference_ids:
   - REF-0326
   - REF-0338
 - name: Triterpenes and plant sterols
+  compounds:
+  - terpene
+  - phytosterol
   note: Including taraxasterol; contribute to anti-inflammatory and hepatoprotective signals.
   reference_ids:
   - REF-0326
   - REF-0333
 - name: Phenolic acids and flavonoids
+  compounds:
+  - phenolic-acid
+  - flavonoid
+  - luteolin
   note: Antioxidant constituents (e.g. chicoric acid, luteolin derivatives).
   reference_ids:
   - REF-0329
   - REF-0333
 - name: Inulin
+  compounds:
+  - polysaccharide
+  - inulin
   note: Fructan storage carbohydrate; prebiotic fibre concentrated in the autumn root.
   reference_ids:
   - REF-0329
   - REF-0326
+actions:
+- action: anti-inflammatory
+  parts:
+  - Whole plant
+  reference_ids:
+  - REF-0326
+  - REF-0333
+  status: verified
+- action: antimicrobial
+  parts:
+  - Whole plant
+  reference_ids:
+  - REF-0333
+  status: verified
+- action: antioxidant
+  parts:
+  - Whole plant
+  reference_ids:
+  - REF-0329
+  - REF-0333
+  status: verified
+- action: bitter-tonic
+  parts:
+  - Leaf
+  reference_ids:
+  - REF-0326
+  - REF-0328
+  status: verified
+- action: choleretic
+  parts:
+  - Leaf
+  - Root
+  note: Choleretic (stimulates bile flow)
+  reference_ids:
+  - REF-0326
+  - REF-0338
+  status: verified
+- action: digestive
+  parts:
+  - Leaf
+  reference_ids:
+  - REF-0326
+  - REF-0328
+  status: verified
+- action: diuretic
+  parts:
+  - Leaf
+  note: Diuretic (potassium-sparing)
+  reference_ids:
+  - REF-0321
+  - REF-0326
+  - REF-0338
+  status: verified
+- action: hepatoprotective
+  parts:
+  - Root
+  note: Hepatic (liver) support
+  reference_ids:
+  - REF-0326
+  - REF-0329
+  - REF-0338
+  status: verified
+- action: laxative
+  parts:
+  - Root
+  reference_ids:
+  - REF-0326
+  - REF-0328
+  status: verified
+- action: prebiotic
+  parts:
+  - Root
+  note: Prebiotic (inulin-rich, especially autumn root)
+  reference_ids:
+  - REF-0326
+  - REF-0329
+  status: verified
+indications:
+- condition: appetite-loss
+  evidence: 2
+  note: inferred from bitter-tonic action
+  reference_ids:
+  - REF-0326
+  - REF-0328
+  status: needs-review
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0326
+  - REF-0333
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0326
+  - REF-0328
+  status: needs-review
+- condition: constipation
+  evidence: 2
+  note: inferred from laxative action
+  reference_ids:
+  - REF-0326
+  - REF-0328
+  status: needs-review
+- condition: detox
+  evidence: 2
+  note: inferred from hepatoprotective action
+  reference_ids:
+  - REF-0326
+  - REF-0329
+  - REF-0338
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from bitter-tonic action
+  reference_ids:
+  - REF-0326
+  - REF-0328
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0333
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0326
+  - REF-0333
+  status: needs-review
+- condition: liver-support
+  evidence: 2
+  note: inferred from choleretic action
+  reference_ids:
+  - REF-0326
+  - REF-0338
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0326
+  - REF-0333
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0321
+  - REF-0326
+  - REF-0338
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0321
+  - REF-0326
+  - REF-0338
+  status: needs-review
+- condition: uti
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0321
+  - REF-0326
+  - REF-0338
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0333
+  status: needs-review
 contraindications:
 - note: Allergy risk in individuals sensitive to Asteraceae (daisy family) plants such as ragweed and
     chamomile.
+  severity: info
   reference_ids:
   - REF-0328
   - REF-0332
   status: verified
 - note: Avoid medicinal use in anyone with a blocked bile duct or gallstones; use caution with gallbladder
     or serious liver disease.
+  severity: caution
   reference_ids:
   - REF-0328
   status: verified
 - note: May potentiate prescription diuretics; possible interactions with lithium and drugs metabolised
     by the liver.
+  severity: caution
   reference_ids:
   - REF-0332
   - REF-0328
   status: verified
 - note: Can accumulate soil pollutants and heavy metals; harvest from clean, unpolluted sites.
+  severity: info
   reference_ids:
   - REF-0338
   - REF-0328
   status: verified
 - note: Use during pregnancy or breastfeeding should be guided by a qualified practitioner. Herbal use
     should support, not replace, conventional medical care.
+  severity: caution
   reference_ids:
   - REF-0328
   status: verified
-internal_notes: Worked example. Curated from the omniasana.bio Materia Medica post (https://omniasana.bio/dandelion-taraxacum-officinale/).
-  Unlike the bulk book-ingested records, actions are mapped to specific parts and references per the source
-  post. The Kew Plants of the World Online entry is shared with the book ingestion (REF-0248).
-last_updated: '2026-06-12'
+references:
+- REF-0248
+- REF-0320
+- REF-0322
+- REF-0323
+- REF-0324
+- REF-0325
+- REF-0327
+- REF-0330
+- REF-0331
+- REF-0334
+- REF-0335
+- REF-0336
+- REF-0337
+provenance: website
 status: verified
+last_updated: '2026-06-12'
+internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica post (https://omniasana.bio/dandelion-taraxacum-officinale/).
+  Unlike the bulk book-ingested records, actions are mapped to specific parts and references per the source
+  post. The Kew Plants of the World Online entry is shared with the book ingestion (REF-0248). | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
+  Unmapped uses kept for reference: Edible bitter spring green (traditional food use) | Roasted-root coffee
+  substitute (traditional preparation) | Traditional preparation into wines and syrups.'

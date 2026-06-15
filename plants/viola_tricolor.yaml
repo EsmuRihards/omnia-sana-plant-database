@@ -1,33 +1,13 @@
+id: viola-tricolor
+scientific_name: Viola tricolor
 common_names:
 - Heartsease
 - Wild pansy
 - Johnny-jump-up
 - Love-in-idleness
-scientific_name: Viola tricolor
 family: Violaceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
-      and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
-      suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro
-    reference_ids:
-    - REF-0463
-    - REF-0617
-    status: verified
-  - action: Soothes irritated skin (demulcent and anti-inflammatory)
-    reference_ids:
-    - REF-0463
-    status: verified
-  - action: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
-    reference_ids:
-    - REF-0463
-    status: needs-review
-  - action: Cytotoxic / antiproliferative against cancer cell lines in vitro (cyclotides vitri A, varv
-      A and varv E)
-    reference_ids:
-    - REF-0556
-    status: needs-review
+- Aerial parts (flowering herb)
 constituents:
 - name: Cyclotides (cyclic plant peptides)
   note: Bioactive cyclic peptides shown to suppress over-active immune (T-cell) responses - the rationale
@@ -39,26 +19,151 @@ constituents:
   - REF-0556
   - REF-0617
 - name: Flavonoids (rutin, violanthin), salicylates and mucilage
+  compounds:
+  - flavonoid
+  - mucilage
+  - rutin
   note: Antioxidant, anti-inflammatory and soothing constituents.
   reference_ids:
   - REF-0463
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
+    and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
+    suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro; Soothes irritated
+    skin (demulcent and anti-inflammatory)
+  reference_ids:
+  - REF-0463
+  - REF-0617
+  status: verified
+- action: anticancer
+  note: Cytotoxic / antiproliferative against cancer cell lines in vitro (cyclotides vitri A, varv A and
+    varv E)
+  reference_ids:
+  - REF-0556
+  status: needs-review
+- action: demulcent
+  note: Soothes irritated skin (demulcent and anti-inflammatory); Traditional demulcent / expectorant
+    for cough, bronchitis and chest inflammation
+  reference_ids:
+  - REF-0463
+  status: needs-review
+- action: emollient
+  note: Soothes irritated skin (demulcent and anti-inflammatory)
+  reference_ids:
+  - REF-0463
+  status: verified
+- action: expectorant
+  note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
+  reference_ids:
+  - REF-0463
+  status: needs-review
+- action: immunomodulator
+  note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
+    and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
+    suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro
+  reference_ids:
+  - REF-0463
+  - REF-0617
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0463
+  - REF-0617
+  status: needs-review
+- condition: bronchitis
+  evidence: 2
+  note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
+  reference_ids:
+  - REF-0463
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0463
+  - REF-0617
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
+  reference_ids:
+  - REF-0463
+  status: needs-review
+- condition: eczema
+  evidence: 2
+  note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
+    and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
+    suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro
+  reference_ids:
+  - REF-0463
+  - REF-0617
+  status: verified
+- condition: immune-support
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0463
+  - REF-0617
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
+  reference_ids:
+  - REF-0463
+  status: needs-review
+- condition: psoriasis
+  evidence: 2
+  note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
+    and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
+    suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro
+  reference_ids:
+  - REF-0463
+  - REF-0617
+  status: verified
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0463
+  status: needs-review
+- condition: skin-irritation
+  evidence: 3
+  note: Soothes irritated skin (demulcent and anti-inflammatory)
+  reference_ids:
+  - REF-0463
+  status: verified
+- condition: sore-throat
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0463
+  status: needs-review
 contraindications:
 - note: Regarded as safe in customary traditional use; because the extract suppresses immune-cell activity,
     there is a theoretical caution when taking immunosuppressant medicines.
+  severity: caution
   reference_ids:
   - REF-0463
   status: verified
 - note: Contains salicylates, so use caution if you are salicylate-sensitive; safety in pregnancy and
     breastfeeding is not established.
+  severity: caution
   reference_ids:
   - REF-0463
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology study identifying
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology study identifying
   immunosuppressive cyclotides). Further enriched 2026-06-13 with a PubMed study isolating cytotoxic cyclotides
   (vitri A, varv A, varv E) from V. tricolor (REF-0556, Svangard et al. 2004); a new in-vitro cytotoxic
   action was added. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (eczema, skin-irritation, cough); associations retained and now part-mapped and cited. Further enriched
-  2026-06-14 with a PubMed-sourced study of cyclotide-enriched V. tricolor preparations that suppress T-cell
-  proliferation and macrophage cytokine secretion in vitro (REF-0617), reinforcing the immunomodulatory action.
-last_updated: '2026-06-14'
-status: verified
+  2026-06-14 with a PubMed-sourced study of cyclotide-enriched V. tricolor preparations that suppress
+  T-cell proliferation and macrophage cytokine secretion in vitro (REF-0617), reinforcing the immunomodulatory
+  action. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

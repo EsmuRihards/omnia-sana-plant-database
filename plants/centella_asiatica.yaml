@@ -1,72 +1,202 @@
+id: centella-asiatica
+scientific_name: Centella asiatica
 common_names:
 - Gotu Kola
 - Indian pennywort
 - Brahmi
 - Asiatic pennywort
-scientific_name: Centella asiatica
 family: Apiaceae
 parts_used:
-- name: Aerial parts (leaf and herb)
-  medicinal_actions:
-  - action: Wound healing and scar/collagen support (stimulates collagen synthesis and tissue repair)
-    reference_ids:
-    - REF-0457
-    - REF-0458
-    status: verified
-  - action: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose
-      veins and reduces leg swelling
-    reference_ids:
-    - REF-0458
-    - REF-0569
-    - REF-0570
-    status: verified
-  - action: Cognitive and memory support; neuroprotective
-    reference_ids:
-    - REF-0457
-    status: verified
-  - action: Improves alertness and mood (raises alertness, reduces anger); a meta-analysis found no significant
-      improvement in specific cognitive-function domains versus placebo
-    reference_ids:
-    - REF-0568
-    status: needs-review
-  - action: Anxiolytic / calming (anxiety)
-    reference_ids:
-    - REF-0457
-    status: verified
-  - action: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis,
-      ulcers)
-    reference_ids:
-    - REF-0457
-    - REF-0458
-    status: verified
+- Aerial parts (leaf and herb)
 constituents:
 - name: Pentacyclic triterpenoid glycosides (asiaticoside, madecassoside) and their aglycones (asiatic
     and madecassic acid)
+  compounds:
+  - glycoside
   note: The marker compounds and principal actives for wound healing, vascular and neuroprotective effects.
   reference_ids:
   - REF-0457
 - name: Flavonoids and essential oil
+  compounds:
+  - essential-oil
+  - flavonoid
   note: Antioxidant and aromatic supporting constituents.
   reference_ids:
   - REF-0457
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: verified
+- action: anti-oedematous
+  note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
+    and reduces leg swelling
+  reference_ids:
+  - REF-0458
+  - REF-0569
+  - REF-0570
+  status: verified
+- action: antioxidant
+  note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: verified
+- action: anxiolytic
+  note: Anxiolytic / calming (anxiety)
+  reference_ids:
+  - REF-0457
+  status: verified
+- action: neuroprotective
+  note: Cognitive and memory support; neuroprotective
+  reference_ids:
+  - REF-0457
+  status: verified
+- action: venotonic
+  note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
+    and reduces leg swelling
+  reference_ids:
+  - REF-0458
+  - REF-0569
+  - REF-0570
+  status: verified
+- action: vulnerary
+  note: Wound healing and scar/collagen support (stimulates collagen synthesis and tissue repair)
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: verified
+indications:
+- condition: anxiety
+  evidence: 3
+  note: Anxiolytic / calming (anxiety)
+  reference_ids:
+  - REF-0457
+  status: verified
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: needs-review
+- condition: cognitive-function
+  evidence: 2
+  note: Improves alertness and mood (raises alertness, reduces anger); a meta-analysis found no significant
+    improvement in specific cognitive-function domains versus placebo
+  reference_ids:
+  - REF-0568
+  status: needs-review
+- condition: eczema
+  evidence: 3
+  note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: verified
+- condition: hemorrhoids
+  evidence: 2
+  note: inferred from venotonic action
+  reference_ids:
+  - REF-0458
+  - REF-0569
+  - REF-0570
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: needs-review
+- condition: memory
+  evidence: 3
+  note: Cognitive and memory support; neuroprotective
+  reference_ids:
+  - REF-0457
+  status: verified
+- condition: nervous-tension
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0457
+  status: needs-review
+- condition: psoriasis
+  evidence: 3
+  note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: needs-review
+- condition: stress
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0457
+  status: needs-review
+- condition: swelling
+  evidence: 3
+  note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
+    and reduces leg swelling
+  reference_ids:
+  - REF-0458
+  - REF-0569
+  - REF-0570
+  status: verified
+- condition: varicose-veins
+  evidence: 3
+  note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
+    and reduces leg swelling
+  reference_ids:
+  - REF-0458
+  - REF-0569
+  - REF-0570
+  status: verified
+- condition: wounds
+  evidence: 3
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0457
+  - REF-0458
+  status: needs-review
 contraindications:
 - note: Generally well tolerated topically and orally; it can occasionally cause allergic contact dermatitis
     and, rarely, reversible elevation of liver enzymes with prolonged high oral doses.
+  severity: info
   reference_ids:
   - REF-0457
   status: verified
 - note: May add to the effect of sedatives; use caution with other liver-affecting medicines. Safety in
     pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  severity: caution
   reference_ids:
   - REF-0457
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside;
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside;
   Panminerva Medica status paper on titrated Centella extract). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (wounds, anxiety, memory, varicose-veins, cognitive-function);
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced
-  reviews - a chronic-venous-insufficiency systematic review (REF-0569) and the Cochrane phlebotonics review
-  that includes Centella among agents reducing leg oedema (REF-0570) support the venous action, while a
-  cognition/mood meta-analysis (REF-0568) found improved alertness and reduced anger but no significant
-  cognitive-domain benefit (added as a needs-review qualifier).
-last_updated: '2026-06-14'
-status: verified
+  reviews - a chronic-venous-insufficiency systematic review (REF-0569) and the Cochrane phlebotonics
+  review that includes Centella among agents reducing leg oedema (REF-0570) support the venous action,
+  while a cognition/mood meta-analysis (REF-0568) found improved alertness and reduced anger but no significant
+  cognitive-domain benefit (added as a needs-review qualifier). | 2026-06-15: migrated to entity schema
+  (actions->vocab ids, indications split out, constituents linked to compounds).'

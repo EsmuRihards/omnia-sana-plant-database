@@ -1,54 +1,125 @@
+id: potentilla-erecta
+scientific_name: Potentilla erecta
 common_names:
 - Tormentil
 - Common tormentil
 - Septfoil
 - Bloodroot
-scientific_name: Potentilla erecta
 family: Rosaceae
 parts_used:
-- name: Rhizome
-  medicinal_actions:
-  - action: Astringent for mild diarrhoea (ellagitannins tighten the gut lining) - in a paediatric RCT,
-      tormentil root extract shortened rotavirus diarrhoea (3 vs 5 days) and reduced rehydration needs
-    reference_ids:
-    - REF-0520
-    - REF-0521
-    - REF-0602
-    status: verified
-  - action: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
-    reference_ids:
-    - REF-0520
-    - REF-0521
-    status: verified
-  - action: Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)
-    reference_ids:
-    - REF-0521
-    status: needs-review
+- Rhizome
 constituents:
 - name: Tannins (ellagitannins such as agrimoniin, and catechin-type tannins)
+  compounds:
+  - tannin
+  - catechin
   note: The main astringent active constituents.
   reference_ids:
   - REF-0520
   - REF-0521
 - name: Flavonoids and phenolic acids
+  compounds:
+  - phenolic-acid
+  - flavonoid
   note: Antioxidant supporting constituents.
   reference_ids:
   - REF-0521
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  status: verified
+- action: antidiarrheal
+  note: Astringent for mild diarrhoea (ellagitannins tighten the gut lining) - in a paediatric RCT, tormentil
+    root extract shortened rotavirus diarrhoea (3 vs 5 days) and reduced rehydration needs
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  - REF-0602
+  status: verified
+- action: astringent
+  note: Astringent for mild diarrhoea (ellagitannins tighten the gut lining) - in a paediatric RCT, tormentil
+    root extract shortened rotavirus diarrhoea (3 vs 5 days) and reduced rehydration needs
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  - REF-0602
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  status: needs-review
+- condition: diarrhea
+  evidence: 4
+  note: Astringent for mild diarrhoea (ellagitannins tighten the gut lining) - in a paediatric RCT, tormentil
+    root extract shortened rotavirus diarrhoea (3 vs 5 days) and reduced rehydration needs
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  - REF-0602
+  status: verified
+- condition: ibd
+  evidence: 2
+  note: Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)
+  reference_ids:
+  - REF-0521
+  status: needs-review
+- condition: inflammation
+  evidence: 3
+  note: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  - REF-0602
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  note: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0520
+  - REF-0521
+  - REF-0602
+  status: needs-review
 contraindications:
 - note: 'Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
     the absorption of iron and some medicines taken at the same time.'
+  severity: info
   reference_ids:
   - REF-0520
   status: verified
 - note: Diarrhoea persisting more than 3-4 days, or with fever or blood in the stool, needs medical care.
     Use in pregnancy and breastfeeding is not recommended in the absence of data.
+  severity: caution
   reference_ids:
   - REF-0520
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs
   for Tormentillae rhizoma). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (diarrhea, sore-throat, ibd); associations retained and now part-mapped and cited. Further enriched
   2026-06-14 with a PubMed-sourced randomized, double-blind, placebo-controlled paediatric trial showing
   tormentil root extract shortened rotavirus diarrhoea and lowered rehydration requirements (REF-0602).
-last_updated: '2026-06-14'
-status: verified
+  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

@@ -1,68 +1,165 @@
+id: petroselinum-crispum
+scientific_name: Petroselinum crispum
 common_names:
 - Parsley
 - Garden parsley
 - Curly parsley
-scientific_name: Petroselinum crispum
 family: Apiaceae
 parts_used:
-- name: Leaf, root and seed
-  medicinal_actions:
-  - action: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
-      used for urinary stones); animal studies attribute the effect to inhibition of the renal Na+/K+
-      pump, raising urine flow
-    reference_ids:
-    - REF-0489
-    - REF-0545
-    - REF-0546
-    status: verified
-  - action: Carminative digestive and stomach tonic (bloating, indigestion)
-    reference_ids:
-    - REF-0489
-    status: verified
-  - action: Breath freshener (chlorophyll-rich; traditional for bad breath)
-    reference_ids:
-    - REF-0489
-    status: needs-review
-  - action: Antioxidant, nephroprotective and hepatoprotective
-    reference_ids:
-    - REF-0489
-    - REF-0546
-    status: verified
+- Leaf, root and seed
 constituents:
 - name: Flavonoids (apigenin) and other phenolics
+  compounds:
+  - flavonoid
+  - phenolic-compound
+  - apigenin
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0489
   - REF-0546
 - name: Essential oil (apiole and myristicin)
+  compounds:
+  - essential-oil
   note: Aromatic constituents that drive the diuretic action but are toxic in large amounts.
   reference_ids:
   - REF-0489
 - name: Furanocoumarins (bergapten, imperatorin)
+  compounds:
+  - coumarin
   note: Photosensitising constituents; the basis for the mild phototoxicity caution.
   reference_ids:
   - REF-0546
 - name: Vitamin C and carotenoids
+  compounds:
+  - carotenoid
   note: Nutritive antioxidant constituents.
   reference_ids:
   - REF-0489
+actions:
+- action: antioxidant
+  note: Antioxidant, nephroprotective and hepatoprotective
+  reference_ids:
+  - REF-0489
+  - REF-0546
+  status: verified
+- action: carminative
+  note: Carminative digestive and stomach tonic (bloating, indigestion)
+  reference_ids:
+  - REF-0489
+  status: verified
+- action: digestive
+  note: Carminative digestive and stomach tonic (bloating, indigestion)
+  reference_ids:
+  - REF-0489
+  status: verified
+- action: diuretic
+  note: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
+    used for urinary stones); animal studies attribute the effect to inhibition of the renal Na+/K+ pump,
+    raising urine flow
+  reference_ids:
+  - REF-0489
+  - REF-0545
+  - REF-0546
+  status: verified
+- action: hepatoprotective
+  note: Antioxidant, nephroprotective and hepatoprotective
+  reference_ids:
+  - REF-0489
+  - REF-0546
+  status: verified
+- action: nephroprotective
+  note: Antioxidant, nephroprotective and hepatoprotective
+  reference_ids:
+  - REF-0489
+  - REF-0546
+  status: verified
+indications:
+- condition: bad-breath
+  evidence: 2
+  note: Breath freshener (chlorophyll-rich; traditional for bad breath)
+  reference_ids:
+  - REF-0489
+  status: needs-review
+- condition: bloating
+  evidence: 3
+  note: Carminative digestive and stomach tonic (bloating, indigestion)
+  reference_ids:
+  - REF-0489
+  status: verified
+- condition: detox
+  evidence: 2
+  note: inferred from hepatoprotective action
+  reference_ids:
+  - REF-0489
+  - REF-0546
+  status: needs-review
+- condition: indigestion
+  evidence: 3
+  note: Carminative digestive and stomach tonic (bloating, indigestion)
+  reference_ids:
+  - REF-0489
+  status: verified
+- condition: kidney-support
+  evidence: 2
+  note: inferred from nephroprotective action
+  reference_ids:
+  - REF-0489
+  - REF-0546
+  status: needs-review
+- condition: liver-support
+  evidence: 2
+  note: inferred from hepatoprotective action
+  reference_ids:
+  - REF-0489
+  - REF-0546
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
+    used for urinary stones); animal studies attribute the effect to inhibition of the renal Na+/K+ pump,
+    raising urine flow
+  reference_ids:
+  - REF-0489
+  - REF-0545
+  - REF-0546
+  status: verified
+- condition: urinary-support
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0489
+  - REF-0545
+  - REF-0546
+  status: needs-review
+- condition: uti
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0489
+  - REF-0545
+  - REF-0546
+  status: needs-review
 contraindications:
 - note: Culinary amounts are safe, but medicinal/seed doses and the essential oil (apiole, myristicin)
     can be toxic and stimulate the uterus - AVOID medicinal doses of parsley in pregnancy.
+  severity: caution
   reference_ids:
   - REF-0489
   status: verified
 - note: Its diuretic action means caution alongside diuretic medicines; the furanocoumarins can cause
     mild photosensitivity, and concentrated use should be avoided in active kidney disease.
+  severity: caution
   reference_ids:
   - REF-0489
   - REF-0546
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley).
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-13'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley).
   Further enriched 2026-06-13 with two PubMed studies - a diuretic mechanism-of-action study (REF-0545,
   Kreydiyyeh & Usta 2002) and a constituents/medicinal review (REF-0546, Mahmood et al. 2014); a furanocoumarins
   constituent was added. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (swelling, kidney-support, bloating, bad-breath); associations retained and now part-mapped and
-  cited.
-last_updated: '2026-06-13'
-status: verified
+  cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

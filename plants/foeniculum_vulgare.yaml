@@ -1,44 +1,38 @@
+id: foeniculum-vulgare
+scientific_name: Foeniculum vulgare
 common_names:
 - Fennel
 - Common Fennel
 - Florence Fennel
-scientific_name: Foeniculum vulgare
 family: Apiaceae
 parts_used:
-- name: Leaf / Root / Seed
-  medicinal_actions:
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0119
-    - REF-0537
-    status: verified
-  - action: Antispasmodic (cramp easing)
-    reference_ids:
-    - REF-0119
-    - REF-0537
-    status: verified
-  - action: Expectorant
-    reference_ids:
-    - REF-0119
-    - REF-0537
-    status: verified
-  - action: Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces
-      pain intensity versus placebo, comparable to mefenamic acid
-    reference_ids:
-    - REF-0604
-    - REF-0605
-    status: verified
+- Leaf
+- Root
+- Seed
 constituents:
 - name: Essential oil (mainly trans-anethole, with fenchone and estragole/methyl chavicol)
+  compounds:
+  - essential-oil
   note: The aromatic volatile oil of the seed; trans-anethole is the principal component and is associated
     with the antispasmodic, carminative and estrogen-like activity.
   reference_ids:
   - REF-0537
 - name: Flavonoids (quercetin, rutin and kaempferol glycosides)
+  compounds:
+  - flavonoid
+  - glycoside
+  - kaempferol
+  - quercetin
+  - rutin
   note: Antioxidant polyphenolic constituents.
   reference_ids:
   - REF-0537
 - name: Phenolic acids (chlorogenic, caffeic and rosmarinic acids)
+  compounds:
+  - rosmarinic-acid
+  - phenolic-acid
+  - chlorogenic-acid
+  - caffeic-acid
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0537
@@ -46,11 +40,88 @@ constituents:
   note: Major constituents of the fruit/seed oil.
   reference_ids:
   - REF-0537
+actions:
+- action: antimicrobial
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic (cramp easing)
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: verified
+- action: expectorant
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: verified
+indications:
+- condition: bronchitis
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 4
+  note: Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces pain
+    intensity versus placebo, comparable to mefenamic acid
+  reference_ids:
+  - REF-0604
+  - REF-0605
+  status: verified
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: needs-review
+- condition: pain
+  evidence: 4
+  note: Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces pain
+    intensity versus placebo, comparable to mefenamic acid
+  reference_ids:
+  - REF-0604
+  - REF-0605
+  status: verified
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0119
+  - REF-0537
+  status: needs-review
 contraindications:
 - note: 'When taken by mouth: Fennel is commonly consumed in foods. It is possibly safe when used as medicine
     at appropriate doses for a short period of time. There isn''t enough reliable information to know
     whether fennel is safe when used long-term. Although rare, side effects might include stomach upset
     and seizures.'
+  severity: info
   reference_ids:
   - REF-0119
   status: verified
@@ -60,42 +131,50 @@ contraindications:
     as medicine at appropriate doses for a short period of time. There isn''t enough reliable information
     to know whether fennel is safe when used long-term. Although rare, side effects might include stomach
     upset and seizures.'
+  severity: caution
   reference_ids:
   - REF-0119
   status: verified
 - note: 'When applied to the skin: Fennel is possibly safe. Fennel can make skin extra sensitive to the
     sun and make it easier to get a sunburn. Wear sunblock if you are light-skinned.'
+  severity: info
   reference_ids:
   - REF-0119
   status: verified
 - note: 'Pregnancy: Fennel is possibly unsafe to use when pregnant. Regularly using fennel has been linked
     to preterm birth.'
+  severity: caution
   reference_ids:
   - REF-0119
   status: verified
 - note: 'Breast-feeding: Fennel is possibly unsafe. There are some reports of breast-feeding infants with
     damage to their nervous systems after they were exposed to herbal tea containing fennel through breastmilk.'
+  severity: info
   reference_ids:
   - REF-0119
   status: verified
 - note: 'Children: Fennel is possibly safe when used at appropriate doses for up to one week in young
     infants with colic.'
+  severity: info
   reference_ids:
   - REF-0119
   status: verified
 - note: 'Allergy to celery, carrot or mugwort: Fennel might cause an allergic reaction in people who are
     sensitive to these plants.'
+  severity: info
   reference_ids:
   - REF-0119
   status: verified
 - note: 'Bleeding disorders: Fennel might slow blood clotting. Taking fennel might increase the risk of
     bleeding or bruising in people with bleeding disorders.'
+  severity: info
   reference_ids:
   - REF-0119
   status: verified
 - note: 'Hormone-sensitive condition such as breast cancer, uterine cancer, ovarian cancer, endometriosis,
     or uterine fibroids: Fennel might act like estrogen. If you have any condition that might be made
     worse by estrogen, do not use fennel. (WebMD, n.d.b)'
+  severity: caution
   reference_ids:
   - REF-0119
   status: verified
@@ -105,9 +184,13 @@ contraindications:
     tract catarrh. Dose: 1.5–7.5 g seed or equivalent daily. Duke cautions that fennel essential oil in
     large amounts may be neurotoxic (estrole content), and prolonged use of concentrated extracts should
     be avoided during pregnancy (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0119
   status: verified
+provenance: book+pubmed
+status: verified
+last_updated: '2026-06-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. Enriched
@@ -115,6 +198,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (essential oil/trans-anethole, flavonoids, phenolic acids, fatty acids) and the review cited alongside
   the book for the antimicrobial, antispasmodic and expectorant actions. Further enriched 2026-06-14 with
   two PubMed-sourced meta-analyses of RCTs adding a primary-dysmenorrhoea action (REF-0604, a fennel-specific
-  meta-analysis; REF-0605, a cinnamon/fennel/ginger meta-analysis).'
-last_updated: '2026-06-14'
-status: verified
+  meta-analysis; REF-0605, a cinnamon/fennel/ginger meta-analysis). | 2026-06-15: migrated to entity schema
+  (actions->vocab ids, indications split out, constituents linked to compounds).'

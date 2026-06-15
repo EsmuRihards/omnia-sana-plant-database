@@ -1,31 +1,74 @@
+id: carum-carvi
+scientific_name: Carum carvi
 common_names:
 - Caraway
 - wild caraway
 - meridian fennel
-scientific_name: Carum carvi
 family: Apiaceae
 parts_used:
-- name: Leaf / Root / Seed
-  medicinal_actions:
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0078
-    - REF-0126
-    - REF-0215
-    status: verified
-  - action: Appetite support
-    reference_ids:
-    - REF-0078
-    - REF-0126
-    - REF-0215
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0078
-    - REF-0126
-    - REF-0215
-    status: verified
-constituents: []
+- Leaf
+- Root
+- Seed
+actions:
+- action: antimicrobial
+  reference_ids:
+  - REF-0078
+  - REF-0126
+  - REF-0215
+  status: verified
+- action: appetite-stimulant
+  reference_ids:
+  - REF-0078
+  - REF-0126
+  - REF-0215
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0078
+  - REF-0126
+  - REF-0215
+  status: verified
+indications:
+- condition: appetite-loss
+  evidence: 2
+  note: inferred from appetite-stimulant action
+  reference_ids:
+  - REF-0078
+  - REF-0126
+  - REF-0215
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0078
+  - REF-0126
+  - REF-0215
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0078
+  - REF-0126
+  - REF-0215
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0078
+  - REF-0126
+  - REF-0215
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0078
+  - REF-0126
+  - REF-0215
+  status: needs-review
 contraindications:
 - note: 'Generally very safe as a food spice (normal culinary amounts).Tea (traditional use): The EU herbal
     monograph describes caraway fruit tea for bloating/flatulence and gives a typical adult infusion dose
@@ -38,6 +81,7 @@ contraindications:
     The EU monograph does not recommend medicinal use under 12 due to lack of data. Essential oil caution:
     Caraway essential oil is highly concentrated—don’t self-dose internally; it can irritate and is easy
     to overdo.'
+  severity: caution
   reference_ids:
   - REF-0078
   - REF-0126
@@ -49,14 +93,17 @@ contraindications:
     1.5–6 g of fruit daily, or 3–6 drops of essential oil. The herb is classified as generally safe with
     no known hazards at therapeutic doses, though it should be used cautiously in pregnancy due to mild
     emmenagogue activity (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0078
   - REF-0126
   - REF-0215
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

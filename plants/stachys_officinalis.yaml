@@ -1,67 +1,165 @@
+id: stachys-officinalis
+scientific_name: Stachys officinalis
 common_names:
 - Wood Betony
 - Betony
 - Bishopwort
 - Purple betony
-scientific_name: Stachys officinalis
 family: Lamiaceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Nervine / relaxant for nervous tension and tension headaches (especially headache worsened
-      by anxiety or muscle tension)
-    reference_ids:
-    - REF-0535
-    - REF-0534
-    status: verified
-  - action: Gentle calmative for anxiety
-    reference_ids:
-    - REF-0535
-    status: needs-review
-  - action: Digestive bitter for indigestion, mild stomach upset and bloating
-    reference_ids:
-    - REF-0535
-    status: needs-review
-  - action: Anti-inflammatory and antispasmodic
-    reference_ids:
-    - REF-0535
-    status: needs-review
-  - action: Antioxidant - among the strongest free-radical scavengers in a comparative study of Lamiaceae
-      herbs
-    reference_ids:
-    - REF-0621
-    status: verified
+- Aerial parts (flowering herb)
 constituents:
 - name: Phenylethanoid and iridoid glycosides (acteoside, harpagide, harpagoside, aucubin, betonyosides)
+  compounds:
+  - iridoid-glycoside
+  - harpagoside
+  - glycoside
+  - verbascoside
   note: Anti-inflammatory and antispasmodic constituents.
   reference_ids:
   - REF-0535
 - name: Alkaloids (stachydrine, betaine)
+  compounds:
+  - alkaloid
   note: Characteristic nitrogen-containing constituents.
   reference_ids:
   - REF-0535
 - name: Phenolic acids (rosmarinic, caffeic, chlorogenic), tannins and volatile oil
+  compounds:
+  - phenolic-acid
+  - essential-oil
+  - chlorogenic-acid
+  - rosmarinic-acid
+  - caffeic-acid
+  - tannin
   note: Antioxidant, astringent and aromatic constituents; methanolic extract of the herb showed strong
     free-radical-scavenging and lipid-peroxidation-inhibiting activity in vitro.
   reference_ids:
   - REF-0535
   - REF-0621
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory and antispasmodic
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- action: antioxidant
+  note: Antioxidant - among the strongest free-radical scavengers in a comparative study of Lamiaceae
+    herbs
+  reference_ids:
+  - REF-0621
+  status: verified
+- action: antispasmodic
+  note: Anti-inflammatory and antispasmodic
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- action: anxiolytic
+  note: Gentle calmative for anxiety; Nervine / relaxant for nervous tension and tension headaches (especially
+    headache worsened by anxiety or muscle tension)
+  reference_ids:
+  - REF-0534
+  - REF-0535
+  status: needs-review
+- action: digestive
+  note: Digestive bitter for indigestion, mild stomach upset and bloating
+  reference_ids:
+  - REF-0535
+  status: needs-review
+indications:
+- condition: anxiety
+  evidence: 3
+  note: Gentle calmative for anxiety; Nervine / relaxant for nervous tension and tension headaches (especially
+    headache worsened by anxiety or muscle tension)
+  reference_ids:
+  - REF-0534
+  - REF-0535
+  status: needs-review
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: Digestive bitter for indigestion, mild stomach upset and bloating
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- condition: headache
+  evidence: 3
+  note: Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by
+    anxiety or muscle tension)
+  reference_ids:
+  - REF-0534
+  - REF-0535
+  status: verified
+- condition: indigestion
+  evidence: 2
+  note: Digestive bitter for indigestion, mild stomach upset and bloating
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- condition: nervous-tension
+  evidence: 3
+  note: Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by
+    anxiety or muscle tension)
+  reference_ids:
+  - REF-0534
+  - REF-0535
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0535
+  status: needs-review
+- condition: stress
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0534
+  - REF-0535
+  status: needs-review
 contraindications:
 - note: Generally well tolerated, with occasional mild nausea the main reported effect.
+  severity: info
   reference_ids:
   - REF-0535
   status: verified
 - note: Traditionally avoided in pregnancy (uterine reputation), and it may lower blood pressure - use
     caution with blood-pressure medicines.
+  severity: caution
   reference_ids:
   - REF-0534
   - REF-0535
   status: needs-review
-internal_notes: Enriched 2026-06-12 from general phytotherapy literature (PeaceHealth and Naturopathic
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (PeaceHealth and Naturopathic
   Herbalist monographs). Stachys officinalis = Betonica officinalis. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (headache, anxiety, nervous-tension, indigestion); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced comparative
   study of Lamiaceae antioxidants in which Stachys officinalis was among the strongest free-radical scavengers
-  (REF-0621), adding an antioxidant action.
-last_updated: '2026-06-14'
-status: verified
+  (REF-0621), adding an antioxidant action. | 2026-06-15: migrated to entity schema (actions->vocab ids,
+  indications split out, constituents linked to compounds).'

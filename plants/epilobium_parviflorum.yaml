@@ -1,63 +1,133 @@
+id: epilobium-parviflorum
+scientific_name: Epilobium parviflorum
 common_names:
 - Bay-leaf willowherb
 - Small-flowered willowherb
 - Hoary willowherb
-scientific_name: Epilobium parviflorum
 family: Onagraceae
 parts_used:
-- name: Aerial parts (herb)
-  medicinal_actions:
-  - action: Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a
-      genus Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical
-      evidence is not yet conclusive
-    reference_ids:
-    - REF-0403
-    - REF-0404
-    - REF-0618
-    status: verified
-  - action: Anti-inflammatory (inhibits COX-1 and COX-2 prostaglandin synthesis)
-    reference_ids:
-    - REF-0403
-    status: verified
-  - action: Antibacterial, including against Escherichia coli (urinary support)
-    reference_ids:
-    - REF-0403
-    status: verified
-  - action: Antioxidant (hydroxyl-radical scavenging)
-    reference_ids:
-    - REF-0403
-    status: verified
+- Aerial parts (herb)
 constituents:
 - name: Macrocyclic ellagitannins (notably oenothein B)
-  note: Characteristic Epilobium polyphenols underlying the anti-inflammatory and prostate activity; a genus
-    review identifies oenothein B as the dominant constituent and likely driver of the antimicrobial, anti-inflammatory,
-    anti-proliferative and antioxidant effects.
+  compounds:
+  - tannin
+  - phenolic-compound
+  note: Characteristic Epilobium polyphenols underlying the anti-inflammatory and prostate activity; a
+    genus review identifies oenothein B as the dominant constituent and likely driver of the antimicrobial,
+    anti-inflammatory, anti-proliferative and antioxidant effects.
   reference_ids:
   - REF-0403
   - REF-0618
 - name: Flavonoids (myricetin and quercetin glycosides)
+  compounds:
+  - flavonoid
+  - glycoside
+  - quercetin
   note: Antioxidant constituents.
   reference_ids:
   - REF-0403
 - name: Plant sterols (beta-sitosterol)
+  compounds:
+  - phytosterol
   note: Sterols associated with benign prostatic hyperplasia support.
   reference_ids:
   - REF-0403
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory (inhibits COX-1 and COX-2 prostaglandin synthesis)
+  reference_ids:
+  - REF-0403
+  status: verified
+- action: antimicrobial
+  note: Antibacterial, including against Escherichia coli (urinary support)
+  reference_ids:
+  - REF-0403
+  status: verified
+- action: antioxidant
+  note: Antioxidant (hydroxyl-radical scavenging)
+  reference_ids:
+  - REF-0403
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0403
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0403
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0403
+  status: needs-review
+- condition: prostate-support
+  evidence: 2
+  note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus
+    Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence
+    is not yet conclusive
+  reference_ids:
+  - REF-0403
+  - REF-0404
+  - REF-0618
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0403
+  status: needs-review
+- condition: urinary-support
+  evidence: 3
+  note: Antibacterial, including against Escherichia coli (urinary support); Supports lower urinary tract
+    symptoms of benign prostatic hyperplasia (prostate support) - a genus Epilobium review notes traditional
+    BPH use attributed mainly to oenothein B, though clinical evidence is not yet conclusive
+  reference_ids:
+  - REF-0403
+  - REF-0404
+  - REF-0618
+  status: verified
+- condition: uti
+  evidence: 2
+  note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (prostate support) - a genus
+    Epilobium review notes traditional BPH use attributed mainly to oenothein B, though clinical evidence
+    is not yet conclusive
+  reference_ids:
+  - REF-0403
+  - REF-0404
+  - REF-0618
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0403
+  status: needs-review
 contraindications:
 - note: Lower urinary tract / prostate symptoms must be medically assessed first to exclude prostate cancer;
     willowherb is a supportive measure, not a substitute for diagnosis and treatment.
+  severity: info
   reference_ids:
   - REF-0404
   status: verified
 - note: Well tolerated over three months in clinical use; longer-term safety data are limited.
+  severity: info
   reference_ids:
   - REF-0404
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity
   study; Complementary Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (prostate-support, uti, inflammation); associations retained and now part-mapped
   and cited. Further enriched 2026-06-14 with a PubMed-sourced genus Epilobium phytochemistry/pharmacology
   review (REF-0618) centring oenothein B as the key bioactive and noting that the BPH evidence base, while
-  supportive of traditional use, is not yet conclusive.
-last_updated: '2026-06-14'
-status: verified
+  supportive of traditional use, is not yet conclusive. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

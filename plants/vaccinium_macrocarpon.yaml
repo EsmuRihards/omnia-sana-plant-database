@@ -1,37 +1,31 @@
+id: vaccinium-macrocarpon
+scientific_name: Vaccinium macrocarpon
 common_names:
 - American Cranberry
 - Cranberry
 - Large cranberry
 - Bearberry
-scientific_name: Vaccinium macrocarpon
 family: Ericaceae
 parts_used:
-- name: Fruit (berry)
-  medicinal_actions:
-  - action: Prevention of recurrent urinary tract infections (UTI), especially in women
-    reference_ids:
-    - REF-0389
-    - REF-0390
-    - REF-0391
-    status: verified
-  - action: Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining
-    reference_ids:
-    - REF-0390
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0390
-    status: verified
+- Fruit (berry)
 constituents:
 - name: A-type proanthocyanidins (PACs)
+  compounds:
+  - proanthocyanidin
   note: The constituents responsible for the anti-adhesion effect against uropathogenic E. coli.
   reference_ids:
   - REF-0390
 - name: Flavan-3-ols, anthocyanins and other flavonoids
+  compounds:
+  - anthocyanin
+  - phenolic-compound
+  - flavonoid
   note: Antioxidant polyphenols of the berry.
   reference_ids:
   - REF-0390
 - name: Phenolic acids and organic acids (quinic, malic, citric)
+  compounds:
+  - phenolic-acid
   note: Contribute to the acidity and antioxidant capacity.
   reference_ids:
   - REF-0390
@@ -39,25 +33,64 @@ constituents:
   note: Present in relatively high amounts; relevant to kidney-stone risk.
   reference_ids:
   - REF-0391
+actions:
+- action: antioxidant
+  reference_ids:
+  - REF-0390
+  status: verified
+- action: urinary-antiseptic
+  note: Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining
+  reference_ids:
+  - REF-0390
+  status: verified
+indications:
+- condition: infection
+  evidence: 3
+  note: Prevention of recurrent urinary tract infections (UTI), especially in women
+  reference_ids:
+  - REF-0389
+  - REF-0390
+  - REF-0391
+  status: verified
+- condition: urinary-support
+  evidence: 2
+  note: inferred from urinary-antiseptic action
+  reference_ids:
+  - REF-0390
+  status: needs-review
+- condition: uti
+  evidence: 4
+  note: Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining; Prevention of recurrent
+    urinary tract infections (UTI), especially in women
+  reference_ids:
+  - REF-0389
+  - REF-0390
+  - REF-0391
+  status: verified
 contraindications:
 - note: Best supported for PREVENTION of recurrent UTIs, not for treating an active infection; an established
     UTI needs proper medical assessment and, usually, antibiotics.
+  severity: info
   reference_ids:
   - REF-0389
   - REF-0391
   status: verified
 - note: May interact with the anticoagulant warfarin (evidence is conflicting); people taking warfarin
     should be cautious and consult their clinician.
+  severity: caution
   reference_ids:
   - REF-0391
   status: verified
 - note: High in oxalates; people with a history of kidney stones should avoid large or prolonged intake.
     Many cranberry juices are also high in sugar.
+  severity: caution
   reference_ids:
   - REF-0391
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and general literature (systematic review/network
-  meta-analysis, mechanistic review, NCCIH). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (uti); the association is retained and now cited.
-last_updated: '2026-06-12'
+provenance: website+symptom-tool
 status: verified
+last_updated: '2026-06-12'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (systematic review/network
+  meta-analysis, mechanistic review, NCCIH). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (uti); the association is retained and now cited. | 2026-06-15: migrated to entity schema
+  (actions->vocab ids, indications split out, constituents linked to compounds).'

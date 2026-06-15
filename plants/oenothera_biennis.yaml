@@ -1,68 +1,105 @@
+id: oenothera-biennis
+scientific_name: Oenothera biennis
 common_names:
 - Evening Primrose
 - Evening star
 - Sundrop
 - Fever plant
-scientific_name: Oenothera biennis
 family: Onagraceae
 parts_used:
-- name: Seed oil
-  medicinal_actions:
-  - action: Dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid (the rationale for its
-      use)
-    reference_ids:
-    - REF-0446
-    status: verified
-  - action: Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective
-    reference_ids:
-    - REF-0447
-    status: needs-review
-  - action: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
-      (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with
-      a combination of EPO and vitamin E most effective)
-    reference_ids:
-    - REF-0446
-    - REF-0600
-    status: needs-review
-  - action: Menopausal hot flushes - some trial benefit reported
-    reference_ids:
-    - REF-0446
-    status: needs-review
-  - action: Skin hydration and barrier function in healthy skin
-    reference_ids:
-    - REF-0446
-    status: needs-review
+- Seed oil
 constituents:
 - name: Gamma-linolenic acid (GLA) and linoleic acid
+  compounds:
+  - gla
   note: Omega-6 essential fatty acids of the seed oil; GLA is the constituent the supplement is taken
     for.
   reference_ids:
   - REF-0446
   - REF-0447
 - name: Other seed-oil fatty acids and plant sterols
+  compounds:
+  - phytosterol
   note: Minor lipid constituents.
   reference_ids:
   - REF-0446
+actions:
+- action: emollient
+  note: Skin hydration and barrier function in healthy skin
+  reference_ids:
+  - REF-0446
+  status: needs-review
+indications:
+- condition: eczema
+  evidence: 3
+  note: Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective
+  reference_ids:
+  - REF-0447
+  status: needs-review
+- condition: hot-flashes
+  evidence: 2
+  note: Menopausal hot flushes - some trial benefit reported
+  reference_ids:
+  - REF-0446
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  reference_ids: []
+  status: needs-review
+- condition: menopause
+  evidence: 2
+  reference_ids: []
+  status: needs-review
+- condition: pain
+  evidence: 2
+  note: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
+    (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with
+    a combination of EPO and vitamin E most effective)
+  reference_ids:
+  - REF-0446
+  - REF-0600
+  status: needs-review
+- condition: pms
+  evidence: 3
+  note: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
+    (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with
+    a combination of EPO and vitamin E most effective)
+  reference_ids:
+  - REF-0446
+  - REF-0600
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from emollient action
+  reference_ids:
+  - REF-0446
+  status: needs-review
 contraindications:
 - note: 'Evidence is weak and largely negative: a Cochrane review concluded that oral evening primrose
     oil is not an effective treatment for eczema, and the broader trial literature is heterogeneous. Adverse
     effects are mild and mainly gastrointestinal.'
+  severity: info
   reference_ids:
   - REF-0447
   - REF-0446
   status: verified
 - note: May increase bleeding risk and has been reported to interact with warfarin; avoid concentrated/medicinal
     use in pregnancy unless advised by a clinician.
+  severity: caution
   reference_ids:
   - REF-0447
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   systematic review; Cochrane review of EPO/borage oil for eczema). Evidence for most symptom claims is
   weak or negative, reflected in needs-review action statuses. Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (eczema, pms, skin-irritation, inflammation, menopause);
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
-  randomized controlled trial reporting that evening primrose oil reduced cyclical mastalgia severity versus
-  placebo (combination with vitamin E most effective) (REF-0600); the cyclical breast-pain action remains
-  needs-review given the heterogeneous broader literature.
-last_updated: '2026-06-14'
-status: verified
+  randomized controlled trial reporting that evening primrose oil reduced cyclical mastalgia severity
+  versus placebo (combination with vitamin E most effective) (REF-0600); the cyclical breast-pain action
+  remains needs-review given the heterogeneous broader literature. | 2026-06-15: migrated to entity schema
+  (actions->vocab ids, indications split out, constituents linked to compounds). Unmapped uses kept for
+  reference: Dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid (the rationale for its
+  use).'

@@ -1,63 +1,124 @@
+id: cinnamomum-cassia
+scientific_name: Cinnamomum cassia
 common_names:
 - Cassia Cinnamon
 - Chinese cinnamon
 - Cassia bark
 - Rou gui
-scientific_name: Cinnamomum cassia
 family: Lauraceae
 parts_used:
-- name: Bark
-  medicinal_actions:
-  - action: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
-      - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR
-    reference_ids:
-    - REF-0429
-    - REF-0430
-    - REF-0598
-    - REF-0599
-    status: verified
-  - action: Improves the lipid profile (lowers total and LDL cholesterol and triglycerides)
-    reference_ids:
-    - REF-0429
-    - REF-0430
-    - REF-0599
-    status: verified
-  - action: Warming carminative for indigestion (traditional)
-    reference_ids:
-    - REF-0430
-    status: needs-review
+- Bark
 constituents:
 - name: Cinnamaldehyde (cinnamic aldehyde)
   note: The main volatile-oil constituent; associated with the insulin-sensitising effect.
   reference_ids:
   - REF-0430
 - name: Proanthocyanidins and other polyphenols
+  compounds:
+  - proanthocyanidin
+  - phenolic-compound
   note: Antioxidant constituents of the bark.
   reference_ids:
   - REF-0430
 - name: Coumarin
+  compounds:
+  - coumarin
   note: Present in much higher amounts in cassia than in Ceylon cinnamon (~2-5 mg/g); the key safety-limiting
     compound.
   reference_ids:
   - REF-0430
+actions:
+- action: antidiabetic
+  note: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
+    - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR
+  reference_ids:
+  - REF-0429
+  - REF-0430
+  - REF-0598
+  - REF-0599
+  status: verified
+- action: carminative
+  note: Warming carminative for indigestion (traditional)
+  reference_ids:
+  - REF-0430
+  status: needs-review
+- action: lipid-lowering
+  note: Improves the lipid profile (lowers total and LDL cholesterol and triglycerides)
+  reference_ids:
+  - REF-0429
+  - REF-0430
+  - REF-0599
+  status: verified
+indications:
+- condition: bloating
+  evidence: 2
+  note: inferred from carminative action
+  reference_ids:
+  - REF-0430
+  status: needs-review
+- condition: blood-sugar
+  evidence: 3
+  note: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
+    - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR
+  reference_ids:
+  - REF-0429
+  - REF-0430
+  - REF-0598
+  - REF-0599
+  status: verified
+- condition: cardiovascular-support
+  evidence: 2
+  note: inferred from lipid-lowering action
+  reference_ids:
+  - REF-0429
+  - REF-0430
+  - REF-0599
+  status: needs-review
+- condition: high-cholesterol
+  evidence: 2
+  note: inferred from lipid-lowering action
+  reference_ids:
+  - REF-0429
+  - REF-0430
+  - REF-0599
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: Warming carminative for indigestion (traditional)
+  reference_ids:
+  - REF-0430
+  status: needs-review
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0429
+  - REF-0430
+  - REF-0598
+  - REF-0599
+  status: needs-review
 contraindications:
 - note: 'Cassia is high in coumarin: regular high intake of cassia bark or supplements can stress or damage
     the liver. For frequent or medicinal use, prefer true Ceylon cinnamon (Cinnamomum verum) and keep
     within safe daily limits.'
+  severity: info
   reference_ids:
   - REF-0430
   status: verified
 - note: Its blood-sugar-lowering action means it can add to the effect of diabetes medicines (risk of
     hypoglycaemia); avoid concentrated/medicinal doses in pregnancy (culinary amounts are fine).
+  severity: caution
   reference_ids:
   - REF-0429
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Annals of Family Medicine meta-analysis;
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Family Medicine meta-analysis;
   cassia-bark glucose/lipid meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (blood-sugar, high-cholesterol, indigestion); associations retained and now part-mapped
   and cited. NOTE coumarin/liver caution vs Ceylon cinnamon. Further enriched 2026-06-14 with two recent
   PubMed-sourced meta-analyses of RCTs - an updated dose-response meta-analysis (REF-0598; lower fasting
   glucose, HbA1c and HOMA-IR) and a 28-RCT review (REF-0599; capsule form at <=2 g/day also improved the
-  lipid profile and BMI).
-last_updated: '2026-06-14'
-status: verified
+  lipid profile and BMI). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds).'

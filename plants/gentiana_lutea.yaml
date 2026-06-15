@@ -1,30 +1,18 @@
+id: gentiana-lutea
+scientific_name: Gentiana lutea
 common_names:
 - Gentian
 - Yellow gentian
 - Bitterwort
 - Great yellow gentian
-scientific_name: Gentiana lutea
 family: Gentianaceae
 parts_used:
-- name: Root
-  medicinal_actions:
-  - action: Aromatic bitter for temporary loss of appetite
-    reference_ids:
-    - REF-0453
-    status: verified
-  - action: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates
-      gastric acid, enzyme and bile secretion)
-    reference_ids:
-    - REF-0453
-    - REF-0454
-    - REF-0580
-    status: verified
-  - action: Eases nausea linked to sluggish digestion (traditional)
-    reference_ids:
-    - REF-0454
-    status: needs-review
+- Root
 constituents:
 - name: Secoiridoid bitter glycosides (gentiopicroside, amarogentin, swertiamarin)
+  compounds:
+  - flavonoid
+  - glycoside
   note: Amarogentin is one of the bitterest natural compounds known; these stimulate digestive secretions.
     Genus-level reviews identify these secoiridoids, together with xanthones and flavonoids, as the main
     bioactives and report gastrointestinal, hepatoprotective and anti-inflammatory activity.
@@ -34,6 +22,8 @@ constituents:
   - REF-0580
   - REF-0581
 - name: Xanthones (gentisin) and flavonoids
+  compounds:
+  - flavonoid
   note: Pigment and antioxidant constituents.
   reference_ids:
   - REF-0454
@@ -42,22 +32,72 @@ constituents:
   note: Carbohydrate constituents of the root.
   reference_ids:
   - REF-0453
+actions:
+- action: bitter-tonic
+  note: Aromatic bitter for temporary loss of appetite
+  reference_ids:
+  - REF-0453
+  status: verified
+- action: digestive
+  note: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric
+    acid, enzyme and bile secretion)
+  reference_ids:
+  - REF-0453
+  - REF-0454
+  - REF-0580
+  status: verified
+indications:
+- condition: appetite-loss
+  evidence: 3
+  note: Aromatic bitter for temporary loss of appetite
+  reference_ids:
+  - REF-0453
+  status: verified
+- condition: bloating
+  evidence: 3
+  note: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric
+    acid, enzyme and bile secretion)
+  reference_ids:
+  - REF-0453
+  - REF-0454
+  - REF-0580
+  status: verified
+- condition: indigestion
+  evidence: 3
+  note: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric
+    acid, enzyme and bile secretion)
+  reference_ids:
+  - REF-0453
+  - REF-0454
+  - REF-0580
+  status: verified
+- condition: nausea
+  evidence: 2
+  note: Eases nausea linked to sluggish digestion (traditional)
+  reference_ids:
+  - REF-0454
+  status: needs-review
 contraindications:
 - note: Because bitters increase stomach-acid secretion, gentian is contraindicated in peptic (stomach
     or duodenal) ulcer disease and hyperacidity.
+  severity: caution
   reference_ids:
   - REF-0453
   status: verified
 - note: Traditional use only; appetite loss or dyspepsia that persists needs medical assessment, and use
     in pregnancy and breastfeeding is not recommended.
+  severity: caution
   reference_ids:
   - REF-0453
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Gentianae radix; Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss,
   nausea); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with two PubMed-sourced
   genus Gentiana phytochemistry/pharmacology reviews (REF-0580, REF-0581); these are genus-level (G. lutea
   is the type species), cited here for constituent characterisation and the digestive-secretion action.
-last_updated: '2026-06-14'
-status: verified
+  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

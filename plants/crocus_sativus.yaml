@@ -1,59 +1,126 @@
+id: crocus-sativus
+scientific_name: Crocus sativus
 common_names:
 - Saffron
 - true saffron
 - autumn crocus
-scientific_name: Crocus sativus
 family: Iridaceae
 parts_used:
-- name: Flower
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0005
-    - REF-0115
-    - REF-0172
-    status: verified
-  - action: Anticancer
-    reference_ids:
-    - REF-0005
-    - REF-0115
-    - REF-0172
-    status: verified
-  - action: Antidiabetic
-    reference_ids:
-    - REF-0005
-    - REF-0115
-    - REF-0172
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0005
-    - REF-0115
-    - REF-0172
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0005
-    - REF-0115
-    - REF-0172
-    status: verified
-  - action: Menstrual cramps
-    reference_ids:
-    - REF-0005
-    - REF-0115
-    - REF-0172
-    status: verified
-  - action: Sedative
-    reference_ids:
-    - REF-0005
-    - REF-0115
-    - REF-0172
-    status: verified
-constituents: []
+- Flower
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: verified
+- action: sedative
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: needs-review
+- condition: blood-sugar
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: needs-review
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: inferred from sedative action
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 3
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: verified
+- condition: metabolic-support
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0005
+  - REF-0115
+  - REF-0172
+  status: needs-review
 contraindications:
 - note: Culinary use is entirely safe. At very high doses (5g+), saffron can be toxic — but such doses
     far exceed culinary or therapeutic amounts. Avoid medicinal doses during pregnancy (uterine stimulant).
     May interact with antidepressants. High quality saffron is often adulterated; verify source.
+  severity: caution
   reference_ids:
   - REF-0005
   - REF-0115
@@ -66,14 +133,17 @@ contraindications:
     stigmas as flavoring; medicinal doses above 5 g are considered potentially toxic. Duke notes that
     saffron stigmas contain crocin and safranal, which are responsible for its antidepressant and antioxidant
     properties (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0005
   - REF-0115
   - REF-0172
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

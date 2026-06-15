@@ -1,36 +1,18 @@
+id: inula-helenium
+scientific_name: Inula helenium
 common_names:
 - Elecampane
 - Horse-heal
 - Elf dock
 - Scabwort
-scientific_name: Inula helenium
 family: Asteraceae
 parts_used:
-- name: Root and rhizome
-  medicinal_actions:
-  - action: Expectorant for productive cough and bronchitis (long-standing respiratory remedy)
-    reference_ids:
-    - REF-0445
-    status: verified
-  - action: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
-      against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection
-    reference_ids:
-    - REF-0445
-    - REF-0539
-    - REF-0540
-    status: verified
-  - action: Anti-inflammatory - sesquiterpene lactones (alantolactone, isoalantolactone) inhibit NF-kB
-      and MAPK signalling and pro-inflammatory cytokines; total sesquiterpene lactones eased arthritis
-      in animal models (potential in rheumatoid arthritis)
-    reference_ids:
-    - REF-0538
-    status: verified
-  - action: Soothes irritated airways / chronic catarrh (traditional)
-    reference_ids:
-    - REF-0445
-    status: needs-review
+- Root and rhizome
 constituents:
 - name: Sesquiterpene lactones (alantolactone, isoalantolactone, igalan, diplophyllin)
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
   note: The antimicrobial and anti-inflammatory principles of the root; the eudesmane core and the alpha,beta-methylene-lactone
     ring are essential for the antimicrobial activity.
   reference_ids:
@@ -39,29 +21,116 @@ constituents:
   - REF-0539
   - REF-0540
 - name: Inulin
+  compounds:
+  - polysaccharide
+  - inulin
   note: A fructan polysaccharide abundant in the root (the genus Inula gives inulin its name).
   reference_ids:
   - REF-0445
 - name: Essential oil
+  compounds:
+  - essential-oil
   note: Aromatic constituents of the root.
   reference_ids:
   - REF-0445
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory - sesquiterpene lactones (alantolactone, isoalantolactone) inhibit NF-kB and
+    MAPK signalling and pro-inflammatory cytokines; total sesquiterpene lactones eased arthritis in animal
+    models (potential in rheumatoid arthritis)
+  reference_ids:
+  - REF-0538
+  status: verified
+- action: antimicrobial
+  note: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
+    against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection
+  reference_ids:
+  - REF-0445
+  - REF-0539
+  - REF-0540
+  status: verified
+- action: expectorant
+  note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy)
+  reference_ids:
+  - REF-0445
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 3
+  note: Anti-inflammatory - sesquiterpene lactones (alantolactone, isoalantolactone) inhibit NF-kB and
+    MAPK signalling and pro-inflammatory cytokines; total sesquiterpene lactones eased arthritis in animal
+    models (potential in rheumatoid arthritis)
+  reference_ids:
+  - REF-0538
+  status: verified
+- condition: bronchitis
+  evidence: 3
+  note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy)
+  reference_ids:
+  - REF-0445
+  status: verified
+- condition: cough
+  evidence: 3
+  note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy); Soothes irritated
+    airways / chronic catarrh (traditional)
+  reference_ids:
+  - REF-0445
+  status: needs-review
+- condition: infection
+  evidence: 3
+  note: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
+    against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection
+  reference_ids:
+  - REF-0445
+  - REF-0539
+  - REF-0540
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0538
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0445
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0538
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0445
+  - REF-0539
+  - REF-0540
+  status: needs-review
 contraindications:
 - note: The sesquiterpene lactones (especially alantolactone) are known skin sensitisers and can cause
     allergic contact dermatitis; people sensitive to the daisy family (Asteraceae) should be cautious.
+  severity: info
   reference_ids:
   - REF-0445
   status: verified
 - note: Large doses can cause nausea, vomiting and diarrhoea; safety in pregnancy and breastfeeding is
     not established, so avoid medicinal doses.
+  severity: caution
   reference_ids:
   - REF-0445
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Molecules antimicrobial/ethnobotanical
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-13'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antimicrobial/ethnobotanical
   study). Further enriched 2026-06-13 with three PubMed studies - a total-sesquiterpene-lactone anti-inflammatory/anti-arthritic
   study (REF-0538), an antistaphylococcal essential-oil study (REF-0539) and an antimycobacterial eudesmanolide
-  study (REF-0540); a new anti-inflammatory action was added. Originally a skeleton imported from the omniasana.bio
-  Symptom-to-Plant Lookup tool (cough, bronchitis, infection); associations retained and now part-mapped
-  and cited.
-last_updated: '2026-06-13'
-status: verified
+  study (REF-0540); a new anti-inflammatory action was added. Originally a skeleton imported from the
+  omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, infection); associations retained and
+  now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
+  split out, constituents linked to compounds).'

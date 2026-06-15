@@ -1,90 +1,211 @@
+id: plantago-major
+scientific_name: Plantago major
 common_names:
 - Greater Plantain
 - broadleaf plantain
 - common plantain
 - waybread
-scientific_name: Plantago major
 family: Plantaginaceae
 parts_used:
-- name: Leaf / Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0234
-    - REF-0260
-    - REF-0309
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0234
-    - REF-0260
-    - REF-0309
-    status: verified
-  - action: Expectorant
-    reference_ids:
-    - REF-0234
-    - REF-0260
-    - REF-0309
-    status: verified
-  - action: Wound Healing
-    reference_ids:
-    - REF-0234
-    - REF-0260
-    - REF-0309
-    status: verified
-  - action: Vulnerary (wound healing) - fresh leaf poultice
-    reference_ids:
-    - REF-0368
-    - REF-0364
-    - REF-0358
-    status: verified
-  - action: Demulcent / expectorant (coughs, catarrh, irritated airways)
-    reference_ids:
-    - REF-0358
-    - REF-0357
-    status: verified
-  - action: Astringent (diarrhoea)
-    reference_ids:
-    - REF-0358
-    - REF-0357
-    status: verified
-  - action: Antimicrobial
-    reference_ids:
-    - REF-0354
-    status: verified
-  - action: Bulk laxative (mucilaginous seeds)
-    reference_ids:
-    - REF-0358
-    status: verified
+- Leaf
+- Seed
 constituents:
 - name: Iridoid glycosides (aucubin, catalpol)
+  compounds:
+  - iridoid-glycoside
+  - glycoside
   note: Characteristic iridoids of Plantago major.
   reference_ids:
   - REF-0364
   - REF-0354
 - name: Caffeic acid esters (plantamajoside, acteoside/verbascoside)
+  compounds:
+  - caffeic-acid
+  - verbascoside
   note: Polyphenolic esters contributing to antioxidant and anti-inflammatory activity.
   reference_ids:
   - REF-0364
   - REF-0354
 - name: Flavonoids (baicalein, luteolin, hispidulin)
+  compounds:
+  - flavonoid
+  - luteolin
   note: Flavonoid constituents of the leaf.
   reference_ids:
   - REF-0354
 - name: Allantoin
+  compounds:
+  - allantoin
   note: Cell-proliferative compound supporting wound healing.
   reference_ids:
   - REF-0364
 - name: Mucilage and triterpenes (ursolic and oleanolic acid)
+  compounds:
+  - terpene
+  - mucilage
   note: Demulcent mucilage plus anti-inflammatory triterpenes.
   reference_ids:
   - REF-0364
   - REF-0354
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-0354
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  status: verified
+- action: astringent
+  note: Astringent (diarrhoea)
+  reference_ids:
+  - REF-0357
+  - REF-0358
+  status: verified
+- action: demulcent
+  note: Demulcent / expectorant (coughs, catarrh, irritated airways)
+  reference_ids:
+  - REF-0357
+  - REF-0358
+  status: verified
+- action: expectorant
+  note: Demulcent / expectorant (coughs, catarrh, irritated airways)
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  - REF-0357
+  - REF-0358
+  status: verified
+- action: laxative
+  note: Bulk laxative (mucilaginous seeds)
+  reference_ids:
+  - REF-0358
+  status: verified
+- action: vulnerary
+  note: Vulnerary (wound healing) - fresh leaf poultice
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  - REF-0358
+  - REF-0364
+  - REF-0368
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  status: needs-review
+- condition: bronchitis
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  - REF-0357
+  - REF-0358
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  - REF-0358
+  - REF-0364
+  - REF-0368
+  status: needs-review
+- condition: constipation
+  evidence: 2
+  note: inferred from laxative action
+  reference_ids:
+  - REF-0358
+  status: needs-review
+- condition: cough
+  evidence: 3
+  note: Demulcent / expectorant (coughs, catarrh, irritated airways)
+  reference_ids:
+  - REF-0357
+  - REF-0358
+  status: verified
+- condition: diarrhea
+  evidence: 3
+  note: Astringent (diarrhoea)
+  reference_ids:
+  - REF-0357
+  - REF-0358
+  status: verified
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0354
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  - REF-0357
+  - REF-0358
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  status: needs-review
+- condition: sore-throat
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0357
+  - REF-0358
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  - REF-0358
+  - REF-0364
+  - REF-0368
+  status: needs-review
 contraindications:
 - note: Extremely safe; one of the most widely used edible and medicinal plants in the world. Psyllium
     seeds (closely related) are well-studied as a bulk laxative but should always be taken with adequate
     water. Allergic reactions are rare but possible. No significant drug interactions documented at normal
     doses.
+  severity: caution
   reference_ids:
   - REF-0234
   - REF-0260
@@ -96,6 +217,7 @@ contraindications:
     apply to the leaf. Dose: leaf as tea or poultice for wounds, sore throat, and bronchial conditions.
     Duke notes the plant is generally safe with anti-inflammatory topical use well-supported in traditional
     practice. Commission E approved plantain (ribwort species) for catarrh and wound healing (Duke, 2002).'
+  severity: info
   reference_ids:
   - REF-0234
   - REF-0260
@@ -103,18 +225,21 @@ contraindications:
   status: verified
 - note: Generally regarded as safe as food and in customary medicinal use; allergic reactions are uncommon,
     though the abundant wind-borne pollen can aggravate hay fever in sensitive people.
+  severity: info
   reference_ids:
   - REF-0364
   - REF-0358
   status: verified
 - note: Correct identification is essential and material should be gathered away from roadsides, sprayed
     lawns and other contaminated ground; deep or infected wounds warrant proper medical care.
+  severity: info
   reference_ids:
   - REF-0365
   - REF-0364
   status: verified
 - note: Additional omniasana.bio sources cited for Plantago major (identification, distribution, foraging,
     traditional use and supporting evidence; see bibliography).
+  severity: info
   reference_ids:
   - REF-0353
   - REF-0355
@@ -127,11 +252,13 @@ contraindications:
   - REF-0366
   - REF-0367
   status: verified
+provenance: book+website
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | Enriched 2026-06-12 from the omniasana.bio ''Broadleaf
   Plantain'' Materia Medica page (https://omniasana.bio/broadleaf-plantain-plantago-major/): added constituents,
-  web-sourced actions and cautions.'
-last_updated: '2026-06-12'
-status: verified
+  web-sourced actions and cautions. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
+  split out, constituents linked to compounds).'

@@ -50,6 +50,7 @@
         "properties": {
           "action": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Action id -> vocabularies/actions.yaml."},
           "parts": {"type": "array", "items": {"type": "string"}, "description": "Plant part(s) this claim applies to. Omit when the source did not specify."},
+          "note": {"type": "string", "description": "Original free-text phrasing / mechanism detail, preserved verbatim."},
           "reference_ids": {"$ref": "#/$defs/reference_ids"},
           "status": {"$ref": "#/$defs/status"}
         }
@@ -65,6 +66,7 @@
         "properties": {
           "condition": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Condition id -> vocabularies/conditions.yaml."},
           "evidence": {"type": "integer", "minimum": 1, "maximum": 5, "description": "Editorial strength of human/clinical evidence (1=traditional .. 5=strong)."},
+          "note": {"type": "string", "description": "Original free-text phrasing / evidence detail, preserved verbatim."},
           "reference_ids": {"$ref": "#/$defs/reference_ids"},
           "status": {"$ref": "#/$defs/status"}
         }
@@ -84,6 +86,7 @@
         }
       }
     },
+    "references": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}, "description": "Background/general sources for the plant not tied to a specific claim (identification, distribution, foraging, overviews)."},
     "provenance": {"type": "string", "description": "Origin of the record, e.g. 'book', 'website', 'pubmed', or combinations like 'book+pubmed'."},
     "internal_notes": {"type": "string", "description": "Editorial notes and history; NEVER published."},
     "last_updated": {"type": "string", "format": "date"},

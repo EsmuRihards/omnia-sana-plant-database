@@ -1,26 +1,17 @@
+id: saponaria-officinalis
+scientific_name: Saponaria officinalis
 common_names:
 - Soapwort
 - Bouncing Bet
 - Common soapwort
 - Fuller's herb
-scientific_name: Saponaria officinalis
 family: Caryophyllaceae
 parts_used:
-- name: Root (and aerial parts)
-  medicinal_actions:
-  - action: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
-      reflex and loosen mucus) - largely an outdated use
-    reference_ids:
-    - REF-0511
-    - REF-0512
-    status: needs-review
-  - action: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
-      for eczema)
-    reference_ids:
-    - REF-0512
-    status: needs-review
+- Root (and aerial parts)
 constituents:
 - name: Triterpenoid saponins (up to ~5%; e.g. saponarioside, vaccaroside)
+  compounds:
+  - saponin
   note: Surfactant compounds giving the soapy, expectorant and irritant properties; their surface activity
     has been confirmed experimentally, with Saponaria officinalis saponins forming stable oil-in-water
     nanoemulsions.
@@ -29,27 +20,85 @@ constituents:
   - REF-0512
   - REF-0631
 - name: Flavonoids, vitamin C and resin
+  compounds:
+  - flavonoid
   note: Supporting constituents of the root.
   reference_ids:
   - REF-0512
+actions:
+- action: expectorant
+  note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
+    reflex and loosen mucus) - largely an outdated use
+  reference_ids:
+  - REF-0511
+  - REF-0512
+  status: needs-review
+indications:
+- condition: bronchitis
+  evidence: 2
+  note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
+    reflex and loosen mucus) - largely an outdated use
+  reference_ids:
+  - REF-0511
+  - REF-0512
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
+    reflex and loosen mucus) - largely an outdated use
+  reference_ids:
+  - REF-0511
+  - REF-0512
+  status: needs-review
+- condition: detox
+  evidence: 2
+  note: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
+    for eczema)
+  reference_ids:
+  - REF-0512
+  status: needs-review
+- condition: eczema
+  evidence: 2
+  note: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
+    for eczema)
+  reference_ids:
+  - REF-0512
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
+    reflex and loosen mucus) - largely an outdated use
+  reference_ids:
+  - REF-0511
+  - REF-0512
+  status: needs-review
+- condition: skin-irritation
+  evidence: 1
+  reference_ids: []
+  status: needs-review
 contraindications:
 - note: 'SERIOUS: the saponins are irritant and can cause haemolysis (destruction of red blood cells).
     Never take soapwort in large doses or for prolonged periods. Internal use can cause severe gastrointestinal
     irritation (cramps, nausea, vomiting, diarrhoea).'
+  severity: info
   reference_ids:
   - REF-0511
   - REF-0512
   status: verified
 - note: Internal use should only be under professional supervision; its expectorant use is now largely
     outdated. Avoid in pregnancy and breastfeeding.
+  severity: caution
   reference_ids:
   - REF-0512
   status: verified
-internal_notes: Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record
+provenance: website+pubmed+symptom-tool
+status: needs-review
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record
   status set to needs-review because the saponins carry a real haemolysis/irritation risk and the internal
   use is largely outdated. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (cough, skin-irritation); associations retained and now part-mapped and cited. Further enriched
   2026-06-14 with a PubMed-sourced study demonstrating the surfactant/emulsifying behaviour of Saponaria
-  officinalis saponins (REF-0631), the physicochemical basis of its traditional "natural soap" use.
-last_updated: '2026-06-14'
-status: needs-review
+  officinalis saponins (REF-0631), the physicochemical basis of its traditional "natural soap" use. |
+  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

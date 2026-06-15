@@ -1,55 +1,110 @@
+id: elymus-repens
+scientific_name: Elymus repens
 common_names:
 - Couch Grass
 - Twitch grass
 - Quack grass
 - Dog grass
-scientific_name: Elymus repens
 family: Poaceae
 parts_used:
-- name: Rhizome
-  medicinal_actions:
-  - action: Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with
-      plenty of fluids)
-    reference_ids:
-    - REF-0437
-    - REF-0438
-    status: verified
-  - action: Soothing demulcent (mucilage) for urinary-tract irritation
-    reference_ids:
-    - REF-0438
-    status: verified
-  - action: Supports mild fluid retention / swelling
-    reference_ids:
-    - REF-0437
-    status: needs-review
+- Rhizome
 constituents:
 - name: Polysaccharides (the fructan triticin) and mucilage
+  compounds:
+  - polysaccharide
+  - mucilage
   note: Soothing, demulcent carbohydrates of the rhizome.
   reference_ids:
   - REF-0437
   - REF-0438
 - name: Flavonoids and phenolic acids (caffeoyl/feruloyl quinic esters)
+  compounds:
+  - phenolic-acid
+  - flavonoid
   note: Antioxidant constituents.
   reference_ids:
   - REF-0437
 - name: Small amount of volatile oil (agropyrene)
+  compounds:
+  - essential-oil
   note: Minor aromatic constituent.
   reference_ids:
   - REF-0438
+actions:
+- action: demulcent
+  note: Soothing demulcent (mucilage) for urinary-tract irritation
+  reference_ids:
+  - REF-0438
+  status: verified
+- action: diuretic
+  note: Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty
+    of fluids)
+  reference_ids:
+  - REF-0437
+  - REF-0438
+  status: verified
+indications:
+- condition: cough
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0438
+  status: needs-review
+- condition: kidney-support
+  evidence: 1
+  reference_ids: []
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0438
+  status: needs-review
+- condition: sore-throat
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0438
+  status: needs-review
+- condition: swelling
+  evidence: 2
+  note: Supports mild fluid retention / swelling
+  reference_ids:
+  - REF-0437
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-0437
+  - REF-0438
+  status: needs-review
+- condition: uti
+  evidence: 3
+  note: Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty
+    of fluids)
+  reference_ids:
+  - REF-0437
+  - REF-0438
+  status: verified
 contraindications:
 - note: Drink plenty of fluids during use. Irrigation therapy must NOT be used if there is oedema (swelling)
     due to impaired heart or kidney function.
+  severity: caution
   reference_ids:
   - REF-0437
   status: verified
 - note: Traditional use only; if urinary symptoms persist or are accompanied by fever, spasms or blood
     in the urine, seek medical care. Use in pregnancy and breastfeeding is not recommended.
+  severity: caution
   reference_ids:
   - REF-0437
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph; ESCOP
-  monograph). Elymus repens = Agropyron repens = Elytrigia repens. Originally a skeleton imported from
-  the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained
-  and now part-mapped and cited.
-last_updated: '2026-06-12'
+provenance: website+symptom-tool
 status: verified
+last_updated: '2026-06-12'
+internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph;
+  ESCOP monograph). Elymus repens = Agropyron repens = Elytrigia repens. Originally a skeleton imported
+  from the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained
+  and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
+  split out, constituents linked to compounds).'

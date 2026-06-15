@@ -1,65 +1,181 @@
+id: plantago-lanceolata
+scientific_name: Plantago lanceolata
 common_names:
 - Ribwort Plantain
 - Narrowleaf plantain
 - English plantain
 - Lamb's tongue
-scientific_name: Plantago lanceolata
 family: Plantaginaceae
 parts_used:
-- name: Leaf (and aerial parts)
-  medicinal_actions:
-  - action: Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage
-      soothes and protects irritated airways)
-    reference_ids:
-    - REF-0499
-    - REF-0500
-    status: verified
-  - action: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in
-      vitro the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its
-      traditional respiratory anti-inflammatory use
-    reference_ids:
-    - REF-0499
-    - REF-0633
-    status: verified
-  - action: Vulnerary for minor wounds and insect bites (topical)
-    reference_ids:
-    - REF-0499
-    - REF-0500
-    status: verified
-  - action: Antibacterial, antiviral and immunostimulant (in vitro)
-    reference_ids:
-    - REF-0500
-    - REF-0499
-    status: verified
+- Leaf (and aerial parts)
 constituents:
 - name: Iridoid glycosides (aucubin, catalpol)
+  compounds:
+  - iridoid-glycoside
+  - glycoside
   note: Anti-inflammatory and antimicrobial constituents.
   reference_ids:
   - REF-0499
 - name: Mucilage polysaccharides (~2-3%)
+  compounds:
+  - polysaccharide
+  - mucilage
   note: Coat and protect inflamed mucous membranes and reduce cough-receptor sensitivity.
   reference_ids:
   - REF-0499
 - name: Phenylethanoids (acteoside/verbascoside, plantamajoside) and flavonoids (apigenin, luteolin)
+  compounds:
+  - verbascoside
+  - flavonoid
+  - apigenin
+  - luteolin
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0499
+actions:
+- action: anti-inflammatory
+  note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
+    the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional
+    respiratory anti-inflammatory use
+  reference_ids:
+  - REF-0499
+  - REF-0633
+  status: verified
+- action: antimicrobial
+  note: Antibacterial, antiviral and immunostimulant (in vitro)
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
+- action: antiviral
+  note: Antibacterial, antiviral and immunostimulant (in vitro)
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
+- action: demulcent
+  note: Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage
+    soothes and protects irritated airways)
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
+- action: immunomodulator
+  note: Antibacterial, antiviral and immunostimulant (in vitro)
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
+- action: vulnerary
+  note: Vulnerary for minor wounds and insect bites (topical)
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0499
+  - REF-0633
+  status: needs-review
+- condition: bronchitis
+  evidence: 3
+  note: Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage
+    soothes and protects irritated airways)
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: needs-review
+- condition: cough
+  evidence: 3
+  note: Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage
+    soothes and protects irritated airways)
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
+- condition: immune-support
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
+    the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional
+    respiratory anti-inflammatory use
+  reference_ids:
+  - REF-0499
+  - REF-0633
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: needs-review
+- condition: sore-throat
+  evidence: 2
+  note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
+    the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional
+    respiratory anti-inflammatory use
+  reference_ids:
+  - REF-0499
+  - REF-0633
+  status: verified
+- condition: wounds
+  evidence: 3
+  note: Vulnerary for minor wounds and insect bites (topical)
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
 contraindications:
 - note: Generally very well tolerated. A cough or throat irritation that persists beyond about a week,
     or is accompanied by fever or breathlessness, needs medical assessment.
+  severity: info
   reference_ids:
   - REF-0499
   status: verified
 - note: Use in pregnancy and breastfeeding is not recommended in the absence of adequate data.
+  severity: caution
   reference_ids:
   - REF-0499
   status: verified
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs).
   Note: distinct from the book''s Plantago major (greater plantain). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, wounds, inflammation, bronchitis);
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
   in-vitro study showing Plantago lanceolata extract inhibits nitric oxide production and inducible NOS
   expression in macrophages (REF-0633), a molecular basis for its traditional respiratory anti-inflammatory
-  use.'
-last_updated: '2026-06-14'
-status: verified
+  use. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

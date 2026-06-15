@@ -13,7 +13,7 @@
 - id: anti-inflammatory
   label: Anti-inflammatory
   category: inflammation
-  synonyms: ["antiinflammatory", "anti-inflammatory and antioxidant", "antioxidant and anti-inflammatory", "antiphlogistic", "anti-oedematous and anti-inflammatory"]
+  synonyms: ["antiinflammatory", "anti-inflammatory and antioxidant", "antioxidant and anti-inflammatory", "antiphlogistic", "anti-oedematous and anti-inflammatory", "inflammatory marker", "reduces inflammation"]
   related_conditions: [inflammation, arthritis, skin-irritation]
 - id: antioxidant
   label: Antioxidant
@@ -78,7 +78,7 @@
 - id: urinary-antiseptic
   label: Urinary antiseptic
   category: urinary
-  synonyms: ["antibacterial in the urinary tract", "anti-adhesion (urinary)"]
+  synonyms: ["antibacterial in the urinary tract", "anti-adhesion (urinary)", "anti-adhesion"]
   related_conditions: [uti, urinary-support]
 - id: nephroprotective
   label: Nephroprotective (kidney support)
@@ -144,6 +144,11 @@
   category: general
   synonyms: ["adaptogenic tonic", "tonic for fatigue"]
   related_conditions: [fatigue, stress]
+- id: ergogenic
+  label: Physical performance / ergogenic
+  category: general
+  synonyms: ["physical performance", "strength improvement", "exercise performance", "endurance", "stamina"]
+  related_conditions: [fatigue, muscle-soreness]
 - id: anti-oedematous
   label: Anti-oedematous (reduces swelling)
   category: general
@@ -243,7 +248,7 @@
 - id: emollient
   label: Emollient / skin-soothing
   category: skin
-  synonyms: ["skin-soothing", "soothes irritated skin", "topical soothing", "skin hydration"]
+  synonyms: ["skin-soothing", "soothes irritated skin", "topical soothing", "skin hydration", "dermatological"]
   related_conditions: [skin-irritation, eczema]
 - id: alterative
   label: Alterative / depurative ('detox')

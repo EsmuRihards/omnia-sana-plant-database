@@ -1,43 +1,95 @@
+id: verbascum-thapsus
+scientific_name: Verbascum thapsus
 common_names:
 - Great Mullein
 - common mullein
 - Aaron's rod
 - flannel leaf
 - velvet plant
-scientific_name: Verbascum thapsus
 family: Scrophulariaceae
 parts_used:
-- name: Flower / Leaf
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0186
-    - REF-0254
-    - REF-0289
-    status: verified
-  - action: Expectorant
-    reference_ids:
-    - REF-0186
-    - REF-0254
-    - REF-0289
-    status: verified
-  - action: Respiratory Support
-    reference_ids:
-    - REF-0186
-    - REF-0254
-    - REF-0289
-    status: verified
-  - action: Sedative
-    reference_ids:
-    - REF-0186
-    - REF-0254
-    - REF-0289
-    status: verified
-constituents: []
+- Flower
+- Leaf
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: verified
+- action: expectorant
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: verified
+- action: sedative
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: needs-review
+- condition: bronchitis
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: inferred from sedative action
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: needs-review
+- condition: respiratory-support
+  evidence: 3
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0186
+  - REF-0254
+  - REF-0289
+  status: needs-review
 contraindications:
 - note: Generally considered safe for short-term use. The tiny hairs on the leaves can cause irritation
     if tea is not properly filtered. No significant drug interactions documented. Not recommended during
     pregnancy or breastfeeding due to lack of safety data.
+  severity: caution
   reference_ids:
   - REF-0186
   - REF-0254
@@ -49,14 +101,17 @@ contraindications:
     earaches (oil infusion). Dose: 1.5–2 g dried flower or leaf as tea, three to four times daily. Duke
     notes an antiviral (antiherpetic) activity at the experimental level. The plant is generally well-tolerated
     with no known significant contraindications at therapeutic doses (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0186
   - REF-0254
   - REF-0289
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

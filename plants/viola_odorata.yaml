@@ -1,61 +1,151 @@
+id: viola-odorata
+scientific_name: Viola odorata
 common_names:
 - Sweet Violet
 - Garden violet
 - English violet
 - Banafsha
-scientific_name: Viola odorata
 family: Violaceae
 parts_used:
-- name: Flower and leaf (aerial parts)
-  medicinal_actions:
-  - action: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen
-      mucus) - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
-      in children with asthma
-    reference_ids:
-    - REF-0517
-    - REF-0609
-    status: verified
-  - action: Soothes sore throat
-    reference_ids:
-    - REF-0517
-    status: verified
-  - action: Mild sedative for sleeplessness and to ease headache (traditional)
-    reference_ids:
-    - REF-0517
-    status: needs-review
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0517
-    status: needs-review
+- Flower and leaf (aerial parts)
 constituents:
 - name: Mucilage and saponins
+  compounds:
+  - mucilage
+  - saponin
   note: Mucilage gives the soothing demulcent action; saponins give the expectorant action.
   reference_ids:
   - REF-0517
 - name: Flavonoids and salicylic acid
+  compounds:
+  - flavonoid
   note: Antioxidant and mild analgesic constituents.
   reference_ids:
   - REF-0517
 - name: Alkaloids (e.g. violine) and essential oil
+  compounds:
+  - essential-oil
+  - alkaloid
   note: Minor aromatic and bioactive constituents.
   reference_ids:
   - REF-0517
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0517
+  status: needs-review
+- action: demulcent
+  note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
+    - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
+    in children with asthma
+  reference_ids:
+  - REF-0517
+  - REF-0609
+  status: verified
+- action: expectorant
+  note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
+    - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
+    in children with asthma
+  reference_ids:
+  - REF-0517
+  - REF-0609
+  status: verified
+- action: sedative
+  note: Mild sedative for sleeplessness and to ease headache (traditional)
+  reference_ids:
+  - REF-0517
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0517
+  status: needs-review
+- condition: asthma
+  evidence: 4
+  note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
+    - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
+    in children with asthma
+  reference_ids:
+  - REF-0517
+  - REF-0609
+  status: verified
+- condition: bronchitis
+  evidence: 4
+  note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
+    - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
+    in children with asthma
+  reference_ids:
+  - REF-0517
+  - REF-0609
+  status: verified
+- condition: cough
+  evidence: 4
+  note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
+    - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
+    in children with asthma
+  reference_ids:
+  - REF-0517
+  - REF-0609
+  status: verified
+- condition: headache
+  evidence: 2
+  note: Mild sedative for sleeplessness and to ease headache (traditional)
+  reference_ids:
+  - REF-0517
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0517
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: Mild sedative for sleeplessness and to ease headache (traditional)
+  reference_ids:
+  - REF-0517
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0517
+  - REF-0609
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0517
+  - REF-0609
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  reference_ids:
+  - REF-0517
+  status: verified
 contraindications:
 - note: Generally well tolerated as flower/leaf preparations. It contains salicylates, so use caution
     if you are salicylate-sensitive; the root in large doses is emetic and purgative.
+  severity: caution
   reference_ids:
   - REF-0517
   - REF-0518
   status: verified
 - note: Safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  severity: caution
   reference_ids:
   - REF-0518
   status: needs-review
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs).
   Note: distinct from the book''s Viola tricolor (heartsease). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, insomnia, sore-throat, headache); associations retained
   and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind RCT (n=182)
   showing Viola odorata flower syrup, as an adjuvant to a short-acting beta-agonist, accelerated cough
-  suppression in children with asthma (REF-0609).'
-last_updated: '2026-06-14'
-status: verified
+  suppression in children with asthma (REF-0609). | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

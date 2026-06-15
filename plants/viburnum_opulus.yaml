@@ -1,32 +1,20 @@
+id: viburnum-opulus
+scientific_name: Viburnum opulus
 common_names:
 - Cramp Bark
 - Guelder rose
 - Snowball tree
 - High cranberry
-scientific_name: Viburnum opulus
 family: Adoxaceae
 parts_used:
-- name: Bark (stem bark)
-  medicinal_actions:
-  - action: Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)
-    reference_ids:
-    - REF-0439
-    - REF-0440
-    - REF-0610
-    status: verified
-  - action: Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant)
-    reference_ids:
-    - REF-0439
-    status: verified
-  - action: Mild analgesic for cramping pain
-    reference_ids:
-    - REF-0439
-    status: needs-review
+- Bark (stem bark)
 constituents:
 - name: Coumarins (scopoletin)
-  note: A principal antispasmodic constituent of the bark. A phytochemistry/biological-effects review documents
-    the species' antioxidant, anti-inflammatory and antimicrobial activity and its traditional use for
-    cramps and colds.
+  compounds:
+  - coumarin
+  note: A principal antispasmodic constituent of the bark. A phytochemistry/biological-effects review
+    documents the species' antioxidant, anti-inflammatory and antimicrobial activity and its traditional
+    use for cramps and colds.
   reference_ids:
   - REF-0439
   - REF-0610
@@ -36,26 +24,80 @@ constituents:
   - REF-0439
   - REF-0440
 - name: Tannins
+  compounds:
+  - tannin
   note: Astringent constituents.
   reference_ids:
   - REF-0439
+actions:
+- action: analgesic
+  note: Mild analgesic for cramping pain
+  reference_ids:
+  - REF-0439
+  status: needs-review
+- action: antispasmodic
+  note: Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant); Antispasmodic for
+    menstrual cramps (relaxes uterine smooth muscle)
+  reference_ids:
+  - REF-0439
+  - REF-0440
+  - REF-0610
+  status: verified
+indications:
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0439
+  status: needs-review
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0439
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 3
+  note: Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)
+  reference_ids:
+  - REF-0439
+  - REF-0440
+  - REF-0610
+  status: verified
+- condition: muscle-spasm
+  evidence: 3
+  note: Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant)
+  reference_ids:
+  - REF-0439
+  status: verified
+- condition: pain
+  evidence: 2
+  note: Mild analgesic for cramping pain
+  reference_ids:
+  - REF-0439
+  status: needs-review
 contraindications:
 - note: Only the bark is used medicinally; the raw berries are toxic and cause stomach upset, vomiting
     and diarrhoea if eaten in quantity.
+  severity: info
   reference_ids:
   - REF-0440
   - REF-0439
   status: verified
 - note: Human safety data are limited; medicinal use in pregnancy or breastfeeding should only be under
     the guidance of a qualified practitioner.
+  severity: caution
   reference_ids:
   - REF-0439
   status: needs-review
-internal_notes: Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect
   overview). Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps,
   muscle-spasm, pain); associations retained and now part-mapped and cited. Further enriched 2026-06-14
   with a PubMed-sourced phytochemistry and biological-effects review of Viburnum opulus (REF-0610) supporting
   the constituent profile and its antioxidant/anti-inflammatory activity; clinical trial data remain limited.
-last_updated: '2026-06-14'
-status: verified
+  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

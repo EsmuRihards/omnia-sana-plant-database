@@ -95,7 +95,7 @@
 - id: hemorrhoids
   label: Haemorrhoids
   body_system: cardiovascular
-  consumer_synonyms: ["haemorrhoids", "piles"]
+  consumer_synonyms: ["haemorrhoids", "haemorrhoid", "hemorrhoid", "piles"]
 - id: cardiovascular-support
   label: Cardiovascular / heart health
   body_system: cardiovascular
@@ -105,7 +105,7 @@
 - id: uti
   label: Urinary tract infection (UTI)
   body_system: urinary
-  consumer_synonyms: ["cystitis", "bladder infection", "urinary infection"]
+  consumer_synonyms: ["cystitis", "bladder infection", "urinary infection", "urinary tract infection", "urinary tract"]
 - id: kidney-support
   label: Kidney support
   body_system: urinary
@@ -123,11 +123,11 @@
 - id: menstrual-cramps
   label: Menstrual cramps
   body_system: reproductive
-  consumer_synonyms: ["period pain", "dysmenorrhea", "dysmenorrhoea", "cramps"]
+  consumer_synonyms: ["period pain", "dysmenorrhea", "dysmenorrhoea", "cramps", "menstrual complaint"]
 - id: pms
   label: PMS / premenstrual syndrome
   body_system: reproductive
-  consumer_synonyms: ["premenstrual syndrome", "breast pain", "mastalgia", "cyclical breast pain"]
+  consumer_synonyms: ["premenstrual syndrome", "premenstrual", "breast pain", "mastalgia", "cyclical breast pain"]
 - id: menopause
   label: Menopause
   body_system: reproductive

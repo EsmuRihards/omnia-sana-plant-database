@@ -1,72 +1,123 @@
+id: boswellia-serrata
+scientific_name: Boswellia serrata
 common_names:
 - Boswellia
 - Indian frankincense
 - Salai guggul
 - Shallaki
-scientific_name: Boswellia serrata
 family: Burseraceae
 parts_used:
-- name: Gum resin (oleo-gum-resin)
-  medicinal_actions:
-  - action: Anti-inflammatory (inhibits 5-lipoxygenase / leukotriene synthesis and NF-kB signalling)
-    reference_ids:
-    - REF-0423
-    status: verified
-  - action: 'Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks)'
-    reference_ids:
-    - REF-0422
-    - REF-0573
-    - REF-0574
-    status: verified
-  - action: Reduces inflammatory markers (e.g. hs-CRP) and, in one RCT, improved knee joint-space and reduced
-      osteophytes on radiograph
-    reference_ids:
-    - REF-0573
-    status: needs-review
-  - action: Supports inflammatory arthritis including rheumatoid arthritis
-    reference_ids:
-    - REF-0423
-    status: verified
-  - action: Analgesic (pain relief)
-    reference_ids:
-    - REF-0422
-    status: verified
-  - action: Supportive in inflammatory bowel disease (ulcerative colitis, Crohn's disease)
-    reference_ids:
-    - REF-0423
-    status: verified
-  - action: Supportive in bronchial asthma
-    reference_ids:
-    - REF-0423
-    status: verified
+- Gum resin (oleo-gum-resin)
 constituents:
 - name: Boswellic acids (pentacyclic triterpenes, especially KBA and AKBA)
+  compounds:
+  - boswellic-acid
+  - terpene
   note: The principal anti-inflammatory compounds; AKBA inhibits 5-lipoxygenase. Absorption improves when
     taken with a high-fat meal.
   reference_ids:
   - REF-0423
 - name: Other triterpenes and essential oil of the resin
+  compounds:
+  - essential-oil
+  - terpene
   note: Additional constituents of the oleo-gum-resin.
   reference_ids:
   - REF-0423
+actions:
+- action: analgesic
+  note: Analgesic (pain relief)
+  reference_ids:
+  - REF-0422
+  status: verified
+- action: anti-inflammatory
+  note: Anti-inflammatory (inhibits 5-lipoxygenase / leukotriene synthesis and NF-kB signalling); Reduces
+    inflammatory markers (e.g. hs-CRP) and, in one RCT, improved knee joint-space and reduced osteophytes
+    on radiograph
+  reference_ids:
+  - REF-0423
+  - REF-0573
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 4
+  note: 'Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks);
+    Supports inflammatory arthritis including rheumatoid arthritis'
+  reference_ids:
+  - REF-0422
+  - REF-0423
+  - REF-0573
+  - REF-0574
+  status: verified
+- condition: asthma
+  evidence: 3
+  note: Supportive in bronchial asthma
+  reference_ids:
+  - REF-0423
+  status: verified
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0422
+  status: needs-review
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0422
+  status: needs-review
+- condition: ibd
+  evidence: 3
+  note: Supportive in inflammatory bowel disease (ulcerative colitis, Crohn's disease)
+  reference_ids:
+  - REF-0423
+  status: verified
+- condition: inflammation
+  evidence: 4
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0423
+  - REF-0573
+  status: needs-review
+- condition: pain
+  evidence: 3
+  note: 'Analgesic (pain relief); Osteoarthritis: reduces joint pain and stiffness and improves function
+    (over at least 4 weeks)'
+  reference_ids:
+  - REF-0422
+  - REF-0573
+  - REF-0574
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0423
+  - REF-0573
+  status: needs-review
 contraindications:
 - note: Generally well tolerated; the most commonly reported side effects are mild gastrointestinal symptoms,
     and allergic reactions are rare.
+  severity: info
   reference_ids:
   - REF-0423
   - REF-0422
   status: verified
 - note: Boswellic acids can affect drug-metabolising enzymes, so caution is advised when taking other
     medicines; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  severity: caution
   reference_ids:
   - REF-0423
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   osteoarthritis meta-analysis; review of boswellic acids in chronic inflammatory disease). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (inflammation, arthritis, asthma,
   pain, ibd); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced
   evidence - a double-blind RCT in knee osteoarthritis with radiographic and hs-CRP outcomes (REF-0573)
   and an independent systematic review/meta-analysis of supplements for osteoarthritis that ranked Boswellia
-  among the few with a large short-term effect on pain (REF-0574).
-last_updated: '2026-06-14'
-status: verified
+  among the few with a large short-term effect on pain (REF-0574). | 2026-06-15: migrated to entity schema
+  (actions->vocab ids, indications split out, constituents linked to compounds).'

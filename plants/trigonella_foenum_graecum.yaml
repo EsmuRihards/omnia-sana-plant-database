@@ -1,47 +1,92 @@
+id: trigonella-foenum-graecum
+scientific_name: Trigonella foenum-graecum
 common_names:
 - Fenugreek
 - Bird’s foot
 - goat’s horn
 - Greek clover
 - and alholva
-scientific_name: Trigonella foenum-graecum
 family: Fabaceae
 parts_used:
-- name: Leaf / Seed / Young sprouts
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0148
-    - REF-0182
-    - REF-0308
-    status: verified
-  - action: Antidiabetic
-    reference_ids:
-    - REF-0148
-    - REF-0182
-    - REF-0308
-    status: verified
-  - action: Aphrodisiac
-    reference_ids:
-    - REF-0148
-    - REF-0182
-    - REF-0308
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0148
-    - REF-0182
-    - REF-0308
-    status: verified
-  - action: Metabolic support
-    reference_ids:
-    - REF-0148
-    - REF-0182
-    - REF-0308
-    status: verified
-constituents: []
+- Leaf
+- Seed
+- Young sprouts
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+- action: aphrodisiac
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: needs-review
+- condition: blood-sugar
+  evidence: 2
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+- condition: fertility
+  evidence: 3
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: needs-review
+- condition: metabolic-support
+  evidence: 3
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0148
+  - REF-0182
+  - REF-0308
+  status: needs-review
 contraindications:
 - note: Fenugreek appears https://www.nccih.nih.gov/health/fenugreek for most people.
+  severity: info
   reference_ids:
   - REF-0148
   - REF-0182
@@ -53,6 +98,7 @@ contraindications:
     people report a strange and slightly sweet body odor when supplementing, but this is unconfirmed.
     Given its effect on blood sugar, fenugreek should be used with caution if you’re taking diabetes medication
     or other supplements that lower blood sugar levels.
+  severity: caution
   reference_ids:
   - REF-0148
   - REF-0182
@@ -64,14 +110,17 @@ contraindications:
     stimulant. Dose: 6–50 g of ground seeds daily for blood sugar management; 1–4 g seeds in tea for digestive
     use. The plant has lactagogue effects and can cause maple syrup-like body odor due to sotolon content.
     Contraindicated in pregnancy at medicinal doses due to uterotonic effects (Duke, 2002).'
+  severity: caution
   reference_ids:
   - REF-0148
   - REF-0182
   - REF-0308
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

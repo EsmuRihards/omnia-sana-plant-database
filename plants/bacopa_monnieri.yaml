@@ -1,44 +1,95 @@
+id: bacopa-monnieri
+scientific_name: Bacopa monnieri
 common_names:
 - Water Hyssop
 - Bacopa
 - brahmi
 - herb of grace
-scientific_name: Bacopa monnieri
 family: Plantaginaceae
 parts_used:
-- name: Leaf / Whole Plant
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0038
-    - REF-0283
-    - REF-0309
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0038
-    - REF-0283
-    - REF-0309
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0038
-    - REF-0283
-    - REF-0309
-    status: verified
-  - action: Sedative
-    reference_ids:
-    - REF-0038
-    - REF-0283
-    - REF-0309
-    status: verified
-constituents: []
+- Leaf
+- Whole Plant
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: verified
+- action: sedative
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: needs-review
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: inferred from sedative action
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0038
+  - REF-0283
+  - REF-0309
+  status: needs-review
 contraindications:
 - note: Generally well tolerated at standard doses. The most commonly reported side effects are gastrointestinal
     — nausea, stomach cramps, and increased bowel movements — which can be reduced by taking with food.
     Not recommended during pregnancy. May interact with medications that increase acetylcholine levels
     (e.g. Alzheimer's medications). Use with caution in thyroid conditions, as bacopa may increase thyroid
     hormone levels.
+  severity: caution
   reference_ids:
   - REF-0038
   - REF-0283
@@ -46,14 +97,17 @@ contraindications:
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Bacopa monnieri (water hyssop/brahmi) in the
     Handbook of Medicinal Herbs, Second Edition.
+  severity: info
   reference_ids:
   - REF-0038
   - REF-0283
   - REF-0309
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

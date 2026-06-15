@@ -1,42 +1,78 @@
+id: paullinia-cupana
+scientific_name: Paullinia cupana
 common_names:
 - Guarana
 - Brazilian cocoa
 - zoom
-scientific_name: Paullinia cupana
 family: Sapindaceae
 parts_used:
-- name: Seed
-  medicinal_actions:
-  - action: Antioxidant
-    reference_ids:
-    - REF-0009
-    - REF-0106
-    - REF-0233
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0009
-    - REF-0106
-    - REF-0233
-    status: verified
-  - action: Metabolic support
-    reference_ids:
-    - REF-0009
-    - REF-0106
-    - REF-0233
-    status: verified
-  - action: Physical performance / strength improvement
-    reference_ids:
-    - REF-0009
-    - REF-0106
-    - REF-0233
-    status: verified
-constituents: []
+- Seed
+actions:
+- action: antioxidant
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: verified
+- action: ergogenic
+  note: Physical performance / strength improvement
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: verified
+indications:
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: needs-review
+- condition: fatigue
+  evidence: 2
+  note: inferred from ergogenic action
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: needs-review
+- condition: metabolic-support
+  evidence: 3
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: verified
+- condition: muscle-soreness
+  evidence: 2
+  note: inferred from ergogenic action
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: needs-review
 contraindications:
 - note: Guarana contains very high levels of caffeine (2–4 times that of coffee by weight). All the cautions
     of caffeine apply — avoid in cardiac arrhythmia, hypertension, anxiety disorders, insomnia, and during
     pregnancy and breastfeeding. Should not be combined with other stimulants, MAOIs, or medications affected
     by caffeine. Risk of dependence and withdrawal symptoms with prolonged high-dose use.
+  severity: caution
   reference_ids:
   - REF-0009
   - REF-0106
@@ -48,14 +84,17 @@ contraindications:
     1), which warrants caution with high-dose supplementation. Contraindicated in cardiovascular disease,
     anxiety disorders, peptic ulcers, and during pregnancy. Interactions include potentiation of other
     stimulants and anticoagulants (Duke, 2002).
+  severity: serious
   reference_ids:
   - REF-0009
   - REF-0106
   - REF-0233
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

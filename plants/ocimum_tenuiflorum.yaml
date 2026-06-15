@@ -1,60 +1,147 @@
+id: ocimum-tenuiflorum
+scientific_name: Ocimum tenuiflorum
 common_names:
 - Holy Basil
 - Tulsi
 - Sacred basil
-scientific_name: Ocimum tenuiflorum
 family: Lamiaceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
-    reference_ids:
-    - REF-0466
-    status: verified
-  - action: Cognitive support - a placebo-controlled study in healthy adults found improved reaction time
-      and accuracy and shorter P300 latency
-    reference_ids:
-    - REF-0596
-    status: needs-review
-  - action: Supports blood-sugar control (lowers fasting and post-meal glucose)
-    reference_ids:
-    - REF-0466
-    status: verified
-  - action: Immunomodulatory / immune support
-    reference_ids:
-    - REF-0466
-    - REF-0467
-    status: verified
-  - action: Antioxidant and anti-inflammatory
-    reference_ids:
-    - REF-0467
-    status: verified
+- Leaf
 constituents:
 - name: Volatile oil rich in eugenol
+  compounds:
+  - essential-oil
+  - eugenol
   note: The principal aromatic constituent, with anti-inflammatory and antimicrobial activity.
   reference_ids:
   - REF-0467
 - name: Ursolic acid, rosmarinic acid, apigenin and luteolin
+  compounds:
+  - rosmarinic-acid
+  - apigenin
+  - luteolin
   note: Antioxidant and adaptogenic constituents.
   reference_ids:
   - REF-0467
+actions:
+- action: adaptogen
+  note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
+  reference_ids:
+  - REF-0466
+  status: verified
+- action: anti-inflammatory
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0467
+  status: verified
+- action: antioxidant
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0467
+  status: verified
+- action: immunomodulator
+  note: Immunomodulatory / immune support
+  reference_ids:
+  - REF-0466
+  - REF-0467
+  status: verified
+- action: neuroprotective
+  note: Cognitive support - a placebo-controlled study in healthy adults found improved reaction time
+    and accuracy and shorter P300 latency
+  reference_ids:
+  - REF-0596
+  status: needs-review
+indications:
+- condition: anxiety
+  evidence: 3
+  note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
+  reference_ids:
+  - REF-0466
+  status: verified
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0467
+  status: needs-review
+- condition: blood-sugar
+  evidence: 3
+  note: Supports blood-sugar control (lowers fasting and post-meal glucose)
+  reference_ids:
+  - REF-0466
+  status: verified
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0596
+  status: needs-review
+- condition: cold
+  evidence: 2
+  note: inferred from immunomodulator action
+  reference_ids:
+  - REF-0466
+  - REF-0467
+  status: needs-review
+- condition: fatigue
+  evidence: 2
+  note: inferred from adaptogen action
+  reference_ids:
+  - REF-0466
+  status: needs-review
+- condition: immune-support
+  evidence: 3
+  note: Immunomodulatory / immune support
+  reference_ids:
+  - REF-0466
+  - REF-0467
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0467
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0596
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0467
+  status: needs-review
+- condition: stress
+  evidence: 3
+  note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
+  reference_ids:
+  - REF-0466
+  status: verified
 contraindications:
 - note: Generally well tolerated; mild nausea has been reported. Its blood-sugar-lowering effect means
     caution alongside antidiabetic medicines.
+  severity: caution
   reference_ids:
   - REF-0466
   status: verified
 - note: Animal studies suggest mild anti-fertility and antiplatelet effects, so avoid medicinal doses
     when pregnant or trying to conceive, and before surgery.
+  severity: caution
   reference_ids:
   - REF-0466
   - REF-0467
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
+provenance: website+pubmed
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
   Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum
   = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
-  anxiety, blood-sugar, immune-support); now fully part-mapped and cited. Further enriched 2026-06-14 with
-  a PubMed-sourced placebo-controlled study of holy basil leaf extract reporting improved cognitive parameters
-  (reaction time, accuracy, P300 latency) in healthy adults (REF-0596; small single trial, hence needs-review).
-last_updated: '2026-06-14'
-status: verified
+  anxiety, blood-sugar, immune-support); now fully part-mapped and cited. Further enriched 2026-06-14
+  with a PubMed-sourced placebo-controlled study of holy basil leaf extract reporting improved cognitive
+  parameters (reaction time, accuracy, P300 latency) in healthy adults (REF-0596; small single trial,
+  hence needs-review). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds).'

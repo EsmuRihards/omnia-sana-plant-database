@@ -1,91 +1,301 @@
+id: angelica-archangelica
+scientific_name: Angelica archangelica
 common_names:
 - Angelica
 - Garden angelica
 - Wild celery
 - Norwegian angelica
 - Angel plant
-scientific_name: Angelica archangelica
 family: Apiaceae
 parts_used:
-- name: Root
-  medicinal_actions:
-  - action: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
-    reference_ids:
-    - REF-0396
-    status: verified
-  - action: Anti-inflammatory and gastroprotective
-    reference_ids:
-    - REF-0396
-    - REF-0397
-    - REF-0695
-    - REF-0696
-    status: verified
-  - action: Diaphoretic / expectorant support during colds
-    reference_ids:
-    - REF-0396
-    status: verified
-- name: Fruit and seed
-  medicinal_actions:
-  - action: Anxiolytic / sedative (anxiety, nervous tension)
-    reference_ids:
-    - REF-0396
-    - REF-0695
-    status: verified
-  - action: Anticonvulsant and cognition-supporting (preclinical)
-    reference_ids:
-    - REF-0396
-    - REF-0695
-    - REF-0696
-    - REF-0697
-    status: verified
-- name: Leaf (standardised extract)
-  medicinal_actions:
-  - action: Overactive bladder - a pilot RCT of an Angelica archangelica leaf extract reduced daytime voids
-      and storage symptoms and improved quality of life, with near-significant benefit for nocturia
-    reference_ids:
-    - REF-0615
-    status: needs-review
+- Root
+- Fruit and seed
+- Leaf (standardised extract)
 constituents:
 - name: Coumarins and furanocoumarins
+  compounds:
+  - coumarin
   note: Including columbianetin, angelicin, imperatorin and xanthotoxin.
   reference_ids:
   - REF-0396
   - REF-0397
 - name: Essential (volatile) oil
+  compounds:
+  - essential-oil
+  - terpene
   note: Rich in monoterpenes such as alpha-pinene and beta-phellandrene; gives the aromatic, carminative
     character.
   reference_ids:
   - REF-0396
   - REF-0698
 - name: Phenolic acids and flavonoids
+  compounds:
+  - phenolic-acid
+  - flavonoid
   note: Antioxidant constituents.
   reference_ids:
   - REF-0396
   - REF-0699
+actions:
+- action: anti-inflammatory
+  parts:
+  - Root
+  note: Anti-inflammatory and gastroprotective
+  reference_ids:
+  - REF-0396
+  - REF-0397
+  - REF-0695
+  - REF-0696
+  status: verified
+- action: anticonvulsant
+  parts:
+  - Fruit and seed
+  note: Anticonvulsant and cognition-supporting (preclinical)
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  - REF-0696
+  - REF-0697
+  status: verified
+- action: anxiolytic
+  parts:
+  - Fruit and seed
+  note: Anxiolytic / sedative (anxiety, nervous tension)
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  status: verified
+- action: bitter-tonic
+  parts:
+  - Root
+  note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
+  reference_ids:
+  - REF-0396
+  status: verified
+- action: carminative
+  parts:
+  - Root
+  note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
+  reference_ids:
+  - REF-0396
+  status: verified
+- action: diaphoretic
+  parts:
+  - Root
+  note: Diaphoretic / expectorant support during colds
+  reference_ids:
+  - REF-0396
+  status: verified
+- action: digestive
+  parts:
+  - Root
+  note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
+  reference_ids:
+  - REF-0396
+  status: verified
+- action: expectorant
+  parts:
+  - Root
+  note: Diaphoretic / expectorant support during colds
+  reference_ids:
+  - REF-0396
+  status: verified
+- action: gastroprotective
+  parts:
+  - Root
+  note: Anti-inflammatory and gastroprotective
+  reference_ids:
+  - REF-0396
+  - REF-0397
+  - REF-0695
+  - REF-0696
+  status: verified
+- action: neuroprotective
+  parts:
+  - Fruit and seed
+  note: Anticonvulsant and cognition-supporting (preclinical)
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  - REF-0696
+  - REF-0697
+  status: verified
+- action: sedative
+  parts:
+  - Fruit and seed
+  note: Anxiolytic / sedative (anxiety, nervous tension)
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  status: verified
+indications:
+- condition: acid-reflux
+  evidence: 2
+  note: inferred from gastroprotective action
+  reference_ids:
+  - REF-0396
+  - REF-0397
+  - REF-0695
+  - REF-0696
+  status: needs-review
+- condition: anxiety
+  evidence: 3
+  note: Anxiolytic / sedative (anxiety, nervous tension)
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  status: verified
+- condition: appetite-loss
+  evidence: 2
+  note: inferred from bitter-tonic action
+  reference_ids:
+  - REF-0396
+  status: needs-review
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0396
+  - REF-0397
+  - REF-0695
+  - REF-0696
+  status: needs-review
+- condition: bloating
+  evidence: 3
+  note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
+  reference_ids:
+  - REF-0396
+  status: verified
+- condition: bronchitis
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0396
+  status: needs-review
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  - REF-0696
+  - REF-0697
+  status: needs-review
+- condition: cold
+  evidence: 3
+  note: Diaphoretic / expectorant support during colds
+  reference_ids:
+  - REF-0396
+  status: verified
+- condition: cough
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0396
+  status: needs-review
+- condition: fever
+  evidence: 2
+  note: inferred from diaphoretic action
+  reference_ids:
+  - REF-0396
+  status: needs-review
+- condition: indigestion
+  evidence: 3
+  note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
+  reference_ids:
+  - REF-0396
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0396
+  - REF-0397
+  - REF-0695
+  - REF-0696
+  status: needs-review
+- condition: insomnia
+  evidence: 2
+  note: inferred from sedative action
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  - REF-0696
+  - REF-0697
+  status: needs-review
+- condition: nervous-tension
+  evidence: 3
+  note: Anxiolytic / sedative (anxiety, nervous tension)
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  status: verified
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0396
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0396
+  - REF-0397
+  - REF-0695
+  - REF-0696
+  status: needs-review
+- condition: stress
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0396
+  - REF-0695
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: Overactive bladder - a pilot RCT of an Angelica archangelica leaf extract reduced daytime voids
+    and storage symptoms and improved quality of life, with near-significant benefit for nocturia
+  reference_ids:
+  - REF-0615
+  status: needs-review
 contraindications:
 - note: Contains furanocoumarins, which can cause photosensitivity; avoid excessive sun or UV exposure
     while using the herb medicinally.
+  severity: caution
   reference_ids:
   - REF-0396
   status: verified
 - note: Medicinal doses should be avoided during pregnancy and breastfeeding.
+  severity: caution
   reference_ids:
   - REF-0396
   status: verified
 - note: Coumarin constituents may interact with anticoagulant medicines, and furanocoumarins with photosensitising
     drugs; when wild-harvesting, take great care to distinguish garden angelica from poisonous Apiaceae
     look-alikes such as hemlock.
+  severity: caution
   reference_ids:
   - REF-0396
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica;
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-15'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica;
   review of its coumarin columbianetin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited.
   Further enriched 2026-06-14 with a PubMed-sourced pilot randomized controlled trial of Angelica archangelica
-  leaf extract for overactive bladder (REF-0615; reduced daytime voids and storage symptoms, improved quality
-  of life) - added as a new leaf-part action, needs-review pending larger trials. Further enriched 2026-06-15
-  with five PubMed sources (REF-0695..REF-0699) - a phytochemistry/pharmacology review (REF-0695), a fibromyalgia
-  model showing anti-inflammatory and cognition benefit (REF-0696), an anticonvulsant screen (REF-0697),
-  a terpene-synthase/volatile-oil study (REF-0698) and an antioxidant study (REF-0699).
-last_updated: '2026-06-15'
-status: verified
+  leaf extract for overactive bladder (REF-0615; reduced daytime voids and storage symptoms, improved
+  quality of life) - added as a new leaf-part action, needs-review pending larger trials. Further enriched
+  2026-06-15 with five PubMed sources (REF-0695..REF-0699) - a phytochemistry/pharmacology review (REF-0695),
+  a fibromyalgia model showing anti-inflammatory and cognition benefit (REF-0696), an anticonvulsant screen
+  (REF-0697), a terpene-synthase/volatile-oil study (REF-0698) and an antioxidant study (REF-0699). |
+  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

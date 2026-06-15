@@ -1,53 +1,154 @@
+id: acorus-calamus
+scientific_name: Acorus calamus
 common_names:
 - Sweet Flag
 - Calamus
 - Sweet sedge
 - Sweet root
-scientific_name: Acorus calamus
 family: Acoraceae
 parts_used:
-- name: Rhizome
-  medicinal_actions:
-  - action: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
-    reference_ids:
-    - REF-0516
-    status: needs-review
-  - action: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
-      and antidepressant-like activity)
-    reference_ids:
-    - REF-0516
-    - REF-0624
-    status: needs-review
+- Rhizome
 constituents:
 - name: Phenylpropanoid asarones (alpha- and beta-asarone)
+  compounds:
+  - asarone
   note: Characteristic aromatic constituents - but beta-asarone is the toxic, safety-limiting compound.
   reference_ids:
   - REF-0515
   - REF-0516
 - name: Essential oil and lignans
+  compounds:
+  - essential-oil
+  - lignan
   note: Other aromatic and bioactive constituents of the rhizome.
   reference_ids:
   - REF-0516
+actions:
+- action: anticonvulsant
+  note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
+    and antidepressant-like activity)
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+- action: antidepressant
+  note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
+    and antidepressant-like activity)
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+- action: anxiolytic
+  note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
+    and antidepressant-like activity)
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+- action: bitter-tonic
+  note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
+  reference_ids:
+  - REF-0516
+  status: needs-review
+- action: carminative
+  note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
+  reference_ids:
+  - REF-0516
+  status: needs-review
+- action: neuroprotective
+  note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
+    and antidepressant-like activity)
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+indications:
+- condition: anxiety
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+- condition: appetite-loss
+  evidence: 2
+  note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
+  reference_ids:
+  - REF-0516
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
+  reference_ids:
+  - REF-0516
+  status: needs-review
+- condition: cognitive-function
+  evidence: 2
+  note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
+    and antidepressant-like activity)
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+- condition: depression
+  evidence: 2
+  note: inferred from antidepressant action
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
+  reference_ids:
+  - REF-0516
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
+    and antidepressant-like activity)
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+- condition: nervous-tension
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
+- condition: stress
+  evidence: 2
+  note: inferred from anxiolytic action
+  reference_ids:
+  - REF-0516
+  - REF-0624
+  status: needs-review
 contraindications:
 - note: 'SERIOUS: beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies. Regulators
     have restricted internal use of asarone-containing Acorus calamus (the Asian high-beta-asarone varieties),
     and it is banned as a food additive in the USA. Avoid internal use except properly characterised beta-asarone-free
     preparations.'
+  severity: serious
   reference_ids:
   - REF-0515
   - REF-0516
   status: verified
 - note: Do not use in pregnancy or breastfeeding, or for prolonged periods. The North American variety
     (Acorus americanus) is essentially beta-asarone-free, but most commercial calamus is not.
+  severity: caution
   reference_ids:
   - REF-0515
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Applied Toxicology asarone
+provenance: website+pubmed+symptom-tool
+status: needs-review
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Applied Toxicology asarone
   toxicology review; Phytochemistry systematic review). Record status set to needs-review because beta-asarone
   carries documented carcinogenicity and regulatory restrictions. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss); associations
-  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced review of Acorus
-  calamus in neurological and metabolic disorders (REF-0624) supporting the preclinical nervine/neuroprotective
-  activity.
-last_updated: '2026-06-14'
-status: needs-review
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced review of
+  Acorus calamus in neurological and metabolic disorders (REF-0624) supporting the preclinical nervine/neuroprotective
+  activity. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds).'

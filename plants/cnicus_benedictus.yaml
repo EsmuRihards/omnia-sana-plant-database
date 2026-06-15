@@ -1,64 +1,153 @@
+id: cnicus-benedictus
+scientific_name: Cnicus benedictus
 common_names:
 - Blessed Thistle
 - Holy thistle
 - St Benedict's thistle
 - Spotted thistle
-scientific_name: Cnicus benedictus
 family: Asteraceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric
-      secretion)
-    reference_ids:
-    - REF-0419
-    - REF-0420
-    status: verified
-  - action: Appetite stimulant for loss of appetite (approved use under German Commission E)
-    reference_ids:
-    - REF-0420
-    - REF-0419
-    status: verified
-  - action: Galactagogue to support breast-milk supply (traditional; no valid clinical-trial evidence)
-    reference_ids:
-    - REF-0421
-    - REF-0420
-    status: needs-review
-  - action: Antimicrobial and anti-inflammatory (attributed to cnicin)
-    reference_ids:
-    - REF-0419
-    status: verified
+- Aerial parts (flowering herb)
 constituents:
 - name: Sesquiterpene lactones (cnicin, arctigenin, arctiin)
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
+  - arctigenin
   note: Cnicin is the principal bitter principle and main bioactive compound.
   reference_ids:
   - REF-0419
 - name: Flavonoids, lignans and tannins
+  compounds:
+  - flavonoid
+  - lignan
+  - tannin
   note: Additional antioxidant and astringent constituents.
   reference_ids:
   - REF-0419
 - name: Volatile oil
+  compounds:
+  - essential-oil
   note: Aromatic constituents of the herb.
   reference_ids:
   - REF-0419
+actions:
+- action: anti-inflammatory
+  note: Antimicrobial and anti-inflammatory (attributed to cnicin)
+  reference_ids:
+  - REF-0419
+  status: verified
+- action: antimicrobial
+  note: Antimicrobial and anti-inflammatory (attributed to cnicin)
+  reference_ids:
+  - REF-0419
+  status: verified
+- action: appetite-stimulant
+  note: Appetite stimulant for loss of appetite (approved use under German Commission E)
+  reference_ids:
+  - REF-0419
+  - REF-0420
+  status: verified
+- action: bitter-tonic
+  note: Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric secretion)
+  reference_ids:
+  - REF-0419
+  - REF-0420
+  status: verified
+- action: digestive
+  note: Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric secretion)
+  reference_ids:
+  - REF-0419
+  - REF-0420
+  status: verified
+- action: galactagogue
+  note: Galactagogue to support breast-milk supply (traditional; no valid clinical-trial evidence)
+  reference_ids:
+  - REF-0420
+  - REF-0421
+  status: needs-review
+indications:
+- condition: appetite-loss
+  evidence: 3
+  note: Appetite stimulant for loss of appetite (approved use under German Commission E)
+  reference_ids:
+  - REF-0419
+  - REF-0420
+  status: verified
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0419
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0419
+  - REF-0420
+  status: needs-review
+- condition: indigestion
+  evidence: 3
+  note: Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric secretion)
+  reference_ids:
+  - REF-0419
+  - REF-0420
+  status: verified
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0419
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0419
+  status: needs-review
+- condition: lactation-support
+  evidence: 2
+  note: Galactagogue to support breast-milk supply (traditional; no valid clinical-trial evidence)
+  reference_ids:
+  - REF-0420
+  - REF-0421
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0419
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0419
+  status: needs-review
 contraindications:
 - note: As a member of the daisy family (Asteraceae/ragweed), it can cause allergic reactions in sensitive
     people; high doses reportedly cause stomach cramps, nausea and vomiting.
+  severity: info
   reference_ids:
   - REF-0420
   status: verified
 - note: Avoid during pregnancy because of a traditional uterine-stimulating reputation.
+  severity: caution
   reference_ids:
   - REF-0420
   status: verified
 - note: Although traditionally used to support milk supply, there is no scientifically valid clinical
     evidence for the galactagogue use.
+  severity: info
   reference_ids:
   - REF-0421
   status: verified
-internal_notes: Enriched 2026-06-12 from scientific and general literature (Planta Medica review; Drugs.com
+provenance: website+symptom-tool
+status: verified
+last_updated: '2026-06-12'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Planta Medica review; Drugs.com
   and LactMed monographs). Cnicus benedictus = Centaurea benedicta. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, appetite-loss, lactation-support); associations
-  retained and now part-mapped and cited.
-last_updated: '2026-06-12'
-status: verified
+  retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
+  indications split out, constituents linked to compounds).'

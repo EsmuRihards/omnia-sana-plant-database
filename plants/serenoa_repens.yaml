@@ -1,57 +1,81 @@
+id: serenoa-repens
+scientific_name: Serenoa repens
 common_names:
 - Saw Palmetto
 - Sabal
 - Dwarf palmetto
-scientific_name: Serenoa repens
 family: Arecaceae
 parts_used:
-- name: Fruit (berry)
-  medicinal_actions:
-  - action: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
-      Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
-    reference_ids:
-    - REF-0504
-    - REF-0496
-    status: needs-review
-  - action: Standardised hexanic extract (Permixon) specifically - meta-analyses report reduced nocturia
-      and improved urinary flow versus placebo and efficacy comparable to tamsulosin and short-term finasteride,
-      with better sexual-function tolerability; this contrasts with the null finding for pooled mixed extracts
-    reference_ids:
-    - REF-0571
-    - REF-0572
-    status: needs-review
-  - action: General urinary support (traditional)
-    reference_ids:
-    - REF-0496
-    status: needs-review
+- Fruit (berry)
 constituents:
 - name: Fatty acids and phytosterols (beta-sitosterol)
+  compounds:
+  - phytosterol
   note: The lipid/sterol fraction proposed to act on the prostate.
   reference_ids:
   - REF-0496
 - name: Flavonoids
+  compounds:
+  - flavonoid
   note: Antioxidant constituents of the berry.
   reference_ids:
   - REF-0496
+indications:
+- condition: prostate-support
+  evidence: 4
+  note: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
+    Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
+  reference_ids:
+  - REF-0496
+  - REF-0504
+  status: needs-review
+- condition: urinary-support
+  evidence: 2
+  note: General urinary support (traditional); Lower urinary tract symptoms of benign prostatic hyperplasia
+    (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even
+    at double and triple doses
+  reference_ids:
+  - REF-0496
+  - REF-0504
+  status: needs-review
+- condition: uti
+  evidence: 2
+  note: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
+    Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
+  reference_ids:
+  - REF-0496
+  - REF-0504
+  status: needs-review
 contraindications:
 - note: Generally well tolerated; mild gastrointestinal upset is the most common effect. BPH must be medically
     diagnosed (to exclude prostate cancer), and because the best evidence does not show benefit, saw palmetto
     should not replace proven treatment.
+  severity: caution
   reference_ids:
   - REF-0504
   - REF-0496
   status: verified
 - note: Has mild anti-androgen and antiplatelet effects, so use caution with anticoagulant medicines and
     before surgery; avoid in pregnancy (hormonal activity).
+  severity: caution
   reference_ids:
   - REF-0496
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane systematic review/meta-analysis;
+references:
+- REF-0571
+- REF-0572
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane systematic review/meta-analysis;
   Canadian Journal of Urology review). High-quality evidence finds no benefit over placebo, reflected
   in needs-review action statuses. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (prostate-support, uti); associations retained and now part-mapped and cited. Further enriched
   2026-06-14 with two PubMed-sourced meta-analyses of the hexanic extract Permixon (REF-0571, REF-0572)
   reporting symptom benefit and good tolerability; these are extract-specific and partly industry-linked,
-  so the conflict with the pooled Cochrane null is flagged needs-review rather than overriding it.
-last_updated: '2026-06-14'
-status: verified
+  so the conflict with the pooled Cochrane null is flagged needs-review rather than overriding it. | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
+  Unmapped uses kept for reference: Standardised hexanic extract (Permixon) specifically - meta-analyses
+  report reduced nocturia and improved urinary flow versus placebo and efficacy comparable to tamsulosin
+  and short-term finasteride, with better sexual-function tolerability; this contrasts with the null finding
+  for pooled mixed extracts.'

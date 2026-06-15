@@ -1,75 +1,179 @@
+id: arnica-montana
+scientific_name: Arnica montana
 common_names:
 - Arnica
 - Mountain arnica
 - Leopard's bane
 - Wolf's bane
 - Mountain tobacco
-scientific_name: Arnica montana
 family: Asteraceae
 parts_used:
-- name: Flower head (topical preparations)
-  medicinal_actions:
-  - action: Topical anti-inflammatory for bruising, swelling and sprains
-    reference_ids:
-    - REF-0398
-    - REF-0399
-    status: verified
-  - action: Topical analgesic for muscle soreness and pain
-    reference_ids:
-    - REF-0398
-    - REF-0399
-    status: verified
-  - action: Antiecchymotic / vulnerary (helps disperse bruises)
-    reference_ids:
-    - REF-0398
-    status: verified
-  - action: Antimicrobial and antioxidant (in vitro)
-    reference_ids:
-    - REF-0398
-    status: verified
+- Flower head (topical preparations)
 constituents:
 - name: Sesquiterpene lactones (helenalin, dihydrohelenalin)
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
   note: The main anti-inflammatory principles; also responsible for the plant's toxicity and contact-allergy
     potential.
   reference_ids:
   - REF-0398
 - name: Flavonoids
+  compounds:
+  - flavonoid
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0398
 - name: Essential oil, phenolic acids and coumarins
+  compounds:
+  - phenolic-acid
+  - essential-oil
+  - coumarin
   note: Aromatic and supporting constituents of the flower.
   reference_ids:
   - REF-0398
 - name: Pyrrolizidine alkaloids (trace)
+  compounds:
+  - alkaloid
   note: Present in small amounts; relevant to the caution against internal use.
   reference_ids:
   - REF-0398
+actions:
+- action: analgesic
+  note: Topical analgesic for muscle soreness and pain
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: verified
+- action: anti-inflammatory
+  note: Topical anti-inflammatory for bruising, swelling and sprains
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: verified
+- action: antimicrobial
+  note: Antimicrobial and antioxidant (in vitro)
+  reference_ids:
+  - REF-0398
+  status: verified
+- action: antioxidant
+  note: Antimicrobial and antioxidant (in vitro)
+  reference_ids:
+  - REF-0398
+  status: verified
+- action: vulnerary
+  note: Antiecchymotic / vulnerary (helps disperse bruises)
+  reference_ids:
+  - REF-0398
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: needs-review
+- condition: bruising
+  evidence: 3
+  note: Antiecchymotic / vulnerary (helps disperse bruises); Topical anti-inflammatory for bruising, swelling
+    and sprains
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: verified
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: needs-review
+- condition: infection
+  evidence: 2
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-0398
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: needs-review
+- condition: muscle-soreness
+  evidence: 3
+  note: Topical analgesic for muscle soreness and pain
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: verified
+- condition: pain
+  evidence: 3
+  note: Topical analgesic for muscle soreness and pain
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: needs-review
+- condition: swelling
+  evidence: 3
+  note: Topical anti-inflammatory for bruising, swelling and sprains
+  reference_ids:
+  - REF-0398
+  - REF-0399
+  status: verified
+- condition: wounds
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0398
+  status: needs-review
 contraindications:
 - note: EXTERNAL USE ONLY on unbroken skin. Arnica is toxic if swallowed and can cause stomach pain, vomiting,
     diarrhoea, breathing difficulty, irregular heartbeat and, in serious cases, cardiac arrest; the only
     safe oral form is the highly diluted homeopathic preparation.
+  severity: info
   reference_ids:
   - REF-0400
   - REF-0398
   status: verified
 - note: Do not apply to broken or damaged skin, open wounds, eyes or mucous membranes.
+  severity: caution
   reference_ids:
   - REF-0400
   status: verified
 - note: As a member of the daisy family (Asteraceae) it can cause allergic contact dermatitis; prolonged
     topical use can also irritate the skin.
+  severity: info
   reference_ids:
   - REF-0398
   status: verified
 - note: Avoid medicinal use during pregnancy and breastfeeding.
+  severity: caution
   reference_ids:
   - REF-0400
   - REF-0399
   status: verified
+provenance: website+symptom-tool
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review,
   Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained
-  and now part-mapped and cited. NOTE: external use only - see contraindications.'
-last_updated: '2026-06-12'
-status: verified
+  and now part-mapped and cited. NOTE: external use only - see contraindications. | 2026-06-15: migrated
+  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

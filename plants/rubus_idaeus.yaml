@@ -1,34 +1,23 @@
+id: rubus-idaeus
+scientific_name: Rubus idaeus
 common_names:
 - Raspberry Leaf
 - Red raspberry
 - Garden raspberry
-scientific_name: Rubus idaeus
 family: Rosaceae
 parts_used:
-- name: Leaf
-  medicinal_actions:
-  - action: Traditional uterine tonic taken in late pregnancy to tone the uterus and support labour - one
-      small double-blind RCT found a shorter second stage of labour and fewer forceps deliveries (no effect
-      on the first stage), alongside observational signals; robust proof is still lacking
-    reference_ids:
-    - REF-0497
-    - REF-0498
-    - REF-0607
-    status: needs-review
-  - action: Astringent for menstrual cramps (traditional)
-    reference_ids:
-    - REF-0497
-    status: needs-review
-  - action: Astringent for mild diarrhoea (tannins)
-    reference_ids:
-    - REF-0497
-    status: needs-review
+- Leaf
 constituents:
 - name: Tannins
+  compounds:
+  - tannin
   note: Astringent constituents of the leaf.
   reference_ids:
   - REF-0497
 - name: Flavonoids and the alkaloid fragarine
+  compounds:
+  - flavonoid
+  - alkaloid
   note: Fragarine is the constituent proposed to give the uterine-toning effect.
   reference_ids:
   - REF-0497
@@ -36,14 +25,75 @@ constituents:
   note: Nutritive constituents.
   reference_ids:
   - REF-0497
+actions:
+- action: antidiarrheal
+  note: Astringent for mild diarrhoea (tannins)
+  reference_ids:
+  - REF-0497
+  status: needs-review
+- action: astringent
+  note: Astringent for menstrual cramps (traditional); Astringent for mild diarrhoea (tannins)
+  reference_ids:
+  - REF-0497
+  status: needs-review
+- action: emmenagogue
+  note: Traditional uterine tonic taken in late pregnancy to tone the uterus and support labour - one
+    small double-blind RCT found a shorter second stage of labour and fewer forceps deliveries (no effect
+    on the first stage), alongside observational signals; robust proof is still lacking
+  reference_ids:
+  - REF-0497
+  - REF-0498
+  - REF-0607
+  status: needs-review
+indications:
+- condition: diarrhea
+  evidence: 2
+  note: Astringent for mild diarrhoea (tannins)
+  reference_ids:
+  - REF-0497
+  status: needs-review
+- condition: menstrual-cramps
+  evidence: 2
+  note: Astringent for menstrual cramps (traditional)
+  reference_ids:
+  - REF-0497
+  status: needs-review
+- condition: pms
+  evidence: 2
+  note: inferred from emmenagogue action
+  reference_ids:
+  - REF-0497
+  - REF-0498
+  - REF-0607
+  status: needs-review
+- condition: pregnancy-support
+  evidence: 2
+  reference_ids: []
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0497
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0497
+  status: needs-review
 contraindications:
 - note: Despite widespread popular use, there is no robust (randomised-trial) evidence of efficacy or
     safety. Use in pregnancy should be discussed with a midwife or doctor and is generally reserved for
     the last few weeks rather than early pregnancy.
+  severity: caution
   reference_ids:
   - REF-0497
   - REF-0498
   status: verified
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   observational study; ANZJOG survey). Evidence is weak/observational, reflected in needs-review action
   statuses. Note: distinct from the book''s Rubus fruticosus (blackberry leaf). Originally a skeleton
@@ -51,6 +101,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with the PubMed-sourced
   double-blind RCT by Simpson et al. (REF-0607; n=192, shorter second stage of labour and fewer forceps
   deliveries, no effect on first stage, no adverse effects) - the action remains needs-review given the
-  single small trial.'
-last_updated: '2026-06-14'
-status: verified
+  single small trial. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
+  constituents linked to compounds).'

@@ -1,33 +1,16 @@
+id: marrubium-vulgare
+scientific_name: Marrubium vulgare
 common_names:
 - Horehound
 - White horehound
 - Common horehound
-scientific_name: Marrubium vulgare
 family: Lamiaceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis
-    reference_ids:
-    - REF-0468
-    - REF-0469
-    status: verified
-  - action: Soothes sore throat (traditional)
-    reference_ids:
-    - REF-0468
-    - REF-0469
-    status: verified
-  - action: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of
-      appetite
-    reference_ids:
-    - REF-0468
-    status: verified
-  - action: Antispasmodic (traditional use in whooping cough)
-    reference_ids:
-    - REF-0469
-    status: needs-review
+- Aerial parts (flowering herb)
 constituents:
 - name: Labdane diterpene marrubiin
+  compounds:
+  - terpene
   note: The characteristic bitter principle (pharmacopoeial material contains at least 0.7%); drives the
     expectorant and digestive actions. A phytochemical/pharmacological overview identifies marrubiin and
     the phenolic fraction as the basis for antioxidant, anti-inflammatory and antimicrobial activity.
@@ -36,30 +19,122 @@ constituents:
   - REF-0469
   - REF-0603
 - name: Flavonoids and phenylethanoid esters (e.g. verbascoside)
+  compounds:
+  - verbascoside
+  - flavonoid
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0468
   - REF-0469
 - name: Tannins and volatile oil
+  compounds:
+  - essential-oil
+  - tannin
   note: Astringent and aromatic constituents of the herb.
   reference_ids:
   - REF-0469
+actions:
+- action: antispasmodic
+  note: Antispasmodic (traditional use in whooping cough)
+  reference_ids:
+  - REF-0469
+  status: needs-review
+- action: bitter-tonic
+  note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
+  reference_ids:
+  - REF-0468
+  status: verified
+- action: digestive
+  note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
+  reference_ids:
+  - REF-0468
+  status: verified
+- action: expectorant
+  note: Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis
+  reference_ids:
+  - REF-0468
+  - REF-0469
+  status: verified
+indications:
+- condition: appetite-loss
+  evidence: 3
+  note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
+  reference_ids:
+  - REF-0468
+  status: verified
+- condition: bloating
+  evidence: 3
+  note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
+  reference_ids:
+  - REF-0468
+  status: verified
+- condition: bronchitis
+  evidence: 3
+  note: Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis
+  reference_ids:
+  - REF-0468
+  - REF-0469
+  status: verified
+- condition: cough
+  evidence: 3
+  note: Antispasmodic (traditional use in whooping cough); Expectorant for productive cough and catarrh
+    of the upper respiratory tract / bronchitis
+  reference_ids:
+  - REF-0468
+  - REF-0469
+  status: needs-review
+- condition: indigestion
+  evidence: 3
+  note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
+  reference_ids:
+  - REF-0468
+  status: verified
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0469
+  status: needs-review
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0469
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0468
+  - REF-0469
+  status: needs-review
+- condition: sore-throat
+  evidence: 2
+  note: Soothes sore throat (traditional)
+  reference_ids:
+  - REF-0468
+  - REF-0469
+  status: verified
 contraindications:
 - note: As a strong bitter it may aggravate hyperacidity; theoretical caution in peptic ulcer. Large amounts
     have shown effects on heart rhythm and blood pressure in studies, so avoid excessive intake.
+  severity: caution
   reference_ids:
   - REF-0468
   status: verified
 - note: Traditional use only; a cough or digestive complaint that persists needs medical assessment. Use
     in pregnancy and breastfeeding is not recommended.
+  severity: caution
   reference_ids:
   - REF-0468
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Marrubii herba; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, bloating); associations retained and now part-mapped and
-  cited. Further enriched 2026-06-14 with a PubMed-sourced phytochemical and pharmacological overview of
-  Marrubium vulgare (REF-0603) supporting the marrubiin-driven expectorant/digestive actions and its antioxidant,
-  anti-inflammatory and antimicrobial activity.
-last_updated: '2026-06-14'
-status: verified
+  cited. Further enriched 2026-06-14 with a PubMed-sourced phytochemical and pharmacological overview
+  of Marrubium vulgare (REF-0603) supporting the marrubiin-driven expectorant/digestive actions and its
+  antioxidant, anti-inflammatory and antimicrobial activity. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

@@ -1,44 +1,103 @@
+id: theobroma-cacao
+scientific_name: Theobroma cacao
 common_names:
 - Cacao
 - Cocoa
 - Chocolate tree
 - Cocoa bean
-scientific_name: Theobroma cacao
 family: Malvaceae
 parts_used:
-- name: Fruit / Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0131
-    - REF-0167
-    - REF-0249
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0131
-    - REF-0167
-    - REF-0249
-    status: verified
-  - action: Cardiovascular Health
-    reference_ids:
-    - REF-0131
-    - REF-0167
-    - REF-0249
-    status: verified
-  - action: Cognitive support
-    reference_ids:
-    - REF-0131
-    - REF-0167
-    - REF-0249
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0131
-    - REF-0167
-    - REF-0249
-    status: verified
-constituents: []
+- Fruit
+- Seed
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: needs-review
+- condition: cardiovascular-support
+  evidence: 3
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: verified
+- condition: cognitive-function
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: needs-review
+- condition: memory
+  evidence: 2
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0131
+  - REF-0167
+  - REF-0249
+  status: needs-review
 contraindications:
 - note: '• Stimulant effect (most common issue): cacao naturally contains theobromine (and some caffeine).
     In larger amounts it can feel like a “gentle coffee”: faster heartbeat, restlessness, trouble sleeping.
@@ -53,6 +112,7 @@ contraindications:
     trigger migraines in some people, or cause nausea—especially in strong ceremonial-style servings.
     • Medication caution: if you take stimulant-sensitive meds, have heart rhythm issues, severe anxiety,
     or use MAOI antidepressants, treat high-dose cacao drinks like a stimulant and be cautious'
+  severity: caution
   reference_ids:
   - REF-0131
   - REF-0167
@@ -64,14 +124,17 @@ contraindications:
     as emollient (score 1). Chocolate's content of phenylethylamine may contribute to reported aphrodisiac
     properties. Duke notes that excessive consumption may be cariogenic and pro-acneic, and cocoa is a
     known allergen in sensitive individuals (Duke, 2002).
+  severity: info
   reference_ids:
   - REF-0131
   - REF-0167
   - REF-0249
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

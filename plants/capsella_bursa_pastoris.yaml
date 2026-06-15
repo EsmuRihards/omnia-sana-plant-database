@@ -1,30 +1,17 @@
+id: capsella-bursa-pastoris
+scientific_name: Capsella bursa-pastoris
 common_names:
 - Shepherd's Purse
 - Shepherd's bag
 - Mother's heart
-scientific_name: Capsella bursa-pastoris
 family: Brassicaceae
 parts_used:
-- name: Aerial parts (flowering herb)
-  medicinal_actions:
-  - action: Haemostatic / styptic - reduces heavy menstrual bleeding (menorrhagia); also used for nosebleeds
-      and postpartum bleeding. In a randomized clinical trial, Capsella bursa-pastoris added to mefenamic
-      acid reduced menstrual blood loss significantly more than mefenamic acid alone
-    reference_ids:
-    - REF-0508
-    - REF-0507
-    - REF-0608
-    status: verified
-  - action: Astringent / styptic for minor wounds (helps stop bleeding, topical)
-    reference_ids:
-    - REF-0507
-    status: verified
-  - action: Tones the uterus and eases menstrual flow and cramps (traditional)
-    reference_ids:
-    - REF-0507
-    status: needs-review
+- Aerial parts (flowering herb)
 constituents:
 - name: Flavonoids and tannins
+  compounds:
+  - flavonoid
+  - tannin
   note: Astringent constituents underlying the styptic action.
   reference_ids:
   - REF-0507
@@ -32,22 +19,88 @@ constituents:
   note: Constituents linked to its blood-clotting (haemostatic) effect.
   reference_ids:
   - REF-0507
+actions:
+- action: astringent
+  note: Astringent / styptic for minor wounds (helps stop bleeding, topical)
+  reference_ids:
+  - REF-0507
+  status: verified
+- action: emmenagogue
+  note: Tones the uterus and eases menstrual flow and cramps (traditional)
+  reference_ids:
+  - REF-0507
+  status: needs-review
+- action: styptic
+  note: Astringent / styptic for minor wounds (helps stop bleeding, topical); Haemostatic / styptic -
+    reduces heavy menstrual bleeding (menorrhagia); also used for nosebleeds and postpartum bleeding.
+    In a randomized clinical trial, Capsella bursa-pastoris added to mefenamic acid reduced menstrual
+    blood loss significantly more than mefenamic acid alone
+  reference_ids:
+  - REF-0507
+  - REF-0508
+  - REF-0608
+  status: verified
+indications:
+- condition: diarrhea
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0507
+  status: needs-review
+- condition: heavy-bleeding
+  evidence: 4
+  note: Haemostatic / styptic - reduces heavy menstrual bleeding (menorrhagia); also used for nosebleeds
+    and postpartum bleeding. In a randomized clinical trial, Capsella bursa-pastoris added to mefenamic
+    acid reduced menstrual blood loss significantly more than mefenamic acid alone
+  reference_ids:
+  - REF-0507
+  - REF-0508
+  - REF-0608
+  status: verified
+- condition: menstrual-cramps
+  evidence: 2
+  note: Tones the uterus and eases menstrual flow and cramps (traditional)
+  reference_ids:
+  - REF-0507
+  status: needs-review
+- condition: pms
+  evidence: 2
+  note: inferred from emmenagogue action
+  reference_ids:
+  - REF-0507
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from astringent action
+  reference_ids:
+  - REF-0507
+  status: needs-review
+- condition: wounds
+  evidence: 3
+  note: Astringent / styptic for minor wounds (helps stop bleeding, topical)
+  reference_ids:
+  - REF-0507
+  status: verified
 contraindications:
 - note: Avoid during pregnancy (it stimulates the uterus). Any heavy or abnormal bleeding needs medical
     evaluation to identify the cause - do not self-treat without assessment.
+  severity: caution
   reference_ids:
   - REF-0507
   status: verified
 - note: May affect blood pressure and heart rhythm, so use caution with cardiac, blood-pressure, anticoagulant,
     thyroid and sedative medicines.
+  severity: caution
   reference_ids:
   - REF-0507
   status: needs-review
-internal_notes: Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph;
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph;
   ESCOP note citing an RCT showing reduced menstrual blood loss). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 by citing that RCT directly - the
   PubMed-sourced triple-blind trial by Naafe et al. (REF-0608) in which Capsella bursa-pastoris significantly
-  reduced heavy menstrual bleeding (PBLAC score) versus control.
-last_updated: '2026-06-14'
-status: verified
+  reduced heavy menstrual bleeding (PBLAC score) versus control. | 2026-06-15: migrated to entity schema
+  (actions->vocab ids, indications split out, constituents linked to compounds).'

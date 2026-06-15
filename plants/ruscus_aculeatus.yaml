@@ -1,60 +1,109 @@
+id: ruscus-aculeatus
+scientific_name: Ruscus aculeatus
 common_names:
 - Butcher's Broom
 - Knee holly
 - Box holly
 - Sweet broom
-scientific_name: Ruscus aculeatus
 family: Asparagaceae
 parts_used:
-- name: Rhizome (underground parts)
-  medicinal_actions:
-  - action: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen
-      legs and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl
-      chalcone and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo
-    reference_ids:
-    - REF-0424
-    - REF-0425
-    - REF-0595
-    status: verified
-  - action: Anti-oedematous (reduces leg swelling)
-    reference_ids:
-    - REF-0424
-    - REF-0425
-    status: verified
-  - action: Relief of haemorrhoid symptoms
-    reference_ids:
-    - REF-0425
-    - REF-0424
-    status: verified
-  - action: Supports orthostatic (postural) hypotension (traditional)
-    reference_ids:
-    - REF-0424
-    status: needs-review
+- Rhizome (underground parts)
 constituents:
 - name: Steroidal saponins (spirostanol and furostanol)
+  compounds:
+  - saponin
   note: Aglycones ruscogenin and neoruscogenin carry the vasoconstrictive and venotonic activity.
   reference_ids:
   - REF-0424
 - name: Phytosterols and flavonoids
+  compounds:
+  - phytosterol
+  - flavonoid
   note: Supporting constituents of the rhizome.
   reference_ids:
   - REF-0424
+actions:
+- action: anti-oedematous
+  note: Anti-oedematous (reduces leg swelling)
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  status: verified
+- action: venotonic
+  note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
+    and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone
+    and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  - REF-0595
+  status: verified
+indications:
+- condition: hemorrhoids
+  evidence: 3
+  note: Relief of haemorrhoid symptoms
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  status: verified
+- condition: menstrual-cramps
+  evidence: 4
+  note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
+    and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone
+    and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  - REF-0595
+  status: verified
+- condition: pain
+  evidence: 4
+  note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
+    and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone
+    and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  - REF-0595
+  status: verified
+- condition: swelling
+  evidence: 3
+  note: Anti-oedematous (reduces leg swelling)
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  status: verified
+- condition: varicose-veins
+  evidence: 4
+  note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
+    and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone
+    and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  - REF-0595
+  status: verified
 contraindications:
 - note: Generally well tolerated; occasional mild gastrointestinal upset is the main reported effect.
+  severity: info
   reference_ids:
   - REF-0424
   - REF-0425
   status: verified
 - note: Because it is vasoconstrictive, use with caution if you have high blood pressure or take circulatory
     medicines; safety in pregnancy and breastfeeding is not established, so avoid medicinal doses.
+  severity: caution
   reference_ids:
   - REF-0424
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Planta Medica phytochemical review; Polski
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica phytochemical review; Polski
   Merkuriusz Lekarski venous-insufficiency review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids); associations retained and now
   part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced meta-analysis (25 trials, ~10,000
   subjects) of the Ruscus-based combination Cyclo 3 Fort in chronic venous insufficiency (REF-0595); note
-  it tests Ruscus combined with hesperidin methyl chalcone and ascorbic acid, not Ruscus alone.
-last_updated: '2026-06-14'
-status: verified
+  it tests Ruscus combined with hesperidin methyl chalcone and ascorbic acid, not Ruscus alone. | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
+  Unmapped uses kept for reference: Supports orthostatic (postural) hypotension (traditional).'

@@ -1,59 +1,135 @@
+id: arctium-lappa
+scientific_name: Arctium lappa
 common_names:
 - Greater Burdock
 - burdock
 - gobo
-scientific_name: Arctium lappa
 family: Asteraceae
 parts_used:
-- name: Leaf / Root / Seed
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0211
-    - REF-0309
-    - REF-0313
-    - REF-0705
-    - REF-0706
-    - REF-0709
-    status: verified
-  - action: Antioxidant
-    reference_ids:
-    - REF-0211
-    - REF-0309
-    - REF-0313
-    - REF-0705
-    - REF-0706
-    - REF-0708
-    status: verified
-  - action: Digestive Aid
-    reference_ids:
-    - REF-0211
-    - REF-0309
-    - REF-0313
-    - REF-0706
-    - REF-0707
-    status: verified
-  - action: Skin-soothing
-    reference_ids:
-    - REF-0211
-    - REF-0309
-    - REF-0313
-    - REF-0705
-    - REF-0709
-    status: verified
+- Leaf
+- Root
+- Seed
 constituents:
 - name: Inulin-type fructans and caffeoylquinic acids
-  note: Burdock root is a rich source of prebiotic inulin-type fructans (fructooligosaccharides) along with
-    chlorogenic and caffeic acids, the lignans arctiin and arctigenin, cynarine and quercetin, which underlie
-    its antioxidant, anti-inflammatory and gut-supporting activity.
+  compounds:
+  - chlorogenic-acid
+  - caffeic-acid
+  - arctigenin
+  - quercetin
+  - polysaccharide
+  - lignan
+  - inulin
+  note: Burdock root is a rich source of prebiotic inulin-type fructans (fructooligosaccharides) along
+    with chlorogenic and caffeic acids, the lignans arctiin and arctigenin, cynarine and quercetin, which
+    underlie its antioxidant, anti-inflammatory and gut-supporting activity.
   reference_ids:
   - REF-0706
   - REF-0707
   - REF-0709
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0705
+  - REF-0706
+  - REF-0709
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0705
+  - REF-0706
+  - REF-0708
+  status: verified
+- action: digestive
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0706
+  - REF-0707
+  status: verified
+- action: emollient
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0705
+  - REF-0709
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0705
+  - REF-0706
+  - REF-0709
+  status: needs-review
+- condition: bloating
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0706
+  - REF-0707
+  status: needs-review
+- condition: eczema
+  evidence: 2
+  note: inferred from emollient action
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0705
+  - REF-0709
+  status: needs-review
+- condition: indigestion
+  evidence: 2
+  note: inferred from digestive action
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0706
+  - REF-0707
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0705
+  - REF-0706
+  - REF-0709
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0211
+  - REF-0309
+  - REF-0313
+  - REF-0705
+  - REF-0706
+  - REF-0709
+  status: needs-review
 contraindications:
 - note: Generally safe as a food plant. Allergic reactions are possible in those sensitive to Asteraceae.
     Avoid in pregnancy due to uterine-stimulating effects reported in animal studies. The burs (seed heads)
     can cause mechanical irritation of skin and eyes on contact. Not recommended in biliary obstruction.
+  severity: caution
   reference_ids:
   - REF-0211
   - REF-0309
@@ -66,17 +142,21 @@ contraindications:
     general safety, though it belongs to the Asteraceae family and can trigger reactions in sensitive
     individuals. It should be distinguished from belladonna and similar plants, which resemble it in early
     growth (Duke, 2002).'
+  severity: serious
   reference_ids:
   - REF-0211
   - REF-0309
   - REF-0313
   status: verified
+provenance: book+pubmed
+status: verified
+last_updated: '2026-06-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources (REF-0705..REF-0709): two phytochemistry/pharmacology
-  reviews (REF-0705, REF-0709), a review of root inulin-type fructans and gastric-protective activity (REF-0706),
-  a diabetes-mechanism review (REF-0707) and a hepatoprotective antioxidant study (REF-0708); inulin and
-  caffeoylquinic-acid constituents added.'
-last_updated: '2026-06-15'
-status: verified
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources
+  (REF-0705..REF-0709): two phytochemistry/pharmacology reviews (REF-0705, REF-0709), a review of root
+  inulin-type fructans and gastric-protective activity (REF-0706), a diabetes-mechanism review (REF-0707)
+  and a hepatoprotective antioxidant study (REF-0708); inulin and caffeoylquinic-acid constituents added.
+  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
+  to compounds).'

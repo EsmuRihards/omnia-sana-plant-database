@@ -1,50 +1,136 @@
+id: schisandra-chinensis
+scientific_name: Schisandra chinensis
 common_names:
 - Schisandra
 - Five-flavour berry
 - Wu wei zi
 - Magnolia berry
-scientific_name: Schisandra chinensis
 family: Schisandraceae
 parts_used:
-- name: Fruit (berry)
-  medicinal_actions:
-  - action: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
-    reference_ids:
-    - REF-0506
-    - REF-0505
-    status: verified
-  - action: Hepatoprotective / liver support (antioxidant and mitoprotective)
-    reference_ids:
-    - REF-0505
-    - REF-0583
-    status: verified
-  - action: Cognitive-function support (concentration and mental performance)
-    reference_ids:
-    - REF-0506
-    - REF-0505
-    status: verified
-  - action: Antioxidant and anti-inflammatory
-    reference_ids:
-    - REF-0505
-    status: verified
-  - action: Relieves menopausal symptoms - hot flushes, sweating and palpitations (RCT)
-    reference_ids:
-    - REF-0582
-    status: verified
+- Fruit (berry)
 constituents:
 - name: Dibenzocyclooctadiene lignans (schisandrins, schisandrin B, gomisins)
+  compounds:
+  - lignan
   note: The principal active constituents responsible for the adaptogenic and hepatoprotective effects.
   reference_ids:
   - REF-0505
 - name: Flavonoids and phenolic acids
+  compounds:
+  - phenolic-acid
+  - flavonoid
   note: Antioxidant constituents of the berry.
   reference_ids:
   - REF-0505
+actions:
+- action: adaptogen
+  note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
+  reference_ids:
+  - REF-0505
+  - REF-0506
+  status: verified
+- action: anti-inflammatory
+  note: Antioxidant and anti-inflammatory
+  reference_ids:
+  - REF-0505
+  status: verified
+- action: antioxidant
+  note: Antioxidant and anti-inflammatory; Hepatoprotective / liver support (antioxidant and mitoprotective)
+  reference_ids:
+  - REF-0505
+  - REF-0583
+  status: verified
+- action: ergogenic
+  note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
+  reference_ids:
+  - REF-0505
+  - REF-0506
+  status: verified
+- action: hepatoprotective
+  note: Hepatoprotective / liver support (antioxidant and mitoprotective)
+  reference_ids:
+  - REF-0505
+  - REF-0583
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0505
+  status: needs-review
+- condition: cognitive-function
+  evidence: 3
+  note: Cognitive-function support (concentration and mental performance)
+  reference_ids:
+  - REF-0505
+  - REF-0506
+  status: verified
+- condition: detox
+  evidence: 2
+  note: inferred from hepatoprotective action
+  reference_ids:
+  - REF-0505
+  - REF-0583
+  status: needs-review
+- condition: fatigue
+  evidence: 3
+  note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
+  reference_ids:
+  - REF-0505
+  - REF-0506
+  status: verified
+- condition: hot-flashes
+  evidence: 4
+  note: Relieves menopausal symptoms - hot flushes, sweating and palpitations (RCT)
+  reference_ids:
+  - REF-0582
+  status: verified
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0505
+  status: needs-review
+- condition: liver-support
+  evidence: 3
+  note: Hepatoprotective / liver support (antioxidant and mitoprotective)
+  reference_ids:
+  - REF-0505
+  - REF-0583
+  status: verified
+- condition: menopause
+  evidence: 4
+  note: Relieves menopausal symptoms - hot flushes, sweating and palpitations (RCT)
+  reference_ids:
+  - REF-0582
+  status: verified
+- condition: muscle-soreness
+  evidence: 2
+  note: inferred from ergogenic action
+  reference_ids:
+  - REF-0505
+  - REF-0506
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0505
+  status: needs-review
+- condition: stress
+  evidence: 3
+  note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
+  reference_ids:
+  - REF-0505
+  - REF-0506
+  status: verified
 contraindications:
 - note: Generally well tolerated; mild gastrointestinal upset or heartburn can occur. It affects drug-metabolising
     enzymes and transporters - inhibition of CYP3A and P-glycoprotein is documented (with enzyme induction
     also reported on prolonged use) - so there is a real potential to alter the levels of co-administered
     medicines.
+  severity: info
   reference_ids:
   - REF-0506
   - REF-0505
@@ -52,14 +138,17 @@ contraindications:
   status: verified
 - note: Traditionally avoided in pregnancy (uterine-stimulant reputation) and in epilepsy, peptic ulcer
     and raised intracranial pressure.
+  severity: caution
   reference_ids:
   - REF-0506
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Antioxidants review of Schisandra; Nutrients
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Antioxidants review of Schisandra; Nutrients
   adaptogens review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (fatigue, stress, liver-support, cognitive-function); associations retained and now part-mapped
   and cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind RCT showing relief of menopausal
   symptoms (REF-0582) and a comprehensive ethnopharmacology/pharmacology review (REF-0583) that also documents
-  CYP3A and P-glycoprotein inhibition, refining the drug-interaction caution.
-last_updated: '2026-06-14'
-status: verified
+  CYP3A and P-glycoprotein inhibition, refining the drug-interaction caution. | 2026-06-15: migrated to
+  entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

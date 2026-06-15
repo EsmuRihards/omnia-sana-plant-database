@@ -1,61 +1,124 @@
+id: petasites-hybridus
+scientific_name: Petasites hybridus
 common_names:
 - Butterbur
 - Bog rhubarb
 - Pestilence wort
 - Umbrella plant
-scientific_name: Petasites hybridus
 family: Asteraceae
 parts_used:
-- name: Root/rhizome and leaf (standardised PA-free extract)
-  medicinal_actions:
-  - action: Migraine prophylaxis (reduces attack frequency; up to ~60% reduction vs placebo in a randomised
-      controlled trial of a standardised CO2 root extract)
-    reference_ids:
-    - REF-0426
-    - REF-0543
-    status: verified
-  - action: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
-      review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
-      allergic rhinitis)
-    reference_ids:
-    - REF-0426
-    - REF-0544
-    status: verified
-  - action: Headache relief
-    reference_ids:
-    - REF-0426
-    - REF-0543
-    status: verified
-  - action: Antispasmodic support in bronchial asthma
-    reference_ids:
-    - REF-0426
-    status: needs-review
+- Root
+- rhizome and leaf (standardised PA-free extract)
 constituents:
 - name: Sesquiterpenes (petasin and isopetasin)
+  compounds:
+  - sesquiterpene
   note: The anti-inflammatory and antispasmodic active principles; standardised in commercial extracts.
   reference_ids:
   - REF-0426
 - name: Pyrrolizidine alkaloids (PAs)
+  compounds:
+  - alkaloid
   note: Naturally present but hepatotoxic and carcinogenic; must be removed to make a safe product.
   reference_ids:
   - REF-0426
+actions:
+- action: antihistaminic
+  note: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
+    review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
+    allergic rhinitis)
+  reference_ids:
+  - REF-0426
+  - REF-0544
+  status: verified
+- action: antispasmodic
+  note: Antispasmodic support in bronchial asthma
+  reference_ids:
+  - REF-0426
+  status: needs-review
+- action: bronchodilator
+  note: Antispasmodic support in bronchial asthma
+  reference_ids:
+  - REF-0426
+  status: needs-review
+indications:
+- condition: allergy
+  evidence: 4
+  note: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
+    review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
+    allergic rhinitis)
+  reference_ids:
+  - REF-0426
+  - REF-0544
+  status: verified
+- condition: asthma
+  evidence: 2
+  note: Antispasmodic support in bronchial asthma
+  reference_ids:
+  - REF-0426
+  status: needs-review
+- condition: cough
+  evidence: 2
+  note: inferred from bronchodilator action
+  reference_ids:
+  - REF-0426
+  status: needs-review
+- condition: fever
+  evidence: 4
+  note: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
+    review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
+    allergic rhinitis)
+  reference_ids:
+  - REF-0426
+  - REF-0544
+  status: verified
+- condition: headache
+  evidence: 3
+  reference_ids:
+  - REF-0426
+  - REF-0543
+  status: verified
+- condition: menstrual-cramps
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0426
+  status: needs-review
+- condition: migraine
+  evidence: 4
+  note: Migraine prophylaxis (reduces attack frequency; up to ~60% reduction vs placebo in a randomised
+    controlled trial of a standardised CO2 root extract)
+  reference_ids:
+  - REF-0426
+  - REF-0543
+  status: verified
+- condition: muscle-spasm
+  evidence: 2
+  note: inferred from antispasmodic action
+  reference_ids:
+  - REF-0426
+  status: needs-review
 contraindications:
 - note: Use ONLY certified pyrrolizidine-alkaloid (PA)-free, standardised extracts. Raw or unprocessed
     butterbur contains PAs that are toxic to the liver and potentially carcinogenic.
+  severity: serious
   reference_ids:
   - REF-0426
   status: verified
 - note: Avoid during pregnancy and breastfeeding. As a member of the daisy family (Asteraceae), it can
     cause allergic reactions in people sensitive to ragweed and related plants. Watch for and report any
     signs of liver problems.
+  severity: caution
   reference_ids:
   - REF-0426
   status: verified
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in Review integrative-medicine
   review). Further enriched 2026-06-13 with two PubMed sources: a randomised placebo-controlled migraine-prophylaxis
   trial (REF-0543, Grossmann & Schmidramsl 2000) and a systematic review of herbal medicines for allergic
   rhinitis covering six butterbur RCTs (REF-0544, Guo et al. 2007). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (migraine, allergy, headache, asthma); associations retained
-  and now part-mapped and cited. CRITICAL: PA-free extracts only - see contraindications.'
-last_updated: '2026-06-13'
-status: verified
+  and now part-mapped and cited. CRITICAL: PA-free extracts only - see contraindications. | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'

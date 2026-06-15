@@ -1,35 +1,19 @@
+id: aesculus-hippocastanum
+scientific_name: Aesculus hippocastanum
 common_names:
 - Horse Chestnut
 - Conker tree
 - Buckeye
-scientific_name: Aesculus hippocastanum
 family: Sapindaceae
 parts_used:
-- name: Seed (standardised extract)
-  medicinal_actions:
-  - action: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching;
-      supports varicose veins
-    reference_ids:
-    - REF-0470
-    - REF-0471
-    - REF-0675
-    - REF-0678
-    - REF-0679
-    status: verified
-  - action: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
-      and exerts venotonic effects on veins
-    reference_ids:
-    - REF-0471
-    - REF-0590
-    - REF-0675
-    - REF-0676
-    status: verified
-  - action: Relief of haemorrhoid symptoms (venotonic)
-    reference_ids:
-    - REF-0471
-    status: needs-review
+- Seed (standardised extract)
 constituents:
 - name: Triterpene saponins (escin / aescin)
+  compounds:
+  - triterpene-saponin
+  - terpene
+  - saponin
+  - escin
   note: The active mixture responsible for the venotonic and anti-oedematous effects; extracts are standardised
     to it. Escin is available as oral drages and a transdermal gel, with efficacy shown in chronic venous
     insufficiency and blunt-trauma injury.
@@ -39,28 +23,130 @@ constituents:
   - REF-0590
   - REF-0677
 - name: Flavonoids and coumarins (aesculin)
+  compounds:
+  - flavonoid
+  - coumarin
   note: Supporting constituents of the seed.
   reference_ids:
   - REF-0471
+actions:
+- action: anti-inflammatory
+  note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
+    and exerts venotonic effects on veins
+  reference_ids:
+  - REF-0471
+  - REF-0590
+  - REF-0675
+  - REF-0676
+  status: verified
+- action: anti-oedematous
+  note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
+    and exerts venotonic effects on veins
+  reference_ids:
+  - REF-0471
+  - REF-0590
+  - REF-0675
+  - REF-0676
+  status: verified
+- action: venotonic
+  note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
+    and exerts venotonic effects on veins; Relief of haemorrhoid symptoms (venotonic)
+  reference_ids:
+  - REF-0471
+  - REF-0590
+  - REF-0675
+  - REF-0676
+  status: needs-review
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0471
+  - REF-0590
+  - REF-0675
+  - REF-0676
+  status: needs-review
+- condition: hemorrhoids
+  evidence: 2
+  note: Relief of haemorrhoid symptoms (venotonic)
+  reference_ids:
+  - REF-0471
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0471
+  - REF-0590
+  - REF-0675
+  - REF-0676
+  status: needs-review
+- condition: pain
+  evidence: 3
+  note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
+    varicose veins
+  reference_ids:
+  - REF-0470
+  - REF-0471
+  - REF-0675
+  - REF-0678
+  - REF-0679
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0471
+  - REF-0590
+  - REF-0675
+  - REF-0676
+  status: needs-review
+- condition: swelling
+  evidence: 3
+  note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
+    varicose veins
+  reference_ids:
+  - REF-0470
+  - REF-0471
+  - REF-0675
+  - REF-0678
+  - REF-0679
+  status: verified
+- condition: varicose-veins
+  evidence: 4
+  note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
+    varicose veins
+  reference_ids:
+  - REF-0470
+  - REF-0471
+  - REF-0675
+  - REF-0678
+  - REF-0679
+  status: verified
 contraindications:
 - note: Use only standardised, processed seed extract. Raw conkers, leaves and bark contain toxic esculin
     and can cause poisoning - never eat raw horse chestnut.
+  severity: info
   reference_ids:
   - REF-0470
   status: verified
 - note: May increase bleeding risk, so use caution with anticoagulant/antiplatelet medicines; use caution
     in kidney disease and avoid in pregnancy and breastfeeding.
+  severity: caution
   reference_ids:
   - REF-0470
   status: needs-review
-internal_notes: Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed
   extract for CVI; Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained
   and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced pharmacological/clinical
-  review of escin's anti-edematous, anti-inflammatory and venotonic properties (REF-0590; reduced vascular
+  review of escin''s anti-edematous, anti-inflammatory and venotonic properties (REF-0590; reduced vascular
   permeability, efficacy in CVI and blunt trauma). Further enriched 2026-06-14 with five more PubMed sources
   (REF-0675..REF-0679) - escin reviews and an endothelial-cell mechanism study (REF-0675, REF-0676), an
   escin pharmacokinetics study (REF-0677), and two venoactive-compound reviews of chronic venous disease
-  that include horse chestnut seed extract (REF-0678, REF-0679).
-last_updated: '2026-06-14'
-status: verified
+  that include horse chestnut seed extract (REF-0678, REF-0679). | 2026-06-15: migrated to entity schema
+  (actions->vocab ids, indications split out, constituents linked to compounds).'

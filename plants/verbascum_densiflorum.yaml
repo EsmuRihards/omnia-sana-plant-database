@@ -1,65 +1,141 @@
+id: verbascum-densiflorum
+scientific_name: Verbascum densiflorum
 common_names:
 - Dense-flowered Mullein
 - Mullein
 - Great mullein
 - Denseflower mullein
-scientific_name: Verbascum densiflorum
 family: Scrophulariaceae
 parts_used:
-- name: Flower (Verbasci flos)
-  medicinal_actions:
-  - action: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
-    reference_ids:
-    - REF-0441
-    - REF-0442
-    status: verified
-  - action: Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa;
-      saponins loosen mucus)
-    reference_ids:
-    - REF-0442
-    - REF-0441
-    status: verified
-  - action: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear
-      drop containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis
-      media (combination products, not mullein alone)
-    reference_ids:
-    - REF-0442
-    - REF-0611
-    - REF-0612
-    status: needs-review
+- Flower (Verbasci flos)
 constituents:
 - name: Mucilage polysaccharides (~3%)
+  compounds:
+  - polysaccharide
+  - mucilage
   note: The demulcent constituents that soothe mucous membranes.
   reference_ids:
   - REF-0441
   - REF-0442
 - name: Saponins
+  compounds:
+  - saponin
   note: Thought to be responsible for the mild expectorant action.
   reference_ids:
   - REF-0441
   - REF-0442
 - name: Flavonoids, iridoid and phenylethanoid glycosides (verbascoside)
+  compounds:
+  - verbascoside
+  - flavonoid
+  - glycoside
+  - iridoid-glycoside
   note: Anti-inflammatory and antioxidant constituents.
   reference_ids:
   - REF-0441
+actions:
+- action: demulcent
+  note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough;
+    Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa; saponins
+    loosen mucus)
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: verified
+- action: expectorant
+  note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: verified
+indications:
+- condition: bronchitis
+  evidence: 3
+  note: Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa;
+    saponins loosen mucus)
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: verified
+- condition: cold
+  evidence: 3
+  note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: verified
+- condition: cough
+  evidence: 3
+  note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough;
+    Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa; saponins
+    loosen mucus)
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: verified
+- condition: earache
+  evidence: 2
+  note: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop
+    containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis media
+    (combination products, not mullein alone)
+  reference_ids:
+  - REF-0442
+  - REF-0611
+  - REF-0612
+  status: needs-review
+- condition: pain
+  evidence: 2
+  note: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop
+    containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis media
+    (combination products, not mullein alone)
+  reference_ids:
+  - REF-0442
+  - REF-0611
+  - REF-0612
+  status: needs-review
+- condition: respiratory-support
+  evidence: 2
+  note: inferred from expectorant action
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: needs-review
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from demulcent action
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: needs-review
+- condition: sore-throat
+  evidence: 3
+  note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: verified
 contraindications:
 - note: Per the EU herbal monograph, for use in adults and adolescents over 12 years. Cough that persists
     beyond about a week, or is accompanied by fever, shortness of breath or purulent sputum, needs medical
     assessment.
+  severity: info
   reference_ids:
   - REF-0441
   status: verified
 - note: Use in pregnancy and breastfeeding is not recommended. Strain liquid preparations to remove the
     fine flower/leaf hairs, which can irritate the throat.
+  severity: caution
   reference_ids:
   - REF-0441
   status: verified
-internal_notes: Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and
+provenance: website+pubmed+symptom-tool
+status: verified
+last_updated: '2026-06-14'
+internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and
   ESCOP monograph, which cover V. densiflorum together with V. thapsus and V. phlomoides). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, earache,
-  sore-throat); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with two
-  PubMed-sourced RCTs of a naturopathic herbal ear drop containing Verbascum (with other herbs) that relieved
-  ear pain in paediatric acute otitis media as well as anaesthetic drops (REF-0611, REF-0612); the earache
-  action stays needs-review as these are combination products.
-last_updated: '2026-06-14'
-status: verified
+  sore-throat); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with
+  two PubMed-sourced RCTs of a naturopathic herbal ear drop containing Verbascum (with other herbs) that
+  relieved ear pain in paediatric acute otitis media as well as anaesthetic drops (REF-0611, REF-0612);
+  the earache action stays needs-review as these are combination products. | 2026-06-15: migrated to entity
+  schema (actions->vocab ids, indications split out, constituents linked to compounds).'

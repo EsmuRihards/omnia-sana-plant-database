@@ -1,3 +1,5 @@
+id: symphytum-officinale
+scientific_name: Symphytum officinale
 common_names:
 - Common Comfrey
 - Comfrey
@@ -5,36 +7,114 @@ common_names:
 - bruisewort
 - boneset  Plant family  (Staiger
 - 2012)
-scientific_name: Symphytum officinale
 family: Boraginaceae
 parts_used:
-- name: Leaf / Root
-  medicinal_actions:
-  - action: Anti-inflammatory
-    reference_ids:
-    - REF-0074
-    - REF-0246
-    - REF-0281
-    status: verified
-  - action: Anti-swelling
-    reference_ids:
-    - REF-0074
-    - REF-0246
-    - REF-0281
-    status: verified
-  - action: Pain Relief
-    reference_ids:
-    - REF-0074
-    - REF-0246
-    - REF-0281
-    status: verified
-  - action: Wound Healing
-    reference_ids:
-    - REF-0074
-    - REF-0246
-    - REF-0281
-    status: verified
-constituents: []
+- Leaf
+- Root
+actions:
+- action: analgesic
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: verified
+- action: anti-oedematous
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: verified
+- action: vulnerary
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: verified
+indications:
+- condition: arthritis
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: needs-review
+- condition: back-pain
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: needs-review
+- condition: bruising
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: needs-review
+- condition: headache
+  evidence: 2
+  note: inferred from analgesic action
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: needs-review
+- condition: inflammation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: needs-review
+- condition: pain
+  evidence: 3
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: verified
+- condition: skin-irritation
+  evidence: 2
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: needs-review
+- condition: swelling
+  evidence: 3
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: verified
+- condition: varicose-veins
+  evidence: 2
+  note: inferred from anti-oedematous action
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: needs-review
+- condition: wounds
+  evidence: 2
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: needs-review
 contraindications:
 - note: 'Big headline: Comfrey naturally contains pyrrolizidine alkaloids (PAs), which can seriously harm
     the liver if taken internally (Staiger, 2012; EMA, 2015). • Do not ingest comfrey (no teas, no internal
@@ -48,6 +128,7 @@ contraindications:
     take medicines that stress the liver, skip comfrey completely (risk management logic based on PA concern)
     (Staiger, 2012; EMA, 2015). • Skin reactions: mild rash/irritation can occur; stop if it irritates
     (Smith and Jacobson, 2011).'
+  severity: caution
   reference_ids:
   - REF-0074
   - REF-0246
@@ -58,14 +139,17 @@ contraindications:
     hepatotoxic pyrrolizidine alkaloids. Internal use is no longer recommended, and Commission E approved
     only external use. Duke emphasizes that pyrrolizidine alkaloids are cumulative hepatotoxins associated
     with veno-occlusive disease, and prolonged or internal use is contraindicated (Duke, 2002).
+  severity: serious
   reference_ids:
   - REF-0074
   - REF-0246
   - REF-0281
   status: verified
+provenance: book
+status: verified
+last_updated: '2026-06-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
-status: verified
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds).'

@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omniasana.bio/schema/compound.schema.json",
+  "title": "Active compound / constituent",
+  "description": "A bioactive plant constituent as a first-class entity. One file per compound in compounds/<id>.yaml. Plant records link to these via constituents[].compound, enabling plant<->compound and compound<->action relationships.",
+  "type": "object",
+  "required": ["id", "name"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable slug, e.g. allicin, apigenin."},
+    "name": {"type": "string"},
+    "synonyms": {"type": "array", "items": {"type": "string"}},
+    "class": {"type": "string", "description": "Chemical / biosynthetic class, e.g. flavonoid, organosulfur, sesquiterpene-lactone, alkaloid."},
+    "external_ids": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "pubchem_cid": {"type": ["string", "integer"]},
+        "chembl": {"type": "string"},
+        "cas": {"type": "string"},
+        "inchikey": {"type": "string"}
+      }
+    },
+    "description": {"type": "string"},
+    "actions": {"type": "array", "items": {"type": "string", "pattern": "^[a-z0-9-]+$"}, "description": "Action ids this compound is credited with (mechanism)."},
+    "reference_ids": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}}
+  }
+}

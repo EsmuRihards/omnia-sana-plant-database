@@ -219,7 +219,8 @@ CI runs this automatically on every push and pull request
 
 ## Data provenance
 
-Records come from three ingestion passes, all reproducible from `tools/`:
+Records come from three ingestion passes, all reproducible from `ingest/archive/`
+(the one-shot scripts were moved there during the architecture migration):
 
 1. **Book manuscript** (`ingest_book.py`) — 96 species from the Omnia Sana book,
    `status: verified`. Parts and actions are flat/unmapped (see the note above),
@@ -230,7 +231,7 @@ Records come from three ingestion passes, all reproducible from `tools/`:
    Plantain and Yarrow records with site-sourced constituents, actions and
    cautions. `status: verified`.
 3. **Symptom-to-Plant Lookup tool** (`ingest_website.py`, from
-   `tools/sources/symptom_lookup.json`) — 77 plants imported as **skeletal
+   `ingest/archive/sources/symptom_lookup.json`) — 77 plants imported as **skeletal
    records**: a single `Whole plant` part whose actions are the symptoms the
    tool associates with the plant, each tagged with the tool's evidence score
    (`evidence N/4`) and citing the tool itself. These are

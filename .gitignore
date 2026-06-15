@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .env
+
+# Large, regenerable ingestion caches/logs (kept untracked under ingest/archive/)
+ingest/archive/_abstract_cache.json
+ingest/archive/abstracts_log_*.txt

@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omniasana.bio/schema/source.schema.json",
+  "title": "Scientific source / publication",
+  "description": "A bibliographic reference. Stored physically as a BibTeX entry in sources/bibliography.bibtex whose citation KEY is the REF id (single identifier). Structured fields are authoritative; the human-readable Harvard citation string is GENERATED at build time, NOT stored (no 'annote' field).",
+  "type": "object",
+  "required": ["ref_id", "type"],
+  "additionalProperties": false,
+  "properties": {
+    "ref_id": {"type": "string", "pattern": "^REF-\\d{4,}$", "description": "Single stable identifier; also the BibTeX citation key."},
+    "type": {"type": "string", "enum": ["article", "book", "misc"]},
+    "title": {"type": "string"},
+    "authors": {"type": "string", "description": "Author list, BibTeX 'and'-separated."},
+    "journal": {"type": "string"},
+    "year": {"type": ["string", "integer"]},
+    "volume": {"type": "string"},
+    "number": {"type": "string"},
+    "pages": {"type": "string"},
+    "doi": {"type": "string"},
+    "url": {"type": "string"},
+    "evidence_type": {
+      "type": "string",
+      "enum": ["rct", "meta-analysis", "systematic-review", "review", "observational", "in-vivo", "in-vitro", "traditional", "monograph", "web"],
+      "description": "Study/source type, used to weight claim evidence and support validation."
+    },
+    "abstract": {"type": "string", "description": "Optional single-line abstract (braces stripped, whitespace collapsed)."}
+  }
+}

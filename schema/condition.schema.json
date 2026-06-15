@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omniasana.bio/schema/condition.schema.json",
+  "title": "Condition vocabulary term",
+  "description": "A controlled symptom / condition / indication (consumer-facing). vocabularies/conditions.yaml is a list of these. Replaces the WordPress Symptom-tool keys and its free-text synonym map (META.syn). Powers the Symptom-to-Plant Lookup.",
+  "type": "object",
+  "required": ["id", "label", "body_system"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable slug, e.g. menstrual-cramps, high-cholesterol, insomnia."},
+    "label": {"type": "string", "description": "Display label, e.g. 'Menstrual cramps'."},
+    "body_system": {"type": "string", "description": "Broad grouping, e.g. cardiovascular, digestive, reproductive, respiratory, nervous, skin, urinary, immune, metabolic, musculoskeletal."},
+    "consumer_synonyms": {"type": "array", "items": {"type": "string"}, "description": "Free-text terms a user might search, e.g. ['period pain','dysmenorrhea','cramps'] -> menstrual-cramps."},
+    "related_actions": {"type": "array", "items": {"type": "string", "pattern": "^[a-z0-9-]+$"}},
+    "icd10": {"type": "string"},
+    "snomed": {"type": "string"}
+  }
+}

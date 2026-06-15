@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omniasana.bio/schema/plant.schema.json",
+  "title": "Plant record",
+  "description": "One medicinal-plant species and the human editing unit. Actions and indications reference controlled vocabularies; constituents reference compound entities; every claim carries its own references and status.",
+  "type": "object",
+  "required": ["id", "scientific_name", "common_names", "family", "status", "last_updated"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable slug: lowercase scientific name, spaces -> hyphens, e.g. allium-sativum."},
+    "scientific_name": {"type": "string"},
+    "common_names": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "family": {"type": "string", "description": "Botanical family; must be a real family (never 'Unknown')."},
+    "synonyms": {"type": "array", "items": {"type": "string"}, "description": "Botanical (taxonomic) synonyms."},
+    "external_ids": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Anchors botanical identity and enables enrichment.",
+      "properties": {
+        "wikidata": {"type": "string"},
+        "powo": {"type": "string"},
+        "gbif": {"type": ["string", "integer"]},
+        "usda": {"type": "string"},
+        "ncbi_taxon": {"type": ["string", "integer"]}
+      }
+    },
+    "wp_post_id": {"type": ["integer", "null"], "description": "WordPress Materia Medica post id, or null if no page yet."},
+    "parts_used": {"type": "array", "items": {"type": "string"}, "description": "Canonical part names, e.g. Bulb, Leaf, Root, Rhizome, Flower."},
+    "constituents": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["compound"],
+        "additionalProperties": false,
+        "properties": {
+          "compound": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Compound id -> compounds/<id>.yaml."},
+          "note": {"type": "string"},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"}
+        }
+      }
+    },
+    "actions": {
+      "type": "array",
+      "description": "Pharmacological actions (mechanism). Each entry is a sourced claim.",
+      "items": {
+        "type": "object",
+        "required": ["action", "reference_ids", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "action": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Action id -> vocabularies/actions.yaml."},
+          "parts": {"type": "array", "items": {"type": "string"}, "description": "Plant part(s) this claim applies to. Omit when the source did not specify."},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"},
+          "status": {"$ref": "#/$defs/status"}
+        }
+      }
+    },
+    "indications": {
+      "type": "array",
+      "description": "What the plant is used FOR (conditions/symptoms). Powers the Symptom-to-Plant Lookup.",
+      "items": {
+        "type": "object",
+        "required": ["condition", "evidence", "reference_ids", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "condition": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Condition id -> vocabularies/conditions.yaml."},
+          "evidence": {"type": "integer", "minimum": 1, "maximum": 5, "description": "Editorial strength of human/clinical evidence (1=traditional .. 5=strong)."},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"},
+          "status": {"$ref": "#/$defs/status"}
+        }
+      }
+    },
+    "contraindications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["note", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "note": {"type": "string"},
+          "severity": {"type": "string", "enum": ["info", "caution", "warning", "serious"]},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"},
+          "status": {"$ref": "#/$defs/status"}
+        }
+      }
+    },
+    "provenance": {"type": "string", "description": "Origin of the record, e.g. 'book', 'website', 'pubmed', or combinations like 'book+pubmed'."},
+    "internal_notes": {"type": "string", "description": "Editorial notes and history; NEVER published."},
+    "last_updated": {"type": "string", "format": "date"},
+    "status": {"$ref": "#/$defs/status", "description": "Record-level status (usually the lowest-confidence claim governs)."}
+  },
+  "$defs": {
+    "status": {"type": "string", "enum": ["verified", "draft", "needs-review"]},
+    "reference_ids": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}}
+  }
+}

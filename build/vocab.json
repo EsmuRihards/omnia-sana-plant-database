@@ -912,29 +912,29 @@
  ],
  "compounds": [
   {
-   "id": "essential-oil",
-   "name": "Essential (volatile) oil",
-   "class": "volatile-oil"
+   "id": "alkaloid",
+   "name": "Alkaloids",
+   "class": "alkaloid"
   },
   {
-   "id": "withanolide",
-   "name": "Withanolides",
-   "class": "terpene"
+   "id": "allantoin",
+   "name": "Allantoin",
+   "class": "other"
   },
   {
-   "id": "terpene",
-   "name": "Terpenes / terpenoids",
-   "class": "terpene"
+   "id": "allicin",
+   "name": "Allicin / organosulfur thiosulfinates",
+   "class": "organosulfur"
   },
   {
-   "id": "luteolin",
-   "name": "Luteolin",
+   "id": "anthocyanin",
+   "name": "Anthocyanins",
    "class": "flavonoid"
   },
   {
-   "id": "rutin",
-   "name": "Rutin",
-   "class": "flavonoid"
+   "id": "anthraquinone",
+   "name": "Anthraquinones",
+   "class": "phenolic"
   },
   {
    "id": "apigenin",
@@ -942,8 +942,83 @@
    "class": "flavonoid"
   },
   {
-   "id": "gallic-acid",
-   "name": "Gallic acid",
+   "id": "arctigenin",
+   "name": "Arctigenin / arctiin",
+   "class": "lignan"
+  },
+  {
+   "id": "asarone",
+   "name": "Asarones (alpha-/beta-asarone)",
+   "class": "phenolic"
+  },
+  {
+   "id": "berberine",
+   "name": "Berberine",
+   "class": "alkaloid"
+  },
+  {
+   "id": "bisabolol",
+   "name": "Alpha-bisabolol",
+   "class": "terpene"
+  },
+  {
+   "id": "boswellic-acid",
+   "name": "Boswellic acids",
+   "class": "terpene"
+  },
+  {
+   "id": "caffeic-acid",
+   "name": "Caffeic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "camphor",
+   "name": "Camphor",
+   "class": "terpene"
+  },
+  {
+   "id": "carotenoid",
+   "name": "Carotenoids",
+   "class": "terpene"
+  },
+  {
+   "id": "carvacrol",
+   "name": "Carvacrol",
+   "class": "terpene"
+  },
+  {
+   "id": "catechin",
+   "name": "Catechins",
+   "class": "flavonoid"
+  },
+  {
+   "id": "chamazulene",
+   "name": "Chamazulene",
+   "class": "terpene"
+  },
+  {
+   "id": "chlorogenic-acid",
+   "name": "Chlorogenic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "cineole",
+   "name": "1,8-Cineole (eucalyptol)",
+   "class": "terpene"
+  },
+  {
+   "id": "citral",
+   "name": "Citral (neral / geranial)",
+   "class": "terpene"
+  },
+  {
+   "id": "coumarin",
+   "name": "Coumarins",
+   "class": "phenolic"
+  },
+  {
+   "id": "curcumin",
+   "name": "Curcumin",
    "class": "phenolic"
   },
   {
@@ -952,99 +1027,14 @@
    "class": "phenolic"
   },
   {
-   "id": "phenolic-compound",
-   "name": "Phenolic compounds",
-   "class": "phenolic"
-  },
-  {
-   "id": "boswellic-acid",
-   "name": "Boswellic acids",
-   "class": "terpene"
-  },
-  {
-   "id": "linalool",
-   "name": "Linalool",
-   "class": "terpene"
-  },
-  {
-   "id": "glycyrrhizin",
-   "name": "Glycyrrhizin",
+   "id": "escin",
+   "name": "Escin (aescin)",
    "class": "saponin"
   },
   {
-   "id": "berberine",
-   "name": "Berberine",
-   "class": "alkaloid"
-  },
-  {
-   "id": "coumarin",
-   "name": "Coumarins",
-   "class": "phenolic"
-  },
-  {
-   "id": "chamazulene",
-   "name": "Chamazulene",
-   "class": "terpene"
-  },
-  {
-   "id": "valerenic-acid",
-   "name": "Valerenic acid",
-   "class": "terpene"
-  },
-  {
-   "id": "anthraquinone",
-   "name": "Anthraquinones",
-   "class": "phenolic"
-  },
-  {
-   "id": "parthenolide",
-   "name": "Parthenolide",
-   "class": "terpene"
-  },
-  {
-   "id": "saponin",
-   "name": "Saponins",
-   "class": "saponin"
-  },
-  {
-   "id": "chlorogenic-acid",
-   "name": "Chlorogenic acid",
-   "class": "phenolic"
-  },
-  {
-   "id": "mucilage",
-   "name": "Mucilage",
-   "class": "polysaccharide"
-  },
-  {
-   "id": "tannin",
-   "name": "Tannins",
-   "class": "phenolic"
-  },
-  {
-   "id": "rosmarinic-acid",
-   "name": "Rosmarinic acid",
-   "class": "phenolic"
-  },
-  {
-   "id": "allicin",
-   "name": "Allicin / organosulfur thiosulfinates",
-   "class": "organosulfur"
-  },
-  {
-   "id": "phytosterol",
-   "name": "Phytosterols",
-   "class": "sterol"
-  },
-  {
-   "id": "cineole",
-   "name": "1,8-Cineole (eucalyptol)",
-   "class": "terpene"
-  },
-  {
-   "id": "triterpene-saponin",
-   "name": "Triterpene saponins",
-   "class": "saponin"
+   "id": "essential-oil",
+   "name": "Essential (volatile) oil",
+   "class": "volatile-oil"
   },
   {
    "id": "eugenol",
@@ -1052,19 +1042,9 @@
    "class": "phenolic"
   },
   {
-   "id": "starch",
-   "name": "Starch",
-   "class": "polysaccharide"
-  },
-  {
    "id": "ferulic-acid",
    "name": "Ferulic acid",
    "class": "phenolic"
-  },
-  {
-   "id": "citral",
-   "name": "Citral (neral / geranial)",
-   "class": "terpene"
   },
   {
    "id": "flavonoid",
@@ -1072,119 +1052,14 @@
    "class": "flavonoid"
   },
   {
-   "id": "harpagoside",
-   "name": "Harpagoside",
-   "class": "glycoside"
-  },
-  {
-   "id": "curcumin",
-   "name": "Curcumin",
+   "id": "gallic-acid",
+   "name": "Gallic acid",
    "class": "phenolic"
   },
   {
    "id": "gingerol",
    "name": "Gingerols / shogaols",
    "class": "phenolic"
-  },
-  {
-   "id": "thymol",
-   "name": "Thymol",
-   "class": "terpene"
-  },
-  {
-   "id": "escin",
-   "name": "Escin (aescin)",
-   "class": "saponin"
-  },
-  {
-   "id": "hypericin",
-   "name": "Hypericin",
-   "class": "phenolic"
-  },
-  {
-   "id": "glycoside",
-   "name": "Glycosides",
-   "class": "glycoside"
-  },
-  {
-   "id": "phenolic-acid",
-   "name": "Phenolic acids",
-   "class": "phenolic"
-  },
-  {
-   "id": "sesquiterpene",
-   "name": "Sesquiterpenes",
-   "class": "terpene"
-  },
-  {
-   "id": "iridoid-glycoside",
-   "name": "Iridoid glycosides",
-   "class": "glycoside"
-  },
-  {
-   "id": "camphor",
-   "name": "Camphor",
-   "class": "terpene"
-  },
-  {
-   "id": "kaempferol",
-   "name": "Kaempferol",
-   "class": "flavonoid"
-  },
-  {
-   "id": "asarone",
-   "name": "Asarones (alpha-/beta-asarone)",
-   "class": "phenolic"
-  },
-  {
-   "id": "allantoin",
-   "name": "Allantoin",
-   "class": "other"
-  },
-  {
-   "id": "organosulfur",
-   "name": "Organosulfur compounds",
-   "class": "organosulfur"
-  },
-  {
-   "id": "silica",
-   "name": "Silica",
-   "class": "mineral"
-  },
-  {
-   "id": "pectin",
-   "name": "Pectin",
-   "class": "polysaccharide"
-  },
-  {
-   "id": "verbascoside",
-   "name": "Verbascoside (acteoside)",
-   "class": "phenolic"
-  },
-  {
-   "id": "menthol",
-   "name": "Menthol",
-   "class": "terpene"
-  },
-  {
-   "id": "inulin",
-   "name": "Inulin",
-   "class": "polysaccharide"
-  },
-  {
-   "id": "hyperforin",
-   "name": "Hyperforin",
-   "class": "phenolic"
-  },
-  {
-   "id": "bisabolol",
-   "name": "Alpha-bisabolol",
-   "class": "terpene"
-  },
-  {
-   "id": "catechin",
-   "name": "Catechins",
-   "class": "flavonoid"
   },
   {
    "id": "ginsenoside",
@@ -1197,43 +1072,43 @@
    "class": "fatty-acid"
   },
   {
-   "id": "polysaccharide",
-   "name": "Polysaccharides",
-   "class": "polysaccharide"
+   "id": "glycoside",
+   "name": "Glycosides",
+   "class": "glycoside"
   },
   {
-   "id": "caffeic-acid",
-   "name": "Caffeic acid",
+   "id": "glycyrrhizin",
+   "name": "Glycyrrhizin",
+   "class": "saponin"
+  },
+  {
+   "id": "harpagoside",
+   "name": "Harpagoside",
+   "class": "glycoside"
+  },
+  {
+   "id": "hyperforin",
+   "name": "Hyperforin",
    "class": "phenolic"
   },
   {
-   "id": "arctigenin",
-   "name": "Arctigenin / arctiin",
-   "class": "lignan"
+   "id": "hypericin",
+   "name": "Hypericin",
+   "class": "phenolic"
   },
   {
-   "id": "quercetin",
-   "name": "Quercetin",
-   "class": "flavonoid"
+   "id": "inulin",
+   "name": "Inulin",
+   "class": "polysaccharide"
   },
   {
-   "id": "carvacrol",
-   "name": "Carvacrol",
-   "class": "terpene"
+   "id": "iridoid-glycoside",
+   "name": "Iridoid glycosides",
+   "class": "glycoside"
   },
   {
-   "id": "sesquiterpene-lactone",
-   "name": "Sesquiterpene lactones",
-   "class": "terpene"
-  },
-  {
-   "id": "carotenoid",
-   "name": "Carotenoids",
-   "class": "terpene"
-  },
-  {
-   "id": "anthocyanin",
-   "name": "Anthocyanins",
+   "id": "kaempferol",
+   "name": "Kaempferol",
    "class": "flavonoid"
   },
   {
@@ -1242,19 +1117,144 @@
    "class": "lignan"
   },
   {
-   "id": "silymarin",
-   "name": "Silymarin (silybin)",
+   "id": "linalool",
+   "name": "Linalool",
+   "class": "terpene"
+  },
+  {
+   "id": "luteolin",
+   "name": "Luteolin",
    "class": "flavonoid"
   },
   {
-   "id": "alkaloid",
-   "name": "Alkaloids",
-   "class": "alkaloid"
+   "id": "menthol",
+   "name": "Menthol",
+   "class": "terpene"
+  },
+  {
+   "id": "mucilage",
+   "name": "Mucilage",
+   "class": "polysaccharide"
+  },
+  {
+   "id": "organosulfur",
+   "name": "Organosulfur compounds",
+   "class": "organosulfur"
+  },
+  {
+   "id": "parthenolide",
+   "name": "Parthenolide",
+   "class": "terpene"
+  },
+  {
+   "id": "pectin",
+   "name": "Pectin",
+   "class": "polysaccharide"
+  },
+  {
+   "id": "phenolic-acid",
+   "name": "Phenolic acids",
+   "class": "phenolic"
+  },
+  {
+   "id": "phenolic-compound",
+   "name": "Phenolic compounds",
+   "class": "phenolic"
+  },
+  {
+   "id": "phytosterol",
+   "name": "Phytosterols",
+   "class": "sterol"
+  },
+  {
+   "id": "polysaccharide",
+   "name": "Polysaccharides",
+   "class": "polysaccharide"
   },
   {
    "id": "proanthocyanidin",
    "name": "Proanthocyanidins",
    "class": "flavonoid"
+  },
+  {
+   "id": "quercetin",
+   "name": "Quercetin",
+   "class": "flavonoid"
+  },
+  {
+   "id": "rosmarinic-acid",
+   "name": "Rosmarinic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "rutin",
+   "name": "Rutin",
+   "class": "flavonoid"
+  },
+  {
+   "id": "saponin",
+   "name": "Saponins",
+   "class": "saponin"
+  },
+  {
+   "id": "sesquiterpene-lactone",
+   "name": "Sesquiterpene lactones",
+   "class": "terpene"
+  },
+  {
+   "id": "sesquiterpene",
+   "name": "Sesquiterpenes",
+   "class": "terpene"
+  },
+  {
+   "id": "silica",
+   "name": "Silica",
+   "class": "mineral"
+  },
+  {
+   "id": "silymarin",
+   "name": "Silymarin (silybin)",
+   "class": "flavonoid"
+  },
+  {
+   "id": "starch",
+   "name": "Starch",
+   "class": "polysaccharide"
+  },
+  {
+   "id": "tannin",
+   "name": "Tannins",
+   "class": "phenolic"
+  },
+  {
+   "id": "terpene",
+   "name": "Terpenes / terpenoids",
+   "class": "terpene"
+  },
+  {
+   "id": "thymol",
+   "name": "Thymol",
+   "class": "terpene"
+  },
+  {
+   "id": "triterpene-saponin",
+   "name": "Triterpene saponins",
+   "class": "saponin"
+  },
+  {
+   "id": "valerenic-acid",
+   "name": "Valerenic acid",
+   "class": "terpene"
+  },
+  {
+   "id": "verbascoside",
+   "name": "Verbascoside (acteoside)",
+   "class": "phenolic"
+  },
+  {
+   "id": "withanolide",
+   "name": "Withanolides",
+   "class": "terpene"
   }
  ]
 }

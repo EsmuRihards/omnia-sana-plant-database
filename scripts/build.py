@@ -146,7 +146,7 @@ def main():
     actions = {a["id"]: a for a in yaml.safe_load(open(os.path.join(VOCAB, "actions.yaml"), encoding="utf-8"))}
     conditions = {c["id"]: c for c in yaml.safe_load(open(os.path.join(VOCAB, "conditions.yaml"), encoding="utf-8"))}
     compounds = {}
-    for fn in glob.glob(os.path.join(COMPDIR, "*.yaml")):
+    for fn in sorted(glob.glob(os.path.join(COMPDIR, "*.yaml"))):
         c = yaml.safe_load(open(fn, encoding="utf-8"))
         compounds[c["id"]] = c
     plants = load_plants()

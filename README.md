@@ -243,16 +243,36 @@ and the bibliography re-sorts alphabetically while preserving `REF-XXXX` ids.
 
 ## Syncing with GitHub
 
-```bash
-# one-time, if the remote is not set:
-git remote add origin https://github.com/EsmuRihards/OmniaSana.git
-git remote -v                      # verify it points at the right repo
+> ⚠️ **Never `git push` this repo to `origin/main`, and never force-push.** This
+> local repo has a **separate, unrelated history** from the GitHub copy, and `main`
+> on the `EsmuRihards/OmniaSana` repo is the **live WordPress site export** —
+> pushing the database onto it would overwrite the website.
 
-# day-to-day:
+The GitHub master copy of this database lives in the **`EsmuRihards/OmniaSana`**
+monorepo on the **`add-plant-database`** branch, inside a **`plant-database/`**
+subdirectory that mirrors this repo's root. **That branch — not `main`** — is what
+the website's Knowledge Finder pulls from. This local repo has **no `origin`
+remote**; it is a standalone history.
+
+Day-to-day:
+
+```bash
+# 1. Work locally; ALWAYS validate before committing.
+python validate_references.py
 git add .
 git commit -m "Describe what changed"
-git push                           # first push: git push -u origin main
+
+# 2. Deploy: port the new commit into the remote add-plant-database branch's
+#    plant-database/ subdir (fast-forward, non-destructive). Export the patch:
+git diff HEAD~1 HEAD > ../batch.patch
+#    then, in a checkout of EsmuRihards/OmniaSana on the add-plant-database branch:
+#      git apply --directory=plant-database /path/to/batch.patch
+#      git commit -am "plant-database: describe what changed"
+#      git push origin add-plant-database
 ```
 
-Always run `python validate_references.py` before committing — and let CI confirm
-on the pull request.
+CI runs `validate_references.py` on every push/PR (`.github/workflows/validate.yml`).
+
+> **Planned improvement:** move this database into its own dedicated repository so
+> syncing becomes a normal `git push` (no worktree-patch step). See the architecture
+> audit (`../plant-database-architecture-audit.md`) for the full migration plan.

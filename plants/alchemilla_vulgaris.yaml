@@ -12,12 +12,16 @@ parts_used:
     - REF-0113
     - REF-0193
     - REF-0208
+    - REF-0685
     status: verified
   - action: Antioxidant
     reference_ids:
     - REF-0113
     - REF-0193
     - REF-0208
+    - REF-0685
+    - REF-0686
+    - REF-0687
     status: verified
   - action: Menstrual cramps
     reference_ids:
@@ -31,7 +35,14 @@ parts_used:
     - REF-0193
     - REF-0208
     status: verified
-constituents: []
+constituents:
+- name: Phenolic compounds and tannins
+  note: Lady's mantle is rich in ellagitannins and other tannins (the basis of its astringency) together
+    with phenolic acids (gallic and caffeic acids) and flavonoids such as quercetin and catechin, which
+    underlie its antioxidant activity.
+  reference_ids:
+  - REF-0686
+  - REF-0687
 contraindications:
 - note: Generally considered very safe. One of the gentlest astringent herbs in European herbalism. No
     significant drug interactions. Tannin content means very high doses should be avoided in sensitive
@@ -55,6 +66,9 @@ contraindications:
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources (REF-0685..REF-0689): a cardioprotective
+  study confirming antioxidant and anti-inflammatory activity (REF-0685) and two phytochemical/antioxidant
+  studies (REF-0686, REF-0687); the ethanolic extract also showed preclinical antitumour and immunomodulatory
+  activity against breast cancer and melanoma (REF-0688, REF-0689). Phenolic and tannin constituents added.'
+last_updated: '2026-06-15'
 status: verified

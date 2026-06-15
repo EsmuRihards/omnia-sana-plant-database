@@ -17,6 +17,8 @@ parts_used:
     reference_ids:
     - REF-0396
     - REF-0397
+    - REF-0695
+    - REF-0696
     status: verified
   - action: Diaphoretic / expectorant support during colds
     reference_ids:
@@ -27,10 +29,14 @@ parts_used:
   - action: Anxiolytic / sedative (anxiety, nervous tension)
     reference_ids:
     - REF-0396
+    - REF-0695
     status: verified
   - action: Anticonvulsant and cognition-supporting (preclinical)
     reference_ids:
     - REF-0396
+    - REF-0695
+    - REF-0696
+    - REF-0697
     status: verified
 - name: Leaf (standardised extract)
   medicinal_actions:
@@ -50,10 +56,12 @@ constituents:
     character.
   reference_ids:
   - REF-0396
+  - REF-0698
 - name: Phenolic acids and flavonoids
   note: Antioxidant constituents.
   reference_ids:
   - REF-0396
+  - REF-0699
 contraindications:
 - note: Contains furanocoumarins, which can cause photosensitivity; avoid excessive sun or UV exposure
     while using the herb medicinally.
@@ -75,6 +83,9 @@ internal_notes: Enriched 2026-06-12 from scientific literature (Phytotherapy Res
   Lookup tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited.
   Further enriched 2026-06-14 with a PubMed-sourced pilot randomized controlled trial of Angelica archangelica
   leaf extract for overactive bladder (REF-0615; reduced daytime voids and storage symptoms, improved quality
-  of life) - added as a new leaf-part action, needs-review pending larger trials.
-last_updated: '2026-06-14'
+  of life) - added as a new leaf-part action, needs-review pending larger trials. Further enriched 2026-06-15
+  with five PubMed sources (REF-0695..REF-0699) - a phytochemistry/pharmacology review (REF-0695), a fibromyalgia
+  model showing anti-inflammatory and cognition benefit (REF-0696), an anticonvulsant screen (REF-0697),
+  a terpene-synthase/volatile-oil study (REF-0698) and an antioxidant study (REF-0699).
+last_updated: '2026-06-15'
 status: verified

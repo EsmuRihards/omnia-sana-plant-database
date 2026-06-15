@@ -12,12 +12,15 @@ parts_used:
     reference_ids:
     - REF-0405
     - REF-0406
+    - REF-0700
+    - REF-0701
     status: verified
   - action: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
       by alkaline urine)
     reference_ids:
     - REF-0405
     - REF-0406
+    - REF-0702
     status: verified
   - action: Astringent (tannins)
     reference_ids:
@@ -30,6 +33,8 @@ constituents:
   reference_ids:
   - REF-0405
   - REF-0406
+  - REF-0702
+  - REF-0703
 - name: Tannins (gallotannins)
   note: Up to ~20%; responsible for the astringency and for gastric irritation at high doses.
   reference_ids:
@@ -39,6 +44,7 @@ constituents:
   note: Antioxidant constituents of the leaf.
   reference_ids:
   - REF-0407
+  - REF-0704
 contraindications:
 - note: 'Short-term use only: not for more than 1 week at a time and not more than about 5 times per year.
     If symptoms persist beyond ~4 days, worsen, or are accompanied by fever, blood in the urine or pain,
@@ -57,10 +63,16 @@ contraindications:
   reference_ids:
   - REF-0405
   - REF-0406
+  - REF-0702
   status: verified
 internal_notes: Enriched 2026-06-12 from scientific and regulatory literature (EMA HMPC monograph, ESCOP
   monograph, Journal of Ethnopharmacology toxicology study). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (uti, infection); associations retained and now part-mapped and cited.
-  NOTE strict short-term-use and pregnancy contraindications.
-last_updated: '2026-06-12'
+  NOTE strict short-term-use and pregnancy contraindications. Further enriched 2026-06-15 with five PubMed
+  sources (REF-0700..REF-0704). Two primary-care randomized trials (REF-0700, REF-0701) found that uva-ursi
+  did not reliably relieve UTI symptoms or safely replace antibiotics (one failed non-inferiority with more
+  pyelonephritis), so the urinary action - though monograph-supported for traditional use - has weak clinical-trial
+  backing. An analytical study quantified arbutin and hydroquinone in the leaf (REF-0702), and two studies
+  characterise arbutin anti-inflammatory and antioxidant pharmacology (REF-0703, REF-0704).
+last_updated: '2026-06-15'
 status: verified

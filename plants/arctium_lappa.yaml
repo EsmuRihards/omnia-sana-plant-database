@@ -12,26 +12,44 @@ parts_used:
     - REF-0211
     - REF-0309
     - REF-0313
+    - REF-0705
+    - REF-0706
+    - REF-0709
     status: verified
   - action: Antioxidant
     reference_ids:
     - REF-0211
     - REF-0309
     - REF-0313
+    - REF-0705
+    - REF-0706
+    - REF-0708
     status: verified
   - action: Digestive Aid
     reference_ids:
     - REF-0211
     - REF-0309
     - REF-0313
+    - REF-0706
+    - REF-0707
     status: verified
   - action: Skin-soothing
     reference_ids:
     - REF-0211
     - REF-0309
     - REF-0313
+    - REF-0705
+    - REF-0709
     status: verified
-constituents: []
+constituents:
+- name: Inulin-type fructans and caffeoylquinic acids
+  note: Burdock root is a rich source of prebiotic inulin-type fructans (fructooligosaccharides) along with
+    chlorogenic and caffeic acids, the lignans arctiin and arctigenin, cynarine and quercetin, which underlie
+    its antioxidant, anti-inflammatory and gut-supporting activity.
+  reference_ids:
+  - REF-0706
+  - REF-0707
+  - REF-0709
 contraindications:
 - note: Generally safe as a food plant. Allergic reactions are possible in those sensitive to Asteraceae.
     Avoid in pregnancy due to uterine-stimulating effects reported in animal studies. The burs (seed heads)
@@ -56,6 +74,9 @@ contraindications:
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending.'
-last_updated: '2026-06-12'
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources (REF-0705..REF-0709): two phytochemistry/pharmacology
+  reviews (REF-0705, REF-0709), a review of root inulin-type fructans and gastric-protective activity (REF-0706),
+  a diabetes-mechanism review (REF-0707) and a hepatoprotective antioxidant study (REF-0708); inulin and
+  caffeoylquinic-acid constituents added.'
+last_updated: '2026-06-15'
 status: verified

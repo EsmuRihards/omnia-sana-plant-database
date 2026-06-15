@@ -10,6 +10,8 @@ parts_used:
   - action: Sedative / sleep support (insomnia)
     reference_ids:
     - REF-0474
+    - REF-0690
+    - REF-0691
     status: verified
   - action: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related
       Aloysia polystachya
@@ -27,10 +29,14 @@ parts_used:
     reference_ids:
     - REF-0474
     - REF-0620
+    - REF-0692
+    - REF-0693
+    - REF-0694
     status: verified
   - action: Anti-inflammatory
     reference_ids:
     - REF-0474
+    - REF-0692
     status: verified
 constituents:
 - name: Essential oil (neral and geranial, i.e. citral)
@@ -41,6 +47,7 @@ constituents:
   note: The principal polyphenol of the extract and a major antioxidant constituent.
   reference_ids:
   - REF-0474
+  - REF-0692
 - name: Flavonoids
   note: Additional antioxidant constituents.
   reference_ids:
@@ -61,6 +68,9 @@ internal_notes: Enriched 2026-06-12 from scientific literature (Journal of Ethno
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced randomized,
   placebo-controlled trial of a lemon verbena extract (Recoverben) showing reduced loss of muscle strength
   and muscle soreness with faster recovery after exhaustive exercise (REF-0620), directly supporting the
-  antioxidant / muscle-recovery action.
-last_updated: '2026-06-14'
+  antioxidant / muscle-recovery action. Further enriched 2026-06-15 with five PubMed sources (REF-0690..REF-0694)
+  - two randomized sleep trials (an insomnia RCT, REF-0690, and a sleep-quality RCT, REF-0691), a verbascoside-rich
+  antioxidant/anti-inflammatory study (REF-0692), an antioxidant/antiproliferation study (REF-0693) and
+  an immune/antioxidant study (REF-0694).
+last_updated: '2026-06-15'
 status: verified

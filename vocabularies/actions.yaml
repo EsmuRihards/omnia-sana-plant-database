@@ -1,0 +1,280 @@
+# Omnia Sana — controlled vocabulary: ACTIONS (pharmacological mechanisms)
+# Schema: ../schema/action.schema.json
+#
+# Each free-text action string in plants/*.yaml maps onto one (or more) of these
+# ids. A single string may yield several actions AND an indication, e.g.
+#   "Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)"
+#     -> actions: [antispasmodic]   indications: [menstrual-cramps]
+# That per-plant split is applied in the migration's plant-rewrite phase (Phase 5).
+# `synonyms` lists the free-text variants that collapse onto each id (also used for
+# search). `related_conditions` is the action -> indication bridge.
+
+# ---------------------------------------------------------------- inflammation / cellular
+- id: anti-inflammatory
+  label: Anti-inflammatory
+  category: inflammation
+  synonyms: ["antiinflammatory", "anti-inflammatory and antioxidant", "antioxidant and anti-inflammatory", "antiphlogistic", "anti-oedematous and anti-inflammatory"]
+  related_conditions: [inflammation, arthritis, skin-irritation]
+- id: antioxidant
+  label: Antioxidant
+  category: cellular
+  synonyms: ["free-radical scavenger", "free radical scavenging", "hydroxyl-radical scavenging"]
+- id: anticancer
+  label: Anticancer (preclinical)
+  category: cellular
+  synonyms: ["antiproliferative", "cytotoxic", "antineoplastic", "antitumour"]
+
+# ---------------------------------------------------------------- antimicrobial
+- id: antimicrobial
+  label: Antimicrobial
+  category: antimicrobial
+  synonyms: ["antibacterial", "antiseptic", "anti-infective", "antimicrobial (antibacterial and antifungal)"]
+  related_conditions: [infection, wounds]
+- id: antifungal
+  label: Antifungal
+  category: antimicrobial
+  related_conditions: [infection, skin-irritation]
+- id: antiviral
+  label: Antiviral
+  category: antimicrobial
+  related_conditions: [infection, cold]
+- id: antimalarial
+  label: Antimalarial
+  category: antimicrobial
+
+# ---------------------------------------------------------------- metabolic / cardiovascular
+- id: antidiabetic
+  label: Antidiabetic (blood-sugar lowering)
+  category: metabolic
+  synonyms: ["blood-sugar lowering", "hypoglycemic", "lowers fasting blood glucose", "improves glycemic control", "antidiabetic / blood-sugar lowering"]
+  related_conditions: [blood-sugar, metabolic-support]
+- id: lipid-lowering
+  label: Lipid-lowering
+  category: cardiovascular
+  synonyms: ["hypolipidemic", "lowers cholesterol", "improves the lipid profile", "improves lipid profile"]
+  related_conditions: [high-cholesterol, cardiovascular-support]
+- id: antihypertensive
+  label: Antihypertensive
+  category: cardiovascular
+  synonyms: ["lowers blood pressure", "hypotensive"]
+  related_conditions: [high-blood-pressure, cardiovascular-support]
+- id: venotonic
+  label: Venotonic / vasoprotective
+  category: cardiovascular
+  synonyms: ["improves venous tone", "vasoconstrictive", "capillary integrity", "phlebotonic"]
+  related_conditions: [varicose-veins, hemorrhoids, swelling]
+- id: antiplatelet
+  label: Antiplatelet / anticoagulant
+  category: cardiovascular
+  synonyms: ["anti-aggregant", "antithrombotic"]
+  related_conditions: [cardiovascular-support]
+
+# ---------------------------------------------------------------- urinary
+- id: diuretic
+  label: Diuretic
+  category: urinary
+  synonyms: ["increases urine output", "aquaretic", "diuretic (potassium-sparing)"]
+  related_conditions: [swelling, urinary-support, uti]
+- id: urinary-antiseptic
+  label: Urinary antiseptic
+  category: urinary
+  synonyms: ["antibacterial in the urinary tract", "anti-adhesion (urinary)"]
+  related_conditions: [uti, urinary-support]
+- id: nephroprotective
+  label: Nephroprotective (kidney support)
+  category: urinary
+  synonyms: ["renoprotective", "kidney support"]
+  related_conditions: [kidney-support]
+
+# ---------------------------------------------------------------- nervous / mental
+- id: sedative
+  label: Sedative / sleep support
+  category: nervous
+  synonyms: ["hypnotic", "sleep support", "sleep support for insomnia", "soporific", "mild sedative"]
+  related_conditions: [insomnia]
+- id: anxiolytic
+  label: Anxiolytic / calming
+  category: nervous
+  synonyms: ["calmative", "calming", "nervine", "gentle calmative", "relaxant for nervous tension"]
+  related_conditions: [anxiety, stress, nervous-tension]
+- id: antidepressant
+  label: Antidepressant / mood support
+  category: nervous
+  synonyms: ["mood support", "mild mood support", "antidepressant-like"]
+  related_conditions: [depression]
+- id: neuroprotective
+  label: Neuroprotective / cognition support
+  category: nervous
+  synonyms: ["cognition-supporting", "nootropic", "memory and cognitive-function support", "cognitive support", "neuroprotective"]
+  related_conditions: [cognitive-function, memory]
+- id: anticonvulsant
+  label: Anticonvulsant
+  category: nervous
+
+# ---------------------------------------------------------------- pain / musculoskeletal
+- id: analgesic
+  label: Analgesic (pain relief)
+  category: pain
+  synonyms: ["pain relief", "anodyne", "antinociceptive", "mild analgesic", "topical analgesic"]
+  related_conditions: [pain, headache, back-pain]
+- id: antispasmodic
+  label: Antispasmodic
+  category: musculoskeletal
+  synonyms: ["spasmolytic", "smooth-muscle relaxant", "cramp easing", "antispasmodic (cramp easing)"]
+  related_conditions: [menstrual-cramps, muscle-spasm]
+- id: anti-rheumatic
+  label: Anti-rheumatic / anti-arthritic
+  category: musculoskeletal
+  synonyms: ["antiarthritic", "anti-rheumatic"]
+  related_conditions: [arthritis, back-pain]
+
+# ---------------------------------------------------------------- febrile / general
+- id: antipyretic
+  label: Antipyretic (reduces fever)
+  category: general
+  synonyms: ["febrifuge", "reduces fever"]
+  related_conditions: [fever]
+- id: diaphoretic
+  label: Diaphoretic
+  category: general
+  synonyms: ["sudorific", "promotes sweating"]
+  related_conditions: [fever, cold]
+- id: adaptogen
+  label: Adaptogen
+  category: general
+  synonyms: ["adaptogenic tonic", "tonic for fatigue"]
+  related_conditions: [fatigue, stress]
+- id: anti-oedematous
+  label: Anti-oedematous (reduces swelling)
+  category: general
+  synonyms: ["anti-swelling", "reduces leg swelling", "anti-oedematous", "decongestant (oedema)"]
+  related_conditions: [swelling, varicose-veins]
+
+# ---------------------------------------------------------------- respiratory
+- id: expectorant
+  label: Expectorant
+  category: respiratory
+  synonyms: ["secretolytic", "mucolytic", "expectorant / secretolytic"]
+  related_conditions: [cough, bronchitis, respiratory-support]
+- id: antitussive
+  label: Antitussive (cough suppressant)
+  category: respiratory
+  synonyms: ["calms dry cough", "antitussive"]
+  related_conditions: [cough]
+- id: demulcent
+  label: Demulcent (soothing mucilage)
+  category: respiratory
+  synonyms: ["mucilage", "soothing demulcent", "demulcent / expectorant"]
+  related_conditions: [sore-throat, cough, skin-irritation]
+- id: bronchodilator
+  label: Bronchodilator / anti-asthmatic
+  category: respiratory
+  synonyms: ["bronchodilatory", "antispasmodic support in bronchial asthma"]
+  related_conditions: [asthma, cough]
+
+# ---------------------------------------------------------------- digestive
+- id: carminative
+  label: Carminative
+  category: digestive
+  synonyms: ["relieves flatulence", "warming carminative"]
+  related_conditions: [bloating, indigestion]
+- id: bitter-tonic
+  label: Bitter digestive tonic / stomachic
+  category: digestive
+  synonyms: ["bitter digestive tonic", "stomachic", "aromatic bitter", "bitter digestive"]
+  related_conditions: [indigestion, appetite-loss]
+- id: digestive
+  label: Digestive aid
+  category: digestive
+  synonyms: ["digestive aid", "digestive support", "digestive / gastrointestinal support"]
+  related_conditions: [indigestion, bloating]
+- id: choleretic
+  label: Choleretic / cholagogue (bile flow)
+  category: digestive
+  synonyms: ["cholagogue", "stimulates bile flow"]
+  related_conditions: [indigestion, liver-support]
+- id: appetite-stimulant
+  label: Appetite stimulant
+  category: digestive
+  synonyms: ["appetite support", "aromatic bitter for loss of appetite"]
+  related_conditions: [appetite-loss]
+- id: gastroprotective
+  label: Gastroprotective
+  category: digestive
+  synonyms: ["protects gastric mucosa"]
+  related_conditions: [acid-reflux, indigestion]
+- id: laxative
+  label: Laxative
+  category: digestive
+  synonyms: ["bulk laxative", "aperient", "mild laxative"]
+  related_conditions: [constipation]
+- id: hepatoprotective
+  label: Hepatoprotective (liver support)
+  category: digestive
+  synonyms: ["liver support", "hepatic", "hepatoprotective / liver support"]
+  related_conditions: [liver-support, detox]
+- id: prebiotic
+  label: Prebiotic
+  category: digestive
+  synonyms: ["inulin-rich"]
+  related_conditions: [indigestion]
+- id: astringent
+  label: Astringent
+  category: digestive
+  synonyms: ["tannins", "astringent (tannins)"]
+  related_conditions: [diarrhea, wounds, skin-irritation]
+- id: antidiarrheal
+  label: Antidiarrhoeal
+  category: digestive
+  synonyms: ["astringent for mild diarrhoea", "relief of mild diarrhoea"]
+  related_conditions: [diarrhea]
+
+# ---------------------------------------------------------------- skin / wound
+- id: vulnerary
+  label: Vulnerary (wound healing)
+  category: skin
+  synonyms: ["wound healing", "wound-healing", "vulnerary (wound healing)", "antiecchymotic"]
+  related_conditions: [wounds, bruising]
+- id: styptic
+  label: Styptic / haemostatic
+  category: skin
+  synonyms: ["haemostatic", "hemostatic", "slows bleeding", "styptic / haemostatic"]
+  related_conditions: [wounds, heavy-bleeding]
+- id: emollient
+  label: Emollient / skin-soothing
+  category: skin
+  synonyms: ["skin-soothing", "soothes irritated skin", "topical soothing", "skin hydration"]
+  related_conditions: [skin-irritation, eczema]
+- id: alterative
+  label: Alterative / depurative ('detox')
+  category: skin
+  synonyms: ["depurative", "alterative", "detoxifying"]
+  related_conditions: [eczema, psoriasis, acne, detox]
+
+# ---------------------------------------------------------------- immune
+- id: immunomodulator
+  label: Immunomodulator / immune support
+  category: immune
+  synonyms: ["immunostimulant", "immune support", "immunomodulatory", "immune support / immunomodulation"]
+  related_conditions: [immune-support, cold]
+- id: antihistaminic
+  label: Antihistaminic / antiallergic
+  category: immune
+  synonyms: ["antiallergic", "leukotriene-inhibiting"]
+  related_conditions: [allergy]
+
+# ---------------------------------------------------------------- reproductive / hormonal
+- id: emmenagogue
+  label: Emmenagogue / uterine tonic
+  category: reproductive
+  synonyms: ["uterine tonic", "tones the uterus"]
+  related_conditions: [menstrual-cramps, pms]
+- id: galactagogue
+  label: Galactagogue (supports lactation)
+  category: reproductive
+  synonyms: ["supports breast-milk supply"]
+  related_conditions: [lactation-support]
+- id: aphrodisiac
+  label: Aphrodisiac
+  category: reproductive
+  related_conditions: [fertility]

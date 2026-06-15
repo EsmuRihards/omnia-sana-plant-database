@@ -1,0 +1,297 @@
+# Omnia Sana — controlled vocabulary: CONDITIONS (symptoms / indications)
+# Schema: ../schema/condition.schema.json
+#
+# Consumer-facing. This is the SOURCE OF TRUTH for the Symptom-to-Plant Lookup
+# (replaces the in-page `var META` keys + synonym map). ids match the existing
+# tool keys where possible so the migration is lossless. `consumer_synonyms` are
+# the free-text terms a visitor might type/search.
+
+# -------------------------------------------------------------------- digestive
+- id: indigestion
+  label: Indigestion
+  body_system: digestive
+  consumer_synonyms: ["dyspepsia", "upset stomach", "stomach upset"]
+- id: bloating
+  label: Bloating
+  body_system: digestive
+  consumer_synonyms: ["flatulence", "gas", "fullness"]
+- id: appetite-loss
+  label: Loss of appetite
+  body_system: digestive
+  consumer_synonyms: ["poor appetite", "loss of appetite"]
+- id: nausea
+  label: Nausea
+  body_system: digestive
+  consumer_synonyms: ["queasiness"]
+- id: acid-reflux
+  label: Acid reflux
+  body_system: digestive
+  consumer_synonyms: ["heartburn", "gerd", "acid indigestion"]
+- id: constipation
+  label: Constipation
+  body_system: digestive
+- id: diarrhea
+  label: Diarrhoea
+  body_system: digestive
+  consumer_synonyms: ["diarrhoea", "loose stools"]
+- id: ibs
+  label: Irritable bowel syndrome (IBS)
+  body_system: digestive
+  consumer_synonyms: ["irritable bowel"]
+- id: ibd
+  label: Inflammatory bowel disease (IBD)
+  body_system: digestive
+  consumer_synonyms: ["ulcerative colitis", "crohn's disease", "crohn"]
+- id: liver-support
+  label: Liver support
+  body_system: digestive
+  consumer_synonyms: ["hepatoprotection", "fatty liver", "nafld", "liver health"]
+- id: detox
+  label: Detox / cleansing
+  body_system: digestive
+  consumer_synonyms: ["detoxification", "depurative", "cleansing"]
+
+# -------------------------------------------------------------------- respiratory
+- id: cough
+  label: Cough
+  body_system: respiratory
+  consumer_synonyms: ["dry cough", "productive cough", "chesty cough", "catarrh", "whooping cough"]
+- id: bronchitis
+  label: Bronchitis
+  body_system: respiratory
+- id: cold
+  label: Cold & flu
+  body_system: respiratory
+  consumer_synonyms: ["common cold", "flu", "influenza", "upper respiratory infection"]
+- id: sore-throat
+  label: Sore throat
+  body_system: respiratory
+  consumer_synonyms: ["pharyngitis", "tonsillitis", "tonsillopharyngitis"]
+- id: asthma
+  label: Asthma
+  body_system: respiratory
+- id: sinusitis
+  label: Sinusitis
+  body_system: respiratory
+  consumer_synonyms: ["rhinosinusitis", "sinus congestion"]
+- id: respiratory-support
+  label: Respiratory support
+  body_system: respiratory
+  consumer_synonyms: ["chest support", "respiratory catarrh", "clears phlegm"]
+
+# -------------------------------------------------------------------- cardiovascular
+- id: high-cholesterol
+  label: High cholesterol
+  body_system: cardiovascular
+  consumer_synonyms: ["hyperlipidemia", "high lipids", "high ldl"]
+- id: high-blood-pressure
+  label: High blood pressure
+  body_system: cardiovascular
+  consumer_synonyms: ["hypertension", "raised blood pressure"]
+- id: varicose-veins
+  label: Varicose veins
+  body_system: cardiovascular
+  consumer_synonyms: ["chronic venous insufficiency", "tired legs", "venous insufficiency"]
+- id: hemorrhoids
+  label: Haemorrhoids
+  body_system: cardiovascular
+  consumer_synonyms: ["haemorrhoids", "piles"]
+- id: cardiovascular-support
+  label: Cardiovascular / heart health
+  body_system: cardiovascular
+  consumer_synonyms: ["heart health", "cardiovascular health", "circulation"]
+
+# -------------------------------------------------------------------- urinary
+- id: uti
+  label: Urinary tract infection (UTI)
+  body_system: urinary
+  consumer_synonyms: ["cystitis", "bladder infection", "urinary infection"]
+- id: kidney-support
+  label: Kidney support
+  body_system: urinary
+  consumer_synonyms: ["renal support", "kidney health"]
+- id: prostate-support
+  label: Prostate support
+  body_system: urinary
+  consumer_synonyms: ["benign prostatic hyperplasia", "bph", "enlarged prostate"]
+- id: urinary-support
+  label: Urinary support
+  body_system: urinary
+  consumer_synonyms: ["overactive bladder", "lower urinary tract symptoms", "bladder support"]
+
+# -------------------------------------------------------------------- reproductive / hormonal
+- id: menstrual-cramps
+  label: Menstrual cramps
+  body_system: reproductive
+  consumer_synonyms: ["period pain", "dysmenorrhea", "dysmenorrhoea", "cramps"]
+- id: pms
+  label: PMS / premenstrual syndrome
+  body_system: reproductive
+  consumer_synonyms: ["premenstrual syndrome", "breast pain", "mastalgia", "cyclical breast pain"]
+- id: menopause
+  label: Menopause
+  body_system: reproductive
+  consumer_synonyms: ["perimenopause", "menopausal symptoms"]
+- id: hot-flashes
+  label: Hot flashes
+  body_system: reproductive
+  consumer_synonyms: ["hot flushes", "night sweats"]
+- id: heavy-bleeding
+  label: Heavy menstrual bleeding
+  body_system: reproductive
+  consumer_synonyms: ["menorrhagia", "nosebleeds", "epistaxis"]
+- id: pregnancy-support
+  label: Pregnancy support
+  body_system: reproductive
+  consumer_synonyms: ["labour support", "uterine tone"]
+- id: lactation-support
+  label: Lactation support
+  body_system: reproductive
+  consumer_synonyms: ["breast-milk supply", "galactagogue", "breastfeeding"]
+- id: fertility
+  label: Fertility
+  body_system: reproductive
+  consumer_synonyms: ["libido", "aphrodisiac"]
+
+# -------------------------------------------------------------------- nervous / mental
+- id: anxiety
+  label: Anxiety
+  body_system: nervous
+  consumer_synonyms: ["nervousness", "anxious"]
+- id: stress
+  label: Stress
+  body_system: nervous
+  consumer_synonyms: ["mental stress"]
+- id: nervous-tension
+  label: Nervous tension
+  body_system: nervous
+  consumer_synonyms: ["restlessness"]
+- id: insomnia
+  label: Insomnia / sleeplessness
+  body_system: nervous
+  consumer_synonyms: ["sleeplessness", "poor sleep", "sleep quality"]
+- id: depression
+  label: Low mood / depression
+  body_system: nervous
+  consumer_synonyms: ["low mood", "mild depression"]
+- id: cognitive-function
+  label: Cognitive function
+  body_system: nervous
+  consumer_synonyms: ["concentration", "mental performance", "focus", "brain fog"]
+- id: memory
+  label: Memory
+  body_system: nervous
+  consumer_synonyms: ["recall"]
+- id: fatigue
+  label: Fatigue / low energy
+  body_system: nervous
+  consumer_synonyms: ["low energy", "tiredness", "low vitality", "stamina"]
+- id: headache
+  label: Headache
+  body_system: nervous
+  consumer_synonyms: ["tension headache"]
+- id: migraine
+  label: Migraine
+  body_system: nervous
+
+# -------------------------------------------------------------------- musculoskeletal
+- id: pain
+  label: Pain (general)
+  body_system: musculoskeletal
+  consumer_synonyms: ["aches", "general pain"]
+- id: arthritis
+  label: Arthritis / joint pain
+  body_system: musculoskeletal
+  consumer_synonyms: ["osteoarthritis", "rheumatoid arthritis", "joint pain", "joint support", "rheumatism"]
+- id: back-pain
+  label: Back pain
+  body_system: musculoskeletal
+  consumer_synonyms: ["low back pain", "lower back pain"]
+- id: muscle-spasm
+  label: Muscle spasm
+  body_system: musculoskeletal
+  consumer_synonyms: ["muscle cramps"]
+- id: muscle-soreness
+  label: Muscle soreness
+  body_system: musculoskeletal
+  consumer_synonyms: ["exercise recovery", "doms"]
+
+# -------------------------------------------------------------------- skin
+- id: skin-irritation
+  label: Skin irritation
+  body_system: skin
+  consumer_synonyms: ["irritated skin", "rash", "inflamed skin"]
+- id: eczema
+  label: Eczema
+  body_system: skin
+  consumer_synonyms: ["atopic dermatitis"]
+- id: psoriasis
+  label: Psoriasis
+  body_system: skin
+- id: acne
+  label: Acne
+  body_system: skin
+  consumer_synonyms: ["spots", "oily skin"]
+- id: wounds
+  label: Wounds
+  body_system: skin
+  consumer_synonyms: ["cuts", "minor wounds", "sores"]
+- id: bruising
+  label: Bruising
+  body_system: skin
+  consumer_synonyms: ["bruises", "contusion"]
+- id: warts
+  label: Warts
+  body_system: skin
+
+# -------------------------------------------------------------------- eye / ENT / oral
+- id: eye-strain
+  label: Eye strain / eye health
+  body_system: eye
+  consumer_synonyms: ["eye health", "tired eyes", "conjunctivitis", "eye irritation"]
+- id: earache
+  label: Earache
+  body_system: ent
+  consumer_synonyms: ["ear pain", "otitis"]
+- id: oral-health
+  label: Oral & throat health
+  body_system: oral
+  consumer_synonyms: ["mouth inflammation", "gingivitis", "oral mucosa", "mouth ulcers"]
+- id: bad-breath
+  label: Bad breath
+  body_system: oral
+  consumer_synonyms: ["halitosis"]
+
+# -------------------------------------------------------------------- immune / general / metabolic
+- id: immune-support
+  label: Immune support
+  body_system: immune
+  consumer_synonyms: ["immunity", "immune health", "resistance to colds"]
+- id: infection
+  label: Infection (general)
+  body_system: immune
+  consumer_synonyms: ["bacterial infection", "microbial infection"]
+- id: allergy
+  label: Allergy / hay fever
+  body_system: immune
+  consumer_synonyms: ["hay fever", "allergic rhinitis", "allergic conjunctivitis", "allergies"]
+- id: inflammation
+  label: Inflammation (general)
+  body_system: general
+  consumer_synonyms: ["inflammatory conditions"]
+- id: fever
+  label: Fever
+  body_system: general
+  consumer_synonyms: ["feverishness", "pyrexia"]
+- id: swelling
+  label: Swelling / fluid retention
+  body_system: general
+  consumer_synonyms: ["oedema", "edema", "fluid retention", "water retention"]
+- id: blood-sugar
+  label: Blood sugar / diabetes support
+  body_system: metabolic
+  consumer_synonyms: ["type 2 diabetes", "high blood sugar", "glucose control", "glycemic"]
+- id: metabolic-support
+  label: Metabolic support
+  body_system: metabolic
+  consumer_synonyms: ["metabolic syndrome", "weight support"]

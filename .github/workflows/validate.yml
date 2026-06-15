@@ -1,11 +1,11 @@
-name: Validate references
+name: Validate database
 
-# Runs the reference-integrity checker on every push and pull request so a
-# broken REF-XXXX -> BibTeX link can never silently land on the main branch.
+# Runs the integrity checker on every push and pull request so a broken
+# REF-XXXX -> BibTeX link, an unknown action/condition/compound id, or a
+# malformed record can never silently land.
 
 on:
   push:
-    branches: [main, master]
   pull_request:
 
 jobs:
@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         run: pip install pyyaml
 
-      - name: Validate references
-        run: python validate_references.py
+      - name: Validate database
+        run: python scripts/validate.py

@@ -1,0 +1,1260 @@
+{
+ "schema": "omnia-sana/vocab@1",
+ "actions": [
+  {
+   "id": "anti-inflammatory",
+   "label": "Anti-inflammatory",
+   "category": "inflammation"
+  },
+  {
+   "id": "antioxidant",
+   "label": "Antioxidant",
+   "category": "cellular"
+  },
+  {
+   "id": "anticancer",
+   "label": "Anticancer (preclinical)",
+   "category": "cellular"
+  },
+  {
+   "id": "antimicrobial",
+   "label": "Antimicrobial",
+   "category": "antimicrobial"
+  },
+  {
+   "id": "antifungal",
+   "label": "Antifungal",
+   "category": "antimicrobial"
+  },
+  {
+   "id": "antiviral",
+   "label": "Antiviral",
+   "category": "antimicrobial"
+  },
+  {
+   "id": "antimalarial",
+   "label": "Antimalarial",
+   "category": "antimicrobial"
+  },
+  {
+   "id": "antidiabetic",
+   "label": "Antidiabetic (blood-sugar lowering)",
+   "category": "metabolic"
+  },
+  {
+   "id": "lipid-lowering",
+   "label": "Lipid-lowering",
+   "category": "cardiovascular"
+  },
+  {
+   "id": "antihypertensive",
+   "label": "Antihypertensive",
+   "category": "cardiovascular"
+  },
+  {
+   "id": "venotonic",
+   "label": "Venotonic / vasoprotective",
+   "category": "cardiovascular"
+  },
+  {
+   "id": "antiplatelet",
+   "label": "Antiplatelet / anticoagulant",
+   "category": "cardiovascular"
+  },
+  {
+   "id": "diuretic",
+   "label": "Diuretic",
+   "category": "urinary"
+  },
+  {
+   "id": "urinary-antiseptic",
+   "label": "Urinary antiseptic",
+   "category": "urinary"
+  },
+  {
+   "id": "nephroprotective",
+   "label": "Nephroprotective (kidney support)",
+   "category": "urinary"
+  },
+  {
+   "id": "sedative",
+   "label": "Sedative / sleep support",
+   "category": "nervous"
+  },
+  {
+   "id": "anxiolytic",
+   "label": "Anxiolytic / calming",
+   "category": "nervous"
+  },
+  {
+   "id": "antidepressant",
+   "label": "Antidepressant / mood support",
+   "category": "nervous"
+  },
+  {
+   "id": "neuroprotective",
+   "label": "Neuroprotective / cognition support",
+   "category": "nervous"
+  },
+  {
+   "id": "anticonvulsant",
+   "label": "Anticonvulsant",
+   "category": "nervous"
+  },
+  {
+   "id": "analgesic",
+   "label": "Analgesic (pain relief)",
+   "category": "pain"
+  },
+  {
+   "id": "antispasmodic",
+   "label": "Antispasmodic",
+   "category": "musculoskeletal"
+  },
+  {
+   "id": "anti-rheumatic",
+   "label": "Anti-rheumatic / anti-arthritic",
+   "category": "musculoskeletal"
+  },
+  {
+   "id": "antipyretic",
+   "label": "Antipyretic (reduces fever)",
+   "category": "general"
+  },
+  {
+   "id": "diaphoretic",
+   "label": "Diaphoretic",
+   "category": "general"
+  },
+  {
+   "id": "adaptogen",
+   "label": "Adaptogen",
+   "category": "general"
+  },
+  {
+   "id": "ergogenic",
+   "label": "Physical performance / ergogenic",
+   "category": "general"
+  },
+  {
+   "id": "anti-oedematous",
+   "label": "Anti-oedematous (reduces swelling)",
+   "category": "general"
+  },
+  {
+   "id": "expectorant",
+   "label": "Expectorant",
+   "category": "respiratory"
+  },
+  {
+   "id": "antitussive",
+   "label": "Antitussive (cough suppressant)",
+   "category": "respiratory"
+  },
+  {
+   "id": "demulcent",
+   "label": "Demulcent (soothing mucilage)",
+   "category": "respiratory"
+  },
+  {
+   "id": "bronchodilator",
+   "label": "Bronchodilator / anti-asthmatic",
+   "category": "respiratory"
+  },
+  {
+   "id": "carminative",
+   "label": "Carminative",
+   "category": "digestive"
+  },
+  {
+   "id": "bitter-tonic",
+   "label": "Bitter digestive tonic / stomachic",
+   "category": "digestive"
+  },
+  {
+   "id": "digestive",
+   "label": "Digestive aid",
+   "category": "digestive"
+  },
+  {
+   "id": "choleretic",
+   "label": "Choleretic / cholagogue (bile flow)",
+   "category": "digestive"
+  },
+  {
+   "id": "appetite-stimulant",
+   "label": "Appetite stimulant",
+   "category": "digestive"
+  },
+  {
+   "id": "gastroprotective",
+   "label": "Gastroprotective",
+   "category": "digestive"
+  },
+  {
+   "id": "laxative",
+   "label": "Laxative",
+   "category": "digestive"
+  },
+  {
+   "id": "hepatoprotective",
+   "label": "Hepatoprotective (liver support)",
+   "category": "digestive"
+  },
+  {
+   "id": "prebiotic",
+   "label": "Prebiotic",
+   "category": "digestive"
+  },
+  {
+   "id": "astringent",
+   "label": "Astringent",
+   "category": "digestive"
+  },
+  {
+   "id": "antidiarrheal",
+   "label": "Antidiarrhoeal",
+   "category": "digestive"
+  },
+  {
+   "id": "vulnerary",
+   "label": "Vulnerary (wound healing)",
+   "category": "skin"
+  },
+  {
+   "id": "styptic",
+   "label": "Styptic / haemostatic",
+   "category": "skin"
+  },
+  {
+   "id": "emollient",
+   "label": "Emollient / skin-soothing",
+   "category": "skin"
+  },
+  {
+   "id": "alterative",
+   "label": "Alterative / depurative ('detox')",
+   "category": "skin"
+  },
+  {
+   "id": "immunomodulator",
+   "label": "Immunomodulator / immune support",
+   "category": "immune"
+  },
+  {
+   "id": "antihistaminic",
+   "label": "Antihistaminic / antiallergic",
+   "category": "immune"
+  },
+  {
+   "id": "emmenagogue",
+   "label": "Emmenagogue / uterine tonic",
+   "category": "reproductive"
+  },
+  {
+   "id": "galactagogue",
+   "label": "Galactagogue (supports lactation)",
+   "category": "reproductive"
+  },
+  {
+   "id": "aphrodisiac",
+   "label": "Aphrodisiac",
+   "category": "reproductive"
+  }
+ ],
+ "conditions": [
+  {
+   "id": "indigestion",
+   "label": "Indigestion",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "dyspepsia",
+    "upset stomach",
+    "stomach upset"
+   ]
+  },
+  {
+   "id": "bloating",
+   "label": "Bloating",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "flatulence",
+    "gas",
+    "fullness"
+   ]
+  },
+  {
+   "id": "appetite-loss",
+   "label": "Loss of appetite",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "poor appetite",
+    "loss of appetite"
+   ]
+  },
+  {
+   "id": "nausea",
+   "label": "Nausea",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "queasiness"
+   ]
+  },
+  {
+   "id": "acid-reflux",
+   "label": "Acid reflux",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "heartburn",
+    "gerd",
+    "acid indigestion"
+   ]
+  },
+  {
+   "id": "constipation",
+   "label": "Constipation",
+   "body_system": "digestive",
+   "consumer_synonyms": []
+  },
+  {
+   "id": "diarrhea",
+   "label": "Diarrhoea",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "diarrhoea",
+    "loose stools"
+   ]
+  },
+  {
+   "id": "ibs",
+   "label": "Irritable bowel syndrome (IBS)",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "irritable bowel"
+   ]
+  },
+  {
+   "id": "ibd",
+   "label": "Inflammatory bowel disease (IBD)",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "ulcerative colitis",
+    "crohn's disease",
+    "crohn"
+   ]
+  },
+  {
+   "id": "liver-support",
+   "label": "Liver support",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "hepatoprotection",
+    "fatty liver",
+    "nafld",
+    "liver health"
+   ]
+  },
+  {
+   "id": "detox",
+   "label": "Detox / cleansing",
+   "body_system": "digestive",
+   "consumer_synonyms": [
+    "detoxification",
+    "depurative",
+    "cleansing"
+   ]
+  },
+  {
+   "id": "cough",
+   "label": "Cough",
+   "body_system": "respiratory",
+   "consumer_synonyms": [
+    "dry cough",
+    "productive cough",
+    "chesty cough",
+    "catarrh",
+    "whooping cough"
+   ]
+  },
+  {
+   "id": "bronchitis",
+   "label": "Bronchitis",
+   "body_system": "respiratory",
+   "consumer_synonyms": []
+  },
+  {
+   "id": "cold",
+   "label": "Cold & flu",
+   "body_system": "respiratory",
+   "consumer_synonyms": [
+    "common cold",
+    "flu",
+    "influenza",
+    "upper respiratory infection"
+   ]
+  },
+  {
+   "id": "sore-throat",
+   "label": "Sore throat",
+   "body_system": "respiratory",
+   "consumer_synonyms": [
+    "pharyngitis",
+    "tonsillitis",
+    "tonsillopharyngitis"
+   ]
+  },
+  {
+   "id": "asthma",
+   "label": "Asthma",
+   "body_system": "respiratory",
+   "consumer_synonyms": []
+  },
+  {
+   "id": "sinusitis",
+   "label": "Sinusitis",
+   "body_system": "respiratory",
+   "consumer_synonyms": [
+    "rhinosinusitis",
+    "sinus congestion"
+   ]
+  },
+  {
+   "id": "respiratory-support",
+   "label": "Respiratory support",
+   "body_system": "respiratory",
+   "consumer_synonyms": [
+    "chest support",
+    "respiratory catarrh",
+    "clears phlegm"
+   ]
+  },
+  {
+   "id": "high-cholesterol",
+   "label": "High cholesterol",
+   "body_system": "cardiovascular",
+   "consumer_synonyms": [
+    "hyperlipidemia",
+    "high lipids",
+    "high ldl"
+   ]
+  },
+  {
+   "id": "high-blood-pressure",
+   "label": "High blood pressure",
+   "body_system": "cardiovascular",
+   "consumer_synonyms": [
+    "hypertension",
+    "raised blood pressure"
+   ]
+  },
+  {
+   "id": "varicose-veins",
+   "label": "Varicose veins",
+   "body_system": "cardiovascular",
+   "consumer_synonyms": [
+    "chronic venous insufficiency",
+    "tired legs",
+    "venous insufficiency"
+   ]
+  },
+  {
+   "id": "hemorrhoids",
+   "label": "Haemorrhoids",
+   "body_system": "cardiovascular",
+   "consumer_synonyms": [
+    "haemorrhoids",
+    "haemorrhoid",
+    "hemorrhoid",
+    "piles"
+   ]
+  },
+  {
+   "id": "cardiovascular-support",
+   "label": "Cardiovascular / heart health",
+   "body_system": "cardiovascular",
+   "consumer_synonyms": [
+    "heart health",
+    "cardiovascular health",
+    "circulation"
+   ]
+  },
+  {
+   "id": "uti",
+   "label": "Urinary tract infection (UTI)",
+   "body_system": "urinary",
+   "consumer_synonyms": [
+    "cystitis",
+    "bladder infection",
+    "urinary infection",
+    "urinary tract infection",
+    "urinary tract"
+   ]
+  },
+  {
+   "id": "kidney-support",
+   "label": "Kidney support",
+   "body_system": "urinary",
+   "consumer_synonyms": [
+    "renal support",
+    "kidney health"
+   ]
+  },
+  {
+   "id": "prostate-support",
+   "label": "Prostate support",
+   "body_system": "urinary",
+   "consumer_synonyms": [
+    "benign prostatic hyperplasia",
+    "bph",
+    "enlarged prostate"
+   ]
+  },
+  {
+   "id": "urinary-support",
+   "label": "Urinary support",
+   "body_system": "urinary",
+   "consumer_synonyms": [
+    "overactive bladder",
+    "lower urinary tract symptoms",
+    "bladder support"
+   ]
+  },
+  {
+   "id": "menstrual-cramps",
+   "label": "Menstrual cramps",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "period pain",
+    "dysmenorrhea",
+    "dysmenorrhoea",
+    "cramps",
+    "menstrual complaint"
+   ]
+  },
+  {
+   "id": "pms",
+   "label": "PMS / premenstrual syndrome",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "premenstrual syndrome",
+    "premenstrual",
+    "breast pain",
+    "mastalgia",
+    "cyclical breast pain"
+   ]
+  },
+  {
+   "id": "menopause",
+   "label": "Menopause",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "perimenopause",
+    "menopausal symptoms"
+   ]
+  },
+  {
+   "id": "hot-flashes",
+   "label": "Hot flashes",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "hot flushes",
+    "night sweats"
+   ]
+  },
+  {
+   "id": "heavy-bleeding",
+   "label": "Heavy menstrual bleeding",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "menorrhagia",
+    "nosebleeds",
+    "epistaxis"
+   ]
+  },
+  {
+   "id": "pregnancy-support",
+   "label": "Pregnancy support",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "labour support",
+    "uterine tone"
+   ]
+  },
+  {
+   "id": "lactation-support",
+   "label": "Lactation support",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "breast-milk supply",
+    "galactagogue",
+    "breastfeeding"
+   ]
+  },
+  {
+   "id": "fertility",
+   "label": "Fertility",
+   "body_system": "reproductive",
+   "consumer_synonyms": [
+    "libido",
+    "aphrodisiac"
+   ]
+  },
+  {
+   "id": "anxiety",
+   "label": "Anxiety",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "nervousness",
+    "anxious"
+   ]
+  },
+  {
+   "id": "stress",
+   "label": "Stress",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "mental stress"
+   ]
+  },
+  {
+   "id": "nervous-tension",
+   "label": "Nervous tension",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "restlessness"
+   ]
+  },
+  {
+   "id": "insomnia",
+   "label": "Insomnia / sleeplessness",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "sleeplessness",
+    "poor sleep",
+    "sleep quality"
+   ]
+  },
+  {
+   "id": "depression",
+   "label": "Low mood / depression",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "low mood",
+    "mild depression"
+   ]
+  },
+  {
+   "id": "cognitive-function",
+   "label": "Cognitive function",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "concentration",
+    "mental performance",
+    "focus",
+    "brain fog"
+   ]
+  },
+  {
+   "id": "memory",
+   "label": "Memory",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "recall"
+   ]
+  },
+  {
+   "id": "fatigue",
+   "label": "Fatigue / low energy",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "low energy",
+    "tiredness",
+    "low vitality",
+    "stamina"
+   ]
+  },
+  {
+   "id": "headache",
+   "label": "Headache",
+   "body_system": "nervous",
+   "consumer_synonyms": [
+    "tension headache"
+   ]
+  },
+  {
+   "id": "migraine",
+   "label": "Migraine",
+   "body_system": "nervous",
+   "consumer_synonyms": []
+  },
+  {
+   "id": "pain",
+   "label": "Pain (general)",
+   "body_system": "musculoskeletal",
+   "consumer_synonyms": [
+    "aches",
+    "general pain"
+   ]
+  },
+  {
+   "id": "arthritis",
+   "label": "Arthritis / joint pain",
+   "body_system": "musculoskeletal",
+   "consumer_synonyms": [
+    "osteoarthritis",
+    "rheumatoid arthritis",
+    "joint pain",
+    "joint support",
+    "rheumatism"
+   ]
+  },
+  {
+   "id": "back-pain",
+   "label": "Back pain",
+   "body_system": "musculoskeletal",
+   "consumer_synonyms": [
+    "low back pain",
+    "lower back pain"
+   ]
+  },
+  {
+   "id": "muscle-spasm",
+   "label": "Muscle spasm",
+   "body_system": "musculoskeletal",
+   "consumer_synonyms": [
+    "muscle cramps"
+   ]
+  },
+  {
+   "id": "muscle-soreness",
+   "label": "Muscle soreness",
+   "body_system": "musculoskeletal",
+   "consumer_synonyms": [
+    "exercise recovery",
+    "doms"
+   ]
+  },
+  {
+   "id": "skin-irritation",
+   "label": "Skin irritation",
+   "body_system": "skin",
+   "consumer_synonyms": [
+    "irritated skin",
+    "rash",
+    "inflamed skin"
+   ]
+  },
+  {
+   "id": "eczema",
+   "label": "Eczema",
+   "body_system": "skin",
+   "consumer_synonyms": [
+    "atopic dermatitis"
+   ]
+  },
+  {
+   "id": "psoriasis",
+   "label": "Psoriasis",
+   "body_system": "skin",
+   "consumer_synonyms": []
+  },
+  {
+   "id": "acne",
+   "label": "Acne",
+   "body_system": "skin",
+   "consumer_synonyms": [
+    "spots",
+    "oily skin"
+   ]
+  },
+  {
+   "id": "wounds",
+   "label": "Wounds",
+   "body_system": "skin",
+   "consumer_synonyms": [
+    "cuts",
+    "minor wounds",
+    "sores"
+   ]
+  },
+  {
+   "id": "bruising",
+   "label": "Bruising",
+   "body_system": "skin",
+   "consumer_synonyms": [
+    "bruises",
+    "contusion"
+   ]
+  },
+  {
+   "id": "warts",
+   "label": "Warts",
+   "body_system": "skin",
+   "consumer_synonyms": []
+  },
+  {
+   "id": "eye-strain",
+   "label": "Eye strain / eye health",
+   "body_system": "eye",
+   "consumer_synonyms": [
+    "eye health",
+    "tired eyes",
+    "conjunctivitis",
+    "eye irritation"
+   ]
+  },
+  {
+   "id": "earache",
+   "label": "Earache",
+   "body_system": "ent",
+   "consumer_synonyms": [
+    "ear pain",
+    "otitis"
+   ]
+  },
+  {
+   "id": "oral-health",
+   "label": "Oral & throat health",
+   "body_system": "oral",
+   "consumer_synonyms": [
+    "mouth inflammation",
+    "gingivitis",
+    "oral mucosa",
+    "mouth ulcers"
+   ]
+  },
+  {
+   "id": "bad-breath",
+   "label": "Bad breath",
+   "body_system": "oral",
+   "consumer_synonyms": [
+    "halitosis"
+   ]
+  },
+  {
+   "id": "immune-support",
+   "label": "Immune support",
+   "body_system": "immune",
+   "consumer_synonyms": [
+    "immunity",
+    "immune health",
+    "resistance to colds"
+   ]
+  },
+  {
+   "id": "infection",
+   "label": "Infection (general)",
+   "body_system": "immune",
+   "consumer_synonyms": [
+    "bacterial infection",
+    "microbial infection"
+   ]
+  },
+  {
+   "id": "allergy",
+   "label": "Allergy / hay fever",
+   "body_system": "immune",
+   "consumer_synonyms": [
+    "hay fever",
+    "allergic rhinitis",
+    "allergic conjunctivitis",
+    "allergies"
+   ]
+  },
+  {
+   "id": "inflammation",
+   "label": "Inflammation (general)",
+   "body_system": "general",
+   "consumer_synonyms": [
+    "inflammatory conditions"
+   ]
+  },
+  {
+   "id": "fever",
+   "label": "Fever",
+   "body_system": "general",
+   "consumer_synonyms": [
+    "feverishness",
+    "pyrexia"
+   ]
+  },
+  {
+   "id": "swelling",
+   "label": "Swelling / fluid retention",
+   "body_system": "general",
+   "consumer_synonyms": [
+    "oedema",
+    "edema",
+    "fluid retention",
+    "water retention"
+   ]
+  },
+  {
+   "id": "blood-sugar",
+   "label": "Blood sugar / diabetes support",
+   "body_system": "metabolic",
+   "consumer_synonyms": [
+    "type 2 diabetes",
+    "high blood sugar",
+    "glucose control",
+    "glycemic"
+   ]
+  },
+  {
+   "id": "metabolic-support",
+   "label": "Metabolic support",
+   "body_system": "metabolic",
+   "consumer_synonyms": [
+    "metabolic syndrome",
+    "weight support"
+   ]
+  }
+ ],
+ "compounds": [
+  {
+   "id": "alkaloid",
+   "name": "Alkaloids",
+   "class": "alkaloid"
+  },
+  {
+   "id": "allantoin",
+   "name": "Allantoin",
+   "class": "other"
+  },
+  {
+   "id": "allicin",
+   "name": "Allicin / organosulfur thiosulfinates",
+   "class": "organosulfur"
+  },
+  {
+   "id": "anthocyanin",
+   "name": "Anthocyanins",
+   "class": "flavonoid"
+  },
+  {
+   "id": "anthraquinone",
+   "name": "Anthraquinones",
+   "class": "phenolic"
+  },
+  {
+   "id": "apigenin",
+   "name": "Apigenin",
+   "class": "flavonoid"
+  },
+  {
+   "id": "arctigenin",
+   "name": "Arctigenin / arctiin",
+   "class": "lignan"
+  },
+  {
+   "id": "asarone",
+   "name": "Asarones (alpha-/beta-asarone)",
+   "class": "phenolic"
+  },
+  {
+   "id": "berberine",
+   "name": "Berberine",
+   "class": "alkaloid"
+  },
+  {
+   "id": "bisabolol",
+   "name": "Alpha-bisabolol",
+   "class": "terpene"
+  },
+  {
+   "id": "boswellic-acid",
+   "name": "Boswellic acids",
+   "class": "terpene"
+  },
+  {
+   "id": "caffeic-acid",
+   "name": "Caffeic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "camphor",
+   "name": "Camphor",
+   "class": "terpene"
+  },
+  {
+   "id": "carotenoid",
+   "name": "Carotenoids",
+   "class": "terpene"
+  },
+  {
+   "id": "carvacrol",
+   "name": "Carvacrol",
+   "class": "terpene"
+  },
+  {
+   "id": "catechin",
+   "name": "Catechins",
+   "class": "flavonoid"
+  },
+  {
+   "id": "chamazulene",
+   "name": "Chamazulene",
+   "class": "terpene"
+  },
+  {
+   "id": "chlorogenic-acid",
+   "name": "Chlorogenic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "cineole",
+   "name": "1,8-Cineole (eucalyptol)",
+   "class": "terpene"
+  },
+  {
+   "id": "citral",
+   "name": "Citral (neral / geranial)",
+   "class": "terpene"
+  },
+  {
+   "id": "coumarin",
+   "name": "Coumarins",
+   "class": "phenolic"
+  },
+  {
+   "id": "curcumin",
+   "name": "Curcumin",
+   "class": "phenolic"
+  },
+  {
+   "id": "ellagic-acid",
+   "name": "Ellagic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "escin",
+   "name": "Escin (aescin)",
+   "class": "saponin"
+  },
+  {
+   "id": "essential-oil",
+   "name": "Essential (volatile) oil",
+   "class": "volatile-oil"
+  },
+  {
+   "id": "eugenol",
+   "name": "Eugenol",
+   "class": "phenolic"
+  },
+  {
+   "id": "ferulic-acid",
+   "name": "Ferulic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "flavonoid",
+   "name": "Flavonoids",
+   "class": "flavonoid"
+  },
+  {
+   "id": "gallic-acid",
+   "name": "Gallic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "gingerol",
+   "name": "Gingerols / shogaols",
+   "class": "phenolic"
+  },
+  {
+   "id": "ginsenoside",
+   "name": "Ginsenosides / eleutherosides",
+   "class": "saponin"
+  },
+  {
+   "id": "gla",
+   "name": "Gamma-linolenic acid (GLA)",
+   "class": "fatty-acid"
+  },
+  {
+   "id": "glycoside",
+   "name": "Glycosides",
+   "class": "glycoside"
+  },
+  {
+   "id": "glycyrrhizin",
+   "name": "Glycyrrhizin",
+   "class": "saponin"
+  },
+  {
+   "id": "harpagoside",
+   "name": "Harpagoside",
+   "class": "glycoside"
+  },
+  {
+   "id": "hyperforin",
+   "name": "Hyperforin",
+   "class": "phenolic"
+  },
+  {
+   "id": "hypericin",
+   "name": "Hypericin",
+   "class": "phenolic"
+  },
+  {
+   "id": "inulin",
+   "name": "Inulin",
+   "class": "polysaccharide"
+  },
+  {
+   "id": "iridoid-glycoside",
+   "name": "Iridoid glycosides",
+   "class": "glycoside"
+  },
+  {
+   "id": "kaempferol",
+   "name": "Kaempferol",
+   "class": "flavonoid"
+  },
+  {
+   "id": "lignan",
+   "name": "Lignans",
+   "class": "lignan"
+  },
+  {
+   "id": "linalool",
+   "name": "Linalool",
+   "class": "terpene"
+  },
+  {
+   "id": "luteolin",
+   "name": "Luteolin",
+   "class": "flavonoid"
+  },
+  {
+   "id": "menthol",
+   "name": "Menthol",
+   "class": "terpene"
+  },
+  {
+   "id": "mucilage",
+   "name": "Mucilage",
+   "class": "polysaccharide"
+  },
+  {
+   "id": "organosulfur",
+   "name": "Organosulfur compounds",
+   "class": "organosulfur"
+  },
+  {
+   "id": "parthenolide",
+   "name": "Parthenolide",
+   "class": "terpene"
+  },
+  {
+   "id": "pectin",
+   "name": "Pectin",
+   "class": "polysaccharide"
+  },
+  {
+   "id": "phenolic-acid",
+   "name": "Phenolic acids",
+   "class": "phenolic"
+  },
+  {
+   "id": "phenolic-compound",
+   "name": "Phenolic compounds",
+   "class": "phenolic"
+  },
+  {
+   "id": "phytosterol",
+   "name": "Phytosterols",
+   "class": "sterol"
+  },
+  {
+   "id": "polysaccharide",
+   "name": "Polysaccharides",
+   "class": "polysaccharide"
+  },
+  {
+   "id": "proanthocyanidin",
+   "name": "Proanthocyanidins",
+   "class": "flavonoid"
+  },
+  {
+   "id": "quercetin",
+   "name": "Quercetin",
+   "class": "flavonoid"
+  },
+  {
+   "id": "rosmarinic-acid",
+   "name": "Rosmarinic acid",
+   "class": "phenolic"
+  },
+  {
+   "id": "rutin",
+   "name": "Rutin",
+   "class": "flavonoid"
+  },
+  {
+   "id": "saponin",
+   "name": "Saponins",
+   "class": "saponin"
+  },
+  {
+   "id": "sesquiterpene-lactone",
+   "name": "Sesquiterpene lactones",
+   "class": "terpene"
+  },
+  {
+   "id": "sesquiterpene",
+   "name": "Sesquiterpenes",
+   "class": "terpene"
+  },
+  {
+   "id": "silica",
+   "name": "Silica",
+   "class": "mineral"
+  },
+  {
+   "id": "silymarin",
+   "name": "Silymarin (silybin)",
+   "class": "flavonoid"
+  },
+  {
+   "id": "starch",
+   "name": "Starch",
+   "class": "polysaccharide"
+  },
+  {
+   "id": "tannin",
+   "name": "Tannins",
+   "class": "phenolic"
+  },
+  {
+   "id": "terpene",
+   "name": "Terpenes / terpenoids",
+   "class": "terpene"
+  },
+  {
+   "id": "thymol",
+   "name": "Thymol",
+   "class": "terpene"
+  },
+  {
+   "id": "triterpene-saponin",
+   "name": "Triterpene saponins",
+   "class": "saponin"
+  },
+  {
+   "id": "valerenic-acid",
+   "name": "Valerenic acid",
+   "class": "terpene"
+  },
+  {
+   "id": "verbascoside",
+   "name": "Verbascoside (acteoside)",
+   "class": "phenolic"
+  },
+  {
+   "id": "withanolide",
+   "name": "Withanolides",
+   "class": "terpene"
+  }
+ ]
+}

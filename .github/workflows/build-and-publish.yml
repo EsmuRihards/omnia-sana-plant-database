@@ -1,0 +1,51 @@
+name: Build & publish JSON
+
+# On any change to the canonical data, validate, rebuild the build/*.json outputs
+# the website consumes, and commit them back. The build/ path is intentionally
+# NOT a trigger here, so the bot's outputs commit does not re-trigger this job.
+
+on:
+  push:
+    paths:
+      - 'plants/**'
+      - 'vocabularies/**'
+      - 'compounds/**'
+      - 'bibliography.bibtex'
+      - 'schema/**'
+      - 'scripts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate
+        run: python scripts/validate.py
+
+      - name: Build JSON outputs
+        run: python scripts/build.py
+
+      - name: Commit build/ if changed
+        run: |
+          git config user.name "omnia-sana-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if ! git diff --quiet -- build/; then
+            git add build/
+            git commit -m "build: regenerate JSON outputs"
+            git push
+          else
+            echo "build/ unchanged"
+          fi

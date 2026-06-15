@@ -29,18 +29,23 @@ its own (often missing) citations. This database fixes that:
 plant-database/
 ├── .gitignore
 ├── README.md
-├── validate_references.py      # integrity checker (YAML ↔ bibliography)
 ├── bibliography.bibtex         # every scientific reference, one BibTeX entry each
-├── plants/                     # one YAML file per plant
-│   ├── taraxacum_officinale.yaml
-│   └── ...
-├── tools/                      # reproducible ingestion scripts (provenance)
-│   ├── ingest_book.py          # book manuscript -> plant YAML + bibliography
-│   ├── add_dandelion.py        # Dandelion worked example from omniasana.bio
-│   ├── ingest_website.py       # omniasana.bio pages + Symptom-to-Plant Lookup
-│   └── sources/                # saved raw source data the scripts ingest
+├── schema/                     # JSON Schemas — the data contract for each entity
+│   ├── plant.schema.json   compound.schema.json   source.schema.json
+│   └── action.schema.json  condition.schema.json
+├── plants/                     # one YAML per species (the human editing unit)
+├── compounds/                  # one YAML per active compound / class entity
+├── vocabularies/               # controlled vocab: actions.yaml, conditions.yaml
+├── build/                      # generated JSON the website consumes (built in CI)
+│   └── citations.json  symptoms.json  plants.json  vocab.json
+├── scripts/
+│   ├── validate.py             # integrity checker (refs + vocab + schema)
+│   └── build.py                # builds all build/*.json from the canonical data
+├── ingest/
+│   └── archive/                # one-shot ingestion/migration scripts + raw sources
 └── .github/workflows/
-    └── validate.yml            # CI: runs validate_references.py on every push/PR
+    ├── validate.yml            # CI: scripts/validate.py on every push/PR
+    └── build-and-publish.yml   # CI: rebuild + commit build/*.json on data change
 ```
 
 ### File-naming convention
@@ -136,7 +141,7 @@ BibTeX entry's `note` field:
 }
 ```
 
-So a plant YAML cites `REF-0042`, and `validate_references.py` confirms that a
+So a plant YAML cites `REF-0042`, and `scripts/validate.py` confirms that a
 BibTeX entry carries `note = {REF-0042}`.
 
 ### Abstracts (optional)
@@ -172,7 +177,7 @@ field holding the publication's official abstract:
 4. Set `last_updated` to today and the top-level `status`.
 5. Run the validator:
    ```bash
-   python validate_references.py
+   python scripts/validate.py
    ```
 6. Commit (see syncing below).
 
@@ -187,7 +192,7 @@ field holding the publication's official abstract:
    the `note` field.
 3. Keep entries **sorted alphabetically by citation key**.
 4. Reference the new id from the relevant plant YAML.
-5. Run `python validate_references.py`.
+5. Run `python scripts/validate.py`.
 
 ## How to mark a claim's status
 
@@ -204,7 +209,7 @@ record `status`:
 ## Validating
 
 ```bash
-python validate_references.py
+python scripts/validate.py
 ```
 
 - **Exit 0** — every cited `REF-XXXX` resolves to a BibTeX entry.
@@ -259,7 +264,7 @@ Day-to-day:
 
 ```bash
 # 1. Work locally; ALWAYS validate before committing.
-python validate_references.py
+python scripts/validate.py
 git add .
 git commit -m "Describe what changed"
 
@@ -272,7 +277,7 @@ git diff HEAD~1 HEAD > ../batch.patch
 #      git push origin add-plant-database
 ```
 
-CI runs `validate_references.py` on every push/PR (`.github/workflows/validate.yml`).
+CI runs `scripts/validate.py` on every push/PR (`.github/workflows/validate.yml`).
 
 > **Planned improvement:** move this database into its own dedicated repository so
 > syncing becomes a normal `git push` (no worktree-patch step). See the architecture

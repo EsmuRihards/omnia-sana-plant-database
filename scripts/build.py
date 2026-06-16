@@ -226,11 +226,16 @@ def main():
         sym_plants.append({
             "name": (p.get("common_names") or [p["scientific_name"]])[0],
             "scientific": p["scientific_name"],
+            "id": p.get("id"),
             "wp_post_id": p.get("wp_post_id"),
+            # `references` are the claim-level reference ids for this plant<->condition
+            # association — they make symptoms.json self-contained for the Symptom-tool
+            # "View Sources" pages (the WP handler can also read them from plants.json).
             "indications": [{"condition": i["condition"],
                             "label": conditions.get(i["condition"], {}).get("label", i["condition"]),
                             "evidence": i["evidence"], "status": i.get("status", ""),
-                            "inferred": i.get("status") == "needs-review"}
+                            "inferred": i.get("status") == "needs-review",
+                            "references": list(i.get("reference_ids", []))}
                            for i in keep],
         })
     sym_conditions = [{"id": c["id"], "label": c["label"], "body_system": c.get("body_system", ""),

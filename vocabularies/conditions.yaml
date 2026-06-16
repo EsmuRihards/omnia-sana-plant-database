@@ -8,14 +8,17 @@
 
 # -------------------------------------------------------------------- digestive
 - id: indigestion
+  related_actions: [bitter-tonic, digestive, gastroprotective]
   label: Indigestion
   body_system: digestive
   consumer_synonyms: ["dyspepsia", "upset stomach", "stomach upset"]
 - id: bloating
+  related_actions: [carminative, digestive]
   label: Bloating
   body_system: digestive
   consumer_synonyms: ["flatulence", "gas", "fullness"]
 - id: appetite-loss
+  related_actions: [appetite-stimulant, bitter-tonic]
   label: Loss of appetite
   body_system: digestive
   consumer_synonyms: ["poor appetite", "loss of appetite"]
@@ -24,13 +27,16 @@
   body_system: digestive
   consumer_synonyms: ["queasiness"]
 - id: acid-reflux
+  related_actions: [gastroprotective]
   label: Acid reflux
   body_system: digestive
   consumer_synonyms: ["heartburn", "gerd", "acid indigestion"]
 - id: constipation
+  related_actions: [laxative]
   label: Constipation
   body_system: digestive
 - id: diarrhea
+  related_actions: [astringent]
   label: Diarrhoea
   body_system: digestive
   consumer_synonyms: ["diarrhoea", "loose stools"]
@@ -43,31 +49,38 @@
   body_system: digestive
   consumer_synonyms: ["ulcerative colitis", "crohn's disease", "crohn"]
 - id: liver-support
+  related_actions: [choleretic, hepatoprotective]
   label: Liver support
   body_system: digestive
   consumer_synonyms: ["hepatoprotection", "fatty liver", "nafld", "liver health"]
 - id: detox
+  related_actions: [alterative, hepatoprotective]
   label: Detox / cleansing
   body_system: digestive
   consumer_synonyms: ["detoxification", "depurative", "cleansing"]
 
 # -------------------------------------------------------------------- respiratory
 - id: cough
+  related_actions: [bronchodilator, demulcent, expectorant]
   label: Cough
   body_system: respiratory
   consumer_synonyms: ["dry cough", "productive cough", "chesty cough", "catarrh", "whooping cough"]
 - id: bronchitis
+  related_actions: [expectorant]
   label: Bronchitis
   body_system: respiratory
 - id: cold
+  related_actions: [antiviral, diaphoretic, immunomodulator]
   label: Cold & flu
   body_system: respiratory
   consumer_synonyms: ["common cold", "flu", "influenza", "upper respiratory infection"]
 - id: sore-throat
+  related_actions: [demulcent]
   label: Sore throat
   body_system: respiratory
   consumer_synonyms: ["pharyngitis", "tonsillitis", "tonsillopharyngitis"]
 - id: asthma
+  related_actions: [bronchodilator]
   label: Asthma
   body_system: respiratory
 - id: sinusitis
@@ -75,12 +88,14 @@
   body_system: respiratory
   consumer_synonyms: ["rhinosinusitis", "sinus congestion"]
 - id: respiratory-support
+  related_actions: [expectorant]
   label: Respiratory support
   body_system: respiratory
   consumer_synonyms: ["chest support", "respiratory catarrh", "clears phlegm"]
 
 # -------------------------------------------------------------------- cardiovascular
 - id: high-cholesterol
+  related_actions: [lipid-lowering]
   label: High cholesterol
   body_system: cardiovascular
   consumer_synonyms: ["hyperlipidemia", "high lipids", "high ldl"]
@@ -89,24 +104,29 @@
   body_system: cardiovascular
   consumer_synonyms: ["hypertension", "raised blood pressure"]
 - id: varicose-veins
+  related_actions: [anti-oedematous]
   label: Varicose veins
   body_system: cardiovascular
   consumer_synonyms: ["chronic venous insufficiency", "tired legs", "venous insufficiency"]
 - id: hemorrhoids
+  related_actions: [venotonic]
   label: Haemorrhoids
   body_system: cardiovascular
   consumer_synonyms: ["haemorrhoids", "haemorrhoid", "hemorrhoid", "piles"]
 - id: cardiovascular-support
+  related_actions: [antihypertensive, lipid-lowering]
   label: Cardiovascular / heart health
   body_system: cardiovascular
   consumer_synonyms: ["heart health", "cardiovascular health", "circulation"]
 
 # -------------------------------------------------------------------- urinary
 - id: uti
+  related_actions: [diuretic]
   label: Urinary tract infection (UTI)
   body_system: urinary
   consumer_synonyms: ["cystitis", "bladder infection", "urinary infection", "urinary tract infection", "urinary tract"]
 - id: kidney-support
+  related_actions: [nephroprotective]
   label: Kidney support
   body_system: urinary
   consumer_synonyms: ["renal support", "kidney health"]
@@ -115,16 +135,19 @@
   body_system: urinary
   consumer_synonyms: ["benign prostatic hyperplasia", "bph", "enlarged prostate"]
 - id: urinary-support
+  related_actions: [diuretic, urinary-antiseptic]
   label: Urinary support
   body_system: urinary
   consumer_synonyms: ["overactive bladder", "lower urinary tract symptoms", "bladder support"]
 
 # -------------------------------------------------------------------- reproductive / hormonal
 - id: menstrual-cramps
+  related_actions: [antispasmodic]
   label: Menstrual cramps
   body_system: reproductive
   consumer_synonyms: ["period pain", "dysmenorrhea", "dysmenorrhoea", "cramps", "menstrual complaint"]
 - id: pms
+  related_actions: [emmenagogue]
   label: PMS / premenstrual syndrome
   body_system: reproductive
   consumer_synonyms: ["premenstrual syndrome", "premenstrual", "breast pain", "mastalgia", "cyclical breast pain"]
@@ -137,6 +160,7 @@
   body_system: reproductive
   consumer_synonyms: ["hot flushes", "night sweats"]
 - id: heavy-bleeding
+  related_actions: [styptic]
   label: Heavy menstrual bleeding
   body_system: reproductive
   consumer_synonyms: ["menorrhagia", "nosebleeds", "epistaxis"]
@@ -155,38 +179,47 @@
 
 # -------------------------------------------------------------------- nervous / mental
 - id: anxiety
+  related_actions: [anxiolytic]
   label: Anxiety
   body_system: nervous
   consumer_synonyms: ["nervousness", "anxious"]
 - id: stress
+  related_actions: [adaptogen, anxiolytic]
   label: Stress
   body_system: nervous
   consumer_synonyms: ["mental stress"]
 - id: nervous-tension
+  related_actions: [anxiolytic]
   label: Nervous tension
   body_system: nervous
   consumer_synonyms: ["restlessness"]
 - id: insomnia
+  related_actions: [sedative]
   label: Insomnia / sleeplessness
   body_system: nervous
   consumer_synonyms: ["sleeplessness", "poor sleep", "sleep quality"]
 - id: depression
+  related_actions: [antidepressant]
   label: Low mood / depression
   body_system: nervous
   consumer_synonyms: ["low mood", "mild depression"]
 - id: cognitive-function
+  related_actions: [neuroprotective]
   label: Cognitive function
   body_system: nervous
   consumer_synonyms: ["concentration", "mental performance", "focus", "brain fog"]
 - id: memory
+  related_actions: [neuroprotective]
   label: Memory
   body_system: nervous
   consumer_synonyms: ["recall"]
 - id: fatigue
+  related_actions: [adaptogen, ergogenic]
   label: Fatigue / low energy
   body_system: nervous
   consumer_synonyms: ["low energy", "tiredness", "low vitality", "stamina"]
 - id: headache
+  related_actions: [analgesic]
   label: Headache
   body_system: nervous
   consumer_synonyms: ["tension headache"]
@@ -196,32 +229,39 @@
 
 # -------------------------------------------------------------------- musculoskeletal
 - id: pain
+  related_actions: [analgesic]
   label: Pain (general)
   body_system: musculoskeletal
   consumer_synonyms: ["aches", "general pain"]
 - id: arthritis
+  related_actions: [anti-inflammatory]
   label: Arthritis / joint pain
   body_system: musculoskeletal
   consumer_synonyms: ["osteoarthritis", "rheumatoid arthritis", "joint pain", "joint support", "rheumatism"]
 - id: back-pain
+  related_actions: [analgesic, anti-rheumatic]
   label: Back pain
   body_system: musculoskeletal
   consumer_synonyms: ["low back pain", "lower back pain"]
 - id: muscle-spasm
+  related_actions: [antispasmodic]
   label: Muscle spasm
   body_system: musculoskeletal
   consumer_synonyms: ["muscle cramps"]
 - id: muscle-soreness
+  related_actions: [ergogenic]
   label: Muscle soreness
   body_system: musculoskeletal
   consumer_synonyms: ["exercise recovery", "doms"]
 
 # -------------------------------------------------------------------- skin
 - id: skin-irritation
+  related_actions: [anti-inflammatory, antifungal, astringent, demulcent, emollient]
   label: Skin irritation
   body_system: skin
   consumer_synonyms: ["irritated skin", "rash", "inflamed skin"]
 - id: eczema
+  related_actions: [emollient]
   label: Eczema
   body_system: skin
   consumer_synonyms: ["atopic dermatitis"]
@@ -229,14 +269,17 @@
   label: Psoriasis
   body_system: skin
 - id: acne
+  related_actions: [alterative]
   label: Acne
   body_system: skin
   consumer_synonyms: ["spots", "oily skin"]
 - id: wounds
+  related_actions: [antimicrobial, astringent, vulnerary]
   label: Wounds
   body_system: skin
   consumer_synonyms: ["cuts", "minor wounds", "sores"]
 - id: bruising
+  related_actions: [vulnerary]
   label: Bruising
   body_system: skin
   consumer_synonyms: ["bruises", "contusion"]
@@ -264,10 +307,12 @@
 
 # -------------------------------------------------------------------- immune / general / metabolic
 - id: immune-support
+  related_actions: [immunomodulator]
   label: Immune support
   body_system: immune
   consumer_synonyms: ["immunity", "immune health", "resistance to colds"]
 - id: infection
+  related_actions: [antifungal, antimicrobial, antiviral]
   label: Infection (general)
   body_system: immune
   consumer_synonyms: ["bacterial infection", "microbial infection"]
@@ -276,22 +321,27 @@
   body_system: immune
   consumer_synonyms: ["hay fever", "allergic rhinitis", "allergic conjunctivitis", "allergies"]
 - id: inflammation
+  related_actions: [anti-inflammatory]
   label: Inflammation (general)
   body_system: general
   consumer_synonyms: ["inflammatory conditions"]
 - id: fever
+  related_actions: [diaphoretic]
   label: Fever
   body_system: general
   consumer_synonyms: ["feverishness", "pyrexia"]
 - id: swelling
+  related_actions: [diuretic, venotonic]
   label: Swelling / fluid retention
   body_system: general
   consumer_synonyms: ["oedema", "edema", "fluid retention", "water retention"]
 - id: blood-sugar
+  related_actions: [antidiabetic]
   label: Blood sugar / diabetes support
   body_system: metabolic
   consumer_synonyms: ["type 2 diabetes", "high blood sugar", "glucose control", "glycemic"]
 - id: metabolic-support
+  related_actions: [antidiabetic]
   label: Metabolic support
   body_system: metabolic
   consumer_synonyms: ["metabolic syndrome", "weight support"]

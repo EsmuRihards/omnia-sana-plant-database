@@ -271,7 +271,8 @@ def main():
                            for i in keep],
         })
     sym_conditions = [{"id": c["id"], "label": c["label"], "body_system": c.get("body_system", ""),
-                       "consumer_synonyms": c.get("consumer_synonyms", [])} for c in conditions.values()]
+                       "consumer_synonyms": c.get("consumer_synonyms", []),
+                       "related_actions": c.get("related_actions", [])} for c in conditions.values()]
     write(os.path.join(OUT, "symptoms.json"),
           {"schema": "omnia-sana/symptom-lookup@1", "count": len(sym_plants),
            "conditions": sorted(sym_conditions, key=lambda c: c["label"].lower()),

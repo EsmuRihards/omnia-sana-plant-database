@@ -271,6 +271,11 @@
     "dyspepsia",
     "upset stomach",
     "stomach upset"
+   ],
+   "related_actions": [
+    "bitter-tonic",
+    "digestive",
+    "gastroprotective"
    ]
   },
   {
@@ -281,6 +286,10 @@
     "flatulence",
     "gas",
     "fullness"
+   ],
+   "related_actions": [
+    "carminative",
+    "digestive"
    ]
   },
   {
@@ -290,6 +299,10 @@
    "consumer_synonyms": [
     "poor appetite",
     "loss of appetite"
+   ],
+   "related_actions": [
+    "appetite-stimulant",
+    "bitter-tonic"
    ]
   },
   {
@@ -298,7 +311,8 @@
    "body_system": "digestive",
    "consumer_synonyms": [
     "queasiness"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "acid-reflux",
@@ -308,13 +322,19 @@
     "heartburn",
     "gerd",
     "acid indigestion"
+   ],
+   "related_actions": [
+    "gastroprotective"
    ]
   },
   {
    "id": "constipation",
    "label": "Constipation",
    "body_system": "digestive",
-   "consumer_synonyms": []
+   "consumer_synonyms": [],
+   "related_actions": [
+    "laxative"
+   ]
   },
   {
    "id": "diarrhea",
@@ -323,6 +343,9 @@
    "consumer_synonyms": [
     "diarrhoea",
     "loose stools"
+   ],
+   "related_actions": [
+    "astringent"
    ]
   },
   {
@@ -331,7 +354,8 @@
    "body_system": "digestive",
    "consumer_synonyms": [
     "irritable bowel"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "ibd",
@@ -341,7 +365,8 @@
     "ulcerative colitis",
     "crohn's disease",
     "crohn"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "liver-support",
@@ -352,6 +377,10 @@
     "fatty liver",
     "nafld",
     "liver health"
+   ],
+   "related_actions": [
+    "choleretic",
+    "hepatoprotective"
    ]
   },
   {
@@ -362,6 +391,10 @@
     "detoxification",
     "depurative",
     "cleansing"
+   ],
+   "related_actions": [
+    "alterative",
+    "hepatoprotective"
    ]
   },
   {
@@ -374,13 +407,21 @@
     "chesty cough",
     "catarrh",
     "whooping cough"
+   ],
+   "related_actions": [
+    "bronchodilator",
+    "demulcent",
+    "expectorant"
    ]
   },
   {
    "id": "bronchitis",
    "label": "Bronchitis",
    "body_system": "respiratory",
-   "consumer_synonyms": []
+   "consumer_synonyms": [],
+   "related_actions": [
+    "expectorant"
+   ]
   },
   {
    "id": "cold",
@@ -391,6 +432,11 @@
     "flu",
     "influenza",
     "upper respiratory infection"
+   ],
+   "related_actions": [
+    "antiviral",
+    "diaphoretic",
+    "immunomodulator"
    ]
   },
   {
@@ -401,13 +447,19 @@
     "pharyngitis",
     "tonsillitis",
     "tonsillopharyngitis"
+   ],
+   "related_actions": [
+    "demulcent"
    ]
   },
   {
    "id": "asthma",
    "label": "Asthma",
    "body_system": "respiratory",
-   "consumer_synonyms": []
+   "consumer_synonyms": [],
+   "related_actions": [
+    "bronchodilator"
+   ]
   },
   {
    "id": "sinusitis",
@@ -416,7 +468,8 @@
    "consumer_synonyms": [
     "rhinosinusitis",
     "sinus congestion"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "respiratory-support",
@@ -426,6 +479,9 @@
     "chest support",
     "respiratory catarrh",
     "clears phlegm"
+   ],
+   "related_actions": [
+    "expectorant"
    ]
   },
   {
@@ -436,6 +492,9 @@
     "hyperlipidemia",
     "high lipids",
     "high ldl"
+   ],
+   "related_actions": [
+    "lipid-lowering"
    ]
   },
   {
@@ -445,7 +504,8 @@
    "consumer_synonyms": [
     "hypertension",
     "raised blood pressure"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "varicose-veins",
@@ -455,6 +515,9 @@
     "chronic venous insufficiency",
     "tired legs",
     "venous insufficiency"
+   ],
+   "related_actions": [
+    "anti-oedematous"
    ]
   },
   {
@@ -466,6 +529,9 @@
     "haemorrhoid",
     "hemorrhoid",
     "piles"
+   ],
+   "related_actions": [
+    "venotonic"
    ]
   },
   {
@@ -476,6 +542,10 @@
     "heart health",
     "cardiovascular health",
     "circulation"
+   ],
+   "related_actions": [
+    "antihypertensive",
+    "lipid-lowering"
    ]
   },
   {
@@ -488,6 +558,9 @@
     "urinary infection",
     "urinary tract infection",
     "urinary tract"
+   ],
+   "related_actions": [
+    "diuretic"
    ]
   },
   {
@@ -497,6 +570,9 @@
    "consumer_synonyms": [
     "renal support",
     "kidney health"
+   ],
+   "related_actions": [
+    "nephroprotective"
    ]
   },
   {
@@ -507,7 +583,8 @@
     "benign prostatic hyperplasia",
     "bph",
     "enlarged prostate"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "urinary-support",
@@ -517,6 +594,10 @@
     "overactive bladder",
     "lower urinary tract symptoms",
     "bladder support"
+   ],
+   "related_actions": [
+    "diuretic",
+    "urinary-antiseptic"
    ]
   },
   {
@@ -529,6 +610,9 @@
     "dysmenorrhoea",
     "cramps",
     "menstrual complaint"
+   ],
+   "related_actions": [
+    "antispasmodic"
    ]
   },
   {
@@ -541,6 +625,9 @@
     "breast pain",
     "mastalgia",
     "cyclical breast pain"
+   ],
+   "related_actions": [
+    "emmenagogue"
    ]
   },
   {
@@ -550,7 +637,8 @@
    "consumer_synonyms": [
     "perimenopause",
     "menopausal symptoms"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "hot-flashes",
@@ -559,7 +647,8 @@
    "consumer_synonyms": [
     "hot flushes",
     "night sweats"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "heavy-bleeding",
@@ -569,6 +658,9 @@
     "menorrhagia",
     "nosebleeds",
     "epistaxis"
+   ],
+   "related_actions": [
+    "styptic"
    ]
   },
   {
@@ -578,7 +670,8 @@
    "consumer_synonyms": [
     "labour support",
     "uterine tone"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "lactation-support",
@@ -588,7 +681,8 @@
     "breast-milk supply",
     "galactagogue",
     "breastfeeding"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "fertility",
@@ -597,7 +691,8 @@
    "consumer_synonyms": [
     "libido",
     "aphrodisiac"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "anxiety",
@@ -606,6 +701,9 @@
    "consumer_synonyms": [
     "nervousness",
     "anxious"
+   ],
+   "related_actions": [
+    "anxiolytic"
    ]
   },
   {
@@ -614,6 +712,10 @@
    "body_system": "nervous",
    "consumer_synonyms": [
     "mental stress"
+   ],
+   "related_actions": [
+    "adaptogen",
+    "anxiolytic"
    ]
   },
   {
@@ -622,6 +724,9 @@
    "body_system": "nervous",
    "consumer_synonyms": [
     "restlessness"
+   ],
+   "related_actions": [
+    "anxiolytic"
    ]
   },
   {
@@ -632,6 +737,9 @@
     "sleeplessness",
     "poor sleep",
     "sleep quality"
+   ],
+   "related_actions": [
+    "sedative"
    ]
   },
   {
@@ -641,6 +749,9 @@
    "consumer_synonyms": [
     "low mood",
     "mild depression"
+   ],
+   "related_actions": [
+    "antidepressant"
    ]
   },
   {
@@ -652,6 +763,9 @@
     "mental performance",
     "focus",
     "brain fog"
+   ],
+   "related_actions": [
+    "neuroprotective"
    ]
   },
   {
@@ -660,6 +774,9 @@
    "body_system": "nervous",
    "consumer_synonyms": [
     "recall"
+   ],
+   "related_actions": [
+    "neuroprotective"
    ]
   },
   {
@@ -671,6 +788,10 @@
     "tiredness",
     "low vitality",
     "stamina"
+   ],
+   "related_actions": [
+    "adaptogen",
+    "ergogenic"
    ]
   },
   {
@@ -679,13 +800,17 @@
    "body_system": "nervous",
    "consumer_synonyms": [
     "tension headache"
+   ],
+   "related_actions": [
+    "analgesic"
    ]
   },
   {
    "id": "migraine",
    "label": "Migraine",
    "body_system": "nervous",
-   "consumer_synonyms": []
+   "consumer_synonyms": [],
+   "related_actions": []
   },
   {
    "id": "pain",
@@ -694,6 +819,9 @@
    "consumer_synonyms": [
     "aches",
     "general pain"
+   ],
+   "related_actions": [
+    "analgesic"
    ]
   },
   {
@@ -706,6 +834,9 @@
     "joint pain",
     "joint support",
     "rheumatism"
+   ],
+   "related_actions": [
+    "anti-inflammatory"
    ]
   },
   {
@@ -715,6 +846,10 @@
    "consumer_synonyms": [
     "low back pain",
     "lower back pain"
+   ],
+   "related_actions": [
+    "analgesic",
+    "anti-rheumatic"
    ]
   },
   {
@@ -723,6 +858,9 @@
    "body_system": "musculoskeletal",
    "consumer_synonyms": [
     "muscle cramps"
+   ],
+   "related_actions": [
+    "antispasmodic"
    ]
   },
   {
@@ -732,6 +870,9 @@
    "consumer_synonyms": [
     "exercise recovery",
     "doms"
+   ],
+   "related_actions": [
+    "ergogenic"
    ]
   },
   {
@@ -742,6 +883,13 @@
     "irritated skin",
     "rash",
     "inflamed skin"
+   ],
+   "related_actions": [
+    "anti-inflammatory",
+    "antifungal",
+    "astringent",
+    "demulcent",
+    "emollient"
    ]
   },
   {
@@ -750,13 +898,17 @@
    "body_system": "skin",
    "consumer_synonyms": [
     "atopic dermatitis"
+   ],
+   "related_actions": [
+    "emollient"
    ]
   },
   {
    "id": "psoriasis",
    "label": "Psoriasis",
    "body_system": "skin",
-   "consumer_synonyms": []
+   "consumer_synonyms": [],
+   "related_actions": []
   },
   {
    "id": "acne",
@@ -765,6 +917,9 @@
    "consumer_synonyms": [
     "spots",
     "oily skin"
+   ],
+   "related_actions": [
+    "alterative"
    ]
   },
   {
@@ -775,6 +930,11 @@
     "cuts",
     "minor wounds",
     "sores"
+   ],
+   "related_actions": [
+    "antimicrobial",
+    "astringent",
+    "vulnerary"
    ]
   },
   {
@@ -784,13 +944,17 @@
    "consumer_synonyms": [
     "bruises",
     "contusion"
+   ],
+   "related_actions": [
+    "vulnerary"
    ]
   },
   {
    "id": "warts",
    "label": "Warts",
    "body_system": "skin",
-   "consumer_synonyms": []
+   "consumer_synonyms": [],
+   "related_actions": []
   },
   {
    "id": "eye-strain",
@@ -801,7 +965,8 @@
     "tired eyes",
     "conjunctivitis",
     "eye irritation"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "earache",
@@ -810,7 +975,8 @@
    "consumer_synonyms": [
     "ear pain",
     "otitis"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "oral-health",
@@ -821,7 +987,8 @@
     "gingivitis",
     "oral mucosa",
     "mouth ulcers"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "bad-breath",
@@ -829,7 +996,8 @@
    "body_system": "oral",
    "consumer_synonyms": [
     "halitosis"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "immune-support",
@@ -839,6 +1007,9 @@
     "immunity",
     "immune health",
     "resistance to colds"
+   ],
+   "related_actions": [
+    "immunomodulator"
    ]
   },
   {
@@ -848,6 +1019,11 @@
    "consumer_synonyms": [
     "bacterial infection",
     "microbial infection"
+   ],
+   "related_actions": [
+    "antifungal",
+    "antimicrobial",
+    "antiviral"
    ]
   },
   {
@@ -859,7 +1035,8 @@
     "allergic rhinitis",
     "allergic conjunctivitis",
     "allergies"
-   ]
+   ],
+   "related_actions": []
   },
   {
    "id": "inflammation",
@@ -867,6 +1044,9 @@
    "body_system": "general",
    "consumer_synonyms": [
     "inflammatory conditions"
+   ],
+   "related_actions": [
+    "anti-inflammatory"
    ]
   },
   {
@@ -876,6 +1056,9 @@
    "consumer_synonyms": [
     "feverishness",
     "pyrexia"
+   ],
+   "related_actions": [
+    "diaphoretic"
    ]
   },
   {
@@ -887,6 +1070,10 @@
     "edema",
     "fluid retention",
     "water retention"
+   ],
+   "related_actions": [
+    "diuretic",
+    "venotonic"
    ]
   },
   {
@@ -898,6 +1085,9 @@
     "high blood sugar",
     "glucose control",
     "glycemic"
+   ],
+   "related_actions": [
+    "antidiabetic"
    ]
   },
   {
@@ -907,6 +1097,9 @@
    "consumer_synonyms": [
     "metabolic syndrome",
     "weight support"
+   ],
+   "related_actions": [
+    "antidiabetic"
    ]
   }
  ],

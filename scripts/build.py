@@ -139,6 +139,37 @@ def display_title(f, key):
     return t or key
 
 
+# Evidence tier of a single source, derived heuristically from its bibtex type and
+# title/abstract wording. Used by the website to label + order source cards by
+# strength (strongest first). Coarse and automatic — an editor can always refine.
+# Ordered strongest -> weakest: review > rct > clinical > preclinical > traditional.
+TIER_RANK = {"review": 0, "rct": 1, "clinical": 2, "preclinical": 3, "traditional": 4}
+
+
+def classify_tier(f, etype):
+    blob = (f.get("title", "") + " " + f.get("abstract", "")).lower()
+    jour = f.get("journal", "").strip()
+
+    def has(*kw):
+        return any(k in blob for k in kw)
+
+    if has("systematic review", "meta-analysis", "meta analysis", "metaanalysis", "cochrane"):
+        return "review"
+    if has("randomized", "randomised", "double-blind", "double blind", "placebo-controlled",
+           "placebo controlled", "randomized controlled", "randomised controlled", "clinical trial"):
+        return "rct"
+    # books, monographs, materia medica and other non-journal references -> traditional
+    if etype in ("book", "incollection", "inbook", "booklet") or (etype == "misc" and not jour) or \
+       has("traditional", "ethnobotan", "ethnopharmacolog", "monograph", "materia medica", "folk medicine"):
+        return "traditional"
+    if has("patients", "human subjects", "participants", "volunteers", "in human", "humans", "open-label", "cohort", "case report"):
+        return "clinical"
+    if has("in vitro", "in-vitro", "animal", "mice", "mouse", " rats", " rat ", "rodent", "cell line",
+           "cells", "cytotox", "molecular docking", "in silico", "antioxidant activity"):
+        return "preclinical"
+    return "preclinical" if jour else "traditional"
+
+
 def load_plants():
     out = []
     for fn in sorted(glob.glob(os.path.join(PLANTS, "*.yaml"))):
@@ -204,6 +235,7 @@ def main():
             "journal": f.get("journal", ""), "year": f.get("year", ""),
             "doi": f.get("doi", ""), "url": f.get("url", ""), "link": link, "link_type": lt,
             "citation": citation, "abstract": f.get("abstract", ""),
+            "tier": classify_tier(f, e["type"]),
             "display": display_title(f, e["key"]),
             "plants": sorted(pi["plants"]), "scientific": sorted(pi["scientific"]),
             "actions": sorted(pi["actions"]), "conditions": sorted(pi["conditions"]),

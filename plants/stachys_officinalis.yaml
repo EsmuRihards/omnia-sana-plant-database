@@ -68,7 +68,6 @@ actions:
   status: needs-review
 indications:
 - condition: anxiety
-  evidence: 3
   note: Gentle calmative for anxiety; Nervine / relaxant for nervous tension and tension headaches (especially
     headache worsened by anxiety or muscle tension)
   reference_ids:
@@ -76,19 +75,16 @@ indications:
   - REF-0535
   status: needs-review
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0535
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: Digestive bitter for indigestion, mild stomach upset and bloating
   reference_ids:
   - REF-0535
   status: needs-review
 - condition: headache
-  evidence: 3
   note: Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by
     anxiety or muscle tension)
   reference_ids:
@@ -96,31 +92,26 @@ indications:
   - REF-0535
   status: verified
 - condition: indigestion
-  evidence: 2
   note: Digestive bitter for indigestion, mild stomach upset and bloating
   reference_ids:
   - REF-0535
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0535
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0535
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0535
   status: needs-review
 - condition: nervous-tension
-  evidence: 3
   note: Nervine / relaxant for nervous tension and tension headaches (especially headache worsened by
     anxiety or muscle tension)
   reference_ids:
@@ -128,13 +119,11 @@ indications:
   - REF-0535
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0535
   status: needs-review
 - condition: stress
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0534

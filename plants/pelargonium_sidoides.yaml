@@ -36,7 +36,6 @@ actions:
   status: verified
 indications:
 - condition: bronchitis
-  evidence: 4
   note: Acute bronchitis - reduces symptom severity and shortens illness
   reference_ids:
   - REF-0492
@@ -44,32 +43,27 @@ indications:
   - REF-0576
   status: verified
 - condition: cold
-  evidence: 3
   note: Common cold and acute respiratory tract infection
   reference_ids:
   - REF-0492
   status: verified
 - condition: immune-support
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0493
   status: needs-review
 - condition: infection
-  evidence: 3
   note: Common cold and acute respiratory tract infection
   reference_ids:
   - REF-0492
   status: verified
 - condition: sinusitis
-  evidence: 3
   note: Rhinosinusitis (sinusitis) support
   reference_ids:
   - REF-0492
   - REF-0577
   status: verified
 - condition: sore-throat
-  evidence: 3
   note: Sore throat / acute tonsillopharyngitis
   reference_ids:
   - REF-0492

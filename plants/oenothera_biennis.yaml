@@ -31,27 +31,22 @@ actions:
   status: needs-review
 indications:
 - condition: eczema
-  evidence: 3
   note: Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective
   reference_ids:
   - REF-0447
   status: needs-review
 - condition: hot-flashes
-  evidence: 2
   note: Menopausal hot flushes - some trial benefit reported
   reference_ids:
   - REF-0446
   status: needs-review
 - condition: inflammation
-  evidence: 2
   reference_ids: []
   status: needs-review
 - condition: menopause
-  evidence: 2
   reference_ids: []
   status: needs-review
 - condition: pain
-  evidence: 2
   note: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
     (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with
     a combination of EPO and vitamin E most effective)
@@ -60,7 +55,6 @@ indications:
   - REF-0600
   status: needs-review
 - condition: pms
-  evidence: 3
   note: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
     (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with
     a combination of EPO and vitamin E most effective)
@@ -69,7 +63,6 @@ indications:
   - REF-0600
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0446

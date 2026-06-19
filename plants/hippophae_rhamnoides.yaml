@@ -48,7 +48,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0049
@@ -56,7 +55,6 @@ indications:
   - REF-0319
   status: needs-review
 - condition: blood-sugar
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0049
@@ -64,7 +62,6 @@ indications:
   - REF-0319
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0049
@@ -72,14 +69,12 @@ indications:
   - REF-0319
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0049
   - REF-0206
   - REF-0319
   status: verified
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0049
@@ -87,7 +82,6 @@ indications:
   - REF-0319
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0049
@@ -95,14 +89,12 @@ indications:
   - REF-0319
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0049
   - REF-0206
   - REF-0319
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0049
@@ -110,7 +102,6 @@ indications:
   - REF-0319
   status: needs-review
 - condition: metabolic-support
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0049
@@ -118,7 +109,6 @@ indications:
   - REF-0319
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0049
@@ -126,7 +116,6 @@ indications:
   - REF-0319
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0049

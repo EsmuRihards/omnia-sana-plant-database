@@ -68,33 +68,28 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0463
   - REF-0617
   status: needs-review
 - condition: bronchitis
-  evidence: 2
   note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
   reference_ids:
   - REF-0463
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0463
   - REF-0617
   status: needs-review
 - condition: cough
-  evidence: 2
   note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
   reference_ids:
   - REF-0463
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
     and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
     suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro
@@ -103,20 +98,17 @@ indications:
   - REF-0617
   status: verified
 - condition: immune-support
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0463
   - REF-0617
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
   reference_ids:
   - REF-0463
   status: needs-review
 - condition: psoriasis
-  evidence: 2
   note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
     and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations
     suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro
@@ -125,19 +117,16 @@ indications:
   - REF-0617
   status: verified
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0463
   status: needs-review
 - condition: skin-irritation
-  evidence: 3
   note: Soothes irritated skin (demulcent and anti-inflammatory)
   reference_ids:
   - REF-0463
   status: verified
 - condition: sore-throat
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0463

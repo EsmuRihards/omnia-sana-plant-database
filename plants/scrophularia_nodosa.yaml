@@ -58,27 +58,23 @@ actions:
   status: needs-review
 indications:
 - condition: acne
-  evidence: 2
   note: inferred from alterative action
   reference_ids:
   - REF-0451
   - REF-0452
   status: needs-review
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0452
   status: needs-review
 - condition: detox
-  evidence: 2
   note: inferred from alterative action
   reference_ids:
   - REF-0451
   - REF-0452
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice,
     salve or tea)
   reference_ids:
@@ -86,25 +82,21 @@ indications:
   - REF-0452
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0452
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0630
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0630
   status: needs-review
 - condition: psoriasis
-  evidence: 2
   note: Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice,
     salve or tea)
   reference_ids:
@@ -112,7 +104,6 @@ indications:
   - REF-0452
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: Anti-inflammatory; soothes inflamed, irritated skin; Traditional 'alterative' for chronic skin
     conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)
   reference_ids:
@@ -120,19 +111,16 @@ indications:
   - REF-0452
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0452
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0452
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0452

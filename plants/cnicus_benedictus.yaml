@@ -68,59 +68,50 @@ actions:
   status: needs-review
 indications:
 - condition: appetite-loss
-  evidence: 3
   note: Appetite stimulant for loss of appetite (approved use under German Commission E)
   reference_ids:
   - REF-0419
   - REF-0420
   status: verified
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0419
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0419
   - REF-0420
   status: needs-review
 - condition: indigestion
-  evidence: 3
   note: Bitter digestive / stomachic for indigestion and dyspepsia (stimulates saliva and gastric secretion)
   reference_ids:
   - REF-0419
   - REF-0420
   status: verified
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0419
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0419
   status: needs-review
 - condition: lactation-support
-  evidence: 2
   note: Galactagogue to support breast-milk supply (traditional; no valid clinical-trial evidence)
   reference_ids:
   - REF-0420
   - REF-0421
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0419
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0419

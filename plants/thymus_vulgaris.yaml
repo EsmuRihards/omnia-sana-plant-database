@@ -53,7 +53,6 @@ actions:
   status: verified
 indications:
 - condition: bronchitis
-  evidence: 3
   note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
     extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
     fits)
@@ -62,7 +61,6 @@ indications:
   - REF-0593
   status: verified
 - condition: cold
-  evidence: 3
   note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
     extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
     fits)
@@ -71,7 +69,6 @@ indications:
   - REF-0593
   status: verified
 - condition: cough
-  evidence: 3
   note: Expectorant for productive (chesty) cough associated with cold and bronchitis - a fixed thyme-ivy
     extract combination outperformed placebo in acute bronchitis (faster, greater reduction in coughing
     fits)
@@ -80,39 +77,33 @@ indications:
   - REF-0593
   status: verified
 - condition: infection
-  evidence: 3
   note: Antimicrobial (thymol and carvacrol) - supports respiratory infection
   reference_ids:
   - REF-0486
   - REF-0519
   status: verified
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0519
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0519
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0519
   - REF-0593
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   note: Sore throat relief (antiseptic gargle)
   reference_ids:
   - REF-0519
   status: verified
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0486

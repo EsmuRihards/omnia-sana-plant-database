@@ -35,7 +35,6 @@ actions:
   status: needs-review
 indications:
 - condition: bronchitis
-  evidence: 2
   note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
     reflex and loosen mucus) - largely an outdated use
   reference_ids:
@@ -43,7 +42,6 @@ indications:
   - REF-0512
   status: needs-review
 - condition: cough
-  evidence: 2
   note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
     reflex and loosen mucus) - largely an outdated use
   reference_ids:
@@ -51,21 +49,18 @@ indications:
   - REF-0512
   status: needs-review
 - condition: detox
-  evidence: 2
   note: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
     for eczema)
   reference_ids:
   - REF-0512
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
     for eczema)
   reference_ids:
   - REF-0512
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
     reflex and loosen mucus) - largely an outdated use
   reference_ids:
@@ -73,7 +68,6 @@ indications:
   - REF-0512
   status: needs-review
 - condition: skin-irritation
-  evidence: 1
   reference_ids: []
   status: needs-review
 contraindications:

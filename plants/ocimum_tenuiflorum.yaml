@@ -54,69 +54,58 @@ actions:
   status: needs-review
 indications:
 - condition: anxiety
-  evidence: 3
   note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
   reference_ids:
   - REF-0466
   status: verified
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0467
   status: needs-review
 - condition: blood-sugar
-  evidence: 3
   note: Supports blood-sugar control (lowers fasting and post-meal glucose)
   reference_ids:
   - REF-0466
   status: verified
 - condition: cognitive-function
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0596
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0466
   - REF-0467
   status: needs-review
 - condition: fatigue
-  evidence: 2
   note: inferred from adaptogen action
   reference_ids:
   - REF-0466
   status: needs-review
 - condition: immune-support
-  evidence: 3
   note: Immunomodulatory / immune support
   reference_ids:
   - REF-0466
   - REF-0467
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0467
   status: needs-review
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0596
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0467
   status: needs-review
 - condition: stress
-  evidence: 3
   note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
   reference_ids:
   - REF-0466

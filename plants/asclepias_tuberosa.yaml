@@ -42,54 +42,46 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0495
   status: needs-review
 - condition: bronchitis
-  evidence: 2
   note: Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy
   reference_ids:
   - REF-0494
   - REF-0495
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from diaphoretic action
   reference_ids:
   - REF-0494
   - REF-0495
   status: needs-review
 - condition: cough
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0494
   - REF-0495
   status: needs-review
 - condition: fever
-  evidence: 2
   note: inferred from diaphoretic action
   reference_ids:
   - REF-0494
   - REF-0495
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: Anti-inflammatory for lung inflammation (traditional)
   reference_ids:
   - REF-0495
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0494
   - REF-0495
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0495

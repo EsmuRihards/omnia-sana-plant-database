@@ -42,13 +42,11 @@ actions:
   status: verified
 indications:
 - condition: diarrhea
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0507
   status: needs-review
 - condition: heavy-bleeding
-  evidence: 4
   note: Haemostatic / styptic - reduces heavy menstrual bleeding (menorrhagia); also used for nosebleeds
     and postpartum bleeding. In a randomized clinical trial, Capsella bursa-pastoris added to mefenamic
     acid reduced menstrual blood loss significantly more than mefenamic acid alone
@@ -58,25 +56,21 @@ indications:
   - REF-0608
   status: verified
 - condition: menstrual-cramps
-  evidence: 2
   note: Tones the uterus and eases menstrual flow and cramps (traditional)
   reference_ids:
   - REF-0507
   status: needs-review
 - condition: pms
-  evidence: 2
   note: inferred from emmenagogue action
   reference_ids:
   - REF-0507
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0507
   status: needs-review
 - condition: wounds
-  evidence: 3
   note: Astringent / styptic for minor wounds (helps stop bleeding, topical)
   reference_ids:
   - REF-0507

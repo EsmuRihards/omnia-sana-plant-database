@@ -31,7 +31,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0186
@@ -39,7 +38,6 @@ indications:
   - REF-0289
   status: needs-review
 - condition: bronchitis
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0186
@@ -47,7 +45,6 @@ indications:
   - REF-0289
   status: needs-review
 - condition: cough
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0186
@@ -55,7 +52,6 @@ indications:
   - REF-0289
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0186
@@ -63,7 +59,6 @@ indications:
   - REF-0289
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: inferred from sedative action
   reference_ids:
   - REF-0186
@@ -71,14 +66,12 @@ indications:
   - REF-0289
   status: needs-review
 - condition: respiratory-support
-  evidence: 3
   reference_ids:
   - REF-0186
   - REF-0254
   - REF-0289
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0186

@@ -56,48 +56,41 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0479
   - REF-0629
   status: needs-review
 - condition: bronchitis
-  evidence: 2
   note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
     (mucilage and saponins)
   reference_ids:
   - REF-0479
   status: needs-review
 - condition: cough
-  evidence: 2
   note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
     (mucilage and saponins)
   reference_ids:
   - REF-0479
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0479
   - REF-0629
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
     (mucilage and saponins)
   reference_ids:
   - REF-0479
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0479
   status: needs-review
 - condition: sore-throat
-  evidence: 2
   note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
     (mucilage and saponins)
   reference_ids:

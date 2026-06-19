@@ -43,7 +43,6 @@ actions:
   status: needs-review
 indications:
 - condition: allergy
-  evidence: 4
   note: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
     review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
     allergic rhinitis)
@@ -52,19 +51,16 @@ indications:
   - REF-0544
   status: verified
 - condition: asthma
-  evidence: 2
   note: Antispasmodic support in bronchial asthma
   reference_ids:
   - REF-0426
   status: needs-review
 - condition: cough
-  evidence: 2
   note: inferred from bronchodilator action
   reference_ids:
   - REF-0426
   status: needs-review
 - condition: fever
-  evidence: 4
   note: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
     review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
     allergic rhinitis)
@@ -73,19 +69,16 @@ indications:
   - REF-0544
   status: verified
 - condition: headache
-  evidence: 3
   reference_ids:
   - REF-0426
   - REF-0543
   status: verified
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0426
   status: needs-review
 - condition: migraine
-  evidence: 4
   note: Migraine prophylaxis (reduces attack frequency; up to ~60% reduction vs placebo in a randomised
     controlled trial of a standardised CO2 root extract)
   reference_ids:
@@ -93,7 +86,6 @@ indications:
   - REF-0543
   status: verified
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0426

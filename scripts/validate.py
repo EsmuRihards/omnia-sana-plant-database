@@ -6,7 +6,7 @@ Checks:
   1. Every REF-id cited anywhere in plants/*.yaml resolves to a BibTeX entry.
   2. Every action / condition / compound id used in a plant resolves to its
      controlled vocabulary (vocabularies/) or compound entity (compounds/).
-  3. Required fields, id slug format, id uniqueness, status enum, evidence range.
+  3. Required fields, id slug format, id uniqueness, status enum, evidence_override range.
   4. Orphan references (in bibliography, never cited) are reported as warnings.
 
 Exit 0 = clean. Exit 1 = hard error (missing ref/vocab id, malformed record).
@@ -85,8 +85,9 @@ def main():
         for i in d.get("indications", []):
             if i.get("condition") not in C:
                 errors.append(f"{name}: condition '{i.get('condition')}' not in conditions vocab")
-            if not (isinstance(i.get("evidence"), int) and 1 <= i["evidence"] <= 5):
-                errors.append(f"{name}: indication '{i.get('condition')}' bad evidence {i.get('evidence')}")
+            ov = i.get("evidence_override")
+            if ov is not None and not (isinstance(ov, int) and 1 <= ov <= 10):
+                errors.append(f"{name}: indication '{i.get('condition')}' bad evidence_override {ov} (want int 1-10)")
         for c in d.get("constituents", []):
             for cm in c.get("compounds", []):
                 if cm not in K:

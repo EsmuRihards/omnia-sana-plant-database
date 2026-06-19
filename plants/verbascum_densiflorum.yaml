@@ -50,7 +50,6 @@ actions:
   status: verified
 indications:
 - condition: bronchitis
-  evidence: 3
   note: Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa;
     saponins loosen mucus)
   reference_ids:
@@ -58,14 +57,12 @@ indications:
   - REF-0442
   status: verified
 - condition: cold
-  evidence: 3
   note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
   reference_ids:
   - REF-0441
   - REF-0442
   status: verified
 - condition: cough
-  evidence: 3
   note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough;
     Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa; saponins
     loosen mucus)
@@ -74,7 +71,6 @@ indications:
   - REF-0442
   status: verified
 - condition: earache
-  evidence: 2
   note: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop
     containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis media
     (combination products, not mullein alone)
@@ -84,7 +80,6 @@ indications:
   - REF-0612
   status: needs-review
 - condition: pain
-  evidence: 2
   note: Traditional infused-oil ('mullein oil') for earache - two RCTs of a naturopathic herbal ear drop
     containing Verbascum found it as effective as anaesthetic drops for ear pain in acute otitis media
     (combination products, not mullein alone)
@@ -94,21 +89,18 @@ indications:
   - REF-0612
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0441
   - REF-0442
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0441
   - REF-0442
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
   reference_ids:
   - REF-0441

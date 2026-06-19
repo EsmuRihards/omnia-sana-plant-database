@@ -32,7 +32,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0148
@@ -40,7 +39,6 @@ indications:
   - REF-0308
   status: needs-review
 - condition: blood-sugar
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0148
@@ -48,21 +46,18 @@ indications:
   - REF-0308
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0148
   - REF-0182
   - REF-0308
   status: verified
 - condition: fertility
-  evidence: 3
   reference_ids:
   - REF-0148
   - REF-0182
   - REF-0308
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0148
@@ -70,14 +65,12 @@ indications:
   - REF-0308
   status: needs-review
 - condition: metabolic-support
-  evidence: 3
   reference_ids:
   - REF-0148
   - REF-0182
   - REF-0308
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0148

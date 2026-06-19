@@ -57,45 +57,38 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0483
   - REF-0484
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0483
   status: needs-review
 - condition: blood-sugar
-  evidence: 3
   note: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
   reference_ids:
   - REF-0559
   status: verified
 - condition: detox
-  evidence: 3
   note: Supports liver recovery and 'detox' (traditional framing of the hepatoprotective action)
   reference_ids:
   - REF-0483
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: Digestive support / mild dyspepsia (traditional)
   reference_ids:
   - REF-0483
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0483
   - REF-0484
   status: needs-review
 - condition: liver-support
-  evidence: 4
   note: Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic); May improve
     liver enzymes and hepatic fat in non-alcoholic fatty liver disease (NAFLD)
   reference_ids:
@@ -104,13 +97,11 @@ indications:
   - REF-0560
   status: needs-review
 - condition: metabolic-support
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0559
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0483

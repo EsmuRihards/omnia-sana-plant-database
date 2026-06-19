@@ -63,19 +63,16 @@ actions:
   status: needs-review
 indications:
 - condition: blood-sugar
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0587
   status: needs-review
 - condition: cognitive-function
-  evidence: 3
   note: Cognitive-function and mental-performance support
   reference_ids:
   - REF-0506
   status: verified
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0506
@@ -83,7 +80,6 @@ indications:
   - REF-0587
   status: needs-review
 - condition: fatigue
-  evidence: 3
   note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
   reference_ids:
   - REF-0506
@@ -91,7 +87,6 @@ indications:
   - REF-0587
   status: verified
 - condition: immune-support
-  evidence: 3
   note: Immune support (immunomodulatory)
   reference_ids:
   - REF-0506
@@ -99,19 +94,16 @@ indications:
   - REF-0587
   status: verified
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0587
   status: needs-review
 - condition: metabolic-support
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0587
   status: needs-review
 - condition: muscle-soreness
-  evidence: 2
   note: inferred from ergogenic action
   reference_ids:
   - REF-0506
@@ -119,7 +111,6 @@ indications:
   - REF-0587
   status: needs-review
 - condition: stress
-  evidence: 3
   note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
   reference_ids:
   - REF-0506

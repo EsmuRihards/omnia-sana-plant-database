@@ -97,7 +97,6 @@ actions:
   status: verified
 indications:
 - condition: appetite-loss
-  evidence: 2
   note: inferred from bitter-tonic action
   reference_ids:
   - REF-0387
@@ -105,7 +104,6 @@ indications:
   - REF-0684
   status: needs-review
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0386
@@ -115,7 +113,6 @@ indications:
   - REF-0683
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0387
@@ -123,7 +120,6 @@ indications:
   - REF-0684
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0386
@@ -132,7 +128,6 @@ indications:
   - REF-0683
   status: needs-review
 - condition: diarrhea
-  evidence: 3
   note: Astringent (relief of mild diarrhoea)
   reference_ids:
   - REF-0386
@@ -140,7 +135,6 @@ indications:
   - REF-0388
   status: verified
 - condition: indigestion
-  evidence: 3
   note: Mild bitter digestive tonic (indigestion)
   reference_ids:
   - REF-0387
@@ -148,7 +142,6 @@ indications:
   - REF-0684
   status: verified
 - condition: inflammation
-  evidence: 3
   note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat); Vulnerary
     (minor skin inflammation and small superficial wounds, topical)
   reference_ids:
@@ -161,7 +154,6 @@ indications:
   - REF-0683
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0386
@@ -169,7 +161,6 @@ indications:
   - REF-0388
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
   reference_ids:
   - REF-0386
@@ -179,7 +170,6 @@ indications:
   - REF-0683
   status: verified
 - condition: wounds
-  evidence: 3
   note: Vulnerary (minor skin inflammation and small superficial wounds, topical)
   reference_ids:
   - REF-0386

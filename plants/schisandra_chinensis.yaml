@@ -54,72 +54,61 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0505
   status: needs-review
 - condition: cognitive-function
-  evidence: 3
   note: Cognitive-function support (concentration and mental performance)
   reference_ids:
   - REF-0505
   - REF-0506
   status: verified
 - condition: detox
-  evidence: 2
   note: inferred from hepatoprotective action
   reference_ids:
   - REF-0505
   - REF-0583
   status: needs-review
 - condition: fatigue
-  evidence: 3
   note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
   reference_ids:
   - REF-0505
   - REF-0506
   status: verified
 - condition: hot-flashes
-  evidence: 4
   note: Relieves menopausal symptoms - hot flushes, sweating and palpitations (RCT)
   reference_ids:
   - REF-0582
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0505
   status: needs-review
 - condition: liver-support
-  evidence: 3
   note: Hepatoprotective / liver support (antioxidant and mitoprotective)
   reference_ids:
   - REF-0505
   - REF-0583
   status: verified
 - condition: menopause
-  evidence: 4
   note: Relieves menopausal symptoms - hot flushes, sweating and palpitations (RCT)
   reference_ids:
   - REF-0582
   status: verified
 - condition: muscle-soreness
-  evidence: 2
   note: inferred from ergogenic action
   reference_ids:
   - REF-0505
   - REF-0506
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0505
   status: needs-review
 - condition: stress
-  evidence: 3
   note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
   reference_ids:
   - REF-0505

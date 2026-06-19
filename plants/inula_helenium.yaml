@@ -56,7 +56,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 3
   note: Anti-inflammatory - sesquiterpene lactones (alantolactone, isoalantolactone) inhibit NF-kB and
     MAPK signalling and pro-inflammatory cytokines; total sesquiterpene lactones eased arthritis in animal
     models (potential in rheumatoid arthritis)
@@ -64,20 +63,17 @@ indications:
   - REF-0538
   status: verified
 - condition: bronchitis
-  evidence: 3
   note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy)
   reference_ids:
   - REF-0445
   status: verified
 - condition: cough
-  evidence: 3
   note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy); Soothes irritated
     airways / chronic catarrh (traditional)
   reference_ids:
   - REF-0445
   status: needs-review
 - condition: infection
-  evidence: 3
   note: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
     against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection
   reference_ids:
@@ -86,25 +82,21 @@ indications:
   - REF-0540
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0538
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0445
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0538
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0445

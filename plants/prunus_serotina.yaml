@@ -45,13 +45,11 @@ actions:
   status: verified
 indications:
 - condition: bronchitis
-  evidence: 2
   note: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)
   reference_ids:
   - REF-0525
   status: needs-review
 - condition: cough
-  evidence: 3
   note: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways); Antitussive - calms
     a persistent dry, irritating cough (prunasin quietens the cough reflex)
   reference_ids:
@@ -59,19 +57,16 @@ indications:
   - REF-0525
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0525
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0525
   status: needs-review
 - condition: sore-throat
-  evidence: 2
   note: Soothes sore throat and respiratory irritation (traditional)
   reference_ids:
   - REF-0524

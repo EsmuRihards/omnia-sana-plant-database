@@ -30,7 +30,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0037
@@ -38,14 +37,12 @@ indications:
   - REF-0311
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0037
   - REF-0236
   - REF-0311
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0037
@@ -53,7 +50,6 @@ indications:
   - REF-0311
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0037

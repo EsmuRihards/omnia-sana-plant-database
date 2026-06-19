@@ -47,7 +47,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0224
@@ -55,7 +54,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0224
@@ -63,14 +61,12 @@ indications:
   - REF-0309
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0224
   - REF-0256
   - REF-0309
   status: verified
 - condition: infection
-  evidence: 2
   note: inferred from antifungal action
   reference_ids:
   - REF-0224
@@ -78,7 +74,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0224
@@ -86,14 +81,12 @@ indications:
   - REF-0309
   status: needs-review
 - condition: respiratory-support
-  evidence: 3
   reference_ids:
   - REF-0224
   - REF-0256
   - REF-0309
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0224
@@ -101,7 +94,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0224

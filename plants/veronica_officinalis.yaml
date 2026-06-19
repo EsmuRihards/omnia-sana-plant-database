@@ -50,19 +50,16 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0513
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0514
   status: needs-review
 - condition: bronchitis
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0513
@@ -70,7 +67,6 @@ indications:
   - REF-0632
   status: needs-review
 - condition: cough
-  evidence: 2
   note: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
     inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human
     lung epithelial cells
@@ -80,13 +76,11 @@ indications:
   - REF-0632
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: Mild digestive / stomach tonic (indigestion)
   reference_ids:
   - REF-0514
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
     inflammation) - a standardised extract suppressed COX-2 and eotaxin via the NF-kB pathway in human
     lung epithelial cells
@@ -96,7 +90,6 @@ indications:
   - REF-0632
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0513
@@ -104,7 +97,6 @@ indications:
   - REF-0632
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: Soothing for skin irritation (topical)
   reference_ids:
   - REF-0514

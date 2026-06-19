@@ -38,7 +38,6 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  evidence: 4
   note: Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine
     site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover trial in healthy
     volunteers found significantly improved overall mood without loss of energy or cognition
@@ -47,13 +46,11 @@ indications:
   - REF-0551
   status: verified
 - condition: insomnia
-  evidence: 3
   note: Sedative / sleep support (insomnia)
   reference_ids:
   - REF-0510
   status: verified
 - condition: nervous-tension
-  evidence: 4
   note: Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine
     site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover trial in healthy
     volunteers found significantly improved overall mood without loss of energy or cognition
@@ -62,7 +59,6 @@ indications:
   - REF-0551
   status: verified
 - condition: stress
-  evidence: 2
   note: Calming nervine for stress and nervous disorders (traditional)
   reference_ids:
   - REF-0510

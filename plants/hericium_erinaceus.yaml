@@ -58,7 +58,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0157
@@ -68,7 +67,6 @@ indications:
   - REF-0643
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0157
@@ -78,7 +76,6 @@ indications:
   - REF-0645
   status: needs-review
 - condition: cognitive-function
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0157
@@ -89,7 +86,6 @@ indications:
   - REF-0642
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0157
@@ -98,7 +94,6 @@ indications:
   - REF-0644
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0157
   - REF-0170
@@ -106,7 +101,6 @@ indications:
   - REF-0644
   status: verified
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0157
@@ -116,7 +110,6 @@ indications:
   - REF-0645
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0157
@@ -126,7 +119,6 @@ indications:
   - REF-0643
   status: needs-review
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0157
@@ -137,7 +129,6 @@ indications:
   - REF-0642
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0157

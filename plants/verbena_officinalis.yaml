@@ -79,7 +79,6 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  evidence: 2
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
     extract showed anxiolytic, sedative and anticonvulsant activity in animal models
   reference_ids:
@@ -88,49 +87,41 @@ indications:
   - REF-0616
   status: verified
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0523
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0523
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0522
   status: needs-review
 - condition: depression
-  evidence: 2
   note: inferred from antidepressant action
   reference_ids:
   - REF-0523
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0523
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0522
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0523
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: inferred from sedative action
   reference_ids:
   - REF-0522
@@ -138,7 +129,6 @@ indications:
   - REF-0616
   status: needs-review
 - condition: nervous-tension
-  evidence: 2
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
     extract showed anxiolytic, sedative and anticonvulsant activity in animal models
   reference_ids:
@@ -147,19 +137,16 @@ indications:
   - REF-0616
   status: verified
 - condition: pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0523
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0523
   status: needs-review
 - condition: stress
-  evidence: 2
   note: Digestive bitter and relief of mild mental stress
   reference_ids:
   - REF-0522

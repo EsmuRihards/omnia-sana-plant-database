@@ -31,19 +31,16 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0496
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0496
   status: needs-review
 - condition: prostate-support
-  evidence: 3
   note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
     of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but
     the trials were small, short and methodologically weak, so the evidence remains uncertain
@@ -53,13 +50,11 @@ indications:
   - REF-0548
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0496
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
     of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but
     the trials were small, short and methodologically weak, so the evidence remains uncertain
@@ -69,7 +64,6 @@ indications:
   - REF-0548
   status: needs-review
 - condition: uti
-  evidence: 2
   note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
     of 18 RCTs (1562 men) found a moderate improvement in urinary symptoms and flow versus placebo, but
     the trials were small, short and methodologically weak, so the evidence remains uncertain

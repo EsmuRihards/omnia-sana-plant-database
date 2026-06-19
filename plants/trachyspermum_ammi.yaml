@@ -20,7 +20,6 @@ actions:
   status: verified
 indications:
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0015
@@ -30,7 +29,6 @@ indications:
   - REF-0275
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0015
@@ -40,7 +38,6 @@ indications:
   - REF-0275
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 3
   reference_ids:
   - REF-0015
   - REF-0017
@@ -49,7 +46,6 @@ indications:
   - REF-0275
   status: verified
 - condition: oral-health
-  evidence: 3
   reference_ids:
   - REF-0015
   - REF-0017
@@ -58,7 +54,6 @@ indications:
   - REF-0275
   status: verified
 - condition: respiratory-support
-  evidence: 3
   reference_ids:
   - REF-0015
   - REF-0017

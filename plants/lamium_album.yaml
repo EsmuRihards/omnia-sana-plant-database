@@ -84,7 +84,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0343
@@ -93,28 +92,24 @@ indications:
   - REF-0349
   status: needs-review
 - condition: bronchitis
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0339
   - REF-0347
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0347
   - REF-0348
   status: needs-review
 - condition: cough
-  evidence: 3
   note: Astringent (catarrh, excessive menstrual or vaginal discharge)
   reference_ids:
   - REF-0347
   - REF-0348
   status: verified
 - condition: diarrhea
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0347
@@ -122,7 +117,6 @@ indications:
   - REF-0349
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0343
@@ -131,14 +125,12 @@ indications:
   - REF-0349
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0339
   - REF-0347
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0347
@@ -146,7 +138,6 @@ indications:
   - REF-0349
   status: needs-review
 - condition: wounds
-  evidence: 3
   note: Vulnerary (minor wounds), applied topically
   reference_ids:
   - REF-0347

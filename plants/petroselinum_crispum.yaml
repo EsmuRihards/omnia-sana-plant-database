@@ -75,46 +75,39 @@ actions:
   status: verified
 indications:
 - condition: bad-breath
-  evidence: 2
   note: Breath freshener (chlorophyll-rich; traditional for bad breath)
   reference_ids:
   - REF-0489
   status: needs-review
 - condition: bloating
-  evidence: 3
   note: Carminative digestive and stomach tonic (bloating, indigestion)
   reference_ids:
   - REF-0489
   status: verified
 - condition: detox
-  evidence: 2
   note: inferred from hepatoprotective action
   reference_ids:
   - REF-0489
   - REF-0546
   status: needs-review
 - condition: indigestion
-  evidence: 3
   note: Carminative digestive and stomach tonic (bloating, indigestion)
   reference_ids:
   - REF-0489
   status: verified
 - condition: kidney-support
-  evidence: 2
   note: inferred from nephroprotective action
   reference_ids:
   - REF-0489
   - REF-0546
   status: needs-review
 - condition: liver-support
-  evidence: 2
   note: inferred from hepatoprotective action
   reference_ids:
   - REF-0489
   - REF-0546
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
     used for urinary stones); animal studies attribute the effect to inhibition of the renal Na+/K+ pump,
     raising urine flow
@@ -124,7 +117,6 @@ indications:
   - REF-0546
   status: verified
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0489
@@ -132,7 +124,6 @@ indications:
   - REF-0546
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0489

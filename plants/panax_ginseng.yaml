@@ -48,7 +48,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0014
@@ -56,7 +55,6 @@ indications:
   - REF-0192
   status: needs-review
 - condition: blood-sugar
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0014
@@ -64,14 +62,12 @@ indications:
   - REF-0192
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0014
   - REF-0137
   - REF-0192
   status: verified
 - condition: cognitive-function
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0014
@@ -79,7 +75,6 @@ indications:
   - REF-0192
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0014
@@ -87,7 +82,6 @@ indications:
   - REF-0192
   status: needs-review
 - condition: fatigue
-  evidence: 2
   note: inferred from ergogenic action
   reference_ids:
   - REF-0014
@@ -95,14 +89,12 @@ indications:
   - REF-0192
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0014
   - REF-0137
   - REF-0192
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0014
@@ -110,7 +102,6 @@ indications:
   - REF-0192
   status: needs-review
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0014
@@ -118,14 +109,12 @@ indications:
   - REF-0192
   status: needs-review
 - condition: metabolic-support
-  evidence: 3
   reference_ids:
   - REF-0014
   - REF-0137
   - REF-0192
   status: verified
 - condition: muscle-soreness
-  evidence: 2
   note: inferred from ergogenic action
   reference_ids:
   - REF-0014
@@ -133,7 +122,6 @@ indications:
   - REF-0192
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0014

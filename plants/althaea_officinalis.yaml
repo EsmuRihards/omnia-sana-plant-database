@@ -55,14 +55,12 @@ actions:
   status: needs-review
 indications:
 - condition: acid-reflux
-  evidence: 3
   note: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
     mucilage)
   reference_ids:
   - REF-0481
   status: verified
 - condition: cough
-  evidence: 3
   note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
     the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation;
     Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and soothes)
@@ -73,26 +71,22 @@ indications:
   - REF-0579
   status: verified
 - condition: eczema
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0482
   status: needs-review
 - condition: indigestion
-  evidence: 3
   note: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
     mucilage)
   reference_ids:
   - REF-0481
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: Topical soothing for irritated skin
   reference_ids:
   - REF-0482
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   reference_ids:
   - REF-0481
   status: verified

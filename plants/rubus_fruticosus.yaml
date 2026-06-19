@@ -55,51 +55,43 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0417
   status: needs-review
 - condition: diarrhea
-  evidence: 3
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
   - REF-0417
   - REF-0418
   status: verified
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0418
   status: needs-review
 - condition: inflammation
-  evidence: 3
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
   reference_ids:
   - REF-0417
   status: verified
 - condition: oral-health
-  evidence: 3
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
   reference_ids:
   - REF-0417
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0417
   - REF-0418
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
   reference_ids:
   - REF-0417
   status: verified
 - condition: wounds
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0417

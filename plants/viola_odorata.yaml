@@ -57,13 +57,11 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0517
   status: needs-review
 - condition: asthma
-  evidence: 4
   note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
     - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
     in children with asthma
@@ -72,7 +70,6 @@ indications:
   - REF-0609
   status: verified
 - condition: bronchitis
-  evidence: 4
   note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
     - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
     in children with asthma
@@ -81,7 +78,6 @@ indications:
   - REF-0609
   status: verified
 - condition: cough
-  evidence: 4
   note: Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus)
     - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression
     in children with asthma
@@ -90,39 +86,33 @@ indications:
   - REF-0609
   status: verified
 - condition: headache
-  evidence: 2
   note: Mild sedative for sleeplessness and to ease headache (traditional)
   reference_ids:
   - REF-0517
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0517
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: Mild sedative for sleeplessness and to ease headache (traditional)
   reference_ids:
   - REF-0517
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0517
   - REF-0609
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0517
   - REF-0609
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   reference_ids:
   - REF-0517
   status: verified

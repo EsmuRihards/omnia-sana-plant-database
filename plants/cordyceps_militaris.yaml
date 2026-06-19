@@ -40,7 +40,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0111
@@ -48,7 +47,6 @@ indications:
   - REF-0318
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0111
@@ -56,7 +54,6 @@ indications:
   - REF-0318
   status: needs-review
 - condition: fatigue
-  evidence: 2
   note: inferred from ergogenic action
   reference_ids:
   - REF-0111
@@ -64,14 +61,12 @@ indications:
   - REF-0318
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0111
   - REF-0218
   - REF-0318
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0111
@@ -79,7 +74,6 @@ indications:
   - REF-0318
   status: needs-review
 - condition: muscle-soreness
-  evidence: 2
   note: inferred from ergogenic action
   reference_ids:
   - REF-0111
@@ -87,14 +81,12 @@ indications:
   - REF-0318
   status: needs-review
 - condition: respiratory-support
-  evidence: 3
   reference_ids:
   - REF-0111
   - REF-0218
   - REF-0318
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0111

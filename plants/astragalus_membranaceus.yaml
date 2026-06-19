@@ -58,25 +58,21 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0402
   status: needs-review
 - condition: cold
-  evidence: 3
   note: Supports resistance to colds and respiratory infection (immune)
   reference_ids:
   - REF-0401
   status: verified
 - condition: fatigue
-  evidence: 2
   note: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
   reference_ids:
   - REF-0402
   status: verified
 - condition: immune-support
-  evidence: 3
   note: Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes); Supports
     resistance to colds and respiratory infection (immune)
   reference_ids:
@@ -84,19 +80,16 @@ indications:
   - REF-0402
   status: verified
 - condition: infection
-  evidence: 3
   note: Supports resistance to colds and respiratory infection (immune)
   reference_ids:
   - REF-0401
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0402
   status: needs-review
 - condition: kidney-support
-  evidence: 4
   note: Renoprotective (kidney support) - as an adjunct in chronic kidney disease, reduced proteinuria
     and raised haemoglobin and serum albumin across trials (Cochrane review; study quality low)
   reference_ids:
@@ -104,13 +97,11 @@ indications:
   - REF-0586
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0402
   status: needs-review
 - condition: stress
-  evidence: 2
   note: inferred from adaptogen action
   reference_ids:
   - REF-0402

@@ -32,7 +32,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0075
@@ -40,7 +39,6 @@ indications:
   - REF-0306
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0075
@@ -48,7 +46,6 @@ indications:
   - REF-0306
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: inferred from sedative action
   reference_ids:
   - REF-0075
@@ -56,14 +53,12 @@ indications:
   - REF-0306
   status: needs-review
 - condition: respiratory-support
-  evidence: 3
   reference_ids:
   - REF-0075
   - REF-0235
   - REF-0306
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0075

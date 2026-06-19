@@ -72,7 +72,6 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  evidence: 4
   note: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia
     polystachya
   reference_ids:
@@ -80,33 +79,28 @@ indications:
   - REF-0475
   status: verified
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0474
   - REF-0692
   status: needs-review
 - condition: bloating
-  evidence: 3
   note: Carminative digestive aid (indigestion, flatulence)
   reference_ids:
   - REF-0474
   status: verified
 - condition: indigestion
-  evidence: 3
   note: Carminative digestive aid (indigestion, flatulence)
   reference_ids:
   - REF-0474
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0474
   - REF-0692
   status: needs-review
 - condition: insomnia
-  evidence: 3
   note: Sedative / sleep support (insomnia)
   reference_ids:
   - REF-0474
@@ -114,7 +108,6 @@ indications:
   - REF-0691
   status: verified
 - condition: muscle-soreness
-  evidence: 4
   note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
     stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
     less soreness after exhaustive exercise
@@ -126,21 +119,18 @@ indications:
   - REF-0694
   status: verified
 - condition: nervous-tension
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0474
   - REF-0475
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0474
   - REF-0692
   status: needs-review
 - condition: stress
-  evidence: 4
   note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
     stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
     less soreness after exhaustive exercise

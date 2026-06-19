@@ -46,58 +46,49 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0409
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   note: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
   reference_ids:
   - REF-0409
   - REF-0594
   status: verified
 - condition: eye-strain
-  evidence: 2
   note: 'Traditional support for eye strain and vision (note: rigorous trials do NOT support improved
     night vision in healthy eyes)'
   reference_ids:
   - REF-0408
   status: verified
 - condition: hemorrhoids
-  evidence: 2
   note: inferred from venotonic action
   reference_ids:
   - REF-0409
   status: needs-review
 - condition: high-cholesterol
-  evidence: 3
   note: Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)
   reference_ids:
   - REF-0409
   - REF-0594
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0409
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0409
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from venotonic action
   reference_ids:
   - REF-0409
   status: needs-review
 - condition: varicose-veins
-  evidence: 2
   note: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous
     insufficiency)
   reference_ids:

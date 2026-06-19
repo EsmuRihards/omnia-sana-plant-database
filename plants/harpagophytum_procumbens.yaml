@@ -42,7 +42,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 4
   note: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain; General joint pain and
     arthritis support
   reference_ids:
@@ -50,7 +49,6 @@ indications:
   - REF-0444
   status: verified
 - condition: back-pain
-  evidence: 3
   note: Effective at standardised doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior
     to rofecoxib for short-term chronic low back pain; Relief of chronic non-specific low back pain
   reference_ids:
@@ -60,21 +58,18 @@ indications:
   - REF-0562
   status: verified
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0443
   - REF-0444
   status: needs-review
 - condition: inflammation
-  evidence: 3
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0443
   - REF-0444
   status: needs-review
 - condition: pain
-  evidence: 4
   note: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain; Effective at standardised
     doses (~50-60 mg harpagoside/day); an aqueous extract was non-inferior to rofecoxib for short-term
     chronic low back pain; General joint pain and arthritis support; Relief of chronic non-specific low
@@ -86,7 +81,6 @@ indications:
   - REF-0562
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0443

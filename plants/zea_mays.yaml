@@ -55,47 +55,39 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0436
   status: needs-review
 - condition: cough
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0436
   status: needs-review
 - condition: infection
-  evidence: 3
   note: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function
   reference_ids:
   - REF-0436
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0436
   status: needs-review
 - condition: kidney-support
-  evidence: 2
   reference_ids: []
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0436
   status: needs-review
 - condition: sore-throat
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0436
   status: needs-review
 - condition: swelling
-  evidence: 3
   note: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
     in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
     and potassium excretion
@@ -104,14 +96,12 @@ indications:
   - REF-0557
   status: verified
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0436
   - REF-0557
   status: needs-review
 - condition: uti
-  evidence: 3
   note: Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling;
     in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration
     and potassium excretion; Soothing demulcent for urinary-tract irritation and mild urinary infections;

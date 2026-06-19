@@ -43,7 +43,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0097
@@ -51,14 +50,12 @@ indications:
   - REF-0302
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0097
   - REF-0238
   - REF-0302
   status: verified
 - condition: cold
-  evidence: 2
   note: inferred from antiviral action
   reference_ids:
   - REF-0097
@@ -66,21 +63,18 @@ indications:
   - REF-0302
   status: needs-review
 - condition: eye-strain
-  evidence: 3
   reference_ids:
   - REF-0097
   - REF-0238
   - REF-0302
   status: verified
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0097
   - REF-0238
   - REF-0302
   status: verified
 - condition: infection
-  evidence: 2
   note: inferred from antiviral action
   reference_ids:
   - REF-0097
@@ -88,7 +82,6 @@ indications:
   - REF-0302
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0097
@@ -96,7 +89,6 @@ indications:
   - REF-0302
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0097
@@ -104,7 +96,6 @@ indications:
   - REF-0302
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0097
@@ -112,7 +103,6 @@ indications:
   - REF-0302
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0097
@@ -120,7 +110,6 @@ indications:
   - REF-0302
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0097

@@ -50,7 +50,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0113
@@ -59,7 +58,6 @@ indications:
   - REF-0685
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0113
@@ -67,7 +65,6 @@ indications:
   - REF-0208
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0113
@@ -76,14 +73,12 @@ indications:
   - REF-0685
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 3
   reference_ids:
   - REF-0113
   - REF-0193
   - REF-0208
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0113
@@ -92,7 +87,6 @@ indications:
   - REF-0685
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0113

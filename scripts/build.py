@@ -23,9 +23,10 @@ VOCAB = os.path.join(ROOT, "vocabularies")
 COMPDIR = os.path.join(ROOT, "compounds")
 OUT = os.path.join(ROOT, "build")
 
-# Floor for indications written to symptoms.json (the Symptom-tool feed). 1 keeps
-# every link (mechanism-inferred ones flagged "inferred"); raise to e.g. 3 for a
-# high-confidence-only tool. plants.json always keeps the full set.
+# Floor for indications written to symptoms.json (the Symptom-tool feed), on the
+# 1-10 evidence scale. 1 keeps every link (mechanism-inferred ones flagged
+# "inferred"); raise to e.g. 5 for a high-confidence-only tool. plants.json always
+# keeps the full set.
 SYM_MIN_EVIDENCE = 1
 
 REF_RE = re.compile(r"REF-\d{3,}")
@@ -139,14 +140,33 @@ def display_title(f, key):
     return t or key
 
 
-# Evidence tier of a single source, derived heuristically from its bibtex type and
-# title/abstract wording. Used by the website to label + order source cards by
-# strength (strongest first). Coarse and automatic — an editor can always refine.
-# Ordered strongest -> weakest: review > rct > clinical > preclinical > traditional.
+# Evidence tier of a single source. Driven by the explicit `study_type` field in
+# the bibtex entry — the hardened, keyword-free signal. The legacy title/abstract
+# keyword heuristic is kept ONLY as a fallback for entries not yet annotated, so an
+# un-annotated entry can never crash the build (the backfill assigns study_type to
+# every entry). Used by the website to label + order source cards by strength and
+# by the evidence scorer below. Ordered strongest -> weakest:
+#   review > rct > clinical > preclinical > traditional.
 TIER_RANK = {"review": 0, "rct": 1, "clinical": 2, "preclinical": 3, "traditional": 4}
+
+# Canonical study_type values stored in bibliography.bibtex -> tier.
+STUDY_TYPE_TIER = {
+    "systematic-review": "review",
+    "meta-analysis": "review",
+    "rct": "rct",
+    "clinical": "clinical",
+    "preclinical": "preclinical",
+    "traditional": "traditional",
+}
 
 
 def classify_tier(f, etype):
+    # 1) Explicit, keyword-free signal (preferred).
+    st = (f.get("study_type", "") or "").strip().lower()
+    if st in STUDY_TYPE_TIER:
+        return STUDY_TYPE_TIER[st]
+
+    # 2) Fallback heuristic for entries without a study_type.
     blob = (f.get("title", "") + " " + f.get("abstract", "")).lower()
     jour = f.get("journal", "").strip()
 
@@ -168,6 +188,37 @@ def classify_tier(f, etype):
            "cells", "cytotox", "molecular docking", "in silico", "antioxidant activity"):
         return "preclinical"
     return "preclinical" if jour else "traditional"
+
+
+# ---- Option B evidence scoring (deterministic, 1-10) -------------------------
+# An indication's score is a pure function of the study types of the references
+# that back it — no AI, no opaque counts, fully reproducible:
+#   base  = score of the STRONGEST single source (best tier cited)
+#   bonus = reward for a BODY of HUMAN evidence (review/rct/clinical sources)
+# Preclinical/traditional volume does NOT raise the score: ten in-vitro studies
+# are still not clinical evidence. Result is clamped to 1..10. An editor may set
+# `evidence_override` (1-10) on an indication to bypass the computation.
+#
+#   tier         base   |  human-source count -> bonus
+#   review        7      |     >=5 -> +3
+#   rct           5      |     3-4 -> +2
+#   clinical      3      |       2 -> +1
+#   preclinical   2      |      <2 -> +0
+#   traditional   1      |
+# e.g. 1 RCT = 5; 3 RCTs = 7; a meta-analysis backed by >=5 human trials = 10;
+#      any number of preclinical-only sources = 2; traditional-only = 1.
+TIER_BASE = {"review": 7, "rct": 5, "clinical": 3, "preclinical": 2, "traditional": 1}
+HUMAN_TIERS = {"review", "rct", "clinical"}
+
+
+def score_from_tiers(tiers):
+    tiers = [t for t in tiers if t]
+    if not tiers:
+        return 1
+    base = max(TIER_BASE[t] for t in tiers)
+    human = sum(1 for t in tiers if t in HUMAN_TIERS)
+    bonus = 3 if human >= 5 else 2 if human >= 3 else 1 if human >= 2 else 0
+    return max(1, min(10, base + bonus))
 
 
 def load_plants():
@@ -221,6 +272,8 @@ def main():
 
     # ---- citations.json ----
     entries = parse_bibtex(open(BIB, encoding="utf-8").read())
+    # ref_id -> evidence tier (study_type-driven), reused by the symptom scorer below.
+    tier_by_ref = {e["ref_id"]: classify_tier(e["fields"], e["type"]) for e in entries if e["ref_id"]}
     cites = []
     for e in entries:
         f = e["fields"]
@@ -248,13 +301,21 @@ def main():
     write(os.path.join(OUT, "citations.json"), {"schema": "omnia-sana/knowledge-finder@2", "count": len(cites), "citations": cites})
 
     # ---- symptoms.json ----
+    def indication_score(i):
+        # Editorial override wins; otherwise compute from the cited study types.
+        ov = i.get("evidence_override")
+        if isinstance(ov, int):
+            return max(1, min(10, ov))
+        return score_from_tiers([tier_by_ref.get(r) for r in i.get("reference_ids", [])])
+
     sym_plants = []
     for p in plants:
-        keep = [i for i in p.get("indications", []) if i.get("evidence", 0) >= SYM_MIN_EVIDENCE]
+        scored = [(i, indication_score(i)) for i in p.get("indications", [])]
+        keep = [(i, sc) for (i, sc) in scored if sc >= SYM_MIN_EVIDENCE]
         if not keep:
             continue
-        keep.sort(key=lambda i: (-i.get("evidence", 0),
-                                 conditions.get(i["condition"], {}).get("label", i["condition"]).lower()))
+        keep.sort(key=lambda t: (-t[1],
+                                 conditions.get(t[0]["condition"], {}).get("label", t[0]["condition"]).lower()))
         sym_plants.append({
             "name": (p.get("common_names") or [p["scientific_name"]])[0],
             "scientific": p["scientific_name"],
@@ -265,10 +326,10 @@ def main():
             # "View Sources" pages (the WP handler can also read them from plants.json).
             "indications": [{"condition": i["condition"],
                             "label": conditions.get(i["condition"], {}).get("label", i["condition"]),
-                            "evidence": i["evidence"], "status": i.get("status", ""),
+                            "evidence": sc, "status": i.get("status", ""),
                             "inferred": i.get("status") == "needs-review",
                             "references": list(i.get("reference_ids", []))}
-                           for i in keep],
+                           for (i, sc) in keep],
         })
     sym_conditions = [{"id": c["id"], "label": c["label"], "body_system": c.get("body_system", ""),
                        "consumer_synonyms": c.get("consumer_synonyms", []),

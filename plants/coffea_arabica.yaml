@@ -45,7 +45,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0059
@@ -59,7 +58,6 @@ indications:
   - REF-0217
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0059
   - REF-0081
@@ -72,7 +70,6 @@ indications:
   - REF-0217
   status: verified
 - condition: cognitive-function
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0059
@@ -86,7 +83,6 @@ indications:
   - REF-0217
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0059
@@ -100,7 +96,6 @@ indications:
   - REF-0217
   status: needs-review
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0059
@@ -114,7 +109,6 @@ indications:
   - REF-0217
   status: needs-review
 - condition: metabolic-support
-  evidence: 3
   reference_ids:
   - REF-0059
   - REF-0081
@@ -127,7 +121,6 @@ indications:
   - REF-0217
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0059

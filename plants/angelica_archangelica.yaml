@@ -130,7 +130,6 @@ actions:
   status: verified
 indications:
 - condition: acid-reflux
-  evidence: 2
   note: inferred from gastroprotective action
   reference_ids:
   - REF-0396
@@ -139,20 +138,17 @@ indications:
   - REF-0696
   status: needs-review
 - condition: anxiety
-  evidence: 3
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
   - REF-0396
   - REF-0695
   status: verified
 - condition: appetite-loss
-  evidence: 2
   note: inferred from bitter-tonic action
   reference_ids:
   - REF-0396
   status: needs-review
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0396
@@ -161,19 +157,16 @@ indications:
   - REF-0696
   status: needs-review
 - condition: bloating
-  evidence: 3
   note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
   reference_ids:
   - REF-0396
   status: verified
 - condition: bronchitis
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0396
   status: needs-review
 - condition: cognitive-function
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0396
@@ -182,31 +175,26 @@ indications:
   - REF-0697
   status: needs-review
 - condition: cold
-  evidence: 3
   note: Diaphoretic / expectorant support during colds
   reference_ids:
   - REF-0396
   status: verified
 - condition: cough
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0396
   status: needs-review
 - condition: fever
-  evidence: 2
   note: inferred from diaphoretic action
   reference_ids:
   - REF-0396
   status: needs-review
 - condition: indigestion
-  evidence: 3
   note: Carminative and aromatic bitter digestive (indigestion, bloating, flatulence)
   reference_ids:
   - REF-0396
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0396
@@ -215,14 +203,12 @@ indications:
   - REF-0696
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: inferred from sedative action
   reference_ids:
   - REF-0396
   - REF-0695
   status: needs-review
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0396
@@ -231,20 +217,17 @@ indications:
   - REF-0697
   status: needs-review
 - condition: nervous-tension
-  evidence: 3
   note: Anxiolytic / sedative (anxiety, nervous tension)
   reference_ids:
   - REF-0396
   - REF-0695
   status: verified
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0396
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0396
@@ -253,14 +236,12 @@ indications:
   - REF-0696
   status: needs-review
 - condition: stress
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0396
   - REF-0695
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: Overactive bladder - a pilot RCT of an Angelica archangelica leaf extract reduced daytime voids
     and storage symptoms and improved quality of life, with near-significant benefit for nocturia
   reference_ids:

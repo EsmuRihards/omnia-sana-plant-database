@@ -35,7 +35,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0024
@@ -43,7 +42,6 @@ indications:
   - REF-0226
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0024
@@ -51,7 +49,6 @@ indications:
   - REF-0226
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0024
@@ -59,7 +56,6 @@ indications:
   - REF-0226
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0024
@@ -67,7 +63,6 @@ indications:
   - REF-0226
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: inferred from sedative action
   reference_ids:
   - REF-0024
@@ -75,7 +70,6 @@ indications:
   - REF-0226
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0024

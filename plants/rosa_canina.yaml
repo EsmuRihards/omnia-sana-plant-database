@@ -26,14 +26,12 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 3
   reference_ids:
   - REF-0051
   - REF-0076
   - REF-0239
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0051
@@ -41,14 +39,12 @@ indications:
   - REF-0239
   status: needs-review
 - condition: metabolic-support
-  evidence: 3
   reference_ids:
   - REF-0051
   - REF-0076
   - REF-0239
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0051

@@ -59,7 +59,6 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0471
@@ -68,13 +67,11 @@ indications:
   - REF-0676
   status: needs-review
 - condition: hemorrhoids
-  evidence: 2
   note: Relief of haemorrhoid symptoms (venotonic)
   reference_ids:
   - REF-0471
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0471
@@ -83,7 +80,6 @@ indications:
   - REF-0676
   status: needs-review
 - condition: pain
-  evidence: 3
   note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
     varicose veins
   reference_ids:
@@ -94,7 +90,6 @@ indications:
   - REF-0679
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0471
@@ -103,7 +98,6 @@ indications:
   - REF-0676
   status: needs-review
 - condition: swelling
-  evidence: 3
   note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
     varicose veins
   reference_ids:
@@ -114,7 +108,6 @@ indications:
   - REF-0679
   status: verified
 - condition: varicose-veins
-  evidence: 4
   note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
     varicose veins
   reference_ids:

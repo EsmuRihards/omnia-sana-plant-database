@@ -59,14 +59,12 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0393
   - REF-0394
   status: needs-review
 - condition: cold
-  evidence: 4
   note: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom
     severity and duration)
   reference_ids:
@@ -75,21 +73,18 @@ indications:
   - REF-0395
   status: verified
 - condition: fever
-  evidence: 3
   note: Antipyretic (fever)
   reference_ids:
   - REF-0394
   - REF-0395
   status: verified
 - condition: immune-support
-  evidence: 3
   note: Immunostimulant / immune support
   reference_ids:
   - REF-0393
   - REF-0394
   status: verified
 - condition: infection
-  evidence: 3
   note: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom
     severity and duration)
   reference_ids:
@@ -98,27 +93,23 @@ indications:
   - REF-0395
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0393
   - REF-0394
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0393
   - REF-0394
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   reference_ids:
   - REF-0392
   - REF-0395
   status: verified
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0393

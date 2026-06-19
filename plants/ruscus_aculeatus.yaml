@@ -40,14 +40,12 @@ actions:
   status: verified
 indications:
 - condition: hemorrhoids
-  evidence: 3
   note: Relief of haemorrhoid symptoms
   reference_ids:
   - REF-0424
   - REF-0425
   status: verified
 - condition: menstrual-cramps
-  evidence: 4
   note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
     and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone
     and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo
@@ -57,7 +55,6 @@ indications:
   - REF-0595
   status: verified
 - condition: pain
-  evidence: 4
   note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
     and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone
     and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo
@@ -67,14 +64,12 @@ indications:
   - REF-0595
   status: verified
 - condition: swelling
-  evidence: 3
   note: Anti-oedematous (reduces leg swelling)
   reference_ids:
   - REF-0424
   - REF-0425
   status: verified
 - condition: varicose-veins
-  evidence: 4
   note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
     and varicose veins) - a meta-analysis of a Ruscus-based combination (with hesperidin methyl chalcone
     and vitamin C) significantly reduced pain, cramps, heaviness and paraesthesia versus placebo

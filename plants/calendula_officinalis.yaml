@@ -48,7 +48,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
@@ -56,7 +55,6 @@ indications:
   - REF-0199
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0112
@@ -64,7 +62,6 @@ indications:
   - REF-0199
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0112
@@ -72,7 +69,6 @@ indications:
   - REF-0199
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antifungal action
   reference_ids:
   - REF-0112
@@ -80,7 +76,6 @@ indications:
   - REF-0199
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
@@ -88,7 +83,6 @@ indications:
   - REF-0199
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
@@ -96,7 +90,6 @@ indications:
   - REF-0199
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0112

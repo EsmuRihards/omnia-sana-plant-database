@@ -74,7 +74,6 @@ actions:
   status: verified
 indications:
 - condition: acid-reflux
-  evidence: 2
   note: inferred from gastroprotective action
   reference_ids:
   - REF-0080
@@ -82,7 +81,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0080
@@ -90,7 +88,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from anti-rheumatic action
   reference_ids:
   - REF-0080
@@ -98,7 +95,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: blood-sugar
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0080
@@ -106,7 +102,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from antiviral action
   reference_ids:
   - REF-0080
@@ -114,7 +109,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0080
@@ -122,7 +116,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from gastroprotective action
   reference_ids:
   - REF-0080
@@ -130,7 +123,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0080
@@ -138,7 +130,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0080
@@ -146,7 +137,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: metabolic-support
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0080
@@ -154,7 +144,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0080
@@ -162,7 +151,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0080
@@ -170,7 +158,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0080
@@ -178,7 +165,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0080
@@ -186,7 +172,6 @@ indications:
   - REF-0203
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0080

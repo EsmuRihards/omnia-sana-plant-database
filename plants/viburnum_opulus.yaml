@@ -45,19 +45,16 @@ actions:
   status: verified
 indications:
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0439
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0439
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 3
   note: Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)
   reference_ids:
   - REF-0439
@@ -65,13 +62,11 @@ indications:
   - REF-0610
   status: verified
 - condition: muscle-spasm
-  evidence: 3
   note: Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant)
   reference_ids:
   - REF-0439
   status: verified
 - condition: pain
-  evidence: 2
   note: Mild analgesic for cramping pain
   reference_ids:
   - REF-0439

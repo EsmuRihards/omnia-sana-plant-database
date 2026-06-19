@@ -40,7 +40,6 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 4
   note: 'Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks);
     Supports inflammatory arthritis including rheumatoid arthritis'
   reference_ids:
@@ -50,38 +49,32 @@ indications:
   - REF-0574
   status: verified
 - condition: asthma
-  evidence: 3
   note: Supportive in bronchial asthma
   reference_ids:
   - REF-0423
   status: verified
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0422
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0422
   status: needs-review
 - condition: ibd
-  evidence: 3
   note: Supportive in inflammatory bowel disease (ulcerative colitis, Crohn's disease)
   reference_ids:
   - REF-0423
   status: verified
 - condition: inflammation
-  evidence: 4
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0423
   - REF-0573
   status: needs-review
 - condition: pain
-  evidence: 3
   note: 'Analgesic (pain relief); Osteoarthritis: reduces joint pain and stiffness and improves function
     (over at least 4 weeks)'
   reference_ids:
@@ -90,7 +83,6 @@ indications:
   - REF-0574
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0423

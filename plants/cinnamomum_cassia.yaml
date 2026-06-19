@@ -51,13 +51,11 @@ actions:
   status: verified
 indications:
 - condition: bloating
-  evidence: 2
   note: inferred from carminative action
   reference_ids:
   - REF-0430
   status: needs-review
 - condition: blood-sugar
-  evidence: 3
   note: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
     - recent meta-analyses report reduced fasting glucose, HbA1c and HOMA-IR
   reference_ids:
@@ -67,7 +65,6 @@ indications:
   - REF-0599
   status: verified
 - condition: cardiovascular-support
-  evidence: 2
   note: inferred from lipid-lowering action
   reference_ids:
   - REF-0429
@@ -75,7 +72,6 @@ indications:
   - REF-0599
   status: needs-review
 - condition: high-cholesterol
-  evidence: 2
   note: inferred from lipid-lowering action
   reference_ids:
   - REF-0429
@@ -83,13 +79,11 @@ indications:
   - REF-0599
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: Warming carminative for indigestion (traditional)
   reference_ids:
   - REF-0430
   status: needs-review
 - condition: metabolic-support
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0429

@@ -39,7 +39,6 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  evidence: 4
   note: Anxiolytic for anxiety and nervous tension (reduces anxiety in clinical trials); Reduces preoperative
     / situational anxiety without sedation or psychomotor impairment (RCT in ambulatory surgery patients)
   reference_ids:
@@ -48,7 +47,6 @@ indications:
   - REF-0563
   status: verified
 - condition: insomnia
-  evidence: 3
   note: Sleep support for insomnia - improves subjective sleep quality and, on polysomnography, increases
     total sleep time
   reference_ids:
@@ -58,14 +56,12 @@ indications:
   - REF-0565
   status: verified
 - condition: nervous-tension
-  evidence: 4
   note: Anxiolytic for anxiety and nervous tension (reduces anxiety in clinical trials)
   reference_ids:
   - REF-0490
   - REF-0491
   status: verified
 - condition: stress
-  evidence: 3
   note: Relief of mild mental stress
   reference_ids:
   - REF-0490

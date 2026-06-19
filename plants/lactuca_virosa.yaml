@@ -52,13 +52,11 @@ actions:
   status: needs-review
 indications:
 - condition: anxiety
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0526
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0526
@@ -66,13 +64,11 @@ indications:
   - REF-0622
   status: needs-review
 - condition: cough
-  evidence: 2
   note: Antitussive for an irritable, dry cough (traditional)
   reference_ids:
   - REF-0526
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0526
@@ -80,7 +76,6 @@ indications:
   - REF-0622
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: Sedative for sleeplessness / insomnia - lactucin and lactucopicrin showed sedative activity in
     animal models
   reference_ids:
@@ -88,13 +83,11 @@ indications:
   - REF-0622
   status: needs-review
 - condition: nervous-tension
-  evidence: 2
   note: Calming for nervous tension and restlessness
   reference_ids:
   - REF-0526
   status: needs-review
 - condition: pain
-  evidence: 2
   note: Mild analgesic / anodyne for pain (lactucin and lactucopicrin act on the central nervous system)
     - in mice these compounds produced analgesia comparable to ibuprofen
   reference_ids:
@@ -103,7 +96,6 @@ indications:
   - REF-0622
   status: needs-review
 - condition: stress
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0526

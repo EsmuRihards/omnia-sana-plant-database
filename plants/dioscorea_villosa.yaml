@@ -44,31 +44,26 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0528
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0528
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0528
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0528
   status: needs-review
 - condition: menopause
-  evidence: 2
   note: Traditional support for menopausal symptoms (see safety note - it does NOT act as a natural progesterone)
     - a placebo-controlled crossover RCT of topical wild yam cream found little effect on menopausal symptoms,
     lipids or hormones
@@ -77,25 +72,21 @@ indications:
   - REF-0614
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: Antispasmodic / analgesic for menstrual cramps and muscle spasm (antinociceptive in animal models)
   reference_ids:
   - REF-0528
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: Antispasmodic / analgesic for menstrual cramps and muscle spasm (antinociceptive in animal models)
   reference_ids:
   - REF-0528
   status: needs-review
 - condition: pain
-  evidence: 3
   note: Anti-inflammatory for joint and inflammatory pain
   reference_ids:
   - REF-0528
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0528

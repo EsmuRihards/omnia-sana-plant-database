@@ -85,7 +85,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
@@ -96,7 +95,6 @@ indications:
   - REF-0660
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0098
@@ -105,7 +103,6 @@ indications:
   - REF-0659
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from antiviral action
   reference_ids:
   - REF-0098
@@ -117,7 +114,6 @@ indications:
   - REF-0663
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0098
   - REF-0200
@@ -127,7 +123,6 @@ indications:
   - REF-0663
   status: verified
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0098
@@ -136,7 +131,6 @@ indications:
   - REF-0659
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
@@ -147,7 +141,6 @@ indications:
   - REF-0660
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0098
@@ -158,7 +151,6 @@ indications:
   - REF-0660
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0098

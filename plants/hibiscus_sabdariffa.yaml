@@ -53,13 +53,11 @@ actions:
   status: verified
 indications:
 - condition: blood-sugar
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0567
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 2
   note: inferred from antihypertensive action
   reference_ids:
   - REF-0464
@@ -68,7 +66,6 @@ indications:
   - REF-0567
   status: needs-review
 - condition: high-blood-pressure
-  evidence: 3
   note: Lowers blood pressure, with the greatest effect in people with raised blood pressure
   reference_ids:
   - REF-0464
@@ -77,14 +74,12 @@ indications:
   - REF-0567
   status: verified
 - condition: high-cholesterol
-  evidence: 2
   note: inferred from lipid-lowering action
   reference_ids:
   - REF-0464
   - REF-0465
   status: needs-review
 - condition: metabolic-support
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0567

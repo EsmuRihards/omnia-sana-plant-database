@@ -31,7 +31,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0048
@@ -39,7 +38,6 @@ indications:
   - REF-0245
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0048
@@ -47,7 +45,6 @@ indications:
   - REF-0245
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0048
@@ -55,7 +52,6 @@ indications:
   - REF-0245
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0048

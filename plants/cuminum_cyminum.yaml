@@ -141,7 +141,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0008
@@ -166,7 +165,6 @@ indications:
   - REF-0307
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0008
@@ -192,7 +190,6 @@ indications:
   - REF-0656
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0008
@@ -218,7 +215,6 @@ indications:
   - REF-0656
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0008
@@ -244,7 +240,6 @@ indications:
   - REF-0657
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0008
@@ -269,7 +264,6 @@ indications:
   - REF-0307
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0008
@@ -295,7 +289,6 @@ indications:
   - REF-0656
   status: needs-review
 - condition: metabolic-support
-  evidence: 3
   reference_ids:
   - REF-0008
   - REF-0026
@@ -323,7 +316,6 @@ indications:
   - REF-0655
   status: verified
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0008
@@ -349,7 +341,6 @@ indications:
   - REF-0656
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0008
@@ -374,7 +365,6 @@ indications:
   - REF-0307
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0008

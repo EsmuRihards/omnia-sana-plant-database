@@ -36,7 +36,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0013
@@ -44,7 +43,6 @@ indications:
   - REF-0112
   status: needs-review
 - condition: bronchitis
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0013
@@ -52,14 +50,12 @@ indications:
   - REF-0112
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0013
   - REF-0036
   - REF-0112
   status: verified
 - condition: cough
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0013
@@ -67,7 +63,6 @@ indications:
   - REF-0112
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0013
@@ -75,14 +70,12 @@ indications:
   - REF-0112
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 3
   reference_ids:
   - REF-0013
   - REF-0036
   - REF-0112
   status: verified
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0013
@@ -90,7 +83,6 @@ indications:
   - REF-0112
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0013
@@ -98,7 +90,6 @@ indications:
   - REF-0112
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0013

@@ -61,11 +61,11 @@
       "description": "What the plant is used FOR (conditions/symptoms). Powers the Symptom-to-Plant Lookup.",
       "items": {
         "type": "object",
-        "required": ["condition", "evidence", "reference_ids", "status"],
+        "required": ["condition", "reference_ids", "status"],
         "additionalProperties": false,
         "properties": {
           "condition": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Condition id -> vocabularies/conditions.yaml."},
-          "evidence": {"type": "integer", "minimum": 1, "maximum": 5, "description": "Editorial strength of human/clinical evidence (1=traditional .. 5=strong)."},
+          "evidence_override": {"type": "integer", "minimum": 1, "maximum": 10, "description": "Optional editorial override of the auto-computed 1-10 evidence score. Omit to use the deterministic study-type + volume score produced by scripts/build.py (Option B)."},
           "note": {"type": "string", "description": "Original free-text phrasing / evidence detail, preserved verbatim."},
           "reference_ids": {"$ref": "#/$defs/reference_ids"},
           "status": {"$ref": "#/$defs/status"}

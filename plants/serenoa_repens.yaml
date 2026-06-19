@@ -22,7 +22,6 @@ constituents:
   - REF-0496
 indications:
 - condition: prostate-support
-  evidence: 4
   note: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
     Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
   reference_ids:
@@ -30,7 +29,6 @@ indications:
   - REF-0504
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: General urinary support (traditional); Lower urinary tract symptoms of benign prostatic hyperplasia
     (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even
     at double and triple doses
@@ -39,7 +37,6 @@ indications:
   - REF-0504
   status: needs-review
 - condition: uti
-  evidence: 2
   note: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
     Cochrane evidence shows it is NOT better than placebo, even at double and triple doses
   reference_ids:

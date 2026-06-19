@@ -51,7 +51,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0129
@@ -59,7 +58,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0129
@@ -67,7 +65,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0129
@@ -75,7 +72,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0129
@@ -83,7 +79,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0129
@@ -91,7 +86,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0129
@@ -99,14 +93,12 @@ indications:
   - REF-0309
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0129
   - REF-0212
   - REF-0309
   status: verified
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0129
@@ -114,7 +106,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0129
@@ -122,21 +113,18 @@ indications:
   - REF-0309
   status: needs-review
 - condition: pain
-  evidence: 3
   reference_ids:
   - REF-0129
   - REF-0212
   - REF-0309
   status: verified
 - condition: respiratory-support
-  evidence: 3
   reference_ids:
   - REF-0129
   - REF-0212
   - REF-0309
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0129

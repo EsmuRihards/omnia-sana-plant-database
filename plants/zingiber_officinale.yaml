@@ -86,7 +86,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0007
@@ -101,7 +100,6 @@ indications:
   - REF-0638
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0007
@@ -117,7 +115,6 @@ indications:
   - REF-0638
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0007
@@ -132,7 +129,6 @@ indications:
   - REF-0635
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0007
   - REF-0077
@@ -145,7 +141,6 @@ indications:
   - REF-0639
   status: verified
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0007
@@ -161,7 +156,6 @@ indications:
   - REF-0638
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0007
@@ -176,7 +170,6 @@ indications:
   - REF-0635
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0007
@@ -191,7 +184,6 @@ indications:
   - REF-0638
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0007
@@ -205,7 +197,6 @@ indications:
   - REF-0636
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0007
@@ -219,7 +210,6 @@ indications:
   - REF-0636
   status: needs-review
 - condition: pain
-  evidence: 3
   reference_ids:
   - REF-0007
   - REF-0077
@@ -234,7 +224,6 @@ indications:
   - REF-0638
   status: verified
 - condition: respiratory-support
-  evidence: 3
   reference_ids:
   - REF-0007
   - REF-0077
@@ -246,7 +235,6 @@ indications:
   - REF-0295
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0007

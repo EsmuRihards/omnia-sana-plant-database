@@ -36,7 +36,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0040
@@ -44,7 +43,6 @@ indications:
   - REF-0099
   status: needs-review
 - condition: cognitive-function
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0040
@@ -52,7 +50,6 @@ indications:
   - REF-0099
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0040
@@ -60,7 +57,6 @@ indications:
   - REF-0099
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: inferred from sedative action
   reference_ids:
   - REF-0040
@@ -68,7 +64,6 @@ indications:
   - REF-0099
   status: needs-review
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0040
@@ -76,7 +71,6 @@ indications:
   - REF-0099
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0040

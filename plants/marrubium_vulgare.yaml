@@ -57,26 +57,22 @@ actions:
   status: verified
 indications:
 - condition: appetite-loss
-  evidence: 3
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
   reference_ids:
   - REF-0468
   status: verified
 - condition: bloating
-  evidence: 3
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
   reference_ids:
   - REF-0468
   status: verified
 - condition: bronchitis
-  evidence: 3
   note: Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis
   reference_ids:
   - REF-0468
   - REF-0469
   status: verified
 - condition: cough
-  evidence: 3
   note: Antispasmodic (traditional use in whooping cough); Expectorant for productive cough and catarrh
     of the upper respiratory tract / bronchitis
   reference_ids:
@@ -84,32 +80,27 @@ indications:
   - REF-0469
   status: needs-review
 - condition: indigestion
-  evidence: 3
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
   reference_ids:
   - REF-0468
   status: verified
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0469
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0469
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0468
   - REF-0469
   status: needs-review
 - condition: sore-throat
-  evidence: 2
   note: Soothes sore throat (traditional)
   reference_ids:
   - REF-0468

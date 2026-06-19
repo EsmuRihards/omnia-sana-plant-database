@@ -37,32 +37,27 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: Traditional use for fever and for joint pain / arthritis
   reference_ids:
   - REF-0450
   status: needs-review
 - condition: fever
-  evidence: 2
   note: Traditional use for fever and for joint pain / arthritis
   reference_ids:
   - REF-0450
   status: needs-review
 - condition: headache
-  evidence: 3
   note: Headache prevention and relief
   reference_ids:
   - REF-0450
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0450
   - REF-0552
   status: needs-review
 - condition: migraine
-  evidence: 4
   note: Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised preparations,
     though mixed); parthenolide is identified as the component responsible for the antimigraine effect
     in animal models
@@ -71,13 +66,11 @@ indications:
   - REF-0552
   status: verified
 - condition: pain
-  evidence: 2
   note: Traditional use for fever and for joint pain / arthritis
   reference_ids:
   - REF-0450
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0450

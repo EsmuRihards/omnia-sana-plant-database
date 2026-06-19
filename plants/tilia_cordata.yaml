@@ -69,67 +69,56 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0478
   - REF-0555
   status: needs-review
 - condition: cold
-  evidence: 3
   note: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
   reference_ids:
   - REF-0478
   status: verified
 - condition: cough
-  evidence: 3
   note: Demulcent for cough and catarrh (soothing mucilage)
   reference_ids:
   - REF-0478
   status: verified
 - condition: fever
-  evidence: 3
   note: Diaphoretic infusion for feverish colds and flu (promotes sweating to support a fever)
   reference_ids:
   - REF-0478
   status: verified
 - condition: insomnia
-  evidence: 2
   reference_ids: []
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0478
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0478
   status: needs-review
 - condition: nervous-tension
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0478
   - REF-0555
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0478
   status: needs-review
 - condition: sore-throat
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0478
   status: needs-review
 - condition: stress
-  evidence: 3
   note: Relief of mild mental stress and to aid sleep (gentle calming); flavonoid fractions of Tilia (notably
     tiliroside) show anxiolytic activity in animal models via the serotonergic and GABA/benzodiazepine
     systems (mechanistic evidence from the related species T. americana)

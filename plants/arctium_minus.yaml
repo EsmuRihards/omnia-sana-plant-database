@@ -58,7 +58,6 @@ actions:
   status: needs-review
 indications:
 - condition: acne
-  evidence: 2
   note: Sebaceous-gland regulator - helps balance skin oil (acne); Traditional 'alterative' / depurative
     for chronic skin conditions - eczema, psoriasis, acne and boils (internally and topically)
   reference_ids:
@@ -67,13 +66,11 @@ indications:
   - REF-0625
   status: needs-review
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0476
   status: needs-review
 - condition: detox
-  evidence: 2
   note: Mild diuretic supporting elimination ('detox', traditional); Traditional 'alterative' / depurative
     for chronic skin conditions - eczema, psoriasis, acne and boils (internally and topically)
   reference_ids:
@@ -82,7 +79,6 @@ indications:
   - REF-0625
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and
     boils (internally and topically)
   reference_ids:
@@ -91,13 +87,11 @@ indications:
   - REF-0625
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0476
   status: needs-review
 - condition: psoriasis
-  evidence: 2
   note: Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and
     boils (internally and topically)
   reference_ids:
@@ -106,27 +100,23 @@ indications:
   - REF-0625
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0476
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0476
   - REF-0477
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0476
   - REF-0477
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0476

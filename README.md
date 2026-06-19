@@ -119,6 +119,45 @@ status: "verified"   # verified | draft | needs-review
 
 ---
 
+## Evidence scoring (1–10, computed)
+
+Each indication's strength is **not stored by hand** — it is computed
+deterministically at build time (`scripts/build.py`) from the **study types of the
+references that back it**. There is no AI and no opaque "publication count": the
+same data always yields the same score, and every score is auditable from its
+`reference_ids`.
+
+The rule (Option B):
+
+```
+base  = score of the STRONGEST single cited source (best tier)
+bonus = reward for a BODY of HUMAN evidence (number of review/rct/clinical sources)
+score = clamp(base + bonus, 1, 10)
+```
+
+| Strongest source tier | base | Human-source count | bonus |
+| --------------------- | ---- | ------------------ | ----- |
+| systematic-review     | 7    | ≥ 5                | +3    |
+| rct                   | 5    | 3–4                | +2    |
+| clinical (other human)| 3    | 2                  | +1    |
+| preclinical           | 2    | < 2                | +0    |
+| traditional           | 1    |                    |       |
+
+Worked examples: one RCT = **5**; three RCTs = **7**; a meta-analysis backed by
+≥5 human trials = **10**; any number of in-vitro/animal sources only = **2**;
+traditional sources only = **1**. Preclinical and traditional **volume never
+raises the score** — ten in-vitro studies are still not clinical evidence.
+
+> ⚠️ A score is only as specific as the indication's `reference_ids`. Where a
+> record pins its whole strong bibliography to *every* indication, each indication
+> inherits the maximum. Tightening which references back which condition (claim-
+> level sourcing) is what makes individual scores meaningful.
+
+**Editorial override.** Add `evidence_override: N` (1–10) to an indication to force
+a value; the build uses it verbatim instead of computing.
+
+---
+
 ## Reference id convention
 
 References are identified by ids of the form **`REF-XXXX`**, zero-padded to at
@@ -165,6 +204,33 @@ field holding the publication's official abstract:
   idempotent — entries that already have an `abstract` are skipped.
 - Surfaced by the Knowledge Finder's **"View Abstract"** button. Entries with no
   publicly available abstract simply omit the field (the button is hidden).
+
+### Study type (evidence tier)
+
+Every entry carries an explicit **`study_type`** field — the keyword-free signal
+that drives both the source-card ordering and the 1–10 evidence scoring above:
+
+```bibtex
+@article{abdelmonem2022hibiscus,
+  ...
+  note       = {REF-0566},
+  study_type = {systematic-review},
+  abstract   = {We aimed to assess the efficacy of Hibiscus sabdariffa ...}
+}
+```
+
+- Allowed values (strongest → weakest): **`systematic-review`**, **`rct`**,
+  **`clinical`** (other human studies — cohort, open-label, case report),
+  **`preclinical`** (in vitro / animal), **`traditional`** (books, monographs,
+  websites, ethnobotany).
+- When you add a reference, **set `study_type` by hand** — it is the one field the
+  scoring depends on. `scripts/build.py` falls back to a title/abstract keyword
+  heuristic only for an entry that is missing it, so the build never breaks, but
+  an explicit value is always preferred.
+- The existing values were seeded once from that heuristic by
+  `ingest/archive/backfill_study_type_2026_06_19.py`; spot-check and correct as
+  needed (the `@misc` web sources default to `traditional`, journal articles
+  without trial wording default to `preclinical`).
 
 ---
 

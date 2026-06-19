@@ -53,7 +53,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0064
@@ -63,7 +62,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0064
@@ -73,7 +71,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0064
   - REF-0103
@@ -82,7 +79,6 @@ indications:
   - REF-0310
   status: verified
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0064
@@ -92,7 +88,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0064
@@ -102,7 +97,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0064
@@ -112,7 +106,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: metabolic-support
-  evidence: 3
   reference_ids:
   - REF-0064
   - REF-0103
@@ -121,7 +114,6 @@ indications:
   - REF-0310
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0064
@@ -131,7 +123,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0064
@@ -141,7 +132,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0064
@@ -151,7 +141,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0064
@@ -161,7 +150,6 @@ indications:
   - REF-0310
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0064

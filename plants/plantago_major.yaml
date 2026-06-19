@@ -103,7 +103,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0234
@@ -111,7 +110,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: bronchitis
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0234
@@ -121,7 +119,6 @@ indications:
   - REF-0358
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0234
@@ -132,33 +129,28 @@ indications:
   - REF-0368
   status: needs-review
 - condition: constipation
-  evidence: 2
   note: inferred from laxative action
   reference_ids:
   - REF-0358
   status: needs-review
 - condition: cough
-  evidence: 3
   note: Demulcent / expectorant (coughs, catarrh, irritated airways)
   reference_ids:
   - REF-0357
   - REF-0358
   status: verified
 - condition: diarrhea
-  evidence: 3
   note: Astringent (diarrhoea)
   reference_ids:
   - REF-0357
   - REF-0358
   status: verified
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0354
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0234
@@ -166,7 +158,6 @@ indications:
   - REF-0309
   status: needs-review
 - condition: respiratory-support
-  evidence: 2
   note: inferred from expectorant action
   reference_ids:
   - REF-0234
@@ -176,7 +167,6 @@ indications:
   - REF-0358
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0234
@@ -184,14 +174,12 @@ indications:
   - REF-0309
   status: needs-review
 - condition: sore-throat
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0357
   - REF-0358
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0234

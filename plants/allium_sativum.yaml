@@ -86,7 +86,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0127
@@ -98,7 +97,6 @@ indications:
   - REF-0648
   status: needs-review
 - condition: blood-sugar
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0127
@@ -110,7 +108,6 @@ indications:
   - REF-0648
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0127
   - REF-0166
@@ -124,7 +121,6 @@ indications:
   - REF-0649
   status: verified
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0127
@@ -136,7 +132,6 @@ indications:
   - REF-0646
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0127
   - REF-0166
@@ -147,7 +142,6 @@ indications:
   - REF-0646
   status: verified
 - condition: infection
-  evidence: 2
   note: inferred from antifungal action
   reference_ids:
   - REF-0127
@@ -159,7 +153,6 @@ indications:
   - REF-0650
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0127
@@ -171,7 +164,6 @@ indications:
   - REF-0648
   status: needs-review
 - condition: metabolic-support
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0127
@@ -183,7 +175,6 @@ indications:
   - REF-0648
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0127
@@ -195,7 +186,6 @@ indications:
   - REF-0648
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0127

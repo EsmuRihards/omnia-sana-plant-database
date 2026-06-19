@@ -27,7 +27,6 @@ constituents:
   - REF-0415
 indications:
 - condition: anxiety
-  evidence: 3
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
   reference_ids:
   - REF-0415
@@ -35,7 +34,6 @@ indications:
   - REF-0674
   status: verified
 - condition: depression
-  evidence: 3
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
   reference_ids:
   - REF-0415
@@ -43,7 +41,6 @@ indications:
   - REF-0674
   status: verified
 - condition: hot-flashes
-  evidence: 4
   note: Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
     supports benefit, though an earlier systematic review judged the evidence inconsistent)
   reference_ids:
@@ -55,7 +52,6 @@ indications:
   - REF-0673
   status: verified
 - condition: menopause
-  evidence: 4
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood);
     Relief of menopausal symptoms - hot flashes, sweating, sleep and mood disturbance (a meta-analysis
     supports benefit, though an earlier systematic review judged the evidence inconsistent)
@@ -69,13 +65,11 @@ indications:
   - REF-0674
   status: verified
 - condition: menstrual-cramps
-  evidence: 2
   note: Premenstrual and menstrual complaints (traditional use)
   reference_ids:
   - REF-0415
   status: needs-review
 - condition: pms
-  evidence: 2
   note: Premenstrual and menstrual complaints (traditional use)
   reference_ids:
   - REF-0415

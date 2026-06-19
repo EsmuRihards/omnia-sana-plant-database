@@ -45,7 +45,6 @@ actions:
   status: verified
 indications:
 - condition: infection
-  evidence: 3
   note: Prevention of recurrent urinary tract infections (UTI), especially in women
   reference_ids:
   - REF-0389
@@ -53,13 +52,11 @@ indications:
   - REF-0391
   status: verified
 - condition: urinary-support
-  evidence: 2
   note: inferred from urinary-antiseptic action
   reference_ids:
   - REF-0390
   status: needs-review
 - condition: uti
-  evidence: 4
   note: Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining; Prevention of recurrent
     urinary tract infections (UTI), especially in women
   reference_ids:

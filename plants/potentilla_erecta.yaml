@@ -49,14 +49,12 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0520
   - REF-0521
   status: needs-review
 - condition: diarrhea
-  evidence: 4
   note: Astringent for mild diarrhoea (ellagitannins tighten the gut lining) - in a paediatric RCT, tormentil
     root extract shortened rotavirus diarrhoea (3 vs 5 days) and reduced rehydration needs
   reference_ids:
@@ -65,20 +63,17 @@ indications:
   - REF-0602
   status: verified
 - condition: ibd
-  evidence: 2
   note: Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)
   reference_ids:
   - REF-0521
   status: needs-review
 - condition: inflammation
-  evidence: 3
   note: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
   reference_ids:
   - REF-0520
   - REF-0521
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0520
@@ -86,14 +81,12 @@ indications:
   - REF-0602
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   note: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
   reference_ids:
   - REF-0520
   - REF-0521
   status: verified
 - condition: wounds
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0520

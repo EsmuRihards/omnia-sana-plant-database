@@ -84,79 +84,67 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
 - condition: constipation
-  evidence: 2
   note: Mild laxative for occasional constipation (mucilage; traditional)
   reference_ids:
   - REF-0480
   status: needs-review
 - condition: cough
-  evidence: 3
   note: Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage)
   reference_ids:
   - REF-0480
   status: verified
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
 - condition: pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0541
   - REF-0542
   status: needs-review
 - condition: skin-irritation
-  evidence: 3
   note: Soothes irritated and inflamed skin and mucous membranes
   reference_ids:
   - REF-0480
   status: verified
 - condition: sore-throat
-  evidence: 3
   reference_ids:
   - REF-0480
   status: verified
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0541

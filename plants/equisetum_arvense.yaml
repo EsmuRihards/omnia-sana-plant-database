@@ -53,7 +53,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0041
@@ -63,7 +62,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from anti-rheumatic action
   reference_ids:
   - REF-0041
@@ -73,7 +71,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0041
@@ -83,7 +80,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0041
@@ -93,7 +89,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0041
@@ -103,7 +98,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0041
@@ -113,7 +107,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0041
@@ -123,7 +116,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0041
@@ -133,7 +125,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0041
@@ -143,7 +134,6 @@ indications:
   - REF-0262
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0041

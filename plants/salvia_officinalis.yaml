@@ -46,13 +46,11 @@ actions:
   status: verified
 indications:
 - condition: bloating
-  evidence: 2
   note: inferred from carminative action
   reference_ids:
   - REF-0501
   status: needs-review
 - condition: cognitive-function
-  evidence: 3
   note: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
     dementia)
   reference_ids:
@@ -60,25 +58,21 @@ indications:
   - REF-0503
   status: verified
 - condition: hot-flashes
-  evidence: 3
   note: Reduces excessive sweating, including menopausal hot flushes and night sweats
   reference_ids:
   - REF-0501
   status: verified
 - condition: indigestion
-  evidence: 3
   note: Carminative for mild dyspeptic complaints (indigestion)
   reference_ids:
   - REF-0501
   status: verified
 - condition: inflammation
-  evidence: 3
   note: Gargle/rinse for sore throat and inflammation of the mouth and throat
   reference_ids:
   - REF-0501
   status: verified
 - condition: memory
-  evidence: 3
   note: Memory and cognitive-function support (enhances cognition in healthy subjects and people with
     dementia)
   reference_ids:
@@ -86,11 +80,9 @@ indications:
   - REF-0503
   status: verified
 - condition: menopause
-  evidence: 2
   reference_ids: []
   status: needs-review
 - condition: sore-throat
-  evidence: 3
   note: Gargle/rinse for sore throat and inflammation of the mouth and throat
   reference_ids:
   - REF-0501

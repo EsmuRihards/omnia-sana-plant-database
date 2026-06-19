@@ -70,41 +70,35 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  evidence: 3
   note: Anxiolytic / calming (anxiety)
   reference_ids:
   - REF-0457
   status: verified
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0457
   - REF-0458
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0457
   - REF-0458
   status: needs-review
 - condition: cognitive-function
-  evidence: 2
   note: Improves alertness and mood (raises alertness, reduces anger); a meta-analysis found no significant
     improvement in specific cognitive-function domains versus placebo
   reference_ids:
   - REF-0568
   status: needs-review
 - condition: eczema
-  evidence: 3
   note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
   reference_ids:
   - REF-0457
   - REF-0458
   status: verified
 - condition: hemorrhoids
-  evidence: 2
   note: inferred from venotonic action
   reference_ids:
   - REF-0458
@@ -112,46 +106,39 @@ indications:
   - REF-0570
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0457
   - REF-0458
   status: needs-review
 - condition: memory
-  evidence: 3
   note: Cognitive and memory support; neuroprotective
   reference_ids:
   - REF-0457
   status: verified
 - condition: nervous-tension
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0457
   status: needs-review
 - condition: psoriasis
-  evidence: 3
   note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
   reference_ids:
   - REF-0457
   - REF-0458
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0457
   - REF-0458
   status: needs-review
 - condition: stress
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0457
   status: needs-review
 - condition: swelling
-  evidence: 3
   note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
     and reduces leg swelling
   reference_ids:
@@ -160,7 +147,6 @@ indications:
   - REF-0570
   status: verified
 - condition: varicose-veins
-  evidence: 3
   note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
     and reduces leg swelling
   reference_ids:
@@ -169,7 +155,6 @@ indications:
   - REF-0570
   status: verified
 - condition: wounds
-  evidence: 3
   note: inferred from vulnerary action
   reference_ids:
   - REF-0457

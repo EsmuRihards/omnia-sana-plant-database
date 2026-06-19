@@ -41,14 +41,12 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 3
   reference_ids:
   - REF-0050
   - REF-0098
   - REF-0263
   status: verified
 - condition: back-pain
-  evidence: 2
   note: inferred from anti-rheumatic action
   reference_ids:
   - REF-0050
@@ -56,7 +54,6 @@ indications:
   - REF-0263
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0050
@@ -64,14 +61,12 @@ indications:
   - REF-0263
   status: needs-review
 - condition: immune-support
-  evidence: 3
   reference_ids:
   - REF-0050
   - REF-0098
   - REF-0263
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0050
@@ -79,7 +74,6 @@ indications:
   - REF-0263
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0050
@@ -87,7 +81,6 @@ indications:
   - REF-0263
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0050
@@ -95,14 +88,12 @@ indications:
   - REF-0263
   status: needs-review
 - condition: urinary-support
-  evidence: 3
   reference_ids:
   - REF-0050
   - REF-0098
   - REF-0263
   status: verified
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0050

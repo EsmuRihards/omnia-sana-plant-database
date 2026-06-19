@@ -74,7 +74,6 @@ actions:
   status: verified
 indications:
 - condition: acid-reflux
-  evidence: 2
   note: inferred from gastroprotective action
   reference_ids:
   - REF-0431
@@ -82,14 +81,12 @@ indications:
   - REF-0619
   status: needs-review
 - condition: appetite-loss
-  evidence: 3
   note: Aromatic bitter tonic for temporary loss of appetite
   reference_ids:
   - REF-0431
   - REF-0432
   status: verified
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0431
@@ -97,7 +94,6 @@ indications:
   - REF-0619
   status: needs-review
 - condition: bloating
-  evidence: 3
   note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
     and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
     anti-inflammatory activity
@@ -107,7 +103,6 @@ indications:
   - REF-0619
   status: verified
 - condition: detox
-  evidence: 2
   note: inferred from hepatoprotective action
   reference_ids:
   - REF-0431
@@ -115,7 +110,6 @@ indications:
   - REF-0619
   status: needs-review
 - condition: indigestion
-  evidence: 3
   note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
     and bile secretion) - a comprehensive review also documents gastroprotective, hepatoprotective and
     anti-inflammatory activity
@@ -125,7 +119,6 @@ indications:
   - REF-0619
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0431
@@ -133,7 +126,6 @@ indications:
   - REF-0619
   status: needs-review
 - condition: liver-support
-  evidence: 2
   note: inferred from hepatoprotective action
   reference_ids:
   - REF-0431
@@ -141,7 +133,6 @@ indications:
   - REF-0619
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0431

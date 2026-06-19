@@ -132,35 +132,30 @@ actions:
   status: verified
 indications:
 - condition: appetite-loss
-  evidence: 2
   note: inferred from bitter-tonic action
   reference_ids:
   - REF-0326
   - REF-0328
   status: needs-review
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0326
   - REF-0333
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0326
   - REF-0328
   status: needs-review
 - condition: constipation
-  evidence: 2
   note: inferred from laxative action
   reference_ids:
   - REF-0326
   - REF-0328
   status: needs-review
 - condition: detox
-  evidence: 2
   note: inferred from hepatoprotective action
   reference_ids:
   - REF-0326
@@ -168,41 +163,35 @@ indications:
   - REF-0338
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from bitter-tonic action
   reference_ids:
   - REF-0326
   - REF-0328
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0333
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0326
   - REF-0333
   status: needs-review
 - condition: liver-support
-  evidence: 2
   note: inferred from choleretic action
   reference_ids:
   - REF-0326
   - REF-0338
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0326
   - REF-0333
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0321
@@ -210,7 +199,6 @@ indications:
   - REF-0338
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0321
@@ -218,7 +206,6 @@ indications:
   - REF-0338
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0321
@@ -226,7 +213,6 @@ indications:
   - REF-0338
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0333

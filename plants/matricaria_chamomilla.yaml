@@ -77,7 +77,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0079
@@ -87,7 +86,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0079
@@ -97,7 +95,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0079
@@ -107,7 +104,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0079
@@ -117,7 +113,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0079
@@ -127,7 +122,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0079
@@ -137,7 +131,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0079
@@ -147,7 +140,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0079
@@ -157,7 +149,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0079
@@ -167,7 +158,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: inferred from sedative action
   reference_ids:
   - REF-0079
@@ -177,7 +167,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0079
@@ -187,7 +176,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0079
@@ -197,7 +185,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: pain
-  evidence: 3
   reference_ids:
   - REF-0079
   - REF-0112
@@ -206,7 +193,6 @@ indications:
   - REF-0280
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0079
@@ -216,7 +202,6 @@ indications:
   - REF-0280
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0079

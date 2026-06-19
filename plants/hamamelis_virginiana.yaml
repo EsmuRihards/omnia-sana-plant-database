@@ -55,7 +55,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0531
@@ -63,14 +62,12 @@ indications:
   - REF-0533
   status: needs-review
 - condition: bruising
-  evidence: 3
   note: Vulnerary for minor wounds, bruises and insect bites
   reference_ids:
   - REF-0531
   - REF-0533
   status: verified
 - condition: diarrhea
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0531
@@ -78,14 +75,12 @@ indications:
   - REF-0533
   status: needs-review
 - condition: hemorrhoids
-  evidence: 3
   note: Relief of haemorrhoid symptoms (astringent and anti-inflammatory)
   reference_ids:
   - REF-0531
   - REF-0533
   status: verified
 - condition: inflammation
-  evidence: 3
   note: Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied
     topically
   reference_ids:
@@ -93,7 +88,6 @@ indications:
   - REF-0532
   status: verified
 - condition: oral-health
-  evidence: 3
   note: Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied
     topically
   reference_ids:
@@ -101,7 +95,6 @@ indications:
   - REF-0532
   status: verified
 - condition: skin-irritation
-  evidence: 3
   note: Astringent for skin irritation and minor inflammation of the skin and oral mucosa (tannins), applied
     topically
   reference_ids:
@@ -109,7 +102,6 @@ indications:
   - REF-0532
   status: verified
 - condition: wounds
-  evidence: 3
   note: Vulnerary for minor wounds, bruises and insect bites
   reference_ids:
   - REF-0531

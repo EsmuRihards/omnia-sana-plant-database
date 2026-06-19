@@ -57,14 +57,12 @@ actions:
   status: verified
 indications:
 - condition: bloating
-  evidence: 3
   note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
   reference_ids:
   - REF-0461
   - REF-0462
   status: verified
 - condition: cardiovascular-support
-  evidence: 2
   note: inferred from lipid-lowering action
   reference_ids:
   - REF-0461
@@ -72,13 +70,11 @@ indications:
   - REF-0585
   status: needs-review
 - condition: detox
-  evidence: 2
   note: inferred from hepatoprotective action
   reference_ids:
   - REF-0461
   status: needs-review
 - condition: high-cholesterol
-  evidence: 3
   note: inferred from lipid-lowering action
   reference_ids:
   - REF-0461
@@ -86,20 +82,17 @@ indications:
   - REF-0585
   status: needs-review
 - condition: ibs
-  evidence: 2
   note: Supports irritable bowel syndrome (IBS) symptoms
   reference_ids:
   - REF-0461
   status: needs-review
 - condition: indigestion
-  evidence: 3
   note: Digestive aid for dyspeptic complaints - indigestion, bloating and fullness
   reference_ids:
   - REF-0461
   - REF-0462
   status: verified
 - condition: liver-support
-  evidence: 3
   note: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
   reference_ids:
   - REF-0461

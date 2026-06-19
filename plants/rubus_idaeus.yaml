@@ -47,19 +47,16 @@ actions:
   status: needs-review
 indications:
 - condition: diarrhea
-  evidence: 2
   note: Astringent for mild diarrhoea (tannins)
   reference_ids:
   - REF-0497
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: Astringent for menstrual cramps (traditional)
   reference_ids:
   - REF-0497
   status: needs-review
 - condition: pms
-  evidence: 2
   note: inferred from emmenagogue action
   reference_ids:
   - REF-0497
@@ -67,17 +64,14 @@ indications:
   - REF-0607
   status: needs-review
 - condition: pregnancy-support
-  evidence: 2
   reference_ids: []
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0497
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0497

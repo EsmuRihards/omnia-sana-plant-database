@@ -30,28 +30,23 @@ constituents:
   - REF-0434
 indications:
 - condition: acne
-  evidence: 2
   note: Cycle-related (hormonal) acne (traditional)
   reference_ids:
   - REF-0434
   status: needs-review
 - condition: menopause
-  evidence: 2
   reference_ids: []
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 3
   reference_ids: []
   status: needs-review
 - condition: pain
-  evidence: 3
   note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping
   reference_ids:
   - REF-0433
   - REF-0435
   status: verified
 - condition: pms
-  evidence: 4
   note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping; Relief
     of premenstrual syndrome (PMS) symptoms
   reference_ids:

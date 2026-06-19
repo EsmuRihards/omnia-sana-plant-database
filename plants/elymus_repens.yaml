@@ -45,42 +45,35 @@ actions:
   status: verified
 indications:
 - condition: cough
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0438
   status: needs-review
 - condition: kidney-support
-  evidence: 1
   reference_ids: []
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0438
   status: needs-review
 - condition: sore-throat
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0438
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: Supports mild fluid retention / swelling
   reference_ids:
   - REF-0437
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0437
   - REF-0438
   status: needs-review
 - condition: uti
-  evidence: 3
   note: Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty
     of fluids)
   reference_ids:

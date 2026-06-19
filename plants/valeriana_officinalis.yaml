@@ -36,7 +36,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0025
@@ -44,7 +43,6 @@ indications:
   - REF-0112
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0025
@@ -52,7 +50,6 @@ indications:
   - REF-0112
   status: needs-review
 - condition: insomnia
-  evidence: 2
   note: inferred from sedative action
   reference_ids:
   - REF-0025
@@ -60,14 +57,12 @@ indications:
   - REF-0112
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 3
   reference_ids:
   - REF-0025
   - REF-0091
   - REF-0112
   status: verified
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0025
@@ -75,7 +70,6 @@ indications:
   - REF-0112
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0025

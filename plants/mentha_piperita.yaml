@@ -49,7 +49,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0004
@@ -57,7 +56,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0004
@@ -65,7 +63,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0004
@@ -73,7 +70,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0004
@@ -81,7 +77,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0004
@@ -89,7 +84,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0004
@@ -97,7 +91,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0004
@@ -105,7 +98,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0004
@@ -113,7 +105,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0004
@@ -121,21 +112,18 @@ indications:
   - REF-0163
   status: needs-review
 - condition: pain
-  evidence: 3
   reference_ids:
   - REF-0004
   - REF-0100
   - REF-0163
   status: verified
 - condition: respiratory-support
-  evidence: 3
   reference_ids:
   - REF-0004
   - REF-0100
   - REF-0163
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0004
@@ -143,7 +131,6 @@ indications:
   - REF-0163
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0004

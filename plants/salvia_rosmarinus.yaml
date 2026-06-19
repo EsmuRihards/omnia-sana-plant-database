@@ -47,7 +47,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
@@ -55,7 +54,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0112
@@ -63,14 +61,12 @@ indications:
   - REF-0194
   status: needs-review
 - condition: cardiovascular-support
-  evidence: 3
   reference_ids:
   - REF-0112
   - REF-0173
   - REF-0194
   status: verified
 - condition: cognitive-function
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0112
@@ -78,7 +74,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0112
@@ -86,7 +81,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0112
@@ -94,7 +88,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
@@ -102,7 +95,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0112
@@ -110,7 +102,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: menstrual-cramps
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0112
@@ -118,7 +109,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: muscle-spasm
-  evidence: 2
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0112
@@ -126,7 +116,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0112
@@ -134,7 +123,6 @@ indications:
   - REF-0194
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0112

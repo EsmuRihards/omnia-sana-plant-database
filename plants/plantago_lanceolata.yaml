@@ -74,14 +74,12 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0499
   - REF-0633
   status: needs-review
 - condition: bronchitis
-  evidence: 3
   note: Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage
     soothes and protects irritated airways)
   reference_ids:
@@ -89,21 +87,18 @@ indications:
   - REF-0500
   status: verified
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0499
   - REF-0500
   status: needs-review
 - condition: cold
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0499
   - REF-0500
   status: needs-review
 - condition: cough
-  evidence: 3
   note: Demulcent for catarrh of the respiratory tract and dry, irritating cough / bronchitis (mucilage
     soothes and protects irritated airways)
   reference_ids:
@@ -111,21 +106,18 @@ indications:
   - REF-0500
   status: verified
 - condition: immune-support
-  evidence: 2
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0499
   - REF-0500
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0499
   - REF-0500
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
     the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional
     respiratory anti-inflammatory use
@@ -134,14 +126,12 @@ indications:
   - REF-0633
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from demulcent action
   reference_ids:
   - REF-0499
   - REF-0500
   status: needs-review
 - condition: sore-throat
-  evidence: 2
   note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
     the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional
     respiratory anti-inflammatory use
@@ -150,7 +140,6 @@ indications:
   - REF-0633
   status: verified
 - condition: wounds
-  evidence: 3
   note: Vulnerary for minor wounds and insect bites (topical)
   reference_ids:
   - REF-0499

@@ -45,7 +45,6 @@ actions:
   status: verified
 indications:
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0035
@@ -53,7 +52,6 @@ indications:
   - REF-0225
   status: needs-review
 - condition: eczema
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0035
@@ -61,7 +59,6 @@ indications:
   - REF-0225
   status: needs-review
 - condition: infection
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0035
@@ -69,7 +66,6 @@ indications:
   - REF-0225
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from emollient action
   reference_ids:
   - REF-0035
@@ -77,7 +73,6 @@ indications:
   - REF-0225
   status: needs-review
 - condition: swelling
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0035
@@ -85,7 +80,6 @@ indications:
   - REF-0225
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0035
@@ -93,7 +87,6 @@ indications:
   - REF-0225
   status: needs-review
 - condition: uti
-  evidence: 2
   note: inferred from diuretic action
   reference_ids:
   - REF-0035
@@ -101,7 +94,6 @@ indications:
   - REF-0225
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0035

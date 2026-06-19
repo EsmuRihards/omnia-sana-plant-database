@@ -29,7 +29,6 @@ actions:
   status: verified
 indications:
 - condition: cognitive-function
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0009
@@ -37,7 +36,6 @@ indications:
   - REF-0233
   status: needs-review
 - condition: fatigue
-  evidence: 2
   note: inferred from ergogenic action
   reference_ids:
   - REF-0009
@@ -45,7 +43,6 @@ indications:
   - REF-0233
   status: needs-review
 - condition: memory
-  evidence: 2
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0009
@@ -53,14 +50,12 @@ indications:
   - REF-0233
   status: needs-review
 - condition: metabolic-support
-  evidence: 3
   reference_ids:
   - REF-0009
   - REF-0106
   - REF-0233
   status: verified
 - condition: muscle-soreness
-  evidence: 2
   note: inferred from ergogenic action
   reference_ids:
   - REF-0009

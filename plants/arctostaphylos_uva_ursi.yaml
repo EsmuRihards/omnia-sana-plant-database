@@ -64,14 +64,12 @@ actions:
   status: verified
 indications:
 - condition: diarrhea
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0405
   - REF-0407
   status: needs-review
 - condition: infection
-  evidence: 3
   note: Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)
   reference_ids:
   - REF-0405
@@ -80,14 +78,12 @@ indications:
   - REF-0701
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from astringent action
   reference_ids:
   - REF-0405
   - REF-0407
   status: needs-review
 - condition: urinary-support
-  evidence: 2
   note: inferred from urinary-antiseptic action
   reference_ids:
   - REF-0405
@@ -97,7 +93,6 @@ indications:
   - REF-0702
   status: needs-review
 - condition: uti
-  evidence: 3
   note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
     by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis
     (short-term)
@@ -109,7 +104,6 @@ indications:
   - REF-0702
   status: verified
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0405

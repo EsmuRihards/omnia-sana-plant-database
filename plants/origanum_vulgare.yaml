@@ -70,38 +70,32 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0485
   - REF-0486
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from carminative action
   reference_ids:
   - REF-0485
   status: needs-review
 - condition: cold
-  evidence: 2
   note: Aromatic support for coughs and colds (traditional)
   reference_ids:
   - REF-0485
   status: needs-review
 - condition: cough
-  evidence: 2
   note: Aromatic support for coughs and colds (traditional)
   reference_ids:
   - REF-0485
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: Carminative digestive for indigestion (traditional bitter aromatic)
   reference_ids:
   - REF-0485
   status: needs-review
 - condition: infection
-  evidence: 3
   note: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and
     gastrointestinal infections; a small clinical study found emulsified oregano oil cleared enteric parasites
     (incl. Blastocystis hominis) and improved gut symptoms
@@ -111,14 +105,12 @@ indications:
   - REF-0597
   status: verified
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0485
   - REF-0486
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from antifungal action
   reference_ids:
   - REF-0485
@@ -126,7 +118,6 @@ indications:
   - REF-0597
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0485

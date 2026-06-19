@@ -36,31 +36,26 @@ actions:
   status: needs-review
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0487
   status: needs-review
 - condition: eczema
-  evidence: 3
   note: Topical for atopic dermatitis (eczema) and skin irritation
   reference_ids:
   - REF-0487
   status: verified
 - condition: infection
-  evidence: 2
   note: Antimicrobial (berberine) - supports skin and mucosal infection
   reference_ids:
   - REF-0488
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0487
   status: needs-review
 - condition: psoriasis
-  evidence: 4
   note: Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis); Topical
     treatment of mild-to-moderate psoriasis (reduces plaque severity) - a double-blind, placebo-controlled
     RCT showed significant improvement in PASI and quality-of-life scores
@@ -69,13 +64,11 @@ indications:
   - REF-0591
   status: verified
 - condition: skin-irritation
-  evidence: 3
   note: Topical for atopic dermatitis (eczema) and skin irritation
   reference_ids:
   - REF-0487
   status: verified
 - condition: wounds
-  evidence: 2
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0488

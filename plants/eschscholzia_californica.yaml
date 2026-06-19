@@ -35,7 +35,6 @@ actions:
   status: verified
 indications:
 - condition: anxiety
-  evidence: 4
   note: Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California
     poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety
   reference_ids:
@@ -43,25 +42,21 @@ indications:
   - REF-0606
   status: verified
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0427
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0427
   status: needs-review
 - condition: insomnia
-  evidence: 3
   note: Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)
   reference_ids:
   - REF-0427
   status: verified
 - condition: nervous-tension
-  evidence: 4
   note: Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California
     poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety
   reference_ids:
@@ -69,13 +64,11 @@ indications:
   - REF-0606
   status: verified
 - condition: pain
-  evidence: 2
   note: Mild analgesic (traditional use for pain)
   reference_ids:
   - REF-0427
   status: needs-review
 - condition: stress
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0427

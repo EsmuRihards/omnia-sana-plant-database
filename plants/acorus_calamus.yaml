@@ -64,26 +64,22 @@ actions:
   status: needs-review
 indications:
 - condition: anxiety
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0516
   - REF-0624
   status: needs-review
 - condition: appetite-loss
-  evidence: 2
   note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
   reference_ids:
   - REF-0516
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
   reference_ids:
   - REF-0516
   status: needs-review
 - condition: cognitive-function
-  evidence: 2
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
     and antidepressant-like activity)
   reference_ids:
@@ -91,20 +87,17 @@ indications:
   - REF-0624
   status: needs-review
 - condition: depression
-  evidence: 2
   note: inferred from antidepressant action
   reference_ids:
   - REF-0516
   - REF-0624
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
   reference_ids:
   - REF-0516
   status: needs-review
 - condition: memory
-  evidence: 2
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
     and antidepressant-like activity)
   reference_ids:
@@ -112,14 +105,12 @@ indications:
   - REF-0624
   status: needs-review
 - condition: nervous-tension
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0516
   - REF-0624
   status: needs-review
 - condition: stress
-  evidence: 2
   note: inferred from anxiolytic action
   reference_ids:
   - REF-0516

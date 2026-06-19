@@ -38,7 +38,6 @@ actions:
   status: verified
 indications:
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0074
@@ -46,7 +45,6 @@ indications:
   - REF-0281
   status: needs-review
 - condition: back-pain
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0074
@@ -54,7 +52,6 @@ indications:
   - REF-0281
   status: needs-review
 - condition: bruising
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0074
@@ -62,7 +59,6 @@ indications:
   - REF-0281
   status: needs-review
 - condition: headache
-  evidence: 2
   note: inferred from analgesic action
   reference_ids:
   - REF-0074
@@ -70,7 +66,6 @@ indications:
   - REF-0281
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0074
@@ -78,14 +73,12 @@ indications:
   - REF-0281
   status: needs-review
 - condition: pain
-  evidence: 3
   reference_ids:
   - REF-0074
   - REF-0246
   - REF-0281
   status: verified
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0074
@@ -93,14 +86,12 @@ indications:
   - REF-0281
   status: needs-review
 - condition: swelling
-  evidence: 3
   reference_ids:
   - REF-0074
   - REF-0246
   - REF-0281
   status: verified
 - condition: varicose-veins
-  evidence: 2
   note: inferred from anti-oedematous action
   reference_ids:
   - REF-0074
@@ -108,7 +99,6 @@ indications:
   - REF-0281
   status: needs-review
 - condition: wounds
-  evidence: 2
   note: inferred from vulnerary action
   reference_ids:
   - REF-0074

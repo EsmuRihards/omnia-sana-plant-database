@@ -63,57 +63,48 @@ actions:
   status: verified
 indications:
 - condition: appetite-loss
-  evidence: 2
   note: inferred from bitter-tonic action
   reference_ids:
   - REF-0412
   status: needs-review
 - condition: arthritis
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0412
   status: needs-review
 - condition: bloating
-  evidence: 2
   note: inferred from digestive action
   reference_ids:
   - REF-0412
   status: needs-review
 - condition: blood-sugar
-  evidence: 3
   note: Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)
   reference_ids:
   - REF-0412
   - REF-0413
   status: verified
 - condition: constipation
-  evidence: 2
   note: inferred from laxative action
   reference_ids:
   - REF-0412
   status: needs-review
 - condition: indigestion
-  evidence: 2
   note: inferred from bitter-tonic action
   reference_ids:
   - REF-0412
   status: needs-review
 - condition: inflammation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0412
   status: needs-review
 - condition: metabolic-support
-  evidence: 2
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0412
   - REF-0413
   status: needs-review
 - condition: skin-irritation
-  evidence: 2
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0412

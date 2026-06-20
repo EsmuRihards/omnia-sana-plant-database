@@ -9406,9 +9406,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0785",
+    "REF-0786",
+    "REF-0787"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "crocus-sativus",
@@ -9591,9 +9596,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0788",
+    "REF-0789",
+    "REF-0790"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "cuminum-cyminum",
@@ -10317,9 +10327,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0791",
+    "REF-0792",
+    "REF-0793"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "cynara-scolymus",
@@ -10649,9 +10664,14 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0794",
+    "REF-0795",
+    "REF-0796"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "echinacea-purpurea",
@@ -10789,9 +10809,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0797",
+    "REF-0798",
+    "REF-0799"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "elettaria-cardamomum",

@@ -108,9 +108,13 @@ contraindications:
   reference_ids:
   - REF-0528
   status: needs-review
+references:
+- REF-0794
+- REF-0795
+- REF-0796
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary and Alternative Medicine
   bioassay/toxicity study). Further enriched 2026-06-13 with an additional diosgenin pharmacokinetic/pharmacology
   study (REF-0536, Okawara et al. 2013) sourced from PubMed. Originally a skeleton imported from the omniasana.bio
@@ -118,4 +122,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   now part-mapped and cited. Further enriched 2026-06-14 with the PubMed-sourced Komesaroff et al. RCT
   of topical wild yam cream (REF-0614), which found little effect on menopausal symptoms or hormones -
   directly supporting the myth-bust on diosgenin and progesterone. | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds).'
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
+  PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0794, REF-0795,
+  REF-0796.'

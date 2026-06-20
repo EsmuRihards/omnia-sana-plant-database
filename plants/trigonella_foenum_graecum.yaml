@@ -17,18 +17,25 @@ actions:
   - REF-0148
   - REF-0182
   - REF-0308
+  - REF-1114
+  - REF-1118
+  - REF-1121
+  - REF-1122
   status: verified
 - action: antidiabetic
   reference_ids:
   - REF-0148
   - REF-0182
   - REF-0308
+  - REF-1117
+  - REF-1118
   status: verified
 - action: aphrodisiac
   reference_ids:
   - REF-0148
   - REF-0182
   - REF-0308
+  - REF-1116
   status: verified
 indications:
 - condition: arthritis
@@ -37,6 +44,7 @@ indications:
   - REF-0148
   - REF-0182
   - REF-0308
+  - REF-1114
   status: needs-review
 - condition: blood-sugar
   note: inferred from antidiabetic action
@@ -44,6 +52,7 @@ indications:
   - REF-0148
   - REF-0182
   - REF-0308
+  - REF-1117
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
@@ -56,6 +65,7 @@ indications:
   - REF-0148
   - REF-0182
   - REF-0308
+  - REF-1116
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -63,6 +73,8 @@ indications:
   - REF-0148
   - REF-0182
   - REF-0308
+  - REF-1121
+  - REF-1122
   status: needs-review
 - condition: metabolic-support
   reference_ids:
@@ -109,11 +121,25 @@ contraindications:
   - REF-0182
   - REF-0308
   status: verified
-provenance: book
+references:
+- REF-1114
+- REF-1115
+- REF-1116
+- REF-1117
+- REF-0182
+- REF-1118
+- REF-1119
+- REF-1120
+- REF-1121
+- REF-1122
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1114, REF-1115, REF-1116, REF-1117, REF-0182,
+  REF-1118, REF-1119, REF-1120, REF-1121, REF-1122) — woven into relevant actions/indications and the
+  plant-level references bucket.'

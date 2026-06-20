@@ -29400,7 +29400,9 @@
      "reference_ids": [
       "REF-0071",
       "REF-0133",
-      "REF-0250"
+      "REF-0250",
+      "REF-1094",
+      "REF-1099"
      ],
      "status": "verified"
     },
@@ -29409,7 +29411,11 @@
      "reference_ids": [
       "REF-0071",
       "REF-0133",
-      "REF-0250"
+      "REF-0250",
+      "REF-1094",
+      "REF-1097",
+      "REF-1098",
+      "REF-1099"
      ],
      "status": "verified"
     },
@@ -29418,7 +29424,12 @@
      "reference_ids": [
       "REF-0071",
       "REF-0133",
-      "REF-0250"
+      "REF-0250",
+      "REF-1094",
+      "REF-1095",
+      "REF-1096",
+      "REF-1097",
+      "REF-1099"
      ],
      "status": "verified"
     },
@@ -29535,9 +29546,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1094",
+    "REF-1095",
+    "REF-1096",
+    "REF-1097",
+    "REF-1098",
+    "REF-1099",
+    "REF-1100",
+    "REF-1101",
+    "REF-1102",
+    "REF-1103"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "thymus-vulgaris",
@@ -30227,7 +30250,8 @@
      "reference_ids": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1107"
      ],
      "status": "verified"
     },
@@ -30236,7 +30260,9 @@
      "reference_ids": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1107",
+      "REF-1109"
      ],
      "status": "verified"
     },
@@ -30246,7 +30272,8 @@
      "reference_ids": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1111"
      ],
      "status": "verified"
     },
@@ -30286,7 +30313,9 @@
      "reference_ids": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1105",
+      "REF-1113"
      ],
      "status": "verified"
     },
@@ -30315,7 +30344,8 @@
      "reference_ids": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1111"
      ],
      "status": "verified"
     },
@@ -30325,7 +30355,8 @@
      "reference_ids": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1111"
      ],
      "status": "needs-review"
     },
@@ -30345,7 +30376,8 @@
      "reference_ids": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1110"
      ],
      "status": "needs-review"
     }
@@ -30372,9 +30404,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1104",
+    "REF-1105",
+    "REF-1106",
+    "REF-1107",
+    "REF-1108",
+    "REF-1109",
+    "REF-1110",
+    "REF-1111",
+    "REF-1112",
+    "REF-1113"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "trifolium-repens",
@@ -30576,7 +30620,11 @@
      "reference_ids": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1114",
+      "REF-1118",
+      "REF-1121",
+      "REF-1122"
      ],
      "status": "verified"
     },
@@ -30585,7 +30633,9 @@
      "reference_ids": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1117",
+      "REF-1118"
      ],
      "status": "verified"
     },
@@ -30594,7 +30644,8 @@
      "reference_ids": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1116"
      ],
      "status": "verified"
     }
@@ -30606,7 +30657,8 @@
      "reference_ids": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1114"
      ],
      "status": "needs-review"
     },
@@ -30616,7 +30668,8 @@
      "reference_ids": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1117"
      ],
      "status": "needs-review"
     },
@@ -30634,7 +30687,8 @@
      "reference_ids": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1116"
      ],
      "status": "verified"
     },
@@ -30644,7 +30698,9 @@
      "reference_ids": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1121",
+      "REF-1122"
      ],
      "status": "needs-review"
     },
@@ -30700,9 +30756,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1114",
+    "REF-1115",
+    "REF-1116",
+    "REF-1117",
+    "REF-0182",
+    "REF-1118",
+    "REF-1119",
+    "REF-1120",
+    "REF-1121",
+    "REF-1122"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "tussilago-farfara",

@@ -14,12 +14,15 @@ actions:
   - REF-0013
   - REF-0036
   - REF-0112
+  - REF-1107
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0013
   - REF-0036
   - REF-0112
+  - REF-1107
+  - REF-1109
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
@@ -27,6 +30,7 @@ actions:
   - REF-0013
   - REF-0036
   - REF-0112
+  - REF-1111
   status: verified
 - action: expectorant
   reference_ids:
@@ -54,6 +58,8 @@ indications:
   - REF-0013
   - REF-0036
   - REF-0112
+  - REF-1105
+  - REF-1113
   status: verified
 - condition: cough
   note: inferred from expectorant action
@@ -74,6 +80,7 @@ indications:
   - REF-0013
   - REF-0036
   - REF-0112
+  - REF-1111
   status: verified
 - condition: muscle-spasm
   note: inferred from antispasmodic action
@@ -81,6 +88,7 @@ indications:
   - REF-0013
   - REF-0036
   - REF-0112
+  - REF-1111
   status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
@@ -95,6 +103,7 @@ indications:
   - REF-0013
   - REF-0036
   - REF-0112
+  - REF-1110
   status: needs-review
 contraindications:
 - note: Generally safe in normal dietary amounts. Isoflavones are phytoestrogens — exercise caution in
@@ -120,11 +129,25 @@ contraindications:
   - REF-0036
   - REF-0112
   status: verified
-provenance: book
+references:
+- REF-1104
+- REF-1105
+- REF-1106
+- REF-1107
+- REF-1108
+- REF-1109
+- REF-1110
+- REF-1111
+- REF-1112
+- REF-1113
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1104, REF-1105, REF-1106, REF-1107, REF-1108,
+  REF-1109, REF-1110, REF-1111, REF-1112, REF-1113) — woven into relevant actions/indications and the
+  plant-level references bucket.'

@@ -15,18 +15,29 @@ actions:
   - REF-0071
   - REF-0133
   - REF-0250
+  - REF-1094
+  - REF-1099
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0071
   - REF-0133
   - REF-0250
+  - REF-1094
+  - REF-1097
+  - REF-1098
+  - REF-1099
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0071
   - REF-0133
   - REF-0250
+  - REF-1094
+  - REF-1095
+  - REF-1096
+  - REF-1097
+  - REF-1099
   status: verified
 - action: gastroprotective
   reference_ids:
@@ -113,11 +124,25 @@ contraindications:
   - REF-0133
   - REF-0250
   status: verified
-provenance: book
+references:
+- REF-1094
+- REF-1095
+- REF-1096
+- REF-1097
+- REF-1098
+- REF-1099
+- REF-1100
+- REF-1101
+- REF-1102
+- REF-1103
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1094, REF-1095, REF-1096, REF-1097, REF-1098,
+  REF-1099, REF-1100, REF-1101, REF-1102, REF-1103) — woven into relevant actions/indications and the
+  plant-level references bucket.'

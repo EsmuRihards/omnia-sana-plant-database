@@ -8708,13 +8708,27 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 7,
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1114"
+     ]
+    },
+    {
+     "condition": "fertility",
+     "label": "Fertility",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0148",
+      "REF-0182",
+      "REF-0308",
+      "REF-1116"
      ]
     },
     {
@@ -8726,24 +8740,13 @@
      "references": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1117"
      ]
     },
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0148",
-      "REF-0182",
-      "REF-0308"
-     ]
-    },
-    {
-     "condition": "fertility",
-     "label": "Fertility",
      "evidence": 7,
      "status": "verified",
      "inferred": false,
@@ -8762,7 +8765,9 @@
      "references": [
       "REF-0148",
       "REF-0182",
-      "REF-0308"
+      "REF-0308",
+      "REF-1121",
+      "REF-1122"
      ]
     },
     {
@@ -16025,6 +16030,20 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0013",
+      "REF-0036",
+      "REF-0112",
+      "REF-1105",
+      "REF-1113"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 5,
@@ -16042,18 +16061,6 @@
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0013",
-      "REF-0036",
-      "REF-0112"
-     ]
-    },
-    {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0013",
       "REF-0036",
@@ -16093,7 +16100,8 @@
      "references": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1111"
      ]
     },
     {
@@ -16105,7 +16113,8 @@
      "references": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1111"
      ]
     },
     {
@@ -16129,7 +16138,8 @@
      "references": [
       "REF-0013",
       "REF-0036",
-      "REF-0112"
+      "REF-0112",
+      "REF-1110"
      ]
     }
    ]

@@ -46,12 +46,19 @@ actions:
   reference_ids:
   - REF-0541
   - REF-0542
+  - REF-1190
   status: needs-review
 - action: anti-inflammatory
   note: Anti-inflammatory, analgesic and wound-healing (preclinical)
   reference_ids:
   - REF-0541
   - REF-0542
+  - REF-1184
+  - REF-1185
+  - REF-1188
+  - REF-1189
+  - REF-1191
+  - REF-1192
   status: needs-review
 - action: antimicrobial
   note: Antibacterial / antimicrobial (methanolic leaf extracts; the naphthoquinone Malvone A)
@@ -64,12 +71,17 @@ actions:
   reference_ids:
   - REF-0541
   - REF-0542
+  - REF-1183
+  - REF-1186
+  - REF-1187
+  - REF-1191
   status: verified
 - action: demulcent
   note: Demulcent for irritation of the mouth or throat and associated dry cough (soothing mucilage);
     Mild laxative for occasional constipation (mucilage; traditional)
   reference_ids:
   - REF-0480
+  - REF-1184
   status: needs-review
 - action: laxative
   note: Mild laxative for occasional constipation (mucilage; traditional)
@@ -81,6 +93,8 @@ actions:
   reference_ids:
   - REF-0541
   - REF-0542
+  - REF-1190
+  - REF-1191
   status: needs-review
 indications:
 - condition: arthritis
@@ -128,17 +142,22 @@ indications:
   reference_ids:
   - REF-0541
   - REF-0542
+  - REF-1185
+  - REF-1188
+  - REF-1192
   status: needs-review
 - condition: pain
   note: inferred from analgesic action
   reference_ids:
   - REF-0541
   - REF-0542
+  - REF-1190
   status: needs-review
 - condition: skin-irritation
   note: Soothes irritated and inflamed skin and mucous membranes
   reference_ids:
   - REF-0480
+  - REF-1189
   status: verified
 - condition: sore-throat
   reference_ids:
@@ -149,6 +168,7 @@ indications:
   reference_ids:
   - REF-0541
   - REF-0542
+  - REF-1190
   status: needs-review
 contraindications:
 - note: Generally very well tolerated. Irritation of the mouth/throat or a cough that persists beyond
@@ -162,13 +182,27 @@ contraindications:
   reference_ids:
   - REF-0480
   status: verified
+references:
+- REF-1183
+- REF-1184
+- REF-1185
+- REF-1186
+- REF-1187
+- REF-1188
+- REF-1189
+- REF-1190
+- REF-1191
+- REF-1192
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-13'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium
   / flos). Further enriched 2026-06-13 with two PubMed phytochemistry/pharmacology reviews (REF-0541,
   Paul et al. 2024; REF-0542, Batiha et al. 2022) that added antioxidant, antibacterial and anti-inflammatory/analgesic
   actions and a coumarins/phenolics constituent. Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (cough, sore-throat, skin-irritation, inflammation, constipation); associations
   retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1183, REF-1184, REF-1185, REF-1186, REF-1187,
+  REF-1188, REF-1189, REF-1190, REF-1191, REF-1192) — woven into relevant actions/indications and the
+  plant-level references bucket.'

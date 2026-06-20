@@ -12363,6 +12363,32 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cold",
+     "label": "Cold & flu",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0112",
+      "REF-0134",
+      "REF-0194",
+      "REF-1200"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0112",
+      "REF-0134",
+      "REF-0194",
+      "REF-1200"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 5,
@@ -12387,32 +12413,8 @@
      ]
     },
     {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0112",
-      "REF-0134",
-      "REF-0194"
-     ]
-    },
-    {
      "condition": "indigestion",
      "label": "Indigestion",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0112",
-      "REF-0134",
-      "REF-0194"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
@@ -13370,6 +13372,55 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0541",
+      "REF-0542",
+      "REF-1190"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0541",
+      "REF-0542",
+      "REF-1190"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0541",
+      "REF-0542",
+      "REF-1185",
+      "REF-1188",
+      "REF-1192"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0480",
+      "REF-1189"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -13445,38 +13496,6 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0541",
-      "REF-0542"
-     ]
-    },
-    {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0541",
-      "REF-0542"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0480"
-     ]
-    },
-    {
      "condition": "sore-throat",
      "label": "Sore throat",
      "evidence": 1,
@@ -13484,17 +13503,6 @@
      "inferred": false,
      "references": [
       "REF-0480"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0541",
-      "REF-0542"
      ]
     }
    ]
@@ -15261,6 +15269,19 @@
    "wp_post_id": 155,
    "indications": [
     {
+     "condition": "headache",
+     "label": "Headache",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0004",
+      "REF-0100",
+      "REF-0163",
+      "REF-1207"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 5,
@@ -15287,18 +15308,6 @@
     {
      "condition": "bloating",
      "label": "Bloating",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0004",
-      "REF-0100",
-      "REF-0163"
-     ]
-    },
-    {
-     "condition": "headache",
-     "label": "Headache",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,

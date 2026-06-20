@@ -53,12 +53,14 @@ indications:
     for eczema)
   reference_ids:
   - REF-0512
+  - REF-1029
   status: needs-review
 - condition: eczema
   note: Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional
     for eczema)
   reference_ids:
   - REF-0512
+  - REF-1025
   status: needs-review
 - condition: respiratory-support
   note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
@@ -68,7 +70,9 @@ indications:
   - REF-0512
   status: needs-review
 - condition: skin-irritation
-  reference_ids: []
+  reference_ids:
+  - REF-1027
+  - REF-1029
   status: needs-review
 contraindications:
 - note: 'SERIOUS: the saponins are irritant and can cause haemolysis (destruction of red blood cells).
@@ -85,9 +89,20 @@ contraindications:
   reference_ids:
   - REF-0512
   status: verified
+references:
+- REF-1025
+- REF-1026
+- REF-1027
+- REF-1028
+- REF-1029
+- REF-1030
+- REF-1031
+- REF-1032
+- REF-1033
+- REF-1034
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record
   status set to needs-review because the saponins carry a real haemolysis/irritation risk and the internal
   use is largely outdated. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
@@ -95,4 +110,6 @@ internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and Medi
   2026-06-14 with a PubMed-sourced study demonstrating the surfactant/emulsifying behaviour of Saponaria
   officinalis saponins (REF-0631), the physicochemical basis of its traditional "natural soap" use. |
   2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds).'
+  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
+  sources (REF-1025, REF-1026, REF-1027, REF-1028, REF-1029, REF-1030, REF-1031, REF-1032, REF-1033, REF-1034)
+  — woven into relevant actions/indications and the plant-level references bucket.'

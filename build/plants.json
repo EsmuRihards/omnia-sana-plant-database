@@ -24957,7 +24957,10 @@
      "reference_ids": [
       "REF-0051",
       "REF-0098",
-      "REF-0240"
+      "REF-0240",
+      "REF-1005",
+      "REF-1006",
+      "REF-1011"
      ],
      "status": "verified"
     },
@@ -24966,7 +24969,12 @@
      "reference_ids": [
       "REF-0051",
       "REF-0098",
-      "REF-0240"
+      "REF-0240",
+      "REF-1005",
+      "REF-1006",
+      "REF-1009",
+      "REF-1012",
+      "REF-1013"
      ],
      "status": "verified"
     },
@@ -24975,7 +24983,9 @@
      "reference_ids": [
       "REF-0051",
       "REF-0098",
-      "REF-0240"
+      "REF-0240",
+      "REF-1010",
+      "REF-1013"
      ],
      "status": "verified"
     }
@@ -24996,7 +25006,8 @@
      "reference_ids": [
       "REF-0051",
       "REF-0098",
-      "REF-0240"
+      "REF-0240",
+      "REF-1008"
      ],
      "status": "verified"
     },
@@ -25035,7 +25046,9 @@
      "reference_ids": [
       "REF-0051",
       "REF-0098",
-      "REF-0240"
+      "REF-0240",
+      "REF-1007",
+      "REF-1011"
      ],
      "status": "needs-review"
     }
@@ -25062,9 +25075,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1005",
+    "REF-1006",
+    "REF-1007",
+    "REF-1008",
+    "REF-1009",
+    "REF-1010",
+    "REF-1011",
+    "REF-1012",
+    "REF-1013",
+    "REF-1014"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "rubus-fruticosus",
@@ -26412,7 +26437,10 @@
      "reference_ids": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1015",
+      "REF-1019",
+      "REF-1021"
      ],
      "status": "verified"
     },
@@ -26421,7 +26449,12 @@
      "reference_ids": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1015",
+      "REF-1019",
+      "REF-1020",
+      "REF-1021",
+      "REF-1023"
      ],
      "status": "verified"
     },
@@ -26430,7 +26463,11 @@
      "reference_ids": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1015",
+      "REF-1016",
+      "REF-1018",
+      "REF-1021"
      ],
      "status": "verified"
     }
@@ -26452,7 +26489,8 @@
      "reference_ids": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1016"
      ],
      "status": "needs-review"
     },
@@ -26462,7 +26500,8 @@
      "reference_ids": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1023"
      ],
      "status": "needs-review"
     },
@@ -26472,7 +26511,8 @@
      "reference_ids": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1019"
      ],
      "status": "needs-review"
     },
@@ -26481,7 +26521,9 @@
      "reference_ids": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1016",
+      "REF-1018"
      ],
      "status": "verified"
     },
@@ -26518,9 +26560,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1015",
+    "REF-1016",
+    "REF-1017",
+    "REF-1018",
+    "REF-1019",
+    "REF-1020",
+    "REF-1021",
+    "REF-1022",
+    "REF-1023",
+    "REF-1024"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "saponaria-officinalis",
@@ -26593,7 +26647,8 @@
      "condition": "detox",
      "note": "Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional for eczema)",
      "reference_ids": [
-      "REF-0512"
+      "REF-0512",
+      "REF-1029"
      ],
      "status": "needs-review"
     },
@@ -26601,7 +26656,8 @@
      "condition": "eczema",
      "note": "Topical cleansing/soothing for skin ailments (the saponins act as a natural soap; traditional for eczema)",
      "reference_ids": [
-      "REF-0512"
+      "REF-0512",
+      "REF-1025"
      ],
      "status": "needs-review"
     },
@@ -26616,7 +26672,10 @@
     },
     {
      "condition": "skin-irritation",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-1027",
+      "REF-1029"
+     ],
      "status": "needs-review"
     }
    ],
@@ -26639,9 +26698,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1025",
+    "REF-1026",
+    "REF-1027",
+    "REF-1028",
+    "REF-1029",
+    "REF-1030",
+    "REF-1031",
+    "REF-1032",
+    "REF-1033",
+    "REF-1034"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "schisandra-chinensis",

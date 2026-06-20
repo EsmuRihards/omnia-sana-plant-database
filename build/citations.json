@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1004,
+ "count": 1034,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -119,6 +119,34 @@
    ],
    "scientific": [
     "Achillea millefolium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1032",
+   "key": "ashurova2025saponaria",
+   "type": "article",
+   "title": "A new withanolide from Saponaria officinalis and its antimicrobial and cytotoxic activities",
+   "authors": "Ashurova, L.N., Khurramov, A.R., Bobakulov, K.M., Sasmakov, S.A. and others",
+   "journal": "Natural Product Research",
+   "year": "2025",
+   "doi": "10.1080/14786419.2025.2472276",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2025.2472276",
+   "link_type": "doi",
+   "citation": "Ashurova, L.N., Khurramov, A.R., Bobakulov, K.M., Sasmakov, S.A. and others (2025) 'A new withanolide from Saponaria officinalis and its antimicrobial and cytotoxic activities', Natural Product Research, 40(9), pp. 2392-2401. doi:10.1080/14786419.2025.2472276",
+   "abstract": "A new withanolide and two known compounds (gracillin and 5-alpha-hydroxylaxogenin) were isolated from the aerial part of Saponaria officinalis. The new withanolide showed antimicrobial activity against several bacterial strains and significant cytotoxicity against HEp-2 and HeLa cancer cell lines.",
+   "tier": "preclinical",
+   "display": "A new withanolide from Saponaria officinalis and its antimicrobial and cytotoxic activities",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -611,6 +639,35 @@
    ]
   },
   {
+   "ref_id": "REF-1012",
+   "key": "park2025rosarugosa",
+   "type": "article",
+   "title": "Ethanolic Extract of Rosa rugosa Roots and Its Bioactive Compound, Oleamide, Prevented Amyloid beta-Induced Oxidative Stress and Improved Behavioral Tests in Mice",
+   "authors": "Park, C.K., Choi, S.J., Kim, C.R., Shin, H.R. and others",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2025",
+   "doi": "10.3390/ijms26094214",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms26094214",
+   "link_type": "doi",
+   "citation": "Park, C.K., Choi, S.J., Kim, C.R., Shin, H.R. and others (2025) 'Ethanolic Extract of Rosa rugosa Roots and Its Bioactive Compound, Oleamide, Prevented Amyloid beta-Induced Oxidative Stress and Improved Behavioral Tests in Mice', International Journal of Molecular Sciences, 26(9), pp. 4214. doi:10.3390/ijms26094214",
+   "abstract": "Rosa rugosa root extract and its bioactive compound oleamide protected against amyloid-beta-induced neurotoxicity in mice, improving cognition in Y-maze and passive-avoidance tests, restoring acetylcholine and reducing malondialdehyde, indicating antioxidant and neuroprotective effects.",
+   "tier": "preclinical",
+   "display": "Ethanolic Extract of Rosa rugosa Roots and Its Bioactive Compound, Oleamide, Prevented Amyloid beta-Induced Oxidative Stress and Improved Behavioral Tests in Mice",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0719",
    "key": "debia2025goutweed",
    "type": "article",
@@ -821,6 +878,36 @@
    ]
   },
   {
+   "ref_id": "REF-1013",
+   "key": "ashraf2025rosarugosa",
+   "type": "article",
+   "title": "Optimizing Extraction Methods for Bioactive Polysaccharides from Rosa rugosa and Rosa damascena",
+   "authors": "Ashraf, S., Ashraf, M.Z., Miao, B. and Zhao, X.",
+   "journal": "Foods",
+   "year": "2025",
+   "doi": "10.3390/foods14183211",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods14183211",
+   "link_type": "doi",
+   "citation": "Ashraf, S., Ashraf, M.Z., Miao, B. and Zhao, X (2025) 'Optimizing Extraction Methods for Bioactive Polysaccharides from Rosa rugosa and Rosa damascena', Foods, 14(18), pp. 3211. doi:10.3390/foods14183211",
+   "abstract": "Rosa rugosa and Rosa damascena polysaccharides are structurally diverse and show moisturizing, immunomodulation and antioxidant activities. This review compares conventional and novel extraction methods for these polysaccharides and summarises their distribution, antioxidant mechanisms and bioactive applications.",
+   "tier": "traditional",
+   "display": "Optimizing Extraction Methods for Bioactive Polysaccharides from Rosa rugosa and Rosa damascena",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0867",
    "key": "kuchta2025leonurus",
    "type": "article",
@@ -933,6 +1020,35 @@
     "Echinacea purpurea"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1010",
+   "key": "dai2025rosarugosa",
+   "type": "article",
+   "title": "Polysaccharides derived from Rosa rugosa cv. Plena ameliorate colorectal cancer by regulating intestinal microbiota composition and lipid metabolism pathway",
+   "authors": "Dai, C., Zheng, X., Zhu, J., Zhang, H. and others",
+   "journal": "NPJ Science of Food",
+   "year": "2025",
+   "doi": "10.1038/s41538-025-00544-2",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41538-025-00544-2",
+   "link_type": "doi",
+   "citation": "Dai, C., Zheng, X., Zhu, J., Zhang, H. and others (2025) 'Polysaccharides derived from Rosa rugosa cv. Plena ameliorate colorectal cancer by regulating intestinal microbiota composition and lipid metabolism pathway', NPJ Science of Food, 9(1), pp. 176. doi:10.1038/s41538-025-00544-2",
+   "abstract": "A Rosa rugosa cv. Plena polysaccharide (RPP1) ameliorated AOM/DSS-induced colorectal cancer in mice, reducing colonic polyps, normalising serum IL-1beta and TNF-alpha and remodelling gut microbiota and lipid metabolism, with activation of immune (NLR, PPAR) signalling, indicating immunomodulatory and anti-tumour effects.",
+   "tier": "preclinical",
+   "display": "Polysaccharides derived from Rosa rugosa cv. Plena ameliorate colorectal cancer by regulating intestinal microbiota composition and lipid metabolism pathway",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -1223,6 +1339,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1011",
+   "key": "chen2025rosarugosa",
+   "type": "article",
+   "title": "Therapeutic potential of Rosa rugosa polysaccharide and its nanofiber membrane in psoriasis via PI3K-AKT/mTOR pathway inhibition",
+   "authors": "Chen, M., Peng, Y., Zhu, R., Luo, X. and others",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2025",
+   "doi": "10.1016/j.ijbiomac.2025.145724",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2025.145724",
+   "link_type": "doi",
+   "citation": "Chen, M., Peng, Y., Zhu, R., Luo, X. and others (2025) 'Therapeutic potential of Rosa rugosa polysaccharide and its nanofiber membrane in psoriasis via PI3K-AKT/mTOR pathway inhibition', International Journal of Biological Macromolecules, 320(Pt 2), pp. 145724. doi:10.1016/j.ijbiomac.2025.145724",
+   "abstract": "Rosa rugosa polysaccharide (RRPS) reduced nitric oxide production in macrophages (anti-inflammatory) and, in an imiquimod-induced psoriasis mouse model, improved symptoms, reduced transepidermal water loss and inhibited pro-inflammatory cytokines (TNF-alpha, IL-6, IL-17A) by suppressing the PI3K-AKT/mTOR pathway, supporting use in inflammatory skin disease.",
+   "tier": "preclinical",
+   "display": "Therapeutic potential of Rosa rugosa polysaccharide and its nanofiber membrane in psoriasis via PI3K-AKT/mTOR pathway inhibition",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Skin irritation"
+   ]
   },
   {
    "ref_id": "REF-0558",
@@ -1646,6 +1793,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1021",
+   "key": "sanlier2024sambucus",
+   "type": "article",
+   "title": "Are the Effects of Bioactive Components on Human Health a Myth?: Black Elderberry (Sambucus nigra L.) from Exotic Fruits",
+   "authors": "Sanlier, N., Ejder, Z.B. and Irmak, E.",
+   "journal": "Current Nutrition Reports",
+   "year": "2024",
+   "doi": "10.1007/s13668-024-00572-6",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13668-024-00572-6",
+   "link_type": "doi",
+   "citation": "Sanlier, N., Ejder, Z.B. and Irmak, E (2024) 'Are the Effects of Bioactive Components on Human Health a Myth?: Black Elderberry (Sambucus nigra L.) from Exotic Fruits', Current Nutrition Reports, 13(4), pp. 815-827. doi:10.1007/s13668-024-00572-6",
+   "abstract": "Black elderberry (Sambucus nigra) fruit is rich in polyphenols, phenolic acids, flavonols, proanthocyanidins, anthocyanins, terpenes and lectins. This review examines evidence that it can prevent oxidative stress, reduce blood pressure and prevent cardiovascular, metabolic and neurodegenerative diseases, stimulate the immune system and show antitumour and antimicrobial effects.",
+   "tier": "traditional",
+   "display": "Are the Effects of Bioactive Components on Human Health a Myth?: Black Elderberry (Sambucus nigra L.) from Exotic Fruits",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Antiviral"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0737",
    "key": "zhang2024astragaluscolitis",
    "type": "article",
@@ -2055,6 +2237,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1024",
+   "key": "kim2024sambucus",
+   "type": "article",
+   "title": "Effect of Elderberry (Sambucus nigra L.) Extract Intake on Normalizing Testosterone Concentration in Testosterone Deficiency Syndrome Rat Model Through Regulation of 17beta-HSD, 5alpha-Reductase, and CYP19A1 Expression",
+   "authors": "Kim, J., An, J., Song, Y., Jang, M. and others",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16234169",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16234169",
+   "link_type": "doi",
+   "citation": "Kim, J., An, J., Song, Y., Jang, M. and others (2024) 'Effect of Elderberry (Sambucus nigra L.) Extract Intake on Normalizing Testosterone Concentration in Testosterone Deficiency Syndrome Rat Model Through Regulation of 17beta-HSD, 5alpha-Reductase, and CYP19A1 Expression', Nutrients, 16(23), pp. 4169. doi:10.3390/nu16234169",
+   "abstract": "Elderberry (Sambucus nigra) extract powder (rich in rutin and fructose-leucine) increased total and free testosterone and sperm motility in an aged rat model of testosterone-deficiency syndrome by upregulating testosterone-synthesis enzymes and reducing degradation enzymes, suggesting use as a functional ingredient for testosterone deficiency.",
+   "tier": "preclinical",
+   "display": "Effect of Elderberry (Sambucus nigra L.) Extract Intake on Normalizing Testosterone Concentration in Testosterone Deficiency Syndrome Rat Model Through Regulation of 17beta-HSD, 5alpha-Reductase, and CYP19A1 Expression",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0600",
    "key": "kumari2024evening",
    "type": "article",
@@ -2110,6 +2323,37 @@
    ],
    "scientific": [
     "Arnica montana"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1017",
+   "key": "uhl2024sambucus",
+   "type": "article",
+   "title": "Elderberry, an Ancient Remedy: A Comprehensive Study of the Bioactive Compounds in Three Sambucus nigra L. Subspecies",
+   "authors": "Uhl, K. and Mitchell, A.E.",
+   "journal": "Annual Review of Food Science and Technology",
+   "year": "2024",
+   "doi": "10.1146/annurev-food-072023-034423",
+   "url": "",
+   "link": "https://doi.org/10.1146/annurev-food-072023-034423",
+   "link_type": "doi",
+   "citation": "Uhl, K. and Mitchell, A.E (2024) 'Elderberry, an Ancient Remedy: A Comprehensive Study of the Bioactive Compounds in Three Sambucus nigra L. Subspecies', Annual Review of Food Science and Technology, 15(1), pp. 27-51. doi:10.1146/annurev-food-072023-034423",
+   "abstract": "This review compares for the first time the composition (micronutrients, macronutrients, organic acids, phenolic compounds and cyanogenic glycosides) of three subspecies of elderberry (Sambucus nigra) - the European, American and blue elderberry - highlighting the unique qualities of each and identifying gaps in available data.",
+   "tier": "traditional",
+   "display": "Elderberry, an Ancient Remedy: A Comprehensive Study of the Bioactive Compounds in Three Sambucus nigra L. Subspecies",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
    ],
    "actions": [],
    "conditions": []
@@ -2285,6 +2529,35 @@
    "conditions": [
     "Fatigue / low energy",
     "Muscle soreness"
+   ]
+  },
+  {
+   "ref_id": "REF-1007",
+   "key": "kim2024rosarugosa",
+   "type": "article",
+   "title": "Hair Growth Effect and the Mechanisms of Rosa rugosa Extract in DHT-Induced Alopecia Mice Model",
+   "authors": "Kim, J., Lee, S., Park, H. and others",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2024",
+   "doi": "10.3390/ijms252111362",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms252111362",
+   "link_type": "doi",
+   "citation": "Kim, J., Lee, S., Park, H. and others (2024) 'Hair Growth Effect and the Mechanisms of Rosa rugosa Extract in DHT-Induced Alopecia Mice Model', International Journal of Molecular Sciences, 25(21), pp. 11362. doi:10.3390/ijms252111362",
+   "abstract": "Rosa rugosa, a medicinal plant with anti-inflammatory, antioxidant, anticancer and antimicrobial properties, was evaluated for hair-loss effects in a DHT-induced alopecia mouse model. The extract promoted hair growth, demonstrating its potential for treating androgenic alopecia and supporting skin/scalp applications.",
+   "tier": "preclinical",
+   "display": "Hair Growth Effect and the Mechanisms of Rosa rugosa Extract in DHT-Induced Alopecia Mice Model",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation"
    ]
   },
   {
@@ -2762,6 +3035,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1005",
+   "key": "zhang2024rosarugosa",
+   "type": "article",
+   "title": "Physicochemical properties, health benefits, and applications of the polysaccharides from Rosa rugosa Thunb.: A review",
+   "authors": "Zhang, Z., Hu, W., Yu, A., Bai, M. and others",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2024",
+   "doi": "10.1016/j.ijbiomac.2024.136975",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2024.136975",
+   "link_type": "doi",
+   "citation": "Zhang, Z., Hu, W., Yu, A., Bai, M. and others (2024) 'Physicochemical properties, health benefits, and applications of the polysaccharides from Rosa rugosa Thunb.: A review', International Journal of Biological Macromolecules, 282(Pt 3), pp. 136975. doi:10.1016/j.ijbiomac.2024.136975",
+   "abstract": "Rosa rugosa has been used as food and medicine for nearly a thousand years. Its polysaccharides, a main bioactive ingredient, have anti-diabetes, antioxidation, anti-inflammation, anti-tumour, moisture-preserving and anti-alcoholic-liver-disease health benefits. This review summarises their extraction, structure, health benefits and applications.",
+   "tier": "traditional",
+   "display": "Physicochemical properties, health benefits, and applications of the polysaccharides from Rosa rugosa Thunb.: A review",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0185",
    "key": "nouri2024phytochemical",
    "type": "misc",
@@ -3082,6 +3385,36 @@
     "PMS / premenstrual syndrome",
     "Skin irritation",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-1025",
+   "key": "grzywaczyk2024saponaria",
+   "type": "article",
+   "title": "Saponaria officinalis saponins as a factor increasing permeability of Candida yeasts' biomembrane",
+   "authors": "Grzywaczyk, A., Smulek, W. and Kaczorek, E.",
+   "journal": "World Journal of Microbiology & Biotechnology",
+   "year": "2024",
+   "doi": "10.1007/s11274-024-03961-9",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11274-024-03961-9",
+   "link_type": "doi",
+   "citation": "Grzywaczyk, A., Smulek, W. and Kaczorek, E (2024) 'Saponaria officinalis saponins as a factor increasing permeability of Candida yeasts' biomembrane', World Journal of Microbiology & Biotechnology, 40(5), pp. 152. doi:10.1007/s11274-024-03961-9",
+   "abstract": "Saponins, which have antibacterial, anti-inflammatory and antifungal properties, were studied as a saponin-rich extract of Saponaria officinalis on Candida spheroplasts. The extract increased membrane permeability and lowered surface potential, proving the antifungal potential of soapwort saponins and their ability to permeabilise cells.",
+   "tier": "preclinical",
+   "display": "Saponaria officinalis saponins as a factor increasing permeability of Candida yeasts' biomembrane",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Eczema"
    ]
   },
   {
@@ -3439,6 +3772,36 @@
     "Astragalus membranaceus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1006",
+   "key": "dong2024rosarugosa",
+   "type": "article",
+   "title": "Total flavonoids from Rosa rugosa Thunb.: A comprehensive review of its extraction and purification process, chemical composition, biological effect and applications",
+   "authors": "Dong, X., Li, Y., Yang, K., Zhang, L. and others",
+   "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology",
+   "year": "2024",
+   "doi": "10.1007/s00210-024-03504-x",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00210-024-03504-x",
+   "link_type": "doi",
+   "citation": "Dong, X., Li, Y., Yang, K., Zhang, L. and others (2024) 'Total flavonoids from Rosa rugosa Thunb.: A comprehensive review of its extraction and purification process, chemical composition, biological effect and applications', Naunyn-Schmiedeberg's Archives of Pharmacology, 398(3), pp. 2343-2363. doi:10.1007/s00210-024-03504-x",
+   "abstract": "Rosa rugosa is a traditional Chinese medicine-food herb. Its total flavonoids (TFR) possess antioxidant, anti-inflammatory, hypoglycaemic, cardioprotective and other biological effects. This review comprehensively covers the extraction, purification, chemical composition, biological effects and applications of TFR.",
+   "tier": "traditional",
+   "display": "Total flavonoids from Rosa rugosa Thunb.: A comprehensive review of its extraction and purification process, chemical composition, biological effect and applications",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -3882,6 +4245,41 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1023",
+   "key": "has2023sambucus",
+   "type": "article",
+   "title": "Bioactive Potential of Elderberry (Sambucus nigra L.): Antioxidant, Antimicrobial Activity, Bioaccessibility and Prebiotic Potential",
+   "authors": "Has, I.M., Teleky, B.E., Szabo, K., Simon, E. and others",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28073099",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28073099",
+   "link_type": "doi",
+   "citation": "Has, I.M., Teleky, B.E., Szabo, K., Simon, E. and others (2023) 'Bioactive Potential of Elderberry (Sambucus nigra L.): Antioxidant, Antimicrobial Activity, Bioaccessibility and Prebiotic Potential', Molecules, 28(7), pp. 3099. doi:10.3390/molecules28073099",
+   "abstract": "Freeze-dried elderberry (Sambucus nigra) powder, rich in anthocyanins (cyanidin-sambubiosides and cyanidin-glucosides), showed high antioxidant activity and antimicrobial activity, and its polyphenols exerted a prebiotic effect, positively influencing the growth of five probiotic strains, with high bioaccessibility after simulated digestion.",
+   "tier": "preclinical",
+   "display": "Bioactive Potential of Elderberry (Sambucus nigra L.): Antioxidant, Antimicrobial Activity, Bioaccessibility and Prebiotic Potential",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-0397",
@@ -4345,6 +4743,35 @@
     "Lavandula angustifolia"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1009",
+   "key": "lei2023rosarugosa",
+   "type": "article",
+   "title": "Ethanol Extract of Rosa rugosa Ameliorates Acetaminophen-Induced Liver Injury via Upregulating Sirt1 and Subsequent Potentiation of LKB1/AMPK/Nrf2 Cascade in Hepatocytes",
+   "authors": "Lei, L., Zhu, Y., Gao, W., Du, X. and others",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28217307",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28217307",
+   "link_type": "doi",
+   "citation": "Lei, L., Zhu, Y., Gao, W., Du, X. and others (2023) 'Ethanol Extract of Rosa rugosa Ameliorates Acetaminophen-Induced Liver Injury via Upregulating Sirt1 and Subsequent Potentiation of LKB1/AMPK/Nrf2 Cascade in Hepatocytes', Molecules, 28(21), pp. 7307. doi:10.3390/molecules28217307",
+   "abstract": "The flower bud of Rosa rugosa has a wide range of biological activities. An ethanol extract ameliorated acetaminophen-induced liver injury in hepatocytes by upregulating Sirt1 and potentiating the LKB1/AMPK/Nrf2 antioxidant cascade, demonstrating hepatoprotective and antioxidant activity.",
+   "tier": "preclinical",
+   "display": "Ethanol Extract of Rosa rugosa Ameliorates Acetaminophen-Induced Liver Injury via Upregulating Sirt1 and Subsequent Potentiation of LKB1/AMPK/Nrf2 Cascade in Hepatocytes",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -5475,6 +5902,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1028",
+   "key": "yu2022saponaria",
+   "type": "article",
+   "title": "A non-polar fraction of Saponaria officinalis L. acted as a TLR4/MD2 complex antagonist and inhibited TLR4/MyD88 signaling in vitro and in vivo",
+   "authors": "Yu, G.R., Lim, D.W., Karunarathne, W.A.H.M., Kim, G.Y. and others",
+   "journal": "FASEB Journal",
+   "year": "2022",
+   "doi": "10.1096/fj.202200018RR",
+   "url": "",
+   "link": "https://doi.org/10.1096/fj.202200018RR",
+   "link_type": "doi",
+   "citation": "Yu, G.R., Lim, D.W., Karunarathne, W.A.H.M., Kim, G.Y. and others (2022) 'A non-polar fraction of Saponaria officinalis L. acted as a TLR4/MD2 complex antagonist and inhibited TLR4/MyD88 signaling in vitro and in vivo', FASEB Journal, 36(7), pp. e22387. doi:10.1096/fj.202200018RR",
+   "abstract": "A hexane fraction of Saponaria officinalis and its constituent saponarin inhibited MAPK signalling, NF-kB activity and pro-inflammatory cytokine production in macrophages and reduced LPS-induced inflammation in zebrafish, acting as a TLR4/MD2 complex antagonist, demonstrating an anti-inflammatory mechanism of soapwort.",
+   "tier": "preclinical",
+   "display": "A non-polar fraction of Saponaria officinalis L. acted as a TLR4/MD2 complex antagonist and inhibited TLR4/MyD88 signaling in vitro and in vivo",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0464",
    "key": "ellis2022systematic",
    "type": "article",
@@ -6203,6 +6658,77 @@
     "Cardiovascular / heart health",
     "High blood pressure"
    ]
+  },
+  {
+   "ref_id": "REF-1019",
+   "key": "ferreira2022sambucus",
+   "type": "article",
+   "title": "Elderberry (Sambucus nigra L.) extracts promote anti-inflammatory and cellular antioxidant activity",
+   "authors": "Ferreira, S.S., Martins-Gomes, C., Nunes, F.M. and Silva, A.M.",
+   "journal": "Food Chemistry: X",
+   "year": "2022",
+   "doi": "10.1016/j.fochx.2022.100437",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fochx.2022.100437",
+   "link_type": "doi",
+   "citation": "Ferreira, S.S., Martins-Gomes, C., Nunes, F.M. and Silva, A.M (2022) 'Elderberry (Sambucus nigra L.) extracts promote anti-inflammatory and cellular antioxidant activity', Food Chemistry: X, 15, pp. 100437. doi:10.1016/j.fochx.2022.100437",
+   "abstract": "Extracts from three Portuguese elderberry (Sambucus nigra) cultivars dose-dependently inhibited nitric oxide release in LPS-stimulated macrophages (anti-inflammatory) and prevented up to 90% of oxidative toxicity in HepG2 and Caco-2 cells, preventing glutathione depletion and DNA fragmentation, demonstrating anti-inflammatory and antioxidant potential.",
+   "tier": "preclinical",
+   "display": "Elderberry (Sambucus nigra L.) extracts promote anti-inflammatory and cellular antioxidant activity",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-1015",
+   "key": "liu2022sambucus",
+   "type": "article",
+   "title": "Elderberry (Sambucus nigra L.): Bioactive Compounds, Health Functions, and Applications",
+   "authors": "Liu, D., He, X.Q., Wu, D.T., Li, H.B. and others",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "year": "2022",
+   "doi": "10.1021/acs.jafc.2c00010",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jafc.2c00010",
+   "link_type": "doi",
+   "citation": "Liu, D., He, X.Q., Wu, D.T., Li, H.B. and others (2022) 'Elderberry (Sambucus nigra L.): Bioactive Compounds, Health Functions, and Applications', Journal of Agricultural and Food Chemistry, 70(14), pp. 4202-4220. doi:10.1021/acs.jafc.2c00010",
+   "abstract": "Elderberry (Sambucus nigra) is rich in (poly)phenolic and terpenoid compounds and exhibits antioxidant, anti-inflammatory, anticancer, anti-influenza, antimicrobial, antidiabetic, cardiovascular-protective and neuroprotective activities. This review summarises its bioactive compounds, health functions and food applications.",
+   "tier": "traditional",
+   "display": "Elderberry (Sambucus nigra L.): Bioactive Compounds, Health Functions, and Applications",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Antiviral"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0811",
@@ -7073,6 +7599,37 @@
    ]
   },
   {
+   "ref_id": "REF-1029",
+   "key": "hedayati2022saponaria",
+   "type": "article",
+   "title": "Response of Saponaria officinalis L. hairy roots to the application of TiO2 nanoparticles in terms of production of valuable polyphenolic compounds and SO6 protein",
+   "authors": "Hedayati, A., Naseri, F., Nourozi, E., Hosseini, B. and others",
+   "journal": "Plant Physiology and Biochemistry",
+   "year": "2022",
+   "doi": "10.1016/j.plaphy.2022.03.001",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.plaphy.2022.03.001",
+   "link_type": "doi",
+   "citation": "Hedayati, A., Naseri, F., Nourozi, E., Hosseini, B. and others (2022) 'Response of Saponaria officinalis L. hairy roots to the application of TiO2 nanoparticles in terms of production of valuable polyphenolic compounds and SO6 protein', Plant Physiology and Biochemistry, 178, pp. 80-92. doi:10.1016/j.plaphy.2022.03.001",
+   "abstract": "Saponaria officinalis is used in traditional medicine to treat skin diseases and as a blood purifier, diuretic and sudorific. This study used titanium-dioxide-nanoparticle elicitation of soapwort hairy roots to increase production of valuable polyphenols (rosmarinic acid, cinnamic acid, rutin) and the SO6 ribosome-inactivating protein.",
+   "tier": "preclinical",
+   "display": "Response of Saponaria officinalis L. hairy roots to the application of TiO2 nanoparticles in terms of production of valuable polyphenolic compounds and SO6 protein",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Detox / cleansing",
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-0980",
    "key": "wang2022reynoutria",
    "type": "article",
@@ -7102,6 +7659,33 @@
    "conditions": [
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1014",
+   "key": "liu2022rosarugosa",
+   "type": "article",
+   "title": "Rosa rugosa polysaccharide induces autophagy-mediated apoptosis in human cervical cancer cells via the PI3K/AKT/mTOR pathway",
+   "authors": "Liu, X., Liu, H., Zhang, Y. and others",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2022",
+   "doi": "10.1016/j.ijbiomac.2022.05.023",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2022.05.023",
+   "link_type": "doi",
+   "citation": "Liu, X., Liu, H., Zhang, Y. and others (2022) 'Rosa rugosa polysaccharide induces autophagy-mediated apoptosis in human cervical cancer cells via the PI3K/AKT/mTOR pathway', International Journal of Biological Macromolecules, 212, pp. 257-274. doi:10.1016/j.ijbiomac.2022.05.023",
+   "abstract": "A novel polysaccharide from Rosa rugosa induced autophagy-mediated apoptosis in human cervical cancer cells via the PI3K/AKT/mTOR pathway, demonstrating an anti-tumour mechanism of rugosa rose polysaccharides.",
+   "tier": "preclinical",
+   "display": "Rosa rugosa polysaccharide induces autophagy-mediated apoptosis in human cervical cancer cells via the PI3K/AKT/mTOR pathway",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0998",
@@ -7443,6 +8027,41 @@
     "Inflammation (general)",
     "Pain (general)",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-1018",
+   "key": "asgary2022sambucus",
+   "type": "article",
+   "title": "The Pros and Cons of Using Elderberry (Sambucus nigra) for Prevention and Treatment of COVID-19",
+   "authors": "Asgary, S. and Pouramini, A.",
+   "journal": "Advanced Biomedical Research",
+   "year": "2022",
+   "doi": "10.4103/abr.abr_146_21",
+   "url": "",
+   "link": "https://doi.org/10.4103/abr.abr_146_21",
+   "link_type": "doi",
+   "citation": "Asgary, S. and Pouramini, A (2022) 'The Pros and Cons of Using Elderberry (Sambucus nigra) for Prevention and Treatment of COVID-19', Advanced Biomedical Research, 11, pp. 96. doi:10.4103/abr.abr_146_21",
+   "abstract": "Elderberry (Sambucus nigra) has antiviral properties due to its ability to modulate inflammatory cytokines. This review concludes the current evidence suggests elderberry is appropriate for the prevention and initial treatment of viral disease, while noting a theoretical concern about over-stimulating the immune system in COVID-19.",
+   "tier": "traditional",
+   "display": "The Pros and Cons of Using Elderberry (Sambucus nigra) for Prevention and Treatment of COVID-19",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [
+    "Antiviral"
+   ],
+   "conditions": [
+    "Respiratory support"
    ]
   },
   {
@@ -8183,6 +8802,34 @@
    ],
    "scientific": [
     "Marrubium vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1030",
+   "key": "sefrioui2021saponaria",
+   "type": "article",
+   "title": "Evaluation of spermicidal activity of saponosides from Saponaria officinalis (Caryophyllaceae), Glycyrrhiza glabra (Fabaceae) and Herniaria glabra (Caryophyllaceae)",
+   "authors": "Sefrioui, M.R., El Othmani, I.S., Filali, H., Derfoufi, S. and others",
+   "journal": "Medicine and Pharmacy Reports",
+   "year": "2021",
+   "doi": "10.15386/mpr-1879",
+   "url": "",
+   "link": "https://doi.org/10.15386/mpr-1879",
+   "link_type": "doi",
+   "citation": "Sefrioui, M.R., El Othmani, I.S., Filali, H., Derfoufi, S. and others (2021) 'Evaluation of spermicidal activity of saponosides from Saponaria officinalis (Caryophyllaceae), Glycyrrhiza glabra (Fabaceae) and Herniaria glabra (Caryophyllaceae)', Medicine and Pharmacy Reports, 94(2), pp. 239-247. doi:10.15386/mpr-1879",
+   "abstract": "Methanolic saponin extracts from the roots of Saponaria officinalis (and Glycyrrhiza glabra, Herniaria glabra) showed potent dose- and time-dependent spermicidal activity, immobilising and devitalising spermatozoa, suggesting these natural saponosides could be safer alternatives to chemical spermicides.",
+   "tier": "preclinical",
+   "display": "Evaluation of spermicidal activity of saponosides from Saponaria officinalis (Caryophyllaceae), Glycyrrhiza glabra (Fabaceae) and Herniaria glabra (Caryophyllaceae)",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -9039,6 +9686,39 @@
    ]
   },
   {
+   "ref_id": "REF-1020",
+   "key": "dominguez2021sambucus",
+   "type": "article",
+   "title": "Potential Use of Elderberry (Sambucus nigra L.) as Natural Colorant and Antioxidant in the Food Industry. A Review",
+   "authors": "Dominguez, R., Pateiro, M., Munekata, P.E.S., Santos Lopez, E.M. and others",
+   "journal": "Foods",
+   "year": "2021",
+   "doi": "10.3390/foods10112713",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods10112713",
+   "link_type": "doi",
+   "citation": "Dominguez, R., Pateiro, M., Munekata, P.E.S., Santos Lopez, E.M. and others (2021) 'Potential Use of Elderberry (Sambucus nigra L.) as Natural Colorant and Antioxidant in the Food Industry. A Review', Foods, 10(11), pp. 2713. doi:10.3390/foods10112713",
+   "abstract": "Elderberry (Sambucus nigra) is rich in anthocyanins, other polyphenols and vitamins, allowing it to be used by the food industry as both a natural colorant and antioxidant. This review summarises its main bioactive compounds and its potential uses, including production of functional foods with high antioxidant capacity.",
+   "tier": "traditional",
+   "display": "Potential Use of Elderberry (Sambucus nigra L.) as Natural Colorant and Antioxidant in the Food Industry. A Review",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0952",
    "key": "aldhahrani2021guarana",
    "type": "article",
@@ -9388,6 +10068,36 @@
     "Arthritis / joint pain",
     "Inflammation (general)",
     "Liver support",
+    "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1027",
+   "key": "jurek2021saponaria",
+   "type": "article",
+   "title": "Soapwort (Saponaria officinalis L.) Extract vs. Synthetic Surfactants - Effect on Skin-Mimetic Models",
+   "authors": "Jurek, I., Szuplewska, A., Chudy, M. and Wojciechowski, K.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26185628",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26185628",
+   "link_type": "doi",
+   "citation": "Jurek, I., Szuplewska, A., Chudy, M. and Wojciechowski, K (2021) 'Soapwort (Saponaria officinalis L.) Extract vs. Synthetic Surfactants - Effect on Skin-Mimetic Models', Molecules, 26(18), pp. 5628. doi:10.3390/molecules26185628",
+   "abstract": "A saponin-rich soapwort (Saponaria officinalis) extract was compared with synthetic surfactants on human keratinocyte and skin-mimetic models. The soapwort extract had a much smaller protein- and lipid-solubilising (irritant) potential than the anionic synthetic surfactants, supporting its gentler use on skin.",
+   "tier": "preclinical",
+   "display": "Soapwort (Saponaria officinalis L.) Extract vs. Synthetic Surfactants - Effect on Skin-Mimetic Models",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": [
     "Skin irritation"
    ]
   },
@@ -11595,6 +12305,62 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1034",
+   "key": "nujkic2020saponaria",
+   "type": "article",
+   "title": "Saponaria officinalis L. and Achillea millefolium L. as possible indicators of trace elements pollution caused by mining and metallurgical activities in Bor, Serbia",
+   "authors": "Nujkic, M., Milic, S., Spalovic, B., Dardas, A. and others",
+   "journal": "Environmental Science and Pollution Research International",
+   "year": "2020",
+   "doi": "10.1007/s11356-020-10371-5",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11356-020-10371-5",
+   "link_type": "doi",
+   "citation": "Nujkic, M., Milic, S., Spalovic, B., Dardas, A. and others (2020) 'Saponaria officinalis L. and Achillea millefolium L. as possible indicators of trace elements pollution caused by mining and metallurgical activities in Bor, Serbia', Environmental Science and Pollution Research International, 27(36), pp. 44969-44982. doi:10.1007/s11356-020-10371-5",
+   "abstract": "Saponaria officinalis (soapwort) and Achillea millefolium were evaluated as bioindicators and phytoremediators of trace-element pollution near mining and metallurgical activities. Soapwort showed high enrichment of As and Cd and was recommended for phytoextraction of Pb-, As- and Cd-polluted soils, informing the safe sourcing of soapwort raw material.",
+   "tier": "preclinical",
+   "display": "Saponaria officinalis L. and Achillea millefolium L. as possible indicators of trace elements pollution caused by mining and metallurgical activities in Bor, Serbia",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1033",
+   "key": "bolshakov2020saponaria",
+   "type": "article",
+   "title": "Saporin from Saponaria officinalis as a Tool for Experimental Research, Modeling, and Therapy in Neuroscience",
+   "authors": "Bolshakov, A.P., Stepanichev, M.Y., Dobryakova, Y.V., Spivak, Y.S. and Markevich, V.A.",
+   "journal": "Toxins (Basel)",
+   "year": "2020",
+   "doi": "10.3390/toxins12090546",
+   "url": "",
+   "link": "https://doi.org/10.3390/toxins12090546",
+   "link_type": "doi",
+   "citation": "Bolshakov, A.P., Stepanichev, M.Y., Dobryakova, Y.V., Spivak, Y.S. and Markevich, V.A (2020) 'Saporin from Saponaria officinalis as a Tool for Experimental Research, Modeling, and Therapy in Neuroscience', Toxins (Basel), 12(9), pp. 546. doi:10.3390/toxins12090546",
+   "abstract": "Saporin, a ribosome-inactivating protein extracted from Saponaria officinalis, becomes highly cell-specific when conjugated to ligands and is widely used in neuroscience to induce selective degeneration of cell subpopulations, to model neurodegenerative diseases (Parkinson's, Alzheimer's) and to study sleep, anesthesia, epilepsy and pain.",
+   "tier": "traditional",
+   "display": "Saporin from Saponaria officinalis as a Tool for Experimental Research, Modeling, and Therapy in Neuroscience",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0900",
    "key": "oladeji2020stellaria",
    "type": "article",
@@ -12899,6 +13665,35 @@
    ]
   },
   {
+   "ref_id": "REF-1008",
+   "key": "baiyisaiti2019rosarugosa",
+   "type": "article",
+   "title": "Rosa rugosa flavonoids exhibited PPAR-alpha agonist-like effects on genetic severe hypertriglyceridemia of mice",
+   "authors": "Baiyisaiti, A., Liu, Y., Zhang, J. and Yang, R.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2019",
+   "doi": "10.1016/j.jep.2019.111952",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2019.111952",
+   "link_type": "doi",
+   "citation": "Baiyisaiti, A., Liu, Y., Zhang, J. and Yang, R (2019) 'Rosa rugosa flavonoids exhibited PPAR-alpha agonist-like effects on genetic severe hypertriglyceridemia of mice', Journal of Ethnopharmacology, 240, pp. 111952. doi:10.1016/j.jep.2019.111952",
+   "abstract": "Rosa rugosa, traditionally used to treat cardiovascular diseases and risk factors such as hyperlipidemia and hypertension, was tested in genetically severe hypertriglyceridemic mice. Its flavonoids exhibited PPAR-alpha agonist-like effects, lowering triglycerides, supporting the cardiovascular use of rugosa rose.",
+   "tier": "preclinical",
+   "display": "Rosa rugosa flavonoids exhibited PPAR-alpha agonist-like effects on genetic severe hypertriglyceridemia of mice",
+   "plants": [
+    "Japanese Rose",
+    "beach rose",
+    "rugosa rose"
+   ],
+   "scientific": [
+    "Rosa rugosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-0483",
    "key": "soleimani2019safety",
    "type": "article",
@@ -13388,6 +14183,42 @@
    "conditions": [
     "Infection (general)",
     "Urinary support"
+   ]
+  },
+  {
+   "ref_id": "REF-1016",
+   "key": "hawkins2018sambucus",
+   "type": "article",
+   "title": "Black elderberry (Sambucus nigra) supplementation effectively treats upper respiratory symptoms: A meta-analysis of randomized, controlled clinical trials",
+   "authors": "Hawkins, J., Baker, C., Cherry, L. and Dunne, E.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2018",
+   "doi": "10.1016/j.ctim.2018.12.004",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2018.12.004",
+   "link_type": "doi",
+   "citation": "Hawkins, J., Baker, C., Cherry, L. and Dunne, E (2018) 'Black elderberry (Sambucus nigra) supplementation effectively treats upper respiratory symptoms: A meta-analysis of randomized, controlled clinical trials', Complementary Therapies in Medicine, 42, pp. 361-365. doi:10.1016/j.ctim.2018.12.004",
+   "abstract": "This meta-analysis of randomized controlled trials (180 participants) found that black elderberry (Sambucus nigra) supplementation substantially reduced upper respiratory symptoms, with a large mean effect size, presenting an alternative to antibiotics for upper respiratory symptoms from viral infections such as the common cold and influenza.",
+   "tier": "review",
+   "display": "Black elderberry (Sambucus nigra) supplementation effectively treats upper respiratory symptoms: A meta-analysis of randomized, controlled clinical trials",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [
+    "Antiviral"
+   ],
+   "conditions": [
+    "Cold & flu",
+    "Respiratory support"
    ]
   },
   {
@@ -15305,6 +16136,34 @@
    ]
   },
   {
+   "ref_id": "REF-1031",
+   "key": "petrovic2017saponaria",
+   "type": "article",
+   "title": "Phytochemical analysis of Saponaria officinalis L. shoots and flowers essential oils",
+   "authors": "Petrovic, G.M., Ilic, M.D., Stankov-Jovanovic, V.P., Stojanovic, G.S. and Jovanovic, S.C.",
+   "journal": "Natural Product Research",
+   "year": "2017",
+   "doi": "10.1080/14786419.2017.1350668",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2017.1350668",
+   "link_type": "doi",
+   "citation": "Petrovic, G.M., Ilic, M.D., Stankov-Jovanovic, V.P., Stojanovic, G.S. and Jovanovic, S.C (2017) 'Phytochemical analysis of Saponaria officinalis L. shoots and flowers essential oils', Natural Product Research, 32(3), pp. 331-334. doi:10.1080/14786419.2017.1350668",
+   "abstract": "GC and GC/MS analysis of the essential oils from fresh shoots and flowers of Saponaria officinalis identified 96 components, with phytol, tricosane-6,8-dione, patchouli alcohol and tricosane as the major constituents, characterising the volatile chemistry of soapwort.",
+   "tier": "preclinical",
+   "display": "Phytochemical analysis of Saponaria officinalis L. shoots and flowers essential oils",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0875",
    "key": "colombo2017primula",
    "type": "article",
@@ -16934,6 +17793,34 @@
     "Swelling / fluid retention",
     "Varicose veins"
    ]
+  },
+  {
+   "ref_id": "REF-1026",
+   "key": "smulek2016saponaria",
+   "type": "article",
+   "title": "Saponaria officinalis L. extract: Surface active properties and impact on environmental bacterial strains",
+   "authors": "Smulek, W., Zdarta, A., Pacholak, A., Zgola-Grzeskowiak, A. and others",
+   "journal": "Colloids and Surfaces B: Biointerfaces",
+   "year": "2016",
+   "doi": "10.1016/j.colsurfb.2016.11.035",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.colsurfb.2016.11.035",
+   "link_type": "doi",
+   "citation": "Smulek, W., Zdarta, A., Pacholak, A., Zgola-Grzeskowiak, A. and others (2016) 'Saponaria officinalis L. extract: Surface active properties and impact on environmental bacterial strains', Colloids and Surfaces B: Biointerfaces, 150, pp. 209-215. doi:10.1016/j.colsurfb.2016.11.035",
+   "abstract": "An extract from Saponaria officinalis containing saponins (gypsogenin, hederagenin, hydroxyhederagenin and quillaic acid aglycones) demonstrated good emulsification properties and modified bacterial cell-surface properties, decreasing hydrophobicity and increasing membrane permeability, characterising soapwort's natural-surfactant activity.",
+   "tier": "preclinical",
+   "display": "Saponaria officinalis L. extract: Surface active properties and impact on environmental bacterial strains",
+   "plants": [
+    "Bouncing Bet",
+    "Common soapwort",
+    "Fuller's herb",
+    "Soapwort"
+   ],
+   "scientific": [
+    "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1001",
@@ -18580,6 +19467,37 @@
     "Nervous tension",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-1022",
+   "key": "ulbricht2014sambucus",
+   "type": "article",
+   "title": "An evidence-based systematic review of elderberry and elderflower (Sambucus nigra) by the Natural Standard Research Collaboration",
+   "authors": "Ulbricht, C., Basch, E., Cheung, L., Goldberg, H. and others",
+   "journal": "Journal of Dietary Supplements",
+   "year": "2014",
+   "doi": "10.3109/19390211.2013.859852",
+   "url": "",
+   "link": "https://doi.org/10.3109/19390211.2013.859852",
+   "link_type": "doi",
+   "citation": "Ulbricht, C., Basch, E., Cheung, L., Goldberg, H. and others (2014) 'An evidence-based systematic review of elderberry and elderflower (Sambucus nigra) by the Natural Standard Research Collaboration', Journal of Dietary Supplements, 11(1), pp. 80-120. doi:10.3109/19390211.2013.859852",
+   "abstract": "This evidence-based systematic review of elderberry and elderflower (Sambucus nigra) by the Natural Standard Research Collaboration consolidates the safety and efficacy data in the scientific literature using a validated grading rationale, covering clinical trials, pharmacology, interactions, adverse effects, toxicology and dosing.",
+   "tier": "review",
+   "display": "An evidence-based systematic review of elderberry and elderflower (Sambucus nigra) by the Natural Standard Research Collaboration",
+   "plants": [
+    "2024)",
+    "Elder",
+    "European elder",
+    "black elderberry",
+    "common elder",
+    "elderberry",
+    "elderflower (NCCIH"
+   ],
+   "scientific": [
+    "Sambucus nigra"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0022",

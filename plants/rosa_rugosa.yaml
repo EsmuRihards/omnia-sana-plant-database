@@ -15,18 +15,28 @@ actions:
   - REF-0051
   - REF-0098
   - REF-0240
+  - REF-1005
+  - REF-1006
+  - REF-1011
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0051
   - REF-0098
   - REF-0240
+  - REF-1005
+  - REF-1006
+  - REF-1009
+  - REF-1012
+  - REF-1013
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0051
   - REF-0098
   - REF-0240
+  - REF-1010
+  - REF-1013
   status: verified
 indications:
 - condition: arthritis
@@ -41,6 +51,7 @@ indications:
   - REF-0051
   - REF-0098
   - REF-0240
+  - REF-1008
   status: verified
 - condition: cold
   note: inferred from immunomodulator action
@@ -68,6 +79,8 @@ indications:
   - REF-0051
   - REF-0098
   - REF-0240
+  - REF-1007
+  - REF-1011
   status: needs-review
 contraindications:
 - note: Generally safe as a food plant. Rose hips should be used after removing the achenes (seeds and
@@ -87,11 +100,25 @@ contraindications:
   - REF-0098
   - REF-0240
   status: verified
-provenance: book
+references:
+- REF-1005
+- REF-1006
+- REF-1007
+- REF-1008
+- REF-1009
+- REF-1010
+- REF-1011
+- REF-1012
+- REF-1013
+- REF-1014
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1005, REF-1006, REF-1007, REF-1008, REF-1009,
+  REF-1010, REF-1011, REF-1012, REF-1013, REF-1014) — woven into relevant actions/indications and the
+  plant-level references bucket.'

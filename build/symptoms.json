@@ -8211,20 +8211,35 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 5,
+     "condition": "cold",
+     "label": "Cold & flu",
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1016"
      ]
     },
     {
-     "condition": "cold",
-     "label": "Cold & flu",
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0085",
+      "REF-0243",
+      "REF-0316",
+      "REF-1016",
+      "REF-1018"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
@@ -8243,7 +8258,8 @@
      "references": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1023"
      ]
     },
     {
@@ -8255,19 +8271,8 @@
      "references": [
       "REF-0085",
       "REF-0243",
-      "REF-0316"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0085",
-      "REF-0243",
-      "REF-0316"
+      "REF-0316",
+      "REF-1019"
      ]
     },
     {
@@ -11966,7 +11971,8 @@
      "references": [
       "REF-0051",
       "REF-0098",
-      "REF-0240"
+      "REF-0240",
+      "REF-1008"
      ]
     },
     {
@@ -12014,7 +12020,9 @@
      "references": [
       "REF-0051",
       "REF-0098",
-      "REF-0240"
+      "REF-0240",
+      "REF-1007",
+      "REF-1011"
      ]
     }
    ]
@@ -17629,6 +17637,39 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "detox",
+     "label": "Detox / cleansing",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0512",
+      "REF-1029"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0512",
+      "REF-1025"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1027",
+      "REF-1029"
+     ]
+    },
+    {
      "condition": "bronchitis",
      "label": "Bronchitis",
      "evidence": 1,
@@ -17651,26 +17692,6 @@
      ]
     },
     {
-     "condition": "detox",
-     "label": "Detox / cleansing",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0512"
-     ]
-    },
-    {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0512"
-     ]
-    },
-    {
      "condition": "respiratory-support",
      "label": "Respiratory support",
      "evidence": 1,
@@ -17680,14 +17701,6 @@
       "REF-0511",
       "REF-0512"
      ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },

@@ -152,13 +152,18 @@ contraindications:
   reference_ids:
   - REF-0431
   status: verified
+references:
+- REF-0767
+- REF-0768
+- REF-0769
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report;
   Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited. Further
   enriched 2026-06-14 with a PubMed-sourced comprehensive review of Centaurium erythraea phytochemistry
   and pharmacology (REF-0619; documents gastroprotective, hepatoprotective, antioxidant and anti-inflammatory
   activity of the secoiridoid-rich herb). | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references
+  to the plant-level references bucket (least-cited enrichment): REF-0767, REF-0768, REF-0769.'

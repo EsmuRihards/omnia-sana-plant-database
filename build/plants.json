@@ -6344,9 +6344,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0755",
+    "REF-0756",
+    "REF-0757"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "cannabis-sativa",
@@ -6502,9 +6507,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0758",
+    "REF-0759",
+    "REF-0760"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "capsella-bursa-pastoris",
@@ -6636,9 +6646,14 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0761",
+    "REF-0762",
+    "REF-0763"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "capsicum-annuum",
@@ -7014,9 +7029,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0764",
+    "REF-0765",
+    "REF-0766"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "centaurium-erythraea",
@@ -7225,9 +7245,14 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0767",
+    "REF-0768",
+    "REF-0769"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "centella-asiatica",

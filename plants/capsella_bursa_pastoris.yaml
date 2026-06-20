@@ -88,13 +88,19 @@ contraindications:
   reference_ids:
   - REF-0507
   status: needs-review
+references:
+- REF-0761
+- REF-0762
+- REF-0763
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph;
   ESCOP note citing an RCT showing reduced menstrual blood loss). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 by citing that RCT directly - the
   PubMed-sourced triple-blind trial by Naafe et al. (REF-0608) in which Capsella bursa-pastoris significantly
   reduced heavy menstrual bleeding (PBLAC score) versus control. | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds).'
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
+  PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0761, REF-0762,
+  REF-0763.'

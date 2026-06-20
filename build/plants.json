@@ -16979,7 +16979,11 @@
      "reference_ids": [
       "REF-0145",
       "REF-0198",
-      "REF-0270"
+      "REF-0270",
+      "REF-0860",
+      "REF-0865",
+      "REF-0866",
+      "REF-0867"
      ],
      "status": "verified"
     },
@@ -16988,7 +16992,10 @@
      "reference_ids": [
       "REF-0145",
       "REF-0198",
-      "REF-0270"
+      "REF-0270",
+      "REF-0861",
+      "REF-0865",
+      "REF-0868"
      ],
      "status": "verified"
     },
@@ -17007,7 +17014,9 @@
      "reference_ids": [
       "REF-0145",
       "REF-0198",
-      "REF-0270"
+      "REF-0270",
+      "REF-0861",
+      "REF-0864"
      ],
      "status": "verified"
     }
@@ -17028,7 +17037,12 @@
      "reference_ids": [
       "REF-0145",
       "REF-0198",
-      "REF-0270"
+      "REF-0270",
+      "REF-0860",
+      "REF-0861",
+      "REF-0863",
+      "REF-0866",
+      "REF-0867"
      ],
      "status": "verified"
     },
@@ -17048,7 +17062,8 @@
      "reference_ids": [
       "REF-0145",
       "REF-0198",
-      "REF-0270"
+      "REF-0270",
+      "REF-0864"
      ],
      "status": "needs-review"
     },
@@ -17104,9 +17119,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0860",
+    "REF-0861",
+    "REF-0862",
+    "REF-0863",
+    "REF-0864",
+    "REF-0865",
+    "REF-0866",
+    "REF-0867",
+    "REF-0868",
+    "REF-0869"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "linum-usitatissimum",
@@ -23002,7 +23029,12 @@
      "reference_ids": [
       "REF-0075",
       "REF-0235",
-      "REF-0306"
+      "REF-0306",
+      "REF-0871",
+      "REF-0872",
+      "REF-0873",
+      "REF-0876",
+      "REF-0879"
      ],
      "status": "verified"
     },
@@ -23052,7 +23084,11 @@
      "reference_ids": [
       "REF-0075",
       "REF-0235",
-      "REF-0306"
+      "REF-0306",
+      "REF-0870",
+      "REF-0871",
+      "REF-0874",
+      "REF-0878"
      ],
      "status": "verified"
     },
@@ -23089,9 +23125,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0870",
+    "REF-0871",
+    "REF-0872",
+    "REF-0873",
+    "REF-0874",
+    "REF-0875",
+    "REF-0876",
+    "REF-0877",
+    "REF-0878",
+    "REF-0879"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "prunella-vulgaris",
@@ -24227,7 +24275,11 @@
      "reference_ids": [
       "REF-0053",
       "REF-0098",
-      "REF-0237"
+      "REF-0237",
+      "REF-0880",
+      "REF-0881",
+      "REF-0882",
+      "REF-0889"
      ],
      "status": "verified"
     },
@@ -24236,7 +24288,8 @@
      "reference_ids": [
       "REF-0053",
       "REF-0098",
-      "REF-0237"
+      "REF-0237",
+      "REF-0882"
      ],
      "status": "verified"
     },
@@ -24257,7 +24310,9 @@
      "reference_ids": [
       "REF-0053",
       "REF-0098",
-      "REF-0237"
+      "REF-0237",
+      "REF-0880",
+      "REF-0889"
      ],
      "status": "needs-review"
     },
@@ -24276,7 +24331,8 @@
      "reference_ids": [
       "REF-0053",
       "REF-0098",
-      "REF-0237"
+      "REF-0237",
+      "REF-0884"
      ],
      "status": "verified"
     },
@@ -24296,7 +24352,9 @@
      "reference_ids": [
       "REF-0053",
       "REF-0098",
-      "REF-0237"
+      "REF-0237",
+      "REF-0881",
+      "REF-0889"
      ],
      "status": "needs-review"
     },
@@ -24343,9 +24401,22 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0053",
+    "REF-0880",
+    "REF-0881",
+    "REF-0882",
+    "REF-0883",
+    "REF-0884",
+    "REF-0885",
+    "REF-0886",
+    "REF-0887",
+    "REF-0888",
+    "REF-0889"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "ribes-nigrum",

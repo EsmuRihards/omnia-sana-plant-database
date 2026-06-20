@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 859,
+ "count": 889,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -783,6 +783,67 @@
     "Muscle spasm",
     "Skin irritation",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-0867",
+   "key": "kuchta2025leonurus",
+   "type": "article",
+   "title": "Phenolic and Iridoid Glycosides from Leonurus cardiaca L. and Their Effects on the alpha, delta, and gamma Subtypes of the PPAR System",
+   "authors": "Kuchta, K., Hladikova, J., Thomsen, M., Nguyen, A.D. and others",
+   "journal": "Molecules",
+   "year": "2025",
+   "doi": "10.3390/molecules30020419",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules30020419",
+   "link_type": "doi",
+   "citation": "Kuchta, K., Hladikova, J., Thomsen, M., Nguyen, A.D. and others (2025) 'Phenolic and Iridoid Glycosides from Leonurus cardiaca L. and Their Effects on the alpha, delta, and gamma Subtypes of the PPAR System', Molecules, 30(2), pp. 419. doi:10.3390/molecules30020419",
+   "abstract": "Leonurus cardiaca is known in Europe for its cardioactivity, also in relation to metabolic-syndrome risk factors. Phenolic and iridoid glycosides were isolated, including a novel phenylethanoid (cardiaphenyloside A), and tested on PPAR alpha, delta and gamma subtypes, identifying constituents that modulate the PPAR system relevant to anti-inflammatory and metabolic activity.",
+   "tier": "preclinical",
+   "display": "Phenolic and Iridoid Glycosides from Leonurus cardiaca L. and Their Effects on the alpha, delta, and gamma Subtypes of the PPAR System",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
+   "ref_id": "REF-0874",
+   "key": "trendafilova2025primula",
+   "type": "article",
+   "title": "Phytochemical Characterization and Anti-Biofilm Activity of Primula veris L. Roots",
+   "authors": "Trendafilova, A., Ivanova, V., Todorova, M., Aneva, I. and others",
+   "journal": "Molecules",
+   "year": "2025",
+   "doi": "10.3390/molecules30081702",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules30081702",
+   "link_type": "doi",
+   "citation": "Trendafilova, A., Ivanova, V., Todorova, M., Aneva, I. and others (2025) 'Phytochemical Characterization and Anti-Biofilm Activity of Primula veris L. Roots', Molecules, 30(8), pp. 1702. doi:10.3390/molecules30081702",
+   "abstract": "Three new triterpene saponins (primulasaponins III-V) were isolated from the roots of Bulgarian Primula veris together with the known primulasaponin I. The root saponin fraction showed anti-biofilm activity, consistent with the expectorant and antimicrobial use of cowslip root in respiratory preparations.",
+   "tier": "preclinical",
+   "display": "Phytochemical Characterization and Anti-Biofilm Activity of Primula veris L. Roots",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [],
+   "conditions": [
+    "Respiratory support"
    ]
   },
   {
@@ -1661,6 +1722,35 @@
    ]
   },
   {
+   "ref_id": "REF-0883",
+   "key": "iunusova2024ledum",
+   "type": "article",
+   "title": "Confusing boundaries of the Labrador tea species: dispersal history explains the lack of clear species structure",
+   "authors": "Iunusova, D.R., Polezhaeva, M.A. and Marchuk, E.A.",
+   "journal": "Annals of Botany",
+   "year": "2024",
+   "doi": "10.1093/aob/mcae130",
+   "url": "",
+   "link": "https://doi.org/10.1093/aob/mcae130",
+   "link_type": "doi",
+   "citation": "Iunusova, D.R., Polezhaeva, M.A. and Marchuk, E.A (2024) 'Confusing boundaries of the Labrador tea species: dispersal history explains the lack of clear species structure', Annals of Botany, 134(6), pp. 959-974. doi:10.1093/aob/mcae130",
+   "abstract": "The Labrador teas (genus Rhododendron, subsection Ledum) form a circumboreal species complex with no clear species boundaries. Using chloroplast and nuclear markers across 65 populations, this study reconstructed the phylogeny and dispersal history of subsect. Ledum, clarifying the taxonomy and biogeography of Rhododendron tomentosum and its relatives.",
+   "tier": "preclinical",
+   "display": "Confusing boundaries of the Labrador tea species: dispersal history explains the lack of clear species structure",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0389",
    "key": "moro2024cranberry",
    "type": "article",
@@ -2352,6 +2442,38 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0882",
+   "key": "vengryte2024labradortea",
+   "type": "article",
+   "title": "Phytochemical Profiling and Biological Activities of Rhododendron subsect. Ledum: Discovering the Medicinal Potential of Labrador Tea Species in the Northern Hemisphere",
+   "authors": "Vengryte, M. and Raudone, L.",
+   "journal": "Plants (Basel)",
+   "year": "2024",
+   "doi": "10.3390/plants13060901",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants13060901",
+   "link_type": "doi",
+   "citation": "Vengryte, M. and Raudone, L (2024) 'Phytochemical Profiling and Biological Activities of Rhododendron subsect. Ledum: Discovering the Medicinal Potential of Labrador Tea Species in the Northern Hemisphere', Plants (Basel), 13(6), pp. 901. doi:10.3390/plants13060901",
+   "abstract": "Rhododendron subsect. Ledum comprises eight evergreen species collectively known as Labrador tea, including Rhododendron tomentosum. This review summarises their phytochemical constituents (flavonoids, phenolic acids, terpenoids) and biological activities, including antioxidant, anti-inflammatory, antimicrobial, antitumor, hypoglycemic, hepatoprotective, neuroprotective and cardioprotective effects.",
+   "tier": "traditional",
+   "display": "Phytochemical Profiling and Biological Activities of Rhododendron subsect. Ledum: Discovering the Medicinal Potential of Labrador Tea Species in the Northern Hemisphere",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0541",
@@ -3277,6 +3399,36 @@
    ]
   },
   {
+   "ref_id": "REF-0879",
+   "key": "graikou2023primula",
+   "type": "article",
+   "title": "Comparative Phytochemical Analyses of Flowers from Primula veris subsp. veris Growing Wild and from Ex Situ Cultivation in Greece",
+   "authors": "Graikou, K., Damianakos, H., Ganos, C., Syklowska-Baranek, K. and others",
+   "journal": "Foods",
+   "year": "2023",
+   "doi": "10.3390/foods12132623",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods12132623",
+   "link_type": "doi",
+   "citation": "Graikou, K., Damianakos, H., Ganos, C., Syklowska-Baranek, K. and others (2023) 'Comparative Phytochemical Analyses of Flowers from Primula veris subsp. veris Growing Wild and from Ex Situ Cultivation in Greece', Foods, 12(13), pp. 2623. doi:10.3390/foods12132623",
+   "abstract": "Flowers of Primula veris subsp. veris from wild populations and ex situ cultivation in Greece were compared phytochemically. Both sources were rich in flavonoids and phenolic compounds with antioxidant activity, supporting the sustainable cultivation of cowslip for medicinal and food use.",
+   "tier": "preclinical",
+   "display": "Comparative Phytochemical Analyses of Flowers from Primula veris subsp. veris Growing Wild and from Ex Situ Cultivation in Greece",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0779",
    "key": "santibanez2023coriander",
    "type": "article",
@@ -3752,6 +3904,36 @@
    ]
   },
   {
+   "ref_id": "REF-0870",
+   "key": "veldman2023respiratory",
+   "type": "article",
+   "title": "Mechanistic Evidence of Andrographis paniculata, Pelargonium sidoides, Echinacea Species and a Combination of Hedera helix, Primula veris/elatior and Thymus vulgaris/zygis in the Treatment of Acute, Uncomplicated Respiratory Tract Infections: A Systematic Literature Review and Expert Interviews",
+   "authors": "Veldman, J., Bordewijk, E., Lloyd, A.R., Vlieger, A.M. and others",
+   "journal": "Pharmaceuticals (Basel)",
+   "year": "2023",
+   "doi": "10.3390/ph16091206",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph16091206",
+   "link_type": "doi",
+   "citation": "Veldman, J., Bordewijk, E., Lloyd, A.R., Vlieger, A.M. and others (2023) 'Mechanistic Evidence of Andrographis paniculata, Pelargonium sidoides, Echinacea Species and a Combination of Hedera helix, Primula veris/elatior and Thymus vulgaris/zygis in the Treatment of Acute, Uncomplicated Respiratory Tract Infections: A Systematic Literature Review and Expert Interviews', Pharmaceuticals (Basel), 16(9), pp. 1206. doi:10.3390/ph16091206",
+   "abstract": "This systematic literature review with expert interviews assessed mechanistic evidence for herbal treatments of acute uncomplicated respiratory tract infections, including the fixed combination of ivy (Hedera helix), primrose (Primula veris/elatior) and thyme. The combination provides secretolytic and spasmolytic effects from ivy with antibacterial effects from thyme, supporting expectorant use in upper respiratory tract infections.",
+   "tier": "review",
+   "display": "Mechanistic Evidence of Andrographis paniculata, Pelargonium sidoides, Echinacea Species and a Combination of Hedera helix, Primula veris/elatior and Thymus vulgaris/zygis in the Treatment of Acute, Uncomplicated Respiratory Tract Infections: A Systematic Literature Review and Expert Interviews",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [],
+   "conditions": [
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0642",
    "key": "szucko2023hericium",
    "type": "article",
@@ -3952,6 +4134,36 @@
     "Dioscorea villosa"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0872",
+   "key": "prokofiev2023primula",
+   "type": "article",
+   "title": "Solid herbal extract of Primula veris L. improves morphofunctional condition of rats' myocardium in chronic alcohol intoxication",
+   "authors": "Prokofiev, A.B., Latypova, G.M., Bondarenko, T.A., Romanenko, E.B. and others",
+   "journal": "Journal of Traditional and Complementary Medicine",
+   "year": "2023",
+   "doi": "10.1016/j.jtcme.2023.02.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jtcme.2023.02.006",
+   "link_type": "doi",
+   "citation": "Prokofiev, A.B., Latypova, G.M., Bondarenko, T.A., Romanenko, E.B. and others (2023) 'Solid herbal extract of Primula veris L. improves morphofunctional condition of rats' myocardium in chronic alcohol intoxication', Journal of Traditional and Complementary Medicine, 13(3), pp. 306-314. doi:10.1016/j.jtcme.2023.02.006",
+   "abstract": "A solid herbal extract of Primula veris was investigated in a rat model of chronic alcohol intoxication-induced heart damage. The extract improved the morphofunctional condition of the myocardium and reduced markers of oxidative stress, demonstrating cardioprotective and antioxidant effects of cowslip.",
+   "tier": "preclinical",
+   "display": "Solid herbal extract of Primula veris L. improves morphofunctional condition of rats' myocardium in chronic alcohol intoxication",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -6193,6 +6405,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0873",
+   "key": "tarapatskyy2021primula",
+   "type": "article",
+   "title": "Bioactive Phenolic Compounds from Primula veris L.: Influence of the Extraction Conditions and Purification",
+   "authors": "Tarapatskyy, M., Gumienna, A., Sowa, P., Kapusta, I. and Puchalski, C.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26040997",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26040997",
+   "link_type": "doi",
+   "citation": "Tarapatskyy, M., Gumienna, A., Sowa, P., Kapusta, I. and Puchalski, C (2021) 'Bioactive Phenolic Compounds from Primula veris L.: Influence of the Extraction Conditions and Purification', Molecules, 26(4), pp. 997. doi:10.3390/molecules26040997",
+   "abstract": "This study examined whether cowslip (Primula veris) is a rich source of bioactive substances obtainable by efficient extraction. Extraction conditions were optimised to recover phenolic compounds with antioxidant potential, identifying Primula veris flowers as a valuable source of bioactive phenolics for food and health applications.",
+   "tier": "preclinical",
+   "display": "Bioactive Phenolic Compounds from Primula veris L.: Influence of the Extraction Conditions and Purification",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0421",
    "key": "drugs2021blessed",
    "type": "misc",
@@ -6961,6 +7203,67 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0864",
+   "key": "koshovyi2021motherwort",
+   "type": "article",
+   "title": "Phytochemical and Psychotropic Research of Motherwort (Leonurus cardiaca L.) Modified Dry Extracts",
+   "authors": "Koshovyi, O., Raal, A., Kireyev, I., Tryshchuk, N. and others",
+   "journal": "Plants (Basel)",
+   "year": "2021",
+   "doi": "10.3390/plants10020230",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants10020230",
+   "link_type": "doi",
+   "citation": "Koshovyi, O., Raal, A., Kireyev, I., Tryshchuk, N. and others (2021) 'Phytochemical and Psychotropic Research of Motherwort (Leonurus cardiaca L.) Modified Dry Extracts', Plants (Basel), 10(2), pp. 230. doi:10.3390/plants10020230",
+   "abstract": "Modified dry extracts of motherwort (Leonurus cardiaca) were studied for chemical composition and psychotropic activity. The extracts, enriched in phenolics and amino acids, showed sedative and anxiolytic activity in animal models, supporting the development of motherwort-based medicines with psychotropic (calming) activity.",
+   "tier": "preclinical",
+   "display": "Phytochemical and Psychotropic Research of Motherwort (Leonurus cardiaca L.) Modified Dry Extracts",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
+   "ref_id": "REF-0865",
+   "key": "angeloni2021leonurus",
+   "type": "article",
+   "title": "Phytochemical Profile and Biological Activities of Crude and Purified Leonurus cardiaca Extracts",
+   "authors": "Angeloni, S., Spinozzi, E., Maggi, F., Sagratini, G. and others",
+   "journal": "Plants (Basel)",
+   "year": "2021",
+   "doi": "10.3390/plants10020195",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants10020195",
+   "link_type": "doi",
+   "citation": "Angeloni, S., Spinozzi, E., Maggi, F., Sagratini, G. and others (2021) 'Phytochemical Profile and Biological Activities of Crude and Purified Leonurus cardiaca Extracts', Plants (Basel), 10(2), pp. 195. doi:10.3390/plants10020195",
+   "abstract": "Leonurus cardiaca has been used in traditional medicine since antiquity for cardiac and gynecological disorders. Crude and purified extracts were profiled for phenolic and iridoid content and evaluated for antioxidant and enzyme-inhibitory (anti-inflammatory-relevant) activities, with purified fractions showing enhanced biological activity.",
+   "tier": "preclinical",
+   "display": "Phytochemical Profile and Biological Activities of Crude and Purified Leonurus cardiaca Extracts",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0619",
@@ -9682,6 +9985,69 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0880",
+   "key": "jesionek2019rhododendron",
+   "type": "article",
+   "title": "Chemical variability of Rhododendron tomentosum (Ledum palustre) essential oils and their pro-apoptotic effect on lymphocytes and rheumatoid arthritis synoviocytes",
+   "authors": "Jesionek, A., Kokotkiewicz, A., Mikosik-Roczynska, A., Ciesielska-Figlon, K. and others",
+   "journal": "Fitoterapia",
+   "year": "2019",
+   "doi": "10.1016/j.fitote.2019.104402",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2019.104402",
+   "link_type": "doi",
+   "citation": "Jesionek, A., Kokotkiewicz, A., Mikosik-Roczynska, A., Ciesielska-Figlon, K. and others (2019) 'Chemical variability of Rhododendron tomentosum (Ledum palustre) essential oils and their pro-apoptotic effect on lymphocytes and rheumatoid arthritis synoviocytes', Fitoterapia, 139, pp. 104402. doi:10.1016/j.fitote.2019.104402",
+   "abstract": "Rhododendron tomentosum is traditionally used for rheumatic complaints, making it a candidate for rheumatoid arthritis (RA) treatment. Essential oils of defined chemotypes were tested on peripheral blood lymphocytes and RA synoviocytes; the oils dose-dependently inhibited lymphocyte proliferation and increased apoptosis/necrosis of RA synovial fibroblasts, supporting anti-arthritic activity.",
+   "tier": "preclinical",
+   "display": "Chemical variability of Rhododendron tomentosum (Ledum palustre) essential oils and their pro-apoptotic effect on lymphocytes and rheumatoid arthritis synoviocytes",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
+  },
+  {
+   "ref_id": "REF-0876",
+   "key": "latypova2019primula",
+   "type": "article",
+   "title": "Composition and cardioprotective effects of Primula veris L. solid herbal extract in experimental chronic heart failure",
+   "authors": "Latypova, G.M., Bondarenko, T.A., Katayev, V.A., Romanenko, E.B. and others",
+   "journal": "Phytomedicine",
+   "year": "2019",
+   "doi": "10.1016/j.phymed.2018.09.015",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2018.09.015",
+   "link_type": "doi",
+   "citation": "Latypova, G.M., Bondarenko, T.A., Katayev, V.A., Romanenko, E.B. and others (2019) 'Composition and cardioprotective effects of Primula veris L. solid herbal extract in experimental chronic heart failure', Phytomedicine, 54, pp. 17-26. doi:10.1016/j.phymed.2018.09.015",
+   "abstract": "A solid herbal extract of Primula veris was characterised and tested in a model of experimental chronic heart failure. The extract, rich in flavonoids and phenolic acids, improved cardiac function and reduced oxidative stress, demonstrating cardioprotective and antioxidant effects.",
+   "tier": "preclinical",
+   "display": "Composition and cardioprotective effects of Primula veris L. solid herbal extract in experimental chronic heart failure",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0120",
    "key": "huang2019dietary",
    "type": "article",
@@ -9849,6 +10215,97 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0868",
+   "key": "pereira2019leonurus",
+   "type": "article",
+   "title": "Hepatoprotection of Leonurus cardiaca L., Leonurus japonicus Houtt. and Leonurus sibiricus L.",
+   "authors": "Pereira, O.R., Catarino, M.D., Afonso, A.F., Silva, A.M.S. and Cardoso, S.M.",
+   "journal": "Antioxidants (Basel)",
+   "year": "2019",
+   "doi": "10.3390/antiox8080267",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox8080267",
+   "link_type": "doi",
+   "citation": "Pereira, O.R., Catarino, M.D., Afonso, A.F., Silva, A.M.S. and Cardoso, S.M (2019) 'Hepatoprotection of Leonurus cardiaca L., Leonurus japonicus Houtt. and Leonurus sibiricus L', Antioxidants (Basel), 8(8), pp. 267. doi:10.3390/antiox8080267",
+   "abstract": "The phenolic composition of hydroethanolic extracts of Leonurus cardiaca, Leonurus japonicus and Leonurus sibiricus was determined and their hepatoprotective effects investigated in vitro. The extracts were rich in phenylethanoids and flavonoids and protected liver cells against oxidative damage, demonstrating antioxidant and hepatoprotective activity.",
+   "tier": "preclinical",
+   "display": "Hepatoprotection of Leonurus cardiaca L., Leonurus japonicus Houtt. and Leonurus sibiricus L.",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0860",
+   "key": "fierascu2019leonurus",
+   "type": "article",
+   "title": "Leonurus cardiaca L. as a Source of Bioactive Compounds: An Update of the European Medicines Agency Assessment Report (2010)",
+   "authors": "Fierascu, R.C., Fierascu, I., Ortan, A., Fierascu, I.C. and others",
+   "journal": "BioMed Research International",
+   "year": "2019",
+   "doi": "10.1155/2019/4303215",
+   "url": "",
+   "link": "https://doi.org/10.1155/2019/4303215",
+   "link_type": "doi",
+   "citation": "Fierascu, R.C., Fierascu, I., Ortan, A., Fierascu, I.C. and others (2019) 'Leonurus cardiaca L. as a Source of Bioactive Compounds: An Update of the European Medicines Agency Assessment Report (2010)', BioMed Research International, 2019, pp. 4303215. doi:10.1155/2019/4303215",
+   "abstract": "Leonurus cardiaca (motherwort) is a perennial herb native to Asia and southeastern Europe, historically used as a cardiotonic and for treating gynaecological afflictions such as amenorrhea, dysmenorrhea, menopausal anxiety and postpartum depression. This review updates the European Medicines Agency assessment report on motherwort herb, presenting progress made in 2010-2018 on the potential applications and scientific evidence supporting its traditional use.",
+   "tier": "traditional",
+   "display": "Leonurus cardiaca L. as a Source of Bioactive Compounds: An Update of the European Medicines Agency Assessment Report (2010)",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
+   "ref_id": "REF-0866",
+   "key": "sadowska2019leonurus",
+   "type": "article",
+   "title": "Molecular Mechanisms of Leonurus cardiaca L. Extract Activity in Prevention of Staphylococcal Endocarditis - Study on in Vitro and ex Vivo Models",
+   "authors": "Sadowska, B., Wieckowska-Szakiel, M., Paszkiewicz, M. and Rozalska, B.",
+   "journal": "Molecules",
+   "year": "2019",
+   "doi": "10.3390/molecules24183318",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules24183318",
+   "link_type": "doi",
+   "citation": "Sadowska, B., Wieckowska-Szakiel, M., Paszkiewicz, M. and Rozalska, B (2019) 'Molecular Mechanisms of Leonurus cardiaca L. Extract Activity in Prevention of Staphylococcal Endocarditis - Study on in Vitro and ex Vivo Models', Molecules, 24(18), pp. 3318. doi:10.3390/molecules24183318",
+   "abstract": "Leonurus cardiaca extract was studied for its potential to prevent staphylococcal infective endocarditis using in vitro and ex vivo models. The extract reduced Staphylococcus aureus adhesion, biofilm formation and virulence on heart-valve models, supporting a cardioprotective/anti-infective use of motherwort.",
+   "tier": "preclinical",
+   "display": "Molecular Mechanisms of Leonurus cardiaca L. Extract Activity in Prevention of Staphylococcal Endocarditis - Study on in Vitro and ex Vivo Models",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
   },
   {
    "ref_id": "REF-0824",
@@ -10205,6 +10662,35 @@
     "Low mood / depression",
     "Menopause"
    ]
+  },
+  {
+   "ref_id": "REF-0887",
+   "key": "zhang2019ledum",
+   "type": "article",
+   "title": "Two new taraxerane-type triterpenes from Ledum palustre L.",
+   "authors": "Zhang, K., Wang, J., Chen, L., Li, J. and others",
+   "journal": "Natural Product Research",
+   "year": "2019",
+   "doi": "10.1080/14786419.2019.1586689",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2019.1586689",
+   "link_type": "doi",
+   "citation": "Zhang, K., Wang, J., Chen, L., Li, J. and others (2019) 'Two new taraxerane-type triterpenes from Ledum palustre L', Natural Product Research, 34(19), pp. 2723-2728. doi:10.1080/14786419.2019.1586689",
+   "abstract": "Two new taraxerane-type triterpenes were isolated from Ledum palustre (Rhododendron tomentosum) and their structures confirmed by IR, HR-ESI-TOFMS and NMR. The compounds were evaluated for cell-growth-inhibitory (cytotoxic) activity against two cancer cell lines, adding to the known triterpenoid chemistry of the plant.",
+   "tier": "preclinical",
+   "display": "Two new taraxerane-type triterpenes from Ledum palustre L.",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0701",
@@ -11496,6 +11982,39 @@
    ]
   },
   {
+   "ref_id": "REF-0881",
+   "key": "kang2017rhododendron",
+   "type": "article",
+   "title": "Assessing the Effectiveness of Arnica montana and Rhododendron tomentosum (Ledum palustre) in the Reduction of Ecchymosis and Edema After Oculofacial Surgery: Preliminary Results",
+   "authors": "Kang, J.Y., Tran, K.D., Seiff, S.R., Mack, W.P. and Lee, W.W.",
+   "journal": "Ophthalmic Plastic and Reconstructive Surgery",
+   "year": "2017",
+   "doi": "10.1097/IOP.0000000000000645",
+   "url": "",
+   "link": "https://doi.org/10.1097/IOP.0000000000000645",
+   "link_type": "doi",
+   "citation": "Kang, J.Y., Tran, K.D., Seiff, S.R., Mack, W.P. and Lee, W.W (2017) 'Assessing the Effectiveness of Arnica montana and Rhododendron tomentosum (Ledum palustre) in the Reduction of Ecchymosis and Edema After Oculofacial Surgery: Preliminary Results', Ophthalmic Plastic and Reconstructive Surgery, 33(1), pp. 47-52. doi:10.1097/IOP.0000000000000645",
+   "abstract": "This retrospective study assessed topical Arnica montana and Rhododendron tomentosum (Ledum palustre) hydrogel pads for reducing postoperative ecchymosis (bruising) and edema (swelling) after oculofacial surgery in 27 patients. Patients using Arnica/Ledum showed significantly more frequent markedly accelerated healing than expected, with no adverse effects, suggesting the combination may reduce postoperative bruising and swelling.",
+   "tier": "clinical",
+   "display": "Assessing the Effectiveness of Arnica montana and Rhododendron tomentosum (Ledum palustre) in the Reduction of Ecchymosis and Edema After Oculofacial Surgery: Preliminary Results",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Swelling / fluid retention"
+   ]
+  },
+  {
    "ref_id": "REF-0162",
    "key": "marx2017ginger",
    "type": "article",
@@ -12000,6 +12519,66 @@
     "Loss of appetite",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0871",
+   "key": "baczek2017primula",
+   "type": "article",
+   "title": "Phenolics in Primula veris L. and Primula elatior (L.) Hill Raw Materials",
+   "authors": "Baczek, K.B., Kosakowska, O., Przybyl, J.L., Pioro-Jabrucka, E. and others",
+   "journal": "International Journal of Analytical Chemistry",
+   "year": "2017",
+   "doi": "10.1155/2017/2871579",
+   "url": "",
+   "link": "https://doi.org/10.1155/2017/2871579",
+   "link_type": "doi",
+   "citation": "Baczek, K.B., Kosakowska, O., Przybyl, J.L., Pioro-Jabrucka, E. and others (2017) 'Phenolics in Primula veris L. and Primula elatior (L.) Hill Raw Materials', International Journal of Analytical Chemistry, 2017, pp. 2871579. doi:10.1155/2017/2871579",
+   "abstract": "Primula veris and Primula elatior are medicinal plants used for herbal teas and preparations with antioxidant and expectorant activity. Flowers and roots of both species were analysed for phenolic content, with roots rich in saponins and the raw materials showing notable antioxidant activity, supporting their use in respiratory preparations.",
+   "tier": "preclinical",
+   "display": "Phenolics in Primula veris L. and Primula elatior (L.) Hill Raw Materials",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Respiratory support"
+   ]
+  },
+  {
+   "ref_id": "REF-0875",
+   "key": "colombo2017primula",
+   "type": "article",
+   "title": "Phytochemistry of European Primula species",
+   "authors": "Colombo, P.S., Flamini, G., Rodondi, G., Giuliani, C. and others",
+   "journal": "Phytochemistry",
+   "year": "2017",
+   "doi": "10.1016/j.phytochem.2017.07.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2017.07.005",
+   "link_type": "doi",
+   "citation": "Colombo, P.S., Flamini, G., Rodondi, G., Giuliani, C. and others (2017) 'Phytochemistry of European Primula species', Phytochemistry, 143, pp. 132-144. doi:10.1016/j.phytochem.2017.07.005",
+   "abstract": "The genus Primula is the largest among the Primulaceae, widespread in cold and temperate regions of the Northern Hemisphere. This review summarises the phytochemistry of European Primula species, including Primula veris, covering flavonoids, phenolic glycosides, triterpene saponins and volatile constituents relevant to their medicinal use.",
+   "tier": "traditional",
+   "display": "Phytochemistry of European Primula species",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0727",
@@ -13882,6 +14461,34 @@
    ]
   },
   {
+   "ref_id": "REF-0877",
+   "key": "brys2015primula",
+   "type": "article",
+   "title": "Disruption of the distylous syndrome in Primula veris",
+   "authors": "Brys, R. and Jacquemyn, H.",
+   "journal": "Annals of Botany",
+   "year": "2015",
+   "doi": "10.1093/aob/mcu211",
+   "url": "",
+   "link": "https://doi.org/10.1093/aob/mcu211",
+   "link_type": "doi",
+   "citation": "Brys, R. and Jacquemyn, H (2015) 'Disruption of the distylous syndrome in Primula veris', Annals of Botany, 115(1), pp. 27-39. doi:10.1093/aob/mcu211",
+   "abstract": "Distyly is a floral polymorphism with two morphs differing in the reciprocal positioning of anthers and stigmas. This study of Primula veris populations examined the genetic and morphological disruption of the distylous syndrome, contributing to understanding of the reproductive biology and conservation of cowslip.",
+   "tier": "preclinical",
+   "display": "Disruption of the distylous syndrome in Primula veris",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0374",
    "key": "jenabi2015effect",
    "type": "article",
@@ -14714,6 +15321,33 @@
    ]
   },
   {
+   "ref_id": "REF-0869",
+   "key": "kuchta2014qnmr",
+   "type": "article",
+   "title": "1H-qNMR for direct quantification of stachydrine in Leonurus japonicus and L. cardiaca",
+   "authors": "Kuchta, K., Ortwein, J. and Rauwald, H.W.",
+   "journal": "Fitoterapia",
+   "year": "2014",
+   "doi": "10.1016/j.fitote.2014.03.023",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2014.03.023",
+   "link_type": "doi",
+   "citation": "Kuchta, K., Ortwein, J. and Rauwald, H.W (2014) '1H-qNMR for direct quantification of stachydrine in Leonurus japonicus and L. cardiaca', Fitoterapia, 96, pp. 8-17. doi:10.1016/j.fitote.2014.03.023",
+   "abstract": "1H-qNMR spectroscopy was applied to directly quantify the pharmacologically active alkaloid stachydrine in aerial parts of Leonurus japonicus and Leonurus cardiaca, providing a rapid quality-control method for motherwort raw material and preparations.",
+   "tier": "preclinical",
+   "display": "1H-qNMR for direct quantification of stachydrine in Leonurus japonicus and L. cardiaca",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0295",
    "key": "viljoen2014systematic",
    "type": "article",
@@ -15357,6 +15991,37 @@
    ]
   },
   {
+   "ref_id": "REF-0884",
+   "key": "dampc2014labradortea",
+   "type": "article",
+   "title": "Labrador tea - the aromatic beverage and spice: a review of origin, processing and safety",
+   "authors": "Dampc, A. and Luczkiewicz, M.",
+   "journal": "Journal of the Science of Food and Agriculture",
+   "year": "2014",
+   "doi": "10.1002/jsfa.6889",
+   "url": "",
+   "link": "https://doi.org/10.1002/jsfa.6889",
+   "link_type": "doi",
+   "citation": "Dampc, A. and Luczkiewicz, M (2014) 'Labrador tea - the aromatic beverage and spice: a review of origin, processing and safety', Journal of the Science of Food and Agriculture, 95(8), pp. 1577-1583. doi:10.1002/jsfa.6889",
+   "abstract": "Labrador tea is made from the dried leaves of Rhododendron tomentosum and related species, rich in essential oil and ascorbic acid, with tonic, digestion-improving and relaxing activity. The review covers origin, processing and safety, noting that the beverage should not be drunk more than once daily because of ledol and grayanotoxin toxicity.",
+   "tier": "traditional",
+   "display": "Labrador tea - the aromatic beverage and spice: a review of origin, processing and safety",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0059",
    "key": "ding2014long",
    "type": "article",
@@ -15591,6 +16256,40 @@
     "Metabolic support",
     "Skin irritation",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-0889",
+   "key": "baananou2014ledum",
+   "type": "article",
+   "title": "Supercritical CO2 extract and essential oil of aerial part of Ledum palustre L. - Chemical composition and anti-inflammatory activity",
+   "authors": "Baananou, S., Bagdonaite, E., Marongiu, B., Piras, A. and others",
+   "journal": "Natural Product Research",
+   "year": "2014",
+   "doi": "10.1080/14786419.2014.965167",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2014.965167",
+   "link_type": "doi",
+   "citation": "Baananou, S., Bagdonaite, E., Marongiu, B., Piras, A. and others (2014) 'Supercritical CO2 extract and essential oil of aerial part of Ledum palustre L. - Chemical composition and anti-inflammatory activity', Natural Product Research, 29(11), pp. 999-1005. doi:10.1080/14786419.2014.965167",
+   "abstract": "The anti-inflammatory activity of supercritical-CO2 and hydrodistilled essential oils from the aerial parts of Ledum palustre (Rhododendron tomentosum) was evaluated. Both oils, dominated by ledol and ascaridole, significantly inhibited carrageenan-induced hind-paw oedema in rats (50-80%), comparable to the reference drugs piroxicam and ketoprofen, demonstrating the anti-inflammatory activity of the plant's essential oil.",
+   "tier": "preclinical",
+   "display": "Supercritical CO2 extract and essential oil of aerial part of Ledum palustre L. - Chemical composition and anti-inflammatory activity",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Arthritis / joint pain",
+    "Swelling / fluid retention"
    ]
   },
   {
@@ -16428,6 +17127,38 @@
    ]
   },
   {
+   "ref_id": "REF-0861",
+   "key": "wojtyniak2013leonurus",
+   "type": "article",
+   "title": "Leonurus cardiaca L. (motherwort): a review of its phytochemistry and pharmacology",
+   "authors": "Wojtyniak, K., Szymanski, M. and Matlawska, I.",
+   "journal": "Phytotherapy Research",
+   "year": "2013",
+   "doi": "10.1002/ptr.4850",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.4850",
+   "link_type": "doi",
+   "citation": "Wojtyniak, K., Szymanski, M. and Matlawska, I (2013) 'Leonurus cardiaca L. (motherwort): a review of its phytochemistry and pharmacology', Phytotherapy Research, 27(8), pp. 1115-1120. doi:10.1002/ptr.4850",
+   "abstract": "Leonurus cardiaca is a perennial plant indigenous to central Europe and Scandinavia, used in traditional medicine for cardiac and nervous complaints. This review summarises its phytochemistry (iridoids, diterpenoids, flavonoids, phenylpropanoids, alkaloids such as stachydrine and leonurine) and pharmacology, including cardioprotective, antioxidant, hypotensive and sedative activities.",
+   "tier": "traditional",
+   "display": "Leonurus cardiaca L. (motherwort): a review of its phytochemistry and pharmacology",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-0467",
    "key": "bhattacharyya2013ocimum",
    "type": "article",
@@ -16705,6 +17436,33 @@
    ]
   },
   {
+   "ref_id": "REF-0862",
+   "key": "kuchta2013stachydrine",
+   "type": "article",
+   "title": "Stachydrine in Leonurus cardiaca, Leonurus japonicus, Leonotis leonurus: detection and quantification by instrumental HPTLC and 1H-qNMR analyses",
+   "authors": "Kuchta, K., Volk, R.B. and Rauwald, H.W.",
+   "journal": "Pharmazie",
+   "year": "2013",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23923634/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/23923634/",
+   "link_type": "url",
+   "citation": "Kuchta, K., Volk, R.B. and Rauwald, H.W (2013) 'Stachydrine in Leonurus cardiaca, Leonurus japonicus, Leonotis leonurus: detection and quantification by instrumental HPTLC and 1H-qNMR analyses', Pharmazie, 68(7), pp. 534-540. Available at: https://pubmed.ncbi.nlm.nih.gov/23923634/",
+   "abstract": "Stachydrine, a pyrrolidinium alkaloid regarded as an essential active principle of the aerial parts of Leonurus species, was detected and quantified in Leonurus cardiaca, Leonurus japonicus and Leonotis leonurus using instrumental HPTLC and 1H-qNMR, providing analytical methods for standardising motherwort herbal preparations.",
+   "tier": "preclinical",
+   "display": "Stachydrine in Leonurus cardiaca, Leonurus japonicus, Leonotis leonurus: detection and quantification by instrumental HPTLC and 1H-qNMR analyses",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0166",
    "key": "mikaili2013therapeutic",
    "type": "article",
@@ -16748,6 +17506,35 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0888",
+   "key": "islam2013ledum",
+   "type": "article",
+   "title": "Toxic compounds in honey",
+   "authors": "Islam, M.N., Khalil, M.I., Islam, M.A. and Gan, S.H.",
+   "journal": "Journal of Applied Toxicology",
+   "year": "2013",
+   "doi": "10.1002/jat.2952",
+   "url": "",
+   "link": "https://doi.org/10.1002/jat.2952",
+   "link_type": "doi",
+   "citation": "Islam, M.N., Khalil, M.I., Islam, M.A. and Gan, S.H (2013) 'Toxic compounds in honey', Journal of Applied Toxicology, 34(7), pp. 733-742. doi:10.1002/jat.2952",
+   "abstract": "Honey may contain naturally occurring toxins derived from the nectar of certain plants. Honey collected from Ledum palustre (Rhododendron tomentosum) and related Ericaceae such as Kalmia and Rhododendron can contain grayanotoxins, which may cause dizziness, nausea, palpitations and, rarely, severe poisoning - an important safety consideration for Labrador tea, which also contains grayanotoxin and ledol.",
+   "tier": "traditional",
+   "display": "Toxic compounds in honey",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0047",
@@ -17364,6 +18151,35 @@
     "Menstrual cramps",
     "Skin irritation",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-0863",
+   "key": "kuchta2012leonurine",
+   "type": "article",
+   "title": "Leonurus japonicus, Leonurus cardiaca, Leonotis leonurus: a novel HPLC study on the occurrence and content of the pharmacologically active guanidino derivative leonurine",
+   "authors": "Kuchta, K., Volk, R.B. and Rauwald, H.W.",
+   "journal": "Pharmazie",
+   "year": "2012",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23346757/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/23346757/",
+   "link_type": "url",
+   "citation": "Kuchta, K., Volk, R.B. and Rauwald, H.W (2012) 'Leonurus japonicus, Leonurus cardiaca, Leonotis leonurus: a novel HPLC study on the occurrence and content of the pharmacologically active guanidino derivative leonurine', Pharmazie, 67(12), pp. 973-979. Available at: https://pubmed.ncbi.nlm.nih.gov/23346757/",
+   "abstract": "Leonurine is a pharmacologically active guanidine alkaloid exerting cardiovascular, hypotensive, uterotonic and neuroprotective effects. A novel HPLC method quantified leonurine in Leonurus cardiaca, Leonurus japonicus and Leonotis leonurus, informing the cardioactive use of motherwort.",
+   "tier": "preclinical",
+   "display": "Leonurus japonicus, Leonurus cardiaca, Leonotis leonurus: a novel HPLC study on the occurrence and content of the pharmacologically active guanidino derivative leonurine",
+   "plants": [
+    "Motherwort",
+    "lion's tail",
+    "throw-wort"
+   ],
+   "scientific": [
+    "Leonurus cardiaca"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
    ]
   },
   {
@@ -21485,6 +22301,36 @@
    ]
   },
   {
+   "ref_id": "REF-0878",
+   "key": "muller2006primula",
+   "type": "article",
+   "title": "Analysis of phenolic glycosides and saponins in Primula elatior and Primula veris (primula root) by liquid chromatography, evaporative light scattering detection and mass spectrometry",
+   "authors": "Muller, A., Ganzera, M. and Stuppner, H.",
+   "journal": "Journal of Chromatography A",
+   "year": "2006",
+   "doi": "10.1016/j.chroma.2005.10.067",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.chroma.2005.10.067",
+   "link_type": "doi",
+   "citation": "Muller, A., Ganzera, M. and Stuppner, H (2006) 'Analysis of phenolic glycosides and saponins in Primula elatior and Primula veris (primula root) by liquid chromatography, evaporative light scattering detection and mass spectrometry', Journal of Chromatography A, 1112(1-2), pp. 218-223. doi:10.1016/j.chroma.2005.10.067",
+   "abstract": "The first liquid-chromatographic method for the simultaneous determination of the bioactive saponins and phenolic glycosides in Primula elatior and Primula veris (primula root) was developed using evaporative light scattering detection and mass spectrometry, enabling quality control of the expectorant primula root drug.",
+   "tier": "preclinical",
+   "display": "Analysis of phenolic glycosides and saponins in Primula elatior and Primula veris (primula root) by liquid chromatography, evaporative light scattering detection and mass spectrometry",
+   "plants": [
+    "Cowslip",
+    "common cowslip",
+    "cowslip primrose",
+    "keyflower"
+   ],
+   "scientific": [
+    "Primula veris"
+   ],
+   "actions": [],
+   "conditions": [
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0621",
    "key": "matkowski2006lamiaceae",
    "type": "article",
@@ -22287,6 +23133,35 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-0885",
+   "key": "jaenson2005rhododendron",
+   "type": "article",
+   "title": "Evaluation of extracts and oils of tick-repellent plants from Sweden",
+   "authors": "Jaenson, T.G.T., Palsson, K. and Borg-Karlson, A.K.",
+   "journal": "Medical and Veterinary Entomology",
+   "year": "2005",
+   "doi": "10.1111/j.1365-2915.2005.00578.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1365-2915.2005.00578.x",
+   "link_type": "doi",
+   "citation": "Jaenson, T.G.T., Palsson, K. and Borg-Karlson, A.K (2005) 'Evaluation of extracts and oils of tick-repellent plants from Sweden', Medical and Veterinary Entomology, 19(4), pp. 345-352. doi:10.1111/j.1365-2915.2005.00578.x",
+   "abstract": "Leaves of Myrica gale, Rhododendron tomentosum (formerly Ledum palustre) and Artemisia absinthium were extracted and their essential oils tested for repellency against Ixodes ricinus tick nymphs. Rhododendron tomentosum oil at 10% showed 95% repellency, the strongest of the plants tested, supporting the traditional insect-repellent use of wild rosemary.",
+   "tier": "preclinical",
+   "display": "Evaluation of extracts and oils of tick-repellent plants from Sweden",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0633",
@@ -26049,6 +26924,35 @@
     "Urinary tract infection (UTI)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0886",
+   "key": "tattje1981ledum",
+   "type": "article",
+   "title": "Composition of essential oil of Ledum palustre",
+   "authors": "Tattje, D.H.E. and Bos, R.",
+   "journal": "Planta Medica",
+   "year": "1981",
+   "doi": "10.1055/s-2007-971719",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2007-971719",
+   "link_type": "doi",
+   "citation": "Tattje, D.H.E. and Bos, R (1981) 'Composition of essential oil of Ledum palustre', Planta Medica, 41(3), pp. 303-307. doi:10.1055/s-2007-971719",
+   "abstract": "The essential oil of Ledum palustre (Rhododendron tomentosum), obtained by steam distillation of leaf material, was separated into seventeen fractions and analysed by GLC and GC-MS. In total 80 components were identified, with principal components ledol, palustrol and myrtenal, characterising the volatile constituents responsible for the plant's activity.",
+   "tier": "preclinical",
+   "display": "Composition of essential oil of Ledum palustre",
+   "plants": [
+    "Hudson's Bay tea",
+    "Labrador tea",
+    "Labrador-tea",
+    "bog tea",
+    "marsh tea"
+   ],
+   "scientific": [
+    "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0139",

@@ -23,6 +23,11 @@ actions:
   - REF-0075
   - REF-0235
   - REF-0306
+  - REF-0871
+  - REF-0872
+  - REF-0873
+  - REF-0876
+  - REF-0879
   status: verified
 - action: sedative
   reference_ids:
@@ -57,6 +62,10 @@ indications:
   - REF-0075
   - REF-0235
   - REF-0306
+  - REF-0870
+  - REF-0871
+  - REF-0874
+  - REF-0878
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -90,11 +99,25 @@ contraindications:
   - REF-0235
   - REF-0306
   status: verified
-provenance: book
+references:
+- REF-0870
+- REF-0871
+- REF-0872
+- REF-0873
+- REF-0874
+- REF-0875
+- REF-0876
+- REF-0877
+- REF-0878
+- REF-0879
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-0870, REF-0871, REF-0872, REF-0873, REF-0874,
+  REF-0875, REF-0876, REF-0877, REF-0878, REF-0879) — woven into relevant actions/indications and the
+  plant-level references bucket.'

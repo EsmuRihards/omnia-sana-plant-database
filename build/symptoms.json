@@ -7095,6 +7095,22 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0075",
+      "REF-0235",
+      "REF-0306",
+      "REF-0870",
+      "REF-0871",
+      "REF-0874",
+      "REF-0878"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -7124,18 +7140,6 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0075",
-      "REF-0235",
-      "REF-0306"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0075",
       "REF-0235",
@@ -11976,15 +11980,31 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 3,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0053",
       "REF-0098",
-      "REF-0237"
+      "REF-0237",
+      "REF-0881",
+      "REF-0889"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0053",
+      "REF-0098",
+      "REF-0237",
+      "REF-0880",
+      "REF-0889"
      ]
     },
     {
@@ -12008,24 +12028,13 @@
      "references": [
       "REF-0053",
       "REF-0098",
-      "REF-0237"
+      "REF-0237",
+      "REF-0884"
      ]
     },
     {
      "condition": "skin-irritation",
      "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0053",
-      "REF-0098",
-      "REF-0237"
-     ]
-    },
-    {
-     "condition": "swelling",
-     "label": "Swelling / fluid retention",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -13992,6 +14001,36 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0145",
+      "REF-0198",
+      "REF-0270",
+      "REF-0860",
+      "REF-0861",
+      "REF-0863",
+      "REF-0866",
+      "REF-0867"
+     ]
+    },
+    {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0145",
+      "REF-0198",
+      "REF-0270",
+      "REF-0864"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -14004,32 +14043,8 @@
      ]
     },
     {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0145",
-      "REF-0198",
-      "REF-0270"
-     ]
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0145",
-      "REF-0198",
-      "REF-0270"
-     ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

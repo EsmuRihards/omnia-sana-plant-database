@@ -16,12 +16,17 @@ actions:
   - REF-0053
   - REF-0098
   - REF-0237
+  - REF-0880
+  - REF-0881
+  - REF-0882
+  - REF-0889
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0053
   - REF-0098
   - REF-0237
+  - REF-0882
   status: verified
 - action: diuretic
   reference_ids:
@@ -36,6 +41,8 @@ indications:
   - REF-0053
   - REF-0098
   - REF-0237
+  - REF-0880
+  - REF-0889
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -49,6 +56,7 @@ indications:
   - REF-0053
   - REF-0098
   - REF-0237
+  - REF-0884
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -63,6 +71,8 @@ indications:
   - REF-0053
   - REF-0098
   - REF-0237
+  - REF-0881
+  - REF-0889
   status: needs-review
 - condition: urinary-support
   note: inferred from diuretic action
@@ -101,11 +111,26 @@ contraindications:
   - REF-0098
   - REF-0237
   status: verified
-provenance: book
+references:
+- REF-0053
+- REF-0880
+- REF-0881
+- REF-0882
+- REF-0883
+- REF-0884
+- REF-0885
+- REF-0886
+- REF-0887
+- REF-0888
+- REF-0889
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-0053, REF-0880, REF-0881, REF-0882, REF-0883,
+  REF-0884, REF-0885, REF-0886, REF-0887, REF-0888) — woven into relevant actions/indications and the
+  plant-level references bucket.'

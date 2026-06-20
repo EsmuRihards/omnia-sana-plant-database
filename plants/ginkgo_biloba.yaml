@@ -96,7 +96,7 @@ contraindications:
   - REF-0308
   status: verified
 references:
-- REF-0056
+- REF-0829
 - REF-0824
 - REF-0825
 provenance: book+pubmed
@@ -107,4 +107,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0056, REF-0824, REF-0825.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0829, REF-0824, REF-0825.'

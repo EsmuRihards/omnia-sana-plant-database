@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 828,
+ "count": 829,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -13214,6 +13214,34 @@
    ],
    "scientific": [
     "Achillea millefolium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0829",
+   "key": "tan2015ginkgo",
+   "type": "article",
+   "title": "Efficacy and adverse effects of Ginkgo biloba for cognitive impairment and dementia: a systematic review and meta-analysis",
+   "authors": "Tan, M.S., Yu, J.T., Tan, C.C., Wang, H.F. et al.",
+   "journal": "Journal of Alzheimer's Disease",
+   "year": "2015",
+   "doi": "10.3233/JAD-140837",
+   "url": "",
+   "link": "https://doi.org/10.3233/JAD-140837",
+   "link_type": "doi",
+   "citation": "Tan, M.S., Yu, J.T., Tan, C.C., Wang, H.F. et al (2015) 'Efficacy and adverse effects of Ginkgo biloba for cognitive impairment and dementia: a systematic review and meta-analysis', Journal of Alzheimer's Disease, 43(2), pp. 589-603. doi:10.3233/JAD-140837",
+   "abstract": "A systematic review and meta-analysis of nine randomized controlled trials (2561 patients, 22-26 weeks) of standardised Ginkgo biloba extract EGb761 for cognitive impairment and dementia. EGb761 at 240 mg/day was able to stabilise or slow decline in cognition, activities of daily living, behaviour and global clinical impression, especially in patients with neuropsychiatric symptoms, with no important safety concerns. (Note: the large negative GEM prevention RCT, DeKosky 2008, is already in the database.)",
+   "tier": "review",
+   "display": "Efficacy and adverse effects of Ginkgo biloba for cognitive impairment and dementia: a systematic review and meta-analysis",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
    ],
    "actions": [],
    "conditions": []

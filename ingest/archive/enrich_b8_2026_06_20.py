@@ -69,12 +69,12 @@ SOURCES = [
      "abstract": "Ganoderma lucidum spore powder (GLSP) and its triterpenes (ganoderic acids A, B, C6, G and ganodermanontriol) attenuated plaque area and aortic calcification in atherosclerotic mice by improving ABCA1/G1-mediated macrophage cholesterol efflux, reducing foam cells and inflammation, and inactivating RUNX2-mediated osteogenesis in vascular smooth muscle cells, suggesting reishi as a candidate against atherosclerosis and vascular calcification."},
 
     # ---- ginkgo_biloba ----
-    {"citekey": "dekosky2008ginkgo", "plant": "ginkgo_biloba", "study_type": "rct",
-     "fields": {"author": "DeKosky, S.T., Williamson, J.D., Fitzpatrick, A.L., Kronmal, R.A. et al.",
-                "title": "Ginkgo biloba for prevention of dementia: a randomized controlled trial",
-                "journal": "JAMA", "year": "2008", "volume": "300", "number": "19", "pages": "2253-2262",
-                "doi": "10.1001/jama.2008.683"},
-     "abstract": "A large randomized, double-blind, placebo-controlled trial (3069 participants aged 75+, median follow-up 6.1 years) tested 120 mg of Ginkgo biloba extract twice daily versus placebo for prevention of dementia. Ginkgo biloba was not effective in reducing either the overall incidence of all-cause dementia or Alzheimer disease in elderly individuals with normal cognition or mild cognitive impairment; adverse-effect profiles were similar between groups."},
+    {"citekey": "tan2015ginkgo", "plant": "ginkgo_biloba", "study_type": "systematic-review",
+     "fields": {"author": "Tan, M.S., Yu, J.T., Tan, C.C., Wang, H.F. et al.",
+                "title": "Efficacy and adverse effects of Ginkgo biloba for cognitive impairment and dementia: a systematic review and meta-analysis",
+                "journal": "Journal of Alzheimer's Disease", "year": "2015", "volume": "43", "number": "2", "pages": "589-603",
+                "doi": "10.3233/JAD-140837"},
+     "abstract": "A systematic review and meta-analysis of nine randomized controlled trials (2561 patients, 22-26 weeks) of standardised Ginkgo biloba extract EGb761 for cognitive impairment and dementia. EGb761 at 240 mg/day was able to stabilise or slow decline in cognition, activities of daily living, behaviour and global clinical impression, especially in patients with neuropsychiatric symptoms, with no important safety concerns. (Note: the large negative GEM prevention RCT, DeKosky 2008, is already in the database.)"},
     {"citekey": "singh2019ginkgo", "plant": "ginkgo_biloba", "study_type": "traditional",
      "fields": {"author": "Singh, S.K., Srivastav, S., Castellani, R.J., Plascencia-Villa, G. and Perry, G.",
                 "title": "Neuroprotective and Antioxidant Effect of Ginkgo biloba Extract Against AD and Other Neurological Disorders",

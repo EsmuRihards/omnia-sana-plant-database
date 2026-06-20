@@ -18,12 +18,15 @@ constituents:
   reference_ids:
   - REF-0452
   - REF-0451
+  - REF-1037
+  - REF-1038
 - name: Flavonoids
   compounds:
   - flavonoid
   note: Antioxidant constituents.
   reference_ids:
   - REF-0452
+  - REF-1039
 - name: Phenolic acids (caffeic, ferulic, vanillic)
   compounds:
   - phenolic-acid
@@ -39,11 +42,16 @@ actions:
   reference_ids:
   - REF-0451
   - REF-0452
+  - REF-1040
+  - REF-1043
+  - REF-1044
   status: needs-review
 - action: anti-inflammatory
   note: Anti-inflammatory; soothes inflamed, irritated skin
   reference_ids:
   - REF-0452
+  - REF-1036
+  - REF-1041
   status: needs-review
 - action: antispasmodic
   note: Antispasmodic / smooth-muscle relaxant (preclinical - an extract relaxed isolated intestinal smooth
@@ -85,6 +93,7 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0452
+  - REF-1041
   status: needs-review
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
@@ -109,6 +118,8 @@ indications:
   reference_ids:
   - REF-0451
   - REF-0452
+  - REF-1035
+  - REF-1040
   status: needs-review
 - condition: swelling
   note: inferred from diuretic action
@@ -139,13 +150,27 @@ contraindications:
   reference_ids:
   - REF-0451
   status: verified
+references:
+- REF-1035
+- REF-1036
+- REF-1037
+- REF-1038
+- REF-1039
+- REF-1040
+- REF-1041
+- REF-1042
+- REF-1043
+- REF-1044
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from general literature (WebMD and herbal monographs); Scrophularia
   nodosa is not covered by clinical trials, so efficacy actions are needs-review. Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, psoriasis, skin-irritation); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced phytochemical/pharmacological
   study of S. nodosa that isolated seven flavonoids and demonstrated smooth-muscle-relaxant (spasmolytic)
   activity on isolated intestine (REF-0630). | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1035, REF-1036, REF-1037, REF-1038, REF-1039,
+  REF-1040, REF-1041, REF-1042, REF-1043, REF-1044) — woven into relevant actions/indications and the
+  plant-level references bucket.'

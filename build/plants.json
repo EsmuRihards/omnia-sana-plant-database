@@ -26940,7 +26940,9 @@
      "note": "Anti-inflammatory constituents; harpagoside also has cardiac (inotropic) activity.",
      "reference_ids": [
       "REF-0452",
-      "REF-0451"
+      "REF-0451",
+      "REF-1037",
+      "REF-1038"
      ]
     },
     {
@@ -26950,7 +26952,8 @@
      ],
      "note": "Antioxidant constituents.",
      "reference_ids": [
-      "REF-0452"
+      "REF-0452",
+      "REF-1039"
      ]
     },
     {
@@ -26972,7 +26975,10 @@
      "note": "Mild diuretic and lymphatic 'detoxifying' herb (traditional); Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)",
      "reference_ids": [
       "REF-0451",
-      "REF-0452"
+      "REF-0452",
+      "REF-1040",
+      "REF-1043",
+      "REF-1044"
      ],
      "status": "needs-review"
     },
@@ -26980,7 +26986,9 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory; soothes inflamed, irritated skin",
      "reference_ids": [
-      "REF-0452"
+      "REF-0452",
+      "REF-1036",
+      "REF-1041"
      ],
      "status": "needs-review"
     },
@@ -27041,7 +27049,8 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0452"
+      "REF-0452",
+      "REF-1041"
      ],
      "status": "needs-review"
     },
@@ -27075,7 +27084,9 @@
      "note": "Anti-inflammatory; soothes inflamed, irritated skin; Traditional 'alterative' for chronic skin conditions - eczema, psoriasis, rashes (as a poultice, salve or tea)",
      "reference_ids": [
       "REF-0451",
-      "REF-0452"
+      "REF-0452",
+      "REF-1035",
+      "REF-1040"
      ],
      "status": "needs-review"
     },
@@ -27123,9 +27134,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1035",
+    "REF-1036",
+    "REF-1037",
+    "REF-1038",
+    "REF-1039",
+    "REF-1040",
+    "REF-1041",
+    "REF-1042",
+    "REF-1043",
+    "REF-1044"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "scutellaria-lateriflora",
@@ -27532,7 +27555,11 @@
      "reference_ids": [
       "REF-0016",
       "REF-0069",
-      "REF-0244"
+      "REF-0244",
+      "REF-1045",
+      "REF-1046",
+      "REF-1047",
+      "REF-1050"
      ],
      "status": "verified"
     },
@@ -27541,7 +27568,11 @@
      "reference_ids": [
       "REF-0016",
       "REF-0069",
-      "REF-0244"
+      "REF-0244",
+      "REF-1045",
+      "REF-1049",
+      "REF-1052",
+      "REF-1053"
      ],
      "status": "verified"
     },
@@ -27550,7 +27581,9 @@
      "reference_ids": [
       "REF-0016",
       "REF-0069",
-      "REF-0244"
+      "REF-0244",
+      "REF-1045",
+      "REF-1048"
      ],
      "status": "verified"
     }
@@ -27572,7 +27605,8 @@
      "reference_ids": [
       "REF-0016",
       "REF-0069",
-      "REF-0244"
+      "REF-0244",
+      "REF-1046"
      ],
      "status": "needs-review"
     },
@@ -27601,7 +27635,9 @@
      "reference_ids": [
       "REF-0016",
       "REF-0069",
-      "REF-0244"
+      "REF-0244",
+      "REF-1045",
+      "REF-1048"
      ],
      "status": "verified"
     },
@@ -27611,7 +27647,8 @@
      "reference_ids": [
       "REF-0016",
       "REF-0069",
-      "REF-0244"
+      "REF-0244",
+      "REF-1048"
      ],
      "status": "needs-review"
     }
@@ -27638,9 +27675,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1045",
+    "REF-1046",
+    "REF-1047",
+    "REF-1048",
+    "REF-1049",
+    "REF-1050",
+    "REF-1051",
+    "REF-1052",
+    "REF-1053",
+    "REF-1054"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "stachys-officinalis",
@@ -27666,7 +27715,9 @@
      ],
      "note": "Anti-inflammatory and antispasmodic constituents.",
      "reference_ids": [
-      "REF-0535"
+      "REF-0535",
+      "REF-1062",
+      "REF-1063"
      ]
     },
     {
@@ -27692,7 +27743,11 @@
      "note": "Antioxidant, astringent and aromatic constituents; methanolic extract of the herb showed strong free-radical-scavenging and lipid-peroxidation-inhibiting activity in vitro.",
      "reference_ids": [
       "REF-0535",
-      "REF-0621"
+      "REF-0621",
+      "REF-1056",
+      "REF-1057",
+      "REF-1058",
+      "REF-1060"
      ]
     }
    ],
@@ -27701,7 +27756,8 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory and antispasmodic",
      "reference_ids": [
-      "REF-0535"
+      "REF-0535",
+      "REF-1062"
      ],
      "status": "needs-review"
     },
@@ -27709,7 +27765,11 @@
      "action": "antioxidant",
      "note": "Antioxidant - among the strongest free-radical scavengers in a comparative study of Lamiaceae herbs",
      "reference_ids": [
-      "REF-0621"
+      "REF-0621",
+      "REF-1055",
+      "REF-1056",
+      "REF-1059",
+      "REF-1061"
      ],
      "status": "verified"
     },
@@ -27786,7 +27846,8 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0535"
+      "REF-0535",
+      "REF-1062"
      ],
      "status": "needs-review"
     },
@@ -27852,9 +27913,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1055",
+    "REF-1056",
+    "REF-1057",
+    "REF-1058",
+    "REF-1059",
+    "REF-1042",
+    "REF-1060",
+    "REF-1061",
+    "REF-1062",
+    "REF-1063"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "stellaria-media",

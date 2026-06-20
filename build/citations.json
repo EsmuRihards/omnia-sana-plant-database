@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1034,
+ "count": 1063,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2732,6 +2732,35 @@
    ]
   },
   {
+   "ref_id": "REF-1052",
+   "key": "malicanin2024solidago",
+   "type": "article",
+   "title": "Influence of the Extraction Method on the Biological Potential of Solidago virgaurea L. Essential Oil and Hydrolates",
+   "authors": "Malicanin, M., Karabegovic, I., Dordevic, N., Mancic, S. and others",
+   "journal": "Plants",
+   "year": "2024",
+   "doi": "10.3390/plants13162187",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants13162187",
+   "link_type": "doi",
+   "citation": "Malicanin, M., Karabegovic, I., Dordevic, N., Mancic, S. and others (2024) 'Influence of the Extraction Method on the Biological Potential of Solidago virgaurea L. Essential Oil and Hydrolates', Plants, 13(16), pp. 2187. doi:10.3390/plants13162187",
+   "abstract": "Essential oils and hydrolates of European goldenrod (Solidago virgaurea) obtained by different extraction methods were evaluated for chemical composition and biological activity, showing antimicrobial and antioxidant potential consistent with the plant's traditional uses.",
+   "tier": "preclinical",
+   "display": "Influence of the Extraction Method on the Biological Potential of Solidago virgaurea L. Essential Oil and Hydrolates",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0853",
    "key": "markovic2024juniper",
    "type": "article",
@@ -4403,6 +4432,36 @@
    ]
   },
   {
+   "ref_id": "REF-1056",
+   "key": "apostolescu2023stachys",
+   "type": "article",
+   "title": "Chemical and Antioxidant Profile of Hydroalcoholic Extracts of Stachys officinalis L., Stachys palustris L., Stachys sylvatica L. from Romania",
+   "authors": "Apostolescu, G.F., Popescu, D.I., Botoran, O., Sandru, D. and others",
+   "journal": "Acta Chimica Slovenica",
+   "year": "2023",
+   "doi": "10.17344/acsi.2023.8046",
+   "url": "",
+   "link": "https://doi.org/10.17344/acsi.2023.8046",
+   "link_type": "doi",
+   "citation": "Apostolescu, G.F., Popescu, D.I., Botoran, O., Sandru, D. and others (2023) 'Chemical and Antioxidant Profile of Hydroalcoholic Extracts of Stachys officinalis L., Stachys palustris L., Stachys sylvatica L. from Romania', Acta Chimica Slovenica, 70(2), pp. 231-239. doi:10.17344/acsi.2023.8046",
+   "abstract": "Comparative assessment of hydroalcoholic extracts of Stachys officinalis, S. palustris and S. sylvatica from Romania characterised their phenolic composition and antioxidant capacity, supporting the use of wood betony as an antioxidant herbal remedy.",
+   "tier": "preclinical",
+   "display": "Chemical and Antioxidant Profile of Hydroalcoholic Extracts of Stachys officinalis L., Stachys palustris L., Stachys sylvatica L. from Romania",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0809",
    "key": "cmikova2023eucalyptus",
    "type": "article",
@@ -5481,6 +5540,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1042",
+   "key": "ohiienko2023antifungal",
+   "type": "article",
+   "title": "Screening of medicinal and aromatic plants extracts for the synergism with fluconazole against Candida albicans and Candida tropicalis fungi associated with denture stomatitis",
+   "authors": "Ohiienko, T., Kutsyk, R., Kurovets, L., Ohiienko, S. and others",
+   "journal": "Wiadomosci Lekarskie",
+   "year": "2023",
+   "doi": "10.36740/WLek202307115",
+   "url": "",
+   "link": "https://doi.org/10.36740/WLek202307115",
+   "link_type": "doi",
+   "citation": "Ohiienko, T., Kutsyk, R., Kurovets, L., Ohiienko, S. and others (2023) 'Screening of medicinal and aromatic plants extracts for the synergism with fluconazole against Candida albicans and Candida tropicalis fungi associated with denture stomatitis', Wiadomosci Lekarskie, 76(7), pp. 1615-1620. doi:10.36740/WLek202307115",
+   "abstract": "A screening of 166 aqueous-ethanolic plant extracts for antifungal and fluconazole-potentiating activity against azole-resistant Candida albicans and Candida tropicalis associated with denture stomatitis found significant direct antifungal activity for the roots of Scrophularia nodosa and the herb of Betonica officinalis, among other species.",
+   "tier": "preclinical",
+   "display": "Screening of medicinal and aromatic plants extracts for the synergism with fluconazole against Candida albicans and Candida tropicalis fungi associated with denture stomatitis",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Common figwort",
+    "Figwort",
+    "Purple betony",
+    "Scrofula plant",
+    "Wood Betony",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa",
+    "Stachys officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0872",
    "key": "prokofiev2023primula",
    "type": "article",
@@ -5504,6 +5596,36 @@
    ],
    "scientific": [
     "Primula veris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1059",
+   "key": "benedec2023stachys",
+   "type": "article",
+   "title": "Stachys Species: Comparative Evaluation of Phenolic Profile and Antimicrobial and Antioxidant Potential",
+   "authors": "Benedec, D., Oniga, I., Hanganu, D., Tiperciuc, B. and others",
+   "journal": "Antibiotics",
+   "year": "2023",
+   "doi": "10.3390/antibiotics12111644",
+   "url": "",
+   "link": "https://doi.org/10.3390/antibiotics12111644",
+   "link_type": "doi",
+   "citation": "Benedec, D., Oniga, I., Hanganu, D., Tiperciuc, B. and others (2023) 'Stachys Species: Comparative Evaluation of Phenolic Profile and Antimicrobial and Antioxidant Potential', Antibiotics, 12(11), pp. 1644. doi:10.3390/antibiotics12111644",
+   "abstract": "Six Romanian Stachys species, including S. officinalis, were investigated for polyphenolic composition and antimicrobial and antioxidant potential, characterising the phenolics responsible for the antioxidant and antimicrobial activity of betony.",
+   "tier": "preclinical",
+   "display": "Stachys Species: Comparative Evaluation of Phenolic Profile and Antimicrobial and Antioxidant Potential",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
    ],
    "actions": [
     "Antioxidant"
@@ -6759,6 +6881,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1040",
+   "key": "papp2022ethnoderm",
+   "type": "article",
+   "title": "Ethnomedicine survey on folk dermatology in Transylvania, Romania",
+   "authors": "Papp, N., Czégényi, D., Tóth, M., Dénes, T. and others",
+   "journal": "Clinics in Dermatology",
+   "year": "2022",
+   "doi": "10.1016/j.clindermatol.2022.07.013",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clindermatol.2022.07.013",
+   "link_type": "doi",
+   "citation": "Papp, N., Czégényi, D., Tóth, M., Dénes, T. and others (2022) 'Ethnomedicine survey on folk dermatology in Transylvania, Romania', Clinics in Dermatology, 40(6), pp. 651-664. doi:10.1016/j.clindermatol.2022.07.013",
+   "abstract": "An ethnomedicine survey of 35 Transylvanian villages documented 180 remedies for 45 skin problems, including 112 plants. Scrophularia nodosa was among the species recorded for dermatological use, illustrating the persistence of figwort in folk treatment of skin disorders.",
+   "tier": "traditional",
+   "display": "Ethnomedicine survey on folk dermatology in Transylvania, Romania",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [
+    "Alterative / depurative ('detox')"
+   ],
+   "conditions": [
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-0437",
    "key": "european2022european",
    "type": "misc",
@@ -7334,6 +7488,35 @@
     "Eleutherococcus senticosus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1053",
+   "key": "zehra2022solidago",
+   "type": "article",
+   "title": "Phytochemical Analysis and Evaluation of the Antidiabetic Activity of Solidago virgaurea Extracts",
+   "authors": "Zehra, S.A., Bhattarai, P., Zhang, J., Liu, Y. and others",
+   "journal": "Current Bioactive Compounds",
+   "year": "2022",
+   "doi": "10.2174/1573407218666220615143502",
+   "url": "",
+   "link": "https://doi.org/10.2174/1573407218666220615143502",
+   "link_type": "doi",
+   "citation": "Zehra, S.A., Bhattarai, P., Zhang, J., Liu, Y. and others (2022) 'Phytochemical Analysis and Evaluation of the Antidiabetic Activity of Solidago virgaurea Extracts', Current Bioactive Compounds, 19(4), pp. e150622206146. doi:10.2174/1573407218666220615143502",
+   "abstract": "Solidago virgaurea, used for centuries for cystitis, nephritis, urolithiasis, rheumatism and inflammatory diseases, was analysed phytochemically and its extracts evaluated for antidiabetic activity, demonstrating hypoglycaemic potential of goldenrod.",
+   "tier": "preclinical",
+   "display": "Phytochemical Analysis and Evaluation of the Antidiabetic Activity of Solidago virgaurea Extracts",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -9102,6 +9285,38 @@
    ]
   },
   {
+   "ref_id": "REF-1041",
+   "key": "soulimani2021antiinflam",
+   "type": "article",
+   "title": "Increased anti-inflammatory activity and enhanced phytochemical concentrations in superfine powders obtained by controlled differential sieving process from four medicinal plants",
+   "authors": "Soulimani, R., Dicko, A., Baudelaire, E. and Bouayed, J.",
+   "journal": "International Journal for Vitamin and Nutrition Research",
+   "year": "2021",
+   "doi": "10.1024/0300-9831/a000739",
+   "url": "",
+   "link": "https://doi.org/10.1024/0300-9831/a000739",
+   "link_type": "doi",
+   "citation": "Soulimani, R., Dicko, A., Baudelaire, E. and Bouayed, J (2021) 'Increased anti-inflammatory activity and enhanced phytochemical concentrations in superfine powders obtained by controlled differential sieving process from four medicinal plants', International Journal for Vitamin and Nutrition Research, 93(4), pp. 339-351. doi:10.1024/0300-9831/a000739",
+   "abstract": "Superfine powders (50-180 microns) of four medicinal plants including Scrophularia nodosa significantly inhibited TNF-alpha, IL-1beta, IL-6 and nitric oxide production in LPS-stimulated mouse peripheral blood mononuclear cells by at least 20% more than hydroethanolic extracts, and were more concentrated in phenolics, demonstrating an anti-inflammatory effect.",
+   "tier": "preclinical",
+   "display": "Increased anti-inflammatory activity and enhanced phytochemical concentrations in superfine powders obtained by controlled differential sieving process from four medicinal plants",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-0399",
    "key": "gaertner2021homeopathic",
    "type": "article",
@@ -9141,6 +9356,38 @@
     "Pain (general)",
     "Skin irritation",
     "Swelling / fluid retention"
+   ]
+  },
+  {
+   "ref_id": "REF-1048",
+   "key": "wojnicz2021solidago",
+   "type": "article",
+   "title": "Is It Worth Combining Solidago virgaurea Extract and Antibiotics against Uropathogenic Escherichia coli Rods? An In Vitro Model Study",
+   "authors": "Wojnicz, D., Tichaczek-Goska, D., Glensk, M. and Hendrich, A.B.",
+   "journal": "Pharmaceutics",
+   "year": "2021",
+   "doi": "10.3390/pharmaceutics13040573",
+   "url": "",
+   "link": "https://doi.org/10.3390/pharmaceutics13040573",
+   "link_type": "doi",
+   "citation": "Wojnicz, D., Tichaczek-Goska, D., Glensk, M. and Hendrich, A.B (2021) 'Is It Worth Combining Solidago virgaurea Extract and Antibiotics against Uropathogenic Escherichia coli Rods? An In Vitro Model Study', Pharmaceutics, 13(4), pp. 573. doi:10.3390/pharmaceutics13040573",
+   "abstract": "European goldenrod (Solidago virgaurea), long recommended for the prophylaxis of urinary-tract infections, was tested in vitro in combination with antibiotics against uropathogenic Escherichia coli. The extract influenced bacterial growth, biofilm formation and morphology, supporting goldenrod's traditional role in urinary-tract complaints.",
+   "tier": "preclinical",
+   "display": "Is It Worth Combining Solidago virgaurea Extract and Antibiotics against Uropathogenic Escherichia coli Rods? An In Vitro Model Study",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [
+    "Diuretic"
+   ],
+   "conditions": [
+    "Urinary support",
+    "Urinary tract infection (UTI)"
    ]
   },
   {
@@ -9426,6 +9673,36 @@
     "Coriandrum sativum"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1061",
+   "key": "stegarus2021stachys",
+   "type": "article",
+   "title": "Phytochemical Analysis and Biological Activity of Three Stachys Species (Lamiaceae) from Romania",
+   "authors": "Stegarus, D.I., Lengyel, E., Apostolescu, G.F., Botoran, O.R. and others",
+   "journal": "Plants",
+   "year": "2021",
+   "doi": "10.3390/plants10122710",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants10122710",
+   "link_type": "doi",
+   "citation": "Stegarus, D.I., Lengyel, E., Apostolescu, G.F., Botoran, O.R. and others (2021) 'Phytochemical Analysis and Biological Activity of Three Stachys Species (Lamiaceae) from Romania', Plants, 10(12), pp. 2710. doi:10.3390/plants10122710",
+   "abstract": "Three Stachys species from Romania, including S. officinalis, were investigated for aromatic profile, total polyphenol content and antibacterial and antioxidant activity, characterising the phytochemistry and bioactivity of betony.",
+   "tier": "preclinical",
+   "display": "Phytochemical Analysis and Biological Activity of Three Stachys Species (Lamiaceae) from Romania",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -12361,6 +12638,68 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1047",
+   "key": "precheur2020solidago",
+   "type": "article",
+   "title": "Solidago virgaurea L. Plant Extract Targeted Against Candida albicans to Reduce Oral Microbial Biomass: A Double Blind Randomized Trial on Healthy Adults",
+   "authors": "Précheur, I., Rolland, Y., Hasseine, L., Orange, F. and others",
+   "journal": "Antibiotics",
+   "year": "2020",
+   "doi": "10.3390/antibiotics9040137",
+   "url": "",
+   "link": "https://doi.org/10.3390/antibiotics9040137",
+   "link_type": "doi",
+   "citation": "Précheur, I., Rolland, Y., Hasseine, L., Orange, F. and others (2020) 'Solidago virgaurea L. Plant Extract Targeted Against Candida albicans to Reduce Oral Microbial Biomass: A Double Blind Randomized Trial on Healthy Adults', Antibiotics, 9(4), pp. 137. doi:10.3390/antibiotics9040137",
+   "abstract": "In a double-blind randomized trial on healthy adults, a Solidago virgaurea extract mouthwash modulated the oral microbial biomass without eradicating the commensal flora, supporting a controlled antimicrobial action of goldenrod relevant to oral health.",
+   "tier": "rct",
+   "display": "Solidago virgaurea L. Plant Extract Targeted Against Candida albicans to Reduce Oral Microbial Biomass: A Double Blind Randomized Trial on Healthy Adults",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1045",
+   "key": "fursenco2020solidago",
+   "type": "article",
+   "title": "Solidago virgaurea L.: A Review of Its Ethnomedicinal Uses, Phytochemistry, and Pharmacological Activities",
+   "authors": "Fursenco, C., Calalb, T., Uncu, L., Dinu, M. and others",
+   "journal": "Biomolecules",
+   "year": "2020",
+   "doi": "10.3390/biom10121619",
+   "url": "",
+   "link": "https://doi.org/10.3390/biom10121619",
+   "link_type": "doi",
+   "citation": "Fursenco, C., Calalb, T., Uncu, L., Dinu, M. and others (2020) 'Solidago virgaurea L.: A Review of Its Ethnomedicinal Uses, Phytochemistry, and Pharmacological Activities', Biomolecules, 10(12), pp. 1619. doi:10.3390/biom10121619",
+   "abstract": "European goldenrod (Solidago virgaurea, Asteraceae) is among the most-researched goldenrod species. This review summarises its ethnomedicinal uses, phytochemistry (flavonoids, phenolic acids, saponins, diterpenes) and pharmacological activities, including diuretic, anti-inflammatory, antioxidant, antimicrobial, spasmolytic and analgesic effects, supporting its use in urinary-tract complaints.",
+   "tier": "review",
+   "display": "Solidago virgaurea L.: A Review of Its Ethnomedicinal Uses, Phytochemistry, and Pharmacological Activities",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Diuretic"
+   ],
+   "conditions": [
+    "Urinary support"
+   ]
+  },
+  {
    "ref_id": "REF-0900",
    "key": "oladeji2020stellaria",
    "type": "article",
@@ -13219,6 +13558,36 @@
    ]
   },
   {
+   "ref_id": "REF-1055",
+   "key": "slapsyte2019stachys",
+   "type": "article",
+   "title": "Genotoxic properties of Betonica officinalis, Gratiola officinalis, Vincetoxicum luteum and Vincetoxicum hirundinaria extracts",
+   "authors": "Slapsyte, G., Dedonyte, V., Adomeniene, A., Lazutka, J.R. and others",
+   "journal": "Food and Chemical Toxicology",
+   "year": "2019",
+   "doi": "10.1016/j.fct.2019.110815",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fct.2019.110815",
+   "link_type": "doi",
+   "citation": "Slapsyte, G., Dedonyte, V., Adomeniene, A., Lazutka, J.R. and others (2019) 'Genotoxic properties of Betonica officinalis, Gratiola officinalis, Vincetoxicum luteum and Vincetoxicum hirundinaria extracts', Food and Chemical Toxicology, 134, pp. 110815. doi:10.1016/j.fct.2019.110815",
+   "abstract": "Extracts of Betonica officinalis (wood betony) and three other species, all with strong antioxidant capacity, were tested for genotoxicity; the study characterises the antioxidant and safety profile of betony.",
+   "tier": "preclinical",
+   "display": "Genotoxic properties of Betonica officinalis, Gratiola officinalis, Vincetoxicum luteum and Vincetoxicum hirundinaria extracts",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0786",
    "key": "lis2019monogyna",
    "type": "article",
@@ -13603,6 +13972,34 @@
    ]
   },
   {
+   "ref_id": "REF-1039",
+   "key": "soualeh2019scrophularia",
+   "type": "article",
+   "title": "Powders with small microparticle size from Hedera helix and Scrophularia nodosa exhibited high preventive antioxidant activity against H2O2-induced oxidative stress in mouse primary spleen cells",
+   "authors": "Soualeh, N., Stiévenard, A., Baudelaire, E., Bouayed, J. and Soulimani, R.",
+   "journal": "International Journal for Vitamin and Nutrition Research",
+   "year": "2019",
+   "doi": "10.1024/0300-9831/a000526",
+   "url": "",
+   "link": "https://doi.org/10.1024/0300-9831/a000526",
+   "link_type": "doi",
+   "citation": "Soualeh, N., Stiévenard, A., Baudelaire, E., Bouayed, J. and Soulimani, R (2019) 'Powders with small microparticle size from Hedera helix and Scrophularia nodosa exhibited high preventive antioxidant activity against H2O2-induced oxidative stress in mouse primary spleen cells', International Journal for Vitamin and Nutrition Research, 88(3-4), pp. 208-218. doi:10.1024/0300-9831/a000526",
+   "abstract": "Superfine powders of Scrophularia nodosa (figwort) and Hedera helix (ivy) protected mouse primary spleen cells against H2O2-induced oxidative stress, significantly decreasing reactive oxygen species and malondialdehyde and restoring glutathione peroxidase, catalase and superoxide dismutase activity, with the finest fractions most effective.",
+   "tier": "preclinical",
+   "display": "Powders with small microparticle size from Hedera helix and Scrophularia nodosa exhibited high preventive antioxidant activity against H2O2-induced oxidative stress in mouse primary spleen cells",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0935",
    "key": "reichert2019nepeta",
    "type": "article",
@@ -13811,6 +14208,34 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1063",
+   "key": "bilusicvundac2019stachys",
+   "type": "article",
+   "title": "Taxonomical and Phytochemical Characterisation of 10 Stachys Taxa Recorded in the Balkan Peninsula Flora: A Review",
+   "authors": "Bilušić Vundać, V.",
+   "journal": "Plants",
+   "year": "2019",
+   "doi": "10.3390/plants8020032",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants8020032",
+   "link_type": "doi",
+   "citation": "Bilušić Vundać, V (2019) 'Taxonomical and Phytochemical Characterisation of 10 Stachys Taxa Recorded in the Balkan Peninsula Flora: A Review', Plants, 8(2), pp. 32. doi:10.3390/plants8020032",
+   "abstract": "This review summarises the taxonomy and phytochemistry (essential oils, flavonoids, iridoids, fatty acids, amino acids) of ten Stachys taxa of the Balkan flora, including Stachys officinalis (L.) Trevis., to support intrageneric differentiation and use.",
+   "tier": "review",
+   "display": "Taxonomical and Phytochemical Characterisation of 10 Stachys Taxa Recorded in the Balkan Peninsula Flora: A Review",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0674",
@@ -16346,6 +16771,34 @@
    ]
   },
   {
+   "ref_id": "REF-1058",
+   "key": "giuliani2016stachys",
+   "type": "article",
+   "title": "Secretory structures and essential oil composition in Stachys officinalis (L.) Trevisan subsp. officinalis (Lamiaceae) from Italy",
+   "authors": "Giuliani, C., Pellegrino, R.M., Selvaggi, R., Tani, C. and others",
+   "journal": "Natural Product Research",
+   "year": "2017",
+   "doi": "10.1080/14786419.2016.1261347",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2016.1261347",
+   "link_type": "doi",
+   "citation": "Giuliani, C., Pellegrino, R.M., Selvaggi, R., Tani, C. and others (2017) 'Secretory structures and essential oil composition in Stachys officinalis (L.) Trevisan subsp. officinalis (Lamiaceae) from Italy', Natural Product Research, 31(9), pp. 1006-1013. doi:10.1080/14786419.2016.1261347",
+   "abstract": "The secretory structures and volatile fraction of Stachys officinalis subsp. officinalis from Italy were studied, relating the glandular trichomes to the essential-oil composition of wood betony.",
+   "tier": "preclinical",
+   "display": "Secretory structures and essential oil composition in Stachys officinalis (L.) Trevisan subsp. officinalis (Lamiaceae) from Italy",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0466",
    "key": "jamshidi2017clinical",
    "type": "article",
@@ -17424,6 +17877,37 @@
    ]
   },
   {
+   "ref_id": "REF-1046",
+   "key": "abdelmotaal2016solidago",
+   "type": "article",
+   "title": "In vivo anti-inflammatory activity of caffeoylquinic acid derivatives from Solidago virgaurea in rats",
+   "authors": "Abdel Motaal, A., Ezzat, S.M., Tadros, M.G. and El-Askary, H.I.",
+   "journal": "Pharmaceutical Biology",
+   "year": "2016",
+   "doi": "10.1080/13880209.2016.1190381",
+   "url": "",
+   "link": "https://doi.org/10.1080/13880209.2016.1190381",
+   "link_type": "doi",
+   "citation": "Abdel Motaal, A., Ezzat, S.M., Tadros, M.G. and El-Askary, H.I (2016) 'In vivo anti-inflammatory activity of caffeoylquinic acid derivatives from Solidago virgaurea in rats', Pharmaceutical Biology, 54(12), pp. 2864-2870. doi:10.1080/13880209.2016.1190381",
+   "abstract": "Caffeoylquinic acid derivatives isolated from Solidago virgaurea showed significant in vivo anti-inflammatory activity in the carrageenan-induced rat paw oedema model, providing pharmacological support for the traditional anti-inflammatory use of goldenrod.",
+   "tier": "preclinical",
+   "display": "In vivo anti-inflammatory activity of caffeoylquinic acid derivatives from Solidago virgaurea in rats",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-0428",
    "key": "manda2016modulation",
    "type": "article",
@@ -17818,6 +18302,33 @@
    ],
    "scientific": [
     "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1054",
+   "key": "jang2016solidago",
+   "type": "article",
+   "title": "Screening of Korean Natural Products for Anti-Adipogenesis Properties and Isolation of Kaempferol-3-O-rutinoside as a Potent Anti-Adipogenetic Compound from Solidago virgaurea",
+   "authors": "Jang, Y.S., Wang, Z., Lee, J.M., Lee, J.Y. and others",
+   "journal": "Molecules",
+   "year": "2016",
+   "doi": "10.3390/molecules21020226",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules21020226",
+   "link_type": "doi",
+   "citation": "Jang, Y.S., Wang, Z., Lee, J.M., Lee, J.Y. and others (2016) 'Screening of Korean Natural Products for Anti-Adipogenesis Properties and Isolation of Kaempferol-3-O-rutinoside as a Potent Anti-Adipogenetic Compound from Solidago virgaurea', Molecules, 21(2), pp. 226. doi:10.3390/molecules21020226",
+   "abstract": "A screen of 300 plant extracts identified Solidago virgaurea as a potent inhibitor of adipogenesis in 3T3-L1 cells, and kaempferol-3-O-rutinoside was isolated as a potent anti-adipogenetic constituent of goldenrod.",
+   "tier": "preclinical",
+   "display": "Screening of Korean Natural Products for Anti-Adipogenesis Properties and Isolation of Kaempferol-3-O-rutinoside as a Potent Anti-Adipogenetic Compound from Solidago virgaurea",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
    ],
    "actions": [],
    "conditions": []
@@ -20816,6 +21327,35 @@
    ]
   },
   {
+   "ref_id": "REF-1049",
+   "key": "eltantawy2013solidago",
+   "type": "article",
+   "title": "Biochemical effects of Solidago virgaurea extract on experimental cardiotoxicity",
+   "authors": "El-Tantawy, W.H.",
+   "journal": "Journal of Physiology and Biochemistry",
+   "year": "2013",
+   "doi": "10.1007/s13105-013-0277-0",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13105-013-0277-0",
+   "link_type": "doi",
+   "citation": "El-Tantawy, W.H (2013) 'Biochemical effects of Solidago virgaurea extract on experimental cardiotoxicity', Journal of Physiology and Biochemistry, 70(1), pp. 33-42. doi:10.1007/s13105-013-0277-0",
+   "abstract": "A Solidago virgaurea extract was evaluated against experimental (isoprenaline-induced) cardiotoxicity in rats, improving cardiac and oxidative-stress biomarkers, indicating an antioxidant, cardioprotective effect of goldenrod.",
+   "tier": "preclinical",
+   "display": "Biochemical effects of Solidago virgaurea extract on experimental cardiotoxicity",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0416",
    "key": "fritz2013black",
    "type": "article",
@@ -20875,6 +21415,34 @@
    "conditions": [
     "Cardiovascular / heart health"
    ]
+  },
+  {
+   "ref_id": "REF-1060",
+   "key": "lazarevic2013stachys",
+   "type": "article",
+   "title": "Chemical composition and antimicrobial activity of the essential oil of Stachys officinalis (L.) Trevis. (Lamiaceae)",
+   "authors": "Lazarevic, J.S., Dordevic, A.S., Kitic, D.V., Zlatkovic, B.K. and others",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2013",
+   "doi": "10.1002/cbdv.201200332",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.201200332",
+   "link_type": "doi",
+   "citation": "Lazarevic, J.S., Dordevic, A.S., Kitic, D.V., Zlatkovic, B.K. and others (2013) 'Chemical composition and antimicrobial activity of the essential oil of Stachys officinalis (L.) Trevis. (Lamiaceae)', Chemistry & Biodiversity, 10(7), pp. 1335-1349. doi:10.1002/cbdv.201200332",
+   "abstract": "The essential oil hydrodistilled from the aerial parts of Stachys officinalis was characterised by GC-FID and GC/MS and tested for antimicrobial activity, defining the volatile composition and antimicrobial potential of wood betony.",
+   "tier": "preclinical",
+   "display": "Chemical composition and antimicrobial activity of the essential oil of Stachys officinalis (L.) Trevis. (Lamiaceae)",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0429",
@@ -21757,6 +22325,38 @@
    ]
   },
   {
+   "ref_id": "REF-1062",
+   "key": "haznagyradnai2011stachys",
+   "type": "article",
+   "title": "Antiinflammatory activities of Hungarian Stachys species and their iridoids",
+   "authors": "Háznagy-Radnai, E., Balogh, Á., Czigle, S., Máthé, I. and others",
+   "journal": "Phytotherapy Research",
+   "year": "2012",
+   "doi": "10.1002/ptr.3582",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.3582",
+   "link_type": "doi",
+   "citation": "Háznagy-Radnai, E., Balogh, Á., Czigle, S., Máthé, I. and others (2012) 'Antiinflammatory activities of Hungarian Stachys species and their iridoids', Phytotherapy Research, 26(4), pp. 505-509. doi:10.1002/ptr.3582",
+   "abstract": "Aqueous extracts of the aerial parts of ten Hungarian Stachys species, including S. officinalis, were tested in vivo in the carrageenan rat-paw-oedema model; several showed significant anti-inflammatory activity, attributed in part to their iridoid content.",
+   "tier": "preclinical",
+   "display": "Antiinflammatory activities of Hungarian Stachys species and their iridoids",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-0539",
    "key": "stojanovic2012antistaphylococcal",
    "type": "article",
@@ -21820,6 +22420,36 @@
     "Cardiovascular / heart health",
     "High cholesterol"
    ]
+  },
+  {
+   "ref_id": "REF-1036",
+   "key": "ahmad2012screeningscroph",
+   "type": "article",
+   "title": "Biological screening of Scrophularia nodosa extract and its fractions",
+   "authors": "Ahmad, M., Muhammad, N., Mehjabeen, Jahan, N. and others",
+   "journal": "Pakistan Journal of Pharmaceutical Sciences",
+   "year": "2012",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Biological%20screening%20of%20Scrophularia%20nodosa%20extract%20and%20its%20fractions",
+   "link_type": "search",
+   "citation": "Ahmad, M., Muhammad, N., Mehjabeen, Jahan, N. and others (2012) 'Biological screening of Scrophularia nodosa extract and its fractions', Pakistan Journal of Pharmaceutical Sciences, 25(2), pp. 307-313.",
+   "abstract": "Biological screening of Scrophularia nodosa crude extract and its fractions assessed phytotoxic, cytotoxic, antibacterial, antifungal and analgesic activities. The fractions exhibited significant antibacterial and antifungal effects, the plant was non-toxic in the brine-shrimp assay, and the crude extract showed highly significant analgesic activity (65.6% inhibition at 500 mg/kg in the writhing test).",
+   "tier": "preclinical",
+   "display": "Biological screening of Scrophularia nodosa extract and its fractions",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0771",
@@ -23660,6 +24290,34 @@
    ]
   },
   {
+   "ref_id": "REF-1057",
+   "key": "hajdari2011stachys",
+   "type": "article",
+   "title": "Variability of essential oils of Betonica officinalis (Lamiaceae) from different wild populations in Kosovo",
+   "authors": "Hajdari, A., Mustafa, B., Franz, C. and Novak, J.",
+   "journal": "Natural Product Communications",
+   "year": "2011",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Variability%20of%20essential%20oils%20of%20Betonica%20officinalis%20%28Lamiaceae%29%20from%20different%20wild%20populations%20in%20Kosovo",
+   "link_type": "search",
+   "citation": "Hajdari, A., Mustafa, B., Franz, C. and Novak, J (2011) 'Variability of essential oils of Betonica officinalis (Lamiaceae) from different wild populations in Kosovo', Natural Product Communications, 6(9), pp. 1343-1346.",
+   "abstract": "The essential oils of aerial parts and roots of Betonica officinalis from three Kosovo populations were analysed by GC and GC/MS, characterising the volatile-oil composition and its variability across wild populations of wood betony.",
+   "tier": "preclinical",
+   "display": "Variability of essential oils of Betonica officinalis (Lamiaceae) from different wild populations in Kosovo",
+   "plants": [
+    "Betony",
+    "Bishopwort",
+    "Purple betony",
+    "Wood Betony"
+   ],
+   "scientific": [
+    "Stachys officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0011",
    "key": "applequist2011yarrow",
    "type": "article",
@@ -23739,6 +24397,33 @@
     "Inflammation (general)",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1051",
+   "key": "starks2009solidago",
+   "type": "article",
+   "title": "Antibacterial clerodane diterpenes from Goldenrod (Solidago virgaurea)",
+   "authors": "Starks, C.M., Williams, R.B., Goering, M.G., O'Neil-Johnson, M. and others",
+   "journal": "Phytochemistry",
+   "year": "2010",
+   "doi": "10.1016/j.phytochem.2009.09.032",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2009.09.032",
+   "link_type": "doi",
+   "citation": "Starks, C.M., Williams, R.B., Goering, M.G., O'Neil-Johnson, M. and others (2010) 'Antibacterial clerodane diterpenes from Goldenrod (Solidago virgaurea)', Phytochemistry, 71(1), pp. 104-109. doi:10.1016/j.phytochem.2009.09.032",
+   "abstract": "Nine clerodane diterpenes (solidagoic acids C-I and two diolides) were isolated from goldenrod (Solidago virgaurea) and several showed antibacterial activity, characterising antimicrobial diterpene constituents of the plant.",
+   "tier": "preclinical",
+   "display": "Antibacterial clerodane diterpenes from Goldenrod (Solidago virgaurea)",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0086",
@@ -26303,6 +26988,36 @@
    ]
   },
   {
+   "ref_id": "REF-1044",
+   "key": "akerreta2007pyrenees",
+   "type": "article",
+   "title": "First comprehensive contribution to medical ethnobotany of Western Pyrenees",
+   "authors": "Akerreta, S., Cavero, R.Y. and Calvo, M.I.",
+   "journal": "Journal of Ethnobiology and Ethnomedicine",
+   "year": "2007",
+   "doi": "10.1186/1746-4269-3-26",
+   "url": "",
+   "link": "https://doi.org/10.1186/1746-4269-3-26",
+   "link_type": "doi",
+   "citation": "Akerreta, S., Cavero, R.Y. and Calvo, M.I (2007) 'First comprehensive contribution to medical ethnobotany of Western Pyrenees', Journal of Ethnobiology and Ethnomedicine, 3, pp. 26. doi:10.1186/1746-4269-3-26",
+   "abstract": "An ethnobotanical and medical study of the Navarre Pyrenees catalogued 92 species, highlighting the leaves of Scrophularia nodosa among the plants used in local traditional medicine and worth pharmacological evaluation.",
+   "tier": "traditional",
+   "display": "First comprehensive contribution to medical ethnobotany of Western Pyrenees",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [
+    "Alterative / depurative ('detox')"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0544",
    "key": "guo2007herbal",
    "type": "article",
@@ -27225,6 +27940,34 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1038",
+   "key": "sesterhenn2006scrophularia",
+   "type": "article",
+   "title": "Occurrence of iridoid glycosides in in vitro cultures and intact plants of Scrophularia nodosa L.",
+   "authors": "Sesterhenn, K., Distl, M. and Wink, M.",
+   "journal": "Plant Cell Reports",
+   "year": "2006",
+   "doi": "10.1007/s00299-006-0233-3",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00299-006-0233-3",
+   "link_type": "doi",
+   "citation": "Sesterhenn, K., Distl, M. and Wink, M (2006) 'Occurrence of iridoid glycosides in in vitro cultures and intact plants of Scrophularia nodosa L', Plant Cell Reports, 26(3), pp. 365-371. doi:10.1007/s00299-006-0233-3",
+   "abstract": "Shoot, root and callus cultures of Scrophularia nodosa were established and the iridoid glycosides harpagoside, aucubin and catalpol identified and quantified by LC-ESI-MS and HPLC. Harpagoside was highest in leaves of field plants (1.05%) and flowers of in vitro plantlets (1.10%); aucubin was highest in leaves of in vitro plantlets.",
+   "tier": "preclinical",
+   "display": "Occurrence of iridoid glycosides in in vitro cultures and intact plants of Scrophularia nodosa L.",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0673",
@@ -28784,6 +29527,35 @@
    ]
   },
   {
+   "ref_id": "REF-1050",
+   "key": "gross2002solidago",
+   "type": "article",
+   "title": "Antineoplastic activity of Solidago virgaurea on prostatic tumor cells in an SCID mouse model",
+   "authors": "Gross, S.C., Goodarzi, G., Watabe, M., Bandyopadhyay, S. and others",
+   "journal": "Nutrition and Cancer",
+   "year": "2002",
+   "doi": "10.1207/S15327914NC431_9",
+   "url": "",
+   "link": "https://doi.org/10.1207/S15327914NC431_9",
+   "link_type": "doi",
+   "citation": "Gross, S.C., Goodarzi, G., Watabe, M., Bandyopadhyay, S. and others (2002) 'Antineoplastic activity of Solidago virgaurea on prostatic tumor cells in an SCID mouse model', Nutrition and Cancer, 43(1), pp. 76-81. doi:10.1207/S15327914NC431_9",
+   "abstract": "Solidago virgaurea, traditionally used as an anti-inflammatory herb for prostatic disorders, inhibited the growth of prostatic tumour cells and showed antineoplastic activity in an SCID mouse model.",
+   "tier": "preclinical",
+   "display": "Antineoplastic activity of Solidago virgaurea on prostatic tumor cells in an SCID mouse model",
+   "plants": [
+    "European goldenrod",
+    "Goldenrod",
+    "woundwort"
+   ],
+   "scientific": [
+    "Solidago virgaurea"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0043",
    "key": "cavanagh2002biological",
    "type": "article",
@@ -29443,6 +30215,36 @@
     "Respiratory support",
     "Skin irritation",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-1035",
+   "key": "stevenson2002scrophularia",
+   "type": "article",
+   "title": "Wound healing activity of acylated iridoid glycosides from Scrophularia nodosa",
+   "authors": "Stevenson, P.C., Simmonds, M.S.J., Sampson, J., Houghton, P.J. and Grice, P.",
+   "journal": "Phytotherapy Research",
+   "year": "2002",
+   "doi": "10.1002/ptr.798",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.798",
+   "link_type": "doi",
+   "citation": "Stevenson, P.C., Simmonds, M.S.J., Sampson, J., Houghton, P.J. and Grice, P (2002) 'Wound healing activity of acylated iridoid glycosides from Scrophularia nodosa', Phytotherapy Research, 16(1), pp. 33-35. doi:10.1002/ptr.798",
+   "abstract": "Three acylated iridoid glycosides (scopolioside A, scrophuloside A4 and scrovalentinoside) were isolated from the dried seed pods of Scrophularia nodosa and shown in vitro to stimulate the growth of human dermal fibroblasts. The presence of these compounds may explain the European ethnobotanical use of figwort for healing wounds.",
+   "tier": "preclinical",
+   "display": "Wound healing activity of acylated iridoid glycosides from Scrophularia nodosa",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation"
    ]
   },
   {
@@ -30223,6 +31025,34 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1037",
+   "key": "miyase1999scrophularia",
+   "type": "article",
+   "title": "Acylated iridoid and phenylethanoid glycosides from the aerial parts of Scrophularia nodosa",
+   "authors": "Miyase, T. and Mimatsu, A.",
+   "journal": "Journal of Natural Products",
+   "year": "1999",
+   "doi": "10.1021/np9805746",
+   "url": "",
+   "link": "https://doi.org/10.1021/np9805746",
+   "link_type": "doi",
+   "citation": "Miyase, T. and Mimatsu, A (1999) 'Acylated iridoid and phenylethanoid glycosides from the aerial parts of Scrophularia nodosa', Journal of Natural Products, 62(8), pp. 1079-1084. doi:10.1021/np9805746",
+   "abstract": "From the aerial parts of Scrophularia nodosa, eighteen acylated iridoid glycosides and nine phenylethanoid glycosides were isolated, including eight new iridoid and two new phenylethanoid glycosides, characterising the principal constituents of figwort.",
+   "tier": "preclinical",
+   "display": "Acylated iridoid and phenylethanoid glycosides from the aerial parts of Scrophularia nodosa",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0110",
@@ -31476,6 +32306,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1043",
+   "key": "leclerc1949scrofular",
+   "type": "article",
+   "title": "[The scrofular, Scrophularia nodosa L.]",
+   "authors": "Leclerc, H.",
+   "journal": "Revue de Phytotherapie",
+   "year": "1949",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=%5BThe%20scrofular%2C%20Scrophularia%20nodosa%20L.%5D",
+   "link_type": "search",
+   "citation": "Leclerc, H (1949) '[The scrofular, Scrophularia nodosa L.]', Revue de Phytotherapie, 13(87), pp. 381-383.",
+   "abstract": "An early French phytotherapy monograph on Scrophularia nodosa (figwort), reviewing its traditional medicinal uses, notably as an alterative for chronic skin conditions.",
+   "tier": "traditional",
+   "display": "[The scrofular, Scrophularia nodosa L.]",
+   "plants": [
+    "Common figwort",
+    "Figwort",
+    "Scrofula plant",
+    "Woodland figwort"
+   ],
+   "scientific": [
+    "Scrophularia nodosa"
+   ],
+   "actions": [
+    "Alterative / depurative ('detox')"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0098",

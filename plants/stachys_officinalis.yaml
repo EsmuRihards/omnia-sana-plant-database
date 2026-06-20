@@ -18,6 +18,8 @@ constituents:
   note: Anti-inflammatory and antispasmodic constituents.
   reference_ids:
   - REF-0535
+  - REF-1062
+  - REF-1063
 - name: Alkaloids (stachydrine, betaine)
   compounds:
   - alkaloid
@@ -37,17 +39,26 @@ constituents:
   reference_ids:
   - REF-0535
   - REF-0621
+  - REF-1056
+  - REF-1057
+  - REF-1058
+  - REF-1060
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and antispasmodic
   reference_ids:
   - REF-0535
+  - REF-1062
   status: needs-review
 - action: antioxidant
   note: Antioxidant - among the strongest free-radical scavengers in a comparative study of Lamiaceae
     herbs
   reference_ids:
   - REF-0621
+  - REF-1055
+  - REF-1056
+  - REF-1059
+  - REF-1061
   status: verified
 - action: antispasmodic
   note: Anti-inflammatory and antispasmodic
@@ -100,6 +111,7 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0535
+  - REF-1062
   status: needs-review
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
@@ -142,13 +154,27 @@ contraindications:
   - REF-0534
   - REF-0535
   status: needs-review
+references:
+- REF-1055
+- REF-1056
+- REF-1057
+- REF-1058
+- REF-1059
+- REF-1042
+- REF-1060
+- REF-1061
+- REF-1062
+- REF-1063
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (PeaceHealth and Naturopathic
   Herbalist monographs). Stachys officinalis = Betonica officinalis. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (headache, anxiety, nervous-tension, indigestion); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced comparative
   study of Lamiaceae antioxidants in which Stachys officinalis was among the strongest free-radical scavengers
   (REF-0621), adding an antioxidant action. | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1055, REF-1056, REF-1057, REF-1058, REF-1059,
+  REF-1042, REF-1060, REF-1061, REF-1062, REF-1063) — woven into relevant actions/indications and the
+  plant-level references bucket.'

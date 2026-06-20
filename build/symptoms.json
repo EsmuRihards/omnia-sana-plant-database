@@ -9011,6 +9011,30 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0452",
+      "REF-1041"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0451",
+      "REF-0452",
+      "REF-1035",
+      "REF-1040"
+     ]
+    },
+    {
      "condition": "acne",
      "label": "Acne",
      "evidence": 1,
@@ -9054,16 +9078,6 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0452"
-     ]
-    },
-    {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
      "evidence": 1,
@@ -9086,17 +9100,6 @@
     {
      "condition": "psoriasis",
      "label": "Psoriasis",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0451",
-      "REF-0452"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -9929,20 +9932,48 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
      "references": [
       "REF-0016",
       "REF-0069",
-      "REF-0244"
+      "REF-0244",
+      "REF-1045",
+      "REF-1048"
      ]
     },
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244",
+      "REF-1046"
+     ]
+    },
+    {
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244",
+      "REF-1048"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -9967,30 +9998,6 @@
     {
      "condition": "swelling",
      "label": "Swelling / fluid retention",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0016",
-      "REF-0069",
-      "REF-0244"
-     ]
-    },
-    {
-     "condition": "urinary-support",
-     "label": "Urinary support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0016",
-      "REF-0069",
-      "REF-0244"
-     ]
-    },
-    {
-     "condition": "uti",
-     "label": "Urinary tract infection (UTI)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -19920,6 +19927,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0535",
+      "REF-1062"
+     ]
+    },
+    {
      "condition": "anxiety",
      "label": "Anxiety",
      "evidence": 1,
@@ -19964,16 +19982,6 @@
     {
      "condition": "indigestion",
      "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0535"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

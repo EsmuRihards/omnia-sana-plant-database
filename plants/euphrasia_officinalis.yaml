@@ -135,9 +135,13 @@ contraindications:
   reference_ids:
   - REF-0449
   status: verified
+references:
+- REF-0812
+- REF-0813
+- REF-0814
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study;
   Herbal Reality monograph). Euphrasia is now placed in Orobanchaceae (formerly Scrophulariaceae). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, allergy, infection);
@@ -145,4 +149,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-
   2026-06-14 with a PubMed-sourced prospective cohort trial of Euphrasia single-dose eye drops in conjunctivitis
   (REF-0613; complete recovery or clear improvement in ~98% of patients, well tolerated - open-label,
   single-arm). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
+  bucket (least-cited enrichment): REF-0812, REF-0813, REF-0814.'

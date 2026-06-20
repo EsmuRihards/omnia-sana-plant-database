@@ -88,13 +88,18 @@ contraindications:
   reference_ids:
   - REF-0428
   status: verified
+references:
+- REF-0806
+- REF-0807
+- REF-0808
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor pharmacology study; CYP/P-gp/PXR
   herb-drug-interaction study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (insomnia, anxiety, nervous-tension, pain); associations retained and now part-mapped and
   cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind, placebo-controlled RCT (n=264)
   of a fixed Eschscholzia + Crataegus + magnesium combination that improved mild-to-moderate anxiety (REF-0606;
   a combination product, not California poppy alone). | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0806, REF-0807, REF-0808.'

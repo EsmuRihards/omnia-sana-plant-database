@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 799,
+ "count": 814,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -349,6 +349,33 @@
     "Pain (general)",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-0808",
+   "key": "kalyniukova2025eschscholzia",
+   "type": "article",
+   "title": "Comprehensive Metabolomic Profiling and Biological Activity Analysis of Eschscholzia californica Extracts Using LC-ESI-QTOF-MS",
+   "authors": "Kalyniukova, A., Ahmed, S., Ak, G., Saka, E. et al.",
+   "journal": "Food Science & Nutrition",
+   "year": "2025",
+   "doi": "10.1002/fsn3.70885",
+   "url": "",
+   "link": "https://doi.org/10.1002/fsn3.70885",
+   "link_type": "doi",
+   "citation": "Kalyniukova, A., Ahmed, S., Ak, G., Saka, E. et al (2025) 'Comprehensive Metabolomic Profiling and Biological Activity Analysis of Eschscholzia californica Extracts Using LC-ESI-QTOF-MS', Food Science & Nutrition, 13(9), pp. e70885. doi:10.1002/fsn3.70885",
+   "abstract": "LC-ESI-QTOF-MS profiling of Eschscholzia californica aerial-part extracts identified 70 compounds including rutin, quinoline alkaloids, morphine derivatives and scoulerine. Extracts showed antioxidant, anti-acetylcholinesterase, anti-tyrosinase and anti-glucosidase activity, and in silico studies showed protopine, rutin, eschscholtzidine, boldine and scoulerine inhibit insomnia-related DRD5, DRD4 and SERT proteins, supporting the plant's traditional use for sleep.",
+   "tier": "preclinical",
+   "display": "Comprehensive Metabolomic Profiling and Biological Activity Analysis of Eschscholzia californica Extracts Using LC-ESI-QTOF-MS",
+   "plants": [
+    "California Poppy",
+    "Cup of gold",
+    "Golden poppy"
+   ],
+   "scientific": [
+    "Eschscholzia californica"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0788",
@@ -1213,6 +1240,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0802",
+   "key": "wrobelbiedrawa2024adaptogens",
+   "type": "article",
+   "title": "Anti-Neuroinflammatory Effects of Adaptogens: A Mini-Review",
+   "authors": "Wróbel-Biedrawa, D. and Podolak, I.",
+   "journal": "Molecules",
+   "year": "2024",
+   "doi": "10.3390/molecules29040866",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules29040866",
+   "link_type": "doi",
+   "citation": "Wróbel-Biedrawa, D. and Podolak, I (2024) 'Anti-Neuroinflammatory Effects of Adaptogens: A Mini-Review', Molecules, 29(4), pp. 866. doi:10.3390/molecules29040866",
+   "abstract": "Adaptogens, including Eleutherococcus senticosus, exhibit complex nonspecific effects that increase the body's ability to adapt and survive stress. This mini-review presents the anti-neuroinflammatory potential of the most important adaptogenic plants: they display anti-inflammatory effects, regulating the gene expression of pro- and anti-inflammatory cytokines and modulating signaling pathways such as NF-kB, relevant to central-nervous-system disorders.",
+   "tier": "traditional",
+   "display": "Anti-Neuroinflammatory Effects of Adaptogens: A Mini-Review",
+   "plants": [
+    "Devil's bush",
+    "Eleuthero",
+    "Siberian Ginseng",
+    "Touch-me-not"
+   ],
+   "scientific": [
+    "Eleutherococcus senticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0689",
    "key": "jelaca2024alchemillamelanoma",
    "type": "article",
@@ -1422,6 +1477,33 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-0814",
+   "key": "ververis2024euphrasia",
+   "type": "article",
+   "title": "Chemical Characterization and Assessment of the Neuroprotective Potential of Euphrasia officinalis",
+   "authors": "Ververis, A., Kyriakou, S., Paraskeva, H., Panayiotidis, M.I. et al.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2024",
+   "doi": "10.3390/ijms252312902",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms252312902",
+   "link_type": "doi",
+   "citation": "Ververis, A., Kyriakou, S., Paraskeva, H., Panayiotidis, M.I. et al (2024) 'Chemical Characterization and Assessment of the Neuroprotective Potential of Euphrasia officinalis', International Journal of Molecular Sciences, 25(23), pp. 12902. doi:10.3390/ijms252312902",
+   "abstract": "Eyebright (Euphrasia officinalis), used in folk medicine for eye disorders and memory loss, was extracted with solvents of different polarities. The extracts showed notable antioxidant capacity, and five extracts had significant anti-neurotoxic properties, enhancing cell viability by 17.5-22.6% in human neuroblastoma cells exposed to amyloid-beta peptides, highlighting the neuroprotective potential of eyebright.",
+   "tier": "preclinical",
+   "display": "Chemical Characterization and Assessment of the Neuroprotective Potential of Euphrasia officinalis",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0775",
@@ -1870,6 +1952,33 @@
     "Urinary tract infection (UTI)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0805",
+   "key": "vlase2024epilobium",
+   "type": "article",
+   "title": "Investigation of Epilobium hirsutum L. Optimized Extract's Anti-Inflammatory and Antitumor Potential",
+   "authors": "Vlase, A.M., Toiu, A., Gligor, O., Muntean, D. et al.",
+   "journal": "Plants (Basel)",
+   "year": "2024",
+   "doi": "10.3390/plants13020198",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants13020198",
+   "link_type": "doi",
+   "citation": "Vlase, A.M., Toiu, A., Gligor, O., Muntean, D. et al (2024) 'Investigation of Epilobium hirsutum L. Optimized Extract's Anti-Inflammatory and Antitumor Potential', Plants (Basel), 13(2), pp. 198. doi:10.3390/plants13020198",
+   "abstract": "An optimized extract of Epilobium hirsutum (a willowherb congener) was tested in animal models. In carrageenan-induced paw inflammation it showed anti-inflammatory properties comparable to indomethacin, and in an Ehrlich ascites carcinoma model it reduced tumor-associated inflammation and oxidative stress, indicating potential as a natural adjuvant against inflammation and oxidative stress.",
+   "tier": "preclinical",
+   "display": "Investigation of Epilobium hirsutum L. Optimized Extract's Anti-Inflammatory and Antitumor Potential",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0489",
@@ -2471,6 +2580,34 @@
    ]
   },
   {
+   "ref_id": "REF-0810",
+   "key": "elangovan2023eucalyptus",
+   "type": "article",
+   "title": "Antibacterial Properties of Eucalyptus globulus Essential Oil against MRSA: A Systematic Review",
+   "authors": "Elangovan, S. and Mudgil, P.",
+   "journal": "Antibiotics (Basel)",
+   "year": "2023",
+   "doi": "10.3390/antibiotics12030474",
+   "url": "",
+   "link": "https://doi.org/10.3390/antibiotics12030474",
+   "link_type": "doi",
+   "citation": "Elangovan, S. and Mudgil, P (2023) 'Antibacterial Properties of Eucalyptus globulus Essential Oil against MRSA: A Systematic Review', Antibiotics (Basel), 12(3), pp. 474. doi:10.3390/antibiotics12030474",
+   "abstract": "A systematic review of 20 studies (2002-2022) on the antibacterial properties of Eucalyptus globulus essential oil against methicillin-resistant Staphylococcus aureus (MRSA). The findings suggest E. globulus essential oil has antibacterial properties against MRSA, which can be enhanced when used in combination with other essential oils and antibiotics, supporting its potential as an alternative antimicrobial agent.",
+   "tier": "review",
+   "display": "Antibacterial Properties of Eucalyptus globulus Essential Oil against MRSA: A Systematic Review",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0649",
    "key": "serrano2023agedgarlic",
    "type": "article",
@@ -2706,6 +2843,34 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0809",
+   "key": "cmikova2023eucalyptus",
+   "type": "article",
+   "title": "Chemical Composition and Biological Activities of Eucalyptus globulus Essential Oil",
+   "authors": "Čmiková, N., Galovičová, L., Schwarzová, M., Vukic, M.D. et al.",
+   "journal": "Plants (Basel)",
+   "year": "2023",
+   "doi": "10.3390/plants12051076",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants12051076",
+   "link_type": "doi",
+   "citation": "Čmiková, N., Galovičová, L., Schwarzová, M., Vukic, M.D. et al (2023) 'Chemical Composition and Biological Activities of Eucalyptus globulus Essential Oil', Plants (Basel), 12(5), pp. 1076. doi:10.3390/plants12051076",
+   "abstract": "Eucalyptus globulus essential oil (EGEO), dominated by 1,8-cineole (63.1%), p-cymene, alpha-pinene and limonene (over 99% monoterpenes), was analysed for antimicrobial, antibiofilm, antioxidant and insecticidal activity. EGEO showed antioxidant capacity, antimicrobial activity (strongest against Gram-positive bacteria and microscopic fungi, especially in the vapour phase), antibiofilm activity and insecticidal activity.",
+   "tier": "preclinical",
+   "display": "Chemical Composition and Biological Activities of Eucalyptus globulus Essential Oil",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0121",
@@ -4165,6 +4330,34 @@
    ]
   },
   {
+   "ref_id": "REF-0811",
+   "key": "zonfrillo2022eucalyptus",
+   "type": "article",
+   "title": "Essential Oil from Eucalyptus globulus (Labill.) Activates Complement Receptor-Mediated Phagocytosis and Stimulates Podosome Formation in Human Monocyte-Derived Macrophages",
+   "authors": "Zonfrillo, M., Andreola, F., Krasnowska, E.K., Sferrazza, G. et al.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27113488",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27113488",
+   "link_type": "doi",
+   "citation": "Zonfrillo, M., Andreola, F., Krasnowska, E.K., Sferrazza, G. et al (2022) 'Essential Oil from Eucalyptus globulus (Labill.) Activates Complement Receptor-Mediated Phagocytosis and Stimulates Podosome Formation in Human Monocyte-Derived Macrophages', Molecules, 27(11), pp. 3488. doi:10.3390/molecules27113488",
+   "abstract": "Essential oil from Eucalyptus globulus, and its major component eucalyptol, stimulated the phagocytic activity of human monocyte-derived macrophages by activating complement-receptor-mediated phagocytosis and stimulating podosome formation, confirming the essential oil as a potent activator of innate cell-mediated immunity in addition to its known antiseptic and anti-inflammatory properties.",
+   "tier": "preclinical",
+   "display": "Essential Oil from Eucalyptus globulus (Labill.) Activates Complement Receptor-Mediated Phagocytosis and Stimulates Podosome Formation in Human Monocyte-Derived Macrophages",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0437",
    "key": "european2022european",
    "type": "misc",
@@ -4528,6 +4721,34 @@
    ],
    "scientific": [
     "Bacopa monnieri"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0800",
+   "key": "li2022eleutherococcus",
+   "type": "article",
+   "title": "Pharmacological effects of Eleutherococcus senticosus on the neurological disorders",
+   "authors": "Li, X.T., Zhou, J.C., Zhou, Y., Ren, Y.S. et al.",
+   "journal": "Phytotherapy Research",
+   "year": "2022",
+   "doi": "10.1002/ptr.7555",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7555",
+   "link_type": "doi",
+   "citation": "Li, X.T., Zhou, J.C., Zhou, Y., Ren, Y.S. et al (2022) 'Pharmacological effects of Eleutherococcus senticosus on the neurological disorders', Phytotherapy Research, 36(9), pp. 3490-3504. doi:10.1002/ptr.7555",
+   "abstract": "Eleutherococcus senticosus is widely used in traditional medicine with anti-fatigue, sleep-improving and memory-enhancing effects. This review summarises its therapeutic effects on fatigue, depression, Alzheimer's disease, Parkinson's disease and cerebral ischemia, and the underlying mechanisms (anti-oxidative damage, anti-inflammation, neurotransmitter modulation, improvement of neuronal growth and anti-apoptosis), supporting its development as a neuroprotective phytotherapy agent.",
+   "tier": "traditional",
+   "display": "Pharmacological effects of Eleutherococcus senticosus on the neurological disorders",
+   "plants": [
+    "Devil's bush",
+    "Eleuthero",
+    "Siberian Ginseng",
+    "Touch-me-not"
+   ],
+   "scientific": [
+    "Eleutherococcus senticosus"
    ],
    "actions": [],
    "conditions": []
@@ -5185,6 +5406,34 @@
     "Oral & throat health",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-0801",
+   "key": "li2021eleutherococcuspoly",
+   "type": "article",
+   "title": "Advances in the Extraction, Purification, Structural Characteristics and Biological Activities of Eleutherococcus senticosus Polysaccharides",
+   "authors": "Li, X., Chen, C., Leng, A. and Qu, J.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2021",
+   "doi": "10.3389/fphar.2021.753007",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2021.753007",
+   "link_type": "doi",
+   "citation": "Li, X., Chen, C., Leng, A. and Qu, J (2021) 'Advances in the Extraction, Purification, Structural Characteristics and Biological Activities of Eleutherococcus senticosus Polysaccharides', Frontiers in Pharmacology, 12, pp. 753007. doi:10.3389/fphar.2021.753007",
+   "abstract": "Eleutherococcus senticosus is a medicine-and-food plant with anti-tumor, anti-inflammatory, central-nervous-system and cardiovascular-protective, anti-radiation and anti-fatigue effects. This review focuses on its polysaccharides (ESPS), summarising progress in their extraction, separation, structural characterisation and biological activity as a basis for further development and utilisation of this medicinal and edible resource.",
+   "tier": "traditional",
+   "display": "Advances in the Extraction, Purification, Structural Characteristics and Biological Activities of Eleutherococcus senticosus Polysaccharides",
+   "plants": [
+    "Devil's bush",
+    "Eleuthero",
+    "Siberian Ginseng",
+    "Touch-me-not"
+   ],
+   "scientific": [
+    "Eleutherococcus senticosus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0393",
@@ -7668,6 +7917,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0813",
+   "key": "dambrosio2018euphrasia",
+   "type": "article",
+   "title": "Minor acetylated metabolites from Euphrasia rostkoviana",
+   "authors": "D'Ambrosio, M., Ciocarlan, A. and Aricu, A.",
+   "journal": "Natural Product Research",
+   "year": "2020",
+   "doi": "10.1080/14786419.2018.1530227",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2018.1530227",
+   "link_type": "doi",
+   "citation": "D'Ambrosio, M., Ciocarlan, A. and Aricu, A (2020) 'Minor acetylated metabolites from Euphrasia rostkoviana', Natural Product Research, 34(2), pp. 290-295. doi:10.1080/14786419.2018.1530227",
+   "abstract": "The phenylethanoids rostkovianoside and 6'-O-acetylcrassifolioside and the flavonoid rutin 3\"'-acetate were isolated from the methanolic extract of the aerial parts of Euphrasia rostkoviana (syn. E. officinalis), and their structures elucidated by spectroscopic methods, characterising the phenylethanoid glycoside and flavonoid constituents of eyebright.",
+   "tier": "preclinical",
+   "display": "Minor acetylated metabolites from Euphrasia rostkoviana",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0067",
    "key": "eur2020kumins",
    "type": "misc",
@@ -8740,6 +9016,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0804",
+   "key": "cicero2019nutraceutical",
+   "type": "article",
+   "title": "Nutraceutical treatment and prevention of benign prostatic hyperplasia and prostate cancer",
+   "authors": "Cicero, A.F.G., Allkanjari, O., Busetto, G.M., Cai, T. et al.",
+   "journal": "Archivio Italiano di Urologia e Andrologia",
+   "year": "2019",
+   "doi": "10.4081/aiua.2019.3.139",
+   "url": "",
+   "link": "https://doi.org/10.4081/aiua.2019.3.139",
+   "link_type": "doi",
+   "citation": "Cicero, A.F.G., Allkanjari, O., Busetto, G.M., Cai, T. et al (2019) 'Nutraceutical treatment and prevention of benign prostatic hyperplasia and prostate cancer', Archivio Italiano di Urologia e Andrologia, 91(3), pp. 139-152. doi:10.4081/aiua.2019.3.139",
+   "abstract": "This review covers medicinal plants used for prostate diseases such as benign prostatic hyperplasia, prostatitis and chronic pelvic pain syndrome, whose desired pharmacological properties are anti-androgenic, anti-estrogenic, antiproliferative, antioxidant and anti-inflammatory. Alongside Serenoa repens, Pygeum africanum and Urtica dioica, Epilobium spp is highlighted as a promising plant for prostatic disease, supporting the traditional use of willowherb for prostate health.",
+   "tier": "traditional",
+   "display": "Nutraceutical treatment and prevention of benign prostatic hyperplasia and prostate cancer",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0780",
    "key": "wei2019coriander",
    "type": "article",
@@ -9572,6 +9875,33 @@
    ],
    "scientific": [
     "Serenoa repens"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0803",
+   "key": "vitalone2018epilobium",
+   "type": "article",
+   "title": "Epilobium spp: Pharmacology and Phytochemistry",
+   "authors": "Vitalone, A. and Allkanjari, O.",
+   "journal": "Phytotherapy Research",
+   "year": "2018",
+   "doi": "10.1002/ptr.6072",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6072",
+   "link_type": "doi",
+   "citation": "Vitalone, A. and Allkanjari, O (2018) 'Epilobium spp: Pharmacology and Phytochemistry', Phytotherapy Research, 32(7), pp. 1229-1240. doi:10.1002/ptr.6072",
+   "abstract": "Epilobium species and their extracts are popular in folk medicine for a wide range of applications. This review analyses the pharmacological properties of Epilobium spp (anti-inflammatory, antioxidant, antitumor, antimicrobial, analgesic and antiandrogenic) and whether they justify the traditional use of willowherb, particularly for prostate conditions, noting that randomized controlled trials are still needed.",
+   "tier": "traditional",
+   "display": "Epilobium spp: Pharmacology and Phytochemistry",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
    ],
    "actions": [],
    "conditions": []
@@ -12283,6 +12613,33 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-0812",
+   "key": "novy2015euphrasia",
+   "type": "article",
+   "title": "Composition and Antimicrobial Activity of Euphrasia rostkoviana Hayne Essential Oil",
+   "authors": "Novy, P., Davidova, H., Serrano-Rojero, C.S., Rondevaldova, J. et al.",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2015",
+   "doi": "10.1155/2015/734101",
+   "url": "",
+   "link": "https://doi.org/10.1155/2015/734101",
+   "link_type": "doi",
+   "citation": "Novy, P., Davidova, H., Serrano-Rojero, C.S., Rondevaldova, J. et al (2015) 'Composition and Antimicrobial Activity of Euphrasia rostkoviana Hayne Essential Oil', Evidence-Based Complementary and Alternative Medicine, 2015, pp. 734101. doi:10.1155/2015/734101",
+   "abstract": "Eyebright (Euphrasia rostkoviana, syn. E. officinalis) is traditionally used in Europe as an eyewash to treat eye ailments such as conjunctivitis and blepharitis associated with bacterial infections. This study characterised the essential oil (main constituents n-hexadecanoic acid, thymol, myristic acid, linalool and anethole) and showed antimicrobial activity against organisms associated with eye infections, especially Gram-positive bacteria, supporting the traditional ophthalmic use.",
+   "tier": "preclinical",
+   "display": "Composition and Antimicrobial Activity of Euphrasia rostkoviana Hayne Essential Oil",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0161",
@@ -22691,6 +23048,33 @@
    ]
   },
   {
+   "ref_id": "REF-0807",
+   "key": "rolland2001eschscholzia",
+   "type": "article",
+   "title": "Neurophysiological effects of an extract of Eschscholzia californica Cham. (Papaveraceae)",
+   "authors": "Rolland, A., Fleurentin, J., Lanhers, M.C., Misslin, R. and Mortier, F.",
+   "journal": "Phytotherapy Research",
+   "year": "2001",
+   "doi": "10.1002/ptr.884",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.884",
+   "link_type": "doi",
+   "citation": "Rolland, A., Fleurentin, J., Lanhers, M.C., Misslin, R. and Mortier, F (2001) 'Neurophysiological effects of an extract of Eschscholzia californica Cham. (Papaveraceae)', Phytotherapy Research, 15(5), pp. 377-381. doi:10.1002/ptr.884",
+   "abstract": "An aqueous-alcohol extract of Eschscholzia californica was evaluated for its mechanism of sedative and anxiolytic action. The extract appeared to possess affinity for the benzodiazepine receptor (flumazenil, a benzodiazepine antagonist, suppressed its sedative and anxiolytic effects) and induced peripheral analgesic effects, but had no antidepressant, neuroleptic or antihistaminic effects, clarifying the basis of California poppy's calming action.",
+   "tier": "preclinical",
+   "display": "Neurophysiological effects of an extract of Eschscholzia californica Cham. (Papaveraceae)",
+   "plants": [
+    "California Poppy",
+    "Cup of gold",
+    "Golden poppy"
+   ],
+   "scientific": [
+    "Eschscholzia californica"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0127",
    "key": "josling2001preventing",
    "type": "article",
@@ -24112,6 +24496,33 @@
     "Arthritis / joint pain",
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-0806",
+   "key": "rolland1991eschscholzia",
+   "type": "article",
+   "title": "Behavioural effects of the American traditional plant Eschscholzia californica: sedative and anxiolytic properties",
+   "authors": "Rolland, A., Fleurentin, J., Lanhers, M.C., Younos, C. et al.",
+   "journal": "Planta Medica",
+   "year": "1991",
+   "doi": "10.1055/s-2006-960076",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-960076",
+   "link_type": "doi",
+   "citation": "Rolland, A., Fleurentin, J., Lanhers, M.C., Younos, C. et al (1991) 'Behavioural effects of the American traditional plant Eschscholzia californica: sedative and anxiolytic properties', Planta Medica, 57(3), pp. 212-216. doi:10.1055/s-2006-960076",
+   "abstract": "An aqueous extract of Eschscholzia californica, traditionally used by Californian populations for its analgesic and sedative properties, reduced behavioural parameters in mice at doses above 100 mg/kg and induced sleep, validating its sedative properties; at 25 mg/kg it produced anxiolytic (anticonflict) effects without toxic effects, supporting the traditional sedative/anxiolytic use of California poppy.",
+   "tier": "preclinical",
+   "display": "Behavioural effects of the American traditional plant Eschscholzia californica: sedative and anxiolytic properties",
+   "plants": [
+    "California Poppy",
+    "Cup of gold",
+    "Golden poppy"
+   ],
+   "scientific": [
+    "Eschscholzia californica"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0016",

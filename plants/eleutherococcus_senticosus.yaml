@@ -130,13 +130,18 @@ contraindications:
   reference_ids:
   - REF-0509
   status: needs-review
+references:
+- REF-0800
+- REF-0801
+- REF-0802
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursing Practice review; Nutrients
   adaptogens review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (fatigue, stress, cognitive-function, immune-support); associations retained and now part-mapped and
   cited. Further enriched 2026-06-14 with a PubMed-sourced comprehensive review of E. senticosus phytochemistry
   and pharmacology (REF-0587) supporting the adaptogenic and immunomodulatory actions and adding preclinical
   neuroprotective/antidiabetic activity (needs-review). | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0800, REF-0801, REF-0802.'

@@ -11209,9 +11209,14 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0800",
+    "REF-0801",
+    "REF-0802"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "elymus-repens",
@@ -11528,9 +11533,14 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0803",
+    "REF-0804",
+    "REF-0805"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "equisetum-arvense",
@@ -11887,9 +11897,14 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0806",
+    "REF-0807",
+    "REF-0808"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "eucalyptus-globulus",
@@ -12062,9 +12077,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0809",
+    "REF-0810",
+    "REF-0811"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "euphrasia-officinalis",
@@ -12257,9 +12277,14 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0812",
+    "REF-0813",
+    "REF-0814"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "filipendula-ulmaria",

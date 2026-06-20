@@ -23710,7 +23710,8 @@
      "action": "antispasmodic",
      "note": "Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)",
      "reference_ids": [
-      "REF-0525"
+      "REF-0525",
+      "REF-1000"
      ],
      "status": "needs-review"
     },
@@ -23719,7 +23720,8 @@
      "note": "Antitussive - calms a persistent dry, irritating cough (prunasin quietens the cough reflex)",
      "reference_ids": [
       "REF-0524",
-      "REF-0525"
+      "REF-0525",
+      "REF-0999"
      ],
      "status": "verified"
     }
@@ -23754,7 +23756,8 @@
      "condition": "muscle-spasm",
      "note": "inferred from antispasmodic action",
      "reference_ids": [
-      "REF-0525"
+      "REF-0525",
+      "REF-1000"
      ],
      "status": "needs-review"
     },
@@ -23786,9 +23789,18 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0999",
+    "REF-1000",
+    "REF-0628",
+    "REF-1001",
+    "REF-1002",
+    "REF-1003",
+    "REF-1004"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "psilocybe-cubensis",
@@ -24109,7 +24121,13 @@
      "reference_ids": [
       "REF-0037",
       "REF-0236",
-      "REF-0311"
+      "REF-0311",
+      "REF-0979",
+      "REF-0980",
+      "REF-0981",
+      "REF-0983",
+      "REF-0984",
+      "REF-0987"
      ],
      "status": "verified"
     },
@@ -24118,7 +24136,11 @@
      "reference_ids": [
       "REF-0037",
       "REF-0236",
-      "REF-0311"
+      "REF-0311",
+      "REF-0979",
+      "REF-0981",
+      "REF-0984",
+      "REF-0985"
      ],
      "status": "verified"
     },
@@ -24127,7 +24149,11 @@
      "reference_ids": [
       "REF-0037",
       "REF-0236",
-      "REF-0311"
+      "REF-0311",
+      "REF-0979",
+      "REF-0981",
+      "REF-0983",
+      "REF-0984"
      ],
      "status": "verified"
     }
@@ -24139,7 +24165,8 @@
      "reference_ids": [
       "REF-0037",
       "REF-0236",
-      "REF-0311"
+      "REF-0311",
+      "REF-0987"
      ],
      "status": "needs-review"
     },
@@ -24148,7 +24175,8 @@
      "reference_ids": [
       "REF-0037",
       "REF-0236",
-      "REF-0311"
+      "REF-0311",
+      "REF-0984"
      ],
      "status": "verified"
     },
@@ -24158,7 +24186,8 @@
      "reference_ids": [
       "REF-0037",
       "REF-0236",
-      "REF-0311"
+      "REF-0311",
+      "REF-0980"
      ],
      "status": "needs-review"
     },
@@ -24195,9 +24224,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0979",
+    "REF-0980",
+    "REF-0981",
+    "REF-0982",
+    "REF-0983",
+    "REF-0984",
+    "REF-0985",
+    "REF-0986",
+    "REF-0987",
+    "REF-0988"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "rhodiola-rosea",
@@ -24790,7 +24831,9 @@
      "reference_ids": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0989",
+      "REF-0990"
      ],
      "status": "verified"
     },
@@ -24799,7 +24842,13 @@
      "reference_ids": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0990",
+      "REF-0992",
+      "REF-0993",
+      "REF-0994",
+      "REF-0995",
+      "REF-0997"
      ],
      "status": "verified"
     }
@@ -24810,7 +24859,9 @@
      "reference_ids": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0989",
+      "REF-0990"
      ],
      "status": "verified"
     },
@@ -24820,7 +24871,8 @@
      "reference_ids": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0990"
      ],
      "status": "needs-review"
     },
@@ -24829,7 +24881,9 @@
      "reference_ids": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0991",
+      "REF-0994"
      ],
      "status": "verified"
     },
@@ -24839,7 +24893,8 @@
      "reference_ids": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0996"
      ],
      "status": "needs-review"
     }
@@ -24866,9 +24921,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0989",
+    "REF-0990",
+    "REF-0991",
+    "REF-0992",
+    "REF-0993",
+    "REF-0994",
+    "REF-0995",
+    "REF-0996",
+    "REF-0997",
+    "REF-0998"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "rosa-rugosa",

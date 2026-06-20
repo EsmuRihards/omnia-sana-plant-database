@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 978,
+ "count": 1004,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -852,6 +852,33 @@
    ]
   },
   {
+   "ref_id": "REF-0988",
+   "key": "espinosa2025reynoutria",
+   "type": "article",
+   "title": "Physicochemical and rheological characteristics of commercial Greek-style yogurt enriched with Polygonum cuspidatum roots or the P. cuspidatum beta-cyclodextrin inclusion complex",
+   "authors": "Espinosa-Andrews, H., Morales-Hernandez, N., Garcia-Marquez, E. and others",
+   "journal": "Food Research International",
+   "year": "2025",
+   "doi": "10.1016/j.foodres.2025.115854",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodres.2025.115854",
+   "link_type": "doi",
+   "citation": "Espinosa-Andrews, H., Morales-Hernandez, N., Garcia-Marquez, E. and others (2025) 'Physicochemical and rheological characteristics of commercial Greek-style yogurt enriched with Polygonum cuspidatum roots or the P. cuspidatum beta-cyclodextrin inclusion complex', Food Research International, 203, pp. 115854. doi:10.1016/j.foodres.2025.115854",
+   "abstract": "Greek-style yogurt was enriched with Polygonum cuspidatum (Reynoutria japonica) root powder or its beta-cyclodextrin inclusion complex, and the physicochemical and rheological effects were characterised, illustrating a functional-food application of the antioxidant-rich knotweed root.",
+   "tier": "preclinical",
+   "display": "Physicochemical and rheological characteristics of commercial Greek-style yogurt enriched with Polygonum cuspidatum roots or the P. cuspidatum beta-cyclodextrin inclusion complex",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0874",
    "key": "trendafilova2025primula",
    "type": "article",
@@ -1222,6 +1249,37 @@
     "Zea mays"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0997",
+   "key": "michalska2025rosa",
+   "type": "article",
+   "title": "Valorization of Rosehip (Rosa canina L.) Pomace Using Unconventional Carbohydrate Carriers for Beverage Obtainment",
+   "authors": "Michalska-Ciechanowska, A., Brzezowska, J., Nicolet, N., Haladyn, K. and others",
+   "journal": "Molecules",
+   "year": "2025",
+   "doi": "10.3390/molecules30010141",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules30010141",
+   "link_type": "doi",
+   "citation": "Michalska-Ciechanowska, A., Brzezowska, J., Nicolet, N., Haladyn, K. and others (2025) 'Valorization of Rosehip (Rosa canina L.) Pomace Using Unconventional Carbohydrate Carriers for Beverage Obtainment', Molecules, 30(1), pp. 141. doi:10.3390/molecules30010141",
+   "abstract": "Rosehip (Rosa canina) juice and pomace powders were produced with carbohydrate carriers for beverage development. Non-pasteurised pomace powders exhibited higher antioxidant capacity than juice counterparts, highlighting the value of rosehip pomace as an antioxidant-rich matrix for functional beverages.",
+   "tier": "preclinical",
+   "display": "Valorization of Rosehip (Rosa canina L.) Pomace Using Unconventional Carbohydrate Carriers for Beverage Obtainment",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -2857,6 +2915,36 @@
    ]
   },
   {
+   "ref_id": "REF-0983",
+   "key": "lai2024reynoutria",
+   "type": "article",
+   "title": "Polygonum cuspidatum polysaccharide: A review of its extraction and purification, structure analysis, and biological activity",
+   "authors": "Lai, Y., Zhou, C., Huang, P., Dong, Z. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2024",
+   "doi": "10.1016/j.jep.2024.118079",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2024.118079",
+   "link_type": "doi",
+   "citation": "Lai, Y., Zhou, C., Huang, P., Dong, Z. and others (2024) 'Polygonum cuspidatum polysaccharide: A review of its extraction and purification, structure analysis, and biological activity', Journal of Ethnopharmacology, 331, pp. 118079. doi:10.1016/j.jep.2024.118079",
+   "abstract": "The dried roots and rhizomes of Polygonum cuspidatum (Reynoutria japonica) are used as medicinal herbs. This review summarises the extraction, purification, structure and biological activities of its polysaccharides, including antioxidant, anti-inflammatory, immunomodulatory and antitumour effects.",
+   "tier": "traditional",
+   "display": "Polygonum cuspidatum polysaccharide: A review of its extraction and purification, structure analysis, and biological activity",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0643",
    "key": "li2024hericiumcolitis",
    "type": "article",
@@ -3166,6 +3254,37 @@
    ]
   },
   {
+   "ref_id": "REF-0991",
+   "key": "sanzlamora2024rosa",
+   "type": "article",
+   "title": "The Antiobesity Effects of Rosehip (Rosa canina) Flesh by Antagonizing the PPAR Gamma Activity in High-Fat Diet-Fed Mice",
+   "authors": "Sanz-Lamora, H., Nicola-Llorente, M., Torres-Oteros, D., Perez-Marti, A. and others",
+   "journal": "Molecular Nutrition & Food Research",
+   "year": "2024",
+   "doi": "10.1002/mnfr.202300539",
+   "url": "",
+   "link": "https://doi.org/10.1002/mnfr.202300539",
+   "link_type": "doi",
+   "citation": "Sanz-Lamora, H., Nicola-Llorente, M., Torres-Oteros, D., Perez-Marti, A. and others (2024) 'The Antiobesity Effects of Rosehip (Rosa canina) Flesh by Antagonizing the PPAR Gamma Activity in High-Fat Diet-Fed Mice', Molecular Nutrition & Food Research, 68(5), pp. e2300539. doi:10.1002/mnfr.202300539",
+   "abstract": "Rosa canina flesh supplementation prevented high-fat-diet-induced obesity in mice, reducing body-weight gain and improving hyperglycaemia and insulin resistance, with decreased hepatic lipogenesis, effects consistent with a PPAR-gamma antagonist in the rosehip flesh, supporting metabolic benefits of rosehip.",
+   "tier": "preclinical",
+   "display": "The Antiobesity Effects of Rosehip (Rosa canina) Flesh by Antagonizing the PPAR Gamma Activity in High-Fat Diet-Fed Mice",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [],
+   "conditions": [
+    "Metabolic support"
+   ]
+  },
+  {
    "ref_id": "REF-0656",
    "key": "amin2024cuminbowel",
    "type": "article",
@@ -3264,6 +3383,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0987",
+   "key": "liu2024reynoutria",
+   "type": "article",
+   "title": "The Possibility of Polygonum cuspidatum against Osteoarthritis based on Network Pharmacology",
+   "authors": "Liu, Y., Wang, J., Li, Q. and others",
+   "journal": "Current Computer-Aided Drug Design",
+   "year": "2024",
+   "doi": "10.2174/1573409919666230403114131",
+   "url": "",
+   "link": "https://doi.org/10.2174/1573409919666230403114131",
+   "link_type": "doi",
+   "citation": "Liu, Y., Wang, J., Li, Q. and others (2024) 'The Possibility of Polygonum cuspidatum against Osteoarthritis based on Network Pharmacology', Current Computer-Aided Drug Design, 20(2), pp. 121-133. doi:10.2174/1573409919666230403114131",
+   "abstract": "Using network pharmacology, this study explored the multicomponent, multitarget mechanism by which Polygonum cuspidatum (Reynoutria japonica) may act against osteoarthritis, identifying anti-inflammatory targets relevant to the treatment of joint disease.",
+   "tier": "preclinical",
+   "display": "The Possibility of Polygonum cuspidatum against Osteoarthritis based on Network Pharmacology",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
+  },
+  {
    "ref_id": "REF-0739",
    "key": "xu2024astragaloside",
    "type": "article",
@@ -3335,6 +3485,37 @@
     "Nervous tension",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-0981",
+   "key": "ke2023reynoutria",
+   "type": "article",
+   "title": "Advances for pharmacological activities of Polygonum cuspidatum (Reynoutria japonica) - A review",
+   "authors": "Ke, Y., Zhan, L., Lu, T., Zhou, C. and others",
+   "journal": "Pharmaceutical Biology",
+   "year": "2023",
+   "doi": "10.1080/13880209.2022.2158349",
+   "url": "",
+   "link": "https://doi.org/10.1080/13880209.2022.2158349",
+   "link_type": "doi",
+   "citation": "Ke, Y., Zhan, L., Lu, T., Zhou, C. and others (2023) 'Advances for pharmacological activities of Polygonum cuspidatum (Reynoutria japonica) - A review', Pharmaceutical Biology, 61(1), pp. 177-188. doi:10.1080/13880209.2022.2158349",
+   "abstract": "Reynoutria japonica (Polygonum cuspidatum, Huzhang), whose root has a long history as a Chinese medicinal plant, has anti-inflammatory, antitumour, antioxidant, antiviral, cardioprotective and neuroprotective pharmacological activities. This review summarises advances in its pharmacological activities and active constituents (resveratrol, polydatin, emodin).",
+   "tier": "traditional",
+   "display": "Advances for pharmacological activities of Polygonum cuspidatum (Reynoutria japonica) - A review",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0753",
@@ -3672,6 +3853,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0993",
+   "key": "pena2023rosa",
+   "type": "article",
+   "title": "Bioactive Compounds and Antioxidant Activity in the Fruit of Rosehip (Rosa canina L. and Rosa rubiginosa L.)",
+   "authors": "Pena, F., Valencia, S., Tereucan, G., Nahuelcura, J. and others",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28083544",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28083544",
+   "link_type": "doi",
+   "citation": "Pena, F., Valencia, S., Tereucan, G., Nahuelcura, J. and others (2023) 'Bioactive Compounds and Antioxidant Activity in the Fruit of Rosehip (Rosa canina L. and Rosa rubiginosa L.)', Molecules, 28(8), pp. 3544. doi:10.3390/molecules28083544",
+   "abstract": "Rosehip fruits of Rosa canina and Rosa rubiginosa from southern Chile were analysed, revealing a high content of bioactive compounds (ascorbic acid, flavonols, catechin) and antioxidant activity, with antioxidant capacity primarily associated with Rosa canina samples.",
+   "tier": "preclinical",
+   "display": "Bioactive Compounds and Antioxidant Activity in the Fruit of Rosehip (Rosa canina L. and Rosa rubiginosa L.)",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0397",
    "key": "patel2023biological",
    "type": "article",
@@ -3850,6 +4062,35 @@
    "conditions": [
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-0985",
+   "key": "wang2023reynoutria",
+   "type": "article",
+   "title": "Citri Reticulatae Pericarpium-Reynoutria japonica Houtt. herb pair suppresses breast cancer liver metastasis by targeting ECM1-mediated cholesterol biosynthesis pathway",
+   "authors": "Wang, X., Liang, L., Yan, J., Li, Z. and others",
+   "journal": "Phytomedicine",
+   "year": "2023",
+   "doi": "10.1016/j.phymed.2023.154896",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2023.154896",
+   "link_type": "doi",
+   "citation": "Wang, X., Liang, L., Yan, J., Li, Z. and others (2023) 'Citri Reticulatae Pericarpium-Reynoutria japonica Houtt. herb pair suppresses breast cancer liver metastasis by targeting ECM1-mediated cholesterol biosynthesis pathway', Phytomedicine, 116, pp. 154896. doi:10.1016/j.phymed.2023.154896",
+   "abstract": "A Citri Reticulatae Pericarpium-Reynoutria japonica herb pair suppressed breast cancer liver metastasis in models by targeting the ECM1-mediated cholesterol biosynthesis pathway, demonstrating an anticancer (anti-metastatic) effect of Reynoutria japonica.",
+   "tier": "preclinical",
+   "display": "Citri Reticulatae Pericarpium-Reynoutria japonica Houtt. herb pair suppresses breast cancer liver metastasis by targeting ECM1-mediated cholesterol biosynthesis pathway",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0121",
@@ -4205,6 +4446,37 @@
    ]
   },
   {
+   "ref_id": "REF-0996",
+   "key": "truong2023rosa",
+   "type": "article",
+   "title": "Hair Growth-Promoting Effects of Rosehip (Rosa canina L.) Seed Oil in C57BL/6 Mice",
+   "authors": "Truong, V.L. and Jeong, W.S.",
+   "journal": "Preventive Nutrition and Food Science",
+   "year": "2023",
+   "doi": "10.3746/pnf.2023.28.4.411",
+   "url": "",
+   "link": "https://doi.org/10.3746/pnf.2023.28.4.411",
+   "link_type": "doi",
+   "citation": "Truong, V.L. and Jeong, W.S (2023) 'Hair Growth-Promoting Effects of Rosehip (Rosa canina L.) Seed Oil in C57BL/6 Mice', Preventive Nutrition and Food Science, 28(4), pp. 411-417. doi:10.3746/pnf.2023.28.4.411",
+   "abstract": "Rosehip (Rosa canina) seed oil, known for therapeutic effects in skin disorders, promoted hair growth in mice by inducing telogen-to-anagen transition of hair follicles and up-regulating hair-growth-associated genes, increasing follicle density and skin thickness.",
+   "tier": "preclinical",
+   "display": "Hair Growth-Promoting Effects of Rosehip (Rosa canina L.) Seed Oil in C57BL/6 Mice",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-0179",
    "key": "national2023hericium",
    "type": "misc",
@@ -4398,6 +4670,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0994",
+   "key": "hendrysiak2023rosa",
+   "type": "article",
+   "title": "Juice Powders from Rosehip (Rosa canina L.): Physical, Chemical, and Antiglycation Properties",
+   "authors": "Hendrysiak, A., Brzezowska, J., Nicolet, N., Bocquel, D. and others",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28041674",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28041674",
+   "link_type": "doi",
+   "citation": "Hendrysiak, A., Brzezowska, J., Nicolet, N., Bocquel, D. and others (2023) 'Juice Powders from Rosehip (Rosa canina L.): Physical, Chemical, and Antiglycation Properties', Molecules, 28(4), pp. 1674. doi:10.3390/molecules28041674",
+   "abstract": "Rosehip (Rosa canina) juice powders, distinct for antioxidant, immunomodulatory and anticancer properties, were produced with functional carriers. The powders retained antioxidant capacity (especially with inulin and palatinose) and showed a promising ability to inhibit protein glycation, relevant to metabolic health.",
+   "tier": "preclinical",
+   "display": "Juice Powders from Rosehip (Rosa canina L.): Physical, Chemical, and Antiglycation Properties",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-0088",
@@ -5501,6 +5806,37 @@
    ],
    "scientific": [
     "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0995",
+   "key": "igual2022rosa",
+   "type": "article",
+   "title": "Bioactive Compounds in Rosehip (Rosa canina) Powder with Encapsulating Agents",
+   "authors": "Igual, M., Garcia-Herrera, P., Camara, R.M., Martinez-Monzo, J. and others",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27154737",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27154737",
+   "link_type": "doi",
+   "citation": "Igual, M., Garcia-Herrera, P., Camara, R.M., Martinez-Monzo, J. and others (2022) 'Bioactive Compounds in Rosehip (Rosa canina) Powder with Encapsulating Agents', Molecules, 27(15), pp. 4737. doi:10.3390/molecules27154737",
+   "abstract": "Rosehip (Rosa canina) pseudo-fruits were freeze-dried with different biopolymer encapsulating agents and evaluated for organic acids, minerals, fibre, phenols, carotenoids and antioxidant activity, showing rosehip powder is a functional food ingredient rich in ascorbic acid, minerals and antioxidants.",
+   "tier": "preclinical",
+   "display": "Bioactive Compounds in Rosehip (Rosa canina) Powder with Encapsulating Agents",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
    ],
    "actions": [
     "Antioxidant"
@@ -6737,6 +7073,66 @@
    ]
   },
   {
+   "ref_id": "REF-0980",
+   "key": "wang2022reynoutria",
+   "type": "article",
+   "title": "Reynoutria japonica Houtt for Acute Respiratory Tract Infections in Adults and Children: A Systematic Review",
+   "authors": "Wang, S., Yang, Y., Sun, L., Qiao, G. and others",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2022",
+   "doi": "10.3389/fphar.2022.787032",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2022.787032",
+   "link_type": "doi",
+   "citation": "Wang, S., Yang, Y., Sun, L., Qiao, G. and others (2022) 'Reynoutria japonica Houtt for Acute Respiratory Tract Infections in Adults and Children: A Systematic Review', Frontiers in Pharmacology, 13, pp. 787032. doi:10.3389/fphar.2022.787032",
+   "abstract": "This systematic review evaluated Reynoutria japonica (Huzhang) for acute respiratory tract infections in adults and children, finding evidence that Chinese herbal medicine containing Reynoutria japonica has anti-inflammatory and antiviral effects relevant to respiratory infection.",
+   "tier": "review",
+   "display": "Reynoutria japonica Houtt for Acute Respiratory Tract Infections in Adults and Children: A Systematic Review",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-0998",
+   "key": "vlaicu2022rosa",
+   "type": "article",
+   "title": "Rosehip (Rosa canina L.) Meal as a Natural Antioxidant on Lipid and Protein Quality and Shelf-Life of Polyunsaturated Fatty Acids Enriched Eggs",
+   "authors": "Vlaicu, P.A., Untea, A.E., Turcu, R.P., Panaite, T.D. and Saracila, M.",
+   "journal": "Antioxidants (Basel)",
+   "year": "2022",
+   "doi": "10.3390/antiox11101948",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox11101948",
+   "link_type": "doi",
+   "citation": "Vlaicu, P.A., Untea, A.E., Turcu, R.P., Panaite, T.D. and Saracila, M (2022) 'Rosehip (Rosa canina L.) Meal as a Natural Antioxidant on Lipid and Protein Quality and Shelf-Life of Polyunsaturated Fatty Acids Enriched Eggs', Antioxidants (Basel), 11(10), pp. 1948. doi:10.3390/antiox11101948",
+   "abstract": "Dietary rosehip (Rosa canina) meal increased total antioxidant capacity and polyphenol content and improved the lipid and protein quality and shelf-life of polyunsaturated-fatty-acid-enriched eggs, demonstrating the natural antioxidant activity of rosehip as a feed and food ingredient.",
+   "tier": "preclinical",
+   "display": "Rosehip (Rosa canina L.) Meal as a Natural Antioxidant on Lipid and Protein Quality and Shelf-Life of Polyunsaturated Fatty Acids Enriched Eggs",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0790",
    "key": "chen2022saffron",
    "type": "article",
@@ -7458,6 +7854,33 @@
    ],
    "scientific": [
     "Arctostaphylos uva-ursi"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0982",
+   "key": "zhang2021reynoutria",
+   "type": "article",
+   "title": "Bioactive amides from Reynoutria japonica",
+   "authors": "Zhang, Q., Zhao, Y., Zhang, M., Zhang, Y. and others",
+   "journal": "Journal of Asian Natural Products Research",
+   "year": "2021",
+   "doi": "10.1080/10286020.2021.1873298",
+   "url": "",
+   "link": "https://doi.org/10.1080/10286020.2021.1873298",
+   "link_type": "doi",
+   "citation": "Zhang, Q., Zhao, Y., Zhang, M., Zhang, Y. and others (2021) 'Bioactive amides from Reynoutria japonica', Journal of Asian Natural Products Research, 23(3), pp. 228-234. doi:10.1080/10286020.2021.1873298",
+   "abstract": "A pair of new amide enantiomers and two known amides were isolated from the rhizomes of Reynoutria japonica, with their structures established by UV, IR, HRESIMS and NMR, expanding the characterised bioactive constituent chemistry of Japanese knotweed.",
+   "tier": "preclinical",
+   "display": "Bioactive amides from Reynoutria japonica",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
    ],
    "actions": [],
    "conditions": []
@@ -9356,6 +9779,34 @@
    ]
   },
   {
+   "ref_id": "REF-1002",
+   "key": "gallardo2021prunus",
+   "type": "article",
+   "title": "Valorization of Capulin Almond (Prunus serotina) by Obtaining Bioactive Compounds",
+   "authors": "Gallardo-Rivera, C.T., Lu, A., Trevino-Garza, M.Z., Garcia-Marquez, E. and others",
+   "journal": "Frontiers in Nutrition",
+   "year": "2021",
+   "doi": "10.3389/fnut.2021.663953",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2021.663953",
+   "link_type": "doi",
+   "citation": "Gallardo-Rivera, C.T., Lu, A., Trevino-Garza, M.Z., Garcia-Marquez, E. and others (2021) 'Valorization of Capulin Almond (Prunus serotina) by Obtaining Bioactive Compounds', Frontiers in Nutrition, 8, pp. 663953. doi:10.3389/fnut.2021.663953",
+   "abstract": "The shell, paste and oil of the Capulin almond (the seed of Prunus serotina) were valorised by extracting antioxidants. The by-products were a source of phenolic compounds and flavonoids with antioxidant activity (ABTS and DPPH), identifying P. serotina seed by-products as a source of antioxidant bioactive compounds.",
+   "tier": "preclinical",
+   "display": "Valorization of Capulin Almond (Prunus serotina) by Obtaining Bioactive Compounds",
+   "plants": [
+    "Black cherry",
+    "Rum cherry",
+    "Wild Cherry Bark",
+    "Wild black cherry"
+   ],
+   "scientific": [
+    "Prunus serotina"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0911",
    "key": "chen2020tussilago",
    "type": "article",
@@ -9809,6 +10260,34 @@
    ],
    "scientific": [
     "Tussilago farfara"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1003",
+   "key": "sile2020prunuspadus",
+   "type": "article",
+   "title": "Chemical composition of Prunus padus L. flower extract and its anti-inflammatory activities in primary bone marrow-derived macrophages",
+   "authors": "Sile, I., Videja, M., Makrecka-Kuka, M., Tirzite, D. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2020",
+   "doi": "10.1016/j.jep.2020.113678",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.113678",
+   "link_type": "doi",
+   "citation": "Sile, I., Videja, M., Makrecka-Kuka, M., Tirzite, D. and others (2020) 'Chemical composition of Prunus padus L. flower extract and its anti-inflammatory activities in primary bone marrow-derived macrophages', Journal of Ethnopharmacology, 268, pp. 113678. doi:10.1016/j.jep.2020.113678",
+   "abstract": "Prunus padus (European bird cherry, a wild-cherry congener of P. serotina with the same traditional use to reduce inflammation, pain and fever) flower extract, rich in quercetin diglycosides and chlorogenic acid, inhibited collagenase, shifted macrophages toward the anti-inflammatory M2 phenotype and reduced IL-6 release, supporting its anti-inflammatory use.",
+   "tier": "preclinical",
+   "display": "Chemical composition of Prunus padus L. flower extract and its anti-inflammatory activities in primary bone marrow-derived macrophages",
+   "plants": [
+    "Black cherry",
+    "Rum cherry",
+    "Wild Cherry Bark",
+    "Wild black cherry"
+   ],
+   "scientific": [
+    "Prunus serotina"
    ],
    "actions": [],
    "conditions": []
@@ -10655,6 +11134,33 @@
    ]
   },
   {
+   "ref_id": "REF-0986",
+   "key": "jiang2020reynoutria",
+   "type": "article",
+   "title": "New phenolic glycosides from Reynoutria japonica",
+   "authors": "Jiang, Y., Liu, Y., Zhang, X. and others",
+   "journal": "Journal of Asian Natural Products Research",
+   "year": "2020",
+   "doi": "10.1080/10286020.2019.1646730",
+   "url": "",
+   "link": "https://doi.org/10.1080/10286020.2019.1646730",
+   "link_type": "doi",
+   "citation": "Jiang, Y., Liu, Y., Zhang, X. and others (2020) 'New phenolic glycosides from Reynoutria japonica', Journal of Asian Natural Products Research, 22(1), pp. 17-23. doi:10.1080/10286020.2019.1646730",
+   "abstract": "Two new isobenzofuranone derivatives and a new isocoumarin derivative were isolated from Reynoutria japonica and their structures elucidated by spectroscopic methods, adding new phenolic glycoside constituents to the characterised chemistry of Japanese knotweed.",
+   "tier": "preclinical",
+   "display": "New phenolic glycosides from Reynoutria japonica",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0067",
    "key": "eur2020kumins",
    "type": "misc",
@@ -10811,6 +11317,36 @@
     "Swelling / fluid retention",
     "Varicose veins"
    ]
+  },
+  {
+   "ref_id": "REF-0999",
+   "key": "telichowska2020prunus",
+   "type": "article",
+   "title": "Phytopharmacological Possibilities of Bird Cherry Prunus padus L. and Prunus serotina L. Species and Their Bioactive Phytochemicals",
+   "authors": "Telichowska, A., Kobus-Cisowska, J. and Szulc, P.",
+   "journal": "Nutrients",
+   "year": "2020",
+   "doi": "10.3390/nu12071966",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu12071966",
+   "link_type": "doi",
+   "citation": "Telichowska, A., Kobus-Cisowska, J. and Szulc, P (2020) 'Phytopharmacological Possibilities of Bird Cherry Prunus padus L. and Prunus serotina L. Species and Their Bioactive Phytochemicals', Nutrients, 12(7), pp. 1966. doi:10.3390/nu12071966",
+   "abstract": "This review compiles in vitro and in vivo studies on the antioxidant, anti-inflammatory, antibacterial and antidiabetic activity of wild cherry Prunus serotina (and Prunus padus), and characterises the phytochemical content (tocopherols, vitamins, polyphenols, terpenes and cyanogenic glycosides) of the leaves, bark and fruits, indicating their health-promoting potential.",
+   "tier": "traditional",
+   "display": "Phytopharmacological Possibilities of Bird Cherry Prunus padus L. and Prunus serotina L. Species and Their Bioactive Phytochemicals",
+   "plants": [
+    "Black cherry",
+    "Rum cherry",
+    "Wild Cherry Bark",
+    "Wild black cherry"
+   ],
+   "scientific": [
+    "Prunus serotina"
+   ],
+   "actions": [
+    "Antitussive (cough suppressant)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0631",
@@ -12326,6 +12862,41 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0990",
+   "key": "gruenwald2019rosa",
+   "type": "article",
+   "title": "Rosa canina - Rose hip pharmacological ingredients and molecular mechanics counteracting osteoarthritis - A systematic review",
+   "authors": "Gruenwald, J., Uebelhack, R. and More, M.I.",
+   "journal": "Phytomedicine",
+   "year": "2019",
+   "doi": "10.1016/j.phymed.2019.152958",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2019.152958",
+   "link_type": "doi",
+   "citation": "Gruenwald, J., Uebelhack, R. and More, M.I (2019) 'Rosa canina - Rose hip pharmacological ingredients and molecular mechanics counteracting osteoarthritis - A systematic review', Phytomedicine, 60, pp. 152958. doi:10.1016/j.phymed.2019.152958",
+   "abstract": "This systematic review of the molecular mechanisms behind rosehip's documented clinical effects in osteoarthritis found potent antioxidant radical-scavenging effects and anti-inflammatory activities, including reduction of pro-inflammatory cytokines, NF-kB signalling, COX-1/2, 5-LOX, iNOS and C-reactive protein, matching the clinical action of Rosa canina.",
+   "tier": "review",
+   "display": "Rosa canina - Rose hip pharmacological ingredients and molecular mechanics counteracting osteoarthritis - A systematic review",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Arthritis / joint pain",
+    "Inflammation (general)"
+   ]
   },
   {
    "ref_id": "REF-0483",
@@ -15756,6 +16327,37 @@
    ]
   },
   {
+   "ref_id": "REF-0979",
+   "key": "dong2016emodin",
+   "type": "article",
+   "title": "Emodin: A Review of its Pharmacology, Toxicity and Pharmacokinetics",
+   "authors": "Dong, X., Fu, J., Yin, X., Cao, S. and others",
+   "journal": "Phytotherapy Research",
+   "year": "2016",
+   "doi": "10.1002/ptr.5631",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5631",
+   "link_type": "doi",
+   "citation": "Dong, X., Fu, J., Yin, X., Cao, S. and others (2016) 'Emodin: A Review of its Pharmacology, Toxicity and Pharmacokinetics', Phytotherapy Research, 30(8), pp. 1207-1218. doi:10.1002/ptr.5631",
+   "abstract": "Emodin, a natural anthraquinone derivative and a major bioactive constituent of Polygonum cuspidatum (Reynoutria japonica), possesses anticancer, hepatoprotective, anti-inflammatory, antioxidant and antimicrobial activities, but can also cause toxicity at high doses. This review summarises the pharmacology, toxicity and pharmacokinetics of emodin.",
+   "tier": "traditional",
+   "display": "Emodin: A Review of its Pharmacology, Toxicity and Pharmacokinetics",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0266",
    "key": "seidler2016essential",
    "type": "article",
@@ -16265,6 +16867,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1000",
+   "key": "lunavazquez2016prunus",
+   "type": "article",
+   "title": "Role of Nitric Oxide and Hydrogen Sulfide in the Vasodilator Effect of Ursolic Acid and Uvaol from Black Cherry Prunus serotina Fruits",
+   "authors": "Luna-Vazquez, F.J., Ibarra-Alvarado, C., Rojas-Molina, A., Romo-Mancillas, A. and others",
+   "journal": "Molecules",
+   "year": "2016",
+   "doi": "10.3390/molecules21010078",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules21010078",
+   "link_type": "doi",
+   "citation": "Luna-Vazquez, F.J., Ibarra-Alvarado, C., Rojas-Molina, A., Romo-Mancillas, A. and others (2016) 'Role of Nitric Oxide and Hydrogen Sulfide in the Vasodilator Effect of Ursolic Acid and Uvaol from Black Cherry Prunus serotina Fruits', Molecules, 21(1), pp. 78. doi:10.3390/molecules21010078",
+   "abstract": "Ursolic acid and uvaol, isolated from black cherry (Prunus serotina) fruits, produced significant endothelium-dependent vasodilation (smooth-muscle relaxation) in rat aorta via the NO/cGMP and H2S/KATP channel pathways, providing a mechanism relevant to the antispasmodic use of wild cherry.",
+   "tier": "preclinical",
+   "display": "Role of Nitric Oxide and Hydrogen Sulfide in the Vasodilator Effect of Ursolic Acid and Uvaol from Black Cherry Prunus serotina Fruits",
+   "plants": [
+    "Black cherry",
+    "Rum cherry",
+    "Wild Cherry Bark",
+    "Wild black cherry"
+   ],
+   "scientific": [
+    "Prunus serotina"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": [
+    "Muscle spasm"
+   ]
+  },
+  {
    "ref_id": "REF-0424",
    "key": "masullo2016ruscus",
    "type": "article",
@@ -16300,6 +16934,34 @@
     "Swelling / fluid retention",
     "Varicose veins"
    ]
+  },
+  {
+   "ref_id": "REF-1001",
+   "key": "robakowski2016prunus",
+   "type": "article",
+   "title": "Seasonal Changes Affect Root Prunasin Concentration in Prunus serotina and Override Species Interactions between P. serotina and Quercus petraea",
+   "authors": "Robakowski, P., Bielinis, E., Stachowiak, J., Mejza, I. and Bulaj, B.",
+   "journal": "Journal of Chemical Ecology",
+   "year": "2016",
+   "doi": "10.1007/s10886-016-0678-y",
+   "url": "",
+   "link": "https://doi.org/10.1007/s10886-016-0678-y",
+   "link_type": "doi",
+   "citation": "Robakowski, P., Bielinis, E., Stachowiak, J., Mejza, I. and Bulaj, B (2016) 'Seasonal Changes Affect Root Prunasin Concentration in Prunus serotina and Override Species Interactions between P. serotina and Quercus petraea', Journal of Chemical Ecology, 42(3), pp. 202-214. doi:10.1007/s10886-016-0678-y",
+   "abstract": "Prunasin, the cyanogenic glycoside characteristic of Prunus serotina (wild cherry) and the basis of its traditional antitussive action, was quantified in P. serotina roots across the growing season, showing that seasonal changes, light and temperature shape prunasin concentration more than interspecific competition.",
+   "tier": "preclinical",
+   "display": "Seasonal Changes Affect Root Prunasin Concentration in Prunus serotina and Override Species Interactions between P. serotina and Quercus petraea",
+   "plants": [
+    "Black cherry",
+    "Rum cherry",
+    "Wild Cherry Bark",
+    "Wild black cherry"
+   ],
+   "scientific": [
+    "Prunus serotina"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0919",
@@ -19264,6 +19926,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0984",
+   "key": "peng2013reynoutria",
+   "type": "article",
+   "title": "Botany, phytochemistry, pharmacology, and potential application of Polygonum cuspidatum Sieb. et Zucc.: a review",
+   "authors": "Peng, W., Qin, R., Li, X. and Zhou, H.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2013",
+   "doi": "10.1016/j.jep.2013.05.007",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2013.05.007",
+   "link_type": "doi",
+   "citation": "Peng, W., Qin, R., Li, X. and Zhou, H (2013) 'Botany, phytochemistry, pharmacology, and potential application of Polygonum cuspidatum Sieb. et Zucc.: a review', Journal of Ethnopharmacology, 148(3), pp. 729-745. doi:10.1016/j.jep.2013.05.007",
+   "abstract": "Polygonum cuspidatum (Reynoutria japonica, Huzhang) is a traditional Chinese medicinal herb. This review covers its botany, phytochemistry (resveratrol, polydatin, emodin, anthraquinones), and pharmacology, including anti-inflammatory, antioxidant, anticancer, cardiovascular-protective, antimicrobial and antiviral activities.",
+   "tier": "traditional",
+   "display": "Botany, phytochemistry, pharmacology, and potential application of Polygonum cuspidatum Sieb. et Zucc.: a review",
+   "plants": [
+    "Asian knotweed",
+    "Hu Zhang",
+    "Japanese knotweed"
+   ],
+   "scientific": [
+    "Reynoutria japonica"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-0429",
    "key": "allen2013cinnamon",
    "type": "article",
@@ -21720,6 +22415,37 @@
    ]
   },
   {
+   "ref_id": "REF-0992",
+   "key": "tumbas2011rosa",
+   "type": "article",
+   "title": "Effect of rosehip (Rosa canina L.) phytochemicals on stable free radicals and human cancer cells",
+   "authors": "Tumbas, V.T., Canadanovic-Brunet, J.M., Cetojevic-Simin, D.D., Cetkovic, G.S. and others",
+   "journal": "Journal of the Science of Food and Agriculture",
+   "year": "2011",
+   "doi": "10.1002/jsfa.4695",
+   "url": "",
+   "link": "https://doi.org/10.1002/jsfa.4695",
+   "link_type": "doi",
+   "citation": "Tumbas, V.T., Canadanovic-Brunet, J.M., Cetojevic-Simin, D.D., Cetkovic, G.S. and others (2011) 'Effect of rosehip (Rosa canina L.) phytochemicals on stable free radicals and human cancer cells', Journal of the Science of Food and Agriculture, 92(6), pp. 1273-1281. doi:10.1002/jsfa.4695",
+   "abstract": "Rosehip (Rosa canina) tea was separated into vitamin C, flavonoid and phenolic-acid fractions. Rosehip flavonoids showed high antioxidant activity against DPPH radicals and inhibited growth of HeLa, MCF7 and HT-29 cancer cells, confirming that vitamin C and flavonoids drive antioxidant activity while polyphenols contribute antiproliferative activity.",
+   "tier": "preclinical",
+   "display": "Effect of rosehip (Rosa canina L.) phytochemicals on stable free radicals and human cancer cells",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0074",
    "key": "european2011european",
    "type": "misc",
@@ -21865,6 +22591,34 @@
    ],
    "scientific": [
     "Centaurium erythraea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1004",
+   "key": "olszewska2011prunuspadus",
+   "type": "article",
+   "title": "Metabolite profiling and antioxidant activity of Prunus padus L. flowers and leaves",
+   "authors": "Olszewska, M.A. and Kwapisz, A.",
+   "journal": "Natural Product Research",
+   "year": "2011",
+   "doi": "10.1080/14786410903230359",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786410903230359",
+   "link_type": "doi",
+   "citation": "Olszewska, M.A. and Kwapisz, A (2011) 'Metabolite profiling and antioxidant activity of Prunus padus L. flowers and leaves', Natural Product Research, 25(12), pp. 1115-1131. doi:10.1080/14786410903230359",
+   "abstract": "Six phenolics (flavonol glycosides and chlorogenic acid) were isolated from the leaves of Prunus padus (European bird cherry, a wild-cherry congener of P. serotina), and the flowers and leaves showed antioxidant activity (DPPH and linoleic-acid peroxidation) correlated with their proanthocyanidin and phenolic content.",
+   "tier": "preclinical",
+   "display": "Metabolite profiling and antioxidant activity of Prunus padus L. flowers and leaves",
+   "plants": [
+    "Black cherry",
+    "Rum cherry",
+    "Wild Cherry Bark",
+    "Wild black cherry"
+   ],
+   "scientific": [
+    "Prunus serotina"
    ],
    "actions": [],
    "conditions": []
@@ -23667,6 +24421,39 @@
     "Immune support",
     "Muscle soreness",
     "Stress"
+   ]
+  },
+  {
+   "ref_id": "REF-0989",
+   "key": "christensen2008rosa",
+   "type": "article",
+   "title": "Does the hip powder of Rosa canina (rosehip) reduce pain in osteoarthritis patients? - a meta-analysis of randomized controlled trials",
+   "authors": "Christensen, R., Bartels, E.M., Altman, R.D., Astrup, A. and Bliddal, H.",
+   "journal": "Osteoarthritis and Cartilage",
+   "year": "2008",
+   "doi": "10.1016/j.joca.2008.03.001",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.joca.2008.03.001",
+   "link_type": "doi",
+   "citation": "Christensen, R., Bartels, E.M., Altman, R.D., Astrup, A. and Bliddal, H (2008) 'Does the hip powder of Rosa canina (rosehip) reduce pain in osteoarthritis patients? - a meta-analysis of randomized controlled trials', Osteoarthritis and Cartilage, 16(9), pp. 965-972. doi:10.1016/j.joca.2008.03.001",
+   "abstract": "This meta-analysis of three randomized controlled trials (287 osteoarthritis patients) found that Rosa canina (rosehip) powder significantly reduced pain compared with placebo (effect size 0.37), with patients twice as likely to respond to rosehip as to placebo, indicating rosehip reduces osteoarthritis pain.",
+   "tier": "review",
+   "display": "Does the hip powder of Rosa canina (rosehip) reduce pain in osteoarthritis patients? - a meta-analysis of randomized controlled trials",
+   "plants": [
+    "2025)",
+    "Dog rose",
+    "Dog-rose",
+    "rosehip",
+    "wild rose (Arthritis UK"
+   ],
+   "scientific": [
+    "Rosa canina"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Arthritis / joint pain"
    ]
   },
   {

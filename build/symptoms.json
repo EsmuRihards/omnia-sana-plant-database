@@ -8151,25 +8151,28 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 7,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0989",
+      "REF-0990"
      ]
     },
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 7,
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0990"
      ]
     },
     {
@@ -8181,7 +8184,9 @@
      "references": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0991",
+      "REF-0994"
      ]
     },
     {
@@ -8193,7 +8198,8 @@
      "references": [
       "REF-0051",
       "REF-0076",
-      "REF-0239"
+      "REF-0239",
+      "REF-0996"
      ]
     }
    ]
@@ -11881,15 +11887,29 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0037",
       "REF-0236",
-      "REF-0311"
+      "REF-0311",
+      "REF-0980"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0037",
+      "REF-0236",
+      "REF-0311",
+      "REF-0987"
      ]
     },
     {
@@ -11901,19 +11921,8 @@
      "references": [
       "REF-0037",
       "REF-0236",
-      "REF-0311"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0037",
-      "REF-0236",
-      "REF-0311"
+      "REF-0311",
+      "REF-0984"
      ]
     },
     {
@@ -19459,6 +19468,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "muscle-spasm",
+     "label": "Muscle spasm",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0525",
+      "REF-1000"
+     ]
+    },
+    {
      "condition": "bronchitis",
      "label": "Bronchitis",
      "evidence": 1,
@@ -19482,16 +19502,6 @@
     {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0525"
-     ]
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

@@ -13,6 +13,7 @@ constituents:
   note: Now regarded as the main antidiabetic principles.
   reference_ids:
   - REF-0412
+  - REF-1217
 - name: Charantin
   compounds:
   - phytosterol
@@ -34,17 +35,27 @@ actions:
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0412
+  - REF-1218
+  - REF-1222
   status: verified
 - action: antidiabetic
   note: Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)
   reference_ids:
   - REF-0412
   - REF-0413
+  - REF-1213
+  - REF-1216
+  - REF-1217
+  - REF-1219
+  - REF-1220
+  - REF-1221
+  - REF-1222
   status: verified
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0412
+  - REF-1222
   status: verified
 - action: bitter-tonic
   note: Bitter digestive / stomachic (traditional use for poor digestion); mild laxative
@@ -71,6 +82,7 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0412
+  - REF-1218
   status: needs-review
 - condition: bloating
   note: inferred from digestive action
@@ -82,6 +94,9 @@ indications:
   reference_ids:
   - REF-0412
   - REF-0413
+  - REF-1213
+  - REF-1220
+  - REF-1221
   status: verified
 - condition: constipation
   note: inferred from laxative action
@@ -130,11 +145,24 @@ contraindications:
   reference_ids:
   - REF-0414
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-1213
+- REF-1214
+- REF-1215
+- REF-1216
+- REF-1217
+- REF-1218
+- REF-1219
+- REF-1220
+- REF-1221
+- REF-1222
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   and Int J Mol Sci reviews; WebMD safety monograph). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (blood-sugar, indigestion); associations retained and now part-mapped and
   cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
+  @article sources (REF-1213, REF-1214, REF-1215, REF-1216, REF-1217, REF-1218, REF-1219, REF-1220, REF-1221,
+  REF-1222) — woven into relevant actions/indications and the plant-level references bucket.'

@@ -3097,12 +3097,26 @@
     {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 5,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0412",
-      "REF-0413"
+      "REF-0413",
+      "REF-1213",
+      "REF-1220",
+      "REF-1221"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0412",
+      "REF-1218"
      ]
     },
     {
@@ -3114,16 +3128,6 @@
      "references": [
       "REF-0412",
       "REF-0413"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0412"
      ]
     },
     {
@@ -13514,6 +13518,45 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0020",
+      "REF-0112",
+      "REF-0266",
+      "REF-1226"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0020",
+      "REF-0112",
+      "REF-0266",
+      "REF-1225"
+     ]
+    },
+    {
+     "condition": "muscle-spasm",
+     "label": "Muscle spasm",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0020",
+      "REF-0112",
+      "REF-0266",
+      "REF-1223"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -13550,30 +13593,6 @@
      ]
     },
     {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0020",
-      "REF-0112",
-      "REF-0266"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0020",
-      "REF-0112",
-      "REF-0266"
-     ]
-    },
-    {
      "condition": "insomnia",
      "label": "Insomnia / sleeplessness",
      "evidence": 1,
@@ -13588,18 +13607,6 @@
     {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0020",
-      "REF-0112",
-      "REF-0266"
-     ]
-    },
-    {
-     "condition": "muscle-spasm",
-     "label": "Muscle spasm",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -17033,7 +17040,8 @@
      "references": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1234"
      ]
     },
     {
@@ -17045,7 +17053,8 @@
      "references": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1242"
      ]
     },
     {
@@ -17093,7 +17102,8 @@
      "references": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1242"
      ]
     }
    ]

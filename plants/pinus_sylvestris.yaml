@@ -16,18 +16,24 @@ actions:
   - REF-0018
   - REF-0098
   - REF-0279
+  - REF-1234
+  - REF-1242
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0018
   - REF-0098
   - REF-0279
+  - REF-1233
+  - REF-1240
+  - REF-1241
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0018
   - REF-0098
   - REF-0279
+  - REF-1237
   status: verified
 - action: diuretic
   reference_ids:
@@ -82,6 +88,7 @@ indications:
   - REF-0018
   - REF-0098
   - REF-0279
+  - REF-1234
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -89,6 +96,7 @@ indications:
   - REF-0018
   - REF-0098
   - REF-0279
+  - REF-1242
   status: needs-review
 - condition: swelling
   note: inferred from diuretic action
@@ -117,6 +125,7 @@ indications:
   - REF-0018
   - REF-0098
   - REF-0279
+  - REF-1242
   status: needs-review
 contraindications:
 - note: Generally safe in normal amounts. Pine essential oil should not be ingested; topical use only
@@ -140,11 +149,25 @@ contraindications:
   - REF-0098
   - REF-0279
   status: verified
-provenance: book
+references:
+- REF-1233
+- REF-1234
+- REF-1235
+- REF-1236
+- REF-1237
+- REF-1238
+- REF-1239
+- REF-1240
+- REF-1241
+- REF-1242
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1233, REF-1234, REF-1235, REF-1236, REF-1237,
+  REF-1238, REF-1239, REF-1240, REF-1241, REF-1242) — woven into relevant actions/indications and the
+  plant-level references bucket.'

@@ -18915,7 +18915,8 @@
      "name": "Cucurbitane-type triterpenoids (momordicosides)",
      "note": "Now regarded as the main antidiabetic principles.",
      "reference_ids": [
-      "REF-0412"
+      "REF-0412",
+      "REF-1217"
      ]
     },
     {
@@ -18951,7 +18952,9 @@
      "action": "anti-inflammatory",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0412"
+      "REF-0412",
+      "REF-1218",
+      "REF-1222"
      ],
      "status": "verified"
     },
@@ -18960,7 +18963,14 @@
      "note": "Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)",
      "reference_ids": [
       "REF-0412",
-      "REF-0413"
+      "REF-0413",
+      "REF-1213",
+      "REF-1216",
+      "REF-1217",
+      "REF-1219",
+      "REF-1220",
+      "REF-1221",
+      "REF-1222"
      ],
      "status": "verified"
     },
@@ -18968,7 +18978,8 @@
      "action": "antioxidant",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0412"
+      "REF-0412",
+      "REF-1222"
      ],
      "status": "verified"
     },
@@ -19010,7 +19021,8 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0412"
+      "REF-0412",
+      "REF-1218"
      ],
      "status": "needs-review"
     },
@@ -19027,7 +19039,10 @@
      "note": "Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)",
      "reference_ids": [
       "REF-0412",
-      "REF-0413"
+      "REF-0413",
+      "REF-1213",
+      "REF-1220",
+      "REF-1221"
      ],
      "status": "verified"
     },
@@ -19100,9 +19115,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-1213",
+    "REF-1214",
+    "REF-1215",
+    "REF-1216",
+    "REF-1217",
+    "REF-1218",
+    "REF-1219",
+    "REF-1220",
+    "REF-1221",
+    "REF-1222"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "morinda-citrifolia",
@@ -20426,7 +20453,10 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1225",
+      "REF-1228",
+      "REF-1230"
      ],
      "status": "verified"
     },
@@ -20435,7 +20465,11 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1226",
+      "REF-1228",
+      "REF-1230",
+      "REF-1231"
      ],
      "status": "verified"
     },
@@ -20444,7 +20478,11 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1224",
+      "REF-1228",
+      "REF-1230",
+      "REF-1231"
      ],
      "status": "verified"
     },
@@ -20454,7 +20492,10 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1223",
+      "REF-1228",
+      "REF-1232"
      ],
      "status": "verified"
     },
@@ -20463,7 +20504,9 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1228",
+      "REF-1229"
      ],
      "status": "verified"
     },
@@ -20472,7 +20515,8 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1228"
      ],
      "status": "verified"
     }
@@ -20514,7 +20558,8 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1226"
      ],
      "status": "needs-review"
     },
@@ -20524,7 +20569,8 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1225"
      ],
      "status": "needs-review"
     },
@@ -20554,7 +20600,8 @@
      "reference_ids": [
       "REF-0020",
       "REF-0112",
-      "REF-0266"
+      "REF-0266",
+      "REF-1223"
      ],
      "status": "needs-review"
     },
@@ -20601,9 +20648,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1223",
+    "REF-1224",
+    "REF-1225",
+    "REF-1226",
+    "REF-1227",
+    "REF-1228",
+    "REF-1229",
+    "REF-1230",
+    "REF-1231",
+    "REF-1232"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "origanum-vulgare",
@@ -22205,7 +22264,9 @@
      "reference_ids": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1234",
+      "REF-1242"
      ],
      "status": "verified"
     },
@@ -22214,7 +22275,10 @@
      "reference_ids": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1233",
+      "REF-1240",
+      "REF-1241"
      ],
      "status": "verified"
     },
@@ -22223,7 +22287,8 @@
      "reference_ids": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1237"
      ],
      "status": "verified"
     },
@@ -22302,7 +22367,8 @@
      "reference_ids": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1234"
      ],
      "status": "verified"
     },
@@ -22312,7 +22378,8 @@
      "reference_ids": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1242"
      ],
      "status": "needs-review"
     },
@@ -22352,7 +22419,8 @@
      "reference_ids": [
       "REF-0018",
       "REF-0098",
-      "REF-0279"
+      "REF-0279",
+      "REF-1242"
      ],
      "status": "needs-review"
     }
@@ -22379,9 +22447,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1233",
+    "REF-1234",
+    "REF-1235",
+    "REF-1236",
+    "REF-1237",
+    "REF-1238",
+    "REF-1239",
+    "REF-1240",
+    "REF-1241",
+    "REF-1242"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "plantago-lanceolata",

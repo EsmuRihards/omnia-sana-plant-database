@@ -134,11 +134,16 @@ contraindications:
   reference_ids:
   - REF-0421
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-0773
+- REF-0774
+- REF-0775
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Planta Medica review; Drugs.com
   and LactMed monographs). Cnicus benedictus = Centaurea benedicta. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, appetite-loss, lactation-support); associations
   retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references
+  to the plant-level references bucket (least-cited enrichment): REF-0773, REF-0774, REF-0775.'

@@ -7937,9 +7937,14 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0770",
+    "REF-0771",
+    "REF-0772"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "cinnamomum-cassia",
@@ -8547,9 +8552,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-0773",
+    "REF-0774",
+    "REF-0775"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "coffea-arabica",
@@ -8917,9 +8927,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0776",
+    "REF-0777",
+    "REF-0778"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "coriandrum-sativum",
@@ -9110,9 +9125,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0779",
+    "REF-0780",
+    "REF-0781"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "crataegus-laevigata",
@@ -9260,9 +9280,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0782",
+    "REF-0783",
+    "REF-0784"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "crataegus-monogyna",

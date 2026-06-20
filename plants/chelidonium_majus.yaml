@@ -148,9 +148,13 @@ contraindications:
   - REF-0459
   - REF-0460
   status: verified
+references:
+- REF-0770
+- REF-0771
+- REF-0772
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepatology clinical review
   of hepatotoxicity; Forschende Komplementarmedizin integrative review). Record status set to needs-review
   because oral use carries a documented hepatotoxicity risk that regulators have restricted. Originally
@@ -158,4 +162,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
   2024 report of two herb-induced liver injury cases plus a literature review of 38 such cases (REF-0601),
   reinforcing the serious hepatotoxicity caution. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0770, REF-0771, REF-0772.'

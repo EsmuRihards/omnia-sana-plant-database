@@ -116,9 +116,13 @@ contraindications:
   - REF-0527
   - REF-0526
   status: verified
+references:
+- REF-0854
+- REF-0855
+- REF-0856
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from general literature (Herbal Reality and RxList monographs). Record
   status set to needs-review because of the overdose toxicity risk and limited modern evidence. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, pain, nervous-tension,
@@ -126,4 +130,5 @@ internal_notes: 'Enriched 2026-06-12 from general literature (Herbal Reality and
   study showing the Lactuca sesquiterpene lactones lactucin and lactucopicrin have analgesic (ibuprofen-comparable)
   and sedative activity in mice (REF-0622), supporting the analgesic and sedative actions mechanistically
   (preclinical). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
+  bucket (least-cited enrichment): REF-0854, REF-0855, REF-0856.'

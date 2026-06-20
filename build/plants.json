@@ -15372,9 +15372,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0845",
+    "REF-0846",
+    "REF-0847"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "inonotus-obliquus",
@@ -15530,9 +15535,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0848",
+    "REF-0849",
+    "REF-0850"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "inula-helenium",
@@ -15862,9 +15872,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0851",
+    "REF-0852",
+    "REF-0853"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "lactuca-virosa",
@@ -16030,9 +16045,14 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0854",
+    "REF-0855",
+    "REF-0856"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "lamium-album",
@@ -16764,9 +16784,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0857",
+    "REF-0858",
+    "REF-0859"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "lentinula-edodes",

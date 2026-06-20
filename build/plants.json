@@ -13857,9 +13857,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-0830",
+    "REF-0831",
+    "REF-0832"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "harpagophytum-procumbens",
@@ -14150,9 +14155,14 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0833",
+    "REF-0834",
+    "REF-0835"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "hericium-erinaceus",
@@ -14723,9 +14733,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0836",
+    "REF-0837",
+    "REF-0838"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "humulus-lupulus",
@@ -14862,9 +14877,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0839",
+    "REF-0840",
+    "REF-0841"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "hydrastis-canadensis",
@@ -15218,9 +15238,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0842",
+    "REF-0843",
+    "REF-0844"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "hyssopus-officinalis",

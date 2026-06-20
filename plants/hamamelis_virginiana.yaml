@@ -121,11 +121,16 @@ contraindications:
   - REF-0533
   - REF-0532
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-0830
+- REF-0831
+- REF-0832
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Hamamelidis cortex; Molecules skin-care review; Herbal Reality monograph). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (skin-irritation, inflammation, hemorrhoids, wounds);
   associations retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0830, REF-0831, REF-0832.'

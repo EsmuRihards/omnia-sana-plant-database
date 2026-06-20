@@ -1,0 +1,112 @@
+#!/usr/bin/env python3
+"""Batch 9 of the 2026-06-20 least-cited enrichment (5 plants x 3 PubMed sources).
+Plants: hamamelis_virginiana, hedera_helix, hippophae_rhamnoides, humulus_lupulus,
+hypericum_perforatum. Sources verified via the PubMed MCP; DOIs pre-checked."""
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from enrich_lib_2026_06_20 import apply
+
+SOURCES = [
+    # ---- hamamelis_virginiana (witch hazel) ----
+    {"citekey": "skowronska2025hamamelis", "plant": "hamamelis_virginiana", "study_type": "preclinical",
+     "fields": {"author": "Skowrońska, W., Pawłowska, K.A., Obrębski, M., Piwowarski, J.P. et al.",
+                "title": "Chemical composition, skin microbiota metabolism, antimicrobial potential and anti-inflammatory properties of witch hazel bark (Hamamelis virginiana L.)",
+                "journal": "Journal of Ethnopharmacology", "year": "2025", "volume": "353", "number": "Pt B", "pages": "120433",
+                "doi": "10.1016/j.jep.2025.120433"},
+     "abstract": "Witch hazel (Hamamelis virginiana) bark, valued in traditional medicine for its astringent tannins, was studied for composition and activity. The aqueous extract and its key component hamamelitannin exhibited the most pronounced anti-inflammatory activity (reducing ROS and cytokine release in human neutrophils and keratinocytes), supported keratinocyte migration in a wound-healing assay and inhibited Staphylococcus aureus growth, supporting its use for skin inflammation and minor wounds."},
+    {"citekey": "piazza2022hamamelis", "plant": "hamamelis_virginiana", "study_type": "preclinical",
+     "fields": {"author": "Piazza, S., Martinelli, G., Vrhovsek, U., Masuero, D. et al.",
+                "title": "Anti-Inflammatory and Anti-Acne Effects of Hamamelis virginiana Bark in Human Keratinocytes",
+                "journal": "Antioxidants (Basel)", "year": "2022", "volume": "11", "number": "6", "pages": "1119",
+                "doi": "10.3390/antiox11061119"},
+     "abstract": "A glycolic extract from Hamamelis virginiana bark (rich in hamamelitannin and proanthocyanidins) was evaluated against Cutibacterium acnes- and TNF-alpha-induced inflammation in human keratinocytes. The extract inhibited IL-6 and IL-8 release by partially impairing NF-kB activation and acting through antioxidant mechanisms, supporting the use of witch hazel for inflammatory skin conditions such as acne."},
+    {"citekey": "janarthanam2025hamamelitannin", "plant": "hamamelis_virginiana", "study_type": "preclinical",
+     "fields": {"author": "Janarthanam, V.A., Rajan, P.S.S., Panda, S.P., Panigrahy, U.P. et al.",
+                "title": "Hamamelitannin from Hamamelis virginiana Attenuates Ethanol-Induced Oxidative and Inflammatory Responses in Danio rerio Larvae",
+                "journal": "Molecular Biotechnology", "year": "2025", "volume": "68", "number": "5", "pages": "2369-2385",
+                "doi": "10.1007/s12033-025-01502-9"},
+     "abstract": "Hamamelitannin, a gallotannin from Hamamelis virginiana bark, was evaluated against ethanol-induced inflammation in a zebrafish larvae model of alcoholic liver disorder. Co-treatment normalised antioxidant enzymes (SOD, CAT, GPx), reduced reactive oxygen species, lipid peroxidation and macrophage infiltration, and downregulated inflammatory mediators (iNOS, TNF-alpha, COX-2, IL-1beta), indicating hepatoprotective and anti-inflammatory properties of the witch hazel tannin."},
+
+    # ---- hedera_helix (ivy) ----
+    {"citekey": "sierocinski2021hedera", "plant": "hedera_helix", "study_type": "systematic-review",
+     "fields": {"author": "Sierocinski, E., Holzinger, F. and Chenot, J.F.",
+                "title": "Ivy leaf (Hedera helix) for acute upper respiratory tract infections: an updated systematic review",
+                "journal": "European Journal of Clinical Pharmacology", "year": "2021", "volume": "77", "number": "8", "pages": "1113-1122",
+                "doi": "10.1007/s00228-021-03090-4"},
+     "abstract": "An updated systematic review of ivy leaf (Hedera helix) extract for acute upper respiratory tract infections and bronchitis, including six RCTs, one controlled clinical trial and four observational studies. All studies concluded ivy leaf extract is an effective and safe option for cough due to URTIs and bronchitis; three RCTs reported more rapid reduction in cough severity/frequency, though effects were minimal and of uncertain clinical importance, with no serious adverse effects reported."},
+    {"citekey": "baharara2021hedera", "plant": "hedera_helix", "study_type": "traditional",
+     "fields": {"author": "Baharara, H., Moghadam, A.T., Sahebkar, A., Emami, S.A. et al.",
+                "title": "The Effects of Ivy (Hedera helix) on Respiratory Problems and Cough in Humans: A Review",
+                "journal": "Advances in Experimental Medicine and Biology", "year": "2021", "volume": "1328", "pages": "361-376",
+                "doi": "10.1007/978-3-030-73234-9_23"},
+     "abstract": "Hedera helix (ivy) leaf contains active saponins (alpha-hederin, hederacosides B-D) and has been used for cough and respiratory problems. Approved by the German Commission E, it possesses antispasmodic, spasmolytic, antimicrobial, anti-inflammatory, anthelmintic, antioxidative and antitumor activities. This review focuses on the respiratory (expectorant, antitussive) effects of tablet and liquid ivy-leaf formulations."},
+    {"citekey": "song2015hedera", "plant": "hedera_helix", "study_type": "preclinical",
+     "fields": {"author": "Song, K.J., Shin, Y.J., Lee, K.R., Lee, E.J. et al.",
+                "title": "Expectorant and antitussive effect of Hedera helix and Rhizoma coptidis extracts mixture",
+                "journal": "Yonsei Medical Journal", "year": "2015", "volume": "56", "number": "3", "pages": "819-824",
+                "doi": "10.3349/ymj.2015.56.3.819"},
+     "abstract": "The expectorant (phenol-red tracheal secretion) and antitussive (citric-acid-induced cough) effects of Hedera helix and Rhizoma coptidis extracts were assessed in mice and guinea pigs. Hedera helix extract significantly increased tracheal secretion and inhibited cough, and a 3:1 mixture with Rhizoma coptidis showed optimal, dose-dependent expectorant and antitussive effects, supporting the traditional use of ivy leaf for respiratory complaints."},
+
+    # ---- hippophae_rhamnoides (sea buckthorn) ----
+    {"citekey": "liu2024seabuckthorn", "plant": "hippophae_rhamnoides", "study_type": "preclinical",
+     "fields": {"author": "Liu, L., Wen, T., Xiao, Y., Chen, H. et al.",
+                "title": "Sea buckthorn extract mitigates chronic obstructive pulmonary disease by suppression of ferroptosis via scavenging ROS and blocking p53/MAPK pathways",
+                "journal": "Journal of Ethnopharmacology", "year": "2024", "volume": "336", "pages": "118726",
+                "doi": "10.1016/j.jep.2024.118726"},
+     "abstract": "Sea buckthorn (Hippophae rhamnoides), a traditional Tibetan medicinal herb, exhibits protective effects against respiratory diseases. In bronchial epithelial cells and an LPS/elastase-induced COPD mouse model, sea buckthorn extract suppressed ferroptosis by directly scavenging reactive oxygen species and blocking the p53 and MAPK pathways, reducing lipid peroxides, cytokines and chemokines, supporting its clinical application in COPD."},
+    {"citekey": "wen2018seabuckthorn", "plant": "hippophae_rhamnoides", "study_type": "preclinical",
+     "fields": {"author": "Wen, P., Zhao, P., Qin, G., Tang, S. et al.",
+                "title": "Genotoxicity and teratogenicity of seabuckthorn (Hippophae rhamnoides L.) berry oil",
+                "journal": "Drug and Chemical Toxicology", "year": "2018", "volume": "43", "number": "4", "pages": "391-397",
+                "doi": "10.1080/01480545.2018.1497047"},
+     "abstract": "Seabuckthorn (Hippophae rhamnoides) has been used for centuries as a medicine and nutritional supplement, but safety data are limited. In three genotoxicity studies and a teratogenicity study, seabuckthorn berry oil showed no mutagenic activity (Ames test), no effect on sperm morphology or micronucleus rate, and no maternal or embryo toxicity, supporting the safe use of seabuckthorn berry oil for dietary consumption."},
+    {"citekey": "gong2020isorhamnetin", "plant": "hippophae_rhamnoides", "study_type": "traditional",
+     "fields": {"author": "Gong, G., Guan, Y.Y., Zhang, Z.L., Rahman, K. et al.",
+                "title": "Isorhamnetin: A review of pharmacological effects",
+                "journal": "Biomedicine & Pharmacotherapy", "year": "2020", "volume": "128", "pages": "110301",
+                "doi": "10.1016/j.biopha.2020.110301"},
+     "abstract": "Isorhamnetin is one of the most important active flavonoid ingredients in the fruits of Hippophae rhamnoides (sea buckthorn). This review summarises its pharmacological effects — cardiovascular and cerebrovascular protection, anti-tumor, anti-inflammatory, anti-oxidation, organ protection and prevention of obesity — and the underlying signaling mechanisms (PI3K/AKT, NF-kB, MAPK), underlining the medicinal value of this sea buckthorn constituent."},
+
+    # ---- humulus_lupulus (hops) ----
+    {"citekey": "lee2024hops", "plant": "humulus_lupulus", "study_type": "preclinical",
+     "fields": {"author": "Lee, H., Chung, S.H., Kwon, D.J., Nam, M.J. et al.",
+                "title": "Sleep-enhancing effect of Hongcheon-hop (Humulus lupulus L.) extract containing xanthohumol and humulone through GABA-A receptor",
+                "journal": "Journal of Ethnopharmacology", "year": "2024", "volume": "338", "number": "Pt 2", "pages": "119019",
+                "doi": "10.1016/j.jep.2024.119019"},
+     "abstract": "The bitter resins in hops (Humulus lupulus) modulate GABA receptors, producing sedative effects and enhancing sleep. A hop extract containing xanthohumol and humulone dose-dependently increased sleep duration in a pentobarbital model, enhanced non-rapid-eye-movement (deep delta-wave) sleep, and acted by binding the GABA site on the GABA-A receptor while increasing brain GABA and 5-HT receptor levels, supporting hops as a natural sleep aid."},
+    {"citekey": "kenda2021herbal", "plant": "humulus_lupulus", "study_type": "traditional",
+     "fields": {"author": "Kenda, M., Glavač, N.K., Nagy, M. and Sollner Dolenc, M.",
+                "title": "Herbal Products Used in Menopause and for Gynecological Disorders",
+                "journal": "Molecules", "year": "2021", "volume": "26", "number": "24", "pages": "7421",
+                "doi": "10.3390/molecules26247421"},
+     "abstract": "A review of plants and derived products commonly used for menopausal symptoms and gynecological disorders, focusing on clinical data and safety. Black cohosh and red clover consistently reduced menopausal symptoms in clinical studies, while currently available data do not fully support the use of hops (Humulus lupulus), fenugreek, valerian and soybean for this indication, providing a balanced view of hops' estrogenic/menopausal use."},
+    {"citekey": "dietz2016botanicals", "plant": "humulus_lupulus", "study_type": "traditional",
+     "fields": {"author": "Dietz, B.M., Hajirahimkhan, A., Dunlap, T.L. and Bolton, J.L.",
+                "title": "Botanicals and Their Bioactive Phytochemicals for Women's Health",
+                "journal": "Pharmacological Reviews", "year": "2016", "volume": "68", "number": "4", "pages": "1026-1073",
+                "doi": "10.1124/pr.115.010843"},
+     "abstract": "A comprehensive review of botanical dietary supplements for women's health. Among plant extracts with estrogenic activity proposed for menopausal symptom relief is Humulus lupulus (hops), alongside soy, red clover, kudzu and others; some have protective effects against osteoporosis and potential breast-cancer-preventive effects, while the review stresses that botanicals have not been rigorously tested for toxicity or drug interactions."},
+
+    # ---- hypericum_perforatum (St John's wort) ----
+    {"citekey": "ng2017hypericum", "plant": "hypericum_perforatum", "study_type": "systematic-review",
+     "fields": {"author": "Ng, Q.X., Venkatanarayanan, N. and Ho, C.Y.X.",
+                "title": "Clinical use of Hypericum perforatum (St John's wort) in depression: A meta-analysis",
+                "journal": "Journal of Affective Disorders", "year": "2017", "volume": "210", "pages": "211-221",
+                "doi": "10.1016/j.jad.2016.12.048"},
+     "abstract": "A meta-analysis of 27 clinical trials (3808 patients) comparing St John's wort (Hypericum perforatum) with SSRIs in depression. St John's wort demonstrated comparable response and remission rates and significantly lower discontinuation/dropout than standard SSRIs, supporting comparable efficacy and safety for mild-to-moderate depression; evidence on long-term efficacy and use in severe depression remains limited."},
+    {"citekey": "kholghi2022hypericum", "plant": "hypericum_perforatum", "study_type": "traditional",
+     "fields": {"author": "Kholghi, G., Arjmandi-Rad, S., Zarrindast, M.R. and Vaseghi, S.",
+                "title": "St. John's wort (Hypericum perforatum) and depression: what happens to the neurotransmitter systems?",
+                "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology", "year": "2022", "volume": "395", "number": "6", "pages": "629-642",
+                "doi": "10.1007/s00210-022-02229-z"},
+     "abstract": "St. John's wort (Hypericum perforatum) contains bioactive molecules including hyperforin and hypericin and has therapeutic effects on depression and other mood/psychiatric disorders. This review discusses the role of St John's wort in modulating depression with respect to neurotransmitter systems in the brain, concluding that it induces complex, sometimes inconsistent effects on neurotransmitter levels, with glutamate and acetylcholine highlighted for future study."},
+    {"citekey": "fughberman2000herbdrug", "plant": "hypericum_perforatum", "study_type": "traditional",
+     "fields": {"author": "Fugh-Berman, A.",
+                "title": "Herb-drug interactions",
+                "journal": "Lancet", "year": "2000", "volume": "355", "number": "9198", "pages": "134-138",
+                "doi": "10.1016/S0140-6736(99)06457-0"},
+     "abstract": "A review of herb-drug interactions. St John's wort (Hypericum perforatum) is prominently implicated: mild serotonin syndrome when combined with serotonin-reuptake inhibitors, and decreased bioavailability of digoxin, theophylline, cyclosporin and phenprocoumon. The review emphasises that health-care practitioners should caution patients against mixing herbs and pharmaceutical drugs — an important safety consideration for St John's wort use."},
+]
+
+if __name__ == "__main__":
+    apply(SOURCES)

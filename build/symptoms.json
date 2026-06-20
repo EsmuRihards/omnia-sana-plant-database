@@ -5656,30 +5656,32 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0048",
       "REF-0098",
-      "REF-0245"
-     ]
-    },
-    {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0048",
-      "REF-0098",
-      "REF-0245"
+      "REF-0245",
+      "REF-0906"
      ]
     },
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0048",
+      "REF-0098",
+      "REF-0245",
+      "REF-0906"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -6272,20 +6274,21 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0068",
       "REF-0252",
-      "REF-0304"
+      "REF-0304",
+      "REF-0919"
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -6548,6 +6551,45 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0048",
+      "REF-0098",
+      "REF-0241",
+      "REF-0892"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0048",
+      "REF-0098",
+      "REF-0241",
+      "REF-0892"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0048",
+      "REF-0098",
+      "REF-0241",
+      "REF-0899"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -6562,42 +6604,6 @@
     {
      "condition": "bloating",
      "label": "Bloating",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0048",
-      "REF-0098",
-      "REF-0241"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0048",
-      "REF-0098",
-      "REF-0241"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0048",
-      "REF-0098",
-      "REF-0241"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -6664,7 +6670,8 @@
      "references": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0897"
      ]
     }
    ]

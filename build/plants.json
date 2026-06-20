@@ -25184,7 +25184,10 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0897",
+      "REF-0898",
+      "REF-0899"
      ],
      "status": "verified"
     },
@@ -25193,7 +25196,9 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0892",
+      "REF-0897"
      ],
      "status": "verified"
     },
@@ -25202,7 +25207,10 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0896",
+      "REF-0897",
+      "REF-0898"
      ],
      "status": "verified"
     },
@@ -25211,7 +25219,8 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0898"
      ],
      "status": "verified"
     },
@@ -25252,7 +25261,8 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0892"
      ],
      "status": "needs-review"
     },
@@ -25262,7 +25272,8 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0892"
      ],
      "status": "needs-review"
     },
@@ -25272,7 +25283,8 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0899"
      ],
      "status": "needs-review"
     },
@@ -25322,7 +25334,8 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0241"
+      "REF-0241",
+      "REF-0897"
      ],
      "status": "needs-review"
     }
@@ -25349,9 +25362,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0890",
+    "REF-0891",
+    "REF-0892",
+    "REF-0893",
+    "REF-0894",
+    "REF-0895",
+    "REF-0896",
+    "REF-0897",
+    "REF-0898",
+    "REF-0899"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "ruscus-aculeatus",
@@ -27561,7 +27586,11 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0245"
+      "REF-0245",
+      "REF-0900",
+      "REF-0903",
+      "REF-0904",
+      "REF-0906"
      ],
      "status": "verified"
     },
@@ -27570,7 +27599,10 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0245"
+      "REF-0245",
+      "REF-0900",
+      "REF-0904",
+      "REF-0905"
      ],
      "status": "verified"
     },
@@ -27591,7 +27623,8 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0245"
+      "REF-0245",
+      "REF-0906"
      ],
      "status": "needs-review"
     },
@@ -27611,7 +27644,8 @@
      "reference_ids": [
       "REF-0048",
       "REF-0098",
-      "REF-0245"
+      "REF-0245",
+      "REF-0906"
      ],
      "status": "needs-review"
     },
@@ -27648,9 +27682,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0900",
+    "REF-0901",
+    "REF-0902",
+    "REF-0903",
+    "REF-0904",
+    "REF-0905",
+    "REF-0906",
+    "REF-0907",
+    "REF-0908",
+    "REF-0909"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "symphytum-officinale",
@@ -30237,7 +30283,10 @@
      "reference_ids": [
       "REF-0068",
       "REF-0252",
-      "REF-0304"
+      "REF-0304",
+      "REF-0910",
+      "REF-0911",
+      "REF-0919"
      ],
      "status": "verified"
     },
@@ -30268,7 +30317,8 @@
      "reference_ids": [
       "REF-0068",
       "REF-0252",
-      "REF-0304"
+      "REF-0304",
+      "REF-0919"
      ],
      "status": "needs-review"
     },
@@ -30365,9 +30415,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0910",
+    "REF-0911",
+    "REF-0912",
+    "REF-0913",
+    "REF-0914",
+    "REF-0915",
+    "REF-0916",
+    "REF-0917",
+    "REF-0918",
+    "REF-0919"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "urtica-dioica",

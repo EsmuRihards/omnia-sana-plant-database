@@ -20,6 +20,9 @@ actions:
   - REF-0068
   - REF-0252
   - REF-0304
+  - REF-0910
+  - REF-0911
+  - REF-0919
   status: verified
 - action: sedative
   reference_ids:
@@ -41,6 +44,7 @@ indications:
   - REF-0068
   - REF-0252
   - REF-0304
+  - REF-0919
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
@@ -119,11 +123,25 @@ contraindications:
   - REF-0252
   - REF-0304
   status: verified
-provenance: book
+references:
+- REF-0910
+- REF-0911
+- REF-0912
+- REF-0913
+- REF-0914
+- REF-0915
+- REF-0916
+- REF-0917
+- REF-0918
+- REF-0919
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-0910, REF-0911, REF-0912, REF-0913, REF-0914,
+  REF-0915, REF-0916, REF-0917, REF-0918, REF-0919) — woven into relevant actions/indications and the
+  plant-level references bucket.'

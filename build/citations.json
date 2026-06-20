@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 889,
+ "count": 919,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -339,6 +339,41 @@
     "Hamamelis virginiana"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0910",
+   "key": "ahmad2025tussilago",
+   "type": "article",
+   "title": "Coltsfoot (Tussilago farfara L.; Asteraceae): modern methods of extraction, phytochemistry, nanoparticles synthesis, ethnopharmacology, and biological activities",
+   "authors": "Ahmad, I., Kudaibergenova, B., Ahmad, M. and others",
+   "journal": "Natural Product Research",
+   "year": "2025",
+   "doi": "10.1080/14786419.2025.2548616",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2025.2548616",
+   "link_type": "doi",
+   "citation": "Ahmad, I., Kudaibergenova, B., Ahmad, M. and others (2025) 'Coltsfoot (Tussilago farfara L.; Asteraceae): modern methods of extraction, phytochemistry, nanoparticles synthesis, ethnopharmacology, and biological activities', Natural Product Research, pp. 1-20. doi:10.1080/14786419.2025.2548616",
+   "abstract": "Tussilago farfara (coltsfoot) is a widely used medicinal plant traditionally used for respiratory, digestive and circulatory ailments. Its alkaloids, flavonoids and terpenoids contribute to neuroprotective, anti-inflammatory, antioxidant and anticancer activities. This review covers extraction methods, phytochemistry, nanoparticle synthesis, ethnobotany, pharmacology and toxicology (pyrrolizidine-alkaloid safety considerations).",
+   "tier": "traditional",
+   "display": "Coltsfoot (Tussilago farfara L.; Asteraceae): modern methods of extraction, phytochemistry, nanoparticles synthesis, ethnopharmacology, and biological activities",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -982,6 +1017,36 @@
     "Cold & flu",
     "Immune support"
    ]
+  },
+  {
+   "ref_id": "REF-0891",
+   "key": "oh2025rumex",
+   "type": "article",
+   "title": "Rumex acetosa L. enhances learning and cognitive function by modulating NMDA receptor and BDNF pathways in vitro and in vivo",
+   "authors": "Oh, D.R., Kim, Y., Choi, E.J., Jung, M.A. and others",
+   "journal": "Metabolic Brain Disease",
+   "year": "2025",
+   "doi": "10.1007/s11011-025-01608-8",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11011-025-01608-8",
+   "link_type": "doi",
+   "citation": "Oh, D.R., Kim, Y., Choi, E.J., Jung, M.A. and others (2025) 'Rumex acetosa L. enhances learning and cognitive function by modulating NMDA receptor and BDNF pathways in vitro and in vivo', Metabolic Brain Disease, 40(5), pp. 185. doi:10.1007/s11011-025-01608-8",
+   "abstract": "Rumex acetosa (sorrel), used as a vegetable and traditional medicine, was investigated for effects on cognition. The extract enhanced learning and memory in vitro and in vivo by modulating NMDA receptor signalling and BDNF pathways, indicating a neuroprotective and cognition-enhancing potential.",
+   "tier": "preclinical",
+   "display": "Rumex acetosa L. enhances learning and cognitive function by modulating NMDA receptor and BDNF pathways in vitro and in vivo",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0026",
@@ -2211,6 +2276,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0906",
+   "key": "chak2024stellaria",
+   "type": "article",
+   "title": "In Vitro COX Inhibitory Activity, LC-MS Analysis and Molecular Docking Study of Silene vulgaris and Stellaria media",
+   "authors": "Chak, P., Kumar, S. and others",
+   "journal": "Cell Biochemistry and Biophysics",
+   "year": "2024",
+   "doi": "10.1007/s12013-024-01533-0",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12013-024-01533-0",
+   "link_type": "doi",
+   "citation": "Chak, P., Kumar, S. and others (2024) 'In Vitro COX Inhibitory Activity, LC-MS Analysis and Molecular Docking Study of Silene vulgaris and Stellaria media', Cell Biochemistry and Biophysics, 83(1), pp. 1009-1020. doi:10.1007/s12013-024-01533-0",
+   "abstract": "Extracts of Stellaria media (and Silene vulgaris), Caryophyllaceae weeds, were assessed for in vitro cyclooxygenase (COX) inhibitory activity, characterised by LC-MS and studied by molecular docking. Stellaria media showed COX inhibition, providing a mechanistic basis for its traditional anti-inflammatory use.",
+   "tier": "preclinical",
+   "display": "In Vitro COX Inhibitory Activity, LC-MS Analysis and Molecular Docking Study of Silene vulgaris and Stellaria media",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Arthritis / joint pain",
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-0853",
    "key": "markovic2024juniper",
    "type": "article",
@@ -2714,6 +2812,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0904",
+   "key": "cusumano2024stellaria",
+   "type": "article",
+   "title": "Small Steps to the Big Picture for Health-Promoting Applications Through the Use of Chickweed (Stellaria media): In Vitro, In Silico, and Pharmacological Network Approaches",
+   "authors": "Cusumano, G., Flores, G.A., Venanzoni, R., Angelini, P. and others",
+   "journal": "Food Science & Nutrition",
+   "year": "2024",
+   "doi": "10.1002/fsn3.4505",
+   "url": "",
+   "link": "https://doi.org/10.1002/fsn3.4505",
+   "link_type": "doi",
+   "citation": "Cusumano, G., Flores, G.A., Venanzoni, R., Angelini, P. and others (2024) 'Small Steps to the Big Picture for Health-Promoting Applications Through the Use of Chickweed (Stellaria media): In Vitro, In Silico, and Pharmacological Network Approaches', Food Science & Nutrition, 12(11), pp. 9295-9313. doi:10.1002/fsn3.4505",
+   "abstract": "Chickweed (Stellaria media) extracts (ethyl acetate, ethanol, ethanol-water) were profiled chemically and investigated for biological properties using in vitro, in silico and pharmacological network approaches. The extracts were rich in phenolics and showed antioxidant and antimicrobial activity, supporting health-promoting applications of chickweed.",
+   "tier": "preclinical",
+   "display": "Small Steps to the Big Picture for Health-Promoting Applications Through the Use of Chickweed (Stellaria media): In Vitro, In Silico, and Pharmacological Network Approaches",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0326",
    "key": "hao2024taraxacum",
    "type": "article",
@@ -3035,6 +3164,41 @@
     "Inflammation (general)",
     "Skin irritation",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-0892",
+   "key": "kang2023rumex",
+   "type": "article",
+   "title": "Anti-Helicobacter pylori Activity of Six Major Compounds Isolated from Rumex acetosa",
+   "authors": "Kang, Y.M., Lee, K.Y., An, H.J. and others",
+   "journal": "ACS Omega",
+   "year": "2023",
+   "doi": "10.1021/acsomega.3c05282",
+   "url": "",
+   "link": "https://doi.org/10.1021/acsomega.3c05282",
+   "link_type": "doi",
+   "citation": "Kang, Y.M., Lee, K.Y., An, H.J. and others (2023) 'Anti-Helicobacter pylori Activity of Six Major Compounds Isolated from Rumex acetosa', ACS Omega, 8(45), pp. 42548-42554. doi:10.1021/acsomega.3c05282",
+   "abstract": "Gastric problems are often caused by Helicobacter pylori, and antibiotic resistance complicates treatment. Six major compounds isolated from Rumex acetosa were evaluated for anti-Helicobacter pylori activity, with several showing significant inhibitory activity, supporting the use of sorrel against H. pylori-related digestive complaints.",
+   "tier": "preclinical",
+   "display": "Anti-Helicobacter pylori Activity of Six Major Compounds Isolated from Rumex acetosa",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Indigestion",
+    "Infection (general)"
    ]
   },
   {
@@ -3998,6 +4162,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0903",
+   "key": "aleem2023stellaria",
+   "type": "article",
+   "title": "Phytochemical analysis and gastroprotective effect of Stellaria media (L.) Vill. methanolic extract on piroxicam-induced gastric ulcer in Wistar rats",
+   "authors": "Aleem, M., Khan, R.A., Tabassum, N. and others",
+   "journal": "Pakistan Journal of Pharmaceutical Sciences",
+   "year": "2023",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/37869918/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/37869918/",
+   "link_type": "url",
+   "citation": "Aleem, M., Khan, R.A., Tabassum, N. and others (2023) 'Phytochemical analysis and gastroprotective effect of Stellaria media (L.) Vill. methanolic extract on piroxicam-induced gastric ulcer in Wistar rats', Pakistan Journal of Pharmaceutical Sciences, 36(5), pp. 1425-1434. Available at: https://pubmed.ncbi.nlm.nih.gov/37869918/",
+   "abstract": "Stellaria media has traditionally been used for inflammatory and gastrointestinal ailments. A methanolic extract was phytochemically characterised and tested against piroxicam-induced gastric ulcer in Wistar rats, where it exerted a significant gastroprotective and anti-inflammatory effect, reducing ulcer index and gastric damage.",
+   "tier": "preclinical",
+   "display": "Phytochemical analysis and gastroprotective effect of Stellaria media (L.) Vill. methanolic extract on piroxicam-induced gastric ulcer in Wistar rats",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0763",
    "key": "zhou2023capsella",
    "type": "article",
@@ -4422,6 +4616,39 @@
    ],
    "scientific": [
     "Capsella bursa-pastoris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0916",
+   "key": "bota2022tussilago",
+   "type": "article",
+   "title": "A Comparative Analysis of the Anatomy, Phenolic Profile, and Antioxidant Capacity of Tussilago farfara L. Vegetative Organs",
+   "authors": "Bota, V.B., Neamtu, A.A., Olah, N.K., Chiselita, O. and others",
+   "journal": "Plants (Basel)",
+   "year": "2022",
+   "doi": "10.3390/plants11131663",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants11131663",
+   "link_type": "doi",
+   "citation": "Bota, V.B., Neamtu, A.A., Olah, N.K., Chiselita, O. and others (2022) 'A Comparative Analysis of the Anatomy, Phenolic Profile, and Antioxidant Capacity of Tussilago farfara L. Vegetative Organs', Plants (Basel), 11(13), pp. 1663. doi:10.3390/plants11131663",
+   "abstract": "Tussilago farfara is used in traditional medicine mainly for respiratory-tract pathology. This study compared the anatomy, phenolic profile and antioxidant capacity of coltsfoot vegetative organs, finding the leaves rich in phenolics with notable antioxidant activity.",
+   "tier": "preclinical",
+   "display": "A Comparative Analysis of the Anatomy, Phenolic Profile, and Antioxidant Capacity of Tussilago farfara L. Vegetative Organs",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
    ],
    "actions": [],
    "conditions": []
@@ -5391,6 +5618,36 @@
    ]
   },
   {
+   "ref_id": "REF-0905",
+   "key": "ahmad2022stellaria",
+   "type": "article",
+   "title": "Lipid peroxidation reduction and hippocampal and cortical neurons protection against ischemic damage in animal model using Stellaria media",
+   "authors": "Ahmad, S., Ullah, F., Ayaz, M., Sadiq, A. and others",
+   "journal": "Saudi Journal of Biological Sciences",
+   "year": "2022",
+   "doi": "10.1016/j.sjbs.2021.10.033",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.sjbs.2021.10.033",
+   "link_type": "doi",
+   "citation": "Ahmad, S., Ullah, F., Ayaz, M., Sadiq, A. and others (2022) 'Lipid peroxidation reduction and hippocampal and cortical neurons protection against ischemic damage in animal model using Stellaria media', Saudi Journal of Biological Sciences, 29(3), pp. 1887-1892. doi:10.1016/j.sjbs.2021.10.033",
+   "abstract": "Stellaria media was evaluated for neuroprotection in a rat model of ischemia-reperfusion injury. The extract reduced lipid peroxidation and protected hippocampal and cortical neurons against oxidative ischemic damage, demonstrating antioxidant and neuroprotective activity.",
+   "tier": "preclinical",
+   "display": "Lipid peroxidation reduction and hippocampal and cortical neurons protection against ischemic damage in animal model using Stellaria media",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0707",
    "key": "mondal2022arctium",
    "type": "article",
@@ -5494,6 +5751,39 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-0912",
+   "key": "feng2022tussilago",
+   "type": "article",
+   "title": "Novel Quinic Acid Glycerates from Tussilago farfara Inhibit Polypeptide GalNAc-Transferase",
+   "authors": "Feng, J., Zhang, Y., Qin, X., Gao, T. and others",
+   "journal": "ChemBioChem",
+   "year": "2022",
+   "doi": "10.1002/cbic.202100539",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbic.202100539",
+   "link_type": "doi",
+   "citation": "Feng, J., Zhang, Y., Qin, X., Gao, T. and others (2022) 'Novel Quinic Acid Glycerates from Tussilago farfara Inhibit Polypeptide GalNAc-Transferase', ChemBioChem, 23(3), pp. e202100539. doi:10.1002/cbic.202100539",
+   "abstract": "Novel quinic acid glycerates were isolated from Tussilago farfara and identified as inhibitors of human polypeptide N-acetylgalactosaminyltransferases (GalNAc-Ts), the initiating enzymes of mucin-type O-glycosylation, adding new bioactive constituents to the known chemistry of coltsfoot.",
+   "tier": "preclinical",
+   "display": "Novel Quinic Acid Glycerates from Tussilago farfara Inhibit Polypeptide GalNAc-Transferase",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0742",
@@ -5670,6 +5960,39 @@
    ],
    "scientific": [
     "Bacopa monnieri"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0918",
+   "key": "li2022tussilago",
+   "type": "article",
+   "title": "Polyhydroxylated eudesmane sesquiterpenoids and sesquiterpenoid glucoside from the flower buds of Tussilago farfara",
+   "authors": "Li, Z.Y., Zhang, J., Zhang, Y.B., Yang, X.W. and others",
+   "journal": "Chinese Journal of Natural Medicines",
+   "year": "2022",
+   "doi": "10.1016/S1875-5364(21)60120-6",
+   "url": "",
+   "link": "https://doi.org/10.1016/S1875-5364(21)60120-6",
+   "link_type": "doi",
+   "citation": "Li, Z.Y., Zhang, J., Zhang, Y.B., Yang, X.W. and others (2022) 'Polyhydroxylated eudesmane sesquiterpenoids and sesquiterpenoid glucoside from the flower buds of Tussilago farfara', Chinese Journal of Natural Medicines, 20(4), pp. 301-308. doi:10.1016/S1875-5364(21)60120-6",
+   "abstract": "Chemical fractionation of the flower buds of Tussilago farfara yielded a series of polar constituents including new polyhydroxylated eudesmane sesquiterpenoids and a sesquiterpenoid glucoside, expanding the characterised constituent chemistry of coltsfoot.",
+   "tier": "preclinical",
+   "display": "Polyhydroxylated eudesmane sesquiterpenoids and sesquiterpenoid glucoside from the flower buds of Tussilago farfara",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
    ],
    "actions": [],
    "conditions": []
@@ -5956,6 +6279,42 @@
    ]
   },
   {
+   "ref_id": "REF-0897",
+   "key": "li2022rumex",
+   "type": "article",
+   "title": "The genus Rumex (Polygonaceae): an ethnobotanical, phytochemical and pharmacological review",
+   "authors": "Li, J.J., Li, Y.X., Li, N., Zhu, H.T. and others",
+   "journal": "Natural Products and Bioprospecting",
+   "year": "2022",
+   "doi": "10.1007/s13659-022-00346-z",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13659-022-00346-z",
+   "link_type": "doi",
+   "citation": "Li, J.J., Li, Y.X., Li, N., Zhu, H.T. and others (2022) 'The genus Rumex (Polygonaceae): an ethnobotanical, phytochemical and pharmacological review', Natural Products and Bioprospecting, 12(1), pp. 21. doi:10.1007/s13659-022-00346-z",
+   "abstract": "The genus Rumex (sorrel/dock), including Rumex acetosa, has been used as food and to treat skin diseases and bleeding after trauma. About 268 substances (anthraquinones, flavonoids, naphthalenes, stilbenes, tannins) have been characterised, and crude extracts and isolates display antibacterial, anti-inflammatory, antitumour, antioxidant and cardiovascular-protective activities.",
+   "tier": "traditional",
+   "display": "The genus Rumex (Polygonaceae): an ethnobotanical, phytochemical and pharmacological review",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-0718",
    "key": "ukkirapandian2022acorus",
    "type": "article",
@@ -6025,6 +6384,38 @@
     "Pain (general)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0896",
+   "key": "feduraev2022rumex",
+   "type": "article",
+   "title": "Variability of Phenolic Compound Accumulation and Antioxidant Activity in Wild Plants of Some Rumex Species (Polygonaceae)",
+   "authors": "Feduraev, P., Skrypnik, L., Nebreeva, S., Dzhobadze, G. and others",
+   "journal": "Antioxidants (Basel)",
+   "year": "2022",
+   "doi": "10.3390/antiox11020311",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox11020311",
+   "link_type": "doi",
+   "citation": "Feduraev, P., Skrypnik, L., Nebreeva, S., Dzhobadze, G. and others (2022) 'Variability of Phenolic Compound Accumulation and Antioxidant Activity in Wild Plants of Some Rumex Species (Polygonaceae)', Antioxidants (Basel), 11(2), pp. 311. doi:10.3390/antiox11020311",
+   "abstract": "Seven Rumex species, including Rumex acetosa, were analysed for phenolic composition and antioxidant activity. The leaves were rich in flavonoids (apigenin, luteolin, quercetin, kaempferol derivatives), catechins, proanthocyanidins and tannins, and several species - including sorrel relatives - showed high antioxidant activity by DPPH, ABTS and FRAP assays.",
+   "tier": "preclinical",
+   "display": "Variability of Phenolic Compound Accumulation and Antioxidant Activity in Wild Plants of Some Rumex Species (Polygonaceae)",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0030",
@@ -7130,6 +7521,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0894",
+   "key": "selbach2021rumex",
+   "type": "article",
+   "title": "Microbiological and Clinical Effects of a Proanthocyanidin-enriched Extract from Rumex acetosa in Periodontally Healthy Carriers of Porphyromonas gingivalis: a Randomized Controlled Pilot Study",
+   "authors": "Selbach, S., Klocke, A., Peters, U., Beckert, S. and others",
+   "journal": "Planta Medica",
+   "year": "2021",
+   "doi": "10.1055/a-1728-2249",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-1728-2249",
+   "link_type": "doi",
+   "citation": "Selbach, S., Klocke, A., Peters, U., Beckert, S. and others (2021) 'Microbiological and Clinical Effects of a Proanthocyanidin-enriched Extract from Rumex acetosa in Periodontally Healthy Carriers of Porphyromonas gingivalis: a Randomized Controlled Pilot Study', Planta Medica, 89(11), pp. 1052-1062. doi:10.1055/a-1728-2249",
+   "abstract": "A proanthocyanidin-enriched extract from Rumex acetosa inhibits adhesion of Porphyromonas gingivalis to host cells. This randomised placebo-controlled pilot trial of a mouth rinse containing the extract in healthy carriers of P. gingivalis analysed microbiological and clinical effects, supporting an antimicrobial role of sorrel against periodontal pathogens.",
+   "tier": "rct",
+   "display": "Microbiological and Clinical Effects of a Proanthocyanidin-enriched Extract from Rumex acetosa in Periodontally Healthy Carriers of Porphyromonas gingivalis: a Randomized Controlled Pilot Study",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0781",
    "key": "hosseini2021coriander",
    "type": "article",
@@ -7713,6 +8134,34 @@
    ]
   },
   {
+   "ref_id": "REF-0901",
+   "key": "demjan2021stellaria",
+   "type": "article",
+   "title": "Stellaria media tea protects against diabetes-induced cardiac dysfunction in rats without affecting glucose tolerance",
+   "authors": "Demjan, V., Sojka, L., Slezak, P., Kaprinay, B. and others",
+   "journal": "Journal of Traditional and Complementary Medicine",
+   "year": "2021",
+   "doi": "10.1016/j.jtcme.2021.08.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jtcme.2021.08.003",
+   "link_type": "doi",
+   "citation": "Demjan, V., Sojka, L., Slezak, P., Kaprinay, B. and others (2021) 'Stellaria media tea protects against diabetes-induced cardiac dysfunction in rats without affecting glucose tolerance', Journal of Traditional and Complementary Medicine, 12(3), pp. 250-259. doi:10.1016/j.jtcme.2021.08.003",
+   "abstract": "Common chickweed (Stellaria media) tea has been used in folk medicine for metabolic diseases including diabetes. In a rat model of diabetes, chickweed tea protected against diabetes-induced cardiac dysfunction without affecting glucose tolerance, providing experimental support for a cardioprotective effect.",
+   "tier": "preclinical",
+   "display": "Stellaria media tea protects against diabetes-induced cardiac dysfunction in rats without affecting glucose tolerance",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0654",
    "key": "karimian2021cuminglycemic",
    "type": "article",
@@ -8043,6 +8492,74 @@
    ]
   },
   {
+   "ref_id": "REF-0911",
+   "key": "chen2020tussilago",
+   "type": "article",
+   "title": "A review of the ethnobotanical value, phytochemistry, pharmacology, toxicity and quality control of Tussilago farfara L. (coltsfoot)",
+   "authors": "Chen, S., Dong, L., Quan, H., Zhou, X. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2020",
+   "doi": "10.1016/j.jep.2020.113478",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.113478",
+   "link_type": "doi",
+   "citation": "Chen, S., Dong, L., Quan, H., Zhou, X. and others (2020) 'A review of the ethnobotanical value, phytochemistry, pharmacology, toxicity and quality control of Tussilago farfara L. (coltsfoot)', Journal of Ethnopharmacology, 267, pp. 113478. doi:10.1016/j.jep.2020.113478",
+   "abstract": "Tussilago farfara (coltsfoot, Kuan Dong Hua) has long been used to treat respiratory disorders and consumed as a vegetable. This review summarises its ethnobotanical value, phytochemistry (sesquiterpenoids, triterpenoids, flavonoids, pyrrolizidine alkaloids), pharmacology (anti-inflammatory, antioxidant, antitussive, neuroprotective), toxicity and quality control.",
+   "tier": "traditional",
+   "display": "A review of the ethnobotanical value, phytochemistry, pharmacology, toxicity and quality control of Tussilago farfara L. (coltsfoot)",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0914",
+   "key": "avila2020tussilago",
+   "type": "article",
+   "title": "A systematic review and quality assessment of case reports of adverse events for borage (Borago officinalis), coltsfoot (Tussilago farfara) and comfrey (Symphytum officinale)",
+   "authors": "Avila, C., Breakspear, I., Hawrelak, J., Salmond, S. and Evans, S.",
+   "journal": "Fitoterapia",
+   "year": "2020",
+   "doi": "10.1016/j.fitote.2020.104519",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2020.104519",
+   "link_type": "doi",
+   "citation": "Avila, C., Breakspear, I., Hawrelak, J., Salmond, S. and Evans, S (2020) 'A systematic review and quality assessment of case reports of adverse events for borage (Borago officinalis), coltsfoot (Tussilago farfara) and comfrey (Symphytum officinale)', Fitoterapia, 142, pp. 104519. doi:10.1016/j.fitote.2020.104519",
+   "abstract": "Borage, coltsfoot (Tussilago farfara) and comfrey have long therapeutic histories but their safety is questioned due to unsaturated pyrrolizidine alkaloids. This systematic review assessed case reports of adverse events (notably hepatic veno-occlusive disease), informing the safe use and contraindications of coltsfoot.",
+   "tier": "review",
+   "display": "A systematic review and quality assessment of case reports of adverse events for borage (Borago officinalis), coltsfoot (Tussilago farfara) and comfrey (Symphytum officinale)",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0515",
    "key": "uebel2020alpha",
    "type": "article",
@@ -8069,6 +8586,40 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0899",
+   "key": "pan2020rumex",
+   "type": "article",
+   "title": "Anti-inflammatory effects of Beopje curly dock (Rumex crispus L.) in LPS-induced RAW 264.7 cells and its active compounds",
+   "authors": "Pan, Y., Zhao, X., Kim, S.H., Kang, S.A. and others",
+   "journal": "Journal of Food Biochemistry",
+   "year": "2020",
+   "doi": "10.1111/jfbc.13291",
+   "url": "",
+   "link": "https://doi.org/10.1111/jfbc.13291",
+   "link_type": "doi",
+   "citation": "Pan, Y., Zhao, X., Kim, S.H., Kang, S.A. and others (2020) 'Anti-inflammatory effects of Beopje curly dock (Rumex crispus L.) in LPS-induced RAW 264.7 cells and its active compounds', Journal of Food Biochemistry, 44(7), pp. e13291. doi:10.1111/jfbc.13291",
+   "abstract": "Curly dock (Rumex crispus, a Rumex congener of sorrel) extracts were tested on LPS-induced inflammation in RAW 264.7 macrophages. The extracts significantly inhibited nitric oxide production and pro-inflammatory cytokine and gene expression via the NF-kappaB pathway, demonstrating anti-inflammatory activity within the Rumex genus.",
+   "tier": "preclinical",
+   "display": "Anti-inflammatory effects of Beopje curly dock (Rumex crispus L.) in LPS-induced RAW 264.7 cells and its active compounds",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
   },
   {
    "ref_id": "REF-0778",
@@ -8366,6 +8917,39 @@
    ]
   },
   {
+   "ref_id": "REF-0917",
+   "key": "boucher2020tussilago",
+   "type": "article",
+   "title": "Chemical composition and antibacterial activity of Tussilago farfara (L.) essential oil from Quebec, Canada",
+   "authors": "Boucher, M.A., Cote, H., Pichette, A., Ripoll, L. and Legault, J.",
+   "journal": "Natural Product Research",
+   "year": "2020",
+   "doi": "10.1080/14786419.2018.1489384",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2018.1489384",
+   "link_type": "doi",
+   "citation": "Boucher, M.A., Cote, H., Pichette, A., Ripoll, L. and Legault, J (2020) 'Chemical composition and antibacterial activity of Tussilago farfara (L.) essential oil from Quebec, Canada', Natural Product Research, 34(4), pp. 545-548. doi:10.1080/14786419.2018.1489384",
+   "abstract": "The essential oil of Tussilago farfara from Quebec, Canada was analysed by GC-FID and GC-MS and tested for antibacterial activity. The oil's chemical composition was characterised and it showed antibacterial activity, supporting the antimicrobial use of coltsfoot.",
+   "tier": "preclinical",
+   "display": "Chemical composition and antibacterial activity of Tussilago farfara (L.) essential oil from Quebec, Canada",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0702",
    "key": "braga2020uvaursi",
    "type": "article",
@@ -8575,6 +9159,64 @@
     "Bloating",
     "Indigestion"
    ]
+  },
+  {
+   "ref_id": "REF-0895",
+   "key": "ahn2020rumex",
+   "type": "article",
+   "title": "Effect of Rumex acetosa Extract, a Herbal Drug, on the Absorption of Fexofenadine",
+   "authors": "Ahn, S.H., Jeon, J.H., Kim, H.J., Maeng, H.J. and others",
+   "journal": "Pharmaceutics",
+   "year": "2020",
+   "doi": "10.3390/pharmaceutics12060547",
+   "url": "",
+   "link": "https://doi.org/10.3390/pharmaceutics12060547",
+   "link_type": "doi",
+   "citation": "Ahn, S.H., Jeon, J.H., Kim, H.J., Maeng, H.J. and others (2020) 'Effect of Rumex acetosa Extract, a Herbal Drug, on the Absorption of Fexofenadine', Pharmaceutics, 12(6), pp. 547. doi:10.3390/pharmaceutics12060547",
+   "abstract": "Herbal drugs may alter the pharmacokinetics of co-administered drugs. This study examined the effect of Rumex acetosa extract on the intestinal absorption of fexofenadine, showing the extract modulated transporter-mediated absorption - an important herb-drug interaction consideration for sorrel preparations.",
+   "tier": "preclinical",
+   "display": "Effect of Rumex acetosa Extract, a Herbal Drug, on the Absorption of Fexofenadine",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0902",
+   "key": "demjan2020stellaria",
+   "type": "article",
+   "title": "Effect of Stellaria media Tea on Lipid Profile in Rats",
+   "authors": "Demjan, V., Kaprinay, B., Sotnikova, R., Knezl, V. and others",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2020",
+   "doi": "10.1155/2020/5109328",
+   "url": "",
+   "link": "https://doi.org/10.1155/2020/5109328",
+   "link_type": "doi",
+   "citation": "Demjan, V., Kaprinay, B., Sotnikova, R., Knezl, V. and others (2020) 'Effect of Stellaria media Tea on Lipid Profile in Rats', Evidence-Based Complementary and Alternative Medicine, 2020, pp. 5109328. doi:10.1155/2020/5109328",
+   "abstract": "Common chickweed (Stellaria media) has traditionally been used for hypercholesterolemia. In rats, administration of chickweed tea favourably affected the serum lipid profile, providing experimental evidence supporting its folk use for lipid-related conditions.",
+   "tier": "preclinical",
+   "display": "Effect of Stellaria media Tea on Lipid Profile in Rats",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0422",
@@ -9427,6 +10069,67 @@
     "Nervous tension",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-0890",
+   "key": "jeong2020rumex",
+   "type": "article",
+   "title": "Rumex acetosa modulates platelet function and inhibits thrombus formation in rats",
+   "authors": "Jeong, D., Irfan, M., Kim, S.D., Kim, S. and others",
+   "journal": "BMC Complementary Medicine and Therapies",
+   "year": "2020",
+   "doi": "10.1186/s12906-020-02889-5",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-020-02889-5",
+   "link_type": "doi",
+   "citation": "Jeong, D., Irfan, M., Kim, S.D., Kim, S. and others (2020) 'Rumex acetosa modulates platelet function and inhibits thrombus formation in rats', BMC Complementary Medicine and Therapies, 20(1), pp. 98. doi:10.1186/s12906-020-02889-5",
+   "abstract": "Rumex acetosa, used in medicinal treatment and food in Eastern Asia, was examined for antiplatelet activity. The extract markedly inhibited collagen-induced platelet aggregation and ATP release dose-dependently, suppressed intracellular calcium mobilisation and integrin activation, and attenuated MAPK and PI3K/Akt signalling, suggesting it may protect against platelet-related cardiovascular disease.",
+   "tier": "preclinical",
+   "display": "Rumex acetosa modulates platelet function and inhibits thrombus formation in rats",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0900",
+   "key": "oladeji2020stellaria",
+   "type": "article",
+   "title": "Stellaria media (L.) Vill. - A plant with immense therapeutic potentials: phytochemistry and pharmacology",
+   "authors": "Oladeji, O.S., Oyebamiji, A.K.",
+   "journal": "Heliyon",
+   "year": "2020",
+   "doi": "10.1016/j.heliyon.2020.e04150",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.heliyon.2020.e04150",
+   "link_type": "doi",
+   "citation": "Oladeji, O.S., Oyebamiji, A.K (2020) 'Stellaria media (L.) Vill. - A plant with immense therapeutic potentials: phytochemistry and pharmacology', Heliyon, 6(6), pp. e04150. doi:10.1016/j.heliyon.2020.e04150",
+   "abstract": "Stellaria media (chickweed), a Caryophyllaceae plant used as a therapeutic substance since antiquity, contains flavonoids, the oligosaccharide stellariose, anthraquinone derivatives, steroid saponins and phenolic compounds. These constituents display anti-obesity, antifungal, antibacterial, antioxidant, anti-proliferative, anti-inflammatory, analgesic, antidiabetic and anxiolytic activities.",
+   "tier": "traditional",
+   "display": "Stellaria media (L.) Vill. - A plant with immense therapeutic potentials: phytochemistry and pharmacology",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0103",
@@ -10587,6 +11290,39 @@
    ]
   },
   {
+   "ref_id": "REF-0915",
+   "key": "lee2019tussilago",
+   "type": "article",
+   "title": "Sesquiterpenoids from Tussilago farfara Flower Bud Extract for the Eco-Friendly Synthesis of Silver and Gold Nanoparticles Possessing Antibacterial and Anticancer Activities",
+   "authors": "Lee, J., Park, S., Kim, M.J., Kwon, S.J. and others",
+   "journal": "Nanomaterials (Basel)",
+   "year": "2019",
+   "doi": "10.3390/nano9060819",
+   "url": "",
+   "link": "https://doi.org/10.3390/nano9060819",
+   "link_type": "doi",
+   "citation": "Lee, J., Park, S., Kim, M.J., Kwon, S.J. and others (2019) 'Sesquiterpenoids from Tussilago farfara Flower Bud Extract for the Eco-Friendly Synthesis of Silver and Gold Nanoparticles Possessing Antibacterial and Anticancer Activities', Nanomaterials (Basel), 9(6), pp. 819. doi:10.3390/nano9060819",
+   "abstract": "Sesquiterpenoids from Tussilago farfara flower bud extract were used as reducing agents to synthesise silver and gold nanoparticles. The resulting nanoparticles displayed antibacterial and anticancer (cytotoxic) activities, illustrating the bioactivity of coltsfoot constituents.",
+   "tier": "preclinical",
+   "display": "Sesquiterpenoids from Tussilago farfara Flower Bud Extract for the Eco-Friendly Synthesis of Silver and Gold Nanoparticles Possessing Antibacterial and Anticancer Activities",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0268",
    "key": "shahrajabian2019shahrajabian",
    "type": "article",
@@ -10905,6 +11641,40 @@
     "Betula pendula"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0898",
+   "key": "mishra2018rumex",
+   "type": "article",
+   "title": "Bioactive compounds and health benefits of edible Rumex species - A review",
+   "authors": "Prakash Mishra, A., Sharifi-Rad, M., Shariati, M.A., Mabkhot, Y.N. and others",
+   "journal": "Cellular and Molecular Biology",
+   "year": "2018",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29981688/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/29981688/",
+   "link_type": "url",
+   "citation": "Prakash Mishra, A., Sharifi-Rad, M., Shariati, M.A., Mabkhot, Y.N. and others (2018) 'Bioactive compounds and health benefits of edible Rumex species - A review', Cellular and Molecular Biology, 64(8), pp. 27-34. Available at: https://pubmed.ncbi.nlm.nih.gov/29981688/",
+   "abstract": "Edible and medicinal Rumex species (including sorrel) are rich in phenylpropanoids and anthraquinones responsible for anticancer, antioxidant, antifungal, antibacterial, anti-dysenteric, anti-inflammatory, antiulcer, antihypertensive and anticoagulant properties. This review focuses on preclinical evidence for the efficacy and safety of Rumex species used as traditional foods and herbal remedies.",
+   "tier": "traditional",
+   "display": "Bioactive compounds and health benefits of edible Rumex species - A review",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Digestive aid"
+   ],
    "conditions": []
   },
   {
@@ -12236,6 +13006,34 @@
    ],
    "scientific": [
     "Asclepias tuberosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0909",
+   "key": "slavokhotova2017stellaria",
+   "type": "article",
+   "title": "Defense peptide repertoire of Stellaria media predicted by high throughput next generation sequencing",
+   "authors": "Slavokhotova, A.A., Shelenkov, A.A., Andreev, Y.A. and Odintsova, T.I.",
+   "journal": "Biochimie",
+   "year": "2017",
+   "doi": "10.1016/j.biochi.2016.12.017",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biochi.2016.12.017",
+   "link_type": "doi",
+   "citation": "Slavokhotova, A.A., Shelenkov, A.A., Andreev, Y.A. and Odintsova, T.I (2017) 'Defense peptide repertoire of Stellaria media predicted by high throughput next generation sequencing', Biochimie, 135, pp. 15-27. doi:10.1016/j.biochi.2016.12.017",
+   "abstract": "Using high-throughput next-generation sequencing, the defence peptide repertoire of chickweed (Stellaria media) was characterised, revealing a diverse set of antimicrobial peptides. This work maps the molecular basis of the plant's antimicrobial defence chemistry.",
+   "tier": "preclinical",
+   "display": "Defense peptide repertoire of Stellaria media predicted by high throughput next generation sequencing",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
    ],
    "actions": [],
    "conditions": []
@@ -14027,6 +14825,43 @@
    ]
   },
   {
+   "ref_id": "REF-0919",
+   "key": "jang2016tussilago",
+   "type": "article",
+   "title": "Sesquiterpenoids from Tussilago farfara inhibit LPS-induced nitric oxide production in macrophage RAW 264.7 cells",
+   "authors": "Jang, H., Lee, J.W., Lee, C., Jin, Q. and others",
+   "journal": "Archives of Pharmacal Research",
+   "year": "2016",
+   "doi": "10.1007/s12272-015-0667-7",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12272-015-0667-7",
+   "link_type": "doi",
+   "citation": "Jang, H., Lee, J.W., Lee, C., Jin, Q. and others (2016) 'Sesquiterpenoids from Tussilago farfara inhibit LPS-induced nitric oxide production in macrophage RAW 264.7 cells', Archives of Pharmacal Research, 39(1), pp. 127-132. doi:10.1007/s12272-015-0667-7",
+   "abstract": "A new oplopane-type sesquiterpenoid (tussilagofarin) and a new chromone, together with 18 known compounds, were isolated from the flower buds of Tussilago farfara. Several sesquiterpenoids significantly inhibited LPS-induced nitric oxide production in RAW 264.7 macrophages, demonstrating the anti-inflammatory activity of coltsfoot constituents.",
+   "tier": "preclinical",
+   "display": "Sesquiterpenoids from Tussilago farfara inhibit LPS-induced nitric oxide production in macrophage RAW 264.7 cells",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-0559",
    "key": "voroneanu2016silymarin",
    "type": "article",
@@ -14161,6 +14996,34 @@
     "Inflammation (general)",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-0908",
+   "key": "rogozhin2015stellaria",
+   "type": "article",
+   "title": "A novel antifungal peptide from leaves of the weed Stellaria media L.",
+   "authors": "Rogozhin, E.A., Slezina, M.P., Slavokhotova, A.A., Istomina, E.A. and others",
+   "journal": "Biochimie",
+   "year": "2015",
+   "doi": "10.1016/j.biochi.2015.07.014",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biochi.2015.07.014",
+   "link_type": "doi",
+   "citation": "Rogozhin, E.A., Slezina, M.P., Slavokhotova, A.A., Istomina, E.A. and others (2015) 'A novel antifungal peptide from leaves of the weed Stellaria media L', Biochimie, 116, pp. 125-132. doi:10.1016/j.biochi.2015.07.014",
+   "abstract": "A novel antimicrobial peptide, SmAMP3, was isolated from leaves of common chickweed (Stellaria media) and sequenced. The peptide showed strong antifungal activity against phytopathogenic fungi, illustrating the plant's defence chemistry and contributing to its known antimicrobial properties.",
+   "tier": "preclinical",
+   "display": "A novel antifungal peptide from leaves of the weed Stellaria media L.",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0302",
@@ -15199,6 +16062,36 @@
    ]
   },
   {
+   "ref_id": "REF-0893",
+   "key": "sun2015rumex",
+   "type": "article",
+   "title": "Rumex acetosa L. induces vasorelaxation in rat aorta via activation of PI3-kinase/Akt- and Ca2+-eNOS-NO signaling in endothelial cells",
+   "authors": "Sun, Y.Y., Su, X.H., Jin, J.Y., Zhou, J. and others",
+   "journal": "Journal of Physiology and Pharmacology",
+   "year": "2015",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26769840/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/26769840/",
+   "link_type": "url",
+   "citation": "Sun, Y.Y., Su, X.H., Jin, J.Y., Zhou, J. and others (2015) 'Rumex acetosa L. induces vasorelaxation in rat aorta via activation of PI3-kinase/Akt- and Ca2+-eNOS-NO signaling in endothelial cells', Journal of Physiology and Pharmacology, 66(6), pp. 907-915. Available at: https://pubmed.ncbi.nlm.nih.gov/26769840/",
+   "abstract": "Rumex acetosa, an important traditional medicine, was tested for vascular effects. The extract induced endothelium-dependent vasorelaxation in rat aorta via activation of the PI3-kinase/Akt and Ca2+-eNOS-NO signalling pathways in endothelial cells, providing a mechanism for its cardiovascular use.",
+   "tier": "preclinical",
+   "display": "Rumex acetosa L. induces vasorelaxation in rat aorta via activation of PI3-kinase/Akt- and Ca2+-eNOS-NO signaling in endothelial cells",
+   "plants": [
+    "Common Sorrel",
+    "French: “oseille” (Royal Botanic Gardens",
+    "Kew",
+    "garden sorrel",
+    "n.d.)",
+    "sorrel"
+   ],
+   "scientific": [
+    "Rumex acetosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0081",
    "key": "european2015scientific",
    "type": "article",
@@ -15499,6 +16392,39 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0913",
+   "key": "zhao2014tussilago",
+   "type": "article",
+   "title": "Antitubercular activity of Arctium lappa and Tussilago farfara extracts and constituents",
+   "authors": "Zhao, J., Evangelopoulos, D., Bhakta, S., Gray, A.I. and Seidel, V.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2014",
+   "doi": "10.1016/j.jep.2014.06.034",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2014.06.034",
+   "link_type": "doi",
+   "citation": "Zhao, J., Evangelopoulos, D., Bhakta, S., Gray, A.I. and Seidel, V (2014) 'Antitubercular activity of Arctium lappa and Tussilago farfara extracts and constituents', Journal of Ethnopharmacology, 155(1), pp. 796-800. doi:10.1016/j.jep.2014.06.034",
+   "abstract": "Arctium lappa and Tussilago farfara are traditionally used as antitubercular remedies. Extracts and isolated constituents were screened against Mycobacterium tuberculosis; several fractions and compounds from coltsfoot showed antitubercular activity, supporting the traditional antimicrobial use of the plant.",
+   "tier": "preclinical",
+   "display": "Antitubercular activity of Arctium lappa and Tussilago farfara extracts and constituents",
+   "plants": [
+    "2020",
+    "2020)",
+    "Coltsfoot",
+    "Common coltsfoot",
+    "Kuan Dong Hua / Farfarae Flos (Chen et al",
+    "Liu et al",
+    "coughwort",
+    "foal’s foot",
+    "horsehoof"
+   ],
+   "scientific": [
+    "Tussilago farfara"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0448",
@@ -18857,6 +19783,34 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0907",
+   "key": "chidrawar2011stellaria",
+   "type": "article",
+   "title": "Antiobesity effect of Stellaria media against drug induced obesity in Swiss albino mice",
+   "authors": "Chidrawar, V.R., Patel, K.N., Sheth, N.R., Shiromwar, S.S. and Trivedi, P.",
+   "journal": "Ayu",
+   "year": "2011",
+   "doi": "10.4103/0974-8520.96137",
+   "url": "",
+   "link": "https://doi.org/10.4103/0974-8520.96137",
+   "link_type": "doi",
+   "citation": "Chidrawar, V.R., Patel, K.N., Sheth, N.R., Shiromwar, S.S. and Trivedi, P (2011) 'Antiobesity effect of Stellaria media against drug induced obesity in Swiss albino mice', Ayu, 32(4), pp. 576-584. doi:10.4103/0974-8520.96137",
+   "abstract": "The whole plant of Stellaria media was tested for antiobesity activity in a progesterone-induced obesity model in female albino mice. Chickweed reduced body-weight gain and adipose accumulation, supporting the traditional use of the plant for weight management.",
+   "tier": "preclinical",
+   "display": "Antiobesity effect of Stellaria media against drug induced obesity in Swiss albino mice",
+   "plants": [
+    "Chickweed",
+    "Common chickweed",
+    "chickenwort",
+    "starweed"
+   ],
+   "scientific": [
+    "Stellaria media"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0579",

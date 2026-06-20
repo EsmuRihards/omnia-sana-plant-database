@@ -161,11 +161,16 @@ contraindications:
   - REF-0212
   - REF-0309
   status: verified
-provenance: book
+references:
+- REF-0749
+- REF-0750
+- REF-0751
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0749, REF-0750, REF-0751.'

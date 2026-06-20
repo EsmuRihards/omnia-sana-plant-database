@@ -5079,9 +5079,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0740",
+    "REF-0741",
+    "REF-0742"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "betula-pendula",
@@ -5365,9 +5370,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0743",
+    "REF-0744",
+    "REF-0745"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "bistorta-officinalis",
@@ -5584,9 +5594,14 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0746",
+    "REF-0747",
+    "REF-0748"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "borago-officinalis",
@@ -5802,9 +5817,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0749",
+    "REF-0750",
+    "REF-0751"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "boswellia-serrata",
@@ -6122,9 +6142,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0752",
+    "REF-0753",
+    "REF-0754"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "camellia-sinensis",

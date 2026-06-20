@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 739,
+ "count": 754,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -1214,6 +1214,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0749",
+   "key": "slama2024borago",
+   "type": "article",
+   "title": "Borago officinalis L.: A Review on Extraction, Phytochemical, and Pharmacological Activities",
+   "authors": "Slama, M., Slougui, N., Benaissa, A., Nekkaa, A. et al.",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2024",
+   "doi": "10.1002/cbdv.202301822",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.202301822",
+   "link_type": "doi",
+   "citation": "Slama, M., Slougui, N., Benaissa, A., Nekkaa, A. et al (2024) 'Borago officinalis L.: A Review on Extraction, Phytochemical, and Pharmacological Activities', Chemistry & Biodiversity, 21(5), pp. e202301822. doi:10.1002/cbdv.202301822",
+   "abstract": "Borago officinalis L. (Boraginaceae) is used in traditional medicine for respiratory disorders, colds, influenza, diarrhea, cramps, inflammation, palpitation, hypertension and menopausal symptoms. Its antioxidant, antimicrobial, anticancer, anti-inflammatory and anti-obesity activities relate to its rich content of phenolic acids, flavonoids, anthocyanins, alkaloids and terpenes from leaves, flowers, seeds and roots. The review summarizes extraction, phytochemistry, pharmacology and toxicity.",
+   "tier": "traditional",
+   "display": "Borago officinalis L.: A Review on Extraction, Phytochemical, and Pharmacological Activities",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0338",
    "key": "wu2024taraxaci",
    "type": "article",
@@ -2152,6 +2181,33 @@
    ]
   },
   {
+   "ref_id": "REF-0753",
+   "key": "shahane2023calendula",
+   "type": "article",
+   "title": "An Updated Review on the Multifaceted Therapeutic Potential of Calendula officinalis L.",
+   "authors": "Shahane, K., Kshirsagar, M., Tambe, S., Jain, D. et al.",
+   "journal": "Pharmaceuticals (Basel)",
+   "year": "2023",
+   "doi": "10.3390/ph16040611",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph16040611",
+   "link_type": "doi",
+   "citation": "Shahane, K., Kshirsagar, M., Tambe, S., Jain, D. et al (2023) 'An Updated Review on the Multifaceted Therapeutic Potential of Calendula officinalis L', Pharmaceuticals (Basel), 16(4), pp. 611. doi:10.3390/ph16040611",
+   "abstract": "Calendula officinalis contains flavonoids, triterpenoids, glycosides, saponins, carotenoids, volatile oil and sterols, conferring anti-inflammatory, anti-cancer, antihelminthic, antidiabetic, wound-healing, hepatoprotective and antioxidant activities, and it is used in burns and gastrointestinal, gynecological, ocular and skin conditions. The review summarizes recent research on its therapeutic applications, molecular mechanisms and clinical studies.",
+   "tier": "traditional",
+   "display": "An Updated Review on the Multifaceted Therapeutic Potential of Calendula officinalis L.",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0394",
    "key": "gonde2023andrographolide",
    "type": "article",
@@ -2276,6 +2332,35 @@
    ],
    "scientific": [
     "Artemisia absinthium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0745",
+   "key": "sevastreberghian2023betula",
+   "type": "article",
+   "title": "Betula pendula Leaf Extract Targets the Interplay between Brain Oxidative Stress, Inflammation, and NF-kB Pathways in Amyloid Abeta-Treated Rats",
+   "authors": "Sevastre-Berghian, A.C., Ielciu, I., Bab, T., Olah, N.K. et al.",
+   "journal": "Antioxidants (Basel)",
+   "year": "2023",
+   "doi": "10.3390/antiox12122110",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox12122110",
+   "link_type": "doi",
+   "citation": "Sevastre-Berghian, A.C., Ielciu, I., Bab, T., Olah, N.K. et al (2023) 'Betula pendula Leaf Extract Targets the Interplay between Brain Oxidative Stress, Inflammation, and NF-kB Pathways in Amyloid Abeta-Treated Rats', Antioxidants (Basel), 12(12), pp. 2110. doi:10.3390/antiox12122110",
+   "abstract": "Chemical analyses of a Betula pendula leaf extract revealed high amounts of polyphenol carboxylic acids and flavonoids. In amyloid-beta-treated rats, the leaf extract reduced brain oxidative stress and inflammation and modulated the NF-kB pathway, improving behavioural and biochemical markers, suggesting neuroprotective potential of the birch leaf extract.",
+   "tier": "preclinical",
+   "display": "Betula pendula Leaf Extract Targets the Interplay between Brain Oxidative Stress, Inflammation, and NF-kB Pathways in Amyloid Abeta-Treated Rats",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
    ],
    "actions": [],
    "conditions": []
@@ -2808,6 +2893,35 @@
     "Memory",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-0750",
+   "key": "michalak2023borago",
+   "type": "article",
+   "title": "Phenolic Profile and Comparison of the Antioxidant, Anti-Ageing, Anti-Inflammatory, and Protective Activities of Borago officinalis Extracts on Skin Cells",
+   "authors": "Michalak, M., Zagórska-Dziok, M., Klimek-Szczykutowicz, M. and Szopa, A.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28020868",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28020868",
+   "link_type": "doi",
+   "citation": "Michalak, M., Zagórska-Dziok, M., Klimek-Szczykutowicz, M. and Szopa, A (2023) 'Phenolic Profile and Comparison of the Antioxidant, Anti-Ageing, Anti-Inflammatory, and Protective Activities of Borago officinalis Extracts on Skin Cells', Molecules, 28(2), pp. 868. doi:10.3390/molecules28020868",
+   "abstract": "Methanol and water-methanol extracts of borage (Borago officinalis) herb were analysed for phenolic profile and biological activity. Twelve flavonoids and phenolic acids were identified. In vitro tests on human keratinocytes and fibroblasts showed the extracts reduced intracellular reactive oxygen species, inhibited protein denaturation, lipoxygenase and proteinase (anti-inflammatory), and inhibited collagenase and elastase (anti-ageing), indicating borage extracts protect skin cells.",
+   "tier": "preclinical",
+   "display": "Phenolic Profile and Comparison of the Antioxidant, Anti-Ageing, Anti-Inflammatory, and Protective Activities of Borago officinalis Extracts on Skin Cells",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0060",
@@ -3866,6 +3980,34 @@
    ]
   },
   {
+   "ref_id": "REF-0742",
+   "key": "fatima2022bacopa",
+   "type": "article",
+   "title": "Pharmacological attributes of Bacopa monnieri extract: Current updates and clinical manifestation",
+   "authors": "Fatima, U., Roy, S., Ahmad, S., Ali, S. et al.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2022",
+   "doi": "10.3389/fnut.2022.972379",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2022.972379",
+   "link_type": "doi",
+   "citation": "Fatima, U., Roy, S., Ahmad, S., Ali, S. et al (2022) 'Pharmacological attributes of Bacopa monnieri extract: Current updates and clinical manifestation', Frontiers in Nutrition, 9, pp. 972379. doi:10.3389/fnut.2022.972379",
+   "abstract": "Bacopa monnieri has been used for centuries in Ayurvedic medicine as a memory and learning enhancer, sedative and anti-epileptic. This review highlights the health benefits of Bacopa monnieri extracts, focusing on anti-cancer and neurodegenerative diseases, and the molecular mechanisms underlying its cognition-enhancing, neuroprotective and therapeutic effects, as well as its toxicity, safety and synergistic potential.",
+   "tier": "traditional",
+   "display": "Pharmacological attributes of Bacopa monnieri extract: Current updates and clinical manifestation",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0705",
    "key": "desouza2022arctium",
    "type": "article",
@@ -3956,6 +4098,34 @@
    ],
    "scientific": [
     "Lamium album"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0741",
+   "key": "lorca2022nootropics",
+   "type": "article",
+   "title": "Plant-derived nootropics and human cognition: A systematic review",
+   "authors": "Lorca, C., Mulet, M., Arévalo-Caro, C., Sanchez, M.Á. et al.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2022",
+   "doi": "10.1080/10408398.2021.2021137",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2021.2021137",
+   "link_type": "doi",
+   "citation": "Lorca, C., Mulet, M., Arévalo-Caro, C., Sanchez, M.Á. et al (2022) 'Plant-derived nootropics and human cognition: A systematic review', Critical Reviews in Food Science and Nutrition, 63(22), pp. 5521-5545. doi:10.1080/10408398.2021.2021137",
+   "abstract": "Substances with modulatory capabilities on human cognition have been revered as nootropics, and the plant kingdom provides most of the currently available natural nootropics. This systematic review provides state-of-the-art information on plant-derived nootropics and their effects on human cognition, among them Bacopa monnieri, reviewing the clinical evidence for memory and cognitive enhancement.",
+   "tier": "review",
+   "display": "Plant-derived nootropics and human cognition: A systematic review",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
    ],
    "actions": [],
    "conditions": []
@@ -5869,6 +6039,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0747",
+   "key": "jovanovic2020bistort",
+   "type": "article",
+   "title": "Anti-Virulence Potential and In Vivo Toxicity of Persicaria maculosa and Bistorta officinalis Extracts",
+   "authors": "Jovanović, M., Morić, I., Nikolić, B., Pavić, A. et al.",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25081811",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25081811",
+   "link_type": "doi",
+   "citation": "Jovanović, M., Morić, I., Nikolić, B., Pavić, A. et al (2020) 'Anti-Virulence Potential and In Vivo Toxicity of Persicaria maculosa and Bistorta officinalis Extracts', Molecules, 25(8), pp. 1811. doi:10.3390/molecules25081811",
+   "abstract": "The anti-virulence potential and safety of ethanol extracts of two medicinal plants, Persicaria maculosa and Bistorta officinalis, were evaluated for the first time. The extracts showed anti-virulence activity against bacterial pathogens together with a favourable in vivo toxicity (safety) profile, supporting their potential use as antimicrobial/anti-virulence agents.",
+   "tier": "preclinical",
+   "display": "Anti-Virulence Potential and In Vivo Toxicity of Persicaria maculosa and Bistorta officinalis Extracts",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0410",
    "key": "antibacterial2020antibacterial",
    "type": "article",
@@ -5913,6 +6112,35 @@
     "Sore throat",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0746",
+   "key": "pawlowska2020bistort",
+   "type": "article",
+   "title": "Antibacterial and anti-inflammatory activity of bistort (Bistorta officinalis) aqueous extract and its major components: justification of the usage of the medicinal plant material as a traditional topical agent",
+   "authors": "Pawłowska, K.A., Hałasa, R., Dudek, M.K., Majdan, M. et al.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2020",
+   "doi": "10.1016/j.jep.2020.113077",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.113077",
+   "link_type": "doi",
+   "citation": "Pawłowska, K.A., Hałasa, R., Dudek, M.K., Majdan, M. et al (2020) 'Antibacterial and anti-inflammatory activity of bistort (Bistorta officinalis) aqueous extract and its major components: justification of the usage of the medicinal plant material as a traditional topical agent', Journal of Ethnopharmacology, 260, pp. 113077. doi:10.1016/j.jep.2020.113077",
+   "abstract": "Bistort rhizome (Bistorta officinalis) is traditionally used in Europe and Asia for diarrhea and as a topical agent for skin conditions; it contains mostly condensed flavan-3-ol-derived tannins. The aqueous extract and its major components showed antibacterial and anti-inflammatory activity, justifying the traditional use of the rhizome as an astringent topical agent.",
+   "tier": "preclinical",
+   "display": "Antibacterial and anti-inflammatory activity of bistort (Bistorta officinalis) aqueous extract and its major components: justification of the usage of the medicinal plant material as a traditional topical agent",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0472",
@@ -7338,6 +7566,33 @@
    ]
   },
   {
+   "ref_id": "REF-0752",
+   "key": "givol2019calendula",
+   "type": "article",
+   "title": "A systematic review of Calendula officinalis extract for wound healing",
+   "authors": "Givol, O., Kornhaber, R., Visentin, D., Cleary, M. et al.",
+   "journal": "Wound Repair and Regeneration",
+   "year": "2019",
+   "doi": "10.1111/wrr.12737",
+   "url": "",
+   "link": "https://doi.org/10.1111/wrr.12737",
+   "link_type": "doi",
+   "citation": "Givol, O., Kornhaber, R., Visentin, D., Cleary, M. et al (2019) 'A systematic review of Calendula officinalis extract for wound healing', Wound Repair and Regeneration, 27(5), pp. 548-561. doi:10.1111/wrr.12737",
+   "abstract": "This systematic review evaluated Calendula officinalis flower extract as monotherapy for wound healing in vivo, with 14 studies meeting inclusion criteria (7 animal experiments and 7 clinical trials). Acute wound healing showed faster resolution of the inflammation phase and increased granulation tissue with calendula. Clinical results for chronic wounds, burns and radiation dermatitis were mixed. The review identified evidence for beneficial effects of C. officinalis extract for wound healing, consistent with its traditional use.",
+   "tier": "review",
+   "display": "A systematic review of Calendula officinalis extract for wound healing",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0687",
    "key": "vlaisavljevic2019alchemilla",
    "type": "article",
@@ -8066,6 +8321,35 @@
     "Skin irritation",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-0744",
+   "key": "penkov2018betula",
+   "type": "article",
+   "title": "Antioxidant Activity of Dry Birch (Betula pendula) Leaves Extract",
+   "authors": "Penkov, D., Andonova, V., Delev, D. and Kostadinov, I.",
+   "journal": "Folia Medica",
+   "year": "2018",
+   "doi": "10.2478/folmed-2018-0035",
+   "url": "",
+   "link": "https://doi.org/10.2478/folmed-2018-0035",
+   "link_type": "doi",
+   "citation": "Penkov, D., Andonova, V., Delev, D. and Kostadinov, I (2018) 'Antioxidant Activity of Dry Birch (Betula pendula) Leaves Extract', Folia Medica, 60(4), pp. 571-579. doi:10.2478/folmed-2018-0035",
+   "abstract": "Betula pendula has been used in traditional medicine since ancient times, and birch leaf extracts exhibit a number of pharmacological activities. This study evaluated the antioxidant activity of a dry birch leaf extract, which demonstrated significant free-radical-scavenging and antioxidant capacity attributable to its phenolic and flavonoid content.",
+   "tier": "preclinical",
+   "display": "Antioxidant Activity of Dry Birch (Betula pendula) Leaves Extract",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0486",
@@ -10093,6 +10377,33 @@
    ]
   },
   {
+   "ref_id": "REF-0754",
+   "key": "saffari2016calendula",
+   "type": "article",
+   "title": "Comparing the effects of Calendula officinalis and clotrimazole on vaginal Candidiasis: A randomized controlled trial",
+   "authors": "Saffari, E., Mohammad-Alizadeh-Charandabi, S., Adibpour, M., Mirghafourvand, M. et al.",
+   "journal": "Women & Health",
+   "year": "2016",
+   "doi": "10.1080/03630242.2016.1263272",
+   "url": "",
+   "link": "https://doi.org/10.1080/03630242.2016.1263272",
+   "link_type": "doi",
+   "citation": "Saffari, E., Mohammad-Alizadeh-Charandabi, S., Adibpour, M., Mirghafourvand, M. et al (2016) 'Comparing the effects of Calendula officinalis and clotrimazole on vaginal Candidiasis: A randomized controlled trial', Women & Health, 57(10), pp. 1145-1160. doi:10.1080/03630242.2016.1263272",
+   "abstract": "This triple-blind randomized controlled trial (n=150) compared Calendula officinalis vaginal cream with clotrimazole for vaginal Candidiasis. Calendula vaginal cream was effective in treating vaginal Candidiasis, with a delayed but greater long-term effect than clotrimazole at the second follow-up, and improved sexual function similarly in both groups, supporting the antifungal and anti-inflammatory use of calendula.",
+   "tier": "rct",
+   "display": "Comparing the effects of Calendula officinalis and clotrimazole on vaginal Candidiasis: A randomized controlled trial",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0572",
    "key": "novara2016serenoa",
    "type": "article",
@@ -10640,6 +10951,35 @@
     "Urinary tract infection (UTI)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0751",
+   "key": "ghasemian2016borago",
+   "type": "article",
+   "title": "Review of Anti-Inflammatory Herbal Medicines",
+   "authors": "Ghasemian, M., Owlia, S. and Owlia, M.B.",
+   "journal": "Advances in Pharmacological Sciences",
+   "year": "2016",
+   "doi": "10.1155/2016/9130979",
+   "url": "",
+   "link": "https://doi.org/10.1155/2016/9130979",
+   "link_type": "doi",
+   "citation": "Ghasemian, M., Owlia, S. and Owlia, M.B (2016) 'Review of Anti-Inflammatory Herbal Medicines', Advances in Pharmacological Sciences, 2016, pp. 9130979. doi:10.1155/2016/9130979",
+   "abstract": "Inflammation underlies a wide range of diseases including rheumatic and immune-mediated conditions. This review introduces medicinal herbs whose anti-inflammatory effects have been evaluated in clinical and experimental studies, among them Borago officinalis (alongside Curcuma longa, Zingiber officinale, Rosmarinus officinalis, evening primrose and Devil's claw), supporting a multidimensional herbal approach to inflammation.",
+   "tier": "traditional",
+   "display": "Review of Anti-Inflammatory Herbal Medicines",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0424",
@@ -12487,6 +12827,35 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-0743",
+   "key": "rastogi2014betula",
+   "type": "article",
+   "title": "Medicinal plants of the genus Betula — traditional uses and a phytochemical-pharmacological review",
+   "authors": "Rastogi, S., Pandey, M.M. and Kumar Singh Rawat, A.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2014",
+   "doi": "10.1016/j.jep.2014.11.010",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2014.11.010",
+   "link_type": "doi",
+   "citation": "Rastogi, S., Pandey, M.M. and Kumar Singh Rawat, A (2014) 'Medicinal plants of the genus Betula — traditional uses and a phytochemical-pharmacological review', Journal of Ethnopharmacology, 159, pp. 62-83. doi:10.1016/j.jep.2014.11.010",
+   "abstract": "Trees and shrubs of the genus Betula (Betulaceae) inhabit temperate and boreal zones of the northern hemisphere. The healing properties of Betula bark, leaves and bark extracts have long been known in traditional medicine for skin diseases, rheumatism, gout and as a diuretic. This review compiles the traditional uses, phytochemistry (triterpenes such as betulin and betulinic acid, flavonoids, phenolics) and pharmacological activities of Betula species.",
+   "tier": "traditional",
+   "display": "Medicinal plants of the genus Betula — traditional uses and a phytochemical-pharmacological review",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0618",
@@ -17067,6 +17436,34 @@
     "Memory",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-0740",
+   "key": "calabrese2008bacopa",
+   "type": "article",
+   "title": "Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly: a randomized, double-blind, placebo-controlled trial",
+   "authors": "Calabrese, C., Gregory, W.L., Leo, M., Kraemer, D. et al.",
+   "journal": "Journal of Alternative and Complementary Medicine",
+   "year": "2008",
+   "doi": "10.1089/acm.2008.0018",
+   "url": "",
+   "link": "https://doi.org/10.1089/acm.2008.0018",
+   "link_type": "doi",
+   "citation": "Calabrese, C., Gregory, W.L., Leo, M., Kraemer, D. et al (2008) 'Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly: a randomized, double-blind, placebo-controlled trial', Journal of Alternative and Complementary Medicine, 14(6), pp. 707-713. doi:10.1089/acm.2008.0018",
+   "abstract": "A randomized, double-blind, placebo-controlled trial evaluated a standardized Bacopa monnieri whole-plant dry extract on cognitive function, affect, safety and tolerability in healthy elderly participants. Bacopa improved measures of cognitive performance (e.g. delayed word recall and Stroop task) and reduced anxiety and depression scores relative to placebo, with good tolerability, supporting its traditional use as a memory and learning enhancer.",
+   "tier": "rct",
+   "display": "Effects of a standardized Bacopa monnieri extract on cognitive performance, anxiety, and depression in the elderly: a randomized, double-blind, placebo-controlled trial",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0056",
@@ -22388,6 +22785,35 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0748",
+   "key": "duwiejua1994bistort",
+   "type": "article",
+   "title": "Anti-inflammatory activity of Polygonum bistorta, Guaiacum officinale and Hamamelis virginiana in rats",
+   "authors": "Duwiejua, M., Zeitlin, I.J., Waterman, P.G. and Gray, A.I.",
+   "journal": "Journal of Pharmacy and Pharmacology",
+   "year": "1994",
+   "doi": "10.1111/j.2042-7158.1994.tb03795.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.2042-7158.1994.tb03795.x",
+   "link_type": "doi",
+   "citation": "Duwiejua, M., Zeitlin, I.J., Waterman, P.G. and Gray, A.I (1994) 'Anti-inflammatory activity of Polygonum bistorta, Guaiacum officinale and Hamamelis virginiana in rats', Journal of Pharmacy and Pharmacology, 46(4), pp. 286-290. doi:10.1111/j.2042-7158.1994.tb03795.x",
+   "abstract": "Aqueous ethanolic extract of Polygonum bistorta (Bistorta officinalis) significantly suppressed carrageenan-induced rat paw oedema in a dose-dependent manner and inhibited both the acute and chronic phases of adjuvant-induced arthritis; given after the onset of inflammation it reversed the course of the swelling. The results confirm that bistort rhizome contains anti-inflammatory substances, supporting its traditional anti-inflammatory and astringent use.",
+   "tier": "preclinical",
+   "display": "Anti-inflammatory activity of Polygonum bistorta, Guaiacum officinale and Hamamelis virginiana in rats",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

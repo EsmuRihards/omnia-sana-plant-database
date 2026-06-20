@@ -21144,7 +21144,11 @@
      "reference_ids": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0952",
+      "REF-0953",
+      "REF-0954",
+      "REF-0959"
      ],
      "status": "verified"
     },
@@ -21154,7 +21158,9 @@
      "reference_ids": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0955",
+      "REF-0957"
      ],
      "status": "verified"
     },
@@ -21163,7 +21169,8 @@
      "reference_ids": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0958"
      ],
      "status": "verified"
     }
@@ -21175,7 +21182,8 @@
      "reference_ids": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0950"
      ],
      "status": "needs-review"
     },
@@ -21185,7 +21193,10 @@
      "reference_ids": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0951",
+      "REF-0955",
+      "REF-0957"
      ],
      "status": "needs-review"
     },
@@ -21195,7 +21206,9 @@
      "reference_ids": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0950",
+      "REF-0958"
      ],
      "status": "needs-review"
     },
@@ -21204,7 +21217,11 @@
      "reference_ids": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0954",
+      "REF-0956",
+      "REF-0957",
+      "REF-0959"
      ],
      "status": "verified"
     },
@@ -21214,7 +21231,8 @@
      "reference_ids": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0955"
      ],
      "status": "needs-review"
     }
@@ -21241,9 +21259,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0950",
+    "REF-0951",
+    "REF-0952",
+    "REF-0953",
+    "REF-0954",
+    "REF-0955",
+    "REF-0956",
+    "REF-0957",
+    "REF-0958",
+    "REF-0959"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "pelargonium-sidoides",
@@ -22235,7 +22265,8 @@
      "note": "Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional respiratory anti-inflammatory use",
      "reference_ids": [
       "REF-0499",
-      "REF-0633"
+      "REF-0633",
+      "REF-0968"
      ],
      "status": "verified"
     },
@@ -22244,7 +22275,9 @@
      "note": "Antibacterial, antiviral and immunostimulant (in vitro)",
      "reference_ids": [
       "REF-0499",
-      "REF-0500"
+      "REF-0500",
+      "REF-0960",
+      "REF-0965"
      ],
      "status": "verified"
     },
@@ -22280,7 +22313,9 @@
      "note": "Vulnerary for minor wounds and insect bites (topical)",
      "reference_ids": [
       "REF-0499",
-      "REF-0500"
+      "REF-0500",
+      "REF-0966",
+      "REF-0967"
      ],
      "status": "verified"
     }
@@ -22345,7 +22380,9 @@
      "note": "inferred from antimicrobial action",
      "reference_ids": [
       "REF-0499",
-      "REF-0500"
+      "REF-0500",
+      "REF-0960",
+      "REF-0965"
      ],
      "status": "needs-review"
     },
@@ -22354,7 +22391,8 @@
      "note": "Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro the extract inhibits nitric oxide production and inducible NOS in macrophages, supporting its traditional respiratory anti-inflammatory use",
      "reference_ids": [
       "REF-0499",
-      "REF-0633"
+      "REF-0633",
+      "REF-0968"
      ],
      "status": "verified"
     },
@@ -22381,7 +22419,9 @@
      "note": "Vulnerary for minor wounds and insect bites (topical)",
      "reference_ids": [
       "REF-0499",
-      "REF-0500"
+      "REF-0500",
+      "REF-0966",
+      "REF-0967"
      ],
      "status": "verified"
     }
@@ -22404,9 +22444,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0960",
+    "REF-0961",
+    "REF-0962",
+    "REF-0963",
+    "REF-0964",
+    "REF-0965",
+    "REF-0966",
+    "REF-0967",
+    "REF-0968",
+    "REF-0969"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "plantago-major",
@@ -22955,7 +23007,12 @@
      "note": "Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat",
      "reference_ids": [
       "REF-0520",
-      "REF-0521"
+      "REF-0521",
+      "REF-0970",
+      "REF-0973",
+      "REF-0975",
+      "REF-0977",
+      "REF-0978"
      ],
      "status": "verified"
     },
@@ -22965,7 +23022,9 @@
      "reference_ids": [
       "REF-0520",
       "REF-0521",
-      "REF-0602"
+      "REF-0602",
+      "REF-0970",
+      "REF-0973"
      ],
      "status": "verified"
     },
@@ -22975,7 +23034,10 @@
      "reference_ids": [
       "REF-0520",
       "REF-0521",
-      "REF-0602"
+      "REF-0602",
+      "REF-0971",
+      "REF-0973",
+      "REF-0976"
      ],
      "status": "verified"
     }
@@ -22996,7 +23058,9 @@
      "reference_ids": [
       "REF-0520",
       "REF-0521",
-      "REF-0602"
+      "REF-0602",
+      "REF-0970",
+      "REF-0973"
      ],
      "status": "verified"
     },
@@ -23004,7 +23068,8 @@
      "condition": "ibd",
      "note": "Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)",
      "reference_ids": [
-      "REF-0521"
+      "REF-0521",
+      "REF-0977"
      ],
      "status": "needs-review"
     },
@@ -23013,7 +23078,9 @@
      "note": "Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat",
      "reference_ids": [
       "REF-0520",
-      "REF-0521"
+      "REF-0521",
+      "REF-0973",
+      "REF-0978"
      ],
      "status": "verified"
     },
@@ -23023,7 +23090,9 @@
      "reference_ids": [
       "REF-0520",
       "REF-0521",
-      "REF-0602"
+      "REF-0602",
+      "REF-0975",
+      "REF-0978"
      ],
      "status": "needs-review"
     },
@@ -23032,7 +23101,8 @@
      "note": "Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat",
      "reference_ids": [
       "REF-0520",
-      "REF-0521"
+      "REF-0521",
+      "REF-0976"
      ],
      "status": "verified"
     },
@@ -23065,9 +23135,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0970",
+    "REF-0971",
+    "REF-0972",
+    "REF-0973",
+    "REF-0974",
+    "REF-0975",
+    "REF-0976",
+    "REF-0602",
+    "REF-0977",
+    "REF-0978"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "primula-veris",

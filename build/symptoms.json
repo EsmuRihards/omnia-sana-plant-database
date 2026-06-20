@@ -10879,39 +10879,58 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 5,
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0951",
+      "REF-0955",
+      "REF-0957"
      ]
     },
     {
-     "condition": "fatigue",
-     "label": "Fatigue / low energy",
-     "evidence": 5,
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0950"
      ]
     },
     {
      "condition": "memory",
      "label": "Memory",
-     "evidence": 5,
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0950",
+      "REF-0958"
+     ]
+    },
+    {
+     "condition": "muscle-soreness",
+     "label": "Muscle soreness",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0009",
+      "REF-0106",
+      "REF-0233",
+      "REF-0955"
      ]
     },
     {
@@ -10923,19 +10942,11 @@
      "references": [
       "REF-0009",
       "REF-0106",
-      "REF-0233"
-     ]
-    },
-    {
-     "condition": "muscle-soreness",
-     "label": "Muscle soreness",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0009",
-      "REF-0106",
-      "REF-0233"
+      "REF-0233",
+      "REF-0954",
+      "REF-0956",
+      "REF-0957",
+      "REF-0959"
      ]
     }
    ]
@@ -16230,6 +16241,32 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0499",
+      "REF-0500",
+      "REF-0960",
+      "REF-0965"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0499",
+      "REF-0500",
+      "REF-0966",
+      "REF-0967"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -16296,17 +16333,6 @@
      ]
     },
     {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0499",
-      "REF-0500"
-     ]
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
      "evidence": 1,
@@ -16314,7 +16340,8 @@
      "inferred": false,
      "references": [
       "REF-0499",
-      "REF-0633"
+      "REF-0633",
+      "REF-0968"
      ]
     },
     {
@@ -16337,17 +16364,6 @@
      "references": [
       "REF-0499",
       "REF-0633"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0499",
-      "REF-0500"
      ]
     }
    ]
@@ -18450,6 +18466,20 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0520",
+      "REF-0521",
+      "REF-0602",
+      "REF-0975",
+      "REF-0978"
+     ]
+    },
+    {
      "condition": "diarrhea",
      "label": "Diarrhoea",
      "evidence": 5,
@@ -18458,19 +18488,9 @@
      "references": [
       "REF-0520",
       "REF-0521",
-      "REF-0602"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0520",
-      "REF-0521",
-      "REF-0602"
+      "REF-0602",
+      "REF-0970",
+      "REF-0973"
      ]
     },
     {
@@ -18486,22 +18506,36 @@
      ]
     },
     {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 3,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0520",
+      "REF-0521",
+      "REF-0973",
+      "REF-0978"
+     ]
+    },
+    {
+     "condition": "sore-throat",
+     "label": "Sore throat",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0520",
+      "REF-0521",
+      "REF-0976"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0520",
-      "REF-0521"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0520",
       "REF-0521"
@@ -18514,18 +18548,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0521"
-     ]
-    },
-    {
-     "condition": "sore-throat",
-     "label": "Sore throat",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0520",
-      "REF-0521"
+      "REF-0521",
+      "REF-0977"
      ]
     }
    ]

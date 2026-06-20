@@ -40,12 +40,15 @@ actions:
   reference_ids:
   - REF-0499
   - REF-0633
+  - REF-0968
   status: verified
 - action: antimicrobial
   note: Antibacterial, antiviral and immunostimulant (in vitro)
   reference_ids:
   - REF-0499
   - REF-0500
+  - REF-0960
+  - REF-0965
   status: verified
 - action: antiviral
   note: Antibacterial, antiviral and immunostimulant (in vitro)
@@ -71,6 +74,8 @@ actions:
   reference_ids:
   - REF-0499
   - REF-0500
+  - REF-0966
+  - REF-0967
   status: verified
 indications:
 - condition: arthritis
@@ -116,6 +121,8 @@ indications:
   reference_ids:
   - REF-0499
   - REF-0500
+  - REF-0960
+  - REF-0965
   status: needs-review
 - condition: inflammation
   note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
@@ -124,6 +131,7 @@ indications:
   reference_ids:
   - REF-0499
   - REF-0633
+  - REF-0968
   status: verified
 - condition: skin-irritation
   note: inferred from demulcent action
@@ -144,6 +152,8 @@ indications:
   reference_ids:
   - REF-0499
   - REF-0500
+  - REF-0966
+  - REF-0967
   status: verified
 contraindications:
 - note: Generally very well tolerated. A cough or throat irritation that persists beyond about a week,
@@ -157,9 +167,20 @@ contraindications:
   reference_ids:
   - REF-0499
   status: verified
+references:
+- REF-0960
+- REF-0961
+- REF-0962
+- REF-0963
+- REF-0964
+- REF-0965
+- REF-0966
+- REF-0967
+- REF-0968
+- REF-0969
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs).
   Note: distinct from the book''s Plantago major (greater plantain). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, wounds, inflammation, bronchitis);
@@ -167,4 +188,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   in-vitro study showing Plantago lanceolata extract inhibits nitric oxide production and inducible NOS
   expression in macrophages (REF-0633), a molecular basis for its traditional respiratory anti-inflammatory
   use. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
+  @article sources (REF-0960, REF-0961, REF-0962, REF-0963, REF-0964, REF-0965, REF-0966, REF-0967, REF-0968,
+  REF-0969) — woven into relevant actions/indications and the plant-level references bucket.'

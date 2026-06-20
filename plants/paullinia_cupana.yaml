@@ -13,6 +13,10 @@ actions:
   - REF-0009
   - REF-0106
   - REF-0233
+  - REF-0952
+  - REF-0953
+  - REF-0954
+  - REF-0959
   status: verified
 - action: ergogenic
   note: Physical performance / strength improvement
@@ -20,12 +24,15 @@ actions:
   - REF-0009
   - REF-0106
   - REF-0233
+  - REF-0955
+  - REF-0957
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0009
   - REF-0106
   - REF-0233
+  - REF-0958
   status: verified
 indications:
 - condition: cognitive-function
@@ -34,6 +41,7 @@ indications:
   - REF-0009
   - REF-0106
   - REF-0233
+  - REF-0950
   status: needs-review
 - condition: fatigue
   note: inferred from ergogenic action
@@ -41,6 +49,9 @@ indications:
   - REF-0009
   - REF-0106
   - REF-0233
+  - REF-0951
+  - REF-0955
+  - REF-0957
   status: needs-review
 - condition: memory
   note: inferred from neuroprotective action
@@ -48,12 +59,18 @@ indications:
   - REF-0009
   - REF-0106
   - REF-0233
+  - REF-0950
+  - REF-0958
   status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0009
   - REF-0106
   - REF-0233
+  - REF-0954
+  - REF-0956
+  - REF-0957
+  - REF-0959
   status: verified
 - condition: muscle-soreness
   note: inferred from ergogenic action
@@ -61,6 +78,7 @@ indications:
   - REF-0009
   - REF-0106
   - REF-0233
+  - REF-0955
   status: needs-review
 contraindications:
 - note: Guarana contains very high levels of caffeine (2–4 times that of coffee by weight). All the cautions
@@ -85,11 +103,25 @@ contraindications:
   - REF-0106
   - REF-0233
   status: verified
-provenance: book
+references:
+- REF-0950
+- REF-0951
+- REF-0952
+- REF-0953
+- REF-0954
+- REF-0955
+- REF-0956
+- REF-0957
+- REF-0958
+- REF-0959
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-0950, REF-0951, REF-0952, REF-0953, REF-0954,
+  REF-0955, REF-0956, REF-0957, REF-0958, REF-0959) — woven into relevant actions/indications and the
+  plant-level references bucket.'

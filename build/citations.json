@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 949,
+ "count": 978,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2169,6 +2169,67 @@
    ]
   },
   {
+   "ref_id": "REF-0953",
+   "key": "sirena2024guarana",
+   "type": "article",
+   "title": "Guarana (Paullinia cupana) as a potential tool for mesenchymal stromal cells priming in regenerative medicine",
+   "authors": "Sirena, D.H., Araujo, A.B., Silveira, A.B.T., Serafini, M.A. and others",
+   "journal": "Brazilian Journal of Medical and Biological Research",
+   "year": "2024",
+   "doi": "10.1590/1414-431X2024e13286",
+   "url": "",
+   "link": "https://doi.org/10.1590/1414-431X2024e13286",
+   "link_type": "doi",
+   "citation": "Sirena, D.H., Araujo, A.B., Silveira, A.B.T., Serafini, M.A. and others (2024) 'Guarana (Paullinia cupana) as a potential tool for mesenchymal stromal cells priming in regenerative medicine', Brazilian Journal of Medical and Biological Research, 57, pp. e13286. doi:10.1590/1414-431X2024e13286",
+   "abstract": "Guarana (Paullinia cupana) and caffeine were evaluated as priming agents for mesenchymal stromal cells (MSCs). Guarana increased MSC viability, polarity, migration toward chemoattractant, antioxidant potential and extracellular-vesicle release while reducing autophagy, suggesting guarana could activate MSCs to improve cellular products for regenerative therapies.",
+   "tier": "preclinical",
+   "display": "Guarana (Paullinia cupana) as a potential tool for mesenchymal stromal cells priming in regenerative medicine",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0955",
+   "key": "penna2024guarana",
+   "type": "article",
+   "title": "Guarana (Paullinia cupana) but Not Low-Dose Caffeine Improves Cycling Time-Trial Performance Versus Placebo",
+   "authors": "Penna, E.M., Harp, A., Hack, B., Talik, T.N. and Millard-Stafford, M.",
+   "journal": "International Journal of Sport Nutrition and Exercise Metabolism",
+   "year": "2024",
+   "doi": "10.1123/ijsnem.2023-0148",
+   "url": "",
+   "link": "https://doi.org/10.1123/ijsnem.2023-0148",
+   "link_type": "doi",
+   "citation": "Penna, E.M., Harp, A., Hack, B., Talik, T.N. and Millard-Stafford, M (2024) 'Guarana (Paullinia cupana) but Not Low-Dose Caffeine Improves Cycling Time-Trial Performance Versus Placebo', International Journal of Sport Nutrition and Exercise Metabolism, 34(1), pp. 30-37. doi:10.1123/ijsnem.2023-0148",
+   "abstract": "In a double-blind crossover trial, eleven endurance-trained participants ingested caffeine, guarana (Paullinia cupana, containing 130 mg caffeine) or placebo before cycling. Guarana improved 15-min time-trial work output versus placebo, with lower perceived exertion, indicating an ergogenic effect possibly involving central mechanisms reducing perceived effort.",
+   "tier": "rct",
+   "display": "Guarana (Paullinia cupana) but Not Low-Dose Caffeine Improves Cycling Time-Trial Performance Versus Placebo",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [
+    "Physical performance / ergogenic"
+   ],
+   "conditions": [
+    "Fatigue / low energy",
+    "Muscle soreness"
+   ]
+  },
+  {
    "ref_id": "REF-0180",
    "key": "national2024national",
    "type": "misc",
@@ -2761,6 +2822,38 @@
     "Inflammation (general)",
     "Pain (general)",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-0960",
+   "key": "laanet2024plantago",
+   "type": "article",
+   "title": "Plantago lanceolata and Plantago major Exhibit Antioxidant and Borrelia burgdorferi Inhibiting Activities",
+   "authors": "Laanet, P.R., Bragina, O., Joul, P. and Vaher, M.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2024",
+   "doi": "10.3390/ijms25137112",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms25137112",
+   "link_type": "doi",
+   "citation": "Laanet, P.R., Bragina, O., Joul, P. and Vaher, M (2024) 'Plantago lanceolata and Plantago major Exhibit Antioxidant and Borrelia burgdorferi Inhibiting Activities', International Journal of Molecular Sciences, 25(13), pp. 7112. doi:10.3390/ijms25137112",
+   "abstract": "Hydroalcoholic extracts of Plantago lanceolata and Plantago major, rich in plantamajoside and acteoside, showed considerable antioxidant activity and inhibited the Lyme-disease pathogen Borrelia burgdorferi, lowering bacterial viability and reducing biofilm formation, supporting the antibacterial and antioxidant use of plantain.",
+   "tier": "preclinical",
+   "display": "Plantago lanceolata and Plantago major Exhibit Antioxidant and Borrelia burgdorferi Inhibiting Activities",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
    ]
   },
   {
@@ -3922,6 +4015,36 @@
    ]
   },
   {
+   "ref_id": "REF-0950",
+   "key": "hack2023guarana",
+   "type": "article",
+   "title": "Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis",
+   "authors": "Hack, B., Penna, E.M., Talik, T., Chandrashekhar, R. and Millard-Stafford, M.",
+   "journal": "Nutrients",
+   "year": "2023",
+   "doi": "10.3390/nu15020434",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu15020434",
+   "link_type": "doi",
+   "citation": "Hack, B., Penna, E.M., Talik, T., Chandrashekhar, R. and Millard-Stafford, M (2023) 'Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis', Nutrients, 15(2), pp. 434. doi:10.3390/nu15020434",
+   "abstract": "A systematic review and meta-analysis of eight placebo-controlled studies (328 participants) assessed whether acute guarana (Paullinia cupana) ingestion improves cognitive performance. Guarana produced a small effect on response time (faster performance) across cognitive tasks without affecting accuracy, an effect not clearly related to guarana dose or caffeine content.",
+   "tier": "review",
+   "display": "Effect of Guarana (Paullinia cupana) on Cognitive Performance: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
+  },
+  {
    "ref_id": "REF-0465",
    "key": "garcia2023effect",
    "type": "article",
@@ -4812,6 +4935,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0970",
+   "key": "bandick2023tormentil",
+   "type": "article",
+   "title": "Therapeutic Effects of Oral Application of Menthol and Extracts from Tormentil (Potentilla erecta), Raspberry Leaves and Loosestrife during Acute Murine Campylobacteriosis",
+   "authors": "Bandick, R., Busmann, L.V., Mousavi, S., Shayya, N.W. and others",
+   "journal": "Pharmaceutics",
+   "year": "2023",
+   "doi": "10.3390/pharmaceutics15102410",
+   "url": "",
+   "link": "https://doi.org/10.3390/pharmaceutics15102410",
+   "link_type": "doi",
+   "citation": "Bandick, R., Busmann, L.V., Mousavi, S., Shayya, N.W. and others (2023) 'Therapeutic Effects of Oral Application of Menthol and Extracts from Tormentil (Potentilla erecta), Raspberry Leaves and Loosestrife during Acute Murine Campylobacteriosis', Pharmaceutics, 15(10), pp. 2410. doi:10.3390/pharmaceutics15102410",
+   "abstract": "In a murine model of acute Campylobacter jejuni infection, extracts of tormentil (Potentilla erecta) combined with menthol, raspberry leaves and loosestrife alleviated campylobacteriosis-induced diarrhoeal symptoms and lowered colonic T-cell numbers and pro-inflammatory cytokines, demonstrating anti-inflammatory and antidiarrhoeal effects.",
+   "tier": "preclinical",
+   "display": "Therapeutic Effects of Oral Application of Menthol and Extracts from Tormentil (Potentilla erecta), Raspberry Leaves and Loosestrife during Acute Murine Campylobacteriosis",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antidiarrhoeal"
+   ],
+   "conditions": [
+    "Diarrhoea"
+   ]
+  },
+  {
    "ref_id": "REF-0457",
    "key": "bandopadhyay2023therapeutic",
    "type": "article",
@@ -4984,6 +5140,34 @@
     "Pain (general)",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-0961",
+   "key": "budzianowska2022plantago",
+   "type": "article",
+   "title": "A new flavonoid, a new phenylethanoid glycoside and related compounds isolated from the inflorescences of Plantago lanceolata L.",
+   "authors": "Budzianowska, A. and Budzianowski, J.",
+   "journal": "Natural Product Research",
+   "year": "2022",
+   "doi": "10.1080/14786419.2021.1888289",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2021.1888289",
+   "link_type": "doi",
+   "citation": "Budzianowska, A. and Budzianowski, J (2022) 'A new flavonoid, a new phenylethanoid glycoside and related compounds isolated from the inflorescences of Plantago lanceolata L', Natural Product Research, 36(15), pp. 3813-3824. doi:10.1080/14786419.2021.1888289",
+   "abstract": "For the first time, the inflorescences of Plantago lanceolata (ribwort plantain) were studied for phenolic compounds, yielding two new compounds (a flavonoid and a phenylethanoid glycoside) along with fourteen known flavonoids and phenylethanoid glycosides, characterising constituents of medicinal and chemotaxonomic relevance.",
+   "tier": "preclinical",
+   "display": "A new flavonoid, a new phenylethanoid glycoside and related compounds isolated from the inflorescences of Plantago lanceolata L.",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0464",
@@ -5593,6 +5777,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0954",
+   "key": "torres2022guarana",
+   "type": "article",
+   "title": "Effects of the consumption of guarana on human health: A narrative review",
+   "authors": "Torres, E.A.F.S., Pinaffi-Langley, A.C.D.C., Figueira, M.S., Cordeiro, K.S. and others",
+   "journal": "Comprehensive Reviews in Food Science and Food Safety",
+   "year": "2022",
+   "doi": "10.1111/1541-4337.12862",
+   "url": "",
+   "link": "https://doi.org/10.1111/1541-4337.12862",
+   "link_type": "doi",
+   "citation": "Torres, E.A.F.S., Pinaffi-Langley, A.C.D.C., Figueira, M.S., Cordeiro, K.S. and others (2022) 'Effects of the consumption of guarana on human health: A narrative review', Comprehensive Reviews in Food Science and Food Safety, 21(1), pp. 272-295. doi:10.1111/1541-4337.12862",
+   "abstract": "Guarana (Paullinia cupana), an Amazonian plant rich in methylxanthines and flavonoids, has been studied for stimulating, anti-inflammatory, antioxidant, anticancer, hypocholesterolemic and anti-obesity effects. This narrative review organises the available evidence on guarana and human health, noting the need for more human and mechanistic studies.",
+   "tier": "traditional",
+   "display": "Effects of the consumption of guarana on human health: A narrative review",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Metabolic support"
+   ]
+  },
+  {
    "ref_id": "REF-0791",
    "key": "zeng2022curcumin",
    "type": "article",
@@ -5713,6 +5928,38 @@
     "Swelling / fluid retention",
     "Urinary support",
     "Urinary tract infection (UTI)"
+   ]
+  },
+  {
+   "ref_id": "REF-0965",
+   "key": "rahamouz2022plantago",
+   "type": "article",
+   "title": "Evaluation of Cytotoxicity and Antibacterial Activities of Ribwort Plantain (Plantago lanceolata L.) Root Fractions and Phytochemical Analysis by Gas Chromatography-Mass Spectrometry",
+   "authors": "Rahamouz-Haghighi, S., Bagheri, K., Mohsen-Pour, N. and Sharafi, A.",
+   "journal": "Archives of Razi Institute",
+   "year": "2022",
+   "doi": "10.22092/ARI.2022.358045.2143",
+   "url": "",
+   "link": "https://doi.org/10.22092/ARI.2022.358045.2143",
+   "link_type": "doi",
+   "citation": "Rahamouz-Haghighi, S., Bagheri, K., Mohsen-Pour, N. and Sharafi, A (2022) 'Evaluation of Cytotoxicity and Antibacterial Activities of Ribwort Plantain (Plantago lanceolata L.) Root Fractions and Phytochemical Analysis by Gas Chromatography-Mass Spectrometry', Archives of Razi Institute, 77(6), pp. 2131-2143. doi:10.22092/ARI.2022.358045.2143",
+   "abstract": "Root fractions of ribwort plantain (Plantago lanceolata) were cytotoxic to HCT-116 colon cancer cells and showed antibacterial activity against gram-positive and gram-negative bacteria, with the dichloromethane extract most active, identifying the roots as a source of bioactive antibacterial metabolites.",
+   "tier": "preclinical",
+   "display": "Evaluation of Cytotoxicity and Antibacterial Activities of Ribwort Plantain (Plantago lanceolata L.) Root Fractions and Phytochemical Analysis by Gas Chromatography-Mass Spectrometry",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
    ]
   },
   {
@@ -8054,6 +8301,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0974",
+   "key": "marcinczyk2021tormentil",
+   "type": "article",
+   "title": "Multidirectional Effects of Tormentil Extract on Hemostasis in Experimental Diabetes",
+   "authors": "Marcinczyk, N., Golaszewska, A., Gromotowicz-Poplawska, A., Misztal, T. and others",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2021",
+   "doi": "10.3389/fphar.2021.682987",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2021.682987",
+   "link_type": "doi",
+   "citation": "Marcinczyk, N., Golaszewska, A., Gromotowicz-Poplawska, A., Misztal, T. and others (2021) 'Multidirectional Effects of Tormentil Extract on Hemostasis in Experimental Diabetes', Frontiers in Pharmacology, 12, pp. 682987. doi:10.3389/fphar.2021.682987",
+   "abstract": "Ellagitannin- and procyanidin-rich tormentil (Potentilla erecta) extract was assessed in streptozotocin-induced diabetic rats and mice. It inhibited platelet activity and improved endothelial function and arterial blood flow, illustrating multidirectional effects of tormentil on haemostasis in diabetes.",
+   "tier": "preclinical",
+   "display": "Multidirectional Effects of Tormentil Extract on Hemostasis in Experimental Diabetes",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0781",
    "key": "hosseini2021coriander",
    "type": "article",
@@ -8341,6 +8616,35 @@
    ]
   },
   {
+   "ref_id": "REF-0952",
+   "key": "aldhahrani2021guarana",
+   "type": "article",
+   "title": "Protective effects of guarana (Paullinia cupana) against methotrexate-induced intestinal damage in mice",
+   "authors": "Aldhahrani, A.",
+   "journal": "Food Science & Nutrition",
+   "year": "2021",
+   "doi": "10.1002/fsn3.2101",
+   "url": "",
+   "link": "https://doi.org/10.1002/fsn3.2101",
+   "link_type": "doi",
+   "citation": "Aldhahrani, A (2021) 'Protective effects of guarana (Paullinia cupana) against methotrexate-induced intestinal damage in mice', Food Science & Nutrition, 9(7), pp. 3397-3404. doi:10.1002/fsn3.2101",
+   "abstract": "Guarana (Paullinia cupana) was tested against methotrexate-induced intestinal damage in mice. Pre-administration of guarana restored antioxidant capacity (glutathione, SOD), inhibited IL-1beta and myeloperoxidase, and reduced pro-apoptotic Bax/caspase-9 expression, protecting intestinal tissue against oxidative stress and inflammation.",
+   "tier": "preclinical",
+   "display": "Protective effects of guarana (Paullinia cupana) against methotrexate-induced intestinal damage in mice",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0479",
    "key": "krzyzanowska2021pulmonaria",
    "type": "article",
@@ -8435,6 +8739,34 @@
    ],
    "scientific": [
     "Inonotus obliquus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0964",
+   "key": "reza2021plantago",
+   "type": "article",
+   "title": "Response of plantain (Plantago lanceolata L.) supplementation on nutritional, endo-parasitic, and endocrine status in lambs",
+   "authors": "Reza, M.M., Redoy, M.R.A., Rahman, M.A., Ety, S. and others",
+   "journal": "Tropical Animal Health and Production",
+   "year": "2021",
+   "doi": "10.1007/s11250-020-02514-0",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11250-020-02514-0",
+   "link_type": "doi",
+   "citation": "Reza, M.M., Redoy, M.R.A., Rahman, M.A., Ety, S. and others (2021) 'Response of plantain (Plantago lanceolata L.) supplementation on nutritional, endo-parasitic, and endocrine status in lambs', Tropical Animal Health and Production, 53(1), pp. 82. doi:10.1007/s11250-020-02514-0",
+   "abstract": "Dietary supplementation with plantain (Plantago lanceolata) improved growth and feed conversion in lambs, suppressed cholesterol, improved liver enzyme activity and was highly effective at suppressing gastrointestinal parasites (Paramphistomum and coccidia), demonstrating the anthelmintic and metabolic effects of ribwort plantain.",
+   "tier": "preclinical",
+   "display": "Response of plantain (Plantago lanceolata L.) supplementation on nutritional, endo-parasitic, and endocrine status in lambs",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
    ],
    "actions": [],
    "conditions": []
@@ -8885,6 +9217,35 @@
    ],
    "conditions": [
     "Liver support"
+   ]
+  },
+  {
+   "ref_id": "REF-0951",
+   "key": "dearaujo2021guarana",
+   "type": "article",
+   "title": "The use of guarana (Paullinia cupana) as a dietary supplement for fatigue in cancer patients: a systematic review with a meta-analysis",
+   "authors": "de Araujo, D.P., Pereira, P.T.V.T., Fontes, A.J.C., Marques, K.D.S. and others",
+   "journal": "Supportive Care in Cancer",
+   "year": "2021",
+   "doi": "10.1007/s00520-021-06242-5",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00520-021-06242-5",
+   "link_type": "doi",
+   "citation": "de Araujo, D.P., Pereira, P.T.V.T., Fontes, A.J.C., Marques, K.D.S. and others (2021) 'The use of guarana (Paullinia cupana) as a dietary supplement for fatigue in cancer patients: a systematic review with a meta-analysis', Supportive Care in Cancer, 29(12), pp. 7171-7182. doi:10.1007/s00520-021-06242-5",
+   "abstract": "This systematic review with meta-analysis assessed guarana (Paullinia cupana) for managing cancer-related fatigue across seven studies (427 patients). In the pooled breast-cancer analysis, guarana was not superior to placebo for reducing cancer-related fatigue, and the quality of evidence was very low, indicating the need for further well-designed studies.",
+   "tier": "review",
+   "display": "The use of guarana (Paullinia cupana) as a dietary supplement for fatigue in cancer patients: a systematic review with a meta-analysis",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [],
+   "conditions": [
+    "Fatigue / low energy"
    ]
   },
   {
@@ -10006,6 +10367,68 @@
    ]
   },
   {
+   "ref_id": "REF-0958",
+   "key": "zamberlan2020guarana",
+   "type": "article",
+   "title": "Guarana (Paullinia cupana Mart.) protects against amyloid-beta toxicity in Caenorhabditis elegans through heat shock protein response activation",
+   "authors": "Zamberlan, D.C., Arantes, L.P., Machado, M.L., da Silveira, T.L. and others",
+   "journal": "Nutritional Neuroscience",
+   "year": "2020",
+   "doi": "10.1080/1028415X.2018.1517473",
+   "url": "",
+   "link": "https://doi.org/10.1080/1028415X.2018.1517473",
+   "link_type": "doi",
+   "citation": "Zamberlan, D.C., Arantes, L.P., Machado, M.L., da Silveira, T.L. and others (2020) 'Guarana (Paullinia cupana Mart.) protects against amyloid-beta toxicity in Caenorhabditis elegans through heat shock protein response activation', Nutritional Neuroscience, 23(6), pp. 444-454. doi:10.1080/1028415X.2018.1517473",
+   "abstract": "Chronic guarana (Paullinia cupana) ethanolic extract treatment decreased amyloid-beta aggregate formation in a Caenorhabditis elegans model of Alzheimer's disease, preventing behavioural deficits and oxidative damage through activation of the heat-shock-protein response, indicating neuroprotective potential against amyloidogenic neurodegeneration.",
+   "tier": "preclinical",
+   "display": "Guarana (Paullinia cupana Mart.) protects against amyloid-beta toxicity in Caenorhabditis elegans through heat shock protein response activation",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": [
+    "Memory"
+   ]
+  },
+  {
+   "ref_id": "REF-0959",
+   "key": "abboud2020guarana",
+   "type": "article",
+   "title": "Guarana (Paullinia cupana) consumption improves hepatic and renal parameters in alloxan-induced diabetic rats",
+   "authors": "Abboud, R.S., Ribeiro, I.C.A., Pereira, V.A., Correa, L.B.N. and others",
+   "journal": "Nutricion Hospitalaria",
+   "year": "2020",
+   "doi": "10.20960/nh.02759",
+   "url": "",
+   "link": "https://doi.org/10.20960/nh.02759",
+   "link_type": "doi",
+   "citation": "Abboud, R.S., Ribeiro, I.C.A., Pereira, V.A., Correa, L.B.N. and others (2020) 'Guarana (Paullinia cupana) consumption improves hepatic and renal parameters in alloxan-induced diabetic rats', Nutricion Hospitalaria, 37(2), pp. 343-348. doi:10.20960/nh.02759",
+   "abstract": "Consumption of guarana (Paullinia cupana) by alloxan-induced diabetic rats beneficially affected hepatic (ALT, AST) and renal function parameters and improved the lipid profile, suggesting guarana could serve as supportive antioxidant therapy in the management of diabetes.",
+   "tier": "preclinical",
+   "display": "Guarana (Paullinia cupana) consumption improves hepatic and renal parameters in alloxan-induced diabetic rats",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Metabolic support"
+   ]
+  },
+  {
    "ref_id": "REF-0176",
    "key": "national2020national",
    "type": "misc",
@@ -10198,6 +10621,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0975",
+   "key": "hoffmann2020tormentil",
+   "type": "article",
+   "title": "New Herbal Biomedicines for the Topical Treatment of Dermatological Disorders",
+   "authors": "Hoffmann, J., Gendrisch, F., Schempp, C.M. and Wolfle, U.",
+   "journal": "Biomedicines",
+   "year": "2020",
+   "doi": "10.3390/biomedicines8020027",
+   "url": "",
+   "link": "https://doi.org/10.3390/biomedicines8020027",
+   "link_type": "doi",
+   "citation": "Hoffmann, J., Gendrisch, F., Schempp, C.M. and Wolfle, U (2020) 'New Herbal Biomedicines for the Topical Treatment of Dermatological Disorders', Biomedicines, 8(2), pp. 27. doi:10.3390/biomedicines8020027",
+   "abstract": "This review of herbal biomedicines for skin disorders describes tormentil (Potentilla erecta) among the plant drugs used to treat atopic dermatitis and rosacea, alongside other herbs for psoriasis, herpes, acne and wound healing, summarising clinical and preclinical evidence for topical anti-inflammatory phytotherapy.",
+   "tier": "traditional",
+   "display": "New Herbal Biomedicines for the Topical Treatment of Dermatological Disorders",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Skin irritation"
+   ]
   },
   {
    "ref_id": "REF-0067",
@@ -10784,6 +11239,41 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0973",
+   "key": "melzig2020tormentil",
+   "type": "article",
+   "title": "Tormentillae rhizoma - Review for an Underestimated European Herbal Drug",
+   "authors": "Melzig, M.F. and Bottger, S.",
+   "journal": "Planta Medica",
+   "year": "2020",
+   "doi": "10.1055/a-1129-7214",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-1129-7214",
+   "link_type": "doi",
+   "citation": "Melzig, M.F. and Bottger, S (2020) 'Tormentillae rhizoma - Review for an Underestimated European Herbal Drug', Planta Medica, 86(15), pp. 1050-1057. doi:10.1055/a-1129-7214",
+   "abstract": "Tormentil (Potentilla erecta) rhizome has been used since medieval times and has European pharmacopoeia and traditional-use monographs. This review summarises its phytochemistry and pharmacology, with ellagitannins as main ingredients, and concludes that in vitro and in vivo data support the traditional use for diarrhoea and mucosal inflammation.",
+   "tier": "traditional",
+   "display": "Tormentillae rhizoma - Review for an Underestimated European Herbal Drug",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antidiarrhoeal",
+    "Astringent"
+   ],
+   "conditions": [
+    "Diarrhoea",
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-0828",
    "key": "batiha2020licorice",
    "type": "article",
@@ -11029,6 +11519,38 @@
     "Inflammation (general)",
     "Pain (general)",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-0968",
+   "key": "zeng2019aucubin",
+   "type": "article",
+   "title": "A review of the pharmacology and toxicology of aucubin",
+   "authors": "Zeng, X., Guo, F. and Ouyang, D.",
+   "journal": "Fitoterapia",
+   "year": "2019",
+   "doi": "10.1016/j.fitote.2019.104443",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2019.104443",
+   "link_type": "doi",
+   "citation": "Zeng, X., Guo, F. and Ouyang, D (2019) 'A review of the pharmacology and toxicology of aucubin', Fitoterapia, 140, pp. 104443. doi:10.1016/j.fitote.2019.104443",
+   "abstract": "Aucubin, an iridoid glycoside prevalent in Plantago and other medicinal herbs, possesses antioxidant, anti-inflammatory, anti-fibrotic, hepatoprotective, neuroprotective and osteoprotective properties with good tolerance. This review summarises the source, biological activity, pharmacokinetics and toxicology of aucubin, a key bioactive constituent of plantain.",
+   "tier": "traditional",
+   "display": "A review of the pharmacology and toxicology of aucubin",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
    ]
   },
   {
@@ -11957,6 +12479,34 @@
    ]
   },
   {
+   "ref_id": "REF-0969",
+   "key": "drava2019plantago",
+   "type": "article",
+   "title": "Trace elements in Plantago lanceolata L., a plant used for herbal and food preparations: new data and literature review",
+   "authors": "Drava, G., Cornara, L., Giordani, P. and Minganti, V.",
+   "journal": "Environmental Science and Pollution Research International",
+   "year": "2019",
+   "doi": "10.1007/s11356-018-3740-1",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11356-018-3740-1",
+   "link_type": "doi",
+   "citation": "Drava, G., Cornara, L., Giordani, P. and Minganti, V (2019) 'Trace elements in Plantago lanceolata L., a plant used for herbal and food preparations: new data and literature review', Environmental Science and Pollution Research International, 26(3), pp. 2305-2313. doi:10.1007/s11356-018-3740-1",
+   "abstract": "Plantago lanceolata, widely used in food and herbal preparations, was analysed for trace-element content (As, Cd, Cu, Fe, Pb, Zn and others) across rural, urban and industrial sites. Except near mines and smelters, metal content posed no particular health risk, informing the safe use and quality of ribwort plantain raw material.",
+   "tier": "preclinical",
+   "display": "Trace elements in Plantago lanceolata L., a plant used for herbal and food preparations: new data and literature review",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0887",
    "key": "zhang2019ledum",
    "type": "article",
@@ -12832,6 +13382,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0957",
+   "key": "lima2018guarana",
+   "type": "article",
+   "title": "Guarana (Paullinia cupana) Stimulates Mitochondrial Biogenesis in Mice Fed High-Fat Diet",
+   "authors": "Lima, N.D.S., Teixeira, L., Gambero, A. and Ribeiro, M.L.",
+   "journal": "Nutrients",
+   "year": "2018",
+   "doi": "10.3390/nu10020165",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu10020165",
+   "link_type": "doi",
+   "citation": "Lima, N.D.S., Teixeira, L., Gambero, A. and Ribeiro, M.L (2018) 'Guarana (Paullinia cupana) Stimulates Mitochondrial Biogenesis in Mice Fed High-Fat Diet', Nutrients, 10(2), pp. 165. doi:10.3390/nu10020165",
+   "abstract": "In high-fat-diet-fed mice, guarana (Paullinia cupana) reduced body weight, adipose depots, glycaemia and triglycerides, increased oxygen consumption and energy expenditure, and stimulated mitochondrial biogenesis in muscle and brown adipose tissue, demonstrating that guarana increases energy metabolism and helps control weight gain.",
+   "tier": "preclinical",
+   "display": "Guarana (Paullinia cupana) Stimulates Mitochondrial Biogenesis in Mice Fed High-Fat Diet",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [
+    "Physical performance / ergogenic"
+   ],
+   "conditions": [
+    "Fatigue / low energy",
+    "Metabolic support"
+   ]
+  },
+  {
    "ref_id": "REF-0826",
    "key": "pastorino2018liquorice",
    "type": "article",
@@ -13270,6 +13852,39 @@
    ]
   },
   {
+   "ref_id": "REF-0978",
+   "key": "wolfle2017tormentil",
+   "type": "article",
+   "title": "Anti-inflammatory and vasoconstrictive properties of Potentilla erecta - A traditional medicinal plant from the northern hemisphere",
+   "authors": "Wolfle, U., Hoffmann, J., Haarhaus, B., Rao Mittapalli, V. and Schempp, C.M.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2017",
+   "doi": "10.1016/j.jep.2017.03.058",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2017.03.058",
+   "link_type": "doi",
+   "citation": "Wolfle, U., Hoffmann, J., Haarhaus, B., Rao Mittapalli, V. and Schempp, C.M (2017) 'Anti-inflammatory and vasoconstrictive properties of Potentilla erecta - A traditional medicinal plant from the northern hemisphere', Journal of Ethnopharmacology, 204, pp. 86-94. doi:10.1016/j.jep.2017.03.058",
+   "abstract": "Potentilla erecta (tormentil), traditionally used for inflammatory skin and mucosal disorders, strongly reduced IL-6, prostaglandin E2 and NF-kappaB activation in keratinocytes and showed a blanching (vasoconstrictive) effect comparable to hydrocortisone via NO scavenging and eNOS inhibition, supporting topical treatment of inflammatory skin disorders.",
+   "tier": "clinical",
+   "display": "Anti-inflammatory and vasoconstrictive properties of Potentilla erecta - A traditional medicinal plant from the northern hemisphere",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)",
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-0723",
    "key": "ahangarpour2017arctium",
    "type": "article",
@@ -13352,6 +13967,34 @@
    ],
    "scientific": [
     "Filipendula ulmaria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0972",
+   "key": "marcinczyk2017tormentil",
+   "type": "article",
+   "title": "Antithrombotic Potential of Tormentil Extract in Animal Models",
+   "authors": "Marcinczyk, N., Jarmoc, D., Leszczynska, A., Zakrzeska, A. and others",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2017",
+   "doi": "10.3389/fphar.2017.00534",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2017.00534",
+   "link_type": "doi",
+   "citation": "Marcinczyk, N., Jarmoc, D., Leszczynska, A., Zakrzeska, A. and others (2017) 'Antithrombotic Potential of Tormentil Extract in Animal Models', Frontiers in Pharmacology, 8, pp. 534. doi:10.3389/fphar.2017.00534",
+   "abstract": "Polyphenol-rich tormentil (Potentilla erecta) extract, with anti-inflammatory and antioxidant activities, was evaluated in a rat model of arterial thrombosis. The extract decreased thrombus weight, prolonged occlusion and bleeding time, reduced thromboxane production and inhibited platelet activation similarly to aspirin, demonstrating antithrombotic potential.",
+   "tier": "preclinical",
+   "display": "Antithrombotic Potential of Tormentil Extract in Animal Models",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
    ],
    "actions": [],
    "conditions": []
@@ -13870,6 +14513,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0976",
+   "key": "tomczyk2017tormentil",
+   "type": "article",
+   "title": "Hydrogel Containing an Extract of Tormentillae rhizoma for the Treatment of Biofilm-Related Oral Diseases",
+   "authors": "Tomczyk, M., Sosnowska, K., Pleszczynska, M., Strawa, J. and others",
+   "journal": "Natural Product Communications",
+   "year": "2017",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30549900/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/30549900/",
+   "link_type": "url",
+   "citation": "Tomczyk, M., Sosnowska, K., Pleszczynska, M., Strawa, J. and others (2017) 'Hydrogel Containing an Extract of Tormentillae rhizoma for the Treatment of Biofilm-Related Oral Diseases', Natural Product Communications, 12(3), pp. 417-421. Available at: https://pubmed.ncbi.nlm.nih.gov/30549900/",
+   "abstract": "Mucoadhesive hydrogels containing dried tormentil (Potentilla erecta) extract, rich in oligomeric proanthocyanidins and agrimoniin, significantly reduced cariogenic Streptococcus mutans biofilm formation, with complete inhibition at 2 mg/mL, supporting the use of tormentil for periodontal and oral diseases.",
+   "tier": "preclinical",
+   "display": "Hydrogel Containing an Extract of Tormentillae rhizoma for the Treatment of Biofilm-Related Oral Diseases",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [
+    "Astringent"
+   ],
+   "conditions": [
+    "Sore throat"
+   ]
+  },
+  {
    "ref_id": "REF-0628",
    "key": "palomares2017prunus",
    "type": "article",
@@ -13923,6 +14598,35 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0956",
+   "key": "lima2017guarana",
+   "type": "article",
+   "title": "Modulatory Effects of Guarana (Paullinia cupana) on Adipogenesis",
+   "authors": "Lima, N.D.S., Numata, E.P., Mesquita, L.M.S., Dias, P.H. and others",
+   "journal": "Nutrients",
+   "year": "2017",
+   "doi": "10.3390/nu9060635",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu9060635",
+   "link_type": "doi",
+   "citation": "Lima, N.D.S., Numata, E.P., Mesquita, L.M.S., Dias, P.H. and others (2017) 'Modulatory Effects of Guarana (Paullinia cupana) on Adipogenesis', Nutrients, 9(6), pp. 635. doi:10.3390/nu9060635",
+   "abstract": "Guarana (Paullinia cupana) had a dose-dependent triglyceride-reducing (anti-adipogenic) effect in 3T3-L1 cells, up-regulating anti-adipogenic genes and down-regulating pro-adipogenic genes via modulation of miRNAs and beta-catenin signalling, supporting its role in body-weight control and metabolic health.",
+   "tier": "preclinical",
+   "display": "Modulatory Effects of Guarana (Paullinia cupana) on Adipogenesis",
+   "plants": [
+    "Brazilian cocoa",
+    "Guarana",
+    "zoom"
+   ],
+   "scientific": [
+    "Paullinia cupana"
+   ],
+   "actions": [],
+   "conditions": [
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-0734",
@@ -14349,6 +15053,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0967",
+   "key": "jaric2017plantago",
+   "type": "article",
+   "title": "Traditional wound-healing plants used in the Balkan region (Southeast Europe)",
+   "authors": "Jaric, S., Kostic, O., Mataruga, Z., Pavlovic, D. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2017",
+   "doi": "10.1016/j.jep.2017.09.018",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2017.09.018",
+   "link_type": "doi",
+   "citation": "Jaric, S., Kostic, O., Mataruga, Z., Pavlovic, D. and others (2017) 'Traditional wound-healing plants used in the Balkan region (Southeast Europe)', Journal of Ethnopharmacology, 211, pp. 311-328. doi:10.1016/j.jep.2017.09.018",
+   "abstract": "This ethnobotanical review of Balkan wound-healing plants identified Plantago lanceolata among the most commonly used species, and noted that its traditional wound-healing use is confirmed by laboratory studies, supporting the vulnerary application of ribwort plantain.",
+   "tier": "traditional",
+   "display": "Traditional wound-healing plants used in the Balkan region (Southeast Europe)",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": [
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-0058",
@@ -16690,6 +17426,38 @@
    ]
   },
   {
+   "ref_id": "REF-0966",
+   "key": "kovac2015plantago",
+   "type": "article",
+   "title": "Plantago lanceolata L. water extract induces transition of fibroblasts into myofibroblasts and increases tensile strength of healing skin wounds",
+   "authors": "Kovac, I., Durkac, J., Holly, M., Jakubcova, K. and others",
+   "journal": "Journal of Pharmacy and Pharmacology",
+   "year": "2015",
+   "doi": "10.1111/jphp.12316",
+   "url": "",
+   "link": "https://doi.org/10.1111/jphp.12316",
+   "link_type": "doi",
+   "citation": "Kovac, I., Durkac, J., Holly, M., Jakubcova, K. and others (2015) 'Plantago lanceolata L. water extract induces transition of fibroblasts into myofibroblasts and increases tensile strength of healing skin wounds', Journal of Pharmacy and Pharmacology, 67(1), pp. 117-125. doi:10.1111/jphp.12316",
+   "abstract": "Plantago lanceolata water extract, traditionally used to stimulate wound healing, was applied to skin wounds in rats. Treated wounds contained more myofibroblasts, showed significantly higher contraction rates and increased tensile strength due to better-organised collagen, demonstrating that ribwort plantain improves skin wound healing.",
+   "tier": "preclinical",
+   "display": "Plantago lanceolata L. water extract induces transition of fibroblasts into myofibroblasts and increases tensile strength of healing skin wounds",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": [
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-0054",
    "key": "darakhshan2015darakhshan",
    "type": "misc",
@@ -16801,6 +17569,36 @@
     "Urinary tract infection (UTI)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0971",
+   "key": "fecka2015tormentil",
+   "type": "article",
+   "title": "Quantification of tannins and related polyphenols in commercial products of tormentil (Potentilla tormentilla)",
+   "authors": "Fecka, I., Kucharska, A.Z. and Kowalczyk, A.",
+   "journal": "Phytochemical Analysis",
+   "year": "2015",
+   "doi": "10.1002/pca.2570",
+   "url": "",
+   "link": "https://doi.org/10.1002/pca.2570",
+   "link_type": "doi",
+   "citation": "Fecka, I., Kucharska, A.Z. and Kowalczyk, A (2015) 'Quantification of tannins and related polyphenols in commercial products of tormentil (Potentilla tormentilla)', Phytochemical Analysis, 26(5), pp. 353-366. doi:10.1002/pca.2570",
+   "abstract": "Commercial tormentil (Potentilla erecta) rhizomes and tinctures were analysed for polyphenols, showing a high content of condensed and hydrolysable tannins (over 20% in rhizomes), with procyanidins B3 and C2, agrimoniin, galloylquinic acids and catechin as main components, underpinning the astringent activity of the herb.",
+   "tier": "preclinical",
+   "display": "Quantification of tannins and related polyphenols in commercial products of tormentil (Potentilla tormentilla)",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [
+    "Astringent"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0893",
@@ -17054,6 +17852,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0977",
+   "key": "wan2014tormentil",
+   "type": "article",
+   "title": "Advances in treatment of ulcerative colitis with herbs: from bench to bedside",
+   "authors": "Wan, P., Chen, H., Guo, Y. and Bai, A.P.",
+   "journal": "World Journal of Gastroenterology",
+   "year": "2014",
+   "doi": "10.3748/wjg.v20.i39.14099",
+   "url": "",
+   "link": "https://doi.org/10.3748/wjg.v20.i39.14099",
+   "link_type": "doi",
+   "citation": "Wan, P., Chen, H., Guo, Y. and Bai, A.P (2014) 'Advances in treatment of ulcerative colitis with herbs: from bench to bedside', World Journal of Gastroenterology, 20(39), pp. 14099-14104. doi:10.3748/wjg.v20.i39.14099",
+   "abstract": "This review of herbal treatments for ulcerative colitis discusses tormentil (Potentilla erecta) extracts among the herbs (with aloe vera, butyrate, wheatgrass and curcumin) showing potential effectiveness, summarising the bioactivity and clinical evidence for tormentil in inflammatory bowel disease.",
+   "tier": "traditional",
+   "display": "Advances in treatment of ulcerative colitis with herbs: from bench to bedside",
+   "plants": [
+    "Bloodroot",
+    "Common tormentil",
+    "Septfoil",
+    "Tormentil"
+   ],
+   "scientific": [
+    "Potentilla erecta"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammatory bowel disease (IBD)"
+   ]
   },
   {
    "ref_id": "REF-0551",
@@ -17658,6 +18488,34 @@
    ]
   },
   {
+   "ref_id": "REF-0963",
+   "key": "sousa2014plantago",
+   "type": "article",
+   "title": "Identification of Plantago lanceolata pollen allergens using an immunoproteomic approach",
+   "authors": "Sousa, R., Osorio, H., Duque, L., Ribeiro, H., Cruz, A. and Abreu, I.",
+   "journal": "Journal of Investigational Allergology and Clinical Immunology",
+   "year": "2014",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25011355/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/25011355/",
+   "link_type": "url",
+   "citation": "Sousa, R., Osorio, H., Duque, L., Ribeiro, H., Cruz, A. and Abreu, I (2014) 'Identification of Plantago lanceolata pollen allergens using an immunoproteomic approach', Journal of Investigational Allergology and Clinical Immunology, 24(3), pp. 177-183. Available at: https://pubmed.ncbi.nlm.nih.gov/25011355/",
+   "abstract": "Using 1D/2D gel electrophoresis, immunoblotting and mass spectrometry with sera from sensitised patients, this study characterised the pollen allergen profile of Plantago lanceolata, identifying eight prominent IgE-reactive allergen groups relevant to seasonal respiratory allergy.",
+   "tier": "preclinical",
+   "display": "Identification of Plantago lanceolata pollen allergens using an immunoproteomic approach",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0884",
    "key": "dampc2014labradortea",
    "type": "article",
@@ -17785,6 +18643,34 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-0962",
+   "key": "gadermaier2014plantago",
+   "type": "article",
+   "title": "Plantago lanceolata: an important trigger of summer pollinosis with limited IgE cross-reactivity",
+   "authors": "Gadermaier, G., Eichhorn, S., Vejvar, E., Weilnbock, L. and others",
+   "journal": "Journal of Allergy and Clinical Immunology",
+   "year": "2014",
+   "doi": "10.1016/j.jaci.2014.02.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jaci.2014.02.016",
+   "link_type": "doi",
+   "citation": "Gadermaier, G., Eichhorn, S., Vejvar, E., Weilnbock, L. and others (2014) 'Plantago lanceolata: an important trigger of summer pollinosis with limited IgE cross-reactivity', Journal of Allergy and Clinical Immunology, 134(2), pp. 472-475. doi:10.1016/j.jaci.2014.02.016",
+   "abstract": "This study identified Plantago lanceolata pollen as an important trigger of summer pollinosis (seasonal allergic rhinitis) with limited IgE cross-reactivity to other allergens, an important consideration for the allergenic potential and safe use of ribwort plantain.",
+   "tier": "preclinical",
+   "display": "Plantago lanceolata: an important trigger of summer pollinosis with limited IgE cross-reactivity",
+   "plants": [
+    "English plantain",
+    "Lamb's tongue",
+    "Narrowleaf plantain",
+    "Ribwort Plantain"
+   ],
+   "scientific": [
+    "Plantago lanceolata"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0417",

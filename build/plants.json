@@ -16813,7 +16813,10 @@
      "reference_ids": [
       "REF-0293",
       "REF-0300",
-      "REF-0315"
+      "REF-0315",
+      "REF-1165",
+      "REF-1166",
+      "REF-1167"
      ],
      "status": "verified"
     },
@@ -16831,7 +16834,8 @@
      "reference_ids": [
       "REF-0293",
       "REF-0300",
-      "REF-0315"
+      "REF-0315",
+      "REF-1167"
      ],
      "status": "verified"
     },
@@ -16849,7 +16853,8 @@
      "reference_ids": [
       "REF-0293",
       "REF-0300",
-      "REF-0315"
+      "REF-0315",
+      "REF-1167"
      ],
      "status": "verified"
     },
@@ -16858,7 +16863,12 @@
      "reference_ids": [
       "REF-0293",
       "REF-0300",
-      "REF-0315"
+      "REF-0315",
+      "REF-1163",
+      "REF-1164",
+      "REF-1167",
+      "REF-1170",
+      "REF-1171"
      ],
      "status": "verified"
     }
@@ -16955,9 +16965,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1163",
+    "REF-1164",
+    "REF-1165",
+    "REF-1166",
+    "REF-1167",
+    "REF-1168",
+    "REF-1169",
+    "REF-1170",
+    "REF-1171",
+    "REF-1172"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "leonurus-cardiaca",
@@ -17388,7 +17410,8 @@
      "note": "Berberine is the main anti-psoriatic and antimicrobial constituent.",
      "reference_ids": [
       "REF-0487",
-      "REF-0488"
+      "REF-0488",
+      "REF-1174"
      ]
     }
    ],
@@ -17397,7 +17420,9 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis)",
      "reference_ids": [
-      "REF-0487"
+      "REF-0487",
+      "REF-1179",
+      "REF-1182"
      ],
      "status": "verified"
     },
@@ -17405,7 +17430,10 @@
      "action": "anticancer",
      "note": "Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis)",
      "reference_ids": [
-      "REF-0487"
+      "REF-0487",
+      "REF-1175",
+      "REF-1176",
+      "REF-1178"
      ],
      "status": "verified"
     },
@@ -17413,7 +17441,11 @@
      "action": "antimicrobial",
      "note": "Antimicrobial (berberine) - supports skin and mucosal infection",
      "reference_ids": [
-      "REF-0488"
+      "REF-0488",
+      "REF-1174",
+      "REF-1177",
+      "REF-1180",
+      "REF-1181"
      ],
      "status": "needs-review"
     }
@@ -17439,7 +17471,8 @@
      "condition": "infection",
      "note": "Antimicrobial (berberine) - supports skin and mucosal infection",
      "reference_ids": [
-      "REF-0488"
+      "REF-0488",
+      "REF-1177"
      ],
      "status": "needs-review"
     },
@@ -17447,7 +17480,8 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0487"
+      "REF-0487",
+      "REF-1182"
      ],
      "status": "needs-review"
     },
@@ -17456,7 +17490,9 @@
      "note": "Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis); Topical treatment of mild-to-moderate psoriasis (reduces plaque severity) - a double-blind, placebo-controlled RCT showed significant improvement in PASI and quality-of-life scores",
      "reference_ids": [
       "REF-0487",
-      "REF-0591"
+      "REF-0591",
+      "REF-1173",
+      "REF-1179"
      ],
      "status": "verified"
     },
@@ -17464,7 +17500,8 @@
      "condition": "skin-irritation",
      "note": "Topical for atopic dermatitis (eczema) and skin irritation",
      "reference_ids": [
-      "REF-0487"
+      "REF-0487",
+      "REF-1173"
      ],
      "status": "verified"
     },
@@ -17496,9 +17533,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1173",
+    "REF-1174",
+    "REF-1175",
+    "REF-1176",
+    "REF-1177",
+    "REF-1178",
+    "REF-1179",
+    "REF-1180",
+    "REF-1181",
+    "REF-1182"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "malva-sylvestris",
@@ -17991,7 +18040,12 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-1153",
+      "REF-1157",
+      "REF-1158",
+      "REF-1159",
+      "REF-1162"
      ],
      "status": "verified"
     },
@@ -18002,7 +18056,8 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-1153"
      ],
      "status": "verified"
     },
@@ -18014,7 +18069,10 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-1153",
+      "REF-1157",
+      "REF-1158"
      ],
      "status": "verified"
     },
@@ -18025,7 +18083,10 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-1153",
+      "REF-1157",
+      "REF-1162"
      ],
      "status": "verified"
     },
@@ -18047,7 +18108,14 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-1153",
+      "REF-1154",
+      "REF-1155",
+      "REF-1156",
+      "REF-1159",
+      "REF-1160",
+      "REF-1162"
      ],
      "status": "verified"
     },
@@ -18180,7 +18248,8 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-1154"
      ],
      "status": "needs-review"
     },
@@ -18294,9 +18363,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1153",
+    "REF-1154",
+    "REF-1155",
+    "REF-1156",
+    "REF-1157",
+    "REF-1158",
+    "REF-1159",
+    "REF-1160",
+    "REF-1161",
+    "REF-1162"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "melissa-officinalis",

@@ -5300,6 +5300,21 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0079",
+      "REF-0112",
+      "REF-0189",
+      "REF-0231",
+      "REF-0280",
+      "REF-1154"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -5414,20 +5429,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0079",
-      "REF-0112",
-      "REF-0189",
-      "REF-0231",
-      "REF-0280"
-     ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -14689,12 +14690,25 @@
     {
      "condition": "psoriasis",
      "label": "Psoriasis",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0487",
+      "REF-0591",
+      "REF-1173",
+      "REF-1179"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
      "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0487",
-      "REF-0591"
+      "REF-1173"
      ]
     },
     {
@@ -14724,27 +14738,19 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0487"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0487"
+      "REF-0487",
+      "REF-1182"
      ]
     },
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0488"
+      "REF-0488",
+      "REF-1177"
      ]
     },
     {

@@ -17805,7 +17805,8 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (traditional use in whooping cough)",
      "reference_ids": [
-      "REF-0469"
+      "REF-0469",
+      "REF-0925"
      ],
      "status": "needs-review"
     },
@@ -17830,7 +17831,9 @@
      "note": "Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis",
      "reference_ids": [
       "REF-0468",
-      "REF-0469"
+      "REF-0469",
+      "REF-0921",
+      "REF-0926"
      ],
      "status": "verified"
     }
@@ -17840,7 +17843,8 @@
      "condition": "appetite-loss",
      "note": "Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite",
      "reference_ids": [
-      "REF-0468"
+      "REF-0468",
+      "REF-0921"
      ],
      "status": "verified"
     },
@@ -17857,7 +17861,9 @@
      "note": "Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis",
      "reference_ids": [
       "REF-0468",
-      "REF-0469"
+      "REF-0469",
+      "REF-0921",
+      "REF-0926"
      ],
      "status": "verified"
     },
@@ -17866,7 +17872,8 @@
      "note": "Antispasmodic (traditional use in whooping cough); Expectorant for productive cough and catarrh of the upper respiratory tract / bronchitis",
      "reference_ids": [
       "REF-0468",
-      "REF-0469"
+      "REF-0469",
+      "REF-0921"
      ],
      "status": "needs-review"
     },
@@ -17874,7 +17881,8 @@
      "condition": "indigestion",
      "note": "Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite",
      "reference_ids": [
-      "REF-0468"
+      "REF-0468",
+      "REF-0921"
      ],
      "status": "verified"
     },
@@ -17890,7 +17898,8 @@
      "condition": "muscle-spasm",
      "note": "inferred from antispasmodic action",
      "reference_ids": [
-      "REF-0469"
+      "REF-0469",
+      "REF-0925"
      ],
      "status": "needs-review"
     },
@@ -17899,7 +17908,9 @@
      "note": "inferred from expectorant action",
      "reference_ids": [
       "REF-0468",
-      "REF-0469"
+      "REF-0469",
+      "REF-0921",
+      "REF-0926"
      ],
      "status": "needs-review"
     },
@@ -17931,9 +17942,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0920",
+    "REF-0921",
+    "REF-0922",
+    "REF-0923",
+    "REF-0924",
+    "REF-0925",
+    "REF-0926",
+    "REF-0927",
+    "REF-0928",
+    "REF-0929"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "matricaria-chamomilla",
@@ -19162,7 +19185,10 @@
      "reference_ids": [
       "REF-0035",
       "REF-0095",
-      "REF-0232"
+      "REF-0232",
+      "REF-0932",
+      "REF-0934",
+      "REF-0936"
      ],
      "status": "verified"
     },
@@ -19171,7 +19197,8 @@
      "reference_ids": [
       "REF-0035",
       "REF-0095",
-      "REF-0232"
+      "REF-0232",
+      "REF-0938"
      ],
      "status": "verified"
     },
@@ -19202,7 +19229,8 @@
      "reference_ids": [
       "REF-0035",
       "REF-0095",
-      "REF-0232"
+      "REF-0232",
+      "REF-0938"
      ],
      "status": "needs-review"
     },
@@ -19212,7 +19240,8 @@
      "reference_ids": [
       "REF-0035",
       "REF-0095",
-      "REF-0232"
+      "REF-0232",
+      "REF-0938"
      ],
      "status": "needs-review"
     },
@@ -19222,7 +19251,9 @@
      "reference_ids": [
       "REF-0035",
       "REF-0095",
-      "REF-0232"
+      "REF-0232",
+      "REF-0932",
+      "REF-0934"
      ],
      "status": "needs-review"
     },
@@ -19298,9 +19329,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0930",
+    "REF-0931",
+    "REF-0932",
+    "REF-0933",
+    "REF-0934",
+    "REF-0935",
+    "REF-0936",
+    "REF-0937",
+    "REF-0938",
+    "REF-0939"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "nigella-sativa",
@@ -20609,7 +20652,8 @@
      "reference_ids": [
       "REF-0114",
       "REF-0124",
-      "REF-0253"
+      "REF-0253",
+      "REF-0940"
      ],
      "status": "verified"
     },
@@ -20618,7 +20662,11 @@
      "reference_ids": [
       "REF-0114",
       "REF-0124",
-      "REF-0253"
+      "REF-0253",
+      "REF-0941",
+      "REF-0943",
+      "REF-0945",
+      "REF-0949"
      ],
      "status": "verified"
     },
@@ -20627,7 +20675,11 @@
      "reference_ids": [
       "REF-0114",
       "REF-0124",
-      "REF-0253"
+      "REF-0253",
+      "REF-0940",
+      "REF-0941",
+      "REF-0943",
+      "REF-0944"
      ],
      "status": "verified"
     }
@@ -20649,7 +20701,11 @@
      "reference_ids": [
       "REF-0114",
       "REF-0124",
-      "REF-0253"
+      "REF-0253",
+      "REF-0941",
+      "REF-0943",
+      "REF-0945",
+      "REF-0949"
      ],
      "status": "needs-review"
     },
@@ -20659,7 +20715,8 @@
      "reference_ids": [
       "REF-0114",
       "REF-0124",
-      "REF-0253"
+      "REF-0253",
+      "REF-0940"
      ],
      "status": "needs-review"
     },
@@ -20678,7 +20735,9 @@
      "reference_ids": [
       "REF-0114",
       "REF-0124",
-      "REF-0253"
+      "REF-0253",
+      "REF-0940",
+      "REF-0941"
      ],
      "status": "verified"
     },
@@ -20715,9 +20774,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0940",
+    "REF-0941",
+    "REF-0942",
+    "REF-0943",
+    "REF-0944",
+    "REF-0945",
+    "REF-0946",
+    "REF-0947",
+    "REF-0948",
+    "REF-0949"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "panax-ginseng",

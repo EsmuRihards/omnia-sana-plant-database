@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 919,
+ "count": 949,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -1716,6 +1716,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0925",
+   "key": "aitbaba2024marrubium",
+   "type": "article",
+   "title": "Chemical Investigation and Antinociceptive Activity Evaluation of Marrubium vulgare L. Aqueous Extract",
+   "authors": "Aitbaba, A., Kabdy, H., Baslam, A., Azraida, H. and others",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2024",
+   "doi": "10.1002/cbdv.202400228",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.202400228",
+   "link_type": "doi",
+   "citation": "Aitbaba, A., Kabdy, H., Baslam, A., Azraida, H. and others (2024) 'Chemical Investigation and Antinociceptive Activity Evaluation of Marrubium vulgare L. Aqueous Extract', Chemistry & Biodiversity, 21(5), pp. e202400228. doi:10.1002/cbdv.202400228",
+   "abstract": "The aqueous extract of Marrubium vulgare leaves, traditionally used for respiratory infections, inflammation and pain, was investigated for chemical composition, acute toxicity and antinociceptive effects. The extract (rich in marrubiin) showed significant antioxidant and robust antinociceptive (analgesic) activity in writhing, hot-plate and formalin tests, supporting its antispasmodic/pain-relieving use.",
+   "tier": "preclinical",
+   "display": "Chemical Investigation and Antinociceptive Activity Evaluation of Marrubium vulgare L. Aqueous Extract",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": [
+    "Muscle spasm"
+   ]
+  },
+  {
    "ref_id": "REF-0775",
    "key": "zhang2024cnicus",
    "type": "article",
@@ -2394,6 +2425,122 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0920",
+   "key": "lazarova2024marrubium",
+   "type": "article",
+   "title": "Marrubium vulgare Extract Improves Spatial Working Memory and Oxidative Stress Damage in Scopolamine-Treated Rats",
+   "authors": "Lazarova, M.I., Tsvetanova, E.R., Georgieva, A.P., Stefanova, M.O. and others",
+   "journal": "Journal of Alzheimer's Disease",
+   "year": "2024",
+   "doi": "10.3233/JAD-231011",
+   "url": "",
+   "link": "https://doi.org/10.3233/JAD-231011",
+   "link_type": "doi",
+   "citation": "Lazarova, M.I., Tsvetanova, E.R., Georgieva, A.P., Stefanova, M.O. and others (2024) 'Marrubium vulgare Extract Improves Spatial Working Memory and Oxidative Stress Damage in Scopolamine-Treated Rats', Journal of Alzheimer's Disease, 99(s1), pp. S157-S169. doi:10.3233/JAD-231011",
+   "abstract": "Marrubium vulgare (white horehound) water extract was tested in scopolamine-induced dementia in rats. It significantly improved spatial working memory in the T-maze test, reduced hippocampal acetylcholinesterase activity and alleviated cortical oxidative stress, demonstrating antioxidant and memory-preserving (neuroprotective) effects.",
+   "tier": "preclinical",
+   "display": "Marrubium vulgare Extract Improves Spatial Working Memory and Oxidative Stress Damage in Scopolamine-Treated Rats",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0930",
+   "key": "geissler2024nepeta",
+   "type": "article",
+   "title": "Nepeta cataria L. (catnip) can serve as a chassis for the engineering of secondary metabolic pathways",
+   "authors": "Geissler, M., Neubauer, C., Sheludko, Y.V. and Warzecha, H.",
+   "journal": "Biotechnology Letters",
+   "year": "2024",
+   "doi": "10.1007/s10529-024-03489-w",
+   "url": "",
+   "link": "https://doi.org/10.1007/s10529-024-03489-w",
+   "link_type": "doi",
+   "citation": "Geissler, M., Neubauer, C., Sheludko, Y.V. and Warzecha, H (2024) 'Nepeta cataria L. (catnip) can serve as a chassis for the engineering of secondary metabolic pathways', Biotechnology Letters, 46(5), pp. 843-850. doi:10.1007/s10529-024-03489-w",
+   "abstract": "Nepeta cataria (catnip) was evaluated as a metabolic-engineering host. The plant was amenable to Agrobacterium-mediated transient expression and, when biosynthetic genes were introduced, produced cannabinoid-precursor olivetolic acid glycosides, demonstrating catnip's potential as a chassis for engineering secondary metabolic pathways.",
+   "tier": "preclinical",
+   "display": "Nepeta cataria L. (catnip) can serve as a chassis for the engineering of secondary metabolic pathways",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0940",
+   "key": "shareef2024oxycoccus",
+   "type": "article",
+   "title": "Nephroprotective effect of cranberry (Vaccinium oxycoccos) in streptozocin-induced diabetic nephropathy in mice",
+   "authors": "Shareef, S.M., Khaleel, R.A. and Maryoosh, T.M.",
+   "journal": "Drug Metabolism and Personalized Therapy",
+   "year": "2024",
+   "doi": "10.1515/dmpt-2023-0092",
+   "url": "",
+   "link": "https://doi.org/10.1515/dmpt-2023-0092",
+   "link_type": "doi",
+   "citation": "Shareef, S.M., Khaleel, R.A. and Maryoosh, T.M (2024) 'Nephroprotective effect of cranberry (Vaccinium oxycoccos) in streptozocin-induced diabetic nephropathy in mice', Drug Metabolism and Personalized Therapy, 39(1), pp. 35-45. doi:10.1515/dmpt-2023-0092",
+   "abstract": "A hydroalcoholic extract of cranberry (Vaccinium oxycoccos) was tested in streptozotocin-induced diabetic nephropathy in mice. The extract improved serum and urine renal parameters, raised antioxidant enzymes (SOD, GSH) and lowered inflammatory cytokines (TNF-alpha, IL-6, TGF-beta1), demonstrating antioxidant, anti-inflammatory and nephroprotective effects.",
+   "tier": "preclinical",
+   "display": "Nephroprotective effect of cranberry (Vaccinium oxycoccos) in streptozocin-induced diabetic nephropathy in mice",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Inflammation (general)",
+    "Urinary support"
+   ]
+  },
+  {
+   "ref_id": "REF-0924",
+   "key": "lazarova2024bmarrubium",
+   "type": "article",
+   "title": "Neuroprotective Effect of Marrubium vulgare Extract in Scopolamine-Induced Cognitive Impairment in Rats: Behavioral and Biochemical Approaches",
+   "authors": "Lazarova, M., Stefanova, M., Denev, P., Taseva, T. and others",
+   "journal": "Biology (Basel)",
+   "year": "2024",
+   "doi": "10.3390/biology13060426",
+   "url": "",
+   "link": "https://doi.org/10.3390/biology13060426",
+   "link_type": "doi",
+   "citation": "Lazarova, M., Stefanova, M., Denev, P., Taseva, T. and others (2024) 'Neuroprotective Effect of Marrubium vulgare Extract in Scopolamine-Induced Cognitive Impairment in Rats: Behavioral and Biochemical Approaches', Biology (Basel), 13(6), pp. 426. doi:10.3390/biology13060426",
+   "abstract": "A Marrubium vulgare extract standardised to marrubiin content alleviated scopolamine-induced memory impairment in rats, preserved hippocampal cholinergic function, increased brain noradrenaline and restored cortical pCREB expression, indicating neuroprotective effects via modulation of cholinergic and noradrenergic neurotransmission.",
+   "tier": "preclinical",
+   "display": "Neuroprotective Effect of Marrubium vulgare Extract in Scopolamine-Induced Cognitive Impairment in Rats: Behavioral and Biochemical Approaches",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0489",
    "key": "bahramsoltani2024petroselinum",
    "type": "article",
@@ -2840,6 +2987,33 @@
     "Anti-inflammatory",
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0931",
+   "key": "lockhart2024nepeta",
+   "type": "article",
+   "title": "Stability study of Nepeta cataria iridoids analyzed by LC/MS",
+   "authors": "Lockhart, A., Simon, J.E. and Wu, Q.",
+   "journal": "Phytochemical Analysis",
+   "year": "2024",
+   "doi": "10.1002/pca.3410",
+   "url": "",
+   "link": "https://doi.org/10.1002/pca.3410",
+   "link_type": "doi",
+   "citation": "Lockhart, A., Simon, J.E. and Wu, Q (2024) 'Stability study of Nepeta cataria iridoids analyzed by LC/MS', Phytochemical Analysis, 35(7), pp. 1674-1687. doi:10.1002/pca.3410",
+   "abstract": "The long-term stability of the bioactive iridoids (nepetalactones, nepetalic acid, dihydronepetalactone) of catnip (Nepeta cataria) was measured over two years under different storage conditions by UHPLC-MS, identifying degradative byproducts and showing that protecting catnip products from light is necessary to preserve nepetalactone content.",
+   "tier": "preclinical",
+   "display": "Stability study of Nepeta cataria iridoids analyzed by LC/MS",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -3347,6 +3521,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0936",
+   "key": "tiwari2023nepeta",
+   "type": "article",
+   "title": "Assessment of Genetic Diversity, Micromorphology and Antimicrobial Activity in Nepeta cataria L.",
+   "authors": "Tiwari, G., Chaturvedi, T., Gupta, A.K., Lal, R.K. and others",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2023",
+   "doi": "10.1002/cbdv.202200241",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.202200241",
+   "link_type": "doi",
+   "citation": "Tiwari, G., Chaturvedi, T., Gupta, A.K., Lal, R.K. and others (2023) 'Assessment of Genetic Diversity, Micromorphology and Antimicrobial Activity in Nepeta cataria L', Chemistry & Biodiversity, 20(2), pp. e202200241. doi:10.1002/cbdv.202200241",
+   "abstract": "Thirteen half-sib genotypes of Nepeta cataria (catmint) were assessed for genetic diversity, essential-oil composition (nepetalactone-dominant) and micromorphology. The catmint oil showed promising antimicrobial potential against human pathogens, supporting both crop improvement and the antimicrobial use of catnip.",
+   "tier": "preclinical",
+   "display": "Assessment of Genetic Diversity, Micromorphology and Antimicrobial Activity in Nepeta cataria L.",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0745",
    "key": "sevastreberghian2023betula",
    "type": "article",
@@ -3523,6 +3726,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0934",
+   "key": "mollova2023nepeta",
+   "type": "article",
+   "title": "Chemical Composition of Essential Oils from Nepeta cataria L. Cultivated in Bulgaria and Their Antimicrobial and Antioxidant Activity",
+   "authors": "Mollova, S., Dzhurmanski, A., Fidan, H., Bojilov, D. and others",
+   "journal": "ACS Omega",
+   "year": "2023",
+   "doi": "10.1021/acsomega.3c00704",
+   "url": "",
+   "link": "https://doi.org/10.1021/acsomega.3c00704",
+   "link_type": "doi",
+   "citation": "Mollova, S., Dzhurmanski, A., Fidan, H., Bojilov, D. and others (2023) 'Chemical Composition of Essential Oils from Nepeta cataria L. Cultivated in Bulgaria and Their Antimicrobial and Antioxidant Activity', ACS Omega, 8(17), pp. 15441-15449. doi:10.1021/acsomega.3c00704",
+   "abstract": "Essential oils of Nepeta cataria cultivated in Bulgaria were characterised (main components beta-citronellol, geraniol, neral, nerol) and tested for antimicrobial and antioxidant activity. The oils showed antibacterial activity and notable antioxidant capacity (DPPH, ABTS, FRAP, CUPRAC), supporting the antimicrobial use of catnip.",
+   "tier": "preclinical",
+   "display": "Chemical Composition of Essential Oils from Nepeta cataria L. Cultivated in Bulgaria and Their Antimicrobial and Antioxidant Activity",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-0121",
@@ -4016,6 +4250,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0928",
+   "key": "gourich2023marrubium",
+   "type": "article",
+   "title": "Insight into biological activities of chemically characterized extract from Marrubium vulgare L. in vitro, in vivo and in silico approaches",
+   "authors": "Gourich, A.A., Touijer, H., Drioiche, A., Asbabou, A. and others",
+   "journal": "Frontiers in Chemistry",
+   "year": "2023",
+   "doi": "10.3389/fchem.2023.1238346",
+   "url": "",
+   "link": "https://doi.org/10.3389/fchem.2023.1238346",
+   "link_type": "doi",
+   "citation": "Gourich, A.A., Touijer, H., Drioiche, A., Asbabou, A. and others (2023) 'Insight into biological activities of chemically characterized extract from Marrubium vulgare L. in vitro, in vivo and in silico approaches', Frontiers in Chemistry, 11, pp. 1238346. doi:10.3389/fchem.2023.1238346",
+   "abstract": "Aqueous extracts of Marrubium vulgare were characterised phytochemically (rich in catechin and maleic acid) and evaluated for biological activities. The extract showed significant antioxidant capacity, antimitotic potential, antimicrobial properties and a potent antihyperglycemic effect with modulation of pancreatic alpha-amylase, supporting its traditional medicinal uses.",
+   "tier": "preclinical",
+   "display": "Insight into biological activities of chemically characterized extract from Marrubium vulgare L. in vitro, in vivo and in silico approaches",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0088",
    "key": "fernandes2023fernandes",
    "type": "article",
@@ -4190,6 +4451,40 @@
     "Anti-inflammatory"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0943",
+   "key": "sedbare2023oxycoccus",
+   "type": "article",
+   "title": "Phytochemical Composition of Cranberry (Vaccinium oxycoccos L.) Fruits Growing in Protected Areas of Lithuania",
+   "authors": "Sedbare, R., Sprainaityte, S., Baublys, G., Viskelis, J. and Janulis, V.",
+   "journal": "Plants (Basel)",
+   "year": "2023",
+   "doi": "10.3390/plants12101974",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants12101974",
+   "link_type": "doi",
+   "citation": "Sedbare, R., Sprainaityte, S., Baublys, G., Viskelis, J. and Janulis, V (2023) 'Phytochemical Composition of Cranberry (Vaccinium oxycoccos L.) Fruits Growing in Protected Areas of Lithuania', Plants (Basel), 12(10), pp. 1974. doi:10.3390/plants12101974",
+   "abstract": "Fruits of Vaccinium oxycoccos are a source of bioactive compounds with antibacterial, antifungal and anti-inflammatory effects. Phytochemical analysis of bog cranberry from different Lithuanian wetlands quantified anthocyanins, flavonols, triterpenes, chlorogenic acid and proanthocyanidins, showing site-dependent variation and the need for standardisation of cranberry raw materials.",
+   "tier": "preclinical",
+   "display": "Phytochemical Composition of Cranberry (Vaccinium oxycoccos L.) Fruits Growing in Protected Areas of Lithuania",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-0763",
@@ -5144,6 +5439,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0948",
+   "key": "kawash2022oxycoccus",
+   "type": "article",
+   "title": "Contrasting a reference cranberry genome to a crop wild relative provides insights into adaptation, domestication, and breeding",
+   "authors": "Kawash, J., Colt, K., Hartwick, N.T., Abramson, B.W. and others",
+   "journal": "PLoS One",
+   "year": "2022",
+   "doi": "10.1371/journal.pone.0264966",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0264966",
+   "link_type": "doi",
+   "citation": "Kawash, J., Colt, K., Hartwick, N.T., Abramson, B.W. and others (2022) 'Contrasting a reference cranberry genome to a crop wild relative provides insights into adaptation, domestication, and breeding', PLoS One, 17(3), pp. e0264966. doi:10.1371/journal.pone.0264966",
+   "abstract": "An updated chromosome-resolved reference genome of cranberry (Vaccinium macrocarpon) was compared with a high-quality draft genome of the circumboreal wild relative Vaccinium oxycoccos, which forms interspecific hybrids with V. macrocarpon. The comparison identified environmental-response and plant-architecture genes relevant to adaptation, domestication and breeding.",
+   "tier": "preclinical",
+   "display": "Contrasting a reference cranberry genome to a crop wild relative provides insights into adaptation, domestication, and breeding",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0329",
    "key": "kania2022dandelion",
    "type": "article",
@@ -5182,6 +5506,35 @@
    "conditions": [
     "Detox / cleansing"
    ]
+  },
+  {
+   "ref_id": "REF-0942",
+   "key": "sedbare2022oxycoccus",
+   "type": "article",
+   "title": "Development and Validation of the UPLC-DAD Methodology for the Detection of Triterpenoids and Phytosterols in Fruit Samples of Vaccinium macrocarpon Aiton and Vaccinium oxycoccos L.",
+   "authors": "Sedbare, R., Raudone, L., Zvikas, V., Viskelis, J. and others",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27144403",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27144403",
+   "link_type": "doi",
+   "citation": "Sedbare, R., Raudone, L., Zvikas, V., Viskelis, J. and others (2022) 'Development and Validation of the UPLC-DAD Methodology for the Detection of Triterpenoids and Phytosterols in Fruit Samples of Vaccinium macrocarpon Aiton and Vaccinium oxycoccos L', Molecules, 27(14), pp. 4403. doi:10.3390/molecules27144403",
+   "abstract": "A UPLC-DAD method was developed and validated for triterpene acids, neutral triterpenoids, phytosterols and squalene in cranberry, and applied to Vaccinium macrocarpon and Vaccinium oxycoccos fruit, peel, pulp and seeds. Ursolic acid was the dominant triterpenoid, with the highest triterpene content in the peels, characterising the triterpenoid chemistry of bog cranberry.",
+   "tier": "preclinical",
+   "display": "Development and Validation of the UPLC-DAD Methodology for the Detection of Triterpenoids and Phytosterols in Fruit Samples of Vaccinium macrocarpon Aiton and Vaccinium oxycoccos L.",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0720",
@@ -5389,6 +5742,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0945",
+   "key": "harini2022oxycoccus",
+   "type": "article",
+   "title": "Formulation and evaluation of oral disintegrating films using a natural ingredient against Streptococcus mutans",
+   "authors": "Harini, K., Janani, K., Teja, K.V., Mohan, C. and Sukumar, M.",
+   "journal": "Journal of Conservative Dentistry",
+   "year": "2022",
+   "doi": "10.4103/jcd.jcd_143_21",
+   "url": "",
+   "link": "https://doi.org/10.4103/jcd.jcd_143_21",
+   "link_type": "doi",
+   "citation": "Harini, K., Janani, K., Teja, K.V., Mohan, C. and Sukumar, M (2022) 'Formulation and evaluation of oral disintegrating films using a natural ingredient against Streptococcus mutans', Journal of Conservative Dentistry, 25(2), pp. 128-134. doi:10.4103/jcd.jcd_143_21",
+   "abstract": "Aqueous extracts of Vaccinium oxycoccos (and Plectranthus amboinicus) were incorporated into oral disintegrating films targeting the cariogenic bacterium Streptococcus mutans. The bog cranberry extract showed good antibacterial activity (MIC 50 ug/mL), supporting its use as a natural antimicrobial agent against oral pathogens.",
+   "tier": "preclinical",
+   "display": "Formulation and evaluation of oral disintegrating films using a natural ingredient against Streptococcus mutans",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-0761",
@@ -5840,6 +6226,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0932",
+   "key": "nadeem2022nepeta",
+   "type": "article",
+   "title": "Phytochemical profiling of antimicrobial and potential antioxidant plant: Nepeta cataria",
+   "authors": "Nadeem, A., Shahzad, H., Ahmed, B., Muntean, T. and others",
+   "journal": "Frontiers in Plant Science",
+   "year": "2022",
+   "doi": "10.3389/fpls.2022.969316",
+   "url": "",
+   "link": "https://doi.org/10.3389/fpls.2022.969316",
+   "link_type": "doi",
+   "citation": "Nadeem, A., Shahzad, H., Ahmed, B., Muntean, T. and others (2022) 'Phytochemical profiling of antimicrobial and potential antioxidant plant: Nepeta cataria', Frontiers in Plant Science, 13, pp. 969316. doi:10.3389/fpls.2022.969316",
+   "abstract": "Nepeta cataria extracts (methanol, ethanol, water, acetone, hexane) were profiled by GC/MS, revealing 247 identified metabolites. The extracts showed inhibitory activity against a set of microbes and antioxidant potential (DPPH, ORAC), confirming the antimicrobial and antioxidant properties of catnip.",
+   "tier": "preclinical",
+   "display": "Phytochemical profiling of antimicrobial and potential antioxidant plant: Nepeta cataria",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-0705",
@@ -6386,6 +6803,38 @@
    ]
   },
   {
+   "ref_id": "REF-0926",
+   "key": "abidi2022marrubium",
+   "type": "article",
+   "title": "Tunisian Horehound (Marrubium vulgare) Aqueous Extract Improves Treatment of Bleomycin-Induced Lung Fibrosis in Rat",
+   "authors": "Abidi, A., Dhaouafi, J., Brinsi, C., Tounsi, H. and Sebai, H.",
+   "journal": "Dose-Response",
+   "year": "2022",
+   "doi": "10.1177/15593258221119300",
+   "url": "",
+   "link": "https://doi.org/10.1177/15593258221119300",
+   "link_type": "doi",
+   "citation": "Abidi, A., Dhaouafi, J., Brinsi, C., Tounsi, H. and Sebai, H (2022) 'Tunisian Horehound (Marrubium vulgare) Aqueous Extract Improves Treatment of Bleomycin-Induced Lung Fibrosis in Rat', Dose-Response, 20(3), pp. 15593258221119300. doi:10.1177/15593258221119300",
+   "abstract": "The aqueous extract of horehound (Marrubium vulgare), rich in polyphenols, was tested against bleomycin-induced pulmonary fibrosis in rats. It significantly reduced the inflammatory index and fibrosis score, decreased infiltration of inflammatory cells, and reversed oxidative-stress markers, demonstrating anti-inflammatory and antioxidant protection of lung tissue.",
+   "tier": "preclinical",
+   "display": "Tunisian Horehound (Marrubium vulgare) Aqueous Extract Improves Treatment of Bleomycin-Induced Lung Fibrosis in Rat",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
+   ],
+   "actions": [
+    "Expectorant"
+   ],
+   "conditions": [
+    "Bronchitis",
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0896",
    "key": "feduraev2022rumex",
    "type": "article",
@@ -6858,6 +7307,33 @@
    ]
   },
   {
+   "ref_id": "REF-0922",
+   "key": "acimovic2021marrubium",
+   "type": "article",
+   "title": "Chemical Characterization of Marrubium vulgare Volatiles from Serbia",
+   "authors": "Acimovic, M., Ivanovic, S., Simic, K., Pezo, L. and others",
+   "journal": "Plants (Basel)",
+   "year": "2021",
+   "doi": "10.3390/plants10030600",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants10030600",
+   "link_type": "doi",
+   "citation": "Acimovic, M., Ivanovic, S., Simic, K., Pezo, L. and others (2021) 'Chemical Characterization of Marrubium vulgare Volatiles from Serbia', Plants (Basel), 10(3), pp. 600. doi:10.3390/plants10030600",
+   "abstract": "A total of 160 compounds were determined in the volatiles of Marrubium vulgare from Serbia over two years. The main components were beta-caryophyllene, germacrene D, alpha-humulene and delta-copaene (sesquiterpene hydrocarbons), and several chemotypes were defined, characterising the volatile constituent chemistry of horehound.",
+   "tier": "preclinical",
+   "display": "Chemical Characterization of Marrubium vulgare Volatiles from Serbia",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0692",
    "key": "tammar2021aloysia",
    "type": "article",
@@ -7013,6 +7489,33 @@
     "Menstrual cramps",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-0927",
+   "key": "rezgui2021marrubium",
+   "type": "article",
+   "title": "Evaluation of Marrubium vulgare Growing Wild in Tunisia for Its Potential as a Dietary Supplement",
+   "authors": "Rezgui, M., Basma, M., Neng, N., Nogueira, J.M. and others",
+   "journal": "Foods",
+   "year": "2021",
+   "doi": "10.3390/foods10112864",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods10112864",
+   "link_type": "doi",
+   "citation": "Rezgui, M., Basma, M., Neng, N., Nogueira, J.M. and others (2021) 'Evaluation of Marrubium vulgare Growing Wild in Tunisia for Its Potential as a Dietary Supplement', Foods, 10(11), pp. 2864. doi:10.3390/foods10112864",
+   "abstract": "Methanolic extracts of Marrubium vulgare from five Tunisian locations were evaluated for antioxidant activity (ferric reducing power, radical scavenging, beta-carotene bleaching), total phenolic content, mineral composition and marrubiin content, showing horehound's antioxidant capacity and phytochemistry are strongly influenced by harvest site.",
+   "tier": "preclinical",
+   "display": "Evaluation of Marrubium vulgare Growing Wild in Tunisia for Its Potential as a Dietary Supplement",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0345",
@@ -10949,6 +11452,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0933",
+   "key": "tan2019nepeta",
+   "type": "article",
+   "title": "Hepatoprotective effect of essential oils of Nepeta cataria L. on acetaminophen-induced liver dysfunction",
+   "authors": "Tan, J., Li, J., Ma, J. and Qiao, F.",
+   "journal": "Bioscience Reports",
+   "year": "2019",
+   "doi": "10.1042/BSR20190697",
+   "url": "",
+   "link": "https://doi.org/10.1042/BSR20190697",
+   "link_type": "doi",
+   "citation": "Tan, J., Li, J., Ma, J. and Qiao, F (2019) 'Hepatoprotective effect of essential oils of Nepeta cataria L. on acetaminophen-induced liver dysfunction', Bioscience Reports, 39(8), pp. BSR20190697. doi:10.1042/BSR20190697",
+   "abstract": "Essential oils from Nepeta cataria significantly attenuated acetaminophen-induced liver damage in mice by accelerating harmless acetaminophen metabolism (increasing UGT and SULT expression, inhibiting CYP2E1) and activating Nrf-2, demonstrating a hepatoprotective effect of catnip essential oil.",
+   "tier": "preclinical",
+   "display": "Hepatoprotective effect of essential oils of Nepeta cataria L. on acetaminophen-induced liver dysfunction",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0860",
    "key": "fierascu2019leonurus",
    "type": "article",
@@ -11247,6 +11777,33 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0935",
+   "key": "reichert2019nepeta",
+   "type": "article",
+   "title": "Repellency Assessment of Nepeta cataria Essential Oils and Isolated Nepetalactones on Aedes aegypti",
+   "authors": "Reichert, W., Ejercito, J., Guda, T., Dong, X. and others",
+   "journal": "Scientific Reports",
+   "year": "2019",
+   "doi": "10.1038/s41598-018-36814-1",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41598-018-36814-1",
+   "link_type": "doi",
+   "citation": "Reichert, W., Ejercito, J., Guda, T., Dong, X. and others (2019) 'Repellency Assessment of Nepeta cataria Essential Oils and Isolated Nepetalactones on Aedes aegypti', Scientific Reports, 9(1), pp. 1524. doi:10.1038/s41598-018-36814-1",
+   "abstract": "Essential oils of two Nepeta cataria (catnip) chemotypes and their isolated nepetalactone isomers were evaluated as mosquito repellents against Aedes aegypti. All samples achieved greater than 95% repellency and, at the lowest concentrations, were more effective than DEET, demonstrating the insect-repellent activity of catnip.",
+   "tier": "preclinical",
+   "display": "Repellency Assessment of Nepeta cataria Essential Oils and Isolated Nepetalactones on Aedes aegypti",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0483",
@@ -11676,6 +12233,41 @@
     "Digestive aid"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0941",
+   "key": "jurikova2018oxycoccus",
+   "type": "article",
+   "title": "Bioactive Compounds, Antioxidant Activity, and Biological Effects of European Cranberry (Vaccinium oxycoccos)",
+   "authors": "Jurikova, T., Skrovankova, S., Mlcek, J., Balla, S. and Snopek, L.",
+   "journal": "Molecules",
+   "year": "2018",
+   "doi": "10.3390/molecules24010024",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules24010024",
+   "link_type": "doi",
+   "citation": "Jurikova, T., Skrovankova, S., Mlcek, J., Balla, S. and Snopek, L (2018) 'Bioactive Compounds, Antioxidant Activity, and Biological Effects of European Cranberry (Vaccinium oxycoccos)', Molecules, 24(1), pp. 24. doi:10.3390/molecules24010024",
+   "abstract": "European cranberry (Vaccinium oxycoccos) fruit is a valuable source of antioxidants, especially anthocyanins, proanthocyanidins and quercetin. This review summarises its bioactive compounds and biological effects, including urinary-tract protection (proanthocyanidins), antibacterial and antifungal properties, and cardioprotective and anticancer activities.",
+   "tier": "traditional",
+   "display": "Bioactive Compounds, Antioxidant Activity, and Biological Effects of European Cranberry (Vaccinium oxycoccos)",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Infection (general)",
+    "Urinary support"
+   ]
   },
   {
    "ref_id": "REF-0486",
@@ -12618,6 +13210,33 @@
    ]
   },
   {
+   "ref_id": "REF-0937",
+   "key": "giarratana2017nepeta",
+   "type": "article",
+   "title": "Activity of Catmint (Nepeta cataria) essential oil against Anisakis larvae",
+   "authors": "Giarratana, F., Muscolino, D., Ziino, G., Lo Presti, V. and others",
+   "journal": "Tropical Biomedicine",
+   "year": "2017",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33592976/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/33592976/",
+   "link_type": "url",
+   "citation": "Giarratana, F., Muscolino, D., Ziino, G., Lo Presti, V. and others (2017) 'Activity of Catmint (Nepeta cataria) essential oil against Anisakis larvae', Tropical Biomedicine, 34(1), pp. 22-31. Available at: https://pubmed.ncbi.nlm.nih.gov/33592976/",
+   "abstract": "Catnip (Nepeta cataria) essential oil was assayed in vitro against L3 larvae of Anisakis type 1, a fishborne zoonotic nematode. The oil caused complete inactivation of the parasites within 6-12 hours, showing significant antiparasitic (nematicidal) activity and suggesting potential as a larvicidal agent.",
+   "tier": "preclinical",
+   "display": "Activity of Catmint (Nepeta cataria) essential oil against Anisakis larvae",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0392",
    "key": "hu2017andrographis",
    "type": "article",
@@ -12676,6 +13295,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0949",
+   "key": "stobnicka2017oxycoccus",
+   "type": "article",
+   "title": "Antimicrobial protection of minced pork meat with the use of Swamp Cranberry (Vaccinium oxycoccos L.) fruit and pomace extracts",
+   "authors": "Stobnicka, A. and Gniewosz, M.",
+   "journal": "Journal of Food Science and Technology",
+   "year": "2017",
+   "doi": "10.1007/s13197-017-2770-x",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13197-017-2770-x",
+   "link_type": "doi",
+   "citation": "Stobnicka, A. and Gniewosz, M (2017) 'Antimicrobial protection of minced pork meat with the use of Swamp Cranberry (Vaccinium oxycoccos L.) fruit and pomace extracts', Journal of Food Science and Technology, 55(1), pp. 62-71. doi:10.1007/s13197-017-2770-x",
+   "abstract": "Swamp cranberry (Vaccinium oxycoccos) fruit and pomace extracts, rich in organic acids, flavonols, terpenes and stilbenes, inhibited Gram-positive bacteria more strongly than Gram-negative and reduced pathogenic cells in minced pork by 4 log cycles, demonstrating the antibacterial activity and food-preservative potential of bog cranberry.",
+   "tier": "preclinical",
+   "display": "Antimicrobial protection of minced pork meat with the use of Swamp Cranberry (Vaccinium oxycoccos L.) fruit and pomace extracts",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-0815",
@@ -13241,6 +13893,33 @@
    ],
    "scientific": [
     "Prunus serotina"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0923",
+   "key": "amri2017marrubium",
+   "type": "article",
+   "title": "Marrubium vulgare L. Leave Extract: Phytochemical Composition, Antioxidant and Wound Healing Properties",
+   "authors": "Amri, B., Martino, E., Vitulo, F., Corana, F. and others",
+   "journal": "Molecules",
+   "year": "2017",
+   "doi": "10.3390/molecules22111851",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules22111851",
+   "link_type": "doi",
+   "citation": "Amri, B., Martino, E., Vitulo, F., Corana, F. and others (2017) 'Marrubium vulgare L. Leave Extract: Phytochemical Composition, Antioxidant and Wound Healing Properties', Molecules, 22(11), pp. 1851. doi:10.3390/molecules22111851",
+   "abstract": "A methanolic extract of Marrubium vulgare leaves was characterised phytochemically (quantifying marrubiin by NMR and drawing the HPLC-UV/MS fingerprint), and its antioxidant properties and wound-healing potential were evaluated, showing the extract promotes wound repair through its antioxidant constituents.",
+   "tier": "preclinical",
+   "display": "Marrubium vulgare L. Leave Extract: Phytochemical Composition, Antioxidant and Wound Healing Properties",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
    ],
    "actions": [],
    "conditions": []
@@ -13920,6 +14599,41 @@
    ]
   },
   {
+   "ref_id": "REF-0921",
+   "key": "rodriguez2016marrubium",
+   "type": "article",
+   "title": "An Insight into a Blockbuster Phytomedicine; Marrubium vulgare L. Herb. More of a Myth than a Reality?",
+   "authors": "Rodriguez Villanueva, J. and Martin Esteban, J.",
+   "journal": "Phytotherapy Research",
+   "year": "2016",
+   "doi": "10.1002/ptr.5661",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5661",
+   "link_type": "doi",
+   "citation": "Rodriguez Villanueva, J. and Martin Esteban, J (2016) 'An Insight into a Blockbuster Phytomedicine; Marrubium vulgare L. Herb. More of a Myth than a Reality?', Phytotherapy Research, 30(10), pp. 1551-1558. doi:10.1002/ptr.5661",
+   "abstract": "White horehound (Marrubium vulgare) has been traditionally used in Europe and the Mediterranean for respiratory diseases (acute/chronic bronchitis, colds, asthma), lack of appetite, dyspepsia, type II diabetes and as an antihypertensive. This review critically analyses the quality of the scientific evidence behind these ethnopharmacological uses of horehound.",
+   "tier": "traditional",
+   "display": "An Insight into a Blockbuster Phytomedicine; Marrubium vulgare L. Herb. More of a Myth than a Reality?",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
+   ],
+   "actions": [
+    "Expectorant"
+   ],
+   "conditions": [
+    "Bronchitis",
+    "Cough",
+    "Indigestion",
+    "Loss of appetite",
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0757",
    "key": "ohishi2016greentea",
    "type": "article",
@@ -14178,6 +14892,33 @@
    ],
    "scientific": [
     "Humulus lupulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0929",
+   "key": "yousefi2016marrubium",
+   "type": "article",
+   "title": "Chromatographic Fingerprint Analysis of Marrubiin in Marrubium vulgare L. via HPTLC Technique",
+   "authors": "Yousefi, K., Hamedeyazdan, S., Torbati, M. and Fathiazad, F.",
+   "journal": "Advanced Pharmaceutical Bulletin",
+   "year": "2016",
+   "doi": "10.15171/apb.2016.019",
+   "url": "",
+   "link": "https://doi.org/10.15171/apb.2016.019",
+   "link_type": "doi",
+   "citation": "Yousefi, K., Hamedeyazdan, S., Torbati, M. and Fathiazad, F (2016) 'Chromatographic Fingerprint Analysis of Marrubiin in Marrubium vulgare L. via HPTLC Technique', Advanced Pharmaceutical Bulletin, 6(1), pp. 131-136. doi:10.15171/apb.2016.019",
+   "abstract": "Marrubiin, the major active diterpene of Marrubium vulgare, was quantified in the aerial parts (156 mg/g extract) by HPTLC densitometry, and the methanol extract showed strong DPPH radical-scavenging antioxidant activity associated with its phenolic and flavonoid content, providing a fingerprint for quality control of horehound preparations.",
+   "tier": "preclinical",
+   "display": "Chromatographic Fingerprint Analysis of Marrubiin in Marrubium vulgare L. via HPTLC Technique",
+   "plants": [
+    "Common horehound",
+    "Horehound",
+    "White horehound"
+   ],
+   "scientific": [
+    "Marrubium vulgare"
    ],
    "actions": [],
    "conditions": []
@@ -18700,6 +19441,37 @@
    ]
   },
   {
+   "ref_id": "REF-0944",
+   "key": "brown2012oxycoccus",
+   "type": "article",
+   "title": "Comparisons of large (Vaccinium macrocarpon Ait.) and small (Vaccinium oxycoccos L., Vaccinium vitis-idaea L.) cranberry in British Columbia by phytochemical determination, antioxidant potential, and metabolomic profiling with chemometric analysis",
+   "authors": "Brown, P.N., Turi, C.E., Shipley, P.R. and Murch, S.J.",
+   "journal": "Planta Medica",
+   "year": "2012",
+   "doi": "10.1055/s-0031-1298239",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0031-1298239",
+   "link_type": "doi",
+   "citation": "Brown, P.N., Turi, C.E., Shipley, P.R. and Murch, S.J (2012) 'Comparisons of large (Vaccinium macrocarpon Ait.) and small (Vaccinium oxycoccos L., Vaccinium vitis-idaea L.) cranberry in British Columbia by phytochemical determination, antioxidant potential, and metabolomic profiling with chemometric analysis', Planta Medica, 78(6), pp. 630-640. doi:10.1055/s-0031-1298239",
+   "abstract": "The chemical composition of the small cranberries Vaccinium oxycoccos and V. vitis-idaea was characterised and compared with the cultivated large cranberry V. macrocarpon. V. oxycoccos contained the five major cranberry anthocyanins plus serotonin, melatonin and ascorbic acid, and metabolomic profiling differentiated the species, with antioxidant activity correlating with vitamin C content.",
+   "tier": "preclinical",
+   "display": "Comparisons of large (Vaccinium macrocarpon Ait.) and small (Vaccinium oxycoccos L., Vaccinium vitis-idaea L.) cranberry in British Columbia by phytochemical determination, antioxidant potential, and metabolomic profiling with chemometric analysis",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0436",
    "key": "hasanudin2012corn",
    "type": "article",
@@ -19238,6 +20010,35 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0947",
+   "key": "vanrossum2012oxycoccus",
+   "type": "article",
+   "title": "Pollen dispersal and fruit production in Vaccinium oxycoccos and comparison with its sympatric congener V. uliginosum",
+   "authors": "Van Rossum, F., Vereecken, N.J., Bredat, E. and Michez, D.",
+   "journal": "Plant Biology",
+   "year": "2012",
+   "doi": "10.1111/j.1438-8677.2012.00646.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1438-8677.2012.00646.x",
+   "link_type": "doi",
+   "citation": "Van Rossum, F., Vereecken, N.J., Bredat, E. and Michez, D (2012) 'Pollen dispersal and fruit production in Vaccinium oxycoccos and comparison with its sympatric congener V. uliginosum', Plant Biology, 15(2), pp. 344-352. doi:10.1111/j.1438-8677.2012.00646.x",
+   "abstract": "Pollen dispersal and fruit production were investigated in the insect-pollinated bog cranberry Vaccinium oxycoccos and compared with its sympatric congener V. uliginosum. Fluorescent-dye experiments showed mainly short-distance pollen dispersal and pollinator sharing, informing the reproductive biology and conservation of fragmented V. oxycoccos populations.",
+   "tier": "preclinical",
+   "display": "Pollen dispersal and fruit production in Vaccinium oxycoccos and comparison with its sympatric congener V. uliginosum",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0588",
@@ -20079,6 +20880,35 @@
    ]
   },
   {
+   "ref_id": "REF-0946",
+   "key": "cesoniene2011oxycoccus",
+   "type": "article",
+   "title": "Evaluation of the biochemical components and chromatic properties of the juice of Vaccinium macrocarpon Aiton and Vaccinium oxycoccos L.",
+   "authors": "Cesoniene, L., Daubaras, R., Jasutiene, I., Vencloviene, J. and Miliauskiene, I.",
+   "journal": "Plant Foods for Human Nutrition",
+   "year": "2011",
+   "doi": "10.1007/s11130-011-0241-5",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11130-011-0241-5",
+   "link_type": "doi",
+   "citation": "Cesoniene, L., Daubaras, R., Jasutiene, I., Vencloviene, J. and Miliauskiene, I (2011) 'Evaluation of the biochemical components and chromatic properties of the juice of Vaccinium macrocarpon Aiton and Vaccinium oxycoccos L', Plant Foods for Human Nutrition, 66(3), pp. 238-244. doi:10.1007/s11130-011-0241-5",
+   "abstract": "Benzoic acid, total anthocyanins, soluble solids, titratable acidity and colour were measured in the juice of the American cranberry Vaccinium macrocarpon and the European cranberry Vaccinium oxycoccos. V. oxycoccos juice contained 17.5 mg/L benzoic acid and 42.5 mg/L anthocyanins, with six anthocyanins (peonidin-3-galactoside predominant), characterising the fruit's bioactive composition.",
+   "tier": "preclinical",
+   "display": "Evaluation of the biochemical components and chromatic properties of the juice of Vaccinium macrocarpon Aiton and Vaccinium oxycoccos L.",
+   "plants": [
+    "Cranberry",
+    "European cranberry",
+    "bog cranberry",
+    "marshberry",
+    "swamp cranberry"
+   ],
+   "scientific": [
+    "Oxycoccus palustris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0298",
    "key": "wachtel2011ganoderma",
    "type": "book",
@@ -20149,6 +20979,33 @@
    ],
    "scientific": [
     "Centaurium erythraea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0939",
+   "key": "bernardi2011nepeta",
+   "type": "article",
+   "title": "Nepeta cataria L. var. citriodora (Becker) increases penile erection in rats",
+   "authors": "Bernardi, M.M., Kirsten, T.B., Lago, J.H.G., Giovani, T.M. and Massoco, C.O.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2011",
+   "doi": "10.1016/j.jep.2011.07.061",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2011.07.061",
+   "link_type": "doi",
+   "citation": "Bernardi, M.M., Kirsten, T.B., Lago, J.H.G., Giovani, T.M. and Massoco, C.O (2011) 'Nepeta cataria L. var. citriodora (Becker) increases penile erection in rats', Journal of Ethnopharmacology, 137(3), pp. 1318-1322. doi:10.1016/j.jep.2011.07.061",
+   "abstract": "Catnip (Nepeta cataria), which induces pleasure in cats and humans, was fed to male rats and found to increase apomorphine-induced penile erection and slightly facilitate sexual behaviour, while decreasing general activity, an effect attributed to an action on dopaminergic systems.",
+   "tier": "preclinical",
+   "display": "Nepeta cataria L. var. citriodora (Becker) increases penile erection in rats",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
    ],
    "actions": [],
    "conditions": []
@@ -27482,6 +28339,38 @@
     "Urinary support",
     "Urinary tract infection (UTI)",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-0938",
+   "key": "sarkar1995nepeta",
+   "type": "article",
+   "title": "Pharmacognosy of Nepeta cataria",
+   "authors": "Sarkar, M., Rashmi, R., Vikramaditya and Varma, P.N.",
+   "journal": "Ancient Science of Life",
+   "year": "1995",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22556702/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/22556702/",
+   "link_type": "url",
+   "citation": "Sarkar, M., Rashmi, R., Vikramaditya and Varma, P.N (1995) 'Pharmacognosy of Nepeta cataria', Ancient Science of Life, 14(4), pp. 225-234. Available at: https://pubmed.ncbi.nlm.nih.gov/22556702/",
+   "abstract": "Nepeta cataria (catnip), containing tannin and volatile oil, is described as aromatic, carminative, tonic, diaphoretic, refrigerant, emmenagogue, antiseptic and stimulant, and useful in infantile colic and hysteria. This pharmacognostic study details the leaf, stem and trichome anatomy and TLC/UV fingerprint of the herb.",
+   "tier": "traditional",
+   "display": "Pharmacognosy of Nepeta cataria",
+   "plants": [
+    "Catnip",
+    "catmint",
+    "catnep"
+   ],
+   "scientific": [
+    "Nepeta cataria"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
+   "conditions": [
+    "Bloating",
+    "Indigestion"
    ]
   },
   {

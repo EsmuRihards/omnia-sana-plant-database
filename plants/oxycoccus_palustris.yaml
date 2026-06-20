@@ -15,18 +15,27 @@ actions:
   - REF-0114
   - REF-0124
   - REF-0253
+  - REF-0940
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0114
   - REF-0124
   - REF-0253
+  - REF-0941
+  - REF-0943
+  - REF-0945
+  - REF-0949
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0114
   - REF-0124
   - REF-0253
+  - REF-0940
+  - REF-0941
+  - REF-0943
+  - REF-0944
   status: verified
 indications:
 - condition: arthritis
@@ -42,6 +51,10 @@ indications:
   - REF-0114
   - REF-0124
   - REF-0253
+  - REF-0941
+  - REF-0943
+  - REF-0945
+  - REF-0949
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -49,6 +62,7 @@ indications:
   - REF-0114
   - REF-0124
   - REF-0253
+  - REF-0940
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -62,6 +76,8 @@ indications:
   - REF-0114
   - REF-0124
   - REF-0253
+  - REF-0940
+  - REF-0941
   status: verified
 - condition: wounds
   note: inferred from antimicrobial action
@@ -91,11 +107,25 @@ contraindications:
   - REF-0124
   - REF-0253
   status: verified
-provenance: book
+references:
+- REF-0940
+- REF-0941
+- REF-0942
+- REF-0943
+- REF-0944
+- REF-0945
+- REF-0946
+- REF-0947
+- REF-0948
+- REF-0949
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-0940, REF-0941, REF-0942, REF-0943, REF-0944,
+  REF-0945, REF-0946, REF-0947, REF-0948, REF-0949) — woven into relevant actions/indications and the
+  plant-level references bucket.'

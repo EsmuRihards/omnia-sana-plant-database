@@ -38,6 +38,7 @@ actions:
   note: Antispasmodic (traditional use in whooping cough)
   reference_ids:
   - REF-0469
+  - REF-0925
   status: needs-review
 - action: bitter-tonic
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
@@ -54,12 +55,15 @@ actions:
   reference_ids:
   - REF-0468
   - REF-0469
+  - REF-0921
+  - REF-0926
   status: verified
 indications:
 - condition: appetite-loss
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
   reference_ids:
   - REF-0468
+  - REF-0921
   status: verified
 - condition: bloating
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
@@ -71,6 +75,8 @@ indications:
   reference_ids:
   - REF-0468
   - REF-0469
+  - REF-0921
+  - REF-0926
   status: verified
 - condition: cough
   note: Antispasmodic (traditional use in whooping cough); Expectorant for productive cough and catarrh
@@ -78,11 +84,13 @@ indications:
   reference_ids:
   - REF-0468
   - REF-0469
+  - REF-0921
   status: needs-review
 - condition: indigestion
   note: Bitter digestive for dyspeptic complaints (indigestion, bloating, flatulence) and loss of appetite
   reference_ids:
   - REF-0468
+  - REF-0921
   status: verified
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
@@ -93,12 +101,15 @@ indications:
   note: inferred from antispasmodic action
   reference_ids:
   - REF-0469
+  - REF-0925
   status: needs-review
 - condition: respiratory-support
   note: inferred from expectorant action
   reference_ids:
   - REF-0468
   - REF-0469
+  - REF-0921
+  - REF-0926
   status: needs-review
 - condition: sore-throat
   note: Soothes sore throat (traditional)
@@ -119,13 +130,27 @@ contraindications:
   reference_ids:
   - REF-0468
   status: verified
+references:
+- REF-0920
+- REF-0921
+- REF-0922
+- REF-0923
+- REF-0924
+- REF-0925
+- REF-0926
+- REF-0927
+- REF-0928
+- REF-0929
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Marrubii herba; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, bloating); associations retained and now part-mapped and
   cited. Further enriched 2026-06-14 with a PubMed-sourced phytochemical and pharmacological overview
   of Marrubium vulgare (REF-0603) supporting the marrubiin-driven expectorant/digestive actions and its
   antioxidant, anti-inflammatory and antimicrobial activity. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-0920, REF-0921, REF-0922, REF-0923, REF-0924,
+  REF-0925, REF-0926, REF-0927, REF-0928, REF-0929) — woven into relevant actions/indications and the
+  plant-level references bucket.'

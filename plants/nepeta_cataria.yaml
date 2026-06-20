@@ -22,12 +22,16 @@ actions:
   - REF-0035
   - REF-0095
   - REF-0232
+  - REF-0932
+  - REF-0934
+  - REF-0936
   status: verified
 - action: digestive
   reference_ids:
   - REF-0035
   - REF-0095
   - REF-0232
+  - REF-0938
   status: verified
 - action: sedative
   reference_ids:
@@ -49,6 +53,7 @@ indications:
   - REF-0035
   - REF-0095
   - REF-0232
+  - REF-0938
   status: needs-review
 - condition: indigestion
   note: inferred from digestive action
@@ -56,6 +61,7 @@ indications:
   - REF-0035
   - REF-0095
   - REF-0232
+  - REF-0938
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
@@ -63,6 +69,8 @@ indications:
   - REF-0035
   - REF-0095
   - REF-0232
+  - REF-0932
+  - REF-0934
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -126,11 +134,25 @@ contraindications:
   - REF-0095
   - REF-0232
   status: verified
-provenance: book
+references:
+- REF-0930
+- REF-0931
+- REF-0932
+- REF-0933
+- REF-0934
+- REF-0935
+- REF-0936
+- REF-0937
+- REF-0938
+- REF-0939
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-0930, REF-0931, REF-0932, REF-0933, REF-0934,
+  REF-0935, REF-0936, REF-0937, REF-0938, REF-0939) — woven into relevant actions/indications and the
+  plant-level references bucket.'

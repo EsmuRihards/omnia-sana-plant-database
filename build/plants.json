@@ -12539,9 +12539,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0815",
+    "REF-0816",
+    "REF-0817"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "foeniculum-vulgare",
@@ -12948,9 +12953,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0818",
+    "REF-0819",
+    "REF-0820"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "ganoderma-lingzhi",
@@ -13153,9 +13163,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0821",
+    "REF-0822",
+    "REF-0823"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "gentiana-lutea",
@@ -13410,9 +13425,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0056",
+    "REF-0824",
+    "REF-0825"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "glycyrrhiza-glabra",
@@ -13655,9 +13675,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0826",
+    "REF-0827",
+    "REF-0828"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "hamamelis-virginiana",

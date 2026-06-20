@@ -4488,6 +4488,25 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 10,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0131",
+      "REF-0167",
+      "REF-0249",
+      "REF-1084",
+      "REF-1085",
+      "REF-1086",
+      "REF-1087",
+      "REF-1088",
+      "REF-1089",
+      "REF-1092"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 3,
@@ -4505,18 +4524,6 @@
      "evidence": 3,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0131",
-      "REF-0167",
-      "REF-0249"
-     ]
-    },
-    {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 3,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0131",
       "REF-0167",
@@ -4580,7 +4587,8 @@
      "references": [
       "REF-0131",
       "REF-0167",
-      "REF-0249"
+      "REF-0249",
+      "REF-1091"
      ]
     }
    ]
@@ -6006,13 +6014,27 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-0309",
+      "REF-1081"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0029",
+      "REF-0247",
+      "REF-0309",
+      "REF-1078"
      ]
     },
     {
@@ -6054,18 +6076,6 @@
     {
      "condition": "indigestion",
      "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0029",
-      "REF-0247",
-      "REF-0309"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -6335,6 +6345,32 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "bruising",
+     "label": "Bruising",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0074",
+      "REF-0246",
+      "REF-0281",
+      "REF-1070"
+     ]
+    },
+    {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0074",
+      "REF-0246",
+      "REF-0281",
+      "REF-1070"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 5,
@@ -6349,18 +6385,6 @@
     {
      "condition": "back-pain",
      "label": "Back pain",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0074",
-      "REF-0246",
-      "REF-0281"
-     ]
-    },
-    {
-     "condition": "bruising",
-     "label": "Bruising",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
@@ -6391,19 +6415,8 @@
      "references": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
-     ]
-    },
-    {
-     "condition": "pain",
-     "label": "Pain (general)",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0074",
-      "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1066"
      ]
     },
     {
@@ -6415,7 +6428,8 @@
      "references": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1065"
      ]
     },
     {
@@ -6451,7 +6465,9 @@
      "references": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1065",
+      "REF-1072"
      ]
     }
    ]

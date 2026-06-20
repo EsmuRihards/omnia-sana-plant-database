@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1063,
+ "count": 1093,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -4681,6 +4681,38 @@
    ]
   },
   {
+   "ref_id": "REF-1064",
+   "key": "syarifah2023comfrey",
+   "type": "article",
+   "title": "Detoxification of comfrey (Symphytum officinale L.) extract using natural deep eutectic solvent (NADES) and evaluation of its anti-inflammatory, antioxidant, and hepatoprotective properties",
+   "authors": "Syarifah, A.N., Suryadi, H., Hayun, H., Simamora, A. and others",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2023",
+   "doi": "10.3389/fphar.2023.1012716",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2023.1012716",
+   "link_type": "doi",
+   "citation": "Syarifah, A.N., Suryadi, H., Hayun, H., Simamora, A. and others (2023) 'Detoxification of comfrey (Symphytum officinale L.) extract using natural deep eutectic solvent (NADES) and evaluation of its anti-inflammatory, antioxidant, and hepatoprotective properties', Frontiers in Pharmacology, 14, pp. 1012716. doi:10.3389/fphar.2023.1012716",
+   "abstract": "Natural deep eutectic solvents (betaine-urea) selectively extracted the anti-inflammatory, antioxidant constituent rosmarinic acid over the hepatotoxic pyrrolizidine alkaloid lycopsamine from comfrey (Symphytum officinale), giving extracts with higher anti-inflammatory and antioxidant and lower hepatotoxic profiles — a detoxification approach for medicinal comfrey.",
+   "tier": "preclinical",
+   "display": "Detoxification of comfrey (Symphytum officinale L.) extract using natural deep eutectic solvent (NADES) and evaluation of its anti-inflammatory, antioxidant, and hepatoprotective properties",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0634",
    "key": "crichton2023gingercinv",
    "type": "article",
@@ -5101,6 +5133,35 @@
     "Arctium minus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1079",
+   "key": "kiki2023clove",
+   "type": "article",
+   "title": "In Vitro Antiviral Potential, Antioxidant, and Chemical Composition of Clove (Syzygium aromaticum) Essential Oil",
+   "authors": "Kiki, M.J.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28062421",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28062421",
+   "link_type": "doi",
+   "citation": "Kiki, M.J (2023) 'In Vitro Antiviral Potential, Antioxidant, and Chemical Composition of Clove (Syzygium aromaticum) Essential Oil', Molecules, 28(6), pp. 2421. doi:10.3390/molecules28062421",
+   "abstract": "Clove (Syzygium aromaticum) essential oil was characterised chemically (eugenol-dominated) and showed antioxidant and in vitro antiviral potential, supporting its antimicrobial and antioxidant applications.",
+   "tier": "preclinical",
+   "display": "In Vitro Antiviral Potential, Antioxidant, and Chemical Composition of Clove (Syzygium aromaticum) Essential Oil",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -5571,6 +5632,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1065",
+   "key": "melnyk2023comfrey",
+   "type": "article",
+   "title": "Skin microbiota metabolism of natural products from comfrey root (Symphytum officinale L.)",
+   "authors": "Melnyk, N., Popowski, D., Strawa, J.W., Przygodzinska, K. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2023",
+   "doi": "10.1016/j.jep.2023.116968",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2023.116968",
+   "link_type": "doi",
+   "citation": "Melnyk, N., Popowski, D., Strawa, J.W., Przygodzinska, K. and others (2023) 'Skin microbiota metabolism of natural products from comfrey root (Symphytum officinale L.)', Journal of Ethnopharmacology, 318(Pt B), pp. 116968. doi:10.1016/j.jep.2023.116968",
+   "abstract": "Comfrey root (Symphytum officinale), used topically in folk medicine, was studied for skin-microbiota metabolism of its natural products (phenolic acids, caffeic acid oligomers), characterising how the skin microbiome transforms comfrey constituents during external use.",
+   "tier": "preclinical",
+   "display": "Skin microbiota metabolism of natural products from comfrey root (Symphytum officinale L.)",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation",
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-0872",
@@ -6661,6 +6755,36 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1085",
+   "key": "sesso2022cacao",
+   "type": "article",
+   "title": "Effect of cocoa flavanol supplementation for the prevention of cardiovascular disease events: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial",
+   "authors": "Sesso, H.D., Manson, J.E., Aragaki, A.K., Rist, P.M. and others",
+   "journal": "The American Journal of Clinical Nutrition",
+   "year": "2022",
+   "doi": "10.1093/ajcn/nqac055",
+   "url": "",
+   "link": "https://doi.org/10.1093/ajcn/nqac055",
+   "link_type": "doi",
+   "citation": "Sesso, H.D., Manson, J.E., Aragaki, A.K., Rist, P.M. and others (2022) 'Effect of cocoa flavanol supplementation for the prevention of cardiovascular disease events: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial', The American Journal of Clinical Nutrition, 115(6), pp. 1490-1500. doi:10.1093/ajcn/nqac055",
+   "abstract": "In the COSMOS randomized clinical trial, cocoa (Theobroma cacao) flavanol supplementation did not significantly reduce total cardiovascular events but reduced cardiovascular mortality in secondary analyses, providing the largest trial evidence on cocoa flavanols and cardiovascular health.",
+   "tier": "rct",
+   "display": "Effect of cocoa flavanol supplementation for the prevention of cardiovascular disease events: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
   },
   {
    "ref_id": "REF-0715",
@@ -8013,6 +8137,35 @@
    ]
   },
   {
+   "ref_id": "REF-1077",
+   "key": "irahal2022clove",
+   "type": "article",
+   "title": "Syzygium aromaticum bud (clove) essential oil is a novel and safe aldose reductase inhibitor: in silico, in vitro, and in vivo evidence",
+   "authors": "Irahal, I.N., Guenaou, I., Lahlou, F.A., Hmimid, F. and others",
+   "journal": "Hormones (Athens)",
+   "year": "2022",
+   "doi": "10.1007/s42000-021-00347-6",
+   "url": "",
+   "link": "https://doi.org/10.1007/s42000-021-00347-6",
+   "link_type": "doi",
+   "citation": "Irahal, I.N., Guenaou, I., Lahlou, F.A., Hmimid, F. and others (2022) 'Syzygium aromaticum bud (clove) essential oil is a novel and safe aldose reductase inhibitor: in silico, in vitro, and in vivo evidence', Hormones (Athens), 21(2), pp. 229-240. doi:10.1007/s42000-021-00347-6",
+   "abstract": "Clove (Syzygium aromaticum) bud essential oil showed antioxidant activity and acted as a novel, safe aldose reductase inhibitor in silico, in vitro and in vivo, supporting an antidiabetic role relevant to diabetic complications.",
+   "tier": "preclinical",
+   "display": "Syzygium aromaticum bud (clove) essential oil is a novel and safe aldose reductase inhibitor: in silico, in vitro, and in vivo evidence",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0174",
    "key": "mousavi2022anethum",
    "type": "article",
@@ -8842,6 +8995,36 @@
    ]
   },
   {
+   "ref_id": "REF-1074",
+   "key": "harogonzalez2021clove",
+   "type": "article",
+   "title": "Clove Essential Oil (Syzygium aromaticum L. Myrtaceae): Extraction, Chemical Composition, Food Applications, and Essential Bioactivity for Human Health",
+   "authors": "Haro-Gonzalez, J.N., Castillo-Herrera, G.A., Martinez-Velazquez, M. and Espinosa-Andrews, H.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26216387",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26216387",
+   "link_type": "doi",
+   "citation": "Haro-Gonzalez, J.N., Castillo-Herrera, G.A., Martinez-Velazquez, M. and Espinosa-Andrews, H (2021) 'Clove Essential Oil (Syzygium aromaticum L. Myrtaceae): Extraction, Chemical Composition, Food Applications, and Essential Bioactivity for Human Health', Molecules, 26(21), pp. 6387. doi:10.3390/molecules26216387",
+   "abstract": "This review of clove (Syzygium aromaticum) essential oil covers its extraction, chemical composition (eugenol-rich), food applications and bioactivities for human health, including antimicrobial, antioxidant, anti-inflammatory and analgesic properties.",
+   "tier": "review",
+   "display": "Clove Essential Oil (Syzygium aromaticum L. Myrtaceae): Extraction, Chemical Composition, Food Applications, and Essential Bioactivity for Human Health",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0758",
    "key": "rock2021cannabis",
    "type": "article",
@@ -9148,6 +9331,36 @@
    ]
   },
   {
+   "ref_id": "REF-1068",
+   "key": "trifan2020markers",
+   "type": "article",
+   "title": "Globoidnan A, rabdosiin and globoidnan B as new phenolic markers in European-sourced comfrey (Symphytum officinale L.) root samples",
+   "authors": "Trifan, A., Wolfram, E., Esslinger, N., Grubelnik, A. and others",
+   "journal": "Phytochemical Analysis",
+   "year": "2021",
+   "doi": "10.1002/pca.2996",
+   "url": "",
+   "link": "https://doi.org/10.1002/pca.2996",
+   "link_type": "doi",
+   "citation": "Trifan, A., Wolfram, E., Esslinger, N., Grubelnik, A. and others (2021) 'Globoidnan A, rabdosiin and globoidnan B as new phenolic markers in European-sourced comfrey (Symphytum officinale L.) root samples', Phytochemical Analysis, 32(4), pp. 482-494. doi:10.1002/pca.2996",
+   "abstract": "Globoidnan A, rabdosiin and globoidnan B were identified as new phenolic markers in European comfrey (Symphytum officinale) root, expanding the known antioxidant phenolic profile of the herb.",
+   "tier": "preclinical",
+   "display": "Globoidnan A, rabdosiin and globoidnan B as new phenolic markers in European-sourced comfrey (Symphytum officinale L.) root samples",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0840",
    "key": "kenda2021herbal",
    "type": "article",
@@ -9314,6 +9527,37 @@
    ],
    "conditions": [
     "Inflammation (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-1081",
+   "key": "shakeel2021clove",
+   "type": "article",
+   "title": "Investigating Antiarthritic Potential of Nanostructured Clove Oil (Syzygium aromaticum) in FCA-Induced Arthritic Rats: Pharmaceutical Action and Delivery Strategies",
+   "authors": "Shakeel, F., Alam, P., Ali, A., Alqarni, M.H. and others",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26237327",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26237327",
+   "link_type": "doi",
+   "citation": "Shakeel, F., Alam, P., Ali, A., Alqarni, M.H. and others (2021) 'Investigating Antiarthritic Potential of Nanostructured Clove Oil (Syzygium aromaticum) in FCA-Induced Arthritic Rats: Pharmaceutical Action and Delivery Strategies', Molecules, 26(23), pp. 7327. doi:10.3390/molecules26237327",
+   "abstract": "Nanostructured clove (Syzygium aromaticum) oil reduced inflammation and arthritic markers in Freund's-complete-adjuvant-induced arthritic rats, supporting an anti-inflammatory, antiarthritic application of clove oil.",
+   "tier": "preclinical",
+   "display": "Investigating Antiarthritic Potential of Nanostructured Clove Oil (Syzygium aromaticum) in FCA-Induced Arthritic Rats: Pharmaceutical Action and Delivery Strategies",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Arthritis / joint pain"
    ]
   },
   {
@@ -9615,6 +9859,36 @@
     "Rumex acetosa"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1076",
+   "key": "vicidomini2021clove",
+   "type": "article",
+   "title": "Molecular Basis of the Therapeutical Potential of Clove (Syzygium aromaticum L.) and Clues to Its Anti-COVID-19 Utility",
+   "authors": "Vicidomini, C., Roviello, V. and Roviello, G.N.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26071880",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26071880",
+   "link_type": "doi",
+   "citation": "Vicidomini, C., Roviello, V. and Roviello, G.N (2021) 'Molecular Basis of the Therapeutical Potential of Clove (Syzygium aromaticum L.) and Clues to Its Anti-COVID-19 Utility', Molecules, 26(7), pp. 1880. doi:10.3390/molecules26071880",
+   "abstract": "This review examines the molecular basis of the therapeutic potential of clove (Syzygium aromaticum), focusing on the anti-inflammatory, antimicrobial and antioxidant activities of its constituents and their possible relevance to antiviral applications.",
+   "tier": "review",
+   "display": "Molecular Basis of the Therapeutical Potential of Clove (Syzygium aromaticum L.) and Clues to Its Anti-COVID-19 Utility",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -10630,6 +10904,39 @@
    ]
   },
   {
+   "ref_id": "REF-1084",
+   "key": "tan2021cacao",
+   "type": "article",
+   "title": "The Health Effects of Chocolate and Cocoa: A Systematic Review",
+   "authors": "Tan, T.Y.C., Lim, X.Y., Yeo, J.H.H., Lee, S.W.H. and others",
+   "journal": "Nutrients",
+   "year": "2021",
+   "doi": "10.3390/nu13092909",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu13092909",
+   "link_type": "doi",
+   "citation": "Tan, T.Y.C., Lim, X.Y., Yeo, J.H.H., Lee, S.W.H. and others (2021) 'The Health Effects of Chocolate and Cocoa: A Systematic Review', Nutrients, 13(9), pp. 2909. doi:10.3390/nu13092909",
+   "abstract": "This systematic review of chocolate and cocoa (Theobroma cacao), rich in polyphenols such as catechins and procyanidins, summarised their health effects, including beneficial cardiovascular, antioxidant, anti-inflammatory and metabolic outcomes.",
+   "tier": "review",
+   "display": "The Health Effects of Chocolate and Cocoa: A Systematic Review",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-0951",
    "key": "dearaujo2021guarana",
    "type": "article",
@@ -11275,6 +11582,36 @@
    ],
    "scientific": [
     "Prunus serotina"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1069",
+   "key": "nastic2020comfrey",
+   "type": "article",
+   "title": "Comparative Assessment of Phytochemical Profiles of Comfrey (Symphytum officinale L.) Root Extracts Obtained by Different Extraction Techniques",
+   "authors": "Nastic, N., Borras-Linares, I., Lozano-Sanchez, J., Svarc-Gajic, J. and others",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25040837",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25040837",
+   "link_type": "doi",
+   "citation": "Nastic, N., Borras-Linares, I., Lozano-Sanchez, J., Svarc-Gajic, J. and others (2020) 'Comparative Assessment of Phytochemical Profiles of Comfrey (Symphytum officinale L.) Root Extracts Obtained by Different Extraction Techniques', Molecules, 25(4), pp. 837. doi:10.3390/molecules25040837",
+   "abstract": "A comparative study of comfrey (Symphytum officinale) root extracts obtained by different extraction techniques characterised their phytochemical profiles, informing the recovery of bioactive phenolics from the root.",
+   "tier": "preclinical",
+   "display": "Comparative Assessment of Phytochemical Profiles of Comfrey (Symphytum officinale L.) Root Extracts Obtained by Different Extraction Techniques",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
    ],
    "actions": [],
    "conditions": []
@@ -11942,6 +12279,37 @@
    ]
   },
   {
+   "ref_id": "REF-1078",
+   "key": "yassin2020clove",
+   "type": "article",
+   "title": "In vitro anticandidal potency of Syzygium aromaticum (clove) extracts against vaginal candidiasis",
+   "authors": "Yassin, M.T., Mostafa, A.A. and Al-Askar, A.A.",
+   "journal": "BMC Complementary Medicine and Therapies",
+   "year": "2020",
+   "doi": "10.1186/s12906-020-2818-8",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-020-2818-8",
+   "link_type": "doi",
+   "citation": "Yassin, M.T., Mostafa, A.A. and Al-Askar, A.A (2020) 'In vitro anticandidal potency of Syzygium aromaticum (clove) extracts against vaginal candidiasis', BMC Complementary Medicine and Therapies, 20(1), pp. 25. doi:10.1186/s12906-020-2818-8",
+   "abstract": "Clove (Syzygium aromaticum) extracts showed potent in vitro anticandidal activity against Candida strains causing vaginal candidiasis, supporting the antimicrobial and antifungal use of clove.",
+   "tier": "preclinical",
+   "display": "In vitro anticandidal potency of Syzygium aromaticum (clove) extracts against vaginal candidiasis",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
+  },
+  {
    "ref_id": "REF-0838",
    "key": "gong2020isorhamnetin",
    "type": "article",
@@ -12582,6 +12950,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1073",
+   "key": "kuchta2020comfrey",
+   "type": "article",
+   "title": "Safety of medicinal comfrey cream preparations (Symphytum officinale s.l.): The pyrrolizidine alkaloid lycopsamine is poorly absorbed through human skin",
+   "authors": "Kuchta, K. and Schmidt, M.",
+   "journal": "Regulatory Toxicology and Pharmacology",
+   "year": "2020",
+   "doi": "10.1016/j.yrtph.2020.104784",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.yrtph.2020.104784",
+   "link_type": "doi",
+   "citation": "Kuchta, K. and Schmidt, M (2020) 'Safety of medicinal comfrey cream preparations (Symphytum officinale s.l.): The pyrrolizidine alkaloid lycopsamine is poorly absorbed through human skin', Regulatory Toxicology and Pharmacology, 118, pp. 104784. doi:10.1016/j.yrtph.2020.104784",
+   "abstract": "Lycopsamine, the main pyrrolizidine alkaloid of comfrey (Symphytum officinale), was shown to be poorly absorbed through human skin, supporting the safety of external medicinal comfrey cream preparations within recommended limits.",
+   "tier": "preclinical",
+   "display": "Safety of medicinal comfrey cream preparations (Symphytum officinale s.l.): The pyrrolizidine alkaloid lycopsamine is poorly absorbed through human skin",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1034",
    "key": "nujkic2020saponaria",
    "type": "article",
@@ -12726,6 +13124,72 @@
    ],
    "actions": [
     "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1066",
+   "key": "trifan2020caffeic",
+   "type": "article",
+   "title": "Symphytum officinale L.: Liquid-liquid chromatography isolation of caffeic acid oligomers and evaluation of their influence on pro-inflammatory cytokine release in LPS-stimulated neutrophils",
+   "authors": "Trifan, A., Skalicka-Wozniak, K., Granica, S., Czerwinska, M.E. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2020",
+   "doi": "10.1016/j.jep.2020.113169",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.113169",
+   "link_type": "doi",
+   "citation": "Trifan, A., Skalicka-Wozniak, K., Granica, S., Czerwinska, M.E. and others (2020) 'Symphytum officinale L.: Liquid-liquid chromatography isolation of caffeic acid oligomers and evaluation of their influence on pro-inflammatory cytokine release in LPS-stimulated neutrophils', Journal of Ethnopharmacology, 262, pp. 113169. doi:10.1016/j.jep.2020.113169",
+   "abstract": "Caffeic acid oligomers isolated from comfrey (Symphytum officinale) root reduced pro-inflammatory cytokine release in LPS-stimulated human neutrophils, providing a mechanistic basis for the traditional anti-inflammatory use of comfrey in joint distortions, myalgia and haematomas.",
+   "tier": "preclinical",
+   "display": "Symphytum officinale L.: Liquid-liquid chromatography isolation of caffeic acid oligomers and evaluation of their influence on pro-inflammatory cytokine release in LPS-stimulated neutrophils",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-1075",
+   "key": "batiha2020clove",
+   "type": "article",
+   "title": "Syzygium aromaticum L. (Myrtaceae): Traditional Uses, Bioactive Chemical Constituents, Pharmacological and Toxicological Activities",
+   "authors": "Batiha, G.E., Alkazmi, L.M., Wasef, L.G., Beshbishy, A.M. and others",
+   "journal": "Biomolecules",
+   "year": "2020",
+   "doi": "10.3390/biom10020202",
+   "url": "",
+   "link": "https://doi.org/10.3390/biom10020202",
+   "link_type": "doi",
+   "citation": "Batiha, G.E., Alkazmi, L.M., Wasef, L.G., Beshbishy, A.M. and others (2020) 'Syzygium aromaticum L. (Myrtaceae): Traditional Uses, Bioactive Chemical Constituents, Pharmacological and Toxicological Activities', Biomolecules, 10(2), pp. 202. doi:10.3390/biom10020202",
+   "abstract": "This review of clove (Syzygium aromaticum) summarises its traditional uses and bioactive constituents (eugenol, beta-caryophyllene, flavonoids) and its pharmacological activities — antimicrobial, antioxidant, anti-inflammatory, analgesic, antidiabetic and anticancer — together with toxicological data.",
+   "tier": "review",
+   "display": "Syzygium aromaticum L. (Myrtaceae): Traditional Uses, Bioactive Chemical Constituents, Pharmacological and Toxicological Activities",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory",
+    "Antimicrobial",
     "Antioxidant"
    ],
    "conditions": []
@@ -13281,6 +13745,36 @@
     "Anxiety",
     "Nervous tension"
    ]
+  },
+  {
+   "ref_id": "REF-1080",
+   "key": "radunz2018clove",
+   "type": "article",
+   "title": "Antimicrobial and antioxidant activity of unencapsulated and encapsulated clove (Syzygium aromaticum, L.) essential oil",
+   "authors": "Radunz, M., da Trindade, M.L.M., Camargo, T.M., Radunz, A.L. and others",
+   "journal": "Food Chemistry",
+   "year": "2019",
+   "doi": "10.1016/j.foodchem.2018.09.173",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2018.09.173",
+   "link_type": "doi",
+   "citation": "Radunz, M., da Trindade, M.L.M., Camargo, T.M., Radunz, A.L. and others (2019) 'Antimicrobial and antioxidant activity of unencapsulated and encapsulated clove (Syzygium aromaticum, L.) essential oil', Food Chemistry, 276, pp. 180-186. doi:10.1016/j.foodchem.2018.09.173",
+   "abstract": "Clove (Syzygium aromaticum) essential oil, both unencapsulated and encapsulated, showed strong antimicrobial activity against pathogenic bacteria and antioxidant activity, characterising clove EO as a natural antimicrobial and antioxidant agent.",
+   "tier": "preclinical",
+   "display": "Antimicrobial and antioxidant activity of unencapsulated and encapsulated clove (Syzygium aromaticum, L.) essential oil",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0402",
@@ -14165,6 +14659,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1072",
+   "key": "dey2019comfrey",
+   "type": "article",
+   "title": "Symphytum officinale augments osteogenesis in human bone marrow-derived mesenchymal stem cells in vitro as they differentiate into osteoblasts",
+   "authors": "Dey, D., Jingar, P., Agrawal, S., Shrivastava, V. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2019",
+   "doi": "10.1016/j.jep.2019.112329",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2019.112329",
+   "link_type": "doi",
+   "citation": "Dey, D., Jingar, P., Agrawal, S., Shrivastava, V. and others (2019) 'Symphytum officinale augments osteogenesis in human bone marrow-derived mesenchymal stem cells in vitro as they differentiate into osteoblasts', Journal of Ethnopharmacology, 248, pp. 112329. doi:10.1016/j.jep.2019.112329",
+   "abstract": "Symphytum officinale (comfrey, 'knitbone') augmented osteogenesis in human bone-marrow-derived mesenchymal stem cells as they differentiated into osteoblasts in vitro, providing experimental support for the traditional use of comfrey in bone fractures and wound healing.",
+   "tier": "preclinical",
+   "display": "Symphytum officinale augments osteogenesis in human bone marrow-derived mesenchymal stem cells in vitro as they differentiate into osteoblasts",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": [
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-0268",
    "key": "shahrajabian2019shahrajabian",
    "type": "article",
@@ -14731,6 +15259,36 @@
    ]
   },
   {
+   "ref_id": "REF-1089",
+   "key": "matsumoto2018cacao",
+   "type": "article",
+   "title": "Cocoa Polyphenols: Evidence from Epidemiological Studies",
+   "authors": "Matsumoto, C.",
+   "journal": "Current Pharmaceutical Design",
+   "year": "2018",
+   "doi": "10.2174/1381612823666171115095720",
+   "url": "",
+   "link": "https://doi.org/10.2174/1381612823666171115095720",
+   "link_type": "doi",
+   "citation": "Matsumoto, C (2018) 'Cocoa Polyphenols: Evidence from Epidemiological Studies', Current Pharmaceutical Design, 24(2), pp. 140-145. doi:10.2174/1381612823666171115095720",
+   "abstract": "This review summarises epidemiological evidence that intake of cocoa (Theobroma cacao) polyphenols is associated with reduced risk of cardiovascular disease, supporting a protective cardiovascular role of cocoa flavanols.",
+   "tier": "review",
+   "display": "Cocoa Polyphenols: Evidence from Epidemiological Studies",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-0652",
    "key": "hadi2018cuminlipid",
    "type": "article",
@@ -15241,6 +15799,39 @@
    ]
   },
   {
+   "ref_id": "REF-1071",
+   "key": "trifan2018salvianolic",
+   "type": "article",
+   "title": "Is comfrey root more than toxic pyrrolizidine alkaloids? Salvianolic acids among antioxidant polyphenols in comfrey (Symphytum officinale L.) roots",
+   "authors": "Trifan, A., Opitz, S.E.W., Josuran, R., Grubelnik, A. and others",
+   "journal": "Food and Chemical Toxicology",
+   "year": "2018",
+   "doi": "10.1016/j.fct.2017.12.051",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fct.2017.12.051",
+   "link_type": "doi",
+   "citation": "Trifan, A., Opitz, S.E.W., Josuran, R., Grubelnik, A. and others (2018) 'Is comfrey root more than toxic pyrrolizidine alkaloids? Salvianolic acids among antioxidant polyphenols in comfrey (Symphytum officinale L.) roots', Food and Chemical Toxicology, 112, pp. 178-187. doi:10.1016/j.fct.2017.12.051",
+   "abstract": "Beyond its toxic pyrrolizidine alkaloids, comfrey (Symphytum officinale) root was shown to contain salvianolic acids and other antioxidant polyphenols, supporting the analgesic and anti-inflammatory benefits attributed to comfrey root preparations.",
+   "tier": "preclinical",
+   "display": "Is comfrey root more than toxic pyrrolizidine alkaloids? Salvianolic acids among antioxidant polyphenols in comfrey (Symphytum officinale L.) roots",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0826",
    "key": "pastorino2018liquorice",
    "type": "article",
@@ -15547,6 +16138,36 @@
     "Inflammation (general)",
     "Psoriasis",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1087",
+   "key": "garcia2018cacao",
+   "type": "article",
+   "title": "The Cardiovascular effects of chocolate",
+   "authors": "Garcia, J.P., Santana, A., Baruqui, D.L. and Suraci, N.",
+   "journal": "Reviews in Cardiovascular Medicine",
+   "year": "2018",
+   "doi": "10.31083/j.rcm.2018.04.3187",
+   "url": "",
+   "link": "https://doi.org/10.31083/j.rcm.2018.04.3187",
+   "link_type": "doi",
+   "citation": "Garcia, J.P., Santana, A., Baruqui, D.L. and Suraci, N (2018) 'The Cardiovascular effects of chocolate', Reviews in Cardiovascular Medicine, 19(4), pp. 123-127. doi:10.31083/j.rcm.2018.04.3187",
+   "abstract": "This review describes how the antioxidant polyphenols (especially flavanols) of cocoa (Theobroma cacao) favourably affect endothelial vasodilation, blood pressure and platelet function, contributing to the cardiovascular benefits of chocolate.",
+   "tier": "review",
+   "display": "The Cardiovascular effects of chocolate",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
    ]
   },
   {
@@ -16862,6 +17483,38 @@
    "actions": [],
    "conditions": [
     "Cardiovascular / heart health"
+   ]
+  },
+  {
+   "ref_id": "REF-1091",
+   "key": "kang2016cacao",
+   "type": "article",
+   "title": "Theobroma cacao extract attenuates the development of Dermatophagoides farinae-induced atopic dermatitis-like symptoms in NC/Nga mice",
+   "authors": "Kang, H., Lee, C.H., Kim, J.R., Kwon, J.Y. and others",
+   "journal": "Food Chemistry",
+   "year": "2017",
+   "doi": "10.1016/j.foodchem.2016.07.141",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2016.07.141",
+   "link_type": "doi",
+   "citation": "Kang, H., Lee, C.H., Kim, J.R., Kwon, J.Y. and others (2017) 'Theobroma cacao extract attenuates the development of Dermatophagoides farinae-induced atopic dermatitis-like symptoms in NC/Nga mice', Food Chemistry, 216, pp. 19-26. doi:10.1016/j.foodchem.2016.07.141",
+   "abstract": "Polyphenol-rich Theobroma cacao extract attenuated the development of house-dust-mite-induced atopic-dermatitis-like skin symptoms in mice, demonstrating an anti-inflammatory effect of cacao relevant to inflammatory skin conditions.",
+   "tier": "preclinical",
+   "display": "Theobroma cacao extract attenuates the development of Dermatophagoides farinae-induced atopic dermatitis-like symptoms in NC/Nga mice",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Skin irritation"
    ]
   },
   {
@@ -18499,6 +19152,36 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1067",
+   "key": "brown2015comfrey",
+   "type": "article",
+   "title": "The comparative toxicity of a reduced, crude comfrey (Symphytum officinale) alkaloid extract and the pure, comfrey-derived pyrrolizidine alkaloids, lycopsamine and intermedine in chicks (Gallus gallus domesticus)",
+   "authors": "Brown, A.W., Stegelmeier, B.L., Colegate, S.M., Gardner, D.R. and others",
+   "journal": "Journal of Applied Toxicology",
+   "year": "2016",
+   "doi": "10.1002/jat.3205",
+   "url": "",
+   "link": "https://doi.org/10.1002/jat.3205",
+   "link_type": "doi",
+   "citation": "Brown, A.W., Stegelmeier, B.L., Colegate, S.M., Gardner, D.R. and others (2016) 'The comparative toxicity of a reduced, crude comfrey (Symphytum officinale) alkaloid extract and the pure, comfrey-derived pyrrolizidine alkaloids, lycopsamine and intermedine in chicks (Gallus gallus domesticus)', Journal of Applied Toxicology, 36(5), pp. 716-725. doi:10.1002/jat.3205",
+   "abstract": "The toxicity of a crude comfrey (Symphytum officinale) pyrrolizidine-alkaloid extract and the pure alkaloids lycopsamine and intermedine was compared in chicks, characterising the hepatotoxic potential that underlies the safety restrictions on internal comfrey use.",
+   "tier": "preclinical",
+   "display": "The comparative toxicity of a reduced, crude comfrey (Symphytum officinale) alkaloid extract and the pure, comfrey-derived pyrrolizidine alkaloids, lycopsamine and intermedine in chicks (Gallus gallus domesticus)",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0538",
@@ -20970,6 +21653,35 @@
    ]
   },
   {
+   "ref_id": "REF-1082",
+   "key": "tu2014clove",
+   "type": "article",
+   "title": "Syzygium aromaticum L. (Clove) extract regulates energy metabolism in myocytes",
+   "authors": "Tu, Z., Moss-Pierce, T., Ford, P. and Jiang, T.A.",
+   "journal": "Journal of Medicinal Food",
+   "year": "2014",
+   "doi": "10.1089/jmf.2013.0175",
+   "url": "",
+   "link": "https://doi.org/10.1089/jmf.2013.0175",
+   "link_type": "doi",
+   "citation": "Tu, Z., Moss-Pierce, T., Ford, P. and Jiang, T.A (2014) 'Syzygium aromaticum L. (Clove) extract regulates energy metabolism in myocytes', Journal of Medicinal Food, 17(9), pp. 1003-1010. doi:10.1089/jmf.2013.0175",
+   "abstract": "Clove (Syzygium aromaticum) extract regulated energy metabolism in muscle myocytes, activating metabolic pathways relevant to glucose handling, supporting a metabolic/digestive role for clove.",
+   "tier": "preclinical",
+   "display": "Syzygium aromaticum L. (Clove) extract regulates energy metabolism in myocytes",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0024",
    "key": "becker2014anxiolytic",
    "type": "misc",
@@ -21094,6 +21806,42 @@
     "Pain (general)",
     "Skin irritation",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-1070",
+   "key": "frost2013comfrey",
+   "type": "article",
+   "title": "A critical scoping review of external uses of comfrey (Symphytum spp.)",
+   "authors": "Frost, R., MacPherson, H. and O'Meara, S.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2013",
+   "doi": "10.1016/j.ctim.2013.09.009",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2013.09.009",
+   "link_type": "doi",
+   "citation": "Frost, R., MacPherson, H. and O'Meara, S (2013) 'A critical scoping review of external uses of comfrey (Symphytum spp.)', Complementary Therapies in Medicine, 21(6), pp. 724-745. doi:10.1016/j.ctim.2013.09.009",
+   "abstract": "A critical scoping review of the external (topical) uses of comfrey (Symphytum spp.) summarised the clinical evidence for comfrey preparations in pain, inflammation and musculoskeletal complaints such as sprains, bruises and osteoarthritis.",
+   "tier": "review",
+   "display": "A critical scoping review of external uses of comfrey (Symphytum spp.)",
+   "plants": [
+    "2012)",
+    "Comfrey",
+    "Common Comfrey",
+    "boneset  Plant family  (Staiger",
+    "bruisewort",
+    "knitbone"
+   ],
+   "scientific": [
+    "Symphytum officinale"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Bruising",
+    "Pain (general)"
    ]
   },
   {
@@ -22480,6 +23228,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1088",
+   "key": "andujar2012cacao",
+   "type": "article",
+   "title": "Cocoa polyphenols and their potential benefits for human health",
+   "authors": "Andujar, I., Recio, M.C., Giner, R.M. and Rios, J.L.",
+   "journal": "Oxidative Medicine and Cellular Longevity",
+   "year": "2012",
+   "doi": "10.1155/2012/906252",
+   "url": "",
+   "link": "https://doi.org/10.1155/2012/906252",
+   "link_type": "doi",
+   "citation": "Andujar, I., Recio, M.C., Giner, R.M. and Rios, J.L (2012) 'Cocoa polyphenols and their potential benefits for human health', Oxidative Medicine and Cellular Longevity, 2012, pp. 906252. doi:10.1155/2012/906252",
+   "abstract": "This review compiles the beneficial effects of cocoa (Theobroma cacao) polyphenols on human health, especially their antioxidant and anti-inflammatory actions and benefits for cardiovascular and metabolic health.",
+   "tier": "review",
+   "display": "Cocoa polyphenols and their potential benefits for human health",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-0281",
    "key": "staiger2012comfrey",
    "type": "article",
@@ -23800,6 +24581,36 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1092",
+   "key": "yasuda2011cacao",
+   "type": "article",
+   "title": "Cacao polyphenols influence the regulation of apolipoprotein in HepG2 and Caco2 cells",
+   "authors": "Yasuda, A., Natsume, M., Osakabe, N., Kawahata, K. and others",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "year": "2011",
+   "doi": "10.1021/jf103820b",
+   "url": "",
+   "link": "https://doi.org/10.1021/jf103820b",
+   "link_type": "doi",
+   "citation": "Yasuda, A., Natsume, M., Osakabe, N., Kawahata, K. and others (2011) 'Cacao polyphenols influence the regulation of apolipoprotein in HepG2 and Caco2 cells', Journal of Agricultural and Food Chemistry, 59(4), pp. 1470-1476. doi:10.1021/jf103820b",
+   "abstract": "Cacao (Theobroma cacao) polyphenols influenced the regulation of apolipoproteins A-I and B in HepG2 and Caco-2 cells, suggesting a mechanism by which cocoa polyphenols improve lipid metabolism and cardiovascular risk.",
+   "tier": "preclinical",
+   "display": "Cacao polyphenols influence the regulation of apolipoprotein in HepG2 and Caco2 cells",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
   },
   {
    "ref_id": "REF-0131",
@@ -25226,6 +26037,36 @@
    ]
   },
   {
+   "ref_id": "REF-1090",
+   "key": "rusconi2009cacao",
+   "type": "article",
+   "title": "Theobroma cacao L., the Food of the Gods: a scientific approach beyond myths and claims",
+   "authors": "Rusconi, M. and Conti, A.",
+   "journal": "Pharmacological Research",
+   "year": "2010",
+   "doi": "10.1016/j.phrs.2009.08.008",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phrs.2009.08.008",
+   "link_type": "doi",
+   "citation": "Rusconi, M. and Conti, A (2010) 'Theobroma cacao L., the Food of the Gods: a scientific approach beyond myths and claims', Pharmacological Research, 61(1), pp. 5-13. doi:10.1016/j.phrs.2009.08.008",
+   "abstract": "This review takes a scientific approach to Theobroma cacao, summarising the high polyphenol content of cocoa beans and the antioxidant and cardiovascular activities supported by experimental and clinical data, distinguishing evidence from myth.",
+   "tier": "review",
+   "display": "Theobroma cacao L., the Food of the Gods: a scientific approach beyond myths and claims",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0141",
    "key": "koetter2010valerian",
    "type": "misc",
@@ -25388,6 +26229,36 @@
    ]
   },
   {
+   "ref_id": "REF-1093",
+   "key": "visioli2009cacao",
+   "type": "article",
+   "title": "Chocolate, lifestyle, and health",
+   "authors": "Visioli, F., Bernaert, H., Corti, R., Ferri, C. and others",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2009",
+   "doi": "10.1080/10408390802066805",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408390802066805",
+   "link_type": "doi",
+   "citation": "Visioli, F., Bernaert, H., Corti, R., Ferri, C. and others (2009) 'Chocolate, lifestyle, and health', Critical Reviews in Food Science and Nutrition, 49(4), pp. 299-312. doi:10.1080/10408390802066805",
+   "abstract": "This review evaluates the biological activities of cocoa (Theobroma cacao) polyphenols in the context of lifestyle and health, summarising antioxidant, vascular and metabolic effects of chocolate consumption.",
+   "tier": "review",
+   "display": "Chocolate, lifestyle, and health",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0070",
    "key": "european2009community",
    "type": "misc",
@@ -25487,6 +26358,38 @@
     "Inflammation (general)",
     "Memory",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1086",
+   "key": "rimbach2009cacao",
+   "type": "article",
+   "title": "Polyphenols from cocoa and vascular health-a critical review",
+   "authors": "Rimbach, G., Melchin, M., Moehring, J. and Wagner, A.E.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2009",
+   "doi": "10.3390/ijms10104290",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms10104290",
+   "link_type": "doi",
+   "citation": "Rimbach, G., Melchin, M., Moehring, J. and Wagner, A.E (2009) 'Polyphenols from cocoa and vascular health-a critical review', International Journal of Molecular Sciences, 10(10), pp. 4290-4309. doi:10.3390/ijms10104290",
+   "abstract": "This critical review of cocoa (Theobroma cacao) polyphenols summarised in vitro, cell-culture and human evidence that cocoa flavanols improve endothelial function, blood pressure and other markers of vascular health.",
+   "tier": "review",
+   "display": "Polyphenols from cocoa and vascular health-a critical review",
+   "plants": [
+    "Cacao",
+    "Chocolate tree",
+    "Cocoa",
+    "Cocoa bean"
+   ],
+   "scientific": [
+    "Theobroma cacao"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
    ]
   },
   {
@@ -27572,6 +28475,33 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1083",
+   "key": "banerjee2006clove",
+   "type": "article",
+   "title": "Clove (Syzygium aromaticum L.), a potential chemopreventive agent for lung cancer",
+   "authors": "Banerjee, S., Panda, C.K. and Das, S.",
+   "journal": "Carcinogenesis",
+   "year": "2006",
+   "doi": "10.1093/carcin/bgi372",
+   "url": "",
+   "link": "https://doi.org/10.1093/carcin/bgi372",
+   "link_type": "doi",
+   "citation": "Banerjee, S., Panda, C.K. and Das, S (2006) 'Clove (Syzygium aromaticum L.), a potential chemopreventive agent for lung cancer', Carcinogenesis, 27(8), pp. 1645-1654. doi:10.1093/carcin/bgi372",
+   "abstract": "Clove (Syzygium aromaticum), rich in health-promoting phytochemicals, showed chemopreventive activity against chemically induced lung carcinogenesis in mice, demonstrating an antioxidant, chemopreventive potential of clove.",
+   "tier": "preclinical",
+   "display": "Clove (Syzygium aromaticum L.), a potential chemopreventive agent for lung cancer",
+   "plants": [
+    "Clove",
+    "Clove bud",
+    "aromatic clove"
+   ],
+   "scientific": [
+    "Syzygium aromaticum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0109",

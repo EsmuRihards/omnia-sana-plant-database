@@ -28084,7 +28084,9 @@
      "reference_ids": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1070",
+      "REF-1071"
      ],
      "status": "verified"
     },
@@ -28093,7 +28095,11 @@
      "reference_ids": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1064",
+      "REF-1066",
+      "REF-1070",
+      "REF-1071"
      ],
      "status": "verified"
     },
@@ -28111,7 +28117,8 @@
      "reference_ids": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1072"
      ],
      "status": "verified"
     }
@@ -28143,7 +28150,8 @@
      "reference_ids": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1070"
      ],
      "status": "needs-review"
     },
@@ -28163,7 +28171,8 @@
      "reference_ids": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1066"
      ],
      "status": "needs-review"
     },
@@ -28172,7 +28181,8 @@
      "reference_ids": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1070"
      ],
      "status": "verified"
     },
@@ -28182,7 +28192,8 @@
      "reference_ids": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1065"
      ],
      "status": "needs-review"
     },
@@ -28211,7 +28222,9 @@
      "reference_ids": [
       "REF-0074",
       "REF-0246",
-      "REF-0281"
+      "REF-0281",
+      "REF-1065",
+      "REF-1072"
      ],
      "status": "needs-review"
     }
@@ -28238,9 +28251,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1064",
+    "REF-1065",
+    "REF-1066",
+    "REF-1067",
+    "REF-1068",
+    "REF-1069",
+    "REF-1070",
+    "REF-1071",
+    "REF-1072",
+    "REF-1073"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "syzygium-aromaticum",
@@ -28262,7 +28287,8 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-0309",
+      "REF-1075"
      ],
      "status": "verified"
     },
@@ -28271,7 +28297,10 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-0309",
+      "REF-1075",
+      "REF-1076",
+      "REF-1081"
      ],
      "status": "verified"
     },
@@ -28280,7 +28309,12 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-0309",
+      "REF-1074",
+      "REF-1075",
+      "REF-1076",
+      "REF-1078",
+      "REF-1080"
      ],
      "status": "verified"
     },
@@ -28289,7 +28323,12 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-0309",
+      "REF-1074",
+      "REF-1075",
+      "REF-1077",
+      "REF-1079",
+      "REF-1080"
      ],
      "status": "verified"
     },
@@ -28298,7 +28337,8 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-0309",
+      "REF-1082"
      ],
      "status": "verified"
     }
@@ -28310,7 +28350,8 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-0309",
+      "REF-1081"
      ],
      "status": "needs-review"
     },
@@ -28360,7 +28401,8 @@
      "reference_ids": [
       "REF-0029",
       "REF-0247",
-      "REF-0309"
+      "REF-0309",
+      "REF-1078"
      ],
      "status": "needs-review"
     },
@@ -28435,9 +28477,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1074",
+    "REF-1075",
+    "REF-1076",
+    "REF-1077",
+    "REF-1078",
+    "REF-1079",
+    "REF-1080",
+    "REF-1081",
+    "REF-1082",
+    "REF-1083"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "tanacetum-parthenium",
@@ -29159,7 +29213,10 @@
      "reference_ids": [
       "REF-0131",
       "REF-0167",
-      "REF-0249"
+      "REF-0249",
+      "REF-1084",
+      "REF-1088",
+      "REF-1091"
      ],
      "status": "verified"
     },
@@ -29168,7 +29225,12 @@
      "reference_ids": [
       "REF-0131",
       "REF-0167",
-      "REF-0249"
+      "REF-0249",
+      "REF-1084",
+      "REF-1086",
+      "REF-1088",
+      "REF-1090",
+      "REF-1093"
      ],
      "status": "verified"
     },
@@ -29217,7 +29279,14 @@
      "reference_ids": [
       "REF-0131",
       "REF-0167",
-      "REF-0249"
+      "REF-0249",
+      "REF-1084",
+      "REF-1085",
+      "REF-1086",
+      "REF-1087",
+      "REF-1088",
+      "REF-1089",
+      "REF-1092"
      ],
      "status": "verified"
     },
@@ -29267,7 +29336,8 @@
      "reference_ids": [
       "REF-0131",
       "REF-0167",
-      "REF-0249"
+      "REF-0249",
+      "REF-1091"
      ],
      "status": "needs-review"
     }
@@ -29294,9 +29364,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1084",
+    "REF-1085",
+    "REF-1086",
+    "REF-1087",
+    "REF-1088",
+    "REF-1089",
+    "REF-1090",
+    "REF-1091",
+    "REF-1092",
+    "REF-1093"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "thymus-serpyllum",

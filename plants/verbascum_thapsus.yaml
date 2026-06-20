@@ -16,12 +16,19 @@ actions:
   - REF-0186
   - REF-0254
   - REF-0289
+  - REF-1123
+  - REF-1124
+  - REF-1130
+  - REF-1131
   status: verified
 - action: expectorant
   reference_ids:
   - REF-0186
   - REF-0254
   - REF-0289
+  - REF-1123
+  - REF-1124
+  - REF-1125
   status: verified
 - action: sedative
   reference_ids:
@@ -50,6 +57,7 @@ indications:
   - REF-0186
   - REF-0254
   - REF-0289
+  - REF-1123
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -70,6 +78,7 @@ indications:
   - REF-0186
   - REF-0254
   - REF-0289
+  - REF-1123
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -77,6 +86,7 @@ indications:
   - REF-0186
   - REF-0254
   - REF-0289
+  - REF-1131
   status: needs-review
 contraindications:
 - note: Generally considered safe for short-term use. The tiny hairs on the leaves can cause irritation
@@ -100,11 +110,25 @@ contraindications:
   - REF-0254
   - REF-0289
   status: verified
-provenance: book
+references:
+- REF-1123
+- REF-1124
+- REF-1125
+- REF-1126
+- REF-1127
+- REF-1128
+- REF-1129
+- REF-1130
+- REF-1131
+- REF-1132
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1123, REF-1124, REF-1125, REF-1126, REF-1127,
+  REF-1128, REF-1129, REF-1130, REF-1131, REF-1132) — woven into relevant actions/indications and the
+  plant-level references bucket.'

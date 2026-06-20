@@ -31757,7 +31757,11 @@
      "reference_ids": [
       "REF-0186",
       "REF-0254",
-      "REF-0289"
+      "REF-0289",
+      "REF-1123",
+      "REF-1124",
+      "REF-1130",
+      "REF-1131"
      ],
      "status": "verified"
     },
@@ -31766,7 +31770,10 @@
      "reference_ids": [
       "REF-0186",
       "REF-0254",
-      "REF-0289"
+      "REF-0289",
+      "REF-1123",
+      "REF-1124",
+      "REF-1125"
      ],
      "status": "verified"
     },
@@ -31807,7 +31814,8 @@
      "reference_ids": [
       "REF-0186",
       "REF-0254",
-      "REF-0289"
+      "REF-0289",
+      "REF-1123"
      ],
      "status": "needs-review"
     },
@@ -31836,7 +31844,8 @@
      "reference_ids": [
       "REF-0186",
       "REF-0254",
-      "REF-0289"
+      "REF-0289",
+      "REF-1123"
      ],
      "status": "verified"
     },
@@ -31846,7 +31855,8 @@
      "reference_ids": [
       "REF-0186",
       "REF-0254",
-      "REF-0289"
+      "REF-0289",
+      "REF-1131"
      ],
      "status": "needs-review"
     }
@@ -31873,9 +31883,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1123",
+    "REF-1124",
+    "REF-1125",
+    "REF-1126",
+    "REF-1127",
+    "REF-1128",
+    "REF-1129",
+    "REF-1130",
+    "REF-1131",
+    "REF-1132"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "verbena-officinalis",
@@ -32335,7 +32357,8 @@
      ],
      "note": "Astringent constituents.",
      "reference_ids": [
-      "REF-0439"
+      "REF-0439",
+      "REF-1133"
      ]
     }
    ],
@@ -32344,7 +32367,8 @@
      "action": "analgesic",
      "note": "Mild analgesic for cramping pain",
      "reference_ids": [
-      "REF-0439"
+      "REF-0439",
+      "REF-1139"
      ],
      "status": "needs-review"
     },
@@ -32382,7 +32406,8 @@
      "reference_ids": [
       "REF-0439",
       "REF-0440",
-      "REF-0610"
+      "REF-0610",
+      "REF-1140"
      ],
      "status": "verified"
     },
@@ -32422,9 +32447,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1133",
+    "REF-1134",
+    "REF-1135",
+    "REF-1136",
+    "REF-1137",
+    "REF-1138",
+    "REF-1139",
+    "REF-1140",
+    "REF-1141",
+    "REF-1142"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "viola-odorata",
@@ -32458,7 +32495,8 @@
      ],
      "note": "Antioxidant and mild analgesic constituents.",
      "reference_ids": [
-      "REF-0517"
+      "REF-0517",
+      "REF-1144"
      ]
     },
     {
@@ -32477,7 +32515,9 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0517"
+      "REF-0517",
+      "REF-1143",
+      "REF-1146"
      ],
      "status": "needs-review"
     },
@@ -32486,7 +32526,8 @@
      "note": "Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus) - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression in children with asthma",
      "reference_ids": [
       "REF-0517",
-      "REF-0609"
+      "REF-0609",
+      "REF-1143"
      ],
      "status": "verified"
     },
@@ -32495,7 +32536,9 @@
      "note": "Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus) - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression in children with asthma",
      "reference_ids": [
       "REF-0517",
-      "REF-0609"
+      "REF-0609",
+      "REF-1143",
+      "REF-1148"
      ],
      "status": "verified"
     },
@@ -32503,7 +32546,11 @@
      "action": "sedative",
      "note": "Mild sedative for sleeplessness and to ease headache (traditional)",
      "reference_ids": [
-      "REF-0517"
+      "REF-0517",
+      "REF-1143",
+      "REF-1149",
+      "REF-1150",
+      "REF-1151"
      ],
      "status": "needs-review"
     }
@@ -32564,7 +32611,9 @@
      "condition": "insomnia",
      "note": "Mild sedative for sleeplessness and to ease headache (traditional)",
      "reference_ids": [
-      "REF-0517"
+      "REF-0517",
+      "REF-1150",
+      "REF-1151"
      ],
      "status": "needs-review"
     },
@@ -32573,7 +32622,8 @@
      "note": "inferred from expectorant action",
      "reference_ids": [
       "REF-0517",
-      "REF-0609"
+      "REF-0609",
+      "REF-1148"
      ],
      "status": "needs-review"
     },
@@ -32582,7 +32632,8 @@
      "note": "inferred from demulcent action",
      "reference_ids": [
       "REF-0517",
-      "REF-0609"
+      "REF-0609",
+      "REF-1147"
      ],
      "status": "needs-review"
     },
@@ -32613,9 +32664,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1143",
+    "REF-1144",
+    "REF-1145",
+    "REF-1146",
+    "REF-1147",
+    "REF-1148",
+    "REF-1149",
+    "REF-1150",
+    "REF-1151",
+    "REF-1152"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "viola-tricolor",

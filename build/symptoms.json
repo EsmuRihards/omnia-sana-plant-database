@@ -7194,6 +7194,19 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0439",
+      "REF-0440",
+      "REF-0610",
+      "REF-1140"
+     ]
+    },
+    {
      "condition": "back-pain",
      "label": "Back pain",
      "evidence": 1,
@@ -7211,18 +7224,6 @@
      "inferred": true,
      "references": [
       "REF-0439"
-     ]
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0439",
-      "REF-0440",
-      "REF-0610"
      ]
     },
     {
@@ -10312,6 +10313,45 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cough",
+     "label": "Cough",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0186",
+      "REF-0254",
+      "REF-0289",
+      "REF-1123"
+     ]
+    },
+    {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0186",
+      "REF-0254",
+      "REF-0289",
+      "REF-1123"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0186",
+      "REF-0254",
+      "REF-0289",
+      "REF-1131"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -10336,18 +10376,6 @@
      ]
     },
     {
-     "condition": "cough",
-     "label": "Cough",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0186",
-      "REF-0254",
-      "REF-0289"
-     ]
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
      "evidence": 1,
@@ -10362,30 +10390,6 @@
     {
      "condition": "insomnia",
      "label": "Insomnia / sleeplessness",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0186",
-      "REF-0254",
-      "REF-0289"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0186",
-      "REF-0254",
-      "REF-0289"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -18060,6 +18064,30 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0517",
+      "REF-1150",
+      "REF-1151"
+     ]
+    },
+    {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0517",
+      "REF-0609",
+      "REF-1148"
+     ]
+    },
+    {
      "condition": "asthma",
      "label": "Asthma",
      "evidence": 5,
@@ -18093,17 +18121,6 @@
      ]
     },
     {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0517",
-      "REF-0609"
-     ]
-    },
-    {
      "condition": "skin-irritation",
      "label": "Skin irritation",
      "evidence": 5,
@@ -18111,7 +18128,8 @@
      "inferred": true,
      "references": [
       "REF-0517",
-      "REF-0609"
+      "REF-0609",
+      "REF-1147"
      ]
     },
     {
@@ -18137,16 +18155,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0517"
-     ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

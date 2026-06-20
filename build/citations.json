@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1122,
+ "count": 1152,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -6971,6 +6971,38 @@
    ]
   },
   {
+   "ref_id": "REF-1148",
+   "key": "adelmehraban2022viola",
+   "type": "article",
+   "title": "Efficacy and safety of add-on Viola odorata L. in the treatment of COVID-19: A randomized double-blind controlled trial",
+   "authors": "Adel Mehraban, M.S., Shirzad, M., Mohammad Taghizadeh Kashani, L., Ahmadian-Attari, M.M. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2022",
+   "doi": "10.1016/j.jep.2022.116058",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2022.116058",
+   "link_type": "doi",
+   "citation": "Adel Mehraban, M.S., Shirzad, M., Mohammad Taghizadeh Kashani, L., Ahmadian-Attari, M.M. and others (2022) 'Efficacy and safety of add-on Viola odorata L. in the treatment of COVID-19: A randomized double-blind controlled trial', Journal of Ethnopharmacology, 304, pp. 116058. doi:10.1016/j.jep.2022.116058",
+   "abstract": "In a randomized double-blind controlled trial, add-on Viola odorata (sweet violet) improved respiratory symptoms in patients with COVID-19, supporting its traditional demulcent/expectorant use for respiratory complaints.",
+   "tier": "rct",
+   "display": "Efficacy and safety of add-on Viola odorata L. in the treatment of COVID-19: A randomized double-blind controlled trial",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [
+    "Expectorant"
+   ],
+   "conditions": [
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0791",
    "key": "zeng2022curcumin",
    "type": "article",
@@ -7415,6 +7447,67 @@
     "Carum carvi"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1132",
+   "key": "soto2022verbascum",
+   "type": "article",
+   "title": "Gold Nanoparticles Synthesized with Common Mullein (Verbascum thapsus) and Castor Bean (Ricinus communis) Ethanolic Extracts Displayed Antiproliferative Effects and Induced Caspase 3 Activity in Human HT29 and SW480 Cancer Cells",
+   "authors": "Soto, K.M., Luzardo-Ocampo, I., Lopez-Romero, J.M., Mendoza, S. and others",
+   "journal": "Pharmaceutics",
+   "year": "2022",
+   "doi": "10.3390/pharmaceutics14102069",
+   "url": "",
+   "link": "https://doi.org/10.3390/pharmaceutics14102069",
+   "link_type": "doi",
+   "citation": "Soto, K.M., Luzardo-Ocampo, I., Lopez-Romero, J.M., Mendoza, S. and others (2022) 'Gold Nanoparticles Synthesized with Common Mullein (Verbascum thapsus) and Castor Bean (Ricinus communis) Ethanolic Extracts Displayed Antiproliferative Effects and Induced Caspase 3 Activity in Human HT29 and SW480 Cancer Cells', Pharmaceutics, 14(10), pp. 2069. doi:10.3390/pharmaceutics14102069",
+   "abstract": "Gold nanoparticles green-synthesised with common mullein (Verbascum thapsus) ethanolic extract displayed antiproliferative effects and induced caspase-3 activity in human colon cancer cells, illustrating the bioactivity of mullein phytochemicals.",
+   "tier": "preclinical",
+   "display": "Gold Nanoparticles Synthesized with Common Mullein (Verbascum thapsus) and Castor Bean (Ricinus communis) Ethanolic Extracts Displayed Antiproliferative Effects and Induced Caspase 3 Activity in Human HT29 and SW480 Cancer Cells",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1124",
+   "key": "gupta2022verbascum",
+   "type": "article",
+   "title": "Health-promoting and disease-mitigating potential of Verbascum thapsus L. (common mullein): A review",
+   "authors": "Gupta, A., Atkinson, A.N., Pandey, A.K. and Bishayee, A.",
+   "journal": "Phytotherapy Research",
+   "year": "2022",
+   "doi": "10.1002/ptr.7393",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7393",
+   "link_type": "doi",
+   "citation": "Gupta, A., Atkinson, A.N., Pandey, A.K. and Bishayee, A (2022) 'Health-promoting and disease-mitigating potential of Verbascum thapsus L. (common mullein): A review', Phytotherapy Research, 36(4), pp. 1507-1522. doi:10.1002/ptr.7393",
+   "abstract": "This review of common mullein (Verbascum thapsus) summarises its phytochemistry and health-promoting, disease-mitigating activities, including anti-inflammatory, expectorant, antimicrobial, antioxidant and antiviral properties relevant to respiratory and inflammatory conditions.",
+   "tier": "review",
+   "display": "Health-promoting and disease-mitigating potential of Verbascum thapsus L. (common mullein): A review",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Expectorant"
+   ],
    "conditions": []
   },
   {
@@ -7987,6 +8080,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1144",
+   "key": "heger2022viola",
+   "type": "article",
+   "title": "Procyanidin C1 from Viola odorata L. inhibits Na,K-ATPase",
+   "authors": "Heger, T., Zatloukal, M., Kubala, M., Strnad, M. and others",
+   "journal": "Scientific Reports",
+   "year": "2022",
+   "doi": "10.1038/s41598-022-11086-y",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41598-022-11086-y",
+   "link_type": "doi",
+   "citation": "Heger, T., Zatloukal, M., Kubala, M., Strnad, M. and others (2022) 'Procyanidin C1 from Viola odorata L. inhibits Na,K-ATPase', Scientific Reports, 12(1), pp. 7011. doi:10.1038/s41598-022-11086-y",
+   "abstract": "Procyanidin C1 isolated from Viola odorata inhibited Na,K-ATPase, identifying a cardioactive constituent and mechanism among the flavonoid/polyphenol constituents of sweet violet.",
+   "tier": "preclinical",
+   "display": "Procyanidin C1 from Viola odorata L. inhibits Na,K-ATPase",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0406",
    "key": "hudek2022proteome",
    "type": "article",
@@ -8451,6 +8572,35 @@
    ]
   },
   {
+   "ref_id": "REF-1128",
+   "key": "chen2022verbascoside",
+   "type": "article",
+   "title": "The Neuroprotection of Verbascoside in Alzheimer's Disease Mediated through Mitigation of Neuroinflammation via Blocking NF-kappaB-p65 Signaling",
+   "authors": "Chen, S., Liu, H., Wang, S., Jiang, H. and others",
+   "journal": "Nutrients",
+   "year": "2022",
+   "doi": "10.3390/nu14071417",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu14071417",
+   "link_type": "doi",
+   "citation": "Chen, S., Liu, H., Wang, S., Jiang, H. and others (2022) 'The Neuroprotection of Verbascoside in Alzheimer's Disease Mediated through Mitigation of Neuroinflammation via Blocking NF-kappaB-p65 Signaling', Nutrients, 14(7), pp. 1417. doi:10.3390/nu14071417",
+   "abstract": "Verbascoside, a phenylethanoid glycoside characteristic of Verbascum thapsus, exerted neuroprotective effects in an Alzheimer's disease model by mitigating neuroinflammation through blocking NF-kappaB-p65 signalling, illustrating an anti-inflammatory mechanism of a mullein constituent.",
+   "tier": "preclinical",
+   "display": "The Neuroprotection of Verbascoside in Alzheimer's Disease Mediated through Mitigation of Neuroinflammation via Blocking NF-kappaB-p65 Signaling",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0718",
    "key": "ukkirapandian2022acorus",
    "type": "article",
@@ -8851,6 +9001,34 @@
    ],
    "scientific": [
     "Eleutherococcus senticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1133",
+   "key": "wojcikbojek2021viburnum",
+   "type": "article",
+   "title": "An In Vitro Study of the Effect of Viburnum opulus Extracts on Key Processes in the Development of Staphylococcal Infections",
+   "authors": "Wojcik-Bojek, U., Rywaniak, J., Bernat, P., Podsedek, A. and others",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26061758",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26061758",
+   "link_type": "doi",
+   "citation": "Wojcik-Bojek, U., Rywaniak, J., Bernat, P., Podsedek, A. and others (2021) 'An In Vitro Study of the Effect of Viburnum opulus Extracts on Key Processes in the Development of Staphylococcal Infections', Molecules, 26(6), pp. 1758. doi:10.3390/molecules26061758",
+   "abstract": "In vitro, Viburnum opulus (guelder rose) extracts inhibited key processes in the development of Staphylococcus aureus infections, including growth, biofilm formation and adhesion, demonstrating antimicrobial activity of the plant.",
+   "tier": "preclinical",
+   "display": "An In Vitro Study of the Effect of Viburnum opulus Extracts on Key Processes in the Development of Staphylococcal Infections",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
    ],
    "actions": [],
    "conditions": []
@@ -9542,6 +9720,36 @@
    ]
   },
   {
+   "ref_id": "REF-1139",
+   "key": "gok2021viburnum",
+   "type": "article",
+   "title": "Gilaburu extract (Viburnum opulus Linnaeus) is as effective as Tamsulosin in medical expulsive therapy of distal ureteral calculi",
+   "authors": "Gok, B., Tarik Atik, Y., Uysal, B., Koc, E. and others",
+   "journal": "International Journal of Clinical Practice",
+   "year": "2021",
+   "doi": "10.1111/ijcp.14950",
+   "url": "",
+   "link": "https://doi.org/10.1111/ijcp.14950",
+   "link_type": "doi",
+   "citation": "Gok, B., Tarik Atik, Y., Uysal, B., Koc, E. and others (2021) 'Gilaburu extract (Viburnum opulus Linnaeus) is as effective as Tamsulosin in medical expulsive therapy of distal ureteral calculi', International Journal of Clinical Practice, 75(12), pp. e14950. doi:10.1111/ijcp.14950",
+   "abstract": "In a clinical study, Gilaburu (Viburnum opulus) extract was as effective as tamsulosin for medical expulsive therapy of distal ureteral stones, supporting an antispasmodic/analgesic role of guelder rose in stone passage.",
+   "tier": "clinical",
+   "display": "Gilaburu extract (Viburnum opulus Linnaeus) is as effective as Tamsulosin in medical expulsive therapy of distal ureteral calculi",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [
+    "Analgesic (pain relief)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1068",
    "key": "trifan2020markers",
    "type": "article",
@@ -10161,6 +10369,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1149",
+   "key": "saleem2021viola",
+   "type": "article",
+   "title": "Pharmacological Screening of Viola odorata L. for Memory-Enhancing Effect via Modulation of Oxidative Stress and Inflammatory Biomarkers",
+   "authors": "Saleem, U., Hira, S., Anwar, F., Shah, M.A. and others",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2021",
+   "doi": "10.3389/fphar.2021.664832",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2021.664832",
+   "link_type": "doi",
+   "citation": "Saleem, U., Hira, S., Anwar, F., Shah, M.A. and others (2021) 'Pharmacological Screening of Viola odorata L. for Memory-Enhancing Effect via Modulation of Oxidative Stress and Inflammatory Biomarkers', Frontiers in Pharmacology, 12, pp. 664832. doi:10.3389/fphar.2021.664832",
+   "abstract": "Pharmacological screening of Viola odorata demonstrated a memory-enhancing effect in animals, mediated through modulation of oxidative-stress and inflammatory biomarkers, indicating neuroprotective and anti-inflammatory activity of sweet violet.",
+   "tier": "preclinical",
+   "display": "Pharmacological Screening of Viola odorata L. for Memory-Enhancing Effect via Modulation of Oxidative Stress and Inflammatory Biomarkers",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1061",
    "key": "stegarus2021stachys",
    "type": "article",
@@ -10637,6 +10875,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1129",
+   "key": "efsa2021verbascum",
+   "type": "article",
+   "title": "Safety of a feed additive consisting of a tincture derived from Verbascum thapsus L. (great mullein tincture) for use in all animal species (MANGHEBATI SAS)",
+   "authors": "Bampidis, V., Azimonti, G., Bastos, M.L. and others (EFSA FEEDAP Panel)",
+   "journal": "EFSA Journal",
+   "year": "2021",
+   "doi": "10.2903/j.efsa.2021.6711",
+   "url": "",
+   "link": "https://doi.org/10.2903/j.efsa.2021.6711",
+   "link_type": "doi",
+   "citation": "Bampidis, V., Azimonti, G., Bastos, M.L. and others (EFSA FEEDAP Panel) (2021) 'Safety of a feed additive consisting of a tincture derived from Verbascum thapsus L. (great mullein tincture) for use in all animal species (MANGHEBATI SAS)', EFSA Journal, 19(7), pp. e06711. doi:10.2903/j.efsa.2021.6711",
+   "abstract": "The EFSA FEEDAP Panel assessed the safety of a tincture derived from Verbascum thapsus (great mullein) as a sensory feed additive, reviewing its composition and safety for target species, consumers and users.",
+   "tier": "review",
+   "display": "Safety of a feed additive consisting of a tincture derived from Verbascum thapsus L. (great mullein tincture) for use in all animal species (MANGHEBATI SAS)",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0090",
    "key": "forouzanfar2021forouzanfar",
    "type": "misc",
@@ -10797,6 +11064,37 @@
    ]
   },
   {
+   "ref_id": "REF-1130",
+   "key": "blancosalas2021verbascum",
+   "type": "article",
+   "title": "Searching for Scientific Explanations for the Uses of Spanish Folk Medicine: A Review on the Case of Mullein (Verbascum, Scrophulariaceae)",
+   "authors": "Blanco-Salas, J., Hortigon-Vinagre, M.P., Morales-Jadan, D. and Ruiz-Tellez, T.",
+   "journal": "Biology",
+   "year": "2021",
+   "doi": "10.3390/biology10070618",
+   "url": "",
+   "link": "https://doi.org/10.3390/biology10070618",
+   "link_type": "doi",
+   "citation": "Blanco-Salas, J., Hortigon-Vinagre, M.P., Morales-Jadan, D. and Ruiz-Tellez, T (2021) 'Searching for Scientific Explanations for the Uses of Spanish Folk Medicine: A Review on the Case of Mullein (Verbascum, Scrophulariaceae)', Biology, 10(7), pp. 618. doi:10.3390/biology10070618",
+   "abstract": "This review links the traditional Spanish folk-medicine uses of mullein (Verbascum, including V. thapsus) for respiratory and inflammatory complaints to the phytochemistry and documented pharmacological activities of the genus.",
+   "tier": "review",
+   "display": "Searching for Scientific Explanations for the Uses of Spanish Folk Medicine: A Review on the Case of Mullein (Verbascum, Scrophulariaceae)",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0484",
    "key": "fallah2021silymarin",
    "type": "article",
@@ -10920,6 +11218,39 @@
    "actions": [],
    "conditions": [
     "Metabolic support"
+   ]
+  },
+  {
+   "ref_id": "REF-1131",
+   "key": "taleb2021verbascum",
+   "type": "article",
+   "title": "The effect of Verbascum thapsus on episiotomy wound healing in nulliparous women: a randomized controlled trial",
+   "authors": "Taleb, S. and Saeedi, M.",
+   "journal": "BMC Complementary Medicine and Therapies",
+   "year": "2021",
+   "doi": "10.1186/s12906-021-03339-6",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-021-03339-6",
+   "link_type": "doi",
+   "citation": "Taleb, S. and Saeedi, M (2021) 'The effect of Verbascum thapsus on episiotomy wound healing in nulliparous women: a randomized controlled trial', BMC Complementary Medicine and Therapies, 21(1), pp. 166. doi:10.1186/s12906-021-03339-6",
+   "abstract": "In a randomized controlled trial, topical Verbascum thapsus (mullein) ointment accelerated episiotomy wound healing and reduced pain in nulliparous women, supporting an anti-inflammatory, wound-healing effect of common mullein.",
+   "tier": "rct",
+   "display": "The effect of Verbascum thapsus on episiotomy wound healing in nulliparous women: a randomized controlled trial",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Skin irritation"
    ]
   },
   {
@@ -11896,6 +12227,34 @@
    ]
   },
   {
+   "ref_id": "REF-1142",
+   "key": "karakurt2020viburnum",
+   "type": "article",
+   "title": "Comparison of anticarcinogenic properties of Viburnum opulus and its active compound p-coumaric acid on human colorectal carcinoma",
+   "authors": "Karakurt, S., Abusoglu, G. and Arituluk, Z.C.",
+   "journal": "Turkish Journal of Biology",
+   "year": "2020",
+   "doi": "10.3906/biy-2002-30",
+   "url": "",
+   "link": "https://doi.org/10.3906/biy-2002-30",
+   "link_type": "doi",
+   "citation": "Karakurt, S., Abusoglu, G. and Arituluk, Z.C (2020) 'Comparison of anticarcinogenic properties of Viburnum opulus and its active compound p-coumaric acid on human colorectal carcinoma', Turkish Journal of Biology, 44(5), pp. 252-263. doi:10.3906/biy-2002-30",
+   "abstract": "Viburnum opulus extract and its active compound p-coumaric acid showed anticarcinogenic effects on human colorectal carcinoma cells, modulating detoxification and apoptosis pathways, illustrating a bioactivity of guelder-rose phenolics.",
+   "tier": "preclinical",
+   "display": "Comparison of anticarcinogenic properties of Viburnum opulus and its active compound p-coumaric acid on human colorectal carcinoma",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0390",
    "key": "gonzalez2020cranberry",
    "type": "article",
@@ -12238,6 +12597,38 @@
    ]
   },
   {
+   "ref_id": "REF-1150",
+   "key": "shayesteh2020viola",
+   "type": "article",
+   "title": "Effects of Viola odorata as an Add-On Therapy on Insomnia in Patients with Obsession or Depression: A Pilot Randomized Double-Blind Placebo-Controlled Trial",
+   "authors": "Shayesteh, M., Vaez-Mahdavi, M.R., Shams, J., Kamalinejad, M. and others",
+   "journal": "Journal of Alternative and Complementary Medicine",
+   "year": "2020",
+   "doi": "10.1089/acm.2019.0254",
+   "url": "",
+   "link": "https://doi.org/10.1089/acm.2019.0254",
+   "link_type": "doi",
+   "citation": "Shayesteh, M., Vaez-Mahdavi, M.R., Shams, J., Kamalinejad, M. and others (2020) 'Effects of Viola odorata as an Add-On Therapy on Insomnia in Patients with Obsession or Depression: A Pilot Randomized Double-Blind Placebo-Controlled Trial', Journal of Alternative and Complementary Medicine, 26(5), pp. 398-408. doi:10.1089/acm.2019.0254",
+   "abstract": "In a pilot randomized double-blind placebo-controlled trial, Viola odorata syrup as an add-on therapy improved sleep quality (insomnia) in patients with obsession or depression, supporting the sedative use of sweet violet.",
+   "tier": "rct",
+   "display": "Effects of Viola odorata as an Add-On Therapy on Insomnia in Patients with Obsession or Depression: A Pilot Randomized Double-Blind Placebo-Controlled Trial",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
    "ref_id": "REF-0636",
    "key": "xu2020cinnamonfennelginger",
    "type": "article",
@@ -12302,6 +12693,34 @@
     "Menstrual cramps",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1138",
+   "key": "zaklosszyda2020min6",
+   "type": "article",
+   "title": "Evaluation of Viburnum opulus L. Fruit Phenolics Cytoprotective Potential on Insulinoma MIN6 Cells Relevant for Diabetes Mellitus and Obesity",
+   "authors": "Zaklos-Szyda, M., Kowalska-Baron, A., Pietrzyk, N., Drzazga, A. and others",
+   "journal": "Antioxidants",
+   "year": "2020",
+   "doi": "10.3390/antiox9050433",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox9050433",
+   "link_type": "doi",
+   "citation": "Zaklos-Szyda, M., Kowalska-Baron, A., Pietrzyk, N., Drzazga, A. and others (2020) 'Evaluation of Viburnum opulus L. Fruit Phenolics Cytoprotective Potential on Insulinoma MIN6 Cells Relevant for Diabetes Mellitus and Obesity', Antioxidants, 9(5), pp. 433. doi:10.3390/antiox9050433",
+   "abstract": "Viburnum opulus fruit phenolics showed cytoprotective potential on insulin-secreting MIN6 cells under conditions relevant to diabetes and obesity, supporting an antioxidant, metabolic-protective role of guelder-rose fruit.",
+   "tier": "preclinical",
+   "display": "Evaluation of Viburnum opulus L. Fruit Phenolics Cytoprotective Potential on Insulinoma MIN6 Cells Relevant for Diabetes Mellitus and Obesity",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0275",
@@ -13400,6 +13819,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1145",
+   "key": "yousefnia2020viola",
+   "type": "article",
+   "title": "Suppressive role of Viola odorata extract on malignant characters of mammosphere-derived breast cancer stem cells",
+   "authors": "Yousefnia, S., Naseri, D., Seyed Forootan, F., Tabatabaeian, M. and others",
+   "journal": "Clinical & Translational Oncology",
+   "year": "2020",
+   "doi": "10.1007/s12094-020-02307-9",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12094-020-02307-9",
+   "link_type": "doi",
+   "citation": "Yousefnia, S., Naseri, D., Seyed Forootan, F., Tabatabaeian, M. and others (2020) 'Suppressive role of Viola odorata extract on malignant characters of mammosphere-derived breast cancer stem cells', Clinical & Translational Oncology, 22(9), pp. 1619-1634. doi:10.1007/s12094-020-02307-9",
+   "abstract": "Viola odorata extract suppressed the malignant characteristics of mammosphere-derived breast cancer stem cells, reducing stemness and proliferation, indicating an antitumour activity of sweet violet.",
+   "tier": "preclinical",
+   "display": "Suppressive role of Viola odorata extract on malignant characters of mammosphere-derived breast cancer stem cells",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1066",
    "key": "trifan2020caffeic",
    "type": "article",
@@ -13462,6 +13909,65 @@
     "Anti-inflammatory",
     "Antimicrobial",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1126",
+   "key": "mahdavi2020verbascum",
+   "type": "article",
+   "title": "The Antioxidant, Anticarcinogenic and Antimicrobial Properties of Verbascum thapsus L.",
+   "authors": "Mahdavi, S., Amiradalat, M., Babashpour, M., Sheikhlooei, H. and others",
+   "journal": "Medicinal Chemistry",
+   "year": "2020",
+   "doi": "10.2174/1573406415666190828155951",
+   "url": "",
+   "link": "https://doi.org/10.2174/1573406415666190828155951",
+   "link_type": "doi",
+   "citation": "Mahdavi, S., Amiradalat, M., Babashpour, M., Sheikhlooei, H. and others (2020) 'The Antioxidant, Anticarcinogenic and Antimicrobial Properties of Verbascum thapsus L', Medicinal Chemistry, 16(7), pp. 991-995. doi:10.2174/1573406415666190828155951",
+   "abstract": "Extracts of Verbascum thapsus showed antioxidant, anticarcinogenic and antimicrobial activity in vitro, supporting the medicinal potential of common mullein against oxidative stress, microbial pathogens and tumour cells.",
+   "tier": "preclinical",
+   "display": "The Antioxidant, Anticarcinogenic and Antimicrobial Properties of Verbascum thapsus L.",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1146",
+   "key": "tafazoli2020viola",
+   "type": "article",
+   "title": "The Effect of Viola odorata L. Oil for Fever in Children: A Randomized Triple-blinded Placebo-controlled Clinical Trial",
+   "authors": "Tafazoli, V., Shahriari, M., Heydari, M., Nikbakht, H.A. and others",
+   "journal": "Current Drug Discovery Technologies",
+   "year": "2020",
+   "doi": "10.2174/1570163816666190620142256",
+   "url": "",
+   "link": "https://doi.org/10.2174/1570163816666190620142256",
+   "link_type": "doi",
+   "citation": "Tafazoli, V., Shahriari, M., Heydari, M., Nikbakht, H.A. and others (2020) 'The Effect of Viola odorata L. Oil for Fever in Children: A Randomized Triple-blinded Placebo-controlled Clinical Trial', Current Drug Discovery Technologies, 17(5), pp. 696-703. doi:10.2174/1570163816666190620142256",
+   "abstract": "In a randomized triple-blind placebo-controlled trial, topical Viola odorata oil produced a mild antipyretic effect for fever in children, supporting a soothing, anti-inflammatory application of sweet violet.",
+   "tier": "rct",
+   "display": "The Effect of Viola odorata L. Oil for Fever in Children: A Randomized Triple-blinded Placebo-controlled Clinical Trial",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -13782,6 +14288,62 @@
    "conditions": [
     "Menstrual cramps"
    ]
+  },
+  {
+   "ref_id": "REF-1135",
+   "key": "zaklosszyda2020osteo",
+   "type": "article",
+   "title": "Viburnum opulus L. Juice Phenolic Compounds Influence Osteogenic Differentiation in Human Osteosarcoma Saos-2 Cells",
+   "authors": "Zaklos-Szyda, M., Nowak, A., Pietrzyk, N. and Podsedek, A.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2020",
+   "doi": "10.3390/ijms21144909",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms21144909",
+   "link_type": "doi",
+   "citation": "Zaklos-Szyda, M., Nowak, A., Pietrzyk, N. and Podsedek, A (2020) 'Viburnum opulus L. Juice Phenolic Compounds Influence Osteogenic Differentiation in Human Osteosarcoma Saos-2 Cells', International Journal of Molecular Sciences, 21(14), pp. 4909. doi:10.3390/ijms21144909",
+   "abstract": "Phenolic compounds from Viburnum opulus fruit juice influenced osteogenic differentiation in human Saos-2 cells, suggesting a potential bone-protective effect of guelder-rose phenolics.",
+   "tier": "preclinical",
+   "display": "Viburnum opulus L. Juice Phenolic Compounds Influence Osteogenic Differentiation in Human Osteosarcoma Saos-2 Cells",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1134",
+   "key": "zaklosszyda2020adipo",
+   "type": "article",
+   "title": "Viburnum opulus L. Juice Phenolics Inhibit Mouse 3T3-L1 Cells Adipogenesis and Pancreatic Lipase Activity",
+   "authors": "Zaklos-Szyda, M., Pietrzyk, N., Szustak, M. and Podsedek, A.",
+   "journal": "Nutrients",
+   "year": "2020",
+   "doi": "10.3390/nu12072003",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu12072003",
+   "link_type": "doi",
+   "citation": "Zaklos-Szyda, M., Pietrzyk, N., Szustak, M. and Podsedek, A (2020) 'Viburnum opulus L. Juice Phenolics Inhibit Mouse 3T3-L1 Cells Adipogenesis and Pancreatic Lipase Activity', Nutrients, 12(7), pp. 2003. doi:10.3390/nu12072003",
+   "abstract": "Phenolic compounds from Viburnum opulus (guelder rose) fruit juice inhibited adipogenesis in 3T3-L1 cells and pancreatic lipase activity, indicating an anti-obesity/metabolic potential of the fruit phenolics.",
+   "tier": "preclinical",
+   "display": "Viburnum opulus L. Juice Phenolics Inhibit Mouse 3T3-L1 Cells Adipogenesis and Pancreatic Lipase Activity",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0259",
@@ -15220,6 +15782,34 @@
    ]
   },
   {
+   "ref_id": "REF-1137",
+   "key": "zaklosszyda2019viburnum",
+   "type": "article",
+   "title": "Viburnum opulus Fruit Phenolic Compounds as Cytoprotective Agents Able to Decrease Free Fatty Acids and Glucose Uptake by Caco-2 Cells",
+   "authors": "Zaklos-Szyda, M., Pawlik, N., Polka, D., Nowak, A. and others",
+   "journal": "Antioxidants",
+   "year": "2019",
+   "doi": "10.3390/antiox8080262",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox8080262",
+   "link_type": "doi",
+   "citation": "Zaklos-Szyda, M., Pawlik, N., Polka, D., Nowak, A. and others (2019) 'Viburnum opulus Fruit Phenolic Compounds as Cytoprotective Agents Able to Decrease Free Fatty Acids and Glucose Uptake by Caco-2 Cells', Antioxidants, 8(8), pp. 262. doi:10.3390/antiox8080262",
+   "abstract": "Viburnum opulus fruit phenolic compounds acted as cytoprotective agents, decreasing free-fatty-acid and glucose uptake by Caco-2 intestinal cells, indicating antioxidant and metabolic-protective activity of guelder-rose phenolics.",
+   "tier": "preclinical",
+   "display": "Viburnum opulus Fruit Phenolic Compounds as Cytoprotective Agents Able to Decrease Free Fatty Acids and Glucose Uptake by Caco-2 Cells",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0307",
    "key": "wikisource2018encyclopdia",
    "type": "misc",
@@ -16354,6 +16944,34 @@
    ]
   },
   {
+   "ref_id": "REF-1152",
+   "key": "parsley2018viola",
+   "type": "article",
+   "title": "PepSAVI-MS reveals anticancer and antifungal cycloviolacins in Viola odorata",
+   "authors": "Parsley, N.C., Kirkpatrick, C.L., Crittenden, C.M., Rad, J.G. and others",
+   "journal": "Phytochemistry",
+   "year": "2018",
+   "doi": "10.1016/j.phytochem.2018.04.014",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2018.04.014",
+   "link_type": "doi",
+   "citation": "Parsley, N.C., Kirkpatrick, C.L., Crittenden, C.M., Rad, J.G. and others (2018) 'PepSAVI-MS reveals anticancer and antifungal cycloviolacins in Viola odorata', Phytochemistry, 152, pp. 61-70. doi:10.1016/j.phytochem.2018.04.014",
+   "abstract": "Using the PepSAVI-MS pipeline, anticancer and antifungal cycloviolacins (cyclotides) were identified in Viola odorata, characterising a class of bioactive peptide constituents of sweet violet.",
+   "tier": "preclinical",
+   "display": "PepSAVI-MS reveals anticancer and antifungal cycloviolacins in Viola odorata",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0783",
    "key": "orhan2018hawthorn",
    "type": "article",
@@ -16527,6 +17145,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1143",
+   "key": "feyzabadi2017viola",
+   "type": "article",
+   "title": "A Critical Review on Phytochemistry, Pharmacology of Viola odorata L. and Related Multipotential Products in Traditional Persian Medicine",
+   "authors": "Feyzabadi, Z., Ghorbani, F., Vazani, Y. and Zarshenas, M.M.",
+   "journal": "Phytotherapy Research",
+   "year": "2017",
+   "doi": "10.1002/ptr.5909",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5909",
+   "link_type": "doi",
+   "citation": "Feyzabadi, Z., Ghorbani, F., Vazani, Y. and Zarshenas, M.M (2017) 'A Critical Review on Phytochemistry, Pharmacology of Viola odorata L. and Related Multipotential Products in Traditional Persian Medicine', Phytotherapy Research, 31(11), pp. 1669-1675. doi:10.1002/ptr.5909",
+   "abstract": "This critical review of sweet violet (Viola odorata) summarises its phytochemistry and pharmacology and its multiple uses in traditional Persian medicine, including demulcent, expectorant, anti-inflammatory and sedative applications for respiratory and nervous complaints.",
+   "tier": "review",
+   "display": "A Critical Review on Phytochemistry, Pharmacology of Viola odorata L. and Related Multipotential Products in Traditional Persian Medicine",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Demulcent (soothing mucilage)",
+    "Expectorant",
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0183",
    "key": "nicolaus2017double",
    "type": "article",
@@ -16690,6 +17341,36 @@
    ],
    "conditions": [
     "Inflammation (general)",
+    "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1147",
+   "key": "rahimi2017viola",
+   "type": "article",
+   "title": "Anti-melanogenic activity of Viola odorata different extracts on B16F10 murine melanoma cells",
+   "authors": "Rahimi, V.B., Askari, V.R., Emami, S.A. and Tayarani-Najaran, Z.",
+   "journal": "Iranian Journal of Basic Medical Sciences",
+   "year": "2017",
+   "doi": "10.22038/ijbms.2017.8350",
+   "url": "",
+   "link": "https://doi.org/10.22038/ijbms.2017.8350",
+   "link_type": "doi",
+   "citation": "Rahimi, V.B., Askari, V.R., Emami, S.A. and Tayarani-Najaran, Z (2017) 'Anti-melanogenic activity of Viola odorata different extracts on B16F10 murine melanoma cells', Iranian Journal of Basic Medical Sciences, 20(3), pp. 242-249. doi:10.22038/ijbms.2017.8350",
+   "abstract": "Different extracts of Viola odorata showed anti-melanogenic (tyrosinase- and melanin-reducing) and antioxidant activity on B16F10 murine melanoma cells, supporting a skin-active, antioxidant role of sweet violet.",
+   "tier": "preclinical",
+   "display": "Anti-melanogenic activity of Viola odorata different extracts on B16F10 murine melanoma cells",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [],
+   "conditions": [
     "Skin irritation"
    ]
   },
@@ -19795,6 +20476,36 @@
    ]
   },
   {
+   "ref_id": "REF-1140",
+   "key": "saltan2016viburnum",
+   "type": "article",
+   "title": "Viburnum opulus L.: A remedy for the treatment of endometriosis demonstrated by rat model of surgically-induced endometriosis",
+   "authors": "Saltan, G., Suntar, I., Ozbilgin, S., Ilhan, M. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2016",
+   "doi": "10.1016/j.jep.2016.09.029",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2016.09.029",
+   "link_type": "doi",
+   "citation": "Saltan, G., Suntar, I., Ozbilgin, S., Ilhan, M. and others (2016) 'Viburnum opulus L.: A remedy for the treatment of endometriosis demonstrated by rat model of surgically-induced endometriosis', Journal of Ethnopharmacology, 193, pp. 450-455. doi:10.1016/j.jep.2016.09.029",
+   "abstract": "In a rat model of surgically-induced endometriosis, Viburnum opulus (guelder rose) extract reduced endometriotic implants and inflammation, supporting its traditional use for gynaecological and menstrual complaints.",
+   "tier": "preclinical",
+   "display": "Viburnum opulus L.: A remedy for the treatment of endometriosis demonstrated by rat model of surgically-induced endometriosis",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Menstrual cramps"
+   ]
+  },
+  {
    "ref_id": "REF-0908",
    "key": "rogozhin2015stellaria",
    "type": "article",
@@ -20172,6 +20883,35 @@
    ],
    "scientific": [
     "Achillea millefolium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1127",
+   "key": "kashan2015verbascum",
+   "type": "article",
+   "title": "Effect of Verbascum thapsus ethanol extract on induction of apoptosis in Trichomonas vaginalis in vitro",
+   "authors": "Kashan, Z.F., Arbabi, M., Delavari, M., Hooshyar, H. and others",
+   "journal": "Infectious Disorders Drug Targets",
+   "year": "2015",
+   "doi": "10.2174/1871526515666150724114924",
+   "url": "",
+   "link": "https://doi.org/10.2174/1871526515666150724114924",
+   "link_type": "doi",
+   "citation": "Kashan, Z.F., Arbabi, M., Delavari, M., Hooshyar, H. and others (2015) 'Effect of Verbascum thapsus ethanol extract on induction of apoptosis in Trichomonas vaginalis in vitro', Infectious Disorders Drug Targets, 15(2), pp. 125-130. doi:10.2174/1871526515666150724114924",
+   "abstract": "A Verbascum thapsus ethanol extract induced apoptosis in and killed Trichomonas vaginalis in vitro, demonstrating an antiprotozoal/antimicrobial activity of common mullein.",
+   "tier": "preclinical",
+   "display": "Effect of Verbascum thapsus ethanol extract on induction of apoptosis in Trichomonas vaginalis in vitro",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
    ],
    "actions": [],
    "conditions": []
@@ -21668,6 +22408,38 @@
    ]
   },
   {
+   "ref_id": "REF-1151",
+   "key": "feyzabadi2014viola",
+   "type": "article",
+   "title": "Efficacy of Viola odorata in Treatment of Chronic Insomnia",
+   "authors": "Feyzabadi, Z., Jafari, F., Kamali, S.H., Ashayeri, H. and others",
+   "journal": "Iranian Red Crescent Medical Journal",
+   "year": "2014",
+   "doi": "10.5812/ircmj.17511",
+   "url": "",
+   "link": "https://doi.org/10.5812/ircmj.17511",
+   "link_type": "doi",
+   "citation": "Feyzabadi, Z., Jafari, F., Kamali, S.H., Ashayeri, H. and others (2014) 'Efficacy of Viola odorata in Treatment of Chronic Insomnia', Iranian Red Crescent Medical Journal, 16(12), pp. e17511. doi:10.5812/ircmj.17511",
+   "abstract": "A clinical study found that intranasal Viola odorata oil improved chronic insomnia, reducing sleep latency and improving sleep quality, supporting the traditional sedative use of sweet violet.",
+   "tier": "clinical",
+   "display": "Efficacy of Viola odorata in Treatment of Chronic Insomnia",
+   "plants": [
+    "Banafsha",
+    "English violet",
+    "Garden violet",
+    "Sweet Violet"
+   ],
+   "scientific": [
+    "Viola odorata"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
    "ref_id": "REF-0078",
    "key": "european2014european",
    "type": "misc",
@@ -22369,6 +23141,34 @@
     "Muscle spasm",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1136",
+   "key": "tuglu2014viburnum",
+   "type": "article",
+   "title": "Viburnum opulus: could it be a new alternative, such as lemon juice, to pharmacological therapy in hypocitraturic stone patients?",
+   "authors": "Tuglu, D., Yilmaz, E., Yuvanc, E., Erguder, I. and others",
+   "journal": "Archivio Italiano di Urologia e Andrologia",
+   "year": "2014",
+   "doi": "10.4081/aiua.2014.4.297",
+   "url": "",
+   "link": "https://doi.org/10.4081/aiua.2014.4.297",
+   "link_type": "doi",
+   "citation": "Tuglu, D., Yilmaz, E., Yuvanc, E., Erguder, I. and others (2014) 'Viburnum opulus: could it be a new alternative, such as lemon juice, to pharmacological therapy in hypocitraturic stone patients?', Archivio Italiano di Urologia e Andrologia, 86(4), pp. 297-299. doi:10.4081/aiua.2014.4.297",
+   "abstract": "Viburnum opulus (guelder rose) juice, rich in citrate and potassium, was evaluated as a natural alternative to lemon juice for raising urinary citrate in hypocitraturic kidney-stone patients, indicating a potential role in urolithiasis prophylaxis.",
+   "tier": "preclinical",
+   "display": "Viburnum opulus: could it be a new alternative, such as lemon juice, to pharmacological therapy in hypocitraturic stone patients?",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0257",
@@ -23680,6 +24480,37 @@
     "Muscle soreness",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1125",
+   "key": "ali2012verbascum",
+   "type": "article",
+   "title": "Anthelmintic and relaxant activities of Verbascum thapsus (Mullein)",
+   "authors": "Ali, N., Ali Shah, S.W., Shah, I., Ahmed, G. and others",
+   "journal": "BMC Complementary and Alternative Medicine",
+   "year": "2012",
+   "doi": "10.1186/1472-6882-12-29",
+   "url": "",
+   "link": "https://doi.org/10.1186/1472-6882-12-29",
+   "link_type": "doi",
+   "citation": "Ali, N., Ali Shah, S.W., Shah, I., Ahmed, G. and others (2012) 'Anthelmintic and relaxant activities of Verbascum thapsus (Mullein)', BMC Complementary and Alternative Medicine, 12, pp. 29. doi:10.1186/1472-6882-12-29",
+   "abstract": "Verbascum thapsus (mullein), used in traditional medicine as an antispasmodic and anti-tubercular agent, showed anthelmintic activity and a relaxant (smooth-muscle) effect in vitro, supporting its traditional use for spasmodic and respiratory complaints.",
+   "tier": "preclinical",
+   "display": "Anthelmintic and relaxant activities of Verbascum thapsus (Mullein)",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [
+    "Expectorant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1062",
@@ -27346,6 +28177,34 @@
    ]
   },
   {
+   "ref_id": "REF-1141",
+   "key": "altun2008viburnum",
+   "type": "article",
+   "title": "Antioxidant properties of Viburnum opulus and Viburnum lantana growing in Turkey",
+   "authors": "Altun, M.L., Citoglu, G.S., Yilmaz, B.S. and Coban, T.",
+   "journal": "International Journal of Food Sciences and Nutrition",
+   "year": "2008",
+   "doi": "10.1080/09637480701381648",
+   "url": "",
+   "link": "https://doi.org/10.1080/09637480701381648",
+   "link_type": "doi",
+   "citation": "Altun, M.L., Citoglu, G.S., Yilmaz, B.S. and Coban, T (2008) 'Antioxidant properties of Viburnum opulus and Viburnum lantana growing in Turkey', International Journal of Food Sciences and Nutrition, 59(3), pp. 175-180. doi:10.1080/09637480701381648",
+   "abstract": "Water extracts of different parts of Viburnum opulus (and V. lantana) showed antioxidant and radical-scavenging activity, characterising the antioxidant potential of guelder-rose preparations.",
+   "tier": "preclinical",
+   "display": "Antioxidant properties of Viburnum opulus and Viburnum lantana growing in Turkey",
+   "plants": [
+    "Cramp Bark",
+    "Guelder rose",
+    "High cranberry",
+    "Snowball tree"
+   ],
+   "scientific": [
+    "Viburnum opulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0313",
    "key": "xu2008arctium",
    "type": "article",
@@ -29947,6 +30806,41 @@
     "Insomnia / sleeplessness",
     "Respiratory support",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1123",
+   "key": "turker2005verbascum",
+   "type": "article",
+   "title": "Common mullein (Verbascum thapsus L.): recent advances in research",
+   "authors": "Turker, A.U. and Gurel, E.",
+   "journal": "Phytotherapy Research",
+   "year": "2005",
+   "doi": "10.1002/ptr.1653",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.1653",
+   "link_type": "doi",
+   "citation": "Turker, A.U. and Gurel, E (2005) 'Common mullein (Verbascum thapsus L.): recent advances in research', Phytotherapy Research, 19(9), pp. 733-739. doi:10.1002/ptr.1653",
+   "abstract": "This review of common mullein (Verbascum thapsus) summarises the scientific research on the plant, which has been used to treat pulmonary problems, inflammatory diseases, asthma, spasmodic coughs, diarrhoea and migraine, covering its tissue culture and biological properties.",
+   "tier": "review",
+   "display": "Common mullein (Verbascum thapsus L.): recent advances in research",
+   "plants": [
+    "Aaron's rod",
+    "Great Mullein",
+    "common mullein",
+    "flannel leaf",
+    "velvet plant"
+   ],
+   "scientific": [
+    "Verbascum thapsus"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Expectorant"
+   ],
+   "conditions": [
+    "Cough",
+    "Respiratory support"
    ]
   },
   {

@@ -14,6 +14,10 @@ constituents:
   reference_ids:
   - REF-0529
   - REF-0530
+  - REF-1253
+  - REF-1254
+  - REF-1258
+  - REF-1259
 - name: Polyphenols, flavonoids and tannins
   compounds:
   - phenolic-compound
@@ -22,6 +26,7 @@ constituents:
   note: Contribute additionally to the anti-inflammatory and antioxidant activity.
   reference_ids:
   - REF-0530
+  - REF-1262
 actions:
 - action: analgesic
   note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
@@ -30,6 +35,9 @@ actions:
   - REF-0529
   - REF-0530
   - REF-0592
+  - REF-1253
+  - REF-1260
+  - REF-1261
   status: verified
 - action: anti-inflammatory
   note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
@@ -38,6 +46,8 @@ actions:
   - REF-0529
   - REF-0530
   - REF-0592
+  - REF-1253
+  - REF-1256
   status: verified
 - action: antipyretic
   note: Antipyretic (reduces fever)
@@ -58,6 +68,8 @@ indications:
   - REF-0529
   - REF-0530
   - REF-0592
+  - REF-1260
+  - REF-1261
   status: verified
 - condition: fever
   note: Antipyretic (reduces fever)
@@ -83,6 +95,7 @@ indications:
   - REF-0529
   - REF-0530
   - REF-0592
+  - REF-1260
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -105,13 +118,27 @@ contraindications:
   reference_ids:
   - REF-0530
   status: verified
+references:
+- REF-1253
+- REF-1254
+- REF-1255
+- REF-1256
+- REF-1257
+- REF-1258
+- REF-1259
+- REF-1260
+- REF-1261
+- REF-1262
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Phytotherapy Research
   systematic review; EMA HMPC monograph for Salicis cortex). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (pain, headache, inflammation, arthritis, fever, back-pain); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with the landmark PubMed-sourced
   randomized double-blind RCT of willow bark extract for low-back-pain exacerbations (REF-0592; 240 mg
   salicin/day, 39% pain-free vs 6% placebo, effect within one week). | 2026-06-15: migrated to entity
-  schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1253, REF-1254,
+  REF-1255, REF-1256, REF-1257, REF-1258, REF-1259, REF-1260, REF-1261, REF-1262) — woven into relevant
+  actions/indications and the plant-level references bucket.'

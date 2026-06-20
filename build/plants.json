@@ -24887,7 +24887,10 @@
      "reference_ids": [
       "REF-0097",
       "REF-0238",
-      "REF-0302"
+      "REF-0302",
+      "REF-1243",
+      "REF-1246",
+      "REF-1251"
      ],
      "status": "verified"
     },
@@ -24896,7 +24899,9 @@
      "reference_ids": [
       "REF-0097",
       "REF-0238",
-      "REF-0302"
+      "REF-0302",
+      "REF-1251",
+      "REF-1252"
      ],
      "status": "verified"
     },
@@ -24923,7 +24928,8 @@
      "reference_ids": [
       "REF-0097",
       "REF-0238",
-      "REF-0302"
+      "REF-0302",
+      "REF-1251"
      ],
      "status": "verified"
     }
@@ -24944,7 +24950,10 @@
      "reference_ids": [
       "REF-0097",
       "REF-0238",
-      "REF-0302"
+      "REF-0302",
+      "REF-1248",
+      "REF-1249",
+      "REF-1250"
      ],
      "status": "verified"
     },
@@ -24992,7 +25001,9 @@
      "reference_ids": [
       "REF-0097",
       "REF-0238",
-      "REF-0302"
+      "REF-0302",
+      "REF-1243",
+      "REF-1246"
      ],
      "status": "needs-review"
     },
@@ -25059,9 +25070,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1243",
+    "REF-1244",
+    "REF-1245",
+    "REF-1246",
+    "REF-1247",
+    "REF-1248",
+    "REF-1249",
+    "REF-1250",
+    "REF-1251",
+    "REF-1252"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "rosa-canina",
@@ -26025,7 +26048,11 @@
      "note": "Metabolised in the body to salicylic acid - the 'natural aspirin' that gives the analgesic, anti-inflammatory and antipyretic effects.",
      "reference_ids": [
       "REF-0529",
-      "REF-0530"
+      "REF-0530",
+      "REF-1253",
+      "REF-1254",
+      "REF-1258",
+      "REF-1259"
      ]
     },
     {
@@ -26037,7 +26064,8 @@
      ],
      "note": "Contribute additionally to the anti-inflammatory and antioxidant activity.",
      "reference_ids": [
-      "REF-0530"
+      "REF-0530",
+      "REF-1262"
      ]
     }
    ],
@@ -26048,7 +26076,10 @@
      "reference_ids": [
       "REF-0529",
       "REF-0530",
-      "REF-0592"
+      "REF-0592",
+      "REF-1253",
+      "REF-1260",
+      "REF-1261"
      ],
      "status": "verified"
     },
@@ -26058,7 +26089,9 @@
      "reference_ids": [
       "REF-0529",
       "REF-0530",
-      "REF-0592"
+      "REF-0592",
+      "REF-1253",
+      "REF-1256"
      ],
      "status": "verified"
     },
@@ -26087,7 +26120,9 @@
      "reference_ids": [
       "REF-0529",
       "REF-0530",
-      "REF-0592"
+      "REF-0592",
+      "REF-1260",
+      "REF-1261"
      ],
      "status": "verified"
     },
@@ -26122,7 +26157,8 @@
      "reference_ids": [
       "REF-0529",
       "REF-0530",
-      "REF-0592"
+      "REF-0592",
+      "REF-1260"
      ],
      "status": "verified"
     },
@@ -26155,9 +26191,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1253",
+    "REF-1254",
+    "REF-1255",
+    "REF-1256",
+    "REF-1257",
+    "REF-1258",
+    "REF-1259",
+    "REF-1260",
+    "REF-1261",
+    "REF-1262"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "salvia-hispanica",
@@ -26178,7 +26226,10 @@
      "reference_ids": [
       "REF-0046",
       "REF-0242",
-      "REF-0297"
+      "REF-0297",
+      "REF-1264",
+      "REF-1271",
+      "REF-1272"
      ],
      "status": "verified"
     },
@@ -26187,7 +26238,12 @@
      "reference_ids": [
       "REF-0046",
       "REF-0242",
-      "REF-0297"
+      "REF-0297",
+      "REF-1263",
+      "REF-1264",
+      "REF-1266",
+      "REF-1269",
+      "REF-1272"
      ],
      "status": "verified"
     },
@@ -26227,7 +26283,11 @@
      "reference_ids": [
       "REF-0046",
       "REF-0242",
-      "REF-0297"
+      "REF-0297",
+      "REF-1265",
+      "REF-1267",
+      "REF-1268",
+      "REF-1271"
      ],
      "status": "verified"
     },
@@ -26247,7 +26307,8 @@
      "reference_ids": [
       "REF-0046",
       "REF-0242",
-      "REF-0297"
+      "REF-0297",
+      "REF-1271"
      ],
      "status": "needs-review"
     },
@@ -26293,9 +26354,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1263",
+    "REF-1264",
+    "REF-1265",
+    "REF-1266",
+    "REF-1267",
+    "REF-1268",
+    "REF-1269",
+    "REF-1270",
+    "REF-1271",
+    "REF-1272"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "salvia-officinalis",

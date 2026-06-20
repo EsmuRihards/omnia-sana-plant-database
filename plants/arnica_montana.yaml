@@ -158,11 +158,17 @@ contraindications:
   - REF-0400
   - REF-0399
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-0725
+- REF-0726
+- REF-0727
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review,
   Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained
   and now part-mapped and cited. NOTE: external use only - see contraindications. | 2026-06-15: migrated
-  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0725,
+  REF-0726, REF-0727.'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 724,
+ "count": 739,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -1070,6 +1070,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0732",
+   "key": "trinh2024vulgaris",
+   "type": "article",
+   "title": "A study on the antioxidant, anti-inflammatory, and xanthine oxidase inhibitory activity of the Artemisia vulgaris L. extract and its fractions",
+   "authors": "Trinh, P.T.N., Truc, N.C., Danh, T.T., Trang, N.T.T., Le Hang, D.T. et al.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2024",
+   "doi": "10.1016/j.jep.2024.118519",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2024.118519",
+   "link_type": "doi",
+   "citation": "Trinh, P.T.N., Truc, N.C., Danh, T.T., Trang, N.T.T., Le Hang, D.T. et al (2024) 'A study on the antioxidant, anti-inflammatory, and xanthine oxidase inhibitory activity of the Artemisia vulgaris L. extract and its fractions', Journal of Ethnopharmacology, 334, pp. 118519. doi:10.1016/j.jep.2024.118519",
+   "abstract": "Vietnamese people use mugwort (Artemisia vulgaris L.) to treat arthritis and gout. Ethanol extracts significantly decreased carrageenan-induced paw oedema in mice and showed significant antioxidant activity (DPPH, ABTS), and the ethyl acetate fraction displayed the most potent xanthine oxidase inhibition. Five flavonoids were isolated (luteolin, rutin, apigenin, myricetin, quercetin); the results support the use of mugwort to treat gout by suppressing xanthine oxidase and reducing uric acid production.",
+   "tier": "preclinical",
+   "display": "A study on the antioxidant, anti-inflammatory, and xanthine oxidase inhibitory activity of the Artemisia vulgaris L. extract and its fractions",
+   "plants": [
+    "Mugwort",
+    "common mugwort",
+    "sailor's tobacco"
+   ],
+   "scientific": [
+    "Artemisia vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0685",
    "key": "anajirih2024alchemilla",
    "type": "article",
@@ -1154,6 +1181,34 @@
    ],
    "scientific": [
     "Arctostaphylos uva-ursi"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0737",
+   "key": "zhang2024astragaluscolitis",
+   "type": "article",
+   "title": "Astragalus polysaccharides alleviate DSS-induced ulcerative colitis in mice by restoring SCFA production and regulating Th17/Treg cell homeostasis in a microbiota-dependent manner",
+   "authors": "Zhang, Y., Ji, W., Qin, H., Chen, Z., Zhou, Y. et al.",
+   "journal": "Carbohydrate Polymers",
+   "year": "2024",
+   "doi": "10.1016/j.carbpol.2024.122829",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.carbpol.2024.122829",
+   "link_type": "doi",
+   "citation": "Zhang, Y., Ji, W., Qin, H., Chen, Z., Zhou, Y. et al (2024) 'Astragalus polysaccharides alleviate DSS-induced ulcerative colitis in mice by restoring SCFA production and regulating Th17/Treg cell homeostasis in a microbiota-dependent manner', Carbohydrate Polymers, 349, pp. 122829. doi:10.1016/j.carbpol.2024.122829",
+   "abstract": "Astragalus polysaccharides (APS) ameliorated colonic injury and gut microbiota disruption and restored intestinal immune homeostasis in mice with DSS-induced colitis. APS increased SCFA-producing microbiota and SCFA production, dually inhibited NF-kappaB activation via the TLR4 and HDAC3 pathways and improved the Th17/Treg balance, indicating APS is a promising prebiotic agent that ameliorates colitis in a gut-microbiota-dependent manner.",
+   "tier": "preclinical",
+   "display": "Astragalus polysaccharides alleviate DSS-induced ulcerative colitis in mice by restoring SCFA production and regulating Th17/Treg cell homeostasis in a microbiota-dependent manner",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
    ],
    "actions": [],
    "conditions": []
@@ -1398,6 +1453,62 @@
     "PMS / premenstrual syndrome",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-0725",
+   "key": "toma2024arnica",
+   "type": "article",
+   "title": "Effects of Arnica montana Phytotherapeutic and Homeopathic Formulations on Traumatic Injuries and Inflammatory Conditions: A Systematic Review",
+   "authors": "Toma, C.C., Marrelli, M., Puticiu, M., Conforti, F. and Statti, G.",
+   "journal": "Plants (Basel)",
+   "year": "2024",
+   "doi": "10.3390/plants13213112",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants13213112",
+   "link_type": "doi",
+   "citation": "Toma, C.C., Marrelli, M., Puticiu, M., Conforti, F. and Statti, G (2024) 'Effects of Arnica montana Phytotherapeutic and Homeopathic Formulations on Traumatic Injuries and Inflammatory Conditions: A Systematic Review', Plants (Basel), 13(21), pp. 3112. doi:10.3390/plants13213112",
+   "abstract": "Arnica montana (Asteraceae) shows antioxidant, anti-inflammatory, antibacterial, antifungal and antitumor effects, and its formulations are mainly used for pain management. This systematic review summarizes studies on the use of Arnica products on pain and inflammatory signs due to traumatic injuries related to sport and surgical interventions as well as to arthritis and other inflammatory conditions. 42 eligible papers focusing on both Arnica alone and mixed formulations were selected, critically discussing in vitro, in vivo and clinical studies and reporting both positive and negative outcomes.",
+   "tier": "review",
+   "display": "Effects of Arnica montana Phytotherapeutic and Homeopathic Formulations on Traumatic Injuries and Inflammatory Conditions: A Systematic Review",
+   "plants": [
+    "Arnica",
+    "Leopard's bane",
+    "Mountain arnica",
+    "Mountain tobacco",
+    "Wolf's bane"
+   ],
+   "scientific": [
+    "Arnica montana"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0729",
+   "key": "wubuli2024absinthium",
+   "type": "article",
+   "title": "Exploring anti-inflammatory and antioxidant-related quality markers of Artemisia absinthium L. based on spectrum-effect relationship",
+   "authors": "Wubuli, A., Abdulla, R., Zhao, J., Wu, T. and Aisa, H.A.",
+   "journal": "Phytochemical Analysis",
+   "year": "2024",
+   "doi": "10.1002/pca.3350",
+   "url": "",
+   "link": "https://doi.org/10.1002/pca.3350",
+   "link_type": "doi",
+   "citation": "Wubuli, A., Abdulla, R., Zhao, J., Wu, T. and Aisa, H.A (2024) 'Exploring anti-inflammatory and antioxidant-related quality markers of Artemisia absinthium L. based on spectrum-effect relationship', Phytochemical Analysis, 35(5), pp. 1152-1173. doi:10.1002/pca.3350",
+   "abstract": "Artemisia absinthium L. has a long history of use in treating liver inflammation and other diseases. Different batches of A. absinthium extracts possessed significant anti-inflammatory (inhibition of COX-2, 15-lipoxygenase and nitric oxide release in LPS-induced BV-2 cells) and antioxidant (DPPH, ABTS) activities. Chlorogenic acid, isochlorogenic acid A and isochlorogenic acid C were screened as the most promising active compounds and validated for their anti-inflammatory effects, providing quality markers for the herb.",
+   "tier": "preclinical",
+   "display": "Exploring anti-inflammatory and antioxidant-related quality markers of Artemisia absinthium L. based on spectrum-effect relationship",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0346",
@@ -1968,6 +2079,34 @@
    ]
   },
   {
+   "ref_id": "REF-0739",
+   "key": "xu2024astragaloside",
+   "type": "article",
+   "title": "Total biosynthesis of the medicinal triterpenoid saponin astragalosides",
+   "authors": "Xu, B., Huang, J.P., Peng, G., Cao, W., Liu, Z. et al.",
+   "journal": "Nature Plants",
+   "year": "2024",
+   "doi": "10.1038/s41477-024-01827-4",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41477-024-01827-4",
+   "link_type": "doi",
+   "citation": "Xu, B., Huang, J.P., Peng, G., Cao, W., Liu, Z. et al (2024) 'Total biosynthesis of the medicinal triterpenoid saponin astragalosides', Nature Plants, 10(11), pp. 1826-1837. doi:10.1038/s41477-024-01827-4",
+   "abstract": "Astragalus membranaceus has been used in traditional Chinese medicine for over 2,000 years, and its major active triterpenoid saponins, astragalosides, have multiple health benefits. A chromosome-level genome assembly enabled discovery of a triterpenoid biosynthetic gene cluster and elucidation of the complete astragaloside biosynthetic pathway (selective hydroxylation, epoxidation and glycosylation by P450s, a dioxygenase and glycosyltransferases), and heterologous production of astragaloside IV, providing a foundation for addressing sourcing of these medicinal saponins.",
+   "tier": "preclinical",
+   "display": "Total biosynthesis of the medicinal triterpenoid saponin astragalosides",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0516",
    "key": "he2023acorus",
    "type": "article",
@@ -2084,6 +2223,62 @@
    "conditions": [
     "Cardiovascular / heart health"
    ]
+  },
+  {
+   "ref_id": "REF-0726",
+   "key": "schmidt2023arnica",
+   "type": "article",
+   "title": "Arnica montana L.: Doesn't Origin Matter?",
+   "authors": "Schmidt, T.J.",
+   "journal": "Plants (Basel)",
+   "year": "2023",
+   "doi": "10.3390/plants12203532",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants12203532",
+   "link_type": "doi",
+   "citation": "Schmidt, T.J (2023) 'Arnica montana L.: Doesn't Origin Matter?', Plants (Basel), 12(20), pp. 3532. doi:10.3390/plants12203532",
+   "abstract": "Arnica montana L. has a long tradition in Europe as herbal medicine; Arnica flowers are monographed in the European Pharmacopoeia and a EU herbal monograph recommends topical use to treat blunt injuries and traumas, inflammations and rheumatic muscle and joint complaints. The main bioactive constituents are sesquiterpene lactones of the helenanolide type (esters of helenalin and 11alpha,13-dihydrohelenalin), which are the main active principles responsible for the drug's anti-inflammatory efficacy. The review summarizes botanical, phytochemical and pharmacological evidence, including chemotype differences by geographic origin.",
+   "tier": "traditional",
+   "display": "Arnica montana L.: Doesn't Origin Matter?",
+   "plants": [
+    "Arnica",
+    "Leopard's bane",
+    "Mountain arnica",
+    "Mountain tobacco",
+    "Wolf's bane"
+   ],
+   "scientific": [
+    "Arnica montana"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0730",
+   "key": "rashidi2023absinthium",
+   "type": "article",
+   "title": "Artemisia absinthium Extract Attenuates the Quinolinic Acid-Induced Cell Injury in OLN-93 Cells",
+   "authors": "Rashidi, R., Akaberi, M., Gholoobi, A., Ghazavi, H. and Forouzanfar, F.",
+   "journal": "Current Drug Discovery Technologies",
+   "year": "2023",
+   "doi": "10.2174/1570163820666230330105331",
+   "url": "",
+   "link": "https://doi.org/10.2174/1570163820666230330105331",
+   "link_type": "doi",
+   "citation": "Rashidi, R., Akaberi, M., Gholoobi, A., Ghazavi, H. and Forouzanfar, F (2023) 'Artemisia absinthium Extract Attenuates the Quinolinic Acid-Induced Cell Injury in OLN-93 Cells', Current Drug Discovery Technologies, 20(4), pp. e300323215213. doi:10.2174/1570163820666230330105331",
+   "abstract": "Quinolinic acid (QA) accumulation is found in many neurodegenerative diseases. Artemisia absinthium has neuroprotective and antioxidant activities. In OLN-93 cells, pretreatment with A. absinthium extract prevented the loss of cell viability and reduced reactive oxygen species generation, lipid peroxidation and apoptosis in QA-injured cells, exerting a neuroprotective effect via oxidative stress and apoptosis modulation.",
+   "tier": "preclinical",
+   "display": "Artemisia absinthium Extract Attenuates the Quinolinic Acid-Induced Cell Injury in OLN-93 Cells",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0397",
@@ -3839,6 +4034,33 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0731",
+   "key": "liu2022artemvulgaris",
+   "type": "article",
+   "title": "Sesquiterpenoids and triterpenoids with anti-inflammatory effects from Artemisia vulgaris L.",
+   "authors": "Liu, T., Chen, X., Hu, Y., Li, M., Wu, Y. et al.",
+   "journal": "Phytochemistry",
+   "year": "2022",
+   "doi": "10.1016/j.phytochem.2022.113428",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2022.113428",
+   "link_type": "doi",
+   "citation": "Liu, T., Chen, X., Hu, Y., Li, M., Wu, Y. et al (2022) 'Sesquiterpenoids and triterpenoids with anti-inflammatory effects from Artemisia vulgaris L', Phytochemistry, 204, pp. 113428. doi:10.1016/j.phytochem.2022.113428",
+   "abstract": "Eight undescribed sesquiterpenoids and two undescribed triterpenoids, together with thirteen known terpenoids, were isolated from the leaves of Artemisia vulgaris L. All isolates were evaluated for anti-inflammatory efficacy by detecting the inflammatory mediator NO in LPS-induced RAW264.7 cells; artemvulactone E exhibited a significant anti-inflammatory effect and dose-dependently reduced LPS-induced COX-2 protein expression.",
+   "tier": "preclinical",
+   "display": "Sesquiterpenoids and triterpenoids with anti-inflammatory effects from Artemisia vulgaris L.",
+   "plants": [
+    "Mugwort",
+    "common mugwort",
+    "sailor's tobacco"
+   ],
+   "scientific": [
+    "Artemisia vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0498",
@@ -5729,6 +5951,33 @@
     "Muscle spasm",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-0728",
+   "key": "batiha2020wormwood",
+   "type": "article",
+   "title": "Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Wormwood (Artemisia absinthium)",
+   "authors": "Batiha, G.E.S., Olatunde, A., El-Mleeh, A., Hetta, H.F., Al-Rejaie, S. et al.",
+   "journal": "Antibiotics (Basel)",
+   "year": "2020",
+   "doi": "10.3390/antibiotics9060353",
+   "url": "",
+   "link": "https://doi.org/10.3390/antibiotics9060353",
+   "link_type": "doi",
+   "citation": "Batiha, G.E.S., Olatunde, A., El-Mleeh, A., Hetta, H.F., Al-Rejaie, S. et al (2020) 'Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Wormwood (Artemisia absinthium)', Antibiotics (Basel), 9(6), pp. 353. doi:10.3390/antibiotics9060353",
+   "abstract": "Artemisia absinthium is a perennial shrubby plant widely used to treat several ailments. Traditionally it has been used for hepatitis, gastritis, jaundice, wound healing, dyspepsia, indigestion, flatulence, gastric pain, anemia and anorexia, and it possesses antioxidant, antifungal, antimicrobial, anthelmintic, anti-ulcer, hepatoprotective, neuroprotective, antidepressant, analgesic and immunomodulatory activity. Long-term use of the essential oil may be toxic (thujone). The review examines its phytoconstituents and biological activities.",
+   "tier": "traditional",
+   "display": "Bioactive Compounds, Pharmacological Actions, and Pharmacokinetics of Wormwood (Artemisia absinthium)",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0706",
@@ -8582,6 +8831,33 @@
    ]
   },
   {
+   "ref_id": "REF-0733",
+   "key": "abiri2018vulgaris",
+   "type": "article",
+   "title": "Towards a better understanding of Artemisia vulgaris: Botany, phytochemistry, pharmacological and biotechnological potential",
+   "authors": "Abiri, R., Silva, A.L.M., de Mesquita, L.S.S., de Mesquita, J.W.C., Atabaki, N. et al.",
+   "journal": "Food Research International",
+   "year": "2018",
+   "doi": "10.1016/j.foodres.2018.03.072",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodres.2018.03.072",
+   "link_type": "doi",
+   "citation": "Abiri, R., Silva, A.L.M., de Mesquita, L.S.S., de Mesquita, J.W.C., Atabaki, N. et al (2018) 'Towards a better understanding of Artemisia vulgaris: Botany, phytochemistry, pharmacological and biotechnological potential', Food Research International, 109, pp. 403-415. doi:10.1016/j.foodres.2018.03.072",
+   "abstract": "Artemisia vulgaris has a long history in the treatment of human ailments and possesses a broad spectrum of therapeutic properties including anti-malarial, anti-inflammatory, anti-hypertensive, antioxidant, anti-tumoral, immunomodulatory, hepatoprotective, anti-spasmodic and anti-septic activities. These are mainly attributed to flavonoids, sesquiterpene lactones, coumarins, acetylenes, phenolic acids and mono- and sesquiterpenes. The review highlights recent reports on the chemistry, biological activities and biotechnological production of bioactive compounds from this species.",
+   "tier": "traditional",
+   "display": "Towards a better understanding of Artemisia vulgaris: Botany, phytochemistry, pharmacological and biotechnological potential",
+   "plants": [
+    "Mugwort",
+    "common mugwort",
+    "sailor's tobacco"
+   ],
+   "scientific": [
+    "Artemisia vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0183",
    "key": "nicolaus2017double",
    "type": "article",
@@ -9079,6 +9355,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-0734",
+   "key": "warashina2017asclepias",
+   "type": "article",
+   "title": "New 8,12;8,20-diepoxy-8,14-secopregnane hexa- and hepta-glycosides from the roots of Asclepias tuberosa",
+   "authors": "Warashina, T. and Miyase, T.",
+   "journal": "Journal of Natural Medicines",
+   "year": "2017",
+   "doi": "10.1007/s11418-017-1155-9",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11418-017-1155-9",
+   "link_type": "doi",
+   "citation": "Warashina, T. and Miyase, T (2017) 'New 8,12;8,20-diepoxy-8,14-secopregnane hexa- and hepta-glycosides from the roots of Asclepias tuberosa', Journal of Natural Medicines, 72(1), pp. 347-356. doi:10.1007/s11418-017-1155-9",
+   "abstract": "Phytochemical investigation of the roots of Asclepias tuberosa (Asclepiadaceae) afforded eight new minor 8,12;8,20-diepoxy-8,14-secopregnane glycosides consisting of six or seven 2,6-dideoxy-hexopyranoses together with the aglycone tuberogenin. The structures were established using NMR, mass spectrometry and chemical evidence. These secopregnane-type glycosides, observed only in A. tuberosa, are considered characteristic phytochemicals of this plant (pleurisy root).",
+   "tier": "preclinical",
+   "display": "New 8,12;8,20-diepoxy-8,14-secopregnane hexa- and hepta-glycosides from the roots of Asclepias tuberosa",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0369",
    "key": "ali2017pharmacognosy",
    "type": "article",
@@ -9122,6 +9426,35 @@
     "Loss of appetite",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0727",
+   "key": "dragos2017phytomedicine",
+   "type": "article",
+   "title": "Phytomedicine in Joint Disorders",
+   "authors": "Dragos, D., Gilca, M., Gaman, L., Vlad, A., Iosif, L. et al.",
+   "journal": "Nutrients",
+   "year": "2017",
+   "doi": "10.3390/nu9010070",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu9010070",
+   "link_type": "doi",
+   "citation": "Dragos, D., Gilca, M., Gaman, L., Vlad, A., Iosif, L. et al (2017) 'Phytomedicine in Joint Disorders', Nutrients, 9(1), pp. 70. doi:10.3390/nu9010070",
+   "abstract": "Chronic joint inflammatory disorders such as osteoarthritis and rheumatoid arthritis share an upsurge of inflammation and oxidative stress. Medicinal plants are a promising alternative to conventional medication, with a lower rate of adverse events and efficiency frequently comparable to conventional drugs. This review summarizes the available scientific information on joint-friendly medicinal plants tested in human studies, among them Arnica montana, used topically for inflammatory and rheumatic joint complaints.",
+   "tier": "traditional",
+   "display": "Phytomedicine in Joint Disorders",
+   "plants": [
+    "Arnica",
+    "Leopard's bane",
+    "Mountain arnica",
+    "Mountain tobacco",
+    "Wolf's bane"
+   ],
+   "scientific": [
+    "Arnica montana"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0285",
@@ -9649,6 +9982,34 @@
     "Insomnia / sleeplessness",
     "Nervous tension"
    ]
+  },
+  {
+   "ref_id": "REF-0736",
+   "key": "auyeung2016astragalus",
+   "type": "article",
+   "title": "Astragalus membranaceus: A Review of its Protection Against Inflammation and Gastrointestinal Cancers",
+   "authors": "Auyeung, K.K., Han, Q.B. and Ko, J.K.",
+   "journal": "The American Journal of Chinese Medicine",
+   "year": "2016",
+   "doi": "10.1142/S0192415X16500014",
+   "url": "",
+   "link": "https://doi.org/10.1142/S0192415X16500014",
+   "link_type": "doi",
+   "citation": "Auyeung, K.K., Han, Q.B. and Ko, J.K (2016) 'Astragalus membranaceus: A Review of its Protection Against Inflammation and Gastrointestinal Cancers', The American Journal of Chinese Medicine, 44(1), pp. 1-22. doi:10.1142/S0192415X16500014",
+   "abstract": "Astragalus membranaceus is a major medicinal herb used in traditional Chinese medicine. Its major components are polysaccharides, flavonoids and saponins, and contemporary use focuses on immunomodulating, antioxidant, anti-inflammatory and anticancer effects. The review discusses how Astragalus and its saponins influence the immune system, modulate cancer signaling pathways and protect against gastrointestinal inflammation and cancers, and how it ameliorates the toxicity of concurrently administered orthodox drugs.",
+   "tier": "traditional",
+   "display": "Astragalus membranaceus: A Review of its Protection Against Inflammation and Gastrointestinal Cancers",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0101",
@@ -20880,6 +21241,34 @@
    ]
   },
   {
+   "ref_id": "REF-0738",
+   "key": "abe2000asclepias",
+   "type": "article",
+   "title": "An androstane bioside and 3'-thiazolidinone derivatives of doubly-linked cardenolide glycosides from the roots of Asclepias tuberosa",
+   "authors": "Abe, F. and Yamauchi, T.",
+   "journal": "Chemical & Pharmaceutical Bulletin",
+   "year": "2000",
+   "doi": "10.1248/cpb.48.991",
+   "url": "",
+   "link": "https://doi.org/10.1248/cpb.48.991",
+   "link_type": "doi",
+   "citation": "Abe, F. and Yamauchi, T (2000) 'An androstane bioside and 3'-thiazolidinone derivatives of doubly-linked cardenolide glycosides from the roots of Asclepias tuberosa', Chemical & Pharmaceutical Bulletin, 48(7), pp. 991-993. doi:10.1248/cpb.48.991",
+   "abstract": "Steroidal compounds in the roots of Asclepias tuberosa were investigated. A new androstane glycoside termed ascandroside was isolated, along with doubly-linked cardenolide glycosides including 3'-spiro-linked thiazolidinone and S-oxythiazolidinone derivatives of delta5-calotropin, and nine glycosides of uzarigenin, coroglaucigenin and corotoxigenin. The work characterises the cardenolide (cardiac glycoside) chemistry that underlies the pharmacology and toxicity of pleurisy root.",
+   "tier": "preclinical",
+   "display": "An androstane bioside and 3'-thiazolidinone derivatives of doubly-linked cardenolide glycosides from the roots of Asclepias tuberosa",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0543",
    "key": "grossmann2000petasites",
    "type": "article",
@@ -22636,6 +23025,34 @@
    ],
    "scientific": [
     "Achillea millefolium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0735",
+   "key": "lockwood1848asclepias",
+   "type": "article",
+   "title": "Asclepias Tuberosa, Butterfly-Weed, Milk-Weed, Pleurisy Root, White Root",
+   "authors": "Lockwood, T.L.",
+   "journal": "The Medical Examiner (Philadelphia)",
+   "year": "1848",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/38120955/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/38120955/",
+   "link_type": "url",
+   "citation": "Lockwood, T.L (1848) 'Asclepias Tuberosa, Butterfly-Weed, Milk-Weed, Pleurisy Root, White Root', The Medical Examiner (Philadelphia), 4(42), pp. 367-368. Available at: https://pubmed.ncbi.nlm.nih.gov/38120955/",
+   "abstract": "A 19th-century North American materia-medica account of Asclepias tuberosa (butterfly weed, pleurisy root, white root), documenting its long-standing traditional use as a diaphoretic and expectorant remedy for pleurisy and respiratory complaints.",
+   "tier": "traditional",
+   "display": "Asclepias Tuberosa, Butterfly-Weed, Milk-Weed, Pleurisy Root, White Root",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
    ],
    "actions": [],
    "conditions": []

@@ -124,13 +124,19 @@ contraindications:
   reference_ids:
   - REF-0402
   status: needs-review
+references:
+- REF-0739
+- REF-0736
+- REF-0737
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
   of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
   Cochrane review of Astragalus as an adjunct in chronic kidney disease (REF-0586; reduced proteinuria
   and raised haemoglobin/serum albumin, but low study quality precludes firm conclusions). | 2026-06-15:
-  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
+  | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment):
+  REF-0739, REF-0736, REF-0737.'

@@ -74,6 +74,21 @@ def citekey_to_ref(text):
     return out
 
 
+def _norm_doi(d):
+    return re.sub(r"^https?://(dx\.)?doi\.org/", "", (d or "").strip().lower())
+
+
+def doi_to_ref(text):
+    out = {}
+    for m in re.finditer(r"@\w+\s*\{\s*[^,\s]+\s*,(.*?)(?=\n@|\Z)", text, re.S):
+        body = m.group(1)
+        dm = re.search(r"doi\s*=\s*\{([^}]*)\}", body)
+        rm = re.search(r"REF-\d{4,}", body)
+        if dm and rm and dm.group(1).strip():
+            out[_norm_doi(dm.group(1))] = rm.group(0)
+    return out
+
+
 def max_ref(text):
     ids = [int(x) for x in re.findall(r"REF-(\d{4,})", text)]
     return max(ids) if ids else 0
@@ -102,20 +117,29 @@ def apply(sources):
     bib = open(BIB, encoding="utf-8").read()
     have = existing_citekeys(bib)
     c2r = citekey_to_ref(bib)
+    d2r = doi_to_ref(bib)
     nextid = max_ref(bib) + 1
 
     appended = []
+    warnings = []
     plant_refs = {}   # plant stem -> [ref_id,...] in source order
     for s in sources:
         ck = s["citekey"]
+        doi = _norm_doi(s.get("fields", {}).get("doi", ""))
         if ck in have:
             ref_id = c2r.get(ck)
+            warnings.append("citekey already in bib (reused, NOT new): %s -> %s" % (ck, ref_id))
+        elif doi and doi in d2r:
+            ref_id = d2r[doi]
+            warnings.append("DOI already in bib (reused, NOT new): %s -> %s [%s]" % (doi, ref_id, ck))
         else:
             ref_id = "REF-%04d" % nextid
             nextid += 1
             appended.append(fmt_entry(ck, ref_id, s["study_type"], s["fields"], s.get("abstract", "")))
             have.add(ck)
             c2r[ck] = ref_id
+            if doi:
+                d2r[doi] = ref_id
         plant_refs.setdefault(s["plant"], [])
         if ref_id not in plant_refs[s["plant"]]:
             plant_refs[s["plant"]].append(ref_id)
@@ -150,4 +174,8 @@ def apply(sources):
     print("bibliography: %d new entries appended (next id now REF-%04d)" % (len(appended), nextid))
     for stem, refs in changed_plants:
         print("  %-32s + %s" % (stem, ", ".join(refs)))
+    if warnings:
+        print("WARNINGS (%d) — review, these are NOT newly-added sources:" % len(warnings))
+        for w in warnings:
+            print("  ! " + w)
     return changed_plants

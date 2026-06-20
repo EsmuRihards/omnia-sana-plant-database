@@ -4153,9 +4153,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-0725",
+    "REF-0726",
+    "REF-0727"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "artemisia-absinthium",
@@ -4362,9 +4367,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0728",
+    "REF-0729",
+    "REF-0730"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "artemisia-vulgaris",
@@ -4560,9 +4570,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0731",
+    "REF-0732",
+    "REF-0733"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "asclepias-tuberosa",
@@ -4719,9 +4734,14 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0734",
+    "REF-0738",
+    "REF-0735"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "astragalus-membranaceus",
@@ -4914,9 +4934,14 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0739",
+    "REF-0736",
+    "REF-0737"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "bacopa-monnieri",

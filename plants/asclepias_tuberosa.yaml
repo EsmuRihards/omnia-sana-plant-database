@@ -102,13 +102,19 @@ contraindications:
   reference_ids:
   - REF-0495
   status: verified
+references:
+- REF-0734
+- REF-0738
+- REF-0735
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from general herbal literature (traditional monographs). Record status
   set to needs-review because Asclepias tuberosa contains cardiac glycosides and has essentially no modern
   clinical evidence. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (bronchitis, cough, fever); associations retained and now part-mapped and cited. Further enriched 2026-06-14
   with a PubMed-sourced clinical case report of corneal toxicity from A. tuberosa latex (REF-0626), reinforcing
   the cardiac-glycoside safety caution; efficacy evidence remains essentially absent. | 2026-06-15: migrated
-  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0734,
+  REF-0738, REF-0735.'

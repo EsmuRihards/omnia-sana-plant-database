@@ -132,9 +132,13 @@ contraindications:
   reference_ids:
   - REF-0515
   status: verified
+references:
+- REF-0716
+- REF-0717
+- REF-0718
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Applied Toxicology asarone
   toxicology review; Phytochemistry systematic review). Record status set to needs-review because beta-asarone
   carries documented carcinogenicity and regulatory restrictions. Originally a skeleton imported from
@@ -142,4 +146,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Appl
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced review of
   Acorus calamus in neurological and metabolic disorders (REF-0624) supporting the preclinical nervine/neuroprotective
   activity. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
+  bucket (least-cited enrichment): REF-0716, REF-0717, REF-0718.'

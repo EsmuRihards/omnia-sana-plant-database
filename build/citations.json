@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 709,
+ "count": 724,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -32,6 +32,34 @@
    ],
    "scientific": [
     "Taraxacum officinale"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0710",
+   "key": "saparkhanovich2026elymus",
+   "type": "article",
+   "title": "Elymus repens (L.) Gould: Phytochemistry, Pharmacological Activities and Therapeutic Potential with Future Perspectives",
+   "authors": "Zhakipbekov, K.S., Serikbayeva, E.A., Tleubayeva, M.I. et al.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2026",
+   "doi": "10.3390/ijms27114928",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms27114928",
+   "link_type": "doi",
+   "citation": "Zhakipbekov, K.S., Serikbayeva, E.A., Tleubayeva, M.I. et al (2026) 'Elymus repens (L.) Gould: Phytochemistry, Pharmacological Activities and Therapeutic Potential with Future Perspectives', International Journal of Molecular Sciences, 27(11), pp. 4928. doi:10.3390/ijms27114928",
+   "abstract": "Elymus repens (L.) Gould, commonly known as couch grass, is mainly distributed as a medicinal herb of great ethnopharmacological importance. This review presents the significance of nomenclature clarity, current insights on distribution, traditional use, phytochemistry and their biological activities. The bioactive compound composition displayed a variety of compounds including carbohydrates, phenolic acids, flavonoids, benzoxazinoids and volatile compounds, all of which contribute to its medicinal properties. The biological potential of this plant underlines diuretic, antiurolithiatic, anti-inflammatory, antioxidant and antidiabetic qualities. The reported data notably confirmed its potential in lowering renal calculi and alleviating associated symptoms.",
+   "tier": "traditional",
+   "display": "Elymus repens (L.) Gould: Phytochemistry, Pharmacological Activities and Therapeutic Potential with Future Perspectives",
+   "plants": [
+    "Couch Grass",
+    "Dog grass",
+    "Quack grass",
+    "Twitch grass"
+   ],
+   "scientific": [
+    "Elymus repens"
    ],
    "actions": [],
    "conditions": []
@@ -464,6 +492,35 @@
     "Muscle soreness",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-0719",
+   "key": "debia2025goutweed",
+   "type": "article",
+   "title": "Goutweed (Aegopodium podagraria L.): An Edible Weed with Health-Promoting Properties",
+   "authors": "Dębia, K., Dzięcioł, M., Wróblewska, A. and Janda-Milczarek, K.",
+   "journal": "Molecules",
+   "year": "2025",
+   "doi": "10.3390/molecules30071603",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules30071603",
+   "link_type": "doi",
+   "citation": "Dębia, K., Dzięcioł, M., Wróblewska, A. and Janda-Milczarek, K (2025) 'Goutweed (Aegopodium podagraria L.): An Edible Weed with Health-Promoting Properties', Molecules, 30(7), pp. 1603. doi:10.3390/molecules30071603",
+   "abstract": "Goutweed (Aegopodium podagraria L.) is a medicinal perennial in the celery family (Apiaceae), also an edible plant of high nutritional value. In traditional folk medicine it was known as a remedy for gout (arthritis) and used to relieve rheumatism or sciatica. Specific metabolites include organic acids, flavonoids, coumarins, polyacetylenes and terpene components of essential oil. Its valuable medicinal properties include anti-inflammatory, antirheumatic, antioxidant, antibacterial, antifungal, diuretic, sedative and protective effects on the kidneys and liver.",
+   "tier": "traditional",
+   "display": "Goutweed (Aegopodium podagraria L.): An Edible Weed with Health-Promoting Properties",
+   "plants": [
+    "Ground Elder",
+    "bishop's weed",
+    "gout wort",
+    "goutweed",
+    "snow-in-the-mountain"
+   ],
+   "scientific": [
+    "Aegopodium podagraria"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0532",
@@ -2444,6 +2501,33 @@
    ]
   },
   {
+   "ref_id": "REF-0724",
+   "key": "zeng2023arctium",
+   "type": "article",
+   "title": "Immune regulation and inflammation inhibition of Arctium lappa L. polysaccharides by TLR4/NF-κB signaling pathway in cells",
+   "authors": "Zeng, F., Li, Y., Zhang, X., Shen, L., Zhao, X. et al.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2023",
+   "doi": "10.1016/j.ijbiomac.2023.127700",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2023.127700",
+   "link_type": "doi",
+   "citation": "Zeng, F., Li, Y., Zhang, X., Shen, L., Zhao, X. et al (2023) 'Immune regulation and inflammation inhibition of Arctium lappa L. polysaccharides by TLR4/NF-κB signaling pathway in cells', International Journal of Biological Macromolecules, 254, pp. 127700. doi:10.1016/j.ijbiomac.2023.127700",
+   "abstract": "Arctium lappa L. polysaccharides (ALP) are important active ingredients of burdock roots. A crude polysaccharide was extracted and purified to 99% purity, and its immunomodulatory activity and intestinal anti-inflammatory effects were investigated in LPS-induced RAW264.7 macrophages and IL-1beta-induced Caco-2 colon cells. ALP possessed both antioxidant and anti-inflammatory effects, inhibiting pro-inflammatory cytokines (IL-8, IL-6, IL-1beta, TNF-alpha) by down-regulating the TLR4/NF-kappaB signaling pathway, indicating burdock as a source of bioactive polysaccharides for immune support.",
+   "tier": "preclinical",
+   "display": "Immune regulation and inflammation inhibition of Arctium lappa L. polysaccharides by TLR4/NF-κB signaling pathway in cells",
+   "plants": [
+    "Common burdock",
+    "Lesser Burdock",
+    "Wild rhubarb"
+   ],
+   "scientific": [
+    "Arctium minus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0088",
    "key": "fernandes2023fernandes",
    "type": "article",
@@ -3240,6 +3324,62 @@
    ]
   },
   {
+   "ref_id": "REF-0720",
+   "key": "engelhardt2022aegopodium",
+   "type": "article",
+   "title": "Edible Wild Vegetables Urtica dioica L. and Aegopodium podagraria L.: Antioxidants Affected by Processing",
+   "authors": "Engelhardt, L., Pöhnl, T. and Neugart, S.",
+   "journal": "Plants (Basel)",
+   "year": "2022",
+   "doi": "10.3390/plants11202710",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants11202710",
+   "link_type": "doi",
+   "citation": "Engelhardt, L., Pöhnl, T. and Neugart, S (2022) 'Edible Wild Vegetables Urtica dioica L. and Aegopodium podagraria L.: Antioxidants Affected by Processing', Plants (Basel), 11(20), pp. 2710. doi:10.3390/plants11202710",
+   "abstract": "Urtica dioica L. and Aegopodium podagraria L. (stinging nettle and ground elder) are edible wild green vegetables rich in bioactive and antioxidant polyphenols, vitamins and minerals. Antioxidant activity assays (TEAC, DPPH, TPC) combined with HPLC were used to qualify and quantify their chemical compositions. Drying methods affected antioxidant activity, and cooking increased antioxidant activity due to higher concentrations of bioactive compounds released through rupture of cell structures.",
+   "tier": "preclinical",
+   "display": "Edible Wild Vegetables Urtica dioica L. and Aegopodium podagraria L.: Antioxidants Affected by Processing",
+   "plants": [
+    "Ground Elder",
+    "bishop's weed",
+    "gout wort",
+    "goutweed",
+    "snow-in-the-mountain"
+   ],
+   "scientific": [
+    "Aegopodium podagraria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0715",
+   "key": "barbieri2022rubus",
+   "type": "article",
+   "title": "Effects of Rubus fruticosus and Juniperus oxycedrus derivatives on culturability and viability of Listeria monocytogenes",
+   "authors": "Barbieri, F., Montanari, C., Šimat, V., Skroza, D., Čagalj, M. et al.",
+   "journal": "Scientific Reports",
+   "year": "2022",
+   "doi": "10.1038/s41598-022-17408-4",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41598-022-17408-4",
+   "link_type": "doi",
+   "citation": "Barbieri, F., Montanari, C., Šimat, V., Skroza, D., Čagalj, M. et al (2022) 'Effects of Rubus fruticosus and Juniperus oxycedrus derivatives on culturability and viability of Listeria monocytogenes', Scientific Reports, 12(1), pp. 13158. doi:10.1038/s41598-022-17408-4",
+   "abstract": "Phenolic extracts and essential oils obtained from Mediterranean Rubus fruticosus leaves and Juniperus oxycedrus needles were evaluated for antimicrobial effects against Listeria monocytogenes. These plant derivatives affected the growth of L. monocytogenes, increasing the lag phase and decreasing the final cell load; R. fruticosus essential oil was the most effective, determining an initial decrease of cell counts of about 6 log cycles. The work highlights blackberry leaves as underused raw materials for food and other industries.",
+   "tier": "preclinical",
+   "display": "Effects of Rubus fruticosus and Juniperus oxycedrus derivatives on culturability and viability of Listeria monocytogenes",
+   "plants": [
+    "Blackberry Leaf",
+    "Bramble",
+    "European blackberry"
+   ],
+   "scientific": [
+    "Rubus fruticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0566",
    "key": "abdelmonem2022hibiscus",
    "type": "article",
@@ -3456,6 +3596,34 @@
     "Bloating",
     "Indigestion"
    ]
+  },
+  {
+   "ref_id": "REF-0711",
+   "key": "bortolami2022elymus",
+   "type": "article",
+   "title": "Metabolic Profile of Elymus repens (L.) P. Beauv. Rhizome Herbal Tea by HPLC-PDA-ESI-MS/MS Analysis",
+   "authors": "Bortolami, M., Di Matteo, P., Rocco, D., Feroci, M. and Petrucci, R.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27154962",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27154962",
+   "link_type": "doi",
+   "citation": "Bortolami, M., Di Matteo, P., Rocco, D., Feroci, M. and Petrucci, R (2022) 'Metabolic Profile of Elymus repens (L.) P. Beauv. Rhizome Herbal Tea by HPLC-PDA-ESI-MS/MS Analysis', Molecules, 27(15), pp. 4962. doi:10.3390/molecules27154962",
+   "abstract": "Elymus repens (couch grass) is a worldwide infesting rhizomatous plant with pharmacological applications. The aqueous extracts have been sparingly investigated, although the herbal tea is by far the most used formulation. The metabolic profile of the rhizome herbal tea was investigated by ESI-MS/MS and the phenolic profile by HPLC-PDA-ESI-MS/MS. The analysis evidenced at least 20 characteristic phenolic compounds, the most representative being caffeoyl and feruloyl quinic esters, followed by coumaric, caffeic and ferulic acids, and hesperidin among flavonoids.",
+   "tier": "preclinical",
+   "display": "Metabolic Profile of Elymus repens (L.) P. Beauv. Rhizome Herbal Tea by HPLC-PDA-ESI-MS/MS Analysis",
+   "plants": [
+    "Couch Grass",
+    "Dog grass",
+    "Quack grass",
+    "Twitch grass"
+   ],
+   "scientific": [
+    "Elymus repens"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0412",
@@ -3795,6 +3963,34 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0718",
+   "key": "ukkirapandian2022acorus",
+   "type": "article",
+   "title": "The Neuroprotective Role of Acorus calamus in Developmental and Histopathological Changes in Autism-Induced Wistar Rats",
+   "authors": "Ukkirapandian, K., Kayalvizhi, E., Udaykumar, K.P., Kandhi, S. and Muthulakshmi, R.",
+   "journal": "Cureus",
+   "year": "2022",
+   "doi": "10.7759/cureus.29717",
+   "url": "",
+   "link": "https://doi.org/10.7759/cureus.29717",
+   "link_type": "doi",
+   "citation": "Ukkirapandian, K., Kayalvizhi, E., Udaykumar, K.P., Kandhi, S. and Muthulakshmi, R (2022) 'The Neuroprotective Role of Acorus calamus in Developmental and Histopathological Changes in Autism-Induced Wistar Rats', Cureus, 14(9), pp. e29717. doi:10.7759/cureus.29717",
+   "abstract": "A rat model of autism was created by administering sodium valproate in pregnancy. Autism-induced pups treated with an ethanolic extract of Acorus calamus (200 mg/kg) were compared with untreated controls. Neurodegenerative changes were well appreciated in the untreated autism group, with significant reduction in frontal-cortex neurons and cerebellar Purkinje cells, whereas the A. calamus-treated group did not show significant alteration, suggesting A. calamus in the early postnatal period protects brain morphology against autism pathology.",
+   "tier": "preclinical",
+   "display": "The Neuroprotective Role of Acorus calamus in Developmental and Histopathological Changes in Autism-Induced Wistar Rats",
+   "plants": [
+    "Calamus",
+    "Sweet Flag",
+    "Sweet root",
+    "Sweet sedge"
+   ],
+   "scientific": [
+    "Acorus calamus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0542",
@@ -4156,6 +4352,35 @@
    ],
    "scientific": [
     "Arctostaphylos uva-ursi"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0721",
+   "key": "jakubczyk2021aegopodium",
+   "type": "article",
+   "title": "Bioactive Compounds in Aegopodium podagraria Leaf Extracts and Their Effects against Fluoride-Modulated Oxidative Stress in the THP-1 Cell Line",
+   "authors": "Jakubczyk, K., Łukomska, A., Czaplicki, S., Wajs-Bonikowska, A., Gutowska, I. et al.",
+   "journal": "Pharmaceuticals (Basel)",
+   "year": "2021",
+   "doi": "10.3390/ph14121334",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph14121334",
+   "link_type": "doi",
+   "citation": "Jakubczyk, K., Łukomska, A., Czaplicki, S., Wajs-Bonikowska, A., Gutowska, I. et al (2021) 'Bioactive Compounds in Aegopodium podagraria Leaf Extracts and Their Effects against Fluoride-Modulated Oxidative Stress in the THP-1 Cell Line', Pharmaceuticals (Basel), 14(12), pp. 1334. doi:10.3390/ph14121334",
+   "abstract": "Goutweed (Aegopodium podagraria L.) leaves contain polyacetylenes, essential oils, mono- and sesquiterpenes, vitamins, macro- and microelements and phenolic compounds. This study investigated the antioxidant properties of different goutweed leaf extracts and their effects on the THP-1 cell line. Ethanol extracts had a high content of polyphenols, polyacetylenes and essential oil and high antioxidant potential, with positive effects on antioxidant enzyme activity in cells under fluoride-induced oxidative stress.",
+   "tier": "preclinical",
+   "display": "Bioactive Compounds in Aegopodium podagraria Leaf Extracts and Their Effects against Fluoride-Modulated Oxidative Stress in the THP-1 Cell Line",
+   "plants": [
+    "Ground Elder",
+    "bishop's weed",
+    "gout wort",
+    "goutweed",
+    "snow-in-the-mountain"
+   ],
+   "scientific": [
+    "Aegopodium podagraria"
    ],
    "actions": [],
    "conditions": []
@@ -7490,6 +7715,34 @@
    ]
   },
   {
+   "ref_id": "REF-0717",
+   "key": "khwairakpam2018acorus",
+   "type": "article",
+   "title": "Acorus calamus: a bio-reserve of medicinal values",
+   "authors": "Khwairakpam, A.D., Damayenti, Y.D., Deka, A., Monisha, J., Roy, N.K. et al.",
+   "journal": "Journal of Basic and Clinical Physiology and Pharmacology",
+   "year": "2018",
+   "doi": "10.1515/jbcpp-2016-0132",
+   "url": "",
+   "link": "https://doi.org/10.1515/jbcpp-2016-0132",
+   "link_type": "doi",
+   "citation": "Khwairakpam, A.D., Damayenti, Y.D., Deka, A., Monisha, J., Roy, N.K. et al (2018) 'Acorus calamus: a bio-reserve of medicinal values', Journal of Basic and Clinical Physiology and Pharmacology, 29(2), pp. 107-122. doi:10.1515/jbcpp-2016-0132",
+   "abstract": "Acorus calamus, commonly known as sweet flag, is a rhizomatous plant whose leaves and rhizomes are used traditionally for arthritis, neuralgia, diarrhoea, dyspepsia, kidney and liver troubles, eczema, sinusitis, asthma, fevers and bronchitis. Biochemical analysis has revealed a large number of secondary metabolites responsible for its medicinal properties. The review summarises the ethno-medicinal uses, botanical description, phytochemical constituents, biological activity and molecular targets of the plant.",
+   "tier": "traditional",
+   "display": "Acorus calamus: a bio-reserve of medicinal values",
+   "plants": [
+    "Calamus",
+    "Sweet Flag",
+    "Sweet root",
+    "Sweet sedge"
+   ],
+   "scientific": [
+    "Acorus calamus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0690",
    "key": "afrasiabian2018aloysia",
    "type": "article",
@@ -8012,6 +8265,33 @@
    ]
   },
   {
+   "ref_id": "REF-0714",
+   "key": "monforte2018rubus",
+   "type": "article",
+   "title": "Evaluation of antioxidant, antiinflammatory, and gastroprotective properties of Rubus fruticosus L. fruit juice",
+   "authors": "Monforte, M.T., Smeriglio, A., Germanò, M.P., Pergolizzi, S., Circosta, C. and Galati, E.M.",
+   "journal": "Phytotherapy Research",
+   "year": "2018",
+   "doi": "10.1002/ptr.6078",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6078",
+   "link_type": "doi",
+   "citation": "Monforte, M.T., Smeriglio, A., Germanò, M.P., Pergolizzi, S., Circosta, C. and Galati, E.M (2018) 'Evaluation of antioxidant, antiinflammatory, and gastroprotective properties of Rubus fruticosus L. fruit juice', Phytotherapy Research, 32(7), pp. 1404-1414. doi:10.1002/ptr.6078",
+   "abstract": "The juice of R. fruticosus (RFJ) fruits, containing mainly anthocyanins such as cyanidin derivatives, phenolic acids and flavonoids, showed significant antioxidant activity in DPPH, TEAC, FRAP, ORAC and beta-carotene bleaching assays. In vivo studies showed that RFJ significantly inhibits carrageenan-induced paw oedema (63-71%) in rats and possesses anti-inflammatory effects, and RFJ pretreatment was able to prevent the ethanol-induced ulcerogenic (gastroprotective) effect in rats.",
+   "tier": "preclinical",
+   "display": "Evaluation of antioxidant, antiinflammatory, and gastroprotective properties of Rubus fruticosus L. fruit juice",
+   "plants": [
+    "Blackberry Leaf",
+    "Bramble",
+    "European blackberry"
+   ],
+   "scientific": [
+    "Rubus fruticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0657",
    "key": "benmiri2018cuminaflatoxin",
    "type": "article",
@@ -8147,6 +8427,33 @@
    ],
    "scientific": [
     "Pulmonaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-0722",
+   "key": "gao2018arctigenin",
+   "type": "article",
+   "title": "Overview of the anti-inflammatory effects, pharmacokinetic properties and clinical efficacies of arctigenin and arctiin from Arctium lappa L.",
+   "authors": "Gao, Q., Yang, M. and Zuo, Z.",
+   "journal": "Acta Pharmacologica Sinica",
+   "year": "2018",
+   "doi": "10.1038/aps.2018.32",
+   "url": "",
+   "link": "https://doi.org/10.1038/aps.2018.32",
+   "link_type": "doi",
+   "citation": "Gao, Q., Yang, M. and Zuo, Z (2018) 'Overview of the anti-inflammatory effects, pharmacokinetic properties and clinical efficacies of arctigenin and arctiin from Arctium lappa L', Acta Pharmacologica Sinica, 39(5), pp. 787-801. doi:10.1038/aps.2018.32",
+   "abstract": "Arctigenin and its glycoside arctiin are two major active ingredients of Arctium lappa L., a popular medicinal herb and health supplement frequently used in Asia. This article reviews their anti-inflammatory effects, pharmacokinetics and clinical efficacies. Arctigenin exhibits potent anti-inflammatory activities by inhibiting iNOS via modulation of several cytokines and may serve as a potential therapeutic compound against acute inflammation and various chronic diseases.",
+   "tier": "traditional",
+   "display": "Overview of the anti-inflammatory effects, pharmacokinetic properties and clinical efficacies of arctigenin and arctiin from Arctium lappa L.",
+   "plants": [
+    "Common burdock",
+    "Lesser Burdock",
+    "Wild rhubarb"
+   ],
+   "scientific": [
+    "Arctium minus"
    ],
    "actions": [],
    "conditions": []
@@ -8348,6 +8655,33 @@
     "Infection (general)",
     "Sore throat"
    ]
+  },
+  {
+   "ref_id": "REF-0723",
+   "key": "ahangarpour2017arctium",
+   "type": "article",
+   "title": "Antidiabetic, hypolipidemic and hepatoprotective effects of Arctium lappa root's hydro-alcoholic extract on nicotinamide-streptozotocin induced type 2 model of diabetes in male mice",
+   "authors": "Ahangarpour, A., Heidari, H., Oroojan, A.A., Mirzavandi, F., Nasr Esfehani, K. and Dehghan Mohammadi, Z.",
+   "journal": "Avicenna Journal of Phytomedicine",
+   "year": "2017",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28348972/",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/28348972/",
+   "link_type": "url",
+   "citation": "Ahangarpour, A., Heidari, H., Oroojan, A.A., Mirzavandi, F., Nasr Esfehani, K. and Dehghan Mohammadi, Z (2017) 'Antidiabetic, hypolipidemic and hepatoprotective effects of Arctium lappa root's hydro-alcoholic extract on nicotinamide-streptozotocin induced type 2 model of diabetes in male mice', Avicenna Journal of Phytomedicine, 7(2), pp. 169-179. Available at: https://pubmed.ncbi.nlm.nih.gov/28348972/",
+   "abstract": "Arctium lappa (burdock) root has hypoglycemic and antioxidative effects and has been used for treatment of diabetes in traditional medicine. This study evaluated the antidiabetic and hypolipidemic properties of the root's hydro-alcoholic extract on nicotinamide-streptozotocin-induced type 2 diabetes in male mice. Administration of the extract significantly decreased triglyceride, VLDL, glucose and alkaline phosphatase, and increased insulin, HDL and leptin levels, indicating an antidiabetic effect through hypolipidemic and insulinotropic properties, and a hepatoprotective effect.",
+   "tier": "preclinical",
+   "display": "Antidiabetic, hypolipidemic and hepatoprotective effects of Arctium lappa root's hydro-alcoholic extract on nicotinamide-streptozotocin induced type 2 model of diabetes in male mice",
+   "plants": [
+    "Common burdock",
+    "Lesser Burdock",
+    "Wild rhubarb"
+   ],
+   "scientific": [
+    "Arctium minus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0398",
@@ -8687,6 +9021,34 @@
     "Cough",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-0712",
+   "key": "kasote2017herbal",
+   "type": "article",
+   "title": "Herbal remedies for urinary stones used in India and China: A review",
+   "authors": "Kasote, D.M., Jagtap, S.D., Thapa, D., Khyade, M.S. and Russell, W.R.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2017",
+   "doi": "10.1016/j.jep.2017.03.038",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2017.03.038",
+   "link_type": "doi",
+   "citation": "Kasote, D.M., Jagtap, S.D., Thapa, D., Khyade, M.S. and Russell, W.R (2017) 'Herbal remedies for urinary stones used in India and China: A review', Journal of Ethnopharmacology, 203, pp. 55-68. doi:10.1016/j.jep.2017.03.038",
+   "abstract": "Urolithiasis is a longstanding health problem. A comprehensive review of the scientific literature about antiurolithiatic plants was undertaken. Plants such as Phyllanthus niruri L. and Elymus repens (L.) Gould, as well as herbal products, have proved their utility as promising antiurolithiatic medicines in different phases of clinical trials. The majority of antiurolithiatic plants were found to either dissolve the stones or inhibit the process of urinary stone formation.",
+   "tier": "traditional",
+   "display": "Herbal remedies for urinary stones used in India and China: A review",
+   "plants": [
+    "Couch Grass",
+    "Dog grass",
+    "Quack grass",
+    "Twitch grass"
+   ],
+   "scientific": [
+    "Elymus repens"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0628",
@@ -11158,6 +11520,34 @@
    ]
   },
   {
+   "ref_id": "REF-0716",
+   "key": "sharma2014acorus",
+   "type": "article",
+   "title": "Acorus calamus (The Healing Plant): a review on its medicinal potential, micropropagation and conservation",
+   "authors": "Sharma, V., Singh, I. and Chaudhary, P.",
+   "journal": "Natural Product Research",
+   "year": "2014",
+   "doi": "10.1080/14786419.2014.915827",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2014.915827",
+   "link_type": "doi",
+   "citation": "Sharma, V., Singh, I. and Chaudhary, P (2014) 'Acorus calamus (The Healing Plant): a review on its medicinal potential, micropropagation and conservation', Natural Product Research, 28(18), pp. 1454-1466. doi:10.1080/14786419.2014.915827",
+   "abstract": "Acorus calamus L. is a well-known plant in Indian traditional medicine, highly valued as a rejuvenator for the brain and nervous system and a main medhya (memory-improving) drug. Rhizomes are widely used in the treatment of epilepsy, mental ailments, chronic diarrhoea, dysentery, fever, kidney and liver troubles, and rheumatism. A. calamus leaves, rhizomes and essential oil possess antispasmodic and carminative activities. The review describes chemical constituents, toxicology, ethnobotany and pharmacological properties.",
+   "tier": "traditional",
+   "display": "Acorus calamus (The Healing Plant): a review on its medicinal potential, micropropagation and conservation",
+   "plants": [
+    "Calamus",
+    "Sweet Flag",
+    "Sweet root",
+    "Sweet sedge"
+   ],
+   "scientific": [
+    "Acorus calamus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0551",
    "key": "brock2014skullcap",
    "type": "article",
@@ -11806,6 +12196,33 @@
     "Sore throat",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-0713",
+   "key": "ziaulhaq2014rubus",
+   "type": "article",
+   "title": "Rubus fruticosus L.: constituents, biological activities and health related uses",
+   "authors": "Zia-Ul-Haq, M., Riaz, M., De Feo, V., Jaafar, H.Z.E. and Moga, M.",
+   "journal": "Molecules",
+   "year": "2014",
+   "doi": "10.3390/molecules190810998",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules190810998",
+   "link_type": "doi",
+   "citation": "Zia-Ul-Haq, M., Riaz, M., De Feo, V., Jaafar, H.Z.E. and Moga, M (2014) 'Rubus fruticosus L.: constituents, biological activities and health related uses', Molecules, 19(8), pp. 10998-11029. doi:10.3390/molecules190810998",
+   "abstract": "Rubus fruticosus L. is a shrub famous for its fruit, the blackberry. R. fruticosus contains vitamins, steroids and lipids in seed oil, and minerals, flavonoids, glycosides, terpenes, acids and tannins in aerial parts that possess diverse pharmacological activities such as antioxidant, anti-carcinogenic, anti-inflammatory, antimicrobial, anti-diabetic, anti-diarrheal, and antiviral. This review focuses on the nutrients and chemical constituents as well as the medicinal properties of different parts of R. fruticosus.",
+   "tier": "traditional",
+   "display": "Rubus fruticosus L.: constituents, biological activities and health related uses",
+   "plants": [
+    "Blackberry Leaf",
+    "Bramble",
+    "European blackberry"
+   ],
+   "scientific": [
+    "Rubus fruticosus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0049",

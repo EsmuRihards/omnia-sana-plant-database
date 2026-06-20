@@ -618,9 +618,14 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0716",
+    "REF-0717",
+    "REF-0718"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "actaea-racemosa",
@@ -923,9 +928,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0719",
+    "REF-0720",
+    "REF-0721"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "aesculus-hippocastanum",
@@ -3711,9 +3721,14 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0723",
+    "REF-0722",
+    "REF-0724"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "arctostaphylos-uva-ursi",
@@ -11215,9 +11230,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-0710",
+    "REF-0711",
+    "REF-0712"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "epilobium-parviflorum",
@@ -24703,9 +24723,14 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-0713",
+    "REF-0714",
+    "REF-0715"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "rubus-idaeus",

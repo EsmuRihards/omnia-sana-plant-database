@@ -135,9 +135,13 @@ contraindications:
   reference_ids:
   - REF-0477
   status: needs-review
+references:
+- REF-0723
+- REF-0722
+- REF-0724
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and Drugs.com
   monographs). Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database
   already contains A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
@@ -145,4 +149,5 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   Further enriched 2026-06-14 with a PubMed-sourced pharmacological review of the better-studied congener
   Arctium lappa (REF-0625), whose root supports the traditional skin/alterative use and antioxidant activity.
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds).'
+  to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket
+  (least-cited enrichment): REF-0723, REF-0722, REF-0724.'

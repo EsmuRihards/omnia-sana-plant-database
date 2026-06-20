@@ -93,11 +93,16 @@ contraindications:
   reference_ids:
   - REF-0437
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-0710
+- REF-0711
+- REF-0712
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph;
   ESCOP monograph). Elymus repens = Agropyron repens = Elytrigia repens. Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained
   and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
-  split out, constituents linked to compounds).'
+  split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the
+  plant-level references bucket (least-cited enrichment): REF-0710, REF-0711, REF-0712.'

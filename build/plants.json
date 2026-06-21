@@ -19222,7 +19222,12 @@
      "reference_ids": [
       "REF-0110",
       "REF-0197",
-      "REF-0303"
+      "REF-0303",
+      "REF-1417",
+      "REF-1422",
+      "REF-1423",
+      "REF-1424",
+      "REF-1425"
      ],
      "status": "verified"
     },
@@ -19240,7 +19245,9 @@
      "reference_ids": [
       "REF-0110",
       "REF-0197",
-      "REF-0303"
+      "REF-0303",
+      "REF-1419",
+      "REF-1422"
      ],
      "status": "verified"
     },
@@ -19249,7 +19256,9 @@
      "reference_ids": [
       "REF-0110",
       "REF-0197",
-      "REF-0303"
+      "REF-0303",
+      "REF-1417",
+      "REF-1422"
      ],
      "status": "verified"
     },
@@ -19267,7 +19276,8 @@
      "reference_ids": [
       "REF-0110",
       "REF-0197",
-      "REF-0303"
+      "REF-0303",
+      "REF-1417"
      ],
      "status": "verified"
     }
@@ -19348,7 +19358,8 @@
      "reference_ids": [
       "REF-0110",
       "REF-0197",
-      "REF-0303"
+      "REF-0303",
+      "REF-1424"
      ],
      "status": "needs-review"
     },
@@ -19377,7 +19388,8 @@
      "reference_ids": [
       "REF-0110",
       "REF-0197",
-      "REF-0303"
+      "REF-0303",
+      "REF-1423"
      ],
      "status": "needs-review"
     },
@@ -19414,9 +19426,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1417",
+    "REF-1418",
+    "REF-1419",
+    "REF-1420",
+    "REF-1421",
+    "REF-1422",
+    "REF-1423",
+    "REF-1424",
+    "REF-1425",
+    "REF-1426"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "nepeta-cataria",
@@ -20042,7 +20066,9 @@
      "action": "adaptogen",
      "note": "Adaptogen for stress and anxiety (improves stress scores and well-being in trials)",
      "reference_ids": [
-      "REF-0466"
+      "REF-0466",
+      "REF-1427",
+      "REF-1429"
      ],
      "status": "verified"
     },
@@ -20050,7 +20076,9 @@
      "action": "anti-inflammatory",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0467"
+      "REF-0467",
+      "REF-1429",
+      "REF-1431"
      ],
      "status": "verified"
     },
@@ -20058,7 +20086,11 @@
      "action": "antioxidant",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0467"
+      "REF-0467",
+      "REF-1429",
+      "REF-1430",
+      "REF-1431",
+      "REF-1434"
      ],
      "status": "verified"
     },
@@ -20067,7 +20099,10 @@
      "note": "Immunomodulatory / immune support",
      "reference_ids": [
       "REF-0466",
-      "REF-0467"
+      "REF-0467",
+      "REF-1429",
+      "REF-1431",
+      "REF-1435"
      ],
      "status": "verified"
     },
@@ -20085,7 +20120,8 @@
      "condition": "anxiety",
      "note": "Adaptogen for stress and anxiety (improves stress scores and well-being in trials)",
      "reference_ids": [
-      "REF-0466"
+      "REF-0466",
+      "REF-1427"
      ],
      "status": "verified"
     },
@@ -20101,7 +20137,8 @@
      "condition": "blood-sugar",
      "note": "Supports blood-sugar control (lowers fasting and post-meal glucose)",
      "reference_ids": [
-      "REF-0466"
+      "REF-0466",
+      "REF-1430"
      ],
      "status": "verified"
     },
@@ -20167,7 +20204,8 @@
      "condition": "stress",
      "note": "Adaptogen for stress and anxiety (improves stress scores and well-being in trials)",
      "reference_ids": [
-      "REF-0466"
+      "REF-0466",
+      "REF-1427"
      ],
      "status": "verified"
     }
@@ -20191,9 +20229,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1427",
+    "REF-1428",
+    "REF-1429",
+    "REF-1430",
+    "REF-1431",
+    "REF-1432",
+    "REF-1433",
+    "REF-1434",
+    "REF-1435",
+    "REF-1436"
+   ],
    "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "oenothera-biennis",
@@ -22105,7 +22155,9 @@
       "REF-0165",
       "REF-0268",
       "REF-0274",
-      "REF-0278"
+      "REF-0278",
+      "REF-1408",
+      "REF-1415"
      ],
      "status": "verified"
     },
@@ -22116,7 +22168,9 @@
       "REF-0165",
       "REF-0268",
       "REF-0274",
-      "REF-0278"
+      "REF-0278",
+      "REF-1413",
+      "REF-1414"
      ],
      "status": "verified"
     },
@@ -22127,7 +22181,11 @@
       "REF-0165",
       "REF-0268",
       "REF-0274",
-      "REF-0278"
+      "REF-0278",
+      "REF-1409",
+      "REF-1410",
+      "REF-1411",
+      "REF-1416"
      ],
      "status": "verified"
     },
@@ -22138,7 +22196,8 @@
       "REF-0165",
       "REF-0268",
       "REF-0274",
-      "REF-0278"
+      "REF-0278",
+      "REF-1412"
      ],
      "status": "verified"
     }
@@ -22212,7 +22271,8 @@
       "REF-0165",
       "REF-0268",
       "REF-0274",
-      "REF-0278"
+      "REF-0278",
+      "REF-1414"
      ],
      "status": "needs-review"
     },
@@ -22258,7 +22318,8 @@
       "REF-0165",
       "REF-0268",
       "REF-0274",
-      "REF-0278"
+      "REF-0278",
+      "REF-1408"
      ],
      "status": "needs-review"
     },
@@ -22270,7 +22331,8 @@
       "REF-0165",
       "REF-0268",
       "REF-0274",
-      "REF-0278"
+      "REF-0278",
+      "REF-1408"
      ],
      "status": "needs-review"
     }
@@ -22301,9 +22363,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1407",
+    "REF-1408",
+    "REF-1409",
+    "REF-1410",
+    "REF-1411",
+    "REF-1412",
+    "REF-1413",
+    "REF-1414",
+    "REF-1415",
+    "REF-1416"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "pinus-sylvestris",

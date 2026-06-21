@@ -24,6 +24,8 @@ actions:
   - REF-0268
   - REF-0274
   - REF-0278
+  - REF-1408
+  - REF-1415
   status: verified
 - action: antimicrobial
   reference_ids:
@@ -32,6 +34,8 @@ actions:
   - REF-0268
   - REF-0274
   - REF-0278
+  - REF-1413
+  - REF-1414
   status: verified
 - action: antioxidant
   reference_ids:
@@ -40,6 +44,10 @@ actions:
   - REF-0268
   - REF-0274
   - REF-0278
+  - REF-1409
+  - REF-1410
+  - REF-1411
+  - REF-1416
   status: verified
 - action: digestive
   reference_ids:
@@ -48,6 +56,7 @@ actions:
   - REF-0268
   - REF-0274
   - REF-0278
+  - REF-1412
   status: verified
 indications:
 - condition: arthritis
@@ -103,6 +112,7 @@ indications:
   - REF-0268
   - REF-0274
   - REF-0278
+  - REF-1414
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -137,6 +147,7 @@ indications:
   - REF-0268
   - REF-0274
   - REF-0278
+  - REF-1408
   status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
@@ -146,6 +157,7 @@ indications:
   - REF-0268
   - REF-0274
   - REF-0278
+  - REF-1408
   status: needs-review
 contraindications:
 - note: Generally safe when consumed in food amounts. Doses up to 20g daily considered safe for adults.
@@ -173,11 +185,25 @@ contraindications:
   - REF-0274
   - REF-0278
   status: verified
-provenance: book
+references:
+- REF-1407
+- REF-1408
+- REF-1409
+- REF-1410
+- REF-1411
+- REF-1412
+- REF-1413
+- REF-1414
+- REF-1415
+- REF-1416
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1407, REF-1408, REF-1409, REF-1410, REF-1411,
+  REF-1412, REF-1413, REF-1414, REF-1415, REF-1416) — woven into relevant actions/indications and the
+  plant-level references bucket.'

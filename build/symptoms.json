@@ -1629,6 +1629,51 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0123",
+      "REF-0165",
+      "REF-0268",
+      "REF-0274",
+      "REF-0278",
+      "REF-1414"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0123",
+      "REF-0165",
+      "REF-0268",
+      "REF-0274",
+      "REF-0278",
+      "REF-1408"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0123",
+      "REF-0165",
+      "REF-0268",
+      "REF-0274",
+      "REF-0278",
+      "REF-1408"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -1699,20 +1744,6 @@
      ]
     },
     {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
      "evidence": 1,
@@ -1746,34 +1777,6 @@
      "evidence": 1,
      "status": "verified",
      "inferred": false,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0123",
-      "REF-0165",
-      "REF-0268",
-      "REF-0274",
-      "REF-0278"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
      "references": [
       "REF-0123",
       "REF-0165",
@@ -11396,11 +11399,23 @@
     {
      "condition": "anxiety",
      "label": "Anxiety",
-     "evidence": 7,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0466"
+      "REF-0466",
+      "REF-1427"
+     ]
+    },
+    {
+     "condition": "stress",
+     "label": "Stress",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0466",
+      "REF-1427"
      ]
     },
     {
@@ -11410,7 +11425,8 @@
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0466"
+      "REF-0466",
+      "REF-1430"
      ]
     },
     {
@@ -11443,16 +11459,6 @@
      "references": [
       "REF-0466",
       "REF-0467"
-     ]
-    },
-    {
-     "condition": "stress",
-     "label": "Stress",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0466"
      ]
     },
     {
@@ -14453,7 +14459,8 @@
      "references": [
       "REF-0110",
       "REF-0197",
-      "REF-0303"
+      "REF-0303",
+      "REF-1424"
      ]
     },
     {
@@ -14489,7 +14496,8 @@
      "references": [
       "REF-0110",
       "REF-0197",
-      "REF-0303"
+      "REF-0303",
+      "REF-1423"
      ]
     },
     {

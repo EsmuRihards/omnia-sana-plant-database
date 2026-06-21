@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1406,
+ "count": 1436,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -1772,6 +1772,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1415",
+   "key": "almaimani2023anise",
+   "type": "article",
+   "title": "Anise (Pimpinella anisum L.) attenuates azoxymethane-induced colorectal cancer by antioxidant, anti-inflammatory, and anti-apoptotic pathways in rats",
+   "authors": "Almaimani, G., Jabbar, A.A.J., Ibrahim, I.A.A., Alzahrani, A.R. and others",
+   "journal": "Environmental Science and Pollution Research International",
+   "year": "2024",
+   "doi": "10.1007/s11356-023-31349-z",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11356-023-31349-z",
+   "link_type": "doi",
+   "citation": "Almaimani, G., Jabbar, A.A.J., Ibrahim, I.A.A., Alzahrani, A.R. and others (2024) 'Anise (Pimpinella anisum L.) attenuates azoxymethane-induced colorectal cancer by antioxidant, anti-inflammatory, and anti-apoptotic pathways in rats', Environmental Science and Pollution Research International, 31(3), pp. 4439-4452. doi:10.1007/s11356-023-31349-z",
+   "abstract": "Anise (Pimpinella anisum) attenuated azoxymethane-induced colorectal cancer in rats through antioxidant, anti-inflammatory and anti-apoptotic pathways, demonstrating chemoprotective activity.",
+   "tier": "preclinical",
+   "display": "Anise (Pimpinella anisum L.) attenuates azoxymethane-induced colorectal cancer by antioxidant, anti-inflammatory, and anti-apoptotic pathways in rats",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0802",
    "key": "wrobelbiedrawa2024adaptogens",
    "type": "article",
@@ -2884,6 +2913,37 @@
    ]
   },
   {
+   "ref_id": "REF-1430",
+   "key": "arya2024tulsi",
+   "type": "article",
+   "title": "Harnessing the Antibacterial, Anti-Diabetic and Anti-Carcinogenic Properties of Ocimum tenuiflorum Linn (Tulsi)",
+   "authors": "Arya, R., Faruquee, H.M., Shakya, H., Rahman, S.A. and others",
+   "journal": "Plants",
+   "year": "2024",
+   "doi": "10.3390/plants13243516",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants13243516",
+   "link_type": "doi",
+   "citation": "Arya, R., Faruquee, H.M., Shakya, H., Rahman, S.A. and others (2024) 'Harnessing the Antibacterial, Anti-Diabetic and Anti-Carcinogenic Properties of Ocimum tenuiflorum Linn (Tulsi)', Plants, 13(24), pp. 3516. doi:10.3390/plants13243516",
+   "abstract": "This study characterised the antibacterial, antidiabetic and anti-carcinogenic properties of holy basil (Ocimum tenuiflorum), supporting its antioxidant and metabolic (blood-sugar-lowering) benefits.",
+   "tier": "preclinical",
+   "display": "Harnessing the Antibacterial, Anti-Diabetic and Anti-Carcinogenic Properties of Ocimum tenuiflorum Linn (Tulsi)",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-0180",
    "key": "national2024national",
    "type": "misc",
@@ -3401,6 +3461,66 @@
     "Marrubium vulgare"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1414",
+   "key": "alrasheid2024anise",
+   "type": "article",
+   "title": "Nutritional Value and in vitro Antigiardial Activity of Anise (Pimpinella anisum L.) Seeds",
+   "authors": "Alrasheid, A.A., Kabbashi, A.S., Ali, A.O., Alrasheed, A.A. and others",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2024",
+   "doi": "10.1002/cbdv.202301254",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.202301254",
+   "link_type": "doi",
+   "citation": "Alrasheid, A.A., Kabbashi, A.S., Ali, A.O., Alrasheed, A.A. and others (2024) 'Nutritional Value and in vitro Antigiardial Activity of Anise (Pimpinella anisum L.) Seeds', Chemistry & Biodiversity, 21(3), pp. e202301254. doi:10.1002/cbdv.202301254",
+   "abstract": "Anise (Pimpinella anisum) seeds showed in vitro antigiardial (antiparasitic) activity alongside their nutritional value, supporting the antimicrobial use of anise.",
+   "tier": "preclinical",
+   "display": "Nutritional Value and in vitro Antigiardial Activity of Anise (Pimpinella anisum L.) Seeds",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-1435",
+   "key": "yadav2024tulsi",
+   "type": "article",
+   "title": "Ocimum sanctum (Tulsi) as a Potential Immunomodulator for the Treatment of Ischemic Injury in the Brain",
+   "authors": "Yadav, I., Kumar, R., Fatima, Z. and Rema, V.",
+   "journal": "Current Molecular Medicine",
+   "year": "2024",
+   "doi": "10.2174/1566524023666221212155340",
+   "url": "",
+   "link": "https://doi.org/10.2174/1566524023666221212155340",
+   "link_type": "doi",
+   "citation": "Yadav, I., Kumar, R., Fatima, Z. and Rema, V (2024) 'Ocimum sanctum (Tulsi) as a Potential Immunomodulator for the Treatment of Ischemic Injury in the Brain', Current Molecular Medicine, 24(1), pp. 60-73. doi:10.2174/1566524023666221212155340",
+   "abstract": "This review describes holy basil (Ocimum sanctum/tenuiflorum) as a potential immunomodulator and neuroprotective agent for the treatment of ischemic brain injury, via its anti-inflammatory and antioxidant actions.",
+   "tier": "review",
+   "display": "Ocimum sanctum (Tulsi) as a Potential Immunomodulator for the Treatment of Ischemic Injury in the Brain",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -5094,6 +5214,35 @@
    ]
   },
   {
+   "ref_id": "REF-1411",
+   "key": "mushtaq2023anise",
+   "type": "article",
+   "title": "Biomolecular Screening of Pimpinella anisum L. for Antioxidant and Anticholinesterase Activity in Mice Brain",
+   "authors": "Mushtaq, A., Habib, F., Manea, R., Anwar, R. and others",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28052217",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28052217",
+   "link_type": "doi",
+   "citation": "Mushtaq, A., Habib, F., Manea, R., Anwar, R. and others (2023) 'Biomolecular Screening of Pimpinella anisum L. for Antioxidant and Anticholinesterase Activity in Mice Brain', Molecules, 28(5), pp. 2217. doi:10.3390/molecules28052217",
+   "abstract": "Anise (Pimpinella anisum) extract showed antioxidant and anticholinesterase activity in mice brain, indicating antioxidant and potentially neuroprotective properties of the plant.",
+   "tier": "preclinical",
+   "display": "Biomolecular Screening of Pimpinella anisum L. for Antioxidant and Anticholinesterase Activity in Mice Brain",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0178",
    "key": "national2023caffeine",
    "type": "misc",
@@ -5981,6 +6130,35 @@
    ]
   },
   {
+   "ref_id": "REF-1434",
+   "key": "kamel2023tulsi",
+   "type": "article",
+   "title": "Hepatoprotective effects of bioactive compounds from traditional herb Tulsi (Ocimum sanctum Linn) against galactosamine-induced hepatotoxicity in rats",
+   "authors": "Kamel, F.O., Karim, S., Bafail, D.A.O., Aldawsari, H.M. and others",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2023",
+   "doi": "10.3389/fphar.2023.1213052",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2023.1213052",
+   "link_type": "doi",
+   "citation": "Kamel, F.O., Karim, S., Bafail, D.A.O., Aldawsari, H.M. and others (2023) 'Hepatoprotective effects of bioactive compounds from traditional herb Tulsi (Ocimum sanctum Linn) against galactosamine-induced hepatotoxicity in rats', Frontiers in Pharmacology, 14, pp. 1213052. doi:10.3389/fphar.2023.1213052",
+   "abstract": "Bioactive compounds from tulsi (Ocimum sanctum/tenuiflorum) protected against galactosamine-induced hepatotoxicity in rats, reducing oxidative stress and inflammation, demonstrating an antioxidant, hepatoprotective effect.",
+   "tier": "preclinical",
+   "display": "Hepatoprotective effects of bioactive compounds from traditional herb Tulsi (Ocimum sanctum Linn) against galactosamine-induced hepatotoxicity in rats",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0179",
    "key": "national2023hericium",
    "type": "misc",
@@ -6527,6 +6705,33 @@
    "actions": [
     "Antidiabetic (blood-sugar lowering)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1436",
+   "key": "kumar2023tulsi",
+   "type": "article",
+   "title": "Ocimum Sanctum: An All-Round Treatment for Cancer?",
+   "authors": "Kumar, P. and Patel, D.",
+   "journal": "Alternative Therapies in Health and Medicine",
+   "year": "2023",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Ocimum%20Sanctum%3A%20An%20All-Round%20Treatment%20for%20Cancer%3F",
+   "link_type": "search",
+   "citation": "Kumar, P. and Patel, D (2023) 'Ocimum Sanctum: An All-Round Treatment for Cancer?', Alternative Therapies in Health and Medicine, 29(4), pp. 253-257.",
+   "abstract": "This review evaluates the evidence for holy basil (Ocimum sanctum/tenuiflorum) as a broad anticancer agent, summarising the antioxidant, anti-inflammatory and immunomodulatory mechanisms by which its phytochemicals act against cancer.",
+   "tier": "review",
+   "display": "Ocimum Sanctum: An All-Round Treatment for Cancer?",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -7355,6 +7560,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1413",
+   "key": "dawoud2023anise",
+   "type": "article",
+   "title": "Unveiling the bioactive potential of Pimpinella anisum L. leaf extracts: Chromatographic profiling, antimicrobial efficiency, and cytotoxicity analysis",
+   "authors": "Dawoud, T. and Ameen, F.",
+   "journal": "Biomedical Chromatography",
+   "year": "2023",
+   "doi": "10.1002/bmc.5739",
+   "url": "",
+   "link": "https://doi.org/10.1002/bmc.5739",
+   "link_type": "doi",
+   "citation": "Dawoud, T. and Ameen, F (2023) 'Unveiling the bioactive potential of Pimpinella anisum L. leaf extracts: Chromatographic profiling, antimicrobial efficiency, and cytotoxicity analysis', Biomedical Chromatography, 37(12), pp. e5739. doi:10.1002/bmc.5739",
+   "abstract": "Anise (Pimpinella anisum) leaf extracts were chromatographically profiled and showed antimicrobial efficiency and cytotoxicity, characterising the antimicrobial bioactive potential of anise.",
+   "tier": "preclinical",
+   "display": "Unveiling the bioactive potential of Pimpinella anisum L. leaf extracts: Chromatographic profiling, antimicrobial efficiency, and cytotoxicity analysis",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1360",
    "key": "dong2023verbenalin",
    "type": "article",
@@ -7565,6 +7799,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1427",
+   "key": "lopresti2022tulsi",
+   "type": "article",
+   "title": "A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (Holixer) on stress, mood, and sleep in adults experiencing stress",
+   "authors": "Lopresti, A.L., Smith, S.J., Metse, A.P. and Drummond, P.D.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2022",
+   "doi": "10.3389/fnut.2022.965130",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2022.965130",
+   "link_type": "doi",
+   "citation": "Lopresti, A.L., Smith, S.J., Metse, A.P. and Drummond, P.D (2022) 'A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (Holixer) on stress, mood, and sleep in adults experiencing stress', Frontiers in Nutrition, 9, pp. 965130. doi:10.3389/fnut.2022.965130",
+   "abstract": "In a randomized, double-blind, placebo-controlled trial, a standardized holy basil (Ocimum tenuiflorum) extract improved perceived stress and insomnia scores, lowered hair and salivary cortisol and buffered the acute stress response in adults experiencing stress, supporting its adaptogenic use.",
+   "tier": "rct",
+   "display": "A randomized, double-blind, placebo-controlled trial investigating the effects of an Ocimum tenuiflorum (Holy Basil) extract (Holixer) on stress, mood, and sleep in adults experiencing stress",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [
+    "Adaptogen"
+   ],
+   "conditions": [
+    "Anxiety",
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-0464",
@@ -9582,6 +9848,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1420",
+   "key": "wang2022noni",
+   "type": "article",
+   "title": "Phenolics from noni (Morinda citrifolia L.) fruit alleviate obesity in high fat diet-fed mice via modulating the gut microbiota and mitigating intestinal damage",
+   "authors": "Wang, R., Wang, L., Wang, S., Wang, J. and others",
+   "journal": "Food Chemistry",
+   "year": "2022",
+   "doi": "10.1016/j.foodchem.2022.134232",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2022.134232",
+   "link_type": "doi",
+   "citation": "Wang, R., Wang, L., Wang, S., Wang, J. and others (2022) 'Phenolics from noni (Morinda citrifolia L.) fruit alleviate obesity in high fat diet-fed mice via modulating the gut microbiota and mitigating intestinal damage', Food Chemistry, 402, pp. 134232. doi:10.1016/j.foodchem.2022.134232",
+   "abstract": "Phenolics from noni (Morinda citrifolia) fruit alleviated obesity in high-fat-diet mice by modulating the gut microbiota and mitigating intestinal damage, indicating a metabolic benefit of noni phenolics.",
+   "tier": "preclinical",
+   "display": "Phenolics from noni (Morinda citrifolia L.) fruit alleviate obesity in high fat diet-fed mice via modulating the gut microbiota and mitigating intestinal damage",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1053",
    "key": "zehra2022solidago",
    "type": "article",
@@ -10515,6 +10808,35 @@
     "Pain (general)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1416",
+   "key": "shrief2022anise",
+   "type": "article",
+   "title": "The possible protective role of Pimpinella anisum oil versus selenium on aspartame induced changes in rat cerebellar cortex",
+   "authors": "Shrief, A.I., Abdel-Hamid, A.A.M., Moustafa, A. and El-Mohandes, E.",
+   "journal": "Ultrastructural Pathology",
+   "year": "2022",
+   "doi": "10.1080/01913123.2022.2136809",
+   "url": "",
+   "link": "https://doi.org/10.1080/01913123.2022.2136809",
+   "link_type": "doi",
+   "citation": "Shrief, A.I., Abdel-Hamid, A.A.M., Moustafa, A. and El-Mohandes, E (2022) 'The possible protective role of Pimpinella anisum oil versus selenium on aspartame induced changes in rat cerebellar cortex', Ultrastructural Pathology, 46(6), pp. 497-510. doi:10.1080/01913123.2022.2136809",
+   "abstract": "Anise (Pimpinella anisum) oil exerted a protective, antioxidant role against aspartame-induced histological and ultrastructural changes in the rat cerebellar cortex, indicating a neuroprotective antioxidant effect.",
+   "tier": "preclinical",
+   "display": "The possible protective role of Pimpinella anisum oil versus selenium on aspartame induced changes in rat cerebellar cortex",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1018",
@@ -12290,6 +12612,33 @@
    ]
   },
   {
+   "ref_id": "REF-1432",
+   "key": "jayapal2021tulsi",
+   "type": "article",
+   "title": "In-vitro anti-Mycobacterium tuberculosis effect of essential oil of Ocimum sanctum L. (Tulsi/Basil) leaves",
+   "authors": "Jayapal, V., Vidya Raj, C.K., Muthaiah, M., Chadha, V.K. and others",
+   "journal": "Indian Journal of Tuberculosis",
+   "year": "2021",
+   "doi": "10.1016/j.ijtb.2021.02.009",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijtb.2021.02.009",
+   "link_type": "doi",
+   "citation": "Jayapal, V., Vidya Raj, C.K., Muthaiah, M., Chadha, V.K. and others (2021) 'In-vitro anti-Mycobacterium tuberculosis effect of essential oil of Ocimum sanctum L. (Tulsi/Basil) leaves', Indian Journal of Tuberculosis, 68(4), pp. 470-473. doi:10.1016/j.ijtb.2021.02.009",
+   "abstract": "The essential oil of holy basil (Ocimum sanctum/tenuiflorum) leaves showed in vitro anti-Mycobacterium tuberculosis activity, demonstrating an antimicrobial effect of tulsi.",
+   "tier": "preclinical",
+   "display": "In-vitro anti-Mycobacterium tuberculosis effect of essential oil of Ocimum sanctum L. (Tulsi/Basil) leaves",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1041",
    "key": "soulimani2021antiinflam",
    "type": "article",
@@ -12773,6 +13122,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1426",
+   "key": "ma2020noni",
+   "type": "article",
+   "title": "Morinda citrifolia (Noni) Juice Suppresses A549 Human Lung Cancer Cells via Inhibiting AKT/Nuclear Factor-kappaB Signaling Pathway",
+   "authors": "Ma, L.D., Lin, G.B., Yang, L.B., Cao, J.L. and others",
+   "journal": "Chinese Journal of Integrative Medicine",
+   "year": "2021",
+   "doi": "10.1007/s11655-020-3421-y",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11655-020-3421-y",
+   "link_type": "doi",
+   "citation": "Ma, L.D., Lin, G.B., Yang, L.B., Cao, J.L. and others (2021) 'Morinda citrifolia (Noni) Juice Suppresses A549 Human Lung Cancer Cells via Inhibiting AKT/Nuclear Factor-kappaB Signaling Pathway', Chinese Journal of Integrative Medicine, 27(9), pp. 688-695. doi:10.1007/s11655-020-3421-y",
+   "abstract": "Noni (Morinda citrifolia) juice suppressed A549 human lung cancer cells via inhibition of the AKT/NF-kappaB signalling pathway, demonstrating an antitumour activity of noni.",
+   "tier": "preclinical",
+   "display": "Morinda citrifolia (Noni) Juice Suppresses A549 Human Lung Cancer Cells via Inhibiting AKT/Nuclear Factor-kappaB Signaling Pathway",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0974",
    "key": "marcinczyk2021tormentil",
    "type": "article",
@@ -12829,6 +13205,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1424",
+   "key": "jin2021noni",
+   "type": "article",
+   "title": "Noni (Morinda citrifolia L.) Fruit Polysaccharides Regulated IBD Mice Via Targeting Gut Microbiota: Association of JNK/ERK/NF-kappaB Signaling Pathways",
+   "authors": "Jin, M.Y., Wu, X.Y., Li, M.Y., Li, X.T. and others",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "year": "2021",
+   "doi": "10.1021/acs.jafc.1c03833",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jafc.1c03833",
+   "link_type": "doi",
+   "citation": "Jin, M.Y., Wu, X.Y., Li, M.Y., Li, X.T. and others (2021) 'Noni (Morinda citrifolia L.) Fruit Polysaccharides Regulated IBD Mice Via Targeting Gut Microbiota: Association of JNK/ERK/NF-kappaB Signaling Pathways', Journal of Agricultural and Food Chemistry, 69(35), pp. 10151-10162. doi:10.1021/acs.jafc.1c03833",
+   "abstract": "Noni (Morinda citrifolia) fruit polysaccharides ameliorated inflammatory bowel disease in mice by targeting the gut microbiota and modulating JNK/ERK/NF-kappaB signalling, demonstrating an anti-inflammatory effect.",
+   "tier": "preclinical",
+   "display": "Noni (Morinda citrifolia L.) Fruit Polysaccharides Regulated IBD Mice Via Targeting Gut Microbiota: Association of JNK/ERK/NF-kappaB Signaling Pathways",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
   },
   {
    "ref_id": "REF-1313",
@@ -15813,6 +16220,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1423",
+   "key": "kim2020noni",
+   "type": "article",
+   "title": "Fermented Morinda citrifolia (Noni) Alleviates DNCB-Induced Atopic Dermatitis in NC/Nga Mice through Modulating Immune Balance and Skin Barrier Function",
+   "authors": "Kim, S.H., Seong, G.S. and Choung, S.Y.",
+   "journal": "Nutrients",
+   "year": "2020",
+   "doi": "10.3390/nu12010249",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu12010249",
+   "link_type": "doi",
+   "citation": "Kim, S.H., Seong, G.S. and Choung, S.Y (2020) 'Fermented Morinda citrifolia (Noni) Alleviates DNCB-Induced Atopic Dermatitis in NC/Nga Mice through Modulating Immune Balance and Skin Barrier Function', Nutrients, 12(1), pp. 249. doi:10.3390/nu12010249",
+   "abstract": "Fermented noni (Morinda citrifolia) alleviated DNCB-induced atopic dermatitis in mice by modulating immune balance and skin-barrier function, demonstrating an anti-inflammatory, immunomodulatory effect relevant to inflammatory skin disease.",
+   "tier": "preclinical",
+   "display": "Fermented Morinda citrifolia (Noni) Alleviates DNCB-Induced Atopic Dermatitis in NC/Nga Mice through Modulating Immune Balance and Skin Barrier Function",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-0275",
    "key": "shova2020antibacterial",
    "type": "article",
@@ -16062,6 +16500,35 @@
    "conditions": [
     "Blood sugar / diabetes support"
    ]
+  },
+  {
+   "ref_id": "REF-1425",
+   "key": "lee2020noni",
+   "type": "article",
+   "title": "Identification of Anti-Inflammatory Compounds from Hawaiian Noni (Morinda citrifolia L.) Fruit Juice",
+   "authors": "Lee, D., Yu, J.S., Huang, P., Qader, M. and others",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25214968",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25214968",
+   "link_type": "doi",
+   "citation": "Lee, D., Yu, J.S., Huang, P., Qader, M. and others (2020) 'Identification of Anti-Inflammatory Compounds from Hawaiian Noni (Morinda citrifolia L.) Fruit Juice', Molecules, 25(21), pp. 4968. doi:10.3390/molecules25214968",
+   "abstract": "Anti-inflammatory compounds (iridoids and other constituents) were identified from Hawaiian noni (Morinda citrifolia) fruit juice, characterising the constituents responsible for the anti-inflammatory activity of noni.",
+   "tier": "preclinical",
+   "display": "Identification of Anti-Inflammatory Compounds from Hawaiian Noni (Morinda citrifolia L.) Fruit Juice",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1078",
@@ -16327,6 +16794,33 @@
    ],
    "scientific": [
     "Euphrasia officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1421",
+   "key": "yoshitomi2020noni",
+   "type": "article",
+   "title": "Morinda citrifolia (Noni) fruit juice promotes vascular endothelium function in hypertension via glucagon-like peptide-1 receptor-CaMKKbeta-AMPK-eNOS pathway",
+   "authors": "Yoshitomi, H., Zhou, J., Nishigaki, T., Li, W. and others",
+   "journal": "Phytotherapy Research",
+   "year": "2020",
+   "doi": "10.1002/ptr.6685",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6685",
+   "link_type": "doi",
+   "citation": "Yoshitomi, H., Zhou, J., Nishigaki, T., Li, W. and others (2020) 'Morinda citrifolia (Noni) fruit juice promotes vascular endothelium function in hypertension via glucagon-like peptide-1 receptor-CaMKKbeta-AMPK-eNOS pathway', Phytotherapy Research, 34(9), pp. 2341-2350. doi:10.1002/ptr.6685",
+   "abstract": "Noni (Morinda citrifolia) fruit juice promoted vascular endothelial function in hypertensive animals via the GLP-1-receptor-CaMKKbeta-AMPK-eNOS pathway, indicating a cardiovascular-protective effect of noni.",
+   "tier": "preclinical",
+   "display": "Morinda citrifolia (Noni) fruit juice promotes vascular endothelium function in hypertension via glucagon-like peptide-1 receptor-CaMKKbeta-AMPK-eNOS pathway",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
    ],
    "actions": [],
    "conditions": []
@@ -16635,6 +17129,35 @@
    ],
    "actions": [
     "Antitussive (cough suppressant)"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1412",
+   "key": "alotaibi2020anise",
+   "type": "article",
+   "title": "Pimpinella anisum extract attenuates spontaneous and agonist-induced uterine contraction in term-pregnant rats",
+   "authors": "Alotaibi, M.F.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2020",
+   "doi": "10.1016/j.jep.2020.112730",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.112730",
+   "link_type": "doi",
+   "citation": "Alotaibi, M.F (2020) 'Pimpinella anisum extract attenuates spontaneous and agonist-induced uterine contraction in term-pregnant rats', Journal of Ethnopharmacology, 254, pp. 112730. doi:10.1016/j.jep.2020.112730",
+   "abstract": "Anise (Pimpinella anisum) extract attenuated spontaneous and agonist-induced uterine smooth-muscle contractions in term-pregnant rats, providing a pharmacological basis for the antispasmodic, carminative (digestive) use of anise.",
+   "tier": "preclinical",
+   "display": "Pimpinella anisum extract attenuates spontaneous and agonist-induced uterine contraction in term-pregnant rats",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Digestive aid"
    ],
    "conditions": []
   },
@@ -19298,6 +19821,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1422",
+   "key": "almeida2019noni",
+   "type": "article",
+   "title": "Properties and Applications of Morinda citrifolia (Noni): A Review",
+   "authors": "Almeida, E.S., de Oliveira, D. and Hotza, D.",
+   "journal": "Comprehensive Reviews in Food Science and Food Safety",
+   "year": "2019",
+   "doi": "10.1111/1541-4337.12456",
+   "url": "",
+   "link": "https://doi.org/10.1111/1541-4337.12456",
+   "link_type": "doi",
+   "citation": "Almeida, E.S., de Oliveira, D. and Hotza, D (2019) 'Properties and Applications of Morinda citrifolia (Noni): A Review', Comprehensive Reviews in Food Science and Food Safety, 18(4), pp. 883-909. doi:10.1111/1541-4337.12456",
+   "abstract": "This review of noni (Morinda citrifolia) summarises its properties and applications, including its antioxidant, anti-inflammatory, antimicrobial, immunomodulatory and analgesic activities and its bioactive constituents.",
+   "tier": "review",
+   "display": "Properties and Applications of Morinda citrifolia (Noni): A Review",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0935",
    "key": "reichert2019nepeta",
    "type": "article",
@@ -19807,6 +20361,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1408",
+   "key": "hashemnia2019anise",
+   "type": "article",
+   "title": "Wound healing activity of Pimpinella anisum methanolic extract in streptozotocin-induced diabetic rats",
+   "authors": "Hashemnia, M., Nikousefat, Z., Mohammadalipour, A., Zangeneh, M.M. and others",
+   "journal": "Journal of Wound Care",
+   "year": "2019",
+   "doi": "10.12968/jowc.2019.28.Sup10.S26",
+   "url": "",
+   "link": "https://doi.org/10.12968/jowc.2019.28.Sup10.S26",
+   "link_type": "doi",
+   "citation": "Hashemnia, M., Nikousefat, Z., Mohammadalipour, A., Zangeneh, M.M. and others (2019) 'Wound healing activity of Pimpinella anisum methanolic extract in streptozotocin-induced diabetic rats', Journal of Wound Care, 28(Sup10), pp. S26-S36. doi:10.12968/jowc.2019.28.Sup10.S26",
+   "abstract": "A methanolic extract of anise (Pimpinella anisum) accelerated wound healing and reduced inflammation in streptozotocin-induced diabetic rats, supporting an anti-inflammatory, wound-healing effect of anise.",
+   "tier": "preclinical",
+   "display": "Wound healing activity of Pimpinella anisum methanolic extract in streptozotocin-induced diabetic rats",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Skin irritation",
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-0307",
@@ -22936,6 +23522,35 @@
    ]
   },
   {
+   "ref_id": "REF-1410",
+   "key": "changiziashtiyani2017anise",
+   "type": "article",
+   "title": "Pimpinella anisum L. ethanolic extract ameliorates the gentamicin-induced nephrotoxicity in rats",
+   "authors": "Changizi-Ashtiyani, S., Seddigh, A., Najafi, H., Hossaini, N. and others",
+   "journal": "Nephrology (Carlton)",
+   "year": "2017",
+   "doi": "10.1111/nep.12953",
+   "url": "",
+   "link": "https://doi.org/10.1111/nep.12953",
+   "link_type": "doi",
+   "citation": "Changizi-Ashtiyani, S., Seddigh, A., Najafi, H., Hossaini, N. and others (2017) 'Pimpinella anisum L. ethanolic extract ameliorates the gentamicin-induced nephrotoxicity in rats', Nephrology (Carlton), 22(2), pp. 133-138. doi:10.1111/nep.12953",
+   "abstract": "An ethanolic extract of anise (Pimpinella anisum) ameliorated gentamicin-induced nephrotoxicity in rats, reducing oxidative stress, demonstrating an antioxidant, nephroprotective effect of anise.",
+   "tier": "preclinical",
+   "display": "Pimpinella anisum L. ethanolic extract ameliorates the gentamicin-induced nephrotoxicity in rats",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1237",
    "key": "rodrigues2016pinus",
    "type": "article",
@@ -24812,6 +25427,35 @@
    ]
   },
   {
+   "ref_id": "REF-1419",
+   "key": "almeidasouza2016noni",
+   "type": "article",
+   "title": "Morinda citrifolia Linn. fruit (Noni) juice induces an increase in NO production and death of Leishmania amazonensis amastigotes in peritoneal macrophages from BALB/c",
+   "authors": "Almeida-Souza, F., de Souza, C.S., Taniwaki, N.N., Silva, J.J. and others",
+   "journal": "Nitric Oxide",
+   "year": "2016",
+   "doi": "10.1016/j.niox.2016.06.004",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.niox.2016.06.004",
+   "link_type": "doi",
+   "citation": "Almeida-Souza, F., de Souza, C.S., Taniwaki, N.N., Silva, J.J. and others (2016) 'Morinda citrifolia Linn. fruit (Noni) juice induces an increase in NO production and death of Leishmania amazonensis amastigotes in peritoneal macrophages from BALB/c', Nitric Oxide, 58, pp. 51-58. doi:10.1016/j.niox.2016.06.004",
+   "abstract": "Noni (Morinda citrifolia) fruit juice increased nitric-oxide production in macrophages and killed Leishmania amazonensis amastigotes, demonstrating an antimicrobial/antiparasitic and immunomodulatory effect of noni.",
+   "tier": "preclinical",
+   "display": "Morinda citrifolia Linn. fruit (Noni) juice induces an increase in NO production and death of Leishmania amazonensis amastigotes in peritoneal macrophages from BALB/c",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1207",
    "key": "gobel2016peppermint",
    "type": "article",
@@ -24841,6 +25485,33 @@
    "conditions": [
     "Headache"
    ]
+  },
+  {
+   "ref_id": "REF-1407",
+   "key": "samojlik2015anise",
+   "type": "article",
+   "title": "Pharmacokinetic Herb-Drug Interaction between Essential Oil of Aniseed (Pimpinella anisum L., Apiaceae) and Acetaminophen and Caffeine: A Potential Risk for Clinical Practice",
+   "authors": "Samojlik, I., Petkovic, S., Stilinovic, N., Vukmirovic, S. and others",
+   "journal": "Phytotherapy Research",
+   "year": "2016",
+   "doi": "10.1002/ptr.5523",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5523",
+   "link_type": "doi",
+   "citation": "Samojlik, I., Petkovic, S., Stilinovic, N., Vukmirovic, S. and others (2016) 'Pharmacokinetic Herb-Drug Interaction between Essential Oil of Aniseed (Pimpinella anisum L., Apiaceae) and Acetaminophen and Caffeine: A Potential Risk for Clinical Practice', Phytotherapy Research, 30(2), pp. 253-259. doi:10.1002/ptr.5523",
+   "abstract": "Aniseed (Pimpinella anisum) essential oil altered the pharmacokinetics of acetaminophen and caffeine in rats, indicating a potential herb-drug interaction relevant to the safe medicinal use of anise.",
+   "tier": "preclinical",
+   "display": "Pharmacokinetic Herb-Drug Interaction between Essential Oil of Aniseed (Pimpinella anisum L., Apiaceae) and Acetaminophen and Caffeine: A Potential Risk for Clinical Practice",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0581",
@@ -25034,6 +25705,33 @@
     "Memory",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1433",
+   "key": "baliga2016tulsi",
+   "type": "article",
+   "title": "Radio protective effects of the Ayurvedic medicinal plant Ocimum sanctum Linn. (Holy Basil): A memoir",
+   "authors": "Baliga, M.S., Rao, S., Rai, M.P. and D'souza, P.",
+   "journal": "Journal of Cancer Research and Therapeutics",
+   "year": "2016",
+   "doi": "10.4103/0973-1482.151422",
+   "url": "",
+   "link": "https://doi.org/10.4103/0973-1482.151422",
+   "link_type": "doi",
+   "citation": "Baliga, M.S., Rao, S., Rai, M.P. and D'souza, P (2016) 'Radio protective effects of the Ayurvedic medicinal plant Ocimum sanctum Linn. (Holy Basil): A memoir', Journal of Cancer Research and Therapeutics, 12(1), pp. 20-27. doi:10.4103/0973-1482.151422",
+   "abstract": "This review summarises the radioprotective effects of holy basil (Ocimum sanctum/tenuiflorum), attributed to its antioxidant and free-radical-scavenging constituents, supporting its cytoprotective use.",
+   "tier": "review",
+   "display": "Radio protective effects of the Ayurvedic medicinal plant Ocimum sanctum Linn. (Holy Basil): A memoir",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0041",
@@ -28894,6 +29592,38 @@
    ]
   },
   {
+   "ref_id": "REF-1429",
+   "key": "cohen2014tulsi",
+   "type": "article",
+   "title": "Tulsi - Ocimum sanctum: A herb for all reasons",
+   "authors": "Cohen, M.M.",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "year": "2014",
+   "doi": "10.4103/0975-9476.146554",
+   "url": "",
+   "link": "https://doi.org/10.4103/0975-9476.146554",
+   "link_type": "doi",
+   "citation": "Cohen, M.M (2014) 'Tulsi - Ocimum sanctum: A herb for all reasons', Journal of Ayurveda and Integrative Medicine, 5(4), pp. 251-259. doi:10.4103/0975-9476.146554",
+   "abstract": "This review of tulsi (Ocimum sanctum/tenuiflorum) summarises its broad therapeutic actions, including adaptogenic (anti-stress), anti-inflammatory, antioxidant, immunomodulatory, antimicrobial and metabolic effects, supporting its traditional Ayurvedic use as 'a herb for all reasons'.",
+   "tier": "review",
+   "display": "Tulsi - Ocimum sanctum: A herb for all reasons",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [
+    "Adaptogen",
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1136",
    "key": "tuglu2014viburnum",
    "type": "article",
@@ -29829,6 +30559,33 @@
    ]
   },
   {
+   "ref_id": "REF-1428",
+   "key": "baliga2013tulsi",
+   "type": "article",
+   "title": "Ocimum sanctum L (Holy Basil or Tulsi) and its phytochemicals in the prevention and treatment of cancer",
+   "authors": "Baliga, M.S., Jimmy, R., Thilakchand, K.R., Sunitha, V. and others",
+   "journal": "Nutrition and Cancer",
+   "year": "2013",
+   "doi": "10.1080/01635581.2013.785010",
+   "url": "",
+   "link": "https://doi.org/10.1080/01635581.2013.785010",
+   "link_type": "doi",
+   "citation": "Baliga, M.S., Jimmy, R., Thilakchand, K.R., Sunitha, V. and others (2013) 'Ocimum sanctum L (Holy Basil or Tulsi) and its phytochemicals in the prevention and treatment of cancer', Nutrition and Cancer, 65(Suppl 1), pp. 26-35. doi:10.1080/01635581.2013.785010",
+   "abstract": "This review summarises the evidence that holy basil (Ocimum sanctum/tenuiflorum) and its phytochemicals (eugenol, rosmarinic acid, apigenin, luteolin) have chemopreventive and anticancer effects, complementing the herb's antioxidant and immunomodulatory activities.",
+   "tier": "review",
+   "display": "Ocimum sanctum L (Holy Basil or Tulsi) and its phytochemicals in the prevention and treatment of cancer",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0467",
    "key": "bhattacharyya2013ocimum",
    "type": "article",
@@ -30347,6 +31104,33 @@
    "actions": [
     "Expectorant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1418",
+   "key": "brown2012noni",
+   "type": "article",
+   "title": "Anticancer activity of Morinda citrifolia (Noni) fruit: a review",
+   "authors": "Brown, A.C.",
+   "journal": "Phytotherapy Research",
+   "year": "2012",
+   "doi": "10.1002/ptr.4595",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.4595",
+   "link_type": "doi",
+   "citation": "Brown, A.C (2012) 'Anticancer activity of Morinda citrifolia (Noni) fruit: a review', Phytotherapy Research, 26(10), pp. 1427-1440. doi:10.1002/ptr.4595",
+   "abstract": "This review summarises the anticancer activity of noni (Morinda citrifolia) fruit, describing its antiproliferative, immunomodulatory and antioxidant mechanisms against various cancers.",
+   "tier": "review",
+   "display": "Anticancer activity of Morinda citrifolia (Noni) fruit: a review",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -31632,6 +32416,35 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-1409",
+   "key": "samojlik2012anise",
+   "type": "article",
+   "title": "The influence of essential oil of aniseed (Pimpinella anisum, L.) on drug effects on the central nervous system",
+   "authors": "Samojlik, I., Mijatovic, V., Petkovic, S., Skrbic, B. and others",
+   "journal": "Fitoterapia",
+   "year": "2012",
+   "doi": "10.1016/j.fitote.2012.08.012",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2012.08.012",
+   "link_type": "doi",
+   "citation": "Samojlik, I., Mijatovic, V., Petkovic, S., Skrbic, B. and others (2012) 'The influence of essential oil of aniseed (Pimpinella anisum, L.) on drug effects on the central nervous system', Fitoterapia, 83(8), pp. 1466-1473. doi:10.1016/j.fitote.2012.08.012",
+   "abstract": "Aniseed (Pimpinella anisum) essential oil, rich in antioxidant trans-anethole, modulated the central-nervous-system effects of drugs in rodents, characterising the neuroactive and antioxidant properties of anise.",
+   "tier": "preclinical",
+   "display": "The influence of essential oil of aniseed (Pimpinella anisum, L.) on drug effects on the central nervous system",
+   "plants": [
+    "Anise",
+    "Anise seed",
+    "Aniseed"
+   ],
+   "scientific": [
+    "Pimpinella anisum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1396",
@@ -36259,6 +37072,37 @@
    ]
   },
   {
+   "ref_id": "REF-1417",
+   "key": "potterat2007noni",
+   "type": "article",
+   "title": "Morinda citrifolia (Noni) fruit--phytochemistry, pharmacology, safety",
+   "authors": "Potterat, O. and Hamburger, M.",
+   "journal": "Planta Medica",
+   "year": "2007",
+   "doi": "10.1055/s-2007-967115",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2007-967115",
+   "link_type": "doi",
+   "citation": "Potterat, O. and Hamburger, M (2007) 'Morinda citrifolia (Noni) fruit--phytochemistry, pharmacology, safety', Planta Medica, 73(3), pp. 191-199. doi:10.1055/s-2007-967115",
+   "abstract": "This review of noni (Morinda citrifolia) fruit summarises its phytochemistry, pharmacology and safety, covering its antioxidant, anti-inflammatory, immunomodulatory, analgesic and anticancer activities and its constituents.",
+   "tier": "review",
+   "display": "Morinda citrifolia (Noni) fruit--phytochemistry, pharmacology, safety",
+   "plants": [
+    "Indian mulberry",
+    "Noni",
+    "great morinda"
+   ],
+   "scientific": [
+    "Morinda citrifolia"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0493",
    "key": "conrad2007pelargonium",
    "type": "article",
@@ -38085,6 +38929,37 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1431",
+   "key": "prakash2005tulsi",
+   "type": "article",
+   "title": "Therapeutic uses of Ocimum sanctum Linn (Tulsi) with a note on eugenol and its pharmacological actions: a short review",
+   "authors": "Prakash, P. and Gupta, N.",
+   "journal": "Indian Journal of Physiology and Pharmacology",
+   "year": "2005",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Therapeutic%20uses%20of%20Ocimum%20sanctum%20Linn%20%28Tulsi%29%20with%20a%20note%20on%20eugenol%20and%20its%20pharmacological%20actions%3A%20a%20short%20review",
+   "link_type": "search",
+   "citation": "Prakash, P. and Gupta, N (2005) 'Therapeutic uses of Ocimum sanctum Linn (Tulsi) with a note on eugenol and its pharmacological actions: a short review', Indian Journal of Physiology and Pharmacology, 49(2), pp. 125-131.",
+   "abstract": "This short review of the therapeutic uses of holy basil (Ocimum sanctum/tenuiflorum) summarises its anti-inflammatory, antioxidant, immunomodulatory, antimicrobial and adaptogenic actions, with a note on its principal constituent eugenol.",
+   "tier": "review",
+   "display": "Therapeutic uses of Ocimum sanctum Linn (Tulsi) with a note on eugenol and its pharmacological actions: a short review",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Immunomodulator / immune support"
    ],
    "conditions": []
   },

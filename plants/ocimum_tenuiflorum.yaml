@@ -29,22 +29,33 @@ actions:
   note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
   reference_ids:
   - REF-0466
+  - REF-1427
+  - REF-1429
   status: verified
 - action: anti-inflammatory
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0467
+  - REF-1429
+  - REF-1431
   status: verified
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0467
+  - REF-1429
+  - REF-1430
+  - REF-1431
+  - REF-1434
   status: verified
 - action: immunomodulator
   note: Immunomodulatory / immune support
   reference_ids:
   - REF-0466
   - REF-0467
+  - REF-1429
+  - REF-1431
+  - REF-1435
   status: verified
 - action: neuroprotective
   note: Cognitive support - a placebo-controlled study in healthy adults found improved reaction time
@@ -57,6 +68,7 @@ indications:
   note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
   reference_ids:
   - REF-0466
+  - REF-1427
   status: verified
 - condition: arthritis
   note: inferred from anti-inflammatory action
@@ -67,6 +79,7 @@ indications:
   note: Supports blood-sugar control (lowers fasting and post-meal glucose)
   reference_ids:
   - REF-0466
+  - REF-1430
   status: verified
 - condition: cognitive-function
   note: inferred from neuroprotective action
@@ -109,6 +122,7 @@ indications:
   note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
   reference_ids:
   - REF-0466
+  - REF-1427
   status: verified
 contraindications:
 - note: Generally well tolerated; mild nausea has been reported. Its blood-sugar-lowering effect means
@@ -124,9 +138,20 @@ contraindications:
   - REF-0466
   - REF-0467
   status: needs-review
+references:
+- REF-1427
+- REF-1428
+- REF-1429
+- REF-1430
+- REF-1431
+- REF-1432
+- REF-1433
+- REF-1434
+- REF-1435
+- REF-1436
 provenance: website+pubmed
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
   Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum
   = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
@@ -134,4 +159,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   with a PubMed-sourced placebo-controlled study of holy basil leaf extract reporting improved cognitive
   parameters (reaction time, accuracy, P300 latency) in healthy adults (REF-0596; small single trial,
   hence needs-review). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds).'
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
+  10 PubMed-verified @article sources (REF-1427, REF-1428, REF-1429, REF-1430, REF-1431, REF-1432, REF-1433,
+  REF-1434, REF-1435, REF-1436) — woven into relevant actions/indications and the plant-level references
+  bucket.'

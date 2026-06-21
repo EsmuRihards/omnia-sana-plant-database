@@ -16,6 +16,8 @@ constituents:
   reference_ids:
   - REF-0496
   - REF-0548
+  - REF-1506
+  - REF-1515
 - name: Pentacyclic triterpenes (ursolic and oleanolic acid) and ferulic acid esters
   compounds:
   - ferulic-acid
@@ -28,6 +30,9 @@ actions:
   note: Anti-inflammatory (prostate)
   reference_ids:
   - REF-0496
+  - REF-1511
+  - REF-1513
+  - REF-1515
   status: needs-review
 indications:
 - condition: arthritis
@@ -39,6 +44,7 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0496
+  - REF-1513
   status: needs-review
 - condition: prostate-support
   note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
@@ -48,6 +54,11 @@ indications:
   - REF-0496
   - REF-0547
   - REF-0548
+  - REF-1507
+  - REF-1508
+  - REF-1509
+  - REF-1510
+  - REF-1512
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -62,6 +73,9 @@ indications:
   - REF-0496
   - REF-0547
   - REF-0548
+  - REF-1507
+  - REF-1509
+  - REF-1510
   status: needs-review
 - condition: uti
   note: Supports lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - a Cochrane meta-analysis
@@ -86,9 +100,20 @@ contraindications:
   reference_ids:
   - REF-0496
   status: verified
+references:
+- REF-1506
+- REF-1507
+- REF-1508
+- REF-1509
+- REF-1510
+- REF-1511
+- REF-1512
+- REF-1513
+- REF-1514
+- REF-1515
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-13'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journal of Urology review of
   phytotherapy for BPH). Further enriched 2026-06-13 with two PubMed systematic reviews - the Cochrane
   review of Pygeum africanum for BPH (REF-0547, Wilt et al. 2002) and a J Urol phytotherapy review (REF-0548,
@@ -96,4 +121,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journa
   Note: Prunus africana is a conservation-threatened species (CITES-listed) - sustainable sourcing matters.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (prostate-support);
   association retained and now cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
-  split out, constituents linked to compounds).'
+  split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
+  added 10 PubMed-verified @article sources (REF-1506, REF-1507, REF-1508, REF-1509, REF-1510, REF-1511,
+  REF-1512, REF-1513, REF-1514, REF-1515) — woven into relevant actions/indications and the plant-level
+  references bucket.'

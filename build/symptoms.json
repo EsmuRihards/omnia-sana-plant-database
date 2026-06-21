@@ -15970,25 +15970,33 @@
     {
      "condition": "prostate-support",
      "label": "Prostate support",
-     "evidence": 9,
+     "evidence": 10,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0496",
       "REF-0547",
-      "REF-0548"
+      "REF-0548",
+      "REF-1507",
+      "REF-1508",
+      "REF-1509",
+      "REF-1510",
+      "REF-1512"
      ]
     },
     {
      "condition": "urinary-support",
      "label": "Urinary support",
-     "evidence": 9,
+     "evidence": 10,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0496",
       "REF-0547",
-      "REF-0548"
+      "REF-0548",
+      "REF-1507",
+      "REF-1509",
+      "REF-1510"
      ]
     },
     {
@@ -16020,7 +16028,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0496"
+      "REF-0496",
+      "REF-1513"
      ]
     },
     {

@@ -15,24 +15,28 @@ actions:
   - REF-0040
   - REF-0086
   - REF-0099
+  - REF-1523
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0040
   - REF-0086
   - REF-0099
+  - REF-1523
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0040
   - REF-0086
   - REF-0099
+  - REF-1522
   status: verified
 - action: sedative
   reference_ids:
   - REF-0040
   - REF-0086
   - REF-0099
+  - REF-1520
   status: verified
 indications:
 - condition: arthritis
@@ -97,11 +101,25 @@ contraindications:
   - REF-0086
   - REF-0099
   status: verified
-provenance: book
+references:
+- REF-1516
+- REF-1517
+- REF-1518
+- REF-1519
+- REF-1520
+- REF-1521
+- REF-1522
+- REF-1523
+- REF-1524
+- REF-1525
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1516, REF-1517, REF-1518, REF-1519, REF-1520,
+  REF-1521, REF-1522, REF-1523, REF-1524, REF-1525) — woven into relevant actions/indications and the
+  plant-level references bucket.'

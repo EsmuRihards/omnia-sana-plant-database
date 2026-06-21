@@ -23356,7 +23356,8 @@
      "reference_ids": [
       "REF-0102",
       "REF-0258",
-      "REF-0300"
+      "REF-0300",
+      "REF-1500"
      ],
      "status": "verified"
     },
@@ -23365,7 +23366,10 @@
      "reference_ids": [
       "REF-0102",
       "REF-0258",
-      "REF-0300"
+      "REF-0300",
+      "REF-1498",
+      "REF-1499",
+      "REF-1500"
      ],
      "status": "verified"
     },
@@ -23383,7 +23387,8 @@
      "reference_ids": [
       "REF-0102",
       "REF-0258",
-      "REF-0300"
+      "REF-0300",
+      "REF-1500"
      ],
      "status": "verified"
     },
@@ -23392,7 +23397,11 @@
      "reference_ids": [
       "REF-0102",
       "REF-0258",
-      "REF-0300"
+      "REF-0300",
+      "REF-1496",
+      "REF-1497",
+      "REF-1500",
+      "REF-1502"
      ],
      "status": "verified"
     }
@@ -23499,9 +23508,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1496",
+    "REF-1497",
+    "REF-1498",
+    "REF-1499",
+    "REF-1500",
+    "REF-1501",
+    "REF-1502",
+    "REF-1503",
+    "REF-1504",
+    "REF-1505"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "potentilla-erecta",
@@ -24094,7 +24115,9 @@
      "note": "Sterols associated with the prostate-supporting activity.",
      "reference_ids": [
       "REF-0496",
-      "REF-0548"
+      "REF-0548",
+      "REF-1506",
+      "REF-1515"
      ]
     },
     {
@@ -24114,7 +24137,10 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory (prostate)",
      "reference_ids": [
-      "REF-0496"
+      "REF-0496",
+      "REF-1511",
+      "REF-1513",
+      "REF-1515"
      ],
      "status": "needs-review"
     }
@@ -24132,7 +24158,8 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0496"
+      "REF-0496",
+      "REF-1513"
      ],
      "status": "needs-review"
     },
@@ -24142,7 +24169,12 @@
      "reference_ids": [
       "REF-0496",
       "REF-0547",
-      "REF-0548"
+      "REF-0548",
+      "REF-1507",
+      "REF-1508",
+      "REF-1509",
+      "REF-1510",
+      "REF-1512"
      ],
      "status": "needs-review"
     },
@@ -24160,7 +24192,10 @@
      "reference_ids": [
       "REF-0496",
       "REF-0547",
-      "REF-0548"
+      "REF-0548",
+      "REF-1507",
+      "REF-1509",
+      "REF-1510"
      ],
      "status": "needs-review"
     },
@@ -24194,9 +24229,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1506",
+    "REF-1507",
+    "REF-1508",
+    "REF-1509",
+    "REF-1510",
+    "REF-1511",
+    "REF-1512",
+    "REF-1513",
+    "REF-1514",
+    "REF-1515"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-13"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "prunus-serotina",
@@ -24362,7 +24409,8 @@
      "reference_ids": [
       "REF-0040",
       "REF-0086",
-      "REF-0099"
+      "REF-0099",
+      "REF-1523"
      ],
      "status": "verified"
     },
@@ -24371,7 +24419,8 @@
      "reference_ids": [
       "REF-0040",
       "REF-0086",
-      "REF-0099"
+      "REF-0099",
+      "REF-1523"
      ],
      "status": "verified"
     },
@@ -24380,7 +24429,8 @@
      "reference_ids": [
       "REF-0040",
       "REF-0086",
-      "REF-0099"
+      "REF-0099",
+      "REF-1522"
      ],
      "status": "verified"
     },
@@ -24389,7 +24439,8 @@
      "reference_ids": [
       "REF-0040",
       "REF-0086",
-      "REF-0099"
+      "REF-0099",
+      "REF-1520"
      ],
      "status": "verified"
     }
@@ -24478,9 +24529,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1516",
+    "REF-1517",
+    "REF-1518",
+    "REF-1519",
+    "REF-1520",
+    "REF-1521",
+    "REF-1522",
+    "REF-1523",
+    "REF-1524",
+    "REF-1525"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "pulmonaria-officinalis",

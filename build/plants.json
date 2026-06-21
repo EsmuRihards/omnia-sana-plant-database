@@ -29986,7 +29986,10 @@
      "note": "Phenolic monoterpenes responsible for the antimicrobial and expectorant actions.",
      "reference_ids": [
       "REF-0519",
-      "REF-0486"
+      "REF-0486",
+      "REF-1304",
+      "REF-1308",
+      "REF-1311"
      ]
     },
     {
@@ -30007,7 +30010,15 @@
      "note": "Antimicrobial (thymol and carvacrol) - supports respiratory infection; Sore throat relief (antiseptic gargle)",
      "reference_ids": [
       "REF-0486",
-      "REF-0519"
+      "REF-0519",
+      "REF-1303",
+      "REF-1304",
+      "REF-1305",
+      "REF-1306",
+      "REF-1307",
+      "REF-1309",
+      "REF-1310",
+      "REF-1312"
      ],
      "status": "verified"
     },
@@ -30015,7 +30026,8 @@
      "action": "antispasmodic",
      "note": "Antitussive and antispasmodic (eases bronchial spasm and coughing)",
      "reference_ids": [
-      "REF-0519"
+      "REF-0519",
+      "REF-1305"
      ],
      "status": "verified"
     },
@@ -30135,9 +30147,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1303",
+    "REF-1304",
+    "REF-1305",
+    "REF-1306",
+    "REF-1307",
+    "REF-1308",
+    "REF-1309",
+    "REF-1310",
+    "REF-1311",
+    "REF-1312"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "tilia-cordata",
@@ -30166,7 +30190,10 @@
      "reference_ids": [
       "REF-0478",
       "REF-0554",
-      "REF-0555"
+      "REF-0555",
+      "REF-1315",
+      "REF-1317",
+      "REF-1322"
      ]
     },
     {
@@ -30198,7 +30225,9 @@
      "action": "antioxidant",
      "note": "Antioxidant and acetylcholinesterase-inhibitory (linden-flower extract scavenges free radicals and inhibits AChE in vitro)",
      "reference_ids": [
-      "REF-0554"
+      "REF-0554",
+      "REF-1314",
+      "REF-1321"
      ],
      "status": "verified"
     },
@@ -30215,7 +30244,9 @@
      "note": "Relief of mild mental stress and to aid sleep (gentle calming); flavonoid fractions of Tilia (notably tiliroside) show anxiolytic activity in animal models via the serotonergic and GABA/benzodiazepine systems (mechanistic evidence from the related species T. americana)",
      "reference_ids": [
       "REF-0478",
-      "REF-0555"
+      "REF-0555",
+      "REF-1321",
+      "REF-1322"
      ],
      "status": "verified"
     },
@@ -30344,9 +30375,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1313",
+    "REF-1314",
+    "REF-1315",
+    "REF-1316",
+    "REF-1317",
+    "REF-1318",
+    "REF-1319",
+    "REF-1320",
+    "REF-1321",
+    "REF-1322"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-13"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "trachyspermum-ammi",
@@ -30839,7 +30882,10 @@
      "reference_ids": [
       "REF-0027",
       "REF-0098",
-      "REF-0140"
+      "REF-0140",
+      "REF-1323",
+      "REF-1324",
+      "REF-1327"
      ],
      "status": "verified"
     },
@@ -30848,7 +30894,11 @@
      "reference_ids": [
       "REF-0027",
       "REF-0098",
-      "REF-0140"
+      "REF-0140",
+      "REF-1323",
+      "REF-1324",
+      "REF-1326",
+      "REF-1327"
      ],
      "status": "verified"
     },
@@ -30867,7 +30917,8 @@
      "reference_ids": [
       "REF-0027",
       "REF-0098",
-      "REF-0140"
+      "REF-0140",
+      "REF-1324"
      ],
      "status": "verified"
     },
@@ -30876,7 +30927,8 @@
      "reference_ids": [
       "REF-0027",
       "REF-0098",
-      "REF-0140"
+      "REF-0140",
+      "REF-1323"
      ],
      "status": "verified"
     }
@@ -30994,9 +31046,16 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1323",
+    "REF-1324",
+    "REF-1325",
+    "REF-1326",
+    "REF-1327"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "trigonella-foenum-graecum",

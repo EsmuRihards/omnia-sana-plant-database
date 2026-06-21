@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1302,
+ "count": 1327,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -1401,6 +1401,36 @@
    "conditions": [
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1314",
+   "key": "yuksel2025tilia",
+   "type": "article",
+   "title": "Tilia species (linden) exert anti-cancer effects on MIA PaCa-2 cells through the modulation of oxidative stress and inflammation",
+   "authors": "Yuksel, G., Ozhan, Y., Guresci, D., Guzelmeric, E. and others",
+   "journal": "Scientific Reports",
+   "year": "2025",
+   "doi": "10.1038/s41598-025-86457-2",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41598-025-86457-2",
+   "link_type": "doi",
+   "citation": "Yuksel, G., Ozhan, Y., Guresci, D., Guzelmeric, E. and others (2025) 'Tilia species (linden) exert anti-cancer effects on MIA PaCa-2 cells through the modulation of oxidative stress and inflammation', Scientific Reports, 15(1), pp. 2317. doi:10.1038/s41598-025-86457-2",
+   "abstract": "Extracts of Tilia species including T. cordata flowers and bracts displayed remarkable antioxidant activity, inhibited LPS-induced nitrite, IL-6 and PGE2 production (anti-inflammatory) and showed anticancer effects on pancreatic cancer cells, supporting the bioactivity of linden.",
+   "tier": "preclinical",
+   "display": "Tilia species (linden) exert anti-cancer effects on MIA PaCa-2 cells through the modulation of oxidative stress and inflammation",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1284",
@@ -2934,6 +2964,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1321",
+   "key": "martin2024tilia",
+   "type": "article",
+   "title": "In Vitro Antioxidant Activity and Anticonvulsant Properties on Zebrafish PTZ-Induced Seizure Model of a Tilia Aqueous Extract",
+   "authors": "Martin, E.M.S., Sosa, A.M., Martinez, C.S., Prieto, J. and others",
+   "journal": "Journal of Pharmacopuncture",
+   "year": "2024",
+   "doi": "10.3831/KPI.2024.27.3.211",
+   "url": "",
+   "link": "https://doi.org/10.3831/KPI.2024.27.3.211",
+   "link_type": "doi",
+   "citation": "Martin, E.M.S., Sosa, A.M., Martinez, C.S., Prieto, J. and others (2024) 'In Vitro Antioxidant Activity and Anticonvulsant Properties on Zebrafish PTZ-Induced Seizure Model of a Tilia Aqueous Extract', Journal of Pharmacopuncture, 27(3), pp. 211-222. doi:10.3831/KPI.2024.27.3.211",
+   "abstract": "A standardized aqueous extract of Tilia (a genus traditionally used, like T. cordata, for its tranquilizing properties) exhibited antioxidant (free-radical-scavenging) activity and anticonvulsant effects in a zebrafish seizure model, attributed to its polyphenols and flavonoids, supporting the calming use of linden.",
+   "tier": "preclinical",
+   "display": "In Vitro Antioxidant Activity and Anticonvulsant Properties on Zebrafish PTZ-Induced Seizure Model of a Tilia Aqueous Extract",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Anxiolytic / calming"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0906",
    "key": "chak2024stellaria",
    "type": "article",
@@ -3050,6 +3111,66 @@
     "Epilobium parviflorum"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1323",
+   "key": "ngangom2024whiteclover",
+   "type": "article",
+   "title": "Investigation of Trifolium repens L. from the Indian Himalayan region as a phyto-therapeutic agent",
+   "authors": "Ngangom, L., Venugopal, D. and Pandey, N.",
+   "journal": "Natural Product Research",
+   "year": "2024",
+   "doi": "10.1080/14786419.2023.2299319",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2023.2299319",
+   "link_type": "doi",
+   "citation": "Ngangom, L., Venugopal, D. and Pandey, N (2024) 'Investigation of Trifolium repens L. from the Indian Himalayan region as a phyto-therapeutic agent', Natural Product Research, 38(24), pp. 4468-4478. doi:10.1080/14786419.2023.2299319",
+   "abstract": "This review of white clover (Trifolium repens), traditionally used for skin problems, wound healing, stomach disorders, as a sedative, antiseptic, analgesic and expectorant and for psoriasis and eczema, summarises its bioactive compounds (quercetin, kaempferol, myricetin, acacetin, linamarin) and their antibacterial, antifungal, anti-inflammatory and anti-hepatotoxic activities.",
+   "tier": "review",
+   "display": "Investigation of Trifolium repens L. from the Indian Himalayan region as a phyto-therapeutic agent",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1306",
+   "key": "wirtu2024thyme",
+   "type": "article",
+   "title": "Isolation, characterization and antimicrobial activity study of Thymus vulgaris",
+   "authors": "Wirtu, S.F., Ramaswamy, K., Maitra, R., Chopra, S. and others",
+   "journal": "Scientific Reports",
+   "year": "2024",
+   "doi": "10.1038/s41598-024-71012-2",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41598-024-71012-2",
+   "link_type": "doi",
+   "citation": "Wirtu, S.F., Ramaswamy, K., Maitra, R., Chopra, S. and others (2024) 'Isolation, characterization and antimicrobial activity study of Thymus vulgaris', Scientific Reports, 14(1), pp. 21573. doi:10.1038/s41598-024-71012-2",
+   "abstract": "This study isolated and characterised the bioactive constituents of thyme (Thymus vulgaris) and demonstrated their antimicrobial activity against pathogenic microorganisms, supporting the antimicrobial use of thyme.",
+   "tier": "preclinical",
+   "display": "Isolation, characterization and antimicrobial activity study of Thymus vulgaris",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -4426,6 +4547,35 @@
     "Galium aparine"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1307",
+   "key": "diniz2023thyme",
+   "type": "article",
+   "title": "Antibacterial activity of Thymus vulgaris (thyme) essential oil against strains of Pseudomonas aeruginosa, Klebsiella pneumoniae and Staphylococcus saprophyticus isolated from meat product",
+   "authors": "Diniz, A.F., Santos, B., Nobrega, L.M.M.O., Santos, V.R.L. and others",
+   "journal": "Brazilian Journal of Biology",
+   "year": "2023",
+   "doi": "10.1590/1519-6984.275306",
+   "url": "",
+   "link": "https://doi.org/10.1590/1519-6984.275306",
+   "link_type": "doi",
+   "citation": "Diniz, A.F., Santos, B., Nobrega, L.M.M.O., Santos, V.R.L. and others (2023) 'Antibacterial activity of Thymus vulgaris (thyme) essential oil against strains of Pseudomonas aeruginosa, Klebsiella pneumoniae and Staphylococcus saprophyticus isolated from meat product', Brazilian Journal of Biology, 83, pp. e275306. doi:10.1590/1519-6984.275306",
+   "abstract": "Thyme (Thymus vulgaris) essential oil showed antibacterial activity against Pseudomonas aeruginosa, Klebsiella pneumoniae and Staphylococcus saprophyticus isolated from meat, supporting the antimicrobial use of thyme.",
+   "tier": "preclinical",
+   "display": "Antibacterial activity of Thymus vulgaris (thyme) essential oil against strains of Pseudomonas aeruginosa, Klebsiella pneumoniae and Staphylococcus saprophyticus isolated from meat product",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -6678,6 +6828,35 @@
     "Stress",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1309",
+   "key": "doghish2023thyme",
+   "type": "article",
+   "title": "Thymus vulgaris Oil Nanoemulsion: Synthesis, Characterization, Antimicrobial and Anticancer Activities",
+   "authors": "Doghish, A.S., Shehabeldine, A.M., El-Mahdy, H.A., Hassanin, M.M.H. and others",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28196910",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28196910",
+   "link_type": "doi",
+   "citation": "Doghish, A.S., Shehabeldine, A.M., El-Mahdy, H.A., Hassanin, M.M.H. and others (2023) 'Thymus vulgaris Oil Nanoemulsion: Synthesis, Characterization, Antimicrobial and Anticancer Activities', Molecules, 28(19), pp. 6910. doi:10.3390/molecules28196910",
+   "abstract": "A thyme (Thymus vulgaris) oil nanoemulsion was synthesised and characterised and showed enhanced antimicrobial and anticancer activities, supporting the antimicrobial application of thyme oil in a nanoformulation.",
+   "tier": "preclinical",
+   "display": "Thymus vulgaris Oil Nanoemulsion: Synthesis, Characterization, Antimicrobial and Anticancer Activities",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0435",
@@ -9647,6 +9826,33 @@
    ]
   },
   {
+   "ref_id": "REF-1308",
+   "key": "tardugno2020thyme",
+   "type": "article",
+   "title": "Thymus vulgaris L. essential oils from Emilia Romagna Apennines (Italy): phytochemical composition and antimicrobial activity on food-borne pathogens",
+   "authors": "Tardugno, R., Serio, A., Purgatorio, C., Savini, V. and others",
+   "journal": "Natural Product Research",
+   "year": "2022",
+   "doi": "10.1080/14786419.2020.1798666",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2020.1798666",
+   "link_type": "doi",
+   "citation": "Tardugno, R., Serio, A., Purgatorio, C., Savini, V. and others (2022) 'Thymus vulgaris L. essential oils from Emilia Romagna Apennines (Italy): phytochemical composition and antimicrobial activity on food-borne pathogens', Natural Product Research, 36(3), pp. 837-842. doi:10.1080/14786419.2020.1798666",
+   "abstract": "Thymus vulgaris essential oils from the Italian Apennines were characterised phytochemically (thymol/carvacrol chemotypes) and showed antimicrobial activity against food-borne pathogens, defining the composition and bioactivity of thyme oil.",
+   "tier": "preclinical",
+   "display": "Thymus vulgaris L. essential oils from Emilia Romagna Apennines (Italy): phytochemical composition and antimicrobial activity on food-borne pathogens",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0926",
    "key": "abidi2022marrubium",
    "type": "article",
@@ -10318,6 +10524,34 @@
    "conditions": [
     "Lactation support"
    ]
+  },
+  {
+   "ref_id": "REF-1317",
+   "key": "melnyk2020tilia",
+   "type": "article",
+   "title": "Characterization of herbal teas containing lime flowers (Tiliae flos) by HPTLC method with chemometric analysis",
+   "authors": "Melnyk, N., Pawlowska, K.A., Ziaja, M., Wojnowski, W. and others",
+   "journal": "Food Chemistry",
+   "year": "2021",
+   "doi": "10.1016/j.foodchem.2020.128929",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2020.128929",
+   "link_type": "doi",
+   "citation": "Melnyk, N., Pawlowska, K.A., Ziaja, M., Wojnowski, W. and others (2021) 'Characterization of herbal teas containing lime flowers (Tiliae flos) by HPTLC method with chemometric analysis', Food Chemistry, 346, pp. 128929. doi:10.1016/j.foodchem.2020.128929",
+   "abstract": "An HPTLC method with chemometric analysis was developed to characterise and authenticate lime flowers (Tiliae flos: Tilia cordata, T. platyphyllos, T. x europaea), traditionally used for feverish colds and coughs, identifying linarin as a marker constituent.",
+   "tier": "preclinical",
+   "display": "Characterization of herbal teas containing lime flowers (Tiliae flos) by HPTLC method with chemometric analysis",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0922",
@@ -11655,6 +11889,62 @@
    ],
    "scientific": [
     "Coriandrum sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1313",
+   "key": "symma2021tilia",
+   "type": "article",
+   "title": "Novel Piperidine and 3,4-dihydro-2H-pyrrole Alkaloids from Tilia platyphyllos and Tilia cordata Flowers",
+   "authors": "Symma, N., Butergerds, M., Sendker, J., Petereit, F. and others",
+   "journal": "Planta Medica",
+   "year": "2021",
+   "doi": "10.1055/a-1340-0099",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-1340-0099",
+   "link_type": "doi",
+   "citation": "Symma, N., Butergerds, M., Sendker, J., Petereit, F. and others (2021) 'Novel Piperidine and 3,4-dihydro-2H-pyrrole Alkaloids from Tilia platyphyllos and Tilia cordata Flowers', Planta Medica, 87(9), pp. 686-700. doi:10.1055/a-1340-0099",
+   "abstract": "Lime flowers (Tilia cordata and T. platyphyllos), used traditionally for common cold and mental stress, were investigated phytochemically and six new alkaloids (tiliines, tiliamines, tilacetines) were isolated and characterised, including from hot-water extracts used in traditional medicine.",
+   "tier": "preclinical",
+   "display": "Novel Piperidine and 3,4-dihydro-2H-pyrrole Alkaloids from Tilia platyphyllos and Tilia cordata Flowers",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1320",
+   "key": "siger2020tilia",
+   "type": "article",
+   "title": "Nutlets of Tilia cordata Mill. and Tilia platyphyllos Scop. - Source of bioactive compounds",
+   "authors": "Siger, A., Antkowiak, W., Dwiecki, K., Rokosik, E. and Rudzinska, M.",
+   "journal": "Food Chemistry",
+   "year": "2021",
+   "doi": "10.1016/j.foodchem.2020.128888",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2020.128888",
+   "link_type": "doi",
+   "citation": "Siger, A., Antkowiak, W., Dwiecki, K., Rokosik, E. and Rudzinska, M (2021) 'Nutlets of Tilia cordata Mill. and Tilia platyphyllos Scop. - Source of bioactive compounds', Food Chemistry, 346, pp. 128888. doi:10.1016/j.foodchem.2020.128888",
+   "abstract": "The nutlets of small-leaved lime (Tilia cordata) and large-leaved lime were found to be a rich source of bioactive compounds, including phytosterols (beta-sitosterol), squalene, tocopherols and tocotrienols (vitamin E), characterising the lipophilic constituents of linden seed oil.",
+   "tier": "preclinical",
+   "display": "Nutlets of Tilia cordata Mill. and Tilia platyphyllos Scop. - Source of bioactive compounds",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
    ],
    "actions": [],
    "conditions": []
@@ -14917,6 +15207,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1326",
+   "key": "ahmad2020whitecloverkidney",
+   "type": "article",
+   "title": "Nephroprotective property of Trifolium repens leaf extract against paracetamol-induced kidney damage in mice",
+   "authors": "Ahmad, S. and Zeb, A.",
+   "journal": "3 Biotech",
+   "year": "2020",
+   "doi": "10.1007/s13205-020-02539-0",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13205-020-02539-0",
+   "link_type": "doi",
+   "citation": "Ahmad, S. and Zeb, A (2020) 'Nephroprotective property of Trifolium repens leaf extract against paracetamol-induced kidney damage in mice', 3 Biotech, 10(12), pp. 541. doi:10.1007/s13205-020-02539-0",
+   "abstract": "A white clover (Trifolium repens) leaf extract protected against paracetamol-induced kidney damage in mice, reducing oxidative stress, demonstrating an antioxidant, nephroprotective effect of the plant.",
+   "tier": "preclinical",
+   "display": "Nephroprotective property of Trifolium repens leaf extract against paracetamol-induced kidney damage in mice",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0975",
    "key": "hoffmann2020tormentil",
    "type": "article",
@@ -15132,6 +15451,37 @@
     "Swelling / fluid retention",
     "Varicose veins"
    ]
+  },
+  {
+   "ref_id": "REF-1324",
+   "key": "ahmad2020whiteclover",
+   "type": "article",
+   "title": "Phytochemical profile and pharmacological properties of Trifolium repens",
+   "authors": "Ahmad, S. and Zeb, A.",
+   "journal": "Journal of Basic and Clinical Physiology and Pharmacology",
+   "year": "2020",
+   "doi": "10.1515/jbcpp-2020-0015",
+   "url": "",
+   "link": "https://doi.org/10.1515/jbcpp-2020-0015",
+   "link_type": "doi",
+   "citation": "Ahmad, S. and Zeb, A (2020) 'Phytochemical profile and pharmacological properties of Trifolium repens', Journal of Basic and Clinical Physiology and Pharmacology, 32(3), pp. 20200015. doi:10.1515/jbcpp-2020-0015",
+   "abstract": "This review of white clover (Trifolium repens) summarises its phytochemical profile (phenolics, flavonoids, isoflavones) and pharmacological properties, including antioxidant, anti-inflammatory, antimicrobial and immunomodulatory activities.",
+   "tier": "review",
+   "display": "Phytochemical profile and pharmacological properties of Trifolium repens",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0999",
@@ -16031,6 +16381,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1305",
+   "key": "kowalczyk2020thyme",
+   "type": "article",
+   "title": "Thymol and Thyme Essential Oil-New Insights into Selected Therapeutic Applications",
+   "authors": "Kowalczyk, A., Przychodna, M., Sopata, S., Bodalska, A. and others",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25184125",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25184125",
+   "link_type": "doi",
+   "citation": "Kowalczyk, A., Przychodna, M., Sopata, S., Bodalska, A. and others (2020) 'Thymol and Thyme Essential Oil-New Insights into Selected Therapeutic Applications', Molecules, 25(18), pp. 4125. doi:10.3390/molecules25184125",
+   "abstract": "This review of thymol and thyme (Thymus vulgaris) essential oil summarises new insights into their therapeutic applications, including antibacterial, antifungal, antioxidant, anti-inflammatory, antispasmodic and expectorant effects relevant to respiratory and digestive complaints.",
+   "tier": "review",
+   "display": "Thymol and Thyme Essential Oil-New Insights into Selected Therapeutic Applications",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antispasmodic"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0973",
    "key": "melzig2020tormentil",
    "type": "article",
@@ -16119,6 +16499,33 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1325",
+   "key": "sarno2020whiteclover",
+   "type": "article",
+   "title": "Trifolium repens Blocks Proliferation in Chronic Myelogenous Leukemia via the BCR-ABL/STAT5 Pathway",
+   "authors": "Sarno, F., Pepe, G., Termolino, P., Carafa, V. and others",
+   "journal": "Cells",
+   "year": "2020",
+   "doi": "10.3390/cells9020379",
+   "url": "",
+   "link": "https://doi.org/10.3390/cells9020379",
+   "link_type": "doi",
+   "citation": "Sarno, F., Pepe, G., Termolino, P., Carafa, V. and others (2020) 'Trifolium repens Blocks Proliferation in Chronic Myelogenous Leukemia via the BCR-ABL/STAT5 Pathway', Cells, 9(2), pp. 379. doi:10.3390/cells9020379",
+   "abstract": "A white clover (Trifolium repens) extract blocked proliferation in chronic myelogenous leukemia cells via the BCR-ABL/STAT5 pathway, demonstrating an antiproliferative, antitumour activity of the plant.",
+   "tier": "preclinical",
+   "display": "Trifolium repens Blocks Proliferation in Chronic Myelogenous Leukemia via the BCR-ABL/STAT5 Pathway",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -19615,6 +20022,63 @@
    ]
   },
   {
+   "ref_id": "REF-1315",
+   "key": "czerwinska2018tilia",
+   "type": "article",
+   "title": "The influence of procyanidins isolated from small-leaved lime flowers (Tilia cordata Mill.) on human neutrophils",
+   "authors": "Czerwinska, M.E., Dudek, M.K., Pawlowska, K.A., Prus, A. and others",
+   "journal": "Fitoterapia",
+   "year": "2018",
+   "doi": "10.1016/j.fitote.2018.02.018",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2018.02.018",
+   "link_type": "doi",
+   "citation": "Czerwinska, M.E., Dudek, M.K., Pawlowska, K.A., Prus, A. and others (2018) 'The influence of procyanidins isolated from small-leaved lime flowers (Tilia cordata Mill.) on human neutrophils', Fitoterapia, 127, pp. 115-122. doi:10.1016/j.fitote.2018.02.018",
+   "abstract": "Procyanidins isolated from small-leaved lime (Tilia cordata) flowers reduced reactive-oxygen-species and pro-inflammatory cytokine (IL-8, MIP-1beta) release from human neutrophils, partially supporting the traditional use of lime-flower infusions for inflammation and mucosal irritation in the common cold.",
+   "tier": "preclinical",
+   "display": "The influence of procyanidins isolated from small-leaved lime flowers (Tilia cordata Mill.) on human neutrophils",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1304",
+   "key": "salehi2018thymol",
+   "type": "article",
+   "title": "Thymol, thyme, and other plant sources: Health and potential uses",
+   "authors": "Salehi, B., Mishra, A.P., Shukla, I., Sharifi-Rad, M. and others",
+   "journal": "Phytotherapy Research",
+   "year": "2018",
+   "doi": "10.1002/ptr.6109",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6109",
+   "link_type": "doi",
+   "citation": "Salehi, B., Mishra, A.P., Shukla, I., Sharifi-Rad, M. and others (2018) 'Thymol, thyme, and other plant sources: Health and potential uses', Phytotherapy Research, 32(9), pp. 1688-1706. doi:10.1002/ptr.6109",
+   "abstract": "This comprehensive review of thymol, the principal phenolic monoterpene of thyme (Thymus vulgaris), summarises its antimicrobial, antioxidant, anti-inflammatory, antispasmodic and expectorant activities and its health applications.",
+   "tier": "review",
+   "display": "Thymol, thyme, and other plant sources: Health and potential uses",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0733",
    "key": "abiri2018vulgaris",
    "type": "article",
@@ -19954,6 +20418,35 @@
     "Arctium minus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1303",
+   "key": "sakkas2017thyme",
+   "type": "article",
+   "title": "Antimicrobial Activity of Basil, Oregano, and Thyme Essential Oils",
+   "authors": "Sakkas, H. and Papadopoulou, C.",
+   "journal": "Journal of Microbiology and Biotechnology",
+   "year": "2017",
+   "doi": "10.4014/jmb.1608.08024",
+   "url": "",
+   "link": "https://doi.org/10.4014/jmb.1608.08024",
+   "link_type": "doi",
+   "citation": "Sakkas, H. and Papadopoulou, C (2017) 'Antimicrobial Activity of Basil, Oregano, and Thyme Essential Oils', Journal of Microbiology and Biotechnology, 27(3), pp. 429-438. doi:10.4014/jmb.1608.08024",
+   "abstract": "This review summarises the antimicrobial activity of thyme (Thymus vulgaris), basil and oregano essential oils against bacteria and fungi, attributing thyme's potent activity to its phenolic monoterpenes thymol and carvacrol.",
+   "tier": "preclinical",
+   "display": "Antimicrobial Activity of Basil, Oregano, and Thyme Essential Oils",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -21844,6 +22337,35 @@
    ]
   },
   {
+   "ref_id": "REF-1312",
+   "key": "sikicpogacar2015thyme",
+   "type": "article",
+   "title": "Anti-adhesion activity of thyme (Thymus vulgaris L.) extract, thyme post-distillation waste, and olive leaf extract against Campylobacter jejuni on polystyrene and intestine epithelial cells",
+   "authors": "Sikic Pogacar, M., Klancnik, A., Bucar, F., Langerholc, T. and others",
+   "journal": "Journal of the Science of Food and Agriculture",
+   "year": "2016",
+   "doi": "10.1002/jsfa.7391",
+   "url": "",
+   "link": "https://doi.org/10.1002/jsfa.7391",
+   "link_type": "doi",
+   "citation": "Sikic Pogacar, M., Klancnik, A., Bucar, F., Langerholc, T. and others (2016) 'Anti-adhesion activity of thyme (Thymus vulgaris L.) extract, thyme post-distillation waste, and olive leaf extract against Campylobacter jejuni on polystyrene and intestine epithelial cells', Journal of the Science of Food and Agriculture, 96(8), pp. 2723-2730. doi:10.1002/jsfa.7391",
+   "abstract": "Thyme (Thymus vulgaris) extract and post-distillation waste reduced the adhesion and colonisation of Campylobacter jejuni on surfaces and intestinal epithelial cells, demonstrating an antimicrobial/anti-adhesion activity of thyme.",
+   "tier": "preclinical",
+   "display": "Anti-adhesion activity of thyme (Thymus vulgaris L.) extract, thyme post-distillation waste, and olive leaf extract against Campylobacter jejuni on polystyrene and intestine epithelial cells",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0757",
    "key": "ohishi2016greentea",
    "type": "article",
@@ -22362,6 +22884,33 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1311",
+   "key": "vetvicka2016thyme",
+   "type": "article",
+   "title": "Essential Oils from Thyme (Thymus vulgaris): Chemical Composition and Biological Effects in Mouse Model",
+   "authors": "Vetvicka, V. and Vetvickova, J.",
+   "journal": "Journal of Medicinal Food",
+   "year": "2016",
+   "doi": "10.1089/jmf.2016.0029",
+   "url": "",
+   "link": "https://doi.org/10.1089/jmf.2016.0029",
+   "link_type": "doi",
+   "citation": "Vetvicka, V. and Vetvickova, J (2016) 'Essential Oils from Thyme (Thymus vulgaris): Chemical Composition and Biological Effects in Mouse Model', Journal of Medicinal Food, 19(12), pp. 1180-1187. doi:10.1089/jmf.2016.0029",
+   "abstract": "Essential oils from thyme (Thymus vulgaris) were characterised chemically and showed biological effects (immune, antioxidant and infection-protective) in a mouse model, supporting the medicinal use of thyme oil.",
+   "tier": "preclinical",
+   "display": "Essential Oils from Thyme (Thymus vulgaris): Chemical Composition and Biological Effects in Mouse Model",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0082",
@@ -23641,6 +24190,35 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-1310",
+   "key": "oliva2015thyme",
+   "type": "article",
+   "title": "Antimicrobial activity of essential oils of Thymus vulgaris and Origanum vulgare on phytopathogenic strains isolated from soybean",
+   "authors": "Oliva, M.L., Carezzano, M.E., Giuliano, M., Daghero, J. and others",
+   "journal": "Plant Biology",
+   "year": "2015",
+   "doi": "10.1111/plb.12282",
+   "url": "",
+   "link": "https://doi.org/10.1111/plb.12282",
+   "link_type": "doi",
+   "citation": "Oliva, M.L., Carezzano, M.E., Giuliano, M., Daghero, J. and others (2015) 'Antimicrobial activity of essential oils of Thymus vulgaris and Origanum vulgare on phytopathogenic strains isolated from soybean', Plant Biology, 17(3), pp. 758-765. doi:10.1111/plb.12282",
+   "abstract": "The essential oils of thyme (Thymus vulgaris) and oregano showed antimicrobial activity against phytopathogenic strains, characterising the antibacterial and antifungal potency of thyme oil.",
+   "tier": "preclinical",
+   "display": "Antimicrobial activity of essential oils of Thymus vulgaris and Origanum vulgare on phytopathogenic strains isolated from soybean",
+   "plants": [
+    "Common thyme",
+    "Garden thyme",
+    "Thyme"
+   ],
+   "scientific": [
+    "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1266",
@@ -29336,6 +29914,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1327",
+   "key": "kolodziejczykczepas2012trifolium",
+   "type": "article",
+   "title": "Trifolium species-derived substances and extracts--biological activity and prospects for medicinal applications",
+   "authors": "Kolodziejczyk-Czepas, J.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2012",
+   "doi": "10.1016/j.jep.2012.06.048",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2012.06.048",
+   "link_type": "doi",
+   "citation": "Kolodziejczyk-Czepas, J (2012) 'Trifolium species-derived substances and extracts--biological activity and prospects for medicinal applications', Journal of Ethnopharmacology, 143(1), pp. 14-23. doi:10.1016/j.jep.2012.06.048",
+   "abstract": "This review of the genus Trifolium (clovers, including Trifolium repens) summarises the biological activity of their flavonoids, saponins, clovamides and phenolic acids, including antioxidant, anti-inflammatory, anti-angiogenic and anticancer properties, and the prospects for medicinal applications.",
+   "tier": "review",
+   "display": "Trifolium species-derived substances and extracts--biological activity and prospects for medicinal applications",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0433",
    "key": "van2012vitex",
    "type": "article",
@@ -31601,6 +32209,36 @@
    ]
   },
   {
+   "ref_id": "REF-1322",
+   "key": "aguirrehernandez2009tilia",
+   "type": "article",
+   "title": "HPLC/MS analysis and anxiolytic-like effect of quercetin and kaempferol flavonoids from Tilia americana var. mexicana",
+   "authors": "Aguirre-Hernandez, E., Gonzalez-Trujano, M.E., Martinez, A.L., Moreno, J. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2009",
+   "doi": "10.1016/j.jep.2009.09.044",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2009.09.044",
+   "link_type": "doi",
+   "citation": "Aguirre-Hernandez, E., Gonzalez-Trujano, M.E., Martinez, A.L., Moreno, J. and others (2009) 'HPLC/MS analysis and anxiolytic-like effect of quercetin and kaempferol flavonoids from Tilia americana var. mexicana', Journal of Ethnopharmacology, 127(1), pp. 91-97. doi:10.1016/j.jep.2009.09.044",
+   "abstract": "Flavonoids (quercetin and kaempferol glycosides) from Tilia inflorescences produced an anxiolytic-like effect in mice (open-field, hole-board, plus-maze, pentobarbital-induced hypnosis), providing genus-level mechanistic support for the traditional calming use of lime flowers.",
+   "tier": "preclinical",
+   "display": "HPLC/MS analysis and anxiolytic-like effect of quercetin and kaempferol flavonoids from Tilia americana var. mexicana",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [
+    "Anxiolytic / calming"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0170",
    "key": "mori2009improving",
    "type": "article",
@@ -32329,6 +32967,34 @@
    "conditions": [
     "Arthritis / joint pain"
    ]
+  },
+  {
+   "ref_id": "REF-1318",
+   "key": "manuele2008tilia",
+   "type": "article",
+   "title": "Effect of Tilia x viridis flower extract on the proliferation of a lymphoma cell line and on normal murine lymphocytes: contribution of monoterpenes, especially limonene",
+   "authors": "Manuele, M.G., Ferraro, G. and Anesini, C.",
+   "journal": "Phytotherapy Research",
+   "year": "2008",
+   "doi": "10.1002/ptr.2524",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.2524",
+   "link_type": "doi",
+   "citation": "Manuele, M.G., Ferraro, G. and Anesini, C (2008) 'Effect of Tilia x viridis flower extract on the proliferation of a lymphoma cell line and on normal murine lymphocytes: contribution of monoterpenes, especially limonene', Phytotherapy Research, 22(11), pp. 1520-1526. doi:10.1002/ptr.2524",
+   "abstract": "Extending earlier work on Tilia cordata, a Tilia flower extract and its monoterpenes (especially limonene) showed selective antiproliferative action on tumour lymphocytes and an immunomodulatory stimulatory effect on normal lymphocytes, indicating a potential source of immunomodulatory monoterpenes in linden.",
+   "tier": "preclinical",
+   "display": "Effect of Tilia x viridis flower extract on the proliferation of a lymphoma cell line and on normal murine lymphocytes: contribution of monoterpenes, especially limonene",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0038",
@@ -34646,6 +35312,34 @@
    "display": "Taraxacum — a review on its phytochemical and pharmacological profile",
    "plants": [],
    "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1316",
+   "key": "barreiroarcos2006tilia",
+   "type": "article",
+   "title": "Tilia cordata Mill. extracts and scopoletin (isolated compound): differential cell growth effects on lymphocytes",
+   "authors": "Barreiro Arcos, M.L., Cremaschi, G., Werner, S., Coussio, J. and others",
+   "journal": "Phytotherapy Research",
+   "year": "2006",
+   "doi": "10.1002/ptr.1798",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.1798",
+   "link_type": "doi",
+   "citation": "Barreiro Arcos, M.L., Cremaschi, G., Werner, S., Coussio, J. and others (2006) 'Tilia cordata Mill. extracts and scopoletin (isolated compound): differential cell growth effects on lymphocytes', Phytotherapy Research, 20(1), pp. 34-40. doi:10.1002/ptr.1798",
+   "abstract": "Aqueous and organic extracts of Tilia cordata flowers, used in folk medicine for anxiety, showed selective antiproliferative and immunosuppressive effects on lymphocytes, with the coumarin scopoletin identified as partly responsible for the activity.",
+   "tier": "preclinical",
+   "display": "Tilia cordata Mill. extracts and scopoletin (isolated compound): differential cell growth effects on lymphocytes",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
    "actions": [],
    "conditions": []
   },
@@ -37320,6 +38014,34 @@
    "conditions": [
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1319",
+   "key": "mur2001tilia",
+   "type": "article",
+   "title": "Allergy to linden pollen (Tilia cordata)",
+   "authors": "Mur, P., Feo Brito, F., Lombardero, M., Barber, D. and others",
+   "journal": "Allergy",
+   "year": "2001",
+   "doi": "10.1034/j.1398-9995.2001.056005457.x",
+   "url": "",
+   "link": "https://doi.org/10.1034/j.1398-9995.2001.056005457.x",
+   "link_type": "doi",
+   "citation": "Mur, P., Feo Brito, F., Lombardero, M., Barber, D. and others (2001) 'Allergy to linden pollen (Tilia cordata)', Allergy, 56(5), pp. 457-458. doi:10.1034/j.1398-9995.2001.056005457.x",
+   "abstract": "This case report documents IgE-mediated allergy (rhinoconjunctivitis and asthma) to linden (Tilia cordata) pollen, characterising a recognised allergic-sensitisation safety consideration of the plant.",
+   "tier": "preclinical",
+   "display": "Allergy to linden pollen (Tilia cordata)",
+   "plants": [
+    "Basswood",
+    "Lime flower",
+    "Linden",
+    "Small-leaved lime"
+   ],
+   "scientific": [
+    "Tilia cordata"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0614",

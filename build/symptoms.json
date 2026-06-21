@@ -1244,37 +1244,51 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 7,
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0389",
       "REF-0390",
-      "REF-0391"
+      "REF-0391",
+      "REF-1338",
+      "REF-1339",
+      "REF-1340",
+      "REF-1341",
+      "REF-1342",
+      "REF-1343",
+      "REF-1344",
+      "REF-1346",
+      "REF-1347"
      ]
     },
     {
-     "condition": "uti",
-     "label": "Urinary tract infection (UTI)",
-     "evidence": 7,
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0389",
       "REF-0390",
-      "REF-0391"
+      "REF-0391",
+      "REF-1338",
+      "REF-1342",
+      "REF-1347"
      ]
     },
     {
      "condition": "urinary-support",
      "label": "Urinary support",
-     "evidence": 1,
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0390"
+      "REF-0390",
+      "REF-1340",
+      "REF-1344"
      ]
     }
    ]
@@ -17892,13 +17906,29 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0050",
       "REF-0098",
-      "REF-0263"
+      "REF-0263",
+      "REF-1332"
+     ]
+    },
+    {
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0050",
+      "REF-0098",
+      "REF-0263",
+      "REF-1333",
+      "REF-1334",
+      "REF-1337"
      ]
     },
     {
@@ -17967,18 +17997,6 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0050",
-      "REF-0098",
-      "REF-0263"
-     ]
-    },
-    {
-     "condition": "urinary-support",
-     "label": "Urinary support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0050",
       "REF-0098",
@@ -19036,6 +19054,24 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 10,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0025",
+      "REF-0091",
+      "REF-0112",
+      "REF-1348",
+      "REF-1349",
+      "REF-1350",
+      "REF-1351",
+      "REF-1352",
+      "REF-1356"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 8,
@@ -19050,18 +19086,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 8,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0025",
-      "REF-0091",
-      "REF-0112"
-     ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
      "evidence": 8,
      "status": "needs-review",
      "inferred": true,

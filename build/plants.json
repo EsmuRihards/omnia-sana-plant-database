@@ -31423,7 +31423,11 @@
      "reference_ids": [
       "REF-0050",
       "REF-0098",
-      "REF-0263"
+      "REF-0263",
+      "REF-1329",
+      "REF-1332",
+      "REF-1335",
+      "REF-1336"
      ],
      "status": "verified"
     },
@@ -31432,7 +31436,9 @@
      "reference_ids": [
       "REF-0050",
       "REF-0098",
-      "REF-0263"
+      "REF-0263",
+      "REF-1332",
+      "REF-1336"
      ],
      "status": "verified"
     },
@@ -31441,7 +31447,11 @@
      "reference_ids": [
       "REF-0050",
       "REF-0098",
-      "REF-0263"
+      "REF-0263",
+      "REF-1328",
+      "REF-1329",
+      "REF-1335",
+      "REF-1336"
      ],
      "status": "verified"
     },
@@ -31450,7 +31460,9 @@
      "reference_ids": [
       "REF-0050",
       "REF-0098",
-      "REF-0263"
+      "REF-0263",
+      "REF-1335",
+      "REF-1336"
      ],
      "status": "verified"
     },
@@ -31470,7 +31482,8 @@
      "reference_ids": [
       "REF-0050",
       "REF-0098",
-      "REF-0263"
+      "REF-0263",
+      "REF-1332"
      ],
      "status": "verified"
     },
@@ -31538,7 +31551,10 @@
      "reference_ids": [
       "REF-0050",
       "REF-0098",
-      "REF-0263"
+      "REF-0263",
+      "REF-1333",
+      "REF-1334",
+      "REF-1337"
      ],
      "status": "verified"
     },
@@ -31575,9 +31591,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1328",
+    "REF-1329",
+    "REF-1330",
+    "REF-1331",
+    "REF-1332",
+    "REF-1333",
+    "REF-1334",
+    "REF-1335",
+    "REF-1336",
+    "REF-1337"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "vaccinium-macrocarpon",
@@ -31637,7 +31665,8 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0390"
+      "REF-0390",
+      "REF-1345"
      ],
      "status": "verified"
     },
@@ -31645,7 +31674,10 @@
      "action": "urinary-antiseptic",
      "note": "Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining",
      "reference_ids": [
-      "REF-0390"
+      "REF-0390",
+      "REF-1338",
+      "REF-1339",
+      "REF-1346"
      ],
      "status": "verified"
     }
@@ -31657,7 +31689,10 @@
      "reference_ids": [
       "REF-0389",
       "REF-0390",
-      "REF-0391"
+      "REF-0391",
+      "REF-1338",
+      "REF-1342",
+      "REF-1347"
      ],
      "status": "verified"
     },
@@ -31665,7 +31700,9 @@
      "condition": "urinary-support",
      "note": "inferred from urinary-antiseptic action",
      "reference_ids": [
-      "REF-0390"
+      "REF-0390",
+      "REF-1340",
+      "REF-1344"
      ],
      "status": "needs-review"
     },
@@ -31675,7 +31712,16 @@
      "reference_ids": [
       "REF-0389",
       "REF-0390",
-      "REF-0391"
+      "REF-0391",
+      "REF-1338",
+      "REF-1339",
+      "REF-1340",
+      "REF-1341",
+      "REF-1342",
+      "REF-1343",
+      "REF-1344",
+      "REF-1346",
+      "REF-1347"
      ],
      "status": "verified"
     }
@@ -31707,9 +31753,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-1338",
+    "REF-1339",
+    "REF-1340",
+    "REF-1341",
+    "REF-1342",
+    "REF-1343",
+    "REF-1344",
+    "REF-1345",
+    "REF-1346",
+    "REF-1347"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "vaccinium-myrtillus",
@@ -31934,7 +31992,15 @@
      "reference_ids": [
       "REF-0025",
       "REF-0091",
-      "REF-0112"
+      "REF-0112",
+      "REF-1348",
+      "REF-1349",
+      "REF-1350",
+      "REF-1351",
+      "REF-1352",
+      "REF-1354",
+      "REF-1355",
+      "REF-1356"
      ],
      "status": "verified"
     }
@@ -31966,7 +32032,13 @@
      "reference_ids": [
       "REF-0025",
       "REF-0091",
-      "REF-0112"
+      "REF-0112",
+      "REF-1348",
+      "REF-1349",
+      "REF-1350",
+      "REF-1351",
+      "REF-1352",
+      "REF-1356"
      ],
      "status": "needs-review"
     },
@@ -32022,9 +32094,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1348",
+    "REF-1349",
+    "REF-1350",
+    "REF-1351",
+    "REF-1352",
+    "REF-1353",
+    "REF-1354",
+    "REF-1355",
+    "REF-1356",
+    "REF-1357"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "verbascum-densiflorum",

@@ -37,11 +37,15 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0390
+  - REF-1345
   status: verified
 - action: urinary-antiseptic
   note: Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining
   reference_ids:
   - REF-0390
+  - REF-1338
+  - REF-1339
+  - REF-1346
   status: verified
 indications:
 - condition: infection
@@ -50,11 +54,16 @@ indications:
   - REF-0389
   - REF-0390
   - REF-0391
+  - REF-1338
+  - REF-1342
+  - REF-1347
   status: verified
 - condition: urinary-support
   note: inferred from urinary-antiseptic action
   reference_ids:
   - REF-0390
+  - REF-1340
+  - REF-1344
   status: needs-review
 - condition: uti
   note: Anti-adhesion of uropathogenic Escherichia coli to the urinary tract lining; Prevention of recurrent
@@ -63,6 +72,15 @@ indications:
   - REF-0389
   - REF-0390
   - REF-0391
+  - REF-1338
+  - REF-1339
+  - REF-1340
+  - REF-1341
+  - REF-1342
+  - REF-1343
+  - REF-1344
+  - REF-1346
+  - REF-1347
   status: verified
 contraindications:
 - note: Best supported for PREVENTION of recurrent UTIs, not for treating an active infection; an established
@@ -84,10 +102,24 @@ contraindications:
   reference_ids:
   - REF-0391
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-1338
+- REF-1339
+- REF-1340
+- REF-1341
+- REF-1342
+- REF-1343
+- REF-1344
+- REF-1345
+- REF-1346
+- REF-1347
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (systematic review/network
   meta-analysis, mechanistic review, NCCIH). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (uti); the association is retained and now cited. | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds).'
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
+  to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1338, REF-1339, REF-1340,
+  REF-1341, REF-1342, REF-1343, REF-1344, REF-1345, REF-1346, REF-1347) — woven into relevant actions/indications
+  and the plant-level references bucket.'

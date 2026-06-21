@@ -33,6 +33,14 @@ actions:
   - REF-0025
   - REF-0091
   - REF-0112
+  - REF-1348
+  - REF-1349
+  - REF-1350
+  - REF-1351
+  - REF-1352
+  - REF-1354
+  - REF-1355
+  - REF-1356
   status: verified
 indications:
 - condition: arthritis
@@ -55,6 +63,12 @@ indications:
   - REF-0025
   - REF-0091
   - REF-0112
+  - REF-1348
+  - REF-1349
+  - REF-1350
+  - REF-1351
+  - REF-1352
+  - REF-1356
   status: needs-review
 - condition: menstrual-cramps
   reference_ids:
@@ -97,11 +111,25 @@ contraindications:
   - REF-0091
   - REF-0112
   status: verified
-provenance: book
+references:
+- REF-1348
+- REF-1349
+- REF-1350
+- REF-1351
+- REF-1352
+- REF-1353
+- REF-1354
+- REF-1355
+- REF-1356
+- REF-1357
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1348, REF-1349, REF-1350, REF-1351, REF-1352,
+  REF-1353, REF-1354, REF-1355, REF-1356, REF-1357) — woven into relevant actions/indications and the
+  plant-level references bucket.'

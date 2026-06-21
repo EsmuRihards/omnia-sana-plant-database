@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1327,
+ "count": 1357,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2101,6 +2101,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1328",
+   "key": "durovic2024nettle",
+   "type": "article",
+   "title": "Chemical Constituents of Stinging Nettle (Urtica dioica L.): A Comprehensive Review on Phenolic and Polyphenolic Compounds and Their Bioactivity",
+   "authors": "Durovic, S., Kojic, I., Radic, D., Smyatskaya, Y.A. and others",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2024",
+   "doi": "10.3390/ijms25063430",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms25063430",
+   "link_type": "doi",
+   "citation": "Durovic, S., Kojic, I., Radic, D., Smyatskaya, Y.A. and others (2024) 'Chemical Constituents of Stinging Nettle (Urtica dioica L.): A Comprehensive Review on Phenolic and Polyphenolic Compounds and Their Bioactivity', International Journal of Molecular Sciences, 25(6), pp. 3430. doi:10.3390/ijms25063430",
+   "abstract": "This comprehensive review of stinging nettle (Urtica dioica) summarises its phenolic and polyphenolic constituents (flavonoids, phenolic acids) and their antioxidant, anti-inflammatory and other bioactivities.",
+   "tier": "review",
+   "display": "Chemical Constituents of Stinging Nettle (Urtica dioica L.): A Comprehensive Review on Phenolic and Polyphenolic Compounds and Their Bioactivity",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0925",
    "key": "aitbaba2024marrubium",
    "type": "article",
@@ -3736,6 +3764,37 @@
    ]
   },
   {
+   "ref_id": "REF-1347",
+   "key": "tsiakoulias2024cranberry",
+   "type": "article",
+   "title": "Randomized, placebo-controlled, double-blinded study of prophylactic cranberries use in women with recurrent uncomplicated cystitis",
+   "authors": "Tsiakoulias, E., Gravas, S., Hadjichristodoulou, C., Oikonomou, K.G. and others",
+   "journal": "World Journal of Urology",
+   "year": "2024",
+   "doi": "10.1007/s00345-023-04741-0",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00345-023-04741-0",
+   "link_type": "doi",
+   "citation": "Tsiakoulias, E., Gravas, S., Hadjichristodoulou, C., Oikonomou, K.G. and others (2024) 'Randomized, placebo-controlled, double-blinded study of prophylactic cranberries use in women with recurrent uncomplicated cystitis', World Journal of Urology, 42(1), pp. 27. doi:10.1007/s00345-023-04741-0",
+   "abstract": "In a randomized, placebo-controlled, double-blind study, prophylactic cranberry use reduced recurrent uncomplicated cystitis episodes in women, via inhibition of p-fimbriated E. coli adherence to the urothelium, supporting cranberry for UTI prevention.",
+   "tier": "rct",
+   "display": "Randomized, placebo-controlled, double-blinded study of prophylactic cranberries use in women with recurrent uncomplicated cystitis",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [],
+   "conditions": [
+    "Infection (general)",
+    "Urinary tract infection (UTI)"
+   ]
+  },
+  {
    "ref_id": "REF-0497",
    "key": "bowman2024raspberry",
    "type": "article",
@@ -3972,6 +4031,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1348",
+   "key": "chandrashekhar2023valerian",
+   "type": "article",
+   "title": "Standardized Extract of Valeriana officinalis Improves Overall Sleep Quality in Human Subjects with Sleep Complaints: A Randomized, Double-Blind, Placebo-Controlled, Clinical Study",
+   "authors": "Chandra Shekhar, H., Joshua, L. and Thomas, J.V.",
+   "journal": "Advances in Therapy",
+   "year": "2024",
+   "doi": "10.1007/s12325-023-02708-6",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12325-023-02708-6",
+   "link_type": "doi",
+   "citation": "Chandra Shekhar, H., Joshua, L. and Thomas, J.V (2024) 'Standardized Extract of Valeriana officinalis Improves Overall Sleep Quality in Human Subjects with Sleep Complaints: A Randomized, Double-Blind, Placebo-Controlled, Clinical Study', Advances in Therapy, 41(1), pp. 246-261. doi:10.1007/s12325-023-02708-6",
+   "abstract": "In a randomized, double-blind, placebo-controlled clinical study, a standardized Valeriana officinalis extract significantly improved overall sleep quality, sleep latency, sleep efficiency and total sleep time and reduced anxiety and daytime sleepiness in subjects with sleep complaints, and was safe and well tolerated.",
+   "tier": "rct",
+   "display": "Standardized Extract of Valeriana officinalis Improves Overall Sleep Quality in Human Subjects with Sleep Complaints: A Randomized, Double-Blind, Placebo-Controlled, Clinical Study",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
   },
   {
    "ref_id": "REF-0326",
@@ -5243,6 +5333,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1338",
+   "key": "williams2023cranberry",
+   "type": "article",
+   "title": "Cranberries for preventing urinary tract infections",
+   "authors": "Williams, G., Hahn, D., Stephens, J.H., Craig, J.C. and others",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2023",
+   "doi": "10.1002/14651858.CD001321.pub6",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD001321.pub6",
+   "link_type": "doi",
+   "citation": "Williams, G., Hahn, D., Stephens, J.H., Craig, J.C. and others (2023) 'Cranberries for preventing urinary tract infections', Cochrane Database of Systematic Reviews, 4(4), pp. CD001321. doi:10.1002/14651858.CD001321.pub6",
+   "abstract": "This Cochrane review of 50 trials (8857 participants) found that cranberry products, whose proanthocyanidins inhibit adherence of p-fimbriated Escherichia coli to the bladder, reduce the risk of symptomatic urinary tract infections in women with recurrent UTIs, in children and in people susceptible to UTIs following interventions.",
+   "tier": "review",
+   "display": "Cranberries for preventing urinary tract infections",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [
+    "Urinary antiseptic"
+   ],
+   "conditions": [
+    "Infection (general)",
+    "Urinary tract infection (UTI)"
+   ]
   },
   {
    "ref_id": "REF-0668",
@@ -6724,6 +6847,35 @@
    ]
   },
   {
+   "ref_id": "REF-1329",
+   "key": "semwal2023nettle",
+   "type": "article",
+   "title": "The medicinal chemistry of Urtica dioica L.: from preliminary evidence to clinical studies supporting its neuroprotective activity",
+   "authors": "Semwal, P., Rauf, A., Olatunde, A., Singh, P. and others",
+   "journal": "Natural Products and Bioprospecting",
+   "year": "2023",
+   "doi": "10.1007/s13659-023-00380-5",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13659-023-00380-5",
+   "link_type": "doi",
+   "citation": "Semwal, P., Rauf, A., Olatunde, A., Singh, P. and others (2023) 'The medicinal chemistry of Urtica dioica L.: from preliminary evidence to clinical studies supporting its neuroprotective activity', Natural Products and Bioprospecting, 13(1), pp. 16. doi:10.1007/s13659-023-00380-5",
+   "abstract": "This review of the medicinal chemistry of stinging nettle (Urtica dioica) summarises the evidence for its bioactive constituents and pharmacological activities, including anti-inflammatory, antioxidant and neuroprotective effects.",
+   "tier": "review",
+   "display": "The medicinal chemistry of Urtica dioica L.: from preliminary evidence to clinical studies supporting its neuroprotective activity",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0759",
    "key": "castilloarellano2023cbd",
    "type": "article",
@@ -7711,6 +7863,36 @@
     "Oxycoccus palustris"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1345",
+   "key": "nemzer2022cranberry",
+   "type": "article",
+   "title": "Cranberry: Chemical Composition, Antioxidant Activity and Impact on Human Health: Overview",
+   "authors": "Nemzer, B.V., Al-Taher, F., Yashin, A., Revelsky, I. and others",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27051503",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27051503",
+   "link_type": "doi",
+   "citation": "Nemzer, B.V., Al-Taher, F., Yashin, A., Revelsky, I. and others (2022) 'Cranberry: Chemical Composition, Antioxidant Activity and Impact on Human Health: Overview', Molecules, 27(5), pp. 1503. doi:10.3390/molecules27051503",
+   "abstract": "This overview of cranberry (Vaccinium macrocarpon) summarises its chemical composition (anthocyanins, proanthocyanidins, flavonols, phenolic acids), strong antioxidant activity and its impact on human health, including urinary, cardiovascular and antimicrobial benefits.",
+   "tier": "review",
+   "display": "Cranberry: Chemical Composition, Antioxidant Activity and Impact on Human Health: Overview",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -8766,6 +8948,36 @@
     "Tussilago farfara"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1335",
+   "key": "bhusal2022nettle",
+   "type": "article",
+   "title": "Nutritional and pharmacological importance of stinging nettle (Urtica dioica L.): A review",
+   "authors": "Bhusal, K.K., Magar, S.K., Thapa, R., Lamsal, A. and others",
+   "journal": "Heliyon",
+   "year": "2022",
+   "doi": "10.1016/j.heliyon.2022.e09717",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.heliyon.2022.e09717",
+   "link_type": "doi",
+   "citation": "Bhusal, K.K., Magar, S.K., Thapa, R., Lamsal, A. and others (2022) 'Nutritional and pharmacological importance of stinging nettle (Urtica dioica L.): A review', Heliyon, 8(6), pp. e09717. doi:10.1016/j.heliyon.2022.e09717",
+   "abstract": "This review of stinging nettle (Urtica dioica) summarises its nutritional and pharmacological importance, including its anti-inflammatory, antioxidant, diuretic, analgesic and antimicrobial activities and its constituents.",
+   "tier": "review",
+   "display": "Nutritional and pharmacological importance of stinging nettle (Urtica dioica L.): A review",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Diuretic"
+   ],
    "conditions": []
   },
   {
@@ -10704,6 +10916,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1341",
+   "key": "xia2021cranberry",
+   "type": "article",
+   "title": "Consumption of cranberry as adjuvant therapy for urinary tract infections in susceptible populations: A systematic review and meta-analysis with trial sequential analysis",
+   "authors": "Xia, J.Y., Yang, C., Xu, D.F., Xia, H. and others",
+   "journal": "PLoS One",
+   "year": "2021",
+   "doi": "10.1371/journal.pone.0256992",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0256992",
+   "link_type": "doi",
+   "citation": "Xia, J.Y., Yang, C., Xu, D.F., Xia, H. and others (2021) 'Consumption of cranberry as adjuvant therapy for urinary tract infections in susceptible populations: A systematic review and meta-analysis with trial sequential analysis', PLoS One, 16(9), pp. e0256992. doi:10.1371/journal.pone.0256992",
+   "abstract": "This systematic review and meta-analysis with trial sequential analysis found that cranberry as adjuvant therapy reduced the risk of urinary tract infections in susceptible populations, supporting its preventive use.",
+   "tier": "review",
+   "display": "Consumption of cranberry as adjuvant therapy for urinary tract infections in susceptible populations: A systematic review and meta-analysis with trial sequential analysis",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [],
+   "conditions": [
+    "Urinary tract infection (UTI)"
+   ]
+  },
+  {
    "ref_id": "REF-0776",
    "key": "lan2021cordycepin",
    "type": "article",
@@ -11282,6 +11524,36 @@
    ]
   },
   {
+   "ref_id": "REF-1343",
+   "key": "babar2021cranberry",
+   "type": "article",
+   "title": "High dose versus low dose standardized cranberry proanthocyanidin extract for the prevention of recurrent urinary tract infection in healthy women: a double-blind randomized controlled trial",
+   "authors": "Babar, A., Moore, L., Leblanc, V., Dudonne, S. and others",
+   "journal": "BMC Urology",
+   "year": "2021",
+   "doi": "10.1186/s12894-021-00811-w",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12894-021-00811-w",
+   "link_type": "doi",
+   "citation": "Babar, A., Moore, L., Leblanc, V., Dudonne, S. and others (2021) 'High dose versus low dose standardized cranberry proanthocyanidin extract for the prevention of recurrent urinary tract infection in healthy women: a double-blind randomized controlled trial', BMC Urology, 21(1), pp. 44. doi:10.1186/s12894-021-00811-w",
+   "abstract": "In a double-blind randomized controlled trial, a standardized cranberry (Vaccinium macrocarpon) proanthocyanidin extract reduced recurrent urinary-tract-infection symptoms in healthy women, with a higher dose more effective, supporting dose-standardised cranberry for UTI prevention.",
+   "tier": "rct",
+   "display": "High dose versus low dose standardized cranberry proanthocyanidin extract for the prevention of recurrent urinary tract infection in healthy women: a double-blind randomized controlled trial",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [],
+   "conditions": [
+    "Urinary tract infection (UTI)"
+   ]
+  },
+  {
    "ref_id": "REF-0322",
    "key": "farm2021harvest",
    "type": "misc",
@@ -11774,6 +12046,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1350",
+   "key": "borras2021valerian",
+   "type": "article",
+   "title": "Medicinal Plants for Insomnia Related to Anxiety: An Updated Review",
+   "authors": "Borras, S., Martinez-Solis, I. and Rios, J.L.",
+   "journal": "Planta Medica",
+   "year": "2021",
+   "doi": "10.1055/a-1510-9826",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-1510-9826",
+   "link_type": "doi",
+   "citation": "Borras, S., Martinez-Solis, I. and Rios, J.L (2021) 'Medicinal Plants for Insomnia Related to Anxiety: An Updated Review', Planta Medica, 87(10-11), pp. 738-753. doi:10.1055/a-1510-9826",
+   "abstract": "This updated review of medicinal plants for insomnia related to anxiety, based mainly on clinical trials, concludes that valerian (Valeriana officinalis) is one of the three plants with the most potential, with the combination of valerian, hops and passionflower giving the best clinical results.",
+   "tier": "review",
+   "display": "Medicinal Plants for Insomnia Related to Anxiety: An Updated Review",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
   },
   {
    "ref_id": "REF-0894",
@@ -13136,6 +13439,66 @@
    ],
    "scientific": [
     "Melissa officinalis"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1352",
+   "key": "tammadon2021valerian",
+   "type": "article",
+   "title": "The Effects of Valerian on Sleep Quality, Depression, and State Anxiety in Hemodialysis Patients: A Randomized, Double-blind, Crossover Clinical Trial",
+   "authors": "Tammadon, M.R., Nobahar, M., Hydarinia-Naieni, Z., Ebrahimian, A. and others",
+   "journal": "Oman Medical Journal",
+   "year": "2021",
+   "doi": "10.5001/omj.2021.56",
+   "url": "",
+   "link": "https://doi.org/10.5001/omj.2021.56",
+   "link_type": "doi",
+   "citation": "Tammadon, M.R., Nobahar, M., Hydarinia-Naieni, Z., Ebrahimian, A. and others (2021) 'The Effects of Valerian on Sleep Quality, Depression, and State Anxiety in Hemodialysis Patients: A Randomized, Double-blind, Crossover Clinical Trial', Oman Medical Journal, 36(2), pp. e255. doi:10.5001/omj.2021.56",
+   "abstract": "In a randomized, double-blind, crossover clinical trial, valerian (Valeriana officinalis) significantly improved sleep quality and reduced state anxiety and depression in hemodialysis patients, supporting its sedative/anxiolytic use.",
+   "tier": "rct",
+   "display": "The Effects of Valerian on Sleep Quality, Depression, and State Anxiety in Hemodialysis Patients: A Randomized, Double-blind, Crossover Clinical Trial",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
+   "ref_id": "REF-1354",
+   "key": "soltani2021valerian",
+   "type": "article",
+   "title": "The effects of Valerian on sleep spindles in a model of neuropathic pain",
+   "authors": "Soltani, A., Bahrami, F., Bahari, Z., Shankayi, Z. and others",
+   "journal": "Sleep Science",
+   "year": "2021",
+   "doi": "10.5935/1984-0063.20200110",
+   "url": "",
+   "link": "https://doi.org/10.5935/1984-0063.20200110",
+   "link_type": "doi",
+   "citation": "Soltani, A., Bahrami, F., Bahari, Z., Shankayi, Z. and others (2021) 'The effects of Valerian on sleep spindles in a model of neuropathic pain', Sleep Science, 14(Spec 2), pp. 133-139. doi:10.5935/1984-0063.20200110",
+   "abstract": "Valerian (Valeriana officinalis) extract improved sleep quality in a rat neuropathic-pain model, increasing non-REM sleep and sleep-spindle density and relieving allodynia, supporting its sedative use.",
+   "tier": "preclinical",
+   "display": "The effects of Valerian on sleep spindles in a model of neuropathic pain",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
    ],
    "actions": [
     "Sedative / sleep support"
@@ -15959,6 +16322,65 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1336",
+   "key": "dhouibi2019nettle",
+   "type": "article",
+   "title": "Screening of pharmacological uses of Urtica dioica and other benefits",
+   "authors": "Dhouibi, R., Affes, H., Ben Salem, M., Hammami, S. and others",
+   "journal": "Progress in Biophysics and Molecular Biology",
+   "year": "2020",
+   "doi": "10.1016/j.pbiomolbio.2019.05.008",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.pbiomolbio.2019.05.008",
+   "link_type": "doi",
+   "citation": "Dhouibi, R., Affes, H., Ben Salem, M., Hammami, S. and others (2020) 'Screening of pharmacological uses of Urtica dioica and other benefits', Progress in Biophysics and Molecular Biology, 150, pp. 67-77. doi:10.1016/j.pbiomolbio.2019.05.008",
+   "abstract": "This review screens the pharmacological uses of stinging nettle (Urtica dioica), summarising its anti-inflammatory, anti-rheumatic, antioxidant, diuretic, antimicrobial and antidiabetic activities and its traditional applications.",
+   "tier": "review",
+   "display": "Screening of pharmacological uses of Urtica dioica and other benefits",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anti-rheumatic / anti-arthritic",
+    "Antioxidant",
+    "Diuretic"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1337",
+   "key": "saponaro2020nettle",
+   "type": "article",
+   "title": "Serenoa repens and Urtica dioica Fixed Combination: In-Vitro Validation of a Therapy for Benign Prostatic Hyperplasia (BPH)",
+   "authors": "Saponaro, M., Giacomini, I., Morandin, G., Cocetta, V. and others",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2020",
+   "doi": "10.3390/ijms21239178",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms21239178",
+   "link_type": "doi",
+   "citation": "Saponaro, M., Giacomini, I., Morandin, G., Cocetta, V. and others (2020) 'Serenoa repens and Urtica dioica Fixed Combination: In-Vitro Validation of a Therapy for Benign Prostatic Hyperplasia (BPH)', International Journal of Molecular Sciences, 21(23), pp. 9178. doi:10.3390/ijms21239178",
+   "abstract": "An in-vitro study validated a fixed combination of saw palmetto (Serenoa repens) and stinging nettle (Urtica dioica) as a therapy for benign prostatic hyperplasia, with anti-inflammatory and anti-proliferative effects on prostate cells, supporting nettle's use for lower-urinary-tract symptoms.",
+   "tier": "preclinical",
+   "display": "Serenoa repens and Urtica dioica Fixed Combination: In-Vitro Validation of a Therapy for Benign Prostatic Hyperplasia (BPH)",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [],
+   "conditions": [
+    "Urinary support"
+   ]
+  },
+  {
    "ref_id": "REF-1047",
    "key": "precheur2020solidago",
    "type": "article",
@@ -16170,6 +16592,32 @@
    ],
    "scientific": [
     "Verbascum thapsus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1331",
+   "key": "ziaei2019nettle",
+   "type": "article",
+   "title": "The effect of nettle (Urtica dioica) supplementation on the glycemic control of patients with type 2 diabetes mellitus: A systematic review and meta-analysis",
+   "authors": "Ziaei, R., Foshati, S., Hadi, A., Kermani, M.A.H. and others",
+   "journal": "Phytotherapy Research",
+   "year": "2020",
+   "doi": "10.1002/ptr.6535",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6535",
+   "link_type": "doi",
+   "citation": "Ziaei, R., Foshati, S., Hadi, A., Kermani, M.A.H. and others (2020) 'The effect of nettle (Urtica dioica) supplementation on the glycemic control of patients with type 2 diabetes mellitus: A systematic review and meta-analysis', Phytotherapy Research, 34(2), pp. 282-294. doi:10.1002/ptr.6535",
+   "abstract": "This systematic review and meta-analysis found that nettle (Urtica dioica) supplementation improved glycaemic control (fasting blood glucose) in patients with type 2 diabetes, indicating a metabolic benefit of nettle.",
+   "tier": "review",
+   "display": "The effect of nettle (Urtica dioica) supplementation on the glycemic control of patients with type 2 diabetes mellitus: A systematic review and meta-analysis",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
    ],
    "actions": [],
    "conditions": []
@@ -16527,6 +16975,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1349",
+   "key": "shinjyo2020valerian",
+   "type": "article",
+   "title": "Valerian Root in Treating Sleep Problems and Associated Disorders-A Systematic Review and Meta-Analysis",
+   "authors": "Shinjyo, N., Waddell, G. and Green, J.",
+   "journal": "Journal of Evidence-Based Integrative Medicine",
+   "year": "2020",
+   "doi": "10.1177/2515690X20967323",
+   "url": "",
+   "link": "https://doi.org/10.1177/2515690X20967323",
+   "link_type": "doi",
+   "citation": "Shinjyo, N., Waddell, G. and Green, J (2020) 'Valerian Root in Treating Sleep Problems and Associated Disorders-A Systematic Review and Meta-Analysis', Journal of Evidence-Based Integrative Medicine, 25, pp. 2515690X20967323. doi:10.1177/2515690X20967323",
+   "abstract": "This systematic review and meta-analysis of 60 studies found that valerian (Valeriana officinalis) could be a safe and effective herb to improve subjective sleep quality and reduce anxiety, with more reliable effects from the whole root/rhizome, attributing inconsistent past results to variable extract quality.",
+   "tier": "review",
+   "display": "Valerian Root in Treating Sleep Problems and Associated Disorders-A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
   },
   {
    "ref_id": "REF-0523",
@@ -18360,6 +18839,32 @@
    ]
   },
   {
+   "ref_id": "REF-1330",
+   "key": "esposito2019nettle",
+   "type": "article",
+   "title": "Therapeutic Perspectives of Molecules from Urtica dioica Extracts for Cancer Treatment",
+   "authors": "Esposito, S., Bianco, A., Russo, R., Di Maro, A. and others",
+   "journal": "Molecules",
+   "year": "2019",
+   "doi": "10.3390/molecules24152753",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules24152753",
+   "link_type": "doi",
+   "citation": "Esposito, S., Bianco, A., Russo, R., Di Maro, A. and others (2019) 'Therapeutic Perspectives of Molecules from Urtica dioica Extracts for Cancer Treatment', Molecules, 24(15), pp. 2753. doi:10.3390/molecules24152753",
+   "abstract": "This review summarises the therapeutic perspectives of molecules from stinging nettle (Urtica dioica) extracts for cancer treatment, describing their antiproliferative and pro-apoptotic activities against various cancer cell lines.",
+   "tier": "review",
+   "display": "Therapeutic Perspectives of Molecules from Urtica dioica Extracts for Cancer Treatment",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0969",
    "key": "drava2019plantago",
    "type": "article",
@@ -18906,6 +19411,38 @@
    "actions": [],
    "conditions": [
     "Cardiovascular / heart health"
+   ]
+  },
+  {
+   "ref_id": "REF-1339",
+   "key": "mantzorou2018cranberry",
+   "type": "article",
+   "title": "Cranberry Consumption Against Urinary Tract Infections: Clinical State-of-the-Art and Future Perspectives",
+   "authors": "Mantzorou, M. and Giaginis, C.",
+   "journal": "Current Pharmaceutical Biotechnology",
+   "year": "2018",
+   "doi": "10.2174/1389201020666181206104129",
+   "url": "",
+   "link": "https://doi.org/10.2174/1389201020666181206104129",
+   "link_type": "doi",
+   "citation": "Mantzorou, M. and Giaginis, C (2018) 'Cranberry Consumption Against Urinary Tract Infections: Clinical State-of-the-Art and Future Perspectives', Current Pharmaceutical Biotechnology, 19(13), pp. 1049-1063. doi:10.2174/1389201020666181206104129",
+   "abstract": "This review of clinical studies of cranberry (Vaccinium macrocarpon) consumption against urinary tract infections summarises the evidence that cranberry, via E. coli anti-adhesion, can help prevent UTIs, especially in women with recurrent infections.",
+   "tier": "review",
+   "display": "Cranberry Consumption Against Urinary Tract Infections: Clinical State-of-the-Art and Future Perspectives",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [
+    "Urinary antiseptic"
+   ],
+   "conditions": [
+    "Urinary tract infection (UTI)"
    ]
   },
   {
@@ -20902,6 +21439,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1340",
+   "key": "fu2017cranberry",
+   "type": "article",
+   "title": "Cranberry Reduces the Risk of Urinary Tract Infection Recurrence in Otherwise Healthy Women: A Systematic Review and Meta-Analysis",
+   "authors": "Fu, Z., Liska, D., Talan, D. and Chung, M.",
+   "journal": "The Journal of Nutrition",
+   "year": "2017",
+   "doi": "10.3945/jn.117.254961",
+   "url": "",
+   "link": "https://doi.org/10.3945/jn.117.254961",
+   "link_type": "doi",
+   "citation": "Fu, Z., Liska, D., Talan, D. and Chung, M (2017) 'Cranberry Reduces the Risk of Urinary Tract Infection Recurrence in Otherwise Healthy Women: A Systematic Review and Meta-Analysis', The Journal of Nutrition, 147(12), pp. 2282-2288. doi:10.3945/jn.117.254961",
+   "abstract": "This systematic review and meta-analysis found that cranberry (Vaccinium spp.) significantly reduced the risk of recurrent urinary tract infections in otherwise healthy women, supporting its use for UTI prevention.",
+   "tier": "review",
+   "display": "Cranberry Reduces the Risk of Urinary Tract Infection Recurrence in Otherwise Healthy Women: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [],
+   "conditions": [
+    "Urinary support",
+    "Urinary tract infection (UTI)"
+   ]
+  },
+  {
    "ref_id": "REF-0909",
    "key": "slavokhotova2017stellaria",
    "type": "article",
@@ -22030,6 +22598,35 @@
    ]
   },
   {
+   "ref_id": "REF-1355",
+   "key": "mineo2017valerian",
+   "type": "article",
+   "title": "Valeriana officinalis Root Extract Modulates Cortical Excitatory Circuits in Humans",
+   "authors": "Mineo, L., Concerto, C., Patel, D., Mayorga, T. and others",
+   "journal": "Neuropsychobiology",
+   "year": "2017",
+   "doi": "10.1159/000480053",
+   "url": "",
+   "link": "https://doi.org/10.1159/000480053",
+   "link_type": "doi",
+   "citation": "Mineo, L., Concerto, C., Patel, D., Mayorga, T. and others (2017) 'Valeriana officinalis Root Extract Modulates Cortical Excitatory Circuits in Humans', Neuropsychobiology, 75(1), pp. 46-51. doi:10.1159/000480053",
+   "abstract": "In a double-blind, randomized, placebo-controlled study, a single dose of Valeriana officinalis root extract modulated intracortical facilitatory circuits (assessed by transcranial magnetic stimulation) in healthy humans, consistent with its GABAergic, sedative/anxiolytic mechanism.",
+   "tier": "rct",
+   "display": "Valeriana officinalis Root Extract Modulates Cortical Excitatory Circuits in Humans",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0513",
    "key": "veronica2017veronica",
    "type": "article",
@@ -22739,6 +23336,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1342",
+   "key": "maki2016cranberry",
+   "type": "article",
+   "title": "Consumption of a cranberry juice beverage lowered the number of clinical urinary tract infection episodes in women with a recent history of urinary tract infection",
+   "authors": "Maki, K.C., Kaspar, K.L., Khoo, C., Derrig, L.H. and others",
+   "journal": "The American Journal of Clinical Nutrition",
+   "year": "2016",
+   "doi": "10.3945/ajcn.116.130542",
+   "url": "",
+   "link": "https://doi.org/10.3945/ajcn.116.130542",
+   "link_type": "doi",
+   "citation": "Maki, K.C., Kaspar, K.L., Khoo, C., Derrig, L.H. and others (2016) 'Consumption of a cranberry juice beverage lowered the number of clinical urinary tract infection episodes in women with a recent history of urinary tract infection', The American Journal of Clinical Nutrition, 103(6), pp. 1434-1442. doi:10.3945/ajcn.116.130542",
+   "abstract": "In a randomized controlled trial, consumption of a cranberry juice beverage significantly lowered the number of clinical urinary tract infection episodes in women with a recent history of UTI, supporting cranberry for UTI prevention.",
+   "tier": "rct",
+   "display": "Consumption of a cranberry juice beverage lowered the number of clinical urinary tract infection episodes in women with a recent history of urinary tract infection",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [],
+   "conditions": [
+    "Infection (general)",
+    "Urinary tract infection (UTI)"
+   ]
   },
   {
    "ref_id": "REF-0572",
@@ -26851,6 +27479,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1346",
+   "key": "davidson2013cranberry",
+   "type": "article",
+   "title": "Prevention of urinary tract infections with Vaccinium products",
+   "authors": "Davidson, E., Zimmermann, B.F., Jungfer, E. and Chrubasik-Hausmann, S.",
+   "journal": "Phytotherapy Research",
+   "year": "2014",
+   "doi": "10.1002/ptr.5047",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5047",
+   "link_type": "doi",
+   "citation": "Davidson, E., Zimmermann, B.F., Jungfer, E. and Chrubasik-Hausmann, S (2014) 'Prevention of urinary tract infections with Vaccinium products', Phytotherapy Research, 28(3), pp. 465-470. doi:10.1002/ptr.5047",
+   "abstract": "This review concludes that cranberry (Vaccinium) products exert a dose-dependent inhibition of E. coli adherence to the urinary tract and can help prevent urinary tract infections when an adequate proanthocyanidin dose is provided.",
+   "tier": "review",
+   "display": "Prevention of urinary tract infections with Vaccinium products",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [
+    "Urinary antiseptic"
+   ],
+   "conditions": [
+    "Urinary tract infection (UTI)"
+   ]
+  },
+  {
    "ref_id": "REF-0417",
    "key": "verma2014rubus",
    "type": "misc",
@@ -28529,6 +29189,34 @@
     "Metabolic support",
     "Muscle soreness",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1334",
+   "key": "azimi2012nettle",
+   "type": "article",
+   "title": "A review of animal and human studies for management of benign prostatic hyperplasia with natural products: perspective of new pharmacological agents",
+   "authors": "Azimi, H., Khakshur, A.A., Aghdasi, I., Fallah-Tafti, M. and others",
+   "journal": "Inflammation & Allergy Drug Targets",
+   "year": "2012",
+   "doi": "10.2174/187152812800392715",
+   "url": "",
+   "link": "https://doi.org/10.2174/187152812800392715",
+   "link_type": "doi",
+   "citation": "Azimi, H., Khakshur, A.A., Aghdasi, I., Fallah-Tafti, M. and others (2012) 'A review of animal and human studies for management of benign prostatic hyperplasia with natural products: perspective of new pharmacological agents', Inflammation & Allergy Drug Targets, 11(3), pp. 207-221. doi:10.2174/187152812800392715",
+   "abstract": "This review of animal and human studies of natural products for benign prostatic hyperplasia summarises the evidence for stinging nettle (Urtica dioica), among other plants, in improving lower-urinary-tract symptoms.",
+   "tier": "review",
+   "display": "A review of animal and human studies for management of benign prostatic hyperplasia with natural products: perspective of new pharmacological agents",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [],
+   "conditions": [
+    "Urinary support"
    ]
   },
   {
@@ -30807,6 +31495,37 @@
    ]
   },
   {
+   "ref_id": "REF-1351",
+   "key": "nunes2011valerian",
+   "type": "article",
+   "title": "Use of valerian in anxiety and sleep disorders: what is the best evidence?",
+   "authors": "Nunes, A. and Sousa, M.",
+   "journal": "Acta Medica Portuguesa",
+   "year": "2011",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Use%20of%20valerian%20in%20anxiety%20and%20sleep%20disorders%3A%20what%20is%20the%20best%20evidence%3F",
+   "link_type": "search",
+   "citation": "Nunes, A. and Sousa, M (2011) 'Use of valerian in anxiety and sleep disorders: what is the best evidence?', Acta Medica Portuguesa, 24(Suppl 4), pp. 961-966.",
+   "abstract": "This evidence review found that valerian (Valeriana officinalis) root appears effective for mild-to-moderate insomnia (limited by study quality) and is well tolerated and safe, while evidence for anxiety disorders is currently insufficient.",
+   "tier": "review",
+   "display": "Use of valerian in anxiety and sleep disorders: what is the best evidence?",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
    "ref_id": "REF-1057",
    "key": "hajdari2011stachys",
    "type": "article",
@@ -32488,6 +33207,37 @@
    ]
   },
   {
+   "ref_id": "REF-1344",
+   "key": "perezlopez2009cranberry",
+   "type": "article",
+   "title": "Vaccinium macrocarpon: an interesting option for women with recurrent urinary tract infections and other health benefits",
+   "authors": "Perez-Lopez, F.R., Haya, J. and Chedraui, P.",
+   "journal": "Journal of Obstetrics and Gynaecology Research",
+   "year": "2009",
+   "doi": "10.1111/j.1447-0756.2009.01026.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1447-0756.2009.01026.x",
+   "link_type": "doi",
+   "citation": "Perez-Lopez, F.R., Haya, J. and Chedraui, P (2009) 'Vaccinium macrocarpon: an interesting option for women with recurrent urinary tract infections and other health benefits', Journal of Obstetrics and Gynaecology Research, 35(4), pp. 630-639. doi:10.1111/j.1447-0756.2009.01026.x",
+   "abstract": "This review of the clinical use and mechanisms of cranberry (Vaccinium macrocarpon) concludes that it is an interesting option for preventing recurrent urinary tract infections in women, alongside other health benefits.",
+   "tier": "review",
+   "display": "Vaccinium macrocarpon: an interesting option for women with recurrent urinary tract infections and other health benefits",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [],
+   "conditions": [
+    "Urinary support",
+    "Urinary tract infection (UTI)"
+   ]
+  },
+  {
    "ref_id": "REF-0199",
    "key": "preethi2009wound",
    "type": "article",
@@ -33706,6 +34456,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1332",
+   "key": "chrubasik2007nettle",
+   "type": "article",
+   "title": "A comprehensive review on the stinging nettle effect and efficacy profiles. Part II: urticae radix",
+   "authors": "Chrubasik, J.E., Roufogalis, B.D., Wagner, H. and Chrubasik, S.",
+   "journal": "Phytomedicine",
+   "year": "2007",
+   "doi": "10.1016/j.phymed.2007.03.014",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2007.03.014",
+   "link_type": "doi",
+   "citation": "Chrubasik, J.E., Roufogalis, B.D., Wagner, H. and Chrubasik, S (2007) 'A comprehensive review on the stinging nettle effect and efficacy profiles. Part II: urticae radix', Phytomedicine, 14(7-8), pp. 568-579. doi:10.1016/j.phymed.2007.03.014",
+   "abstract": "This comprehensive review of stinging nettle (Urtica dioica) root summarises the evidence for its anti-inflammatory and anti-rheumatic effects and its established use in benign prostatic hyperplasia and rheumatic/arthritic complaints.",
+   "tier": "review",
+   "display": "A comprehensive review on the stinging nettle effect and efficacy profiles. Part II: urticae radix",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anti-rheumatic / anti-arthritic"
+   ],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
+  },
+  {
    "ref_id": "REF-0106",
    "key": "haskell2007double",
    "type": "article",
@@ -33966,6 +34747,33 @@
     "Migraine",
     "Muscle spasm"
    ]
+  },
+  {
+   "ref_id": "REF-1357",
+   "key": "alkharfy2007valerian",
+   "type": "article",
+   "title": "Effect of valerian, valerian/hops extracts, and valerenic acid on glucuronidation in vitro",
+   "authors": "Alkharfy, K.M. and Frye, R.F.",
+   "journal": "Xenobiotica",
+   "year": "2007",
+   "doi": "10.1080/00498250601050420",
+   "url": "",
+   "link": "https://doi.org/10.1080/00498250601050420",
+   "link_type": "doi",
+   "citation": "Alkharfy, K.M. and Frye, R.F (2007) 'Effect of valerian, valerian/hops extracts, and valerenic acid on glucuronidation in vitro', Xenobiotica, 37(2), pp. 113-123. doi:10.1080/00498250601050420",
+   "abstract": "Valerian (Valeriana officinalis) and valerian/hops extracts and the constituent valerenic acid inhibited UDP-glucuronosyltransferase activity in vitro, suggesting that valerian-containing products may interfere with the glucuronidation of drugs - a relevant herb-drug-interaction consideration.",
+   "tier": "preclinical",
+   "display": "Effect of valerian, valerian/hops extracts, and valerenic acid on glucuronidation in vitro",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0050",
@@ -35444,6 +36252,37 @@
    ]
   },
   {
+   "ref_id": "REF-1356",
+   "key": "jacobs2005valerian",
+   "type": "article",
+   "title": "An internet-based randomized, placebo-controlled trial of kava and valerian for anxiety and insomnia",
+   "authors": "Jacobs, B.P., Bent, S., Tice, J.A., Blackwell, T. and Cummings, S.R.",
+   "journal": "Medicine (Baltimore)",
+   "year": "2005",
+   "doi": "10.1097/01.md.0000172299.72364.95",
+   "url": "",
+   "link": "https://doi.org/10.1097/01.md.0000172299.72364.95",
+   "link_type": "doi",
+   "citation": "Jacobs, B.P., Bent, S., Tice, J.A., Blackwell, T. and Cummings, S.R (2005) 'An internet-based randomized, placebo-controlled trial of kava and valerian for anxiety and insomnia', Medicine (Baltimore), 84(4), pp. 197-207. doi:10.1097/01.md.0000172299.72364.95",
+   "abstract": "In an internet-based randomized, double-blind, placebo-controlled trial, valerian (Valeriana officinalis) for insomnia did not separate significantly from placebo, illustrating the variable clinical results for valerian and the importance of extract quality and dosing.",
+   "tier": "rct",
+   "display": "An internet-based randomized, placebo-controlled trial of kava and valerian for anxiety and insomnia",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
+  },
+  {
    "ref_id": "REF-0143",
    "key": "kordali2005antifungal",
    "type": "article",
@@ -36343,6 +37182,33 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1353",
+   "key": "altmedrev2004valerian",
+   "type": "article",
+   "title": "Monograph: Valeriana officinalis",
+   "authors": "Alternative Medicine Review",
+   "journal": "Alternative Medicine Review",
+   "year": "2004",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Monograph%3A%20Valeriana%20officinalis",
+   "link_type": "search",
+   "citation": "Alternative Medicine Review (2004) 'Monograph: Valeriana officinalis', Alternative Medicine Review, 9(4), pp. 438-441.",
+   "abstract": "This monograph on Valeriana officinalis summarises its constituents, traditional and clinical uses as a sedative/hypnotic and antispasmodic for sleep disorders, anxiety and spasm, and its dosing, safety and herb-drug interactions.",
+   "tier": "review",
+   "display": "Monograph: Valeriana officinalis",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -38143,6 +39009,34 @@
     "Inflammation (general)",
     "Metabolic support",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1333",
+   "key": "koch2001nettle",
+   "type": "article",
+   "title": "Extracts from fruits of saw palmetto (Sabal serrulata) and roots of stinging nettle (Urtica dioica): viable alternatives in the medical treatment of benign prostatic hyperplasia and associated lower urinary tract symptoms",
+   "authors": "Koch, E.",
+   "journal": "Planta Medica",
+   "year": "2001",
+   "doi": "10.1055/s-2001-16496",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2001-16496",
+   "link_type": "doi",
+   "citation": "Koch, E (2001) 'Extracts from fruits of saw palmetto (Sabal serrulata) and roots of stinging nettle (Urtica dioica): viable alternatives in the medical treatment of benign prostatic hyperplasia and associated lower urinary tract symptoms', Planta Medica, 67(6), pp. 489-500. doi:10.1055/s-2001-16496",
+   "abstract": "This review describes how extracts of stinging nettle (Urtica dioica) root, alone or combined with saw palmetto, act on the mechanisms of benign prostatic hyperplasia, supporting nettle's use for lower-urinary-tract symptoms.",
+   "tier": "preclinical",
+   "display": "Extracts from fruits of saw palmetto (Sabal serrulata) and roots of stinging nettle (Urtica dioica): viable alternatives in the medical treatment of benign prostatic hyperplasia and associated lower urinary tract symptoms",
+   "plants": [
+    "Stinging Nettle",
+    "common nettle"
+   ],
+   "scientific": [
+    "Urtica dioica"
+   ],
+   "actions": [],
+   "conditions": [
+    "Urinary support"
    ]
   },
   {

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1633,
+ "count": 1657,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -815,6 +815,33 @@
    "conditions": [
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1657",
+   "key": "kamali2025fennel",
+   "type": "article",
+   "title": "Fennel (Foeniculum vulgare) oral capsules improve endometrial thickness in infertile women following clomiphene citrate treatment",
+   "authors": "Kamali, F., Mojani-Qomi, M.S., Arbabi Bidgoli, S., Lavasani, Z. and Adineh, M.",
+   "journal": "European Journal of Obstetrics, Gynecology, and Reproductive Biology",
+   "year": "2025",
+   "doi": "10.1016/j.ejogrb.2025.114638",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ejogrb.2025.114638",
+   "link_type": "doi",
+   "citation": "Kamali, F., Mojani-Qomi, M.S., Arbabi Bidgoli, S., Lavasani, Z. and Adineh, M (2025) 'Fennel (Foeniculum vulgare) oral capsules improve endometrial thickness in infertile women following clomiphene citrate treatment', European Journal of Obstetrics, Gynecology, and Reproductive Biology, 313, pp. 114638. doi:10.1016/j.ejogrb.2025.114638",
+   "abstract": "In a randomised interventional study of 60 infertile women on clomiphene citrate, oral fennel (Foeniculum vulgare) capsules significantly increased endometrial thickness versus control, suggesting fennel's phytoestrogenic constituents may reduce clomiphene's adverse endometrial effects.",
+   "tier": "rct",
+   "display": "Fennel (Foeniculum vulgare) oral capsules improve endometrial thickness in infertile women following clomiphene citrate treatment",
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0719",
@@ -3255,6 +3282,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1634",
+   "key": "porro2024artichoke",
+   "type": "article",
+   "title": "Functional and Therapeutic Potential of Cynara scolymus in Health Benefits",
+   "authors": "Porro, C., Benameur, T., Cianciulli, A., Vacca, M. and others",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16060872",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16060872",
+   "link_type": "doi",
+   "citation": "Porro, C., Benameur, T., Cianciulli, A., Vacca, M. and others (2024) 'Functional and Therapeutic Potential of Cynara scolymus in Health Benefits', Nutrients, 16(6), pp. 872. doi:10.3390/nu16060872",
+   "abstract": "This review describes the anti-inflammatory, antioxidant, liver-protective, bile-expelling, antimicrobial and lipid-lowering properties of globe artichoke (Cynara scolymus), attributing its health benefits largely to its polyphenol content and supporting use in cardiovascular, metabolic and digestive disorders.",
+   "tier": "review",
+   "display": "Functional and Therapeutic Potential of Cynara scolymus in Health Benefits",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [
+    "Hepatoprotective (liver support)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0821",
    "key": "li2024ganoderma",
    "type": "article",
@@ -4871,6 +4927,36 @@
    "actions": [
     "Anti-inflammatory",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1648",
+   "key": "kitic2024gentiana",
+   "type": "article",
+   "title": "Spasmolytic Activity of Gentiana lutea L. Root Extracts on the Rat Ileum: Underlying Mechanisms of Action",
+   "authors": "Kitic, N., Zivkovic, J., Savikin, K., Randjelovic, M. and others",
+   "journal": "Plants",
+   "year": "2024",
+   "doi": "10.3390/plants13030453",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants13030453",
+   "link_type": "doi",
+   "citation": "Kitic, N., Zivkovic, J., Savikin, K., Randjelovic, M. and others (2024) 'Spasmolytic Activity of Gentiana lutea L. Root Extracts on the Rat Ileum: Underlying Mechanisms of Action', Plants, 13(3), pp. 453. doi:10.3390/plants13030453",
+   "abstract": "Gentiana lutea root extracts, rich in secoiridoids, xanthones and flavonoids, showed spasmolytic activity on isolated rat ileum (mediated mainly via potassium and calcium channels), substantiating its traditional use as a remedy for spasmodic gastrointestinal ailments.",
+   "tier": "preclinical",
+   "display": "Spasmolytic Activity of Gentiana lutea L. Root Extracts on the Rat Ileum: Underlying Mechanisms of Action",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [
+    "Digestive aid"
    ],
    "conditions": []
   },
@@ -7092,6 +7178,35 @@
    ],
    "actions": [
     "Emollient / skin-soothing"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1641",
+   "key": "rafieian2023fennel",
+   "type": "article",
+   "title": "Exploring fennel (Foeniculum vulgare): Composition, functional properties, potential health benefits, and safety",
+   "authors": "Rafieian, F., Amani, R., Rezaei, A. and others",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2023",
+   "doi": "10.1080/10408398.2023.2176817",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2023.2176817",
+   "link_type": "doi",
+   "citation": "Rafieian, F., Amani, R., Rezaei, A. and others (2023) 'Exploring fennel (Foeniculum vulgare): Composition, functional properties, potential health benefits, and safety', Critical Reviews in Food Science and Nutrition, 64(19), pp. 6924-6941. doi:10.1080/10408398.2023.2176817",
+   "abstract": "This review of fennel (Foeniculum vulgare) summarises its chemical composition and antibacterial, antifungal, antiviral, antioxidant, anti-inflammatory, antinociceptive, hepatoprotective and bronchodilatory activities, and its efficacy in infantile colic, dysmenorrhea, polycystic ovary syndrome and milk production.",
+   "tier": "review",
+   "display": "Exploring fennel (Foeniculum vulgare): Composition, functional properties, potential health benefits, and safety",
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
+   ],
+   "actions": [
+    "Antimicrobial"
    ],
    "conditions": []
   },
@@ -11135,6 +11250,34 @@
    ]
   },
   {
+   "ref_id": "REF-1652",
+   "key": "savic2022gentiana",
+   "type": "article",
+   "title": "Leaves of Yellow Gentian (Gentiana lutea) as an Alternative Source of Bitter Secoiridoid Glycosides",
+   "authors": "Savic, A. and others",
+   "journal": "Journal of Natural Products",
+   "year": "2022",
+   "doi": "10.1021/acs.jnatprod.2c00529",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jnatprod.2c00529",
+   "link_type": "doi",
+   "citation": "Savic, A. and others (2022) 'Leaves of Yellow Gentian (Gentiana lutea) as an Alternative Source of Bitter Secoiridoid Glycosides', Journal of Natural Products, 85(9), pp. 2118-2126. doi:10.1021/acs.jnatprod.2c00529",
+   "abstract": "This study characterised the leaves of yellow gentian (Gentiana lutea) as an alternative source of the bitter secoiridoid glycosides gentiopicroside and amarogentin, the bioactive bitter principles of the plant.",
+   "tier": "preclinical",
+   "display": "Leaves of Yellow Gentian (Gentiana lutea) as an Alternative Source of Bitter Secoiridoid Glycosides",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0905",
    "key": "ahmad2022stellaria",
    "type": "article",
@@ -11420,6 +11563,33 @@
     "Antioxidant",
     "Diuretic"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1645",
+   "key": "bae2022fennel",
+   "type": "article",
+   "title": "Olfactory Stimulation by Fennel (Foeniculum vulgare Mill.) Essential Oil Improves Lipid Metabolism and Metabolic Disorders in High Fat-Induced Obese Rats",
+   "authors": "Bae, J. and others",
+   "journal": "Nutrients",
+   "year": "2022",
+   "doi": "10.3390/nu14040741",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu14040741",
+   "link_type": "doi",
+   "citation": "Bae, J. and others (2022) 'Olfactory Stimulation by Fennel (Foeniculum vulgare Mill.) Essential Oil Improves Lipid Metabolism and Metabolic Disorders in High Fat-Induced Obese Rats', Nutrients, 14(4), pp. 741. doi:10.3390/nu14040741",
+   "abstract": "Olfactory stimulation with fennel (Foeniculum vulgare) essential oil improved lipid metabolism and metabolic disorders in high-fat-diet-induced obese rats, demonstrating a metabolic benefit of the herb's aromatic volatile oil.",
+   "tier": "preclinical",
+   "display": "Olfactory Stimulation by Fennel (Foeniculum vulgare Mill.) Essential Oil Improves Lipid Metabolism and Metabolic Disorders in High Fat-Induced Obese Rats",
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -12515,6 +12685,37 @@
    ]
   },
   {
+   "ref_id": "REF-1647",
+   "key": "ponticelli2022gentiana",
+   "type": "article",
+   "title": "The healing bitterness of Gentiana lutea L., phytochemistry and biological activities: A systematic review",
+   "authors": "Ponticelli, M., Lela, L., Moles, M., Mangieri, C. and others",
+   "journal": "Phytochemistry",
+   "year": "2022",
+   "doi": "10.1016/j.phytochem.2022.113518",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2022.113518",
+   "link_type": "doi",
+   "citation": "Ponticelli, M., Lela, L., Moles, M., Mangieri, C. and others (2022) 'The healing bitterness of Gentiana lutea L., phytochemistry and biological activities: A systematic review', Phytochemistry, 206, pp. 113518. doi:10.1016/j.phytochem.2022.113518",
+   "abstract": "This systematic review of yellow gentian (Gentiana lutea) synthesises its bitter secoiridoid metabolites (gentiopicroside, amarogentin) and demonstrated activities against oxidative stress, microbial infections, inflammation, obesity and atherosclerosis from cell, animal and human studies.",
+   "tier": "review",
+   "display": "The healing bitterness of Gentiana lutea L., phytochemistry and biological activities: A systematic review",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [
+    "Bitter digestive tonic / stomachic",
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1128",
    "key": "chen2022verbascoside",
    "type": "article",
@@ -13382,6 +13583,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1638",
+   "key": "dominguez2021artichoke",
+   "type": "article",
+   "title": "Bioaccessibility of Tudela artichoke (Cynara scolymus cv. Blanca de Tudela) (poly)phenols: the effects of heat treatment, simulated gastrointestinal digestion and human colonic microbiota",
+   "authors": "Dominguez-Fernandez, M., Ludwig, I.A., De Pena, M.P. and Cid, C.",
+   "journal": "Food & Function",
+   "year": "2021",
+   "doi": "10.1039/d0fo03119d",
+   "url": "",
+   "link": "https://doi.org/10.1039/d0fo03119d",
+   "link_type": "doi",
+   "citation": "Dominguez-Fernandez, M., Ludwig, I.A., De Pena, M.P. and Cid, C (2021) 'Bioaccessibility of Tudela artichoke (Cynara scolymus cv. Blanca de Tudela) (poly)phenols: the effects of heat treatment, simulated gastrointestinal digestion and human colonic microbiota', Food & Function, 12(5), pp. 1996-2011. doi:10.1039/d0fo03119d",
+   "abstract": "This study identified 28 (poly)phenolic compounds (caffeoylquinic acids, luteolin/apigenin flavones, lignans) in artichoke (Cynara scolymus) and characterised their bioaccessibility after cooking and gastrointestinal digestion and their degradation by colonic microbiota, mapping the fate of the plant's antioxidant constituents.",
+   "tier": "preclinical",
+   "display": "Bioaccessibility of Tudela artichoke (Cynara scolymus cv. Blanca de Tudela) (poly)phenols: the effects of heat treatment, simulated gastrointestinal digestion and human colonic microbiota",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0982",
    "key": "zhang2021reynoutria",
    "type": "article",
@@ -13558,6 +13786,33 @@
    "conditions": [
     "Lactation support"
    ]
+  },
+  {
+   "ref_id": "REF-1640",
+   "key": "grazina2021artichoke",
+   "type": "article",
+   "title": "Botanical authentication of globe artichoke-containing foods: Differentiation of Cynara scolymus by a novel HRM approach",
+   "authors": "Grazina, L., Batista, A., Amaral, J.S., Costa, J. and Mafra, I.",
+   "journal": "Food Chemistry",
+   "year": "2021",
+   "doi": "10.1016/j.foodchem.2021.130621",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2021.130621",
+   "link_type": "doi",
+   "citation": "Grazina, L., Batista, A., Amaral, J.S., Costa, J. and Mafra, I (2021) 'Botanical authentication of globe artichoke-containing foods: Differentiation of Cynara scolymus by a novel HRM approach', Food Chemistry, 366, pp. 130621. doi:10.1016/j.foodchem.2021.130621",
+   "abstract": "A real-time PCR coupled to high-resolution melting analysis was developed to authenticate globe artichoke (Cynara scolymus) and detect substitution/mislabelling in plant food supplements and herbal infusions, supporting quality control of artichoke products.",
+   "tier": "preclinical",
+   "display": "Botanical authentication of globe artichoke-containing foods: Differentiation of Cynara scolymus by a novel HRM approach",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1317",
@@ -13894,6 +14149,34 @@
    ]
   },
   {
+   "ref_id": "REF-1650",
+   "key": "joksic2021gentiana",
+   "type": "article",
+   "title": "Effects of Gentiana lutea Root on Vascular Diseases",
+   "authors": "Joksic, G., Radak, D., Sudar-Milovanovic, E., Obradovic, M. and others",
+   "journal": "Current Vascular Pharmacology",
+   "year": "2021",
+   "doi": "10.2174/1570161118666200529111314",
+   "url": "",
+   "link": "https://doi.org/10.2174/1570161118666200529111314",
+   "link_type": "doi",
+   "citation": "Joksic, G., Radak, D., Sudar-Milovanovic, E., Obradovic, M. and others (2021) 'Effects of Gentiana lutea Root on Vascular Diseases', Current Vascular Pharmacology, 19(4), pp. 359-369. doi:10.2174/1570161118666200529111314",
+   "abstract": "This review of Gentiana lutea root describes how its iridoids, secoiridoids, xanthones and flavonoids exert antioxidant, anti-inflammatory, lipid-lowering, vasodilator and anti-platelet activities relevant to the management of vascular diseases.",
+   "tier": "review",
+   "display": "Effects of Gentiana lutea Root on Vascular Diseases",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1406",
    "key": "tufarelli2021horsetail",
    "type": "article",
@@ -14118,6 +14401,33 @@
    ],
    "scientific": [
     "Saponaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1642",
+   "key": "khazaei2021fennel",
+   "type": "article",
+   "title": "Fennel (Foeniculum vulgare Miller) for the management of menopausal women's health: A systematic review and meta-analysis",
+   "authors": "Khorshidi, M. and others",
+   "journal": "Complementary Therapies in Clinical Practice",
+   "year": "2021",
+   "doi": "10.1016/j.ctcp.2021.101360",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctcp.2021.101360",
+   "link_type": "doi",
+   "citation": "Khorshidi, M. and others (2021) 'Fennel (Foeniculum vulgare Miller) for the management of menopausal women's health: A systematic review and meta-analysis', Complementary Therapies in Clinical Practice, 43, pp. 101360. doi:10.1016/j.ctcp.2021.101360",
+   "abstract": "This systematic review and meta-analysis of 14 trials evaluated the effectiveness and safety of fennel (Foeniculum vulgare) for managing menopausal women's health, finding benefits for menopausal symptoms attributed to its phytoestrogenic anethole content.",
+   "tier": "review",
+   "display": "Fennel (Foeniculum vulgare Miller) for the management of menopausal women's health: A systematic review and meta-analysis",
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
    ],
    "actions": [],
    "conditions": []
@@ -17499,6 +17809,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1651",
+   "key": "park2020gentiana",
+   "type": "article",
+   "title": "Antiobesity Effects of Gentiana lutea Extract on 3T3-L1 Preadipocytes and a High-Fat Diet-Induced Mouse Model",
+   "authors": "Park, E., Lee, C.G., Kim, J., Yeo, S. and others",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25102453",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25102453",
+   "link_type": "doi",
+   "citation": "Park, E., Lee, C.G., Kim, J., Yeo, S. and others (2020) 'Antiobesity Effects of Gentiana lutea Extract on 3T3-L1 Preadipocytes and a High-Fat Diet-Induced Mouse Model', Molecules, 25(10), pp. 2453. doi:10.3390/molecules25102453",
+   "abstract": "Gentiana lutea extract inhibited adipocyte differentiation in 3T3-L1 cells and prevented high-fat-diet-induced weight gain, fatty hepatocyte deposition and adipocyte enlargement in mice, demonstrating an antiobesity effect of the herb.",
+   "tier": "preclinical",
+   "display": "Antiobesity Effects of Gentiana lutea Extract on 3T3-L1 Preadipocytes and a High-Fat Diet-Induced Mouse Model",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0472",
    "key": "kruttschnitt2020assessment",
    "type": "article",
@@ -19795,6 +20133,35 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1656",
+   "key": "yakut2020fennel",
+   "type": "article",
+   "title": "Preventative and therapeutic effects of fennel (Foeniculum vulgare) seed extracts against necrotizing enterocolitis",
+   "authors": "Yakut, H.I., Koyuncu, E., Cakir, U., Tayman, C. and others",
+   "journal": "Journal of Food Biochemistry",
+   "year": "2020",
+   "doi": "10.1111/jfbc.13284",
+   "url": "",
+   "link": "https://doi.org/10.1111/jfbc.13284",
+   "link_type": "doi",
+   "citation": "Yakut, H.I., Koyuncu, E., Cakir, U., Tayman, C. and others (2020) 'Preventative and therapeutic effects of fennel (Foeniculum vulgare) seed extracts against necrotizing enterocolitis', Journal of Food Biochemistry, 44(8), pp. e13284. doi:10.1111/jfbc.13284",
+   "abstract": "In an experimental rat model of necrotizing enterocolitis, fennel (Foeniculum vulgare) seed extract reduced bowel damage, apoptosis, oxidative stress and the pro-inflammatory cytokines TNF-alpha and IL-6, demonstrating anti-inflammatory, antioxidant and cytoprotective gastrointestinal effects.",
+   "tier": "preclinical",
+   "display": "Preventative and therapeutic effects of fennel (Foeniculum vulgare) seed extracts against necrotizing enterocolitis",
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1156",
@@ -22146,6 +22513,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1643",
+   "key": "rasul2019fennel",
+   "type": "article",
+   "title": "Foeniculum vulgare (Fennel) promotes functional recovery and ameliorates oxidative stress following a lesion to the sciatic nerve in mouse model",
+   "authors": "Rasul, A. and others",
+   "journal": "Journal of Food Biochemistry",
+   "year": "2019",
+   "doi": "10.1111/jfbc.12983",
+   "url": "",
+   "link": "https://doi.org/10.1111/jfbc.12983",
+   "link_type": "doi",
+   "citation": "Rasul, A. and others (2019) 'Foeniculum vulgare (Fennel) promotes functional recovery and ameliorates oxidative stress following a lesion to the sciatic nerve in mouse model', Journal of Food Biochemistry, 43(11), pp. e12983. doi:10.1111/jfbc.12983",
+   "abstract": "Foeniculum vulgare (fennel) promoted functional recovery and ameliorated oxidative stress following sciatic nerve injury in a mouse model, demonstrating a neuroprotective antioxidant effect of the herb.",
+   "tier": "preclinical",
+   "display": "Foeniculum vulgare (Fennel) promotes functional recovery and ameliorates oxidative stress following a lesion to the sciatic nerve in mouse model",
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1055",
    "key": "slapsyte2019stachys",
    "type": "article",
@@ -22321,6 +22715,35 @@
    "conditions": [
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1639",
+   "key": "ahmadi2019artichoke",
+   "type": "article",
+   "title": "Modulatory effects of artichoke (Cynara scolymus L.) leaf extract against oxidative stress and hepatic TNF-alpha gene expression in acute diazinon-induced liver injury in rats",
+   "authors": "Ahmadi, A., Heidarian, E. and Ghatreh-Samani, K.",
+   "journal": "Journal of Basic and Clinical Physiology and Pharmacology",
+   "year": "2019",
+   "doi": "10.1515/jbcpp-2018-0180",
+   "url": "",
+   "link": "https://doi.org/10.1515/jbcpp-2018-0180",
+   "link_type": "doi",
+   "citation": "Ahmadi, A., Heidarian, E. and Ghatreh-Samani, K (2019) 'Modulatory effects of artichoke (Cynara scolymus L.) leaf extract against oxidative stress and hepatic TNF-alpha gene expression in acute diazinon-induced liver injury in rats', Journal of Basic and Clinical Physiology and Pharmacology, 30(5), pp. 20180180. doi:10.1515/jbcpp-2018-0180",
+   "abstract": "Artichoke (Cynara scolymus) leaf extract protected rat liver against diazinon-induced injury, reducing serum liver enzymes, malondialdehyde, TNF-alpha and hepatic TNF-alpha gene expression while improving antioxidant enzyme activity and histopathology, confirming its hepatoprotective action.",
+   "tier": "preclinical",
+   "display": "Modulatory effects of artichoke (Cynara scolymus L.) leaf extract against oxidative stress and hepatic TNF-alpha gene expression in acute diazinon-induced liver injury in rats",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [
+    "Hepatoprotective (liver support)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0866",
@@ -22678,6 +23101,34 @@
    ]
   },
   {
+   "ref_id": "REF-1649",
+   "key": "joksic2019gentiana",
+   "type": "article",
+   "title": "Potential of Gentiana lutea for the Treatment of Obesity-associated Diseases",
+   "authors": "Joksic, G., Filipovic Trickovic, J. and Joksic, I.",
+   "journal": "Current Pharmaceutical Design",
+   "year": "2019",
+   "doi": "10.2174/1381612825666190708215743",
+   "url": "",
+   "link": "https://doi.org/10.2174/1381612825666190708215743",
+   "link_type": "doi",
+   "citation": "Joksic, G., Filipovic Trickovic, J. and Joksic, I (2019) 'Potential of Gentiana lutea for the Treatment of Obesity-associated Diseases', Current Pharmaceutical Design, 25(18), pp. 2071-2076. doi:10.2174/1381612825666190708215743",
+   "abstract": "This review describes the potential of yellow gentian (Gentiana lutea) root powder for the prevention of obesity and diabetes and their complications, summarising the metabolic effects of its bitter constituents.",
+   "tier": "review",
+   "display": "Potential of Gentiana lutea for the Treatment of Obesity-associated Diseases",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1039",
    "key": "soualeh2019scrophularia",
    "type": "article",
@@ -22701,6 +23152,33 @@
    ],
    "scientific": [
     "Scrophularia nodosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1637",
+   "key": "bensalem2019artichoke",
+   "type": "article",
+   "title": "Preventive effect of Artichoke (Cynara scolymus L.) in kidney dysfunction against high fat-diet induced obesity in rats",
+   "authors": "Ben Salem, M., Affes, H., Dhouibi, R., Charfi, S. and others",
+   "journal": "Archives of Physiology and Biochemistry",
+   "year": "2019",
+   "doi": "10.1080/13813455.2019.1703755",
+   "url": "",
+   "link": "https://doi.org/10.1080/13813455.2019.1703755",
+   "link_type": "doi",
+   "citation": "Ben Salem, M., Affes, H., Dhouibi, R., Charfi, S. and others (2019) 'Preventive effect of Artichoke (Cynara scolymus L.) in kidney dysfunction against high fat-diet induced obesity in rats', Archives of Physiology and Biochemistry, 128(3), pp. 586-592. doi:10.1080/13813455.2019.1703755",
+   "abstract": "An ethanol extract of artichoke (Cynara scolymus) leaves protected the kidney against high-fat-diet-induced injury in rats by decreasing organ weights, kidney markers and oxidative-stress biomarkers, demonstrating a renoprotective antioxidant effect.",
+   "tier": "preclinical",
+   "display": "Preventive effect of Artichoke (Cynara scolymus L.) in kidney dysfunction against high fat-diet induced obesity in rats",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
    ],
    "actions": [],
    "conditions": []
@@ -23165,6 +23643,62 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1635",
+   "key": "salekzamani2018artichoke",
+   "type": "article",
+   "title": "The antioxidant activity of artichoke (Cynara scolymus): A systematic review and meta-analysis of animal studies",
+   "authors": "Salekzamani, S., Ebrahimi-Mameghani, M. and Rezazadeh, K.",
+   "journal": "Phytotherapy Research",
+   "year": "2019",
+   "doi": "10.1002/ptr.6213",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6213",
+   "link_type": "doi",
+   "citation": "Salekzamani, S., Ebrahimi-Mameghani, M. and Rezazadeh, K (2019) 'The antioxidant activity of artichoke (Cynara scolymus): A systematic review and meta-analysis of animal studies', Phytotherapy Research, 33(1), pp. 55-71. doi:10.1002/ptr.6213",
+   "abstract": "This systematic review and meta-analysis of animal studies provided convincing evidence for the antioxidant activity of artichoke (Cynara scolymus), which increased hepatic superoxide dismutase, catalase and glutathione and decreased malondialdehyde, supporting its hepatoprotective use.",
+   "tier": "review",
+   "display": "The antioxidant activity of artichoke (Cynara scolymus): A systematic review and meta-analysis of animal studies",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [
+    "Hepatoprotective (liver support)"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1636",
+   "key": "gotardo2019artichoke",
+   "type": "article",
+   "title": "The effect of Cynara scolymus (artichoke) on maternal reproductive outcomes and fetal development in rats",
+   "authors": "Gotardo, A.T., Mattos, M.I.S., Hueza, I.M. and Gorniak, S.L.",
+   "journal": "Regulatory Toxicology and Pharmacology",
+   "year": "2019",
+   "doi": "10.1016/j.yrtph.2019.01.004",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.yrtph.2019.01.004",
+   "link_type": "doi",
+   "citation": "Gotardo, A.T., Mattos, M.I.S., Hueza, I.M. and Gorniak, S.L (2019) 'The effect of Cynara scolymus (artichoke) on maternal reproductive outcomes and fetal development in rats', Regulatory Toxicology and Pharmacology, 102, pp. 74-78. doi:10.1016/j.yrtph.2019.01.004",
+   "abstract": "In Wistar rats, dry extract of Cynara scolymus leaves administered during gestation reduced fetal weight and length and litter size at higher doses (without malformations), indicating that artichoke consumption during pregnancy can negatively affect fetuses - an important safety consideration.",
+   "tier": "preclinical",
+   "display": "The effect of Cynara scolymus (artichoke) on maternal reproductive outcomes and fetal development in rats",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0674",
    "key": "shahmohammadi2019menopause",
    "type": "article",
@@ -23195,6 +23729,33 @@
     "Low mood / depression",
     "Menopause"
    ]
+  },
+  {
+   "ref_id": "REF-1644",
+   "key": "rasheed2019fennel",
+   "type": "article",
+   "title": "The Fennel, Foeniculum vulgare incorporated diet shows anxiolytic potential: A pre-clinical study",
+   "authors": "Rasheed, N. and others",
+   "journal": "Pakistan Journal of Pharmaceutical Sciences",
+   "year": "2019",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=The%20Fennel%2C%20Foeniculum%20vulgare%20incorporated%20diet%20shows%20anxiolytic%20potential%3A%20A%20pre-clinical%20study",
+   "link_type": "search",
+   "citation": "Rasheed, N. and others (2019) 'The Fennel, Foeniculum vulgare incorporated diet shows anxiolytic potential: A pre-clinical study', Pakistan Journal of Pharmaceutical Sciences, 32(4), pp. 1791-1797.",
+   "abstract": "A diet incorporating whole crushed seeds of Foeniculum vulgare (fennel) showed anxiolytic potential in a preclinical rodent study, supporting a calming central effect of the herb.",
+   "tier": "preclinical",
+   "display": "The Fennel, Foeniculum vulgare incorporated diet shows anxiolytic potential: A pre-clinical study",
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1330",
@@ -26427,6 +26988,33 @@
    ]
   },
   {
+   "ref_id": "REF-1646",
+   "key": "crescente2017fennel",
+   "type": "article",
+   "title": "Fennel (Foeniculum vulgare Mill. subsp. piperitum) florets, a traditional culinary spice in Italy: evaluation of phenolics and volatiles in local populations, and comparison with the composition of other plant parts",
+   "authors": "Crescente, G. and others",
+   "journal": "Journal of the Science of Food and Agriculture",
+   "year": "2017",
+   "doi": "10.1002/jsfa.8426",
+   "url": "",
+   "link": "https://doi.org/10.1002/jsfa.8426",
+   "link_type": "doi",
+   "citation": "Crescente, G. and others (2017) 'Fennel (Foeniculum vulgare Mill. subsp. piperitum) florets, a traditional culinary spice in Italy: evaluation of phenolics and volatiles in local populations, and comparison with the composition of other plant parts', Journal of the Science of Food and Agriculture, 98(5), pp. 1755-1765. doi:10.1002/jsfa.8426",
+   "abstract": "This study evaluated the phenolic and volatile composition of wild fennel (Foeniculum vulgare) florets compared with other plant parts, characterising the essential-oil and phenolic constituents of the traditional spice.",
+   "tier": "preclinical",
+   "display": "Fennel (Foeniculum vulgare Mill. subsp. piperitum) florets, a traditional culinary spice in Italy: evaluation of phenolics and volatiles in local populations, and comparison with the composition of other plant parts",
+   "plants": [
+    "Common Fennel",
+    "Fennel",
+    "Florence Fennel"
+   ],
+   "scientific": [
+    "Foeniculum vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0755",
    "key": "mancini2017greentea",
    "type": "article",
@@ -28911,6 +29499,34 @@
     "Cold & flu",
     "Immune support"
    ]
+  },
+  {
+   "ref_id": "REF-1653",
+   "key": "kesavan2016gentiana",
+   "type": "article",
+   "title": "Gentiana lutea exerts anti-atherosclerotic effects by preventing endothelial inflammation and smooth muscle cell migration",
+   "authors": "Kesavan, R. and others",
+   "journal": "Nutrition, Metabolism and Cardiovascular Diseases",
+   "year": "2016",
+   "doi": "10.1016/j.numecd.2015.12.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.numecd.2015.12.016",
+   "link_type": "doi",
+   "citation": "Kesavan, R. and others (2016) 'Gentiana lutea exerts anti-atherosclerotic effects by preventing endothelial inflammation and smooth muscle cell migration', Nutrition, Metabolism and Cardiovascular Diseases, 26(4), pp. 293-301. doi:10.1016/j.numecd.2015.12.016",
+   "abstract": "Gentiana lutea and its component isovitexin exerted anti-atherosclerotic effects by preventing endothelial inflammation and smooth-muscle-cell migration, demonstrating a vascular-protective anti-inflammatory activity of the herb.",
+   "tier": "preclinical",
+   "display": "Gentiana lutea exerts anti-atherosclerotic effects by preventing endothelial inflammation and smooth muscle cell migration",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1046",
@@ -36283,6 +36899,34 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1654",
+   "key": "akileshwari2012gentiana",
+   "type": "article",
+   "title": "Inhibition of aldose reductase by Gentiana lutea extracts",
+   "authors": "Akileshwari, C. and others",
+   "journal": "Experimental Diabetes Research",
+   "year": "2012",
+   "doi": "10.1155/2012/147965",
+   "url": "",
+   "link": "https://doi.org/10.1155/2012/147965",
+   "link_type": "doi",
+   "citation": "Akileshwari, C. and others (2012) 'Inhibition of aldose reductase by Gentiana lutea extracts', Experimental Diabetes Research, 2012, pp. 147965. doi:10.1155/2012/147965",
+   "abstract": "Gentiana lutea extracts inhibited aldose reductase, the enzyme implicated in diabetic complications through intracellular sorbitol accumulation, suggesting a protective role of the herb against secondary diabetic complications.",
+   "tier": "preclinical",
+   "display": "Inhibition of aldose reductase by Gentiana lutea extracts",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0863",
@@ -45398,6 +46042,34 @@
     "Earache",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1655",
+   "key": "toriumi2003gentiana",
+   "type": "article",
+   "title": "New triterpenoids from Gentiana lutea",
+   "authors": "Toriumi, Y., Kakuda, R., Kikuchi, M., Yaoita, Y. and Kikuchi, M.",
+   "journal": "Chemical & Pharmaceutical Bulletin",
+   "year": "2003",
+   "doi": "10.1248/cpb.51.89",
+   "url": "",
+   "link": "https://doi.org/10.1248/cpb.51.89",
+   "link_type": "doi",
+   "citation": "Toriumi, Y., Kakuda, R., Kikuchi, M., Yaoita, Y. and Kikuchi, M (2003) 'New triterpenoids from Gentiana lutea', Chemical & Pharmaceutical Bulletin, 51(1), pp. 89-91. doi:10.1248/cpb.51.89",
+   "abstract": "This phytochemical study isolated three new triterpenoids along with five known ones from the rhizomes and roots of Gentiana lutea, characterising additional bioactive constituents of the plant.",
+   "tier": "preclinical",
+   "display": "New triterpenoids from Gentiana lutea",
+   "plants": [
+    "Bitterwort",
+    "Gentian",
+    "Great yellow gentian",
+    "Yellow gentian"
+   ],
+   "scientific": [
+    "Gentiana lutea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0137",

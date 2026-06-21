@@ -10422,7 +10422,8 @@
      ],
      "note": "The principal choleretic, hepatoprotective and antioxidant constituents.",
      "reference_ids": [
-      "REF-0461"
+      "REF-0461",
+      "REF-1638"
      ]
     },
     {
@@ -10472,7 +10473,10 @@
      "action": "hepatoprotective",
      "note": "Hepatoprotective / liver support (protects liver cells and may aid their regeneration)",
      "reference_ids": [
-      "REF-0461"
+      "REF-0461",
+      "REF-1634",
+      "REF-1635",
+      "REF-1639"
      ],
      "status": "verified"
     },
@@ -10569,9 +10573,19 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1634",
+    "REF-1635",
+    "REF-0461",
+    "REF-1636",
+    "REF-1637",
+    "REF-1638",
+    "REF-1639",
+    "REF-1640"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "dioscorea-villosa",
@@ -12654,7 +12668,9 @@
      ],
      "note": "The aromatic volatile oil of the seed; trans-anethole is the principal component and is associated with the antispasmodic, carminative and estrogen-like activity.",
      "reference_ids": [
-      "REF-0537"
+      "REF-0537",
+      "REF-1641",
+      "REF-1645"
      ]
     },
     {
@@ -12681,7 +12697,8 @@
      ],
      "note": "Antioxidant and anti-inflammatory constituents.",
      "reference_ids": [
-      "REF-0537"
+      "REF-0537",
+      "REF-1646"
      ]
     },
     {
@@ -12697,7 +12714,9 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0119",
-      "REF-0537"
+      "REF-0537",
+      "REF-1641",
+      "REF-1656"
      ],
      "status": "verified"
     },
@@ -12875,9 +12894,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1641",
+    "REF-1642",
+    "REF-0537",
+    "REF-1643",
+    "REF-1644",
+    "REF-0605",
+    "REF-1645",
+    "REF-1646",
+    "REF-1656",
+    "REF-1657"
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "galium-aparine",
@@ -13281,7 +13312,9 @@
       "REF-0453",
       "REF-0454",
       "REF-0580",
-      "REF-0581"
+      "REF-0581",
+      "REF-1647",
+      "REF-1652"
      ]
     },
     {
@@ -13292,7 +13325,8 @@
      "note": "Pigment and antioxidant constituents.",
      "reference_ids": [
       "REF-0454",
-      "REF-0453"
+      "REF-0453",
+      "REF-1655"
      ]
     },
     {
@@ -13308,7 +13342,8 @@
      "action": "bitter-tonic",
      "note": "Aromatic bitter for temporary loss of appetite",
      "reference_ids": [
-      "REF-0453"
+      "REF-0453",
+      "REF-1647"
      ],
      "status": "verified"
     },
@@ -13318,7 +13353,9 @@
      "reference_ids": [
       "REF-0453",
       "REF-0454",
-      "REF-0580"
+      "REF-0580",
+      "REF-1647",
+      "REF-1648"
      ],
      "status": "verified"
     }
@@ -13379,9 +13416,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1647",
+    "REF-1648",
+    "REF-0580",
+    "REF-1649",
+    "REF-1650",
+    "REF-1651",
+    "REF-1652",
+    "REF-1653",
+    "REF-1654",
+    "REF-1655"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "ginkgo-biloba",

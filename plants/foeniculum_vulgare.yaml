@@ -17,6 +17,8 @@ constituents:
     with the antispasmodic, carminative and estrogen-like activity.
   reference_ids:
   - REF-0537
+  - REF-1641
+  - REF-1645
 - name: Flavonoids (quercetin, rutin and kaempferol glycosides)
   compounds:
   - flavonoid
@@ -36,6 +38,7 @@ constituents:
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0537
+  - REF-1646
 - name: Fatty acids (chiefly petroselinic acid) and amino acids
   note: Major constituents of the fruit/seed oil.
   reference_ids:
@@ -45,6 +48,8 @@ actions:
   reference_ids:
   - REF-0119
   - REF-0537
+  - REF-1641
+  - REF-1656
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
@@ -180,9 +185,20 @@ contraindications:
   reference_ids:
   - REF-0119
   status: verified
+references:
+- REF-1641
+- REF-1642
+- REF-0537
+- REF-1643
+- REF-1644
+- REF-0605
+- REF-1645
+- REF-1646
+- REF-1656
+- REF-1657
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. Enriched
@@ -191,4 +207,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the book for the antimicrobial, antispasmodic and expectorant actions. Further enriched 2026-06-14 with
   two PubMed-sourced meta-analyses of RCTs adding a primary-dysmenorrhoea action (REF-0604, a fennel-specific
   meta-analysis; REF-0605, a cinnamon/fennel/ginger meta-analysis). | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds).'
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
+  to >=10 scientific publications: added 8 PubMed-verified @article sources (REF-1641, REF-1642, REF-0537,
+  REF-1643, REF-1644, REF-0605, REF-1645, REF-1646) — woven into relevant actions/indications and the
+  plant-level references bucket.'

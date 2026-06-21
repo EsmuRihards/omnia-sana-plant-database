@@ -14,6 +14,7 @@ constituents:
   note: The principal choleretic, hepatoprotective and antioxidant constituents.
   reference_ids:
   - REF-0461
+  - REF-1638
 - name: Flavonoids (luteolin glycosides)
   compounds:
   - flavonoid
@@ -46,6 +47,9 @@ actions:
   note: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
   reference_ids:
   - REF-0461
+  - REF-1634
+  - REF-1635
+  - REF-1639
   status: verified
 - action: lipid-lowering
   note: Lipid-lowering - helps reduce cholesterol (an RCT showed lower total and LDL cholesterol and higher
@@ -110,9 +114,18 @@ contraindications:
   reference_ids:
   - REF-0462
   status: verified
+references:
+- REF-1634
+- REF-1635
+- REF-0461
+- REF-1636
+- REF-1637
+- REF-1638
+- REF-1639
+- REF-1640
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Plant Foods for Human
   Nutrition pharmacological review; EMA HMPC monograph). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (indigestion, bloating, liver-support, high-cholesterol, ibs); associations
@@ -120,4 +133,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   the lipid action - a Cochrane review of artichoke leaf extract for hypercholesterolaemia (REF-0584;
   promising but not yet convincing) and a double-blind RCT showing increased HDL and reduced total/LDL
   cholesterol (REF-0585). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds).'
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
+  8 PubMed-verified @article sources (REF-1634, REF-1635, REF-0461, REF-1636, REF-1637, REF-1638, REF-1639,
+  REF-1640) — woven into relevant actions/indications and the plant-level references bucket.'

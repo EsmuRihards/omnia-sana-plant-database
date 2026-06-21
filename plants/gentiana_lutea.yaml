@@ -21,6 +21,8 @@ constituents:
   - REF-0454
   - REF-0580
   - REF-0581
+  - REF-1647
+  - REF-1652
 - name: Xanthones (gentisin) and flavonoids
   compounds:
   - flavonoid
@@ -28,6 +30,7 @@ constituents:
   reference_ids:
   - REF-0454
   - REF-0453
+  - REF-1655
 - name: Sugars (gentiobiose)
   note: Carbohydrate constituents of the root.
   reference_ids:
@@ -37,6 +40,7 @@ actions:
   note: Aromatic bitter for temporary loss of appetite
   reference_ids:
   - REF-0453
+  - REF-1647
   status: verified
 - action: digestive
   note: Digestive aid for mild dyspeptic complaints - indigestion, bloating and fullness (stimulates gastric
@@ -45,6 +49,8 @@ actions:
   - REF-0453
   - REF-0454
   - REF-0580
+  - REF-1647
+  - REF-1648
   status: verified
 indications:
 - condition: appetite-loss
@@ -86,9 +92,20 @@ contraindications:
   reference_ids:
   - REF-0453
   status: verified
+references:
+- REF-1647
+- REF-1648
+- REF-0580
+- REF-1649
+- REF-1650
+- REF-1651
+- REF-1652
+- REF-1653
+- REF-1654
+- REF-1655
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Gentianae radix; Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss,
@@ -96,4 +113,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   genus Gentiana phytochemistry/pharmacology reviews (REF-0580, REF-0581); these are genus-level (G. lutea
   is the type species), cited here for constituent characterisation and the digestive-secretion action.
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds).'
+  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
+  sources (REF-1647, REF-1648, REF-0580, REF-1649, REF-1650, REF-1651, REF-1652, REF-1653, REF-1654, REF-1655)
+  — woven into relevant actions/indications and the plant-level references bucket.'

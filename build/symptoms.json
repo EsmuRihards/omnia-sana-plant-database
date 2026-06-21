@@ -13358,6 +13358,18 @@
      ]
     },
     {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0479",
+      "REF-1546",
+      "REF-1550"
+     ]
+    },
+    {
      "condition": "bronchitis",
      "label": "Bronchitis",
      "evidence": 1,
@@ -13370,16 +13382,6 @@
     {
      "condition": "cough",
      "label": "Cough",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0479"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -16063,6 +16065,18 @@
      ]
     },
     {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0497",
+      "REF-1539",
+      "REF-1543"
+     ]
+    },
+    {
      "condition": "diarrhea",
      "label": "Diarrhoea",
      "evidence": 5,
@@ -16079,12 +16093,13 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0497"
+      "REF-0497",
+      "REF-1541"
      ]
     },
     {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
+     "condition": "pregnancy-support",
+     "label": "Pregnancy support",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
@@ -16101,14 +16116,6 @@
      "references": [
       "REF-0497"
      ]
-    },
-    {
-     "condition": "pregnancy-support",
-     "label": "Pregnancy support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     }
    ]
   },
@@ -16240,6 +16247,65 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 10,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0055",
+      "REF-0132",
+      "REF-0191",
+      "REF-1526",
+      "REF-1528",
+      "REF-1529",
+      "REF-1532",
+      "REF-1533"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0055",
+      "REF-0132",
+      "REF-0191",
+      "REF-1528",
+      "REF-1530",
+      "REF-1535"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0055",
+      "REF-0132",
+      "REF-0191",
+      "REF-1527",
+      "REF-1534"
+     ]
+    },
+    {
+     "condition": "muscle-soreness",
+     "label": "Muscle soreness",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0055",
+      "REF-0132",
+      "REF-0191",
+      "REF-1529"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 6,
@@ -16264,32 +16330,8 @@
      ]
     },
     {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0055",
-      "REF-0132",
-      "REF-0191"
-     ]
-    },
-    {
      "condition": "cold",
      "label": "Cold & flu",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0055",
-      "REF-0132",
-      "REF-0191"
-     ]
-    },
-    {
-     "condition": "fatigue",
-     "label": "Fatigue / low energy",
      "evidence": 6,
      "status": "needs-review",
      "inferred": true,
@@ -16305,18 +16347,6 @@
      "evidence": 6,
      "status": "verified",
      "inferred": false,
-     "references": [
-      "REF-0055",
-      "REF-0132",
-      "REF-0191"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
      "references": [
       "REF-0055",
       "REF-0132",
@@ -16341,18 +16371,6 @@
      "evidence": 6,
      "status": "verified",
      "inferred": false,
-     "references": [
-      "REF-0055",
-      "REF-0132",
-      "REF-0191"
-     ]
-    },
-    {
-     "condition": "muscle-soreness",
-     "label": "Muscle soreness",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
      "references": [
       "REF-0055",
       "REF-0132",

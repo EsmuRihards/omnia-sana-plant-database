@@ -29,6 +29,7 @@ constituents:
   note: Soothing and supporting constituents underlying the traditional respiratory use.
   reference_ids:
   - REF-0479
+  - REF-1545
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory (cyclooxygenase-2 inhibition) and antioxidant
@@ -41,6 +42,9 @@ actions:
   reference_ids:
   - REF-0479
   - REF-0629
+  - REF-1544
+  - REF-1547
+  - REF-1550
   status: verified
 - action: demulcent
   note: Traditional demulcent / expectorant for cough, bronchitis, sore throat and respiratory catarrh
@@ -84,6 +88,8 @@ indications:
     (mucilage and saponins)
   reference_ids:
   - REF-0479
+  - REF-1546
+  - REF-1550
   status: needs-review
 - condition: skin-irritation
   note: inferred from demulcent action
@@ -109,9 +115,19 @@ contraindications:
   reference_ids:
   - REF-0479
   status: verified
+references:
+- REF-1544
+- REF-1545
+- REF-1546
+- REF-1547
+- REF-1548
+- REF-1549
+- REF-1550
+- REF-1551
+- REF-1552
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study of Pulmonaria antioxidant
   and COX-2-inhibitory activity). Further enriched 2026-06-13 with a PubMed LC-MS/MS phenolic-constituents
   profiling study (REF-0549, Krzyzanowska-Kowalczyk et al. 2018). Lungwort is poorly covered by clinical
@@ -119,4 +135,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study
   Symptom-to-Plant Lookup tool (cough, bronchitis, sore-throat); associations retained and now part-mapped
   and cited. Further enriched 2026-06-14 with a PubMed-sourced study isolating yunnaneic acid B from P.
   officinalis and demonstrating its antioxidant (peroxynitrite-scavenging) activity (REF-0629). | 2026-06-15:
-  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
+  | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources (REF-1544,
+  REF-1545, REF-1546, REF-1547, REF-1548, REF-1549, REF-1550, REF-1551, REF-1552) — woven into relevant
+  actions/indications and the plant-level references bucket.'

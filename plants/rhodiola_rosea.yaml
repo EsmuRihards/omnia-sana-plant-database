@@ -16,6 +16,8 @@ actions:
   - REF-0055
   - REF-0132
   - REF-0191
+  - REF-1527
+  - REF-1534
   status: verified
 - action: antidiabetic
   reference_ids:
@@ -35,6 +37,7 @@ actions:
   - REF-0055
   - REF-0132
   - REF-0191
+  - REF-1529
   status: verified
 - action: immunomodulator
   reference_ids:
@@ -47,6 +50,7 @@ actions:
   - REF-0055
   - REF-0132
   - REF-0191
+  - REF-1535
   status: verified
 indications:
 - condition: arthritis
@@ -69,6 +73,9 @@ indications:
   - REF-0055
   - REF-0132
   - REF-0191
+  - REF-1528
+  - REF-1530
+  - REF-1535
   status: needs-review
 - condition: cold
   note: inferred from immunomodulator action
@@ -83,6 +90,11 @@ indications:
   - REF-0055
   - REF-0132
   - REF-0191
+  - REF-1526
+  - REF-1528
+  - REF-1529
+  - REF-1532
+  - REF-1533
   status: needs-review
 - condition: immune-support
   reference_ids:
@@ -96,6 +108,8 @@ indications:
   - REF-0055
   - REF-0132
   - REF-0191
+  - REF-1527
+  - REF-1534
   status: needs-review
 - condition: memory
   note: inferred from neuroprotective action
@@ -116,6 +130,7 @@ indications:
   - REF-0055
   - REF-0132
   - REF-0191
+  - REF-1529
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -142,11 +157,25 @@ contraindications:
   - REF-0132
   - REF-0191
   status: verified
-provenance: book
+references:
+- REF-1526
+- REF-1527
+- REF-1528
+- REF-1529
+- REF-1530
+- REF-1531
+- REF-1532
+- REF-1533
+- REF-1534
+- REF-1535
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1526, REF-1527, REF-1528, REF-1529, REF-1530,
+  REF-1531, REF-1532, REF-1533, REF-1534, REF-1535) — woven into relevant actions/indications and the
+  plant-level references bucket.'

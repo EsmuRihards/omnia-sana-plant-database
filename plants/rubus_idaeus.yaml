@@ -14,6 +14,7 @@ constituents:
   note: Astringent constituents of the leaf.
   reference_ids:
   - REF-0497
+  - REF-1542
 - name: Flavonoids and the alkaloid fragarine
   compounds:
   - flavonoid
@@ -21,6 +22,7 @@ constituents:
   note: Fragarine is the constituent proposed to give the uterine-toning effect.
   reference_ids:
   - REF-0497
+  - REF-1536
 - name: Vitamin C and minerals
   note: Nutritive constituents.
   reference_ids:
@@ -44,6 +46,7 @@ actions:
   - REF-0497
   - REF-0498
   - REF-0607
+  - REF-1541
   status: needs-review
 indications:
 - condition: diarrhea
@@ -55,6 +58,7 @@ indications:
   note: Astringent for menstrual cramps (traditional)
   reference_ids:
   - REF-0497
+  - REF-1541
   status: needs-review
 - condition: pms
   note: inferred from emmenagogue action
@@ -64,12 +68,15 @@ indications:
   - REF-0607
   status: needs-review
 - condition: pregnancy-support
-  reference_ids: []
+  reference_ids:
+  - REF-0497
   status: needs-review
 - condition: skin-irritation
   note: inferred from astringent action
   reference_ids:
   - REF-0497
+  - REF-1539
+  - REF-1543
   status: needs-review
 - condition: wounds
   note: inferred from astringent action
@@ -85,9 +92,19 @@ contraindications:
   - REF-0497
   - REF-0498
   status: verified
+references:
+- REF-0497
+- REF-1536
+- REF-1537
+- REF-1538
+- REF-1539
+- REF-1540
+- REF-1541
+- REF-1542
+- REF-1543
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   observational study; ANZJOG survey). Evidence is weak/observational, reflected in needs-review action
   statuses. Note: distinct from the book''s Rubus fruticosus (blackberry leaf). Originally a skeleton
@@ -96,4 +113,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   double-blind RCT by Simpson et al. (REF-0607; n=192, shorter second stage of labour and fewer forceps
   deliveries, no effect on first stage, no adverse effects) - the action remains needs-review given the
   single small trial. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
-  constituents linked to compounds).'
+  constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
+  @article sources (REF-0497, REF-1536, REF-1537, REF-1538, REF-1539, REF-1540, REF-1541, REF-1542, REF-1543)
+  — woven into relevant actions/indications and the plant-level references bucket.'

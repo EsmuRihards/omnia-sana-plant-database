@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1525,
+ "count": 1552,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -294,6 +294,36 @@
     "Hot flashes",
     "Menopause"
    ]
+  },
+  {
+   "ref_id": "REF-1544",
+   "key": "ignjatijevic2025pulmonaria",
+   "type": "article",
+   "title": "Assessment of Antioxidant Activity and Dose-Dependent Effect on Genotoxicity/Antigenotoxicity of Pulmonaria officinalis Ethanolic Extract",
+   "authors": "Ignjatijevic, A., Andjic, T., Ljesevic, M., Nikolic, B. and others",
+   "journal": "Pharmaceutics",
+   "year": "2025",
+   "doi": "10.3390/pharmaceutics17091134",
+   "url": "",
+   "link": "https://doi.org/10.3390/pharmaceutics17091134",
+   "link_type": "doi",
+   "citation": "Ignjatijevic, A., Andjic, T., Ljesevic, M., Nikolic, B. and others (2025) 'Assessment of Antioxidant Activity and Dose-Dependent Effect on Genotoxicity/Antigenotoxicity of Pulmonaria officinalis Ethanolic Extract', Pharmaceutics, 17(9), pp. 1134. doi:10.3390/pharmaceutics17091134",
+   "abstract": "A 70% ethanolic extract of lungwort (Pulmonaria officinalis L.), rich in polyphenols and phytol, showed notable antioxidant capacity and a hormetic dose-dependent effect, protecting normal fibroblasts against oxidative DNA damage at non-genotoxic concentrations.",
+   "tier": "preclinical",
+   "display": "Assessment of Antioxidant Activity and Dose-Dependent Effect on Genotoxicity/Antigenotoxicity of Pulmonaria officinalis Ethanolic Extract",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0034",
@@ -3547,6 +3577,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1551",
+   "key": "neuhauser2024insulin",
+   "type": "article",
+   "title": "Insulin-Mimetic Activity of Herbal Extracts Identified with Large-Scale Total Internal Reflection Fluorescence Microscopy",
+   "authors": "Neuhauser, C., Schwarzinger, B., Schwarzinger, C., Feichtinger, M. and others",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16142182",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16142182",
+   "link_type": "doi",
+   "citation": "Neuhauser, C., Schwarzinger, B., Schwarzinger, C., Feichtinger, M. and others (2024) 'Insulin-Mimetic Activity of Herbal Extracts Identified with Large-Scale Total Internal Reflection Fluorescence Microscopy', Nutrients, 16(14), pp. 2182. doi:10.3390/nu16142182",
+   "abstract": "In a large-scale screen for GLUT4-translocation activators, lungwort (Pulmonaria officinalis) was among the extracts revealing potential as an antidiabetic nutraceutical with insulin-mimetic, blood-glucose-reducing activity in a modified hen's egg test.",
+   "tier": "preclinical",
+   "display": "Insulin-Mimetic Activity of Herbal Extracts Identified with Large-Scale Total Internal Reflection Fluorescence Microscopy",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0805",
    "key": "vlase2024epilobium",
    "type": "article",
@@ -4461,6 +4519,7 @@
     "Diarrhoea",
     "Menstrual cramps",
     "PMS / premenstrual syndrome",
+    "Pregnancy support",
     "Skin irritation",
     "Wounds"
    ]
@@ -7918,6 +7977,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1529",
+   "key": "tinsley2023rhodiola",
+   "type": "article",
+   "title": "Rhodiola rosea as an adaptogen to enhance exercise performance: a review of the literature",
+   "authors": "Tinsley, G.M., Jagim, A.R., Potter, G.D.M., Garner, D. and Galpin, A.J.",
+   "journal": "The British Journal of Nutrition",
+   "year": "2023",
+   "doi": "10.1017/S0007114523001988",
+   "url": "",
+   "link": "https://doi.org/10.1017/S0007114523001988",
+   "link_type": "doi",
+   "citation": "Tinsley, G.M., Jagim, A.R., Potter, G.D.M., Garner, D. and Galpin, A.J (2023) 'Rhodiola rosea as an adaptogen to enhance exercise performance: a review of the literature', The British Journal of Nutrition, 131(3), pp. 461-473. doi:10.1017/S0007114523001988",
+   "abstract": "This review of at least sixteen human investigations indicates that adequately dosed Rhodiola rosea supplementation can prolong time-to-exhaustion and improve exercise performance, with mechanisms including modulation of energy substrates, reduced fatigue and muscle damage, and altered antioxidant activity.",
+   "tier": "review",
+   "display": "Rhodiola rosea as an adaptogen to enhance exercise performance: a review of the literature",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [
+    "Physical performance / ergogenic"
+   ],
+   "conditions": [
+    "Fatigue / low energy",
+    "Muscle soreness"
+   ]
+  },
+  {
    "ref_id": "REF-1287",
    "key": "li2023rosemary",
    "type": "article",
@@ -10378,6 +10471,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1542",
+   "key": "raudone2022raspberry",
+   "type": "article",
+   "title": "In Vitro Antioxidant and Prooxidant Activities of Red Raspberry (Rubus idaeus L.) Stem Extracts",
+   "authors": "Raudone, L. and others",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27134073",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27134073",
+   "link_type": "doi",
+   "citation": "Raudone, L. and others (2022) 'In Vitro Antioxidant and Prooxidant Activities of Red Raspberry (Rubus idaeus L.) Stem Extracts', Molecules, 27(13), pp. 4073. doi:10.3390/molecules27134073",
+   "abstract": "Red raspberry (Rubus idaeus L.) stem extracts, used in Lithuanian folk medicine, were rich in polyphenols and showed concentration-dependent in vitro antioxidant (and prooxidant) activities, characterising the antioxidant constituents of the plant.",
+   "tier": "preclinical",
+   "display": "In Vitro Antioxidant and Prooxidant Activities of Red Raspberry (Rubus idaeus L.) Stem Extracts",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1367",
    "key": "peng2022vervain",
    "type": "article",
@@ -11409,6 +11529,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1538",
+   "key": "valpuesta2022raspberry",
+   "type": "article",
+   "title": "Rubus idaeus extract improves symptoms in knee osteoarthritis patients: results from a phase II double-blind randomized controlled trial",
+   "authors": "Valdes, M. and others",
+   "journal": "BMC Musculoskeletal Disorders",
+   "year": "2022",
+   "doi": "10.1186/s12891-022-05612-2",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12891-022-05612-2",
+   "link_type": "doi",
+   "citation": "Valdes, M. and others (2022) 'Rubus idaeus extract improves symptoms in knee osteoarthritis patients: results from a phase II double-blind randomized controlled trial', BMC Musculoskeletal Disorders, 23(1), pp. 650. doi:10.1186/s12891-022-05612-2",
+   "abstract": "In a phase II double-blind randomized controlled trial, a Rubus idaeus (raspberry) extract improved pain and function symptoms in knee osteoarthritis patients without adverse effects, supporting an anti-inflammatory, symptom-relieving action.",
+   "tier": "rct",
+   "display": "Rubus idaeus extract improves symptoms in knee osteoarthritis patients: results from a phase II double-blind randomized controlled trial",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0790",
    "key": "chen2022saffron",
    "type": "article",
@@ -11643,6 +11790,37 @@
    "conditions": [
     "Pain (general)",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-1526",
+   "key": "ivanovastojcheva2022rhodiola",
+   "type": "article",
+   "title": "The Effectiveness of Rhodiola rosea L. Preparations in Alleviating Various Aspects of Life-Stress Symptoms and Stress-Induced Conditions - Encouraging Clinical Evidence",
+   "authors": "Ivanova Stojcheva, E. and Quintela, J.C.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27123902",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27123902",
+   "link_type": "doi",
+   "citation": "Ivanova Stojcheva, E. and Quintela, J.C (2022) 'The Effectiveness of Rhodiola rosea L. Preparations in Alleviating Various Aspects of Life-Stress Symptoms and Stress-Induced Conditions - Encouraging Clinical Evidence', Molecules, 27(12), pp. 3902. doi:10.3390/molecules27123902",
+   "abstract": "This review summarises the encouraging clinical evidence that Rhodiola rosea L. preparations alleviate life-stress symptoms, stress-induced fatigue, burnout, cognitive impairment and related conditions, supporting its adaptogenic use.",
+   "tier": "review",
+   "display": "The Effectiveness of Rhodiola rosea L. Preparations in Alleviating Various Aspects of Life-Stress Symptoms and Stress-Induced Conditions - Encouraging Clinical Evidence",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Fatigue / low energy"
    ]
   },
   {
@@ -16328,6 +16506,35 @@
    ]
   },
   {
+   "ref_id": "REF-1539",
+   "key": "campos2020raspberry",
+   "type": "article",
+   "title": "Anti-aging and brightening effects of a topical treatment containing vitamin C, vitamin E, and raspberry leaf cell culture extract: A split-face, randomized controlled trial",
+   "authors": "Campos, P.M. and others",
+   "journal": "Journal of Cosmetic Dermatology",
+   "year": "2020",
+   "doi": "10.1111/jocd.13305",
+   "url": "",
+   "link": "https://doi.org/10.1111/jocd.13305",
+   "link_type": "doi",
+   "citation": "Campos, P.M. and others (2020) 'Anti-aging and brightening effects of a topical treatment containing vitamin C, vitamin E, and raspberry leaf cell culture extract: A split-face, randomized controlled trial', Journal of Cosmetic Dermatology, 19(3), pp. 671-676. doi:10.1111/jocd.13305",
+   "abstract": "In a split-face randomized controlled trial, a topical treatment containing raspberry (Rubus idaeus) leaf cell culture extract with vitamins C and E improved skin tone, hydration and signs of skin aging, supporting a topical, skin-soothing application of raspberry leaf.",
+   "tier": "rct",
+   "display": "Anti-aging and brightening effects of a topical treatment containing vitamin C, vitamin E, and raspberry leaf cell culture extract: A split-face, randomized controlled trial",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-0899",
    "key": "pan2020rumex",
    "type": "article",
@@ -18507,6 +18714,33 @@
    ]
   },
   {
+   "ref_id": "REF-1536",
+   "key": "ispiryan2020raspberry",
+   "type": "article",
+   "title": "Phenolic Composition, Mineral Content, and Beneficial Bioactivities of Leaf Extracts from Black Currant (Ribes nigrum L.), Raspberry (Rubus idaeus), and Aronia (Aronia melanocarpa)",
+   "authors": "Mostafa, H.S. and others",
+   "journal": "Nutrients",
+   "year": "2020",
+   "doi": "10.3390/nu12020463",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu12020463",
+   "link_type": "doi",
+   "citation": "Mostafa, H.S. and others (2020) 'Phenolic Composition, Mineral Content, and Beneficial Bioactivities of Leaf Extracts from Black Currant (Ribes nigrum L.), Raspberry (Rubus idaeus), and Aronia (Aronia melanocarpa)', Nutrients, 12(2), pp. 463. doi:10.3390/nu12020463",
+   "abstract": "This review of leaf extracts from black currant, raspberry (Rubus idaeus) and aronia summarises their rich phenolic and flavonoid composition, mineral content and beneficial antioxidant and anti-inflammatory bioactivities relevant to the prevention of lifestyle diseases.",
+   "tier": "review",
+   "display": "Phenolic Composition, Mineral Content, and Beneficial Bioactivities of Leaf Extracts from Black Currant (Ribes nigrum L.), Raspberry (Rubus idaeus), and Aronia (Aronia melanocarpa)",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0570",
    "key": "martinezzapata2020phlebotonics",
    "type": "article",
@@ -20278,6 +20512,39 @@
    ]
   },
   {
+   "ref_id": "REF-1527",
+   "key": "pu2019rhodiola",
+   "type": "article",
+   "title": "Anti-inflammatory effects of Rhodiola rosea L.: A review",
+   "authors": "Pu, W.L., Zhang, M.Y., Bai, R.Y., Sun, L.K. and others",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2019",
+   "doi": "10.1016/j.biopha.2019.109552",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2019.109552",
+   "link_type": "doi",
+   "citation": "Pu, W.L., Zhang, M.Y., Bai, R.Y., Sun, L.K. and others (2019) 'Anti-inflammatory effects of Rhodiola rosea L.: A review', Biomedicine & Pharmacotherapy, 121, pp. 109552. doi:10.1016/j.biopha.2019.109552",
+   "abstract": "This review of the anti-inflammatory effects and mechanisms of Rhodiola rosea L. extracts, preparations and active compounds (notably salidroside) summarises protective effects against inflammatory injury in cardiovascular, neurodegenerative, diabetic, septic and cancer conditions.",
+   "tier": "review",
+   "display": "Anti-inflammatory effects of Rhodiola rosea L.: A review",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-1080",
    "key": "radunz2018clove",
    "type": "article",
@@ -21410,6 +21677,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1546",
+   "key": "wojtyniak2019pulmonaria",
+   "type": "article",
+   "title": "Pulmonaria officinalis L. Extract in Cystic Fibrosis: In Vitro Evidence on Staphylococcus aureus Clinical Isolates",
+   "authors": "Krzyzanowska-Kowalczyk, J. and others",
+   "journal": "Molecules",
+   "year": "2019",
+   "doi": "10.3390/molecules24061151",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules24061151",
+   "link_type": "doi",
+   "citation": "Krzyzanowska-Kowalczyk, J. and others (2019) 'Pulmonaria officinalis L. Extract in Cystic Fibrosis: In Vitro Evidence on Staphylococcus aureus Clinical Isolates', Molecules, 24(6), pp. 1151. doi:10.3390/molecules24061151",
+   "abstract": "A phenolic-rich fraction of Pulmonaria officinalis L. extract reduced the virulence attributes of cystic-fibrosis-associated Staphylococcus aureus clinical isolates in vitro, providing evidence for the use of lungwort herbal supplements in staphylococcal lung colonisation.",
+   "tier": "preclinical",
+   "display": "Pulmonaria officinalis L. Extract in Cystic Fibrosis: In Vitro Evidence on Staphylococcus aureus Clinical Isolates",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0935",
    "key": "reichert2019nepeta",
    "type": "article",
@@ -21435,6 +21732,72 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1534",
+   "key": "borgonetti2019rhodiola",
+   "type": "article",
+   "title": "Rhodiola rosea L. modulates inflammatory processes in a CRH-activated BV2 cell model",
+   "authors": "Borgonetti, V., Governa, P., Biagi, M., Dalia, P. and Corsi, L.",
+   "journal": "Phytomedicine",
+   "year": "2019",
+   "doi": "10.1016/j.phymed.2019.153143",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2019.153143",
+   "link_type": "doi",
+   "citation": "Borgonetti, V., Governa, P., Biagi, M., Dalia, P. and Corsi, L (2019) 'Rhodiola rosea L. modulates inflammatory processes in a CRH-activated BV2 cell model', Phytomedicine, 68, pp. 153143. doi:10.1016/j.phymed.2019.153143",
+   "abstract": "A Rhodiola rosea root and rhizome ethanolic extract counteracted the neuroinflammatory effect of corticotropin-releasing hormone in BV2 microglial cells by inhibiting NF-kappaB nuclear translocation and modulating MAPK signalling, reducing HSP70 expression and supporting its anti-stress, anti-inflammatory action.",
+   "tier": "preclinical",
+   "display": "Rhodiola rosea L. modulates inflammatory processes in a CRH-activated BV2 cell model",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-1535",
+   "key": "coors2019rhodiola",
+   "type": "article",
+   "title": "Rhodiola rosea root extract has antipsychotic-like effects in rodent models of sensorimotor gating",
+   "authors": "Coors, A., Brosch, M., Kahl, E., Khalil, R. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2019",
+   "doi": "10.1016/j.jep.2019.02.031",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2019.02.031",
+   "link_type": "doi",
+   "citation": "Coors, A., Brosch, M., Kahl, E., Khalil, R. and others (2019) 'Rhodiola rosea root extract has antipsychotic-like effects in rodent models of sensorimotor gating', Journal of Ethnopharmacology, 235, pp. 320-328. doi:10.1016/j.jep.2019.02.031",
+   "abstract": "Rhodiola rosea root extract increased prepulse inhibition and reversed apomorphine- and dizocilpine-induced sensorimotor-gating deficits in rats and mice, suggesting antipsychotic-like, neuroprotective central effects of the extract.",
+   "tier": "preclinical",
+   "display": "Rhodiola rosea root extract has antipsychotic-like effects in rodent models of sensorimotor gating",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": [
+    "Cognitive function"
+   ]
   },
   {
    "ref_id": "REF-0990",
@@ -24043,6 +24406,34 @@
    ]
   },
   {
+   "ref_id": "REF-1548",
+   "key": "akram2017anticoagulant",
+   "type": "article",
+   "title": "Anti-coagulant activity of plants: mini review",
+   "authors": "Akram, M. and Rashid, A.",
+   "journal": "Journal of Thrombosis and Thrombolysis",
+   "year": "2017",
+   "doi": "10.1007/s11239-017-1546-5",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11239-017-1546-5",
+   "link_type": "doi",
+   "citation": "Akram, M. and Rashid, A (2017) 'Anti-coagulant activity of plants: mini review', Journal of Thrombosis and Thrombolysis, 44(3), pp. 406-411. doi:10.1007/s11239-017-1546-5",
+   "abstract": "This mini-review documents the anticoagulant activity of medicinal plants, listing Pulmonaria officinalis among species (with Thymus vulgaris, Cyamopsis tetragonoloba and Cinnamomum cassia) that affect coagulation and should be prescribed with care to patients on anticoagulant therapy.",
+   "tier": "review",
+   "display": "Anti-coagulant activity of plants: mini review",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0978",
    "key": "wolfle2017tormentil",
    "type": "article",
@@ -26452,6 +26843,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1547",
+   "key": "neagu2016pulmonaria",
+   "type": "article",
+   "title": "Antioxidant activity, acetylcholinesterase and tyrosinase inhibitory potential of Pulmonaria officinalis and Centaurium umbellatum extracts",
+   "authors": "Neagu, E., Radu, G.L., Albu, C. and Paun, G.",
+   "journal": "Saudi Journal of Biological Sciences",
+   "year": "2016",
+   "doi": "10.1016/j.sjbs.2016.02.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.sjbs.2016.02.016",
+   "link_type": "doi",
+   "citation": "Neagu, E., Radu, G.L., Albu, C. and Paun, G (2016) 'Antioxidant activity, acetylcholinesterase and tyrosinase inhibitory potential of Pulmonaria officinalis and Centaurium umbellatum extracts', Saudi Journal of Biological Sciences, 25(3), pp. 578-585. doi:10.1016/j.sjbs.2016.02.016",
+   "abstract": "Aqueous and ethanolic extracts of Pulmonaria officinalis and Centaurium umbellatum, rich in polyphenols, flavones and proanthocyanidins, showed high antioxidant activity and acetylcholinesterase and tyrosinase inhibitory potential, suggesting benefit in neurodegenerative disorders and as natural antioxidants.",
+   "tier": "preclinical",
+   "display": "Antioxidant activity, acetylcholinesterase and tyrosinase inhibitory potential of Pulmonaria officinalis and Centaurium umbellatum extracts",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1172",
    "key": "money2016mushrooms",
    "type": "article",
@@ -27695,6 +28116,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1531",
+   "key": "amsterdam2016rhodiola",
+   "type": "article",
+   "title": "Rhodiola rosea L. as a putative botanical antidepressant",
+   "authors": "Amsterdam, J.D. and Panossian, A.G.",
+   "journal": "Phytomedicine",
+   "year": "2016",
+   "doi": "10.1016/j.phymed.2016.02.009",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2016.02.009",
+   "link_type": "doi",
+   "citation": "Amsterdam, J.D. and Panossian, A.G (2016) 'Rhodiola rosea L. as a putative botanical antidepressant', Phytomedicine, 23(7), pp. 770-783. doi:10.1016/j.phymed.2016.02.009",
+   "abstract": "Reviewing two randomized double-blind placebo-controlled trials and seven open-label studies, Rhodiola rosea rhizome extract and its constituent salidroside show a possible antidepressant action in adults via multi-target effects on neuroendocrine and neurotransmitter networks, with a favourable short-term safety profile.",
+   "tier": "review",
+   "display": "Rhodiola rosea L. as a putative botanical antidepressant",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1000",
    "key": "lunavazquez2016prunus",
    "type": "article",
@@ -28130,6 +28580,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1537",
+   "key": "bijak2016raspberry",
+   "type": "article",
+   "title": "The influence of Rubus idaeus and Rubus caesius leaf extracts on platelet aggregation in whole blood. Cross-talk of platelets and neutrophils",
+   "authors": "Bijak, M., Saluk-Bijak, J. and others",
+   "journal": "Platelets",
+   "year": "2016",
+   "doi": "10.3109/09537104.2015.1131254",
+   "url": "",
+   "link": "https://doi.org/10.3109/09537104.2015.1131254",
+   "link_type": "doi",
+   "citation": "Bijak, M., Saluk-Bijak, J. and others (2016) 'The influence of Rubus idaeus and Rubus caesius leaf extracts on platelet aggregation in whole blood. Cross-talk of platelets and neutrophils', Platelets, 27(5), pp. 433-439. doi:10.3109/09537104.2015.1131254",
+   "abstract": "Polyphenol-rich leaf extracts of Rubus idaeus and Rubus caesius inhibited platelet aggregation in whole blood and modulated platelet-neutrophil cross-talk, demonstrating antiplatelet and anti-inflammatory cardioprotective activity of raspberry leaf polyphenols.",
+   "tier": "preclinical",
+   "display": "The influence of Rubus idaeus and Rubus caesius leaf extracts on platelet aggregation in whole blood. Cross-talk of platelets and neutrophils",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0538",
    "key": "gao2016inula",
    "type": "article",
@@ -28322,6 +28799,35 @@
     "Swelling / fluid retention",
     "Urinary support",
     "Urinary tract infection (UTI)"
+   ]
+  },
+  {
+   "ref_id": "REF-1543",
+   "key": "fenyvesi2015raspberry",
+   "type": "article",
+   "title": "An oil-soluble extract of Rubus idaeus cells enhances hydration and water homeostasis in skin cells",
+   "authors": "Cugnetto, M.L. and others",
+   "journal": "International Journal of Cosmetic Science",
+   "year": "2015",
+   "doi": "10.1111/ics.12236",
+   "url": "",
+   "link": "https://doi.org/10.1111/ics.12236",
+   "link_type": "doi",
+   "citation": "Cugnetto, M.L. and others (2015) 'An oil-soluble extract of Rubus idaeus cells enhances hydration and water homeostasis in skin cells', International Journal of Cosmetic Science, 37(4), pp. 428-433. doi:10.1111/ics.12236",
+   "abstract": "An oil-soluble extract of Rubus idaeus (raspberry) cells enhanced hydration and water homeostasis in skin cells in vitro, supporting a skin-conditioning, soothing topical use of raspberry.",
+   "tier": "preclinical",
+   "display": "An oil-soluble extract of Rubus idaeus cells enhances hydration and water homeostasis in skin cells",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation"
    ]
   },
   {
@@ -30026,6 +30532,37 @@
    ]
   },
   {
+   "ref_id": "REF-1530",
+   "key": "cropley2015rhodiola",
+   "type": "article",
+   "title": "The Effects of Rhodiola rosea L. Extract on Anxiety, Stress, Cognition and Other Mood Symptoms",
+   "authors": "Cropley, M., Banks, A.P. and Boyle, J.",
+   "journal": "Phytotherapy Research",
+   "year": "2015",
+   "doi": "10.1002/ptr.5486",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5486",
+   "link_type": "doi",
+   "citation": "Cropley, M., Banks, A.P. and Boyle, J (2015) 'The Effects of Rhodiola rosea L. Extract on Anxiety, Stress, Cognition and Other Mood Symptoms', Phytotherapy Research, 29(12), pp. 1934-1939. doi:10.1002/ptr.5486",
+   "abstract": "In 80 mildly anxious participants, a Rhodiola rosea L. extract (Vitano) produced significant reductions in self-reported anxiety, stress, anger, confusion and depression and improved total mood over 14 days, with a favourable safety profile.",
+   "tier": "rct",
+   "display": "The Effects of Rhodiola rosea L. Extract on Anxiety, Stress, Cognition and Other Mood Symptoms",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cognitive function"
+   ]
+  },
+  {
    "ref_id": "REF-1504",
    "key": "huang2015mushroom",
    "type": "article",
@@ -30429,6 +30966,33 @@
     "Oral & throat health",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-1540",
+   "key": "bednarski2014raspberry",
+   "type": "article",
+   "title": "CD39/NTPDase-1 expression and activity in human umbilical vein endothelial cells are differentially regulated by leaf extracts from Rubus caesius and Rubus idaeus",
+   "authors": "Bednarski, M. and others",
+   "journal": "Cellular & Molecular Biology Letters",
+   "year": "2014",
+   "doi": "10.2478/s11658-014-0202-8",
+   "url": "",
+   "link": "https://doi.org/10.2478/s11658-014-0202-8",
+   "link_type": "doi",
+   "citation": "Bednarski, M. and others (2014) 'CD39/NTPDase-1 expression and activity in human umbilical vein endothelial cells are differentially regulated by leaf extracts from Rubus caesius and Rubus idaeus', Cellular & Molecular Biology Letters, 19(2), pp. 291-304. doi:10.2478/s11658-014-0202-8",
+   "abstract": "Leaf extracts of Rubus idaeus and Rubus caesius differentially regulated CD39/NTPDase-1 expression and activity in human umbilical vein endothelial cells, indicating a vascular, antithrombotic mode of action of raspberry leaf polyphenols.",
+   "tier": "preclinical",
+   "display": "CD39/NTPDase-1 expression and activity in human umbilical vein endothelial cells are differentially regulated by leaf extracts from Rubus caesius and Rubus idaeus",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0672",
@@ -34384,6 +34948,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1533",
+   "key": "ishaque2012rhodiola",
+   "type": "article",
+   "title": "Rhodiola rosea for physical and mental fatigue: a systematic review",
+   "authors": "Ishaque, S., Shamseer, L., Bukutu, C. and Vohra, S.",
+   "journal": "BMC Complementary and Alternative Medicine",
+   "year": "2012",
+   "doi": "10.1186/1472-6882-12-70",
+   "url": "",
+   "link": "https://doi.org/10.1186/1472-6882-12-70",
+   "link_type": "doi",
+   "citation": "Ishaque, S., Shamseer, L., Bukutu, C. and Vohra, S (2012) 'Rhodiola rosea for physical and mental fatigue: a systematic review', BMC Complementary and Alternative Medicine, 12, pp. 70. doi:10.1186/1472-6882-12-70",
+   "abstract": "This systematic review of 11 controlled trials found that some evidence suggests Rhodiola rosea may enhance physical performance and alleviate mental fatigue, although methodological flaws limit definitive assessment of efficacy.",
+   "tier": "review",
+   "display": "Rhodiola rosea for physical and mental fatigue: a systematic review",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Fatigue / low energy"
+   ]
+  },
+  {
    "ref_id": "REF-0504",
    "key": "tacklind2012serenoa",
    "type": "article",
@@ -36779,6 +37374,38 @@
    ]
   },
   {
+   "ref_id": "REF-1528",
+   "key": "panossian2010rhodiola",
+   "type": "article",
+   "title": "Rosenroot (Rhodiola rosea): traditional use, chemical composition, pharmacology and clinical efficacy",
+   "authors": "Panossian, A., Wikman, G. and Sarris, J.",
+   "journal": "Phytomedicine",
+   "year": "2010",
+   "doi": "10.1016/j.phymed.2010.02.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2010.02.002",
+   "link_type": "doi",
+   "citation": "Panossian, A., Wikman, G. and Sarris, J (2010) 'Rosenroot (Rhodiola rosea): traditional use, chemical composition, pharmacology and clinical efficacy', Phytomedicine, 17(7), pp. 481-493. doi:10.1016/j.phymed.2010.02.002",
+   "abstract": "This review summarises the chemical composition, adaptogenic pharmacology (neuroprotective, cardioprotective, anti-fatigue, antidepressive, anxiolytic, nootropic, CNS-stimulating) and clinical efficacy of Rhodiola rosea, with robust evidence in fatigue and emerging evidence for cognition and mood.",
+   "tier": "review",
+   "display": "Rosenroot (Rhodiola rosea): traditional use, chemical composition, pharmacology and clinical efficacy",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cognitive function",
+    "Fatigue / low energy"
+   ]
+  },
+  {
    "ref_id": "REF-1382",
    "key": "klimek2010verbascum",
    "type": "article",
@@ -36913,6 +37540,37 @@
     "Inflammation (general)",
     "Insomnia / sleeplessness",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1532",
+   "key": "olsson2009rhodiola",
+   "type": "article",
+   "title": "A randomised, double-blind, placebo-controlled, parallel-group study of the standardised extract SHR-5 of the roots of Rhodiola rosea in the treatment of subjects with stress-related fatigue",
+   "authors": "Olsson, E.M., von Scheele, B. and Panossian, A.G.",
+   "journal": "Planta Medica",
+   "year": "2009",
+   "doi": "10.1055/s-0028-1088346",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0028-1088346",
+   "link_type": "doi",
+   "citation": "Olsson, E.M., von Scheele, B. and Panossian, A.G (2009) 'A randomised, double-blind, placebo-controlled, parallel-group study of the standardised extract SHR-5 of the roots of Rhodiola rosea in the treatment of subjects with stress-related fatigue', Planta Medica, 75(2), pp. 105-112. doi:10.1055/s-0028-1088346",
+   "abstract": "In a phase III randomised double-blind placebo-controlled trial in 60 subjects with stress-related fatigue, the standardised Rhodiola rosea root extract SHR-5 (576 mg/day for 28 days) exerted an anti-fatigue effect, increased mental performance and concentration, and decreased the cortisol response to awakening stress.",
+   "tier": "rct",
+   "display": "A randomised, double-blind, placebo-controlled, parallel-group study of the standardised extract SHR-5 of the roots of Rhodiola rosea in the treatment of subjects with stress-related fatigue",
+   "plants": [
+    "Arctic root",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Rhodiola rosea"
+   ],
+   "actions": [],
+   "conditions": [
+    "Fatigue / low energy"
    ]
   },
   {
@@ -41157,6 +41815,38 @@
    ]
   },
   {
+   "ref_id": "REF-1550",
+   "key": "ivanova2005bulgarian",
+   "type": "article",
+   "title": "Polyphenols and antioxidant capacity of Bulgarian medicinal plants",
+   "authors": "Ivanova, D., Gerova, D., Chervenkov, T. and Yankova, T.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2005",
+   "doi": "10.1016/j.jep.2004.08.033",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2004.08.033",
+   "link_type": "doi",
+   "citation": "Ivanova, D., Gerova, D., Chervenkov, T. and Yankova, T (2005) 'Polyphenols and antioxidant capacity of Bulgarian medicinal plants', Journal of Ethnopharmacology, 96(1-2), pp. 145-150. doi:10.1016/j.jep.2004.08.033",
+   "abstract": "Screening 21 Bulgarian medicinal plants used for respiratory, gastrointestinal and inflammatory disorders, Pulmonaria officinalis L. was identified among seven herbs with high phenolic content and strong antioxidant capacity, supporting its traditional use.",
+   "tier": "preclinical",
+   "display": "Polyphenols and antioxidant capacity of Bulgarian medicinal plants",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0403",
    "key": "steenkamp2005studies",
    "type": "article",
@@ -43447,6 +44137,37 @@
    ]
   },
   {
+   "ref_id": "REF-1541",
+   "key": "rojas2002raspberry",
+   "type": "article",
+   "title": "Relaxant activity of raspberry (Rubus idaeus) leaf extract in guinea-pig ileum in vitro",
+   "authors": "Rojas-Vera, J., Patel, A.V. and Dacke, C.G.",
+   "journal": "Phytotherapy Research",
+   "year": "2002",
+   "doi": "10.1002/ptr.1040",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.1040",
+   "link_type": "doi",
+   "citation": "Rojas-Vera, J., Patel, A.V. and Dacke, C.G (2002) 'Relaxant activity of raspberry (Rubus idaeus) leaf extract in guinea-pig ileum in vitro', Phytotherapy Research, 16(7), pp. 665-668. doi:10.1002/ptr.1040",
+   "abstract": "Raspberry (Rubus idaeus) leaf extract, traditionally used as a uterine relaxant and for diarrhoea, colic and wounds, produced a relaxant (antispasmodic) effect on guinea-pig ileum smooth muscle in vitro, providing pharmacological support for its traditional smooth-muscle-relaxing use.",
+   "tier": "preclinical",
+   "display": "Relaxant activity of raspberry (Rubus idaeus) leaf extract in guinea-pig ileum in vitro",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [
+    "Emmenagogue / uterine tonic"
+   ],
+   "conditions": [
+    "Menstrual cramps"
+   ]
+  },
+  {
    "ref_id": "REF-0019",
    "key": "bao2002structural",
    "type": "article",
@@ -45353,6 +46074,34 @@
    ]
   },
   {
+   "ref_id": "REF-1545",
+   "key": "bazylko1995pulmonaria",
+   "type": "article",
+   "title": "Flavonoid glycosides from aerial parts of Pulmonaria officinalis",
+   "authors": "Krzaczek, T. and others",
+   "journal": "Planta Medica",
+   "year": "1995",
+   "doi": "10.1055/s-2006-959385",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-959385",
+   "link_type": "doi",
+   "citation": "Krzaczek, T. and others (1995) 'Flavonoid glycosides from aerial parts of Pulmonaria officinalis', Planta Medica, 61(5), pp. 488. doi:10.1055/s-2006-959385",
+   "abstract": "This phytochemical study isolated and characterised flavonoid glycosides from the aerial parts of Pulmonaria officinalis, documenting the flavonoid constituents underlying the traditional medicinal use of lungwort.",
+   "tier": "preclinical",
+   "display": "Flavonoid glycosides from aerial parts of Pulmonaria officinalis",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0938",
    "key": "sarkar1995nepeta",
    "type": "article",
@@ -45560,6 +46309,34 @@
    ],
    "scientific": [
     "Veronica officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1549",
+   "key": "byshevskii1990pulmonaria",
+   "type": "article",
+   "title": "Nature, properties and the mechanism of the effect on blood coagulation of the preparation obtained from Pulmonaria officinalis",
+   "authors": "Byshevskii, A.Sh., Gerbert, I.Ia., Dement'eva, I.A., Leven, P.I. and Chiriat'ev, E.A.",
+   "journal": "Gematologiia i Transfuziologiia",
+   "year": "1990",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Nature%2C%20properties%20and%20the%20mechanism%20of%20the%20effect%20on%20blood%20coagulation%20of%20the%20preparation%20obtained%20from%20Pulmonaria%20officinalis",
+   "link_type": "search",
+   "citation": "Byshevskii, A.Sh., Gerbert, I.Ia., Dement'eva, I.A., Leven, P.I. and Chiriat'ev, E.A (1990) 'Nature, properties and the mechanism of the effect on blood coagulation of the preparation obtained from Pulmonaria officinalis', Gematologiia i Transfuziologiia, 35(10), pp. 6-9.",
+   "abstract": "An anticoagulant glycopeptide isolated from the ammonia extract of Pulmonaria officinalis reduced blood coagulation activity in animals (acting mainly at the fibrinogen-conversion stage) and lowered mortality from exogenous thromboplastinemia, demonstrating a preclinical anticoagulant action of lungwort.",
+   "tier": "preclinical",
+   "display": "Nature, properties and the mechanism of the effect on blood coagulation of the preparation obtained from Pulmonaria officinalis",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -45797,6 +46574,34 @@
    ],
    "scientific": [
     "Psilocybe cubensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1552",
+   "key": "luthy1984pyrrolizidine",
+   "type": "article",
+   "title": "Pyrrolizidine alkaloids in medicinal plants of Boraginaceae: Borago officinalis L. and Pulmonaria officinalis L.",
+   "authors": "Luthy, J., Brauchli, J., Zweifel, U., Schmid, P. and Schlatter, C.",
+   "journal": "Pharmaceutica Acta Helvetiae",
+   "year": "1984",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Pyrrolizidine%20alkaloids%20in%20medicinal%20plants%20of%20Boraginaceae%3A%20Borago%20officinalis%20L.%20and%20Pulmonaria%20officinalis%20L.",
+   "link_type": "search",
+   "citation": "Luthy, J., Brauchli, J., Zweifel, U., Schmid, P. and Schlatter, C (1984) 'Pyrrolizidine alkaloids in medicinal plants of Boraginaceae: Borago officinalis L. and Pulmonaria officinalis L', Pharmaceutica Acta Helvetiae, 59(9-10), pp. 242-246.",
+   "abstract": "Using GC-MS, this study examined the content of hepatotoxic pyrrolizidine alkaloids in the Boraginaceae medicinal plants Borago officinalis and Pulmonaria officinalis, informing the safety considerations around prolonged internal use of lungwort.",
+   "tier": "preclinical",
+   "display": "Pyrrolizidine alkaloids in medicinal plants of Boraginaceae: Borago officinalis L. and Pulmonaria officinalis L.",
+   "plants": [
+    "Common lungwort",
+    "Jerusalem cowslip",
+    "Lungwort",
+    "Spotted dog"
+   ],
+   "scientific": [
+    "Pulmonaria officinalis"
    ],
    "actions": [],
    "conditions": []

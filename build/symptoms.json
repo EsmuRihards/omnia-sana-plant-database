@@ -16461,6 +16461,46 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "memory",
+     "label": "Memory",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0112",
+      "REF-0173",
+      "REF-0194",
+      "REF-1290",
+      "REF-1291"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0112",
+      "REF-0173",
+      "REF-0194",
+      "REF-1290"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0112",
+      "REF-0173",
+      "REF-0194",
+      "REF-1285"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 3,
@@ -16497,18 +16537,6 @@
      ]
     },
     {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 3,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0112",
-      "REF-0173",
-      "REF-0194"
-     ]
-    },
-    {
      "condition": "indigestion",
      "label": "Indigestion",
      "evidence": 3,
@@ -16523,30 +16551,6 @@
     {
      "condition": "infection",
      "label": "Infection (general)",
-     "evidence": 3,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0112",
-      "REF-0173",
-      "REF-0194"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 3,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0112",
-      "REF-0173",
-      "REF-0194"
-     ]
-    },
-    {
-     "condition": "memory",
-     "label": "Memory",
      "evidence": 3,
      "status": "needs-review",
      "inferred": true,
@@ -16731,23 +16735,48 @@
     {
      "condition": "cognitive-function",
      "label": "Cognitive function",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0502",
-      "REF-0503"
+      "REF-0503",
+      "REF-1274",
+      "REF-1279"
      ]
     },
     {
      "condition": "memory",
      "label": "Memory",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0502",
-      "REF-0503"
+      "REF-0503",
+      "REF-1274",
+      "REF-1279"
+     ]
+    },
+    {
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0501",
+      "REF-1276"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1276"
      ]
     },
     {
@@ -16756,16 +16785,6 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0501"
-     ]
-    },
-    {
-     "condition": "hot-flashes",
-     "label": "Hot flashes",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0501"
      ]
@@ -16789,14 +16808,6 @@
      "references": [
       "REF-0501"
      ]
-    },
-    {
-     "condition": "menopause",
-     "label": "Menopause",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
     },
     {
      "condition": "sore-throat",
@@ -18216,6 +18227,19 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0098",
+      "REF-0139",
+      "REF-0187",
+      "REF-1298"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -18242,18 +18266,6 @@
     {
      "condition": "indigestion",
      "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0098",
-      "REF-0139",
-      "REF-0187"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

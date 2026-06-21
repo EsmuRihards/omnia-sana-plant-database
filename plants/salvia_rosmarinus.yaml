@@ -13,18 +13,23 @@ actions:
   - REF-0112
   - REF-0173
   - REF-0194
+  - REF-1283
+  - REF-1285
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0112
   - REF-0173
   - REF-0194
+  - REF-1283
+  - REF-1286
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0112
   - REF-0173
   - REF-0194
+  - REF-1283
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
@@ -38,12 +43,16 @@ actions:
   - REF-0112
   - REF-0173
   - REF-0194
+  - REF-1292
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0112
   - REF-0173
   - REF-0194
+  - REF-1287
+  - REF-1290
+  - REF-1291
   status: verified
 indications:
 - condition: arthritis
@@ -72,6 +81,7 @@ indications:
   - REF-0112
   - REF-0173
   - REF-0194
+  - REF-1290
   status: needs-review
 - condition: indigestion
   note: inferred from digestive action
@@ -93,6 +103,7 @@ indications:
   - REF-0112
   - REF-0173
   - REF-0194
+  - REF-1285
   status: needs-review
 - condition: memory
   note: inferred from neuroprotective action
@@ -100,6 +111,8 @@ indications:
   - REF-0112
   - REF-0173
   - REF-0194
+  - REF-1290
+  - REF-1291
   status: needs-review
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
@@ -150,11 +163,25 @@ contraindications:
   - REF-0173
   - REF-0194
   status: verified
-provenance: book
+references:
+- REF-1283
+- REF-1284
+- REF-1285
+- REF-1286
+- REF-1287
+- REF-1288
+- REF-1289
+- REF-1290
+- REF-1291
+- REF-1292
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1283, REF-1284, REF-1285, REF-1286, REF-1287,
+  REF-1288, REF-1289, REF-1290, REF-1291, REF-1292) — woven into relevant actions/indications and the
+  plant-level references bucket.'

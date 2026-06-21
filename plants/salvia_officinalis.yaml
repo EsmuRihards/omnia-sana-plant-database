@@ -17,6 +17,7 @@ constituents:
   note: Aromatic constituents; thujone is the safety-limiting compound.
   reference_ids:
   - REF-0501
+  - REF-1281
 - name: Rosmarinic acid and other phenolic acids
   compounds:
   - rosmarinic-acid
@@ -25,12 +26,15 @@ constituents:
   reference_ids:
   - REF-0501
   - REF-0502
+  - REF-1277
 - name: Flavonoids
   compounds:
   - flavonoid
   note: Additional antioxidant constituents.
   reference_ids:
   - REF-0501
+  - REF-1280
+  - REF-1282
 actions:
 - action: carminative
   note: Carminative for mild dyspeptic complaints (indigestion)
@@ -43,6 +47,9 @@ actions:
   reference_ids:
   - REF-0502
   - REF-0503
+  - REF-1273
+  - REF-1274
+  - REF-1279
   status: verified
 indications:
 - condition: bloating
@@ -56,11 +63,14 @@ indications:
   reference_ids:
   - REF-0502
   - REF-0503
+  - REF-1274
+  - REF-1279
   status: verified
 - condition: hot-flashes
   note: Reduces excessive sweating, including menopausal hot flushes and night sweats
   reference_ids:
   - REF-0501
+  - REF-1276
   status: verified
 - condition: indigestion
   note: Carminative for mild dyspeptic complaints (indigestion)
@@ -78,9 +88,12 @@ indications:
   reference_ids:
   - REF-0502
   - REF-0503
+  - REF-1274
+  - REF-1279
   status: verified
 - condition: menopause
-  reference_ids: []
+  reference_ids:
+  - REF-1276
   status: needs-review
 - condition: sore-throat
   note: Gargle/rinse for sore throat and inflammation of the mouth and throat
@@ -101,12 +114,26 @@ contraindications:
   reference_ids:
   - REF-0501
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-1273
+- REF-1274
+- REF-1275
+- REF-1276
+- REF-1277
+- REF-1278
+- REF-1279
+- REF-1280
+- REF-1281
+- REF-1282
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph; CNS
   Neuroscience & Therapeutics systematic review and dementia review). Note: this is Salvia officinalis,
   distinct from the book''s Salvia hispanica (chia) and Salvia rosmarinus (rosemary). Originally a skeleton
   from the omniasana.bio Symptom-to-Plant Lookup tool (sore-throat, memory, hot-flashes, menopause, indigestion,
   cognitive-function); associations retained and now part-mapped and cited. | 2026-06-15: migrated to
-  entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1273, REF-1274,
+  REF-1275, REF-1276, REF-1277, REF-1278, REF-1279, REF-1280, REF-1281, REF-1282) — woven into relevant
+  actions/indications and the plant-level references bucket.'

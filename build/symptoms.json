@@ -13675,14 +13675,38 @@
     {
      "condition": "cough",
      "label": "Cough",
-     "evidence": 2,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0481",
       "REF-0482",
       "REF-0578",
-      "REF-0579"
+      "REF-0579",
+      "REF-1368"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0482",
+      "REF-1373"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0482",
+      "REF-1370",
+      "REF-1373"
      ]
     },
     {
@@ -13696,16 +13720,6 @@
      ]
     },
     {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0482"
-     ]
-    },
-    {
      "condition": "indigestion",
      "label": "Indigestion",
      "evidence": 1,
@@ -13713,16 +13727,6 @@
      "inferred": false,
      "references": [
       "REF-0481"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0482"
      ]
     },
     {
@@ -19152,6 +19156,17 @@
      ]
     },
     {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0523",
+      "REF-1362"
+     ]
+    },
+    {
      "condition": "insomnia",
      "label": "Insomnia / sleeplessness",
      "evidence": 2,
@@ -19161,6 +19176,17 @@
       "REF-0522",
       "REF-0523",
       "REF-0616"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0523",
+      "REF-1358"
      ]
     },
     {
@@ -19223,26 +19249,6 @@
      "inferred": true,
      "references": [
       "REF-0522"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0523"
-     ]
-    },
-    {
-     "condition": "depression",
-     "label": "Low mood / depression",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0523"
      ]
     },
     {

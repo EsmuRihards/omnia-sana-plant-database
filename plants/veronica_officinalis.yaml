@@ -33,6 +33,7 @@ actions:
   note: Anti-inflammatory and antioxidant
   reference_ids:
   - REF-0513
+  - REF-1378
   status: verified
 - action: digestive
   note: Mild digestive / stomach tonic (indigestion)
@@ -114,9 +115,13 @@ contraindications:
   reference_ids:
   - REF-0513
   status: verified
+references:
+- REF-1378
+- REF-1379
+- REF-1380
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   authentication/phytochemistry study; HerbaZest monograph). Speedwell is poorly covered by clinical trials,
   so most actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
@@ -124,4 +129,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   Further enriched 2026-06-14 with a PubMed-sourced study showing a standardised Veronica officinalis
   extract inhibits proinflammatory mediators (COX-2, eotaxin) via NF-kB in a human lung cell line (REF-0632),
   giving a molecular rationale for the traditional respiratory use. | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds).'
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
+  to >=10 scientific publications: added 3 PubMed-verified @article sources (REF-1378, REF-1379, REF-1380)
+  — woven into relevant actions/indications and the plant-level references bucket.'

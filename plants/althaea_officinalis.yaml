@@ -17,6 +17,8 @@ constituents:
   reference_ids:
   - REF-0481
   - REF-0578
+  - REF-1369
+  - REF-1372
 - name: Flavonoids and phenolic acids
   compounds:
   - phenolic-acid
@@ -39,6 +41,7 @@ actions:
   - REF-0481
   - REF-0578
   - REF-0579
+  - REF-1368
   status: verified
 - action: demulcent
   note: Demulcent for irritation of the mouth or throat and associated dry cough (mucilage coats and soothes);
@@ -47,11 +50,15 @@ actions:
   reference_ids:
   - REF-0481
   - REF-0482
+  - REF-1368
+  - REF-1374
   status: verified
 - action: emollient
   note: Topical soothing for irritated skin
   reference_ids:
   - REF-0482
+  - REF-1370
+  - REF-1373
   status: needs-review
 indications:
 - condition: acid-reflux
@@ -69,11 +76,13 @@ indications:
   - REF-0482
   - REF-0578
   - REF-0579
+  - REF-1368
   status: verified
 - condition: eczema
   note: inferred from emollient action
   reference_ids:
   - REF-0482
+  - REF-1373
   status: needs-review
 - condition: indigestion
   note: Eases mild stomach and gut discomfort, including heartburn / acid reflux and indigestion (protective
@@ -85,6 +94,8 @@ indications:
   note: Topical soothing for irritated skin
   reference_ids:
   - REF-0482
+  - REF-1370
+  - REF-1373
   status: needs-review
 - condition: sore-throat
   reference_ids:
@@ -104,9 +115,20 @@ contraindications:
   reference_ids:
   - REF-0481
   status: verified
+references:
+- REF-1368
+- REF-1369
+- REF-1370
+- REF-1371
+- REF-1372
+- REF-1373
+- REF-1374
+- REF-1375
+- REF-1376
+- REF-1377
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Althaeae radix; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, acid-reflux, skin-irritation); associations retained and
@@ -114,4 +136,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   studies showing the root rhamnogalacturonan suppresses the cough reflex dose-dependently and comparably
   to codeine, acting via 5-HT2 receptors (REF-0578, REF-0579); clinical antitussive data for marshmallow
   remain limited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
-  constituents linked to compounds).'
+  constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-1368, REF-1369, REF-1370, REF-1371, REF-1372, REF-1373, REF-1374,
+  REF-1375, REF-1376, REF-1377) — woven into relevant actions/indications and the plant-level references
+  bucket.'

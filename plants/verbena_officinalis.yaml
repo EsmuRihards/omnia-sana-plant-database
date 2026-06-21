@@ -17,6 +17,7 @@ constituents:
   reference_ids:
   - REF-0523
   - REF-0522
+  - REF-1360
 - name: Phenylpropanoid glycosides (verbascoside/acteoside)
   compounds:
   - verbascoside
@@ -24,6 +25,7 @@ constituents:
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0523
+  - REF-1364
 - name: Flavonoids, phenolic acids and essential oil
   compounds:
   - phenolic-acid
@@ -42,6 +44,8 @@ actions:
   note: Anti-inflammatory and analgesic
   reference_ids:
   - REF-0523
+  - REF-1362
+  - REF-1363
   status: verified
 - action: anticonvulsant
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
@@ -55,6 +59,7 @@ actions:
   note: Mild mood support / antidepressant (traditional)
   reference_ids:
   - REF-0523
+  - REF-1358
   status: needs-review
 - action: anxiolytic
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
@@ -76,6 +81,7 @@ actions:
   - REF-0522
   - REF-0523
   - REF-0616
+  - REF-1367
   status: verified
 indications:
 - condition: anxiety
@@ -105,6 +111,7 @@ indications:
   note: inferred from antidepressant action
   reference_ids:
   - REF-0523
+  - REF-1358
   status: needs-review
 - condition: headache
   note: inferred from analgesic action
@@ -120,6 +127,7 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0523
+  - REF-1362
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
@@ -165,13 +173,27 @@ contraindications:
   reference_ids:
   - REF-0522
   status: needs-review
+references:
+- REF-1358
+- REF-1359
+- REF-1360
+- REF-1361
+- REF-1362
+- REF-1363
+- REF-1364
+- REF-1365
+- REF-1366
+- REF-1367
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Verbenae herba; Planta Medica review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (anxiety, insomnia, nervous-tension, inflammation, depression); associations retained and
   now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced study showing Verbena officinalis
   crude extract has anxiolytic, sedative and anticonvulsant activity in rodent models (REF-0616), supporting
   the nervine action mechanistically. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
-  split out, constituents linked to compounds).'
+  split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
+  added 10 PubMed-verified @article sources (REF-1358, REF-1359, REF-1360, REF-1361, REF-1362, REF-1363,
+  REF-1364, REF-1365, REF-1366, REF-1367) — woven into relevant actions/indications and the plant-level
+  references bucket.'

@@ -8844,6 +8844,58 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "migraine",
+     "label": "Migraine",
+     "evidence": 10,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0450",
+      "REF-0552",
+      "REF-1572",
+      "REF-1573",
+      "REF-1574",
+      "REF-1575",
+      "REF-1576",
+      "REF-1577",
+      "REF-1581"
+     ]
+    },
+    {
+     "condition": "headache",
+     "label": "Headache",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0450",
+      "REF-1572",
+      "REF-1577"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0450",
+      "REF-1574"
+     ]
+    },
+    {
+     "condition": "fever",
+     "label": "Fever",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0450",
+      "REF-1574"
+     ]
+    },
+    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
      "evidence": 8,
@@ -8851,18 +8903,8 @@
      "inferred": true,
      "references": [
       "REF-0450",
-      "REF-0552"
-     ]
-    },
-    {
-     "condition": "migraine",
-     "label": "Migraine",
-     "evidence": 8,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0450",
-      "REF-0552"
+      "REF-0552",
+      "REF-1578"
      ]
     },
     {
@@ -8874,36 +8916,6 @@
      "references": [
       "REF-0450",
       "REF-0552"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0450"
-     ]
-    },
-    {
-     "condition": "fever",
-     "label": "Fever",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0450"
-     ]
-    },
-    {
-     "condition": "headache",
-     "label": "Headache",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0450"
      ]
     },
     {
@@ -17742,12 +17754,24 @@
     {
      "condition": "anxiety",
      "label": "Anxiety",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0510",
+      "REF-0551",
+      "REF-1563"
+     ]
+    },
+    {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
      "evidence": 5,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0510",
-      "REF-0551"
+      "REF-1562"
      ]
     },
     {
@@ -17770,16 +17794,6 @@
      "references": [
       "REF-0510",
       "REF-0551"
-     ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0510"
      ]
     }
    ]

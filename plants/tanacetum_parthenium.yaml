@@ -20,6 +20,8 @@ constituents:
   - REF-0450
   - REF-0552
   - REF-0553
+  - REF-1579
+  - REF-1580
 - name: Flavonoids and essential oil
   compounds:
   - essential-oil
@@ -34,28 +36,35 @@ actions:
   reference_ids:
   - REF-0450
   - REF-0552
+  - REF-1574
+  - REF-1578
   status: verified
 indications:
 - condition: arthritis
   note: Traditional use for fever and for joint pain / arthritis
   reference_ids:
   - REF-0450
+  - REF-1574
   status: needs-review
 - condition: fever
   note: Traditional use for fever and for joint pain / arthritis
   reference_ids:
   - REF-0450
+  - REF-1574
   status: needs-review
 - condition: headache
   note: Headache prevention and relief
   reference_ids:
   - REF-0450
+  - REF-1572
+  - REF-1577
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0450
   - REF-0552
+  - REF-1578
   status: needs-review
 - condition: migraine
   note: Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised preparations,
@@ -64,6 +73,13 @@ indications:
   reference_ids:
   - REF-0450
   - REF-0552
+  - REF-1572
+  - REF-1573
+  - REF-1574
+  - REF-1575
+  - REF-1576
+  - REF-1577
+  - REF-1581
   status: verified
 - condition: pain
   note: Traditional use for fever and for joint pain / arthritis
@@ -90,13 +106,26 @@ contraindications:
   reference_ids:
   - REF-0450
   status: verified
+references:
+- REF-1572
+- REF-1573
+- REF-1574
+- REF-1575
+- REF-1576
+- REF-1577
+- REF-1578
+- REF-1579
+- REF-1580
+- REF-1581
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-13'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane systematic review of feverfew
   for migraine prevention). Further enriched 2026-06-13 with two PubMed studies - a parthenolide mechanism-of-action
   study in an animal migraine model (REF-0552, Tassorelli et al. 2005) and a parthenolide biosynthesis/localization
   study (REF-0553, Majdi et al. 2011). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (headache, migraine, inflammation, fever, arthritis); associations retained and now part-mapped
   and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
+  @article sources (REF-1572, REF-1573, REF-1574, REF-1575, REF-1576, REF-1577, REF-1578, REF-1579, REF-1580,
+  REF-1581) — woven into relevant actions/indications and the plant-level references bucket.'

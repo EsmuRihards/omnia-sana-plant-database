@@ -15,6 +15,7 @@ constituents:
   note: Aglycones ruscogenin and neoruscogenin carry the vasoconstrictive and venotonic activity.
   reference_ids:
   - REF-0424
+  - REF-1561
 - name: Phytosterols and flavonoids
   compounds:
   - phytosterol
@@ -22,12 +23,15 @@ constituents:
   note: Supporting constituents of the rhizome.
   reference_ids:
   - REF-0424
+  - REF-1557
 actions:
 - action: anti-oedematous
   note: Anti-oedematous (reduces leg swelling)
   reference_ids:
   - REF-0424
   - REF-0425
+  - REF-1554
+  - REF-1556
   status: verified
 - action: venotonic
   note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
@@ -37,6 +41,12 @@ actions:
   - REF-0424
   - REF-0425
   - REF-0595
+  - REF-1553
+  - REF-1554
+  - REF-1555
+  - REF-1556
+  - REF-1558
+  - REF-1560
   status: verified
 indications:
 - condition: hemorrhoids
@@ -91,9 +101,20 @@ contraindications:
   reference_ids:
   - REF-0424
   status: needs-review
+references:
+- REF-1553
+- REF-1554
+- REF-1555
+- REF-1556
+- REF-0424
+- REF-1557
+- REF-1558
+- REF-1559
+- REF-1560
+- REF-1561
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica phytochemical review; Polski
   Merkuriusz Lekarski venous-insufficiency review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids); associations retained and now
@@ -101,4 +122,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica p
   subjects) of the Ruscus-based combination Cyclo 3 Fort in chronic venous insufficiency (REF-0595); note
   it tests Ruscus combined with hesperidin methyl chalcone and ascorbic acid, not Ruscus alone. | 2026-06-15:
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
-  Unmapped uses kept for reference: Supports orthostatic (postural) hypotension (traditional).'
+  Unmapped uses kept for reference: Supports orthostatic (postural) hypotension (traditional). | 2026-06-20:
+  enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1553, REF-1554,
+  REF-1555, REF-1556, REF-0424, REF-1557, REF-1558, REF-1559, REF-1560, REF-1561) — woven into relevant
+  actions/indications and the plant-level references bucket.'

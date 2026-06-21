@@ -26333,7 +26333,8 @@
      ],
      "note": "Aglycones ruscogenin and neoruscogenin carry the vasoconstrictive and venotonic activity.",
      "reference_ids": [
-      "REF-0424"
+      "REF-0424",
+      "REF-1561"
      ]
     },
     {
@@ -26344,7 +26345,8 @@
      ],
      "note": "Supporting constituents of the rhizome.",
      "reference_ids": [
-      "REF-0424"
+      "REF-0424",
+      "REF-1557"
      ]
     }
    ],
@@ -26354,7 +26356,9 @@
      "note": "Anti-oedematous (reduces leg swelling)",
      "reference_ids": [
       "REF-0424",
-      "REF-0425"
+      "REF-0425",
+      "REF-1554",
+      "REF-1556"
      ],
      "status": "verified"
     },
@@ -26364,7 +26368,13 @@
      "reference_ids": [
       "REF-0424",
       "REF-0425",
-      "REF-0595"
+      "REF-0595",
+      "REF-1553",
+      "REF-1554",
+      "REF-1555",
+      "REF-1556",
+      "REF-1558",
+      "REF-1560"
      ],
      "status": "verified"
     }
@@ -26438,9 +26448,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1553",
+    "REF-1554",
+    "REF-1555",
+    "REF-1556",
+    "REF-0424",
+    "REF-1557",
+    "REF-1558",
+    "REF-1559",
+    "REF-1560",
+    "REF-1561"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "salix-alba",
@@ -27962,7 +27984,11 @@
      "note": "Bind the benzodiazepine site of the GABA-A receptor, underlying the calming effect; baicalin is used as the HPLC quality marker, and its content varies widely between commercial tinctures.",
      "reference_ids": [
       "REF-0510",
-      "REF-0550"
+      "REF-0550",
+      "REF-1565",
+      "REF-1566",
+      "REF-1567",
+      "REF-1568"
      ]
     },
     {
@@ -27979,7 +28005,9 @@
      "note": "Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover trial in healthy volunteers found significantly improved overall mood without loss of energy or cognition; Calming nervine for stress and nervous disorders (traditional)",
      "reference_ids": [
       "REF-0510",
-      "REF-0551"
+      "REF-0551",
+      "REF-1563",
+      "REF-1569"
      ],
      "status": "verified"
     },
@@ -27987,7 +28015,8 @@
      "action": "sedative",
      "note": "Sedative / sleep support (insomnia)",
      "reference_ids": [
-      "REF-0510"
+      "REF-0510",
+      "REF-1562"
      ],
      "status": "verified"
     }
@@ -27998,7 +28027,8 @@
      "note": "Anxiolytic for anxiety and nervous tension (the flavonoids baicalin and baicalein bind the benzodiazepine site of the GABA-A receptor); a randomised, double-blind, placebo-controlled crossover trial in healthy volunteers found significantly improved overall mood without loss of energy or cognition",
      "reference_ids": [
       "REF-0510",
-      "REF-0551"
+      "REF-0551",
+      "REF-1563"
      ],
      "status": "verified"
     },
@@ -28006,7 +28036,8 @@
      "condition": "insomnia",
      "note": "Sedative / sleep support (insomnia)",
      "reference_ids": [
-      "REF-0510"
+      "REF-0510",
+      "REF-1562"
      ],
      "status": "verified"
     },
@@ -28048,9 +28079,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1562",
+    "REF-1563",
+    "REF-1564",
+    "REF-1565",
+    "REF-1566",
+    "REF-1567",
+    "REF-1568",
+    "REF-1569",
+    "REF-1570",
+    "REF-1571"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-13"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "serenoa-repens",
@@ -29308,7 +29351,9 @@
      "reference_ids": [
       "REF-0450",
       "REF-0552",
-      "REF-0553"
+      "REF-0553",
+      "REF-1579",
+      "REF-1580"
      ]
     },
     {
@@ -29329,7 +29374,9 @@
      "note": "Anti-inflammatory - parthenolide inhibits NF-kB and nitroglycerin-induced neuronal (Fos) activation, the proposed basis of its antimigraine action",
      "reference_ids": [
       "REF-0450",
-      "REF-0552"
+      "REF-0552",
+      "REF-1574",
+      "REF-1578"
      ],
      "status": "verified"
     }
@@ -29339,7 +29386,8 @@
      "condition": "arthritis",
      "note": "Traditional use for fever and for joint pain / arthritis",
      "reference_ids": [
-      "REF-0450"
+      "REF-0450",
+      "REF-1574"
      ],
      "status": "needs-review"
     },
@@ -29347,7 +29395,8 @@
      "condition": "fever",
      "note": "Traditional use for fever and for joint pain / arthritis",
      "reference_ids": [
-      "REF-0450"
+      "REF-0450",
+      "REF-1574"
      ],
      "status": "needs-review"
     },
@@ -29355,7 +29404,9 @@
      "condition": "headache",
      "note": "Headache prevention and relief",
      "reference_ids": [
-      "REF-0450"
+      "REF-0450",
+      "REF-1572",
+      "REF-1577"
      ],
      "status": "verified"
     },
@@ -29364,7 +29415,8 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0450",
-      "REF-0552"
+      "REF-0552",
+      "REF-1578"
      ],
      "status": "needs-review"
     },
@@ -29373,7 +29425,14 @@
      "note": "Migraine prophylaxis - reduces attack frequency (evidence favourable for some standardised preparations, though mixed); parthenolide is identified as the component responsible for the antimigraine effect in animal models",
      "reference_ids": [
       "REF-0450",
-      "REF-0552"
+      "REF-0552",
+      "REF-1572",
+      "REF-1573",
+      "REF-1574",
+      "REF-1575",
+      "REF-1576",
+      "REF-1577",
+      "REF-1581"
      ],
      "status": "verified"
     },
@@ -29413,9 +29472,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1572",
+    "REF-1573",
+    "REF-1574",
+    "REF-1575",
+    "REF-1576",
+    "REF-1577",
+    "REF-1578",
+    "REF-1579",
+    "REF-1580",
+    "REF-1581"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-13"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "tanacetum-vulgare",

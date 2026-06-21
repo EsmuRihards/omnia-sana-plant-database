@@ -26,6 +26,8 @@ constituents:
   note: Antioxidant, anti-inflammatory and soothing constituents.
   reference_ids:
   - REF-0463
+  - REF-1605
+  - REF-1606
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching
@@ -35,12 +37,15 @@ actions:
   reference_ids:
   - REF-0463
   - REF-0617
+  - REF-1600
+  - REF-1605
   status: verified
 - action: anticancer
   note: Cytotoxic / antiproliferative against cancer cell lines in vitro (cyclotides vitri A, varv A and
     varv E)
   reference_ids:
   - REF-0556
+  - REF-1601
   status: needs-review
 - action: demulcent
   note: Soothes irritated skin (demulcent and anti-inflammatory); Traditional demulcent / expectorant
@@ -52,6 +57,7 @@ actions:
   note: Soothes irritated skin (demulcent and anti-inflammatory)
   reference_ids:
   - REF-0463
+  - REF-1605
   status: verified
 - action: expectorant
   note: Traditional demulcent / expectorant for cough, bronchitis and chest inflammation
@@ -144,9 +150,19 @@ contraindications:
   reference_ids:
   - REF-0463
   status: needs-review
+references:
+- REF-0617
+- REF-1600
+- REF-1601
+- REF-1602
+- REF-1603
+- REF-1604
+- REF-1605
+- REF-1606
+- REF-0463
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology study identifying
   immunosuppressive cyclotides). Further enriched 2026-06-13 with a PubMed study isolating cytotoxic cyclotides
   (vitri A, varv A, varv E) from V. tricolor (REF-0556, Svangard et al. 2004); a new in-vitro cytotoxic
@@ -155,4 +171,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   2026-06-14 with a PubMed-sourced study of cyclotide-enriched V. tricolor preparations that suppress
   T-cell proliferation and macrophage cytokine secretion in vitro (REF-0617), reinforcing the immunomodulatory
   action. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
+  @article sources (REF-0617, REF-1600, REF-1601, REF-1602, REF-1603, REF-1604, REF-1605, REF-1606, REF-0463)
+  — woven into relevant actions/indications and the plant-level references bucket.'

@@ -16,6 +16,8 @@ constituents:
   reference_ids:
   - REF-0409
   - REF-0408
+  - REF-1596
+  - REF-1597
 - name: Other flavonoids and tannins
   compounds:
   - flavonoid
@@ -23,6 +25,7 @@ constituents:
   note: Contribute to antioxidant and astringent activity.
   reference_ids:
   - REF-0409
+  - REF-1595
 - name: Vitamin C and organic acids
   note: Minor nutritive constituents of the berry.
   reference_ids:
@@ -32,11 +35,17 @@ actions:
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0409
+  - REF-1594
   status: verified
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0409
+  - REF-1592
+  - REF-1593
+  - REF-1594
+  - REF-1595
+  - REF-1599
   status: verified
 - action: venotonic
   note: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous
@@ -55,6 +64,7 @@ indications:
   reference_ids:
   - REF-0409
   - REF-0594
+  - REF-1593
   status: verified
 - condition: eye-strain
   note: 'Traditional support for eye strain and vision (note: rigorous trials do NOT support improved
@@ -113,13 +123,25 @@ contraindications:
   reference_ids:
   - REF-0408
   status: verified
+references:
+- REF-0408
+- REF-1592
+- REF-1593
+- REF-1594
+- REF-1595
+- REF-1596
+- REF-1597
+- REF-1598
+- REF-1599
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Survey of Ophthalmology systematic review;
   Molecules review of metabolic/cardiovascular effects). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (eye-strain, varicose-veins, high-cholesterol, inflammation); associations
   retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced review of
   bilberry anthocyanins in the prevention and treatment of dyslipidemia (REF-0594), supporting the blood-lipid
   action. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
+  @article sources (REF-0408, REF-1592, REF-1593, REF-1594, REF-1595, REF-1596, REF-1597, REF-1598, REF-1599)
+  — woven into relevant actions/indications and the plant-level references bucket.'

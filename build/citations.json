@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1581,
+ "count": 1606,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -5149,6 +5149,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1606",
+   "key": "han2023viola",
+   "type": "article",
+   "title": "A highly selective C-rhamnosyltransferase from Viola tricolor and insights into its mechanisms",
+   "authors": "Han, B.Y., Wang, Z.L., Li, J., Jin, Q. and others",
+   "journal": "Acta Pharmaceutica Sinica B",
+   "year": "2023",
+   "doi": "10.1016/j.apsb.2023.05.011",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.apsb.2023.05.011",
+   "link_type": "doi",
+   "citation": "Han, B.Y., Wang, Z.L., Li, J., Jin, Q. and others (2023) 'A highly selective C-rhamnosyltransferase from Viola tricolor and insights into its mechanisms', Acta Pharmaceutica Sinica B, 13(8), pp. 3535-3544. doi:10.1016/j.apsb.2023.05.011",
+   "abstract": "This study identified the first selective C-rhamnosyltransferase (VtCGTc) from the medicinal plant Viola tricolor and characterised its mechanism, providing an efficient route to the flavonoid C-glycosides violanthin and iso-violanthin found in the plant.",
+   "tier": "preclinical",
+   "display": "A highly selective C-rhamnosyltransferase from Viola tricolor and insights into its mechanisms",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1200",
    "key": "chang2023melissa",
    "type": "article",
@@ -7532,6 +7560,38 @@
    ]
   },
   {
+   "ref_id": "REF-1590",
+   "key": "lysakowska2023mushrooms",
+   "type": "article",
+   "title": "Medicinal Mushrooms: Their Bioactive Components, Nutritional Value and Application in Functional Food Production - A Review",
+   "authors": "Lysakowska, P., Sobota, A. and Wirkijowska, A.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28145393",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28145393",
+   "link_type": "doi",
+   "citation": "Lysakowska, P., Sobota, A. and Wirkijowska, A (2023) 'Medicinal Mushrooms: Their Bioactive Components, Nutritional Value and Application in Functional Food Production - A Review', Molecules, 28(14), pp. 5393. doi:10.3390/molecules28145393",
+   "abstract": "This review of medicinal mushrooms including Turkey Tail (Trametes versicolor) describes their (1,3)(1,6)-beta-D-glucans, triterpenes and phenolics and their anticancer, antioxidant, antidiabetic and immunomodulatory effects relevant to functional-food applications.",
+   "tier": "review",
+   "display": "Medicinal Mushrooms: Their Bioactive Components, Nutritional Value and Application in Functional Food Production - A Review",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1497",
    "key": "toros2023oyster",
    "type": "article",
@@ -9660,6 +9720,37 @@
     "Oxycoccus palustris"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1582",
+   "key": "pilkington2022coriolus",
+   "type": "article",
+   "title": "Coriolus (Trametes) versicolor mushroom to reduce adverse effects from chemotherapy or radiotherapy in people with colorectal cancer",
+   "authors": "Pilkington, K., Wieland, L.S., Teng, L., Jin, X.Y. and others",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2022",
+   "doi": "10.1002/14651858.CD012053.pub2",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD012053.pub2",
+   "link_type": "doi",
+   "citation": "Pilkington, K., Wieland, L.S., Teng, L., Jin, X.Y. and others (2022) 'Coriolus (Trametes) versicolor mushroom to reduce adverse effects from chemotherapy or radiotherapy in people with colorectal cancer', Cochrane Database of Systematic Reviews, 11(11), pp. CD012053. doi:10.1002/14651858.CD012053.pub2",
+   "abstract": "This Cochrane review of seven randomised controlled trials (1569 participants) found low-certainty evidence of a small improvement in five-year survival with adjunctive Coriolus (Trametes) versicolor extract (PSK) during colorectal cancer treatment, with uncertain effects on chemotherapy adverse effects.",
+   "tier": "review",
+   "display": "Coriolus (Trametes) versicolor mushroom to reduce adverse effects from chemotherapy or radiotherapy in people with colorectal cancer",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -15396,6 +15487,34 @@
    ]
   },
   {
+   "ref_id": "REF-1596",
+   "key": "gaspar2021bilberry",
+   "type": "article",
+   "title": "Quality Assessment of Bilberry Fruits (Vaccinium myrtillus) and Bilberry-Containing Dietary Supplements",
+   "authors": "Gaspar, D.P., Lechtenberg, M. and Hensel, A.",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "year": "2021",
+   "doi": "10.1021/acs.jafc.0c07784",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jafc.0c07784",
+   "link_type": "doi",
+   "citation": "Gaspar, D.P., Lechtenberg, M. and Hensel, A (2021) 'Quality Assessment of Bilberry Fruits (Vaccinium myrtillus) and Bilberry-Containing Dietary Supplements', Journal of Agricultural and Food Chemistry, 69(7), pp. 2213-2225. doi:10.1021/acs.jafc.0c07784",
+   "abstract": "This study used HPLC fingerprinting to assess quality of bilberry (Vaccinium myrtillus) fruits and supplements, quantifying anthocyanins and hydrolysable/condensed tannins and detecting widespread adulteration of dietary supplements, supporting quality control of the anthocyanin-rich fruit.",
+   "tier": "preclinical",
+   "display": "Quality Assessment of Bilberry Fruits (Vaccinium myrtillus) and Bilberry-Containing Dietary Supplements",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0554",
    "key": "guller2021linden",
    "type": "article",
@@ -15449,6 +15568,34 @@
    ],
    "scientific": [
     "Inonotus obliquus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1597",
+   "key": "dare2021bilberry",
+   "type": "article",
+   "title": "Resolving the developmental distribution patterns of polyphenols and related primary metabolites in bilberry (Vaccinium myrtillus) fruit",
+   "authors": "Dare, A.P., Gunther, C.S., Grey, A.C., Guo, G. and others",
+   "journal": "Food Chemistry",
+   "year": "2021",
+   "doi": "10.1016/j.foodchem.2021.131703",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2021.131703",
+   "link_type": "doi",
+   "citation": "Dare, A.P., Gunther, C.S., Grey, A.C., Guo, G. and others (2021) 'Resolving the developmental distribution patterns of polyphenols and related primary metabolites in bilberry (Vaccinium myrtillus) fruit', Food Chemistry, 374, pp. 131703. doi:10.1016/j.foodchem.2021.131703",
+   "abstract": "Using LC-MS and mass-spectrometry imaging, this study mapped the spatial and developmental distribution of anthocyanins and related polyphenols in bilberry (Vaccinium myrtillus) fruit skin and flesh, characterising the accumulation of its principal antioxidant constituents.",
+   "tier": "preclinical",
+   "display": "Resolving the developmental distribution patterns of polyphenols and related primary metabolites in bilberry (Vaccinium myrtillus) fruit",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
    ],
    "actions": [],
    "conditions": []
@@ -16974,6 +17121,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1595",
+   "key": "neamtu2020bilberry",
+   "type": "article",
+   "title": "Bilberry (Vaccinium myrtillus L.) Extracts Comparative Analysis Regarding Their Phytonutrient Profiles, Antioxidant Capacity along with the In Vivo Rescue Effects Tested on a Drosophila melanogaster High-Sugar Diet Model",
+   "authors": "Neamtu, A.A., Szoke-Kovacs, R., Mihok, E., Georgescu, C. and others",
+   "journal": "Antioxidants",
+   "year": "2020",
+   "doi": "10.3390/antiox9111067",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox9111067",
+   "link_type": "doi",
+   "citation": "Neamtu, A.A., Szoke-Kovacs, R., Mihok, E., Georgescu, C. and others (2020) 'Bilberry (Vaccinium myrtillus L.) Extracts Comparative Analysis Regarding Their Phytonutrient Profiles, Antioxidant Capacity along with the In Vivo Rescue Effects Tested on a Drosophila melanogaster High-Sugar Diet Model', Antioxidants, 9(11), pp. 1067. doi:10.3390/antiox9111067",
+   "abstract": "Bilberry (Vaccinium myrtillus) extracts rich in flavonoids and polyphenols showed strong antioxidant activity and, in a Drosophila high-sugar-diet model, halved hemolymph trehalose and produced gene-expression rescues relevant to metabolic syndrome.",
+   "tier": "preclinical",
+   "display": "Bilberry (Vaccinium myrtillus L.) Extracts Comparative Analysis Regarding Their Phytonutrient Profiles, Antioxidant Capacity along with the In Vivo Rescue Effects Tested on a Drosophila melanogaster High-Sugar Diet Model",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0728",
    "key": "batiha2020wormwood",
    "type": "article",
@@ -17505,6 +17682,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1599",
+   "key": "pires2020bilberry",
+   "type": "article",
+   "title": "Development of new bilberry (Vaccinium myrtillus L.) based snacks: Nutritional, chemical and bioactive features",
+   "authors": "Pires, T.C.S.P., Dias, M.I., Calhelha, R.C., Alves, M.J. and others",
+   "journal": "Food Chemistry",
+   "year": "2020",
+   "doi": "10.1016/j.foodchem.2020.127511",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2020.127511",
+   "link_type": "doi",
+   "citation": "Pires, T.C.S.P., Dias, M.I., Calhelha, R.C., Alves, M.J. and others (2020) 'Development of new bilberry (Vaccinium myrtillus L.) based snacks: Nutritional, chemical and bioactive features', Food Chemistry, 334, pp. 127511. doi:10.1016/j.foodchem.2020.127511",
+   "abstract": "Bilberry (Vaccinium myrtillus) fruit-based preparations were characterised for phenolic profile, anthocyanins, and antioxidant and antibacterial activities, confirming the bioactive, antioxidant value of the fruit.",
+   "tier": "preclinical",
+   "display": "Development of new bilberry (Vaccinium myrtillus L.) based snacks: Nutritional, chemical and bioactive features",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0694",
@@ -20205,6 +20412,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1583",
+   "key": "habtemariam2020trametes",
+   "type": "article",
+   "title": "Trametes versicolor (Synn. Coriolus versicolor) Polysaccharides in Cancer Therapy: Targets and Efficacy",
+   "authors": "Habtemariam, S.",
+   "journal": "Biomedicines",
+   "year": "2020",
+   "doi": "10.3390/biomedicines8050135",
+   "url": "",
+   "link": "https://doi.org/10.3390/biomedicines8050135",
+   "link_type": "doi",
+   "citation": "Habtemariam, S (2020) 'Trametes versicolor (Synn. Coriolus versicolor) Polysaccharides in Cancer Therapy: Targets and Efficacy', Biomedicines, 8(5), pp. 135. doi:10.3390/biomedicines8050135",
+   "abstract": "This review scrutinises the in vitro, in vivo and clinical evidence for Trametes versicolor (Coriolus versicolor) polysaccharides PSP and PSK as adjuvant cancer therapy, covering their direct cytotoxic and immunostimulatory effects, key targets and pharmacological efficacy.",
+   "tier": "review",
+   "display": "Trametes versicolor (Synn. Coriolus versicolor) Polysaccharides in Cancer Therapy: Targets and Efficacy",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1109",
    "key": "oza2020clover",
    "type": "article",
@@ -20749,6 +20987,34 @@
    ]
   },
   {
+   "ref_id": "REF-1604",
+   "key": "baradaran2019viola",
+   "type": "article",
+   "title": "Anticonvulsant Activity of Viola tricolor against Seizures Induced by Pentylenetetrazol and Maximal Electroshock in Mice",
+   "authors": "Baradaran Rahimi, V., Askari, V.R., Hosseini, M., Yousefsani, B.S. and Sadeghnia, H.R.",
+   "journal": "Iranian Journal of Medical Sciences",
+   "year": "2019",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Anticonvulsant%20Activity%20of%20Viola%20tricolor%20against%20Seizures%20Induced%20by%20Pentylenetetrazol%20and%20Maximal%20Electroshock%20in%20Mice",
+   "link_type": "search",
+   "citation": "Baradaran Rahimi, V., Askari, V.R., Hosseini, M., Yousefsani, B.S. and Sadeghnia, H.R (2019) 'Anticonvulsant Activity of Viola tricolor against Seizures Induced by Pentylenetetrazol and Maximal Electroshock in Mice', Iranian Journal of Medical Sciences, 44(3), pp. 220-226.",
+   "abstract": "The hydroalcoholic extract of Viola tricolor and its ethyl acetate and n-butanol fractions showed anticonvulsant effects in mice, prolonging latency to pentylenetetrazol-induced seizures and reducing the incidence of maximal-electroshock-induced hind-limb tonic extension.",
+   "tier": "preclinical",
+   "display": "Anticonvulsant Activity of Viola tricolor against Seizures Induced by Pentylenetetrazol and Maximal Electroshock in Mice",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1080",
    "key": "radunz2018clove",
    "type": "article",
@@ -21195,6 +21461,34 @@
    ]
   },
   {
+   "ref_id": "REF-1598",
+   "key": "prokop2019bilberry",
+   "type": "article",
+   "title": "Effect of bilberry extract (Vaccinium myrtillus L.) on drug-metabolizing enzymes in rats",
+   "authors": "Prokop, J., Lnenickova, K., Cibicek, N., Kosina, P. and others",
+   "journal": "Food and Chemical Toxicology",
+   "year": "2019",
+   "doi": "10.1016/j.fct.2019.04.051",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fct.2019.04.051",
+   "link_type": "doi",
+   "citation": "Prokop, J., Lnenickova, K., Cibicek, N., Kosina, P. and others (2019) 'Effect of bilberry extract (Vaccinium myrtillus L.) on drug-metabolizing enzymes in rats', Food and Chemical Toxicology, 129, pp. 382-390. doi:10.1016/j.fct.2019.04.051",
+   "abstract": "In rats, bilberry (Vaccinium myrtillus) extract caused only mild, physiologically insignificant changes in drug-metabolizing enzymes, concluding that consumption of bilberry as a food supplement should not pose a meaningful drug-interaction risk.",
+   "tier": "preclinical",
+   "display": "Effect of bilberry extract (Vaccinium myrtillus L.) on drug-metabolizing enzymes in rats",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0655",
    "key": "morovati2019cuminmetabolic",
    "type": "article",
@@ -21316,6 +21610,37 @@
     "Inflammation (general)",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1594",
+   "key": "haga2019bilberry",
+   "type": "article",
+   "title": "Extracts of bilberry (Vaccinium myrtillus L.) fruits improve liver steatosis and injury in mice by preventing lipid accumulation and cell death",
+   "authors": "Haga, S., YiMin, Yamaki, H., Jin, S. and others",
+   "journal": "Bioscience, Biotechnology, and Biochemistry",
+   "year": "2019",
+   "doi": "10.1080/09168451.2019.1634514",
+   "url": "",
+   "link": "https://doi.org/10.1080/09168451.2019.1634514",
+   "link_type": "doi",
+   "citation": "Haga, S., YiMin, Yamaki, H., Jin, S. and others (2019) 'Extracts of bilberry (Vaccinium myrtillus L.) fruits improve liver steatosis and injury in mice by preventing lipid accumulation and cell death', Bioscience, Biotechnology, and Biochemistry, 83(11), pp. 2110-2120. doi:10.1080/09168451.2019.1634514",
+   "abstract": "Bilberry (Vaccinium myrtillus) fruit extracts suppressed lipid accumulation and cell death in mouse hepatic cells and improved hepatic steatosis, injury and hypercholesterolemia in mice, via antioxidant and anti-inflammatory mechanisms, potentially preventing progression to steatohepatitis.",
+   "tier": "preclinical",
+   "display": "Extracts of bilberry (Vaccinium myrtillus L.) fruits improve liver steatosis and injury in mice by preventing lipid accumulation and cell death",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1055",
@@ -23276,6 +23601,36 @@
    ]
   },
   {
+   "ref_id": "REF-1600",
+   "key": "harati2018viola",
+   "type": "article",
+   "title": "Effects of Viola tricolor Flower Hydroethanolic Extract on Lung Inflammation in a Mouse Model of Chronic Asthma",
+   "authors": "Harati, E., Bahrami, M., Razavi, A., Kamalinejad, M. and others",
+   "journal": "Iranian Journal of Allergy, Asthma, and Immunology",
+   "year": "2018",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Effects%20of%20Viola%20tricolor%20Flower%20Hydroethanolic%20Extract%20on%20Lung%20Inflammation%20in%20a%20Mouse%20Model%20of%20Chronic%20Asthma",
+   "link_type": "search",
+   "citation": "Harati, E., Bahrami, M., Razavi, A., Kamalinejad, M. and others (2018) 'Effects of Viola tricolor Flower Hydroethanolic Extract on Lung Inflammation in a Mouse Model of Chronic Asthma', Iranian Journal of Allergy, Asthma, and Immunology, 17(5), pp. 409-417.",
+   "abstract": "Viola tricolor flower hydroethanolic extract reduced lung inflammation in an ovalbumin-induced mouse model of chronic asthma by inhibiting Th2 cytokine (IL-4) production and eosinophil infiltration, validating its traditional anti-inflammatory use for chest and respiratory conditions.",
+   "tier": "preclinical",
+   "display": "Effects of Viola tricolor Flower Hydroethanolic Extract on Lung Inflammation in a Mouse Model of Chronic Asthma",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0571",
    "key": "velanavarrete2018serenoa",
    "type": "article",
@@ -23573,6 +23928,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1593",
+   "key": "arevstrom2018bilberry",
+   "type": "article",
+   "title": "Freeze-dried bilberry (Vaccinium myrtillus) dietary supplement improves walking distance and lipids after myocardial infarction: an open-label randomized clinical trial",
+   "authors": "Arevstrom, L., Bergh, C., Landberg, R., Wu, H. and others",
+   "journal": "Nutrition Research",
+   "year": "2018",
+   "doi": "10.1016/j.nutres.2018.11.008",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.nutres.2018.11.008",
+   "link_type": "doi",
+   "citation": "Arevstrom, L., Bergh, C., Landberg, R., Wu, H. and others (2018) 'Freeze-dried bilberry (Vaccinium myrtillus) dietary supplement improves walking distance and lipids after myocardial infarction: an open-label randomized clinical trial', Nutrition Research, 62, pp. 13-22. doi:10.1016/j.nutres.2018.11.008",
+   "abstract": "In an open-label randomised clinical trial of 50 patients after acute myocardial infarction, freeze-dried bilberry (Vaccinium myrtillus, 40 g/day) added to standard therapy significantly improved 6-minute walking distance and lowered oxidised LDL versus standard care alone.",
+   "tier": "rct",
+   "display": "Freeze-dried bilberry (Vaccinium myrtillus) dietary supplement improves walking distance and lipids after myocardial infarction: an open-label randomized clinical trial",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
   },
   {
    "ref_id": "REF-0837",
@@ -26175,6 +26562,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1591",
+   "key": "wang2017trametes",
+   "type": "article",
+   "title": "Quorum sensing molecule-farnesol increased the production and biological activities of extracellular polysaccharide from Trametes versicolor",
+   "authors": "Wang, K.F., Sui, K.Y., Guo, C. and Liu, C.Z.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2017",
+   "doi": "10.1016/j.ijbiomac.2017.06.053",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2017.06.053",
+   "link_type": "doi",
+   "citation": "Wang, K.F., Sui, K.Y., Guo, C. and Liu, C.Z (2017) 'Quorum sensing molecule-farnesol increased the production and biological activities of extracellular polysaccharide from Trametes versicolor', International Journal of Biological Macromolecules, 104(Pt A), pp. 377-383. doi:10.1016/j.ijbiomac.2017.06.053",
+   "abstract": "Farnesol-induced extracellular polysaccharide from Trametes versicolor, enriched in high-molecular-weight glucose-mannose-galactose polysaccharide, showed stronger antioxidant and antitumour activities, characterising bioactive polysaccharides of the mushroom.",
+   "tier": "preclinical",
+   "display": "Quorum sensing molecule-farnesol increased the production and biological activities of extracellular polysaccharide from Trametes versicolor",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0084",
    "key": "european2017safety",
    "type": "article",
@@ -26539,6 +26957,36 @@
    "conditions": [
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1589",
+   "key": "scarpari2017tramesan",
+   "type": "article",
+   "title": "Tramesan, a novel polysaccharide from Trametes versicolor. Structural characterization and biological effects",
+   "authors": "Scarpari, M., Reverberi, M., Parroni, A., Scala, V. and others",
+   "journal": "PLoS One",
+   "year": "2017",
+   "doi": "10.1371/journal.pone.0171412",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0171412",
+   "link_type": "doi",
+   "citation": "Scarpari, M., Reverberi, M., Parroni, A., Scala, V. and others (2017) 'Tramesan, a novel polysaccharide from Trametes versicolor. Structural characterization and biological effects', PLoS One, 12(8), pp. e0171412. doi:10.1371/journal.pone.0171412",
+   "abstract": "Tramesan, an exo-polysaccharide isolated from the culture filtrate of Trametes versicolor, acts as a pro-antioxidant molecule across plant, mammalian and fungal systems, characterising a novel bioactive constituent of the mushroom.",
+   "tier": "preclinical",
+   "display": "Tramesan, a novel polysaccharide from Trametes versicolor. Structural characterization and biological effects",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0058",
@@ -28227,6 +28675,37 @@
    ]
   },
   {
+   "ref_id": "REF-1587",
+   "key": "kowalczewska2016coriolus",
+   "type": "article",
+   "title": "Polysaccharide peptides from Coriolus versicolor exert differential immunomodulatory effects on blood lymphocytes and breast cancer cell line MCF-7 in vitro",
+   "authors": "Kowalczewska, M., Piotrowski, J., Jedrzejewski, T. and Kozak, W.",
+   "journal": "Immunology Letters",
+   "year": "2016",
+   "doi": "10.1016/j.imlet.2016.04.010",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.imlet.2016.04.010",
+   "link_type": "doi",
+   "citation": "Kowalczewska, M., Piotrowski, J., Jedrzejewski, T. and Kozak, W (2016) 'Polysaccharide peptides from Coriolus versicolor exert differential immunomodulatory effects on blood lymphocytes and breast cancer cell line MCF-7 in vitro', Immunology Letters, 174, pp. 37-44. doi:10.1016/j.imlet.2016.04.010",
+   "abstract": "Protein-bound polysaccharides from Coriolus versicolor (Trametes versicolor) induced a TNF-alpha-dependent decrease in MCF-7 breast cancer cell growth while augmenting proliferation of blood lymphocytes with IL-6 and IL-1beta upregulation, demonstrating differential immunomodulatory and anticancer effects.",
+   "tier": "preclinical",
+   "display": "Polysaccharide peptides from Coriolus versicolor exert differential immunomodulatory effects on blood lymphocytes and breast cancer cell line MCF-7 in vitro",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1215",
    "key": "raina2016momordica",
    "type": "article",
@@ -28250,6 +28729,34 @@
    ],
    "scientific": [
     "Momordica charantia"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1602",
+   "key": "mousavi2016viola",
+   "type": "article",
+   "title": "Protective effect of Viola tricolor and Viola odorata extracts on serum/glucose deprivation-induced neurotoxicity: role of reactive oxygen species",
+   "authors": "Mousavi, S.H., Naghizade, B., Pourgonabadi, S. and Ghorbani, A.",
+   "journal": "Avicenna Journal of Phytomedicine",
+   "year": "2016",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Protective%20effect%20of%20Viola%20tricolor%20and%20Viola%20odorata%20extracts%20on%20serum/glucose%20deprivation-induced%20neurotoxicity%3A%20role%20of%20reactive%20oxygen%20species",
+   "link_type": "search",
+   "citation": "Mousavi, S.H., Naghizade, B., Pourgonabadi, S. and Ghorbani, A (2016) 'Protective effect of Viola tricolor and Viola odorata extracts on serum/glucose deprivation-induced neurotoxicity: role of reactive oxygen species', Avicenna Journal of Phytomedicine, 6(4), pp. 434-441.",
+   "abstract": "Viola tricolor (and Viola odorata) hydroalcoholic extracts protected PC12 neuronal cells against serum/glucose-deprivation-induced death and reduced intracellular reactive oxygen species, indicating an antioxidant, neuroprotective activity relevant to ischemia and neurodegeneration.",
+   "tier": "preclinical",
+   "display": "Protective effect of Viola tricolor and Viola odorata extracts on serum/glucose deprivation-induced neurotoxicity: role of reactive oxygen species",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
    ],
    "actions": [],
    "conditions": []
@@ -30559,6 +31066,67 @@
    ]
   },
   {
+   "ref_id": "REF-1584",
+   "key": "fritz2015coriolus",
+   "type": "article",
+   "title": "Polysaccharide K and Coriolus versicolor extracts for lung cancer: a systematic review",
+   "authors": "Fritz, H., Kennedy, D.A., Ishii, M., Fergusson, D. and others",
+   "journal": "Integrative Cancer Therapies",
+   "year": "2015",
+   "doi": "10.1177/1534735415572883",
+   "url": "",
+   "link": "https://doi.org/10.1177/1534735415572883",
+   "link_type": "doi",
+   "citation": "Fritz, H., Kennedy, D.A., Ishii, M., Fergusson, D. and others (2015) 'Polysaccharide K and Coriolus versicolor extracts for lung cancer: a systematic review', Integrative Cancer Therapies, 14(3), pp. 201-211. doi:10.1177/1534735415572883",
+   "abstract": "This systematic review of 28 studies found that PSK from Coriolus versicolor (Trametes versicolor) may improve immune function, reduce tumour-associated symptoms and extend survival in lung cancer patients, via immunomodulation and direct tumour-inhibiting actions.",
+   "tier": "review",
+   "display": "Polysaccharide K and Coriolus versicolor extracts for lung cancer: a systematic review",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1588",
+   "key": "jedrzejewski2015coriolus",
+   "type": "article",
+   "title": "Polysaccharide peptide from Coriolus versicolor induces interleukin 6-related extension of endotoxin fever in rats",
+   "authors": "Jedrzejewski, T., Piotrowski, J., Kowalczewska, M., Wrotek, S. and Kozak, W.",
+   "journal": "International Journal of Hyperthermia",
+   "year": "2015",
+   "doi": "10.3109/02656736.2015.1046953",
+   "url": "",
+   "link": "https://doi.org/10.3109/02656736.2015.1046953",
+   "link_type": "doi",
+   "citation": "Jedrzejewski, T., Piotrowski, J., Kowalczewska, M., Wrotek, S. and Kozak, W (2015) 'Polysaccharide peptide from Coriolus versicolor induces interleukin 6-related extension of endotoxin fever in rats', International Journal of Hyperthermia, 31(6), pp. 626-634. doi:10.3109/02656736.2015.1046953",
+   "abstract": "Polysaccharide peptide (PSP) from Coriolus versicolor (Trametes versicolor) modified the course of LPS-induced fever in rats in an interleukin-6-related fashion, illustrating its immunomodulatory activity on cytokine-mediated responses.",
+   "tier": "preclinical",
+   "display": "Polysaccharide peptide from Coriolus versicolor induces interleukin 6-related extension of endotoxin fever in rats",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0971",
    "key": "fecka2015tormentil",
    "type": "article",
@@ -32508,6 +33076,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1601",
+   "key": "sadeghnia2014viola",
+   "type": "article",
+   "title": "Viola tricolor induces apoptosis in cancer cells and exhibits antiangiogenic activity on chicken chorioallantoic membrane",
+   "authors": "Sadeghnia, H.R., Ghorbani Hesari, T., Mortazavian, S.M., Mousavi, S.H. and others",
+   "journal": "BioMed Research International",
+   "year": "2014",
+   "doi": "10.1155/2014/625792",
+   "url": "",
+   "link": "https://doi.org/10.1155/2014/625792",
+   "link_type": "doi",
+   "citation": "Sadeghnia, H.R., Ghorbani Hesari, T., Mortazavian, S.M., Mousavi, S.H. and others (2014) 'Viola tricolor induces apoptosis in cancer cells and exhibits antiangiogenic activity on chicken chorioallantoic membrane', BioMed Research International, 2014, pp. 625792. doi:10.1155/2014/625792",
+   "abstract": "Viola tricolor hydroalcoholic extract and its ethyl acetate fraction induced apoptosis in Neuro2a and MCF-7 cancer cells (via increased Bax/Bcl-2 ratio and cleaved caspase-3) and reduced blood-vessel diameter on the chick chorioallantoic membrane, indicating anticancer and antiangiogenic activity.",
+   "tier": "preclinical",
+   "display": "Viola tricolor induces apoptosis in cancer cells and exhibits antiangiogenic activity on chicken chorioallantoic membrane",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0257",
    "key": "sahu2013sahu",
    "type": "misc",
@@ -32701,6 +33299,37 @@
     "Respiratory support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1605",
+   "key": "piana2013viola",
+   "type": "article",
+   "title": "Antiinflammatory effects of Viola tricolor gel in a model of sunburn in rats and the gel stability study",
+   "authors": "Piana, M., Silva, M.A., Trevisan, G., de Brum, T.F. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2013",
+   "doi": "10.1016/j.jep.2013.08.040",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2013.08.040",
+   "link_type": "doi",
+   "citation": "Piana, M., Silva, M.A., Trevisan, G., de Brum, T.F. and others (2013) 'Antiinflammatory effects of Viola tricolor gel in a model of sunburn in rats and the gel stability study', Journal of Ethnopharmacology, 150(2), pp. 458-465. doi:10.1016/j.jep.2013.08.040",
+   "abstract": "A gel containing Viola tricolor flower extract showed antinociceptive and anti-inflammatory effects in a UVB-induced sunburn model in rats (reducing mechanical allodynia, paw edema and myeloperoxidase activity), attributed partly to rutin, salicylic and chlorogenic acids, supporting its traditional use for skin disorders.",
+   "tier": "preclinical",
+   "display": "Antiinflammatory effects of Viola tricolor gel in a model of sunburn in rats and the gel stability study",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Emollient / skin-soothing"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0584",
@@ -38054,6 +38683,36 @@
    ]
   },
   {
+   "ref_id": "REF-1592",
+   "key": "ulbricht2009bilberry",
+   "type": "article",
+   "title": "An evidence-based systematic review of bilberry (Vaccinium myrtillus) by the Natural Standard Research Collaboration",
+   "authors": "Ulbricht, C., Basch, E., Basch, S., Bent, S. and others",
+   "journal": "Journal of Dietary Supplements",
+   "year": "2009",
+   "doi": "10.1080/19390210902861858",
+   "url": "",
+   "link": "https://doi.org/10.1080/19390210902861858",
+   "link_type": "doi",
+   "citation": "Ulbricht, C., Basch, E., Basch, S., Bent, S. and others (2009) 'An evidence-based systematic review of bilberry (Vaccinium myrtillus) by the Natural Standard Research Collaboration', Journal of Dietary Supplements, 6(2), pp. 162-200. doi:10.1080/19390210902861858",
+   "abstract": "This evidence-based systematic review of bilberry (Vaccinium myrtillus) collates the scientific literature, pharmacology, interactions, adverse effects and dosing for its anthocyanin-rich fruit, used for vascular and antioxidant indications.",
+   "tier": "review",
+   "display": "An evidence-based systematic review of bilberry (Vaccinium myrtillus) by the Natural Standard Research Collaboration",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1220",
    "key": "leung2009momordica",
    "type": "article",
@@ -42068,6 +42727,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1603",
+   "key": "witkowska2005viola",
+   "type": "article",
+   "title": "Antimicrobial activity of Viola tricolor herb",
+   "authors": "Witkowska-Banaszczak, E., Bylka, W., Matlawska, I., Goslinska, O. and Muszynski, Z.",
+   "journal": "Fitoterapia",
+   "year": "2005",
+   "doi": "10.1016/j.fitote.2005.03.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2005.03.005",
+   "link_type": "doi",
+   "citation": "Witkowska-Banaszczak, E., Bylka, W., Matlawska, I., Goslinska, O. and Muszynski, Z (2005) 'Antimicrobial activity of Viola tricolor herb', Fitoterapia, 76(5), pp. 458-461. doi:10.1016/j.fitote.2005.03.005",
+   "abstract": "Infusion, decoction and ethanol extracts of Viola tricolor herb showed antimicrobial activity against a range of tested microorganisms, with the infusion, decoction and ethanol extract most effective, supporting its traditional topical use.",
+   "tier": "preclinical",
+   "display": "Antimicrobial activity of Viola tricolor herb",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0425",
    "key": "bylka2005butcher",
    "type": "article",
@@ -43554,6 +44241,37 @@
     "Tanacetum vulgare"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1585",
+   "key": "tsang2003coriolus",
+   "type": "article",
+   "title": "Coriolus versicolor polysaccharide peptide slows progression of advanced non-small cell lung cancer",
+   "authors": "Tsang, K.W., Lam, C.L., Yan, C., Mak, J.C. and others",
+   "journal": "Respiratory Medicine",
+   "year": "2003",
+   "doi": "10.1053/rmed.2003.1490",
+   "url": "",
+   "link": "https://doi.org/10.1053/rmed.2003.1490",
+   "link_type": "doi",
+   "citation": "Tsang, K.W., Lam, C.L., Yan, C., Mak, J.C. and others (2003) 'Coriolus versicolor polysaccharide peptide slows progression of advanced non-small cell lung cancer', Respiratory Medicine, 97(6), pp. 618-624. doi:10.1053/rmed.2003.1490",
+   "abstract": "In a double-blind placebo-controlled randomised trial of 68 patients with advanced non-small cell lung cancer, 28 days of polysaccharide peptide (PSP) from Coriolus versicolor significantly improved leukocyte and neutrophil counts, serum IgG and IgM and reduced withdrawal due to disease progression, with no adverse reactions.",
+   "tier": "rct",
+   "display": "Coriolus versicolor polysaccharide peptide slows progression of advanced non-small cell lung cancer",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -46476,6 +47194,37 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1586",
+   "key": "ng1998coriolus",
+   "type": "article",
+   "title": "A review of research on the protein-bound polysaccharide (polysaccharopeptide, PSP) from the mushroom Coriolus versicolor (Basidiomycetes: Polyporaceae)",
+   "authors": "Ng, T.B.",
+   "journal": "General Pharmacology",
+   "year": "1998",
+   "doi": "10.1016/s0306-3623(97)00076-1",
+   "url": "",
+   "link": "https://doi.org/10.1016/s0306-3623(97)00076-1",
+   "link_type": "doi",
+   "citation": "Ng, T.B (1998) 'A review of research on the protein-bound polysaccharide (polysaccharopeptide, PSP) from the mushroom Coriolus versicolor (Basidiomycetes: Polyporaceae)', General Pharmacology, 30(1), pp. 1-4. doi:10.1016/s0306-3623(97)00076-1",
+   "abstract": "This review summarises research on the protein-bound polysaccharide PSP from Coriolus versicolor (Trametes versicolor), a biological response modifier that increases interferon-gamma and interleukin-2 production and T-cell proliferation, shows antiproliferative and antitumour activity, and alleviates symptoms in cancer patients undergoing radio/chemotherapy.",
+   "tier": "review",
+   "display": "A review of research on the protein-bound polysaccharide (polysaccharopeptide, PSP) from the mushroom Coriolus versicolor (Basidiomycetes: Polyporaceae)",
+   "plants": [
+    "Turkey tail",
+    "Turkey tail mushroom",
+    "many-zoned polypore",
+    "yun zhi"
+   ],
+   "scientific": [
+    "Trametes versicolor"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0092",

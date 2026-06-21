@@ -2717,6 +2717,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0409",
+      "REF-0594",
+      "REF-1593"
+     ]
+    },
+    {
      "condition": "eye-strain",
      "label": "Eye strain / eye health",
      "evidence": 7,
@@ -2724,17 +2736,6 @@
      "inferred": false,
      "references": [
       "REF-0408"
-     ]
-    },
-    {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 6,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0409",
-      "REF-0594"
      ]
     },
     {

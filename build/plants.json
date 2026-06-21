@@ -31019,7 +31019,15 @@
      "reference_ids": [
       "REF-0052",
       "REF-0282",
-      "REF-0300"
+      "REF-0300",
+      "REF-1582",
+      "REF-1583",
+      "REF-1584",
+      "REF-1585",
+      "REF-1586",
+      "REF-1587",
+      "REF-1590",
+      "REF-1591"
      ],
      "status": "verified"
     },
@@ -31037,7 +31045,10 @@
      "reference_ids": [
       "REF-0052",
       "REF-0282",
-      "REF-0300"
+      "REF-0300",
+      "REF-1589",
+      "REF-1590",
+      "REF-1591"
      ],
      "status": "verified"
     },
@@ -31055,7 +31066,15 @@
      "reference_ids": [
       "REF-0052",
       "REF-0282",
-      "REF-0300"
+      "REF-0300",
+      "REF-1582",
+      "REF-1583",
+      "REF-1584",
+      "REF-1585",
+      "REF-1586",
+      "REF-1587",
+      "REF-1588",
+      "REF-1590"
      ],
      "status": "verified"
     }
@@ -31153,9 +31172,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1582",
+    "REF-1583",
+    "REF-1584",
+    "REF-1585",
+    "REF-1586",
+    "REF-1587",
+    "REF-1588",
+    "REF-1589",
+    "REF-1590",
+    "REF-1591"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "trifolium-pratense",
@@ -32274,7 +32305,9 @@
      "note": "The deep blue-purple pigments; the principal antioxidant constituents.",
      "reference_ids": [
       "REF-0409",
-      "REF-0408"
+      "REF-0408",
+      "REF-1596",
+      "REF-1597"
      ]
     },
     {
@@ -32285,7 +32318,8 @@
      ],
      "note": "Contribute to antioxidant and astringent activity.",
      "reference_ids": [
-      "REF-0409"
+      "REF-0409",
+      "REF-1595"
      ]
     },
     {
@@ -32301,7 +32335,8 @@
      "action": "anti-inflammatory",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0409"
+      "REF-0409",
+      "REF-1594"
      ],
      "status": "verified"
     },
@@ -32309,7 +32344,12 @@
      "action": "antioxidant",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0409"
+      "REF-0409",
+      "REF-1592",
+      "REF-1593",
+      "REF-1594",
+      "REF-1595",
+      "REF-1599"
      ],
      "status": "verified"
     },
@@ -32336,7 +32376,8 @@
      "note": "Supports cardiovascular and metabolic risk factors, including blood lipids (high cholesterol)",
      "reference_ids": [
       "REF-0409",
-      "REF-0594"
+      "REF-0594",
+      "REF-1593"
      ],
      "status": "verified"
     },
@@ -32424,9 +32465,20 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0408",
+    "REF-1592",
+    "REF-1593",
+    "REF-1594",
+    "REF-1595",
+    "REF-1596",
+    "REF-1597",
+    "REF-1598",
+    "REF-1599"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "valeriana-officinalis",
@@ -33785,7 +33837,9 @@
      ],
      "note": "Antioxidant, anti-inflammatory and soothing constituents.",
      "reference_ids": [
-      "REF-0463"
+      "REF-0463",
+      "REF-1605",
+      "REF-1606"
      ]
     }
    ],
@@ -33795,7 +33849,9 @@
      "note": "Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro; Soothes irritated skin (demulcent and anti-inflammatory)",
      "reference_ids": [
       "REF-0463",
-      "REF-0617"
+      "REF-0617",
+      "REF-1600",
+      "REF-1605"
      ],
      "status": "verified"
     },
@@ -33803,7 +33859,8 @@
      "action": "anticancer",
      "note": "Cytotoxic / antiproliferative against cancer cell lines in vitro (cyclotides vitri A, varv A and varv E)",
      "reference_ids": [
-      "REF-0556"
+      "REF-0556",
+      "REF-1601"
      ],
      "status": "needs-review"
     },
@@ -33819,7 +33876,8 @@
      "action": "emollient",
      "note": "Soothes irritated skin (demulcent and anti-inflammatory)",
      "reference_ids": [
-      "REF-0463"
+      "REF-0463",
+      "REF-1605"
      ],
      "status": "verified"
     },
@@ -33954,9 +34012,20 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0617",
+    "REF-1600",
+    "REF-1601",
+    "REF-1602",
+    "REF-1603",
+    "REF-1604",
+    "REF-1605",
+    "REF-1606",
+    "REF-0463"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "vitex-agnus-castus",

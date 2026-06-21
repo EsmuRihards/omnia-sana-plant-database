@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1465,
+ "count": 1495,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -1710,6 +1710,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1486",
+   "key": "ebrahimi2024parsley",
+   "type": "article",
+   "title": "Acid-hydrolyzed phenolic extract of parsley (Petroselinum crispum L.) leaves inhibits lipid oxidation in soybean oil-in-water emulsions",
+   "authors": "Ebrahimi, P., Bayram, I., Lante, A. and Decker, E.A.",
+   "journal": "Food Research International",
+   "year": "2024",
+   "doi": "10.1016/j.foodres.2024.114452",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodres.2024.114452",
+   "link_type": "doi",
+   "citation": "Ebrahimi, P., Bayram, I., Lante, A. and Decker, E.A (2024) 'Acid-hydrolyzed phenolic extract of parsley (Petroselinum crispum L.) leaves inhibits lipid oxidation in soybean oil-in-water emulsions', Food Research International, 187, pp. 114452. doi:10.1016/j.foodres.2024.114452",
+   "abstract": "An acid-hydrolyzed phenolic extract of parsley (Petroselinum crispum) leaves, rich in flavonoid aglycones (apigenin), inhibited lipid oxidation in oil-in-water emulsions, demonstrating the antioxidant activity of parsley phenolics.",
+   "tier": "preclinical",
+   "display": "Acid-hydrolyzed phenolic extract of parsley (Petroselinum crispum L.) leaves inhibits lipid oxidation in soybean oil-in-water emulsions",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1451",
    "key": "kosakowska2024oregano",
    "type": "article",
@@ -2793,6 +2822,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1495",
+   "key": "ganea2024parsley",
+   "type": "article",
+   "title": "Exploring the Therapeutic Efficacy of Parsley (Petroselinum crispum Mill.) as a Functional Food: Implications in Immunological Tolerability, Reduction of Muscle Cramps, and Treatment of Dermatitis",
+   "authors": "Ganea, M., Vicas, L.G., Gligor, O., Sarac, I. and others",
+   "journal": "Molecules",
+   "year": "2024",
+   "doi": "10.3390/molecules29030608",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules29030608",
+   "link_type": "doi",
+   "citation": "Ganea, M., Vicas, L.G., Gligor, O., Sarac, I. and others (2024) 'Exploring the Therapeutic Efficacy of Parsley (Petroselinum crispum Mill.) as a Functional Food: Implications in Immunological Tolerability, Reduction of Muscle Cramps, and Treatment of Dermatitis', Molecules, 29(3), pp. 608. doi:10.3390/molecules29030608",
+   "abstract": "This study explored parsley (Petroselinum crispum) as a functional food, characterising its antioxidant phytochemicals and their potential for immunological tolerability, reduction of muscle cramps and treatment of dermatitis.",
+   "tier": "preclinical",
+   "display": "Exploring the Therapeutic Efficacy of Parsley (Petroselinum crispum Mill.) as a Functional Food: Implications in Immunological Tolerability, Reduction of Muscle Cramps, and Treatment of Dermatitis",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0821",
    "key": "li2024ganoderma",
    "type": "article",
@@ -3663,6 +3721,34 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1467",
+   "key": "zhou2024ginseng",
+   "type": "article",
+   "title": "Overview of Panax ginseng and its active ingredients protective mechanism on cardiovascular diseases",
+   "authors": "Zhou, Z., Li, M., Zhang, Z., Song, Z. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2024",
+   "doi": "10.1016/j.jep.2024.118506",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2024.118506",
+   "link_type": "doi",
+   "citation": "Zhou, Z., Li, M., Zhang, Z., Song, Z. and others (2024) 'Overview of Panax ginseng and its active ingredients protective mechanism on cardiovascular diseases', Journal of Ethnopharmacology, 334, pp. 118506. doi:10.1016/j.jep.2024.118506",
+   "abstract": "This overview summarises how Panax ginseng and its ginsenosides protect against cardiovascular diseases, via antioxidant, anti-inflammatory and vasoprotective mechanisms, supporting the cardiovascular use of ginseng.",
+   "tier": "review",
+   "display": "Overview of Panax ginseng and its active ingredients protective mechanism on cardiovascular diseases",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -4720,6 +4806,34 @@
     "Cold & flu",
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1480",
+   "key": "apostolova2023butterbur",
+   "type": "article",
+   "title": "A Standardized Extract of Petasites hybridus L., Containing the Active Ingredients Petasins, Acts as a Pro-Oxidant and Triggers Apoptosis through Elevating of NF-kB in a Highly Invasive Human Breast Cancer Cell Line",
+   "authors": "Apostolova, S., Oreshkova, T., Uzunova, V., Georgieva, I. and others",
+   "journal": "Frontiers in Bioscience (Landmark Edition)",
+   "year": "2023",
+   "doi": "10.31083/j.fbl2806111",
+   "url": "",
+   "link": "https://doi.org/10.31083/j.fbl2806111",
+   "link_type": "doi",
+   "citation": "Apostolova, S., Oreshkova, T., Uzunova, V., Georgieva, I. and others (2023) 'A Standardized Extract of Petasites hybridus L., Containing the Active Ingredients Petasins, Acts as a Pro-Oxidant and Triggers Apoptosis through Elevating of NF-kB in a Highly Invasive Human Breast Cancer Cell Line', Frontiers in Bioscience (Landmark Edition), 28(6), pp. 111. doi:10.31083/j.fbl2806111",
+   "abstract": "A standardized, PA-free butterbur (Petasites hybridus) root extract containing petasins selectively triggered apoptosis in a highly invasive human breast-cancer cell line via pro-oxidant and NF-kB mechanisms, indicating an antitumour potential of the petasin constituents.",
+   "tier": "preclinical",
+   "display": "A Standardized Extract of Petasites hybridus L., Containing the Active Ingredients Petasins, Acts as a Pro-Oxidant and Triggers Apoptosis through Elevating of NF-kB in a Highly Invasive Human Breast Cancer Cell Line",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0516",
@@ -6418,6 +6532,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1488",
+   "key": "ede2022parsley",
+   "type": "article",
+   "title": "Hepatoprotective effects of parsley (Petroselinum crispum) extract in rats with bile duct ligation",
+   "authors": "Ede, S., Ozbeyli, D., Erdogan, O., Cevik, O. and others",
+   "journal": "Arab Journal of Gastroenterology",
+   "year": "2023",
+   "doi": "10.1016/j.ajg.2022.10.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ajg.2022.10.006",
+   "link_type": "doi",
+   "citation": "Ede, S., Ozbeyli, D., Erdogan, O., Cevik, O. and others (2023) 'Hepatoprotective effects of parsley (Petroselinum crispum) extract in rats with bile duct ligation', Arab Journal of Gastroenterology, 24(1), pp. 45-51. doi:10.1016/j.ajg.2022.10.006",
+   "abstract": "Parsley (Petroselinum crispum) extract protected against bile-duct-ligation-induced liver injury in rats, reducing oxidative stress and fibrosis, demonstrating a hepatoprotective, antioxidant effect.",
+   "tier": "preclinical",
+   "display": "Hepatoprotective effects of parsley (Petroselinum crispum) extract in rats with bile duct ligation",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Hepatoprotective (liver support)"
+   ],
+   "conditions": [
+    "Liver support"
+   ]
+  },
+  {
    "ref_id": "REF-0179",
    "key": "national2023hericium",
    "type": "misc",
@@ -6790,6 +6935,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1485",
+   "key": "kulinowski2023butterbur",
+   "type": "article",
+   "title": "Liquid-liquid chromatography isolation of Petasites hybridus sesquiterpenes and their LC-HR-MS/MS and NMR characterization",
+   "authors": "Kulinowski, L., Luca, S.V., Pecio, L., Minceva, M. and Skalicka-Wozniak, K.",
+   "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+   "year": "2023",
+   "doi": "10.1016/j.jpba.2023.115529",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jpba.2023.115529",
+   "link_type": "doi",
+   "citation": "Kulinowski, L., Luca, S.V., Pecio, L., Minceva, M. and Skalicka-Wozniak, K (2023) 'Liquid-liquid chromatography isolation of Petasites hybridus sesquiterpenes and their LC-HR-MS/MS and NMR characterization', Journal of Pharmaceutical and Biomedical Analysis, 234, pp. 115529. doi:10.1016/j.jpba.2023.115529",
+   "abstract": "This study isolated and characterised the major bioactive sesquiterpenes of butterbur (Petasites hybridus) - including petasin and isopetasin - by liquid-liquid chromatography and spectroscopy, providing reference standards for standardisation and pharmacological evaluation.",
+   "tier": "preclinical",
+   "display": "Liquid-liquid chromatography isolation of Petasites hybridus sesquiterpenes and their LC-HR-MS/MS and NMR characterization",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0088",
    "key": "fernandes2023fernandes",
    "type": "article",
@@ -7020,6 +7193,67 @@
     "Ocimum tenuiflorum"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1487",
+   "key": "ertik2023parsley",
+   "type": "article",
+   "title": "Petroselinum crispum Extract Prevents Scopolamine-Induced Lens Damage in Rats",
+   "authors": "Ertik, O., Pazarbasi, S.E., Sener, G. and Sacan, O.",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2023",
+   "doi": "10.1002/cbdv.202300776",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.202300776",
+   "link_type": "doi",
+   "citation": "Ertik, O., Pazarbasi, S.E., Sener, G. and Sacan, O (2023) 'Petroselinum crispum Extract Prevents Scopolamine-Induced Lens Damage in Rats', Chemistry & Biodiversity, 20(11), pp. e202300776. doi:10.1002/cbdv.202300776",
+   "abstract": "Parsley (Petroselinum crispum) extract prevented scopolamine-induced lens damage in rats by reducing oxidative stress, demonstrating an antioxidant, protective effect of parsley.",
+   "tier": "preclinical",
+   "display": "Petroselinum crispum Extract Prevents Scopolamine-Induced Lens Damage in Rats",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1472",
+   "key": "zhou2023ginseng",
+   "type": "article",
+   "title": "Pharmacological Effects of Ginseng: Multiple Constituents and Multiple Actions on Humans",
+   "authors": "Zhou, G., Wang, C.Z., Mohammadi, S., Sawadogo, W.R. and others",
+   "journal": "The American Journal of Chinese Medicine",
+   "year": "2023",
+   "doi": "10.1142/S0192415X23500507",
+   "url": "",
+   "link": "https://doi.org/10.1142/S0192415X23500507",
+   "link_type": "doi",
+   "citation": "Zhou, G., Wang, C.Z., Mohammadi, S., Sawadogo, W.R. and others (2023) 'Pharmacological Effects of Ginseng: Multiple Constituents and Multiple Actions on Humans', The American Journal of Chinese Medicine, 51(5), pp. 1085-1104. doi:10.1142/S0192415X23500507",
+   "abstract": "This review of ginseng (Panax ginseng) summarises how its multiple constituents (ginsenosides, polysaccharides) exert multiple actions in humans, including antioxidant, anti-inflammatory, immunomodulatory, neuroprotective and anti-fatigue effects.",
+   "tier": "review",
+   "display": "Pharmacological Effects of Ginseng: Multiple Constituents and Multiple Actions on Humans",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -8146,6 +8380,37 @@
     "Anxiety",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-1483",
+   "key": "kulinowski2022butterbur",
+   "type": "article",
+   "title": "A review on the ethnobotany, phytochemistry, pharmacology and toxicology of butterbur species (Petasites L.)",
+   "authors": "Kulinowski, L., Luca, S.V., Minceva, M. and Skalicka-Wozniak, K.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2022",
+   "doi": "10.1016/j.jep.2022.115263",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2022.115263",
+   "link_type": "doi",
+   "citation": "Kulinowski, L., Luca, S.V., Minceva, M. and Skalicka-Wozniak, K (2022) 'A review on the ethnobotany, phytochemistry, pharmacology and toxicology of butterbur species (Petasites L.)', Journal of Ethnopharmacology, 293, pp. 115263. doi:10.1016/j.jep.2022.115263",
+   "abstract": "This review of butterbur (Petasites, including P. hybridus) summarises its traditional uses, phytochemistry (sesquiterpenes, pyrrolizidine alkaloids, polyphenols), pharmacology (anti-spasmolytic, anti-asthmatic, anti-migraine, anti-allergic) and toxicology.",
+   "tier": "review",
+   "display": "A review on the ethnobotany, phytochemistry, pharmacology and toxicology of butterbur species (Petasites L.)",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [
+    "Antihistaminic / antiallergic",
+    "Antispasmodic"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0464",
@@ -9566,6 +9831,36 @@
     "Carum carvi"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1470",
+   "key": "ni2022ginseng",
+   "type": "article",
+   "title": "Ginsenoside Rb1 inhibits astrocyte activation and promotes transfer of astrocytic mitochondria to neurons against ischemic stroke",
+   "authors": "Ni, X.C., Wang, H.F., Cai, Y.Y., Yang, D. and others",
+   "journal": "Redox Biology",
+   "year": "2022",
+   "doi": "10.1016/j.redox.2022.102363",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.redox.2022.102363",
+   "link_type": "doi",
+   "citation": "Ni, X.C., Wang, H.F., Cai, Y.Y., Yang, D. and others (2022) 'Ginsenoside Rb1 inhibits astrocyte activation and promotes transfer of astrocytic mitochondria to neurons against ischemic stroke', Redox Biology, 54, pp. 102363. doi:10.1016/j.redox.2022.102363",
+   "abstract": "Ginsenoside Rb1, a major constituent of Panax ginseng, inhibited astrocyte activation and promoted transfer of astrocytic mitochondria to neurons against ischemic stroke, demonstrating a neuroprotective mechanism of ginseng.",
+   "tier": "preclinical",
+   "display": "Ginsenoside Rb1 inhibits astrocyte activation and promotes transfer of astrocytic mitochondria to neurons against ischemic stroke",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
    "conditions": []
   },
   {
@@ -13579,6 +13874,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1474",
+   "key": "li2021ginseng",
+   "type": "article",
+   "title": "Neuroprotective Potentials of Panax Ginseng Against Alzheimer's Disease: A Review of Preclinical and Clinical Evidences",
+   "authors": "Li, J., Huang, Q., Chen, J., Qi, H. and others",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2021",
+   "doi": "10.3389/fphar.2021.688490",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2021.688490",
+   "link_type": "doi",
+   "citation": "Li, J., Huang, Q., Chen, J., Qi, H. and others (2021) 'Neuroprotective Potentials of Panax Ginseng Against Alzheimer's Disease: A Review of Preclinical and Clinical Evidences', Frontiers in Pharmacology, 12, pp. 688490. doi:10.3389/fphar.2021.688490",
+   "abstract": "This review of preclinical and clinical evidence summarises the neuroprotective potential of Panax ginseng against Alzheimer's disease, supporting its cognitive-function and memory benefits.",
+   "tier": "review",
+   "display": "Neuroprotective Potentials of Panax Ginseng Against Alzheimer's Disease: A Review of Preclinical and Clinical Evidences",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": [
+    "Cognitive function",
+    "Memory"
+   ]
+  },
+  {
    "ref_id": "REF-1424",
    "key": "jin2021noni",
    "type": "article",
@@ -15841,6 +16169,63 @@
    ]
   },
   {
+   "ref_id": "REF-1476",
+   "key": "alhusayan2020butterbur",
+   "type": "article",
+   "title": "Butterbur (Petasites hybridus) Extract Ameliorates Hepatic Damage Induced by Ovalbumin in Mice",
+   "authors": "Alhusayan, R.M., Aldahmash, B.A., El-Nagar, D.M., Rady, A. and others",
+   "journal": "Oxidative Medicine and Cellular Longevity",
+   "year": "2020",
+   "doi": "10.1155/2020/3178214",
+   "url": "",
+   "link": "https://doi.org/10.1155/2020/3178214",
+   "link_type": "doi",
+   "citation": "Alhusayan, R.M., Aldahmash, B.A., El-Nagar, D.M., Rady, A. and others (2020) 'Butterbur (Petasites hybridus) Extract Ameliorates Hepatic Damage Induced by Ovalbumin in Mice', Oxidative Medicine and Cellular Longevity, 2020, pp. 3178214. doi:10.1155/2020/3178214",
+   "abstract": "A PA-free butterbur (Petasites hybridus) extract ameliorated ovalbumin-induced (hypersensitivity) hepatic damage in mice by reducing oxidative stress and inflammation (MDA, TNF-alpha), demonstrating anti-inflammatory and antioxidant effects relevant to its anti-allergic use.",
+   "tier": "preclinical",
+   "display": "Butterbur (Petasites hybridus) Extract Ameliorates Hepatic Damage Induced by Ovalbumin in Mice",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1489",
+   "key": "epifanio2020parsley",
+   "type": "article",
+   "title": "Chemical characterization and in vivo antioxidant activity of parsley (Petroselinum crispum) aqueous extract",
+   "authors": "Mara de Menezes Epifanio, N., Rykiel Iglesias Cavalcanti, L., Falcao Dos Santos, K., Soares Coutinho Duarte, P. and others",
+   "journal": "Food & Function",
+   "year": "2020",
+   "doi": "10.1039/d0fo00484g",
+   "url": "",
+   "link": "https://doi.org/10.1039/d0fo00484g",
+   "link_type": "doi",
+   "citation": "Mara de Menezes Epifanio, N., Rykiel Iglesias Cavalcanti, L., Falcao Dos Santos, K., Soares Coutinho Duarte, P. and others (2020) 'Chemical characterization and in vivo antioxidant activity of parsley (Petroselinum crispum) aqueous extract', Food & Function, 11(6), pp. 5346-5356. doi:10.1039/d0fo00484g",
+   "abstract": "An aqueous extract of parsley (Petroselinum crispum) was chemically characterised (apigenin, phenolics) and showed in vivo antioxidant activity, increasing antioxidant enzymes and reducing lipid peroxidation.",
+   "tier": "preclinical",
+   "display": "Chemical characterization and in vivo antioxidant activity of parsley (Petroselinum crispum) aqueous extract",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0917",
    "key": "boucher2020tussilago",
    "type": "article",
@@ -15897,6 +16282,34 @@
    ],
    "scientific": [
     "Prunus serotina"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1468",
+   "key": "liu2020ginseng",
+   "type": "article",
+   "title": "Chemical constituents of Panax ginseng and Panax notoginseng explain why they differ in therapeutic efficacy",
+   "authors": "Liu, H., Lu, X., Hu, Y. and Fan, X.",
+   "journal": "Pharmacological Research",
+   "year": "2020",
+   "doi": "10.1016/j.phrs.2020.105263",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phrs.2020.105263",
+   "link_type": "doi",
+   "citation": "Liu, H., Lu, X., Hu, Y. and Fan, X (2020) 'Chemical constituents of Panax ginseng and Panax notoginseng explain why they differ in therapeutic efficacy', Pharmacological Research, 161, pp. 105263. doi:10.1016/j.phrs.2020.105263",
+   "abstract": "This review compares the chemical constituents (ginsenosides and other compounds) of Panax ginseng and Panax notoginseng and relates them to the differing therapeutic efficacy of the two species.",
+   "tier": "review",
+   "display": "Chemical constituents of Panax ginseng and Panax notoginseng explain why they differ in therapeutic efficacy",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
    ],
    "actions": [],
    "conditions": []
@@ -17455,6 +17868,34 @@
     "Memory",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1469",
+   "key": "fan2020ginseng",
+   "type": "article",
+   "title": "Panax ginseng clinical trials: Current status and future perspectives",
+   "authors": "Fan, S., Zhang, Z., Su, H., Xu, P. and others",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2020",
+   "doi": "10.1016/j.biopha.2020.110832",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2020.110832",
+   "link_type": "doi",
+   "citation": "Fan, S., Zhang, Z., Su, H., Xu, P. and others (2020) 'Panax ginseng clinical trials: Current status and future perspectives', Biomedicine & Pharmacotherapy, 132, pp. 110832. doi:10.1016/j.biopha.2020.110832",
+   "abstract": "This review summarises the current status of Panax ginseng clinical trials, covering its evaluated benefits in cognition, fatigue, immune function, glucose metabolism and cardiovascular health.",
+   "tier": "review",
+   "display": "Panax ginseng clinical trials: Current status and future perspectives",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0490",
@@ -21935,6 +22376,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1471",
+   "key": "arring2018ginseng",
+   "type": "article",
+   "title": "Ginseng as a Treatment for Fatigue: A Systematic Review",
+   "authors": "Arring, N.M., Millstine, D., Marks, L.A. and Nail, L.M.",
+   "journal": "Journal of Alternative and Complementary Medicine",
+   "year": "2018",
+   "doi": "10.1089/acm.2017.0361",
+   "url": "",
+   "link": "https://doi.org/10.1089/acm.2017.0361",
+   "link_type": "doi",
+   "citation": "Arring, N.M., Millstine, D., Marks, L.A. and Nail, L.M (2018) 'Ginseng as a Treatment for Fatigue: A Systematic Review', Journal of Alternative and Complementary Medicine, 24(7), pp. 624-633. doi:10.1089/acm.2017.0361",
+   "abstract": "This systematic review found evidence that ginseng (including Panax ginseng) improves fatigue, supporting its traditional ergogenic, anti-fatigue (tonic) use.",
+   "tier": "review",
+   "display": "Ginseng as a Treatment for Fatigue: A Systematic Review",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [
+    "Physical performance / ergogenic"
+   ],
+   "conditions": [
+    "Fatigue / low energy"
+   ]
+  },
+  {
    "ref_id": "REF-0957",
    "key": "lima2018guarana",
    "type": "article",
@@ -23981,6 +24454,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1466",
+   "key": "mancuso2017ginseng",
+   "type": "article",
+   "title": "Panax ginseng and Panax quinquefolius: From pharmacology to toxicology",
+   "authors": "Mancuso, C. and Santangelo, R.",
+   "journal": "Food and Chemical Toxicology",
+   "year": "2017",
+   "doi": "10.1016/j.fct.2017.07.019",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fct.2017.07.019",
+   "link_type": "doi",
+   "citation": "Mancuso, C. and Santangelo, R (2017) 'Panax ginseng and Panax quinquefolius: From pharmacology to toxicology', Food and Chemical Toxicology, 107(Pt A), pp. 362-372. doi:10.1016/j.fct.2017.07.019",
+   "abstract": "This review of Asian ginseng (Panax ginseng) and American ginseng summarises their ginsenoside pharmacology and toxicology, covering antioxidant, anti-inflammatory, immunomodulatory, neuroprotective and metabolic effects and their safety.",
+   "tier": "review",
+   "display": "Panax ginseng and Panax quinquefolius: From pharmacology to toxicology",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Immunomodulator / immune support",
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0369",
    "key": "ali2017pharmacognosy",
    "type": "article",
@@ -24024,6 +24530,34 @@
     "Loss of appetite",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1473",
+   "key": "ramanathan2017ginseng",
+   "type": "article",
+   "title": "Pharmacokinetic Drug Interactions with Panax ginseng",
+   "authors": "Ramanathan, M.R. and Penzak, S.R.",
+   "journal": "European Journal of Drug Metabolism and Pharmacokinetics",
+   "year": "2017",
+   "doi": "10.1007/s13318-016-0387-5",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13318-016-0387-5",
+   "link_type": "doi",
+   "citation": "Ramanathan, M.R. and Penzak, S.R (2017) 'Pharmacokinetic Drug Interactions with Panax ginseng', European Journal of Drug Metabolism and Pharmacokinetics, 42(4), pp. 545-557. doi:10.1007/s13318-016-0387-5",
+   "abstract": "This review summarises the pharmacokinetic drug interactions of Panax ginseng, informing the safe concurrent use of ginseng with conventional medicines (e.g. warfarin, antidiabetics).",
+   "tier": "review",
+   "display": "Pharmacokinetic Drug Interactions with Panax ginseng",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1273",
@@ -25564,6 +26098,38 @@
    "conditions": [
     "Infection (general)",
     "Urinary tract infection (UTI)"
+   ]
+  },
+  {
+   "ref_id": "REF-1494",
+   "key": "maodaa2016parsley",
+   "type": "article",
+   "title": "Effect of parsley (Petroselinum crispum, Apiaceae) juice against cadmium neurotoxicity in albino mice",
+   "authors": "Maodaa, S.N., Allam, A.A., Ajarem, J., Abdel-Maksoud, M.A. and others",
+   "journal": "Behavioral and Brain Functions",
+   "year": "2016",
+   "doi": "10.1186/s12993-016-0090-3",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12993-016-0090-3",
+   "link_type": "doi",
+   "citation": "Maodaa, S.N., Allam, A.A., Ajarem, J., Abdel-Maksoud, M.A. and others (2016) 'Effect of parsley (Petroselinum crispum, Apiaceae) juice against cadmium neurotoxicity in albino mice', Behavioral and Brain Functions, 12(1), pp. 6. doi:10.1186/s12993-016-0090-3",
+   "abstract": "Parsley (Petroselinum crispum) juice protected against cadmium-induced neurotoxicity and tissue damage in mice, reducing oxidative stress, demonstrating antioxidant and protective (including nephroprotective) effects.",
+   "tier": "preclinical",
+   "display": "Effect of parsley (Petroselinum crispum, Apiaceae) juice against cadmium neurotoxicity in albino mice",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Nephroprotective (kidney support)"
+   ],
+   "conditions": [
+    "Kidney support"
    ]
   },
   {
@@ -28200,6 +28766,35 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1493",
+   "key": "nair2015parsley",
+   "type": "article",
+   "title": "Petroselinum crispum extract attenuates hepatic steatosis in rats fed with fructose enriched diet",
+   "authors": "Nair, V.Y., Balakrishanan, N. and Antony Santiago, J.V.",
+   "journal": "Bratislava Medical Journal",
+   "year": "2015",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Petroselinum%20crispum%20extract%20attenuates%20hepatic%20steatosis%20in%20rats%20fed%20with%20fructose%20enriched%20diet",
+   "link_type": "search",
+   "citation": "Nair, V.Y., Balakrishanan, N. and Antony Santiago, J.V (2015) 'Petroselinum crispum extract attenuates hepatic steatosis in rats fed with fructose enriched diet', Bratislava Medical Journal, 116(9), pp. 547-553.",
+   "abstract": "Parsley (Petroselinum crispum) extract attenuated hepatic steatosis in rats fed a fructose-enriched diet, reducing liver fat and oxidative stress, demonstrating a hepatoprotective effect.",
+   "tier": "preclinical",
+   "display": "Petroselinum crispum extract attenuates hepatic steatosis in rats fed with fructose enriched diet",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Hepatoprotective (liver support)"
    ],
    "conditions": []
   },
@@ -31696,6 +32291,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1482",
+   "key": "aydin2012butterbur",
+   "type": "article",
+   "title": "The medical plant butterbur (Petasites): analytical and physiological (re)view",
+   "authors": "Aydin, A.A., Zerbes, V., Parlar, H. and Letzel, T.",
+   "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+   "year": "2013",
+   "doi": "10.1016/j.jpba.2012.11.028",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jpba.2012.11.028",
+   "link_type": "doi",
+   "citation": "Aydin, A.A., Zerbes, V., Parlar, H. and Letzel, T (2013) 'The medical plant butterbur (Petasites): analytical and physiological (re)view', Journal of Pharmaceutical and Biomedical Analysis, 75, pp. 220-229. doi:10.1016/j.jpba.2012.11.028",
+   "abstract": "This review of butterbur (Petasites) covers the toxic pyrrolizidine alkaloids and the medicinal sesquiterpene (petasin) constituents, with emphasis on analytics and the production of alkaloid-free extracts for safe medicinal use.",
+   "tier": "review",
+   "display": "The medical plant butterbur (Petasites): analytical and physiological (re)view",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0166",
    "key": "mikaili2013therapeutic",
    "type": "article",
@@ -34895,6 +35518,38 @@
    ]
   },
   {
+   "ref_id": "REF-1475",
+   "key": "geng2010ginseng",
+   "type": "article",
+   "title": "Ginseng for cognition",
+   "authors": "Geng, J., Dong, J., Ni, H., Lee, M.S. and others",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2010",
+   "doi": "10.1002/14651858.CD007769.pub2",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD007769.pub2",
+   "link_type": "doi",
+   "citation": "Geng, J., Dong, J., Ni, H., Lee, M.S. and others (2010) 'Ginseng for cognition', Cochrane Database of Systematic Reviews, (12), pp. CD007769. doi:10.1002/14651858.CD007769.pub2",
+   "abstract": "This Cochrane review evaluated ginseng (including Panax ginseng) for cognition, finding some evidence of improved cognitive performance in healthy participants while noting the need for higher-quality trials.",
+   "tier": "review",
+   "display": "Ginseng for cognition",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": [
+    "Cognitive function"
+   ]
+  },
+  {
    "ref_id": "REF-0006",
    "key": "akilen2010glycated",
    "type": "article",
@@ -38066,6 +38721,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1491",
+   "key": "moazedi2007parsley",
+   "type": "article",
+   "title": "Spasmolytic effect of Petroselinum crispum (Parsley) on rat's ileum at different calcium chloride concentrations",
+   "authors": "Moazedi, A.A., Mirzaie, D.N., Seyyednejad, S.M., Zadkarami, M.R. and others",
+   "journal": "Pakistan Journal of Biological Sciences",
+   "year": "2007",
+   "doi": "10.3923/pjbs.2007.4036.4042",
+   "url": "",
+   "link": "https://doi.org/10.3923/pjbs.2007.4036.4042",
+   "link_type": "doi",
+   "citation": "Moazedi, A.A., Mirzaie, D.N., Seyyednejad, S.M., Zadkarami, M.R. and others (2007) 'Spasmolytic effect of Petroselinum crispum (Parsley) on rat's ileum at different calcium chloride concentrations', Pakistan Journal of Biological Sciences, 10(22), pp. 4036-4042. doi:10.3923/pjbs.2007.4036.4042",
+   "abstract": "Parsley (Petroselinum crispum) extract exerted a spasmolytic (smooth-muscle-relaxant) effect on isolated rat ileum, partly via calcium-channel modulation, supporting the carminative, digestive use of parsley.",
+   "tier": "preclinical",
+   "display": "Spasmolytic effect of Petroselinum crispum (Parsley) on rat's ileum at different calcium chloride concentrations",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0311",
    "key": "world2007monographs",
    "type": "book",
@@ -38766,6 +39450,36 @@
    "conditions": [
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1490",
+   "key": "ozsoysacan2005parsley",
+   "type": "article",
+   "title": "Effects of parsley (Petroselinum crispum) extract versus glibornuride on the liver of streptozotocin-induced diabetic rats",
+   "authors": "Ozsoy-Sacan, O., Yanardag, R., Orak, H., Ozgey, Y. and others",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2006",
+   "doi": "10.1016/j.jep.2005.08.069",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2005.08.069",
+   "link_type": "doi",
+   "citation": "Ozsoy-Sacan, O., Yanardag, R., Orak, H., Ozgey, Y. and others (2006) 'Effects of parsley (Petroselinum crispum) extract versus glibornuride on the liver of streptozotocin-induced diabetic rats', Journal of Ethnopharmacology, 104(1-2), pp. 175-181. doi:10.1016/j.jep.2005.08.069",
+   "abstract": "Parsley (Petroselinum crispum) extract protected the liver of streptozotocin-induced diabetic rats, reducing oxidative stress and improving liver markers comparably to glibornuride, demonstrating antioxidant and hepatoprotective effects.",
+   "tier": "preclinical",
+   "display": "Effects of parsley (Petroselinum crispum) extract versus glibornuride on the liver of streptozotocin-induced diabetic rats",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Hepatoprotective (liver support)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0593",
@@ -40233,6 +40947,70 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1481",
+   "key": "danesch2004butterbur",
+   "type": "article",
+   "title": "Petasites hybridus (Butterbur root) extract in the treatment of asthma--an open trial",
+   "authors": "Danesch, U.C.",
+   "journal": "Alternative Medicine Review",
+   "year": "2004",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Petasites%20hybridus%20%28Butterbur%20root%29%20extract%20in%20the%20treatment%20of%20asthma--an%20open%20trial",
+   "link_type": "search",
+   "citation": "Danesch, U.C (2004) 'Petasites hybridus (Butterbur root) extract in the treatment of asthma--an open trial', Alternative Medicine Review, 9(1), pp. 54-62.",
+   "abstract": "In an open trial, a butterbur (Petasites hybridus) root extract reduced the number, duration and severity of asthma attacks and improved peak flow and FEV1, with many patients reducing their asthma medication, supporting an antispasmodic/bronchodilator use of butterbur.",
+   "tier": "clinical",
+   "display": "Petasites hybridus (Butterbur root) extract in the treatment of asthma--an open trial",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [
+    "Antispasmodic",
+    "Bronchodilator / anti-asthmatic"
+   ],
+   "conditions": [
+    "Asthma"
+   ]
+  },
+  {
+   "ref_id": "REF-1479",
+   "key": "lipton2004butterbur",
+   "type": "article",
+   "title": "Petasites hybridus root (butterbur) is an effective preventive treatment for migraine",
+   "authors": "Lipton, R.B., Gobel, H., Einhaupl, K.M., Wilks, K. and Mauskop, A.",
+   "journal": "Neurology",
+   "year": "2004",
+   "doi": "10.1212/01.wnl.0000147290.68260.11",
+   "url": "",
+   "link": "https://doi.org/10.1212/01.wnl.0000147290.68260.11",
+   "link_type": "doi",
+   "citation": "Lipton, R.B., Gobel, H., Einhaupl, K.M., Wilks, K. and Mauskop, A (2004) 'Petasites hybridus root (butterbur) is an effective preventive treatment for migraine', Neurology, 63(12), pp. 2240-2244. doi:10.1212/01.wnl.0000147290.68260.11",
+   "abstract": "In a randomized controlled trial, a standardized butterbur (Petasites hybridus) root extract 75 mg twice daily reduced migraine attack frequency by 48% (vs 26% placebo) and was well tolerated, establishing butterbur as an effective preventive treatment for migraine.",
+   "tier": "rct",
+   "display": "Petasites hybridus root (butterbur) is an effective preventive treatment for migraine",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Headache",
+    "Migraine"
+   ]
+  },
+  {
    "ref_id": "REF-0316",
    "key": "zakay2004efficacy",
    "type": "article",
@@ -40354,6 +41132,38 @@
     "Menstrual cramps",
     "Muscle spasm",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1478",
+   "key": "brattstrom2003butterbur",
+   "type": "article",
+   "title": "A newly developed extract (Ze 339) from butterbur (Petasites hybridus L.) is clinically efficient in allergic rhinitis (hay fever)",
+   "authors": "Brattstrom, A.",
+   "journal": "Phytomedicine",
+   "year": "2003",
+   "doi": "10.1078/1433-187x-00304",
+   "url": "",
+   "link": "https://doi.org/10.1078/1433-187x-00304",
+   "link_type": "doi",
+   "citation": "Brattstrom, A (2003) 'A newly developed extract (Ze 339) from butterbur (Petasites hybridus L.) is clinically efficient in allergic rhinitis (hay fever)', Phytomedicine, 10(Suppl 4), pp. 50-52. doi:10.1078/1433-187x-00304",
+   "abstract": "This review reports that a standardized butterbur (Petasites hybridus) extract (Ze 339) is clinically efficient in allergic rhinitis (hay fever), comparable to non-sedating antihistamines, supporting the antihistaminic use of butterbur.",
+   "tier": "review",
+   "display": "A newly developed extract (Ze 339) from butterbur (Petasites hybridus L.) is clinically efficient in allergic rhinitis (hay fever)",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [
+    "Antihistaminic / antiallergic"
+   ],
+   "conditions": [
+    "Allergy / hay fever"
    ]
   },
   {
@@ -41009,6 +41819,35 @@
    ]
   },
   {
+   "ref_id": "REF-1492",
+   "key": "alhowiriny2003parsley",
+   "type": "article",
+   "title": "Prevention of experimentally-induced gastric ulcers in rats by an ethanolic extract of 'Parsley' Petroselinum crispum",
+   "authors": "Al-Howiriny, T., Al-Sohaibani, M., El-Tahir, K. and Rafatullah, S.",
+   "journal": "The American Journal of Chinese Medicine",
+   "year": "2003",
+   "doi": "10.1142/S0192415X03001405",
+   "url": "",
+   "link": "https://doi.org/10.1142/S0192415X03001405",
+   "link_type": "doi",
+   "citation": "Al-Howiriny, T., Al-Sohaibani, M., El-Tahir, K. and Rafatullah, S (2003) 'Prevention of experimentally-induced gastric ulcers in rats by an ethanolic extract of 'Parsley' Petroselinum crispum', The American Journal of Chinese Medicine, 31(5), pp. 699-711. doi:10.1142/S0192415X03001405",
+   "abstract": "An ethanolic extract of parsley (Petroselinum crispum) prevented experimentally-induced gastric ulcers in rats, exerting gastroprotective and antisecretory effects, supporting its traditional digestive/stomach-tonic use.",
+   "tier": "preclinical",
+   "display": "Prevention of experimentally-induced gastric ulcers in rats by an ethanolic extract of 'Parsley' Petroselinum crispum",
+   "plants": [
+    "Curly parsley",
+    "Garden parsley",
+    "Parsley"
+   ],
+   "scientific": [
+    "Petroselinum crispum"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0194",
    "key": "petersen2003rosmarinic",
    "type": "article",
@@ -41061,6 +41900,37 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1477",
+   "key": "kalin2003butterbur",
+   "type": "article",
+   "title": "The common butterbur (Petasites hybridus)--portrait of a medicinal herb",
+   "authors": "Kalin, P.",
+   "journal": "Forschende Komplementarmedizin und Klassische Naturheilkunde",
+   "year": "2003",
+   "doi": "10.1159/000071691",
+   "url": "",
+   "link": "https://doi.org/10.1159/000071691",
+   "link_type": "doi",
+   "citation": "Kalin, P (2003) 'The common butterbur (Petasites hybridus)--portrait of a medicinal herb', Forschende Komplementarmedizin und Klassische Naturheilkunde, 10(Suppl 1), pp. 41-44. doi:10.1159/000071691",
+   "abstract": "This review of butterbur (Petasites hybridus) describes how its petasin sesquiterpenes inhibit leukotriene synthesis and reduce intracellular calcium, explaining its anti-inflammatory and spasmolytic properties used in migraine prophylaxis, headache, hay fever and asthma, and notes that supercritical-CO2 extraction removes the hepatotoxic pyrrolizidine alkaloids.",
+   "tier": "review",
+   "display": "The common butterbur (Petasites hybridus)--portrait of a medicinal herb",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [
+    "Antihistaminic / antiallergic",
+    "Antispasmodic"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1174",
@@ -42115,6 +42985,36 @@
     "Mentha × piperita"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1484",
+   "key": "altmedrev2001butterbur",
+   "type": "article",
+   "title": "Monograph: Petasites hybridus",
+   "authors": "Alternative Medicine Review",
+   "journal": "Alternative Medicine Review",
+   "year": "2001",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Monograph%3A%20Petasites%20hybridus",
+   "link_type": "search",
+   "citation": "Alternative Medicine Review (2001) 'Monograph: Petasites hybridus', Alternative Medicine Review, 6(2), pp. 207-209.",
+   "abstract": "This monograph on butterbur (Petasites hybridus) summarises its traditional and current therapeutic uses - prophylactic treatment of migraine and antispasmodic treatment of chronic cough, asthma, gastric ulcers and irritable bladder - and its constituents.",
+   "tier": "review",
+   "display": "Monograph: Petasites hybridus",
+   "plants": [
+    "Bog rhubarb",
+    "Butterbur",
+    "Pestilence wort",
+    "Umbrella plant"
+   ],
+   "scientific": [
+    "Petasites hybridus"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
    "conditions": []
   },
   {

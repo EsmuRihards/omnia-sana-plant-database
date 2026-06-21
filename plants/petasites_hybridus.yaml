@@ -16,6 +16,11 @@ constituents:
   note: The anti-inflammatory and antispasmodic active principles; standardised in commercial extracts.
   reference_ids:
   - REF-0426
+  - REF-1477
+  - REF-1480
+  - REF-1482
+  - REF-1484
+  - REF-1485
 - name: Pyrrolizidine alkaloids (PAs)
   compounds:
   - alkaloid
@@ -30,16 +35,24 @@ actions:
   reference_ids:
   - REF-0426
   - REF-0544
+  - REF-1477
+  - REF-1478
+  - REF-1483
   status: verified
 - action: antispasmodic
   note: Antispasmodic support in bronchial asthma
   reference_ids:
   - REF-0426
+  - REF-1477
+  - REF-1481
+  - REF-1483
+  - REF-1484
   status: needs-review
 - action: bronchodilator
   note: Antispasmodic support in bronchial asthma
   reference_ids:
   - REF-0426
+  - REF-1481
   status: needs-review
 indications:
 - condition: allergy
@@ -49,11 +62,13 @@ indications:
   reference_ids:
   - REF-0426
   - REF-0544
+  - REF-1478
   status: verified
 - condition: asthma
   note: Antispasmodic support in bronchial asthma
   reference_ids:
   - REF-0426
+  - REF-1481
   status: needs-review
 - condition: cough
   note: inferred from bronchodilator action
@@ -72,6 +87,7 @@ indications:
   reference_ids:
   - REF-0426
   - REF-0543
+  - REF-1479
   status: verified
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
@@ -84,6 +100,7 @@ indications:
   reference_ids:
   - REF-0426
   - REF-0543
+  - REF-1479
   status: verified
 - condition: muscle-spasm
   note: inferred from antispasmodic action
@@ -104,13 +121,27 @@ contraindications:
   reference_ids:
   - REF-0426
   status: verified
+references:
+- REF-1476
+- REF-1477
+- REF-1478
+- REF-1479
+- REF-1480
+- REF-1481
+- REF-1482
+- REF-1483
+- REF-1484
+- REF-1485
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-13'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in Review integrative-medicine
   review). Further enriched 2026-06-13 with two PubMed sources: a randomised placebo-controlled migraine-prophylaxis
   trial (REF-0543, Grossmann & Schmidramsl 2000) and a systematic review of herbal medicines for allergic
   rhinitis covering six butterbur RCTs (REF-0544, Guo et al. 2007). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (migraine, allergy, headache, asthma); associations retained
   and now part-mapped and cited. CRITICAL: PA-free extracts only - see contraindications. | 2026-06-15:
-  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
+  | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1476,
+  REF-1477, REF-1478, REF-1479, REF-1480, REF-1481, REF-1482, REF-1483, REF-1484, REF-1485) — woven into
+  relevant actions/indications and the plant-level references bucket.'

@@ -17,6 +17,7 @@ constituents:
   reference_ids:
   - REF-0489
   - REF-0546
+  - REF-1486
 - name: Essential oil (apiole and myristicin)
   compounds:
   - essential-oil
@@ -41,6 +42,12 @@ actions:
   reference_ids:
   - REF-0489
   - REF-0546
+  - REF-1486
+  - REF-1487
+  - REF-1489
+  - REF-1490
+  - REF-1494
+  - REF-1495
   status: verified
 - action: carminative
   note: Carminative digestive and stomach tonic (bloating, indigestion)
@@ -51,6 +58,8 @@ actions:
   note: Carminative digestive and stomach tonic (bloating, indigestion)
   reference_ids:
   - REF-0489
+  - REF-1491
+  - REF-1492
   status: verified
 - action: diuretic
   note: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
@@ -66,12 +75,16 @@ actions:
   reference_ids:
   - REF-0489
   - REF-0546
+  - REF-1488
+  - REF-1490
+  - REF-1493
   status: verified
 - action: nephroprotective
   note: Antioxidant, nephroprotective and hepatoprotective
   reference_ids:
   - REF-0489
   - REF-0546
+  - REF-1494
   status: verified
 indications:
 - condition: bad-breath
@@ -100,12 +113,14 @@ indications:
   reference_ids:
   - REF-0489
   - REF-0546
+  - REF-1494
   status: needs-review
 - condition: liver-support
   note: inferred from hepatoprotective action
   reference_ids:
   - REF-0489
   - REF-0546
+  - REF-1488
   status: needs-review
 - condition: swelling
   note: Diuretic - reduces fluid retention/swelling and supports urinary and kidney function (traditionally
@@ -144,13 +159,26 @@ contraindications:
   - REF-0489
   - REF-0546
   status: needs-review
+references:
+- REF-1486
+- REF-1487
+- REF-1488
+- REF-1489
+- REF-1490
+- REF-1491
+- REF-1492
+- REF-1493
+- REF-1494
+- REF-1495
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-13'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley).
   Further enriched 2026-06-13 with two PubMed studies - a diuretic mechanism-of-action study (REF-0545,
   Kreydiyyeh & Usta 2002) and a constituents/medicinal review (REF-0546, Mahmood et al. 2014); a furanocoumarins
   constituent was added. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (swelling, kidney-support, bloating, bad-breath); associations retained and now part-mapped and
   cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
+  @article sources (REF-1486, REF-1487, REF-1488, REF-1489, REF-1490, REF-1491, REF-1492, REF-1493, REF-1494,
+  REF-1495) — woven into relevant actions/indications and the plant-level references bucket.'

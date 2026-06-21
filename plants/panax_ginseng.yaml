@@ -14,6 +14,8 @@ actions:
   - REF-0014
   - REF-0137
   - REF-0192
+  - REF-1466
+  - REF-1472
   status: verified
 - action: antidiabetic
   reference_ids:
@@ -26,6 +28,8 @@ actions:
   - REF-0014
   - REF-0137
   - REF-0192
+  - REF-1466
+  - REF-1472
   status: verified
 - action: ergogenic
   note: Physical performance / strength improvement
@@ -33,18 +37,25 @@ actions:
   - REF-0014
   - REF-0137
   - REF-0192
+  - REF-1471
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0014
   - REF-0137
   - REF-0192
+  - REF-1466
+  - REF-1472
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0014
   - REF-0137
   - REF-0192
+  - REF-1466
+  - REF-1470
+  - REF-1474
+  - REF-1475
   status: verified
 indications:
 - condition: arthritis
@@ -73,6 +84,8 @@ indications:
   - REF-0014
   - REF-0137
   - REF-0192
+  - REF-1474
+  - REF-1475
   status: needs-review
 - condition: cold
   note: inferred from immunomodulator action
@@ -87,6 +100,7 @@ indications:
   - REF-0014
   - REF-0137
   - REF-0192
+  - REF-1471
   status: needs-review
 - condition: immune-support
   reference_ids:
@@ -107,6 +121,7 @@ indications:
   - REF-0014
   - REF-0137
   - REF-0192
+  - REF-1474
   status: needs-review
 - condition: metabolic-support
   reference_ids:
@@ -151,11 +166,25 @@ contraindications:
   - REF-0137
   - REF-0192
   status: verified
-provenance: book
+references:
+- REF-1466
+- REF-1467
+- REF-1468
+- REF-1469
+- REF-1470
+- REF-1471
+- REF-1472
+- REF-1473
+- REF-1474
+- REF-1475
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1466, REF-1467, REF-1468, REF-1469, REF-1470,
+  REF-1471, REF-1472, REF-1473, REF-1474, REF-1475) — woven into relevant actions/indications and the
+  plant-level references bucket.'

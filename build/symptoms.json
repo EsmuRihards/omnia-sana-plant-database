@@ -4424,12 +4424,13 @@
     {
      "condition": "allergy",
      "label": "Allergy / hay fever",
-     "evidence": 7,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0426",
-      "REF-0544"
+      "REF-0544",
+      "REF-1478"
      ]
     },
     {
@@ -4446,33 +4447,36 @@
     {
      "condition": "headache",
      "label": "Headache",
-     "evidence": 5,
+     "evidence": 6,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0426",
-      "REF-0543"
+      "REF-0543",
+      "REF-1479"
      ]
     },
     {
      "condition": "migraine",
      "label": "Migraine",
-     "evidence": 5,
+     "evidence": 6,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0426",
-      "REF-0543"
+      "REF-0543",
+      "REF-1479"
      ]
     },
     {
      "condition": "asthma",
      "label": "Asthma",
-     "evidence": 2,
+     "evidence": 3,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0426"
+      "REF-0426",
+      "REF-1481"
      ]
     },
     {
@@ -14935,6 +14939,46 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0014",
+      "REF-0137",
+      "REF-0192",
+      "REF-1474",
+      "REF-1475"
+     ]
+    },
+    {
+     "condition": "fatigue",
+     "label": "Fatigue / low energy",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0014",
+      "REF-0137",
+      "REF-0192",
+      "REF-1471"
+     ]
+    },
+    {
+     "condition": "memory",
+     "label": "Memory",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0014",
+      "REF-0137",
+      "REF-0192",
+      "REF-1474"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 5,
@@ -14971,32 +15015,8 @@
      ]
     },
     {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0014",
-      "REF-0137",
-      "REF-0192"
-     ]
-    },
-    {
      "condition": "cold",
      "label": "Cold & flu",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0014",
-      "REF-0137",
-      "REF-0192"
-     ]
-    },
-    {
-     "condition": "fatigue",
-     "label": "Fatigue / low energy",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
@@ -15021,18 +15041,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0014",
-      "REF-0137",
-      "REF-0192"
-     ]
-    },
-    {
-     "condition": "memory",
-     "label": "Memory",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
@@ -15135,7 +15143,8 @@
      "inferred": true,
      "references": [
       "REF-0489",
-      "REF-0546"
+      "REF-0546",
+      "REF-1494"
      ]
     },
     {
@@ -15146,7 +15155,8 @@
      "inferred": true,
      "references": [
       "REF-0489",
-      "REF-0546"
+      "REF-0546",
+      "REF-1488"
      ]
     },
     {

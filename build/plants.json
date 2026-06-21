@@ -21221,7 +21221,9 @@
      "reference_ids": [
       "REF-0014",
       "REF-0137",
-      "REF-0192"
+      "REF-0192",
+      "REF-1466",
+      "REF-1472"
      ],
      "status": "verified"
     },
@@ -21239,7 +21241,9 @@
      "reference_ids": [
       "REF-0014",
       "REF-0137",
-      "REF-0192"
+      "REF-0192",
+      "REF-1466",
+      "REF-1472"
      ],
      "status": "verified"
     },
@@ -21249,7 +21253,8 @@
      "reference_ids": [
       "REF-0014",
       "REF-0137",
-      "REF-0192"
+      "REF-0192",
+      "REF-1471"
      ],
      "status": "verified"
     },
@@ -21258,7 +21263,9 @@
      "reference_ids": [
       "REF-0014",
       "REF-0137",
-      "REF-0192"
+      "REF-0192",
+      "REF-1466",
+      "REF-1472"
      ],
      "status": "verified"
     },
@@ -21267,7 +21274,11 @@
      "reference_ids": [
       "REF-0014",
       "REF-0137",
-      "REF-0192"
+      "REF-0192",
+      "REF-1466",
+      "REF-1470",
+      "REF-1474",
+      "REF-1475"
      ],
      "status": "verified"
     }
@@ -21308,7 +21319,9 @@
      "reference_ids": [
       "REF-0014",
       "REF-0137",
-      "REF-0192"
+      "REF-0192",
+      "REF-1474",
+      "REF-1475"
      ],
      "status": "needs-review"
     },
@@ -21328,7 +21341,8 @@
      "reference_ids": [
       "REF-0014",
       "REF-0137",
-      "REF-0192"
+      "REF-0192",
+      "REF-1471"
      ],
      "status": "needs-review"
     },
@@ -21357,7 +21371,8 @@
      "reference_ids": [
       "REF-0014",
       "REF-0137",
-      "REF-0192"
+      "REF-0192",
+      "REF-1474"
      ],
      "status": "needs-review"
     },
@@ -21413,9 +21428,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1466",
+    "REF-1467",
+    "REF-1468",
+    "REF-1469",
+    "REF-1470",
+    "REF-1471",
+    "REF-1472",
+    "REF-1473",
+    "REF-1474",
+    "REF-1475"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "passiflora-incarnata",
@@ -21840,7 +21867,12 @@
      ],
      "note": "The anti-inflammatory and antispasmodic active principles; standardised in commercial extracts.",
      "reference_ids": [
-      "REF-0426"
+      "REF-0426",
+      "REF-1477",
+      "REF-1480",
+      "REF-1482",
+      "REF-1484",
+      "REF-1485"
      ]
     },
     {
@@ -21860,7 +21892,10 @@
      "note": "Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic review found it superior to placebo and comparable to non-sedating antihistamines for intermittent allergic rhinitis)",
      "reference_ids": [
       "REF-0426",
-      "REF-0544"
+      "REF-0544",
+      "REF-1477",
+      "REF-1478",
+      "REF-1483"
      ],
      "status": "verified"
     },
@@ -21868,7 +21903,11 @@
      "action": "antispasmodic",
      "note": "Antispasmodic support in bronchial asthma",
      "reference_ids": [
-      "REF-0426"
+      "REF-0426",
+      "REF-1477",
+      "REF-1481",
+      "REF-1483",
+      "REF-1484"
      ],
      "status": "needs-review"
     },
@@ -21876,7 +21915,8 @@
      "action": "bronchodilator",
      "note": "Antispasmodic support in bronchial asthma",
      "reference_ids": [
-      "REF-0426"
+      "REF-0426",
+      "REF-1481"
      ],
      "status": "needs-review"
     }
@@ -21887,7 +21927,8 @@
      "note": "Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic review found it superior to placebo and comparable to non-sedating antihistamines for intermittent allergic rhinitis)",
      "reference_ids": [
       "REF-0426",
-      "REF-0544"
+      "REF-0544",
+      "REF-1478"
      ],
      "status": "verified"
     },
@@ -21895,7 +21936,8 @@
      "condition": "asthma",
      "note": "Antispasmodic support in bronchial asthma",
      "reference_ids": [
-      "REF-0426"
+      "REF-0426",
+      "REF-1481"
      ],
      "status": "needs-review"
     },
@@ -21920,7 +21962,8 @@
      "condition": "headache",
      "reference_ids": [
       "REF-0426",
-      "REF-0543"
+      "REF-0543",
+      "REF-1479"
      ],
      "status": "verified"
     },
@@ -21937,7 +21980,8 @@
      "note": "Migraine prophylaxis (reduces attack frequency; up to ~60% reduction vs placebo in a randomised controlled trial of a standardised CO2 root extract)",
      "reference_ids": [
       "REF-0426",
-      "REF-0543"
+      "REF-0543",
+      "REF-1479"
      ],
      "status": "verified"
     },
@@ -21968,9 +22012,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1476",
+    "REF-1477",
+    "REF-1478",
+    "REF-1479",
+    "REF-1480",
+    "REF-1481",
+    "REF-1482",
+    "REF-1483",
+    "REF-1484",
+    "REF-1485"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-13"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "petroselinum-crispum",
@@ -21995,7 +22051,8 @@
      "note": "Antioxidant and anti-inflammatory constituents.",
      "reference_ids": [
       "REF-0489",
-      "REF-0546"
+      "REF-0546",
+      "REF-1486"
      ]
     },
     {
@@ -22035,7 +22092,13 @@
      "note": "Antioxidant, nephroprotective and hepatoprotective",
      "reference_ids": [
       "REF-0489",
-      "REF-0546"
+      "REF-0546",
+      "REF-1486",
+      "REF-1487",
+      "REF-1489",
+      "REF-1490",
+      "REF-1494",
+      "REF-1495"
      ],
      "status": "verified"
     },
@@ -22051,7 +22114,9 @@
      "action": "digestive",
      "note": "Carminative digestive and stomach tonic (bloating, indigestion)",
      "reference_ids": [
-      "REF-0489"
+      "REF-0489",
+      "REF-1491",
+      "REF-1492"
      ],
      "status": "verified"
     },
@@ -22070,7 +22135,10 @@
      "note": "Antioxidant, nephroprotective and hepatoprotective",
      "reference_ids": [
       "REF-0489",
-      "REF-0546"
+      "REF-0546",
+      "REF-1488",
+      "REF-1490",
+      "REF-1493"
      ],
      "status": "verified"
     },
@@ -22079,7 +22147,8 @@
      "note": "Antioxidant, nephroprotective and hepatoprotective",
      "reference_ids": [
       "REF-0489",
-      "REF-0546"
+      "REF-0546",
+      "REF-1494"
      ],
      "status": "verified"
     }
@@ -22123,7 +22192,8 @@
      "note": "inferred from nephroprotective action",
      "reference_ids": [
       "REF-0489",
-      "REF-0546"
+      "REF-0546",
+      "REF-1494"
      ],
      "status": "needs-review"
     },
@@ -22132,7 +22202,8 @@
      "note": "inferred from hepatoprotective action",
      "reference_ids": [
       "REF-0489",
-      "REF-0546"
+      "REF-0546",
+      "REF-1488"
      ],
      "status": "needs-review"
     },
@@ -22186,9 +22257,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1486",
+    "REF-1487",
+    "REF-1488",
+    "REF-1489",
+    "REF-1490",
+    "REF-1491",
+    "REF-1492",
+    "REF-1493",
+    "REF-1494",
+    "REF-1495"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-13"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "pimpinella-anisum",

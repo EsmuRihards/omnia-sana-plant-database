@@ -15,6 +15,8 @@ constituents:
   reference_ids:
   - REF-0393
   - REF-0394
+  - REF-1616
+  - REF-1617
 - name: Flavonoids
   compounds:
   - flavonoid
@@ -32,12 +34,18 @@ actions:
   reference_ids:
   - REF-0393
   - REF-0394
+  - REF-1616
+  - REF-1621
+  - REF-1623
   status: verified
 - action: antimicrobial
   note: Antimicrobial and antiviral
   reference_ids:
   - REF-0393
   - REF-0394
+  - REF-1615
+  - REF-1620
+  - REF-1622
   status: verified
 - action: antipyretic
   note: Antipyretic (fever)
@@ -50,6 +58,9 @@ actions:
   reference_ids:
   - REF-0393
   - REF-0394
+  - REF-1615
+  - REF-1619
+  - REF-1622
   status: verified
 - action: immunomodulator
   note: Immunostimulant / immune support
@@ -136,11 +147,24 @@ contraindications:
   - REF-0395
   - REF-0393
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-1615
+- REF-1616
+- REF-1617
+- REF-1618
+- REF-1619
+- REF-1620
+- REF-1621
+- REF-1622
+- REF-1623
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy
   Research and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
   retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 9 PubMed-verified @article sources (REF-1615, REF-1616, REF-1617, REF-1618, REF-1619,
+  REF-1620, REF-1621, REF-1622, REF-1623) — woven into relevant actions/indications and the plant-level
+  references bucket.'

@@ -16,12 +16,15 @@ constituents:
   reference_ids:
   - REF-0436
   - REF-0558
+  - REF-1624
+  - REF-1625
 - name: Phenolic compounds
   compounds:
   - phenolic-compound
   note: Contribute to antioxidant and anti-inflammatory activity.
   reference_ids:
   - REF-0436
+  - REF-1628
 - name: Potassium salts, polysaccharides and saponins
   compounds:
   - polysaccharide
@@ -29,16 +32,25 @@ constituents:
   note: Associated with the diuretic and demulcent actions.
   reference_ids:
   - REF-0436
+  - REF-1630
+  - REF-1633
 actions:
 - action: anti-inflammatory
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0436
+  - REF-1625
+  - REF-1626
+  - REF-1627
+  - REF-1631
   status: verified
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0436
+  - REF-1624
+  - REF-1627
+  - REF-1632
   status: verified
 - action: demulcent
   note: Soothing demulcent for urinary-tract irritation and mild urinary infections; supports kidney function
@@ -52,6 +64,7 @@ actions:
   reference_ids:
   - REF-0436
   - REF-0557
+  - REF-1632
   status: verified
 indications:
 - condition: arthritis
@@ -125,13 +138,26 @@ contraindications:
   - REF-0436
   - REF-0558
   status: needs-review
+references:
+- REF-1624
+- REF-1625
+- REF-1626
+- REF-1627
+- REF-1628
+- REF-1629
+- REF-1630
+- REF-1631
+- REF-1632
+- REF-1633
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-13'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological
   review). Further enriched 2026-06-13 with two PubMed studies - a renal diuretic mechanism study in conscious
   rats (REF-0557, Velazquez et al. 2005) and a gestational toxicology study confirming maysin as the predominant
   flavonoid (REF-0558, Caixeta et al. 2025). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (uti, swelling, kidney-support); associations retained and now part-mapped and cited. |
   2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds).'
+  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
+  sources (REF-1624, REF-1625, REF-1626, REF-1627, REF-1628, REF-1629, REF-1630, REF-1631, REF-1632, REF-1633)
+  — woven into relevant actions/indications and the plant-level references bucket.'

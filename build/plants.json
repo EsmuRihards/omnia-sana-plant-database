@@ -2534,7 +2534,9 @@
      "note": "Andrographolide is the principal active compound; also neoandrographolide and deoxyandrographolide.",
      "reference_ids": [
       "REF-0393",
-      "REF-0394"
+      "REF-0394",
+      "REF-1616",
+      "REF-1617"
      ]
     },
     {
@@ -2563,7 +2565,10 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0393",
-      "REF-0394"
+      "REF-0394",
+      "REF-1616",
+      "REF-1621",
+      "REF-1623"
      ],
      "status": "verified"
     },
@@ -2572,7 +2577,10 @@
      "note": "Antimicrobial and antiviral",
      "reference_ids": [
       "REF-0393",
-      "REF-0394"
+      "REF-0394",
+      "REF-1615",
+      "REF-1620",
+      "REF-1622"
      ],
      "status": "verified"
     },
@@ -2590,7 +2598,10 @@
      "note": "Antimicrobial and antiviral",
      "reference_ids": [
       "REF-0393",
-      "REF-0394"
+      "REF-0394",
+      "REF-1615",
+      "REF-1619",
+      "REF-1622"
      ],
      "status": "verified"
     },
@@ -2716,9 +2727,20 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-1615",
+    "REF-1616",
+    "REF-1617",
+    "REF-1618",
+    "REF-1619",
+    "REF-1620",
+    "REF-1621",
+    "REF-1622",
+    "REF-1623"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "anethum-graveolens",
@@ -34048,7 +34070,8 @@
      ],
      "note": "Bind dopamine D2 receptors in the pituitary, reducing prolactin release - the key mechanism.",
      "reference_ids": [
-      "REF-0435"
+      "REF-0435",
+      "REF-1613"
      ]
     },
     {
@@ -34069,7 +34092,8 @@
      ],
      "note": "Characteristic constituents used in standardisation.",
      "reference_ids": [
-      "REF-0434"
+      "REF-0434",
+      "REF-1614"
      ]
     }
    ],
@@ -34084,12 +34108,17 @@
     },
     {
      "condition": "menopause",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-1612"
+     ],
      "status": "needs-review"
     },
     {
      "condition": "menstrual-cramps",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-0433",
+      "REF-1610"
+     ],
      "status": "needs-review"
     },
     {
@@ -34097,7 +34126,10 @@
      "note": "Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping",
      "reference_ids": [
       "REF-0433",
-      "REF-0435"
+      "REF-0435",
+      "REF-1609",
+      "REF-1610",
+      "REF-1613"
      ],
      "status": "verified"
     },
@@ -34106,7 +34138,13 @@
      "note": "Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping; Relief of premenstrual syndrome (PMS) symptoms",
      "reference_ids": [
       "REF-0433",
-      "REF-0435"
+      "REF-0435",
+      "REF-1607",
+      "REF-1608",
+      "REF-1609",
+      "REF-1610",
+      "REF-1611",
+      "REF-1613"
      ],
      "status": "verified"
     }
@@ -34137,9 +34175,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "website+symptom-tool",
+   "references": [
+    "REF-0433",
+    "REF-1607",
+    "REF-1608",
+    "REF-1609",
+    "REF-1610",
+    "REF-1611",
+    "REF-1612",
+    "REF-0434",
+    "REF-1613",
+    "REF-1614"
+   ],
+   "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "withania-somnifera",
@@ -34526,7 +34576,9 @@
      "note": "Major antioxidant constituents of corn silk; maysin is the predominant flavonoid quantified in standardised extracts.",
      "reference_ids": [
       "REF-0436",
-      "REF-0558"
+      "REF-0558",
+      "REF-1624",
+      "REF-1625"
      ]
     },
     {
@@ -34536,7 +34588,8 @@
      ],
      "note": "Contribute to antioxidant and anti-inflammatory activity.",
      "reference_ids": [
-      "REF-0436"
+      "REF-0436",
+      "REF-1628"
      ]
     },
     {
@@ -34547,7 +34600,9 @@
      ],
      "note": "Associated with the diuretic and demulcent actions.",
      "reference_ids": [
-      "REF-0436"
+      "REF-0436",
+      "REF-1630",
+      "REF-1633"
      ]
     }
    ],
@@ -34556,7 +34611,11 @@
      "action": "anti-inflammatory",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0436"
+      "REF-0436",
+      "REF-1625",
+      "REF-1626",
+      "REF-1627",
+      "REF-1631"
      ],
      "status": "verified"
     },
@@ -34564,7 +34623,10 @@
      "action": "antioxidant",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0436"
+      "REF-0436",
+      "REF-1624",
+      "REF-1627",
+      "REF-1632"
      ],
      "status": "verified"
     },
@@ -34581,7 +34643,8 @@
      "note": "Diuretic - increases urine output to support the urinary tract and mild fluid retention/swelling; in conscious rats the aqueous extract is diuretic and kaliuretic and modifies glomerular filtration and potassium excretion",
      "reference_ids": [
       "REF-0436",
-      "REF-0557"
+      "REF-0557",
+      "REF-1632"
      ],
      "status": "verified"
     }
@@ -34687,9 +34750,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1624",
+    "REF-1625",
+    "REF-1626",
+    "REF-1627",
+    "REF-1628",
+    "REF-1629",
+    "REF-1630",
+    "REF-1631",
+    "REF-1632",
+    "REF-1633"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-13"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "zingiber-officinale",

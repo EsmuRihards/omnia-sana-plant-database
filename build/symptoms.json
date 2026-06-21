@@ -5552,23 +5552,43 @@
     {
      "condition": "pain",
      "label": "Pain (general)",
-     "evidence": 8,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0433",
-      "REF-0435"
+      "REF-0435",
+      "REF-1609",
+      "REF-1610",
+      "REF-1613"
      ]
     },
     {
      "condition": "pms",
      "label": "PMS / premenstrual syndrome",
-     "evidence": 8,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0433",
-      "REF-0435"
+      "REF-0435",
+      "REF-1607",
+      "REF-1608",
+      "REF-1609",
+      "REF-1610",
+      "REF-1611",
+      "REF-1613"
+     ]
+    },
+    {
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0433",
+      "REF-1610"
      ]
     },
     {
@@ -5584,18 +5604,12 @@
     {
      "condition": "menopause",
      "label": "Menopause",
-     "evidence": 1,
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
-     "references": []
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
+     "references": [
+      "REF-1612"
+     ]
     }
    ]
   },

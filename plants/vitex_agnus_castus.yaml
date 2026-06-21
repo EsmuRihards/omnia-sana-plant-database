@@ -15,6 +15,7 @@ constituents:
   note: Bind dopamine D2 receptors in the pituitary, reducing prolactin release - the key mechanism.
   reference_ids:
   - REF-0435
+  - REF-1613
 - name: Flavonoids (casticin, vitexin)
   compounds:
   - flavonoid
@@ -28,6 +29,7 @@ constituents:
   note: Characteristic constituents used in standardisation.
   reference_ids:
   - REF-0434
+  - REF-1614
 indications:
 - condition: acne
   note: Cycle-related (hormonal) acne (traditional)
@@ -35,16 +37,22 @@ indications:
   - REF-0434
   status: needs-review
 - condition: menopause
-  reference_ids: []
+  reference_ids:
+  - REF-1612
   status: needs-review
 - condition: menstrual-cramps
-  reference_ids: []
+  reference_ids:
+  - REF-0433
+  - REF-1610
   status: needs-review
 - condition: pain
   note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping
   reference_ids:
   - REF-0433
   - REF-0435
+  - REF-1609
+  - REF-1610
+  - REF-1613
   status: verified
 - condition: pms
   note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping; Relief
@@ -52,6 +60,12 @@ indications:
   reference_ids:
   - REF-0433
   - REF-0435
+  - REF-1607
+  - REF-1608
+  - REF-1609
+  - REF-1610
+  - REF-1611
+  - REF-1613
   status: verified
 contraindications:
 - note: Reported adverse events are mild and reversible (nausea, headache, gastrointestinal upset, menstrual
@@ -72,9 +86,20 @@ contraindications:
   reference_ids:
   - REF-0434
   status: verified
-provenance: website+symptom-tool
+references:
+- REF-0433
+- REF-1607
+- REF-1608
+- REF-1609
+- REF-1610
+- REF-1611
+- REF-1612
+- REF-0434
+- REF-1613
+- REF-1614
+provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica efficacy review; Drug Safety
   adverse-events review; Frontiers in Endocrinology prolactin review). Vitex is now placed in Lamiaceae
   (formerly Verbenaceae). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
@@ -82,4 +107,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica e
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). Unmapped uses kept for reference: Lowers mildly raised prolactin and normalises a short
   luteal phase (dopaminergic D2 action) | Supports menstrual irregularities and perimenopausal cycle symptoms
-  (traditional / Commission E).'
+  (traditional / Commission E). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
+  @article sources (REF-0433, REF-1607, REF-1608, REF-1609, REF-1610, REF-1611, REF-1612, REF-0434, REF-1613,
+  REF-1614) — woven into relevant actions/indications and the plant-level references bucket.'

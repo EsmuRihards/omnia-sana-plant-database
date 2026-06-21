@@ -7603,7 +7603,11 @@
       "REF-0118",
       "REF-0146",
       "REF-0216",
-      "REF-0317"
+      "REF-0317",
+      "REF-1658",
+      "REF-1662",
+      "REF-1666",
+      "REF-1667"
      ],
      "status": "verified"
     },
@@ -7614,7 +7618,10 @@
       "REF-0118",
       "REF-0146",
       "REF-0216",
-      "REF-0317"
+      "REF-0317",
+      "REF-1662",
+      "REF-1663",
+      "REF-1665"
      ],
      "status": "verified"
     },
@@ -7625,7 +7632,12 @@
       "REF-0118",
       "REF-0146",
       "REF-0216",
-      "REF-0317"
+      "REF-0317",
+      "REF-1661",
+      "REF-1663",
+      "REF-1664",
+      "REF-1666",
+      "REF-1667"
      ],
      "status": "verified"
     },
@@ -7647,7 +7659,8 @@
       "REF-0118",
       "REF-0146",
       "REF-0216",
-      "REF-0317"
+      "REF-0317",
+      "REF-1658"
      ],
      "status": "verified"
     }
@@ -7776,9 +7789,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1658",
+    "REF-1659",
+    "REF-1660",
+    "REF-1661",
+    "REF-1662",
+    "REF-1663",
+    "REF-1664",
+    "REF-1665",
+    "REF-1666",
+    "REF-1667"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "chelidonium-majus",
@@ -10921,7 +10946,11 @@
       "REF-0122",
       "REF-0144",
       "REF-0222",
-      "REF-0292"
+      "REF-0292",
+      "REF-1668",
+      "REF-1670",
+      "REF-1671",
+      "REF-1672"
      ],
      "status": "verified"
     },
@@ -10932,7 +10961,9 @@
       "REF-0122",
       "REF-0144",
       "REF-0222",
-      "REF-0292"
+      "REF-0292",
+      "REF-1668",
+      "REF-1674"
      ],
      "status": "verified"
     },
@@ -10943,7 +10974,10 @@
       "REF-0122",
       "REF-0144",
       "REF-0222",
-      "REF-0292"
+      "REF-0292",
+      "REF-1668",
+      "REF-1672",
+      "REF-1673"
      ],
      "status": "verified"
     },
@@ -10954,7 +10988,9 @@
       "REF-0122",
       "REF-0144",
       "REF-0222",
-      "REF-0292"
+      "REF-0292",
+      "REF-1668",
+      "REF-1669"
      ],
      "status": "verified"
     }
@@ -11093,9 +11129,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1668",
+    "REF-1669",
+    "REF-1670",
+    "REF-1671",
+    "REF-1672",
+    "REF-1673",
+    "REF-1674",
+    "REF-1675",
+    "REF-1676",
+    "REF-1677"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "eleutherococcus-senticosus",
@@ -16487,7 +16535,9 @@
       "REF-0088",
       "REF-0202",
       "REF-0277",
-      "REF-0291"
+      "REF-0291",
+      "REF-1679",
+      "REF-1686"
      ],
      "status": "verified"
     },
@@ -16498,7 +16548,10 @@
       "REF-0088",
       "REF-0202",
       "REF-0277",
-      "REF-0291"
+      "REF-0291",
+      "REF-1679",
+      "REF-1680",
+      "REF-1681"
      ],
      "status": "verified"
     },
@@ -16531,7 +16584,8 @@
       "REF-0088",
       "REF-0202",
       "REF-0277",
-      "REF-0291"
+      "REF-0291",
+      "REF-1678"
      ],
      "status": "verified"
     }
@@ -16730,9 +16784,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1678",
+    "REF-1679",
+    "REF-1680",
+    "REF-1681",
+    "REF-1682",
+    "REF-1683",
+    "REF-1684",
+    "REF-1685",
+    "REF-1686",
+    "REF-1687"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "lavandula-angustifolia",

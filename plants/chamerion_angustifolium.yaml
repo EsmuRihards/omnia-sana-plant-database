@@ -20,6 +20,10 @@ actions:
   - REF-0146
   - REF-0216
   - REF-0317
+  - REF-1658
+  - REF-1662
+  - REF-1666
+  - REF-1667
   status: verified
 - action: antimicrobial
   reference_ids:
@@ -28,6 +32,9 @@ actions:
   - REF-0146
   - REF-0216
   - REF-0317
+  - REF-1662
+  - REF-1663
+  - REF-1665
   status: verified
 - action: antioxidant
   reference_ids:
@@ -36,6 +43,11 @@ actions:
   - REF-0146
   - REF-0216
   - REF-0317
+  - REF-1661
+  - REF-1663
+  - REF-1664
+  - REF-1666
+  - REF-1667
   status: verified
 - action: digestive
   reference_ids:
@@ -52,6 +64,7 @@ actions:
   - REF-0146
   - REF-0216
   - REF-0317
+  - REF-1658
   status: verified
 indications:
 - condition: arthritis
@@ -155,11 +168,25 @@ contraindications:
   - REF-0216
   - REF-0317
   status: verified
-provenance: book
+references:
+- REF-1658
+- REF-1659
+- REF-1660
+- REF-1661
+- REF-1662
+- REF-1663
+- REF-1664
+- REF-1665
+- REF-1666
+- REF-1667
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1658, REF-1659, REF-1660, REF-1661, REF-1662,
+  REF-1663, REF-1664, REF-1665, REF-1666, REF-1667) — woven into relevant actions/indications and the
+  plant-level references bucket.'

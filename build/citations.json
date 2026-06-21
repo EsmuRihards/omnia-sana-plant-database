@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1657,
+ "count": 1687,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -3056,6 +3056,37 @@
    ]
   },
   {
+   "ref_id": "REF-1678",
+   "key": "hammoodi2024laurus",
+   "type": "article",
+   "title": "Effects of Laurus nobilis Leaf Extract on Healing of Experimentally Induced Wounds in Rabbits",
+   "authors": "Hammoodi, O.T., Alkhilani, M.A., Alhayani, W.A., Al-Nuaimy, W. and Tala'a, A.A.",
+   "journal": "Veterinary Medicine International",
+   "year": "2024",
+   "doi": "10.1155/2024/2889480",
+   "url": "",
+   "link": "https://doi.org/10.1155/2024/2889480",
+   "link_type": "doi",
+   "citation": "Hammoodi, O.T., Alkhilani, M.A., Alhayani, W.A., Al-Nuaimy, W. and Tala'a, A.A (2024) 'Effects of Laurus nobilis Leaf Extract on Healing of Experimentally Induced Wounds in Rabbits', Veterinary Medicine International, 2024, pp. 2889480. doi:10.1155/2024/2889480",
+   "abstract": "In experimentally induced open wounds in rabbits, topical Laurus nobilis leaf extract accelerated wound contraction and epithelialisation compared with controls, demonstrating a vulnerary wound-healing effect of bay laurel.",
+   "tier": "preclinical",
+   "display": "Effects of Laurus nobilis Leaf Extract on Healing of Experimentally Induced Wounds in Rabbits",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1195",
    "key": "shahsavari2024melissa",
    "type": "article",
@@ -5793,6 +5824,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1665",
+   "key": "dreger2023epilobium",
+   "type": "article",
+   "title": "Antibacterial and Antimycotic Activity of Epilobium L. Extracts: A Review",
+   "authors": "Dreger, M., Adamczak, A. and Foksowicz-Flaczyk, J.",
+   "journal": "Pharmaceuticals",
+   "year": "2023",
+   "doi": "10.3390/ph16101419",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph16101419",
+   "link_type": "doi",
+   "citation": "Dreger, M., Adamczak, A. and Foksowicz-Flaczyk, J (2023) 'Antibacterial and Antimycotic Activity of Epilobium L. Extracts: A Review', Pharmaceuticals, 16(10), pp. 1419. doi:10.3390/ph16101419",
+   "abstract": "This review of 23 studies on the antibacterial and antifungal properties of Epilobium (willowherb, incl. E. angustifolium) extracts found activity against both Gram-positive and Gram-negative bacteria and fungi, varying with species, plant organ and extraction solvent, supporting the antimicrobial use of the genus.",
+   "tier": "review",
+   "display": "Antibacterial and Antimycotic Activity of Epilobium L. Extracts: A Review",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1298",
    "key": "roman2023tansy",
    "type": "article",
@@ -6271,6 +6334,35 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1677",
+   "key": "delgadillo2023cardamom",
+   "type": "article",
+   "title": "Cardamom (Elettaria cardamomum (L.) Maton) Seeds Intake Increases Energy Expenditure and Reduces Fat Mass in Mice by Modulating Neural Circuits That Regulate Adipose Tissue Lipolysis and Mitochondrial Oxidative Metabolism in Liver and Skeletal Muscle",
+   "authors": "Delgadillo-Puga, C., Torre-Villalvazo, I., Carino-Cervantes, Y.Y., Garcia-Luna, C., Soberanes-Chavez, P. and de Gortari, P.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2023",
+   "doi": "10.3390/ijms24043909",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms24043909",
+   "link_type": "doi",
+   "citation": "Delgadillo-Puga, C., Torre-Villalvazo, I., Carino-Cervantes, Y.Y., Garcia-Luna, C., Soberanes-Chavez, P. and de Gortari, P (2023) 'Cardamom (Elettaria cardamomum (L.) Maton) Seeds Intake Increases Energy Expenditure and Reduces Fat Mass in Mice by Modulating Neural Circuits That Regulate Adipose Tissue Lipolysis and Mitochondrial Oxidative Metabolism in Liver and Skeletal Muscle', International Journal of Molecular Sciences, 24(4), pp. 3909. doi:10.3390/ijms24043909",
+   "abstract": "In mice, cardamom (Elettaria cardamomum) seed intake increased energy expenditure and reduced fat mass by modulating neuroendocrine circuits that regulate food intake and by enhancing adipose-tissue lipolysis and mitochondrial oxidative metabolism in liver and skeletal muscle, explaining its metabolic and weight-loss benefits.",
+   "tier": "preclinical",
+   "display": "Cardamom (Elettaria cardamomum (L.) Maton) Seeds Intake Increases Energy Expenditure and Reduces Fat Mass in Mice by Modulating Neural Circuits That Regulate Adipose Tissue Lipolysis and Mitochondrial Oxidative Metabolism in Liver and Skeletal Muscle",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1056",
@@ -7034,6 +7126,35 @@
     "Antimicrobial",
     "Antiviral"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1675",
+   "key": "pavarino2023cardamom",
+   "type": "article",
+   "title": "Elettaria cardamomum (L.) Maton Essential Oil: An Interesting Source of Bioactive Specialized Metabolites as Inhibitors of Acetylcholinesterase and Butyrylcholinesterase",
+   "authors": "Pavarino, M., Marengo, A., Cagliero, C., Bicchi, C., Rubiolo, P. and Sgorbini, B.",
+   "journal": "Plants",
+   "year": "2023",
+   "doi": "10.3390/plants12193463",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants12193463",
+   "link_type": "doi",
+   "citation": "Pavarino, M., Marengo, A., Cagliero, C., Bicchi, C., Rubiolo, P. and Sgorbini, B (2023) 'Elettaria cardamomum (L.) Maton Essential Oil: An Interesting Source of Bioactive Specialized Metabolites as Inhibitors of Acetylcholinesterase and Butyrylcholinesterase', Plants, 12(19), pp. 3463. doi:10.3390/plants12193463",
+   "abstract": "The essential oil of Elettaria cardamomum inhibited acetylcholinesterase and butyrylcholinesterase in vitro; bio-guided fractionation identified the metabolites responsible, suggesting a potential neuroprotective/cholinergic role for the cardamom essential oil.",
+   "tier": "preclinical",
+   "display": "Elettaria cardamomum (L.) Maton Essential Oil: An Interesting Source of Bioactive Specialized Metabolites as Inhibitors of Acetylcholinesterase and Butyrylcholinesterase",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -8533,6 +8654,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1672",
+   "key": "sreedharan2023cardamom",
+   "type": "article",
+   "title": "Protective Role of Phenolic Compounds from Whole Cardamom (Elettaria cardamomum (L.) Maton) against LPS-Induced Inflammation in Colon and Macrophage Cells",
+   "authors": "Sreedharan, S., Nair, V. and Cisneros-Zevallos, L.",
+   "journal": "Nutrients",
+   "year": "2023",
+   "doi": "10.3390/nu15132965",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu15132965",
+   "link_type": "doi",
+   "citation": "Sreedharan, S., Nair, V. and Cisneros-Zevallos, L (2023) 'Protective Role of Phenolic Compounds from Whole Cardamom (Elettaria cardamomum (L.) Maton) against LPS-Induced Inflammation in Colon and Macrophage Cells', Nutrients, 15(13), pp. 2965. doi:10.3390/nu15132965",
+   "abstract": "A methanolic extract of whole cardamom (Elettaria cardamomum), profiled for 11 phenolics and 16 terpenoids, lowered the expression of pro-inflammatory mediators in LPS-stimulated colon and macrophage cells, demonstrating an anti-inflammatory and antioxidant action of its phenolic compounds.",
+   "tier": "preclinical",
+   "display": "Protective Role of Phenolic Compounds from Whole Cardamom (Elettaria cardamomum (L.) Maton) against LPS-Induced Inflammation in Colon and Macrophage Cells",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1529",
    "key": "tinsley2023rhodiola",
    "type": "article",
@@ -8746,6 +8899,35 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1684",
+   "key": "bouadid2023laurus",
+   "type": "article",
+   "title": "Study of the Antihypertensive Effect of Laurus nobilis in Rats",
+   "authors": "Bouadid, I., Amssayef, A. and Eddouks, M.",
+   "journal": "Cardiovascular & Hematological Agents in Medicinal Chemistry",
+   "year": "2023",
+   "doi": "10.2174/1871525720666220512154041",
+   "url": "",
+   "link": "https://doi.org/10.2174/1871525720666220512154041",
+   "link_type": "doi",
+   "citation": "Bouadid, I., Amssayef, A. and Eddouks, M (2023) 'Study of the Antihypertensive Effect of Laurus nobilis in Rats', Cardiovascular & Hematological Agents in Medicinal Chemistry, 21(1), pp. 42-54. doi:10.2174/1871525720666220512154041",
+   "abstract": "An aqueous leaf extract of Laurus nobilis lowered blood pressure and produced vasorelaxation in normotensive and L-NAME-induced hypertensive rats, pharmacologically substantiating its traditional use to treat hypertension in Morocco.",
+   "tier": "preclinical",
+   "display": "Study of the Antihypertensive Effect of Laurus nobilis in Rats",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -9760,6 +9942,37 @@
    ]
   },
   {
+   "ref_id": "REF-1674",
+   "key": "almohammed2022cardamom",
+   "type": "article",
+   "title": "Antiparasitic effects of Elettaria cardamomum L. essential oil and its main compounds, 1,8-Cineole alone and in combination with albendazole against Echinococcus granulosus protoscoleces",
+   "authors": "Almohammed, H.I., Alkhaibari, A.M. and Alanazi, A.D.",
+   "journal": "Saudi Journal of Biological Sciences",
+   "year": "2022",
+   "doi": "10.1016/j.sjbs.2022.01.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.sjbs.2022.01.005",
+   "link_type": "doi",
+   "citation": "Almohammed, H.I., Alkhaibari, A.M. and Alanazi, A.D (2022) 'Antiparasitic effects of Elettaria cardamomum L. essential oil and its main compounds, 1,8-Cineole alone and in combination with albendazole against Echinococcus granulosus protoscoleces', Saudi Journal of Biological Sciences, 29(4), pp. 2811-2818. doi:10.1016/j.sjbs.2022.01.005",
+   "abstract": "Elettaria cardamomum essential oil and its main compound 1,8-cineole, alone and with albendazole, showed protoscolicidal activity against Echinococcus granulosus in vitro and ex vivo, acting through apoptosis induction and plasma-membrane permeabilisation — an antiparasitic/antimicrobial effect.",
+   "tier": "preclinical",
+   "display": "Antiparasitic effects of Elettaria cardamomum L. essential oil and its main compounds, 1,8-Cineole alone and in combination with albendazole against Echinococcus granulosus protoscoleces",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0418",
    "key": "grabek2022antiviral",
    "type": "article",
@@ -9795,6 +10008,39 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1662",
+   "key": "nowak2022hydrogel",
+   "type": "article",
+   "title": "Assessment of the Anti-Inflammatory, Antibacterial and Anti-Aging Properties and Possible Use on the Skin of Hydrogels Containing Epilobium angustifolium L. Extracts",
+   "authors": "Nowak, A., Zagorska-Dziok, M., Peruzynska, M., Cybulska, K., Kucharska, E. and Ossowicz-Rupniewska, P.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2022",
+   "doi": "10.3389/fphar.2022.896706",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2022.896706",
+   "link_type": "doi",
+   "citation": "Nowak, A., Zagorska-Dziok, M., Peruzynska, M., Cybulska, K., Kucharska, E. and Ossowicz-Rupniewska, P (2022) 'Assessment of the Anti-Inflammatory, Antibacterial and Anti-Aging Properties and Possible Use on the Skin of Hydrogels Containing Epilobium angustifolium L. Extracts', Frontiers in Pharmacology, 13, pp. 896706. doi:10.3389/fphar.2022.896706",
+   "abstract": "Topical hydrogels containing Epilobium angustifolium extracts demonstrated antioxidant, anti-ageing, anti-inflammatory, antibacterial and wound-healing properties with good skin permeation and low toxicity, supporting the herb's use in dermatological and cosmetic preparations.",
+   "tier": "preclinical",
+   "display": "Assessment of the Anti-Inflammatory, Antibacterial and Anti-Aging Properties and Possible Use on the Skin of Hydrogels Containing Epilobium angustifolium L. Extracts",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0401",
@@ -9884,6 +10130,38 @@
    ],
    "scientific": [
     "Rosa canina"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1661",
+   "key": "kowalik2022fireweed",
+   "type": "article",
+   "title": "Biological Activity of an Epilobium angustifolium L. (Fireweed) Infusion after In Vitro Digestion",
+   "authors": "Kowalik, K., Polak-Berecka, M., Prendecka-Wrobel, M., Pigon-Zajac, D., Niedzwiedz, I. and Szwajgier, D.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27031006",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27031006",
+   "link_type": "doi",
+   "citation": "Kowalik, K., Polak-Berecka, M., Prendecka-Wrobel, M., Pigon-Zajac, D., Niedzwiedz, I. and Szwajgier, D (2022) 'Biological Activity of an Epilobium angustifolium L. (Fireweed) Infusion after In Vitro Digestion', Molecules, 27(3), pp. 1006. doi:10.3390/molecules27031006",
+   "abstract": "An in-vitro-digested fireweed (Epilobium angustifolium) infusion retained phenolic compounds and showed selective cytotoxicity toward human colon adenocarcinoma cells (HT-29, CaCo-2) while sparing normal colon epithelium, supporting the antioxidant and gastrointestinal-protective activity of the traditional fireweed tea.",
+   "tier": "preclinical",
+   "display": "Biological Activity of an Epilobium angustifolium L. (Fireweed) Infusion after In Vitro Digestion",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
    ],
    "actions": [
     "Antioxidant"
@@ -10605,6 +10883,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1667",
+   "key": "nowak2022topical",
+   "type": "article",
+   "title": "Epilobium angustifolium L. as a Potential Herbal Component of Topical Products for Skin Care and Treatment - A Review",
+   "authors": "Nowak, A., Zielonka-Brzezicka, J., Peruzynska, M. and Klimowicz, A.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27113536",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27113536",
+   "link_type": "doi",
+   "citation": "Nowak, A., Zielonka-Brzezicka, J., Peruzynska, M. and Klimowicz, A (2022) 'Epilobium angustifolium L. as a Potential Herbal Component of Topical Products for Skin Care and Treatment - A Review', Molecules, 27(11), pp. 3536. doi:10.3390/molecules27113536",
+   "abstract": "This review summarises the topical use of Epilobium angustifolium, whose secondary metabolites — notably the macrocyclic ellagitannin oenothein B — confer antioxidant, anti-inflammatory, anti-aging and antiproliferative effects relevant to skin care and treatment.",
+   "tier": "review",
+   "display": "Epilobium angustifolium L. as a Potential Herbal Component of Topical Products for Skin Care and Treatment - A Review",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0811",
    "key": "zonfrillo2022eucalyptus",
    "type": "article",
@@ -10756,6 +11067,35 @@
    "conditions": [
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1682",
+   "key": "chbili2022laurus",
+   "type": "article",
+   "title": "Evaluation of daily Laurus nobilis tea consumption on anxiety and stress biomarkers in healthy volunteers",
+   "authors": "Chbili, C., Maoua, M., Zaouali, M., Selmi, M., Kacem, I. and Mrizek, N.",
+   "journal": "Archives Italiennes de Biologie",
+   "year": "2022",
+   "doi": "10.12871/000398292022343",
+   "url": "",
+   "link": "https://doi.org/10.12871/000398292022343",
+   "link_type": "doi",
+   "citation": "Chbili, C., Maoua, M., Zaouali, M., Selmi, M., Kacem, I. and Mrizek, N (2022) 'Evaluation of daily Laurus nobilis tea consumption on anxiety and stress biomarkers in healthy volunteers', Archives Italiennes de Biologie, 160(3-4), pp. 136-146. doi:10.12871/000398292022343",
+   "abstract": "In thirty healthy volunteers, daily consumption of Laurus nobilis tea reduced subjective anxiety scores and plasma cortisol levels, providing clinical evidence for an anxiolytic, stress-reducing effect of bay laurel infusion.",
+   "tier": "clinical",
+   "display": "Evaluation of daily Laurus nobilis tea consumption on anxiety and stress biomarkers in healthy volunteers",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0854",
@@ -11202,6 +11542,37 @@
     "Centaurium erythraea"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1681",
+   "key": "dobroslavic2022laurus",
+   "type": "article",
+   "title": "Isolation of Laurus nobilis Leaf Polyphenols: A Review on Current Techniques and Future Perspectives",
+   "authors": "Dobroslavic, E., Repajic, M., Dragovic-Uzelac, V. and Elez Garofulic, I.",
+   "journal": "Foods",
+   "year": "2022",
+   "doi": "10.3390/foods11020235",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods11020235",
+   "link_type": "doi",
+   "citation": "Dobroslavic, E., Repajic, M., Dragovic-Uzelac, V. and Elez Garofulic, I (2022) 'Isolation of Laurus nobilis Leaf Polyphenols: A Review on Current Techniques and Future Perspectives', Foods, 11(2), pp. 235. doi:10.3390/foods11020235",
+   "abstract": "This review describes the polyphenolic profile of Laurus nobilis (bay) leaves and techniques for their isolation, linking the leaves' traditional medicinal use to scientifically demonstrated antioxidant and other bioactivities of their phenolic compounds.",
+   "tier": "review",
+   "display": "Isolation of Laurus nobilis Leaf Polyphenols: A Review on Current Techniques and Future Perspectives",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -13583,6 +13954,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1671",
+   "key": "cardenas2021cardamom",
+   "type": "article",
+   "title": "Benefits of Cardamom (Elettaria cardamomum (L.) Maton) and Turmeric (Curcuma longa L.) Extracts for Their Applications as Natural Anti-Inflammatory Adjuvants",
+   "authors": "Cardenas Garza, G.R., Elizondo Luevano, J.H., Bazaldua Rodriguez, A.F., Chavez Montes, A., Perez Hernandez, R.A. and Martinez Delgado, A.J.",
+   "journal": "Plants",
+   "year": "2021",
+   "doi": "10.3390/plants10091908",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants10091908",
+   "link_type": "doi",
+   "citation": "Cardenas Garza, G.R., Elizondo Luevano, J.H., Bazaldua Rodriguez, A.F., Chavez Montes, A., Perez Hernandez, R.A. and Martinez Delgado, A.J (2021) 'Benefits of Cardamom (Elettaria cardamomum (L.) Maton) and Turmeric (Curcuma longa L.) Extracts for Their Applications as Natural Anti-Inflammatory Adjuvants', Plants, 10(9), pp. 1908. doi:10.3390/plants10091908",
+   "abstract": "Aqueous extracts of cardamom (Elettaria cardamomum) and turmeric showed anti-inflammatory and cytotoxic activity in vitro, supporting their potential as natural anti-inflammatory adjuvants given the role of chronic inflammation in disease.",
+   "tier": "preclinical",
+   "display": "Benefits of Cardamom (Elettaria cardamomum (L.) Maton) and Turmeric (Curcuma longa L.) Extracts for Their Applications as Natural Anti-Inflammatory Adjuvants",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1638",
    "key": "dominguez2021artichoke",
    "type": "article",
@@ -14177,6 +14579,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1673",
+   "key": "almeer2021cardamom",
+   "type": "article",
+   "title": "Effects of Green cardamom (Elettaria cardamomum Maton) and its combination with cyclophosphamide on Ehrlich solid tumors",
+   "authors": "Almeer, R.S., Alnasser, M., Aljarba, N. and AlBasher, G.I.",
+   "journal": "BMC Complementary Medicine and Therapies",
+   "year": "2021",
+   "doi": "10.1186/s12906-021-03305-2",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-021-03305-2",
+   "link_type": "doi",
+   "citation": "Almeer, R.S., Alnasser, M., Aljarba, N. and AlBasher, G.I (2021) 'Effects of Green cardamom (Elettaria cardamomum Maton) and its combination with cyclophosphamide on Ehrlich solid tumors', BMC Complementary Medicine and Therapies, 21(1), pp. 133. doi:10.1186/s12906-021-03305-2",
+   "abstract": "In Ehrlich-solid-tumor-bearing mice, green cardamom (Elettaria cardamomum) alone and combined with cyclophosphamide exerted antioxidant and anti-tumor effects, reducing tumor growth and oxidative stress, indicating a chemoprotective antioxidant role.",
+   "tier": "preclinical",
+   "display": "Effects of Green cardamom (Elettaria cardamomum Maton) and its combination with cyclophosphamide on Ehrlich solid tumors",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1406",
    "key": "tufarelli2021horsetail",
    "type": "article",
@@ -14231,6 +14664,102 @@
    ],
    "actions": [
     "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1663",
+   "key": "nowak2021essentialoil",
+   "type": "article",
+   "title": "Epilobium angustifolium L. Essential Oil-Biological Activity and Enhancement of the Skin Penetration of Drugs-In Vitro Study",
+   "authors": "Nowak, A., Duchnik, W., Makuch, E., Kucharski, L., Ossowicz-Rupniewska, P. and Cybulska, K.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26237188",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26237188",
+   "link_type": "doi",
+   "citation": "Nowak, A., Duchnik, W., Makuch, E., Kucharski, L., Ossowicz-Rupniewska, P. and Cybulska, K (2021) 'Epilobium angustifolium L. Essential Oil-Biological Activity and Enhancement of the Skin Penetration of Drugs-In Vitro Study', Molecules, 26(23), pp. 7188. doi:10.3390/molecules26237188",
+   "abstract": "The essential oil of Epilobium angustifolium, composed mainly of terpenes, showed antioxidant and antifungal activity and acted as a promoter enhancing the in-vitro skin penetration of drugs, characterising a little-studied bioactive fraction of the fireweed.",
+   "tier": "preclinical",
+   "display": "Epilobium angustifolium L. Essential Oil-Biological Activity and Enhancement of the Skin Penetration of Drugs-In Vitro Study",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1659",
+   "key": "esposito2021epilobium",
+   "type": "article",
+   "title": "Epilobium angustifolium L. extract with high content in oenothein B on benign prostatic hyperplasia: A monocentric, randomized, double-blind, placebo-controlled clinical trial",
+   "authors": "Esposito, C., Santarcangelo, C., Masselli, R., Buonomo, G., Nicotra, G. and Insolia, V.",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2021",
+   "doi": "10.1016/j.biopha.2021.111414",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2021.111414",
+   "link_type": "doi",
+   "citation": "Esposito, C., Santarcangelo, C., Masselli, R., Buonomo, G., Nicotra, G. and Insolia, V (2021) 'Epilobium angustifolium L. extract with high content in oenothein B on benign prostatic hyperplasia: A monocentric, randomized, double-blind, placebo-controlled clinical trial', Biomedicine & Pharmacotherapy, 138, pp. 111414. doi:10.1016/j.biopha.2021.111414",
+   "abstract": "In a monocentric, randomized, double-blind, placebo-controlled clinical trial, six months of a chemically characterized Epilobium angustifolium extract (500 mg/day, high in oenothein B) significantly improved lower-urinary-tract symptoms in men with benign prostatic hyperplasia, providing human clinical support for the herb's traditional prostatic use.",
+   "tier": "rct",
+   "display": "Epilobium angustifolium L. extract with high content in oenothein B on benign prostatic hyperplasia: A monocentric, randomized, double-blind, placebo-controlled clinical trial",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1666",
+   "key": "nowak2021cosmetic",
+   "type": "article",
+   "title": "Epilobium angustifolium L. Extracts as Valuable Ingredients in Cosmetic and Dermatological Products",
+   "authors": "Nowak, A., Zagorska-Dziok, M., Ossowicz-Rupniewska, P., Makuch, E., Duchnik, W. and Kucharski, L.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26113456",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26113456",
+   "link_type": "doi",
+   "citation": "Nowak, A., Zagorska-Dziok, M., Ossowicz-Rupniewska, P., Makuch, E., Duchnik, W. and Kucharski, L (2021) 'Epilobium angustifolium L. Extracts as Valuable Ingredients in Cosmetic and Dermatological Products', Molecules, 26(11), pp. 3456. doi:10.3390/molecules26113456",
+   "abstract": "Ethanolic extracts of Epilobium angustifolium, profiled by GC-MS and HPLC, showed antioxidant, anti-ageing and anti-inflammatory properties, supporting their use as active ingredients in preparations for the care and treatment of skin diseases.",
+   "tier": "preclinical",
+   "display": "Epilobium angustifolium L. Extracts as Valuable Ingredients in Cosmetic and Dermatological Products",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -15210,6 +15739,37 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1680",
+   "key": "bourebaba2021laurus",
+   "type": "article",
+   "title": "Laurus nobilis ethanolic extract attenuates hyperglycemia and hyperinsulinemia-induced insulin resistance in HepG2 cell line through the reduction of oxidative stress and improvement of mitochondrial biogenesis",
+   "authors": "Bourebaba, N., Kornicka-Garbowska, K., Marycz, K., Bourebaba, L. and Kowalczuk, A.",
+   "journal": "Mitochondrion",
+   "year": "2021",
+   "doi": "10.1016/j.mito.2021.06.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.mito.2021.06.003",
+   "link_type": "doi",
+   "citation": "Bourebaba, N., Kornicka-Garbowska, K., Marycz, K., Bourebaba, L. and Kowalczuk, A (2021) 'Laurus nobilis ethanolic extract attenuates hyperglycemia and hyperinsulinemia-induced insulin resistance in HepG2 cell line through the reduction of oxidative stress and improvement of mitochondrial biogenesis', Mitochondrion, 59, pp. 190-213. doi:10.1016/j.mito.2021.06.003",
+   "abstract": "Laurus nobilis ethanolic extract improved insulin sensitivity and protected HepG2 liver cells from apoptosis, mitochondrial dysfunction and oxidative stress under hyperglycaemic/hyperinsulinaemic conditions, suggesting an antioxidant hepatoprotective role relevant to insulin resistance and diabetes.",
+   "tier": "preclinical",
+   "display": "Laurus nobilis ethanolic extract attenuates hyperglycemia and hyperinsulinemia-induced insulin resistance in HepG2 cell line through the reduction of oxidative stress and improvement of mitochondrial biogenesis",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0858",
@@ -16822,6 +17382,37 @@
    ]
   },
   {
+   "ref_id": "REF-1670",
+   "key": "yahyazadeh2021cardamom",
+   "type": "article",
+   "title": "The effect of Elettaria cardamomum (cardamom) on the metabolic syndrome: Narrative review",
+   "authors": "Yahyazadeh, R., Ghasemzadeh Rahbardar, M., Razavi, B.M., Karimi, G. and Hosseinzadeh, H.",
+   "journal": "Iranian Journal of Basic Medical Sciences",
+   "year": "2021",
+   "doi": "10.22038/IJBMS.2021.54417.12228",
+   "url": "",
+   "link": "https://doi.org/10.22038/IJBMS.2021.54417.12228",
+   "link_type": "doi",
+   "citation": "Yahyazadeh, R., Ghasemzadeh Rahbardar, M., Razavi, B.M., Karimi, G. and Hosseinzadeh, H (2021) 'The effect of Elettaria cardamomum (cardamom) on the metabolic syndrome: Narrative review', Iranian Journal of Basic Medical Sciences, 24(11), pp. 1462-1469. doi:10.22038/IJBMS.2021.54417.12228",
+   "abstract": "This narrative review summarises evidence that Elettaria cardamomum and its constituents improve components of the metabolic syndrome — insulin resistance, hyperglycaemia, hypertension, dyslipidaemia, inflammation and obesity — through antioxidant and anti-inflammatory mechanisms.",
+   "tier": "review",
+   "display": "The effect of Elettaria cardamomum (cardamom) on the metabolic syndrome: Narrative review",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1462",
    "key": "moradi2021epo",
    "type": "article",
@@ -17455,6 +18046,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1664",
+   "key": "olennikov2021melanoidin",
+   "type": "article",
+   "title": "Water-Soluble Melanoidin Pigment as a New Antioxidant Component of Fermented Willowherb Leaves (Epilobium angustifolium)",
+   "authors": "Olennikov, D.N., Kirillina, C.S. and Chirikova, N.K.",
+   "journal": "Antioxidants",
+   "year": "2021",
+   "doi": "10.3390/antiox10081300",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox10081300",
+   "link_type": "doi",
+   "citation": "Olennikov, D.N., Kirillina, C.S. and Chirikova, N.K (2021) 'Water-Soluble Melanoidin Pigment as a New Antioxidant Component of Fermented Willowherb Leaves (Epilobium angustifolium)', Antioxidants, 10(8), pp. 1300. doi:10.3390/antiox10081300",
+   "abstract": "Comparing non-fermented and fermented Epilobium angustifolium (willowherb) leaves, this study identified a water-soluble melanoidin pigment formed during fermentation as a new antioxidant component, explaining the high antioxidant potential of fermented willowherb (Ivan-chai) tea.",
+   "tier": "preclinical",
+   "display": "Water-Soluble Melanoidin Pigment as a New Antioxidant Component of Fermented Willowherb Leaves (Epilobium angustifolium)",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0911",
    "key": "chen2020tussilago",
    "type": "article",
@@ -17956,6 +18579,35 @@
    ],
    "scientific": [
     "Artemisia absinthium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1685",
+   "key": "mohammed2020laurus",
+   "type": "article",
+   "title": "Biomedical effects of Laurus nobilis L. leaf extract on vital organs in streptozotocin-induced diabetic rats: Experimental research",
+   "authors": "Mohammed, R.R., Omer, A.K., Yener, Z., Uyar, A. and Ahmed, A.K.",
+   "journal": "Annals of Medicine and Surgery",
+   "year": "2020",
+   "doi": "10.1016/j.amsu.2020.11.051",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.amsu.2020.11.051",
+   "link_type": "doi",
+   "citation": "Mohammed, R.R., Omer, A.K., Yener, Z., Uyar, A. and Ahmed, A.K (2020) 'Biomedical effects of Laurus nobilis L. leaf extract on vital organs in streptozotocin-induced diabetic rats: Experimental research', Annals of Medicine and Surgery, 61, pp. 188-197. doi:10.1016/j.amsu.2020.11.051",
+   "abstract": "In streptozotocin-induced diabetic rats, Laurus nobilis leaf extract improved biochemical markers and protected the histopathology of pancreatic beta-cells and other vital organs, indicating an antidiabetic, organ-protective effect of bay laurel.",
+   "tier": "preclinical",
+   "display": "Biomedical effects of Laurus nobilis L. leaf extract on vital organs in streptozotocin-induced diabetic rats: Experimental research",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
    ],
    "actions": [],
    "conditions": []
@@ -19005,6 +19657,35 @@
    ]
   },
   {
+   "ref_id": "REF-1683",
+   "key": "chbili2020laurus",
+   "type": "article",
+   "title": "Evaluation of Daily Laurus nobilis Tea Consumption on Lipid Profile Biomarkers in Healthy Volunteers",
+   "authors": "Chbili, C., Maoua, M., Selmi, M., Mrad, S., Khairi, H. and Limem, K.",
+   "journal": "Journal of the American College of Nutrition",
+   "year": "2020",
+   "doi": "10.1080/07315724.2020.1727787",
+   "url": "",
+   "link": "https://doi.org/10.1080/07315724.2020.1727787",
+   "link_type": "doi",
+   "citation": "Chbili, C., Maoua, M., Selmi, M., Mrad, S., Khairi, H. and Limem, K (2020) 'Evaluation of Daily Laurus nobilis Tea Consumption on Lipid Profile Biomarkers in Healthy Volunteers', Journal of the American College of Nutrition, 39(8), pp. 733-738. doi:10.1080/07315724.2020.1727787",
+   "abstract": "In thirty healthy volunteers, daily Laurus nobilis infusion improved plasma lipid biomarkers (lowering total and LDL cholesterol and triglycerides), giving clinical support for a beneficial effect of bay laurel tea on lipid profile.",
+   "tier": "clinical",
+   "display": "Evaluation of Daily Laurus nobilis Tea Consumption on Lipid Profile Biomarkers in Healthy Volunteers",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1138",
    "key": "zaklosszyda2020min6",
    "type": "article",
@@ -19403,6 +20084,39 @@
    "conditions": [
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1658",
+   "key": "karakaya2020epilobium",
+   "type": "article",
+   "title": "In vivo bioactivity assessment on Epilobium species: A particular focus on Epilobium angustifolium and its components on enzymes connected with the healing process",
+   "authors": "Karakaya, S., Suntar, I., Yakinci, O.F., Sytar, O., Ceribasi, S. and Dursunoglu, B.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2020",
+   "doi": "10.1016/j.jep.2020.113207",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.113207",
+   "link_type": "doi",
+   "citation": "Karakaya, S., Suntar, I., Yakinci, O.F., Sytar, O., Ceribasi, S. and Dursunoglu, B (2020) 'In vivo bioactivity assessment on Epilobium species: A particular focus on Epilobium angustifolium and its components on enzymes connected with the healing process', Journal of Ethnopharmacology, 262, pp. 113207. doi:10.1016/j.jep.2020.113207",
+   "abstract": "Young shoots of Epilobium angustifolium (fireweed), traditionally used as a poultice for wounds, were evaluated in vivo and in vitro; the extract and its components (quercetin, hyperoside) accelerated wound healing and modulated enzymes connected with the healing process, validating its ethnopharmacological vulnerary use.",
+   "tier": "preclinical",
+   "display": "In vivo bioactivity assessment on Epilobium species: A particular focus on Epilobium angustifolium and its components on enzymes connected with the healing process",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1286",
@@ -22045,6 +22759,40 @@
     "Ruscus aculeatus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1668",
+   "key": "ashokkumar2019cardamom",
+   "type": "article",
+   "title": "Botany, traditional uses, phytochemistry and biological activities of cardamom [Elettaria cardamomum (L.) Maton] - A critical review",
+   "authors": "Ashokkumar, K., Murugan, M., Dhanya, M.K. and Warkentin, T.D.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2019",
+   "doi": "10.1016/j.jep.2019.112244",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2019.112244",
+   "link_type": "doi",
+   "citation": "Ashokkumar, K., Murugan, M., Dhanya, M.K. and Warkentin, T.D (2019) 'Botany, traditional uses, phytochemistry and biological activities of cardamom [Elettaria cardamomum (L.) Maton] - A critical review', Journal of Ethnopharmacology, 246, pp. 112244. doi:10.1016/j.jep.2019.112244",
+   "abstract": "This critical review of small cardamom [Elettaria cardamomum] covers its botany, traditional use for asthma, oral and digestive disorders, its 1,8-cineole and alpha-terpinyl-acetate-rich essential oil, and its antimicrobial, antioxidant, anti-inflammatory, gastroprotective and cardiovascular activities.",
+   "tier": "review",
+   "display": "Botany, traditional uses, phytochemistry and biological activities of cardamom [Elettaria cardamomum (L.) Maton] - A critical review",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antioxidant",
+    "Digestive aid"
+   ],
    "conditions": []
   },
   {
@@ -27132,6 +27880,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1679",
+   "key": "caputo2017laurus",
+   "type": "article",
+   "title": "Laurus nobilis: Composition of Essential Oil and Its Biological Activities",
+   "authors": "Caputo, L., Nazzaro, F., Souza, L.F., Aliberti, L., De Martino, L. and Fratianni, F.",
+   "journal": "Molecules",
+   "year": "2017",
+   "doi": "10.3390/molecules22060930",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules22060930",
+   "link_type": "doi",
+   "citation": "Caputo, L., Nazzaro, F., Souza, L.F., Aliberti, L., De Martino, L. and Fratianni, F (2017) 'Laurus nobilis: Composition of Essential Oil and Its Biological Activities', Molecules, 22(6), pp. 930. doi:10.3390/molecules22060930",
+   "abstract": "The leaf essential oil of Laurus nobilis from southern Italy, dominated by 1,8-cineole, sabinene and linalool, was characterised by GC-MS and showed antimicrobial and antioxidant activities, supporting the medicinal use of bay laurel.",
+   "tier": "preclinical",
+   "display": "Laurus nobilis: Composition of Essential Oil and Its Biological Activities",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1164",
    "key": "ahn2017lentinan",
    "type": "article",
@@ -27941,6 +28721,35 @@
     "Immune support",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-1676",
+   "key": "masoumiardakani2017cardamom",
+   "type": "article",
+   "title": "The effect of Elettaria cardamomum extract on anxiety-like behavior in a rat model of post-traumatic stress disorder",
+   "authors": "Masoumi-Ardakani, Y., Mahmoudvand, H., Mirzaei, A., Esmaeilpour, K., Ghazvini, H. and Khalifeh, S.",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2017",
+   "doi": "10.1016/j.biopha.2016.12.116",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2016.12.116",
+   "link_type": "doi",
+   "citation": "Masoumi-Ardakani, Y., Mahmoudvand, H., Mirzaei, A., Esmaeilpour, K., Ghazvini, H. and Khalifeh, S (2017) 'The effect of Elettaria cardamomum extract on anxiety-like behavior in a rat model of post-traumatic stress disorder', Biomedicine & Pharmacotherapy, 87, pp. 489-495. doi:10.1016/j.biopha.2016.12.116",
+   "abstract": "A methanolic extract of Elettaria cardamomum reduced anxiety-like behaviour in a rat model of post-traumatic stress disorder, indicating an anxiolytic central effect of cardamom.",
+   "tier": "preclinical",
+   "display": "The effect of Elettaria cardamomum extract on anxiety-like behavior in a rat model of post-traumatic stress disorder",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0666",
@@ -31538,6 +32347,36 @@
    ]
   },
   {
+   "ref_id": "REF-1660",
+   "key": "kaskoniene2015chamerion",
+   "type": "article",
+   "title": "Evaluation of phytochemical composition of fresh and dried raw material of introduced Chamerion angustifolium L. using chromatographic, spectrophotometric and chemometric techniques",
+   "authors": "Kaskoniene, V., Stankevicius, M., Drevinskas, T., Akuneca, I., Kaskonas, P. and Bimbiraite-Surviliene, K.",
+   "journal": "Phytochemistry",
+   "year": "2015",
+   "doi": "10.1016/j.phytochem.2015.02.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2015.02.005",
+   "link_type": "doi",
+   "citation": "Kaskoniene, V., Stankevicius, M., Drevinskas, T., Akuneca, I., Kaskonas, P. and Bimbiraite-Surviliene, K (2015) 'Evaluation of phytochemical composition of fresh and dried raw material of introduced Chamerion angustifolium L. using chromatographic, spectrophotometric and chemometric techniques', Phytochemistry, 115, pp. 184-193. doi:10.1016/j.phytochem.2015.02.005",
+   "abstract": "This study characterized the volatile and non-volatile composition and antioxidant activity of Chamerion angustifolium grown from different Lithuanian provenances, showing that the medicinal quality of the herb depends strongly on geographic origin, chemotype and the method of raw-material preparation and extraction.",
+   "tier": "preclinical",
+   "display": "Evaluation of phytochemical composition of fresh and dried raw material of introduced Chamerion angustifolium L. using chromatographic, spectrophotometric and chemometric techniques",
+   "plants": [
+    "Fireweed",
+    "Ivan-chai",
+    "epilobium",
+    "great willowherb",
+    "rosebay willowherb",
+    "willowherb"
+   ],
+   "scientific": [
+    "Chamerion angustifolium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0835",
    "key": "song2015hedera",
    "type": "article",
@@ -31823,6 +32662,35 @@
     "Indigestion",
     "Nausea"
    ]
+  },
+  {
+   "ref_id": "REF-1687",
+   "key": "saab2015laurus",
+   "type": "article",
+   "title": "Laurus nobilis L. Seed Extract Reveals Collateral Sensitivity in Multidrug-Resistant P-Glycoprotein-Expressing Tumor Cells",
+   "authors": "Saab, A.M., Guerrini, A., Zeino, M., Wiench, B., Rossi, D. and Gambari, R.",
+   "journal": "Nutrition and Cancer",
+   "year": "2015",
+   "doi": "10.1080/01635581.2015.1019632",
+   "url": "",
+   "link": "https://doi.org/10.1080/01635581.2015.1019632",
+   "link_type": "doi",
+   "citation": "Saab, A.M., Guerrini, A., Zeino, M., Wiench, B., Rossi, D. and Gambari, R (2015) 'Laurus nobilis L. Seed Extract Reveals Collateral Sensitivity in Multidrug-Resistant P-Glycoprotein-Expressing Tumor Cells', Nutrition and Cancer, 67(4), pp. 664-675. doi:10.1080/01635581.2015.1019632",
+   "abstract": "A chloroform extract of Laurus nobilis seeds showed collateral sensitivity, selectively killing multidrug-resistant P-glycoprotein-expressing tumor cells, suggesting bay-laurel constituents as candidates against otherwise drug-resistant cancers.",
+   "tier": "preclinical",
+   "display": "Laurus nobilis L. Seed Extract Reveals Collateral Sensitivity in Multidrug-Resistant P-Glycoprotein-Expressing Tumor Cells",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0856",
@@ -43658,6 +44526,37 @@
    ]
   },
   {
+   "ref_id": "REF-1669",
+   "key": "jamal2005cardamom",
+   "type": "article",
+   "title": "Gastroprotective effect of cardamom, Elettaria cardamomum Maton. fruits in rats",
+   "authors": "Jamal, A., Javed, K., Aslam, M. and Jafri, M.A.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2006",
+   "doi": "10.1016/j.jep.2005.07.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2005.07.016",
+   "link_type": "doi",
+   "citation": "Jamal, A., Javed, K., Aslam, M. and Jafri, M.A (2006) 'Gastroprotective effect of cardamom, Elettaria cardamomum Maton. fruits in rats', Journal of Ethnopharmacology, 103(2), pp. 149-153. doi:10.1016/j.jep.2005.07.016",
+   "abstract": "In rats, a methanolic extract, essential oil and fractions of Elettaria cardamomum fruits inhibited aspirin- and ethanol-induced gastric lesions and showed anti-ulcer and gastroprotective activity, supporting the Unani use of cardamom for gastrointestinal disorders.",
+   "tier": "preclinical",
+   "display": "Gastroprotective effect of cardamom, Elettaria cardamomum Maton. fruits in rats",
+   "plants": [
+    "Cardamom",
+    "Green cardamom",
+    "small cardamom",
+    "true cardamom",
+    "“elaichi” Note: Not the same as black cardamom  — that one is smokier and used differently in cooking"
+   ],
+   "scientific": [
+    "Elettaria cardamomum"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1260",
    "key": "gagnier2006salix",
    "type": "article",
@@ -47143,6 +48042,37 @@
     "Trifolium pratense"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1686",
+   "key": "uchiyama2002laurus",
+   "type": "article",
+   "title": "Trypanocidal terpenoids from Laurus nobilis L.",
+   "authors": "Uchiyama, N., Matsunaga, K., Kiuchi, F., Honda, G., Tsubouchi, A. and Nakajima-Shimada, J.",
+   "journal": "Chemical & Pharmaceutical Bulletin",
+   "year": "2002",
+   "doi": "10.1248/cpb.50.1514",
+   "url": "",
+   "link": "https://doi.org/10.1248/cpb.50.1514",
+   "link_type": "doi",
+   "citation": "Uchiyama, N., Matsunaga, K., Kiuchi, F., Honda, G., Tsubouchi, A. and Nakajima-Shimada, J (2002) 'Trypanocidal terpenoids from Laurus nobilis L', Chemical & Pharmaceutical Bulletin, 50(11), pp. 1514-1516. doi:10.1248/cpb.50.1514",
+   "abstract": "Activity-guided fractionation of Laurus nobilis leaves yielded the sesquiterpene lactones dehydrocostus lactone and zaluzanin D and a new p-menthane hydroperoxide with trypanocidal activity against Trypanosoma cruzi, identifying antimicrobial/antiparasitic constituents of bay laurel.",
+   "tier": "preclinical",
+   "display": "Trypanocidal terpenoids from Laurus nobilis L.",
+   "plants": [
+    "Bay Laurel",
+    "Bay Leaf",
+    "Laurel Leaf",
+    "Sweet Bay",
+    "True Laurel"
+   ],
+   "scientific": [
+    "Laurus nobilis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {

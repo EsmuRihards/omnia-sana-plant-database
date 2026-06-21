@@ -20267,7 +20267,11 @@
      "note": "Omega-6 essential fatty acids of the seed oil; GLA is the constituent the supplement is taken for.",
      "reference_ids": [
       "REF-0446",
-      "REF-0447"
+      "REF-0447",
+      "REF-1457",
+      "REF-1459",
+      "REF-1461",
+      "REF-1465"
      ]
     },
     {
@@ -20286,7 +20290,9 @@
      "action": "emollient",
      "note": "Skin hydration and barrier function in healthy skin",
      "reference_ids": [
-      "REF-0446"
+      "REF-0446",
+      "REF-1457",
+      "REF-1461"
      ],
      "status": "needs-review"
     }
@@ -20296,7 +20302,8 @@
      "condition": "eczema",
      "note": "Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective",
      "reference_ids": [
-      "REF-0447"
+      "REF-0447",
+      "REF-1458"
      ],
      "status": "needs-review"
     },
@@ -20323,7 +20330,8 @@
      "note": "Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results (a recent RCT found evening primrose oil reduced cyclical breast-pain severity versus placebo, with a combination of EPO and vitamin E most effective)",
      "reference_ids": [
       "REF-0446",
-      "REF-0600"
+      "REF-0600",
+      "REF-1463"
      ],
      "status": "needs-review"
     },
@@ -20364,9 +20372,20 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1457",
+    "REF-1458",
+    "REF-1459",
+    "REF-1460",
+    "REF-1461",
+    "REF-1462",
+    "REF-1463",
+    "REF-1464",
+    "REF-1465"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "olea-europaea",
@@ -20388,7 +20407,10 @@
      "reference_ids": [
       "REF-0032",
       "REF-0299",
-      "REF-0301"
+      "REF-0301",
+      "REF-1437",
+      "REF-1440",
+      "REF-1442"
      ],
      "status": "verified"
     },
@@ -20397,7 +20419,8 @@
      "reference_ids": [
       "REF-0032",
       "REF-0299",
-      "REF-0301"
+      "REF-0301",
+      "REF-1443"
      ],
      "status": "verified"
     },
@@ -20406,7 +20429,9 @@
      "reference_ids": [
       "REF-0032",
       "REF-0299",
-      "REF-0301"
+      "REF-0301",
+      "REF-1439",
+      "REF-1442"
      ],
      "status": "verified"
     },
@@ -20415,7 +20440,9 @@
      "reference_ids": [
       "REF-0032",
       "REF-0299",
-      "REF-0301"
+      "REF-0301",
+      "REF-1437",
+      "REF-1444"
      ],
      "status": "verified"
     },
@@ -20446,7 +20473,8 @@
      "reference_ids": [
       "REF-0032",
       "REF-0299",
-      "REF-0301"
+      "REF-0301",
+      "REF-1443"
      ],
      "status": "needs-review"
     },
@@ -20485,7 +20513,8 @@
      "reference_ids": [
       "REF-0032",
       "REF-0299",
-      "REF-0301"
+      "REF-0301",
+      "REF-1440"
      ],
      "status": "needs-review"
     },
@@ -20542,9 +20571,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1437",
+    "REF-1438",
+    "REF-1439",
+    "REF-1440",
+    "REF-1441",
+    "REF-1442",
+    "REF-1443",
+    "REF-1444",
+    "REF-1445",
+    "REF-1446"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "origanum-majorana",
@@ -20801,7 +20842,11 @@
      "note": "Phenolic monoterpenes responsible for the strong antimicrobial activity.",
      "reference_ids": [
       "REF-0485",
-      "REF-0486"
+      "REF-0486",
+      "REF-1447",
+      "REF-1450",
+      "REF-1452",
+      "REF-1454"
      ]
     },
     {
@@ -20833,7 +20878,8 @@
      "reference_ids": [
       "REF-0485",
       "REF-0486",
-      "REF-0597"
+      "REF-0597",
+      "REF-1447"
      ],
      "status": "verified"
     },
@@ -20843,7 +20889,13 @@
      "reference_ids": [
       "REF-0485",
       "REF-0486",
-      "REF-0597"
+      "REF-0597",
+      "REF-1448",
+      "REF-1451",
+      "REF-1452",
+      "REF-1453",
+      "REF-1455",
+      "REF-1456"
      ],
      "status": "verified"
     },
@@ -20852,7 +20904,9 @@
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
       "REF-0485",
-      "REF-0486"
+      "REF-0486",
+      "REF-1449",
+      "REF-1455"
      ],
      "status": "verified"
     },
@@ -20868,7 +20922,8 @@
      "action": "digestive",
      "note": "Carminative digestive for indigestion (traditional bitter aromatic)",
      "reference_ids": [
-      "REF-0485"
+      "REF-0485",
+      "REF-1448"
      ],
      "status": "needs-review"
     }
@@ -20973,9 +21028,21 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1447",
+    "REF-1448",
+    "REF-1449",
+    "REF-1450",
+    "REF-1451",
+    "REF-1452",
+    "REF-1453",
+    "REF-1454",
+    "REF-1455",
+    "REF-1456"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "oxycoccus-palustris",

@@ -8441,12 +8441,24 @@
     {
      "condition": "pain",
      "label": "Pain (general)",
-     "evidence": 8,
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0446",
-      "REF-0600"
+      "REF-0600",
+      "REF-1463"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0447",
+      "REF-1458"
      ]
     },
     {
@@ -8458,16 +8470,6 @@
      "references": [
       "REF-0446",
       "REF-0600"
-     ]
-    },
-    {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0447"
      ]
     },
     {
@@ -14521,20 +14523,21 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 5,
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 6,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-0032",
       "REF-0299",
-      "REF-0301"
+      "REF-0301",
+      "REF-1443"
      ]
     },
     {
-     "condition": "blood-sugar",
-     "label": "Blood sugar / diabetes support",
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
@@ -14589,7 +14592,8 @@
      "references": [
       "REF-0032",
       "REF-0299",
-      "REF-0301"
+      "REF-0301",
+      "REF-1440"
      ]
     },
     {

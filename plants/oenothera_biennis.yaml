@@ -17,6 +17,10 @@ constituents:
   reference_ids:
   - REF-0446
   - REF-0447
+  - REF-1457
+  - REF-1459
+  - REF-1461
+  - REF-1465
 - name: Other seed-oil fatty acids and plant sterols
   compounds:
   - phytosterol
@@ -28,12 +32,15 @@ actions:
   note: Skin hydration and barrier function in healthy skin
   reference_ids:
   - REF-0446
+  - REF-1457
+  - REF-1461
   status: needs-review
 indications:
 - condition: eczema
   note: Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective
   reference_ids:
   - REF-0447
+  - REF-1458
   status: needs-review
 - condition: hot-flashes
   note: Menopausal hot flushes - some trial benefit reported
@@ -53,6 +60,7 @@ indications:
   reference_ids:
   - REF-0446
   - REF-0600
+  - REF-1463
   status: needs-review
 - condition: pms
   note: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
@@ -82,9 +90,19 @@ contraindications:
   reference_ids:
   - REF-0447
   status: verified
+references:
+- REF-1457
+- REF-1458
+- REF-1459
+- REF-1460
+- REF-1461
+- REF-1462
+- REF-1463
+- REF-1464
+- REF-1465
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   systematic review; Cochrane review of EPO/borage oil for eczema). Evidence for most symptom claims is
   weak or negative, reflected in needs-review action statuses. Originally a skeleton imported from the
@@ -95,4 +113,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   remains needs-review given the heterogeneous broader literature. | 2026-06-15: migrated to entity schema
   (actions->vocab ids, indications split out, constituents linked to compounds). Unmapped uses kept for
   reference: Dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid (the rationale for its
-  use).'
+  use). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources
+  (REF-1457, REF-1458, REF-1459, REF-1460, REF-1461, REF-1462, REF-1463, REF-1464, REF-1465) — woven into
+  relevant actions/indications and the plant-level references bucket.'

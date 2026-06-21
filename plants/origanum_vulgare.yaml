@@ -19,6 +19,10 @@ constituents:
   reference_ids:
   - REF-0485
   - REF-0486
+  - REF-1447
+  - REF-1450
+  - REF-1452
+  - REF-1454
 - name: Phenolic acids (rosmarinic acid) and flavonoids
   compounds:
   - rosmarinic-acid
@@ -42,6 +46,7 @@ actions:
   - REF-0485
   - REF-0486
   - REF-0597
+  - REF-1447
   status: verified
 - action: antimicrobial
   note: Antimicrobial (antibacterial and antifungal via carvacrol and thymol) - supports respiratory and
@@ -51,12 +56,20 @@ actions:
   - REF-0485
   - REF-0486
   - REF-0597
+  - REF-1448
+  - REF-1451
+  - REF-1452
+  - REF-1453
+  - REF-1455
+  - REF-1456
   status: verified
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0485
   - REF-0486
+  - REF-1449
+  - REF-1455
   status: verified
 - action: carminative
   note: Carminative digestive for indigestion (traditional bitter aromatic)
@@ -67,6 +80,7 @@ actions:
   note: Carminative digestive for indigestion (traditional bitter aromatic)
   reference_ids:
   - REF-0485
+  - REF-1448
   status: needs-review
 indications:
 - condition: arthritis
@@ -138,9 +152,20 @@ contraindications:
   reference_ids:
   - REF-0485
   status: needs-review
+references:
+- REF-1447
+- REF-1448
+- REF-1449
+- REF-1450
+- REF-1451
+- REF-1452
+- REF-1453
+- REF-1454
+- REF-1455
+- REF-1456
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal of Pharmaceutical Research
   phytochemistry/antimicrobial review; Phytotherapy Research carvacrol review). Note: this is Origanum
   vulgare (wild marjoram), distinct from the book''s Origanum majorana (sweet marjoram). Originally a
@@ -148,4 +173,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal
   inflammation); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with
   a PubMed-sourced small clinical study showing emulsified oregano oil eradicated enteric parasites (incl.
   Blastocystis hominis) and improved gastrointestinal symptoms (REF-0597). | 2026-06-15: migrated to entity
-  schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1447, REF-1448,
+  REF-1449, REF-1450, REF-1451, REF-1452, REF-1453, REF-1454, REF-1455, REF-1456) — woven into relevant
+  actions/indications and the plant-level references bucket.'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1436,
+ "count": 1465,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -1710,6 +1710,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1451",
+   "key": "kosakowska2024oregano",
+   "type": "article",
+   "title": "Activity of Common Thyme, Greek Oregano, and Common Oregano (Origanum vulgare) Essential Oils against Selected Phytopathogens",
+   "authors": "Kosakowska, O., Weglarz, Z., Styczynska, S., Synowiec, A. and others",
+   "journal": "Molecules",
+   "year": "2024",
+   "doi": "10.3390/molecules29194617",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules29194617",
+   "link_type": "doi",
+   "citation": "Kosakowska, O., Weglarz, Z., Styczynska, S., Synowiec, A. and others (2024) 'Activity of Common Thyme, Greek Oregano, and Common Oregano (Origanum vulgare) Essential Oils against Selected Phytopathogens', Molecules, 29(19), pp. 4617. doi:10.3390/molecules29194617",
+   "abstract": "The essential oils of common oregano (Origanum vulgare) and Greek oregano showed antimicrobial activity against selected phytopathogens, characterising the antimicrobial potency of oregano oil.",
+   "tier": "preclinical",
+   "display": "Activity of Common Thyme, Greek Oregano, and Common Oregano (Origanum vulgare) Essential Oils against Selected Phytopathogens",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0685",
    "key": "anajirih2024alchemilla",
    "type": "article",
@@ -2680,6 +2709,63 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1439",
+   "key": "alrimawi2024olive",
+   "type": "article",
+   "title": "Evaluation of the antibacterial and antifungal properties of oleuropein, Olea europaea leaf extract, and Thymus vulgaris oil",
+   "authors": "Al-Rimawi, F., Sbeih, M., Amayreh, M., Rahhal, B. and others",
+   "journal": "BMC Complementary Medicine and Therapies",
+   "year": "2024",
+   "doi": "10.1186/s12906-024-04596-x",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-024-04596-x",
+   "link_type": "doi",
+   "citation": "Al-Rimawi, F., Sbeih, M., Amayreh, M., Rahhal, B. and others (2024) 'Evaluation of the antibacterial and antifungal properties of oleuropein, Olea europaea leaf extract, and Thymus vulgaris oil', BMC Complementary Medicine and Therapies, 24(1), pp. 297. doi:10.1186/s12906-024-04596-x",
+   "abstract": "Oleuropein and olive (Olea europaea) leaf extract showed antibacterial and antifungal properties, supporting the antimicrobial use of olive leaf preparations.",
+   "tier": "preclinical",
+   "display": "Evaluation of the antibacterial and antifungal properties of oleuropein, Olea europaea leaf extract, and Thymus vulgaris oil",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1459",
+   "key": "gadelhak2024epo",
+   "type": "article",
+   "title": "Evening primrose oil enriched with gamma linolenic acid and D/L-alpha tocopherol acetate attenuated carbon tetrachloride-induced hepatic injury model in male rats via TNF-alpha, IL-1beta, and IL-6 pathway",
+   "authors": "Gad El-Hak, H.N., Kishk, S.M. and Abdelrazek, H.M.A.",
+   "journal": "Toxicology Mechanisms and Methods",
+   "year": "2024",
+   "doi": "10.1080/15376516.2023.2301357",
+   "url": "",
+   "link": "https://doi.org/10.1080/15376516.2023.2301357",
+   "link_type": "doi",
+   "citation": "Gad El-Hak, H.N., Kishk, S.M. and Abdelrazek, H.M.A (2024) 'Evening primrose oil enriched with gamma linolenic acid and D/L-alpha tocopherol acetate attenuated carbon tetrachloride-induced hepatic injury model in male rats via TNF-alpha, IL-1beta, and IL-6 pathway', Toxicology Mechanisms and Methods, 34(5), pp. 469-483. doi:10.1080/15376516.2023.2301357",
+   "abstract": "Evening primrose oil (Oenothera biennis) enriched with gamma-linolenic acid and tocopherol attenuated carbon-tetrachloride-induced hepatic injury in rats by reducing oxidative stress and down-regulating TNF-alpha, IL-1beta and IL-6, demonstrating an anti-inflammatory, antioxidant effect.",
+   "tier": "preclinical",
+   "display": "Evening primrose oil enriched with gamma linolenic acid and D/L-alpha tocopherol acetate attenuated carbon tetrachloride-induced hepatic injury model in male rats via TNF-alpha, IL-1beta, and IL-6 pathway",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0729",
    "key": "wubuli2024absinthium",
    "type": "article",
@@ -3520,6 +3606,62 @@
    ],
    "actions": [
     "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1445",
+   "key": "imperatrice2024olive",
+   "type": "article",
+   "title": "Olive Leaf Extract Supplementation Improves Postmenopausal Symptoms: A Randomized, Double-Blind, Placebo-Controlled Parallel Study on Postmenopausal Women",
+   "authors": "Imperatrice, M., Lasfar, A., van Kalkeren, C.A.J. and Troost, F.",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16223879",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16223879",
+   "link_type": "doi",
+   "citation": "Imperatrice, M., Lasfar, A., van Kalkeren, C.A.J. and Troost, F (2024) 'Olive Leaf Extract Supplementation Improves Postmenopausal Symptoms: A Randomized, Double-Blind, Placebo-Controlled Parallel Study on Postmenopausal Women', Nutrients, 16(22), pp. 3879. doi:10.3390/nu16223879",
+   "abstract": "In a randomized, double-blind, placebo-controlled study, olive (Olea europaea) leaf extract supplementation improved postmenopausal symptoms, supporting a clinical benefit of olive leaf polyphenols.",
+   "tier": "rct",
+   "display": "Olive Leaf Extract Supplementation Improves Postmenopausal Symptoms: A Randomized, Double-Blind, Placebo-Controlled Parallel Study on Postmenopausal Women",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1449",
+   "key": "stojanovic2024oregano",
+   "type": "article",
+   "title": "Oregano (Origanum vulgare) Essential Oil and Its Constituents Prevent Rat Kidney Tissue Injury and Inflammation Induced by a High Dose of L-Arginine",
+   "authors": "Stojanovic, N.M., Mitic, K.V., Nesic, M., Stankovic, M. and others",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2024",
+   "doi": "10.3390/ijms25020941",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms25020941",
+   "link_type": "doi",
+   "citation": "Stojanovic, N.M., Mitic, K.V., Nesic, M., Stankovic, M. and others (2024) 'Oregano (Origanum vulgare) Essential Oil and Its Constituents Prevent Rat Kidney Tissue Injury and Inflammation Induced by a High Dose of L-Arginine', International Journal of Molecular Sciences, 25(2), pp. 941. doi:10.3390/ijms25020941",
+   "abstract": "Oregano (Origanum vulgare) essential oil and its constituents prevented L-arginine-induced rat kidney tissue injury and inflammation, demonstrating antioxidant and anti-inflammatory protective effects of oregano.",
+   "tier": "preclinical",
+   "display": "Oregano (Origanum vulgare) Essential Oil and Its Constituents Prevent Rat Kidney Tissue Injury and Inflammation Induced by a High Dose of L-Arginine",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -5357,6 +5499,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1455",
+   "key": "zinno2023oregano",
+   "type": "article",
+   "title": "Chemical Composition and Biological Activities of Essential Oils from Origanum vulgare Genotypes Belonging to the Carvacrol and Thymol Chemotypes",
+   "authors": "Zinno, P., Guantario, B., Lombardi, G., Ranaldi, G. and others",
+   "journal": "Plants",
+   "year": "2023",
+   "doi": "10.3390/plants12061344",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants12061344",
+   "link_type": "doi",
+   "citation": "Zinno, P., Guantario, B., Lombardi, G., Ranaldi, G. and others (2023) 'Chemical Composition and Biological Activities of Essential Oils from Origanum vulgare Genotypes Belonging to the Carvacrol and Thymol Chemotypes', Plants, 12(6), pp. 1344. doi:10.3390/plants12061344",
+   "abstract": "Essential oils from carvacrol- and thymol-chemotype genotypes of oregano (Origanum vulgare) were characterised chemically and showed antimicrobial and antioxidant biological activities, relating chemotype to bioactivity.",
+   "tier": "preclinical",
+   "display": "Chemical Composition and Biological Activities of Essential Oils from Origanum vulgare Genotypes Belonging to the Carvacrol and Thymol Chemotypes",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0809",
    "key": "cmikova2023eucalyptus",
    "type": "article",
@@ -5414,6 +5586,35 @@
    "conditions": [
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1456",
+   "key": "kolypetri2023oregano",
+   "type": "article",
+   "title": "Chemical Composition, Antibacterial and Antibiofilm Actions of Oregano (Origanum vulgare subsp. hirtum) Essential Oil against Salmonella Typhimurium and Listeria monocytogenes",
+   "authors": "Kolypetri, S., Kostoglou, D., Nikolaou, A., Kourkoutas, Y. and others",
+   "journal": "Foods",
+   "year": "2023",
+   "doi": "10.3390/foods12152893",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods12152893",
+   "link_type": "doi",
+   "citation": "Kolypetri, S., Kostoglou, D., Nikolaou, A., Kourkoutas, Y. and others (2023) 'Chemical Composition, Antibacterial and Antibiofilm Actions of Oregano (Origanum vulgare subsp. hirtum) Essential Oil against Salmonella Typhimurium and Listeria monocytogenes', Foods, 12(15), pp. 2893. doi:10.3390/foods12152893",
+   "abstract": "Oregano (Origanum vulgare subsp. hirtum) essential oil showed antibacterial and antibiofilm actions against Salmonella Typhimurium and Listeria monocytogenes, supporting the antimicrobial use of oregano oil.",
+   "tier": "preclinical",
+   "display": "Chemical Composition, Antibacterial and Antibiofilm Actions of Oregano (Origanum vulgare subsp. hirtum) Essential Oil against Salmonella Typhimurium and Listeria monocytogenes",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1299",
@@ -5973,6 +6174,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1461",
+   "key": "farag2023epo",
+   "type": "article",
+   "title": "Evening primrose oil: a comprehensive review of its bioactives, extraction, analysis, oil quality, therapeutic merits, and safety",
+   "authors": "Farag, M.A., Reda, A., Nabil, M., Elimam, D.M. and Zayed, A.",
+   "journal": "Food & Function",
+   "year": "2023",
+   "doi": "10.1039/d3fo01949g",
+   "url": "",
+   "link": "https://doi.org/10.1039/d3fo01949g",
+   "link_type": "doi",
+   "citation": "Farag, M.A., Reda, A., Nabil, M., Elimam, D.M. and Zayed, A (2023) 'Evening primrose oil: a comprehensive review of its bioactives, extraction, analysis, oil quality, therapeutic merits, and safety', Food & Function, 14(18), pp. 8049-8070. doi:10.1039/d3fo01949g",
+   "abstract": "This comprehensive review of evening primrose oil (Oenothera biennis) covers its bioactive constituents (linoleic acid, gamma-linolenic acid, phenolics, sterols), extraction and analysis, therapeutic merits (immune balance, women's health) and safety, including potential drug-EPO interactions.",
+   "tier": "review",
+   "display": "Evening primrose oil: a comprehensive review of its bioactives, extraction, analysis, oil quality, therapeutic merits, and safety",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [
+    "Emollient / skin-soothing"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0617",
    "key": "retzl2023viola",
    "type": "article",
@@ -6033,6 +6264,34 @@
    ],
    "scientific": [
     "Verbena officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1465",
+   "key": "ide2023epo",
+   "type": "article",
+   "title": "gamma-Linolenic Acid-Rich Oil- and Fish Oil-Induced Alterations of Hepatic Lipogenesis, Fatty Acid Oxidation, and Adipose Tissue mRNA Expression in Obese KK-Ay Mice",
+   "authors": "Ide, T.",
+   "journal": "Journal of Oleo Science",
+   "year": "2023",
+   "doi": "10.5650/jos.ess22341",
+   "url": "",
+   "link": "https://doi.org/10.5650/jos.ess22341",
+   "link_type": "doi",
+   "citation": "Ide, T (2023) 'gamma-Linolenic Acid-Rich Oil- and Fish Oil-Induced Alterations of Hepatic Lipogenesis, Fatty Acid Oxidation, and Adipose Tissue mRNA Expression in Obese KK-Ay Mice', Journal of Oleo Science, 72(3), pp. 313-327. doi:10.5650/jos.ess22341",
+   "abstract": "gamma-Linolenic-acid-rich evening primrose oil (Oenothera biennis) increased hepatic fatty-acid oxidation, reduced lipogenesis and serum/liver triglycerides and lowered serum glucose in obese diabetic mice, ameliorating obesity- and diabetes-related metabolic disorders.",
+   "tier": "preclinical",
+   "display": "gamma-Linolenic Acid-Rich Oil- and Fish Oil-Induced Alterations of Hepatic Lipogenesis, Fatty Acid Oxidation, and Adipose Tissue mRNA Expression in Obese KK-Ay Mice",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
    ],
    "actions": [],
    "conditions": []
@@ -6611,6 +6870,35 @@
    "conditions": [
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-1447",
+   "key": "angiolella2023oregano",
+   "type": "article",
+   "title": "Modulatory effect of Origanum vulgare essential oil and carvacrol on Malassezia spp. virulence factors",
+   "authors": "Angiolella, L., Rojas, F., Mussin, J. and Giusiano, G.",
+   "journal": "Medical Mycology",
+   "year": "2023",
+   "doi": "10.1093/mmy/myad026",
+   "url": "",
+   "link": "https://doi.org/10.1093/mmy/myad026",
+   "link_type": "doi",
+   "citation": "Angiolella, L., Rojas, F., Mussin, J. and Giusiano, G (2023) 'Modulatory effect of Origanum vulgare essential oil and carvacrol on Malassezia spp. virulence factors', Medical Mycology, 61(3), pp. myad026. doi:10.1093/mmy/myad026",
+   "abstract": "Oregano (Origanum vulgare) essential oil and its constituent carvacrol showed antifungal activity against Malassezia species and inhibited their virulence factors (adherence, biofilm formation), supporting the antifungal use of oregano.",
+   "tier": "preclinical",
+   "display": "Modulatory effect of Origanum vulgare essential oil and carvacrol on Malassezia spp. virulence factors",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [
+    "Antifungal"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1107",
@@ -7557,6 +7845,33 @@
    "actions": [
     "Antimicrobial"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1450",
+   "key": "mertzanidis2022oregano",
+   "type": "article",
+   "title": "Unravelling the Chemotaxonomic Identity of 'White' and 'Black' Oregano (Origanum vulgare) in Northern Greece",
+   "authors": "Mertzanidis, D., Nakas, A., Assimopoulou, A.N. and Kokkini, S.",
+   "journal": "Planta Medica",
+   "year": "2023",
+   "doi": "10.1055/a-1949-8895",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-1949-8895",
+   "link_type": "doi",
+   "citation": "Mertzanidis, D., Nakas, A., Assimopoulou, A.N. and Kokkini, S (2023) 'Unravelling the Chemotaxonomic Identity of 'White' and 'Black' Oregano (Origanum vulgare) in Northern Greece', Planta Medica, 89(4), pp. 433-440. doi:10.1055/a-1949-8895",
+   "abstract": "This study characterised the essential-oil chemotypes ('white' and 'black') of oregano (Origanum vulgare) from northern Greece, relating their carvacrol/thymol content to the chemotaxonomic identity of the herb.",
+   "tier": "preclinical",
+   "display": "Unravelling the Chemotaxonomic Identity of 'White' and 'Black' Oregano (Origanum vulgare) in Northern Greece",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -10547,6 +10862,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1460",
+   "key": "mert2020epo",
+   "type": "article",
+   "title": "The effect of evening primrose oil (Oenothera biennis) on the level of adiponectin and some biochemical parameters in rats with fructose induced metabolic syndrome",
+   "authors": "Mert, H., Irak, K., Cibuk, S., Yildirim, S. and Mert, N.",
+   "journal": "Archives of Physiology and Biochemistry",
+   "year": "2022",
+   "doi": "10.1080/13813455.2020.1781900",
+   "url": "",
+   "link": "https://doi.org/10.1080/13813455.2020.1781900",
+   "link_type": "doi",
+   "citation": "Mert, H., Irak, K., Cibuk, S., Yildirim, S. and Mert, N (2022) 'The effect of evening primrose oil (Oenothera biennis) on the level of adiponectin and some biochemical parameters in rats with fructose induced metabolic syndrome', Archives of Physiology and Biochemistry, 128(6), pp. 1539-1547. doi:10.1080/13813455.2020.1781900",
+   "abstract": "Evening primrose oil (Oenothera biennis) acted as an antioxidant and anti-inflammatory agent in fructose-induced metabolic syndrome rats, reducing oxidative stress and dyslipidemia and increasing adiponectin and insulin sensitivity.",
+   "tier": "preclinical",
+   "display": "The effect of evening primrose oil (Oenothera biennis) on the level of adiponectin and some biochemical parameters in rats with fructose induced metabolic syndrome",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1190",
    "key": "mohaghegh2022malva",
    "type": "article",
@@ -11017,6 +11360,35 @@
     "Muscle soreness",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1453",
+   "key": "hao2021oregano",
+   "type": "article",
+   "title": "A Carvacrol-Rich Essential Oil Extracted From Oregano (Origanum vulgare 'Hot & Spicy') Exerts Potent Antibacterial Effects",
+   "authors": "Hao, Y., Li, J. and Shi, L.",
+   "journal": "Frontiers in Microbiology",
+   "year": "2021",
+   "doi": "10.3389/fmicb.2021.741861",
+   "url": "",
+   "link": "https://doi.org/10.3389/fmicb.2021.741861",
+   "link_type": "doi",
+   "citation": "Hao, Y., Li, J. and Shi, L (2021) 'A Carvacrol-Rich Essential Oil Extracted From Oregano (Origanum vulgare 'Hot & Spicy') Exerts Potent Antibacterial Effects', Frontiers in Microbiology, 12, pp. 741861. doi:10.3389/fmicb.2021.741861",
+   "abstract": "A carvacrol-rich essential oil extracted from oregano (Origanum vulgare) exerted potent antibacterial effects against foodborne pathogens, supporting the antimicrobial use of oregano oil.",
+   "tier": "preclinical",
+   "display": "A Carvacrol-Rich Essential Oil Extracted From Oregano (Origanum vulgare 'Hot & Spicy') Exerts Potent Antibacterial Effects",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0583",
@@ -14326,6 +14698,34 @@
    ]
   },
   {
+   "ref_id": "REF-1462",
+   "key": "moradi2021epo",
+   "type": "article",
+   "title": "The effect of evening primrose oil on labor induction and cervical ripening: A systematic review and meta-analysis",
+   "authors": "Moradi, M., Niazi, A., Heydarian Miri, H. and Lopez, V.",
+   "journal": "Phytotherapy Research",
+   "year": "2021",
+   "doi": "10.1002/ptr.7147",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7147",
+   "link_type": "doi",
+   "citation": "Moradi, M., Niazi, A., Heydarian Miri, H. and Lopez, V (2021) 'The effect of evening primrose oil on labor induction and cervical ripening: A systematic review and meta-analysis', Phytotherapy Research, 35(10), pp. 5374-5383. doi:10.1002/ptr.7147",
+   "abstract": "This systematic review and meta-analysis found that oral evening primrose oil (Oenothera biennis) did not significantly improve cervical ripening (Bishop score) for labour induction, illustrating the heterogeneous and often negative clinical evidence for EPO.",
+   "tier": "review",
+   "display": "The effect of evening primrose oil on labor induction and cervical ripening: A systematic review and meta-analysis",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1131",
    "key": "taleb2021verbascum",
    "type": "article",
@@ -14700,6 +15100,33 @@
    "conditions": [
     "Fatigue / low energy"
    ]
+  },
+  {
+   "ref_id": "REF-1441",
+   "key": "pang2021olive",
+   "type": "article",
+   "title": "Thyroid-Modulating Activities of Olive and Its Polyphenols: A Systematic Review",
+   "authors": "Pang, K.L., Lumintang, J.N. and Chin, K.Y.",
+   "journal": "Nutrients",
+   "year": "2021",
+   "doi": "10.3390/nu13020529",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu13020529",
+   "link_type": "doi",
+   "citation": "Pang, K.L., Lumintang, J.N. and Chin, K.Y (2021) 'Thyroid-Modulating Activities of Olive and Its Polyphenols: A Systematic Review', Nutrients, 13(2), pp. 529. doi:10.3390/nu13020529",
+   "abstract": "This systematic review summarises the thyroid-modulating and broader metabolic and antioxidant activities of olive (Olea europaea) and its polyphenols (oleuropein, hydroxytyrosol).",
+   "tier": "review",
+   "display": "Thyroid-Modulating Activities of Olive and Its Polyphenols: A Systematic Review",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1228",
@@ -15966,6 +16393,35 @@
     "Melissa officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1452",
+   "key": "hou2020oregano",
+   "type": "article",
+   "title": "Effects of Origanum vulgare essential oil and its two main components, carvacrol and thymol, on a plant pathogen",
+   "authors": "Hou, H., Zhang, X., Zhao, T. and Zhou, L.",
+   "journal": "PeerJ",
+   "year": "2020",
+   "doi": "10.7717/peerj.9626",
+   "url": "",
+   "link": "https://doi.org/10.7717/peerj.9626",
+   "link_type": "doi",
+   "citation": "Hou, H., Zhang, X., Zhao, T. and Zhou, L (2020) 'Effects of Origanum vulgare essential oil and its two main components, carvacrol and thymol, on a plant pathogen', PeerJ, 8, pp. e9626. doi:10.7717/peerj.9626",
+   "abstract": "Oregano (Origanum vulgare) essential oil and its main components carvacrol and thymol showed strong antimicrobial activity by damaging microbial cell membranes, characterising the antimicrobial mechanism of oregano oil.",
+   "tier": "preclinical",
+   "display": "Effects of Origanum vulgare essential oil and its two main components, carvacrol and thymol, on a plant pathogen",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -19554,6 +20010,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1448",
+   "key": "veenstra2019oregano",
+   "type": "article",
+   "title": "Oregano (Origanum vulgare) extract for food preservation and improvement in gastrointestinal health",
+   "authors": "Veenstra, J.P. and Johnson, J.J.",
+   "journal": "International Journal of Nutrition",
+   "year": "2019",
+   "doi": "10.14302/issn.2379-7835.ijn-19-2703",
+   "url": "",
+   "link": "https://doi.org/10.14302/issn.2379-7835.ijn-19-2703",
+   "link_type": "doi",
+   "citation": "Veenstra, J.P. and Johnson, J.J (2019) 'Oregano (Origanum vulgare) extract for food preservation and improvement in gastrointestinal health', International Journal of Nutrition, 3(4), pp. 43-52. doi:10.14302/issn.2379-7835.ijn-19-2703",
+   "abstract": "This review of oregano (Origanum vulgare) extract summarises its antimicrobial use for food preservation and its potential to improve gastrointestinal health, via its carvacrol- and thymol-rich essential oil.",
+   "tier": "preclinical",
+   "display": "Oregano (Origanum vulgare) extract for food preservation and improvement in gastrointestinal health",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1232",
    "key": "makrane2018marjoram",
    "type": "article",
@@ -21364,6 +21850,64 @@
    ]
   },
   {
+   "ref_id": "REF-1457",
+   "key": "timoszuk2018epo",
+   "type": "article",
+   "title": "Evening Primrose (Oenothera biennis) Biological Activity Dependent on Chemical Composition",
+   "authors": "Timoszuk, M., Bielawska, K. and Skrzydlewska, E.",
+   "journal": "Antioxidants",
+   "year": "2018",
+   "doi": "10.3390/antiox7080108",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox7080108",
+   "link_type": "doi",
+   "citation": "Timoszuk, M., Bielawska, K. and Skrzydlewska, E (2018) 'Evening Primrose (Oenothera biennis) Biological Activity Dependent on Chemical Composition', Antioxidants, 7(8), pp. 108. doi:10.3390/antiox7080108",
+   "abstract": "This review of evening primrose (Oenothera biennis) relates its biological activity to its chemical composition, focusing on the seed oil rich in linoleic acid and gamma-linolenic acid (GLA), precursors of anti-inflammatory eicosanoids beneficial in atopic dermatitis, psoriasis and other conditions.",
+   "tier": "review",
+   "display": "Evening Primrose (Oenothera biennis) Biological Activity Dependent on Chemical Composition",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [
+    "Emollient / skin-soothing"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1464",
+   "key": "kalati2018epo",
+   "type": "article",
+   "title": "Evening primrose oil and labour, is it effective? A randomised clinical trial",
+   "authors": "Kalati, M., Kashanian, M., Jahdi, F., Naseri, M. and others",
+   "journal": "Journal of Obstetrics and Gynaecology",
+   "year": "2018",
+   "doi": "10.1080/01443615.2017.1386165",
+   "url": "",
+   "link": "https://doi.org/10.1080/01443615.2017.1386165",
+   "link_type": "doi",
+   "citation": "Kalati, M., Kashanian, M., Jahdi, F., Naseri, M. and others (2018) 'Evening primrose oil and labour, is it effective? A randomised clinical trial', Journal of Obstetrics and Gynaecology, 38(4), pp. 488-492. doi:10.1080/01443615.2017.1386165",
+   "abstract": "In a triple-blind placebo-controlled randomised clinical trial, evening primrose oil (Oenothera biennis) did not affect cervical Bishop score or the duration of labour, adding to the evidence that EPO is not effective for cervical ripening.",
+   "tier": "rct",
+   "display": "Evening primrose oil and labour, is it effective? A randomised clinical trial",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0837",
    "key": "wen2018seabuckthorn",
    "type": "article",
@@ -21615,6 +22159,94 @@
     "Pulmonaria officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1440",
+   "key": "qabaha2017olive",
+   "type": "article",
+   "title": "Oleuropein Is Responsible for the Major Anti-Inflammatory Effects of Olive Leaf Extract",
+   "authors": "Qabaha, K., Al-Rimawi, F., Qasem, A. and Naser, S.A.",
+   "journal": "Journal of Medicinal Food",
+   "year": "2018",
+   "doi": "10.1089/jmf.2017.0070",
+   "url": "",
+   "link": "https://doi.org/10.1089/jmf.2017.0070",
+   "link_type": "doi",
+   "citation": "Qabaha, K., Al-Rimawi, F., Qasem, A. and Naser, S.A (2018) 'Oleuropein Is Responsible for the Major Anti-Inflammatory Effects of Olive Leaf Extract', Journal of Medicinal Food, 21(3), pp. 302-305. doi:10.1089/jmf.2017.0070",
+   "abstract": "Oleuropein was identified as responsible for the major anti-inflammatory effects of olive (Olea europaea) leaf extract, reducing TNF-alpha and IL-1beta, characterising the anti-inflammatory mechanism of olive leaf.",
+   "tier": "preclinical",
+   "display": "Oleuropein Is Responsible for the Major Anti-Inflammatory Effects of Olive Leaf Extract",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-1438",
+   "key": "ruzzolini2018olive",
+   "type": "article",
+   "title": "Oleuropein, the Main Polyphenol of Olea europaea Leaf Extract, Has an Anti-Cancer Effect on Human BRAF Melanoma Cells and Potentiates the Cytotoxicity of Current Chemotherapies",
+   "authors": "Ruzzolini, J., Peppicelli, S., Andreucci, E., Bianchini, F. and others",
+   "journal": "Nutrients",
+   "year": "2018",
+   "doi": "10.3390/nu10121950",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu10121950",
+   "link_type": "doi",
+   "citation": "Ruzzolini, J., Peppicelli, S., Andreucci, E., Bianchini, F. and others (2018) 'Oleuropein, the Main Polyphenol of Olea europaea Leaf Extract, Has an Anti-Cancer Effect on Human BRAF Melanoma Cells and Potentiates the Cytotoxicity of Current Chemotherapies', Nutrients, 10(12), pp. 1950. doi:10.3390/nu10121950",
+   "abstract": "Oleuropein, the main polyphenol of olive (Olea europaea) leaf extract, exerted an anti-cancer effect on human BRAF melanoma cells and potentiated current chemotherapies, demonstrating an antitumour activity of olive polyphenols.",
+   "tier": "preclinical",
+   "display": "Oleuropein, the Main Polyphenol of Olea europaea Leaf Extract, Has an Anti-Cancer Effect on Human BRAF Melanoma Cells and Potentiates the Cytotoxicity of Current Chemotherapies",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1442",
+   "key": "kheirandish2018olive",
+   "type": "article",
+   "title": "Olive (Olea europaea) leaf extract alters the cytokine profile of Leishmania major-infected macrophages: New insight into the underlying mechanism",
+   "authors": "Kheirandish, F., Mosaffa, N., Tarahi, M.J. and Fallahi, S.",
+   "journal": "Parasite Immunology",
+   "year": "2018",
+   "doi": "10.1111/pim.12520",
+   "url": "",
+   "link": "https://doi.org/10.1111/pim.12520",
+   "link_type": "doi",
+   "citation": "Kheirandish, F., Mosaffa, N., Tarahi, M.J. and Fallahi, S (2018) 'Olive (Olea europaea) leaf extract alters the cytokine profile of Leishmania major-infected macrophages: New insight into the underlying mechanism', Parasite Immunology, 40(4), pp. e12520. doi:10.1111/pim.12520",
+   "abstract": "Olive (Olea europaea) leaf extract altered the cytokine profile of Leishmania-major-infected macrophages, exerting antiparasitic/antimicrobial and immunomodulatory (anti-inflammatory) effects.",
+   "tier": "preclinical",
+   "display": "Olive (Olea europaea) leaf extract alters the cytokine profile of Leishmania major-infected macrophages: New insight into the underlying mechanism",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -23316,6 +23948,36 @@
     "Asclepias tuberosa"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1437",
+   "key": "omar2017olive",
+   "type": "article",
+   "title": "Olive (Olea europaea L.) Biophenols: A Nutriceutical against Oxidative Stress in SH-SY5Y Cells",
+   "authors": "Omar, S.H., Kerr, P.G., Scott, C.J., Hamlin, A.S. and others",
+   "journal": "Molecules",
+   "year": "2017",
+   "doi": "10.3390/molecules22111858",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules22111858",
+   "link_type": "doi",
+   "citation": "Omar, S.H., Kerr, P.G., Scott, C.J., Hamlin, A.S. and others (2017) 'Olive (Olea europaea L.) Biophenols: A Nutriceutical against Oxidative Stress in SH-SY5Y Cells', Molecules, 22(11), pp. 1858. doi:10.3390/molecules22111858",
+   "abstract": "Olive (Olea europaea) biophenols (oleuropein, hydroxytyrosol) protected SH-SY5Y neuronal cells against oxidative stress, demonstrating the antioxidant and neuroprotective nutraceutical potential of olive polyphenols.",
+   "tier": "preclinical",
+   "display": "Olive (Olea europaea L.) Biophenols: A Nutriceutical against Oxidative Stress in SH-SY5Y Cells",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -25453,6 +26115,33 @@
    "actions": [
     "Antimicrobial"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1454",
+   "key": "baranauskaite2015oregano",
+   "type": "article",
+   "title": "Optimization of carvacrol, rosmarinic, oleanolic and ursolic acid extraction from oregano herbs (Origanum onites L., Origanum vulgare spp. hirtum and Origanum vulgare L.)",
+   "authors": "Baranauskaite, J., Jakstas, V., Ivanauskas, L., Kopustinskiene, D.M. and others",
+   "journal": "Natural Product Research",
+   "year": "2016",
+   "doi": "10.1080/14786419.2015.1038998",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2015.1038998",
+   "link_type": "doi",
+   "citation": "Baranauskaite, J., Jakstas, V., Ivanauskas, L., Kopustinskiene, D.M. and others (2016) 'Optimization of carvacrol, rosmarinic, oleanolic and ursolic acid extraction from oregano herbs (Origanum onites L., Origanum vulgare spp. hirtum and Origanum vulgare L.)', Natural Product Research, 30(6), pp. 672-674. doi:10.1080/14786419.2015.1038998",
+   "abstract": "This study optimised the extraction of the active constituents carvacrol, rosmarinic, oleanolic and ursolic acids from oregano (Origanum vulgare) herbs, characterising the antioxidant and antimicrobial constituents of oregano.",
+   "tier": "preclinical",
+   "display": "Optimization of carvacrol, rosmarinic, oleanolic and ursolic acid extraction from oregano herbs (Origanum onites L., Origanum vulgare spp. hirtum and Origanum vulgare L.)",
+   "plants": [
+    "Oregano",
+    "Origanum",
+    "Wild marjoram"
+   ],
+   "scientific": [
+    "Origanum vulgare"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -30341,6 +31030,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1446",
+   "key": "debock2013oliveabs",
+   "type": "article",
+   "title": "Human absorption and metabolism of oleuropein and hydroxytyrosol ingested as olive (Olea europaea L.) leaf extract",
+   "authors": "de Bock, M., Thorstensen, E.B., Derraik, J.G., Henderson, H.V. and others",
+   "journal": "Molecular Nutrition & Food Research",
+   "year": "2013",
+   "doi": "10.1002/mnfr.201200795",
+   "url": "",
+   "link": "https://doi.org/10.1002/mnfr.201200795",
+   "link_type": "doi",
+   "citation": "de Bock, M., Thorstensen, E.B., Derraik, J.G., Henderson, H.V. and others (2013) 'Human absorption and metabolism of oleuropein and hydroxytyrosol ingested as olive (Olea europaea L.) leaf extract', Molecular Nutrition & Food Research, 57(11), pp. 2079-2085. doi:10.1002/mnfr.201200795",
+   "abstract": "This study characterised the human absorption and metabolism of the olive (Olea europaea) leaf polyphenols oleuropein and hydroxytyrosol after ingestion of olive leaf extract, informing the bioavailability of olive's bioactive constituents.",
+   "tier": "preclinical",
+   "display": "Human absorption and metabolism of oleuropein and hydroxytyrosol ingested as olive (Olea europaea L.) leaf extract",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0181",
    "key": "natural2013hypericum",
    "type": "misc",
@@ -30430,6 +31146,35 @@
     "Skin irritation",
     "Sore throat"
    ]
+  },
+  {
+   "ref_id": "REF-1444",
+   "key": "pasbanaliabadi2013olive",
+   "type": "article",
+   "title": "Inhibition of 6-hydroxydopamine-induced PC12 cell apoptosis by olive (Olea europaea L.) leaf extract is performed by its main component oleuropein",
+   "authors": "Pasban-Aliabadi, H., Esmaeili-Mahani, S., Sheibani, V., Abbasnejad, M. and others",
+   "journal": "Rejuvenation Research",
+   "year": "2013",
+   "doi": "10.1089/rej.2012.1384",
+   "url": "",
+   "link": "https://doi.org/10.1089/rej.2012.1384",
+   "link_type": "doi",
+   "citation": "Pasban-Aliabadi, H., Esmaeili-Mahani, S., Sheibani, V., Abbasnejad, M. and others (2013) 'Inhibition of 6-hydroxydopamine-induced PC12 cell apoptosis by olive (Olea europaea L.) leaf extract is performed by its main component oleuropein', Rejuvenation Research, 16(2), pp. 134-142. doi:10.1089/rej.2012.1384",
+   "abstract": "Olive (Olea europaea) leaf extract and its main component oleuropein inhibited 6-hydroxydopamine-induced apoptosis in PC12 cells, demonstrating an antioxidant, neuroprotective effect relevant to neurodegeneration.",
+   "tier": "preclinical",
+   "display": "Inhibition of 6-hydroxydopamine-induced PC12 cell apoptosis by olive (Olea europaea L.) leaf extract is performed by its main component oleuropein",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0062",
@@ -30620,6 +31365,37 @@
     "Immune support",
     "Inflammation (general)",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1443",
+   "key": "debock2013oliveins",
+   "type": "article",
+   "title": "Olive (Olea europaea L.) leaf polyphenols improve insulin sensitivity in middle-aged overweight men: a randomized, placebo-controlled, crossover trial",
+   "authors": "de Bock, M., Derraik, J.G., Brennan, C.M., Biggs, J.B. and others",
+   "journal": "PLoS One",
+   "year": "2013",
+   "doi": "10.1371/journal.pone.0057622",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0057622",
+   "link_type": "doi",
+   "citation": "de Bock, M., Derraik, J.G., Brennan, C.M., Biggs, J.B. and others (2013) 'Olive (Olea europaea L.) leaf polyphenols improve insulin sensitivity in middle-aged overweight men: a randomized, placebo-controlled, crossover trial', PLoS One, 8(3), pp. e57622. doi:10.1371/journal.pone.0057622",
+   "abstract": "In a randomized, placebo-controlled crossover trial, olive (Olea europaea) leaf polyphenols improved insulin sensitivity and pancreatic beta-cell responsiveness in middle-aged overweight men, supporting an antidiabetic, metabolic benefit of olive leaf.",
+   "tier": "rct",
+   "display": "Olive (Olea europaea L.) leaf polyphenols improve insulin sensitivity in middle-aged overweight men: a randomized, placebo-controlled, crossover trial",
+   "plants": [
+    "European olive",
+    "Olive",
+    "common olive"
+   ],
+   "scientific": [
+    "Olea europaea"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support"
    ]
   },
   {
@@ -39864,6 +40640,36 @@
    ]
   },
   {
+   "ref_id": "REF-1458",
+   "key": "williams2003epo",
+   "type": "article",
+   "title": "Evening primrose oil for atopic dermatitis",
+   "authors": "Williams, H.C.",
+   "journal": "BMJ",
+   "year": "2003",
+   "doi": "10.1136/bmj.327.7428.1358",
+   "url": "",
+   "link": "https://doi.org/10.1136/bmj.327.7428.1358",
+   "link_type": "doi",
+   "citation": "Williams, H.C (2003) 'Evening primrose oil for atopic dermatitis', BMJ, 327(7428), pp. 1358-1359. doi:10.1136/bmj.327.7428.1358",
+   "abstract": "This BMJ editorial reviews the evidence for evening primrose oil (Oenothera biennis) in atopic dermatitis, concluding that the controlled-trial evidence does not support a clinically useful benefit for eczema.",
+   "tier": "review",
+   "display": "Evening primrose oil for atopic dermatitis",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Eczema"
+   ]
+  },
+  {
    "ref_id": "REF-0186",
    "key": "oliff2003great",
    "type": "misc",
@@ -41683,6 +42489,36 @@
     "Inflammation (general)",
     "Metabolic support",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-1463",
+   "key": "belch2000epo",
+   "type": "article",
+   "title": "Evening primrose oil and borage oil in rheumatologic conditions",
+   "authors": "Belch, J.J. and Hill, A.",
+   "journal": "The American Journal of Clinical Nutrition",
+   "year": "2000",
+   "doi": "10.1093/ajcn/71.1.352s",
+   "url": "",
+   "link": "https://doi.org/10.1093/ajcn/71.1.352s",
+   "link_type": "doi",
+   "citation": "Belch, J.J. and Hill, A (2000) 'Evening primrose oil and borage oil in rheumatologic conditions', The American Journal of Clinical Nutrition, 71(1 Suppl), pp. 352S-356S. doi:10.1093/ajcn/71.1.352s",
+   "abstract": "This review describes how the gamma-linolenic acid of evening primrose oil (Oenothera biennis), via dihomo-gamma-linolenic acid, suppresses inflammatory prostaglandins and leukotrienes, and reviews the clinical studies suggesting some benefit in rheumatoid arthritis and other rheumatologic conditions.",
+   "tier": "review",
+   "display": "Evening primrose oil and borage oil in rheumatologic conditions",
+   "plants": [
+    "Evening Primrose",
+    "Evening star",
+    "Fever plant",
+    "Sundrop"
+   ],
+   "scientific": [
+    "Oenothera biennis"
+   ],
+   "actions": [],
+   "conditions": [
+    "Pain (general)"
    ]
   },
   {

@@ -2743,7 +2743,8 @@
       "REF-0103",
       "REF-0174",
       "REF-0210",
-      "REF-0310"
+      "REF-0310",
+      "REF-1392"
      ],
      "status": "verified"
     },
@@ -2754,7 +2755,10 @@
       "REF-0103",
       "REF-0174",
       "REF-0210",
-      "REF-0310"
+      "REF-0310",
+      "REF-1394",
+      "REF-1396",
+      "REF-1397"
      ],
      "status": "verified"
     },
@@ -2765,7 +2769,11 @@
       "REF-0103",
       "REF-0174",
       "REF-0210",
-      "REF-0310"
+      "REF-0310",
+      "REF-1388",
+      "REF-1391",
+      "REF-1392",
+      "REF-1395"
      ],
      "status": "verified"
     },
@@ -2871,7 +2879,8 @@
       "REF-0103",
       "REF-0174",
       "REF-0210",
-      "REF-0310"
+      "REF-0310",
+      "REF-1391"
      ],
      "status": "verified"
     },
@@ -2962,9 +2971,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1388",
+    "REF-1389",
+    "REF-1390",
+    "REF-1391",
+    "REF-1392",
+    "REF-1393",
+    "REF-1394",
+    "REF-1395",
+    "REF-1396",
+    "REF-1397"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "angelica-archangelica",
@@ -11588,7 +11609,10 @@
       "REF-0083",
       "REF-0117",
       "REF-0223",
-      "REF-0262"
+      "REF-0262",
+      "REF-0727",
+      "REF-1399",
+      "REF-1401"
      ],
      "status": "verified"
     },
@@ -11599,7 +11623,8 @@
       "REF-0083",
       "REF-0117",
       "REF-0223",
-      "REF-0262"
+      "REF-0262",
+      "REF-0727"
      ],
      "status": "verified"
     },
@@ -11646,7 +11671,8 @@
       "REF-0083",
       "REF-0117",
       "REF-0223",
-      "REF-0262"
+      "REF-0262",
+      "REF-0727"
      ],
      "status": "needs-review"
     },
@@ -11694,7 +11720,8 @@
       "REF-0083",
       "REF-0117",
       "REF-0223",
-      "REF-0262"
+      "REF-0262",
+      "REF-1399"
      ],
      "status": "needs-review"
     },
@@ -11785,9 +11812,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-1398",
+    "REF-0727",
+    "REF-1399",
+    "REF-1400",
+    "REF-1401",
+    "REF-1402",
+    "REF-1403",
+    "REF-1404",
+    "REF-1405",
+    "REF-1406"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "eschscholzia-californica",
@@ -32167,7 +32206,8 @@
      "note": "Thought to be responsible for the mild expectorant action.",
      "reference_ids": [
       "REF-0441",
-      "REF-0442"
+      "REF-0442",
+      "REF-1385"
      ]
     },
     {
@@ -32180,7 +32220,11 @@
      ],
      "note": "Anti-inflammatory and antioxidant constituents.",
      "reference_ids": [
-      "REF-0441"
+      "REF-0441",
+      "REF-1381",
+      "REF-1382",
+      "REF-1384",
+      "REF-1387"
      ]
     }
    ],
@@ -32190,7 +32234,9 @@
      "note": "Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough; Soothes catarrh of the upper respiratory tract / bronchitis (mucilage coats irritated mucosa; saponins loosen mucus)",
      "reference_ids": [
       "REF-0441",
-      "REF-0442"
+      "REF-0442",
+      "REF-1123",
+      "REF-1130"
      ],
      "status": "verified"
     },
@@ -32199,7 +32245,8 @@
      "note": "Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough",
      "reference_ids": [
       "REF-0441",
-      "REF-0442"
+      "REF-0442",
+      "REF-1123"
      ],
      "status": "verified"
     }
@@ -32266,7 +32313,8 @@
      "note": "inferred from demulcent action",
      "reference_ids": [
       "REF-0441",
-      "REF-0442"
+      "REF-0442",
+      "REF-1383"
      ],
      "status": "needs-review"
     },
@@ -32298,9 +32346,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1381",
+    "REF-1382",
+    "REF-1383",
+    "REF-1384",
+    "REF-1385",
+    "REF-1386",
+    "REF-0332",
+    "REF-1387",
+    "REF-1123",
+    "REF-1130"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "verbascum-thapsus",

@@ -7867,6 +7867,18 @@
      ]
     },
     {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0441",
+      "REF-0442",
+      "REF-1383"
+     ]
+    },
+    {
      "condition": "bronchitis",
      "label": "Bronchitis",
      "evidence": 1,
@@ -7902,17 +7914,6 @@
     {
      "condition": "respiratory-support",
      "label": "Respiratory support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0441",
-      "REF-0442"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -8019,6 +8020,21 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0064",
+      "REF-0103",
+      "REF-0174",
+      "REF-0210",
+      "REF-0310",
+      "REF-1391"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 8,
@@ -8094,20 +8110,6 @@
      "evidence": 8,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0064",
-      "REF-0103",
-      "REF-0174",
-      "REF-0210",
-      "REF-0310"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 8,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0064",
       "REF-0103",
@@ -8924,7 +8926,8 @@
       "REF-0083",
       "REF-0117",
       "REF-0223",
-      "REF-0262"
+      "REF-0262",
+      "REF-0727"
      ]
     },
     {
@@ -8980,7 +8983,8 @@
       "REF-0083",
       "REF-0117",
       "REF-0223",
-      "REF-0262"
+      "REF-0262",
+      "REF-1399"
      ]
     },
     {

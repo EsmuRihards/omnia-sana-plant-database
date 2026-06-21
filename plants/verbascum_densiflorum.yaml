@@ -24,6 +24,7 @@ constituents:
   reference_ids:
   - REF-0441
   - REF-0442
+  - REF-1385
 - name: Flavonoids, iridoid and phenylethanoid glycosides (verbascoside)
   compounds:
   - verbascoside
@@ -33,6 +34,10 @@ constituents:
   note: Anti-inflammatory and antioxidant constituents.
   reference_ids:
   - REF-0441
+  - REF-1381
+  - REF-1382
+  - REF-1384
+  - REF-1387
 actions:
 - action: demulcent
   note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough;
@@ -41,12 +46,15 @@ actions:
   reference_ids:
   - REF-0441
   - REF-0442
+  - REF-1123
+  - REF-1130
   status: verified
 - action: expectorant
   note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
   reference_ids:
   - REF-0441
   - REF-0442
+  - REF-1123
   status: verified
 indications:
 - condition: bronchitis
@@ -99,6 +107,7 @@ indications:
   reference_ids:
   - REF-0441
   - REF-0442
+  - REF-1383
   status: needs-review
 - condition: sore-throat
   note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough
@@ -120,9 +129,20 @@ contraindications:
   reference_ids:
   - REF-0441
   status: verified
+references:
+- REF-1381
+- REF-1382
+- REF-1383
+- REF-1384
+- REF-1385
+- REF-1386
+- REF-0332
+- REF-1387
+- REF-1123
+- REF-1130
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and
   ESCOP monograph, which cover V. densiflorum together with V. thapsus and V. phlomoides). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, earache,
@@ -130,4 +150,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   two PubMed-sourced RCTs of a naturopathic herbal ear drop containing Verbascum (with other herbs) that
   relieved ear pain in paediatric acute otitis media as well as anaesthetic drops (REF-0611, REF-0612);
   the earache action stays needs-review as these are combination products. | 2026-06-15: migrated to entity
-  schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1381, REF-1382,
+  REF-1383, REF-1384, REF-1385, REF-1386, REF-0332, REF-1387, REF-1123, REF-1130) — woven into relevant
+  actions/indications and the plant-level references bucket.'

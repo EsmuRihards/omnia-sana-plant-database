@@ -39,14 +39,12 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0046
   - REF-0242
   - REF-0297
   status: needs-review
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0046
   - REF-0242
   - REF-0297
   status: needs-review
@@ -63,14 +61,12 @@ indications:
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0046
   - REF-0242
   - REF-0297
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0046
   - REF-0242
   - REF-0297
   - REF-1271
@@ -84,7 +80,6 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0046
   - REF-0242
   - REF-0297
   status: needs-review

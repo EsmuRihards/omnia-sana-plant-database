@@ -41,14 +41,12 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0114
   - REF-0124
   - REF-0253
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0114
   - REF-0124
   - REF-0253
   - REF-0941
@@ -59,7 +57,6 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0114
   - REF-0124
   - REF-0253
   - REF-0940
@@ -67,7 +64,6 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0114
   - REF-0124
   - REF-0253
   status: needs-review
@@ -82,7 +78,6 @@ indications:
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0114
   - REF-0124
   - REF-0253
   status: needs-review

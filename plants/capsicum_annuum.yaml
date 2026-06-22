@@ -58,7 +58,6 @@ indications:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
@@ -69,7 +68,6 @@ indications:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
@@ -77,19 +75,14 @@ indications:
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
   - REF-0161
   - REF-0169
   - REF-0214
@@ -98,10 +91,7 @@ indications:
 - condition: headache
   note: inferred from analgesic action
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
@@ -109,10 +99,7 @@ indications:
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
@@ -120,10 +107,7 @@ indications:
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
@@ -131,10 +115,7 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
@@ -144,7 +125,6 @@ indications:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
@@ -152,10 +132,7 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287
@@ -163,10 +140,7 @@ indications:
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
   - REF-0287

@@ -51,7 +51,6 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0102
   - REF-0258
   - REF-0300
   status: needs-review
@@ -71,20 +70,17 @@ indications:
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
-  - REF-0102
   - REF-0258
   - REF-0300
   status: needs-review
 - condition: immune-support
   reference_ids:
-  - REF-0102
   - REF-0258
   - REF-0300
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0102
   - REF-0258
   - REF-0300
   status: needs-review
@@ -98,7 +94,6 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0102
   - REF-0258
   - REF-0300
   status: needs-review

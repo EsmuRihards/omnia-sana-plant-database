@@ -74,18 +74,14 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0667
   - REF-0669
   status: needs-review
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   status: needs-review
 - condition: blood-sugar
   note: inferred from antidiabetic action
@@ -109,24 +105,18 @@ indications:
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   status: needs-review
 - condition: infection
   note: inferred from antifungal action
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0668
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0667
   - REF-0669
   status: needs-review
@@ -143,18 +133,14 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0667
   - REF-0669
   status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0668
   status: needs-review
 contraindications:

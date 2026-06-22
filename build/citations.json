@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1687,
+ "count": 1708,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -869,7 +869,11 @@
    "scientific": [
     "Aegopodium podagraria"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Anti-rheumatic / anti-arthritic",
+    "Diuretic"
+   ],
    "conditions": []
   },
   {
@@ -6697,6 +6701,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1704",
+   "key": "scandar2023coriander",
+   "type": "article",
+   "title": "Coriander (Coriandrum sativum) Polyphenols and Their Nutraceutical Value against Obesity and Metabolic Syndrome",
+   "authors": "Scandar, S., Zadra, C. and Marcotullio, M.C.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28104187",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28104187",
+   "link_type": "doi",
+   "citation": "Scandar, S., Zadra, C. and Marcotullio, M.C (2023) 'Coriander (Coriandrum sativum) Polyphenols and Their Nutraceutical Value against Obesity and Metabolic Syndrome', Molecules, 28(10), pp. 4187. doi:10.3390/molecules28104187",
+   "abstract": "This review focuses on coriander (Coriandrum sativum) polyphenols and their antioxidant, anti-inflammatory and metabolic activities, evaluating their nutraceutical value against obesity and the metabolic syndrome.",
+   "tier": "review",
+   "display": "Coriander (Coriandrum sativum) Polyphenols and Their Nutraceutical Value against Obesity and Metabolic Syndrome",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0779",
    "key": "santibanez2023coriander",
    "type": "article",
@@ -6724,6 +6760,38 @@
     "Coriandrum sativum"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1705",
+   "key": "alkhayri2023corianderoil",
+   "type": "article",
+   "title": "Coriandrum sativum Essential Oil: A review on Its Phytochemistry and Biological Activity",
+   "authors": "Al-Khayri, J.M., Banadka, A., Nandhini, M., Nagella, P., Al-Mssallem, M.Q. and Alessa, F.M.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28020696",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28020696",
+   "link_type": "doi",
+   "citation": "Al-Khayri, J.M., Banadka, A., Nandhini, M., Nagella, P., Al-Mssallem, M.Q. and Alessa, F.M (2023) 'Coriandrum sativum Essential Oil: A review on Its Phytochemistry and Biological Activity', Molecules, 28(2), pp. 696. doi:10.3390/molecules28020696",
+   "abstract": "This review of Coriandrum sativum essential oil details its linalool-dominated composition and its antimicrobial, antioxidant, anti-inflammatory and other biological activities documented from traditional and modern studies.",
+   "tier": "review",
+   "display": "Coriandrum sativum Essential Oil: A review on Its Phytochemistry and Biological Activity",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -8239,6 +8307,39 @@
    ],
    "actions": [
     "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1695",
+   "key": "ouyang2023betula",
+   "type": "article",
+   "title": "Novel compounds discovery approach based on UPLC-QTOF-MS/MS chemical profile reveals birch bark extract anti-inflammatory, -oxidative, and -proliferative effects",
+   "authors": "Ou-Yang, T., Zhang, Y., Luo, H.Z., Liu, Y. and Ma, S.C.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2023",
+   "doi": "10.1016/j.jep.2023.116148",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2023.116148",
+   "link_type": "doi",
+   "citation": "Ou-Yang, T., Zhang, Y., Luo, H.Z., Liu, Y. and Ma, S.C (2023) 'Novel compounds discovery approach based on UPLC-QTOF-MS/MS chemical profile reveals birch bark extract anti-inflammatory, -oxidative, and -proliferative effects', Journal of Ethnopharmacology, 309, pp. 116148. doi:10.1016/j.jep.2023.116148",
+   "abstract": "Chemical profiling of Betula pendula subsp. mandshurica bark (a traditional remedy for inflammatory diseases) identified constituents underlying its anti-inflammatory, antioxidant and anti-proliferative effects, substantiating the medicinal use of birch bark.",
+   "tier": "preclinical",
+   "display": "Novel compounds discovery approach based on UPLC-QTOF-MS/MS chemical profile reveals birch bark extract anti-inflammatory, -oxidative, and -proliferative effects",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)",
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -11517,6 +11618,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1698",
+   "key": "efthimiou2022betula",
+   "type": "article",
+   "title": "Investigation of the Genotoxicological Profile of Aqueous Betula pendula Extracts",
+   "authors": "Efthimiou, I., Vlastos, D., Triantafyllidis, V., Eleftherianos, A. and Antonopoulou, M.",
+   "journal": "Plants",
+   "year": "2022",
+   "doi": "10.3390/plants11202673",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants11202673",
+   "link_type": "doi",
+   "citation": "Efthimiou, I., Vlastos, D., Triantafyllidis, V., Eleftherianos, A. and Antonopoulou, M (2022) 'Investigation of the Genotoxicological Profile of Aqueous Betula pendula Extracts', Plants, 11(20), pp. 2673. doi:10.3390/plants11202673",
+   "abstract": "Aqueous Betula pendula extracts, evaluated for genotoxic and cytotoxic activity, showed a favourable safety profile alongside the antimicrobial, antioxidant and anticancer properties reported for birch species, informing the safe use of birch preparations.",
+   "tier": "preclinical",
+   "display": "Investigation of the Genotoxicological Profile of Aqueous Betula pendula Extracts",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0769",
    "key": "aksit2022centaurium",
    "type": "article",
@@ -14064,7 +14194,9 @@
    "scientific": [
     "Aegopodium podagraria"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -14486,6 +14618,71 @@
     "Cordyceps militaris"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1708",
+   "key": "koppula2021coriander",
+   "type": "article",
+   "title": "Coriandrum sativum attenuates microglia mediated neuroinflammation and MPTP-induced behavioral and oxidative changes in Parkinson's disease mouse model",
+   "authors": "Koppula, S., Alluri, R. and Kopalli, S.R.",
+   "journal": "EXCLI Journal",
+   "year": "2021",
+   "doi": "10.17179/excli2021-3668",
+   "url": "",
+   "link": "https://doi.org/10.17179/excli2021-3668",
+   "link_type": "doi",
+   "citation": "Koppula, S., Alluri, R. and Kopalli, S.R (2021) 'Coriandrum sativum attenuates microglia mediated neuroinflammation and MPTP-induced behavioral and oxidative changes in Parkinson's disease mouse model', EXCLI Journal, 20, pp. 835-850. doi:10.17179/excli2021-3668",
+   "abstract": "Coriandrum sativum fruit extract attenuated LPS-stimulated microglia-mediated neuroinflammation and reduced MPTP-induced behavioural and oxidative changes in a mouse model of Parkinson's disease, demonstrating anti-inflammatory and antioxidant neuroprotective activity.",
+   "tier": "preclinical",
+   "display": "Coriandrum sativum attenuates microglia mediated neuroinflammation and MPTP-induced behavioral and oxidative changes in Parkinson's disease mouse model",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1700",
+   "key": "mahleyuddin2021coriander",
+   "type": "article",
+   "title": "Coriandrum sativum L.: A Review on Ethnopharmacology, Phytochemistry, and Cardiovascular Benefits",
+   "authors": "Mahleyuddin, N.N., Moshawih, S., Ming, L.C., Zulkifly, H.H., Kifli, N. and Loy, M.J.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules27010209",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27010209",
+   "link_type": "doi",
+   "citation": "Mahleyuddin, N.N., Moshawih, S., Ming, L.C., Zulkifly, H.H., Kifli, N. and Loy, M.J (2021) 'Coriandrum sativum L.: A Review on Ethnopharmacology, Phytochemistry, and Cardiovascular Benefits', Molecules, 27(1), pp. 209. doi:10.3390/molecules27010209",
+   "abstract": "This review of coriander (Coriandrum sativum) describes its polyphenols, vitamins and phytosterols and their anticancer, anti-inflammatory, antimicrobial, antioxidant and especially cardiovascular benefits, alongside its culinary and traditional-medicine uses.",
+   "tier": "review",
+   "display": "Coriandrum sativum L.: A Review on Ethnopharmacology, Phytochemistry, and Cardiovascular Benefits",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -17001,6 +17198,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1696",
+   "key": "szoka2021betula",
+   "type": "article",
+   "title": "Santin and cirsimaritin from Betula pubescens and Betula pendula buds induce apoptosis in human digestive system cancer cells",
+   "authors": "Szoka, L., Nazaruk, J., Stocki, M. and Isidorov, V.",
+   "journal": "Journal of Cellular and Molecular Medicine",
+   "year": "2021",
+   "doi": "10.1111/jcmm.17031",
+   "url": "",
+   "link": "https://doi.org/10.1111/jcmm.17031",
+   "link_type": "doi",
+   "citation": "Szoka, L., Nazaruk, J., Stocki, M. and Isidorov, V (2021) 'Santin and cirsimaritin from Betula pubescens and Betula pendula buds induce apoptosis in human digestive system cancer cells', Journal of Cellular and Molecular Medicine, 25(23), pp. 11085-11096. doi:10.1111/jcmm.17031",
+   "abstract": "The flavonoids santin and cirsimaritin isolated from Betula pendula (and B. pubescens) buds induced apoptosis in human digestive-system cancer cells, identifying bioactive birch-bud constituents with anticancer activity.",
+   "tier": "preclinical",
+   "display": "Santin and cirsimaritin from Betula pubescens and Betula pendula buds induce apoptosis in human digestive system cancer cells",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0090",
    "key": "forouzanfar2021forouzanfar",
    "type": "misc",
@@ -19007,6 +19235,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1691",
+   "key": "niziol2020goutweed",
+   "type": "article",
+   "title": "Comparison of the Antiaging and Protective Properties of Plants from the Apiaceae Family",
+   "authors": "Niziol-Lukaszewska, Z., Zagorska-Dziok, M., Ziemlewska, A. and Bujak, T.",
+   "journal": "Oxidative Medicine and Cellular Longevity",
+   "year": "2020",
+   "doi": "10.1155/2020/5307614",
+   "url": "",
+   "link": "https://doi.org/10.1155/2020/5307614",
+   "link_type": "doi",
+   "citation": "Niziol-Lukaszewska, Z., Zagorska-Dziok, M., Ziemlewska, A. and Bujak, T (2020) 'Comparison of the Antiaging and Protective Properties of Plants from the Apiaceae Family', Oxidative Medicine and Cellular Longevity, 2020, pp. 5307614. doi:10.1155/2020/5307614",
+   "abstract": "Among Apiaceae herbs including Aegopodium podagraria, the goutweed herb extract showed high antioxidant capacity and inhibited collagenase and elastase while supporting keratinocyte and fibroblast proliferation, demonstrating antioxidant, anti-ageing and skin-protective (regenerative) properties.",
+   "tier": "preclinical",
+   "display": "Comparison of the Antiaging and Protective Properties of Plants from the Apiaceae Family",
+   "plants": [
+    "Ground Elder",
+    "bishop's weed",
+    "gout wort",
+    "goutweed",
+    "snow-in-the-mountain"
+   ],
+   "scientific": [
+    "Aegopodium podagraria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0390",
    "key": "gonzalez2020cranberry",
    "type": "article",
@@ -20878,6 +21135,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1706",
+   "key": "kukner2020coriander",
+   "type": "article",
+   "title": "Protective effect of Coriandrum sativum extract against inflammation and apoptosis in liver ischaemia/reperfusion injury",
+   "authors": "Kukner, A., Soyler, G., Toros, P., Dede, G., Mericli, F. and Isik, S.",
+   "journal": "Folia Morphologica",
+   "year": "2020",
+   "doi": "10.5603/FM.a2020.0060",
+   "url": "",
+   "link": "https://doi.org/10.5603/FM.a2020.0060",
+   "link_type": "doi",
+   "citation": "Kukner, A., Soyler, G., Toros, P., Dede, G., Mericli, F. and Isik, S (2020) 'Protective effect of Coriandrum sativum extract against inflammation and apoptosis in liver ischaemia/reperfusion injury', Folia Morphologica, 80(2), pp. 363-371. doi:10.5603/FM.a2020.0060",
+   "abstract": "In a rat liver ischaemia/reperfusion model, Coriandrum sativum extract reduced inflammation and apoptosis and improved biochemical and histological markers, demonstrating anti-inflammatory and antioxidant hepatoprotective effects.",
+   "tier": "preclinical",
+   "display": "Protective effect of Coriandrum sativum extract against inflammation and apoptosis in liver ischaemia/reperfusion injury",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1156",
    "key": "amsterdam2019chamomile",
    "type": "article",
@@ -21550,6 +21840,35 @@
     "Antimicrobial",
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1689",
+   "key": "flieger2020goutweed",
+   "type": "article",
+   "title": "The [DPPH/DPPH-H]-HPLC-DAD Method on Tracking the Antioxidant Activity of Pure Antioxidants and Goutweed (Aegopodium podagraria L.) Hydroalcoholic Extracts",
+   "authors": "Flieger, J. and Flieger, M.",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25246005",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25246005",
+   "link_type": "doi",
+   "citation": "Flieger, J. and Flieger, M (2020) 'The [DPPH/DPPH-H]-HPLC-DAD Method on Tracking the Antioxidant Activity of Pure Antioxidants and Goutweed (Aegopodium podagraria L.) Hydroalcoholic Extracts', Molecules, 25(24), pp. 6005. doi:10.3390/molecules25246005",
+   "abstract": "Using a DPPH-RP-HPLC-DAD method, hydroalcoholic extracts of goutweed (Aegopodium podagraria) displayed measurable antioxidant (radical-scavenging) activity, with the extract from dried plants prepared by ultrasound showing the highest antioxidant potential.",
+   "tier": "preclinical",
+   "display": "The [DPPH/DPPH-H]-HPLC-DAD Method on Tracking the Antioxidant Activity of Pure Antioxidants and Goutweed (Aegopodium podagraria L.) Hydroalcoholic Extracts",
+   "plants": [
+    "Ground Elder",
+    "bishop's weed",
+    "gout wort",
+    "goutweed",
+    "snow-in-the-mountain"
+   ],
+   "scientific": [
+    "Aegopodium podagraria"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -24918,7 +25237,9 @@
    "scientific": [
     "Betula pendula"
    ],
-   "actions": [],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -25261,6 +25582,38 @@
    "conditions": [
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-1697",
+   "key": "isidorov2018betula",
+   "type": "article",
+   "title": "Cytotoxicity of white birch bud extracts: Perspectives for therapy of tumours",
+   "authors": "Isidorov, V., Szoka, L. and Nazaruk, J.",
+   "journal": "PLoS One",
+   "year": "2018",
+   "doi": "10.1371/journal.pone.0201949",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0201949",
+   "link_type": "doi",
+   "citation": "Isidorov, V., Szoka, L. and Nazaruk, J (2018) 'Cytotoxicity of white birch bud extracts: Perspectives for therapy of tumours', PLoS One, 13(8), pp. e0201949. doi:10.1371/journal.pone.0201949",
+   "abstract": "White birch (Betula pendula/pubescens) bud extracts, traditionally used as diuretic, antiseptic, anti-inflammatory and analgesic agents, showed selective cytotoxicity toward tumour cells, suggesting therapeutic potential of birch buds against cancer.",
+   "tier": "preclinical",
+   "display": "Cytotoxicity of white birch bud extracts: Perspectives for therapy of tumours",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0312",
@@ -25951,6 +26304,35 @@
    "actions": [
     "Anticancer (preclinical)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1699",
+   "key": "jafarihajati2018betula",
+   "type": "article",
+   "title": "Improved accumulation of betulin and betulinic acid in cell suspension culture of Betula pendula Roth by abiotic and biotic elicitors",
+   "authors": "Jafari Hajati, R., Payamnoor, V., Ahmadian Chashmi, N. and Ghasemi Bezdi, K.",
+   "journal": "Preparative Biochemistry & Biotechnology",
+   "year": "2018",
+   "doi": "10.1080/10826068.2018.1514514",
+   "url": "",
+   "link": "https://doi.org/10.1080/10826068.2018.1514514",
+   "link_type": "doi",
+   "citation": "Jafari Hajati, R., Payamnoor, V., Ahmadian Chashmi, N. and Ghasemi Bezdi, K (2018) 'Improved accumulation of betulin and betulinic acid in cell suspension culture of Betula pendula Roth by abiotic and biotic elicitors', Preparative Biochemistry & Biotechnology, 48(10), pp. 915-924. doi:10.1080/10826068.2018.1514514",
+   "abstract": "Elicitation of Betula pendula cell-suspension cultures increased accumulation of the pharmacologically active triterpenes betulin and betulinic acid, providing a biotechnological route to these anticancer/anti-inflammatory birch constituents.",
+   "tier": "preclinical",
+   "display": "Improved accumulation of betulin and betulinic acid in cell suspension culture of Betula pendula Roth by abiotic and biotic elicitors",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -27527,6 +27909,41 @@
    ]
   },
   {
+   "ref_id": "REF-1701",
+   "key": "prachayasittikul2017coriander",
+   "type": "article",
+   "title": "Coriander (Coriandrum sativum): A promising functional food toward the well-being",
+   "authors": "Prachayasittikul, V., Prachayasittikul, S., Ruchirawat, S. and Prachayasittikul, V.",
+   "journal": "Food Research International",
+   "year": "2017",
+   "doi": "10.1016/j.foodres.2017.11.019",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodres.2017.11.019",
+   "link_type": "doi",
+   "citation": "Prachayasittikul, V., Prachayasittikul, S., Ruchirawat, S. and Prachayasittikul, V (2017) 'Coriander (Coriandrum sativum): A promising functional food toward the well-being', Food Research International, 105, pp. 305-323. doi:10.1016/j.foodres.2017.11.019",
+   "abstract": "This review of coriander (Coriandrum sativum) summarises its bioactive phytochemicals and their antioxidant, anti-inflammatory, antimicrobial, digestive, anti-diabetic, anxiolytic and neuroprotective activities, presenting coriander as a promising functional food.",
+   "tier": "review",
+   "display": "Coriander (Coriandrum sativum): A promising functional food toward the well-being",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antioxidant",
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0626",
    "key": "mikkelsen2017asclepias",
    "type": "article",
@@ -27734,6 +28151,37 @@
     "Cough",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-1693",
+   "key": "azman2017betula",
+   "type": "article",
+   "title": "Evaluation of the antioxidant activity of Betula pendula leaves extract and its effects on model foods",
+   "authors": "Azman, N.A.M., Skowyra, M., Muhammad, K., Gallego, M.G. and Almajano, M.P.",
+   "journal": "Pharmaceutical Biology",
+   "year": "2017",
+   "doi": "10.1080/13880209.2017.1282528",
+   "url": "",
+   "link": "https://doi.org/10.1080/13880209.2017.1282528",
+   "link_type": "doi",
+   "citation": "Azman, N.A.M., Skowyra, M., Muhammad, K., Gallego, M.G. and Almajano, M.P (2017) 'Evaluation of the antioxidant activity of Betula pendula leaves extract and its effects on model foods', Pharmaceutical Biology, 55(1), pp. 912-919. doi:10.1080/13880209.2017.1282528",
+   "abstract": "Betula pendula leaf extract, rich in phenolic compounds, showed strong antioxidant activity and effectively retarded lipid oxidation in model foods, demonstrating the antioxidant capacity of silver-birch leaves.",
+   "tier": "preclinical",
+   "display": "Evaluation of the antioxidant activity of Betula pendula leaves extract and its effects on model foods",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1646",
@@ -29944,6 +30392,70 @@
    ]
   },
   {
+   "ref_id": "REF-1707",
+   "key": "liu2016coriander",
+   "type": "article",
+   "title": "Coriandrum sativum Suppresses Abeta42-Induced ROS Increases, Glial Cell Proliferation, and ERK Activation",
+   "authors": "Liu, Q.F., Jeong, H., Lee, J.H., Hong, Y.K., Oh, Y. and Kim, Y.M.",
+   "journal": "American Journal of Chinese Medicine",
+   "year": "2016",
+   "doi": "10.1142/S0192415X16500749",
+   "url": "",
+   "link": "https://doi.org/10.1142/S0192415X16500749",
+   "link_type": "doi",
+   "citation": "Liu, Q.F., Jeong, H., Lee, J.H., Hong, Y.K., Oh, Y. and Kim, Y.M (2016) 'Coriandrum sativum Suppresses Abeta42-Induced ROS Increases, Glial Cell Proliferation, and ERK Activation', American Journal of Chinese Medicine, 44(7), pp. 1325-1347. doi:10.1142/S0192415X16500749",
+   "abstract": "In an Alzheimer's-disease model, Coriandrum sativum extract suppressed amyloid-beta-42-induced reactive-oxygen-species increases, glial-cell proliferation and ERK activation, indicating antioxidant and neuroprotective anti-neuroinflammatory effects.",
+   "tier": "preclinical",
+   "display": "Coriandrum sativum Suppresses Abeta42-Induced ROS Increases, Glial Cell Proliferation, and ERK Activation",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1694",
+   "key": "bljajic2016betula",
+   "type": "article",
+   "title": "Effect of Betula pendula Leaf Extract on alpha-Glucosidase and Glutathione Level in Glucose-Induced Oxidative Stress",
+   "authors": "Bljajic, K., Sostaric, N., Petlevski, R., Vujic, L., Brajkovic, A. and Fumic, B.",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2016",
+   "doi": "10.1155/2016/8429398",
+   "url": "",
+   "link": "https://doi.org/10.1155/2016/8429398",
+   "link_type": "doi",
+   "citation": "Bljajic, K., Sostaric, N., Petlevski, R., Vujic, L., Brajkovic, A. and Fumic, B (2016) 'Effect of Betula pendula Leaf Extract on alpha-Glucosidase and Glutathione Level in Glucose-Induced Oxidative Stress', Evidence-Based Complementary and Alternative Medicine, 2016, pp. 8429398. doi:10.1155/2016/8429398",
+   "abstract": "Ethanolic and aqueous Betula pendula leaf extracts, used traditionally for diabetes in southeastern Europe, inhibited the carbohydrate-hydrolysing enzyme alpha-glucosidase and restored glutathione under glucose-induced oxidative stress, supporting an antidiabetic and antioxidant action.",
+   "tier": "preclinical",
+   "display": "Effect of Betula pendula Leaf Extract on alpha-Glucosidase and Glutathione Level in Glucose-Induced Oxidative Stress",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1494",
    "key": "maodaa2016parsley",
    "type": "article",
@@ -31486,6 +31998,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1688",
+   "key": "tovchiga2016goutweed",
+   "type": "article",
+   "title": "The influence of goutweed (Aegopodium podagraria L.) tincture and metformin on the carbohydrate and lipid metabolism in dexamethasone-treated rats",
+   "authors": "Tovchiga, O.V.",
+   "journal": "BMC Complementary and Alternative Medicine",
+   "year": "2016",
+   "doi": "10.1186/s12906-016-1221-y",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-016-1221-y",
+   "link_type": "doi",
+   "citation": "Tovchiga, O.V (2016) 'The influence of goutweed (Aegopodium podagraria L.) tincture and metformin on the carbohydrate and lipid metabolism in dexamethasone-treated rats', BMC Complementary and Alternative Medicine, 16, pp. 235. doi:10.1186/s12906-016-1221-y",
+   "abstract": "In dexamethasone-treated rats modelling metabolic syndrome and type-2 diabetes, goutweed (Aegopodium podagraria) aerial-part tincture combined with low-dose metformin enhanced its glucose-lowering effect and improved triglycerides and HDL cholesterol, supporting the traditional metabolic use of the herb.",
+   "tier": "preclinical",
+   "display": "The influence of goutweed (Aegopodium podagraria L.) tincture and metformin on the carbohydrate and lipid metabolism in dexamethasone-treated rats",
+   "plants": [
+    "Ground Elder",
+    "bishop's weed",
+    "gout wort",
+    "goutweed",
+    "snow-in-the-mountain"
+   ],
+   "scientific": [
+    "Aegopodium podagraria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1537",
    "key": "bijak2016raspberry",
    "type": "article",
@@ -31985,6 +32526,38 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1702",
+   "key": "laribi2015coriander",
+   "type": "article",
+   "title": "Coriander (Coriandrum sativum L.) and its bioactive constituents",
+   "authors": "Laribi, B., Kouki, K., M'Hamdi, M. and Bettaieb, T.",
+   "journal": "Fitoterapia",
+   "year": "2015",
+   "doi": "10.1016/j.fitote.2015.03.012",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2015.03.012",
+   "link_type": "doi",
+   "citation": "Laribi, B., Kouki, K., M'Hamdi, M. and Bettaieb, T (2015) 'Coriander (Coriandrum sativum L.) and its bioactive constituents', Fitoterapia, 103, pp. 9-26. doi:10.1016/j.fitote.2015.03.012",
+   "abstract": "This updated review highlights coriander (Coriandrum sativum) as a widely used medicinal plant, detailing its bioactive constituents and their antioxidant, antimicrobial, anti-inflammatory, anticancer, neuroprotective and digestive pharmacological properties.",
+   "tier": "review",
+   "display": "Coriander (Coriandrum sativum L.) and its bioactive constituents",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0147",
@@ -34687,7 +35260,11 @@
    "scientific": [
     "Betula pendula"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -37270,6 +37847,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1703",
+   "key": "sahib2012coriander",
+   "type": "article",
+   "title": "Coriander (Coriandrum sativum L.): a potential source of high-value components for functional foods and nutraceuticals - a review",
+   "authors": "Sahib, N.G., Anwar, F., Gilani, A.H., Hamid, A.A., Saari, N. and Alkharfy, K.M.",
+   "journal": "Phytotherapy Research",
+   "year": "2012",
+   "doi": "10.1002/ptr.4897",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.4897",
+   "link_type": "doi",
+   "citation": "Sahib, N.G., Anwar, F., Gilani, A.H., Hamid, A.A., Saari, N. and Alkharfy, K.M (2012) 'Coriander (Coriandrum sativum L.): a potential source of high-value components for functional foods and nutraceuticals - a review', Phytotherapy Research, 27(10), pp. 1439-1456. doi:10.1002/ptr.4897",
+   "abstract": "This review values coriander (Coriandrum sativum) as a source of high-value components for functional foods and nutraceuticals, summarising the use of all plant parts as flavouring agents and folk remedies and their antioxidant and other health-promoting activities.",
+   "tier": "review",
+   "display": "Coriander (Coriandrum sativum L.): a potential source of high-value components for functional foods and nutraceuticals - a review",
+   "plants": [
+    "2021)",
+    "Chinese parsley",
+    "Coriander",
+    "cilantro",
+    "dhania/dhanya",
+    "pak chee  (Mahleyuddin et al"
+   ],
+   "scientific": [
+    "Coriandrum sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0436",
    "key": "hasanudin2012corn",
    "type": "article",
@@ -38708,6 +39315,38 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1692",
+   "key": "grundemann2011betula",
+   "type": "article",
+   "title": "An aqueous birch leaf extract of Betula pendula inhibits the growth and cell division of inflammatory lymphocytes",
+   "authors": "Grundemann, C., Gruber, C.W., Hertrampf, A., Zehl, M., Kopp, B. and Huber, R.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2011",
+   "doi": "10.1016/j.jep.2011.05.018",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2011.05.018",
+   "link_type": "doi",
+   "citation": "Grundemann, C., Gruber, C.W., Hertrampf, A., Zehl, M., Kopp, B. and Huber, R (2011) 'An aqueous birch leaf extract of Betula pendula inhibits the growth and cell division of inflammatory lymphocytes', Journal of Ethnopharmacology, 136(3), pp. 444-451. doi:10.1016/j.jep.2011.05.018",
+   "abstract": "An aqueous leaf extract of Betula pendula, traditionally used for rheumatoid arthritis and osteoarthritis, dose-dependently inhibited the proliferation and cell division of activated human inflammatory lymphocytes without cytotoxicity, supporting its anti-inflammatory and anti-rheumatic use.",
+   "tier": "preclinical",
+   "display": "An aqueous birch leaf extract of Betula pendula inhibits the growth and cell division of inflammatory lymphocytes",
+   "plants": [
+    "Birch",
+    "East Asian White Birch",
+    "European White Birch",
+    "Silver Birch",
+    "Warty Birch"
+   ],
+   "scientific": [
+    "Betula pendula"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anti-rheumatic / anti-arthritic"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0907",
@@ -43592,6 +44231,37 @@
    ],
    "actions": [
     "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1690",
+   "key": "prior2007falcarindiol",
+   "type": "article",
+   "title": "The polyacetylene falcarindiol with COX-1 activity isolated from Aegopodium podagraria L.",
+   "authors": "Prior, R.M., Lundgaard, N.H., Light, M.E., Stafford, G.I., van Staden, J. and Jager, A.K.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2007",
+   "doi": "10.1016/j.jep.2007.05.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2007.05.005",
+   "link_type": "doi",
+   "citation": "Prior, R.M., Lundgaard, N.H., Light, M.E., Stafford, G.I., van Staden, J. and Jager, A.K (2007) 'The polyacetylene falcarindiol with COX-1 activity isolated from Aegopodium podagraria L', Journal of Ethnopharmacology, 113(1), pp. 176-178. doi:10.1016/j.jep.2007.05.005",
+   "abstract": "Bioassay-guided fractionation of Aegopodium podagraria identified the polyacetylene falcarindiol as a potent cyclooxygenase-1 (COX-1) inhibitor (IC50 0.3 microM), providing a mechanistic basis for the anti-inflammatory and traditional anti-rheumatic use of goutweed.",
+   "tier": "preclinical",
+   "display": "The polyacetylene falcarindiol with COX-1 activity isolated from Aegopodium podagraria L.",
+   "plants": [
+    "Ground Elder",
+    "bishop's weed",
+    "gout wort",
+    "goutweed",
+    "snow-in-the-mountain"
+   ],
+   "scientific": [
+    "Aegopodium podagraria"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },

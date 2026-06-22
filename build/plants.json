@@ -792,7 +792,10 @@
      "reference_ids": [
       "REF-0098",
       "REF-0168",
-      "REF-0207"
+      "REF-0207",
+      "REF-0719",
+      "REF-0721",
+      "REF-1690"
      ],
      "status": "verified"
     },
@@ -801,7 +804,8 @@
      "reference_ids": [
       "REF-0098",
       "REF-0168",
-      "REF-0207"
+      "REF-0207",
+      "REF-0719"
      ],
      "status": "verified"
     },
@@ -810,7 +814,8 @@
      "reference_ids": [
       "REF-0098",
       "REF-0168",
-      "REF-0207"
+      "REF-0207",
+      "REF-0719"
      ],
      "status": "verified"
     }
@@ -931,7 +936,11 @@
    "references": [
     "REF-0719",
     "REF-0720",
-    "REF-0721"
+    "REF-0721",
+    "REF-1688",
+    "REF-1689",
+    "REF-1690",
+    "REF-1691"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -5176,7 +5185,11 @@
      "reference_ids": [
       "REF-0080",
       "REF-0188",
-      "REF-0203"
+      "REF-0203",
+      "REF-0743",
+      "REF-1692",
+      "REF-1695",
+      "REF-1697"
      ],
      "status": "verified"
     },
@@ -5185,7 +5198,8 @@
      "reference_ids": [
       "REF-0080",
       "REF-0188",
-      "REF-0203"
+      "REF-0203",
+      "REF-1692"
      ],
      "status": "verified"
     },
@@ -5194,7 +5208,10 @@
      "reference_ids": [
       "REF-0080",
       "REF-0188",
-      "REF-0203"
+      "REF-0203",
+      "REF-1695",
+      "REF-1696",
+      "REF-1697"
      ],
      "status": "verified"
     },
@@ -5203,7 +5220,8 @@
      "reference_ids": [
       "REF-0080",
       "REF-0188",
-      "REF-0203"
+      "REF-0203",
+      "REF-1694"
      ],
      "status": "verified"
     },
@@ -5212,7 +5230,8 @@
      "reference_ids": [
       "REF-0080",
       "REF-0188",
-      "REF-0203"
+      "REF-0203",
+      "REF-0743"
      ],
      "status": "verified"
     },
@@ -5221,7 +5240,12 @@
      "reference_ids": [
       "REF-0080",
       "REF-0188",
-      "REF-0203"
+      "REF-0203",
+      "REF-0743",
+      "REF-0744",
+      "REF-1693",
+      "REF-1694",
+      "REF-1695"
      ],
      "status": "verified"
     },
@@ -5439,7 +5463,15 @@
    "references": [
     "REF-0743",
     "REF-0744",
-    "REF-0745"
+    "REF-0745",
+    "REF-1692",
+    "REF-1693",
+    "REF-1694",
+    "REF-1695",
+    "REF-1696",
+    "REF-1697",
+    "REF-1698",
+    "REF-1699"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -9051,7 +9083,11 @@
      "reference_ids": [
       "REF-0151",
       "REF-0219",
-      "REF-0308"
+      "REF-0308",
+      "REF-1700",
+      "REF-1701",
+      "REF-1706",
+      "REF-1708"
      ],
      "status": "verified"
     },
@@ -9060,7 +9096,9 @@
      "reference_ids": [
       "REF-0151",
       "REF-0219",
-      "REF-0308"
+      "REF-0308",
+      "REF-1701",
+      "REF-1705"
      ],
      "status": "verified"
     },
@@ -9069,7 +9107,13 @@
      "reference_ids": [
       "REF-0151",
       "REF-0219",
-      "REF-0308"
+      "REF-0308",
+      "REF-1701",
+      "REF-1702",
+      "REF-1704",
+      "REF-1706",
+      "REF-1707",
+      "REF-1708"
      ],
      "status": "verified"
     },
@@ -9088,7 +9132,8 @@
      "reference_ids": [
       "REF-0151",
       "REF-0219",
-      "REF-0308"
+      "REF-0308",
+      "REF-1701"
      ],
      "status": "verified"
     }
@@ -9219,7 +9264,16 @@
    "references": [
     "REF-0779",
     "REF-0780",
-    "REF-0781"
+    "REF-0781",
+    "REF-1700",
+    "REF-1701",
+    "REF-1702",
+    "REF-1703",
+    "REF-1704",
+    "REF-1705",
+    "REF-1706",
+    "REF-1707",
+    "REF-1708"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

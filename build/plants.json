@@ -10523,7 +10523,15 @@
      "reference_ids": [
       "REF-0002",
       "REF-0273",
-      "REF-0305"
+      "REF-0305",
+      "REF-0791",
+      "REF-2164",
+      "REF-0792",
+      "REF-2165",
+      "REF-2167",
+      "REF-2168",
+      "REF-2169",
+      "REF-2170"
      ],
      "status": "verified"
     },
@@ -10550,7 +10558,8 @@
      "reference_ids": [
       "REF-0002",
       "REF-0273",
-      "REF-0305"
+      "REF-0305",
+      "REF-2172"
      ],
      "status": "verified"
     },
@@ -10559,7 +10568,9 @@
      "reference_ids": [
       "REF-0002",
       "REF-0273",
-      "REF-0305"
+      "REF-0305",
+      "REF-2169",
+      "REF-2171"
      ],
      "status": "verified"
     },
@@ -10698,7 +10709,16 @@
    "references": [
     "REF-0791",
     "REF-0792",
-    "REF-0793"
+    "REF-0793",
+    "REF-2164",
+    "REF-2165",
+    "REF-2166",
+    "REF-2167",
+    "REF-2168",
+    "REF-2169",
+    "REF-2170",
+    "REF-2171",
+    "REF-2172"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -12608,7 +12628,9 @@
      "note": "Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional, as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported recovery or clear improvement in most patients with conjunctivitis",
      "reference_ids": [
       "REF-0448",
-      "REF-0449"
+      "REF-0449",
+      "REF-2173",
+      "REF-2174"
      ],
      "status": "verified"
     },
@@ -12740,7 +12762,13 @@
    "references": [
     "REF-0812",
     "REF-0813",
-    "REF-0814"
+    "REF-0814",
+    "REF-2173",
+    "REF-2174",
+    "REF-2175",
+    "REF-2176",
+    "REF-2177",
+    "REF-2178"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -13871,14 +13899,20 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0308"
+      "REF-0308",
+      "REF-2179"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0308"
+      "REF-0308",
+      "REF-0824",
+      "REF-2180",
+      "REF-2181",
+      "REF-2182",
+      "REF-2184"
      ],
      "status": "verified"
     },
@@ -13887,7 +13921,15 @@
      "reference_ids": [
       "REF-0056",
       "REF-0128",
-      "REF-0308"
+      "REF-0308",
+      "REF-0824",
+      "REF-0825",
+      "REF-2179",
+      "REF-2180",
+      "REF-2182",
+      "REF-2184",
+      "REF-2185",
+      "REF-2186"
      ],
      "status": "verified"
     }
@@ -13971,7 +14013,16 @@
    "references": [
     "REF-0829",
     "REF-0824",
-    "REF-0825"
+    "REF-0825",
+    "REF-0056",
+    "REF-2179",
+    "REF-2180",
+    "REF-2181",
+    "REF-2182",
+    "REF-2183",
+    "REF-2184",
+    "REF-2185",
+    "REF-2186"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

@@ -39,6 +39,8 @@ actions:
   reference_ids:
   - REF-0448
   - REF-0449
+  - REF-2173
+  - REF-2174
   status: verified
 - action: astringent
   note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
@@ -132,6 +134,12 @@ references:
 - REF-0812
 - REF-0813
 - REF-0814
+- REF-2173
+- REF-2174
+- REF-2175
+- REF-2176
+- REF-2177
+- REF-2178
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -143,4 +151,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-
   (REF-0613; complete recovery or clear improvement in ~98% of patients, well tolerated - open-label,
   single-arm). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
-  bucket (least-cited enrichment): REF-0812, REF-0813, REF-0814.'
+  bucket (least-cited enrichment): REF-0812, REF-0813, REF-0814. | 2026-06-20: enriched to >=10 scientific
+  publications: added 8 PubMed-verified @article sources (REF-2173, REF-2174, REF-2175, REF-0812, REF-2176,
+  REF-0813, REF-2177, REF-2178) — woven into relevant actions/indications and the plant-level references
+  bucket.'

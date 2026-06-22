@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2163,
+ "count": 2186,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -4390,6 +4390,37 @@
     "Pulmonaria officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2179",
+   "key": "zhu2024ginkgo",
+   "type": "article",
+   "title": "Investigating the effects of Ginkgo biloba leaf extract on cognitive function in Alzheimer's disease",
+   "authors": "Zhu, C., Liu, J., Lin, J., Xu, J. and Yu, E.",
+   "journal": "CNS Neuroscience & Therapeutics",
+   "year": "2024",
+   "doi": "10.1111/cns.14914",
+   "url": "",
+   "link": "https://doi.org/10.1111/cns.14914",
+   "link_type": "doi",
+   "citation": "Zhu, C., Liu, J., Lin, J., Xu, J. and Yu, E (2024) 'Investigating the effects of Ginkgo biloba leaf extract on cognitive function in Alzheimer's disease', CNS Neuroscience & Therapeutics, 30(9), pp. e14914. doi:10.1111/cns.14914",
+   "abstract": "Ginkgo biloba leaf extract improved cognitive function and neuronal morphology and reduced inflammatory factors in an Alzheimer's disease mouse model via the PI3K/AKT/NF-kB pathway, supporting the neuroprotective and anti-inflammatory use of ginkgo.",
+   "tier": "preclinical",
+   "display": "Investigating the effects of Ginkgo biloba leaf extract on cognitive function in Alzheimer's disease",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Neuroprotective / cognition support"
+   ],
    "conditions": []
   },
   {
@@ -12491,6 +12522,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2185",
+   "key": "xie2022ginkgo",
+   "type": "article",
+   "title": "Can we use Ginkgo biloba extract to treat Alzheimer's disease? Lessons from preclinical and clinical studies",
+   "authors": "Xie, L., Zhu, Q. and Lu, J.",
+   "journal": "Cells",
+   "year": "2022",
+   "doi": "10.3390/cells11030479",
+   "url": "",
+   "link": "https://doi.org/10.3390/cells11030479",
+   "link_type": "doi",
+   "citation": "Xie, L., Zhu, Q. and Lu, J (2022) 'Can we use Ginkgo biloba extract to treat Alzheimer's disease? Lessons from preclinical and clinical studies', Cells, 11(3), pp. 479. doi:10.3390/cells11030479",
+   "abstract": "This meta-analysis of preclinical and clinical studies found that Ginkgo biloba extract showed consistent anti-Alzheimer effects in animal models and improved symptoms in early-stage Alzheimer patients, supporting the neuroprotective use of ginkgo.",
+   "tier": "review",
+   "display": "Can we use Ginkgo biloba extract to treat Alzheimer's disease? Lessons from preclinical and clinical studies",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0760",
    "key": "pagano2022cannabinoids",
    "type": "article",
@@ -12884,6 +12945,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2167",
+   "key": "zeng2022bcurcuma",
+   "type": "article",
+   "title": "Curcumin and Curcuma longa extract in the treatment of 10 types of autoimmune diseases: a systematic review and meta-analysis of 31 randomized controlled trials",
+   "authors": "Zeng, L., Yang, T., Yang, K., Yu, G., Li, J., Xiang, W. and Chen, H.",
+   "journal": "Frontiers in Immunology",
+   "year": "2022",
+   "doi": "10.3389/fimmu.2022.896476",
+   "url": "",
+   "link": "https://doi.org/10.3389/fimmu.2022.896476",
+   "link_type": "doi",
+   "citation": "Zeng, L., Yang, T., Yang, K., Yu, G., Li, J., Xiang, W. and Chen, H (2022) 'Curcumin and Curcuma longa extract in the treatment of 10 types of autoimmune diseases: a systematic review and meta-analysis of 31 randomized controlled trials', Frontiers in Immunology, 13, pp. 896476. doi:10.3389/fimmu.2022.896476",
+   "abstract": "This meta-analysis of 31 randomized controlled trials found that curcumin and Curcuma longa extract improved outcomes across ten autoimmune diseases, supporting the anti-inflammatory and immunomodulatory use of turmeric.",
+   "tier": "review",
+   "display": "Curcumin and Curcuma longa extract in the treatment of 10 types of autoimmune diseases: a systematic review and meta-analysis of 31 randomized controlled trials",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0329",
    "key": "kania2022dandelion",
    "type": "article",
@@ -13272,7 +13363,9 @@
    "scientific": [
     "Curcuma longa"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -13869,6 +13962,34 @@
    ],
    "scientific": [
     "Carum carvi"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2183",
+   "key": "sereda2022ginkgo",
+   "type": "article",
+   "title": "Ginkgo biloba for tinnitus",
+   "authors": "Sereda, M., Xia, J., Scutt, P., Hilton, M.P., El Refaie, A. and Hoare, D.J.",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2022",
+   "doi": "10.1002/14651858.CD013514.pub2",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD013514.pub2",
+   "link_type": "doi",
+   "citation": "Sereda, M., Xia, J., Scutt, P., Hilton, M.P., El Refaie, A. and Hoare, D.J (2022) 'Ginkgo biloba for tinnitus', Cochrane Database of Systematic Reviews, 11, pp. CD013514. doi:10.1002/14651858.CD013514.pub2",
+   "abstract": "This Cochrane systematic review assessed the effects of Ginkgo biloba for tinnitus, finding uncertain benefits and a low rate of adverse effects, informing the clinical evidence base for ginkgo.",
+   "tier": "review",
+   "display": "Ginkgo biloba for tinnitus",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
    ],
    "actions": [],
    "conditions": []
@@ -14945,6 +15066,33 @@
    ],
    "scientific": [
     "Eleutherococcus senticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2178",
+   "key": "gawenda2022euphrasia",
+   "type": "article",
+   "title": "Phenolic acids as chemotaxonomic markers able to differentiate the Euphrasia species",
+   "authors": "Gawenda-Kempczynska, D., Olech, M., Balcerek, M., Nowak, R., Zaluski, T. and Zaluski, D.",
+   "journal": "Phytochemistry",
+   "year": "2022",
+   "doi": "10.1016/j.phytochem.2022.113342",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2022.113342",
+   "link_type": "doi",
+   "citation": "Gawenda-Kempczynska, D., Olech, M., Balcerek, M., Nowak, R., Zaluski, T. and Zaluski, D (2022) 'Phenolic acids as chemotaxonomic markers able to differentiate the Euphrasia species', Phytochemistry, 203, pp. 113342. doi:10.1016/j.phytochem.2022.113342",
+   "abstract": "This study characterised the phenolic acid constituents of Euphrasia species including the medicinal eyebright, documenting the antioxidant phytochemistry of eyebright.",
+   "tier": "preclinical",
+   "display": "Phenolic acids as chemotaxonomic markers able to differentiate the Euphrasia species",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -16862,6 +17010,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2168",
+   "key": "razavi2021curcuma",
+   "type": "article",
+   "title": "A review of therapeutic potentials of turmeric (Curcuma longa) and its active constituent, curcumin, on inflammatory disorders, pain, and their related patents",
+   "authors": "Razavi, B.M., Ghasemzadeh Rahbardar, M. and Hosseinzadeh, H.",
+   "journal": "Phytotherapy Research",
+   "year": "2021",
+   "doi": "10.1002/ptr.7224",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7224",
+   "link_type": "doi",
+   "citation": "Razavi, B.M., Ghasemzadeh Rahbardar, M. and Hosseinzadeh, H (2021) 'A review of therapeutic potentials of turmeric (Curcuma longa) and its active constituent, curcumin, on inflammatory disorders, pain, and their related patents', Phytotherapy Research, 35(12), pp. 6489-6513. doi:10.1002/ptr.7224",
+   "abstract": "This review describes the therapeutic potentials of turmeric (Curcuma longa) and curcumin on inflammatory disorders and pain, supporting the anti-inflammatory use of turmeric.",
+   "tier": "review",
+   "display": "A review of therapeutic potentials of turmeric (Curcuma longa) and its active constituent, curcumin, on inflammatory disorders, pain, and their related patents",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1183",
@@ -18826,6 +19004,37 @@
     "Saponaria officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2169",
+   "key": "memarzia2021acurcuma",
+   "type": "article",
+   "title": "Experimental and clinical reports on anti-inflammatory, antioxidant, and immunomodulatory effects of Curcuma longa and curcumin, an updated and comprehensive review",
+   "authors": "Memarzia, A., Khazdair, M.R., Behrouz, S., Gholamnezhad, Z., Jafarnezhad, M., Saadat, S. and Boskabady, M.H.",
+   "journal": "BioFactors",
+   "year": "2021",
+   "doi": "10.1002/biof.1716",
+   "url": "",
+   "link": "https://doi.org/10.1002/biof.1716",
+   "link_type": "doi",
+   "citation": "Memarzia, A., Khazdair, M.R., Behrouz, S., Gholamnezhad, Z., Jafarnezhad, M., Saadat, S. and Boskabady, M.H (2021) 'Experimental and clinical reports on anti-inflammatory, antioxidant, and immunomodulatory effects of Curcuma longa and curcumin, an updated and comprehensive review', BioFactors, 47(3), pp. 311-350. doi:10.1002/biof.1716",
+   "abstract": "This comprehensive review of experimental and clinical reports details the anti-inflammatory, antioxidant and immunomodulatory effects of Curcuma longa and curcumin.",
+   "tier": "review",
+   "display": "Experimental and clinical reports on anti-inflammatory, antioxidant, and immunomodulatory effects of Curcuma longa and curcumin, an updated and comprehensive review",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -22145,7 +22354,9 @@
    "scientific": [
     "Curcuma longa"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -24556,6 +24767,35 @@
     "Antimicrobial",
     "Antioxidant",
     "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2173",
+   "key": "meiergirard2020euphrasia",
+   "type": "article",
+   "title": "Euphrasia eye drops in preterm neonates with ocular discharge: a randomized double-blind placebo-controlled trial",
+   "authors": "Meier-Girard, D., Gerstenberg, G., Stoffel, L., Kohler, T., Klein, S.D., Eschenmoser, M., Mitter, V.R., Nelle, M. and Wolf, U.",
+   "journal": "Frontiers in Pediatrics",
+   "year": "2020",
+   "doi": "10.3389/fped.2020.00449",
+   "url": "",
+   "link": "https://doi.org/10.3389/fped.2020.00449",
+   "link_type": "doi",
+   "citation": "Meier-Girard, D., Gerstenberg, G., Stoffel, L., Kohler, T., Klein, S.D., Eschenmoser, M., Mitter, V.R., Nelle, M. and Wolf, U (2020) 'Euphrasia eye drops in preterm neonates with ocular discharge: a randomized double-blind placebo-controlled trial', Frontiers in Pediatrics, 8, pp. 449. doi:10.3389/fped.2020.00449",
+   "abstract": "In a randomized double-blind placebo-controlled trial, Euphrasia eye drops were evaluated for ocular discharge in preterm neonates, supporting the anti-inflammatory ophthalmic use of eyebright.",
+   "tier": "rct",
+   "display": "Euphrasia eye drops in preterm neonates with ocular discharge: a randomized double-blind placebo-controlled trial",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -29830,7 +30070,10 @@
    "scientific": [
     "Ginkgo biloba"
    ],
-   "actions": [],
+   "actions": [
+    "Antioxidant",
+    "Neuroprotective / cognition support"
+   ],
    "conditions": []
   },
   {
@@ -31679,6 +31922,36 @@
     "Anethum graveolens"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2171",
+   "key": "hosseini2018curcuma",
+   "type": "article",
+   "title": "Antidotal or protective effects of Curcuma longa (turmeric) and its active ingredient, curcumin, against natural and chemical toxicities: a review",
+   "authors": "Hosseini, A. and Hosseinzadeh, H.",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2018",
+   "doi": "10.1016/j.biopha.2018.01.072",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2018.01.072",
+   "link_type": "doi",
+   "citation": "Hosseini, A. and Hosseinzadeh, H (2018) 'Antidotal or protective effects of Curcuma longa (turmeric) and its active ingredient, curcumin, against natural and chemical toxicities: a review', Biomedicine & Pharmacotherapy, 99, pp. 411-421. doi:10.1016/j.biopha.2018.01.072",
+   "abstract": "This review describes the antioxidant antidotal and protective effects of Curcuma longa (turmeric) and curcumin against natural and chemical toxicities, supporting the antioxidant use of turmeric.",
+   "tier": "review",
+   "display": "Antidotal or protective effects of Curcuma longa (turmeric) and its active ingredient, curcumin, against natural and chemical toxicities: a review",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -33889,6 +34162,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2174",
+   "key": "liu2018euphrasia",
+   "type": "article",
+   "title": "Protective effects of Euphrasia officinalis extract against ultraviolet B-induced photoaging in normal human dermal fibroblasts",
+   "authors": "Liu, Y., Hwang, E., Ngo, H.T.T., Perumalsamy, H., Kim, Y.J., Li, L. and Yi, T.H.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2018",
+   "doi": "10.3390/ijms19113327",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms19113327",
+   "link_type": "doi",
+   "citation": "Liu, Y., Hwang, E., Ngo, H.T.T., Perumalsamy, H., Kim, Y.J., Li, L. and Yi, T.H (2018) 'Protective effects of Euphrasia officinalis extract against ultraviolet B-induced photoaging in normal human dermal fibroblasts', International Journal of Molecular Sciences, 19(11), pp. 3327. doi:10.3390/ijms19113327",
+   "abstract": "Euphrasia officinalis extract protected normal human dermal fibroblasts against UVB-induced photoaging by reducing inflammation and oxidative damage, supporting the anti-inflammatory use of eyebright.",
+   "tier": "preclinical",
+   "display": "Protective effects of Euphrasia officinalis extract against ultraviolet B-induced photoaging in normal human dermal fibroblasts",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0487",
    "key": "gulliver2018efficacy",
    "type": "article",
@@ -34328,6 +34630,34 @@
    ],
    "scientific": [
     "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2166",
+   "key": "soleimani2018curcuma",
+   "type": "article",
+   "title": "Turmeric (Curcuma longa) and its major constituent (curcumin) as nontoxic and safe substances: review",
+   "authors": "Soleimani, V., Sahebkar, A. and Hosseinzadeh, H.",
+   "journal": "Phytotherapy Research",
+   "year": "2018",
+   "doi": "10.1002/ptr.6054",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6054",
+   "link_type": "doi",
+   "citation": "Soleimani, V., Sahebkar, A. and Hosseinzadeh, H (2018) 'Turmeric (Curcuma longa) and its major constituent (curcumin) as nontoxic and safe substances: review', Phytotherapy Research, 32(6), pp. 985-995. doi:10.1002/ptr.6054",
+   "abstract": "This review evaluates the safety and low toxicity of turmeric (Curcuma longa) and curcumin across animal and human studies, informing the safe use of turmeric.",
+   "tier": "review",
+   "display": "Turmeric (Curcuma longa) and its major constituent (curcumin) as nontoxic and safe substances: review",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
    ],
    "actions": [],
    "conditions": []
@@ -35687,6 +36017,36 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2164",
+   "key": "kocaadam2017curcuma",
+   "type": "article",
+   "title": "Curcumin, an active component of turmeric (Curcuma longa), and its effects on health",
+   "authors": "Kocaadam, B. and Sanlier, N.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2017",
+   "doi": "10.1080/10408398.2015.1077195",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2015.1077195",
+   "link_type": "doi",
+   "citation": "Kocaadam, B. and Sanlier, N (2017) 'Curcumin, an active component of turmeric (Curcuma longa), and its effects on health', Critical Reviews in Food Science and Nutrition, 57(13), pp. 2889-2895. doi:10.1080/10408398.2015.1077195",
+   "abstract": "This review summarises the antioxidant, anti-inflammatory, antimicrobial and anticancer health effects of curcumin, the active component of turmeric (Curcuma longa).",
+   "tier": "review",
+   "display": "Curcumin, an active component of turmeric (Curcuma longa), and its effects on health",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -37713,6 +38073,33 @@
    ]
   },
   {
+   "ref_id": "REF-2177",
+   "key": "lorenz2016euphrasia",
+   "type": "article",
+   "title": "1-Acetyl-3-[(3R)-hydroxyfatty acyl]glycerols: lipid compounds from Euphrasia rostkoviana Hayne and E. tetraquetra (Breb.) Arrond.",
+   "authors": "Lorenz, P., Knittel, D.N., Conrad, J., Lotter, E.M., Heilmann, J., Stintzing, F.C. and Kammerer, D.R.",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2016",
+   "doi": "10.1002/cbdv.201500233",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.201500233",
+   "link_type": "doi",
+   "citation": "Lorenz, P., Knittel, D.N., Conrad, J., Lotter, E.M., Heilmann, J., Stintzing, F.C. and Kammerer, D.R (2016) '1-Acetyl-3-[(3R)-hydroxyfatty acyl]glycerols: lipid compounds from Euphrasia rostkoviana Hayne and E. tetraquetra (Breb.) Arrond', Chemistry & Biodiversity, 13(5), pp. 602-612. doi:10.1002/cbdv.201500233",
+   "abstract": "Novel acylglycerol lipid compounds were isolated and characterised from Euphrasia rostkoviana (eyebright) and E. tetraquetra, documenting the phytochemistry of eyebright.",
+   "tier": "preclinical",
+   "display": "1-Acetyl-3-[(3R)-hydroxyfatty acyl]glycerols: lipid compounds from Euphrasia rostkoviana Hayne and E. tetraquetra (Breb.) Arrond.",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1117",
    "key": "avalossoriano2016fenugreek",
    "type": "article",
@@ -38898,6 +39285,36 @@
     "Galium aparine"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2165",
+   "key": "vaughn2016curcuma",
+   "type": "article",
+   "title": "Effects of turmeric (Curcuma longa) on skin health: a systematic review of the clinical evidence",
+   "authors": "Vaughn, A.R., Branum, A. and Sivamani, R.K.",
+   "journal": "Phytotherapy Research",
+   "year": "2016",
+   "doi": "10.1002/ptr.5640",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5640",
+   "link_type": "doi",
+   "citation": "Vaughn, A.R., Branum, A. and Sivamani, R.K (2016) 'Effects of turmeric (Curcuma longa) on skin health: a systematic review of the clinical evidence', Phytotherapy Research, 30(8), pp. 1243-1264. doi:10.1002/ptr.5640",
+   "abstract": "This systematic review of clinical evidence found that turmeric (Curcuma longa) and curcumin benefit a variety of skin conditions, supporting the anti-inflammatory skin use of turmeric.",
+   "tier": "review",
+   "display": "Effects of turmeric (Curcuma longa) on skin health: a systematic review of the clinical evidence",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -41970,6 +42387,36 @@
    "actions": [
     "Analgesic (pain relief)",
     "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2186",
+   "key": "vongunten2015ginkgo",
+   "type": "article",
+   "title": "Efficacy of Ginkgo biloba extract EGb 761 in dementia with behavioural and psychological symptoms: a systematic review",
+   "authors": "von Gunten, A., Schlaefke, S. and Uberla, K.",
+   "journal": "World Journal of Biological Psychiatry",
+   "year": "2015",
+   "doi": "10.3109/15622975.2015.1066513",
+   "url": "",
+   "link": "https://doi.org/10.3109/15622975.2015.1066513",
+   "link_type": "doi",
+   "citation": "von Gunten, A., Schlaefke, S. and Uberla, K (2015) 'Efficacy of Ginkgo biloba extract EGb 761 in dementia with behavioural and psychological symptoms: a systematic review', World Journal of Biological Psychiatry, 17(8), pp. 622-633. doi:10.3109/15622975.2015.1066513",
+   "abstract": "This pooled systematic review of randomized trials found that Ginkgo biloba extract EGb 761 at 240 mg/day improved cognition, behavioural and psychological symptoms and daily function in dementia patients, supporting the neuroprotective use of ginkgo.",
+   "tier": "review",
+   "display": "Efficacy of Ginkgo biloba extract EGb 761 in dementia with behavioural and psychological symptoms: a systematic review",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
    ],
    "conditions": []
   },
@@ -46838,7 +47285,9 @@
    "scientific": [
     "Ginkgo biloba"
    ],
-   "actions": [],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
    "conditions": []
   },
   {
@@ -53011,6 +53460,36 @@
    ]
   },
   {
+   "ref_id": "REF-2170",
+   "key": "jurenka2009curcuma",
+   "type": "article",
+   "title": "Anti-inflammatory properties of curcumin, a major constituent of Curcuma longa: a review of preclinical and clinical research",
+   "authors": "Jurenka, J.S.",
+   "journal": "Alternative Medicine Review",
+   "year": "2009",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Anti-inflammatory%20properties%20of%20curcumin%2C%20a%20major%20constituent%20of%20Curcuma%20longa%3A%20a%20review%20of%20preclinical%20and%20clinical%20research",
+   "link_type": "search",
+   "citation": "Jurenka, J.S (2009) 'Anti-inflammatory properties of curcumin, a major constituent of Curcuma longa: a review of preclinical and clinical research', Alternative Medicine Review, 14(2), pp. 141-153.",
+   "abstract": "This review of preclinical and clinical research details the anti-inflammatory properties and mechanisms of curcumin, a major constituent of Curcuma longa, supporting the anti-inflammatory use of turmeric.",
+   "tier": "review",
+   "display": "Anti-inflammatory properties of curcumin, a major constituent of Curcuma longa: a review of preclinical and clinical research",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1737",
    "key": "gordien2009juniper",
    "type": "article",
@@ -58731,6 +59210,67 @@
    ]
   },
   {
+   "ref_id": "REF-2182",
+   "key": "christen2004ginkgo",
+   "type": "article",
+   "title": "Ginkgo biloba and neurodegenerative disorders",
+   "authors": "Christen, Y.",
+   "journal": "Frontiers in Bioscience",
+   "year": "2004",
+   "doi": "10.2741/1462",
+   "url": "",
+   "link": "https://doi.org/10.2741/1462",
+   "link_type": "doi",
+   "citation": "Christen, Y (2004) 'Ginkgo biloba and neurodegenerative disorders', Frontiers in Bioscience, 9, pp. 3091-3104. doi:10.2741/1462",
+   "abstract": "This review confirms the usefulness of Ginkgo biloba extract EGb 761 in the prevention and treatment of neurodegenerative disorders through antioxidant and anti-amyloid mechanisms, supporting the neuroprotective use of ginkgo.",
+   "tier": "review",
+   "display": "Ginkgo biloba and neurodegenerative disorders",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2181",
+   "key": "dubey2004ginkgo",
+   "type": "article",
+   "title": "Ginkgo biloba--an appraisal",
+   "authors": "Dubey, A.K., Shankar, P.R., Upadhyaya, D. and Deshpande, V.Y.",
+   "journal": "Kathmandu University Medical Journal",
+   "year": "2004",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Ginkgo%20biloba--an%20appraisal",
+   "link_type": "search",
+   "citation": "Dubey, A.K., Shankar, P.R., Upadhyaya, D. and Deshpande, V.Y (2004) 'Ginkgo biloba--an appraisal', Kathmandu University Medical Journal, 2(3), pp. 225-229.",
+   "abstract": "This appraisal of Ginkgo biloba describes its standardised extract EGb 761, free-radical-scavenging antioxidant activity, antiplatelet effects and use in Alzheimer's disease and cognitive impairment.",
+   "tier": "review",
+   "display": "Ginkgo biloba--an appraisal",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0561",
    "key": "gagnier2004harpagophytum",
    "type": "article",
@@ -61609,6 +62149,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2172",
+   "key": "araujo2001curcuma",
+   "type": "article",
+   "title": "Biological activities of Curcuma longa L.",
+   "authors": "Araujo, C.C. and Leon, L.L.",
+   "journal": "Memorias do Instituto Oswaldo Cruz",
+   "year": "2001",
+   "doi": "10.1590/s0074-02762001000500026",
+   "url": "",
+   "link": "https://doi.org/10.1590/s0074-02762001000500026",
+   "link_type": "doi",
+   "citation": "Araujo, C.C. and Leon, L.L (2001) 'Biological activities of Curcuma longa L', Memorias do Instituto Oswaldo Cruz, 96(5), pp. 723-728. doi:10.1590/s0074-02762001000500026",
+   "abstract": "This review summarises the biological activities of Curcuma longa, including antimicrobial, antiparasitic, anti-inflammatory and antioxidant actions, supporting the antimicrobial use of turmeric.",
+   "tier": "review",
+   "display": "Biological activities of Curcuma longa L.",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1786",
    "key": "rothfuss2001crataegus",
    "type": "article",
@@ -62159,6 +62729,33 @@
    ]
   },
   {
+   "ref_id": "REF-2175",
+   "key": "porchezhian2000euphrasia",
+   "type": "article",
+   "title": "Antihyperglycemic activity of Euphrasia officinale leaves",
+   "authors": "Porchezhian, E., Ansari, S.H. and Shreedharan, N.K.",
+   "journal": "Fitoterapia",
+   "year": "2000",
+   "doi": "10.1016/s0367-326x(00)00204-5",
+   "url": "",
+   "link": "https://doi.org/10.1016/s0367-326x(00)00204-5",
+   "link_type": "doi",
+   "citation": "Porchezhian, E., Ansari, S.H. and Shreedharan, N.K (2000) 'Antihyperglycemic activity of Euphrasia officinale leaves', Fitoterapia, 71(5), pp. 522-526. doi:10.1016/s0367-326x(00)00204-5",
+   "abstract": "Euphrasia officinalis leaf extract showed antihyperglycemic activity in an animal model, documenting a pharmacological activity of eyebright.",
+   "tier": "preclinical",
+   "display": "Antihyperglycemic activity of Euphrasia officinale leaves",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0205",
    "key": "ross2000association",
    "type": "article",
@@ -62282,6 +62879,68 @@
    "conditions": [
     "Migraine"
    ]
+  },
+  {
+   "ref_id": "REF-2184",
+   "key": "defeudis2000ginkgo",
+   "type": "article",
+   "title": "Ginkgo biloba extract (EGb 761) and CNS functions: basic studies and clinical applications",
+   "authors": "DeFeudis, F.V. and Drieu, K.",
+   "journal": "Current Drug Targets",
+   "year": "2000",
+   "doi": "10.2174/1389450003349380",
+   "url": "",
+   "link": "https://doi.org/10.2174/1389450003349380",
+   "link_type": "doi",
+   "citation": "DeFeudis, F.V. and Drieu, K (2000) 'Ginkgo biloba extract (EGb 761) and CNS functions: basic studies and clinical applications', Current Drug Targets, 1(1), pp. 25-58. doi:10.2174/1389450003349380",
+   "abstract": "This review details the antioxidant, free-radical-scavenging and neuroprotective effects of Ginkgo biloba extract EGb 761 on CNS functions and its clinical use in age-associated cognitive impairment, supporting the neuroprotective and antioxidant use of ginkgo.",
+   "tier": "review",
+   "display": "Ginkgo biloba extract (EGb 761) and CNS functions: basic studies and clinical applications",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2180",
+   "key": "diamond2000ginkgo",
+   "type": "article",
+   "title": "Ginkgo biloba extract: mechanisms and clinical indications",
+   "authors": "Diamond, B.J., Shiflett, S.C., Feiwel, N., Matheis, R.J., Noskin, O., Richards, J.A. and Schoenberger, N.E.",
+   "journal": "Archives of Physical Medicine and Rehabilitation",
+   "year": "2000",
+   "doi": "10.1016/s0003-9993(00)90052-2",
+   "url": "",
+   "link": "https://doi.org/10.1016/s0003-9993(00)90052-2",
+   "link_type": "doi",
+   "citation": "Diamond, B.J., Shiflett, S.C., Feiwel, N., Matheis, R.J., Noskin, O., Richards, J.A. and Schoenberger, N.E (2000) 'Ginkgo biloba extract: mechanisms and clinical indications', Archives of Physical Medicine and Rehabilitation, 81(5), pp. 668-678. doi:10.1016/s0003-9993(00)90052-2",
+   "abstract": "This review synthesises the antioxidant, neurotransmitter-modulatory and antiplatelet mechanisms and clinical indications of Ginkgo biloba extract in memory, dementia and cerebrovascular disorders, supporting its neuroprotective and antioxidant use.",
+   "tier": "review",
+   "display": "Ginkgo biloba extract: mechanisms and clinical indications",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0844",
@@ -64375,6 +65034,33 @@
    ],
    "scientific": [
     "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2176",
+   "key": "sticher1981euphrasia",
+   "type": "article",
+   "title": "Iridoid glucosides from Euphrasia rostkoviana",
+   "authors": "Sticher, O. and Salama, O.",
+   "journal": "Planta Medica",
+   "year": "1981",
+   "doi": "10.1055/s-2007-971584",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2007-971584",
+   "link_type": "doi",
+   "citation": "Sticher, O. and Salama, O (1981) 'Iridoid glucosides from Euphrasia rostkoviana', Planta Medica, 42(6), pp. 122-123. doi:10.1055/s-2007-971584",
+   "abstract": "Iridoid glucosides were isolated from Euphrasia rostkoviana (the medicinal eyebright, syn. E. officinalis), characterising the anti-inflammatory iridoid constituents of eyebright.",
+   "tier": "preclinical",
+   "display": "Iridoid glucosides from Euphrasia rostkoviana",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
    ],
    "actions": [],
    "conditions": []

@@ -14,6 +14,14 @@ actions:
   - REF-0002
   - REF-0273
   - REF-0305
+  - REF-0791
+  - REF-2164
+  - REF-0792
+  - REF-2165
+  - REF-2167
+  - REF-2168
+  - REF-2169
+  - REF-2170
   status: verified
 - action: anticancer
   reference_ids:
@@ -32,12 +40,15 @@ actions:
   - REF-0002
   - REF-0273
   - REF-0305
+  - REF-2172
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0002
   - REF-0273
   - REF-0305
+  - REF-2169
+  - REF-2171
   status: verified
 - action: gastroprotective
   reference_ids:
@@ -141,6 +152,15 @@ references:
 - REF-0791
 - REF-0792
 - REF-0793
+- REF-2164
+- REF-2165
+- REF-2166
+- REF-2167
+- REF-2168
+- REF-2169
+- REF-2170
+- REF-2171
+- REF-2172
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -149,4 +169,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0791, REF-0792, REF-0793.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0791, REF-0792, REF-0793.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0791,
+  REF-2164, REF-0792, REF-2165, REF-2166, REF-2167, REF-2168, REF-2169, REF-2170, REF-2171, REF-2172)
+  — woven into relevant actions/indications and the plant-level references bucket.'

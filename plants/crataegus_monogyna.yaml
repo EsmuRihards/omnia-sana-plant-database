@@ -16,12 +16,20 @@ actions:
   - REF-0082
   - REF-0195
   - REF-0220
+  - REF-1709
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0082
   - REF-0195
   - REF-0220
+  - REF-1709
+  - REF-1710
+  - REF-1711
+  - REF-1714
+  - REF-1715
+  - REF-1716
+  - REF-1717
   status: verified
 - action: sedative
   reference_ids:
@@ -92,6 +100,15 @@ references:
 - REF-0785
 - REF-0786
 - REF-0787
+- REF-1709
+- REF-1710
+- REF-1711
+- REF-1712
+- REF-1713
+- REF-1714
+- REF-1715
+- REF-1716
+- REF-1717
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -100,4 +117,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0785, REF-0786, REF-0787.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0785, REF-0786, REF-0787.
+  | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1709,
+  REF-0786, REF-1710, REF-1711, REF-1712, REF-1713, REF-1714, REF-1715, REF-1716, REF-1717) — woven into
+  relevant actions/indications and the plant-level references bucket.'

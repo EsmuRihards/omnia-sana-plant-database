@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1708,
+ "count": 1733,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2540,6 +2540,40 @@
    ]
   },
   {
+   "ref_id": "REF-1720",
+   "key": "beirami2024galium",
+   "type": "article",
+   "title": "Bringing back Galium aparine L. from forgotten corners of traditional wound treatment procedures: an antimicrobial, antioxidant, and in-vitro wound healing assay along with HPTLC fingerprinting study",
+   "authors": "Beirami, A.D., Akhtari, N., Noroozi, R., Hatamabadi, D., Hasan, S.M.F. and Ayatollahi, S.A.",
+   "journal": "BMC Complementary Medicine and Therapies",
+   "year": "2024",
+   "doi": "10.1186/s12906-024-04355-y",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12906-024-04355-y",
+   "link_type": "doi",
+   "citation": "Beirami, A.D., Akhtari, N., Noroozi, R., Hatamabadi, D., Hasan, S.M.F. and Ayatollahi, S.A (2024) 'Bringing back Galium aparine L. from forgotten corners of traditional wound treatment procedures: an antimicrobial, antioxidant, and in-vitro wound healing assay along with HPTLC fingerprinting study', BMC Complementary Medicine and Therapies, 24(1), pp. 279. doi:10.1186/s12906-024-04355-y",
+   "abstract": "Hydroalcoholic Galium aparine extract showed antioxidant (DPPH), antibacterial (notably against S. aureus) and in-vitro wound-healing (cell migration/scratch closure) activity without cytotoxicity, aligning with the traditional use of cleavers for wound treatment.",
+   "tier": "preclinical",
+   "display": "Bringing back Galium aparine L. from forgotten corners of traditional wound treatment procedures: an antimicrobial, antioxidant, and in-vitro wound healing assay along with HPTLC fingerprinting study",
+   "plants": [
+    "Cleavers",
+    "catchweed bedstraw",
+    "clivers",
+    "goose grass/goosegrass",
+    "stickyweed",
+    "stickywilly"
+   ],
+   "scientific": [
+    "Galium aparine"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1223",
    "key": "rehman2024marjoram",
    "type": "article",
@@ -3691,6 +3725,36 @@
     "Urinary tract infection (UTI)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1719",
+   "key": "lee2024galium",
+   "type": "article",
+   "title": "Immuno-Enhancing Effects of Galium aparine L. in Cyclophosphamide-Induced Immunosuppressed Animal Models",
+   "authors": "Lee, S.Y., Park, S.Y. and Park, H.J.",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16050597",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16050597",
+   "link_type": "doi",
+   "citation": "Lee, S.Y., Park, S.Y. and Park, H.J (2024) 'Immuno-Enhancing Effects of Galium aparine L. in Cyclophosphamide-Induced Immunosuppressed Animal Models', Nutrients, 16(5), pp. 597. doi:10.3390/nu16050597",
+   "abstract": "In cyclophosphamide-immunosuppressed mice, Galium aparine extract dose-dependently restored spleen weight, enhanced splenocyte proliferation and NK-cell activity and raised IL-6, TNF-alpha and IFN-gamma, demonstrating immunomodulatory (immune-enhancing) properties of cleavers.",
+   "tier": "preclinical",
+   "display": "Immuno-Enhancing Effects of Galium aparine L. in Cyclophosphamide-Induced Immunosuppressed Animal Models",
+   "plants": [
+    "Cleavers",
+    "catchweed bedstraw",
+    "clivers",
+    "goose grass/goosegrass",
+    "stickyweed",
+    "stickywilly"
+   ],
+   "scientific": [
+    "Galium aparine"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0850",
@@ -11352,6 +11416,36 @@
    ]
   },
   {
+   "ref_id": "REF-1718",
+   "key": "sahin2022galium",
+   "type": "article",
+   "title": "Galium aparine L. protects against acetaminophen-induced hepatotoxicity in rats",
+   "authors": "Sahin, B., Karabulut, S., Filiz, A.K., Ozkaraca, M., Gezer, A. and Akpulat, H.A.",
+   "journal": "Chemico-Biological Interactions",
+   "year": "2022",
+   "doi": "10.1016/j.cbi.2022.110119",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.cbi.2022.110119",
+   "link_type": "doi",
+   "citation": "Sahin, B., Karabulut, S., Filiz, A.K., Ozkaraca, M., Gezer, A. and Akpulat, H.A (2022) 'Galium aparine L. protects against acetaminophen-induced hepatotoxicity in rats', Chemico-Biological Interactions, 366, pp. 110119. doi:10.1016/j.cbi.2022.110119",
+   "abstract": "In rats, Galium aparine extract (traditionally used for jaundice) markedly reduced acetaminophen-induced liver necrosis and lowered ALT, AST and bilirubin while showing an anxiolytic effect, demonstrating hepatoprotective activity of cleavers.",
+   "tier": "preclinical",
+   "display": "Galium aparine L. protects against acetaminophen-induced hepatotoxicity in rats",
+   "plants": [
+    "Cleavers",
+    "catchweed bedstraw",
+    "clivers",
+    "goose grass/goosegrass",
+    "stickyweed",
+    "stickywilly"
+   ],
+   "scientific": [
+    "Galium aparine"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0648",
    "key": "imaizumi2022garliccardiovascular",
    "type": "article",
@@ -11503,6 +11597,36 @@
    "actions": [
     "Anti-inflammatory",
     "Expectorant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1726",
+   "key": "sun2022hops",
+   "type": "article",
+   "title": "Humulus lupulus L. extract and its active constituent xanthohumol attenuate oxidative stress and nerve injury induced by iron overload via activating AKT/GSK3beta and Nrf2/NQO1 pathways",
+   "authors": "Sun, X.L., Xia, T.S., Jiang, Y.P., Wang, N.N., Xu, L.C. and Han, T.",
+   "journal": "Journal of Natural Medicines",
+   "year": "2022",
+   "doi": "10.1007/s11418-022-01642-1",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11418-022-01642-1",
+   "link_type": "doi",
+   "citation": "Sun, X.L., Xia, T.S., Jiang, Y.P., Wang, N.N., Xu, L.C. and Han, T (2022) 'Humulus lupulus L. extract and its active constituent xanthohumol attenuate oxidative stress and nerve injury induced by iron overload via activating AKT/GSK3beta and Nrf2/NQO1 pathways', Journal of Natural Medicines, 76(4), pp. 801-814. doi:10.1007/s11418-022-01642-1",
+   "abstract": "Humulus lupulus (hops) extract and its prenylflavonoid xanthohumol attenuated iron-overload-induced oxidative stress and nerve injury by activating the AKT/GSK3beta and Nrf2/NQO1 antioxidant pathways, demonstrating a neuroprotective antioxidant effect.",
+   "tier": "preclinical",
+   "display": "Humulus lupulus L. extract and its active constituent xanthohumol attenuate oxidative stress and nerve injury induced by iron overload via activating AKT/GSK3beta and Nrf2/NQO1 pathways",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
+   "actions": [
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -12931,6 +13055,37 @@
     "Syzygium aromaticum"
    ],
    "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1729",
+   "key": "hurth2022hops",
+   "type": "article",
+   "title": "The Anti-Inflammatory Effect of Humulus lupulus Extract In Vivo Depends on the Galenic System of the Topical Formulation",
+   "authors": "Hurth, Z., Faber, M.L., Gendrisch, F., Holzer, M., Haarhaus, B. and Cawelius, A.",
+   "journal": "Pharmaceuticals",
+   "year": "2022",
+   "doi": "10.3390/ph15030350",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph15030350",
+   "link_type": "doi",
+   "citation": "Hurth, Z., Faber, M.L., Gendrisch, F., Holzer, M., Haarhaus, B. and Cawelius, A (2022) 'The Anti-Inflammatory Effect of Humulus lupulus Extract In Vivo Depends on the Galenic System of the Topical Formulation', Pharmaceuticals, 15(3), pp. 350. doi:10.3390/ph15030350",
+   "abstract": "Humulus lupulus extract showed anti-inflammatory and anti-oxidative effects on solar-simulator-irradiated human keratinocytes (reducing ERK/p38 MAPK phosphorylation and IL-6/IL-8), with its in-vivo anti-inflammatory efficacy depending on the topical galenic formulation.",
+   "tier": "preclinical",
+   "display": "The Anti-Inflammatory Effect of Humulus lupulus Extract In Vivo Depends on the Galenic System of the Topical Formulation",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
+   "actions": [
+    "Anti-inflammatory",
     "Antioxidant"
    ],
    "conditions": []
@@ -14401,6 +14556,36 @@
     "Marrubium vulgare"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1710",
+   "key": "belabdelli2021hawthorn",
+   "type": "article",
+   "title": "Chemical composition, antioxidant and antibacterial activity of Crataegus monogyna leaves' extracts",
+   "authors": "Belabdelli, F., Bekhti, N., Piras, A., Benhafsa, F.M., Ilham, M. and Adil, S.",
+   "journal": "Natural Product Research",
+   "year": "2021",
+   "doi": "10.1080/14786419.2021.1958215",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2021.1958215",
+   "link_type": "doi",
+   "citation": "Belabdelli, F., Bekhti, N., Piras, A., Benhafsa, F.M., Ilham, M. and Adil, S (2021) 'Chemical composition, antioxidant and antibacterial activity of Crataegus monogyna leaves' extracts', Natural Product Research, 36(12), pp. 3234-3239. doi:10.1080/14786419.2021.1958215",
+   "abstract": "Ethanol leaf extract of Crataegus monogyna, the richest in polyphenols and flavonoids, showed considerable DPPH antioxidant activity and antibacterial activity, supporting the medicinal use of hawthorn leaves.",
+   "tier": "preclinical",
+   "display": "Chemical composition, antioxidant and antibacterial activity of Crataegus monogyna leaves' extracts",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -17423,6 +17608,34 @@
     "Anti-inflammatory",
     "Demulcent (soothing mucilage)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1712",
+   "key": "martingarcia2021hawthorn",
+   "type": "article",
+   "title": "Setup of an Ultrasonic-Assisted Extraction to Obtain High Phenolic Recovery in Crataegus monogyna Leaves",
+   "authors": "Martin-Garcia, B., Razola-Diaz, M.D.C., Gomez-Caravaca, A.M., Benitez, G. and Verardo, V.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26154536",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26154536",
+   "link_type": "doi",
+   "citation": "Martin-Garcia, B., Razola-Diaz, M.D.C., Gomez-Caravaca, A.M., Benitez, G. and Verardo, V (2021) 'Setup of an Ultrasonic-Assisted Extraction to Obtain High Phenolic Recovery in Crataegus monogyna Leaves', Molecules, 26(15), pp. 4536. doi:10.3390/molecules26154536",
+   "abstract": "Ultrasonic-assisted extraction was optimised to maximise phenolic recovery from Crataegus monogyna leaves; 30 phenolic compounds (chlorogenic acid, hyperoside, isoquercetin, proanthocyanidins) were identified, characterising the antioxidant phytochemistry of hawthorn leaves.",
+   "tier": "preclinical",
+   "display": "Setup of an Ultrasonic-Assisted Extraction to Obtain High Phenolic Recovery in Crataegus monogyna Leaves",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -21718,6 +21931,36 @@
    ]
   },
   {
+   "ref_id": "REF-1730",
+   "key": "caban2020hops",
+   "type": "article",
+   "title": "Spent hops (Humulus Lupulus L.) extract as modulator of the inflammatory response in lipopolysaccharide stimulated RAW 264.7 macrophages",
+   "authors": "Caban, M., Chojnacka, K., Owczarek, K., Laskowska, J., Fichna, J. and Podsedek, A.",
+   "journal": "Journal of Physiology and Pharmacology",
+   "year": "2020",
+   "doi": "10.26402/jpp.2020.1.05",
+   "url": "",
+   "link": "https://doi.org/10.26402/jpp.2020.1.05",
+   "link_type": "doi",
+   "citation": "Caban, M., Chojnacka, K., Owczarek, K., Laskowska, J., Fichna, J. and Podsedek, A (2020) 'Spent hops (Humulus Lupulus L.) extract as modulator of the inflammatory response in lipopolysaccharide stimulated RAW 264.7 macrophages', Journal of Physiology and Pharmacology, 71(1). doi:10.26402/jpp.2020.1.05",
+   "abstract": "Spent-hops (Humulus lupulus) extract modulated the inflammatory response of LPS-stimulated RAW 264.7 macrophages, reducing pro-inflammatory mediators and demonstrating an anti-inflammatory action of hops by-products.",
+   "tier": "preclinical",
+   "display": "Spent hops (Humulus Lupulus L.) extract as modulator of the inflammatory response in lipopolysaccharide stimulated RAW 264.7 macrophages",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0900",
    "key": "oladeji2020stellaria",
    "type": "article",
@@ -23721,6 +23964,62 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1728",
+   "key": "xia2019hops",
+   "type": "article",
+   "title": "Humulus lupulus L. Extract Prevents Ovariectomy-Induced Osteoporosis in Mice and Regulates Activities of Osteoblasts and Osteoclasts",
+   "authors": "Xia, T.S., Lin, L.Y., Zhang, Q.Y., Jiang, Y.P., Li, C.H. and Liu, X.Y.",
+   "journal": "Chinese Journal of Integrative Medicine",
+   "year": "2019",
+   "doi": "10.1007/s11655-019-2700-z",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11655-019-2700-z",
+   "link_type": "doi",
+   "citation": "Xia, T.S., Lin, L.Y., Zhang, Q.Y., Jiang, Y.P., Li, C.H. and Liu, X.Y (2019) 'Humulus lupulus L. Extract Prevents Ovariectomy-Induced Osteoporosis in Mice and Regulates Activities of Osteoblasts and Osteoclasts', Chinese Journal of Integrative Medicine, 27(1), pp. 31-38. doi:10.1007/s11655-019-2700-z",
+   "abstract": "Humulus lupulus extract prevented ovariectomy-induced bone loss in mice by promoting osteoblast and inhibiting osteoclast activity, indicating a bone-protective effect of hops relevant to postmenopausal osteoporosis.",
+   "tier": "preclinical",
+   "display": "Humulus lupulus L. Extract Prevents Ovariectomy-Induced Osteoporosis in Mice and Regulates Activities of Osteoblasts and Osteoclasts",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1727",
+   "key": "karbalaei2019hops",
+   "type": "article",
+   "title": "Impact of Hydroalcoholic Extract of Humulus Lupulus L. on Sperm Quality, Reproductive Organs and Hormones in Male Rats",
+   "authors": "Karbalaei, N., Sadeghi, N., Nekoeian, A. and Malekzadeh, A.",
+   "journal": "Chinese Journal of Integrative Medicine",
+   "year": "2019",
+   "doi": "10.1007/s11655-019-3025-7",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11655-019-3025-7",
+   "link_type": "doi",
+   "citation": "Karbalaei, N., Sadeghi, N., Nekoeian, A. and Malekzadeh, A (2019) 'Impact of Hydroalcoholic Extract of Humulus Lupulus L. on Sperm Quality, Reproductive Organs and Hormones in Male Rats', Chinese Journal of Integrative Medicine, 25(9), pp. 1-8. doi:10.1007/s11655-019-3025-7",
+   "abstract": "Hydroalcoholic Humulus lupulus extract affected body weight, reproductive-organ weights, sperm quality and hormone levels in male rats, characterising an endocrine/reproductive effect of hops attributable to its phytoestrogenic constituents.",
+   "tier": "preclinical",
+   "display": "Impact of Hydroalcoholic Extract of Humulus Lupulus L. on Sperm Quality, Reproductive Organs and Hormones in Male Rats",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0860",
    "key": "fierascu2019leonurus",
    "type": "article",
@@ -24010,6 +24309,36 @@
    ],
    "scientific": [
     "Coriandrum sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1721",
+   "key": "ilina2019galium",
+   "type": "article",
+   "title": "Phytochemical Profiles and In Vitro Immunomodulatory Activity of Ethanolic Extracts from Galium aparine L.",
+   "authors": "Ilina, T., Kashpur, N., Granica, S., Bazylko, A., Shinkovenko, I. and Kovalyova, A.",
+   "journal": "Plants",
+   "year": "2019",
+   "doi": "10.3390/plants8120541",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants8120541",
+   "link_type": "doi",
+   "citation": "Ilina, T., Kashpur, N., Granica, S., Bazylko, A., Shinkovenko, I. and Kovalyova, A (2019) 'Phytochemical Profiles and In Vitro Immunomodulatory Activity of Ethanolic Extracts from Galium aparine L', Plants, 8(12), pp. 541. doi:10.3390/plants8120541",
+   "abstract": "Ethanolic Galium aparine herb extracts, characterised by UHPLC-DAD-MS/MS (iridoids monotropein and asperulosidic acid, caffeoylquinic acids, flavonoids), stimulated the transformational activity of immunocompetent blood cells, documenting the herb's phytochemistry and immunomodulatory activity.",
+   "tier": "preclinical",
+   "display": "Phytochemical Profiles and In Vitro Immunomodulatory Activity of Ethanolic Extracts from Galium aparine L.",
+   "plants": [
+    "Cleavers",
+    "catchweed bedstraw",
+    "clivers",
+    "goose grass/goosegrass",
+    "stickyweed",
+    "stickywilly"
+   ],
+   "scientific": [
+    "Galium aparine"
    ],
    "actions": [],
    "conditions": []
@@ -27276,6 +27605,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1733",
+   "key": "hege2017hops",
+   "type": "article",
+   "title": "An iso-alpha-acid-rich extract from hops (Humulus lupulus) attenuates acute alcohol-induced liver steatosis in mice",
+   "authors": "Hege, M., Jung, F., Sellmann, C., Jin, C., Ziegenhardt, D. and Hellerbrand, C.",
+   "journal": "Nutrition",
+   "year": "2017",
+   "doi": "10.1016/j.nut.2017.07.010",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.nut.2017.07.010",
+   "link_type": "doi",
+   "citation": "Hege, M., Jung, F., Sellmann, C., Jin, C., Ziegenhardt, D. and Hellerbrand, C (2017) 'An iso-alpha-acid-rich extract from hops (Humulus lupulus) attenuates acute alcohol-induced liver steatosis in mice', Nutrition, 41, pp. 70-77. doi:10.1016/j.nut.2017.07.010",
+   "abstract": "An iso-alpha-acid-rich extract from hops (Humulus lupulus) attenuated acute alcohol-induced hepatic steatosis in mice, indicating a hepatoprotective effect of hops bitter acids on the liver.",
+   "tier": "preclinical",
+   "display": "An iso-alpha-acid-rich extract from hops (Humulus lupulus) attenuates acute alcohol-induced liver steatosis in mice",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0392",
    "key": "hu2017andrographis",
    "type": "article",
@@ -28003,6 +28360,36 @@
    ]
   },
   {
+   "ref_id": "REF-1717",
+   "key": "zorniak2017crataegus",
+   "type": "article",
+   "title": "Crataegus special extract WS 1442: up-to-date review of experimental and clinical experiences",
+   "authors": "Zorniak, M., Szydlo, B. and Krzeminski, T.F.",
+   "journal": "Journal of Physiology and Pharmacology",
+   "year": "2017",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Crataegus%20special%20extract%20WS%201442%3A%20up-to-date%20review%20of%20experimental%20and%20clinical%20experiences",
+   "link_type": "search",
+   "citation": "Zorniak, M., Szydlo, B. and Krzeminski, T.F (2017) 'Crataegus special extract WS 1442: up-to-date review of experimental and clinical experiences', Journal of Physiology and Pharmacology, 68(4), pp. 521-526.",
+   "abstract": "This review of the standardised Crataegus (hawthorn) leaf-and-flower special extract WS 1442, rich in oligomeric procyanidins, summarises its cardioprotective, free-radical-scavenging, vasorelaxant (eNOS) and anti-ischaemic effects demonstrated in in-vitro, in-vivo and large clinical studies.",
+   "tier": "review",
+   "display": "Crataegus special extract WS 1442: up-to-date review of experimental and clinical experiences",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0909",
    "key": "slavokhotova2017stellaria",
    "type": "article",
@@ -28088,6 +28475,36 @@
    "conditions": [
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1732",
+   "key": "kyrou2017hops",
+   "type": "article",
+   "title": "Effects of a hops (Humulus lupulus L.) dry extract supplement on self-reported depression, anxiety and stress levels in apparently healthy young adults: a randomized, placebo-controlled, double-blind, crossover pilot study",
+   "authors": "Kyrou, I., Christou, A., Panagiotakos, D., Stefanaki, C., Skenderi, K. and Katsana, K.",
+   "journal": "Hormones",
+   "year": "2017",
+   "doi": "10.14310/horm.2002.1738",
+   "url": "",
+   "link": "https://doi.org/10.14310/horm.2002.1738",
+   "link_type": "doi",
+   "citation": "Kyrou, I., Christou, A., Panagiotakos, D., Stefanaki, C., Skenderi, K. and Katsana, K (2017) 'Effects of a hops (Humulus lupulus L.) dry extract supplement on self-reported depression, anxiety and stress levels in apparently healthy young adults: a randomized, placebo-controlled, double-blind, crossover pilot study', Hormones, 16(2), pp. 171-180. doi:10.14310/horm.2002.1738",
+   "abstract": "In a randomized, placebo-controlled, double-blind crossover pilot study of healthy young adults, a hops (Humulus lupulus) dry-extract supplement significantly reduced self-reported depression, anxiety and stress scores, giving clinical support for the herb's calming/sedative use.",
+   "tier": "rct",
+   "display": "Effects of a hops (Humulus lupulus L.) dry extract supplement on self-reported depression, anxiety and stress levels in apparently healthy young adults: a randomized, placebo-controlled, double-blind, crossover pilot study",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0568",
@@ -30488,6 +30905,36 @@
    ]
   },
   {
+   "ref_id": "REF-1722",
+   "key": "atmaca2016galium",
+   "type": "article",
+   "title": "Effects of Galium aparine extract on the cell viability, cell cycle and cell death in breast cancer cell lines",
+   "authors": "Atmaca, H., Bozkurt, E., Cittan, M. and Dilek Tepe, H.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2016",
+   "doi": "10.1016/j.jep.2016.04.007",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2016.04.007",
+   "link_type": "doi",
+   "citation": "Atmaca, H., Bozkurt, E., Cittan, M. and Dilek Tepe, H (2016) 'Effects of Galium aparine extract on the cell viability, cell cycle and cell death in breast cancer cell lines', Journal of Ethnopharmacology, 186, pp. 305-310. doi:10.1016/j.jep.2016.04.007",
+   "abstract": "Methanol extract of Galium aparine was cytotoxic to MCF-7 and MDA-MB-231 breast cancer cells (G1 arrest, apoptosis/necrosis) without harming normal breast epithelial cells, indicating selective anti-cancer potential of cleavers.",
+   "tier": "preclinical",
+   "display": "Effects of Galium aparine extract on the cell viability, cell cycle and cell death in breast cancer cell lines",
+   "plants": [
+    "Cleavers",
+    "catchweed bedstraw",
+    "clivers",
+    "goose grass/goosegrass",
+    "stickyweed",
+    "stickywilly"
+   ],
+   "scientific": [
+    "Galium aparine"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0572",
    "key": "novara2016serenoa",
    "type": "article",
@@ -30845,6 +31292,34 @@
    ],
    "scientific": [
     "Gentiana lutea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1731",
+   "key": "wang2016hops",
+   "type": "article",
+   "title": "Hop (Humulus lupulus L.) Extract and 6-Prenylnaringenin Induce P450 1A1 Catalyzed Estrogen 2-Hydroxylation",
+   "authors": "Wang, S., Dunlap, T.L., Howell, C.E., Mbachu, O.C., Rue, E.A. and Phansalkar, R.",
+   "journal": "Chemical Research in Toxicology",
+   "year": "2016",
+   "doi": "10.1021/acs.chemrestox.6b00112",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.chemrestox.6b00112",
+   "link_type": "doi",
+   "citation": "Wang, S., Dunlap, T.L., Howell, C.E., Mbachu, O.C., Rue, E.A. and Phansalkar, R (2016) 'Hop (Humulus lupulus L.) Extract and 6-Prenylnaringenin Induce P450 1A1 Catalyzed Estrogen 2-Hydroxylation', Chemical Research in Toxicology, 29(7), pp. 1142-1150. doi:10.1021/acs.chemrestox.6b00112",
+   "abstract": "Humulus lupulus (hops) extract and its prenylflavonoid 6-prenylnaringenin induced P450 1A1-catalysed estrogen 2-hydroxylation, a chemoprotective shift in estrogen metabolism relevant to the use of hops for menopausal symptoms.",
+   "tier": "preclinical",
+   "display": "Hop (Humulus lupulus L.) Extract and 6-Prenylnaringenin Induce P450 1A1 Catalyzed Estrogen 2-Hydroxylation",
+   "plants": [
+    "Hop",
+    "Hops",
+    "common hop",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus"
    ],
    "actions": [],
    "conditions": []
@@ -31736,6 +32211,36 @@
    ],
    "scientific": [
     "Prunus serotina"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1724",
+   "key": "shi2016galium",
+   "type": "article",
+   "title": "Separation and purification and in vitro anti-proliferative activity of leukemia cell K562 of Galium aparine L. petroleum ether phase",
+   "authors": "Shi, G., Liu, J., Zhao, W., Liu, Y. and Tian, X.",
+   "journal": "Saudi Pharmaceutical Journal",
+   "year": "2016",
+   "doi": "10.1016/j.jsps.2016.04.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jsps.2016.04.005",
+   "link_type": "doi",
+   "citation": "Shi, G., Liu, J., Zhao, W., Liu, Y. and Tian, X (2016) 'Separation and purification and in vitro anti-proliferative activity of leukemia cell K562 of Galium aparine L. petroleum ether phase', Saudi Pharmaceutical Journal, 24(3), pp. 241-247. doi:10.1016/j.jsps.2016.04.005",
+   "abstract": "Fractionation of a Galium aparine ethanol extract identified petroleum-ether-phase constituents with in-vitro anti-proliferative activity against K562 leukemia cells, supporting the antitumour potential of cleavers.",
+   "tier": "preclinical",
+   "display": "Separation and purification and in vitro anti-proliferative activity of leukemia cell K562 of Galium aparine L. petroleum ether phase",
+   "plants": [
+    "Cleavers",
+    "catchweed bedstraw",
+    "clivers",
+    "goose grass/goosegrass",
+    "stickyweed",
+    "stickywilly"
+   ],
+   "scientific": [
+    "Galium aparine"
    ],
    "actions": [],
    "conditions": []
@@ -33776,6 +34281,37 @@
    ]
   },
   {
+   "ref_id": "REF-1709",
+   "key": "nabavi2015hawthorn",
+   "type": "article",
+   "title": "Polyphenolic Composition of Crataegus monogyna Jacq.: From Chemistry to Medical Applications",
+   "authors": "Nabavi, S.F., Habtemariam, S., Ahmed, T., Sureda, A., Daglia, M. and Sobarzo-Sanchez, E.",
+   "journal": "Nutrients",
+   "year": "2015",
+   "doi": "10.3390/nu7095361",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu7095361",
+   "link_type": "doi",
+   "citation": "Nabavi, S.F., Habtemariam, S., Ahmed, T., Sureda, A., Daglia, M. and Sobarzo-Sanchez, E (2015) 'Polyphenolic Composition of Crataegus monogyna Jacq.: From Chemistry to Medical Applications', Nutrients, 7(9), pp. 7708-7728. doi:10.3390/nu7095361",
+   "abstract": "This critical review of common hawthorn (Crataegus monogyna) covers its botany, phytochemistry (catechins, flavones, anthocyanins) and pharmacological activities, noting its negligible toxicity and traditional cardiovascular and antioxidant medicinal applications.",
+   "tier": "review",
+   "display": "Polyphenolic Composition of Crataegus monogyna Jacq.: From Chemistry to Medical Applications",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1584",
    "key": "fritz2015coriolus",
    "type": "article",
@@ -34878,6 +35414,34 @@
     "Loss of appetite",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1713",
+   "key": "arslan2014hawthorn",
+   "type": "article",
+   "title": "Evaluation of the antithrombotic effects of Crataegus monogyna and Crataegus davisii in the carrageenan-induced tail thrombosis model",
+   "authors": "Arslan, R., Bektas, N., Bor, Z. and Sener, E.",
+   "journal": "Pharmaceutical Biology",
+   "year": "2014",
+   "doi": "10.3109/13880209.2014.914957",
+   "url": "",
+   "link": "https://doi.org/10.3109/13880209.2014.914957",
+   "link_type": "doi",
+   "citation": "Arslan, R., Bektas, N., Bor, Z. and Sener, E (2014) 'Evaluation of the antithrombotic effects of Crataegus monogyna and Crataegus davisii in the carrageenan-induced tail thrombosis model', Pharmaceutical Biology, 53(2), pp. 275-279. doi:10.3109/13880209.2014.914957",
+   "abstract": "Ethanol leaf extract of Crataegus monogyna significantly inhibited carrageenan-induced tail thrombosis in mice, indicating an antithrombotic effect relevant to hawthorn's cardiovascular use.",
+   "tier": "preclinical",
+   "display": "Evaluation of the antithrombotic effects of Crataegus monogyna and Crataegus davisii in the carrageenan-induced tail thrombosis model",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0039",
@@ -36078,6 +36642,36 @@
    ]
   },
   {
+   "ref_id": "REF-1715",
+   "key": "jarzycka2013hawthorn",
+   "type": "article",
+   "title": "Assessment of extracts of Helichrysum arenarium, Crataegus monogyna, Sambucus nigra in photoprotective UVA and UVB; photostability in cosmetic emulsions",
+   "authors": "Jarzycka, A., Lewinska, A., Gancarz, R. and Wilk, K.A.",
+   "journal": "Journal of Photochemistry and Photobiology B: Biology",
+   "year": "2013",
+   "doi": "10.1016/j.jphotobiol.2013.07.029",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jphotobiol.2013.07.029",
+   "link_type": "doi",
+   "citation": "Jarzycka, A., Lewinska, A., Gancarz, R. and Wilk, K.A (2013) 'Assessment of extracts of Helichrysum arenarium, Crataegus monogyna, Sambucus nigra in photoprotective UVA and UVB; photostability in cosmetic emulsions', Journal of Photochemistry and Photobiology B: Biology, 128, pp. 50-57. doi:10.1016/j.jphotobiol.2013.07.029",
+   "abstract": "Sunscreen emulsions containing Crataegus monogyna (and Helichrysum arenarium, Sambucus nigra) polyphenol extracts provided broad-spectrum UVA/UVB photoprotection with high photostability and antioxidant properties, supporting hawthorn extract as a skin-protective cosmetic additive.",
+   "tier": "preclinical",
+   "display": "Assessment of extracts of Helichrysum arenarium, Crataegus monogyna, Sambucus nigra in photoprotective UVA and UVB; photostability in cosmetic emulsions",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0115",
    "key": "hosseinzadeh2013avicenna",
    "type": "article",
@@ -36482,6 +37076,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1716",
+   "key": "lucconi2013hawthorn",
+   "type": "article",
+   "title": "Formulation of microspheres containing Crataegus monogyna Jacq. extract with free radical scavenging activity",
+   "authors": "Lucconi, G., Chlapanidas, T., Martino, E., Gaggeri, R., Perteghella, S. and Rossi, D.",
+   "journal": "Pharmaceutical Development and Technology",
+   "year": "2013",
+   "doi": "10.3109/10837450.2012.752387",
+   "url": "",
+   "link": "https://doi.org/10.3109/10837450.2012.752387",
+   "link_type": "doi",
+   "citation": "Lucconi, G., Chlapanidas, T., Martino, E., Gaggeri, R., Perteghella, S. and Rossi, D (2013) 'Formulation of microspheres containing Crataegus monogyna Jacq. extract with free radical scavenging activity', Pharmaceutical Development and Technology, 19(1), pp. 65-72. doi:10.3109/10837450.2012.752387",
+   "abstract": "Spray-dried microspheres of Crataegus monogyna flowering-top extract (highest free-radical-scavenging activity, EC50 3.72 microg/ml) retained their antioxidant activity after simulated gastrointestinal transit, offering an oral delivery system for hawthorn's antioxidant flavonoids.",
+   "tier": "preclinical",
+   "display": "Formulation of microspheres containing Crataegus monogyna Jacq. extract with free radical scavenging activity",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0825",
@@ -37420,6 +38044,36 @@
    ]
   },
   {
+   "ref_id": "REF-1714",
+   "key": "edwards2012crataegus",
+   "type": "article",
+   "title": "A review of the chemistry of the genus Crataegus",
+   "authors": "Edwards, J.E., Brown, P.N., Talent, N., Dickinson, T.A. and Shipley, P.R.",
+   "journal": "Phytochemistry",
+   "year": "2012",
+   "doi": "10.1016/j.phytochem.2012.04.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2012.04.006",
+   "link_type": "doi",
+   "citation": "Edwards, J.E., Brown, P.N., Talent, N., Dickinson, T.A. and Shipley, P.R (2012) 'A review of the chemistry of the genus Crataegus', Phytochemistry, 79, pp. 5-26. doi:10.1016/j.phytochem.2012.04.006",
+   "abstract": "This review of the genus Crataegus (hawthorn, incl. C. monogyna) details its flavonoids (hyperoside, vitexin) and anthocyanins with documented pharmacological activity, and its traditional use for hypertension, angina, arrhythmia and congestive heart failure.",
+   "tier": "review",
+   "display": "A review of the chemistry of the genus Crataegus",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1125",
    "key": "ali2012verbascum",
    "type": "article",
@@ -37959,6 +38613,36 @@
    ]
   },
   {
+   "ref_id": "REF-1711",
+   "key": "jalali2012hawthorn",
+   "type": "article",
+   "title": "Crataegus monogyna aqueous extract ameliorates cyclophosphamide-induced toxicity in rat testis: stereological evidences",
+   "authors": "Jalali, A.S., Hasanzadeh, S. and Malekinejad, H.",
+   "journal": "Acta Medica Iranica",
+   "year": "2012",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Crataegus%20monogyna%20aqueous%20extract%20ameliorates%20cyclophosphamide-induced%20toxicity%20in%20rat%20testis%3A%20stereological%20evidences",
+   "link_type": "search",
+   "citation": "Jalali, A.S., Hasanzadeh, S. and Malekinejad, H (2012) 'Crataegus monogyna aqueous extract ameliorates cyclophosphamide-induced toxicity in rat testis: stereological evidences', Acta Medica Iranica, 50(1), pp. 1-8.",
+   "abstract": "Crataegus monogyna fruit aqueous extract, by scavenging free radicals, partially protected rat testis against cyclophosphamide-induced reproductive toxicity, restoring organ weights and spermatogenic indices - an antioxidant cytoprotective effect.",
+   "tier": "preclinical",
+   "display": "Crataegus monogyna aqueous extract ameliorates cyclophosphamide-induced toxicity in rat testis: stereological evidences",
+   "plants": [
+    "Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn"
+   ],
+   "scientific": [
+    "Crataegus monogyna"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1509",
    "key": "kim2012pygeum",
    "type": "article",
@@ -38230,6 +38914,38 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1723",
+   "key": "bokhari2012galium",
+   "type": "article",
+   "title": "Evaluation of diverse antioxidant activities of Galium aparine",
+   "authors": "Bokhari, J., Khan, M.R., Shabbir, M., Rashid, U., Jan, S. and Zai, J.A.",
+   "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+   "year": "2012",
+   "doi": "10.1016/j.saa.2012.09.056",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.saa.2012.09.056",
+   "link_type": "doi",
+   "citation": "Bokhari, J., Khan, M.R., Shabbir, M., Rashid, U., Jan, S. and Zai, J.A (2012) 'Evaluation of diverse antioxidant activities of Galium aparine', Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 102, pp. 24-29. doi:10.1016/j.saa.2012.09.056",
+   "abstract": "Methanol extract and fractions of Galium aparine showed broad in-vitro antioxidant and free-radical-scavenging activity (DPPH, ABTS, superoxide, hydroxyl), with the aqueous fraction the most potent and activity correlating with phenolic and flavonoid content.",
+   "tier": "preclinical",
+   "display": "Evaluation of diverse antioxidant activities of Galium aparine",
+   "plants": [
+    "Cleavers",
+    "catchweed bedstraw",
+    "clivers",
+    "goose grass/goosegrass",
+    "stickyweed",
+    "stickywilly"
+   ],
+   "scientific": [
+    "Galium aparine"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0125",
@@ -51771,6 +52487,38 @@
     "Althaea officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1725",
+   "key": "quinlan1883galium",
+   "type": "article",
+   "title": "Galium Aparine as a Remedy for Chronic Ulcers",
+   "authors": "Quinlan, F.J.",
+   "journal": "British Medical Journal",
+   "year": "1883",
+   "doi": "10.1136/bmj.1.1172.1173",
+   "url": "",
+   "link": "https://doi.org/10.1136/bmj.1.1172.1173",
+   "link_type": "doi",
+   "citation": "Quinlan, F.J (1883) 'Galium Aparine as a Remedy for Chronic Ulcers', British Medical Journal, 1(1172), pp. 1173-1174. doi:10.1136/bmj.1.1172.1173",
+   "abstract": "This historical British Medical Journal clinical note reports the use of Galium aparine (cleavers) as a remedy for chronic ulcers, documenting the long-standing traditional vulnerary application of the herb.",
+   "tier": "traditional",
+   "display": "Galium Aparine as a Remedy for Chronic Ulcers",
+   "plants": [
+    "Cleavers",
+    "catchweed bedstraw",
+    "clivers",
+    "goose grass/goosegrass",
+    "stickyweed",
+    "stickywilly"
+   ],
+   "scientific": [
+    "Galium aparine"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
    "conditions": []
   },
   {

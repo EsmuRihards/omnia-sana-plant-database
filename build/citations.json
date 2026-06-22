@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1943,
+ "count": 1970,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2557,7 +2557,10 @@
    "scientific": [
     "Borago officinalis"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -12469,6 +12472,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1960",
+   "key": "zhao2022camellia",
+   "type": "article",
+   "title": "Green Tea (Camellia sinensis): A Review of Its Phytochemistry, Pharmacology, and Toxicology",
+   "authors": "Zhao, T., Li, C., Wang, S. and Song, X.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27123909",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27123909",
+   "link_type": "doi",
+   "citation": "Zhao, T., Li, C., Wang, S. and Song, X (2022) 'Green Tea (Camellia sinensis): A Review of Its Phytochemistry, Pharmacology, and Toxicology', Molecules, 27(12), pp. 3909. doi:10.3390/molecules27123909",
+   "abstract": "This review of green tea (Camellia sinensis) details its polyphenols, alkaloids and other constituents and its antioxidant, anticancer, hypoglycemic, antibacterial, antiviral and neuroprotective pharmacology.",
+   "tier": "review",
+   "display": "Green Tea (Camellia sinensis): A Review of Its Phytochemistry, Pharmacology, and Toxicology",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1831",
    "key": "mariano2022devilsclaw",
    "type": "article",
@@ -13174,6 +13209,37 @@
    ],
    "scientific": [
     "Thymus serpyllum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1956",
+   "key": "moliner2022borage",
+   "type": "article",
+   "title": "Neuroprotective Profile of Edible Flowers of Borage (Borago officinalis L.) in Two Different Models: Caenorhabditis elegans and Neuro-2a Cells",
+   "authors": "Moliner, C., Casedas, G., Barros, L., Finimundy, T.C., Gomez-Rincon, C. and Lopez, V.",
+   "journal": "Antioxidants",
+   "year": "2022",
+   "doi": "10.3390/antiox11071244",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox11071244",
+   "link_type": "doi",
+   "citation": "Moliner, C., Casedas, G., Barros, L., Finimundy, T.C., Gomez-Rincon, C. and Lopez, V (2022) 'Neuroprotective Profile of Edible Flowers of Borage (Borago officinalis L.) in Two Different Models: Caenorhabditis elegans and Neuro-2a Cells', Antioxidants, 11(7), pp. 1244. doi:10.3390/antiox11071244",
+   "abstract": "Edible borage (Borago officinalis) flower extract showed antioxidant, neuroprotective and anti-aging properties in C. elegans and Neuro-2a cell models, supporting the antioxidant use of borage.",
+   "tier": "preclinical",
+   "display": "Neuroprotective Profile of Edible Flowers of Borage (Borago officinalis L.) in Two Different Models: Caenorhabditis elegans and Neuro-2a Cells",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
    ],
    "actions": [
     "Antioxidant"
@@ -15933,6 +15999,37 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1967",
+   "key": "gaur2021camellia",
+   "type": "article",
+   "title": "Chemistry and Pharmacology of Natural Catechins from Camellia sinensis as Anti-MRSA Agents",
+   "authors": "Gaur, R. and Bao, G.H.",
+   "journal": "Current Topics in Medicinal Chemistry",
+   "year": "2021",
+   "doi": "10.2174/1568026621666210524100632",
+   "url": "",
+   "link": "https://doi.org/10.2174/1568026621666210524100632",
+   "link_type": "doi",
+   "citation": "Gaur, R. and Bao, G.H (2021) 'Chemistry and Pharmacology of Natural Catechins from Camellia sinensis as Anti-MRSA Agents', Current Topics in Medicinal Chemistry, 21(17), pp. 1519-1537. doi:10.2174/1568026621666210524100632",
+   "abstract": "This review explores the chemistry and pharmacology of natural catechins from Camellia sinensis as anti-MRSA agents, supporting the antimicrobial activity of tea against methicillin-resistant Staphylococcus aureus.",
+   "tier": "review",
+   "display": "Chemistry and Pharmacology of Natural Catechins from Camellia sinensis as Anti-MRSA Agents",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [
+    "Antimicrobial"
    ],
    "conditions": []
   },
@@ -19434,6 +19531,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1958",
+   "key": "yue2021borage",
+   "type": "article",
+   "title": "The effect of Borago officinalis on the signaling pathway of the NLRP3 inflammasome complex, TLR4 and some inflammatory cytokines in type II diabetic patients with acute respiratory distress syndrome",
+   "authors": "Yue, Y., Jin, F. and Yue, X.",
+   "journal": "Cellular and Molecular Biology",
+   "year": "2021",
+   "doi": "10.14715/cmb/2021.67.3.28",
+   "url": "",
+   "link": "https://doi.org/10.14715/cmb/2021.67.3.28",
+   "link_type": "doi",
+   "citation": "Yue, Y., Jin, F. and Yue, X (2021) 'The effect of Borago officinalis on the signaling pathway of the NLRP3 inflammasome complex, TLR4 and some inflammatory cytokines in type II diabetic patients with acute respiratory distress syndrome', Cellular and Molecular Biology, 67(3), pp. 178-183. doi:10.14715/cmb/2021.67.3.28",
+   "abstract": "Borago officinalis modulated the NLRP3 inflammasome, TLR4 and inflammatory cytokines in type-II diabetic patients with acute respiratory distress syndrome, supporting the anti-inflammatory and immunomodulatory use of borage.",
+   "tier": "clinical",
+   "display": "The effect of Borago officinalis on the signaling pathway of the NLRP3 inflammasome complex, TLR4 and some inflammatory cytokines in type II diabetic patients with acute respiratory distress syndrome",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0654",
    "key": "karimian2021cuminglycemic",
    "type": "article",
@@ -20936,6 +21065,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1968",
+   "key": "tafazoli2020camellia",
+   "type": "article",
+   "title": "Camellia Sinensis Mouthwashes in Oral Care: a Systematic Review",
+   "authors": "Tafazoli, A. and Tafazoli Moghadam, E.",
+   "journal": "Journal of Dentistry (Shiraz)",
+   "year": "2020",
+   "doi": "10.30476/DENTJODS.2020.83204.1045",
+   "url": "",
+   "link": "https://doi.org/10.30476/DENTJODS.2020.83204.1045",
+   "link_type": "doi",
+   "citation": "Tafazoli, A. and Tafazoli Moghadam, E (2020) 'Camellia Sinensis Mouthwashes in Oral Care: a Systematic Review', Journal of Dentistry (Shiraz), 21(4), pp. 249-262. doi:10.30476/DENTJODS.2020.83204.1045",
+   "abstract": "This systematic review of 69 studies found Camellia sinensis (tea) mouthwashes act as antiseptic, anti-plaque and anti-inflammatory agents, supporting the antimicrobial oral-care use of tea.",
+   "tier": "review",
+   "display": "Camellia Sinensis Mouthwashes in Oral Care: a Systematic Review",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1489",
    "key": "epifanio2020parsley",
    "type": "article",
@@ -22169,6 +22329,37 @@
     "Sore throat",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1961",
+   "key": "filippini2020camellia",
+   "type": "article",
+   "title": "Green tea (Camellia sinensis) for the prevention of cancer",
+   "authors": "Filippini, T., Malavolti, M., Borrelli, F., Izzo, A.A., Fairweather-Tait, S.J., Horneber, M. and Vinceti, M.",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2020",
+   "doi": "10.1002/14651858.CD005004.pub3",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD005004.pub3",
+   "link_type": "doi",
+   "citation": "Filippini, T., Malavolti, M., Borrelli, F., Izzo, A.A., Fairweather-Tait, S.J., Horneber, M. and Vinceti, M (2020) 'Green tea (Camellia sinensis) for the prevention of cancer', Cochrane Database of Systematic Reviews, 3(3), pp. CD005004. doi:10.1002/14651858.CD005004.pub3",
+   "abstract": "This Cochrane systematic review and meta-analysis of 142 studies assessed green tea (Camellia sinensis) consumption and cancer risk, finding limited evidence of a beneficial effect at some cancer sites.",
+   "tier": "review",
+   "display": "Green tea (Camellia sinensis) for the prevention of cancer",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0958",
@@ -23489,6 +23680,37 @@
    "actions": [
     "Anti-inflammatory",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1950",
+   "key": "dicerbo2020borage",
+   "type": "article",
+   "title": "Protective Effects of Borago officinalis (Borago) on Cold Restraint Stress-Induced Gastric Ulcers in Rats: A Pilot Study",
+   "authors": "Di Cerbo, A., Carnevale, G., Avallone, R., Zavatti, M. and Corsi, L.",
+   "journal": "Frontiers in Veterinary Science",
+   "year": "2020",
+   "doi": "10.3389/fvets.2020.00427",
+   "url": "",
+   "link": "https://doi.org/10.3389/fvets.2020.00427",
+   "link_type": "doi",
+   "citation": "Di Cerbo, A., Carnevale, G., Avallone, R., Zavatti, M. and Corsi, L (2020) 'Protective Effects of Borago officinalis (Borago) on Cold Restraint Stress-Induced Gastric Ulcers in Rats: A Pilot Study', Frontiers in Veterinary Science, 7, pp. 427. doi:10.3389/fvets.2020.00427",
+   "abstract": "Borago officinalis extract protected against cold-restraint-stress-induced gastric ulcers in rats, supporting the digestive and gastroprotective use of borage.",
+   "tier": "preclinical",
+   "display": "Protective Effects of Borago officinalis (Borago) on Cold Restraint Stress-Induced Gastric Ulcers in Rats: A Pilot Study",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [
+    "Digestive aid"
    ],
    "conditions": []
   },
@@ -25214,6 +25436,38 @@
    ]
   },
   {
+   "ref_id": "REF-1962",
+   "key": "prasanth2019camellia",
+   "type": "article",
+   "title": "A Review of the Role of Green Tea (Camellia sinensis) in Antiphotoaging, Stress Resistance, Neuroprotection, and Autophagy",
+   "authors": "Prasanth, M.I., Sivamaruthi, B.S., Chaiyasut, C. and Tencomnao, T.",
+   "journal": "Nutrients",
+   "year": "2019",
+   "doi": "10.3390/nu11020474",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu11020474",
+   "link_type": "doi",
+   "citation": "Prasanth, M.I., Sivamaruthi, B.S., Chaiyasut, C. and Tencomnao, T (2019) 'A Review of the Role of Green Tea (Camellia sinensis) in Antiphotoaging, Stress Resistance, Neuroprotection, and Autophagy', Nutrients, 11(2), pp. 474. doi:10.3390/nu11020474",
+   "abstract": "This review describes the antiphotoaging, stress-resistance, neuroprotective and autophagy-inducing properties of green tea (Camellia sinensis) polyphenols, with EGCG suppressing amyloid-beta neurotoxicity.",
+   "tier": "review",
+   "display": "A Review of the Role of Green Tea (Camellia sinensis) in Antiphotoaging, Stress Resistance, Neuroprotection, and Autophagy",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0752",
    "key": "givol2019calendula",
    "type": "article",
@@ -26397,6 +26651,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1954",
+   "key": "rodriguezmagana2019borage",
+   "type": "article",
+   "title": "Hypoglycemic Activity of Tilia americana, Borago officinalis, Chenopodium nuttalliae, and Piper sanctum on Wistar Rats",
+   "authors": "Rodriguez-Magana, M.P., Cordero-Perez, P., Rivas-Morales, C., Oranday-Cardenas, M.A., Moreno-Pena, D.P., Garcia-Hernandez, D.G. and Leos-Rivas, C.",
+   "journal": "Journal of Diabetes Research",
+   "year": "2019",
+   "doi": "10.1155/2019/7836820",
+   "url": "",
+   "link": "https://doi.org/10.1155/2019/7836820",
+   "link_type": "doi",
+   "citation": "Rodriguez-Magana, M.P., Cordero-Perez, P., Rivas-Morales, C., Oranday-Cardenas, M.A., Moreno-Pena, D.P., Garcia-Hernandez, D.G. and Leos-Rivas, C (2019) 'Hypoglycemic Activity of Tilia americana, Borago officinalis, Chenopodium nuttalliae, and Piper sanctum on Wistar Rats', Journal of Diabetes Research, 2019, pp. 7836820. doi:10.1155/2019/7836820",
+   "abstract": "Among the plants tested, the methanolic extract of Borago officinalis showed hypoglycemic activity in diabetic Wistar rats, supporting a traditional antidiabetic application of borage.",
+   "tier": "preclinical",
+   "display": "Hypoglycemic Activity of Tilia americana, Borago officinalis, Chenopodium nuttalliae, and Piper sanctum on Wistar Rats",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1727",
    "key": "karbalaei2019hops",
    "type": "article",
@@ -26805,6 +27088,35 @@
    ],
    "scientific": [
     "Coriandrum sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1959",
+   "key": "fernandes2019borage",
+   "type": "article",
+   "title": "Phytochemical characterization of Borago officinalis L. and Centaurea cyanus L. during flower development",
+   "authors": "Fernandes, L., Pereira, J.A., Saraiva, J.A., Ramalhosa, E. and Casal, S.",
+   "journal": "Food Research International",
+   "year": "2019",
+   "doi": "10.1016/j.foodres.2019.05.014",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodres.2019.05.014",
+   "link_type": "doi",
+   "citation": "Fernandes, L., Pereira, J.A., Saraiva, J.A., Ramalhosa, E. and Casal, S (2019) 'Phytochemical characterization of Borago officinalis L. and Centaurea cyanus L. during flower development', Food Research International, 123, pp. 771-778. doi:10.1016/j.foodres.2019.05.014",
+   "abstract": "This work characterised the nutritional and chemical composition of Borago officinalis flowers across three flowering stages, documenting the dietary-fibre and phytochemical profile of borage.",
+   "tier": "preclinical",
+   "display": "Phytochemical characterization of Borago officinalis L. and Centaurea cyanus L. during flower development",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -28529,6 +28841,67 @@
     "Cold & flu",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-1951",
+   "key": "seo2018borage",
+   "type": "article",
+   "title": "Borago officinalis L. attenuates UVB-induced skin photodamage via regulation of AP-1 and Nrf2/ARE pathway in normal human dermal fibroblasts and promotion of collagen synthesis in hairless mice",
+   "authors": "Seo, S.A., Park, B., Hwang, E., Park, S. and Yi, T.",
+   "journal": "Experimental Gerontology",
+   "year": "2018",
+   "doi": "10.1016/j.exger.2018.02.017",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.exger.2018.02.017",
+   "link_type": "doi",
+   "citation": "Seo, S.A., Park, B., Hwang, E., Park, S. and Yi, T (2018) 'Borago officinalis L. attenuates UVB-induced skin photodamage via regulation of AP-1 and Nrf2/ARE pathway in normal human dermal fibroblasts and promotion of collagen synthesis in hairless mice', Experimental Gerontology, 107, pp. 178-186. doi:10.1016/j.exger.2018.02.017",
+   "abstract": "Borago officinalis attenuated UVB-induced skin photodamage by regulating AP-1 and Nrf2/ARE pathways and promoting collagen synthesis, supporting the emollient skin-protective use of borage.",
+   "tier": "preclinical",
+   "display": "Borago officinalis L. attenuates UVB-induced skin photodamage via regulation of AP-1 and Nrf2/ARE pathway in normal human dermal fibroblasts and promotion of collagen synthesis in hairless mice",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Emollient / skin-soothing"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1955",
+   "key": "navarroherrera2018borage",
+   "type": "article",
+   "title": "Borago officinalis seed oil (BSO), a natural source of omega-6 fatty acids, attenuates fat accumulation by activating peroxisomal beta-oxidation both in C. elegans and in diet-induced obese rats",
+   "authors": "Navarro-Herrera, D., Aranaz, P., Eder-Azanza, L., Zabala, M., Romo-Hualde, A., Hurtado, C., Calavia, D., Lopez-Yoldi, M., Martinez, J.A., Gonzalez-Navarro, C.J. and Vizmanos, J.L.",
+   "journal": "Food & Function",
+   "year": "2018",
+   "doi": "10.1039/c8fo00423d",
+   "url": "",
+   "link": "https://doi.org/10.1039/c8fo00423d",
+   "link_type": "doi",
+   "citation": "Navarro-Herrera, D., Aranaz, P., Eder-Azanza, L., Zabala, M., Romo-Hualde, A., Hurtado, C., Calavia, D., Lopez-Yoldi, M., Martinez, J.A., Gonzalez-Navarro, C.J. and Vizmanos, J.L (2018) 'Borago officinalis seed oil (BSO), a natural source of omega-6 fatty acids, attenuates fat accumulation by activating peroxisomal beta-oxidation both in C. elegans and in diet-induced obese rats', Food & Function, 9(8), pp. 4340-4351. doi:10.1039/c8fo00423d",
+   "abstract": "Borago officinalis seed oil, rich in omega-6 fatty acids (gamma-linolenic acid), attenuated fat accumulation by activating peroxisomal beta-oxidation in C. elegans and diet-induced obese rats, documenting a metabolic effect of borage seed oil.",
+   "tier": "preclinical",
+   "display": "Borago officinalis seed oil (BSO), a natural source of omega-6 fatty acids, attenuates fat accumulation by activating peroxisomal beta-oxidation both in C. elegans and in diet-induced obese rats",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0486",
@@ -30720,6 +31093,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1963",
+   "key": "bedrood2018camellia",
+   "type": "article",
+   "title": "Toxicological effects of Camellia sinensis (green tea): A review",
+   "authors": "Bedrood, Z., Rameshrad, M. and Hosseinzadeh, H.",
+   "journal": "Phytotherapy Research",
+   "year": "2018",
+   "doi": "10.1002/ptr.6063",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6063",
+   "link_type": "doi",
+   "citation": "Bedrood, Z., Rameshrad, M. and Hosseinzadeh, H (2018) 'Toxicological effects of Camellia sinensis (green tea): A review', Phytotherapy Research, 32(7), pp. 1163-1180. doi:10.1002/ptr.6063",
+   "abstract": "This review classifies the toxicological effects of green tea (Camellia sinensis) and its constituents, noting hepatotoxicity and gastrointestinal disorders especially on an empty stomach, and drug-interaction cautions.",
+   "tier": "review",
+   "display": "Toxicological effects of Camellia sinensis (green tea): A review",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1241",
    "key": "scalas2018pinus",
    "type": "article",
@@ -30908,6 +31310,35 @@
    ],
    "scientific": [
     "Nepeta cataria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1969",
+   "key": "albassam2017camellia",
+   "type": "article",
+   "title": "An Appraisal of Drug-Drug Interactions with Green Tea (Camellia sinensis)",
+   "authors": "Albassam, A.A. and Markowitz, J.S.",
+   "journal": "Planta Medica",
+   "year": "2017",
+   "doi": "10.1055/s-0043-100934",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0043-100934",
+   "link_type": "doi",
+   "citation": "Albassam, A.A. and Markowitz, J.S (2017) 'An Appraisal of Drug-Drug Interactions with Green Tea (Camellia sinensis)', Planta Medica, 83(6), pp. 496-508. doi:10.1055/s-0043-100934",
+   "abstract": "This review appraises the effects of green tea (Camellia sinensis) extract and EGCG on drug-metabolizing enzymes and transporters, concluding clinically significant interactions are limited but caution is advised with OATP substrates.",
+   "tier": "review",
+   "display": "An Appraisal of Drug-Drug Interactions with Green Tea (Camellia sinensis)",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
    ],
    "actions": [],
    "conditions": []
@@ -34331,6 +34762,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1953",
+   "key": "lozanobaena2016borage",
+   "type": "article",
+   "title": "Cancer Prevention and Health Benefices of Traditionally Consumed Borago officinalis Plants",
+   "authors": "Lozano-Baena, M., Tasset, I., Munoz-Serrano, A., Alonso-Moraga, A. and de Haro-Bailon, A.",
+   "journal": "Nutrients",
+   "year": "2016",
+   "doi": "10.3390/nu8010048",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu8010048",
+   "link_type": "doi",
+   "citation": "Lozano-Baena, M., Tasset, I., Munoz-Serrano, A., Alonso-Moraga, A. and de Haro-Bailon, A (2016) 'Cancer Prevention and Health Benefices of Traditionally Consumed Borago officinalis Plants', Nutrients, 8(1), pp. 48. doi:10.3390/nu8010048",
+   "abstract": "This study evaluated the safety, antioxidant and cancer-preventive (antigenotoxic) properties of traditionally consumed Borago officinalis and its main phenolic components, supporting its use as a functional food.",
+   "tier": "preclinical",
+   "display": "Cancer Prevention and Health Benefices of Traditionally Consumed Borago officinalis Plants",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1095",
    "key": "sonmezdag2015thymus",
    "type": "article",
@@ -34536,6 +34998,37 @@
    "actions": [
     "Antidiabetic (blood-sugar lowering)",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1952",
+   "key": "mirsadraee2016borage",
+   "type": "article",
+   "title": "Effect of Borago Officinalis Extract on Moderate Persistent Asthma: A Phase two Randomized, Double Blind, Placebo-Controlled Clinical Trial",
+   "authors": "Mirsadraee, M., Khashkhashi Moghaddam, S., Saeedi, P. and Ghaffari, S.",
+   "journal": "Tanaffos",
+   "year": "2016",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Effect%20of%20Borago%20Officinalis%20Extract%20on%20Moderate%20Persistent%20Asthma%3A%20A%20Phase%20two%20Randomized%2C%20Double%20Blind%2C%20Placebo-Controlled%20Clinical%20Trial",
+   "link_type": "search",
+   "citation": "Mirsadraee, M., Khashkhashi Moghaddam, S., Saeedi, P. and Ghaffari, S (2016) 'Effect of Borago Officinalis Extract on Moderate Persistent Asthma: A Phase two Randomized, Double Blind, Placebo-Controlled Clinical Trial', Tanaffos, 15(3), pp. 168-174.",
+   "abstract": "In a phase-two randomized, double-blind, placebo-controlled trial, Borago officinalis extract improved moderate persistent asthma, an effect linked to its suppression of TNF-alpha and its gamma-linolenic-acid content, supporting its anti-inflammatory respiratory use.",
+   "tier": "rct",
+   "display": "Effect of Borago Officinalis Extract on Moderate Persistent Asthma: A Phase two Randomized, Double Blind, Placebo-Controlled Clinical Trial",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -37834,6 +38327,35 @@
    ]
   },
   {
+   "ref_id": "REF-1957",
+   "key": "samy2015borage",
+   "type": "article",
+   "title": "Officinalioside, a new lignan glucoside from Borago officinalis L.",
+   "authors": "Samy, M.N., Hamed, A.N.E., Sugimoto, S., Otsuka, H., Kamel, M.S. and Matsunami, K.",
+   "journal": "Natural Product Research",
+   "year": "2015",
+   "doi": "10.1080/14786419.2015.1088540",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2015.1088540",
+   "link_type": "doi",
+   "citation": "Samy, M.N., Hamed, A.N.E., Sugimoto, S., Otsuka, H., Kamel, M.S. and Matsunami, K (2015) 'Officinalioside, a new lignan glucoside from Borago officinalis L', Natural Product Research, 30(8), pp. 967-972. doi:10.1080/14786419.2015.1088540",
+   "abstract": "A new lignan glucoside, officinalioside, together with four known compounds, was isolated from the aerial parts of Borago officinalis, characterising the phenolic constituents of borage.",
+   "tier": "preclinical",
+   "display": "Officinalioside, a new lignan glucoside from Borago officinalis L.",
+   "plants": [
+    "Bee bread",
+    "Bee bush",
+    "Borage",
+    "Common borage",
+    "Starflower"
+   ],
+   "scientific": [
+    "Borago officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0658",
    "key": "haarberg2015prunellacolitis",
    "type": "article",
@@ -38585,6 +39107,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1965",
+   "key": "conde2015camellia",
+   "type": "article",
+   "title": "Tea (Camellia sinensis (L.)): a putative anticancer agent in bladder carcinoma?",
+   "authors": "Conde, V.R., Alves, M.G., Oliveira, P.F. and Silva, B.M.",
+   "journal": "Anti-Cancer Agents in Medicinal Chemistry",
+   "year": "2015",
+   "doi": "10.2174/1566524014666141203143143",
+   "url": "",
+   "link": "https://doi.org/10.2174/1566524014666141203143143",
+   "link_type": "doi",
+   "citation": "Conde, V.R., Alves, M.G., Oliveira, P.F. and Silva, B.M (2015) 'Tea (Camellia sinensis (L.)): a putative anticancer agent in bladder carcinoma?', Anti-Cancer Agents in Medicinal Chemistry, 15(1), pp. 26-36. doi:10.2174/1566524014666141203143143",
+   "abstract": "This review discusses tea (Camellia sinensis) polyphenols as putative anticancer agents in bladder carcinoma, acting via cell-cycle deregulation, apoptosis induction and inhibition of metastasis.",
+   "tier": "review",
+   "display": "Tea (Camellia sinensis (L.)): a putative anticancer agent in bladder carcinoma?",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0061",
    "key": "drake2015catechins",
    "type": "article",
@@ -39174,6 +39727,35 @@
    "conditions": [
     "Kidney support"
    ]
+  },
+  {
+   "ref_id": "REF-1970",
+   "key": "gramza2014camellia",
+   "type": "article",
+   "title": "Caffeine in tea Camellia sinensis - content, absorption, benefits and risks of consumption",
+   "authors": "Gramza-Michalowska, A.",
+   "journal": "Journal of Nutrition, Health & Aging",
+   "year": "2014",
+   "doi": "10.1007/s12603-013-0404-1",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12603-013-0404-1",
+   "link_type": "doi",
+   "citation": "Gramza-Michalowska, A (2014) 'Caffeine in tea Camellia sinensis - content, absorption, benefits and risks of consumption', Journal of Nutrition, Health & Aging, 18(2), pp. 143-149. doi:10.1007/s12603-013-0404-1",
+   "abstract": "This review gives an overview of caffeine content in tea (Camellia sinensis) and its absorption, physiological effects, benefits and risks, alongside caffeine-polyphenol interactions underlying tea's antioxidant and antibacterial effects.",
+   "tier": "review",
+   "display": "Caffeine in tea Camellia sinensis - content, absorption, benefits and risks of consumption",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0031",
@@ -44546,6 +45128,36 @@
    ]
   },
   {
+   "ref_id": "REF-1947",
+   "key": "warashina2011asclepias",
+   "type": "article",
+   "title": "8,12;8,20-diepoxy-8,14-secopregnane glycosides from roots of Asclepias tuberosa and their effect on proliferation of human skin fibroblasts",
+   "authors": "Warashina, T., Umehara, K., Miyase, T. and Noro, T.",
+   "journal": "Phytochemistry",
+   "year": "2011",
+   "doi": "10.1016/j.phytochem.2011.05.012",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2011.05.012",
+   "link_type": "doi",
+   "citation": "Warashina, T., Umehara, K., Miyase, T. and Noro, T (2011) '8,12;8,20-diepoxy-8,14-secopregnane glycosides from roots of Asclepias tuberosa and their effect on proliferation of human skin fibroblasts', Phytochemistry, 72(14-15), pp. 1865-1875. doi:10.1016/j.phytochem.2011.05.012",
+   "abstract": "A pregnane glycoside fraction (21 secopregnane glycosides) from the roots of Asclepias tuberosa caused normal human skin fibroblasts to proliferate, suggesting a wound-healing / skin-regenerative potential of pleurisy root.",
+   "tier": "preclinical",
+   "display": "8,12;8,20-diepoxy-8,14-secopregnane glycosides from roots of Asclepias tuberosa and their effect on proliferation of human skin fibroblasts",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-0276",
    "key": "singh2011singh",
    "type": "misc",
@@ -45804,6 +46416,34 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-1946",
+   "key": "warashina2010asclepias",
+   "type": "article",
+   "title": "8,12;8,20-Diepoxy-8,14-secopregnane glycosides from the aerial parts of Asclepias tuberosa",
+   "authors": "Warashina, T. and Noro, T.",
+   "journal": "Chemical & Pharmaceutical Bulletin",
+   "year": "2010",
+   "doi": "10.1248/cpb.58.172",
+   "url": "",
+   "link": "https://doi.org/10.1248/cpb.58.172",
+   "link_type": "doi",
+   "citation": "Warashina, T. and Noro, T (2010) '8,12;8,20-Diepoxy-8,14-secopregnane glycosides from the aerial parts of Asclepias tuberosa', Chemical & Pharmaceutical Bulletin, 58(2), pp. 172-179. doi:10.1248/cpb.58.172",
+   "abstract": "Twenty-two new steroidal glycosides containing 8,12;8,20-diepoxy-8,14-secopregnanes (tuberogenin and congeners) were isolated from the aerial parts of Asclepias tuberosa, further characterising the constituents of pleurisy root.",
+   "tier": "preclinical",
+   "display": "8,12;8,20-Diepoxy-8,14-secopregnane glycosides from the aerial parts of Asclepias tuberosa",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1793",
@@ -47111,6 +47751,34 @@
    ]
   },
   {
+   "ref_id": "REF-1945",
+   "key": "warashina2009asclepias",
+   "type": "article",
+   "title": "8,14-Secopregnane glycosides from the aerial parts of Asclepias tuberosa",
+   "authors": "Warashina, T. and Noro, T.",
+   "journal": "Phytochemistry",
+   "year": "2009",
+   "doi": "10.1016/j.phytochem.2009.07.033",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2009.07.033",
+   "link_type": "doi",
+   "citation": "Warashina, T. and Noro, T (2009) '8,14-Secopregnane glycosides from the aerial parts of Asclepias tuberosa', Phytochemistry, 70(10), pp. 1294-1304. doi:10.1016/j.phytochem.2009.07.033",
+   "abstract": "Twenty pregnane glycosides (tuberoside A1-L5) with 8,12;8,20-diepoxy-8,14-secopregnane aglycones were isolated from the aerial parts of Asclepias tuberosa, documenting the phytochemistry of pleurisy root.",
+   "tier": "preclinical",
+   "display": "8,14-Secopregnane glycosides from the aerial parts of Asclepias tuberosa",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1532",
    "key": "olsson2009rhodiola",
    "type": "article",
@@ -47500,6 +48168,37 @@
    "conditions": [
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-1966",
+   "key": "moore2009camellia",
+   "type": "article",
+   "title": "Green tea (Camellia sinensis) catechins and vascular function",
+   "authors": "Moore, R.J., Jackson, K.G. and Minihane, A.M.",
+   "journal": "British Journal of Nutrition",
+   "year": "2009",
+   "doi": "10.1017/S0007114509991218",
+   "url": "",
+   "link": "https://doi.org/10.1017/S0007114509991218",
+   "link_type": "doi",
+   "citation": "Moore, R.J., Jackson, K.G. and Minihane, A.M (2009) 'Green tea (Camellia sinensis) catechins and vascular function', British Journal of Nutrition, 102(12), pp. 1790-1802. doi:10.1017/S0007114509991218",
+   "abstract": "This review describes the influence of green tea (Camellia sinensis) catechins, especially EGCG, on endothelial function and vascular homeostasis and their associated reduction in cardiovascular disease risk.",
+   "tier": "review",
+   "display": "Green tea (Camellia sinensis) catechins and vascular function",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1764",
@@ -55244,6 +55943,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1964",
+   "key": "hamiltonmiller2001camellia",
+   "type": "article",
+   "title": "Anti-cariogenic properties of tea (Camellia sinensis)",
+   "authors": "Hamilton-Miller, J.M.T.",
+   "journal": "Journal of Medical Microbiology",
+   "year": "2001",
+   "doi": "10.1099/0022-1317-50-4-299",
+   "url": "",
+   "link": "https://doi.org/10.1099/0022-1317-50-4-299",
+   "link_type": "doi",
+   "citation": "Hamilton-Miller, J.M.T (2001) 'Anti-cariogenic properties of tea (Camellia sinensis)', Journal of Medical Microbiology, 50(4), pp. 299-302. doi:10.1099/0022-1317-50-4-299",
+   "abstract": "Tea (Camellia sinensis) catechins show anti-cariogenic activity in vitro - bactericidal against Streptococcus mutans, preventing bacterial adherence and inhibiting glucosyltransferase - supporting the antimicrobial oral-health use of tea.",
+   "tier": "review",
+   "display": "Anti-cariogenic properties of tea (Camellia sinensis)",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1912",
    "key": "dhawan2001bpassiflora",
    "type": "article",
@@ -56009,6 +56739,34 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1944",
+   "key": "abe2000aasclepias",
+   "type": "article",
+   "title": "Pregnane glycosides from the roots of Asclepias tuberosa",
+   "authors": "Abe, F. and Yamauchi, T.",
+   "journal": "Chemical & Pharmaceutical Bulletin",
+   "year": "2000",
+   "doi": "10.1248/cpb.48.1017",
+   "url": "",
+   "link": "https://doi.org/10.1248/cpb.48.1017",
+   "link_type": "doi",
+   "citation": "Abe, F. and Yamauchi, T (2000) 'Pregnane glycosides from the roots of Asclepias tuberosa', Chemical & Pharmaceutical Bulletin, 48(7), pp. 1017-1022. doi:10.1248/cpb.48.1017",
+   "abstract": "Sixteen pregnane glycosides, including new ikemagenin, lineolon and pleurogenin glycosides, were isolated from the roots of Asclepias tuberosa, characterising the steroidal constituents of pleurisy root.",
+   "tier": "preclinical",
+   "display": "Pregnane glycosides from the roots of Asclepias tuberosa",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0613",
@@ -58317,6 +59075,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1949",
+   "key": "lockwood1848basclepias",
+   "type": "article",
+   "title": "Asclepias Tuberosa, Butter-Fly-Weed, Milk Weed, Pleurisy Root, White Root",
+   "authors": "Lockwood, T.T.",
+   "journal": "Buffalo Medical Journal and Monthly Review",
+   "year": "1848",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Asclepias%20Tuberosa%2C%20Butter-Fly-Weed%2C%20Milk%20Weed%2C%20Pleurisy%20Root%2C%20White%20Root",
+   "link_type": "search",
+   "citation": "Lockwood, T.T (1848) 'Asclepias Tuberosa, Butter-Fly-Weed, Milk Weed, Pleurisy Root, White Root', Buffalo Medical Journal and Monthly Review, 3(10), pp. 600-602.",
+   "abstract": "This historical 1848 clinical monograph describes Asclepias tuberosa (pleurisy root) and its traditional use as a diaphoretic and expectorant for pleurisy, bronchitis and febrile respiratory illness.",
+   "tier": "traditional",
+   "display": "Asclepias Tuberosa, Butter-Fly-Weed, Milk Weed, Pleurisy Root, White Root",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [
+    "Diaphoretic",
+    "Expectorant"
+   ],
+   "conditions": [
+    "Bronchitis",
+    "Respiratory support"
+   ]
+  },
+  {
    "ref_id": "REF-0735",
    "key": "lockwood1848asclepias",
    "type": "article",
@@ -58343,6 +59135,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-1948",
+   "key": "lockwood1848aasclepias",
+   "type": "article",
+   "title": "Asclepias Tuberosa, Butterfly-Weed, Milk-Weed, Pleurisy Root, White Root",
+   "authors": "Lockwood, T.L.",
+   "journal": "Medical Examiner (Philadelphia)",
+   "year": "1848",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Asclepias%20Tuberosa%2C%20Butterfly-Weed%2C%20Milk-Weed%2C%20Pleurisy%20Root%2C%20White%20Root",
+   "link_type": "search",
+   "citation": "Lockwood, T.L (1848) 'Asclepias Tuberosa, Butterfly-Weed, Milk-Weed, Pleurisy Root, White Root', Medical Examiner (Philadelphia), 4(42), pp. 367-368.",
+   "abstract": "This historical 1848 monograph documents the traditional medicinal use of Asclepias tuberosa (pleurisy root) as a diaphoretic and expectorant remedy for pleurisy and respiratory complaints.",
+   "tier": "traditional",
+   "display": "Asclepias Tuberosa, Butterfly-Weed, Milk-Weed, Pleurisy Root, White Root",
+   "plants": [
+    "Butterfly milkweed",
+    "Butterfly weed",
+    "Orange milkweed",
+    "Pleurisy Root"
+   ],
+   "scientific": [
+    "Asclepias tuberosa"
+   ],
+   "actions": [
+    "Diaphoretic",
+    "Expectorant"
+   ],
+   "conditions": [
+    "Respiratory support"
+   ]
   },
   {
    "ref_id": "REF-0376",

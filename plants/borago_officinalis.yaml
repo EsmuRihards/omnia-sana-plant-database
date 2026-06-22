@@ -24,30 +24,40 @@ actions:
   - REF-0129
   - REF-0212
   - REF-0309
+  - REF-0749
+  - REF-1952
+  - REF-1958
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0129
   - REF-0212
   - REF-0309
+  - REF-0749
+  - REF-1951
+  - REF-1953
+  - REF-1956
   status: verified
 - action: digestive
   reference_ids:
   - REF-0129
   - REF-0212
   - REF-0309
+  - REF-1950
   status: verified
 - action: emollient
   reference_ids:
   - REF-0129
   - REF-0212
   - REF-0309
+  - REF-1951
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0129
   - REF-0212
   - REF-0309
+  - REF-1958
   status: verified
 indications:
 - condition: arthritis
@@ -165,6 +175,16 @@ references:
 - REF-0749
 - REF-0750
 - REF-0751
+- REF-1950
+- REF-1951
+- REF-1952
+- REF-1953
+- REF-1954
+- REF-1955
+- REF-1956
+- REF-1957
+- REF-1958
+- REF-1959
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -173,4 +193,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0749, REF-0750, REF-0751.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0749, REF-0750, REF-0751.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0749,
+  REF-1950, REF-1951, REF-1952, REF-1953, REF-1954, REF-1955, REF-1956, REF-1957, REF-1958, REF-1959)
+  — woven into relevant actions/indications and the plant-level references bucket.'

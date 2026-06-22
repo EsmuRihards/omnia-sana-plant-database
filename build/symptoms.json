@@ -15462,6 +15462,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0495",
+      "REF-1947"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -15479,7 +15490,8 @@
      "inferred": true,
      "references": [
       "REF-0494",
-      "REF-0495"
+      "REF-0495",
+      "REF-1949"
      ]
     },
     {
@@ -15533,17 +15545,9 @@
      "inferred": true,
      "references": [
       "REF-0494",
-      "REF-0495"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0495"
+      "REF-0495",
+      "REF-1948",
+      "REF-1949"
      ]
     }
    ]

@@ -4722,7 +4722,9 @@
      "note": "Diaphoretic - promotes sweating to support feverish illness",
      "reference_ids": [
       "REF-0494",
-      "REF-0495"
+      "REF-0495",
+      "REF-1948",
+      "REF-1949"
      ],
      "status": "needs-review"
     },
@@ -4731,7 +4733,9 @@
      "note": "Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy",
      "reference_ids": [
       "REF-0494",
-      "REF-0495"
+      "REF-0495",
+      "REF-1948",
+      "REF-1949"
      ],
      "status": "needs-review"
     }
@@ -4750,7 +4754,8 @@
      "note": "Traditional expectorant - helps clear phlegm in chest conditions, bronchitis and pleurisy",
      "reference_ids": [
       "REF-0494",
-      "REF-0495"
+      "REF-0495",
+      "REF-1949"
      ],
      "status": "needs-review"
     },
@@ -4794,7 +4799,9 @@
      "note": "inferred from expectorant action",
      "reference_ids": [
       "REF-0494",
-      "REF-0495"
+      "REF-0495",
+      "REF-1948",
+      "REF-1949"
      ],
      "status": "needs-review"
     },
@@ -4802,7 +4809,8 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0495"
+      "REF-0495",
+      "REF-1947"
      ],
      "status": "needs-review"
     }
@@ -4830,7 +4838,14 @@
    "references": [
     "REF-0734",
     "REF-0738",
-    "REF-0735"
+    "REF-0735",
+    "REF-1944",
+    "REF-1945",
+    "REF-1946",
+    "REF-1947",
+    "REF-0626",
+    "REF-1948",
+    "REF-1949"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
@@ -5737,7 +5752,10 @@
      "reference_ids": [
       "REF-0129",
       "REF-0212",
-      "REF-0309"
+      "REF-0309",
+      "REF-0749",
+      "REF-1952",
+      "REF-1958"
      ],
      "status": "verified"
     },
@@ -5746,7 +5764,11 @@
      "reference_ids": [
       "REF-0129",
       "REF-0212",
-      "REF-0309"
+      "REF-0309",
+      "REF-0749",
+      "REF-1951",
+      "REF-1953",
+      "REF-1956"
      ],
      "status": "verified"
     },
@@ -5755,7 +5777,8 @@
      "reference_ids": [
       "REF-0129",
       "REF-0212",
-      "REF-0309"
+      "REF-0309",
+      "REF-1950"
      ],
      "status": "verified"
     },
@@ -5764,7 +5787,8 @@
      "reference_ids": [
       "REF-0129",
       "REF-0212",
-      "REF-0309"
+      "REF-0309",
+      "REF-1951"
      ],
      "status": "verified"
     },
@@ -5773,7 +5797,8 @@
      "reference_ids": [
       "REF-0129",
       "REF-0212",
-      "REF-0309"
+      "REF-0309",
+      "REF-1958"
      ],
      "status": "verified"
     }
@@ -5922,7 +5947,17 @@
    "references": [
     "REF-0749",
     "REF-0750",
-    "REF-0751"
+    "REF-0751",
+    "REF-1950",
+    "REF-1951",
+    "REF-1952",
+    "REF-1953",
+    "REF-1954",
+    "REF-1955",
+    "REF-1956",
+    "REF-1957",
+    "REF-1958",
+    "REF-1959"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -6305,7 +6340,10 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0045"
+      "REF-0045",
+      "REF-1960",
+      "REF-1961",
+      "REF-1965"
      ],
      "status": "verified"
     },
@@ -6319,21 +6357,28 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0045"
+      "REF-0045",
+      "REF-1964",
+      "REF-1967",
+      "REF-1968"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0045"
+      "REF-0045",
+      "REF-1960",
+      "REF-1962",
+      "REF-1966"
      ],
      "status": "verified"
     },
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0045"
+      "REF-0045",
+      "REF-1962"
      ],
      "status": "verified"
     }
@@ -6448,7 +6493,18 @@
    "references": [
     "REF-0755",
     "REF-0756",
-    "REF-0757"
+    "REF-0757",
+    "REF-1960",
+    "REF-1961",
+    "REF-1962",
+    "REF-1963",
+    "REF-1964",
+    "REF-1965",
+    "REF-1966",
+    "REF-1967",
+    "REF-1968",
+    "REF-1969",
+    "REF-1970"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

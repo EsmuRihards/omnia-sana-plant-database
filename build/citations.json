@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2186,
+ "count": 2215,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -4335,6 +4335,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2204",
+   "key": "yu2024inonotus",
+   "type": "article",
+   "title": "Inonotus obliquus aqueous extract inhibits intestinal inflammation and insulin metabolism defects in Drosophila",
+   "authors": "Yu, S., Lai, Z., Xue, H., Zhu, J., Yue, G., Wang, J. and Jin, L.H.",
+   "journal": "Toxicology Mechanisms and Methods",
+   "year": "2024",
+   "doi": "10.1080/15376516.2024.2368795",
+   "url": "",
+   "link": "https://doi.org/10.1080/15376516.2024.2368795",
+   "link_type": "doi",
+   "citation": "Yu, S., Lai, Z., Xue, H., Zhu, J., Yue, G., Wang, J. and Jin, L.H (2024) 'Inonotus obliquus aqueous extract inhibits intestinal inflammation and insulin metabolism defects in Drosophila', Toxicology Mechanisms and Methods, 34(9), pp. 970-984. doi:10.1080/15376516.2024.2368795",
+   "abstract": "Inonotus obliquus (chaga) aqueous extract inhibited intestinal inflammation and insulin metabolism defects in a Drosophila model, supporting the anti-inflammatory use of chaga.",
+   "tier": "preclinical",
+   "display": "Inonotus obliquus aqueous extract inhibits intestinal inflammation and insulin metabolism defects in Drosophila",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0853",
    "key": "markovic2024juniper",
    "type": "article",
@@ -4539,6 +4569,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2211",
+   "key": "mykhailenko2024lavandula",
+   "type": "article",
+   "title": "Lavandula angustifolia herb from Ukraine: comparative chemical profile and in vitro antioxidant activity",
+   "authors": "Mykhailenko, O., Hurina, V., Ivanauskas, L., Marksa, M., Skybitska, M., Kovalenko, O., Lytkin, D., Vladymyrova, I. and Georgiyants, V.",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2024",
+   "doi": "10.1002/cbdv.202400640",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.202400640",
+   "link_type": "doi",
+   "citation": "Mykhailenko, O., Hurina, V., Ivanauskas, L., Marksa, M., Skybitska, M., Kovalenko, O., Lytkin, D., Vladymyrova, I. and Georgiyants, V (2024) 'Lavandula angustifolia herb from Ukraine: comparative chemical profile and in vitro antioxidant activity', Chemistry & Biodiversity, 21(9), pp. e202400640. doi:10.1002/cbdv.202400640",
+   "abstract": "This study characterised the chemical profile and in vitro antioxidant activity of Lavandula angustifolia herb, supporting the antioxidant use of lavender.",
+   "tier": "preclinical",
+   "display": "Lavandula angustifolia herb from Ukraine: comparative chemical profile and in vitro antioxidant activity",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1885",
    "key": "wang2024schisandra",
    "type": "article",
@@ -4708,6 +4767,33 @@
    ],
    "scientific": [
     "Marrubium vulgare"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2193",
+   "key": "eltahir2024glycyrrhiza",
+   "type": "article",
+   "title": "Neuroprotective effects of Glycyrrhiza glabra total extract and isolated compounds",
+   "authors": "Eltahir, A.O.E., Omoruyi, S.I., Augustine, T.N., Luckay, R.C. and Hussein, A.A.",
+   "journal": "Pharmaceuticals",
+   "year": "2024",
+   "doi": "10.3390/ph17070852",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph17070852",
+   "link_type": "doi",
+   "citation": "Eltahir, A.O.E., Omoruyi, S.I., Augustine, T.N., Luckay, R.C. and Hussein, A.A (2024) 'Neuroprotective effects of Glycyrrhiza glabra total extract and isolated compounds', Pharmaceuticals, 17(7), pp. 852. doi:10.3390/ph17070852",
+   "abstract": "Glycyrrhiza glabra total extract and isolated compounds showed neuroprotective effects in cell models, documenting a pharmacological activity of licorice.",
+   "tier": "preclinical",
+   "display": "Neuroprotective effects of Glycyrrhiza glabra total extract and isolated compounds",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
    ],
    "actions": [],
    "conditions": []
@@ -4985,6 +5071,35 @@
    "actions": [
     "Anti-inflammatory",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2207",
+   "key": "betlej2024lavandula",
+   "type": "article",
+   "title": "Phytochemical composition and antimicrobial properties of new Lavandula angustifolia ecotypes",
+   "authors": "Betlej, I., Andres, B., Cebulak, T., Kapusta, I., Balawejder, M., Zurek, N., Jaworski, S., Lange, A., Kutwin, M., Pisulewska, E., Kidacka, A., Krochmal-Marczak, B., Boruszewski, P. and Borysiuk, P.",
+   "journal": "Molecules",
+   "year": "2024",
+   "doi": "10.3390/molecules29081740",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules29081740",
+   "link_type": "doi",
+   "citation": "Betlej, I., Andres, B., Cebulak, T., Kapusta, I., Balawejder, M., Zurek, N., Jaworski, S., Lange, A., Kutwin, M., Pisulewska, E., Kidacka, A., Krochmal-Marczak, B., Boruszewski, P. and Borysiuk, P (2024) 'Phytochemical composition and antimicrobial properties of new Lavandula angustifolia ecotypes', Molecules, 29(8), pp. 1740. doi:10.3390/molecules29081740",
+   "abstract": "New Lavandula angustifolia ecotypes were characterised for phytochemical composition and showed antimicrobial properties, supporting the antimicrobial use of lavender.",
+   "tier": "preclinical",
+   "display": "Phytochemical composition and antimicrobial properties of new Lavandula angustifolia ecotypes",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Antimicrobial"
    ],
    "conditions": []
   },
@@ -6954,6 +7069,64 @@
    "conditions": [
     "Cardiovascular / heart health"
    ]
+  },
+  {
+   "ref_id": "REF-2210",
+   "key": "lejeune2023lavandula",
+   "type": "article",
+   "title": "Antinociceptive and anxiolytic-like effects of Lavandula angustifolia essential oil on rat models of orofacial pain",
+   "authors": "Lejeune, V.B.P., Lopes, R.V., Baggio, D.F., Koren, L.D.O., Zanoveli, J.M. and Chichorro, J.G.",
+   "journal": "Journal of Applied Oral Science",
+   "year": "2023",
+   "doi": "10.1590/1678-7757-2002-0304",
+   "url": "",
+   "link": "https://doi.org/10.1590/1678-7757-2002-0304",
+   "link_type": "doi",
+   "citation": "Lejeune, V.B.P., Lopes, R.V., Baggio, D.F., Koren, L.D.O., Zanoveli, J.M. and Chichorro, J.G (2023) 'Antinociceptive and anxiolytic-like effects of Lavandula angustifolia essential oil on rat models of orofacial pain', Journal of Applied Oral Science, 30, pp. e20220304. doi:10.1590/1678-7757-2002-0304",
+   "abstract": "Lavandula angustifolia essential oil showed antinociceptive and anxiolytic-like effects in rat models of orofacial pain, supporting the sedative use of lavender.",
+   "tier": "preclinical",
+   "display": "Antinociceptive and anxiolytic-like effects of Lavandula angustifolia essential oil on rat models of orofacial pain",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2208",
+   "key": "rahimian2023lavandula",
+   "type": "article",
+   "title": "Antiseizure effects of Lavandula angustifolia L.",
+   "authors": "Rahimian, Z., Sadrian, S., Shahisavandi, M., Aligholi, H., Zarshenas, M.M., Abyar, A., Zeraatpisheh, Z. and Asadi-Pooya, A.A.",
+   "journal": "BioMed Research International",
+   "year": "2023",
+   "doi": "10.1155/2023/4121998",
+   "url": "",
+   "link": "https://doi.org/10.1155/2023/4121998",
+   "link_type": "doi",
+   "citation": "Rahimian, Z., Sadrian, S., Shahisavandi, M., Aligholi, H., Zarshenas, M.M., Abyar, A., Zeraatpisheh, Z. and Asadi-Pooya, A.A (2023) 'Antiseizure effects of Lavandula angustifolia L', BioMed Research International, 2023, pp. 4121998. doi:10.1155/2023/4121998",
+   "abstract": "Lavandula angustifolia showed antiseizure and CNS-calming effects in an animal model, supporting the sedative use of lavender.",
+   "tier": "preclinical",
+   "display": "Antiseizure effects of Lavandula angustifolia L.",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1937",
@@ -9501,6 +9674,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2203",
+   "key": "zhang2023inonotus",
+   "type": "article",
+   "title": "Inonotus obliquus sclerotia epidermis were different from internal tissues in compound composition, antioxidant activity, and associated fungi",
+   "authors": "Zhang, Y., Liu, Q., Sun, Y. and Jiang, J.",
+   "journal": "FEMS Microbiology Letters",
+   "year": "2023",
+   "doi": "10.1093/femsle/fnad126",
+   "url": "",
+   "link": "https://doi.org/10.1093/femsle/fnad126",
+   "link_type": "doi",
+   "citation": "Zhang, Y., Liu, Q., Sun, Y. and Jiang, J (2023) 'Inonotus obliquus sclerotia epidermis were different from internal tissues in compound composition, antioxidant activity, and associated fungi', FEMS Microbiology Letters, 370, pp. fnad126. doi:10.1093/femsle/fnad126",
+   "abstract": "This study compared the compound composition and antioxidant activity of Inonotus obliquus (chaga) sclerotia epidermis and internal tissues, documenting the antioxidant phytochemistry of chaga.",
+   "tier": "preclinical",
+   "display": "Inonotus obliquus sclerotia epidermis were different from internal tissues in compound composition, antioxidant activity, and associated fungi",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0928",
    "key": "gourich2023marrubium",
    "type": "article",
@@ -11389,6 +11592,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2209",
+   "key": "demelo2023lavandula",
+   "type": "article",
+   "title": "Use of Lavandula angustifolia essential oil as a complementary therapy in adult health care: a scoping review",
+   "authors": "de Melo Alves Silva, L.C., de Oliveira Mendes, F.D.C., de Castro Teixeira, F., de Lima Fernandes, T.E., Barros Ribeiro, K.R., da Silva Leal, K.C., Dantas, D.V. and Neves Dantas, R.A.",
+   "journal": "Heliyon",
+   "year": "2023",
+   "doi": "10.1016/j.heliyon.2023.e15446",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.heliyon.2023.e15446",
+   "link_type": "doi",
+   "citation": "de Melo Alves Silva, L.C., de Oliveira Mendes, F.D.C., de Castro Teixeira, F., de Lima Fernandes, T.E., Barros Ribeiro, K.R., da Silva Leal, K.C., Dantas, D.V. and Neves Dantas, R.A (2023) 'Use of Lavandula angustifolia essential oil as a complementary therapy in adult health care: a scoping review', Heliyon, 9(5), pp. e15446. doi:10.1016/j.heliyon.2023.e15446",
+   "abstract": "This scoping review describes the use of Lavandula angustifolia essential oil as a complementary therapy in adult health care, predominantly for anxiety, sleep and relaxation, supporting the sedative use of lavender.",
+   "tier": "review",
+   "display": "Use of Lavandula angustifolia essential oil as a complementary therapy in adult health care: a scoping review",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1360",
    "key": "dong2023verbenalin",
    "type": "article",
@@ -12370,6 +12602,33 @@
    ]
   },
   {
+   "ref_id": "REF-2188",
+   "key": "markina2022glycyrrhiza",
+   "type": "article",
+   "title": "Atheroprotective effects of Glycyrrhiza glabra L.",
+   "authors": "Markina, Y.V., Kirichenko, T.V., Markin, A.M., Yudina, I.Y., Starodubova, A.V., Sobenin, I.A. and Orekhov, A.N.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27154697",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27154697",
+   "link_type": "doi",
+   "citation": "Markina, Y.V., Kirichenko, T.V., Markin, A.M., Yudina, I.Y., Starodubova, A.V., Sobenin, I.A. and Orekhov, A.N (2022) 'Atheroprotective effects of Glycyrrhiza glabra L', Molecules, 27(15), pp. 4697. doi:10.3390/molecules27154697",
+   "abstract": "This review describes the atheroprotective, anti-inflammatory and antioxidant effects of Glycyrrhiza glabra and its constituents in cardiovascular disease.",
+   "tier": "review",
+   "display": "Atheroprotective effects of Glycyrrhiza glabra L.",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2108",
    "key": "vinod2022bacopa",
    "type": "article",
@@ -12726,6 +12985,33 @@
    ],
    "scientific": [
     "Hyssopus officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2214",
+   "key": "aboalhaija2022lavandula",
+   "type": "article",
+   "title": "Chemical evaluation, in vitro and in vivo anticancer activity of Lavandula angustifolia grown in Jordan",
+   "authors": "Aboalhaija, N.H., Syaj, H., Afifi, F., Sunoqrot, S., Al-Shalabi, E. and Talib, W.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27185910",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27185910",
+   "link_type": "doi",
+   "citation": "Aboalhaija, N.H., Syaj, H., Afifi, F., Sunoqrot, S., Al-Shalabi, E. and Talib, W (2022) 'Chemical evaluation, in vitro and in vivo anticancer activity of Lavandula angustifolia grown in Jordan', Molecules, 27(18), pp. 5910. doi:10.3390/molecules27185910",
+   "abstract": "Lavandula angustifolia extract was chemically characterised and showed in vitro and in vivo anticancer activity, documenting a bioactivity of lavender.",
+   "tier": "preclinical",
+   "display": "Chemical evaluation, in vitro and in vivo anticancer activity of Lavandula angustifolia grown in Jordan",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
    ],
    "actions": [],
    "conditions": []
@@ -14319,6 +14605,64 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2202",
+   "key": "peng2022inonotus",
+   "type": "article",
+   "title": "Inonotus obliquus and its bioactive compounds alleviate non-alcoholic fatty liver disease via regulating FXR/SHP/SREBP-1c axis",
+   "authors": "Peng, A., Liu, S., Fang, L., Zhu, Z., Zhou, Y., Yue, S., Ma, Z., Liu, X., Xue, S., Qiu, Y. and Qi, R.",
+   "journal": "European Journal of Pharmacology",
+   "year": "2022",
+   "doi": "10.1016/j.ejphar.2022.174841",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ejphar.2022.174841",
+   "link_type": "doi",
+   "citation": "Peng, A., Liu, S., Fang, L., Zhu, Z., Zhou, Y., Yue, S., Ma, Z., Liu, X., Xue, S., Qiu, Y. and Qi, R (2022) 'Inonotus obliquus and its bioactive compounds alleviate non-alcoholic fatty liver disease via regulating FXR/SHP/SREBP-1c axis', European Journal of Pharmacology, 921, pp. 174841. doi:10.1016/j.ejphar.2022.174841",
+   "abstract": "Inonotus obliquus (chaga) and its bioactive compounds alleviated non-alcoholic fatty liver disease by regulating the FXR/SHP/SREBP-1c axis, documenting a metabolic pharmacology of chaga.",
+   "tier": "preclinical",
+   "display": "Inonotus obliquus and its bioactive compounds alleviate non-alcoholic fatty liver disease via regulating FXR/SHP/SREBP-1c axis",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2201",
+   "key": "ishfaq2022inonotus",
+   "type": "article",
+   "title": "Inonotus obliquus aqueous extract prevents histopathological alterations in liver induced by environmental toxicant Microcystin",
+   "authors": "Ishfaq, P.M., Mishra, S., Mishra, A., Ahmad, Z., Gayen, S., Jain, S.K., Tripathi, S. and Mishra, S.K.",
+   "journal": "Current Research in Pharmacology and Drug Discovery",
+   "year": "2022",
+   "doi": "10.1016/j.crphar.2022.100118",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.crphar.2022.100118",
+   "link_type": "doi",
+   "citation": "Ishfaq, P.M., Mishra, S., Mishra, A., Ahmad, Z., Gayen, S., Jain, S.K., Tripathi, S. and Mishra, S.K (2022) 'Inonotus obliquus aqueous extract prevents histopathological alterations in liver induced by environmental toxicant Microcystin', Current Research in Pharmacology and Drug Discovery, 3, pp. 100118. doi:10.1016/j.crphar.2022.100118",
+   "abstract": "Inonotus obliquus (chaga) aqueous extract prevented microcystin-induced histopathological liver damage through antioxidant action, supporting the antioxidant use of chaga.",
+   "tier": "preclinical",
+   "display": "Inonotus obliquus aqueous extract prevents histopathological alterations in liver induced by environmental toxicant Microcystin",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1367",
    "key": "peng2022vervain",
    "type": "article",
@@ -15427,6 +15771,36 @@
     "Tussilago farfara"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2200",
+   "key": "sun2022inonotus",
+   "type": "article",
+   "title": "Polysaccharide derived from Inonotus obliquus inhibits lipopolysaccharide-induced acute endometritis in mice",
+   "authors": "Sun, Y., Deng, X., Li, Z., Dong, Y., Jiang, W., Ma, Y., Zhou, W., Zhu, T., Wang, G., Liu, S. and Hu, B.",
+   "journal": "American Journal of Translational Research",
+   "year": "2022",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Polysaccharide%20derived%20from%20Inonotus%20obliquus%20inhibits%20lipopolysaccharide-induced%20acute%20endometritis%20in%20mice",
+   "link_type": "search",
+   "citation": "Sun, Y., Deng, X., Li, Z., Dong, Y., Jiang, W., Ma, Y., Zhou, W., Zhu, T., Wang, G., Liu, S. and Hu, B (2022) 'Polysaccharide derived from Inonotus obliquus inhibits lipopolysaccharide-induced acute endometritis in mice', American Journal of Translational Research, 14(11), pp. 8332-8342.",
+   "abstract": "A polysaccharide from Inonotus obliquus (chaga) inhibited lipopolysaccharide-induced acute endometritis in mice by suppressing inflammation, supporting the anti-inflammatory use of chaga.",
+   "tier": "preclinical",
+   "display": "Polysaccharide derived from Inonotus obliquus inhibits lipopolysaccharide-induced acute endometritis in mice",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -16925,6 +17299,33 @@
     "Detox / cleansing",
     "Liver support"
    ]
+  },
+  {
+   "ref_id": "REF-2189",
+   "key": "jafari2021glycyrrhiza",
+   "type": "article",
+   "title": "A review of Glycyrrhiza glabra (licorice) effects on metabolic syndrome",
+   "authors": "Jafari, F., Jafari, M., Moghadam, A.T., Emami, S.A., Jamialahmadi, T., Mohammadpour, A.H. and Sahebkar, A.",
+   "journal": "Advances in Experimental Medicine and Biology",
+   "year": "2021",
+   "doi": "10.1007/978-3-030-73234-9_25",
+   "url": "",
+   "link": "https://doi.org/10.1007/978-3-030-73234-9_25",
+   "link_type": "doi",
+   "citation": "Jafari, F., Jafari, M., Moghadam, A.T., Emami, S.A., Jamialahmadi, T., Mohammadpour, A.H. and Sahebkar, A (2021) 'A review of Glycyrrhiza glabra (licorice) effects on metabolic syndrome', Advances in Experimental Medicine and Biology, 1328, pp. 385-400. doi:10.1007/978-3-030-73234-9_25",
+   "abstract": "This review summarises the effects of Glycyrrhiza glabra (licorice) on the components of metabolic syndrome, including anti-inflammatory, antioxidant and lipid-modulating actions.",
+   "tier": "review",
+   "display": "A review of Glycyrrhiza glabra (licorice) effects on metabolic syndrome",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0044",
@@ -18682,6 +19083,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2212",
+   "key": "shamabadi2021lavandula",
+   "type": "article",
+   "title": "Efficacy and tolerability of Lavandula angustifolia in treating patients with the diagnosis of depression: a systematic review of randomized controlled trials",
+   "authors": "Shamabadi, A. and Akhondzadeh, S.",
+   "journal": "Journal of Complementary & Integrative Medicine",
+   "year": "2021",
+   "doi": "10.1515/jcim-2020-0498",
+   "url": "",
+   "link": "https://doi.org/10.1515/jcim-2020-0498",
+   "link_type": "doi",
+   "citation": "Shamabadi, A. and Akhondzadeh, S (2021) 'Efficacy and tolerability of Lavandula angustifolia in treating patients with the diagnosis of depression: a systematic review of randomized controlled trials', Journal of Complementary & Integrative Medicine, 20(1), pp. 81-91. doi:10.1515/jcim-2020-0498",
+   "abstract": "This systematic review of randomized controlled trials found that Lavandula angustifolia was efficacious and well tolerated in treating depression, supporting the sedative and mood use of lavender.",
+   "tier": "review",
+   "display": "Efficacy and tolerability of Lavandula angustifolia in treating patients with the diagnosis of depression: a systematic review of randomized controlled trials",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1864",
    "key": "nder2021inula",
    "type": "article",
@@ -19280,6 +19710,35 @@
     "Symphytum officinale"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2187",
+   "key": "wahab2021glycyrrhiza",
+   "type": "article",
+   "title": "Glycyrrhiza glabra (licorice): a comprehensive review on its phytochemistry, biological activities, clinical evidence and toxicology",
+   "authors": "Wahab, S., Annadurai, S., Abullais, S.S., Das, G., Ahmad, W., Ahmad, M.F., Kandasamy, G., Vasudevan, R., Ali, M.S. and Amir, M.",
+   "journal": "Plants",
+   "year": "2021",
+   "doi": "10.3390/plants10122751",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants10122751",
+   "link_type": "doi",
+   "citation": "Wahab, S., Annadurai, S., Abullais, S.S., Das, G., Ahmad, W., Ahmad, M.F., Kandasamy, G., Vasudevan, R., Ali, M.S. and Amir, M (2021) 'Glycyrrhiza glabra (licorice): a comprehensive review on its phytochemistry, biological activities, clinical evidence and toxicology', Plants, 10(12), pp. 2751. doi:10.3390/plants10122751",
+   "abstract": "This comprehensive review of licorice (Glycyrrhiza glabra) covers its ethnopharmacology, phytochemistry, biological activities, clinical evidence and toxicology, including anti-inflammatory, antibacterial and immunomodulatory effects of its flavonoids.",
+   "tier": "review",
+   "display": "Glycyrrhiza glabra (licorice): a comprehensive review on its phytochemistry, biological activities, clinical evidence and toxicology",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -21312,7 +21771,9 @@
    "scientific": [
     "Inonotus obliquus"
    ],
-   "actions": [],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -25212,6 +25673,34 @@
    ]
   },
   {
+   "ref_id": "REF-2197",
+   "key": "zou2020inonotus",
+   "type": "article",
+   "title": "Highly modified steroids from Inonotus obliquus",
+   "authors": "Zou, C., Hou, Z., Bai, M., Guo, R., Lin, B., Wang, X., Huang, X. and Song, S.",
+   "journal": "Organic & Biomolecular Chemistry",
+   "year": "2020",
+   "doi": "10.1039/d0ob00474j",
+   "url": "",
+   "link": "https://doi.org/10.1039/d0ob00474j",
+   "link_type": "doi",
+   "citation": "Zou, C., Hou, Z., Bai, M., Guo, R., Lin, B., Wang, X., Huang, X. and Song, S (2020) 'Highly modified steroids from Inonotus obliquus', Organic & Biomolecular Chemistry, 18(20), pp. 3908-3916. doi:10.1039/d0ob00474j",
+   "abstract": "Highly modified lanostane-type steroids were isolated and characterised from Inonotus obliquus (chaga), documenting its bioactive phytochemistry.",
+   "tier": "preclinical",
+   "display": "Highly modified steroids from Inonotus obliquus",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0176",
    "key": "national2020national",
    "type": "misc",
@@ -25440,6 +25929,37 @@
    "actions": [
     "Anti-inflammatory",
     "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2195",
+   "key": "szychowski2020inonotus",
+   "type": "article",
+   "title": "Inonotus obliquus - from folk medicine to clinical use",
+   "authors": "Szychowski, K.A., Skora, B., Pomianek, T. and Gminski, J.",
+   "journal": "Journal of Traditional and Complementary Medicine",
+   "year": "2020",
+   "doi": "10.1016/j.jtcme.2020.08.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jtcme.2020.08.003",
+   "link_type": "doi",
+   "citation": "Szychowski, K.A., Skora, B., Pomianek, T. and Gminski, J (2020) 'Inonotus obliquus - from folk medicine to clinical use', Journal of Traditional and Complementary Medicine, 11(4), pp. 293-302. doi:10.1016/j.jtcme.2020.08.003",
+   "abstract": "This review traces Inonotus obliquus (chaga) from folk medicine to clinical use, summarising its anti-inflammatory, antioxidant, antimicrobial and immunomodulatory activities.",
+   "tier": "review",
+   "display": "Inonotus obliquus - from folk medicine to clinical use",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Immunomodulator / immune support"
    ],
    "conditions": []
   },
@@ -27675,7 +28195,9 @@
    "scientific": [
     "Glycyrrhiza glabra"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -28465,6 +28987,35 @@
    "actions": [
     "Antimicrobial",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2192",
+   "key": "frattaruolo2019glycyrrhiza",
+   "type": "article",
+   "title": "Antioxidant and anti-inflammatory activities of flavanones from Glycyrrhiza glabra L. (licorice) leaf phytocomplexes: identification of licoflavanone as a modulator of NF-kB/MAPK pathway",
+   "authors": "Frattaruolo, L., Carullo, G., Brindisi, M., Mazzotta, S., Bellissimo, L., Rago, V., Curcio, R., Dolce, V., Aiello, F. and Cappello, A.R.",
+   "journal": "Antioxidants",
+   "year": "2019",
+   "doi": "10.3390/antiox8060186",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox8060186",
+   "link_type": "doi",
+   "citation": "Frattaruolo, L., Carullo, G., Brindisi, M., Mazzotta, S., Bellissimo, L., Rago, V., Curcio, R., Dolce, V., Aiello, F. and Cappello, A.R (2019) 'Antioxidant and anti-inflammatory activities of flavanones from Glycyrrhiza glabra L. (licorice) leaf phytocomplexes: identification of licoflavanone as a modulator of NF-kB/MAPK pathway', Antioxidants, 8(6), pp. 186. doi:10.3390/antiox8060186",
+   "abstract": "Flavanones from Glycyrrhiza glabra leaf phytocomplexes showed antioxidant and anti-inflammatory activities, with licoflavanone modulating the NF-kB/MAPK pathway, supporting the anti-inflammatory use of licorice.",
+   "tier": "preclinical",
+   "display": "Antioxidant and anti-inflammatory activities of flavanones from Glycyrrhiza glabra L. (licorice) leaf phytocomplexes: identification of licoflavanone as a modulator of NF-kB/MAPK pathway",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -29862,6 +30413,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2196",
+   "key": "javed2019inonotus",
+   "type": "article",
+   "title": "Inonotus obliquus attenuates histamine-induced microvascular inflammation",
+   "authors": "Javed, S., Mitchell, K., Sidsworth, D., Sellers, S.L., Reutens-Hernandez, J., Massicotte, H.B., Egger, K.N., Lee, C.H. and Payne, G.W.",
+   "journal": "PLoS One",
+   "year": "2019",
+   "doi": "10.1371/journal.pone.0220776",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0220776",
+   "link_type": "doi",
+   "citation": "Javed, S., Mitchell, K., Sidsworth, D., Sellers, S.L., Reutens-Hernandez, J., Massicotte, H.B., Egger, K.N., Lee, C.H. and Payne, G.W (2019) 'Inonotus obliquus attenuates histamine-induced microvascular inflammation', PLoS One, 14(8), pp. e0220776. doi:10.1371/journal.pone.0220776",
+   "abstract": "Inonotus obliquus (chaga) extract attenuated histamine-induced microvascular inflammation in an animal model, supporting the anti-inflammatory use of chaga.",
+   "tier": "preclinical",
+   "display": "Inonotus obliquus attenuates histamine-induced microvascular inflammation",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1858",
    "key": "gierlikowska2019inula",
    "type": "article",
@@ -29984,6 +30565,36 @@
    "conditions": [
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2199",
+   "key": "burmasova2019inonotus",
+   "type": "article",
+   "title": "Melanins of Inonotus obliquus: bifidogenic and antioxidant properties",
+   "authors": "Burmasova, M.A., Utebaeva, A.A., Sysoeva, E.V. and Sysoeva, M.A.",
+   "journal": "Biomolecules",
+   "year": "2019",
+   "doi": "10.3390/biom9060248",
+   "url": "",
+   "link": "https://doi.org/10.3390/biom9060248",
+   "link_type": "doi",
+   "citation": "Burmasova, M.A., Utebaeva, A.A., Sysoeva, E.V. and Sysoeva, M.A (2019) 'Melanins of Inonotus obliquus: bifidogenic and antioxidant properties', Biomolecules, 9(6), pp. 248. doi:10.3390/biom9060248",
+   "abstract": "Melanins isolated from Inonotus obliquus (chaga) showed bifidogenic and antioxidant properties, supporting the antioxidant use of chaga.",
+   "tier": "preclinical",
+   "display": "Melanins of Inonotus obliquus: bifidogenic and antioxidant properties",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1639",
@@ -32793,6 +33404,35 @@
    ]
   },
   {
+   "ref_id": "REF-2213",
+   "key": "cardia2018lavandula",
+   "type": "article",
+   "title": "Effect of lavender (Lavandula angustifolia) essential oil on acute inflammatory response",
+   "authors": "Cardia, G.F.E., Silva-Filho, S.E., Silva, E.L., Uchida, N.S., Cavalcante, H.A.O., Cassarotti, L.L., Salvadego, V.E.C., Spironello, R.A., Bersani-Amado, C.A. and Cuman, R.K.N.",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2018",
+   "doi": "10.1155/2018/1413940",
+   "url": "",
+   "link": "https://doi.org/10.1155/2018/1413940",
+   "link_type": "doi",
+   "citation": "Cardia, G.F.E., Silva-Filho, S.E., Silva, E.L., Uchida, N.S., Cavalcante, H.A.O., Cassarotti, L.L., Salvadego, V.E.C., Spironello, R.A., Bersani-Amado, C.A. and Cuman, R.K.N (2018) 'Effect of lavender (Lavandula angustifolia) essential oil on acute inflammatory response', Evidence-Based Complementary and Alternative Medicine, 2018, pp. 1413940. doi:10.1155/2018/1413940",
+   "abstract": "Lavender (Lavandula angustifolia) essential oil reduced the acute inflammatory response in an animal model, supporting the anti-inflammatory use of lavender.",
+   "tier": "preclinical",
+   "display": "Effect of lavender (Lavandula angustifolia) essential oil on acute inflammatory response",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0620",
    "key": "buchwald2018lemonverbena",
    "type": "article",
@@ -33574,6 +34214,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2215",
+   "key": "caputo2018lavandula",
+   "type": "article",
+   "title": "Lavandula angustifolia essential oil and linalool counteract social aversion induced by social defeat",
+   "authors": "Caputo, L., Reguilon, M.D., Minarro, J., De Feo, V. and Rodriguez-Arias, M.",
+   "journal": "Molecules",
+   "year": "2018",
+   "doi": "10.3390/molecules23102694",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules23102694",
+   "link_type": "doi",
+   "citation": "Caputo, L., Reguilon, M.D., Minarro, J., De Feo, V. and Rodriguez-Arias, M (2018) 'Lavandula angustifolia essential oil and linalool counteract social aversion induced by social defeat', Molecules, 23(10), pp. 2694. doi:10.3390/molecules23102694",
+   "abstract": "Lavandula angustifolia essential oil and its constituent linalool counteracted social aversion induced by social defeat stress in mice, supporting the sedative and anxiolytic use of lavender.",
+   "tier": "preclinical",
+   "display": "Lavandula angustifolia essential oil and linalool counteract social aversion induced by social defeat",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0826",
    "key": "pastorino2018liquorice",
    "type": "article",
@@ -33597,7 +34266,9 @@
    "scientific": [
     "Glycyrrhiza glabra"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -34304,6 +34975,33 @@
    ],
    "scientific": [
     "Salix alba"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2190",
+   "key": "schmid2018glycyrrhiza",
+   "type": "article",
+   "title": "Saponins from European licorice roots (Glycyrrhiza glabra)",
+   "authors": "Schmid, C., Dawid, C., Peters, V. and Hofmann, T.",
+   "journal": "Journal of Natural Products",
+   "year": "2018",
+   "doi": "10.1021/acs.jnatprod.8b00022",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jnatprod.8b00022",
+   "link_type": "doi",
+   "citation": "Schmid, C., Dawid, C., Peters, V. and Hofmann, T (2018) 'Saponins from European licorice roots (Glycyrrhiza glabra)', Journal of Natural Products, 81(8), pp. 1734-1744. doi:10.1021/acs.jnatprod.8b00022",
+   "abstract": "This study isolated and characterised saponins from European licorice roots (Glycyrrhiza glabra), documenting the phytochemistry of licorice.",
+   "tier": "preclinical",
+   "display": "Saponins from European licorice roots (Glycyrrhiza glabra)",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
    ],
    "actions": [],
    "conditions": []
@@ -40740,6 +41438,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2194",
+   "key": "dastagir2016glycyrrhiza",
+   "type": "article",
+   "title": "Review - Glycyrrhiza glabra L. (liquorice)",
+   "authors": "Dastagir, G. and Rizvi, M.A.",
+   "journal": "Pakistan Journal of Pharmaceutical Sciences",
+   "year": "2016",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Review%20-%20Glycyrrhiza%20glabra%20L.%20%28liquorice%29",
+   "link_type": "search",
+   "citation": "Dastagir, G. and Rizvi, M.A (2016) 'Review - Glycyrrhiza glabra L. (liquorice)', Pakistan Journal of Pharmaceutical Sciences, 29(5), pp. 1727-1733.",
+   "abstract": "This review summarises the botany, constituents and pharmacological uses of Glycyrrhiza glabra (liquorice), including anti-inflammatory, expectorant and gastroprotective activities.",
+   "tier": "review",
+   "display": "Review - Glycyrrhiza glabra L. (liquorice)",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0751",
    "key": "ghasemian2016borago",
    "type": "article",
@@ -41650,6 +42377,35 @@
    ],
    "actions": [
     "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2191",
+   "key": "kalani2015glycyrrhiza",
+   "type": "article",
+   "title": "Anti-tubercular agents from Glycyrrhiza glabra",
+   "authors": "Kalani, K., Chaturvedi, V., Alam, S., Khan, F. and Srivastava, S.K.",
+   "journal": "Current Topics in Medicinal Chemistry",
+   "year": "2015",
+   "doi": "10.2174/1568026615666150317223323",
+   "url": "",
+   "link": "https://doi.org/10.2174/1568026615666150317223323",
+   "link_type": "doi",
+   "citation": "Kalani, K., Chaturvedi, V., Alam, S., Khan, F. and Srivastava, S.K (2015) 'Anti-tubercular agents from Glycyrrhiza glabra', Current Topics in Medicinal Chemistry, 15(11), pp. 1043-1049. doi:10.2174/1568026615666150317223323",
+   "abstract": "This study identified anti-tubercular agents from Glycyrrhiza glabra active against Mycobacterium tuberculosis, supporting the antimicrobial use of licorice.",
+   "tier": "preclinical",
+   "display": "Anti-tubercular agents from Glycyrrhiza glabra",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [
+    "Antimicrobial"
    ],
    "conditions": []
   },
@@ -53877,6 +54633,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2205",
+   "key": "denner2009lavandula",
+   "type": "article",
+   "title": "Lavandula angustifolia Miller: English lavender",
+   "authors": "Denner, S.S.",
+   "journal": "Holistic Nursing Practice",
+   "year": "2009",
+   "doi": "10.1097/01.HNP.0000343210.56710.fc",
+   "url": "",
+   "link": "https://doi.org/10.1097/01.HNP.0000343210.56710.fc",
+   "link_type": "doi",
+   "citation": "Denner, S.S (2009) 'Lavandula angustifolia Miller: English lavender', Holistic Nursing Practice, 23(1), pp. 57-64. doi:10.1097/01.HNP.0000343210.56710.fc",
+   "abstract": "This review of English lavender (Lavandula angustifolia) summarises its traditional and clinical use of the essential oil for pain, infection, relaxation and sedation, and its anti-inflammatory potential.",
+   "tier": "review",
+   "display": "Lavandula angustifolia Miller: English lavender",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1170",
    "key": "djordjevic2008lentinan",
    "type": "article",
@@ -54014,6 +54799,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2198",
+   "key": "zhong2009inonotus",
+   "type": "article",
+   "title": "Progress of research on Inonotus obliquus",
+   "authors": "Zhong, X.H., Ren, K., Lu, S.J., Yang, S.Y. and Sun, D.Z.",
+   "journal": "Chinese Journal of Integrative Medicine",
+   "year": "2009",
+   "doi": "10.1007/s11655-009-0156-2",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11655-009-0156-2",
+   "link_type": "doi",
+   "citation": "Zhong, X.H., Ren, K., Lu, S.J., Yang, S.Y. and Sun, D.Z (2009) 'Progress of research on Inonotus obliquus', Chinese Journal of Integrative Medicine, 15(2), pp. 156-160. doi:10.1007/s11655-009-0156-2",
+   "abstract": "This review summarises research progress on Inonotus obliquus (chaga), including its antioxidant, immunomodulatory and antitumour biological activities.",
+   "tier": "review",
+   "display": "Progress of research on Inonotus obliquus",
+   "plants": [
+    "Chaga",
+    "Chaga mushroom",
+    "birch conk",
+    "clinker polypore"
+   ],
+   "scientific": [
+    "Inonotus obliquus"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1229",
@@ -59347,6 +60162,35 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2206",
+   "key": "basch2004lavandula",
+   "type": "article",
+   "title": "Lavender (Lavandula angustifolia Miller)",
+   "authors": "Basch, E., Foppa, I., Liebowitz, R., Nelson, J., Smith, M., Sollars, D. and Ulbricht, C.",
+   "journal": "Journal of Herbal Pharmacotherapy",
+   "year": "2004",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Lavender%20%28Lavandula%20angustifolia%20Miller%29",
+   "link_type": "search",
+   "citation": "Basch, E., Foppa, I., Liebowitz, R., Nelson, J., Smith, M., Sollars, D. and Ulbricht, C (2004) 'Lavender (Lavandula angustifolia Miller)', Journal of Herbal Pharmacotherapy, 4(2), pp. 63-78.",
+   "abstract": "This evidence-based systematic review of lavender (Lavandula angustifolia) covers its scientific evidence, pharmacology, interactions and dosing, including its sedative and anxiolytic uses.",
+   "tier": "review",
+   "display": "Lavender (Lavandula angustifolia Miller)",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1165",

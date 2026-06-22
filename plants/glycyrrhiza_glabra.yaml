@@ -13,12 +13,18 @@ actions:
   - REF-0012
   - REF-0089
   - REF-0305
+  - REF-2187
+  - REF-0826
+  - REF-0828
+  - REF-2192
+  - REF-2194
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0012
   - REF-0089
   - REF-0305
+  - REF-2191
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
@@ -178,6 +184,14 @@ references:
 - REF-0826
 - REF-0827
 - REF-0828
+- REF-2187
+- REF-2188
+- REF-2189
+- REF-2190
+- REF-2191
+- REF-2192
+- REF-2193
+- REF-2194
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -186,4 +200,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0826, REF-0827, REF-0828.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0826, REF-0827, REF-0828.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2187,
+  REF-0826, REF-0827, REF-0828, REF-2188, REF-2189, REF-2190, REF-2191, REF-2192, REF-2193, REF-2194)
+  — woven into relevant actions/indications and the plant-level references bucket.'

@@ -17,11 +17,14 @@ actions:
   reference_ids:
   - REF-0218
   - REF-0318
+  - REF-2161
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0218
   - REF-0318
+  - REF-2153
+  - REF-2156
   status: verified
 - action: ergogenic
   note: Physical performance / strength improvement
@@ -33,6 +36,12 @@ actions:
   reference_ids:
   - REF-0218
   - REF-0318
+  - REF-2153
+  - REF-2155
+  - REF-2156
+  - REF-2157
+  - REF-2160
+  - REF-2163
   status: verified
 indications:
 - condition: arthritis
@@ -112,6 +121,17 @@ references:
 - REF-0776
 - REF-0777
 - REF-0778
+- REF-2153
+- REF-2154
+- REF-2155
+- REF-2156
+- REF-2157
+- REF-2158
+- REF-2159
+- REF-2160
+- REF-2161
+- REF-2162
+- REF-2163
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -120,4 +140,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0776, REF-0777, REF-0778.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0776, REF-0777, REF-0778.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2153,
+  REF-2154, REF-2155, REF-2156, REF-2157, REF-2158, REF-2159, REF-2160, REF-2161, REF-2162, REF-2163)
+  — woven into relevant actions/indications and the plant-level references bucket.'

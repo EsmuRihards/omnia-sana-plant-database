@@ -6631,7 +6631,11 @@
      "reference_ids": [
       "REF-0044",
       "REF-0058",
-      "REF-0213"
+      "REF-0213",
+      "REF-0758",
+      "REF-2135",
+      "REF-2137",
+      "REF-2140"
      ],
      "status": "verified"
     },
@@ -6640,7 +6644,11 @@
      "reference_ids": [
       "REF-0044",
       "REF-0058",
-      "REF-0213"
+      "REF-0213",
+      "REF-2134",
+      "REF-2136",
+      "REF-2138",
+      "REF-2140"
      ],
      "status": "verified"
     },
@@ -6649,7 +6657,8 @@
      "reference_ids": [
       "REF-0044",
       "REF-0058",
-      "REF-0213"
+      "REF-0213",
+      "REF-2133"
      ],
      "status": "verified"
     },
@@ -6768,7 +6777,17 @@
    "references": [
     "REF-0758",
     "REF-0759",
-    "REF-0760"
+    "REF-0760",
+    "REF-2132",
+    "REF-2133",
+    "REF-2134",
+    "REF-2135",
+    "REF-2136",
+    "REF-2137",
+    "REF-2138",
+    "REF-2139",
+    "REF-2140",
+    "REF-2141"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -6946,7 +6965,10 @@
       "REF-0010",
       "REF-0021",
       "REF-0057",
-      "REF-0214"
+      "REF-0214",
+      "REF-2144",
+      "REF-2147",
+      "REF-2149"
      ],
      "status": "verified"
     },
@@ -6956,7 +6978,11 @@
       "REF-0010",
       "REF-0021",
       "REF-0057",
-      "REF-0214"
+      "REF-0214",
+      "REF-2142",
+      "REF-2143",
+      "REF-2146",
+      "REF-2149"
      ],
      "status": "verified"
     },
@@ -6965,7 +6991,8 @@
      "reference_ids": [
       "REF-0021",
       "REF-0169",
-      "REF-0214"
+      "REF-0214",
+      "REF-2148"
      ],
      "status": "verified"
     },
@@ -6973,7 +7000,10 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0021",
-      "REF-0214"
+      "REF-0214",
+      "REF-2144",
+      "REF-2145",
+      "REF-2150"
      ],
      "status": "verified"
     }
@@ -7123,9 +7153,22 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-2142",
+    "REF-2143",
+    "REF-2144",
+    "REF-2145",
+    "REF-2146",
+    "REF-2147",
+    "REF-2148",
+    "REF-2149",
+    "REF-2150",
+    "REF-2151",
+    "REF-2152"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "carum-carvi",
@@ -9035,7 +9078,8 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0218",
-      "REF-0318"
+      "REF-0318",
+      "REF-2161"
      ],
      "status": "verified"
     },
@@ -9043,7 +9087,9 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0218",
-      "REF-0318"
+      "REF-0318",
+      "REF-2153",
+      "REF-2156"
      ],
      "status": "verified"
     },
@@ -9060,7 +9106,13 @@
      "action": "immunomodulator",
      "reference_ids": [
       "REF-0218",
-      "REF-0318"
+      "REF-0318",
+      "REF-2153",
+      "REF-2155",
+      "REF-2156",
+      "REF-2157",
+      "REF-2160",
+      "REF-2163"
      ],
      "status": "verified"
     }
@@ -9165,7 +9217,18 @@
    "references": [
     "REF-0776",
     "REF-0777",
-    "REF-0778"
+    "REF-0778",
+    "REF-2153",
+    "REF-2154",
+    "REF-2155",
+    "REF-2156",
+    "REF-2157",
+    "REF-2158",
+    "REF-2159",
+    "REF-2160",
+    "REF-2161",
+    "REF-2162",
+    "REF-2163"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

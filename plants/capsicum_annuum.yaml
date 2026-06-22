@@ -17,6 +17,9 @@ actions:
   - REF-0021
   - REF-0057
   - REF-0214
+  - REF-2144
+  - REF-2147
+  - REF-2149
   status: verified
 - action: anti-inflammatory
   reference_ids:
@@ -24,17 +27,25 @@ actions:
   - REF-0021
   - REF-0057
   - REF-0214
+  - REF-2142
+  - REF-2143
+  - REF-2146
+  - REF-2149
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0021
   - REF-0169
   - REF-0214
+  - REF-2148
   status: verified
 - action: digestive
   reference_ids:
   - REF-0021
   - REF-0214
+  - REF-2144
+  - REF-2145
+  - REF-2150
   status: verified
 indications:
 - condition: arthritis
@@ -152,11 +163,26 @@ contraindications:
   - REF-0169
   - REF-0214
   status: verified
-provenance: book
+references:
+- REF-2142
+- REF-2143
+- REF-2144
+- REF-2145
+- REF-2146
+- REF-2147
+- REF-2148
+- REF-2149
+- REF-2150
+- REF-2151
+- REF-2152
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 11 PubMed-verified @article sources (REF-2142, REF-2143, REF-2144, REF-2145, REF-2146,
+  REF-2147, REF-2148, REF-2149, REF-2150, REF-2151, REF-2152) — woven into relevant actions/indications
+  and the plant-level references bucket.'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2131,
+ "count": 2163,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -3682,6 +3682,38 @@
    ],
    "scientific": [
     "Zea mays"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2154",
+   "key": "yang2024cordyceps",
+   "type": "article",
+   "title": "Five undescribed cyclopeptides from Cordyceps militaris",
+   "authors": "Yang, W., Fu, C., Hu, B., Yan, Y. and Cheng, Y.",
+   "journal": "Phytochemistry",
+   "year": "2024",
+   "doi": "10.1016/j.phytochem.2024.114074",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2024.114074",
+   "link_type": "doi",
+   "citation": "Yang, W., Fu, C., Hu, B., Yan, Y. and Cheng, Y (2024) 'Five undescribed cyclopeptides from Cordyceps militaris', Phytochemistry, 222, pp. 114074. doi:10.1016/j.phytochem.2024.114074",
+   "abstract": "Five undescribed cyclopeptides were isolated and characterised from Cordyceps militaris, documenting the bioactive phytochemistry of cordyceps.",
+   "tier": "preclinical",
+   "display": "Five undescribed cyclopeptides from Cordyceps militaris",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
    ],
    "actions": [],
    "conditions": []
@@ -7401,6 +7433,37 @@
    ]
   },
   {
+   "ref_id": "REF-2147",
+   "key": "mandal2022capsicum",
+   "type": "article",
+   "title": "Capsicum annuum L. and its bioactive constituents: a critical review of a traditional culinary spice in terms of its modern pharmacological potentials with toxicological issues",
+   "authors": "Mandal, S.K., Rath, S.K., Logesh, R., Mishra, S.K., Devkota, H.P. and Das, N.",
+   "journal": "Phytotherapy Research",
+   "year": "2023",
+   "doi": "10.1002/ptr.7660",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7660",
+   "link_type": "doi",
+   "citation": "Mandal, S.K., Rath, S.K., Logesh, R., Mishra, S.K., Devkota, H.P. and Das, N (2023) 'Capsicum annuum L. and its bioactive constituents: a critical review of a traditional culinary spice in terms of its modern pharmacological potentials with toxicological issues', Phytotherapy Research, 37(3), pp. 965-1002. doi:10.1002/ptr.7660",
+   "abstract": "This critical review of Capsicum annuum and its bioactive constituents details its modern analgesic, anti-inflammatory, antimicrobial and digestive pharmacological potentials and toxicological issues.",
+   "tier": "review",
+   "display": "Capsicum annuum L. and its bioactive constituents: a critical review of a traditional culinary spice in terms of its modern pharmacological potentials with toxicological issues",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Analgesic (pain relief)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1677",
    "key": "delgadillo2023cardamom",
    "type": "article",
@@ -7903,6 +7966,41 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2153",
+   "key": "kanlayavattanakul2023cordyceps",
+   "type": "article",
+   "title": "Cordyceps militaris polysaccharides: preparation and topical product application",
+   "authors": "Kanlayavattanakul, M. and Lourith, N.",
+   "journal": "Fungal Biology and Biotechnology",
+   "year": "2023",
+   "doi": "10.1186/s40694-023-00150-5",
+   "url": "",
+   "link": "https://doi.org/10.1186/s40694-023-00150-5",
+   "link_type": "doi",
+   "citation": "Kanlayavattanakul, M. and Lourith, N (2023) 'Cordyceps militaris polysaccharides: preparation and topical product application', Fungal Biology and Biotechnology, 10(1), pp. 3. doi:10.1186/s40694-023-00150-5",
+   "abstract": "This review describes the preparation, immunomodulatory and antioxidant bioactivities, and topical product application of Cordyceps militaris polysaccharides.",
+   "tier": "review",
+   "display": "Cordyceps militaris polysaccharides: preparation and topical product application",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Immunomodulator / immune support"
    ],
    "conditions": []
   },
@@ -11200,6 +11298,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2148",
+   "key": "grojja2023capsicum",
+   "type": "article",
+   "title": "Untargeted phytochemical profiling, antioxidant, and antimicrobial activities of a Tunisian Capsicum annuum cultivar",
+   "authors": "Grojja, Y., Hajlaoui, H., Luca, S.V., Abidi, J., Skalicka-Wozniak, K., Zouari, S. and Bouaziz, M.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28176346",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28176346",
+   "link_type": "doi",
+   "citation": "Grojja, Y., Hajlaoui, H., Luca, S.V., Abidi, J., Skalicka-Wozniak, K., Zouari, S. and Bouaziz, M (2023) 'Untargeted phytochemical profiling, antioxidant, and antimicrobial activities of a Tunisian Capsicum annuum cultivar', Molecules, 28(17), pp. 6346. doi:10.3390/molecules28176346",
+   "abstract": "Phytochemical profiling of a Tunisian Capsicum annuum cultivar revealed phenolic constituents with antioxidant and antimicrobial activities, supporting the antimicrobial use of chili pepper.",
+   "tier": "preclinical",
+   "display": "Untargeted phytochemical profiling, antioxidant, and antimicrobial activities of a Tunisian Capsicum annuum cultivar",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1413",
    "key": "dawoud2023anise",
    "type": "article",
@@ -12386,6 +12515,35 @@
     "Cannabis sativa"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2133",
+   "key": "viana2022cannabis",
+   "type": "article",
+   "title": "Cannabis sativa and cannabidiol: a therapeutic strategy for the treatment of neurodegenerative diseases?",
+   "authors": "Viana, M.D.B., de Aquino, P.E.A., Estadella, D., Ribeiro, D.A. and Viana, G.S.D.B.",
+   "journal": "Medical Cannabis and Cannabinoids",
+   "year": "2022",
+   "doi": "10.1159/000527335",
+   "url": "",
+   "link": "https://doi.org/10.1159/000527335",
+   "link_type": "doi",
+   "citation": "Viana, M.D.B., de Aquino, P.E.A., Estadella, D., Ribeiro, D.A. and Viana, G.S.D.B (2022) 'Cannabis sativa and cannabidiol: a therapeutic strategy for the treatment of neurodegenerative diseases?', Medical Cannabis and Cannabinoids, 5(1), pp. 207-219. doi:10.1159/000527335",
+   "abstract": "This review evaluates Cannabis sativa and cannabidiol as a therapeutic and antioxidant/neuroprotective strategy for neurodegenerative diseases, supporting the antioxidant use of cannabis.",
+   "tier": "review",
+   "display": "Cannabis sativa and cannabidiol: a therapeutic strategy for the treatment of neurodegenerative diseases?",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -14326,6 +14484,40 @@
    ]
   },
   {
+   "ref_id": "REF-2157",
+   "key": "malucka2022cordyceps",
+   "type": "article",
+   "title": "Medicinal mushrooms Ophiocordyceps sinensis and Cordyceps militaris",
+   "authors": "Malucka, L.U., Uhrinova, A. and Lysinova, P.",
+   "journal": "Ceska a Slovenska Farmacie",
+   "year": "2022",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Medicinal%20mushrooms%20Ophiocordyceps%20sinensis%20and%20Cordyceps%20militaris",
+   "link_type": "search",
+   "citation": "Malucka, L.U., Uhrinova, A. and Lysinova, P (2022) 'Medicinal mushrooms Ophiocordyceps sinensis and Cordyceps militaris', Ceska a Slovenska Farmacie, 71(6), pp. 259-265.",
+   "abstract": "This review of the medicinal mushrooms Cordyceps militaris and Ophiocordyceps sinensis summarises their cordycepin and polysaccharide constituents and immunomodulatory and tonic biological activities.",
+   "tier": "review",
+   "display": "Medicinal mushrooms Ophiocordyceps sinensis and Cordyceps militaris",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1196",
    "key": "petrisor2022melissa",
    "type": "article",
@@ -15576,6 +15768,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2155",
+   "key": "miao2022cordyceps",
+   "type": "article",
+   "title": "Structural elucidation and activities of Cordyceps militaris-derived polysaccharides: a review",
+   "authors": "Miao, M., Yu, W., Li, Y., Sun, Y. and Guo, S.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2022",
+   "doi": "10.3389/fnut.2022.898674",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2022.898674",
+   "link_type": "doi",
+   "citation": "Miao, M., Yu, W., Li, Y., Sun, Y. and Guo, S (2022) 'Structural elucidation and activities of Cordyceps militaris-derived polysaccharides: a review', Frontiers in Nutrition, 9, pp. 898674. doi:10.3389/fnut.2022.898674",
+   "abstract": "This review elucidates the structures and immunomodulatory, antioxidant and anti-inflammatory activities of Cordyceps militaris-derived polysaccharides.",
+   "tier": "review",
+   "display": "Structural elucidation and activities of Cordyceps militaris-derived polysaccharides: a review",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0498",
    "key": "farnaghi2022survey",
    "type": "article",
@@ -16058,6 +16284,35 @@
    ],
    "actions": [
     "Expectorant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2135",
+   "key": "odieka2022cannabis",
+   "type": "article",
+   "title": "The medicinal natural products of Cannabis sativa Linn.: a review",
+   "authors": "Odieka, A.E., Obuzor, G.U., Oyedeji, O.O., Gondwe, M., Hosu, Y.S. and Oyedeji, A.O.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27051689",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27051689",
+   "link_type": "doi",
+   "citation": "Odieka, A.E., Obuzor, G.U., Oyedeji, O.O., Gondwe, M., Hosu, Y.S. and Oyedeji, A.O (2022) 'The medicinal natural products of Cannabis sativa Linn.: a review', Molecules, 27(5), pp. 1689. doi:10.3390/molecules27051689",
+   "abstract": "This review of the medicinal natural products of Cannabis sativa summarises its cannabinoids and terpenes and their analgesic, anti-inflammatory and other therapeutic applications.",
+   "tier": "review",
+   "display": "The medicinal natural products of Cannabis sativa Linn.: a review",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [
+    "Analgesic (pain relief)"
    ],
    "conditions": []
   },
@@ -16726,6 +16981,35 @@
     "Viburnum opulus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2137",
+   "key": "liktorbusa2021cannabis",
+   "type": "article",
+   "title": "Analgesic potential of terpenes derived from Cannabis sativa",
+   "authors": "Liktor-Busa, E., Keresztes, A., LaVigne, J., Streicher, J.M. and Largent-Milnes, T.M.",
+   "journal": "Pharmacological Reviews",
+   "year": "2021",
+   "doi": "10.1124/pharmrev.120.000046",
+   "url": "",
+   "link": "https://doi.org/10.1124/pharmrev.120.000046",
+   "link_type": "doi",
+   "citation": "Liktor-Busa, E., Keresztes, A., LaVigne, J., Streicher, J.M. and Largent-Milnes, T.M (2021) 'Analgesic potential of terpenes derived from Cannabis sativa', Pharmacological Reviews, 73(4), pp. 98-126. doi:10.1124/pharmrev.120.000046",
+   "abstract": "This review evaluates the analgesic potential of terpenes derived from Cannabis sativa and their mechanisms in pain pathways, supporting the analgesic use of cannabis.",
+   "tier": "review",
+   "display": "Analgesic potential of terpenes derived from Cannabis sativa",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [
+    "Analgesic (pain relief)"
+   ],
    "conditions": []
   },
   {
@@ -17431,6 +17715,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2138",
+   "key": "martinelli2021cannabis",
+   "type": "article",
+   "title": "Cannabis sativa and skin health: dissecting the role of phytocannabinoids",
+   "authors": "Martinelli, G., Magnavacca, A., Fumagalli, M., Dell'Agli, M., Piazza, S. and Sangiovanni, E.",
+   "journal": "Planta Medica",
+   "year": "2021",
+   "doi": "10.1055/a-1420-5780",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-1420-5780",
+   "link_type": "doi",
+   "citation": "Martinelli, G., Magnavacca, A., Fumagalli, M., Dell'Agli, M., Piazza, S. and Sangiovanni, E (2021) 'Cannabis sativa and skin health: dissecting the role of phytocannabinoids', Planta Medica, 88(7), pp. 492-506. doi:10.1055/a-1420-5780",
+   "abstract": "This review dissects the anti-inflammatory and protective roles of Cannabis sativa phytocannabinoids in skin health and inflammatory skin conditions, supporting the anti-inflammatory use of cannabis.",
+   "tier": "review",
+   "display": "Cannabis sativa and skin health: dissecting the role of phytocannabinoids",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1974",
    "key": "xie2021capsella",
    "type": "article",
@@ -17723,7 +18036,9 @@
    "scientific": [
     "Cannabis sativa"
    ],
-   "actions": [],
+   "actions": [
+    "Analgesic (pain relief)"
+   ],
    "conditions": []
   },
   {
@@ -17818,6 +18133,41 @@
     "Cordyceps militaris"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2156",
+   "key": "jedrejko2021cordyceps",
+   "type": "article",
+   "title": "Cordyceps militaris: an overview of its chemical constituents in relation to biological activity",
+   "authors": "Jedrejko, K.J., Lazur, J. and Muszynska, B.",
+   "journal": "Foods",
+   "year": "2021",
+   "doi": "10.3390/foods10112634",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods10112634",
+   "link_type": "doi",
+   "citation": "Jedrejko, K.J., Lazur, J. and Muszynska, B (2021) 'Cordyceps militaris: an overview of its chemical constituents in relation to biological activity', Foods, 10(11), pp. 2634. doi:10.3390/foods10112634",
+   "abstract": "This overview relates the chemical constituents of Cordyceps militaris (cordycepin, polysaccharides, adenosine) to its immunomodulatory, antioxidant, anti-inflammatory and ergogenic biological activities.",
+   "tier": "review",
+   "display": "Cordyceps militaris: an overview of its chemical constituents in relation to biological activity",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -22211,6 +22561,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2152",
+   "key": "song2020capsicum",
+   "type": "article",
+   "title": "A new capsaicin-containing phenolic glycoside from Capsicum annuum L.",
+   "authors": "Song, C., Yu, C., Zhu, X., Luo, X., Zhang, Y., Meng, L., Luo, Y., Chang, H., Qin, C. and Liu, Y.",
+   "journal": "Natural Product Research",
+   "year": "2020",
+   "doi": "10.1080/14786419.2020.1789983",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2020.1789983",
+   "link_type": "doi",
+   "citation": "Song, C., Yu, C., Zhu, X., Luo, X., Zhang, Y., Meng, L., Luo, Y., Chang, H., Qin, C. and Liu, Y (2020) 'A new capsaicin-containing phenolic glycoside from Capsicum annuum L', Natural Product Research, 36(2), pp. 546-552. doi:10.1080/14786419.2020.1789983",
+   "abstract": "A new phenolic glycoside was isolated and characterised from Capsicum annuum, documenting the bioactive phytochemistry of chili pepper.",
+   "tier": "preclinical",
+   "display": "A new capsaicin-containing phenolic glycoside from Capsicum annuum L.",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0911",
    "key": "chen2020tussilago",
    "type": "article",
@@ -22689,6 +23068,69 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2142",
+   "key": "cho2020capsicum",
+   "type": "article",
+   "title": "Antioxidant and anti-inflammatory activities in relation to the flavonoids composition of pepper (Capsicum annuum L.)",
+   "authors": "Cho, S.Y., Kim, H.W., Lee, M.K., Kim, H.J., Kim, J.B., Choe, J.S., Lee, Y.M. and Jang, H.H.",
+   "journal": "Antioxidants",
+   "year": "2020",
+   "doi": "10.3390/antiox9100986",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox9100986",
+   "link_type": "doi",
+   "citation": "Cho, S.Y., Kim, H.W., Lee, M.K., Kim, H.J., Kim, J.B., Choe, J.S., Lee, Y.M. and Jang, H.H (2020) 'Antioxidant and anti-inflammatory activities in relation to the flavonoids composition of pepper (Capsicum annuum L.)', Antioxidants, 9(10), pp. 986. doi:10.3390/antiox9100986",
+   "abstract": "Pepper (Capsicum annuum) leaf and fruit extracts showed radical-scavenging and anti-inflammatory activity in LPS-stimulated cells related to their luteolin and apigenin flavonoid content, supporting the anti-inflammatory use of chili pepper.",
+   "tier": "preclinical",
+   "display": "Antioxidant and anti-inflammatory activities in relation to the flavonoids composition of pepper (Capsicum annuum L.)",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2159",
+   "key": "choi2020cordyceps",
+   "type": "article",
+   "title": "Antithrombotic and antiplatelet effects of Cordyceps militaris",
+   "authors": "Choi, E., Oh, J. and Sung, G.H.",
+   "journal": "Mycobiology",
+   "year": "2020",
+   "doi": "10.1080/12298093.2020.1763115",
+   "url": "",
+   "link": "https://doi.org/10.1080/12298093.2020.1763115",
+   "link_type": "doi",
+   "citation": "Choi, E., Oh, J. and Sung, G.H (2020) 'Antithrombotic and antiplatelet effects of Cordyceps militaris', Mycobiology, 48(3), pp. 228-232. doi:10.1080/12298093.2020.1763115",
+   "abstract": "Cordyceps militaris extract showed antithrombotic and antiplatelet effects, documenting a cardiovascular bioactivity of cordyceps.",
+   "tier": "preclinical",
+   "display": "Antithrombotic and antiplatelet effects of Cordyceps militaris",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1770",
    "key": "szopa2020wormwood",
    "type": "article",
@@ -23020,6 +23462,66 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2134",
+   "key": "alves2020cannabis",
+   "type": "article",
+   "title": "Cannabis sativa: much more beyond delta-9-tetrahydrocannabinol",
+   "authors": "Alves, P., Amaral, C., Teixeira, N. and Correia-da-Silva, G.",
+   "journal": "Pharmacological Research",
+   "year": "2020",
+   "doi": "10.1016/j.phrs.2020.104822",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phrs.2020.104822",
+   "link_type": "doi",
+   "citation": "Alves, P., Amaral, C., Teixeira, N. and Correia-da-Silva, G (2020) 'Cannabis sativa: much more beyond delta-9-tetrahydrocannabinol', Pharmacological Research, 157, pp. 104822. doi:10.1016/j.phrs.2020.104822",
+   "abstract": "This review explores the pharmacological activities of the many constituents of Cannabis sativa beyond THC, including anti-inflammatory, analgesic and anti-cancer effects.",
+   "tier": "review",
+   "display": "Cannabis sativa: much more beyond delta-9-tetrahydrocannabinol",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2145",
+   "key": "hernandezperez2020capsicum",
+   "type": "article",
+   "title": "Capsicum annuum (hot pepper): an ancient Latin-American crop with outstanding bioactive compounds and nutraceutical potential. A review",
+   "authors": "Hernandez-Perez, T., Gomez-Garcia, M.D.R., Valverde, M.E. and Paredes-Lopez, O.",
+   "journal": "Comprehensive Reviews in Food Science and Food Safety",
+   "year": "2020",
+   "doi": "10.1111/1541-4337.12634",
+   "url": "",
+   "link": "https://doi.org/10.1111/1541-4337.12634",
+   "link_type": "doi",
+   "citation": "Hernandez-Perez, T., Gomez-Garcia, M.D.R., Valverde, M.E. and Paredes-Lopez, O (2020) 'Capsicum annuum (hot pepper): an ancient Latin-American crop with outstanding bioactive compounds and nutraceutical potential. A review', Comprehensive Reviews in Food Science and Food Safety, 19(6), pp. 2972-2993. doi:10.1111/1541-4337.12634",
+   "abstract": "This review describes the outstanding bioactive compounds (capsaicinoids, carotenoids, phenolics) and nutraceutical potential of Capsicum annuum, including digestive and metabolic health benefits.",
+   "tier": "review",
+   "display": "Capsicum annuum (hot pepper): an ancient Latin-American crop with outstanding bioactive compounds and nutraceutical potential. A review",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Digestive aid"
    ],
    "conditions": []
   },
@@ -27512,6 +28014,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2160",
+   "key": "zhang2019cordyceps",
+   "type": "article",
+   "title": "Advance in Cordyceps militaris (Linn) Link polysaccharides: isolation, structure, and bioactivities: a review",
+   "authors": "Zhang, J., Wen, C., Duan, Y., Zhang, H. and Ma, H.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2019",
+   "doi": "10.1016/j.ijbiomac.2019.04.020",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2019.04.020",
+   "link_type": "doi",
+   "citation": "Zhang, J., Wen, C., Duan, Y., Zhang, H. and Ma, H (2019) 'Advance in Cordyceps militaris (Linn) Link polysaccharides: isolation, structure, and bioactivities: a review', International Journal of Biological Macromolecules, 132, pp. 906-914. doi:10.1016/j.ijbiomac.2019.04.020",
+   "abstract": "This review summarises the isolation, structure and immunomodulatory, antioxidant and anti-inflammatory bioactivities of Cordyceps militaris polysaccharides.",
+   "tier": "review",
+   "display": "Advance in Cordyceps militaris (Linn) Link polysaccharides: isolation, structure, and bioactivities: a review",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0687",
    "key": "vlaisavljevic2019alchemilla",
    "type": "article",
@@ -29298,6 +29834,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2162",
+   "key": "chamyuang2019cordyceps",
+   "type": "article",
+   "title": "New insights into cordycepin production in Cordyceps militaris and applications",
+   "authors": "Chamyuang, S., Owatworakit, A. and Honda, Y.",
+   "journal": "Annals of Translational Medicine",
+   "year": "2019",
+   "doi": "10.21037/atm.2019.04.12",
+   "url": "",
+   "link": "https://doi.org/10.21037/atm.2019.04.12",
+   "link_type": "doi",
+   "citation": "Chamyuang, S., Owatworakit, A. and Honda, Y (2019) 'New insights into cordycepin production in Cordyceps militaris and applications', Annals of Translational Medicine, 7(Suppl 3), pp. S78. doi:10.21037/atm.2019.04.12",
+   "abstract": "This review provides new insights into cordycepin production in Cordyceps militaris and its applications, characterising the principal bioactive nucleoside of cordyceps.",
+   "tier": "review",
+   "display": "New insights into cordycepin production in Cordyceps militaris and applications",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0804",
    "key": "cicero2019nutraceutical",
    "type": "article",
@@ -30921,6 +31489,37 @@
    ]
   },
   {
+   "ref_id": "REF-2146",
+   "key": "sanati2018capsicum",
+   "type": "article",
+   "title": "A review of the effects of Capsicum annuum L. and its constituent, capsaicin, in metabolic syndrome",
+   "authors": "Sanati, S., Razavi, B.M. and Hosseinzadeh, H.",
+   "journal": "Iranian Journal of Basic Medical Sciences",
+   "year": "2018",
+   "doi": "10.22038/IJBMS.2018.25200.6238",
+   "url": "",
+   "link": "https://doi.org/10.22038/IJBMS.2018.25200.6238",
+   "link_type": "doi",
+   "citation": "Sanati, S., Razavi, B.M. and Hosseinzadeh, H (2018) 'A review of the effects of Capsicum annuum L. and its constituent, capsaicin, in metabolic syndrome', Iranian Journal of Basic Medical Sciences, 21(5), pp. 439-448. doi:10.22038/IJBMS.2018.25200.6238",
+   "abstract": "This review summarises the effects of Capsicum annuum and capsaicin in metabolic syndrome, including anti-inflammatory, antioxidant, lipid-lowering and weight-management actions.",
+   "tier": "review",
+   "display": "A review of the effects of Capsicum annuum L. and its constituent, capsaicin, in metabolic syndrome",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1841",
    "key": "riaz2018hibiscus",
    "type": "article",
@@ -31365,6 +31964,36 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2140",
+   "key": "bonini2018cannabis",
+   "type": "article",
+   "title": "Cannabis sativa: a comprehensive ethnopharmacological review of a medicinal plant with a long history",
+   "authors": "Bonini, S.A., Premoli, M., Tambaro, S., Kumar, A., Maccarinelli, G., Memo, M. and Mastinu, A.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2018",
+   "doi": "10.1016/j.jep.2018.09.004",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2018.09.004",
+   "link_type": "doi",
+   "citation": "Bonini, S.A., Premoli, M., Tambaro, S., Kumar, A., Maccarinelli, G., Memo, M. and Mastinu, A (2018) 'Cannabis sativa: a comprehensive ethnopharmacological review of a medicinal plant with a long history', Journal of Ethnopharmacology, 227, pp. 300-315. doi:10.1016/j.jep.2018.09.004",
+   "abstract": "This comprehensive ethnopharmacological review of Cannabis sativa traces its long history of medicinal use and summarises its analgesic, anti-inflammatory and other therapeutic applications.",
+   "tier": "review",
+   "display": "Cannabis sativa: a comprehensive ethnopharmacological review of a medicinal plant with a long history",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -32699,6 +33328,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2136",
+   "key": "nuutinen2018cannabis",
+   "type": "article",
+   "title": "Medicinal properties of terpenes found in Cannabis sativa and Humulus lupulus",
+   "authors": "Nuutinen, T.",
+   "journal": "European Journal of Medicinal Chemistry",
+   "year": "2018",
+   "doi": "10.1016/j.ejmech.2018.07.076",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ejmech.2018.07.076",
+   "link_type": "doi",
+   "citation": "Nuutinen, T (2018) 'Medicinal properties of terpenes found in Cannabis sativa and Humulus lupulus', European Journal of Medicinal Chemistry, 157, pp. 198-228. doi:10.1016/j.ejmech.2018.07.076",
+   "abstract": "This review describes the anti-inflammatory, analgesic, antioxidant and antimicrobial medicinal properties of terpenes found in Cannabis sativa, supporting the anti-inflammatory use of cannabis.",
+   "tier": "review",
+   "display": "Medicinal properties of terpenes found in Cannabis sativa and Humulus lupulus",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1896",
    "key": "abenavoli2018silybum",
    "type": "article",
@@ -33807,6 +34465,38 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2158",
+   "key": "sun2017cordyceps",
+   "type": "article",
+   "title": "A new ribonucleotide from Cordyceps militaris",
+   "authors": "Sun, J., Jin, M., Zhou, W., Diao, S., Zhou, Y., Li, S., Wang, X., Pan, S., Jin, X. and Li, G.",
+   "journal": "Natural Product Research",
+   "year": "2017",
+   "doi": "10.1080/14786419.2017.1323210",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2017.1323210",
+   "link_type": "doi",
+   "citation": "Sun, J., Jin, M., Zhou, W., Diao, S., Zhou, Y., Li, S., Wang, X., Pan, S., Jin, X. and Li, G (2017) 'A new ribonucleotide from Cordyceps militaris', Natural Product Research, 31(21), pp. 2537-2543. doi:10.1080/14786419.2017.1323210",
+   "abstract": "A new ribonucleotide was isolated and characterised from Cordyceps militaris, documenting the bioactive nucleoside phytochemistry of cordyceps.",
+   "tier": "preclinical",
+   "display": "A new ribonucleotide from Cordyceps militaris",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2005",
@@ -35928,6 +36618,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2132",
+   "key": "elsohly2017cannabis",
+   "type": "article",
+   "title": "Phytochemistry of Cannabis sativa L.",
+   "authors": "ElSohly, M.A., Radwan, M.M., Gul, W., Chandra, S. and Galal, A.",
+   "journal": "Progress in the Chemistry of Organic Natural Products",
+   "year": "2017",
+   "doi": "10.1007/978-3-319-45541-9_1",
+   "url": "",
+   "link": "https://doi.org/10.1007/978-3-319-45541-9_1",
+   "link_type": "doi",
+   "citation": "ElSohly, M.A., Radwan, M.M., Gul, W., Chandra, S. and Galal, A (2017) 'Phytochemistry of Cannabis sativa L', Progress in the Chemistry of Organic Natural Products, 103, pp. 1-36. doi:10.1007/978-3-319-45541-9_1",
+   "abstract": "This review details the phytochemistry of Cannabis sativa, including cannabinoids, terpenoids, flavonoids and other constituents, characterising the bioactive chemistry of cannabis/hemp.",
+   "tier": "review",
+   "display": "Phytochemistry of Cannabis sativa L.",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0875",
    "key": "colombo2017primula",
    "type": "article",
@@ -37289,6 +38006,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2161",
+   "key": "chiu2016cordyceps",
+   "type": "article",
+   "title": "Anti-inflammatory cerebrosides from cultivated Cordyceps militaris",
+   "authors": "Chiu, C.P., Liu, S.C., Tang, C.H., Chan, Y., El-Shazly, M., Lee, C.L., Du, Y.C., Wu, T.Y., Chang, F.R. and Wu, Y.C.",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "year": "2016",
+   "doi": "10.1021/acs.jafc.5b05931",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jafc.5b05931",
+   "link_type": "doi",
+   "citation": "Chiu, C.P., Liu, S.C., Tang, C.H., Chan, Y., El-Shazly, M., Lee, C.L., Du, Y.C., Wu, T.Y., Chang, F.R. and Wu, Y.C (2016) 'Anti-inflammatory cerebrosides from cultivated Cordyceps militaris', Journal of Agricultural and Food Chemistry, 64(7), pp. 1540-1548. doi:10.1021/acs.jafc.5b05931",
+   "abstract": "Cerebrosides isolated from cultivated Cordyceps militaris showed anti-inflammatory activity by suppressing inflammatory mediators, supporting the anti-inflammatory use of cordyceps.",
+   "tier": "preclinical",
+   "display": "Anti-inflammatory cerebrosides from cultivated Cordyceps militaris",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0680",
    "key": "lee2016agrimonia",
    "type": "article",
@@ -37559,6 +38310,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2144",
+   "key": "srinivasan2016capsicum",
+   "type": "article",
+   "title": "Biological activities of red pepper (Capsicum annuum) and its pungent principle capsaicin: a review",
+   "authors": "Srinivasan, K.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2016",
+   "doi": "10.1080/10408398.2013.772090",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2013.772090",
+   "link_type": "doi",
+   "citation": "Srinivasan, K (2016) 'Biological activities of red pepper (Capsicum annuum) and its pungent principle capsaicin: a review', Critical Reviews in Food Science and Nutrition, 56(9), pp. 1488-1500. doi:10.1080/10408398.2013.772090",
+   "abstract": "This review summarises the biological activities of red pepper (Capsicum annuum) and capsaicin, including digestive-stimulant, analgesic, anti-inflammatory and metabolic effects.",
+   "tier": "review",
+   "display": "Biological activities of red pepper (Capsicum annuum) and its pungent principle capsaicin: a review",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0101",
    "key": "groves2016body",
    "type": "book",
@@ -37725,6 +38508,33 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2139",
+   "key": "andre2016cannabis",
+   "type": "article",
+   "title": "Cannabis sativa: the plant of the thousand and one molecules",
+   "authors": "Andre, C.M., Hausman, J.F. and Guerriero, G.",
+   "journal": "Frontiers in Plant Science",
+   "year": "2016",
+   "doi": "10.3389/fpls.2016.00019",
+   "url": "",
+   "link": "https://doi.org/10.3389/fpls.2016.00019",
+   "link_type": "doi",
+   "citation": "Andre, C.M., Hausman, J.F. and Guerriero, G (2016) 'Cannabis sativa: the plant of the thousand and one molecules', Frontiers in Plant Science, 7, pp. 19. doi:10.3389/fpls.2016.00019",
+   "abstract": "This review surveys the diverse phytochemicals of Cannabis sativa - cannabinoids, terpenes, flavonoids and other molecules - and their biological activities, characterising the chemistry of cannabis/hemp.",
+   "tier": "review",
+   "display": "Cannabis sativa: the plant of the thousand and one molecules",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -38513,6 +39323,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2151",
+   "key": "marrelli2016capsicum",
+   "type": "article",
+   "title": "Hypolipidemic and antioxidant properties of hot pepper flower (Capsicum annuum L.)",
+   "authors": "Marrelli, M., Menichini, F. and Conforti, F.",
+   "journal": "Plant Foods for Human Nutrition",
+   "year": "2016",
+   "doi": "10.1007/s11130-016-0560-7",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11130-016-0560-7",
+   "link_type": "doi",
+   "citation": "Marrelli, M., Menichini, F. and Conforti, F (2016) 'Hypolipidemic and antioxidant properties of hot pepper flower (Capsicum annuum L.)', Plant Foods for Human Nutrition, 71(3), pp. 301-306. doi:10.1007/s11130-016-0560-7",
+   "abstract": "Hot pepper flower (Capsicum annuum) extract showed hypolipidemic and antioxidant properties including pancreatic-lipase inhibition, documenting the bioactivity of chili pepper.",
+   "tier": "preclinical",
+   "display": "Hypolipidemic and antioxidant properties of hot pepper flower (Capsicum annuum L.)",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2030",
    "key": "katanic2016bfilipendula",
    "type": "article",
@@ -39048,6 +39887,37 @@
     "Boswellia serrata"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2150",
+   "key": "maji2016capsicum",
+   "type": "article",
+   "title": "Phytochemistry and gastrointestinal benefits of the medicinal spice, Capsicum annuum L. (Chilli): a review",
+   "authors": "Maji, A.K. and Banerji, P.",
+   "journal": "Journal of Complementary & Integrative Medicine",
+   "year": "2016",
+   "doi": "10.1515/jcim-2015-0037",
+   "url": "",
+   "link": "https://doi.org/10.1515/jcim-2015-0037",
+   "link_type": "doi",
+   "citation": "Maji, A.K. and Banerji, P (2016) 'Phytochemistry and gastrointestinal benefits of the medicinal spice, Capsicum annuum L. (Chilli): a review', Journal of Complementary & Integrative Medicine, 13(2), pp. 97-122. doi:10.1515/jcim-2015-0037",
+   "abstract": "This review summarises the phytochemistry and gastrointestinal benefits of Capsicum annuum (chilli), including digestive-stimulant and gastroprotective actions, supporting the digestive use of chili pepper.",
+   "tier": "review",
+   "display": "Phytochemistry and gastrointestinal benefits of the medicinal spice, Capsicum annuum L. (Chilli): a review",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
    "conditions": []
   },
   {
@@ -40478,6 +41348,40 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2163",
+   "key": "cui2014cordyceps",
+   "type": "article",
+   "title": "Biotechnological production and applications of Cordyceps militaris, a valued traditional Chinese medicine",
+   "authors": "Cui, J.D.",
+   "journal": "Critical Reviews in Biotechnology",
+   "year": "2015",
+   "doi": "10.3109/07388551.2014.900604",
+   "url": "",
+   "link": "https://doi.org/10.3109/07388551.2014.900604",
+   "link_type": "doi",
+   "citation": "Cui, J.D (2015) 'Biotechnological production and applications of Cordyceps militaris, a valued traditional Chinese medicine', Critical Reviews in Biotechnology, 35(4), pp. 475-484. doi:10.3109/07388551.2014.900604",
+   "abstract": "This review describes the production and applications of Cordyceps militaris as a valued traditional Chinese medicine, including its immunomodulatory, antioxidant and tonic biological activities.",
+   "tier": "review",
+   "display": "Biotechnological production and applications of Cordyceps militaris, a valued traditional Chinese medicine",
+   "plants": [
+    "2011",
+    "2011)",
+    "Cordyceps",
+    "Dong Chong Xia Cao (冬蟲夏草",
+    "National Geographic",
+    "Yartsa gunbu  (Lin",
+    "caterpillar fungus",
+    "“ziemas tārps – vasaras zāle”)"
+   ],
+   "scientific": [
+    "Cordyceps militaris"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
    ],
    "conditions": []
   },
@@ -44365,6 +45269,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2143",
+   "key": "khan2014capsicum",
+   "type": "article",
+   "title": "Pharmacological importance of an ethnobotanical plant: Capsicum annuum L.",
+   "authors": "Khan, F.A., Mahmood, T., Ali, M., Saeed, A. and Maalik, A.",
+   "journal": "Natural Product Research",
+   "year": "2014",
+   "doi": "10.1080/14786419.2014.895723",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2014.895723",
+   "link_type": "doi",
+   "citation": "Khan, F.A., Mahmood, T., Ali, M., Saeed, A. and Maalik, A (2014) 'Pharmacological importance of an ethnobotanical plant: Capsicum annuum L', Natural Product Research, 28(16), pp. 1267-1274. doi:10.1080/14786419.2014.895723",
+   "abstract": "This review summarises the pharmacological importance of Capsicum annuum and its constituent capsaicin, including analgesic, anti-inflammatory and antimicrobial activities.",
+   "tier": "review",
+   "display": "Pharmacological importance of an ethnobotanical plant: Capsicum annuum L.",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0618",
    "key": "granica2014epilobium",
    "type": "article",
@@ -47255,6 +48190,38 @@
     "Arctium minus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2149",
+   "key": "hernandezortega2012capsicum",
+   "type": "article",
+   "title": "Antioxidant, antinociceptive, and anti-inflammatory effects of carotenoids extracted from dried pepper (Capsicum annuum L.)",
+   "authors": "Hernandez-Ortega, M., Ortiz-Moreno, A., Hernandez-Navarro, M.D., Chamorro-Cevallos, G., Dorantes-Alvarez, L. and Necoechea-Mondragon, H.",
+   "journal": "Journal of Biomedicine and Biotechnology",
+   "year": "2012",
+   "doi": "10.1155/2012/524019",
+   "url": "",
+   "link": "https://doi.org/10.1155/2012/524019",
+   "link_type": "doi",
+   "citation": "Hernandez-Ortega, M., Ortiz-Moreno, A., Hernandez-Navarro, M.D., Chamorro-Cevallos, G., Dorantes-Alvarez, L. and Necoechea-Mondragon, H (2012) 'Antioxidant, antinociceptive, and anti-inflammatory effects of carotenoids extracted from dried pepper (Capsicum annuum L.)', Journal of Biomedicine and Biotechnology, 2012, pp. 524019. doi:10.1155/2012/524019",
+   "abstract": "Carotenoids extracted from dried pepper (Capsicum annuum) showed antioxidant, antinociceptive and anti-inflammatory effects, supporting the analgesic and anti-inflammatory use of chili pepper.",
+   "tier": "preclinical",
+   "display": "Antioxidant, antinociceptive, and anti-inflammatory effects of carotenoids extracted from dried pepper (Capsicum annuum L.)",
+   "plants": [
+    "Chili Pepper",
+    "cayenne pepper",
+    "hot pepper",
+    "jalapeño",
+    "red pepper"
+   ],
+   "scientific": [
+    "Capsicum annuum"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -50215,6 +51182,33 @@
    "actions": [
     "Anxiolytic / calming"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2141",
+   "key": "bergamaschi2011cannabis",
+   "type": "article",
+   "title": "Safety and side effects of cannabidiol, a Cannabis sativa constituent",
+   "authors": "Bergamaschi, M.M., Queiroz, R.H.C., Zuardi, A.W. and Crippa, J.A.S.",
+   "journal": "Current Drug Safety",
+   "year": "2011",
+   "doi": "10.2174/157488611798280924",
+   "url": "",
+   "link": "https://doi.org/10.2174/157488611798280924",
+   "link_type": "doi",
+   "citation": "Bergamaschi, M.M., Queiroz, R.H.C., Zuardi, A.W. and Crippa, J.A.S (2011) 'Safety and side effects of cannabidiol, a Cannabis sativa constituent', Current Drug Safety, 6(4), pp. 237-249. doi:10.2174/157488611798280924",
+   "abstract": "This review summarises the safety profile and side effects of cannabidiol (CBD), a major non-psychoactive constituent of Cannabis sativa, informing the safe use of cannabis/hemp products.",
+   "tier": "review",
+   "display": "Safety and side effects of cannabidiol, a Cannabis sativa constituent",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

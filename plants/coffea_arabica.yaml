@@ -7,18 +7,6 @@ family: Rubiaceae
 parts_used:
 - Seed
 actions:
-- action: anti-inflammatory
-  reference_ids:
-  - REF-0059
-  - REF-0081
-  - REF-0096
-  - REF-0109
-  - REF-0121
-  - REF-0135
-  - REF-0178
-  - REF-0205
-  - REF-0217
-  status: verified
 - action: antioxidant
   reference_ids:
   - REF-0059
@@ -44,19 +32,6 @@ actions:
   - REF-0217
   status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0059
-  - REF-0081
-  - REF-0096
-  - REF-0109
-  - REF-0121
-  - REF-0135
-  - REF-0178
-  - REF-0205
-  - REF-0217
-  status: needs-review
 - condition: cardiovascular-support
   reference_ids:
   - REF-0059
@@ -71,19 +46,6 @@ indications:
   status: verified
 - condition: cognitive-function
   note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0059
-  - REF-0081
-  - REF-0096
-  - REF-0109
-  - REF-0121
-  - REF-0135
-  - REF-0178
-  - REF-0205
-  - REF-0217
-  status: needs-review
-- condition: inflammation
-  note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0059
   - REF-0081
@@ -120,19 +82,6 @@ indications:
   - REF-0205
   - REF-0217
   status: verified
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0059
-  - REF-0081
-  - REF-0096
-  - REF-0109
-  - REF-0121
-  - REF-0135
-  - REF-0178
-  - REF-0205
-  - REF-0217
-  status: needs-review
 contraindications:
 - note: Caffeine is the primary psychoactive component; excessive intake (>400 mg/day in adults, >200
     mg/day in pregnancy) can cause anxiety, insomnia, palpitations, and elevated blood pressure. Caffeine

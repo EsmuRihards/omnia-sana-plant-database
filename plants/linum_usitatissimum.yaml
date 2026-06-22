@@ -13,60 +13,45 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 - action: digestive
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: needs-review
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
@@ -75,56 +60,43 @@ indications:
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
   - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0001
-  - REF-0039
   - REF-0084
   - REF-0105
   - REF-0152
-  - REF-0190
   - REF-0230
-  - REF-0288
   status: needs-review
 contraindications:
 - note: Flaxseeds are safe for most people at recommended food amounts (1–2 tablespoons ground/day). They
@@ -142,7 +114,6 @@ contraindications:
   - REF-0152
   - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 - note: 'Medication interactions: Flaxseed may reduce absorption of oral medications if taken simultaneously
     — space flaxseed supplementation 1–2 hours from medications. Omega-3 ALA and lignans may mildly enhance
@@ -158,7 +129,6 @@ contraindications:
   - REF-0152
   - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 - note: 'Pregnancy: Food amounts are generally considered safe; high-dose supplements should be discussed
     with a clinician due to limited safety data.'
@@ -171,7 +141,6 @@ contraindications:
   - REF-0152
   - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 - note: 'Duke (2002) rates flaxseed as +++ with clinical evidence (score 2) for antiatherogenic, hypocholesterolemic,
     laxative, lipolytic (fat-dissolving), and demulcent activities. Flaxseed''s omega-3 fatty acids (ALA)
@@ -188,7 +157,6 @@ contraindications:
   - REF-0152
   - REF-0190
   - REF-0230
-  - REF-0288
   status: verified
 provenance: book
 status: verified

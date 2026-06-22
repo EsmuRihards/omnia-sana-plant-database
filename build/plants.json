@@ -8605,21 +8605,6 @@
    ],
    "actions": [
     {
-     "action": "anti-inflammatory",
-     "reference_ids": [
-      "REF-0059",
-      "REF-0081",
-      "REF-0096",
-      "REF-0109",
-      "REF-0121",
-      "REF-0135",
-      "REF-0178",
-      "REF-0205",
-      "REF-0217"
-     ],
-     "status": "verified"
-    },
-    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0059",
@@ -8652,22 +8637,6 @@
    ],
    "indications": [
     {
-     "condition": "arthritis",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0059",
-      "REF-0081",
-      "REF-0096",
-      "REF-0109",
-      "REF-0121",
-      "REF-0135",
-      "REF-0178",
-      "REF-0205",
-      "REF-0217"
-     ],
-     "status": "needs-review"
-    },
-    {
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0059",
@@ -8685,22 +8654,6 @@
     {
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
-     "reference_ids": [
-      "REF-0059",
-      "REF-0081",
-      "REF-0096",
-      "REF-0109",
-      "REF-0121",
-      "REF-0135",
-      "REF-0178",
-      "REF-0205",
-      "REF-0217"
-     ],
-     "status": "needs-review"
-    },
-    {
-     "condition": "inflammation",
-     "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0059",
       "REF-0081",
@@ -8744,22 +8697,6 @@
       "REF-0217"
      ],
      "status": "verified"
-    },
-    {
-     "condition": "skin-irritation",
-     "note": "inferred from anti-inflammatory action",
-     "reference_ids": [
-      "REF-0059",
-      "REF-0081",
-      "REF-0096",
-      "REF-0109",
-      "REF-0121",
-      "REF-0135",
-      "REF-0178",
-      "REF-0205",
-      "REF-0217"
-     ],
-     "status": "needs-review"
     }
    ],
    "contraindications": [
@@ -12253,8 +12190,7 @@
      "note": "Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional, as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported recovery or clear improvement in most patients with conjunctivitis",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-0613"
+      "REF-0449"
      ],
      "status": "verified"
     },
@@ -12263,8 +12199,7 @@
      "note": "Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional, as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported recovery or clear improvement in most patients with conjunctivitis",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-0613"
+      "REF-0449"
      ],
      "status": "verified"
     }
@@ -12283,8 +12218,7 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-0613"
+      "REF-0449"
      ],
      "status": "needs-review"
     },
@@ -12301,8 +12235,7 @@
      "note": "inferred from astringent action",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-0613"
+      "REF-0449"
      ],
      "status": "needs-review"
     },
@@ -12337,8 +12270,7 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-0613"
+      "REF-0449"
      ],
      "status": "needs-review"
     },
@@ -12355,8 +12287,7 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-0613"
+      "REF-0449"
      ],
      "status": "needs-review"
     },
@@ -12365,8 +12296,7 @@
      "note": "inferred from astringent action",
      "reference_ids": [
       "REF-0448",
-      "REF-0449",
-      "REF-0613"
+      "REF-0449"
      ],
      "status": "needs-review"
     }
@@ -13477,8 +13407,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0056",
-      "REF-0128",
       "REF-0308"
      ],
      "status": "verified"
@@ -13486,8 +13414,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0056",
-      "REF-0128",
       "REF-0308"
      ],
      "status": "verified"
@@ -13507,8 +13433,6 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0056",
-      "REF-0128",
       "REF-0308"
      ],
      "status": "needs-review"
@@ -13516,7 +13440,6 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
-      "REF-0056",
       "REF-0128",
       "REF-0308"
      ],
@@ -13536,8 +13459,6 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0056",
-      "REF-0128",
       "REF-0308"
      ],
      "status": "needs-review"
@@ -13556,8 +13477,6 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0056",
-      "REF-0128",
       "REF-0308"
      ],
      "status": "needs-review"
@@ -17339,13 +17258,10 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     },
@@ -17353,13 +17269,10 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     },
@@ -17367,13 +17280,10 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     }
@@ -17384,13 +17294,10 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "needs-review"
     },
@@ -17399,13 +17306,10 @@
      "note": "inferred from digestive action",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "needs-review"
     },
@@ -17417,9 +17321,7 @@
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     },
@@ -17428,13 +17330,10 @@
      "note": "inferred from digestive action",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "needs-review"
     },
@@ -17443,13 +17342,10 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "needs-review"
     },
@@ -17457,13 +17353,11 @@
      "condition": "metabolic-support",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
       "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     },
@@ -17472,13 +17366,10 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0001",
-      "REF-0039",
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "needs-review"
     }
@@ -17494,8 +17385,7 @@
       "REF-0105",
       "REF-0152",
       "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     },
@@ -17509,8 +17399,7 @@
       "REF-0105",
       "REF-0152",
       "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     },
@@ -17524,8 +17413,7 @@
       "REF-0105",
       "REF-0152",
       "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     },
@@ -17539,8 +17427,7 @@
       "REF-0105",
       "REF-0152",
       "REF-0190",
-      "REF-0230",
-      "REF-0288"
+      "REF-0230"
      ],
      "status": "verified"
     }

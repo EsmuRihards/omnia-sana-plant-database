@@ -39,7 +39,6 @@ actions:
   reference_ids:
   - REF-0448
   - REF-0449
-  - REF-0613
   status: verified
 - action: astringent
   note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
@@ -48,7 +47,6 @@ actions:
   reference_ids:
   - REF-0448
   - REF-0449
-  - REF-0613
   status: verified
 indications:
 - condition: allergy
@@ -61,7 +59,6 @@ indications:
   reference_ids:
   - REF-0448
   - REF-0449
-  - REF-0613
   status: needs-review
 - condition: cough
   note: Soothes upper-respiratory catarrh and mild infection (traditional)
@@ -73,7 +70,6 @@ indications:
   reference_ids:
   - REF-0448
   - REF-0449
-  - REF-0613
   status: needs-review
 - condition: eye-strain
   note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
@@ -100,7 +96,6 @@ indications:
   reference_ids:
   - REF-0448
   - REF-0449
-  - REF-0613
   status: needs-review
 - condition: respiratory-support
   note: Soothes upper-respiratory catarrh and mild infection (traditional)
@@ -112,14 +107,12 @@ indications:
   reference_ids:
   - REF-0448
   - REF-0449
-  - REF-0613
   status: needs-review
 - condition: wounds
   note: inferred from astringent action
   reference_ids:
   - REF-0448
   - REF-0449
-  - REF-0613
   status: needs-review
 contraindications:
 - note: 'CRITICAL: do not put non-sterile, homemade eyebright preparations directly into the eye - this

@@ -38,24 +38,28 @@ actions:
   reference_ids:
   - REF-0410
   - REF-0411
+  - REF-2116
   status: verified
 - action: antidiarrheal
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
   - REF-0410
   - REF-0411
+  - REF-2116
   status: verified
 - action: antimicrobial
   note: Antibacterial (topical) - GC-MS-characterised extracts showed antibacterial activity
   reference_ids:
   - REF-0410
   - REF-0627
+  - REF-0747
   status: verified
 - action: astringent
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
   - REF-0410
   - REF-0411
+  - REF-2119
   status: verified
 - action: styptic
   note: Vulnerary and styptic for minor wounds (topical)
@@ -146,6 +150,15 @@ references:
 - REF-0746
 - REF-0747
 - REF-0748
+- REF-2116
+- REF-2117
+- REF-2118
+- REF-2119
+- REF-2120
+- REF-2121
+- REF-2122
+- REF-2123
+- REF-0627
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -156,4 +169,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Jou
   GC-MS study of Persicaria bistorta that characterised its constituents and confirmed antibacterial activity
   (REF-0627). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
-  bucket (least-cited enrichment): REF-0746, REF-0747, REF-0748.'
+  bucket (least-cited enrichment): REF-0746, REF-0747, REF-0748. | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-2116, REF-2117, REF-2118, REF-2119, REF-0747,
+  REF-2120, REF-2121, REF-2122, REF-2123, REF-0627) — woven into relevant actions/indications and the
+  plant-level references bucket.'

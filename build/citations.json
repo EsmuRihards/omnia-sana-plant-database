@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2106,
+ "count": 2131,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -5175,6 +5175,38 @@
    ]
   },
   {
+   "ref_id": "REF-2116",
+   "key": "esmaealzadeh2024bistorta",
+   "type": "article",
+   "title": "Protective effect of freeze-dried extract of Persicaria bistorta Samp. on acetic acid-induced colitis model in rats: involvement of nitric oxide and opioid system",
+   "authors": "Esmaealzadeh, N., Abdolghaffari, A., Baeeri, M., Hasanpour, M., Iranshahi, M., Santarcangelo, C., Gholami, M. and Bahramsoltani, R.",
+   "journal": "Inflammopharmacology",
+   "year": "2024",
+   "doi": "10.1007/s10787-024-01518-8",
+   "url": "",
+   "link": "https://doi.org/10.1007/s10787-024-01518-8",
+   "link_type": "doi",
+   "citation": "Esmaealzadeh, N., Abdolghaffari, A., Baeeri, M., Hasanpour, M., Iranshahi, M., Santarcangelo, C., Gholami, M. and Bahramsoltani, R (2024) 'Protective effect of freeze-dried extract of Persicaria bistorta Samp. on acetic acid-induced colitis model in rats: involvement of nitric oxide and opioid system', Inflammopharmacology, 32(6), pp. 3845-3861. doi:10.1007/s10787-024-01518-8",
+   "abstract": "A freeze-dried extract of Persicaria bistorta (Bistorta officinalis) protected against acetic-acid-induced colitis in rats via nitric oxide and opioid mechanisms, supporting the anti-inflammatory and astringent gastrointestinal use of bistort.",
+   "tier": "preclinical",
+   "display": "Protective effect of freeze-dried extract of Persicaria bistorta Samp. on acetic acid-induced colitis model in rats: involvement of nitric oxide and opioid system",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antidiarrhoeal"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0660",
    "key": "zhong2024prunellahsv",
    "type": "article",
@@ -6278,6 +6310,35 @@
    ]
   },
   {
+   "ref_id": "REF-2130",
+   "key": "zhang2023calendula",
+   "type": "article",
+   "title": "Active compounds from Calendula officinalis flowers act via PI3K and ERK signaling pathways to offer neuroprotective effects against Parkinson's disease",
+   "authors": "Zhang, X., Wang, R., Finiuk, N., Stoika, R., Lin, H., Wang, X. and Jin, M.",
+   "journal": "Food Science & Nutrition",
+   "year": "2023",
+   "doi": "10.1002/fsn3.3792",
+   "url": "",
+   "link": "https://doi.org/10.1002/fsn3.3792",
+   "link_type": "doi",
+   "citation": "Zhang, X., Wang, R., Finiuk, N., Stoika, R., Lin, H., Wang, X. and Jin, M (2023) 'Active compounds from Calendula officinalis flowers act via PI3K and ERK signaling pathways to offer neuroprotective effects against Parkinson's disease', Food Science & Nutrition, 12(1), pp. 450-458. doi:10.1002/fsn3.3792",
+   "abstract": "Bioactive compounds from Calendula officinalis flowers offered neuroprotective and antioxidant effects against Parkinson's disease via PI3K and ERK signalling, supporting the antioxidant use of pot marigold.",
+   "tier": "preclinical",
+   "display": "Active compounds from Calendula officinalis flowers act via PI3K and ERK signaling pathways to offer neuroprotective effects against Parkinson's disease",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0981",
    "key": "ke2023reynoutria",
    "type": "article",
@@ -6358,7 +6419,9 @@
    "scientific": [
     "Calendula officinalis"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -7006,6 +7069,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2109",
+   "key": "dubey2023bacopa",
+   "type": "article",
+   "title": "Bacopa monnieri reduces Tau aggregation and Tau-mediated toxicity in cells",
+   "authors": "Dubey, T., Kushwaha, P., Thulasiram, H.V., Chandrashekar, M. and Chinnathambi, S.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2023",
+   "doi": "10.1016/j.ijbiomac.2023.123171",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2023.123171",
+   "link_type": "doi",
+   "citation": "Dubey, T., Kushwaha, P., Thulasiram, H.V., Chandrashekar, M. and Chinnathambi, S (2023) 'Bacopa monnieri reduces Tau aggregation and Tau-mediated toxicity in cells', International Journal of Biological Macromolecules, 234, pp. 123171. doi:10.1016/j.ijbiomac.2023.123171",
+   "abstract": "Ethanolic Bacopa monnieri extract inhibited Tau aggregation, lowered reactive oxygen species and restored Nrf2 levels in Neuro2a cells, acting as an antioxidant and neuroprotective agent relevant to Alzheimer's disease.",
+   "tier": "preclinical",
+   "display": "Bacopa monnieri reduces Tau aggregation and Tau-mediated toxicity in cells",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0745",
    "key": "sevastreberghian2023betula",
    "type": "article",
@@ -7331,6 +7425,33 @@
    ],
    "scientific": [
     "Elettaria cardamomum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2131",
+   "key": "kadowaki2023bcalendula",
+   "type": "article",
+   "title": "Catechol-O-methyltransferase inhibitors from Calendula officinalis leaf",
+   "authors": "Kadowaki, W., Miyata, R., Fujinami, M., Sato, Y. and Kumazawa, S.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28031333",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28031333",
+   "link_type": "doi",
+   "citation": "Kadowaki, W., Miyata, R., Fujinami, M., Sato, Y. and Kumazawa, S (2023) 'Catechol-O-methyltransferase inhibitors from Calendula officinalis leaf', Molecules, 28(3), pp. 1333. doi:10.3390/molecules28031333",
+   "abstract": "This study identified the major compounds in Calendula officinalis leaves and characterised catechol-O-methyltransferase inhibitors, documenting the bioactive phytochemistry of pot marigold leaf.",
+   "tier": "preclinical",
+   "display": "Catechol-O-methyltransferase inhibitors from Calendula officinalis leaf",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -8152,6 +8273,35 @@
     "Cognitive function",
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-2125",
+   "key": "rezai2023calendula",
+   "type": "article",
+   "title": "Effect of oral Calendula officinalis on second-degree burn wound healing",
+   "authors": "Rezai, S., Rahzani, K., Hekmatpou, D. and Rostami, A.",
+   "journal": "Scars, Burns & Healing",
+   "year": "2023",
+   "doi": "10.1177/20595131221134053",
+   "url": "",
+   "link": "https://doi.org/10.1177/20595131221134053",
+   "link_type": "doi",
+   "citation": "Rezai, S., Rahzani, K., Hekmatpou, D. and Rostami, A (2023) 'Effect of oral Calendula officinalis on second-degree burn wound healing', Scars, Burns & Healing, 9, pp. 20595131221134053. doi:10.1177/20595131221134053",
+   "abstract": "In a clinical trial of 60 burn patients, oral Calendula officinalis improved second-degree burn wound healing compared with control, supporting the vulnerary use of pot marigold.",
+   "tier": "rct",
+   "display": "Effect of oral Calendula officinalis on second-degree burn wound healing",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0465",
@@ -9193,6 +9343,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2121",
+   "key": "bauer2023bistorta",
+   "type": "article",
+   "title": "In-vitro antidiabetic activity of a Bistorta officinalis Delarbre root extract can not be confirmed in the in-vivo models hen's egg test and Drosophila melanogaster",
+   "authors": "Bauer, I., Rimbach, G., Nevermann, S., Neuhauser, C., Schwarzinger, B., Schwarzinger, C., Weghuber, J. and Luersen, K.",
+   "journal": "Journal of Physiology and Pharmacology",
+   "year": "2023",
+   "doi": "10.26402/jpp.2023.1.04",
+   "url": "",
+   "link": "https://doi.org/10.26402/jpp.2023.1.04",
+   "link_type": "doi",
+   "citation": "Bauer, I., Rimbach, G., Nevermann, S., Neuhauser, C., Schwarzinger, B., Schwarzinger, C., Weghuber, J. and Luersen, K (2023) 'In-vitro antidiabetic activity of a Bistorta officinalis Delarbre root extract can not be confirmed in the in-vivo models hen's egg test and Drosophila melanogaster', Journal of Physiology and Pharmacology, 74(1). doi:10.26402/jpp.2023.1.04",
+   "abstract": "An aqueous Bistorta officinalis root extract showed in-vitro antidiabetic (alpha-glucosidase and lipase inhibition) activity that was not confirmed in hen's-egg and Drosophila in-vivo models, characterising the pharmacology of bistort root.",
+   "tier": "preclinical",
+   "display": "In-vitro antidiabetic activity of a Bistorta officinalis Delarbre root extract can not be confirmed in the in-vivo models hen's egg test and Drosophila melanogaster",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0928",
    "key": "gourich2023marrubium",
    "type": "article",
@@ -9753,6 +9932,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2120",
+   "key": "yang2023bistorta",
+   "type": "article",
+   "title": "Online microextraction coupled with HPLC-ABTS for rapid analysis of antioxidants from the root of Polygonum bistorta",
+   "authors": "Yang, W., Qian, Z., Wu, M., Gao, J., Huang, Q., Zou, Y. and Tang, D.",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2023",
+   "doi": "10.1155/2023/7496848",
+   "url": "",
+   "link": "https://doi.org/10.1155/2023/7496848",
+   "link_type": "doi",
+   "citation": "Yang, W., Qian, Z., Wu, M., Gao, J., Huang, Q., Zou, Y. and Tang, D (2023) 'Online microextraction coupled with HPLC-ABTS for rapid analysis of antioxidants from the root of Polygonum bistorta', Evidence-Based Complementary and Alternative Medicine, 2023, pp. 7496848. doi:10.1155/2023/7496848",
+   "abstract": "This study used online microextraction with HPLC-ABTS to rapidly identify antioxidant bioactive compounds from the root of Polygonum bistorta (Bistorta officinalis), documenting its antioxidant constituents traditionally used for haemostasis, diarrhoea and gastroenteritis.",
+   "tier": "preclinical",
+   "display": "Online microextraction coupled with HPLC-ABTS for rapid analysis of antioxidants from the root of Polygonum bistorta",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1487",
    "key": "ertik2023parsley",
    "type": "article",
@@ -10135,6 +10343,35 @@
     "Anti-inflammatory",
     "Antioxidant",
     "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2126",
+   "key": "kadowaki2023acalendula",
+   "type": "article",
+   "title": "Prenylated acetophenones from the roots of Calendula officinalis and their anti-inflammatory activity",
+   "authors": "Kadowaki, W., Miyata, R., Mizuno, S., Fujinami, M., Sato, Y. and Kumazawa, S.",
+   "journal": "Bioscience, Biotechnology, and Biochemistry",
+   "year": "2023",
+   "doi": "10.1093/bbb/zbad042",
+   "url": "",
+   "link": "https://doi.org/10.1093/bbb/zbad042",
+   "link_type": "doi",
+   "citation": "Kadowaki, W., Miyata, R., Mizuno, S., Fujinami, M., Sato, Y. and Kumazawa, S (2023) 'Prenylated acetophenones from the roots of Calendula officinalis and their anti-inflammatory activity', Bioscience, Biotechnology, and Biochemistry, 87(7), pp. 683-687. doi:10.1093/bbb/zbad042",
+   "abstract": "Bioassay-guided fractionation of Calendula officinalis roots isolated prenylated acetophenones with anti-inflammatory activity, supporting the anti-inflammatory use of pot marigold.",
+   "tier": "preclinical",
+   "display": "Prenylated acetophenones from the roots of Calendula officinalis and their anti-inflammatory activity",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -11148,6 +11385,35 @@
    ]
   },
   {
+   "ref_id": "REF-2127",
+   "key": "samra2022calendula",
+   "type": "article",
+   "title": "A new antiprotozoal compound from Calendula officinalis",
+   "authors": "Samra, R.M., Maatooq, G.T. and Zaki, A.A.",
+   "journal": "Natural Product Research",
+   "year": "2022",
+   "doi": "10.1080/14786419.2021.2023868",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2021.2023868",
+   "link_type": "doi",
+   "citation": "Samra, R.M., Maatooq, G.T. and Zaki, A.A (2022) 'A new antiprotozoal compound from Calendula officinalis', Natural Product Research, 36(22), pp. 5747-5752. doi:10.1080/14786419.2021.2023868",
+   "abstract": "A new phytoconstituent isolated from Calendula officinalis showed leishmanicidal and antimicrobial activity, supporting the antimicrobial use of pot marigold.",
+   "tier": "preclinical",
+   "display": "A new antiprotozoal compound from Calendula officinalis",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0961",
    "key": "budzianowska2022plantago",
    "type": "article",
@@ -11942,6 +12208,36 @@
     "Immune support",
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2108",
+   "key": "vinod2022bacopa",
+   "type": "article",
+   "title": "Bacopa monnieri for disorders affecting brain: current perspectives",
+   "authors": "Vinod, A., Sathianarayanan, S., Babu, A.E., Sadanandan, P., Venu, A.K. and Venkidasamy, B.",
+   "journal": "Current Topics in Medicinal Chemistry",
+   "year": "2022",
+   "doi": "10.2174/1568026622666220119111538",
+   "url": "",
+   "link": "https://doi.org/10.2174/1568026622666220119111538",
+   "link_type": "doi",
+   "citation": "Vinod, A., Sathianarayanan, S., Babu, A.E., Sadanandan, P., Venu, A.K. and Venkidasamy, B (2022) 'Bacopa monnieri for disorders affecting brain: current perspectives', Current Topics in Medicinal Chemistry, 22(23), pp. 1909-1929. doi:10.2174/1568026622666220119111538",
+   "abstract": "This review projects the beneficial role of Bacopa monnieri and its bacosides in disorders affecting the brain including Alzheimer's, Parkinson's, stroke, epilepsy and depression, supporting its neuroprotective use.",
+   "tier": "review",
+   "display": "Bacopa monnieri for disorders affecting brain: current perspectives",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0686",
@@ -14428,7 +14724,9 @@
    "scientific": [
     "Bacopa monnieri"
    ],
-   "actions": [],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
    "conditions": []
   },
   {
@@ -19540,6 +19838,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2110",
+   "key": "shalini2021bacopa",
+   "type": "article",
+   "title": "Neuroprotection with Bacopa monnieri - a review of experimental evidence",
+   "authors": "Shalini, V.T., Neelakanta, S.J. and Sriranjini, J.S.",
+   "journal": "Molecular Biology Reports",
+   "year": "2021",
+   "doi": "10.1007/s11033-021-06236-w",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11033-021-06236-w",
+   "link_type": "doi",
+   "citation": "Shalini, V.T., Neelakanta, S.J. and Sriranjini, J.S (2021) 'Neuroprotection with Bacopa monnieri - a review of experimental evidence', Molecular Biology Reports, 48(3), pp. 2653-2668. doi:10.1007/s11033-021-06236-w",
+   "abstract": "This review summarises experimental evidence for the neuroprotective potential of Bacopa monnieri (brahmi) in Alzheimer's, epilepsy, Parkinson's, Huntington's disease and cerebral ischemia.",
+   "tier": "review",
+   "display": "Neuroprotection with Bacopa monnieri - a review of experimental evidence",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0781",
    "key": "hosseini2021coriander",
    "type": "article",
@@ -22192,7 +22520,9 @@
    "scientific": [
     "Bistorta officinalis"
    ],
-   "actions": [],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -27148,7 +27478,9 @@
    "scientific": [
     "Calendula officinalis"
    ],
-   "actions": [],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
    "conditions": []
   },
   {
@@ -27436,6 +27768,37 @@
    ]
   },
   {
+   "ref_id": "REF-2112",
+   "key": "saini2019bacopa",
+   "type": "article",
+   "title": "Bacopa monnieri prevents colchicine-induced dementia by anti-inflammatory action",
+   "authors": "Saini, N., Singh, D. and Sandhir, R.",
+   "journal": "Metabolic Brain Disease",
+   "year": "2019",
+   "doi": "10.1007/s11011-018-0332-1",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11011-018-0332-1",
+   "link_type": "doi",
+   "citation": "Saini, N., Singh, D. and Sandhir, R (2019) 'Bacopa monnieri prevents colchicine-induced dementia by anti-inflammatory action', Metabolic Brain Disease, 34(2), pp. 505-518. doi:10.1007/s11011-018-0332-1",
+   "abstract": "Bacopa monnieri supplementation reversed colchicine-induced dementia in rats by anti-inflammatory and anti-oxidant action, reducing pro-inflammatory cytokines, COX-2/iNOS and amyloid-beta production.",
+   "tier": "preclinical",
+   "display": "Bacopa monnieri prevents colchicine-induced dementia by anti-inflammatory action",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1280",
    "key": "jakovljevic2019sage",
    "type": "article",
@@ -27644,6 +28007,36 @@
     "Antimicrobial",
     "Antioxidant",
     "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2113",
+   "key": "dubey2019bacopa",
+   "type": "article",
+   "title": "Brahmi (Bacopa monnieri): an ayurvedic herb against the Alzheimer's disease",
+   "authors": "Dubey, T. and Chinnathambi, S.",
+   "journal": "Archives of Biochemistry and Biophysics",
+   "year": "2019",
+   "doi": "10.1016/j.abb.2019.108153",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.abb.2019.108153",
+   "link_type": "doi",
+   "citation": "Dubey, T. and Chinnathambi, S (2019) 'Brahmi (Bacopa monnieri): an ayurvedic herb against the Alzheimer's disease', Archives of Biochemistry and Biophysics, 676, pp. 108153. doi:10.1016/j.abb.2019.108153",
+   "abstract": "This review describes the neuroprotective properties of Brahmi (Bacopa monnieri) and its bioactive components against Alzheimer's disease, including reduction of reactive oxygen species, neuroinflammation and amyloid-beta aggregation.",
+   "tier": "review",
+   "display": "Brahmi (Bacopa monnieri): an ayurvedic herb against the Alzheimer's disease",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
    ],
    "conditions": []
   },
@@ -30947,6 +31340,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2124",
+   "key": "cruceriu2018calendula",
+   "type": "article",
+   "title": "Calendula officinalis: potential roles in cancer treatment and palliative care",
+   "authors": "Cruceriu, D., Balacescu, O. and Rakosy, E.",
+   "journal": "Integrative Cancer Therapies",
+   "year": "2018",
+   "doi": "10.1177/1534735418803766",
+   "url": "",
+   "link": "https://doi.org/10.1177/1534735418803766",
+   "link_type": "doi",
+   "citation": "Cruceriu, D., Balacescu, O. and Rakosy, E (2018) 'Calendula officinalis: potential roles in cancer treatment and palliative care', Integrative Cancer Therapies, 17(4), pp. 1068-1078. doi:10.1177/1534735418803766",
+   "abstract": "This review summarises the antioxidant and anti-tumour bioactive compounds of Calendula officinalis and their potential roles in cancer treatment and palliative care, supporting the antioxidant use of pot marigold.",
+   "tier": "review",
+   "display": "Calendula officinalis: potential roles in cancer treatment and palliative care",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0486",
    "key": "sharifi2018carvacrol",
    "type": "article",
@@ -33923,6 +34345,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2123",
+   "key": "liu2017bistorta",
+   "type": "article",
+   "title": "Aqueous extract of Polygonum bistorta modulates proteostasis by ROS-induced ER stress in human hepatoma cells",
+   "authors": "Liu, Y., Weng, Y., Lin, H., Tang, S., Chen, C., Liang, C., Ku, C. and Lin, J.",
+   "journal": "Scientific Reports",
+   "year": "2017",
+   "doi": "10.1038/srep41437",
+   "url": "",
+   "link": "https://doi.org/10.1038/srep41437",
+   "link_type": "doi",
+   "citation": "Liu, Y., Weng, Y., Lin, H., Tang, S., Chen, C., Liang, C., Ku, C. and Lin, J (2017) 'Aqueous extract of Polygonum bistorta modulates proteostasis by ROS-induced ER stress in human hepatoma cells', Scientific Reports, 7, pp. 41437. doi:10.1038/srep41437",
+   "abstract": "An aqueous extract of Polygonum bistorta (Bistorta officinalis) modulated proteostasis through reactive-oxygen-species-induced endoplasmic-reticulum stress in human hepatoma cells, documenting a cytotoxic mechanism of bistort root.",
+   "tier": "preclinical",
+   "display": "Aqueous extract of Polygonum bistorta modulates proteostasis by ROS-induced ER stress in human hepatoma cells",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1924",
    "key": "fischer2017arctiumminus",
    "type": "article",
@@ -34268,6 +34719,35 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-2117",
+   "key": "klimczak2017bistorta",
+   "type": "article",
+   "title": "Chemical composition of edible aerial parts of meadow bistort (Persicaria bistorta (L.) Samp.)",
+   "authors": "Klimczak, U., Wozniak, M., Tomczyk, M. and Granica, S.",
+   "journal": "Food Chemistry",
+   "year": "2017",
+   "doi": "10.1016/j.foodchem.2017.02.128",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2017.02.128",
+   "link_type": "doi",
+   "citation": "Klimczak, U., Wozniak, M., Tomczyk, M. and Granica, S (2017) 'Chemical composition of edible aerial parts of meadow bistort (Persicaria bistorta (L.) Samp.)', Food Chemistry, 230, pp. 281-290. doi:10.1016/j.foodchem.2017.02.128",
+   "abstract": "This study characterised the phenolic and flavonoid composition of the edible aerial parts of meadow bistort (Persicaria bistorta / Bistorta officinalis), documenting the antioxidant constituents of bistort.",
+   "tier": "preclinical",
+   "display": "Chemical composition of edible aerial parts of meadow bistort (Persicaria bistorta (L.) Samp.)",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0354",
@@ -37188,6 +37668,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2128",
+   "key": "kaur2016calendula",
+   "type": "article",
+   "title": "Calendula officinalis ameliorates l-arginine-induced acute necrotizing pancreatitis in rats",
+   "authors": "Kaur, J., Sidhu, S., Chopra, K. and Khan, M.U.",
+   "journal": "Pharmaceutical Biology",
+   "year": "2016",
+   "doi": "10.1080/13880209.2016.1195848",
+   "url": "",
+   "link": "https://doi.org/10.1080/13880209.2016.1195848",
+   "link_type": "doi",
+   "citation": "Kaur, J., Sidhu, S., Chopra, K. and Khan, M.U (2016) 'Calendula officinalis ameliorates l-arginine-induced acute necrotizing pancreatitis in rats', Pharmaceutical Biology, 54(12), pp. 2951-2959. doi:10.1080/13880209.2016.1195848",
+   "abstract": "Ethanol extract of Calendula officinalis flowers ameliorated l-arginine-induced acute necrotizing pancreatitis in rats by reducing inflammation and oxidative stress, supporting the anti-inflammatory use of pot marigold.",
+   "tier": "preclinical",
+   "display": "Calendula officinalis ameliorates l-arginine-induced acute necrotizing pancreatitis in rats",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1953",
    "key": "lozanobaena2016borage",
    "type": "article",
@@ -39939,6 +40448,36 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2111",
+   "key": "simpson2015bacopa",
+   "type": "article",
+   "title": "Bacopa monnieri as an antioxidant therapy to reduce oxidative stress in the aging brain",
+   "authors": "Simpson, T., Pase, M. and Stough, C.",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2015",
+   "doi": "10.1155/2015/615384",
+   "url": "",
+   "link": "https://doi.org/10.1155/2015/615384",
+   "link_type": "doi",
+   "citation": "Simpson, T., Pase, M. and Stough, C (2015) 'Bacopa monnieri as an antioxidant therapy to reduce oxidative stress in the aging brain', Evidence-Based Complementary and Alternative Medicine, 2015, pp. 615384. doi:10.1155/2015/615384",
+   "abstract": "This review discusses Bacopa monnieri as a dietary antioxidant that may protect the aging brain against oxidative damage and improve cognitive function, supporting its antioxidant use.",
+   "tier": "review",
+   "display": "Bacopa monnieri as an antioxidant therapy to reduce oxidative stress in the aging brain",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -43045,6 +43584,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2129",
+   "key": "aro2014calendula",
+   "type": "article",
+   "title": "Effect of Calendula officinalis cream on achilles tendon healing",
+   "authors": "Aro, A.A., Perez, M.O., Vieira, C.P., Esquisatto, M.A.M., Rodrigues, R.A.F., Gomes, L. and Pimentel, E.R.",
+   "journal": "Anatomical Record",
+   "year": "2014",
+   "doi": "10.1002/ar.23057",
+   "url": "",
+   "link": "https://doi.org/10.1002/ar.23057",
+   "link_type": "doi",
+   "citation": "Aro, A.A., Perez, M.O., Vieira, C.P., Esquisatto, M.A.M., Rodrigues, R.A.F., Gomes, L. and Pimentel, E.R (2014) 'Effect of Calendula officinalis cream on achilles tendon healing', Anatomical Record, 298(2), pp. 428-435. doi:10.1002/ar.23057",
+   "abstract": "Calendula officinalis cream improved the organisation and healing of injured achilles tendon in an animal model, supporting the antioxidant, anti-inflammatory and vulnerary use of pot marigold.",
+   "tier": "preclinical",
+   "display": "Effect of Calendula officinalis cream on achilles tendon healing",
+   "plants": [
+    "Calendula",
+    "Pot marigold",
+    "common marigold"
+   ],
+   "scientific": [
+    "Calendula officinalis"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0182",
    "key": "neelakantan2014fenugreek",
    "type": "misc",
@@ -43734,6 +44302,36 @@
    ],
    "actions": [
     "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2107",
+   "key": "kongkeaw2013bacopa",
+   "type": "article",
+   "title": "Meta-analysis of randomized controlled trials on cognitive effects of Bacopa monnieri extract",
+   "authors": "Kongkeaw, C., Dilokthornsakul, P., Thanarangsarit, P., Limpeanchob, N. and Norman Scholfield, C.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2014",
+   "doi": "10.1016/j.jep.2013.11.008",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2013.11.008",
+   "link_type": "doi",
+   "citation": "Kongkeaw, C., Dilokthornsakul, P., Thanarangsarit, P., Limpeanchob, N. and Norman Scholfield, C (2014) 'Meta-analysis of randomized controlled trials on cognitive effects of Bacopa monnieri extract', Journal of Ethnopharmacology, 151(1), pp. 528-535. doi:10.1016/j.jep.2013.11.008",
+   "abstract": "This meta-analysis of randomized controlled trials found that standardized Bacopa monnieri extract improved cognition, particularly speed of attention, supporting the neuroprotective and cognitive-enhancing use of brahmi.",
+   "tier": "review",
+   "display": "Meta-analysis of randomized controlled trials on cognitive effects of Bacopa monnieri extract",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
    ],
    "conditions": []
   },
@@ -46567,6 +47165,35 @@
    ],
    "scientific": [
     "Morinda citrifolia"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2122",
+   "key": "intisar2012bistorta",
+   "type": "article",
+   "title": "Anticancer constituents and cytotoxic activity of methanol-water extract of Polygonum bistorta L.",
+   "authors": "Intisar, A., Zhang, L., Luo, H., Kiazolu, J.B., Zhang, R. and Zhang, W.",
+   "journal": "African Journal of Traditional, Complementary and Alternative Medicines",
+   "year": "2012",
+   "doi": "10.4314/ajtcam.v10i1.9",
+   "url": "",
+   "link": "https://doi.org/10.4314/ajtcam.v10i1.9",
+   "link_type": "doi",
+   "citation": "Intisar, A., Zhang, L., Luo, H., Kiazolu, J.B., Zhang, R. and Zhang, W (2012) 'Anticancer constituents and cytotoxic activity of methanol-water extract of Polygonum bistorta L', African Journal of Traditional, Complementary and Alternative Medicines, 10(1), pp. 53-59. doi:10.4314/ajtcam.v10i1.9",
+   "abstract": "This study identified anticancer constituents and evaluated the cytotoxic activity of a methanol-water extract of Polygonum bistorta (Bistorta officinalis), documenting the bioactive phytochemistry of bistort.",
+   "tier": "preclinical",
+   "display": "Anticancer constituents and cytotoxic activity of methanol-water extract of Polygonum bistorta L.",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
    ],
    "actions": [],
    "conditions": []
@@ -52761,7 +53388,10 @@
    "scientific": [
     "Bacopa monnieri"
    ],
-   "actions": [],
+   "actions": [
+    "Neuroprotective / cognition support",
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -53917,6 +54547,34 @@
    ]
   },
   {
+   "ref_id": "REF-2114",
+   "key": "bhandari2007bacopa",
+   "type": "article",
+   "title": "Cucurbitacins from Bacopa monnieri",
+   "authors": "Bhandari, P., Kumar, N., Singh, B. and Kaul, V.K.",
+   "journal": "Phytochemistry",
+   "year": "2007",
+   "doi": "10.1016/j.phytochem.2007.03.013",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2007.03.013",
+   "link_type": "doi",
+   "citation": "Bhandari, P., Kumar, N., Singh, B. and Kaul, V.K (2007) 'Cucurbitacins from Bacopa monnieri', Phytochemistry, 68(9), pp. 1248-1254. doi:10.1016/j.phytochem.2007.03.013",
+   "abstract": "Four cucurbitacins (bacobitacin A-D) and phenylethanoid glycosides were isolated and characterised from the aerial parts of Bacopa monnieri, documenting the phytochemistry of brahmi.",
+   "tier": "preclinical",
+   "display": "Cucurbitacins from Bacopa monnieri",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2013",
    "key": "hall2007echinacea",
    "type": "article",
@@ -54601,6 +55259,37 @@
     "Urinary tract infection (UTI)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2119",
+   "key": "liu2006bistorta",
+   "type": "article",
+   "title": "A new tannin-related compound from the rhizome of Polygonum bistorta L.",
+   "authors": "Liu, X., Hua, H., Liu, J., Chen, F. and Wu, L.",
+   "journal": "Journal of Asian Natural Products Research",
+   "year": "2006",
+   "doi": "10.1080/10286020500034956",
+   "url": "",
+   "link": "https://doi.org/10.1080/10286020500034956",
+   "link_type": "doi",
+   "citation": "Liu, X., Hua, H., Liu, J., Chen, F. and Wu, L (2006) 'A new tannin-related compound from the rhizome of Polygonum bistorta L', Journal of Asian Natural Products Research, 8(4), pp. 299-302. doi:10.1080/10286020500034956",
+   "abstract": "A new tannin-related compound, bistortaside A, was isolated from the rhizome of Polygonum bistorta (Bistorta officinalis), characterising the astringent tannin constituents of bistort.",
+   "tier": "preclinical",
+   "display": "A new tannin-related compound from the rhizome of Polygonum bistorta L.",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [
+    "Astringent"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1157",
@@ -56206,6 +56895,35 @@
    ]
   },
   {
+   "ref_id": "REF-2118",
+   "key": "manoharan2005bistorta",
+   "type": "article",
+   "title": "Cycloartane type triterpenoids from the rhizomes of Polygonum bistorta",
+   "authors": "Manoharan, K.P., Benny, T.K.H. and Yang, D.",
+   "journal": "Phytochemistry",
+   "year": "2005",
+   "doi": "10.1016/j.phytochem.2005.07.008",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2005.07.008",
+   "link_type": "doi",
+   "citation": "Manoharan, K.P., Benny, T.K.H. and Yang, D (2005) 'Cycloartane type triterpenoids from the rhizomes of Polygonum bistorta', Phytochemistry, 66(19), pp. 2304-2308. doi:10.1016/j.phytochem.2005.07.008",
+   "abstract": "Two new cycloartane-type triterpenoids and seven known compounds were isolated from the rhizomes of Polygonum bistorta (Bistorta officinalis), documenting the phytochemistry of bistort.",
+   "tier": "preclinical",
+   "display": "Cycloartane type triterpenoids from the rhizomes of Polygonum bistorta",
+   "plants": [
+    "Adderwort",
+    "Bistort",
+    "Common bistort",
+    "Easter-ledges",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Bistorta officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0885",
    "key": "jaenson2005rhododendron",
    "type": "article",
@@ -56539,6 +57257,34 @@
     "Antioxidant",
     "Immunomodulator / immune support"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2115",
+   "key": "sivaramakrishna2005bacopa",
+   "type": "article",
+   "title": "Triterpenoid glycosides from Bacopa monnieri",
+   "authors": "Sivaramakrishna, C., Rao, C.V., Trimurtulu, G., Vanisree, M. and Subbaraju, G.V.",
+   "journal": "Phytochemistry",
+   "year": "2005",
+   "doi": "10.1016/j.phytochem.2005.09.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2005.09.016",
+   "link_type": "doi",
+   "citation": "Sivaramakrishna, C., Rao, C.V., Trimurtulu, G., Vanisree, M. and Subbaraju, G.V (2005) 'Triterpenoid glycosides from Bacopa monnieri', Phytochemistry, 66(23), pp. 2719-2728. doi:10.1016/j.phytochem.2005.09.016",
+   "abstract": "Two triterpenoid glycosides were isolated from Bacopa monnieri and the chemical compositions of bacosides A and B were delineated, characterising the saponin constituents of brahmi.",
+   "tier": "preclinical",
+   "display": "Triterpenoid glycosides from Bacopa monnieri",
+   "plants": [
+    "Bacopa",
+    "Water Hyssop",
+    "brahmi",
+    "herb of grace"
+   ],
+   "scientific": [
+    "Bacopa monnieri"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

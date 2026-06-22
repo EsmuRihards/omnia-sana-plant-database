@@ -5119,14 +5119,18 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0309"
+      "REF-0309",
+      "REF-2112"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0309"
+      "REF-0309",
+      "REF-2109",
+      "REF-2111",
+      "REF-2112"
      ],
      "status": "verified"
     },
@@ -5135,14 +5139,22 @@
      "reference_ids": [
       "REF-0038",
       "REF-0283",
-      "REF-0309"
+      "REF-0309",
+      "REF-0742",
+      "REF-2107",
+      "REF-0740",
+      "REF-2108",
+      "REF-2109",
+      "REF-2110",
+      "REF-2113"
      ],
      "status": "verified"
     },
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0309"
+      "REF-0309",
+      "REF-0740"
      ],
      "status": "verified"
     }
@@ -5226,7 +5238,16 @@
    "references": [
     "REF-0740",
     "REF-0741",
-    "REF-0742"
+    "REF-0742",
+    "REF-2107",
+    "REF-2108",
+    "REF-2109",
+    "REF-2110",
+    "REF-2111",
+    "REF-2112",
+    "REF-2113",
+    "REF-2114",
+    "REF-2115"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -5602,7 +5623,8 @@
      "note": "Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)",
      "reference_ids": [
       "REF-0410",
-      "REF-0411"
+      "REF-0411",
+      "REF-2116"
      ],
      "status": "verified"
     },
@@ -5611,7 +5633,8 @@
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
       "REF-0410",
-      "REF-0411"
+      "REF-0411",
+      "REF-2116"
      ],
      "status": "verified"
     },
@@ -5620,7 +5643,8 @@
      "note": "Antibacterial (topical) - GC-MS-characterised extracts showed antibacterial activity",
      "reference_ids": [
       "REF-0410",
-      "REF-0627"
+      "REF-0627",
+      "REF-0747"
      ],
      "status": "verified"
     },
@@ -5629,7 +5653,8 @@
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
       "REF-0410",
-      "REF-0411"
+      "REF-0411",
+      "REF-2119"
      ],
      "status": "verified"
     },
@@ -5764,7 +5789,16 @@
    "references": [
     "REF-0746",
     "REF-0747",
-    "REF-0748"
+    "REF-0748",
+    "REF-2116",
+    "REF-2117",
+    "REF-2118",
+    "REF-2119",
+    "REF-2120",
+    "REF-2121",
+    "REF-2122",
+    "REF-2123",
+    "REF-0627"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -6211,7 +6245,10 @@
      "reference_ids": [
       "REF-0112",
       "REF-0183",
-      "REF-0199"
+      "REF-0199",
+      "REF-0753",
+      "REF-2126",
+      "REF-2128"
      ],
      "status": "verified"
     },
@@ -6229,7 +6266,8 @@
      "reference_ids": [
       "REF-0112",
       "REF-0183",
-      "REF-0199"
+      "REF-0199",
+      "REF-2127"
      ],
      "status": "verified"
     },
@@ -6238,7 +6276,9 @@
      "reference_ids": [
       "REF-0112",
       "REF-0183",
-      "REF-0199"
+      "REF-0199",
+      "REF-2124",
+      "REF-2130"
      ],
      "status": "verified"
     },
@@ -6256,7 +6296,10 @@
      "reference_ids": [
       "REF-0112",
       "REF-0183",
-      "REF-0199"
+      "REF-0199",
+      "REF-0752",
+      "REF-2125",
+      "REF-2129"
      ],
      "status": "verified"
     }
@@ -6358,7 +6401,15 @@
    "references": [
     "REF-0752",
     "REF-0753",
-    "REF-0754"
+    "REF-0754",
+    "REF-2124",
+    "REF-2125",
+    "REF-2126",
+    "REF-2127",
+    "REF-2128",
+    "REF-2129",
+    "REF-2130",
+    "REF-2131"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

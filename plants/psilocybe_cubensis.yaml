@@ -10,77 +10,35 @@ parts_used:
 - Mycelium
 - Whole Plant
 actions:
-- action: anti-inflammatory
+- action: antidepressant
+  note: Psilocybin-assisted therapy for depression (clinical trials)
   reference_ids:
   - REF-0040
-  - REF-0086
-  - REF-0099
-  - REF-1523
-  status: verified
-- action: antioxidant
-  reference_ids:
-  - REF-0040
-  - REF-0086
-  - REF-0099
-  - REF-1523
-  status: verified
-- action: neuroprotective
-  reference_ids:
-  - REF-0040
-  - REF-0086
-  - REF-0099
-  - REF-1522
-  status: verified
-- action: sedative
-  reference_ids:
-  - REF-0040
-  - REF-0086
   - REF-0099
   - REF-1520
   status: verified
+- action: anxiolytic
+  note: Reduces anxiety; preclinical fear-memory extinction
+  reference_ids:
+  - REF-0099
+  - REF-1520
+  - REF-1522
+  status: verified
 indications:
-- condition: arthritis
-  note: inferred from anti-inflammatory action
+- condition: depression
+  note: Psilocybin-assisted therapy reduced depression in clinical trials
   reference_ids:
   - REF-0040
-  - REF-0086
   - REF-0099
-  status: needs-review
-- condition: cognitive-function
-  note: inferred from neuroprotective action
+  - REF-1520
+  status: verified
+- condition: anxiety
+  note: Reduced anxiety in clinical and preclinical studies
   reference_ids:
-  - REF-0040
-  - REF-0086
   - REF-0099
-  status: needs-review
-- condition: inflammation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0040
-  - REF-0086
-  - REF-0099
-  status: needs-review
-- condition: insomnia
-  note: inferred from sedative action
-  reference_ids:
-  - REF-0040
-  - REF-0086
-  - REF-0099
-  status: needs-review
-- condition: memory
-  note: inferred from neuroprotective action
-  reference_ids:
-  - REF-0040
-  - REF-0086
-  - REF-0099
-  status: needs-review
-- condition: skin-irritation
-  note: inferred from anti-inflammatory action
-  reference_ids:
-  - REF-0040
-  - REF-0086
-  - REF-0099
-  status: needs-review
+  - REF-1520
+  - REF-1522
+  status: verified
 contraindications:
 - note: Psilocybin is physiologically non-toxic and non-addictive in clinical contexts. Psychological
     risks include anxiety, paranoia, and triggering of latent psychiatric conditions (contraindicated
@@ -90,7 +48,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0040
-  - REF-0086
   - REF-0099
   status: verified
 - note: Duke (2002) does not include a dedicated entry for psilocybin mushrooms (Psilocybe cubensis) in
@@ -98,7 +55,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0040
-  - REF-0086
   - REF-0099
   status: verified
 references:

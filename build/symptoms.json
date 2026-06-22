@@ -11802,7 +11802,6 @@
      "inferred": true,
      "references": [
       "REF-0072",
-      "REF-0143",
       "REF-0227"
      ]
     },
@@ -11814,7 +11813,6 @@
      "inferred": true,
      "references": [
       "REF-0072",
-      "REF-0143",
       "REF-0227"
      ]
     },
@@ -11826,7 +11824,6 @@
      "inferred": true,
      "references": [
       "REF-0072",
-      "REF-0143",
       "REF-0227"
      ]
     },
@@ -11838,7 +11835,6 @@
      "inferred": true,
      "references": [
       "REF-0072",
-      "REF-0143",
       "REF-0227"
      ]
     },
@@ -11850,7 +11846,6 @@
      "inferred": false,
      "references": [
       "REF-0072",
-      "REF-0143",
       "REF-0227"
      ]
     },
@@ -11862,7 +11857,6 @@
      "inferred": true,
      "references": [
       "REF-0072",
-      "REF-0143",
       "REF-0227"
      ]
     }
@@ -13941,7 +13935,6 @@
      "inferred": true,
      "references": [
       "REF-0108",
-      "REF-0138",
       "REF-0196"
      ]
     },
@@ -13953,7 +13946,6 @@
      "inferred": false,
      "references": [
       "REF-0108",
-      "REF-0138",
       "REF-0196"
      ]
     },
@@ -13965,7 +13957,6 @@
      "inferred": true,
      "references": [
       "REF-0108",
-      "REF-0138",
       "REF-0196"
      ]
     },
@@ -13977,7 +13968,6 @@
      "inferred": true,
      "references": [
       "REF-0108",
-      "REF-0138",
       "REF-0196"
      ]
     },
@@ -13989,7 +13979,6 @@
      "inferred": true,
      "references": [
       "REF-0108",
-      "REF-0138",
       "REF-0196"
      ]
     },
@@ -14001,7 +13990,6 @@
      "inferred": true,
      "references": [
       "REF-0108",
-      "REF-0138",
       "REF-0196"
      ]
     },
@@ -14013,7 +14001,6 @@
      "inferred": true,
      "references": [
       "REF-0108",
-      "REF-0138",
       "REF-0196"
      ]
     }
@@ -15470,7 +15457,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15482,7 +15468,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15494,7 +15479,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15506,7 +15490,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15518,7 +15501,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15530,7 +15512,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15542,7 +15523,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15554,7 +15534,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15566,7 +15545,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0092",
       "REF-0154",
       "REF-0181"
      ]
@@ -15765,75 +15743,27 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
+     "condition": "depression",
+     "label": "Low mood / depression",
      "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
+     "status": "verified",
+     "inferred": false,
      "references": [
       "REF-0040",
-      "REF-0086",
-      "REF-0099"
+      "REF-0099",
+      "REF-1520"
      ]
     },
     {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
      "references": [
-      "REF-0040",
-      "REF-0086",
-      "REF-0099"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0040",
-      "REF-0086",
-      "REF-0099"
-     ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0040",
-      "REF-0086",
-      "REF-0099"
-     ]
-    },
-    {
-     "condition": "memory",
-     "label": "Memory",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0040",
-      "REF-0086",
-      "REF-0099"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0040",
-      "REF-0086",
-      "REF-0099"
+      "REF-0099",
+      "REF-1520",
+      "REF-1522"
      ]
     }
    ]
@@ -19297,44 +19227,8 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0038",
-      "REF-0283",
-      "REF-0309"
-     ]
-    },
-    {
      "condition": "cognitive-function",
      "label": "Cognitive function",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0038",
-      "REF-0283",
-      "REF-0309"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0038",
-      "REF-0283",
-      "REF-0309"
-     ]
-    },
-    {
-     "condition": "insomnia",
-     "label": "Insomnia / sleeplessness",
      "evidence": 6,
      "status": "needs-review",
      "inferred": true,
@@ -19357,14 +19251,42 @@
      ]
     },
     {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 6,
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 1,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0038",
-      "REF-0283",
+      "REF-0309"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0309"
+     ]
+    },
+    {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0309"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
       "REF-0309"
      ]
     }

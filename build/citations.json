@@ -2262,9 +2262,13 @@
     "Psilocybe cubensis"
    ],
    "actions": [
-    "Sedative / sleep support"
+    "Antidepressant / mood support",
+    "Anxiolytic / calming"
    ],
-   "conditions": []
+   "conditions": [
+    "Anxiety",
+    "Low mood / depression"
+   ]
   },
   {
    "ref_id": "REF-0689",
@@ -4782,9 +4786,11 @@
     "Psilocybe cubensis"
    ],
    "actions": [
-    "Neuroprotective / cognition support"
+    "Anxiolytic / calming"
    ],
-   "conditions": []
+   "conditions": [
+    "Anxiety"
+   ]
   },
   {
    "ref_id": "REF-1347",
@@ -19800,10 +19806,7 @@
    "scientific": [
     "Psilocybe cubensis"
    ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant"
-   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -31833,18 +31836,12 @@
     "Psilocybe cubensis"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Neuroprotective / cognition support",
-    "Sedative / sleep support"
+    "Antidepressant / mood support",
+    "Anxiolytic / calming"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Cognitive function",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Memory",
-    "Skin irritation"
+    "Anxiety",
+    "Low mood / depression"
    ]
   },
   {
@@ -31873,18 +31870,10 @@
     "Psilocybe cubensis"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Neuroprotective / cognition support",
-    "Sedative / sleep support"
+    "Antidepressant / mood support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
-    "Cognitive function",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Memory",
-    "Skin irritation"
+    "Low mood / depression"
    ]
   },
   {
@@ -41022,29 +41011,10 @@
    "abstract": "Ayahuasca is a psychoactive beverage used for magico-religious purposes in the Amazon. Recently, Brazilian syncretic churches have helped spread the ritual use of ayahuasca abroad. This trend has raised concerns that regular use of this N,N-dimethyltryptamine-containing tea may lead to the medical and psychosocial problems typically associated with drugs of abuse. Here we assess potential drug abuse-related problems in regular ayahuasca users. Addiction severity was assessed using the Addiction Severity Index (ASI), and history of alcohol and illicit drug use was recorded. In Study 1, jungle-based ayahuasca users (n=56) were compared vs. rural controls (n=56). In Study 2, urban-based ayahuasca users (n=71) were compared vs. urban controls (n=59). Follow-up studies were conducted 1 year later. In both studies, ayahuasca users showed significantly lower scores than controls on the ASI Alcohol Use, and Psychiatric Status subscales. The jungle-based ayahuasca users showed a significantly higher frequency of previous illicit drug use but this had ceased at the time of examination, except for cannabis. At follow-up, abstinence from illicit drug use was maintained in both groups except for cannabis in Study 1. However, differences on ASI scores were still significant in the jungle-based group but not in the urban group. Despite continuing ayahuasca use, a time-dependent worsening was only observed in one subscale (Family/Social relationships) in Study 2. Overall, the ritual use of ayahuasca, as assessed with the ASI in currently active users, does not appear to be associated with the deleterious psychosocial effects typically caused by other drugs of abuse.",
    "tier": "traditional",
    "display": "Assessment of addiction severity among ritual users of ayahuasca",
-   "plants": [
-    "Psilocybin mushroom",
-    "Psilocybin mushrooms",
-    "golden teacher",
-    "magic mushroom"
-   ],
-   "scientific": [
-    "Psilocybe cubensis"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Neuroprotective / cognition support",
-    "Sedative / sleep support"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Cognitive function",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Memory",
-    "Skin irritation"
-   ]
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0071",
@@ -43153,29 +43123,10 @@
    "abstract": "The levels of anthocyanins and other flavonoids, as well as melatonin, in various tart cherry products (frozen and dried cherries, powders from individually quick frozen (IQF) cherry and juice concentrate) from two tart cherry cultivars, 'Montmorency' and 'Balaton' were analysed comparatively by HPLC and electrospray mass spectrometry (EMS). Our results show that the major anthocyanin compound in these two tart cherry cultivars is cyanidin 3-glucosylrutinoside, followed by cyanidin 3-rutinoside, cyanydin sophoroside, and peonidin 3-glucoside. Studies on antioxidant activities (total antioxidant status assay) of crude extracts of ten tart cherry products show that these products preserve their antioxidant capacities after processing and storage. We have also compared the antioxidant activities of several single constituents that are present in tart cherry. When TEAC (trolox equivalent antioxidant capacity) values were evaluated conceptually against the cherry phytochemical profile, cyanidin and its derivatives were found to be the significant contributors to the antioxidant systems of tart cherries. It was shown that standard compounds with common aglycon moieties show similar antioxidant activities.",
    "tier": "traditional",
    "display": "Chemical profile and antioxidant capacities of tart cherry products",
-   "plants": [
-    "Midland Hawthorn",
-    "may tree",
-    "woodland hawthorn"
-   ],
-   "scientific": [
-    "Crataegus laevigata"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antispasmodic",
-    "Sedative / sleep support"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Cardiovascular / heart health",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Menstrual cramps",
-    "Muscle spasm",
-    "Skin irritation"
-   ]
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0069",
@@ -43368,18 +43319,11 @@
     "Bacopa monnieri"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Neuroprotective / cognition support",
-    "Sedative / sleep support"
+    "Neuroprotective / cognition support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Cognitive function",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Memory",
-    "Skin irritation"
+    "Memory"
    ]
   },
   {
@@ -46223,26 +46167,10 @@
    "abstract": "The chemical composition of essential oil isolated by hydrodistillation from the aerial parts of Origanum acutidens was analyzed by GC-MS. Carvacrol (87.0%), p-cymene (2.0%), linalool acetate (1.7%), borneol (1.6%) and beta-caryophyllene (1.3%) were found to be as main constituents. Antifungal, phytotoxic and insecticidal activities of the oil and its aromatic monoterpene constituents, carvacrol, p-cymene and thymol were also determined. The antifungal assays showed that O. acutidens oil, carvacrol and thymol completely inhibited mycelial growth of 17 phytopathogenic fungi and their antifungal effects were higher than commercial fungicide, benomyl. However, p-cymene possessed lower antifungal activity. The oil, carvacrol and thymol completely inhibited the seed germination and seedling growth of Amaranthus retroflexus, Chenopodium album and Rumex crispus and also showed a potent phytotoxic effect against these plants. However, p-cymene did not show any phytotoxic effect. Furthermore, O. acutidens oil showed 68.3% and 36.7% mortality against Sitophilus granarius and Tribolium confusum adults, respectively. The findings of the present study suggest that antifungal and herbicidal properties of the oil can be attributed to its major component, carvacrol, and these agents have a potential to be used as fungicide, herbicide as well as insecticide.",
    "tier": "traditional",
    "display": "Antifungal, phytotoxic and insecticidal properties of essential oil isolated from Turkish Origanum acutidens",
-   "plants": [
-    "Hyssop",
-    "common hyssop"
-   ],
-   "scientific": [
-    "Hyssopus officinalis"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Expectorant"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bronchitis",
-    "Cough",
-    "Inflammation (general)",
-    "Respiratory support",
-    "Skin irritation"
-   ]
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0851",
@@ -49924,18 +49852,11 @@
     "Bacopa monnieri"
    ],
    "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Neuroprotective / cognition support",
-    "Sedative / sleep support"
+    "Neuroprotective / cognition support"
    ],
    "conditions": [
-    "Arthritis / joint pain",
     "Cognitive function",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Memory",
-    "Skin irritation"
+    "Memory"
    ]
   },
   {
@@ -50871,34 +50792,10 @@
    "abstract": "",
    "tier": "traditional",
    "display": "Cardiac complications and delirium associated with valerian root withdrawal",
-   "plants": [
-    "Perforate St John’s-wort",
-    "St John's wort",
-    "common St John's wort",
-    "perforate St John's wort"
-   ],
-   "scientific": [
-    "Hypericum perforatum"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Antioxidant",
-    "Antiviral",
-    "Emollient / skin-soothing",
-    "Sedative / sleep support",
-    "Vulnerary (wound healing)"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Bruising",
-    "Cold & flu",
-    "Eczema",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Skin irritation",
-    "Wounds"
-   ]
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1100",

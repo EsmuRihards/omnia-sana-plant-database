@@ -12,14 +12,10 @@ parts_used:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0038
-  - REF-0283
   - REF-0309
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0038
-  - REF-0283
   - REF-0309
   status: verified
 - action: neuroprotective
@@ -30,16 +26,12 @@ actions:
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0038
-  - REF-0283
   - REF-0309
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0038
-  - REF-0283
   - REF-0309
   status: needs-review
 - condition: cognitive-function
@@ -52,15 +44,11 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0038
-  - REF-0283
   - REF-0309
   status: needs-review
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0038
-  - REF-0283
   - REF-0309
   status: needs-review
 - condition: memory
@@ -73,8 +61,6 @@ indications:
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0038
-  - REF-0283
   - REF-0309
   status: needs-review
 contraindications:

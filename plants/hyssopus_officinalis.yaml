@@ -12,19 +12,16 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: verified
 - action: expectorant
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: verified
 indications:
@@ -32,41 +29,35 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: needs-review
 - condition: bronchitis
   note: inferred from expectorant action
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: needs-review
 - condition: cough
   note: inferred from expectorant action
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: needs-review
 - condition: respiratory-support
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: needs-review
 contraindications:
@@ -77,7 +68,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: verified
 - note: 'Duke (2002) rates hyssop as ++ and notes clinical evidence (score 2) for antiviral activity,
@@ -90,7 +80,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0072
-  - REF-0143
   - REF-0227
   status: verified
 references:

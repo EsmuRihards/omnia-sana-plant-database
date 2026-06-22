@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2244,
+ "count": 2271,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2178,7 +2178,10 @@
    "scientific": [
     "Chelidonium majus"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -3403,6 +3406,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2247",
+   "key": "arumugam2024withania",
+   "type": "article",
+   "title": "Effects of Ashwagandha (Withania somnifera) on stress and anxiety: a systematic review and meta-analysis",
+   "authors": "Arumugam, V., Vijayakumar, V., Balakrishnan, A., B Bhandari, R., Boopalan, D., Ponnurangam, R., Sankaralingam Thirupathy, V. and Kuppusamy, M.",
+   "journal": "Explore",
+   "year": "2024",
+   "doi": "10.1016/j.explore.2024.103062",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.explore.2024.103062",
+   "link_type": "doi",
+   "citation": "Arumugam, V., Vijayakumar, V., Balakrishnan, A., B Bhandari, R., Boopalan, D., Ponnurangam, R., Sankaralingam Thirupathy, V. and Kuppusamy, M (2024) 'Effects of Ashwagandha (Withania somnifera) on stress and anxiety: a systematic review and meta-analysis', Explore, 20(6), pp. 103062. doi:10.1016/j.explore.2024.103062",
+   "abstract": "This systematic review and meta-analysis found that Ashwagandha (Withania somnifera) reduced stress and anxiety, supporting the sedative use of ashwagandha.",
+   "tier": "review",
+   "display": "Effects of Ashwagandha (Withania somnifera) on stress and anxiety: a systematic review and meta-analysis",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1154",
    "key": "kazemi2024chamomile",
    "type": "article",
@@ -3491,6 +3527,39 @@
     "Melissa officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2251",
+   "key": "pandit2024withania",
+   "type": "article",
+   "title": "Effects of Withania somnifera extract in chronically stressed adults: a randomized controlled trial",
+   "authors": "Pandit, S., Srivastav, A.K., Sur, T.K., Chaudhuri, S., Wang, Y. and Biswas, T.K.",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16091293",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16091293",
+   "link_type": "doi",
+   "citation": "Pandit, S., Srivastav, A.K., Sur, T.K., Chaudhuri, S., Wang, Y. and Biswas, T.K (2024) 'Effects of Withania somnifera extract in chronically stressed adults: a randomized controlled trial', Nutrients, 16(9), pp. 1293. doi:10.3390/nu16091293",
+   "abstract": "In a randomized controlled trial, Withania somnifera extract reduced stress and cortisol in chronically stressed adults, supporting the sedative use of ashwagandha.",
+   "tier": "rct",
+   "display": "Effects of Withania somnifera extract in chronically stressed adults: a randomized controlled trial",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -6236,6 +6305,36 @@
    ]
   },
   {
+   "ref_id": "REF-2260",
+   "key": "dai2024astragalus",
+   "type": "article",
+   "title": "The protective effect and bioactive compounds of Astragalus membranaceus against neurodegenerative disorders via alleviating oxidative stress in Drosophila",
+   "authors": "Dai, Y., Wang, Y., Kang, Q., Wu, Y., Liu, Y., Su, Y., Wang, X., Xiu, M. and He, J.",
+   "journal": "FASEB Journal",
+   "year": "2024",
+   "doi": "10.1096/fj.202400390R",
+   "url": "",
+   "link": "https://doi.org/10.1096/fj.202400390R",
+   "link_type": "doi",
+   "citation": "Dai, Y., Wang, Y., Kang, Q., Wu, Y., Liu, Y., Su, Y., Wang, X., Xiu, M. and He, J (2024) 'The protective effect and bioactive compounds of Astragalus membranaceus against neurodegenerative disorders via alleviating oxidative stress in Drosophila', FASEB Journal, 38(13), pp. e23727. doi:10.1096/fj.202400390R",
+   "abstract": "Astragalus membranaceus and its bioactive compounds protected against neurodegenerative disorders by alleviating oxidative stress in a Drosophila model, supporting the antioxidant use of astragalus.",
+   "tier": "preclinical",
+   "display": "The protective effect and bioactive compounds of Astragalus membranaceus against neurodegenerative disorders via alleviating oxidative stress in Drosophila",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0739",
    "key": "xu2024astragaloside",
    "type": "article",
@@ -7678,6 +7777,36 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2257",
+   "key": "dong2023astragalus",
+   "type": "article",
+   "title": "Biosynthesis and pharmacological activities of flavonoids, triterpene saponins and polysaccharides derived from Astragalus membranaceus",
+   "authors": "Dong, M., Li, J., Yang, D., Li, M. and Wei, J.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28135018",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28135018",
+   "link_type": "doi",
+   "citation": "Dong, M., Li, J., Yang, D., Li, M. and Wei, J (2023) 'Biosynthesis and pharmacological activities of flavonoids, triterpene saponins and polysaccharides derived from Astragalus membranaceus', Molecules, 28(13), pp. 5018. doi:10.3390/molecules28135018",
+   "abstract": "This review describes the biosynthesis and immunomodulatory, antioxidant and anti-inflammatory pharmacological activities of flavonoids, triterpene saponins and polysaccharides from Astragalus membranaceus.",
+   "tier": "review",
+   "display": "Biosynthesis and pharmacological activities of flavonoids, triterpene saponins and polysaccharides derived from Astragalus membranaceus",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
    ],
    "conditions": []
   },
@@ -11223,6 +11352,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2258",
+   "key": "chen2023astragalus",
+   "type": "article",
+   "title": "Structural characterization and anti-inflammatory activity of polysaccharides from Astragalus membranaceus",
+   "authors": "Chen, G., Jiang, N., Zheng, J., Hu, H., Yang, H., Lin, A., Hu, B. and Liu, H.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2023",
+   "doi": "10.1016/j.ijbiomac.2023.124386",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2023.124386",
+   "link_type": "doi",
+   "citation": "Chen, G., Jiang, N., Zheng, J., Hu, H., Yang, H., Lin, A., Hu, B. and Liu, H (2023) 'Structural characterization and anti-inflammatory activity of polysaccharides from Astragalus membranaceus', International Journal of Biological Macromolecules, 241, pp. 124386. doi:10.1016/j.ijbiomac.2023.124386",
+   "abstract": "This study characterised the structure and anti-inflammatory activity of polysaccharides from Astragalus membranaceus, supporting the anti-inflammatory use of astragalus.",
+   "tier": "preclinical",
+   "display": "Structural characterization and anti-inflammatory activity of polysaccharides from Astragalus membranaceus",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1684",
    "key": "bouadid2023laurus",
    "type": "article",
@@ -13142,6 +13301,34 @@
     "Anti-inflammatory",
     "Antispasmodic"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2265",
+   "key": "shen2022chelidonium",
+   "type": "article",
+   "title": "Chelidonium majus induces apoptosis of human ovarian cancer cells via ATF3-mediated regulation of Foxo3a by Tip60",
+   "authors": "Shen, L., Lee, S.A., Joo, J.C., Hong, E., Cui, Z.Y., Jo, E., Park, S.J. and Jang, H.J.",
+   "journal": "Journal of Microbiology and Biotechnology",
+   "year": "2022",
+   "doi": "10.4014/jmb.2109.09030",
+   "url": "",
+   "link": "https://doi.org/10.4014/jmb.2109.09030",
+   "link_type": "doi",
+   "citation": "Shen, L., Lee, S.A., Joo, J.C., Hong, E., Cui, Z.Y., Jo, E., Park, S.J. and Jang, H.J (2022) 'Chelidonium majus induces apoptosis of human ovarian cancer cells via ATF3-mediated regulation of Foxo3a by Tip60', Journal of Microbiology and Biotechnology, 32(4), pp. 493-503. doi:10.4014/jmb.2109.09030",
+   "abstract": "Chelidonium majus (greater celandine) induced apoptosis of human ovarian cancer cells via ATF3-mediated regulation of Foxo3a, documenting an antitumour activity of greater celandine.",
+   "tier": "preclinical",
+   "display": "Chelidonium majus induces apoptosis of human ovarian cancer cells via ATF3-mediated regulation of Foxo3a by Tip60",
+   "plants": [
+    "Greater Celandine",
+    "Nipplewort",
+    "Swallowwort",
+    "Tetterwort"
+   ],
+   "scientific": [
+    "Chelidonium majus"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -16653,6 +16840,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2269",
+   "key": "musidlak2022chelidonium",
+   "type": "article",
+   "title": "The activity of Chelidonium majus L. latex and its components on HPV reveal insights into the antiviral molecular mechanism",
+   "authors": "Musidlak, O., Warowicka, A., Broniarczyk, J., Adamczyk, D., Gozdzicka-Jozefiak, A. and Nawrot, R.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2022",
+   "doi": "10.3390/ijms23169241",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms23169241",
+   "link_type": "doi",
+   "citation": "Musidlak, O., Warowicka, A., Broniarczyk, J., Adamczyk, D., Gozdzicka-Jozefiak, A. and Nawrot, R (2022) 'The activity of Chelidonium majus L. latex and its components on HPV reveal insights into the antiviral molecular mechanism', International Journal of Molecular Sciences, 23(16), pp. 9241. doi:10.3390/ijms23169241",
+   "abstract": "Chelidonium majus (greater celandine) latex and its components inhibited human papillomavirus and revealed an antiviral molecular mechanism, supporting the antimicrobial use of greater celandine.",
+   "tier": "preclinical",
+   "display": "The activity of Chelidonium majus L. latex and its components on HPV reveal insights into the antiviral molecular mechanism",
+   "plants": [
+    "Greater Celandine",
+    "Nipplewort",
+    "Swallowwort",
+    "Tetterwort"
+   ],
+   "scientific": [
+    "Chelidonium majus"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1729",
    "key": "hurth2022hops",
    "type": "article",
@@ -17597,6 +17814,39 @@
    "actions": [
     "Anti-inflammatory",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2254",
+   "key": "tiwari2021withania",
+   "type": "article",
+   "title": "A double-blind, randomized, placebo-controlled trial on the effect of Ashwagandha (Withania somnifera dunal.) root extract in improving cardiorespiratory endurance and recovery in healthy athletic adults",
+   "authors": "Tiwari, S., Gupta, S.K. and Pathak, A.K.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2021",
+   "doi": "10.1016/j.jep.2021.113929",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2021.113929",
+   "link_type": "doi",
+   "citation": "Tiwari, S., Gupta, S.K. and Pathak, A.K (2021) 'A double-blind, randomized, placebo-controlled trial on the effect of Ashwagandha (Withania somnifera dunal.) root extract in improving cardiorespiratory endurance and recovery in healthy athletic adults', Journal of Ethnopharmacology, 272, pp. 113929. doi:10.1016/j.jep.2021.113929",
+   "abstract": "In a randomized placebo-controlled trial, Ashwagandha (Withania somnifera) root extract improved cardiorespiratory endurance and recovery in healthy athletic adults, supporting the ergogenic use of ashwagandha.",
+   "tier": "rct",
+   "display": "A double-blind, randomized, placebo-controlled trial on the effect of Ashwagandha (Withania somnifera dunal.) root extract in improving cardiorespiratory endurance and recovery in healthy athletic adults",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Physical performance / ergogenic"
    ],
    "conditions": []
   },
@@ -18678,6 +18928,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2264",
+   "key": "popovic2021chelidonium",
+   "type": "article",
+   "title": "Chelidonium majus crude extract induces activation of peripheral blood mononuclear cells and enhances their cytotoxic effect toward HeLa cells",
+   "authors": "Popovic, A., Deljanin, M., Popovic, S., Todorovic, D., Djurdjevic, P., Matic, S., Stankovic, M., Avramovic, D. and Baskic, D.",
+   "journal": "International Journal of Environmental Health Research",
+   "year": "2021",
+   "doi": "10.1080/09603123.2021.1897534",
+   "url": "",
+   "link": "https://doi.org/10.1080/09603123.2021.1897534",
+   "link_type": "doi",
+   "citation": "Popovic, A., Deljanin, M., Popovic, S., Todorovic, D., Djurdjevic, P., Matic, S., Stankovic, M., Avramovic, D. and Baskic, D (2021) 'Chelidonium majus crude extract induces activation of peripheral blood mononuclear cells and enhances their cytotoxic effect toward HeLa cells', International Journal of Environmental Health Research, 32(7), pp. 1554-1566. doi:10.1080/09603123.2021.1897534",
+   "abstract": "Chelidonium majus (greater celandine) crude extract activated peripheral blood mononuclear cells and enhanced their cytotoxic effect toward HeLa cancer cells, documenting an immunomodulatory and antitumour activity of greater celandine.",
+   "tier": "preclinical",
+   "display": "Chelidonium majus crude extract induces activation of peripheral blood mononuclear cells and enhances their cytotoxic effect toward HeLa cells",
+   "plants": [
+    "Greater Celandine",
+    "Nipplewort",
+    "Swallowwort",
+    "Tetterwort"
+   ],
+   "scientific": [
+    "Chelidonium majus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0922",
    "key": "acimovic2021marrubium",
    "type": "article",
@@ -19144,6 +19422,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2245",
+   "key": "cheah2021withania",
+   "type": "article",
+   "title": "Effect of Ashwagandha (Withania somnifera) extract on sleep: a systematic review and meta-analysis",
+   "authors": "Cheah, K.L., Norhayati, M.N., Husniati Yaacob, L. and Abdul Rahman, R.",
+   "journal": "PLoS One",
+   "year": "2021",
+   "doi": "10.1371/journal.pone.0257843",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0257843",
+   "link_type": "doi",
+   "citation": "Cheah, K.L., Norhayati, M.N., Husniati Yaacob, L. and Abdul Rahman, R (2021) 'Effect of Ashwagandha (Withania somnifera) extract on sleep: a systematic review and meta-analysis', PLoS One, 16(9), pp. e0257843. doi:10.1371/journal.pone.0257843",
+   "abstract": "This systematic review and meta-analysis of five randomized controlled trials found that Ashwagandha (Withania somnifera) extract significantly improved overall sleep and anxiety, supporting the sedative use of ashwagandha.",
+   "tier": "review",
+   "display": "Effect of Ashwagandha (Withania somnifera) extract on sleep: a systematic review and meta-analysis",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0604",
    "key": "shahrahmani2021fennel",
    "type": "article",
@@ -19172,6 +19483,36 @@
     "Menstrual cramps",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2267",
+   "key": "warowicka2021chelidonium",
+   "type": "article",
+   "title": "Effect of protoberberine-rich fraction of Chelidonium majus L. on endometriosis regression",
+   "authors": "Warowicka, A., Qasem, B., Dera-Szymanowska, A., Wolun-Cholewa, M., Florczak, P., Horst, N., Napierala, M., Szymanowski, K., Popenda, L., Bartkowiak, G., Florek, E., Gozdzicka-Jozefiak, A. and Mlynarz, P.",
+   "journal": "Pharmaceutics",
+   "year": "2021",
+   "doi": "10.3390/pharmaceutics13070931",
+   "url": "",
+   "link": "https://doi.org/10.3390/pharmaceutics13070931",
+   "link_type": "doi",
+   "citation": "Warowicka, A., Qasem, B., Dera-Szymanowska, A., Wolun-Cholewa, M., Florczak, P., Horst, N., Napierala, M., Szymanowski, K., Popenda, L., Bartkowiak, G., Florek, E., Gozdzicka-Jozefiak, A. and Mlynarz, P (2021) 'Effect of protoberberine-rich fraction of Chelidonium majus L. on endometriosis regression', Pharmaceutics, 13(7), pp. 931. doi:10.3390/pharmaceutics13070931",
+   "abstract": "A protoberberine-rich fraction of Chelidonium majus (greater celandine) promoted endometriosis regression by reducing lesion growth and inflammation, supporting the anti-inflammatory use of greater celandine.",
+   "tier": "preclinical",
+   "display": "Effect of protoberberine-rich fraction of Chelidonium majus L. on endometriosis regression",
+   "plants": [
+    "Greater Celandine",
+    "Nipplewort",
+    "Swallowwort",
+    "Tetterwort"
+   ],
+   "scientific": [
+    "Chelidonium majus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1373",
@@ -19379,6 +19720,40 @@
    ],
    "actions": [
     "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2246",
+   "key": "speers2021withania",
+   "type": "article",
+   "title": "Effects of Withania somnifera (ashwagandha) on stress and the stress-related neuropsychiatric disorders anxiety, depression, and insomnia",
+   "authors": "Speers, A.B., Cabey, K.A., Soumyanath, A. and Wright, K.M.",
+   "journal": "Current Neuropharmacology",
+   "year": "2021",
+   "doi": "10.2174/1570159X19666210712151556",
+   "url": "",
+   "link": "https://doi.org/10.2174/1570159X19666210712151556",
+   "link_type": "doi",
+   "citation": "Speers, A.B., Cabey, K.A., Soumyanath, A. and Wright, K.M (2021) 'Effects of Withania somnifera (ashwagandha) on stress and the stress-related neuropsychiatric disorders anxiety, depression, and insomnia', Current Neuropharmacology, 19(9), pp. 1468-1495. doi:10.2174/1570159X19666210712151556",
+   "abstract": "This review summarises the effects of Withania somnifera (ashwagandha) on stress and stress-related neuropsychiatric disorders including anxiety, depression and insomnia, supporting the sedative and neuroprotective use of ashwagandha.",
+   "tier": "review",
+   "display": "Effects of Withania somnifera (ashwagandha) on stress and the stress-related neuropsychiatric disorders anxiety, depression, and insomnia",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support",
+    "Sedative / sleep support"
    ],
    "conditions": []
   },
@@ -23533,6 +23908,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2249",
+   "key": "paul2021withania",
+   "type": "article",
+   "title": "Withania somnifera (L.) Dunal (Ashwagandha): a comprehensive review on ethnopharmacology, pharmacotherapeutics, biomedicinal and toxicological aspects",
+   "authors": "Paul, S., Chakraborty, S., Anand, U., Dey, S., Nandy, S., Ghorai, M., Saha, S.C., Patil, M.T., Kandimalla, R. and Prockow, J.",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2021",
+   "doi": "10.1016/j.biopha.2021.112175",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2021.112175",
+   "link_type": "doi",
+   "citation": "Paul, S., Chakraborty, S., Anand, U., Dey, S., Nandy, S., Ghorai, M., Saha, S.C., Patil, M.T., Kandimalla, R. and Prockow, J (2021) 'Withania somnifera (L.) Dunal (Ashwagandha): a comprehensive review on ethnopharmacology, pharmacotherapeutics, biomedicinal and toxicological aspects', Biomedicine & Pharmacotherapy, 143, pp. 112175. doi:10.1016/j.biopha.2021.112175",
+   "abstract": "This comprehensive review of Withania somnifera (ashwagandha) covers its ethnopharmacology and pharmacotherapeutics, including anti-inflammatory, antioxidant, immunomodulatory and neuroprotective effects.",
+   "tier": "review",
+   "display": "Withania somnifera (L.) Dunal (Ashwagandha): a comprehensive review on ethnopharmacology, pharmacotherapeutics, biomedicinal and toxicological aspects",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2152",
    "key": "song2020capsicum",
    "type": "article",
@@ -24710,6 +25118,34 @@
     "Cognitive function",
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-2259",
+   "key": "zheng2020astragalus",
+   "type": "article",
+   "title": "Clinical and preclinical systematic review of Astragalus membranaceus for viral myocarditis",
+   "authors": "Zheng, Q., Zhuang, Z., Wang, Z., Deng, L., Jin, W., Huang, Z., Zheng, G. and Wang, Y.",
+   "journal": "Oxidative Medicine and Cellular Longevity",
+   "year": "2020",
+   "doi": "10.1155/2020/1560353",
+   "url": "",
+   "link": "https://doi.org/10.1155/2020/1560353",
+   "link_type": "doi",
+   "citation": "Zheng, Q., Zhuang, Z., Wang, Z., Deng, L., Jin, W., Huang, Z., Zheng, G. and Wang, Y (2020) 'Clinical and preclinical systematic review of Astragalus membranaceus for viral myocarditis', Oxidative Medicine and Cellular Longevity, 2020, pp. 1560353. doi:10.1155/2020/1560353",
+   "abstract": "This clinical and preclinical systematic review found that Astragalus membranaceus improved outcomes in viral myocarditis through antioxidant and immunomodulatory mechanisms, documenting a cardioprotective pharmacology of astragalus.",
+   "tier": "review",
+   "display": "Clinical and preclinical systematic review of Astragalus membranaceus for viral myocarditis",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1069",
@@ -27514,6 +27950,39 @@
    ]
   },
   {
+   "ref_id": "REF-2255",
+   "key": "singh2020withania",
+   "type": "article",
+   "title": "Review on anticancerous therapeutic potential of Withania somnifera (L.) Dunal",
+   "authors": "Singh, N., Yadav, S.S., Rao, A.S., Nandal, A., Kumar, S., Ganaie, S.A. and Narasihman, B.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2020",
+   "doi": "10.1016/j.jep.2020.113704",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.113704",
+   "link_type": "doi",
+   "citation": "Singh, N., Yadav, S.S., Rao, A.S., Nandal, A., Kumar, S., Ganaie, S.A. and Narasihman, B (2020) 'Review on anticancerous therapeutic potential of Withania somnifera (L.) Dunal', Journal of Ethnopharmacology, 270, pp. 113704. doi:10.1016/j.jep.2020.113704",
+   "abstract": "This review summarises the anticancerous therapeutic potential of Withania somnifera and its withanolides across multiple cancer models, supporting the anticancer use of ashwagandha.",
+   "tier": "review",
+   "display": "Review on anticancerous therapeutic potential of Withania somnifera (L.) Dunal",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0650",
    "key": "choo2020allicin",
    "type": "article",
@@ -29231,6 +29700,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2261",
+   "key": "xu2019astragalus",
+   "type": "article",
+   "title": "Adjuvant therapy with Astragalus membranaceus for post-stroke fatigue: a systematic review",
+   "authors": "Xu, L., Xu, X., Hou, X., Wang, F., Gao, S. and Zhang, H.",
+   "journal": "Metabolic Brain Disease",
+   "year": "2019",
+   "doi": "10.1007/s11011-019-00483-4",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11011-019-00483-4",
+   "link_type": "doi",
+   "citation": "Xu, L., Xu, X., Hou, X., Wang, F., Gao, S. and Zhang, H (2019) 'Adjuvant therapy with Astragalus membranaceus for post-stroke fatigue: a systematic review', Metabolic Brain Disease, 35(1), pp. 83-93. doi:10.1007/s11011-019-00483-4",
+   "abstract": "This systematic review found that adjuvant Astragalus membranaceus therapy reduced post-stroke fatigue, supporting the adaptogenic anti-fatigue use of astragalus.",
+   "tier": "review",
+   "display": "Adjuvant therapy with Astragalus membranaceus for post-stroke fatigue: a systematic review",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [
+    "Adaptogen"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2160",
    "key": "zhang2019cordyceps",
    "type": "article",
@@ -29324,6 +29823,39 @@
     "Anxiety",
     "Nervous tension"
    ]
+  },
+  {
+   "ref_id": "REF-2248",
+   "key": "lopresti2019withania",
+   "type": "article",
+   "title": "An investigation into the stress-relieving and pharmacological actions of an ashwagandha (Withania somnifera) extract: a randomized, double-blind, placebo-controlled study",
+   "authors": "Lopresti, A.L., Smith, S.J., Malvi, H. and Kodgule, R.",
+   "journal": "Medicine",
+   "year": "2019",
+   "doi": "10.1097/MD.0000000000017186",
+   "url": "",
+   "link": "https://doi.org/10.1097/MD.0000000000017186",
+   "link_type": "doi",
+   "citation": "Lopresti, A.L., Smith, S.J., Malvi, H. and Kodgule, R (2019) 'An investigation into the stress-relieving and pharmacological actions of an ashwagandha (Withania somnifera) extract: a randomized, double-blind, placebo-controlled study', Medicine, 98(37), pp. e17186. doi:10.1097/MD.0000000000017186",
+   "abstract": "In a randomized, double-blind, placebo-controlled study, ashwagandha (Withania somnifera) extract reduced stress and cortisol levels, supporting the sedative and stress-relieving use of ashwagandha.",
+   "tier": "rct",
+   "display": "An investigation into the stress-relieving and pharmacological actions of an ashwagandha (Withania somnifera) extract: a randomized, double-blind, placebo-controlled study",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1527",
@@ -31848,6 +32380,36 @@
     "Nepeta cataria"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2263",
+   "key": "liu2019astragalus",
+   "type": "article",
+   "title": "Research progress in Astragalus membranaceus and its active components on immune responses in liver fibrosis",
+   "authors": "Liu, Y. and Lv, W.",
+   "journal": "Chinese Journal of Integrative Medicine",
+   "year": "2019",
+   "doi": "10.1007/s11655-019-3039-1",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11655-019-3039-1",
+   "link_type": "doi",
+   "citation": "Liu, Y. and Lv, W (2019) 'Research progress in Astragalus membranaceus and its active components on immune responses in liver fibrosis', Chinese Journal of Integrative Medicine, 26(10), pp. 794-800. doi:10.1007/s11655-019-3039-1",
+   "abstract": "This review summarises the effects of Astragalus membranaceus and its active components on immune responses in liver fibrosis, supporting the immunomodulatory use of astragalus.",
+   "tier": "review",
+   "display": "Research progress in Astragalus membranaceus and its active components on immune responses in liver fibrosis",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -37320,7 +37882,9 @@
    "scientific": [
     "Chelidonium majus"
    ],
-   "actions": [],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -37443,6 +38007,39 @@
    "conditions": [
     "Cognitive function"
    ]
+  },
+  {
+   "ref_id": "REF-2253",
+   "key": "choudhary2017withania",
+   "type": "article",
+   "title": "Efficacy and safety of ashwagandha (Withania somnifera (L.) Dunal) root extract in improving memory and cognitive functions",
+   "authors": "Choudhary, D., Bhattacharyya, S. and Bose, S.",
+   "journal": "Journal of Dietary Supplements",
+   "year": "2017",
+   "doi": "10.1080/19390211.2017.1284970",
+   "url": "",
+   "link": "https://doi.org/10.1080/19390211.2017.1284970",
+   "link_type": "doi",
+   "citation": "Choudhary, D., Bhattacharyya, S. and Bose, S (2017) 'Efficacy and safety of ashwagandha (Withania somnifera (L.) Dunal) root extract in improving memory and cognitive functions', Journal of Dietary Supplements, 14(6), pp. 599-612. doi:10.1080/19390211.2017.1284970",
+   "abstract": "In a randomized double-blind trial, ashwagandha (Withania somnifera) root extract improved memory and cognitive functions in adults with mild cognitive impairment, supporting the neuroprotective use of ashwagandha.",
+   "tier": "rct",
+   "display": "Efficacy and safety of ashwagandha (Withania somnifera (L.) Dunal) root extract in improving memory and cognitive functions",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0473",
@@ -39970,7 +40567,10 @@
    "scientific": [
     "Astragalus membranaceus"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -40229,6 +40829,34 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2266",
+   "key": "deljanin2016chelidonium",
+   "type": "article",
+   "title": "Chelidonium majus crude extract inhibits migration and induces cell cycle arrest and apoptosis in tumor cell lines",
+   "authors": "Deljanin, M., Nikolic, M., Baskic, D., Todorovic, D., Djurdjevic, P., Zaric, M., Stankovic, M., Todorovic, M., Avramovic, D. and Popovic, S.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2016",
+   "doi": "10.1016/j.jep.2016.06.056",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2016.06.056",
+   "link_type": "doi",
+   "citation": "Deljanin, M., Nikolic, M., Baskic, D., Todorovic, D., Djurdjevic, P., Zaric, M., Stankovic, M., Todorovic, M., Avramovic, D. and Popovic, S (2016) 'Chelidonium majus crude extract inhibits migration and induces cell cycle arrest and apoptosis in tumor cell lines', Journal of Ethnopharmacology, 190, pp. 362-371. doi:10.1016/j.jep.2016.06.056",
+   "abstract": "Chelidonium majus (greater celandine) crude extract inhibited migration and induced cell cycle arrest and apoptosis in tumor cell lines, documenting an antitumour activity of greater celandine.",
+   "tier": "preclinical",
+   "display": "Chelidonium majus crude extract inhibits migration and induces cell cycle arrest and apoptosis in tumor cell lines",
+   "plants": [
+    "Greater Celandine",
+    "Nipplewort",
+    "Swallowwort",
+    "Tetterwort"
+   ],
+   "scientific": [
+    "Chelidonium majus"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -43935,6 +44563,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2252",
+   "key": "wankhede2015withania",
+   "type": "article",
+   "title": "Examining the effect of Withania somnifera supplementation on muscle strength and recovery: a randomized controlled trial",
+   "authors": "Wankhede, S., Langade, D., Joshi, K., Sinha, S.R. and Bhattacharyya, S.",
+   "journal": "Journal of the International Society of Sports Nutrition",
+   "year": "2015",
+   "doi": "10.1186/s12970-015-0104-9",
+   "url": "",
+   "link": "https://doi.org/10.1186/s12970-015-0104-9",
+   "link_type": "doi",
+   "citation": "Wankhede, S., Langade, D., Joshi, K., Sinha, S.R. and Bhattacharyya, S (2015) 'Examining the effect of Withania somnifera supplementation on muscle strength and recovery: a randomized controlled trial', Journal of the International Society of Sports Nutrition, 12, pp. 43. doi:10.1186/s12970-015-0104-9",
+   "abstract": "In a randomized controlled trial, Withania somnifera supplementation significantly increased muscle strength and recovery in resistance-training men, supporting the ergogenic use of ashwagandha.",
+   "tier": "rct",
+   "display": "Examining the effect of Withania somnifera supplementation on muscle strength and recovery: a randomized controlled trial",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Physical performance / ergogenic"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0835",
    "key": "song2015hedera",
    "type": "article",
@@ -44265,6 +44926,34 @@
    ],
    "scientific": [
     "Filipendula ulmaria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2271",
+   "key": "capistrano2015chelidonium",
+   "type": "article",
+   "title": "In vitro and in vivo investigations on the antitumour activity of Chelidonium majus",
+   "authors": "Capistrano I, R., Wouters, A., Lardon, F., Gravekamp, C., Apers, S. and Pieters, L.",
+   "journal": "Phytomedicine",
+   "year": "2015",
+   "doi": "10.1016/j.phymed.2015.10.013",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2015.10.013",
+   "link_type": "doi",
+   "citation": "Capistrano I, R., Wouters, A., Lardon, F., Gravekamp, C., Apers, S. and Pieters, L (2015) 'In vitro and in vivo investigations on the antitumour activity of Chelidonium majus', Phytomedicine, 22(14), pp. 1279-1287. doi:10.1016/j.phymed.2015.10.013",
+   "abstract": "This study investigated the in vitro and in vivo antitumour activity of Chelidonium majus (greater celandine) extracts, documenting an antitumour activity of greater celandine.",
+   "tier": "preclinical",
+   "display": "In vitro and in vivo investigations on the antitumour activity of Chelidonium majus",
+   "plants": [
+    "Greater Celandine",
+    "Nipplewort",
+    "Swallowwort",
+    "Tetterwort"
+   ],
+   "scientific": [
+    "Chelidonium majus"
    ],
    "actions": [],
    "conditions": []
@@ -44714,6 +45403,40 @@
     "Verbascum densiflorum"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2250",
+   "key": "dar2015withania",
+   "type": "article",
+   "title": "Pharmacologic overview of Withania somnifera, the Indian ginseng",
+   "authors": "Dar, N.J., Hamid, A. and Ahmad, M.",
+   "journal": "Cellular and Molecular Life Sciences",
+   "year": "2015",
+   "doi": "10.1007/s00018-015-2012-1",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00018-015-2012-1",
+   "link_type": "doi",
+   "citation": "Dar, N.J., Hamid, A. and Ahmad, M (2015) 'Pharmacologic overview of Withania somnifera, the Indian ginseng', Cellular and Molecular Life Sciences, 72(23), pp. 4445-4460. doi:10.1007/s00018-015-2012-1",
+   "abstract": "This pharmacologic overview of Withania somnifera (Indian ginseng) summarises its neuroprotective, antioxidant, anti-inflammatory and adaptogenic activities and their mechanisms.",
+   "tier": "review",
+   "display": "Pharmacologic overview of Withania somnifera, the Indian ginseng",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Neuroprotective / cognition support"
+   ],
    "conditions": []
   },
   {
@@ -47138,6 +47861,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2270",
+   "key": "zhang2014chelidonium",
+   "type": "article",
+   "title": "One new alkaloid from Chelidonium majus L.",
+   "authors": "Zhang, W., You, C., Wang, C., Fan, L., Wang, Y., Su, Y., Deng, Z. and Du, S.",
+   "journal": "Natural Product Research",
+   "year": "2014",
+   "doi": "10.1080/14786419.2014.953497",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2014.953497",
+   "link_type": "doi",
+   "citation": "Zhang, W., You, C., Wang, C., Fan, L., Wang, Y., Su, Y., Deng, Z. and Du, S (2014) 'One new alkaloid from Chelidonium majus L', Natural Product Research, 28(21), pp. 1873-1878. doi:10.1080/14786419.2014.953497",
+   "abstract": "This study isolated and characterised a new alkaloid from Chelidonium majus (greater celandine), documenting the bioactive alkaloid phytochemistry of greater celandine.",
+   "tier": "preclinical",
+   "display": "One new alkaloid from Chelidonium majus L.",
+   "plants": [
+    "Greater Celandine",
+    "Nipplewort",
+    "Swallowwort",
+    "Tetterwort"
+   ],
+   "scientific": [
+    "Chelidonium majus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1210",
    "key": "romero2014peppermint",
    "type": "article",
@@ -47318,6 +48069,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2256",
+   "key": "fu2014astragalus",
+   "type": "article",
+   "title": "Review of the botanical characteristics, phytochemistry, and pharmacology of Astragalus membranaceus (Huangqi)",
+   "authors": "Fu, J., Wang, Z., Huang, L., Zheng, S., Wang, D., Chen, S., Zhang, H. and Yang, S.",
+   "journal": "Phytotherapy Research",
+   "year": "2014",
+   "doi": "10.1002/ptr.5188",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5188",
+   "link_type": "doi",
+   "citation": "Fu, J., Wang, Z., Huang, L., Zheng, S., Wang, D., Chen, S., Zhang, H. and Yang, S (2014) 'Review of the botanical characteristics, phytochemistry, and pharmacology of Astragalus membranaceus (Huangqi)', Phytotherapy Research, 28(9), pp. 1275-1283. doi:10.1002/ptr.5188",
+   "abstract": "This review of Astragalus membranaceus (Huangqi) details its botanical characteristics, phytochemistry and immunomodulatory, antioxidant and cardioprotective pharmacology.",
+   "tier": "review",
+   "display": "Review of the botanical characteristics, phytochemistry, and pharmacology of Astragalus membranaceus (Huangqi)",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0417",
    "key": "verma2014rubus",
    "type": "misc",
@@ -47484,6 +48266,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2262",
+   "key": "jin2013astragalus",
+   "type": "article",
+   "title": "Structural features and biological activities of the polysaccharides from Astragalus membranaceus",
+   "authors": "Jin, M., Zhao, K., Huang, Q. and Shang, P.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2014",
+   "doi": "10.1016/j.ijbiomac.2013.12.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2013.12.002",
+   "link_type": "doi",
+   "citation": "Jin, M., Zhao, K., Huang, Q. and Shang, P (2014) 'Structural features and biological activities of the polysaccharides from Astragalus membranaceus', International Journal of Biological Macromolecules, 64, pp. 257-266. doi:10.1016/j.ijbiomac.2013.12.002",
+   "abstract": "This review describes the structural features and immunomodulatory, antioxidant and antiviral biological activities of the polysaccharides from Astragalus membranaceus, supporting the immunomodulatory use of astragalus.",
+   "tier": "preclinical",
+   "display": "Structural features and biological activities of the polysaccharides from Astragalus membranaceus",
+   "plants": [
+    "Astragalus",
+    "Huang qi",
+    "Milkvetch root",
+    "Mongolian milkvetch"
+   ],
+   "scientific": [
+    "Astragalus membranaceus"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-2025",
@@ -66195,6 +67007,34 @@
    "conditions": [
     "Psoriasis"
    ]
+  },
+  {
+   "ref_id": "REF-2268",
+   "key": "kadan1992chelidonium",
+   "type": "article",
+   "title": "(+)-Norchelidonine from Chelidonium majus",
+   "authors": "Kadan, G., Gozler, T. and Hesse, M.",
+   "journal": "Planta Medica",
+   "year": "1992",
+   "doi": "10.1055/s-2006-961523",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-961523",
+   "link_type": "doi",
+   "citation": "Kadan, G., Gozler, T. and Hesse, M (1992) '(+)-Norchelidonine from Chelidonium majus', Planta Medica, 58(5), pp. 477. doi:10.1055/s-2006-961523",
+   "abstract": "This study isolated and characterised the alkaloid (+)-norchelidonine from Chelidonium majus (greater celandine), documenting the bioactive isoquinoline-alkaloid phytochemistry of greater celandine.",
+   "tier": "preclinical",
+   "display": "(+)-Norchelidonine from Chelidonium majus",
+   "plants": [
+    "Greater Celandine",
+    "Nipplewort",
+    "Swallowwort",
+    "Tetterwort"
+   ],
+   "scientific": [
+    "Chelidonium majus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0343",

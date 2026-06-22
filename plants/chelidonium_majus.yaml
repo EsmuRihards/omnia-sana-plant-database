@@ -39,11 +39,16 @@ actions:
   note: Anti-inflammatory, antimicrobial and analgesic (preclinical)
   reference_ids:
   - REF-0460
+  - REF-0770
+  - REF-2267
   status: needs-review
 - action: antimicrobial
   note: Anti-inflammatory, antimicrobial and analgesic (preclinical)
   reference_ids:
   - REF-0460
+  - REF-0770
+  - REF-0772
+  - REF-2269
   status: needs-review
 - action: antispasmodic
   note: Antispasmodic / choleretic bitter for upper-abdominal and biliary dyspepsia (indigestion, bloating,
@@ -152,6 +157,15 @@ references:
 - REF-0770
 - REF-0771
 - REF-0772
+- REF-0460
+- REF-2264
+- REF-2265
+- REF-2266
+- REF-2267
+- REF-2268
+- REF-2269
+- REF-2270
+- REF-2271
 provenance: website+pubmed+symptom-tool
 status: needs-review
 last_updated: '2026-06-20'
@@ -163,4 +177,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   2024 report of two herb-induced liver injury cases plus a literature review of 38 such cases (REF-0601),
   reinforcing the serious hepatotoxicity caution. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0770, REF-0771, REF-0772.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0770, REF-0771, REF-0772.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0770,
+  REF-0460, REF-2264, REF-2265, REF-0772, REF-2266, REF-2267, REF-2268, REF-2269, REF-2270, REF-2271)
+  — woven into relevant actions/indications and the plant-level references bucket.'

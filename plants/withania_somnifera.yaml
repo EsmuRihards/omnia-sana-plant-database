@@ -24,6 +24,7 @@ actions:
   - REF-0180
   - REF-0259
   - REF-0276
+  - REF-2249
   status: verified
 - action: anticancer
   reference_ids:
@@ -35,6 +36,7 @@ actions:
   - REF-0180
   - REF-0259
   - REF-0276
+  - REF-2255
   status: verified
 - action: antidiabetic
   reference_ids:
@@ -57,6 +59,7 @@ actions:
   - REF-0180
   - REF-0259
   - REF-0276
+  - REF-2250
   status: verified
 - action: ergogenic
   note: Physical performance / strength improvement
@@ -69,6 +72,8 @@ actions:
   - REF-0180
   - REF-0259
   - REF-0276
+  - REF-2252
+  - REF-2254
   status: verified
 - action: immunomodulator
   reference_ids:
@@ -91,6 +96,9 @@ actions:
   - REF-0180
   - REF-0259
   - REF-0276
+  - REF-2246
+  - REF-2250
+  - REF-2253
   status: verified
 - action: sedative
   reference_ids:
@@ -102,6 +110,11 @@ actions:
   - REF-0180
   - REF-0259
   - REF-0276
+  - REF-2245
+  - REF-2246
+  - REF-2247
+  - REF-2248
+  - REF-2251
   status: verified
 indications:
 - condition: arthritis
@@ -293,11 +306,26 @@ contraindications:
   - REF-0259
   - REF-0276
   status: verified
-provenance: book
+references:
+- REF-2245
+- REF-2246
+- REF-2247
+- REF-2248
+- REF-2249
+- REF-2250
+- REF-2251
+- REF-2252
+- REF-2253
+- REF-2254
+- REF-2255
+provenance: book+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 11 PubMed-verified @article sources (REF-2245, REF-2246, REF-2247, REF-2248, REF-2249,
+  REF-2250, REF-2251, REF-2252, REF-2253, REF-2254, REF-2255) — woven into relevant actions/indications
+  and the plant-level references bucket.'

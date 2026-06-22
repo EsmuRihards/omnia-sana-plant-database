@@ -4995,7 +4995,8 @@
      "action": "adaptogen",
      "note": "Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)",
      "reference_ids": [
-      "REF-0402"
+      "REF-0402",
+      "REF-2261"
      ],
      "status": "verified"
     },
@@ -5003,7 +5004,9 @@
      "action": "anti-inflammatory",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0402"
+      "REF-0402",
+      "REF-0736",
+      "REF-2258"
      ],
      "status": "verified"
     },
@@ -5011,7 +5014,9 @@
      "action": "antioxidant",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0402"
+      "REF-0402",
+      "REF-2256",
+      "REF-2260"
      ],
      "status": "verified"
     },
@@ -5020,7 +5025,12 @@
      "note": "Immune support / immunomodulation (activates macrophages, NK cells, T and B lymphocytes)",
      "reference_ids": [
       "REF-0401",
-      "REF-0402"
+      "REF-0402",
+      "REF-0736",
+      "REF-2256",
+      "REF-2257",
+      "REF-2262",
+      "REF-2263"
      ],
      "status": "verified"
     },
@@ -5139,7 +5149,17 @@
    "references": [
     "REF-0739",
     "REF-0736",
-    "REF-0737"
+    "REF-0737",
+    "REF-2256",
+    "REF-0402",
+    "REF-2257",
+    "REF-2258",
+    "REF-2259",
+    "REF-2260",
+    "REF-2261",
+    "REF-0401",
+    "REF-2262",
+    "REF-2263"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -8160,7 +8180,9 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory, antimicrobial and analgesic (preclinical)",
      "reference_ids": [
-      "REF-0460"
+      "REF-0460",
+      "REF-0770",
+      "REF-2267"
      ],
      "status": "needs-review"
     },
@@ -8168,7 +8190,10 @@
      "action": "antimicrobial",
      "note": "Anti-inflammatory, antimicrobial and analgesic (preclinical)",
      "reference_ids": [
-      "REF-0460"
+      "REF-0460",
+      "REF-0770",
+      "REF-0772",
+      "REF-2269"
      ],
      "status": "needs-review"
     },
@@ -8326,7 +8351,16 @@
    "references": [
     "REF-0770",
     "REF-0771",
-    "REF-0772"
+    "REF-0772",
+    "REF-0460",
+    "REF-2264",
+    "REF-2265",
+    "REF-2266",
+    "REF-2267",
+    "REF-2268",
+    "REF-2269",
+    "REF-2270",
+    "REF-2271"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
@@ -35118,7 +35152,8 @@
       "REF-0160",
       "REF-0180",
       "REF-0259",
-      "REF-0276"
+      "REF-0276",
+      "REF-2249"
      ],
      "status": "verified"
     },
@@ -35132,7 +35167,8 @@
       "REF-0160",
       "REF-0180",
       "REF-0259",
-      "REF-0276"
+      "REF-0276",
+      "REF-2255"
      ],
      "status": "verified"
     },
@@ -35160,7 +35196,8 @@
       "REF-0160",
       "REF-0180",
       "REF-0259",
-      "REF-0276"
+      "REF-0276",
+      "REF-2250"
      ],
      "status": "verified"
     },
@@ -35175,7 +35212,9 @@
       "REF-0160",
       "REF-0180",
       "REF-0259",
-      "REF-0276"
+      "REF-0276",
+      "REF-2252",
+      "REF-2254"
      ],
      "status": "verified"
     },
@@ -35203,7 +35242,10 @@
       "REF-0160",
       "REF-0180",
       "REF-0259",
-      "REF-0276"
+      "REF-0276",
+      "REF-2246",
+      "REF-2250",
+      "REF-2253"
      ],
      "status": "verified"
     },
@@ -35217,7 +35259,12 @@
       "REF-0160",
       "REF-0180",
       "REF-0259",
-      "REF-0276"
+      "REF-0276",
+      "REF-2245",
+      "REF-2246",
+      "REF-2247",
+      "REF-2248",
+      "REF-2251"
      ],
      "status": "verified"
     }
@@ -35449,9 +35496,22 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-2245",
+    "REF-2246",
+    "REF-2247",
+    "REF-2248",
+    "REF-2249",
+    "REF-2250",
+    "REF-2251",
+    "REF-2252",
+    "REF-2253",
+    "REF-2254",
+    "REF-2255"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "zea-mays",

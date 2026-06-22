@@ -12177,7 +12177,9 @@
      "reference_ids": [
       "REF-0224",
       "REF-0256",
-      "REF-0309"
+      "REF-0309",
+      "REF-2022",
+      "REF-2023"
      ],
      "status": "verified"
     },
@@ -12204,7 +12206,15 @@
      "reference_ids": [
       "REF-0224",
       "REF-0256",
-      "REF-0309"
+      "REF-0309",
+      "REF-0810",
+      "REF-2023",
+      "REF-0809",
+      "REF-2024",
+      "REF-2025",
+      "REF-2026",
+      "REF-2028",
+      "REF-2029"
      ],
      "status": "verified"
     },
@@ -12213,7 +12223,11 @@
      "reference_ids": [
       "REF-0224",
       "REF-0256",
-      "REF-0309"
+      "REF-0309",
+      "REF-2023",
+      "REF-0809",
+      "REF-2025",
+      "REF-2027"
      ],
      "status": "verified"
     },
@@ -12222,7 +12236,8 @@
      "reference_ids": [
       "REF-0224",
       "REF-0256",
-      "REF-0309"
+      "REF-0309",
+      "REF-0811"
      ],
      "status": "verified"
     }
@@ -12332,7 +12347,15 @@
    "references": [
     "REF-0809",
     "REF-0810",
-    "REF-0811"
+    "REF-0811",
+    "REF-2022",
+    "REF-2023",
+    "REF-2024",
+    "REF-2025",
+    "REF-2026",
+    "REF-2027",
+    "REF-2028",
+    "REF-2029"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -12551,7 +12574,8 @@
      "reference_ids": [
       "REF-0033",
       "REF-0062",
-      "REF-0098"
+      "REF-0098",
+      "REF-2031"
      ],
      "status": "verified"
     },
@@ -12560,7 +12584,11 @@
      "reference_ids": [
       "REF-0033",
       "REF-0062",
-      "REF-0098"
+      "REF-0098",
+      "REF-2030",
+      "REF-2031",
+      "REF-0815",
+      "REF-0817"
      ],
      "status": "verified"
     },
@@ -12578,7 +12606,10 @@
      "reference_ids": [
       "REF-0033",
       "REF-0062",
-      "REF-0098"
+      "REF-0098",
+      "REF-0815",
+      "REF-2032",
+      "REF-2033"
      ],
      "status": "verified"
     },
@@ -12597,7 +12628,9 @@
      "reference_ids": [
       "REF-0033",
       "REF-0062",
-      "REF-0098"
+      "REF-0098",
+      "REF-2035",
+      "REF-2037"
      ],
      "status": "verified"
     },
@@ -12606,7 +12639,8 @@
      "reference_ids": [
       "REF-0033",
       "REF-0062",
-      "REF-0098"
+      "REF-0098",
+      "REF-0815"
      ],
      "status": "verified"
     }
@@ -12787,7 +12821,16 @@
    "references": [
     "REF-0815",
     "REF-0816",
-    "REF-0817"
+    "REF-0817",
+    "REF-2030",
+    "REF-2031",
+    "REF-2032",
+    "REF-2033",
+    "REF-2034",
+    "REF-2035",
+    "REF-2036",
+    "REF-2037",
+    "REF-2038"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -13257,7 +13300,9 @@
      "reference_ids": [
       "REF-0019",
       "REF-0125",
-      "REF-0298"
+      "REF-0298",
+      "REF-0822",
+      "REF-2041"
      ],
      "status": "verified"
     },
@@ -13266,7 +13311,11 @@
      "reference_ids": [
       "REF-0019",
       "REF-0125",
-      "REF-0298"
+      "REF-0298",
+      "REF-2039",
+      "REF-2044",
+      "REF-2045",
+      "REF-2048"
      ],
      "status": "verified"
     },
@@ -13275,7 +13324,9 @@
      "reference_ids": [
       "REF-0019",
       "REF-0125",
-      "REF-0298"
+      "REF-0298",
+      "REF-2040",
+      "REF-2044"
      ],
      "status": "verified"
     },
@@ -13284,7 +13335,9 @@
      "reference_ids": [
       "REF-0019",
       "REF-0125",
-      "REF-0298"
+      "REF-0298",
+      "REF-2040",
+      "REF-2042"
      ],
      "status": "verified"
     },
@@ -13293,7 +13346,8 @@
      "reference_ids": [
       "REF-0019",
       "REF-0125",
-      "REF-0298"
+      "REF-0298",
+      "REF-2041"
      ],
      "status": "verified"
     },
@@ -13302,7 +13356,12 @@
      "reference_ids": [
       "REF-0019",
       "REF-0125",
-      "REF-0298"
+      "REF-0298",
+      "REF-2039",
+      "REF-2040",
+      "REF-2043",
+      "REF-2045",
+      "REF-2047"
      ],
      "status": "verified"
     },
@@ -13441,7 +13500,17 @@
    "references": [
     "REF-0821",
     "REF-0822",
-    "REF-0823"
+    "REF-0823",
+    "REF-2039",
+    "REF-2040",
+    "REF-2041",
+    "REF-2042",
+    "REF-2043",
+    "REF-2044",
+    "REF-2045",
+    "REF-2046",
+    "REF-2047",
+    "REF-2048"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

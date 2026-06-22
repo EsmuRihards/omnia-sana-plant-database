@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2021,
+ "count": 2048,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2502,6 +2502,37 @@
     "Astragalus membranaceus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2044",
+   "key": "wu2024ganoderma",
+   "type": "article",
+   "title": "Bioactivities and industrial standardization status of Ganoderma lucidum: A comprehensive review",
+   "authors": "Wu, P., Zhang, C., Yin, Y., Zhang, X., Li, Q., Yuan, L., Sun, Y., Zhou, S., Ying, S. and Wu, J.",
+   "journal": "Heliyon",
+   "year": "2024",
+   "doi": "10.1016/j.heliyon.2024.e36987",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.heliyon.2024.e36987",
+   "link_type": "doi",
+   "citation": "Wu, P., Zhang, C., Yin, Y., Zhang, X., Li, Q., Yuan, L., Sun, Y., Zhou, S., Ying, S. and Wu, J (2024) 'Bioactivities and industrial standardization status of Ganoderma lucidum: A comprehensive review', Heliyon, 10(19), pp. e36987. doi:10.1016/j.heliyon.2024.e36987",
+   "abstract": "This comprehensive review summarises the anticancer, antidiabetic, liver-protective, antioxidant, antimicrobial, anti-inflammatory and immune-regulating effects of Ganoderma lucidum (reishi/lingzhi) polysaccharides and triterpenes.",
+   "tier": "review",
+   "display": "Bioactivities and industrial standardization status of Ganoderma lucidum: A comprehensive review",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Antidiabetic (blood-sugar lowering)"
+   ],
    "conditions": []
   },
   {
@@ -6221,6 +6252,36 @@
    ]
   },
   {
+   "ref_id": "REF-2022",
+   "key": "arooj2023eucalyptus",
+   "type": "article",
+   "title": "Anti-inflammatory mechanisms of eucalyptol rich Eucalyptus globulus essential oil alone and in combination with flurbiprofen",
+   "authors": "Arooj, B., Asghar, S., Saleem, M., Khalid, S.H., Asif, M., Chohan, T., Khan, I.U., Zubair, H.M. and Yaseen, H.S.",
+   "journal": "Inflammopharmacology",
+   "year": "2023",
+   "doi": "10.1007/s10787-023-01237-6",
+   "url": "",
+   "link": "https://doi.org/10.1007/s10787-023-01237-6",
+   "link_type": "doi",
+   "citation": "Arooj, B., Asghar, S., Saleem, M., Khalid, S.H., Asif, M., Chohan, T., Khan, I.U., Zubair, H.M. and Yaseen, H.S (2023) 'Anti-inflammatory mechanisms of eucalyptol rich Eucalyptus globulus essential oil alone and in combination with flurbiprofen', Inflammopharmacology, 31(4), pp. 1849-1862. doi:10.1007/s10787-023-01237-6",
+   "abstract": "Eucalyptol-rich Eucalyptus globulus essential oil showed anti-inflammatory, analgesic and antipyretic activity in acute and chronic in-vivo models and acted synergistically with flurbiprofen, supporting the anti-inflammatory use of blue gum.",
+   "tier": "preclinical",
+   "display": "Anti-inflammatory mechanisms of eucalyptol rich Eucalyptus globulus essential oil alone and in combination with flurbiprofen",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1393",
    "key": "jang2023dill",
    "type": "article",
@@ -6370,6 +6431,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2029",
+   "key": "nguyen2023eucalyptus",
+   "type": "article",
+   "title": "Antibacterial effects of essential oils from Cinnamomum cassia bark and Eucalyptus globulus leaves - the involvements of major constituents",
+   "authors": "Nguyen, H.T.T., Miyamoto, A., Nguyen, H.T., Pham, H.T., Hoang, H.T., Tong, N.T.M., Truong, L.T.N. and Nguyen, H.T.T.",
+   "journal": "PLoS One",
+   "year": "2023",
+   "doi": "10.1371/journal.pone.0288787",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0288787",
+   "link_type": "doi",
+   "citation": "Nguyen, H.T.T., Miyamoto, A., Nguyen, H.T., Pham, H.T., Hoang, H.T., Tong, N.T.M., Truong, L.T.N. and Nguyen, H.T.T (2023) 'Antibacterial effects of essential oils from Cinnamomum cassia bark and Eucalyptus globulus leaves - the involvements of major constituents', PLoS One, 18(7), pp. e0288787. doi:10.1371/journal.pone.0288787",
+   "abstract": "Essential oil from Eucalyptus globulus leaves (1,8-cineole-rich), alone and with Cinnamomum cassia bark oil, showed antibacterial effects, supporting the antimicrobial use of blue gum.",
+   "tier": "preclinical",
+   "display": "Antibacterial effects of essential oils from Cinnamomum cassia bark and Eucalyptus globulus leaves - the involvements of major constituents",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1298",
    "key": "roman2023tansy",
    "type": "article",
@@ -6425,7 +6516,9 @@
    "scientific": [
     "Eucalyptus globulus"
    ],
-   "actions": [],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -7017,7 +7110,10 @@
    "scientific": [
     "Eucalyptus globulus"
    ],
-   "actions": [],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -8573,7 +8669,9 @@
    "scientific": [
     "Filipendula ulmaria"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -9580,6 +9678,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2035",
+   "key": "pannakal2023filipendula",
+   "type": "article",
+   "title": "Rapid Chemical Profiling of Filipendula ulmaria Using CPC Fractionation, 2-D Mapping of 13C NMR Data, and High-Resolution LC-MS",
+   "authors": "Pannakal, S.T., Eilstein, J., Hubert, J., Kotland, A., Prasad, A., Gueguiniat-Prevot, A., Juchaux, F., Beaumard, F., Seru, G., John, S. and Roy, D.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28176349",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28176349",
+   "link_type": "doi",
+   "citation": "Pannakal, S.T., Eilstein, J., Hubert, J., Kotland, A., Prasad, A., Gueguiniat-Prevot, A., Juchaux, F., Beaumard, F., Seru, G., John, S. and Roy, D (2023) 'Rapid Chemical Profiling of Filipendula ulmaria Using CPC Fractionation, 2-D Mapping of 13C NMR Data, and High-Resolution LC-MS', Molecules, 28(17), pp. 6349. doi:10.3390/molecules28176349",
+   "abstract": "This work rapidly profiled the salicylic-acid derivatives and flavonol glycosides of Filipendula ulmaria (meadowsweet), the constituents associated with its antirheumatic and diuretic properties.",
+   "tier": "preclinical",
+   "display": "Rapid Chemical Profiling of Filipendula ulmaria Using CPC Fractionation, 2-D Mapping of 13C NMR Data, and High-Resolution LC-MS",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [
+    "Diuretic"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1529",
    "key": "tinsley2023rhodiola",
    "type": "article",
@@ -10554,6 +10681,37 @@
     "Saponaria officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2041",
+   "key": "liu2022ganoderma",
+   "type": "article",
+   "title": "A novel promising neuroprotective agent: Ganoderma lucidum polysaccharide",
+   "authors": "Liu, X., Yang, L., Li, G., Jiang, Y., Zhang, G. and Ling, J.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2022",
+   "doi": "10.1016/j.ijbiomac.2022.12.276",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2022.12.276",
+   "link_type": "doi",
+   "citation": "Liu, X., Yang, L., Li, G., Jiang, Y., Zhang, G. and Ling, J (2022) 'A novel promising neuroprotective agent: Ganoderma lucidum polysaccharide', International Journal of Biological Macromolecules, 229, pp. 168-180. doi:10.1016/j.ijbiomac.2022.12.276",
+   "abstract": "This review summarises Ganoderma lucidum (reishi/lingzhi) polysaccharide as a neuroprotective agent for nervous-system diseases, with liver-protective, immune-regulating, antioxidant, anticancer and antiviral actions.",
+   "tier": "review",
+   "display": "A novel promising neuroprotective agent: Ganoderma lucidum polysaccharide",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antiviral"
+   ],
    "conditions": []
   },
   {
@@ -12209,7 +12367,9 @@
    "scientific": [
     "Eucalyptus globulus"
    ],
-   "actions": [],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -14437,6 +14597,38 @@
     "Cnicus benedictus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2023",
+   "key": "assaggaf2022eucalyptus",
+   "type": "article",
+   "title": "Singular and Combined Effects of Essential Oil and Honey of Eucalyptus globulus on Anti-Inflammatory, Antioxidant, Dermatoprotective, and Antimicrobial Properties: In Vitro and In Vivo Findings",
+   "authors": "Assaggaf, H.M., Naceiri Mrabti, H., Rajab, B.S., Attar, A.A., Hamed, M., Sheikh, R.A., Omari, N.E., Menyiy, N.E., Belmehdi, O., Mahmud, S., Alshahrani, M.M., Park, M.N., Kim, B., Zengin, G. and Bouyahya, A.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27165121",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27165121",
+   "link_type": "doi",
+   "citation": "Assaggaf, H.M., Naceiri Mrabti, H., Rajab, B.S., Attar, A.A., Hamed, M., Sheikh, R.A., Omari, N.E., Menyiy, N.E., Belmehdi, O., Mahmud, S., Alshahrani, M.M., Park, M.N., Kim, B., Zengin, G. and Bouyahya, A (2022) 'Singular and Combined Effects of Essential Oil and Honey of Eucalyptus globulus on Anti-Inflammatory, Antioxidant, Dermatoprotective, and Antimicrobial Properties: In Vitro and In Vivo Findings', Molecules, 27(16), pp. 5121. doi:10.3390/molecules27165121",
+   "abstract": "Essential oil and honey of Eucalyptus globulus showed anti-inflammatory, antioxidant, dermatoprotective and antimicrobial activities in vitro and in vivo, supporting the multiple medicinal uses of blue gum.",
+   "tier": "preclinical",
+   "display": "Singular and Combined Effects of Essential Oil and Honey of Eucalyptus globulus on Anti-Inflammatory, Antioxidant, Dermatoprotective, and Antimicrobial Properties: In Vitro and In Vivo Findings",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -17555,6 +17747,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2037",
+   "key": "popowski2021filipendula",
+   "type": "article",
+   "title": "Gut Microbiota of Pigs Metabolizes Extracts of Filipendula ulmaria and Orthosiphon aristatus - Herbal Remedies Used in Urinary Tract Disorders",
+   "authors": "Popowski, D., Zentek, J., Piwowarski, J.P. and Granica, S.",
+   "journal": "Planta Medica",
+   "year": "2021",
+   "doi": "10.1055/a-1647-2866",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-1647-2866",
+   "link_type": "doi",
+   "citation": "Popowski, D., Zentek, J., Piwowarski, J.P. and Granica, S (2021) 'Gut Microbiota of Pigs Metabolizes Extracts of Filipendula ulmaria and Orthosiphon aristatus - Herbal Remedies Used in Urinary Tract Disorders', Planta Medica, 88(3-04), pp. 254-261. doi:10.1055/a-1647-2866",
+   "abstract": "This study examined gut-microbial metabolism of Filipendula ulmaria extracts, a traditional remedy for urinary tract disorders, characterising the metabolites underlying the diuretic urinary use of meadowsweet.",
+   "tier": "preclinical",
+   "display": "Gut Microbiota of Pigs Metabolizes Extracts of Filipendula ulmaria and Orthosiphon aristatus - Herbal Remedies Used in Urinary Tract Disorders",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [
+    "Diuretic"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1251",
    "key": "oczkowski2021blackcurrant",
    "type": "article",
@@ -17580,6 +17801,38 @@
    ],
    "actions": [
     "Anti-inflammatory",
+    "Antioxidant",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2040",
+   "key": "seweryn2021ganoderma",
+   "type": "article",
+   "title": "Health-Promoting of Polysaccharides Extracted from Ganoderma lucidum",
+   "authors": "Seweryn, E., Ziala, A. and Gamian, A.",
+   "journal": "Nutrients",
+   "year": "2021",
+   "doi": "10.3390/nu13082725",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu13082725",
+   "link_type": "doi",
+   "citation": "Seweryn, E., Ziala, A. and Gamian, A (2021) 'Health-Promoting of Polysaccharides Extracted from Ganoderma lucidum', Nutrients, 13(8), pp. 2725. doi:10.3390/nu13082725",
+   "abstract": "This review summarises the antioxidant, immunomodulatory, antineurodegenerative and antidiabetic activities of Ganoderma lucidum (reishi/lingzhi) polysaccharides.",
+   "tier": "review",
+   "display": "Health-Promoting of Polysaccharides Extracted from Ganoderma lucidum",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)",
     "Antioxidant",
     "Immunomodulator / immune support"
    ],
@@ -20769,6 +21022,35 @@
     "Prunus serotina"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2033",
+   "key": "arsenijevic2021filipendula",
+   "type": "article",
+   "title": "Variable neuroprotective role of Filipendula ulmaria extract in rat hippocampus",
+   "authors": "Arsenijevic, N., Selakovic, D., Katanic Stankovic, J.S., Mihailovic, V., Mitrovic, S., Milenkovic, J., Milanovic, P., Vasovic, M., Nikezic, A., Milosevic-Djordjevic, O., Zivanovic, M., Filipovic, N., Jakovljevic, V., Jovicic, N. and Rosic, G.",
+   "journal": "Journal of Integrative Neuroscience",
+   "year": "2021",
+   "doi": "10.31083/j.jin2004089",
+   "url": "",
+   "link": "https://doi.org/10.31083/j.jin2004089",
+   "link_type": "doi",
+   "citation": "Arsenijevic, N., Selakovic, D., Katanic Stankovic, J.S., Mihailovic, V., Mitrovic, S., Milenkovic, J., Milanovic, P., Vasovic, M., Nikezic, A., Milosevic-Djordjevic, O., Zivanovic, M., Filipovic, N., Jakovljevic, V., Jovicic, N. and Rosic, G (2021) 'Variable neuroprotective role of Filipendula ulmaria extract in rat hippocampus', Journal of Integrative Neuroscience, 20(4), pp. 871-883. doi:10.31083/j.jin2004089",
+   "abstract": "An antioxidant-rich extract of Filipendula ulmaria modulated anxiety and oxidative status in the rat hippocampus, indicating a neuroprotective antioxidant role of meadowsweet.",
+   "tier": "preclinical",
+   "display": "Variable neuroprotective role of Filipendula ulmaria extract in rat hippocampus",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -27083,6 +27365,36 @@
    ]
   },
   {
+   "ref_id": "REF-2027",
+   "key": "mousa2019eucalyptus",
+   "type": "article",
+   "title": "Eucalyptus Globulus protects against diclofenac sodium induced hepatorenal and testicular toxicity in male rats",
+   "authors": "Mousa, A.A., Elweza, A.E., Elbaz, H.T., Tahoun, E.A.E., Shoghy, K.M., Elsayed, I. and Hassan, E.B.",
+   "journal": "Journal of Traditional and Complementary Medicine",
+   "year": "2019",
+   "doi": "10.1016/j.jtcme.2019.11.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jtcme.2019.11.002",
+   "link_type": "doi",
+   "citation": "Mousa, A.A., Elweza, A.E., Elbaz, H.T., Tahoun, E.A.E., Shoghy, K.M., Elsayed, I. and Hassan, E.B (2019) 'Eucalyptus Globulus protects against diclofenac sodium induced hepatorenal and testicular toxicity in male rats', Journal of Traditional and Complementary Medicine, 10(6), pp. 521-528. doi:10.1016/j.jtcme.2019.11.002",
+   "abstract": "Eucalyptus globulus leaf methanolic extract protected against diclofenac-sodium-induced hepatorenal and testicular toxicity in rats, an effect attributed to its antioxidant activity.",
+   "tier": "preclinical",
+   "display": "Eucalyptus Globulus protects against diclofenac sodium induced hepatorenal and testicular toxicity in male rats",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1594",
    "key": "haga2019bilberry",
    "type": "article",
@@ -27138,6 +27450,36 @@
     "Foeniculum vulgare"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2043",
+   "key": "zeng2019ganoderma",
+   "type": "article",
+   "title": "Ganoderma lucidum polysaccharide used for treating physical frailty in China",
+   "authors": "Zeng, P., Chen, Y., Zhang, L. and Xing, M.",
+   "journal": "Progress in Molecular Biology and Translational Science",
+   "year": "2019",
+   "doi": "10.1016/bs.pmbts.2019.02.009",
+   "url": "",
+   "link": "https://doi.org/10.1016/bs.pmbts.2019.02.009",
+   "link_type": "doi",
+   "citation": "Zeng, P., Chen, Y., Zhang, L. and Xing, M (2019) 'Ganoderma lucidum polysaccharide used for treating physical frailty in China', Progress in Molecular Biology and Translational Science, 163, pp. 179-219. doi:10.1016/bs.pmbts.2019.02.009",
+   "abstract": "This review covers over 40 years of clinical use of Ganoderma lucidum (lingzhi) polysaccharide in China for neurosis, myopathy and as adjunct cancer-chemotherapy support, summarising its antioxidant, antitumour, immunomodulatory and hypoglycemic mechanisms.",
+   "tier": "review",
+   "display": "Ganoderma lucidum polysaccharide used for treating physical frailty in China",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -28137,6 +28479,34 @@
    ],
    "scientific": [
     "Scrophularia nodosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2046",
+   "key": "geng2019ganoderma",
+   "type": "article",
+   "title": "Preventive and therapeutic effect of Ganoderma lucidum on kidney injuries and diseases",
+   "authors": "Geng, X., Zhong, D., Su, L., Lin, Z. and Yang, B.",
+   "journal": "Advances in Pharmacology",
+   "year": "2019",
+   "doi": "10.1016/bs.apha.2019.10.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/bs.apha.2019.10.003",
+   "link_type": "doi",
+   "citation": "Geng, X., Zhong, D., Su, L., Lin, Z. and Yang, B (2019) 'Preventive and therapeutic effect of Ganoderma lucidum on kidney injuries and diseases', Advances in Pharmacology, 87, pp. 257-276. doi:10.1016/bs.apha.2019.10.003",
+   "abstract": "This review summarises experimental and clinical evidence for the renoprotective effects of Ganoderma lucidum (reishi/lingzhi) and its triterpenes and polysaccharides in acute kidney injury and chronic kidney disease, via antioxidant and anti-inflammatory actions.",
+   "tier": "review",
+   "display": "Preventive and therapeutic effect of Ganoderma lucidum on kidney injuries and diseases",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
    ],
    "actions": [],
    "conditions": []
@@ -29427,6 +29797,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2026",
+   "key": "merghni2018eucalyptus",
+   "type": "article",
+   "title": "Assessment of the antibiofilm and antiquorum sensing activities of Eucalyptus globulus essential oil and its main component 1,8-cineole against methicillin-resistant Staphylococcus aureus strains",
+   "authors": "Merghni, A., Noumi, E., Hadded, O., Dridi, N., Panwar, H., Ceylan, O., Mastouri, M. and Snoussi, M.",
+   "journal": "Microbial Pathogenesis",
+   "year": "2018",
+   "doi": "10.1016/j.micpath.2018.03.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.micpath.2018.03.006",
+   "link_type": "doi",
+   "citation": "Merghni, A., Noumi, E., Hadded, O., Dridi, N., Panwar, H., Ceylan, O., Mastouri, M. and Snoussi, M (2018) 'Assessment of the antibiofilm and antiquorum sensing activities of Eucalyptus globulus essential oil and its main component 1,8-cineole against methicillin-resistant Staphylococcus aureus strains', Microbial Pathogenesis, 118, pp. 74-80. doi:10.1016/j.micpath.2018.03.006",
+   "abstract": "Eucalyptus globulus essential oil and its main component 1,8-cineole showed antibiofilm and anti-quorum-sensing activity against methicillin-resistant Staphylococcus aureus, supporting the antimicrobial use of blue gum.",
+   "tier": "preclinical",
+   "display": "Assessment of the antibiofilm and antiquorum sensing activities of Eucalyptus globulus essential oil and its main component 1,8-cineole against methicillin-resistant Staphylococcus aureus strains",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0898",
    "key": "mishra2018rumex",
    "type": "article",
@@ -30682,6 +31082,37 @@
    "conditions": [
     "Cardiovascular / heart health"
    ]
+  },
+  {
+   "ref_id": "REF-2039",
+   "key": "sohretoglu2018ganoderma",
+   "type": "article",
+   "title": "Ganoderma lucidum Polysaccharides as An Anti-cancer Agent",
+   "authors": "Sohretoglu, D. and Huang, S.",
+   "journal": "Anti-Cancer Agents in Medicinal Chemistry",
+   "year": "2018",
+   "doi": "10.2174/1871520617666171113121246",
+   "url": "",
+   "link": "https://doi.org/10.2174/1871520617666171113121246",
+   "link_type": "doi",
+   "citation": "Sohretoglu, D. and Huang, S (2018) 'Ganoderma lucidum Polysaccharides as An Anti-cancer Agent', Anti-Cancer Agents in Medicinal Chemistry, 18(5), pp. 667-674. doi:10.2174/1871520617666171113121246",
+   "abstract": "This review summarises the anticancer activity of Ganoderma lucidum (reishi/lingzhi) polysaccharides through immunomodulatory, anti-proliferative, pro-apoptotic, anti-metastatic and anti-angiogenic effects.",
+   "tier": "review",
+   "display": "Ganoderma lucidum Polysaccharides as An Anti-cancer Agent",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0837",
@@ -32532,7 +32963,11 @@
    "scientific": [
     "Filipendula ulmaria"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant",
+    "Gastroprotective"
+   ],
    "conditions": []
   },
   {
@@ -34266,7 +34701,9 @@
    "scientific": [
     "Ganoderma lingzhi"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -35488,6 +35925,36 @@
    ]
   },
   {
+   "ref_id": "REF-2031",
+   "key": "samardzic2016filipendula",
+   "type": "article",
+   "title": "Antihyperalgesic activity of Filipendula ulmaria (L.) Maxim. and Filipendula vulgaris Moench in a rat model of inflammation",
+   "authors": "Samardzic, S., Tomic, M., Pecikoza, U., Stepanovic-Petrovic, R. and Maksimovic, Z.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2016",
+   "doi": "10.1016/j.jep.2016.10.024",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2016.10.024",
+   "link_type": "doi",
+   "citation": "Samardzic, S., Tomic, M., Pecikoza, U., Stepanovic-Petrovic, R. and Maksimovic, Z (2016) 'Antihyperalgesic activity of Filipendula ulmaria (L.) Maxim. and Filipendula vulgaris Moench in a rat model of inflammation', Journal of Ethnopharmacology, 193, pp. 652-656. doi:10.1016/j.jep.2016.10.024",
+   "abstract": "Filipendula ulmaria (meadowsweet) flower extract showed antihyperalgesic activity in a rat model of inflammation, validating the traditional use of meadowsweet for inflammatory pain.",
+   "tier": "preclinical",
+   "display": "Antihyperalgesic activity of Filipendula ulmaria (L.) Maxim. and Filipendula vulgaris Moench in a rat model of inflammation",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2006",
    "key": "boskabady2016saffron",
    "type": "article",
@@ -36388,6 +36855,35 @@
    ]
   },
   {
+   "ref_id": "REF-2032",
+   "key": "katanic2016afilipendula",
+   "type": "article",
+   "title": "Filipendula ulmaria extracts attenuate cisplatin-induced liver and kidney oxidative stress in rats: In vivo investigation and LC-MS analysis",
+   "authors": "Katanic, J., Matic, S., Pferschy-Wenzig, E., Kretschmer, N., Boroja, T., Mihailovic, V., Stankovic, V., Stankovic, N., Mladenovic, M., Stanic, S., Mihailovic, M. and Bauer, R.",
+   "journal": "Food and Chemical Toxicology",
+   "year": "2016",
+   "doi": "10.1016/j.fct.2016.11.018",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fct.2016.11.018",
+   "link_type": "doi",
+   "citation": "Katanic, J., Matic, S., Pferschy-Wenzig, E., Kretschmer, N., Boroja, T., Mihailovic, V., Stankovic, V., Stankovic, N., Mladenovic, M., Stanic, S., Mihailovic, M. and Bauer, R (2016) 'Filipendula ulmaria extracts attenuate cisplatin-induced liver and kidney oxidative stress in rats: In vivo investigation and LC-MS analysis', Food and Chemical Toxicology, 99, pp. 86-102. doi:10.1016/j.fct.2016.11.018",
+   "abstract": "Filipendula ulmaria extracts attenuated cisplatin-induced liver and kidney oxidative stress in rats, supporting the antioxidant use of meadowsweet.",
+   "tier": "preclinical",
+   "display": "Filipendula ulmaria extracts attenuate cisplatin-induced liver and kidney oxidative stress in rats: In vivo investigation and LC-MS analysis",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0204",
    "key": "ried2016garlic",
    "type": "article",
@@ -36519,6 +37015,35 @@
     "Humulus lupulus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2030",
+   "key": "katanic2016bfilipendula",
+   "type": "article",
+   "title": "In vitro and in vivo assessment of meadowsweet (Filipendula ulmaria) as anti-inflammatory agent",
+   "authors": "Katanic, J., Boroja, T., Mihailovic, V., Nikles, S., Pan, S., Rosic, G., Selakovic, D., Joksimovic, J., Mitrovic, S. and Bauer, R.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2016",
+   "doi": "10.1016/j.jep.2016.10.015",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2016.10.015",
+   "link_type": "doi",
+   "citation": "Katanic, J., Boroja, T., Mihailovic, V., Nikles, S., Pan, S., Rosic, G., Selakovic, D., Joksimovic, J., Mitrovic, S. and Bauer, R (2016) 'In vitro and in vivo assessment of meadowsweet (Filipendula ulmaria) as anti-inflammatory agent', Journal of Ethnopharmacology, 193, pp. 627-636. doi:10.1016/j.jep.2016.10.015",
+   "abstract": "Meadowsweet (Filipendula ulmaria) extract showed anti-inflammatory activity in vitro and in vivo, providing scientific evidence for its traditional antipyretic, analgesic and antirheumatic use.",
+   "tier": "preclinical",
+   "display": "In vitro and in vivo assessment of meadowsweet (Filipendula ulmaria) as anti-inflammatory agent",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -37850,6 +38375,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2038",
+   "key": "bespalov2016filipendula",
+   "type": "article",
+   "title": "The inhibitory effect of meadowsweet (Filipendula ulmaria) on radiation-induced carcinogenesis in rats",
+   "authors": "Bespalov, V.G., Alexandrov, V.A., Semenov, A.L., Kovan'ko, E.G., Ivanov, S.D., Vysochina, G.I., Kostikova, V.A. and Baranenko, D.A.",
+   "journal": "International Journal of Radiation Biology",
+   "year": "2016",
+   "doi": "10.1080/09553002.2016.1257834",
+   "url": "",
+   "link": "https://doi.org/10.1080/09553002.2016.1257834",
+   "link_type": "doi",
+   "citation": "Bespalov, V.G., Alexandrov, V.A., Semenov, A.L., Kovan'ko, E.G., Ivanov, S.D., Vysochina, G.I., Kostikova, V.A. and Baranenko, D.A (2016) 'The inhibitory effect of meadowsweet (Filipendula ulmaria) on radiation-induced carcinogenesis in rats', International Journal of Radiation Biology, 93(4), pp. 394-401. doi:10.1080/09553002.2016.1257834",
+   "abstract": "A meadowsweet (Filipendula ulmaria) flower preparation inhibited radiation-induced carcinogenesis in rats, attributed to its flavonoid antioxidant content, indicating a cancer-protective effect of meadowsweet.",
+   "tier": "preclinical",
+   "display": "The inhibitory effect of meadowsweet (Filipendula ulmaria) on radiation-induced carcinogenesis in rats",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0538",
    "key": "gao2016inula",
    "type": "article",
@@ -38210,6 +38762,36 @@
    ],
    "scientific": [
     "Thymus vulgaris"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2028",
+   "key": "mota2015eucalyptus",
+   "type": "article",
+   "title": "Antimicrobial activity of Eucalyptus globulus oil, xylitol and papain: a pilot study",
+   "authors": "Mota, V.S., Turrini, R.N.T. and Poveda, V.B.",
+   "journal": "Revista da Escola de Enfermagem da USP",
+   "year": "2015",
+   "doi": "10.1590/S0080-623420150000200005",
+   "url": "",
+   "link": "https://doi.org/10.1590/S0080-623420150000200005",
+   "link_type": "doi",
+   "citation": "Mota, V.S., Turrini, R.N.T. and Poveda, V.B (2015) 'Antimicrobial activity of Eucalyptus globulus oil, xylitol and papain: a pilot study', Revista da Escola de Enfermagem da USP, 49(2), pp. 216-220. doi:10.1590/S0080-623420150000200005",
+   "abstract": "Eucalyptus globulus essential oil showed in-vitro antimicrobial activity against a panel of bacteria and Candida albicans, supporting the antimicrobial use of blue gum oil.",
+   "tier": "preclinical",
+   "display": "Antimicrobial activity of Eucalyptus globulus oil, xylitol and papain: a pilot study",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
    ],
    "actions": [
     "Antimicrobial"
@@ -39200,6 +39782,33 @@
    ],
    "scientific": [
     "Equisetum arvense"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2034",
+   "key": "matic2015filipendula",
+   "type": "article",
+   "title": "In vitro and in vivo assessment of the genotoxicity and antigenotoxicity of the Filipendula hexapetala and Filipendula ulmaria methanol extracts",
+   "authors": "Matic, S., Katanic, J., Stanic, S., Mladenovic, M., Stankovic, N., Mihailovic, V. and Boroja, T.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2015",
+   "doi": "10.1016/j.jep.2015.08.025",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2015.08.025",
+   "link_type": "doi",
+   "citation": "Matic, S., Katanic, J., Stanic, S., Mladenovic, M., Stankovic, N., Mihailovic, V. and Boroja, T (2015) 'In vitro and in vivo assessment of the genotoxicity and antigenotoxicity of the Filipendula hexapetala and Filipendula ulmaria methanol extracts', Journal of Ethnopharmacology, 174, pp. 287-292. doi:10.1016/j.jep.2015.08.025",
+   "abstract": "Methanol extracts of Filipendula ulmaria, a traditional remedy for haemorrhoids, diarrhoea, fever and rheumatism, showed antigenotoxic (DNA-protective) activity, documenting a protective effect of meadowsweet.",
+   "tier": "preclinical",
+   "display": "In vitro and in vivo assessment of the genotoxicity and antigenotoxicity of the Filipendula hexapetala and Filipendula ulmaria methanol extracts",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
    ],
    "actions": [],
    "conditions": []
@@ -42174,6 +42783,37 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2025",
+   "key": "luis2014eucalyptus",
+   "type": "article",
+   "title": "Stumps of Eucalyptus globulus as a source of antioxidant and antimicrobial polyphenols",
+   "authors": "Luis, A., Neiva, D., Pereira, H., Gominho, J., Domingues, F. and Duarte, A.P.",
+   "journal": "Molecules",
+   "year": "2014",
+   "doi": "10.3390/molecules191016428",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules191016428",
+   "link_type": "doi",
+   "citation": "Luis, A., Neiva, D., Pereira, H., Gominho, J., Domingues, F. and Duarte, A.P (2014) 'Stumps of Eucalyptus globulus as a source of antioxidant and antimicrobial polyphenols', Molecules, 19(10), pp. 16428-16446. doi:10.3390/molecules191016428",
+   "abstract": "Polyphenol extracts from Eucalyptus globulus stumps showed antioxidant and antimicrobial activity, documenting the phenolic constituents of blue gum.",
+   "tier": "preclinical",
+   "display": "Stumps of Eucalyptus globulus as a source of antioxidant and antimicrobial polyphenols",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0889",
@@ -47298,6 +47938,37 @@
    ]
   },
   {
+   "ref_id": "REF-2045",
+   "key": "xu2011ganoderma",
+   "type": "article",
+   "title": "Ganoderma lucidum polysaccharides: immunomodulation and potential anti-tumor activities",
+   "authors": "Xu, Z., Chen, X., Zhong, Z., Chen, L. and Wang, Y.",
+   "journal": "The American Journal of Chinese Medicine",
+   "year": "2011",
+   "doi": "10.1142/S0192415X11008610",
+   "url": "",
+   "link": "https://doi.org/10.1142/S0192415X11008610",
+   "link_type": "doi",
+   "citation": "Xu, Z., Chen, X., Zhong, Z., Chen, L. and Wang, Y (2011) 'Ganoderma lucidum polysaccharides: immunomodulation and potential anti-tumor activities', The American Journal of Chinese Medicine, 39(1), pp. 15-27. doi:10.1142/S0192415X11008610",
+   "abstract": "This review describes how Ganoderma lucidum (reishi/lingzhi) polysaccharides mediate anti-tumour activity through immunomodulatory, anti-angiogenic and cytotoxic effects on immune and tumour cells.",
+   "tier": "review",
+   "display": "Ganoderma lucidum polysaccharides: immunomodulation and potential anti-tumor activities",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Anticancer (preclinical)",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0767",
    "key": "tuluce2011centaurium",
    "type": "article",
@@ -48909,6 +49580,36 @@
     "Verbascum densiflorum"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2024",
+   "key": "mulyaningsih2010eucalyptus",
+   "type": "article",
+   "title": "Synergistic properties of the terpenoids aromadendrene and 1,8-cineole from the essential oil of Eucalyptus globulus against antibiotic-susceptible and antibiotic-resistant pathogens",
+   "authors": "Mulyaningsih, S., Sporer, F., Zimmermann, S., Reichling, J. and Wink, M.",
+   "journal": "Phytomedicine",
+   "year": "2010",
+   "doi": "10.1016/j.phymed.2010.06.018",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2010.06.018",
+   "link_type": "doi",
+   "citation": "Mulyaningsih, S., Sporer, F., Zimmermann, S., Reichling, J. and Wink, M (2010) 'Synergistic properties of the terpenoids aromadendrene and 1,8-cineole from the essential oil of Eucalyptus globulus against antibiotic-susceptible and antibiotic-resistant pathogens', Phytomedicine, 17(13), pp. 1061-1066. doi:10.1016/j.phymed.2010.06.018",
+   "abstract": "The terpenoids aromadendrene and 1,8-cineole from Eucalyptus globulus fruit essential oil acted synergistically against antibiotic-susceptible and multidrug-resistant bacteria, supporting the antimicrobial use of blue gum.",
+   "tier": "preclinical",
+   "display": "Synergistic properties of the terpenoids aromadendrene and 1,8-cineole from the essential oil of Eucalyptus globulus against antibiotic-susceptible and antibiotic-resistant pathogens",
+   "plants": [
+    "Blue gum eucalyptus",
+    "Tasmanian blue gum",
+    "blue gum",
+    "southern blue gum"
+   ],
+   "scientific": [
+    "Eucalyptus globulus"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -51895,6 +52596,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2048",
+   "key": "boh2007ganoderma",
+   "type": "article",
+   "title": "Ganoderma lucidum and its pharmaceutically active compounds",
+   "authors": "Boh, B., Berovic, M., Zhang, J. and Zhi-Bin, L.",
+   "journal": "Biotechnology Annual Review",
+   "year": "2007",
+   "doi": "10.1016/S1387-2656(07)13010-6",
+   "url": "",
+   "link": "https://doi.org/10.1016/S1387-2656(07)13010-6",
+   "link_type": "doi",
+   "citation": "Boh, B., Berovic, M., Zhang, J. and Zhi-Bin, L (2007) 'Ganoderma lucidum and its pharmaceutically active compounds', Biotechnology Annual Review, 13, pp. 265-301. doi:10.1016/S1387-2656(07)13010-6",
+   "abstract": "This review describes the pharmaceutically active triterpenoids and polysaccharides of Ganoderma lucidum (reishi/lingzhi), with hepatoprotective, anti-hypertensive, anti-tumour, anti-angiogenic and immunomodulatory antioxidant effects.",
+   "tier": "review",
+   "display": "Ganoderma lucidum and its pharmaceutically active compounds",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0544",
    "key": "guo2007herbal",
    "type": "article",
@@ -54452,6 +55183,36 @@
    ],
    "scientific": [
     "Echinacea purpurea"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2047",
+   "key": "sliva2004ganoderma",
+   "type": "article",
+   "title": "Cellular and physiological effects of Ganoderma lucidum (Reishi)",
+   "authors": "Sliva, D.",
+   "journal": "Mini Reviews in Medicinal Chemistry",
+   "year": "2004",
+   "doi": "10.2174/1389557043403323",
+   "url": "",
+   "link": "https://doi.org/10.2174/1389557043403323",
+   "link_type": "doi",
+   "citation": "Sliva, D (2004) 'Cellular and physiological effects of Ganoderma lucidum (Reishi)', Mini Reviews in Medicinal Chemistry, 4(8), pp. 873-879. doi:10.2174/1389557043403323",
+   "abstract": "This review summarises the biological effects of Ganoderma lucidum (reishi/lingzhi) on signalling molecules and pathways, with its polysaccharides providing immunostimulatory and anticancer effects and its triterpenes other therapeutic actions.",
+   "tier": "review",
+   "display": "Cellular and physiological effects of Ganoderma lucidum (Reishi)",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
    ],
    "actions": [
     "Immunomodulator / immune support"
@@ -58736,6 +59497,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2042",
+   "key": "zhu1999ganoderma",
+   "type": "article",
+   "title": "Triterpene antioxidants from Ganoderma lucidum",
+   "authors": "Zhu, M., Chang, Q., Wong, L.K., Chong, F.S. and Li, R.C.",
+   "journal": "Phytotherapy Research",
+   "year": "1999",
+   "doi": "10.1002/(sici)1099-1573(199909)13:6<529::aid-ptr481>3.0.co;2-x",
+   "url": "",
+   "link": "https://doi.org/10.1002/(sici)1099-1573(199909)13:6<529::aid-ptr481>3.0.co;2-x",
+   "link_type": "doi",
+   "citation": "Zhu, M., Chang, Q., Wong, L.K., Chong, F.S. and Li, R.C (1999) 'Triterpene antioxidants from Ganoderma lucidum', Phytotherapy Research, 13(6), pp. 529-531. doi:10.1002/(sici)1099-1573(199909)13:6<529::aid-ptr481>3.0.co;2-x",
+   "abstract": "The triterpene fraction of Ganoderma lucidum (reishi/lingzhi), containing ganoderic acids A-D and ganodermanontriol, showed the strongest antioxidative activity against membrane and lipid peroxidation, characterising the antioxidant triterpenes of reishi.",
+   "tier": "preclinical",
+   "display": "Triterpene antioxidants from Ganoderma lucidum",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0305",
    "key": "who1999monographs",
    "type": "misc",
@@ -59874,6 +60665,33 @@
     "Insomnia / sleeplessness",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2036",
+   "key": "valle1988filipendula",
+   "type": "article",
+   "title": "The Essential Oil of Filipendula ulmaria",
+   "authors": "Valle, M.G., Nano, G.M. and Tira, S.",
+   "journal": "Planta Medica",
+   "year": "1988",
+   "doi": "10.1055/s-2006-962390",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-962390",
+   "link_type": "doi",
+   "citation": "Valle, M.G., Nano, G.M. and Tira, S (1988) 'The Essential Oil of Filipendula ulmaria', Planta Medica, 54(2), pp. 181-182. doi:10.1055/s-2006-962390",
+   "abstract": "This study characterised the essential oil of Filipendula ulmaria (meadowsweet), dominated by salicylaldehyde and methyl salicylate, documenting the salicylate volatile constituents of meadowsweet.",
+   "tier": "preclinical",
+   "display": "The Essential Oil of Filipendula ulmaria",
+   "plants": [
+    "Meadowsweet",
+    "mead wort",
+    "queen of the meadow"
+   ],
+   "scientific": [
+    "Filipendula ulmaria"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0023",

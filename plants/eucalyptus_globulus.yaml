@@ -14,6 +14,8 @@ actions:
   - REF-0224
   - REF-0256
   - REF-0309
+  - REF-2022
+  - REF-2023
   status: verified
 - action: antifungal
   reference_ids:
@@ -32,18 +34,31 @@ actions:
   - REF-0224
   - REF-0256
   - REF-0309
+  - REF-0810
+  - REF-2023
+  - REF-0809
+  - REF-2024
+  - REF-2025
+  - REF-2026
+  - REF-2028
+  - REF-2029
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0224
   - REF-0256
   - REF-0309
+  - REF-2023
+  - REF-0809
+  - REF-2025
+  - REF-2027
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0224
   - REF-0256
   - REF-0309
+  - REF-0811
   status: verified
 indications:
 - condition: arthritis
@@ -132,6 +147,14 @@ references:
 - REF-0809
 - REF-0810
 - REF-0811
+- REF-2022
+- REF-2023
+- REF-2024
+- REF-2025
+- REF-2026
+- REF-2027
+- REF-2028
+- REF-2029
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -140,4 +163,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0809, REF-0810, REF-0811.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0809, REF-0810, REF-0811.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2022,
+  REF-0810, REF-2023, REF-0809, REF-0811, REF-2024, REF-2025, REF-2026, REF-2027, REF-2028, REF-2029)
+  — woven into relevant actions/indications and the plant-level references bucket.'

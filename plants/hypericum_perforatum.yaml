@@ -14,11 +14,13 @@ actions:
   reference_ids:
   - REF-0154
   - REF-0181
+  - REF-1790
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0154
   - REF-0181
+  - REF-1791
   status: verified
 - action: antiviral
   reference_ids:
@@ -34,11 +36,21 @@ actions:
   reference_ids:
   - REF-0154
   - REF-0181
+  - REF-1789
+  - REF-0842
+  - REF-0843
+  - REF-1790
+  - REF-1794
+  - REF-1796
+  - REF-1797
+  - REF-1798
+  - REF-1799
   status: verified
 - action: vulnerary
   reference_ids:
   - REF-0154
   - REF-0181
+  - REF-1789
   status: verified
 indications:
 - condition: arthritis
@@ -123,6 +135,17 @@ references:
 - REF-0842
 - REF-0843
 - REF-0844
+- REF-1789
+- REF-1790
+- REF-1791
+- REF-1792
+- REF-1793
+- REF-1794
+- REF-1795
+- REF-1796
+- REF-1797
+- REF-1798
+- REF-1799
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -131,4 +154,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0842, REF-0843, REF-0844.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0842, REF-0843, REF-0844.
+  | 2026-06-20: enriched to >=10 scientific publications: added 13 PubMed-verified @article sources (REF-1789,
+  REF-0842, REF-0843, REF-1790, REF-1791, REF-1792, REF-1793, REF-1794, REF-1795, REF-1796, REF-1797,
+  REF-1798, REF-1799) — woven into relevant actions/indications and the plant-level references bucket.'

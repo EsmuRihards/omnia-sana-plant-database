@@ -4238,7 +4238,8 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0098",
-      "REF-0112"
+      "REF-0112",
+      "REF-1776"
      ],
      "status": "verified"
     },
@@ -4246,7 +4247,10 @@
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0098",
-      "REF-0112"
+      "REF-0112",
+      "REF-1771",
+      "REF-1772",
+      "REF-1773"
      ],
      "status": "verified"
     },
@@ -4254,7 +4258,9 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0098",
-      "REF-0112"
+      "REF-0112",
+      "REF-0728",
+      "REF-1775"
      ],
      "status": "verified"
     },
@@ -4262,7 +4268,12 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0098",
-      "REF-0112"
+      "REF-0112",
+      "REF-0728",
+      "REF-1771",
+      "REF-1772",
+      "REF-1776",
+      "REF-0730"
      ],
      "status": "verified"
     },
@@ -4279,7 +4290,9 @@
      "action": "digestive",
      "reference_ids": [
       "REF-0098",
-      "REF-0112"
+      "REF-0112",
+      "REF-1770",
+      "REF-1774"
      ],
      "status": "verified"
     }
@@ -4408,7 +4421,16 @@
    "references": [
     "REF-0728",
     "REF-0729",
-    "REF-0730"
+    "REF-0730",
+    "REF-1770",
+    "REF-1771",
+    "REF-1772",
+    "REF-1773",
+    "REF-1774",
+    "REF-1775",
+    "REF-1776",
+    "REF-1777",
+    "REF-1778"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -9070,7 +9092,8 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0108",
-      "REF-0196"
+      "REF-0196",
+      "REF-1784"
      ],
      "status": "verified"
     },
@@ -9078,7 +9101,13 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0108",
-      "REF-0196"
+      "REF-0196",
+      "REF-0783",
+      "REF-1780",
+      "REF-1781",
+      "REF-1782",
+      "REF-1783",
+      "REF-1784"
      ],
      "status": "verified"
     },
@@ -9087,7 +9116,10 @@
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
       "REF-0108",
-      "REF-0196"
+      "REF-0196",
+      "REF-0783",
+      "REF-1785",
+      "REF-1786"
      ],
      "status": "verified"
     },
@@ -9095,7 +9127,8 @@
      "action": "sedative",
      "reference_ids": [
       "REF-0108",
-      "REF-0196"
+      "REF-0196",
+      "REF-1787"
      ],
      "status": "verified"
     }
@@ -9187,7 +9220,17 @@
    "references": [
     "REF-0782",
     "REF-0783",
-    "REF-0784"
+    "REF-0784",
+    "REF-1779",
+    "REF-1780",
+    "REF-1781",
+    "REF-1782",
+    "REF-1783",
+    "REF-1784",
+    "REF-1785",
+    "REF-1786",
+    "REF-1787",
+    "REF-1788"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -15092,7 +15135,8 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0154",
-      "REF-0181"
+      "REF-0181",
+      "REF-1790"
      ],
      "status": "verified"
     },
@@ -15100,7 +15144,8 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0154",
-      "REF-0181"
+      "REF-0181",
+      "REF-1791"
      ],
      "status": "verified"
     },
@@ -15124,7 +15169,16 @@
      "action": "sedative",
      "reference_ids": [
       "REF-0154",
-      "REF-0181"
+      "REF-0181",
+      "REF-1789",
+      "REF-0842",
+      "REF-0843",
+      "REF-1790",
+      "REF-1794",
+      "REF-1796",
+      "REF-1797",
+      "REF-1798",
+      "REF-1799"
      ],
      "status": "verified"
     },
@@ -15132,7 +15186,8 @@
      "action": "vulnerary",
      "reference_ids": [
       "REF-0154",
-      "REF-0181"
+      "REF-0181",
+      "REF-1789"
      ],
      "status": "verified"
     }
@@ -15243,7 +15298,18 @@
    "references": [
     "REF-0842",
     "REF-0843",
-    "REF-0844"
+    "REF-0844",
+    "REF-1789",
+    "REF-1790",
+    "REF-1791",
+    "REF-1792",
+    "REF-1793",
+    "REF-1794",
+    "REF-1795",
+    "REF-1796",
+    "REF-1797",
+    "REF-1798",
+    "REF-1799"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

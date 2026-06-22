@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1769,
+ "count": 1799,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -3731,6 +3731,37 @@
    ]
   },
   {
+   "ref_id": "REF-1790",
+   "key": "jiang2024hypericum",
+   "type": "article",
+   "title": "Hypericum perforatum L. attenuates depression by regulating Akkermansia muciniphila, tryptophan metabolism and NFkB-NLRP2-Caspase1-IL1beta pathway",
+   "authors": "Jiang, Z., Wang, F., Zhao, Y., Lu, L., Jiang, X., Huang, T., Lin, Y., Guo, L., Weng, Z. and Liu, E.",
+   "journal": "Phytomedicine",
+   "year": "2024",
+   "doi": "10.1016/j.phymed.2024.155847",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2024.155847",
+   "link_type": "doi",
+   "citation": "Jiang, Z., Wang, F., Zhao, Y., Lu, L., Jiang, X., Huang, T., Lin, Y., Guo, L., Weng, Z. and Liu, E (2024) 'Hypericum perforatum L. attenuates depression by regulating Akkermansia muciniphila, tryptophan metabolism and NFkB-NLRP2-Caspase1-IL1beta pathway', Phytomedicine, 132, pp. 155847. doi:10.1016/j.phymed.2024.155847",
+   "abstract": "Hypericum perforatum attenuated depressive behaviour in mice by regulating the gut bacterium Akkermansia muciniphila, tryptophan metabolism and the NF-kB-NLRP2-Caspase1-IL1beta inflammatory pathway, linking its antidepressant and anti-inflammatory actions.",
+   "tier": "preclinical",
+   "display": "Hypericum perforatum L. attenuates depression by regulating Akkermansia muciniphila, tryptophan metabolism and NFkB-NLRP2-Caspase1-IL1beta pathway",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1719",
    "key": "lee2024galium",
    "type": "article",
@@ -6102,7 +6133,9 @@
    "scientific": [
     "Artemisia absinthium"
    ],
-   "actions": [],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -7613,6 +7646,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1774",
+   "key": "boeing2023wormwood",
+   "type": "article",
+   "title": "Gastroprotective effect of Artemisia absinthium L.: A medicinal plant used in the treatment of digestive disorders",
+   "authors": "Boeing, T., de Souza, J., Vilhena da Silva, R.C., Mariano, L.N.B., Mota da Silva, L., Gerhardt, G.M., Cretton, S., Klein-Junior, L.C. and de Souza, P.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2023",
+   "doi": "10.1016/j.jep.2023.116488",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2023.116488",
+   "link_type": "doi",
+   "citation": "Boeing, T., de Souza, J., Vilhena da Silva, R.C., Mariano, L.N.B., Mota da Silva, L., Gerhardt, G.M., Cretton, S., Klein-Junior, L.C. and de Souza, P (2023) 'Gastroprotective effect of Artemisia absinthium L.: A medicinal plant used in the treatment of digestive disorders', Journal of Ethnopharmacology, 312, pp. 116488. doi:10.1016/j.jep.2023.116488",
+   "abstract": "Aqueous extracts of Artemisia absinthium exerted a gastroprotective effect against gastric lesions in rodents, providing experimental support for the traditional use of wormwood for stomach pain and digestive disorders.",
+   "tier": "preclinical",
+   "display": "Gastroprotective effect of Artemisia absinthium L.: A medicinal plant used in the treatment of digestive disorders",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0627",
    "key": "khan2023bistorta",
    "type": "article",
@@ -8371,6 +8433,35 @@
     "Memory",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1775",
+   "key": "liu2023wormwood",
+   "type": "article",
+   "title": "New Evidence for Artemisia absinthium as an Alternative to Classical Antibiotics: Chemical Analysis of Phenolic Compounds, Screening for Antimicrobial Activity",
+   "authors": "Liu, Z., Li, X., Jin, Y., Nan, T., Zhao, Y., Huang, L. and Yuan, Y.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2023",
+   "doi": "10.3390/ijms241512044",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms241512044",
+   "link_type": "doi",
+   "citation": "Liu, Z., Li, X., Jin, Y., Nan, T., Zhao, Y., Huang, L. and Yuan, Y (2023) 'New Evidence for Artemisia absinthium as an Alternative to Classical Antibiotics: Chemical Analysis of Phenolic Compounds, Screening for Antimicrobial Activity', International Journal of Molecular Sciences, 24(15), pp. 12044. doi:10.3390/ijms241512044",
+   "abstract": "Methanol extracts of Artemisia absinthium, characterised for phenolic compounds, exhibited broad-spectrum antibacterial and antifungal activity, supporting wormwood as a potential alternative to classical antibiotics.",
+   "tier": "preclinical",
+   "display": "New Evidence for Artemisia absinthium as an Alternative to Classical Antibiotics: Chemical Analysis of Phenolic Compounds, Screening for Antimicrobial Activity",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1217",
@@ -10075,6 +10166,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1787",
+   "key": "khan2022anxiety",
+   "type": "article",
+   "title": "Anti-anxiety Properties of Selected Medicinal Plants",
+   "authors": "Khan, A., Akram, M., Thiruvengadam, M., Daniyal, M., Zakki, S.A., Munir, N., Zainab, R., Heydari, M., Mosavat, S.H., Rebezov, M. and Shariati, M.A.",
+   "journal": "Current Pharmaceutical Biotechnology",
+   "year": "2022",
+   "doi": "10.2174/1389201022666210122125131",
+   "url": "",
+   "link": "https://doi.org/10.2174/1389201022666210122125131",
+   "link_type": "doi",
+   "citation": "Khan, A., Akram, M., Thiruvengadam, M., Daniyal, M., Zakki, S.A., Munir, N., Zainab, R., Heydari, M., Mosavat, S.H., Rebezov, M. and Shariati, M.A (2022) 'Anti-anxiety Properties of Selected Medicinal Plants', Current Pharmaceutical Biotechnology, 23(8), pp. 1041-1060. doi:10.2174/1389201022666210122125131",
+   "abstract": "This review of anti-anxiety medicinal plants includes Crataegus (hawthorn) among species with documented anxiolytic and sedative activity, supporting its traditional calming use.",
+   "tier": "review",
+   "display": "Anti-anxiety Properties of Selected Medicinal Plants",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0831",
    "key": "piazza2022hamamelis",
    "type": "article",
@@ -10201,6 +10321,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1771",
+   "key": "hbika2022wormwood",
+   "type": "article",
+   "title": "Artemisia absinthium L. Aqueous and Ethyl Acetate Extracts: Antioxidant Effect and Potential Activity In Vitro and In Vivo against Pancreatic alpha-Amylase and Intestinal alpha-Glucosidase",
+   "authors": "Hbika, A., Daoudi, N.E., Bouyanzer, A., Bouhrim, M., Mohti, H., Loukili, E.H., Mechchate, H., Al-Salahi, R., Nasr, F.A., Bnouham, M. and Zaid, A.",
+   "journal": "Pharmaceutics",
+   "year": "2022",
+   "doi": "10.3390/pharmaceutics14030481",
+   "url": "",
+   "link": "https://doi.org/10.3390/pharmaceutics14030481",
+   "link_type": "doi",
+   "citation": "Hbika, A., Daoudi, N.E., Bouyanzer, A., Bouhrim, M., Mohti, H., Loukili, E.H., Mechchate, H., Al-Salahi, R., Nasr, F.A., Bnouham, M. and Zaid, A (2022) 'Artemisia absinthium L. Aqueous and Ethyl Acetate Extracts: Antioxidant Effect and Potential Activity In Vitro and In Vivo against Pancreatic alpha-Amylase and Intestinal alpha-Glucosidase', Pharmaceutics, 14(3), pp. 481. doi:10.3390/pharmaceutics14030481",
+   "abstract": "Aqueous and ethyl acetate extracts of Artemisia absinthium showed antioxidant activity and inhibited pancreatic alpha-amylase and intestinal alpha-glucosidase in vitro and in vivo, supporting the antidiabetic use of wormwood.",
+   "tier": "preclinical",
+   "display": "Artemisia absinthium L. Aqueous and Ethyl Acetate Extracts: Antioxidant Effect and Potential Activity In Vitro and In Vivo against Pancreatic alpha-Amylase and Intestinal alpha-Glucosidase",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1662",
@@ -11659,6 +11809,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1789",
+   "key": "nobakht2022hypericum",
+   "type": "article",
+   "title": "Hypericum perforatum: Traditional uses, clinical trials, and drug interactions",
+   "authors": "Nobakht, S.Z., Akaberi, M., Mohammadpour, A.H., Tafazoli Moghadam, A. and Emami, S.A.",
+   "journal": "Iranian Journal of Basic Medical Sciences",
+   "year": "2022",
+   "doi": "10.22038/IJBMS.2022.65112.14338",
+   "url": "",
+   "link": "https://doi.org/10.22038/IJBMS.2022.65112.14338",
+   "link_type": "doi",
+   "citation": "Nobakht, S.Z., Akaberi, M., Mohammadpour, A.H., Tafazoli Moghadam, A. and Emami, S.A (2022) 'Hypericum perforatum: Traditional uses, clinical trials, and drug interactions', Iranian Journal of Basic Medical Sciences, 25(9), pp. 1045-1058. doi:10.22038/IJBMS.2022.65112.14338",
+   "abstract": "This comprehensive review of Hypericum perforatum (St John's wort) covers its traditional uses, clinical trials and drug interactions, with its constituents hyperforin and hypericin acting as antidepressant, wound-healing and antibacterial agents.",
+   "tier": "review",
+   "display": "Hypericum perforatum: Traditional uses, clinical trials, and drug interactions",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Sedative / sleep support",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0846",
    "key": "sharifirad2022hyssopus",
    "type": "article",
@@ -13087,7 +13268,9 @@
    "scientific": [
     "Hypericum perforatum"
    ],
-   "actions": [],
+   "actions": [
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -19203,6 +19386,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1770",
+   "key": "szopa2020wormwood",
+   "type": "article",
+   "title": "Artemisia absinthium L. - Importance in the History of Medicine, the Latest Advances in Phytochemistry and Therapeutical, Cosmetological and Culinary Uses",
+   "authors": "Szopa, A., Pajor, J., Klin, P., Rzepiela, A., Elansary, H.O., Al-Mana, F.A., Mattar, M.A. and Ekiert, H.",
+   "journal": "Plants",
+   "year": "2020",
+   "doi": "10.3390/plants9091063",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants9091063",
+   "link_type": "doi",
+   "citation": "Szopa, A., Pajor, J., Klin, P., Rzepiela, A., Elansary, H.O., Al-Mana, F.A., Mattar, M.A. and Ekiert, H (2020) 'Artemisia absinthium L. - Importance in the History of Medicine, the Latest Advances in Phytochemistry and Therapeutical, Cosmetological and Culinary Uses', Plants, 9(9), pp. 1063. doi:10.3390/plants9091063",
+   "abstract": "This review covers Artemisia absinthium (wormwood) in the history of medicine and the latest advances in its phytochemistry (essential oil, sesquiterpene lactones, flavonoids) and its therapeutic, cosmetological and culinary uses, including digestive, antimicrobial and antioxidant applications.",
+   "tier": "review",
+   "display": "Artemisia absinthium L. - Importance in the History of Medicine, the Latest Advances in Phytochemistry and Therapeutical, Cosmetological and Culinary Uses",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0472",
    "key": "kruttschnitt2020assessment",
    "type": "article",
@@ -19323,7 +19535,10 @@
    "scientific": [
     "Artemisia absinthium"
    ],
-   "actions": [],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -19951,6 +20166,36 @@
     "Muscle soreness",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-1772",
+   "key": "bagheri2020wormwood",
+   "type": "article",
+   "title": "Effect of Artemisia absinthium ethanolic extract on oxidative stress markers and the TLR4, S100A4, Bax and Bcl-2 genes expression in the kidney of STZ-induced diabetic rats",
+   "authors": "Bagheri, F., Amri, J., Salehi, M., Karami, H., Alimoradian, A. and Latifi, S.A.",
+   "journal": "Hormone Molecular Biology and Clinical Investigation",
+   "year": "2020",
+   "doi": "10.1515/hmbci-2020-0028",
+   "url": "",
+   "link": "https://doi.org/10.1515/hmbci-2020-0028",
+   "link_type": "doi",
+   "citation": "Bagheri, F., Amri, J., Salehi, M., Karami, H., Alimoradian, A. and Latifi, S.A (2020) 'Effect of Artemisia absinthium ethanolic extract on oxidative stress markers and the TLR4, S100A4, Bax and Bcl-2 genes expression in the kidney of STZ-induced diabetic rats', Hormone Molecular Biology and Clinical Investigation, 41(4), pp. 20200028. doi:10.1515/hmbci-2020-0028",
+   "abstract": "Artemisia absinthium ethanolic extract reduced oxidative stress and modulated TLR4, S100A4, Bax and Bcl-2 gene expression in the kidney of streptozotocin-induced diabetic rats, demonstrating antidiabetic and antioxidant renoprotective effects of wormwood.",
+   "tier": "preclinical",
+   "display": "Effect of Artemisia absinthium ethanolic extract on oxidative stress markers and the TLR4, S100A4, Bax and Bcl-2 genes expression in the kidney of STZ-induced diabetic rats",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0635",
@@ -24382,6 +24627,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1781",
+   "key": "mecheri2019crataegus",
+   "type": "article",
+   "title": "Hepatoprotective Effects of Algerian Crataegus oxyacantha Leaves",
+   "authors": "Mecheri, A., Benabderrahmane, W., Amrani, A., Boubekri, N., Benayache, F., Benayache, S. and Zama, D.",
+   "journal": "Recent Patents on Food, Nutrition & Agriculture",
+   "year": "2019",
+   "doi": "10.2174/2212798410666180730095456",
+   "url": "",
+   "link": "https://doi.org/10.2174/2212798410666180730095456",
+   "link_type": "doi",
+   "citation": "Mecheri, A., Benabderrahmane, W., Amrani, A., Boubekri, N., Benayache, F., Benayache, S. and Zama, D (2019) 'Hepatoprotective Effects of Algerian Crataegus oxyacantha Leaves', Recent Patents on Food, Nutrition & Agriculture, 10(1), pp. 70-75. doi:10.2174/2212798410666180730095456",
+   "abstract": "Algerian Crataegus oxyacantha leaf extract showed hepatoprotective activity, attributed to the antioxidant polyphenols of hawthorn, supporting its traditional use for liver and gastrointestinal ailments.",
+   "tier": "preclinical",
+   "display": "Hepatoprotective Effects of Algerian Crataegus oxyacantha Leaves",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1728",
    "key": "xia2019hops",
    "type": "article",
@@ -24945,6 +25219,35 @@
    ]
   },
   {
+   "ref_id": "REF-1782",
+   "key": "benabderrahmane2019crataegus",
+   "type": "article",
+   "title": "Polyphenolic content and bioactivities of Crataegus oxyacantha L. (Rosaceae)",
+   "authors": "Benabderrahmane, W., Lores, M., Benaissa, O., Lamas, J.P., de Miguel, T., Amrani, A., Benayache, F. and Benayache, S.",
+   "journal": "Natural Product Research",
+   "year": "2019",
+   "doi": "10.1080/14786419.2019.1582044",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2019.1582044",
+   "link_type": "doi",
+   "citation": "Benabderrahmane, W., Lores, M., Benaissa, O., Lamas, J.P., de Miguel, T., Amrani, A., Benayache, F. and Benayache, S (2019) 'Polyphenolic content and bioactivities of Crataegus oxyacantha L. (Rosaceae)', Natural Product Research, 35(4), pp. 627-632. doi:10.1080/14786419.2019.1582044",
+   "abstract": "Solvent extracts of Crataegus oxyacantha leaves and fruits were characterised for total polyphenol content and showed radical-scavenging antioxidant and antimicrobial bioactivities, documenting the phytochemistry of midland hawthorn.",
+   "tier": "preclinical",
+   "display": "Polyphenolic content and bioactivities of Crataegus oxyacantha L. (Rosaceae)",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1649",
    "key": "joksic2019gentiana",
    "type": "article",
@@ -25243,6 +25546,36 @@
    "conditions": [
     "Cognitive function"
    ]
+  },
+  {
+   "ref_id": "REF-1776",
+   "key": "moaca2019wormwood",
+   "type": "article",
+   "title": "Romanian Wormwood (Artemisia absinthium L.): Physicochemical and Nutraceutical Screening",
+   "authors": "Moaca, E., Pavel, I.Z., Danciu, C., Crainiceanu, Z., Minda, D., Ardelean, F., Antal, D.S., Ghiulai, R., Cioca, A., Derban, M., Simu, S., Chioibas, R., Szuhanek, C. and Dehelean, C.",
+   "journal": "Molecules",
+   "year": "2019",
+   "doi": "10.3390/molecules24173087",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules24173087",
+   "link_type": "doi",
+   "citation": "Moaca, E., Pavel, I.Z., Danciu, C., Crainiceanu, Z., Minda, D., Ardelean, F., Antal, D.S., Ghiulai, R., Cioca, A., Derban, M., Simu, S., Chioibas, R., Szuhanek, C. and Dehelean, C (2019) 'Romanian Wormwood (Artemisia absinthium L.): Physicochemical and Nutraceutical Screening', Molecules, 24(17), pp. 3087. doi:10.3390/molecules24173087",
+   "abstract": "Ethanolic leaf and stem extracts of Romanian Artemisia absinthium were screened for phytochemical profile and biological potential, showing antioxidant, cytotoxic and anti-inflammatory activity characteristic of wormwood.",
+   "tier": "preclinical",
+   "display": "Romanian Wormwood (Artemisia absinthium L.): Physicochemical and Nutraceutical Screening",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0990",
@@ -26892,6 +27225,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1780",
+   "key": "saeedi2018crataegus",
+   "type": "article",
+   "title": "Ethanol Extract of Crataegus Oxyacantha L. Ameliorate Dietary Non-Alcoholic Fatty Liver Disease in Rat",
+   "authors": "Saeedi, G., Jeivad, F., Goharbari, M., Gheshlaghi, G.H. and Sabzevari, O.",
+   "journal": "Drug Research",
+   "year": "2018",
+   "doi": "10.1055/a-0579-7532",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-0579-7532",
+   "link_type": "doi",
+   "citation": "Saeedi, G., Jeivad, F., Goharbari, M., Gheshlaghi, G.H. and Sabzevari, O (2018) 'Ethanol Extract of Crataegus Oxyacantha L. Ameliorate Dietary Non-Alcoholic Fatty Liver Disease in Rat', Drug Research, 68(10), pp. 553-559. doi:10.1055/a-0579-7532",
+   "abstract": "Ethanol extract of Crataegus oxyacantha ameliorated diet-induced non-alcoholic fatty liver disease in rats, an effect attributed to its antioxidant and lipid-lowering activity.",
+   "tier": "preclinical",
+   "display": "Ethanol Extract of Crataegus Oxyacantha L. Ameliorate Dietary Non-Alcoholic Fatty Liver Disease in Rat",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0333",
    "key": "sharifi2018ethnobotany",
    "type": "article",
@@ -27698,7 +28060,10 @@
    "scientific": [
     "Crataegus laevigata"
    ],
-   "actions": [],
+   "actions": [
+    "Antioxidant",
+    "Antispasmodic"
+   ],
    "conditions": []
   },
   {
@@ -27960,6 +28325,35 @@
     "Salix alba"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1773",
+   "key": "almalki2018wormwood",
+   "type": "article",
+   "title": "Shikimic acid from Artemisia absinthium inhibits protein glycation in diabetic rats",
+   "authors": "Al-Malki, A.L.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2018",
+   "doi": "10.1016/j.ijbiomac.2018.09.072",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2018.09.072",
+   "link_type": "doi",
+   "citation": "Al-Malki, A.L (2018) 'Shikimic acid from Artemisia absinthium inhibits protein glycation in diabetic rats', International Journal of Biological Macromolecules, 122, pp. 1212-1216. doi:10.1016/j.ijbiomac.2018.09.072",
+   "abstract": "Shikimic acid isolated from Artemisia absinthium leaves inhibited protein glycation in the retina of diabetic rats, indicating an antidiabetic, anti-glycation activity of wormwood.",
+   "tier": "preclinical",
+   "display": "Shikimic acid from Artemisia absinthium inhibits protein glycation in diabetic rats",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
    "conditions": []
   },
   {
@@ -29007,7 +29401,9 @@
    "scientific": [
     "Hypericum perforatum"
    ],
-   "actions": [],
+   "actions": [
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -29412,6 +29808,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1784",
+   "key": "cuevasduran2017crataegus",
+   "type": "article",
+   "title": "Extracts of Crataegus oxyacantha and Rosmarinus officinalis Attenuate Ischemic Myocardial Damage by Decreasing Oxidative Stress and Regulating the Production of Cardiac Vasoactive Agents",
+   "authors": "Cuevas-Duran, R.E., Medrano-Rodriguez, J.C., Sanchez-Aguilar, M., Soria-Castro, E., Rubio-Ruiz, M.E., Del Valle-Mondragon, L., Sanchez-Mendoza, A., Torres-Narvaez, J.C., Pastelin-Hernandez, G. and Ibarra-Lara, L.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2017",
+   "doi": "10.3390/ijms18112412",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms18112412",
+   "link_type": "doi",
+   "citation": "Cuevas-Duran, R.E., Medrano-Rodriguez, J.C., Sanchez-Aguilar, M., Soria-Castro, E., Rubio-Ruiz, M.E., Del Valle-Mondragon, L., Sanchez-Mendoza, A., Torres-Narvaez, J.C., Pastelin-Hernandez, G. and Ibarra-Lara, L (2017) 'Extracts of Crataegus oxyacantha and Rosmarinus officinalis Attenuate Ischemic Myocardial Damage by Decreasing Oxidative Stress and Regulating the Production of Cardiac Vasoactive Agents', International Journal of Molecular Sciences, 18(11), pp. 2412. doi:10.3390/ijms18112412",
+   "abstract": "Polyphenol-rich Crataegus oxyacantha extract attenuated ischemic myocardial damage by decreasing oxidative stress and regulating cardiac vasoactive agents, supporting the antioxidant cardioprotective use of hawthorn.",
+   "tier": "preclinical",
+   "display": "Extracts of Crataegus oxyacantha and Rosmarinus officinalis Attenuate Ischemic Myocardial Damage by Decreasing Oxidative Stress and Regulating the Production of Cardiac Vasoactive Agents",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1646",
    "key": "crescente2017fennel",
    "type": "article",
@@ -29672,6 +30098,35 @@
    "conditions": [
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-1783",
+   "key": "ali2017crataegus",
+   "type": "article",
+   "title": "Neurologically Potent Molecules from Crataegus oxyacantha; Isolation, Anticholinesterase Inhibition, and Molecular Docking",
+   "authors": "Ali, M., Muhammad, S., Shah, M.R., Khan, A., Rashid, U., Farooq, U., Ullah, F., Sadiq, A., Ayaz, M., Ali, M., Ahmad, M. and Latif, A.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2017",
+   "doi": "10.3389/fphar.2017.00327",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2017.00327",
+   "link_type": "doi",
+   "citation": "Ali, M., Muhammad, S., Shah, M.R., Khan, A., Rashid, U., Farooq, U., Ullah, F., Sadiq, A., Ayaz, M., Ali, M., Ahmad, M. and Latif, A (2017) 'Neurologically Potent Molecules from Crataegus oxyacantha; Isolation, Anticholinesterase Inhibition, and Molecular Docking', Frontiers in Pharmacology, 8, pp. 327. doi:10.3389/fphar.2017.00327",
+   "abstract": "Compounds isolated from Crataegus oxyacantha inhibited cholinesterases and showed antioxidant activity, with molecular docking supporting their potential in the management of Alzheimer's disease.",
+   "tier": "preclinical",
+   "display": "Neurologically Potent Molecules from Crataegus oxyacantha; Isolation, Anticholinesterase Inhibition, and Molecular Docking",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0734",
@@ -32362,6 +32817,36 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1791",
+   "key": "oliveira2016hypericum",
+   "type": "article",
+   "title": "Neuroprotective Activity of Hypericum perforatum and Its Major Components",
+   "authors": "Oliveira, A.I., Pinho, C., Sarmento, B. and Dias, A.C.P.",
+   "journal": "Frontiers in Plant Science",
+   "year": "2016",
+   "doi": "10.3389/fpls.2016.01004",
+   "url": "",
+   "link": "https://doi.org/10.3389/fpls.2016.01004",
+   "link_type": "doi",
+   "citation": "Oliveira, A.I., Pinho, C., Sarmento, B. and Dias, A.C.P (2016) 'Neuroprotective Activity of Hypericum perforatum and Its Major Components', Frontiers in Plant Science, 7, pp. 1004. doi:10.3389/fpls.2016.01004",
+   "abstract": "This review summarises the neuroprotective activity of Hypericum perforatum and its major components (hypericin, hyperforin, flavonoids), attributed to antioxidant and anti-inflammatory mechanisms relevant to depression and neurodegeneration.",
+   "tier": "review",
+   "display": "Neuroprotective Activity of Hypericum perforatum and Its Major Components",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -35561,6 +36046,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1788",
+   "key": "rastogi2015cardiovascular",
+   "type": "article",
+   "title": "Traditional herbs: a remedy for cardiovascular disorders",
+   "authors": "Rastogi, S., Pandey, M.M. and Rawat, A.K.S.",
+   "journal": "Phytomedicine",
+   "year": "2015",
+   "doi": "10.1016/j.phymed.2015.10.012",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2015.10.012",
+   "link_type": "doi",
+   "citation": "Rastogi, S., Pandey, M.M. and Rawat, A.K.S (2015) 'Traditional herbs: a remedy for cardiovascular disorders', Phytomedicine, 23(11), pp. 1082-1089. doi:10.1016/j.phymed.2015.10.012",
+   "abstract": "This review of traditional herbs for cardiovascular disorders highlights Crataegus (hawthorn) among the plants used for congestive heart failure, hypertension, angina and arrhythmia, summarising its cardiotonic pharmacology.",
+   "tier": "review",
+   "display": "Traditional herbs: a remedy for cardiovascular disorders",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0869",
    "key": "kuchta2014qnmr",
    "type": "article",
@@ -36114,6 +36626,33 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1777",
+   "key": "turak2014wormwood",
+   "type": "article",
+   "title": "Dimeric guaianolides from Artemisia absinthium",
+   "authors": "Turak, A., Shi, S., Jiang, Y. and Tu, P.",
+   "journal": "Phytochemistry",
+   "year": "2014",
+   "doi": "10.1016/j.phytochem.2014.06.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytochem.2014.06.016",
+   "link_type": "doi",
+   "citation": "Turak, A., Shi, S., Jiang, Y. and Tu, P (2014) 'Dimeric guaianolides from Artemisia absinthium', Phytochemistry, 105, pp. 109-114. doi:10.1016/j.phytochem.2014.06.016",
+   "abstract": "Five new dimeric guaianolides (absinthins A-E) and seven known dimeric guaianolides were isolated and structurally elucidated from Artemisia absinthium, characterising the bitter sesquiterpene-lactone constituents of wormwood.",
+   "tier": "preclinical",
+   "display": "Dimeric guaianolides from Artemisia absinthium",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0797",
@@ -36808,6 +37347,35 @@
    ]
   },
   {
+   "ref_id": "REF-1785",
+   "key": "alp2014crataegus",
+   "type": "article",
+   "title": "Protective effects of Hawthorn (Crataegus oxyacantha) extract against digoxin-induced arrhythmias in rats",
+   "authors": "Alp, H., Soner, B.C., Baysal, T. and Sahin, A.S.",
+   "journal": "Anatolian Journal of Cardiology",
+   "year": "2014",
+   "doi": "10.5152/akd.2014.5869",
+   "url": "",
+   "link": "https://doi.org/10.5152/akd.2014.5869",
+   "link_type": "doi",
+   "citation": "Alp, H., Soner, B.C., Baysal, T. and Sahin, A.S (2014) 'Protective effects of Hawthorn (Crataegus oxyacantha) extract against digoxin-induced arrhythmias in rats', Anatolian Journal of Cardiology, 15(12), pp. 970-975. doi:10.5152/akd.2014.5869",
+   "abstract": "Crataegus oxyacantha extract exerted antiarrhythmic protection against digoxin-induced arrhythmias in rats, supporting the cardiac antispasmodic use of hawthorn.",
+   "tier": "preclinical",
+   "display": "Protective effects of Hawthorn (Crataegus oxyacantha) extract against digoxin-induced arrhythmias in rats",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0417",
    "key": "verma2014rubus",
    "type": "misc",
@@ -37494,6 +38062,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1778",
+   "key": "correaferreira2013wormwood",
+   "type": "article",
+   "title": "Artemisia absinthium and Artemisia vulgaris: a comparative study of infusion polysaccharides",
+   "authors": "Correa-Ferreira, M.L., Noleto, G.R. and Oliveira Petkowicz, C.L.",
+   "journal": "Carbohydrate Polymers",
+   "year": "2013",
+   "doi": "10.1016/j.carbpol.2013.10.096",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.carbpol.2013.10.096",
+   "link_type": "doi",
+   "citation": "Correa-Ferreira, M.L., Noleto, G.R. and Oliveira Petkowicz, C.L (2013) 'Artemisia absinthium and Artemisia vulgaris: a comparative study of infusion polysaccharides', Carbohydrate Polymers, 102, pp. 738-745. doi:10.1016/j.carbpol.2013.10.096",
+   "abstract": "A comparative study characterised the hot-water infusion polysaccharides of Artemisia absinthium and Artemisia vulgaris aerial parts (pectic polysaccharides and arabinogalactans), documenting carbohydrate constituents present in wormwood medicinal infusions.",
+   "tier": "preclinical",
+   "display": "Artemisia absinthium and Artemisia vulgaris: a comparative study of infusion polysaccharides",
+   "plants": [
+    "Wormwood",
+    "common wormwood",
+    "grand wormwood"
+   ],
+   "scientific": [
+    "Artemisia absinthium"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0584",
    "key": "wider2013artichoke",
    "type": "article",
@@ -38118,6 +38713,62 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1795",
+   "key": "liu2013hypericum",
+   "type": "article",
+   "title": "Hypericum perforatum L. preparations for menopause: a meta-analysis of efficacy and safety",
+   "authors": "Liu, Y., Jiang, Y., Huang, R., Yang, J., Xiao, B. and Dong, J.",
+   "journal": "Climacteric",
+   "year": "2013",
+   "doi": "10.3109/13697137.2013.861814",
+   "url": "",
+   "link": "https://doi.org/10.3109/13697137.2013.861814",
+   "link_type": "doi",
+   "citation": "Liu, Y., Jiang, Y., Huang, R., Yang, J., Xiao, B. and Dong, J (2013) 'Hypericum perforatum L. preparations for menopause: a meta-analysis of efficacy and safety', Climacteric, 17(4), pp. 325-335. doi:10.3109/13697137.2013.861814",
+   "abstract": "This meta-analysis found Hypericum perforatum preparations, alone or combined, improved menopausal symptoms versus placebo with a good safety profile, supporting its use for psychological and vasomotor menopausal complaints.",
+   "tier": "review",
+   "display": "Hypericum perforatum L. preparations for menopause: a meta-analysis of efficacy and safety",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1792",
+   "key": "russo2013hypericum",
+   "type": "article",
+   "title": "Hypericum perforatum: pharmacokinetic, mechanism of action, tolerability, and clinical drug-drug interactions",
+   "authors": "Russo, E., Scicchitano, F., Whalley, B.J., Mazzitello, C., Ciriaco, M., Esposito, S., Patane, M., Upton, R., Pugliese, M., Chimirri, S., Mammi, M., Palleria, C. and De Sarro, G.",
+   "journal": "Phytotherapy Research",
+   "year": "2013",
+   "doi": "10.1002/ptr.5050",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5050",
+   "link_type": "doi",
+   "citation": "Russo, E., Scicchitano, F., Whalley, B.J., Mazzitello, C., Ciriaco, M., Esposito, S., Patane, M., Upton, R., Pugliese, M., Chimirri, S., Mammi, M., Palleria, C. and De Sarro, G (2013) 'Hypericum perforatum: pharmacokinetic, mechanism of action, tolerability, and clinical drug-drug interactions', Phytotherapy Research, 28(5), pp. 643-655. doi:10.1002/ptr.5050",
+   "abstract": "This review details the pharmacokinetics, mechanism of action, tolerability and clinical drug-drug interactions of Hypericum perforatum, whose naphthodianthrones and phloroglucinols underpin its antidepressant use.",
+   "tier": "review",
+   "display": "Hypericum perforatum: pharmacokinetic, mechanism of action, tolerability, and clinical drug-drug interactions",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0463",
@@ -41774,6 +42425,34 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-1793",
+   "key": "saddiqe2010hypericum",
+   "type": "article",
+   "title": "A review of the antibacterial activity of Hypericum perforatum L.",
+   "authors": "Saddiqe, Z., Naeem, I. and Maimoona, A.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2010",
+   "doi": "10.1016/j.jep.2010.07.034",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2010.07.034",
+   "link_type": "doi",
+   "citation": "Saddiqe, Z., Naeem, I. and Maimoona, A (2010) 'A review of the antibacterial activity of Hypericum perforatum L', Journal of Ethnopharmacology, 131(3), pp. 511-521. doi:10.1016/j.jep.2010.07.034",
+   "abstract": "This review summarises the antibacterial activity of Hypericum perforatum (St John's wort), whose constituents hyperforin and flavonoids are active against Gram-positive bacteria, supporting its traditional use for infected wounds.",
+   "tier": "review",
+   "display": "A review of the antibacterial activity of Hypericum perforatum L.",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0709",
@@ -46809,6 +47488,36 @@
    ]
   },
   {
+   "ref_id": "REF-1796",
+   "key": "wurglics2006hypericum",
+   "type": "article",
+   "title": "Hypericum perforatum: a 'modern' herbal antidepressant: pharmacokinetics of active ingredients",
+   "authors": "Wurglics, M. and Schubert-Zsilavecz, M.",
+   "journal": "Clinical Pharmacokinetics",
+   "year": "2006",
+   "doi": "10.2165/00003088-200645050-00002",
+   "url": "",
+   "link": "https://doi.org/10.2165/00003088-200645050-00002",
+   "link_type": "doi",
+   "citation": "Wurglics, M. and Schubert-Zsilavecz, M (2006) 'Hypericum perforatum: a 'modern' herbal antidepressant: pharmacokinetics of active ingredients', Clinical Pharmacokinetics, 45(5), pp. 449-468. doi:10.2165/00003088-200645050-00002",
+   "abstract": "This review covers the pharmacokinetics of the active ingredients of Hypericum perforatum, the only herbal alternative to synthetic antidepressants for mild-to-moderate depression.",
+   "tier": "review",
+   "display": "Hypericum perforatum: a 'modern' herbal antidepressant: pharmacokinetics of active ingredients",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1386",
    "key": "castro2006verbascum",
    "type": "article",
@@ -48285,6 +48994,36 @@
    ]
   },
   {
+   "ref_id": "REF-1794",
+   "key": "mennini2004hypericum",
+   "type": "article",
+   "title": "The antidepressant mechanism of Hypericum perforatum",
+   "authors": "Mennini, T. and Gobbi, M.",
+   "journal": "Life Sciences",
+   "year": "2004",
+   "doi": "10.1016/j.lfs.2004.04.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.lfs.2004.04.005",
+   "link_type": "doi",
+   "citation": "Mennini, T. and Gobbi, M (2004) 'The antidepressant mechanism of Hypericum perforatum', Life Sciences, 75(9), pp. 1021-1027. doi:10.1016/j.lfs.2004.04.005",
+   "abstract": "This review discusses the antidepressant mechanism of Hypericum perforatum, identifying hyperforin as the main active principle acting via inhibition of synaptic neurotransmitter re-uptake.",
+   "tier": "review",
+   "display": "The antidepressant mechanism of Hypericum perforatum",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0013",
    "key": "atkinson2004phytoestrogen",
    "type": "article",
@@ -48889,6 +49628,36 @@
     "Respiratory support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1799",
+   "key": "verotta2003hypericum",
+   "type": "article",
+   "title": "Hypericum perforatum, a source of neuroactive lead structures",
+   "authors": "Verotta, L.",
+   "journal": "Current Topics in Medicinal Chemistry",
+   "year": "2003",
+   "doi": "10.2174/1568026033392589",
+   "url": "",
+   "link": "https://doi.org/10.2174/1568026033392589",
+   "link_type": "doi",
+   "citation": "Verotta, L (2003) 'Hypericum perforatum, a source of neuroactive lead structures', Current Topics in Medicinal Chemistry, 3(2), pp. 187-201. doi:10.2174/1568026033392589",
+   "abstract": "This review presents Hypericum perforatum as a source of neuroactive lead structures, focusing on hyperforin and hypericin and their contribution to the antidepressant activity of St John's wort.",
+   "tier": "review",
+   "display": "Hypericum perforatum, a source of neuroactive lead structures",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1569",
@@ -49766,6 +50535,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1779",
+   "key": "rigelsky2002hawthorn",
+   "type": "article",
+   "title": "Hawthorn: pharmacology and therapeutic uses",
+   "authors": "Rigelsky, J.M. and Sweet, B.V.",
+   "journal": "American Journal of Health-System Pharmacy",
+   "year": "2002",
+   "doi": "10.1093/ajhp/59.5.417",
+   "url": "",
+   "link": "https://doi.org/10.1093/ajhp/59.5.417",
+   "link_type": "doi",
+   "citation": "Rigelsky, J.M. and Sweet, B.V (2002) 'Hawthorn: pharmacology and therapeutic uses', American Journal of Health-System Pharmacy, 59(5), pp. 417-422. doi:10.1093/ajhp/59.5.417",
+   "abstract": "This review of hawthorn (Crataegus oxyacantha) summarises its pharmacology, clinical efficacy, dosing, adverse effects and drug interactions, with uses including the treatment of digestive ailments and congestive heart failure.",
+   "tier": "review",
+   "display": "Hawthorn: pharmacology and therapeutic uses",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0140",
    "key": "klaiber2002isoflavones",
    "type": "article",
@@ -50413,6 +51209,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1786",
+   "key": "rothfuss2001crataegus",
+   "type": "article",
+   "title": "Effect of long-term application of Crataegus oxyacantha on ischemia and reperfusion induced arrhythmias in rats",
+   "authors": "Rothfuss, M.A., Pascht, U. and Kissling, G.",
+   "journal": "Arzneimittel-Forschung",
+   "year": "2001",
+   "doi": "10.1055/s-0031-1299998",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0031-1299998",
+   "link_type": "doi",
+   "citation": "Rothfuss, M.A., Pascht, U. and Kissling, G (2001) 'Effect of long-term application of Crataegus oxyacantha on ischemia and reperfusion induced arrhythmias in rats', Arzneimittel-Forschung, 51(1), pp. 24-28. doi:10.1055/s-0031-1299998",
+   "abstract": "Long-term administration of a standardised Crataegus oxyacantha extract reduced ischemia- and reperfusion-induced arrhythmias in rats, supporting the cardioprotective antiarrhythmic use of hawthorn.",
+   "tier": "preclinical",
+   "display": "Effect of long-term application of Crataegus oxyacantha on ischemia and reperfusion induced arrhythmias in rats",
+   "plants": [
+    "Midland Hawthorn",
+    "may tree",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0614",
    "key": "komesaroff2001wildyam",
    "type": "article",
@@ -50547,6 +51372,36 @@
     "Mentha × piperita"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1797",
+   "key": "kasper2001hypericum",
+   "type": "article",
+   "title": "Hypericum perforatum - a review of clinical studies",
+   "authors": "Kasper, S.",
+   "journal": "Pharmacopsychiatry",
+   "year": "2001",
+   "doi": "10.1055/s-2001-15467",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2001-15467",
+   "link_type": "doi",
+   "citation": "Kasper, S (2001) 'Hypericum perforatum - a review of clinical studies', Pharmacopsychiatry, 34(Suppl 1), pp. S51-S55. doi:10.1055/s-2001-15467",
+   "abstract": "This review of clinical studies of Hypericum perforatum (St John's wort) found it effective compared with placebo for mild-to-moderate depression, with good tolerability.",
+   "tier": "review",
+   "display": "Hypericum perforatum - a review of clinical studies",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -51553,6 +52408,36 @@
     "Muscle soreness",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1798",
+   "key": "nathan1999hypericum",
+   "type": "article",
+   "title": "The experimental and clinical pharmacology of St John's Wort (Hypericum perforatum L.)",
+   "authors": "Nathan, P.",
+   "journal": "Molecular Psychiatry",
+   "year": "1999",
+   "doi": "10.1038/sj.mp.4000557",
+   "url": "",
+   "link": "https://doi.org/10.1038/sj.mp.4000557",
+   "link_type": "doi",
+   "citation": "Nathan, P (1999) 'The experimental and clinical pharmacology of St John's Wort (Hypericum perforatum L.)', Molecular Psychiatry, 4(4), pp. 333-338. doi:10.1038/sj.mp.4000557",
+   "abstract": "This review of the experimental and clinical pharmacology of Hypericum perforatum describes its action on serotonin, noradrenaline and dopamine re-uptake systems relevant to antidepressant activity.",
+   "tier": "review",
+   "display": "The experimental and clinical pharmacology of St John's Wort (Hypericum perforatum L.)",
+   "plants": [
+    "Perforate St John’s-wort",
+    "St John's wort",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0305",

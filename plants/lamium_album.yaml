@@ -48,6 +48,9 @@ actions:
   - REF-0347
   - REF-0348
   - REF-0349
+  - REF-1746
+  - REF-1747
+  - REF-1751
   status: verified
 - action: antioxidant
   parts:
@@ -55,6 +58,7 @@ actions:
   reference_ids:
   - REF-0342
   - REF-0343
+  - REF-1749
   status: verified
 - action: astringent
   parts:
@@ -66,6 +70,7 @@ actions:
   - REF-0347
   - REF-0348
   - REF-0349
+  - REF-1752
   status: verified
 - action: expectorant
   parts:
@@ -73,6 +78,7 @@ actions:
   reference_ids:
   - REF-0339
   - REF-0347
+  - REF-1753
   status: verified
 - action: vulnerary
   parts:
@@ -81,6 +87,7 @@ actions:
   reference_ids:
   - REF-0347
   - REF-0348
+  - REF-1756
   status: verified
 indications:
 - condition: arthritis
@@ -174,11 +181,27 @@ contraindications:
   - REF-0351
   - REF-0352
   status: verified
-provenance: book+website
+references:
+- REF-1746
+- REF-1747
+- REF-1748
+- REF-1749
+- REF-1750
+- REF-1751
+- REF-1752
+- REF-1753
+- REF-1754
+- REF-1755
+- REF-1756
+- REF-1757
+provenance: book+website+pubmed
 status: verified
-last_updated: '2026-06-12'
+last_updated: '2026-06-20'
 internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://omniasana.bio/white-dead-nettle-lamium-album/).
   New species not in the book manuscript. Identification, distribution and collection notes from the source
   are retained in the bibliography (some references are cited at plant level). | 2026-06-15: migrated
   to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). Unmapped
-  uses kept for reference: Edible spring potherb (young leaves and shoots, cooked).'
+  uses kept for reference: Edible spring potherb (young leaves and shoots, cooked). | 2026-06-20: enriched
+  to >=10 scientific publications: added 12 PubMed-verified @article sources (REF-1746, REF-1747, REF-1748,
+  REF-1749, REF-1750, REF-1751, REF-1752, REF-1753, REF-1754, REF-1755, REF-1756, REF-1757) — woven into
+  relevant actions/indications and the plant-level references bucket.'

@@ -15728,7 +15728,13 @@
      "reference_ids": [
       "REF-0035",
       "REF-0073",
-      "REF-0229"
+      "REF-0229",
+      "REF-1734",
+      "REF-1735",
+      "REF-1737",
+      "REF-1738",
+      "REF-1739",
+      "REF-1745"
      ],
      "status": "verified"
     },
@@ -15737,7 +15743,11 @@
      "reference_ids": [
       "REF-0035",
       "REF-0073",
-      "REF-0229"
+      "REF-0229",
+      "REF-1734",
+      "REF-1736",
+      "REF-1740",
+      "REF-1741"
      ],
      "status": "verified"
     },
@@ -15746,7 +15756,8 @@
      "reference_ids": [
       "REF-0035",
       "REF-0073",
-      "REF-0229"
+      "REF-0229",
+      "REF-1736"
      ],
      "status": "verified"
     },
@@ -15755,7 +15766,9 @@
      "reference_ids": [
       "REF-0035",
       "REF-0073",
-      "REF-0229"
+      "REF-0229",
+      "REF-1735",
+      "REF-1741"
      ],
      "status": "verified"
     },
@@ -15866,7 +15879,19 @@
    "references": [
     "REF-0851",
     "REF-0852",
-    "REF-0853"
+    "REF-0853",
+    "REF-1734",
+    "REF-1735",
+    "REF-1736",
+    "REF-1737",
+    "REF-1738",
+    "REF-1739",
+    "REF-1740",
+    "REF-1741",
+    "REF-1742",
+    "REF-1743",
+    "REF-1744",
+    "REF-1745"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -16112,7 +16137,10 @@
       "REF-0343",
       "REF-0347",
       "REF-0348",
-      "REF-0349"
+      "REF-0349",
+      "REF-1746",
+      "REF-1747",
+      "REF-1751"
      ],
      "status": "verified"
     },
@@ -16123,7 +16151,8 @@
      ],
      "reference_ids": [
       "REF-0342",
-      "REF-0343"
+      "REF-0343",
+      "REF-1749"
      ],
      "status": "verified"
     },
@@ -16137,7 +16166,8 @@
      "reference_ids": [
       "REF-0347",
       "REF-0348",
-      "REF-0349"
+      "REF-0349",
+      "REF-1752"
      ],
      "status": "verified"
     },
@@ -16148,7 +16178,8 @@
      ],
      "reference_ids": [
       "REF-0339",
-      "REF-0347"
+      "REF-0347",
+      "REF-1753"
      ],
      "status": "verified"
     },
@@ -16160,7 +16191,8 @@
      "note": "Vulnerary (minor wounds), applied topically",
      "reference_ids": [
       "REF-0347",
-      "REF-0348"
+      "REF-0348",
+      "REF-1756"
      ],
      "status": "verified"
     }
@@ -16295,9 +16327,23 @@
      "status": "verified"
     }
    ],
-   "provenance": "book+website",
+   "references": [
+    "REF-1746",
+    "REF-1747",
+    "REF-1748",
+    "REF-1749",
+    "REF-1750",
+    "REF-1751",
+    "REF-1752",
+    "REF-1753",
+    "REF-1754",
+    "REF-1755",
+    "REF-1756",
+    "REF-1757"
+   ],
+   "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "laurus-nobilis",
@@ -22987,14 +23033,17 @@
      "reference_ids": [
       "REF-0234",
       "REF-0260",
-      "REF-0309"
+      "REF-0309",
+      "REF-1763",
+      "REF-1764"
      ],
      "status": "verified"
     },
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0354"
+      "REF-0354",
+      "REF-1765"
      ],
      "status": "verified"
     },
@@ -23003,7 +23052,10 @@
      "reference_ids": [
       "REF-0234",
       "REF-0260",
-      "REF-0309"
+      "REF-0309",
+      "REF-0354",
+      "REF-1767",
+      "REF-1768"
      ],
      "status": "verified"
     },
@@ -23021,7 +23073,9 @@
      "note": "Demulcent / expectorant (coughs, catarrh, irritated airways)",
      "reference_ids": [
       "REF-0357",
-      "REF-0358"
+      "REF-0358",
+      "REF-1762",
+      "REF-1769"
      ],
      "status": "verified"
     },
@@ -23033,7 +23087,9 @@
       "REF-0260",
       "REF-0309",
       "REF-0357",
-      "REF-0358"
+      "REF-0358",
+      "REF-1758",
+      "REF-1766"
      ],
      "status": "verified"
     },
@@ -23041,7 +23097,9 @@
      "action": "laxative",
      "note": "Bulk laxative (mucilaginous seeds)",
      "reference_ids": [
-      "REF-0358"
+      "REF-0358",
+      "REF-1758",
+      "REF-1769"
      ],
      "status": "verified"
     },
@@ -23054,7 +23112,10 @@
       "REF-0309",
       "REF-0358",
       "REF-0364",
-      "REF-0368"
+      "REF-0368",
+      "REF-1759",
+      "REF-1760",
+      "REF-1761"
      ],
      "status": "verified"
     }
@@ -23241,9 +23302,24 @@
      "status": "verified"
     }
    ],
-   "provenance": "book+website",
+   "references": [
+    "REF-1758",
+    "REF-0354",
+    "REF-1759",
+    "REF-1760",
+    "REF-1761",
+    "REF-1762",
+    "REF-1763",
+    "REF-1764",
+    "REF-1765",
+    "REF-1766",
+    "REF-1767",
+    "REF-1768",
+    "REF-1769"
+   ],
+   "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "pleurotus-ostreatus",

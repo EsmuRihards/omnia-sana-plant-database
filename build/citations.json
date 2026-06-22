@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1733,
+ "count": 1769,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -5866,6 +5866,36 @@
     "Galium aparine"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1765",
+   "key": "turki2023plantago",
+   "type": "article",
+   "title": "Antibacterial activity of ethanolic extracts of Plantago major leaves against Pseudomonas aeruginosa from burn infections",
+   "authors": "Turki Monawer, A. and Mohammed Abdulkahar Mammani, I.",
+   "journal": "Journal of Infection in Developing Countries",
+   "year": "2023",
+   "doi": "10.3855/jidc.17576",
+   "url": "",
+   "link": "https://doi.org/10.3855/jidc.17576",
+   "link_type": "doi",
+   "citation": "Turki Monawer, A. and Mohammed Abdulkahar Mammani, I (2023) 'Antibacterial activity of ethanolic extracts of Plantago major leaves against Pseudomonas aeruginosa from burn infections', Journal of Infection in Developing Countries, 17(2), pp. 276-280. doi:10.3855/jidc.17576",
+   "abstract": "Ethanolic extracts of Plantago major leaves inhibited Pseudomonas aeruginosa isolated from burn infections, demonstrating antibacterial activity relevant to the herb's traditional use on wounds.",
+   "tier": "preclinical",
+   "display": "Antibacterial activity of ethanolic extracts of Plantago major leaves against Pseudomonas aeruginosa from burn infections",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -11873,6 +11903,39 @@
    ]
   },
   {
+   "ref_id": "REF-1741",
+   "key": "lin2022juniper",
+   "type": "article",
+   "title": "Juniperus communis extract ameliorates lipopolysaccharide-induced acute kidney injury through the adenosine monophosphate-activated protein kinase pathway",
+   "authors": "Lin, T., Lu, C., Chang, K. and Lee, C.",
+   "journal": "Food Science & Nutrition",
+   "year": "2022",
+   "doi": "10.1002/fsn3.2941",
+   "url": "",
+   "link": "https://doi.org/10.1002/fsn3.2941",
+   "link_type": "doi",
+   "citation": "Lin, T., Lu, C., Chang, K. and Lee, C (2022) 'Juniperus communis extract ameliorates lipopolysaccharide-induced acute kidney injury through the adenosine monophosphate-activated protein kinase pathway', Food Science & Nutrition, 10(10), pp. 3405-3414. doi:10.1002/fsn3.2941",
+   "abstract": "Juniperus communis extract ameliorated lipopolysaccharide-induced acute kidney injury in vivo and in vitro by activating the AMPK pathway and reducing inflammation and oxidative stress, supporting juniper's anti-inflammatory and renal/urinary applications.",
+   "tier": "preclinical",
+   "display": "Juniperus communis extract ameliorates lipopolysaccharide-induced acute kidney injury through the adenosine monophosphate-activated protein kinase pathway",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Diuretic"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1652",
    "key": "savic2022gentiana",
    "type": "article",
@@ -12635,6 +12698,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1751",
+   "key": "khanaki2022lamium",
+   "type": "article",
+   "title": "Potential anti-inflammatory effect of Lamium album extract through caspase-3 and cyclooxygenase-2 genes expression in a rat model of middle cerebral artery occlusion",
+   "authors": "Khanaki, K., Fekri, A., Abedinzade, M., Mohammadi, E. and Aghajanpour, F.",
+   "journal": "Folia Medica",
+   "year": "2022",
+   "doi": "10.3897/folmed.64.e60562",
+   "url": "",
+   "link": "https://doi.org/10.3897/folmed.64.e60562",
+   "link_type": "doi",
+   "citation": "Khanaki, K., Fekri, A., Abedinzade, M., Mohammadi, E. and Aghajanpour, F (2022) 'Potential anti-inflammatory effect of Lamium album extract through caspase-3 and cyclooxygenase-2 genes expression in a rat model of middle cerebral artery occlusion', Folia Medica, 64(2), pp. 275-282. doi:10.3897/folmed.64.e60562",
+   "abstract": "In a rat middle-cerebral-artery-occlusion stroke model, Lamium album extract modulated caspase-3 and cyclooxygenase-2 gene expression, indicating a potential anti-inflammatory and anti-apoptotic effect of white dead-nettle.",
+   "tier": "preclinical",
+   "display": "Potential anti-inflammatory effect of Lamium album extract through caspase-3 and cyclooxygenase-2 genes expression in a rat model of middle cerebral artery occlusion",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1144",
    "key": "heger2022viola",
    "type": "article",
@@ -13151,6 +13244,36 @@
    ]
   },
   {
+   "ref_id": "REF-1760",
+   "key": "ghanadian2022plantago",
+   "type": "article",
+   "title": "The Effect of Plantago major Hydroalcoholic Extract on the Healing of Diabetic Foot and Pressure Ulcers: A Randomized Open-Label Controlled Clinical Trial",
+   "authors": "Ghanadian, M., Soltani, R., Homayouni, A., Khorvash, F., Jouabadi, S.M. and Abdollahzadeh, M.",
+   "journal": "The International Journal of Lower Extremity Wounds",
+   "year": "2022",
+   "doi": "10.1177/15347346211070723",
+   "url": "",
+   "link": "https://doi.org/10.1177/15347346211070723",
+   "link_type": "doi",
+   "citation": "Ghanadian, M., Soltani, R., Homayouni, A., Khorvash, F., Jouabadi, S.M. and Abdollahzadeh, M (2022) 'The Effect of Plantago major Hydroalcoholic Extract on the Healing of Diabetic Foot and Pressure Ulcers: A Randomized Open-Label Controlled Clinical Trial', The International Journal of Lower Extremity Wounds, 23(3), pp. 475-481. doi:10.1177/15347346211070723",
+   "abstract": "In a randomised open-label controlled clinical trial, topical Plantago major hydroalcoholic extract improved healing of diabetic foot and pressure ulcers, giving clinical support for the herb's vulnerary use.",
+   "tier": "rct",
+   "display": "The Effect of Plantago major Hydroalcoholic Extract on the Healing of Diabetic Foot and Pressure Ulcers: A Randomized Open-Label Controlled Clinical Trial",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1526",
    "key": "ivanovastojcheva2022rhodiola",
    "type": "article",
@@ -13620,6 +13743,39 @@
     "Rumex acetosa"
    ],
    "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1734",
+   "key": "goncalves2022juniper",
+   "type": "article",
+   "title": "Zimbro (Juniperus communis L.) as a Promising Source of Bioactive Compounds and Biomedical Activities: A Review on Recent Trends",
+   "authors": "Goncalves, A.C., Flores-Felix, J.D., Coutinho, P., Alves, G. and Silva, L.R.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2022",
+   "doi": "10.3390/ijms23063197",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms23063197",
+   "link_type": "doi",
+   "citation": "Goncalves, A.C., Flores-Felix, J.D., Coutinho, P., Alves, G. and Silva, L.R (2022) 'Zimbro (Juniperus communis L.) as a Promising Source of Bioactive Compounds and Biomedical Activities: A Review on Recent Trends', International Journal of Molecular Sciences, 23(6), pp. 3197. doi:10.3390/ijms23063197",
+   "abstract": "This review of common juniper (Juniperus communis) details its phenolic and terpenic phytochemistry and its antioxidant, antimicrobial, anti-inflammatory, antidiabetic and other biomedical activities, supporting its traditional use for cystitis and urinary complaints.",
+   "tier": "review",
+   "display": "Zimbro (Juniperus communis L.) as a Promising Source of Bioactive Compounds and Biomedical Activities: A Review on Recent Trends",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antimicrobial",
     "Antioxidant"
    ],
    "conditions": []
@@ -14653,6 +14809,36 @@
    ]
   },
   {
+   "ref_id": "REF-1761",
+   "key": "ghiasian2021plantago",
+   "type": "article",
+   "title": "Clinical and phytochemical studies of Plantago major in pressure ulcer treatment: A randomized controlled trial",
+   "authors": "Ghiasian, M., Niroomandi, Z., Dastan, D., Poorolajal, J., Zare, F. and Ataei, S.",
+   "journal": "Complementary Therapies in Clinical Practice",
+   "year": "2021",
+   "doi": "10.1016/j.ctcp.2021.101325",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctcp.2021.101325",
+   "link_type": "doi",
+   "citation": "Ghiasian, M., Niroomandi, Z., Dastan, D., Poorolajal, J., Zare, F. and Ataei, S (2021) 'Clinical and phytochemical studies of Plantago major in pressure ulcer treatment: A randomized controlled trial', Complementary Therapies in Clinical Practice, 43, pp. 101325. doi:10.1016/j.ctcp.2021.101325",
+   "abstract": "A randomised triple-blind controlled trial found that a topical Plantago major formulation improved stage-1 pressure ulcers, supporting the vulnerary use of greater plantain.",
+   "tier": "rct",
+   "display": "Clinical and phytochemical studies of Plantago major in pressure ulcer treatment: A randomized controlled trial",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1074",
    "key": "harogonzalez2021clove",
    "type": "article",
@@ -15233,6 +15419,36 @@
    ]
   },
   {
+   "ref_id": "REF-1743",
+   "key": "huang2021juniper",
+   "type": "article",
+   "title": "Evaluation of anticancer effects of Juniperus communis extract on hepatocellular carcinoma cells in vitro and in vivo",
+   "authors": "Huang, N., Huang, R., Huang, X., Chang, K., Lee, C., Hsiao, C., Lee, S. and Tsai, N.",
+   "journal": "Bioscience Reports",
+   "year": "2021",
+   "doi": "10.1042/BSR20211143",
+   "url": "",
+   "link": "https://doi.org/10.1042/BSR20211143",
+   "link_type": "doi",
+   "citation": "Huang, N., Huang, R., Huang, X., Chang, K., Lee, C., Hsiao, C., Lee, S. and Tsai, N (2021) 'Evaluation of anticancer effects of Juniperus communis extract on hepatocellular carcinoma cells in vitro and in vivo', Bioscience Reports, 41(7), pp. BSR20211143. doi:10.1042/BSR20211143",
+   "abstract": "Juniperus communis extract inhibited hepatocellular carcinoma cell growth and induced apoptosis in vitro and in vivo, supporting the anticancer potential of juniper berry extract.",
+   "tier": "preclinical",
+   "display": "Evaluation of anticancer effects of Juniperus communis extract on hepatocellular carcinoma cells in vitro and in vivo",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1104",
    "key": "kanadys2021clover",
    "type": "article",
@@ -15685,6 +15901,34 @@
    ]
   },
   {
+   "ref_id": "REF-1750",
+   "key": "konarska2021lamium",
+   "type": "article",
+   "title": "Histochemical and Phytochemical Analysis of Lamium album subsp. album L. Corolla: Essential Oil, Triterpenes, and Iridoids",
+   "authors": "Konarska, A., Weryszko-Chmielewska, E., Matysik-Wozniak, A., Sulborska, A., Polak, B., Dmitruk, M., Piotrowska-Weryszko, K., Stefanczyk, B. and Rejdak, R.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26144166",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26144166",
+   "link_type": "doi",
+   "citation": "Konarska, A., Weryszko-Chmielewska, E., Matysik-Wozniak, A., Sulborska, A., Polak, B., Dmitruk, M., Piotrowska-Weryszko, K., Stefanczyk, B. and Rejdak, R (2021) 'Histochemical and Phytochemical Analysis of Lamium album subsp. album L. Corolla: Essential Oil, Triterpenes, and Iridoids', Molecules, 26(14), pp. 4166. doi:10.3390/molecules26144166",
+   "abstract": "Histochemical and phytochemical analysis of the Lamium album corolla localised essential oil, triterpenes and iridoids in its trichomes, characterising the lipophilic and iridoid constituents of white dead-nettle flowers.",
+   "tier": "preclinical",
+   "display": "Histochemical and Phytochemical Analysis of Lamium album subsp. album L. Corolla: Essential Oil, Triterpenes, and Iridoids",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0322",
    "key": "farm2021harvest",
    "type": "misc",
@@ -16073,6 +16317,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1744",
+   "key": "lai2021juniper",
+   "type": "article",
+   "title": "Juniperus communis extract induces cell cycle arrest and apoptosis of colorectal adenocarcinoma in vitro and in vivo",
+   "authors": "Lai, W., Lee, S., Chang, K., Huang, X., Li, C., Lee, C., Wu, C., Hsu, H. and Tsai, N.",
+   "journal": "Brazilian Journal of Medical and Biological Research",
+   "year": "2021",
+   "doi": "10.1590/1414-431X2020e10891",
+   "url": "",
+   "link": "https://doi.org/10.1590/1414-431X2020e10891",
+   "link_type": "doi",
+   "citation": "Lai, W., Lee, S., Chang, K., Huang, X., Li, C., Lee, C., Wu, C., Hsu, H. and Tsai, N (2021) 'Juniperus communis extract induces cell cycle arrest and apoptosis of colorectal adenocarcinoma in vitro and in vivo', Brazilian Journal of Medical and Biological Research, 54(10), pp. e10891. doi:10.1590/1414-431X2020e10891",
+   "abstract": "Juniperus communis extract induced cell cycle arrest and apoptosis in colorectal adenocarcinoma cells in vitro and in vivo, adding to the evidence for anticancer activity of juniper.",
+   "tier": "preclinical",
+   "display": "Juniperus communis extract induces cell cycle arrest and apoptosis of colorectal adenocarcinoma in vitro and in vivo",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0116",
@@ -17877,6 +18151,36 @@
     "Oenothera biennis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1759",
+   "key": "cardoso2021plantago",
+   "type": "article",
+   "title": "The Effect of Plantago major on Wound Healing in Preclinical Studies: A Systematic Review",
+   "authors": "Cardoso, F.C.I., Breder, J.C., Apolinario, P.P., Oliveira, H.C., Saidel, M.G.B., Dini, A.P., Oliveira-Kumakura, A.R. and Lima, M.H.M.",
+   "journal": "Wound Management & Prevention",
+   "year": "2021",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=The%20Effect%20of%20Plantago%20major%20on%20Wound%20Healing%20in%20Preclinical%20Studies%3A%20A%20Systematic%20Review",
+   "link_type": "search",
+   "citation": "Cardoso, F.C.I., Breder, J.C., Apolinario, P.P., Oliveira, H.C., Saidel, M.G.B., Dini, A.P., Oliveira-Kumakura, A.R. and Lima, M.H.M (2021) 'The Effect of Plantago major on Wound Healing in Preclinical Studies: A Systematic Review', Wound Management & Prevention, 67(1), pp. 27-34.",
+   "abstract": "This systematic review of preclinical studies found that topical Plantago major consistently accelerated skin wound healing in animal models, supporting its traditional vulnerary use.",
+   "tier": "review",
+   "display": "The Effect of Plantago major on Wound Healing in Preclinical Studies: A Systematic Review",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
    "conditions": []
   },
   {
@@ -20705,6 +21009,34 @@
    ]
   },
   {
+   "ref_id": "REF-1748",
+   "key": "czerwinska2020lamium",
+   "type": "article",
+   "title": "Lamalbid, Chlorogenic Acid, and Verbascoside as Tools for Standardization of Lamium album Flowers - Development and Validation of HPLC-DAD Method",
+   "authors": "Czerwinska, M.E., Kalinowska, E., Popowski, D. and Bazylko, A.",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25071721",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25071721",
+   "link_type": "doi",
+   "citation": "Czerwinska, M.E., Kalinowska, E., Popowski, D. and Bazylko, A (2020) 'Lamalbid, Chlorogenic Acid, and Verbascoside as Tools for Standardization of Lamium album Flowers - Development and Validation of HPLC-DAD Method', Molecules, 25(7), pp. 1721. doi:10.3390/molecules25071721",
+   "abstract": "An HPLC-DAD method was developed and validated for standardising Lamium album flowers using lamalbid, chlorogenic acid and verbascoside as marker compounds, characterising the iridoid and phenylpropanoid constituents of white dead-nettle used for upper-respiratory and mucosal inflammation.",
+   "tier": "preclinical",
+   "display": "Lamalbid, Chlorogenic Acid, and Verbascoside as Tools for Standardization of Lamium album Flowers - Development and Validation of HPLC-DAD Method",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1175",
    "key": "damjanovic2020mahonia",
    "type": "article",
@@ -21111,6 +21443,36 @@
     "Rubus idaeus"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1749",
+   "key": "sulborska2020lamium",
+   "type": "article",
+   "title": "Phenolic Constituents of Lamium album L. subsp. album Flowers: Anatomical, Histochemical, and Phytochemical Study",
+   "authors": "Sulborska, A., Konarska, A., Matysik-Wozniak, A., Dmitruk, M., Weryszko-Chmielewska, E., Skalska-Kaminska, A. and Rejdak, R.",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25246025",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25246025",
+   "link_type": "doi",
+   "citation": "Sulborska, A., Konarska, A., Matysik-Wozniak, A., Dmitruk, M., Weryszko-Chmielewska, E., Skalska-Kaminska, A. and Rejdak, R (2020) 'Phenolic Constituents of Lamium album L. subsp. album Flowers: Anatomical, Histochemical, and Phytochemical Study', Molecules, 25(24), pp. 6025. doi:10.3390/molecules25246025",
+   "abstract": "Anatomical, histochemical and phytochemical study of Lamium album flowers localised and characterised their phenolic acids and flavonoids in the corolla secretory structures, documenting the antioxidant phytochemistry of white dead-nettle.",
+   "tier": "preclinical",
+   "display": "Phenolic Constituents of Lamium album L. subsp. album Flowers: Anatomical, Histochemical, and Phytochemical Study",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -22335,6 +22697,36 @@
     "High blood pressure",
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-1766",
+   "key": "boskabadi2020plantago",
+   "type": "article",
+   "title": "The Relaxant Effect of Plantago Major on Rat Tracheal Smooth Muscles and Its Possible Mechanisms",
+   "authors": "Boskabadi, J., Saadat, S. and Boskabady, M.H.",
+   "journal": "Iranian Journal of Allergy, Asthma and Immunology",
+   "year": "2020",
+   "doi": "10.18502/ijaai.v19i4.4113",
+   "url": "",
+   "link": "https://doi.org/10.18502/ijaai.v19i4.4113",
+   "link_type": "doi",
+   "citation": "Boskabadi, J., Saadat, S. and Boskabady, M.H (2020) 'The Relaxant Effect of Plantago Major on Rat Tracheal Smooth Muscles and Its Possible Mechanisms', Iranian Journal of Allergy, Asthma and Immunology, 19(4), pp. 386-396. doi:10.18502/ijaai.v19i4.4113",
+   "abstract": "Hydroalcoholic Plantago major extract relaxed rat tracheal smooth muscle through mechanisms involving beta-adrenergic and muscarinic receptors, supporting the traditional expectorant and antitussive use of greater plantain.",
+   "tier": "preclinical",
+   "display": "The Relaxant Effect of Plantago Major on Rat Tracheal Smooth Muscles and Its Possible Mechanisms",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Expectorant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0683",
@@ -23876,6 +24268,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1752",
+   "key": "bubueanu2019lamium",
+   "type": "article",
+   "title": "Haemostatic activity of butanolic extracts of Lamium album and Lamium purpureum aerial parts",
+   "authors": "Bubueanu, C., Iuksel, R. and Panteli, M.",
+   "journal": "Acta Pharmaceutica",
+   "year": "2019",
+   "doi": "10.2478/acph-2019-0026",
+   "url": "",
+   "link": "https://doi.org/10.2478/acph-2019-0026",
+   "link_type": "doi",
+   "citation": "Bubueanu, C., Iuksel, R. and Panteli, M (2019) 'Haemostatic activity of butanolic extracts of Lamium album and Lamium purpureum aerial parts', Acta Pharmaceutica, 69(3), pp. 443-449. doi:10.2478/acph-2019-0026",
+   "abstract": "Butanolic extracts of Lamium album aerial parts showed haemostatic (procoagulant) activity in vitro, providing experimental support for the traditional astringent and styptic use of white dead-nettle.",
+   "tier": "preclinical",
+   "display": "Haemostatic activity of butanolic extracts of Lamium album and Lamium purpureum aerial parts",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [
+    "Astringent"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0786",
    "key": "lis2019monogyna",
    "type": "article",
@@ -24011,6 +24433,36 @@
    ],
    "scientific": [
     "Humulus lupulus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1742",
+   "key": "gao2019juniper",
+   "type": "article",
+   "title": "Juniperus communis Suppresses Melanoma Tumorigenesis by Inhibiting Tumor Growth and Inducing Apoptosis",
+   "authors": "Gao, H., Huang, X., Yang, T., Chang, K., Yeh, L., Hsieh, M., Weng, J. and Tsai, N.",
+   "journal": "The American Journal of Chinese Medicine",
+   "year": "2019",
+   "doi": "10.1142/S0192415X19500605",
+   "url": "",
+   "link": "https://doi.org/10.1142/S0192415X19500605",
+   "link_type": "doi",
+   "citation": "Gao, H., Huang, X., Yang, T., Chang, K., Yeh, L., Hsieh, M., Weng, J. and Tsai, N (2019) 'Juniperus communis Suppresses Melanoma Tumorigenesis by Inhibiting Tumor Growth and Inducing Apoptosis', The American Journal of Chinese Medicine, 47(5), pp. 1171-1191. doi:10.1142/S0192415X19500605",
+   "abstract": "Juniperus communis berry extract suppressed melanoma tumorigenesis in vitro and in vivo by inhibiting tumour growth and inducing apoptosis, demonstrating anticancer potential of juniper.",
+   "tier": "preclinical",
+   "display": "Juniperus communis Suppresses Melanoma Tumorigenesis by Inhibiting Tumor Growth and Inducing Apoptosis",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
    ],
    "actions": [],
    "conditions": []
@@ -24521,6 +24973,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1736",
+   "key": "raina2019juniper",
+   "type": "article",
+   "title": "Potential of Juniperus communis L as a nutraceutical in human and veterinary medicine",
+   "authors": "Raina, R., Verma, P.K., Peshin, R. and Kour, H.",
+   "journal": "Heliyon",
+   "year": "2019",
+   "doi": "10.1016/j.heliyon.2019.e02376",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.heliyon.2019.e02376",
+   "link_type": "doi",
+   "citation": "Raina, R., Verma, P.K., Peshin, R. and Kour, H (2019) 'Potential of Juniperus communis L as a nutraceutical in human and veterinary medicine', Heliyon, 5(8), pp. e02376. doi:10.1016/j.heliyon.2019.e02376",
+   "abstract": "This review highlights the high therapeutic potential of Juniperus communis, an aromatic shrub rich in essential oils and invert sugars, as a nutraceutical with antioxidant, anti-inflammatory, antimicrobial and digestive applications in human and veterinary medicine.",
+   "tier": "review",
+   "display": "Potential of Juniperus communis L as a nutraceutical in human and veterinary medicine",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1039",
    "key": "soualeh2019scrophularia",
    "type": "article",
@@ -24635,6 +25120,36 @@
    "conditions": [
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-1768",
+   "key": "yazd2019plantago",
+   "type": "article",
+   "title": "Renoprotective Effect of Plantago major Against Proteinuria and Apoptosis Induced by Adriamycin in Rat",
+   "authors": "Naji Ebrahimi Yazd, Z., Shahraki, S., Hosseinian, S., Shafei, M.N., Bideskan, A.E., Mohebbati, R., Heravi, N.E., Mahzari, S. and Rad, A.K.",
+   "journal": "Journal of Pharmacopuncture",
+   "year": "2019",
+   "doi": "10.3831/KPI.2019.22.004",
+   "url": "",
+   "link": "https://doi.org/10.3831/KPI.2019.22.004",
+   "link_type": "doi",
+   "citation": "Naji Ebrahimi Yazd, Z., Shahraki, S., Hosseinian, S., Shafei, M.N., Bideskan, A.E., Mohebbati, R., Heravi, N.E., Mahzari, S. and Rad, A.K (2019) 'Renoprotective Effect of Plantago major Against Proteinuria and Apoptosis Induced by Adriamycin in Rat', Journal of Pharmacopuncture, 22(1), pp. 35-40. doi:10.3831/KPI.2019.22.004",
+   "abstract": "Hydroalcoholic Plantago major extract reduced proteinuria and renal apoptosis in adriamycin-induced nephropathy in rats, attributed to its anti-inflammatory and antioxidant effects.",
+   "tier": "preclinical",
+   "display": "Renoprotective Effect of Plantago major Against Proteinuria and Apoptosis Induced by Adriamycin in Rat",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0935",
@@ -24962,6 +25477,38 @@
    ]
   },
   {
+   "ref_id": "REF-1745",
+   "key": "peruc2019juniper",
+   "type": "article",
+   "title": "Synergistic potential of Juniperus communis and Helichrysum italicum essential oils against nontuberculous mycobacteria",
+   "authors": "Peruc, D., Ticac, B., Abram, M., Broznic, D., Stifter, S., Staver, M.M. and Gobin, I.",
+   "journal": "Journal of Medical Microbiology",
+   "year": "2019",
+   "doi": "10.1099/jmm.0.000962",
+   "url": "",
+   "link": "https://doi.org/10.1099/jmm.0.000962",
+   "link_type": "doi",
+   "citation": "Peruc, D., Ticac, B., Abram, M., Broznic, D., Stifter, S., Staver, M.M. and Gobin, I (2019) 'Synergistic potential of Juniperus communis and Helichrysum italicum essential oils against nontuberculous mycobacteria', Journal of Medical Microbiology, 68(5), pp. 703-710. doi:10.1099/jmm.0.000962",
+   "abstract": "Juniperus communis essential oil, alone and synergistically with Helichrysum italicum oil, inhibited nontuberculous mycobacteria (Mycobacterium avium, M. intracellulare), demonstrating antimicrobial activity of juniper volatile oil.",
+   "tier": "preclinical",
+   "display": "Synergistic potential of Juniperus communis and Helichrysum italicum essential oils against nontuberculous mycobacteria",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0268",
    "key": "shahrajabian2019shahrajabian",
    "type": "article",
@@ -25228,6 +25775,34 @@
    ],
    "scientific": [
     "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1757",
+   "key": "abedinzade2019lamium",
+   "type": "article",
+   "title": "Urtica Dioica and Lamium Album Decrease Glycogen Synthase Kinase-3 beta and Increase K-Ras in Diabetic Rats",
+   "authors": "Abedinzade, M., Rostampour, M., Mirzajani, E., Khalesi, Z.B., Pourmirzaee, T. and Khanaki, K.",
+   "journal": "Journal of Pharmacopuncture",
+   "year": "2019",
+   "doi": "10.3831/KPI.2019.22.033",
+   "url": "",
+   "link": "https://doi.org/10.3831/KPI.2019.22.033",
+   "link_type": "doi",
+   "citation": "Abedinzade, M., Rostampour, M., Mirzajani, E., Khalesi, Z.B., Pourmirzaee, T. and Khanaki, K (2019) 'Urtica Dioica and Lamium Album Decrease Glycogen Synthase Kinase-3 beta and Increase K-Ras in Diabetic Rats', Journal of Pharmacopuncture, 22(4), pp. 248-252. doi:10.3831/KPI.2019.22.033",
+   "abstract": "In diabetic rats, Lamium album extract decreased glycogen synthase kinase-3 beta and increased K-Ras serum levels, indicating a metabolic/antidiabetic modulatory effect of white dead-nettle.",
+   "tier": "preclinical",
+   "display": "Urtica Dioica and Lamium Album Decrease Glycogen Synthase Kinase-3 beta and Increase K-Ras in Diabetic Rats",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
    ],
    "actions": [],
    "conditions": []
@@ -25637,6 +26212,36 @@
    ]
   },
   {
+   "ref_id": "REF-1747",
+   "key": "czerwinska2018lamium",
+   "type": "article",
+   "title": "Bioactive Constituents of Lamium album L. as Inhibitors of Cytokine Secretion in Human Neutrophils",
+   "authors": "Czerwinska, M.E., Swierczewska, A. and Granica, S.",
+   "journal": "Molecules",
+   "year": "2018",
+   "doi": "10.3390/molecules23112770",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules23112770",
+   "link_type": "doi",
+   "citation": "Czerwinska, M.E., Swierczewska, A. and Granica, S (2018) 'Bioactive Constituents of Lamium album L. as Inhibitors of Cytokine Secretion in Human Neutrophils', Molecules, 23(11), pp. 2770. doi:10.3390/molecules23112770",
+   "abstract": "Constituents isolated from an aqueous-methanolic extract of Lamium album herb inhibited pro-inflammatory cytokine (IL-8, TNF-alpha) secretion in human neutrophils, providing a mechanistic basis for the traditional anti-inflammatory use of white dead-nettle.",
+   "tier": "preclinical",
+   "display": "Bioactive Constituents of Lamium album L. as Inhibitors of Cytokine Secretion in Human Neutrophils",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1016",
    "key": "hawkins2018sambucus",
    "type": "article",
@@ -25755,6 +26360,38 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1739",
+   "key": "maurya2018juniper",
+   "type": "article",
+   "title": "Chemical Composition, Cytotoxic and Antibacterial Activities of Essential Oils of Cultivated Clones of Juniperus communis and Wild Juniperus Species",
+   "authors": "Maurya, A.K., Devi, R., Kumar, A., Koundal, R., Thakur, S., Sharma, A., Kumar, D., Kumar, R., Padwad, Y.S., Chand, G., Singh, B. and Agnihotri, V.K.",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2018",
+   "doi": "10.1002/cbdv.201800183",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.201800183",
+   "link_type": "doi",
+   "citation": "Maurya, A.K., Devi, R., Kumar, A., Koundal, R., Thakur, S., Sharma, A., Kumar, D., Kumar, R., Padwad, Y.S., Chand, G., Singh, B. and Agnihotri, V.K (2018) 'Chemical Composition, Cytotoxic and Antibacterial Activities of Essential Oils of Cultivated Clones of Juniperus communis and Wild Juniperus Species', Chemistry & Biodiversity, 15(9), pp. e1800183. doi:10.1002/cbdv.201800183",
+   "abstract": "Essential oils from cultivated clones of Juniperus communis needles (alpha-pinene, sabinene, limonene rich) showed cytotoxic and antibacterial activities, characterising the antimicrobial phytochemistry of juniper volatile oil.",
+   "tier": "preclinical",
+   "display": "Chemical Composition, Cytotoxic and Antibacterial Activities of Essential Oils of Cultivated Clones of Juniperus communis and Wild Juniperus Species",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1267",
@@ -26139,6 +26776,36 @@
    "conditions": [
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-1753",
+   "key": "arefani2018lamium",
+   "type": "article",
+   "title": "Effects of standardized extracts of Lamium album and Urtica dioica on rat tracheal smooth muscle contraction",
+   "authors": "Arefani, S., Mehran, S.M.M., Moladoust, H., Norasfard, M.R., Ghorbani, A. and Abedinzade, M.",
+   "journal": "Journal of Pharmacopuncture",
+   "year": "2018",
+   "doi": "10.3831/KPI.2018.21.008",
+   "url": "",
+   "link": "https://doi.org/10.3831/KPI.2018.21.008",
+   "link_type": "doi",
+   "citation": "Arefani, S., Mehran, S.M.M., Moladoust, H., Norasfard, M.R., Ghorbani, A. and Abedinzade, M (2018) 'Effects of standardized extracts of Lamium album and Urtica dioica on rat tracheal smooth muscle contraction', Journal of Pharmacopuncture, 21(2), pp. 70-75. doi:10.3831/KPI.2018.21.008",
+   "abstract": "Standardised Lamium album extract relaxed rat tracheal smooth muscle, supporting the traditional expectorant and antispasmodic use of white dead-nettle in respiratory disorders such as bronchitis.",
+   "tier": "preclinical",
+   "display": "Effects of standardized extracts of Lamium album and Urtica dioica on rat tracheal smooth muscle contraction",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [
+    "Expectorant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1600",
@@ -27035,6 +27702,67 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1758",
+   "key": "najafian2018plantago",
+   "type": "article",
+   "title": "Plantago major in Traditional Persian Medicine and modern phytotherapy: a narrative review",
+   "authors": "Najafian, Y., Hamedi, S.S., Farshchi, M.K. and Feyzabadi, Z.",
+   "journal": "Electronic Physician",
+   "year": "2018",
+   "doi": "10.19082/6390",
+   "url": "",
+   "link": "https://doi.org/10.19082/6390",
+   "link_type": "doi",
+   "citation": "Najafian, Y., Hamedi, S.S., Farshchi, M.K. and Feyzabadi, Z (2018) 'Plantago major in Traditional Persian Medicine and modern phytotherapy: a narrative review', Electronic Physician, 10(2), pp. 6390-6399. doi:10.19082/6390",
+   "abstract": "This narrative review of Plantago major covers its traditional Persian and modern phytotherapeutic uses for constipation, cough and wounds, alongside its botany, phytochemistry, pharmacology and toxicity.",
+   "tier": "review",
+   "display": "Plantago major in Traditional Persian Medicine and modern phytotherapy: a narrative review",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Expectorant",
+    "Laxative"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1767",
+   "key": "parhizgar2018plantago",
+   "type": "article",
+   "title": "Plantago major protects against cisplatin-induced renal dysfunction and tissue damage in rats",
+   "authors": "Parhizgar, S., Hosseinian, S., Soukhtanloo, M., Bideskan, A.E., Hadjzadeh, M., Shahraki, S., Noshahr, Z.S., Heravi, N.E., Haghshenas, M. and Rad, A.K.",
+   "journal": "Saudi Journal of Kidney Diseases and Transplantation",
+   "year": "2018",
+   "doi": "10.4103/1319-2442.243960",
+   "url": "",
+   "link": "https://doi.org/10.4103/1319-2442.243960",
+   "link_type": "doi",
+   "citation": "Parhizgar, S., Hosseinian, S., Soukhtanloo, M., Bideskan, A.E., Hadjzadeh, M., Shahraki, S., Noshahr, Z.S., Heravi, N.E., Haghshenas, M. and Rad, A.K (2018) 'Plantago major protects against cisplatin-induced renal dysfunction and tissue damage in rats', Saudi Journal of Kidney Diseases and Transplantation, 29(5), pp. 1057-1064. doi:10.4103/1319-2442.243960",
+   "abstract": "Plantago major extract protected against cisplatin-induced renal dysfunction and tissue damage in rats, an effect attributed to its antioxidant activity.",
+   "tier": "preclinical",
+   "display": "Plantago major protects against cisplatin-induced renal dysfunction and tissue damage in rats",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0065",
    "key": "elansary2018elansary",
    "type": "article",
@@ -27441,6 +28169,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1763",
+   "key": "zubair2018plantago",
+   "type": "article",
+   "title": "Water and ethanol extracts of Plantago major leaves show anti-inflammatory activity on oral epithelial cells",
+   "authors": "Zubair, M., Widen, C., Renvert, S. and Rumpunen, K.",
+   "journal": "Journal of Traditional and Complementary Medicine",
+   "year": "2018",
+   "doi": "10.1016/j.jtcme.2017.09.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jtcme.2017.09.002",
+   "link_type": "doi",
+   "citation": "Zubair, M., Widen, C., Renvert, S. and Rumpunen, K (2018) 'Water and ethanol extracts of Plantago major leaves show anti-inflammatory activity on oral epithelial cells', Journal of Traditional and Complementary Medicine, 9(3), pp. 169-171. doi:10.1016/j.jtcme.2017.09.002",
+   "abstract": "Water and ethanol extracts of Plantago major leaves reduced pro-inflammatory responses in oral epithelial cells, supporting the traditional anti-inflammatory use of greater plantain for wounds and mucosal inflammation.",
+   "tier": "preclinical",
+   "display": "Water and ethanol extracts of Plantago major leaves show anti-inflammatory activity on oral epithelial cells",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1143",
    "key": "feyzabadi2017viola",
    "type": "article",
@@ -27727,6 +28485,38 @@
    ]
   },
   {
+   "ref_id": "REF-1738",
+   "key": "klancnik2017juniper",
+   "type": "article",
+   "title": "Antiadhesion activity of juniper (Juniperus communis L.) preparations against Campylobacter jejuni evaluated with PCR-based methods",
+   "authors": "Klancnik, A., Zorko, S., Toplak, N., Kovac, M., Bucar, F., Jersek, B. and Smole Mozina, S.",
+   "journal": "Phytotherapy Research",
+   "year": "2017",
+   "doi": "10.1002/ptr.6005",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6005",
+   "link_type": "doi",
+   "citation": "Klancnik, A., Zorko, S., Toplak, N., Kovac, M., Bucar, F., Jersek, B. and Smole Mozina, S (2017) 'Antiadhesion activity of juniper (Juniperus communis L.) preparations against Campylobacter jejuni evaluated with PCR-based methods', Phytotherapy Research, 32(3), pp. 542-550. doi:10.1002/ptr.6005",
+   "abstract": "Juniperus communis preparations inhibited adhesion and biofilm formation of the foodborne pathogen Campylobacter jejuni, demonstrating an antimicrobial/antiadhesion activity of juniper relevant to its antiseptic use.",
+   "tier": "preclinical",
+   "display": "Antiadhesion activity of juniper (Juniperus communis L.) preparations against Campylobacter jejuni evaluated with PCR-based methods",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1120",
    "key": "elbairi2017fenugreek",
    "type": "article",
@@ -27980,6 +28770,36 @@
    ]
   },
   {
+   "ref_id": "REF-1746",
+   "key": "czerwinska2017lamium",
+   "type": "article",
+   "title": "Bioassay-Guided Isolation of Iridoids and Phenylpropanoids from Aerial Parts of Lamium album and Their Anti-inflammatory Activity in Human Neutrophils",
+   "authors": "Czerwinska, M.E., Swierczewska, A., Wozniak, M. and Kiss, A.K.",
+   "journal": "Planta Medica",
+   "year": "2017",
+   "doi": "10.1055/s-0043-107031",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0043-107031",
+   "link_type": "doi",
+   "citation": "Czerwinska, M.E., Swierczewska, A., Wozniak, M. and Kiss, A.K (2017) 'Bioassay-Guided Isolation of Iridoids and Phenylpropanoids from Aerial Parts of Lamium album and Their Anti-inflammatory Activity in Human Neutrophils', Planta Medica, 83(12-13), pp. 1011-1019. doi:10.1055/s-0043-107031",
+   "abstract": "Bioassay-guided isolation from Lamium album aerial parts yielded iridoids and phenylpropanoids that inhibited reactive oxygen species and elastase release in human neutrophils, supporting the anti-inflammatory and antiseptic traditional use of white dead-nettle in bronchitis and pharyngitis.",
+   "tier": "preclinical",
+   "display": "Bioassay-Guided Isolation of Iridoids and Phenylpropanoids from Aerial Parts of Lamium album and Their Anti-inflammatory Activity in Human Neutrophils",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0162",
    "key": "marx2017ginger",
    "type": "article",
@@ -28127,7 +28947,8 @@
     "Plantago major"
    ],
    "actions": [
-    "Antimicrobial"
+    "Antimicrobial",
+    "Antioxidant"
    ],
    "conditions": [
     "Infection (general)"
@@ -28528,6 +29349,36 @@
     "Cough",
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-1762",
+   "key": "cabrerajaime2017plantago",
+   "type": "article",
+   "title": "Efficacy of Plantago major, chlorhexidine 0.12% and sodium bicarbonate 5% solution in the treatment of oral mucositis in cancer patients with solid tumour: A feasibility randomised triple-blind phase III clinical trial",
+   "authors": "Cabrera-Jaime, S., Martinez, C., Ferro-Garcia, T., Giner-Boya, P., Icart-Isern, T., Estrada-Masllorens, J.M. and Fernandez-Ortega, P.",
+   "journal": "European Journal of Oncology Nursing",
+   "year": "2017",
+   "doi": "10.1016/j.ejon.2017.11.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ejon.2017.11.006",
+   "link_type": "doi",
+   "citation": "Cabrera-Jaime, S., Martinez, C., Ferro-Garcia, T., Giner-Boya, P., Icart-Isern, T., Estrada-Masllorens, J.M. and Fernandez-Ortega, P (2017) 'Efficacy of Plantago major, chlorhexidine 0.12% and sodium bicarbonate 5% solution in the treatment of oral mucositis in cancer patients with solid tumour: A feasibility randomised triple-blind phase III clinical trial', European Journal of Oncology Nursing, 32, pp. 40-47. doi:10.1016/j.ejon.2017.11.006",
+   "abstract": "In a randomised triple-blind phase III clinical trial, Plantago major extract was compared with chlorhexidine and sodium bicarbonate for chemotherapy-induced oral mucositis, supporting its demulcent and anti-inflammatory mucosal use.",
+   "tier": "rct",
+   "display": "Efficacy of Plantago major, chlorhexidine 0.12% and sodium bicarbonate 5% solution in the treatment of oral mucositis in cancer patients with solid tumour: A feasibility randomised triple-blind phase III clinical trial",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Demulcent (soothing mucilage)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1693",
@@ -31628,6 +32479,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1769",
+   "key": "alizadeh2016plantago",
+   "type": "article",
+   "title": "Plantago major seed mucilage: Optimization of extraction and some physicochemical and rheological aspects",
+   "authors": "Alizadeh Behbahani, B., Tabatabaei Yazdi, F., Shahidi, F., Hesarinejad, M.A., Mortazavi, S.A. and Mohebbi, M.",
+   "journal": "Carbohydrate Polymers",
+   "year": "2016",
+   "doi": "10.1016/j.carbpol.2016.08.051",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.carbpol.2016.08.051",
+   "link_type": "doi",
+   "citation": "Alizadeh Behbahani, B., Tabatabaei Yazdi, F., Shahidi, F., Hesarinejad, M.A., Mortazavi, S.A. and Mohebbi, M (2016) 'Plantago major seed mucilage: Optimization of extraction and some physicochemical and rheological aspects', Carbohydrate Polymers, 155, pp. 68-77. doi:10.1016/j.carbpol.2016.08.051",
+   "abstract": "Extraction of Plantago major seed mucilage was optimised and its physicochemical and rheological properties characterised, documenting the demulcent polysaccharide constituent responsible for the herb's soothing and bulk-laxative actions.",
+   "tier": "preclinical",
+   "display": "Plantago major seed mucilage: Optimization of extraction and some physicochemical and rheological aspects",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Demulcent (soothing mucilage)",
+    "Laxative"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0142",
    "key": "kooti2016kooti",
    "type": "article",
@@ -32576,6 +33458,38 @@
    "conditions": [
     "Cardiovascular / heart health"
    ]
+  },
+  {
+   "ref_id": "REF-1740",
+   "key": "jegal2016juniper",
+   "type": "article",
+   "title": "Tyrosinase inhibitory flavonoid from Juniperus communis fruits",
+   "authors": "Jegal, J., Park, S., Chung, K., Chung, H.Y., Lee, J., Jeong, E.J., Kim, K.H. and Yang, M.H.",
+   "journal": "Bioscience, Biotechnology, and Biochemistry",
+   "year": "2016",
+   "doi": "10.1080/09168451.2016.1217146",
+   "url": "",
+   "link": "https://doi.org/10.1080/09168451.2016.1217146",
+   "link_type": "doi",
+   "citation": "Jegal, J., Park, S., Chung, K., Chung, H.Y., Lee, J., Jeong, E.J., Kim, K.H. and Yang, M.H (2016) 'Tyrosinase inhibitory flavonoid from Juniperus communis fruits', Bioscience, Biotechnology, and Biochemistry, 80(12), pp. 2311-2317. doi:10.1080/09168451.2016.1217146",
+   "abstract": "Bioassay-guided isolation from Juniperus communis fruits yielded flavonoids and biflavonoids that inhibited mushroom tyrosinase, supporting the traditional use of juniper berries for skin conditions and as a skin-whitening antioxidant agent.",
+   "tier": "preclinical",
+   "display": "Tyrosinase inhibitory flavonoid from Juniperus communis fruits",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1140",
@@ -34523,6 +35437,36 @@
    ]
   },
   {
+   "ref_id": "REF-1756",
+   "key": "paduch2015lamium",
+   "type": "article",
+   "title": "The Effect of Lamium album Extract on Cultivated Human Corneal Epithelial Cells (10.014 pRSV-T)",
+   "authors": "Paduch, R. and Wozniak, A.",
+   "journal": "Journal of Ophthalmic & Vision Research",
+   "year": "2015",
+   "doi": "10.4103/2008-322X.170349",
+   "url": "",
+   "link": "https://doi.org/10.4103/2008-322X.170349",
+   "link_type": "doi",
+   "citation": "Paduch, R. and Wozniak, A (2015) 'The Effect of Lamium album Extract on Cultivated Human Corneal Epithelial Cells (10.014 pRSV-T)', Journal of Ophthalmic & Vision Research, 10(3), pp. 229-237. doi:10.4103/2008-322X.170349",
+   "abstract": "Lamium album extracts modulated proliferation and morphology of cultured human corneal epithelial cells without marked cytotoxicity, supporting the traditional use of white dead-nettle for mucosal and ocular inflammation.",
+   "tier": "preclinical",
+   "display": "The Effect of Lamium album Extract on Cultivated Human Corneal Epithelial Cells (10.014 pRSV-T)",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0609",
    "key": "qasemzadeh2015viola",
    "type": "article",
@@ -34641,6 +35585,39 @@
     "Leonurus cardiaca"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1735",
+   "key": "bais2014juniper",
+   "type": "article",
+   "title": "A Phytopharmacological Review on a Medicinal Plant: Juniperus communis",
+   "authors": "Bais, S., Gill, N.S., Rana, N. and Shandil, S.",
+   "journal": "International Scholarly Research Notices",
+   "year": "2014",
+   "doi": "10.1155/2014/634723",
+   "url": "",
+   "link": "https://doi.org/10.1155/2014/634723",
+   "link_type": "doi",
+   "citation": "Bais, S., Gill, N.S., Rana, N. and Shandil, S (2014) 'A Phytopharmacological Review on a Medicinal Plant: Juniperus communis', International Scholarly Research Notices, 2014, pp. 634723. doi:10.1155/2014/634723",
+   "abstract": "This phytopharmacological review of Juniperus communis summarises its traditional use as an antidiarrhoeal, anti-inflammatory, astringent and diuretic agent and its documented antioxidant, antimicrobial and hypoglycaemic pharmacology.",
+   "tier": "review",
+   "display": "A Phytopharmacological Review on a Medicinal Plant: Juniperus communis",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Diuretic"
+   ],
    "conditions": []
   },
   {
@@ -36486,6 +37463,34 @@
     "Anti-inflammatory",
     "Emollient / skin-soothing"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1755",
+   "key": "chipeva2013lamium",
+   "type": "article",
+   "title": "Antimicrobial activity of extracts from in vivo and in vitro propagated Lamium album L. plants",
+   "authors": "Chipeva, V.A., Petrova, D.C., Geneva, M.E., Dimitrova, M.A., Moncheva, P.A. and Kapchina-Toteva, V.M.",
+   "journal": "African Journal of Traditional, Complementary and Alternative Medicines",
+   "year": "2013",
+   "doi": "10.4314/ajtcam.v10i6.30",
+   "url": "",
+   "link": "https://doi.org/10.4314/ajtcam.v10i6.30",
+   "link_type": "doi",
+   "citation": "Chipeva, V.A., Petrova, D.C., Geneva, M.E., Dimitrova, M.A., Moncheva, P.A. and Kapchina-Toteva, V.M (2013) 'Antimicrobial activity of extracts from in vivo and in vitro propagated Lamium album L. plants', African Journal of Traditional, Complementary and Alternative Medicines, 10(6), pp. 559-562. doi:10.4314/ajtcam.v10i6.30",
+   "abstract": "Extracts from in-vivo and in-vitro propagated Lamium album plants showed antibacterial activity against clinical bacteria and yeasts, supporting the traditional antiseptic use of white dead-nettle.",
+   "tier": "preclinical",
+   "display": "Antimicrobial activity of extracts from in vivo and in vitro propagated Lamium album L. plants",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -42124,6 +43129,38 @@
    ]
   },
   {
+   "ref_id": "REF-1737",
+   "key": "gordien2009juniper",
+   "type": "article",
+   "title": "Antimycobacterial terpenoids from Juniperus communis L. (Cuppressaceae)",
+   "authors": "Gordien, A.Y., Gray, A.I., Franzblau, S.G. and Seidel, V.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2009",
+   "doi": "10.1016/j.jep.2009.09.007",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2009.09.007",
+   "link_type": "doi",
+   "citation": "Gordien, A.Y., Gray, A.I., Franzblau, S.G. and Seidel, V (2009) 'Antimycobacterial terpenoids from Juniperus communis L. (Cuppressaceae)', Journal of Ethnopharmacology, 126(3), pp. 500-505. doi:10.1016/j.jep.2009.09.007",
+   "abstract": "Bioassay-guided fractionation of a Juniperus communis root n-hexane extract isolated diterpenes (e.g. totarol, trans-communic acid) with antimycobacterial activity against Mycobacterium tuberculosis, supporting the herb's traditional use against tuberculosis and respiratory disease.",
+   "tier": "preclinical",
+   "display": "Antimycobacterial terpenoids from Juniperus communis L. (Cuppressaceae)",
+   "plants": [
+    "2023)",
+    "Common Juniper",
+    "Eneberries / Enebær",
+    "Jeneverbes (EMA/HMPC",
+    "Juniper",
+    "Juniper “berries” / juniper cone berries"
+   ],
+   "scientific": [
+    "Juniperus communis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0292",
    "key": "verma2009blood",
    "type": "article",
@@ -42291,6 +43328,36 @@
    ]
   },
   {
+   "ref_id": "REF-1764",
+   "key": "turel2009plantago",
+   "type": "article",
+   "title": "Hepatoprotective and anti-inflammatory activities of Plantago major L.",
+   "authors": "Turel, I., Ozbek, H., Erten, R., Oner, A.C., Cengiz, N. and Yilmaz, O.",
+   "journal": "Indian Journal of Pharmacology",
+   "year": "2009",
+   "doi": "10.4103/0253-7613.55211",
+   "url": "",
+   "link": "https://doi.org/10.4103/0253-7613.55211",
+   "link_type": "doi",
+   "citation": "Turel, I., Ozbek, H., Erten, R., Oner, A.C., Cengiz, N. and Yilmaz, O (2009) 'Hepatoprotective and anti-inflammatory activities of Plantago major L', Indian Journal of Pharmacology, 41(3), pp. 120-124. doi:10.4103/0253-7613.55211",
+   "abstract": "Plantago major extract showed anti-inflammatory activity in carrageenan-induced paw oedema and hepatoprotective activity against CCl4-induced liver damage in rats, supporting the herb's anti-inflammatory use.",
+   "tier": "preclinical",
+   "display": "Hepatoprotective and anti-inflammatory activities of Plantago major L.",
+   "plants": [
+    "Greater Plantain",
+    "broadleaf plantain",
+    "common plantain",
+    "waybread"
+   ],
+   "scientific": [
+    "Plantago major"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1561",
    "key": "vlase2009ruscus",
    "type": "article",
@@ -42388,6 +43455,34 @@
     "Memory",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1754",
+   "key": "zhang2009lamium",
+   "type": "article",
+   "title": "Lamiridosins, hepatitis C virus entry inhibitors from Lamium album",
+   "authors": "Zhang, H., Rothwangl, K., Mesecar, A.D., Sabahi, A., Rong, L. and Fong, H.H.S.",
+   "journal": "Journal of Natural Products",
+   "year": "2009",
+   "doi": "10.1021/np900549e",
+   "url": "",
+   "link": "https://doi.org/10.1021/np900549e",
+   "link_type": "doi",
+   "citation": "Zhang, H., Rothwangl, K., Mesecar, A.D., Sabahi, A., Rong, L. and Fong, H.H.S (2009) 'Lamiridosins, hepatitis C virus entry inhibitors from Lamium album', Journal of Natural Products, 72(12), pp. 2158-2162. doi:10.1021/np900549e",
+   "abstract": "Phytochemical study of Lamium album flowering tops identified the iridoid isomers lamiridosins A and B, which significantly inhibited hepatitis C virus entry in vitro, demonstrating antiviral activity of white dead-nettle constituents.",
+   "tier": "preclinical",
+   "display": "Lamiridosins, hepatitis C virus entry inhibitors from Lamium album",
+   "plants": [
+    "Bee nettle",
+    "Dumb nettle",
+    "White Dead Nettle",
+    "White dead-nettle"
+   ],
+   "scientific": [
+    "Lamium album"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1170",

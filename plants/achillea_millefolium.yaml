@@ -53,6 +53,14 @@ actions:
   - REF-0011
   - REF-0098
   - REF-0296
+  - REF-2076
+  - REF-2077
+  - REF-2078
+  - REF-2079
+  - REF-2080
+  - REF-2081
+  - REF-2082
+  - REF-2083
   status: verified
 - action: antimicrobial
   reference_ids:
@@ -65,6 +73,9 @@ actions:
   - REF-0011
   - REF-0098
   - REF-0296
+  - REF-2076
+  - REF-2084
+  - REF-2086
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
@@ -72,6 +83,7 @@ actions:
   - REF-0011
   - REF-0098
   - REF-0296
+  - REF-2078
   status: verified
 - action: astringent
   reference_ids:
@@ -95,6 +107,8 @@ actions:
   reference_ids:
   - REF-0369
   - REF-0373
+  - REF-2077
+  - REF-2084
   status: verified
 - action: diuretic
   reference_ids:
@@ -108,6 +122,7 @@ actions:
   - REF-0369
   - REF-0373
   - REF-0381
+  - REF-2085
   status: verified
 - action: vulnerary
   note: Vulnerary (wound healing)
@@ -305,9 +320,21 @@ contraindications:
   - REF-0382
   - REF-0383
   status: verified
-provenance: book+website
+references:
+- REF-2076
+- REF-2077
+- REF-2078
+- REF-2079
+- REF-2080
+- REF-2081
+- REF-2082
+- REF-2083
+- REF-2084
+- REF-2085
+- REF-2086
+provenance: book+website+pubmed
 status: verified
-last_updated: '2026-06-15'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -315,4 +342,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   Materia Medica page (https://omniasana.bio/yarrow-achillea-millefolium/): added constituents, web-sourced
   actions and cautions. | 2026-06-15: corrected family from Unknown to Asteraceae (Achillea millefolium
   is in the Asteraceae family). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
-  split out, constituents linked to compounds).'
+  split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
+  added 11 PubMed-verified @article sources (REF-2076, REF-2077, REF-2078, REF-2079, REF-2080, REF-2081,
+  REF-2082, REF-2083, REF-2084, REF-2085, REF-2086) — woven into relevant actions/indications and the
+  plant-level references bucket.'

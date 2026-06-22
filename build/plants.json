@@ -76,7 +76,15 @@
      "reference_ids": [
       "REF-0011",
       "REF-0098",
-      "REF-0296"
+      "REF-0296",
+      "REF-2076",
+      "REF-2077",
+      "REF-2078",
+      "REF-2079",
+      "REF-2080",
+      "REF-2081",
+      "REF-2082",
+      "REF-2083"
      ],
      "status": "verified"
     },
@@ -94,7 +102,10 @@
      "reference_ids": [
       "REF-0011",
       "REF-0098",
-      "REF-0296"
+      "REF-0296",
+      "REF-2076",
+      "REF-2084",
+      "REF-2086"
      ],
      "status": "verified"
     },
@@ -104,7 +115,8 @@
      "reference_ids": [
       "REF-0011",
       "REF-0098",
-      "REF-0296"
+      "REF-0296",
+      "REF-2078"
      ],
      "status": "verified"
     },
@@ -139,7 +151,9 @@
      "note": "Bitter digestive tonic (stimulates appetite and bile flow)",
      "reference_ids": [
       "REF-0369",
-      "REF-0373"
+      "REF-0373",
+      "REF-2077",
+      "REF-2084"
      ],
      "status": "verified"
     },
@@ -158,7 +172,8 @@
      "reference_ids": [
       "REF-0369",
       "REF-0373",
-      "REF-0381"
+      "REF-0381",
+      "REF-2085"
      ],
      "status": "verified"
     },
@@ -424,9 +439,22 @@
      "status": "verified"
     }
    ],
-   "provenance": "book+website",
+   "references": [
+    "REF-2076",
+    "REF-2077",
+    "REF-2078",
+    "REF-2079",
+    "REF-2080",
+    "REF-2081",
+    "REF-2082",
+    "REF-2083",
+    "REF-2084",
+    "REF-2085",
+    "REF-2086"
+   ],
+   "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-15"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "acorus-calamus",
@@ -4053,7 +4081,8 @@
      "note": "Topical analgesic for muscle soreness and pain",
      "reference_ids": [
       "REF-0398",
-      "REF-0399"
+      "REF-0399",
+      "REF-2098"
      ],
      "status": "verified"
     },
@@ -4062,7 +4091,13 @@
      "note": "Topical anti-inflammatory for bruising, swelling and sprains",
      "reference_ids": [
       "REF-0398",
-      "REF-0399"
+      "REF-0399",
+      "REF-0726",
+      "REF-2098",
+      "REF-2099",
+      "REF-2100",
+      "REF-2101",
+      "REF-2105"
      ],
      "status": "verified"
     },
@@ -4070,7 +4105,8 @@
      "action": "antimicrobial",
      "note": "Antimicrobial and antioxidant (in vitro)",
      "reference_ids": [
-      "REF-0398"
+      "REF-0398",
+      "REF-2104"
      ],
      "status": "verified"
     },
@@ -4078,7 +4114,9 @@
      "action": "antioxidant",
      "note": "Antimicrobial and antioxidant (in vitro)",
      "reference_ids": [
-      "REF-0398"
+      "REF-0398",
+      "REF-2104",
+      "REF-2106"
      ],
      "status": "verified"
     },
@@ -4086,7 +4124,9 @@
      "action": "vulnerary",
      "note": "Antiecchymotic / vulnerary (helps disperse bruises)",
      "reference_ids": [
-      "REF-0398"
+      "REF-0398",
+      "REF-2102",
+      "REF-2103"
      ],
      "status": "verified"
     }
@@ -4229,7 +4269,17 @@
    "references": [
     "REF-0725",
     "REF-0726",
-    "REF-0727"
+    "REF-0727",
+    "REF-0398",
+    "REF-2098",
+    "REF-2099",
+    "REF-2100",
+    "REF-2101",
+    "REF-2102",
+    "REF-2103",
+    "REF-2104",
+    "REF-2105",
+    "REF-2106"
    ],
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
@@ -7441,7 +7491,12 @@
      "note": "Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)",
      "reference_ids": [
       "REF-0457",
-      "REF-0458"
+      "REF-0458",
+      "REF-2088",
+      "REF-2089",
+      "REF-2092",
+      "REF-2093",
+      "REF-2097"
      ],
      "status": "verified"
     },
@@ -7451,7 +7506,8 @@
      "reference_ids": [
       "REF-0458",
       "REF-0569",
-      "REF-0570"
+      "REF-0570",
+      "REF-2095"
      ],
      "status": "verified"
     },
@@ -7460,7 +7516,9 @@
      "note": "Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)",
      "reference_ids": [
       "REF-0457",
-      "REF-0458"
+      "REF-0458",
+      "REF-2093",
+      "REF-2097"
      ],
      "status": "verified"
     },
@@ -7476,7 +7534,9 @@
      "action": "neuroprotective",
      "note": "Cognitive and memory support; neuroprotective",
      "reference_ids": [
-      "REF-0457"
+      "REF-0457",
+      "REF-2094",
+      "REF-2096"
      ],
      "status": "verified"
     },
@@ -7486,7 +7546,8 @@
      "reference_ids": [
       "REF-0458",
       "REF-0569",
-      "REF-0570"
+      "REF-0570",
+      "REF-2095"
      ],
      "status": "verified"
     },
@@ -7495,7 +7556,11 @@
      "note": "Wound healing and scar/collagen support (stimulates collagen synthesis and tissue repair)",
      "reference_ids": [
       "REF-0457",
-      "REF-0458"
+      "REF-0458",
+      "REF-2087",
+      "REF-2088",
+      "REF-2090",
+      "REF-2091"
      ],
      "status": "verified"
     }
@@ -7653,9 +7718,22 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-2087",
+    "REF-2088",
+    "REF-2089",
+    "REF-2090",
+    "REF-2091",
+    "REF-2092",
+    "REF-2093",
+    "REF-2094",
+    "REF-2095",
+    "REF-2096",
+    "REF-2097"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "chamerion-angustifolium",

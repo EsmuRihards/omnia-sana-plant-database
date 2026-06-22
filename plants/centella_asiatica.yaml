@@ -29,6 +29,11 @@ actions:
   reference_ids:
   - REF-0457
   - REF-0458
+  - REF-2088
+  - REF-2089
+  - REF-2092
+  - REF-2093
+  - REF-2097
   status: verified
 - action: anti-oedematous
   note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
@@ -37,12 +42,15 @@ actions:
   - REF-0458
   - REF-0569
   - REF-0570
+  - REF-2095
   status: verified
 - action: antioxidant
   note: Anti-inflammatory and antioxidant; supports inflammatory skin conditions (eczema, psoriasis, ulcers)
   reference_ids:
   - REF-0457
   - REF-0458
+  - REF-2093
+  - REF-2097
   status: verified
 - action: anxiolytic
   note: Anxiolytic / calming (anxiety)
@@ -53,6 +61,8 @@ actions:
   note: Cognitive and memory support; neuroprotective
   reference_ids:
   - REF-0457
+  - REF-2094
+  - REF-2096
   status: verified
 - action: venotonic
   note: Improves venous tone and microcirculation - supports chronic venous insufficiency / varicose veins
@@ -61,12 +71,17 @@ actions:
   - REF-0458
   - REF-0569
   - REF-0570
+  - REF-2095
   status: verified
 - action: vulnerary
   note: Wound healing and scar/collagen support (stimulates collagen synthesis and tissue repair)
   reference_ids:
   - REF-0457
   - REF-0458
+  - REF-2087
+  - REF-2088
+  - REF-2090
+  - REF-2091
   status: verified
 indications:
 - condition: anxiety
@@ -173,9 +188,21 @@ contraindications:
   reference_ids:
   - REF-0457
   status: needs-review
+references:
+- REF-2087
+- REF-2088
+- REF-2089
+- REF-2090
+- REF-2091
+- REF-2092
+- REF-2093
+- REF-2094
+- REF-2095
+- REF-2096
+- REF-2097
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside;
   Panminerva Medica status paper on titrated Centella extract). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (wounds, anxiety, memory, varicose-veins, cognitive-function);
@@ -184,4 +211,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med 
   review that includes Centella among agents reducing leg oedema (REF-0570) support the venous action,
   while a cognition/mood meta-analysis (REF-0568) found improved alertness and reduced anger but no significant
   cognitive-domain benefit (added as a needs-review qualifier). | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds).'
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
+  to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2087, REF-2088, REF-2089,
+  REF-2090, REF-2091, REF-2092, REF-2093, REF-2094, REF-2095, REF-2096, REF-2097) — woven into relevant
+  actions/indications and the plant-level references bucket.'

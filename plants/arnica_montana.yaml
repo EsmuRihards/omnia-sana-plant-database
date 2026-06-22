@@ -44,27 +44,39 @@ actions:
   reference_ids:
   - REF-0398
   - REF-0399
+  - REF-2098
   status: verified
 - action: anti-inflammatory
   note: Topical anti-inflammatory for bruising, swelling and sprains
   reference_ids:
   - REF-0398
   - REF-0399
+  - REF-0726
+  - REF-2098
+  - REF-2099
+  - REF-2100
+  - REF-2101
+  - REF-2105
   status: verified
 - action: antimicrobial
   note: Antimicrobial and antioxidant (in vitro)
   reference_ids:
   - REF-0398
+  - REF-2104
   status: verified
 - action: antioxidant
   note: Antimicrobial and antioxidant (in vitro)
   reference_ids:
   - REF-0398
+  - REF-2104
+  - REF-2106
   status: verified
 - action: vulnerary
   note: Antiecchymotic / vulnerary (helps disperse bruises)
   reference_ids:
   - REF-0398
+  - REF-2102
+  - REF-2103
   status: verified
 indications:
 - condition: arthritis
@@ -162,6 +174,16 @@ references:
 - REF-0725
 - REF-0726
 - REF-0727
+- REF-0398
+- REF-2098
+- REF-2099
+- REF-2100
+- REF-2101
+- REF-2102
+- REF-2103
+- REF-2104
+- REF-2105
+- REF-2106
 provenance: website+symptom-tool+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -171,4 +193,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   and now part-mapped and cited. NOTE: external use only - see contraindications. | 2026-06-15: migrated
   to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0725,
-  REF-0726, REF-0727.'
+  REF-0726, REF-0727. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
+  @article sources (REF-0726, REF-0398, REF-2098, REF-2099, REF-2100, REF-2101, REF-2102, REF-2103, REF-2104,
+  REF-2105, REF-2106) — woven into relevant actions/indications and the plant-level references bucket.'

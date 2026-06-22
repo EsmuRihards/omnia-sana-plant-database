@@ -36,11 +36,19 @@ actions:
   - REF-0430
   - REF-0598
   - REF-0599
+  - REF-1820
+  - REF-1821
+  - REF-1823
+  - REF-1828
   status: verified
 - action: carminative
   note: Warming carminative for indigestion (traditional)
   reference_ids:
   - REF-0430
+  - REF-1822
+  - REF-1824
+  - REF-1825
+  - REF-1826
   status: needs-review
 - action: lipid-lowering
   note: Improves the lipid profile (lowers total and LDL cholesterol and triglycerides)
@@ -48,6 +56,7 @@ actions:
   - REF-0429
   - REF-0430
   - REF-0599
+  - REF-1821
   status: verified
 indications:
 - condition: bloating
@@ -105,9 +114,20 @@ contraindications:
   reference_ids:
   - REF-0429
   status: verified
+references:
+- REF-1819
+- REF-1820
+- REF-1821
+- REF-1822
+- REF-1823
+- REF-1824
+- REF-1825
+- REF-1826
+- REF-1827
+- REF-1828
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Family Medicine meta-analysis;
   cassia-bark glucose/lipid meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (blood-sugar, high-cholesterol, indigestion); associations retained and now part-mapped
@@ -115,4 +135,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   PubMed-sourced meta-analyses of RCTs - an updated dose-response meta-analysis (REF-0598; lower fasting
   glucose, HbA1c and HOMA-IR) and a 28-RCT review (REF-0599; capsule form at <=2 g/day also improved the
   lipid profile and BMI). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds).'
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
+  10 PubMed-verified @article sources (REF-1819, REF-1820, REF-1821, REF-1822, REF-1823, REF-1824, REF-1825,
+  REF-1826, REF-1827, REF-1828) — woven into relevant actions/indications and the plant-level references
+  bucket.'

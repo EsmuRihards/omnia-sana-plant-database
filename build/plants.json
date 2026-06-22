@@ -5937,7 +5937,11 @@
      "action": "analgesic",
      "note": "Analgesic (pain relief)",
      "reference_ids": [
-      "REF-0422"
+      "REF-0422",
+      "REF-0573",
+      "REF-1810",
+      "REF-1816",
+      "REF-1817"
      ],
      "status": "verified"
     },
@@ -5946,7 +5950,16 @@
      "note": "Anti-inflammatory (inhibits 5-lipoxygenase / leukotriene synthesis and NF-kB signalling); Reduces inflammatory markers (e.g. hs-CRP) and, in one RCT, improved knee joint-space and reduced osteophytes on radiograph",
      "reference_ids": [
       "REF-0423",
-      "REF-0573"
+      "REF-0573",
+      "REF-1809",
+      "REF-1810",
+      "REF-1811",
+      "REF-1812",
+      "REF-1813",
+      "REF-1815",
+      "REF-1816",
+      "REF-1817",
+      "REF-1818"
      ],
      "status": "needs-review"
     }
@@ -6043,9 +6056,22 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1809",
+    "REF-0573",
+    "REF-1810",
+    "REF-1811",
+    "REF-1812",
+    "REF-1813",
+    "REF-1814",
+    "REF-1815",
+    "REF-1816",
+    "REF-1817",
+    "REF-1818"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "calendula-officinalis",
@@ -8010,7 +8036,11 @@
       "REF-0429",
       "REF-0430",
       "REF-0598",
-      "REF-0599"
+      "REF-0599",
+      "REF-1820",
+      "REF-1821",
+      "REF-1823",
+      "REF-1828"
      ],
      "status": "verified"
     },
@@ -8018,7 +8048,11 @@
      "action": "carminative",
      "note": "Warming carminative for indigestion (traditional)",
      "reference_ids": [
-      "REF-0430"
+      "REF-0430",
+      "REF-1822",
+      "REF-1824",
+      "REF-1825",
+      "REF-1826"
      ],
      "status": "needs-review"
     },
@@ -8028,7 +8062,8 @@
      "reference_ids": [
       "REF-0429",
       "REF-0430",
-      "REF-0599"
+      "REF-0599",
+      "REF-1821"
      ],
      "status": "verified"
     }
@@ -8111,9 +8146,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1819",
+    "REF-1820",
+    "REF-1821",
+    "REF-1822",
+    "REF-1823",
+    "REF-1824",
+    "REF-1825",
+    "REF-1826",
+    "REF-1827",
+    "REF-1828"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "cinnamomum-verum",
@@ -15333,7 +15380,8 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0072",
-      "REF-0227"
+      "REF-0227",
+      "REF-1804"
      ],
      "status": "verified"
     },
@@ -15341,7 +15389,10 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0072",
-      "REF-0227"
+      "REF-0227",
+      "REF-1801",
+      "REF-1806",
+      "REF-1808"
      ],
      "status": "verified"
     },
@@ -15349,7 +15400,9 @@
      "action": "expectorant",
      "reference_ids": [
       "REF-0072",
-      "REF-0227"
+      "REF-0227",
+      "REF-1803",
+      "REF-1804"
      ],
      "status": "verified"
     }
@@ -15432,7 +15485,16 @@
    "references": [
     "REF-0845",
     "REF-0846",
-    "REF-0847"
+    "REF-0847",
+    "REF-1800",
+    "REF-1801",
+    "REF-1802",
+    "REF-1803",
+    "REF-1804",
+    "REF-1805",
+    "REF-1806",
+    "REF-1807",
+    "REF-1808"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

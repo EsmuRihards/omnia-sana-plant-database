@@ -29,6 +29,10 @@ actions:
   note: Analgesic (pain relief)
   reference_ids:
   - REF-0422
+  - REF-0573
+  - REF-1810
+  - REF-1816
+  - REF-1817
   status: verified
 - action: anti-inflammatory
   note: Anti-inflammatory (inhibits 5-lipoxygenase / leukotriene synthesis and NF-kB signalling); Reduces
@@ -37,6 +41,15 @@ actions:
   reference_ids:
   - REF-0423
   - REF-0573
+  - REF-1809
+  - REF-1810
+  - REF-1811
+  - REF-1812
+  - REF-1813
+  - REF-1815
+  - REF-1816
+  - REF-1817
+  - REF-1818
   status: needs-review
 indications:
 - condition: arthritis
@@ -102,9 +115,21 @@ contraindications:
   reference_ids:
   - REF-0423
   status: needs-review
+references:
+- REF-1809
+- REF-0573
+- REF-1810
+- REF-1811
+- REF-1812
+- REF-1813
+- REF-1814
+- REF-1815
+- REF-1816
+- REF-1817
+- REF-1818
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   osteoarthritis meta-analysis; review of boswellic acids in chronic inflammatory disease). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (inflammation, arthritis, asthma,
@@ -112,4 +137,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   evidence - a double-blind RCT in knee osteoarthritis with radiographic and hs-CRP outcomes (REF-0573)
   and an independent systematic review/meta-analysis of supplements for osteoarthritis that ranked Boswellia
   among the few with a large short-term effect on pain (REF-0574). | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds).'
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
+  to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1809, REF-0573, REF-1810,
+  REF-1811, REF-1812, REF-1813, REF-1814, REF-1815, REF-1816, REF-1817, REF-1818) — woven into relevant
+  actions/indications and the plant-level references bucket.'

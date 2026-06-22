@@ -21655,7 +21655,13 @@
      "note": "Anxiolytic for anxiety and nervous tension (reduces anxiety in clinical trials)",
      "reference_ids": [
       "REF-0490",
-      "REF-0491"
+      "REF-0491",
+      "REF-1908",
+      "REF-1910",
+      "REF-1911",
+      "REF-1912",
+      "REF-0563",
+      "REF-1913"
      ],
      "status": "verified"
     },
@@ -21666,7 +21672,9 @@
       "REF-0490",
       "REF-0491",
       "REF-0564",
-      "REF-0565"
+      "REF-0565",
+      "REF-1907",
+      "REF-1909"
      ],
      "status": "verified"
     }
@@ -21731,9 +21739,22 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0490",
+    "REF-1907",
+    "REF-0564",
+    "REF-0565",
+    "REF-1908",
+    "REF-1909",
+    "REF-1910",
+    "REF-1911",
+    "REF-1912",
+    "REF-0563",
+    "REF-1913"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "paullinia-cupana",
@@ -28287,7 +28308,18 @@
      "note": "Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even at double and triple doses",
      "reference_ids": [
       "REF-0496",
-      "REF-0504"
+      "REF-0504",
+      "REF-1887",
+      "REF-0571",
+      "REF-1888",
+      "REF-1889",
+      "REF-1890",
+      "REF-1891",
+      "REF-1892",
+      "REF-1893",
+      "REF-0572",
+      "REF-1894",
+      "REF-1895"
      ],
      "status": "needs-review"
     },
@@ -28296,7 +28328,15 @@
      "note": "General urinary support (traditional); Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality Cochrane evidence shows it is NOT better than placebo, even at double and triple doses",
      "reference_ids": [
       "REF-0496",
-      "REF-0504"
+      "REF-0504",
+      "REF-1887",
+      "REF-0571",
+      "REF-1888",
+      "REF-1889",
+      "REF-1890",
+      "REF-0572",
+      "REF-1894",
+      "REF-1895"
      ],
      "status": "needs-review"
     },
@@ -28331,11 +28371,20 @@
    ],
    "references": [
     "REF-0571",
-    "REF-0572"
+    "REF-0572",
+    "REF-1887",
+    "REF-1888",
+    "REF-1889",
+    "REF-1890",
+    "REF-1891",
+    "REF-1892",
+    "REF-1893",
+    "REF-1894",
+    "REF-1895"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "silybum-marianum",
@@ -28379,7 +28428,8 @@
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
       "REF-0483",
-      "REF-0484"
+      "REF-0484",
+      "REF-1906"
      ],
      "status": "verified"
     },
@@ -28387,7 +28437,8 @@
      "action": "antidiabetic",
      "note": "Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c",
      "reference_ids": [
-      "REF-0559"
+      "REF-0559",
+      "REF-1905"
      ],
      "status": "verified"
     },
@@ -28396,7 +28447,9 @@
      "note": "Anti-inflammatory and antioxidant; Hepatoprotective / liver support (protects liver cells, antioxidant and antifibrotic)",
      "reference_ids": [
       "REF-0483",
-      "REF-0484"
+      "REF-0484",
+      "REF-1897",
+      "REF-1901"
      ],
      "status": "verified"
     },
@@ -28414,7 +28467,14 @@
      "reference_ids": [
       "REF-0483",
       "REF-0484",
-      "REF-0560"
+      "REF-0560",
+      "REF-1896",
+      "REF-1897",
+      "REF-1898",
+      "REF-1899",
+      "REF-1901",
+      "REF-1902",
+      "REF-1904"
      ],
      "status": "needs-review"
     }
@@ -28516,9 +28576,22 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1896",
+    "REF-1897",
+    "REF-1898",
+    "REF-1899",
+    "REF-1900",
+    "REF-1901",
+    "REF-1902",
+    "REF-1903",
+    "REF-1904",
+    "REF-1905",
+    "REF-1906"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "solidago-virgaurea",

@@ -28,11 +28,13 @@ actions:
   reference_ids:
   - REF-0483
   - REF-0484
+  - REF-1906
   status: verified
 - action: antidiabetic
   note: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
   reference_ids:
   - REF-0559
+  - REF-1905
   status: verified
 - action: antioxidant
   note: Anti-inflammatory and antioxidant; Hepatoprotective / liver support (protects liver cells, antioxidant
@@ -40,6 +42,8 @@ actions:
   reference_ids:
   - REF-0483
   - REF-0484
+  - REF-1897
+  - REF-1901
   status: verified
 - action: digestive
   note: Digestive support / mild dyspepsia (traditional)
@@ -54,6 +58,13 @@ actions:
   - REF-0483
   - REF-0484
   - REF-0560
+  - REF-1896
+  - REF-1897
+  - REF-1898
+  - REF-1899
+  - REF-1901
+  - REF-1902
+  - REF-1904
   status: needs-review
 indications:
 - condition: arthritis
@@ -121,9 +132,21 @@ contraindications:
   reference_ids:
   - REF-0483
   status: verified
+references:
+- REF-1896
+- REF-1897
+- REF-1898
+- REF-1899
+- REF-1900
+- REF-1901
+- REF-1902
+- REF-1903
+- REF-1904
+- REF-1905
+- REF-1906
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research safety/toxicity
   review; Biomedicine & Pharmacotherapy review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (liver-support, detox, indigestion, inflammation); associations retained
@@ -131,4 +154,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   meta-analysis of RCTs in type 2 diabetes (REF-0559; significant reductions in fasting glucose and HbA1c)
   and a network meta-analysis in NAFLD (REF-0560; modest liver-enzyme benefit, with novel metabolic agents
   outperforming plant drugs, hence needs-review). | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 11 PubMed-verified @article sources (REF-1896, REF-1897, REF-1898, REF-1899, REF-1900,
+  REF-1901, REF-1902, REF-1903, REF-1904, REF-1905, REF-1906) — woven into relevant actions/indications
+  and the plant-level references bucket.'

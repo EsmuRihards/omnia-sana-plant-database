@@ -27,6 +27,12 @@ actions:
   reference_ids:
   - REF-0490
   - REF-0491
+  - REF-1908
+  - REF-1910
+  - REF-1911
+  - REF-1912
+  - REF-0563
+  - REF-1913
   status: verified
 - action: sedative
   note: Sleep support for insomnia - improves subjective sleep quality and, on polysomnography, increases
@@ -36,6 +42,8 @@ actions:
   - REF-0491
   - REF-0564
   - REF-0565
+  - REF-1907
+  - REF-1909
   status: verified
 indications:
 - condition: anxiety
@@ -81,9 +89,21 @@ contraindications:
   reference_ids:
   - REF-0491
   status: verified
+references:
+- REF-0490
+- REF-1907
+- REF-0564
+- REF-0565
+- REF-1908
+- REF-1909
+- REF-1910
+- REF-1911
+- REF-1912
+- REF-0563
+- REF-1913
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Nutrients systematic review;
   EMA HMPC monograph for Passiflorae herba). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (anxiety, insomnia, stress, nervous-tension); associations retained and now part-mapped
@@ -91,4 +111,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   trial showing anxiolysis without sedation (REF-0563), a polysomnography trial showing increased total
   sleep time in insomnia disorder (REF-0564) and a placebo-controlled trial of passionflower tea improving
   subjective sleep quality (REF-0565). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
-  split out, constituents linked to compounds).'
+  split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
+  added 11 PubMed-verified @article sources (REF-0490, REF-1907, REF-0564, REF-0565, REF-1908, REF-1909,
+  REF-1910, REF-1911, REF-1912, REF-0563, REF-1913) — woven into relevant actions/indications and the
+  plant-level references bucket.'

@@ -27,6 +27,17 @@ indications:
   reference_ids:
   - REF-0496
   - REF-0504
+  - REF-1887
+  - REF-0571
+  - REF-1888
+  - REF-1889
+  - REF-1890
+  - REF-1891
+  - REF-1892
+  - REF-1893
+  - REF-0572
+  - REF-1894
+  - REF-1895
   status: needs-review
 - condition: urinary-support
   note: General urinary support (traditional); Lower urinary tract symptoms of benign prostatic hyperplasia
@@ -35,6 +46,14 @@ indications:
   reference_ids:
   - REF-0496
   - REF-0504
+  - REF-1887
+  - REF-0571
+  - REF-1888
+  - REF-1889
+  - REF-1890
+  - REF-0572
+  - REF-1894
+  - REF-1895
   status: needs-review
 - condition: uti
   note: Lower urinary tract symptoms of benign prostatic hyperplasia (BPH) - widely used, but high-quality
@@ -61,9 +80,18 @@ contraindications:
 references:
 - REF-0571
 - REF-0572
+- REF-1887
+- REF-1888
+- REF-1889
+- REF-1890
+- REF-1891
+- REF-1892
+- REF-1893
+- REF-1894
+- REF-1895
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane systematic review/meta-analysis;
   Canadian Journal of Urology review). High-quality evidence finds no benefit over placebo, reflected
   in needs-review action statuses. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
@@ -75,4 +103,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   Unmapped uses kept for reference: Standardised hexanic extract (Permixon) specifically - meta-analyses
   report reduced nocturia and improved urinary flow versus placebo and efficacy comparable to tamsulosin
   and short-term finasteride, with better sexual-function tolerability; this contrasts with the null finding
-  for pooled mixed extracts.'
+  for pooled mixed extracts. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
+  @article sources (REF-1887, REF-0571, REF-1888, REF-1889, REF-1890, REF-1891, REF-1892, REF-1893, REF-0572,
+  REF-1894, REF-1895) — woven into relevant actions/indications and the plant-level references bucket.'

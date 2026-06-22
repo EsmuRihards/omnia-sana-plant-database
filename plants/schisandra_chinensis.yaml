@@ -28,29 +28,40 @@ actions:
   reference_ids:
   - REF-0505
   - REF-0506
+  - REF-1879
+  - REF-1881
   status: verified
 - action: anti-inflammatory
   note: Antioxidant and anti-inflammatory
   reference_ids:
   - REF-0505
+  - REF-1882
+  - REF-1884
+  - REF-1885
   status: verified
 - action: antioxidant
   note: Antioxidant and anti-inflammatory; Hepatoprotective / liver support (antioxidant and mitoprotective)
   reference_ids:
   - REF-0505
   - REF-0583
+  - REF-1877
   status: verified
 - action: ergogenic
   note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
   reference_ids:
   - REF-0505
   - REF-0506
+  - REF-1881
+  - REF-1883
   status: verified
 - action: hepatoprotective
   note: Hepatoprotective / liver support (antioxidant and mitoprotective)
   reference_ids:
   - REF-0505
   - REF-0583
+  - REF-1877
+  - REF-1880
+  - REF-1884
   status: verified
 indications:
 - condition: arthritis
@@ -131,13 +142,28 @@ contraindications:
   reference_ids:
   - REF-0506
   status: needs-review
+references:
+- REF-1877
+- REF-1878
+- REF-0505
+- REF-1879
+- REF-1880
+- REF-1881
+- REF-1882
+- REF-1883
+- REF-1884
+- REF-1885
+- REF-1886
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Antioxidants review of Schisandra; Nutrients
   adaptogens review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (fatigue, stress, liver-support, cognitive-function); associations retained and now part-mapped
   and cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind RCT showing relief of menopausal
   symptoms (REF-0582) and a comprehensive ethnopharmacology/pharmacology review (REF-0583) that also documents
   CYP3A and P-glycoprotein inhibition, refining the drug-interaction caution. | 2026-06-15: migrated to
-  entity schema (actions->vocab ids, indications split out, constituents linked to compounds).'
+  entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1877, REF-1878,
+  REF-0505, REF-1879, REF-1880, REF-1881, REF-1882, REF-1883, REF-1884, REF-1885, REF-1886) — woven into
+  relevant actions/indications and the plant-level references bucket.'

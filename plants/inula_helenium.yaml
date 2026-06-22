@@ -40,6 +40,10 @@ actions:
     models (potential in rheumatoid arthritis)
   reference_ids:
   - REF-0538
+  - REF-1858
+  - REF-1859
+  - REF-1860
+  - REF-1861
   status: verified
 - action: antimicrobial
   note: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
@@ -48,11 +52,13 @@ actions:
   - REF-0445
   - REF-0539
   - REF-0540
+  - REF-1862
   status: verified
 - action: expectorant
   note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy)
   reference_ids:
   - REF-0445
+  - REF-1858
   status: verified
 indications:
 - condition: arthritis
@@ -116,13 +122,28 @@ contraindications:
   reference_ids:
   - REF-0445
   status: needs-review
+references:
+- REF-1858
+- REF-0538
+- REF-1859
+- REF-1860
+- REF-1861
+- REF-1862
+- REF-1863
+- REF-1864
+- REF-1865
+- REF-1866
+- REF-1867
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-13'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antimicrobial/ethnobotanical
   study). Further enriched 2026-06-13 with three PubMed studies - a total-sesquiterpene-lactone anti-inflammatory/anti-arthritic
   study (REF-0538), an antistaphylococcal essential-oil study (REF-0539) and an antimycobacterial eudesmanolide
   study (REF-0540); a new anti-inflammatory action was added. Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, infection); associations retained and
   now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
-  split out, constituents linked to compounds).'
+  split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
+  added 11 PubMed-verified @article sources (REF-1858, REF-0538, REF-1859, REF-1860, REF-1861, REF-1862,
+  REF-1863, REF-1864, REF-1865, REF-1866, REF-1867) — woven into relevant actions/indications and the
+  plant-level references bucket.'

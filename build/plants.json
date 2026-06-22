@@ -15788,7 +15788,11 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory - sesquiterpene lactones (alantolactone, isoalantolactone) inhibit NF-kB and MAPK signalling and pro-inflammatory cytokines; total sesquiterpene lactones eased arthritis in animal models (potential in rheumatoid arthritis)",
      "reference_ids": [
-      "REF-0538"
+      "REF-0538",
+      "REF-1858",
+      "REF-1859",
+      "REF-1860",
+      "REF-1861"
      ],
      "status": "verified"
     },
@@ -15798,7 +15802,8 @@
      "reference_ids": [
       "REF-0445",
       "REF-0539",
-      "REF-0540"
+      "REF-0540",
+      "REF-1862"
      ],
      "status": "verified"
     },
@@ -15806,7 +15811,8 @@
      "action": "expectorant",
      "note": "Expectorant for productive cough and bronchitis (long-standing respiratory remedy)",
      "reference_ids": [
-      "REF-0445"
+      "REF-0445",
+      "REF-1858"
      ],
      "status": "verified"
     }
@@ -15899,9 +15905,22 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1858",
+    "REF-0538",
+    "REF-1859",
+    "REF-1860",
+    "REF-1861",
+    "REF-1862",
+    "REF-1863",
+    "REF-1864",
+    "REF-1865",
+    "REF-1866",
+    "REF-1867"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-13"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "juniperus-communis",
@@ -21907,7 +21926,15 @@
      "action": "antiviral",
      "note": "Antiviral and immunomodulatory (mechanism of action)",
      "reference_ids": [
-      "REF-0493"
+      "REF-0493",
+      "REF-0492",
+      "REF-1869",
+      "REF-1870",
+      "REF-0576",
+      "REF-1873",
+      "REF-1874",
+      "REF-1875",
+      "REF-1876"
      ],
      "status": "verified"
     },
@@ -21915,7 +21942,11 @@
      "action": "immunomodulator",
      "note": "Antiviral and immunomodulatory (mechanism of action)",
      "reference_ids": [
-      "REF-0493"
+      "REF-0493",
+      "REF-1868",
+      "REF-1871",
+      "REF-1872",
+      "REF-1874"
      ],
      "status": "verified"
     }
@@ -21992,9 +22023,22 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1868",
+    "REF-0492",
+    "REF-1869",
+    "REF-1870",
+    "REF-0576",
+    "REF-1871",
+    "REF-1872",
+    "REF-1873",
+    "REF-1874",
+    "REF-1875",
+    "REF-1876"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "petasites-hybridus",
@@ -27652,7 +27696,9 @@
      "note": "Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)",
      "reference_ids": [
       "REF-0505",
-      "REF-0506"
+      "REF-0506",
+      "REF-1879",
+      "REF-1881"
      ],
      "status": "verified"
     },
@@ -27660,7 +27706,10 @@
      "action": "anti-inflammatory",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
-      "REF-0505"
+      "REF-0505",
+      "REF-1882",
+      "REF-1884",
+      "REF-1885"
      ],
      "status": "verified"
     },
@@ -27669,7 +27718,8 @@
      "note": "Antioxidant and anti-inflammatory; Hepatoprotective / liver support (antioxidant and mitoprotective)",
      "reference_ids": [
       "REF-0505",
-      "REF-0583"
+      "REF-0583",
+      "REF-1877"
      ],
      "status": "verified"
     },
@@ -27678,7 +27728,9 @@
      "note": "Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)",
      "reference_ids": [
       "REF-0505",
-      "REF-0506"
+      "REF-0506",
+      "REF-1881",
+      "REF-1883"
      ],
      "status": "verified"
     },
@@ -27687,7 +27739,10 @@
      "note": "Hepatoprotective / liver support (antioxidant and mitoprotective)",
      "reference_ids": [
       "REF-0505",
-      "REF-0583"
+      "REF-0583",
+      "REF-1877",
+      "REF-1880",
+      "REF-1884"
      ],
      "status": "verified"
     }
@@ -27808,9 +27863,22 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1877",
+    "REF-1878",
+    "REF-0505",
+    "REF-1879",
+    "REF-1880",
+    "REF-1881",
+    "REF-1882",
+    "REF-1883",
+    "REF-1884",
+    "REF-1885",
+    "REF-1886"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "scrophularia-nodosa",

@@ -24,6 +24,8 @@ actions:
   note: Astringent / styptic for minor wounds (helps stop bleeding, topical)
   reference_ids:
   - REF-0507
+  - REF-1971
+  - REF-1972
   status: verified
 - action: emmenagogue
   note: Tones the uterus and eases menstrual flow and cramps (traditional)
@@ -39,6 +41,7 @@ actions:
   - REF-0507
   - REF-0508
   - REF-0608
+  - REF-1972
   status: verified
 indications:
 - condition: diarrhea
@@ -54,6 +57,8 @@ indications:
   - REF-0507
   - REF-0508
   - REF-0608
+  - REF-1971
+  - REF-1972
   status: verified
 - condition: menstrual-cramps
   note: Tones the uterus and eases menstrual flow and cramps (traditional)
@@ -92,6 +97,12 @@ references:
 - REF-0761
 - REF-0762
 - REF-0763
+- REF-1971
+- REF-1972
+- REF-1973
+- REF-1974
+- REF-1975
+- REF-1976
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -103,4 +114,6 @@ internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (H
   reduced heavy menstrual bleeding (PBLAC score) versus control. | 2026-06-15: migrated to entity schema
   (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
   PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0761, REF-0762,
-  REF-0763.'
+  REF-0763. | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources
+  (REF-1971, REF-1972, REF-1973, REF-0761, REF-0763, REF-1974, REF-0762, REF-1975, REF-1976) — woven into
+  relevant actions/indications and the plant-level references bucket.'

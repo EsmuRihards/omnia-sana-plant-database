@@ -15,6 +15,11 @@ actions:
   - REF-0078
   - REF-0126
   - REF-0215
+  - REF-1978
+  - REF-1980
+  - REF-1984
+  - REF-1985
+  - REF-1987
   status: verified
 - action: appetite-stimulant
   reference_ids:
@@ -27,6 +32,8 @@ actions:
   - REF-0078
   - REF-0126
   - REF-0215
+  - REF-1977
+  - REF-1982
   status: verified
 indications:
 - condition: appetite-loss
@@ -98,6 +105,17 @@ references:
 - REF-0764
 - REF-0765
 - REF-0766
+- REF-1977
+- REF-1978
+- REF-1979
+- REF-1980
+- REF-1981
+- REF-1982
+- REF-1983
+- REF-1984
+- REF-1985
+- REF-1986
+- REF-1987
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -106,4 +124,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0764, REF-0765, REF-0766.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0764, REF-0765, REF-0766.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1977,
+  REF-1978, REF-1979, REF-1980, REF-1981, REF-1982, REF-1983, REF-1984, REF-1985, REF-1986, REF-1987)
+  — woven into relevant actions/indications and the plant-level references bucket.'

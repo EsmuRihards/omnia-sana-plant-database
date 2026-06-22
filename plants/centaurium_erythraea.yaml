@@ -44,6 +44,8 @@ actions:
   reference_ids:
   - REF-0431
   - REF-0432
+  - REF-0619
+  - REF-1992
   status: verified
 - action: digestive
   note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
@@ -53,6 +55,8 @@ actions:
   - REF-0431
   - REF-0432
   - REF-0619
+  - REF-1988
+  - REF-0767
   status: verified
 - action: gastroprotective
   note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
@@ -62,6 +66,7 @@ actions:
   - REF-0431
   - REF-0432
   - REF-0619
+  - REF-0767
   status: verified
 - action: hepatoprotective
   note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
@@ -156,6 +161,14 @@ references:
 - REF-0767
 - REF-0768
 - REF-0769
+- REF-0619
+- REF-1988
+- REF-1989
+- REF-1990
+- REF-1991
+- REF-1992
+- REF-1993
+- REF-1994
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -166,4 +179,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA
   and pharmacology (REF-0619; documents gastroprotective, hepatoprotective, antioxidant and anti-inflammatory
   activity of the secoiridoid-rich herb). | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references
-  to the plant-level references bucket (least-cited enrichment): REF-0767, REF-0768, REF-0769.'
+  to the plant-level references bucket (least-cited enrichment): REF-0767, REF-0768, REF-0769. | 2026-06-20:
+  enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0619, REF-1988,
+  REF-0767, REF-1989, REF-1990, REF-1991, REF-0768, REF-1992, REF-1993, REF-1994) — woven into relevant
+  actions/indications and the plant-level references bucket.'

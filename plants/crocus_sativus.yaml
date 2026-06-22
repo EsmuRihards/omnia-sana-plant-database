@@ -13,12 +13,16 @@ actions:
   - REF-0005
   - REF-0115
   - REF-0172
+  - REF-2004
+  - REF-2006
   status: verified
 - action: anticancer
   reference_ids:
   - REF-0005
   - REF-0115
   - REF-0172
+  - REF-2007
+  - REF-2008
   status: verified
 - action: antidiabetic
   reference_ids:
@@ -31,18 +35,27 @@ actions:
   - REF-0005
   - REF-0115
   - REF-0172
+  - REF-2005
+  - REF-2006
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0005
   - REF-0115
   - REF-0172
+  - REF-2005
+  - REF-2009
   status: verified
 - action: sedative
   reference_ids:
   - REF-0005
   - REF-0115
   - REF-0172
+  - REF-0789
+  - REF-2001
+  - REF-2002
+  - REF-2003
+  - REF-2010
   status: verified
 indications:
 - condition: arthritis
@@ -134,6 +147,16 @@ references:
 - REF-0788
 - REF-0789
 - REF-0790
+- REF-2001
+- REF-2002
+- REF-2003
+- REF-2004
+- REF-2005
+- REF-2006
+- REF-2007
+- REF-2008
+- REF-2009
+- REF-2010
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -142,4 +165,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0788, REF-0789, REF-0790.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0788, REF-0789, REF-0790.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0789,
+  REF-2001, REF-2002, REF-2003, REF-2004, REF-2005, REF-2006, REF-2007, REF-2008, REF-2009, REF-2010)
+  — woven into relevant actions/indications and the plant-level references bucket.'

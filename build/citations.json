@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1994,
+ "count": 2021,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2818,6 +2818,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1998",
+   "key": "gobrecht2024cnicus",
+   "type": "article",
+   "title": "Cnicin promotes functional nerve regeneration",
+   "authors": "Gobrecht, P., Gebel, J., Leibinger, M., Zeitler, C., Chen, Z., Grundemann, D. and Fischer, D.",
+   "journal": "Phytomedicine",
+   "year": "2024",
+   "doi": "10.1016/j.phymed.2024.155641",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2024.155641",
+   "link_type": "doi",
+   "citation": "Gobrecht, P., Gebel, J., Leibinger, M., Zeitler, C., Chen, Z., Grundemann, D. and Fischer, D (2024) 'Cnicin promotes functional nerve regeneration', Phytomedicine, 129, pp. 155641. doi:10.1016/j.phymed.2024.155641",
+   "abstract": "Cnicin, a sesquiterpene lactone from Cnicus benedictus, accelerated axon regeneration and functional recovery after nerve injury across species with high oral bioavailability, highlighting a neuroregenerative effect of blessed thistle.",
+   "tier": "preclinical",
+   "display": "Cnicin promotes functional nerve regeneration",
+   "plants": [
+    "Blessed Thistle",
+    "Holy thistle",
+    "Spotted thistle",
+    "St Benedict's thistle"
+   ],
+   "scientific": [
+    "Cnicus benedictus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0775",
    "key": "zhang2024cnicus",
    "type": "article",
@@ -4061,6 +4089,34 @@
     "Arthritis / joint pain",
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-1995",
+   "key": "jalil2024cnicus",
+   "type": "article",
+   "title": "In Vitro Evaluate the Antiproliferative Impact of Cnicus Benedictus L. Leaves Methanolic Extract on Cervical Cancer",
+   "authors": "Jalil, D.M., Al-Mahdawi, T.T., Jameel, M.G. and Talal, M.",
+   "journal": "Asian Pacific Journal of Cancer Prevention",
+   "year": "2024",
+   "doi": "10.31557/APJCP.2024.25.10.3643",
+   "url": "",
+   "link": "https://doi.org/10.31557/APJCP.2024.25.10.3643",
+   "link_type": "doi",
+   "citation": "Jalil, D.M., Al-Mahdawi, T.T., Jameel, M.G. and Talal, M (2024) 'In Vitro Evaluate the Antiproliferative Impact of Cnicus Benedictus L. Leaves Methanolic Extract on Cervical Cancer', Asian Pacific Journal of Cancer Prevention, 25(10), pp. 3643-3649. doi:10.31557/APJCP.2024.25.10.3643",
+   "abstract": "Methanolic extract of Cnicus benedictus leaves selectively inhibited the growth of human cervical cancer (HeLa) cells while sparing normal cells, indicating antitumour potential of blessed thistle.",
+   "tier": "preclinical",
+   "display": "In Vitro Evaluate the Antiproliferative Impact of Cnicus Benedictus L. Leaves Methanolic Extract on Cervical Cancer",
+   "plants": [
+    "Blessed Thistle",
+    "Holy thistle",
+    "Spotted thistle",
+    "St Benedict's thistle"
+   ],
+   "scientific": [
+    "Cnicus benedictus"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1052",
@@ -8386,7 +8442,10 @@
    "scientific": [
     "Cnicus benedictus"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -11666,6 +11725,64 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2012",
+   "key": "burlounagy2022echinacea",
+   "type": "article",
+   "title": "Echinacea purpurea (L.) Moench: Biological and Pharmacological Properties. A Review",
+   "authors": "Burlou-Nagy, C., Banica, F., Jurca, T., Vicas, L.G., Marian, E., Muresan, M.E., Bacskay, I., Kiss, R., Feher, P. and Pallag, A.",
+   "journal": "Plants",
+   "year": "2022",
+   "doi": "10.3390/plants11091244",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants11091244",
+   "link_type": "doi",
+   "citation": "Burlou-Nagy, C., Banica, F., Jurca, T., Vicas, L.G., Marian, E., Muresan, M.E., Bacskay, I., Kiss, R., Feher, P. and Pallag, A (2022) 'Echinacea purpurea (L.) Moench: Biological and Pharmacological Properties. A Review', Plants, 11(9), pp. 1244. doi:10.3390/plants11091244",
+   "abstract": "This review summarises the chemical constituents and biological effects of Echinacea purpurea (purple coneflower), including its immunomodulatory, anti-inflammatory, antimicrobial, antiviral and antioxidant properties.",
+   "tier": "review",
+   "display": "Echinacea purpurea (L.) Moench: Biological and Pharmacological Properties. A Review",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2018",
+   "key": "micheli2022echinacea",
+   "type": "article",
+   "title": "Echinacea purpurea against neuropathic pain: Alkamides versus polyphenols efficacy",
+   "authors": "Micheli, L., Maggini, V., Ciampi, C., Gallo, E., Bogani, P., Fani, R., Pistelli, L., Ghelardini, C., Di Cesare Mannelli, L., De Leo, M. and Firenzuoli, F.",
+   "journal": "Phytotherapy Research",
+   "year": "2022",
+   "doi": "10.1002/ptr.7709",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7709",
+   "link_type": "doi",
+   "citation": "Micheli, L., Maggini, V., Ciampi, C., Gallo, E., Bogani, P., Fani, R., Pistelli, L., Ghelardini, C., Di Cesare Mannelli, L., De Leo, M. and Firenzuoli, F (2022) 'Echinacea purpurea against neuropathic pain: Alkamides versus polyphenols efficacy', Phytotherapy Research, 37(5), pp. 1911-1923. doi:10.1002/ptr.7709",
+   "abstract": "Echinacea purpurea alkamide-rich and polyphenol-rich extracts attenuated oxaliplatin-induced neuropathic pain in vivo via the endocannabinoid (CB2) system and antioxidant mechanisms, indicating anti-inflammatory analgesic activity of purple coneflower.",
+   "tier": "preclinical",
+   "display": "Echinacea purpurea against neuropathic pain: Alkamides versus polyphenols efficacy",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0720",
    "key": "engelhardt2022aegopodium",
    "type": "article",
@@ -14177,6 +14294,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2009",
+   "key": "elmidaoui2022saffron",
+   "type": "article",
+   "title": "Saffron (Crocus sativus L.): A Source of Nutrients for Health and for the Treatment of Neuropsychiatric and Age-Related Diseases",
+   "authors": "El Midaoui, A., Ghzaiel, I., Vervandier-Fasseur, D., Ksila, M., Zarrouk, A., Nury, T., Khallouki, F., El Hessni, A., Ibrahimi, S.O., Latruffe, N., Couture, R., Kharoubi, O., Brahmi, F., Hammami, S., Masmoudi-Kouki, O., Hammami, M., Ghrairi, T., Vejux, A. and Lizard, G.",
+   "journal": "Nutrients",
+   "year": "2022",
+   "doi": "10.3390/nu14030597",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu14030597",
+   "link_type": "doi",
+   "citation": "El Midaoui, A., Ghzaiel, I., Vervandier-Fasseur, D., Ksila, M., Zarrouk, A., Nury, T., Khallouki, F., El Hessni, A., Ibrahimi, S.O., Latruffe, N., Couture, R., Kharoubi, O., Brahmi, F., Hammami, S., Masmoudi-Kouki, O., Hammami, M., Ghrairi, T., Vejux, A. and Lizard, G (2022) 'Saffron (Crocus sativus L.): A Source of Nutrients for Health and for the Treatment of Neuropsychiatric and Age-Related Diseases', Nutrients, 14(3), pp. 597. doi:10.3390/nu14030597",
+   "abstract": "This review presents saffron (Crocus sativus) as a source of nutrients with potential in the treatment of neuropsychiatric and age-related diseases, supporting its neuroprotective use.",
+   "tier": "review",
+   "display": "Saffron (Crocus sativus L.): A Source of Nutrients for Health and for the Treatment of Neuropsychiatric and Age-Related Diseases",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0790",
    "key": "chen2022saffron",
    "type": "article",
@@ -14263,6 +14409,34 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1999",
+   "key": "avula2022cnicus",
+   "type": "article",
+   "title": "Simultaneous determination and characterization of flavonoids, sesquiterpene lactone, and other phenolics from Centaurea benedicta and dietary supplements using UHPLC-PDA-MS and LC-DAD-QToF",
+   "authors": "Avula, B., Katragunta, K., Wang, Y.H., Ali, Z. and Khan, I.A.",
+   "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+   "year": "2022",
+   "doi": "10.1016/j.jpba.2022.114806",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jpba.2022.114806",
+   "link_type": "doi",
+   "citation": "Avula, B., Katragunta, K., Wang, Y.H., Ali, Z. and Khan, I.A (2022) 'Simultaneous determination and characterization of flavonoids, sesquiterpene lactone, and other phenolics from Centaurea benedicta and dietary supplements using UHPLC-PDA-MS and LC-DAD-QToF', Journal of Pharmaceutical and Biomedical Analysis, 216, pp. 114806. doi:10.1016/j.jpba.2022.114806",
+   "abstract": "A validated LC method simultaneously quantified cnicin, arctiin, chlorogenic acid and flavonoids in Cnicus benedictus (Centaurea benedicta) and authenticated dietary supplements, documenting marker constituents of blessed thistle.",
+   "tier": "preclinical",
+   "display": "Simultaneous determination and characterization of flavonoids, sesquiterpene lactone, and other phenolics from Centaurea benedicta and dietary supplements using UHPLC-PDA-MS and LC-DAD-QToF",
+   "plants": [
+    "Blessed Thistle",
+    "Holy thistle",
+    "Spotted thistle",
+    "St Benedict's thistle"
+   ],
+   "scientific": [
+    "Cnicus benedictus"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -15552,6 +15726,33 @@
    ]
   },
   {
+   "ref_id": "REF-2019",
+   "key": "gholami2021echinacea",
+   "type": "article",
+   "title": "Anticonvulsive and anti-epileptogenesis effects of Echinacea purpurea root extract, an involvement of CB2 receptor",
+   "authors": "Gholami, M., Amri, J., Pazhoohan, S. and Sadegh, M.",
+   "journal": "Journal of Complementary & Integrative Medicine",
+   "year": "2021",
+   "doi": "10.1515/jcim-2020-0219",
+   "url": "",
+   "link": "https://doi.org/10.1515/jcim-2020-0219",
+   "link_type": "doi",
+   "citation": "Gholami, M., Amri, J., Pazhoohan, S. and Sadegh, M (2021) 'Anticonvulsive and anti-epileptogenesis effects of Echinacea purpurea root extract, an involvement of CB2 receptor', Journal of Complementary & Integrative Medicine, 19(4), pp. 879-886. doi:10.1515/jcim-2020-0219",
+   "abstract": "Echinacea purpurea root extract showed anticonvulsive and anti-epileptogenesis effects against pentylenetetrazol-induced seizures in rats, mediated by CB2 receptors, indicating a cannabinomimetic neuroactivity of purple coneflower.",
+   "tier": "preclinical",
+   "display": "Anticonvulsive and anti-epileptogenesis effects of Echinacea purpurea root extract, an involvement of CB2 receptor",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1397",
    "key": "castro2021dill",
    "type": "article",
@@ -16512,6 +16713,35 @@
    ],
    "actions": [
     "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2010",
+   "key": "pitsikas2021saffron",
+   "type": "article",
+   "title": "Crocus sativus L. Extracts and Its Constituents Crocins and Safranal; Potential Candidates for Schizophrenia Treatment?",
+   "authors": "Pitsikas, N.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26051237",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26051237",
+   "link_type": "doi",
+   "citation": "Pitsikas, N (2021) 'Crocus sativus L. Extracts and Its Constituents Crocins and Safranal; Potential Candidates for Schizophrenia Treatment?', Molecules, 26(5), pp. 1237. doi:10.3390/molecules26051237",
+   "abstract": "This review evaluates saffron (Crocus sativus) extracts and their constituents crocins and safranal as potential candidates for schizophrenia treatment, supporting the neuropsychiatric/sedative use of saffron.",
+   "tier": "review",
+   "display": "Crocus sativus L. Extracts and Its Constituents Crocins and Safranal; Potential Candidates for Schizophrenia Treatment?",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Sedative / sleep support"
    ],
    "conditions": []
   },
@@ -17665,6 +17895,33 @@
    "conditions": [
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2020",
+   "key": "awortwe2021echinacea",
+   "type": "article",
+   "title": "Interaction of Phytocompounds of Echinacea purpurea with ABCB1 and ABCG2 Efflux Transporters",
+   "authors": "Awortwe, C., Bruckmueller, H., Kaehler, M. and Cascorbi, I.",
+   "journal": "Molecular Pharmaceutics",
+   "year": "2021",
+   "doi": "10.1021/acs.molpharmaceut.0c01075",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.molpharmaceut.0c01075",
+   "link_type": "doi",
+   "citation": "Awortwe, C., Bruckmueller, H., Kaehler, M. and Cascorbi, I (2021) 'Interaction of Phytocompounds of Echinacea purpurea with ABCB1 and ABCG2 Efflux Transporters', Molecular Pharmaceutics, 18(4), pp. 1622-1633. doi:10.1021/acs.molpharmaceut.0c01075",
+   "abstract": "This study found that Echinacea purpurea caffeic-acid derivatives and tetraenes moderately induced ABCB1 but did not significantly inhibit ABCB1/ABCG2 efflux transporters at clinically relevant concentrations, characterising the herb-drug-interaction profile of purple coneflower.",
+   "tier": "preclinical",
+   "display": "Interaction of Phytocompounds of Echinacea purpurea with ABCB1 and ABCG2 Efflux Transporters",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1081",
@@ -26301,6 +26558,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1997",
+   "key": "paun2019cnicus",
+   "type": "article",
+   "title": "Chemical and Bioactivity Evaluation of Cnicus benedictus and Eryngium planum Polyphenolic-Rich Extracts",
+   "authors": "Paun, G., Neagu, E., Moroeanu, V., Albu, C., Savin, S. and Lucian Radu, G.",
+   "journal": "BioMed Research International",
+   "year": "2019",
+   "doi": "10.1155/2019/3692605",
+   "url": "",
+   "link": "https://doi.org/10.1155/2019/3692605",
+   "link_type": "doi",
+   "citation": "Paun, G., Neagu, E., Moroeanu, V., Albu, C., Savin, S. and Lucian Radu, G (2019) 'Chemical and Bioactivity Evaluation of Cnicus benedictus and Eryngium planum Polyphenolic-Rich Extracts', BioMed Research International, 2019, pp. 3692605. doi:10.1155/2019/3692605",
+   "abstract": "Polyphenol-rich extracts of Cnicus benedictus (rich in rutin) showed antioxidant and lipoxygenase/hyaluronidase inhibition and inhibited alpha-amylase and alpha-glucosidase, supporting its use in managing inflammation and diabetes.",
+   "tier": "preclinical",
+   "display": "Chemical and Bioactivity Evaluation of Cnicus benedictus and Eryngium planum Polyphenolic-Rich Extracts",
+   "plants": [
+    "Blessed Thistle",
+    "Holy thistle",
+    "Spotted thistle",
+    "St Benedict's thistle"
+   ],
+   "scientific": [
+    "Cnicus benedictus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1506",
    "key": "thompson2018pygeum",
    "type": "article",
@@ -26508,6 +26795,35 @@
     "Zea mays"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2003",
+   "key": "baziar2019saffron",
+   "type": "article",
+   "title": "Crocus sativus L. Versus Methylphenidate in Treatment of Children with Attention-Deficit/Hyperactivity Disorder: A Randomized, Double-Blind Pilot Study",
+   "authors": "Baziar, S., Aqamolaei, A., Khadem, E., Mortazavi, S.H., Naderi, S., Sahebolzamani, E., Mortezaei, A., Jalilevand, S., Mohammadi, M., Shahmirzadi, M. and Akhondzadeh, S.",
+   "journal": "Journal of Child and Adolescent Psychopharmacology",
+   "year": "2019",
+   "doi": "10.1089/cap.2018.0146",
+   "url": "",
+   "link": "https://doi.org/10.1089/cap.2018.0146",
+   "link_type": "doi",
+   "citation": "Baziar, S., Aqamolaei, A., Khadem, E., Mortazavi, S.H., Naderi, S., Sahebolzamani, E., Mortezaei, A., Jalilevand, S., Mohammadi, M., Shahmirzadi, M. and Akhondzadeh, S (2019) 'Crocus sativus L. Versus Methylphenidate in Treatment of Children with Attention-Deficit/Hyperactivity Disorder: A Randomized, Double-Blind Pilot Study', Journal of Child and Adolescent Psychopharmacology, 29(3), pp. 205-212. doi:10.1089/cap.2018.0146",
+   "abstract": "In a randomized double-blind pilot study, Crocus sativus (saffron) was comparable to methylphenidate in treating children with ADHD, supporting its neuropsychiatric/sedative applications.",
+   "tier": "rct",
+   "display": "Crocus sativus L. Versus Methylphenidate in Treatment of Children with Attention-Deficit/Hyperactivity Disorder: A Randomized, Double-Blind Pilot Study",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -29571,6 +29887,35 @@
    ]
   },
   {
+   "ref_id": "REF-2008",
+   "key": "khorasanchi2018saffron",
+   "type": "article",
+   "title": "Crocus sativus a natural food coloring and flavoring has potent anti-tumor properties",
+   "authors": "Khorasanchi, Z., Shafiee, M., Kermanshahi, F., Khazaei, M., Ryzhikov, M., Parizadeh, M.R., Kermanshahi, B., Ferns, G.A., Avan, A. and Hassanian, S.M.",
+   "journal": "Phytomedicine",
+   "year": "2018",
+   "doi": "10.1016/j.phymed.2018.03.041",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2018.03.041",
+   "link_type": "doi",
+   "citation": "Khorasanchi, Z., Shafiee, M., Kermanshahi, F., Khazaei, M., Ryzhikov, M., Parizadeh, M.R., Kermanshahi, B., Ferns, G.A., Avan, A. and Hassanian, S.M (2018) 'Crocus sativus a natural food coloring and flavoring has potent anti-tumor properties', Phytomedicine, 43, pp. 21-27. doi:10.1016/j.phymed.2018.03.041",
+   "abstract": "This review describes the potent anti-tumour properties of saffron (Crocus sativus) and its secondary metabolites crocin, picrocrocin and safranal, supporting the anticancer use of saffron.",
+   "tier": "review",
+   "display": "Crocus sativus a natural food coloring and flavoring has potent anti-tumor properties",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0652",
    "key": "hadi2018cuminlipid",
    "type": "article",
@@ -31687,6 +32032,36 @@
    ]
   },
   {
+   "ref_id": "REF-2005",
+   "key": "finley2017saffron",
+   "type": "article",
+   "title": "A Perspective on Crocus sativus L. (Saffron) Constituent Crocin: A Potent Water-Soluble Antioxidant and Potential Therapy for Alzheimer's Disease",
+   "authors": "Finley, J.W. and Gao, S.",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "year": "2017",
+   "doi": "10.1021/acs.jafc.6b04398",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jafc.6b04398",
+   "link_type": "doi",
+   "citation": "Finley, J.W. and Gao, S (2017) 'A Perspective on Crocus sativus L. (Saffron) Constituent Crocin: A Potent Water-Soluble Antioxidant and Potential Therapy for Alzheimer's Disease', Journal of Agricultural and Food Chemistry, 65(5), pp. 1005-1020. doi:10.1021/acs.jafc.6b04398",
+   "abstract": "This perspective reviews the saffron (Crocus sativus) constituent crocin as a potent water-soluble antioxidant and potential therapy for Alzheimer's disease, supporting the antioxidant and neuroprotective use of saffron.",
+   "tier": "review",
+   "display": "A Perspective on Crocus sativus L. (Saffron) Constituent Crocin: A Potent Water-Soluble Antioxidant and Potential Therapy for Alzheimer's Disease",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1118",
    "key": "venkata2017fenugreek",
    "type": "article",
@@ -31743,6 +32118,35 @@
     "Nepeta cataria"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2002",
+   "key": "kell2017saffron",
+   "type": "article",
+   "title": "affron a novel saffron extract (Crocus sativus L.) improves mood in healthy adults over 4 weeks in a double-blind, parallel, randomized, placebo-controlled clinical trial",
+   "authors": "Kell, G., Rao, A., Beccaria, G., Clayton, P., Inarejos-Garcia, A.M. and Prodanov, M.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2017",
+   "doi": "10.1016/j.ctim.2017.06.001",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2017.06.001",
+   "link_type": "doi",
+   "citation": "Kell, G., Rao, A., Beccaria, G., Clayton, P., Inarejos-Garcia, A.M. and Prodanov, M (2017) 'affron a novel saffron extract (Crocus sativus L.) improves mood in healthy adults over 4 weeks in a double-blind, parallel, randomized, placebo-controlled clinical trial', Complementary Therapies in Medicine, 33, pp. 58-64. doi:10.1016/j.ctim.2017.06.001",
+   "abstract": "In a double-blind, randomized, placebo-controlled trial, a standardised saffron (Crocus sativus) extract improved mood in healthy adults over 4 weeks, supporting the sedative/mood-regulating use of saffron.",
+   "tier": "rct",
+   "display": "affron a novel saffron extract (Crocus sativus L.) improves mood in healthy adults over 4 weeks in a double-blind, parallel, randomized, placebo-controlled clinical trial",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -34560,6 +34964,36 @@
    ]
   },
   {
+   "ref_id": "REF-1996",
+   "key": "peng2017cnicus",
+   "type": "article",
+   "title": "Two new sesquiterpene lactone glycosides from Cnicus benedictus",
+   "authors": "Peng, Y., Jian, Y., Zulfiqar, A., Li, B., Zhang, K., Long, F., Peng, C., Cai, X., Khan, I.A. and Wang, W.",
+   "journal": "Natural Product Research",
+   "year": "2017",
+   "doi": "10.1080/14786419.2017.1295239",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2017.1295239",
+   "link_type": "doi",
+   "citation": "Peng, Y., Jian, Y., Zulfiqar, A., Li, B., Zhang, K., Long, F., Peng, C., Cai, X., Khan, I.A. and Wang, W (2017) 'Two new sesquiterpene lactone glycosides from Cnicus benedictus', Natural Product Research, 31(19), pp. 2211-2217. doi:10.1080/14786419.2017.1295239",
+   "abstract": "Two new sesquiterpene lactone glycosides and eight known compounds were isolated from the aerial part of Cnicus benedictus, one showing antifungal activity against Aspergillus fumigatus, characterising the bioactive constituents of blessed thistle.",
+   "tier": "preclinical",
+   "display": "Two new sesquiterpene lactone glycosides from Cnicus benedictus",
+   "plants": [
+    "Blessed Thistle",
+    "Holy thistle",
+    "Spotted thistle",
+    "St Benedict's thistle"
+   ],
+   "scientific": [
+    "Cnicus benedictus"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1355",
    "key": "mineo2017valerian",
    "type": "article",
@@ -35054,6 +35488,36 @@
    ]
   },
   {
+   "ref_id": "REF-2006",
+   "key": "boskabady2016saffron",
+   "type": "article",
+   "title": "Antiinflammatory, Antioxidant, and Immunomodulatory Effects of Crocus sativus L. and its Main Constituents",
+   "authors": "Boskabady, M.H. and Farkhondeh, T.",
+   "journal": "Phytotherapy Research",
+   "year": "2016",
+   "doi": "10.1002/ptr.5622",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5622",
+   "link_type": "doi",
+   "citation": "Boskabady, M.H. and Farkhondeh, T (2016) 'Antiinflammatory, Antioxidant, and Immunomodulatory Effects of Crocus sativus L. and its Main Constituents', Phytotherapy Research, 30(7), pp. 1072-1094. doi:10.1002/ptr.5622",
+   "abstract": "This review summarises the anti-inflammatory, antioxidant and immunomodulatory effects of saffron (Crocus sativus) and its main constituents crocin, crocetin and safranal.",
+   "tier": "review",
+   "display": "Antiinflammatory, Antioxidant, and Immunomodulatory Effects of Crocus sativus L. and its Main Constituents",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0766",
    "key": "trifan2016carum",
    "type": "article",
@@ -35507,6 +35971,35 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2014",
+   "key": "ross2016echinacea",
+   "type": "article",
+   "title": "Echinacea purpurea: A Proprietary Extract of Echinacea purpurea Is Shown to be Safe and Effective in the Prevention of the Common Cold",
+   "authors": "Ross, S.M.",
+   "journal": "Holistic Nursing Practice",
+   "year": "2016",
+   "doi": "10.1097/HNP.0000000000000130",
+   "url": "",
+   "link": "https://doi.org/10.1097/HNP.0000000000000130",
+   "link_type": "doi",
+   "citation": "Ross, S.M (2016) 'Echinacea purpurea: A Proprietary Extract of Echinacea purpurea Is Shown to be Safe and Effective in the Prevention of the Common Cold', Holistic Nursing Practice, 30(1), pp. 54-57. doi:10.1097/HNP.0000000000000130",
+   "abstract": "This review of the largest clinical trial of a standardised Echinacea purpurea extract (Echinaforce) found it safe and effective for preventing the common cold over a 4-month period, supporting the antimicrobial/antiviral immunomodulatory use of purple coneflower.",
+   "tier": "review",
+   "display": "Echinacea purpurea: A Proprietary Extract of Echinacea purpurea Is Shown to be Safe and Effective in the Prevention of the Common Cold",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [
+    "Antimicrobial"
    ],
    "conditions": []
   },
@@ -37961,6 +38454,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2007",
+   "key": "bhandari2015saffron",
+   "type": "article",
+   "title": "Crocus sativus L. (saffron) for cancer chemoprevention: A mini review",
+   "authors": "Bhandari, P.R.",
+   "journal": "Journal of Traditional and Complementary Medicine",
+   "year": "2015",
+   "doi": "10.1016/j.jtcme.2014.10.009",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jtcme.2014.10.009",
+   "link_type": "doi",
+   "citation": "Bhandari, P.R (2015) 'Crocus sativus L. (saffron) for cancer chemoprevention: A mini review', Journal of Traditional and Complementary Medicine, 5(2), pp. 81-87. doi:10.1016/j.jtcme.2014.10.009",
+   "abstract": "This mini review summarises the cancer-chemopreventive and anticancer properties of saffron (Crocus sativus) and its carotenoid constituents.",
+   "tier": "review",
+   "display": "Crocus sativus L. (saffron) for cancer chemoprevention: A mini review",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0147",
    "key": "kpbs2015cumin",
    "type": "misc",
@@ -38105,6 +38627,36 @@
     "Primula veris"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2011",
+   "key": "manayi2015echinacea",
+   "type": "article",
+   "title": "Echinacea purpurea: Pharmacology, phytochemistry and analysis methods",
+   "authors": "Manayi, A., Vazirian, M. and Saeidnia, S.",
+   "journal": "Pharmacognosy Reviews",
+   "year": "2015",
+   "doi": "10.4103/0973-7847.156353",
+   "url": "",
+   "link": "https://doi.org/10.4103/0973-7847.156353",
+   "link_type": "doi",
+   "citation": "Manayi, A., Vazirian, M. and Saeidnia, S (2015) 'Echinacea purpurea: Pharmacology, phytochemistry and analysis methods', Pharmacognosy Reviews, 9(17), pp. 63-72. doi:10.4103/0973-7847.156353",
+   "abstract": "This review of Echinacea purpurea details its immunostimulatory and anti-inflammatory properties (notably alleviation of cold symptoms), its alkamide and caffeic-acid constituents, and analysis methods.",
+   "tier": "review",
+   "display": "Echinacea purpurea: Pharmacology, phytochemistry and analysis methods",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Immunomodulator / immune support"
+   ],
    "conditions": []
   },
   {
@@ -38648,6 +39200,34 @@
    ],
    "scientific": [
     "Equisetum arvense"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2000",
+   "key": "paun2015cnicus",
+   "type": "article",
+   "title": "Inhibitory potential of some Romanian medicinal plants against enzymes linked to neurodegenerative diseases and their antioxidant activity",
+   "authors": "Paun, G., Neagu, E., Albu, C. and Radu, G.L.",
+   "journal": "Pharmacognosy Magazine",
+   "year": "2015",
+   "doi": "10.4103/0973-1296.157709",
+   "url": "",
+   "link": "https://doi.org/10.4103/0973-1296.157709",
+   "link_type": "doi",
+   "citation": "Paun, G., Neagu, E., Albu, C. and Radu, G.L (2015) 'Inhibitory potential of some Romanian medicinal plants against enzymes linked to neurodegenerative diseases and their antioxidant activity', Pharmacognosy Magazine, 11(Suppl 1), pp. S110-S116. doi:10.4103/0973-1296.157709",
+   "abstract": "Among Romanian medicinal plants, the Cnicus benedictus ethanol extract strongly inhibited acetylcholinesterase and tyrosinase and showed high antioxidant scavenging activity, indicating neuroprotective potential of blessed thistle.",
+   "tier": "preclinical",
+   "display": "Inhibitory potential of some Romanian medicinal plants against enzymes linked to neurodegenerative diseases and their antioxidant activity",
+   "plants": [
+    "Blessed Thistle",
+    "Holy thistle",
+    "Spotted thistle",
+    "St Benedict's thistle"
+   ],
+   "scientific": [
+    "Cnicus benedictus"
    ],
    "actions": [],
    "conditions": []
@@ -40418,6 +40998,35 @@
    ]
   },
   {
+   "ref_id": "REF-2004",
+   "key": "moshiri2014saffron",
+   "type": "article",
+   "title": "Clinical Applications of Saffron (Crocus sativus) and its Constituents: A Review",
+   "authors": "Moshiri, M., Vahabzadeh, M. and Hosseinzadeh, H.",
+   "journal": "Drug Research",
+   "year": "2014",
+   "doi": "10.1055/s-0034-1375681",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0034-1375681",
+   "link_type": "doi",
+   "citation": "Moshiri, M., Vahabzadeh, M. and Hosseinzadeh, H (2014) 'Clinical Applications of Saffron (Crocus sativus) and its Constituents: A Review', Drug Research, 65(6), pp. 287-295. doi:10.1055/s-0034-1375681",
+   "abstract": "This review of the clinical applications of saffron (Crocus sativus) and its constituents details its anticonvulsant, antidepressant, anti-inflammatory, antitumour and radical-scavenging effects.",
+   "tier": "review",
+   "display": "Clinical Applications of Saffron (Crocus sativus) and its Constituents: A Review",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0546",
    "key": "mahmood2014parsley",
    "type": "article",
@@ -41488,7 +42097,9 @@
    "scientific": [
     "Crocus sativus"
    ],
-   "actions": [],
+   "actions": [
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -43540,6 +44151,35 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-2001",
+   "key": "hausenblas2013saffron",
+   "type": "article",
+   "title": "Saffron (Crocus sativus L.) and major depressive disorder: a meta-analysis of randomized clinical trials",
+   "authors": "Hausenblas, H.A., Saha, D., Dubyak, P.J. and Anton, S.D.",
+   "journal": "Journal of Integrative Medicine",
+   "year": "2013",
+   "doi": "10.3736/jintegrmed2013056",
+   "url": "",
+   "link": "https://doi.org/10.3736/jintegrmed2013056",
+   "link_type": "doi",
+   "citation": "Hausenblas, H.A., Saha, D., Dubyak, P.J. and Anton, S.D (2013) 'Saffron (Crocus sativus L.) and major depressive disorder: a meta-analysis of randomized clinical trials', Journal of Integrative Medicine, 11(6), pp. 377-383. doi:10.3736/jintegrmed2013056",
+   "abstract": "This meta-analysis of randomized clinical trials found saffron (Crocus sativus) supplementation significantly reduced depressive symptoms in adults with major depressive disorder compared with placebo, supporting its sedative antidepressant use.",
+   "tier": "review",
+   "display": "Saffron (Crocus sativus L.) and major depressive disorder: a meta-analysis of randomized clinical trials",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1893",
@@ -46065,6 +46705,36 @@
    "conditions": [
     "Cough"
    ]
+  },
+  {
+   "ref_id": "REF-2015",
+   "key": "hudson2011echinacea",
+   "type": "article",
+   "title": "Applications of the phytomedicine Echinacea purpurea (Purple Coneflower) in infectious diseases",
+   "authors": "Hudson, J.B.",
+   "journal": "Journal of Biomedicine & Biotechnology",
+   "year": "2011",
+   "doi": "10.1155/2012/769896",
+   "url": "",
+   "link": "https://doi.org/10.1155/2012/769896",
+   "link_type": "doi",
+   "citation": "Hudson, J.B (2011) 'Applications of the phytomedicine Echinacea purpurea (Purple Coneflower) in infectious diseases', Journal of Biomedicine & Biotechnology, 2012, pp. 769896. doi:10.1155/2012/769896",
+   "abstract": "This review describes the antiviral and antimicrobial activities and immune-modulatory effects of standardised Echinacea purpurea extracts in infectious diseases, supporting its use for infections and wounds.",
+   "tier": "review",
+   "display": "Applications of the phytomedicine Echinacea purpurea (Purple Coneflower) in infectious diseases",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0553",
@@ -51039,6 +51709,64 @@
    ]
   },
   {
+   "ref_id": "REF-2013",
+   "key": "hall2007echinacea",
+   "type": "article",
+   "title": "Echinacea purpurea and mucosal immunity",
+   "authors": "Hall, H., Fahlman, M.M. and Engels, H.J.",
+   "journal": "International Journal of Sports Medicine",
+   "year": "2007",
+   "doi": "10.1055/s-2007-964895",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2007-964895",
+   "link_type": "doi",
+   "citation": "Hall, H., Fahlman, M.M. and Engels, H.J (2007) 'Echinacea purpurea and mucosal immunity', International Journal of Sports Medicine, 28(9), pp. 792-797. doi:10.1055/s-2007-964895",
+   "abstract": "In a randomized trial, Echinacea purpurea supplementation attenuated the exercise-induced suppression of salivary IgA mucosal immunity and reduced the duration of upper respiratory tract infection, supporting its immunomodulatory use.",
+   "tier": "rct",
+   "display": "Echinacea purpurea and mucosal immunity",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2017",
+   "key": "saunders2007echinacea",
+   "type": "article",
+   "title": "Echinacea purpurea L. in children: safety, tolerability, compliance, and clinical effectiveness in upper respiratory tract infections",
+   "authors": "Saunders, P.R., Smith, F. and Schusky, R.W.",
+   "journal": "Canadian Journal of Physiology and Pharmacology",
+   "year": "2007",
+   "doi": "10.1139/Y07-103",
+   "url": "",
+   "link": "https://doi.org/10.1139/Y07-103",
+   "link_type": "doi",
+   "citation": "Saunders, P.R., Smith, F. and Schusky, R.W (2007) 'Echinacea purpurea L. in children: safety, tolerability, compliance, and clinical effectiveness in upper respiratory tract infections', Canadian Journal of Physiology and Pharmacology, 85(11), pp. 1195-1199. doi:10.1139/Y07-103",
+   "abstract": "In an open-label trial, an aerial-part Echinacea purpurea extract was safe and well tolerated in children with upper respiratory tract infections, with symptom improvement, supporting its use for respiratory infection.",
+   "tier": "clinical",
+   "display": "Echinacea purpurea L. in children: safety, tolerability, compliance, and clinical effectiveness in upper respiratory tract infections",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1357",
    "key": "alkharfy2007valerian",
    "type": "article",
@@ -53700,6 +54428,35 @@
    "conditions": [
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2016",
+   "key": "mishima2004echinacea",
+   "type": "article",
+   "title": "Antioxidant and immuno-enhancing effects of Echinacea purpurea",
+   "authors": "Mishima, S., Saito, K., Maruyama, H., Inoue, M., Yamashita, T., Ishida, T. and Gu, Y.",
+   "journal": "Biological & Pharmaceutical Bulletin",
+   "year": "2004",
+   "doi": "10.1248/bpb.27.1004",
+   "url": "",
+   "link": "https://doi.org/10.1248/bpb.27.1004",
+   "link_type": "doi",
+   "citation": "Mishima, S., Saito, K., Maruyama, H., Inoue, M., Yamashita, T., Ishida, T. and Gu, Y (2004) 'Antioxidant and immuno-enhancing effects of Echinacea purpurea', Biological & Pharmaceutical Bulletin, 27(7), pp. 1004-1009. doi:10.1248/bpb.27.1004",
+   "abstract": "Echinacea purpurea administration showed antioxidant and immuno-enhancing effects in mice, suppressing radiation-induced leukopenia and activating macrophages and T lymphocytes, supporting its immunomodulatory use.",
+   "tier": "preclinical",
+   "display": "Antioxidant and immuno-enhancing effects of Echinacea purpurea",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1302",
@@ -58426,6 +59183,33 @@
     "Respiratory support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2021",
+   "key": "perry1997echinacea",
+   "type": "article",
+   "title": "Alkamide levels in Echinacea purpurea: a rapid analytical method revealing differences among roots, rhizomes, stems, leaves and flowers",
+   "authors": "Perry, N.B., van Klink, J.W., Burgess, E.J. and Parmenter, G.A.",
+   "journal": "Planta Medica",
+   "year": "1997",
+   "doi": "10.1055/s-2006-957605",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-957605",
+   "link_type": "doi",
+   "citation": "Perry, N.B., van Klink, J.W., Burgess, E.J. and Parmenter, G.A (1997) 'Alkamide levels in Echinacea purpurea: a rapid analytical method revealing differences among roots, rhizomes, stems, leaves and flowers', Planta Medica, 63(1), pp. 58-62. doi:10.1055/s-2006-957605",
+   "abstract": "A rapid analytical method revealed significant differences in alkamide levels among the roots, rhizomes, stems, leaves and flowers of Echinacea purpurea, important for standardisation of medicinal purple coneflower preparations.",
+   "tier": "preclinical",
+   "display": "Alkamide levels in Echinacea purpurea: a rapid analytical method revealing differences among roots, rhizomes, stems, leaves and flowers",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1837",

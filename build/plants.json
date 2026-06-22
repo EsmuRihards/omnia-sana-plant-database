@@ -8566,7 +8566,9 @@
      "action": "anti-inflammatory",
      "note": "Antimicrobial and anti-inflammatory (attributed to cnicin)",
      "reference_ids": [
-      "REF-0419"
+      "REF-0419",
+      "REF-0773",
+      "REF-1997"
      ],
      "status": "verified"
     },
@@ -8574,7 +8576,9 @@
      "action": "antimicrobial",
      "note": "Antimicrobial and anti-inflammatory (attributed to cnicin)",
      "reference_ids": [
-      "REF-0419"
+      "REF-0419",
+      "REF-0773",
+      "REF-1996"
      ],
      "status": "verified"
     },
@@ -8722,7 +8726,14 @@
    "references": [
     "REF-0773",
     "REF-0774",
-    "REF-0775"
+    "REF-0775",
+    "REF-0419",
+    "REF-1995",
+    "REF-1996",
+    "REF-1997",
+    "REF-1998",
+    "REF-1999",
+    "REF-2000"
    ],
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
@@ -9575,7 +9586,9 @@
      "reference_ids": [
       "REF-0005",
       "REF-0115",
-      "REF-0172"
+      "REF-0172",
+      "REF-2004",
+      "REF-2006"
      ],
      "status": "verified"
     },
@@ -9584,7 +9597,9 @@
      "reference_ids": [
       "REF-0005",
       "REF-0115",
-      "REF-0172"
+      "REF-0172",
+      "REF-2007",
+      "REF-2008"
      ],
      "status": "verified"
     },
@@ -9602,7 +9617,9 @@
      "reference_ids": [
       "REF-0005",
       "REF-0115",
-      "REF-0172"
+      "REF-0172",
+      "REF-2005",
+      "REF-2006"
      ],
      "status": "verified"
     },
@@ -9611,7 +9628,9 @@
      "reference_ids": [
       "REF-0005",
       "REF-0115",
-      "REF-0172"
+      "REF-0172",
+      "REF-2005",
+      "REF-2009"
      ],
      "status": "verified"
     },
@@ -9620,7 +9639,12 @@
      "reference_ids": [
       "REF-0005",
       "REF-0115",
-      "REF-0172"
+      "REF-0172",
+      "REF-0789",
+      "REF-2001",
+      "REF-2002",
+      "REF-2003",
+      "REF-2010"
      ],
      "status": "verified"
     }
@@ -9741,7 +9765,17 @@
    "references": [
     "REF-0788",
     "REF-0789",
-    "REF-0790"
+    "REF-0790",
+    "REF-2001",
+    "REF-2002",
+    "REF-2003",
+    "REF-2004",
+    "REF-2005",
+    "REF-2006",
+    "REF-2007",
+    "REF-2008",
+    "REF-2009",
+    "REF-2010"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -10849,7 +10883,9 @@
      "reference_ids": [
       "REF-0153",
       "REF-0271",
-      "REF-0308"
+      "REF-0308",
+      "REF-2011",
+      "REF-2018"
      ],
      "status": "verified"
     },
@@ -10858,7 +10894,10 @@
      "reference_ids": [
       "REF-0153",
       "REF-0271",
-      "REF-0308"
+      "REF-0308",
+      "REF-2014",
+      "REF-2015",
+      "REF-2017"
      ],
      "status": "verified"
     },
@@ -10867,7 +10906,12 @@
      "reference_ids": [
       "REF-0153",
       "REF-0271",
-      "REF-0308"
+      "REF-0308",
+      "REF-2011",
+      "REF-2012",
+      "REF-2013",
+      "REF-2015",
+      "REF-2016"
      ],
      "status": "verified"
     }
@@ -10968,7 +11012,18 @@
    "references": [
     "REF-0797",
     "REF-0798",
-    "REF-0799"
+    "REF-0799",
+    "REF-2011",
+    "REF-2012",
+    "REF-2013",
+    "REF-2014",
+    "REF-2015",
+    "REF-2016",
+    "REF-2017",
+    "REF-2018",
+    "REF-2019",
+    "REF-2020",
+    "REF-2021"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

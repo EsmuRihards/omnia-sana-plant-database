@@ -15,18 +15,28 @@ actions:
   - REF-0153
   - REF-0271
   - REF-0308
+  - REF-2011
+  - REF-2018
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0153
   - REF-0271
   - REF-0308
+  - REF-2014
+  - REF-2015
+  - REF-2017
   status: verified
 - action: immunomodulator
   reference_ids:
   - REF-0153
   - REF-0271
   - REF-0308
+  - REF-2011
+  - REF-2012
+  - REF-2013
+  - REF-2015
+  - REF-2016
   status: verified
 indications:
 - condition: arthritis
@@ -103,6 +113,17 @@ references:
 - REF-0797
 - REF-0798
 - REF-0799
+- REF-2011
+- REF-2012
+- REF-2013
+- REF-2014
+- REF-2015
+- REF-2016
+- REF-2017
+- REF-2018
+- REF-2019
+- REF-2020
+- REF-2021
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -111,4 +132,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0797, REF-0798, REF-0799.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0797, REF-0798, REF-0799.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2011,
+  REF-2012, REF-2013, REF-2014, REF-2015, REF-2016, REF-2017, REF-2018, REF-2019, REF-2020, REF-2021)
+  — woven into relevant actions/indications and the plant-level references bucket.'

@@ -34,28 +34,19 @@ actions:
   note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
     and exerts venotonic effects on veins
   reference_ids:
-  - REF-0471
   - REF-0590
-  - REF-0675
-  - REF-0676
   status: verified
 - action: anti-oedematous
   note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
     and exerts venotonic effects on veins
   reference_ids:
-  - REF-0471
   - REF-0590
-  - REF-0675
-  - REF-0676
   status: verified
 - action: venotonic
   note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
     and exerts venotonic effects on veins; Relief of haemorrhoid symptoms (venotonic)
   reference_ids:
-  - REF-0471
   - REF-0590
-  - REF-0675
-  - REF-0676
   status: needs-review
 indications:
 - condition: arthritis
@@ -69,7 +60,7 @@ indications:
 - condition: hemorrhoids
   note: Relief of haemorrhoid symptoms (venotonic)
   reference_ids:
-  - REF-0471
+  - REF-0590
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -84,26 +75,19 @@ indications:
     varicose veins
   reference_ids:
   - REF-0470
-  - REF-0471
-  - REF-0675
   - REF-0678
   - REF-0679
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0471
   - REF-0590
-  - REF-0675
-  - REF-0676
   status: needs-review
 - condition: swelling
   note: Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports
     varicose veins
   reference_ids:
   - REF-0470
-  - REF-0471
-  - REF-0675
   - REF-0678
   - REF-0679
   status: verified
@@ -112,8 +96,6 @@ indications:
     varicose veins
   reference_ids:
   - REF-0470
-  - REF-0471
-  - REF-0675
   - REF-0678
   - REF-0679
   status: verified

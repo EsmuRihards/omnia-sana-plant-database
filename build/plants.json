@@ -992,10 +992,7 @@
      "action": "anti-inflammatory",
      "note": "Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue and exerts venotonic effects on veins",
      "reference_ids": [
-      "REF-0471",
-      "REF-0590",
-      "REF-0675",
-      "REF-0676"
+      "REF-0590"
      ],
      "status": "verified"
     },
@@ -1003,10 +1000,7 @@
      "action": "anti-oedematous",
      "note": "Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue and exerts venotonic effects on veins",
      "reference_ids": [
-      "REF-0471",
-      "REF-0590",
-      "REF-0675",
-      "REF-0676"
+      "REF-0590"
      ],
      "status": "verified"
     },
@@ -1014,10 +1008,7 @@
      "action": "venotonic",
      "note": "Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue and exerts venotonic effects on veins; Relief of haemorrhoid symptoms (venotonic)",
      "reference_ids": [
-      "REF-0471",
-      "REF-0590",
-      "REF-0675",
-      "REF-0676"
+      "REF-0590"
      ],
      "status": "needs-review"
     }
@@ -1038,7 +1029,7 @@
      "condition": "hemorrhoids",
      "note": "Relief of haemorrhoid symptoms (venotonic)",
      "reference_ids": [
-      "REF-0471"
+      "REF-0590"
      ],
      "status": "needs-review"
     },
@@ -1058,8 +1049,6 @@
      "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
      "reference_ids": [
       "REF-0470",
-      "REF-0471",
-      "REF-0675",
       "REF-0678",
       "REF-0679"
      ],
@@ -1069,10 +1058,7 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0471",
-      "REF-0590",
-      "REF-0675",
-      "REF-0676"
+      "REF-0590"
      ],
      "status": "needs-review"
     },
@@ -1081,8 +1067,6 @@
      "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
      "reference_ids": [
       "REF-0470",
-      "REF-0471",
-      "REF-0675",
       "REF-0678",
       "REF-0679"
      ],
@@ -1093,8 +1077,6 @@
      "note": "Chronic venous insufficiency - reduces leg pain, swelling (oedema), heaviness and itching; supports varicose veins",
      "reference_ids": [
       "REF-0470",
-      "REF-0471",
-      "REF-0675",
       "REF-0678",
       "REF-0679"
      ],
@@ -4255,7 +4237,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4264,7 +4245,6 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4273,7 +4253,6 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4282,7 +4261,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4292,7 +4270,6 @@
      "action": "antispasmodic",
      "note": "Antispasmodic (cramp easing)",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4301,7 +4278,6 @@
     {
      "action": "digestive",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4313,7 +4289,6 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4323,7 +4298,6 @@
      "condition": "bloating",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4333,7 +4307,6 @@
      "condition": "blood-sugar",
      "note": "inferred from antidiabetic action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4343,7 +4316,6 @@
      "condition": "indigestion",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4353,7 +4325,6 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4363,7 +4334,6 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4373,7 +4343,6 @@
      "condition": "menstrual-cramps",
      "note": "inferred from antispasmodic action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4383,7 +4352,6 @@
      "condition": "metabolic-support",
      "note": "inferred from antidiabetic action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4393,7 +4361,6 @@
      "condition": "muscle-spasm",
      "note": "inferred from antispasmodic action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4403,7 +4370,6 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4413,7 +4379,6 @@
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4425,7 +4390,6 @@
      "note": "CAUTION: Contains thujone, which is neurotoxic in significant amounts. Internal use should be limited in duration and dose — short-term use only (under 4 weeks). Contraindicated in pregnancy (powerful uterine stimulant). Avoid in epilepsy, renal disease, and in children. The small amounts present in properly prepared bitter tinctures and vermouth are generally considered safe. The thujone content of absinthe was historically exaggerated.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -4435,7 +4399,6 @@
      "note": "Duke (2002) rates wormwood as + (use with caution) and provides clinical evidence (score 2) for use as an aperitif and bitter digestive tonic, consistent with Commission E approval for dyspeptic complaints and loss of appetite. The plant contains absinthin and artabsin (bitter sesquiterpene lactones) responsible for digestive stimulation, and also thujone — a neurotoxic ketone that is the active agent responsible for 'absinthism' (historical neurological syndrome linked to absinthe consumption). Duke strongly cautions that thujone content limits safe long-term use, and wormwood should not be taken internally for more than 4 weeks at a time. Strictly contraindicated in pregnancy (abortifacient, neurotoxic) and epilepsy (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ],
@@ -6254,54 +6217,42 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "verified"
     },
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "verified"
     },
     {
      "action": "antidiabetic",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "verified"
     },
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "verified"
     },
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "verified"
     }
@@ -6311,9 +6262,7 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "needs-review"
     },
@@ -6322,8 +6271,7 @@
      "note": "inferred from antidiabetic action",
      "reference_ids": [
       "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0061"
      ],
      "status": "needs-review"
     },
@@ -6331,8 +6279,7 @@
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0061"
      ],
      "status": "verified"
     },
@@ -6341,7 +6288,6 @@
      "note": "inferred from neuroprotective action",
      "reference_ids": [
       "REF-0045",
-      "REF-0061",
       "REF-0184"
      ],
      "status": "needs-review"
@@ -6350,9 +6296,7 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "needs-review"
     },
@@ -6360,9 +6304,7 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "needs-review"
     },
@@ -6371,7 +6313,6 @@
      "note": "inferred from neuroprotective action",
      "reference_ids": [
       "REF-0045",
-      "REF-0061",
       "REF-0184"
      ],
      "status": "needs-review"
@@ -6380,8 +6321,7 @@
      "condition": "metabolic-support",
      "reference_ids": [
       "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0061"
      ],
      "status": "verified"
     },
@@ -6389,9 +6329,7 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "needs-review"
     },
@@ -6399,9 +6337,7 @@
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ],
      "status": "needs-review"
     }
@@ -8758,7 +8694,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -8767,7 +8702,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -8777,7 +8711,6 @@
      "action": "ergogenic",
      "note": "Physical performance / strength improvement",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -8786,7 +8719,6 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -8798,7 +8730,6 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -8808,7 +8739,6 @@
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -8827,7 +8757,6 @@
     {
      "condition": "immune-support",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -8837,7 +8766,6 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],
@@ -8866,7 +8794,6 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0111",
       "REF-0218",
       "REF-0318"
      ],

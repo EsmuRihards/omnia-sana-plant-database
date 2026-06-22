@@ -14,107 +14,80 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: verified
 - action: anticancer
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: verified
 - action: antidiabetic
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: verified
 - action: neuroprotective
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: needs-review
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0045
   - REF-0061
-  - REF-0184
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
   - REF-0045
   - REF-0061
-  - REF-0184
   status: verified
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0045
-  - REF-0061
   - REF-0184
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: needs-review
 - condition: memory
   note: inferred from neuroprotective action
   reference_ids:
   - REF-0045
-  - REF-0061
   - REF-0184
   status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0045
   - REF-0061
-  - REF-0184
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
   reference_ids:
   - REF-0045
-  - REF-0061
-  - REF-0184
   status: needs-review
 contraindications:
 - note: Generally safe in moderate consumption. High caffeine intake may cause insomnia, anxiety, palpitations,

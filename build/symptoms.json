@@ -6658,56 +6658,8 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0111",
-      "REF-0218",
-      "REF-0318"
-     ]
-    },
-    {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0111",
-      "REF-0218",
-      "REF-0318"
-     ]
-    },
-    {
      "condition": "fatigue",
      "label": "Fatigue / low energy",
-     "evidence": 6,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0111",
-      "REF-0218",
-      "REF-0318"
-     ]
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 6,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0111",
-      "REF-0218",
-      "REF-0318"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
      "evidence": 6,
      "status": "needs-review",
      "inferred": true,
@@ -6742,13 +6694,56 @@
      ]
     },
     {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 6,
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0111",
+      "REF-0218",
+      "REF-0318"
+     ]
+    },
+    {
+     "condition": "cold",
+     "label": "Cold & flu",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0218",
+      "REF-0318"
+     ]
+    },
+    {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0218",
+      "REF-0318"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0218",
+      "REF-0318"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
       "REF-0218",
       "REF-0318"
      ]
@@ -11618,8 +11613,6 @@
      "inferred": false,
      "references": [
       "REF-0470",
-      "REF-0471",
-      "REF-0675",
       "REF-0678",
       "REF-0679"
      ]
@@ -11632,8 +11625,6 @@
      "inferred": false,
      "references": [
       "REF-0470",
-      "REF-0471",
-      "REF-0675",
       "REF-0678",
       "REF-0679"
      ]
@@ -11646,8 +11637,6 @@
      "inferred": false,
      "references": [
       "REF-0470",
-      "REF-0471",
-      "REF-0675",
       "REF-0678",
       "REF-0679"
      ]
@@ -11672,7 +11661,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0471"
+      "REF-0590"
      ]
     },
     {
@@ -11695,10 +11684,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0471",
-      "REF-0590",
-      "REF-0675",
-      "REF-0676"
+      "REF-0590"
      ]
     }
    ]
@@ -18238,9 +18224,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ]
     },
     {
@@ -18251,8 +18235,7 @@
      "inferred": true,
      "references": [
       "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0061"
      ]
     },
     {
@@ -18263,8 +18246,7 @@
      "inferred": false,
      "references": [
       "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0061"
      ]
     },
     {
@@ -18275,7 +18257,6 @@
      "inferred": true,
      "references": [
       "REF-0045",
-      "REF-0061",
       "REF-0184"
      ]
     },
@@ -18286,9 +18267,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ]
     },
     {
@@ -18298,9 +18277,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ]
     },
     {
@@ -18311,7 +18288,6 @@
      "inferred": true,
      "references": [
       "REF-0045",
-      "REF-0061",
       "REF-0184"
      ]
     },
@@ -18323,8 +18299,7 @@
      "inferred": false,
      "references": [
       "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0061"
      ]
     },
     {
@@ -18334,9 +18309,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ]
     },
     {
@@ -18346,9 +18319,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0045",
-      "REF-0061",
-      "REF-0184"
+      "REF-0045"
      ]
     }
    ]
@@ -20014,7 +19985,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20026,7 +19996,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20038,7 +20007,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20050,7 +20018,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20062,7 +20029,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20074,7 +20040,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20086,7 +20051,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20098,7 +20062,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20110,7 +20073,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20122,7 +20084,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]
@@ -20134,7 +20095,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0020",
       "REF-0098",
       "REF-0112"
      ]

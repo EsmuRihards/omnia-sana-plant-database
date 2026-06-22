@@ -3645,7 +3645,9 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
-      "REF-0476"
+      "REF-0476",
+      "REF-1924",
+      "REF-1925"
      ],
      "status": "verified"
     },
@@ -3653,7 +3655,10 @@
      "action": "antioxidant",
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
-      "REF-0476"
+      "REF-0476",
+      "REF-1925",
+      "REF-1926",
+      "REF-1930"
      ],
      "status": "verified"
     },
@@ -3781,7 +3786,18 @@
    "references": [
     "REF-0723",
     "REF-0722",
-    "REF-0724"
+    "REF-0724",
+    "REF-1924",
+    "REF-1925",
+    "REF-1926",
+    "REF-1927",
+    "REF-1928",
+    "REF-1929",
+    "REF-1930",
+    "REF-1931",
+    "REF-1932",
+    "REF-1933",
+    "REF-1934"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -4456,7 +4472,11 @@
      "reference_ids": [
       "REF-0023",
       "REF-0098",
-      "REF-0149"
+      "REF-0149",
+      "REF-0733",
+      "REF-1935",
+      "REF-1936",
+      "REF-0731"
      ],
      "status": "verified"
     },
@@ -4465,7 +4485,10 @@
      "reference_ids": [
       "REF-0023",
       "REF-0098",
-      "REF-0149"
+      "REF-0149",
+      "REF-0733",
+      "REF-1937",
+      "REF-1938"
      ],
      "status": "verified"
     },
@@ -4493,7 +4516,8 @@
      "reference_ids": [
       "REF-0023",
       "REF-0098",
-      "REF-0149"
+      "REF-0149",
+      "REF-1935"
      ],
      "status": "verified"
     },
@@ -4633,7 +4657,16 @@
    "references": [
     "REF-0731",
     "REF-0732",
-    "REF-0733"
+    "REF-0733",
+    "REF-1935",
+    "REF-1936",
+    "REF-1937",
+    "REF-1938",
+    "REF-1939",
+    "REF-1940",
+    "REF-1941",
+    "REF-1942",
+    "REF-1943"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -31121,7 +31154,8 @@
       "REF-0017",
       "REF-0031",
       "REF-0251",
-      "REF-0275"
+      "REF-0275",
+      "REF-1914"
      ],
      "status": "verified"
     }
@@ -31147,7 +31181,9 @@
       "REF-0017",
       "REF-0031",
       "REF-0251",
-      "REF-0275"
+      "REF-0275",
+      "REF-1914",
+      "REF-1918"
      ],
      "status": "needs-review"
     },
@@ -31169,7 +31205,8 @@
       "REF-0017",
       "REF-0031",
       "REF-0251",
-      "REF-0275"
+      "REF-0275",
+      "REF-1922"
      ],
      "status": "verified"
     },
@@ -31211,9 +31248,22 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-0017",
+    "REF-1914",
+    "REF-1915",
+    "REF-1916",
+    "REF-1917",
+    "REF-1918",
+    "REF-1919",
+    "REF-1920",
+    "REF-1921",
+    "REF-1922",
+    "REF-1923"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "trametes-versicolor",

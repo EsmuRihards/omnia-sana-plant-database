@@ -988,6 +988,37 @@
    "wp_post_id": 166,
    "indications": [
     {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0015",
+      "REF-0017",
+      "REF-0031",
+      "REF-0251",
+      "REF-0275",
+      "REF-1914",
+      "REF-1918"
+     ]
+    },
+    {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0015",
+      "REF-0017",
+      "REF-0031",
+      "REF-0251",
+      "REF-0275",
+      "REF-1922"
+     ]
+    },
+    {
      "condition": "bloating",
      "label": "Bloating",
      "evidence": 1,
@@ -1002,36 +1033,8 @@
      ]
     },
     {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0015",
-      "REF-0017",
-      "REF-0031",
-      "REF-0251",
-      "REF-0275"
-     ]
-    },
-    {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0015",
-      "REF-0017",
-      "REF-0031",
-      "REF-0251",
-      "REF-0275"
-     ]
-    },
-    {
-     "condition": "oral-health",
-     "label": "Oral & throat health",
      "evidence": 1,
      "status": "verified",
      "inferred": false,

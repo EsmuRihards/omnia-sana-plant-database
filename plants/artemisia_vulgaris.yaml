@@ -15,12 +15,19 @@ actions:
   - REF-0023
   - REF-0098
   - REF-0149
+  - REF-0733
+  - REF-1935
+  - REF-1936
+  - REF-0731
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0023
   - REF-0098
   - REF-0149
+  - REF-0733
+  - REF-1937
+  - REF-1938
   status: verified
 - action: antioxidant
   reference_ids:
@@ -40,6 +47,7 @@ actions:
   - REF-0023
   - REF-0098
   - REF-0149
+  - REF-1935
   status: verified
 - action: sedative
   reference_ids:
@@ -143,6 +151,15 @@ references:
 - REF-0731
 - REF-0732
 - REF-0733
+- REF-1935
+- REF-1936
+- REF-1937
+- REF-1938
+- REF-1939
+- REF-1940
+- REF-1941
+- REF-1942
+- REF-1943
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'
@@ -151,4 +168,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   set of references cited for this plant is attached to each action rather than split per action. constituents
   not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0731, REF-0732, REF-0733.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0731, REF-0732, REF-0733.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0733,
+  REF-1935, REF-1936, REF-0731, REF-1937, REF-1938, REF-1939, REF-1940, REF-1941, REF-1942, REF-1943)
+  — woven into relevant actions/indications and the plant-level references bucket.'

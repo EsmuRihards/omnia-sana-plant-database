@@ -12,14 +12,12 @@ parts_used:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0114
   - REF-0124
   - REF-0253
   - REF-0940
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0114
   - REF-0124
   - REF-0253
   - REF-0941
@@ -29,7 +27,6 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0114
   - REF-0124
   - REF-0253
   - REF-0940

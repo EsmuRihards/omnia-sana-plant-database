@@ -28,9 +28,7 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0667
   - REF-0669
   status: verified
@@ -45,30 +43,22 @@ actions:
   status: verified
 - action: antifungal
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0668
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0668
   status: verified
 - action: antioxidant
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   - REF-0667
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0006
   - REF-0101
-  - REF-0136
   status: verified
 indications:
 - condition: arthritis

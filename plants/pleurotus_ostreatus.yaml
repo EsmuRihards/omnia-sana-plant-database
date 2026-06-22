@@ -10,15 +10,10 @@ parts_used:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0102
-  - REF-0258
-  - REF-0300
   - REF-1500
   status: verified
 - action: anticancer
   reference_ids:
-  - REF-0102
-  - REF-0258
   - REF-0300
   - REF-1498
   - REF-1499
@@ -27,20 +22,14 @@ actions:
 - action: antidiabetic
   reference_ids:
   - REF-0102
-  - REF-0258
-  - REF-0300
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0102
-  - REF-0258
-  - REF-0300
   - REF-1500
   status: verified
 - action: immunomodulator
   reference_ids:
-  - REF-0102
-  - REF-0258
   - REF-0300
   - REF-1496
   - REF-1497
@@ -51,50 +40,42 @@ indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0258
   - REF-0300
   status: needs-review
 - condition: blood-sugar
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0102
-  - REF-0258
   - REF-0300
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
   - REF-0102
-  - REF-0258
   - REF-0300
   status: verified
 - condition: cold
   note: inferred from immunomodulator action
   reference_ids:
-  - REF-0258
   - REF-0300
   status: needs-review
 - condition: immune-support
   reference_ids:
-  - REF-0258
   - REF-0300
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0258
   - REF-0300
   status: needs-review
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
   - REF-0102
-  - REF-0258
   - REF-0300
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0258
   - REF-0300
   status: needs-review
 contraindications:
@@ -103,7 +84,6 @@ contraindications:
   severity: caution
   reference_ids:
   - REF-0102
-  - REF-0258
   - REF-0300
   status: verified
 - note: Duke (2002) does not include a dedicated entry for Oyster mushroom (Pleurotus ostreatus) in the
@@ -111,7 +91,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0102
-  - REF-0258
   - REF-0300
   status: verified
 references:

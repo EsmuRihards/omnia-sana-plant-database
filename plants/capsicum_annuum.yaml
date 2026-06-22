@@ -16,40 +16,25 @@ actions:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0161
-  - REF-0169
   - REF-0214
-  - REF-0287
   status: verified
 - action: anti-inflammatory
   reference_ids:
   - REF-0010
   - REF-0021
   - REF-0057
-  - REF-0161
-  - REF-0169
   - REF-0214
-  - REF-0287
   status: verified
 - action: antimicrobial
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
   - REF-0169
   - REF-0214
-  - REF-0287
   status: verified
 - action: digestive
   reference_ids:
-  - REF-0010
   - REF-0021
-  - REF-0057
-  - REF-0161
-  - REF-0169
   - REF-0214
-  - REF-0287
   status: verified
 indications:
 - condition: arthritis
@@ -60,7 +45,6 @@ indications:
   - REF-0057
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 - condition: back-pain
   note: inferred from analgesic action
@@ -70,7 +54,6 @@ indications:
   - REF-0057
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 - condition: bloating
   note: inferred from digestive action
@@ -78,7 +61,6 @@ indications:
   - REF-0021
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
@@ -86,7 +68,6 @@ indications:
   - REF-0161
   - REF-0169
   - REF-0214
-  - REF-0287
   status: verified
 - condition: headache
   note: inferred from analgesic action
@@ -94,7 +75,6 @@ indications:
   - REF-0021
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 - condition: indigestion
   note: inferred from digestive action
@@ -102,7 +82,6 @@ indications:
   - REF-0021
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
@@ -110,7 +89,6 @@ indications:
   - REF-0021
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -118,7 +96,6 @@ indications:
   - REF-0021
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 - condition: pain
   reference_ids:
@@ -127,7 +104,6 @@ indications:
   - REF-0057
   - REF-0169
   - REF-0214
-  - REF-0287
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -135,7 +111,6 @@ indications:
   - REF-0021
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 - condition: wounds
   note: inferred from antimicrobial action
@@ -143,7 +118,6 @@ indications:
   - REF-0021
   - REF-0169
   - REF-0214
-  - REF-0287
   status: needs-review
 contraindications:
 - note: Capsaicin causes intense burning sensation; avoid contact with eyes and mucous membranes. High
@@ -161,7 +135,6 @@ contraindications:
   - REF-0161
   - REF-0169
   - REF-0214
-  - REF-0287
   status: verified
 - note: Duke (2002) rates cayenne/chili pepper (Capsicum annuum) highly for its clinically documented
     analgesic, counterirritant, and rubefacient activities. Commission E approves topical capsaicin preparations
@@ -178,7 +151,6 @@ contraindications:
   - REF-0161
   - REF-0169
   - REF-0214
-  - REF-0287
   status: verified
 provenance: book
 status: verified

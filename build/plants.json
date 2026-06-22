@@ -1455,7 +1455,10 @@
       "REF-0113",
       "REF-0193",
       "REF-0208",
-      "REF-0685"
+      "REF-0685",
+      "REF-2227",
+      "REF-2228",
+      "REF-2229"
      ],
      "status": "verified"
     },
@@ -1467,7 +1470,10 @@
       "REF-0208",
       "REF-0685",
       "REF-0686",
-      "REF-0687"
+      "REF-0687",
+      "REF-2226",
+      "REF-2230",
+      "REF-2233"
      ],
      "status": "verified"
     },
@@ -1569,11 +1575,22 @@
    ],
    "references": [
     "REF-0688",
-    "REF-0689"
+    "REF-0689",
+    "REF-2226",
+    "REF-2227",
+    "REF-0686",
+    "REF-0685",
+    "REF-2228",
+    "REF-0687",
+    "REF-2229",
+    "REF-2230",
+    "REF-2231",
+    "REF-2232",
+    "REF-2233"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-15"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "allium-sativum",
@@ -1901,7 +1918,12 @@
       "REF-0257",
       "REF-0261",
       "REF-0284",
-      "REF-0290"
+      "REF-0290",
+      "REF-2234",
+      "REF-2235",
+      "REF-2240",
+      "REF-2243",
+      "REF-2244"
      ],
      "status": "verified"
     },
@@ -1915,7 +1937,11 @@
       "REF-0257",
       "REF-0261",
       "REF-0284",
-      "REF-0290"
+      "REF-0290",
+      "REF-2234",
+      "REF-2236",
+      "REF-2242",
+      "REF-2244"
      ],
      "status": "verified"
     },
@@ -1929,7 +1955,8 @@
       "REF-0257",
       "REF-0261",
       "REF-0284",
-      "REF-0290"
+      "REF-0290",
+      "REF-2237"
      ],
      "status": "verified"
     },
@@ -1943,7 +1970,11 @@
       "REF-0257",
       "REF-0261",
       "REF-0284",
-      "REF-0290"
+      "REF-0290",
+      "REF-2237",
+      "REF-2238",
+      "REF-2241",
+      "REF-2243"
      ],
      "status": "verified"
     }
@@ -2131,9 +2162,22 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-2234",
+    "REF-2235",
+    "REF-2236",
+    "REF-2237",
+    "REF-2238",
+    "REF-2239",
+    "REF-2240",
+    "REF-2241",
+    "REF-2242",
+    "REF-2243",
+    "REF-2244"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "aloysia-citrodora",
@@ -18035,7 +18079,12 @@
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0230"
+      "REF-0230",
+      "REF-2217",
+      "REF-2219",
+      "REF-2220",
+      "REF-2223",
+      "REF-2224"
      ],
      "status": "verified"
     },
@@ -18046,7 +18095,10 @@
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0230"
+      "REF-0230",
+      "REF-2218",
+      "REF-2220",
+      "REF-2222"
      ],
      "status": "verified"
     },
@@ -18057,7 +18109,9 @@
       "REF-0084",
       "REF-0105",
       "REF-0152",
-      "REF-0230"
+      "REF-0230",
+      "REF-2217",
+      "REF-2219"
      ],
      "status": "verified"
     }
@@ -18206,9 +18260,21 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-2216",
+    "REF-2217",
+    "REF-2218",
+    "REF-2219",
+    "REF-2220",
+    "REF-2221",
+    "REF-2222",
+    "REF-2223",
+    "REF-2224",
+    "REF-2225"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "mahonia-aquifolium",

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2215,
+ "count": 2244,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2182,6 +2182,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2236",
+   "key": "catalano2024aloe",
+   "type": "article",
+   "title": "Aloe vera - an extensive review focused on recent studies",
+   "authors": "Catalano, A., Ceramella, J., Iacopetta, D., Marra, M., Conforti, F., Lupi, F.R., Gabriele, D., Borges, F. and Sinicropi, M.S.",
+   "journal": "Foods",
+   "year": "2024",
+   "doi": "10.3390/foods13132155",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods13132155",
+   "link_type": "doi",
+   "citation": "Catalano, A., Ceramella, J., Iacopetta, D., Marra, M., Conforti, F., Lupi, F.R., Gabriele, D., Borges, F. and Sinicropi, M.S (2024) 'Aloe vera - an extensive review focused on recent studies', Foods, 13(13), pp. 2155. doi:10.3390/foods13132155",
+   "abstract": "This extensive review of recent studies presents the antiviral, antimicrobial, antitumor and antifungal biological activities of Aloe vera and the components responsible, supporting the antimicrobial use of aloe.",
+   "tier": "review",
+   "display": "Aloe vera - an extensive review focused on recent studies",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1632",
    "key": "wang2024cornsilk",
    "type": "article",
@@ -3040,6 +3072,38 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2240",
+   "key": "boyapati2024aloe",
+   "type": "article",
+   "title": "Comparative evaluation of the efficacy of probiotic, Aloe vera, povidine-iodine, and chlorhexidine mouthwashes in the treatment of gingival inflammation: a randomized controlled trial",
+   "authors": "Boyapati, R., Peeta, J., Dhulipalla, R., Kolaparthy, L., Adurty, C. and Cheruvu, R.N.S.",
+   "journal": "Dental and Medical Problems",
+   "year": "2024",
+   "doi": "10.17219/dmp/156425",
+   "url": "",
+   "link": "https://doi.org/10.17219/dmp/156425",
+   "link_type": "doi",
+   "citation": "Boyapati, R., Peeta, J., Dhulipalla, R., Kolaparthy, L., Adurty, C. and Cheruvu, R.N.S (2024) 'Comparative evaluation of the efficacy of probiotic, Aloe vera, povidine-iodine, and chlorhexidine mouthwashes in the treatment of gingival inflammation: a randomized controlled trial', Dental and Medical Problems, 61(2), pp. 181-190. doi:10.17219/dmp/156425",
+   "abstract": "In a randomized controlled trial, an Aloe vera mouthwash reduced plaque and gingival bleeding in gingivitis patients, supporting the anti-inflammatory use of aloe.",
+   "tier": "rct",
+   "display": "Comparative evaluation of the efficacy of probiotic, Aloe vera, povidine-iodine, and chlorhexidine mouthwashes in the treatment of gingival inflammation: a randomized controlled trial",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1928",
@@ -6087,6 +6151,34 @@
    ]
   },
   {
+   "ref_id": "REF-2221",
+   "key": "musazadeh2024linum",
+   "type": "article",
+   "title": "The effects of flaxseed (Linum usitatissimum) supplementation on anthropometric indices: an updated systematic review and meta-analysis of randomized clinical trials",
+   "authors": "Musazadeh, V., Abolghasemian, M., Kavyani, Z., Moridpour, A.H., Nazari, A. and Faghfouri, A.H.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2024",
+   "doi": "10.1016/j.ctim.2024.103066",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2024.103066",
+   "link_type": "doi",
+   "citation": "Musazadeh, V., Abolghasemian, M., Kavyani, Z., Moridpour, A.H., Nazari, A. and Faghfouri, A.H (2024) 'The effects of flaxseed (Linum usitatissimum) supplementation on anthropometric indices: an updated systematic review and meta-analysis of randomized clinical trials', Complementary Therapies in Medicine, 84, pp. 103066. doi:10.1016/j.ctim.2024.103066",
+   "abstract": "This meta-analysis of 64 randomized trials found that flaxseed (Linum usitatissimum) supplementation significantly reduced body weight, BMI and waist circumference, documenting a metabolic benefit of flax.",
+   "tier": "review",
+   "display": "The effects of flaxseed (Linum usitatissimum) supplementation on anthropometric indices: an updated systematic review and meta-analysis of randomized clinical trials",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0845",
    "key": "atazhanova2024hyssopus",
    "type": "article",
@@ -6357,6 +6449,35 @@
    ]
   },
   {
+   "ref_id": "REF-2227",
+   "key": "jakimiuk2023alchemilla",
+   "type": "article",
+   "title": "A review of the traditional uses, phytochemistry, pharmacology, and clinical evidence for the use of the genus Alchemilla (Rosaceae)",
+   "authors": "Jakimiuk, K. and Tomczyk, M.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2023",
+   "doi": "10.1016/j.jep.2023.117439",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2023.117439",
+   "link_type": "doi",
+   "citation": "Jakimiuk, K. and Tomczyk, M (2023) 'A review of the traditional uses, phytochemistry, pharmacology, and clinical evidence for the use of the genus Alchemilla (Rosaceae)', Journal of Ethnopharmacology, 320, pp. 117439. doi:10.1016/j.jep.2023.117439",
+   "abstract": "This review compiles the traditional uses, phytochemistry, pharmacology and clinical evidence for the genus Alchemilla, including its anti-inflammatory, antioxidant and wound-healing activities, supporting the use of lady's mantle.",
+   "tier": "review",
+   "display": "A review of the traditional uses, phytochemistry, pharmacology, and clinical evidence for the use of the genus Alchemilla (Rosaceae)",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1480",
    "key": "apostolova2023butterbur",
    "type": "article",
@@ -6544,6 +6665,38 @@
     "Anti-inflammatory",
     "Anticancer (preclinical)",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2235",
+   "key": "kaur2023aloe",
+   "type": "article",
+   "title": "Aloe barbadensis Miller (Aloe vera)",
+   "authors": "Kaur, S. and Bains, K.",
+   "journal": "International Journal for Vitamin and Nutrition Research",
+   "year": "2023",
+   "doi": "10.1024/0300-9831/a000797",
+   "url": "",
+   "link": "https://doi.org/10.1024/0300-9831/a000797",
+   "link_type": "doi",
+   "citation": "Kaur, S. and Bains, K (2023) 'Aloe barbadensis Miller (Aloe vera)', International Journal for Vitamin and Nutrition Research, 94(3-4), pp. 308-321. doi:10.1024/0300-9831/a000797",
+   "abstract": "This narrative review provides a comprehensive overview of Aloe vera's bioactive compounds and pharmacological activities, including antioxidant, immunomodulatory, antimicrobial and anti-inflammatory effects.",
+   "tier": "review",
+   "display": "Aloe barbadensis Miller (Aloe vera)",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -9674,6 +9827,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2225",
+   "key": "sirotkin2023linum",
+   "type": "article",
+   "title": "Influence of flaxseed (Linum usitatissimum) on female reproduction",
+   "authors": "Sirotkin, A.V.",
+   "journal": "Planta Medica",
+   "year": "2023",
+   "doi": "10.1055/a-2013-2966",
+   "url": "",
+   "link": "https://doi.org/10.1055/a-2013-2966",
+   "link_type": "doi",
+   "citation": "Sirotkin, A.V (2023) 'Influence of flaxseed (Linum usitatissimum) on female reproduction', Planta Medica, 89(6), pp. 608-615. doi:10.1055/a-2013-2966",
+   "abstract": "This review describes the chemical composition of flaxseed (Linum usitatissimum) and the action of its lignans and alpha-linolenic acid on female reproductive processes, documenting a hormonal pharmacology of flax.",
+   "tier": "review",
+   "display": "Influence of flaxseed (Linum usitatissimum) on female reproduction",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2203",
    "key": "zhang2023inonotus",
    "type": "article",
@@ -11737,6 +11918,36 @@
     "Tussilago farfara"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2222",
+   "key": "mueed2022linum",
+   "type": "article",
+   "title": "A comprehensive review of flaxseed (Linum usitatissimum L.): health-affecting compounds, mechanism of toxicity, detoxification, anticancer and potential risk",
+   "authors": "Mueed, A., Shibli, S., Jahangir, M., Jabbar, S. and Deng, Z.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2022",
+   "doi": "10.1080/10408398.2022.2092718",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2022.2092718",
+   "link_type": "doi",
+   "citation": "Mueed, A., Shibli, S., Jahangir, M., Jabbar, S. and Deng, Z (2022) 'A comprehensive review of flaxseed (Linum usitatissimum L.): health-affecting compounds, mechanism of toxicity, detoxification, anticancer and potential risk', Critical Reviews in Food Science and Nutrition, 63(32), pp. 11081-11104. doi:10.1080/10408398.2022.2092718",
+   "abstract": "This review describes the health-affecting compounds, antioxidant and anticancer benefits, toxicity and detoxification of flaxseed (Linum usitatissimum), characterising the bioactive and antioxidant chemistry of flax.",
+   "tier": "review",
+   "display": "A comprehensive review of flaxseed (Linum usitatissimum L.): health-affecting compounds, mechanism of toxicity, detoxification, anticancer and potential risk",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -14859,6 +15070,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2230",
+   "key": "szewczyk2022alchemilla",
+   "type": "article",
+   "title": "LC-ESI-MS/MS identification of biologically active phenolics in different extracts of Alchemilla acutiloba Opiz",
+   "authors": "Dos Santos Szewczyk, K., Pietrzak, W., Klimek, K., Grzywa-Celinska, A., Celinski, R. and Gogacz, M.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27030621",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27030621",
+   "link_type": "doi",
+   "citation": "Dos Santos Szewczyk, K., Pietrzak, W., Klimek, K., Grzywa-Celinska, A., Celinski, R. and Gogacz, M (2022) 'LC-ESI-MS/MS identification of biologically active phenolics in different extracts of Alchemilla acutiloba Opiz', Molecules, 27(3), pp. 621. doi:10.3390/molecules27030621",
+   "abstract": "This study used LC-ESI-MS/MS to identify biologically active phenolic compounds in different extracts of Alchemilla, characterising the antioxidant constituents of lady's mantle.",
+   "tier": "preclinical",
+   "display": "LC-ESI-MS/MS identification of biologically active phenolics in different extracts of Alchemilla acutiloba Opiz",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1652",
    "key": "savic2022gentiana",
    "type": "article",
@@ -15439,6 +15679,35 @@
     "Euphrasia officinalis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2226",
+   "key": "kanak2022alchemilla",
+   "type": "article",
+   "title": "Phenolic composition and antioxidant activity of Alchemilla species",
+   "authors": "Kanak, S., Krzeminska, B., Celinski, R., Bakalczuk, M. and Dos Santos Szewczyk, K.",
+   "journal": "Plants",
+   "year": "2022",
+   "doi": "10.3390/plants11202709",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants11202709",
+   "link_type": "doi",
+   "citation": "Kanak, S., Krzeminska, B., Celinski, R., Bakalczuk, M. and Dos Santos Szewczyk, K (2022) 'Phenolic composition and antioxidant activity of Alchemilla species', Plants, 11(20), pp. 2709. doi:10.3390/plants11202709",
+   "abstract": "This review focuses on the phenolic compound composition (flavonoids, tannins, phenolic acids) and antioxidant activity of Alchemilla species, supporting the antioxidant use of lady's mantle.",
+   "tier": "review",
+   "display": "Phenolic composition and antioxidant activity of Alchemilla species",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -17299,6 +17568,37 @@
     "Detox / cleansing",
     "Liver support"
    ]
+  },
+  {
+   "ref_id": "REF-2220",
+   "key": "akter2021linum",
+   "type": "article",
+   "title": "A comprehensive review on Linum usitatissimum medicinal plant: its phytochemistry, pharmacology, and ethnomedicinal uses",
+   "authors": "Akter, Y., Junaid, M., Afrose, S.S., Nahrin, A., Alam, M.S., Sharmin, T., Akter, R. and Hosen, S.M.Z.",
+   "journal": "Mini Reviews in Medicinal Chemistry",
+   "year": "2021",
+   "doi": "10.2174/1389557521666210203153436",
+   "url": "",
+   "link": "https://doi.org/10.2174/1389557521666210203153436",
+   "link_type": "doi",
+   "citation": "Akter, Y., Junaid, M., Afrose, S.S., Nahrin, A., Alam, M.S., Sharmin, T., Akter, R. and Hosen, S.M.Z (2021) 'A comprehensive review on Linum usitatissimum medicinal plant: its phytochemistry, pharmacology, and ethnomedicinal uses', Mini Reviews in Medicinal Chemistry, 21(18), pp. 2801-2834. doi:10.2174/1389557521666210203153436",
+   "abstract": "This comprehensive review of flax (Linum usitatissimum) details its phytochemistry (omega-3 fatty acid, SDG lignans) and anti-cancer, antioxidant, anti-microbial, anti-inflammatory and anti-diarrheal pharmacological activities.",
+   "tier": "review",
+   "display": "A comprehensive review on Linum usitatissimum medicinal plant: its phytochemistry, pharmacology, and ethnomedicinal uses",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-2189",
@@ -23330,6 +23630,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2238",
+   "key": "liang2020aloe",
+   "type": "article",
+   "title": "Aloe vera: a medicinal plant used in skin wound healing",
+   "authors": "Liang, J., Cui, L., Li, J., Guan, S., Zhang, K. and Li, J.",
+   "journal": "Tissue Engineering Part B: Reviews",
+   "year": "2020",
+   "doi": "10.1089/ten.TEB.2020.0236",
+   "url": "",
+   "link": "https://doi.org/10.1089/ten.TEB.2020.0236",
+   "link_type": "doi",
+   "citation": "Liang, J., Cui, L., Li, J., Guan, S., Zhang, K. and Li, J (2020) 'Aloe vera: a medicinal plant used in skin wound healing', Tissue Engineering Part B: Reviews, 27(5), pp. 455-474. doi:10.1089/ten.TEB.2020.0236",
+   "abstract": "This review analyses the role of Aloe vera in promoting skin wound healing and its use in wound dressings, supporting the vulnerary use of aloe.",
+   "tier": "review",
+   "display": "Aloe vera: a medicinal plant used in skin wound healing",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0515",
    "key": "uebel2020alpha",
    "type": "article",
@@ -25992,6 +26324,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2228",
+   "key": "karaoglan2020alchemilla",
+   "type": "article",
+   "title": "Isolation of major compounds and gastroprotective activity of Alchemilla on indomethacin induced gastric ulcers in rats",
+   "authors": "Karaoglan, E.S., Bayir, Y., Albayrak, A., Toktay, E., Ozgen, U., Kazaz, C., Kahramanlar, A. and Cadirci, E.",
+   "journal": "Eurasian Journal of Medicine",
+   "year": "2020",
+   "doi": "10.5152/eurasianjmed.2020.19243",
+   "url": "",
+   "link": "https://doi.org/10.5152/eurasianjmed.2020.19243",
+   "link_type": "doi",
+   "citation": "Karaoglan, E.S., Bayir, Y., Albayrak, A., Toktay, E., Ozgen, U., Kazaz, C., Kahramanlar, A. and Cadirci, E (2020) 'Isolation of major compounds and gastroprotective activity of Alchemilla on indomethacin induced gastric ulcers in rats', Eurasian Journal of Medicine, 52(3), pp. 249-253. doi:10.5152/eurasianjmed.2020.19243",
+   "abstract": "Alchemilla extract showed gastroprotective activity against indomethacin-induced gastric ulcers in rats by reducing inflammation, supporting the anti-inflammatory use of lady's mantle.",
+   "tier": "preclinical",
+   "display": "Isolation of major compounds and gastroprotective activity of Alchemilla on indomethacin induced gastric ulcers in rats",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0838",
    "key": "gong2020isorhamnetin",
    "type": "article",
@@ -26110,6 +26471,36 @@
     "Lamium album"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2218",
+   "key": "chhillar2020linum",
+   "type": "article",
+   "title": "Lignans from linseed (Linum usitatissimum L.) and its allied species: retrospect, introspect and prospect",
+   "authors": "Chhillar, H., Chopra, P. and Ashfaq, M.A.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2020",
+   "doi": "10.1080/10408398.2020.1784840",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2020.1784840",
+   "link_type": "doi",
+   "citation": "Chhillar, H., Chopra, P. and Ashfaq, M.A (2020) 'Lignans from linseed (Linum usitatissimum L.) and its allied species: retrospect, introspect and prospect', Critical Reviews in Food Science and Nutrition, 61(16), pp. 2719-2741. doi:10.1080/10408398.2020.1784840",
+   "abstract": "This review describes the sources, structures and antioxidant, antiviral and anti-tumour functional properties of lignans (notably secoisolariciresinol diglucoside) from linseed (Linum usitatissimum), characterising the antioxidant constituents of flax.",
+   "tier": "review",
+   "display": "Lignans from linseed (Linum usitatissimum L.) and its allied species: retrospect, introspect and prospect",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -26580,6 +26971,39 @@
    ],
    "actions": [
     "Hepatoprotective (liver support)"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2234",
+   "key": "sanchez2020aloe",
+   "type": "article",
+   "title": "Pharmacological update properties of Aloe vera and its major active constituents",
+   "authors": "Sanchez, M., Gonzalez-Burgos, E., Iglesias, I. and Gomez-Serranillos, M.P.",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25061324",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25061324",
+   "link_type": "doi",
+   "citation": "Sanchez, M., Gonzalez-Burgos, E., Iglesias, I. and Gomez-Serranillos, M.P (2020) 'Pharmacological update properties of Aloe vera and its major active constituents', Molecules, 25(6), pp. 1324. doi:10.3390/molecules25061324",
+   "abstract": "This pharmacological update reviews Aloe vera and its active constituents (aloe-emodin, aloin, acemannan), validating its anti-inflammatory, antimicrobial and wound-healing properties.",
+   "tier": "review",
+   "display": "Pharmacological update properties of Aloe vera and its major active constituents",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial"
    ],
    "conditions": []
   },
@@ -28715,6 +29139,37 @@
    "actions": [
     "Antioxidant",
     "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2219",
+   "key": "ansari2019linum",
+   "type": "article",
+   "title": "A review on pharmacological and clinical aspects of Linum usitatissimum L.",
+   "authors": "Ansari, R., Zarshenas, M.M. and Dadbakhsh, A.H.",
+   "journal": "Current Drug Discovery Technologies",
+   "year": "2019",
+   "doi": "10.2174/1570163815666180521101136",
+   "url": "",
+   "link": "https://doi.org/10.2174/1570163815666180521101136",
+   "link_type": "doi",
+   "citation": "Ansari, R., Zarshenas, M.M. and Dadbakhsh, A.H (2019) 'A review on pharmacological and clinical aspects of Linum usitatissimum L', Current Drug Discovery Technologies, 16(2), pp. 148-158. doi:10.2174/1570163815666180521101136",
+   "abstract": "This review collects the chemical constituents and pharmacological properties of flax (Linum usitatissimum), including antioxidant, anti-inflammatory, antimicrobial, analgesic and digestive activities and confirmed clinical uses.",
+   "tier": "review",
+   "display": "A review on pharmacological and clinical aspects of Linum usitatissimum L.",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Digestive aid"
    ],
    "conditions": []
   },
@@ -31886,6 +32341,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2241",
+   "key": "hekmatpou2019aloe",
+   "type": "article",
+   "title": "The effect of Aloe vera clinical trials on prevention and healing of skin wound: a systematic review",
+   "authors": "Hekmatpou, D., Mehrabi, F., Rahzani, K. and Aminiyan, A.",
+   "journal": "Iranian Journal of Medical Sciences",
+   "year": "2019",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=The%20effect%20of%20Aloe%20vera%20clinical%20trials%20on%20prevention%20and%20healing%20of%20skin%20wound%3A%20a%20systematic%20review",
+   "link_type": "search",
+   "citation": "Hekmatpou, D., Mehrabi, F., Rahzani, K. and Aminiyan, A (2019) 'The effect of Aloe vera clinical trials on prevention and healing of skin wound: a systematic review', Iranian Journal of Medical Sciences, 44(1), pp. 1-9.",
+   "abstract": "This systematic review of 23 clinical trials found that Aloe vera prevents skin ulcers and improves the healing of burns, postoperative and chronic wounds, supporting the vulnerary use of aloe.",
+   "tier": "review",
+   "display": "The effect of Aloe vera clinical trials on prevention and healing of skin wound: a systematic review",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1636",
    "key": "gotardo2019artichoke",
    "type": "article",
@@ -32722,6 +33209,38 @@
    ],
    "actions": [
     "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2242",
+   "key": "gao2018aloe",
+   "type": "article",
+   "title": "Biomedical applications of Aloe vera",
+   "authors": "Gao, Y., Kuok, K.I., Jin, Y. and Wang, R.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2018",
+   "doi": "10.1080/10408398.2018.1496320",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2018.1496320",
+   "link_type": "doi",
+   "citation": "Gao, Y., Kuok, K.I., Jin, Y. and Wang, R (2018) 'Biomedical applications of Aloe vera', Critical Reviews in Food Science and Nutrition, 59(sup1), pp. S244-S256. doi:10.1080/10408398.2018.1496320",
+   "abstract": "This review summarises the antibacterial, antiviral, anticancer, immunoregulative and hepatoprotective pharmacological activities and clinical applications of Aloe vera, supporting the antimicrobial use of aloe.",
+   "tier": "review",
+   "display": "Biomedical applications of Aloe vera",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Antimicrobial"
    ],
    "conditions": []
   },
@@ -38197,6 +38716,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2224",
+   "key": "rafieian2017linum",
+   "type": "article",
+   "title": "The analgesic and anti-inflammatory activity of Linum usitatissimum in Balb/c mice",
+   "authors": "Rafieian-Kopaei, M., Shakiba, A., Sedighi, M. and Bahmani, M.",
+   "journal": "Journal of Evidence-Based Complementary & Alternative Medicine",
+   "year": "2017",
+   "doi": "10.1177/2156587217717416",
+   "url": "",
+   "link": "https://doi.org/10.1177/2156587217717416",
+   "link_type": "doi",
+   "citation": "Rafieian-Kopaei, M., Shakiba, A., Sedighi, M. and Bahmani, M (2017) 'The analgesic and anti-inflammatory activity of Linum usitatissimum in Balb/c mice', Journal of Evidence-Based Complementary & Alternative Medicine, 22(4), pp. 892-896. doi:10.1177/2156587217717416",
+   "abstract": "Linum usitatissimum extract showed dose-dependent analgesic (partly opioid-mediated) and anti-inflammatory activity in mice, supporting the anti-inflammatory use of flax.",
+   "tier": "preclinical",
+   "display": "The analgesic and anti-inflammatory activity of Linum usitatissimum in Balb/c mice",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0466",
    "key": "jamshidi2017clinical",
    "type": "article",
@@ -38954,6 +39503,36 @@
     "Anti-inflammatory",
     "Sedative / sleep support"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2239",
+   "key": "guo2016aloe",
+   "type": "article",
+   "title": "Aloe vera: a review of toxicity and adverse clinical effects",
+   "authors": "Guo, X. and Mei, N.",
+   "journal": "Journal of Environmental Science and Health Part C",
+   "year": "2016",
+   "doi": "10.1080/10590501.2016.1166826",
+   "url": "",
+   "link": "https://doi.org/10.1080/10590501.2016.1166826",
+   "link_type": "doi",
+   "citation": "Guo, X. and Mei, N (2016) 'Aloe vera: a review of toxicity and adverse clinical effects', Journal of Environmental Science and Health Part C, 34(2), pp. 77-96. doi:10.1080/10590501.2016.1166826",
+   "abstract": "This review presents updated information on the toxicological and adverse clinical effects of Aloe vera whole leaf extract, gel and latex, informing the safe use of aloe.",
+   "tier": "review",
+   "display": "Aloe vera: a review of toxicity and adverse clinical effects",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -40273,6 +40852,33 @@
     "Urinary tract infection (UTI)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2231",
+   "key": "ozbek2016alchemilla",
+   "type": "article",
+   "title": "Evaluation of hepatoprotective and antidiabetic activity of Alchemilla mollis",
+   "authors": "Ozbek, H., Acikara, O.B., Keskin, I., Kirmizi, N.I., Ozbilgin, S., Oz, B.E., Kurtul, E., Ozrenk, B.C., Tekin, M. and Saltan, G.",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2016",
+   "doi": "10.1016/j.biopha.2016.12.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2016.12.005",
+   "link_type": "doi",
+   "citation": "Ozbek, H., Acikara, O.B., Keskin, I., Kirmizi, N.I., Ozbilgin, S., Oz, B.E., Kurtul, E., Ozrenk, B.C., Tekin, M. and Saltan, G (2016) 'Evaluation of hepatoprotective and antidiabetic activity of Alchemilla mollis', Biomedicine & Pharmacotherapy, 86, pp. 172-176. doi:10.1016/j.biopha.2016.12.005",
+   "abstract": "Alchemilla mollis (a lady's-mantle congener) showed hepatoprotective and antidiabetic activity in an animal model, documenting pharmacological activities of lady's mantle.",
+   "tier": "preclinical",
+   "display": "Evaluation of hepatoprotective and antidiabetic activity of Alchemilla mollis",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2032",
@@ -42381,6 +42987,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2232",
+   "key": "krivokuca2015alchemilla",
+   "type": "article",
+   "title": "Anti-Helicobacter pylori activity of four Alchemilla species (Rosaceae)",
+   "authors": "Krivokuca, M., Niketic, M., Milenkovic, M., Golic, N., Masia, C., Scaltrito, M.M., Sisto, F. and Kundakovic, T.",
+   "journal": "Natural Product Communications",
+   "year": "2015",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Anti-Helicobacter%20pylori%20activity%20of%20four%20Alchemilla%20species%20%28Rosaceae%29",
+   "link_type": "search",
+   "citation": "Krivokuca, M., Niketic, M., Milenkovic, M., Golic, N., Masia, C., Scaltrito, M.M., Sisto, F. and Kundakovic, T (2015) 'Anti-Helicobacter pylori activity of four Alchemilla species (Rosaceae)', Natural Product Communications, 10(8), pp. 1369-1371.",
+   "abstract": "Four Alchemilla species (lady's mantle and congeners) showed anti-Helicobacter pylori activity, documenting an antimicrobial activity of lady's mantle.",
+   "tier": "preclinical",
+   "display": "Anti-Helicobacter pylori activity of four Alchemilla species (Rosaceae)",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2191",
    "key": "kalani2015glycyrrhiza",
    "type": "article",
@@ -44153,6 +44786,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2229",
+   "key": "kupeli2015alchemilla",
+   "type": "article",
+   "title": "Phytochemical analyses and effects of Alchemilla mollis (Buser) Rothm. and Alchemilla persica Rothm. in rat endometriosis model",
+   "authors": "Kupeli Akkol, E., Demirel, M.A., Bahadir Acikara, O., Suntar, I., Ergene, B., Ilhan, M., Ozbilgin, S., Saltan, G., Keles, H. and Tekin, M.",
+   "journal": "Archives of Gynecology and Obstetrics",
+   "year": "2015",
+   "doi": "10.1007/s00404-015-3665-6",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00404-015-3665-6",
+   "link_type": "doi",
+   "citation": "Kupeli Akkol, E., Demirel, M.A., Bahadir Acikara, O., Suntar, I., Ergene, B., Ilhan, M., Ozbilgin, S., Saltan, G., Keles, H. and Tekin, M (2015) 'Phytochemical analyses and effects of Alchemilla mollis (Buser) Rothm. and Alchemilla persica Rothm. in rat endometriosis model', Archives of Gynecology and Obstetrics, 292(3), pp. 619-628. doi:10.1007/s00404-015-3665-6",
+   "abstract": "Alchemilla mollis and A. persica (lady's-mantle congeners) reduced lesions and inflammation in a rat endometriosis model, supporting the anti-inflammatory gynecological use of lady's mantle.",
+   "tier": "preclinical",
+   "display": "Phytochemical analyses and effects of Alchemilla mollis (Buser) Rothm. and Alchemilla persica Rothm. in rat endometriosis model",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1378",
    "key": "mocan2015speedwell",
    "type": "article",
@@ -45006,6 +45668,39 @@
     "Respiratory support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2244",
+   "key": "sierragarcia2014aloe",
+   "type": "article",
+   "title": "Acemannan, an extracted polysaccharide from Aloe vera: a literature review",
+   "authors": "Sierra-Garcia, G.D., Castro-Rios, R., Gonzalez-Horta, A., Lara-Arias, J. and Chavez-Montes, A.",
+   "journal": "Natural Product Communications",
+   "year": "2014",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Acemannan%2C%20an%20extracted%20polysaccharide%20from%20Aloe%20vera%3A%20a%20literature%20review",
+   "link_type": "search",
+   "citation": "Sierra-Garcia, G.D., Castro-Rios, R., Gonzalez-Horta, A., Lara-Arias, J. and Chavez-Montes, A (2014) 'Acemannan, an extracted polysaccharide from Aloe vera: a literature review', Natural Product Communications, 9(8), pp. 1217-1221.",
+   "abstract": "This review presents the composition, anti-inflammatory, antibacterial, antiviral and immune-activating actions and clinical applications of acemannan, a polysaccharide from Aloe vera, supporting the anti-inflammatory and antimicrobial use of aloe.",
+   "tier": "review",
+   "display": "Acemannan, an extracted polysaccharide from Aloe vera: a literature review",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0716",
@@ -48683,6 +49378,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2233",
+   "key": "duckstein2013alchemilla",
+   "type": "article",
+   "title": "Phenolic constituents from Alchemilla vulgaris L. and Alchemilla mollis (Buser) Rothm. at different dates of harvest",
+   "authors": "Duckstein, S.M., Lotter, E.M., Meyer, U., Lindequist, U. and Stintzing, F.C.",
+   "journal": "Zeitschrift fur Naturforschung C",
+   "year": "2013",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Phenolic%20constituents%20from%20Alchemilla%20vulgaris%20L.%20and%20Alchemilla%20mollis%20%28Buser%29%20Rothm.%20at%20different%20dates%20of%20harvest",
+   "link_type": "search",
+   "citation": "Duckstein, S.M., Lotter, E.M., Meyer, U., Lindequist, U. and Stintzing, F.C (2013) 'Phenolic constituents from Alchemilla vulgaris L. and Alchemilla mollis (Buser) Rothm. at different dates of harvest', Zeitschrift fur Naturforschung C, 68(1-2), pp. 529-540.",
+   "abstract": "This study characterised the phenolic constituents of Alchemilla vulgaris and A. mollis at different harvest dates, documenting the antioxidant phytochemistry of lady's mantle.",
+   "tier": "preclinical",
+   "display": "Phenolic constituents from Alchemilla vulgaris L. and Alchemilla mollis (Buser) Rothm. at different dates of harvest",
+   "plants": [
+    "Lady's mantle",
+    "Lady’s-mantle",
+    "lion's foot"
+   ],
+   "scientific": [
+    "Alchemilla vulgaris"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1395",
    "key": "orhan2013dill",
    "type": "article",
@@ -51504,6 +52228,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2223",
+   "key": "kaithwas2011linum",
+   "type": "article",
+   "title": "Anti-inflammatory, analgesic and antipyretic activities of Linum usitatissimum L. (flaxseed/linseed) fixed oil",
+   "authors": "Kaithwas, G., Mukherjee, A., Chaurasia, A.K. and Majumdar, D.K.",
+   "journal": "Indian Journal of Experimental Biology",
+   "year": "2011",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Anti-inflammatory%2C%20analgesic%20and%20antipyretic%20activities%20of%20Linum%20usitatissimum%20L.%20%28flaxseed/linseed%29%20fixed%20oil",
+   "link_type": "search",
+   "citation": "Kaithwas, G., Mukherjee, A., Chaurasia, A.K. and Majumdar, D.K (2011) 'Anti-inflammatory, analgesic and antipyretic activities of Linum usitatissimum L. (flaxseed/linseed) fixed oil', Indian Journal of Experimental Biology, 49(12), pp. 932-938.",
+   "abstract": "Flaxseed (Linum usitatissimum) fixed oil inhibited multiple inflammatory mediators and showed anti-inflammatory, analgesic and antipyretic activity comparable to standard drugs, supporting the anti-inflammatory use of flax.",
+   "tier": "preclinical",
+   "display": "Anti-inflammatory, analgesic and antipyretic activities of Linum usitatissimum L. (flaxseed/linseed) fixed oil",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1874",
    "key": "kolodziej2011pelargonium",
    "type": "article",
@@ -54122,6 +54876,39 @@
    ]
   },
   {
+   "ref_id": "REF-2243",
+   "key": "feily2009aloe",
+   "type": "article",
+   "title": "Aloe vera in dermatology: a brief review",
+   "authors": "Feily, A. and Namazi, M.R.",
+   "journal": "Giornale Italiano di Dermatologia e Venereologia",
+   "year": "2009",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Aloe%20vera%20in%20dermatology%3A%20a%20brief%20review",
+   "link_type": "search",
+   "citation": "Feily, A. and Namazi, M.R (2009) 'Aloe vera in dermatology: a brief review', Giornale Italiano di Dermatologia e Venereologia, 144(1), pp. 85-91.",
+   "abstract": "This systematic review of dermatology studies found Aloe vera effective for wound healing, inflammation, genital herpes, psoriasis and other skin conditions, supporting the vulnerary and anti-inflammatory use of aloe.",
+   "tier": "review",
+   "display": "Aloe vera in dermatology: a brief review",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1592",
    "key": "ulbricht2009bilberry",
    "type": "article",
@@ -55213,6 +56000,39 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2237",
+   "key": "surjushe2008aloe",
+   "type": "article",
+   "title": "Aloe vera: a short review",
+   "authors": "Surjushe, A., Vasani, R. and Saple, D.G.",
+   "journal": "Indian Journal of Dermatology",
+   "year": "2008",
+   "doi": "10.4103/0019-5154.44785",
+   "url": "",
+   "link": "https://doi.org/10.4103/0019-5154.44785",
+   "link_type": "doi",
+   "citation": "Surjushe, A., Vasani, R. and Saple, D.G (2008) 'Aloe vera: a short review', Indian Journal of Dermatology, 53(4), pp. 163-166. doi:10.4103/0019-5154.44785",
+   "abstract": "This review of Aloe vera describes its properties, mechanism of action and clinical uses in dermatology, including its emollient, soothing and wound-healing applications.",
+   "tier": "review",
+   "display": "Aloe vera: a short review",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [
+    "Emollient / skin-soothing",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1141",
@@ -57049,6 +57869,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2217",
+   "key": "basch2007linum",
+   "type": "article",
+   "title": "Flax and flaxseed oil (Linum usitatissimum): a review by the Natural Standard Research Collaboration",
+   "authors": "Basch, E., Bent, S., Collins, J., Dacey, C., Hammerness, P., Harrison, M., Smith, M., Szapary, P., Ulbricht, C., Vora, M. and Weissner, W.",
+   "journal": "Journal of the Society for Integrative Oncology",
+   "year": "2007",
+   "doi": "10.2310/7200.2007.005",
+   "url": "",
+   "link": "https://doi.org/10.2310/7200.2007.005",
+   "link_type": "doi",
+   "citation": "Basch, E., Bent, S., Collins, J., Dacey, C., Hammerness, P., Harrison, M., Smith, M., Szapary, P., Ulbricht, C., Vora, M. and Weissner, W (2007) 'Flax and flaxseed oil (Linum usitatissimum): a review by the Natural Standard Research Collaboration', Journal of the Society for Integrative Oncology, 5(3), pp. 92-105. doi:10.2310/7200.2007.005",
+   "abstract": "This evidence-based review by the Natural Standard Research Collaboration evaluates flaxseed (Linum usitatissimum) across 13 human-studied categories including constipation/laxative, hyperlipidemia and atherosclerosis, supporting its anti-inflammatory and digestive uses.",
+   "tier": "review",
+   "display": "Flax and flaxseed oil (Linum usitatissimum): a review by the Natural Standard Research Collaboration",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2048",
    "key": "boh2007ganoderma",
    "type": "article",
@@ -58048,6 +58899,34 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2216",
+   "key": "picur2006linum",
+   "type": "article",
+   "title": "Cyclopeptides of Linum usitatissimum",
+   "authors": "Picur, B., Cebrat, M., Zabrocki, J. and Siemion, I.Z.",
+   "journal": "Journal of Peptide Science",
+   "year": "2006",
+   "doi": "10.1002/psc.779",
+   "url": "",
+   "link": "https://doi.org/10.1002/psc.779",
+   "link_type": "doi",
+   "citation": "Picur, B., Cebrat, M., Zabrocki, J. and Siemion, I.Z (2006) 'Cyclopeptides of Linum usitatissimum', Journal of Peptide Science, 12(9), pp. 569-574. doi:10.1002/psc.779",
+   "abstract": "Cyclolinopeptide A, a cyclic nonapeptide from linseed (Linum usitatissimum), possesses immunosuppressive and antimalarial activity; this work reviews the structure-activity relationships of its cyclopeptides, documenting the bioactive phytochemistry of flax.",
+   "tier": "preclinical",
+   "display": "Cyclopeptides of Linum usitatissimum",
+   "plants": [
+    "Flaxseed",
+    "common flax",
+    "flax",
+    "linseed"
+   ],
+   "scientific": [
+    "Linum usitatissimum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1499",

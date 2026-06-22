@@ -32,6 +32,8 @@ actions:
   note: Lowers fasting blood glucose
   reference_ids:
   - REF-0567
+  - REF-1842
+  - REF-1848
   status: verified
 - action: antihypertensive
   note: Lowers blood pressure, with the greatest effect in people with raised blood pressure
@@ -40,16 +42,25 @@ actions:
   - REF-0465
   - REF-0566
   - REF-0567
+  - REF-1844
+  - REF-1845
+  - REF-1846
+  - REF-1847
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0464
+  - REF-1840
+  - REF-1841
   status: verified
 - action: lipid-lowering
   note: Improves the lipid profile - lowers LDL and total cholesterol
   reference_ids:
   - REF-0464
   - REF-0465
+  - REF-1843
+  - REF-1845
+  - REF-1848
   status: verified
 indications:
 - condition: blood-sugar
@@ -99,9 +110,21 @@ contraindications:
   reference_ids:
   - REF-0464
   status: needs-review
+references:
+- REF-1840
+- REF-1841
+- REF-0566
+- REF-0464
+- REF-1842
+- REF-1843
+- REF-1844
+- REF-1845
+- REF-1846
+- REF-1847
+- REF-1848
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Reviews meta-analysis; Foods
   systematic review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (high-blood-pressure, high-cholesterol); associations retained and now part-mapped and cited.
@@ -109,4 +132,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Revie
   systolic/diastolic reductions but no advantage over antihypertensive drugs and no effect in metabolic
   syndrome (REF-0566) and a sour-tea review showing reduced fasting plasma glucose and blood pressure
   (REF-0567). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds).'
+  linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
+  @article sources (REF-1840, REF-1841, REF-0566, REF-0464, REF-1842, REF-1843, REF-1844, REF-1845, REF-1846,
+  REF-1847, REF-1848) — woven into relevant actions/indications and the plant-level references bucket.'

@@ -33,12 +33,27 @@ actions:
   reference_ids:
   - REF-0443
   - REF-0444
+  - REF-1829
+  - REF-1830
+  - REF-1832
+  - REF-1834
+  - REF-1835
+  - REF-1837
+  - REF-1838
   status: verified
 - action: anti-inflammatory
   note: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain
   reference_ids:
   - REF-0443
   - REF-0444
+  - REF-1829
+  - REF-1831
+  - REF-1832
+  - REF-1833
+  - REF-1834
+  - REF-1836
+  - REF-1837
+  - REF-1839
   status: verified
 indications:
 - condition: arthritis
@@ -104,9 +119,21 @@ contraindications:
   reference_ids:
   - REF-0443
   status: verified
+references:
+- REF-1829
+- REF-1830
+- REF-1831
+- REF-1832
+- REF-1833
+- REF-1834
+- REF-1835
+- REF-1836
+- REF-1837
+- REF-1838
+- REF-1839
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standard evidence-based systematic
   review; Der Orthopade review of herbal analgesia). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (pain, arthritis, back-pain, inflammation); associations retained and now
@@ -114,4 +141,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standar
   of osteoarthritis and low-back-pain trials (REF-0561; strongest evidence for aqueous extracts at >=50
   mg harpagoside/day, non-inferior to rofecoxib short-term) and a clinical-efficacy review on harpagoside
   dose standardisation (REF-0562). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
-  split out, constituents linked to compounds).'
+  split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
+  added 11 PubMed-verified @article sources (REF-1829, REF-1830, REF-1831, REF-1832, REF-1833, REF-1834,
+  REF-1835, REF-1836, REF-1837, REF-1838, REF-1839) — woven into relevant actions/indications and the
+  plant-level references bucket.'

@@ -14007,7 +14007,14 @@
      "note": "Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain",
      "reference_ids": [
       "REF-0443",
-      "REF-0444"
+      "REF-0444",
+      "REF-1829",
+      "REF-1830",
+      "REF-1832",
+      "REF-1834",
+      "REF-1835",
+      "REF-1837",
+      "REF-1838"
      ],
      "status": "verified"
     },
@@ -14016,7 +14023,15 @@
      "note": "Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain",
      "reference_ids": [
       "REF-0443",
-      "REF-0444"
+      "REF-0444",
+      "REF-1829",
+      "REF-1831",
+      "REF-1832",
+      "REF-1833",
+      "REF-1834",
+      "REF-1836",
+      "REF-1837",
+      "REF-1839"
      ],
      "status": "verified"
     }
@@ -14107,9 +14122,22 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-1829",
+    "REF-1830",
+    "REF-1831",
+    "REF-1832",
+    "REF-1833",
+    "REF-1834",
+    "REF-1835",
+    "REF-1836",
+    "REF-1837",
+    "REF-1838",
+    "REF-1839"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "hedera-helix",
@@ -14523,7 +14551,9 @@
      "action": "antidiabetic",
      "note": "Lowers fasting blood glucose",
      "reference_ids": [
-      "REF-0567"
+      "REF-0567",
+      "REF-1842",
+      "REF-1848"
      ],
      "status": "verified"
     },
@@ -14534,14 +14564,20 @@
       "REF-0464",
       "REF-0465",
       "REF-0566",
-      "REF-0567"
+      "REF-0567",
+      "REF-1844",
+      "REF-1845",
+      "REF-1846",
+      "REF-1847"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0464"
+      "REF-0464",
+      "REF-1840",
+      "REF-1841"
      ],
      "status": "verified"
     },
@@ -14550,7 +14586,10 @@
      "note": "Improves the lipid profile - lowers LDL and total cholesterol",
      "reference_ids": [
       "REF-0464",
-      "REF-0465"
+      "REF-0465",
+      "REF-1843",
+      "REF-1845",
+      "REF-1848"
      ],
      "status": "verified"
     }
@@ -14623,9 +14662,22 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-1840",
+    "REF-1841",
+    "REF-0566",
+    "REF-0464",
+    "REF-1842",
+    "REF-1843",
+    "REF-1844",
+    "REF-1845",
+    "REF-1846",
+    "REF-1847",
+    "REF-1848"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "hippophae-rhamnoides",
@@ -15039,7 +15091,11 @@
      "reference_ids": [
       "REF-0455",
       "REF-0456",
-      "REF-0588"
+      "REF-0588",
+      "REF-1849",
+      "REF-1850",
+      "REF-1851",
+      "REF-1852"
      ],
      "status": "verified"
     },
@@ -15055,7 +15111,8 @@
      "action": "digestive",
      "note": "Digestive / gastrointestinal support (traditional for dyspepsia and ulcers)",
      "reference_ids": [
-      "REF-0455"
+      "REF-0455",
+      "REF-1851"
      ],
      "status": "needs-review"
     }
@@ -15159,9 +15216,22 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0455",
+    "REF-1849",
+    "REF-1850",
+    "REF-0588",
+    "REF-1851",
+    "REF-1852",
+    "REF-1853",
+    "REF-1854",
+    "REF-1855",
+    "REF-1856",
+    "REF-1857"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "hypericum-perforatum",

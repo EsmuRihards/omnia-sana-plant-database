@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 1828,
+ "count": 1857,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -11983,6 +11983,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1831",
+   "key": "mariano2022devilsclaw",
+   "type": "article",
+   "title": "Harpagophytum procumbens Root Extract Mediates Anti-Inflammatory Effects in Osteoarthritis Synoviocytes through CB2 Activation",
+   "authors": "Mariano, A., Bigioni, I., Mattioli, R., Di Sotto, A., Leopizzi, M., Garzoli, S., Mariani, P.F., Dalla Vedova, P., Ammendola, S. and Scotto d'Abusco, A.",
+   "journal": "Pharmaceuticals",
+   "year": "2022",
+   "doi": "10.3390/ph15040457",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph15040457",
+   "link_type": "doi",
+   "citation": "Mariano, A., Bigioni, I., Mattioli, R., Di Sotto, A., Leopizzi, M., Garzoli, S., Mariani, P.F., Dalla Vedova, P., Ammendola, S. and Scotto d'Abusco, A (2022) 'Harpagophytum procumbens Root Extract Mediates Anti-Inflammatory Effects in Osteoarthritis Synoviocytes through CB2 Activation', Pharmaceuticals, 15(4), pp. 457. doi:10.3390/ph15040457",
+   "abstract": "Harpagophytum procumbens root extract exerted anti-inflammatory effects in osteoarthritis synoviocytes through cannabinoid CB2 receptor activation, supporting the anti-inflammatory use of devil's claw in osteoarthritis.",
+   "tier": "preclinical",
+   "display": "Harpagophytum procumbens Root Extract Mediates Anti-Inflammatory Effects in Osteoarthritis Synoviocytes through CB2 Activation",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1124",
    "key": "gupta2022verbascum",
    "type": "article",
@@ -12011,6 +12040,36 @@
    "actions": [
     "Anti-inflammatory",
     "Expectorant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1842",
+   "key": "jamrozik2022hibiscus",
+   "type": "article",
+   "title": "Hibiscus sabdariffa in Diabetes Prevention and Treatment - Does It Work? An Evidence-Based Review",
+   "authors": "Jamrozik, D., Borymska, W. and Kaczmarczyk-Zebrowska, I.",
+   "journal": "Foods",
+   "year": "2022",
+   "doi": "10.3390/foods11142134",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods11142134",
+   "link_type": "doi",
+   "citation": "Jamrozik, D., Borymska, W. and Kaczmarczyk-Zebrowska, I (2022) 'Hibiscus sabdariffa in Diabetes Prevention and Treatment - Does It Work? An Evidence-Based Review', Foods, 11(14), pp. 2134. doi:10.3390/foods11142134",
+   "abstract": "This evidence-based review examines Hibiscus sabdariffa in diabetes prevention and treatment, summarising its effects on carbohydrate and lipid metabolism, supporting its antidiabetic use.",
+   "tier": "review",
+   "display": "Hibiscus sabdariffa in Diabetes Prevention and Treatment - Does It Work? An Evidence-Based Review",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
    ],
    "conditions": []
   },
@@ -13901,6 +13960,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1832",
+   "key": "gxaba2022devilsclaw",
+   "type": "article",
+   "title": "The Fight against Infection and Pain: Devil's Claw (Harpagophytum procumbens) a Rich Source of Anti-Inflammatory Activity: 2011-2022",
+   "authors": "Gxaba, N. and Manganyi, M.C.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27113637",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27113637",
+   "link_type": "doi",
+   "citation": "Gxaba, N. and Manganyi, M.C (2022) 'The Fight against Infection and Pain: Devil's Claw (Harpagophytum procumbens) a Rich Source of Anti-Inflammatory Activity: 2011-2022', Molecules, 27(11), pp. 3637. doi:10.3390/molecules27113637",
+   "abstract": "This review (2011-2022) summarises the anti-inflammatory, analgesic and antimicrobial activity of devil's claw (Harpagophytum procumbens) and its traditional uses for pain and infection.",
+   "tier": "review",
+   "display": "The Fight against Infection and Pain: Devil's Claw (Harpagophytum procumbens) a Rich Source of Anti-Inflammatory Activity: 2011-2022",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0897",
    "key": "li2022rumex",
    "type": "article",
@@ -15735,6 +15824,36 @@
     "Equisetum arvense"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1849",
+   "key": "corn2021goldenseal",
+   "type": "article",
+   "title": "Effects of Hydrastis Canadensis, Commiphora Habessinica, Phytolacca Americana, and Echinacea Purpurea on Bacterial Growth",
+   "authors": "Corn, J., Tibbitts, D., Ito, H., Schafer, M. and Vasilevsky, N.",
+   "journal": "Alternative Therapies in Health and Medicine",
+   "year": "2021",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Effects%20of%20Hydrastis%20Canadensis%2C%20Commiphora%20Habessinica%2C%20Phytolacca%20Americana%2C%20and%20Echinacea%20Purpurea%20on%20Bacterial%20Growth",
+   "link_type": "search",
+   "citation": "Corn, J., Tibbitts, D., Ito, H., Schafer, M. and Vasilevsky, N (2021) 'Effects of Hydrastis Canadensis, Commiphora Habessinica, Phytolacca Americana, and Echinacea Purpurea on Bacterial Growth', Alternative Therapies in Health and Medicine, 27(4), pp. 24-27.",
+   "abstract": "Hydrastis canadensis, as part of a herbal formula, inhibited bacterial growth in vitro, supporting the traditional antimicrobial use of goldenseal for minor infections.",
+   "tier": "preclinical",
+   "display": "Effects of Hydrastis Canadensis, Commiphora Habessinica, Phytolacca Americana, and Echinacea Purpurea on Bacterial Growth",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
    "conditions": []
   },
   {
@@ -21366,6 +21485,35 @@
    ]
   },
   {
+   "ref_id": "REF-1835",
+   "key": "ungerer2020devilsclaw",
+   "type": "article",
+   "title": "Harpagophytum procumbens Extract Ameliorates Allodynia and Modulates Oxidative and Antioxidant Stress Pathways in a Rat Model of Spinal Cord Injury",
+   "authors": "Ungerer, G., Cui, J., Ndam, T., Bekemeier, M., Song, H., Li, R., Siedhoff, H.R., Yang, B., Appenteng, M.K., Greenlief, C.M., Miller, D.K., Sun, G.Y., Folk, W.R. and Gu, Z.",
+   "journal": "Neuromolecular Medicine",
+   "year": "2020",
+   "doi": "10.1007/s12017-019-08585-z",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12017-019-08585-z",
+   "link_type": "doi",
+   "citation": "Ungerer, G., Cui, J., Ndam, T., Bekemeier, M., Song, H., Li, R., Siedhoff, H.R., Yang, B., Appenteng, M.K., Greenlief, C.M., Miller, D.K., Sun, G.Y., Folk, W.R. and Gu, Z (2020) 'Harpagophytum procumbens Extract Ameliorates Allodynia and Modulates Oxidative and Antioxidant Stress Pathways in a Rat Model of Spinal Cord Injury', Neuromolecular Medicine, 22(2), pp. 278-292. doi:10.1007/s12017-019-08585-z",
+   "abstract": "Harpagophytum procumbens extract ameliorated allodynia and modulated oxidative and antioxidant stress pathways in a rat model of spinal cord injury, supporting its analgesic and antioxidant use.",
+   "tier": "preclinical",
+   "display": "Harpagophytum procumbens Extract Ameliorates Allodynia and Modulates Oxidative and Antioxidant Stress Pathways in a Rat Model of Spinal Cord Injury",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Analgesic (pain relief)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1575",
    "key": "lopresti2020migraine",
    "type": "article",
@@ -21441,6 +21589,36 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-1847",
+   "key": "bourqui2020hibiscus",
+   "type": "article",
+   "title": "Hypertension treatment with Combretum micranthum or Hibiscus sabdariffa, as decoction or tablet: a randomized clinical trial",
+   "authors": "Bourqui, A., Niang, E.A.B., Graz, B., Diop, E.A., Dahaba, M., Thiaw, I., Soumare, K., Valmaggia, P., Nogueira, R.C., Cavin, A., Al-Anbaki, M. and Seck, S.M.",
+   "journal": "Journal of Human Hypertension",
+   "year": "2020",
+   "doi": "10.1038/s41371-020-00415-1",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41371-020-00415-1",
+   "link_type": "doi",
+   "citation": "Bourqui, A., Niang, E.A.B., Graz, B., Diop, E.A., Dahaba, M., Thiaw, I., Soumare, K., Valmaggia, P., Nogueira, R.C., Cavin, A., Al-Anbaki, M. and Seck, S.M (2020) 'Hypertension treatment with Combretum micranthum or Hibiscus sabdariffa, as decoction or tablet: a randomized clinical trial', Journal of Human Hypertension, 35(9), pp. 800-808. doi:10.1038/s41371-020-00415-1",
+   "abstract": "In a randomized clinical trial, Hibiscus sabdariffa (as decoction or tablet) effectively lowered blood pressure in hypertensive patients, supporting its antihypertensive use.",
+   "tier": "rct",
+   "display": "Hypertension treatment with Combretum micranthum or Hibiscus sabdariffa, as decoction or tablet: a randomized clinical trial",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Antihypertensive"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1213",
@@ -21857,6 +22035,35 @@
     "Morinda citrifolia"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1836",
+   "key": "recinella2020devilsclaw",
+   "type": "article",
+   "title": "Multidirectional Pharma-Toxicological Study on Harpagophytum procumbens DC. ex Meisn.: An IBD-Focused Investigation",
+   "authors": "Recinella, L., Chiavaroli, A., Ronci, M., Menghini, L., Brunetti, L., Leone, S., Tirillini, B., Angelini, P., Covino, S., Venanzoni, R., Zengin, G., Di Simone, S., Ciferri, M.C., di Giacomo, V., Cataldi, A., Rapino, M., Valerio, V.D., Orlando, G. and Ferrante, C.",
+   "journal": "Antioxidants",
+   "year": "2020",
+   "doi": "10.3390/antiox9020168",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox9020168",
+   "link_type": "doi",
+   "citation": "Recinella, L., Chiavaroli, A., Ronci, M., Menghini, L., Brunetti, L., Leone, S., Tirillini, B., Angelini, P., Covino, S., Venanzoni, R., Zengin, G., Di Simone, S., Ciferri, M.C., di Giacomo, V., Cataldi, A., Rapino, M., Valerio, V.D., Orlando, G. and Ferrante, C (2020) 'Multidirectional Pharma-Toxicological Study on Harpagophytum procumbens DC. ex Meisn.: An IBD-Focused Investigation', Antioxidants, 9(2), pp. 168. doi:10.3390/antiox9020168",
+   "abstract": "A water extract of Harpagophytum procumbens showed anti-inflammatory, antioxidant and antimicrobial activity in an experimental model of inflammatory bowel disease, supporting the anti-inflammatory use of devil's claw.",
+   "tier": "preclinical",
+   "display": "Multidirectional Pharma-Toxicological Study on Harpagophytum procumbens DC. ex Meisn.: An IBD-Focused Investigation",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -24665,6 +24872,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1833",
+   "key": "menghini2019devilsclaw",
+   "type": "article",
+   "title": "Devil's claw (Harpagophytum procumbens) and chronic inflammatory diseases: A concise overview on preclinical and clinical data",
+   "authors": "Menghini, L., Recinella, L., Leone, S., Chiavaroli, A., Cicala, C., Brunetti, L., Vladimir-Knezevic, S., Orlando, G. and Ferrante, C.",
+   "journal": "Phytotherapy Research",
+   "year": "2019",
+   "doi": "10.1002/ptr.6395",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6395",
+   "link_type": "doi",
+   "citation": "Menghini, L., Recinella, L., Leone, S., Chiavaroli, A., Cicala, C., Brunetti, L., Vladimir-Knezevic, S., Orlando, G. and Ferrante, C (2019) 'Devil's claw (Harpagophytum procumbens) and chronic inflammatory diseases: A concise overview on preclinical and clinical data', Phytotherapy Research, 33(9), pp. 2152-2162. doi:10.1002/ptr.6395",
+   "abstract": "This overview summarises preclinical and clinical data on devil's claw (Harpagophytum procumbens) and chronic inflammatory diseases, with harpagoside as the main active iridoid responsible for its anti-inflammatory effect.",
+   "tier": "review",
+   "display": "Devil's claw (Harpagophytum procumbens) and chronic inflammatory diseases: A concise overview on preclinical and clinical data",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0120",
    "key": "huang2019dietary",
    "type": "article",
@@ -26808,6 +27044,36 @@
    ]
   },
   {
+   "ref_id": "REF-1841",
+   "key": "riaz2018hibiscus",
+   "type": "article",
+   "title": "A review on phytochemistry and therapeutic uses of Hibiscus sabdariffa L.",
+   "authors": "Riaz, G. and Chopra, R.",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2018",
+   "doi": "10.1016/j.biopha.2018.03.023",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2018.03.023",
+   "link_type": "doi",
+   "citation": "Riaz, G. and Chopra, R (2018) 'A review on phytochemistry and therapeutic uses of Hibiscus sabdariffa L', Biomedicine & Pharmacotherapy, 102, pp. 575-586. doi:10.1016/j.biopha.2018.03.023",
+   "abstract": "This review covers the phytochemistry (anthocyanins, polysaccharides, organic acids) and therapeutic uses of Hibiscus sabdariffa (roselle), including its antioxidant, antihypertensive and metabolic benefits.",
+   "tier": "review",
+   "display": "A review on phytochemistry and therapeutic uses of Hibiscus sabdariffa L.",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0717",
    "key": "khwairakpam2018acorus",
    "type": "article",
@@ -27403,6 +27669,34 @@
     "Anti-inflammatory",
     "Anticancer (preclinical)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1856",
+   "key": "wallace2018goldenseal",
+   "type": "article",
+   "title": "Detection of adulteration in Hydrastis canadensis (goldenseal) dietary supplements via untargeted mass spectrometry-based metabolomics",
+   "authors": "Wallace, E.D., Oberlies, N.H., Cech, N.B. and Kellogg, J.J.",
+   "journal": "Food and Chemical Toxicology",
+   "year": "2018",
+   "doi": "10.1016/j.fct.2018.07.033",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fct.2018.07.033",
+   "link_type": "doi",
+   "citation": "Wallace, E.D., Oberlies, N.H., Cech, N.B. and Kellogg, J.J (2018) 'Detection of adulteration in Hydrastis canadensis (goldenseal) dietary supplements via untargeted mass spectrometry-based metabolomics', Food and Chemical Toxicology, 120, pp. 439-447. doi:10.1016/j.fct.2018.07.033",
+   "abstract": "An untargeted mass-spectrometry metabolomics method was developed to detect adulteration in Hydrastis canadensis (goldenseal) dietary supplements, supporting quality control of goldenseal botanical products.",
+   "tier": "preclinical",
+   "display": "Detection of adulteration in Hydrastis canadensis (goldenseal) dietary supplements via untargeted mass spectrometry-based metabolomics",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -29715,6 +30009,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1853",
+   "key": "britton2017goldenseal",
+   "type": "article",
+   "title": "Biochemometrics to Identify Synergists and Additives from Botanical Medicines: A Case Study with Hydrastis canadensis (Goldenseal)",
+   "authors": "Britton, E.R., Kellogg, J.J., Kvalheim, O.M. and Cech, N.B.",
+   "journal": "Journal of Natural Products",
+   "year": "2017",
+   "doi": "10.1021/acs.jnatprod.7b00654",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jnatprod.7b00654",
+   "link_type": "doi",
+   "citation": "Britton, E.R., Kellogg, J.J., Kvalheim, O.M. and Cech, N.B (2017) 'Biochemometrics to Identify Synergists and Additives from Botanical Medicines: A Case Study with Hydrastis canadensis (Goldenseal)', Journal of Natural Products, 81(3), pp. 484-493. doi:10.1021/acs.jnatprod.7b00654",
+   "abstract": "Biochemometrics combined with synergy-directed fractionation identified constituents of goldenseal (Hydrastis canadensis) that contribute additively or synergistically to its antimicrobial activity.",
+   "tier": "preclinical",
+   "display": "Biochemometrics to Identify Synergists and Additives from Botanical Medicines: A Case Study with Hydrastis canadensis (Goldenseal)",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0162",
    "key": "marx2017ginger",
    "type": "article",
@@ -31307,6 +31629,34 @@
     "Cognitive function",
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-1854",
+   "key": "leytelugo2017goldenseal",
+   "type": "article",
+   "title": "Secondary Metabolites from the Leaves of the Medicinal Plant Goldenseal (Hydrastis canadensis)",
+   "authors": "Leyte-Lugo, M., Britton, E.R., Foil, D.H., Brown, A.R., Todd, D.A., Rivera-Chavez, J., Oberlies, N.H. and Cech, N.B.",
+   "journal": "Phytochemistry Letters",
+   "year": "2017",
+   "doi": "10.1016/j.phytol.2017.03.012",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phytol.2017.03.012",
+   "link_type": "doi",
+   "citation": "Leyte-Lugo, M., Britton, E.R., Foil, D.H., Brown, A.R., Todd, D.A., Rivera-Chavez, J., Oberlies, N.H. and Cech, N.B (2017) 'Secondary Metabolites from the Leaves of the Medicinal Plant Goldenseal (Hydrastis canadensis)', Phytochemistry Letters, 20, pp. 54-60. doi:10.1016/j.phytol.2017.03.012",
+   "abstract": "This investigation of Hydrastis canadensis leaves isolated and identified new and known secondary metabolites (flavonoids and alkaloids), characterising the phytochemistry of goldenseal.",
+   "tier": "preclinical",
+   "display": "Secondary Metabolites from the Leaves of the Medicinal Plant Goldenseal (Hydrastis canadensis)",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1058",
@@ -35476,6 +35826,35 @@
    ]
   },
   {
+   "ref_id": "REF-1830",
+   "key": "parenti2015devilsclaw",
+   "type": "article",
+   "title": "Harpagophytum procumbens extract potentiates morphine antinociception in neuropathic rats",
+   "authors": "Parenti, C., Arico, G., Pennisi, M., Venditti, A. and Scoto, G.M.",
+   "journal": "Natural Product Research",
+   "year": "2015",
+   "doi": "10.1080/14786419.2015.1052069",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2015.1052069",
+   "link_type": "doi",
+   "citation": "Parenti, C., Arico, G., Pennisi, M., Venditti, A. and Scoto, G.M (2015) 'Harpagophytum procumbens extract potentiates morphine antinociception in neuropathic rats', Natural Product Research, 30(11), pp. 1248-1255. doi:10.1080/14786419.2015.1052069",
+   "abstract": "Harpagophytum procumbens extract potentiated morphine antinociception in neuropathic rats, supporting the analgesic use of devil's claw in chronic pain.",
+   "tier": "preclinical",
+   "display": "Harpagophytum procumbens extract potentiates morphine antinociception in neuropathic rats",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Analgesic (pain relief)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0596",
    "key": "sampath2015ocimum",
    "type": "article",
@@ -36943,6 +37322,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1838",
+   "key": "lim2014devilsclaw",
+   "type": "article",
+   "title": "Analgesic effect of Harpagophytum procumbens on postoperative and neuropathic pain in rats",
+   "authors": "Lim, D.W., Kim, J.G., Han, D. and Kim, Y.T.",
+   "journal": "Molecules",
+   "year": "2014",
+   "doi": "10.3390/molecules19011060",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules19011060",
+   "link_type": "doi",
+   "citation": "Lim, D.W., Kim, J.G., Han, D. and Kim, Y.T (2014) 'Analgesic effect of Harpagophytum procumbens on postoperative and neuropathic pain in rats', Molecules, 19(1), pp. 1060-1068. doi:10.3390/molecules19011060",
+   "abstract": "Harpagophytum procumbens extract exhibited analgesic effects on postoperative (plantar incision) and neuropathic (spared nerve injury) pain in rats, supporting the analgesic use of devil's claw.",
+   "tier": "preclinical",
+   "display": "Analgesic effect of Harpagophytum procumbens on postoperative and neuropathic pain in rats",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Analgesic (pain relief)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0022",
    "key": "battinelli2014antimicrobial",
    "type": "article",
@@ -37706,6 +38114,66 @@
    "conditions": [
     "Back pain"
    ]
+  },
+  {
+   "ref_id": "REF-1846",
+   "key": "joven2014hibiscus",
+   "type": "article",
+   "title": "Hibiscus sabdariffa extract lowers blood pressure and improves endothelial function",
+   "authors": "Joven, J., March, I., Espinel, E., Fernandez-Arroyo, S., Rodriguez-Gallego, E., Aragones, G., Beltran-Debon, R., Alonso-Villaverde, C., Rios, L., Martin-Paredero, V., Menendez, J.A., Micol, V., Segura-Carretero, A. and Camps, J.",
+   "journal": "Molecular Nutrition & Food Research",
+   "year": "2014",
+   "doi": "10.1002/mnfr.201300774",
+   "url": "",
+   "link": "https://doi.org/10.1002/mnfr.201300774",
+   "link_type": "doi",
+   "citation": "Joven, J., March, I., Espinel, E., Fernandez-Arroyo, S., Rodriguez-Gallego, E., Aragones, G., Beltran-Debon, R., Alonso-Villaverde, C., Rios, L., Martin-Paredero, V., Menendez, J.A., Micol, V., Segura-Carretero, A. and Camps, J (2014) 'Hibiscus sabdariffa extract lowers blood pressure and improves endothelial function', Molecular Nutrition & Food Research, 58(6), pp. 1374-1378. doi:10.1002/mnfr.201300774",
+   "abstract": "Hibiscus sabdariffa polyphenol extract lowered blood pressure and improved endothelial function in patients with metabolic syndrome and in spontaneously hypertensive rats, supporting its antihypertensive use.",
+   "tier": "clinical",
+   "display": "Hibiscus sabdariffa extract lowers blood pressure and improves endothelial function",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Antihypertensive"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1840",
+   "key": "dacostarocha2014hibiscus",
+   "type": "article",
+   "title": "Hibiscus sabdariffa L. - a phytochemical and pharmacological review",
+   "authors": "Da-Costa-Rocha, I., Bonnlaender, B., Sievers, H., Pischel, I. and Heinrich, M.",
+   "journal": "Food Chemistry",
+   "year": "2014",
+   "doi": "10.1016/j.foodchem.2014.05.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2014.05.002",
+   "link_type": "doi",
+   "citation": "Da-Costa-Rocha, I., Bonnlaender, B., Sievers, H., Pischel, I. and Heinrich, M (2014) 'Hibiscus sabdariffa L. - a phytochemical and pharmacological review', Food Chemistry, 165, pp. 424-443. doi:10.1016/j.foodchem.2014.05.002",
+   "abstract": "This review of Hibiscus sabdariffa (roselle) summarises its phytochemistry (anthocyanins, organic acids, polyphenols) and pharmacology, including antioxidant, antihypertensive, lipid-lowering and antidiabetic activities.",
+   "tier": "review",
+   "display": "Hibiscus sabdariffa L. - a phytochemical and pharmacological review",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0963",
@@ -39114,6 +39582,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1843",
+   "key": "aziz2013hibiscus",
+   "type": "article",
+   "title": "Effects of Hibiscus sabdariffa L. on serum lipids: a systematic review and meta-analysis",
+   "authors": "Aziz, Z., Wong, S.Y. and Chong, N.J.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2013",
+   "doi": "10.1016/j.jep.2013.09.042",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2013.09.042",
+   "link_type": "doi",
+   "citation": "Aziz, Z., Wong, S.Y. and Chong, N.J (2013) 'Effects of Hibiscus sabdariffa L. on serum lipids: a systematic review and meta-analysis', Journal of Ethnopharmacology, 150(2), pp. 442-450. doi:10.1016/j.jep.2013.09.042",
+   "abstract": "This systematic review and meta-analysis assessed the effects of Hibiscus sabdariffa on serum lipids, providing evidence for its lipid-lowering (cholesterol-reducing) use.",
+   "tier": "review",
+   "display": "Effects of Hibiscus sabdariffa L. on serum lipids: a systematic review and meta-analysis",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Lipid-lowering"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0536",
    "key": "okawara2013diosgenin",
    "type": "article",
@@ -39308,6 +39806,68 @@
     "Dioscorea villosa"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1845",
+   "key": "hopkins2013hibiscus",
+   "type": "article",
+   "title": "Hibiscus sabdariffa L. in the treatment of hypertension and hyperlipidemia: a comprehensive review of animal and human studies",
+   "authors": "Hopkins, A.L., Lamm, M.G., Funk, J.L. and Ritenbaugh, C.",
+   "journal": "Fitoterapia",
+   "year": "2013",
+   "doi": "10.1016/j.fitote.2013.01.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2013.01.003",
+   "link_type": "doi",
+   "citation": "Hopkins, A.L., Lamm, M.G., Funk, J.L. and Ritenbaugh, C (2013) 'Hibiscus sabdariffa L. in the treatment of hypertension and hyperlipidemia: a comprehensive review of animal and human studies', Fitoterapia, 85, pp. 84-94. doi:10.1016/j.fitote.2013.01.003",
+   "abstract": "This comprehensive review of animal and human studies assessed Hibiscus sabdariffa in the treatment of hypertension and hyperlipidemia, supporting its antihypertensive and lipid-lowering cardiovascular use.",
+   "tier": "review",
+   "display": "Hibiscus sabdariffa L. in the treatment of hypertension and hyperlipidemia: a comprehensive review of animal and human studies",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Antihypertensive",
+    "Lipid-lowering"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1848",
+   "key": "pereztorres2013hibiscus",
+   "type": "article",
+   "title": "Hibiscus sabdariffa Linnaeus (Malvaceae), curcumin and resveratrol as alternative medicinal agents against metabolic syndrome",
+   "authors": "Perez-Torres, I., Ruiz-Ramirez, A., Banos, G. and El-Hafidi, M.",
+   "journal": "Cardiovascular & Hematological Agents in Medicinal Chemistry",
+   "year": "2013",
+   "doi": "10.2174/1871525711311010006",
+   "url": "",
+   "link": "https://doi.org/10.2174/1871525711311010006",
+   "link_type": "doi",
+   "citation": "Perez-Torres, I., Ruiz-Ramirez, A., Banos, G. and El-Hafidi, M (2013) 'Hibiscus sabdariffa Linnaeus (Malvaceae), curcumin and resveratrol as alternative medicinal agents against metabolic syndrome', Cardiovascular & Hematological Agents in Medicinal Chemistry, 11(1), pp. 25-37. doi:10.2174/1871525711311010006",
+   "abstract": "This review discusses Hibiscus sabdariffa, curcumin and resveratrol as alternative agents against metabolic syndrome, summarising the antihypertensive, lipid-lowering and antidiabetic effects of roselle.",
+   "tier": "review",
+   "display": "Hibiscus sabdariffa Linnaeus (Malvaceae), curcumin and resveratrol as alternative medicinal agents against metabolic syndrome",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)",
+    "Lipid-lowering"
+   ],
    "conditions": []
   },
   {
@@ -40842,6 +41402,36 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1829",
+   "key": "mncwangi2012devilsclaw",
+   "type": "article",
+   "title": "Devil's Claw - a review of the ethnobotany, phytochemistry and biological activity of Harpagophytum procumbens",
+   "authors": "Mncwangi, N., Chen, W., Vermaak, I., Viljoen, A.M. and Gericke, N.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2012",
+   "doi": "10.1016/j.jep.2012.08.013",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2012.08.013",
+   "link_type": "doi",
+   "citation": "Mncwangi, N., Chen, W., Vermaak, I., Viljoen, A.M. and Gericke, N (2012) 'Devil's Claw - a review of the ethnobotany, phytochemistry and biological activity of Harpagophytum procumbens', Journal of Ethnopharmacology, 143(3), pp. 755-771. doi:10.1016/j.jep.2012.08.013",
+   "abstract": "This review of devil's claw (Harpagophytum procumbens) covers its ethnobotany, iridoid-glycoside phytochemistry (harpagoside, harpagide) and its analgesic, anti-inflammatory, antioxidant, anti-diabetic and antimicrobial biological activities.",
+   "tier": "review",
+   "display": "Devil's Claw - a review of the ethnobotany, phytochemistry and biological activity of Harpagophytum procumbens",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -42999,6 +43589,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1852",
+   "key": "junio2011goldenseal",
+   "type": "article",
+   "title": "Synergy-directed fractionation of botanical medicines: a case study with goldenseal (Hydrastis canadensis)",
+   "authors": "Junio, H.A., Sy-Cordero, A.A., Ettefagh, K.A., Burns, J.T., Micko, K.T., Graf, T.N., Richter, S.J., Cannon, R.E., Oberlies, N.H. and Cech, N.B.",
+   "journal": "Journal of Natural Products",
+   "year": "2011",
+   "doi": "10.1021/np200336g",
+   "url": "",
+   "link": "https://doi.org/10.1021/np200336g",
+   "link_type": "doi",
+   "citation": "Junio, H.A., Sy-Cordero, A.A., Ettefagh, K.A., Burns, J.T., Micko, K.T., Graf, T.N., Richter, S.J., Cannon, R.E., Oberlies, N.H. and Cech, N.B (2011) 'Synergy-directed fractionation of botanical medicines: a case study with goldenseal (Hydrastis canadensis)', Journal of Natural Products, 74(7), pp. 1621-1629. doi:10.1021/np200336g",
+   "abstract": "Synergy-directed fractionation of goldenseal (Hydrastis canadensis) identified flavonoid constituents that act synergistically with berberine to enhance antimicrobial activity, characterising the combined action of goldenseal constituents.",
+   "tier": "preclinical",
+   "display": "Synergy-directed fractionation of botanical medicines: a case study with goldenseal (Hydrastis canadensis)",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0458",
    "key": "belcaro2011teca",
    "type": "article",
@@ -43801,6 +44421,36 @@
    ]
   },
   {
+   "ref_id": "REF-1850",
+   "key": "ettefagh2010goldenseal",
+   "type": "article",
+   "title": "Goldenseal (Hydrastis canadensis L.) extracts synergistically enhance the antibacterial activity of berberine via efflux pump inhibition",
+   "authors": "Ettefagh, K.A., Burns, J.T., Junio, H.A., Kaatz, G.W. and Cech, N.B.",
+   "journal": "Planta Medica",
+   "year": "2010",
+   "doi": "10.1055/s-0030-1250606",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0030-1250606",
+   "link_type": "doi",
+   "citation": "Ettefagh, K.A., Burns, J.T., Junio, H.A., Kaatz, G.W. and Cech, N.B (2010) 'Goldenseal (Hydrastis canadensis L.) extracts synergistically enhance the antibacterial activity of berberine via efflux pump inhibition', Planta Medica, 77(8), pp. 835-840. doi:10.1055/s-0030-1250606",
+   "abstract": "Goldenseal (Hydrastis canadensis) extracts synergistically enhanced the antibacterial activity of their alkaloid berberine via bacterial efflux-pump inhibition, supporting the antimicrobial use of goldenseal.",
+   "tier": "preclinical",
+   "display": "Goldenseal (Hydrastis canadensis L.) extracts synergistically enhance the antibacterial activity of berberine via efflux pump inhibition",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0001",
    "key": "adolphe2010consumption",
    "type": "article",
@@ -44293,6 +44943,34 @@
     "Cognitive function",
     "Fatigue / low energy"
    ]
+  },
+  {
+   "ref_id": "REF-1857",
+   "key": "douglas2010goldenseal",
+   "type": "article",
+   "title": "Seasonal variation of biomass and bioactive alkaloid content of goldenseal, Hydrastis canadensis",
+   "authors": "Douglas, J.A., Follett, J.M., Parmenter, G.A., Sansom, C.E., Perry, N.B. and Littler, R.A.",
+   "journal": "Fitoterapia",
+   "year": "2010",
+   "doi": "10.1016/j.fitote.2010.06.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2010.06.006",
+   "link_type": "doi",
+   "citation": "Douglas, J.A., Follett, J.M., Parmenter, G.A., Sansom, C.E., Perry, N.B. and Littler, R.A (2010) 'Seasonal variation of biomass and bioactive alkaloid content of goldenseal, Hydrastis canadensis', Fitoterapia, 81(7), pp. 925-928. doi:10.1016/j.fitote.2010.06.006",
+   "abstract": "Seasonal variation in biomass and bioactive alkaloid (berberine, hydrastine) content of goldenseal (Hydrastis canadensis) roots and rhizomes was characterised, documenting the active constituents of goldenseal.",
+   "tier": "preclinical",
+   "display": "Seasonal variation of biomass and bioactive alkaloid content of goldenseal, Hydrastis canadensis",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1382",
@@ -45214,6 +45892,36 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-1844",
+   "key": "wahabi2009hibiscus",
+   "type": "article",
+   "title": "The effectiveness of Hibiscus sabdariffa in the treatment of hypertension: a systematic review",
+   "authors": "Wahabi, H.A., Alansary, L.A., Al-Sabban, A.H. and Glasziou, P.",
+   "journal": "Phytomedicine",
+   "year": "2009",
+   "doi": "10.1016/j.phymed.2009.09.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2009.09.002",
+   "link_type": "doi",
+   "citation": "Wahabi, H.A., Alansary, L.A., Al-Sabban, A.H. and Glasziou, P (2009) 'The effectiveness of Hibiscus sabdariffa in the treatment of hypertension: a systematic review', Phytomedicine, 17(2), pp. 83-86. doi:10.1016/j.phymed.2009.09.002",
+   "abstract": "This systematic review evaluated the effectiveness of Hibiscus sabdariffa in the treatment of hypertension, supporting its blood-pressure-lowering antihypertensive use.",
+   "tier": "review",
+   "display": "The effectiveness of Hibiscus sabdariffa in the treatment of hypertension: a systematic review",
+   "plants": [
+    "Hibiscus",
+    "Karkade",
+    "Roselle",
+    "Sorrel"
+   ],
+   "scientific": [
+    "Hibiscus sabdariffa"
+   ],
+   "actions": [
+    "Antihypertensive"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1344",
@@ -47303,6 +48011,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-1855",
+   "key": "gurley2007goldenseal",
+   "type": "article",
+   "title": "Supplementation with goldenseal (Hydrastis canadensis), but not kava kava (Piper methysticum), inhibits human CYP3A activity in vivo",
+   "authors": "Gurley, B.J., Swain, A., Hubbard, M.A., Hartsfield, F., Thaden, J., Williams, D.K., Gentry, W.B. and Tong, Y.",
+   "journal": "Clinical Pharmacology and Therapeutics",
+   "year": "2007",
+   "doi": "10.1038/sj.clpt.6100222",
+   "url": "",
+   "link": "https://doi.org/10.1038/sj.clpt.6100222",
+   "link_type": "doi",
+   "citation": "Gurley, B.J., Swain, A., Hubbard, M.A., Hartsfield, F., Thaden, J., Williams, D.K., Gentry, W.B. and Tong, Y (2007) 'Supplementation with goldenseal (Hydrastis canadensis), but not kava kava (Piper methysticum), inhibits human CYP3A activity in vivo', Clinical Pharmacology and Therapeutics, 83(1), pp. 61-69. doi:10.1038/sj.clpt.6100222",
+   "abstract": "In a randomized clinical trial, supplementation with goldenseal (Hydrastis canadensis) inhibited human CYP3A activity in vivo, indicating a clinically relevant herb-drug interaction potential of goldenseal.",
+   "tier": "rct",
+   "display": "Supplementation with goldenseal (Hydrastis canadensis), but not kava kava (Piper methysticum), inhibits human CYP3A activity in vivo",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1690",
    "key": "prior2007falcarindiol",
    "type": "article",
@@ -47950,6 +48686,36 @@
     "Pain (general)",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1834",
+   "key": "brien2006devilsclaw",
+   "type": "article",
+   "title": "Devil's Claw (Harpagophytum procumbens) as a treatment for osteoarthritis: a review of efficacy and safety",
+   "authors": "Brien, S., Lewith, G.T. and McGregor, G.",
+   "journal": "Journal of Alternative and Complementary Medicine",
+   "year": "2006",
+   "doi": "10.1089/acm.2006.12.981",
+   "url": "",
+   "link": "https://doi.org/10.1089/acm.2006.12.981",
+   "link_type": "doi",
+   "citation": "Brien, S., Lewith, G.T. and McGregor, G (2006) 'Devil's Claw (Harpagophytum procumbens) as a treatment for osteoarthritis: a review of efficacy and safety', Journal of Alternative and Complementary Medicine, 12(10), pp. 981-993. doi:10.1089/acm.2006.12.981",
+   "abstract": "This review of efficacy and safety found devil's claw (Harpagophytum procumbens) a beneficial and well-tolerated traditional remedy for osteoarthritis pain, with fewer adverse effects than NSAIDs.",
+   "tier": "review",
+   "display": "Devil's Claw (Harpagophytum procumbens) as a treatment for osteoarthritis: a review of efficacy and safety",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0288",
@@ -50474,6 +51240,35 @@
    ]
   },
   {
+   "ref_id": "REF-1839",
+   "key": "jang2003devilsclaw",
+   "type": "article",
+   "title": "Harpagophytum procumbens suppresses lipopolysaccharide-stimulated expressions of cyclooxygenase-2 and inducible nitric oxide synthase in fibroblast cell line L929",
+   "authors": "Jang, M., Lim, S., Han, S., Park, H., Shin, I., Kim, J., Kim, N., Lee, J., Kim, K. and Kim, C.",
+   "journal": "Journal of Pharmacological Sciences",
+   "year": "2003",
+   "doi": "10.1254/jphs.93.367",
+   "url": "",
+   "link": "https://doi.org/10.1254/jphs.93.367",
+   "link_type": "doi",
+   "citation": "Jang, M., Lim, S., Han, S., Park, H., Shin, I., Kim, J., Kim, N., Lee, J., Kim, K. and Kim, C (2003) 'Harpagophytum procumbens suppresses lipopolysaccharide-stimulated expressions of cyclooxygenase-2 and inducible nitric oxide synthase in fibroblast cell line L929', Journal of Pharmacological Sciences, 93(3), pp. 367-371. doi:10.1254/jphs.93.367",
+   "abstract": "Harpagophytum procumbens suppressed lipopolysaccharide-stimulated expression of cyclooxygenase-2 and inducible nitric oxide synthase in L929 fibroblasts, providing a molecular basis for the anti-inflammatory use of devil's claw.",
+   "tier": "preclinical",
+   "display": "Harpagophytum procumbens suppresses lipopolysaccharide-stimulated expressions of cyclooxygenase-2 and inducible nitric oxide synthase in fibroblast cell line L929",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1799",
    "key": "verotta2003hypericum",
    "type": "article",
@@ -50500,6 +51295,37 @@
    ],
    "actions": [
     "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-1851",
+   "key": "mahady2003goldenseal",
+   "type": "article",
+   "title": "In vitro susceptibility of Helicobacter pylori to isoquinoline alkaloids from Sanguinaria canadensis and Hydrastis canadensis",
+   "authors": "Mahady, G.B., Pendland, S.L., Stoia, A. and Chadwick, L.R.",
+   "journal": "Phytotherapy Research",
+   "year": "2003",
+   "doi": "10.1002/ptr.1108",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.1108",
+   "link_type": "doi",
+   "citation": "Mahady, G.B., Pendland, S.L., Stoia, A. and Chadwick, L.R (2003) 'In vitro susceptibility of Helicobacter pylori to isoquinoline alkaloids from Sanguinaria canadensis and Hydrastis canadensis', Phytotherapy Research, 17(3), pp. 217-221. doi:10.1002/ptr.1108",
+   "abstract": "Isoquinoline alkaloids from Hydrastis canadensis (and Sanguinaria canadensis), plants used for gastrointestinal ailments, inhibited Helicobacter pylori in vitro, supporting the antimicrobial and digestive use of goldenseal.",
+   "tier": "preclinical",
+   "display": "In vitro susceptibility of Helicobacter pylori to isoquinoline alkaloids from Sanguinaria canadensis and Hydrastis canadensis",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Digestive aid"
    ],
    "conditions": []
   },
@@ -53701,6 +54527,36 @@
     "Respiratory support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-1837",
+   "key": "baghdikian1997devilsclaw",
+   "type": "article",
+   "title": "An analytical study, anti-inflammatory and analgesic effects of Harpagophytum procumbens and Harpagophytum zeyheri",
+   "authors": "Baghdikian, B., Lanhers, M.C., Fleurentin, J., Ollivier, E., Maillard, C., Balansard, G. and Mortier, F.",
+   "journal": "Planta Medica",
+   "year": "1997",
+   "doi": "10.1055/s-2006-957638",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-957638",
+   "link_type": "doi",
+   "citation": "Baghdikian, B., Lanhers, M.C., Fleurentin, J., Ollivier, E., Maillard, C., Balansard, G. and Mortier, F (1997) 'An analytical study, anti-inflammatory and analgesic effects of Harpagophytum procumbens and Harpagophytum zeyheri', Planta Medica, 63(2), pp. 171-176. doi:10.1055/s-2006-957638",
+   "abstract": "This study characterised the iridoids of Harpagophytum procumbens (harpagoside) and demonstrated the anti-inflammatory and analgesic effects of devil's claw extracts in experimental models.",
+   "tier": "preclinical",
+   "display": "An analytical study, anti-inflammatory and analgesic effects of Harpagophytum procumbens and Harpagophytum zeyheri",
+   "plants": [
+    "Devil's Claw",
+    "Grapple plant",
+    "Wood spider"
+   ],
+   "scientific": [
+    "Harpagophytum procumbens"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1403",

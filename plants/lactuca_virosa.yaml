@@ -32,11 +32,13 @@ actions:
   - REF-0526
   - REF-0527
   - REF-0622
+  - REF-2060
   status: needs-review
 - action: antitussive
   note: Antitussive for an irritable, dry cough (traditional)
   reference_ids:
   - REF-0526
+  - REF-2059
   status: needs-review
 - action: anxiolytic
   note: Calming for nervous tension and restlessness
@@ -49,6 +51,9 @@ actions:
   reference_ids:
   - REF-0526
   - REF-0622
+  - REF-2060
+  - REF-2061
+  - REF-2062
   status: needs-review
 indications:
 - condition: anxiety
@@ -120,6 +125,13 @@ references:
 - REF-0854
 - REF-0855
 - REF-0856
+- REF-0622
+- REF-2059
+- REF-2060
+- REF-2061
+- REF-2062
+- REF-2063
+- REF-2064
 provenance: website+pubmed+symptom-tool
 status: needs-review
 last_updated: '2026-06-20'
@@ -131,4 +143,6 @@ internal_notes: 'Enriched 2026-06-12 from general literature (Herbal Reality and
   and sedative activity in mice (REF-0622), supporting the analgesic and sedative actions mechanistically
   (preclinical). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
-  bucket (least-cited enrichment): REF-0854, REF-0855, REF-0856.'
+  bucket (least-cited enrichment): REF-0854, REF-0855, REF-0856. | 2026-06-20: enriched to >=10 scientific
+  publications: added 7 PubMed-verified @article sources (REF-0622, REF-2059, REF-2060, REF-2061, REF-2062,
+  REF-2063, REF-2064) — woven into relevant actions/indications and the plant-level references bucket.'

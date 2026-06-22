@@ -14081,7 +14081,11 @@
      "reference_ids": [
       "REF-0531",
       "REF-0532",
-      "REF-0533"
+      "REF-0533",
+      "REF-2049",
+      "REF-0831",
+      "REF-2050",
+      "REF-2051"
      ],
      "status": "verified"
     },
@@ -14089,7 +14093,8 @@
      "action": "antioxidant",
      "note": "Anti-inflammatory and antioxidant (supports irritated/atopic skin)",
      "reference_ids": [
-      "REF-0532"
+      "REF-0532",
+      "REF-0831"
      ],
      "status": "verified"
     },
@@ -14099,7 +14104,10 @@
      "reference_ids": [
       "REF-0531",
       "REF-0532",
-      "REF-0533"
+      "REF-0533",
+      "REF-2051",
+      "REF-2053",
+      "REF-2054"
      ],
      "status": "verified"
     },
@@ -14108,7 +14116,8 @@
      "note": "Vulnerary for minor wounds, bruises and insect bites",
      "reference_ids": [
       "REF-0531",
-      "REF-0533"
+      "REF-0533",
+      "REF-2052"
      ],
      "status": "verified"
     }
@@ -14211,7 +14220,17 @@
    "references": [
     "REF-0830",
     "REF-0831",
-    "REF-0832"
+    "REF-0832",
+    "REF-2049",
+    "REF-2050",
+    "REF-2051",
+    "REF-2052",
+    "REF-2053",
+    "REF-2054",
+    "REF-2055",
+    "REF-2056",
+    "REF-2057",
+    "REF-2058"
    ],
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
@@ -16411,7 +16430,8 @@
      "reference_ids": [
       "REF-0526",
       "REF-0527",
-      "REF-0622"
+      "REF-0622",
+      "REF-2060"
      ],
      "status": "needs-review"
     },
@@ -16419,7 +16439,8 @@
      "action": "antitussive",
      "note": "Antitussive for an irritable, dry cough (traditional)",
      "reference_ids": [
-      "REF-0526"
+      "REF-0526",
+      "REF-2059"
      ],
      "status": "needs-review"
     },
@@ -16436,7 +16457,10 @@
      "note": "Sedative for sleeplessness / insomnia - lactucin and lactucopicrin showed sedative activity in animal models",
      "reference_ids": [
       "REF-0526",
-      "REF-0622"
+      "REF-0622",
+      "REF-2060",
+      "REF-2061",
+      "REF-2062"
      ],
      "status": "needs-review"
     }
@@ -16536,7 +16560,14 @@
    "references": [
     "REF-0854",
     "REF-0855",
-    "REF-0856"
+    "REF-0856",
+    "REF-0622",
+    "REF-2059",
+    "REF-2060",
+    "REF-2061",
+    "REF-2062",
+    "REF-2063",
+    "REF-2064"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
@@ -20090,7 +20121,8 @@
       "REF-0094",
       "REF-0104",
       "REF-0142",
-      "REF-0285"
+      "REF-0285",
+      "REF-2070"
      ],
      "status": "verified"
     },
@@ -20103,7 +20135,13 @@
       "REF-0094",
       "REF-0104",
       "REF-0142",
-      "REF-0285"
+      "REF-0285",
+      "REF-2065",
+      "REF-2066",
+      "REF-2068",
+      "REF-2072",
+      "REF-2073",
+      "REF-2074"
      ],
      "status": "verified"
     },
@@ -20116,7 +20154,8 @@
       "REF-0094",
       "REF-0104",
       "REF-0142",
-      "REF-0285"
+      "REF-0285",
+      "REF-2071"
      ],
      "status": "verified"
     },
@@ -20129,7 +20168,8 @@
       "REF-0094",
       "REF-0104",
       "REF-0142",
-      "REF-0285"
+      "REF-0285",
+      "REF-2069"
      ],
      "status": "verified"
     },
@@ -20142,7 +20182,9 @@
       "REF-0094",
       "REF-0104",
       "REF-0142",
-      "REF-0285"
+      "REF-0285",
+      "REF-2067",
+      "REF-2075"
      ],
      "status": "verified"
     },
@@ -20155,7 +20197,10 @@
       "REF-0094",
       "REF-0104",
       "REF-0142",
-      "REF-0285"
+      "REF-0285",
+      "REF-2065",
+      "REF-2067",
+      "REF-2072"
      ],
      "status": "verified"
     },
@@ -20194,7 +20239,8 @@
       "REF-0094",
       "REF-0104",
       "REF-0142",
-      "REF-0285"
+      "REF-0285",
+      "REF-2068"
      ],
      "status": "verified"
     }
@@ -20452,9 +20498,22 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-2065",
+    "REF-2066",
+    "REF-2067",
+    "REF-2068",
+    "REF-2069",
+    "REF-2070",
+    "REF-2071",
+    "REF-2072",
+    "REF-2073",
+    "REF-2074",
+    "REF-2075"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "ocimum-tenuiflorum",

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2048,
+ "count": 2075,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -121,6 +121,39 @@
     "Achillea millefolium"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2067",
+   "key": "chatterjee2025nigella",
+   "type": "article",
+   "title": "A Comprehensive Review of the Antioxidant, Antimicrobial, and Therapeutic Efficacies of Black Cumin (Nigella sativa L.) Seed Oil and Its Thymoquinone",
+   "authors": "Chatterjee, G., Saha, A.K., Khurshid, S. and Saha, A.",
+   "journal": "Journal of Medicinal Food",
+   "year": "2025",
+   "doi": "10.1089/jmf.2024.k.0149",
+   "url": "",
+   "link": "https://doi.org/10.1089/jmf.2024.k.0149",
+   "link_type": "doi",
+   "citation": "Chatterjee, G., Saha, A.K., Khurshid, S. and Saha, A (2025) 'A Comprehensive Review of the Antioxidant, Antimicrobial, and Therapeutic Efficacies of Black Cumin (Nigella sativa L.) Seed Oil and Its Thymoquinone', Journal of Medicinal Food, 28(4), pp. 325-339. doi:10.1089/jmf.2024.k.0149",
+   "abstract": "This review focuses on the antioxidant, antimicrobial and therapeutic efficacies of black cumin (Nigella sativa) seed oil and its bioactive component thymoquinone.",
+   "tier": "review",
+   "display": "A Comprehensive Review of the Antioxidant, Antimicrobial, and Therapeutic Efficacies of Black Cumin (Nigella sativa L.) Seed Oil and Its Thymoquinone",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Antimicrobial",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -3826,6 +3859,36 @@
    "conditions": [
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2050",
+   "key": "amendola2024hamamelis",
+   "type": "article",
+   "title": "Hamamelis virginiana L. extract presents antimicrobial and antibiofilm effects, absence of cytotoxicity, anti-inflammatory action, and potential to fight infections through the nitric oxide production by macrophages",
+   "authors": "Amendola, I., Viegas, D.J., Freitas, E.T., Oliveira, J.R., Santos, J.G., Oliveira, F.E., Lagareiro Netto, A.A., Marcucci, M.C., Oliveira, L.D. and Back-Brito, G.N.",
+   "journal": "Anais da Academia Brasileira de Ciencias",
+   "year": "2024",
+   "doi": "10.1590/0001-3765202320200031",
+   "url": "",
+   "link": "https://doi.org/10.1590/0001-3765202320200031",
+   "link_type": "doi",
+   "citation": "Amendola, I., Viegas, D.J., Freitas, E.T., Oliveira, J.R., Santos, J.G., Oliveira, F.E., Lagareiro Netto, A.A., Marcucci, M.C., Oliveira, L.D. and Back-Brito, G.N (2024) 'Hamamelis virginiana L. extract presents antimicrobial and antibiofilm effects, absence of cytotoxicity, anti-inflammatory action, and potential to fight infections through the nitric oxide production by macrophages', Anais da Academia Brasileira de Ciencias, 96(1), pp. e20200031. doi:10.1590/0001-3765202320200031",
+   "abstract": "Hamamelis virginiana extract showed antimicrobial and antibiofilm effects against Candida and bacteria, anti-inflammatory action and nitric-oxide modulation in macrophages without cytotoxicity, supporting the antimicrobial and anti-inflammatory use of witch hazel.",
+   "tier": "preclinical",
+   "display": "Hamamelis virginiana L. extract presents antimicrobial and antibiofilm effects, absence of cytotoxicity, anti-inflammatory action, and potential to fight infections through the nitric oxide production by macrophages",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1430",
@@ -8413,6 +8476,34 @@
    ]
   },
   {
+   "ref_id": "REF-2058",
+   "key": "cheesman2023hamamelis",
+   "type": "article",
+   "title": "Hamamelis virginiana L. Leaf Extracts Inhibit the Growth of Antibiotic-Resistant Gram-Positive and Gram-Negative Bacteria",
+   "authors": "Cheesman, M.J., Alcorn, S.R., White, A. and Cock, I.E.",
+   "journal": "Antibiotics",
+   "year": "2023",
+   "doi": "10.3390/antibiotics12071195",
+   "url": "",
+   "link": "https://doi.org/10.3390/antibiotics12071195",
+   "link_type": "doi",
+   "citation": "Cheesman, M.J., Alcorn, S.R., White, A. and Cock, I.E (2023) 'Hamamelis virginiana L. Leaf Extracts Inhibit the Growth of Antibiotic-Resistant Gram-Positive and Gram-Negative Bacteria', Antibiotics, 12(7), pp. 1195. doi:10.3390/antibiotics12071195",
+   "abstract": "Water and methanolic leaf extracts of Hamamelis virginiana inhibited the growth of antibiotic-resistant bacteria including MRSA and ESBL strains, supporting the antimicrobial use of witch hazel.",
+   "tier": "preclinical",
+   "display": "Hamamelis virginiana L. Leaf Extracts Inhibit the Growth of Antibiotic-Resistant Gram-Positive and Gram-Negative Bacteria",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1434",
    "key": "kamel2023tulsi",
    "type": "article",
@@ -8928,6 +9019,38 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2069",
+   "key": "shaukat2023nigella",
+   "type": "article",
+   "title": "Mechanism of the antidiabetic action of Nigella sativa and Thymoquinone: a review",
+   "authors": "Shaukat, A., Zaidi, A., Anwar, H. and Kizilbash, N.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2023",
+   "doi": "10.3389/fnut.2023.1126272",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2023.1126272",
+   "link_type": "doi",
+   "citation": "Shaukat, A., Zaidi, A., Anwar, H. and Kizilbash, N (2023) 'Mechanism of the antidiabetic action of Nigella sativa and Thymoquinone: a review', Frontiers in Nutrition, 10, pp. 1126272. doi:10.3389/fnut.2023.1126272",
+   "abstract": "This review describes the antidiabetic mechanisms of Nigella sativa (black cumin) and thymoquinone, including improved glucose tolerance, decreased hepatic gluconeogenesis and stimulated insulin secretion.",
+   "tier": "review",
+   "display": "Mechanism of the antidiabetic action of Nigella sativa and Thymoquinone: a review",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0870",
@@ -11100,7 +11223,10 @@
    "scientific": [
     "Hamamelis virginiana"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -15398,6 +15524,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2049",
+   "key": "piazza2022ahamamelis",
+   "type": "article",
+   "title": "Unveiling the Ability of Witch Hazel (Hamamelis virginiana L.) Bark Extract to Impair Keratinocyte Inflammatory Cascade Typical of Atopic Eczema",
+   "authors": "Piazza, S., Martinelli, G., Magnavacca, A., Fumagalli, M., Pozzoli, C., Terno, M., Canilli, L., Angarano, M., Maranta, N., Dell'Agli, M. and Sangiovanni, E.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2022",
+   "doi": "10.3390/ijms23169279",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms23169279",
+   "link_type": "doi",
+   "citation": "Piazza, S., Martinelli, G., Magnavacca, A., Fumagalli, M., Pozzoli, C., Terno, M., Canilli, L., Angarano, M., Maranta, N., Dell'Agli, M. and Sangiovanni, E (2022) 'Unveiling the Ability of Witch Hazel (Hamamelis virginiana L.) Bark Extract to Impair Keratinocyte Inflammatory Cascade Typical of Atopic Eczema', International Journal of Molecular Sciences, 23(16), pp. 9279. doi:10.3390/ijms23169279",
+   "abstract": "Hamamelis virginiana bark extract impaired the keratinocyte inflammatory cascade typical of atopic eczema by inhibiting NF-kB-driven cytokine release, supporting the anti-inflammatory topical use of witch hazel.",
+   "tier": "preclinical",
+   "display": "Unveiling the Ability of Witch Hazel (Hamamelis virginiana L.) Bark Extract to Impair Keratinocyte Inflammatory Cascade Typical of Atopic Eczema",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0896",
    "key": "feduraev2022rumex",
    "type": "article",
@@ -16332,6 +16488,39 @@
     "Anticancer (preclinical)",
     "Antioxidant",
     "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2065",
+   "key": "hannan2021nigella",
+   "type": "article",
+   "title": "Black Cumin (Nigella sativa L.): A Comprehensive Review on Phytochemistry, Health Benefits, Molecular Pharmacology, and Safety",
+   "authors": "Hannan, M.A., Rahman, M.A., Sohag, A.A.M., Uddin, M.J., Dash, R., Sikder, M.H., Rahman, M.S., Timalsina, B., Munni, Y.A. and Sarker, P.P.",
+   "journal": "Nutrients",
+   "year": "2021",
+   "doi": "10.3390/nu13061784",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu13061784",
+   "link_type": "doi",
+   "citation": "Hannan, M.A., Rahman, M.A., Sohag, A.A.M., Uddin, M.J., Dash, R., Sikder, M.H., Rahman, M.S., Timalsina, B., Munni, Y.A. and Sarker, P.P (2021) 'Black Cumin (Nigella sativa L.): A Comprehensive Review on Phytochemistry, Health Benefits, Molecular Pharmacology, and Safety', Nutrients, 13(6), pp. 1784. doi:10.3390/nu13061784",
+   "abstract": "This comprehensive review of black cumin (Nigella sativa) and its main bioactive thymoquinone details its antioxidant, anti-inflammatory, immune-promoting and metabolic, cardiovascular, digestive, hepatic and neurological health benefits.",
+   "tier": "review",
+   "display": "Black Cumin (Nigella sativa L.): A Comprehensive Review on Phytochemistry, Health Benefits, Molecular Pharmacology, and Safety",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -17992,6 +18181,36 @@
     "Taraxacum officinale"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2052",
+   "key": "natella2021hamamelis",
+   "type": "article",
+   "title": "Human Metabolites of Hamamelis virginiana (Extract) Modulate Fibroblast Extracellular Matrix Components in Response to UV-A Irradiation",
+   "authors": "Natella, F., Guantario, B., Ambra, R., Ranaldi, G., Intorre, F., Burki, C. and Canali, R.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2021",
+   "doi": "10.3389/fphar.2021.747638",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2021.747638",
+   "link_type": "doi",
+   "citation": "Natella, F., Guantario, B., Ambra, R., Ranaldi, G., Intorre, F., Burki, C. and Canali, R (2021) 'Human Metabolites of Hamamelis virginiana (Extract) Modulate Fibroblast Extracellular Matrix Components in Response to UV-A Irradiation', Frontiers in Pharmacology, 12, pp. 747638. doi:10.3389/fphar.2021.747638",
+   "abstract": "In a crossover trial, human metabolites of orally administered Hamamelis virginiana extract activated genes involved in skin-repair processes in UV-A-irradiated dermal fibroblasts, supporting a vulnerary skin-protective use of witch hazel.",
+   "tier": "rct",
+   "display": "Human Metabolites of Hamamelis virginiana (Extract) Modulate Fibroblast Extracellular Matrix Components in Response to UV-A Irradiation",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [
+    "Vulnerary (wound healing)"
+   ],
    "conditions": []
   },
   {
@@ -26531,6 +26750,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2072",
+   "key": "bordoni2019nigella",
+   "type": "article",
+   "title": "Antioxidant and Anti-Inflammatory Properties of Nigella sativa Oil in Human Pre-Adipocytes",
+   "authors": "Bordoni, L., Fedeli, D., Nasuti, C., Maggi, F., Papa, F., Wabitsch, M., De Caterina, R. and Gabbianelli, R.",
+   "journal": "Antioxidants",
+   "year": "2019",
+   "doi": "10.3390/antiox8020051",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox8020051",
+   "link_type": "doi",
+   "citation": "Bordoni, L., Fedeli, D., Nasuti, C., Maggi, F., Papa, F., Wabitsch, M., De Caterina, R. and Gabbianelli, R (2019) 'Antioxidant and Anti-Inflammatory Properties of Nigella sativa Oil in Human Pre-Adipocytes', Antioxidants, 8(2), pp. 51. doi:10.3390/antiox8020051",
+   "abstract": "Nigella sativa (black cumin) seed oil showed antioxidant and anti-inflammatory properties in human pre-adipocytes, supporting its anti-inflammatory metabolic use.",
+   "tier": "preclinical",
+   "display": "Antioxidant and Anti-Inflammatory Properties of Nigella sativa Oil in Human Pre-Adipocytes",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0402",
    "key": "zhang2019astragaloside",
    "type": "article",
@@ -26627,6 +26879,36 @@
    ],
    "actions": [
     "Digestive aid"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2062",
+   "key": "lofaro2019lactuca",
+   "type": "article",
+   "title": "Biomedical analysis of New Psychoactive Substances (NPS) of natural origin",
+   "authors": "Lo Faro, A.F., Di Trana, A., La Maida, N., Tagliabracci, A., Giorgetti, R. and Busardo, F.P.",
+   "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+   "year": "2019",
+   "doi": "10.1016/j.jpba.2019.112945",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jpba.2019.112945",
+   "link_type": "doi",
+   "citation": "Lo Faro, A.F., Di Trana, A., La Maida, N., Tagliabracci, A., Giorgetti, R. and Busardo, F.P (2019) 'Biomedical analysis of New Psychoactive Substances (NPS) of natural origin', Journal of Pharmaceutical and Biomedical Analysis, 179, pp. 112945. doi:10.1016/j.jpba.2019.112945",
+   "abstract": "This review of psychoactive substances of natural origin includes Lactuca virosa (wild lettuce) among plants with sedative and relaxing properties, summarising the analytical identification of its bioactive principles.",
+   "tier": "review",
+   "display": "Biomedical analysis of New Psychoactive Substances (NPS) of natural origin",
+   "plants": [
+    "Bitter lettuce",
+    "Lactucarium",
+    "Opium lettuce",
+    "Wild Lettuce"
+   ],
+   "scientific": [
+    "Lactuca virosa"
+   ],
+   "actions": [
+    "Sedative / sleep support"
    ],
    "conditions": []
   },
@@ -37287,6 +37569,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2070",
+   "key": "beheshti2016nigella",
+   "type": "article",
+   "title": "Neuropharmacological effects of Nigella sativa",
+   "authors": "Beheshti, F., Khazaei, M. and Hosseini, M.",
+   "journal": "Avicenna Journal of Phytomedicine",
+   "year": "2016",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Neuropharmacological%20effects%20of%20Nigella%20sativa",
+   "link_type": "search",
+   "citation": "Beheshti, F., Khazaei, M. and Hosseini, M (2016) 'Neuropharmacological effects of Nigella sativa', Avicenna Journal of Phytomedicine, 6(1), pp. 104-116.",
+   "abstract": "This review summarises the neuropharmacological effects of Nigella sativa (black cumin), including analgesic, anticonvulsant, antidepressant, anxiolytic and memory-enhancing activities.",
+   "tier": "review",
+   "display": "Neuropharmacological effects of Nigella sativa",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Analgesic (pain relief)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1791",
    "key": "oliveira2016hypericum",
    "type": "article",
@@ -37313,6 +37627,38 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2075",
+   "key": "alattass2016nigella",
+   "type": "article",
+   "title": "Nigella sativa and its active constituent thymoquinone in oral health",
+   "authors": "Al-Attass, S.A., Zahran, F.M. and Turkistany, S.A.",
+   "journal": "Saudi Medical Journal",
+   "year": "2016",
+   "doi": "10.15537/smj.2016.3.13006",
+   "url": "",
+   "link": "https://doi.org/10.15537/smj.2016.3.13006",
+   "link_type": "doi",
+   "citation": "Al-Attass, S.A., Zahran, F.M. and Turkistany, S.A (2016) 'Nigella sativa and its active constituent thymoquinone in oral health', Saudi Medical Journal, 37(3), pp. 235-244. doi:10.15537/smj.2016.3.13006",
+   "abstract": "This review summarises the role of Nigella sativa (black cumin) and thymoquinone in oral health, including antimicrobial activity against oral pathogens, supporting the antimicrobial use of black cumin.",
+   "tier": "review",
+   "display": "Nigella sativa and its active constituent thymoquinone in oral health",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Antimicrobial"
    ],
    "conditions": []
   },
@@ -37573,6 +37919,38 @@
    "actions": [
     "Anticancer (preclinical)",
     "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2073",
+   "key": "gholamnezhad2016nigella",
+   "type": "article",
+   "title": "Preclinical and clinical effects of Nigella sativa and its constituent, thymoquinone: A review",
+   "authors": "Gholamnezhad, Z., Havakhah, S. and Boskabady, M.H.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2016",
+   "doi": "10.1016/j.jep.2016.06.061",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2016.06.061",
+   "link_type": "doi",
+   "citation": "Gholamnezhad, Z., Havakhah, S. and Boskabady, M.H (2016) 'Preclinical and clinical effects of Nigella sativa and its constituent, thymoquinone: A review', Journal of Ethnopharmacology, 190, pp. 372-386. doi:10.1016/j.jep.2016.06.061",
+   "abstract": "This review summarises the preclinical and clinical effects of Nigella sativa (black cumin) and thymoquinone across respiratory, cardiovascular, metabolic, anti-inflammatory and antimicrobial applications.",
+   "tier": "review",
+   "display": "Preclinical and clinical effects of Nigella sativa and its constituent, thymoquinone: A review",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -39787,6 +40165,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2068",
+   "key": "majdalawieh2015nigella",
+   "type": "article",
+   "title": "Immunomodulatory and anti-inflammatory action of Nigella sativa and thymoquinone: A comprehensive review",
+   "authors": "Majdalawieh, A.F. and Fayyad, M.W.",
+   "journal": "International Immunopharmacology",
+   "year": "2015",
+   "doi": "10.1016/j.intimp.2015.06.023",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.intimp.2015.06.023",
+   "link_type": "doi",
+   "citation": "Majdalawieh, A.F. and Fayyad, M.W (2015) 'Immunomodulatory and anti-inflammatory action of Nigella sativa and thymoquinone: A comprehensive review', International Immunopharmacology, 28(1), pp. 295-304. doi:10.1016/j.intimp.2015.06.023",
+   "abstract": "This review details the immunomodulatory and anti-inflammatory actions of Nigella sativa (black cumin) and thymoquinone on immune cells and inflammatory mediators.",
+   "tier": "review",
+   "display": "Immunomodulatory and anti-inflammatory action of Nigella sativa and thymoquinone: A comprehensive review",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2034",
    "key": "matic2015filipendula",
    "type": "article",
@@ -41515,6 +41926,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2071",
+   "key": "shafiq2014nigella",
+   "type": "article",
+   "title": "Cardio-protective and anti-cancer therapeutic potential of Nigella sativa",
+   "authors": "Shafiq, H., Ahmad, A., Masud, T. and Kaleem, M.",
+   "journal": "Iranian Journal of Basic Medical Sciences",
+   "year": "2014",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Cardio-protective%20and%20anti-cancer%20therapeutic%20potential%20of%20Nigella%20sativa",
+   "link_type": "search",
+   "citation": "Shafiq, H., Ahmad, A., Masud, T. and Kaleem, M (2014) 'Cardio-protective and anti-cancer therapeutic potential of Nigella sativa', Iranian Journal of Basic Medical Sciences, 17(12), pp. 967-979.",
+   "abstract": "This review summarises the cardio-protective and anti-cancer therapeutic potential of Nigella sativa (black cumin) and its bioactive compounds including thymoquinone.",
+   "tier": "review",
+   "display": "Cardio-protective and anti-cancer therapeutic potential of Nigella sativa",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0031",
    "key": "boskabady2014carum",
    "type": "article",
@@ -42912,6 +43355,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2057",
+   "key": "theisen2014hamamelis",
+   "type": "article",
+   "title": "Tannins from Hamamelis virginiana bark extract: characterization and improvement of the antiviral efficacy against influenza A virus and human papillomavirus",
+   "authors": "Theisen, L.L., Erdelmeier, C.A.J., Spoden, G.A., Boukhallouk, F., Sausy, A., Florin, L. and Muller, C.P.",
+   "journal": "PLoS One",
+   "year": "2014",
+   "doi": "10.1371/journal.pone.0088062",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0088062",
+   "link_type": "doi",
+   "citation": "Theisen, L.L., Erdelmeier, C.A.J., Spoden, G.A., Boukhallouk, F., Sausy, A., Florin, L. and Muller, C.P (2014) 'Tannins from Hamamelis virginiana bark extract: characterization and improvement of the antiviral efficacy against influenza A virus and human papillomavirus', PLoS One, 9(1), pp. e88062. doi:10.1371/journal.pone.0088062",
+   "abstract": "Tannin-rich Hamamelis virginiana bark extract and a high-molecular-weight condensed-tannin fraction inhibited influenza A virus and human papillomavirus infection in vitro, demonstrating antiviral activity of witch hazel tannins.",
+   "tier": "preclinical",
+   "display": "Tannins from Hamamelis virginiana bark extract: characterization and improvement of the antiviral efficacy against influenza A virus and human papillomavirus",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0024",
    "key": "becker2014anxiolytic",
    "type": "misc",
@@ -43194,6 +43665,38 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-2066",
+   "key": "ahmad2013nigella",
+   "type": "article",
+   "title": "A review on therapeutic potential of Nigella sativa: A miracle herb",
+   "authors": "Ahmad, A., Husain, A., Mujeeb, M., Khan, S.A., Najmi, A.K., Siddique, N.A., Damanhouri, Z.A. and Anwar, F.",
+   "journal": "Asian Pacific Journal of Tropical Biomedicine",
+   "year": "2013",
+   "doi": "10.1016/S2221-1691(13)60075-1",
+   "url": "",
+   "link": "https://doi.org/10.1016/S2221-1691(13)60075-1",
+   "link_type": "doi",
+   "citation": "Ahmad, A., Husain, A., Mujeeb, M., Khan, S.A., Najmi, A.K., Siddique, N.A., Damanhouri, Z.A. and Anwar, F (2013) 'A review on therapeutic potential of Nigella sativa: A miracle herb', Asian Pacific Journal of Tropical Biomedicine, 3(5), pp. 337-352. doi:10.1016/S2221-1691(13)60075-1",
+   "abstract": "This review of Nigella sativa (black cumin) summarises the wide therapeutic potential of its seeds and oil, including anti-inflammatory, antidiabetic, antimicrobial, anticancer and immunomodulatory activities.",
+   "tier": "review",
+   "display": "A review on therapeutic potential of Nigella sativa: A miracle herb",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0569",
@@ -45604,6 +46107,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2055",
+   "key": "duckstein2012hamamelis",
+   "type": "article",
+   "title": "Conversion of phenolic constituents in aqueous Hamamelis virginiana leaf extracts during fermentation",
+   "authors": "Duckstein, S.M., Lorenz, P. and Stintzing, F.C.",
+   "journal": "Phytochemical Analysis",
+   "year": "2012",
+   "doi": "10.1002/pca.2359",
+   "url": "",
+   "link": "https://doi.org/10.1002/pca.2359",
+   "link_type": "doi",
+   "citation": "Duckstein, S.M., Lorenz, P. and Stintzing, F.C (2012) 'Conversion of phenolic constituents in aqueous Hamamelis virginiana leaf extracts during fermentation', Phytochemical Analysis, 23(6), pp. 588-597. doi:10.1002/pca.2359",
+   "abstract": "This study monitored the conversion of gallotannins, flavonol glycosides and hydroxycinnamic acids in aqueous Hamamelis virginiana leaf extracts during fermentation, documenting the phenolic constituents of witch hazel.",
+   "tier": "preclinical",
+   "display": "Conversion of phenolic constituents in aqueous Hamamelis virginiana leaf extracts during fermentation",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1703",
    "key": "sahib2012coriander",
    "type": "article",
@@ -46151,6 +46682,34 @@
    ],
    "scientific": [
     "Chelidonium majus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2056",
+   "key": "sancheztena2012hamamelis",
+   "type": "article",
+   "title": "Hamamelitannin from witch hazel (Hamamelis virginiana) displays specific cytotoxic activity against colon cancer cells",
+   "authors": "Sanchez-Tena, S., Fernandez-Cachon, M.L., Carreras, A., Mateos-Martin, M.L., Costoya, N., Moyer, M.P., Nunez, M.J., Torres, J.L. and Cascante, M.",
+   "journal": "Journal of Natural Products",
+   "year": "2012",
+   "doi": "10.1021/np200426k",
+   "url": "",
+   "link": "https://doi.org/10.1021/np200426k",
+   "link_type": "doi",
+   "citation": "Sanchez-Tena, S., Fernandez-Cachon, M.L., Carreras, A., Mateos-Martin, M.L., Costoya, N., Moyer, M.P., Nunez, M.J., Torres, J.L. and Cascante, M (2012) 'Hamamelitannin from witch hazel (Hamamelis virginiana) displays specific cytotoxic activity against colon cancer cells', Journal of Natural Products, 75(1), pp. 26-33. doi:10.1021/np200426k",
+   "abstract": "Hamamelitannin from Hamamelis virginiana bark showed selective cytotoxic activity against colon cancer cells (apoptosis, S-phase arrest) without harming normal colonocytes, indicating an anticancer potential of witch hazel tannins.",
+   "tier": "preclinical",
+   "display": "Hamamelitannin from witch hazel (Hamamelis virginiana) displays specific cytotoxic activity against colon cancer cells",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
    ],
    "actions": [],
    "conditions": []
@@ -50687,6 +51246,34 @@
    ]
   },
   {
+   "ref_id": "REF-2063",
+   "key": "besharat2009lactuca",
+   "type": "article",
+   "title": "Wild lettuce (Lactuca virosa) toxicity",
+   "authors": "Besharat, S., Besharat, M. and Jabbari, A.",
+   "journal": "BMJ Case Reports",
+   "year": "2009",
+   "doi": "10.1136/bcr.06.2008.0134",
+   "url": "",
+   "link": "https://doi.org/10.1136/bcr.06.2008.0134",
+   "link_type": "doi",
+   "citation": "Besharat, S., Besharat, M. and Jabbari, A (2009) 'Wild lettuce (Lactuca virosa) toxicity', BMJ Case Reports, 2009, pp. bcr0620080134. doi:10.1136/bcr.06.2008.0134",
+   "abstract": "This case series describes toxic effects in eight patients after consuming wild lettuce (Lactuca virosa), documenting the safety profile and central effects of wild lettuce ingestion.",
+   "tier": "preclinical",
+   "display": "Wild lettuce (Lactuca virosa) toxicity",
+   "plants": [
+    "Bitter lettuce",
+    "Lactucarium",
+    "Opium lettuce",
+    "Wild Lettuce"
+   ],
+   "scientific": [
+    "Lactuca virosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0199",
    "key": "preethi2009wound",
    "type": "article",
@@ -54789,6 +55376,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2060",
+   "key": "trojanowska2005lactuca",
+   "type": "article",
+   "title": "Lettuce, Lactuca sp., as a medicinal plant in Polish publications of the 19th century",
+   "authors": "Trojanowska, A.",
+   "journal": "Kwartalnik Historii Nauki i Techniki",
+   "year": "2005",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Lettuce%2C%20Lactuca%20sp.%2C%20as%20a%20medicinal%20plant%20in%20Polish%20publications%20of%20the%2019th%20century",
+   "link_type": "search",
+   "citation": "Trojanowska, A (2005) 'Lettuce, Lactuca sp., as a medicinal plant in Polish publications of the 19th century', Kwartalnik Historii Nauki i Techniki, 50(3-4), pp. 123-134.",
+   "abstract": "This historical review documents that 19th-century Polish medical literature used Lactuca virosa and its dried latex (lactucarium) as a sedative and analgesic, weaker than opium but free of its side effects.",
+   "tier": "traditional",
+   "display": "Lettuce, Lactuca sp., as a medicinal plant in Polish publications of the 19th century",
+   "plants": [
+    "Bitter lettuce",
+    "Lactucarium",
+    "Opium lettuce",
+    "Wild Lettuce"
+   ],
+   "scientific": [
+    "Lactuca virosa"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0552",
    "key": "tassorelli2005parthenolide",
    "type": "article",
@@ -55868,6 +56486,36 @@
    ]
   },
   {
+   "ref_id": "REF-2061",
+   "key": "spadari2003lactuca",
+   "type": "article",
+   "title": "Abuse of Lactuca virosa",
+   "authors": "Spadari, M., Pommier, P., Canioni, D., Arditti, J., David, J.M. and Valli, M.",
+   "journal": "Presse Medicale",
+   "year": "2003",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Abuse%20of%20Lactuca%20virosa",
+   "link_type": "search",
+   "citation": "Spadari, M., Pommier, P., Canioni, D., Arditti, J., David, J.M. and Valli, M (2003) 'Abuse of Lactuca virosa', Presse Medicale, 32(15), pp. 702-703.",
+   "abstract": "This case report describes recreational abuse of Lactuca virosa (wild lettuce) for its sedative and psychoactive effects, documenting the central sedative activity of wild lettuce latex.",
+   "tier": "preclinical",
+   "display": "Abuse of Lactuca virosa",
+   "plants": [
+    "Bitter lettuce",
+    "Lactucarium",
+    "Opium lettuce",
+    "Wild Lettuce"
+   ],
+   "scientific": [
+    "Lactuca virosa"
+   ],
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1563",
    "key": "wolfson2003skullcap",
    "type": "article",
@@ -56828,6 +57476,38 @@
    ]
   },
   {
+   "ref_id": "REF-2074",
+   "key": "ali2003nigella",
+   "type": "article",
+   "title": "Pharmacological and toxicological properties of Nigella sativa",
+   "authors": "Ali, B.H. and Blunden, G.",
+   "journal": "Phytotherapy Research",
+   "year": "2003",
+   "doi": "10.1002/ptr.1309",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.1309",
+   "link_type": "doi",
+   "citation": "Ali, B.H. and Blunden, G (2003) 'Pharmacological and toxicological properties of Nigella sativa', Phytotherapy Research, 17(4), pp. 299-305. doi:10.1002/ptr.1309",
+   "abstract": "This review of the pharmacological and toxicological properties of Nigella sativa (black cumin) seeds covers their use for asthma, diarrhoea and dyslipidaemia and their anti-inflammatory, antioxidant and antimicrobial actions.",
+   "tier": "review",
+   "display": "Pharmacological and toxicological properties of Nigella sativa",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0510",
    "key": "awad2003phytochemical",
    "type": "article",
@@ -56862,6 +57542,36 @@
     "Nervous tension",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-2053",
+   "key": "dauer2003hamamelis",
+   "type": "article",
+   "title": "Polymeric proanthocyanidins from the bark of Hamamelis virginiana",
+   "authors": "Dauer, A., Rimpler, H. and Hensel, A.",
+   "journal": "Planta Medica",
+   "year": "2003",
+   "doi": "10.1055/s-2003-37022",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2003-37022",
+   "link_type": "doi",
+   "citation": "Dauer, A., Rimpler, H. and Hensel, A (2003) 'Polymeric proanthocyanidins from the bark of Hamamelis virginiana', Planta Medica, 69(1), pp. 89-91. doi:10.1055/s-2003-37022",
+   "abstract": "Polymeric proanthocyanidins composed of epicatechin and epigallocatechin units were isolated from the bark of Hamamelis virginiana, characterising the astringent tannin constituents of witch hazel.",
+   "tier": "preclinical",
+   "display": "Polymeric proanthocyanidins from the bark of Hamamelis virginiana",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [
+    "Astringent"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1492",
@@ -57361,6 +58071,37 @@
    "actions": [
     "Anti-oedematous (reduces swelling)",
     "Venotonic / vasoprotective"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2051",
+   "key": "habtemariam2002hamamelis",
+   "type": "article",
+   "title": "Hamamelitannin from Hamamelis virginiana inhibits the tumour necrosis factor-alpha (TNF)-induced endothelial cell death in vitro",
+   "authors": "Habtemariam, S.",
+   "journal": "Toxicon",
+   "year": "2002",
+   "doi": "10.1016/s0041-0101(01)00195-7",
+   "url": "",
+   "link": "https://doi.org/10.1016/s0041-0101(01)00195-7",
+   "link_type": "doi",
+   "citation": "Habtemariam, S (2002) 'Hamamelitannin from Hamamelis virginiana inhibits the tumour necrosis factor-alpha (TNF)-induced endothelial cell death in vitro', Toxicon, 40(1), pp. 83-88. doi:10.1016/s0041-0101(01)00195-7",
+   "abstract": "Hamamelitannin from Hamamelis virginiana dose-dependently inhibited TNF-induced endothelial cell death, an activity that may explain the antihaemorrhagic and protective traditional uses of witch hazel.",
+   "tier": "preclinical",
+   "display": "Hamamelitannin from Hamamelis virginiana inhibits the tumour necrosis factor-alpha (TNF)-induced endothelial cell death in vitro",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Astringent"
    ],
    "conditions": []
   },
@@ -60354,6 +61095,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2064",
+   "key": "stojakowska1994lactuca",
+   "type": "article",
+   "title": "Sesquiterpene Lactones in Tissue Culture of Lactuca virosa",
+   "authors": "Stojakowska, A., Malarz, J. and Kisiel, W.",
+   "journal": "Planta Medica",
+   "year": "1994",
+   "doi": "10.1055/s-2006-959419",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-959419",
+   "link_type": "doi",
+   "citation": "Stojakowska, A., Malarz, J. and Kisiel, W (1994) 'Sesquiterpene Lactones in Tissue Culture of Lactuca virosa', Planta Medica, 60(1), pp. 93-94. doi:10.1055/s-2006-959419",
+   "abstract": "This study characterised the sesquiterpene lactones (the bitter sedative-analgesic constituents) produced in tissue cultures of Lactuca virosa, documenting the active phytochemistry of wild lettuce.",
+   "tier": "preclinical",
+   "display": "Sesquiterpene Lactones in Tissue Culture of Lactuca virosa",
+   "plants": [
+    "Bitter lettuce",
+    "Lactucarium",
+    "Opium lettuce",
+    "Wild Lettuce"
+   ],
+   "scientific": [
+    "Lactuca virosa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1179",
    "key": "muller1994mahonia",
    "type": "article",
@@ -60665,6 +61434,36 @@
     "Insomnia / sleeplessness",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2054",
+   "key": "vennat1988hamamelis",
+   "type": "article",
+   "title": "Tannins from Hamamelis virginiana: identification of proanthocyanidins and hamamelitannin quantification in leaf, bark, and stem extracts",
+   "authors": "Vennat, B., Pourrat, H., Pouget, M.P., Gross, D. and Pourrat, A.",
+   "journal": "Planta Medica",
+   "year": "1988",
+   "doi": "10.1055/s-2006-962499",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-962499",
+   "link_type": "doi",
+   "citation": "Vennat, B., Pourrat, H., Pouget, M.P., Gross, D. and Pourrat, A (1988) 'Tannins from Hamamelis virginiana: identification of proanthocyanidins and hamamelitannin quantification in leaf, bark, and stem extracts', Planta Medica, 54(5), pp. 454-457. doi:10.1055/s-2006-962499",
+   "abstract": "Proanthocyanidins were isolated and hamamelitannin quantified in the leaf, bark and stem extracts of Hamamelis virginiana, with the bark far richer in hamamelitannin, characterising the astringent tannins of witch hazel.",
+   "tier": "preclinical",
+   "display": "Tannins from Hamamelis virginiana: identification of proanthocyanidins and hamamelitannin quantification in leaf, bark, and stem extracts",
+   "plants": [
+    "Common witch hazel",
+    "Snapping hazelnut",
+    "Winterbloom",
+    "Witch Hazel"
+   ],
+   "scientific": [
+    "Hamamelis virginiana"
+   ],
+   "actions": [
+    "Astringent"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-2036",
@@ -61456,6 +62255,36 @@
    "conditions": [
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-2059",
+   "key": "gumprecht1815lactuca",
+   "type": "article",
+   "title": "On the use of the Lactuca Virosa, in Hooping-Cough",
+   "authors": "Gumprecht, T.",
+   "journal": "Medico-Chirurgical Transactions",
+   "year": "1815",
+   "doi": "10.1177/095952871500600125",
+   "url": "",
+   "link": "https://doi.org/10.1177/095952871500600125",
+   "link_type": "doi",
+   "citation": "Gumprecht, T (1815) 'On the use of the Lactuca Virosa, in Hooping-Cough', Medico-Chirurgical Transactions, 6, pp. 608-617. doi:10.1177/095952871500600125",
+   "abstract": "This historical 1815 clinical report documents the use of Lactuca virosa (wild lettuce) in the treatment of hooping-cough (whooping cough), recording the traditional antitussive application of wild lettuce.",
+   "tier": "traditional",
+   "display": "On the use of the Lactuca Virosa, in Hooping-Cough",
+   "plants": [
+    "Bitter lettuce",
+    "Lactucarium",
+    "Opium lettuce",
+    "Wild Lettuce"
+   ],
+   "scientific": [
+    "Lactuca virosa"
+   ],
+   "actions": [
+    "Antitussive (cough suppressant)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0376",

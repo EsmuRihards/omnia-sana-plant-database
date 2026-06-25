@@ -26,6 +26,9 @@ constituents:
   - REF-0706
   - REF-0707
   - REF-0709
+  - REF-0722
+  - REF-2341
+  - REF-2343
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -35,6 +38,11 @@ actions:
   - REF-0705
   - REF-0706
   - REF-0709
+  - REF-2338
+  - REF-2339
+  - REF-0722
+  - REF-2342
+  - REF-2343
   status: verified
 - action: antioxidant
   reference_ids:
@@ -44,6 +52,9 @@ actions:
   - REF-0705
   - REF-0706
   - REF-0708
+  - REF-0709
+  - REF-2339
+  - REF-2343
   status: verified
 - action: digestive
   reference_ids:
@@ -142,9 +153,21 @@ contraindications:
   - REF-0309
   - REF-0313
   status: verified
+references:
+- REF-0709
+- REF-0705
+- REF-2338
+- REF-0707
+- REF-2339
+- REF-0722
+- REF-2340
+- REF-2341
+- REF-2342
+- REF-2343
+- REF-0706
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-15'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -153,4 +176,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   inulin-type fructans and gastric-protective activity (REF-0706), a diabetes-mechanism review (REF-0707)
   and a hepatoprotective antioxidant study (REF-0708); inulin and caffeoylquinic-acid constituents added.
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds).'
+  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article
+  sources (REF-0709, REF-0705, REF-2338, REF-0707, REF-2339, REF-0722, REF-2340, REF-2341, REF-2342, REF-2343,
+  REF-0706) — woven into relevant actions/indications and the plant-level references bucket.'

@@ -17030,6 +17030,19 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0049",
+      "REF-0206",
+      "REF-0319",
+      "REF-2319"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -17059,18 +17072,6 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0049",
-      "REF-0206",
-      "REF-0319"
-     ]
-    },
-    {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0049",
       "REF-0206",

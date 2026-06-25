@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2316,
+ "count": 2343,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -428,6 +428,33 @@
    ],
    "scientific": [
     "Hamamelis virginiana"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2326",
+   "key": "dvorska2025hippophae",
+   "type": "article",
+   "title": "Chemopreventive and therapeutic effects of Hippophae rhamnoides L. fruit peels evaluated in preclinical models of breast carcinoma",
+   "authors": "Dvorska, D., Sebova, D., Kajo, K., Kapinova, A., Svajdlenka, E., Goga, M., Frenak, R., Treml, J., Mersakova, S., Strnadel, J., Mazurakova, A., Baranova, I., Halasova, E., Brozmanova, M., Biringer, K., Kassayova, M., Dankova, Z., Smejkal, K., Hornak, S., Mojzis, J., Sadlonova, V., Brany, D., Kello, M. and Kubatka, P.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2025",
+   "doi": "10.3389/fphar.2025.1561436",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2025.1561436",
+   "link_type": "doi",
+   "citation": "Dvorska, D., Sebova, D., Kajo, K., Kapinova, A., Svajdlenka, E., Goga, M., Frenak, R., Treml, J., Mersakova, S., Strnadel, J., Mazurakova, A., Baranova, I., Halasova, E., Brozmanova, M., Biringer, K., Kassayova, M., Dankova, Z., Smejkal, K., Hornak, S., Mojzis, J., Sadlonova, V., Brany, D., Kello, M. and Kubatka, P (2025) 'Chemopreventive and therapeutic effects of Hippophae rhamnoides L. fruit peels evaluated in preclinical models of breast carcinoma', Frontiers in Pharmacology, 16, pp. 1561436. doi:10.3389/fphar.2025.1561436",
+   "abstract": "Hippophae rhamnoides fruit-peel extract showed chemopreventive and therapeutic effects in preclinical models of breast carcinoma, with antioxidant and anti-proliferative mechanisms.",
+   "tier": "preclinical",
+   "display": "Chemopreventive and therapeutic effects of Hippophae rhamnoides L. fruit peels evaluated in preclinical models of breast carcinoma",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
    ],
    "actions": [],
    "conditions": []
@@ -2150,6 +2177,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2327",
+   "key": "ling2024hippophae",
+   "type": "article",
+   "title": "Advance in Hippophae rhamnoides polysaccharides: extraction, structural characteristics, pharmacological activity, structure-activity relationship and application",
+   "authors": "Ling, N., Tian, H., Wang, Q., Gao, M., Xu, G., Sun, Y., Song, D., Li, W. and Ji, C.",
+   "journal": "International Journal of Biological Macromolecules",
+   "year": "2024",
+   "doi": "10.1016/j.ijbiomac.2024.132420",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ijbiomac.2024.132420",
+   "link_type": "doi",
+   "citation": "Ling, N., Tian, H., Wang, Q., Gao, M., Xu, G., Sun, Y., Song, D., Li, W. and Ji, C (2024) 'Advance in Hippophae rhamnoides polysaccharides: extraction, structural characteristics, pharmacological activity, structure-activity relationship and application', International Journal of Biological Macromolecules, 270, pp. 132420. doi:10.1016/j.ijbiomac.2024.132420",
+   "abstract": "This review covers the pharmacological activities of Hippophae rhamnoides polysaccharides, including their immunomodulatory, antioxidant and anti-inflammatory effects.",
+   "tier": "review",
+   "display": "Advance in Hippophae rhamnoides polysaccharides: extraction, structural characteristics, pharmacological activity, structure-activity relationship and application",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0685",
    "key": "anajirih2024alchemilla",
    "type": "article",
@@ -2563,6 +2619,33 @@
    ],
    "scientific": [
     "Arctostaphylos uva-ursi"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2341",
+   "key": "shukla2024arctium",
+   "type": "article",
+   "title": "Arctigenin from Arctium lappa L. inhibits chikungunya virus by affecting its entry and replication",
+   "authors": "Shukla, S., Kakade, M., Cherian, S., Alagarasu, K. and Parashar, D.",
+   "journal": "Phytomedicine",
+   "year": "2024",
+   "doi": "10.1016/j.phymed.2024.155491",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2024.155491",
+   "link_type": "doi",
+   "citation": "Shukla, S., Kakade, M., Cherian, S., Alagarasu, K. and Parashar, D (2024) 'Arctigenin from Arctium lappa L. inhibits chikungunya virus by affecting its entry and replication', Phytomedicine, 128, pp. 155491. doi:10.1016/j.phymed.2024.155491",
+   "abstract": "Arctigenin, a lignan from Arctium lappa, inhibited chikungunya virus by affecting its entry and replication, demonstrating antiviral activity.",
+   "tier": "preclinical",
+   "display": "Arctigenin from Arctium lappa L. inhibits chikungunya virus by affecting its entry and replication",
+   "plants": [
+    "Greater Burdock",
+    "burdock",
+    "gobo"
+   ],
+   "scientific": [
+    "Arctium lappa"
    ],
    "actions": [],
    "conditions": []
@@ -4234,6 +4317,36 @@
    ]
   },
   {
+   "ref_id": "REF-2339",
+   "key": "shyam2024arctium",
+   "type": "article",
+   "title": "Harnessing the power of Arctium lappa root: a review of its pharmacological properties and therapeutic applications",
+   "authors": "Shyam, M. and Sabina, E.P.",
+   "journal": "Natural Products and Bioprospecting",
+   "year": "2024",
+   "doi": "10.1007/s13659-024-00466-8",
+   "url": "",
+   "link": "https://doi.org/10.1007/s13659-024-00466-8",
+   "link_type": "doi",
+   "citation": "Shyam, M. and Sabina, E.P (2024) 'Harnessing the power of Arctium lappa root: a review of its pharmacological properties and therapeutic applications', Natural Products and Bioprospecting, 14(1), pp. 49. doi:10.1007/s13659-024-00466-8",
+   "abstract": "This review of Arctium lappa root summarises its pharmacological properties and therapeutic applications, including antioxidant, anti-inflammatory and digestive effects.",
+   "tier": "review",
+   "display": "Harnessing the power of Arctium lappa root: a review of its pharmacological properties and therapeutic applications",
+   "plants": [
+    "Greater Burdock",
+    "burdock",
+    "gobo"
+   ],
+   "scientific": [
+    "Arctium lappa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0180",
    "key": "national2024national",
    "type": "misc",
@@ -5831,6 +5944,35 @@
    ]
   },
   {
+   "ref_id": "REF-2319",
+   "key": "chen2024hippophae",
+   "type": "article",
+   "title": "Research progress of sea buckthorn (Hippophae rhamnoides) in prevention and treatment of cardiovascular disease",
+   "authors": "Chen, Y., He, W., Cao, H., Wang, Z., Liu, J., Wang, B. and Wang, C.",
+   "journal": "Frontiers in Cardiovascular Medicine",
+   "year": "2024",
+   "doi": "10.3389/fcvm.2024.1477636",
+   "url": "",
+   "link": "https://doi.org/10.3389/fcvm.2024.1477636",
+   "link_type": "doi",
+   "citation": "Chen, Y., He, W., Cao, H., Wang, Z., Liu, J., Wang, B. and Wang, C (2024) 'Research progress of sea buckthorn (Hippophae rhamnoides) in prevention and treatment of cardiovascular disease', Frontiers in Cardiovascular Medicine, 11, pp. 1477636. doi:10.3389/fcvm.2024.1477636",
+   "abstract": "This review summarises the progress on sea buckthorn (Hippophae rhamnoides) in the prevention and treatment of cardiovascular disease, including its lipid-lowering, antioxidant and vascular-protective effects.",
+   "tier": "review",
+   "display": "Research progress of sea buckthorn (Hippophae rhamnoides) in prevention and treatment of cardiovascular disease",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-2096",
    "key": "sharma2024centella",
    "type": "article",
@@ -6723,6 +6865,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2340",
+   "key": "jin2023arctium",
+   "type": "article",
+   "title": "A systematic review on botany, ethnopharmacology, quality control, phytochemistry, pharmacology and toxicity of Arctium lappa L. fruit",
+   "authors": "Jin, X., Liu, S., Chen, S., Wang, L., Cui, Y., He, J., Fang, S., Li, J. and Chang, Y.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2023",
+   "doi": "10.1016/j.jep.2023.116223",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2023.116223",
+   "link_type": "doi",
+   "citation": "Jin, X., Liu, S., Chen, S., Wang, L., Cui, Y., He, J., Fang, S., Li, J. and Chang, Y (2023) 'A systematic review on botany, ethnopharmacology, quality control, phytochemistry, pharmacology and toxicity of Arctium lappa L. fruit', Journal of Ethnopharmacology, 308, pp. 116223. doi:10.1016/j.jep.2023.116223",
+   "abstract": "This systematic review covers the botany, ethnopharmacology, phytochemistry, pharmacology and toxicity of Arctium lappa fruit, including its anti-inflammatory and antioxidant uses.",
+   "tier": "review",
+   "display": "A systematic review on botany, ethnopharmacology, quality control, phytochemistry, pharmacology and toxicity of Arctium lappa L. fruit",
+   "plants": [
+    "Greater Burdock",
+    "burdock",
+    "gobo"
+   ],
+   "scientific": [
+    "Arctium lappa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2076",
    "key": "farasatifar2023achillea",
    "type": "article",
@@ -7470,6 +7639,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2332",
+   "key": "tsirigotis2023agrimonia",
+   "type": "article",
+   "title": "Antioxidant and protective effects of the polyphenolic glycoconjugate from Agrimonia eupatoria L. herb in the prevention of inflammation in human cells",
+   "authors": "Tsirigotis-Maniecka, M., Zaczynska, E., Czarny, A., Jadczyk, P., Uminska-Wasiluk, B., Gancarz, R. and Pawlaczyk-Graja, I.",
+   "journal": "Journal of Functional Biomaterials",
+   "year": "2023",
+   "doi": "10.3390/jfb14040182",
+   "url": "",
+   "link": "https://doi.org/10.3390/jfb14040182",
+   "link_type": "doi",
+   "citation": "Tsirigotis-Maniecka, M., Zaczynska, E., Czarny, A., Jadczyk, P., Uminska-Wasiluk, B., Gancarz, R. and Pawlaczyk-Graja, I (2023) 'Antioxidant and protective effects of the polyphenolic glycoconjugate from Agrimonia eupatoria L. herb in the prevention of inflammation in human cells', Journal of Functional Biomaterials, 14(4), pp. 182. doi:10.3390/jfb14040182",
+   "abstract": "A polyphenolic glycoconjugate from Agrimonia eupatoria herb showed antioxidant and protective effects, preventing inflammation in human cells.",
+   "tier": "preclinical",
+   "display": "Antioxidant and protective effects of the polyphenolic glycoconjugate from Agrimonia eupatoria L. herb in the prevention of inflammation in human cells",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2208",
    "key": "rahimian2023lavandula",
    "type": "article",
@@ -7524,6 +7724,35 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2338",
+   "key": "yosri2022arctium",
+   "type": "article",
+   "title": "Arctium lappa (burdock): insights from ethnopharmacology potential, chemical constituents, clinical studies, pharmacological utility and nanomedicine",
+   "authors": "Yosri, N., Alsharif, S.M., Xiao, J., Musharraf, S.G., Zhao, C., Saeed, A., Gao, R., Said, N.S., Di Minno, A., Daglia, M., Guo, Z., Khalifa, S.A.M. and El-Seedi, H.R.",
+   "journal": "Biomedicine & Pharmacotherapy",
+   "year": "2023",
+   "doi": "10.1016/j.biopha.2022.114104",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.biopha.2022.114104",
+   "link_type": "doi",
+   "citation": "Yosri, N., Alsharif, S.M., Xiao, J., Musharraf, S.G., Zhao, C., Saeed, A., Gao, R., Said, N.S., Di Minno, A., Daglia, M., Guo, Z., Khalifa, S.A.M. and El-Seedi, H.R (2023) 'Arctium lappa (burdock): insights from ethnopharmacology potential, chemical constituents, clinical studies, pharmacological utility and nanomedicine', Biomedicine & Pharmacotherapy, 158, pp. 114104. doi:10.1016/j.biopha.2022.114104",
+   "abstract": "This review covers the ethnopharmacology, chemical constituents, clinical studies and pharmacological utility of Arctium lappa (burdock), including its anti-inflammatory and antioxidant effects.",
+   "tier": "review",
+   "display": "Arctium lappa (burdock): insights from ethnopharmacology potential, chemical constituents, clinical studies, pharmacological utility and nanomedicine",
+   "plants": [
+    "Greater Burdock",
+    "burdock",
+    "gobo"
+   ],
+   "scientific": [
+    "Arctium lappa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -9456,6 +9685,35 @@
    ]
   },
   {
+   "ref_id": "REF-2322",
+   "key": "zhu2023hippophae",
+   "type": "article",
+   "title": "Flash extraction, characterization, and immunoenhancement activity of polysaccharide from Hippophae rhamnoides Linn.",
+   "authors": "Zhu, Y., Wu, M., Li, X., Wang, Y., Li, M. and Zhou, H.",
+   "journal": "Chemistry & Biodiversity",
+   "year": "2023",
+   "doi": "10.1002/cbdv.202200776",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.202200776",
+   "link_type": "doi",
+   "citation": "Zhu, Y., Wu, M., Li, X., Wang, Y., Li, M. and Zhou, H (2023) 'Flash extraction, characterization, and immunoenhancement activity of polysaccharide from Hippophae rhamnoides Linn', Chemistry & Biodiversity, 20(3), pp. e202200776. doi:10.1002/cbdv.202200776",
+   "abstract": "A polysaccharide from Hippophae rhamnoides was characterised and shown to enhance immune function, supporting the immunomodulatory use of sea buckthorn.",
+   "tier": "preclinical",
+   "display": "Flash extraction, characterization, and immunoenhancement activity of polysaccharide from Hippophae rhamnoides Linn.",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1365",
    "key": "yang2023vervain",
    "type": "article",
@@ -11049,6 +11307,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2323",
+   "key": "zuchowski2022hippophae",
+   "type": "article",
+   "title": "Phytochemistry and pharmacology of sea buckthorn (Elaeagnus rhamnoides; syn. Hippophae rhamnoides): progress from 2010 to 2021",
+   "authors": "Zuchowski, J.",
+   "journal": "Phytochemistry Reviews",
+   "year": "2023",
+   "doi": "10.1007/s11101-022-09832-1",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11101-022-09832-1",
+   "link_type": "doi",
+   "citation": "Zuchowski, J (2023) 'Phytochemistry and pharmacology of sea buckthorn (Elaeagnus rhamnoides; syn. Hippophae rhamnoides): progress from 2010 to 2021', Phytochemistry Reviews, 22(1), pp. 3-33. doi:10.1007/s11101-022-09832-1",
+   "abstract": "This review summarises progress from 2010 to 2021 on the phytochemistry and pharmacology of sea buckthorn, including its antioxidant and anti-inflammatory constituents.",
+   "tier": "review",
+   "display": "Phytochemistry and pharmacology of sea buckthorn (Elaeagnus rhamnoides; syn. Hippophae rhamnoides): progress from 2010 to 2021",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0060",
    "key": "downer2023downer",
    "type": "misc",
@@ -11160,6 +11447,36 @@
    ],
    "actions": [
     "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2343",
+   "key": "lu2023arctium",
+   "type": "article",
+   "title": "Preventive effect of Arctium lappa polysaccharides on acute lung injury through anti-inflammatory and antioxidant activities",
+   "authors": "Lu, N., Wei, J., Gong, X., Tang, X., Zhang, X., Xiang, W., Liu, S., Luo, C. and Wang, X.",
+   "journal": "Nutrients",
+   "year": "2023",
+   "doi": "10.3390/nu15234946",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu15234946",
+   "link_type": "doi",
+   "citation": "Lu, N., Wei, J., Gong, X., Tang, X., Zhang, X., Xiang, W., Liu, S., Luo, C. and Wang, X (2023) 'Preventive effect of Arctium lappa polysaccharides on acute lung injury through anti-inflammatory and antioxidant activities', Nutrients, 15(23), pp. 4946. doi:10.3390/nu15234946",
+   "abstract": "Arctium lappa polysaccharides prevented acute lung injury through anti-inflammatory and antioxidant activities.",
+   "tier": "preclinical",
+   "display": "Preventive effect of Arctium lappa polysaccharides on acute lung injury through anti-inflammatory and antioxidant activities",
+   "plants": [
+    "Greater Burdock",
+    "burdock",
+    "gobo"
+   ],
+   "scientific": [
+    "Arctium lappa"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -14945,6 +15262,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2325",
+   "key": "ma2021hippophae",
+   "type": "article",
+   "title": "Health promoting properties and sensory characteristics of phytochemicals in berries and leaves of sea buckthorn (Hippophae rhamnoides)",
+   "authors": "Ma, X., Yang, W., Kallio, H. and Yang, B.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2022",
+   "doi": "10.1080/10408398.2020.1869921",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2020.1869921",
+   "link_type": "doi",
+   "citation": "Ma, X., Yang, W., Kallio, H. and Yang, B (2022) 'Health promoting properties and sensory characteristics of phytochemicals in berries and leaves of sea buckthorn (Hippophae rhamnoides)', Critical Reviews in Food Science and Nutrition, 62(14), pp. 3798-3816. doi:10.1080/10408398.2020.1869921",
+   "abstract": "This review summarises the health-promoting properties of the phytochemicals in the berries and leaves of sea buckthorn (Hippophae rhamnoides), including their antioxidant activity.",
+   "tier": "review",
+   "display": "Health promoting properties and sensory characteristics of phytochemicals in berries and leaves of sea buckthorn (Hippophae rhamnoides)",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1124",
    "key": "gupta2022verbascum",
    "type": "article",
@@ -16098,6 +16444,36 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2329",
+   "key": "huzio2022agrimonia",
+   "type": "article",
+   "title": "Phytochemical and pharmacological research in Agrimonia eupatoria L. herb extract with anti-inflammatory and hepatoprotective properties",
+   "authors": "Huzio, N., Grytsyk, A., Raal, A., Grytsyk, L. and Koshovyi, O.",
+   "journal": "Plants",
+   "year": "2022",
+   "doi": "10.3390/plants11182371",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants11182371",
+   "link_type": "doi",
+   "citation": "Huzio, N., Grytsyk, A., Raal, A., Grytsyk, L. and Koshovyi, O (2022) 'Phytochemical and pharmacological research in Agrimonia eupatoria L. herb extract with anti-inflammatory and hepatoprotective properties', Plants, 11(18), pp. 2371. doi:10.3390/plants11182371",
+   "abstract": "An Agrimonia eupatoria herb extract demonstrated anti-inflammatory and hepatoprotective properties, with its activity related to phenolic constituents.",
+   "tier": "preclinical",
+   "display": "Phytochemical and pharmacological research in Agrimonia eupatoria L. herb extract with anti-inflammatory and hepatoprotective properties",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -20237,6 +20613,36 @@
    ]
   },
   {
+   "ref_id": "REF-2318",
+   "key": "pundir2020hippophae",
+   "type": "article",
+   "title": "Ethnomedicinal uses, phytochemistry and dermatological effects of Hippophae rhamnoides L.: a review",
+   "authors": "Pundir, S., Garg, P., Dviwedi, A., Ali, A., Kapoor, V.K., Kapoor, D., Kulshrestha, S., Lal, U.R. and Negi, P.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2021",
+   "doi": "10.1016/j.jep.2020.113434",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2020.113434",
+   "link_type": "doi",
+   "citation": "Pundir, S., Garg, P., Dviwedi, A., Ali, A., Kapoor, V.K., Kapoor, D., Kulshrestha, S., Lal, U.R. and Negi, P (2021) 'Ethnomedicinal uses, phytochemistry and dermatological effects of Hippophae rhamnoides L.: a review', Journal of Ethnopharmacology, 266, pp. 113434. doi:10.1016/j.jep.2020.113434",
+   "abstract": "This review covers the ethnomedicinal uses, phytochemistry and dermatological effects of Hippophae rhamnoides, including its emollient, wound-healing and skin-protective activity.",
+   "tier": "review",
+   "display": "Ethnomedicinal uses, phytochemistry and dermatological effects of Hippophae rhamnoides L.: a review",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [
+    "Emollient / skin-soothing",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1743",
    "key": "huang2021juniper",
    "type": "article",
@@ -23354,6 +23760,34 @@
     "Anti-inflammatory",
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2334",
+   "key": "karlinska2021agrimonia",
+   "type": "article",
+   "title": "The aerial parts of Agrimonia procera Wallr. and Agrimonia eupatoria L. as a source of polyphenols, and especially agrimoniin and flavonoids",
+   "authors": "Karlinska, E., Romanowska, B. and Kosmala, M.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26247706",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26247706",
+   "link_type": "doi",
+   "citation": "Karlinska, E., Romanowska, B. and Kosmala, M (2021) 'The aerial parts of Agrimonia procera Wallr. and Agrimonia eupatoria L. as a source of polyphenols, and especially agrimoniin and flavonoids', Molecules, 26(24), pp. 7706. doi:10.3390/molecules26247706",
+   "abstract": "The aerial parts of Agrimonia eupatoria were characterised as a rich source of polyphenols, particularly the ellagitannin agrimoniin and flavonoids.",
+   "tier": "preclinical",
+   "display": "The aerial parts of Agrimonia procera Wallr. and Agrimonia eupatoria L. as a source of polyphenols, and especially agrimoniin and flavonoids",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -29761,6 +30195,35 @@
    ]
   },
   {
+   "ref_id": "REF-2324",
+   "key": "ciesarova2020hippophae",
+   "type": "article",
+   "title": "Why is sea buckthorn (Hippophae rhamnoides L.) so exceptional? A review",
+   "authors": "Ciesarova, Z., Murkovic, M., Cejpek, K., Kreps, F., Tobolkova, B., Koplik, R., Belajova, E., Kukurova, K., Dasko, L., Panovska, Z., Revenco, D. and Burcova, Z.",
+   "journal": "Food Research International",
+   "year": "2020",
+   "doi": "10.1016/j.foodres.2020.109170",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodres.2020.109170",
+   "link_type": "doi",
+   "citation": "Ciesarova, Z., Murkovic, M., Cejpek, K., Kreps, F., Tobolkova, B., Koplik, R., Belajova, E., Kukurova, K., Dasko, L., Panovska, Z., Revenco, D. and Burcova, Z (2020) 'Why is sea buckthorn (Hippophae rhamnoides L.) so exceptional? A review', Food Research International, 133, pp. 109170. doi:10.1016/j.foodres.2020.109170",
+   "abstract": "This review describes the exceptional nutritional and bioactive profile of sea buckthorn (Hippophae rhamnoides), whose vitamins, carotenoids, flavonoids and omega-7 fatty acids underlie its antioxidant health benefits.",
+   "tier": "review",
+   "display": "Why is sea buckthorn (Hippophae rhamnoides L.) so exceptional? A review",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0259",
    "key": "salve2019salve",
    "type": "article",
@@ -30393,6 +30856,35 @@
    "actions": [
     "Anti-inflammatory",
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2342",
+   "key": "nascimento2019arctium",
+   "type": "article",
+   "title": "Arctium lappa extract suppresses inflammation and inhibits melanoma progression",
+   "authors": "Nascimento, B.A.C., Gardinassi, L.G., Silveira, I.M.G., Gallucci, M.G., Tome, M.A., Oliveira, J.F.D., Moreira, M.R.A., Meirelles, A.F.G., Faccioli, L.H., Tefe-Silva, C. and Zoccal, K.F.",
+   "journal": "Medicines",
+   "year": "2019",
+   "doi": "10.3390/medicines6030081",
+   "url": "",
+   "link": "https://doi.org/10.3390/medicines6030081",
+   "link_type": "doi",
+   "citation": "Nascimento, B.A.C., Gardinassi, L.G., Silveira, I.M.G., Gallucci, M.G., Tome, M.A., Oliveira, J.F.D., Moreira, M.R.A., Meirelles, A.F.G., Faccioli, L.H., Tefe-Silva, C. and Zoccal, K.F (2019) 'Arctium lappa extract suppresses inflammation and inhibits melanoma progression', Medicines, 6(3), pp. 81. doi:10.3390/medicines6030081",
+   "abstract": "Arctium lappa extract suppressed inflammation and inhibited melanoma progression in experimental models.",
+   "tier": "preclinical",
+   "display": "Arctium lappa extract suppresses inflammation and inhibits melanoma progression",
+   "plants": [
+    "Greater Burdock",
+    "burdock",
+    "gobo"
+   ],
+   "scientific": [
+    "Arctium lappa"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -36082,13 +36574,19 @@
    "display": "Overview of the anti-inflammatory effects, pharmacokinetic properties and clinical efficacies of arctigenin and arctiin from Arctium lappa L.",
    "plants": [
     "Common burdock",
+    "Greater Burdock",
     "Lesser Burdock",
-    "Wild rhubarb"
+    "Wild rhubarb",
+    "burdock",
+    "gobo"
    ],
    "scientific": [
+    "Arctium lappa",
     "Arctium minus"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -40634,6 +41132,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2328",
+   "key": "kuczmannova2016agrimonia",
+   "type": "article",
+   "title": "Agrimonia eupatoria L. and Cynara cardunculus L. water infusions: comparison of anti-diabetic activities",
+   "authors": "Kuczmannova, A., Balazova, A., Racanska, E., Kamenikova, M., Fialova, S., Majernik, J., Nagy, M., Gal, P. and Mucaji, P.",
+   "journal": "Molecules",
+   "year": "2016",
+   "doi": "10.3390/molecules21050564",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules21050564",
+   "link_type": "doi",
+   "citation": "Kuczmannova, A., Balazova, A., Racanska, E., Kamenikova, M., Fialova, S., Majernik, J., Nagy, M., Gal, P. and Mucaji, P (2016) 'Agrimonia eupatoria L. and Cynara cardunculus L. water infusions: comparison of anti-diabetic activities', Molecules, 21(5), pp. 564. doi:10.3390/molecules21050564",
+   "abstract": "Water infusions of Agrimonia eupatoria showed anti-diabetic activity, lowering blood glucose in an animal model.",
+   "tier": "preclinical",
+   "display": "Agrimonia eupatoria L. and Cynara cardunculus L. water infusions: comparison of anti-diabetic activities",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2239",
    "key": "guo2016aloe",
    "type": "article",
@@ -44173,6 +44699,36 @@
    ]
   },
   {
+   "ref_id": "REF-2335",
+   "key": "kuczmannova2015agrimonia",
+   "type": "article",
+   "title": "Agrimonia eupatoria L. and Cynara cardunculus L. water infusions: phenolic profile and comparison of antioxidant activities",
+   "authors": "Kuczmannova, A., Gal, P., Varinska, L., Treml, J., Kovac, I., Novotny, M., Vasilenko, T., Dall'Acqua, S., Nagy, M. and Mucaji, P.",
+   "journal": "Molecules",
+   "year": "2015",
+   "doi": "10.3390/molecules201119715",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules201119715",
+   "link_type": "doi",
+   "citation": "Kuczmannova, A., Gal, P., Varinska, L., Treml, J., Kovac, I., Novotny, M., Vasilenko, T., Dall'Acqua, S., Nagy, M. and Mucaji, P (2015) 'Agrimonia eupatoria L. and Cynara cardunculus L. water infusions: phenolic profile and comparison of antioxidant activities', Molecules, 20(11), pp. 20538-20550. doi:10.3390/molecules201119715",
+   "abstract": "The phenolic profile of Agrimonia eupatoria water infusions was characterised and correlated with antioxidant activity.",
+   "tier": "preclinical",
+   "display": "Agrimonia eupatoria L. and Cynara cardunculus L. water infusions: phenolic profile and comparison of antioxidant activities",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1543",
    "key": "fenyvesi2015raspberry",
    "type": "article",
@@ -46853,6 +47409,34 @@
    ]
   },
   {
+   "ref_id": "REF-2331",
+   "key": "granica2015agrimonia",
+   "type": "article",
+   "title": "The phytochemical investigation of Agrimonia eupatoria L. and Agrimonia procera Wallr. as valid sources of Agrimoniae herba - the pharmacopoeial plant material",
+   "authors": "Granica, S., Kluge, H., Horn, G., Matkowski, A. and Kiss, A.K.",
+   "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+   "year": "2015",
+   "doi": "10.1016/j.jpba.2015.05.027",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jpba.2015.05.027",
+   "link_type": "doi",
+   "citation": "Granica, S., Kluge, H., Horn, G., Matkowski, A. and Kiss, A.K (2015) 'The phytochemical investigation of Agrimonia eupatoria L. and Agrimonia procera Wallr. as valid sources of Agrimoniae herba - the pharmacopoeial plant material', Journal of Pharmaceutical and Biomedical Analysis, 114, pp. 272-279. doi:10.1016/j.jpba.2015.05.027",
+   "abstract": "Phytochemical investigation of Agrimonia eupatoria and A. procera characterised the tannins (agrimoniin) and flavonoids of the pharmacopoeial material Agrimoniae herba.",
+   "tier": "preclinical",
+   "display": "The phytochemical investigation of Agrimonia eupatoria L. and Agrimonia procera Wallr. as valid sources of Agrimoniae herba - the pharmacopoeial plant material",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1504",
    "key": "huang2015mushroom",
    "type": "article",
@@ -49453,6 +50037,37 @@
     "Swelling / fluid retention",
     "Varicose veins"
    ]
+  },
+  {
+   "ref_id": "REF-2336",
+   "key": "ivanova2012agrimonia",
+   "type": "article",
+   "title": "Agrimonia eupatoria tea consumption in relation to markers of inflammation, oxidative status and lipid metabolism in healthy subjects",
+   "authors": "Ivanova, D., Vankova, D. and Nashar, M.",
+   "journal": "Archives of Physiology and Biochemistry",
+   "year": "2013",
+   "doi": "10.3109/13813455.2012.729844",
+   "url": "",
+   "link": "https://doi.org/10.3109/13813455.2012.729844",
+   "link_type": "doi",
+   "citation": "Ivanova, D., Vankova, D. and Nashar, M (2013) 'Agrimonia eupatoria tea consumption in relation to markers of inflammation, oxidative status and lipid metabolism in healthy subjects', Archives of Physiology and Biochemistry, 119(1), pp. 32-37. doi:10.3109/13813455.2012.729844",
+   "abstract": "In healthy subjects, Agrimonia eupatoria tea consumption was associated with favourable changes in markers of inflammation, oxidative status and lipid metabolism.",
+   "tier": "clinical",
+   "display": "Agrimonia eupatoria tea consumption in relation to markers of inflammation, oxidative status and lipid metabolism in healthy subjects",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-2277",
@@ -54661,6 +55276,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2317",
+   "key": "suryakumar2011hippophae",
+   "type": "article",
+   "title": "Medicinal and therapeutic potential of Sea buckthorn (Hippophae rhamnoides L.)",
+   "authors": "Suryakumar, G. and Gupta, A.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2011",
+   "doi": "10.1016/j.jep.2011.09.024",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2011.09.024",
+   "link_type": "doi",
+   "citation": "Suryakumar, G. and Gupta, A (2011) 'Medicinal and therapeutic potential of Sea buckthorn (Hippophae rhamnoides L.)', Journal of Ethnopharmacology, 138(2), pp. 268-278. doi:10.1016/j.jep.2011.09.024",
+   "abstract": "This review explores the medicinal and therapeutic applications of sea buckthorn (Hippophae rhamnoides) in acute and chronic conditions, including its antioxidant, anti-inflammatory, immunomodulatory and tissue-repair activities.",
+   "tier": "review",
+   "display": "Medicinal and therapeutic potential of Sea buckthorn (Hippophae rhamnoides L.)",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1384",
    "key": "georgiev2011verbascum",
    "type": "article",
@@ -55187,6 +55832,7 @@
    ],
    "actions": [
     "Anti-inflammatory",
+    "Antioxidant",
     "Emollient / skin-soothing"
    ],
    "conditions": [
@@ -56806,6 +57452,33 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2321",
+   "key": "yasukawa2009hippophae",
+   "type": "article",
+   "title": "Anti-tumor promoters phenolics and triterpenoid from Hippophae rhamnoides",
+   "authors": "Yasukawa, K., Kitanaka, S., Kawata, K. and Goto, K.",
+   "journal": "Fitoterapia",
+   "year": "2009",
+   "doi": "10.1016/j.fitote.2009.01.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2009.01.006",
+   "link_type": "doi",
+   "citation": "Yasukawa, K., Kitanaka, S., Kawata, K. and Goto, K (2009) 'Anti-tumor promoters phenolics and triterpenoid from Hippophae rhamnoides', Fitoterapia, 80(3), pp. 164-167. doi:10.1016/j.fitote.2009.01.006",
+   "abstract": "Phenolic and triterpenoid constituents isolated from Hippophae rhamnoides showed anti-tumour-promoting activity in a two-stage carcinogenesis assay.",
+   "tier": "preclinical",
+   "display": "Anti-tumor promoters phenolics and triterpenoid from Hippophae rhamnoides",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -60059,6 +60732,36 @@
    ]
   },
   {
+   "ref_id": "REF-2337",
+   "key": "venskutonis2006agrimonia",
+   "type": "article",
+   "title": "Radical scavenging capacity of Agrimonia eupatoria and Agrimonia procera",
+   "authors": "Venskutonis, P.R., Skemaite, M. and Ragazinskiene, O.",
+   "journal": "Fitoterapia",
+   "year": "2007",
+   "doi": "10.1016/j.fitote.2006.10.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.fitote.2006.10.002",
+   "link_type": "doi",
+   "citation": "Venskutonis, P.R., Skemaite, M. and Ragazinskiene, O (2007) 'Radical scavenging capacity of Agrimonia eupatoria and Agrimonia procera', Fitoterapia, 78(2), pp. 166-168. doi:10.1016/j.fitote.2006.10.002",
+   "abstract": "Agrimonia eupatoria extracts showed strong radical-scavenging capacity, supporting their antioxidant activity.",
+   "tier": "preclinical",
+   "display": "Radical scavenging capacity of Agrimonia eupatoria and Agrimonia procera",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0269",
    "key": "shalansky2007risk",
    "type": "article",
@@ -60198,6 +60901,36 @@
     "Hydrastis canadensis"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2330",
+   "key": "correia2007agrimonia",
+   "type": "article",
+   "title": "The activity of an extract and fraction of Agrimonia eupatoria L. against reactive species",
+   "authors": "Correia, H.S., Batista, M.T. and Dinis, T.C.P.",
+   "journal": "BioFactors",
+   "year": "2007",
+   "doi": "10.1002/biof.552029209",
+   "url": "",
+   "link": "https://doi.org/10.1002/biof.552029209",
+   "link_type": "doi",
+   "citation": "Correia, H.S., Batista, M.T. and Dinis, T.C.P (2007) 'The activity of an extract and fraction of Agrimonia eupatoria L. against reactive species', BioFactors, 29(2-3), pp. 91-104. doi:10.1002/biof.552029209",
+   "abstract": "An Agrimonia eupatoria extract and its phenolic fraction scavenged reactive oxygen and nitrogen species, demonstrating antioxidant activity.",
+   "tier": "preclinical",
+   "display": "The activity of an extract and fraction of Agrimonia eupatoria L. against reactive species",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -61735,6 +62468,35 @@
    ]
   },
   {
+   "ref_id": "REF-2320",
+   "key": "ganju2005hippophae",
+   "type": "article",
+   "title": "Anti-inflammatory activity of seabuckthorn (Hippophae rhamnoides) leaves",
+   "authors": "Ganju, L., Padwad, Y., Singh, R., Karan, D., Chanda, S., Chopra, M.K., Bhatnagar, P., Kashyap, R. and Sawhney, R.C.",
+   "journal": "International Immunopharmacology",
+   "year": "2005",
+   "doi": "10.1016/j.intimp.2005.03.017",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.intimp.2005.03.017",
+   "link_type": "doi",
+   "citation": "Ganju, L., Padwad, Y., Singh, R., Karan, D., Chanda, S., Chopra, M.K., Bhatnagar, P., Kashyap, R. and Sawhney, R.C (2005) 'Anti-inflammatory activity of seabuckthorn (Hippophae rhamnoides) leaves', International Immunopharmacology, 5(12), pp. 1675-1684. doi:10.1016/j.intimp.2005.03.017",
+   "abstract": "An extract of seabuckthorn (Hippophae rhamnoides) leaves demonstrated significant anti-inflammatory activity in animal models.",
+   "tier": "preclinical",
+   "display": "Anti-inflammatory activity of seabuckthorn (Hippophae rhamnoides) leaves",
+   "plants": [
+    "Sea buckthorn",
+    "common sea buckthorn",
+    "seaberry"
+   ],
+   "scientific": [
+    "Hippophae rhamnoides"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1980",
    "key": "iacobellis2005caraway",
    "type": "article",
@@ -62126,6 +62888,34 @@
     "Inflammation (general)",
     "Sore throat"
    ]
+  },
+  {
+   "ref_id": "REF-2333",
+   "key": "kwon2005agrimonia",
+   "type": "article",
+   "title": "Inhibition of hepatitis B virus by an aqueous extract of Agrimonia eupatoria L.",
+   "authors": "Kwon, D.H., Kwon, H.Y., Kim, H.J., Chang, E.J., Kim, M.B., Yoon, S.K., Song, E.Y., Yoon, D.Y., Lee, Y.H., Choi, I.S. and Choi, Y.K.",
+   "journal": "Phytotherapy Research",
+   "year": "2005",
+   "doi": "10.1002/ptr.1689",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.1689",
+   "link_type": "doi",
+   "citation": "Kwon, D.H., Kwon, H.Y., Kim, H.J., Chang, E.J., Kim, M.B., Yoon, S.K., Song, E.Y., Yoon, D.Y., Lee, Y.H., Choi, I.S. and Choi, Y.K (2005) 'Inhibition of hepatitis B virus by an aqueous extract of Agrimonia eupatoria L', Phytotherapy Research, 19(4), pp. 355-358. doi:10.1002/ptr.1689",
+   "abstract": "An aqueous extract of Agrimonia eupatoria inhibited hepatitis B virus replication in vitro, demonstrating antiviral activity.",
+   "tier": "preclinical",
+   "display": "Inhibition of hepatitis B virus by an aqueous extract of Agrimonia eupatoria L.",
+   "plants": [
+    "Agrimony",
+    "Church steeples",
+    "Common agrimony",
+    "Sticklewort"
+   ],
+   "scientific": [
+    "Agrimonia eupatoria"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1201",

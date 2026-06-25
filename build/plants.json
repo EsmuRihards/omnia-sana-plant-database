@@ -1173,7 +1173,9 @@
      "note": "Responsible for the characteristic astringency.",
      "reference_ids": [
       "REF-0386",
-      "REF-0388"
+      "REF-0388",
+      "REF-2331",
+      "REF-2334"
      ]
     },
     {
@@ -1188,7 +1190,8 @@
      "note": "Antioxidant and anti-inflammatory constituents.",
      "reference_ids": [
       "REF-0388",
-      "REF-0387"
+      "REF-0387",
+      "REF-2334"
      ]
     },
     {
@@ -1198,7 +1201,8 @@
      ],
      "note": "Contribute to antioxidant activity.",
      "reference_ids": [
-      "REF-0388"
+      "REF-0388",
+      "REF-2335"
      ]
     },
     {
@@ -1224,7 +1228,10 @@
       "REF-0387",
       "REF-0680",
       "REF-0681",
-      "REF-0683"
+      "REF-0683",
+      "REF-2329",
+      "REF-2332",
+      "REF-2336"
      ],
      "status": "verified"
     },
@@ -1244,7 +1251,12 @@
       "REF-0388",
       "REF-0681",
       "REF-0683",
-      "REF-0684"
+      "REF-0684",
+      "REF-2330",
+      "REF-2332",
+      "REF-2335",
+      "REF-2336",
+      "REF-2337"
      ],
      "status": "verified"
     },
@@ -1429,9 +1441,23 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0681",
+    "REF-0683",
+    "REF-2328",
+    "REF-2329",
+    "REF-2330",
+    "REF-2331",
+    "REF-2332",
+    "REF-2333",
+    "REF-2334",
+    "REF-2335",
+    "REF-2336",
+    "REF-2337"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "alchemilla-vulgaris",
@@ -3516,7 +3542,10 @@
      "reference_ids": [
       "REF-0706",
       "REF-0707",
-      "REF-0709"
+      "REF-0709",
+      "REF-0722",
+      "REF-2341",
+      "REF-2343"
      ]
     }
    ],
@@ -3529,7 +3558,12 @@
       "REF-0313",
       "REF-0705",
       "REF-0706",
-      "REF-0709"
+      "REF-0709",
+      "REF-2338",
+      "REF-2339",
+      "REF-0722",
+      "REF-2342",
+      "REF-2343"
      ],
      "status": "verified"
     },
@@ -3541,7 +3575,10 @@
       "REF-0313",
       "REF-0705",
       "REF-0706",
-      "REF-0708"
+      "REF-0708",
+      "REF-0709",
+      "REF-2339",
+      "REF-2343"
      ],
      "status": "verified"
     },
@@ -3667,9 +3704,22 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0709",
+    "REF-0705",
+    "REF-2338",
+    "REF-0707",
+    "REF-2339",
+    "REF-0722",
+    "REF-2340",
+    "REF-2341",
+    "REF-2342",
+    "REF-2343",
+    "REF-0706"
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-15"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "arctium-minus",
@@ -15421,7 +15471,9 @@
      "reference_ids": [
       "REF-0049",
       "REF-0206",
-      "REF-0319"
+      "REF-0319",
+      "REF-2317",
+      "REF-2320"
      ],
      "status": "verified"
     },
@@ -15439,7 +15491,11 @@
      "reference_ids": [
       "REF-0049",
       "REF-0206",
-      "REF-0319"
+      "REF-0319",
+      "REF-2317",
+      "REF-2323",
+      "REF-2324",
+      "REF-2325"
      ],
      "status": "verified"
     },
@@ -15448,7 +15504,8 @@
      "reference_ids": [
       "REF-0049",
       "REF-0206",
-      "REF-0319"
+      "REF-0319",
+      "REF-2318"
      ],
      "status": "verified"
     },
@@ -15457,7 +15514,9 @@
      "reference_ids": [
       "REF-0049",
       "REF-0206",
-      "REF-0319"
+      "REF-0319",
+      "REF-2322",
+      "REF-2327"
      ],
      "status": "verified"
     },
@@ -15466,7 +15525,8 @@
      "reference_ids": [
       "REF-0049",
       "REF-0206",
-      "REF-0319"
+      "REF-0319",
+      "REF-2318"
      ],
      "status": "verified"
     }
@@ -15507,7 +15567,8 @@
      "reference_ids": [
       "REF-0049",
       "REF-0206",
-      "REF-0319"
+      "REF-0319",
+      "REF-2319"
      ],
      "status": "verified"
     },
@@ -15606,7 +15667,18 @@
    "references": [
     "REF-0836",
     "REF-0837",
-    "REF-0838"
+    "REF-0838",
+    "REF-2317",
+    "REF-2318",
+    "REF-2319",
+    "REF-2320",
+    "REF-2321",
+    "REF-2322",
+    "REF-2323",
+    "REF-2324",
+    "REF-2325",
+    "REF-2326",
+    "REF-2327"
    ],
    "provenance": "book+pubmed",
    "status": "verified",

@@ -18,6 +18,10 @@ constituents:
   reference_ids:
   - REF-0403
   - REF-0618
+  - REF-2297
+  - REF-2298
+  - REF-2299
+  - REF-2300
 - name: Flavonoids (myricetin and quercetin glycosides)
   compounds:
   - flavonoid
@@ -26,6 +30,7 @@ constituents:
   note: Antioxidant constituents.
   reference_ids:
   - REF-0403
+  - REF-2303
 - name: Plant sterols (beta-sitosterol)
   compounds:
   - phytosterol
@@ -37,6 +42,11 @@ actions:
   note: Anti-inflammatory (inhibits COX-1 and COX-2 prostaglandin synthesis)
   reference_ids:
   - REF-0403
+  - REF-0803
+  - REF-0618
+  - REF-2298
+  - REF-2302
+  - REF-0805
   status: verified
 - action: antimicrobial
   note: Antibacterial, including against Escherichia coli (urinary support)
@@ -47,6 +57,11 @@ actions:
   note: Antioxidant (hydroxyl-radical scavenging)
   reference_ids:
   - REF-0403
+  - REF-0803
+  - REF-2298
+  - REF-2301
+  - REF-2302
+  - REF-2303
   status: verified
 indications:
 - condition: arthritis
@@ -117,6 +132,15 @@ references:
 - REF-0803
 - REF-0804
 - REF-0805
+- REF-0618
+- REF-2297
+- REF-2298
+- REF-2299
+- REF-2300
+- REF-2301
+- REF-2302
+- REF-2303
+- REF-2304
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -127,4 +151,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   review (REF-0618) centring oenothein B as the key bioactive and noting that the BPH evidence base, while
   supportive of traditional use, is not yet conclusive. | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0803, REF-0804, REF-0805.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0803, REF-0804, REF-0805.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0803,
+  REF-0618, REF-2297, REF-2298, REF-2299, REF-2300, REF-2301, REF-2302, REF-2303, REF-2304, REF-0805)
+  — woven into relevant actions/indications and the plant-level references bucket.'

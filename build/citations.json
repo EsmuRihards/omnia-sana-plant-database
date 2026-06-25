@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2296,
+ "count": 2316,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -4696,7 +4696,9 @@
    "scientific": [
     "Epilobium parviflorum"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": []
   },
   {
@@ -17723,6 +17725,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2312",
+   "key": "gavrila2022hedera",
+   "type": "article",
+   "title": "Ultrasound assisted extraction of saponins from Hedera helix L. and an in vitro biocompatibility evaluation of the extracts",
+   "authors": "Gavrila, A.I., Tatia, R., Seciu-Grama, A., Tarcomnicu, I., Negrea, C., Calinescu, I., Zalaru, C., Moldovan, L., Raiciu, A.D. and Popa, I.",
+   "journal": "Pharmaceuticals",
+   "year": "2022",
+   "doi": "10.3390/ph15101197",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph15101197",
+   "link_type": "doi",
+   "citation": "Gavrila, A.I., Tatia, R., Seciu-Grama, A., Tarcomnicu, I., Negrea, C., Calinescu, I., Zalaru, C., Moldovan, L., Raiciu, A.D. and Popa, I (2022) 'Ultrasound assisted extraction of saponins from Hedera helix L. and an in vitro biocompatibility evaluation of the extracts', Pharmaceuticals, 15(10), pp. 1197. doi:10.3390/ph15101197",
+   "abstract": "Ultrasound-assisted extraction was used to recover the triterpene saponins of Hedera helix, and the extracts were evaluated for in vitro biocompatibility.",
+   "tier": "preclinical",
+   "display": "Ultrasound assisted extraction of saponins from Hedera helix L. and an in vitro biocompatibility evaluation of the extracts",
+   "plants": [
+    "Common ivy",
+    "English ivy",
+    "Ivy Leaf"
+   ],
+   "scientific": [
+    "Hedera helix"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2049",
    "key": "piazza2022ahamamelis",
    "type": "article",
@@ -18507,6 +18536,36 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2302",
+   "key": "merighi2021epilobium",
+   "type": "article",
+   "title": "Antioxidant and anti-inflammatory effects of Epilobium parviflorum, Melilotus officinalis and Cardiospermum halicacabum plant extracts in macrophage and microglial cells",
+   "authors": "Merighi, S., Travagli, A., Tedeschi, P., Marchetti, N. and Gessi, S.",
+   "journal": "Cells",
+   "year": "2021",
+   "doi": "10.3390/cells10102691",
+   "url": "",
+   "link": "https://doi.org/10.3390/cells10102691",
+   "link_type": "doi",
+   "citation": "Merighi, S., Travagli, A., Tedeschi, P., Marchetti, N. and Gessi, S (2021) 'Antioxidant and anti-inflammatory effects of Epilobium parviflorum, Melilotus officinalis and Cardiospermum halicacabum plant extracts in macrophage and microglial cells', Cells, 10(10), pp. 2691. doi:10.3390/cells10102691",
+   "abstract": "Epilobium parviflorum extract showed antioxidant and anti-inflammatory effects in macrophage and microglial cells.",
+   "tier": "preclinical",
+   "display": "Antioxidant and anti-inflammatory effects of Epilobium parviflorum, Melilotus officinalis and Cardiospermum halicacabum plant extracts in macrophage and microglial cells",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -21288,7 +21347,9 @@
    "scientific": [
     "Hedera helix"
    ],
-   "actions": [],
+   "actions": [
+    "Expectorant"
+   ],
    "conditions": []
   },
   {
@@ -22802,6 +22863,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2310",
+   "key": "alkattan2021hedera",
+   "type": "article",
+   "title": "Safety of English ivy (Hedera helix) leaf extract during pregnancy: retrospective cohort study",
+   "authors": "Alkattan, A., Alameer, R., Alsalameen, E., Almaary, M., Alkhairat, M., Alkhalifah, A., Alghanim, F. and Radwan, N.",
+   "journal": "DARU Journal of Pharmaceutical Sciences",
+   "year": "2021",
+   "doi": "10.1007/s40199-021-00415-7",
+   "url": "",
+   "link": "https://doi.org/10.1007/s40199-021-00415-7",
+   "link_type": "doi",
+   "citation": "Alkattan, A., Alameer, R., Alsalameen, E., Almaary, M., Alkhairat, M., Alkhalifah, A., Alghanim, F. and Radwan, N (2021) 'Safety of English ivy (Hedera helix) leaf extract during pregnancy: retrospective cohort study', DARU Journal of Pharmaceutical Sciences, 29(2), pp. 493-499. doi:10.1007/s40199-021-00415-7",
+   "abstract": "This retrospective cohort study evaluated the safety of English ivy (Hedera helix) leaf extract, widely used for productive cough, when taken during pregnancy.",
+   "tier": "clinical",
+   "display": "Safety of English ivy (Hedera helix) leaf extract during pregnancy: retrospective cohort study",
+   "plants": [
+    "Common ivy",
+    "English ivy",
+    "Ivy Leaf"
+   ],
+   "scientific": [
+    "Hedera helix"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1277",
    "key": "mohammed2021sage",
    "type": "article",
@@ -23609,7 +23697,9 @@
    "scientific": [
     "Hedera helix"
    ],
-   "actions": [],
+   "actions": [
+    "Expectorant"
+   ],
    "conditions": []
   },
   {
@@ -35014,7 +35104,10 @@
    "scientific": [
     "Epilobium parviflorum"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -37822,6 +37915,33 @@
    ],
    "scientific": [
     "Centaurium erythraea"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2315",
+   "key": "roscacasian2017hedera",
+   "type": "article",
+   "title": "Chemical composition and antifungal activity of Hedera helix leaf ethanolic extract",
+   "authors": "Rosca-Casian, O., Mircea, C., Vlase, L., Gheldiu, A., Teuca, D.T. and Parvu, M.",
+   "journal": "Acta Biologica Hungarica",
+   "year": "2017",
+   "doi": "10.1556/018.68.2017.2.7",
+   "url": "",
+   "link": "https://doi.org/10.1556/018.68.2017.2.7",
+   "link_type": "doi",
+   "citation": "Rosca-Casian, O., Mircea, C., Vlase, L., Gheldiu, A., Teuca, D.T. and Parvu, M (2017) 'Chemical composition and antifungal activity of Hedera helix leaf ethanolic extract', Acta Biologica Hungarica, 68(2), pp. 196-207. doi:10.1556/018.68.2017.2.7",
+   "abstract": "The chemical composition of a Hedera helix leaf ethanolic extract was characterised and the extract showed antifungal activity against several fungal pathogens.",
+   "tier": "preclinical",
+   "display": "Chemical composition and antifungal activity of Hedera helix leaf ethanolic extract",
+   "plants": [
+    "Common ivy",
+    "English ivy",
+    "Ivy Leaf"
+   ],
+   "scientific": [
+    "Hedera helix"
    ],
    "actions": [],
    "conditions": []
@@ -42622,6 +42742,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2308",
+   "key": "yu2016hedera",
+   "type": "article",
+   "title": "Pharmacokinetic parameters of three active ingredients hederacoside C, hederacoside D, and alpha-hederin in Hedera helix in rats",
+   "authors": "Yu, M., Liu, J., Li, L., Xu, H., Xing, Y., Zhao, Y. and Yu, Z.",
+   "journal": "Journal of Separation Science",
+   "year": "2016",
+   "doi": "10.1002/jssc.201600523",
+   "url": "",
+   "link": "https://doi.org/10.1002/jssc.201600523",
+   "link_type": "doi",
+   "citation": "Yu, M., Liu, J., Li, L., Xu, H., Xing, Y., Zhao, Y. and Yu, Z (2016) 'Pharmacokinetic parameters of three active ingredients hederacoside C, hederacoside D, and alpha-hederin in Hedera helix in rats', Journal of Separation Science, 39(17), pp. 3292-3301. doi:10.1002/jssc.201600523",
+   "abstract": "The pharmacokinetic parameters of the three active triterpene-saponin ingredients hederacoside C, hederacoside D and alpha-hederin of Hedera helix were determined in rats.",
+   "tier": "preclinical",
+   "display": "Pharmacokinetic parameters of three active ingredients hederacoside C, hederacoside D, and alpha-hederin in Hedera helix in rats",
+   "plants": [
+    "Common ivy",
+    "English ivy",
+    "Ivy Leaf"
+   ],
+   "scientific": [
+    "Hedera helix"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1814",
    "key": "khan2016boswellia",
    "type": "article",
@@ -43741,6 +43888,35 @@
     "Filipendula ulmaria"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2301",
+   "key": "schepetkin2016epilobium",
+   "type": "article",
+   "title": "Therapeutic potential of polyphenols from Epilobium angustifolium (fireweed)",
+   "authors": "Schepetkin, I.A., Ramstead, A.G., Kirpotina, L.N., Voyich, J.M., Jutila, M.A. and Quinn, M.T.",
+   "journal": "Phytotherapy Research",
+   "year": "2016",
+   "doi": "10.1002/ptr.5648",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.5648",
+   "link_type": "doi",
+   "citation": "Schepetkin, I.A., Ramstead, A.G., Kirpotina, L.N., Voyich, J.M., Jutila, M.A. and Quinn, M.T (2016) 'Therapeutic potential of polyphenols from Epilobium angustifolium (fireweed)', Phytotherapy Research, 30(8), pp. 1287-1297. doi:10.1002/ptr.5648",
+   "abstract": "This review summarises the therapeutic potential of the polyphenols of Epilobium angustifolium (fireweed), including their antioxidant, anti-inflammatory and antiproliferative activity.",
+   "tier": "review",
+   "display": "Therapeutic potential of polyphenols from Epilobium angustifolium (fireweed)",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -45060,7 +45236,9 @@
    "scientific": [
     "Hedera helix"
    ],
-   "actions": [],
+   "actions": [
+    "Expectorant"
+   ],
    "conditions": []
   },
   {
@@ -48443,7 +48621,9 @@
    "scientific": [
     "Epilobium parviflorum"
    ],
-   "actions": [],
+   "actions": [
+    "Anti-inflammatory"
+   ],
    "conditions": [
     "Prostate support",
     "Urinary support",
@@ -52584,6 +52764,33 @@
    ]
   },
   {
+   "ref_id": "REF-2316",
+   "key": "cahlikova2012eschscholzia",
+   "type": "article",
+   "title": "Identification of pavinane alkaloids in the genera Argemone and Eschscholzia by GC-MS",
+   "authors": "Cahlikova, L., Kucera, R., Hostalkova, A., Klimes, J. and Opletal, L.",
+   "journal": "Natural Product Communications",
+   "year": "2012",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Identification%20of%20pavinane%20alkaloids%20in%20the%20genera%20Argemone%20and%20Eschscholzia%20by%20GC-MS",
+   "link_type": "search",
+   "citation": "Cahlikova, L., Kucera, R., Hostalkova, A., Klimes, J. and Opletal, L (2012) 'Identification of pavinane alkaloids in the genera Argemone and Eschscholzia by GC-MS', Natural Product Communications, 7(10), pp. 1279-1281.",
+   "abstract": "GC-MS analysis of Eschscholzia (including E. californica) and Argemone species identified 23 alkaloids of six structural types - pavinane, protopine, benzylisoquinoline, benzophenanthridine, aporphine and protoberberine - characterising the isoquinoline-alkaloid pattern of California poppy.",
+   "tier": "preclinical",
+   "display": "Identification of pavinane alkaloids in the genera Argemone and Eschscholzia by GC-MS",
+   "plants": [
+    "California Poppy",
+    "Cup of gold",
+    "Golden poppy"
+   ],
+   "scientific": [
+    "Eschscholzia californica"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0193",
    "key": "pauli2012vitro",
    "type": "book",
@@ -52677,6 +52884,33 @@
    "conditions": [
     "Cardiovascular / heart health"
    ]
+  },
+  {
+   "ref_id": "REF-2297",
+   "key": "ramstead2012epilobium",
+   "type": "article",
+   "title": "Oenothein B, a cyclic dimeric ellagitannin isolated from Epilobium angustifolium, enhances IFN-gamma production by lymphocytes",
+   "authors": "Ramstead, A.G., Schepetkin, I.A., Quinn, M.T. and Jutila, M.A.",
+   "journal": "PLoS One",
+   "year": "2012",
+   "doi": "10.1371/journal.pone.0050546",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0050546",
+   "link_type": "doi",
+   "citation": "Ramstead, A.G., Schepetkin, I.A., Quinn, M.T. and Jutila, M.A (2012) 'Oenothein B, a cyclic dimeric ellagitannin isolated from Epilobium angustifolium, enhances IFN-gamma production by lymphocytes', PLoS One, 7(11), pp. e50546. doi:10.1371/journal.pone.0050546",
+   "abstract": "Oenothein B, the cyclic dimeric ellagitannin marker of Epilobium, enhanced IFN-gamma production by lymphocytes, demonstrating immunomodulatory activity.",
+   "tier": "preclinical",
+   "display": "Oenothein B, a cyclic dimeric ellagitannin isolated from Epilobium angustifolium, enhances IFN-gamma production by lymphocytes",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0032",
@@ -54510,6 +54744,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2298",
+   "key": "kiss2010epilobium",
+   "type": "article",
+   "title": "Oenothein B's contribution to the anti-inflammatory and antioxidant activity of Epilobium sp.",
+   "authors": "Kiss, A.K., Bazylko, A., Filipek, A., Granica, S., Jaszewska, E., Kiarszys, U., Kosmider, A. and Piwowarski, J.",
+   "journal": "Phytomedicine",
+   "year": "2011",
+   "doi": "10.1016/j.phymed.2010.10.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2010.10.016",
+   "link_type": "doi",
+   "citation": "Kiss, A.K., Bazylko, A., Filipek, A., Granica, S., Jaszewska, E., Kiarszys, U., Kosmider, A. and Piwowarski, J (2011) 'Oenothein B's contribution to the anti-inflammatory and antioxidant activity of Epilobium sp', Phytomedicine, 18(7), pp. 557-560. doi:10.1016/j.phymed.2010.10.016",
+   "abstract": "Oenothein B was shown to be a major contributor to the anti-inflammatory and antioxidant activity of Epilobium species.",
+   "tier": "preclinical",
+   "display": "Oenothein B's contribution to the anti-inflammatory and antioxidant activity of Epilobium sp.",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1879",
    "key": "chan2011schisandra",
    "type": "article",
@@ -54670,6 +54934,35 @@
     "Varicose veins",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2314",
+   "key": "mendel2011hedera",
+   "type": "article",
+   "title": "The effect of the whole extract of common ivy (Hedera helix) leaves and selected active substances on the motoric activity of rat isolated stomach strips",
+   "authors": "Mendel, M., Chlopecka, M., Dziekan, N. and Wiechetek, M.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "2011",
+   "doi": "10.1016/j.jep.2011.01.036",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jep.2011.01.036",
+   "link_type": "doi",
+   "citation": "Mendel, M., Chlopecka, M., Dziekan, N. and Wiechetek, M (2011) 'The effect of the whole extract of common ivy (Hedera helix) leaves and selected active substances on the motoric activity of rat isolated stomach strips', Journal of Ethnopharmacology, 134(3), pp. 796-802. doi:10.1016/j.jep.2011.01.036",
+   "abstract": "The whole extract of common ivy (Hedera helix) leaves and its active saponins modulated the motoric (spasmolytic) activity of isolated rat stomach strips, supporting an antispasmodic action on smooth muscle.",
+   "tier": "preclinical",
+   "display": "The effect of the whole extract of common ivy (Hedera helix) leaves and selected active substances on the motoric activity of rat isolated stomach strips",
+   "plants": [
+    "Common ivy",
+    "English ivy",
+    "Ivy Leaf"
+   ],
+   "scientific": [
+    "Hedera helix"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0010",
@@ -54902,6 +55195,33 @@
     "Inflammation (general)",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2306",
+   "key": "cahlikova2010eschscholzia",
+   "type": "article",
+   "title": "Acetylcholinesterase and butyrylcholinesterase inhibitory compounds from Eschscholzia californica (Papaveraceae)",
+   "authors": "Cahlikova, L., Macakova, K., Kunes, J., Kurfurst, M., Opletal, L., Cvacka, J., Chlebek, J. and Blunden, G.",
+   "journal": "Natural Product Communications",
+   "year": "2010",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Acetylcholinesterase%20and%20butyrylcholinesterase%20inhibitory%20compounds%20from%20Eschscholzia%20californica%20%28Papaveraceae%29",
+   "link_type": "search",
+   "citation": "Cahlikova, L., Macakova, K., Kunes, J., Kurfurst, M., Opletal, L., Cvacka, J., Chlebek, J. and Blunden, G (2010) 'Acetylcholinesterase and butyrylcholinesterase inhibitory compounds from Eschscholzia californica (Papaveraceae)', Natural Product Communications, 5(7), pp. 1035-1038.",
+   "abstract": "Fourteen isoquinoline alkaloids were isolated from Eschscholzia californica; reticuline and a tetrahydroisoquinoline showed butyrylcholinesterase-inhibitory activity.",
+   "tier": "preclinical",
+   "display": "Acetylcholinesterase and butyrylcholinesterase inhibitory compounds from Eschscholzia californica (Papaveraceae)",
+   "plants": [
+    "California Poppy",
+    "Cup of gold",
+    "Golden poppy"
+   ],
+   "scientific": [
+    "Eschscholzia californica"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1383",
@@ -56335,6 +56655,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2309",
+   "key": "sieben2009hedera",
+   "type": "article",
+   "title": "Alpha-hederin, but not hederacoside C and hederagenin from Hedera helix, affects the binding behavior, dynamics, and regulation of beta-2-adrenergic receptors",
+   "authors": "Sieben, A., Prenner, L., Sorkalla, T., Wolf, A., Jakobs, D., Runkel, F. and Haberlein, H.",
+   "journal": "Biochemistry",
+   "year": "2009",
+   "doi": "10.1021/bi802036b",
+   "url": "",
+   "link": "https://doi.org/10.1021/bi802036b",
+   "link_type": "doi",
+   "citation": "Sieben, A., Prenner, L., Sorkalla, T., Wolf, A., Jakobs, D., Runkel, F. and Haberlein, H (2009) 'Alpha-hederin, but not hederacoside C and hederagenin from Hedera helix, affects the binding behavior, dynamics, and regulation of beta-2-adrenergic receptors', Biochemistry, 48(15), pp. 3477-3482. doi:10.1021/bi802036b",
+   "abstract": "Alpha-hederin from Hedera helix increased beta-2-adrenergic receptor density and responsiveness, providing the molecular basis for the bronchodilatory and antispasmodic action of ivy-leaf extract.",
+   "tier": "preclinical",
+   "display": "Alpha-hederin, but not hederacoside C and hederagenin from Hedera helix, affects the binding behavior, dynamics, and regulation of beta-2-adrenergic receptors",
+   "plants": [
+    "Common ivy",
+    "English ivy",
+    "Ivy Leaf"
+   ],
+   "scientific": [
+    "Hedera helix"
+   ],
+   "actions": [
+    "Antispasmodic",
+    "Bronchodilator / anti-asthmatic"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1592",
    "key": "ulbricht2009bilberry",
    "type": "article",
@@ -56456,6 +56806,33 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2307",
+   "key": "singh2009eschscholzia",
+   "type": "article",
+   "title": "Antifungal activity of the alkaloids from Eschscholzia californica",
+   "authors": "Singh, S., Jain, L., Pandey, M.B., Singh, U.P. and Pandey, V.B.",
+   "journal": "Folia Microbiologica",
+   "year": "2009",
+   "doi": "10.1007/s12223-009-0032-7",
+   "url": "",
+   "link": "https://doi.org/10.1007/s12223-009-0032-7",
+   "link_type": "doi",
+   "citation": "Singh, S., Jain, L., Pandey, M.B., Singh, U.P. and Pandey, V.B (2009) 'Antifungal activity of the alkaloids from Eschscholzia californica', Folia Microbiologica, 54(3), pp. 204-206. doi:10.1007/s12223-009-0032-7",
+   "abstract": "The isoquinoline alkaloids hunnemanine and norsanguinarine isolated from Eschscholzia californica showed antifungal activity against phytopathogenic fungi.",
+   "tier": "preclinical",
+   "display": "Antifungal activity of the alkaloids from Eschscholzia californica",
+   "plants": [
+    "California Poppy",
+    "Cup of gold",
+    "Golden poppy"
+   ],
+   "scientific": [
+    "Eschscholzia californica"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -56777,6 +57154,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2299",
+   "key": "schepetkin2009epilobium",
+   "type": "article",
+   "title": "Immunomodulatory activity of oenothein B isolated from Epilobium angustifolium",
+   "authors": "Schepetkin, I.A., Kirpotina, L.N., Jakiw, L., Khlebnikov, A.I., Blaskovich, C.L., Jutila, M.A. and Quinn, M.T.",
+   "journal": "Journal of Immunology",
+   "year": "2009",
+   "doi": "10.4049/jimmunol.0901827",
+   "url": "",
+   "link": "https://doi.org/10.4049/jimmunol.0901827",
+   "link_type": "doi",
+   "citation": "Schepetkin, I.A., Kirpotina, L.N., Jakiw, L., Khlebnikov, A.I., Blaskovich, C.L., Jutila, M.A. and Quinn, M.T (2009) 'Immunomodulatory activity of oenothein B isolated from Epilobium angustifolium', Journal of Immunology, 183(10), pp. 6754-6766. doi:10.4049/jimmunol.0901827",
+   "abstract": "Oenothein B isolated from Epilobium angustifolium displayed immunomodulatory activity, modulating cytokine production and innate immune responses.",
+   "tier": "preclinical",
+   "display": "Immunomodulatory activity of oenothein B isolated from Epilobium angustifolium",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0170",
    "key": "mori2009improving",
    "type": "article",
@@ -56901,6 +57305,35 @@
    ],
    "actions": [
     "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2303",
+   "key": "hevesitoth2008epilobium",
+   "type": "article",
+   "title": "Polyphenol composition and antioxidant capacity of Epilobium species",
+   "authors": "Hevesi Toth, B., Blazics, B. and Kery, A.",
+   "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+   "year": "2009",
+   "doi": "10.1016/j.jpba.2008.09.047",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jpba.2008.09.047",
+   "link_type": "doi",
+   "citation": "Hevesi Toth, B., Blazics, B. and Kery, A (2009) 'Polyphenol composition and antioxidant capacity of Epilobium species', Journal of Pharmaceutical and Biomedical Analysis, 49(1), pp. 26-31. doi:10.1016/j.jpba.2008.09.047",
+   "abstract": "The polyphenol composition and antioxidant capacity of Epilobium species were characterised, relating their flavonoid and ellagitannin content to radical-scavenging activity.",
+   "tier": "preclinical",
+   "display": "Polyphenol composition and antioxidant capacity of Epilobium species",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [
+    "Antioxidant"
    ],
    "conditions": []
   },
@@ -60027,6 +60460,35 @@
    ]
   },
   {
+   "ref_id": "REF-2305",
+   "key": "gafner2006eschscholzia",
+   "type": "article",
+   "title": "Alkaloids from Eschscholzia californica and their capacity to inhibit binding of [3H]8-hydroxy-2-(di-N-propylamino)tetralin to 5-HT1A receptors in vitro",
+   "authors": "Gafner, S., Dietz, B.M., McPhail, K.L., Scott, I.M., Glinski, J.A., Russell, F.E., McCollom, M.M., Budzinski, J.W., Foster, B.C., Bergeron, C., Rhyu, M.R. and Bolton, J.L.",
+   "journal": "Journal of Natural Products",
+   "year": "2006",
+   "doi": "10.1021/np058114h",
+   "url": "",
+   "link": "https://doi.org/10.1021/np058114h",
+   "link_type": "doi",
+   "citation": "Gafner, S., Dietz, B.M., McPhail, K.L., Scott, I.M., Glinski, J.A., Russell, F.E., McCollom, M.M., Budzinski, J.W., Foster, B.C., Bergeron, C., Rhyu, M.R. and Bolton, J.L (2006) 'Alkaloids from Eschscholzia californica and their capacity to inhibit binding of [3H]8-hydroxy-2-(di-N-propylamino)tetralin to 5-HT1A receptors in vitro', Journal of Natural Products, 69(3), pp. 432-435. doi:10.1021/np058114h",
+   "abstract": "A California poppy (Eschscholzia californica) extract bound to 5-HT1A and 5-HT7 receptors; the isolated alkaloids - including the aporphine N-methyllaurotetanine - accounted for much of the serotonergic activity relevant to its calming effect.",
+   "tier": "preclinical",
+   "display": "Alkaloids from Eschscholzia californica and their capacity to inhibit binding of [3H]8-hydroxy-2-(di-N-propylamino)tetralin to 5-HT1A receptors in vitro",
+   "plants": [
+    "California Poppy",
+    "Cup of gold",
+    "Golden poppy"
+   ],
+   "scientific": [
+    "Eschscholzia californica"
+   ],
+   "actions": [
+    "Anxiolytic / calming"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0622",
    "key": "wesolowska2006lactucin",
    "type": "article",
@@ -62951,6 +63413,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2313",
+   "key": "suleyman2003hedera",
+   "type": "article",
+   "title": "Acute and chronic antiinflammatory profile of the ivy plant, Hedera helix, in rats",
+   "authors": "Suleyman, H., Mshvildadze, V., Gepdiremen, A. and Elias, R.",
+   "journal": "Phytomedicine",
+   "year": "2003",
+   "doi": "10.1078/0944-7113-00260",
+   "url": "",
+   "link": "https://doi.org/10.1078/0944-7113-00260",
+   "link_type": "doi",
+   "citation": "Suleyman, H., Mshvildadze, V., Gepdiremen, A. and Elias, R (2003) 'Acute and chronic antiinflammatory profile of the ivy plant, Hedera helix, in rats', Phytomedicine, 10(5), pp. 370-374. doi:10.1078/0944-7113-00260",
+   "abstract": "Hedera helix (ivy) showed both acute and chronic anti-inflammatory activity in rat models of inflammation.",
+   "tier": "preclinical",
+   "display": "Acute and chronic antiinflammatory profile of the ivy plant, Hedera helix, in rats",
+   "plants": [
+    "Common ivy",
+    "English ivy",
+    "Ivy Leaf"
+   ],
+   "scientific": [
+    "Hedera helix"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1563",
    "key": "wolfson2003skullcap",
    "type": "article",
@@ -63242,6 +63731,33 @@
    "actions": [
     "Antidiabetic (blood-sugar lowering)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2304",
+   "key": "vitalone2003epilobium",
+   "type": "article",
+   "title": "Characterization of the effect of Epilobium extracts on human cell proliferation",
+   "authors": "Vitalone, A., McColl, J., Thome, D., Costa, L.G. and Tita, B.",
+   "journal": "Pharmacology",
+   "year": "2003",
+   "doi": "10.1159/000072360",
+   "url": "",
+   "link": "https://doi.org/10.1159/000072360",
+   "link_type": "doi",
+   "citation": "Vitalone, A., McColl, J., Thome, D., Costa, L.G. and Tita, B (2003) 'Characterization of the effect of Epilobium extracts on human cell proliferation', Pharmacology, 69(2), pp. 79-87. doi:10.1159/000072360",
+   "abstract": "Epilobium extracts inhibited the proliferation of human prostate cells, supporting their traditional use for benign prostatic hyperplasia.",
+   "tier": "preclinical",
+   "display": "Characterization of the effect of Epilobium extracts on human cell proliferation",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -65693,7 +66209,11 @@
    "scientific": [
     "Eschscholzia californica"
    ],
-   "actions": [],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anxiolytic / calming",
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {
@@ -67358,6 +67878,62 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2311",
+   "key": "trute1997hedera",
+   "type": "article",
+   "title": "In vitro antispasmodic compounds of the dry extract obtained from Hedera helix",
+   "authors": "Trute, A., Gross, J., Mutschler, E. and Nahrstedt, A.",
+   "journal": "Planta Medica",
+   "year": "1997",
+   "doi": "10.1055/s-2006-957627",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-957627",
+   "link_type": "doi",
+   "citation": "Trute, A., Gross, J., Mutschler, E. and Nahrstedt, A (1997) 'In vitro antispasmodic compounds of the dry extract obtained from Hedera helix', Planta Medica, 63(2), pp. 125-129. doi:10.1055/s-2006-957627",
+   "abstract": "The antispasmodic compounds of a Hedera helix dry extract were characterised in vitro, identifying the saponins responsible for its smooth-muscle-relaxant activity.",
+   "tier": "preclinical",
+   "display": "In vitro antispasmodic compounds of the dry extract obtained from Hedera helix",
+   "plants": [
+    "Common ivy",
+    "English ivy",
+    "Ivy Leaf"
+   ],
+   "scientific": [
+    "Hedera helix"
+   ],
+   "actions": [
+    "Antispasmodic"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2300",
+   "key": "ducrey1997epilobium",
+   "type": "article",
+   "title": "Inhibition of 5-alpha-reductase and aromatase by the ellagitannins oenothein A and oenothein B from Epilobium species",
+   "authors": "Ducrey, B., Marston, A., Gohring, S., Hartmann, R.W. and Hostettmann, K.",
+   "journal": "Planta Medica",
+   "year": "1997",
+   "doi": "10.1055/s-2006-957624",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2006-957624",
+   "link_type": "doi",
+   "citation": "Ducrey, B., Marston, A., Gohring, S., Hartmann, R.W. and Hostettmann, K (1997) 'Inhibition of 5-alpha-reductase and aromatase by the ellagitannins oenothein A and oenothein B from Epilobium species', Planta Medica, 63(2), pp. 111-114. doi:10.1055/s-2006-957624",
+   "abstract": "The ellagitannins oenothein A and oenothein B from Epilobium species inhibited 5-alpha-reductase and aromatase, providing a mechanistic basis for the traditional use of willowherb in benign prostatic hyperplasia.",
+   "tier": "preclinical",
+   "display": "Inhibition of 5-alpha-reductase and aromatase by the ellagitannins oenothein A and oenothein B from Epilobium species",
+   "plants": [
+    "Bay-leaf willowherb",
+    "Hoary willowherb",
+    "Small-flowered willowherb"
+   ],
+   "scientific": [
+    "Epilobium parviflorum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1403",
    "key": "maeda1997horsetail",
    "type": "article",
@@ -67824,7 +68400,10 @@
    "scientific": [
     "Eschscholzia californica"
    ],
-   "actions": [],
+   "actions": [
+    "Anxiolytic / calming",
+    "Sedative / sleep support"
+   ],
    "conditions": []
   },
   {

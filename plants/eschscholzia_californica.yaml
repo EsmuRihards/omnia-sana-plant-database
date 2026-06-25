@@ -15,11 +15,17 @@ constituents:
   reference_ids:
   - REF-0427
   - REF-0428
+  - REF-2305
+  - REF-0808
+  - REF-2306
+  - REF-2307
+  - REF-2316
 actions:
 - action: analgesic
   note: Mild analgesic (traditional use for pain)
   reference_ids:
   - REF-0427
+  - REF-0807
   status: needs-review
 - action: anxiolytic
   note: Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California
@@ -27,11 +33,16 @@ actions:
   reference_ids:
   - REF-0427
   - REF-0606
+  - REF-0807
+  - REF-0806
+  - REF-2305
   status: verified
 - action: sedative
   note: Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)
   reference_ids:
   - REF-0427
+  - REF-0807
+  - REF-0806
   status: verified
 indications:
 - condition: anxiety
@@ -92,6 +103,11 @@ references:
 - REF-0806
 - REF-0807
 - REF-0808
+- REF-2305
+- REF-2306
+- REF-2307
+- REF-0427
+- REF-2316
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -102,4 +118,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor
   of a fixed Eschscholzia + Crataegus + magnesium combination that improved mild-to-moderate anxiety (REF-0606;
   a combination product, not California poppy alone). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0806, REF-0807, REF-0808.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0806, REF-0807, REF-0808.
+  | 2026-06-20: enriched to >=10 scientific publications: added 6 PubMed-verified @article sources (REF-0807,
+  REF-0806, REF-2305, REF-0808, REF-2306, REF-2307) — woven into relevant actions/indications and the
+  plant-level references bucket.'

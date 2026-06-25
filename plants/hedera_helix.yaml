@@ -17,6 +17,10 @@ constituents:
   reference_ids:
   - REF-0472
   - REF-0473
+  - REF-2308
+  - REF-2309
+  - REF-2311
+  - REF-2312
 - name: Flavonoids and phenolic acids
   compounds:
   - phenolic-acid
@@ -29,11 +33,15 @@ actions:
   note: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
   reference_ids:
   - REF-0472
+  - REF-2309
+  - REF-2311
+  - REF-2314
   status: verified
 - action: bronchodilator
   note: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
   reference_ids:
   - REF-0472
+  - REF-2309
   status: verified
 - action: expectorant
   note: Expectorant / secretolytic for productive cough and acute bronchitis (loosens and helps clear
@@ -42,6 +50,9 @@ actions:
   - REF-0472
   - REF-0473
   - REF-0575
+  - REF-0834
+  - REF-0833
+  - REF-0835
   status: verified
 indications:
 - condition: asthma
@@ -100,6 +111,14 @@ references:
 - REF-0833
 - REF-0834
 - REF-0835
+- REF-2308
+- REF-2309
+- REF-2310
+- REF-2311
+- REF-2312
+- REF-2313
+- REF-2314
+- REF-2315
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -111,4 +130,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical ef
   clinically relevant reduction in cough severity with onset within 48 hours (REF-0575). | 2026-06-15:
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
   | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment):
-  REF-0833, REF-0834, REF-0835.'
+  REF-0833, REF-0834, REF-0835. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
+  @article sources (REF-0834, REF-0833, REF-2308, REF-2309, REF-2310, REF-0835, REF-2311, REF-2312, REF-2313,
+  REF-2314, REF-2315) — woven into relevant actions/indications and the plant-level references bucket.'

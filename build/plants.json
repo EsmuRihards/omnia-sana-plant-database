@@ -11969,7 +11969,11 @@
      "note": "Characteristic Epilobium polyphenols underlying the anti-inflammatory and prostate activity; a genus review identifies oenothein B as the dominant constituent and likely driver of the antimicrobial, anti-inflammatory, anti-proliferative and antioxidant effects.",
      "reference_ids": [
       "REF-0403",
-      "REF-0618"
+      "REF-0618",
+      "REF-2297",
+      "REF-2298",
+      "REF-2299",
+      "REF-2300"
      ]
     },
     {
@@ -11981,7 +11985,8 @@
      ],
      "note": "Antioxidant constituents.",
      "reference_ids": [
-      "REF-0403"
+      "REF-0403",
+      "REF-2303"
      ]
     },
     {
@@ -12000,7 +12005,12 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory (inhibits COX-1 and COX-2 prostaglandin synthesis)",
      "reference_ids": [
-      "REF-0403"
+      "REF-0403",
+      "REF-0803",
+      "REF-0618",
+      "REF-2298",
+      "REF-2302",
+      "REF-0805"
      ],
      "status": "verified"
     },
@@ -12016,7 +12026,12 @@
      "action": "antioxidant",
      "note": "Antioxidant (hydroxyl-radical scavenging)",
      "reference_ids": [
-      "REF-0403"
+      "REF-0403",
+      "REF-0803",
+      "REF-2298",
+      "REF-2301",
+      "REF-2302",
+      "REF-2303"
      ],
      "status": "verified"
     }
@@ -12114,7 +12129,16 @@
    "references": [
     "REF-0803",
     "REF-0804",
-    "REF-0805"
+    "REF-0805",
+    "REF-0618",
+    "REF-2297",
+    "REF-2298",
+    "REF-2299",
+    "REF-2300",
+    "REF-2301",
+    "REF-2302",
+    "REF-2303",
+    "REF-2304"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -12383,7 +12407,12 @@
      "note": "(S)-reticuline modulates GABA-A receptor chloride currents, underlying the calming effect.",
      "reference_ids": [
       "REF-0427",
-      "REF-0428"
+      "REF-0428",
+      "REF-2305",
+      "REF-0808",
+      "REF-2306",
+      "REF-2307",
+      "REF-2316"
      ]
     }
    ],
@@ -12392,7 +12421,8 @@
      "action": "analgesic",
      "note": "Mild analgesic (traditional use for pain)",
      "reference_ids": [
-      "REF-0427"
+      "REF-0427",
+      "REF-0807"
      ],
      "status": "needs-review"
     },
@@ -12401,7 +12431,10 @@
      "note": "Anxiolytic for anxiety and nervous tension - also supported by a double-blind RCT of a fixed California poppy + hawthorn (Crataegus) + magnesium combination in mild-to-moderate anxiety",
      "reference_ids": [
       "REF-0427",
-      "REF-0606"
+      "REF-0606",
+      "REF-0807",
+      "REF-0806",
+      "REF-2305"
      ],
      "status": "verified"
     },
@@ -12409,7 +12442,9 @@
      "action": "sedative",
      "note": "Mild sedative / sleep support for insomnia (positive allosteric modulation of GABA-A receptors)",
      "reference_ids": [
-      "REF-0427"
+      "REF-0427",
+      "REF-0807",
+      "REF-0806"
      ],
      "status": "verified"
     }
@@ -12496,7 +12531,12 @@
    "references": [
     "REF-0806",
     "REF-0807",
-    "REF-0808"
+    "REF-0808",
+    "REF-2305",
+    "REF-2306",
+    "REF-2307",
+    "REF-0427",
+    "REF-2316"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -14825,7 +14865,11 @@
      "note": "The secretolytic and antispasmodic active constituents; extracts are standardised to them.",
      "reference_ids": [
       "REF-0472",
-      "REF-0473"
+      "REF-0473",
+      "REF-2308",
+      "REF-2309",
+      "REF-2311",
+      "REF-2312"
      ]
     },
     {
@@ -14845,7 +14889,10 @@
      "action": "antispasmodic",
      "note": "Antispasmodic / bronchodilatory - eases coughing fits and breathlessness",
      "reference_ids": [
-      "REF-0472"
+      "REF-0472",
+      "REF-2309",
+      "REF-2311",
+      "REF-2314"
      ],
      "status": "verified"
     },
@@ -14853,7 +14900,8 @@
      "action": "bronchodilator",
      "note": "Antispasmodic / bronchodilatory - eases coughing fits and breathlessness",
      "reference_ids": [
-      "REF-0472"
+      "REF-0472",
+      "REF-2309"
      ],
      "status": "verified"
     },
@@ -14863,7 +14911,10 @@
      "reference_ids": [
       "REF-0472",
       "REF-0473",
-      "REF-0575"
+      "REF-0575",
+      "REF-0834",
+      "REF-0833",
+      "REF-0835"
      ],
      "status": "verified"
     }
@@ -14945,7 +14996,15 @@
    "references": [
     "REF-0833",
     "REF-0834",
-    "REF-0835"
+    "REF-0835",
+    "REF-2308",
+    "REF-2309",
+    "REF-2310",
+    "REF-2311",
+    "REF-2312",
+    "REF-2313",
+    "REF-2314",
+    "REF-2315"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",

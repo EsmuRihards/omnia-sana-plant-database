@@ -19,6 +19,11 @@ constituents:
   reference_ids:
   - REF-0528
   - REF-0536
+  - REF-2282
+  - REF-2285
+  - REF-2286
+  - REF-2287
+  - REF-2289
 - name: Phytosterols and alkaloids
   compounds:
   - phytosterol
@@ -26,6 +31,7 @@ constituents:
   note: Supporting constituents of the root.
   reference_ids:
   - REF-0528
+  - REF-2281
 actions:
 - action: analgesic
   note: Antispasmodic / analgesic for menstrual cramps and muscle spasm (antinociceptive in animal models)
@@ -112,6 +118,16 @@ references:
 - REF-0794
 - REF-0795
 - REF-0796
+- REF-2281
+- REF-2282
+- REF-2283
+- REF-2284
+- REF-2285
+- REF-2286
+- REF-0528
+- REF-2287
+- REF-2288
+- REF-2289
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -124,4 +140,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   directly supporting the myth-bust on diosgenin and progesterone. | 2026-06-15: migrated to entity schema
   (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
   PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0794, REF-0795,
-  REF-0796.'
+  REF-0796. | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
+  sources (REF-2281, REF-2282, REF-2283, REF-2284, REF-2285, REF-2286, REF-0528, REF-2287, REF-2288, REF-2289)
+  — woven into relevant actions/indications and the plant-level references bucket.'

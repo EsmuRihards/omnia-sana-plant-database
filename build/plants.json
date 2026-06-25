@@ -478,7 +478,8 @@
      "note": "Characteristic aromatic constituents - but beta-asarone is the toxic, safety-limiting compound.",
      "reference_ids": [
       "REF-0515",
-      "REF-0516"
+      "REF-0516",
+      "REF-2278"
      ]
     },
     {
@@ -489,7 +490,8 @@
      ],
      "note": "Other aromatic and bioactive constituents of the rhizome.",
      "reference_ids": [
-      "REF-0516"
+      "REF-0516",
+      "REF-2275"
      ]
     }
    ],
@@ -499,7 +501,8 @@
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
       "REF-0516",
-      "REF-0624"
+      "REF-0624",
+      "REF-2278"
      ],
      "status": "needs-review"
     },
@@ -508,7 +511,8 @@
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
       "REF-0516",
-      "REF-0624"
+      "REF-0624",
+      "REF-2277"
      ],
      "status": "needs-review"
     },
@@ -517,7 +521,8 @@
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
       "REF-0516",
-      "REF-0624"
+      "REF-0624",
+      "REF-2277"
      ],
      "status": "needs-review"
     },
@@ -533,7 +538,8 @@
      "action": "carminative",
      "note": "Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)",
      "reference_ids": [
-      "REF-0516"
+      "REF-0516",
+      "REF-2274"
      ],
      "status": "needs-review"
     },
@@ -542,7 +548,10 @@
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
       "REF-0516",
-      "REF-0624"
+      "REF-0624",
+      "REF-0716",
+      "REF-2273",
+      "REF-0718"
      ],
      "status": "needs-review"
     }
@@ -649,7 +658,16 @@
    "references": [
     "REF-0716",
     "REF-0717",
-    "REF-0718"
+    "REF-0718",
+    "REF-2272",
+    "REF-2273",
+    "REF-2274",
+    "REF-2275",
+    "REF-2276",
+    "REF-2277",
+    "REF-2278",
+    "REF-2279",
+    "REF-2280"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
@@ -11009,7 +11027,12 @@
      "note": "Diosgenin is an industrial precursor for making steroid hormones in the laboratory, but it is NOT converted into hormones in the human body. Oral bioavailability of diosgenin is low; in animal studies orally administered diosgenin restored skin thickness in ovariectomised mice and lowered blood lipids.",
      "reference_ids": [
       "REF-0528",
-      "REF-0536"
+      "REF-0536",
+      "REF-2282",
+      "REF-2285",
+      "REF-2286",
+      "REF-2287",
+      "REF-2289"
      ]
     },
     {
@@ -11020,7 +11043,8 @@
      ],
      "note": "Supporting constituents of the root.",
      "reference_ids": [
-      "REF-0528"
+      "REF-0528",
+      "REF-2281"
      ]
     }
    ],
@@ -11147,7 +11171,17 @@
    "references": [
     "REF-0794",
     "REF-0795",
-    "REF-0796"
+    "REF-0796",
+    "REF-2281",
+    "REF-2282",
+    "REF-2283",
+    "REF-2284",
+    "REF-2285",
+    "REF-2286",
+    "REF-0528",
+    "REF-2287",
+    "REF-2288",
+    "REF-2289"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -11568,7 +11602,9 @@
      "note": "The principal marker compounds of the root; together with saponins, flavonoids and polysaccharides they underlie the adaptogenic, immunostimulatory and neuroprotective activity.",
      "reference_ids": [
       "REF-0509",
-      "REF-0587"
+      "REF-0587",
+      "REF-2292",
+      "REF-2294"
      ]
     },
     {
@@ -11579,7 +11615,8 @@
      "note": "Immunomodulatory constituents.",
      "reference_ids": [
       "REF-0506",
-      "REF-0509"
+      "REF-0509",
+      "REF-0801"
      ]
     }
    ],
@@ -11590,7 +11627,9 @@
      "reference_ids": [
       "REF-0506",
       "REF-0509",
-      "REF-0587"
+      "REF-0587",
+      "REF-2290",
+      "REF-2295"
      ],
      "status": "verified"
     },
@@ -11598,7 +11637,8 @@
      "action": "antidiabetic",
      "note": "Preclinical neuroprotective and antidiabetic (glucose-regulating) activity",
      "reference_ids": [
-      "REF-0587"
+      "REF-0587",
+      "REF-2296"
      ],
      "status": "needs-review"
     },
@@ -11608,7 +11648,9 @@
      "reference_ids": [
       "REF-0506",
       "REF-0509",
-      "REF-0587"
+      "REF-0587",
+      "REF-2291",
+      "REF-2296"
      ],
      "status": "verified"
     },
@@ -11618,7 +11660,9 @@
      "reference_ids": [
       "REF-0506",
       "REF-0509",
-      "REF-0587"
+      "REF-0587",
+      "REF-2293",
+      "REF-0801"
      ],
      "status": "verified"
     },
@@ -11626,7 +11670,9 @@
      "action": "neuroprotective",
      "note": "Preclinical neuroprotective and antidiabetic (glucose-regulating) activity",
      "reference_ids": [
-      "REF-0587"
+      "REF-0587",
+      "REF-0800",
+      "REF-2294"
      ],
      "status": "needs-review"
     }
@@ -11736,7 +11782,15 @@
    "references": [
     "REF-0800",
     "REF-0801",
-    "REF-0802"
+    "REF-0802",
+    "REF-0587",
+    "REF-2290",
+    "REF-2291",
+    "REF-2292",
+    "REF-2293",
+    "REF-2294",
+    "REF-2295",
+    "REF-2296"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",

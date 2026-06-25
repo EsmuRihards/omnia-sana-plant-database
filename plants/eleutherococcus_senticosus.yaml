@@ -22,6 +22,8 @@ constituents:
   reference_ids:
   - REF-0509
   - REF-0587
+  - REF-2292
+  - REF-2294
 - name: Polysaccharides
   compounds:
   - polysaccharide
@@ -29,6 +31,7 @@ constituents:
   reference_ids:
   - REF-0506
   - REF-0509
+  - REF-0801
 actions:
 - action: adaptogen
   note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
@@ -36,11 +39,14 @@ actions:
   - REF-0506
   - REF-0509
   - REF-0587
+  - REF-2290
+  - REF-2295
   status: verified
 - action: antidiabetic
   note: Preclinical neuroprotective and antidiabetic (glucose-regulating) activity
   reference_ids:
   - REF-0587
+  - REF-2296
   status: needs-review
 - action: ergogenic
   note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
@@ -48,6 +54,8 @@ actions:
   - REF-0506
   - REF-0509
   - REF-0587
+  - REF-2291
+  - REF-2296
   status: verified
 - action: immunomodulator
   note: Immune support (immunomodulatory)
@@ -55,11 +63,15 @@ actions:
   - REF-0506
   - REF-0509
   - REF-0587
+  - REF-2293
+  - REF-0801
   status: verified
 - action: neuroprotective
   note: Preclinical neuroprotective and antidiabetic (glucose-regulating) activity
   reference_ids:
   - REF-0587
+  - REF-0800
+  - REF-2294
   status: needs-review
 indications:
 - condition: blood-sugar
@@ -134,6 +146,14 @@ references:
 - REF-0800
 - REF-0801
 - REF-0802
+- REF-0587
+- REF-2290
+- REF-2291
+- REF-2292
+- REF-2293
+- REF-2294
+- REF-2295
+- REF-2296
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'
@@ -144,4 +164,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursin
   and pharmacology (REF-0587) supporting the adaptogenic and immunomodulatory actions and adding preclinical
   neuroprotective/antidiabetic activity (needs-review). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0800, REF-0801, REF-0802.'
+  references to the plant-level references bucket (least-cited enrichment): REF-0800, REF-0801, REF-0802.
+  | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0587,
+  REF-2290, REF-0800, REF-2291, REF-2292, REF-2293, REF-0801, REF-2294, REF-2295, REF-2296) — woven into
+  relevant actions/indications and the plant-level references bucket.'

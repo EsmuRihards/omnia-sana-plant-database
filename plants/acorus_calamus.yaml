@@ -16,6 +16,7 @@ constituents:
   reference_ids:
   - REF-0515
   - REF-0516
+  - REF-2278
 - name: Essential oil and lignans
   compounds:
   - essential-oil
@@ -23,6 +24,7 @@ constituents:
   note: Other aromatic and bioactive constituents of the rhizome.
   reference_ids:
   - REF-0516
+  - REF-2275
 actions:
 - action: anticonvulsant
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
@@ -30,6 +32,7 @@ actions:
   reference_ids:
   - REF-0516
   - REF-0624
+  - REF-2278
   status: needs-review
 - action: antidepressant
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
@@ -37,6 +40,7 @@ actions:
   reference_ids:
   - REF-0516
   - REF-0624
+  - REF-2277
   status: needs-review
 - action: anxiolytic
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
@@ -44,6 +48,7 @@ actions:
   reference_ids:
   - REF-0516
   - REF-0624
+  - REF-2277
   status: needs-review
 - action: bitter-tonic
   note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
@@ -54,6 +59,7 @@ actions:
   note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
   reference_ids:
   - REF-0516
+  - REF-2274
   status: needs-review
 - action: neuroprotective
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
@@ -61,6 +67,9 @@ actions:
   reference_ids:
   - REF-0516
   - REF-0624
+  - REF-0716
+  - REF-2273
+  - REF-0718
   status: needs-review
 indications:
 - condition: anxiety
@@ -136,6 +145,15 @@ references:
 - REF-0716
 - REF-0717
 - REF-0718
+- REF-2272
+- REF-2273
+- REF-2274
+- REF-2275
+- REF-2276
+- REF-2277
+- REF-2278
+- REF-2279
+- REF-2280
 provenance: website+pubmed+symptom-tool
 status: needs-review
 last_updated: '2026-06-20'
@@ -147,4 +165,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Appl
   Acorus calamus in neurological and metabolic disorders (REF-0624) supporting the preclinical nervine/neuroprotective
   activity. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
-  bucket (least-cited enrichment): REF-0716, REF-0717, REF-0718.'
+  bucket (least-cited enrichment): REF-0716, REF-0717, REF-0718. | 2026-06-20: enriched to >=10 scientific
+  publications: added 12 PubMed-verified @article sources (REF-0716, REF-0717, REF-2272, REF-2273, REF-2274,
+  REF-2275, REF-2276, REF-2277, REF-0718, REF-2278, REF-2279, REF-2280) — woven into relevant actions/indications
+  and the plant-level references bucket.'

@@ -1,0 +1,59 @@
+id: equisetum-pratense
+scientific_name: Equisetum pratense
+common_names:
+- Shady horsetail
+- meadow horsetail
+family: Equisetaceae
+parts_used:
+- Aerial parts
+- Stem
+constituents:
+- name: Phenolic acids and flavonoids (polyphenolic derivatives)
+  reference_ids:
+  - REF-2360
+actions:
+- action: antioxidant
+  note: Ethanolic extracts of the sterile stems of Equisetum pratense show free-radical-scavenging activity
+    attributed to their polyphenolic and flavonoid content.
+  reference_ids:
+  - REF-2360
+  - REF-2361
+  status: verified
+- action: neuroprotective
+  note: In zebrafish models, Equisetum extracts (including E. pratense) showed neuroprotective and anxiolytic/antidepressant-like
+    effects.
+  reference_ids:
+  - REF-2360
+  status: draft
+indications:
+- condition: cardiovascular-support
+  note: An early animal pharmacology study reported that an Equisetum pratense extract improved tolerance
+    to myocardial hypoxia.
+  reference_ids:
+  - REF-2362
+  status: draft
+contraindications:
+- note: Shady horsetail (Equisetum pratense) shares the horsetail genus's traditional use as a diuretic,
+    astringent and wound-healing herb, but it has been studied far less than field horsetail (E. arvense)
+    and almost no clinical data exist. As with other horsetails, prolonged use is cautioned because the
+    genus contains the enzyme thiaminase, which can degrade vitamin B1; products are best sourced as thiaminase-inactivated
+    preparations. Not evaluated for safety in pregnancy or lactation.
+  severity: caution
+  reference_ids: []
+  status: needs-review
+references:
+- REF-2360
+- REF-2361
+- REF-2362
+provenance: pubmed
+status: draft
+last_updated: '2026-06-27'
+internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify Shady Horsetail" blog
+  post). SETTLED-INCOMPLETE at 3 @article sources: Equisetum pratense is an extremely sparse-literature
+  species (only ~4 PubMed records exist in total, one of which is an environmental chlorpyrifos-sorption
+  study that was excluded). Every genuine species-specific medicinal / pharmacological article was included;
+  the bulk of horsetail medicinal research concerns E. arvense (a separate DB record), which must NOT
+  be used to pad this species. Per user policy 2026-06-27: genuine sources only, accept <15, no wrong-species
+  padding. | 2026-06-27: enriched to >=15 scientific publications: added 3 PubMed-verified @article sources
+  (REF-2360, REF-2361, REF-2362) — woven into relevant actions/indications and the plant-level references
+  bucket.'

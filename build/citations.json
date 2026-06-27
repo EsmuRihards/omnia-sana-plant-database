@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2351,
+ "count": 2369,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -4843,7 +4843,9 @@
     "Antioxidant",
     "Vulnerary (wound healing)"
    ],
-   "conditions": []
+   "conditions": [
+    "Wounds"
+   ]
   },
   {
    "ref_id": "REF-2344",
@@ -11327,16 +11329,22 @@
    "display": "Phytochemical Screening and Antioxidant Activity of Selected Estonian Galium Species",
    "plants": [
     "Cleavers",
+    "White bedstraw",
     "catchweed bedstraw",
     "clivers",
     "goose grass/goosegrass",
+    "hedge bedstraw",
     "stickyweed",
-    "stickywilly"
+    "stickywilly",
+    "white lady's bedstraw"
    ],
    "scientific": [
+    "Galium album",
     "Galium aparine"
    ],
-   "actions": [],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -14957,6 +14965,32 @@
    "conditions": [
     "Infection (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2363",
+   "key": "wang2022equisetum",
+   "type": "article",
+   "title": "Four new glucosides from the aerial parts of Equisetum sylvaticum",
+   "authors": "Wang, Z., Tian, Y., Sugimoto, S., Yamano, Y., Kawakami, S., Otsuka, H. and Matsunami, K.",
+   "journal": "Journal of Natural Medicines",
+   "year": "2022",
+   "doi": "10.1007/s11418-022-01643-0",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11418-022-01643-0",
+   "link_type": "doi",
+   "citation": "Wang, Z., Tian, Y., Sugimoto, S., Yamano, Y., Kawakami, S., Otsuka, H. and Matsunami, K (2022) 'Four new glucosides from the aerial parts of Equisetum sylvaticum', Journal of Natural Medicines, 76(4), pp. 832-841. doi:10.1007/s11418-022-01643-0",
+   "abstract": "Two new megastigmane glucosides, an apocarotenoid glucoside (equiseoside A) and an aromatic glucoside (equiseoside B), together with 35 known compounds, were isolated and characterized from the aerial parts of Equisetum sylvaticum.",
+   "tier": "preclinical",
+   "display": "Four new glucosides from the aerial parts of Equisetum sylvaticum",
+   "plants": [
+    "Wood horsetail",
+    "woodland horsetail"
+   ],
+   "scientific": [
+    "Equisetum sylvaticum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0761",
@@ -21559,6 +21593,37 @@
    ]
   },
   {
+   "ref_id": "REF-2361",
+   "key": "batirmarin2021equisetumagnp",
+   "type": "article",
+   "title": "In vitro antioxidant, antitumor and photocatalytic activities of silver nanoparticles synthesized using Equisetum species: a green approach",
+   "authors": "Batir-Marin, D., Mircea, C., Boev, M., Burlec, A.F., Corciova, A., Fifere, A., Iacobescu, A., Cioanca, O., Verestiuc, L. and Hancianu, M.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26237325",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26237325",
+   "link_type": "doi",
+   "citation": "Batir-Marin, D., Mircea, C., Boev, M., Burlec, A.F., Corciova, A., Fifere, A., Iacobescu, A., Cioanca, O., Verestiuc, L. and Hancianu, M (2021) 'In vitro antioxidant, antitumor and photocatalytic activities of silver nanoparticles synthesized using Equisetum species: a green approach', Molecules, 26(23), pp. 7325. doi:10.3390/molecules26237325",
+   "abstract": "Ethanolic extracts of Equisetum pratense, E. sylvaticum and E. telmateia were characterized for antioxidant capacity and used to green-synthesize silver nanoparticles with antioxidant and cytotoxic activity against the MG63 cancer cell line.",
+   "tier": "preclinical",
+   "display": "In vitro antioxidant, antitumor and photocatalytic activities of silver nanoparticles synthesized using Equisetum species: a green approach",
+   "plants": [
+    "Shady horsetail",
+    "Wood horsetail",
+    "meadow horsetail",
+    "woodland horsetail"
+   ],
+   "scientific": [
+    "Equisetum pratense",
+    "Equisetum sylvaticum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1432",
    "key": "jayapal2021tulsi",
    "type": "article",
@@ -22296,6 +22361,38 @@
     "Bacopa monnieri"
    ],
    "actions": [
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2360",
+   "key": "batirmarin2021equisetumneuro",
+   "type": "article",
+   "title": "Neuroprotective and antioxidant enhancing properties of selective Equisetum extracts",
+   "authors": "Batir-Marin, D., Boev, M., Cioanca, O., Mircea, C., Burlec, A.F., Beppe, G.J., Spac, A., Corciova, A., Hritcu, L. and Hancianu, M.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26092565",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26092565",
+   "link_type": "doi",
+   "citation": "Batir-Marin, D., Boev, M., Cioanca, O., Mircea, C., Burlec, A.F., Beppe, G.J., Spac, A., Corciova, A., Hritcu, L. and Hancianu, M (2021) 'Neuroprotective and antioxidant enhancing properties of selective Equisetum extracts', Molecules, 26(9), pp. 2565. doi:10.3390/molecules26092565",
+   "abstract": "Ethanolic extracts of Equisetum pratense, E. sylvaticum and E. telmateia, rich in polyphenolic derivatives, showed significant antioxidant activity in vitro and neuroprotective (with anxiolytic/antidepressant) effects in zebrafish.",
+   "tier": "preclinical",
+   "display": "Neuroprotective and antioxidant enhancing properties of selective Equisetum extracts",
+   "plants": [
+    "Shady horsetail",
+    "Wood horsetail",
+    "meadow horsetail",
+    "woodland horsetail"
+   ],
+   "scientific": [
+    "Equisetum pratense",
+    "Equisetum sylvaticum"
+   ],
+   "actions": [
+    "Antioxidant",
     "Neuroprotective / cognition support"
    ],
    "conditions": []
@@ -28025,9 +28122,12 @@
     "Trifolium repens"
    ],
    "actions": [
-    "Antioxidant"
+    "Antioxidant",
+    "Nephroprotective (kidney support)"
    ],
-   "conditions": []
+   "conditions": [
+    "Kidney support"
+   ]
   },
   {
    "ref_id": "REF-0975",
@@ -29563,6 +29663,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2367",
+   "key": "habibizadeh2020trifolium",
+   "type": "article",
+   "title": "The effect of topical administration of an ointment prepared from Trifolium repens hydroethanolic extract on the acceleration of excisional cutaneous wound healing",
+   "authors": "Habibi Zadeh, S.K., Farahpour, M.R. and Kar, H.H.",
+   "journal": "Wounds",
+   "year": "2020",
+   "doi": "10.25270/wnds/2020.253261",
+   "url": "",
+   "link": "https://doi.org/10.25270/wnds/2020.253261",
+   "link_type": "doi",
+   "citation": "Habibi Zadeh, S.K., Farahpour, M.R. and Kar, H.H (2020) 'The effect of topical administration of an ointment prepared from Trifolium repens hydroethanolic extract on the acceleration of excisional cutaneous wound healing', Wounds, 32(9), pp. 253-261. doi:10.25270/wnds/2020.253261",
+   "abstract": "Topical Trifolium repens extract ointment accelerated excisional wound healing in rats, increasing wound contraction, angiogenesis and fibroblast distribution and modulating apoptosis genes, with strong antioxidant activity.",
+   "tier": "preclinical",
+   "display": "The effect of topical administration of an ointment prepared from Trifolium repens hydroethanolic extract on the acceleration of excisional cutaneous wound healing",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": [
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-1146",
    "key": "tafazoli2020viola",
    "type": "article",
@@ -30067,7 +30199,9 @@
    "scientific": [
     "Trifolium repens"
    ],
-   "actions": [],
+   "actions": [
+    "Anticancer (preclinical)"
+   ],
    "conditions": []
   },
   {
@@ -31848,6 +31982,38 @@
    "actions": [],
    "conditions": [
     "Metabolic support"
+   ]
+  },
+  {
+   "ref_id": "REF-2369",
+   "key": "ahmad2019trifoliumhepato",
+   "type": "article",
+   "title": "Effects of phenolic compounds from aqueous extract of Trifolium repens against acetaminophen-induced hepatotoxicity in mice",
+   "authors": "Ahmad, S. and Zeb, A.",
+   "journal": "Journal of Food Biochemistry",
+   "year": "2019",
+   "doi": "10.1111/jfbc.12963",
+   "url": "",
+   "link": "https://doi.org/10.1111/jfbc.12963",
+   "link_type": "doi",
+   "citation": "Ahmad, S. and Zeb, A (2019) 'Effects of phenolic compounds from aqueous extract of Trifolium repens against acetaminophen-induced hepatotoxicity in mice', Journal of Food Biochemistry, 43(9), pp. e12963. doi:10.1111/jfbc.12963",
+   "abstract": "A phenolic-rich aqueous extract of Trifolium repens leaves protected against acetaminophen-induced hepatotoxicity in mice, normalising serum biochemistry, liver histology, lipid peroxidation and glutathione.",
+   "tier": "preclinical",
+   "display": "Effects of phenolic compounds from aqueous extract of Trifolium repens against acetaminophen-induced hepatotoxicity in mice",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Hepatoprotective (liver support)"
+   ],
+   "conditions": [
+    "Liver support"
    ]
   },
   {
@@ -33708,6 +33874,65 @@
     "Tussilago farfara"
    ],
    "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2366",
+   "key": "chen2019trifolium",
+   "type": "article",
+   "title": "Structural characterization and anti-inflammatory activity evaluation of chemical constituents in the extract of Trifolium repens L.",
+   "authors": "Chen, Y.H., Chen, P., Wang, Y., Yang, C.H., Wu, X., Wu, C.J., Luo, L., Wang, Q., Niu, C. and Yao, J.Y.",
+   "journal": "Journal of Food Biochemistry",
+   "year": "2019",
+   "doi": "10.1111/jfbc.12981",
+   "url": "",
+   "link": "https://doi.org/10.1111/jfbc.12981",
+   "link_type": "doi",
+   "citation": "Chen, Y.H., Chen, P., Wang, Y., Yang, C.H., Wu, X., Wu, C.J., Luo, L., Wang, Q., Niu, C. and Yao, J.Y (2019) 'Structural characterization and anti-inflammatory activity evaluation of chemical constituents in the extract of Trifolium repens L', Journal of Food Biochemistry, 43(9), pp. e12981. doi:10.1111/jfbc.12981",
+   "abstract": "Constituents of Trifolium repens were characterized by UPLC-HRMS, and three isolated compounds suppressed iNOS and COX-2 expression in LPS-induced RAW 264.7 cells, indicating anti-inflammatory activity.",
+   "tier": "preclinical",
+   "display": "Structural characterization and anti-inflammatory activity evaluation of chemical constituents in the extract of Trifolium repens L.",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
+   "ref_id": "REF-2364",
+   "key": "patova2019equisetum",
+   "type": "article",
+   "title": "Structural, rheological and antioxidant properties of pectins from Equisetum arvense L. and Equisetum sylvaticum L.",
+   "authors": "Patova, O.A., Smirnov, V.V., Golovchenko, V.V., Vityazev, F.V., Shashkov, A.S. and Popov, S.V.",
+   "journal": "Carbohydrate Polymers",
+   "year": "2019",
+   "doi": "10.1016/j.carbpol.2018.12.098",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.carbpol.2018.12.098",
+   "link_type": "doi",
+   "citation": "Patova, O.A., Smirnov, V.V., Golovchenko, V.V., Vityazev, F.V., Shashkov, A.S. and Popov, S.V (2019) 'Structural, rheological and antioxidant properties of pectins from Equisetum arvense L. and Equisetum sylvaticum L', Carbohydrate Polymers, 209, pp. 239-249. doi:10.1016/j.carbpol.2018.12.098",
+   "abstract": "Pectins isolated from the sterile stems of Equisetum sylvaticum were structurally characterized and scavenged DPPH and hydroxyl radicals, supporting their potential as components of wound-healing remedies.",
+   "tier": "preclinical",
+   "display": "Structural, rheological and antioxidant properties of pectins from Equisetum arvense L. and Equisetum sylvaticum L.",
+   "plants": [
+    "Wood horsetail",
+    "woodland horsetail"
+   ],
+   "scientific": [
+    "Equisetum sylvaticum"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
    "conditions": []
   },
   {
@@ -42698,6 +42923,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2352",
+   "key": "csepregi2016galium",
+   "type": "article",
+   "title": "Examination of secondary metabolites and antioxidant capacity of Anthyllis vulneraria, Fuchsia sp., Galium mollugo and Veronica beccabunga",
+   "authors": "Csepregi, R., Bencsik, T. and Papp, N.",
+   "journal": "Acta Biologica Hungarica",
+   "year": "2016",
+   "doi": "10.1556/018.67.2016.4.10",
+   "url": "",
+   "link": "https://doi.org/10.1556/018.67.2016.4.10",
+   "link_type": "doi",
+   "citation": "Csepregi, R., Bencsik, T. and Papp, N (2016) 'Examination of secondary metabolites and antioxidant capacity of Anthyllis vulneraria, Fuchsia sp., Galium mollugo and Veronica beccabunga', Acta Biologica Hungarica, 67(4), pp. 442-446. doi:10.1556/018.67.2016.4.10",
+   "abstract": "Galium mollugo herb was analysed for total polyphenol, tannin and flavonoid content and showed measurable antioxidant activity by FRAP and TEAC assays.",
+   "tier": "preclinical",
+   "display": "Examination of secondary metabolites and antioxidant capacity of Anthyllis vulneraria, Fuchsia sp., Galium mollugo and Veronica beccabunga",
+   "plants": [
+    "White bedstraw",
+    "hedge bedstraw",
+    "white lady's bedstraw"
+   ],
+   "scientific": [
+    "Galium album"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2032",
    "key": "katanic2016afilipendula",
    "type": "article",
@@ -47659,6 +47913,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2353",
+   "key": "chaher2015galium",
+   "type": "article",
+   "title": "Unusual compounds from Galium mollugo and their inhibitory activities against ROS generation in human fibroblasts",
+   "authors": "Chaher, N., Krisa, S., Delaunay, J.C., Bernillon, S., Pedrot, E., Merillon, J.M., Atmani, D. and Richard, T.",
+   "journal": "Journal of Pharmaceutical and Biomedical Analysis",
+   "year": "2015",
+   "doi": "10.1016/j.jpba.2015.07.027",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jpba.2015.07.027",
+   "link_type": "doi",
+   "citation": "Chaher, N., Krisa, S., Delaunay, J.C., Bernillon, S., Pedrot, E., Merillon, J.M., Atmani, D. and Richard, T (2015) 'Unusual compounds from Galium mollugo and their inhibitory activities against ROS generation in human fibroblasts', Journal of Pharmaceutical and Biomedical Analysis, 117, pp. 79-84. doi:10.1016/j.jpba.2015.07.027",
+   "abstract": "Three dioxatricyclodecenone compounds (mollugosides A and B) and known flavonoids were isolated from the aerial parts of Galium mollugo; flavonoids and mollugoside A significantly reduced reactive-oxygen-species generation in human fibroblasts.",
+   "tier": "preclinical",
+   "display": "Unusual compounds from Galium mollugo and their inhibitory activities against ROS generation in human fibroblasts",
+   "plants": [
+    "White bedstraw",
+    "hedge bedstraw",
+    "white lady's bedstraw"
+   ],
+   "scientific": [
+    "Galium album"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0869",
    "key": "kuchta2014qnmr",
    "type": "article",
@@ -51420,6 +51703,33 @@
    ]
   },
   {
+   "ref_id": "REF-2357",
+   "key": "milic2012galium",
+   "type": "article",
+   "title": "Kinetic modeling and optimization of maceration and ultrasound-extraction of resinoid from the aerial parts of white lady's bedstraw (Galium mollugo L.)",
+   "authors": "Milic, P.S., Rajkovic, K.M., Stamenkovic, O.S. and Veljkovic, V.B.",
+   "journal": "Ultrasonics Sonochemistry",
+   "year": "2013",
+   "doi": "10.1016/j.ultsonch.2012.07.017",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ultsonch.2012.07.017",
+   "link_type": "doi",
+   "citation": "Milic, P.S., Rajkovic, K.M., Stamenkovic, O.S. and Veljkovic, V.B (2013) 'Kinetic modeling and optimization of maceration and ultrasound-extraction of resinoid from the aerial parts of white lady's bedstraw (Galium mollugo L.)', Ultrasonics Sonochemistry, 20(1), pp. 525-534. doi:10.1016/j.ultsonch.2012.07.017",
+   "abstract": "Maceration and ultrasound-assisted extraction of resinoid from the aerial parts of white lady's bedstraw (Galium mollugo) were modelled and optimised, with ultrasound giving higher resinoid yields at lower temperature and shorter time.",
+   "tier": "preclinical",
+   "display": "Kinetic modeling and optimization of maceration and ultrasound-extraction of resinoid from the aerial parts of white lady's bedstraw (Galium mollugo L.)",
+   "plants": [
+    "White bedstraw",
+    "hedge bedstraw",
+    "white lady's bedstraw"
+   ],
+   "scientific": [
+    "Galium album"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0265",
    "key": "schuwald2013lavender",
    "type": "article",
@@ -54159,6 +54469,35 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2368",
+   "key": "kicel2011trifolium",
+   "type": "article",
+   "title": "Study on the phenolic constituents of the flowers and leaves of Trifolium repens L.",
+   "authors": "Kicel, A. and Wolbis, M.",
+   "journal": "Natural Product Research",
+   "year": "2012",
+   "doi": "10.1080/14786419.2011.637217",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2011.637217",
+   "link_type": "doi",
+   "citation": "Kicel, A. and Wolbis, M (2012) 'Study on the phenolic constituents of the flowers and leaves of Trifolium repens L', Natural Product Research, 26(21), pp. 2050-2054. doi:10.1080/14786419.2011.637217",
+   "abstract": "Fourteen phenolic compounds, mainly flavonol glycosides of quercetin, kaempferol and myricetin plus a pterocarpan and methyl caffeate, were isolated from the flowers and leaves of Trifolium repens and showed potent DPPH antioxidant activity.",
+   "tier": "preclinical",
+   "display": "Study on the phenolic constituents of the flowers and leaves of Trifolium repens L.",
+   "plants": [
+    "Dutch clover",
+    "White clover",
+    "shamrock"
+   ],
+   "scientific": [
+    "Trifolium repens"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1098",
@@ -57883,6 +58222,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2354",
+   "key": "hemcinschi2009galium",
+   "type": "article",
+   "title": "Contributions to the study of the chemical variability of some Galium album Mill. populations harvested from wild flora in northern Moldavia",
+   "authors": "Hemcinschi, A., Gille, E., Trifan, A., Necula, R. and Stanescu, U.",
+   "journal": "Revista Medico-Chirurgicala a Societatii de Medici si Naturalisti din Iasi",
+   "year": "2009",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Contributions%20to%20the%20study%20of%20the%20chemical%20variability%20of%20some%20Galium%20album%20Mill.%20populations%20harvested%20from%20wild%20flora%20in%20northern%20Moldavia",
+   "link_type": "search",
+   "citation": "Hemcinschi, A., Gille, E., Trifan, A., Necula, R. and Stanescu, U (2009) 'Contributions to the study of the chemical variability of some Galium album Mill. populations harvested from wild flora in northern Moldavia', Revista Medico-Chirurgicala a Societatii de Medici si Naturalisti din Iasi, 113(4), pp. 1280-1284.",
+   "abstract": "Seven wild Galium album populations were analysed by TLC, UV-VIS and HPLC for iridoids, flavones and polyphenolic acids, revealing significant chemical variation between populations and with harvest timing.",
+   "tier": "preclinical",
+   "display": "Contributions to the study of the chemical variability of some Galium album Mill. populations harvested from wild flora in northern Moldavia",
+   "plants": [
+    "White bedstraw",
+    "hedge bedstraw",
+    "white lady's bedstraw"
+   ],
+   "scientific": [
+    "Galium album"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0190",
    "key": "pan2009flaxseed",
    "type": "article",
@@ -59467,6 +59835,32 @@
     "Cognitive function",
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-2365",
+   "key": "fry2008equisetum",
+   "type": "article",
+   "title": "Mixed-linkage (1->3,1->4)-beta-D-glucan is a major hemicellulose of Equisetum (horsetail) cell walls",
+   "authors": "Fry, S.C., Nesselrode, B.H.W.A., Miller, J.G. and Mewburn, B.R.",
+   "journal": "New Phytologist",
+   "year": "2008",
+   "doi": "10.1111/j.1469-8137.2008.02435.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1469-8137.2008.02435.x",
+   "link_type": "doi",
+   "citation": "Fry, S.C., Nesselrode, B.H.W.A., Miller, J.G. and Mewburn, B.R (2008) 'Mixed-linkage (1->3,1->4)-beta-D-glucan is a major hemicellulose of Equisetum (horsetail) cell walls', New Phytologist, 179(1), pp. 104-115. doi:10.1111/j.1469-8137.2008.02435.x",
+   "abstract": "Mixed-linkage (1->3,1->4)-beta-D-glucan was identified as a major wall hemicellulose in Equisetum species including E. sylvaticum, an independently evolved trait shared with grasses.",
+   "tier": "preclinical",
+   "display": "Mixed-linkage (1->3,1->4)-beta-D-glucan is a major hemicellulose of Equisetum (horsetail) cell walls",
+   "plants": [
+    "Wood horsetail",
+    "woodland horsetail"
+   ],
+   "scientific": [
+    "Equisetum sylvaticum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0290",
@@ -69747,6 +70141,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2359",
+   "key": "kolkmann1987galium",
+   "type": "article",
+   "title": "4-(2'-Carboxyphenyl)-4-oxobutyryl coenzyme A ester, an intermediate in vitamin K2 (menaquinone) biosynthesis",
+   "authors": "Kolkmann, R. and Leistner, E.",
+   "journal": "Zeitschrift fur Naturforschung C",
+   "year": "1987",
+   "doi": "10.1515/znc-1987-11-1212",
+   "url": "",
+   "link": "https://doi.org/10.1515/znc-1987-11-1212",
+   "link_type": "doi",
+   "citation": "Kolkmann, R. and Leistner, E (1987) '4-(2'-Carboxyphenyl)-4-oxobutyryl coenzyme A ester, an intermediate in vitamin K2 (menaquinone) biosynthesis', Zeitschrift fur Naturforschung C, 42(11-12), pp. 1207-1214. doi:10.1515/znc-1987-11-1212",
+   "abstract": "Using Galium mollugo cell suspension cultures among other systems, an o-succinylbenzoyl-CoA ester was identified as an intermediate in the biosynthesis of the naphthoquinone/anthraquinone precursor 1,4-dihydroxy-2-naphthoic acid.",
+   "tier": "preclinical",
+   "display": "4-(2'-Carboxyphenyl)-4-oxobutyryl coenzyme A ester, an intermediate in vitamin K2 (menaquinone) biosynthesis",
+   "plants": [
+    "White bedstraw",
+    "hedge bedstraw",
+    "white lady's bedstraw"
+   ],
+   "scientific": [
+    "Galium album"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2106",
    "key": "merfort1987arnica",
    "type": "article",
@@ -69820,6 +70241,34 @@
     "Muscle spasm",
     "Skin irritation",
     "Wounds"
+   ]
+  },
+  {
+   "ref_id": "REF-2362",
+   "key": "chang1985equisetum",
+   "type": "article",
+   "title": "Pharmacological studies of the extract of Equisetum pratense on the tolerance to myocardial hypoxia in animals",
+   "authors": "Chang, F.J. and Su, Y.M.",
+   "journal": "Zhong Xi Yi Jie He Za Zhi",
+   "year": "1985",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Pharmacological%20studies%20of%20the%20extract%20of%20Equisetum%20pratense%20on%20the%20tolerance%20to%20myocardial%20hypoxia%20in%20animals",
+   "link_type": "search",
+   "citation": "Chang, F.J. and Su, Y.M (1985) 'Pharmacological studies of the extract of Equisetum pratense on the tolerance to myocardial hypoxia in animals', Zhong Xi Yi Jie He Za Zhi, 5(12), pp. 744-746.",
+   "abstract": "An animal pharmacology study reported that an Equisetum pratense extract improved tolerance to myocardial hypoxia, with effects on myocardial cyclic AMP and cyclic GMP.",
+   "tier": "preclinical",
+   "display": "Pharmacological studies of the extract of Equisetum pratense on the tolerance to myocardial hypoxia in animals",
+   "plants": [
+    "Shady horsetail",
+    "meadow horsetail"
+   ],
+   "scientific": [
+    "Equisetum pratense"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
    ]
   },
   {
@@ -69945,6 +70394,60 @@
    ]
   },
   {
+   "ref_id": "REF-2356",
+   "key": "kuiper1983galium",
+   "type": "article",
+   "title": "Polyploid complexes within the genus Galium: galiprenylin, a new A-ring prenylated anthraquinone from Galium album Mill.",
+   "authors": "Kuiper, J. and Labadie, R.P.",
+   "journal": "Planta Medica",
+   "year": "1983",
+   "doi": "10.1055/s-2007-969872",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2007-969872",
+   "link_type": "doi",
+   "citation": "Kuiper, J. and Labadie, R.P (1983) 'Polyploid complexes within the genus Galium: galiprenylin, a new A-ring prenylated anthraquinone from Galium album Mill', Planta Medica, 48(1), pp. 24-26. doi:10.1055/s-2007-969872",
+   "abstract": "The structure of galiprenylin, a new A-ring prenylated anthraquinone, was elucidated after its isolation from Galium album.",
+   "tier": "preclinical",
+   "display": "Polyploid complexes within the genus Galium: galiprenylin, a new A-ring prenylated anthraquinone from Galium album Mill.",
+   "plants": [
+    "White bedstraw",
+    "hedge bedstraw",
+    "white lady's bedstraw"
+   ],
+   "scientific": [
+    "Galium album"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2358",
+   "key": "heide1982galium",
+   "type": "article",
+   "title": "Enzymic synthesis of o-succinylbenzoyl-CoA in cell-free extracts of anthraquinone producing Galium mollugo L. cell suspension cultures",
+   "authors": "Heide, L., Kolkmann, R., Arendt, S. and Leistner, E.",
+   "journal": "Plant Cell Reports",
+   "year": "1982",
+   "doi": "10.1007/BF00269193",
+   "url": "",
+   "link": "https://doi.org/10.1007/BF00269193",
+   "link_type": "doi",
+   "citation": "Heide, L., Kolkmann, R., Arendt, S. and Leistner, E (1982) 'Enzymic synthesis of o-succinylbenzoyl-CoA in cell-free extracts of anthraquinone producing Galium mollugo L. cell suspension cultures', Plant Cell Reports, 1(4), pp. 180-182. doi:10.1007/BF00269193",
+   "abstract": "The cell-free activation of o-succinylbenzoic acid, an intermediate in the biosynthesis of the shikimate-derived anthraquinones of Galium mollugo, was demonstrated for the first time in cell suspension cultures.",
+   "tier": "preclinical",
+   "display": "Enzymic synthesis of o-succinylbenzoyl-CoA in cell-free extracts of anthraquinone producing Galium mollugo L. cell suspension cultures",
+   "plants": [
+    "White bedstraw",
+    "hedge bedstraw",
+    "white lady's bedstraw"
+   ],
+   "scientific": [
+    "Galium album"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0886",
    "key": "tattje1981ledum",
    "type": "article",
@@ -69996,6 +70499,33 @@
    ],
    "scientific": [
     "Euphrasia officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2355",
+   "key": "kuiper1981galium",
+   "type": "article",
+   "title": "Polyploid complexes within the genus Galium: anthraquinones accumulating in the roots of Galium album Mill.",
+   "authors": "Kuiper, J. and Labadie, R.P.",
+   "journal": "Planta Medica",
+   "year": "1981",
+   "doi": "10.1055/s-2007-971661",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2007-971661",
+   "link_type": "doi",
+   "citation": "Kuiper, J. and Labadie, R.P (1981) 'Polyploid complexes within the genus Galium: anthraquinones accumulating in the roots of Galium album Mill', Planta Medica, 42(8), pp. 390-399. doi:10.1055/s-2007-971661",
+   "abstract": "Ten anthraquinones, four of them new structures, were isolated and identified from the roots of cytologically defined Galium album.",
+   "tier": "preclinical",
+   "display": "Polyploid complexes within the genus Galium: anthraquinones accumulating in the roots of Galium album Mill.",
+   "plants": [
+    "White bedstraw",
+    "hedge bedstraw",
+    "white lady's bedstraw"
+   ],
+   "scientific": [
+    "Galium album"
    ],
    "actions": [],
    "conditions": []

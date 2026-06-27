@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 174,
+ "count": 175,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -17361,6 +17361,24 @@
    ]
   },
   {
+   "name": "Shady horsetail",
+   "scientific": "Equisetum pratense",
+   "id": "equisetum-pratense",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 2,
+     "status": "draft",
+     "inferred": false,
+     "references": [
+      "REF-2362"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Shepherd's Purse",
    "scientific": "Capsella bursa-pastoris",
    "id": "capsella-bursa-pastoris",
@@ -19287,6 +19305,53 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0027",
+      "REF-0098",
+      "REF-0140",
+      "REF-1323",
+      "REF-2367"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0027",
+      "REF-0098",
+      "REF-0140",
+      "REF-2366"
+     ]
+    },
+    {
+     "condition": "kidney-support",
+     "label": "Kidney support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1326"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2369"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -19335,18 +19400,6 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0027",
-      "REF-0098",
-      "REF-0140"
-     ]
-    },
-    {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
      "evidence": 1,
@@ -19373,18 +19426,6 @@
     {
      "condition": "skin-irritation",
      "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0027",
-      "REF-0098",
-      "REF-0140"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,

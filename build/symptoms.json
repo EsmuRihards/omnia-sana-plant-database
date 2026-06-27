@@ -5349,9 +5349,9 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
+     "condition": "menstrual-cramps",
+     "label": "Menstrual cramps",
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -5359,7 +5359,54 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-2351"
+     ]
+    },
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 6,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1155",
+      "REF-1160"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0079",
+      "REF-0112",
+      "REF-0189",
+      "REF-0231",
+      "REF-0280",
+      "REF-2349"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2350"
+     ]
+    },
+    {
+     "condition": "depression",
+     "label": "Low mood / depression",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2348"
      ]
     },
     {
@@ -5463,20 +5510,6 @@
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0079",
-      "REF-0112",
-      "REF-0189",
-      "REF-0231",
-      "REF-0280"
-     ]
-    },
-    {
-     "condition": "menstrual-cramps",
-     "label": "Menstrual cramps",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -15932,7 +15965,7 @@
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
@@ -15940,7 +15973,47 @@
       "REF-0036",
       "REF-0112",
       "REF-1105",
-      "REF-1113"
+      "REF-1113",
+      "REF-2346"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2344",
+      "REF-2346",
+      "REF-1108"
+     ]
+    },
+    {
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1104",
+      "REF-2344",
+      "REF-2345",
+      "REF-1108"
+     ]
+    },
+    {
+     "condition": "menopause",
+     "label": "Menopause",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-1104",
+      "REF-2344",
+      "REF-2345",
+      "REF-1108",
+      "REF-2347"
      ]
     },
     {

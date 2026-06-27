@@ -19170,7 +19170,9 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-2349",
+      "REF-2351"
      ],
      "status": "verified"
     },
@@ -19186,7 +19188,8 @@
       "REF-1157",
       "REF-1158",
       "REF-1159",
-      "REF-1162"
+      "REF-1162",
+      "REF-2349"
      ],
      "status": "verified"
     },
@@ -19213,7 +19216,8 @@
       "REF-0280",
       "REF-1153",
       "REF-1157",
-      "REF-1158"
+      "REF-1158",
+      "REF-2351"
      ],
      "status": "verified"
     },
@@ -19270,6 +19274,28 @@
       "REF-0280"
      ],
      "status": "verified"
+    },
+    {
+     "action": "anxiolytic",
+     "reference_ids": [
+      "REF-1155",
+      "REF-1160"
+     ],
+     "status": "verified"
+    },
+    {
+     "action": "antidepressant",
+     "reference_ids": [
+      "REF-2348"
+     ],
+     "status": "verified"
+    },
+    {
+     "action": "antidiabetic",
+     "reference_ids": [
+      "REF-2350"
+     ],
+     "status": "verified"
     }
    ],
    "indications": [
@@ -19281,7 +19307,8 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-2349"
      ],
      "status": "needs-review"
     },
@@ -19402,7 +19429,8 @@
       "REF-0112",
       "REF-0189",
       "REF-0231",
-      "REF-0280"
+      "REF-0280",
+      "REF-2351"
      ],
      "status": "needs-review"
     },
@@ -19452,6 +19480,28 @@
       "REF-0280"
      ],
      "status": "needs-review"
+    },
+    {
+     "condition": "anxiety",
+     "reference_ids": [
+      "REF-1155",
+      "REF-1160"
+     ],
+     "status": "verified"
+    },
+    {
+     "condition": "depression",
+     "reference_ids": [
+      "REF-2348"
+     ],
+     "status": "verified"
+    },
+    {
+     "condition": "blood-sugar",
+     "reference_ids": [
+      "REF-2350"
+     ],
+     "status": "verified"
     }
    ],
    "contraindications": [
@@ -19514,11 +19564,15 @@
     "REF-1159",
     "REF-1160",
     "REF-1161",
-    "REF-1162"
+    "REF-1162",
+    "REF-2348",
+    "REF-2349",
+    "REF-2350",
+    "REF-2351"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20"
+   "last_updated": "2026-06-27"
   },
   {
    "id": "melissa-officinalis",
@@ -32381,6 +32435,15 @@
       "REF-0112"
      ],
      "status": "verified"
+    },
+    {
+     "action": "lipid-lowering",
+     "reference_ids": [
+      "REF-2344",
+      "REF-2346",
+      "REF-1108"
+     ],
+     "status": "verified"
     }
    ],
    "indications": [
@@ -32411,7 +32474,8 @@
       "REF-0036",
       "REF-0112",
       "REF-1105",
-      "REF-1113"
+      "REF-1113",
+      "REF-2346"
      ],
      "status": "verified"
     },
@@ -32476,6 +32540,36 @@
       "REF-1110"
      ],
      "status": "needs-review"
+    },
+    {
+     "condition": "menopause",
+     "reference_ids": [
+      "REF-1104",
+      "REF-2344",
+      "REF-2345",
+      "REF-1108",
+      "REF-2347"
+     ],
+     "status": "verified"
+    },
+    {
+     "condition": "hot-flashes",
+     "reference_ids": [
+      "REF-1104",
+      "REF-2344",
+      "REF-2345",
+      "REF-1108"
+     ],
+     "status": "verified"
+    },
+    {
+     "condition": "high-cholesterol",
+     "reference_ids": [
+      "REF-2344",
+      "REF-2346",
+      "REF-1108"
+     ],
+     "status": "verified"
     }
    ],
    "contraindications": [
@@ -32510,11 +32604,16 @@
     "REF-1110",
     "REF-1111",
     "REF-1112",
-    "REF-1113"
+    "REF-1113",
+    "REF-2344",
+    "REF-2345",
+    "REF-2346",
+    "REF-0013",
+    "REF-2347"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20"
+   "last_updated": "2026-06-27"
   },
   {
    "id": "trifolium-repens",

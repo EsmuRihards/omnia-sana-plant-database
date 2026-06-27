@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2343,
+ "count": 2351,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -4844,6 +4844,39 @@
     "Vulnerary (wound healing)"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2344",
+   "key": "yigit2024trifolium",
+   "type": "article",
+   "title": "Isoflavones obtained from red clover improve both dyslipidemia and menopausal symptoms in menopausal women: a prospective randomized placebo-controlled trial",
+   "authors": "Yigit, E. and Unsal, S.",
+   "journal": "Climacteric",
+   "year": "2024",
+   "doi": "10.1080/13697137.2024.2393121",
+   "url": "",
+   "link": "https://doi.org/10.1080/13697137.2024.2393121",
+   "link_type": "doi",
+   "citation": "Yigit, E. and Unsal, S (2024) 'Isoflavones obtained from red clover improve both dyslipidemia and menopausal symptoms in menopausal women: a prospective randomized placebo-controlled trial', Climacteric, 27(6), pp. 548-554. doi:10.1080/13697137.2024.2393121",
+   "abstract": "In a randomized placebo-controlled trial, six months of red clover isoflavones significantly improved menopausal symptom scores and the lipid profile (lower total cholesterol, LDL-C and triglycerides, higher HDL-C) in postmenopausal women with dyslipidemia.",
+   "tier": "rct",
+   "display": "Isoflavones obtained from red clover improve both dyslipidemia and menopausal symptoms in menopausal women: a prospective randomized placebo-controlled trial",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [
+    "Lipid-lowering"
+   ],
+   "conditions": [
+    "High cholesterol",
+    "Hot flashes",
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-1306",
@@ -17151,6 +17184,35 @@
    ]
   },
   {
+   "ref_id": "REF-2347",
+   "key": "quah2022trifolium",
+   "type": "article",
+   "title": "Serum biomarker-based osteoporosis risk prediction and the systemic effects of Trifolium pratense ethanolic extract in a postmenopausal model",
+   "authors": "Quah, Y., Yi-Le, J.C., Park, N.H., Lee, Y.Y., Lee, E.B., Jang, S.H., Kim, M.J., Rhee, M.H., Lee, S.J. and Park, S.C.",
+   "journal": "Chinese Medicine",
+   "year": "2022",
+   "doi": "10.1186/s13020-022-00622-7",
+   "url": "",
+   "link": "https://doi.org/10.1186/s13020-022-00622-7",
+   "link_type": "doi",
+   "citation": "Quah, Y., Yi-Le, J.C., Park, N.H., Lee, Y.Y., Lee, E.B., Jang, S.H., Kim, M.J., Rhee, M.H., Lee, S.J. and Park, S.C (2022) 'Serum biomarker-based osteoporosis risk prediction and the systemic effects of Trifolium pratense ethanolic extract in a postmenopausal model', Chinese Medicine, 17(1), pp. 70. doi:10.1186/s13020-022-00622-7",
+   "abstract": "In ovariectomized rats, a Trifolium pratense ethanolic extract showed anti-osteoporosis and estrogenic activity, down-regulating RANK ligand and alkaline phosphatase and up-regulating estrogen receptor beta, supporting traditional use for postmenopausal complaints.",
+   "tier": "preclinical",
+   "display": "Serum biomarker-based osteoporosis risk prediction and the systemic effects of Trifolium pratense ethanolic extract in a postmenopausal model",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": [
+    "Menopause"
+   ]
+  },
+  {
    "ref_id": "REF-0731",
    "key": "liu2022artemvulgaris",
    "type": "article",
@@ -20697,7 +20759,10 @@
     "Trifolium pratense"
    ],
    "actions": [],
-   "conditions": []
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-0927",
@@ -23848,6 +23913,40 @@
     "Immunomodulator / immune support"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2351",
+   "key": "niazi2021chamomile",
+   "type": "article",
+   "title": "The effect of chamomile on pain and menstrual bleeding in primary dysmenorrhea: a systematic review",
+   "authors": "Niazi, A. and Moradi, M.",
+   "journal": "International Journal of Community Based Nursing and Midwifery",
+   "year": "2021",
+   "doi": "10.30476/ijcbnm.2021.87219.1417",
+   "url": "",
+   "link": "https://doi.org/10.30476/ijcbnm.2021.87219.1417",
+   "link_type": "doi",
+   "citation": "Niazi, A. and Moradi, M (2021) 'The effect of chamomile on pain and menstrual bleeding in primary dysmenorrhea: a systematic review', International Journal of Community Based Nursing and Midwifery, 9(3), pp. 174-186. doi:10.30476/ijcbnm.2021.87219.1417",
+   "abstract": "A systematic review of seven clinical trials concluded that chamomile, which inhibits prostaglandin and leukotriene production, can be an effective treatment for the pain of primary dysmenorrhea and for reducing menstrual bleeding.",
+   "tier": "review",
+   "display": "The effect of chamomile on pain and menstrual bleeding in primary dysmenorrhea: a systematic review",
+   "plants": [
+    "Chamomile",
+    "German chamomile",
+    "Scented Mayweed",
+    "blue chamomile",
+    "wild chamomile"
+   ],
+   "scientific": [
+    "Matricaria chamomilla"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Antispasmodic"
+   ],
+   "conditions": [
+    "Menstrual cramps"
+   ]
   },
   {
    "ref_id": "REF-0654",
@@ -41859,6 +41958,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2350",
+   "key": "zemestani2015chamomile",
+   "type": "article",
+   "title": "Chamomile tea improves glycemic indices and antioxidants status in patients with type 2 diabetes mellitus",
+   "authors": "Zemestani, M., Rafraf, M. and Asghari-Jafarabadi, M.",
+   "journal": "Nutrition",
+   "year": "2016",
+   "doi": "10.1016/j.nut.2015.07.011",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.nut.2015.07.011",
+   "link_type": "doi",
+   "citation": "Zemestani, M., Rafraf, M. and Asghari-Jafarabadi, M (2016) 'Chamomile tea improves glycemic indices and antioxidants status in patients with type 2 diabetes mellitus', Nutrition, 32(1), pp. 66-72. doi:10.1016/j.nut.2015.07.011",
+   "abstract": "In a randomized controlled trial, eight weeks of chamomile tea significantly lowered glycated haemoglobin, serum insulin and insulin resistance and raised antioxidant enzyme activity in patients with type 2 diabetes mellitus.",
+   "tier": "rct",
+   "display": "Chamomile tea improves glycemic indices and antioxidants status in patients with type 2 diabetes mellitus",
+   "plants": [
+    "Chamomile",
+    "German chamomile",
+    "Scented Mayweed",
+    "blue chamomile",
+    "wild chamomile"
+   ],
+   "scientific": [
+    "Matricaria chamomilla"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-1095",
    "key": "sonmezdag2015thymus",
    "type": "article",
@@ -42844,9 +42976,12 @@
     "Matricaria chamomilla"
    ],
    "actions": [
+    "Anxiolytic / calming",
     "Sedative / sleep support"
    ],
-   "conditions": []
+   "conditions": [
+    "Anxiety"
+   ]
   },
   {
    "ref_id": "REF-1186",
@@ -45549,6 +45684,40 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2349",
+   "key": "shoara2015chamomile",
+   "type": "article",
+   "title": "Efficacy and safety of topical Matricaria chamomilla L. (chamomile) oil for knee osteoarthritis: a randomized controlled clinical trial",
+   "authors": "Shoara, R., Hashempur, M.H., Ashraf, A., Salehi, A., Dehshahri, S. and Habibagahi, Z.",
+   "journal": "Complementary Therapies in Clinical Practice",
+   "year": "2015",
+   "doi": "10.1016/j.ctcp.2015.06.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctcp.2015.06.003",
+   "link_type": "doi",
+   "citation": "Shoara, R., Hashempur, M.H., Ashraf, A., Salehi, A., Dehshahri, S. and Habibagahi, Z (2015) 'Efficacy and safety of topical Matricaria chamomilla L. (chamomile) oil for knee osteoarthritis: a randomized controlled clinical trial', Complementary Therapies in Clinical Practice, 21(3), pp. 181-187. doi:10.1016/j.ctcp.2015.06.003",
+   "abstract": "In a randomized controlled trial, topical chamomile oil significantly reduced analgesic (acetaminophen) demand in patients with knee osteoarthritis compared with diclofenac and placebo, with no adverse events reported.",
+   "tier": "rct",
+   "display": "Efficacy and safety of topical Matricaria chamomilla L. (chamomile) oil for knee osteoarthritis: a randomized controlled clinical trial",
+   "plants": [
+    "Chamomile",
+    "German chamomile",
+    "Scented Mayweed",
+    "blue chamomile",
+    "wild chamomile"
+   ],
+   "scientific": [
+    "Matricaria chamomilla"
+   ],
+   "actions": [
+    "Analgesic (pain relief)",
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
   },
   {
    "ref_id": "REF-1253",
@@ -52530,6 +52699,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2348",
+   "key": "amsterdam2012chamomile",
+   "type": "article",
+   "title": "Chamomile (Matricaria recutita) may provide antidepressant activity in anxious, depressed humans: an exploratory study",
+   "authors": "Amsterdam, J.D., Shults, J., Soeller, I., Mao, J.J., Rockwell, K. and Newberg, A.B.",
+   "journal": "Alternative Therapies in Health and Medicine",
+   "year": "2012",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Chamomile%20%28Matricaria%20recutita%29%20may%20provide%20antidepressant%20activity%20in%20anxious%2C%20depressed%20humans%3A%20an%20exploratory%20study",
+   "link_type": "search",
+   "citation": "Amsterdam, J.D., Shults, J., Soeller, I., Mao, J.J., Rockwell, K. and Newberg, A.B (2012) 'Chamomile (Matricaria recutita) may provide antidepressant activity in anxious, depressed humans: an exploratory study', Alternative Therapies in Health and Medicine, 18(5), pp. 44-49.",
+   "abstract": "An analysis of a randomized double-blind placebo-controlled chamomile trial found a significantly greater reduction in Hamilton Depression scores for chamomile than placebo, suggesting clinically meaningful antidepressant activity in addition to its anxiolytic effect.",
+   "tier": "rct",
+   "display": "Chamomile (Matricaria recutita) may provide antidepressant activity in anxious, depressed humans: an exploratory study",
+   "plants": [
+    "Chamomile",
+    "German chamomile",
+    "Scented Mayweed",
+    "blue chamomile",
+    "wild chamomile"
+   ],
+   "scientific": [
+    "Matricaria chamomilla"
+   ],
+   "actions": [
+    "Antidepressant / mood support"
+   ],
+   "conditions": [
+    "Low mood / depression"
+   ]
+  },
+  {
    "ref_id": "REF-0771",
    "key": "koriem2012chelidonium",
    "type": "article",
@@ -57227,9 +57429,12 @@
     "Matricaria chamomilla"
    ],
    "actions": [
+    "Anxiolytic / calming",
     "Sedative / sleep support"
    ],
-   "conditions": []
+   "conditions": [
+    "Anxiety"
+   ]
   },
   {
    "ref_id": "REF-0529",
@@ -60694,6 +60899,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2345",
+   "key": "lethaby2007phytoestrogens",
+   "type": "article",
+   "title": "Phytoestrogens for vasomotor menopausal symptoms",
+   "authors": "Lethaby, A.E., Brown, J., Marjoribanks, J., Kronenberg, F., Roberts, H. and Eden, J.",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2007",
+   "doi": "10.1002/14651858.CD001395.pub3",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD001395.pub3",
+   "link_type": "doi",
+   "citation": "Lethaby, A.E., Brown, J., Marjoribanks, J., Kronenberg, F., Roberts, H. and Eden, J (2007) 'Phytoestrogens for vasomotor menopausal symptoms', Cochrane Database of Systematic Reviews, (4), pp. CD001395. doi:10.1002/14651858.CD001395.pub3",
+   "abstract": "A Cochrane systematic review of phytoestrogens for vasomotor menopausal symptoms pooled five trials of the red clover extract Promensil, finding no significant overall difference from placebo in hot-flush frequency and no oestrogenic stimulation of the endometrium over up to two years.",
+   "tier": "review",
+   "display": "Phytoestrogens for vasomotor menopausal symptoms",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
+   ]
+  },
+  {
    "ref_id": "REF-0306",
    "key": "wicke2007primula",
    "type": "misc",
@@ -61469,8 +61704,14 @@
    "scientific": [
     "Trifolium pratense"
    ],
-   "actions": [],
-   "conditions": []
+   "actions": [
+    "Lipid-lowering"
+   ],
+   "conditions": [
+    "High cholesterol",
+    "Hot flashes",
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-1083",
@@ -62224,6 +62465,38 @@
    "conditions": [
     "Hot flashes",
     "Menopause"
+   ]
+  },
+  {
+   "ref_id": "REF-2346",
+   "key": "geller2006soy",
+   "type": "article",
+   "title": "Soy and red clover for mid-life and aging",
+   "authors": "Geller, S.E. and Studee, L.",
+   "journal": "Climacteric",
+   "year": "2006",
+   "doi": "10.1080/13697130600736934",
+   "url": "",
+   "link": "https://doi.org/10.1080/13697130600736934",
+   "link_type": "doi",
+   "citation": "Geller, S.E. and Studee, L (2006) 'Soy and red clover for mid-life and aging', Climacteric, 9(4), pp. 245-263. doi:10.1080/13697130600736934",
+   "abstract": "This review of randomized controlled trials concluded that red clover isoflavones have a small but positive effect on plasma lipids, reducing triglycerides and increasing HDL cholesterol, with promising but less convincing effects on bone mass density and cognition in peri- and post-menopausal women.",
+   "tier": "review",
+   "display": "Soy and red clover for mid-life and aging",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [
+    "Lipid-lowering"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health",
+    "High cholesterol"
    ]
   },
   {

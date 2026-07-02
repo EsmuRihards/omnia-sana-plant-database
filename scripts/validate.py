@@ -28,6 +28,9 @@ BIB = os.path.join(ROOT, "bibliography.bibtex")
 REF_RE = re.compile(r"REF-\d{4,}")
 SLUG = re.compile(r"^[a-z0-9-]+$")
 STATUSES = {"verified", "draft", "needs-review"}
+SAFETY_STATUSES = {"draft", "approved"}
+SEVERITIES = {"avoid", "caution", "likely-safe", "insufficient"}
+PAIR_TYPES = {"synergy", "neutral", "caution", "avoid"}
 
 
 def find_refs(node):
@@ -60,8 +63,9 @@ def main():
     A = vocab_ids(os.path.join(VOCAB, "actions.yaml"))
     C = vocab_ids(os.path.join(VOCAB, "conditions.yaml"))
     K = {yaml.safe_load(open(f, encoding="utf-8"))["id"] for f in glob.glob(os.path.join(COMPDIR, "*.yaml"))}
+    D = vocab_ids(os.path.join(VOCAB, "drug_classes.yaml"))
 
-    cited, seen_ids = set(), {}
+    cited, seen_ids, pair_refs = set(), {}, []
     files = sorted(glob.glob(os.path.join(PLANTS, "*.yaml")))
     for path in files:
         name = os.path.basename(path)
@@ -92,7 +96,28 @@ def main():
             for cm in c.get("compounds", []):
                 if cm not in K:
                     errors.append(f"{name}: compound '{cm}' has no entity in compounds/")
+        if "common_slug" in d and not SLUG.match(str(d.get("common_slug", ""))):
+            errors.append(f"{name}: bad common_slug '{d.get('common_slug')}'")
+        for it in d.get("drug_class_interactions", []):
+            if it.get("drug_class") not in D:
+                errors.append(f"{name}: drug_class '{it.get('drug_class')}' not in drug_classes vocab")
+            if it.get("severity") not in SEVERITIES:
+                errors.append(f"{name}: interaction severity '{it.get('severity')}' invalid (want {sorted(SEVERITIES)})")
+            if it.get("status") not in SAFETY_STATUSES:
+                errors.append(f"{name}: interaction status '{it.get('status')}' invalid (want draft|approved)")
+        for pr in d.get("pairings", []):
+            if pr.get("type") not in PAIR_TYPES:
+                errors.append(f"{name}: pairing type '{pr.get('type')}' invalid (want {sorted(PAIR_TYPES)})")
+            if pr.get("status") not in SAFETY_STATUSES:
+                errors.append(f"{name}: pairing status '{pr.get('status')}' invalid (want draft|approved)")
+            if pr.get("partner_id") == d.get("id"):
+                errors.append(f"{name}: pairing partner_id points at itself")
+            pair_refs.append((name, pr.get("partner_id")))
         cited.update(find_refs(d))
+
+    for (nm, pid) in pair_refs:
+        if pid not in seen_ids:
+            errors.append(f"{nm}: pairing partner_id '{pid}' has no plant record")
 
     missing = sorted(cited - declared)
     orphan = sorted(declared - cited)
@@ -102,7 +127,7 @@ def main():
         warnings.append(f"orphan reference (never cited): {r}")
 
     print(f"Scanned {len(files)} plants | refs cited {len(cited)} / declared {len(declared)} | "
-          f"actions {len(A)} conditions {len(C)} compounds {len(K)}")
+          f"actions {len(A)} conditions {len(C)} drug-classes {len(D)} compounds {len(K)}")
     if warnings:
         print(f"\nWARNINGS ({len(warnings)}):")
         for w in warnings[:40]:

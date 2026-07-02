@@ -1,0 +1,122 @@
+# Omnia Sana — controlled vocabulary: DRUG CLASSES
+# Schema: ../schema/drug_class.schema.json
+#
+# The fixed, expandable taxonomy the Herb-Drug Interaction Checker (Prompt 1)
+# selects from, and the target of every plant's drug_class_interactions[].
+#
+# DESIGN: the model is herb -> drug CLASS -> severity tier, by design. The public
+# tool displays the `label` (and optionally `consumer_description`) ONLY. The
+# `examples` list is EDITOR-FACING context for drafting/verifying interaction
+# records and is NEVER emitted to the public build output (scripts/build.py strips
+# it). Add classes here as coverage grows — the tool and REST layer pick them up
+# automatically on the next build.
+
+# ------------------------------------------------------------- cardiovascular / blood
+- id: anticoagulants-antiplatelets
+  label: Anticoagulants / antiplatelets
+  consumer_description: Medicines that thin the blood or reduce clotting.
+  category: cardiovascular
+  examples: ["warfarin", "heparin", "apixaban", "rivaroxaban", "dabigatran", "aspirin (antiplatelet)", "clopidogrel"]
+  synonyms: ["blood thinners", "anticoagulant", "antiplatelet", "warfarin"]
+- id: antihypertensives
+  label: Antihypertensives (blood-pressure medicines)
+  consumer_description: Medicines that lower blood pressure.
+  category: cardiovascular
+  examples: ["lisinopril", "ramipril", "losartan", "amlodipine", "atenolol", "bisoprolol", "hydrochlorothiazide"]
+  synonyms: ["blood pressure medication", "ace inhibitor", "arb", "beta blocker", "calcium channel blocker", "diuretic"]
+- id: cardiac-glycosides
+  label: Cardiac glycosides
+  consumer_description: Medicines that strengthen and steady the heartbeat (narrow safety margin).
+  category: cardiovascular
+  examples: ["digoxin", "digitoxin"]
+  synonyms: ["digoxin"]
+- id: statins
+  label: Statins (cholesterol-lowering)
+  consumer_description: Medicines that lower cholesterol.
+  category: metabolic
+  examples: ["atorvastatin", "simvastatin", "rosuvastatin", "pravastatin"]
+  synonyms: ["cholesterol medication", "statin"]
+
+# ------------------------------------------------------------- metabolic / endocrine
+- id: antidiabetics
+  label: Antidiabetic medicines
+  consumer_description: Medicines that lower blood sugar.
+  category: metabolic
+  examples: ["metformin", "gliclazide", "glipizide", "insulin", "sitagliptin", "empagliflozin"]
+  synonyms: ["diabetes medication", "insulin", "blood sugar medication", "hypoglycemic"]
+- id: thyroid-medicines
+  label: Thyroid medicines
+  consumer_description: Medicines that replace or regulate thyroid hormone.
+  category: endocrine
+  examples: ["levothyroxine", "liothyronine", "carbimazole"]
+  synonyms: ["levothyroxine", "thyroid hormone"]
+- id: hormonal-therapies
+  label: Hormonal therapies
+  consumer_description: Hormone medicines such as the contraceptive pill and hormone replacement.
+  category: endocrine
+  examples: ["ethinylestradiol", "levonorgestrel", "estradiol (HRT)", "tamoxifen"]
+  synonyms: ["birth control", "oral contraceptive", "the pill", "hrt", "hormone replacement"]
+
+# ------------------------------------------------------------- psychiatric / CNS
+- id: antidepressants-serotonergic
+  label: Antidepressants (SSRIs / SNRIs / MAOIs)
+  consumer_description: Medicines for depression and anxiety that raise serotonin.
+  category: psychiatric
+  examples: ["sertraline", "fluoxetine", "citalopram", "escitalopram", "venlafaxine", "duloxetine", "phenelzine (MAOI)"]
+  synonyms: ["ssri", "snri", "maoi", "antidepressant", "serotonin"]
+- id: sedatives-cns-depressants
+  label: Sedatives / CNS depressants
+  consumer_description: Medicines that calm the nervous system or aid sleep.
+  category: cns
+  examples: ["diazepam", "lorazepam", "zopiclone", "zolpidem", "phenobarbital", "opioid analgesics"]
+  synonyms: ["benzodiazepine", "sleeping pill", "sedative", "tranquilizer", "barbiturate", "opioid"]
+- id: anticonvulsants
+  label: Anticonvulsants (anti-seizure)
+  consumer_description: Medicines that control seizures.
+  category: cns
+  examples: ["phenytoin", "carbamazepine", "valproate", "lamotrigine", "phenobarbital"]
+  synonyms: ["anti-seizure", "antiepileptic", "epilepsy medication"]
+
+# ------------------------------------------------------------- immune / oncology
+- id: immunosuppressants
+  label: Immunosuppressants
+  consumer_description: Medicines that dampen the immune system (e.g. after a transplant).
+  category: immune
+  examples: ["ciclosporin", "tacrolimus", "methotrexate", "azathioprine", "mycophenolate"]
+  synonyms: ["transplant medication", "ciclosporin", "tacrolimus", "immunosuppressant"]
+- id: chemotherapy-agents
+  label: Chemotherapy / cancer medicines
+  consumer_description: Medicines used to treat cancer.
+  category: oncology
+  examples: ["irinotecan", "imatinib", "docetaxel", "cyclophosphamide"]
+  synonyms: ["chemotherapy", "cancer treatment", "cytotoxic"]
+
+# ------------------------------------------------------------- anti-infective
+- id: antiretrovirals
+  label: Antiretrovirals (HIV medicines)
+  consumer_description: Medicines that treat HIV.
+  category: anti-infective
+  examples: ["indinavir", "ritonavir", "efavirenz", "nevirapine"]
+  synonyms: ["hiv medication", "protease inhibitor", "antiretroviral", "art"]
+- id: antibiotics
+  label: Antibiotics
+  consumer_description: Medicines that treat bacterial infections.
+  category: anti-infective
+  examples: ["ciprofloxacin", "doxycycline", "amoxicillin", "erythromycin"]
+  synonyms: ["antibiotic", "antibacterial"]
+
+# ------------------------------------------------------------- analgesia / inflammation
+- id: nsaids
+  label: NSAIDs (anti-inflammatory painkillers)
+  consumer_description: Over-the-counter and prescription anti-inflammatory painkillers.
+  category: analgesia
+  examples: ["ibuprofen", "naproxen", "diclofenac", "aspirin (analgesic dose)"]
+  synonyms: ["ibuprofen", "naproxen", "anti-inflammatory", "painkiller", "nsaid"]
+
+# ------------------------------------------------------------- pharmacokinetic buckets
+- id: cyp3a4-substrates
+  label: Medicines processed by CYP3A4
+  consumer_description: A large group of medicines broken down by a common liver enzyme; herbs that speed up or slow this enzyme can change their levels.
+  category: pharmacokinetic
+  examples: ["many statins", "many calcium-channel blockers", "ciclosporin", "some benzodiazepines", "many antiretrovirals"]
+  synonyms: ["cyp3a4", "liver enzyme", "cytochrome p450", "drug metabolism"]

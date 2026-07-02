@@ -10,6 +10,7 @@
     "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable slug: lowercase scientific name, spaces -> hyphens, e.g. allium-sativum."},
     "scientific_name": {"type": "string"},
     "common_names": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "common_slug": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Public URL slug for /plants/<common_slug>/. Optional OVERRIDE: when omitted, scripts/build.py derives it from the primary common name (collisions fall back to the Latin id). Set explicitly to pin a stable SEO URL and a redirect from the Latin-binomial form."},
     "family": {"type": "string", "description": "Botanical family; must be a real family (never 'Unknown')."},
     "synonyms": {"type": "array", "items": {"type": "string"}, "description": "Botanical (taxonomic) synonyms."},
     "external_ids": {
@@ -86,6 +87,42 @@
         }
       }
     },
+    "drug_class_interactions": {
+      "type": "array",
+      "description": "Herb <-> drug-CLASS interaction claims (powers the Herb-Drug Interaction Checker, Prompt 1). Each maps this plant to one drug class with a severity tier. Public tools serve status: approved ONLY.",
+      "items": {
+        "type": "object",
+        "required": ["drug_class", "severity", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "drug_class": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Drug-class id -> vocabularies/drug_classes.yaml."},
+          "severity": {"$ref": "#/$defs/severity"},
+          "mechanism": {"type": "string", "description": "Plain-English mechanism / reason for the interaction."},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"},
+          "status": {"$ref": "#/$defs/safety_status"},
+          "reviewed_by": {"type": "string", "description": "Reviewer who approved this record (medical sign-off)."},
+          "reviewed_date": {"type": "string", "description": "Date the record was approved (YYYY-MM-DD)."}
+        }
+      }
+    },
+    "pairings": {
+      "type": "array",
+      "description": "Herb <-> herb synergy / caution pairings (powers the Herb-Herb Combinations tool, Prompt 2). Directionless: a pairing stored on plant A is mirrored to plant B by scripts/build.py. Public tools serve status: approved ONLY.",
+      "items": {
+        "type": "object",
+        "required": ["partner_id", "type", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "partner_id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "The other plant's id -> plants/<partner_id>.yaml."},
+          "type": {"$ref": "#/$defs/pairing_type"},
+          "note": {"type": "string", "description": "Short cited note on the pairing."},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"},
+          "status": {"$ref": "#/$defs/safety_status"},
+          "reviewed_by": {"type": "string"},
+          "reviewed_date": {"type": "string"}
+        }
+      }
+    },
     "references": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}, "description": "Background/general sources for the plant not tied to a specific claim (identification, distribution, foraging, overviews)."},
     "provenance": {"type": "string", "description": "Origin of the record, e.g. 'book', 'website', 'pubmed', or combinations like 'book+pubmed'."},
     "internal_notes": {"type": "string", "description": "Editorial notes and history; NEVER published."},
@@ -94,6 +131,9 @@
   },
   "$defs": {
     "status": {"type": "string", "enum": ["verified", "draft", "needs-review"]},
+    "safety_status": {"type": "string", "enum": ["draft", "approved"], "description": "Safety-record lifecycle. 'draft' = Claude-drafted / under review, NEVER served publicly. 'approved' = human medical sign-off, served by public tools. Deliberately distinct from the content `status` enum."},
+    "severity": {"type": "string", "enum": ["avoid", "caution", "likely-safe", "insufficient"], "description": "Herb-drug severity tier: avoid | caution (use with caution) | likely-safe | insufficient (insufficient evidence)."},
+    "pairing_type": {"type": "string", "enum": ["synergy", "neutral", "caution", "avoid"], "description": "Herb-herb pairing verdict."},
     "reference_ids": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}}
   }
 }

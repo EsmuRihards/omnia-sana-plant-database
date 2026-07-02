@@ -14,7 +14,7 @@ and writes build/:
 PUBLIC-SAFE: internal_notes are NEVER emitted. No timestamp embedded (clean diffs).
 Stdlib + PyYAML. Run: python scripts/build.py
 """
-import json, os, re, glob, urllib.parse, yaml
+import json, os, re, glob, urllib.parse, hashlib, yaml
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BIB = os.path.join(ROOT, "bibliography.bibtex")
@@ -228,15 +228,50 @@ def load_plants():
     return out
 
 
+def slugify(s):
+    s = re.sub(r"[^a-z0-9]+", "-", (s or "").strip().lower())
+    return s.strip("-")
+
+
+def resolve_common_slugs(plants):
+    """Public URL slug per plant for /plants/<slug>/. An explicit `common_slug`
+    override wins and reserves the slug; otherwise it is derived from the primary
+    common name. Collisions resolve deterministically (plants ordered by permanent
+    id): the first claimant keeps the derived slug, later ones fall back to their
+    Latin id (which is globally unique). Returns {plant_id: slug}."""
+    out, taken = {}, {}
+    ordered = sorted(plants, key=lambda p: p.get("id", ""))
+    for p in ordered:                      # explicit overrides first
+        ov = p.get("common_slug")
+        if ov:
+            out[p["id"]], taken[ov] = ov, p["id"]
+    for p in ordered:
+        if p["id"] in out:
+            continue
+        base = slugify((p.get("common_names") or [p.get("scientific_name", "")])[0]) or p["id"]
+        slug = base if (base not in taken) else p["id"]   # collision -> permanent Latin id
+        out[p["id"]], taken[slug] = slug, p["id"]
+    return out
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     actions = {a["id"]: a for a in yaml.safe_load(open(os.path.join(VOCAB, "actions.yaml"), encoding="utf-8"))}
     conditions = {c["id"]: c for c in yaml.safe_load(open(os.path.join(VOCAB, "conditions.yaml"), encoding="utf-8"))}
+    drug_classes = {d["id"]: d for d in yaml.safe_load(open(os.path.join(VOCAB, "drug_classes.yaml"), encoding="utf-8"))}
     compounds = {}
     for fn in sorted(glob.glob(os.path.join(COMPDIR, "*.yaml"))):
         c = yaml.safe_load(open(fn, encoding="utf-8"))
         compounds[c["id"]] = c
     plants = load_plants()
+    slugs = resolve_common_slugs(plants)
+    # Public-safe drug-class list (NO editor-facing `examples`), shared by vocab.json
+    # and interactions.v1.json.
+    dc_public = sorted(
+        [{"id": d["id"], "label": d["label"], "consumer_description": d.get("consumer_description", ""),
+          "category": d.get("category", "")} for d in drug_classes.values()],
+        key=lambda d: d["label"].lower())
+    name_of = lambda p: (p.get("common_names") or [p["scientific_name"]])[0]
 
     # ---- ref -> linkage inversion (claim-level) ----
     inv = {}
@@ -320,6 +355,7 @@ def main():
             "name": (p.get("common_names") or [p["scientific_name"]])[0],
             "scientific": p["scientific_name"],
             "id": p.get("id"),
+            "common_slug": slugs[p["id"]],
             "wp_post_id": p.get("wp_post_id"),
             # `references` are the claim-level reference ids for this plant<->condition
             # association — they make symptoms.json self-contained for the Symptom-tool
@@ -339,10 +375,18 @@ def main():
            "conditions": sorted(sym_conditions, key=lambda c: c["label"].lower()),
            "plants": sorted(sym_plants, key=lambda p: p["name"].lower())})
 
-    # ---- plants.json (public-safe: drop internal_notes) ----
+    # ---- plants.json (public-safe: drop internal_notes; inject resolved common_slug;
+    #      filter safety records to approved-only so /plants can never leak a draft) ----
+    def approved_only(items):
+        return [x for x in (items or []) if x.get("status") == "approved"]
     pub = []
     for p in plants:
         q = {k: v for k, v in p.items() if k != "internal_notes"}
+        q["common_slug"] = slugs[p["id"]]
+        if "drug_class_interactions" in q:
+            q["drug_class_interactions"] = approved_only(q["drug_class_interactions"])
+        if "pairings" in q:
+            q["pairings"] = approved_only(q["pairings"])
         pub.append(q)
     write(os.path.join(OUT, "plants.json"), {"schema": "omnia-sana/plants@1", "count": len(pub), "plants": pub})
 
@@ -351,15 +395,91 @@ def main():
         "schema": "omnia-sana/vocab@1",
         "actions": [{"id": a["id"], "label": a["label"], "category": a.get("category", "")} for a in actions.values()],
         "conditions": sym_conditions,
+        "drug_classes": dc_public,
         "compounds": [{"id": c["id"], "name": c["name"], "class": c.get("class", "")} for c in compounds.values()],
     })
+
+    # ---- interactions.v1.json (Herb-Drug Interaction Checker feed) ----------------
+    # PUBLIC file carries approved records ONLY; the *.draft.json twin carries every
+    # record (draft + approved) for the review workflow and is NOT deployed publicly.
+    def interaction_rows(status):
+        rows = []
+        for p in plants:
+            for it in p.get("drug_class_interactions", []):
+                if status and it.get("status") != status:
+                    continue
+                dc = drug_classes.get(it["drug_class"], {})
+                rows.append({
+                    "plant_id": p["id"], "plant": name_of(p), "scientific": p["scientific_name"],
+                    "common_slug": slugs[p["id"]], "wp_post_id": p.get("wp_post_id"),
+                    "drug_class": it["drug_class"], "drug_class_label": dc.get("label", it["drug_class"]),
+                    "severity": it["severity"], "mechanism": it.get("mechanism", ""),
+                    "references": list(it.get("reference_ids", [])), "status": it.get("status", ""),
+                })
+        rows.sort(key=lambda r: (r["plant"].lower(), r["drug_class_label"].lower()))
+        return rows
+
+    approved_int, draft_int = interaction_rows("approved"), interaction_rows(None)
+    write(os.path.join(OUT, "interactions.v1.json"),
+          {"schema": "omnia-sana/interactions@1", "count": len(approved_int),
+           "drug_classes": dc_public, "interactions": approved_int})
+    write(os.path.join(OUT, "interactions.v1.draft.json"),
+          {"schema": "omnia-sana/interactions@1", "count": len(draft_int),
+           "drug_classes": dc_public, "interactions": draft_int})
+
+    # ---- pairings.v1.json (Herb-Herb Combinations feed) --------------------------
+    # Directionless: every pairing is emitted BOTH ways so a query by either herb id
+    # resolves it. Approved-only public + full draft twin, same as interactions.
+    by_id = {p["id"]: p for p in plants}
+
+    def pairing_rows(status):
+        seen, rows = set(), []
+        for p in plants:
+            for pr in p.get("pairings", []):
+                if status and pr.get("status") != status:
+                    continue
+                partner = by_id.get(pr["partner_id"])
+                if not partner:
+                    continue
+                for a, b in ((p, partner), (partner, p)):
+                    k = (a["id"], b["id"], pr["type"])
+                    if k in seen:
+                        continue
+                    seen.add(k)
+                    rows.append({
+                        "herb_id": a["id"], "herb": name_of(a), "herb_slug": slugs[a["id"]],
+                        "partner_id": b["id"], "partner": name_of(b), "partner_slug": slugs[b["id"]],
+                        "type": pr["type"], "note": pr.get("note", ""),
+                        "references": list(pr.get("reference_ids", [])), "status": pr.get("status", ""),
+                    })
+        rows.sort(key=lambda r: (r["herb"].lower(), r["partner"].lower()))
+        return rows
+
+    approved_pair, draft_pair = pairing_rows("approved"), pairing_rows(None)
+    write(os.path.join(OUT, "pairings.v1.json"),
+          {"schema": "omnia-sana/pairings@1", "count": len(approved_pair), "pairings": approved_pair})
+    write(os.path.join(OUT, "pairings.v1.draft.json"),
+          {"schema": "omnia-sana/pairings@1", "count": len(draft_pair), "pairings": draft_pair})
+
+    # ---- manifest.json (versioning + integrity; no timestamp -> clean diffs) ------
+    artifacts = {}
+    for fn in ["citations.json", "symptoms.json", "plants.json", "vocab.json",
+               "interactions.v1.json", "pairings.v1.json"]:
+        raw = open(os.path.join(OUT, fn), "rb").read()
+        head = json.loads(raw.decode("utf-8"))
+        artifacts[fn] = {"schema": head.get("schema", ""), "count": head.get("count"),
+                         "bytes": len(raw), "sha256": hashlib.sha256(raw).hexdigest()}
+    write(os.path.join(OUT, "manifest.json"), {"schema": "omnia-sana/manifest@1", "artifacts": artifacts})
 
     linked = sum(1 for c in cites if c["plants"])
     print("build/ written:")
     print("  citations.json : %d citations (%d linked to >=1 plant)" % (len(cites), linked))
     print("  symptoms.json  : %d plants, %d conditions" % (len(sym_plants), len(sym_conditions)))
     print("  plants.json    : %d plants" % len(pub))
-    print("  vocab.json     : %d actions, %d conditions, %d compounds" % (len(actions), len(conditions), len(compounds)))
+    print("  vocab.json     : %d actions, %d conditions, %d drug-classes, %d compounds" % (len(actions), len(conditions), len(drug_classes), len(compounds)))
+    print("  interactions   : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_int), len(draft_int)))
+    print("  pairings       : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_pair), len(draft_pair)))
+    print("  manifest.json  : %d artifacts hashed" % len(artifacts))
 
 
 def write(path, obj):

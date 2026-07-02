@@ -1103,6 +1103,104 @@
    ]
   }
  ],
+ "drug_classes": [
+  {
+   "id": "antibiotics",
+   "label": "Antibiotics",
+   "consumer_description": "Medicines that treat bacterial infections.",
+   "category": "anti-infective"
+  },
+  {
+   "id": "anticoagulants-antiplatelets",
+   "label": "Anticoagulants / antiplatelets",
+   "consumer_description": "Medicines that thin the blood or reduce clotting.",
+   "category": "cardiovascular"
+  },
+  {
+   "id": "anticonvulsants",
+   "label": "Anticonvulsants (anti-seizure)",
+   "consumer_description": "Medicines that control seizures.",
+   "category": "cns"
+  },
+  {
+   "id": "antidepressants-serotonergic",
+   "label": "Antidepressants (SSRIs / SNRIs / MAOIs)",
+   "consumer_description": "Medicines for depression and anxiety that raise serotonin.",
+   "category": "psychiatric"
+  },
+  {
+   "id": "antidiabetics",
+   "label": "Antidiabetic medicines",
+   "consumer_description": "Medicines that lower blood sugar.",
+   "category": "metabolic"
+  },
+  {
+   "id": "antihypertensives",
+   "label": "Antihypertensives (blood-pressure medicines)",
+   "consumer_description": "Medicines that lower blood pressure.",
+   "category": "cardiovascular"
+  },
+  {
+   "id": "antiretrovirals",
+   "label": "Antiretrovirals (HIV medicines)",
+   "consumer_description": "Medicines that treat HIV.",
+   "category": "anti-infective"
+  },
+  {
+   "id": "cardiac-glycosides",
+   "label": "Cardiac glycosides",
+   "consumer_description": "Medicines that strengthen and steady the heartbeat (narrow safety margin).",
+   "category": "cardiovascular"
+  },
+  {
+   "id": "chemotherapy-agents",
+   "label": "Chemotherapy / cancer medicines",
+   "consumer_description": "Medicines used to treat cancer.",
+   "category": "oncology"
+  },
+  {
+   "id": "hormonal-therapies",
+   "label": "Hormonal therapies",
+   "consumer_description": "Hormone medicines such as the contraceptive pill and hormone replacement.",
+   "category": "endocrine"
+  },
+  {
+   "id": "immunosuppressants",
+   "label": "Immunosuppressants",
+   "consumer_description": "Medicines that dampen the immune system (e.g. after a transplant).",
+   "category": "immune"
+  },
+  {
+   "id": "cyp3a4-substrates",
+   "label": "Medicines processed by CYP3A4",
+   "consumer_description": "A large group of medicines broken down by a common liver enzyme; herbs that speed up or slow this enzyme can change their levels.",
+   "category": "pharmacokinetic"
+  },
+  {
+   "id": "nsaids",
+   "label": "NSAIDs (anti-inflammatory painkillers)",
+   "consumer_description": "Over-the-counter and prescription anti-inflammatory painkillers.",
+   "category": "analgesia"
+  },
+  {
+   "id": "sedatives-cns-depressants",
+   "label": "Sedatives / CNS depressants",
+   "consumer_description": "Medicines that calm the nervous system or aid sleep.",
+   "category": "cns"
+  },
+  {
+   "id": "statins",
+   "label": "Statins (cholesterol-lowering)",
+   "consumer_description": "Medicines that lower cholesterol.",
+   "category": "metabolic"
+  },
+  {
+   "id": "thyroid-medicines",
+   "label": "Thyroid medicines",
+   "consumer_description": "Medicines that replace or regulate thyroid hormone.",
+   "category": "endocrine"
+  }
+ ],
  "compounds": [
   {
    "id": "alkaloid",

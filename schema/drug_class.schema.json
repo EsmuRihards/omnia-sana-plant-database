@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omniasana.bio/schema/drug_class.schema.json",
+  "title": "Drug-class vocabulary term",
+  "description": "A pharmacological drug CLASS (never an individual drug). vocabularies/drug_classes.yaml is a list of these. It is the fixed taxonomy the Herb-Drug Interaction Checker (Prompt 1) selects from, and the target of a plant's drug_class_interactions[]. The herb->class->severity model is deliberate: the public tool shows class labels only, never brand or generic drug names.",
+  "type": "object",
+  "required": ["id", "label"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable slug, e.g. anticoagulants-antiplatelets, antidepressants-ssri, cyp3a4-substrates."},
+    "label": {"type": "string", "description": "Display label shown in the tool, e.g. 'Anticoagulants / antiplatelets'."},
+    "consumer_description": {"type": "string", "description": "Plain-English description a layperson understands, e.g. 'medicines that reduce blood clotting'. Safe to display; contains NO individual drug names."},
+    "category": {"type": "string", "description": "Broad grouping, e.g. cardiovascular, metabolic, psychiatric, cns, immune, endocrine, pharmacokinetic."},
+    "examples": {"type": "array", "items": {"type": "string"}, "description": "EDITOR-FACING ONLY generic drug names in this class (used to draft/verify records). NEVER emitted to the public build output."},
+    "synonyms": {"type": "array", "items": {"type": "string"}, "description": "Alternate names a user or editor might type, for search."}
+  }
+}

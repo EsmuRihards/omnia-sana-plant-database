@@ -6,3 +6,7 @@ __pycache__/
 # Large, regenerable ingestion caches/logs (kept untracked under ingest/archive/)
 ingest/archive/_abstract_cache.json
 ingest/archive/abstracts_log_*.txt
+
+# Draft safety-record twins: unreviewed herb-drug / herb-herb claims. Kept LOCAL
+# for the review workflow only — never published. build/ stays approved-only.
+build/*.draft.json

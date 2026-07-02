@@ -19,6 +19,7 @@ constituents:
   reference_ids:
   - REF-0415
   - REF-0416
+  - REF-2398
 - name: Phenolic acids (fukinolic and cimicifugic acids)
   compounds:
   - phenolic-acid
@@ -50,6 +51,9 @@ indications:
   - REF-0671
   - REF-0672
   - REF-0673
+  - REF-2397
+  - REF-2399
+  - REF-2400
   status: verified
 - condition: menopause
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood);
@@ -63,6 +67,11 @@ indications:
   - REF-0672
   - REF-0673
   - REF-0674
+  - REF-2397
+  - REF-2398
+  - REF-2399
+  - REF-2400
+  - REF-2401
   status: verified
 - condition: menstrual-cramps
   note: Premenstrual and menstrual complaints (traditional use)
@@ -94,9 +103,15 @@ contraindications:
   reference_ids:
   - REF-0415
   status: verified
+references:
+- REF-2397
+- REF-2398
+- REF-2399
+- REF-2400
+- REF-2401
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative
   Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations
@@ -106,4 +121,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   more PubMed sources (REF-0670..REF-0674) - a large isopropanolic-extract meta-analysis (REF-0670), a
   combination RCT (REF-0671), two null RCTs including an oncology Phase III trial (REF-0672, REF-0673)
   and an anxiety/depression meta-analysis (REF-0674). | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 5 PubMed-verified @article sources (REF-2397, REF-2398, REF-2399, REF-2400, REF-2401)
+  — woven into relevant actions/indications and the plant-level references bucket.'

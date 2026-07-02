@@ -22,6 +22,7 @@ constituents:
   - REF-0470
   - REF-0590
   - REF-0677
+  - REF-2402
 - name: Flavonoids and coumarins (aesculin)
   compounds:
   - flavonoid
@@ -29,12 +30,16 @@ constituents:
   note: Supporting constituents of the seed.
   reference_ids:
   - REF-0471
+  - REF-2406
 actions:
 - action: anti-inflammatory
   note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
     and exerts venotonic effects on veins
   reference_ids:
   - REF-0590
+  - REF-2402
+  - REF-2403
+  - REF-2405
   status: verified
 - action: anti-oedematous
   note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
@@ -47,6 +52,7 @@ actions:
     and exerts venotonic effects on veins; Relief of haemorrhoid symptoms (venotonic)
   reference_ids:
   - REF-0590
+  - REF-2402
   status: needs-review
 indications:
 - condition: arthritis
@@ -56,6 +62,7 @@ indications:
   - REF-0590
   - REF-0675
   - REF-0676
+  - REF-2405
   status: needs-review
 - condition: hemorrhoids
   note: Relief of haemorrhoid symptoms (venotonic)
@@ -98,6 +105,7 @@ indications:
   - REF-0470
   - REF-0678
   - REF-0679
+  - REF-2406
   status: verified
 contraindications:
 - note: Use only standardised, processed seed extract. Raw conkers, leaves and bark contain toxic esculin
@@ -112,9 +120,15 @@ contraindications:
   reference_ids:
   - REF-0470
   status: needs-review
+references:
+- REF-2402
+- REF-2403
+- REF-2404
+- REF-2405
+- REF-2406
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed
   extract for CVI; Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained
@@ -124,4 +138,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review
   (REF-0675..REF-0679) - escin reviews and an endothelial-cell mechanism study (REF-0675, REF-0676), an
   escin pharmacokinetics study (REF-0677), and two venoactive-compound reviews of chronic venous disease
   that include horse chestnut seed extract (REF-0678, REF-0679). | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds).'
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
+  to >=10 scientific publications: added 5 PubMed-verified @article sources (REF-2402, REF-2403, REF-2404,
+  REF-2405, REF-2406) — woven into relevant actions/indications and the plant-level references bucket.'

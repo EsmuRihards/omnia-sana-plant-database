@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2396,
+ "count": 2409,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -35,6 +35,37 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2400",
+   "key": "curtis2026actaea",
+   "type": "article",
+   "title": "Efficacy and safety of Actaea racemosa for relieving climacteric complaints",
+   "authors": "Curtis, S. and Moore, A. and Breakspear, I.",
+   "journal": "Menopause",
+   "year": "2026",
+   "doi": "10.1097/GME.0000000000002704",
+   "url": "",
+   "link": "https://doi.org/10.1097/GME.0000000000002704",
+   "link_type": "doi",
+   "citation": "Curtis, S. and Moore, A. and Breakspear, I (2026) 'Efficacy and safety of Actaea racemosa for relieving climacteric complaints', Menopause, 33(5), pp. 624-631. doi:10.1097/GME.0000000000002704",
+   "abstract": "This systematic review assessed the quality of clinical trial evidence for Actaea racemosa (black cohosh) in relieving climacteric complaints, finding a wide range of reporting quality and a need for further high-quality trials.",
+   "tier": "review",
+   "display": "Efficacy and safety of Actaea racemosa for relieving climacteric complaints",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-0710",
@@ -2296,6 +2327,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2403",
+   "key": "penaranda2024aesculus",
+   "type": "article",
+   "title": "Aesculus hippocastanum extract and the main bioactive constituent beta-escin as antivirals agents against coronaviruses, including SARS-CoV-2",
+   "authors": "Penaranda Figueredo, F.A. and Vicente, J. and Barquero, A.A. and Bueno, C.A.",
+   "journal": "Scientific Reports",
+   "year": "2024",
+   "doi": "10.1038/s41598-024-56759-y",
+   "url": "",
+   "link": "https://doi.org/10.1038/s41598-024-56759-y",
+   "link_type": "doi",
+   "citation": "Penaranda Figueredo, F.A. and Vicente, J. and Barquero, A.A. and Bueno, C.A (2024) 'Aesculus hippocastanum extract and the main bioactive constituent beta-escin as antivirals agents against coronaviruses, including SARS-CoV-2', Scientific Reports, 14(1), pp. 6418. doi:10.1038/s41598-024-56759-y",
+   "abstract": "Aesculus hippocastanum extract and beta-escin exhibited antiviral, virucidal and NF-kB-modulating anti-inflammatory activity against coronaviruses including SARS-CoV-2.",
+   "tier": "preclinical",
+   "display": "Aesculus hippocastanum extract and the main bioactive constituent beta-escin as antivirals agents against coronaviruses, including SARS-CoV-2",
+   "plants": [
+    "Buckeye",
+    "Conker tree",
+    "Horse Chestnut"
+   ],
+   "scientific": [
+    "Aesculus hippocastanum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0685",
    "key": "anajirih2024alchemilla",
    "type": "article",
@@ -4021,6 +4081,37 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2397",
+   "key": "hedaoo2024actaea",
+   "type": "article",
+   "title": "Exploring the Efficacy and Safety of Black Cohosh (Actaea racemosa) in Menopausal Symptom Management",
+   "authors": "Hedaoo, K. and Badge, A.K. and Tiwade, Y.R. and Bankar, N.J. and Mishra, V.H.",
+   "journal": "Journal of Mid-life Health",
+   "year": "2024",
+   "doi": "10.4103/jmh.jmh_242_23",
+   "url": "",
+   "link": "https://doi.org/10.4103/jmh.jmh_242_23",
+   "link_type": "doi",
+   "citation": "Hedaoo, K. and Badge, A.K. and Tiwade, Y.R. and Bankar, N.J. and Mishra, V.H (2024) 'Exploring the Efficacy and Safety of Black Cohosh (Actaea racemosa) in Menopausal Symptom Management', Journal of Mid-life Health, 15(1), pp. 5-11. doi:10.4103/jmh.jmh_242_23",
+   "abstract": "This review explores the efficacy and safety of black cohosh (Actaea racemosa) in managing menopausal symptoms, noting its serotonergic rather than estrogenic mechanism and its potential to reduce hot flashes and night sweats.",
+   "tier": "review",
+   "display": "Exploring the Efficacy and Safety of Black Cohosh (Actaea racemosa) in Menopausal Symptom Management",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-1495",
@@ -11564,6 +11655,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2404",
+   "key": "idris2023aesculus",
+   "type": "article",
+   "title": "Phytochemical Estimation and Therapeutic Amelioration of Aesculus hippocastanum L. Seeds Ethanolic Extract in Gastric Ulcer in Rats Possibly by Inhibiting Prostaglandin Synthesis",
+   "authors": "Idris, S. and Mishra, A. and Khushtar, M.",
+   "journal": "Chinese Journal of Integrative Medicine",
+   "year": "2023",
+   "doi": "10.1007/s11655-023-3734-9",
+   "url": "",
+   "link": "https://doi.org/10.1007/s11655-023-3734-9",
+   "link_type": "doi",
+   "citation": "Idris, S. and Mishra, A. and Khushtar, M (2023) 'Phytochemical Estimation and Therapeutic Amelioration of Aesculus hippocastanum L. Seeds Ethanolic Extract in Gastric Ulcer in Rats Possibly by Inhibiting Prostaglandin Synthesis', Chinese Journal of Integrative Medicine, 29(9), pp. 818-824. doi:10.1007/s11655-023-3734-9",
+   "abstract": "An ethanolic extract of Aesculus hippocastanum seeds, containing quercetin and rutin, protected against indomethacin-induced gastric ulcers in rats, improving mucosal integrity and antioxidant enzyme levels.",
+   "tier": "preclinical",
+   "display": "Phytochemical Estimation and Therapeutic Amelioration of Aesculus hippocastanum L. Seeds Ethanolic Extract in Gastric Ulcer in Rats Possibly by Inhibiting Prostaglandin Synthesis",
+   "plants": [
+    "Buckeye",
+    "Conker tree",
+    "Horse Chestnut"
+   ],
+   "scientific": [
+    "Aesculus hippocastanum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1401",
    "key": "jeong2023horsetail",
    "type": "article",
@@ -12807,6 +12925,36 @@
    ]
   },
   {
+   "ref_id": "REF-2408",
+   "key": "sprea2023aloysia",
+   "type": "article",
+   "title": "Volatile Compounds and Biological Activity of the Essential Oil of Aloysia citrodora Palau: Comparison of Hydrodistillation and Microwave-Assisted Hydrodistillation",
+   "authors": "Sprea, R.M. and Fernandes, L.H.M. and Pires, T.C.S.P. and Calhelha, R.C. and Rodrigues, P.J. and Amaral, J.S.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28114528",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28114528",
+   "link_type": "doi",
+   "citation": "Sprea, R.M. and Fernandes, L.H.M. and Pires, T.C.S.P. and Calhelha, R.C. and Rodrigues, P.J. and Amaral, J.S (2023) 'Volatile Compounds and Biological Activity of the Essential Oil of Aloysia citrodora Palau: Comparison of Hydrodistillation and Microwave-Assisted Hydrodistillation', Molecules, 28(11), pp. 4528. doi:10.3390/molecules28114528",
+   "abstract": "The geranial- and neral-rich essential oil of Aloysia citrodora showed antioxidant, anti-inflammatory and antibacterial activity, with the extraction method influencing composition and bioactivity.",
+   "tier": "preclinical",
+   "display": "Volatile Compounds and Biological Activity of the Essential Oil of Aloysia citrodora Palau: Comparison of Hydrodistillation and Microwave-Assisted Hydrodistillation",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0762",
    "key": "jeong2023capsella",
    "type": "article",
@@ -13351,6 +13499,37 @@
     "Sedative / sleep support"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2405",
+   "key": "quarta2022aesculus",
+   "type": "article",
+   "title": "Analysis of the Anti-Inflammatory and Anti-Osteoarthritic Potential of Flonat Fast, a Combination of Plant Extracts, Bromelain and Escin (Aesculus hippocastanum), Evaluated in In Vitro Models of Inflammation Relevant to Osteoarthritis",
+   "authors": "Quarta, S. and Santarpino, G. and Carluccio, M.A. and Calabriso, N. and Scoditti, E. and Siculella, L. and Damiano, F. and Maffia, M. and Verri, T. and De Caterina, R. and Massaro, M.",
+   "journal": "Pharmaceuticals",
+   "year": "2022",
+   "doi": "10.3390/ph15101263",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph15101263",
+   "link_type": "doi",
+   "citation": "Quarta, S. and Santarpino, G. and Carluccio, M.A. and Calabriso, N. and Scoditti, E. and Siculella, L. and Damiano, F. and Maffia, M. and Verri, T. and De Caterina, R. and Massaro, M (2022) 'Analysis of the Anti-Inflammatory and Anti-Osteoarthritic Potential of Flonat Fast, a Combination of Plant Extracts, Bromelain and Escin (Aesculus hippocastanum), Evaluated in In Vitro Models of Inflammation Relevant to Osteoarthritis', Pharmaceuticals, 15(10), pp. 1263. doi:10.3390/ph15101263",
+   "abstract": "Escin from Aesculus hippocastanum, alone and in a combination product, suppressed TNF-alpha-induced inflammation and angiogenesis in endothelial and monocyte models relevant to osteoarthritis.",
+   "tier": "preclinical",
+   "display": "Analysis of the Anti-Inflammatory and Anti-Osteoarthritic Potential of Flonat Fast, a Combination of Plant Extracts, Bromelain and Escin (Aesculus hippocastanum), Evaluated in In Vitro Models of Inflammation Relevant to Osteoarthritis",
+   "plants": [
+    "Buckeye",
+    "Conker tree",
+    "Horse Chestnut"
+   ],
+   "scientific": [
+    "Aesculus hippocastanum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Arthritis / joint pain"
+   ]
   },
   {
    "ref_id": "REF-1621",
@@ -18543,6 +18722,37 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2399",
+   "key": "drewe2022actaea",
+   "type": "article",
+   "title": "Treat more than heat - New therapeutic implications of Cimicifuga racemosa through AMPK-dependent metabolic effects",
+   "authors": "Drewe, J. and Boonen, G. and Culmsee, C.",
+   "journal": "Phytomedicine",
+   "year": "2022",
+   "doi": "10.1016/j.phymed.2022.154060",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2022.154060",
+   "link_type": "doi",
+   "citation": "Drewe, J. and Boonen, G. and Culmsee, C (2022) 'Treat more than heat - New therapeutic implications of Cimicifuga racemosa through AMPK-dependent metabolic effects', Phytomedicine, 100, pp. 154060. doi:10.1016/j.phymed.2022.154060",
+   "abstract": "This review proposes that Cimicifuga racemosa (Actaea racemosa) extracts mitigate climacteric symptoms such as hot flushes partly through AMP-activated protein kinase (AMPK)-dependent metabolic effects.",
+   "tier": "review",
+   "display": "Treat more than heat - New therapeutic implications of Cimicifuga racemosa through AMPK-dependent metabolic effects",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Hot flashes",
+    "Menopause"
+   ]
+  },
+  {
    "ref_id": "REF-0926",
    "key": "abidi2022marrubium",
    "type": "article",
@@ -19413,6 +19623,33 @@
    "actions": [
     "Antimicrobial"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2409",
+   "key": "elouady2021aloysia",
+   "type": "article",
+   "title": "Antihyperglycemic and Antihyperlipidemic Effects of Lippia citriodora in Rats",
+   "authors": "El-Ouady, F. and Eddouks, M.",
+   "journal": "Endocrine, Metabolic & Immune Disorders Drug Targets",
+   "year": "2021",
+   "doi": "10.2174/1871530320666200610153532",
+   "url": "",
+   "link": "https://doi.org/10.2174/1871530320666200610153532",
+   "link_type": "doi",
+   "citation": "El-Ouady, F. and Eddouks, M (2021) 'Antihyperglycemic and Antihyperlipidemic Effects of Lippia citriodora in Rats', Endocrine, Metabolic & Immune Disorders Drug Targets, 21(4), pp. 711-719. doi:10.2174/1871530320666200610153532",
+   "abstract": "An aqueous leaf extract of Lippia citriodora (Aloysia citrodora) lowered blood glucose and lipid levels and exhibited antioxidant activity in diabetic rats.",
+   "tier": "preclinical",
+   "display": "Antihyperglycemic and Antihyperlipidemic Effects of Lippia citriodora in Rats",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -21192,6 +21429,36 @@
    "actions": [],
    "conditions": [
     "Hot flashes",
+    "Menopause"
+   ]
+  },
+  {
+   "ref_id": "REF-2398",
+   "key": "salari2021actaea",
+   "type": "article",
+   "title": "Ethnobotany, Phytochemistry, Traditional and Modern Uses of Actaea racemosa L. (Black cohosh): A Review",
+   "authors": "Salari, S. and Amiri, M.S. and Ramezani, M. and Moghadam, A.T. and Elyasi, S. and Sahebkar, A. and Emami, S.A.",
+   "journal": "Advances in Experimental Medicine and Biology",
+   "year": "2021",
+   "doi": "10.1007/978-3-030-64872-5_24",
+   "url": "",
+   "link": "https://doi.org/10.1007/978-3-030-64872-5_24",
+   "link_type": "doi",
+   "citation": "Salari, S. and Amiri, M.S. and Ramezani, M. and Moghadam, A.T. and Elyasi, S. and Sahebkar, A. and Emami, S.A (2021) 'Ethnobotany, Phytochemistry, Traditional and Modern Uses of Actaea racemosa L. (Black cohosh): A Review', Advances in Experimental Medicine and Biology, 1308, pp. 403-449. doi:10.1007/978-3-030-64872-5_24",
+   "abstract": "This review of Actaea racemosa (black cohosh) covers its ethnobotany and phytochemistry, focusing on the triterpene glycosides and phenolic constituents underlying its use for menopausal and post-menopausal symptoms.",
+   "tier": "review",
+   "display": "Ethnobotany, Phytochemistry, Traditional and Modern Uses of Actaea racemosa L. (Black cohosh): A Review",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": [
     "Menopause"
    ]
   },
@@ -23523,6 +23790,35 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2406",
+   "key": "owczarek2021aesculus",
+   "type": "article",
+   "title": "Potential Activity Mechanisms of Aesculus hippocastanum Bark: Antioxidant Effects in Chemical and Biological In Vitro Models",
+   "authors": "Owczarek, A. and Kolodziejczyk-Czepas, J. and Wozniak-Serwata, J. and Magiera, A. and Kobiela, N. and Wasowicz, K. and Olszewska, M.A.",
+   "journal": "Antioxidants",
+   "year": "2021",
+   "doi": "10.3390/antiox10070995",
+   "url": "",
+   "link": "https://doi.org/10.3390/antiox10070995",
+   "link_type": "doi",
+   "citation": "Owczarek, A. and Kolodziejczyk-Czepas, J. and Wozniak-Serwata, J. and Magiera, A. and Kobiela, N. and Wasowicz, K. and Olszewska, M.A (2021) 'Potential Activity Mechanisms of Aesculus hippocastanum Bark: Antioxidant Effects in Chemical and Biological In Vitro Models', Antioxidants, 10(7), pp. 995. doi:10.3390/antiox10070995",
+   "abstract": "Aesculus hippocastanum bark extract and its constituents esculin, fraxin and epicatechin showed strong antioxidant activity, protecting human plasma against oxidative damage and supporting its use in vascular disorders.",
+   "tier": "preclinical",
+   "display": "Potential Activity Mechanisms of Aesculus hippocastanum Bark: Antioxidant Effects in Chemical and Biological In Vitro Models",
+   "plants": [
+    "Buckeye",
+    "Conker tree",
+    "Horse Chestnut"
+   ],
+   "scientific": [
+    "Aesculus hippocastanum"
+   ],
+   "actions": [],
+   "conditions": [
+    "Varicose veins"
+   ]
   },
   {
    "ref_id": "REF-1020",
@@ -29073,6 +29369,36 @@
     "Anti-inflammatory",
     "Antioxidant",
     "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2402",
+   "key": "idris2020aesculus",
+   "type": "article",
+   "title": "Phytochemical, ethnomedicinal and pharmacological applications of escin from Aesculus hippocastanum L. towards future medicine",
+   "authors": "Idris, S. and Mishra, A. and Khushtar, M.",
+   "journal": "Journal of Basic and Clinical Physiology and Pharmacology",
+   "year": "2020",
+   "doi": "10.1515/jbcpp-2019-0115",
+   "url": "",
+   "link": "https://doi.org/10.1515/jbcpp-2019-0115",
+   "link_type": "doi",
+   "citation": "Idris, S. and Mishra, A. and Khushtar, M (2020) 'Phytochemical, ethnomedicinal and pharmacological applications of escin from Aesculus hippocastanum L. towards future medicine', Journal of Basic and Clinical Physiology and Pharmacology, 31(5). doi:10.1515/jbcpp-2019-0115",
+   "abstract": "This review summarises the phytochemistry, ethnomedicinal uses and pharmacology of escin from Aesculus hippocastanum (horse chestnut), including its use for venous congestion, bruises and inflammation.",
+   "tier": "review",
+   "display": "Phytochemical, ethnomedicinal and pharmacological applications of escin from Aesculus hippocastanum L. towards future medicine",
+   "plants": [
+    "Buckeye",
+    "Conker tree",
+    "Horse Chestnut"
+   ],
+   "scientific": [
+    "Aesculus hippocastanum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Venotonic / vasoprotective"
    ],
    "conditions": []
   },
@@ -47687,6 +48013,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2407",
+   "key": "abuhamdah2015aloysia",
+   "type": "article",
+   "title": "Pharmacological and neuroprotective profile of an essential oil derived from leaves of Aloysia citrodora Palau",
+   "authors": "Abuhamdah, S. and Abuhamdah, R. and Howes, M.J.R. and Al-Olimat, S. and Ennaceur, A. and Chazot, P.L.",
+   "journal": "The Journal of Pharmacy and Pharmacology",
+   "year": "2015",
+   "doi": "10.1111/jphp.12424",
+   "url": "",
+   "link": "https://doi.org/10.1111/jphp.12424",
+   "link_type": "doi",
+   "citation": "Abuhamdah, S. and Abuhamdah, R. and Howes, M.J.R. and Al-Olimat, S. and Ennaceur, A. and Chazot, P.L (2015) 'Pharmacological and neuroprotective profile of an essential oil derived from leaves of Aloysia citrodora Palau', The Journal of Pharmacy and Pharmacology, 67(9), pp. 1306-1315. doi:10.1111/jphp.12424",
+   "abstract": "The citral-rich essential oil of Aloysia citrodora leaves displayed antioxidant, iron-chelating and neuroprotective activity against hydrogen-peroxide- and beta-amyloid-induced neurotoxicity, and interacted with CNS receptors.",
+   "tier": "preclinical",
+   "display": "Pharmacological and neuroprotective profile of an essential oil derived from leaves of Aloysia citrodora Palau",
+   "plants": [
+    "Lemon Verbena",
+    "Lemon beebrush",
+    "Lippia citriodora"
+   ],
+   "scientific": [
+    "Aloysia citrodora"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Sedative / sleep support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0461",
    "key": "ben2015pharmacological",
    "type": "article",
@@ -51840,6 +52196,36 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2401",
+   "key": "beer2013actaea",
+   "type": "article",
+   "title": "Differentiated Evaluation of Extract-Specific Evidence on Cimicifuga racemosa's Efficacy and Safety for Climacteric Complaints",
+   "authors": "Beer, A.M. and Neff, A.",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2013",
+   "doi": "10.1155/2013/860602",
+   "url": "",
+   "link": "https://doi.org/10.1155/2013/860602",
+   "link_type": "doi",
+   "citation": "Beer, A.M. and Neff, A (2013) 'Differentiated Evaluation of Extract-Specific Evidence on Cimicifuga racemosa's Efficacy and Safety for Climacteric Complaints', Evidence-Based Complementary and Alternative Medicine, 2013, pp. 860602. doi:10.1155/2013/860602",
+   "abstract": "This differentiated evaluation of Cimicifuga racemosa (Actaea racemosa) extracts found that registered medicinal products, particularly the isopropanolic extract, demonstrated consistent efficacy and a good safety profile for climacteric complaints.",
+   "tier": "review",
+   "display": "Differentiated Evaluation of Extract-Specific Evidence on Cimicifuga racemosa's Efficacy and Safety for Climacteric Complaints",
+   "plants": [
+    "Black Cohosh",
+    "Black snakeroot",
+    "Cimicifuga",
+    "Rattleweed"
+   ],
+   "scientific": [
+    "Actaea racemosa"
+   ],
+   "actions": [],
+   "conditions": [
+    "Menopause"
+   ]
   },
   {
    "ref_id": "REF-0764",

@@ -697,7 +697,8 @@
      "note": "The compounds to which standardised extracts are normalised; act without measurable systemic oestrogenic effect.",
      "reference_ids": [
       "REF-0415",
-      "REF-0416"
+      "REF-0416",
+      "REF-2398"
      ]
     },
     {
@@ -741,7 +742,10 @@
       "REF-0670",
       "REF-0671",
       "REF-0672",
-      "REF-0673"
+      "REF-0673",
+      "REF-2397",
+      "REF-2399",
+      "REF-2400"
      ],
      "status": "verified"
     },
@@ -755,7 +759,12 @@
       "REF-0671",
       "REF-0672",
       "REF-0673",
-      "REF-0674"
+      "REF-0674",
+      "REF-2397",
+      "REF-2398",
+      "REF-2399",
+      "REF-2400",
+      "REF-2401"
      ],
      "status": "verified"
     },
@@ -803,9 +812,16 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-2397",
+    "REF-2398",
+    "REF-2399",
+    "REF-2400",
+    "REF-2401"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "aegopodium-podagraria",
@@ -1018,7 +1034,8 @@
       "REF-0471",
       "REF-0470",
       "REF-0590",
-      "REF-0677"
+      "REF-0677",
+      "REF-2402"
      ]
     },
     {
@@ -1029,7 +1046,8 @@
      ],
      "note": "Supporting constituents of the seed.",
      "reference_ids": [
-      "REF-0471"
+      "REF-0471",
+      "REF-2406"
      ]
     }
    ],
@@ -1038,7 +1056,10 @@
      "action": "anti-inflammatory",
      "note": "Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue and exerts venotonic effects on veins",
      "reference_ids": [
-      "REF-0590"
+      "REF-0590",
+      "REF-2402",
+      "REF-2403",
+      "REF-2405"
      ],
      "status": "verified"
     },
@@ -1054,7 +1075,8 @@
      "action": "venotonic",
      "note": "Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue and exerts venotonic effects on veins; Relief of haemorrhoid symptoms (venotonic)",
      "reference_ids": [
-      "REF-0590"
+      "REF-0590",
+      "REF-2402"
      ],
      "status": "needs-review"
     }
@@ -1067,7 +1089,8 @@
       "REF-0471",
       "REF-0590",
       "REF-0675",
-      "REF-0676"
+      "REF-0676",
+      "REF-2405"
      ],
      "status": "needs-review"
     },
@@ -1124,7 +1147,8 @@
      "reference_ids": [
       "REF-0470",
       "REF-0678",
-      "REF-0679"
+      "REF-0679",
+      "REF-2406"
      ],
      "status": "verified"
     }
@@ -1147,9 +1171,16 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-2402",
+    "REF-2403",
+    "REF-2404",
+    "REF-2405",
+    "REF-2406"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "agrimonia-eupatoria",
@@ -2244,7 +2275,8 @@
      ],
      "note": "Gives the lemon aroma and contributes to the calming and antimicrobial effects.",
      "reference_ids": [
-      "REF-0474"
+      "REF-0474",
+      "REF-2407"
      ]
     },
     {
@@ -2275,7 +2307,8 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0474",
-      "REF-0692"
+      "REF-0692",
+      "REF-2408"
      ],
      "status": "verified"
     },
@@ -2287,7 +2320,9 @@
       "REF-0620",
       "REF-0692",
       "REF-0693",
-      "REF-0694"
+      "REF-0694",
+      "REF-2407",
+      "REF-2408"
      ],
      "status": "verified"
     },
@@ -2322,7 +2357,8 @@
      "reference_ids": [
       "REF-0474",
       "REF-0690",
-      "REF-0691"
+      "REF-0691",
+      "REF-2407"
      ],
      "status": "verified"
     }
@@ -2442,9 +2478,16 @@
      "status": "needs-review"
     }
    ],
+   "references": [
+    "REF-0474",
+    "REF-0693",
+    "REF-2407",
+    "REF-2408",
+    "REF-2409"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-15"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "althaea-officinalis",

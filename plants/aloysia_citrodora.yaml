@@ -15,6 +15,7 @@ constituents:
   note: Gives the lemon aroma and contributes to the calming and antimicrobial effects.
   reference_ids:
   - REF-0474
+  - REF-2407
 - name: Verbascoside (acteoside)
   compounds:
   - verbascoside
@@ -34,6 +35,7 @@ actions:
   reference_ids:
   - REF-0474
   - REF-0692
+  - REF-2408
   status: verified
 - action: antioxidant
   note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
@@ -45,6 +47,8 @@ actions:
   - REF-0692
   - REF-0693
   - REF-0694
+  - REF-2407
+  - REF-2408
   status: verified
 - action: anxiolytic
   note: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia
@@ -69,6 +73,7 @@ actions:
   - REF-0474
   - REF-0690
   - REF-0691
+  - REF-2407
   status: verified
 indications:
 - condition: anxiety
@@ -153,9 +158,15 @@ contraindications:
   reference_ids:
   - REF-0474
   status: needs-review
+references:
+- REF-0474
+- REF-0693
+- REF-2407
+- REF-2408
+- REF-2409
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-15'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology review of
   A. citrodora; congeneric anxiety RCT of A. polystachya). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (insomnia, anxiety, indigestion, muscle-soreness, inflammation); associations
@@ -166,4 +177,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   - two randomized sleep trials (an insomnia RCT, REF-0690, and a sleep-quality RCT, REF-0691), a verbascoside-rich
   antioxidant/anti-inflammatory study (REF-0692), an antioxidant/antiproliferation study (REF-0693) and
   an immune/antioxidant study (REF-0694). | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 5 PubMed-verified @article sources (REF-0474, REF-0693, REF-2407, REF-2408, REF-2409)
+  — woven into relevant actions/indications and the plant-level references bucket.'

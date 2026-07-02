@@ -1,0 +1,6 @@
+# Deterministic line endings. Build outputs are hashed into build/manifest.json,
+# so they MUST be byte-identical whether built on Windows or CI (Linux) — pin LF.
+build/*.json text eol=lf
+*.py text eol=lf
+*.yaml text eol=lf
+bibliography.bibtex text eol=lf

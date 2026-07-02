@@ -383,6 +383,13 @@ def main():
     for p in plants:
         q = {k: v for k, v in p.items() if k != "internal_notes"}
         q["common_slug"] = slugs[p["id"]]
+        # Enrich indications with the computed 1-10 evidence score + condition label so
+        # plants.json is a self-contained record for plant pages + the embed card (the
+        # raw score lives only in symptoms.json otherwise).
+        if "indications" in q:
+            q["indications"] = [dict(i, evidence=indication_score(i),
+                                     label=conditions.get(i["condition"], {}).get("label", i["condition"]))
+                                for i in q["indications"]]
         if "drug_class_interactions" in q:
             q["drug_class_interactions"] = approved_only(q["drug_class_interactions"])
         if "pairings" in q:
@@ -483,7 +490,9 @@ def main():
 
 
 def write(path, obj):
-    with open(path, "w", encoding="utf-8") as fh:
+    # newline="\n" forces LF on every platform so build outputs (and the manifest
+    # sha256/bytes computed from them) are byte-identical on Windows and CI (Linux).
+    with open(path, "w", encoding="utf-8", newline="\n") as fh:
         json.dump(obj, fh, ensure_ascii=False, indent=1)
         fh.write("\n")
 

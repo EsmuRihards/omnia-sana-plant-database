@@ -3967,7 +3967,9 @@
       "REF-0405",
       "REF-0406",
       "REF-0702",
-      "REF-0703"
+      "REF-0703",
+      "REF-2375",
+      "REF-2377"
      ]
     },
     {
@@ -3990,7 +3992,10 @@
      "note": "Antioxidant constituents of the leaf.",
      "reference_ids": [
       "REF-0407",
-      "REF-0704"
+      "REF-0704",
+      "REF-2373",
+      "REF-2374",
+      "REF-2375"
      ]
     }
    ],
@@ -4003,7 +4008,9 @@
       "REF-0406",
       "REF-0700",
       "REF-0701",
-      "REF-0702"
+      "REF-0702",
+      "REF-2370",
+      "REF-2378"
      ],
      "status": "verified"
     },
@@ -4067,7 +4074,8 @@
       "REF-0406",
       "REF-0700",
       "REF-0701",
-      "REF-0702"
+      "REF-0702",
+      "REF-2376"
      ],
      "status": "needs-review"
     },
@@ -4124,9 +4132,21 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-2370",
+    "REF-2371",
+    "REF-2372",
+    "REF-2373",
+    "REF-2374",
+    "REF-2375",
+    "REF-0406",
+    "REF-2376",
+    "REF-2377",
+    "REF-2378"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-15"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "arnica-montana",
@@ -9080,7 +9100,11 @@
       "REF-0135",
       "REF-0178",
       "REF-0205",
-      "REF-0217"
+      "REF-0217",
+      "REF-2379",
+      "REF-2381",
+      "REF-2383",
+      "REF-2386"
      ],
      "status": "verified"
     },
@@ -9095,7 +9119,8 @@
       "REF-0135",
       "REF-0178",
       "REF-0205",
-      "REF-0217"
+      "REF-0217",
+      "REF-2380"
      ],
      "status": "verified"
     }
@@ -9112,7 +9137,8 @@
       "REF-0135",
       "REF-0178",
       "REF-0205",
-      "REF-0217"
+      "REF-0217",
+      "REF-2384"
      ],
      "status": "verified"
     },
@@ -9159,7 +9185,8 @@
       "REF-0135",
       "REF-0178",
       "REF-0205",
-      "REF-0217"
+      "REF-0217",
+      "REF-2379"
      ],
      "status": "verified"
     }
@@ -9198,9 +9225,19 @@
      "status": "verified"
     }
    ],
-   "provenance": "book",
+   "references": [
+    "REF-2379",
+    "REF-2380",
+    "REF-2381",
+    "REF-2382",
+    "REF-2383",
+    "REF-2384",
+    "REF-2385",
+    "REF-2386"
+   ],
+   "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "cordyceps-militaris",
@@ -31130,7 +31167,8 @@
      "note": "Bitter principles (e.g. taraxacin) responsible for the characteristic bitterness and bitter-tonic action.",
      "reference_ids": [
       "REF-0326",
-      "REF-0338"
+      "REF-0338",
+      "REF-2393"
      ]
     },
     {
@@ -31155,7 +31193,10 @@
      "note": "Antioxidant constituents (e.g. chicoric acid, luteolin derivatives).",
      "reference_ids": [
       "REF-0329",
-      "REF-0333"
+      "REF-0333",
+      "REF-2390",
+      "REF-2394",
+      "REF-2395"
      ]
     },
     {
@@ -31179,7 +31220,11 @@
      ],
      "reference_ids": [
       "REF-0326",
-      "REF-0333"
+      "REF-0333",
+      "REF-2387",
+      "REF-2388",
+      "REF-2389",
+      "REF-2395"
      ],
      "status": "verified"
     },
@@ -31200,7 +31245,10 @@
      ],
      "reference_ids": [
       "REF-0329",
-      "REF-0333"
+      "REF-0333",
+      "REF-2389",
+      "REF-2394",
+      "REF-2396"
      ],
      "status": "verified"
     },
@@ -31261,7 +31309,8 @@
      "reference_ids": [
       "REF-0326",
       "REF-0329",
-      "REF-0338"
+      "REF-0338",
+      "REF-2388"
      ],
      "status": "verified"
     },
@@ -31477,11 +31526,21 @@
     "REF-0334",
     "REF-0335",
     "REF-0336",
-    "REF-0337"
+    "REF-0337",
+    "REF-2387",
+    "REF-2388",
+    "REF-2389",
+    "REF-2390",
+    "REF-2391",
+    "REF-2392",
+    "REF-2393",
+    "REF-2394",
+    "REF-2395",
+    "REF-2396"
    ],
-   "provenance": "website",
+   "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-12"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "theobroma-cacao",

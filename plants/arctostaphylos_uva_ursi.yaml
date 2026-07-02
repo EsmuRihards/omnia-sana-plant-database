@@ -18,6 +18,8 @@ constituents:
   - REF-0406
   - REF-0702
   - REF-0703
+  - REF-2375
+  - REF-2377
 - name: Tannins (gallotannins)
   compounds:
   - tannin
@@ -33,6 +35,9 @@ constituents:
   reference_ids:
   - REF-0407
   - REF-0704
+  - REF-2373
+  - REF-2374
+  - REF-2375
 actions:
 - action: antimicrobial
   note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
@@ -44,6 +49,8 @@ actions:
   - REF-0700
   - REF-0701
   - REF-0702
+  - REF-2370
+  - REF-2378
   status: verified
 - action: astringent
   note: Astringent (tannins)
@@ -91,6 +98,7 @@ indications:
   - REF-0700
   - REF-0701
   - REF-0702
+  - REF-2376
   status: needs-review
 - condition: uti
   note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
@@ -135,9 +143,20 @@ contraindications:
   - REF-0406
   - REF-0702
   status: verified
+references:
+- REF-2370
+- REF-2371
+- REF-2372
+- REF-2373
+- REF-2374
+- REF-2375
+- REF-0406
+- REF-2376
+- REF-2377
+- REF-2378
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-15'
+last_updated: '2026-06-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (EMA HMPC monograph, ESCOP
   monograph, Journal of Ethnopharmacology toxicology study). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (uti, infection); associations retained and now part-mapped and cited.
@@ -148,4 +167,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   clinical-trial backing. An analytical study quantified arbutin and hydroquinone in the leaf (REF-0702),
   and two studies characterise arbutin anti-inflammatory and antioxidant pharmacology (REF-0703, REF-0704).
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds).'
+  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
+  sources (REF-2370, REF-2371, REF-2372, REF-2373, REF-2374, REF-2375, REF-0406, REF-2376, REF-2377, REF-2378)
+  — woven into relevant actions/indications and the plant-level references bucket.'

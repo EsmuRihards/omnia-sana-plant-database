@@ -3184,7 +3184,9 @@
      "note": "Including columbianetin, angelicin, imperatorin and xanthotoxin.",
      "reference_ids": [
       "REF-0396",
-      "REF-0397"
+      "REF-0397",
+      "REF-0695",
+      "REF-0696"
      ]
     },
     {
@@ -3196,7 +3198,9 @@
      "note": "Rich in monoterpenes such as alpha-pinene and beta-phellandrene; gives the aromatic, carminative character.",
      "reference_ids": [
       "REF-0396",
-      "REF-0698"
+      "REF-0698",
+      "REF-2411",
+      "REF-2412"
      ]
     },
     {
@@ -3223,7 +3227,8 @@
       "REF-0396",
       "REF-0397",
       "REF-0695",
-      "REF-0696"
+      "REF-0696",
+      "REF-2411"
      ],
      "status": "verified"
     },
@@ -3249,7 +3254,8 @@
      "note": "Anxiolytic / sedative (anxiety, nervous tension)",
      "reference_ids": [
       "REF-0396",
-      "REF-0695"
+      "REF-0695",
+      "REF-2410"
      ],
      "status": "verified"
     },
@@ -3344,7 +3350,8 @@
      "note": "Anxiolytic / sedative (anxiety, nervous tension)",
      "reference_ids": [
       "REF-0396",
-      "REF-0695"
+      "REF-0695",
+      "REF-2410"
      ],
      "status": "verified"
     }
@@ -3551,9 +3558,16 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0695",
+    "REF-0696",
+    "REF-2410",
+    "REF-2411",
+    "REF-2412"
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-15"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "arctium-lappa",
@@ -8695,7 +8709,8 @@
      "note": "Trans-cinnamaldehyde is the principal constituent of cinnamon bark essential oil and the main driver of its antimicrobial, antifungal (anti-Candida) and anti-inflammatory activity, acting partly by damaging microbial cell membranes and inhibiting NF-kB signalling.",
      "reference_ids": [
       "REF-0668",
-      "REF-0669"
+      "REF-0669",
+      "REF-2414"
      ]
     },
     {
@@ -8715,7 +8730,11 @@
      "reference_ids": [
       "REF-0101",
       "REF-0667",
-      "REF-0669"
+      "REF-0669",
+      "REF-2414",
+      "REF-2415",
+      "REF-2416",
+      "REF-2417"
      ],
      "status": "verified"
     },
@@ -8727,7 +8746,9 @@
       "REF-0136",
       "REF-0664",
       "REF-0665",
-      "REF-0667"
+      "REF-0667",
+      "REF-2413",
+      "REF-2417"
      ],
      "status": "verified"
     },
@@ -8743,7 +8764,8 @@
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0101",
-      "REF-0668"
+      "REF-0668",
+      "REF-2414"
      ],
      "status": "verified"
     },
@@ -8751,7 +8773,8 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0101",
-      "REF-0667"
+      "REF-0667",
+      "REF-2416"
      ],
      "status": "verified"
     },
@@ -8791,7 +8814,8 @@
       "REF-0136",
       "REF-0664",
       "REF-0665",
-      "REF-0667"
+      "REF-0667",
+      "REF-2413"
      ],
      "status": "needs-review"
     },
@@ -8803,7 +8827,8 @@
       "REF-0136",
       "REF-0665",
       "REF-0666",
-      "REF-0667"
+      "REF-0667",
+      "REF-2413"
      ],
      "status": "verified"
     },
@@ -8889,9 +8914,16 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-2413",
+    "REF-2414",
+    "REF-2415",
+    "REF-2416",
+    "REF-2417"
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "cnicus-benedictus",
@@ -15388,7 +15420,9 @@
      "name": "Erinacines and hericenones",
      "note": "Diterpenoid erinacines (concentrated in the mycelium) and aromatic hericenones (in the fruiting body) are the signature low-molecular-weight compounds that stimulate nerve growth factor synthesis and underlie the mushroom's neurotrophic and neuroprotective effects.",
      "reference_ids": [
-      "REF-0642"
+      "REF-0642",
+      "REF-2419",
+      "REF-2421"
      ]
     },
     {
@@ -15399,7 +15433,8 @@
      "note": "High-molecular-weight fruiting-body and mycelial polysaccharides with immunomodulatory, anti-inflammatory and prebiotic activity — alleviating ulcerative colitis, activating macrophages and supporting gut microbiota.",
      "reference_ids": [
       "REF-0643",
-      "REF-0644"
+      "REF-0644",
+      "REF-2420"
      ]
     }
    ],
@@ -15411,7 +15446,9 @@
       "REF-0170",
       "REF-0179",
       "REF-0642",
-      "REF-0643"
+      "REF-0643",
+      "REF-2418",
+      "REF-2421"
      ],
      "status": "verified"
     },
@@ -15432,7 +15469,8 @@
       "REF-0157",
       "REF-0170",
       "REF-0179",
-      "REF-0644"
+      "REF-0644",
+      "REF-2420"
      ],
      "status": "verified"
     },
@@ -15444,7 +15482,9 @@
       "REF-0179",
       "REF-0640",
       "REF-0641",
-      "REF-0642"
+      "REF-0642",
+      "REF-2418",
+      "REF-2419"
      ],
      "status": "verified"
     }
@@ -15580,9 +15620,16 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0642",
+    "REF-2418",
+    "REF-2419",
+    "REF-2420",
+    "REF-2421"
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "hibiscus-sabdariffa",

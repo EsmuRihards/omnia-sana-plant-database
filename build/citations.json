@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2409,
+ "count": 2421,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -738,6 +738,38 @@
    ]
   },
   {
+   "ref_id": "REF-2413",
+   "key": "muthukuda2025cinnamomum",
+   "type": "article",
+   "title": "Effects of Cinnamomum zeylanicum (Ceylon cinnamon) extract on lipid profile, glucose levels and its safety in adults: A randomized, double-blind, controlled trial",
+   "authors": "Muthukuda, D. and de Silva, C.K. and Ajanthan, S. and Wijesinghe, N. and Dahanayaka, A. and Pathmeswaran, A.",
+   "journal": "PLoS One",
+   "year": "2025",
+   "doi": "10.1371/journal.pone.0317904",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0317904",
+   "link_type": "doi",
+   "citation": "Muthukuda, D. and de Silva, C.K. and Ajanthan, S. and Wijesinghe, N. and Dahanayaka, A. and Pathmeswaran, A (2025) 'Effects of Cinnamomum zeylanicum (Ceylon cinnamon) extract on lipid profile, glucose levels and its safety in adults: A randomized, double-blind, controlled trial', PLoS One, 20(1), pp. e0317904. doi:10.1371/journal.pone.0317904",
+   "abstract": "In a randomized, double-blind, placebo-controlled trial, a standardized Cinnamomum zeylanicum (Ceylon cinnamon, C. verum) extract significantly reduced fasting blood sugar and was well tolerated in adults.",
+   "tier": "clinical",
+   "display": "Effects of Cinnamomum zeylanicum (Ceylon cinnamon) extract on lipid profile, glucose levels and its safety in adults: A randomized, double-blind, controlled trial",
+   "plants": [
+    "Ceylon cinnamon",
+    "Sri Lanka cinnamon",
+    "True Cinnamon"
+   ],
+   "scientific": [
+    "Cinnamomum verum"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "Cardiovascular / heart health"
+   ]
+  },
+  {
    "ref_id": "REF-0599",
    "key": "demoura2025cinnamon",
    "type": "article",
@@ -1163,6 +1195,35 @@
     "Cognitive function",
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-2418",
+   "key": "contato2025hericium",
+   "type": "article",
+   "title": "Lion's Mane Mushroom (Hericium erinaceus): A Neuroprotective Fungus with Antioxidant, Anti-Inflammatory, and Antimicrobial Potential - A Narrative Review",
+   "authors": "Contato, A.G. and Conte-Junior, C.A.",
+   "journal": "Nutrients",
+   "year": "2025",
+   "doi": "10.3390/nu17081307",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu17081307",
+   "link_type": "doi",
+   "citation": "Contato, A.G. and Conte-Junior, C.A (2025) 'Lion's Mane Mushroom (Hericium erinaceus): A Neuroprotective Fungus with Antioxidant, Anti-Inflammatory, and Antimicrobial Potential - A Narrative Review', Nutrients, 17(8), pp. 1307. doi:10.3390/nu17081307",
+   "abstract": "This narrative review summarises the anti-inflammatory, antioxidant, antimicrobial and neuroprotective activities of Hericium erinaceus (lion's mane), attributed to its polysaccharides, terpenoids and phenolics.",
+   "tier": "review",
+   "display": "Lion's Mane Mushroom (Hericium erinaceus): A Neuroprotective Fungus with Antioxidant, Anti-Inflammatory, and Antimicrobial Potential - A Narrative Review",
+   "plants": [
+    "Lauvas krēpes",
+    "Lions mane"
+   ],
+   "scientific": [
+    "Hericium erinaceus"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Neuroprotective / cognition support"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-1388",
@@ -2570,6 +2631,36 @@
    "conditions": [
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2417",
+   "key": "ulhasnain2024cinnamomum",
+   "type": "article",
+   "title": "Anti-inflammatory, antidiabetic and hypolipidemic potential of Cinnamomum verum J. Presl bark coupled with FT-IR and HPLC analysis",
+   "authors": "Ul Hasnain, S.Z. and Ahmed, M. and Manzoor, R. and Amin, A. and Mudassir, J. and Jafar Rana, S. and Abbas, K.",
+   "journal": "Pakistan Journal of Pharmaceutical Sciences",
+   "year": "2024",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Anti-inflammatory%2C%20antidiabetic%20and%20hypolipidemic%20potential%20of%20Cinnamomum%20verum%20J.%20Presl%20bark%20coupled%20with%20FT-IR%20and%20HPLC%20analysis",
+   "link_type": "search",
+   "citation": "Ul Hasnain, S.Z. and Ahmed, M. and Manzoor, R. and Amin, A. and Mudassir, J. and Jafar Rana, S. and Abbas, K (2024) 'Anti-inflammatory, antidiabetic and hypolipidemic potential of Cinnamomum verum J. Presl bark coupled with FT-IR and HPLC analysis', Pakistan Journal of Pharmaceutical Sciences, 37(6), pp. 1529-1544.",
+   "abstract": "A Cinnamomum verum bark extract demonstrated anti-inflammatory, antidiabetic and hypolipidemic potential, with its phytochemistry characterised by FT-IR and HPLC analysis.",
+   "tier": "preclinical",
+   "display": "Anti-inflammatory, antidiabetic and hypolipidemic potential of Cinnamomum verum J. Presl bark coupled with FT-IR and HPLC analysis",
+   "plants": [
+    "Ceylon cinnamon",
+    "Sri Lanka cinnamon",
+    "True Cinnamon"
+   ],
+   "scientific": [
+    "Cinnamomum verum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0802",
@@ -7919,6 +8010,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2416",
+   "key": "pagliari2023cinnamomum",
+   "type": "article",
+   "title": "Antioxidant and Anti-Inflammatory Effect of Cinnamon (Cinnamomum verum J. Presl) Bark Extract after In Vitro Digestion Simulation",
+   "authors": "Pagliari, S. and Forcella, M. and Lonati, E. and Sacco, G. and Romaniello, F. and Rovellini, P. and Fusi, P. and Palestini, P.",
+   "journal": "Foods",
+   "year": "2023",
+   "doi": "10.3390/foods12030452",
+   "url": "",
+   "link": "https://doi.org/10.3390/foods12030452",
+   "link_type": "doi",
+   "citation": "Pagliari, S. and Forcella, M. and Lonati, E. and Sacco, G. and Romaniello, F. and Rovellini, P. and Fusi, P. and Palestini, P (2023) 'Antioxidant and Anti-Inflammatory Effect of Cinnamon (Cinnamomum verum J. Presl) Bark Extract after In Vitro Digestion Simulation', Foods, 12(3), pp. 452. doi:10.3390/foods12030452",
+   "abstract": "A Cinnamomum verum bark extract retained antioxidant and anti-inflammatory activity after in vitro digestion simulation, supporting its beneficial effects when consumed.",
+   "tier": "preclinical",
+   "display": "Antioxidant and Anti-Inflammatory Effect of Cinnamon (Cinnamomum verum J. Presl) Bark Extract after In Vitro Digestion Simulation",
+   "plants": [
+    "Ceylon cinnamon",
+    "Sri Lanka cinnamon",
+    "True Cinnamon"
+   ],
+   "scientific": [
+    "Cinnamomum verum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2332",
    "key": "tsirigotis2023agrimonia",
    "type": "article",
@@ -8927,6 +9048,35 @@
    ],
    "actions": [
     "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2415",
+   "key": "kim2023cinnamomum",
+   "type": "article",
+   "title": "Cinnamomum verum extract inhibits NOX2/ROS and PKCdelta/JNK/AP-1/NF-kB pathway-mediated inflammatory response in PMA-stimulated THP-1 monocytes",
+   "authors": "Kim, N.Y. and Kim, S. and Park, H.M. and Lim, C.M. and Kim, J. and Park, J.Y. and Jeon, K.B. and Poudel, A.",
+   "journal": "Phytomedicine",
+   "year": "2023",
+   "doi": "10.1016/j.phymed.2023.154685",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2023.154685",
+   "link_type": "doi",
+   "citation": "Kim, N.Y. and Kim, S. and Park, H.M. and Lim, C.M. and Kim, J. and Park, J.Y. and Jeon, K.B. and Poudel, A (2023) 'Cinnamomum verum extract inhibits NOX2/ROS and PKCdelta/JNK/AP-1/NF-kB pathway-mediated inflammatory response in PMA-stimulated THP-1 monocytes', Phytomedicine, 112, pp. 154685. doi:10.1016/j.phymed.2023.154685",
+   "abstract": "A Cinnamomum verum extract inhibited NOX2/ROS generation and the PKCdelta/JNK/AP-1/NF-kB pathway, suppressing the inflammatory response in PMA-stimulated THP-1 monocytes.",
+   "tier": "preclinical",
+   "display": "Cinnamomum verum extract inhibits NOX2/ROS and PKCdelta/JNK/AP-1/NF-kB pathway-mediated inflammatory response in PMA-stimulated THP-1 monocytes",
+   "plants": [
+    "Ceylon cinnamon",
+    "Sri Lanka cinnamon",
+    "True Cinnamon"
+   ],
+   "scientific": [
+    "Cinnamomum verum"
+   ],
+   "actions": [
+    "Anti-inflammatory"
    ],
    "conditions": []
   },
@@ -17800,6 +17950,34 @@
     "Cardiovascular / heart health",
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2421",
+   "key": "xie2022hericium",
+   "type": "article",
+   "title": "Secondary Metabolites from Hericium erinaceus and Their Anti-Inflammatory Activities",
+   "authors": "Xie, G. and Tang, L. and Xie, Y. and Xie, L.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27072157",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27072157",
+   "link_type": "doi",
+   "citation": "Xie, G. and Tang, L. and Xie, Y. and Xie, L (2022) 'Secondary Metabolites from Hericium erinaceus and Their Anti-Inflammatory Activities', Molecules, 27(7), pp. 2157. doi:10.3390/molecules27072157",
+   "abstract": "Secondary metabolites isolated from the fruiting bodies of Hericium erinaceus, including a new sterol ester and hericenones, showed anti-inflammatory activity by inhibiting TNF-alpha, IL-6 and NO production in LPS-stimulated macrophages.",
+   "tier": "preclinical",
+   "display": "Secondary Metabolites from Hericium erinaceus and Their Anti-Inflammatory Activities",
+   "plants": [
+    "Lauvas krēpes",
+    "Lions mane"
+   ],
+   "scientific": [
+    "Hericium erinaceus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-2347",
@@ -29342,6 +29520,36 @@
    ]
   },
   {
+   "ref_id": "REF-2414",
+   "key": "singh2020cinnamomum",
+   "type": "article",
+   "title": "Phytochemical and pharmacological review of Cinnamomum verum J. Presl - a versatile spice used in food and nutrition",
+   "authors": "Singh, N. and Rao, A.S. and Nandal, A. and Kumar, S. and Yadav, S.S. and Ganaie, S.A. and Narasimhan, B.",
+   "journal": "Food Chemistry",
+   "year": "2020",
+   "doi": "10.1016/j.foodchem.2020.127773",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.foodchem.2020.127773",
+   "link_type": "doi",
+   "citation": "Singh, N. and Rao, A.S. and Nandal, A. and Kumar, S. and Yadav, S.S. and Ganaie, S.A. and Narasimhan, B (2020) 'Phytochemical and pharmacological review of Cinnamomum verum J. Presl - a versatile spice used in food and nutrition', Food Chemistry, 338, pp. 127773. doi:10.1016/j.foodchem.2020.127773",
+   "abstract": "This review of Cinnamomum verum (true Ceylon cinnamon) summarises its phytochemistry, dominated by cinnamaldehyde, and its antimicrobial, anti-inflammatory, antidiabetic and antioxidant pharmacology.",
+   "tier": "review",
+   "display": "Phytochemical and pharmacological review of Cinnamomum verum J. Presl - a versatile spice used in food and nutrition",
+   "plants": [
+    "Ceylon cinnamon",
+    "Sri Lanka cinnamon",
+    "True Cinnamon"
+   ],
+   "scientific": [
+    "Cinnamomum verum"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1324",
    "key": "ahmad2020whiteclover",
    "type": "article",
@@ -29562,6 +29770,34 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2419",
+   "key": "li2020hericium",
+   "type": "article",
+   "title": "Prevention of Early Alzheimer's Disease by Erinacine A-Enriched Hericium erinaceus Mycelia Pilot Double-Blind Placebo-Controlled Study",
+   "authors": "Li, I.C. and Chang, H.H. and Lin, C.H. and Chen, W.P. and Lu, T.H. and Lee, L.Y. and Chen, Y.W. and Chen, Y.P. and Chen, C.C. and Lin, D.P.",
+   "journal": "Frontiers in Aging Neuroscience",
+   "year": "2020",
+   "doi": "10.3389/fnagi.2020.00155",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnagi.2020.00155",
+   "link_type": "doi",
+   "citation": "Li, I.C. and Chang, H.H. and Lin, C.H. and Chen, W.P. and Lu, T.H. and Lee, L.Y. and Chen, Y.W. and Chen, Y.P. and Chen, C.C. and Lin, D.P (2020) 'Prevention of Early Alzheimer's Disease by Erinacine A-Enriched Hericium erinaceus Mycelia Pilot Double-Blind Placebo-Controlled Study', Frontiers in Aging Neuroscience, 12, pp. 155. doi:10.3389/fnagi.2020.00155",
+   "abstract": "In a pilot double-blind placebo-controlled trial, erinacine A-enriched Hericium erinaceus mycelia improved cognitive scores and contrast sensitivity in patients with mild Alzheimer's disease.",
+   "tier": "clinical",
+   "display": "Prevention of Early Alzheimer's Disease by Erinacine A-Enriched Hericium erinaceus Mycelia Pilot Double-Blind Placebo-Controlled Study",
+   "plants": [
+    "Lauvas krēpes",
+    "Lions mane"
+   ],
+   "scientific": [
+    "Hericium erinaceus"
+   ],
+   "actions": [
+    "Neuroprotective / cognition support"
    ],
    "conditions": []
   },
@@ -38443,6 +38679,37 @@
    ]
   },
   {
+   "ref_id": "REF-2411",
+   "key": "fraternale2018angelica",
+   "type": "article",
+   "title": "The In Vitro Activity of Angelica archangelica L. Essential Oil on Inflammation",
+   "authors": "Fraternale, D. and Teodori, L. and Rudov, A. and Prattichizzo, F. and Olivieri, F. and Guidarelli, A. and Albertini, M.C.",
+   "journal": "Journal of Medicinal Food",
+   "year": "2018",
+   "doi": "10.1089/jmf.2018.0017",
+   "url": "",
+   "link": "https://doi.org/10.1089/jmf.2018.0017",
+   "link_type": "doi",
+   "citation": "Fraternale, D. and Teodori, L. and Rudov, A. and Prattichizzo, F. and Olivieri, F. and Guidarelli, A. and Albertini, M.C (2018) 'The In Vitro Activity of Angelica archangelica L. Essential Oil on Inflammation', Journal of Medicinal Food, 21(12), pp. 1238-1243. doi:10.1089/jmf.2018.0017",
+   "abstract": "Angelica archangelica essential oil showed anti-inflammatory activity in vitro, decreasing the pro-inflammatory cytokine interleukin-6 and reverting LPS-induced inflammatory microRNA expression in endothelial cells.",
+   "tier": "preclinical",
+   "display": "The In Vitro Activity of Angelica archangelica L. Essential Oil on Inflammation",
+   "plants": [
+    "Angel plant",
+    "Angelica",
+    "Garden angelica",
+    "Norwegian angelica",
+    "Wild celery"
+   ],
+   "scientific": [
+    "Angelica archangelica"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1315",
    "key": "czerwinska2018tilia",
    "type": "article",
@@ -46357,6 +46624,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2420",
+   "key": "friedman2015hericium",
+   "type": "article",
+   "title": "Chemistry, Nutrition, and Health-Promoting Properties of Hericium erinaceus (Lion's Mane) Mushroom Fruiting Bodies and Mycelia and Their Bioactive Compounds",
+   "authors": "Friedman, M.",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "year": "2015",
+   "doi": "10.1021/acs.jafc.5b02914",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jafc.5b02914",
+   "link_type": "doi",
+   "citation": "Friedman, M (2015) 'Chemistry, Nutrition, and Health-Promoting Properties of Hericium erinaceus (Lion's Mane) Mushroom Fruiting Bodies and Mycelia and Their Bioactive Compounds', Journal of Agricultural and Food Chemistry, 63(32), pp. 7108-7123. doi:10.1021/acs.jafc.5b02914",
+   "abstract": "This overview consolidates the chemistry of Hericium erinaceus polysaccharides and secondary metabolites and their anti-inflammatory, antioxidant, immunostimulating and neuroprotective health-promoting properties.",
+   "tier": "review",
+   "display": "Chemistry, Nutrition, and Health-Promoting Properties of Hericium erinaceus (Lion's Mane) Mushroom Fruiting Bodies and Mycelia and Their Bioactive Compounds",
+   "plants": [
+    "Lauvas krēpes",
+    "Lions mane"
+   ],
+   "scientific": [
+    "Hericium erinaceus"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1266",
    "key": "valdivialopez2015chia",
    "type": "article",
@@ -50052,6 +50347,35 @@
    "conditions": [
     "Inflammation (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2412",
+   "key": "fraternale2014angelica",
+   "type": "article",
+   "title": "Essential oil composition and antimicrobial activity of Angelica archangelica L. (Apiaceae) roots",
+   "authors": "Fraternale, D. and Flamini, G. and Ricci, D.",
+   "journal": "Journal of Medicinal Food",
+   "year": "2014",
+   "doi": "10.1089/jmf.2013.0012",
+   "url": "",
+   "link": "https://doi.org/10.1089/jmf.2013.0012",
+   "link_type": "doi",
+   "citation": "Fraternale, D. and Flamini, G. and Ricci, D (2014) 'Essential oil composition and antimicrobial activity of Angelica archangelica L. (Apiaceae) roots', Journal of Medicinal Food, 17(9), pp. 1043-1047. doi:10.1089/jmf.2013.0012",
+   "abstract": "The alpha-pinene- and phellandrene-rich essential oil of Angelica archangelica roots showed antimicrobial activity against Clostridium difficile, Clostridium perfringens, Enterococcus faecalis and Candida albicans.",
+   "tier": "preclinical",
+   "display": "Essential oil composition and antimicrobial activity of Angelica archangelica L. (Apiaceae) roots",
+   "plants": [
+    "Angel plant",
+    "Angelica",
+    "Garden angelica",
+    "Norwegian angelica",
+    "Wild celery"
+   ],
+   "scientific": [
+    "Angelica archangelica"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0078",
@@ -53829,6 +54153,38 @@
    ],
    "actions": [
     "Expectorant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2410",
+   "key": "kumar2012angelica",
+   "type": "article",
+   "title": "Anti-anxiety Activity of Methanolic Extracts of Different Parts of Angelica archangelica Linn.",
+   "authors": "Kumar, D. and Bhat, Z.A.",
+   "journal": "Journal of Traditional and Complementary Medicine",
+   "year": "2012",
+   "doi": "10.1016/s2225-4110(16)30105-5",
+   "url": "",
+   "link": "https://doi.org/10.1016/s2225-4110(16)30105-5",
+   "link_type": "doi",
+   "citation": "Kumar, D. and Bhat, Z.A (2012) 'Anti-anxiety Activity of Methanolic Extracts of Different Parts of Angelica archangelica Linn', Journal of Traditional and Complementary Medicine, 2(3), pp. 235-241. doi:10.1016/s2225-4110(16)30105-5",
+   "abstract": "Methanol extracts of Angelica archangelica parts showed anxiolytic activity in the elevated plus maze in rats, with the whole plant and root most active.",
+   "tier": "preclinical",
+   "display": "Anti-anxiety Activity of Methanolic Extracts of Different Parts of Angelica archangelica Linn.",
+   "plants": [
+    "Angel plant",
+    "Angelica",
+    "Garden angelica",
+    "Norwegian angelica",
+    "Wild celery"
+   ],
+   "scientific": [
+    "Angelica archangelica"
+   ],
+   "actions": [
+    "Anxiolytic / calming",
+    "Sedative / sleep support"
    ],
    "conditions": []
   },

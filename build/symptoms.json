@@ -18665,7 +18665,7 @@
     {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 9,
+     "evidence": 10,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -18674,13 +18674,14 @@
       "REF-0136",
       "REF-0664",
       "REF-0665",
-      "REF-0667"
+      "REF-0667",
+      "REF-2413"
      ]
     },
     {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
-     "evidence": 9,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
@@ -18689,7 +18690,8 @@
       "REF-0136",
       "REF-0665",
       "REF-0666",
-      "REF-0667"
+      "REF-0667",
+      "REF-2413"
      ]
     },
     {

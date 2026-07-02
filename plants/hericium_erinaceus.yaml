@@ -14,6 +14,8 @@ constituents:
     and underlie the mushroom's neurotrophic and neuroprotective effects.
   reference_ids:
   - REF-0642
+  - REF-2419
+  - REF-2421
 - name: Polysaccharides (beta-glucans)
   compounds:
   - polysaccharide
@@ -23,6 +25,7 @@ constituents:
   reference_ids:
   - REF-0643
   - REF-0644
+  - REF-2420
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -31,6 +34,8 @@ actions:
   - REF-0179
   - REF-0642
   - REF-0643
+  - REF-2418
+  - REF-2421
   status: verified
 - action: digestive
   reference_ids:
@@ -46,6 +51,7 @@ actions:
   - REF-0170
   - REF-0179
   - REF-0644
+  - REF-2420
   status: verified
 - action: neuroprotective
   reference_ids:
@@ -55,6 +61,8 @@ actions:
   - REF-0640
   - REF-0641
   - REF-0642
+  - REF-2418
+  - REF-2419
   status: verified
 indications:
 - condition: arthritis
@@ -156,9 +164,15 @@ contraindications:
   - REF-0170
   - REF-0179
   status: verified
+references:
+- REF-0642
+- REF-2418
+- REF-2419
+- REF-2420
+- REF-2421
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -168,4 +182,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   studies on ulcerative colitis and macrophage immunomodulation (REF-0643, REF-0644), and clinical/preclinical
   evidence in chronic atrophic gastritis and Helicobacter pylori (REF-0645); erinacine/hericenone and
   polysaccharide constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
-  split out, constituents linked to compounds).'
+  split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
+  added 5 PubMed-verified @article sources (REF-0642, REF-2418, REF-2419, REF-2420, REF-2421) — woven
+  into relevant actions/indications and the plant-level references bucket.'

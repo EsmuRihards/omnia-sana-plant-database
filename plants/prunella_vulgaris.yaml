@@ -22,6 +22,7 @@ constituents:
     behind self-heal's antioxidant, anti-inflammatory and antimicrobial activity.
   reference_ids:
   - REF-0659
+  - REF-2423
 - name: Sulphated and polyphenol-conjugated polysaccharides
   compounds:
   - polysaccharide
@@ -33,6 +34,7 @@ constituents:
   - REF-0660
   - REF-0661
   - REF-0662
+  - REF-2424
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -42,6 +44,9 @@ actions:
   - REF-0658
   - REF-0659
   - REF-0660
+  - REF-2422
+  - REF-2423
+  - REF-2424
   status: verified
 - action: antimicrobial
   reference_ids:
@@ -49,6 +54,7 @@ actions:
   - REF-0200
   - REF-0314
   - REF-0659
+  - REF-2423
   status: verified
 - action: antioxidant
   reference_ids:
@@ -56,6 +62,8 @@ actions:
   - REF-0200
   - REF-0314
   - REF-0659
+  - REF-2422
+  - REF-2425
   status: verified
 - action: antiviral
   reference_ids:
@@ -66,6 +74,7 @@ actions:
   - REF-0661
   - REF-0662
   - REF-0663
+  - REF-2422
   status: verified
 - action: immunomodulator
   reference_ids:
@@ -75,6 +84,8 @@ actions:
   - REF-0658
   - REF-0660
   - REF-0663
+  - REF-2424
+  - REF-2425
   status: verified
 - action: vulnerary
   reference_ids:
@@ -180,9 +191,15 @@ contraindications:
   - REF-0200
   - REF-0314
   status: verified
+references:
+- REF-0659
+- REF-2422
+- REF-2423
+- REF-2424
+- REF-2425
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -191,4 +208,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   a comprehensive phytochemistry/pharmacology review (REF-0659), and four polysaccharide studies establishing
   anti-herpes-simplex-virus and innate-immune mechanisms (REF-0660, REF-0661, REF-0662, REF-0663); triterpenoid/phenolic
   and polysaccharide constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 5 PubMed-verified @article sources (REF-0659, REF-2422, REF-2423, REF-2424, REF-2425)
+  — woven into relevant actions/indications and the plant-level references bucket.'

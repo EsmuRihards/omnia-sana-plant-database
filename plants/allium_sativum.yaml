@@ -22,6 +22,8 @@ constituents:
   - REF-0647
   - REF-0649
   - REF-0650
+  - REF-2426
+  - REF-2427
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -32,6 +34,7 @@ actions:
   - REF-0209
   - REF-0312
   - REF-0648
+  - REF-2427
   status: verified
 - action: antidiabetic
   reference_ids:
@@ -42,6 +45,8 @@ actions:
   - REF-0209
   - REF-0312
   - REF-0648
+  - REF-2426
+  - REF-2428
   status: verified
 - action: antifungal
   reference_ids:
@@ -63,6 +68,9 @@ actions:
   - REF-0312
   - REF-0650
   - REF-0651
+  - REF-2426
+  - REF-2427
+  - REF-2429
   status: verified
 - action: antioxidant
   reference_ids:
@@ -73,6 +81,8 @@ actions:
   - REF-0209
   - REF-0312
   - REF-0649
+  - REF-2426
+  - REF-2427
   status: verified
 - action: immunomodulator
   reference_ids:
@@ -83,6 +93,8 @@ actions:
   - REF-0209
   - REF-0312
   - REF-0646
+  - REF-2427
+  - REF-2428
   status: verified
 indications:
 - condition: arthritis
@@ -106,6 +118,7 @@ indications:
   - REF-0209
   - REF-0312
   - REF-0648
+  - REF-2428
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
@@ -119,6 +132,7 @@ indications:
   - REF-0647
   - REF-0648
   - REF-0649
+  - REF-2429
   status: verified
 - condition: cold
   note: inferred from immunomodulator action
@@ -234,9 +248,15 @@ contraindications:
   - REF-0209
   - REF-0312
   status: verified
+references:
+- REF-2426
+- REF-2427
+- REF-2428
+- REF-2429
+- REF-2430
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-14'
+last_updated: '2026-06-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -245,4 +265,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (REF-0646, REF-0647, REF-0648), an aged-garlic RCT in treated hypertensives (REF-0649), and allicin
   antimicrobial studies including activity against multidrug-resistant lung pathogens (REF-0650, REF-0651);
   allicin/organosulfur constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds).'
+  indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 5 PubMed-verified @article sources (REF-2426, REF-2427, REF-2428, REF-2429, REF-2430)
+  — woven into relevant actions/indications and the plant-level references bucket.'

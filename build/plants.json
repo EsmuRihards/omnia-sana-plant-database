@@ -1692,7 +1692,9 @@
      "reference_ids": [
       "REF-0647",
       "REF-0649",
-      "REF-0650"
+      "REF-0650",
+      "REF-2426",
+      "REF-2427"
      ]
     }
    ],
@@ -1706,7 +1708,8 @@
       "REF-0204",
       "REF-0209",
       "REF-0312",
-      "REF-0648"
+      "REF-0648",
+      "REF-2427"
      ],
      "status": "verified"
     },
@@ -1719,7 +1722,9 @@
       "REF-0204",
       "REF-0209",
       "REF-0312",
-      "REF-0648"
+      "REF-0648",
+      "REF-2426",
+      "REF-2428"
      ],
      "status": "verified"
     },
@@ -1746,7 +1751,10 @@
       "REF-0209",
       "REF-0312",
       "REF-0650",
-      "REF-0651"
+      "REF-0651",
+      "REF-2426",
+      "REF-2427",
+      "REF-2429"
      ],
      "status": "verified"
     },
@@ -1759,7 +1767,9 @@
       "REF-0204",
       "REF-0209",
       "REF-0312",
-      "REF-0649"
+      "REF-0649",
+      "REF-2426",
+      "REF-2427"
      ],
      "status": "verified"
     },
@@ -1772,7 +1782,9 @@
       "REF-0204",
       "REF-0209",
       "REF-0312",
-      "REF-0646"
+      "REF-0646",
+      "REF-2427",
+      "REF-2428"
      ],
      "status": "verified"
     }
@@ -1802,7 +1814,8 @@
       "REF-0204",
       "REF-0209",
       "REF-0312",
-      "REF-0648"
+      "REF-0648",
+      "REF-2428"
      ],
      "status": "needs-review"
     },
@@ -1818,7 +1831,8 @@
       "REF-0646",
       "REF-0647",
       "REF-0648",
-      "REF-0649"
+      "REF-0649",
+      "REF-2429"
      ],
      "status": "verified"
     },
@@ -1949,9 +1963,16 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-2426",
+    "REF-2427",
+    "REF-2428",
+    "REF-2429",
+    "REF-2430"
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "aloe-vera",
@@ -25410,7 +25431,8 @@
      ],
      "note": "Pentacyclic triterpenoids (ursolic, oleanolic and betulinic acids), the phenolic acid rosmarinic acid, coumarins (umbelliferone, scopoletin, esculetin) and the flavonoid luteolin are the main bioactives behind self-heal's antioxidant, anti-inflammatory and antimicrobial activity.",
      "reference_ids": [
-      "REF-0659"
+      "REF-0659",
+      "REF-2423"
      ]
     },
     {
@@ -25423,7 +25445,8 @@
      "reference_ids": [
       "REF-0660",
       "REF-0661",
-      "REF-0662"
+      "REF-0662",
+      "REF-2424"
      ]
     }
    ],
@@ -25436,7 +25459,10 @@
       "REF-0314",
       "REF-0658",
       "REF-0659",
-      "REF-0660"
+      "REF-0660",
+      "REF-2422",
+      "REF-2423",
+      "REF-2424"
      ],
      "status": "verified"
     },
@@ -25446,7 +25472,8 @@
       "REF-0098",
       "REF-0200",
       "REF-0314",
-      "REF-0659"
+      "REF-0659",
+      "REF-2423"
      ],
      "status": "verified"
     },
@@ -25456,7 +25483,9 @@
       "REF-0098",
       "REF-0200",
       "REF-0314",
-      "REF-0659"
+      "REF-0659",
+      "REF-2422",
+      "REF-2425"
      ],
      "status": "verified"
     },
@@ -25469,7 +25498,8 @@
       "REF-0660",
       "REF-0661",
       "REF-0662",
-      "REF-0663"
+      "REF-0663",
+      "REF-2422"
      ],
      "status": "verified"
     },
@@ -25481,7 +25511,9 @@
       "REF-0314",
       "REF-0658",
       "REF-0660",
-      "REF-0663"
+      "REF-0663",
+      "REF-2424",
+      "REF-2425"
      ],
      "status": "verified"
     },
@@ -25618,9 +25650,16 @@
      "status": "verified"
     }
    ],
+   "references": [
+    "REF-0659",
+    "REF-2422",
+    "REF-2423",
+    "REF-2424",
+    "REF-2425"
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-14"
+   "last_updated": "2026-06-20"
   },
   {
    "id": "prunus-africana",

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 60,
+ "count": 63,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -470,6 +470,37 @@
    "status": "approved"
   },
   {
+   "plant_id": "cannabis-sativa",
+   "plant": "Hemp",
+   "scientific": "Cannabis sativa",
+   "common_slug": "hemp",
+   "wp_post_id": null,
+   "drug_class": "anticonvulsants",
+   "drug_class_label": "Anticonvulsants (anti-seizure)",
+   "severity": "caution",
+   "mechanism": "Cannabidiol (CBD) interacts with anti-seizure medicines - notably raising exposure to clobazam - and can add to sedation; anyone combining cannabis/CBD with anticonvulsants should be monitored and doses reviewed by their clinician.",
+   "references": [
+    "REF-2497"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "cannabis-sativa",
+   "plant": "Hemp",
+   "scientific": "Cannabis sativa",
+   "common_slug": "hemp",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Cannabis (and CBD) commonly cause drowsiness and sedation; taken with sedatives, sleeping tablets, opioids or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2497",
+    "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "hibiscus-sabdariffa",
    "plant": "Hibiscus",
    "scientific": "Hibiscus sabdariffa",
@@ -908,6 +939,21 @@
    "references": [
     "REF-2483",
     "REF-2482"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "crocus-sativus",
+   "plant": "Saffron",
+   "scientific": "Crocus sativus",
+   "common_slug": "saffron",
+   "wp_post_id": null,
+   "drug_class": "antidepressants-serotonergic",
+   "drug_class_label": "Antidepressants (SSRIs / SNRIs / MAOIs)",
+   "severity": "caution",
+   "mechanism": "Saffron has antidepressant, serotonin-related activity (a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.",
+   "references": [
+    "REF-2496"
    ],
    "status": "approved"
   },

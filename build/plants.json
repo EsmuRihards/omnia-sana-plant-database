@@ -7720,6 +7720,31 @@
     "REF-2140",
     "REF-2141"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Cannabis (and CBD) commonly cause drowsiness and sedation; taken with sedatives, sleeping tablets, opioids or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2497",
+      "REF-2474"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "anticonvulsants",
+     "severity": "caution",
+     "mechanism": "Cannabidiol (CBD) interacts with anti-seizure medicines - notably raising exposure to clobazam - and can add to sedation; anyone combining cannabis/CBD with anticonvulsants should be monitored and doses reviewed by their clinician.",
+     "reference_ids": [
+      "REF-2497"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -11312,6 +11337,19 @@
     "REF-2008",
     "REF-2009",
     "REF-2010"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antidepressants-serotonergic",
+     "severity": "caution",
+     "mechanism": "Saffron has antidepressant, serotonin-related activity (a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.",
+     "reference_ids": [
+      "REF-2496"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",

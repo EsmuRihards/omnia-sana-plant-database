@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2495,
+ "count": 2497,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -87,16 +87,20 @@
     "Ajagandha",
     "Asgand",
     "Ashwagandha",
+    "Hemp",
     "Indian Ginseng",
     "Kanaje Hindi",
     "Perforate St John’s-wort",
     "Poison Gooseberry",
     "St John's wort",
     "Winter Cherry",
+    "cannabis",
     "common St John's wort",
+    "industrial hemp",
     "perforate St John's wort"
    ],
    "scientific": [
+    "Cannabis sativa",
     "Hypericum perforatum",
     "Withania somnifera"
    ],
@@ -14895,6 +14899,33 @@
     "Inflammation (general)",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2497",
+   "key": "talwar2022cannabidiol",
+   "type": "article",
+   "title": "Clinical efficacy and safety of cannabidiol for pediatric refractory epilepsy indications: A systematic review and meta-analysis",
+   "authors": "Talwar, A., Estes, E., Aparasu, R. and Reddy, D.S.",
+   "journal": "Experimental Neurology",
+   "year": "2022",
+   "doi": "10.1016/j.expneurol.2022.114238",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.expneurol.2022.114238",
+   "link_type": "doi",
+   "citation": "Talwar, A., Estes, E., Aparasu, R. and Reddy, D.S (2022) 'Clinical efficacy and safety of cannabidiol for pediatric refractory epilepsy indications: A systematic review and meta-analysis', Experimental Neurology, 359, pp. 114238. doi:10.1016/j.expneurol.2022.114238",
+   "abstract": "Systematic review and meta-analysis of six randomized controlled trials of highly purified oral cannabidiol (CBD) for refractory epilepsy. CBD reduced seizures but increased adverse events including somnolence and sedation, and its effect and side effects were significantly affected by co-therapy with the anti-seizure drug clobazam. Evidence that cannabis/CBD adds to sedation and interacts with anticonvulsant medicines.",
+   "tier": "review",
+   "display": "Clinical efficacy and safety of cannabidiol for pediatric refractory epilepsy indications: A systematic review and meta-analysis",
+   "plants": [
+    "Hemp",
+    "cannabis",
+    "industrial hemp"
+   ],
+   "scientific": [
+    "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1290",
@@ -47697,6 +47728,33 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2496",
+   "key": "talaei2015crocin",
+   "type": "article",
+   "title": "Crocin, the main active saffron constituent, as an adjunctive treatment in major depressive disorder: a randomized, double-blind, placebo-controlled, pilot clinical trial",
+   "authors": "Talaei, A., Hassanpour Moghadam, M., Sajadi Tabassi, S.A. and Mohajeri, S.A.",
+   "journal": "Journal of Affective Disorders",
+   "year": "2015",
+   "doi": "10.1016/j.jad.2014.11.035",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jad.2014.11.035",
+   "link_type": "doi",
+   "citation": "Talaei, A., Hassanpour Moghadam, M., Sajadi Tabassi, S.A. and Mohajeri, S.A (2015) 'Crocin, the main active saffron constituent, as an adjunctive treatment in major depressive disorder: a randomized, double-blind, placebo-controlled, pilot clinical trial', Journal of Affective Disorders, 174, pp. 51-56. doi:10.1016/j.jad.2014.11.035",
+   "abstract": "Randomized, double-blind, placebo-controlled trial in 40 major-depressive-disorder patients in which crocin (a saffron constituent) added to an SSRI (fluoxetine, sertraline or citalopram) significantly improved depression, anxiety and general-health scores versus SSRI plus placebo. Shows saffron has serotonin-related antidepressant activity and is pharmacologically active alongside SSRIs.",
+   "tier": "rct",
+   "display": "Crocin, the main active saffron constituent, as an adjunctive treatment in major depressive disorder: a randomized, double-blind, placebo-controlled, pilot clinical trial",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

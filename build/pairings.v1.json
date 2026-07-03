@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 54,
+ "count": 58,
  "pairings": [
   {
    "herb_id": "withania-somnifera",
@@ -70,6 +70,21 @@
    "type": "synergy",
    "note": "Chamomile and lemon balm are both gentle calming herbs commonly combined for stress and sleep; used together their mild sedative effects may add up.",
    "references": [
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "matricaria-chamomilla",
+   "herb": "Chamomile",
+   "herb_slug": "chamomile",
+   "partner_id": "passiflora-incarnata",
+   "partner": "Passionflower",
+   "partner_slug": "passionflower",
+   "type": "synergy",
+   "note": "Chamomile and passionflower are both gentle calming, sleep-supporting herbs traditionally combined; used together they may reinforce each other's soothing, sleep-promoting effect.",
+   "references": [
+    "REF-2452",
     "REF-2460"
    ],
    "status": "approved"
@@ -296,6 +311,21 @@
    "herb_id": "humulus-lupulus",
    "herb": "Hop",
    "herb_slug": "hop",
+   "partner_id": "melissa-officinalis",
+   "partner": "Lemon balm",
+   "partner_slug": "lemon-balm",
+   "type": "synergy",
+   "note": "Hops and lemon balm are both mild sedative, sleep-supporting herbs often combined in calming blends; used together they may reinforce each other's relaxing effect.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "humulus-lupulus",
+   "herb": "Hop",
+   "herb_slug": "hop",
    "partner_id": "passiflora-incarnata",
    "partner": "Passionflower",
    "partner_slug": "passionflower",
@@ -398,6 +428,21 @@
    "herb_id": "melissa-officinalis",
    "herb": "Lemon balm",
    "herb_slug": "lemon-balm",
+   "partner_id": "humulus-lupulus",
+   "partner": "Hop",
+   "partner_slug": "hop",
+   "type": "synergy",
+   "note": "Hops and lemon balm are both mild sedative, sleep-supporting herbs often combined in calming blends; used together they may reinforce each other's relaxing effect.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "melissa-officinalis",
+   "herb": "Lemon balm",
+   "herb_slug": "lemon-balm",
    "partner_id": "passiflora-incarnata",
    "partner": "Passionflower",
    "partner_slug": "passionflower",
@@ -448,6 +493,21 @@
    "note": "Ginkgo and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
    "references": [
     "REF-2457"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "passiflora-incarnata",
+   "herb": "Passionflower",
+   "herb_slug": "passionflower",
+   "partner_id": "matricaria-chamomilla",
+   "partner": "Chamomile",
+   "partner_slug": "chamomile",
+   "type": "synergy",
+   "note": "Chamomile and passionflower are both gentle calming, sleep-supporting herbs traditionally combined; used together they may reinforce each other's soothing, sleep-promoting effect.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   },

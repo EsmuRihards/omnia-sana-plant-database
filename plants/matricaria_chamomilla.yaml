@@ -355,6 +355,15 @@ pairings:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- partner_id: passiflora-incarnata
+  type: synergy
+  note: 'Chamomile and passionflower are both gentle calming, sleep-supporting herbs traditionally combined; used together they may reinforce each other''s soothing, sleep-promoting effect.'
+  reference_ids:
+  - REF-2452
+  - REF-2460
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-27'

@@ -18098,6 +18098,18 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "melissa-officinalis",
+     "type": "synergy",
+     "note": "Hops and lemon balm are both mild sedative, sleep-supporting herbs often combined in calming blends; used together they may reinforce each other's relaxing effect.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
     }
    ],
    "provenance": "book+pubmed",
@@ -22341,6 +22353,18 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "passiflora-incarnata",
+     "type": "synergy",
+     "note": "Chamomile and passionflower are both gentle calming, sleep-supporting herbs traditionally combined; used together they may reinforce each other's soothing, sleep-promoting effect.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
     }
    ],
    "provenance": "book+pubmed",
@@ -24091,6 +24115,20 @@
     "REF-2073",
     "REF-2074",
     "REF-2075"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antidiabetics",
+     "severity": "caution",
+     "mechanism": "Black seed (Nigella sativa) lowers fasting blood glucose and HbA1c in trials in people with prediabetes and type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+     "reference_ids": [
+      "REF-2484",
+      "REF-2485"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -29798,6 +29836,20 @@
     "REF-1534",
     "REF-1535"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antidepressants-serotonergic",
+     "severity": "caution",
+     "mechanism": "Rhodiola inhibits monoamine oxidase (MAO-A/B) and raises serotonin and dopamine activity; a case report described serotonergic-syndrome-type symptoms (restlessness, trembling) when rhodiola was added to the antidepressant paroxetine. Combined with antidepressants it may add to serotonergic effects.",
+     "reference_ids": [
+      "REF-2483",
+      "REF-2482"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "pairings": [
     {
      "partner_id": "eleutherococcus-senticosus",
@@ -32715,6 +32767,32 @@
     "REF-1884",
     "REF-1885",
     "REF-1886"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "immunosuppressants",
+     "severity": "caution",
+     "mechanism": "Schisandra lignans inhibit the CYP3A enzyme that clears tacrolimus and ciclosporin; in transplant patients a schisandra preparation raised tacrolimus blood levels (letting doses be lowered). The strongest evidence is for the related species Schisandra sphenanthera, but the lignans are shared, so combined use warrants monitoring of immunosuppressant levels.",
+     "reference_ids": [
+      "REF-2480",
+      "REF-2481"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "caution",
+     "mechanism": "Schisandra lignans inhibit CYP3A, a major drug-metabolising enzyme, which can raise the blood levels of medicines cleared by this pathway; check each medication individually and watch for stronger effects or side effects.",
+     "reference_ids": [
+      "REF-2481",
+      "REF-2480"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",

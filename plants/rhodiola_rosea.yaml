@@ -168,6 +168,16 @@ references:
 - REF-1533
 - REF-1534
 - REF-1535
+drug_class_interactions:
+- drug_class: antidepressants-serotonergic
+  severity: caution
+  mechanism: 'Rhodiola inhibits monoamine oxidase (MAO-A/B) and raises serotonin and dopamine activity; a case report described serotonergic-syndrome-type symptoms (restlessness, trembling) when rhodiola was added to the antidepressant paroxetine. Combined with antidepressants it may add to serotonergic effects.'
+  reference_ids:
+  - REF-2483
+  - REF-2482
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 pairings:
 - partner_id: eleutherococcus-senticosus
   type: synergy

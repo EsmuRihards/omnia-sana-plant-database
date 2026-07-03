@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 43,
+ "count": 47,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -174,6 +174,22 @@
    "mechanism": "Bitter melon has a blood-sugar-lowering effect, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
    "references": [
     "REF-2450"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "nigella-sativa",
+   "plant": "Black Cumin",
+   "scientific": "Nigella sativa",
+   "common_slug": "black-cumin",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Black seed (Nigella sativa) lowers fasting blood glucose and HbA1c in trials in people with prediabetes and type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+   "references": [
+    "REF-2484",
+    "REF-2485"
    ],
    "status": "approved"
   },
@@ -690,6 +706,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "rhodiola-rosea",
+   "plant": "Rhodiola Rosea",
+   "scientific": "Rhodiola rosea",
+   "common_slug": "rhodiola-rosea",
+   "wp_post_id": null,
+   "drug_class": "antidepressants-serotonergic",
+   "drug_class_label": "Antidepressants (SSRIs / SNRIs / MAOIs)",
+   "severity": "caution",
+   "mechanism": "Rhodiola inhibits monoamine oxidase (MAO-A/B) and raises serotonin and dopamine activity; a case report described serotonergic-syndrome-type symptoms (restlessness, trembling) when rhodiola was added to the antidepressant paroxetine. Combined with antidepressants it may add to serotonergic effects.",
+   "references": [
+    "REF-2483",
+    "REF-2482"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "serenoa-repens",
    "plant": "Saw Palmetto",
    "scientific": "Serenoa repens",
@@ -701,6 +733,38 @@
    "mechanism": "Saw palmetto has been linked to prolonged bleeding time, and a case of severe intraoperative haemorrhage was reported in a patient taking it; combining it with anticoagulant or antiplatelet drugs may add to bleeding risk, so stop it before surgery.",
    "references": [
     "REF-2458"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "schisandra-chinensis",
+   "plant": "Schisandra",
+   "scientific": "Schisandra chinensis",
+   "common_slug": "schisandra",
+   "wp_post_id": null,
+   "drug_class": "immunosuppressants",
+   "drug_class_label": "Immunosuppressants",
+   "severity": "caution",
+   "mechanism": "Schisandra lignans inhibit the CYP3A enzyme that clears tacrolimus and ciclosporin; in transplant patients a schisandra preparation raised tacrolimus blood levels (letting doses be lowered). The strongest evidence is for the related species Schisandra sphenanthera, but the lignans are shared, so combined use warrants monitoring of immunosuppressant levels.",
+   "references": [
+    "REF-2480",
+    "REF-2481"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "schisandra-chinensis",
+   "plant": "Schisandra",
+   "scientific": "Schisandra chinensis",
+   "common_slug": "schisandra",
+   "wp_post_id": null,
+   "drug_class": "cyp3a4-substrates",
+   "drug_class_label": "Medicines processed by CYP3A4",
+   "severity": "caution",
+   "mechanism": "Schisandra lignans inhibit CYP3A, a major drug-metabolising enzyme, which can raise the blood levels of medicines cleared by this pathway; check each medication individually and watch for stronger effects or side effects.",
+   "references": [
+    "REF-2481",
+    "REF-2480"
    ],
    "status": "approved"
   },

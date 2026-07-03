@@ -125,6 +125,15 @@ references:
 - REF-1826
 - REF-1827
 - REF-1828
+drug_class_interactions:
+- drug_class: antidiabetics
+  severity: caution
+  mechanism: 'Cinnamon can lower blood sugar, so combining it with diabetes medicines such as insulin, metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.'
+  reference_ids:
+  - REF-2448
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

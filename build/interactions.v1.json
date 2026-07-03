@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 28,
+ "count": 32,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -101,6 +101,36 @@
  ],
  "interactions": [
   {
+   "plant_id": "momordica-charantia",
+   "plant": "Bitter Melon",
+   "scientific": "Momordica charantia",
+   "common_slug": "bitter-melon",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Bitter melon has a blood-sugar-lowering effect, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
+   "references": [
+    "REF-2450"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "cinnamomum-cassia",
+   "plant": "Cassia Cinnamon",
+   "scientific": "Cinnamomum cassia",
+   "common_slug": "cassia-cinnamon",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Cinnamon can lower blood sugar, so combining it with diabetes medicines such as insulin, metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.",
+   "references": [
+    "REF-2448"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "matricaria-chamomilla",
    "plant": "Chamomile",
    "scientific": "Matricaria chamomilla",
@@ -112,6 +142,21 @@
    "mechanism": "Chamomile contains natural coumarin constituents and has been linked in a case report to increased bleeding when taken with warfarin, so caution is advised when combining it with anticoagulant or antiplatelet drugs.",
    "references": [
     "REF-2447"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "trigonella-foenum-graecum",
+   "plant": "Fenugreek",
+   "scientific": "Trigonella foenum-graecum",
+   "common_slug": "fenugreek",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Fenugreek seed lowers fasting and post-meal blood sugar, so taken with diabetes medicines it may add to their effect and increase the risk of hypoglycaemia; monitor blood glucose.",
+   "references": [
+    "REF-2449"
    ],
    "status": "approved"
   },
@@ -516,6 +561,21 @@
    "mechanism": "Echinacea can both stimulate immune activity and alter CYP3A/CYP1A2 enzymes, so it may reduce the effect or change the blood levels of immunosuppressant drugs such as ciclosporin and tacrolimus; use only under medical supervision after a transplant or with autoimmune therapy.",
    "references": [
     "REF-2445"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "cinnamomum-verum",
+   "plant": "True Cinnamon",
+   "scientific": "Cinnamomum verum",
+   "common_slug": "true-cinnamon",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Cinnamon can lower blood sugar, so combining it with diabetes medicines such as insulin, metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.",
+   "references": [
+    "REF-2448"
    ],
    "status": "approved"
   },

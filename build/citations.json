@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2447,
+ "count": 2450,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -28740,6 +28740,34 @@
    ]
   },
   {
+   "ref_id": "REF-2450",
+   "key": "kim2020bittermelon",
+   "type": "article",
+   "title": "Hypoglycemic efficacy and safety of Momordica charantia (bitter melon) in patients with type 2 diabetes mellitus",
+   "authors": "Kim, S.K., Jung, J., Jung, J.H., Yoon, N., Kang, S.S., Roh, G.S. and Hahm, J.R.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2020",
+   "doi": "10.1016/j.ctim.2020.102524",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2020.102524",
+   "link_type": "doi",
+   "citation": "Kim, S.K., Jung, J., Jung, J.H., Yoon, N., Kang, S.S., Roh, G.S. and Hahm, J.R (2020) 'Hypoglycemic efficacy and safety of Momordica charantia (bitter melon) in patients with type 2 diabetes mellitus', Complementary Therapies in Medicine, 52, pp. 102524. doi:10.1016/j.ctim.2020.102524",
+   "abstract": "Randomised placebo-controlled trial in 90 patients with type 2 diabetes showing 12 weeks of bitter melon extract significantly reduced average fasting glucose with no serious adverse events, confirming a glucose-lowering effect that may add to antidiabetic medicines.",
+   "tier": "rct",
+   "display": "Hypoglycemic efficacy and safety of Momordica charantia (bitter melon) in patients with type 2 diabetes mellitus",
+   "plants": [
+    "Balsam pear",
+    "Bitter Melon",
+    "Bitter gourd",
+    "Karela"
+   ],
+   "scientific": [
+    "Momordica charantia"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1425",
    "key": "lee2020noni",
    "type": "article",
@@ -50556,6 +50584,35 @@
    ]
   },
   {
+   "ref_id": "REF-2449",
+   "key": "neelakantan2014fenugreek",
+   "type": "article",
+   "title": "Effect of fenugreek (Trigonella foenum-graecum L.) intake on glycemia: a meta-analysis of clinical trials",
+   "authors": "Neelakantan, N., Narayanan, M., de Souza, R.J. and van Dam, R.M.",
+   "journal": "Nutrition Journal",
+   "year": "2014",
+   "doi": "10.1186/1475-2891-13-7",
+   "url": "",
+   "link": "https://doi.org/10.1186/1475-2891-13-7",
+   "link_type": "doi",
+   "citation": "Neelakantan, N., Narayanan, M., de Souza, R.J. and van Dam, R.M (2014) 'Effect of fenugreek (Trigonella foenum-graecum L.) intake on glycemia: a meta-analysis of clinical trials', Nutrition Journal, 13, pp. 7. doi:10.1186/1475-2891-13-7",
+   "abstract": "Meta-analysis of 10 clinical trials finding fenugreek seed intake significantly lowers fasting blood glucose, 2-hour post-load glucose and HbA1c in people with diabetes, especially at medium-to-high doses, supporting an additive glucose-lowering interaction with antidiabetic drugs.",
+   "tier": "review",
+   "display": "Effect of fenugreek (Trigonella foenum-graecum L.) intake on glycemia: a meta-analysis of clinical trials",
+   "plants": [
+    "Bird’s foot",
+    "Fenugreek",
+    "Greek clover",
+    "and alholva",
+    "goat’s horn"
+   ],
+   "scientific": [
+    "Trigonella foenum-graecum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1804",
    "key": "ma2014hyssop",
    "type": "article",
@@ -52793,6 +52850,38 @@
     "High cholesterol",
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-2448",
+   "key": "allen2013cinnamon",
+   "type": "article",
+   "title": "Cinnamon use in type 2 diabetes: an updated systematic review and meta-analysis",
+   "authors": "Allen, R.W., Schwartzman, E., Baker, W.L., Coleman, C.I. and Phung, O.J.",
+   "journal": "Annals of Family Medicine",
+   "year": "2013",
+   "doi": "10.1370/afm.1517",
+   "url": "",
+   "link": "https://doi.org/10.1370/afm.1517",
+   "link_type": "doi",
+   "citation": "Allen, R.W., Schwartzman, E., Baker, W.L., Coleman, C.I. and Phung, O.J (2013) 'Cinnamon use in type 2 diabetes: an updated systematic review and meta-analysis', Annals of Family Medicine, 11(5), pp. 452-459. doi:10.1370/afm.1517",
+   "abstract": "Meta-analysis of 10 randomised controlled trials (543 patients) showing cinnamon (120 mg/d to 6 g/d) significantly lowers fasting plasma glucose and improves the lipid profile in type 2 diabetes, indicating a glucose-lowering effect that can add to antidiabetic medicines.",
+   "tier": "review",
+   "display": "Cinnamon use in type 2 diabetes: an updated systematic review and meta-analysis",
+   "plants": [
+    "Cassia Cinnamon",
+    "Cassia bark",
+    "Ceylon cinnamon",
+    "Chinese cinnamon",
+    "Rou gui",
+    "Sri Lanka cinnamon",
+    "True Cinnamon"
+   ],
+   "scientific": [
+    "Cinnamomum cassia",
+    "Cinnamomum verum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1381",

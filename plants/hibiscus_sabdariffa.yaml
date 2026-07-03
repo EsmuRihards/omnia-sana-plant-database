@@ -122,6 +122,15 @@ references:
 - REF-1846
 - REF-1847
 - REF-1848
+drug_class_interactions:
+- drug_class: antihypertensives
+  severity: caution
+  mechanism: 'Hibiscus (roselle) lowers systolic and diastolic blood pressure in trials; combined with blood-pressure medicines it may add to their effect and cause blood pressure to drop too low, so monitor blood pressure.'
+  reference_ids:
+  - REF-2488
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

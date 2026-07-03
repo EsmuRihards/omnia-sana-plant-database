@@ -170,6 +170,15 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: antidiabetics
+  severity: caution
+  mechanism: 'Turmeric/curcumin can lower blood glucose and HbA1c in people with type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
+  reference_ids:
+  - REF-2486
+  - REF-2485
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

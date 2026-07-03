@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 47,
+ "count": 51,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -407,6 +407,21 @@
    "status": "approved"
   },
   {
+   "plant_id": "hibiscus-sabdariffa",
+   "plant": "Hibiscus",
+   "scientific": "Hibiscus sabdariffa",
+   "common_slug": "hibiscus",
+   "wp_post_id": null,
+   "drug_class": "antihypertensives",
+   "drug_class_label": "Antihypertensives (blood-pressure medicines)",
+   "severity": "caution",
+   "mechanism": "Hibiscus (roselle) lowers systolic and diastolic blood pressure in trials; combined with blood-pressure medicines it may add to their effect and cause blood pressure to drop too low, so monitor blood pressure.",
+   "references": [
+    "REF-2488"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "aesculus-hippocastanum",
    "plant": "Horse Chestnut",
    "scientific": "Aesculus hippocastanum",
@@ -504,12 +519,44 @@
    "scientific": "Silybum marianum",
    "common_slug": "milk-thistle",
    "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Milk thistle (silymarin) reduced fasting blood glucose and HbA1c across randomized trials in type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+   "references": [
+    "REF-2489",
+    "REF-2490"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "silybum-marianum",
+   "plant": "Milk Thistle",
+   "scientific": "Silybum marianum",
+   "common_slug": "milk-thistle",
+   "wp_post_id": null,
    "drug_class": "cyp3a4-substrates",
    "drug_class_label": "Medicines processed by CYP3A4",
    "severity": "likely-safe",
    "mechanism": "Milk thistle (silymarin) was once thought to inhibit the CYP3A4 enzyme, but a controlled human study found no meaningful effect on a CYP3A4 test drug, so clinically important interactions with CYP3A4-metabolised medicines are unlikely at usual doses.",
    "references": [
     "REF-2455"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "olea-europaea",
+   "plant": "Olive",
+   "scientific": "Olea europaea",
+   "common_slug": "olive",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Olive leaf improves insulin sensitivity and glucose handling; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+   "references": [
+    "REF-2487",
+    "REF-2485"
    ],
    "status": "approved"
   },
@@ -811,6 +858,22 @@
    "mechanism": "Turmeric/curcumin can raise the blood levels of blood-thinning drugs such as warfarin and clopidogrel and has mild antiplatelet activity, so combined use should be monitored for increased bleeding risk.",
    "references": [
     "REF-2454"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "curcuma-longa",
+   "plant": "Tumeric",
+   "scientific": "Curcuma longa",
+   "common_slug": "tumeric",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Turmeric/curcumin can lower blood glucose and HbA1c in people with type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+   "references": [
+    "REF-2486",
+    "REF-2485"
    ],
    "status": "approved"
   },

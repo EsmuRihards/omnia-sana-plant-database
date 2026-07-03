@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2500,
+ "count": 2502,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -3825,6 +3825,33 @@
    ],
    "scientific": [
     "Sambucus nigra"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2502",
+   "key": "liu2024saffron",
+   "type": "article",
+   "title": "Effect of saffron supplementation on the glycemic outcomes in diabetes: a systematic review and meta-analysis",
+   "authors": "Liu, J., Yang, Y. and Qi, Y.",
+   "journal": "Frontiers in Nutrition",
+   "year": "2024",
+   "doi": "10.3389/fnut.2024.1349006",
+   "url": "",
+   "link": "https://doi.org/10.3389/fnut.2024.1349006",
+   "link_type": "doi",
+   "citation": "Liu, J., Yang, Y. and Qi, Y (2024) 'Effect of saffron supplementation on the glycemic outcomes in diabetes: a systematic review and meta-analysis', Frontiers in Nutrition, 11, pp. 1349006. doi:10.3389/fnut.2024.1349006",
+   "abstract": "Systematic review and meta-analysis of 10 randomized controlled trials (562 patients with diabetes) finding saffron supplementation significantly reduced fasting plasma glucose (-8.42 mg/dL) and HbA1c (-0.22%) versus placebo. Evidence that saffron lowers blood glucose, so it may add to the effect of antidiabetic medicines.",
+   "tier": "review",
+   "display": "Effect of saffron supplementation on the glycemic outcomes in diabetes: a systematic review and meta-analysis",
+   "plants": [
+    "Saffron",
+    "autumn crocus",
+    "true saffron"
+   ],
+   "scientific": [
+    "Crocus sativus"
    ],
    "actions": [],
    "conditions": []
@@ -47563,6 +47590,35 @@
    "actions": [
     "Immunomodulator / immune support"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2501",
+   "key": "zemestani2015chamomile",
+   "type": "article",
+   "title": "Chamomile tea improves glycemic indices and antioxidants status in patients with type 2 diabetes mellitus",
+   "authors": "Zemestani, M., Rafraf, M. and Asghari-Jafarabadi, M.",
+   "journal": "Nutrition",
+   "year": "2015",
+   "doi": "10.1016/j.nut.2015.07.011",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.nut.2015.07.011",
+   "link_type": "doi",
+   "citation": "Zemestani, M., Rafraf, M. and Asghari-Jafarabadi, M (2015) 'Chamomile tea improves glycemic indices and antioxidants status in patients with type 2 diabetes mellitus', Nutrition, 32(1), pp. 66-72. doi:10.1016/j.nut.2015.07.011",
+   "abstract": "Single-blind randomized controlled trial in 64 type 2 diabetes patients: chamomile tea three times daily for 8 weeks significantly lowered HbA1c, serum insulin and insulin resistance (HOMA-IR) and improved antioxidant status versus a water-drinking control. Evidence that chamomile improves blood-sugar control and may add to antidiabetic medicines.",
+   "tier": "rct",
+   "display": "Chamomile tea improves glycemic indices and antioxidants status in patients with type 2 diabetes mellitus",
+   "plants": [
+    "Chamomile",
+    "German chamomile",
+    "Scented Mayweed",
+    "blue chamomile",
+    "wild chamomile"
+   ],
+   "scientific": [
+    "Matricaria chamomilla"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

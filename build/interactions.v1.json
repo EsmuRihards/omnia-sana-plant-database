@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 82,
+ "count": 84,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -284,6 +284,21 @@
    "mechanism": "Chamomile contains natural coumarin constituents and has been linked in a case report to increased bleeding when taken with warfarin, so caution is advised when combining it with anticoagulant or antiplatelet drugs.",
    "references": [
     "REF-2447"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "matricaria-chamomilla",
+   "plant": "Chamomile",
+   "scientific": "Matricaria chamomilla",
+   "common_slug": "chamomile",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Chamomile improved blood-sugar control (lower HbA1c and insulin resistance) in a trial in type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+   "references": [
+    "REF-2501"
    ],
    "status": "approved"
   },
@@ -1162,6 +1177,21 @@
    "mechanism": "Saffron has antidepressant, serotonin-related activity (a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.",
    "references": [
     "REF-2496"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "crocus-sativus",
+   "plant": "Saffron",
+   "scientific": "Crocus sativus",
+   "common_slug": "saffron",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Saffron lowers fasting blood glucose and HbA1c in trials in people with diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+   "references": [
+    "REF-2502"
    ],
    "status": "approved"
   },

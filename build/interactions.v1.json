@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 88,
+ "count": 89,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -1060,7 +1060,8 @@
    "mechanism": "CYP induction increases warfarin clearance and can lower INR, reducing the anticoagulant effect; close monitoring is needed.",
    "references": [
     "REF-2436",
-    "REF-2434"
+    "REF-2434",
+    "REF-2522"
    ],
    "status": "approved"
   },
@@ -1073,10 +1074,12 @@
    "drug_class": "antidepressants-serotonergic",
    "drug_class_label": "Antidepressants (SSRIs / SNRIs / MAOIs)",
    "severity": "avoid",
-   "mechanism": "St John's wort raises serotonin activity; combined with SSRIs, SNRIs or MAOIs it can trigger serotonin syndrome (agitation, tremor, sweating, rapid heartbeat).",
+   "mechanism": "St John's wort raises serotonin activity; combined with SSRIs, SNRIs or MAOIs it can trigger serotonin syndrome (agitation, tremor, sweating, rapid heartbeat). Reviews of clinical reports document serotonin syndrome and lethargy when it is combined with serotonin-reuptake inhibitors.",
    "references": [
     "REF-2434",
-    "REF-2436"
+    "REF-2436",
+    "REF-2523",
+    "REF-2522"
    ],
    "status": "approved"
   },
@@ -1119,13 +1122,32 @@
    "scientific": "Hypericum perforatum",
    "common_slug": "perforate-st-john-s-wort",
    "wp_post_id": null,
+   "drug_class": "chemotherapy-agents",
+   "drug_class_label": "Chemotherapy / cancer medicines",
+   "severity": "avoid",
+   "mechanism": "St John's wort strongly induces CYP3A4 and P-glycoprotein, speeding the breakdown and removal of several cancer medicines. In patients it cut the active form of irinotecan (SN-38) by about 42% and reduced imatinib exposure by roughly a third - enough to weaken treatment and risk drug resistance. Do not take St John's wort during chemotherapy.",
+   "references": [
+    "REF-2518",
+    "REF-2519",
+    "REF-2523"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
    "drug_class": "hormonal-therapies",
    "drug_class_label": "Hormonal therapies",
    "severity": "avoid",
-   "mechanism": "Increased metabolism of ethinylestradiol and progestins reduces contraceptive exposure, causing breakthrough bleeding, ovulation and unplanned pregnancy.",
+   "mechanism": "Increased metabolism of ethinylestradiol and progestins reduces contraceptive exposure, causing breakthrough bleeding, ovulation and unplanned pregnancy. Randomised and controlled trials in women confirmed more breakthrough bleeding, reduced progestin levels and evidence of ovulation when St John's wort was added to the pill.",
    "references": [
     "REF-2435",
-    "REF-2434"
+    "REF-2434",
+    "REF-2520",
+    "REF-2521"
    ],
    "status": "approved"
   },
@@ -1158,7 +1180,8 @@
    "mechanism": "As a broad CYP3A4 and P-glycoprotein inducer, St John's wort can lower levels of many medicines cleared by this pathway; check each medication individually.",
    "references": [
     "REF-2434",
-    "REF-2436"
+    "REF-2436",
+    "REF-2522"
    ],
    "status": "approved"
   },
@@ -1174,7 +1197,8 @@
    "mechanism": "CYP3A4 induction lowers levels of simvastatin and atorvastatin, potentially weakening their cholesterol-lowering effect.",
    "references": [
     "REF-2436",
-    "REF-2434"
+    "REF-2434",
+    "REF-2522"
    ],
    "status": "approved"
   },

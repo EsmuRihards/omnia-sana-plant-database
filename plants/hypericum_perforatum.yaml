@@ -134,10 +134,12 @@ contraindications:
 drug_class_interactions:
 - drug_class: antidepressants-serotonergic
   severity: avoid
-  mechanism: 'St John''s wort raises serotonin activity; combined with SSRIs, SNRIs or MAOIs it can trigger serotonin syndrome (agitation, tremor, sweating, rapid heartbeat).'
+  mechanism: 'St John''s wort raises serotonin activity; combined with SSRIs, SNRIs or MAOIs it can trigger serotonin syndrome (agitation, tremor, sweating, rapid heartbeat). Reviews of clinical reports document serotonin syndrome and lethargy when it is combined with serotonin-reuptake inhibitors.'
   reference_ids:
   - REF-2434
   - REF-2436
+  - REF-2523
+  - REF-2522
   status: approved
   reviewed_by: Omnia Sana (owner)
   reviewed_date: '2026-07-03'
@@ -163,10 +165,12 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: hormonal-therapies
   severity: avoid
-  mechanism: 'Increased metabolism of ethinylestradiol and progestins reduces contraceptive exposure, causing breakthrough bleeding, ovulation and unplanned pregnancy.'
+  mechanism: 'Increased metabolism of ethinylestradiol and progestins reduces contraceptive exposure, causing breakthrough bleeding, ovulation and unplanned pregnancy. Randomised and controlled trials in women confirmed more breakthrough bleeding, reduced progestin levels and evidence of ovulation when St John''s wort was added to the pill.'
   reference_ids:
   - REF-2435
   - REF-2434
+  - REF-2520
+  - REF-2521
   status: approved
   reviewed_by: Omnia Sana (owner)
   reviewed_date: '2026-07-03'
@@ -176,6 +180,7 @@ drug_class_interactions:
   reference_ids:
   - REF-2436
   - REF-2434
+  - REF-2522
   status: approved
   reviewed_by: Omnia Sana (owner)
   reviewed_date: '2026-07-03'
@@ -194,6 +199,7 @@ drug_class_interactions:
   reference_ids:
   - REF-2436
   - REF-2434
+  - REF-2522
   status: approved
   reviewed_by: Omnia Sana (owner)
   reviewed_date: '2026-07-03'
@@ -203,6 +209,17 @@ drug_class_interactions:
   reference_ids:
   - REF-2434
   - REF-2436
+  - REF-2522
+  status: approved
+  reviewed_by: Omnia Sana (owner)
+  reviewed_date: '2026-07-03'
+- drug_class: chemotherapy-agents
+  severity: avoid
+  mechanism: 'St John''s wort strongly induces CYP3A4 and P-glycoprotein, speeding the breakdown and removal of several cancer medicines. In patients it cut the active form of irinotecan (SN-38) by about 42% and reduced imatinib exposure by roughly a third - enough to weaken treatment and risk drug resistance. Do not take St John''s wort during chemotherapy.'
+  reference_ids:
+  - REF-2518
+  - REF-2519
+  - REF-2523
   status: approved
   reviewed_by: Omnia Sana (owner)
   reviewed_date: '2026-07-03'

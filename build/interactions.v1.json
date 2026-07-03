@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 32,
+ "count": 35,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -100,6 +100,21 @@
   }
  ],
  "interactions": [
+  {
+   "plant_id": "aloe-vera",
+   "plant": "Aloe Vera",
+   "scientific": "Aloe vera",
+   "common_slug": "aloe-vera",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Aloe vera (taken internally) can lower blood sugar, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
+   "references": [
+    "REF-2456"
+   ],
+   "status": "approved"
+  },
   {
    "plant_id": "momordica-charantia",
    "plant": "Bitter Melon",
@@ -389,6 +404,21 @@
    "status": "approved"
   },
   {
+   "plant_id": "silybum-marianum",
+   "plant": "Milk Thistle",
+   "scientific": "Silybum marianum",
+   "common_slug": "milk-thistle",
+   "wp_post_id": null,
+   "drug_class": "cyp3a4-substrates",
+   "drug_class_label": "Medicines processed by CYP3A4",
+   "severity": "likely-safe",
+   "mechanism": "Milk thistle (silymarin) was once thought to inhibit the CYP3A4 enzyme, but a controlled human study found no meaningful effect on a CYP3A4 test drug, so clinically important interactions with CYP3A4-metabolised medicines are unlikely at usual doses.",
+   "references": [
+    "REF-2455"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "panax-ginseng",
    "plant": "Panax Ginseng",
    "scientific": "Panax ginseng",
@@ -576,6 +606,21 @@
    "mechanism": "Cinnamon can lower blood sugar, so combining it with diabetes medicines such as insulin, metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.",
    "references": [
     "REF-2448"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "curcuma-longa",
+   "plant": "Tumeric",
+   "scientific": "Curcuma longa",
+   "common_slug": "tumeric",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Turmeric/curcumin can raise the blood levels of blood-thinning drugs such as warfarin and clopidogrel and has mild antiplatelet activity, so combined use should be monitored for increased bleeding risk.",
+   "references": [
+    "REF-2454"
    ],
    "status": "approved"
   },

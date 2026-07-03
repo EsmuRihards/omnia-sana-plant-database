@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2453,
+ "count": 2456,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -43988,6 +43988,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2456",
+   "key": "suksomboon2016aloe",
+   "type": "article",
+   "title": "Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis",
+   "authors": "Suksomboon, N., Poolsup, N. and Punthanitisarn, S.",
+   "journal": "Journal of Clinical Pharmacy and Therapeutics",
+   "year": "2016",
+   "doi": "10.1111/jcpt.12382",
+   "url": "",
+   "link": "https://doi.org/10.1111/jcpt.12382",
+   "link_type": "doi",
+   "citation": "Suksomboon, N., Poolsup, N. and Punthanitisarn, S (2016) 'Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis', Journal of Clinical Pharmacy and Therapeutics, 41(2), pp. 180-188. doi:10.1111/jcpt.12382",
+   "abstract": "Systematic review and meta-analysis of 8 randomised trials (470 patients) finding Aloe vera improves fasting plasma glucose in prediabetes and lowers HbA1c in type 2 diabetes, indicating a glucose-lowering effect that can add to antidiabetic medicines.",
+   "tier": "review",
+   "display": "Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1694",
    "key": "bljajic2016betula",
    "type": "article",
@@ -52939,6 +52969,34 @@
    ],
    "scientific": [
     "Verbascum densiflorum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2454",
+   "key": "liu2013curcumin",
+   "type": "article",
+   "title": "Curcumin alters the pharmacokinetics of warfarin and clopidogrel in Wistar rats but has no effect on anticoagulation or antiplatelet aggregation",
+   "authors": "Liu, A.C., Zhao, L.X. and Lou, H.X.",
+   "journal": "Planta Medica",
+   "year": "2013",
+   "doi": "10.1055/s-0032-1328652",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-0032-1328652",
+   "link_type": "doi",
+   "citation": "Liu, A.C., Zhao, L.X. and Lou, H.X (2013) 'Curcumin alters the pharmacokinetics of warfarin and clopidogrel in Wistar rats but has no effect on anticoagulation or antiplatelet aggregation', Planta Medica, 79(11), pp. 971-977. doi:10.1055/s-0032-1328652",
+   "abstract": "Controlled animal study showing curcumin at higher doses raised the blood levels (AUC and Cmax) of warfarin and clopidogrel without changing clotting time or platelet aggregation, indicating a pharmacokinetic interaction that warrants caution when turmeric/curcumin is combined with anticoagulant or antiplatelet drugs.",
+   "tier": "preclinical",
+   "display": "Curcumin alters the pharmacokinetics of warfarin and clopidogrel in Wistar rats but has no effect on anticoagulation or antiplatelet aggregation",
+   "plants": [
+    "Indian saffron",
+    "Tumeric",
+    "Turmeric",
+    "common turmeric"
+   ],
+   "scientific": [
+    "Curcuma longa"
    ],
    "actions": [],
    "conditions": []
@@ -63660,6 +63718,34 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2455",
+   "key": "fuhr2007silymarin",
+   "type": "article",
+   "title": "The effect of silymarin on oral nifedipine pharmacokinetics",
+   "authors": "Fuhr, U., Beckmann-Knopp, S., Jetter, A., Lueck, H. and Mengs, U.",
+   "journal": "Planta Medica",
+   "year": "2007",
+   "doi": "10.1055/s-2007-990256",
+   "url": "",
+   "link": "https://doi.org/10.1055/s-2007-990256",
+   "link_type": "doi",
+   "citation": "Fuhr, U., Beckmann-Knopp, S., Jetter, A., Lueck, H. and Mengs, U (2007) 'The effect of silymarin on oral nifedipine pharmacokinetics', Planta Medica, 73(14), pp. 1429-1435. doi:10.1055/s-2007-990256",
+   "abstract": "Randomised crossover study in 16 healthy volunteers finding that silymarin (milk thistle) did not considerably change the absorption or metabolism of the CYP3A4 probe drug nifedipine, concluding that silymarin is not a potent CYP3A4 inhibitor in vivo and that milk thistle is unlikely to cause clinically important CYP3A4 interactions at usual doses.",
+   "tier": "rct",
+   "display": "The effect of silymarin on oral nifedipine pharmacokinetics",
+   "plants": [
+    "Holy thistle",
+    "Mary thistle",
+    "Milk Thistle",
+    "Silybum"
+   ],
+   "scientific": [
+    "Silybum marianum"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

@@ -248,6 +248,15 @@ references:
 - REF-2242
 - REF-2243
 - REF-2244
+drug_class_interactions:
+- drug_class: antidiabetics
+  severity: caution
+  mechanism: 'Aloe vera (taken internally) can lower blood sugar, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.'
+  reference_ids:
+  - REF-2456
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

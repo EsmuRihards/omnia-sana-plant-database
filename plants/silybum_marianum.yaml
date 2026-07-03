@@ -144,6 +144,15 @@ references:
 - REF-1904
 - REF-1905
 - REF-1906
+drug_class_interactions:
+- drug_class: cyp3a4-substrates
+  severity: likely-safe
+  mechanism: 'Milk thistle (silymarin) was once thought to inhibit the CYP3A4 enzyme, but a controlled human study found no meaningful effect on a CYP3A4 test drug, so clinically important interactions with CYP3A4-metabolised medicines are unlikely at usual doses.'
+  reference_ids:
+  - REF-2455
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

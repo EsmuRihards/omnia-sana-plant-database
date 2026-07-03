@@ -161,6 +161,15 @@ references:
 - REF-2170
 - REF-2171
 - REF-2172
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Turmeric/curcumin can raise the blood levels of blood-thinning drugs such as warfarin and clopidogrel and has mild antiplatelet activity, so combined use should be monitored for increased bleeding risk.'
+  reference_ids:
+  - REF-2454
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

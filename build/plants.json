@@ -2498,6 +2498,19 @@
     "REF-2243",
     "REF-2244"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antidiabetics",
+     "severity": "caution",
+     "mechanism": "Aloe vera (taken internally) can lower blood sugar, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
+     "reference_ids": [
+      "REF-2456"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -12056,6 +12069,19 @@
     "REF-2170",
     "REF-2171",
     "REF-2172"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Turmeric/curcumin can raise the blood levels of blood-thinning drugs such as warfarin and clopidogrel and has mild antiplatelet activity, so combined use should be monitored for increased bleeding risk.",
+     "reference_ids": [
+      "REF-2454"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -32883,6 +32909,19 @@
     "REF-1904",
     "REF-1905",
     "REF-1906"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "likely-safe",
+     "mechanism": "Milk thistle (silymarin) was once thought to inhibit the CYP3A4 enzyme, but a controlled human study found no meaningful effect on a CYP3A4 test drug, so clinically important interactions with CYP3A4-metabolised medicines are unlikely at usual doses.",
+     "reference_ids": [
+      "REF-2455"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",

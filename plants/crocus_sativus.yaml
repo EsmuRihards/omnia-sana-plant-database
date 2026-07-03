@@ -160,9 +160,10 @@ references:
 drug_class_interactions:
 - drug_class: antidepressants-serotonergic
   severity: caution
-  mechanism: 'Saffron has antidepressant, serotonin-related activity (a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.'
+  mechanism: 'Saffron has antidepressant, serotonin-related activity (a meta-analysis of randomised trials found saffron more effective than placebo and comparable to standard antidepressants for mild-to-moderate depression; a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.'
   reference_ids:
   - REF-2496
+  - REF-2535
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

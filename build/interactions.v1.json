@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 89,
+ "count": 90,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -416,9 +416,10 @@
    "drug_class": "antidiabetics",
    "drug_class_label": "Antidiabetic medicines",
    "severity": "caution",
-   "mechanism": "Garlic may modestly lower blood glucose; watch for an additive effect with diabetes medication (an interaction with chlorpropamide has been reported).",
+   "mechanism": "Garlic may modestly lower blood glucose (a meta-analysis in diabetic patients found reduced fasting glucose and HbA1c); watch for an additive effect with diabetes medication (an interaction with chlorpropamide has been reported).",
    "references": [
-    "REF-2436"
+    "REF-2436",
+    "REF-2536"
    ],
    "status": "approved"
   },
@@ -997,6 +998,21 @@
    "status": "approved"
   },
   {
+   "plant_id": "olea-europaea",
+   "plant": "Olive",
+   "scientific": "Olea europaea",
+   "common_slug": "olive",
+   "wp_post_id": null,
+   "drug_class": "antihypertensives",
+   "drug_class_label": "Antihypertensives (blood-pressure medicines)",
+   "severity": "caution",
+   "mechanism": "Olive leaf can modestly lower blood pressure - a meta-analysis found about a 6 mmHg fall in systolic pressure at 500 mg/day, though the evidence base is small. Combined with blood-pressure medicines it may add to their effect, so monitor your blood pressure.",
+   "references": [
+    "REF-2537"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "panax-ginseng",
    "plant": "Panax Ginseng",
    "scientific": "Panax ginseng",
@@ -1270,9 +1286,10 @@
    "drug_class": "antidepressants-serotonergic",
    "drug_class_label": "Antidepressants (SSRIs / SNRIs / MAOIs)",
    "severity": "caution",
-   "mechanism": "Saffron has antidepressant, serotonin-related activity (a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.",
+   "mechanism": "Saffron has antidepressant, serotonin-related activity (a meta-analysis of randomised trials found saffron more effective than placebo and comparable to standard antidepressants for mild-to-moderate depression; a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.",
    "references": [
-    "REF-2496"
+    "REF-2496",
+    "REF-2535"
    ],
    "status": "approved"
   },

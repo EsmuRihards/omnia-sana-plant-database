@@ -280,6 +280,14 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- drug_class: antihypertensives
+  severity: caution
+  mechanism: 'Garlic can lower blood pressure (a meta-analysis found meaningful reductions in people with high blood pressure); combined with blood-pressure medicines it may add to their effect, so monitor blood pressure.'
+  reference_ids:
+  - REF-2491
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 pairings:
 - partner_id: zingiber-officinale
   type: caution

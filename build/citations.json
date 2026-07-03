@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2490,
+ "count": 2491,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -7074,22 +7074,39 @@
    "tier": "review",
    "display": "Therapeutic potential of hypnotic herbal medicines: A comprehensive review",
    "plants": [
+    "California Poppy",
     "Chamomile",
+    "Cup of gold",
+    "English lavender",
     "German chamomile",
+    "Golden poppy",
     "Hop",
     "Hops",
+    "Lavender",
+    "Lemon balm",
+    "Maypop",
+    "Passion vine",
+    "Passionflower",
+    "Purple passionflower",
     "Scented Mayweed",
     "Valerian",
+    "bee balm",
     "blue chamomile",
     "common hop",
     "common valerian",
     "garden valerian",
     "hop vine",
+    "sweet balm",
+    "true lavender",
     "wild chamomile"
    ],
    "scientific": [
+    "Eschscholzia californica",
     "Humulus lupulus",
+    "Lavandula angustifolia",
     "Matricaria chamomilla",
+    "Melissa officinalis",
+    "Passiflora incarnata",
     "Valeriana officinalis"
    ],
    "actions": [],
@@ -45006,6 +45023,33 @@
    ]
   },
   {
+   "ref_id": "REF-2491",
+   "key": "ried2016garlic",
+   "type": "article",
+   "title": "Garlic Lowers Blood Pressure in Hypertensive Individuals, Regulates Serum Cholesterol, and Stimulates Immunity: An Updated Meta-analysis and Review",
+   "authors": "Ried, K.",
+   "journal": "The Journal of Nutrition",
+   "year": "2016",
+   "doi": "10.3945/jn.114.202192",
+   "url": "",
+   "link": "https://doi.org/10.3945/jn.114.202192",
+   "link_type": "doi",
+   "citation": "Ried, K (2016) 'Garlic Lowers Blood Pressure in Hypertensive Individuals, Regulates Serum Cholesterol, and Stimulates Immunity: An Updated Meta-analysis and Review', The Journal of Nutrition, 146(2), pp. 389S-396S. doi:10.3945/jn.114.202192",
+   "abstract": "Updated meta-analysis of 20 randomized controlled trials (970 participants) finding garlic supplements lowered systolic blood pressure by an average of 5.1 mmHg overall and by 8.7 mmHg in hypertensive subjects, comparable to a mild antihypertensive effect. Evidence that garlic lowers blood pressure, so it may add to the effect of blood-pressure medicines.",
+   "tier": "review",
+   "display": "Garlic Lowers Blood Pressure in Hypertensive Individuals, Regulates Serum Cholesterol, and Stimulates Immunity: An Updated Meta-analysis and Review",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1653",
    "key": "kesavan2016gentiana",
    "type": "article",
@@ -67844,14 +67888,23 @@
    "display": "Safety and efficacy of herbal sedatives in cancer care",
    "plants": [
     "Awa",
+    "California Poppy",
     "Chamomile",
+    "Cup of gold",
+    "English lavender",
     "German chamomile",
+    "Golden poppy",
     "Hop",
     "Hops",
     "Kava",
     "Kava Kava",
     "Kawa",
+    "Lavender",
     "Lemon balm",
+    "Maypop",
+    "Passion vine",
+    "Passionflower",
+    "Purple passionflower",
     "Scented Mayweed",
     "Yaqona",
     "bee balm",
@@ -67859,12 +67912,16 @@
     "common hop",
     "hop vine",
     "sweet balm",
+    "true lavender",
     "wild chamomile"
    ],
    "scientific": [
+    "Eschscholzia californica",
     "Humulus lupulus",
+    "Lavandula angustifolia",
     "Matricaria chamomilla",
     "Melissa officinalis",
+    "Passiflora incarnata",
     "Piper methysticum"
    ],
    "actions": [

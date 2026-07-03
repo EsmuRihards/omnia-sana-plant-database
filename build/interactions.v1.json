@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 51,
+ "count": 58,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -194,6 +194,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "eschscholzia-californica",
+   "plant": "California Poppy",
+   "scientific": "Eschscholzia californica",
+   "common_slug": "california-poppy",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "California poppy has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "cinnamomum-cassia",
    "plant": "Cassia Cinnamon",
    "scientific": "Cinnamomum cassia",
@@ -220,6 +236,22 @@
    "mechanism": "Chamomile contains natural coumarin constituents and has been linked in a case report to increased bleeding when taken with warfarin, so caution is advised when combining it with anticoagulant or antiplatelet drugs.",
    "references": [
     "REF-2447"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "matricaria-chamomilla",
+   "plant": "Chamomile",
+   "scientific": "Matricaria chamomilla",
+   "common_slug": "chamomile",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Chamomile has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   },
@@ -280,6 +312,21 @@
    "mechanism": "Garlic may modestly lower blood glucose; watch for an additive effect with diabetes medication (an interaction with chlorpropamide has been reported).",
    "references": [
     "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "allium-sativum",
+   "plant": "Garlic",
+   "scientific": "Allium sativum",
+   "common_slug": "garlic",
+   "wp_post_id": null,
+   "drug_class": "antihypertensives",
+   "drug_class_label": "Antihypertensives (blood-pressure medicines)",
+   "severity": "caution",
+   "mechanism": "Garlic can lower blood pressure (a meta-analysis found meaningful reductions in people with high blood pressure); combined with blood-pressure medicines it may add to their effect, so monitor blood pressure.",
+   "references": [
+    "REF-2491"
    ],
    "status": "approved"
   },
@@ -422,6 +469,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "humulus-lupulus",
+   "plant": "Hop",
+   "scientific": "Humulus lupulus",
+   "common_slug": "hop",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Hops has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "aesculus-hippocastanum",
    "plant": "Horse Chestnut",
    "scientific": "Aesculus hippocastanum",
@@ -449,6 +512,38 @@
    "references": [
     "REF-2460",
     "REF-2462"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "lavandula-angustifolia",
+   "plant": "Lavender",
+   "scientific": "Lavandula angustifolia",
+   "common_slug": "lavender",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Lavender has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "melissa-officinalis",
+   "plant": "Lemon balm",
+   "scientific": "Melissa officinalis",
+   "common_slug": "lemon-balm",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Lemon balm has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   },
@@ -604,6 +699,22 @@
    "references": [
     "REF-2476",
     "REF-2477"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "passiflora-incarnata",
+   "plant": "Passionflower",
+   "scientific": "Passiflora incarnata",
+   "common_slug": "passionflower",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Passionflower has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   },

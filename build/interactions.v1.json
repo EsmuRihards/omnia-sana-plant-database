@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 8,
+ "count": 16,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -100,6 +100,128 @@
   }
  ],
  "interactions": [
+  {
+   "plant_id": "allium-sativum",
+   "plant": "Garlic",
+   "scientific": "Allium sativum",
+   "common_slug": "garlic",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Garlic has antiplatelet activity (ajoene) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; interactions with warfarin have been reported.",
+   "references": [
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "allium-sativum",
+   "plant": "Garlic",
+   "scientific": "Allium sativum",
+   "common_slug": "garlic",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Garlic may modestly lower blood glucose; watch for an additive effect with diabetes medication (an interaction with chlorpropamide has been reported).",
+   "references": [
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "allium-sativum",
+   "plant": "Garlic",
+   "scientific": "Allium sativum",
+   "common_slug": "garlic",
+   "wp_post_id": null,
+   "drug_class": "antiretrovirals",
+   "drug_class_label": "Antiretrovirals (HIV medicines)",
+   "severity": "caution",
+   "mechanism": "Garlic supplements reduced saquinavir exposure by about half in healthy volunteers, which could lower the effectiveness of some HIV protease inhibitors.",
+   "references": [
+    "REF-2437",
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ginkgo-biloba",
+   "plant": "Ginko",
+   "scientific": "Ginkgo biloba",
+   "common_slug": "ginko",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; bleeding has been reported. Stop before surgery.",
+   "references": [
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ginkgo-biloba",
+   "plant": "Ginko",
+   "scientific": "Ginkgo biloba",
+   "common_slug": "ginko",
+   "wp_post_id": null,
+   "drug_class": "anticonvulsants",
+   "drug_class_label": "Anticonvulsants (anti-seizure)",
+   "severity": "caution",
+   "mechanism": "Ginkgo can contain ginkgotoxin, which may lower the seizure threshold; use caution alongside anti-seizure medication.",
+   "references": [
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ginkgo-biloba",
+   "plant": "Ginko",
+   "scientific": "Ginkgo biloba",
+   "common_slug": "ginko",
+   "wp_post_id": null,
+   "drug_class": "nsaids",
+   "drug_class_label": "NSAIDs (anti-inflammatory painkillers)",
+   "severity": "caution",
+   "mechanism": "Ginkgo's antiplatelet effect may add to the bleeding risk of NSAIDs such as ibuprofen; case reports of bleeding exist.",
+   "references": [
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "panax-ginseng",
+   "plant": "Panax Ginseng",
+   "scientific": "Panax ginseng",
+   "common_slug": "panax-ginseng",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Ginseng may reduce the anticoagulant effect of warfarin (lower INR); a randomized trial of American ginseng showed a reduced INR. Monitor anticoagulation closely.",
+   "references": [
+    "REF-2436",
+    "REF-2438"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "panax-ginseng",
+   "plant": "Panax Ginseng",
+   "scientific": "Panax ginseng",
+   "common_slug": "panax-ginseng",
+   "wp_post_id": null,
+   "drug_class": "antidepressants-serotonergic",
+   "drug_class_label": "Antidepressants (SSRIs / SNRIs / MAOIs)",
+   "severity": "caution",
+   "mechanism": "Case reports link ginseng with MAOI antidepressants (e.g. phenelzine) to headache, tremor and manic-like symptoms.",
+   "references": [
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
   {
    "plant_id": "hypericum-perforatum",
    "plant": "Perforate St John’s-wort",

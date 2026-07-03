@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2436,
+ "count": 2438,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -60268,13 +60268,27 @@
    "tier": "review",
    "display": "Interactions between herbal medicines and prescribed drugs: an updated systematic review",
    "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Garlic",
+    "Ginkgo",
+    "Ginko",
+    "Korean ginseng",
+    "Panax Ginseng",
     "Perforate St John’s-wort",
     "St John's wort",
     "common St John's wort",
+    "common garlic",
+    "cultivated garlic",
+    "ginkgo biloba",
+    "maidenhair tree",
     "perforate St John's wort"
    ],
    "scientific": [
-    "Hypericum perforatum"
+    "Allium sativum",
+    "Ginkgo biloba",
+    "Hypericum perforatum",
+    "Panax ginseng"
    ],
    "actions": [],
    "conditions": []
@@ -65825,6 +65839,34 @@
    ]
   },
   {
+   "ref_id": "REF-2438",
+   "key": "yuan2004ginseng",
+   "type": "article",
+   "title": "American ginseng reduces warfarin's effect in healthy patients: a randomized, controlled trial",
+   "authors": "Yuan, C.S., Wei, G., Dey, L., Karrison, T., Nahlik, L., Maleckar, S., Kasza, K., Ang-Lee, M. and Moss, J.",
+   "journal": "Annals of Internal Medicine",
+   "year": "2004",
+   "doi": "10.7326/0003-4819-141-1-200407060-00011",
+   "url": "",
+   "link": "https://doi.org/10.7326/0003-4819-141-1-200407060-00011",
+   "link_type": "doi",
+   "citation": "Yuan, C.S., Wei, G., Dey, L., Karrison, T., Nahlik, L., Maleckar, S., Kasza, K., Ang-Lee, M. and Moss, J (2004) 'American ginseng reduces warfarin's effect in healthy patients: a randomized, controlled trial', Annals of Internal Medicine, 141(1), pp. 23-27. doi:10.7326/0003-4819-141-1-200407060-00011",
+   "abstract": "In a randomized, double-blind, placebo-controlled trial in 20 healthy patients, American ginseng significantly reduced the peak INR and warfarin plasma levels compared with placebo, indicating ginseng reduces warfarin's anticoagulant effect.",
+   "tier": "rct",
+   "display": "American ginseng reduces warfarin's effect in healthy patients: a randomized, controlled trial",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1622",
    "key": "coon2004andrographis",
    "type": "article",
@@ -68935,6 +68977,33 @@
     "Metabolic support",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2437",
+   "key": "piscitelli2001garlic",
+   "type": "article",
+   "title": "The effect of garlic supplements on the pharmacokinetics of saquinavir",
+   "authors": "Piscitelli, S.C., Burstein, A.H., Welden, N., Gallicano, K.D. and Falloon, J.",
+   "journal": "Clinical Infectious Diseases",
+   "year": "2002",
+   "doi": "10.1086/324351",
+   "url": "",
+   "link": "https://doi.org/10.1086/324351",
+   "link_type": "doi",
+   "citation": "Piscitelli, S.C., Burstein, A.H., Welden, N., Gallicano, K.D. and Falloon, J (2002) 'The effect of garlic supplements on the pharmacokinetics of saquinavir', Clinical Infectious Diseases, 34(2), pp. 234-238. doi:10.1086/324351",
+   "abstract": "In ten healthy volunteers, garlic supplements decreased saquinavir mean AUC by 51%, trough by 49% and Cmax by 54%; caution is advised when combining garlic with saquinavir used as a sole protease inhibitor.",
+   "tier": "clinical",
+   "display": "The effect of garlic supplements on the pharmacokinetics of saquinavir",
+   "plants": [
+    "Garlic",
+    "common garlic",
+    "cultivated garlic"
+   ],
+   "scientific": [
+    "Allium sativum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1576",

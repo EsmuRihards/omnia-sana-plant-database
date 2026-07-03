@@ -177,6 +177,24 @@ references:
 - REF-1473
 - REF-1474
 - REF-1475
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Ginseng may reduce the anticoagulant effect of warfarin (lower INR); a randomized trial of American ginseng showed a reduced INR. Monitor anticoagulation closely.'
+  reference_ids:
+  - REF-2436
+  - REF-2438
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: antidepressants-serotonergic
+  severity: caution
+  mechanism: 'Case reports link ginseng with MAOI antidepressants (e.g. phenelzine) to headache, tremor and manic-like symptoms.'
+  reference_ids:
+  - REF-2436
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

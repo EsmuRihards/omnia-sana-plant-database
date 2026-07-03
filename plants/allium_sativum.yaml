@@ -254,6 +254,32 @@ references:
 - REF-2428
 - REF-2429
 - REF-2430
+drug_class_interactions:
+- drug_class: antiretrovirals
+  severity: caution
+  mechanism: 'Garlic supplements reduced saquinavir exposure by about half in healthy volunteers, which could lower the effectiveness of some HIV protease inhibitors.'
+  reference_ids:
+  - REF-2437
+  - REF-2436
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Garlic has antiplatelet activity (ajoene) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; interactions with warfarin have been reported.'
+  reference_ids:
+  - REF-2436
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: antidiabetics
+  severity: caution
+  mechanism: 'Garlic may modestly lower blood glucose; watch for an additive effect with diabetes medication (an interaction with chlorpropamide has been reported).'
+  reference_ids:
+  - REF-2436
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

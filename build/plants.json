@@ -2127,6 +2127,42 @@
     "REF-2429",
     "REF-2430"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antiretrovirals",
+     "severity": "caution",
+     "mechanism": "Garlic supplements reduced saquinavir exposure by about half in healthy volunteers, which could lower the effectiveness of some HIV protease inhibitors.",
+     "reference_ids": [
+      "REF-2437",
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Garlic has antiplatelet activity (ajoene) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; interactions with warfarin have been reported.",
+     "reference_ids": [
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antidiabetics",
+     "severity": "caution",
+     "mechanism": "Garlic may modestly lower blood glucose; watch for an additive effect with diabetes medication (an interaction with chlorpropamide has been reported).",
+     "reference_ids": [
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -15851,6 +15887,41 @@
     "REF-2185",
     "REF-2186"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; bleeding has been reported. Stop before surgery.",
+     "reference_ids": [
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "nsaids",
+     "severity": "caution",
+     "mechanism": "Ginkgo's antiplatelet effect may add to the bleeding risk of NSAIDs such as ibuprofen; case reports of bleeding exist.",
+     "reference_ids": [
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "anticonvulsants",
+     "severity": "caution",
+     "mechanism": "Ginkgo can contain ginkgotoxin, which may lower the seizure threshold; use caution alongside anti-seizure medication.",
+     "reference_ids": [
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -25022,6 +25093,31 @@
     "REF-1473",
     "REF-1474",
     "REF-1475"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Ginseng may reduce the anticoagulant effect of warfarin (lower INR); a randomized trial of American ginseng showed a reduced INR. Monitor anticoagulation closely.",
+     "reference_ids": [
+      "REF-2436",
+      "REF-2438"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antidepressants-serotonergic",
+     "severity": "caution",
+     "mechanism": "Case reports link ginseng with MAOI antidepressants (e.g. phenelzine) to headache, tremor and manic-like symptoms.",
+     "reference_ids": [
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",

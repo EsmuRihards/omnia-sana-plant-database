@@ -111,6 +111,31 @@ references:
 - REF-2184
 - REF-2185
 - REF-2186
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; bleeding has been reported. Stop before surgery.'
+  reference_ids:
+  - REF-2436
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: nsaids
+  severity: caution
+  mechanism: 'Ginkgo''s antiplatelet effect may add to the bleeding risk of NSAIDs such as ibuprofen; case reports of bleeding exist.'
+  reference_ids:
+  - REF-2436
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: anticonvulsants
+  severity: caution
+  mechanism: 'Ginkgo can contain ginkgotoxin, which may lower the seizure threshold; use caution alongside anti-seizure medication.'
+  reference_ids:
+  - REF-2436
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

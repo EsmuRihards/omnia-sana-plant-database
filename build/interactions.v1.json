@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 67,
+ "count": 69,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -403,6 +403,38 @@
    "severity": "caution",
    "mechanism": "Ginkgo can contain ginkgotoxin, which may lower the seizure threshold; use caution alongside anti-seizure medication.",
    "references": [
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ginkgo-biloba",
+   "plant": "Ginko",
+   "scientific": "Ginkgo biloba",
+   "common_slug": "ginko",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Ginkgo can change how some diabetes medicines are handled by the body (for example altering levels of tolbutamide), which may affect blood-sugar control; monitor blood sugar if combined with antidiabetic medicines.",
+   "references": [
+    "REF-2436",
+    "REF-2500"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ginkgo-biloba",
+   "plant": "Ginko",
+   "scientific": "Ginkgo biloba",
+   "common_slug": "ginko",
+   "wp_post_id": null,
+   "drug_class": "antihypertensives",
+   "drug_class_label": "Antihypertensives (blood-pressure medicines)",
+   "severity": "caution",
+   "mechanism": "Ginkgo has been reported to interact with the blood-pressure medicine nifedipine (a calcium-channel blocker), raising its levels and side effects such as dizziness; combined use with blood-pressure medicines warrants monitoring.",
+   "references": [
+    "REF-2500",
     "REF-2436"
    ],
    "status": "approved"

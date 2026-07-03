@@ -16176,6 +16176,30 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antihypertensives",
+     "severity": "caution",
+     "mechanism": "Ginkgo has been reported to interact with the blood-pressure medicine nifedipine (a calcium-channel blocker), raising its levels and side effects such as dizziness; combined use with blood-pressure medicines warrants monitoring.",
+     "reference_ids": [
+      "REF-2500",
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antidiabetics",
+     "severity": "caution",
+     "mechanism": "Ginkgo can change how some diabetes medicines are handled by the body (for example altering levels of tolbutamide), which may affect blood-sugar control; monitor blood sugar if combined with antidiabetic medicines.",
+     "reference_ids": [
+      "REF-2436",
+      "REF-2500"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
     }
    ],
    "pairings": [

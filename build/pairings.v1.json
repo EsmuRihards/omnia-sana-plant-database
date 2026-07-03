@@ -1,7 +1,35 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 20,
+ "count": 30,
  "pairings": [
+  {
+   "herb_id": "matricaria-chamomilla",
+   "herb": "Chamomile",
+   "herb_slug": "chamomile",
+   "partner_id": "melissa-officinalis",
+   "partner": "Lemon balm",
+   "partner_slug": "lemon-balm",
+   "type": "synergy",
+   "note": "Chamomile and lemon balm are both gentle calming herbs commonly combined for stress and sleep; used together their mild sedative effects may add up.",
+   "references": [
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "matricaria-chamomilla",
+   "herb": "Chamomile",
+   "herb_slug": "chamomile",
+   "partner_id": "valeriana-officinalis",
+   "partner": "Valerian",
+   "partner_slug": "valerian",
+   "type": "synergy",
+   "note": "Chamomile and valerian are both traditional mild sedatives for restlessness and poor sleep; taken together they may enhance calming and sleep effects but also add to drowsiness.",
+   "references": [
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
   {
    "herb_id": "tanacetum-parthenium",
    "herb": "Feverfew",
@@ -184,6 +212,35 @@
    "herb_id": "melissa-officinalis",
    "herb": "Lemon balm",
    "herb_slug": "lemon-balm",
+   "partner_id": "matricaria-chamomilla",
+   "partner": "Chamomile",
+   "partner_slug": "chamomile",
+   "type": "synergy",
+   "note": "Chamomile and lemon balm are both gentle calming herbs commonly combined for stress and sleep; used together their mild sedative effects may add up.",
+   "references": [
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "melissa-officinalis",
+   "herb": "Lemon balm",
+   "herb_slug": "lemon-balm",
+   "partner_id": "passiflora-incarnata",
+   "partner": "Passionflower",
+   "partner_slug": "passionflower",
+   "type": "synergy",
+   "note": "Lemon balm and passionflower are both gentle, GABA-acting calming herbs often blended together in anti-anxiety and sleep formulas; combined use may deepen relaxation but also add to drowsiness.",
+   "references": [
+    "REF-2459",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "melissa-officinalis",
+   "herb": "Lemon balm",
+   "herb_slug": "lemon-balm",
    "partner_id": "valeriana-officinalis",
    "partner": "Valerian",
    "partner_slug": "valerian",
@@ -241,6 +298,21 @@
    "herb_id": "passiflora-incarnata",
    "herb": "Passionflower",
    "herb_slug": "passionflower",
+   "partner_id": "melissa-officinalis",
+   "partner": "Lemon balm",
+   "partner_slug": "lemon-balm",
+   "type": "synergy",
+   "note": "Lemon balm and passionflower are both gentle, GABA-acting calming herbs often blended together in anti-anxiety and sleep formulas; combined use may deepen relaxation but also add to drowsiness.",
+   "references": [
+    "REF-2459",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "passiflora-incarnata",
+   "herb": "Passionflower",
+   "herb_slug": "passionflower",
    "partner_id": "valeriana-officinalis",
    "partner": "Valerian",
    "partner_slug": "valerian",
@@ -249,6 +321,76 @@
    "references": [
     "REF-2452",
     "REF-2453"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "hypericum-perforatum",
+   "herb": "Perforate St John’s-wort",
+   "herb_slug": "perforate-st-john-s-wort",
+   "partner_id": "rhodiola-rosea",
+   "partner": "Rhodiola Rosea",
+   "partner_slug": "rhodiola-rosea",
+   "type": "caution",
+   "note": "St John's wort is a strong enzyme inducer and increases serotonin activity; combining it with another antidepressant-type herb such as rhodiola may add to serotonergic effects and unpredictably change how each is handled by the body.",
+   "references": [
+    "REF-2461"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "hypericum-perforatum",
+   "herb": "Perforate St John’s-wort",
+   "herb_slug": "perforate-st-john-s-wort",
+   "partner_id": "crocus-sativus",
+   "partner": "Saffron",
+   "partner_slug": "saffron",
+   "type": "caution",
+   "note": "St John's wort raises serotonin activity and can cause serotonin syndrome when combined with other serotonin-boosting agents; pairing it with another mood-active, serotonergic herb such as saffron may add to this risk.",
+   "references": [
+    "REF-2461"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "rhodiola-rosea",
+   "herb": "Rhodiola Rosea",
+   "herb_slug": "rhodiola-rosea",
+   "partner_id": "hypericum-perforatum",
+   "partner": "Perforate St John’s-wort",
+   "partner_slug": "perforate-st-john-s-wort",
+   "type": "caution",
+   "note": "St John's wort is a strong enzyme inducer and increases serotonin activity; combining it with another antidepressant-type herb such as rhodiola may add to serotonergic effects and unpredictably change how each is handled by the body.",
+   "references": [
+    "REF-2461"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "crocus-sativus",
+   "herb": "Saffron",
+   "herb_slug": "saffron",
+   "partner_id": "hypericum-perforatum",
+   "partner": "Perforate St John’s-wort",
+   "partner_slug": "perforate-st-john-s-wort",
+   "type": "caution",
+   "note": "St John's wort raises serotonin activity and can cause serotonin syndrome when combined with other serotonin-boosting agents; pairing it with another mood-active, serotonergic herb such as saffron may add to this risk.",
+   "references": [
+    "REF-2461"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "valeriana-officinalis",
+   "herb": "Valerian",
+   "herb_slug": "valerian",
+   "partner_id": "matricaria-chamomilla",
+   "partner": "Chamomile",
+   "partner_slug": "chamomile",
+   "type": "synergy",
+   "note": "Chamomile and valerian are both traditional mild sedatives for restlessness and poor sleep; taken together they may enhance calming and sleep effects but also add to drowsiness.",
+   "references": [
+    "REF-2460"
    ],
    "status": "approved"
   },

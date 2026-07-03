@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 35,
+ "count": 36,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -591,6 +591,21 @@
    "mechanism": "Echinacea can both stimulate immune activity and alter CYP3A/CYP1A2 enzymes, so it may reduce the effect or change the blood levels of immunosuppressant drugs such as ciclosporin and tacrolimus; use only under medical supervision after a transplant or with autoimmune therapy.",
    "references": [
     "REF-2445"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "serenoa-repens",
+   "plant": "Saw Palmetto",
+   "scientific": "Serenoa repens",
+   "common_slug": "saw-palmetto",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Saw palmetto has been linked to prolonged bleeding time, and a case of severe intraoperative haemorrhage was reported in a patient taking it; combining it with anticoagulant or antiplatelet drugs may add to bleeding risk, so stop it before surgery.",
+   "references": [
+    "REF-2458"
    ],
    "status": "approved"
   },

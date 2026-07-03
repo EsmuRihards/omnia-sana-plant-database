@@ -163,6 +163,16 @@ references:
 - REF-1200
 - REF-1201
 - REF-1202
+pairings:
+- partner_id: passiflora-incarnata
+  type: synergy
+  note: 'Lemon balm and passionflower are both gentle, GABA-acting calming herbs often blended together in anti-anxiety and sleep formulas; combined use may deepen relaxation but also add to drowsiness.'
+  reference_ids:
+  - REF-2459
+  - REF-2460
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

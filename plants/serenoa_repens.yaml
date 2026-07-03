@@ -89,6 +89,15 @@ references:
 - REF-1893
 - REF-1894
 - REF-1895
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Saw palmetto has been linked to prolonged bleeding time, and a case of severe intraoperative haemorrhage was reported in a patient taking it; combining it with anticoagulant or antiplatelet drugs may add to bleeding risk, so stop it before surgery.'
+  reference_ids:
+  - REF-2458
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

@@ -338,6 +338,23 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+pairings:
+- partner_id: valeriana-officinalis
+  type: synergy
+  note: 'Chamomile and valerian are both traditional mild sedatives for restlessness and poor sleep; taken together they may enhance calming and sleep effects but also add to drowsiness.'
+  reference_ids:
+  - REF-2460
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: melissa-officinalis
+  type: synergy
+  note: 'Chamomile and lemon balm are both gentle calming herbs commonly combined for stress and sleep; used together their mild sedative effects may add up.'
+  reference_ids:
+  - REF-2460
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-27'

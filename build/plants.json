@@ -7577,6 +7577,20 @@
     "REF-1969",
     "REF-1970"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antihypertensives",
+     "severity": "caution",
+     "mechanism": "Green tea catechins block an intestinal uptake transporter (OATP1A2) that some blood-pressure medicines rely on for absorption. In a controlled study, drinking green tea cut blood levels of the beta-blocker nadolol by about 85% and blunted its blood-pressure-lowering effect. If you take nadolol (or other OATP-transported medicines), separate green tea from the dose by several hours and keep intake consistent; watch that your blood pressure stays controlled.",
+     "reference_ids": [
+      "REF-2510",
+      "REF-2511"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -16665,9 +16679,12 @@
     {
      "drug_class": "antihypertensives",
      "severity": "caution",
-     "mechanism": "Licorice (glycyrrhizin) can cause sodium retention, potassium loss and raised blood pressure (pseudoaldosteronism), which can oppose blood-pressure medicines and add to potassium loss from diuretics.",
+     "mechanism": "Licorice (glycyrrhizic acid) can cause sodium retention, potassium loss and raised blood pressure (pseudoaldosteronism), which can oppose blood-pressure medicines. Meta-analyses of randomised trials confirm that glycyrrhizic acid raises systolic and diastolic blood pressure, and a crossover trial found this even at a low daily dose (100 mg). Avoid regular or high licorice intake if you take blood-pressure medicines.",
      "reference_ids": [
-      "REF-2439"
+      "REF-2439",
+      "REF-2508",
+      "REF-2507",
+      "REF-2509"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -16676,9 +16693,21 @@
     {
      "drug_class": "cardiac-glycosides",
      "severity": "caution",
-     "mechanism": "Licorice-induced potassium loss can increase the risk of digoxin toxicity; avoid regular or high intake.",
+     "mechanism": "Licorice-induced potassium loss can increase the risk of digoxin toxicity; a meta-analysis confirms licorice lowers plasma potassium, and low potassium makes the heart more sensitive to cardiac glycosides. Avoid regular or high intake.",
      "reference_ids": [
-      "REF-2439"
+      "REF-2439",
+      "REF-2508"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "diuretics",
+     "severity": "caution",
+     "mechanism": "Licorice (glycyrrhizic acid) causes the body to lose potassium; combined with potassium-wasting water tablets (thiazide or loop diuretics such as hydrochlorothiazide or furosemide) this can add up to dangerously low potassium, which a meta-analysis confirms licorice lowers. Licorice also works against potassium-sparing diuretics such as spironolactone by mimicking aldosterone. Avoid regular or high licorice intake with any diuretic.",
+     "reference_ids": [
+      "REF-2508"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",

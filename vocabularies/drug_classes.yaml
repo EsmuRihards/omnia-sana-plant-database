@@ -30,6 +30,12 @@
   category: cardiovascular
   examples: ["digoxin", "digitoxin"]
   synonyms: ["digoxin"]
+- id: diuretics
+  label: Diuretics (water tablets)
+  consumer_description: Medicines that increase urine output to remove excess fluid and lower blood pressure.
+  category: cardiovascular
+  examples: ["furosemide", "bumetanide", "hydrochlorothiazide", "indapamide", "spironolactone", "amiloride"]
+  synonyms: ["water tablet", "water pill", "diuretic", "furosemide", "thiazide", "loop diuretic", "spironolactone"]
 - id: statins
   label: Statins (cholesterol-lowering)
   consumer_description: Medicines that lower cholesterol.

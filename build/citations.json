@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2506,
+ "count": 2511,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2346,6 +2346,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2509",
+   "key": "afgeijerstam2024licorice",
+   "type": "article",
+   "title": "A low dose of daily licorice intake affects renin, aldosterone, and home blood pressure in a randomized crossover trial",
+   "authors": "af Geijerstam, P., Joelsson, A., Radholm, K. and Nystrom, F.H.",
+   "journal": "The American Journal of Clinical Nutrition",
+   "year": "2024",
+   "doi": "10.1016/j.ajcnut.2024.01.011",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ajcnut.2024.01.011",
+   "link_type": "doi",
+   "citation": "af Geijerstam, P., Joelsson, A., Radholm, K. and Nystrom, F.H (2024) 'A low dose of daily licorice intake affects renin, aldosterone, and home blood pressure in a randomized crossover trial', The American Journal of Clinical Nutrition, 119(3), pp. 682-691. doi:10.1016/j.ajcnut.2024.01.011",
+   "abstract": "Randomized crossover trial in 28 healthy volunteers: a daily licorice intake containing only 100 mg glycyrrhizic acid significantly raised systolic home blood pressure (+3.1 mmHg) and suppressed renin (-30%) and aldosterone (-45%) versus control, indicating licorice is more potent at raising blood pressure than previously thought.",
+   "tier": "rct",
+   "display": "A low dose of daily licorice intake affects renin, aldosterone, and home blood pressure in a randomized crossover trial",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0732",
    "key": "trinh2024vulgaris",
    "type": "article",
@@ -4039,6 +4066,33 @@
    "actions": [
     "Vulnerary (wound healing)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2507",
+   "key": "wu2024licorice",
+   "type": "article",
+   "title": "Effects of licorice functional components intakes on blood pressure: a systematic review with meta-analysis and network toxicology",
+   "authors": "Wu, T., Yang, J., Xia, J. and Sun, G.",
+   "journal": "Nutrients",
+   "year": "2024",
+   "doi": "10.3390/nu16213768",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu16213768",
+   "link_type": "doi",
+   "citation": "Wu, T., Yang, J., Xia, J. and Sun, G (2024) 'Effects of licorice functional components intakes on blood pressure: a systematic review with meta-analysis and network toxicology', Nutrients, 16(21), pp. 3768. doi:10.3390/nu16213768",
+   "abstract": "Systematic review and meta-analysis of 8 randomized controlled trials (541 participants): licorice interventions dominated by glycyrrhizic acid significantly increased systolic (WMD +3.48 mmHg) and diastolic (WMD +1.27 mmHg) blood pressure, whereas licorice flavonoid interventions did not. Evidence that glycyrrhizic acid raises blood pressure and can oppose antihypertensive medicines.",
+   "tier": "review",
+   "display": "Effects of licorice functional components intakes on blood pressure: a systematic review with meta-analysis and network toxicology",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -39741,6 +39795,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2511",
+   "key": "werba2018greentea",
+   "type": "article",
+   "title": "Update of green tea interactions with cardiovascular drugs and putative mechanisms",
+   "authors": "Werba, J.P., Misaka, S., Giroli, M.G., Shimomura, K., Amato, M., Simonelli, N., Vigo, L. and Tremoli, E.",
+   "journal": "Journal of Food and Drug Analysis",
+   "year": "2018",
+   "doi": "10.1016/j.jfda.2018.01.008",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jfda.2018.01.008",
+   "link_type": "doi",
+   "citation": "Werba, J.P., Misaka, S., Giroli, M.G., Shimomura, K., Amato, M., Simonelli, N., Vigo, L. and Tremoli, E (2018) 'Update of green tea interactions with cardiovascular drugs and putative mechanisms', Journal of Food and Drug Analysis, 26(2S), pp. S72-S77. doi:10.1016/j.jfda.2018.01.008",
+   "abstract": "Review of green tea interactions with cardiovascular drugs. Green tea catechins inhibit intestinal influx transporters (OATP1A2/OATP2B1) and CYP3A, reducing plasma exposure to nadolol, simvastatin, rosuvastatin and sildenafil in pharmacokinetic studies, with case reports for warfarin and tacrolimus. Effects were mild to moderate with high inter-individual variability. Supports cautioning green tea with cardiovascular medicines, especially the beta-blocker nadolol.",
+   "tier": "review",
+   "display": "Update of green tea interactions with cardiovascular drugs and putative mechanisms",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1241",
    "key": "scalas2018pinus",
    "type": "article",
@@ -42728,6 +42811,33 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2508",
+   "key": "penninkilampi2017licorice",
+   "type": "article",
+   "title": "The association between consistent licorice ingestion, hypertension and hypokalaemia: a systematic review and meta-analysis",
+   "authors": "Penninkilampi, R., Eslick, E.M. and Eslick, G.D.",
+   "journal": "Journal of Human Hypertension",
+   "year": "2017",
+   "doi": "10.1038/jhh.2017.45",
+   "url": "",
+   "link": "https://doi.org/10.1038/jhh.2017.45",
+   "link_type": "doi",
+   "citation": "Penninkilampi, R., Eslick, E.M. and Eslick, G.D (2017) 'The association between consistent licorice ingestion, hypertension and hypokalaemia: a systematic review and meta-analysis', Journal of Human Hypertension, 31(11), pp. 699-707. doi:10.1038/jhh.2017.45",
+   "abstract": "Systematic review and meta-analysis of 18 studies (n=337): chronic ingestion of a product containing at least 100 mg glycyrrhizic acid daily significantly increased systolic (+5.45 mmHg) and diastolic (+3.19 mmHg) blood pressure and significantly decreased plasma potassium (-0.33 mmol/L), renin and aldosterone, dose-dependently even at modest doses. Evidence that licorice raises blood pressure and lowers potassium - relevant to antihypertensives, digoxin (cardiac glycosides) and potassium-wasting diuretics.",
+   "tier": "review",
+   "display": "The association between consistent licorice ingestion, hypertension and hypokalaemia: a systematic review and meta-analysis",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -51698,6 +51808,35 @@
     "Muscle soreness",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2510",
+   "key": "misaka2014greentea",
+   "type": "article",
+   "title": "Green tea ingestion greatly reduces plasma concentrations of nadolol in healthy subjects",
+   "authors": "Misaka, S., Yatabe, J., Muller, F., Takano, K., Kawabe, K., Glaeser, H., Yatabe, M.S., Onoue, S., Werba, J.P., Watanabe, H., Yamada, S., Fromm, M.F. and Kimura, J.",
+   "journal": "Clinical Pharmacology and Therapeutics",
+   "year": "2014",
+   "doi": "10.1038/clpt.2013.241",
+   "url": "",
+   "link": "https://doi.org/10.1038/clpt.2013.241",
+   "link_type": "doi",
+   "citation": "Misaka, S., Yatabe, J., Muller, F., Takano, K., Kawabe, K., Glaeser, H., Yatabe, M.S., Onoue, S., Werba, J.P., Watanabe, H., Yamada, S., Fromm, M.F. and Kimura, J (2014) 'Green tea ingestion greatly reduces plasma concentrations of nadolol in healthy subjects', Clinical Pharmacology and Therapeutics, 95(4), pp. 432-438. doi:10.1038/clpt.2013.241",
+   "abstract": "Randomized crossover study in 10 healthy volunteers: 14 days of green tea (700 mL/day) reduced the maximum plasma concentration and AUC of the beta-blocker nadolol by about 85 percent and significantly blunted its systolic blood-pressure-lowering effect, without changing renal clearance. Mechanism: green tea catechins inhibit OATP1A2-mediated intestinal uptake of nadolol. Evidence that green tea can markedly reduce the absorption and effect of the antihypertensive nadolol.",
+   "tier": "rct",
+   "display": "Green tea ingestion greatly reduces plasma concentrations of nadolol in healthy subjects",
+   "plants": [
+    "Tea",
+    "black tea",
+    "green tea",
+    "oolong",
+    "white tea"
+   ],
+   "scientific": [
+    "Camellia sinensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0108",

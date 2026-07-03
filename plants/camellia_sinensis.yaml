@@ -137,6 +137,16 @@ references:
 - REF-1968
 - REF-1969
 - REF-1970
+drug_class_interactions:
+- drug_class: antihypertensives
+  severity: caution
+  mechanism: 'Green tea catechins block an intestinal uptake transporter (OATP1A2) that some blood-pressure medicines rely on for absorption. In a controlled study, drinking green tea cut blood levels of the beta-blocker nadolol by about 85% and blunted its blood-pressure-lowering effect. If you take nadolol (or other OATP-transported medicines), separate green tea from the dose by several hours and keep intake consistent; watch that your blood pressure stays controlled.'
+  reference_ids:
+  - REF-2510
+  - REF-2511
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

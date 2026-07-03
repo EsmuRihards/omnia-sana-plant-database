@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 63,
+ "count": 67,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -516,6 +516,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "ocimum-tenuiflorum",
+   "plant": "Holy Basil",
+   "scientific": "Ocimum tenuiflorum",
+   "common_slug": "holy-basil",
+   "wp_post_id": 154,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Holy basil (tulsi) can lower fasting and after-meal blood glucose in people with type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+   "references": [
+    "REF-2499",
+    "REF-2498"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "humulus-lupulus",
    "plant": "Hop",
    "scientific": "Humulus lupulus",
@@ -683,6 +699,22 @@
    "mechanism": "Milk thistle (silymarin) was once thought to inhibit the CYP3A4 enzyme, but a controlled human study found no meaningful effect on a CYP3A4 test drug, so clinically important interactions with CYP3A4-metabolised medicines are unlikely at usual doses.",
    "references": [
     "REF-2455"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "leonurus-cardiaca",
+   "plant": "Motherwort",
+   "scientific": "Leonurus cardiaca",
+   "common_slug": "motherwort",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Motherwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   },
@@ -1021,6 +1053,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "scutellaria-lateriflora",
+   "plant": "Skullcap",
+   "scientific": "Scutellaria lateriflora",
+   "common_slug": "skullcap",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Skullcap is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "cinnamomum-verum",
    "plant": "True Cinnamon",
    "scientific": "Cinnamomum verum",
@@ -1078,6 +1126,22 @@
    "mechanism": "Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect of CNS depressants, sleep medicines, benzodiazepines and alcohol.",
    "references": [
     "REF-2440"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "lactuca-virosa",
+   "plant": "Wild Lettuce",
+   "scientific": "Lactuca virosa",
+   "common_slug": "wild-lettuce",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Wild lettuce is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   }

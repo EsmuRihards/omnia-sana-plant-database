@@ -19751,6 +19751,20 @@
     "REF-2063",
     "REF-2064"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Wild lettuce is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
    "last_updated": "2026-06-20",
@@ -21024,6 +21038,20 @@
     "REF-0867",
     "REF-0868",
     "REF-0869"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Motherwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -24516,6 +24544,20 @@
     "REF-1434",
     "REF-1435",
     "REF-1436"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antidiabetics",
+     "severity": "caution",
+     "mechanism": "Holy basil (tulsi) can lower fasting and after-meal blood glucose in people with type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+     "reference_ids": [
+      "REF-2499",
+      "REF-2498"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "website+pubmed",
    "status": "verified",
@@ -33364,6 +33406,20 @@
     "REF-1569",
     "REF-1570",
     "REF-1571"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Skullcap is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",

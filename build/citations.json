@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2497,
+ "count": 2499,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -7078,6 +7078,9 @@
    "tier": "review",
    "display": "Therapeutic potential of hypnotic herbal medicines: A comprehensive review",
    "plants": [
+    "American skullcap",
+    "Bitter lettuce",
+    "Blue skullcap",
     "California Poppy",
     "Chamomile",
     "Cup of gold",
@@ -7086,31 +7089,42 @@
     "Golden poppy",
     "Hop",
     "Hops",
+    "Lactucarium",
     "Lavender",
     "Lemon balm",
+    "Mad-dog skullcap",
     "Maypop",
+    "Motherwort",
+    "Opium lettuce",
     "Passion vine",
     "Passionflower",
     "Purple passionflower",
     "Scented Mayweed",
+    "Skullcap",
     "Valerian",
+    "Wild Lettuce",
     "bee balm",
     "blue chamomile",
     "common hop",
     "common valerian",
     "garden valerian",
     "hop vine",
+    "lion's tail",
     "sweet balm",
+    "throw-wort",
     "true lavender",
     "wild chamomile"
    ],
    "scientific": [
     "Eschscholzia californica",
     "Humulus lupulus",
+    "Lactuca virosa",
     "Lavandula angustifolia",
+    "Leonurus cardiaca",
     "Matricaria chamomilla",
     "Melissa officinalis",
     "Passiflora incarnata",
+    "Scutellaria lateriflora",
     "Valeriana officinalis"
    ],
    "actions": [],
@@ -42640,6 +42654,33 @@
    ]
   },
   {
+   "ref_id": "REF-2499",
+   "key": "jamshidi2017tulsi",
+   "type": "article",
+   "title": "The Clinical Efficacy and Safety of Tulsi in Humans: A Systematic Review of the Literature",
+   "authors": "Jamshidi, N. and Cohen, M.M.",
+   "journal": "Evidence-Based Complementary and Alternative Medicine",
+   "year": "2017",
+   "doi": "10.1155/2017/9217567",
+   "url": "",
+   "link": "https://doi.org/10.1155/2017/9217567",
+   "link_type": "doi",
+   "citation": "Jamshidi, N. and Cohen, M.M (2017) 'The Clinical Efficacy and Safety of Tulsi in Humans: A Systematic Review of the Literature', Evidence-Based Complementary and Alternative Medicine, 2017, pp. 9217567. doi:10.1155/2017/9217567",
+   "abstract": "Systematic review of 24 human studies of tulsi (holy basil, Ocimum sanctum) reporting favourable clinical outcomes on metabolic disorders (including diabetes and metabolic syndrome), cardiovascular disease, immunity and neurocognition, with no significant adverse events. Supports that tulsi lowers blood glucose and may add to the effect of antidiabetic medicines.",
+   "tier": "review",
+   "display": "The Clinical Efficacy and Safety of Tulsi in Humans: A Systematic Review of the Literature",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1676",
    "key": "masoumiardakani2017cardamom",
    "type": "article",
@@ -68055,7 +68096,10 @@
    "tier": "review",
    "display": "Safety and efficacy of herbal sedatives in cancer care",
    "plants": [
+    "American skullcap",
     "Awa",
+    "Bitter lettuce",
+    "Blue skullcap",
     "California Poppy",
     "Chamomile",
     "Cup of gold",
@@ -68067,30 +68111,41 @@
     "Kava",
     "Kava Kava",
     "Kawa",
+    "Lactucarium",
     "Lavender",
     "Lemon balm",
+    "Mad-dog skullcap",
     "Maypop",
+    "Motherwort",
+    "Opium lettuce",
     "Passion vine",
     "Passionflower",
     "Purple passionflower",
     "Scented Mayweed",
+    "Skullcap",
+    "Wild Lettuce",
     "Yaqona",
     "bee balm",
     "blue chamomile",
     "common hop",
     "hop vine",
+    "lion's tail",
     "sweet balm",
+    "throw-wort",
     "true lavender",
     "wild chamomile"
    ],
    "scientific": [
     "Eschscholzia californica",
     "Humulus lupulus",
+    "Lactuca virosa",
     "Lavandula angustifolia",
+    "Leonurus cardiaca",
     "Matricaria chamomilla",
     "Melissa officinalis",
     "Passiflora incarnata",
-    "Piper methysticum"
+    "Piper methysticum",
+    "Scutellaria lateriflora"
    ],
    "actions": [
     "Sedative / sleep support"
@@ -73350,6 +73405,33 @@
     "Cognitive function",
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-2498",
+   "key": "agrawal1996holybasil",
+   "type": "article",
+   "title": "Randomized placebo-controlled, single blind trial of holy basil leaves in patients with noninsulin-dependent diabetes mellitus",
+   "authors": "Agrawal, P., Rai, V. and Singh, R.B.",
+   "journal": "International Journal of Clinical Pharmacology and Therapeutics",
+   "year": "1996",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Randomized%20placebo-controlled%2C%20single%20blind%20trial%20of%20holy%20basil%20leaves%20in%20patients%20with%20noninsulin-dependent%20diabetes%20mellitus",
+   "link_type": "search",
+   "citation": "Agrawal, P., Rai, V. and Singh, R.B (1996) 'Randomized placebo-controlled, single blind trial of holy basil leaves in patients with noninsulin-dependent diabetes mellitus', International Journal of Clinical Pharmacology and Therapeutics, 34(9), pp. 406-409.",
+   "abstract": "Randomized, placebo-controlled, single-blind crossover trial finding that holy basil (Ocimum sanctum) leaves significantly reduced fasting blood glucose (by 21 mg/dL, 17.6%) and postprandial blood glucose (15.8 mg/dL, 7.3%) compared with placebo in patients with non-insulin-dependent diabetes. Direct human evidence that holy basil lowers blood glucose and may add to antidiabetic medicines.",
+   "tier": "rct",
+   "display": "Randomized placebo-controlled, single blind trial of holy basil leaves in patients with noninsulin-dependent diabetes mellitus",
+   "plants": [
+    "Holy Basil",
+    "Sacred basil",
+    "Tulsi"
+   ],
+   "scientific": [
+    "Ocimum tenuiflorum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0048",

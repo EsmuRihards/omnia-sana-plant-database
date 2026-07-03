@@ -476,9 +476,10 @@
    "drug_class": "anticoagulants-antiplatelets",
    "drug_class_label": "Anticoagulants / antiplatelets",
    "severity": "caution",
-   "mechanism": "Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; bleeding has been reported. Stop before surgery.",
+   "mechanism": "Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; a systematic review of case reports links ginkgo to spontaneous bleeding (including intracranial bleeds) with elevated bleeding times. Stop before surgery.",
    "references": [
-    "REF-2436"
+    "REF-2436",
+    "REF-2529"
    ],
    "status": "approved"
   },

@@ -306,6 +306,15 @@ pairings:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+- partner_id: tanacetum-parthenium
+  type: caution
+  note: 'Garlic and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  reference_ids:
+  - REF-2457
+  - REF-2444
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

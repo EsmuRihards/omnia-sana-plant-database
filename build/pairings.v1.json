@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 58,
+ "count": 66,
  "pairings": [
   {
    "herb_id": "withania-somnifera",
@@ -121,11 +121,72 @@
    "herb_id": "tanacetum-parthenium",
    "herb": "Feverfew",
    "herb_slug": "feverfew",
+   "partner_id": "allium-sativum",
+   "partner": "Garlic",
+   "partner_slug": "garlic",
+   "type": "caution",
+   "note": "Garlic and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "tanacetum-parthenium",
+   "herb": "Feverfew",
+   "herb_slug": "feverfew",
+   "partner_id": "zingiber-officinale",
+   "partner": "Ginger",
+   "partner_slug": "ginger",
+   "type": "caution",
+   "note": "Feverfew and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2444",
+    "REF-2443"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "tanacetum-parthenium",
+   "herb": "Feverfew",
+   "herb_slug": "feverfew",
    "partner_id": "ginkgo-biloba",
    "partner": "Ginko",
    "partner_slug": "ginko",
    "type": "caution",
    "note": "Ginkgo and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "tanacetum-parthenium",
+   "herb": "Feverfew",
+   "herb_slug": "feverfew",
+   "partner_id": "panax-ginseng",
+   "partner": "Panax Ginseng",
+   "partner_slug": "panax-ginseng",
+   "type": "caution",
+   "note": "Ginseng and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "allium-sativum",
+   "herb": "Garlic",
+   "herb_slug": "garlic",
+   "partner_id": "tanacetum-parthenium",
+   "partner": "Feverfew",
+   "partner_slug": "feverfew",
+   "type": "caution",
+   "note": "Garlic and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
    "references": [
     "REF-2457",
     "REF-2444"
@@ -180,6 +241,22 @@
    "herb_id": "zingiber-officinale",
    "herb": "Ginger",
    "herb_slug": "ginger",
+   "partner_id": "tanacetum-parthenium",
+   "partner": "Feverfew",
+   "partner_slug": "feverfew",
+   "type": "caution",
+   "note": "Feverfew and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2444",
+    "REF-2443"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "zingiber-officinale",
+   "herb": "Ginger",
+   "herb_slug": "ginger",
    "partner_id": "allium-sativum",
    "partner": "Garlic",
    "partner_slug": "garlic",
@@ -200,6 +277,21 @@
    "partner_slug": "ginko",
    "type": "caution",
    "note": "Ginkgo and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2443"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "zingiber-officinale",
+   "herb": "Ginger",
+   "herb_slug": "ginger",
+   "partner_id": "panax-ginseng",
+   "partner": "Panax Ginseng",
+   "partner_slug": "panax-ginseng",
+   "type": "caution",
+   "note": "Ginseng and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
    "references": [
     "REF-2457",
     "REF-2443"
@@ -472,6 +564,21 @@
    "herb_id": "panax-ginseng",
    "herb": "Panax Ginseng",
    "herb_slug": "panax-ginseng",
+   "partner_id": "tanacetum-parthenium",
+   "partner": "Feverfew",
+   "partner_slug": "feverfew",
+   "type": "caution",
+   "note": "Ginseng and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "panax-ginseng",
+   "herb": "Panax Ginseng",
+   "herb_slug": "panax-ginseng",
    "partner_id": "allium-sativum",
    "partner": "Garlic",
    "partner_slug": "garlic",
@@ -479,6 +586,21 @@
    "note": "Garlic and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
    "references": [
     "REF-2457"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "panax-ginseng",
+   "herb": "Panax Ginseng",
+   "herb_slug": "panax-ginseng",
+   "partner_id": "zingiber-officinale",
+   "partner": "Ginger",
+   "partner_slug": "ginger",
+   "type": "caution",
+   "note": "Ginseng and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2443"
    ],
    "status": "approved"
   },

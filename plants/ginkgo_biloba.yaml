@@ -114,9 +114,10 @@ references:
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; bleeding has been reported. Stop before surgery.'
+  mechanism: 'Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; a systematic review of case reports links ginkgo to spontaneous bleeding (including intracranial bleeds) with elevated bleeding times. Stop before surgery.'
   reference_ids:
   - REF-2436
+  - REF-2529
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

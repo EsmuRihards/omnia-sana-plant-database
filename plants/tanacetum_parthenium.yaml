@@ -126,6 +126,17 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+pairings:
+- partner_id: zingiber-officinale
+  type: caution
+  note: 'Feverfew and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  reference_ids:
+  - REF-2457
+  - REF-2444
+  - REF-2443
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

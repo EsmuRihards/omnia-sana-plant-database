@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2528,
+ "count": 2529,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -67520,10 +67520,18 @@
    "tier": "rct",
    "display": "Effect of ginkgo and ginger on the pharmacokinetics and pharmacodynamics of warfarin in healthy subjects",
    "plants": [
+    "Asian ginseng",
+    "Bachelor's buttons",
+    "Chinese ginseng",
+    "Featherfew",
+    "Feverfew",
     "Garlic",
     "Ginger",
     "Ginkgo",
     "Ginko",
+    "Korean ginseng",
+    "Midsummer daisy",
+    "Panax Ginseng",
     "common garlic",
     "common ginger",
     "cultivated garlic",
@@ -67534,6 +67542,8 @@
    "scientific": [
     "Allium sativum",
     "Ginkgo biloba",
+    "Panax ginseng",
+    "Tanacetum parthenium",
     "Zingiber officinale"
    ],
    "actions": [],
@@ -67885,6 +67895,34 @@
    "conditions": [
     "Respiratory support"
    ]
+  },
+  {
+   "ref_id": "REF-2529",
+   "key": "bent2005ginkgo",
+   "type": "article",
+   "title": "Spontaneous bleeding associated with ginkgo biloba: a case report and systematic review of the literature",
+   "authors": "Bent, S., Goldberg, H., Padula, A. and Avins, A.L.",
+   "journal": "Journal of General Internal Medicine",
+   "year": "2005",
+   "doi": "10.1111/j.1525-1497.2005.0121.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1525-1497.2005.0121.x",
+   "link_type": "doi",
+   "citation": "Bent, S., Goldberg, H., Padula, A. and Avins, A.L (2005) 'Spontaneous bleeding associated with ginkgo biloba: a case report and systematic review of the literature', Journal of General Internal Medicine, 20(7), pp. 657-661. doi:10.1111/j.1525-1497.2005.0121.x",
+   "abstract": "Case report plus systematic review of the literature: 15 published case reports describe a temporal association between ginkgo biloba use and bleeding events, including 8 intracranial bleeds, and measured bleeding times were elevated while taking ginkgo. Suggests a possible causal link between ginkgo and bleeding, so patients with bleeding risks should be counselled - supports cautioning ginkgo with anticoagulant/antiplatelet drugs and with other antiplatelet herbs.",
+   "tier": "review",
+   "display": "Spontaneous bleeding associated with ginkgo biloba: a case report and systematic review of the literature",
+   "plants": [
+    "Ginkgo",
+    "Ginko",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0403",
@@ -72151,9 +72189,17 @@
    "tier": "review",
    "display": "Herbal medicines and perioperative care",
    "plants": [
+    "Asian ginseng",
+    "Bachelor's buttons",
+    "Chinese ginseng",
+    "Featherfew",
+    "Feverfew",
     "Garlic",
     "Ginkgo",
     "Ginko",
+    "Korean ginseng",
+    "Midsummer daisy",
+    "Panax Ginseng",
     "common garlic",
     "cultivated garlic",
     "ginkgo biloba",
@@ -72161,7 +72207,9 @@
    ],
    "scientific": [
     "Allium sativum",
-    "Ginkgo biloba"
+    "Ginkgo biloba",
+    "Panax ginseng",
+    "Tanacetum parthenium"
    ],
    "actions": [],
    "conditions": []
@@ -74774,17 +74822,26 @@
    "tier": "preclinical",
    "display": "A comparison of the effects of an extract of feverfew and parthenolide, a component of feverfew, on human platelet activity in-vitro",
    "plants": [
+    "Asian ginseng",
     "Bachelor's buttons",
+    "Chinese ginseng",
     "Featherfew",
     "Feverfew",
+    "Garlic",
     "Ginkgo",
     "Ginko",
+    "Korean ginseng",
     "Midsummer daisy",
+    "Panax Ginseng",
+    "common garlic",
+    "cultivated garlic",
     "ginkgo biloba",
     "maidenhair tree"
    ],
    "scientific": [
+    "Allium sativum",
     "Ginkgo biloba",
+    "Panax ginseng",
     "Tanacetum parthenium"
    ],
    "actions": [],

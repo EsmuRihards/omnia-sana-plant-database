@@ -2210,6 +2210,18 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "tanacetum-parthenium",
+     "type": "caution",
+     "note": "Garlic and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+     "reference_ids": [
+      "REF-2457",
+      "REF-2444"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
     }
    ],
    "provenance": "book+pubmed",
@@ -16285,9 +16297,10 @@
     {
      "drug_class": "anticoagulants-antiplatelets",
      "severity": "caution",
-     "mechanism": "Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; bleeding has been reported. Stop before surgery.",
+     "mechanism": "Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; a systematic review of case reports links ginkgo to spontaneous bleeding (including intracranial bleeds) with elevated bleeding times. Stop before surgery.",
      "reference_ids": [
-      "REF-2436"
+      "REF-2436",
+      "REF-2529"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -26178,6 +26191,32 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "pairings": [
+    {
+     "partner_id": "tanacetum-parthenium",
+     "type": "caution",
+     "note": "Ginseng and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+     "reference_ids": [
+      "REF-2457",
+      "REF-2444"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "zingiber-officinale",
+     "type": "caution",
+     "note": "Ginseng and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+     "reference_ids": [
+      "REF-2457",
+      "REF-2443"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -35324,6 +35363,21 @@
      "mechanism": "Feverfew and its component parthenolide inhibit platelet aggregation and serotonin release, so combining it with anticoagulant or antiplatelet drugs may increase bleeding risk.",
      "reference_ids": [
       "REF-2444"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
+   "pairings": [
+    {
+     "partner_id": "zingiber-officinale",
+     "type": "caution",
+     "note": "Feverfew and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+     "reference_ids": [
+      "REF-2457",
+      "REF-2444",
+      "REF-2443"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",

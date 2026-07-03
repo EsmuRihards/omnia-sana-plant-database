@@ -136,6 +136,42 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+pairings:
+- partner_id: allium-sativum
+  type: caution
+  note: 'Ginkgo and garlic both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  reference_ids:
+  - REF-2457
+  - REF-2436
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: zingiber-officinale
+  type: caution
+  note: 'Ginkgo and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  reference_ids:
+  - REF-2457
+  - REF-2443
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: tanacetum-parthenium
+  type: caution
+  note: 'Ginkgo and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  reference_ids:
+  - REF-2457
+  - REF-2444
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: panax-ginseng
+  type: caution
+  note: 'Ginkgo and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  reference_ids:
+  - REF-2457
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

@@ -1,7 +1,155 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 8,
+ "count": 20,
  "pairings": [
+  {
+   "herb_id": "tanacetum-parthenium",
+   "herb": "Feverfew",
+   "herb_slug": "feverfew",
+   "partner_id": "ginkgo-biloba",
+   "partner": "Ginko",
+   "partner_slug": "ginko",
+   "type": "caution",
+   "note": "Ginkgo and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "allium-sativum",
+   "herb": "Garlic",
+   "herb_slug": "garlic",
+   "partner_id": "zingiber-officinale",
+   "partner": "Ginger",
+   "partner_slug": "ginger",
+   "type": "caution",
+   "note": "Garlic and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2443"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "allium-sativum",
+   "herb": "Garlic",
+   "herb_slug": "garlic",
+   "partner_id": "ginkgo-biloba",
+   "partner": "Ginko",
+   "partner_slug": "ginko",
+   "type": "caution",
+   "note": "Ginkgo and garlic both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "allium-sativum",
+   "herb": "Garlic",
+   "herb_slug": "garlic",
+   "partner_id": "panax-ginseng",
+   "partner": "Panax Ginseng",
+   "partner_slug": "panax-ginseng",
+   "type": "caution",
+   "note": "Garlic and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "zingiber-officinale",
+   "herb": "Ginger",
+   "herb_slug": "ginger",
+   "partner_id": "allium-sativum",
+   "partner": "Garlic",
+   "partner_slug": "garlic",
+   "type": "caution",
+   "note": "Garlic and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2443"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "zingiber-officinale",
+   "herb": "Ginger",
+   "herb_slug": "ginger",
+   "partner_id": "ginkgo-biloba",
+   "partner": "Ginko",
+   "partner_slug": "ginko",
+   "type": "caution",
+   "note": "Ginkgo and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2443"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "ginkgo-biloba",
+   "herb": "Ginko",
+   "herb_slug": "ginko",
+   "partner_id": "tanacetum-parthenium",
+   "partner": "Feverfew",
+   "partner_slug": "feverfew",
+   "type": "caution",
+   "note": "Ginkgo and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "ginkgo-biloba",
+   "herb": "Ginko",
+   "herb_slug": "ginko",
+   "partner_id": "allium-sativum",
+   "partner": "Garlic",
+   "partner_slug": "garlic",
+   "type": "caution",
+   "note": "Ginkgo and garlic both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "ginkgo-biloba",
+   "herb": "Ginko",
+   "herb_slug": "ginko",
+   "partner_id": "zingiber-officinale",
+   "partner": "Ginger",
+   "partner_slug": "ginger",
+   "type": "caution",
+   "note": "Ginkgo and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457",
+    "REF-2443"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "ginkgo-biloba",
+   "herb": "Ginko",
+   "herb_slug": "ginko",
+   "partner_id": "panax-ginseng",
+   "partner": "Panax Ginseng",
+   "partner_slug": "panax-ginseng",
+   "type": "caution",
+   "note": "Ginkgo and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457"
+   ],
+   "status": "approved"
+  },
   {
    "herb_id": "humulus-lupulus",
    "herb": "Hop",
@@ -43,6 +191,34 @@
    "note": "Valerian and lemon balm are a classic calming pair acting on the GABA system to improve sleep quality; combined use may increase sedation.",
    "references": [
     "REF-2452"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "panax-ginseng",
+   "herb": "Panax Ginseng",
+   "herb_slug": "panax-ginseng",
+   "partner_id": "allium-sativum",
+   "partner": "Garlic",
+   "partner_slug": "garlic",
+   "type": "caution",
+   "note": "Garlic and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "panax-ginseng",
+   "herb": "Panax Ginseng",
+   "herb_slug": "panax-ginseng",
+   "partner_id": "ginkgo-biloba",
+   "partner": "Ginko",
+   "partner_slug": "ginko",
+   "type": "caution",
+   "note": "Ginkgo and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
+   "references": [
+    "REF-2457"
    ],
    "status": "approved"
   },

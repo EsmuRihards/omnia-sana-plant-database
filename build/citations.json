@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2456,
+ "count": 2457,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -65779,11 +65779,20 @@
    "tier": "rct",
    "display": "Effect of ginkgo and ginger on the pharmacokinetics and pharmacodynamics of warfarin in healthy subjects",
    "plants": [
+    "Garlic",
     "Ginger",
+    "Ginkgo",
+    "Ginko",
+    "common garlic",
     "common ginger",
-    "garden ginger"
+    "cultivated garlic",
+    "garden ginger",
+    "ginkgo biloba",
+    "maidenhair tree"
    ],
    "scientific": [
+    "Allium sativum",
+    "Ginkgo biloba",
     "Zingiber officinale"
    ],
    "actions": [],
@@ -70018,6 +70027,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2457",
+   "key": "anglee2001herbal",
+   "type": "article",
+   "title": "Herbal medicines and perioperative care",
+   "authors": "Ang-Lee, M.K., Moss, J. and Yuan, C.S.",
+   "journal": "JAMA",
+   "year": "2001",
+   "doi": "10.1001/jama.286.2.208",
+   "url": "",
+   "link": "https://doi.org/10.1001/jama.286.2.208",
+   "link_type": "doi",
+   "citation": "Ang-Lee, M.K., Moss, J. and Yuan, C.S (2001) 'Herbal medicines and perioperative care', JAMA, 286(2), pp. 208-216. doi:10.1001/jama.286.2.208",
+   "abstract": "Widely cited JAMA review of commonly used herbal medicines in the perioperative period, documenting direct bleeding risk from garlic, ginkgo and ginseng and advising caution because combining several antiplatelet-acting herbs can add to this bleeding risk around surgery and with anticoagulant drugs.",
+   "tier": "review",
+   "display": "Herbal medicines and perioperative care",
+   "plants": [
+    "Garlic",
+    "Ginkgo",
+    "Ginko",
+    "common garlic",
+    "cultivated garlic",
+    "ginkgo biloba",
+    "maidenhair tree"
+   ],
+   "scientific": [
+    "Allium sativum",
+    "Ginkgo biloba"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1797",
    "key": "kasper2001hypericum",
    "type": "article",
@@ -72490,9 +72531,14 @@
     "Bachelor's buttons",
     "Featherfew",
     "Feverfew",
-    "Midsummer daisy"
+    "Ginkgo",
+    "Ginko",
+    "Midsummer daisy",
+    "ginkgo biloba",
+    "maidenhair tree"
    ],
    "scientific": [
+    "Ginkgo biloba",
     "Tanacetum parthenium"
    ],
    "actions": [],

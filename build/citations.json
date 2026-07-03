@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2538,
+ "count": 2539,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -39914,6 +39914,37 @@
    ]
   },
   {
+   "ref_id": "REF-2539",
+   "key": "haybar2018lemonbalm",
+   "type": "article",
+   "title": "The effects of Melissa officinalis supplementation on depression, anxiety, stress, and sleep disorder in patients with chronic stable angina",
+   "authors": "Haybar, H., Javid, A.Z., Haghighizadeh, M.H., Valizadeh, E., Mohaghegh, S.M. and Mohammadzadeh, A.",
+   "journal": "Clinical Nutrition ESPEN",
+   "year": "2018",
+   "doi": "10.1016/j.clnesp.2018.04.015",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clnesp.2018.04.015",
+   "link_type": "doi",
+   "citation": "Haybar, H., Javid, A.Z., Haghighizadeh, M.H., Valizadeh, E., Mohaghegh, S.M. and Mohammadzadeh, A (2018) 'The effects of Melissa officinalis supplementation on depression, anxiety, stress, and sleep disorder in patients with chronic stable angina', Clinical Nutrition ESPEN, 26, pp. 47-52. doi:10.1016/j.clnesp.2018.04.015",
+   "abstract": "Double-blind randomized placebo-controlled trial in 80 patients: 3 g/day of Melissa officinalis (lemon balm) for 8 weeks significantly reduced depression, anxiety, stress and sleep-disturbance scores versus placebo. Confirms lemon balm has a real calming/sedative effect that may add to sedative and CNS-depressant medicines.",
+   "tier": "rct",
+   "display": "The effects of Melissa officinalis supplementation on depression, anxiety, stress, and sleep disorder in patients with chronic stable angina",
+   "plants": [
+    "English lavender",
+    "Lavender",
+    "Lemon balm",
+    "bee balm",
+    "sweet balm",
+    "true lavender"
+   ],
+   "scientific": [
+    "Lavandula angustifolia",
+    "Melissa officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1218",
    "key": "soomay2018momordica",
    "type": "article",
@@ -61553,12 +61584,16 @@
    "display": "A randomized, double-blind, placebo-controlled trial of oral Matricaria recutita (chamomile) extract therapy for generalized anxiety disorder",
    "plants": [
     "Chamomile",
+    "English lavender",
     "German chamomile",
+    "Lavender",
     "Scented Mayweed",
     "blue chamomile",
+    "true lavender",
     "wild chamomile"
    ],
    "scientific": [
+    "Lavandula angustifolia",
     "Matricaria chamomilla"
    ],
    "actions": [],
@@ -64562,15 +64597,20 @@
    "link": "https://doi.org/10.1002/ptr.2167",
    "link_type": "doi",
    "citation": "Koetter, U., Schrader, E., Kaeufeler, R. and Brattstroem, A (2007) 'A randomized, double blind, placebo-controlled, prospective clinical study to demonstrate clinical efficacy of a fixed valerian hops extract combination (Ze 91019) in patients suffering from non-organic sleep disorder', Phytotherapy Research, 21(9), pp. 847-851. doi:10.1002/ptr.2167",
-   "abstract": "Randomised double-blind placebo-controlled trial showing a fixed valerian-hops extract combination significantly reduced sleep latency in non-organic insomnia whereas valerian alone did not, demonstrating that adding hops to valerian enhances the sedative sleep-promoting effect.",
+   "abstract": "Randomized, double-blind, placebo-controlled trial in patients with non-organic insomnia: a fixed valerian-hops extract combination (Ze 91019) significantly reduced sleep latency versus placebo, whereas the single valerian extract did not, supporting the sedative/hypnotic effect of the valerian-hops combination.",
    "tier": "rct",
    "display": "A randomized, double blind, placebo-controlled, prospective clinical study to demonstrate clinical efficacy of a fixed valerian hops extract combination (Ze 91019) in patients suffering from non-organic sleep disorder",
    "plants": [
+    "Hop",
+    "Hops",
     "Valerian",
+    "common hop",
     "common valerian",
-    "garden valerian"
+    "garden valerian",
+    "hop vine"
    ],
    "scientific": [
+    "Humulus lupulus",
     "Valeriana officinalis"
    ],
    "actions": [],
@@ -67271,11 +67311,15 @@
    "tier": "review",
    "display": "Valerian for sleep: a systematic review and meta-analysis",
    "plants": [
+    "English lavender",
+    "Lavender",
     "Valerian",
     "common valerian",
-    "garden valerian"
+    "garden valerian",
+    "true lavender"
    ],
    "scientific": [
+    "Lavandula angustifolia",
     "Valeriana officinalis"
    ],
    "actions": [],

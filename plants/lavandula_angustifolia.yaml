@@ -167,6 +167,34 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+pairings:
+- partner_id: valeriana-officinalis
+  type: synergy
+  note: 'Lavender and valerian are both calming herbs used to aid relaxation and sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.'
+  reference_ids:
+  - REF-2531
+  - REF-2533
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: melissa-officinalis
+  type: synergy
+  note: 'Lavender and lemon balm are both calming herbs used to ease anxiety and aid sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.'
+  reference_ids:
+  - REF-2531
+  - REF-2539
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: matricaria-chamomilla
+  type: synergy
+  note: 'Lavender and chamomile are both calming herbs used to ease anxiety and aid sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.'
+  reference_ids:
+  - REF-2531
+  - REF-2532
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

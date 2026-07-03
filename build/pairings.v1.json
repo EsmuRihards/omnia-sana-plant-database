@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 82,
+ "count": 88,
  "pairings": [
   {
    "herb_id": "withania-somnifera",
@@ -147,6 +147,21 @@
    "note": "Gymnema and cassia cinnamon are both used to lower blood sugar; together their effects may add up, so watch for low blood sugar when combining them or using them with diabetes medication.",
    "references": [
     "REF-2467"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "matricaria-chamomilla",
+   "herb": "Chamomile",
+   "herb_slug": "chamomile",
+   "partner_id": "lavandula-angustifolia",
+   "partner": "Lavender",
+   "partner_slug": "lavender",
+   "type": "synergy",
+   "note": "Lavender and chamomile are both calming herbs used to ease anxiety and aid sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.",
+   "references": [
+    "REF-2531",
+    "REF-2532"
    ],
    "status": "approved"
   },
@@ -683,6 +698,51 @@
    "status": "approved"
   },
   {
+   "herb_id": "lavandula-angustifolia",
+   "herb": "Lavender",
+   "herb_slug": "lavender",
+   "partner_id": "matricaria-chamomilla",
+   "partner": "Chamomile",
+   "partner_slug": "chamomile",
+   "type": "synergy",
+   "note": "Lavender and chamomile are both calming herbs used to ease anxiety and aid sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.",
+   "references": [
+    "REF-2531",
+    "REF-2532"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "lavandula-angustifolia",
+   "herb": "Lavender",
+   "herb_slug": "lavender",
+   "partner_id": "melissa-officinalis",
+   "partner": "Lemon balm",
+   "partner_slug": "lemon-balm",
+   "type": "synergy",
+   "note": "Lavender and lemon balm are both calming herbs used to ease anxiety and aid sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.",
+   "references": [
+    "REF-2531",
+    "REF-2539"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "lavandula-angustifolia",
+   "herb": "Lavender",
+   "herb_slug": "lavender",
+   "partner_id": "valeriana-officinalis",
+   "partner": "Valerian",
+   "partner_slug": "valerian",
+   "type": "synergy",
+   "note": "Lavender and valerian are both calming herbs used to aid relaxation and sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.",
+   "references": [
+    "REF-2531",
+    "REF-2533"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "melissa-officinalis",
    "herb": "Lemon balm",
    "herb_slug": "lemon-balm",
@@ -708,6 +768,21 @@
    "references": [
     "REF-2452",
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "melissa-officinalis",
+   "herb": "Lemon balm",
+   "herb_slug": "lemon-balm",
+   "partner_id": "lavandula-angustifolia",
+   "partner": "Lavender",
+   "partner_slug": "lavender",
+   "type": "synergy",
+   "note": "Lavender and lemon balm are both calming herbs used to ease anxiety and aid sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.",
+   "references": [
+    "REF-2531",
+    "REF-2539"
    ],
    "status": "approved"
   },
@@ -1163,6 +1238,21 @@
    "note": "Kava and valerian are both calming, sedating herbs; taken together they may add up to cause excessive drowsiness, so use caution and avoid before driving or combining with other sedatives.",
    "references": [
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "valeriana-officinalis",
+   "herb": "Valerian",
+   "herb_slug": "valerian",
+   "partner_id": "lavandula-angustifolia",
+   "partner": "Lavender",
+   "partner_slug": "lavender",
+   "type": "synergy",
+   "note": "Lavender and valerian are both calming herbs used to aid relaxation and sleep; taken together their sedative effects can add up, so while they may help relaxation they can also increase drowsiness — avoid combining with sedative medicines or before driving.",
+   "references": [
+    "REF-2531",
+    "REF-2533"
    ],
    "status": "approved"
   },

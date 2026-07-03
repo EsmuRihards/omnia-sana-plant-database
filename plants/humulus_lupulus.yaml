@@ -119,10 +119,11 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Hops has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: 'Hops has calming, sedative effects (a controlled trial found a valerian-hops combination shortened the time to fall asleep); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
   reference_ids:
   - REF-2452
   - REF-2460
+  - REF-2451
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

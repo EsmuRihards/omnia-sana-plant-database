@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2471,
+ "count": 2479,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -66,6 +66,42 @@
     "Hot flashes",
     "Menopause"
    ]
+  },
+  {
+   "ref_id": "REF-2474",
+   "key": "caus2026herbal",
+   "type": "article",
+   "title": "Efficacy and Safety of Herbal Supplements with Anxiolytic, Antidepressant, and Sedative Action: A Review of Clinical Data and Toxicological Risks",
+   "authors": "Caus, M.N., Lupoae, M. and Chitescu, C.L.",
+   "journal": "Pharmaceuticals",
+   "year": "2026",
+   "doi": "10.3390/ph19030399",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph19030399",
+   "link_type": "doi",
+   "citation": "Caus, M.N., Lupoae, M. and Chitescu, C.L (2026) 'Efficacy and Safety of Herbal Supplements with Anxiolytic, Antidepressant, and Sedative Action: A Review of Clinical Data and Toxicological Risks', Pharmaceuticals, 19(3), pp. 399. doi:10.3390/ph19030399",
+   "abstract": "Narrative review of clinical evidence and toxicological risks of plant-based anxiolytic, antidepressant and sedative supplements. Identifies clinically relevant risks including cytochrome P450-mediated drug interactions, excessive sedation and serotonin syndrome, and warns that combining sedative or serotonergic herbs with each other or with CNS-active medicines requires careful monitoring because of additive pharmacodynamic effects.",
+   "tier": "review",
+   "display": "Efficacy and Safety of Herbal Supplements with Anxiolytic, Antidepressant, and Sedative Action: A Review of Clinical Data and Toxicological Risks",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Perforate St John’s-wort",
+    "Poison Gooseberry",
+    "St John's wort",
+    "Winter Cherry",
+    "common St John's wort",
+    "perforate St John's wort"
+   ],
+   "scientific": [
+    "Hypericum perforatum",
+    "Withania somnifera"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0710",
@@ -7141,6 +7177,37 @@
    "conditions": [
     "Heavy menstrual bleeding"
    ]
+  },
+  {
+   "ref_id": "REF-2475",
+   "key": "makhlouf2024ashwagandha",
+   "type": "article",
+   "title": "Unveilling the antidiabetic potential of ashwagandha (Withania somnifera L.) and its withanolides - a review",
+   "authors": "Makhlouf, E.A., AlamElDeen, Y.K., El-Shiekh, R.A. and Okba, M.M.",
+   "journal": "Natural Product Research",
+   "year": "2024",
+   "doi": "10.1080/14786419.2024.2439009",
+   "url": "",
+   "link": "https://doi.org/10.1080/14786419.2024.2439009",
+   "link_type": "doi",
+   "citation": "Makhlouf, E.A., AlamElDeen, Y.K., El-Shiekh, R.A. and Okba, M.M (2024) 'Unveilling the antidiabetic potential of ashwagandha (Withania somnifera L.) and its withanolides - a review', Natural Product Research, 39(24), pp. 7203-7218. doi:10.1080/14786419.2024.2439009",
+   "abstract": "Review of the antidiabetic activity of Withania somnifera and its withanolides. Systematic reviews indicate ashwagandha restores altered blood glucose and HbA1c, and animal and limited clinical studies show hypoglycaemic effects and improved insulin sensitivity. Basis for cautioning that ashwagandha may add to blood-sugar-lowering medicines.",
+   "tier": "review",
+   "display": "Unveilling the antidiabetic potential of ashwagandha (Withania somnifera L.) and its withanolides - a review",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1610",
@@ -37431,6 +37498,37 @@
    ]
   },
   {
+   "ref_id": "REF-2472",
+   "key": "sharma2018ashwagandha",
+   "type": "article",
+   "title": "Efficacy and Safety of Ashwagandha Root Extract in Subclinical Hypothyroid Patients: A Double-Blind, Randomized Placebo-Controlled Trial",
+   "authors": "Sharma, A.K., Basu, I. and Singh, S.",
+   "journal": "Journal of Alternative and Complementary Medicine",
+   "year": "2018",
+   "doi": "10.1089/acm.2017.0183",
+   "url": "",
+   "link": "https://doi.org/10.1089/acm.2017.0183",
+   "link_type": "doi",
+   "citation": "Sharma, A.K., Basu, I. and Singh, S (2018) 'Efficacy and Safety of Ashwagandha Root Extract in Subclinical Hypothyroid Patients: A Double-Blind, Randomized Placebo-Controlled Trial', Journal of Alternative and Complementary Medicine, 24(3), pp. 243-248. doi:10.1089/acm.2017.0183",
+   "abstract": "Double-blind, randomized, placebo-controlled trial in 50 subclinical hypothyroid patients: 8 weeks of ashwagandha root extract (600 mg/day) significantly lowered serum TSH and raised T3 and T4 versus placebo, effectively normalising thyroid indices. Evidence that Withania somnifera can increase circulating thyroid hormone, so it may add to thyroid-hormone medicines and warrants monitoring in those on levothyroxine or with thyroid disease.",
+   "tier": "rct",
+   "display": "Efficacy and Safety of Ashwagandha Root Extract in Subclinical Hypothyroid Patients: A Double-Blind, Randomized Placebo-Controlled Trial",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2467",
    "key": "alam2018gymnema",
    "type": "article",
@@ -51947,6 +52045,37 @@
     "Antimicrobial",
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2473",
+   "key": "gannon2014ashwagandha",
+   "type": "article",
+   "title": "Subtle changes in thyroid indices during a placebo-controlled study of an extract of Withania somnifera in persons with bipolar disorder",
+   "authors": "Gannon, J.M., Forrest, P.E. and Roy Chengappa, K.N.",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "year": "2014",
+   "doi": "10.4103/0975-9476.146566",
+   "url": "",
+   "link": "https://doi.org/10.4103/0975-9476.146566",
+   "link_type": "doi",
+   "citation": "Gannon, J.M., Forrest, P.E. and Roy Chengappa, K.N (2014) 'Subtle changes in thyroid indices during a placebo-controlled study of an extract of Withania somnifera in persons with bipolar disorder', Journal of Ayurveda and Integrative Medicine, 5(4), pp. 241-245. doi:10.4103/0975-9476.146566",
+   "abstract": "Within a placebo-controlled clinical study of Withania somnifera for cognition in bipolar disorder, all three ashwagandha-treated patients showed increases in thyroxine (T4) from baseline (7-24%) while most placebo patients declined, prompting the authors to advise vigilance regarding hyperthyroidism. Supports caution when ashwagandha is combined with thyroid medication.",
+   "tier": "clinical",
+   "display": "Subtle changes in thyroid indices during a placebo-controlled study of an extract of Withania somnifera in persons with bipolar disorder",
+   "plants": [
+    "Ajagandha",
+    "Asgand",
+    "Ashwagandha",
+    "Indian Ginseng",
+    "Kanaje Hindi",
+    "Poison Gooseberry",
+    "Winter Cherry"
+   ],
+   "scientific": [
+    "Withania somnifera"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -68114,6 +68243,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2479",
+   "key": "dasgupta2003ginseng",
+   "type": "article",
+   "title": "Effect of Asian and Siberian ginseng on serum digoxin measurement by five digoxin immunoassays. Significant variation in digoxin-like immunoreactivity among commercial ginsengs",
+   "authors": "Dasgupta, A., Wu, S., Actor, J., Olsen, M., Wells, A. and Datta, P.",
+   "journal": "American Journal of Clinical Pathology",
+   "year": "2003",
+   "doi": "10.1309/34BJ-ECP7-UK6F-H13V",
+   "url": "",
+   "link": "https://doi.org/10.1309/34BJ-ECP7-UK6F-H13V",
+   "link_type": "doi",
+   "citation": "Dasgupta, A., Wu, S., Actor, J., Olsen, M., Wells, A. and Datta, P (2003) 'Effect of Asian and Siberian ginseng on serum digoxin measurement by five digoxin immunoassays. Significant variation in digoxin-like immunoreactivity among commercial ginsengs', American Journal of Clinical Pathology, 119(2), pp. 298-303. doi:10.1309/34BJ-ECP7-UK6F-H13V",
+   "abstract": "Laboratory study showing Asian (Panax) and Siberian (Eleutherococcus) ginseng contain digoxin-like immunoreactive substances that falsely raise or lower serum digoxin readings depending on the immunoassay, with the effect confirmed in ginseng-fed mice. Indicates the reported eleuthero-digoxin interaction may partly reflect assay interference, so digoxin results should be interpreted with the assay method in mind.",
+   "tier": "preclinical",
+   "display": "Effect of Asian and Siberian ginseng on serum digoxin measurement by five digoxin immunoassays. Significant variation in digoxin-like immunoreactivity among commercial ginsengs",
+   "plants": [
+    "Devil's bush",
+    "Eleuthero",
+    "Siberian Ginseng",
+    "Touch-me-not"
+   ],
+   "scientific": [
+    "Eleutherococcus senticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0602",
    "key": "subbotina2003tormentil",
    "type": "article",
@@ -70810,6 +70967,34 @@
    ]
   },
   {
+   "ref_id": "REF-2477",
+   "key": "vuksan2000ginseng",
+   "type": "article",
+   "title": "American ginseng (Panax quinquefolius L) reduces postprandial glycemia in nondiabetic subjects and subjects with type 2 diabetes mellitus",
+   "authors": "Vuksan, V., Sievenpiper, J.L., Koo, V.Y., Francis, T., Beljan-Zdravkovic, U., Xu, Z. and Vidgen, E.",
+   "journal": "Archives of Internal Medicine",
+   "year": "2000",
+   "doi": "10.1001/archinte.160.7.1009",
+   "url": "",
+   "link": "https://doi.org/10.1001/archinte.160.7.1009",
+   "link_type": "doi",
+   "citation": "Vuksan, V., Sievenpiper, J.L., Koo, V.Y., Francis, T., Beljan-Zdravkovic, U., Xu, Z. and Vidgen, E (2000) 'American ginseng (Panax quinquefolius L) reduces postprandial glycemia in nondiabetic subjects and subjects with type 2 diabetes mellitus', Archives of Internal Medicine, 160(7), pp. 1009-1013. doi:10.1001/archinte.160.7.1009",
+   "abstract": "Randomized study showing 3 g ginseng attenuated postprandial glycaemia in both nondiabetic and type 2 diabetic subjects; the authors note that to prevent unintended hypoglycaemia ginseng should be taken with the meal. Reinforces that ginseng's blood-glucose-lowering action can add to antidiabetic drugs and cause hypoglycaemia.",
+   "tier": "rct",
+   "display": "American ginseng (Panax quinquefolius L) reduces postprandial glycemia in nondiabetic subjects and subjects with type 2 diabetes mellitus",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0738",
    "key": "abe2000asclepias",
    "type": "article",
@@ -72504,6 +72689,34 @@
    ]
   },
   {
+   "ref_id": "REF-2478",
+   "key": "mcrae1996digoxin",
+   "type": "article",
+   "title": "Elevated serum digoxin levels in a patient taking digoxin and Siberian ginseng",
+   "authors": "McRae, S.",
+   "journal": "Canadian Medical Association Journal",
+   "year": "1996",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Elevated%20serum%20digoxin%20levels%20in%20a%20patient%20taking%20digoxin%20and%20Siberian%20ginseng",
+   "link_type": "search",
+   "citation": "McRae, S (1996) 'Elevated serum digoxin levels in a patient taking digoxin and Siberian ginseng', Canadian Medical Association Journal, 155(3), pp. 293-295.",
+   "abstract": "Case report of a 74-year-old man on a stable digoxin dose whose serum digoxin rose to elevated levels while taking Siberian ginseng (Eleutherococcus senticosus) and fell back to therapeutic range on stopping it, reproducibly across rechallenge. Highlights a potential interaction between eleuthero and digoxin (through altered elimination or assay interference) and the need for digoxin monitoring.",
+   "tier": "clinical",
+   "display": "Elevated serum digoxin levels in a patient taking digoxin and Siberian ginseng",
+   "plants": [
+    "Devil's bush",
+    "Eleuthero",
+    "Siberian Ginseng",
+    "Touch-me-not"
+   ],
+   "scientific": [
+    "Eleutherococcus senticosus"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0293",
    "key": "vethanayagam1996lentinan",
    "type": "article",
@@ -72658,6 +72871,34 @@
    ],
    "scientific": [
     "Pulmonaria officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2476",
+   "key": "sotaniemi1995ginseng",
+   "type": "article",
+   "title": "Ginseng therapy in non-insulin-dependent diabetic patients",
+   "authors": "Sotaniemi, E.A., Haapakoski, E. and Rautio, A.",
+   "journal": "Diabetes Care",
+   "year": "1995",
+   "doi": "10.2337/diacare.18.10.1373",
+   "url": "",
+   "link": "https://doi.org/10.2337/diacare.18.10.1373",
+   "link_type": "doi",
+   "citation": "Sotaniemi, E.A., Haapakoski, E. and Rautio, A (1995) 'Ginseng therapy in non-insulin-dependent diabetic patients', Diabetes Care, 18(10), pp. 1373-1375. doi:10.2337/diacare.18.10.1373",
+   "abstract": "Double-blind, placebo-controlled trial in 36 newly diagnosed type 2 (non-insulin-dependent) diabetic patients: 8 weeks of Panax ginseng (100 or 200 mg) reduced fasting blood glucose and, at 200 mg, improved glycated haemoglobin versus placebo. Direct evidence that Panax ginseng lowers blood glucose, so it may add to the effect of antidiabetic medicines.",
+   "tier": "rct",
+   "display": "Ginseng therapy in non-insulin-dependent diabetic patients",
+   "plants": [
+    "Asian ginseng",
+    "Chinese ginseng",
+    "Korean ginseng",
+    "Panax Ginseng"
+   ],
+   "scientific": [
+    "Panax ginseng"
    ],
    "actions": [],
    "conditions": []

@@ -1,7 +1,37 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 46,
+ "count": 54,
  "pairings": [
+  {
+   "herb_id": "withania-somnifera",
+   "herb": "Ashwagandha",
+   "herb_slug": "ashwagandha",
+   "partner_id": "piper-methysticum",
+   "partner": "Kava",
+   "partner_slug": "kava",
+   "type": "caution",
+   "note": "Ashwagandha and kava both calm the central nervous system; combining them may add to sedation and drowsiness, so combined use warrants caution.",
+   "references": [
+    "REF-2245",
+    "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "withania-somnifera",
+   "herb": "Ashwagandha",
+   "herb_slug": "ashwagandha",
+   "partner_id": "valeriana-officinalis",
+   "partner": "Valerian",
+   "partner_slug": "valerian",
+   "type": "caution",
+   "note": "Both ashwagandha and valerian are calming, sleep-promoting herbs; using them together may add to drowsiness and sedation, so take care especially before driving or when using other sedatives.",
+   "references": [
+    "REF-2245",
+    "REF-2474"
+   ],
+   "status": "approved"
+  },
   {
    "herb_id": "momordica-charantia",
    "herb": "Bitter Melon",
@@ -296,6 +326,21 @@
    "herb_id": "piper-methysticum",
    "herb": "Kava",
    "herb_slug": "kava",
+   "partner_id": "withania-somnifera",
+   "partner": "Ashwagandha",
+   "partner_slug": "ashwagandha",
+   "type": "caution",
+   "note": "Ashwagandha and kava both calm the central nervous system; combining them may add to sedation and drowsiness, so combined use warrants caution.",
+   "references": [
+    "REF-2245",
+    "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "piper-methysticum",
+   "herb": "Kava",
+   "herb_slug": "kava",
    "partner_id": "passiflora-incarnata",
    "partner": "Passionflower",
    "partner_slug": "passionflower",
@@ -303,6 +348,21 @@
    "note": "Kava and passionflower are both relaxing, sedating herbs; combined use may deepen drowsiness and sedation, so use caution.",
    "references": [
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "piper-methysticum",
+   "herb": "Kava",
+   "herb_slug": "kava",
+   "partner_id": "hypericum-perforatum",
+   "partner": "Perforate St John’s-wort",
+   "partner_slug": "perforate-st-john-s-wort",
+   "type": "caution",
+   "note": "St John's wort is a strong enzyme inducer and kava is a liver-metabolised sedative; combining them may add to central-nervous-system effects and alter how kava is processed, so combined use warrants caution.",
+   "references": [
+    "REF-2461",
+    "REF-2474"
    ],
    "status": "approved"
   },
@@ -454,6 +514,21 @@
    "herb_id": "hypericum-perforatum",
    "herb": "Perforate St John’s-wort",
    "herb_slug": "perforate-st-john-s-wort",
+   "partner_id": "piper-methysticum",
+   "partner": "Kava",
+   "partner_slug": "kava",
+   "type": "caution",
+   "note": "St John's wort is a strong enzyme inducer and kava is a liver-metabolised sedative; combining them may add to central-nervous-system effects and alter how kava is processed, so combined use warrants caution.",
+   "references": [
+    "REF-2461",
+    "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "hypericum-perforatum",
+   "herb": "Perforate St John’s-wort",
+   "herb_slug": "perforate-st-john-s-wort",
    "partner_id": "rhodiola-rosea",
    "partner": "Rhodiola Rosea",
    "partner_slug": "rhodiola-rosea",
@@ -475,6 +550,21 @@
    "note": "St John's wort raises serotonin activity and can cause serotonin syndrome when combined with other serotonin-boosting agents; pairing it with another mood-active, serotonergic herb such as saffron may add to this risk.",
    "references": [
     "REF-2461"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "hypericum-perforatum",
+   "herb": "Perforate St John’s-wort",
+   "herb_slug": "perforate-st-john-s-wort",
+   "partner_id": "valeriana-officinalis",
+   "partner": "Valerian",
+   "partner_slug": "valerian",
+   "type": "caution",
+   "note": "St John's wort speeds up the breakdown of many substances and also raises serotonin activity; pairing it with a sedative herb such as valerian may add to drowsiness and can unpredictably change how each is handled by the body.",
+   "references": [
+    "REF-2461",
+    "REF-2474"
    ],
    "status": "approved"
   },
@@ -600,6 +690,21 @@
    "herb_id": "valeriana-officinalis",
    "herb": "Valerian",
    "herb_slug": "valerian",
+   "partner_id": "withania-somnifera",
+   "partner": "Ashwagandha",
+   "partner_slug": "ashwagandha",
+   "type": "caution",
+   "note": "Both ashwagandha and valerian are calming, sleep-promoting herbs; using them together may add to drowsiness and sedation, so take care especially before driving or when using other sedatives.",
+   "references": [
+    "REF-2245",
+    "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "valeriana-officinalis",
+   "herb": "Valerian",
+   "herb_slug": "valerian",
    "partner_id": "matricaria-chamomilla",
    "partner": "Chamomile",
    "partner_slug": "chamomile",
@@ -665,6 +770,21 @@
    "references": [
     "REF-2452",
     "REF-2453"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "valeriana-officinalis",
+   "herb": "Valerian",
+   "herb_slug": "valerian",
+   "partner_id": "hypericum-perforatum",
+   "partner": "Perforate St John’s-wort",
+   "partner_slug": "perforate-st-john-s-wort",
+   "type": "caution",
+   "note": "St John's wort speeds up the breakdown of many substances and also raises serotonin activity; pairing it with a sedative herb such as valerian may add to drowsiness and can unpredictably change how each is handled by the body.",
+   "references": [
+    "REF-2461",
+    "REF-2474"
    ],
    "status": "approved"
   }

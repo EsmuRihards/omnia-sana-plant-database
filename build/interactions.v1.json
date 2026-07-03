@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 38,
+ "count": 43,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -112,6 +112,53 @@
    "mechanism": "Aloe vera (taken internally) can lower blood sugar, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
    "references": [
     "REF-2456"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "withania-somnifera",
+   "plant": "Ashwagandha",
+   "scientific": "Withania somnifera",
+   "common_slug": "ashwagandha",
+   "wp_post_id": 149,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Ashwagandha can lower blood glucose; combined with diabetes medicines it may add to blood-sugar lowering and increase the risk of hypoglycaemia, so monitor blood sugar.",
+   "references": [
+    "REF-2475"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "withania-somnifera",
+   "plant": "Ashwagandha",
+   "scientific": "Withania somnifera",
+   "common_slug": "ashwagandha",
+   "wp_post_id": 149,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Ashwagandha has sedative, GABA-related calming activity; taken with sedatives, sleeping tablets or other central-nervous-system depressants it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2245",
+    "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "withania-somnifera",
+   "plant": "Ashwagandha",
+   "scientific": "Withania somnifera",
+   "common_slug": "ashwagandha",
+   "wp_post_id": 149,
+   "drug_class": "thyroid-medicines",
+   "drug_class_label": "Thyroid medicines",
+   "severity": "caution",
+   "mechanism": "Ashwagandha can raise circulating thyroid hormone (T3/T4) and lower TSH; a randomized trial normalised thyroid indices in subclinical hypothyroidism and a case of thyrotoxicosis has been reported. Combined with thyroid medication it may add to thyroid activity, so monitor thyroid levels.",
+   "references": [
+    "REF-2472",
+    "REF-2473"
    ],
    "status": "approved"
   },
@@ -482,6 +529,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "panax-ginseng",
+   "plant": "Panax Ginseng",
+   "scientific": "Panax ginseng",
+   "common_slug": "panax-ginseng",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Ginseng can lower blood glucose - a controlled trial in type 2 diabetes reduced fasting glucose and HbA1c, and ginseng also lowers post-meal glucose. Combined with diabetes medicines it may add to blood-sugar lowering and risk hypoglycaemia, so monitor blood sugar.",
+   "references": [
+    "REF-2476",
+    "REF-2477"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "hypericum-perforatum",
    "plant": "Perforate St John’s-wort",
    "scientific": "Hypericum perforatum",
@@ -638,6 +701,22 @@
    "mechanism": "Saw palmetto has been linked to prolonged bleeding time, and a case of severe intraoperative haemorrhage was reported in a patient taking it; combining it with anticoagulant or antiplatelet drugs may add to bleeding risk, so stop it before surgery.",
    "references": [
     "REF-2458"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "eleutherococcus-senticosus",
+   "plant": "Siberian Ginseng",
+   "scientific": "Eleutherococcus senticosus",
+   "common_slug": "siberian-ginseng",
+   "wp_post_id": null,
+   "drug_class": "cardiac-glycosides",
+   "drug_class_label": "Cardiac glycosides",
+   "severity": "caution",
+   "mechanism": "A case report described raised serum digoxin levels in a patient taking Siberian ginseng that fell back to normal on stopping it; laboratory work shows eleuthero contains digoxin-like substances that can interfere with digoxin blood tests. Whether a true change in digoxin levels or assay interference, use with digoxin warrants medical monitoring.",
+   "references": [
+    "REF-2478",
+    "REF-2479"
    ],
    "status": "approved"
   },

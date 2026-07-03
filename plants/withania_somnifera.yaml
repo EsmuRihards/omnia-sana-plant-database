@@ -318,6 +318,52 @@ references:
 - REF-2253
 - REF-2254
 - REF-2255
+drug_class_interactions:
+- drug_class: thyroid-medicines
+  severity: caution
+  mechanism: 'Ashwagandha can raise circulating thyroid hormone (T3/T4) and lower TSH; a randomized trial normalised thyroid indices in subclinical hypothyroidism and a case of thyrotoxicosis has been reported. Combined with thyroid medication it may add to thyroid activity, so monitor thyroid levels.'
+  reference_ids:
+  - REF-2472
+  - REF-2473
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: sedatives-cns-depressants
+  severity: caution
+  mechanism: 'Ashwagandha has sedative, GABA-related calming activity; taken with sedatives, sleeping tablets or other central-nervous-system depressants it may add to drowsiness and slowed reactions.'
+  reference_ids:
+  - REF-2245
+  - REF-2474
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: antidiabetics
+  severity: caution
+  mechanism: 'Ashwagandha can lower blood glucose; combined with diabetes medicines it may add to blood-sugar lowering and increase the risk of hypoglycaemia, so monitor blood sugar.'
+  reference_ids:
+  - REF-2475
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+pairings:
+- partner_id: valeriana-officinalis
+  type: caution
+  note: 'Both ashwagandha and valerian are calming, sleep-promoting herbs; using them together may add to drowsiness and sedation, so take care especially before driving or when using other sedatives.'
+  reference_ids:
+  - REF-2245
+  - REF-2474
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: piper-methysticum
+  type: caution
+  note: 'Ashwagandha and kava both calm the central nervous system; combining them may add to sedation and drowsiness, so combined use warrants caution.'
+  reference_ids:
+  - REF-2245
+  - REF-2474
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

@@ -13184,6 +13184,20 @@
     "REF-2295",
     "REF-2296"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "cardiac-glycosides",
+     "severity": "caution",
+     "mechanism": "A case report described raised serum digoxin levels in a patient taking Siberian ginseng that fell back to normal on stopping it; laboratory work shows eleuthero contains digoxin-like substances that can interfere with digoxin blood tests. Whether a true change in digoxin levels or assay interference, use with digoxin warrants medical monitoring.",
+     "reference_ids": [
+      "REF-2478",
+      "REF-2479"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "pairings": [
     {
      "partner_id": "schisandra-chinensis",
@@ -18627,6 +18641,30 @@
      "note": "St John's wort is a strong enzyme inducer and increases serotonin activity; combining it with another antidepressant-type herb such as rhodiola may add to serotonergic effects and unpredictably change how each is handled by the body.",
      "reference_ids": [
       "REF-2461"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "valeriana-officinalis",
+     "type": "caution",
+     "note": "St John's wort speeds up the breakdown of many substances and also raises serotonin activity; pairing it with a sedative herb such as valerian may add to drowsiness and can unpredictably change how each is handled by the body.",
+     "reference_ids": [
+      "REF-2461",
+      "REF-2474"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "piper-methysticum",
+     "type": "caution",
+     "note": "St John's wort is a strong enzyme inducer and kava is a liver-metabolised sedative; combining them may add to central-nervous-system effects and alter how kava is processed, so combined use warrants caution.",
+     "reference_ids": [
+      "REF-2461",
+      "REF-2474"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -25621,6 +25659,18 @@
      "mechanism": "Case reports link ginseng with MAOI antidepressants (e.g. phenelzine) to headache, tremor and manic-like symptoms.",
      "reference_ids": [
       "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antidiabetics",
+     "severity": "caution",
+     "mechanism": "Ginseng can lower blood glucose - a controlled trial in type 2 diabetes reduced fasting glucose and HbA1c, and ginseng also lowers post-meal glucose. Combined with diabetes medicines it may add to blood-sugar lowering and risk hypoglycaemia, so monitor blood sugar.",
+     "reference_ids": [
+      "REF-2476",
+      "REF-2477"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -40394,6 +40444,69 @@
     "REF-2253",
     "REF-2254",
     "REF-2255"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "thyroid-medicines",
+     "severity": "caution",
+     "mechanism": "Ashwagandha can raise circulating thyroid hormone (T3/T4) and lower TSH; a randomized trial normalised thyroid indices in subclinical hypothyroidism and a case of thyrotoxicosis has been reported. Combined with thyroid medication it may add to thyroid activity, so monitor thyroid levels.",
+     "reference_ids": [
+      "REF-2472",
+      "REF-2473"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Ashwagandha has sedative, GABA-related calming activity; taken with sedatives, sleeping tablets or other central-nervous-system depressants it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2245",
+      "REF-2474"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antidiabetics",
+     "severity": "caution",
+     "mechanism": "Ashwagandha can lower blood glucose; combined with diabetes medicines it may add to blood-sugar lowering and increase the risk of hypoglycaemia, so monitor blood sugar.",
+     "reference_ids": [
+      "REF-2475"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
+   "pairings": [
+    {
+     "partner_id": "valeriana-officinalis",
+     "type": "caution",
+     "note": "Both ashwagandha and valerian are calming, sleep-promoting herbs; using them together may add to drowsiness and sedation, so take care especially before driving or when using other sedatives.",
+     "reference_ids": [
+      "REF-2245",
+      "REF-2474"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "piper-methysticum",
+     "type": "caution",
+     "note": "Ashwagandha and kava both calm the central nervous system; combining them may add to sedation and drowsiness, so combined use warrants caution.",
+     "reference_ids": [
+      "REF-2245",
+      "REF-2474"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",

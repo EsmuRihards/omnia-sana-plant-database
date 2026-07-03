@@ -118,6 +118,24 @@ references:
 - REF-1786
 - REF-1787
 - REF-1788
+drug_class_interactions:
+- drug_class: cardiac-glycosides
+  severity: caution
+  mechanism: 'Hawthorn has its own positive effect on the heart and shares P-glycoprotein handling with digoxin, so combining it with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled study found no major change in digoxin levels.'
+  reference_ids:
+  - REF-2441
+  - REF-2442
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: antihypertensives
+  severity: caution
+  mechanism: 'Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand, which may add to the effect of blood-pressure and heart-failure medicines.'
+  reference_ids:
+  - REF-2442
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

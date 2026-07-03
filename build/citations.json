@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2440,
+ "count": 2444,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -61694,6 +61694,37 @@
    ]
   },
   {
+   "ref_id": "REF-2442",
+   "key": "pittler2008hawthorn",
+   "type": "article",
+   "title": "Hawthorn extract for treating chronic heart failure",
+   "authors": "Pittler, M.H., Guo, R. and Ernst, E.",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2008",
+   "doi": "10.1002/14651858.CD005312.pub2",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD005312.pub2",
+   "link_type": "doi",
+   "citation": "Pittler, M.H., Guo, R. and Ernst, E (2008) 'Hawthorn extract for treating chronic heart failure', Cochrane Database of Systematic Reviews, 2008(1), pp. CD005312. doi:10.1002/14651858.CD005312.pub2",
+   "abstract": "Meta-analysis of 10 randomised double-blind trials (855 patients) showing hawthorn leaf-and-flower extract improves maximal workload, exercise tolerance and symptoms in chronic heart failure as an adjunct to conventional therapy, with infrequent mild adverse events; its cardioactive and mild blood-pressure-lowering effects underlie potential additive interactions with cardiac and antihypertensive drugs.",
+   "tier": "review",
+   "display": "Hawthorn extract for treating chronic heart failure",
+   "plants": [
+    "Hawthorn",
+    "Midland Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata",
+    "Crataegus monogyna"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0184",
    "key": "nobre2008theanine",
    "type": "misc",
@@ -65410,6 +65441,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2443",
+   "key": "jiang2005ginger",
+   "type": "article",
+   "title": "Effect of ginkgo and ginger on the pharmacokinetics and pharmacodynamics of warfarin in healthy subjects",
+   "authors": "Jiang, X., Williams, K.M., Liauw, W.S., Ammit, A.J., Roufogalis, B.D., Duke, C.C., Day, R.O. and McLachlan, A.J.",
+   "journal": "British Journal of Clinical Pharmacology",
+   "year": "2005",
+   "doi": "10.1111/j.1365-2125.2005.02322.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.1365-2125.2005.02322.x",
+   "link_type": "doi",
+   "citation": "Jiang, X., Williams, K.M., Liauw, W.S., Ammit, A.J., Roufogalis, B.D., Duke, C.C., Day, R.O. and McLachlan, A.J (2005) 'Effect of ginkgo and ginger on the pharmacokinetics and pharmacodynamics of warfarin in healthy subjects', British Journal of Clinical Pharmacology, 59(4), pp. 425-432. doi:10.1111/j.1365-2125.2005.02322.x",
+   "abstract": "Open-label three-way crossover randomised study in 12 healthy men found that ginger at recommended doses did not significantly affect INR, platelet aggregation or the pharmacokinetics of warfarin; nevertheless ginger has recognised antiplatelet potential, so concurrent anticoagulant/antiplatelet use warrants caution and monitoring.",
+   "tier": "rct",
+   "display": "Effect of ginkgo and ginger on the pharmacokinetics and pharmacodynamics of warfarin in healthy subjects",
+   "plants": [
+    "Ginger",
+    "common ginger",
+    "garden ginger"
+   ],
+   "scientific": [
+    "Zingiber officinale"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0885",
    "key": "jaenson2005rhododendron",
    "type": "article",
@@ -67591,6 +67649,37 @@
    "actions": [
     "Anxiolytic / calming"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2441",
+   "key": "tankanow2003hawthorn",
+   "type": "article",
+   "title": "Interaction study between digoxin and a preparation of hawthorn (Crataegus oxyacantha)",
+   "authors": "Tankanow, R., Tamer, H.R., Streetman, D.S., Smith, S.G., Welton, J.L., Annesley, T., Aaronson, K.D. and Bleske, B.E.",
+   "journal": "Journal of Clinical Pharmacology",
+   "year": "2003",
+   "doi": "10.1177/0091270003253417",
+   "url": "",
+   "link": "https://doi.org/10.1177/0091270003253417",
+   "link_type": "doi",
+   "citation": "Tankanow, R., Tamer, H.R., Streetman, D.S., Smith, S.G., Welton, J.L., Annesley, T., Aaronson, K.D. and Bleske, B.E (2003) 'Interaction study between digoxin and a preparation of hawthorn (Crataegus oxyacantha)', Journal of Clinical Pharmacology, 43(6), pp. 637-642. doi:10.1177/0091270003253417",
+   "abstract": "Randomised crossover trial in 8 healthy volunteers found that hawthorn special extract WS 1442 did not significantly alter the pharmacokinetics of digoxin, a P-glycoprotein substrate, suggesting the two may be coadministered but with monitoring given hawthorn's cardiac activity.",
+   "tier": "rct",
+   "display": "Interaction study between digoxin and a preparation of hawthorn (Crataegus oxyacantha)",
+   "plants": [
+    "Hawthorn",
+    "Midland Hawthorn",
+    "common hawthorn",
+    "may tree",
+    "whitethorn",
+    "woodland hawthorn"
+   ],
+   "scientific": [
+    "Crataegus laevigata",
+    "Crataegus monogyna"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -72028,6 +72117,34 @@
    ],
    "scientific": [
     "Veronica officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2444",
+   "key": "groenewegen1990feverfew",
+   "type": "article",
+   "title": "A comparison of the effects of an extract of feverfew and parthenolide, a component of feverfew, on human platelet activity in-vitro",
+   "authors": "Groenewegen, W.A. and Heptinstall, S.",
+   "journal": "Journal of Pharmacy and Pharmacology",
+   "year": "1990",
+   "doi": "10.1111/j.2042-7158.1990.tb07057.x",
+   "url": "",
+   "link": "https://doi.org/10.1111/j.2042-7158.1990.tb07057.x",
+   "link_type": "doi",
+   "citation": "Groenewegen, W.A. and Heptinstall, S (1990) 'A comparison of the effects of an extract of feverfew and parthenolide, a component of feverfew, on human platelet activity in-vitro', Journal of Pharmacy and Pharmacology, 42(8), pp. 553-557. doi:10.1111/j.2042-7158.1990.tb07057.x",
+   "abstract": "In-vitro study showing feverfew extract and its sesquiterpene lactone parthenolide inhibit human platelet aggregation and serotonin secretion induced by multiple agonists, providing the mechanistic basis for caution when feverfew is combined with anticoagulant or antiplatelet drugs.",
+   "tier": "preclinical",
+   "display": "A comparison of the effects of an extract of feverfew and parthenolide, a component of feverfew, on human platelet activity in-vitro",
+   "plants": [
+    "Bachelor's buttons",
+    "Featherfew",
+    "Feverfew",
+    "Midsummer daisy"
+   ],
+   "scientific": [
+    "Tanacetum parthenium"
    ],
    "actions": [],
    "conditions": []

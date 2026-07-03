@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 19,
+ "count": 25,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -101,6 +101,21 @@
  ],
  "interactions": [
   {
+   "plant_id": "tanacetum-parthenium",
+   "plant": "Feverfew",
+   "scientific": "Tanacetum parthenium",
+   "common_slug": "feverfew",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Feverfew and its component parthenolide inhibit platelet aggregation and serotonin release, so combining it with anticoagulant or antiplatelet drugs may increase bleeding risk.",
+   "references": [
+    "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "allium-sativum",
    "plant": "Garlic",
    "scientific": "Allium sativum",
@@ -143,6 +158,21 @@
    "references": [
     "REF-2437",
     "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "zingiber-officinale",
+   "plant": "Ginger",
+   "scientific": "Zingiber officinale",
+   "common_slug": "ginger",
+   "wp_post_id": 153,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Ginger has mild antiplatelet activity; a controlled trial found no significant change in warfarin levels or INR at normal doses, but caution and monitoring are advised when combined with blood thinners or antiplatelet drugs.",
+   "references": [
+    "REF-2443"
    ],
    "status": "approved"
   },
@@ -192,6 +222,37 @@
    "status": "approved"
   },
   {
+   "plant_id": "crataegus-monogyna",
+   "plant": "Hawthorn",
+   "scientific": "Crataegus monogyna",
+   "common_slug": "hawthorn",
+   "wp_post_id": null,
+   "drug_class": "antihypertensives",
+   "drug_class_label": "Antihypertensives (blood-pressure medicines)",
+   "severity": "caution",
+   "mechanism": "Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand, which may add to the effect of blood-pressure and heart-failure medicines.",
+   "references": [
+    "REF-2442"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "crataegus-monogyna",
+   "plant": "Hawthorn",
+   "scientific": "Crataegus monogyna",
+   "common_slug": "hawthorn",
+   "wp_post_id": null,
+   "drug_class": "cardiac-glycosides",
+   "drug_class_label": "Cardiac glycosides",
+   "severity": "caution",
+   "mechanism": "Hawthorn has its own positive effect on the heart and shares P-glycoprotein handling with digoxin, so combining it with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled study found no major change in digoxin levels.",
+   "references": [
+    "REF-2441",
+    "REF-2442"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "glycyrrhiza-glabra",
    "plant": "Licorice root",
    "scientific": "Glycyrrhiza glabra",
@@ -218,6 +279,37 @@
    "mechanism": "Licorice-induced potassium loss can increase the risk of digoxin toxicity; avoid regular or high intake.",
    "references": [
     "REF-2439"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "crataegus-laevigata",
+   "plant": "Midland Hawthorn",
+   "scientific": "Crataegus laevigata",
+   "common_slug": "midland-hawthorn",
+   "wp_post_id": null,
+   "drug_class": "antihypertensives",
+   "drug_class_label": "Antihypertensives (blood-pressure medicines)",
+   "severity": "caution",
+   "mechanism": "Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand, which may add to the effect of blood-pressure and heart-failure medicines.",
+   "references": [
+    "REF-2442"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "crataegus-laevigata",
+   "plant": "Midland Hawthorn",
+   "scientific": "Crataegus laevigata",
+   "common_slug": "midland-hawthorn",
+   "wp_post_id": null,
+   "drug_class": "cardiac-glycosides",
+   "drug_class_label": "Cardiac glycosides",
+   "severity": "caution",
+   "mechanism": "Hawthorn has its own positive effect on the heart and shares P-glycoprotein handling with digoxin, so combining it with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled study found no major change in digoxin levels.",
+   "references": [
+    "REF-2441",
+    "REF-2442"
    ],
    "status": "approved"
   },

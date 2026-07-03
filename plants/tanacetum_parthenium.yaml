@@ -117,6 +117,15 @@ references:
 - REF-1579
 - REF-1580
 - REF-1581
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Feverfew and its component parthenolide inhibit platelet aggregation and serotonin release, so combining it with anticoagulant or antiplatelet drugs may increase bleeding risk.'
+  reference_ids:
+  - REF-2444
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

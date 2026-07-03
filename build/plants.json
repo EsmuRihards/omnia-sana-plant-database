@@ -37101,6 +37101,20 @@
     "REF-0013",
     "REF-2347"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "hormonal-therapies",
+     "severity": "caution",
+     "mechanism": "Red clover is rich in isoflavones that act like weak oestrogens; its safety alongside hormone medicines (such as the contraceptive pill, HRT, or breast-cancer hormone treatments like tamoxifen) or in hormone-sensitive conditions is not established, so combined use warrants caution and medical advice.",
+     "reference_ids": [
+      "REF-2494",
+      "REF-2495"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-27",
@@ -38139,6 +38153,20 @@
     "REF-1345",
     "REF-1346",
     "REF-1347"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Regularly drinking large amounts of cranberry juice has been linked to raised INR and bleeding in people taking warfarin, and UK drug-safety authorities advise caution; occasional small amounts are unlikely to matter. If you take a blood thinner, keep cranberry intake modest and steady and tell your clinician.",
+     "reference_ids": [
+      "REF-2492",
+      "REF-2493"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 58,
+ "count": 60,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -112,6 +112,22 @@
    "mechanism": "Aloe vera (taken internally) can lower blood sugar, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
    "references": [
     "REF-2456"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "vaccinium-macrocarpon",
+   "plant": "American Cranberry",
+   "scientific": "Vaccinium macrocarpon",
+   "common_slug": "american-cranberry",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Regularly drinking large amounts of cranberry juice has been linked to raised INR and bleeding in people taking warfarin, and UK drug-safety authorities advise caution; occasional small amounts are unlikely to matter. If you take a blood thinner, keep cranberry intake modest and steady and tell your clinician.",
+   "references": [
+    "REF-2492",
+    "REF-2493"
    ],
    "status": "approved"
   },
@@ -860,6 +876,22 @@
    "mechanism": "Echinacea can both stimulate immune activity and alter CYP3A/CYP1A2 enzymes, so it may reduce the effect or change the blood levels of immunosuppressant drugs such as ciclosporin and tacrolimus; use only under medical supervision after a transplant or with autoimmune therapy.",
    "references": [
     "REF-2445"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "trifolium-pratense",
+   "plant": "Red Clover",
+   "scientific": "Trifolium pratense",
+   "common_slug": "red-clover",
+   "wp_post_id": null,
+   "drug_class": "hormonal-therapies",
+   "drug_class_label": "Hormonal therapies",
+   "severity": "caution",
+   "mechanism": "Red clover is rich in isoflavones that act like weak oestrogens; its safety alongside hormone medicines (such as the contraceptive pill, HRT, or breast-cancer hormone treatments like tamoxifen) or in hormone-sensitive conditions is not established, so combined use warrants caution and medical advice.",
+   "references": [
+    "REF-2494",
+    "REF-2495"
    ],
    "status": "approved"
   },

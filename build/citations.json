@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2491,
+ "count": 2495,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -54935,6 +54935,33 @@
    ]
   },
   {
+   "ref_id": "REF-2495",
+   "key": "fritz2013isoflavones",
+   "type": "article",
+   "title": "Soy, red clover, and isoflavones and breast cancer: a systematic review",
+   "authors": "Fritz, H., Seely, D., Flower, G., Skidmore, B., Fernandes, R., Vadeboncoeur, S., Kennedy, D., Cooley, K., Wong, R., Sagar, S., Sabri, E. and Fergusson, D.",
+   "journal": "PLoS One",
+   "year": "2013",
+   "doi": "10.1371/journal.pone.0081968",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0081968",
+   "link_type": "doi",
+   "citation": "Fritz, H., Seely, D., Flower, G., Skidmore, B., Fernandes, R., Vadeboncoeur, S., Kennedy, D., Cooley, K., Wong, R., Sagar, S., Sabri, E. and Fergusson, D (2013) 'Soy, red clover, and isoflavones and breast cancer: a systematic review', PLoS One, 8(11), pp. e81968. doi:10.1371/journal.pone.0081968",
+   "abstract": "Systematic review of soy and red clover isoflavones and breast cancer (131 articles). Evidence on red clover is limited but existing studies suggest it may not promote breast cancer; the authors call for better safety evidence before recommending high-dose isoflavones in breast cancer patients. Supports a conservative caution for red clover alongside hormonal therapies pending firmer safety data.",
+   "tier": "review",
+   "display": "Soy, red clover, and isoflavones and breast cancer: a systematic review",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0862",
    "key": "kuchta2013stachydrine",
    "type": "article",
@@ -64096,6 +64123,34 @@
    ]
   },
   {
+   "ref_id": "REF-2493",
+   "key": "paeng2007cranberry",
+   "type": "article",
+   "title": "Interaction between warfarin and cranberry juice",
+   "authors": "Paeng, C.H., Sprague, M. and Jackevicius, C.A.",
+   "journal": "Clinical Therapeutics",
+   "year": "2007",
+   "doi": "10.1016/j.clinthera.2007.08.018",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clinthera.2007.08.018",
+   "link_type": "doi",
+   "citation": "Paeng, C.H., Sprague, M. and Jackevicius, C.A (2007) 'Interaction between warfarin and cranberry juice', Clinical Therapeutics, 29(8), pp. 1730-1735. doi:10.1016/j.clinthera.2007.08.018",
+   "abstract": "Case report of a 78-year-old man on stable warfarin whose INR rose to 6.45 after drinking large amounts of cranberry/apple juice, returning to range after stopping the juice; rated a probable interaction on a modified Naranjo scale. Illustrates that heavy cranberry intake can potentiate warfarin and raise bleeding risk.",
+   "tier": "clinical",
+   "display": "Interaction between warfarin and cranberry juice",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0197",
    "key": "potterat2007morinda",
    "type": "article",
@@ -65082,6 +65137,33 @@
    ]
   },
   {
+   "ref_id": "REF-2494",
+   "key": "booth2006redclover",
+   "type": "article",
+   "title": "Clinical studies of red clover (Trifolium pratense) dietary supplements in menopause: a literature review",
+   "authors": "Booth, N.L., Piersen, C.E., Banuvar, S., Geller, S.E., Shulman, L.P. and Farnsworth, N.R.",
+   "journal": "Menopause",
+   "year": "2006",
+   "doi": "10.1097/01.gme.0000198297.40269.f7",
+   "url": "",
+   "link": "https://doi.org/10.1097/01.gme.0000198297.40269.f7",
+   "link_type": "doi",
+   "citation": "Booth, N.L., Piersen, C.E., Banuvar, S., Geller, S.E., Shulman, L.P. and Farnsworth, N.R (2006) 'Clinical studies of red clover (Trifolium pratense) dietary supplements in menopause: a literature review', Menopause, 13(2), pp. 251-264. doi:10.1097/01.gme.0000198297.40269.f7",
+   "abstract": "Literature review of red clover isoflavone dietary supplements in menopause. Notes that red clover isoflavones are estrogenic phytoestrogens and that the safety of their use in patients with breast or endometrial cancer has not been established - the basis for caution when red clover is combined with hormonal therapies or used in hormone-sensitive conditions.",
+   "tier": "review",
+   "display": "Clinical studies of red clover (Trifolium pratense) dietary supplements in menopause: a literature review",
+   "plants": [
+    "Red Clover",
+    "cow clover",
+    "meadow clover"
+   ],
+   "scientific": [
+    "Trifolium pratense"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1083",
    "key": "banerjee2006clove",
    "type": "article",
@@ -65800,6 +65882,34 @@
    "actions": [
     "Immunomodulator / immune support"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2492",
+   "key": "aston2006cranberry",
+   "type": "article",
+   "title": "Interaction between warfarin and cranberry juice",
+   "authors": "Aston, J.L., Lodolce, A.E. and Shapiro, N.L.",
+   "journal": "Pharmacotherapy",
+   "year": "2006",
+   "doi": "10.1592/phco.26.9.1314",
+   "url": "",
+   "link": "https://doi.org/10.1592/phco.26.9.1314",
+   "link_type": "doi",
+   "citation": "Aston, J.L., Lodolce, A.E. and Shapiro, N.L (2006) 'Interaction between warfarin and cranberry juice', Pharmacotherapy, 26(9), pp. 1314-1319. doi:10.1592/phco.26.9.1314",
+   "abstract": "Review and analysis of the literature on the warfarin-cranberry juice interaction, noting the United Kingdom Committee on Safety of Medicines alert advising against concurrent use. Ingestion of large volumes of cranberry juice can destabilise warfarin therapy (raising INR and bleeding risk), whereas small amounts are not expected to interact; clinicians should monitor and counsel patients.",
+   "tier": "review",
+   "display": "Interaction between warfarin and cranberry juice",
+   "plants": [
+    "American Cranberry",
+    "Bearberry",
+    "Cranberry",
+    "Large cranberry"
+   ],
+   "scientific": [
+    "Vaccinium macrocarpon"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

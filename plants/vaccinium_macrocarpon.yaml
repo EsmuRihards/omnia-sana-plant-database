@@ -113,6 +113,16 @@ references:
 - REF-1345
 - REF-1346
 - REF-1347
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Regularly drinking large amounts of cranberry juice has been linked to raised INR and bleeding in people taking warfarin, and UK drug-safety authorities advise caution; occasional small amounts are unlikely to matter. If you take a blood thinner, keep cranberry intake modest and steady and tell your clinician.'
+  reference_ids:
+  - REF-2492
+  - REF-2493
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+symptom-tool+pubmed
 status: verified
 last_updated: '2026-06-20'

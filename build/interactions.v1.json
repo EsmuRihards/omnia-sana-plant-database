@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 0,
+ "count": 8,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -99,5 +99,136 @@
    "category": "endocrine"
   }
  ],
- "interactions": []
+ "interactions": [
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "CYP induction increases warfarin clearance and can lower INR, reducing the anticoagulant effect; close monitoring is needed.",
+   "references": [
+    "REF-2436",
+    "REF-2434"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "drug_class": "antidepressants-serotonergic",
+   "drug_class_label": "Antidepressants (SSRIs / SNRIs / MAOIs)",
+   "severity": "avoid",
+   "mechanism": "St John's wort raises serotonin activity; combined with SSRIs, SNRIs or MAOIs it can trigger serotonin syndrome (agitation, tremor, sweating, rapid heartbeat).",
+   "references": [
+    "REF-2434",
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "drug_class": "antiretrovirals",
+   "drug_class_label": "Antiretrovirals (HIV medicines)",
+   "severity": "avoid",
+   "mechanism": "Potent CYP3A4 and P-glycoprotein induction lowers antiretroviral levels (indinavir exposure fell ~57%), risking loss of viral control and drug resistance.",
+   "references": [
+    "REF-2431",
+    "REF-2434",
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "drug_class": "cardiac-glycosides",
+   "drug_class_label": "Cardiac glycosides",
+   "severity": "caution",
+   "mechanism": "P-glycoprotein induction lowers digoxin levels (AUC fell ~25% over ten days), which may reduce its effect.",
+   "references": [
+    "REF-2433",
+    "REF-2434"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "drug_class": "hormonal-therapies",
+   "drug_class_label": "Hormonal therapies",
+   "severity": "avoid",
+   "mechanism": "Increased metabolism of ethinylestradiol and progestins reduces contraceptive exposure, causing breakthrough bleeding, ovulation and unplanned pregnancy.",
+   "references": [
+    "REF-2435",
+    "REF-2434"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "drug_class": "immunosuppressants",
+   "drug_class_label": "Immunosuppressants",
+   "severity": "avoid",
+   "mechanism": "Enzyme and transporter induction reduces ciclosporin and tacrolimus levels; reported to cause subtherapeutic concentrations and transplant rejection.",
+   "references": [
+    "REF-2432",
+    "REF-2434",
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "drug_class": "cyp3a4-substrates",
+   "drug_class_label": "Medicines processed by CYP3A4",
+   "severity": "caution",
+   "mechanism": "As a broad CYP3A4 and P-glycoprotein inducer, St John's wort can lower levels of many medicines cleared by this pathway; check each medication individually.",
+   "references": [
+    "REF-2434",
+    "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "drug_class": "statins",
+   "drug_class_label": "Statins (cholesterol-lowering)",
+   "severity": "caution",
+   "mechanism": "CYP3A4 induction lowers levels of simvastatin and atorvastatin, potentially weakening their cholesterol-lowering effect.",
+   "references": [
+    "REF-2436",
+    "REF-2434"
+   ],
+   "status": "approved"
+  }
+ ]
 }

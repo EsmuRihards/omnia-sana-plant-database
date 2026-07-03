@@ -16,8 +16,8 @@
   "plants.json": {
    "schema": "omnia-sana/plants@1",
    "count": 177,
-   "bytes": 983362,
-   "sha256": "d7a7097ccf071c23795378663c2d77490ff8067ebd256b8473894dbde9056199"
+   "bytes": 986719,
+   "sha256": "603fbe344c035b46ec0f2035b93270324f603e1d598d2cc84ad8e6468b424161"
   },
   "vocab.json": {
    "schema": "omnia-sana/vocab@1",
@@ -27,9 +27,9 @@
   },
   "interactions.v1.json": {
    "schema": "omnia-sana/interactions@1",
-   "count": 0,
-   "bytes": 3205,
-   "sha256": "109e4c29d14dc976b331d5ce21e33a08b2e7f47fe401734b4233d03981310837"
+   "count": 8,
+   "bytes": 7705,
+   "sha256": "1eeaeb5cb4c2d5bbd340da9c283ef524ae958ec8272b3407b5a13902e28bae34"
   },
   "pairings.v1.json": {
    "schema": "omnia-sana/pairings@1",

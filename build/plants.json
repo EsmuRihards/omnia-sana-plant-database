@@ -18002,7 +18002,106 @@
      "status": "verified"
     }
    ],
-   "drug_class_interactions": [],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antidepressants-serotonergic",
+     "severity": "avoid",
+     "mechanism": "St John's wort raises serotonin activity; combined with SSRIs, SNRIs or MAOIs it can trigger serotonin syndrome (agitation, tremor, sweating, rapid heartbeat).",
+     "reference_ids": [
+      "REF-2434",
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antiretrovirals",
+     "severity": "avoid",
+     "mechanism": "Potent CYP3A4 and P-glycoprotein induction lowers antiretroviral levels (indinavir exposure fell ~57%), risking loss of viral control and drug resistance.",
+     "reference_ids": [
+      "REF-2431",
+      "REF-2434",
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "immunosuppressants",
+     "severity": "avoid",
+     "mechanism": "Enzyme and transporter induction reduces ciclosporin and tacrolimus levels; reported to cause subtherapeutic concentrations and transplant rejection.",
+     "reference_ids": [
+      "REF-2432",
+      "REF-2434",
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "hormonal-therapies",
+     "severity": "avoid",
+     "mechanism": "Increased metabolism of ethinylestradiol and progestins reduces contraceptive exposure, causing breakthrough bleeding, ovulation and unplanned pregnancy.",
+     "reference_ids": [
+      "REF-2435",
+      "REF-2434"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "CYP induction increases warfarin clearance and can lower INR, reducing the anticoagulant effect; close monitoring is needed.",
+     "reference_ids": [
+      "REF-2436",
+      "REF-2434"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "cardiac-glycosides",
+     "severity": "caution",
+     "mechanism": "P-glycoprotein induction lowers digoxin levels (AUC fell ~25% over ten days), which may reduce its effect.",
+     "reference_ids": [
+      "REF-2433",
+      "REF-2434"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "statins",
+     "severity": "caution",
+     "mechanism": "CYP3A4 induction lowers levels of simvastatin and atorvastatin, potentially weakening their cholesterol-lowering effect.",
+     "reference_ids": [
+      "REF-2436",
+      "REF-2434"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "cyp3a4-substrates",
+     "severity": "caution",
+     "mechanism": "As a broad CYP3A4 and P-glycoprotein inducer, St John's wort can lower levels of many medicines cleared by this pathway; check each medication individually.",
+     "reference_ids": [
+      "REF-2434",
+      "REF-2436"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "references": [
     "REF-0842",
     "REF-0843",

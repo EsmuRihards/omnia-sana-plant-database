@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2511,
+ "count": 2517,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -877,6 +877,33 @@
     "Cardiovascular / heart health",
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-2514",
+   "key": "demoura2025cinnamon",
+   "type": "article",
+   "title": "Effects of cinnamon supplementation on metabolic biomarkers in individuals with type 2 diabetes: a systematic review and meta-analysis",
+   "authors": "de Moura, S.L., Gomes, B.G.R., Guilarducci, M.J., Coelho, O.G.L., Guimaraes, N.S. and Gomes, J.M.G.",
+   "journal": "Nutrition Reviews",
+   "year": "2025",
+   "doi": "10.1093/nutrit/nuae058",
+   "url": "",
+   "link": "https://doi.org/10.1093/nutrit/nuae058",
+   "link_type": "doi",
+   "citation": "de Moura, S.L., Gomes, B.G.R., Guilarducci, M.J., Coelho, O.G.L., Guimaraes, N.S. and Gomes, J.M.G (2025) 'Effects of cinnamon supplementation on metabolic biomarkers in individuals with type 2 diabetes: a systematic review and meta-analysis', Nutrition Reviews, 83(2), pp. 249-279. doi:10.1093/nutrit/nuae058",
+   "abstract": "Systematic review and meta-analysis of 28 randomized controlled trials (3054 patients with type 2 diabetes): cinnamon supplementation significantly reduced fasting blood glucose (-15.26 mg/dL), postprandial glucose (-39.22 mg/dL), HbA1c (-0.56) and HOMA-IR versus control, especially in capsule form at doses of 2 g/day or less. Evidence that cinnamon lowers blood glucose and may add to antidiabetic medicines.",
+   "tier": "review",
+   "display": "Effects of cinnamon supplementation on metabolic biomarkers in individuals with type 2 diabetes: a systematic review and meta-analysis",
+   "plants": [
+    "Ceylon cinnamon",
+    "Sri Lanka cinnamon",
+    "True Cinnamon"
+   ],
+   "scientific": [
+    "Cinnamomum verum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1562",
@@ -8380,6 +8407,36 @@
    ]
   },
   {
+   "ref_id": "REF-2513",
+   "key": "kavyani2023nigella",
+   "type": "article",
+   "title": "Antihypertensive effects of Nigella sativa supplementation: an updated systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Kavyani, Z., Musazadeh, V., Safaei, E., Mohammadi Asmaroud, M., Khashakichafi, F., Ahrabi, S.S. and Dehghan, P.",
+   "journal": "Phytotherapy Research",
+   "year": "2023",
+   "doi": "10.1002/ptr.7891",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7891",
+   "link_type": "doi",
+   "citation": "Kavyani, Z., Musazadeh, V., Safaei, E., Mohammadi Asmaroud, M., Khashakichafi, F., Ahrabi, S.S. and Dehghan, P (2023) 'Antihypertensive effects of Nigella sativa supplementation: an updated systematic review and meta-analysis of randomized controlled trials', Phytotherapy Research, 37(8), pp. 3224-3238. doi:10.1002/ptr.7891",
+   "abstract": "Updated systematic review and meta-analysis of randomized controlled trials: Nigella sativa supplementation significantly reduced systolic (WMD -3.06 mmHg) and diastolic (WMD -2.69 mmHg) blood pressure, supporting black seed as an effective adjunct for blood-pressure management and a potential additive effect with antihypertensive drugs.",
+   "tier": "review",
+   "display": "Antihypertensive effects of Nigella sativa supplementation: an updated systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2210",
    "key": "lejeune2023lavandula",
    "type": "article",
@@ -12989,6 +13046,35 @@
     "Blood sugar / diabetes support",
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-2515",
+   "key": "kim2023fenugreek",
+   "type": "article",
+   "title": "The effect of fenugreek in type 2 diabetes and prediabetes: a systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Kim, J., Noh, W., Kim, A., Choi, Y. and Kim, Y.S.",
+   "journal": "International Journal of Molecular Sciences",
+   "year": "2023",
+   "doi": "10.3390/ijms241813999",
+   "url": "",
+   "link": "https://doi.org/10.3390/ijms241813999",
+   "link_type": "doi",
+   "citation": "Kim, J., Noh, W., Kim, A., Choi, Y. and Kim, Y.S (2023) 'The effect of fenugreek in type 2 diabetes and prediabetes: a systematic review and meta-analysis of randomized controlled trials', International Journal of Molecular Sciences, 24(18), pp. 13999. doi:10.3390/ijms241813999",
+   "abstract": "Systematic review and meta-analysis of 10 randomized controlled trials (706 participants): fenugreek significantly reduced fasting blood glucose, 2-hour post-load glucose and HbA1c in type 2 diabetes and prediabetes, and improved lipid profile, without serious adverse events. Evidence that fenugreek lowers blood glucose and may add to the effect of antidiabetic medicines.",
+   "tier": "review",
+   "display": "The effect of fenugreek in type 2 diabetes and prediabetes: a systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Bird’s foot",
+    "Fenugreek",
+    "Greek clover",
+    "and alholva",
+    "goat’s horn"
+   ],
+   "scientific": [
+    "Trigonella foenum-graecum"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1623",
@@ -41956,6 +42042,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2516",
+   "key": "daryabeygi2017nigella",
+   "type": "article",
+   "title": "Nigella sativa improves glucose homeostasis and serum lipids in type 2 diabetes: a systematic review and meta-analysis",
+   "authors": "Daryabeygi-Khotbehsara, R., Golzarand, M., Ghaffari, M.P. and Djafarian, K.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2017",
+   "doi": "10.1016/j.ctim.2017.08.016",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2017.08.016",
+   "link_type": "doi",
+   "citation": "Daryabeygi-Khotbehsara, R., Golzarand, M., Ghaffari, M.P. and Djafarian, K (2017) 'Nigella sativa improves glucose homeostasis and serum lipids in type 2 diabetes: a systematic review and meta-analysis', Complementary Therapies in Medicine, 35, pp. 6-13. doi:10.1016/j.ctim.2017.08.016",
+   "abstract": "Systematic review and meta-analysis of 7 trials: Nigella sativa supplementation significantly improved fasting blood sugar (-17.84 mg/dL) and HbA1c (-0.71%) as well as total and LDL cholesterol in type 2 diabetes. Evidence that black seed lowers blood glucose and may add to the effect of antidiabetic medicines.",
+   "tier": "review",
+   "display": "Nigella sativa improves glucose homeostasis and serum lipids in type 2 diabetes: a systematic review and meta-analysis",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1994",
    "key": "mandova2017centaurium",
    "type": "article",
@@ -43594,6 +43710,36 @@
    ]
   },
   {
+   "ref_id": "REF-2512",
+   "key": "sahebkar2016nigella",
+   "type": "article",
+   "title": "A systematic review and meta-analysis of randomized controlled trials investigating the effects of supplementation with Nigella sativa (black seed) on blood pressure",
+   "authors": "Sahebkar, A., Soranna, D., Liu, X., Thomopoulos, C., Simental-Mendia, L.E., Derosa, G., Maffioli, P. and Parati, G.",
+   "journal": "Journal of Hypertension",
+   "year": "2016",
+   "doi": "10.1097/HJH.0000000000001049",
+   "url": "",
+   "link": "https://doi.org/10.1097/HJH.0000000000001049",
+   "link_type": "doi",
+   "citation": "Sahebkar, A., Soranna, D., Liu, X., Thomopoulos, C., Simental-Mendia, L.E., Derosa, G., Maffioli, P. and Parati, G (2016) 'A systematic review and meta-analysis of randomized controlled trials investigating the effects of supplementation with Nigella sativa (black seed) on blood pressure', Journal of Hypertension, 34(11), pp. 2127-2135. doi:10.1097/HJH.0000000000001049",
+   "abstract": "Systematic review and meta-analysis of 11 randomized controlled trials (860 individuals): Nigella sativa supplementation significantly reduced systolic (-3.26 mmHg) and diastolic (-2.80 mmHg) blood pressure versus control, with no publication bias. Evidence that black seed lowers blood pressure and may add to the effect of antihypertensive medicines.",
+   "tier": "review",
+   "display": "A systematic review and meta-analysis of randomized controlled trials investigating the effects of supplementation with Nigella sativa (black seed) on blood pressure",
+   "plants": [
+    "Black Caraway",
+    "Black Cumin",
+    "Black Seed",
+    "Habbatul Barakah",
+    "Kalonji",
+    "Roman Coriander"
+   ],
+   "scientific": [
+    "Nigella sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0577",
    "key": "koch2016rhinosinusitis",
    "type": "article",
@@ -44693,6 +44839,36 @@
    "link_type": "doi",
    "citation": "Suksomboon, N., Poolsup, N. and Punthanitisarn, S (2016) 'Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis', Journal of Clinical Pharmacy and Therapeutics, 41(2), pp. 180-188. doi:10.1111/jcpt.12382",
    "abstract": "Systematic review and meta-analysis of 8 randomised trials (470 patients) finding Aloe vera improves fasting plasma glucose in prediabetes and lowers HbA1c in type 2 diabetes, indicating a glucose-lowering effect that can add to antidiabetic medicines.",
+   "tier": "review",
+   "display": "Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis",
+   "plants": [
+    "Aloe Vera",
+    "Barbados Aloe",
+    "Burn Plant",
+    "First Aid Plant",
+    "Medicinal Aloe",
+    "True Aloe"
+   ],
+   "scientific": [
+    "Aloe vera"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2517",
+   "key": "suksomboon2016aloe",
+   "type": "article",
+   "title": "Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis",
+   "authors": "Suksomboon, N., Poolsup, N. and Punthanitisarn, S.",
+   "journal": "Journal of Clinical Pharmacy and Therapeutics",
+   "year": "2016",
+   "doi": "10.1111/jcpt.12382",
+   "url": "",
+   "link": "https://doi.org/10.1111/jcpt.12382",
+   "link_type": "doi",
+   "citation": "Suksomboon, N., Poolsup, N. and Punthanitisarn, S (2016) 'Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis', Journal of Clinical Pharmacy and Therapeutics, 41(2), pp. 180-188. doi:10.1111/jcpt.12382",
+   "abstract": "Systematic review and meta-analysis of 8 randomized controlled trials (470 patients): oral Aloe vera improved fasting plasma glucose in prediabetes and improved HbA1c in type 2 diabetes, indicating a glucose-lowering effect that may add to antidiabetic medicines (heterogeneity was high, so monitoring is advised).",
    "tier": "review",
    "display": "Effect of Aloe vera on glycaemic control in prediabetes and type 2 diabetes: a systematic review and meta-analysis",
    "plants": [

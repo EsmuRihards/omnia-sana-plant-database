@@ -338,10 +338,20 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Black seed (Nigella sativa) lowers fasting blood glucose and HbA1c in trials in people with prediabetes and type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
+  mechanism: 'Black seed (Nigella sativa) lowers fasting blood glucose and HbA1c in trials in people with prediabetes and type 2 diabetes (confirmed by meta-analysis); combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
   reference_ids:
   - REF-2484
   - REF-2485
+  - REF-2516
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: antihypertensives
+  severity: caution
+  mechanism: 'Black seed (Nigella sativa) modestly lowers blood pressure - two meta-analyses of randomised trials found reductions of roughly 3 mmHg systolic and 3 mmHg diastolic. Combined with blood-pressure medicines it may add to their effect, so monitor your blood pressure.'
+  reference_ids:
+  - REF-2512
+  - REF-2513
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

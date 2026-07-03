@@ -2538,9 +2538,10 @@
     {
      "drug_class": "antidiabetics",
      "severity": "caution",
-     "mechanism": "Aloe vera (taken internally) can lower blood sugar, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
+     "mechanism": "Aloe vera (taken internally) can lower blood sugar - a meta-analysis found improved fasting glucose in prediabetes and improved HbA1c in type 2 diabetes - so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
      "reference_ids": [
-      "REF-2456"
+      "REF-2456",
+      "REF-2517"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -9932,9 +9933,10 @@
     {
      "drug_class": "antidiabetics",
      "severity": "caution",
-     "mechanism": "Cinnamon can lower blood sugar, so combining it with diabetes medicines such as insulin, metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.",
+     "mechanism": "Cinnamon can lower blood sugar (a meta-analysis of 28 trials in type 2 diabetes found reduced fasting glucose and HbA1c), so combining it with diabetes medicines such as insulin, metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.",
      "reference_ids": [
-      "REF-2448"
+      "REF-2448",
+      "REF-2514"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -24499,10 +24501,23 @@
     {
      "drug_class": "antidiabetics",
      "severity": "caution",
-     "mechanism": "Black seed (Nigella sativa) lowers fasting blood glucose and HbA1c in trials in people with prediabetes and type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+     "mechanism": "Black seed (Nigella sativa) lowers fasting blood glucose and HbA1c in trials in people with prediabetes and type 2 diabetes (confirmed by meta-analysis); combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
      "reference_ids": [
       "REF-2484",
-      "REF-2485"
+      "REF-2485",
+      "REF-2516"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "antihypertensives",
+     "severity": "caution",
+     "mechanism": "Black seed (Nigella sativa) modestly lowers blood pressure - two meta-analyses of randomised trials found reductions of roughly 3 mmHg systolic and 3 mmHg diastolic. Combined with blood-pressure medicines it may add to their effect, so monitor your blood pressure.",
+     "reference_ids": [
+      "REF-2512",
+      "REF-2513"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -37907,9 +37922,10 @@
     {
      "drug_class": "antidiabetics",
      "severity": "caution",
-     "mechanism": "Fenugreek seed lowers fasting and post-meal blood sugar, so taken with diabetes medicines it may add to their effect and increase the risk of hypoglycaemia; monitor blood glucose.",
+     "mechanism": "Fenugreek seed lowers fasting and post-meal blood sugar (confirmed by a meta-analysis of randomised trials in type 2 diabetes and prediabetes), so taken with diabetes medicines it may add to their effect and increase the risk of hypoglycaemia; monitor blood glucose.",
      "reference_ids": [
-      "REF-2449"
+      "REF-2449",
+      "REF-2515"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",

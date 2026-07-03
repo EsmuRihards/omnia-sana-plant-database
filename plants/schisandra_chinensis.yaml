@@ -157,10 +157,12 @@ references:
 drug_class_interactions:
 - drug_class: immunosuppressants
   severity: caution
-  mechanism: 'Schisandra lignans inhibit the CYP3A enzyme that clears tacrolimus and ciclosporin; in transplant patients a schisandra preparation raised tacrolimus blood levels (letting doses be lowered). The strongest evidence is for the related species Schisandra sphenanthera, but the lignans are shared, so combined use warrants monitoring of immunosuppressant levels.'
+  mechanism: 'Schisandra lignans inhibit the CYP3A enzyme that clears tacrolimus and ciclosporin; in transplant patients a schisandra preparation raised tacrolimus blood levels by roughly 2-3 fold (letting doses be lowered). The strongest evidence is for the related species Schisandra sphenanthera, but the lignans are shared, so combined use warrants monitoring of immunosuppressant levels.'
   reference_ids:
   - REF-2480
   - REF-2481
+  - REF-2505
+  - REF-2506
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -170,6 +172,8 @@ drug_class_interactions:
   reference_ids:
   - REF-2481
   - REF-2480
+  - REF-2505
+  - REF-2506
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

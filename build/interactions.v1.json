@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 84,
+ "count": 85,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -514,6 +514,22 @@
    "mechanism": "Ginkgo's antiplatelet effect may add to the bleeding risk of NSAIDs such as ibuprofen; case reports of bleeding exist.",
    "references": [
     "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hydrastis-canadensis",
+   "plant": "Goldenseal",
+   "scientific": "Hydrastis canadensis",
+   "common_slug": "goldenseal",
+   "wp_post_id": null,
+   "drug_class": "cyp3a4-substrates",
+   "drug_class_label": "Medicines processed by CYP3A4",
+   "severity": "caution",
+   "mechanism": "Goldenseal's berberine and hydrastine strongly inhibit CYP3A4 (and also CYP2D6), enzymes that clear many medicines. In a controlled study in healthy volunteers, 28 days of goldenseal cut CYP3A4/5 and CYP2D6 activity by roughly 40%, so it can raise the blood levels and side effects of drugs handled by these pathways - for example some statins, calcium-channel blockers and sedatives (CYP3A4), and certain antidepressants, beta-blockers and opioids (CYP2D6). Separate dosing and monitor, or avoid combining with narrow-margin medicines.",
+   "references": [
+    "REF-2503",
+    "REF-2504"
    ],
    "status": "approved"
   },
@@ -1235,10 +1251,12 @@
    "drug_class": "immunosuppressants",
    "drug_class_label": "Immunosuppressants",
    "severity": "caution",
-   "mechanism": "Schisandra lignans inhibit the CYP3A enzyme that clears tacrolimus and ciclosporin; in transplant patients a schisandra preparation raised tacrolimus blood levels (letting doses be lowered). The strongest evidence is for the related species Schisandra sphenanthera, but the lignans are shared, so combined use warrants monitoring of immunosuppressant levels.",
+   "mechanism": "Schisandra lignans inhibit the CYP3A enzyme that clears tacrolimus and ciclosporin; in transplant patients a schisandra preparation raised tacrolimus blood levels by roughly 2-3 fold (letting doses be lowered). The strongest evidence is for the related species Schisandra sphenanthera, but the lignans are shared, so combined use warrants monitoring of immunosuppressant levels.",
    "references": [
     "REF-2480",
-    "REF-2481"
+    "REF-2481",
+    "REF-2505",
+    "REF-2506"
    ],
    "status": "approved"
   },
@@ -1254,7 +1272,9 @@
    "mechanism": "Schisandra lignans inhibit CYP3A, a major drug-metabolising enzyme, which can raise the blood levels of medicines cleared by this pathway; check each medication individually and watch for stronger effects or side effects.",
    "references": [
     "REF-2481",
-    "REF-2480"
+    "REF-2480",
+    "REF-2505",
+    "REF-2506"
    ],
    "status": "approved"
   },

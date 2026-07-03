@@ -132,6 +132,16 @@ references:
 - REF-1855
 - REF-1856
 - REF-1857
+drug_class_interactions:
+- drug_class: cyp3a4-substrates
+  severity: caution
+  mechanism: 'Goldenseal''s berberine and hydrastine strongly inhibit CYP3A4 (and also CYP2D6), enzymes that clear many medicines. In a controlled study in healthy volunteers, 28 days of goldenseal cut CYP3A4/5 and CYP2D6 activity by roughly 40%, so it can raise the blood levels and side effects of drugs handled by these pathways - for example some statins, calcium-channel blockers and sedatives (CYP3A4), and certain antidepressants, beta-blockers and opioids (CYP2D6). Separate dosing and monitor, or avoid combining with narrow-margin medicines.'
+  reference_ids:
+  - REF-2503
+  - REF-2504
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

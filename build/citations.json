@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2502,
+ "count": 2506,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -29685,6 +29685,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2504",
+   "key": "mcdonald2020goldenseal",
+   "type": "article",
+   "title": "Modulation of major human liver microsomal cytochromes P450 by component alkaloids of goldenseal: time-dependent inhibition and allosteric effects",
+   "authors": "McDonald, M.G., Tian, D.D., Thummel, K.E., Paine, M.F. and Rettie, A.E.",
+   "journal": "Drug Metabolism and Disposition",
+   "year": "2020",
+   "doi": "10.1124/dmd.120.091041",
+   "url": "",
+   "link": "https://doi.org/10.1124/dmd.120.091041",
+   "link_type": "doi",
+   "citation": "McDonald, M.G., Tian, D.D., Thummel, K.E., Paine, M.F. and Rettie, A.E (2020) 'Modulation of major human liver microsomal cytochromes P450 by component alkaloids of goldenseal: time-dependent inhibition and allosteric effects', Drug Metabolism and Disposition, 48(10), pp. 1018-1027. doi:10.1124/dmd.120.091041",
+   "abstract": "Human liver microsome study showing the goldenseal isoquinoline alkaloids berberine and hydrastine cause time-dependent (mechanism-based) inhibition of CYP3A4/5, CYP2D6 and CYP2C9. Provides the mechanistic basis for goldenseal raising the blood levels of medicines metabolised by these enzymes.",
+   "tier": "preclinical",
+   "display": "Modulation of major human liver microsomal cytochromes P450 by component alkaloids of goldenseal: time-dependent inhibition and allosteric effects",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1421",
    "key": "yoshitomi2020noni",
    "type": "article",
@@ -58521,6 +58549,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2506",
+   "key": "xin2011schisandra",
+   "type": "article",
+   "title": "Effects of Schisandra sphenanthera extract on the blood concentration of tacrolimus in renal transplant recipients",
+   "authors": "Xin, H.W., Li, Q., Wu, X.C., He, Y., Yu, A.R., Xiong, L. and Xiong, Y.",
+   "journal": "European Journal of Clinical Pharmacology",
+   "year": "2011",
+   "doi": "10.1007/s00228-011-1075-7",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00228-011-1075-7",
+   "link_type": "doi",
+   "citation": "Xin, H.W., Li, Q., Wu, X.C., He, Y., Yu, A.R., Xiong, L. and Xiong, Y (2011) 'Effects of Schisandra sphenanthera extract on the blood concentration of tacrolimus in renal transplant recipients', European Journal of Clinical Pharmacology, 67(12), pp. 1309-1311. doi:10.1007/s00228-011-1075-7",
+   "abstract": "Controlled clinical trial in renal transplant recipients showing Schisandra sphenanthera extract raises blood tacrolimus concentrations, consistent with CYP3A inhibition by schisandra lignans. Supports monitoring immunosuppressant levels when schisandra is co-administered.",
+   "tier": "clinical",
+   "display": "Effects of Schisandra sphenanthera extract on the blood concentration of tacrolimus in renal transplant recipients",
+   "plants": [
+    "Five-flavour berry",
+    "Magnolia berry",
+    "Schisandra",
+    "Wu wei zi"
+   ],
+   "scientific": [
+    "Schisandra chinensis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0074",
    "key": "european2011european",
    "type": "misc",
@@ -59794,6 +59850,34 @@
     "Cardiovascular / heart health",
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-2505",
+   "key": "jiang2010schisandra",
+   "type": "article",
+   "title": "Effect of Schisandra sphenanthera extract on the concentration of tacrolimus in the blood of liver transplant patients",
+   "authors": "Jiang, W., Wang, X., Xu, X. and Kong, L.",
+   "journal": "International Journal of Clinical Pharmacology and Therapeutics",
+   "year": "2010",
+   "doi": "10.5414/cpp48224",
+   "url": "",
+   "link": "https://doi.org/10.5414/cpp48224",
+   "link_type": "doi",
+   "citation": "Jiang, W., Wang, X., Xu, X. and Kong, L (2010) 'Effect of Schisandra sphenanthera extract on the concentration of tacrolimus in the blood of liver transplant patients', International Journal of Clinical Pharmacology and Therapeutics, 48(3), pp. 224-229. doi:10.5414/cpp48224",
+   "abstract": "Controlled clinical trial in 46 liver transplant patients: co-administration of Schisandra sphenanthera extract increased mean blood tacrolimus concentration by 262-339 percent and tacrolimus AUC by about 212 percent, allowing dose reductions and improving liver-function indices. Human evidence that schisandra lignans inhibit CYP3A and raise immunosuppressant levels.",
+   "tier": "clinical",
+   "display": "Effect of Schisandra sphenanthera extract on the concentration of tacrolimus in the blood of liver transplant patients",
+   "plants": [
+    "Five-flavour berry",
+    "Magnolia berry",
+    "Schisandra",
+    "Wu wei zi"
+   ],
+   "scientific": [
+    "Schisandra chinensis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0262",
@@ -66963,6 +67047,34 @@
    ],
    "scientific": [
     "Rhododendron tomentosum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2503",
+   "key": "gurley2005goldenseal",
+   "type": "article",
+   "title": "In vivo effects of goldenseal, kava kava, black cohosh, and valerian on human cytochrome P450 1A2, 2D6, 2E1, and 3A4/5 phenotypes",
+   "authors": "Gurley, B.J., Gardner, S.F., Hubbard, M.A., Williams, D.K., Gentry, W.B., Khan, I.A. and Shah, A.",
+   "journal": "Clinical Pharmacology and Therapeutics",
+   "year": "2005",
+   "doi": "10.1016/j.clpt.2005.01.009",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clpt.2005.01.009",
+   "link_type": "doi",
+   "citation": "Gurley, B.J., Gardner, S.F., Hubbard, M.A., Williams, D.K., Gentry, W.B., Khan, I.A. and Shah, A (2005) 'In vivo effects of goldenseal, kava kava, black cohosh, and valerian on human cytochrome P450 1A2, 2D6, 2E1, and 3A4/5 phenotypes', Clinical Pharmacology and Therapeutics, 77(5), pp. 415-426. doi:10.1016/j.clpt.2005.01.009",
+   "abstract": "Randomized crossover probe-drug study in 12 healthy volunteers: 28 days of goldenseal (Hydrastis canadensis) supplementation significantly inhibited CYP2D6 and CYP3A4/5 activity in vivo by roughly 40 percent (measured by debrisoquine urinary recovery and 1-hydroxymidazolam/midazolam serum ratios). The authors conclude serious adverse interactions may result from taking goldenseal with CYP2D6 and CYP3A4/5 substrate drugs. Basis for cautioning goldenseal alongside medicines cleared by these enzymes.",
+   "tier": "rct",
+   "display": "In vivo effects of goldenseal, kava kava, black cohosh, and valerian on human cytochrome P450 1A2, 2D6, 2E1, and 3A4/5 phenotypes",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
    ],
    "actions": [],
    "conditions": []

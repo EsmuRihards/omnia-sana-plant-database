@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 36,
+ "count": 38,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -297,6 +297,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "gymnema-sylvestre",
+   "plant": "Gymnema",
+   "scientific": "Gymnema sylvestre",
+   "common_slug": "gymnema",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Gymnema lowers blood glucose and can add to the effect of diabetes medicines (metformin, sulfonylureas, insulin and others), so combined use may cause blood sugar to fall too low; monitor closely and adjust medication doses under medical supervision.",
+   "references": [
+    "REF-2465",
+    "REF-2466"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "crataegus-monogyna",
    "plant": "Hawthorn",
    "scientific": "Crataegus monogyna",
@@ -339,6 +355,22 @@
    "mechanism": "Horse chestnut seed contains aescin and coumarin-like constituents (esculin) that may add to the effect of blood-thinning or antiplatelet drugs, so combined use should be monitored.",
    "references": [
     "REF-2446"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "piper-methysticum",
+   "plant": "Kava",
+   "scientific": "Piper methysticum",
+   "common_slug": "kava",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Kava adds to central-nervous-system depression, so combining it with benzodiazepines, sleeping tablets, opioids, barbiturates or alcohol can cause excessive drowsiness and impaired coordination.",
+   "references": [
+    "REF-2460",
+    "REF-2462"
    ],
    "status": "approved"
   },

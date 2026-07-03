@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/plants@1",
- "count": 177,
+ "count": 179,
  "plants": [
   {
    "id": "achillea-millefolium",
@@ -16447,6 +16447,172 @@
    "common_slug": "licorice-root"
   },
   {
+   "id": "gymnema-sylvestre",
+   "scientific_name": "Gymnema sylvestre",
+   "common_names": [
+    "Gymnema",
+    "Gurmar",
+    "Australian Cowplant",
+    "Periploca of the Woods",
+    "Meshasringi"
+   ],
+   "family": "Apocynaceae",
+   "synonyms": [
+    "Asclepias geminata",
+    "Periploca sylvestris"
+   ],
+   "wp_post_id": null,
+   "parts_used": [
+    "Leaf"
+   ],
+   "constituents": [
+    {
+     "name": "Gymnemic acids (triterpene saponins)",
+     "note": "Main bioactives; suppress sweet taste and are linked to reduced intestinal glucose absorption and improved glycaemic control.",
+     "reference_ids": [
+      "REF-2465",
+      "REF-2467"
+     ]
+    },
+    {
+     "name": "Gurmarin",
+     "note": "A peptide that transiently blunts sweet-taste perception.",
+     "reference_ids": [
+      "REF-2467"
+     ]
+    }
+   ],
+   "actions": [
+    {
+     "action": "antidiabetic",
+     "parts": [
+      "Leaf"
+     ],
+     "note": "Leaf extracts lower fasting and post-prandial blood glucose and glycated haemoglobin in type 2 diabetics, partly via reduced intestinal glucose absorption (alpha-glucosidase/amylase inhibition) and support of insulin secretion.",
+     "reference_ids": [
+      "REF-2465",
+      "REF-2466",
+      "REF-2467",
+      "REF-2469"
+     ],
+     "status": "verified"
+    },
+    {
+     "action": "lipid-lowering",
+     "parts": [
+      "Leaf"
+     ],
+     "note": "Supplementation has been associated with a favourable shift in the lipid profile alongside glucose lowering.",
+     "reference_ids": [
+      "REF-2466"
+     ],
+     "status": "verified"
+    }
+   ],
+   "indications": [
+    {
+     "condition": "blood-sugar",
+     "reference_ids": [
+      "REF-2465",
+      "REF-2466",
+      "REF-2467"
+     ],
+     "status": "verified",
+     "evidence": 9,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "metabolic-support",
+     "note": "inferred from antidiabetic action",
+     "reference_ids": [
+      "REF-2465",
+      "REF-2466"
+     ],
+     "status": "needs-review",
+     "evidence": 4,
+     "label": "Metabolic support"
+    },
+    {
+     "condition": "high-cholesterol",
+     "note": "inferred from lipid-lowering action",
+     "reference_ids": [
+      "REF-2466"
+     ],
+     "status": "needs-review",
+     "evidence": 3,
+     "label": "High cholesterol"
+    }
+   ],
+   "contraindications": [
+    {
+     "note": "Gymnema lowers blood sugar and can add to the effect of diabetes medicines or insulin, risking hypoglycaemia; people on such treatment should monitor blood glucose closely and may need a dose adjustment supervised by their clinician. Rare drug-induced liver injury has been reported. Avoid in pregnancy and breastfeeding (insufficient safety data).",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-2465",
+      "REF-2466",
+      "REF-2468"
+     ],
+     "status": "verified"
+    }
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "antidiabetics",
+     "severity": "caution",
+     "mechanism": "Gymnema lowers blood glucose and can add to the effect of diabetes medicines (metformin, sulfonylureas, insulin and others), so combined use may cause blood sugar to fall too low; monitor closely and adjust medication doses under medical supervision.",
+     "reference_ids": [
+      "REF-2465",
+      "REF-2466"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
+   "pairings": [
+    {
+     "partner_id": "trigonella-foenum-graecum",
+     "type": "caution",
+     "note": "Gymnema and fenugreek both lower blood sugar; taking them together may add up and push blood glucose too low, especially alongside diabetes medication, so monitor and use caution.",
+     "reference_ids": [
+      "REF-2467"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "momordica-charantia",
+     "type": "caution",
+     "note": "Gymnema and bitter melon both lower blood sugar; combined use may add up and risk hypoglycaemia, particularly with diabetes drugs, so monitor blood glucose.",
+     "reference_ids": [
+      "REF-2467"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "cinnamomum-cassia",
+     "type": "caution",
+     "note": "Gymnema and cassia cinnamon are both used to lower blood sugar; together their effects may add up, so watch for low blood sugar when combining them or using them with diabetes medication.",
+     "reference_ids": [
+      "REF-2467"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
+   "references": [
+    "REF-2469"
+   ],
+   "provenance": "pubmed",
+   "status": "verified",
+   "last_updated": "2026-07-03",
+   "common_slug": "gymnema"
+  },
+  {
    "id": "hamamelis-virginiana",
    "scientific_name": "Hamamelis virginiana",
    "common_names": [
@@ -26917,6 +27083,172 @@
    "status": "verified",
    "last_updated": "2026-06-20",
    "common_slug": "scots-pine"
+  },
+  {
+   "id": "piper-methysticum",
+   "scientific_name": "Piper methysticum",
+   "common_names": [
+    "Kava",
+    "Kava Kava",
+    "Kawa",
+    "Awa",
+    "Yaqona"
+   ],
+   "family": "Piperaceae",
+   "synonyms": [
+    "Macropiper methysticum"
+   ],
+   "wp_post_id": null,
+   "parts_used": [
+    "Root",
+    "Rhizome"
+   ],
+   "constituents": [
+    {
+     "name": "Kavalactones (kavain, dihydrokavain, methysticin, dihydromethysticin, yangonin, desmethoxyyangonin)",
+     "note": "Lipophilic lactones concentrated in the root/rhizome; regarded as the main anxiolytic constituents, acting on GABA-A signalling and other CNS targets.",
+     "reference_ids": [
+      "REF-2462",
+      "REF-2464"
+     ]
+    }
+   ],
+   "actions": [
+    {
+     "action": "anxiolytic",
+     "parts": [
+      "Root",
+      "Rhizome"
+     ],
+     "note": "Standardised kava extracts significantly reduce anxiety versus placebo in controlled trials (Hamilton Anxiety scale).",
+     "reference_ids": [
+      "REF-2462",
+      "REF-2463"
+     ],
+     "status": "verified"
+    },
+    {
+     "action": "sedative",
+     "parts": [
+      "Root",
+      "Rhizome"
+     ],
+     "note": "Kavalactones have calming, sleep-supporting and muscle-relaxant effects and can add to the action of other CNS depressants.",
+     "reference_ids": [
+      "REF-2462",
+      "REF-2460"
+     ],
+     "status": "verified"
+    }
+   ],
+   "indications": [
+    {
+     "condition": "anxiety",
+     "reference_ids": [
+      "REF-2462",
+      "REF-2463"
+     ],
+     "status": "verified",
+     "evidence": 8,
+     "label": "Anxiety"
+    },
+    {
+     "condition": "stress",
+     "note": "inferred from anxiolytic action",
+     "reference_ids": [
+      "REF-2462",
+      "REF-2463"
+     ],
+     "status": "needs-review",
+     "evidence": 8,
+     "label": "Stress"
+    },
+    {
+     "condition": "nervous-tension",
+     "note": "inferred from anxiolytic action",
+     "reference_ids": [
+      "REF-2462"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Nervous tension"
+    },
+    {
+     "condition": "insomnia",
+     "note": "inferred from sedative action",
+     "reference_ids": [
+      "REF-2462",
+      "REF-2460"
+     ],
+     "status": "needs-review",
+     "evidence": 8,
+     "label": "Insomnia / sleeplessness"
+    }
+   ],
+   "contraindications": [
+    {
+     "note": "Rare but serious drug-induced liver injury (hepatitis, cirrhosis, liver failure) has been reported with kava; it is contraindicated in people with liver disease and should not be combined with alcohol or other medicines that can harm the liver. To reduce risk, use only water-based extracts of peeled root/rhizome from a noble cultivar, keep the dose at or below about 250 mg kavalactones per day, and use short-term only. Stop and seek care for signs of liver trouble (dark urine, jaundice, nausea, abdominal pain).",
+     "severity": "serious",
+     "reference_ids": [
+      "REF-2464"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Kava is sedating and can add to the effects of alcohol, benzodiazepines and other central-nervous-system depressants, impairing alertness and driving; avoid such combinations. Not recommended in pregnancy or breastfeeding, or before surgery.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-2460",
+      "REF-2462"
+     ],
+     "status": "verified"
+    }
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Kava adds to central-nervous-system depression, so combining it with benzodiazepines, sleeping tablets, opioids, barbiturates or alcohol can cause excessive drowsiness and impaired coordination.",
+     "reference_ids": [
+      "REF-2460",
+      "REF-2462"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
+   "pairings": [
+    {
+     "partner_id": "valeriana-officinalis",
+     "type": "caution",
+     "note": "Kava and valerian are both calming, sedating herbs; taken together they may add up to cause excessive drowsiness, so use caution and avoid before driving or combining with other sedatives.",
+     "reference_ids": [
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "passiflora-incarnata",
+     "type": "caution",
+     "note": "Kava and passionflower are both relaxing, sedating herbs; combined use may deepen drowsiness and sedation, so use caution.",
+     "reference_ids": [
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
+   "references": [
+    "REF-2460"
+   ],
+   "provenance": "pubmed",
+   "status": "verified",
+   "last_updated": "2026-07-03",
+   "common_slug": "kava"
   },
   {
    "id": "plantago-lanceolata",

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 175,
+ "count": 177,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -11062,6 +11062,48 @@
    ]
   },
   {
+   "name": "Gymnema",
+   "scientific": "Gymnema sylvestre",
+   "id": "gymnema-sylvestre",
+   "common_slug": "gymnema",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 9,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2465",
+      "REF-2466",
+      "REF-2467"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 4,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2465",
+      "REF-2466"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 3,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2466"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Hawthorn",
    "scientific": "Crataegus monogyna",
    "id": "crataegus-monogyna",
@@ -12124,6 +12166,58 @@
       "REF-0240",
       "REF-1007",
       "REF-1011"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Kava",
+   "scientific": "Piper methysticum",
+   "id": "piper-methysticum",
+   "common_slug": "kava",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "anxiety",
+     "label": "Anxiety",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2462",
+      "REF-2463"
+     ]
+    },
+    {
+     "condition": "insomnia",
+     "label": "Insomnia / sleeplessness",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2462",
+      "REF-2460"
+     ]
+    },
+    {
+     "condition": "stress",
+     "label": "Stress",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2462",
+      "REF-2463"
+     ]
+    },
+    {
+     "condition": "nervous-tension",
+     "label": "Nervous tension",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2462"
      ]
     }
    ]

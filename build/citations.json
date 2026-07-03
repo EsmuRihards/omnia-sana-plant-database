@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2461,
+ "count": 2469,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -37397,6 +37397,39 @@
    ]
   },
   {
+   "ref_id": "REF-2467",
+   "key": "alam2018gymnema",
+   "type": "article",
+   "title": "Enzymes inhibitors from natural sources with antidiabetic activity: A review",
+   "authors": "Alam, F., Shafique, Z., Amjad, S.T. and Bin Asad, M.H.H.",
+   "journal": "Phytotherapy Research",
+   "year": "2018",
+   "doi": "10.1002/ptr.6211",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.6211",
+   "link_type": "doi",
+   "citation": "Alam, F., Shafique, Z., Amjad, S.T. and Bin Asad, M.H.H (2018) 'Enzymes inhibitors from natural sources with antidiabetic activity: A review', Phytotherapy Research, 33(1), pp. 41-54. doi:10.1002/ptr.6211",
+   "abstract": "Review of plant-derived enzyme inhibitors with antidiabetic activity describing how species including Gymnema sylvestre lower blood glucose through mechanisms such as inhibition of intestinal alpha-glucosidase and alpha-amylase, stimulation of insulin secretion and reduced glucose absorption.",
+   "tier": "review",
+   "display": "Enzymes inhibitors from natural sources with antidiabetic activity: A review",
+   "plants": [
+    "Australian Cowplant",
+    "Gurmar",
+    "Gymnema",
+    "Meshasringi",
+    "Periploca of the Woods"
+   ],
+   "scientific": [
+    "Gymnema sylvestre"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support"
+   ]
+  },
+  {
    "ref_id": "REF-0803",
    "key": "vitalone2018epilobium",
    "type": "article",
@@ -54575,6 +54608,37 @@
    ]
   },
   {
+   "ref_id": "REF-2469",
+   "key": "khan2012antidiabetic",
+   "type": "article",
+   "title": "A pharmacological appraisal of medicinal plants with antidiabetic potential",
+   "authors": "Khan, V., Najmi, A.K., Akhtar, M., Aqil, M., Mujeeb, M. and Pillai, K.K.",
+   "journal": "Journal of Pharmacy and Bioallied Sciences",
+   "year": "2012",
+   "doi": "10.4103/0975-7406.92727",
+   "url": "",
+   "link": "https://doi.org/10.4103/0975-7406.92727",
+   "link_type": "doi",
+   "citation": "Khan, V., Najmi, A.K., Akhtar, M., Aqil, M., Mujeeb, M. and Pillai, K.K (2012) 'A pharmacological appraisal of medicinal plants with antidiabetic potential', Journal of Pharmacy and Bioallied Sciences, 4(1), pp. 27-42. doi:10.4103/0975-7406.92727",
+   "abstract": "Review of medicinal plants with established antidiabetic activity, including Gymnema sylvestre, describing their blood-sugar-lowering mechanisms and traditional use as lower-cost, better-tolerated adjuncts in the management of diabetes mellitus.",
+   "tier": "review",
+   "display": "A pharmacological appraisal of medicinal plants with antidiabetic potential",
+   "plants": [
+    "Australian Cowplant",
+    "Gurmar",
+    "Gymnema",
+    "Meshasringi",
+    "Periploca of the Woods"
+   ],
+   "scientific": [
+    "Gymnema sylvestre"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1334",
    "key": "azimi2012nettle",
    "type": "article",
@@ -57866,6 +57930,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2464",
+   "key": "teschke2011kava",
+   "type": "article",
+   "title": "Kava and kava hepatotoxicity: requirements for novel experimental, ethnobotanical and clinical studies based on a review of the evidence",
+   "authors": "Teschke, R., Qiu, S.X., Xuan, T.D. and Lebot, V.",
+   "journal": "Phytotherapy Research",
+   "year": "2011",
+   "doi": "10.1002/ptr.3464",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.3464",
+   "link_type": "doi",
+   "citation": "Teschke, R., Qiu, S.X., Xuan, T.D. and Lebot, V (2011) 'Kava and kava hepatotoxicity: requirements for novel experimental, ethnobotanical and clinical studies based on a review of the evidence', Phytotherapy Research, 25(9), pp. 1263-1274. doi:10.1002/ptr.3464",
+   "abstract": "Review of kava hepatotoxicity describing rare but well-documented cases of severe drug-induced liver injury linked to poor-quality raw material, adulterants and non-noble cultivars, and recommending water-based extracts of peeled rhizome/root from noble cultivars and a limit of about 250 mg kavalactones/day to minimise liver risk.",
+   "tier": "review",
+   "display": "Kava and kava hepatotoxicity: requirements for novel experimental, ethnobotanical and clinical studies based on a review of the evidence",
+   "plants": [
+    "Awa",
+    "Kava",
+    "Kava Kava",
+    "Kawa",
+    "Yaqona"
+   ],
+   "scientific": [
+    "Piper methysticum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2317",
    "key": "suryakumar2011hippophae",
    "type": "article",
@@ -58516,6 +58609,42 @@
     "Digestive aid"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2466",
+   "key": "kumar2010gymnema",
+   "type": "article",
+   "title": "An open label study on the supplementation of Gymnema sylvestre in type 2 diabetics",
+   "authors": "Kumar, S.N., Mani, U.V. and Mani, I.",
+   "journal": "Journal of Dietary Supplements",
+   "year": "2010",
+   "doi": "10.3109/19390211.2010.505901",
+   "url": "",
+   "link": "https://doi.org/10.3109/19390211.2010.505901",
+   "link_type": "doi",
+   "citation": "Kumar, S.N., Mani, U.V. and Mani, I (2010) 'An open label study on the supplementation of Gymnema sylvestre in type 2 diabetics', Journal of Dietary Supplements, 7(3), pp. 273-282. doi:10.3109/19390211.2010.505901",
+   "abstract": "Controlled open-label study supplementing 500 mg/day Gymnema sylvestre for 3 months in type 2 diabetics, reporting reductions in fasting and post-prandial blood glucose and glycated haemoglobin, reduced polyphagia and fatigue, and a favourable shift in lipid profile.",
+   "tier": "clinical",
+   "display": "An open label study on the supplementation of Gymnema sylvestre in type 2 diabetics",
+   "plants": [
+    "Australian Cowplant",
+    "Gurmar",
+    "Gymnema",
+    "Meshasringi",
+    "Periploca of the Woods"
+   ],
+   "scientific": [
+    "Gymnema sylvestre"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)",
+    "Lipid-lowering"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "High cholesterol",
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-1051",
@@ -59692,6 +59821,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2468",
+   "key": "shiyovich2010gymnema",
+   "type": "article",
+   "title": "Toxic hepatitis induced by Gymnema sylvestre, a natural remedy for type 2 diabetes mellitus",
+   "authors": "Shiyovich, A., Sztarkier, I. and Nesher, L.",
+   "journal": "The American Journal of the Medical Sciences",
+   "year": "2010",
+   "doi": "10.1097/MAJ.0b013e3181f41168",
+   "url": "",
+   "link": "https://doi.org/10.1097/MAJ.0b013e3181f41168",
+   "link_type": "doi",
+   "citation": "Shiyovich, A., Sztarkier, I. and Nesher, L (2010) 'Toxic hepatitis induced by Gymnema sylvestre, a natural remedy for type 2 diabetes mellitus', The American Journal of the Medical Sciences, 340(6), pp. 514-517. doi:10.1097/MAJ.0b013e3181f41168",
+   "abstract": "Case report of drug-induced (toxic) hepatitis in a patient taking Gymnema sylvestre for type 2 diabetes, the first reported association of the herb with liver injury, underscoring the need to monitor for rare hepatic reactions during use.",
+   "tier": "clinical",
+   "display": "Toxic hepatitis induced by Gymnema sylvestre, a natural remedy for type 2 diabetes mellitus",
+   "plants": [
+    "Australian Cowplant",
+    "Gurmar",
+    "Gymnema",
+    "Meshasringi",
+    "Periploca of the Woods"
+   ],
+   "scientific": [
+    "Gymnema sylvestre"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0141",
    "key": "koetter2010valerian",
    "type": "misc",
@@ -60557,6 +60715,40 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2463",
+   "key": "sarris2009kava",
+   "type": "article",
+   "title": "Kava Anxiety Depression Spectrum Study (KADSS): a mixed methods RCT using an aqueous extract of Piper methysticum",
+   "authors": "Sarris, J., Kavanagh, D.J., Adams, J., Bone, K. and Byrne, G.",
+   "journal": "Complementary Therapies in Medicine",
+   "year": "2009",
+   "doi": "10.1016/j.ctim.2009.01.001",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.ctim.2009.01.001",
+   "link_type": "doi",
+   "citation": "Sarris, J., Kavanagh, D.J., Adams, J., Bone, K. and Byrne, G (2009) 'Kava Anxiety Depression Spectrum Study (KADSS): a mixed methods RCT using an aqueous extract of Piper methysticum', Complementary Therapies in Medicine, 17(3), pp. 176-178. doi:10.1016/j.ctim.2009.01.001",
+   "abstract": "Placebo-controlled double-blind cross-over randomised controlled trial of a standardised aqueous extract of Piper methysticum (kava) in 60 adults with elevated anxiety and varying depressive symptoms, assessing anxiolytic and thymoleptic (mood) efficacy and the safety of an aqueous kava preparation in humans.",
+   "tier": "rct",
+   "display": "Kava Anxiety Depression Spectrum Study (KADSS): a mixed methods RCT using an aqueous extract of Piper methysticum",
+   "plants": [
+    "Awa",
+    "Kava",
+    "Kava Kava",
+    "Kawa",
+    "Yaqona"
+   ],
+   "scientific": [
+    "Piper methysticum"
+   ],
+   "actions": [
+    "Anxiolytic / calming"
+   ],
+   "conditions": [
+    "Anxiety",
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-1754",
@@ -67126,10 +67318,15 @@
    "tier": "review",
    "display": "Safety and efficacy of herbal sedatives in cancer care",
    "plants": [
+    "Awa",
     "Chamomile",
     "German chamomile",
+    "Kava",
+    "Kava Kava",
+    "Kawa",
     "Lemon balm",
     "Scented Mayweed",
+    "Yaqona",
     "bee balm",
     "blue chamomile",
     "sweet balm",
@@ -67137,10 +67334,15 @@
    ],
    "scientific": [
     "Matricaria chamomilla",
-    "Melissa officinalis"
+    "Melissa officinalis",
+    "Piper methysticum"
    ],
-   "actions": [],
-   "conditions": []
+   "actions": [
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Insomnia / sleeplessness"
+   ]
   },
   {
    "ref_id": "REF-1794",
@@ -68127,6 +68329,43 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2462",
+   "key": "pittler2003kava",
+   "type": "article",
+   "title": "Kava extract for treating anxiety",
+   "authors": "Pittler, M.H. and Ernst, E.",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2003",
+   "doi": "10.1002/14651858.CD003383",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD003383",
+   "link_type": "doi",
+   "citation": "Pittler, M.H. and Ernst, E (2003) 'Kava extract for treating anxiety', Cochrane Database of Systematic Reviews, 2003(1), pp. CD003383. doi:10.1002/14651858.CD003383",
+   "abstract": "Cochrane systematic review and meta-analysis of 11 randomised, double-blind, placebo-controlled trials (645 participants) finding that kava extract produces a significant reduction in anxiety on the Hamilton Anxiety scale versus placebo, with adverse events that were mild, transient and infrequent over short-term (1-24 week) use.",
+   "tier": "review",
+   "display": "Kava extract for treating anxiety",
+   "plants": [
+    "Awa",
+    "Kava",
+    "Kava Kava",
+    "Kawa",
+    "Yaqona"
+   ],
+   "scientific": [
+    "Piper methysticum"
+   ],
+   "actions": [
+    "Anxiolytic / calming",
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Anxiety",
+    "Insomnia / sleeplessness",
+    "Nervous tension",
+    "Stress"
+   ]
   },
   {
    "ref_id": "REF-0112",
@@ -72658,6 +72897,40 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2465",
+   "key": "baskaran1990gymnema",
+   "type": "article",
+   "title": "Antidiabetic effect of a leaf extract from Gymnema sylvestre in non-insulin-dependent diabetes mellitus patients",
+   "authors": "Baskaran, K., Kizar Ahamath, B., Radha Shanmugasundaram, K. and Shanmugasundaram, E.R.",
+   "journal": "Journal of Ethnopharmacology",
+   "year": "1990",
+   "doi": "10.1016/0378-8741(90)90108-6",
+   "url": "",
+   "link": "https://doi.org/10.1016/0378-8741(90)90108-6",
+   "link_type": "doi",
+   "citation": "Baskaran, K., Kizar Ahamath, B., Radha Shanmugasundaram, K. and Shanmugasundaram, E.R (1990) 'Antidiabetic effect of a leaf extract from Gymnema sylvestre in non-insulin-dependent diabetes mellitus patients', Journal of Ethnopharmacology, 30(3), pp. 295-300. doi:10.1016/0378-8741(90)90108-6",
+   "abstract": "Clinical trial in 22 type 2 diabetic patients in which Gymnema sylvestre leaf extract (GS4, 400 mg/day) added to conventional oral hypoglycaemic drugs significantly lowered blood glucose, glycated haemoglobin and glycated plasma proteins and allowed conventional drug doses to be reduced, with five patients maintaining glucose control on GS4 alone.",
+   "tier": "clinical",
+   "display": "Antidiabetic effect of a leaf extract from Gymnema sylvestre in non-insulin-dependent diabetes mellitus patients",
+   "plants": [
+    "Australian Cowplant",
+    "Gurmar",
+    "Gymnema",
+    "Meshasringi",
+    "Periploca of the Woods"
+   ],
+   "scientific": [
+    "Gymnema sylvestre"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "Metabolic support"
+   ]
   },
   {
    "ref_id": "REF-1549",

@@ -1,7 +1,35 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 30,
+ "count": 40,
  "pairings": [
+  {
+   "herb_id": "momordica-charantia",
+   "herb": "Bitter Melon",
+   "herb_slug": "bitter-melon",
+   "partner_id": "gymnema-sylvestre",
+   "partner": "Gymnema",
+   "partner_slug": "gymnema",
+   "type": "caution",
+   "note": "Gymnema and bitter melon both lower blood sugar; combined use may add up and risk hypoglycaemia, particularly with diabetes drugs, so monitor blood glucose.",
+   "references": [
+    "REF-2467"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "cinnamomum-cassia",
+   "herb": "Cassia Cinnamon",
+   "herb_slug": "cassia-cinnamon",
+   "partner_id": "gymnema-sylvestre",
+   "partner": "Gymnema",
+   "partner_slug": "gymnema",
+   "type": "caution",
+   "note": "Gymnema and cassia cinnamon are both used to lower blood sugar; together their effects may add up, so watch for low blood sugar when combining them or using them with diabetes medication.",
+   "references": [
+    "REF-2467"
+   ],
+   "status": "approved"
+  },
   {
    "herb_id": "matricaria-chamomilla",
    "herb": "Chamomile",
@@ -27,6 +55,20 @@
    "note": "Chamomile and valerian are both traditional mild sedatives for restlessness and poor sleep; taken together they may enhance calming and sleep effects but also add to drowsiness.",
    "references": [
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "trigonella-foenum-graecum",
+   "herb": "Fenugreek",
+   "herb_slug": "fenugreek",
+   "partner_id": "gymnema-sylvestre",
+   "partner": "Gymnema",
+   "partner_slug": "gymnema",
+   "type": "caution",
+   "note": "Gymnema and fenugreek both lower blood sugar; taking them together may add up and push blood glucose too low, especially alongside diabetes medication, so monitor and use caution.",
+   "references": [
+    "REF-2467"
    ],
    "status": "approved"
   },
@@ -179,6 +221,48 @@
    "status": "approved"
   },
   {
+   "herb_id": "gymnema-sylvestre",
+   "herb": "Gymnema",
+   "herb_slug": "gymnema",
+   "partner_id": "momordica-charantia",
+   "partner": "Bitter Melon",
+   "partner_slug": "bitter-melon",
+   "type": "caution",
+   "note": "Gymnema and bitter melon both lower blood sugar; combined use may add up and risk hypoglycaemia, particularly with diabetes drugs, so monitor blood glucose.",
+   "references": [
+    "REF-2467"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "gymnema-sylvestre",
+   "herb": "Gymnema",
+   "herb_slug": "gymnema",
+   "partner_id": "cinnamomum-cassia",
+   "partner": "Cassia Cinnamon",
+   "partner_slug": "cassia-cinnamon",
+   "type": "caution",
+   "note": "Gymnema and cassia cinnamon are both used to lower blood sugar; together their effects may add up, so watch for low blood sugar when combining them or using them with diabetes medication.",
+   "references": [
+    "REF-2467"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "gymnema-sylvestre",
+   "herb": "Gymnema",
+   "herb_slug": "gymnema",
+   "partner_id": "trigonella-foenum-graecum",
+   "partner": "Fenugreek",
+   "partner_slug": "fenugreek",
+   "type": "caution",
+   "note": "Gymnema and fenugreek both lower blood sugar; taking them together may add up and push blood glucose too low, especially alongside diabetes medication, so monitor and use caution.",
+   "references": [
+    "REF-2467"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "humulus-lupulus",
    "herb": "Hop",
    "herb_slug": "hop",
@@ -205,6 +289,34 @@
    "references": [
     "REF-2451",
     "REF-2452"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "piper-methysticum",
+   "herb": "Kava",
+   "herb_slug": "kava",
+   "partner_id": "passiflora-incarnata",
+   "partner": "Passionflower",
+   "partner_slug": "passionflower",
+   "type": "caution",
+   "note": "Kava and passionflower are both relaxing, sedating herbs; combined use may deepen drowsiness and sedation, so use caution.",
+   "references": [
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "piper-methysticum",
+   "herb": "Kava",
+   "herb_slug": "kava",
+   "partner_id": "valeriana-officinalis",
+   "partner": "Valerian",
+   "partner_slug": "valerian",
+   "type": "caution",
+   "note": "Kava and valerian are both calming, sedating herbs; taken together they may add up to cause excessive drowsiness, so use caution and avoid before driving or combining with other sedatives.",
+   "references": [
+    "REF-2460"
    ],
    "status": "approved"
   },
@@ -291,6 +403,20 @@
    "references": [
     "REF-2452",
     "REF-2453"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "passiflora-incarnata",
+   "herb": "Passionflower",
+   "herb_slug": "passionflower",
+   "partner_id": "piper-methysticum",
+   "partner": "Kava",
+   "partner_slug": "kava",
+   "type": "caution",
+   "note": "Kava and passionflower are both relaxing, sedating herbs; combined use may deepen drowsiness and sedation, so use caution.",
+   "references": [
+    "REF-2460"
    ],
    "status": "approved"
   },
@@ -406,6 +532,20 @@
    "references": [
     "REF-2451",
     "REF-2452"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "valeriana-officinalis",
+   "herb": "Valerian",
+   "herb_slug": "valerian",
+   "partner_id": "piper-methysticum",
+   "partner": "Kava",
+   "partner_slug": "kava",
+   "type": "caution",
+   "note": "Kava and valerian are both calming, sedating herbs; taken together they may add up to cause excessive drowsiness, so use caution and avoid before driving or combining with other sedatives.",
+   "references": [
+    "REF-2460"
    ],
    "status": "approved"
   },

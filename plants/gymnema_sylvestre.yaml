@@ -1,0 +1,131 @@
+id: gymnema-sylvestre
+scientific_name: Gymnema sylvestre
+common_names:
+- Gymnema
+- Gurmar
+- Australian Cowplant
+- Periploca of the Woods
+- Meshasringi
+family: Apocynaceae
+synonyms:
+- Asclepias geminata
+- Periploca sylvestris
+wp_post_id: null
+parts_used:
+- Leaf
+constituents:
+- name: Gymnemic acids (triterpene saponins)
+  note: Main bioactives; suppress sweet taste and are linked to reduced intestinal
+    glucose absorption and improved glycaemic control.
+  reference_ids:
+  - REF-2465
+  - REF-2467
+- name: Gurmarin
+  note: A peptide that transiently blunts sweet-taste perception.
+  reference_ids:
+  - REF-2467
+actions:
+- action: antidiabetic
+  parts:
+  - Leaf
+  note: Leaf extracts lower fasting and post-prandial blood glucose and glycated haemoglobin
+    in type 2 diabetics, partly via reduced intestinal glucose absorption (alpha-glucosidase/amylase
+    inhibition) and support of insulin secretion.
+  reference_ids:
+  - REF-2465
+  - REF-2466
+  - REF-2467
+  - REF-2469
+  status: verified
+- action: lipid-lowering
+  parts:
+  - Leaf
+  note: Supplementation has been associated with a favourable shift in the lipid profile
+    alongside glucose lowering.
+  reference_ids:
+  - REF-2466
+  status: verified
+indications:
+- condition: blood-sugar
+  reference_ids:
+  - REF-2465
+  - REF-2466
+  - REF-2467
+  status: verified
+- condition: metabolic-support
+  note: inferred from antidiabetic action
+  reference_ids:
+  - REF-2465
+  - REF-2466
+  status: needs-review
+- condition: high-cholesterol
+  note: inferred from lipid-lowering action
+  reference_ids:
+  - REF-2466
+  status: needs-review
+contraindications:
+- note: 'Gymnema lowers blood sugar and can add to the effect of diabetes medicines
+    or insulin, risking hypoglycaemia; people on such treatment should monitor blood
+    glucose closely and may need a dose adjustment supervised by their clinician.
+    Rare drug-induced liver injury has been reported. Avoid in pregnancy and breastfeeding
+    (insufficient safety data).'
+  severity: caution
+  reference_ids:
+  - REF-2465
+  - REF-2466
+  - REF-2468
+  status: verified
+drug_class_interactions:
+- drug_class: antidiabetics
+  severity: caution
+  mechanism: 'Gymnema lowers blood glucose and can add to the effect of diabetes medicines
+    (metformin, sulfonylureas, insulin and others), so combined use may cause blood
+    sugar to fall too low; monitor closely and adjust medication doses under medical
+    supervision.'
+  reference_ids:
+  - REF-2465
+  - REF-2466
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+pairings:
+- partner_id: trigonella-foenum-graecum
+  type: caution
+  note: 'Gymnema and fenugreek both lower blood sugar; taking them together may add
+    up and push blood glucose too low, especially alongside diabetes medication, so
+    monitor and use caution.'
+  reference_ids:
+  - REF-2467
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: momordica-charantia
+  type: caution
+  note: 'Gymnema and bitter melon both lower blood sugar; combined use may add up
+    and risk hypoglycaemia, particularly with diabetes drugs, so monitor blood glucose.'
+  reference_ids:
+  - REF-2467
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: cinnamomum-cassia
+  type: caution
+  note: 'Gymnema and cassia cinnamon are both used to lower blood sugar; together
+    their effects may add up, so watch for low blood sugar when combining them or
+    using them with diabetes medication.'
+  reference_ids:
+  - REF-2467
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+references:
+- REF-2469
+provenance: pubmed
+status: verified
+last_updated: '2026-07-03'
+internal_notes: '2026-07-03: new record created for the safety-data campaign (gymnema
+  was previously absent, blocking antidiabetic herb-drug/herb-herb records). Built
+  from PubMed-verified sources: Baskaran 1990 GS4 clinical trial (REF-2465), Kumar
+  2010 open-label trial (REF-2466), Alam 2018 enzyme-inhibitor review (REF-2467),
+  Shiyovich 2010 hepatotoxicity case (REF-2468), Khan 2012 antidiabetic-plants review
+  (REF-2469). Constituents name-only (compound entities not yet linked).'

@@ -154,6 +154,16 @@ references:
 - REF-2294
 - REF-2295
 - REF-2296
+pairings:
+- partner_id: schisandra-chinensis
+  type: synergy
+  note: 'Eleuthero and schisandra are adaptogens combined in traditional and clinically studied formulas to improve stamina and resistance to stress and fatigue; combined use is complementary.'
+  reference_ids:
+  - REF-2470
+  - REF-2471
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

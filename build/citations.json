@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2469,
+ "count": 2471,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -15409,6 +15409,40 @@
    "actions": [
     "Anti-inflammatory"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2471",
+   "key": "karosanidze2022adaptogens",
+   "type": "article",
+   "title": "Efficacy of Adaptogens in Patients with Long COVID-19: A Randomized, Quadruple-Blind, Placebo-Controlled Trial",
+   "authors": "Karosanidze, I., Kiladze, U., Kirtadze, N., Giorgadze, M. and Panossian, A.",
+   "journal": "Pharmaceuticals",
+   "year": "2022",
+   "doi": "10.3390/ph15030345",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph15030345",
+   "link_type": "doi",
+   "citation": "Karosanidze, I., Kiladze, U., Kirtadze, N., Giorgadze, M. and Panossian, A (2022) 'Efficacy of Adaptogens in Patients with Long COVID-19: A Randomized, Quadruple-Blind, Placebo-Controlled Trial', Pharmaceuticals, 15(3), pp. 345. doi:10.3390/ph15030345",
+   "abstract": "Randomized, quadruple-blind, placebo-controlled trial of Chisan/ADAPT-232, a fixed combination of the adaptogens Rhodiola, Eleutherococcus and Schisandra, in 100 Long COVID patients, finding the combination reduced the duration of fatigue and chronic pain and improved physical performance - evidence that these adaptogens are safely and effectively used together.",
+   "tier": "rct",
+   "display": "Efficacy of Adaptogens in Patients with Long COVID-19: A Randomized, Quadruple-Blind, Placebo-Controlled Trial",
+   "plants": [
+    "Arctic root",
+    "Devil's bush",
+    "Eleuthero",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "Siberian Ginseng",
+    "Touch-me-not",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Eleutherococcus senticosus",
+    "Rhodiola rosea"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -52389,6 +52423,40 @@
     "Swelling / fluid retention",
     "Varicose veins"
    ]
+  },
+  {
+   "ref_id": "REF-2470",
+   "key": "panossian2013adaptogens",
+   "type": "article",
+   "title": "Adaptogens in mental and behavioral disorders",
+   "authors": "Panossian, A.G.",
+   "journal": "Psychiatric Clinics of North America",
+   "year": "2013",
+   "doi": "10.1016/j.psc.2012.12.005",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.psc.2012.12.005",
+   "link_type": "doi",
+   "citation": "Panossian, A.G (2013) 'Adaptogens in mental and behavioral disorders', Psychiatric Clinics of North America, 36(1), pp. 49-64. doi:10.1016/j.psc.2012.12.005",
+   "abstract": "Review of the most extensively studied adaptogens - Rhodiola rosea, Eleutherococcus senticosus and Schisandra chinensis - summarising clinical evidence for their stress-protective and stimulating effects and the neuroendocrine mechanisms by which these herbs, often used together, increase resistance to stress and fatigue.",
+   "tier": "review",
+   "display": "Adaptogens in mental and behavioral disorders",
+   "plants": [
+    "Arctic root",
+    "Devil's bush",
+    "Eleuthero",
+    "Rhodiola",
+    "Rhodiola Rosea",
+    "Siberian Ginseng",
+    "Touch-me-not",
+    "golden root",
+    "roseroot"
+   ],
+   "scientific": [
+    "Eleutherococcus senticosus",
+    "Rhodiola rosea"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2336",

@@ -13184,6 +13184,20 @@
     "REF-2295",
     "REF-2296"
    ],
+   "pairings": [
+    {
+     "partner_id": "schisandra-chinensis",
+     "type": "synergy",
+     "note": "Eleuthero and schisandra are adaptogens combined in traditional and clinically studied formulas to improve stamina and resistance to stress and fatigue; combined use is complementary.",
+     "reference_ids": [
+      "REF-2470",
+      "REF-2471"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -29733,6 +29747,32 @@
     "REF-1533",
     "REF-1534",
     "REF-1535"
+   ],
+   "pairings": [
+    {
+     "partner_id": "eleutherococcus-senticosus",
+     "type": "synergy",
+     "note": "Rhodiola and eleuthero (Siberian ginseng) are classic adaptogens combined in traditional and studied fixed formulas to build resistance to stress and fatigue; used together their stress-protective effects are complementary.",
+     "reference_ids": [
+      "REF-2470",
+      "REF-2471"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "schisandra-chinensis",
+     "type": "synergy",
+     "note": "Rhodiola and schisandra are adaptogens co-formulated in clinically studied combinations for stress, fatigue and mental performance; combined use is intended to be synergistic rather than harmful.",
+     "reference_ids": [
+      "REF-2470",
+      "REF-2471"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",

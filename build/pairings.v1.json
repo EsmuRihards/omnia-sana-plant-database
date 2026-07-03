@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 40,
+ "count": 46,
  "pairings": [
   {
    "herb_id": "momordica-charantia",
@@ -493,6 +493,36 @@
    "status": "approved"
   },
   {
+   "herb_id": "rhodiola-rosea",
+   "herb": "Rhodiola Rosea",
+   "herb_slug": "rhodiola-rosea",
+   "partner_id": "schisandra-chinensis",
+   "partner": "Schisandra",
+   "partner_slug": "schisandra",
+   "type": "synergy",
+   "note": "Rhodiola and schisandra are adaptogens co-formulated in clinically studied combinations for stress, fatigue and mental performance; combined use is intended to be synergistic rather than harmful.",
+   "references": [
+    "REF-2470",
+    "REF-2471"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "rhodiola-rosea",
+   "herb": "Rhodiola Rosea",
+   "herb_slug": "rhodiola-rosea",
+   "partner_id": "eleutherococcus-senticosus",
+   "partner": "Siberian Ginseng",
+   "partner_slug": "siberian-ginseng",
+   "type": "synergy",
+   "note": "Rhodiola and eleuthero (Siberian ginseng) are classic adaptogens combined in traditional and studied fixed formulas to build resistance to stress and fatigue; used together their stress-protective effects are complementary.",
+   "references": [
+    "REF-2470",
+    "REF-2471"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "crocus-sativus",
    "herb": "Saffron",
    "herb_slug": "saffron",
@@ -503,6 +533,66 @@
    "note": "St John's wort raises serotonin activity and can cause serotonin syndrome when combined with other serotonin-boosting agents; pairing it with another mood-active, serotonergic herb such as saffron may add to this risk.",
    "references": [
     "REF-2461"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "schisandra-chinensis",
+   "herb": "Schisandra",
+   "herb_slug": "schisandra",
+   "partner_id": "rhodiola-rosea",
+   "partner": "Rhodiola Rosea",
+   "partner_slug": "rhodiola-rosea",
+   "type": "synergy",
+   "note": "Rhodiola and schisandra are adaptogens co-formulated in clinically studied combinations for stress, fatigue and mental performance; combined use is intended to be synergistic rather than harmful.",
+   "references": [
+    "REF-2470",
+    "REF-2471"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "schisandra-chinensis",
+   "herb": "Schisandra",
+   "herb_slug": "schisandra",
+   "partner_id": "eleutherococcus-senticosus",
+   "partner": "Siberian Ginseng",
+   "partner_slug": "siberian-ginseng",
+   "type": "synergy",
+   "note": "Eleuthero and schisandra are adaptogens combined in traditional and clinically studied formulas to improve stamina and resistance to stress and fatigue; combined use is complementary.",
+   "references": [
+    "REF-2470",
+    "REF-2471"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "eleutherococcus-senticosus",
+   "herb": "Siberian Ginseng",
+   "herb_slug": "siberian-ginseng",
+   "partner_id": "rhodiola-rosea",
+   "partner": "Rhodiola Rosea",
+   "partner_slug": "rhodiola-rosea",
+   "type": "synergy",
+   "note": "Rhodiola and eleuthero (Siberian ginseng) are classic adaptogens combined in traditional and studied fixed formulas to build resistance to stress and fatigue; used together their stress-protective effects are complementary.",
+   "references": [
+    "REF-2470",
+    "REF-2471"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "eleutherococcus-senticosus",
+   "herb": "Siberian Ginseng",
+   "herb_slug": "siberian-ginseng",
+   "partner_id": "schisandra-chinensis",
+   "partner": "Schisandra",
+   "partner_slug": "schisandra",
+   "type": "synergy",
+   "note": "Eleuthero and schisandra are adaptogens combined in traditional and clinically studied formulas to improve stamina and resistance to stress and fatigue; combined use is complementary.",
+   "references": [
+    "REF-2470",
+    "REF-2471"
    ],
    "status": "approved"
   },

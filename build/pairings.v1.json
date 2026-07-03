@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 66,
+ "count": 74,
  "pairings": [
   {
    "herb_id": "withania-somnifera",
@@ -36,6 +36,21 @@
    "herb_id": "momordica-charantia",
    "herb": "Bitter Melon",
    "herb_slug": "bitter-melon",
+   "partner_id": "trigonella-foenum-graecum",
+   "partner": "Fenugreek",
+   "partner_slug": "fenugreek",
+   "type": "caution",
+   "note": "Fenugreek and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+   "references": [
+    "REF-2515",
+    "REF-2528"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "momordica-charantia",
+   "herb": "Bitter Melon",
+   "herb_slug": "bitter-melon",
    "partner_id": "gymnema-sylvestre",
    "partner": "Gymnema",
    "partner_slug": "gymnema",
@@ -43,6 +58,36 @@
    "note": "Gymnema and bitter melon both lower blood sugar; combined use may add up and risk hypoglycaemia, particularly with diabetes drugs, so monitor blood glucose.",
    "references": [
     "REF-2467"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "momordica-charantia",
+   "herb": "Bitter Melon",
+   "herb_slug": "bitter-melon",
+   "partner_id": "cinnamomum-verum",
+   "partner": "True Cinnamon",
+   "partner_slug": "true-cinnamon",
+   "type": "caution",
+   "note": "Cinnamon and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+   "references": [
+    "REF-2514",
+    "REF-2528"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "nigella-sativa",
+   "herb": "Black Cumin",
+   "herb_slug": "black-cumin",
+   "partner_id": "trigonella-foenum-graecum",
+   "partner": "Fenugreek",
+   "partner_slug": "fenugreek",
+   "type": "caution",
+   "note": "Fenugreek and black seed (Nigella sativa) can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+   "references": [
+    "REF-2515",
+    "REF-2516"
    ],
    "status": "approved"
   },
@@ -107,6 +152,36 @@
    "herb_id": "trigonella-foenum-graecum",
    "herb": "Fenugreek",
    "herb_slug": "fenugreek",
+   "partner_id": "momordica-charantia",
+   "partner": "Bitter Melon",
+   "partner_slug": "bitter-melon",
+   "type": "caution",
+   "note": "Fenugreek and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+   "references": [
+    "REF-2515",
+    "REF-2528"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "trigonella-foenum-graecum",
+   "herb": "Fenugreek",
+   "herb_slug": "fenugreek",
+   "partner_id": "nigella-sativa",
+   "partner": "Black Cumin",
+   "partner_slug": "black-cumin",
+   "type": "caution",
+   "note": "Fenugreek and black seed (Nigella sativa) can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+   "references": [
+    "REF-2515",
+    "REF-2516"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "trigonella-foenum-graecum",
+   "herb": "Fenugreek",
+   "herb_slug": "fenugreek",
    "partner_id": "gymnema-sylvestre",
    "partner": "Gymnema",
    "partner_slug": "gymnema",
@@ -114,6 +189,21 @@
    "note": "Gymnema and fenugreek both lower blood sugar; taking them together may add up and push blood glucose too low, especially alongside diabetes medication, so monitor and use caution.",
    "references": [
     "REF-2467"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "trigonella-foenum-graecum",
+   "herb": "Fenugreek",
+   "herb_slug": "fenugreek",
+   "partner_id": "cinnamomum-verum",
+   "partner": "True Cinnamon",
+   "partner_slug": "true-cinnamon",
+   "type": "caution",
+   "note": "Cinnamon and fenugreek can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of blood sugar dropping too low (hypoglycaemia). Monitor your blood glucose.",
+   "references": [
+    "REF-2514",
+    "REF-2515"
    ],
    "status": "approved"
   },
@@ -865,6 +955,36 @@
    "references": [
     "REF-2470",
     "REF-2471"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "cinnamomum-verum",
+   "herb": "True Cinnamon",
+   "herb_slug": "true-cinnamon",
+   "partner_id": "momordica-charantia",
+   "partner": "Bitter Melon",
+   "partner_slug": "bitter-melon",
+   "type": "caution",
+   "note": "Cinnamon and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+   "references": [
+    "REF-2514",
+    "REF-2528"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "cinnamomum-verum",
+   "herb": "True Cinnamon",
+   "herb_slug": "true-cinnamon",
+   "partner_id": "trigonella-foenum-graecum",
+   "partner": "Fenugreek",
+   "partner_slug": "fenugreek",
+   "type": "caution",
+   "note": "Cinnamon and fenugreek can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of blood sugar dropping too low (hypoglycaemia). Monitor your blood glucose.",
+   "references": [
+    "REF-2514",
+    "REF-2515"
    ],
    "status": "approved"
   },

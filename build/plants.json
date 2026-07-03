@@ -9955,6 +9955,32 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "pairings": [
+    {
+     "partner_id": "trigonella-foenum-graecum",
+     "type": "caution",
+     "note": "Cinnamon and fenugreek can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of blood sugar dropping too low (hypoglycaemia). Monitor your blood glucose.",
+     "reference_ids": [
+      "REF-2514",
+      "REF-2515"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "momordica-charantia",
+     "type": "caution",
+     "note": "Cinnamon and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+     "reference_ids": [
+      "REF-2514",
+      "REF-2528"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -20860,10 +20886,11 @@
     {
      "drug_class": "sedatives-cns-depressants",
      "severity": "caution",
-     "mechanism": "Lavender has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "mechanism": "Lavender has calming, sedative effects (its anxiolytic effect is supported by a meta-analysis of randomised trials of the oral oil preparation Silexan); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
      "reference_ids": [
       "REF-2452",
-      "REF-2460"
+      "REF-2460",
+      "REF-2531"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -22702,10 +22729,11 @@
     {
      "drug_class": "sedatives-cns-depressants",
      "severity": "caution",
-     "mechanism": "Chamomile has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "mechanism": "Chamomile has calming, sedative effects (a randomised controlled trial found it reduces generalised-anxiety symptoms); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
      "reference_ids": [
       "REF-2452",
-      "REF-2460"
+      "REF-2460",
+      "REF-2532"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -26372,10 +26400,11 @@
     {
      "drug_class": "sedatives-cns-depressants",
      "severity": "caution",
-     "mechanism": "Passionflower has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "mechanism": "Passionflower has calming, sedative effects (a systematic review of clinical trials supports an anxiety-reducing effect); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
      "reference_ids": [
       "REF-2452",
-      "REF-2460"
+      "REF-2460",
+      "REF-2534"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -27829,7 +27858,8 @@
      "mechanism": "Kava adds to central-nervous-system depression, so combining it with benzodiazepines, sleeping tablets, opioids, barbiturates or alcohol can cause excessive drowsiness and impaired coordination.",
      "reference_ids": [
       "REF-2460",
-      "REF-2462"
+      "REF-2462",
+      "REF-2530"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -38013,6 +38043,32 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "pairings": [
+    {
+     "partner_id": "momordica-charantia",
+     "type": "caution",
+     "note": "Fenugreek and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+     "reference_ids": [
+      "REF-2515",
+      "REF-2528"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "partner_id": "nigella-sativa",
+     "type": "caution",
+     "note": "Fenugreek and black seed (Nigella sativa) can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.",
+     "reference_ids": [
+      "REF-2515",
+      "REF-2516"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -38998,9 +39054,10 @@
     {
      "drug_class": "sedatives-cns-depressants",
      "severity": "caution",
-     "mechanism": "Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect of CNS depressants, sleep medicines, benzodiazepines and alcohol.",
+     "mechanism": "Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect of CNS depressants, sleep medicines, benzodiazepines and alcohol (a meta-analysis supports valerian improving sleep quality).",
      "reference_ids": [
-      "REF-2440"
+      "REF-2440",
+      "REF-2533"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",

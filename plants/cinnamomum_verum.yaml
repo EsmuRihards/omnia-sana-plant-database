@@ -185,6 +185,25 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+pairings:
+- partner_id: trigonella-foenum-graecum
+  type: caution
+  note: 'Cinnamon and fenugreek can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of blood sugar dropping too low (hypoglycaemia). Monitor your blood glucose.'
+  reference_ids:
+  - REF-2514
+  - REF-2515
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: momordica-charantia
+  type: caution
+  note: 'Cinnamon and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.'
+  reference_ids:
+  - REF-2514
+  - REF-2528
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

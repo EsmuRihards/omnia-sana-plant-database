@@ -337,10 +337,11 @@
    "drug_class": "sedatives-cns-depressants",
    "drug_class_label": "Sedatives / CNS depressants",
    "severity": "caution",
-   "mechanism": "Chamomile has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "mechanism": "Chamomile has calming, sedative effects (a randomised controlled trial found it reduces generalised-anxiety symptoms); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
    "references": [
     "REF-2452",
-    "REF-2460"
+    "REF-2460",
+    "REF-2532"
    ],
    "status": "approved"
   },
@@ -732,7 +733,8 @@
    "mechanism": "Kava adds to central-nervous-system depression, so combining it with benzodiazepines, sleeping tablets, opioids, barbiturates or alcohol can cause excessive drowsiness and impaired coordination.",
    "references": [
     "REF-2460",
-    "REF-2462"
+    "REF-2462",
+    "REF-2530"
    ],
    "status": "approved"
   },
@@ -745,10 +747,11 @@
    "drug_class": "sedatives-cns-depressants",
    "drug_class_label": "Sedatives / CNS depressants",
    "severity": "caution",
-   "mechanism": "Lavender has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "mechanism": "Lavender has calming, sedative effects (its anxiolytic effect is supported by a meta-analysis of randomised trials of the oral oil preparation Silexan); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
    "references": [
     "REF-2452",
-    "REF-2460"
+    "REF-2460",
+    "REF-2531"
    ],
    "status": "approved"
   },
@@ -1049,10 +1052,11 @@
    "drug_class": "sedatives-cns-depressants",
    "drug_class_label": "Sedatives / CNS depressants",
    "severity": "caution",
-   "mechanism": "Passionflower has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "mechanism": "Passionflower has calming, sedative effects (a systematic review of clinical trials supports an anxiety-reducing effect); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
    "references": [
     "REF-2452",
-    "REF-2460"
+    "REF-2460",
+    "REF-2534"
    ],
    "status": "approved"
   },
@@ -1475,9 +1479,10 @@
    "drug_class": "sedatives-cns-depressants",
    "drug_class_label": "Sedatives / CNS depressants",
    "severity": "caution",
-   "mechanism": "Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect of CNS depressants, sleep medicines, benzodiazepines and alcohol.",
+   "mechanism": "Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect of CNS depressants, sleep medicines, benzodiazepines and alcohol (a meta-analysis supports valerian improving sleep quality).",
    "references": [
-    "REF-2440"
+    "REF-2440",
+    "REF-2533"
    ],
    "status": "approved"
   },

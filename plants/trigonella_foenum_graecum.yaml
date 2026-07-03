@@ -142,6 +142,25 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+pairings:
+- partner_id: momordica-charantia
+  type: caution
+  note: 'Fenugreek and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.'
+  reference_ids:
+  - REF-2515
+  - REF-2528
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: nigella-sativa
+  type: caution
+  note: 'Fenugreek and black seed (Nigella sativa) can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.'
+  reference_ids:
+  - REF-2515
+  - REF-2516
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

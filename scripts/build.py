@@ -302,6 +302,12 @@ def main():
         for c in p.get("contraindications", []):
             for r in c.get("reference_ids", []):
                 add(r, p, "other")
+        for it in p.get("drug_class_interactions", []):
+            for r in it.get("reference_ids", []):
+                add(r, p, "other")
+        for pr in p.get("pairings", []):
+            for r in pr.get("reference_ids", []):
+                add(r, p, "other")
         for r in p.get("references", []):
             add(r, p, "other")
 

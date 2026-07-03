@@ -159,9 +159,10 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Bitter melon has a blood-sugar-lowering effect, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.'
+  mechanism: 'Bitter melon has a blood-sugar-lowering effect (a meta-analysis of randomised trials in type 2 diabetes found reduced fasting glucose and HbA1c), so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.'
   reference_ids:
   - REF-2450
+  - REF-2528
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'

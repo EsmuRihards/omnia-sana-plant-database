@@ -10978,10 +10978,11 @@
     {
      "drug_class": "cardiac-glycosides",
      "severity": "caution",
-     "mechanism": "Hawthorn has its own positive effect on the heart and shares P-glycoprotein handling with digoxin, so combining it with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled study found no major change in digoxin levels.",
+     "mechanism": "Hawthorn has its own positive effect on the heart (a Cochrane review found it improves heart-failure symptoms and exercise tolerance) and shares P-glycoprotein handling with digoxin, so combining it with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled study found no major change in digoxin levels.",
      "reference_ids": [
       "REF-2441",
-      "REF-2442"
+      "REF-2442",
+      "REF-2526"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -10990,9 +10991,10 @@
     {
      "drug_class": "antihypertensives",
      "severity": "caution",
-     "mechanism": "Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand, which may add to the effect of blood-pressure and heart-failure medicines.",
+     "mechanism": "Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand (a Cochrane meta-analysis found a lower pressure-heart-rate product), which may add to the effect of blood-pressure and heart-failure medicines.",
      "reference_ids": [
-      "REF-2442"
+      "REF-2442",
+      "REF-2526"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -11169,10 +11171,11 @@
     {
      "drug_class": "cardiac-glycosides",
      "severity": "caution",
-     "mechanism": "Hawthorn has its own positive effect on the heart and shares P-glycoprotein handling with digoxin, so combining it with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled study found no major change in digoxin levels.",
+     "mechanism": "Hawthorn has its own positive effect on the heart (a Cochrane review found it improves heart-failure symptoms and exercise tolerance) and shares P-glycoprotein handling with digoxin, so combining it with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled study found no major change in digoxin levels.",
      "reference_ids": [
       "REF-2441",
-      "REF-2442"
+      "REF-2442",
+      "REF-2526"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -11181,9 +11184,10 @@
     {
      "drug_class": "antihypertensives",
      "severity": "caution",
-     "mechanism": "Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand, which may add to the effect of blood-pressure and heart-failure medicines.",
+     "mechanism": "Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand (a Cochrane meta-analysis found a lower pressure-heart-rate product), which may add to the effect of blood-pressure and heart-failure medicines.",
      "reference_ids": [
-      "REF-2442"
+      "REF-2442",
+      "REF-2526"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -12278,10 +12282,11 @@
     {
      "drug_class": "antidiabetics",
      "severity": "caution",
-     "mechanism": "Turmeric/curcumin can lower blood glucose and HbA1c in people with type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
+     "mechanism": "Turmeric/curcumin can lower blood glucose and HbA1c in people with type 2 diabetes (confirmed by meta-analysis of randomised trials); combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.",
      "reference_ids": [
       "REF-2486",
-      "REF-2485"
+      "REF-2485",
+      "REF-2525"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -17911,9 +17916,10 @@
     {
      "drug_class": "antihypertensives",
      "severity": "caution",
-     "mechanism": "Hibiscus (roselle) lowers systolic and diastolic blood pressure in trials; combined with blood-pressure medicines it may add to their effect and cause blood pressure to drop too low, so monitor blood pressure.",
+     "mechanism": "Hibiscus (roselle) lowers systolic and diastolic blood pressure in trials (a meta-analysis found reductions of about 7.6/3.5 mmHg); combined with blood-pressure medicines it may add to their effect and cause blood pressure to drop too low, so monitor blood pressure.",
      "reference_ids": [
-      "REF-2488"
+      "REF-2488",
+      "REF-2527"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -23559,9 +23565,10 @@
     {
      "drug_class": "antidiabetics",
      "severity": "caution",
-     "mechanism": "Bitter melon has a blood-sugar-lowering effect, so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
+     "mechanism": "Bitter melon has a blood-sugar-lowering effect (a meta-analysis of randomised trials in type 2 diabetes found reduced fasting glucose and HbA1c), so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.",
      "reference_ids": [
-      "REF-2450"
+      "REF-2450",
+      "REF-2528"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -41110,10 +41117,11 @@
     {
      "drug_class": "sedatives-cns-depressants",
      "severity": "caution",
-     "mechanism": "Ashwagandha has sedative, GABA-related calming activity; taken with sedatives, sleeping tablets or other central-nervous-system depressants it may add to drowsiness and slowed reactions.",
+     "mechanism": "Ashwagandha has sedative, GABA-related calming activity (a meta-analysis of randomised trials found it improves sleep); taken with sedatives, sleeping tablets or other central-nervous-system depressants it may add to drowsiness and slowed reactions.",
      "reference_ids": [
       "REF-2245",
-      "REF-2474"
+      "REF-2474",
+      "REF-2524"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2438,
+ "count": 2440,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -33840,6 +33840,33 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2439",
+   "key": "takahashi2019liquorice",
+   "type": "article",
+   "title": "Identification of glycyrrhizin metabolites in humans and of a potential biomarker of liquorice-induced pseudoaldosteronism",
+   "authors": "Takahashi, K., Yoshino, T., Maki, Y., Ishiuchi, K., Namiki, T., Ogawa-Ochiai, K., Minamizawa, K., Makino, T., Nakamura, T., Mimura, M. and Watanabe, K.",
+   "journal": "Archives of Toxicology",
+   "year": "2019",
+   "doi": "10.1007/s00204-019-02588-2",
+   "url": "",
+   "link": "https://doi.org/10.1007/s00204-019-02588-2",
+   "link_type": "doi",
+   "citation": "Takahashi, K., Yoshino, T., Maki, Y., Ishiuchi, K., Namiki, T., Ogawa-Ochiai, K., Minamizawa, K., Makino, T., Nakamura, T., Mimura, M. and Watanabe, K (2019) 'Identification of glycyrrhizin metabolites in humans and of a potential biomarker of liquorice-induced pseudoaldosteronism', Archives of Toxicology, 93(11), pp. 3111-3119. doi:10.1007/s00204-019-02588-2",
+   "abstract": "A multi-centre human study of liquorice-induced pseudoaldosteronism, in which glycyrrhizin metabolites were associated with lower renin, aldosterone and potassium levels, causing hypokalaemia, oedema and raised blood pressure via mineralocorticoid receptor hyperactivity.",
+   "tier": "clinical",
+   "display": "Identification of glycyrrhizin metabolites in humans and of a potential biomarker of liquorice-induced pseudoaldosteronism",
+   "plants": [
+    "Licorice root",
+    "liquorice",
+    "sweet root"
+   ],
+   "scientific": [
+    "Glycyrrhiza glabra"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1727",
    "key": "karbalaei2019hops",
    "type": "article",
@@ -64029,6 +64056,33 @@
     "Memory",
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-2440",
+   "key": "ortiz2006valerian",
+   "type": "article",
+   "title": "Commercial valerian interactions with [3H]Flunitrazepam and [3H]MK-801 binding to rat synaptic membranes",
+   "authors": "Ortiz, J.G., Rassi, N., Maldonado, P.M., Gonzalez-Cabrera, S. and Ramos, I.",
+   "journal": "Phytotherapy Research",
+   "year": "2006",
+   "doi": "10.1002/ptr.1960",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.1960",
+   "link_type": "doi",
+   "citation": "Ortiz, J.G., Rassi, N., Maldonado, P.M., Gonzalez-Cabrera, S. and Ramos, I (2006) 'Commercial valerian interactions with [3H]Flunitrazepam and [3H]MK-801 binding to rat synaptic membranes', Phytotherapy Research, 20(9), pp. 794-798. doi:10.1002/ptr.1960",
+   "abstract": "Commercial Valeriana officinalis extracts modulated [3H]flunitrazepam binding at GABA(A) receptors in rat synaptic membranes, supporting a benzodiazepine-like GABAergic mechanism for valerian's sedative effects.",
+   "tier": "preclinical",
+   "display": "Commercial valerian interactions with [3H]Flunitrazepam and [3H]MK-801 binding to rat synaptic membranes",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0172",

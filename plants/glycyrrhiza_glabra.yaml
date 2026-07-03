@@ -192,6 +192,23 @@ references:
 - REF-2192
 - REF-2193
 - REF-2194
+drug_class_interactions:
+- drug_class: antihypertensives
+  severity: caution
+  mechanism: 'Licorice (glycyrrhizin) can cause sodium retention, potassium loss and raised blood pressure (pseudoaldosteronism), which can oppose blood-pressure medicines and add to potassium loss from diuretics.'
+  reference_ids:
+  - REF-2439
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- drug_class: cardiac-glycosides
+  severity: caution
+  mechanism: 'Licorice-induced potassium loss can increase the risk of digoxin toxicity; avoid regular or high intake.'
+  reference_ids:
+  - REF-2439
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 16,
+ "count": 19,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -192,6 +192,36 @@
    "status": "approved"
   },
   {
+   "plant_id": "glycyrrhiza-glabra",
+   "plant": "Licorice root",
+   "scientific": "Glycyrrhiza glabra",
+   "common_slug": "licorice-root",
+   "wp_post_id": null,
+   "drug_class": "antihypertensives",
+   "drug_class_label": "Antihypertensives (blood-pressure medicines)",
+   "severity": "caution",
+   "mechanism": "Licorice (glycyrrhizin) can cause sodium retention, potassium loss and raised blood pressure (pseudoaldosteronism), which can oppose blood-pressure medicines and add to potassium loss from diuretics.",
+   "references": [
+    "REF-2439"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "glycyrrhiza-glabra",
+   "plant": "Licorice root",
+   "scientific": "Glycyrrhiza glabra",
+   "common_slug": "licorice-root",
+   "wp_post_id": null,
+   "drug_class": "cardiac-glycosides",
+   "drug_class_label": "Cardiac glycosides",
+   "severity": "caution",
+   "mechanism": "Licorice-induced potassium loss can increase the risk of digoxin toxicity; avoid regular or high intake.",
+   "references": [
+    "REF-2439"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "panax-ginseng",
    "plant": "Panax Ginseng",
    "scientific": "Panax ginseng",
@@ -349,6 +379,21 @@
    "references": [
     "REF-2436",
     "REF-2434"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "valeriana-officinalis",
+   "plant": "Valerian",
+   "scientific": "Valeriana officinalis",
+   "common_slug": "valerian",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect of CNS depressants, sleep medicines, benzodiazepines and alcohol.",
+   "references": [
+    "REF-2440"
    ],
    "status": "approved"
   }

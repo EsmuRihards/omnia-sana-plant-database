@@ -126,6 +126,15 @@ references:
 - REF-2404
 - REF-2405
 - REF-2406
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Horse chestnut seed contains aescin and coumarin-like constituents (esculin) that may add to the effect of blood-thinning or antiplatelet drugs, so combined use should be monitored.'
+  reference_ids:
+  - REF-2446
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

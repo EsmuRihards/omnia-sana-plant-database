@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2444,
+ "count": 2447,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -64662,6 +64662,33 @@
    ]
   },
   {
+   "ref_id": "REF-2446",
+   "key": "pittler2006horsechestnut",
+   "type": "article",
+   "title": "Horse chestnut seed extract for chronic venous insufficiency",
+   "authors": "Pittler, M.H. and Ernst, E.",
+   "journal": "Cochrane Database of Systematic Reviews",
+   "year": "2006",
+   "doi": "10.1002/14651858.CD003230.pub3",
+   "url": "",
+   "link": "https://doi.org/10.1002/14651858.CD003230.pub3",
+   "link_type": "doi",
+   "citation": "Pittler, M.H. and Ernst, E (2006) 'Horse chestnut seed extract for chronic venous insufficiency', Cochrane Database of Systematic Reviews, 2006(1), pp. CD003230. doi:10.1002/14651858.CD003230.pub3",
+   "abstract": "Cochrane meta-analysis of randomised trials finding horse chestnut seed extract an efficacious and safe short-term treatment for chronic venous insufficiency with mild infrequent adverse events; its aescin/hydroxycoumarin (esculin) constituents underlie a theoretical additive bleeding risk when combined with anticoagulant or antiplatelet drugs.",
+   "tier": "review",
+   "display": "Horse chestnut seed extract for chronic venous insufficiency",
+   "plants": [
+    "Buckeye",
+    "Conker tree",
+    "Horse Chestnut"
+   ],
+   "scientific": [
+    "Aesculus hippocastanum"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1796",
    "key": "wurglics2006hypericum",
    "type": "article",
@@ -64988,6 +65015,35 @@
     "Muscle spasm",
     "Skin irritation"
    ]
+  },
+  {
+   "ref_id": "REF-2447",
+   "key": "segal2006chamomile",
+   "type": "article",
+   "title": "Warfarin interaction with Matricaria chamomilla",
+   "authors": "Segal, R. and Pilote, L.",
+   "journal": "CMAJ",
+   "year": "2006",
+   "doi": "10.1503/cmaj.051191",
+   "url": "",
+   "link": "https://doi.org/10.1503/cmaj.051191",
+   "link_type": "doi",
+   "citation": "Segal, R. and Pilote, L (2006) 'Warfarin interaction with Matricaria chamomilla', CMAJ, 174(9), pp. 1281-1282. doi:10.1503/cmaj.051191",
+   "abstract": "Case report of a 70-year-old woman on warfarin admitted with multiple internal haemorrhages after using chamomile tea and body lotion, illustrating the theoretical coumarin-mediated potentiation of anticoagulants by chamomile and the need for patient education about combining the two.",
+   "tier": "clinical",
+   "display": "Warfarin interaction with Matricaria chamomilla",
+   "plants": [
+    "Chamomile",
+    "German chamomile",
+    "Scented Mayweed",
+    "blue chamomile",
+    "wild chamomile"
+   ],
+   "scientific": [
+    "Matricaria chamomilla"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1173",
@@ -66751,6 +66807,33 @@
    "actions": [
     "Sedative / sleep support"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2445",
+   "key": "gorski2004echinacea",
+   "type": "article",
+   "title": "The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo",
+   "authors": "Gorski, J.C., Huang, S.M., Pinto, A., Hamman, M.A., Hilligoss, J.K., Zaheer, N.A., Desai, M., Miller, M. and Hall, S.D.",
+   "journal": "Clinical Pharmacology and Therapeutics",
+   "year": "2004",
+   "doi": "10.1016/j.clpt.2003.09.013",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.clpt.2003.09.013",
+   "link_type": "doi",
+   "citation": "Gorski, J.C., Huang, S.M., Pinto, A., Hamman, M.A., Hilligoss, J.K., Zaheer, N.A., Desai, M., Miller, M. and Hall, S.D (2004) 'The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo', Clinical Pharmacology and Therapeutics, 75(1), pp. 89-100. doi:10.1016/j.clpt.2003.09.013",
+   "abstract": "In-vivo study in 12 healthy subjects showing Echinacea purpurea root selectively modulates CYP3A activity at hepatic and intestinal sites and reduces CYP1A2 clearance, so caution is advised when echinacea is combined with drugs cleared by these enzymes, including CYP3A-dependent immunosuppressants such as ciclosporin and tacrolimus.",
+   "tier": "clinical",
+   "display": "The effect of echinacea (Echinacea purpurea root) on cytochrome P450 activity in vivo",
+   "plants": [
+    "Black Sampson",
+    "Purple coneflower",
+    "Snakeroot"
+   ],
+   "scientific": [
+    "Echinacea purpurea"
+   ],
+   "actions": [],
    "conditions": []
   },
   {

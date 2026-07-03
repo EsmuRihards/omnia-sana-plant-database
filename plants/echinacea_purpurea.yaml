@@ -124,6 +124,15 @@ references:
 - REF-2019
 - REF-2020
 - REF-2021
+drug_class_interactions:
+- drug_class: immunosuppressants
+  severity: caution
+  mechanism: 'Echinacea can both stimulate immune activity and alter CYP3A/CYP1A2 enzymes, so it may reduce the effect or change the blood levels of immunosuppressant drugs such as ciclosporin and tacrolimus; use only under medical supervision after a transplant or with autoimmune therapy.'
+  reference_ids:
+  - REF-2445
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

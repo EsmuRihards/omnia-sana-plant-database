@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 25,
+ "count": 28,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -100,6 +100,21 @@
   }
  ],
  "interactions": [
+  {
+   "plant_id": "matricaria-chamomilla",
+   "plant": "Chamomile",
+   "scientific": "Matricaria chamomilla",
+   "common_slug": "chamomile",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Chamomile contains natural coumarin constituents and has been linked in a case report to increased bleeding when taken with warfarin, so caution is advised when combining it with anticoagulant or antiplatelet drugs.",
+   "references": [
+    "REF-2447"
+   ],
+   "status": "approved"
+  },
   {
    "plant_id": "tanacetum-parthenium",
    "plant": "Feverfew",
@@ -249,6 +264,21 @@
    "references": [
     "REF-2441",
     "REF-2442"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "aesculus-hippocastanum",
+   "plant": "Horse Chestnut",
+   "scientific": "Aesculus hippocastanum",
+   "common_slug": "horse-chestnut",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Horse chestnut seed contains aescin and coumarin-like constituents (esculin) that may add to the effect of blood-thinning or antiplatelet drugs, so combined use should be monitored.",
+   "references": [
+    "REF-2446"
    ],
    "status": "approved"
   },
@@ -471,6 +501,21 @@
    "references": [
     "REF-2436",
     "REF-2434"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "echinacea-purpurea",
+   "plant": "Purple coneflower",
+   "scientific": "Echinacea purpurea",
+   "common_slug": "purple-coneflower",
+   "wp_post_id": 151,
+   "drug_class": "immunosuppressants",
+   "drug_class_label": "Immunosuppressants",
+   "severity": "caution",
+   "mechanism": "Echinacea can both stimulate immune activity and alter CYP3A/CYP1A2 enzymes, so it may reduce the effect or change the blood levels of immunosuppressant drugs such as ciclosporin and tacrolimus; use only under medical supervision after a transplant or with autoimmune therapy.",
+   "references": [
+    "REF-2445"
    ],
    "status": "approved"
   },

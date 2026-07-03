@@ -1280,6 +1280,19 @@
     "REF-2405",
     "REF-2406"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Horse chestnut seed contains aescin and coumarin-like constituents (esculin) that may add to the effect of blood-thinning or antiplatelet drugs, so combined use should be monitored.",
+     "reference_ids": [
+      "REF-2446"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -12600,6 +12613,19 @@
     "REF-2020",
     "REF-2021"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "immunosuppressants",
+     "severity": "caution",
+     "mechanism": "Echinacea can both stimulate immune activity and alter CYP3A/CYP1A2 enzymes, so it may reduce the effect or change the blood levels of immunosuppressant drugs such as ciclosporin and tacrolimus; use only under medical supervision after a transplant or with autoimmune therapy.",
+     "reference_ids": [
+      "REF-2445"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -21897,6 +21923,19 @@
     "REF-2349",
     "REF-2350",
     "REF-2351"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "anticoagulants-antiplatelets",
+     "severity": "caution",
+     "mechanism": "Chamomile contains natural coumarin constituents and has been linked in a case report to increased bleeding when taken with warfarin, so caution is advised when combining it with anticoagulant or antiplatelet drugs.",
+     "reference_ids": [
+      "REF-2447"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",

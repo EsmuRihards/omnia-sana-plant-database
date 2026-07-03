@@ -329,6 +329,15 @@ references:
 - REF-2349
 - REF-2350
 - REF-2351
+drug_class_interactions:
+- drug_class: anticoagulants-antiplatelets
+  severity: caution
+  mechanism: 'Chamomile contains natural coumarin constituents and has been linked in a case report to increased bleeding when taken with warfarin, so caution is advised when combining it with anticoagulant or antiplatelet drugs.'
+  reference_ids:
+  - REF-2447
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-27'

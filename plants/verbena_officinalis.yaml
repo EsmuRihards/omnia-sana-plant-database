@@ -184,6 +184,16 @@ references:
 - REF-1365
 - REF-1366
 - REF-1367
+drug_class_interactions:
+- drug_class: sedatives-cns-depressants
+  severity: caution
+  mechanism: 'Vervain is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  reference_ids:
+  - REF-2452
+  - REF-2460
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

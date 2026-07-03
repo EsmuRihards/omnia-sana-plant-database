@@ -2803,6 +2803,20 @@
     "REF-2408",
     "REF-2409"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Lemon verbena is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -3978,6 +3992,20 @@
     "REF-2410",
     "REF-2411",
     "REF-2412"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Angelica is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -5435,6 +5463,20 @@
     "REF-1942",
     "REF-1943"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Mugwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -6034,6 +6076,20 @@
     "REF-2113",
     "REF-2114",
     "REF-2115"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Bacopa (brahmi) is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -10925,6 +10981,18 @@
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
      "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Hawthorn is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
     }
    ],
    "provenance": "book+pubmed",
@@ -11100,6 +11168,18 @@
      "mechanism": "Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand, which may add to the effect of blood-pressure and heart-failure medicines.",
      "reference_ids": [
       "REF-2442"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Hawthorn is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -11345,6 +11425,18 @@
      "mechanism": "Saffron has antidepressant, serotonin-related activity (a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.",
      "reference_ids": [
       "REF-2496"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    },
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Saffron is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -15828,6 +15920,20 @@
     "REF-2046",
     "REF-2047",
     "REF-2048"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Reishi is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -23858,6 +23964,20 @@
     "REF-0938",
     "REF-0939"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Catnip is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -25223,6 +25343,20 @@
     "REF-1230",
     "REF-1231",
     "REF-1232"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Marjoram is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -28783,6 +28917,20 @@
     "REF-0877",
     "REF-0878",
     "REF-0879"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Cowslip is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -39411,6 +39559,20 @@
     "REF-1366",
     "REF-1367"
    ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Vervain is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-06-20",
@@ -39997,6 +40159,20 @@
     "REF-1150",
     "REF-1151",
     "REF-1152"
+   ],
+   "drug_class_interactions": [
+    {
+     "drug_class": "sedatives-cns-depressants",
+     "severity": "caution",
+     "mechanism": "Sweet violet is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+     "reference_ids": [
+      "REF-2452",
+      "REF-2460"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-03"
+    }
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 69,
+ "count": 82,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -132,6 +132,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "angelica-archangelica",
+   "plant": "Angelica",
+   "scientific": "Angelica archangelica",
+   "common_slug": "angelica",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Angelica is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "withania-somnifera",
    "plant": "Ashwagandha",
    "scientific": "Withania somnifera",
@@ -241,6 +257,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "nepeta-cataria",
+   "plant": "Catnip",
+   "scientific": "Nepeta cataria",
+   "common_slug": "catnip",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Catnip is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "matricaria-chamomilla",
    "plant": "Chamomile",
    "scientific": "Matricaria chamomilla",
@@ -265,6 +297,22 @@
    "drug_class_label": "Sedatives / CNS depressants",
    "severity": "caution",
    "mechanism": "Chamomile has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "primula-veris",
+   "plant": "Cowslip",
+   "scientific": "Primula veris",
+   "common_slug": "cowslip",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Cowslip is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
    "references": [
     "REF-2452",
     "REF-2460"
@@ -502,6 +550,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "crataegus-monogyna",
+   "plant": "Hawthorn",
+   "scientific": "Crataegus monogyna",
+   "common_slug": "hawthorn",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Hawthorn is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "cannabis-sativa",
    "plant": "Hemp",
    "scientific": "Cannabis sativa",
@@ -643,6 +707,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "aloysia-citrodora",
+   "plant": "Lemon Verbena",
+   "scientific": "Aloysia citrodora",
+   "common_slug": "lemon-verbena",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Lemon verbena is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "glycyrrhiza-glabra",
    "plant": "Licorice root",
    "scientific": "Glycyrrhiza glabra",
@@ -669,6 +749,38 @@
    "mechanism": "Licorice-induced potassium loss can increase the risk of digoxin toxicity; avoid regular or high intake.",
    "references": [
     "REF-2439"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ganoderma-lingzhi",
+   "plant": "Lingzhi",
+   "scientific": "Ganoderma lingzhi",
+   "common_slug": "lingzhi",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Reishi is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "origanum-majorana",
+   "plant": "Marjoram",
+   "scientific": "Origanum majorana",
+   "common_slug": "marjoram",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Marjoram is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   },
@@ -700,6 +812,22 @@
    "references": [
     "REF-2441",
     "REF-2442"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "crataegus-laevigata",
+   "plant": "Midland Hawthorn",
+   "scientific": "Crataegus laevigata",
+   "common_slug": "midland-hawthorn",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Hawthorn is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   },
@@ -744,6 +872,22 @@
    "drug_class_label": "Sedatives / CNS depressants",
    "severity": "caution",
    "mechanism": "Motherwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "artemisia-vulgaris",
+   "plant": "Mugwort",
+   "scientific": "Artemisia vulgaris",
+   "common_slug": "mugwort",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Mugwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
    "references": [
     "REF-2452",
     "REF-2460"
@@ -1022,6 +1166,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "crocus-sativus",
+   "plant": "Saffron",
+   "scientific": "Crocus sativus",
+   "common_slug": "saffron",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Saffron is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "serenoa-repens",
    "plant": "Saw Palmetto",
    "scientific": "Serenoa repens",
@@ -1101,6 +1261,22 @@
    "status": "approved"
   },
   {
+   "plant_id": "viola-odorata",
+   "plant": "Sweet Violet",
+   "scientific": "Viola odorata",
+   "common_slug": "sweet-violet",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Sweet violet is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
    "plant_id": "cinnamomum-verum",
    "plant": "True Cinnamon",
    "scientific": "Cinnamomum verum",
@@ -1158,6 +1334,38 @@
    "mechanism": "Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect of CNS depressants, sleep medicines, benzodiazepines and alcohol.",
    "references": [
     "REF-2440"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "verbena-officinalis",
+   "plant": "Vervain",
+   "scientific": "Verbena officinalis",
+   "common_slug": "vervain",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Vervain is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "bacopa-monnieri",
+   "plant": "Water Hyssop",
+   "scientific": "Bacopa monnieri",
+   "common_slug": "water-hyssop",
+   "wp_post_id": null,
+   "drug_class": "sedatives-cns-depressants",
+   "drug_class_label": "Sedatives / CNS depressants",
+   "severity": "caution",
+   "mechanism": "Bacopa (brahmi) is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.",
+   "references": [
+    "REF-2452",
+    "REF-2460"
    ],
    "status": "approved"
   },

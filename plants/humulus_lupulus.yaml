@@ -116,6 +116,16 @@ references:
 - REF-1731
 - REF-1732
 - REF-1733
+pairings:
+- partner_id: passiflora-incarnata
+  type: synergy
+  note: 'Hops and passionflower are both GABA-acting sedative herbs commonly combined in sleep blends; together they may enhance relaxation and additive drowsiness.'
+  reference_ids:
+  - REF-2452
+  - REF-2453
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

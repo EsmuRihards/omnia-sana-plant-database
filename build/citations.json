@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2450,
+ "count": 2453,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -7019,6 +7019,38 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2452",
+   "key": "rahbardar2024hypnoticherbs",
+   "type": "article",
+   "title": "Therapeutic potential of hypnotic herbal medicines: A comprehensive review",
+   "authors": "Ghasemzadeh Rahbardar, M. and Hosseinzadeh, H.",
+   "journal": "Phytotherapy Research",
+   "year": "2024",
+   "doi": "10.1002/ptr.8201",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.8201",
+   "link_type": "doi",
+   "citation": "Ghasemzadeh Rahbardar, M. and Hosseinzadeh, H (2024) 'Therapeutic potential of hypnotic herbal medicines: A comprehensive review', Phytotherapy Research, 38(6), pp. 3037-3059. doi:10.1002/ptr.8201",
+   "abstract": "Comprehensive review of hypnotic herbal medicines, including valerian, hops, lemon balm and passionflower, describing their shared action on the GABAergic and serotonergic systems to promote sedation and improve sleep, and noting that combining such herbs may offer an effective natural approach while advising medical consultation.",
+   "tier": "review",
+   "display": "Therapeutic potential of hypnotic herbal medicines: A comprehensive review",
+   "plants": [
+    "Hop",
+    "Hops",
+    "Valerian",
+    "common hop",
+    "common valerian",
+    "garden valerian",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus",
+    "Valeriana officinalis"
+   ],
+   "actions": [],
    "conditions": []
   },
   {
@@ -56808,6 +56840,38 @@
    ]
   },
   {
+   "ref_id": "REF-2453",
+   "key": "ngan2011passionflower",
+   "type": "article",
+   "title": "A double-blind, placebo-controlled investigation of the effects of Passiflora incarnata (passionflower) herbal tea on subjective sleep quality",
+   "authors": "Ngan, A. and Conduit, R.",
+   "journal": "Phytotherapy Research",
+   "year": "2011",
+   "doi": "10.1002/ptr.3400",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.3400",
+   "link_type": "doi",
+   "citation": "Ngan, A. and Conduit, R (2011) 'A double-blind, placebo-controlled investigation of the effects of Passiflora incarnata (passionflower) herbal tea on subjective sleep quality', Phytotherapy Research, 25(8), pp. 1153-1159. doi:10.1002/ptr.3400",
+   "abstract": "Double-blind placebo-controlled crossover trial in 41 adults finding passionflower herbal tea significantly improved subjective sleep quality, supporting its traditional use as a mild sedative and sleep aid that acts alongside other GABAergic sedative herbs.",
+   "tier": "rct",
+   "display": "A double-blind, placebo-controlled investigation of the effects of Passiflora incarnata (passionflower) herbal tea on subjective sleep quality",
+   "plants": [
+    "Hop",
+    "Hops",
+    "Valerian",
+    "common hop",
+    "common valerian",
+    "garden valerian",
+    "hop vine"
+   ],
+   "scientific": [
+    "Humulus lupulus",
+    "Valeriana officinalis"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1571",
    "key": "sun2011skullcap",
    "type": "article",
@@ -62537,6 +62601,33 @@
     "Metabolic support",
     "Muscle soreness"
    ]
+  },
+  {
+   "ref_id": "REF-2451",
+   "key": "koetter2007valerianhops",
+   "type": "article",
+   "title": "A randomized, double blind, placebo-controlled, prospective clinical study to demonstrate clinical efficacy of a fixed valerian hops extract combination (Ze 91019) in patients suffering from non-organic sleep disorder",
+   "authors": "Koetter, U., Schrader, E., Kaeufeler, R. and Brattstroem, A.",
+   "journal": "Phytotherapy Research",
+   "year": "2007",
+   "doi": "10.1002/ptr.2167",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.2167",
+   "link_type": "doi",
+   "citation": "Koetter, U., Schrader, E., Kaeufeler, R. and Brattstroem, A (2007) 'A randomized, double blind, placebo-controlled, prospective clinical study to demonstrate clinical efficacy of a fixed valerian hops extract combination (Ze 91019) in patients suffering from non-organic sleep disorder', Phytotherapy Research, 21(9), pp. 847-851. doi:10.1002/ptr.2167",
+   "abstract": "Randomised double-blind placebo-controlled trial showing a fixed valerian-hops extract combination significantly reduced sleep latency in non-organic insomnia whereas valerian alone did not, demonstrating that adding hops to valerian enhances the sedative sleep-promoting effect.",
+   "tier": "rct",
+   "display": "A randomized, double blind, placebo-controlled, prospective clinical study to demonstrate clinical efficacy of a fixed valerian hops extract combination (Ze 91019) in patients suffering from non-organic sleep disorder",
+   "plants": [
+    "Valerian",
+    "common valerian",
+    "garden valerian"
+   ],
+   "scientific": [
+    "Valeriana officinalis"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2078",

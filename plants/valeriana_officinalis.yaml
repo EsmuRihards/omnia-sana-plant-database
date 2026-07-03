@@ -131,6 +131,33 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+pairings:
+- partner_id: humulus-lupulus
+  type: synergy
+  note: 'Valerian and hops are traditionally combined for sleep; a controlled trial found the valerian-hops combination shortened the time to fall asleep more than valerian alone. Both add to sedation, so expect stronger drowsiness.'
+  reference_ids:
+  - REF-2451
+  - REF-2452
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: passiflora-incarnata
+  type: synergy
+  note: 'Valerian and passionflower are both mild GABA-acting sedatives often blended in sleep and calming formulas; combined use may enhance relaxation but also additive drowsiness.'
+  reference_ids:
+  - REF-2452
+  - REF-2453
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
+- partner_id: melissa-officinalis
+  type: synergy
+  note: 'Valerian and lemon balm are a classic calming pair acting on the GABA system to improve sleep quality; combined use may increase sedation.'
+  reference_ids:
+  - REF-2452
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-03'
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

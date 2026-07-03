@@ -1,5 +1,124 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 0,
- "pairings": []
+ "count": 8,
+ "pairings": [
+  {
+   "herb_id": "humulus-lupulus",
+   "herb": "Hop",
+   "herb_slug": "hop",
+   "partner_id": "passiflora-incarnata",
+   "partner": "Passionflower",
+   "partner_slug": "passionflower",
+   "type": "synergy",
+   "note": "Hops and passionflower are both GABA-acting sedative herbs commonly combined in sleep blends; together they may enhance relaxation and additive drowsiness.",
+   "references": [
+    "REF-2452",
+    "REF-2453"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "humulus-lupulus",
+   "herb": "Hop",
+   "herb_slug": "hop",
+   "partner_id": "valeriana-officinalis",
+   "partner": "Valerian",
+   "partner_slug": "valerian",
+   "type": "synergy",
+   "note": "Valerian and hops are traditionally combined for sleep; a controlled trial found the valerian-hops combination shortened the time to fall asleep more than valerian alone. Both add to sedation, so expect stronger drowsiness.",
+   "references": [
+    "REF-2451",
+    "REF-2452"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "melissa-officinalis",
+   "herb": "Lemon balm",
+   "herb_slug": "lemon-balm",
+   "partner_id": "valeriana-officinalis",
+   "partner": "Valerian",
+   "partner_slug": "valerian",
+   "type": "synergy",
+   "note": "Valerian and lemon balm are a classic calming pair acting on the GABA system to improve sleep quality; combined use may increase sedation.",
+   "references": [
+    "REF-2452"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "passiflora-incarnata",
+   "herb": "Passionflower",
+   "herb_slug": "passionflower",
+   "partner_id": "humulus-lupulus",
+   "partner": "Hop",
+   "partner_slug": "hop",
+   "type": "synergy",
+   "note": "Hops and passionflower are both GABA-acting sedative herbs commonly combined in sleep blends; together they may enhance relaxation and additive drowsiness.",
+   "references": [
+    "REF-2452",
+    "REF-2453"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "passiflora-incarnata",
+   "herb": "Passionflower",
+   "herb_slug": "passionflower",
+   "partner_id": "valeriana-officinalis",
+   "partner": "Valerian",
+   "partner_slug": "valerian",
+   "type": "synergy",
+   "note": "Valerian and passionflower are both mild GABA-acting sedatives often blended in sleep and calming formulas; combined use may enhance relaxation but also additive drowsiness.",
+   "references": [
+    "REF-2452",
+    "REF-2453"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "valeriana-officinalis",
+   "herb": "Valerian",
+   "herb_slug": "valerian",
+   "partner_id": "humulus-lupulus",
+   "partner": "Hop",
+   "partner_slug": "hop",
+   "type": "synergy",
+   "note": "Valerian and hops are traditionally combined for sleep; a controlled trial found the valerian-hops combination shortened the time to fall asleep more than valerian alone. Both add to sedation, so expect stronger drowsiness.",
+   "references": [
+    "REF-2451",
+    "REF-2452"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "valeriana-officinalis",
+   "herb": "Valerian",
+   "herb_slug": "valerian",
+   "partner_id": "melissa-officinalis",
+   "partner": "Lemon balm",
+   "partner_slug": "lemon-balm",
+   "type": "synergy",
+   "note": "Valerian and lemon balm are a classic calming pair acting on the GABA system to improve sleep quality; combined use may increase sedation.",
+   "references": [
+    "REF-2452"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "valeriana-officinalis",
+   "herb": "Valerian",
+   "herb_slug": "valerian",
+   "partner_id": "passiflora-incarnata",
+   "partner": "Passionflower",
+   "partner_slug": "passionflower",
+   "type": "synergy",
+   "note": "Valerian and passionflower are both mild GABA-acting sedatives often blended in sleep and calming formulas; combined use may enhance relaxation but also additive drowsiness.",
+   "references": [
+    "REF-2452",
+    "REF-2453"
+   ],
+   "status": "approved"
+  }
+ ]
 }

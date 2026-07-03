@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 74,
+ "count": 82,
  "pairings": [
   {
    "herb_id": "withania-somnifera",
@@ -88,6 +88,51 @@
    "references": [
     "REF-2515",
     "REF-2516"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "nigella-sativa",
+   "herb": "Black Cumin",
+   "herb_slug": "black-cumin",
+   "partner_id": "allium-sativum",
+   "partner": "Garlic",
+   "partner_slug": "garlic",
+   "type": "caution",
+   "note": "Garlic and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.",
+   "references": [
+    "REF-2491",
+    "REF-2512"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "nigella-sativa",
+   "herb": "Black Cumin",
+   "herb_slug": "black-cumin",
+   "partner_id": "hibiscus-sabdariffa",
+   "partner": "Hibiscus",
+   "partner_slug": "hibiscus",
+   "type": "caution",
+   "note": "Hibiscus and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.",
+   "references": [
+    "REF-2527",
+    "REF-2512"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "nigella-sativa",
+   "herb": "Black Cumin",
+   "herb_slug": "black-cumin",
+   "partner_id": "olea-europaea",
+   "partner": "Olive",
+   "partner_slug": "olive",
+   "type": "caution",
+   "note": "Olive leaf and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.",
+   "references": [
+    "REF-2537",
+    "REF-2512"
    ],
    "status": "approved"
   },
@@ -265,6 +310,21 @@
    "references": [
     "REF-2457",
     "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "allium-sativum",
+   "herb": "Garlic",
+   "herb_slug": "garlic",
+   "partner_id": "nigella-sativa",
+   "partner": "Black Cumin",
+   "partner_slug": "black-cumin",
+   "type": "caution",
+   "note": "Garlic and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.",
+   "references": [
+    "REF-2491",
+    "REF-2512"
    ],
    "status": "approved"
   },
@@ -490,6 +550,36 @@
    "status": "approved"
   },
   {
+   "herb_id": "hibiscus-sabdariffa",
+   "herb": "Hibiscus",
+   "herb_slug": "hibiscus",
+   "partner_id": "nigella-sativa",
+   "partner": "Black Cumin",
+   "partner_slug": "black-cumin",
+   "type": "caution",
+   "note": "Hibiscus and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.",
+   "references": [
+    "REF-2527",
+    "REF-2512"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "hibiscus-sabdariffa",
+   "herb": "Hibiscus",
+   "herb_slug": "hibiscus",
+   "partner_id": "olea-europaea",
+   "partner": "Olive",
+   "partner_slug": "olive",
+   "type": "caution",
+   "note": "Hibiscus and olive leaf can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.",
+   "references": [
+    "REF-2527",
+    "REF-2537"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "humulus-lupulus",
    "herb": "Hop",
    "herb_slug": "hop",
@@ -647,6 +737,36 @@
    "note": "Valerian and lemon balm are a classic calming pair acting on the GABA system to improve sleep quality; combined use may increase sedation.",
    "references": [
     "REF-2452"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "olea-europaea",
+   "herb": "Olive",
+   "herb_slug": "olive",
+   "partner_id": "nigella-sativa",
+   "partner": "Black Cumin",
+   "partner_slug": "black-cumin",
+   "type": "caution",
+   "note": "Olive leaf and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.",
+   "references": [
+    "REF-2537",
+    "REF-2512"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "olea-europaea",
+   "herb": "Olive",
+   "herb_slug": "olive",
+   "partner_id": "hibiscus-sabdariffa",
+   "partner": "Hibiscus",
+   "partner_slug": "hibiscus",
+   "type": "caution",
+   "note": "Hibiscus and olive leaf can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.",
+   "references": [
+    "REF-2527",
+    "REF-2537"
    ],
    "status": "approved"
   },

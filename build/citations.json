@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2537,
+ "count": 2538,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -24299,10 +24299,15 @@
    "display": "Olive leaf extract effect on cardiometabolic profile among adults with prehypertension and hypertension: a systematic review and meta-analysis",
    "plants": [
     "European olive",
+    "Hibiscus",
+    "Karkade",
     "Olive",
+    "Roselle",
+    "Sorrel",
     "common olive"
    ],
    "scientific": [
+    "Hibiscus sabdariffa",
     "Olea europaea"
    ],
    "actions": [],
@@ -25793,6 +25798,34 @@
    ],
    "scientific": [
     "Capsella bursa-pastoris"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2538",
+   "key": "guo2021berberine",
+   "type": "article",
+   "title": "The effect of berberine on metabolic profiles in type 2 diabetic patients: a systematic review and meta-analysis of randomized controlled trials",
+   "authors": "Guo, J., Chen, H., Zhang, X., Lou, W., Zhang, P., Qiu, Y., Zhang, C., Wang, Y. and Liu, W.J.",
+   "journal": "Oxidative Medicine and Cellular Longevity",
+   "year": "2021",
+   "doi": "10.1155/2021/2074610",
+   "url": "",
+   "link": "https://doi.org/10.1155/2021/2074610",
+   "link_type": "doi",
+   "citation": "Guo, J., Chen, H., Zhang, X., Lou, W., Zhang, P., Qiu, Y., Zhang, C., Wang, Y. and Liu, W.J (2021) 'The effect of berberine on metabolic profiles in type 2 diabetic patients: a systematic review and meta-analysis of randomized controlled trials', Oxidative Medicine and Cellular Longevity, 2021, pp. 2074610. doi:10.1155/2021/2074610",
+   "abstract": "Systematic review and meta-analysis of 46 randomized controlled trials: berberine, alone or added to standard diabetes therapy, significantly reduced HbA1c (-0.73 percent), fasting plasma glucose (-0.86 mmol/L) and 2-hour postprandial glucose, and improved insulin resistance and lipids, with strong evidence for efficacy and safety especially as an adjunctive therapy. Basis for cautioning that berberine-rich herbs such as goldenseal may add to the effect of antidiabetic medicines.",
+   "tier": "review",
+   "display": "The effect of berberine on metabolic profiles in type 2 diabetic patients: a systematic review and meta-analysis of randomized controlled trials",
+   "plants": [
+    "Goldenseal",
+    "Ground raspberry",
+    "Orange root",
+    "Yellow root"
+   ],
+   "scientific": [
+    "Hydrastis canadensis"
    ],
    "actions": [],
    "conditions": []
@@ -44000,12 +44033,25 @@
     "Black Caraway",
     "Black Cumin",
     "Black Seed",
+    "European olive",
+    "Garlic",
     "Habbatul Barakah",
+    "Hibiscus",
     "Kalonji",
-    "Roman Coriander"
+    "Karkade",
+    "Olive",
+    "Roman Coriander",
+    "Roselle",
+    "Sorrel",
+    "common garlic",
+    "common olive",
+    "cultivated garlic"
    ],
    "scientific": [
-    "Nigella sativa"
+    "Allium sativum",
+    "Hibiscus sabdariffa",
+    "Nigella sativa",
+    "Olea europaea"
    ],
    "actions": [],
    "conditions": []

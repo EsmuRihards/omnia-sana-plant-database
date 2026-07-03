@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 90,
+ "count": 91,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -544,6 +544,21 @@
    "mechanism": "Ginkgo's antiplatelet effect may add to the bleeding risk of NSAIDs such as ibuprofen; case reports of bleeding exist.",
    "references": [
     "REF-2436"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "hydrastis-canadensis",
+   "plant": "Goldenseal",
+   "scientific": "Hydrastis canadensis",
+   "common_slug": "goldenseal",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Goldenseal is rich in berberine, its main alkaloid, which lowers blood glucose - meta-analyses of randomised trials show berberine significantly reduces fasting glucose and HbA1c. Taken with diabetes medicines, goldenseal may therefore add to blood-sugar lowering, so monitor blood glucose.",
+   "references": [
+    "REF-2538"
    ],
    "status": "approved"
   },

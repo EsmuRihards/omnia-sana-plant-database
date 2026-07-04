@@ -49,6 +49,7 @@ actions:
   - REF-0694
   - REF-2407
   - REF-2408
+  - REF-2595
   status: verified
 - action: anxiolytic
   note: Anxiolytic / calming (anxiety) - also supported by a clinical trial of the closely related Aloysia
@@ -164,6 +165,7 @@ references:
 - REF-2407
 - REF-2408
 - REF-2409
+- REF-2595
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution

@@ -18,6 +18,7 @@ actions:
   - REF-1498
   - REF-1499
   - REF-1500
+  - REF-2598
   status: verified
 - action: antidiabetic
   reference_ids:
@@ -35,6 +36,8 @@ actions:
   - REF-1497
   - REF-1500
   - REF-1502
+  - REF-2596
+  - REF-2597
   status: verified
 indications:
 - condition: arthritis
@@ -57,10 +60,13 @@ indications:
   note: inferred from immunomodulator action
   reference_ids:
   - REF-0300
+  - REF-2597
   status: needs-review
 - condition: immune-support
   reference_ids:
   - REF-0300
+  - REF-2596
+  - REF-2597
   status: verified
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -104,6 +110,9 @@ references:
 - REF-1503
 - REF-1504
 - REF-1505
+- REF-2596
+- REF-2597
+- REF-2598
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

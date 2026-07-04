@@ -3261,7 +3261,8 @@
       "REF-0673",
       "REF-2397",
       "REF-2399",
-      "REF-2400"
+      "REF-2400",
+      "REF-2589"
      ]
     },
     {
@@ -3282,7 +3283,8 @@
       "REF-2398",
       "REF-2399",
       "REF-2400",
-      "REF-2401"
+      "REF-2401",
+      "REF-2589"
      ]
     },
     {
@@ -4405,6 +4407,20 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "varicose-veins",
+     "label": "Varicose veins",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0424",
+      "REF-0425",
+      "REF-0595",
+      "REF-2590",
+      "REF-2591"
+     ]
+    },
+    {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
      "evidence": 7,
@@ -4419,18 +4435,6 @@
     {
      "condition": "pain",
      "label": "Pain (general)",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0424",
-      "REF-0425",
-      "REF-0595"
-     ]
-    },
-    {
-     "condition": "varicose-veins",
-     "label": "Varicose veins",
      "evidence": 7,
      "status": "verified",
      "inferred": false,
@@ -8477,6 +8481,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0447",
+      "REF-1458",
+      "REF-2587"
+     ]
+    },
+    {
      "condition": "pain",
      "label": "Pain (general)",
      "evidence": 9,
@@ -8489,14 +8505,14 @@
      ]
     },
     {
-     "condition": "eczema",
-     "label": "Eczema",
+     "condition": "hot-flashes",
+     "label": "Hot flashes",
      "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0447",
-      "REF-1458"
+      "REF-0446",
+      "REF-2588"
      ]
     },
     {
@@ -8511,16 +8527,6 @@
      ]
     },
     {
-     "condition": "hot-flashes",
-     "label": "Hot flashes",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0446"
-     ]
-    },
-    {
      "condition": "skin-irritation",
      "label": "Skin irritation",
      "evidence": 7,
@@ -8531,16 +8537,18 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": []
-    },
-    {
      "condition": "menopause",
      "label": "Menopause",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2588"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -8686,12 +8694,13 @@
     {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0604",
-      "REF-0605"
+      "REF-0605",
+      "REF-2586"
      ]
     },
     {
@@ -14999,6 +15008,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0300",
+      "REF-2596",
+      "REF-2597"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 6,
@@ -15021,6 +15042,17 @@
      ]
     },
     {
+     "condition": "cold",
+     "label": "Cold & flu",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0300",
+      "REF-2597"
+     ]
+    },
+    {
      "condition": "metabolic-support",
      "label": "Metabolic support",
      "evidence": 6,
@@ -15037,26 +15069,6 @@
      "evidence": 5,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0300"
-     ]
-    },
-    {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0300"
-     ]
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0300"
      ]
@@ -15953,13 +15965,17 @@
     {
      "condition": "depression",
      "label": "Low mood / depression",
-     "evidence": 6,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0040",
       "REF-0099",
-      "REF-1520"
+      "REF-1520",
+      "REF-2582",
+      "REF-2583",
+      "REF-2584",
+      "REF-2585"
      ]
     },
     {
@@ -18908,6 +18924,18 @@
      ]
     },
     {
+     "condition": "ibd",
+     "label": "Inflammatory bowel disease (IBD)",
+     "evidence": 3,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0521",
+      "REF-0977",
+      "REF-2592"
+     ]
+    },
+    {
      "condition": "sore-throat",
      "label": "Sore throat",
      "evidence": 2,
@@ -18916,7 +18944,8 @@
      "references": [
       "REF-0520",
       "REF-0521",
-      "REF-0976"
+      "REF-0976",
+      "REF-2594"
      ]
     },
     {
@@ -18928,17 +18957,6 @@
      "references": [
       "REF-0520",
       "REF-0521"
-     ]
-    },
-    {
-     "condition": "ibd",
-     "label": "Inflammatory bowel disease (IBD)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0521",
-      "REF-0977"
      ]
     }
    ]

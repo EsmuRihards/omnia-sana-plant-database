@@ -56,6 +56,7 @@ actions:
   - REF-0971
   - REF-0973
   - REF-0976
+  - REF-2594
   status: verified
 indications:
 - condition: arthritis
@@ -79,6 +80,7 @@ indications:
   reference_ids:
   - REF-0521
   - REF-0977
+  - REF-2592
   status: needs-review
 - condition: inflammation
   note: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
@@ -103,6 +105,7 @@ indications:
   - REF-0520
   - REF-0521
   - REF-0976
+  - REF-2594
   status: verified
 - condition: wounds
   note: inferred from astringent action
@@ -135,6 +138,9 @@ references:
 - REF-0602
 - REF-0977
 - REF-0978
+- REF-2592
+- REF-2593
+- REF-2594
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

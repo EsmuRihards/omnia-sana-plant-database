@@ -16,6 +16,10 @@ actions:
   - REF-0040
   - REF-0099
   - REF-1520
+  - REF-2582
+  - REF-2583
+  - REF-2584
+  - REF-2585
   status: verified
 - action: anxiolytic
   note: Reduces anxiety; preclinical fear-memory extinction
@@ -31,6 +35,10 @@ indications:
   - REF-0040
   - REF-0099
   - REF-1520
+  - REF-2582
+  - REF-2583
+  - REF-2584
+  - REF-2585
   status: verified
 - condition: anxiety
   note: Reduced anxiety in clinical and preclinical studies
@@ -68,6 +76,10 @@ references:
 - REF-1523
 - REF-1524
 - REF-1525
+- REF-2582
+- REF-2583
+- REF-2584
+- REF-2585
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

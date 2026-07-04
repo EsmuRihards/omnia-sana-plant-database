@@ -54,6 +54,7 @@ indications:
   - REF-2397
   - REF-2399
   - REF-2400
+  - REF-2589
   status: verified
 - condition: menopause
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood);
@@ -72,6 +73,7 @@ indications:
   - REF-2399
   - REF-2400
   - REF-2401
+  - REF-2589
   status: verified
 - condition: menstrual-cramps
   note: Premenstrual and menstrual complaints (traditional use)
@@ -109,6 +111,7 @@ references:
 - REF-2399
 - REF-2400
 - REF-2401
+- REF-2589
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

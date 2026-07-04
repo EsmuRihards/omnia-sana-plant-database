@@ -41,17 +41,20 @@ indications:
   reference_ids:
   - REF-0447
   - REF-1458
+  - REF-2587
   status: needs-review
 - condition: hot-flashes
   note: Menopausal hot flushes - some trial benefit reported
   reference_ids:
   - REF-0446
+  - REF-2588
   status: needs-review
 - condition: inflammation
   reference_ids: []
   status: needs-review
 - condition: menopause
-  reference_ids: []
+  reference_ids:
+  - REF-2588
   status: needs-review
 - condition: pain
   note: Premenstrual syndrome and cyclical breast pain - some positive but inconsistent trial results
@@ -100,6 +103,8 @@ references:
 - REF-1463
 - REF-1464
 - REF-1465
+- REF-2587
+- REF-2588
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

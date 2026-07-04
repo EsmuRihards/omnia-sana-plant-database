@@ -805,7 +805,8 @@
       "REF-0673",
       "REF-2397",
       "REF-2399",
-      "REF-2400"
+      "REF-2400",
+      "REF-2589"
      ],
      "status": "verified",
      "evidence": 10,
@@ -826,7 +827,8 @@
       "REF-2398",
       "REF-2399",
       "REF-2400",
-      "REF-2401"
+      "REF-2401",
+      "REF-2589"
      ],
      "status": "verified",
      "evidence": 10,
@@ -885,7 +887,8 @@
     "REF-2398",
     "REF-2399",
     "REF-2400",
-    "REF-2401"
+    "REF-2401",
+    "REF-2589"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -2651,7 +2654,8 @@
       "REF-0693",
       "REF-0694",
       "REF-2407",
-      "REF-2408"
+      "REF-2408",
+      "REF-2595"
      ],
      "status": "verified"
     },
@@ -2832,7 +2836,8 @@
     "REF-0693",
     "REF-2407",
     "REF-2408",
-    "REF-2409"
+    "REF-2409",
+    "REF-2595"
    ],
    "drug_class_interactions": [
     {
@@ -15337,10 +15342,11 @@
      "note": "Relieves primary dysmenorrhoea (menstrual) pain - meta-analyses of RCTs find fennel reduces pain intensity versus placebo, comparable to mefenamic acid",
      "reference_ids": [
       "REF-0604",
-      "REF-0605"
+      "REF-0605",
+      "REF-2586"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 9,
      "label": "Menstrual cramps"
     },
     {
@@ -15480,7 +15486,8 @@
     "REF-1645",
     "REF-1646",
     "REF-1656",
-    "REF-1657"
+    "REF-1657",
+    "REF-2586"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -25048,20 +25055,22 @@
      "note": "Eczema / atopic dermatitis - popularly used, but a Cochrane review found oral EPO is NOT effective",
      "reference_ids": [
       "REF-0447",
-      "REF-1458"
+      "REF-1458",
+      "REF-2587"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 9,
      "label": "Eczema"
     },
     {
      "condition": "hot-flashes",
      "note": "Menopausal hot flushes - some trial benefit reported",
      "reference_ids": [
-      "REF-0446"
+      "REF-0446",
+      "REF-2588"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Hot flashes"
     },
     {
@@ -25073,9 +25082,11 @@
     },
     {
      "condition": "menopause",
-     "reference_ids": [],
+     "reference_ids": [
+      "REF-2588"
+     ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Menopause"
     },
     {
@@ -25140,7 +25151,9 @@
     "REF-1462",
     "REF-1463",
     "REF-1464",
-    "REF-1465"
+    "REF-1465",
+    "REF-2587",
+    "REF-2588"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -28761,7 +28774,8 @@
       "REF-0300",
       "REF-1498",
       "REF-1499",
-      "REF-1500"
+      "REF-1500",
+      "REF-2598"
      ],
      "status": "verified"
     },
@@ -28787,7 +28801,9 @@
       "REF-1496",
       "REF-1497",
       "REF-1500",
-      "REF-1502"
+      "REF-1502",
+      "REF-2596",
+      "REF-2597"
      ],
      "status": "verified"
     }
@@ -28828,19 +28844,22 @@
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
-      "REF-0300"
+      "REF-0300",
+      "REF-2597"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 6,
      "label": "Cold & flu"
     },
     {
      "condition": "immune-support",
      "reference_ids": [
-      "REF-0300"
+      "REF-0300",
+      "REF-2596",
+      "REF-2597"
      ],
      "status": "verified",
-     "evidence": 5,
+     "evidence": 7,
      "label": "Immune support"
     },
     {
@@ -28905,7 +28924,10 @@
     "REF-1502",
     "REF-1503",
     "REF-1504",
-    "REF-1505"
+    "REF-1505",
+    "REF-2596",
+    "REF-2597",
+    "REF-2598"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -28986,7 +29008,8 @@
       "REF-0602",
       "REF-0971",
       "REF-0973",
-      "REF-0976"
+      "REF-0976",
+      "REF-2594"
      ],
      "status": "verified"
     }
@@ -29022,10 +29045,11 @@
      "note": "Supportive in inflammatory bowel disease / ulcerative colitis (limited trial evidence)",
      "reference_ids": [
       "REF-0521",
-      "REF-0977"
+      "REF-0977",
+      "REF-2592"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 3,
      "label": "Inflammatory bowel disease (IBD)"
     },
     {
@@ -29061,7 +29085,8 @@
      "reference_ids": [
       "REF-0520",
       "REF-0521",
-      "REF-0976"
+      "REF-0976",
+      "REF-2594"
      ],
      "status": "verified",
      "evidence": 2,
@@ -29108,7 +29133,10 @@
     "REF-0976",
     "REF-0602",
     "REF-0977",
-    "REF-0978"
+    "REF-0978",
+    "REF-2592",
+    "REF-2593",
+    "REF-2594"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -29903,7 +29931,11 @@
      "reference_ids": [
       "REF-0040",
       "REF-0099",
-      "REF-1520"
+      "REF-1520",
+      "REF-2582",
+      "REF-2583",
+      "REF-2584",
+      "REF-2585"
      ],
      "status": "verified"
     },
@@ -29925,10 +29957,14 @@
      "reference_ids": [
       "REF-0040",
       "REF-0099",
-      "REF-1520"
+      "REF-1520",
+      "REF-2582",
+      "REF-2583",
+      "REF-2584",
+      "REF-2585"
      ],
      "status": "verified",
-     "evidence": 6,
+     "evidence": 10,
      "label": "Low mood / depression"
     },
     {
@@ -29974,7 +30010,11 @@
     "REF-1522",
     "REF-1523",
     "REF-1524",
-    "REF-1525"
+    "REF-1525",
+    "REF-2582",
+    "REF-2583",
+    "REF-2584",
+    "REF-2585"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -32013,7 +32053,8 @@
       "REF-0424",
       "REF-0425",
       "REF-1554",
-      "REF-1556"
+      "REF-1556",
+      "REF-2591"
      ],
      "status": "verified"
     },
@@ -32029,7 +32070,8 @@
       "REF-1555",
       "REF-1556",
       "REF-1558",
-      "REF-1560"
+      "REF-1560",
+      "REF-2590"
      ],
      "status": "verified"
     }
@@ -32087,10 +32129,12 @@
      "reference_ids": [
       "REF-0424",
       "REF-0425",
-      "REF-0595"
+      "REF-0595",
+      "REF-2590",
+      "REF-2591"
      ],
      "status": "verified",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Varicose veins"
     }
    ],
@@ -32123,7 +32167,9 @@
     "REF-1558",
     "REF-1559",
     "REF-1560",
-    "REF-1561"
+    "REF-1561",
+    "REF-2590",
+    "REF-2591"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",

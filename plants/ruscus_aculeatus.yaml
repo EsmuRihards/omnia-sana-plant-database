@@ -32,6 +32,7 @@ actions:
   - REF-0425
   - REF-1554
   - REF-1556
+  - REF-2591
   status: verified
 - action: venotonic
   note: Venotonic / vasoconstrictive support for chronic venous insufficiency (heavy, tired, swollen legs
@@ -47,6 +48,7 @@ actions:
   - REF-1556
   - REF-1558
   - REF-1560
+  - REF-2590
   status: verified
 indications:
 - condition: hemorrhoids
@@ -87,6 +89,8 @@ indications:
   - REF-0424
   - REF-0425
   - REF-0595
+  - REF-2590
+  - REF-2591
   status: verified
 contraindications:
 - note: Generally well tolerated; occasional mild gastrointestinal upset is the main reported effect.
@@ -112,6 +116,8 @@ references:
 - REF-1559
 - REF-1560
 - REF-1561
+- REF-2590
+- REF-2591
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

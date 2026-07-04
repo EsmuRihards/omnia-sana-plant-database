@@ -87,6 +87,7 @@ indications:
   reference_ids:
   - REF-0604
   - REF-0605
+  - REF-2586
   status: verified
 - condition: muscle-spasm
   note: inferred from antispasmodic action
@@ -196,6 +197,7 @@ references:
 - REF-1646
 - REF-1656
 - REF-1657
+- REF-2586
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

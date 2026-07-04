@@ -26,6 +26,7 @@ actions:
   - REF-0719
   - REF-0721
   - REF-1690
+  - REF-2562
   status: verified
 - action: anti-rheumatic
   reference_ids:
@@ -113,6 +114,7 @@ contraindications:
   - REF-0098
   - REF-0168
   - REF-0207
+  - REF-2561
   status: verified
 - note: Duke (2002) does not appear to include a dedicated entry for ground elder (Aegopodium podagraria)
     in the Handbook of Medicinal Herbs, Second Edition.
@@ -130,6 +132,9 @@ references:
 - REF-1689
 - REF-1690
 - REF-1691
+- REF-2560
+- REF-2561
+- REF-2562
 provenance: book+pubmed
 status: verified
 last_updated: '2026-06-20'

@@ -36,6 +36,10 @@ actions:
   - REF-2466
   - REF-2467
   - REF-2469
+  - REF-2540
+  - REF-2541
+  - REF-2542
+  - REF-2543
   status: verified
 - action: lipid-lowering
   parts:
@@ -44,6 +48,7 @@ actions:
     alongside glucose lowering.
   reference_ids:
   - REF-2466
+  - REF-2541
   status: verified
 indications:
 - condition: blood-sugar
@@ -51,17 +56,23 @@ indications:
   - REF-2465
   - REF-2466
   - REF-2467
+  - REF-2540
+  - REF-2541
+  - REF-2542
+  - REF-2543
   status: verified
 - condition: metabolic-support
   note: inferred from antidiabetic action
   reference_ids:
   - REF-2465
   - REF-2466
+  - REF-2542
   status: needs-review
 - condition: high-cholesterol
   note: inferred from lipid-lowering action
   reference_ids:
   - REF-2466
+  - REF-2541
   status: needs-review
 contraindications:
 - note: 'Gymnema lowers blood sugar and can add to the effect of diabetes medicines
@@ -120,6 +131,10 @@ pairings:
   reviewed_date: '2026-07-03'
 references:
 - REF-2469
+- REF-2540
+- REF-2541
+- REF-2542
+- REF-2543
 provenance: pubmed
 status: verified
 last_updated: '2026-07-03'

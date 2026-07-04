@@ -926,7 +926,8 @@
       "REF-0207",
       "REF-0719",
       "REF-0721",
-      "REF-1690"
+      "REF-1690",
+      "REF-2562"
      ],
      "status": "verified"
     },
@@ -1067,7 +1068,8 @@
      "reference_ids": [
       "REF-0098",
       "REF-0168",
-      "REF-0207"
+      "REF-0207",
+      "REF-2561"
      ],
      "status": "verified"
     },
@@ -1089,7 +1091,10 @@
     "REF-1688",
     "REF-1689",
     "REF-1690",
-    "REF-1691"
+    "REF-1691",
+    "REF-2560",
+    "REF-2561",
+    "REF-2562"
    ],
    "provenance": "book+pubmed",
    "status": "verified",
@@ -13477,7 +13482,8 @@
      "note": "Soothing, demulcent carbohydrates of the rhizome.",
      "reference_ids": [
       "REF-0437",
-      "REF-0438"
+      "REF-0438",
+      "REF-2564"
      ]
     },
     {
@@ -13507,7 +13513,8 @@
      "action": "demulcent",
      "note": "Soothing demulcent (mucilage) for urinary-tract irritation",
      "reference_ids": [
-      "REF-0438"
+      "REF-0438",
+      "REF-2565"
      ],
      "status": "verified"
     },
@@ -13516,7 +13523,8 @@
      "note": "Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty of fluids)",
      "reference_ids": [
       "REF-0437",
-      "REF-0438"
+      "REF-0438",
+      "REF-2563"
      ],
      "status": "verified"
     }
@@ -13585,10 +13593,11 @@
      "note": "Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty of fluids)",
      "reference_ids": [
       "REF-0437",
-      "REF-0438"
+      "REF-0438",
+      "REF-2563"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Urinary tract infection (UTI)"
     }
    ],
@@ -13613,7 +13622,10 @@
    "references": [
     "REF-0710",
     "REF-0711",
-    "REF-0712"
+    "REF-0712",
+    "REF-2563",
+    "REF-2564",
+    "REF-2565"
    ],
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
@@ -16826,7 +16838,11 @@
       "REF-2465",
       "REF-2466",
       "REF-2467",
-      "REF-2469"
+      "REF-2469",
+      "REF-2540",
+      "REF-2541",
+      "REF-2542",
+      "REF-2543"
      ],
      "status": "verified"
     },
@@ -16837,7 +16853,8 @@
      ],
      "note": "Supplementation has been associated with a favourable shift in the lipid profile alongside glucose lowering.",
      "reference_ids": [
-      "REF-2466"
+      "REF-2466",
+      "REF-2541"
      ],
      "status": "verified"
     }
@@ -16848,10 +16865,14 @@
      "reference_ids": [
       "REF-2465",
       "REF-2466",
-      "REF-2467"
+      "REF-2467",
+      "REF-2540",
+      "REF-2541",
+      "REF-2542",
+      "REF-2543"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 10,
      "label": "Blood sugar / diabetes support"
     },
     {
@@ -16859,20 +16880,22 @@
      "note": "inferred from antidiabetic action",
      "reference_ids": [
       "REF-2465",
-      "REF-2466"
+      "REF-2466",
+      "REF-2542"
      ],
      "status": "needs-review",
-     "evidence": 4,
+     "evidence": 7,
      "label": "Metabolic support"
     },
     {
      "condition": "high-cholesterol",
      "note": "inferred from lipid-lowering action",
      "reference_ids": [
-      "REF-2466"
+      "REF-2466",
+      "REF-2541"
      ],
      "status": "needs-review",
-     "evidence": 3,
+     "evidence": 8,
      "label": "High cholesterol"
     }
    ],
@@ -16938,7 +16961,11 @@
     }
    ],
    "references": [
-    "REF-2469"
+    "REF-2469",
+    "REF-2540",
+    "REF-2541",
+    "REF-2542",
+    "REF-2543"
    ],
    "provenance": "pubmed",
    "status": "verified",
@@ -27886,7 +27913,10 @@
      "note": "Standardised kava extracts significantly reduce anxiety versus placebo in controlled trials (Hamilton Anxiety scale).",
      "reference_ids": [
       "REF-2462",
-      "REF-2463"
+      "REF-2463",
+      "REF-2544",
+      "REF-2546",
+      "REF-2547"
      ],
      "status": "verified"
     },
@@ -27909,10 +27939,13 @@
      "condition": "anxiety",
      "reference_ids": [
       "REF-2462",
-      "REF-2463"
+      "REF-2463",
+      "REF-2544",
+      "REF-2546",
+      "REF-2547"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 10,
      "label": "Anxiety"
     },
     {
@@ -27953,7 +27986,8 @@
      "note": "Rare but serious drug-induced liver injury (hepatitis, cirrhosis, liver failure) has been reported with kava; it is contraindicated in people with liver disease and should not be combined with alcohol or other medicines that can harm the liver. To reduce risk, use only water-based extracts of peeled root/rhizome from a noble cultivar, keep the dose at or below about 250 mg kavalactones per day, and use short-term only. Stop and seek care for signs of liver trouble (dark urine, jaundice, nausea, abdominal pain).",
      "severity": "serious",
      "reference_ids": [
-      "REF-2464"
+      "REF-2464",
+      "REF-2545"
      ],
      "status": "verified"
     },
@@ -28007,7 +28041,11 @@
     }
    ],
    "references": [
-    "REF-2460"
+    "REF-2460",
+    "REF-2544",
+    "REF-2545",
+    "REF-2546",
+    "REF-2547"
    ],
    "provenance": "pubmed",
    "status": "verified",
@@ -29688,7 +29726,8 @@
      "note": "Releases trace hydrogen cyanide that calms the cough reflex - the basis of both the antitussive action and the safety caution.",
      "reference_ids": [
       "REF-0524",
-      "REF-0525"
+      "REF-0525",
+      "REF-2556"
      ]
     },
     {
@@ -29750,10 +29789,11 @@
      "note": "Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways); Antitussive - calms a persistent dry, irritating cough (prunasin quietens the cough reflex)",
      "reference_ids": [
       "REF-0524",
-      "REF-0525"
+      "REF-0525",
+      "REF-2557"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cough"
     },
     {
@@ -29781,10 +29821,11 @@
      "condition": "sore-throat",
      "note": "Soothes sore throat and respiratory irritation (traditional)",
      "reference_ids": [
-      "REF-0524"
+      "REF-0524",
+      "REF-2558"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Sore throat"
     }
    ],
@@ -29814,7 +29855,11 @@
     "REF-1001",
     "REF-1002",
     "REF-1003",
-    "REF-1004"
+    "REF-1004",
+    "REF-2556",
+    "REF-2557",
+    "REF-2558",
+    "REF-2559"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -31332,7 +31377,10 @@
      "action": "anti-inflammatory",
      "note": "Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation",
      "reference_ids": [
-      "REF-0417"
+      "REF-0417",
+      "REF-2548",
+      "REF-2550",
+      "REF-2551"
      ],
      "status": "verified"
     },
@@ -31341,21 +31389,27 @@
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
       "REF-0417",
-      "REF-0418"
+      "REF-0418",
+      "REF-2549"
      ],
      "status": "verified"
     },
     {
      "action": "antimicrobial",
      "reference_ids": [
-      "REF-0418"
+      "REF-0418",
+      "REF-2549",
+      "REF-2550"
      ],
      "status": "verified"
     },
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0418"
+      "REF-0418",
+      "REF-2548",
+      "REF-2549",
+      "REF-2550"
      ],
      "status": "verified"
     },
@@ -31447,7 +31501,8 @@
      "note": "inferred from astringent action",
      "reference_ids": [
       "REF-0417",
-      "REF-0418"
+      "REF-0418",
+      "REF-2551"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -31475,7 +31530,11 @@
    "references": [
     "REF-0713",
     "REF-0714",
-    "REF-0715"
+    "REF-0715",
+    "REF-2548",
+    "REF-2549",
+    "REF-2550",
+    "REF-2551"
    ],
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
@@ -39968,7 +40027,9 @@
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
       "REF-0513",
-      "REF-1378"
+      "REF-1378",
+      "REF-2554",
+      "REF-2555"
      ],
      "status": "verified"
     },
@@ -39976,7 +40037,8 @@
      "action": "digestive",
      "note": "Mild digestive / stomach tonic (indigestion)",
      "reference_ids": [
-      "REF-0514"
+      "REF-0514",
+      "REF-2552"
      ],
      "status": "needs-review"
     },
@@ -40040,10 +40102,11 @@
      "condition": "indigestion",
      "note": "Mild digestive / stomach tonic (indigestion)",
      "reference_ids": [
-      "REF-0514"
+      "REF-0514",
+      "REF-2552"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Indigestion"
     },
     {
@@ -40094,7 +40157,8 @@
      "note": "Buy from a reputable source: Veronica officinalis is frequently adulterated with the related Veronica chamaedrys.",
      "severity": "info",
      "reference_ids": [
-      "REF-0513"
+      "REF-0513",
+      "REF-2553"
      ],
      "status": "verified"
     }
@@ -40102,7 +40166,11 @@
    "references": [
     "REF-1378",
     "REF-1379",
-    "REF-1380"
+    "REF-1380",
+    "REF-2552",
+    "REF-2553",
+    "REF-2554",
+    "REF-2555"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",

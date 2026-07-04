@@ -34,11 +34,14 @@ actions:
   reference_ids:
   - REF-0513
   - REF-1378
+  - REF-2554
+  - REF-2555
   status: verified
 - action: digestive
   note: Mild digestive / stomach tonic (indigestion)
   reference_ids:
   - REF-0514
+  - REF-2552
   status: needs-review
 - action: expectorant
   note: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
@@ -80,6 +83,7 @@ indications:
   note: Mild digestive / stomach tonic (indigestion)
   reference_ids:
   - REF-0514
+  - REF-2552
   status: needs-review
 - condition: inflammation
   note: Traditional expectorant for cough and respiratory complaints (iridoid glycosides inhibit lung
@@ -114,11 +118,16 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0513
+  - REF-2553
   status: verified
 references:
 - REF-1378
 - REF-1379
 - REF-1380
+- REF-2552
+- REF-2553
+- REF-2554
+- REF-2555
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

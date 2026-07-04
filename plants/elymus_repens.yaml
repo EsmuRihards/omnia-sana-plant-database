@@ -17,6 +17,7 @@ constituents:
   reference_ids:
   - REF-0437
   - REF-0438
+  - REF-2564
 - name: Flavonoids and phenolic acids (caffeoyl/feruloyl quinic esters)
   compounds:
   - phenolic-acid
@@ -35,6 +36,7 @@ actions:
   note: Soothing demulcent (mucilage) for urinary-tract irritation
   reference_ids:
   - REF-0438
+  - REF-2565
   status: verified
 - action: diuretic
   note: Diuretic irrigation of the urinary tract - adjuvant in minor urinary complaints (taken with plenty
@@ -42,6 +44,7 @@ actions:
   reference_ids:
   - REF-0437
   - REF-0438
+  - REF-2563
   status: verified
 indications:
 - condition: cough
@@ -79,6 +82,7 @@ indications:
   reference_ids:
   - REF-0437
   - REF-0438
+  - REF-2563
   status: verified
 contraindications:
 - note: Drink plenty of fluids during use. Irrigation therapy must NOT be used if there is oedema (swelling)
@@ -97,6 +101,9 @@ references:
 - REF-0710
 - REF-0711
 - REF-0712
+- REF-2563
+- REF-2564
+- REF-2565
 provenance: website+symptom-tool+pubmed
 status: verified
 last_updated: '2026-06-20'

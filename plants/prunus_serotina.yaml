@@ -17,6 +17,7 @@ constituents:
   reference_ids:
   - REF-0524
   - REF-0525
+  - REF-2556
 - name: Tannins, coumarins (scopoletin) and benzaldehyde
   compounds:
   - coumarin
@@ -57,6 +58,7 @@ indications:
   reference_ids:
   - REF-0524
   - REF-0525
+  - REF-2557
   status: needs-review
 - condition: menstrual-cramps
   note: inferred from antispasmodic action
@@ -73,6 +75,7 @@ indications:
   note: Soothes sore throat and respiratory irritation (traditional)
   reference_ids:
   - REF-0524
+  - REF-2558
   status: needs-review
 contraindications:
 - note: 'Contains cyanogenic compounds: use only properly dried, prepared bark and avoid large or prolonged
@@ -96,6 +99,10 @@ references:
 - REF-1002
 - REF-1003
 - REF-1004
+- REF-2556
+- REF-2557
+- REF-2558
+- REF-2559
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

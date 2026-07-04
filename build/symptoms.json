@@ -3676,7 +3676,8 @@
      "inferred": true,
      "references": [
       "REF-0417",
-      "REF-0418"
+      "REF-0418",
+      "REF-2551"
      ]
     }
    ]
@@ -7094,6 +7095,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0437",
+      "REF-0438",
+      "REF-2563"
+     ]
+    },
+    {
      "condition": "cough",
      "label": "Cough",
      "evidence": 1,
@@ -7147,17 +7160,6 @@
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0437",
-      "REF-0438"
-     ]
-    },
-    {
-     "condition": "uti",
-     "label": "Urinary tract infection (UTI)",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0437",
       "REF-0438"
@@ -11071,34 +11073,40 @@
     {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
-     "evidence": 9,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-2465",
       "REF-2466",
-      "REF-2467"
-     ]
-    },
-    {
-     "condition": "metabolic-support",
-     "label": "Metabolic support",
-     "evidence": 4,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2465",
-      "REF-2466"
+      "REF-2467",
+      "REF-2540",
+      "REF-2541",
+      "REF-2542",
+      "REF-2543"
      ]
     },
     {
      "condition": "high-cholesterol",
      "label": "High cholesterol",
-     "evidence": 3,
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-2466"
+      "REF-2466",
+      "REF-2541"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2465",
+      "REF-2466",
+      "REF-2542"
      ]
     }
    ]
@@ -12180,12 +12188,15 @@
     {
      "condition": "anxiety",
      "label": "Anxiety",
-     "evidence": 8,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-2462",
-      "REF-2463"
+      "REF-2463",
+      "REF-2544",
+      "REF-2546",
+      "REF-2547"
      ]
     },
     {
@@ -18093,6 +18104,17 @@
      ]
     },
     {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0514",
+      "REF-2552"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -18105,16 +18127,6 @@
     {
      "condition": "bloating",
      "label": "Bloating",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0514"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -19836,6 +19848,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cough",
+     "label": "Cough",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0524",
+      "REF-0525",
+      "REF-2557"
+     ]
+    },
+    {
      "condition": "muscle-spasm",
      "label": "Muscle spasm",
      "evidence": 2,
@@ -19844,6 +19868,17 @@
      "references": [
       "REF-0525",
       "REF-1000"
+     ]
+    },
+    {
+     "condition": "sore-throat",
+     "label": "Sore throat",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0524",
+      "REF-2558"
      ]
     },
     {
@@ -19857,17 +19892,6 @@
      ]
     },
     {
-     "condition": "cough",
-     "label": "Cough",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0524",
-      "REF-0525"
-     ]
-    },
-    {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
      "evidence": 1,
@@ -19875,16 +19899,6 @@
      "inferred": true,
      "references": [
       "REF-0525"
-     ]
-    },
-    {
-     "condition": "sore-throat",
-     "label": "Sore throat",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0524"
      ]
     }
    ]

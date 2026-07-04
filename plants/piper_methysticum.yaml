@@ -31,6 +31,9 @@ actions:
   reference_ids:
   - REF-2462
   - REF-2463
+  - REF-2544
+  - REF-2546
+  - REF-2547
   status: verified
 - action: sedative
   parts:
@@ -47,6 +50,9 @@ indications:
   reference_ids:
   - REF-2462
   - REF-2463
+  - REF-2544
+  - REF-2546
+  - REF-2547
   status: verified
 - condition: stress
   note: inferred from anxiolytic action
@@ -76,6 +82,7 @@ contraindications:
   severity: serious
   reference_ids:
   - REF-2464
+  - REF-2545
   status: verified
 - note: Kava is sedating and can add to the effects of alcohol, benzodiazepines and
     other central-nervous-system depressants, impairing alertness and driving; avoid
@@ -120,6 +127,10 @@ pairings:
   reviewed_date: '2026-07-03'
 references:
 - REF-2460
+- REF-2544
+- REF-2545
+- REF-2546
+- REF-2547
 provenance: pubmed
 status: verified
 last_updated: '2026-07-03'

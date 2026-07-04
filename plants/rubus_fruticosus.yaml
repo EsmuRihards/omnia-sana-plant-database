@@ -32,20 +32,29 @@ actions:
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
   reference_ids:
   - REF-0417
+  - REF-2548
+  - REF-2550
+  - REF-2551
   status: verified
 - action: antidiarrheal
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
   - REF-0417
   - REF-0418
+  - REF-2549
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-0418
+  - REF-2549
+  - REF-2550
   status: verified
 - action: antioxidant
   reference_ids:
   - REF-0418
+  - REF-2548
+  - REF-2549
+  - REF-2550
   status: verified
 - action: astringent
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
@@ -96,6 +105,7 @@ indications:
   reference_ids:
   - REF-0417
   - REF-0418
+  - REF-2551
   status: needs-review
 contraindications:
 - note: 'Tannin-rich: high or prolonged intake may cause stomach upset or constipation and can reduce
@@ -114,6 +124,10 @@ references:
 - REF-0713
 - REF-0714
 - REF-0715
+- REF-2548
+- REF-2549
+- REF-2550
+- REF-2551
 provenance: website+symptom-tool+pubmed
 status: verified
 last_updated: '2026-06-20'

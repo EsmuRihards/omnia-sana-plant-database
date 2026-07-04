@@ -50,6 +50,7 @@ actions:
   - REF-1634
   - REF-1635
   - REF-1639
+  - REF-2568
   status: verified
 - action: lipid-lowering
   note: Lipid-lowering - helps reduce cholesterol (an RCT showed lower total and LDL cholesterol and higher
@@ -58,6 +59,9 @@ actions:
   - REF-0461
   - REF-0584
   - REF-0585
+  - REF-2566
+  - REF-2567
+  - REF-2569
   status: verified
 indications:
 - condition: bloating
@@ -84,6 +88,9 @@ indications:
   - REF-0461
   - REF-0584
   - REF-0585
+  - REF-2566
+  - REF-2567
+  - REF-2569
   status: needs-review
 - condition: ibs
   note: Supports irritable bowel syndrome (IBS) symptoms
@@ -100,6 +107,7 @@ indications:
   note: Hepatoprotective / liver support (protects liver cells and may aid their regeneration)
   reference_ids:
   - REF-0461
+  - REF-2568
   status: verified
 contraindications:
 - note: Because it stimulates bile flow, artichoke is contraindicated in bile-duct obstruction and should
@@ -123,6 +131,10 @@ references:
 - REF-1638
 - REF-1639
 - REF-1640
+- REF-2566
+- REF-2567
+- REF-2568
+- REF-2569
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

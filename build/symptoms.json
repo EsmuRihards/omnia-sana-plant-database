@@ -1933,6 +1933,21 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 10,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0461",
+      "REF-0584",
+      "REF-0585",
+      "REF-2566",
+      "REF-2567",
+      "REF-2569"
+     ]
+    },
+    {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
      "evidence": 9,
@@ -1945,15 +1960,14 @@
      ]
     },
     {
-     "condition": "high-cholesterol",
-     "label": "High cholesterol",
-     "evidence": 9,
-     "status": "needs-review",
-     "inferred": true,
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
      "references": [
       "REF-0461",
-      "REF-0584",
-      "REF-0585"
+      "REF-2568"
      ]
     },
     {
@@ -1994,16 +2008,6 @@
      "evidence": 3,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0461"
-     ]
-    },
-    {
-     "condition": "liver-support",
-     "label": "Liver support",
-     "evidence": 3,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0461"
      ]
@@ -2744,7 +2748,9 @@
      "references": [
       "REF-0409",
       "REF-0594",
-      "REF-1593"
+      "REF-1593",
+      "REF-2571",
+      "REF-2572"
      ]
     },
     {
@@ -2795,7 +2801,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0409"
+      "REF-0409",
+      "REF-2570"
      ]
     },
     {
@@ -5662,7 +5669,8 @@
       "REF-1609",
       "REF-1610",
       "REF-1611",
-      "REF-1613"
+      "REF-1613",
+      "REF-2580"
      ]
     },
     {
@@ -5673,7 +5681,8 @@
      "inferred": true,
      "references": [
       "REF-0433",
-      "REF-1610"
+      "REF-1610",
+      "REF-2580"
      ]
     },
     {
@@ -5683,7 +5692,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0434"
+      "REF-0434",
+      "REF-2580"
      ]
     },
     {
@@ -5693,7 +5703,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-1612"
+      "REF-1612",
+      "REF-2580"
      ]
     }
    ]
@@ -8557,6 +8568,29 @@
      ]
     },
     {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0449",
+      "REF-2581"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0448",
+      "REF-0449",
+      "REF-2581"
+     ]
+    },
+    {
      "condition": "allergy",
      "label": "Allergy / hay fever",
      "evidence": 1,
@@ -8605,27 +8639,6 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0449"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0449"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0448",
       "REF-0449"
      ]
     },
@@ -11188,6 +11201,29 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 3,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0463",
+      "REF-0617",
+      "REF-2579"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 3,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0463",
+      "REF-2577"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 2,
@@ -11210,17 +11246,6 @@
      ]
     },
     {
-     "condition": "eczema",
-     "label": "Eczema",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0463",
-      "REF-0617"
-     ]
-    },
-    {
      "condition": "immune-support",
      "label": "Immune support",
      "evidence": 2,
@@ -11228,7 +11253,8 @@
      "inferred": true,
      "references": [
       "REF-0463",
-      "REF-0617"
+      "REF-0617",
+      "REF-2578"
      ]
     },
     {
@@ -11255,16 +11281,6 @@
     {
      "condition": "cough",
      "label": "Cough",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0463"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
@@ -16152,7 +16168,19 @@
      "references": [
       "REF-0497",
       "REF-0498",
-      "REF-0607"
+      "REF-0607",
+      "REF-2575"
+     ]
+    },
+    {
+     "condition": "pregnancy-support",
+     "label": "Pregnancy support",
+     "evidence": 6,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0497",
+      "REF-2574"
      ]
     },
     {
@@ -16164,7 +16192,8 @@
      "references": [
       "REF-0497",
       "REF-1539",
-      "REF-1543"
+      "REF-1543",
+      "REF-2576"
      ]
     },
     {
@@ -16185,17 +16214,8 @@
      "inferred": true,
      "references": [
       "REF-0497",
-      "REF-1541"
-     ]
-    },
-    {
-     "condition": "pregnancy-support",
-     "label": "Pregnancy support",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0497"
+      "REF-1541",
+      "REF-2575"
      ]
     },
     {

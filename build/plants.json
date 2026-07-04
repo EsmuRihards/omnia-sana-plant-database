@@ -12429,7 +12429,8 @@
       "REF-0461",
       "REF-1634",
       "REF-1635",
-      "REF-1639"
+      "REF-1639",
+      "REF-2568"
      ],
      "status": "verified"
     },
@@ -12439,7 +12440,10 @@
      "reference_ids": [
       "REF-0461",
       "REF-0584",
-      "REF-0585"
+      "REF-0585",
+      "REF-2566",
+      "REF-2567",
+      "REF-2569"
      ],
      "status": "verified"
     }
@@ -12484,10 +12488,13 @@
      "reference_ids": [
       "REF-0461",
       "REF-0584",
-      "REF-0585"
+      "REF-0585",
+      "REF-2566",
+      "REF-2567",
+      "REF-2569"
      ],
      "status": "needs-review",
-     "evidence": 9,
+     "evidence": 10,
      "label": "High cholesterol"
     },
     {
@@ -12515,10 +12522,11 @@
      "condition": "liver-support",
      "note": "Hepatoprotective / liver support (protects liver cells and may aid their regeneration)",
      "reference_ids": [
-      "REF-0461"
+      "REF-0461",
+      "REF-2568"
      ],
      "status": "verified",
-     "evidence": 3,
+     "evidence": 8,
      "label": "Liver support"
     }
    ],
@@ -12548,7 +12556,11 @@
     "REF-1637",
     "REF-1638",
     "REF-1639",
-    "REF-1640"
+    "REF-1640",
+    "REF-2566",
+    "REF-2567",
+    "REF-2568",
+    "REF-2569"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -14710,7 +14722,8 @@
       "REF-0448",
       "REF-0449",
       "REF-2173",
-      "REF-2174"
+      "REF-2174",
+      "REF-2581"
      ],
      "status": "verified"
     },
@@ -14793,10 +14806,11 @@
      "condition": "infection",
      "note": "Soothes upper-respiratory catarrh and mild infection (traditional)",
      "reference_ids": [
-      "REF-0449"
+      "REF-0449",
+      "REF-2581"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Infection (general)"
     },
     {
@@ -14804,10 +14818,11 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0448",
-      "REF-0449"
+      "REF-0449",
+      "REF-2581"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -14870,7 +14885,8 @@
     "REF-2175",
     "REF-2176",
     "REF-2177",
-    "REF-2178"
+    "REF-2178",
+    "REF-2581"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -31630,7 +31646,8 @@
      "note": "Astringent for menstrual cramps (traditional)",
      "reference_ids": [
       "REF-0497",
-      "REF-1541"
+      "REF-1541",
+      "REF-2575"
      ],
      "status": "needs-review",
      "evidence": 5,
@@ -31642,7 +31659,8 @@
      "reference_ids": [
       "REF-0497",
       "REF-0498",
-      "REF-0607"
+      "REF-0607",
+      "REF-2575"
      ],
      "status": "needs-review",
      "evidence": 7,
@@ -31651,10 +31669,11 @@
     {
      "condition": "pregnancy-support",
      "reference_ids": [
-      "REF-0497"
+      "REF-0497",
+      "REF-2574"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 6,
      "label": "Pregnancy support"
     },
     {
@@ -31663,7 +31682,8 @@
      "reference_ids": [
       "REF-0497",
       "REF-1539",
-      "REF-1543"
+      "REF-1543",
+      "REF-2576"
      ],
      "status": "needs-review",
      "evidence": 6,
@@ -31700,7 +31720,10 @@
     "REF-1540",
     "REF-1541",
     "REF-1542",
-    "REF-1543"
+    "REF-1543",
+    "REF-2574",
+    "REF-2575",
+    "REF-2576"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -38889,7 +38912,8 @@
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
       "REF-0409",
-      "REF-1594"
+      "REF-1594",
+      "REF-2570"
      ],
      "status": "verified"
     },
@@ -38902,7 +38926,9 @@
       "REF-1593",
       "REF-1594",
       "REF-1595",
-      "REF-1599"
+      "REF-1599",
+      "REF-2571",
+      "REF-2573"
      ],
      "status": "verified"
     },
@@ -38932,7 +38958,9 @@
      "reference_ids": [
       "REF-0409",
       "REF-0594",
-      "REF-1593"
+      "REF-1593",
+      "REF-2571",
+      "REF-2572"
      ],
      "status": "verified",
      "evidence": 7,
@@ -38973,7 +39001,8 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0409"
+      "REF-0409",
+      "REF-2570"
      ],
      "status": "needs-review",
      "evidence": 5,
@@ -39045,7 +39074,11 @@
     "REF-1596",
     "REF-1597",
     "REF-1598",
-    "REF-1599"
+    "REF-1599",
+    "REF-2570",
+    "REF-2571",
+    "REF-2572",
+    "REF-2573"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -40632,7 +40665,8 @@
       "REF-0463",
       "REF-0617",
       "REF-1600",
-      "REF-1605"
+      "REF-1605",
+      "REF-2577"
      ],
      "status": "verified"
     },
@@ -40675,7 +40709,8 @@
      "note": "Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro",
      "reference_ids": [
       "REF-0463",
-      "REF-0617"
+      "REF-0617",
+      "REF-2578"
      ],
      "status": "verified"
     }
@@ -40728,10 +40763,11 @@
      "note": "Anti-inflammatory / immunomodulatory for chronic skin conditions - eczema, psoriasis, itching and scabs (traditional, supported by cyclotide research) - cyclotide-enriched V. tricolor preparations suppress T-cell proliferation and pro-inflammatory cytokine secretion in vitro",
      "reference_ids": [
       "REF-0463",
-      "REF-0617"
+      "REF-0617",
+      "REF-2579"
      ],
      "status": "verified",
-     "evidence": 2,
+     "evidence": 3,
      "label": "Eczema"
     },
     {
@@ -40739,7 +40775,8 @@
      "note": "inferred from immunomodulator action",
      "reference_ids": [
       "REF-0463",
-      "REF-0617"
+      "REF-0617",
+      "REF-2578"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -40749,10 +40786,11 @@
      "condition": "inflammation",
      "note": "Traditional demulcent / expectorant for cough, bronchitis and chest inflammation",
      "reference_ids": [
-      "REF-0463"
+      "REF-0463",
+      "REF-2577"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 3,
      "label": "Inflammation (general)"
     },
     {
@@ -40824,7 +40862,10 @@
     "REF-1604",
     "REF-1605",
     "REF-1606",
-    "REF-0463"
+    "REF-0463",
+    "REF-2577",
+    "REF-2578",
+    "REF-2579"
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
@@ -40884,7 +40925,8 @@
      "condition": "acne",
      "note": "Cycle-related (hormonal) acne (traditional)",
      "reference_ids": [
-      "REF-0434"
+      "REF-0434",
+      "REF-2580"
      ],
      "status": "needs-review",
      "evidence": 7,
@@ -40893,7 +40935,8 @@
     {
      "condition": "menopause",
      "reference_ids": [
-      "REF-1612"
+      "REF-1612",
+      "REF-2580"
      ],
      "status": "needs-review",
      "evidence": 7,
@@ -40903,7 +40946,8 @@
      "condition": "menstrual-cramps",
      "reference_ids": [
       "REF-0433",
-      "REF-1610"
+      "REF-1610",
+      "REF-2580"
      ],
      "status": "needs-review",
      "evidence": 8,
@@ -40934,7 +40978,8 @@
       "REF-1609",
       "REF-1610",
       "REF-1611",
-      "REF-1613"
+      "REF-1613",
+      "REF-2580"
      ],
      "status": "verified",
      "evidence": 10,
@@ -40977,7 +41022,8 @@
     "REF-1612",
     "REF-0434",
     "REF-1613",
-    "REF-1614"
+    "REF-1614",
+    "REF-2580"
    ],
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",

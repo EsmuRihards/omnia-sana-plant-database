@@ -36,6 +36,7 @@ actions:
   reference_ids:
   - REF-0409
   - REF-1594
+  - REF-2570
   status: verified
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
@@ -46,6 +47,8 @@ actions:
   - REF-1594
   - REF-1595
   - REF-1599
+  - REF-2571
+  - REF-2573
   status: verified
 - action: venotonic
   note: Supports capillary integrity and venous tone (traditional use for varicose veins / chronic venous
@@ -65,6 +68,8 @@ indications:
   - REF-0409
   - REF-0594
   - REF-1593
+  - REF-2571
+  - REF-2572
   status: verified
 - condition: eye-strain
   note: 'Traditional support for eye strain and vision (note: rigorous trials do NOT support improved
@@ -87,6 +92,7 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0409
+  - REF-2570
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -133,6 +139,10 @@ references:
 - REF-1597
 - REF-1598
 - REF-1599
+- REF-2570
+- REF-2571
+- REF-2572
+- REF-2573
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

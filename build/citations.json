@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2565,
+ "count": 2581,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -6649,6 +6649,38 @@
    ]
   },
   {
+   "ref_id": "REF-2581",
+   "key": "benedec2024euphrasia",
+   "type": "article",
+   "title": "Revealing the Phenolic Composition and the Antioxidant, Antimicrobial and Antiproliferative Activities of Two Euphrasia sp. Extracts",
+   "authors": "Benedec, D., Oniga, I., Hanganu, D., Vlase, A.M., Ielciu, I., Crisan, G., Fit, N., Niculae, M., Bab, T., Pall, E. and Vlase, L.",
+   "journal": "Plants",
+   "year": "2024",
+   "doi": "10.3390/plants13131790",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants13131790",
+   "link_type": "doi",
+   "citation": "Benedec, D., Oniga, I., Hanganu, D., Vlase, A.M., Ielciu, I., Crisan, G., Fit, N., Niculae, M., Bab, T., Pall, E. and Vlase, L (2024) 'Revealing the Phenolic Composition and the Antioxidant, Antimicrobial and Antiproliferative Activities of Two Euphrasia sp. Extracts', Plants, 13(13), pp. 1790. doi:10.3390/plants13131790",
+   "abstract": "Ethanolic extracts of Euphrasia officinalis subsp. pratensis and Euphrasia stricta, rich in chlorogenic acid and rutin, showed marked antioxidant capacity, antimicrobial and anti-biofilm activity (especially against Gram-positive bacteria) and antiproliferative activity, providing scientific support for the traditional medicinal use of eyebright.",
+   "tier": "preclinical",
+   "display": "Revealing the Phenolic Composition and the Antioxidant, Antimicrobial and Antiproliferative Activities of Two Euphrasia sp. Extracts",
+   "plants": [
+    "Euphrasy",
+    "Eyebright",
+    "Red eyebright"
+   ],
+   "scientific": [
+    "Euphrasia officinalis"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Infection (general)",
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-2096",
    "key": "sharma2024centella",
    "type": "article",
@@ -7153,6 +7185,36 @@
     "PMS / premenstrual syndrome",
     "Pain (general)",
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-2575",
+   "key": "jianu2024raspberry",
+   "type": "article",
+   "title": "The Effect of Rubus idaeus Polyphenols Extract in Induced Endometriosis in Rats",
+   "authors": "Jianu, E.M., Pop, R.M., Gherman, L.M., Ranga, F., Levai, A.M., Rus, V., Bolboaca, S.D., Stefan, R.A., Onofrei, M.M., Nati, I.D., Stoia, I.A., Stefan, P.A., Mihu, C. and Mihu, C.M.",
+   "journal": "Molecules",
+   "year": "2024",
+   "doi": "10.3390/molecules29040778",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules29040778",
+   "link_type": "doi",
+   "citation": "Jianu, E.M., Pop, R.M., Gherman, L.M., Ranga, F., Levai, A.M., Rus, V., Bolboaca, S.D., Stefan, R.A., Onofrei, M.M., Nati, I.D., Stoia, I.A., Stefan, P.A., Mihu, C. and Mihu, C.M (2024) 'The Effect of Rubus idaeus Polyphenols Extract in Induced Endometriosis in Rats', Molecules, 29(4), pp. 778. doi:10.3390/molecules29040778",
+   "abstract": "In a rat model of endometriosis, raspberry (Rubus idaeus) leaf polyphenol extract reduced the size of endometriotic lesions and normalised plasma MMP-2 and MMP-9, showing anti-inflammatory activity relevant to the herb's traditional use for menstrual and reproductive complaints.",
+   "tier": "preclinical",
+   "display": "The Effect of Rubus idaeus Polyphenols Extract in Induced Endometriosis in Rats",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Menstrual cramps",
+    "PMS / premenstrual syndrome"
    ]
   },
   {
@@ -9282,6 +9344,36 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2579",
+   "key": "maraschio2023viola",
+   "type": "article",
+   "title": "Case study of clinical improvement of atopic dermatitis in a patient treated with herbal-based parapharmaceuticals",
+   "authors": "Maraschio, A., Wulhfard, K. and Monsellato, L.",
+   "journal": "Journal of Complementary & Integrative Medicine",
+   "year": "2023",
+   "doi": "10.1515/jcim-2023-0005",
+   "url": "",
+   "link": "https://doi.org/10.1515/jcim-2023-0005",
+   "link_type": "doi",
+   "citation": "Maraschio, A., Wulhfard, K. and Monsellato, L (2023) 'Case study of clinical improvement of atopic dermatitis in a patient treated with herbal-based parapharmaceuticals', Journal of Complementary & Integrative Medicine, 20(2), pp. 504-511. doi:10.1515/jcim-2023-0005",
+   "abstract": "Clinical case report in which herbal preparations containing Viola tricolor herba (among other botanicals) resolved dry, lichenified atopic-dermatitis skin lesions and restored an eudermic state, illustrating the traditional use of heartsease for eczema and inflammatory skin complaints.",
+   "tier": "clinical",
+   "display": "Case study of clinical improvement of atopic dermatitis in a patient treated with herbal-based parapharmaceuticals",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [],
+   "conditions": [
+    "Eczema"
+   ]
   },
   {
    "ref_id": "REF-2131",
@@ -12776,6 +12868,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2574",
+   "key": "socha2023raspberry",
+   "type": "article",
+   "title": "Raspberry Leaves and Extracts-Molecular Mechanism of Action and Its Effectiveness on Human Cervical Ripening and the Induction of Labor",
+   "authors": "Socha, M.W., Flis, W., Wartega, M., Szambelan, M., Pietrus, M. and Kazdepka-Zieminska, A.",
+   "journal": "Nutrients",
+   "year": "2023",
+   "doi": "10.3390/nu15143206",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu15143206",
+   "link_type": "doi",
+   "citation": "Socha, M.W., Flis, W., Wartega, M., Szambelan, M., Pietrus, M. and Kazdepka-Zieminska, A (2023) 'Raspberry Leaves and Extracts-Molecular Mechanism of Action and Its Effectiveness on Human Cervical Ripening and the Induction of Labor', Nutrients, 15(14), pp. 3206. doi:10.3390/nu15143206",
+   "abstract": "Review of raspberry (Rubus idaeus) leaf use in pregnancy: most women take raspberry leaf to induce and ease labour, and the available data indicate a weak effect on labour induction with an overall reassuring safety profile, documenting the traditional pregnancy-support use.",
+   "tier": "clinical",
+   "display": "Raspberry Leaves and Extracts-Molecular Mechanism of Action and Its Effectiveness on Human Cervical Ripening and the Induction of Labor",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Pregnancy support"
+   ]
+  },
+  {
    "ref_id": "REF-1529",
    "key": "tinsley2023rhodiola",
    "type": "article",
@@ -13694,6 +13815,36 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2573",
+   "key": "kopystecka2023bilberry",
+   "type": "article",
+   "title": "Vaccinium uliginosum and Vaccinium myrtillus - Two Species One Used as a Functional Food",
+   "authors": "Kopystecka, A., Koziol, I., Radomska, D., Bielawski, K., Bielawska, A. and Wujec, M.",
+   "journal": "Nutrients",
+   "year": "2023",
+   "doi": "10.3390/nu15194119",
+   "url": "",
+   "link": "https://doi.org/10.3390/nu15194119",
+   "link_type": "doi",
+   "citation": "Kopystecka, A., Koziol, I., Radomska, D., Bielawski, K., Bielawska, A. and Wujec, M (2023) 'Vaccinium uliginosum and Vaccinium myrtillus - Two Species One Used as a Functional Food', Nutrients, 15(19), pp. 4119. doi:10.3390/nu15194119",
+   "abstract": "Review of the composition and biological activity of bilberry (Vaccinium myrtillus): its anthocyanins act as potent antioxidants with anti-inflammatory, anti-cancer and apoptosis-modulating activity, supporting use as an antioxidant dietary supplement and in the prevention of cataracts.",
+   "tier": "preclinical",
+   "display": "Vaccinium uliginosum and Vaccinium myrtillus - Two Species One Used as a Functional Food",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1360",
    "key": "dong2023verbenalin",
    "type": "article",
@@ -14479,6 +14630,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2570",
+   "key": "sharma2022bilberry",
+   "type": "article",
+   "title": "Anti-Inflammatory Activity of Bilberry (Vaccinium myrtillus L.)",
+   "authors": "Sharma, A. and Lee, H.J.",
+   "journal": "Current Issues in Molecular Biology",
+   "year": "2022",
+   "doi": "10.3390/cimb44100313",
+   "url": "",
+   "link": "https://doi.org/10.3390/cimb44100313",
+   "link_type": "doi",
+   "citation": "Sharma, A. and Lee, H.J (2022) 'Anti-Inflammatory Activity of Bilberry (Vaccinium myrtillus L.)', Current Issues in Molecular Biology, 44(10), pp. 4570-4583. doi:10.3390/cimb44100313",
+   "abstract": "Review of the anti-inflammatory properties of bilberry (Vaccinium myrtillus): in cell and animal models its anthocyanins lower TNF-alpha, IL-6 and IL-1-beta and modulate NF-kappaB and JAK/STAT signalling, and supplementation reduced inflammatory markers in clinical studies of metabolic disorders.",
+   "tier": "preclinical",
+   "display": "Anti-Inflammatory Activity of Bilberry (Vaccinium myrtillus L.)",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
+  },
+  {
    "ref_id": "REF-0831",
    "key": "piazza2022hamamelis",
    "type": "article",
@@ -14878,6 +15061,38 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2571",
+   "key": "vanekova2022bilberry",
+   "type": "article",
+   "title": "Bilberries: Curative and Miraculous - A Review on Bioactive Constituents and Clinical Research",
+   "authors": "Vanekova, Z. and Rollinger, J.M.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2022",
+   "doi": "10.3389/fphar.2022.909914",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2022.909914",
+   "link_type": "doi",
+   "citation": "Vanekova, Z. and Rollinger, J.M (2022) 'Bilberries: Curative and Miraculous - A Review on Bioactive Constituents and Clinical Research', Frontiers in Pharmacology, 13, pp. 909914. doi:10.3389/fphar.2022.909914",
+   "abstract": "Critical review of the phytochemistry and clinical research on bilberry (Vaccinium myrtillus) fruit and leaves: beneficial clinical results were most consistent for the treatment of dyslipidaemia and chronic inflammatory disorders, while the classic vision and diabetes claims remained contradictory and require larger controlled trials.",
+   "tier": "clinical",
+   "display": "Bilberries: Curative and Miraculous - A Review on Bioactive Constituents and Clinical Research",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [
+    "Antioxidant"
+   ],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
   },
   {
    "ref_id": "REF-0995",
@@ -17063,6 +17278,38 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2578",
+   "key": "conzelmann2022viola",
+   "type": "article",
+   "title": "Inhibition of HIV-1 by Cyclotide-Enriched Extracts of Viola tricolor",
+   "authors": "Conzelmann, C., Muratspahic, E., Tomasevic, N., Munch, J. and Gruber, C.W.",
+   "journal": "Frontiers in Pharmacology",
+   "year": "2022",
+   "doi": "10.3389/fphar.2022.888961",
+   "url": "",
+   "link": "https://doi.org/10.3389/fphar.2022.888961",
+   "link_type": "doi",
+   "citation": "Conzelmann, C., Muratspahic, E., Tomasevic, N., Munch, J. and Gruber, C.W (2022) 'Inhibition of HIV-1 by Cyclotide-Enriched Extracts of Viola tricolor', Frontiers in Pharmacology, 13, pp. 888961. doi:10.3389/fphar.2022.888961",
+   "abstract": "Cyclotide-enriched extracts and subfractions of Viola tricolor inhibited HIV-1 infection in the low microgram-per-millilitre range, characterising the plant's cyclic peptide (cyclotide) constituents as bioactive components relevant to its immunomodulatory activity.",
+   "tier": "preclinical",
+   "display": "Inhibition of HIV-1 by Cyclotide-Enriched Extracts of Viola tricolor",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [
+    "Immunomodulator / immune support"
+   ],
+   "conditions": [
+    "Immune support"
+   ]
+  },
+  {
    "ref_id": "REF-2202",
    "key": "peng2022inonotus",
    "type": "article",
@@ -18473,6 +18720,35 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2576",
+   "key": "cyboranmikolajczyk2022raspberry",
+   "type": "article",
+   "title": "Protection of Erythrocytes and Microvascular Endothelial Cells against Oxidative Damage by Fragaria vesca L. and Rubus idaeus L. Leaves Extracts - The Mechanism of Action",
+   "authors": "Cyboran-Mikolajczyk, S., Meczarska, K., Solarska-Sciuk, K., Ratajczak-Wielgomas, K., Oszmianski, J., Jencova, V. and Bonarska-Kujawa, D.",
+   "journal": "Molecules",
+   "year": "2022",
+   "doi": "10.3390/molecules27185865",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules27185865",
+   "link_type": "doi",
+   "citation": "Cyboran-Mikolajczyk, S., Meczarska, K., Solarska-Sciuk, K., Ratajczak-Wielgomas, K., Oszmianski, J., Jencova, V. and Bonarska-Kujawa, D (2022) 'Protection of Erythrocytes and Microvascular Endothelial Cells against Oxidative Damage by Fragaria vesca L. and Rubus idaeus L. Leaves Extracts - The Mechanism of Action', Molecules, 27(18), pp. 5865. doi:10.3390/molecules27185865",
+   "abstract": "Ellagitannin-rich raspberry (Rubus idaeus) leaf extract was non-toxic to erythrocytes and human microvascular endothelial cells and effectively protected them and their membranes against oxidative damage, characterising the antioxidant and membrane-protective activity of the leaf.",
+   "tier": "preclinical",
+   "display": "Protection of Erythrocytes and Microvascular Endothelial Cells against Oxidative Damage by Fragaria vesca L. and Rubus idaeus L. Leaves Extracts - The Mechanism of Action",
+   "plants": [
+    "Garden raspberry",
+    "Raspberry Leaf",
+    "Red raspberry"
+   ],
+   "scientific": [
+    "Rubus idaeus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Skin irritation"
+   ]
+  },
+  {
    "ref_id": "REF-0406",
    "key": "hudek2022proteome",
    "type": "article",
@@ -19827,6 +20103,37 @@
    ],
    "conditions": [
     "Respiratory support"
+   ]
+  },
+  {
+   "ref_id": "REF-2568",
+   "key": "kamel2022artichoke",
+   "type": "article",
+   "title": "Therapeutic Potential of Artichoke in the Treatment of Fatty Liver: A Systematic Review and Meta-Analysis",
+   "authors": "Kamel, A.M. and Farag, M.A.",
+   "journal": "Journal of Medicinal Food",
+   "year": "2022",
+   "doi": "10.1089/jmf.2022.0025",
+   "url": "",
+   "link": "https://doi.org/10.1089/jmf.2022.0025",
+   "link_type": "doi",
+   "citation": "Kamel, A.M. and Farag, M.A (2022) 'Therapeutic Potential of Artichoke in the Treatment of Fatty Liver: A Systematic Review and Meta-Analysis', Journal of Medicinal Food, 25(10), pp. 931-942. doi:10.1089/jmf.2022.0025",
+   "abstract": "Systematic review and meta-analysis of five randomized controlled trials (333 patients with non-alcoholic fatty liver disease): artichoke leaf extract significantly reduced alanine and aspartate aminotransferases as well as total cholesterol, LDL and triglycerides, supporting its hepatoprotective use.",
+   "tier": "review",
+   "display": "Therapeutic Potential of Artichoke in the Treatment of Fatty Liver: A Systematic Review and Meta-Analysis",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [
+    "Hepatoprotective (liver support)"
+   ],
+   "conditions": [
+    "Liver support"
    ]
   },
   {
@@ -22185,6 +22492,37 @@
     "Antiviral"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2567",
+   "key": "shahinfar2021artichoke",
+   "type": "article",
+   "title": "Effects of artichoke leaf extract supplementation or artichoke juice consumption on lipid profile: A systematic review and dose-response meta-analysis of randomized controlled trials",
+   "authors": "Shahinfar, H., Bazshahi, E., Amini, M.R., Payandeh, N., Pourreza, S., Noruzi, Z. and Shab-Bidar, S.",
+   "journal": "Phytotherapy Research",
+   "year": "2021",
+   "doi": "10.1002/ptr.7247",
+   "url": "",
+   "link": "https://doi.org/10.1002/ptr.7247",
+   "link_type": "doi",
+   "citation": "Shahinfar, H., Bazshahi, E., Amini, M.R., Payandeh, N., Pourreza, S., Noruzi, Z. and Shab-Bidar, S (2021) 'Effects of artichoke leaf extract supplementation or artichoke juice consumption on lipid profile: A systematic review and dose-response meta-analysis of randomized controlled trials', Phytotherapy Research, 35(12), pp. 6607-6623. doi:10.1002/ptr.7247",
+   "abstract": "Dose-response systematic review and meta-analysis (14 studies): artichoke supplementation significantly reduced triglycerides, total cholesterol and LDL-cholesterol, indicating a favourable effect on the lipid profile that may support cardiovascular-disease prevention.",
+   "tier": "review",
+   "display": "Effects of artichoke leaf extract supplementation or artichoke juice consumption on lipid profile: A systematic review and dose-response meta-analysis of randomized controlled trials",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [
+    "Lipid-lowering"
+   ],
+   "conditions": [
+    "High cholesterol"
+   ]
   },
   {
    "ref_id": "REF-1650",
@@ -40236,6 +40574,37 @@
    ]
   },
   {
+   "ref_id": "REF-2569",
+   "key": "santos2018artichoke",
+   "type": "article",
+   "title": "The effect of artichoke on lipid profile: A review of possible mechanisms of action",
+   "authors": "Santos, H.O., Bueno, A.A. and Mota, J.F.",
+   "journal": "Pharmacological Research",
+   "year": "2018",
+   "doi": "10.1016/j.phrs.2018.10.007",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phrs.2018.10.007",
+   "link_type": "doi",
+   "citation": "Santos, H.O., Bueno, A.A. and Mota, J.F (2018) 'The effect of artichoke on lipid profile: A review of possible mechanisms of action', Pharmacological Research, 137, pp. 170-178. doi:10.1016/j.phrs.2018.10.007",
+   "abstract": "Review of human intervention studies on artichoke (Cynara scolymus): artichoke leaf extract lowered LDL, total cholesterol and triglycerides, with the components luteolin and chlorogenic acid proposed as key actives, giving a mechanistic rationale for its lipid-lowering effect.",
+   "tier": "review",
+   "display": "The effect of artichoke on lipid profile: A review of possible mechanisms of action",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [
+    "Lipid-lowering"
+   ],
+   "conditions": [
+    "High cholesterol"
+   ]
+  },
+  {
    "ref_id": "REF-2545",
    "key": "smith2018kava",
    "type": "article",
@@ -40647,6 +41016,36 @@
     "Anti-inflammatory"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2572",
+   "key": "crespo2017bilberry",
+   "type": "article",
+   "title": "A Brief Review of Blue- and Bilberries' Potential to Curb Cardio-Metabolic Perturbations: Focus on Diabetes",
+   "authors": "Crespo, M.C. and Visioli, F.",
+   "journal": "Current Pharmaceutical Design",
+   "year": "2017",
+   "doi": "10.2174/1381612822666161010120523",
+   "url": "",
+   "link": "https://doi.org/10.2174/1381612822666161010120523",
+   "link_type": "doi",
+   "citation": "Crespo, M.C. and Visioli, F (2017) 'A Brief Review of Blue- and Bilberries' Potential to Curb Cardio-Metabolic Perturbations: Focus on Diabetes', Current Pharmaceutical Design, 23(7), pp. 983-988. doi:10.2174/1381612822666161010120523",
+   "abstract": "Review of the cardio-metabolic potential of bilberry (Vaccinium myrtillus) anthocyanins: animal and in vitro evidence strongly indicates the ability to ameliorate type 2 diabetes and its cardiovascular outcomes, supporting the traditional circulatory and cardiovascular use while noting the need for clinical trials.",
+   "tier": "preclinical",
+   "display": "A Brief Review of Blue- and Bilberries' Potential to Curb Cardio-Metabolic Perturbations: Focus on Diabetes",
+   "plants": [
+    "Bilberry",
+    "European blueberry",
+    "Huckleberry",
+    "Whortleberry"
+   ],
+   "scientific": [
+    "Vaccinium myrtillus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Cardiovascular / heart health"
+   ]
   },
   {
    "ref_id": "REF-1143",
@@ -42635,6 +43034,37 @@
     "Immunomodulator / immune support"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2566",
+   "key": "sahebkar2017artichoke",
+   "type": "article",
+   "title": "Lipid-lowering activity of artichoke extracts: A systematic review and meta-analysis",
+   "authors": "Sahebkar, A., Pirro, M., Banach, M., Mikhailidis, D.P., Atkin, S.L. and Cicero, A.F.G.",
+   "journal": "Critical Reviews in Food Science and Nutrition",
+   "year": "2017",
+   "doi": "10.1080/10408398.2017.1332572",
+   "url": "",
+   "link": "https://doi.org/10.1080/10408398.2017.1332572",
+   "link_type": "doi",
+   "citation": "Sahebkar, A., Pirro, M., Banach, M., Mikhailidis, D.P., Atkin, S.L. and Cicero, A.F.G (2017) 'Lipid-lowering activity of artichoke extracts: A systematic review and meta-analysis', Critical Reviews in Food Science and Nutrition, 58(15), pp. 2549-2556. doi:10.1080/10408398.2017.1332572",
+   "abstract": "Systematic review and meta-analysis of nine randomized controlled trials (702 subjects): artichoke (Cynara scolymus) extract supplementation significantly reduced total cholesterol, LDL-cholesterol and triglycerides, supporting its lipid-lowering use, potentially synergistic with lipid-lowering therapy in hyperlipidaemia.",
+   "tier": "review",
+   "display": "Lipid-lowering activity of artichoke extracts: A systematic review and meta-analysis",
+   "plants": [
+    "Artichoke",
+    "Garden artichoke",
+    "Globe artichoke"
+   ],
+   "scientific": [
+    "Cynara scolymus"
+   ],
+   "actions": [
+    "Lipid-lowering"
+   ],
+   "conditions": [
+    "High cholesterol"
+   ]
   },
   {
    "ref_id": "REF-0923",
@@ -48396,6 +48826,38 @@
    "actions": [],
    "conditions": [
     "Skin irritation"
+   ]
+  },
+  {
+   "ref_id": "REF-2577",
+   "key": "kirichenko2015viola",
+   "type": "article",
+   "title": "Anti-cytokine therapy for prevention of atherosclerosis",
+   "authors": "Kirichenko, T.V., Sobenin, I.A., Nikolic, D., Rizzo, M. and Orekhov, A.N.",
+   "journal": "Phytomedicine",
+   "year": "2015",
+   "doi": "10.1016/j.phymed.2015.12.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phymed.2015.12.002",
+   "link_type": "doi",
+   "citation": "Kirichenko, T.V., Sobenin, I.A., Nikolic, D., Rizzo, M. and Orekhov, A.N (2015) 'Anti-cytokine therapy for prevention of atherosclerosis', Phytomedicine, 23(11), pp. 1198-1210. doi:10.1016/j.phymed.2015.12.002",
+   "abstract": "A herbal preparation combining Sambucus nigra berries, Viola tricolor herb and Calendula officinalis flowers, developed for its anti-cytokine (anti-inflammatory) activity, reduced carotid intima-media thickness progression in a two-year double-blind placebo-controlled clinical study, supporting the anti-inflammatory use of Viola tricolor.",
+   "tier": "clinical",
+   "display": "Anti-cytokine therapy for prevention of atherosclerosis",
+   "plants": [
+    "Heartsease",
+    "Johnny-jump-up",
+    "Love-in-idleness",
+    "Wild pansy"
+   ],
+   "scientific": [
+    "Viola tricolor"
+   ],
+   "actions": [
+    "Anti-inflammatory"
+   ],
+   "conditions": [
+    "Inflammation (general)"
    ]
   },
   {
@@ -56445,6 +56907,39 @@
    "actions": [],
    "conditions": [
     "Migraine"
+   ]
+  },
+  {
+   "ref_id": "REF-2580",
+   "key": "rani2013vitex",
+   "type": "article",
+   "title": "The genus Vitex: A review",
+   "authors": "Rani, A. and Sharma, A.",
+   "journal": "Pharmacognosy Reviews",
+   "year": "2013",
+   "doi": "10.4103/0973-7847.120522",
+   "url": "",
+   "link": "https://doi.org/10.4103/0973-7847.120522",
+   "link_type": "doi",
+   "citation": "Rani, A. and Sharma, A (2013) 'The genus Vitex: A review', Pharmacognosy Reviews, 7(14), pp. 188-198. doi:10.4103/0973-7847.120522",
+   "abstract": "Ethnopharmacological and phytochemical review of the genus Vitex: the leaves and fruits of Vitex agnus-castus are traditionally used and are in clinical use to regulate the menstrual cycle, reduce premenstrual tension and anxiety, treat some menopausal symptoms and manage hormonally induced acne.",
+   "tier": "traditional",
+   "display": "The genus Vitex: A review",
+   "plants": [
+    "Agnus castus",
+    "Chaste tree",
+    "Chasteberry",
+    "Monk's pepper"
+   ],
+   "scientific": [
+    "Vitex agnus-castus"
+   ],
+   "actions": [],
+   "conditions": [
+    "Acne",
+    "Menopause",
+    "Menstrual cramps",
+    "PMS / premenstrual syndrome"
    ]
   },
   {

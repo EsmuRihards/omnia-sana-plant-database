@@ -35,15 +35,18 @@ indications:
   note: Cycle-related (hormonal) acne (traditional)
   reference_ids:
   - REF-0434
+  - REF-2580
   status: needs-review
 - condition: menopause
   reference_ids:
   - REF-1612
+  - REF-2580
   status: needs-review
 - condition: menstrual-cramps
   reference_ids:
   - REF-0433
   - REF-1610
+  - REF-2580
   status: needs-review
 - condition: pain
   note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping
@@ -66,6 +69,7 @@ indications:
   - REF-1610
   - REF-1611
   - REF-1613
+  - REF-2580
   status: verified
 contraindications:
 - note: Reported adverse events are mild and reversible (nausea, headache, gastrointestinal upset, menstrual
@@ -97,6 +101,7 @@ references:
 - REF-0434
 - REF-1613
 - REF-1614
+- REF-2580
 provenance: website+symptom-tool+pubmed
 status: verified
 last_updated: '2026-06-20'

@@ -41,6 +41,7 @@ actions:
   - REF-0449
   - REF-2173
   - REF-2174
+  - REF-2581
   status: verified
 - action: astringent
   note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
@@ -92,12 +93,14 @@ indications:
   note: Soothes upper-respiratory catarrh and mild infection (traditional)
   reference_ids:
   - REF-0449
+  - REF-2581
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0448
   - REF-0449
+  - REF-2581
   status: needs-review
 - condition: respiratory-support
   note: Soothes upper-respiratory catarrh and mild infection (traditional)
@@ -140,6 +143,7 @@ references:
 - REF-2176
 - REF-2177
 - REF-2178
+- REF-2581
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

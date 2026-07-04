@@ -59,6 +59,7 @@ indications:
   reference_ids:
   - REF-0497
   - REF-1541
+  - REF-2575
   status: needs-review
 - condition: pms
   note: inferred from emmenagogue action
@@ -66,10 +67,12 @@ indications:
   - REF-0497
   - REF-0498
   - REF-0607
+  - REF-2575
   status: needs-review
 - condition: pregnancy-support
   reference_ids:
   - REF-0497
+  - REF-2574
   status: needs-review
 - condition: skin-irritation
   note: inferred from astringent action
@@ -77,6 +80,7 @@ indications:
   - REF-0497
   - REF-1539
   - REF-1543
+  - REF-2576
   status: needs-review
 - condition: wounds
   note: inferred from astringent action
@@ -102,6 +106,9 @@ references:
 - REF-1541
 - REF-1542
 - REF-1543
+- REF-2574
+- REF-2575
+- REF-2576
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-06-20'

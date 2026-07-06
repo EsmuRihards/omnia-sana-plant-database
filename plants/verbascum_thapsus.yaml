@@ -121,9 +121,30 @@ references:
 - REF-1130
 - REF-1131
 - REF-1132
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: digitalis-purpurea
+  severity: fatal
+  confused_part: First-year basal leaf rosette (the foraged leaf, used for tea), before either plant sends up a flower spike.
+  confusion_context: 'Foxglove is the dangerous look-alike for foraged soft-leaf rosettes: its poisonous first-year rosette resembles the plants people gather, and documented cardiac-glycoside poisonings have followed foxglove leaves eaten as comfrey or borage. Great mullein is foraged at the same woolly-rosette stage and grows in the same disturbed, sunny ground, so the same confusion applies. Foxglove leaves contain cardiac glycosides and can be fatal.'
+  distinguishing_features:
+  - Mullein leaves are densely, evenly woolly on BOTH surfaces — a thick silvery-grey felt that gives a soft blanket-like nap and largely hides the veins. Foxglove's upper surface is green and only thinly downy, never a thick silvery felt, and shows a sunken net of veins.
+  - Foxglove leaves have a distinctly toothed or scalloped margin; mullein margins are entire to only faintly scalloped. Use this only alongside the wool test, not on its own.
+  key_test: 'Look at the UPPER surface: a thick, even, silvery wool that hides the veins = mullein. A green, matte, net-veined upper surface (only thinly hairy) with a toothed edge = foxglove — do not use it.'
+  reference_ids:
+  - REF-2604
+  - REF-2606
+  - REF-2608
+  - REF-2609
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

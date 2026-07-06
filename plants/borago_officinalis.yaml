@@ -185,9 +185,29 @@ references:
 - REF-1957
 - REF-1958
 - REF-1959
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: digitalis-purpurea
+  severity: fatal
+  confused_part: Pre-flowering rosette leaves gathered for cooking (salads, savoury pies, pasta fillings).
+  confusion_context: Foxglove's soft, wrinkled first-year leaves closely resemble borage leaves gathered for food, and the mix-up is repeatedly documented — including people who developed high digitoxin levels and heart block after eating a few 'borage' leaves, one batch bought from a nursery mislabelled as borage. Foxglove leaves contain cardiac glycosides and can be fatal.
+  distinguishing_features:
+  - Borage leaves bear coarse, stiff, bristly hairs that feel rough or prickly; foxglove leaves are softly downy and velvety.
+  - Crushed borage foliage smells clearly of cucumber; foxglove foliage has no cucumber smell.
+  - 'In flower they are unmistakable: borage has bright blue five-pointed star flowers with a black central cone; foxglove has tall one-sided spikes of pendulous tubular thimble flowers. Do not identify from leaves alone if you can wait for flowers.'
+  key_test: 'Rub and crush a leaf: borage feels coarse and bristly and smells of cucumber; a soft, velvety leaf with no cucumber smell should be treated as foxglove — do not eat it.'
+  reference_ids:
+  - REF-2605
+  - REF-2607
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

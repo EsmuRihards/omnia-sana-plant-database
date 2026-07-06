@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2602,
+ "count": 2609,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -4666,6 +4666,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2608",
+   "key": "woodlandtrust_foxglove",
+   "type": "misc",
+   "title": "Foxglove (Digitalis purpurea)",
+   "authors": "Woodland Trust",
+   "journal": "",
+   "year": "2024",
+   "doi": "",
+   "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/foxglove/",
+   "link": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/foxglove/",
+   "link_type": "url",
+   "citation": "Woodland Trust (2024) 'Foxglove (Digitalis purpurea)'. Available at: https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/foxglove/",
+   "abstract": "Woodland Trust species profile for foxglove: leaves are oval and hairy with a toothed margin, and the first-year plant forms a basal rosette. Notes that comfrey can be mistaken for foxglove when not in flower, but comfrey leaves are untoothed (smooth-edged) whereas foxglove leaves are toothed; the plant is poisonous if consumed.",
+   "tier": "traditional",
+   "display": "Foxglove (Digitalis purpurea)",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2272",
    "key": "haran2024acorus",
    "type": "article",
@@ -7705,6 +7726,27 @@
     "PMS / premenstrual syndrome",
     "Pain (general)"
    ]
+  },
+  {
+   "ref_id": "REF-2609",
+   "key": "ncextension_verbascum",
+   "type": "misc",
+   "title": "Verbascum thapsus (Common Mullein)",
+   "authors": "NC State Extension",
+   "journal": "",
+   "year": "2024",
+   "doi": "",
+   "url": "https://plants.ces.ncsu.edu/plants/verbascum-thapsus/",
+   "link": "https://plants.ces.ncsu.edu/plants/verbascum-thapsus/",
+   "link_type": "url",
+   "citation": "NC State Extension (2024) 'Verbascum thapsus (Common Mullein)'. Available at: https://plants.ces.ncsu.edu/plants/verbascum-thapsus/",
+   "abstract": "NC State Extension Gardener Plant Toolbox profile for common mullein (Verbascum thapsus): the first-year plant forms a large rosette of grayish-green velvety leaves, and stems and leaves are densely covered with woolly hairs. Anchors mullein's dense both-sided woolly felt as the trait distinguishing it from foxglove.",
+   "tier": "traditional",
+   "display": "Verbascum thapsus (Common Mullein)",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1094",
@@ -12331,6 +12373,27 @@
    "scientific": [
     "Ocimum tenuiflorum"
    ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2607",
+   "key": "iraci2023foxglove",
+   "type": "article",
+   "title": "Of mixed vegetables and cardiac arrhythmias - Digitalis purpurea confused with Borago officinalis: a case series of accidental digitoxin intoxications",
+   "authors": "Iraci, F. and Herdeg, C. and Holzwarth, M. and Storz, M.A.",
+   "journal": "Journal of Cardiology Cases",
+   "year": "2023",
+   "doi": "10.1016/j.jccase.2023.04.007",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jccase.2023.04.007",
+   "link_type": "doi",
+   "citation": "Iraci, F. and Herdeg, C. and Holzwarth, M. and Storz, M.A (2023) 'Of mixed vegetables and cardiac arrhythmias - Digitalis purpurea confused with Borago officinalis: a case series of accidental digitoxin intoxications', Journal of Cardiology Cases, 28(2), pp. 86-90. doi:10.1016/j.jccase.2023.04.007",
+   "abstract": "Two women (aged 35 and 60) developed severe vomiting and nausea about two hours after eating home-made mixed vegetables containing garden leaves believed to be borage; ECG showed diffuse ST depression and one had advanced atrioventricular block with sinus bradycardia. Digitoxin was markedly elevated (40.9 and over 50 ng/mL; therapeutic 8-18). Confusion of foxglove leaves with borage before flowering is not uncommon and is potentially life-threatening.",
+   "tier": "clinical",
+   "display": "Of mixed vegetables and cardiac arrhythmias - Digitalis purpurea confused with Borago officinalis: a case series of accidental digitoxin intoxications",
+   "plants": [],
+   "scientific": [],
    "actions": [],
    "conditions": []
   },
@@ -33705,6 +33768,27 @@
    ]
   },
   {
+   "ref_id": "REF-2605",
+   "key": "negroni2019foxglove",
+   "type": "article",
+   "title": "A case report of accidental intoxication following ingestion of foxglove confused with borage: high digoxinemia without major complications",
+   "authors": "Negroni, M.S., Marengo, A., Caruso, D., et al.",
+   "journal": "Case Reports in Cardiology",
+   "year": "2019",
+   "doi": "10.1155/2019/9707428",
+   "url": "",
+   "link": "https://doi.org/10.1155/2019/9707428",
+   "link_type": "doi",
+   "citation": "Negroni, M.S., Marengo, A., Caruso, D., et al (2019) 'A case report of accidental intoxication following ingestion of foxglove confused with borage: high digoxinemia without major complications', Case Reports in Cardiology, 2019, pp. 9707428. doi:10.1155/2019/9707428",
+   "abstract": "Foxglove leaves are frequently confused with borage, a food ingredient. A 55-year-old woman developed weakness, nausea and vomiting after eating a home-made savoury pie made with five leaves from a plant bought at a garden nursery as borage; digoxinemia was high and telemetry recorded advanced and second-degree atrioventricular block. Foxglove cardiac glycosides (mostly digitoxin/gitoxin) make its leaves poisonous and potentially fatal.",
+   "tier": "clinical",
+   "display": "A case report of accidental intoxication following ingestion of foxglove confused with borage: high digoxinemia without major complications",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0573",
    "key": "majeed2019boswellia",
    "type": "article",
@@ -46267,6 +46351,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2603",
+   "key": "vithayathil2016comfrey",
+   "type": "article",
+   "title": "Comfrey herbal remedy causing second-degree heart block: do not be outfoxed by digitalis",
+   "authors": "Vithayathil, M.K. and Edwards, M.",
+   "journal": "BMJ Case Reports",
+   "year": "2016",
+   "doi": "10.1136/bcr-2016-216995",
+   "url": "",
+   "link": "https://doi.org/10.1136/bcr-2016-216995",
+   "link_type": "doi",
+   "citation": "Vithayathil, M.K. and Edwards, M (2016) 'Comfrey herbal remedy causing second-degree heart block: do not be outfoxed by digitalis', BMJ Case Reports, 2016, pp. bcr2016216995. doi:10.1136/bcr-2016-216995",
+   "abstract": "A previously well 63-year-old woman presented with vomiting, palpitations and presyncope after drinking an infusion of boiled 'comfrey' leaves for insomnia; her ECG showed bradycardia and second-degree (Mobitz II) atrioventricular block. Raised serum digoxin confirmed the leaves were actually foxglove (Digitalis), which contains cardiac glycosides. She recovered after digoxin-binding antibodies. Illustrates the potentially fatal comfrey-for-foxglove misidentification.",
+   "tier": "clinical",
+   "display": "Comfrey herbal remedy causing second-degree heart block: do not be outfoxed by digitalis",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0754",
    "key": "saffari2016calendula",
    "type": "article",
@@ -49065,6 +49170,27 @@
    "conditions": [
     "Cardiovascular / heart health"
    ]
+  },
+  {
+   "ref_id": "REF-2606",
+   "key": "janssen2016foxglove",
+   "type": "article",
+   "title": "Two cases of cardiac glycoside poisoning from accidental foxglove ingestion",
+   "authors": "Janssen, R.M. and Berg, M. and Ovakim, D.H.",
+   "journal": "CMAJ",
+   "year": "2016",
+   "doi": "10.1503/cmaj.150676",
+   "url": "",
+   "link": "https://doi.org/10.1503/cmaj.150676",
+   "link_type": "doi",
+   "citation": "Janssen, R.M. and Berg, M. and Ovakim, D.H (2016) 'Two cases of cardiac glycoside poisoning from accidental foxglove ingestion', CMAJ, 188(10), pp. 747-750. doi:10.1503/cmaj.150676",
+   "abstract": "Two cases of cardiac glycoside poisoning after accidental ingestion of foxglove (Digitalis purpurea). The juvenile plant's basal leaf rosette has been mistaken for borage or comfrey. Cardiac glycosides inhibit myocardial Na-K-ATPase, producing the arrhythmias seen in poisoning. Underlines that the non-flowering foxglove rosette is the hazardous stage for foragers.",
+   "tier": "clinical",
+   "display": "Two cases of cardiac glycoside poisoning from accidental foxglove ingestion",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1740",
@@ -61627,6 +61753,27 @@
     "High cholesterol",
     "Metabolic support"
    ]
+  },
+  {
+   "ref_id": "REF-2604",
+   "key": "lin2010foxglove",
+   "type": "article",
+   "title": "An outbreak of foxglove leaf poisoning",
+   "authors": "Lin, C.C. and Yang, C.C. and Phua, D.H. and Deng, J.F. and Lu, L.H.",
+   "journal": "Journal of the Chinese Medical Association",
+   "year": "2010",
+   "doi": "10.1016/S1726-4901(10)70009-5",
+   "url": "",
+   "link": "https://doi.org/10.1016/S1726-4901(10)70009-5",
+   "link_type": "doi",
+   "citation": "Lin, C.C. and Yang, C.C. and Phua, D.H. and Deng, J.F. and Lu, L.H (2010) 'An outbreak of foxglove leaf poisoning', Journal of the Chinese Medical Association, 73(2), pp. 97-100. doi:10.1016/S1726-4901(10)70009-5",
+   "abstract": "Comfrey (Symphytum officinale) leaves resemble those of foxglove (Digitalis purpurea) when not in bloom, so cardiac-glycoside poisoning can occur when foxglove is mistaken for comfrey. An outbreak of nine patients followed use of alleged comfrey herbal tea; all had elevated serum digoxin (peak 4.4 to 139.5 ng/mL) and three developed significant cardiotoxicity requiring temporary pacing. All recovered. Highlights the risk of herb misidentification.",
+   "tier": "clinical",
+   "display": "An outbreak of foxglove leaf poisoning",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1051",

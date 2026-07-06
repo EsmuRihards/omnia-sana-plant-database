@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 1,
- "plants_covered": 2,
+ "count": 5,
+ "plants_covered": 6,
  "dangerous_plants": [
   {
    "id": "pleurocybella-porrigens",
@@ -109,7 +109,13 @@
    "toxicity_category": "cardiotoxic",
    "onset": "Delayed (several hours)",
    "default_severity": "fatal",
-   "references": []
+   "references": [
+    "REF-2603",
+    "REF-2604",
+    "REF-2605",
+    "REF-2606",
+    "REF-2607"
+   ]
   },
   {
    "id": "galerina-marginata",
@@ -330,6 +336,100 @@
    "reviewed_date": "2026-07-06"
   },
   {
+   "plant_id": "borago-officinalis",
+   "plant": "Borage",
+   "scientific": "Borago officinalis",
+   "common_slug": "borage",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "digitalis-purpurea",
+     "dangerous_plant_label": "Foxglove",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Pre-flowering rosette leaves gathered for cooking (salads, savoury pies, pasta fillings).",
+     "confusion_context": "Foxglove's soft, wrinkled first-year leaves closely resemble borage leaves gathered for food, and the mix-up is repeatedly documented — including people who developed high digitoxin levels and heart block after eating a few 'borage' leaves, one batch bought from a nursery mislabelled as borage. Foxglove leaves contain cardiac glycosides and can be fatal.",
+     "distinguishing_features": [
+      "Borage leaves bear coarse, stiff, bristly hairs that feel rough or prickly; foxglove leaves are softly downy and velvety.",
+      "Crushed borage foliage smells clearly of cucumber; foxglove foliage has no cucumber smell.",
+      "In flower they are unmistakable: borage has bright blue five-pointed star flowers with a black central cone; foxglove has tall one-sided spikes of pendulous tubular thimble flowers. Do not identify from leaves alone if you can wait for flowers."
+     ],
+     "key_test": "Rub and crush a leaf: borage feels coarse and bristly and smells of cucumber; a soft, velvety leaf with no cucumber smell should be treated as foxglove — do not eat it.",
+     "references": [
+      "REF-2605",
+      "REF-2607"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "symphytum-officinale",
+   "plant": "Common Comfrey",
+   "scientific": "Symphytum officinale",
+   "common_slug": "common-comfrey",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "digitalis-purpurea",
+     "dangerous_plant_label": "Foxglove",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Young non-flowering basal-rosette leaves gathered in spring for tea or infusion, before either plant flowers.",
+     "confusion_context": "Comfrey and foxglove both form a ground rosette of large, soft-hairy, grey-green oval leaves, and comfrey leaf is exactly the part harvested for herbal tea. Foxglove leaves contain cardiac glycosides and are potentially fatal; documented poisonings include a woman who developed heart block after an infusion of 'boiled comfrey leaves' that was actually foxglove, and an outbreak of nine people poisoned by 'comfrey' tea that was foxglove. The plants are hardest to tell apart before flowering.",
+     "distinguishing_features": [
+      "Leaf margin (most decisive): comfrey leaves are entire — a smooth, unbroken edge. Foxglove leaves are finely toothed or scalloped along the whole margin.",
+      "Comfrey leaf bases run down the stem as raised wings (decurrent), so the stem looks winged; foxglove leaves narrow to a stalk and do not wing the stem.",
+      "Comfrey hairs are stiff, coarse and bristly (rough to the touch); foxglove leaves are softly downy and velvety, with a grey-felted, net-veined underside. Do not rely on hairiness alone — both feel hairy."
+     ],
+     "key_test": "Look closely at the leaf edge: a smooth, untoothed margin plus a leaf base that runs down the stem as a wing = comfrey. A continuous line of small teeth or scallops along the edge = foxglove — do not use it. If the margin is not clearly untoothed, do not forage.",
+     "references": [
+      "REF-2603",
+      "REF-2604",
+      "REF-2608"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "verbascum-densiflorum",
+   "plant": "Dense-flowered Mullein",
+   "scientific": "Verbascum densiflorum",
+   "common_slug": "dense-flowered-mullein",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "digitalis-purpurea",
+     "dangerous_plant_label": "Foxglove",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "First-year basal leaf rosette (the foraged leaf, used for tea), before either plant sends up a flower spike.",
+     "confusion_context": "Dense-flowered mullein is foraged for the same soft woolly rosette leaves as great mullein and shares the identical dangerous look-alike: foxglove, whose poisonous first-year rosette resembles foraged soft-leaf rosettes and has caused cardiac-glycoside poisonings when eaten as comfrey or borage. The two co-occur in the same disturbed, sunny habitats. Foxglove contains cardiac glycosides and can be fatal.",
+     "distinguishing_features": [
+      "Mullein leaves are densely, evenly woolly on BOTH surfaces — a thick silvery-grey felt that gives a soft blanket-like nap and largely hides the veins. Foxglove's upper surface is green and only thinly downy, never a thick silvery felt, and shows a sunken net of veins.",
+      "Foxglove leaves have a distinctly toothed or scalloped margin; mullein margins are entire to only faintly scalloped. Use this only alongside the wool test, not on its own."
+     ],
+     "key_test": "Look at the UPPER surface: a thick, even, silvery wool that hides the veins = mullein. A green, matte, net-veined upper surface (only thinly hairy) with a toothed edge = foxglove — do not use it.",
+     "references": [
+      "REF-2604",
+      "REF-2606",
+      "REF-2609"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-06"
+  },
+  {
    "plant_id": "gentiana-lutea",
    "plant": "Gentian",
    "scientific": "Gentiana lutea",
@@ -355,6 +455,38 @@
       "REF-2600",
       "REF-2601",
       "REF-2602"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "verbascum-thapsus",
+   "plant": "Great Mullein",
+   "scientific": "Verbascum thapsus",
+   "common_slug": "great-mullein",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "digitalis-purpurea",
+     "dangerous_plant_label": "Foxglove",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "First-year basal leaf rosette (the foraged leaf, used for tea), before either plant sends up a flower spike.",
+     "confusion_context": "Foxglove is the dangerous look-alike for foraged soft-leaf rosettes: its poisonous first-year rosette resembles the plants people gather, and documented cardiac-glycoside poisonings have followed foxglove leaves eaten as comfrey or borage. Great mullein is foraged at the same woolly-rosette stage and grows in the same disturbed, sunny ground, so the same confusion applies. Foxglove leaves contain cardiac glycosides and can be fatal.",
+     "distinguishing_features": [
+      "Mullein leaves are densely, evenly woolly on BOTH surfaces — a thick silvery-grey felt that gives a soft blanket-like nap and largely hides the veins. Foxglove's upper surface is green and only thinly downy, never a thick silvery felt, and shows a sunken net of veins.",
+      "Foxglove leaves have a distinctly toothed or scalloped margin; mullein margins are entire to only faintly scalloped. Use this only alongside the wool test, not on its own."
+     ],
+     "key_test": "Look at the UPPER surface: a thick, even, silvery wool that hides the veins = mullein. A green, matte, net-veined upper surface (only thinly hairy) with a toothed edge = foxglove — do not use it.",
+     "references": [
+      "REF-2604",
+      "REF-2606",
+      "REF-2608",
+      "REF-2609"
      ],
      "status": "approved"
     }

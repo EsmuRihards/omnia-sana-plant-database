@@ -159,9 +159,30 @@ references:
 - REF-1071
 - REF-1072
 - REF-1073
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: digitalis-purpurea
+  severity: fatal
+  confused_part: Young non-flowering basal-rosette leaves gathered in spring for tea or infusion, before either plant flowers.
+  confusion_context: Comfrey and foxglove both form a ground rosette of large, soft-hairy, grey-green oval leaves, and comfrey leaf is exactly the part harvested for herbal tea. Foxglove leaves contain cardiac glycosides and are potentially fatal; documented poisonings include a woman who developed heart block after an infusion of 'boiled comfrey leaves' that was actually foxglove, and an outbreak of nine people poisoned by 'comfrey' tea that was foxglove. The plants are hardest to tell apart before flowering.
+  distinguishing_features:
+  - 'Leaf margin (most decisive): comfrey leaves are entire — a smooth, unbroken edge. Foxglove leaves are finely toothed or scalloped along the whole margin.'
+  - Comfrey leaf bases run down the stem as raised wings (decurrent), so the stem looks winged; foxglove leaves narrow to a stalk and do not wing the stem.
+  - Comfrey hairs are stiff, coarse and bristly (rough to the touch); foxglove leaves are softly downy and velvety, with a grey-felted, net-veined underside. Do not rely on hairiness alone — both feel hairy.
+  key_test: 'Look closely at the leaf edge: a smooth, untoothed margin plus a leaf base that runs down the stem as a wing = comfrey. A continuous line of small teeth or scallops along the edge = foxglove — do not use it. If the margin is not clearly untoothed, do not forage.'
+  reference_ids:
+  - REF-2603
+  - REF-2604
+  - REF-2608
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

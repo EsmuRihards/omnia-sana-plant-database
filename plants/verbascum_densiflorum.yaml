@@ -140,9 +140,29 @@ references:
 - REF-1387
 - REF-1123
 - REF-1130
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: digitalis-purpurea
+  severity: fatal
+  confused_part: First-year basal leaf rosette (the foraged leaf, used for tea), before either plant sends up a flower spike.
+  confusion_context: 'Dense-flowered mullein is foraged for the same soft woolly rosette leaves as great mullein and shares the identical dangerous look-alike: foxglove, whose poisonous first-year rosette resembles foraged soft-leaf rosettes and has caused cardiac-glycoside poisonings when eaten as comfrey or borage. The two co-occur in the same disturbed, sunny habitats. Foxglove contains cardiac glycosides and can be fatal.'
+  distinguishing_features:
+  - Mullein leaves are densely, evenly woolly on BOTH surfaces — a thick silvery-grey felt that gives a soft blanket-like nap and largely hides the veins. Foxglove's upper surface is green and only thinly downy, never a thick silvery felt, and shows a sunken net of veins.
+  - Foxglove leaves have a distinctly toothed or scalloped margin; mullein margins are entire to only faintly scalloped. Use this only alongside the wool test, not on its own.
+  key_test: 'Look at the UPPER surface: a thick, even, silvery wool that hides the veins = mullein. A green, matte, net-veined upper surface (only thinly hairy) with a toothed edge = foxglove — do not use it.'
+  reference_ids:
+  - REF-2604
+  - REF-2606
+  - REF-2609
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and
   ESCOP monograph, which cover V. densiflorum together with V. thapsus and V. phlomoides). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, earache,

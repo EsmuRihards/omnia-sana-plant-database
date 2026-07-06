@@ -198,9 +198,46 @@ references:
 - REF-1656
 - REF-1657
 - REF-2586
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: Feathery foliage, stems and seeds - the whole above-ground plant. Both are tall Apiaceae with finely divided leaves, white or greenish compound umbels and hollow jointed stems, so a forager reaching for aniseed 'wild fennel' can grasp poison hemlock instead.
+  confusion_context: 'Fennel (Foeniculum vulgare) is explicitly named as an edible confused with poison hemlock: King County (Washington) states that poison hemlock can be confused with many edible members of the parsley family including fennel, chervil and anise. Conium maculatum contains the piperidine alkaloid coniine and kills by ascending flaccid paralysis and respiratory failure; ingestion mistaken for edible umbellifers has caused fatal and near-fatal poisonings, and it is the plant analysed as the likely agent in the death of Socrates (Dayan 2024).'
+  distinguishing_features:
+  - 'CRUSH-AND-SMELL (decisive): fennel smells strongly and pleasantly of anise/liquorice. Poison hemlock has a rank, musty, mouse-like smell with no anise note.'
+  - 'Stem markings: fennel has a smooth, waxy, blue-green stem with NO purple. Poison hemlock''s smooth hairless hollow stem is conspicuously spotted and streaked with red-purple, especially near the base.'
+  - 'Leaf texture: fennel leaves are thread-fine, almost hair-like filaments. Poison hemlock leaves are broader, flat, fern-like segments with toothed edges.'
+  key_test: 'Crush a leaf or stem and smell it: sweet anise/liquorice = fennel; rank musty/mousy = poison hemlock. Confirm by checking the lower stem for red-purple blotching (present on hemlock, absent on fennel''s clean blue-green waxy stem). If the anise smell is absent OR any purple stem-spotting is present, do not eat it. Very young hemlock may not yet show strong purple, so rely first on the smell.'
+  reference_ids:
+  - REF-2610
+  - REF-2611
+  - REF-2642
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: aethusa-cynapium
+  severity: dangerous
+  confused_part: Finely divided foliage and small white compound umbels. As a slender Apiaceae with dissected leaves and white umbels, fool's parsley falls into the same lacy white-flowered umbellifer pool a fennel forager must rule out.
+  confusion_context: Aethusa cynapium (fool's parsley, dog poison, lesser hemlock) is a toxic umbellifer historically confused with edible parsley-family plants. It contains toxic alkaloids; documented effects include inflammation of the mouth and throat, abdominal pain, confusion, blurred vision and pupil dilation, and its genuine toxicity is confirmed experimentally (Teuscher et al. 1990). Direct fennel confusion is weaker than for hemlock because fool's-parsley leaves are flat and parsley-like rather than thread-fine, but it shares the fennel umbel gestalt and is dangerous, so it must be ruled out.
+  distinguishing_features:
+  - 'BRACTEOLE ''beard'' (in flower): below each secondary umbel, fool''s parsley bears three to four long, narrow, downward-hanging strongly reflexed bracteoles forming a distinctive drooping beard. Fennel has no such conspicuous drooping bracteoles under its umbellets.'
+  - 'Smell when crushed: fennel is sweetly aniseed/liquorice; fool''s parsley gives off an acrid, foetid, mouse-like odour.'
+  - 'Leaf form: fennel leaves are thread-fine hair-like filaments; fool''s-parsley leaves are flatter, darker green and parsley-like, not thread-fine.'
+  key_test: Look under a secondary flower cluster for the three to four long, narrow, downward-drooping bracteoles (the beard) - diagnostic for fool's parsley and absent in fennel. Combine with crush-and-smell (sweet anise = fennel; acrid/foetid = fool's parsley). If a drooping bracteole beard is present or the smell is foetid, do not eat it.
+  reference_ids:
+  - REF-2613
+  - REF-2614
+  - REF-2643
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. Enriched

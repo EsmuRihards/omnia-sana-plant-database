@@ -104,9 +104,48 @@ references:
 - REF-0907
 - REF-0908
 - REF-0909
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: euphorbia-peplus
+  severity: irritant
+  confused_part: Whole above-ground plant (stems and leaves) gathered raw from the same low, weedy, disturbed ground where chickweed is picked. Every part carries the caustic milky latex.
+  confusion_context: 'Petty spurge (radium weed, Euphorbia peplus) is a small sprawling annual of gardens, paths and disturbed soil - the exact habitat chickweed is foraged from - and is repeatedly named by foraging authorities as the poisonous lookalike of chickweed. The hazard is chemical injury from its latex: the diterpene-ester sap (ingenol mebutate, confirmed in E. peplus by Ramsay et al. 2011) is caustic to skin, lips, mouth and especially the eye. Euphorbia latex in the eye behaves like an alkaline chemical burn and has caused keratouveitis, corneal epithelial defects, hypopyon and temporary vision loss in published case reports (Merani et al. 2007; Fleischman et al. 2012). Breaking a plant open in the hand and eating it transfers this caustic sap to lips, mouth and gut.'
+  distinguishing_features:
+  - 'SNAP TEST (decisive): petty spurge instantly bleeds a white MILKY latex from any broken stem or leaf. Chickweed NEVER produces milky sap - torn chickweed shows only clear juice and a stretchy elastic inner thread.'
+  - 'Stem: petty spurge has a smooth, round, hairless stem. Chickweed has one distinct line of fine white hairs running up just one side of the stem, switching sides at each leaf node.'
+  - 'Flowers: petty spurge has tiny green cup-shaped flower structures (cyathia) with no true petals. Chickweed has small white star flowers whose five petals are so deeply cleft they look like ten.'
+  key_test: Break a stem. If a white milky latex oozes out it is spurge - discard it and keep it away from mouth and eyes. Chickweed yields only clear juice and a stretchy inner thread, never milk.
+  reference_ids:
+  - REF-2636
+  - REF-2637
+  - REF-2638
+  - REF-2639
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: lysimachia-arvensis
+  severity: irritant
+  confused_part: Whole leafy plant (stems and leaves) picked raw from cultivated or weedy ground, especially before flowering; all parts contain the toxic saponins.
+  confusion_context: 'Scarlet pimpernel (Lysimachia arvensis, syn. Anagallis arvensis) is a low sprawling annual of the same disturbed weedy ground where chickweed is gathered and shares the small-leaved trailing habit, so pre-flowering shoots can be mistaken for chickweed. It contains haemolytic saponins; the University of California notes it can be toxic to livestock and humans, with toxicity ranging from virtually nontoxic to fatally toxic. Genuine lethal potential is on record: Schneider (1978) experimentally reproduced fatal nephrosis with uraemia and renal cortical necrosis by dosing sheep with the plant. The realistic human outcome from eating it in a salad is gastrointestinal upset, but it is not food.'
+  distinguishing_features:
+  - 'Stem: scarlet pimpernel has a hairless stem that is distinctly SQUARE (four-angled) in cross-section, with no line of hairs. Chickweed has a rounded stem bearing one line of fine hairs up a single side that switches sides at each node.'
+  - 'Leaves: pimpernel leaves are stalkless (sessile) and clasp the square stem in opposite pairs. Chickweed''s lower leaves have a clear stalk (petiole).'
+  - 'Flowers: pimpernel flowers are salmon-orange (occasionally brick-red, blue or white) with five rounded un-notched petals. Chickweed flowers are white with five deeply cleft petals looking like ten. Any salmon-orange flower rules out chickweed.'
+  - Neither plant has milky sap, so the milky-latex test does NOT separate chickweed from pimpernel - use the square hairless stem, sessile opposite leaves and orange flowers instead.
+  key_test: Roll the stem between your fingers. Pimpernel's stem is square-edged and hairless all round; chickweed's rounded stem carries a single line of hairs on one side that jumps sides at each node. If flowers are present, any salmon-orange flower means it is not chickweed.
+  reference_ids:
+  - REF-2640
+  - REF-2641
+  - REF-2639
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

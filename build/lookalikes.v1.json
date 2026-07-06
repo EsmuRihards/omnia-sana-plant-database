@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 21,
- "plants_covered": 13,
+ "count": 25,
+ "plants_covered": 15,
  "dangerous_plants": [
   {
    "id": "pleurocybella-porrigens",
@@ -295,7 +295,11 @@
    "toxicity_category": "dermatotoxic",
    "onset": "Immediate (on contact with latex)",
    "default_severity": "irritant",
-   "references": []
+   "references": [
+    "REF-2636",
+    "REF-2637",
+    "REF-2638"
+   ]
   },
   {
    "id": "conium-maculatum",
@@ -336,7 +340,10 @@
    "toxicity_category": "gastrointestinal",
    "onset": "Variable",
    "default_severity": "irritant",
-   "references": []
+   "references": [
+    "REF-2640",
+    "REF-2641"
+   ]
   },
   {
    "id": "veratrum-album",
@@ -488,6 +495,60 @@
    "reviewed_date": "2026-07-06"
   },
   {
+   "plant_id": "stellaria-media",
+   "plant": "Chickweed",
+   "scientific": "Stellaria media",
+   "common_slug": "chickweed",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "euphorbia-peplus",
+     "dangerous_plant_label": "Petty spurge",
+     "kingdom": "plant",
+     "severity": "irritant",
+     "confused_part": "Whole above-ground plant (stems and leaves) gathered raw from the same low, weedy, disturbed ground where chickweed is picked. Every part carries the caustic milky latex.",
+     "confusion_context": "Petty spurge (radium weed, Euphorbia peplus) is a small sprawling annual of gardens, paths and disturbed soil - the exact habitat chickweed is foraged from - and is repeatedly named by foraging authorities as the poisonous lookalike of chickweed. The hazard is chemical injury from its latex: the diterpene-ester sap (ingenol mebutate, confirmed in E. peplus by Ramsay et al. 2011) is caustic to skin, lips, mouth and especially the eye. Euphorbia latex in the eye behaves like an alkaline chemical burn and has caused keratouveitis, corneal epithelial defects, hypopyon and temporary vision loss in published case reports (Merani et al. 2007; Fleischman et al. 2012). Breaking a plant open in the hand and eating it transfers this caustic sap to lips, mouth and gut.",
+     "distinguishing_features": [
+      "SNAP TEST (decisive): petty spurge instantly bleeds a white MILKY latex from any broken stem or leaf. Chickweed NEVER produces milky sap - torn chickweed shows only clear juice and a stretchy elastic inner thread.",
+      "Stem: petty spurge has a smooth, round, hairless stem. Chickweed has one distinct line of fine white hairs running up just one side of the stem, switching sides at each leaf node.",
+      "Flowers: petty spurge has tiny green cup-shaped flower structures (cyathia) with no true petals. Chickweed has small white star flowers whose five petals are so deeply cleft they look like ten."
+     ],
+     "key_test": "Break a stem. If a white milky latex oozes out it is spurge - discard it and keep it away from mouth and eyes. Chickweed yields only clear juice and a stretchy inner thread, never milk.",
+     "references": [
+      "REF-2636",
+      "REF-2637",
+      "REF-2638",
+      "REF-2639"
+     ],
+     "status": "approved"
+    },
+    {
+     "dangerous_plant": "lysimachia-arvensis",
+     "dangerous_plant_label": "Scarlet pimpernel",
+     "kingdom": "plant",
+     "severity": "irritant",
+     "confused_part": "Whole leafy plant (stems and leaves) picked raw from cultivated or weedy ground, especially before flowering; all parts contain the toxic saponins.",
+     "confusion_context": "Scarlet pimpernel (Lysimachia arvensis, syn. Anagallis arvensis) is a low sprawling annual of the same disturbed weedy ground where chickweed is gathered and shares the small-leaved trailing habit, so pre-flowering shoots can be mistaken for chickweed. It contains haemolytic saponins; the University of California notes it can be toxic to livestock and humans, with toxicity ranging from virtually nontoxic to fatally toxic. Genuine lethal potential is on record: Schneider (1978) experimentally reproduced fatal nephrosis with uraemia and renal cortical necrosis by dosing sheep with the plant. The realistic human outcome from eating it in a salad is gastrointestinal upset, but it is not food.",
+     "distinguishing_features": [
+      "Stem: scarlet pimpernel has a hairless stem that is distinctly SQUARE (four-angled) in cross-section, with no line of hairs. Chickweed has a rounded stem bearing one line of fine hairs up a single side that switches sides at each node.",
+      "Leaves: pimpernel leaves are stalkless (sessile) and clasp the square stem in opposite pairs. Chickweed's lower leaves have a clear stalk (petiole).",
+      "Flowers: pimpernel flowers are salmon-orange (occasionally brick-red, blue or white) with five rounded un-notched petals. Chickweed flowers are white with five deeply cleft petals looking like ten. Any salmon-orange flower rules out chickweed.",
+      "Neither plant has milky sap, so the milky-latex test does NOT separate chickweed from pimpernel - use the square hairless stem, sessile opposite leaves and orange flowers instead."
+     ],
+     "key_test": "Roll the stem between your fingers. Pimpernel's stem is square-edged and hairless all round; chickweed's rounded stem carries a single line of hairs on one side that jumps sides at each node. If flowers are present, any salmon-orange flower means it is not chickweed.",
+     "references": [
+      "REF-2640",
+      "REF-2641",
+      "REF-2639"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-06"
+  },
+  {
    "plant_id": "symphytum-officinale",
    "plant": "Common Comfrey",
    "scientific": "Symphytum officinale",
@@ -575,6 +636,58 @@
       "REF-2633",
       "REF-2634",
       "REF-2635"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "foeniculum-vulgare",
+   "plant": "Fennel",
+   "scientific": "Foeniculum vulgare",
+   "common_slug": "fennel",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "conium-maculatum",
+     "dangerous_plant_label": "Poison hemlock",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Feathery foliage, stems and seeds - the whole above-ground plant. Both are tall Apiaceae with finely divided leaves, white or greenish compound umbels and hollow jointed stems, so a forager reaching for aniseed 'wild fennel' can grasp poison hemlock instead.",
+     "confusion_context": "Fennel (Foeniculum vulgare) is explicitly named as an edible confused with poison hemlock: King County (Washington) states that poison hemlock can be confused with many edible members of the parsley family including fennel, chervil and anise. Conium maculatum contains the piperidine alkaloid coniine and kills by ascending flaccid paralysis and respiratory failure; ingestion mistaken for edible umbellifers has caused fatal and near-fatal poisonings, and it is the plant analysed as the likely agent in the death of Socrates (Dayan 2024).",
+     "distinguishing_features": [
+      "CRUSH-AND-SMELL (decisive): fennel smells strongly and pleasantly of anise/liquorice. Poison hemlock has a rank, musty, mouse-like smell with no anise note.",
+      "Stem markings: fennel has a smooth, waxy, blue-green stem with NO purple. Poison hemlock's smooth hairless hollow stem is conspicuously spotted and streaked with red-purple, especially near the base.",
+      "Leaf texture: fennel leaves are thread-fine, almost hair-like filaments. Poison hemlock leaves are broader, flat, fern-like segments with toothed edges."
+     ],
+     "key_test": "Crush a leaf or stem and smell it: sweet anise/liquorice = fennel; rank musty/mousy = poison hemlock. Confirm by checking the lower stem for red-purple blotching (present on hemlock, absent on fennel's clean blue-green waxy stem). If the anise smell is absent OR any purple stem-spotting is present, do not eat it. Very young hemlock may not yet show strong purple, so rely first on the smell.",
+     "references": [
+      "REF-2610",
+      "REF-2611",
+      "REF-2642"
+     ],
+     "status": "approved"
+    },
+    {
+     "dangerous_plant": "aethusa-cynapium",
+     "dangerous_plant_label": "Fool's parsley",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Finely divided foliage and small white compound umbels. As a slender Apiaceae with dissected leaves and white umbels, fool's parsley falls into the same lacy white-flowered umbellifer pool a fennel forager must rule out.",
+     "confusion_context": "Aethusa cynapium (fool's parsley, dog poison, lesser hemlock) is a toxic umbellifer historically confused with edible parsley-family plants. It contains toxic alkaloids; documented effects include inflammation of the mouth and throat, abdominal pain, confusion, blurred vision and pupil dilation, and its genuine toxicity is confirmed experimentally (Teuscher et al. 1990). Direct fennel confusion is weaker than for hemlock because fool's-parsley leaves are flat and parsley-like rather than thread-fine, but it shares the fennel umbel gestalt and is dangerous, so it must be ruled out.",
+     "distinguishing_features": [
+      "BRACTEOLE 'beard' (in flower): below each secondary umbel, fool's parsley bears three to four long, narrow, downward-hanging strongly reflexed bracteoles forming a distinctive drooping beard. Fennel has no such conspicuous drooping bracteoles under its umbellets.",
+      "Smell when crushed: fennel is sweetly aniseed/liquorice; fool's parsley gives off an acrid, foetid, mouse-like odour.",
+      "Leaf form: fennel leaves are thread-fine hair-like filaments; fool's-parsley leaves are flatter, darker green and parsley-like, not thread-fine."
+     ],
+     "key_test": "Look under a secondary flower cluster for the three to four long, narrow, downward-drooping bracteoles (the beard) - diagnostic for fool's parsley and absent in fennel. Combine with crush-and-smell (sweet anise = fennel; acrid/foetid = fool's parsley). If a drooping bracteole beard is present or the smell is foetid, do not eat it.",
+     "references": [
+      "REF-2613",
+      "REF-2614",
+      "REF-2643"
      ],
      "status": "approved"
     }

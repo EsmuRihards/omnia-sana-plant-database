@@ -1500,7 +1500,11 @@
    "toxicity_category": "dermatotoxic",
    "onset": "Immediate (on contact with latex)",
    "default_severity": "irritant",
-   "references": []
+   "references": [
+    "REF-2636",
+    "REF-2637",
+    "REF-2638"
+   ]
   },
   {
    "id": "conium-maculatum",
@@ -1541,7 +1545,10 @@
    "toxicity_category": "gastrointestinal",
    "onset": "Variable",
    "default_severity": "irritant",
-   "references": []
+   "references": [
+    "REF-2640",
+    "REF-2641"
+   ]
   },
   {
    "id": "veratrum-album",

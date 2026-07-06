@@ -259,6 +259,7 @@ def main():
     actions = {a["id"]: a for a in yaml.safe_load(open(os.path.join(VOCAB, "actions.yaml"), encoding="utf-8"))}
     conditions = {c["id"]: c for c in yaml.safe_load(open(os.path.join(VOCAB, "conditions.yaml"), encoding="utf-8"))}
     drug_classes = {d["id"]: d for d in yaml.safe_load(open(os.path.join(VOCAB, "drug_classes.yaml"), encoding="utf-8"))}
+    dangerous_plants = {d["id"]: d for d in yaml.safe_load(open(os.path.join(VOCAB, "dangerous_plants.yaml"), encoding="utf-8"))}
     compounds = {}
     for fn in sorted(glob.glob(os.path.join(COMPDIR, "*.yaml"))):
         c = yaml.safe_load(open(fn, encoding="utf-8"))
@@ -271,6 +272,12 @@ def main():
         [{"id": d["id"], "label": d["label"], "consumer_description": d.get("consumer_description", ""),
           "category": d.get("category", "")} for d in drug_classes.values()],
         key=lambda d: d["label"].lower())
+    # Public-safe dangerous-plant vocab (strip editor_notes; keep toxicology the tool
+    # renders). Keyed by id for the lookalike emitter; embedded (as a sorted list) in
+    # lookalikes.v1.json so the front-end can label every referenced toxic plant.
+    def _dp_pub(d):
+        return {k: v for k, v in d.items() if k != "editor_notes"}
+    dp_public = {d["id"]: _dp_pub(d) for d in dangerous_plants.values()}
     name_of = lambda p: (p.get("common_names") or [p["scientific_name"]])[0]
 
     # ---- ref -> linkage inversion (claim-level) ----
@@ -400,6 +407,8 @@ def main():
             q["drug_class_interactions"] = approved_only(q["drug_class_interactions"])
         if "pairings" in q:
             q["pairings"] = approved_only(q["pairings"])
+        if "dangerous_lookalikes" in q:
+            q["dangerous_lookalikes"] = approved_only(q["dangerous_lookalikes"])
         pub.append(q)
     write(os.path.join(OUT, "plants.json"), {"schema": "omnia-sana/plants@1", "count": len(pub), "plants": pub})
 
@@ -409,6 +418,7 @@ def main():
         "actions": [{"id": a["id"], "label": a["label"], "category": a.get("category", "")} for a in actions.values()],
         "conditions": sym_conditions,
         "drug_classes": dc_public,
+        "dangerous_plants": sorted(dp_public.values(), key=lambda d: d["label"].lower()),
         "compounds": [{"id": c["id"], "name": c["name"], "class": c.get("class", "")} for c in compounds.values()],
     })
 
@@ -474,10 +484,77 @@ def main():
     write(os.path.join(OUT, "pairings.v1.draft.json"),
           {"schema": "omnia-sana/pairings@1", "count": len(draft_pair), "pairings": draft_pair})
 
+    # ---- lookalikes.v1.json (Dangerous Lookalikes feed) --------------------------
+    # ONE-DIRECTIONAL (NOT mirrored, unlike pairings): each medicinal plant lists the
+    # toxic plants IT is mistaken for + how to tell them apart. Carries the three-state
+    # review flag so the tool distinguishes "not researched" (plant ABSENT from feed)
+    # from "researched, none known" from "has hazards". Public file = approved rows
+    # ONLY; a reviewed has-lookalikes plant with no approved rows yet stays absent
+    # (renders as 'not researched'), never as an empty/alarming hazard list. The
+    # .draft twin carries every row and is NOT deployed.
+    SEV_ORDER = {"fatal": 0, "dangerous": 1, "irritant": 2, "caution": 3}
+
+    def lookalike_plants(status):
+        out = []
+        for p in plants:
+            review = p.get("lookalikes_review")
+            las = p.get("dangerous_lookalikes", [])
+            if status:
+                las = [x for x in las if x.get("status") == status]
+            rows = []
+            for la in las:
+                dp = dangerous_plants.get(la["dangerous_plant"], {})
+                rows.append({
+                    "dangerous_plant": la["dangerous_plant"],
+                    "dangerous_plant_label": dp.get("label", la["dangerous_plant"]),
+                    "kingdom": dp.get("kingdom", "plant"),
+                    "severity": la["severity"],
+                    "confused_part": la.get("confused_part", ""),
+                    "confusion_context": la.get("confusion_context", ""),
+                    "distinguishing_features": list(la.get("distinguishing_features", [])),
+                    "key_test": la.get("key_test", ""),
+                    "references": list(la.get("reference_ids", [])),
+                    "status": la.get("status", ""),
+                })
+            rows.sort(key=lambda r: (SEV_ORDER.get(r["severity"], 9), r["dangerous_plant_label"].lower()))
+            outcome = (review or {}).get("outcome")
+            include = bool(rows) or outcome == "none-known"
+            if status is None:
+                include = include or bool(review) or bool(las)
+            if not include:
+                continue
+            rec = {
+                "plant_id": p["id"], "plant": name_of(p), "scientific": p["scientific_name"],
+                "common_slug": slugs[p["id"]], "wp_post_id": p.get("wp_post_id"),
+                "review_outcome": "has-lookalikes" if rows else "none-known",
+                "lookalikes": rows,
+            }
+            if review:
+                if review.get("reference_ids"):
+                    rec["review_reference_ids"] = list(review["reference_ids"])
+                if review.get("reviewed_by"):
+                    rec["reviewed_by"] = review["reviewed_by"]
+                if review.get("reviewed_date"):
+                    rec["reviewed_date"] = review["reviewed_date"]
+            out.append(rec)
+        out.sort(key=lambda r: r["plant"].lower())
+        return out
+
+    dp_list = sorted(dp_public.values(), key=lambda d: d["label"].lower())
+    approved_la, draft_la = lookalike_plants("approved"), lookalike_plants(None)
+    n_appr_rows = sum(len(r["lookalikes"]) for r in approved_la)
+    n_draft_rows = sum(len(r["lookalikes"]) for r in draft_la)
+    write(os.path.join(OUT, "lookalikes.v1.json"),
+          {"schema": "omnia-sana/lookalikes@1", "count": n_appr_rows,
+           "plants_covered": len(approved_la), "dangerous_plants": dp_list, "plants": approved_la})
+    write(os.path.join(OUT, "lookalikes.v1.draft.json"),
+          {"schema": "omnia-sana/lookalikes@1", "count": n_draft_rows,
+           "plants_covered": len(draft_la), "dangerous_plants": dp_list, "plants": draft_la})
+
     # ---- manifest.json (versioning + integrity; no timestamp -> clean diffs) ------
     artifacts = {}
     for fn in ["citations.json", "symptoms.json", "plants.json", "vocab.json",
-               "interactions.v1.json", "pairings.v1.json"]:
+               "interactions.v1.json", "pairings.v1.json", "lookalikes.v1.json"]:
         raw = open(os.path.join(OUT, fn), "rb").read()
         head = json.loads(raw.decode("utf-8"))
         artifacts[fn] = {"schema": head.get("schema", ""), "count": head.get("count"),
@@ -492,6 +569,7 @@ def main():
     print("  vocab.json     : %d actions, %d conditions, %d drug-classes, %d compounds" % (len(actions), len(conditions), len(drug_classes), len(compounds)))
     print("  interactions   : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_int), len(draft_int)))
     print("  pairings       : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_pair), len(draft_pair)))
+    print("  lookalikes     : %d approved rows / %d plants (%d rows incl. draft) [.v1.json + .draft twin]" % (n_appr_rows, len(approved_la), n_draft_rows))
     print("  manifest.json  : %d artifacts hashed" % len(artifacts))
 
 

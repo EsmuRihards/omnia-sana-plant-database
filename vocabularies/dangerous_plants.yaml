@@ -1,0 +1,241 @@
+# Omnia Sana — controlled vocabulary: DANGEROUS PLANTS / FUNGI
+# Schema: ../schema/dangerous_plant.schema.json
+#
+# One entry per toxic plant/fungus a medicinal plant can be realistically mistaken
+# for. Canonical toxicology lives here ONCE (DRY); each entry is referenced by id
+# from a medicinal plant's dangerous_lookalikes[]. The PAIRWISE "how to tell them
+# apart" datum lives on the medicinal-plant record, NOT here.
+#
+# `editor_notes` is EDITOR-FACING and stripped from public build output (like
+# drug_classes' `examples`). `references` anchor each entry's identity + toxicology
+# and are filled as the safety literature is gathered.
+
+# ============================================================ Apiaceae killers
+- id: conium-maculatum
+  label: Poison hemlock
+  scientific_name: Conium maculatum
+  family: Apiaceae
+  kingdom: plant
+  synonyms: ["hemlock", "poison parsley", "spotted hemlock", "poison fool's parsley"]
+  toxic_principle: Coniine and γ-coniceine (piperidine alkaloids)
+  toxicity: Ingestion causes burning of the mouth, salivation, muscle weakness and an ascending paralysis that can stop breathing; a few leaves or seeds can be fatal, and the mind stays clear as paralysis sets in.
+  toxicity_category: neurotoxic
+  onset: Rapid (30 min–2 h)
+  default_severity: fatal
+  references: []
+
+- id: cicuta-virosa
+  label: Cowbane (European water hemlock)
+  scientific_name: Cicuta virosa
+  family: Apiaceae
+  kingdom: plant
+  synonyms: ["water hemlock", "northern water hemlock", "mackenzie's water hemlock"]
+  toxic_principle: Cicutoxin (a C17 polyacetylene convulsant)
+  toxicity: One of the most violently poisonous temperate plants; the chambered, sweet-smelling rootstock causes rapid onset of severe, recurrent seizures and can be fatal within hours.
+  toxicity_category: neurotoxic
+  onset: Very rapid (15–60 min)
+  default_severity: fatal
+  references: []
+
+- id: oenanthe-crocata
+  label: Hemlock water-dropwort
+  scientific_name: Oenanthe crocata
+  family: Apiaceae
+  kingdom: plant
+  synonyms: ["dead man's fingers", "water dropwort", "five-fingered death"]
+  toxic_principle: Oenanthotoxin (a C17 polyacetylene convulsant, akin to cicutoxin)
+  toxicity: Among the most poisonous plants in Britain; the fleshy, parsnip-like roots ("dead man's fingers") are intensely toxic and cause vomiting, violent convulsions and death; often smells pleasant, which disarms foragers.
+  toxicity_category: neurotoxic
+  onset: Very rapid (30 min–3 h)
+  default_severity: fatal
+  references: []
+
+- id: aethusa-cynapium
+  label: Fool's parsley
+  scientific_name: Aethusa cynapium
+  family: Apiaceae
+  kingdom: plant
+  synonyms: ["lesser hemlock", "dog poison", "fool's cicely"]
+  toxic_principle: Polyacetylenes (aethusin, aethusanol) and related compounds
+  toxicity: A hemlock relative that mimics parsley and chervil; ingestion has caused burning of the mouth, nausea, vomiting and neurological symptoms, particularly in children — treat any parsley look-alike with a foul or garlicky smell as suspect.
+  toxicity_category: neurotoxic
+  onset: Rapid (under a few hours)
+  default_severity: dangerous
+  references: []
+  editor_notes: Historic toxicity is real but its lethality is milder and more debated than Conium; keep severity 'dangerous' unless a case-report basis supports 'fatal'.
+
+- id: heracleum-mantegazzianum
+  label: Giant hogweed
+  scientific_name: Heracleum mantegazzianum
+  family: Apiaceae
+  kingdom: plant
+  synonyms: ["giant cow parsnip", "cartwheel flower"]
+  toxic_principle: Furanocoumarins (furocoumarins, e.g. psoralens)
+  toxicity: The clear, watery sap makes skin hypersensitive to sunlight; contact followed by sun exposure causes severe blistering burns (phytophotodermatitis) and long-lasting scars, and sap in the eye can damage sight. Not a poison by ingestion but a serious contact hazard for anyone gathering tall umbellifers.
+  toxicity_category: dermatotoxic
+  onset: Skin reaction develops 15 min–2 h after sun exposure; blisters peak 2–3 days later
+  default_severity: irritant
+  references: []
+
+# ============================================================ Cardiac / alkaloid killers
+- id: veratrum-album
+  label: White hellebore (false hellebore)
+  scientific_name: Veratrum album
+  family: Melanthiaceae
+  kingdom: plant
+  synonyms: ["false helleborine", "white veratrum", "European white hellebore"]
+  toxic_principle: Steroidal alkaloids (protoveratrines, veratridine, jervine)
+  toxicity: The classic and repeatedly fatal mix-up for foragers gathering yellow gentian; the root and early rosette cause vomiting, a dangerously slow heartbeat and collapse in blood pressure within hours.
+  toxicity_category: cardiotoxic
+  onset: Rapid (30 min–4 h)
+  default_severity: fatal
+  references:
+  - REF-2599
+  - REF-2600
+  - REF-2601
+  - REF-2602
+
+- id: digitalis-purpurea
+  label: Foxglove
+  scientific_name: Digitalis purpurea
+  family: Plantaginaceae
+  kingdom: plant
+  synonyms: ["purple foxglove", "lady's glove", "fairy gloves"]
+  toxic_principle: Cardiac glycosides (digitoxin, digoxin-like glycosides)
+  toxicity: All parts contain heart poisons; the non-flowering leaf rosette is easily mistaken for comfrey, mullein or borage, and ingestion causes nausea, disturbed colour vision and dangerous, potentially fatal heart-rhythm disturbances.
+  toxicity_category: cardiotoxic
+  onset: Delayed (several hours)
+  default_severity: fatal
+  references: []
+
+- id: convallaria-majalis
+  label: Lily-of-the-valley
+  scientific_name: Convallaria majalis
+  family: Asparagaceae
+  kingdom: plant
+  synonyms: ["may lily", "our lady's tears"]
+  toxic_principle: Cardiac glycosides (convallatoxin, convalloside)
+  toxicity: Whole plant is poisonous; its broad green spring leaves are notoriously confused with wild garlic (ramsons) before flowering, and ingestion can cause vomiting and serious, potentially fatal heart-rhythm disturbances.
+  toxicity_category: cardiotoxic
+  onset: Delayed (1–several hours)
+  default_severity: fatal
+  references: []
+
+- id: colchicum-autumnale
+  label: Autumn crocus (meadow saffron)
+  scientific_name: Colchicum autumnale
+  family: Colchicaceae
+  kingdom: plant
+  synonyms: ["meadow saffron", "naked lady", "autumn crocus"]
+  toxic_principle: Colchicine (an antimitotic alkaloid)
+  toxicity: There is no antidote; the strap-shaped spring leaves are mistaken for wild garlic and the corm/flower for saffron. Poisoning is deceptively delayed (2–12 h) then causes catastrophic vomiting, organ failure and death.
+  toxicity_category: cytotoxic
+  onset: Deceptively delayed (2–12 h) then multi-organ failure
+  default_severity: fatal
+  references: []
+
+- id: arum-maculatum
+  label: Lords-and-ladies (cuckoo-pint)
+  scientific_name: Arum maculatum
+  family: Araceae
+  kingdom: plant
+  synonyms: ["cuckoo-pint", "wild arum", "jack-in-the-pulpit", "snakeshead"]
+  toxic_principle: Insoluble calcium-oxalate raphides (needle crystals)
+  toxicity: Biting into any part fires microscopic needle crystals into the mouth and throat, causing intense burning, swelling and blistering; severe swelling can threaten the airway. The arrow-shaped spring leaves grow among ramsons and other foraged greens.
+  toxicity_category: gastrointestinal
+  onset: Immediate (on contact/chewing)
+  default_severity: dangerous
+  references: []
+
+# ============================================================ Elder / chickweed confusables
+- id: sambucus-ebulus
+  label: Dwarf elder (danewort)
+  scientific_name: Sambucus ebulus
+  family: Viburnaceae
+  kingdom: plant
+  synonyms: ["danewort", "dane weed", "walewort", "dwarf elderberry"]
+  toxic_principle: Cyanogenic glycosides and ebulin (a ribosome-inactivating lectin)
+  toxicity: A herbaceous elder relative whose berries and foliage are markedly more toxic than true elder; ingestion causes severe nausea, vomiting and diarrhoea. Its flat-topped white flower clusters and dark berries are easily confused with elder.
+  toxicity_category: gastrointestinal
+  onset: Rapid (30 min–a few hours)
+  default_severity: dangerous
+  references: []
+
+- id: lysimachia-arvensis
+  label: Scarlet pimpernel
+  scientific_name: Lysimachia arvensis
+  family: Primulaceae
+  kingdom: plant
+  synonyms: ["Anagallis arvensis", "poor man's weatherglass", "red pimpernel", "shepherd's weatherglass"]
+  toxic_principle: Triterpenoid saponins (e.g. anagalligenin/cyclamin-type)
+  toxicity: A low sprawling weed of the same habitats as chickweed; the plant is bitter and mildly toxic (saponins), causing gastrointestinal upset, and has caused poisoning in grazing animals. Its square-ish stems and orange-red flowers distinguish it.
+  toxicity_category: gastrointestinal
+  onset: Variable
+  default_severity: irritant
+  references: []
+
+- id: euphorbia-peplus
+  label: Petty spurge
+  scientific_name: Euphorbia peplus
+  family: Euphorbiaceae
+  kingdom: plant
+  synonyms: ["radium weed", "cancer weed", "milkweed (spurge)"]
+  toxic_principle: Diterpene esters (ingenol mebutate) in the milky latex
+  toxicity: Every part exudes a caustic milky latex that severely irritates and blisters skin and, in the eye, can cause serious injury; ingestion burns the mouth and gut. It grows as a weed among low salad greens such as chickweed.
+  toxicity_category: dermatotoxic
+  onset: Immediate (on contact with latex)
+  default_severity: irritant
+  references: []
+
+# ============================================================ Foraged-fungi killers / confusables
+- id: galerina-marginata
+  label: Funeral bell (deadly Galerina)
+  scientific_name: Galerina marginata
+  family: Hymenogastraceae
+  kingdom: fungus
+  synonyms: ["Galerina autumnalis", "deadly skullcap", "autumn skullcap", "deadly Galerina"]
+  toxic_principle: Amatoxins (α-amanitin)
+  toxicity: Contains the same liver-destroying amatoxins as the death cap; a few of these small brown mushrooms can kill. Symptoms are deceptively delayed (6–24 h) — vomiting and diarrhoea, apparent recovery, then catastrophic liver failure.
+  toxicity_category: cytotoxic
+  onset: Delayed (6–24 h; deceptively symptom-free early)
+  default_severity: fatal
+  references: []
+
+- id: omphalotus-olearius
+  label: Jack-o'-lantern mushroom
+  scientific_name: Omphalotus olearius
+  family: Omphalotaceae
+  kingdom: fungus
+  synonyms: ["Omphalotus illudens", "Omphalotus japonicus", "jack o lantern"]
+  toxic_principle: Illudin S and related sesquiterpenes
+  toxicity: A clustered orange wood-rotting mushroom with true, sharp-edged gills (that glow faintly in the dark); eating it causes severe vomiting and cramps, though it is rarely fatal. Confused with chanterelles and, when growing on wood, with oyster mushrooms.
+  toxicity_category: gastrointestinal
+  onset: Rapid (30 min–3 h)
+  default_severity: dangerous
+  references: []
+
+- id: pleurocybella-porrigens
+  label: Angel wing
+  scientific_name: Pleurocybella porrigens
+  family: Marasmiaceae
+  kingdom: fungus
+  synonyms: ["angel's wing", "angel wing oyster"]
+  toxic_principle: An unstable amino-acid toxin (pleurocybellaziridine) affecting the brain
+  toxicity: A thin white bracket that grows on conifer wood and is easily taken for an oyster mushroom; linked to an outbreak of fatal brain inflammation (encephalopathy), especially in people with kidney impairment. Now regarded as unsafe to eat.
+  toxicity_category: neurotoxic
+  onset: Delayed (days to a few weeks in reported cases)
+  default_severity: dangerous
+  references: []
+
+- id: stereum-hirsutum
+  label: Hairy curtain crust
+  scientific_name: Stereum hirsutum
+  family: Stereaceae
+  kingdom: fungus
+  synonyms: ["false turkey tail", "hairy stereum", "curtain crust"]
+  toxic_principle: None established (inedible, not regarded as poisonous)
+  toxicity: Not a poison, but a common "false turkey tail" that is confused with turkey tail (Trametes versicolor); it has a smooth to wrinkled underside with NO pores, so it lacks the medicinal properties sought and wastes a forager's effort.
+  toxicity_category: mixed
+  onset: n/a
+  default_severity: caution
+  references: []

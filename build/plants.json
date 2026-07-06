@@ -16208,9 +16208,37 @@
     "REF-1654",
     "REF-1655"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-06"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "veratrum-album",
+     "severity": "fatal",
+     "confused_part": "Non-flowering basal leaf rosette and root — the parts dug to make gentian wine, bitters, schnapps or tea, before either plant flowers.",
+     "confusion_context": "One of the best-documented lethal foraging mix-ups in Europe. White hellebore (Veratrum album) and yellow gentian grow side by side in the same subalpine meadows, and before flowering their large ribbed basal leaves and thick roots look almost identical to a non-botanist. Foragers digging gentian for home-made gentian wine, bitters or herbal tea have repeatedly harvested Veratrum by mistake; poisoning begins within 30 minutes to a few hours with vomiting, then a dangerously slow heartbeat and a collapse in blood pressure. Documented in multiple European case reports.",
+     "distinguishing_features": [
+      "Leaf arrangement is decisive and works even before flowering: yellow gentian has OPPOSITE leaves — a matching pair growing directly across from each other at each stem node. Veratrum album has ALTERNATE leaves, attached singly and spiralling up the stem, each clasping/sheathing it.",
+      "Yellow gentian leaves are smooth and hairless with a few (about 5–7) bold arching parallel veins. Veratrum album leaves are strongly pleated and corrugated, with many prominent parallel veins and a finely hairy underside.",
+      "If in flower only: yellow gentian has bright yellow star-shaped flowers in whorls; Veratrum album has whitish-green flowers in a branched spike. Do NOT rely on flower colour when foraging the non-flowering rosette or root."
+     ],
+     "key_test": "Check how the leaves attach to the stem. A matching PAIR directly opposite each other at each node = yellow gentian. Leaves attached one at a time, spiralling and sheathing the stem = Veratrum album — do not harvest. If you cannot confirm opposite leaf pairs, do not forage.",
+     "reference_ids": [
+      "REF-2599",
+      "REF-2600",
+      "REF-2601",
+      "REF-2602"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-06"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-06",
    "common_slug": "gentian"
   },
   {
@@ -37334,9 +37362,14 @@
     "REF-1922",
     "REF-1923"
    ],
+   "lookalikes_review": {
+    "outcome": "none-known",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-06"
+   },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-06",
    "common_slug": "ajwain"
   },
   {

@@ -31,6 +31,9 @@ STATUSES = {"verified", "draft", "needs-review"}
 SAFETY_STATUSES = {"draft", "approved"}
 SEVERITIES = {"avoid", "caution", "likely-safe", "insufficient"}
 PAIR_TYPES = {"synergy", "neutral", "caution", "avoid"}
+LOOKALIKE_SEVERITIES = {"fatal", "dangerous", "irritant", "caution"}
+LOOKALIKE_OUTCOMES = {"none-known", "has-lookalikes"}
+DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
 def find_refs(node):
@@ -64,6 +67,7 @@ def main():
     C = vocab_ids(os.path.join(VOCAB, "conditions.yaml"))
     K = {yaml.safe_load(open(f, encoding="utf-8"))["id"] for f in glob.glob(os.path.join(COMPDIR, "*.yaml"))}
     D = vocab_ids(os.path.join(VOCAB, "drug_classes.yaml"))
+    X = vocab_ids(os.path.join(VOCAB, "dangerous_plants.yaml"))
 
     cited, seen_ids, pair_refs = set(), {}, []
     files = sorted(glob.glob(os.path.join(PLANTS, "*.yaml")))
@@ -113,6 +117,27 @@ def main():
             if pr.get("partner_id") == d.get("id"):
                 errors.append(f"{name}: pairing partner_id points at itself")
             pair_refs.append((name, pr.get("partner_id")))
+        for la in d.get("dangerous_lookalikes", []):
+            if la.get("dangerous_plant") not in X:
+                errors.append(f"{name}: dangerous_plant '{la.get('dangerous_plant')}' not in dangerous_plants vocab")
+            if la.get("severity") not in LOOKALIKE_SEVERITIES:
+                errors.append(f"{name}: lookalike severity '{la.get('severity')}' invalid (want {sorted(LOOKALIKE_SEVERITIES)})")
+            if la.get("status") not in SAFETY_STATUSES:
+                errors.append(f"{name}: lookalike status '{la.get('status')}' invalid (want draft|approved)")
+            df = la.get("distinguishing_features")
+            if not (isinstance(df, list) and df):
+                errors.append(f"{name}: lookalike '{la.get('dangerous_plant')}' needs >=1 distinguishing_features")
+            if la.get("status") == "approved":
+                if not la.get("reviewed_by"):
+                    errors.append(f"{name}: approved lookalike '{la.get('dangerous_plant')}' missing reviewed_by")
+                if not DATE_RE.match(str(la.get("reviewed_date", ""))):
+                    errors.append(f"{name}: approved lookalike '{la.get('dangerous_plant')}' bad reviewed_date '{la.get('reviewed_date')}'")
+        lr = d.get("lookalikes_review")
+        if lr is not None:
+            if lr.get("outcome") not in LOOKALIKE_OUTCOMES:
+                errors.append(f"{name}: lookalikes_review outcome '{lr.get('outcome')}' invalid (want {sorted(LOOKALIKE_OUTCOMES)})")
+            if lr.get("outcome") == "has-lookalikes" and not d.get("dangerous_lookalikes"):
+                errors.append(f"{name}: lookalikes_review outcome 'has-lookalikes' but no dangerous_lookalikes[]")
         cited.update(find_refs(d))
 
     for (nm, pid) in pair_refs:
@@ -127,7 +152,7 @@ def main():
         warnings.append(f"orphan reference (never cited): {r}")
 
     print(f"Scanned {len(files)} plants | refs cited {len(cited)} / declared {len(declared)} | "
-          f"actions {len(A)} conditions {len(C)} drug-classes {len(D)} compounds {len(K)}")
+          f"actions {len(A)} conditions {len(C)} drug-classes {len(D)} dangerous-plants {len(X)} compounds {len(K)}")
     if warnings:
         print(f"\nWARNINGS ({len(warnings)}):")
         for w in warnings[:40]:

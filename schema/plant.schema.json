@@ -123,6 +123,39 @@
         }
       }
     },
+    "dangerous_lookalikes": {
+      "type": "array",
+      "description": "Dangerous plants/fungi this medicinal plant is realistically mistaken for, and how to tell them apart (powers the Dangerous Lookalikes tool). One-directional (NOT mirrored, unlike pairings). Public tools serve status: approved ONLY.",
+      "items": {
+        "type": "object",
+        "required": ["dangerous_plant", "severity", "distinguishing_features", "status"],
+        "additionalProperties": false,
+        "properties": {
+          "dangerous_plant": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "id -> vocabularies/dangerous_plants.yaml."},
+          "severity": {"$ref": "#/$defs/lookalike_severity"},
+          "confused_part": {"type": "string", "description": "Which part/growth stage is confusable, e.g. 'young leaves / basal rosette', 'root', 'whole plant before flowering'."},
+          "confusion_context": {"type": "string", "description": "Plain-English why/when the mix-up happens (co-occurrence, foraging scenario, documented poisonings)."},
+          "distinguishing_features": {"type": "array", "items": {"type": "string"}, "minItems": 1, "description": "Rock-solid, observable ways to tell the MEDICINAL plant apart from the dangerous one. Each must be reliable enough to bet a life on — omit anything subtle or ambiguous."},
+          "key_test": {"type": "string", "description": "The single most reliable field check, e.g. 'Crush a leaf: true fennel smells strongly of aniseed; hemlock smells foul/mousy.'"},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"},
+          "status": {"$ref": "#/$defs/safety_status"},
+          "reviewed_by": {"type": "string"},
+          "reviewed_date": {"type": "string"}
+        }
+      }
+    },
+    "lookalikes_review": {
+      "type": "object",
+      "description": "Record-level completeness flag distinguishing 'researched, none known' from 'not yet researched'. Absent = NOT researched (tool must not render 'safe').",
+      "required": ["outcome"],
+      "additionalProperties": false,
+      "properties": {
+        "outcome": {"type": "string", "enum": ["none-known", "has-lookalikes"]},
+        "reviewed_by": {"type": "string"},
+        "reviewed_date": {"type": "string"},
+        "reference_ids": {"$ref": "#/$defs/reference_ids", "description": "For a 'none-known' assertion, the source(s) that support it."}
+      }
+    },
     "references": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}, "description": "Background/general sources for the plant not tied to a specific claim (identification, distribution, foraging, overviews)."},
     "provenance": {"type": "string", "description": "Origin of the record, e.g. 'book', 'website', 'pubmed', or combinations like 'book+pubmed'."},
     "internal_notes": {"type": "string", "description": "Editorial notes and history; NEVER published."},
@@ -134,6 +167,7 @@
     "safety_status": {"type": "string", "enum": ["draft", "approved"], "description": "Safety-record lifecycle. 'draft' = Claude-drafted / under review, NEVER served publicly. 'approved' = human medical sign-off, served by public tools. Deliberately distinct from the content `status` enum."},
     "severity": {"type": "string", "enum": ["avoid", "caution", "likely-safe", "insufficient"], "description": "Herb-drug severity tier: avoid | caution (use with caution) | likely-safe | insufficient (insufficient evidence)."},
     "pairing_type": {"type": "string", "enum": ["synergy", "neutral", "caution", "avoid"], "description": "Herb-herb pairing verdict."},
+    "lookalike_severity": {"type": "string", "enum": ["fatal", "dangerous", "irritant", "caution"], "description": "Dangerous-lookalike lethality tier: fatal | dangerous | irritant | caution."},
     "reference_ids": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}}
   }
 }

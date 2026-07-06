@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omniasana.bio/schema/dangerous_plant.schema.json",
+  "title": "Dangerous-plant vocabulary term",
+  "description": "One toxic plant/fungus that a medicinal plant can be confused with. vocabularies/dangerous_plants.yaml is a list of these; each is referenced by id from a medicinal plant's dangerous_lookalikes[]. Canonical toxicology lives here ONCE.",
+  "type": "object",
+  "required": ["id", "label", "scientific_name", "toxic_principle", "toxicity", "default_severity"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable slug, e.g. conium-maculatum, veratrum-album, galerina-marginata."},
+    "label": {"type": "string", "description": "Primary common name, e.g. 'Poison hemlock'."},
+    "scientific_name": {"type": "string"},
+    "family": {"type": "string"},
+    "kingdom": {"type": "string", "enum": ["plant", "fungus"], "description": "So the tool can label fungal lookalikes correctly."},
+    "synonyms": {"type": "array", "items": {"type": "string"}, "description": "Other common/scientific names, for search."},
+    "toxic_principle": {"type": "string", "description": "The toxin(s), e.g. 'coniine and γ-coniceine (piperidine alkaloids)'."},
+    "toxicity": {"type": "string", "description": "Plain-English, consumer-safe description of the harm, e.g. 'Ingestion causes ascending paralysis and can be rapidly fatal.'"},
+    "toxicity_category": {"type": "string", "description": "Broad grouping: neurotoxic | cardiotoxic | cytotoxic | dermatotoxic | gastrointestinal | mixed."},
+    "onset": {"type": "string", "description": "Optional but important for delayed-onset toxins (e.g. amatoxins: '6–24 h delayed; deceptively symptom-free early')."},
+    "default_severity": {"$ref": "#/$defs/lookalike_severity", "description": "Worst-case severity if ingested; a relation may narrow it per medicinal plant/part."},
+    "external_ids": {
+      "type": "object", "additionalProperties": false,
+      "description": "Botanical/mycological identity anchors (same idea as plant.external_ids).",
+      "properties": {
+        "wikidata": {"type": "string"}, "powo": {"type": "string"},
+        "gbif": {"type": ["string", "integer"]}, "ncbi_taxon": {"type": ["string", "integer"]}
+      }
+    },
+    "references": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}, "description": "Sources for this toxic plant's identity + toxicology."},
+    "editor_notes": {"type": "string", "description": "EDITOR-FACING ONLY. Never emitted to public build output."}
+  },
+  "$defs": {
+    "lookalike_severity": {"type": "string", "enum": ["fatal", "dangerous", "irritant", "caution"]}
+  }
+}

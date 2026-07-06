@@ -1223,7 +1223,11 @@
    "toxicity_category": "neurotoxic",
    "onset": "Delayed (days to a few weeks in reported cases)",
    "default_severity": "dangerous",
-   "references": []
+   "references": [
+    "REF-2627",
+    "REF-2628",
+    "REF-2629"
+   ]
   },
   {
    "id": "colchicum-autumnale",
@@ -1285,7 +1289,11 @@
    "toxicity_category": "gastrointestinal",
    "onset": "Rapid (30 min–a few hours)",
    "default_severity": "dangerous",
-   "references": []
+   "references": [
+    "REF-2633",
+    "REF-2634",
+    "REF-2635"
+   ]
   },
   {
    "id": "aethusa-cynapium",
@@ -1428,7 +1436,11 @@
    "toxicity_category": "gastrointestinal",
    "onset": "Rapid (30 min–3 h)",
    "default_severity": "dangerous",
-   "references": []
+   "references": [
+    "REF-2630",
+    "REF-2631",
+    "REF-2632"
+   ]
   },
   {
    "id": "convallaria-majalis",

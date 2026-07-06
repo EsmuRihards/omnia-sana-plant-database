@@ -130,9 +130,30 @@ references:
 - REF-1022
 - REF-1023
 - REF-1024
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: sambucus-ebulus
+  severity: dangerous
+  confused_part: Flower heads and ripe black berries, gathered mistaking them for elderflower or elderberry.
+  confusion_context: Dwarf elder (danewort) is a close relative of elder with very similar flat-topped white flower clusters and small black berries, and the two grow in the same hedgerows and waste ground. But all parts of dwarf elder are toxic — it contains ebulin, a ricin-related toxin, plus cyanogenic compounds — and eating the flowers or berries causes severe nausea, vomiting and diarrhoea. (Even true elderberry must be cooked before eating.)
+  distinguishing_features:
+  - 'Stem: elder is a woody shrub or small tree (up to several metres) with bark and woody stems that persist through winter; dwarf elder is herbaceous — soft green non-woody stems, no bark, about 1 to 2 m, dying back to the ground each year and re-sprouting in dense colonies. A woody, bark-covered stem means it is NOT dwarf elder.'
+  - 'Anthers: dwarf-elder flowers have contrasting purple or dark-red anthers; elder flowers have cream-to-yellow anthers.'
+  - 'Berries: elder''s ripe berry clusters droop and hang down; dwarf elder holds its flower and fruit heads erect, facing upward.'
+  key_test: 'Check the stem: a hard, woody, bark-covered stem that persists year-round = elder (its cooked flowers and berries are a safe food). A soft, green, non-woody stem forming a dense colony that dies back each winter = dwarf elder — do not eat it. Purple anthers and upward-facing berry heads confirm dwarf elder.'
+  reference_ids:
+  - REF-2633
+  - REF-2634
+  - REF-2635
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

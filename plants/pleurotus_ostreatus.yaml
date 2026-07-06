@@ -113,9 +113,46 @@ references:
 - REF-2596
 - REF-2597
 - REF-2598
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: pleurocybella-porrigens
+  severity: fatal
+  confused_part: The fruiting body — a white, shelf-like gilled mushroom on wood, which looks like a small white oyster mushroom.
+  confusion_context: Angel wing was eaten as a traditional food in Japan until an outbreak of acute brain inflammation (encephalopathy) in autumn 2004 killed several people; most victims were elderly and, crucially, had reduced kidney function. Because it can be fatal in anyone with impaired kidneys while looking and tasting like an ordinary edible, it is now regarded as unsafe.
+  distinguishing_features:
+  - Angel wing grows ONLY on dead conifer (softwood) wood — spruce, fir, pine; wild oyster mushrooms grow on hardwood (broadleaf) trees. The host tree is the single most reliable difference.
+  - Angel wing is pure chalk-white all over; oysters are usually grey, tan or brown, and only rarely white.
+  - Angel-wing flesh is very thin, floppy and almost translucent at the edge, and the caps are small; oyster flesh is thick, dense and meaty, often forming large shelves.
+  key_test: 'Identify the wood: angel wing grows on conifer (softwood) wood and is thin, small and pure white. If you cannot confirm the host is a hardwood (broadleaf) tree, do not eat a white oyster-like mushroom — anyone with reduced kidney function is at particular risk.'
+  reference_ids:
+  - REF-2627
+  - REF-2628
+  - REF-2629
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: omphalotus-olearius
+  severity: dangerous
+  confused_part: The whole cap-and-gilled fruiting body; jack-o'-lantern grows in oyster-like clusters on wood.
+  confusion_context: Jack-o'-lantern mushrooms grow in clusters on wood and have true gills, so they are mistaken for oyster mushrooms (and chanterelles). They contain illudin toxins and cause severe vomiting, cramps and diarrhoea within an hour or two — painful and sometimes needing hospital care, though rarely fatal in healthy adults.
+  distinguishing_features:
+  - Jack-o'-lantern is bright orange to yellow-orange all over — cap, gills AND flesh; oyster mushrooms are white, grey, tan or brown, never bright orange.
+  - Its flesh is orange when cut; oyster flesh is white.
+  - In the dark its gills may glow faintly green; oysters never glow.
+  key_test: 'Colour: a mushroom that is bright orange throughout (cap, gills and flesh) is not an oyster mushroom, which is always white, grey, tan or brown. Cut it — orange flesh means jack-o''-lantern, do not eat.'
+  reference_ids:
+  - REF-2630
+  - REF-2631
+  - REF-2632
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

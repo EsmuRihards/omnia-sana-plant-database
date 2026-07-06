@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 18,
- "plants_covered": 11,
+ "count": 21,
+ "plants_covered": 13,
  "dangerous_plants": [
   {
    "id": "pleurocybella-porrigens",
@@ -18,7 +18,11 @@
    "toxicity_category": "neurotoxic",
    "onset": "Delayed (days to a few weeks in reported cases)",
    "default_severity": "dangerous",
-   "references": []
+   "references": [
+    "REF-2627",
+    "REF-2628",
+    "REF-2629"
+   ]
   },
   {
    "id": "colchicum-autumnale",
@@ -80,7 +84,11 @@
    "toxicity_category": "gastrointestinal",
    "onset": "Rapid (30 min–a few hours)",
    "default_severity": "dangerous",
-   "references": []
+   "references": [
+    "REF-2633",
+    "REF-2634",
+    "REF-2635"
+   ]
   },
   {
    "id": "aethusa-cynapium",
@@ -223,7 +231,11 @@
    "toxicity_category": "gastrointestinal",
    "onset": "Rapid (30 min–3 h)",
    "default_severity": "dangerous",
-   "references": []
+   "references": [
+    "REF-2630",
+    "REF-2631",
+    "REF-2632"
+   ]
   },
   {
    "id": "convallaria-majalis",
@@ -539,6 +551,38 @@
    "reviewed_date": "2026-07-06"
   },
   {
+   "plant_id": "sambucus-nigra",
+   "plant": "Elder",
+   "scientific": "Sambucus nigra",
+   "common_slug": "elder",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "sambucus-ebulus",
+     "dangerous_plant_label": "Dwarf elder (danewort)",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Flower heads and ripe black berries, gathered mistaking them for elderflower or elderberry.",
+     "confusion_context": "Dwarf elder (danewort) is a close relative of elder with very similar flat-topped white flower clusters and small black berries, and the two grow in the same hedgerows and waste ground. But all parts of dwarf elder are toxic — it contains ebulin, a ricin-related toxin, plus cyanogenic compounds — and eating the flowers or berries causes severe nausea, vomiting and diarrhoea. (Even true elderberry must be cooked before eating.)",
+     "distinguishing_features": [
+      "Stem: elder is a woody shrub or small tree (up to several metres) with bark and woody stems that persist through winter; dwarf elder is herbaceous — soft green non-woody stems, no bark, about 1 to 2 m, dying back to the ground each year and re-sprouting in dense colonies. A woody, bark-covered stem means it is NOT dwarf elder.",
+      "Anthers: dwarf-elder flowers have contrasting purple or dark-red anthers; elder flowers have cream-to-yellow anthers.",
+      "Berries: elder's ripe berry clusters droop and hang down; dwarf elder holds its flower and fruit heads erect, facing upward."
+     ],
+     "key_test": "Check the stem: a hard, woody, bark-covered stem that persists year-round = elder (its cooked flowers and berries are a safe food). A soft, green, non-woody stem forming a dense colony that dies back each winter = dwarf elder — do not eat it. Purple anthers and upward-facing berry heads confirm dwarf elder.",
+     "references": [
+      "REF-2633",
+      "REF-2634",
+      "REF-2635"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-06"
+  },
+  {
    "plant_id": "allium-sativum",
    "plant": "Garlic",
    "scientific": "Allium sativum",
@@ -734,6 +778,58 @@
      "references": [
       "REF-2613",
       "REF-2614"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "pleurotus-ostreatus",
+   "plant": "Oyster mushroom",
+   "scientific": "Pleurotus ostreatus",
+   "common_slug": "oyster-mushroom",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "pleurocybella-porrigens",
+     "dangerous_plant_label": "Angel wing",
+     "kingdom": "fungus",
+     "severity": "fatal",
+     "confused_part": "The fruiting body — a white, shelf-like gilled mushroom on wood, which looks like a small white oyster mushroom.",
+     "confusion_context": "Angel wing was eaten as a traditional food in Japan until an outbreak of acute brain inflammation (encephalopathy) in autumn 2004 killed several people; most victims were elderly and, crucially, had reduced kidney function. Because it can be fatal in anyone with impaired kidneys while looking and tasting like an ordinary edible, it is now regarded as unsafe.",
+     "distinguishing_features": [
+      "Angel wing grows ONLY on dead conifer (softwood) wood — spruce, fir, pine; wild oyster mushrooms grow on hardwood (broadleaf) trees. The host tree is the single most reliable difference.",
+      "Angel wing is pure chalk-white all over; oysters are usually grey, tan or brown, and only rarely white.",
+      "Angel-wing flesh is very thin, floppy and almost translucent at the edge, and the caps are small; oyster flesh is thick, dense and meaty, often forming large shelves."
+     ],
+     "key_test": "Identify the wood: angel wing grows on conifer (softwood) wood and is thin, small and pure white. If you cannot confirm the host is a hardwood (broadleaf) tree, do not eat a white oyster-like mushroom — anyone with reduced kidney function is at particular risk.",
+     "references": [
+      "REF-2627",
+      "REF-2628",
+      "REF-2629"
+     ],
+     "status": "approved"
+    },
+    {
+     "dangerous_plant": "omphalotus-olearius",
+     "dangerous_plant_label": "Jack-o'-lantern mushroom",
+     "kingdom": "fungus",
+     "severity": "dangerous",
+     "confused_part": "The whole cap-and-gilled fruiting body; jack-o'-lantern grows in oyster-like clusters on wood.",
+     "confusion_context": "Jack-o'-lantern mushrooms grow in clusters on wood and have true gills, so they are mistaken for oyster mushrooms (and chanterelles). They contain illudin toxins and cause severe vomiting, cramps and diarrhoea within an hour or two — painful and sometimes needing hospital care, though rarely fatal in healthy adults.",
+     "distinguishing_features": [
+      "Jack-o'-lantern is bright orange to yellow-orange all over — cap, gills AND flesh; oyster mushrooms are white, grey, tan or brown, never bright orange.",
+      "Its flesh is orange when cut; oyster flesh is white.",
+      "In the dark its gills may glow faintly green; oysters never glow."
+     ],
+     "key_test": "Colour: a mushroom that is bright orange throughout (cap, gills and flesh) is not an oyster mushroom, which is always white, grey, tan or brown. Cut it — orange flesh means jack-o'-lantern, do not eat.",
+     "references": [
+      "REF-2630",
+      "REF-2631",
+      "REF-2632"
      ],
      "status": "approved"
     }

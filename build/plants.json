@@ -2307,9 +2307,75 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-06"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "colchicum-autumnale",
+     "severity": "fatal",
+     "confused_part": "Spring leaves, when foraging wild garlic (ramsons) foliage before flowering.",
+     "confusion_context": "When people gather wild garlic (ramsons) leaves in spring, autumn crocus leaves — which emerge at the same time in the same damp meadows and woodland edges — are the deadliest thing they can pick by mistake. Autumn crocus contains colchicine, a cell poison with no reliable antidote; a few leaves can kill, and poisoning is repeatedly documented from 'wild garlic' that was actually autumn crocus, progressing from stomach upset to multi-organ failure.",
+     "distinguishing_features": [
+      "Crushed wild-garlic leaves smell strongly of garlic or onion; autumn crocus leaves have NO garlic smell.",
+      "Each wild-garlic leaf grows singly on its own slender stalk; autumn crocus leaves are thicker, stiffer and glossy, several clasped together from a common base at ground level, with no individual stalks.",
+      "Wild garlic pulls up with a small white bulb and onion-like roots; autumn crocus has no garlic bulb."
+     ],
+     "key_test": "Crush one leaf with clean hands and smell it: a strong garlic or onion smell = wild garlic (safe); no garlic smell = do not pick it. Hands already smelling of garlic give false reassurance, so test with clean hands.",
+     "reference_ids": [
+      "REF-2617",
+      "REF-2618",
+      "REF-2619",
+      "REF-2620"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-06"
+    },
+    {
+     "dangerous_plant": "convallaria-majalis",
+     "severity": "fatal",
+     "confused_part": "Spring leaves, when foraging wild garlic (ramsons) foliage before flowering.",
+     "confusion_context": "Lily-of-the-valley leaves emerge at the same time and in the same shady, damp woodland as wild garlic and are a classic, sometimes fatal, mix-up. The plant contains cardiac glycosides (convallatoxin) that disturb the heartbeat like an overdose of heart medicine, and there is no reliable antidote; foragers who ate leaves they took for wild garlic have arrived at hospital with a dangerously slow heart and low blood pressure.",
+     "distinguishing_features": [
+      "Crushed wild-garlic leaves smell strongly of garlic or onion; lily-of-the-valley leaves have NO garlic smell.",
+      "Wild garlic has ONE leaf per individual stalk; lily-of-the-valley has a pair (sometimes three) of leaves wrapped together around a single common stalk, often purplish at the base.",
+      "Lily-of-the-valley leaves are stiffer and glossier, and there is no garlic bulb underneath."
+     ],
+     "key_test": "Crush one leaf with clean hands and smell: strong garlic or onion = wild garlic (safe); no garlic smell = discard. Then check the leaves — one leaf per separate stalk (wild garlic) versus a pair of leaves sheathed around one common stalk (lily-of-the-valley).",
+     "reference_ids": [
+      "REF-2621",
+      "REF-2622",
+      "REF-2623"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-06"
+    },
+    {
+     "dangerous_plant": "arum-maculatum",
+     "severity": "irritant",
+     "confused_part": "Young spring leaves, when foraging wild garlic (ramsons) foliage.",
+     "confusion_context": "Lords-and-ladies pushes up its young leaves at the same time and in the very same damp woods as wild garlic, often mixed in with it. Every part contains needle-like calcium-oxalate crystals: biting a leaf drives them into the mouth and throat, causing immediate intense burning, blistering and swelling — occasionally enough to threaten the airway.",
+     "distinguishing_features": [
+      "Crushed wild-garlic leaves smell strongly of garlic or onion; lords-and-ladies leaves have NO garlic smell.",
+      "Wild-garlic leaves have parallel veins running the length of the leaf; lords-and-ladies leaves have a branching net of veins.",
+      "Lords-and-ladies leaves are arrow- or spear-shaped with two backward-pointing lobes ('tails') at the base, often glossy and sometimes dark-spotted; wild-garlic leaves are smooth ovals with no basal lobes."
+     ],
+     "key_test": "Crush one leaf with clean hands and smell: garlic or onion = wild garlic (safe); no smell = discard. Reject any leaf that is arrow-shaped with basal 'tail' lobes or has net-like (not parallel) veins — that is lords-and-ladies.",
+     "reference_ids": [
+      "REF-2623"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-06"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-06",
    "common_slug": "garlic"
   },
   {
@@ -30254,9 +30320,35 @@
     "REF-2584",
     "REF-2585"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-06"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "galerina-marginata",
+     "severity": "fatal",
+     "confused_part": "The whole small brown mushroom — cap, ringed stem and gills — especially wood-growing collections. Deadly Galerina grows on the same rotting wood and wood chips as wood-loving Psilocybe.",
+     "confusion_context": "Deadly Galerina (funeral bell) is the amatoxin mushroom most often mistaken for hallucinogenic Psilocybe and eaten by accident; the two are small brown ringed mushrooms that grow side by side on rotting wood and bark mulch. Galerina carries the same liver-destroying amatoxins as the death cap — by weight sometimes higher — and poisoning is deceptively delayed (6 to 24 hours), with a false recovery before catastrophic liver failure. Both have a ring on the stem and grow on wood, so the ring and the substrate do NOT tell them apart.",
+     "distinguishing_features": [
+      "Spore-print colour is the only reliable test, and it needs a print taken at home: deadly Galerina drops a RUSTY, cinnamon-brown print; Psilocybe drops a dark purple-brown to blackish-violet print. A rusty-brown print means it is NOT a Psilocybe — do not eat it.",
+      "Psilocybe flesh usually bruises blue-green where handled; deadly Galerina does not. This is only a supporting hint — bluing can be faint or absent and must NEVER override a wrong spore print."
+     ],
+     "key_test": "There is no safe field mark. Take a spore print (gills down on white paper or foil, covered, several hours): a rusty or cinnamon-brown print = deadly Galerina or another amatoxin mushroom — do not eat it. Only a dark purple-brown to violet-black print is consistent with Psilocybe. Do not forage small brown wood-growing mushrooms without an expert mycologist and a spore print — a single wrong cap can cause fatal liver failure.",
+     "reference_ids": [
+      "REF-2624",
+      "REF-2625",
+      "REF-2626"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-06"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-06",
    "common_slug": "psilocybin-mushrooms"
   },
   {

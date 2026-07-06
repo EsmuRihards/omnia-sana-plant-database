@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2616,
+ "count": 2626,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -4783,6 +4783,27 @@
    "actions": [
     "Hepatoprotective (liver support)"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2626",
+   "key": "ubcbeaty_galerina",
+   "type": "misc",
+   "title": "Galerina marginata - Mushrooms Up! Edible and Poisonous Species of Coastal BC and the Pacific Northwest",
+   "authors": "UBC Beaty Biodiversity Museum",
+   "journal": "",
+   "year": "2024",
+   "doi": "",
+   "url": "https://explore.beatymuseum.ubc.ca/mushroomsup/G_marginata.html",
+   "link": "https://explore.beatymuseum.ubc.ca/mushroomsup/G_marginata.html",
+   "link_type": "url",
+   "citation": "UBC Beaty Biodiversity Museum (2024) 'Galerina marginata - Mushrooms Up! Edible and Poisonous Species of Coastal BC and the Pacific Northwest'. Available at: https://explore.beatymuseum.ubc.ca/mushroomsup/G_marginata.html",
+   "abstract": "University of British Columbia mycological reference for deadly Galerina (Galerina marginata): it could be confused with Psilocybe species; its spore print is rusty brown; it has a small ring on the stem and grows on rotting wood and wood chips; and it contains heat-stable amatoxins not destroyed by cooking. Anchors the rusty-brown spore print as the distinguishing test.",
+   "tier": "traditional",
+   "display": "Galerina marginata - Mushrooms Up! Edible and Poisonous Species of Coastal BC and the Pacific Northwest",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
    "conditions": []
   },
   {
@@ -14302,6 +14323,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2620",
+   "key": "bfr_wildgarlic",
+   "type": "misc",
+   "title": "Wild garlic: beware of mix-ups",
+   "authors": "German Federal Institute for Risk Assessment (BfR)",
+   "journal": "",
+   "year": "2023",
+   "doi": "",
+   "url": "https://www.bfr.bund.de/en/press-release/baerlauch-vorsicht-vor-verwechslungen/",
+   "link": "https://www.bfr.bund.de/en/press-release/baerlauch-vorsicht-vor-verwechslungen/",
+   "link_type": "url",
+   "citation": "German Federal Institute for Risk Assessment (BfR) (2023) 'Wild garlic: beware of mix-ups'. Available at: https://www.bfr.bund.de/en/press-release/baerlauch-vorsicht-vor-verwechslungen/",
+   "abstract": "German risk-assessment authority advice on foraging wild garlic: if the characteristic garlic smell does not appear, the plant should be left where it is and hands washed immediately; mix-ups with toxic look-alikes such as autumn crocus and lily-of-the-valley repeatedly lead to serious harm. Anchors the crush-and-smell test.",
+   "tier": "traditional",
+   "display": "Wild garlic: beware of mix-ups",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0916",
    "key": "bota2022tussilago",
    "type": "article",
@@ -16197,6 +16239,27 @@
    "conditions": [
     "Detox / cleansing"
    ]
+  },
+  {
+   "ref_id": "REF-2621",
+   "key": "trebach2022ramps",
+   "type": "article",
+   "title": "Detectable digoxin concentrations in 3 patients with ramps misadventure",
+   "authors": "Trebach, J. and Calleo, V. and Akbar, S. and Langston, J. and Filigenzi, M. and Hoffman, R.S.",
+   "journal": "Wilderness and Environmental Medicine",
+   "year": "2022",
+   "doi": "10.1016/j.wem.2022.04.008",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.wem.2022.04.008",
+   "link_type": "doi",
+   "citation": "Trebach, J. and Calleo, V. and Akbar, S. and Langston, J. and Filigenzi, M. and Hoffman, R.S (2022) 'Detectable digoxin concentrations in 3 patients with ramps misadventure', Wilderness and Environmental Medicine, 33(3), pp. 340-343. doi:10.1016/j.wem.2022.04.008",
+   "abstract": "Three adults foraged and ate what they believed was ramps (wild garlic, Allium tricoccum) and became hypotensive and bradycardic with detectable digoxin; look-alikes named are lily-of-the-valley (Convallaria majalis) and false hellebore (Veratrum). Lily-of-the-valley's cardiac steroid convallatoxin acts like digoxin. Anchors the fatal wild-garlic-for-lily-of-the-valley confusion.",
+   "tier": "clinical",
+   "display": "Detectable digoxin concentrations in 3 patients with ramps misadventure",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0942",
@@ -25486,6 +25549,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2625",
+   "key": "plos2021galerina",
+   "type": "article",
+   "title": "Phylogenetic analysis of the distribution of deadly amatoxins among the little brown mushrooms of the genus Galerina",
+   "authors": "",
+   "journal": "PLOS ONE",
+   "year": "2021",
+   "doi": "10.1371/journal.pone.0246575",
+   "url": "",
+   "link": "https://doi.org/10.1371/journal.pone.0246575",
+   "link_type": "doi",
+   "citation": "(2021) 'Phylogenetic analysis of the distribution of deadly amatoxins among the little brown mushrooms of the genus Galerina', PLOS ONE, 16(2), pp. e0246575. doi:10.1371/journal.pone.0246575",
+   "abstract": "Analysis of amatoxin content across the little-brown-mushroom genus Galerina. Measured alpha-amanitin in deadly Galerina at levels comparable to the death cap Amanita phalloides, confirming that a small quantity can be lethal, and notes poisonings when Galerina has been confused with edible or hallucinogenic mushrooms. Anchors the death-cap-level toxicity of deadly Galerina.",
+   "tier": "preclinical",
+   "display": "Phylogenetic analysis of the distribution of deadly amatoxins among the little brown mushrooms of the genus Galerina",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1061",
    "key": "stegarus2021stachys",
    "type": "article",
@@ -33723,6 +33807,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2623",
+   "key": "wildfooduk_impostors",
+   "type": "misc",
+   "title": "Wild garlic impostors",
+   "authors": "Wild Food UK",
+   "journal": "",
+   "year": "2020",
+   "doi": "",
+   "url": "https://www.wildfooduk.com/articles/identifying-mushrooms-and-plants/wild-garlic-impostors/",
+   "link": "https://www.wildfooduk.com/articles/identifying-mushrooms-and-plants/wild-garlic-impostors/",
+   "link_type": "url",
+   "citation": "Wild Food UK (2020) 'Wild garlic impostors'. Available at: https://www.wildfooduk.com/articles/identifying-mushrooms-and-plants/wild-garlic-impostors/",
+   "abstract": "Foraging guide to wild-garlic look-alikes: wild garlic has only one leaf on each stem while lily-of-the-valley has two; lords-and-ladies (Arum) leaves have basal 'tails' and contain needle-like calcium-oxalate crystals that pierce the mouth like paper cuts; and true garlic leaves are always smooth. Anchors the one-leaf-per-stalk and arrow-shaped-leaf distinguishing tests.",
+   "tier": "traditional",
+   "display": "Wild garlic impostors",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0259",
    "key": "salve2019salve",
    "type": "article",
@@ -38248,6 +38353,27 @@
     "Skin irritation",
     "Stress"
    ]
+  },
+  {
+   "ref_id": "REF-2624",
+   "key": "diaz2018amatoxin",
+   "type": "article",
+   "title": "Amatoxin-containing mushroom poisonings: species, toxidromes, treatments, and outcomes",
+   "authors": "Diaz, J.H.",
+   "journal": "Wilderness and Environmental Medicine",
+   "year": "2018",
+   "doi": "10.1016/j.wem.2017.10.002",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.wem.2017.10.002",
+   "link_type": "doi",
+   "citation": "Diaz, J.H (2018) 'Amatoxin-containing mushroom poisonings: species, toxidromes, treatments, and outcomes', Wilderness and Environmental Medicine, 29(1), pp. 111-118. doi:10.1016/j.wem.2017.10.002",
+   "abstract": "Review of amatoxin mushroom poisonings, produced mainly by Amanita, Lepiota and Galerina. The most frequently reported fatal Galerina ingestions are due to Galerina marginata; amatoxin poisoning causes delayed gastrointestinal illness, a deceptive recovery, then acute liver failure, with about half of those progressing needing a liver transplant. Anchors deadly Galerina's amatoxin toxicity.",
+   "tier": "clinical",
+   "display": "Amatoxin-containing mushroom poisonings: species, toxidromes, treatments, and outcomes",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-1390",
@@ -51880,6 +52006,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2617",
+   "key": "gallanddecker2015colchicum",
+   "type": "article",
+   "title": "Progressive organ failure after ingestion of wild garlic juice",
+   "authors": "Galland-Decker, C. and Charmoy, A. and Jolliet, P. and Spertini, O. and Hugli, O. and Pantet, O.",
+   "journal": "The Journal of Emergency Medicine",
+   "year": "2015",
+   "doi": "10.1016/j.jemermed.2015.06.034",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jemermed.2015.06.034",
+   "link_type": "doi",
+   "citation": "Galland-Decker, C. and Charmoy, A. and Jolliet, P. and Spertini, O. and Hugli, O. and Pantet, O (2015) 'Progressive organ failure after ingestion of wild garlic juice', The Journal of Emergency Medicine, 50(1), pp. 55-60. doi:10.1016/j.jemermed.2015.06.034",
+   "abstract": "A woman was accidentally poisoned by autumn crocus (Colchicum autumnale) mistaken for wild garlic (Allium ursinum). She progressed from mild gastrointestinal symptoms to agranulocytosis, paraparesis and delirium, with rhabdomyolysis and coagulopathy; serum and urine confirmed colchicine. Anchors the fatal wild-garlic-for-autumn-crocus leaf confusion.",
+   "tier": "clinical",
+   "display": "Progressive organ failure after ingestion of wild garlic juice",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0971",
    "key": "fecka2015tormentil",
    "type": "article",
@@ -54467,6 +54614,27 @@
    "actions": [
     "Antispasmodic"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2622",
+   "key": "fink2014convallatoxin",
+   "type": "article",
+   "title": "Rapid detection of convallatoxin using five digoxin immunoassays",
+   "authors": "Fink, S.L. and Robey, T.E. and Tarabar, A.F. and Hodsdon, M.E.",
+   "journal": "Clinical Toxicology (Philadelphia, Pa.)",
+   "year": "2014",
+   "doi": "10.3109/15563650.2014.932366",
+   "url": "",
+   "link": "https://doi.org/10.3109/15563650.2014.932366",
+   "link_type": "doi",
+   "citation": "Fink, S.L. and Robey, T.E. and Tarabar, A.F. and Hodsdon, M.E (2014) 'Rapid detection of convallatoxin using five digoxin immunoassays', Clinical Toxicology (Philadelphia, Pa.), 52(7), pp. 659-63. doi:10.3109/15563650.2014.932366",
+   "abstract": "Study of convallatoxin, the cardiac glycoside of lily-of-the-valley (Convallaria majalis). Convallatoxin is potentially lethal and is detected by digoxin immunoassays, but digoxin immune Fab does not bind it, so the usual antidote for foxglove/oleander poisoning is unlikely to help. Anchors the lethal, hard-to-treat toxicity of lily-of-the-valley.",
+   "tier": "preclinical",
+   "display": "Rapid detection of convallatoxin using five digoxin immunoassays",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
    "conditions": []
   },
   {
@@ -64047,6 +64215,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2618",
+   "key": "kupper2009plants",
+   "type": "article",
+   "title": "Intoxications with plants",
+   "authors": "Kupper, J. and Reichert, C.",
+   "journal": "Therapeutische Umschau",
+   "year": "2009",
+   "doi": "10.1024/0040-5930.66.5.343",
+   "url": "",
+   "link": "https://doi.org/10.1024/0040-5930.66.5.343",
+   "link_type": "doi",
+   "citation": "Kupper, J. and Reichert, C (2009) 'Intoxications with plants', Therapeutische Umschau, 66(5), pp. 343-8. doi:10.1024/0040-5930.66.5.343",
+   "abstract": "Review of plant intoxications by a Swiss toxicology information centre. Autumn crocus (Colchicum autumnale) is a highly toxic plant that can cause death; intoxications are mostly accidental ingestions of the leaves mistaken for wild garlic (Allium ursinum). Colchicine is a cell toxin that leads to multi-organ failure and there is no readily available antidote.",
+   "tier": "clinical",
+   "display": "Intoxications with plants",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2463",
    "key": "sarris2009kava",
    "type": "article",
@@ -70241,6 +70430,27 @@
     "Urinary support",
     "Urinary tract infection (UTI)"
    ]
+  },
+  {
+   "ref_id": "REF-2619",
+   "key": "gabrscek2004colchicum",
+   "type": "article",
+   "title": "Accidental poisoning with autumn crocus",
+   "authors": "Gabrscek, L. and Lesnicar, G. and Krivec, B. and Voga, G. and Sibanc, B. and Blatnik, J. and Jagodic, B.",
+   "journal": "Journal of Toxicology. Clinical Toxicology",
+   "year": "2004",
+   "doi": "10.1081/clt-120028750",
+   "url": "",
+   "link": "https://doi.org/10.1081/clt-120028750",
+   "link_type": "doi",
+   "citation": "Gabrscek, L. and Lesnicar, G. and Krivec, B. and Voga, G. and Sibanc, B. and Blatnik, J. and Jagodic, B (2004) 'Accidental poisoning with autumn crocus', Journal of Toxicology. Clinical Toxicology, 42(1), pp. 85-8. doi:10.1081/clt-120028750",
+   "abstract": "A 43-year-old woman suffered severe multi-organ injury after eating autumn crocus (Colchicum autumnale) mistaken for wild garlic (Allium ursinum). The authors note both plants grow on damp meadows and can be confused in spring when both have leaves but no flowers; three years later she still had muscle weakness and episodic hair loss. Anchors the spring leaf confusion.",
+   "tier": "clinical",
+   "display": "Accidental poisoning with autumn crocus",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2438",

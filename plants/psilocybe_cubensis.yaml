@@ -80,9 +80,29 @@ references:
 - REF-2583
 - REF-2584
 - REF-2585
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: galerina-marginata
+  severity: fatal
+  confused_part: The whole small brown mushroom — cap, ringed stem and gills — especially wood-growing collections. Deadly Galerina grows on the same rotting wood and wood chips as wood-loving Psilocybe.
+  confusion_context: Deadly Galerina (funeral bell) is the amatoxin mushroom most often mistaken for hallucinogenic Psilocybe and eaten by accident; the two are small brown ringed mushrooms that grow side by side on rotting wood and bark mulch. Galerina carries the same liver-destroying amatoxins as the death cap — by weight sometimes higher — and poisoning is deceptively delayed (6 to 24 hours), with a false recovery before catastrophic liver failure. Both have a ring on the stem and grow on wood, so the ring and the substrate do NOT tell them apart.
+  distinguishing_features:
+  - 'Spore-print colour is the only reliable test, and it needs a print taken at home: deadly Galerina drops a RUSTY, cinnamon-brown print; Psilocybe drops a dark purple-brown to blackish-violet print. A rusty-brown print means it is NOT a Psilocybe — do not eat it.'
+  - Psilocybe flesh usually bruises blue-green where handled; deadly Galerina does not. This is only a supporting hint — bluing can be faint or absent and must NEVER override a wrong spore print.
+  key_test: 'There is no safe field mark. Take a spore print (gills down on white paper or foil, covered, several hours): a rusty or cinnamon-brown print = deadly Galerina or another amatoxin mushroom — do not eat it. Only a dark purple-brown to violet-black print is consistent with Psilocybe. Do not forage small brown wood-growing mushrooms without an expert mycologist and a spore print — a single wrong cap can cause fatal liver failure.'
+  reference_ids:
+  - REF-2624
+  - REF-2625
+  - REF-2626
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

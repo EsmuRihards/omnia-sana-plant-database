@@ -131,7 +131,10 @@
   toxicity_category: cardiotoxic
   onset: Delayed (1–several hours)
   default_severity: fatal
-  references: []
+  references:
+  - REF-2621
+  - REF-2622
+  - REF-2623
 
 - id: colchicum-autumnale
   label: Autumn crocus (meadow saffron)
@@ -144,7 +147,11 @@
   toxicity_category: cytotoxic
   onset: Deceptively delayed (2–12 h) then multi-organ failure
   default_severity: fatal
-  references: []
+  references:
+  - REF-2617
+  - REF-2618
+  - REF-2619
+  - REF-2620
 
 - id: arum-maculatum
   label: Lords-and-ladies (cuckoo-pint)
@@ -157,7 +164,8 @@
   toxicity_category: gastrointestinal
   onset: Immediate (on contact/chewing)
   default_severity: dangerous
-  references: []
+  references:
+  - REF-2623
 
 # ============================================================ Elder / chickweed confusables
 - id: sambucus-ebulus
@@ -211,7 +219,10 @@
   toxicity_category: cytotoxic
   onset: Delayed (6–24 h; deceptively symptom-free early)
   default_severity: fatal
-  references: []
+  references:
+  - REF-2624
+  - REF-2625
+  - REF-2626
 
 - id: omphalotus-olearius
   label: Jack-o'-lantern mushroom

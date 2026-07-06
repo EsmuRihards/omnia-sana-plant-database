@@ -1259,7 +1259,9 @@
    "toxicity_category": "neurotoxic",
    "onset": "Very rapid (15–60 min)",
    "default_severity": "fatal",
-   "references": []
+   "references": [
+    "REF-2615"
+   ]
   },
   {
    "id": "sambucus-ebulus",
@@ -1296,7 +1298,10 @@
    "toxicity_category": "neurotoxic",
    "onset": "Rapid (under a few hours)",
    "default_severity": "dangerous",
-   "references": []
+   "references": [
+    "REF-2613",
+    "REF-2614"
+   ]
   },
   {
    "id": "digitalis-purpurea",
@@ -1356,7 +1361,9 @@
    "toxicity_category": "dermatotoxic",
    "onset": "Skin reaction develops 15 min–2 h after sun exposure; blisters peak 2–3 days later",
    "default_severity": "irritant",
-   "references": []
+   "references": [
+    "REF-2616"
+   ]
   },
   {
    "id": "stereum-hirsutum",
@@ -1392,7 +1399,9 @@
    "toxicity_category": "neurotoxic",
    "onset": "Very rapid (30 min–3 h)",
    "default_severity": "fatal",
-   "references": []
+   "references": [
+    "REF-2612"
+   ]
   },
   {
    "id": "omphalotus-olearius",
@@ -1483,7 +1492,10 @@
    "toxicity_category": "neurotoxic",
    "onset": "Rapid (30 min–2 h)",
    "default_severity": "fatal",
-   "references": []
+   "references": [
+    "REF-2610",
+    "REF-2611"
+   ]
   },
   {
    "id": "lysimachia-arvensis",

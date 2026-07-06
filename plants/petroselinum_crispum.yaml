@@ -170,9 +170,44 @@ references:
 - REF-1493
 - REF-1494
 - REF-1495
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: Leaves and stems (foliage); the divided leaves resemble flat-leaf parsley, especially before flowering.
+  confusion_context: Poison hemlock is in the same family as parsley and its foliage is often described as parsley- or carrot-top-like; it can be confused with edible parsley-family plants. Its alkaloid coniine causes a paralysis that stops breathing, and eating even a small amount of any part can be fatal.
+  distinguishing_features:
+  - Poison hemlock stems are smooth, hairless and marked with purple or red spots and streaks; garden parsley stems have no purple blotching.
+  - Crushed poison hemlock smells foul and musty ('mousy'); parsley smells clean and pleasantly herby.
+  - Poison hemlock grows tall (often 1.5 to 3 m) with hollow stems; culinary parsley is a low herb.
+  key_test: 'Inspect the stem: hairless and smooth with purple or red spots and streaks = poison hemlock — do not eat. Confirm with the crushed-plant smell (foul and mousy versus parsley''s pleasant herb scent).'
+  reference_ids:
+  - REF-2610
+  - REF-2611
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: aethusa-cynapium
+  severity: dangerous
+  confused_part: Leaves and foliage; the finely divided glossy leaves closely resemble flat-leaf (Italian) parsley — the origin of the name 'fool's parsley'.
+  confusion_context: Named directly for the confusion with parsley, fool's parsley contains toxic polyacetylenes; poisoning causes burning in the mouth and throat and gastrointestinal and neurological effects, and it is especially a risk to children.
+  distinguishing_features:
+  - In flower, each little umbel of fool's parsley has three or four long, narrow bracteoles hanging downward beneath it (a 'beard'); true parsley has no such long drooping bracteoles.
+  - Crushed fool's parsley smells foul, acrid and mousy; parsley smells clean and pleasantly herby.
+  - Fool's parsley leaves are hairless, more finely divided, and darker and glossier than culinary parsley.
+  key_test: Look under the flower clusters for three or four long, downward-hanging bracteoles (a 'beard') — present in fool's parsley, absent in true parsley — and cross-check the foul mousy smell versus parsley's pleasant scent. If a parsley-like plant only smells 'off' and isn't flowering, don't use it without expert confirmation.
+  reference_ids:
+  - REF-2613
+  - REF-2614
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley).
   Further enriched 2026-06-13 with two PubMed studies - a diuretic mechanism-of-action study (REF-0545,
   Kreydiyyeh & Usta 2002) and a constituents/medicinal review (REF-0546, Mahmood et al. 2014); a furanocoumarins

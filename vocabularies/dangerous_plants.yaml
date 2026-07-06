@@ -22,7 +22,9 @@
   toxicity_category: neurotoxic
   onset: Rapid (30 min–2 h)
   default_severity: fatal
-  references: []
+  references:
+  - REF-2610
+  - REF-2611
 
 - id: cicuta-virosa
   label: Cowbane (European water hemlock)
@@ -35,7 +37,8 @@
   toxicity_category: neurotoxic
   onset: Very rapid (15–60 min)
   default_severity: fatal
-  references: []
+  references:
+  - REF-2615
 
 - id: oenanthe-crocata
   label: Hemlock water-dropwort
@@ -48,7 +51,8 @@
   toxicity_category: neurotoxic
   onset: Very rapid (30 min–3 h)
   default_severity: fatal
-  references: []
+  references:
+  - REF-2612
 
 - id: aethusa-cynapium
   label: Fool's parsley
@@ -61,7 +65,9 @@
   toxicity_category: neurotoxic
   onset: Rapid (under a few hours)
   default_severity: dangerous
-  references: []
+  references:
+  - REF-2613
+  - REF-2614
   editor_notes: Historic toxicity is real but its lethality is milder and more debated than Conium; keep severity 'dangerous' unless a case-report basis supports 'fatal'.
 
 - id: heracleum-mantegazzianum
@@ -75,7 +81,8 @@
   toxicity_category: dermatotoxic
   onset: Skin reaction develops 15 min–2 h after sun exposure; blisters peak 2–3 days later
   default_severity: irritant
-  references: []
+  references:
+  - REF-2616
 
 # ============================================================ Cardiac / alkaloid killers
 - id: veratrum-album

@@ -289,9 +289,68 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: The tall hollow stems, ferny leaves and white umbels — the parts cut for candied or cooked stem or leaf.
+  confusion_context: Poison hemlock is the classic deadly umbellifer confused with edible ones. It shares angelica's tall hollow stem and white umbels, and both can show purple on the stem — but hemlock's is discrete spots and blotches while angelica's is an even flush. Coniine causes a paralysis that stops breathing; a mouthful can be lethal.
+  distinguishing_features:
+  - 'Stem markings: poison hemlock has distinct purple-red spots and blotches scattered on a smooth, hairless stem; angelica''s stem is uniformly green or evenly purple-flushed, never discretely spotted.'
+  - 'Smell: crushed angelica is strongly and pleasantly aromatic (sweet, celery- or juniper-like); crushed poison hemlock smells rank and mousy. A foul mousy smell is a hard no.'
+  - 'Leaf cut: hemlock leaves are finely divided and fern-like; angelica leaflets are broad, large, bright green and coarsely toothed.'
+  key_test: 'Inspect the lower stem in good light: discrete purple-red spots or blotches on a smooth, hairless stem = poison hemlock — do not eat. Angelica''s purple, if any, is an even flush, and it smells sweetly aromatic, never mousy.'
+  reference_ids:
+  - REF-2610
+  - REF-2611
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: cicuta-virosa
+  severity: fatal
+  confused_part: 'Wet-habitat plants: the rootstock and lower stem, plus the tall hollow stems and white umbels.'
+  confusion_context: Water hemlock is among the most violently toxic temperate plants; its cicutoxin causes sudden severe convulsions, often fatal. Its roots have been eaten by mistake for 'wild carrot' and other roots, and it shares angelica's wet, streamside habitat.
+  distinguishing_features:
+  - 'Cut the rootstock lengthwise: water hemlock''s is hollow and chambered (with horizontal cross-partitions) and exudes a yellowish oily juice; angelica''s root is solid. This is the single most reliable trait.'
+  - Water hemlock's lateral leaf-veins run to the notches between the marginal teeth ('vein to the cut'); angelica's veins run to the tips of the teeth.
+  key_test: 'Slice the rootstock lengthwise: a hollow, horizontally chambered root with a yellowish oily juice = water hemlock — do not eat. Angelica''s root is solid.'
+  reference_ids:
+  - REF-2615
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: oenanthe-crocata
+  severity: fatal
+  confused_part: 'Wet-habitat plant: the fleshy root tubers and celery- or parsley-like leaves.'
+  confusion_context: Hemlock water-dropwort is one of the deadliest plants in Britain and western Europe; its oenanthotoxin causes violent convulsions, and its pleasant-smelling fleshy roots and celery-like leaves are notoriously mistaken for edible wild vegetables. It shares angelica's wet streamside habitat.
+  distinguishing_features:
+  - Hemlock water-dropwort has a cluster of pale, fleshy, finger-like root tubers ('dead man's fingers'); angelica has a single solid taproot, not a bunch of tubers.
+  - Its roots can smell pleasant and sweetish, so never use smell to clear it — go by the root form and the wet habitat.
+  key_test: 'Examine the roots: a cluster of pale, fleshy, finger-like tubers in wet ground = hemlock water-dropwort — do not eat. Angelica has one solid taproot. Because its roots can smell pleasant, never rely on smell here.'
+  reference_ids:
+  - REF-2612
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: heracleum-mantegazzianum
+  severity: irritant
+  confused_part: The huge hollow stems and large divided leaves of a tall umbellifer.
+  confusion_context: 'Giant hogweed has the same broad silhouette as angelica (very tall hollow stem, big divided leaves, large white umbels) and grows in similar damp margins. Its main hazard is contact, not eating: its sap contains furanocoumarins that make skin blister and burn severely in sunlight (phytophotodermatitis), leaving long-lasting scars.'
+  distinguishing_features:
+  - 'Size: giant hogweed is enormous — 2 to 5 m tall, with leaves up to 1 to 1.5 m and umbels up to about 50 cm across — dwarfing angelica.'
+  - 'Stem surface: hogweed stems are green with purple blotches AND covered in coarse, stiff white bristles; angelica''s stem is smooth and hairless.'
+  key_test: A massive (over about 2 m) stem with purple blotches AND coarse white bristly hairs = giant hogweed — do not cut or handle it with bare skin, because its sap causes severe sunlight burns. Angelica's stem is smooth and hairless.
+  reference_ids:
+  - REF-2616
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica;
   review of its coumarin columbianetin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited.

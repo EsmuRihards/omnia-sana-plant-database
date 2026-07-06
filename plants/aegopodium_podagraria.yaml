@@ -135,9 +135,57 @@ references:
 - REF-2560
 - REF-2561
 - REF-2562
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: Young leaves and foliage gathered in spring, before flowering.
+  confusion_context: Poison hemlock is a carrot-family plant with lacy foliage that can be mistaken for edible umbellifer greens; its alkaloid coniine causes an ascending paralysis that stops breathing, and even a small amount can be fatal. It grows in the same disturbed ground, hedgerows and waste places as ground elder.
+  distinguishing_features:
+  - Ground elder leaves are in neat groups of three (twice-ternate) with broad, oval, sharply toothed leaflets. Poison hemlock leaves are finely divided, feathery and fern-like — not in groups of three.
+  - Poison hemlock has a hairless stem blotched and streaked with purple; ground elder's stem is plain green and grooved, never purple-spotted.
+  - Crushed ground elder smells mildly of parsley or carrot; crushed poison hemlock smells foul and musty ('mousy').
+  key_test: 'Check the stem: purple blotches or streaks on a smooth, hairless stem = poison hemlock — do not eat. Ground elder has a plain green grooved stem, broad toothed leaflets in threes, and a mild parsley smell (never mousy).'
+  reference_ids:
+  - REF-2610
+  - REF-2611
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: oenanthe-crocata
+  severity: fatal
+  confused_part: Foliage (mistaken for celery or parsley) and roots (mistaken for parsnip), where the plant grows near water.
+  confusion_context: Hemlock water-dropwort is probably the most poisonous plant in Britain; its toxin oenanthotoxin causes violent convulsions, and its parsnip-like roots and celery-like leaves have repeatedly been eaten by mistake, often fatally. It grows in and beside water.
+  distinguishing_features:
+  - 'Habitat is the first filter: hemlock water-dropwort grows in or right beside water (wet ditches, streams, marshes); ground elder grows in dry gardens, hedgerows and disturbed ground.'
+  - Hemlock water-dropwort has a cluster of pale, swollen, finger-like root tubers ('dead man's fingers'); ground elder spreads by thin white creeping rhizomes, not fleshy tubers.
+  key_test: If the plant is growing in or at the edge of water and has a cluster of swollen finger-like root tubers, treat it as hemlock water-dropwort — do not touch the roots. Ground elder grows in dry ground from thin creeping rhizomes.
+  reference_ids:
+  - REF-2612
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
+- dangerous_plant: aethusa-cynapium
+  severity: dangerous
+  confused_part: Young leaves and foliage in spring.
+  confusion_context: Fool's parsley is a common carrot-family weed of gardens and disturbed ground — named for being mistaken for parsley — that contains toxic polyacetylenes and can cause burning of the mouth, vomiting and neurological effects, especially in children.
+  distinguishing_features:
+  - Fool's parsley leaves are finely dissected, thin, dark green and fern-like; ground elder leaves are broad, oval, toothed leaflets in neat groups of three — a coarser, very different leaf.
+  - In flower, fool's parsley shows three long, narrow bracteoles hanging down beneath each small flower cluster (a 'beard'); ground elder umbels have no such drooping beard.
+  - Crushed fool's parsley smells foul and acrid ('mousy'); ground elder smells mildly of parsley or carrot.
+  key_test: Finely dissected fern-like leaves with a foul mousy smell — and, if flowering, a drooping three-part 'beard' under each little umbel — mean fool's parsley, not ground elder (which has broad toothed leaflets in threes and a mild parsley scent).
+  reference_ids:
+  - REF-2613
+  - REF-2614
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-06'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

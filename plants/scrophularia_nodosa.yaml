@@ -162,7 +162,24 @@ references:
 - REF-1043
 - REF-1044
 lookalikes_review:
-  outcome: none-known
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: atropa-belladonna
+  severity: fatal
+  confused_part: Tall shady-ground plant with small dark flowers gathered for herbal use; deadly nightshade grows in similar ground and has been confused with figwort.
+  confusion_context: 'Common figwort (Scrophularia nodosa) is a tall plant of damp woods and hedge banks used in traditional herbal medicine. As the botanical reference First Nature notes, it is sometimes confused with deadly nightshade (Atropa belladonna) - both are shade-loving plants with dull, dark-coloured flowers. Deadly nightshade is one of the most poisonous plants in Europe: its tropane alkaloids (atropine, hyoscyamine, scopolamine) cause a dry flushed skin, dilated pupils, hallucinations, seizures and can be fatal. Because the two can be mistaken, especially by the dark flowers, careful identification matters.'
+  distinguishing_features:
+  - 'Stem (decisive): common figwort has a distinctly SQUARE stem in cross-section. Deadly nightshade has a round stem.'
+  - 'Flower size: figwort''s flowers are tiny (only about 8 mm across), roughly a third the size of deadly nightshade''s larger purplish-brown bell flowers.'
+  - 'Fruit: figwort forms small dry seed capsules, whereas deadly nightshade bears shiny black cherry-sized berries in a green star-shaped calyx - any such berries mean deadly nightshade.'
+  key_test: Feel the stem and look at the flowers/fruit. A square stem with tiny (~8 mm) dark flowers and dry seed capsules = figwort. A round stem, larger brown-purple bell flowers and shiny black berries = deadly nightshade - potentially fatal, do not gather it. If you see black berries, do not use the plant.
+  reference_ids:
+  - REF-2707
+  - REF-2673
+  - REF-2675
+  status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool

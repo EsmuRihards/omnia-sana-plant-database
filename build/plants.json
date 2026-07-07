@@ -5150,10 +5150,31 @@
     "REF-2378"
    ],
    "lookalikes_review": {
-    "outcome": "none-known",
+    "outcome": "has-lookalikes",
     "reviewed_by": "Omnia Sana (owner-authorized)",
     "reviewed_date": "2026-07-07"
    },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "buxus-sempervirens",
+     "severity": "dangerous",
+     "confused_part": "Small leathery evergreen leaves gathered as the medicinal 'uva-ursi'; the poisonous leaves of box look similar and have been used to adulterate bearberry.",
+     "confusion_context": "Bearberry (Arctostaphylos uva-ursi) leaves are collected as a urinary herb. As documented in pharmacognosy, during collection bearberry is commonly confused with cowberry (edible) and with box (Buxus sempervirens), and poisonous box - which lacks bearberry's active arbutin - has occasionally been used to adulterate the drug. Box leaves are poisonous, containing steroidal alkaloids that cause vomiting, diarrhoea, dizziness and, in quantity, convulsions and respiratory failure. Because the small leathery evergreen leaves are similar, box is a genuine toxic adulterant/look-alike of bearberry.",
+     "distinguishing_features": [
+      "Leaf apex (decisive): bearberry leaves are spatulate with an entire (untoothed) margin and a rounded apex. Box leaves have a small notch cut out at the tip (emarginate).",
+      "Leaf underside: box leaves have a loose, separable epidermis on the underside and lack the astringency of bearberry; bearberry leaves are firm and astringent with a net of sunken veins.",
+      "Source: buy uva-ursi only from suppliers who authenticate the leaf, since adulteration with box cannot be judged casually."
+     ],
+     "key_test": "Check the leaf tip. Bearberry leaves are spoon-shaped with a smooth margin and a ROUNDED tip. A leaf with a notch cut out of the tip (and a loose skin on the underside) is box - poisonous, not bearberry. Use only authenticated uva-ursi.",
+     "reference_ids": [
+      "REF-2698",
+      "REF-2699"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-07-07",
@@ -9854,10 +9875,31 @@
     "REF-1667"
    ],
    "lookalikes_review": {
-    "outcome": "none-known",
+    "outcome": "has-lookalikes",
     "reviewed_by": "Omnia Sana (owner-authorized)",
     "reviewed_date": "2026-07-07"
    },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "veratrum-album",
+     "severity": "fatal",
+     "confused_part": "Young spring shoots gathered as an asparagus-like vegetable; the emerging shoots of highly toxic false hellebore can look similar.",
+     "confusion_context": "Fireweed / rosebay willowherb (Chamerion angustifolium) young shoots are foraged in spring like asparagus. As foraging guidance (and the US Forest Service) warns, emerging fireweed shoots can resemble highly toxic members of the lily family, notably false hellebore (Veratrum), which shares moist ground and an upright early-spring habit. False hellebore is deadly, containing steroidal alkaloids that cause vomiting, collapse of blood pressure and heart-rhythm disturbances. Fortunately fireweed has an unmistakable leaf feature that separates it at every stage.",
+     "distinguishing_features": [
+      "Leaf veins (decisive): fireweed's lateral leaf veins loop back and join together INSIDE the leaf margin, rather than running out to the edge - a unique 'looping vein' pattern. False hellebore veins run straight out to the leaf edge.",
+      "Leaf texture/arrangement: fireweed has narrow, smooth, lance-shaped leaves; false hellebore has large, broad, heavily PLEATED (accordion-ribbed) alternate leaves clasping the stem.",
+      "Habit: a stout shoot with broad pleated leaves is false hellebore, not the slender fireweed shoot."
+     ],
+     "key_test": "Look at the leaf veins. Fireweed's side veins curve and join together just inside the leaf edge (looping), on narrow smooth leaves. Broad, deeply pleated (accordion-ribbed) leaves with veins running straight to the edge = false hellebore (Veratrum) - deadly, do not eat. If the leaves are pleated, discard it.",
+     "reference_ids": [
+      "REF-2706",
+      "REF-2599"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-07-07",
@@ -19847,10 +19889,50 @@
     }
    ],
    "lookalikes_review": {
-    "outcome": "none-known",
+    "outcome": "has-lookalikes",
     "reviewed_by": "Omnia Sana (owner-authorized)",
     "reviewed_date": "2026-07-07"
    },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "podophyllum-peltatum",
+     "severity": "dangerous",
+     "confused_part": "Woodland rhizome dug as goldenseal; mayapple shares the same rich woods and has similar lobed, maple-like leaves.",
+     "confusion_context": "Goldenseal (Hydrastis canadensis) is dug from rich woodland for its yellow rhizome. Mayapple (Podophyllum peltatum) grows in the same rich-woods habitat and, once its leaves expand, its lobed maple-like leaves resemble goldenseal, so novice foragers confuse them. Mayapple contains podophyllotoxin (a potent cell poison) in all parts except the ripe fruit; ingestion causes severe vomiting and diarrhoea and can cause serious systemic toxicity. Because the plants share habitat and leaf shape, this is a genuine hazard when digging goldenseal.",
+     "distinguishing_features": [
+      "Whole plant: goldenseal has a hairy upright stem bearing usually two ragged, maple-like lobed leaves and a single small flower, with a knotted BRIGHT-YELLOW rhizome. Mayapple has one or two large, smooth, umbrella-like lobed leaves on a hairless stalk and a white flower nodding beneath, with a white-ish creeping rhizome.",
+      "Rhizome colour (decisive): goldenseal's rhizome and root are vivid yellow inside (berberine). Mayapple's rhizome is not bright yellow.",
+      "Leaf texture: goldenseal leaves are hairy and puckered; mayapple leaves are large, smooth and shield-like (the stalk joins near the centre)."
+     ],
+     "key_test": "Dig only after matching the whole plant, and check the rhizome. A hairy stem with ragged maple-like leaves over a BRIGHT-YELLOW knotted rhizome = goldenseal. Large smooth umbrella-like leaves over a pale rhizome (no yellow) = mayapple - toxic, do not use. If the root is not bright yellow inside, do not use it.",
+     "reference_ids": [
+      "REF-2702",
+      "REF-2703"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    },
+    {
+     "dangerous_plant": "sanguinaria-canadensis",
+     "severity": "dangerous",
+     "confused_part": "Woodland rhizome dug as goldenseal; bloodroot grows in the same rich woods and its rhizome is gathered in mistake for goldenseal.",
+     "confusion_context": "Bloodroot (Sanguinaria canadensis) shares the same rich-woods spring habitat as goldenseal and is listed among goldenseal's harvesting look-alikes. Bloodroot is a high-severity poison: its rhizome contains isoquinoline alkaloids (sanguinarine) and, when broken, oozes a bright red-orange sap; ingestion causes vomiting, faintness, dizziness, dilated pupils and, in serious cases, heart failure, and the sap is destructive to tissue. Because both are dug for their rhizomes from the same woodland, this is a genuine hazard.",
+     "distinguishing_features": [
+      "Sap colour (decisive): a broken bloodroot rhizome bleeds a bright RED-ORANGE sap. Goldenseal's rhizome is BRIGHT YELLOW inside, not red.",
+      "Leaf: bloodroot has a single, rounded, deeply scalloped/lobed grey-green leaf that wraps the flower stalk, and a white flower; goldenseal has a hairy stem with two ragged maple-like leaves.",
+      "Whole plant: confirm goldenseal by its paired hairy maple-like leaves and yellow root before digging."
+     ],
+     "key_test": "Break the rhizome and look at the sap and leaves. Bright YELLOW root with paired hairy maple-like leaves = goldenseal. A single scalloped leaf and a rhizome bleeding RED-ORANGE sap = bloodroot - a high-severity poison, do not use. If the sap is red, it is not goldenseal.",
+     "reference_ids": [
+      "REF-2702",
+      "REF-2704"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-07-07",
@@ -26413,10 +26495,31 @@
     "REF-2588"
    ],
    "lookalikes_review": {
-    "outcome": "none-known",
+    "outcome": "has-lookalikes",
     "reviewed_by": "Omnia Sana (owner-authorized)",
     "reviewed_date": "2026-07-07"
    },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "digitalis-purpurea",
+     "severity": "fatal",
+     "confused_part": "First-year basal rosette leaves gathered as an edible/medicinal; deadly foxglove forms a very similar first-year rosette.",
+     "confusion_context": "Evening primrose (Oenothera biennis) is a biennial whose first-year rosette leaves (and later shoots and flowers) are eaten and used. As Totally Wild UK warns, a beginner could confuse the first-year rosette with deadly foxglove (Digitalis purpurea), because they share a similar first-year 'tick list' - both form rosettes of soft, pointed, sometimes pink-tinged leaves. Foxglove is potentially fatal: its leaves contain cardiac glycosides that disturb the heart rhythm. Because the rosettes are alike before either plant flowers, this is a genuine and potentially deadly confusion.",
+     "distinguishing_features": [
+      "Leaf hairiness and margin: foxglove leaves are softly hairy and much wider with a clearly serrated (toothed) margin and a net of sunken veins. Evening primrose leaves are narrower, far less hairy, with only a wavy (not toothed) margin.",
+      "Midrib: evening primrose has a distinctive prominent white/pale midrib, often red-tinged; foxglove has a greyer, downier leaf with net veins.",
+      "Best practice: do not eat any rosette leaf unless you have confirmed evening primrose (ideally seeing the plant's later stem or flowers); if the leaf is broad, soft-hairy and toothed, treat it as foxglove."
+     ],
+     "key_test": "Compare the leaves. Narrow, nearly hairless leaves with a wavy margin and a bold white midrib = evening primrose. Broad, softly hairy leaves with a toothed (serrated) margin and net veins = foxglove - deadly, do not eat. If in any doubt, do not gather the rosette.",
+     "reference_ids": [
+      "REF-2700",
+      "REF-2603"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-07-07",
@@ -35555,10 +35658,32 @@
     "REF-1044"
    ],
    "lookalikes_review": {
-    "outcome": "none-known",
+    "outcome": "has-lookalikes",
     "reviewed_by": "Omnia Sana (owner-authorized)",
     "reviewed_date": "2026-07-07"
    },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "atropa-belladonna",
+     "severity": "fatal",
+     "confused_part": "Tall shady-ground plant with small dark flowers gathered for herbal use; deadly nightshade grows in similar ground and has been confused with figwort.",
+     "confusion_context": "Common figwort (Scrophularia nodosa) is a tall plant of damp woods and hedge banks used in traditional herbal medicine. As the botanical reference First Nature notes, it is sometimes confused with deadly nightshade (Atropa belladonna) - both are shade-loving plants with dull, dark-coloured flowers. Deadly nightshade is one of the most poisonous plants in Europe: its tropane alkaloids (atropine, hyoscyamine, scopolamine) cause a dry flushed skin, dilated pupils, hallucinations, seizures and can be fatal. Because the two can be mistaken, especially by the dark flowers, careful identification matters.",
+     "distinguishing_features": [
+      "Stem (decisive): common figwort has a distinctly SQUARE stem in cross-section. Deadly nightshade has a round stem.",
+      "Flower size: figwort's flowers are tiny (only about 8 mm across), roughly a third the size of deadly nightshade's larger purplish-brown bell flowers.",
+      "Fruit: figwort forms small dry seed capsules, whereas deadly nightshade bears shiny black cherry-sized berries in a green star-shaped calyx - any such berries mean deadly nightshade."
+     ],
+     "key_test": "Feel the stem and look at the flowers/fruit. A square stem with tiny (~8 mm) dark flowers and dry seed capsules = figwort. A round stem, larger brown-purple bell flowers and shiny black berries = deadly nightshade - potentially fatal, do not gather it. If you see black berries, do not use the plant.",
+     "reference_ids": [
+      "REF-2707",
+      "REF-2673",
+      "REF-2675"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
    "last_updated": "2026-07-07",
@@ -36310,10 +36435,32 @@
     "REF-1054"
    ],
    "lookalikes_review": {
-    "outcome": "none-known",
+    "outcome": "has-lookalikes",
     "reviewed_by": "Omnia Sana (owner-authorized)",
     "reviewed_date": "2026-07-07"
    },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "jacobaea-vulgaris",
+     "severity": "dangerous",
+     "confused_part": "Yellow-flowered plant gathered for its flowering tops; toxic ragwort shares the yellow colour and the same rough grassland.",
+     "confusion_context": "Goldenrod (Solidago virgaurea) is gathered for its yellow flowering tops. As foraging guidance notes, goldenrod has toxic look-alikes - notably ragwort (Jacobaea vulgaris / Senecio jacobaea), a yellow-flowered weed of the same rough grassland. Ragwort contains hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage and can be fatal, with highest risk once the plant is cut or dried into herbal material or hay. Because both are yellow-flowered plants of the same ground, correct identification matters before gathering.",
+     "distinguishing_features": [
+      "Flowers (decisive): goldenrod carries many tiny flower heads packed into a plume or spray. Ragwort has larger, open, daisy-like yellow flowers (with about 13 spreading ray petals) in flat-topped clusters, and fewer heads.",
+      "Leaves: goldenrod leaves are simple, lance-shaped and toothed; ragwort leaves are blunter, deeply lobed and ruffled ('kale-like').",
+      "Timing: ragwort tends to flower earlier than goldenrod."
+     ],
+     "key_test": "Look at the flower heads. Many tiny florets in a feathery plume on a leafy stem = goldenrod. Larger open daisy-like yellow flowers with about 13 petals and ruffled lobed leaves = ragwort - liver-toxic, do not gather it.",
+     "reference_ids": [
+      "REF-2705",
+      "REF-2689",
+      "REF-2690"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-07-07",
@@ -41344,10 +41491,32 @@
     }
    ],
    "lookalikes_review": {
-    "outcome": "none-known",
+    "outcome": "has-lookalikes",
     "reviewed_by": "Omnia Sana (owner-authorized)",
     "reviewed_date": "2026-07-07"
    },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "conium-maculatum",
+     "severity": "fatal",
+     "confused_part": "Tall damp-ground plant with divided leaves and clusters of tiny white/pink flowers gathered for its root; poison hemlock has a similar growth habit and white flowers.",
+     "confusion_context": "Valerian (Valeriana officinalis) is a tall plant of damp ground, dug for its sedative root. As Practical Self Reliance warns, other plants with a similar growth habit and white flowers are deadly toxic - namely poison hemlock (Conium maculatum), which shares the damp habitat and tall stature; water hemlock (Cicuta) can grow in the same wet ground. Poison hemlock contains coniine and kills by paralysis and respiratory failure. Because valerian's divided leaves and frothy pale flower clusters can be taken for a hemlock at a glance, careful identification is essential.",
+     "distinguishing_features": [
+      "Leaf and flower structure: valerian has OPPOSITE, pinnately divided leaves and domed clusters (cymes) of tiny pink-tinged white flowers. Poison hemlock has alternate, finely feathery (fern-like) leaves and flat-topped white umbels.",
+      "Stem: poison hemlock has a hairless stem conspicuously blotched and streaked with red-purple, especially near the base. Valerian stems are plain green and grooved, without purple blotches.",
+      "Smell: the pulled valerian root smells unmistakably of dirty socks/earthy funk; poison hemlock smells rank, musty and mouse-like."
+     ],
+     "key_test": "Check the stem, leaves and root smell. Opposite divided leaves, a plain green stem, domed pink-white flower clusters and a dirty-sock root smell = valerian. A hairless stem with red-purple blotches, feathery leaves, flat white umbels and a musty/mousy smell = poison hemlock - deadly, do not gather. If the stem is purple-blotched, do not touch it to your mouth.",
+     "reference_ids": [
+      "REF-2701",
+      "REF-2610",
+      "REF-2611"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-07-07",

@@ -160,7 +160,24 @@ pairings:
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 lookalikes_review:
-  outcome: none-known
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: Tall damp-ground plant with divided leaves and clusters of tiny white/pink flowers gathered for its root; poison hemlock has a similar growth habit and white flowers.
+  confusion_context: Valerian (Valeriana officinalis) is a tall plant of damp ground, dug for its sedative root. As Practical Self Reliance warns, other plants with a similar growth habit and white flowers are deadly toxic - namely poison hemlock (Conium maculatum), which shares the damp habitat and tall stature; water hemlock (Cicuta) can grow in the same wet ground. Poison hemlock contains coniine and kills by paralysis and respiratory failure. Because valerian's divided leaves and frothy pale flower clusters can be taken for a hemlock at a glance, careful identification is essential.
+  distinguishing_features:
+  - 'Leaf and flower structure: valerian has OPPOSITE, pinnately divided leaves and domed clusters (cymes) of tiny pink-tinged white flowers. Poison hemlock has alternate, finely feathery (fern-like) leaves and flat-topped white umbels.'
+  - 'Stem: poison hemlock has a hairless stem conspicuously blotched and streaked with red-purple, especially near the base. Valerian stems are plain green and grooved, without purple blotches.'
+  - 'Smell: the pulled valerian root smells unmistakably of dirty socks/earthy funk; poison hemlock smells rank, musty and mouse-like.'
+  key_test: Check the stem, leaves and root smell. Opposite divided leaves, a plain green stem, domed pink-white flower clusters and a dirty-sock root smell = valerian. A hairless stem with red-purple blotches, feathery leaves, flat white umbels and a musty/mousy smell = poison hemlock - deadly, do not gather. If the stem is purple-blotched, do not touch it to your mouth.
+  reference_ids:
+  - REF-2701
+  - REF-2610
+  - REF-2611
+  status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed

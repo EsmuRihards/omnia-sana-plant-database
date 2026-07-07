@@ -106,7 +106,23 @@ references:
 - REF-2587
 - REF-2588
 lookalikes_review:
-  outcome: none-known
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: digitalis-purpurea
+  severity: fatal
+  confused_part: First-year basal rosette leaves gathered as an edible/medicinal; deadly foxglove forms a very similar first-year rosette.
+  confusion_context: 'Evening primrose (Oenothera biennis) is a biennial whose first-year rosette leaves (and later shoots and flowers) are eaten and used. As Totally Wild UK warns, a beginner could confuse the first-year rosette with deadly foxglove (Digitalis purpurea), because they share a similar first-year ''tick list'' - both form rosettes of soft, pointed, sometimes pink-tinged leaves. Foxglove is potentially fatal: its leaves contain cardiac glycosides that disturb the heart rhythm. Because the rosettes are alike before either plant flowers, this is a genuine and potentially deadly confusion.'
+  distinguishing_features:
+  - 'Leaf hairiness and margin: foxglove leaves are softly hairy and much wider with a clearly serrated (toothed) margin and a net of sunken veins. Evening primrose leaves are narrower, far less hairy, with only a wavy (not toothed) margin.'
+  - 'Midrib: evening primrose has a distinctive prominent white/pale midrib, often red-tinged; foxglove has a greyer, downier leaf with net veins.'
+  - 'Best practice: do not eat any rosette leaf unless you have confirmed evening primrose (ideally seeing the plant''s later stem or flowers); if the leaf is broad, soft-hairy and toothed, treat it as foxglove.'
+  key_test: Compare the leaves. Narrow, nearly hairless leaves with a wavy margin and a bold white midrib = evening primrose. Broad, softly hairy leaves with a toothed (serrated) margin and net veins = foxglove - deadly, do not eat. If in any doubt, do not gather the rosette.
+  reference_ids:
+  - REF-2700
+  - REF-2603
+  status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool

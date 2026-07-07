@@ -572,3 +572,48 @@
   default_severity: irritant
   references:
   - REF-2697
+
+- id: buxus-sempervirens
+  label: Box
+  scientific_name: Buxus sempervirens
+  family: Buxaceae
+  kingdom: plant
+  synonyms: ["boxwood", "common box", "European box"]
+  toxic_principle: Steroidal alkaloids (buxine/cyclobuxine and related) in the leaves.
+  toxicity: A dense evergreen hedge and topiary shrub whose leaves are poisonous. Ingestion causes nausea, vomiting, diarrhoea and dizziness and, in larger amounts, convulsions and respiratory failure, and the sap can irritate skin. Its small leathery evergreen leaves have been used to adulterate, and are confused with, bearberry (uva-ursi) leaves.
+  toxicity_category: mixed
+  onset: Gastrointestinal and neurological symptoms within hours of ingestion
+  default_severity: dangerous
+  references:
+  - REF-2699
+  - REF-2698
+
+- id: podophyllum-peltatum
+  label: Mayapple
+  scientific_name: Podophyllum peltatum
+  family: Berberidaceae
+  kingdom: plant
+  synonyms: ["mayapple", "American mandrake", "devil's apple"]
+  toxic_principle: Podophyllotoxin and related lignans (a potent antimitotic cell poison) in the rhizome, roots, leaves and unripe fruit.
+  toxicity: A woodland plant with umbrella-like lobed leaves. All parts except the ripe fruit contain podophyllotoxin; ingestion causes severe nausea, vomiting and diarrhoea and, in quantity, serious systemic toxicity. Its lobed maple-like leaves and rich-woods habitat cause it to be confused with goldenseal.
+  toxicity_category: gastrointestinal
+  onset: Severe gastrointestinal symptoms within a few hours; systemic effects can follow
+  default_severity: dangerous
+  references:
+  - REF-2703
+  - REF-2702
+
+- id: sanguinaria-canadensis
+  label: Bloodroot
+  scientific_name: Sanguinaria canadensis
+  family: Papaveraceae
+  kingdom: plant
+  synonyms: ["bloodroot", "bloodwort", "red puccoon"]
+  toxic_principle: Isoquinoline alkaloids (sanguinarine and related) in the rhizome and its red-orange sap.
+  toxicity: A spring woodland plant with a single lobed leaf and red-orange sap in its rhizome. Classed as a high-severity poison - ingestion of the root causes nausea, vomiting, faintness, dizziness, dilated pupils and, in serious cases, collapse and heart failure, and sanguinarine is also destructive (escharotic) to tissue. It shares rich-woods habitat with goldenseal and is confused with it during harvesting.
+  toxicity_category: cardiotoxic
+  onset: Within hours of ingestion
+  default_severity: dangerous
+  references:
+  - REF-2704
+  - REF-2702

@@ -180,7 +180,23 @@ references:
 - REF-1666
 - REF-1667
 lookalikes_review:
-  outcome: none-known
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: veratrum-album
+  severity: fatal
+  confused_part: Young spring shoots gathered as an asparagus-like vegetable; the emerging shoots of highly toxic false hellebore can look similar.
+  confusion_context: Fireweed / rosebay willowherb (Chamerion angustifolium) young shoots are foraged in spring like asparagus. As foraging guidance (and the US Forest Service) warns, emerging fireweed shoots can resemble highly toxic members of the lily family, notably false hellebore (Veratrum), which shares moist ground and an upright early-spring habit. False hellebore is deadly, containing steroidal alkaloids that cause vomiting, collapse of blood pressure and heart-rhythm disturbances. Fortunately fireweed has an unmistakable leaf feature that separates it at every stage.
+  distinguishing_features:
+  - 'Leaf veins (decisive): fireweed''s lateral leaf veins loop back and join together INSIDE the leaf margin, rather than running out to the edge - a unique ''looping vein'' pattern. False hellebore veins run straight out to the leaf edge.'
+  - 'Leaf texture/arrangement: fireweed has narrow, smooth, lance-shaped leaves; false hellebore has large, broad, heavily PLEATED (accordion-ribbed) alternate leaves clasping the stem.'
+  - 'Habit: a stout shoot with broad pleated leaves is false hellebore, not the slender fireweed shoot.'
+  key_test: Look at the leaf veins. Fireweed's side veins curve and join together just inside the leaf edge (looping), on narrow smooth leaves. Broad, deeply pleated (accordion-ribbed) leaves with veins running straight to the edge = false hellebore (Veratrum) - deadly, do not eat. If the leaves are pleated, discard it.
+  reference_ids:
+  - REF-2706
+  - REF-2599
+  status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed

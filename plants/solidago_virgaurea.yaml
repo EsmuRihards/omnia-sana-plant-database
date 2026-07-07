@@ -119,7 +119,24 @@ references:
 - REF-1053
 - REF-1054
 lookalikes_review:
-  outcome: none-known
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: jacobaea-vulgaris
+  severity: dangerous
+  confused_part: Yellow-flowered plant gathered for its flowering tops; toxic ragwort shares the yellow colour and the same rough grassland.
+  confusion_context: Goldenrod (Solidago virgaurea) is gathered for its yellow flowering tops. As foraging guidance notes, goldenrod has toxic look-alikes - notably ragwort (Jacobaea vulgaris / Senecio jacobaea), a yellow-flowered weed of the same rough grassland. Ragwort contains hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage and can be fatal, with highest risk once the plant is cut or dried into herbal material or hay. Because both are yellow-flowered plants of the same ground, correct identification matters before gathering.
+  distinguishing_features:
+  - 'Flowers (decisive): goldenrod carries many tiny flower heads packed into a plume or spray. Ragwort has larger, open, daisy-like yellow flowers (with about 13 spreading ray petals) in flat-topped clusters, and fewer heads.'
+  - 'Leaves: goldenrod leaves are simple, lance-shaped and toothed; ragwort leaves are blunter, deeply lobed and ruffled (''kale-like'').'
+  - 'Timing: ragwort tends to flower earlier than goldenrod.'
+  key_test: Look at the flower heads. Many tiny florets in a feathery plume on a leafy stem = goldenrod. Larger open daisy-like yellow flowers with about 13 petals and ruffled lobed leaves = ragwort - liver-toxic, do not gather it.
+  reference_ids:
+  - REF-2705
+  - REF-2689
+  - REF-2690
+  status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed

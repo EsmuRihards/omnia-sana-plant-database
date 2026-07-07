@@ -151,7 +151,38 @@ drug_class_interactions:
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 lookalikes_review:
-  outcome: none-known
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: podophyllum-peltatum
+  severity: dangerous
+  confused_part: Woodland rhizome dug as goldenseal; mayapple shares the same rich woods and has similar lobed, maple-like leaves.
+  confusion_context: Goldenseal (Hydrastis canadensis) is dug from rich woodland for its yellow rhizome. Mayapple (Podophyllum peltatum) grows in the same rich-woods habitat and, once its leaves expand, its lobed maple-like leaves resemble goldenseal, so novice foragers confuse them. Mayapple contains podophyllotoxin (a potent cell poison) in all parts except the ripe fruit; ingestion causes severe vomiting and diarrhoea and can cause serious systemic toxicity. Because the plants share habitat and leaf shape, this is a genuine hazard when digging goldenseal.
+  distinguishing_features:
+  - 'Whole plant: goldenseal has a hairy upright stem bearing usually two ragged, maple-like lobed leaves and a single small flower, with a knotted BRIGHT-YELLOW rhizome. Mayapple has one or two large, smooth, umbrella-like lobed leaves on a hairless stalk and a white flower nodding beneath, with a white-ish creeping rhizome.'
+  - 'Rhizome colour (decisive): goldenseal''s rhizome and root are vivid yellow inside (berberine). Mayapple''s rhizome is not bright yellow.'
+  - 'Leaf texture: goldenseal leaves are hairy and puckered; mayapple leaves are large, smooth and shield-like (the stalk joins near the centre).'
+  key_test: Dig only after matching the whole plant, and check the rhizome. A hairy stem with ragged maple-like leaves over a BRIGHT-YELLOW knotted rhizome = goldenseal. Large smooth umbrella-like leaves over a pale rhizome (no yellow) = mayapple - toxic, do not use. If the root is not bright yellow inside, do not use it.
+  reference_ids:
+  - REF-2702
+  - REF-2703
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+- dangerous_plant: sanguinaria-canadensis
+  severity: dangerous
+  confused_part: Woodland rhizome dug as goldenseal; bloodroot grows in the same rich woods and its rhizome is gathered in mistake for goldenseal.
+  confusion_context: 'Bloodroot (Sanguinaria canadensis) shares the same rich-woods spring habitat as goldenseal and is listed among goldenseal''s harvesting look-alikes. Bloodroot is a high-severity poison: its rhizome contains isoquinoline alkaloids (sanguinarine) and, when broken, oozes a bright red-orange sap; ingestion causes vomiting, faintness, dizziness, dilated pupils and, in serious cases, heart failure, and the sap is destructive to tissue. Because both are dug for their rhizomes from the same woodland, this is a genuine hazard.'
+  distinguishing_features:
+  - 'Sap colour (decisive): a broken bloodroot rhizome bleeds a bright RED-ORANGE sap. Goldenseal''s rhizome is BRIGHT YELLOW inside, not red.'
+  - 'Leaf: bloodroot has a single, rounded, deeply scalloped/lobed grey-green leaf that wraps the flower stalk, and a white flower; goldenseal has a hairy stem with two ragged maple-like leaves.'
+  - 'Whole plant: confirm goldenseal by its paired hairy maple-like leaves and yellow root before digging.'
+  key_test: Break the rhizome and look at the sap and leaves. Bright YELLOW root with paired hairy maple-like leaves = goldenseal. A single scalloped leaf and a rhizome bleeding RED-ORANGE sap = bloodroot - a high-severity poison, do not use. If the sap is red, it is not goldenseal.
+  reference_ids:
+  - REF-2702
+  - REF-2704
+  status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool

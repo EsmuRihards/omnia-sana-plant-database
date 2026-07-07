@@ -112,9 +112,29 @@ references:
 - REF-2400
 - REF-2401
 - REF-2589
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: actaea-pachypoda
+  severity: dangerous
+  confused_part: Woodland rhizome dug as black cohosh; toxic baneberries (doll's eye and red baneberry) share very similar foliage and rhizomes and are gathered in mistake for it.
+  confusion_context: 'Black cohosh (Actaea racemosa) is dug for its rhizome, but several related North American Actaea species - notably doll''s eye (Actaea pachypoda) and red baneberry (Actaea rubra) - have very similar woodland foliage and rhizomes and are easily mistaken for it during harvesting. Those baneberries are toxic in all parts: ingestion causes burning of the mouth, severe vomiting and diarrhoea and seizures, and red baneberry can be fatal, especially in children. Peer-reviewed work confirms commercial black cohosh is frequently adulterated with other Actaea species, contributing to safety concerns. Because the plants look alike - especially in spring before flowers or fruit appear - this is a genuine hazard.'
+  distinguishing_features:
+  - 'Fruit (decisive when present): black cohosh bears a tall wand of fluffy white flowers that ripens to dry, papery seed pods. Baneberries instead bear clusters of shiny berries - chalk-white with a black eye (doll''s eye) or glossy red (red baneberry). Any fleshy berries mean baneberry, not black cohosh.'
+  - 'Flower: black cohosh has long, showy white bottlebrush flower spikes; baneberry flowers are in short, rounded fluffy clusters.'
+  - 'Vegetative caution: in spring the leaves alone are very similar (Actaea foliage), so do not dig by leaf alone - the species are separated mainly on flowers and fruit. Confirm the plant in flower or fruit, or buy authenticated black cohosh.'
+  key_test: Identify the plant in flower or fruit before digging. Black cohosh has tall white bottlebrush flower spikes that turn into dry papery pods; baneberry makes clusters of shiny white-with-black-dot or red berries. If you see fleshy berries - or cannot confirm flowers or fruit - do not dig the root; the baneberries are toxic. When in doubt, buy authenticated black cohosh.
+  reference_ids:
+  - REF-2682
+  - REF-2683
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative
   Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations

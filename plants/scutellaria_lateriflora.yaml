@@ -109,9 +109,29 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: teucrium-chamaedrys
+  severity: dangerous
+  confused_part: Dried aerial herb sold or gathered as 'skullcap'; the hepatotoxic herb germander has repeatedly been substituted for or mixed with skullcap in the herb trade.
+  confusion_context: American skullcap (Scutellaria lateriflora) is used as a calming herb, but it has repeatedly been adulterated with germander (Teucrium canadense or T. chamaedrys) in the North American herb trade. Germander contains hepatotoxic neo-clerodane diterpenoids and has caused numerous cases of acute hepatitis, some progressing to liver failure; skullcap products contaminated with germander gave 'skullcap' an undeserved reputation for liver toxicity, and a USDA analysis found several commercial 'skullcap' supplements actually contained germander. Because the dried herbs look similar and the substitution persists, this is a real hazard.
+  distinguishing_features:
+  - 'Source and testing: the two dried herbs are hard to tell apart by eye, so buy skullcap only from suppliers who authenticate the species - genuine skullcap is rich in flavonoids, whereas germander carries the phenylethanoids verbascoside and teucrioside, and reputable products are laboratory-tested against germander adulteration.'
+  - 'Living plant: American skullcap has paired (opposite) leaves and small blue two-lipped flowers borne in one-sided leafy racemes from the leaf axils. Germander (Teucrium) has scalloped, oak-like or narrow leaves and pinkish-purple whorled flower spikes.'
+  - 'Caution: because adulteration is common and cannot be judged from a powder, treat any unverified ''skullcap'' with caution, especially if you have liver concerns.'
+  key_test: 'You usually cannot tell adulterated skullcap from germander by eye, so rely on the source: use only skullcap that a reputable supplier has laboratory-authenticated as Scutellaria lateriflora and tested for germander (Teucrium). On the living plant, skullcap has opposite leaves and small blue flowers in one-sided axillary racemes, unlike germander''s whorled pinkish flower spikes. If the source is unverified, do not use it - germander can seriously damage the liver.'
+  reference_ids:
+  - REF-2680
+  - REF-2681
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytomedicine phytochemical/anxiolytic
   study). Further enriched 2026-06-13 with two PubMed sources - a randomised, double-blind, placebo-controlled
   crossover mood trial (REF-0551, Brock et al. 2014) and an HPLC study of flavonoid-marker variability

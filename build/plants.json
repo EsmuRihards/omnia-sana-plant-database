@@ -943,9 +943,35 @@
     "REF-2401",
     "REF-2589"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "actaea-pachypoda",
+     "severity": "dangerous",
+     "confused_part": "Woodland rhizome dug as black cohosh; toxic baneberries (doll's eye and red baneberry) share very similar foliage and rhizomes and are gathered in mistake for it.",
+     "confusion_context": "Black cohosh (Actaea racemosa) is dug for its rhizome, but several related North American Actaea species - notably doll's eye (Actaea pachypoda) and red baneberry (Actaea rubra) - have very similar woodland foliage and rhizomes and are easily mistaken for it during harvesting. Those baneberries are toxic in all parts: ingestion causes burning of the mouth, severe vomiting and diarrhoea and seizures, and red baneberry can be fatal, especially in children. Peer-reviewed work confirms commercial black cohosh is frequently adulterated with other Actaea species, contributing to safety concerns. Because the plants look alike - especially in spring before flowers or fruit appear - this is a genuine hazard.",
+     "distinguishing_features": [
+      "Fruit (decisive when present): black cohosh bears a tall wand of fluffy white flowers that ripens to dry, papery seed pods. Baneberries instead bear clusters of shiny berries - chalk-white with a black eye (doll's eye) or glossy red (red baneberry). Any fleshy berries mean baneberry, not black cohosh.",
+      "Flower: black cohosh has long, showy white bottlebrush flower spikes; baneberry flowers are in short, rounded fluffy clusters.",
+      "Vegetative caution: in spring the leaves alone are very similar (Actaea foliage), so do not dig by leaf alone - the species are separated mainly on flowers and fruit. Confirm the plant in flower or fruit, or buy authenticated black cohosh."
+     ],
+     "key_test": "Identify the plant in flower or fruit before digging. Black cohosh has tall white bottlebrush flower spikes that turn into dry papery pods; baneberry makes clusters of shiny white-with-black-dot or red berries. If you see fleshy berries - or cannot confirm flowers or fruit - do not dig the root; the baneberries are toxic. When in doubt, buy authenticated black cohosh.",
+     "reference_ids": [
+      "REF-2682",
+      "REF-2683"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "black-cohosh"
   },
   {
@@ -35471,9 +35497,35 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "teucrium-chamaedrys",
+     "severity": "dangerous",
+     "confused_part": "Dried aerial herb sold or gathered as 'skullcap'; the hepatotoxic herb germander has repeatedly been substituted for or mixed with skullcap in the herb trade.",
+     "confusion_context": "American skullcap (Scutellaria lateriflora) is used as a calming herb, but it has repeatedly been adulterated with germander (Teucrium canadense or T. chamaedrys) in the North American herb trade. Germander contains hepatotoxic neo-clerodane diterpenoids and has caused numerous cases of acute hepatitis, some progressing to liver failure; skullcap products contaminated with germander gave 'skullcap' an undeserved reputation for liver toxicity, and a USDA analysis found several commercial 'skullcap' supplements actually contained germander. Because the dried herbs look similar and the substitution persists, this is a real hazard.",
+     "distinguishing_features": [
+      "Source and testing: the two dried herbs are hard to tell apart by eye, so buy skullcap only from suppliers who authenticate the species - genuine skullcap is rich in flavonoids, whereas germander carries the phenylethanoids verbascoside and teucrioside, and reputable products are laboratory-tested against germander adulteration.",
+      "Living plant: American skullcap has paired (opposite) leaves and small blue two-lipped flowers borne in one-sided leafy racemes from the leaf axils. Germander (Teucrium) has scalloped, oak-like or narrow leaves and pinkish-purple whorled flower spikes.",
+      "Caution: because adulteration is common and cannot be judged from a powder, treat any unverified 'skullcap' with caution, especially if you have liver concerns."
+     ],
+     "key_test": "You usually cannot tell adulterated skullcap from germander by eye, so rely on the source: use only skullcap that a reputable supplier has laboratory-authenticated as Scutellaria lateriflora and tested for germander (Teucrium). On the living plant, skullcap has opposite leaves and small blue flowers in one-sided axillary racemes, unlike germander's whorled pinkish flower spikes. If the source is unverified, do not use it - germander can seriously damage the liver.",
+     "reference_ids": [
+      "REF-2680",
+      "REF-2681"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "skullcap"
   },
   {

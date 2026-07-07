@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 47,
- "plants_covered": 146,
+ "count": 49,
+ "plants_covered": 148,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -66,6 +66,28 @@
     "REF-2618",
     "REF-2619",
     "REF-2620"
+   ]
+  },
+  {
+   "id": "actaea-pachypoda",
+   "label": "Baneberry",
+   "scientific_name": "Actaea pachypoda",
+   "family": "Ranunculaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "doll's eyes",
+    "white baneberry",
+    "red baneberry",
+    "Actaea rubra"
+   ],
+   "toxic_principle": "An acrid irritant glycoside (protoanemonin-type) in all parts, including the rhizome and the white or red berries.",
+   "toxicity": "All parts are toxic. Ingestion causes intense burning of the mouth and throat, severe vomiting and diarrhoea (gastroenteritis), dizziness and, in serious cases, seizures; red baneberry poisoning can be fatal, especially in children. Its woodland foliage and rhizome closely resemble black cohosh, with which it is confused and mixed during harvesting.",
+   "toxicity_category": "gastrointestinal",
+   "onset": "Burning and gastrointestinal symptoms soon after ingestion",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2682",
+    "REF-2683"
    ]
   },
   {
@@ -240,6 +262,27 @@
     "REF-2624",
     "REF-2625",
     "REF-2626"
+   ]
+  },
+  {
+   "id": "teucrium-chamaedrys",
+   "label": "Germander",
+   "scientific_name": "Teucrium chamaedrys",
+   "family": "Lamiaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "wall germander",
+    "American germander",
+    "Teucrium canadense"
+   ],
+   "toxic_principle": "Hepatotoxic furano neo-clerodane diterpenoids, characteristic markers of the Teucrium genus.",
+   "toxicity": "Germander species contain neo-clerodane diterpenoids that damage the liver; germander preparations have caused numerous cases of acute hepatitis, some progressing to liver failure and death. American and European germander are documented adulterants of skullcap, which has given 'skullcap' products an undeserved reputation for liver toxicity.",
+   "toxicity_category": "hepatotoxic",
+   "onset": "Liver injury over weeks to months of repeated use",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2680",
+    "REF-2681"
    ]
   },
   {
@@ -845,6 +888,37 @@
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "actaea-racemosa",
+   "plant": "Black Cohosh",
+   "scientific": "Actaea racemosa",
+   "common_slug": "black-cohosh",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "actaea-pachypoda",
+     "dangerous_plant_label": "Baneberry",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Woodland rhizome dug as black cohosh; toxic baneberries (doll's eye and red baneberry) share very similar foliage and rhizomes and are gathered in mistake for it.",
+     "confusion_context": "Black cohosh (Actaea racemosa) is dug for its rhizome, but several related North American Actaea species - notably doll's eye (Actaea pachypoda) and red baneberry (Actaea rubra) - have very similar woodland foliage and rhizomes and are easily mistaken for it during harvesting. Those baneberries are toxic in all parts: ingestion causes burning of the mouth, severe vomiting and diarrhoea and seizures, and red baneberry can be fatal, especially in children. Peer-reviewed work confirms commercial black cohosh is frequently adulterated with other Actaea species, contributing to safety concerns. Because the plants look alike - especially in spring before flowers or fruit appear - this is a genuine hazard.",
+     "distinguishing_features": [
+      "Fruit (decisive when present): black cohosh bears a tall wand of fluffy white flowers that ripens to dry, papery seed pods. Baneberries instead bear clusters of shiny berries - chalk-white with a black eye (doll's eye) or glossy red (red baneberry). Any fleshy berries mean baneberry, not black cohosh.",
+      "Flower: black cohosh has long, showy white bottlebrush flower spikes; baneberry flowers are in short, rounded fluffy clusters.",
+      "Vegetative caution: in spring the leaves alone are very similar (Actaea foliage), so do not dig by leaf alone - the species are separated mainly on flowers and fruit. Confirm the plant in flower or fruit, or buy authenticated black cohosh."
+     ],
+     "key_test": "Identify the plant in flower or fruit before digging. Black cohosh has tall white bottlebrush flower spikes that turn into dry papery pods; baneberry makes clusters of shiny white-with-black-dot or red berries. If you see fleshy berries - or cannot confirm flowers or fruit - do not dig the root; the baneberries are toxic. When in doubt, buy authenticated black cohosh.",
+     "references": [
+      "REF-2682",
+      "REF-2683"
+     ],
+     "status": "approved"
+    }
+   ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   },
@@ -2782,6 +2856,37 @@
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "scutellaria-lateriflora",
+   "plant": "Skullcap",
+   "scientific": "Scutellaria lateriflora",
+   "common_slug": "skullcap",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "teucrium-chamaedrys",
+     "dangerous_plant_label": "Germander",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Dried aerial herb sold or gathered as 'skullcap'; the hepatotoxic herb germander has repeatedly been substituted for or mixed with skullcap in the herb trade.",
+     "confusion_context": "American skullcap (Scutellaria lateriflora) is used as a calming herb, but it has repeatedly been adulterated with germander (Teucrium canadense or T. chamaedrys) in the North American herb trade. Germander contains hepatotoxic neo-clerodane diterpenoids and has caused numerous cases of acute hepatitis, some progressing to liver failure; skullcap products contaminated with germander gave 'skullcap' an undeserved reputation for liver toxicity, and a USDA analysis found several commercial 'skullcap' supplements actually contained germander. Because the dried herbs look similar and the substitution persists, this is a real hazard.",
+     "distinguishing_features": [
+      "Source and testing: the two dried herbs are hard to tell apart by eye, so buy skullcap only from suppliers who authenticate the species - genuine skullcap is rich in flavonoids, whereas germander carries the phenylethanoids verbascoside and teucrioside, and reputable products are laboratory-tested against germander adulteration.",
+      "Living plant: American skullcap has paired (opposite) leaves and small blue two-lipped flowers borne in one-sided leafy racemes from the leaf axils. Germander (Teucrium) has scalloped, oak-like or narrow leaves and pinkish-purple whorled flower spikes.",
+      "Caution: because adulteration is common and cannot be judged from a powder, treat any unverified 'skullcap' with caution, especially if you have liver concerns."
+     ],
+     "key_test": "You usually cannot tell adulterated skullcap from germander by eye, so rely on the source: use only skullcap that a reputable supplier has laboratory-authenticated as Scutellaria lateriflora and tested for germander (Teucrium). On the living plant, skullcap has opposite leaves and small blue flowers in one-sided axillary racemes, unlike germander's whorled pinkish flower spikes. If the source is unverified, do not use it - germander can seriously damage the liver.",
+     "references": [
+      "REF-2680",
+      "REF-2681"
+     ],
+     "status": "approved"
+    }
+   ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   },

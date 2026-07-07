@@ -1274,6 +1274,28 @@
    ]
   },
   {
+   "id": "actaea-pachypoda",
+   "label": "Baneberry",
+   "scientific_name": "Actaea pachypoda",
+   "family": "Ranunculaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "doll's eyes",
+    "white baneberry",
+    "red baneberry",
+    "Actaea rubra"
+   ],
+   "toxic_principle": "An acrid irritant glycoside (protoanemonin-type) in all parts, including the rhizome and the white or red berries.",
+   "toxicity": "All parts are toxic. Ingestion causes intense burning of the mouth and throat, severe vomiting and diarrhoea (gastroenteritis), dizziness and, in serious cases, seizures; red baneberry poisoning can be fatal, especially in children. Its woodland foliage and rhizome closely resemble black cohosh, with which it is confused and mixed during harvesting.",
+   "toxicity_category": "gastrointestinal",
+   "onset": "Burning and gastrointestinal symptoms soon after ingestion",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2682",
+    "REF-2683"
+   ]
+  },
+  {
    "id": "prunus-laurocerasus",
    "label": "Cherry laurel",
    "scientific_name": "Prunus laurocerasus",
@@ -1445,6 +1467,27 @@
     "REF-2624",
     "REF-2625",
     "REF-2626"
+   ]
+  },
+  {
+   "id": "teucrium-chamaedrys",
+   "label": "Germander",
+   "scientific_name": "Teucrium chamaedrys",
+   "family": "Lamiaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "wall germander",
+    "American germander",
+    "Teucrium canadense"
+   ],
+   "toxic_principle": "Hepatotoxic furano neo-clerodane diterpenoids, characteristic markers of the Teucrium genus.",
+   "toxicity": "Germander species contain neo-clerodane diterpenoids that damage the liver; germander preparations have caused numerous cases of acute hepatitis, some progressing to liver failure and death. American and European germander are documented adulterants of skullcap, which has given 'skullcap' products an undeserved reputation for liver toxicity.",
+   "toxicity_category": "hepatotoxic",
+   "onset": "Liver injury over weeks to months of repeated use",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2680",
+    "REF-2681"
    ]
   },
   {

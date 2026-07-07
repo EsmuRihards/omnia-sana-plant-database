@@ -31229,7 +31229,7 @@
    "link_type": "doi",
    "citation": "Acimovic, M., Jeremic, K., Salaj, N., Gavaric, N., Kiprovski, B., Sikora, V. and Zeremski, T (2020) 'Marrubium vulgare L.: A Phytochemical and Pharmacological Overview', Molecules, 25(12). doi:10.3390/molecules25122898",
    "abstract": "Marrubium vulgare is a plant with high bioactive potential. It contains marrubiin, a labdane diterpene that is characteristic for this genus, as well as a complex mixture of phenolic compounds. According to numerous studies, M. vulgare acts as a good antioxidant agent, and due to this, it could potentially be useful in treatments of cancer, diabetes mellitus, and liver diseases. In addition, its anti-inflammatory, wound-healing, antihypertensive, hypolipidemic, and sedative potential are discussed. Apart from that, its antimicrobial activity, especially against Gram+ bacteria, fungi, herpes simplex virus, and parasites such as Toxoplasma gondii , Trichomonas vaginalis , and Plasmodium berghei-berghei was recorded. Additionally, it could be used as a chicken lice repellent, herbicide, and natural insecticide against mosquito larvae and natural molluscicide. In veterinary medicine, M. vulgare can be used as an anthelmintic against the eggs and larvae of bovine strongyles parasites, and as an antibiotic against bovine mastitis caused by resistant bacterial strains. Due to the mentioned benefits, there is a tendency for the cultivation of M. vulgare in order to ensure high-quality raw material, but more firm scientific evidence and well-designed clinical trials are necessary for the well-established use of M. vulgare herb and its preparations.",
-   "tier": "rct",
+   "tier": "review",
    "display": "Marrubium vulgare L.: A Phytochemical and Pharmacological Overview",
    "plants": [
     "Common horehound",
@@ -74196,53 +74196,6 @@
    ]
   },
   {
-   "ref_id": "REF-0019",
-   "key": "bao2002structural",
-   "type": "article",
-   "title": "Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum",
-   "authors": "Bao, X. et al",
-   "journal": "",
-   "year": "2002",
-   "doi": "",
-   "url": "",
-   "link": "https://scholar.google.com/scholar?q=Structural%20requirements%20for%20the%20immunological%20activities%20of%20polysaccharides%20from%20Ganoderma%20lucidum",
-   "link_type": "search",
-   "citation": "Bao, X. et al (2002) 'Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum', 41(9), pp. 2603--2611.",
-   "abstract": "",
-   "tier": "traditional",
-   "display": "Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum",
-   "plants": [
-    "Lingzhi",
-    "Reishi",
-    "mushroom of immortality",
-    "varnished conk"
-   ],
-   "scientific": [
-    "Ganoderma lingzhi"
-   ],
-   "actions": [
-    "Anti-inflammatory",
-    "Anticancer (preclinical)",
-    "Antidiabetic (blood-sugar lowering)",
-    "Antioxidant",
-    "Antiviral",
-    "Immunomodulator / immune support",
-    "Sedative / sleep support"
-   ],
-   "conditions": [
-    "Arthritis / joint pain",
-    "Blood sugar / diabetes support",
-    "Cardiovascular / heart health",
-    "Cold & flu",
-    "Immune support",
-    "Infection (general)",
-    "Inflammation (general)",
-    "Insomnia / sleeplessness",
-    "Metabolic support",
-    "Skin irritation"
-   ]
-  },
-  {
    "ref_id": "REF-2437",
    "key": "piscitelli2001garlic",
    "type": "article",
@@ -75195,6 +75148,53 @@
    "scientific": [],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-0019",
+   "key": "bao2002structural",
+   "type": "article",
+   "title": "Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum",
+   "authors": "Bao, X. et al",
+   "journal": "",
+   "year": "2001",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Structural%20requirements%20for%20the%20immunological%20activities%20of%20polysaccharides%20from%20Ganoderma%20lucidum",
+   "link_type": "search",
+   "citation": "Bao, X. et al (2001) 'Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum', 41(9), pp. 2603--2611.",
+   "abstract": "",
+   "tier": "traditional",
+   "display": "Structural requirements for the immunological activities of polysaccharides from Ganoderma lucidum",
+   "plants": [
+    "Lingzhi",
+    "Reishi",
+    "mushroom of immortality",
+    "varnished conk"
+   ],
+   "scientific": [
+    "Ganoderma lingzhi"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)",
+    "Antidiabetic (blood-sugar lowering)",
+    "Antioxidant",
+    "Antiviral",
+    "Immunomodulator / immune support",
+    "Sedative / sleep support"
+   ],
+   "conditions": [
+    "Arthritis / joint pain",
+    "Blood sugar / diabetes support",
+    "Cardiovascular / heart health",
+    "Cold & flu",
+    "Immune support",
+    "Infection (general)",
+    "Inflammation (general)",
+    "Insomnia / sleeplessness",
+    "Metabolic support",
+    "Skin irritation"
+   ]
   },
   {
    "ref_id": "REF-0283",

@@ -141,7 +141,7 @@ drug_class_interactions:
   - REF-2523
   - REF-2522
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 - drug_class: antiretrovirals
   severity: avoid
@@ -151,7 +151,7 @@ drug_class_interactions:
   - REF-2434
   - REF-2436
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 - drug_class: immunosuppressants
   severity: avoid
@@ -161,7 +161,7 @@ drug_class_interactions:
   - REF-2434
   - REF-2436
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 - drug_class: hormonal-therapies
   severity: avoid
@@ -172,7 +172,7 @@ drug_class_interactions:
   - REF-2520
   - REF-2521
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 - drug_class: anticoagulants-antiplatelets
   severity: caution
@@ -182,7 +182,7 @@ drug_class_interactions:
   - REF-2434
   - REF-2522
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 - drug_class: cardiac-glycosides
   severity: caution
@@ -191,7 +191,7 @@ drug_class_interactions:
   - REF-2433
   - REF-2434
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 - drug_class: statins
   severity: caution
@@ -201,7 +201,7 @@ drug_class_interactions:
   - REF-2434
   - REF-2522
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 - drug_class: cyp3a4-substrates
   severity: caution
@@ -211,7 +211,7 @@ drug_class_interactions:
   - REF-2436
   - REF-2522
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 - drug_class: chemotherapy-agents
   severity: avoid
@@ -221,7 +221,7 @@ drug_class_interactions:
   - REF-2519
   - REF-2523
   status: approved
-  reviewed_by: Omnia Sana (owner)
+  reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
 references:
 - REF-0842

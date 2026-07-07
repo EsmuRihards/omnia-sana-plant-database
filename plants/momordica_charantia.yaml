@@ -166,9 +166,13 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   and Int J Mol Sci reviews; WebMD safety monograph). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (blood-sugar, indigestion); associations retained and now part-mapped and

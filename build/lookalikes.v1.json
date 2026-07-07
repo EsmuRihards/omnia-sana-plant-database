@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
  "count": 27,
- "plants_covered": 17,
+ "plants_covered": 48,
  "dangerous_plants": [
   {
    "id": "pleurocybella-porrigens",
@@ -406,6 +406,17 @@
    "reviewed_date": "2026-07-06"
   },
   {
+   "plant_id": "andrographis-paniculata",
+   "plant": "Andrographis",
+   "scientific": "Andrographis paniculata",
+   "common_slug": "andrographis",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "angelica-archangelica",
    "plant": "Angelica",
    "scientific": "Angelica archangelica",
@@ -488,6 +499,50 @@
    "reviewed_date": "2026-07-06"
   },
   {
+   "plant_id": "withania-somnifera",
+   "plant": "Ashwagandha",
+   "scientific": "Withania somnifera",
+   "common_slug": "ashwagandha",
+   "wp_post_id": 149,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "momordica-charantia",
+   "plant": "Bitter Melon",
+   "scientific": "Momordica charantia",
+   "common_slug": "bitter-melon",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "nigella-sativa",
+   "plant": "Black Cumin",
+   "scientific": "Nigella sativa",
+   "common_slug": "black-cumin",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "eucalyptus-globulus",
+   "plant": "Blue gum eucalyptus",
+   "scientific": "Eucalyptus globulus",
+   "common_slug": "blue-gum-eucalyptus",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "borago-officinalis",
    "plant": "Borage",
    "scientific": "Borago officinalis",
@@ -517,6 +572,72 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "boswellia-serrata",
+   "plant": "Boswellia",
+   "scientific": "Boswellia serrata",
+   "common_slug": "boswellia",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "theobroma-cacao",
+   "plant": "Cacao",
+   "scientific": "Theobroma cacao",
+   "common_slug": "cacao",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "elettaria-cardamomum",
+   "plant": "Cardamom",
+   "scientific": "Elettaria cardamomum",
+   "common_slug": "cardamom",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "cinnamomum-cassia",
+   "plant": "Cassia Cinnamon",
+   "scientific": "Cinnamomum cassia",
+   "common_slug": "cassia-cinnamon",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "vitex-agnus-castus",
+   "plant": "Chasteberry",
+   "scientific": "Vitex agnus-castus",
+   "common_slug": "chasteberry",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "salvia-hispanica",
+   "plant": "Chia",
+   "scientific": "Salvia hispanica",
+   "common_slug": "chia",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "stellaria-media",
@@ -573,6 +694,39 @@
    "reviewed_date": "2026-07-06"
   },
   {
+   "plant_id": "capsicum-annuum",
+   "plant": "Chili Pepper",
+   "scientific": "Capsicum annuum",
+   "common_slug": "chili-pepper",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "syzygium-aromaticum",
+   "plant": "Clove",
+   "scientific": "Syzygium aromaticum",
+   "common_slug": "clove",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "coffea-arabica",
+   "plant": "Coffee (Arabica & Robusta)",
+   "scientific": "Coffea arabica",
+   "common_slug": "coffee-arabica-robusta",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "symphytum-officinale",
    "plant": "Common Comfrey",
    "scientific": "Symphytum officinale",
@@ -603,6 +757,28 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "zea-mays",
+   "plant": "Corn Silk",
+   "scientific": "Zea mays",
+   "common_slug": "corn-silk",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "cuminum-cyminum",
+   "plant": "Cumin",
+   "scientific": "Cuminum cyminum",
+   "common_slug": "cumin",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "verbascum-densiflorum",
@@ -720,6 +896,28 @@
    "reviewed_date": "2026-07-06"
   },
   {
+   "plant_id": "trigonella-foenum-graecum",
+   "plant": "Fenugreek",
+   "scientific": "Trigonella foenum-graecum",
+   "common_slug": "fenugreek",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "linum-usitatissimum",
+   "plant": "Flaxseed",
+   "scientific": "Linum usitatissimum",
+   "common_slug": "flaxseed",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "allium-sativum",
    "plant": "Garlic",
    "scientific": "Allium sativum",
@@ -822,6 +1020,28 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "zingiber-officinale",
+   "plant": "Ginger",
+   "scientific": "Zingiber officinale",
+   "common_slug": "ginger",
+   "wp_post_id": 153,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "ginkgo-biloba",
+   "plant": "Ginko",
+   "scientific": "Ginkgo biloba",
+   "common_slug": "ginko",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "centella-asiatica",
@@ -952,6 +1172,72 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "paullinia-cupana",
+   "plant": "Guarana",
+   "scientific": "Paullinia cupana",
+   "common_slug": "guarana",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "gymnema-sylvestre",
+   "plant": "Gymnema",
+   "scientific": "Gymnema sylvestre",
+   "common_slug": "gymnema",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "hibiscus-sabdariffa",
+   "plant": "Hibiscus",
+   "scientific": "Hibiscus sabdariffa",
+   "common_slug": "hibiscus",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "piper-methysticum",
+   "plant": "Kava",
+   "scientific": "Piper methysticum",
+   "common_slug": "kava",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "morinda-citrifolia",
+   "plant": "Noni",
+   "scientific": "Morinda citrifolia",
+   "common_slug": "noni",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "olea-europaea",
+   "plant": "Olive",
+   "scientific": "Olea europaea",
+   "common_slug": "olive",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "pleurotus-ostreatus",
@@ -1085,6 +1371,61 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "serenoa-repens",
+   "plant": "Saw Palmetto",
+   "scientific": "Serenoa repens",
+   "common_slug": "saw-palmetto",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "schisandra-chinensis",
+   "plant": "Schisandra",
+   "scientific": "Schisandra chinensis",
+   "common_slug": "schisandra",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "camellia-sinensis",
+   "plant": "Tea",
+   "scientific": "Camellia sinensis",
+   "common_slug": "tea",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "cinnamomum-verum",
+   "plant": "True Cinnamon",
+   "scientific": "Cinnamomum verum",
+   "common_slug": "true-cinnamon",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "curcuma-longa",
+   "plant": "Tumeric",
+   "scientific": "Curcuma longa",
+   "common_slug": "tumeric",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "trametes-versicolor",

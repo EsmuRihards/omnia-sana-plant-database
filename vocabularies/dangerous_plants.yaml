@@ -322,3 +322,33 @@
   references:
   - REF-2659
   - REF-2660
+
+- id: taxus-baccata
+  label: Yew
+  scientific_name: Taxus baccata
+  family: Taxaceae
+  kingdom: plant
+  synonyms: ["English yew", "common yew", "European yew"]
+  toxic_principle: Cardiotoxic taxine alkaloids (taxine A and B) present in all parts except the fleshy red aril, plus the marker 3,5-dimethoxyphenol; taxines block cardiac sodium and calcium channels.
+  toxicity: One of the most poisonous trees in Europe. All parts except the red flesh of the berry-like aril contain taxine alkaloids; ingestion of even a few leaves can cause vomiting, dizziness, dilated pupils, then life-threatening heart-rhythm disturbances, seizures and sudden cardiac arrest, and has caused many deaths. There is no specific antidote. The flat evergreen needles and red berry-like arils are mistaken for edible conifers such as pine.
+  toxicity_category: cardiotoxic
+  onset: Symptoms within 30 minutes to a few hours; cardiac collapse can be rapid
+  default_severity: fatal
+  references:
+  - REF-2662
+  - REF-2663
+
+- id: juniperus-sabina
+  label: Savin juniper
+  scientific_name: Juniperus sabina
+  family: Cupressaceae
+  kingdom: plant
+  synonyms: ["savin", "savine", "sabin"]
+  toxic_principle: Podophyllotoxin (an antimitotic cell poison) plus the essential-oil terpenes sabinene and sabinol; sabinol is a uterine stimulant (abortifacient).
+  toxicity: A low, spreading ornamental juniper that is genuinely poisonous, unlike edible common juniper. Its foliage and shoots contain podophyllotoxin and irritant terpenes; ingestion causes violent gastrointestinal irritation, kidney damage and, taken historically as an abortifacient, severe poisoning and deaths. Modern guidance advises against any internal use. It is widely planted in gardens and parks, so 'juniper berries' picked from landscaping can be this toxic species.
+  toxicity_category: mixed
+  onset: Gastrointestinal and systemic symptoms within hours of ingestion
+  default_severity: dangerous
+  references:
+  - REF-2665
+  - REF-2666

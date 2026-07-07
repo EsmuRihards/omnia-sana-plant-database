@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 36,
- "plants_covered": 85,
+ "count": 38,
+ "plants_covered": 87,
  "dangerous_plants": [
   {
    "id": "pleurocybella-porrigens",
@@ -391,6 +391,27 @@
    ]
   },
   {
+   "id": "juniperus-sabina",
+   "label": "Savin juniper",
+   "scientific_name": "Juniperus sabina",
+   "family": "Cupressaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "savin",
+    "savine",
+    "sabin"
+   ],
+   "toxic_principle": "Podophyllotoxin (an antimitotic cell poison) plus the essential-oil terpenes sabinene and sabinol; sabinol is a uterine stimulant (abortifacient).",
+   "toxicity": "A low, spreading ornamental juniper that is genuinely poisonous, unlike edible common juniper. Its foliage and shoots contain podophyllotoxin and irritant terpenes; ingestion causes violent gastrointestinal irritation, kidney damage and, taken historically as an abortifacient, severe poisoning and deaths. Modern guidance advises against any internal use. It is widely planted in gardens and parks, so 'juniper berries' picked from landscaping can be this toxic species.",
+   "toxicity_category": "mixed",
+   "onset": "Gastrointestinal and systemic symptoms within hours of ingestion",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2665",
+    "REF-2666"
+   ]
+  },
+  {
    "id": "lysimachia-arvensis",
    "label": "Scarlet pimpernel",
    "scientific_name": "Lysimachia arvensis",
@@ -433,6 +454,27 @@
     "REF-2600",
     "REF-2601",
     "REF-2602"
+   ]
+  },
+  {
+   "id": "taxus-baccata",
+   "label": "Yew",
+   "scientific_name": "Taxus baccata",
+   "family": "Taxaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "English yew",
+    "common yew",
+    "European yew"
+   ],
+   "toxic_principle": "Cardiotoxic taxine alkaloids (taxine A and B) present in all parts except the fleshy red aril, plus the marker 3,5-dimethoxyphenol; taxines block cardiac sodium and calcium channels.",
+   "toxicity": "One of the most poisonous trees in Europe. All parts except the red flesh of the berry-like aril contain taxine alkaloids; ingestion of even a few leaves can cause vomiting, dizziness, dilated pupils, then life-threatening heart-rhythm disturbances, seizures and sudden cardiac arrest, and has caused many deaths. There is no specific antidote. The flat evergreen needles and red berry-like arils are mistaken for edible conifers such as pine.",
+   "toxicity_category": "cardiotoxic",
+   "onset": "Symptoms within 30 minutes to a few hours; cardiac collapse can be rapid",
+   "default_severity": "fatal",
+   "references": [
+    "REF-2662",
+    "REF-2663"
    ]
   }
  ],
@@ -941,6 +983,37 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "juniperus-communis",
+   "plant": "Common Juniper",
+   "scientific": "Juniperus communis",
+   "common_slug": "common-juniper",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "juniperus-sabina",
+     "dangerous_plant_label": "Savin juniper",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Berry-like cones ('juniper berries') and foliage harvested for flavouring or tea; the toxic ornamental savin juniper is easily taken for edible common juniper, especially in gardens and parks.",
+     "confusion_context": "Common juniper (Juniperus communis) berries flavour food and gin, but not all junipers are edible. Savin juniper (Juniperus sabina) is a low, spreading ornamental juniper that is genuinely poisonous: a peer-reviewed analysis (Zheljazkov et al., 2021) found the antimitotic cell poison podophyllotoxin in savin but NOT in common juniper, and savin also contains irritant terpenes (sabinene, sabinol) and has long been a dangerous abortifacient. Because savin is widely planted in yards, parks and landscaping, 'juniper berries' picked from cultivated shrubs can be this toxic species; foraging guidance stresses positively identifying the species before eating any juniper.",
+     "distinguishing_features": [
+      "Foliage (decisive): edible common juniper has sharp-pointed NEEDLE-like leaves in whorls of three, each with a single white band on the upper surface. Savin and most ornamental junipers have soft, SCALE-like leaves pressed against the twig. Whorls of three sharp needles = common juniper; scale-like foliage = a juniper to avoid.",
+      "Smell: savin foliage has an acrid, unpleasant (foetid) smell when crushed, unlike the clean gin-like aroma of common juniper.",
+      "Habit: common juniper is a bushy shrub or small tree of wild heath and hillside; savin is a low, wide-spreading ornamental grown in gardens and municipal planting."
+     ],
+     "key_test": "Check the leaves. Sharp needle-like leaves in whorls of three (with a white band on top) = common juniper, the edible one. Soft scale-like foliage hugging the twig - especially on a low spreading shrub in a garden or park - with an acrid smell when crushed = a juniper to avoid such as savin (Juniperus sabina), which is toxic. Never eat juniper berries unless you have confirmed the species is common juniper.",
+     "references": [
+      "REF-2666",
+      "REF-2665"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "cordyceps-militaris",
@@ -1965,6 +2038,38 @@
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "pinus-sylvestris",
+   "plant": "Scots Pine",
+   "scientific": "Pinus sylvestris",
+   "common_slug": "scots-pine",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "taxus-baccata",
+     "dangerous_plant_label": "Yew",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Evergreen needles and twigs gathered to brew pine-needle tea; yew's flat evergreen needles and red berry-like arils are mistaken for edible conifer.",
+     "confusion_context": "Pine needles (from Scots pine, Pinus sylvestris) are foraged to brew a vitamin-C-rich tea. Yew (Taxus baccata), one of the most poisonous trees in Europe, is a common evergreen in gardens, churchyards and hedges, and its flat evergreen needles are mistaken for edible conifer needles. The Missouri Poison Center explicitly warns to beware of a toxic pine look-alike, the yew tree or English yew (Taxus species), which holds cardiotoxic taxine alkaloids in all parts except the red flesh of the aril. Eating even a few yew leaves - or brewing them as 'pine' tea - can cause fatal heart-rhythm disturbances, seizures and cardiac arrest, with no antidote. Because pine-needle tea is popular and yew is widespread, this is a potentially fatal confusion.",
+     "distinguishing_features": [
+      "Needle attachment (decisive): pine needles grow in bundles (Scots pine in pairs of two) wrapped at the base by a papery sheath. Yew needles grow SINGLY, attached directly to the twig in two flat rows. Bundled needles = pine; single flat needles in two rows = yew.",
+      "Fruit: pines bear woody cones. Yew bears no cones - instead soft red, berry-like arils each holding a single seed. A red berry-like fruit means yew, not pine.",
+      "Smell: crushed pine needles smell strongly resinous and piney. Yew needles have little or no pine scent."
+     ],
+     "key_test": "Look at how the needles attach. Pine needles come in bundles (Scots pine in pairs) with a papery sheath at the base, and the tree bears woody cones and a strong piney scent. Yew needles are single, soft and flat in two rows, the tree bears red berry-like arils instead of cones and has little scent - yew is deadly, so never brew it. If the needles are single rather than bundled, or you see red berries, do not use it.",
+     "references": [
+      "REF-2664",
+      "REF-2662",
+      "REF-2663"
+     ],
+     "status": "approved"
+    }
+   ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   },

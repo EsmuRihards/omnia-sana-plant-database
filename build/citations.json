@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2660,
+ "count": 2665,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -1323,6 +1323,27 @@
     "Cognitive function",
     "Memory"
    ]
+  },
+  {
+   "ref_id": "REF-2666",
+   "key": "fourseasonforaging_juniper",
+   "type": "misc",
+   "title": "Is Juniper Toxic?",
+   "authors": "Four Season Foraging",
+   "journal": "",
+   "year": "2025",
+   "doi": "",
+   "url": "https://www.fourseasonforaging.com/blog/2025/4/17/is-juniper-toxic",
+   "link": "https://www.fourseasonforaging.com/blog/2025/4/17/is-juniper-toxic",
+   "link_type": "url",
+   "citation": "Four Season Foraging (2025) 'Is Juniper Toxic?'. Available at: https://www.fourseasonforaging.com/blog/2025/4/17/is-juniper-toxic",
+   "abstract": "Foraging-educator guide: identifies common juniper (Juniperus communis) as the widely used edible species and savin juniper (Juniperus sabina) as toxic and to be avoided (as little as six drops of its oil can be toxic). Common juniper has sharp-pointed needle-like leaves in whorls of three, whereas ornamental junipers such as savin have scale-like foliage; foragers are warned to be cautious harvesting juniper from cultivated landscapes such as yards and parks where toxic savin is a popular ornamental. Anchors the common-versus-savin confusion and the needle-whorl-of-three versus scale-leaf test.",
+   "tier": "traditional",
+   "display": "Is Juniper Toxic?",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2418",
@@ -23547,6 +23568,27 @@
    "scientific": [
     "Equisetum arvense"
    ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2665",
+   "key": "zheljazkov2021juniper",
+   "type": "article",
+   "title": "Essential Oil Composition and Bioactivity of Two Juniper Species from Bulgaria and Slovakia",
+   "authors": "Zheljazkov, V.D. and Cantrell, C.L. and Semerdjieva, I. and Radoukova, T. and Stoyanova, A. and Maneva, V. and Kacaniova, M. and Astatkie, T. and Borisova, D. and Dincheva, I. and Salamon, I.",
+   "journal": "Molecules",
+   "year": "2021",
+   "doi": "10.3390/molecules26123659",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules26123659",
+   "link_type": "doi",
+   "citation": "Zheljazkov, V.D. and Cantrell, C.L. and Semerdjieva, I. and Radoukova, T. and Stoyanova, A. and Maneva, V. and Kacaniova, M. and Astatkie, T. and Borisova, D. and Dincheva, I. and Salamon, I (2021) 'Essential Oil Composition and Bioactivity of Two Juniper Species from Bulgaria and Slovakia', Molecules, 26(12), pp. 3659. doi:10.3390/molecules26123659",
+   "abstract": "Phytochemical study of Juniperus sabina and Juniperus communis: podophyllotoxin, an antimitotic compound used as a precursor for anti-cancer drugs, was found in Juniperus sabina accessions at 0.07-0.32% but was not detected in any Juniperus communis accession. Confirms that savin juniper contains the cytotoxin podophyllotoxin whereas edible common juniper does not, underpinning the toxic-versus-edible distinction between the two species.",
+   "tier": "preclinical",
+   "display": "Essential Oil Composition and Bioactivity of Two Juniper Species from Bulgaria and Slovakia",
+   "plants": [],
+   "scientific": [],
    "actions": [],
    "conditions": []
   },
@@ -47481,6 +47523,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2662",
+   "key": "arens2016yew",
+   "type": "article",
+   "title": "Fatal Taxus baccata ingestion with perimortem serum taxine B quantification",
+   "authors": "Arens, A.M. and Anaebere, T.C. and Horng, H. and Olson, K.",
+   "journal": "Clinical Toxicology (Philadelphia, Pa.)",
+   "year": "2016",
+   "doi": "10.1080/15563650.2016.1209765",
+   "url": "",
+   "link": "https://doi.org/10.1080/15563650.2016.1209765",
+   "link_type": "doi",
+   "citation": "Arens, A.M. and Anaebere, T.C. and Horng, H. and Olson, K (2016) 'Fatal Taxus baccata ingestion with perimortem serum taxine B quantification', Clinical Toxicology (Philadelphia, Pa.), 54(9), pp. 878-880. doi:10.1080/15563650.2016.1209765",
+   "abstract": "Fatal case: a 22-year-old woman collapsed after a seizure and died of a wide-complex cardiac rhythm and cardiovascular collapse; plant material on her was identified as Taxus baccata and perimortem serum contained taxine B (80.9 ug/mL) and the ingestion marker 3,5-dimethoxyphenol. Taxine B is one of the most cardiotoxic yew alkaloids; ingestion causes seizure, arrhythmia and cardiovascular collapse. Anchors the fatal cardiotoxicity of yew.",
+   "tier": "clinical",
+   "display": "Fatal Taxus baccata ingestion with perimortem serum taxine B quantification",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2032",
    "key": "katanic2016afilipendula",
    "type": "article",
@@ -63186,6 +63249,27 @@
    "scientific": [
     "Cinnamomum cassia"
    ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2663",
+   "key": "froldi2010taxus",
+   "type": "article",
+   "title": "Preliminary gas chromatography with mass spectrometry determination of 3,5-dimethoxyphenol in biological specimens as evidence of taxus poisoning",
+   "authors": "Froldi, R. and Croci, P.F. and Dell'Acqua, L. and Fare, F. and Tassoni, G. and Gambaro, V.",
+   "journal": "Journal of Analytical Toxicology",
+   "year": "2010",
+   "doi": "10.1093/jat/34.1.53",
+   "url": "",
+   "link": "https://doi.org/10.1093/jat/34.1.53",
+   "link_type": "doi",
+   "citation": "Froldi, R. and Croci, P.F. and Dell'Acqua, L. and Fare, F. and Tassoni, G. and Gambaro, V (2010) 'Preliminary gas chromatography with mass spectrometry determination of 3,5-dimethoxyphenol in biological specimens as evidence of taxus poisoning', Journal of Analytical Toxicology, 34(1), pp. 53-6. doi:10.1093/jat/34.1.53",
+   "abstract": "Forensic confirmation of a fatal Taxus baccata poisoning: notes that Taxus baccata is widely distributed and often associated with fatal intoxication due to high amounts of the cardiotoxic alkaloids taxine A and taxine B in its leaves; taxine B, isotaxine B and the marker 3,5-dimethoxyphenol were detected in the biological specimens. Anchors yew leaves as fatally cardiotoxic.",
+   "tier": "clinical",
+   "display": "Preliminary gas chromatography with mass spectrometry determination of 3,5-dimethoxyphenol in biological specimens as evidence of taxus poisoning",
+   "plants": [],
+   "scientific": [],
    "actions": [],
    "conditions": []
   },
@@ -81941,6 +82025,27 @@
     "Infection (general)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2664",
+   "key": "missouripoison_pineneedles",
+   "type": "misc",
+   "title": "Pine Needles",
+   "authors": "Missouri Poison Center",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://missouripoisoncenter.org/is-this-a-poison/pine-needles/",
+   "link": "https://missouripoisoncenter.org/is-this-a-poison/pine-needles/",
+   "link_type": "url",
+   "citation": "Missouri Poison Center 'Pine Needles'. Available at: https://missouripoisoncenter.org/is-this-a-poison/pine-needles/",
+   "abstract": "Poison-control identification guide: warns to beware of a toxic pine look-alike, the yew tree or English yew (Taxus species), which contains toxic taxines in all parts. Unlike pine, yew needles are softer, flatter and arranged in two rows along the twig; yews bear red fleshy single-seeded berries rather than woody cones and lack the characteristic pine scent; any yew ingestion may cause serious illness. Anchors the pine-versus-yew confusion and the needle/berry/scent distinguishing tests.",
+   "tier": "traditional",
+   "display": "Pine Needles",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0325",

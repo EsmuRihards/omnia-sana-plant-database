@@ -160,9 +160,30 @@ references:
 - REF-1240
 - REF-1241
 - REF-1242
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: taxus-baccata
+  severity: fatal
+  confused_part: Evergreen needles and twigs gathered to brew pine-needle tea; yew's flat evergreen needles and red berry-like arils are mistaken for edible conifer.
+  confusion_context: Pine needles (from Scots pine, Pinus sylvestris) are foraged to brew a vitamin-C-rich tea. Yew (Taxus baccata), one of the most poisonous trees in Europe, is a common evergreen in gardens, churchyards and hedges, and its flat evergreen needles are mistaken for edible conifer needles. The Missouri Poison Center explicitly warns to beware of a toxic pine look-alike, the yew tree or English yew (Taxus species), which holds cardiotoxic taxine alkaloids in all parts except the red flesh of the aril. Eating even a few yew leaves - or brewing them as 'pine' tea - can cause fatal heart-rhythm disturbances, seizures and cardiac arrest, with no antidote. Because pine-needle tea is popular and yew is widespread, this is a potentially fatal confusion.
+  distinguishing_features:
+  - 'Needle attachment (decisive): pine needles grow in bundles (Scots pine in pairs of two) wrapped at the base by a papery sheath. Yew needles grow SINGLY, attached directly to the twig in two flat rows. Bundled needles = pine; single flat needles in two rows = yew.'
+  - 'Fruit: pines bear woody cones. Yew bears no cones - instead soft red, berry-like arils each holding a single seed. A red berry-like fruit means yew, not pine.'
+  - 'Smell: crushed pine needles smell strongly resinous and piney. Yew needles have little or no pine scent.'
+  key_test: Look at how the needles attach. Pine needles come in bundles (Scots pine in pairs) with a papery sheath at the base, and the tree bears woody cones and a strong piney scent. Yew needles are single, soft and flat in two rows, the tree bears red berry-like arils instead of cones and has little scent - yew is deadly, so never brew it. If the needles are single rather than bundled, or you see red berries, do not use it.
+  reference_ids:
+  - REF-2664
+  - REF-2662
+  - REF-2663
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

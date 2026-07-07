@@ -149,9 +149,29 @@ references:
 - REF-1743
 - REF-1744
 - REF-1745
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: juniperus-sabina
+  severity: dangerous
+  confused_part: Berry-like cones ('juniper berries') and foliage harvested for flavouring or tea; the toxic ornamental savin juniper is easily taken for edible common juniper, especially in gardens and parks.
+  confusion_context: 'Common juniper (Juniperus communis) berries flavour food and gin, but not all junipers are edible. Savin juniper (Juniperus sabina) is a low, spreading ornamental juniper that is genuinely poisonous: a peer-reviewed analysis (Zheljazkov et al., 2021) found the antimitotic cell poison podophyllotoxin in savin but NOT in common juniper, and savin also contains irritant terpenes (sabinene, sabinol) and has long been a dangerous abortifacient. Because savin is widely planted in yards, parks and landscaping, ''juniper berries'' picked from cultivated shrubs can be this toxic species; foraging guidance stresses positively identifying the species before eating any juniper.'
+  distinguishing_features:
+  - 'Foliage (decisive): edible common juniper has sharp-pointed NEEDLE-like leaves in whorls of three, each with a single white band on the upper surface. Savin and most ornamental junipers have soft, SCALE-like leaves pressed against the twig. Whorls of three sharp needles = common juniper; scale-like foliage = a juniper to avoid.'
+  - 'Smell: savin foliage has an acrid, unpleasant (foetid) smell when crushed, unlike the clean gin-like aroma of common juniper.'
+  - 'Habit: common juniper is a bushy shrub or small tree of wild heath and hillside; savin is a low, wide-spreading ornamental grown in gardens and municipal planting.'
+  key_test: Check the leaves. Sharp needle-like leaves in whorls of three (with a white band on top) = common juniper, the edible one. Soft scale-like foliage hugging the twig - especially on a low spreading shrub in a garden or park - with an acrid smell when crushed = a juniper to avoid such as savin (Juniperus sabina), which is toxic. Never eat juniper berries unless you have confirmed the species is common juniper.
+  reference_ids:
+  - REF-2666
+  - REF-2665
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

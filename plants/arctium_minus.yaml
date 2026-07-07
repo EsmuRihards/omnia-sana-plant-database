@@ -155,9 +155,30 @@ references:
 - REF-1932
 - REF-1933
 - REF-1934
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: atropa-belladonna
+  severity: fatal
+  confused_part: First-year taproots dug for use as food or 'burdock root tea'; the root of deadly nightshade closely resembles a burdock root and the two grow as weeds in the same rough ground.
+  confusion_context: 'Lesser burdock (Arctium minus) is dug for its long first-year taproot, used as a vegetable and as ''burdock root tea.'' Deadly nightshade (Atropa belladonna) grows as a weed in the same disturbed ground and its root closely resembles a burdock root, so belladonna root can be gathered or processed in mistake for burdock. This has caused real poisonings: a JAMA case report (Bryson et al., 1978) describes atropine poisoning from a commercial burdock root tea, and belladonna-contaminated herbal teas have caused severe anticholinergic poisoning from as little as a few milligrams of atropine. Belladonna contains tropane alkaloids (atropine, hyoscyamine, scopolamine); poisoning causes dry flushed skin, widely dilated pupils, blurred vision, fever, a racing heart, agitation, hallucinations, seizures and can be fatal, especially in children.'
+  distinguishing_features:
+  - 'Whole plant: only dig burdock when you can match the whole living plant - burdock has huge rhubarb-like heart-shaped leaves that are whitish-woolly underneath and, in its second year, the familiar hooked burrs. Deadly nightshade is a branching plant with dull green oval pointed leaves, solitary purple-brown bell-shaped flowers and shiny black cherry-sized berries.'
+  - 'Berries (decisive if present): burdock never bears berries - it makes bristly burrs. A plant near your ''burdock'' bearing shiny black berries in green star-shaped calyces is deadly nightshade - do not dig roots from that ground.'
+  - 'Best practice: because the roots alone are hard to tell apart, do not wild-harvest burdock root unless an expert has confirmed the living plant - buy it from a reputable supplier instead.'
+  key_test: Identify the whole living plant before digging any root. Confirm large rhubarb-like leaves that are woolly-white underneath (and hooked burrs in the second year) for burdock. If there are shiny black berries, purple-brown bell-shaped flowers or oval pointed leaves among the plants, deadly nightshade may be present - do not dig or brew root tea from there. When in doubt, buy burdock rather than foraging the root.
+  reference_ids:
+  - REF-2674
+  - REF-2673
+  - REF-2675
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and Drugs.com
   monographs). Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database
   already contains A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant

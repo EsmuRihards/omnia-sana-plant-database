@@ -381,3 +381,18 @@
   references:
   - REF-2669
   - REF-2670
+
+- id: atropa-belladonna
+  label: Deadly nightshade
+  scientific_name: Atropa belladonna
+  family: Solanaceae
+  kingdom: plant
+  synonyms: ["belladonna", "deadly nightshade", "banewort"]
+  toxic_principle: Tropane alkaloids - atropine, hyoscyamine and scopolamine - which block muscarinic acetylcholine receptors (anticholinergic).
+  toxicity: One of the most poisonous plants in Europe. All parts, especially the roots and the shiny black berries, contain tropane alkaloids; poisoning causes dry flushed skin, widely dilated pupils, blurred vision, fever, urinary retention, a racing heartbeat, agitation, hallucinations, delirium, seizures and can be fatal - a few berries can kill a child. The root resembles burdock and other edible roots, and the berries are mistaken for cherries or other dark berries.
+  toxicity_category: neurotoxic
+  onset: Anticholinergic symptoms within 30 minutes to a few hours; effects may last for days
+  default_severity: fatal
+  references:
+  - REF-2673
+  - REF-2675

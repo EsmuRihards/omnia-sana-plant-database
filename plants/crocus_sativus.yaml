@@ -184,9 +184,31 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: colchicum-autumnale
+  severity: fatal
+  confused_part: The whole autumn flower (a leafless lilac-purple, crocus-shaped bloom) and its style/stigma threads that can be taken for saffron, plus the corm; in spring the strap-shaped leaves are also confused with other greens.
+  confusion_context: Autumn crocus / meadow saffron (Colchicum autumnale, family Colchicaceae) flowers in autumn with a leafless lilac-purple crocus-like flower that closely mimics true saffron crocus (Crocus sativus, Iridaceae) and is even nicknamed 'meadow saffron'. It contains colchicine, a cell toxin with no readily available antidote; ingestion causes deceptively delayed (hours later) multi-organ failure and can be fatal. A Swiss poison-centre review lists it among the few plants that can kill (Kupper & Reichert 2009), and a documented case describes severe multi-organ injury after it was eaten in error (Gabrscek et al. 2004). University extensions warn it should definitely not be used in place of saffron, because eating any part of it can be fatal.
+  distinguishing_features:
+  - 'STAMEN COUNT (decisive): true saffron crocus has exactly THREE stamens per flower; autumn crocus (Colchicum) has SIX. Two independent university extensions confirm three-versus-six as the hard, countable difference.'
+  - 'SAFFRON THREADS: saffron crocus has one style splitting into three long, deep-RED branched stigmas (the saffron threads). Colchicum has three separate pale styles with yellow anthers and does not produce the long red saffron threads.'
+  - 'FLOWER ARCHITECTURE: saffron crocus is in the iris family (Iridaceae; 3 stamens, 1 style); Colchicum is in Colchicaceae (6 stamens, 3 styles) - a fundamentally different flower.'
+  key_test: 'Count the stamens inside the open flower: exactly THREE (with three long deep-red saffron threads) = true saffron crocus. SIX stamens (pale styles, yellow anthers, no red threads) = autumn crocus (Colchicum) - do NOT eat or use as saffron; it can be fatal. If in any doubt, do not harvest.'
+  reference_ids:
+  - REF-2649
+  - REF-2650
+  - REF-2651
+  - REF-2652
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

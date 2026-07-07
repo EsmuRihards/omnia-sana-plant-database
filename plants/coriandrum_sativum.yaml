@@ -171,9 +171,46 @@ references:
 - REF-1706
 - REF-1707
 - REF-1708
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: Young, finely divided fern-like leaves resembling cilantro foliage, and volunteer seedlings appearing among planted coriander.
+  confusion_context: Poison hemlock (Conium maculatum) is the classic fatal mimic of edible parsley-family plants. King County (Washington) states it can be confused with many edible members of the parsley family, and coriander/cilantro is one such flat-leaved edible; a poison-hemlock seedling volunteering among planted coriander is a realistic garden hazard. Conium contains coniine and kills by ascending paralysis and respiratory failure - a few leaves or seeds can be fatal. Coriander-specific case reports are sparse (most documented hemlock poisonings involve other Apiaceae), so the value of this record is the rock-solid tests below rather than a claim that this exact swap is common.
+  distinguishing_features:
+  - 'SMELL (decisive): crushed coriander smells strongly and pleasantly of cilantro (citrusy, to some soapy). Poison hemlock smells rank, musty and mouse-like, with no cilantro note.'
+  - 'Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple, especially near the base. Coriander stems are plain green and never carry purple blotches.'
+  - 'Stature/leaf: poison hemlock is a tall (often 1.5-2.5 m) branching biennial with large, glossy, highly divided fern-like leaves; cultivated coriander is a small low herb. A large fern-leaved umbellifer with a purple-blotched stem is not coriander.'
+  key_test: Crush a leaf and smell it, and look at the stem. A pleasant citrusy cilantro scent with a plain green stem = coriander. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock - do not eat. If either warning sign is present, discard it.
+  reference_ids:
+  - REF-2610
+  - REF-2611
+  - REF-2642
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+- dangerous_plant: aethusa-cynapium
+  severity: dangerous
+  confused_part: Young flat, divided leaves resembling those of flat-leaf parsley and coriander/cilantro, and the whole leafy plant before or at flowering.
+  confusion_context: Aethusa cynapium is named 'fool's parsley' precisely because it is the classic toxic mimic of flat-leaved culinary parsley-family herbs - parsley, and by close leaf-resemblance coriander/cilantro. It contains toxic polyacetylenes; ingestion has caused inflammation of the mouth and throat, abdominal pain and nervous-system effects, and poisonings have arisen from eating it in mistake for parsley. It is generally serious rather than fatal at typical exposures.
+  distinguishing_features:
+  - 'BRACTEOLE ''beard'' (in flower): fool''s parsley bears 3-4 long, narrow, downward-hanging strongly reflexed bracteoles on the outer side of each secondary umbel - a distinctive drooping beard. Coriander umbels have no such drooping bracteoles.'
+  - 'Smell when crushed: coriander smells strongly and pleasantly of cilantro; fool''s parsley smells foul, acrid and mouse-like (''mousey'').'
+  - 'Leaves/flowers: fool''s parsley is hairless with darker, glossier finely dissected leaves and white flowers, and lacks the fresh cilantro scent.'
+  key_test: 'Crush a leaf and smell it: a strong cilantro scent = coriander (safe); a foul, acrid, mouse-like smell = fool''s parsley. If in flower, confirm by the 3-4 long drooping reflexed bracteoles (the ''beard'') under the secondary umbels, which coriander never has.'
+  reference_ids:
+  - REF-2613
+  - REF-2614
+  - REF-2653
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

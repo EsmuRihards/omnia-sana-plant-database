@@ -128,9 +128,13 @@ references:
 - REF-2553
 - REF-2554
 - REF-2555
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   authentication/phytochemistry study; HerbaZest monograph). Speedwell is poorly covered by clinical trials,
   so most actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant

@@ -100,9 +100,13 @@ references:
 - REF-1032
 - REF-1033
 - REF-1034
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record
   status set to needs-review because the saponins carry a real haemolysis/irritation risk and the internal
   use is largely outdated. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup

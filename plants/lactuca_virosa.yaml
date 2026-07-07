@@ -142,9 +142,13 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from general literature (Herbal Reality and RxList monographs). Record
   status set to needs-review because of the overdose toxicity risk and limited modern evidence. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (insomnia, pain, nervous-tension,

@@ -141,9 +141,13 @@ references:
 - REF-2592
 - REF-2593
 - REF-2594
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs
   for Tormentillae rhizoma). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (diarrhea, sore-throat, ibd); associations retained and now part-mapped and cited. Further enriched

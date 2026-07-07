@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
  "count": 43,
- "plants_covered": 92,
+ "plants_covered": 142,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -542,6 +542,17 @@
  ],
  "plants": [
   {
+   "plant_id": "agrimonia-eupatoria",
+   "plant": "Agrimony",
+   "scientific": "Agrimonia eupatoria",
+   "common_slug": "agrimony",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "trachyspermum-ammi",
    "plant": "Ajwain",
    "scientific": "Trachyspermum ammi",
@@ -710,6 +721,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "cynara-scolymus",
+   "plant": "Artichoke",
+   "scientific": "Cynara scolymus",
+   "common_slug": "artichoke",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "withania-somnifera",
    "plant": "Ashwagandha",
    "scientific": "Withania somnifera",
@@ -753,6 +775,50 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "epilobium-parviflorum",
+   "plant": "Bay-leaf willowherb",
+   "scientific": "Epilobium parviflorum",
+   "common_slug": "bay-leaf-willowherb",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "arctostaphylos-uva-ursi",
+   "plant": "Bearberry",
+   "scientific": "Arctostaphylos uva-ursi",
+   "common_slug": "bearberry",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "betula-pendula",
+   "plant": "Birch",
+   "scientific": "Betula pendula",
+   "common_slug": "birch",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "bistorta-officinalis",
+   "plant": "Bistort",
+   "scientific": "Bistorta officinalis",
+   "common_slug": "bistort",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "momordica-charantia",
    "plant": "Bitter Melon",
    "scientific": "Momordica charantia",
@@ -768,6 +834,28 @@
    "plant": "Black Cumin",
    "scientific": "Nigella sativa",
    "common_slug": "black-cumin",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "rubus-fruticosus",
+   "plant": "Blackberry Leaf",
+   "scientific": "Rubus fruticosus",
+   "common_slug": "blackberry-leaf",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "cnicus-benedictus",
+   "plant": "Blessed Thistle",
+   "scientific": "Cnicus benedictus",
+   "common_slug": "blessed-thistle",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -832,6 +920,17 @@
    "plant": "Breckland Thyme",
    "scientific": "Thymus serpyllum",
    "common_slug": "breckland-thyme",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "ruscus-aculeatus",
+   "plant": "Butcher's Broom",
+   "scientific": "Ruscus aculeatus",
+   "common_slug": "butcher-s-broom",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -927,10 +1026,32 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "centaurium-erythraea",
+   "plant": "Centaury",
+   "scientific": "Centaurium erythraea",
+   "common_slug": "centaury",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "inonotus-obliquus",
    "plant": "Chaga",
    "scientific": "Inonotus obliquus",
    "common_slug": "chaga",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "matricaria-chamomilla",
+   "plant": "Chamomile",
+   "scientific": "Matricaria chamomilla",
+   "common_slug": "chamomile",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -1018,6 +1139,17 @@
    "plant": "Chili Pepper",
    "scientific": "Capsicum annuum",
    "common_slug": "chili-pepper",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "galium-aparine",
+   "plant": "Cleavers",
+   "scientific": "Galium aparine",
+   "common_slug": "cleavers",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -1236,6 +1368,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "elymus-repens",
+   "plant": "Couch Grass",
+   "scientific": "Elymus repens",
+   "common_slug": "couch-grass",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "cuminum-cyminum",
    "plant": "Cumin",
    "scientific": "Cuminum cyminum",
@@ -1322,6 +1465,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "rosa-canina",
+   "plant": "Dog-rose",
+   "scientific": "Rosa canina",
+   "common_slug": "dog-rose",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "sambucus-nigra",
    "plant": "Elder",
    "scientific": "Sambucus nigra",
@@ -1352,6 +1506,39 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "inula-helenium",
+   "plant": "Elecampane",
+   "scientific": "Inula helenium",
+   "common_slug": "elecampane",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "oenothera-biennis",
+   "plant": "Evening Primrose",
+   "scientific": "Oenothera biennis",
+   "common_slug": "evening-primrose",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "euphrasia-officinalis",
+   "plant": "Eyebright",
+   "scientific": "Euphrasia officinalis",
+   "common_slug": "eyebright",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "foeniculum-vulgare",
@@ -1410,6 +1597,28 @@
    "plant": "Fenugreek",
    "scientific": "Trigonella foenum-graecum",
    "common_slug": "fenugreek",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "tanacetum-parthenium",
+   "plant": "Feverfew",
+   "scientific": "Tanacetum parthenium",
+   "common_slug": "feverfew",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "scrophularia-nodosa",
+   "plant": "Figwort",
+   "scientific": "Scrophularia nodosa",
+   "common_slug": "figwort",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -1547,6 +1756,17 @@
    "plant": "Ginko",
    "scientific": "Ginkgo biloba",
    "common_slug": "ginko",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "solidago-virgaurea",
+   "plant": "Goldenrod",
+   "scientific": "Solidago virgaurea",
+   "common_slug": "goldenrod",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -1738,6 +1958,28 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "viola-tricolor",
+   "plant": "Heartsease",
+   "scientific": "Viola tricolor",
+   "common_slug": "heartsease",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "cannabis-sativa",
+   "plant": "Hemp",
+   "scientific": "Cannabis sativa",
+   "common_slug": "hemp",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "hibiscus-sabdariffa",
    "plant": "Hibiscus",
    "scientific": "Hibiscus sabdariffa",
@@ -1782,10 +2024,54 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "hedera-helix",
+   "plant": "Ivy Leaf",
+   "scientific": "Hedera helix",
+   "common_slug": "ivy-leaf",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "reynoutria-japonica",
+   "plant": "Japanese knotweed",
+   "scientific": "Reynoutria japonica",
+   "common_slug": "japanese-knotweed",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "rosa-rugosa",
+   "plant": "Japanese Rose",
+   "scientific": "Rosa rugosa",
+   "common_slug": "japanese-rose",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "piper-methysticum",
    "plant": "Kava",
    "scientific": "Piper methysticum",
    "common_slug": "kava",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "alchemilla-vulgaris",
+   "plant": "Lady’s-mantle",
+   "scientific": "Alchemilla vulgaris",
+   "common_slug": "lady-s-mantle",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -1858,6 +2144,28 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "glycyrrhiza-glabra",
+   "plant": "Licorice root",
+   "scientific": "Glycyrrhiza glabra",
+   "common_slug": "licorice-root",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "tilia-cordata",
+   "plant": "Linden",
+   "scientific": "Tilia cordata",
+   "common_slug": "linden",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "ganoderma-lingzhi",
    "plant": "Lingzhi",
    "scientific": "Ganoderma lingzhi",
@@ -1900,10 +2208,54 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "pulmonaria-officinalis",
+   "plant": "Lungwort",
+   "scientific": "Pulmonaria officinalis",
+   "common_slug": "lungwort",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "malva-sylvestris",
+   "plant": "Mallow",
+   "scientific": "Malva sylvestris",
+   "common_slug": "mallow",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "origanum-majorana",
    "plant": "Marjoram",
    "scientific": "Origanum majorana",
    "common_slug": "marjoram",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "filipendula-ulmaria",
+   "plant": "Meadowsweet",
+   "scientific": "Filipendula ulmaria",
+   "common_slug": "meadowsweet",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "silybum-marianum",
+   "plant": "Milk Thistle",
+   "scientific": "Silybum marianum",
+   "common_slug": "milk-thistle",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -1948,6 +2300,17 @@
    "plant": "Oregano",
    "scientific": "Origanum vulgare",
    "common_slug": "oregano",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "mahonia-aquifolium",
+   "plant": "Oregon Grape",
+   "scientific": "Mahonia aquifolium",
+   "common_slug": "oregon-grape",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -2090,6 +2453,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "hypericum-perforatum",
+   "plant": "Perforate St John’s-wort",
+   "scientific": "Hypericum perforatum",
+   "common_slug": "perforate-st-john-s-wort",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "calendula-officinalis",
    "plant": "Pot marigold",
    "scientific": "Calendula officinalis",
@@ -2137,6 +2511,39 @@
    "scientific": "Echinacea purpurea",
    "common_slug": "purple-coneflower",
    "wp_post_id": 151,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "prunus-africana",
+   "plant": "Pygeum",
+   "scientific": "Prunus africana",
+   "common_slug": "pygeum",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "rubus-idaeus",
+   "plant": "Raspberry Leaf",
+   "scientific": "Rubus idaeus",
+   "common_slug": "raspberry-leaf",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "trifolium-pratense",
+   "plant": "Red Clover",
+   "scientific": "Trifolium pratense",
+   "common_slug": "red-clover",
+   "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -2296,6 +2703,28 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "saponaria-officinalis",
+   "plant": "Soapwort",
+   "scientific": "Saponaria officinalis",
+   "common_slug": "soapwort",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "veronica-officinalis",
+   "plant": "Speedwell",
+   "scientific": "Veronica officinalis",
+   "common_slug": "speedwell",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "acorus-calamus",
    "plant": "Sweet Flag",
    "scientific": "Acorus calamus",
@@ -2342,6 +2771,17 @@
    "plant": "Thyme",
    "scientific": "Thymus vulgaris",
    "common_slug": "thyme",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "potentilla-erecta",
+   "plant": "Tormentil",
+   "scientific": "Potentilla erecta",
+   "common_slug": "tormentil",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -2403,6 +2843,28 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "valeriana-officinalis",
+   "plant": "Valerian",
+   "scientific": "Valeriana officinalis",
+   "common_slug": "valerian",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "verbena-officinalis",
+   "plant": "Vervain",
+   "scientific": "Verbena officinalis",
+   "common_slug": "vervain",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "bacopa-monnieri",
    "plant": "Water Hyssop",
    "scientific": "Bacopa monnieri",
@@ -2414,10 +2876,98 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "galium-album",
+   "plant": "White bedstraw",
+   "scientific": "Galium album",
+   "common_slug": "white-bedstraw",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "trifolium-repens",
+   "plant": "White clover",
+   "scientific": "Trifolium repens",
+   "common_slug": "white-clover",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "lamium-album",
+   "plant": "White Dead Nettle",
+   "scientific": "Lamium album",
+   "common_slug": "white-dead-nettle",
+   "wp_post_id": 174,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "lactuca-virosa",
+   "plant": "Wild Lettuce",
+   "scientific": "Lactuca virosa",
+   "common_slug": "wild-lettuce",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "dioscorea-villosa",
+   "plant": "Wild Yam",
+   "scientific": "Dioscorea villosa",
+   "common_slug": "wild-yam",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "salix-alba",
+   "plant": "Willow Bark",
+   "scientific": "Salix alba",
+   "common_slug": "willow-bark",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "hamamelis-virginiana",
+   "plant": "Witch Hazel",
+   "scientific": "Hamamelis virginiana",
+   "common_slug": "witch-hazel",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "stachys-officinalis",
    "plant": "Wood Betony",
    "scientific": "Stachys officinalis",
    "common_slug": "wood-betony",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "artemisia-absinthium",
+   "plant": "Wormwood",
+   "scientific": "Artemisia absinthium",
+   "common_slug": "wormwood",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],

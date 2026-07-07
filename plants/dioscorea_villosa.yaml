@@ -128,9 +128,13 @@ references:
 - REF-2287
 - REF-2288
 - REF-2289
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary and Alternative Medicine
   bioassay/toxicity study). Further enriched 2026-06-13 with an additional diosgenin pharmacokinetic/pharmacology
   study (REF-0536, Okawara et al. 2013) sourced from PubMed. Originally a skeleton imported from the omniasana.bio

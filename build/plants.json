@@ -9215,9 +9215,35 @@
     "REF-2096",
     "REF-2097"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "ranunculus-repens",
+     "severity": "irritant",
+     "confused_part": "Leaves foraged at ground level - the long-stalked basal leaves growing in damp lawn, ditch and wetland turf.",
+     "confusion_context": "This is a habitat-and-silhouette confusion rather than a documented mass poisoning. Creeping buttercup (Ranunculus repens) is one of the commonest low creeping herbs of the same damp lawns, ditches and wet ground where gotu kola is gathered, and at a glance its long-stalked, rounded, lobed, scallop-edged basal leaves read like the rounded scalloped leaves of gotu kola. No case series of gotu-kola-to-buttercup poisoning is on record, and the far more common gotu kola confusions (marsh pennywort Hydrocotyle, kidney weed Dichondra, brahmi Bacopa) are non-toxic wrong-plant errors rather than hazards. Creeping buttercup is singled out here because it is the one genuinely irritant plant sharing gotu kola's silhouette and habitat: its fresh sap contains protoanemonin, which causes contact dermatitis, blistering and burning irritation of the mouth and gut. The hazard is real but self-limiting - protoanemonin is destroyed on drying and the acrid, blistering taste discourages swallowing any quantity.",
+     "distinguishing_features": [
+      "Leaf division (decisive): gotu kola has ONE undivided, rounded/kidney/fan-shaped blade per stalk with a scalloped (crenate) margin. Creeping buttercup's basal leaves are DIVIDED into THREE separate stalked leaflets, each lobed and toothed. Count the leaflets: one undivided blade = gotu kola; three separate leaflets = buttercup.",
+      "Hairiness: gotu kola leaves and creeping stems are essentially smooth and hairless; creeping buttercup stems and leaves are finely HAIRY.",
+      "Flower: creeping buttercup bears the unmistakable glossy five-petalled yellow buttercup flower on an upright stalk. Gotu kola's flowers are tiny, pinkish-white and hidden at the leaf bases near the ground. Any bright yellow buttercup flower rules out gotu kola outright."
+     ],
+     "key_test": "Look at a single leaf on its stalk: gotu kola is ONE rounded, scalloped, hairless blade; creeping buttercup is THREE separate lobed, toothed, hairy leaflets. Three leaflets - or any glossy yellow buttercup flower - means it is not gotu kola; do not eat it.",
+     "reference_ids": [
+      "REF-2647",
+      "REF-2648"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "gotu-kola"
   },
   {
@@ -38079,9 +38105,36 @@
     "REF-1590",
     "REF-1591"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "stereum-hirsutum",
+     "severity": "caution",
+     "confused_part": "The whole fan-shaped bracket (the concentrically zoned shelf growing on dead hardwood), especially the top surface, which looks almost identical from above.",
+     "confusion_context": "False turkey tail (Stereum hirsutum, and the near-identical Stereum ostrea) is the commonest fungus mistaken for medicinal turkey tail. Seen from above the two are near-identical: overlapping, fan-shaped, concentrically banded, fuzzy-topped brackets on dead wood. Stereum is NOT poisonous - it is simply inedible (too thin and leathery) and there are no documented poisonings. The problem is that it is a crust fungus lacking the medicinal polysaccharides of true turkey tail, so anyone who brews it gets a worthless tea. This record exists to prevent a wasted, ineffective harvest, not to warn of poisoning.",
+     "distinguishing_features": [
+      "UNDERSIDE (decisive): true turkey tail has a whitish PORE surface underneath, densely covered with tiny pores/tubes (about 2-5 per mm, visible with a hand lens). False turkey tail (Stereum) has a completely SMOOTH, poreless underside - it is a crust fungus, not a polypore.",
+      "Underside colour: true turkey tail's pore surface is white to off-white. Stereum's smooth underside is typically tan, yellowish, greyish or pale reddish-brown; a coloured, non-white underside is a red flag.",
+      "Texture: true turkey tail is thin and flexible; Stereum tends to be tougher, more leathery and often wavier at the margin."
+     ],
+     "key_test": "Turn the bracket over and look at the underside with a hand lens. Genuine turkey tail shows a white surface densely covered in tiny pores (roughly 2-5 per mm). If the underside is SMOOTH and poreless (and often tan/orange/brown rather than white), it is false turkey tail (Stereum) - discard it. Smooth underside = not turkey tail.",
+     "reference_ids": [
+      "REF-2644",
+      "REF-2645",
+      "REF-2646"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "turkey-tail"
   },
   {

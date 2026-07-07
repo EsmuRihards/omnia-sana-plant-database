@@ -200,9 +200,29 @@ references:
 - REF-2095
 - REF-2096
 - REF-2097
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: ranunculus-repens
+  severity: irritant
+  confused_part: Leaves foraged at ground level - the long-stalked basal leaves growing in damp lawn, ditch and wetland turf.
+  confusion_context: 'This is a habitat-and-silhouette confusion rather than a documented mass poisoning. Creeping buttercup (Ranunculus repens) is one of the commonest low creeping herbs of the same damp lawns, ditches and wet ground where gotu kola is gathered, and at a glance its long-stalked, rounded, lobed, scallop-edged basal leaves read like the rounded scalloped leaves of gotu kola. No case series of gotu-kola-to-buttercup poisoning is on record, and the far more common gotu kola confusions (marsh pennywort Hydrocotyle, kidney weed Dichondra, brahmi Bacopa) are non-toxic wrong-plant errors rather than hazards. Creeping buttercup is singled out here because it is the one genuinely irritant plant sharing gotu kola''s silhouette and habitat: its fresh sap contains protoanemonin, which causes contact dermatitis, blistering and burning irritation of the mouth and gut. The hazard is real but self-limiting - protoanemonin is destroyed on drying and the acrid, blistering taste discourages swallowing any quantity.'
+  distinguishing_features:
+  - 'Leaf division (decisive): gotu kola has ONE undivided, rounded/kidney/fan-shaped blade per stalk with a scalloped (crenate) margin. Creeping buttercup''s basal leaves are DIVIDED into THREE separate stalked leaflets, each lobed and toothed. Count the leaflets: one undivided blade = gotu kola; three separate leaflets = buttercup.'
+  - 'Hairiness: gotu kola leaves and creeping stems are essentially smooth and hairless; creeping buttercup stems and leaves are finely HAIRY.'
+  - 'Flower: creeping buttercup bears the unmistakable glossy five-petalled yellow buttercup flower on an upright stalk. Gotu kola''s flowers are tiny, pinkish-white and hidden at the leaf bases near the ground. Any bright yellow buttercup flower rules out gotu kola outright.'
+  key_test: 'Look at a single leaf on its stalk: gotu kola is ONE rounded, scalloped, hairless blade; creeping buttercup is THREE separate lobed, toothed, hairy leaflets. Three leaflets - or any glossy yellow buttercup flower - means it is not gotu kola; do not eat it.'
+  reference_ids:
+  - REF-2647
+  - REF-2648
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside;
   Panminerva Medica status paper on titrated Centella extract). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (wounds, anxiety, memory, varicose-veins, cognitive-function);

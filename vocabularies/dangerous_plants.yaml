@@ -275,4 +275,20 @@
   toxicity_category: mixed
   onset: n/a
   default_severity: caution
-  references: []
+  references:
+  - REF-2644
+  - REF-2645
+  - REF-2646
+- id: ranunculus-repens
+  label: Creeping buttercup
+  scientific_name: Ranunculus repens
+  family: Ranunculaceae
+  kingdom: plant
+  synonyms: ["buttercup", "creeping crowfoot", "sitfast"]
+  toxic_principle: Protoanemonin, a volatile vesicant lactone released from ranunculin when fresh tissue is crushed or chewed; destroyed on drying.
+  toxicity: Fresh sap and leaves are acrid and irritant. Skin contact can cause dermatitis and blistering, and chewing fresh material burns and inflames the mouth and gut (gastroenteritis). Rarely dangerous, because the toxin is destroyed on drying and the acrid, blistering taste discourages swallowing any quantity.
+  toxicity_category: mixed
+  onset: Minutes to a few hours after contact with or ingestion of fresh material
+  default_severity: irritant
+  references:
+  - REF-2647

@@ -143,9 +143,30 @@ references:
 - REF-1589
 - REF-1590
 - REF-1591
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: stereum-hirsutum
+  severity: caution
+  confused_part: The whole fan-shaped bracket (the concentrically zoned shelf growing on dead hardwood), especially the top surface, which looks almost identical from above.
+  confusion_context: 'False turkey tail (Stereum hirsutum, and the near-identical Stereum ostrea) is the commonest fungus mistaken for medicinal turkey tail. Seen from above the two are near-identical: overlapping, fan-shaped, concentrically banded, fuzzy-topped brackets on dead wood. Stereum is NOT poisonous - it is simply inedible (too thin and leathery) and there are no documented poisonings. The problem is that it is a crust fungus lacking the medicinal polysaccharides of true turkey tail, so anyone who brews it gets a worthless tea. This record exists to prevent a wasted, ineffective harvest, not to warn of poisoning.'
+  distinguishing_features:
+  - 'UNDERSIDE (decisive): true turkey tail has a whitish PORE surface underneath, densely covered with tiny pores/tubes (about 2-5 per mm, visible with a hand lens). False turkey tail (Stereum) has a completely SMOOTH, poreless underside - it is a crust fungus, not a polypore.'
+  - 'Underside colour: true turkey tail''s pore surface is white to off-white. Stereum''s smooth underside is typically tan, yellowish, greyish or pale reddish-brown; a coloured, non-white underside is a red flag.'
+  - 'Texture: true turkey tail is thin and flexible; Stereum tends to be tougher, more leathery and often wavier at the margin.'
+  key_test: Turn the bracket over and look at the underside with a hand lens. Genuine turkey tail shows a white surface densely covered in tiny pores (roughly 2-5 per mm). If the underside is SMOOTH and poreless (and often tan/orange/brown rather than white), it is false turkey tail (Stereum) - discard it. Smooth underside = not turkey tail.
+  reference_ids:
+  - REF-2644
+  - REF-2645
+  - REF-2646
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

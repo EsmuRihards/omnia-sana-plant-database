@@ -292,3 +292,18 @@
   default_severity: irritant
   references:
   - REF-2647
+
+- id: prunus-laurocerasus
+  label: Cherry laurel
+  scientific_name: Prunus laurocerasus
+  family: Rosaceae
+  kingdom: plant
+  synonyms: ["common laurel", "English laurel", "cherry-laurel", "laurel hedge"]
+  toxic_principle: Cyanogenic glycosides (prunasin, prulaurasin, amygdalin) in the leaves and seeds; crushing, chewing or cooking releases hydrogen cyanide (HCN) via beta-glucosidase.
+  toxicity: The leaves and seeds are cyanogenic. When crushed, chewed or cooked they release hydrogen cyanide, which blocks the body's cells from using oxygen; poisoning can cause headache, dizziness, vomiting, breathlessness and convulsions, and severe cases (especially in children and livestock) can be fatal. The thick glossy leaves closely resemble edible bay/laurel and have been collected in mistake for it.
+  toxicity_category: cytotoxic
+  onset: Minutes to a few hours after ingesting or chewing crushed leaves
+  default_severity: dangerous
+  references:
+  - REF-2657
+  - REF-2658

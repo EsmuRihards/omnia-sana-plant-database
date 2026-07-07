@@ -238,9 +238,30 @@ references:
 - REF-1685
 - REF-1686
 - REF-1687
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: prunus-laurocerasus
+  severity: dangerous
+  confused_part: Glossy evergreen leaves gathered for use as bay/laurel seasoning; cherry laurel leaves closely resemble bay leaves and have been collected in mistake for them.
+  confusion_context: Cherry laurel (Prunus laurocerasus) is a very common evergreen hedging shrub whose thick glossy leaves closely resemble those of culinary bay (Laurus nobilis). A peer-reviewed study (Malaspina et al., 2022, Toxins) documents that in the Mediterranean region cherry laurel is sometimes collected instead of bay laurel - dangerous because cherry laurel leaves contain cyanogenic glycosides (prunasin, prulaurasin, amygdalin). When the leaves are crushed, chewed or cooked they release hydrogen cyanide, which blocks the body's use of oxygen; poisoning can cause headache, breathlessness, vomiting and convulsions, and severe cases (especially in children) can be fatal. Because a single bay-like leaf added to a dish is a realistic swap, this is a genuine kitchen hazard.
+  distinguishing_features:
+  - 'SMELL (decisive): crush the leaf. True bay smells warm, spicy and camphoraceous (the familiar bay-leaf aroma). Cherry laurel smells of bitter almonds or marzipan - that almond smell is released cyanide and is a danger sign, not a seasoning.'
+  - 'Leaf margin: bay leaves have smooth, slightly wavy (undulate) edges with no teeth. Cherry laurel leaves have finely serrated (toothed) edges.'
+  - 'Petiole and glands: the bay leaf-stalk is reddish and the underside is plain. Cherry laurel has a green leaf-stalk and 2-4 small nectary glands visible on the underside near the leaf base.'
+  - 'Shape and texture: bay is oblong and tapers to a point, up to about 10 cm; cherry laurel leaves are larger, broader (widest near the tip) and very thick and leathery.'
+  key_test: Crush a leaf and smell it, then check the edge. A warm camphoraceous bay aroma with a smooth wavy (untoothed) margin and a reddish stalk = true bay - safe. A bitter-almond/marzipan smell with a finely toothed (serrated) margin and small green glands under the leaf base = cherry laurel - do NOT cook with it; the almond smell is cyanide.
+  reference_ids:
+  - REF-2657
+  - REF-2658
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

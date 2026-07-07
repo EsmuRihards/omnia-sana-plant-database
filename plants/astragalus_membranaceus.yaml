@@ -148,9 +148,13 @@ references:
 - REF-0401
 - REF-2262
 - REF-2263
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
   of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);

@@ -184,9 +184,13 @@ references:
 - REF-2104
 - REF-2105
 - REF-2106
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review,
   Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained

@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
  "count": 59,
- "plants_covered": 168,
+ "plants_covered": 179,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -842,6 +842,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "vaccinium-macrocarpon",
+   "plant": "American Cranberry",
+   "scientific": "Vaccinium macrocarpon",
+   "common_slug": "american-cranberry",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "andrographis-paniculata",
    "plant": "Andrographis",
    "scientific": "Andrographis paniculata",
@@ -967,6 +978,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "arnica-montana",
+   "plant": "Arnica",
+   "scientific": "Arnica montana",
+   "common_slug": "arnica",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "cynara-scolymus",
    "plant": "Artichoke",
    "scientific": "Cynara scolymus",
@@ -983,6 +1005,17 @@
    "scientific": "Withania somnifera",
    "common_slug": "ashwagandha",
    "wp_post_id": 149,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "astragalus-membranaceus",
+   "plant": "Astragalus",
+   "scientific": "Astragalus membranaceus",
+   "common_slug": "astragalus",
+   "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -1757,6 +1790,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "primula-veris",
+   "plant": "Cowslip",
+   "scientific": "Primula veris",
+   "common_slug": "cowslip",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "viburnum-opulus",
    "plant": "Cramp Bark",
    "scientific": "Viburnum opulus",
@@ -1784,6 +1828,17 @@
      "status": "approved"
     }
    ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "oxycoccus-palustris",
+   "plant": "Cranberry",
+   "scientific": "Oxycoccus palustris",
+   "common_slug": "cranberry",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   },
@@ -2078,6 +2133,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "chamerion-angustifolium",
+   "plant": "Fireweed",
+   "scientific": "Chamerion angustifolium",
+   "common_slug": "fireweed",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "linum-usitatissimum",
    "plant": "Flaxseed",
    "scientific": "Linum usitatissimum",
@@ -2226,6 +2292,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "hydrastis-canadensis",
+   "plant": "Goldenseal",
+   "scientific": "Hydrastis canadensis",
+   "common_slug": "goldenseal",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "centella-asiatica",
    "plant": "Gotu Kola",
    "scientific": "Centella asiatica",
@@ -2317,6 +2394,17 @@
      "status": "approved"
     }
    ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "chelidonium-majus",
+   "plant": "Greater Celandine",
+   "scientific": "Chelidonium majus",
+   "common_slug": "greater-celandine",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   },
@@ -2510,6 +2598,17 @@
    "plant": "Horehound",
    "scientific": "Marrubium vulgare",
    "common_slug": "horehound",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "aesculus-hippocastanum",
+   "plant": "Horse Chestnut",
+   "scientific": "Aesculus hippocastanum",
+   "common_slug": "horse-chestnut",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -2956,6 +3055,17 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "panax-ginseng",
+   "plant": "Panax Ginseng",
+   "scientific": "Panax ginseng",
+   "common_slug": "panax-ginseng",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "petroselinum-crispum",
@@ -3690,6 +3800,17 @@
    "scientific": "Lamium album",
    "common_slug": "white-dead-nettle",
    "wp_post_id": 174,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "prunus-serotina",
+   "plant": "Wild Cherry Bark",
+   "scientific": "Prunus serotina",
+   "common_slug": "wild-cherry-bark",
+   "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",

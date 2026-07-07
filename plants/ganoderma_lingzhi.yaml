@@ -183,9 +183,29 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: podostroma-cornu-damae
+  severity: fatal
+  confused_part: Wild-collected fruit bodies gathered as reishi/lingzhi for medicinal tea; the immature red, antler-like fruit bodies of poison fire coral can be taken for young reishi.
+  confusion_context: Reishi (Ganoderma lingzhi / lucidum) is a hard, varnished bracket fungus collected and brewed as a health tonic. Poison fire coral (Podostroma cornu-damae), one of the few deadly-poisonous fungi, is documented to resemble Ganoderma lucidum in its immature stage. A peer-reviewed case report (Ahn et al., 2013, Yonsei Med J) describes two people who collected and boiled wild fungus as tea - one died of pancytopenia and multiple organ failure - and states that in its immature period poison fire coral resembles Ganoderma lucidum, 'well known as a health-food.' Its trichothecene mycotoxins (satratoxins) are frequently fatal. Because reishi is wild-collected for medicinal tea in East Asia, this is a genuinely lethal confusion.
+  distinguishing_features:
+  - 'Colour and form: poison fire coral is bright blood-red to orange-red and grows as erect, often branched antler- or coral-like clubs rising from the ground or buried wood. True reishi is a flat kidney- or fan-shaped bracket (conk) with a hard, glossy, varnished red-brown to mahogany crust and a pale pored underside, growing on wood.'
+  - 'Growth pattern: reishi forms a shelf/bracket with a distinct cap and often a lateral stalk; poison fire coral forms finger-like or antler-like red spikes with no cap.'
+  - 'Underside: reishi has a white-to-brown pored underside that drops rusty-brown spores; poison fire coral has no pores at all.'
+  key_test: Look at the shape. Reishi is a hard, flat, varnished shelf/bracket with a pale pored underside, growing on wood. Any bright red, erect antler- or coral-like club with NO cap and NO pores is NOT reishi - it may be poison fire coral (Podostroma cornu-damae), which can kill. Never brew an unfamiliar red club or coral fungus; if unsure, do not use it and confirm with an expert mycologist.
+  reference_ids:
+  - REF-2660
+  - REF-2659
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

@@ -132,9 +132,30 @@ references:
 - REF-2161
 - REF-2162
 - REF-2163
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: podostroma-cornu-damae
+  severity: fatal
+  confused_part: Bright orange-red club-shaped fruit bodies collected from the wild as a cordyceps tonic; the erect red antler-/club-like fruit bodies of poison fire coral resemble the orange clubs of Cordyceps.
+  confusion_context: Cordyceps militaris produces small, bright orange, club-shaped fruit bodies and is prized as a health tonic in East Asia, where wild specimens are collected. Poison fire coral (Podostroma cornu-damae) is a deadly trichothecene-containing fungus whose erect red, antler- or coral-like clubs closely resemble Cordyceps. The Royal Society of Chemistry reports it has often been mistaken for Cordyceps sobolifera as well as two other edible mushrooms, Ganoderma lucidum and Cordyceps militaris, and forensic case reports document deaths from ingesting it (multiple organ failure, pancytopenia). Because it is confused specifically with cordyceps by foragers, this is a lethal look-alike.
+  distinguishing_features:
+  - 'Substrate (decisive): true Cordyceps militaris grows OUT OF a buried insect - a mummified caterpillar or pupa - which you find if you dig at the base. Poison fire coral grows from soil or buried wood and roots, never from an insect host.'
+  - 'Form: Cordyceps militaris is a small (about 2-8 cm) simple or sparingly branched orange club with a minutely roughened fertile head. Poison fire coral forms deeper blood-red, often branched antler- or coral-like clubs.'
+  - 'Colour: Cordyceps militaris is orange to orange-red; poison fire coral is a brighter blood-red.'
+  key_test: Dig up the base. True Cordyceps militaris emerges from a buried insect (a caterpillar or pupa) - the mummified host is the proof. A red or orange club or antler arising from soil or wood with NO insect host, especially if branched and blood-red, may be poison fire coral (Podostroma cornu-damae), which can kill. If there is no insect host, do not consume it; confirm with an expert.
+  reference_ids:
+  - REF-2661
+  - REF-2659
+  - REF-2660
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

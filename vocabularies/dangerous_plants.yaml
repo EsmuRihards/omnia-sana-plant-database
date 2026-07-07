@@ -307,3 +307,18 @@
   references:
   - REF-2657
   - REF-2658
+
+- id: podostroma-cornu-damae
+  label: Poison fire coral
+  scientific_name: Podostroma cornu-damae
+  family: Hypocreaceae
+  kingdom: fungus
+  synonyms: ["Trichoderma cornu-damae", "poison fire coral", "fire coral fungus"]
+  toxic_principle: Macrocyclic trichothecene mycotoxins (satratoxin H and related satratoxins, roridins, verrucarol) that inhibit protein synthesis and cell division.
+  toxicity: One of the few deadly-poisonous fungi. Its bright red, antler- or coral-like fruit bodies contain macrocyclic trichothecenes; even a small amount taken as food or tea causes early gastrointestinal upset followed by delayed multi-organ failure - pancytopenia, skin desquamation, liver and kidney failure and disseminated intravascular coagulation - and has repeatedly caused death. In its immature stage it resembles the medicinal fungi Ganoderma lucidum (reishi/lingzhi) and Cordyceps militaris and has been collected in mistake for them. Occurs in East Asia (Korea, Japan, China) and has been reported spreading elsewhere.
+  toxicity_category: cytotoxic
+  onset: Early gastrointestinal symptoms within hours; delayed pancytopenia and organ failure over days
+  default_severity: fatal
+  references:
+  - REF-2659
+  - REF-2660

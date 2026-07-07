@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 34,
- "plants_covered": 54,
+ "count": 36,
+ "plants_covered": 59,
  "dangerous_plants": [
   {
    "id": "pleurocybella-porrigens",
@@ -345,6 +345,27 @@
     "REF-2636",
     "REF-2637",
     "REF-2638"
+   ]
+  },
+  {
+   "id": "podostroma-cornu-damae",
+   "label": "Poison fire coral",
+   "scientific_name": "Podostroma cornu-damae",
+   "family": "Hypocreaceae",
+   "kingdom": "fungus",
+   "synonyms": [
+    "Trichoderma cornu-damae",
+    "poison fire coral",
+    "fire coral fungus"
+   ],
+   "toxic_principle": "Macrocyclic trichothecene mycotoxins (satratoxin H and related satratoxins, roridins, verrucarol) that inhibit protein synthesis and cell division.",
+   "toxicity": "One of the few deadly-poisonous fungi. Its bright red, antler- or coral-like fruit bodies contain macrocyclic trichothecenes; even a small amount taken as food or tea causes early gastrointestinal upset followed by delayed multi-organ failure - pancytopenia, skin desquamation, liver and kidney failure and disseminated intravascular coagulation - and has repeatedly caused death. In its immature stage it resembles the medicinal fungi Ganoderma lucidum (reishi/lingzhi) and Cordyceps militaris and has been collected in mistake for them. Occurs in East Asia (Korea, Japan, China) and has been reported spreading elsewhere.",
+   "toxicity_category": "cytotoxic",
+   "onset": "Early gastrointestinal symptoms within hours; delayed pancytopenia and organ failure over days",
+   "default_severity": "fatal",
+   "references": [
+    "REF-2659",
+    "REF-2660"
    ]
   },
   {
@@ -737,6 +758,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "inonotus-obliquus",
+   "plant": "Chaga",
+   "scientific": "Inonotus obliquus",
+   "common_slug": "chaga",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "vitex-agnus-castus",
    "plant": "Chasteberry",
    "scientific": "Vitex agnus-castus",
@@ -876,6 +908,38 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "cordyceps-militaris",
+   "plant": "Cordyceps",
+   "scientific": "Cordyceps militaris",
+   "common_slug": "cordyceps",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "podostroma-cornu-damae",
+     "dangerous_plant_label": "Poison fire coral",
+     "kingdom": "fungus",
+     "severity": "fatal",
+     "confused_part": "Bright orange-red club-shaped fruit bodies collected from the wild as a cordyceps tonic; the erect red antler-/club-like fruit bodies of poison fire coral resemble the orange clubs of Cordyceps.",
+     "confusion_context": "Cordyceps militaris produces small, bright orange, club-shaped fruit bodies and is prized as a health tonic in East Asia, where wild specimens are collected. Poison fire coral (Podostroma cornu-damae) is a deadly trichothecene-containing fungus whose erect red, antler- or coral-like clubs closely resemble Cordyceps. The Royal Society of Chemistry reports it has often been mistaken for Cordyceps sobolifera as well as two other edible mushrooms, Ganoderma lucidum and Cordyceps militaris, and forensic case reports document deaths from ingesting it (multiple organ failure, pancytopenia). Because it is confused specifically with cordyceps by foragers, this is a lethal look-alike.",
+     "distinguishing_features": [
+      "Substrate (decisive): true Cordyceps militaris grows OUT OF a buried insect - a mummified caterpillar or pupa - which you find if you dig at the base. Poison fire coral grows from soil or buried wood and roots, never from an insect host.",
+      "Form: Cordyceps militaris is a small (about 2-8 cm) simple or sparingly branched orange club with a minutely roughened fertile head. Poison fire coral forms deeper blood-red, often branched antler- or coral-like clubs.",
+      "Colour: Cordyceps militaris is orange to orange-red; poison fire coral is a brighter blood-red."
+     ],
+     "key_test": "Dig up the base. True Cordyceps militaris emerges from a buried insect (a caterpillar or pupa) - the mummified host is the proof. A red or orange club or antler arising from soil or wood with NO insect host, especially if branched and blood-red, may be poison fire coral (Podostroma cornu-damae), which can kill. If there is no insect host, do not consume it; confirm with an expert.",
+     "references": [
+      "REF-2661",
+      "REF-2659",
+      "REF-2660"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "coriandrum-sativum",
@@ -1422,6 +1486,48 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "ganoderma-lingzhi",
+   "plant": "Lingzhi",
+   "scientific": "Ganoderma lingzhi",
+   "common_slug": "lingzhi",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "podostroma-cornu-damae",
+     "dangerous_plant_label": "Poison fire coral",
+     "kingdom": "fungus",
+     "severity": "fatal",
+     "confused_part": "Wild-collected fruit bodies gathered as reishi/lingzhi for medicinal tea; the immature red, antler-like fruit bodies of poison fire coral can be taken for young reishi.",
+     "confusion_context": "Reishi (Ganoderma lingzhi / lucidum) is a hard, varnished bracket fungus collected and brewed as a health tonic. Poison fire coral (Podostroma cornu-damae), one of the few deadly-poisonous fungi, is documented to resemble Ganoderma lucidum in its immature stage. A peer-reviewed case report (Ahn et al., 2013, Yonsei Med J) describes two people who collected and boiled wild fungus as tea - one died of pancytopenia and multiple organ failure - and states that in its immature period poison fire coral resembles Ganoderma lucidum, 'well known as a health-food.' Its trichothecene mycotoxins (satratoxins) are frequently fatal. Because reishi is wild-collected for medicinal tea in East Asia, this is a genuinely lethal confusion.",
+     "distinguishing_features": [
+      "Colour and form: poison fire coral is bright blood-red to orange-red and grows as erect, often branched antler- or coral-like clubs rising from the ground or buried wood. True reishi is a flat kidney- or fan-shaped bracket (conk) with a hard, glossy, varnished red-brown to mahogany crust and a pale pored underside, growing on wood.",
+      "Growth pattern: reishi forms a shelf/bracket with a distinct cap and often a lateral stalk; poison fire coral forms finger-like or antler-like red spikes with no cap.",
+      "Underside: reishi has a white-to-brown pored underside that drops rusty-brown spores; poison fire coral has no pores at all."
+     ],
+     "key_test": "Look at the shape. Reishi is a hard, flat, varnished shelf/bracket with a pale pored underside, growing on wood. Any bright red, erect antler- or coral-like club with NO cap and NO pores is NOT reishi - it may be poison fire coral (Podostroma cornu-damae), which can kill. Never brew an unfamiliar red club or coral fungus; if unsure, do not use it and confirm with an expert mycologist.",
+     "references": [
+      "REF-2660",
+      "REF-2659"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "hericium-erinaceus",
+   "plant": "Lions mane",
+   "scientific": "Hericium erinaceus",
+   "common_slug": "lions-mane",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "morinda-citrifolia",
    "plant": "Noni",
    "scientific": "Morinda citrifolia",
@@ -1625,6 +1731,17 @@
    "plant": "Schisandra",
    "scientific": "Schisandra chinensis",
    "common_slug": "schisandra",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "lentinula-edodes",
+   "plant": "Shiitake (mushroom)",
+   "scientific": "Lentinula edodes",
+   "common_slug": "shiitake-mushroom",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],

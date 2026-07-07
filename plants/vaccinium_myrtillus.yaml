@@ -143,9 +143,28 @@ references:
 - REF-2571
 - REF-2572
 - REF-2573
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: ligustrum-vulgare
+  severity: irritant
+  confused_part: Dark blue-black berries gathered for food; privet bears clusters of similar-looking mildly toxic black berries.
+  confusion_context: Bilberry (Vaccinium myrtillus) is foraged for its single dark blue-black berries on a low moorland shrub. As the Foraging Course Company notes, it may be confused with privet (Ligustrum), whose berries are mildly toxic; privet berries can cause vomiting, diarrhoea and stomach pain, occasionally more seriously in children. The decisive difference is that privet berries hang in dense clusters on a tall hedge shrub, whereas bilberries are borne singly on a low plant. Because both are dark berries, checking how they are borne matters.
+  distinguishing_features:
+  - 'Berry arrangement (decisive): bilberries grow SINGLY (one berry per stalk), each with a small crown/ring at the top, on a low (under ~50 cm) hairless shrub with bright-green oval leaves. Privet berries grow in dense CLUSTERS (panicles) on a tall hedge shrub with paired untoothed leaves.'
+  - 'Flesh: bilberry flesh is red-purple and stains the fingers and mouth; privet berries do not have that juicy staining bilberry flesh.'
+  - 'Habitat: bilberry grows on heaths, moors and open woodland; privet is a hedge and scrub shrub, often planted.'
+  key_test: Look at how the berries are held. Single berries (each with a little crown) on a low moorland shrub with red-purple staining flesh = bilberry. Berries in dense clusters on a tall hedge shrub = privet - mildly toxic, do not eat. If the berries are clustered rather than single, do not gather them.
+  reference_ids:
+  - REF-2697
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Survey of Ophthalmology systematic review;
   Molecules review of metabolic/cardiovascular effects). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (eye-strain, varicose-veins, high-cholesterol, inflammation); associations

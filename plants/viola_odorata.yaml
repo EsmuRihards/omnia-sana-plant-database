@@ -164,9 +164,28 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: ficaria-verna
+  severity: irritant
+  confused_part: Low, heart-shaped spring leaves gathered as an edible; lesser celandine forms similar low leaves at the same time and place.
+  confusion_context: Sweet violet (Viola odorata) is foraged in early spring for its heart-shaped leaves and flowers. Lesser celandine (Ficaria verna, fig buttercup) grows in the same season and habitat and, as foraging guidance warns, its low-growing leaves closely resemble violet; lesser celandine is toxic to humans in most stages (it contains the acrid irritant protoanemonin). Because their spring leaves are alike, this is a genuine early-season foraging hazard, although cooking destroys the toxin and the acrid taste discourages eating much.
+  distinguishing_features:
+  - 'Flowers (decisive): sweet violet has purple (sometimes white) flowers with five uneven petals. Lesser celandine has glossy, bright-yellow star-like flowers with 8-12 petals. A yellow many-petalled flower means lesser celandine, never violet.'
+  - 'Leaves: violet leaves are matt and heart-shaped on their own stalks from the base. Lesser celandine leaves are glossier and more kidney- to arrow-shaped, sometimes with pale mottling.'
+  - 'Best practice: harvest violet leaves only once you can trace every leaf to a violet plant (ideally in flower), not to a yellow-flowered plant.'
+  key_test: Wait until the plant flowers, or trace each leaf to its flower. Purple five-petalled flowers with matt heart-shaped leaves = sweet violet. Glossy yellow flowers with 8-12 petals = lesser celandine - do not eat it raw. If you cannot confirm a violet flower, do not gather the leaves.
+  reference_ids:
+  - REF-2686
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs).
   Note: distinct from the book''s Viola tricolor (heartsease). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, insomnia, sore-throat, headache); associations retained

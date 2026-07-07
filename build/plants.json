@@ -5941,9 +5941,35 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "aconitum-napellus",
+     "severity": "fatal",
+     "confused_part": "Young deeply lobed leaves gathered for use; young monkshood - the most poisonous plant in Europe - has similar deeply divided leaves.",
+     "confusion_context": "Mugwort (Artemisia vulgaris) is foraged for its aromatic, deeply lobed leaves. As Totally Wild UK warns, it would be a very deadly mistake to confuse young mugwort with monkshood (Aconitum napellus), whose young leaves are similarly deeply divided. Monkshood is considered the most poisonous plant in Europe: all parts contain aconitine, the lethal dose is only 2-6 mg, and poisoning can kill within hours through respiratory and cardiac failure - the toxin is even absorbed through the skin. Although monkshood is less common, its extreme toxicity makes this confusion critical to avoid.",
+     "distinguishing_features": [
+      "Leaf underside (decisive): mugwort leaves have a distinctive silvery-white woolly underside. Monkshood leaves are green and hairless on both sides, with no silver felt. No silver underside = not mugwort.",
+      "Flowers: mugwort has small, dull reddish-brown flower spikes; monkshood has tall spikes of unmistakable hooded blue-purple flowers.",
+      "Handling: do not handle a suspected monkshood with bare hands - aconitine can be absorbed through the skin."
+     ],
+     "key_test": "Turn the leaf over. A silvery-white woolly underside (with small dull flowers) = mugwort. Green, hairless undersides - and especially any hooded blue-purple flowers - mean monkshood, the most poisonous plant in Europe; do not gather or even handle it with bare hands.",
+     "reference_ids": [
+      "REF-2691",
+      "REF-2692"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "mugwort"
   },
   {
@@ -6137,9 +6163,35 @@
     "REF-1948",
     "REF-1949"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "apocynum-cannabinum",
+     "severity": "dangerous",
+     "confused_part": "Young shoots (and the root) gathered from the wild; toxic dogbane sends up very similar shoots in the same habitat.",
+     "confusion_context": "Butterfly weed / pleurisy root (Asclepias tuberosa) is a milkweed whose young shoots and root have been used. Its main dangerous look-alike is dogbane (Apocynum cannabinum): at the shoot stage the two are easily confused and grow in similar places. Dogbane is a high-severity poison - its milky sap contains cardiac glycosides, all parts are toxic to humans, and poisoning can cause vomiting, weakness and cardiac arrest, while the sap blisters skin. Because the young shoots look alike, the bitterness test below matters.",
+     "distinguishing_features": [
+      "Taste/bitterness (decisive): dogbane is horribly, intensely bitter - an immediate warning to spit it out; edible milkweed shoots are not. Never swallow a bitter 'milkweed' shoot.",
+      "Growth habit: dogbane shoots are thinner and firmer and branch early; milkweeds do not branch at the shoot stage. An early-branching, thin, firm shoot is likely dogbane.",
+      "General: both milkweeds and dogbane have milky sap, so sap alone does not distinguish them - rely on bitterness and branching, and confirm the species before eating."
+     ],
+     "key_test": "Taste a tiny piece and check the branching (then spit it out). An intensely bitter shoot, or one that is thin, firm and branches early, is dogbane - toxic, do not eat. Milky sap alone does not prove it is safe; if in any doubt, discard it.",
+     "reference_ids": [
+      "REF-2695",
+      "REF-2696"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "pleurisy-root"
   },
   {
@@ -19514,9 +19566,34 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "bryonia-dioica",
+     "severity": "dangerous",
+     "confused_part": "Young climbing spring shoots gathered and cooked like asparagus; toxic bryony vines send up similar shoots in the same hedgerows.",
+     "confusion_context": "Hop (Humulus lupulus) shoots are foraged in spring and cooked like asparagus. As Totally Wild UK warns, they can be confused with other climbing plants such as white bryony (Bryonia dioica) and black bryony (Dioscorea communis), which are poisonous and often scramble through the same hedgerows, sometimes twined around the hops themselves. White bryony contains cucurbitacins that cause severe vomiting, diarrhoea and colic, and a few of its berries can seriously poison a child. Because the young shoots are gathered before the tell-tale hop cones form, careful leaf checking is essential.",
+     "distinguishing_features": [
+      "Leaves (decisive): hop leaves have a nettle-like toothed margin and are lobed, and hops have NO tendrils. The bryony lookalikes do not have that toothed, lobed hop-leaf and white bryony climbs by curling tendrils.",
+      "Leaf arrangement: hop leaves are opposite (in pairs); white bryony leaves are alternate.",
+      "Later signs: only hops produce the papery green cones; white bryony bears red berries and black bryony shiny red berries - never gather shoots from a vine that carries or grew red berries."
+     ],
+     "key_test": "Check every shoot for true hop leaves - toothed, lobed, in opposite pairs, with no tendrils. Any shoot with untoothed leaves, curling tendrils, alternate leaves, or that grew red berries is not hops and may be toxic bryony - discard it.",
+     "reference_ids": [
+      "REF-2687"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "hop"
   },
   {
@@ -28297,9 +28374,34 @@
     "REF-1484",
     "REF-1485"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "adenostyles-alliariae",
+     "severity": "dangerous",
+     "confused_part": "Very large rounded leaves and rhizome gathered for use; alpendost has similar large rounded leaves and the same hepatotoxic pyrrolizidine alkaloids.",
+     "confusion_context": "Butterbur (Petasites hybridus) has very large rounded leaves and is used medicinally (as pyrrolizidine-free standardised extracts). In the wild its foliage is confused with alpendost (Adenostyles alliariae) and coltsfoot, all large-leaved damp-ground plants. Alpendost contains hepatotoxic pyrrolizidine alkaloids and, gathered in mistake for coltsfoot/butterbur and brewed as tea, has caused liver veno-occlusive disease (Sperl et al., 1995). Butterbur's own raw leaves also contain pyrrolizidine alkaloids, so wild butterbur should only be used as tested, PA-free products rather than home-gathered material.",
+     "distinguishing_features": [
+      "Leaf: butterbur has enormous rounded leaves (up to about 1 m across when mature) on stout stalks; alpendost leaves are large but smaller and more coarsely toothed. Neither should be brewed from home-gathered material.",
+      "Flowers: butterbur pushes up thick pinkish flower spikes in early spring before the leaves; alpendost has fluffy whitish-pink flower clusters among its leaves in summer.",
+      "Best practice: do not brew wild butterbur or its large-leaved lookalikes at all - use only standardised, pyrrolizidine-free commercial butterbur preparations."
+     ],
+     "key_test": "Do not gather large rounded 'butterbur' leaves for tea - butterbur, alpendost and coltsfoot all look alike and carry liver-damaging pyrrolizidine alkaloids. Use only standardised, pyrrolizidine-free commercial butterbur products rather than home-collected leaves.",
+     "reference_ids": [
+      "REF-2688"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "butterbur"
   },
   {
@@ -37557,9 +37659,35 @@
     "REF-1301",
     "REF-1302"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "jacobaea-vulgaris",
+     "severity": "dangerous",
+     "confused_part": "Yellow-flowered plant gathered for its aromatic foliage and flowers; tansy ragwort shares the name, the yellow colour and rough ground.",
+     "confusion_context": "Common tansy (Tanacetum vulgare) is gathered for its aromatic fern-like foliage and flat clusters of yellow button flowers. Tansy ragwort (Jacobaea vulgaris, syn. Senecio jacobaea) shares the 'tansy' name, the yellow colouring and the same rough grassland, and the two are confused. Ragwort contains hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage and can sicken or kill livestock and people, with the highest risk once cut or dried into hay or herbal material. Because both are yellow-flowered weeds of the same ground, correct identification matters before gathering.",
+     "distinguishing_features": [
+      "Flowers (decisive): common tansy has flat-topped clusters of yellow BUTTON flowers with no petals (ray florets). Tansy ragwort has open, daisy-like yellow flowers with about 13 spreading petals. Petalled daisy flowers = ragwort, not tansy.",
+      "Leaves: common tansy has finely divided, fern-like aromatic leaves; ragwort leaves are blunter, 'kale-like', ruffled and lobed.",
+      "Smell: crushed tansy is strongly aromatic; ragwort lacks that camphor-like tansy scent."
+     ],
+     "key_test": "Look at the flowers. Flat clusters of petal-less yellow buttons on strongly aromatic fern-like foliage = common tansy. Open daisy-like yellow flowers with about 13 petals and ruffled 'kale-like' leaves = tansy ragwort - toxic to the liver, do not gather it. If the flowers have petals, it is not tansy.",
+     "reference_ids": [
+      "REF-2689",
+      "REF-2690"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "tansy"
   },
   {
@@ -40245,9 +40373,34 @@
     "REF-0918",
     "REF-0919"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "adenostyles-alliariae",
+     "severity": "dangerous",
+     "confused_part": "Broad leaves gathered and brewed as coltsfoot tea; alpendost (and butterbur) have similar rounded leaves and grow in the same damp ground.",
+     "confusion_context": "Coltsfoot (Tussilago farfara) leaves are gathered for herbal tea. Alpendost (Adenostyles alliariae) has similar large, rounded leaves and grows in damp woodland and mountain ground; the two are easily confused, especially after the flowering period. Alpendost contains hepatotoxic pyrrolizidine alkaloids: a peer-reviewed case (Sperl et al., 1995) describes an infant who developed liver veno-occlusive disease after long-term 'coltsfoot' tea that was actually alpendost. Butterbur (Petasites) is a similar large-leaved confusion with the same kind of toxicity. Because dried leaf material is especially hard to tell apart, unverified coltsfoot is a real hazard.",
+     "distinguishing_features": [
+      "Leaf shape: coltsfoot leaves are hoof-shaped (heart-shaped with angular teeth) and white-woolly underneath, usually no more than about 20 cm across. Alpendost leaves are larger, more rounded/kidney-shaped and coarsely toothed.",
+      "Timing: coltsfoot flowers (yellow dandelion-like heads on scaly stalks) appear BEFORE the leaves, in very early spring; by summer only leaves remain, which is when confusion is greatest.",
+      "Best practice: because leaves (and dried material) are hard to separate, use coltsfoot only if an expert has confirmed the plant, or buy authenticated, pyrrolizidine-tested material."
+     ],
+     "key_test": "Do not gather broad heart- or kidney-shaped leaves for 'coltsfoot' tea unless an expert has confirmed the species - alpendost and butterbur leaves look very similar and contain liver-damaging pyrrolizidine alkaloids. Confirm coltsfoot by its early-spring yellow flowers and hoof-shaped white-woolly-backed leaves, or use authenticated material.",
+     "reference_ids": [
+      "REF-2688"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "common-coltsfoot"
   },
   {
@@ -40881,9 +41034,34 @@
     "REF-2572",
     "REF-2573"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "ligustrum-vulgare",
+     "severity": "irritant",
+     "confused_part": "Dark blue-black berries gathered for food; privet bears clusters of similar-looking mildly toxic black berries.",
+     "confusion_context": "Bilberry (Vaccinium myrtillus) is foraged for its single dark blue-black berries on a low moorland shrub. As the Foraging Course Company notes, it may be confused with privet (Ligustrum), whose berries are mildly toxic; privet berries can cause vomiting, diarrhoea and stomach pain, occasionally more seriously in children. The decisive difference is that privet berries hang in dense clusters on a tall hedge shrub, whereas bilberries are borne singly on a low plant. Because both are dark berries, checking how they are borne matters.",
+     "distinguishing_features": [
+      "Berry arrangement (decisive): bilberries grow SINGLY (one berry per stalk), each with a small crown/ring at the top, on a low (under ~50 cm) hairless shrub with bright-green oval leaves. Privet berries grow in dense CLUSTERS (panicles) on a tall hedge shrub with paired untoothed leaves.",
+      "Flesh: bilberry flesh is red-purple and stains the fingers and mouth; privet berries do not have that juicy staining bilberry flesh.",
+      "Habitat: bilberry grows on heaths, moors and open woodland; privet is a hedge and scrub shrub, often planted."
+     ],
+     "key_test": "Look at how the berries are held. Single berries (each with a little crown) on a low moorland shrub with red-purple staining flesh = bilberry. Berries in dense clusters on a tall hedge shrub = privet - mildly toxic, do not eat. If the berries are clustered rather than single, do not gather them.",
+     "reference_ids": [
+      "REF-2697"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "bilberry"
   },
   {
@@ -42231,9 +42409,35 @@
     "REF-1141",
     "REF-1142"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "solanum-dulcamara",
+     "severity": "dangerous",
+     "confused_part": "Bright red autumn berries gathered for food; woody nightshade bears similar shiny red berries in the same hedgerows.",
+     "confusion_context": "Guelder rose (Viburnum opulus) berries are gathered (and cooked) for jellies and sauces. As Totally Wild UK warns, when picking them you must make sure the berries come from the guelder rose shrub itself and not from any scrambling vine with red berries, such as woody nightshade (Solanum dulcamara), which is highly toxic and often grows through the same hedges. Woody nightshade berries contain solanine-type glycoalkaloids and have poisoned children. Because both bear shiny red berries in autumn, checking the plant they hang on is essential.",
+     "distinguishing_features": [
+      "Plant form (decisive): guelder rose is an upright shrub with maple-like three-lobed leaves; its berries hang in flat, rounded clusters. Woody nightshade is a floppy scrambling vine with arrow-shaped/lobed leaves and drooping loose clusters of berries.",
+      "Flowers/earlier signs: guelder rose has flat white flower heads (with showy outer flowers); woody nightshade has purple star-shaped flowers with a yellow central cone.",
+      "Berry shape: guelder rose berries are round and translucent-red; woody nightshade berries are more egg-shaped and hang from a scrambling stem, not a woody shrub."
+     ],
+     "key_test": "Check the plant the berries hang on. Round translucent-red berries in flat clusters on an upright shrub with maple-like lobed leaves = guelder rose. Berries on a floppy scrambling vine with arrow-shaped leaves (and purple star flowers earlier in the year) = woody nightshade - toxic, do not pick them.",
+     "reference_ids": [
+      "REF-2693",
+      "REF-2694"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "cramp-bark"
   },
   {
@@ -42483,9 +42687,34 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "ficaria-verna",
+     "severity": "irritant",
+     "confused_part": "Low, heart-shaped spring leaves gathered as an edible; lesser celandine forms similar low leaves at the same time and place.",
+     "confusion_context": "Sweet violet (Viola odorata) is foraged in early spring for its heart-shaped leaves and flowers. Lesser celandine (Ficaria verna, fig buttercup) grows in the same season and habitat and, as foraging guidance warns, its low-growing leaves closely resemble violet; lesser celandine is toxic to humans in most stages (it contains the acrid irritant protoanemonin). Because their spring leaves are alike, this is a genuine early-season foraging hazard, although cooking destroys the toxin and the acrid taste discourages eating much.",
+     "distinguishing_features": [
+      "Flowers (decisive): sweet violet has purple (sometimes white) flowers with five uneven petals. Lesser celandine has glossy, bright-yellow star-like flowers with 8-12 petals. A yellow many-petalled flower means lesser celandine, never violet.",
+      "Leaves: violet leaves are matt and heart-shaped on their own stalks from the base. Lesser celandine leaves are glossier and more kidney- to arrow-shaped, sometimes with pale mottling.",
+      "Best practice: harvest violet leaves only once you can trace every leaf to a violet plant (ideally in flower), not to a yellow-flowered plant."
+     ],
+     "key_test": "Wait until the plant flowers, or trace each leaf to its flower. Purple five-petalled flowers with matt heart-shaped leaves = sweet violet. Glossy yellow flowers with 8-12 petals = lesser celandine - do not eat it raw. If you cannot confirm a violet flower, do not gather the leaves.",
+     "reference_ids": [
+      "REF-2686"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "sweet-violet"
   },
   {

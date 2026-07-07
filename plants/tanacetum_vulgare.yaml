@@ -150,9 +150,29 @@ references:
 - REF-1300
 - REF-1301
 - REF-1302
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: jacobaea-vulgaris
+  severity: dangerous
+  confused_part: Yellow-flowered plant gathered for its aromatic foliage and flowers; tansy ragwort shares the name, the yellow colour and rough ground.
+  confusion_context: Common tansy (Tanacetum vulgare) is gathered for its aromatic fern-like foliage and flat clusters of yellow button flowers. Tansy ragwort (Jacobaea vulgaris, syn. Senecio jacobaea) shares the 'tansy' name, the yellow colouring and the same rough grassland, and the two are confused. Ragwort contains hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage and can sicken or kill livestock and people, with the highest risk once cut or dried into hay or herbal material. Because both are yellow-flowered weeds of the same ground, correct identification matters before gathering.
+  distinguishing_features:
+  - 'Flowers (decisive): common tansy has flat-topped clusters of yellow BUTTON flowers with no petals (ray florets). Tansy ragwort has open, daisy-like yellow flowers with about 13 spreading petals. Petalled daisy flowers = ragwort, not tansy.'
+  - 'Leaves: common tansy has finely divided, fern-like aromatic leaves; ragwort leaves are blunter, ''kale-like'', ruffled and lobed.'
+  - 'Smell: crushed tansy is strongly aromatic; ragwort lacks that camphor-like tansy scent.'
+  key_test: Look at the flowers. Flat clusters of petal-less yellow buttons on strongly aromatic fern-like foliage = common tansy. Open daisy-like yellow flowers with about 13 petals and ruffled 'kale-like' leaves = tansy ragwort - toxic to the liver, do not gather it. If the flowers have petals, it is not tansy.
+  reference_ids:
+  - REF-2689
+  - REF-2690
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

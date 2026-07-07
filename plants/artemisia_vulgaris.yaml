@@ -170,9 +170,29 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: aconitum-napellus
+  severity: fatal
+  confused_part: Young deeply lobed leaves gathered for use; young monkshood - the most poisonous plant in Europe - has similar deeply divided leaves.
+  confusion_context: 'Mugwort (Artemisia vulgaris) is foraged for its aromatic, deeply lobed leaves. As Totally Wild UK warns, it would be a very deadly mistake to confuse young mugwort with monkshood (Aconitum napellus), whose young leaves are similarly deeply divided. Monkshood is considered the most poisonous plant in Europe: all parts contain aconitine, the lethal dose is only 2-6 mg, and poisoning can kill within hours through respiratory and cardiac failure - the toxin is even absorbed through the skin. Although monkshood is less common, its extreme toxicity makes this confusion critical to avoid.'
+  distinguishing_features:
+  - 'Leaf underside (decisive): mugwort leaves have a distinctive silvery-white woolly underside. Monkshood leaves are green and hairless on both sides, with no silver felt. No silver underside = not mugwort.'
+  - 'Flowers: mugwort has small, dull reddish-brown flower spikes; monkshood has tall spikes of unmistakable hooded blue-purple flowers.'
+  - 'Handling: do not handle a suspected monkshood with bare hands - aconitine can be absorbed through the skin.'
+  key_test: Turn the leaf over. A silvery-white woolly underside (with small dull flowers) = mugwort. Green, hairless undersides - and especially any hooded blue-purple flowers - mean monkshood, the most poisonous plant in Europe; do not gather or even handle it with bare hands.
+  reference_ids:
+  - REF-2691
+  - REF-2692
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

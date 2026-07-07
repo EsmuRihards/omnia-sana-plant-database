@@ -134,9 +134,28 @@ references:
 - REF-0917
 - REF-0918
 - REF-0919
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: adenostyles-alliariae
+  severity: dangerous
+  confused_part: Broad leaves gathered and brewed as coltsfoot tea; alpendost (and butterbur) have similar rounded leaves and grow in the same damp ground.
+  confusion_context: 'Coltsfoot (Tussilago farfara) leaves are gathered for herbal tea. Alpendost (Adenostyles alliariae) has similar large, rounded leaves and grows in damp woodland and mountain ground; the two are easily confused, especially after the flowering period. Alpendost contains hepatotoxic pyrrolizidine alkaloids: a peer-reviewed case (Sperl et al., 1995) describes an infant who developed liver veno-occlusive disease after long-term ''coltsfoot'' tea that was actually alpendost. Butterbur (Petasites) is a similar large-leaved confusion with the same kind of toxicity. Because dried leaf material is especially hard to tell apart, unverified coltsfoot is a real hazard.'
+  distinguishing_features:
+  - 'Leaf shape: coltsfoot leaves are hoof-shaped (heart-shaped with angular teeth) and white-woolly underneath, usually no more than about 20 cm across. Alpendost leaves are larger, more rounded/kidney-shaped and coarsely toothed.'
+  - 'Timing: coltsfoot flowers (yellow dandelion-like heads on scaly stalks) appear BEFORE the leaves, in very early spring; by summer only leaves remain, which is when confusion is greatest.'
+  - 'Best practice: because leaves (and dried material) are hard to separate, use coltsfoot only if an expert has confirmed the plant, or buy authenticated, pyrrolizidine-tested material.'
+  key_test: Do not gather broad heart- or kidney-shaped leaves for 'coltsfoot' tea unless an expert has confirmed the species - alpendost and butterbur leaves look very similar and contain liver-damaging pyrrolizidine alkaloids. Confirm coltsfoot by its early-spring yellow flowers and hoof-shaped white-woolly-backed leaves, or use authenticated material.
+  reference_ids:
+  - REF-2688
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

@@ -99,9 +99,29 @@ references:
 - REF-1140
 - REF-1141
 - REF-1142
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: solanum-dulcamara
+  severity: dangerous
+  confused_part: Bright red autumn berries gathered for food; woody nightshade bears similar shiny red berries in the same hedgerows.
+  confusion_context: Guelder rose (Viburnum opulus) berries are gathered (and cooked) for jellies and sauces. As Totally Wild UK warns, when picking them you must make sure the berries come from the guelder rose shrub itself and not from any scrambling vine with red berries, such as woody nightshade (Solanum dulcamara), which is highly toxic and often grows through the same hedges. Woody nightshade berries contain solanine-type glycoalkaloids and have poisoned children. Because both bear shiny red berries in autumn, checking the plant they hang on is essential.
+  distinguishing_features:
+  - 'Plant form (decisive): guelder rose is an upright shrub with maple-like three-lobed leaves; its berries hang in flat, rounded clusters. Woody nightshade is a floppy scrambling vine with arrow-shaped/lobed leaves and drooping loose clusters of berries.'
+  - 'Flowers/earlier signs: guelder rose has flat white flower heads (with showy outer flowers); woody nightshade has purple star-shaped flowers with a yellow central cone.'
+  - 'Berry shape: guelder rose berries are round and translucent-red; woody nightshade berries are more egg-shaped and hang from a scrambling stem, not a woody shrub.'
+  key_test: Check the plant the berries hang on. Round translucent-red berries in flat clusters on an upright shrub with maple-like lobed leaves = guelder rose. Berries on a floppy scrambling vine with arrow-shaped leaves (and purple star flowers earlier in the year) = woody nightshade - toxic, do not pick them.
+  reference_ids:
+  - REF-2693
+  - REF-2694
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect
   overview). Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps,

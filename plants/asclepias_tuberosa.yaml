@@ -121,9 +121,29 @@ references:
 - REF-0626
 - REF-1948
 - REF-1949
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: apocynum-cannabinum
+  severity: dangerous
+  confused_part: Young shoots (and the root) gathered from the wild; toxic dogbane sends up very similar shoots in the same habitat.
+  confusion_context: 'Butterfly weed / pleurisy root (Asclepias tuberosa) is a milkweed whose young shoots and root have been used. Its main dangerous look-alike is dogbane (Apocynum cannabinum): at the shoot stage the two are easily confused and grow in similar places. Dogbane is a high-severity poison - its milky sap contains cardiac glycosides, all parts are toxic to humans, and poisoning can cause vomiting, weakness and cardiac arrest, while the sap blisters skin. Because the young shoots look alike, the bitterness test below matters.'
+  distinguishing_features:
+  - 'Taste/bitterness (decisive): dogbane is horribly, intensely bitter - an immediate warning to spit it out; edible milkweed shoots are not. Never swallow a bitter ''milkweed'' shoot.'
+  - 'Growth habit: dogbane shoots are thinner and firmer and branch early; milkweeds do not branch at the shoot stage. An early-branching, thin, firm shoot is likely dogbane.'
+  - 'General: both milkweeds and dogbane have milky sap, so sap alone does not distinguish them - rely on bitterness and branching, and confirm the species before eating.'
+  key_test: Taste a tiny piece and check the branching (then spit it out). An intensely bitter shoot, or one that is thin, firm and branches early, is dogbane - toxic, do not eat. Milky sap alone does not prove it is safe; if in any doubt, discard it.
+  reference_ids:
+  - REF-2695
+  - REF-2696
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Enriched 2026-06-12 from general herbal literature (traditional monographs). Record status
   set to needs-review because Asclepias tuberosa contains cardiac glycosides and has essentially no modern
   clinical evidence. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool

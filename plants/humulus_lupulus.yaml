@@ -146,9 +146,28 @@ pairings:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: bryonia-dioica
+  severity: dangerous
+  confused_part: Young climbing spring shoots gathered and cooked like asparagus; toxic bryony vines send up similar shoots in the same hedgerows.
+  confusion_context: Hop (Humulus lupulus) shoots are foraged in spring and cooked like asparagus. As Totally Wild UK warns, they can be confused with other climbing plants such as white bryony (Bryonia dioica) and black bryony (Dioscorea communis), which are poisonous and often scramble through the same hedgerows, sometimes twined around the hops themselves. White bryony contains cucurbitacins that cause severe vomiting, diarrhoea and colic, and a few of its berries can seriously poison a child. Because the young shoots are gathered before the tell-tale hop cones form, careful leaf checking is essential.
+  distinguishing_features:
+  - 'Leaves (decisive): hop leaves have a nettle-like toothed margin and are lobed, and hops have NO tendrils. The bryony lookalikes do not have that toothed, lobed hop-leaf and white bryony climbs by curling tendrils.'
+  - 'Leaf arrangement: hop leaves are opposite (in pairs); white bryony leaves are alternate.'
+  - 'Later signs: only hops produce the papery green cones; white bryony bears red berries and black bryony shiny red berries - never gather shoots from a vine that carries or grew red berries.'
+  key_test: Check every shoot for true hop leaves - toothed, lobed, in opposite pairs, with no tendrils. Any shoot with untoothed leaves, curling tendrils, alternate leaves, or that grew red berries is not hops and may be toxic bryony - discard it.
+  reference_ids:
+  - REF-2687
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

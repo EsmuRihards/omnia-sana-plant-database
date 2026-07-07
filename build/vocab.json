@@ -1230,6 +1230,26 @@
    ]
   },
   {
+   "id": "adenostyles-alliariae",
+   "label": "Alpendost",
+   "scientific_name": "Adenostyles alliariae",
+   "family": "Asteraceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "alpendost",
+    "adenostyles",
+    "grey alpendost"
+   ],
+   "toxic_principle": "Hepatotoxic pyrrolizidine alkaloids (seneciphylline and related).",
+   "toxicity": "A large-leaved plant of damp mountain woods whose rounded leaves resemble coltsfoot and butterbur. It contains hepatotoxic pyrrolizidine alkaloids; gathered in mistake for coltsfoot and brewed as tea it has caused hepatic veno-occlusive disease, including a documented case of severe liver disease in an infant, and cumulatively damages the liver. The plants are easily confused, especially after flowering.",
+   "toxicity_category": "hepatotoxic",
+   "onset": "Cumulative liver injury over weeks to months of repeated use",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2688"
+   ]
+  },
+  {
    "id": "pleurocybella-porrigens",
    "label": "Angel wing",
    "scientific_name": "Pleurocybella porrigens",
@@ -1396,6 +1416,27 @@
    "references": [
     "REF-2673",
     "REF-2675"
+   ]
+  },
+  {
+   "id": "apocynum-cannabinum",
+   "label": "Dogbane",
+   "scientific_name": "Apocynum cannabinum",
+   "family": "Apocynaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "hemp dogbane",
+    "Indian hemp",
+    "dogbane"
+   ],
+   "toxic_principle": "Cardiac glycosides (cymarin and related) and resins in the milky sap; all parts are toxic.",
+   "toxicity": "A milkweed-family plant classed as a high-severity poison. Its stems exude a milky sap containing cardiac glycosides; all parts are highly toxic to humans and mammals, causing nausea, vomiting, weakness, diarrhoea and cardiac arrest, and the sap blisters the skin. Its young shoots resemble those of edible milkweeds such as butterfly weed, but dogbane branches early and is intensely bitter.",
+   "toxicity_category": "cardiotoxic",
+   "onset": "Within hours of ingestion; skin blistering on sap contact",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2695",
+    "REF-2696"
    ]
   },
   {
@@ -1594,6 +1635,26 @@
    ]
   },
   {
+   "id": "ficaria-verna",
+   "label": "Lesser celandine",
+   "scientific_name": "Ficaria verna",
+   "family": "Ranunculaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "fig buttercup",
+    "pilewort",
+    "Ranunculus ficaria"
+   ],
+   "toxic_principle": "Protoanemonin, an acrid vesicant lactone released from ranunculin when fresh tissue is crushed or chewed; destroyed on drying and cooking.",
+   "toxicity": "Fresh leaves and roots are acrid and irritant; chewing raw material burns the mouth and can cause gastrointestinal upset. Mildly toxic in most stages, and the burning taste plus loss of toxicity on cooking limit serious poisoning. Its low spring leaves closely resemble those of sweet violet.",
+   "toxicity_category": "gastrointestinal",
+   "onset": "Minutes to a few hours after contact with or ingestion of fresh material",
+   "default_severity": "irritant",
+   "references": [
+    "REF-2686"
+   ]
+  },
+  {
    "id": "convallaria-majalis",
    "label": "Lily-of-the-valley",
    "scientific_name": "Convallaria majalis",
@@ -1652,6 +1713,27 @@
    "references": [
     "REF-2676",
     "REF-2677"
+   ]
+  },
+  {
+   "id": "aconitum-napellus",
+   "label": "Monkshood",
+   "scientific_name": "Aconitum napellus",
+   "family": "Ranunculaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "aconite",
+    "wolfsbane",
+    "monk's hood"
+   ],
+   "toxic_principle": "The alkaloid aconitine (all parts, highest in the root), which holds sodium channels open and disrupts nerve and heart function.",
+   "toxicity": "Considered the most poisonous plant in Europe. All parts contain aconitine; the lethal dose in an adult is only 2-6 mg, and poisoning - starting with tingling and numbness of the mouth, vomiting and severe muscle pain - can kill within hours through respiratory failure and cardiac arrhythmia, with no specific antidote. The toxin is even absorbed through the skin. Young monkshood leaves resemble those of mugwort and other lobed-leaved plants.",
+   "toxicity_category": "cardiotoxic",
+   "onset": "Tingling and numbness within minutes; cardiac and respiratory collapse within hours",
+   "default_severity": "fatal",
+   "references": [
+    "REF-2691",
+    "REF-2692"
    ]
   },
   {
@@ -1720,6 +1802,47 @@
    ]
   },
   {
+   "id": "ligustrum-vulgare",
+   "label": "Privet",
+   "scientific_name": "Ligustrum vulgare",
+   "family": "Oleaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "wild privet",
+    "common privet",
+    "garden privet"
+   ],
+   "toxic_principle": "Terpenoid glycosides (ligustrin/syringin) and secoiridoids in the leaves and the black berries.",
+   "toxicity": "A common hedge shrub whose clustered black berries and leaves are mildly toxic; ingestion, especially of the berries, can cause vomiting, diarrhoea and abdominal pain, occasionally more seriously in children. Its dense clusters of dark berries are sometimes mistaken for other dark edible berries.",
+   "toxicity_category": "gastrointestinal",
+   "onset": "Gastrointestinal symptoms within a few hours of ingestion",
+   "default_severity": "irritant",
+   "references": [
+    "REF-2697"
+   ]
+  },
+  {
+   "id": "jacobaea-vulgaris",
+   "label": "Ragwort",
+   "scientific_name": "Jacobaea vulgaris",
+   "family": "Asteraceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "common ragwort",
+    "tansy ragwort",
+    "Senecio jacobaea"
+   ],
+   "toxic_principle": "Hepatotoxic pyrrolizidine alkaloids (jacobine, seneciphylline and others).",
+   "toxicity": "A yellow-flowered weed containing hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage (veno-occlusive disease) and can be fatal; it poisons livestock and people, with the highest risk once it is cut or dried into hay or herbal material. It shares the name and yellow colour of true tansy and is confused with it.",
+   "toxicity_category": "hepatotoxic",
+   "onset": "Cumulative liver injury; acute poisoning over hours to days with large doses",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2689",
+    "REF-2690"
+   ]
+  },
+  {
    "id": "juniperus-sabina",
    "label": "Savin juniper",
    "scientific_name": "Juniperus sabina",
@@ -1763,6 +1886,26 @@
    ]
   },
   {
+   "id": "bryonia-dioica",
+   "label": "White bryony",
+   "scientific_name": "Bryonia dioica",
+   "family": "Cucurbitaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "white bryony",
+    "red bryony",
+    "English mandrake"
+   ],
+   "toxic_principle": "Cucurbitacins (bryonin, bryodin) throughout the plant, most concentrated in the large root and the red berries.",
+   "toxicity": "A climbing hedgerow vine that is genuinely poisonous. All parts, especially the root and red berries, contain cucurbitacins that cause severe burning of the mouth, violent vomiting and diarrhoea and colic; larger amounts can cause collapse, and a few berries can seriously poison a child. Its twining spring shoots can be gathered in mistake for edible hop shoots.",
+   "toxicity_category": "gastrointestinal",
+   "onset": "Burning and gastrointestinal symptoms soon after ingestion",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2687"
+   ]
+  },
+  {
    "id": "veratrum-album",
    "label": "White hellebore (false hellebore)",
    "scientific_name": "Veratrum album",
@@ -1783,6 +1926,27 @@
     "REF-2600",
     "REF-2601",
     "REF-2602"
+   ]
+  },
+  {
+   "id": "solanum-dulcamara",
+   "label": "Woody nightshade",
+   "scientific_name": "Solanum dulcamara",
+   "family": "Solanaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "bittersweet",
+    "bittersweet nightshade",
+    "woody nightshade"
+   ],
+   "toxic_principle": "Steroidal glycoalkaloids (solanine and related), highest in the unripe fruit and the leaves.",
+   "toxicity": "A scrambling vine with purple star-shaped flowers and drooping clusters of shiny red berries. The berries and foliage contain solanine-type glycoalkaloids; poisoning causes burning of the mouth and throat, nausea, vomiting and diarrhoea and, in larger amounts, drowsiness and slowed breathing. Children are poisoned by the attractive red berries, which are mistaken for guelder rose and other edible red fruits.",
+   "toxicity_category": "gastrointestinal",
+   "onset": "Gastrointestinal symptoms within a few hours of ingestion",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2693",
+    "REF-2694"
    ]
   },
   {

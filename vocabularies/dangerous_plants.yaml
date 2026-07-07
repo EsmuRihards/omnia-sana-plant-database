@@ -441,3 +441,18 @@
   references:
   - REF-2682
   - REF-2683
+
+- id: andromeda-polifolia
+  label: Bog rosemary
+  scientific_name: Andromeda polifolia
+  family: Ericaceae
+  kingdom: plant
+  synonyms: ["bog rosemary", "marsh andromeda"]
+  toxic_principle: Grayanotoxins (andromedotoxin), which bind sodium channels and disturb heart rhythm.
+  toxicity: A toxic dwarf shrub of acid bogs. Its leaves contain grayanotoxins; ingestion (for example brewed as a mistaken 'Labrador tea') can cause salivation, vomiting, low blood pressure, a slow heart rate and heart-rhythm disturbances including heart block. It grows in the same bogs as marsh Labrador tea and has similar narrow evergreen leaves, but lacks the rust-coloured woolly leaf underside and the aroma.
+  toxicity_category: cardiotoxic
+  onset: Within hours of ingestion
+  default_severity: dangerous
+  references:
+  - REF-2684
+  - REF-2685

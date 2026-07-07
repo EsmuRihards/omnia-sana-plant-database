@@ -123,9 +123,29 @@ references:
 - REF-0887
 - REF-0888
 - REF-0889
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: andromeda-polifolia
+  severity: dangerous
+  confused_part: Narrow evergreen leaves gathered to brew marsh 'Labrador tea'; toxic bog rosemary shares the same bog habitat and similar narrow evergreen leaves.
+  confusion_context: Marsh Labrador tea (Rhododendron tomentosum) is brewed in small amounts as a traditional herbal tea. Bog rosemary (Andromeda polifolia) grows in the same acid bogs and has similar narrow, leathery, evergreen leaves; as bushcraft guidance (Paul Kirtley) warns, it is one of the poisonous bog plants that can be confused with Labrador tea. Bog rosemary contains grayanotoxins, which can cause vomiting, low blood pressure and dangerous slowing of the heart - grayanotoxin poisoning has caused complete heart block. Marsh Labrador tea is itself used only cautiously in tiny doses (it too contains grayanotoxin and ledol), so brewing the wrong bog shrub is a real hazard.
+  distinguishing_features:
+  - 'Leaf underside (decisive): marsh Labrador tea has leaves with inrolled margins and a dense rust-coloured woolly felt on the underside, and the crushed leaf is strongly aromatic. Bog rosemary leaves are smooth and pale or whitish underneath, with NO woolly felt and NO aroma.'
+  - 'Flowers: bog rosemary has pink, urn-shaped (bell-like) nodding flowers, whereas marsh Labrador tea has clusters of small white flowers.'
+  - 'General rule: a bog shrub with narrow evergreen leaves that are smooth and pale beneath and have no smell is NOT Labrador tea.'
+  key_test: Turn a leaf over and smell it. Marsh Labrador tea has a rusty, woolly felt on the underside of the leaf and a strong aromatic scent. If the underside is smooth and pale with no woolly felt and the leaf has no aroma - especially if the flowers are pink and bell-shaped - it is bog rosemary (or a laurel), which is toxic; do not brew it.
+  reference_ids:
+  - REF-2684
+  - REF-2685
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

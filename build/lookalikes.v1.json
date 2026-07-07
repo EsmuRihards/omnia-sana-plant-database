@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 49,
- "plants_covered": 158,
+ "count": 50,
+ "plants_covered": 159,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -88,6 +88,26 @@
    "references": [
     "REF-2682",
     "REF-2683"
+   ]
+  },
+  {
+   "id": "andromeda-polifolia",
+   "label": "Bog rosemary",
+   "scientific_name": "Andromeda polifolia",
+   "family": "Ericaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "bog rosemary",
+    "marsh andromeda"
+   ],
+   "toxic_principle": "Grayanotoxins (andromedotoxin), which bind sodium channels and disturb heart rhythm.",
+   "toxicity": "A toxic dwarf shrub of acid bogs. Its leaves contain grayanotoxins; ingestion (for example brewed as a mistaken 'Labrador tea') can cause salivation, vomiting, low blood pressure, a slow heart rate and heart-rhythm disturbances including heart block. It grows in the same bogs as marsh Labrador tea and has similar narrow evergreen leaves, but lacks the rust-coloured woolly leaf underside and the aroma.",
+   "toxicity_category": "cardiotoxic",
+   "onset": "Within hours of ingestion",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2684",
+    "REF-2685"
    ]
   },
   {
@@ -2233,6 +2253,37 @@
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "rhododendron-tomentosum",
+   "plant": "Labrador-tea",
+   "scientific": "Rhododendron tomentosum",
+   "common_slug": "labrador-tea",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "andromeda-polifolia",
+     "dangerous_plant_label": "Bog rosemary",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Narrow evergreen leaves gathered to brew marsh 'Labrador tea'; toxic bog rosemary shares the same bog habitat and similar narrow evergreen leaves.",
+     "confusion_context": "Marsh Labrador tea (Rhododendron tomentosum) is brewed in small amounts as a traditional herbal tea. Bog rosemary (Andromeda polifolia) grows in the same acid bogs and has similar narrow, leathery, evergreen leaves; as bushcraft guidance (Paul Kirtley) warns, it is one of the poisonous bog plants that can be confused with Labrador tea. Bog rosemary contains grayanotoxins, which can cause vomiting, low blood pressure and dangerous slowing of the heart - grayanotoxin poisoning has caused complete heart block. Marsh Labrador tea is itself used only cautiously in tiny doses (it too contains grayanotoxin and ledol), so brewing the wrong bog shrub is a real hazard.",
+     "distinguishing_features": [
+      "Leaf underside (decisive): marsh Labrador tea has leaves with inrolled margins and a dense rust-coloured woolly felt on the underside, and the crushed leaf is strongly aromatic. Bog rosemary leaves are smooth and pale or whitish underneath, with NO woolly felt and NO aroma.",
+      "Flowers: bog rosemary has pink, urn-shaped (bell-like) nodding flowers, whereas marsh Labrador tea has clusters of small white flowers.",
+      "General rule: a bog shrub with narrow evergreen leaves that are smooth and pale beneath and have no smell is NOT Labrador tea."
+     ],
+     "key_test": "Turn a leaf over and smell it. Marsh Labrador tea has a rusty, woolly felt on the underside of the leaf and a strong aromatic scent. If the underside is smooth and pale with no woolly felt and the leaf has no aroma - especially if the flowers are pink and bell-shaped - it is bog rosemary (or a laurel), which is toxic; do not brew it.",
+     "references": [
+      "REF-2684",
+      "REF-2685"
+     ],
+     "status": "approved"
+    }
+   ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   },

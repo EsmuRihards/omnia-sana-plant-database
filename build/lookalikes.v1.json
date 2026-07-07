@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
  "count": 49,
- "plants_covered": 148,
+ "plants_covered": 158,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -945,6 +945,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "ribes-nigrum",
+   "plant": "Blackcurrant",
+   "scientific": "Ribes nigrum",
+   "common_slug": "blackcurrant",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "cnicus-benedictus",
    "plant": "Blessed Thistle",
    "scientific": "Cnicus benedictus",
@@ -1483,6 +1494,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "taraxacum-officinale",
+   "plant": "Dandelion",
+   "scientific": "Taraxacum officinale",
+   "common_slug": "dandelion",
+   "wp_post_id": 183,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "verbascum-densiflorum",
    "plant": "Dense-flowered Mullein",
    "scientific": "Verbascum densiflorum",
@@ -1994,6 +2016,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "plantago-major",
+   "plant": "Greater Plantain",
+   "scientific": "Plantago major",
+   "common_slug": "greater-plantain",
+   "wp_post_id": 179,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "aegopodium-podagraria",
    "plant": "Ground Elder",
    "scientific": "Aegopodium podagraria",
@@ -2076,6 +2109,17 @@
    "plant": "Gymnema",
    "scientific": "Gymnema sylvestre",
    "common_slug": "gymnema",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "crataegus-monogyna",
+   "plant": "Hawthorn",
+   "scientific": "Crataegus monogyna",
+   "common_slug": "hawthorn",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -2366,10 +2410,32 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "althaea-officinalis",
+   "plant": "Marshmallow Root",
+   "scientific": "Althaea officinalis",
+   "common_slug": "marshmallow-root",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "filipendula-ulmaria",
    "plant": "Meadowsweet",
    "scientific": "Filipendula ulmaria",
    "common_slug": "meadowsweet",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "crataegus-laevigata",
+   "plant": "Midland Hawthorn",
+   "scientific": "Crataegus laevigata",
+   "common_slug": "midland-hawthorn",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
@@ -2686,6 +2752,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "plantago-lanceolata",
+   "plant": "Ribwort Plantain",
+   "scientific": "Plantago lanceolata",
+   "common_slug": "ribwort-plantain",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "salvia-rosmarinus",
    "plant": "Rosemary",
    "scientific": "Salvia rosmarinus",
@@ -2795,6 +2872,17 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "hippophae-rhamnoides",
+   "plant": "Sea buckthorn",
+   "scientific": "Hippophae rhamnoides",
+   "common_slug": "sea-buckthorn",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "prunella-vulgaris",
    "plant": "Selfheal",
    "scientific": "Prunella vulgaris",
@@ -2834,6 +2922,17 @@
      "status": "approved"
     }
    ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "capsella-bursa-pastoris",
+   "plant": "Shepherd's Purse",
+   "scientific": "Capsella bursa-pastoris",
+   "common_slug": "shepherd-s-purse",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   },
@@ -2906,6 +3005,17 @@
    "plant": "Speedwell",
    "scientific": "Veronica officinalis",
    "common_slug": "speedwell",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "urtica-dioica",
+   "plant": "Stinging Nettle",
+   "scientific": "Urtica dioica",
+   "common_slug": "stinging-nettle",
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],

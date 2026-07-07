@@ -45,9 +45,30 @@ references:
 - REF-2360
 - REF-2361
 - REF-2362
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: equisetum-palustre
+  severity: dangerous
+  confused_part: Sterile green stems gathered and dried for horsetail tea; toxic marsh horsetail looks very similar and grows in the same damp ground.
+  confusion_context: Meadow horsetail (Equisetum pratense) is gathered for horsetail tea, but horsetails are notoriously hard to tell apart, and marsh horsetail (Equisetum palustre) - one of the most poisonous plants of wet grasslands - grows in the same damp habitat and looks very similar. Marsh horsetail contains the alkaloids palustrine and palustridiene plus high thiaminase (which destroys vitamin B1); it is a well-known livestock poison, and peer-reviewed work stresses that medicinal horsetail must be properly authenticated and differentiated from the more toxic marsh horsetail, which can adulterate herbal material. Because the species are so alike, unverified wild horsetail is a real hazard.
+  distinguishing_features:
+  - 'Branch teeth: marsh horsetail (the toxic one) has 5-6 teeth on each branch sheath that lie flat (appressed) against the branch. Broad, spreading teeth in threes or fours indicate a non-toxic horsetail rather than marsh horsetail.'
+  - 'Branches solid vs hollow: marsh horsetail has hollow branches, whereas field horsetail''s branches are solid. A hollow first branch segment is a warning sign.'
+  - 'First branch segment vs sheath: on marsh horsetail the lowest segment of each side branch is short - shorter than or about equal to the stem sheath it emerges from. A first branch segment clearly longer than the sheath indicates it is NOT marsh horsetail. Marsh horsetail also favours wet, marshy ground and fens.'
+  key_test: 'Because horsetails are so alike and marsh horsetail is poisonous, only use wild horsetail if you can positively exclude marsh horsetail (Equisetum palustre): confirm branch sheaths have 3-4 spreading teeth (not 5-6 flat-lying ones), solid (not hollow) branches, and a first branch segment longer than the stem sheath. If you cannot confirm all of these - or the plant grows in wet, marshy ground - do not use it.'
+  reference_ids:
+  - REF-2678
+  - REF-2676
+  - REF-2677
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: pubmed
 status: draft
-last_updated: '2026-06-27'
+last_updated: '2026-07-07'
 internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify Shady Horsetail" blog
   post). SETTLED-INCOMPLETE at 3 @article sources: Equisetum pratense is an extremely sparse-literature
   species (only ~4 PubMed records exist in total, one of which is an environmental chlorpyrifos-sorption

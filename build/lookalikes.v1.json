@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 43,
- "plants_covered": 142,
+ "count": 47,
+ "plants_covered": 146,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -365,6 +365,25 @@
    "default_severity": "dangerous",
    "references": [
     "REF-2623"
+   ]
+  },
+  {
+   "id": "equisetum-palustre",
+   "label": "Marsh horsetail",
+   "scientific_name": "Equisetum palustre",
+   "family": "Equisetaceae",
+   "kingdom": "plant",
+   "synonyms": [
+    "marsh horsetail"
+   ],
+   "toxic_principle": "The piperidine alkaloids palustrine and palustridiene, plus thiaminase (which destroys vitamin B1); alkaloid levels are highest in early growth.",
+   "toxicity": "One of the most poisonous plants of wet grasslands. It contains the alkaloids palustrine and palustridiene together with high thiaminase activity; it is a well-known cause of livestock poisoning and should not be used in herbal teas. It closely resembles the medicinal field horsetail, with which it is confused and which it can adulterate.",
+   "toxicity_category": "neurotoxic",
+   "onset": "Cumulative with repeated ingestion (thiamine deficiency and alkaloid effects)",
+   "default_severity": "dangerous",
+   "references": [
+    "REF-2676",
+    "REF-2677"
    ]
   },
   {
@@ -1615,6 +1634,38 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "equisetum-arvense",
+   "plant": "Field Horsetail",
+   "scientific": "Equisetum arvense",
+   "common_slug": "field-horsetail",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "equisetum-palustre",
+     "dangerous_plant_label": "Marsh horsetail",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Sterile green stems gathered and dried for horsetail tea; toxic marsh horsetail looks very similar and grows in the same damp ground.",
+     "confusion_context": "Field horsetail (Equisetum arvense) is gathered for horsetail tea, but horsetails are notoriously hard to tell apart, and marsh horsetail (Equisetum palustre) - one of the most poisonous plants of wet grasslands - grows in the same damp habitat and looks very similar. Marsh horsetail contains the alkaloids palustrine and palustridiene plus high thiaminase (which destroys vitamin B1); it is a well-known livestock poison, and peer-reviewed work stresses that medicinal horsetail must be properly authenticated and differentiated from the more toxic marsh horsetail, which can adulterate herbal material. Because the species are so alike, unverified wild horsetail is a real hazard.",
+     "distinguishing_features": [
+      "Branch teeth: marsh horsetail (the toxic one) has 5-6 teeth on each branch sheath that lie flat (appressed) against the branch. Broad, spreading teeth in threes or fours indicate a non-toxic horsetail rather than marsh horsetail.",
+      "Branches solid vs hollow: marsh horsetail has hollow branches, whereas field horsetail's branches are solid. A hollow first branch segment is a warning sign.",
+      "First branch segment vs sheath: on marsh horsetail the lowest segment of each side branch is short - shorter than or about equal to the stem sheath it emerges from. A first branch segment clearly longer than the sheath indicates it is NOT marsh horsetail. Marsh horsetail also favours wet, marshy ground and fens."
+     ],
+     "key_test": "Because horsetails are so alike and marsh horsetail is poisonous, only use wild horsetail if you can positively exclude marsh horsetail (Equisetum palustre): confirm branch sheaths have 3-4 spreading teeth (not 5-6 flat-lying ones), solid (not hollow) branches, and a first branch segment longer than the stem sheath. If you cannot confirm all of these - or the plant grows in wet, marshy ground - do not use it.",
+     "references": [
+      "REF-2678",
+      "REF-2676",
+      "REF-2677"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "scrophularia-nodosa",
    "plant": "Figwort",
    "scientific": "Scrophularia nodosa",
@@ -2681,6 +2732,38 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "equisetum-pratense",
+   "plant": "Shady horsetail",
+   "scientific": "Equisetum pratense",
+   "common_slug": "shady-horsetail",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "equisetum-palustre",
+     "dangerous_plant_label": "Marsh horsetail",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Sterile green stems gathered and dried for horsetail tea; toxic marsh horsetail looks very similar and grows in the same damp ground.",
+     "confusion_context": "Meadow horsetail (Equisetum pratense) is gathered for horsetail tea, but horsetails are notoriously hard to tell apart, and marsh horsetail (Equisetum palustre) - one of the most poisonous plants of wet grasslands - grows in the same damp habitat and looks very similar. Marsh horsetail contains the alkaloids palustrine and palustridiene plus high thiaminase (which destroys vitamin B1); it is a well-known livestock poison, and peer-reviewed work stresses that medicinal horsetail must be properly authenticated and differentiated from the more toxic marsh horsetail, which can adulterate herbal material. Because the species are so alike, unverified wild horsetail is a real hazard.",
+     "distinguishing_features": [
+      "Branch teeth: marsh horsetail (the toxic one) has 5-6 teeth on each branch sheath that lie flat (appressed) against the branch. Broad, spreading teeth in threes or fours indicate a non-toxic horsetail rather than marsh horsetail.",
+      "Branches solid vs hollow: marsh horsetail has hollow branches, whereas field horsetail's branches are solid. A hollow first branch segment is a warning sign.",
+      "First branch segment vs sheath: on marsh horsetail the lowest segment of each side branch is short - shorter than or about equal to the stem sheath it emerges from. A first branch segment clearly longer than the sheath indicates it is NOT marsh horsetail. Marsh horsetail also favours wet, marshy ground and fens."
+     ],
+     "key_test": "Because horsetails are so alike and marsh horsetail is poisonous, only use wild horsetail if you can positively exclude marsh horsetail (Equisetum palustre): confirm branch sheaths have 3-4 spreading teeth (not 5-6 flat-lying ones), solid (not hollow) branches, and a first branch segment longer than the stem sheath. If you cannot confirm all of these - or the plant grows in wet, marshy ground - do not use it.",
+     "references": [
+      "REF-2678",
+      "REF-2676",
+      "REF-2677"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "lentinula-edodes",
    "plant": "Shiitake (mushroom)",
    "scientific": "Lentinula edodes",
@@ -2964,6 +3047,38 @@
    "reviewed_date": "2026-07-07"
   },
   {
+   "plant_id": "equisetum-sylvaticum",
+   "plant": "Wood horsetail",
+   "scientific": "Equisetum sylvaticum",
+   "common_slug": "wood-horsetail",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "equisetum-palustre",
+     "dangerous_plant_label": "Marsh horsetail",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Sterile green stems gathered and dried for horsetail tea; toxic marsh horsetail looks very similar and grows in the same damp ground.",
+     "confusion_context": "Wood horsetail (Equisetum sylvaticum) is gathered for horsetail tea, but horsetails are notoriously hard to tell apart, and marsh horsetail (Equisetum palustre) - one of the most poisonous plants of wet grasslands - grows in the same damp habitat and looks very similar. Marsh horsetail contains the alkaloids palustrine and palustridiene plus high thiaminase (which destroys vitamin B1); it is a well-known livestock poison, and peer-reviewed work stresses that medicinal horsetail must be properly authenticated and differentiated from the more toxic marsh horsetail, which can adulterate herbal material. Because the species are so alike, unverified wild horsetail is a real hazard.",
+     "distinguishing_features": [
+      "Branch teeth: marsh horsetail (the toxic one) has 5-6 teeth on each branch sheath that lie flat (appressed) against the branch. Broad, spreading teeth in threes or fours indicate a non-toxic horsetail rather than marsh horsetail.",
+      "Branches solid vs hollow: marsh horsetail has hollow branches, whereas field horsetail's branches are solid. A hollow first branch segment is a warning sign.",
+      "First branch segment vs sheath: on marsh horsetail the lowest segment of each side branch is short - shorter than or about equal to the stem sheath it emerges from. A first branch segment clearly longer than the sheath indicates it is NOT marsh horsetail. Marsh horsetail also favours wet, marshy ground and fens."
+     ],
+     "key_test": "Because horsetails are so alike and marsh horsetail is poisonous, only use wild horsetail if you can positively exclude marsh horsetail (Equisetum palustre): confirm branch sheaths have 3-4 spreading teeth (not 5-6 flat-lying ones), solid (not hollow) branches, and a first branch segment longer than the stem sheath. If you cannot confirm all of these - or the plant grows in wet, marshy ground - do not use it.",
+     "references": [
+      "REF-2678",
+      "REF-2676",
+      "REF-2677"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "artemisia-absinthium",
    "plant": "Wormwood",
    "scientific": "Artemisia absinthium",
@@ -2971,6 +3086,38 @@
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "achillea-millefolium",
+   "plant": "Yarrow",
+   "scientific": "Achillea millefolium",
+   "common_slug": "yarrow",
+   "wp_post_id": 180,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "conium-maculatum",
+     "dangerous_plant_label": "Poison hemlock",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Young feathery, finely divided leaves gathered for tea, salad or medicine; poison hemlock's young leaves are also feathery and finely divided.",
+     "confusion_context": "Yarrow (Achillea millefolium) is foraged for its soft, feathery, fern-like leaves. As Grow Forage Cook Ferment warns, yarrow is sometimes mistaken for poison hemlock (Conium maculatum), which is very toxic - hemlock contains coniine and kills by ascending paralysis and respiratory failure, and a few leaves can be fatal. Young hemlock leaves are more feathery and can resemble yarrow before the plant grows tall. Because yarrow is a popular forage and hemlock is widespread, this is a potentially fatal confusion.",
+     "distinguishing_features": [
+      "SMELL: yarrow smells sweet and herbaceous, often likened to fresh pine or a pleasant medicinal scent. Poison hemlock smells rank and musty/mousy.",
+      "Stem: yarrow has a solid, green, slightly hairy/woolly grooved stem with no purple. Poison hemlock has a hairless stem conspicuously blotched and streaked with red-purple, especially near the base.",
+      "Leaf and size: yarrow leaves are soft, very finely divided and feathery on a low plant (usually under 60 cm). Poison hemlock is a tall (1.5-3 m) branching biennial with larger, glossy, more open fern-like leaves."
+     ],
+     "key_test": "Check the stem and smell. A solid green (often woolly) stem with soft feathery leaves and a sweet pine-like herbaceous scent = yarrow. A hairless stem with red-purple blotches and a musty/mousy smell = poison hemlock - deadly, do not put it to your mouth. If the stem is purple-blotched or the smell is musty, do not use it.",
+     "references": [
+      "REF-2679",
+      "REF-2610",
+      "REF-2611"
+     ],
+     "status": "approved"
+    }
+   ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   }

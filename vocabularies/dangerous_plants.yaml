@@ -396,3 +396,18 @@
   references:
   - REF-2673
   - REF-2675
+
+- id: equisetum-palustre
+  label: Marsh horsetail
+  scientific_name: Equisetum palustre
+  family: Equisetaceae
+  kingdom: plant
+  synonyms: ["marsh horsetail"]
+  toxic_principle: The piperidine alkaloids palustrine and palustridiene, plus thiaminase (which destroys vitamin B1); alkaloid levels are highest in early growth.
+  toxicity: One of the most poisonous plants of wet grasslands. It contains the alkaloids palustrine and palustridiene together with high thiaminase activity; it is a well-known cause of livestock poisoning and should not be used in herbal teas. It closely resembles the medicinal field horsetail, with which it is confused and which it can adulterate.
+  toxicity_category: neurotoxic
+  onset: Cumulative with repeated ingestion (thiamine deficiency and alkaloid effects)
+  default_severity: dangerous
+  references:
+  - REF-2676
+  - REF-2677

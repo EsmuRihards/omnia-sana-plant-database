@@ -332,9 +332,30 @@ references:
 - REF-2084
 - REF-2085
 - REF-2086
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: Young feathery, finely divided leaves gathered for tea, salad or medicine; poison hemlock's young leaves are also feathery and finely divided.
+  confusion_context: Yarrow (Achillea millefolium) is foraged for its soft, feathery, fern-like leaves. As Grow Forage Cook Ferment warns, yarrow is sometimes mistaken for poison hemlock (Conium maculatum), which is very toxic - hemlock contains coniine and kills by ascending paralysis and respiratory failure, and a few leaves can be fatal. Young hemlock leaves are more feathery and can resemble yarrow before the plant grows tall. Because yarrow is a popular forage and hemlock is widespread, this is a potentially fatal confusion.
+  distinguishing_features:
+  - 'SMELL: yarrow smells sweet and herbaceous, often likened to fresh pine or a pleasant medicinal scent. Poison hemlock smells rank and musty/mousy.'
+  - 'Stem: yarrow has a solid, green, slightly hairy/woolly grooved stem with no purple. Poison hemlock has a hairless stem conspicuously blotched and streaked with red-purple, especially near the base.'
+  - 'Leaf and size: yarrow leaves are soft, very finely divided and feathery on a low plant (usually under 60 cm). Poison hemlock is a tall (1.5-3 m) branching biennial with larger, glossy, more open fern-like leaves.'
+  key_test: Check the stem and smell. A solid green (often woolly) stem with soft feathery leaves and a sweet pine-like herbaceous scent = yarrow. A hairless stem with red-purple blotches and a musty/mousy smell = poison hemlock - deadly, do not put it to your mouth. If the stem is purple-blotched or the smell is musty, do not use it.
+  reference_ids:
+  - REF-2679
+  - REF-2610
+  - REF-2611
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+website+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

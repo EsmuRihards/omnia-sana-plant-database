@@ -116,9 +116,31 @@ references:
 - REF-1985
 - REF-1986
 - REF-1987
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: First-year feathery carrot-like leaf rosette and the second-year umbels of tiny white flowers, which resemble poison hemlock; and the ribbed seeds, which resemble hemlock's poisonous fruits.
+  confusion_context: Caraway (Carum carvi) is a biennial umbellifer whose finely divided, feathery first-year foliage and white flower umbels resemble those of poison hemlock (Conium maculatum). University of California extension guidance on growing caraway explicitly warns that plants with similar umbel flowers are actually poisonous - 'hemlock comes to mind' - cautioning against toxic look-alikes in caraway beds; foraging guides note that poison hemlock's ribbed seeds resemble anise, fennel or caraway seeds. Conium contains coniine and kills by ascending paralysis and respiratory failure - a few leaves or seeds can be fatal. Documented caraway-specific poisonings are sparse, so the value of this record is the rock-solid tests below rather than a claim that this exact swap is common.
+  distinguishing_features:
+  - 'SMELL (decisive): crushed caraway foliage and seed smell warm, sweet and caraway-like (the familiar rye-bread spice). Poison hemlock smells rank, musty and mouse-like.'
+  - 'Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple, especially near the base. Caraway stems are plain green and never carry purple blotches.'
+  - 'Stature: poison hemlock is a tall (often 1.5-3 m) branching biennial; caraway tops out around 0.6 m. A large fern-leaved umbellifer with a purple-blotched stem is not caraway.'
+  key_test: Crush a leaf or seed and smell it, and look at the stem. A warm sweet caraway scent with a plain green stem = caraway. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock - do not eat. If either warning sign is present, discard it.
+  reference_ids:
+  - REF-2656
+  - REF-2611
+  - REF-2610
+  - REF-2642
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

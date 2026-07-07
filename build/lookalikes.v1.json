@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 30,
- "plants_covered": 50,
+ "count": 33,
+ "plants_covered": 53,
  "dangerous_plants": [
   {
    "id": "pleurocybella-porrigens",
@@ -499,6 +499,38 @@
    "reviewed_date": "2026-07-06"
   },
   {
+   "plant_id": "pimpinella-anisum",
+   "plant": "Anise",
+   "scientific": "Pimpinella anisum",
+   "common_slug": "anise",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "conium-maculatum",
+     "dangerous_plant_label": "Poison hemlock",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "The plant's foliage - lower leaves broad and parsley-like, upper leaves fine and lace-like - and the umbels of small white flowers, plus the aromatic seeds, which resemble poison hemlock; and hemlock seedlings volunteering among planted anise.",
+     "confusion_context": "Anise (Pimpinella anisum) is a parsley-family herb that poison hemlock (Conium maculatum) is documented to resemble. King County (Washington) lists anise among the edible parsley-family plants poison hemlock can be confused with, and the North Carolina Extension Gardener Plant Toolbox lists Pimpinella anisum among the plants commonly confused with poison hemlock. Conium contains coniine and kills by ascending paralysis and respiratory failure - a few leaves or seeds can be fatal. Documented anise-specific poisonings are sparse, so the value of this record is the rock-solid tests below rather than a claim that this exact swap is common.",
+     "distinguishing_features": [
+      "SMELL (decisive): crushed anise foliage and seed smell sweet and strongly of licorice/aniseed. Poison hemlock smells rank, musty and mouse-like, with no sweet licorice note.",
+      "Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple, especially near the base. Anise stems are plain green and never carry purple blotches.",
+      "Stature: poison hemlock is a tall (often 1.5-3 m) branching biennial; cultivated anise is a small annual usually under 0.6 m. A large fern-leaved umbellifer with a purple-blotched stem is not anise."
+     ],
+     "key_test": "Crush a leaf or seed and smell it, and look at the stem. A sweet licorice/aniseed scent with a plain green stem = anise. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock - do not eat. If either warning sign is present, discard it.",
+     "references": [
+      "REF-2611",
+      "REF-2655",
+      "REF-2610"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
    "plant_id": "withania-somnifera",
    "plant": "Ashwagandha",
    "scientific": "Withania somnifera",
@@ -592,6 +624,39 @@
    "wp_post_id": null,
    "review_outcome": "none-known",
    "lookalikes": [],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "carum-carvi",
+   "plant": "Caraway",
+   "scientific": "Carum carvi",
+   "common_slug": "caraway",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "conium-maculatum",
+     "dangerous_plant_label": "Poison hemlock",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "First-year feathery carrot-like leaf rosette and the second-year umbels of tiny white flowers, which resemble poison hemlock; and the ribbed seeds, which resemble hemlock's poisonous fruits.",
+     "confusion_context": "Caraway (Carum carvi) is a biennial umbellifer whose finely divided, feathery first-year foliage and white flower umbels resemble those of poison hemlock (Conium maculatum). University of California extension guidance on growing caraway explicitly warns that plants with similar umbel flowers are actually poisonous - 'hemlock comes to mind' - cautioning against toxic look-alikes in caraway beds; foraging guides note that poison hemlock's ribbed seeds resemble anise, fennel or caraway seeds. Conium contains coniine and kills by ascending paralysis and respiratory failure - a few leaves or seeds can be fatal. Documented caraway-specific poisonings are sparse, so the value of this record is the rock-solid tests below rather than a claim that this exact swap is common.",
+     "distinguishing_features": [
+      "SMELL (decisive): crushed caraway foliage and seed smell warm, sweet and caraway-like (the familiar rye-bread spice). Poison hemlock smells rank, musty and mouse-like.",
+      "Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple, especially near the base. Caraway stems are plain green and never carry purple blotches.",
+      "Stature: poison hemlock is a tall (often 1.5-3 m) branching biennial; caraway tops out around 0.6 m. A large fern-leaved umbellifer with a purple-blotched stem is not caraway."
+     ],
+     "key_test": "Crush a leaf or seed and smell it, and look at the stem. A warm sweet caraway scent with a plain green stem = caraway. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock - do not eat. If either warning sign is present, discard it.",
+     "references": [
+      "REF-2656",
+      "REF-2611",
+      "REF-2610",
+      "REF-2642"
+     ],
+     "status": "approved"
+    }
+   ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
   },
@@ -862,6 +927,39 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-06"
+  },
+  {
+   "plant_id": "anethum-graveolens",
+   "plant": "Dill",
+   "scientific": "Anethum graveolens",
+   "common_slug": "dill",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "conium-maculatum",
+     "dangerous_plant_label": "Poison hemlock",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Young feathery, finely divided thread-like leaves and the umbels of tiny white flowers, which closely resemble dill; and poison-hemlock volunteer seedlings appearing among planted dill.",
+     "confusion_context": "Poison hemlock (Conium maculatum) is the classic fatal mimic of feathery parsley-family herbs. Washington State University Extension states poison hemlock's tiny white flowers form an umbel similar to dill, parsnip or carrot, and its finely divided fern-like foliage looks much like dill weed; a poison-hemlock seedling volunteering among garden dill, or a forager mistaking wild hemlock for dill, is a realistic and potentially lethal hazard. Conium contains coniine and kills by ascending paralysis and respiratory failure - a few leaves or seeds can be fatal. Documented dill-specific poisonings are sparse (most fatal hemlock confusions involve carrot, parsnip or fennel), so the value of this record is the rock-solid tests below rather than a claim that this exact swap is common.",
+     "distinguishing_features": [
+      "SMELL (decisive): crushed dill smells fresh, sweet and unmistakably of dill. Poison hemlock smells rank, musty and mouse-like, with no dill scent.",
+      "Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple, especially near the base. Dill stems are plain blue-green and never carry purple blotches.",
+      "Stature: poison hemlock is a tall (often 1.5-3 m) branching biennial; cultivated dill is a slender annual usually under 1 m. A large fern-leaved umbellifer with a purple-blotched stem is not dill."
+     ],
+     "key_test": "Crush a leaf and smell it, and look at the stem. A fresh sweet dill scent with a plain blue-green stem = dill. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock - do not eat. If either warning sign is present, discard it.",
+     "references": [
+      "REF-2654",
+      "REF-2611",
+      "REF-2610",
+      "REF-2642"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-07"
   },
   {
    "plant_id": "sambucus-nigra",

@@ -204,9 +204,31 @@ references:
 - REF-1395
 - REF-1396
 - REF-1397
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: Young feathery, finely divided thread-like leaves and the umbels of tiny white flowers, which closely resemble dill; and poison-hemlock volunteer seedlings appearing among planted dill.
+  confusion_context: Poison hemlock (Conium maculatum) is the classic fatal mimic of feathery parsley-family herbs. Washington State University Extension states poison hemlock's tiny white flowers form an umbel similar to dill, parsnip or carrot, and its finely divided fern-like foliage looks much like dill weed; a poison-hemlock seedling volunteering among garden dill, or a forager mistaking wild hemlock for dill, is a realistic and potentially lethal hazard. Conium contains coniine and kills by ascending paralysis and respiratory failure - a few leaves or seeds can be fatal. Documented dill-specific poisonings are sparse (most fatal hemlock confusions involve carrot, parsnip or fennel), so the value of this record is the rock-solid tests below rather than a claim that this exact swap is common.
+  distinguishing_features:
+  - 'SMELL (decisive): crushed dill smells fresh, sweet and unmistakably of dill. Poison hemlock smells rank, musty and mouse-like, with no dill scent.'
+  - 'Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple, especially near the base. Dill stems are plain blue-green and never carry purple blotches.'
+  - 'Stature: poison hemlock is a tall (often 1.5-3 m) branching biennial; cultivated dill is a slender annual usually under 1 m. A large fern-leaved umbellifer with a purple-blotched stem is not dill.'
+  key_test: Crush a leaf and smell it, and look at the stem. A fresh sweet dill scent with a plain blue-green stem = dill. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock - do not eat. If either warning sign is present, discard it.
+  reference_ids:
+  - REF-2654
+  - REF-2611
+  - REF-2610
+  - REF-2642
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

@@ -196,9 +196,30 @@ references:
 - REF-1414
 - REF-1415
 - REF-1416
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: The plant's foliage - lower leaves broad and parsley-like, upper leaves fine and lace-like - and the umbels of small white flowers, plus the aromatic seeds, which resemble poison hemlock; and hemlock seedlings volunteering among planted anise.
+  confusion_context: Anise (Pimpinella anisum) is a parsley-family herb that poison hemlock (Conium maculatum) is documented to resemble. King County (Washington) lists anise among the edible parsley-family plants poison hemlock can be confused with, and the North Carolina Extension Gardener Plant Toolbox lists Pimpinella anisum among the plants commonly confused with poison hemlock. Conium contains coniine and kills by ascending paralysis and respiratory failure - a few leaves or seeds can be fatal. Documented anise-specific poisonings are sparse, so the value of this record is the rock-solid tests below rather than a claim that this exact swap is common.
+  distinguishing_features:
+  - 'SMELL (decisive): crushed anise foliage and seed smell sweet and strongly of licorice/aniseed. Poison hemlock smells rank, musty and mouse-like, with no sweet licorice note.'
+  - 'Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple, especially near the base. Anise stems are plain green and never carry purple blotches.'
+  - 'Stature: poison hemlock is a tall (often 1.5-3 m) branching biennial; cultivated anise is a small annual usually under 0.6 m. A large fern-leaved umbellifer with a purple-blotched stem is not anise.'
+  key_test: Crush a leaf or seed and smell it, and look at the stem. A sweet licorice/aniseed scent with a plain green stem = anise. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock - do not eat. If either warning sign is present, discard it.
+  reference_ids:
+  - REF-2611
+  - REF-2655
+  - REF-2610
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

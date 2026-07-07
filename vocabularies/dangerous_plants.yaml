@@ -352,3 +352,32 @@
   references:
   - REF-2665
   - REF-2666
+
+- id: iris-pseudacorus
+  label: Yellow flag iris
+  scientific_name: Iris pseudacorus
+  family: Iridaceae
+  kingdom: plant
+  synonyms: ["yellow flag", "yellow iris", "water flag"]
+  toxic_principle: Pentacyclic terpenoids (zeorin, missourin, missouriensin) and irritant resinous glycosides, concentrated in the rhizome.
+  toxicity: A low-severity poison of wet ground. All parts, especially the rhizome, cause salivation, vomiting, drooling and diarrhoea if eaten, and the sap can irritate the skin. Its erect sword-shaped leaves are odourless and closely resemble those of aromatic sweet flag, whose prized rhizome it is confused with; the scientific name pseudacorus means 'false sweet-flag'.
+  toxicity_category: gastrointestinal
+  onset: Salivation and gastrointestinal symptoms within hours of ingestion
+  default_severity: irritant
+  references:
+  - REF-2668
+
+- id: agave-americana
+  label: Agave
+  scientific_name: Agave americana
+  family: Asparagaceae
+  kingdom: plant
+  synonyms: ["century plant", "American aloe", "maguey"]
+  toxic_principle: Calcium oxalate raphides, steroidal saponins and acrid oils in the sap.
+  toxicity: A large rosette succulent whose sap is a skin and mucous-membrane irritant, not a soothing gel. Cutaneous exposure causes painful irritant contact dermatitis (with blistering and, in reported cases, purpura); contact with the mouth or gut burns and inflames. It forms a rosette very like an aloe and is easily mistaken for it, but no part is a safe aloe substitute.
+  toxicity_category: dermatotoxic
+  onset: Burning and dermatitis within minutes to hours of skin or mucous-membrane contact
+  default_severity: irritant
+  references:
+  - REF-2669
+  - REF-2670

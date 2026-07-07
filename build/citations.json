@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2665,
+ "count": 2670,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2554,6 +2554,27 @@
    "actions": [
     "Antioxidant"
    ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2667",
+   "key": "ncsu_acorus_calamus",
+   "type": "misc",
+   "title": "Acorus calamus (Sweet Flag)",
+   "authors": "North Carolina Extension Gardener Plant Toolbox",
+   "journal": "",
+   "year": "2024",
+   "doi": "",
+   "url": "https://plants.ces.ncsu.edu/plants/acorus-calamus/",
+   "link": "https://plants.ces.ncsu.edu/plants/acorus-calamus/",
+   "link_type": "url",
+   "citation": "North Carolina Extension Gardener Plant Toolbox (2024) 'Acorus calamus (Sweet Flag)'. Available at: https://plants.ces.ncsu.edu/plants/acorus-calamus/",
+   "abstract": "University extension profile of sweet flag: its leaves and rhizomes are sweetly scented when crushed (hence the name), and it has iris-like sword-shaped leaves in basal clumps with one wavy leaf margin and a prominent mid-rib. Anchors the aromatic-leaf and wavy-margin distinguishing tests and the iris-like leaf shape that underlies confusion with yellow flag iris.",
+   "tier": "traditional",
+   "display": "Acorus calamus (Sweet Flag)",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
    "conditions": []
   },
   {
@@ -5740,6 +5761,27 @@
    "conditions": [
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2668",
+   "key": "ncsu_iris_pseudacorus",
+   "type": "misc",
+   "title": "Iris pseudacorus (Yellow Flag)",
+   "authors": "North Carolina Extension Gardener Plant Toolbox",
+   "journal": "",
+   "year": "2024",
+   "doi": "",
+   "url": "https://plants.ces.ncsu.edu/plants/iris-pseudacorus/",
+   "link": "https://plants.ces.ncsu.edu/plants/iris-pseudacorus/",
+   "link_type": "url",
+   "citation": "North Carolina Extension Gardener Plant Toolbox (2024) 'Iris pseudacorus (Yellow Flag)'. Available at: https://plants.ces.ncsu.edu/plants/iris-pseudacorus/",
+   "abstract": "University extension profile of yellow flag iris: a low-severity poison whose parts (highest concentration in the rhizomes) cause salivation, vomiting, drooling, lethargy and diarrhea, with pentacyclic terpenoids (zeorin, missourin, missouriensin) as the toxic principle; it has erect sword-shaped leaves and is not aromatic. Anchors the toxicity of yellow flag iris and the odourless, sword-leaf features distinguishing it from aromatic sweet flag.",
+   "tier": "traditional",
+   "display": "Iris pseudacorus (Yellow Flag)",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-2344",
@@ -67884,6 +67926,27 @@
    ]
   },
   {
+   "ref_id": "REF-2670",
+   "key": "genillierfoin2007agave",
+   "type": "article",
+   "title": "Purpuric contact dermatitis from Agave americana",
+   "authors": "Genillier-Foin, N. and Avenel-Audran, M.",
+   "journal": "Annales de Dermatologie et de Venereologie",
+   "year": "2007",
+   "doi": "10.1016/s0151-9638(07)89218-0",
+   "url": "",
+   "link": "https://doi.org/10.1016/s0151-9638(07)89218-0",
+   "link_type": "doi",
+   "citation": "Genillier-Foin, N. and Avenel-Audran, M (2007) 'Purpuric contact dermatitis from Agave americana', Annales de Dermatologie et de Venereologie, 134(5 Pt 1), pp. 477-8. doi:10.1016/s0151-9638(07)89218-0",
+   "abstract": "Dermatology case report: irritant papulovesicular (here purpuric) dermatitis after cutaneous exposure to the sap of Agave americana, which contains chemical irritants such as calcium oxalate and saponins. Corroborates agave sap as an irritant that damages skin.",
+   "tier": "clinical",
+   "display": "Purpuric contact dermatitis from Agave americana",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2337",
    "key": "venskutonis2006agrimonia",
    "type": "article",
@@ -76545,6 +76608,27 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2669",
+   "key": "ricks1999agave",
+   "type": "article",
+   "title": "Purpuric agave dermatitis",
+   "authors": "Ricks, M.R. and Vogel, P.S. and Elston, D.M. and Hivnor, C.",
+   "journal": "Journal of the American Academy of Dermatology",
+   "year": "1999",
+   "doi": "10.1016/s0190-9622(99)70485-8",
+   "url": "",
+   "link": "https://doi.org/10.1016/s0190-9622(99)70485-8",
+   "link_type": "doi",
+   "citation": "Ricks, M.R. and Vogel, P.S. and Elston, D.M. and Hivnor, C (1999) 'Purpuric agave dermatitis', Journal of the American Academy of Dermatology, 40(2 Pt 2), pp. 356-8. doi:10.1016/s0190-9622(99)70485-8",
+   "abstract": "Dermatology case report: Agave americana sap contains calcium oxalate crystals, acrid oils, saponins and other irritant compounds; cutaneous exposure causes an irritant contact dermatitis (here a purpuric, leukocytoclastic-vasculitis eruption). Anchors agave sap as a skin/mucous-membrane irritant.",
+   "tier": "clinical",
+   "display": "Purpuric agave dermatitis",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-1798",
    "key": "nathan1999hypericum",
    "type": "article",
@@ -79641,6 +79725,27 @@
     "Skin irritation",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2671",
+   "key": "gkh_aloe_agave",
+   "type": "misc",
+   "title": "Aloe Vs. Agave Plants: What's The Difference Between Aloe And Agave",
+   "authors": "Gardening Know How",
+   "journal": "",
+   "year": "",
+   "doi": "",
+   "url": "https://www.gardeningknowhow.com/ornamental/cacti-succulents/scgen/how-to-tell-agave-and-aloe-apart.htm",
+   "link": "https://www.gardeningknowhow.com/ornamental/cacti-succulents/scgen/how-to-tell-agave-and-aloe-apart.htm",
+   "link_type": "url",
+   "citation": "Gardening Know How 'Aloe Vs. Agave Plants: What's The Difference Between Aloe And Agave'. Available at: https://www.gardeningknowhow.com/ornamental/cacti-succulents/scgen/how-to-tell-agave-and-aloe-apart.htm",
+   "abstract": "Horticultural guide: notes that aloe and agave look similar and are easily confused if you have not grown both, and that the decisive difference is internal - aloe leaves are gel-like inside while agave is fibrous; it recounts a dangerous poisoning from ingesting agave in mistake for aloe and advises not to consume the plant unless positive it is an aloe. Anchors the aloe-versus-agave confusion and the clear-gel-versus-fibrous test.",
+   "tier": "traditional",
+   "display": "Aloe Vs. Agave Plants: What's The Difference Between Aloe And Agave",
+   "plants": [],
+   "scientific": [],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0482",

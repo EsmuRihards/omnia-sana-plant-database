@@ -258,9 +258,30 @@ drug_class_interactions:
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
+dangerous_lookalikes:
+- dangerous_plant: agave-americana
+  severity: irritant
+  confused_part: Fleshy leaves harvested for their soothing gel; agave forms a very similar large rosette of thick, pointed succulent leaves.
+  confusion_context: 'Aloe vera is grown and harvested for the clear soothing gel inside its fleshy leaves. Agave (Agave americana and relatives) forms a very similar rosette of thick, pointed succulent leaves and, as Gardening Know How notes, the two are easily confused if you have not grown both. But agave is not soothing: its sap contains calcium oxalate raphides, steroidal saponins and acrid oils, and peer-reviewed dermatology reports document painful irritant contact dermatitis (even purpura) from agave sap. Applying or ingesting agave sap in mistake for aloe gel can burn the skin, mouth and gut. Because both are common houseplants and garden succulents, this is a realistic mix-up.'
+  distinguishing_features:
+  - 'Inside the leaf (decisive): snap or cut a leaf. Aloe leaves are soft and filled with clear, slippery gel. Agave leaves are tough and fibrous/stringy with no gel - you cannot easily snap them by hand.'
+  - 'Leaf tip and edge: agave leaves end in one hard, sharp terminal spine and often have stiff sharp teeth; aloe has softer, more pliable leaves with soft whitish teeth and no rigid terminal spike.'
+  - 'Whole plant over time: aloe flowers repeatedly on a branched stalk and lives on; agave typically flowers only once, on a huge tall stalk, then dies.'
+  key_test: Cut a leaf. Clear, slippery gel inside a soft leaf = aloe (safe gel). A tough, fibrous leaf with no gel, ending in a hard sharp spine = agave - its sap is an irritant that can burn skin, mouth and gut, so do not use it. When in doubt, do not apply or consume it unless you are certain it is aloe.
+  reference_ids:
+  - REF-2671
+  - REF-2669
+  - REF-2670
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-06-20'
+last_updated: '2026-07-07'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents

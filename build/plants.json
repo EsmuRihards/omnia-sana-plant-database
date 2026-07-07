@@ -724,9 +724,35 @@
     "REF-2279",
     "REF-2280"
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "iris-pseudacorus",
+     "severity": "irritant",
+     "confused_part": "Sword-shaped leaves and the aromatic rhizome gathered from wet ground; yellow flag iris grows in the same wet habitat with near-identical sword-shaped leaves.",
+     "confusion_context": "Sweet flag (Acorus calamus) is foraged in marshes and pond margins for its aromatic rhizome and leaves. Yellow flag iris (Iris pseudacorus) grows in exactly the same wet habitat and has near-identical erect sword-shaped leaves - its very name pseudacorus means 'false sweet-flag.' Iris pseudacorus is a low-severity poison: all parts, especially the rhizome, cause salivation, vomiting and diarrhoea if eaten, and the sap can irritate skin. Because a non-flowering iris clump is easily taken for sweet flag, and the prized part (the rhizome) is the most toxic part of the iris, this is a genuine foraging hazard.",
+     "distinguishing_features": [
+      "SMELL (decisive): crush a leaf or the rhizome. Sweet flag is strongly and sweetly aromatic (spicy/citrus). Yellow flag iris has no such fragrance - it is odourless.",
+      "Leaf detail: sweet flag has a prominent off-centre raised midrib and one crinkled/wavy leaf margin. Iris leaves are flat and plain with a central midrib and straight (not wavy) margins.",
+      "Flower/structure: sweet flag bears a unique finger-like green spadix angling out from the side of a leaf-like stalk. Yellow flag iris bears showy bright-yellow iris flowers. If it has a yellow iris flower, it is not sweet flag."
+     ],
+     "key_test": "Crush a leaf and smell it. A strong sweet, spicy-citrus aroma with a wavy leaf margin and an off-centre midrib = sweet flag. No fragrance, flat leaves with straight margins, and (in season) bright-yellow iris flowers = yellow flag iris - do not eat; its rhizome causes vomiting and diarrhoea. If there is no aroma, do not use it.",
+     "reference_ids": [
+      "REF-2667",
+      "REF-2668"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "sweet-flag"
   },
   {
@@ -2709,9 +2735,36 @@
      "reviewed_date": "2026-07-03"
     }
    ],
+   "lookalikes_review": {
+    "outcome": "has-lookalikes",
+    "reviewed_by": "Omnia Sana (owner-authorized)",
+    "reviewed_date": "2026-07-07"
+   },
+   "dangerous_lookalikes": [
+    {
+     "dangerous_plant": "agave-americana",
+     "severity": "irritant",
+     "confused_part": "Fleshy leaves harvested for their soothing gel; agave forms a very similar large rosette of thick, pointed succulent leaves.",
+     "confusion_context": "Aloe vera is grown and harvested for the clear soothing gel inside its fleshy leaves. Agave (Agave americana and relatives) forms a very similar rosette of thick, pointed succulent leaves and, as Gardening Know How notes, the two are easily confused if you have not grown both. But agave is not soothing: its sap contains calcium oxalate raphides, steroidal saponins and acrid oils, and peer-reviewed dermatology reports document painful irritant contact dermatitis (even purpura) from agave sap. Applying or ingesting agave sap in mistake for aloe gel can burn the skin, mouth and gut. Because both are common houseplants and garden succulents, this is a realistic mix-up.",
+     "distinguishing_features": [
+      "Inside the leaf (decisive): snap or cut a leaf. Aloe leaves are soft and filled with clear, slippery gel. Agave leaves are tough and fibrous/stringy with no gel - you cannot easily snap them by hand.",
+      "Leaf tip and edge: agave leaves end in one hard, sharp terminal spine and often have stiff sharp teeth; aloe has softer, more pliable leaves with soft whitish teeth and no rigid terminal spike.",
+      "Whole plant over time: aloe flowers repeatedly on a branched stalk and lives on; agave typically flowers only once, on a huge tall stalk, then dies."
+     ],
+     "key_test": "Cut a leaf. Clear, slippery gel inside a soft leaf = aloe (safe gel). A tough, fibrous leaf with no gel, ending in a hard sharp spine = agave - its sap is an irritant that can burn skin, mouth and gut, so do not use it. When in doubt, do not apply or consume it unless you are certain it is aloe.",
+     "reference_ids": [
+      "REF-2671",
+      "REF-2669",
+      "REF-2670"
+     ],
+     "status": "approved",
+     "reviewed_by": "Omnia Sana (owner-authorized)",
+     "reviewed_date": "2026-07-07"
+    }
+   ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-06-20",
+   "last_updated": "2026-07-07",
    "common_slug": "aloe-vera"
   },
   {

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 180,
+ "count": 181,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -19796,6 +19796,101 @@
      "inferred": true,
      "references": [
       "REF-0522"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Water avens",
+   "scientific": "Geum rivale",
+   "id": "geum-rivale",
+   "common_slug": "water-avens",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2772"
+     ]
+    },
+    {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2768",
+      "REF-2769"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2763",
+      "REF-2771"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2767",
+      "REF-2777"
+     ]
+    },
+    {
+     "condition": "oral-health",
+     "label": "Oral & throat health",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2771",
+      "REF-2769"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2774"
+     ]
+    },
+    {
+     "condition": "sore-throat",
+     "label": "Sore throat",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2763",
+      "REF-2769"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2774",
+      "REF-2769"
      ]
     }
    ]

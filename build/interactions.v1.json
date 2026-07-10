@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 99,
+ "count": 100,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -1611,6 +1611,21 @@
    "references": [
     "REF-2452",
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "geum-rivale",
+   "plant": "Water avens",
+   "scientific": "Geum rivale",
+   "common_slug": "water-avens",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Avens (Geum) root showed antidiabetic (glucose-lowering) activity; combined with antidiabetic medicines it could theoretically add to blood-sugar-lowering effects.",
+   "references": [
+    "REF-2772"
    ],
    "status": "approved"
   },

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 106,
+ "count": 112,
  "pairings": [
   {
    "herb_id": "agrimonia-eupatoria",
@@ -13,6 +13,20 @@
    "note": "Rosaceae astringents rich in hydrolysable tannins, traditionally used for diarrhoea and as gargles; studied together for antioxidant and genotoxicity profile.",
    "references": [
     "REF-2740"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "agrimonia-eupatoria",
+   "herb": "Agrimony",
+   "herb_slug": "agrimony",
+   "partner_id": "geum-rivale",
+   "partner": "Water avens",
+   "partner_slug": "water-avens",
+   "type": "synergy",
+   "note": "Rosaceae astringents rich in hydrolysable tannins, traditionally used together for diarrhoea, sore throat and as gargles.",
+   "references": [
+    "REF-2768"
    ],
    "status": "approved"
   },
@@ -986,6 +1000,21 @@
    "status": "approved"
   },
   {
+   "herb_id": "filipendula-ulmaria",
+   "herb": "Meadowsweet",
+   "herb_slug": "meadowsweet",
+   "partner_id": "geum-rivale",
+   "partner": "Water avens",
+   "partner_slug": "water-avens",
+   "type": "neutral",
+   "note": "Both are Rosaceae rich in ellagitannins and phenolics with overlapping antioxidant and anti-inflammatory profiles; water avens is astringent, meadowsweet more salicylate-based.",
+   "references": [
+    "REF-2768",
+    "REF-2770"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "olea-europaea",
    "herb": "Olive",
    "herb_slug": "olive",
@@ -1352,6 +1381,20 @@
    "status": "approved"
   },
   {
+   "herb_id": "potentilla-erecta",
+   "herb": "Tormentil",
+   "herb_slug": "tormentil",
+   "partner_id": "geum-rivale",
+   "partner": "Water avens",
+   "partner_slug": "water-avens",
+   "type": "synergy",
+   "note": "Classic Rosaceae astringent pairing: both are tannin-rich roots traditionally combined for diarrhoea and as mouth/throat gargles.",
+   "references": [
+    "REF-2768"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "cinnamomum-verum",
    "herb": "True Cinnamon",
    "herb_slug": "true-cinnamon",
@@ -1495,6 +1538,49 @@
    "references": [
     "REF-2461",
     "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "geum-rivale",
+   "herb": "Water avens",
+   "herb_slug": "water-avens",
+   "partner_id": "agrimonia-eupatoria",
+   "partner": "Agrimony",
+   "partner_slug": "agrimony",
+   "type": "synergy",
+   "note": "Rosaceae astringents rich in hydrolysable tannins, traditionally used together for diarrhoea, sore throat and as gargles.",
+   "references": [
+    "REF-2768"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "geum-rivale",
+   "herb": "Water avens",
+   "herb_slug": "water-avens",
+   "partner_id": "filipendula-ulmaria",
+   "partner": "Meadowsweet",
+   "partner_slug": "meadowsweet",
+   "type": "neutral",
+   "note": "Both are Rosaceae rich in ellagitannins and phenolics with overlapping antioxidant and anti-inflammatory profiles; water avens is astringent, meadowsweet more salicylate-based.",
+   "references": [
+    "REF-2768",
+    "REF-2770"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "geum-rivale",
+   "herb": "Water avens",
+   "herb_slug": "water-avens",
+   "partner_id": "potentilla-erecta",
+   "partner": "Tormentil",
+   "partner_slug": "tormentil",
+   "type": "synergy",
+   "note": "Classic Rosaceae astringent pairing: both are tannin-rich roots traditionally combined for diarrhoea and as mouth/throat gargles.",
+   "references": [
+    "REF-2768"
    ],
    "status": "approved"
   },

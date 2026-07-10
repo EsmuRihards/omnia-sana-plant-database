@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 183,
+ "count": 184,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -9461,6 +9461,78 @@
      "inferred": false,
      "references": [
       "REF-2756"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Field scabious",
+   "scientific": "Knautia arvensis",
+   "id": "knautia-arvensis",
+   "common_slug": "field-scabious",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "acne",
+     "label": "Acne",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2811"
+     ]
+    },
+    {
+     "condition": "eczema",
+     "label": "Eczema",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2811"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2811",
+      "REF-2815"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2811",
+      "REF-2813"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2811",
+      "REF-2810"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2811"
      ]
     }
    ]

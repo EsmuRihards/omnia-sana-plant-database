@@ -1,0 +1,211 @@
+id: knautia-arvensis
+scientific_name: Knautia arvensis
+common_names:
+- Field scabious
+- blue buttons
+- gypsy rose
+common_slug: field-scabious
+family: Caprifoliaceae
+synonyms:
+- Scabiosa arvensis
+- Knautia arvensis subsp. arvensis
+parts_used:
+- Aerial parts
+- Flower
+- Root
+- Leaf
+botanical_description:
+  text: A hairy perennial herb of the honeysuckle family (formerly Dipsacaceae), 25-100 cm tall, growing
+    from a stout rootstock. The stems are roughly hairy and bear opposite leaves that are variable - the
+    lower ones often lyre-shaped or pinnately lobed, the upper deeply cut. The flowers are massed into
+    flat, domed pincushion heads about 3-4 cm across, lilac to bluish-violet, with the outer florets enlarged;
+    the heads are carried on long stalks and, unlike true scabious (Scabiosa), the receptacle is hairy
+    rather than scaly. It flowers through summer and is a favourite of bees and butterflies.
+  height: 25-100 cm
+  habit: Hairy perennial herb from a stout rootstock
+  leaves: Opposite, hairy; lower leaves lyre-shaped/pinnately lobed, upper deeply cut
+  flowers: Lilac to bluish-violet florets in flat, domed pincushion heads 3-4 cm across, outer florets
+    enlarged
+  stem: Erect, roughly hairy, branched above
+  root: Stout rootstock with fibrous roots
+  fruit: A small hairy achene enclosed in an epicalyx
+  flowering_period: July-September
+  reference_ids:
+  - REF-2808
+  status: verified
+habitat:
+  text: Dry grassland, meadows, pastures, dry hills, roadside banks, field margins and open woods, on
+    well-drained and often calcareous soils across Europe and into western Asia and parts of Africa. A
+    characteristic plant of unimproved dry meadows.
+  reference_ids:
+  - REF-2808
+  status: verified
+harvesting:
+  text: The flowering aerial parts (leaves, stems, flower heads) are gathered in summer while in flower
+    and dried; the root is also used. Best cut from established plants in dry grassland.
+  parts:
+  - Aerial parts
+  - Flower
+  - Root
+  season: Aerial parts in flower (July-September); root in autumn
+  reference_ids:
+  - REF-2808
+  status: verified
+traditional_uses:
+  text: Field scabious has a European folk-medicine reputation chiefly as a remedy for skin complaints
+    - eczema, itching, scabies (the name 'scabious' comes from its use against 'the scab'), cuts and sores
+    - taken internally as a 'blood purifier' (alterative/depurative) and applied externally as a wash
+    or poultice. It has also been used for coughs and sore throats. The plant is rich in phenolic acids,
+    flavonoids and saponins; the closely related genera Knautia, Scabiosa and Dipsacus in the honeysuckle
+    family share this chemistry and a tradition of use in skin disease and inflammation.
+  reference_ids:
+  - REF-2811
+  - REF-2810
+  status: verified
+preparations:
+- name: Infusion
+  text: The dried flowering herb infused as a tea traditionally taken as an alterative ('blood purifier')
+    for skin complaints and for coughs.
+  reference_ids:
+  - REF-2810
+  status: draft
+- name: Wash / poultice
+  text: A strong infusion or the crushed herb applied externally to eczema, itching, cuts and sores (traditional).
+  reference_ids:
+  - REF-2811
+  status: draft
+dosage:
+- name: Dried herb infusion
+  text: No standardised dose is established (little studied). Traditionally a few grams of the dried flowering
+    herb are infused per cup. Educational reference only.
+  status: draft
+constituents:
+- name: Phenolic acids (chlorogenic and dicaffeoylquinic acids)
+  compounds:
+  - phenolic-acid
+  - chlorogenic-acid
+  - caffeic-acid
+  note: Chlorogenic, cryptochlorogenic and dicaffeoylquinic acids and caffeoylhydrocitric acid (antioxidant).
+  reference_ids:
+  - REF-2809
+  - REF-2808
+- name: Flavonoids (C-flavone glycosides, isovitexin)
+  compounds:
+  - flavonoid
+  - apigenin
+  note: C-glycosidic flavones such as isovitexin and related flavonoids.
+  reference_ids:
+  - REF-2809
+  - REF-2808
+- name: Triterpenoid saponins (knautiosides)
+  compounds:
+  - triterpene-saponin
+  - saponin
+  note: Saponin glycosides (knautiosides) characteristic of the plant and the Caprifoliaceae family.
+  reference_ids:
+  - REF-2810
+  - REF-2812
+- name: Iridoid glycosides
+  compounds:
+  - iridoid-glycoside
+  note: Iridoid glycosides typical of the honeysuckle family (Caprifoliaceae/Dipsacaceae).
+  reference_ids:
+  - REF-2810
+  - REF-2815
+actions:
+- action: alterative
+  note: Traditional 'blood purifier' (depurative) for skin complaints; the classic use of field scabious.
+  reference_ids:
+  - REF-2811
+  - REF-2810
+  status: verified
+- action: anti-inflammatory
+  note: Knautia and related Caprifoliaceae extracts inhibit inflammatory mediators (COX/LOX).
+  reference_ids:
+  - REF-2811
+  - REF-2813
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-2811
+  - REF-2814
+  - REF-2813
+  status: verified
+- action: antimicrobial
+  note: Antibacterial (anti-acne) activity of Knautia extracts; antimicrobial activity across the family.
+  reference_ids:
+  - REF-2811
+  - REF-2815
+  status: verified
+indications:
+- condition: skin-irritation
+  note: Traditional remedy for eczema, itching and skin complaints; anti-acne activity of Knautia extracts.
+  reference_ids:
+  - REF-2811
+  - REF-2810
+  status: verified
+- condition: eczema
+  note: inferred from traditional skin/depurative use
+  reference_ids:
+  - REF-2811
+  status: needs-review
+- condition: acne
+  note: Anti-acne activity of Knautia species extracts (antibacterial, anti-inflammatory).
+  reference_ids:
+  - REF-2811
+  status: needs-review
+- condition: inflammation
+  reference_ids:
+  - REF-2811
+  - REF-2813
+  status: verified
+- condition: wounds
+  note: inferred from traditional external use on cuts and sores
+  reference_ids:
+  - REF-2811
+  status: needs-review
+- condition: infection
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-2811
+  - REF-2815
+  status: needs-review
+contraindications:
+- note: Very little is known about the safety of field scabious and there are no clinical data; avoid
+    medicinal doses in pregnancy and breastfeeding and use only modest amounts.
+  severity: caution
+  status: verified
+- note: Most pharmacological data come from closely related Caprifoliaceae (genus Knautia, Scabiosa, Dipsacus)
+    rather than Knautia arvensis itself; apply to field scabious with caution.
+  severity: info
+  reference_ids:
+  - REF-2812
+  status: verified
+references:
+- REF-2808
+- REF-2809
+- REF-2810
+- REF-2811
+- REF-2812
+- REF-2813
+- REF-2814
+- REF-2815
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+  reference_ids:
+  - REF-2808
+provenance: pubmed
+status: verified
+last_updated: '2026-07-10'
+internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent failed on the session
+  limit). SETTLED-INCOMPLETE: genuine Knautia arvensis medicinal/phytochemical literature is only 3 papers
+  (REF-2808 phenolic profile, REF-2809 phenolic/flavone constituents, REF-2810 knautioside/saponosides).
+  PubMed for K. arvensis is otherwise dominated by rumen/methane feed studies, plant-pathology and ecology
+  (all rejected). Supplemented with 5 clearly-labelled Caprifoliaceae congeners (REF-2811 genus Knautia
+  anti-acne/skin - matching the plant''s traditional skin use; REF-2812 Dipsacus/Scabiosa review; REF-2813
+  Scabiosa review; REF-2814 Scabiosa antioxidant/antidiabetic; REF-2815 Dipsacus fullonum). 8 total -
+  well under 15; genuine-only <15 is genuine for this species. Do NOT pad with unrelated species. Cross-links
+  via shared compounds (chlorogenic-acid/flavonoid/iridoid-glycoside/saponin) and skin/inflammation indications.
+  lookalikes none-known (distinctive lilac pincushion heads; confusable only with harmless Scabiosa/Succisa).'

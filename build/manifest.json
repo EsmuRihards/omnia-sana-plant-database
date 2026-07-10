@@ -3,21 +3,21 @@
  "artifacts": {
   "citations.json": {
    "schema": "omnia-sana/knowledge-finder@2",
-   "count": 2723,
-   "bytes": 4188949,
-   "sha256": "9d176ce0559b346fa7410a6048b78d7844a72e37c43aaa440dca82eb2360b0f8"
+   "count": 2739,
+   "bytes": 4212574,
+   "sha256": "b25e425d442dc4f09b0ef2e44c830f5da197bbe3bb3cfdd826caa34fb37dfb5e"
   },
   "symptoms.json": {
    "schema": "omnia-sana/symptom-lookup@1",
-   "count": 178,
-   "bytes": 407262,
-   "sha256": "e91c388badaaff212e9300320b86b8f879f5548e0a1366d28c0862357ec52ee0"
+   "count": 179,
+   "bytes": 410082,
+   "sha256": "552eeffd281cab006ea09648620f272a407c5ee0289ff43a3c57dab332190871"
   },
   "plants.json": {
    "schema": "omnia-sana/plants@1",
-   "count": 180,
-   "bytes": 1246918,
-   "sha256": "7375d167f1722e35b6fac6d6f01ffca8c080bddb8cf118d5c6ee32c5033274b0"
+   "count": 181,
+   "bytes": 1264622,
+   "sha256": "c0eb169cef0628957dfa4abacc1098757573b13822ed2c987534210eb7edf707"
   },
   "vocab.json": {
    "schema": "omnia-sana/vocab@1",
@@ -27,21 +27,21 @@
   },
   "interactions.v1.json": {
    "schema": "omnia-sana/interactions@1",
-   "count": 94,
-   "bytes": 62173,
-   "sha256": "b1c85edd6aa8f79aee98eb823a6b61d9d674b8b214f0451d9089e0062e5b0b9a"
+   "count": 97,
+   "bytes": 63711,
+   "sha256": "85774e18f7e62a5b213606cdae12e3a9ae2ca24df46ea3d957bc41d483744816"
   },
   "pairings.v1.json": {
    "schema": "omnia-sana/pairings@1",
-   "count": 94,
-   "bytes": 47943,
-   "sha256": "8947027eaff4d55961dd637d28725d22715b0275cd3a8ddaa00976132a18834e"
+   "count": 100,
+   "bytes": 50866,
+   "sha256": "4b8233052017eb90524a6274b499d2bcb0dfd5bc3b4285248fe67f2fb28af9b7"
   },
   "lookalikes.v1.json": {
    "schema": "omnia-sana/lookalikes@1",
-   "count": 71,
-   "bytes": 226585,
-   "sha256": "209fd902572c293362002f039e1f574e64afef44a700fed710f2431f957cb7db"
+   "count": 72,
+   "bytes": 228578,
+   "sha256": "f49196915cb215e9f74606e68fa0dfb6a60d20653f0aec584f0ef9da27737264"
   }
  }
 }

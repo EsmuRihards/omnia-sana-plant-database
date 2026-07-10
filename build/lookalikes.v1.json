@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 71,
- "plants_covered": 180,
+ "count": 72,
+ "plants_covered": 181,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -2032,6 +2032,36 @@
    "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "filipendula-vulgaris",
+   "plant": "Dropwort",
+   "scientific": "Filipendula vulgaris",
+   "common_slug": "dropwort",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "oenanthe-crocata",
+     "dangerous_plant_label": "Hemlock water-dropwort",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Name confusion: 'dropwort' (this plant) vs 'hemlock water-dropwort' (Oenanthe crocata).",
+     "confusion_context": "The share of the name 'dropwort' is a hazard: hemlock water-dropwort (Oenanthe crocata) is one of the deadliest plants in Europe (oenanthotoxin, violent convulsions). The two plants look nothing alike, but a forager going by common name alone could confuse them. This entry exists to make the difference unmistakable.",
+     "distinguishing_features": [
+      "Family and form: true dropwort (Filipendula vulgaris, Rosaceae) is a slender plant with a basal rosette of fern-like pinnate leaves and creamy 6-petalled flowers in a loose cyme; hemlock water-dropwort (Oenanthe crocata, Apiaceae/carrot family) is a stout hollow-stemmed plant with celery-like leaves and flat white UMBELS.",
+      "Habitat: Filipendula vulgaris grows in DRY calcareous grassland; Oenanthe crocata grows in WET ground - ditches, streamsides, marshes.",
+      "Root: dropwort has fibrous roots with small bead-like tubers; hemlock water-dropwort has a cluster of large pale fleshy finger-like tubers ('dead man's fingers')."
+     ],
+     "key_test": "If it has flat white umbels, celery-like leaves, a hollow stem and grows in wet ground with fleshy finger-like root tubers, it is hemlock water-dropwort (deadly) - NOT dropwort. True dropwort has fern-like basal leaves, creamy 6-petalled flowers and grows in dry grassland.",
+     "references": [
+      "REF-2612"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-10"
   },
   {
    "plant_id": "sambucus-nigra",

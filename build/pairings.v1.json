@@ -1,7 +1,21 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 94,
+ "count": 100,
  "pairings": [
+  {
+   "herb_id": "agrimonia-eupatoria",
+   "herb": "Agrimony",
+   "herb_slug": "agrimony",
+   "partner_id": "filipendula-vulgaris",
+   "partner": "Dropwort",
+   "partner_slug": "dropwort",
+   "type": "synergy",
+   "note": "Rosaceae astringents rich in hydrolysable tannins, traditionally used for diarrhoea and as gargles; studied together for antioxidant and genotoxicity profile.",
+   "references": [
+    "REF-2740"
+   ],
+   "status": "approved"
+  },
   {
    "herb_id": "withania-somnifera",
    "herb": "Ashwagandha",
@@ -219,6 +233,49 @@
    "note": "Classic diuretic pairing for fluid retention and urinary support; both increase urine flow.",
    "references": [
     "REF-2708"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "filipendula-vulgaris",
+   "herb": "Dropwort",
+   "herb_slug": "dropwort",
+   "partner_id": "agrimonia-eupatoria",
+   "partner": "Agrimony",
+   "partner_slug": "agrimony",
+   "type": "synergy",
+   "note": "Rosaceae astringents rich in hydrolysable tannins, traditionally used for diarrhoea and as gargles; studied together for antioxidant and genotoxicity profile.",
+   "references": [
+    "REF-2740"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "filipendula-vulgaris",
+   "herb": "Dropwort",
+   "herb_slug": "dropwort",
+   "partner_id": "filipendula-ulmaria",
+   "partner": "Meadowsweet",
+   "partner_slug": "meadowsweet",
+   "type": "synergy",
+   "note": "Sibling species: both are salicylate- and tannin-rich Rosaceae with overlapping anti-inflammatory, analgesic, astringent and gastroprotective uses (dropwort of dry grassland, meadowsweet of wet meadows); studied together in the same trials.",
+   "references": [
+    "REF-2726",
+    "REF-2727"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "filipendula-vulgaris",
+   "herb": "Dropwort",
+   "herb_slug": "dropwort",
+   "partner_id": "salix-alba",
+   "partner": "Willow Bark",
+   "partner_slug": "willow-bark",
+   "type": "synergy",
+   "note": "Both are salicylate-containing anti-inflammatory and analgesic herbs (the classic plant-aspirin group), traditionally combined for rheumatic pain and fever.",
+   "references": [
+    "REF-2734"
    ],
    "status": "approved"
   },
@@ -844,6 +901,21 @@
    "status": "approved"
   },
   {
+   "herb_id": "filipendula-ulmaria",
+   "herb": "Meadowsweet",
+   "herb_slug": "meadowsweet",
+   "partner_id": "filipendula-vulgaris",
+   "partner": "Dropwort",
+   "partner_slug": "dropwort",
+   "type": "synergy",
+   "note": "Sibling species: both are salicylate- and tannin-rich Rosaceae with overlapping anti-inflammatory, analgesic, astringent and gastroprotective uses (dropwort of dry grassland, meadowsweet of wet meadows); studied together in the same trials.",
+   "references": [
+    "REF-2726",
+    "REF-2727"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "olea-europaea",
    "herb": "Olive",
    "herb_slug": "olive",
@@ -1381,6 +1453,20 @@
    "note": "Both are Apiaceae diuretics traditionally combined for urinary and 'gravel' complaints; complementary diuretic and urinary-support action.",
    "references": [
     "REF-2708"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "salix-alba",
+   "herb": "Willow Bark",
+   "herb_slug": "willow-bark",
+   "partner_id": "filipendula-vulgaris",
+   "partner": "Dropwort",
+   "partner_slug": "dropwort",
+   "type": "synergy",
+   "note": "Both are salicylate-containing anti-inflammatory and analgesic herbs (the classic plant-aspirin group), traditionally combined for rheumatic pain and fever.",
+   "references": [
+    "REF-2734"
    ],
    "status": "approved"
   }

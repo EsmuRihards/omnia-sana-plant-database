@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 94,
+ "count": 97,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -358,6 +358,52 @@
    "references": [
     "REF-2452",
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "filipendula-vulgaris",
+   "plant": "Dropwort",
+   "scientific": "Filipendula vulgaris",
+   "common_slug": "dropwort",
+   "wp_post_id": null,
+   "drug_class": "anticoagulants-antiplatelets",
+   "drug_class_label": "Anticoagulants / antiplatelets",
+   "severity": "caution",
+   "mechanism": "Dropwort contains salicylates (as in meadowsweet and willow); combined with anticoagulant or antiplatelet drugs it may theoretically add to bleeding risk.",
+   "references": [
+    "REF-2734"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "filipendula-vulgaris",
+   "plant": "Dropwort",
+   "scientific": "Filipendula vulgaris",
+   "common_slug": "dropwort",
+   "wp_post_id": null,
+   "drug_class": "chemotherapy-agents",
+   "drug_class_label": "Chemotherapy / cancer medicines",
+   "severity": "insufficient",
+   "mechanism": "Dropwort shows anticancer activity in preclinical models; any interaction with chemotherapy is theoretical and unstudied.",
+   "references": [
+    "REF-2735"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "filipendula-vulgaris",
+   "plant": "Dropwort",
+   "scientific": "Filipendula vulgaris",
+   "common_slug": "dropwort",
+   "wp_post_id": null,
+   "drug_class": "nsaids",
+   "drug_class_label": "NSAIDs (anti-inflammatory painkillers)",
+   "severity": "caution",
+   "mechanism": "The salicylate constituents are NSAID-like; taken with NSAIDs they could add to gastrointestinal and bleeding effects.",
+   "references": [
+    "REF-2734",
+    "REF-2727"
    ],
    "status": "approved"
   },

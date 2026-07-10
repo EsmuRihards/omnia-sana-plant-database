@@ -1,0 +1,307 @@
+id: lysimachia-vulgaris
+scientific_name: Lysimachia vulgaris
+common_names:
+- Yellow loosestrife
+- garden loosestrife
+- yellow willowherb (loosestrife)
+common_slug: yellow-loosestrife
+family: Primulaceae
+synonyms:
+- Lysimachia vulgaris var. davurica
+parts_used:
+- Aerial parts
+- Flower
+- Leaf
+- Root
+botanical_description:
+  text: A tall, erect perennial herb of the primrose family, 60-150 cm high, spreading by creeping rhizomes
+    to form patches. The stems are softly downy and bear lance-shaped leaves in whorls of three or four
+    (or opposite pairs), often gland-dotted. Bright yellow, five-petalled star-shaped flowers, about 15
+    mm across and often with reddish margins to the sepals, are carried in leafy branching clusters (panicles)
+    at the top of the stem in summer. Despite the shared name 'loosestrife', it is unrelated to purple
+    loosestrife (Lythrum salicaria).
+  height: 60-150 cm
+  habit: Tall erect rhizomatous perennial, spreading in patches
+  leaves: Lance-shaped, in whorls of 3-4 or opposite, often gland-dotted, softly hairy beneath
+  flowers: Bright yellow, 5-petalled, star-shaped (about 15 mm), in leafy terminal panicles; sepals often
+    red-margined
+  stem: Erect, softly downy, little-branched below the flower cluster
+  root: Creeping rhizome with fibrous roots
+  fruit: A small globular capsule
+  flowering_period: June-August
+  reference_ids:
+  - REF-2796
+  status: verified
+habitat:
+  text: 'Wet ground: margins of rivers, lakes, ponds and ditches, fens, marshes, wet meadows and damp
+    woodland, across Europe and temperate Asia (and naturalised in North America). It favours moist to
+    waterlogged, fertile soils in sun or light shade and can form dense stands.'
+  reference_ids:
+  - REF-2796
+  status: verified
+harvesting:
+  text: The flowering aerial parts (leaves, stems, flowers) are gathered in summer while in flower and
+    dried; the root/rhizome is also used. The plant is best cut from established patches in wet ground.
+  parts:
+  - Aerial parts
+  - Flower
+  - Root
+  season: Aerial parts in flower (June-August); root in autumn
+  reference_ids:
+  - REF-2796
+  status: verified
+traditional_uses:
+  text: 'Yellow loosestrife has a European folk-medicine reputation as an astringent and styptic: the
+    flavonoid- and tannin-rich herb was used to stop bleeding (nosebleeds, wounds), for diarrhoea and
+    dysentery, as a gargle and wash for mouth ulcers and sore throat, and to soothe inflammation. The
+    dried herb was also burned to repel insects. More broadly, the genus Lysimachia is important in East
+    Asian medicine - the closely related L. vulgaris var. davurica is used for liver and digestive complaints,
+    while other congeners such as L. christinae (jin qian cao) are classic remedies for urinary and gallstones
+    - reflecting a shared saponin and flavonoid chemistry.'
+  reference_ids:
+  - REF-2796
+  - REF-2794
+  - REF-2802
+  status: verified
+preparations:
+- name: Infusion
+  text: The dried flowering herb infused as an astringent tea for diarrhoea and as a gargle/wash for mouth
+    and throat inflammation.
+  reference_ids:
+  - REF-2796
+  status: verified
+- name: Poultice / wash
+  text: The fresh or dried herb applied as a styptic poultice or wash to stop bleeding and soothe wounds
+    (traditional).
+  reference_ids:
+  - REF-2798
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the aerial parts (about 1:5).
+  status: draft
+dosage:
+- name: Dried herb infusion
+  text: 'Traditional herbal use: roughly 2-4 g of dried flowering herb per cup as an infusion, up to three
+    times daily. Educational reference only.'
+  status: draft
+- name: Tincture (1:5)
+  text: About 2-4 mL of a 1:5 tincture up to three times daily in adults. Educational reference only,
+    not a prescription.
+  status: draft
+constituents:
+- name: Flavonoids (rutin, quercetin, kaempferol, myricitrin glycosides)
+  compounds:
+  - flavonoid
+  - rutin
+  - quercetin
+  - kaempferol
+  note: Flavonol glycosides - notably rutin - are the principal antioxidant constituents of yellow loosestrife.
+  reference_ids:
+  - REF-2798
+  - REF-2800
+  - REF-2799
+  - REF-2801
+- name: Phenolic acids
+  compounds:
+  - phenolic-acid
+  - caffeic-acid
+  - chlorogenic-acid
+  note: Caffeic-acid derivatives and chlorogenic acid (antioxidant).
+  reference_ids:
+  - REF-2801
+  - REF-2796
+- name: Triterpenoid saponins
+  compounds:
+  - triterpene-saponin
+  - saponin
+  note: Oleanane-type triterpenoid saponins characteristic of the genus Lysimachia.
+  reference_ids:
+  - REF-2804
+  - REF-2807
+- name: Isocoumarins and benzoquinones
+  compounds:
+  - phenolic-compound
+  note: Root isocoumarins and benzoquinones with PCSK9-inhibitory (lipid-lowering) activity.
+  reference_ids:
+  - REF-2793
+- name: Tannins
+  compounds:
+  - tannin
+  note: Astringent tannins underlying the traditional styptic/antidiarrhoeal use.
+  reference_ids:
+  - REF-2796
+- name: Lignans and loliolide
+  compounds:
+  - lignan
+  note: The lignan pinoresinol and loliolide, which reduce hepatic lipogenesis.
+  reference_ids:
+  - REF-2797
+actions:
+- action: antioxidant
+  reference_ids:
+  - REF-2796
+  - REF-2799
+  - REF-2801
+  - REF-2805
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-2795
+  - REF-2806
+  status: verified
+- action: antimicrobial
+  note: Antibacterial activity of the phenolic-rich extract.
+  reference_ids:
+  - REF-2796
+  status: verified
+- action: anticancer
+  note: Antitumor activity of L. vulgaris extract; genus congeners (L. christinae, L. capillipes saponins)
+    show anticancer activity.
+  reference_ids:
+  - REF-2796
+  - REF-2803
+  - REF-2807
+  status: verified
+- action: hepatoprotective
+  note: Ameliorates liver fibrosis and NASH in mice (L. vulgaris var. davurica).
+  reference_ids:
+  - REF-2794
+  status: verified
+- action: lipid-lowering
+  note: Root isocoumarins/benzoquinones inhibit PCSK9 expression and loliolide/pinoresinol reduce hepatic
+    lipogenesis via liver-X-receptor degradation.
+  reference_ids:
+  - REF-2793
+  - REF-2797
+  status: verified
+- action: antidiarrheal
+  note: Improves diarrhoea-predominant IBS (L. vulgaris var. davurica); traditional astringent antidiarrhoeal.
+  reference_ids:
+  - REF-2795
+  - REF-2796
+  status: verified
+- action: astringent
+  note: Flavonoid- and tannin-rich herb; the basis of the traditional styptic and antidiarrhoeal use.
+  reference_ids:
+  - REF-2798
+  - REF-2796
+  status: verified
+indications:
+- condition: liver-support
+  note: Ameliorates liver fibrosis/NASH in animal models.
+  reference_ids:
+  - REF-2794
+  status: verified
+- condition: high-cholesterol
+  note: PCSK9 inhibition and reduced hepatic lipogenesis (lipid-lowering).
+  reference_ids:
+  - REF-2793
+  - REF-2797
+  status: verified
+- condition: metabolic-support
+  note: Improves NASH/metabolic and lipid parameters in animal models.
+  reference_ids:
+  - REF-2794
+  - REF-2797
+  status: needs-review
+- condition: diarrhea
+  note: Improves diarrhoea-predominant IBS; traditional astringent antidiarrhoeal.
+  reference_ids:
+  - REF-2795
+  - REF-2796
+  status: verified
+- condition: ibs
+  note: Improved diarrhoea-predominant irritable bowel syndrome (var. davurica).
+  reference_ids:
+  - REF-2795
+  status: verified
+- condition: inflammation
+  reference_ids:
+  - REF-2795
+  - REF-2806
+  status: verified
+- condition: infection
+  note: inferred from antibacterial action
+  reference_ids:
+  - REF-2796
+  status: needs-review
+- condition: wounds
+  note: inferred from astringent/styptic traditional use
+  reference_ids:
+  - REF-2798
+  status: needs-review
+contraindications:
+- note: Safety data are limited and there are no human clinical trials; avoid medicinal doses in pregnancy
+    and breastfeeding.
+  severity: caution
+  status: verified
+- note: Contains astringent tannins and flavonoids; large or prolonged doses may cause digestive upset
+    and can reduce absorption of iron and some medicines.
+  severity: info
+  reference_ids:
+  - REF-2798
+  - REF-2796
+  status: verified
+- note: Much of the pharmacological data are for Lysimachia vulgaris var. davurica and closely related
+    Lysimachia species (e.g. L. christinae, L. foenum-graecum); apply to the plain species with appropriate
+    caution.
+  severity: info
+  reference_ids:
+  - REF-2794
+  status: verified
+references:
+- REF-2793
+- REF-2794
+- REF-2795
+- REF-2796
+- REF-2797
+- REF-2798
+- REF-2799
+- REF-2800
+- REF-2801
+- REF-2802
+- REF-2803
+- REF-2804
+- REF-2805
+- REF-2806
+- REF-2807
+drug_class_interactions:
+- drug_class: statins
+  severity: caution
+  mechanism: Yellow loosestrife root constituents inhibit PCSK9 expression and reduce hepatic lipogenesis;
+    taken with statins or other lipid-lowering drugs they could theoretically add to cholesterol-lowering
+    effects.
+  reference_ids:
+  - REF-2793
+  - REF-2797
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+pairings:
+- partner_id: primula-veris
+  type: neutral
+  note: Both are Primulaceae rich in triterpenoid saponins and flavonoids; related family chemistry rather
+    than a specific therapeutic combination.
+  reference_ids:
+  - REF-2804
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+  reference_ids:
+  - REF-2796
+provenance: pubmed
+status: verified
+last_updated: '2026-07-10'
+internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent for this plant failed
+  on the session limit). 15 refs REF-2793..REF-2807: 9 genuine Lysimachia vulgaris (incl. var. davurica,
+  a variety of the species - PCSK9/lipid-lowering, liver-fibrosis/NASH, IBS-D, antibacterial/antitumor/antioxidant,
+  flavonoid/rutin phytochem) + 6 clearly-labelled genus congeners (L. christinae renal/anticancer/saponins,
+  L. foenum-graecum antioxidant, L. baviensis anti-inflammatory, L. capillipes anticancer saponins). Every
+  congener labelled; the genus shares saponin/flavonoid chemistry. Non-medicinal L. vulgaris hits (pollen/canopy/wetland-ecology/heavy-metal
+  bioindication) rejected. Strong genuine finding: PCSK9 inhibition -> statins interaction. Cross-link:
+  primula-veris (Primulaceae saponins). lookalikes none-known (distinctive whorled leaves + yellow star
+  flowers; unrelated to purple loosestrife Lythrum).'

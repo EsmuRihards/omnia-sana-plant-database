@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 182,
+ "count": 183,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -21366,6 +21366,99 @@
       "REF-0369",
       "REF-0373",
       "REF-0381"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Yellow loosestrife",
+   "scientific": "Lysimachia vulgaris",
+   "id": "lysimachia-vulgaris",
+   "common_slug": "yellow-loosestrife",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2795",
+      "REF-2796"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2793",
+      "REF-2797"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2796"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2795",
+      "REF-2806"
+     ]
+    },
+    {
+     "condition": "ibs",
+     "label": "Irritable bowel syndrome (IBS)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2795"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2794"
+     ]
+    },
+    {
+     "condition": "metabolic-support",
+     "label": "Metabolic support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2794",
+      "REF-2797"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2798"
      ]
     }
    ]

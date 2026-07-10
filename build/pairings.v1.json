@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 112,
+ "count": 114,
  "pairings": [
   {
    "herb_id": "agrimonia-eupatoria",
@@ -247,6 +247,20 @@
    "note": "Chamomile and valerian are both traditional mild sedatives for restlessness and poor sleep; taken together they may enhance calming and sleep effects but also add to drowsiness.",
    "references": [
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "primula-veris",
+   "herb": "Cowslip",
+   "herb_slug": "cowslip",
+   "partner_id": "lysimachia-vulgaris",
+   "partner": "Yellow loosestrife",
+   "partner_slug": "yellow-loosestrife",
+   "type": "neutral",
+   "note": "Both are Primulaceae rich in triterpenoid saponins and flavonoids; related family chemistry rather than a specific therapeutic combination.",
+   "references": [
+    "REF-2804"
    ],
    "status": "approved"
   },
@@ -1637,6 +1651,20 @@
    "note": "Both are salicylate-containing anti-inflammatory and analgesic herbs (the classic plant-aspirin group), traditionally combined for rheumatic pain and fever.",
    "references": [
     "REF-2734"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "lysimachia-vulgaris",
+   "herb": "Yellow loosestrife",
+   "herb_slug": "yellow-loosestrife",
+   "partner_id": "primula-veris",
+   "partner": "Cowslip",
+   "partner_slug": "cowslip",
+   "type": "neutral",
+   "note": "Both are Primulaceae rich in triterpenoid saponins and flavonoids; related family chemistry rather than a specific therapeutic combination.",
+   "references": [
+    "REF-2804"
    ],
    "status": "approved"
   }

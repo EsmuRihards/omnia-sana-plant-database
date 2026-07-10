@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 101,
+ "count": 102,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -1720,6 +1720,22 @@
    "references": [
     "REF-2452",
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "lysimachia-vulgaris",
+   "plant": "Yellow loosestrife",
+   "scientific": "Lysimachia vulgaris",
+   "common_slug": "yellow-loosestrife",
+   "wp_post_id": null,
+   "drug_class": "statins",
+   "drug_class_label": "Statins (cholesterol-lowering)",
+   "severity": "caution",
+   "mechanism": "Yellow loosestrife root constituents inhibit PCSK9 expression and reduce hepatic lipogenesis; taken with statins or other lipid-lowering drugs they could theoretically add to cholesterol-lowering effects.",
+   "references": [
+    "REF-2793",
+    "REF-2797"
    ],
    "status": "approved"
   }

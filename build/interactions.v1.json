@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 100,
+ "count": 101,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -342,6 +342,21 @@
     "REF-2452",
     "REF-2460",
     "REF-2532"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "oxalis-stricta",
+   "plant": "Common yellow woodsorrel",
+   "scientific": "Oxalis stricta",
+   "common_slug": "yellow-woodsorrel",
+   "wp_post_id": null,
+   "drug_class": "antidiabetics",
+   "drug_class_label": "Antidiabetic medicines",
+   "severity": "caution",
+   "mechanism": "Woodsorrel extract inhibits carbohydrate-digesting enzymes and shows antidiabetic activity; combined with antidiabetic medicines it could theoretically add to blood-sugar-lowering effects.",
+   "references": [
+    "REF-2791"
    ],
    "status": "approved"
   },

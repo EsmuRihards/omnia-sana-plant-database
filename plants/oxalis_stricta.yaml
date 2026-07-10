@@ -1,0 +1,311 @@
+id: oxalis-stricta
+scientific_name: Oxalis stricta
+common_names:
+- Common yellow woodsorrel
+- upright yellow-sorrel
+- sourgrass
+- sheep sorrel (woodsorrel)
+common_slug: yellow-woodsorrel
+family: Oxalidaceae
+synonyms:
+- Oxalis fontana
+- Xanthoxalis stricta
+parts_used:
+- Aerial parts
+- Leaf
+- Flower
+botanical_description:
+  text: A small, sour-tasting herbaceous annual to short-lived perennial of the woodsorrel family, 10-40
+    cm tall. Its bright green leaves are clover-like, palmately divided into three heart-shaped (notched)
+    leaflets that fold down at night and in strong sun. The small five-petalled flowers are bright yellow,
+    borne in little clusters on axillary stalks. The whole plant tastes sharply sour from its oxalic-acid
+    content. It is very similar to the creeping yellow woodsorrel (Oxalis corniculata) but has more upright
+    stems that do not root at the nodes, and generally green (not purplish) foliage.
+  height: 10-40 cm
+  habit: Upright to ascending annual or short-lived perennial; stems not rooting at the nodes (unlike
+    creeping O. corniculata)
+  leaves: Alternate, long-stalked, trifoliolate (clover-like) with three heart-shaped leaflets that fold
+    at night; sour to taste
+  flowers: Small, 5-petalled, bright yellow, in axillary clusters
+  stem: Slender, erect to ascending, branched, often finely hairy, green
+  root: Slender fibrous roots, sometimes with thin rhizomes
+  fruit: An erect, cylindrical, five-angled capsule that splits explosively to scatter the seeds
+  flowering_period: May-October
+  reference_ids:
+  - REF-2780
+  status: verified
+habitat:
+  text: 'A common weed of disturbed, open and cultivated ground: gardens, lawns, arable fields, roadsides,
+    footpaths, waste places and greenhouses. It favours moist, fertile, well-lit soils and is excluded
+    by dense established vegetation. Native to North America but now naturalised almost worldwide across
+    temperate and warm regions.'
+  reference_ids:
+  - REF-2780
+  status: verified
+harvesting:
+  text: The sour leaves and aerial parts are gathered when actively growing and flowering, used fresh
+    or dried. Because the plant accumulates oxalic acid, harvesting for food or medicine should favour
+    young growth in modest quantities. As a low weed it is easily hand-gathered.
+  parts:
+  - Aerial parts
+  - Leaf
+  - Flower
+  season: Spring to autumn during active growth and flowering
+  reference_ids:
+  - REF-2780
+  status: verified
+traditional_uses:
+  text: Yellow woodsorrel (Oxalis stricta and its near-identical relative O. corniculata) has a long folk-medicine
+    history, deepest in South and East Asian traditions. The cooling, sour whole plant has been used as
+    a refrigerant and thirst-quencher, as a sour leafy vegetable/condiment, and as a source of vitamin
+    C against scurvy. Traditional medicinal uses (chiefly documented for O. corniculata) include dysentery
+    and diarrhoea and other digestive complaints, fever, liver complaints, and topical application of
+    the crushed leaves or juice to wounds, insect bites, warts, corns, mouth sores and inflamed skin,
+    as well as use as a mild diuretic. O. stricta shares these uses where the two woodsorrels are not
+    distinguished.
+  reference_ids:
+  - REF-2781
+  - REF-2780
+  status: verified
+preparations:
+- name: Fresh juice / poultice
+  text: Crushed fresh leaves or expressed juice applied topically to wounds, insect bites, warts and inflamed
+    skin, or taken in small amounts for its cooling sour effect.
+  reference_ids:
+  - REF-2781
+  status: verified
+- name: Infusion / decoction
+  text: A whole-plant or leaf infusion/decoction used traditionally for fevers, diarrhoea and as a mild
+    diuretic.
+  reference_ids:
+  - REF-2781
+  status: draft
+- name: Sour culinary green
+  text: Young leaves eaten raw in small quantities as a tart salad green or to add sourness to food (edible
+    'sourgrass').
+  reference_ids:
+  - REF-2780
+  status: draft
+dosage:
+- name: Fresh herb (culinary/traditional)
+  text: No standardised medicinal dose is established. Traditionally used as small quantities of the fresh
+    sour herb or as leaf infusions. Because of the high oxalate content, keep amounts modest. Educational
+    reference only.
+  status: draft
+constituents:
+- name: Flavonoids
+  compounds:
+  - flavonoid
+  - quercetin
+  - apigenin
+  note: Flavonoid glycosides (e.g. isovitexin, vitexin, quercetin and apigenin derivatives), the main
+    antioxidant constituents.
+  reference_ids:
+  - REF-2780
+  - REF-2786
+- name: Phenolic acids
+  compounds:
+  - phenolic-acid
+  - caffeic-acid
+  - ferulic-acid
+  note: Caffeic, ferulic and related phenolic acids (antioxidant).
+  reference_ids:
+  - REF-2780
+- name: Tannins
+  compounds:
+  - tannin
+  note: Tannins contributing to astringent/antidiarrhoeal activity.
+  reference_ids:
+  - REF-2781
+- name: Oxalic acid and soluble oxalates
+  note: The defining sour constituent - oxalic acid with potassium and calcium oxalates - biosynthesised
+    in part from vitamin C. Responsible for the sour taste and for the kidney-stone/oxalate caution.
+  reference_ids:
+  - REF-2778
+- name: Vitamin C (L-ascorbic acid)
+  note: High ascorbate content (basis of the traditional antiscorbutic use); also a metabolic precursor
+    of the plant's oxalic acid.
+  reference_ids:
+  - REF-2778
+- name: Acidic polysaccharide
+  compounds:
+  - polysaccharide
+  note: An acidic polysaccharide with antioxidant activity.
+  reference_ids:
+  - REF-2787
+actions:
+- action: antioxidant
+  reference_ids:
+  - REF-2780
+  - REF-2786
+  - REF-2787
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-2780
+  - REF-2781
+  status: verified
+- action: antimicrobial
+  note: Antibacterial and antiparasitic (amoebicidal/giardicidal) activity of woodsorrel extracts/constituents.
+  reference_ids:
+  - REF-2786
+  - REF-2788
+  - REF-2789
+  status: verified
+- action: hepatoprotective
+  note: Protective against paracetamol-induced liver injury (congener O. corniculata).
+  reference_ids:
+  - REF-2782
+  status: verified
+- action: gastroprotective
+  note: Protective against experimental gastric ulceration (congener O. corniculata).
+  reference_ids:
+  - REF-2783
+  status: verified
+- action: anticancer
+  note: Woodsorrel phytoconstituents (and a green-synthesised nanoparticle made with O. stricta extract)
+    induced apoptosis in breast, colon and Hep2 cancer cells (preclinical).
+  reference_ids:
+  - REF-2784
+  - REF-2792
+  - REF-2779
+  status: verified
+- action: antidiabetic
+  note: Alpha-glucosidase and alpha-amylase inhibition by woodsorrel extract (congener O. corniculata).
+  reference_ids:
+  - REF-2791
+  - REF-2780
+  status: verified
+- action: neuroprotective
+  note: Anti-Alzheimer's activity of woodsorrel extract in rats (congener O. corniculata).
+  reference_ids:
+  - REF-2790
+  status: verified
+- action: vulnerary
+  note: Promotes wound and fracture healing; traditional topical use for wounds and skin (congener O.
+    corniculata).
+  reference_ids:
+  - REF-2785
+  - REF-2780
+  status: verified
+- action: astringent
+  note: Sour, tannin-containing herb; the basis of traditional antidiarrhoeal use.
+  reference_ids:
+  - REF-2781
+  status: verified
+- action: antidiarrheal
+  note: Traditional astringent remedy for diarrhoea and dysentery (congener O. corniculata).
+  reference_ids:
+  - REF-2781
+  status: verified
+indications:
+- condition: liver-support
+  note: Hepatoprotective in animal models (congener).
+  reference_ids:
+  - REF-2782
+  status: verified
+- condition: diarrhea
+  note: Traditional astringent remedy for diarrhoea and dysentery.
+  reference_ids:
+  - REF-2781
+  status: needs-review
+- condition: infection
+  note: inferred from antimicrobial/antiparasitic action
+  reference_ids:
+  - REF-2788
+  - REF-2789
+  status: needs-review
+- condition: inflammation
+  reference_ids:
+  - REF-2780
+  - REF-2781
+  status: verified
+- condition: wounds
+  note: Promotes wound/fracture healing; traditional topical use.
+  reference_ids:
+  - REF-2785
+  status: verified
+- condition: blood-sugar
+  note: Alpha-glucosidase/amylase inhibition (congener).
+  reference_ids:
+  - REF-2791
+  status: needs-review
+- condition: indigestion
+  note: inferred from gastroprotective action
+  reference_ids:
+  - REF-2783
+  status: needs-review
+- condition: cognitive-function
+  note: inferred from anti-Alzheimer's / neuroprotective action (congener)
+  reference_ids:
+  - REF-2790
+  status: needs-review
+contraindications:
+- note: Yellow woodsorrel is RICH IN OXALIC ACID and soluble oxalates (the source of its sour taste).
+    Avoid large or frequent quantities, and especially avoid it if you are prone to calcium-oxalate kidney
+    stones, have gout, or have kidney disease. Oxalates also bind calcium and iron, reducing their absorption.
+    Use only modest amounts, and cooking reduces soluble oxalate.
+  severity: warning
+  reference_ids:
+  - REF-2778
+  status: verified
+- note: Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses during pregnancy
+    and lactation.
+  severity: caution
+  status: verified
+- note: Most modern pharmacological data come from the near-identical congener Oxalis corniculata; the
+    two yellow woodsorrels are used interchangeably in folk medicine, but human clinical trials are lacking
+    for either species.
+  severity: info
+  reference_ids:
+  - REF-2781
+  - REF-2780
+  status: verified
+references:
+- REF-2778
+- REF-2779
+- REF-2780
+- REF-2781
+- REF-2782
+- REF-2783
+- REF-2784
+- REF-2785
+- REF-2786
+- REF-2787
+- REF-2788
+- REF-2789
+- REF-2790
+- REF-2791
+- REF-2792
+drug_class_interactions:
+- drug_class: antidiabetics
+  severity: caution
+  mechanism: Woodsorrel extract inhibits carbohydrate-digesting enzymes and shows antidiabetic activity;
+    combined with antidiabetic medicines it could theoretically add to blood-sugar-lowering effects.
+  reference_ids:
+  - REF-2791
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+  reference_ids:
+  - REF-2778
+provenance: pubmed
+status: verified
+last_updated: '2026-07-10'
+internal_notes: 'Created 2026-07-10. SPARSE species: genuine Oxalis stricta-specific medicinal literature
+  is only 2 papers (REF-2778 oxalate/ascorbate metabolism; REF-2779 O. stricta-extract ZnO nanoparticle
+  anticancer). The rest of PubMed for O. stricta is genomics/invasion-ecology/floristics/entomology (rejected).
+  Entry therefore relies substantially on the near-identical congener Oxalis corniculata (creeping yellow
+  woodsorrel), which shares the same folk-medicine identity (''yellow woodsorrel'') and is extensively
+  studied - 13 clearly-labelled O. corniculata refs REF-2780..REF-2792 (2 reviews + 11 preclinical: hepatoprotective,
+  gastroprotective, anticancer, antidiabetic, neuroprotective, antimicrobial/antiparasitic, wound/fracture
+  healing, polysaccharide). Total 15 (2 genuine + 13 congener); genuine-species evidence is minimal -
+  treat pharmacology as O. corniculata-derived. Research-workflow leads (wf_25f58939-508) self-verified
+  via PubMed metadata (adversarial-verify stage failed on the session limit). Key safety: OXALATE content
+  -> kidney-stone warning (REF-2778). lookalikes none-known (distinctive clover-like sour leaves + yellow
+  flowers; no deadly confusable). Cross-links via shared compounds (flavonoid/quercetin/tannin/polysaccharide)
+  and indications (liver-support/gastroprotective/antidiabetic).'

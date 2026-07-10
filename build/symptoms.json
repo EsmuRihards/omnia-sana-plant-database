@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 181,
+ "count": 182,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -6759,6 +6759,97 @@
       "REF-0098",
       "REF-0241",
       "REF-0897"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Common yellow woodsorrel",
+   "scientific": "Oxalis stricta",
+   "id": "oxalis-stricta",
+   "common_slug": "yellow-woodsorrel",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2791"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2790"
+     ]
+    },
+    {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2783"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2788",
+      "REF-2789"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2780",
+      "REF-2781"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2782"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2785"
+     ]
+    },
+    {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2781"
      ]
     }
    ]

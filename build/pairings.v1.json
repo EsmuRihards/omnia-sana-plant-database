@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 100,
+ "count": 106,
  "pairings": [
   {
    "herb_id": "agrimonia-eupatoria",
@@ -43,6 +43,20 @@
    "references": [
     "REF-2245",
     "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "betula-pendula",
+   "herb": "Birch",
+   "herb_slug": "birch",
+   "partner_id": "ononis-arvensis",
+   "partner": "Field restharrow",
+   "partner_slug": "field-restharrow",
+   "type": "synergy",
+   "note": "Both are traditional diuretic 'flushing' herbs for irrigation therapy of the urinary tract.",
+   "references": [
+    "REF-2753"
    ],
    "status": "approved"
   },
@@ -414,6 +428,48 @@
    "status": "approved"
   },
   {
+   "herb_id": "ononis-arvensis",
+   "herb": "Field restharrow",
+   "herb_slug": "field-restharrow",
+   "partner_id": "betula-pendula",
+   "partner": "Birch",
+   "partner_slug": "birch",
+   "type": "synergy",
+   "note": "Both are traditional diuretic 'flushing' herbs for irrigation therapy of the urinary tract.",
+   "references": [
+    "REF-2753"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "ononis-arvensis",
+   "herb": "Field restharrow",
+   "herb_slug": "field-restharrow",
+   "partner_id": "solidago-virgaurea",
+   "partner": "Goldenrod",
+   "partner_slug": "goldenrod",
+   "type": "synergy",
+   "note": "Classic urinary irrigation-therapy pairing: both are aquaretic diuretics used to increase urine flow in cystitis and urinary gravel.",
+   "references": [
+    "REF-2753"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "ononis-arvensis",
+   "herb": "Field restharrow",
+   "herb_slug": "field-restharrow",
+   "partner_id": "trifolium-pratense",
+   "partner": "Red Clover",
+   "partner_slug": "red-clover",
+   "type": "caution",
+   "note": "Both are Fabaceae rich in the isoflavone phytoestrogen formononetin; combined use adds to phytoestrogen exposure - use caution in hormone-sensitive conditions.",
+   "references": [
+    "REF-2741"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "allium-sativum",
    "herb": "Garlic",
    "herb_slug": "garlic",
@@ -604,6 +660,20 @@
    "note": "Ginkgo and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.",
    "references": [
     "REF-2457"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "solidago-virgaurea",
+   "herb": "Goldenrod",
+   "herb_slug": "goldenrod",
+   "partner_id": "ononis-arvensis",
+   "partner": "Field restharrow",
+   "partner_slug": "field-restharrow",
+   "type": "synergy",
+   "note": "Classic urinary irrigation-therapy pairing: both are aquaretic diuretics used to increase urine flow in cystitis and urinary gravel.",
+   "references": [
+    "REF-2753"
    ],
    "status": "approved"
   },
@@ -1146,6 +1216,20 @@
    "references": [
     "REF-2461",
     "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "trifolium-pratense",
+   "herb": "Red Clover",
+   "herb_slug": "red-clover",
+   "partner_id": "ononis-arvensis",
+   "partner": "Field restharrow",
+   "partner_slug": "field-restharrow",
+   "type": "caution",
+   "note": "Both are Fabaceae rich in the isoflavone phytoestrogen formononetin; combined use adds to phytoestrogen exposure - use caution in hormone-sensitive conditions.",
+   "references": [
+    "REF-2741"
    ],
    "status": "approved"
   },

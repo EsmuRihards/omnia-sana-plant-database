@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 179,
+ "count": 180,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -9266,6 +9266,110 @@
       "REF-0117",
       "REF-0223",
       "REF-0262"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Field restharrow",
+   "scientific": "Ononis arvensis",
+   "id": "ononis-arvensis",
+   "common_slug": "field-restharrow",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2742"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2754",
+      "REF-2757"
+     ]
+    },
+    {
+     "condition": "kidney-support",
+     "label": "Kidney support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2748",
+      "REF-2753"
+     ]
+    },
+    {
+     "condition": "pain",
+     "label": "Pain (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2758"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2757",
+      "REF-2748"
+     ]
+    },
+    {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2753"
+     ]
+    },
+    {
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2753",
+      "REF-2748",
+      "REF-2755"
+     ]
+    },
+    {
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2755"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2756"
      ]
     }
    ]

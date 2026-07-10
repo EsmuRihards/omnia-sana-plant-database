@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
  "count": 72,
- "plants_covered": 181,
+ "plants_covered": 182,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -2253,6 +2253,20 @@
    ],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "ononis-arvensis",
+   "plant": "Field restharrow",
+   "scientific": "Ononis arvensis",
+   "common_slug": "field-restharrow",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "review_reference_ids": [
+    "REF-2748"
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-10"
   },
   {
    "plant_id": "scrophularia-nodosa",

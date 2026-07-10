@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 97,
+ "count": 99,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -435,6 +435,38 @@
    "mechanism": "Feverfew and its component parthenolide inhibit platelet aggregation and serotonin release, so combining it with anticoagulant or antiplatelet drugs may increase bleeding risk.",
    "references": [
     "REF-2444"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ononis-arvensis",
+   "plant": "Field restharrow",
+   "scientific": "Ononis arvensis",
+   "common_slug": "field-restharrow",
+   "wp_post_id": null,
+   "drug_class": "diuretics",
+   "drug_class_label": "Diuretics (water tablets)",
+   "severity": "caution",
+   "mechanism": "Restharrow is an aquaretic diuretic; taken with pharmaceutical diuretics it may add to fluid and electrolyte loss.",
+   "references": [
+    "REF-2753",
+    "REF-2748"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "ononis-arvensis",
+   "plant": "Field restharrow",
+   "scientific": "Ononis arvensis",
+   "common_slug": "field-restharrow",
+   "wp_post_id": null,
+   "drug_class": "hormonal-therapies",
+   "drug_class_label": "Hormonal therapies",
+   "severity": "caution",
+   "mechanism": "The root is rich in the isoflavone phytoestrogen formononetin; it could theoretically interact with hormonal contraceptives, hormone replacement or hormone-sensitive conditions.",
+   "references": [
+    "REF-2741",
+    "REF-2743"
    ],
    "status": "approved"
   },

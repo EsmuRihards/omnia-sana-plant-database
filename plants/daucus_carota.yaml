@@ -1,0 +1,518 @@
+id: daucus-carota
+scientific_name: Daucus carota
+common_names:
+- Wild carrot
+- Queen Anne's lace
+- bird's nest
+- bishop's lace
+common_slug: wild-carrot
+family: Apiaceae
+synonyms:
+- Daucus carota subsp. carota
+parts_used:
+- Fruit and seed
+- Root
+- Aerial parts
+- Flower
+botanical_description:
+  text: Erect biennial herb of the carrot family, 30-100 cm tall, growing from a slender, whitish, aromatic
+    taproot. The leaves are 2-3-pinnate, finely divided and feathery, and smell distinctly of carrot when
+    crushed. Tiny white flowers are borne in a flat or slightly domed compound umbel, classically with
+    a single dark purple-red floret at the very centre; a ruff of long, three-forked (feathery) bracts
+    sits beneath the umbel. As the seed ripens the umbel curls inward into a concave 'bird's nest'. The
+    stems are solid, ridged and roughly hairy (bristly).
+  height: 30-100 cm
+  habit: Erect biennial herb
+  leaves: 2-3-pinnate, finely divided and feathery; smell of carrot when crushed
+  flowers: Tiny white flowers in a flat compound umbel, usually with one dark purple-red central floret;
+    a ruff of three-forked bracts beneath the umbel
+  stem: Solid, ridged and roughly hairy (bristly) - 'Queen Anne has hairy legs'
+  root: Slender, whitish, aromatic taproot
+  fruit: Small dry oval fruit (mericarp) bearing hooked spines; the seed is rich in aromatic essential
+    oil
+  flowering_period: June-September
+  reference_ids:
+  - REF-2708
+  status: verified
+habitat:
+  text: Dry grassland, meadows, roadsides, field margins and waste ground on well-drained, often chalky
+    (calcareous) soils. Native to Europe, south-west Asia and North Africa and widely naturalised across
+    temperate North America, Australia and elsewhere. The cultivated carrot (Daucus carota subsp. sativus)
+    was domesticated from this wild stock.
+  reference_ids:
+  - REF-2708
+  status: verified
+harvesting:
+  text: The ripe fruits (seeds) are collected from the drying umbels in late summer to autumn; the aromatic
+    seed is the part richest in essential oil. The taproot is dug in the first-year rosette stage, before
+    the plant flowers, when it is still tender; aerial parts are gathered while in flower. Only ever harvest
+    where the plant can be identified with certainty against its deadly Apiaceae look-alikes.
+  parts:
+  - Fruit and seed
+  - Root
+  - Aerial parts
+  season: Root in the first-year rosette; aerial parts in flower (summer); seed when ripe (late summer
+    to autumn)
+  reference_ids:
+  - REF-2708
+  - REF-2721
+  status: verified
+traditional_uses:
+  text: Wild carrot has a long folk-medicinal history as a diuretic and urinary remedy for gravel, stones,
+    cystitis and gout, and as a carminative aromatic bitter for flatulent indigestion. The seed is the
+    classic part used and carries a well-documented traditional reputation as an emmenagogue and folk
+    contraceptive ('Queen Anne's Lace seed'); experimental work confirms estrogenic and anti-implantation
+    (pregnancy-interceptory) activity, which is also why the seed is avoided in pregnancy. The root is
+    nutritive and rich in carotene, and the plant has been applied to wounds and inflamed skin.
+  reference_ids:
+  - REF-2708
+  - REF-2724
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried seed or aerial parts (herb) infused in hot water as a diuretic and carminative tea - the
+    traditional way of taking wild carrot for urinary and digestive complaints.
+  reference_ids:
+  - REF-2708
+  status: verified
+- name: Seed preparation
+  text: The bruised aromatic seed steeped or briefly simmered; the seed is the part richest in essential
+    oil and is the classic diuretic and emmenagogue preparation.
+  reference_ids:
+  - REF-2708
+  - REF-2724
+  status: verified
+- name: Tincture
+  text: Alcoholic extract (typically around 1:5 in 45% alcohol) of the seed or whole herb.
+  status: draft
+- name: Poultice
+  text: Crushed leaf or grated root applied externally to wounds and inflamed skin, reflecting the traditional
+    vulnerary use; carrot seed oil bioactives promote wound healing in animal studies.
+  reference_ids:
+  - REF-2718
+  status: draft
+dosage:
+- name: Dried herb/seed infusion
+  text: Traditional herbal texts use roughly 1-2 g of dried seed, or 2-4 g of dried aerial parts, per
+    cup as an infusion, up to three times daily. Educational reference only.
+  status: draft
+- name: Tincture (1:5)
+  text: About 1-4 mL of a 1:5 tincture, up to three times daily in adults. Educational reference only,
+    not a prescription.
+  status: draft
+constituents:
+- name: Essential (volatile) oil
+  compounds:
+  - essential-oil
+  - terpene
+  - sesquiterpene
+  note: Seed oil dominated by the sesquiterpene alcohol carotol (often >75%), with alpha-pinene, sabinene,
+    beta-caryophyllene, geranyl acetate and daucol; gives the aromatic, carminative and antimicrobial
+    character.
+  reference_ids:
+  - REF-2721
+  - REF-2722
+  - REF-2718
+- name: Carotenoids
+  compounds:
+  - carotenoid
+  note: Beta-carotene and other carotenoids, especially abundant in the root; carrot is the main dietary
+    source of provitamin A.
+  reference_ids:
+  - REF-2709
+- name: Falcarinol-type polyacetylenes
+  note: C17-polyacetylenes (falcarinol, falcarindiol) with anticancer, anti-inflammatory, antifungal and
+    antibacterial activity.
+  reference_ids:
+  - REF-2710
+- name: Flavonoids and phenolic acids
+  compounds:
+  - flavonoid
+  - luteolin
+  - apigenin
+  - quercetin
+  - kaempferol
+  - phenolic-acid
+  - chlorogenic-acid
+  - caffeic-acid
+  note: Antioxidant flavonoids such as luteolin, apigenin, quercetin and kaempferol, and phenolic acids
+    such as chlorogenic and caffeic acid.
+  reference_ids:
+  - REF-2708
+  - REF-2715
+- name: Dietary fibre and polysaccharides
+  compounds:
+  - pectin
+  - polysaccharide
+  note: Root rich in pectin and other polysaccharides; insoluble dietary fibre contributes hypoglycemic
+    and hypolipidemic effects.
+  reference_ids:
+  - REF-2719
+  - REF-2720
+actions:
+- action: diuretic
+  note: Classic diuretic and antilithic (stone-clearing) use; supported by antiurolithic activity in animal
+    models.
+  reference_ids:
+  - REF-2708
+  - REF-2712
+  status: verified
+- action: nephroprotective
+  note: Root extract protective and curative in renal ischemia-reperfusion injury and against cisplatin
+    nephrotoxicity (preclinical).
+  reference_ids:
+  - REF-2713
+  - REF-2714
+  status: verified
+- action: hepatoprotective
+  reference_ids:
+  - REF-2715
+  status: verified
+- action: gastroprotective
+  note: Antisecretory, antacid and antiulcer activity; enhances the antiulcer effect of pantoprazole (preclinical).
+  reference_ids:
+  - REF-2716
+  - REF-2717
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-2715
+  - REF-2719
+  - REF-2708
+  status: verified
+- action: anti-inflammatory
+  reference_ids:
+  - REF-2708
+  - REF-2710
+  - REF-2718
+  status: verified
+- action: antimicrobial
+  note: Seed essential oil inhibits food-borne Gram-positive and Gram-negative bacteria.
+  reference_ids:
+  - REF-2722
+  - REF-2710
+  - REF-2708
+  status: verified
+- action: antifungal
+  note: Falcarinol-type polyacetylenes.
+  reference_ids:
+  - REF-2710
+  status: verified
+- action: anticancer
+  note: Falcarinol-type polyacetylenes and other constituents show anti-proliferative and anti-metastatic
+    activity in vitro and in vivo (preclinical).
+  reference_ids:
+  - REF-2711
+  - REF-2710
+  - REF-2708
+  status: verified
+- action: antidiabetic
+  note: Carrot insoluble dietary fibre improved glucose tolerance in animal models (preclinical).
+  reference_ids:
+  - REF-2720
+  status: verified
+- action: lipid-lowering
+  note: Insoluble dietary fibre reduced the post-load rise in blood lipids (preclinical).
+  reference_ids:
+  - REF-2720
+  status: verified
+- action: vulnerary
+  note: Carrot seed oil bioactives promote wound healing (preclinical).
+  reference_ids:
+  - REF-2718
+  status: verified
+- action: carminative
+  note: Aromatic bitter carminative for flatulent digestion (traditional).
+  reference_ids:
+  - REF-2708
+  status: verified
+- action: emmenagogue
+  parts:
+  - Fruit and seed
+  note: Seed traditionally used to promote menstruation; experimental estrogenic and anti-implantation
+    activity.
+  reference_ids:
+  - REF-2724
+  - REF-2708
+  status: verified
+indications:
+- condition: kidney-support
+  note: Nephroprotective and antiurolithic activity in animal models.
+  reference_ids:
+  - REF-2713
+  - REF-2714
+  - REF-2712
+  status: verified
+- condition: urinary-support
+  note: Traditional diuretic for urinary gravel and cystitis; antiurolithic activity.
+  reference_ids:
+  - REF-2708
+  - REF-2712
+  status: verified
+- condition: uti
+  note: inferred from diuretic / urinary-antiseptic traditional use
+  reference_ids:
+  - REF-2708
+  status: needs-review
+- condition: swelling
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-2708
+  status: needs-review
+- condition: liver-support
+  note: Hepatoprotective in animal models.
+  reference_ids:
+  - REF-2715
+  status: verified
+- condition: indigestion
+  note: inferred from carminative action
+  reference_ids:
+  - REF-2708
+  status: needs-review
+- condition: bloating
+  note: inferred from carminative action
+  reference_ids:
+  - REF-2708
+  status: needs-review
+- condition: wounds
+  note: Carrot seed oil promotes wound healing (preclinical).
+  reference_ids:
+  - REF-2718
+  status: verified
+- condition: inflammation
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-2708
+  - REF-2710
+  status: needs-review
+- condition: infection
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-2722
+  status: needs-review
+- condition: blood-sugar
+  note: inferred from antidiabetic action (insoluble dietary fibre)
+  reference_ids:
+  - REF-2720
+  status: needs-review
+- condition: high-cholesterol
+  note: inferred from lipid-lowering action (insoluble dietary fibre)
+  reference_ids:
+  - REF-2720
+  status: needs-review
+contraindications:
+- note: Wild carrot SEED has estrogenic and anti-implantation (pregnancy-interceptory) activity and a
+    long reputation as an emmenagogue and folk contraceptive; medicinal doses of the seed should be avoided
+    in pregnancy and when trying to conceive.
+  severity: warning
+  reference_ids:
+  - REF-2724
+  - REF-2708
+  status: verified
+- note: Like other Apiaceae, wild carrot contains furanocoumarins that can cause photosensitivity; skin
+    contact with the sap plus sun exposure may cause phytophotodermatitis. Avoid excessive sun or UV exposure
+    when using the herb medicinally.
+  severity: caution
+  reference_ids:
+  - REF-2708
+  status: verified
+- note: Excessive intake of carrot or carotene can cause a harmless, reversible yellow-orange discolouration
+    of the skin (carotenodermia).
+  severity: info
+  reference_ids:
+  - REF-2723
+  status: verified
+- note: 'CRITICAL foraging hazard: wild carrot grows among, and closely resembles, several deadly poisonous
+    Apiaceae - poison hemlock (Conium maculatum), fool''s parsley (Aethusa cynapium), hemlock water-dropwort
+    (Oenanthe crocata) and water hemlock (Cicuta virosa). Never gather wild carrot for use unless every
+    look-alike has been positively excluded. Wild carrot has solid, ridged, bristly-HAIRY stems, a carrot
+    smell, three-forked bracts beneath the umbel and usually a single dark central floret; the deadly
+    hemlocks have smooth, hairless stems (often purple-blotched) and an unpleasant smell.'
+  severity: serious
+  reference_ids:
+  - REF-2708
+  - REF-2610
+  - REF-2611
+  status: verified
+references:
+- REF-2708
+- REF-2709
+- REF-2710
+- REF-2711
+- REF-2712
+- REF-2713
+- REF-2714
+- REF-2715
+- REF-2716
+- REF-2717
+- REF-2718
+- REF-2719
+- REF-2720
+- REF-2721
+- REF-2722
+- REF-2723
+- REF-2724
+drug_class_interactions:
+- drug_class: diuretics
+  severity: caution
+  mechanism: Wild carrot is itself a diuretic; taken with pharmaceutical diuretics it may add to fluid
+    and electrolyte (especially potassium) loss.
+  reference_ids:
+  - REF-2708
+  - REF-2712
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+- drug_class: antihypertensives
+  severity: caution
+  mechanism: As a diuretic, wild carrot may add to the blood-pressure-lowering and fluid-loss effects
+    of antihypertensive medicines and cause dizziness.
+  reference_ids:
+  - REF-2708
+  - REF-2712
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+- drug_class: hormonal-therapies
+  severity: caution
+  mechanism: Wild carrot seed has estrogenic activity and interferes with implantation; it could theoretically
+    interact with hormonal contraceptives, hormone replacement or fertility treatment.
+  reference_ids:
+  - REF-2724
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+pairings:
+- partner_id: petroselinum-crispum
+  type: synergy
+  note: Both are Apiaceae diuretics traditionally combined for urinary and 'gravel' complaints; complementary
+    diuretic and urinary-support action.
+  reference_ids:
+  - REF-2708
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+- partner_id: foeniculum-vulgare
+  type: synergy
+  note: Aromatic Apiaceae seeds traditionally paired as carminative and diuretic digestive teas.
+  reference_ids:
+  - REF-2708
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+- partner_id: taraxacum-officinale
+  type: synergy
+  note: Classic diuretic pairing for fluid retention and urinary support; both increase urine flow.
+  reference_ids:
+  - REF-2708
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+dangerous_lookalikes:
+- dangerous_plant: conium-maculatum
+  severity: fatal
+  confused_part: The ferny leaves, white umbels and the whole young plant / first-year rosette gathered
+    for root or leaf.
+  confusion_context: Poison hemlock is the classic deadly look-alike of wild carrot ('Queen Anne's Lace').
+    Both are white-flowered umbellifers of similar height with finely divided ferny leaves, and foragers
+    after wild carrot root or leaf have been fatally poisoned by hemlock. Coniine causes an ascending
+    paralysis that stops breathing - a small amount can be lethal.
+  distinguishing_features:
+  - 'Stem: wild carrot has a SOLID, ridged stem covered in stiff bristly hairs (''Queen Anne has hairy
+    legs''); poison hemlock has a SMOOTH, hairless stem marked with distinct purple-red spots and blotches.
+    Hairy green stem = carrot; smooth purple-blotched stem = hemlock.'
+  - 'Smell: crushed wild carrot leaf and root smell clearly of carrot; poison hemlock smells rank, musty
+    and mousy. A foul mousy smell is a hard no.'
+  - 'Umbel detail: wild carrot has a ruff of long, three-forked (feathery) bracts beneath the umbel and
+    usually a single dark purple-red floret at the centre; hemlock lacks both the forked bracts and the
+    dark central floret.'
+  key_test: 'Check the stem in good light: solid, ridged, bristly-hairy and carrot-scented = wild carrot;
+    smooth, hairless, blotched with purple and foul/mousy-smelling = poison hemlock - do not touch or
+    eat.'
+  reference_ids:
+  - REF-2708
+  - REF-2610
+  - REF-2611
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+- dangerous_plant: aethusa-cynapium
+  severity: dangerous
+  confused_part: The finely divided leaves and small white umbels, especially of young plants.
+  confusion_context: Fool's parsley grows in the same gardens, field margins and waste ground as wild
+    carrot and its relatives and has similar ferny leaves and small white umbels; it contains coniine-like
+    alkaloids and has caused serious and fatal poisonings, particularly when mistaken for parsley or wild
+    carrot leaf.
+  distinguishing_features:
+  - Beneath each little umbel, fool's parsley has 3-4 long, narrow bracts that hang DOWNWARDS like a beard;
+    wild carrot has a ruff of three-forked feathery bracts and a domed umbel with a dark central floret.
+  - Fool's parsley has a smooth, hairless stem and an unpleasant acrid smell when crushed; wild carrot
+    has a bristly-hairy stem and a clean carrot smell.
+  - Wild carrot's umbel contracts into a concave 'bird's nest' in fruit; fool's parsley does not.
+  key_test: 'Look under the umbel: long narrow bracts hanging down like a beard, on a smooth hairless
+    stem with an acrid smell = fool''s parsley - do not eat. Wild carrot has forked bracts, a hairy stem
+    and a carrot smell.'
+  reference_ids:
+  - REF-2613
+  - REF-2614
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+- dangerous_plant: oenanthe-crocata
+  severity: fatal
+  confused_part: 'Wet-habitat plant: the fleshy root tubers and celery/parsley-like leaves and white umbels.'
+  confusion_context: Hemlock water-dropwort is one of the deadliest plants in western Europe; its oenanthotoxin
+    causes violent convulsions, and its pleasant-smelling fleshy roots and leaves are notoriously mistaken
+    for edible wild vegetables. It shares the umbel-and-ferny-leaf look of wild carrot but grows in wet
+    ground by ditches and streams.
+  distinguishing_features:
+  - Hemlock water-dropwort has a cluster of pale, fleshy, finger-like root tubers ('dead man's fingers');
+    wild carrot has a single slender taproot, not a bunch of tubers.
+  - It grows in wet ground (ditches, streamsides, marshes); wild carrot grows in dry grassland and roadsides.
+  - Its roots and crushed plant can smell pleasant/sweetish, so never use smell to clear it - go by the
+    root form and the wet habitat.
+  key_test: 'Examine the roots and habitat: a cluster of pale fleshy finger-like tubers in wet ground
+    = hemlock water-dropwort - do not eat. Wild carrot has one slender taproot and grows in dry ground.
+    Because its roots can smell pleasant, never rely on smell here.'
+  reference_ids:
+  - REF-2612
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+- dangerous_plant: cicuta-virosa
+  severity: fatal
+  confused_part: 'Wet-habitat plant: the rootstock and lower stem, plus the white umbels and divided leaves.'
+  confusion_context: Water hemlock is among the most violently toxic temperate plants; its cicutoxin causes
+    sudden severe convulsions, often fatal. Its roots have been eaten by mistake for 'wild carrot' and
+    other wild roots; it grows in wet ground unlike true wild carrot.
+  distinguishing_features:
+  - 'Cut the rootstock lengthwise: water hemlock''s is hollow and chambered (horizontal cross-partitions)
+    and exudes a yellowish oily juice; wild carrot''s root is a solid slender taproot. This is the single
+    most reliable trait.'
+  - Water hemlock grows in wet ground (marshes, ditches, pond margins); wild carrot grows in dry grassland
+    and roadsides.
+  - Wild carrot has bristly-hairy stems and forked bracts under a 'bird's nest' umbel; water hemlock does
+    not.
+  key_test: 'Slice the rootstock lengthwise: a hollow, horizontally chambered root with yellowish oily
+    juice in wet ground = water hemlock - do not eat. Wild carrot''s root is solid.'
+  reference_ids:
+  - REF-2615
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+provenance: pubmed
+status: verified
+last_updated: '2026-07-10'
+internal_notes: Created 2026-07-10 as a new medicinal-plant record (wild carrot, Daucus carota). 17 PubMed-verified
+  @article sources (REF-2708..REF-2724), each adversarially checked to be genuinely Daucus carota (rejected
+  wrong-species Daucus gracilis, parsnip, Panax panaxydol papers, a retracted CVD review, and agronomy/genomics/flavor-learning
+  hits). PILOT for the new monograph-base schema fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) that store the key Materia Medica 'paragraph topics' as structured, sourced DB
+  properties to seed future prose. dangerous_lookalikes cover the four deadly Apiaceae confusers (poison
+  hemlock, fool's parsley, hemlock water-dropwort, water hemlock), reusing the existing dangerous-plant
+  reference ids. Pairings cross-link to Apiaceae/diuretic relatives (parsley, fennel, dandelion). Safety
+  records marked approved (owner-authorized) per the site-wide convention.

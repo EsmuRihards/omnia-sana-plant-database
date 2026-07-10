@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/pairings@1",
- "count": 88,
+ "count": 94,
  "pairings": [
   {
    "herb_id": "withania-somnifera",
@@ -205,6 +205,34 @@
    "note": "Chamomile and valerian are both traditional mild sedatives for restlessness and poor sleep; taken together they may enhance calming and sleep effects but also add to drowsiness.",
    "references": [
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "taraxacum-officinale",
+   "herb": "Dandelion",
+   "herb_slug": "dandelion",
+   "partner_id": "daucus-carota",
+   "partner": "Wild carrot",
+   "partner_slug": "wild-carrot",
+   "type": "synergy",
+   "note": "Classic diuretic pairing for fluid retention and urinary support; both increase urine flow.",
+   "references": [
+    "REF-2708"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "foeniculum-vulgare",
+   "herb": "Fennel",
+   "herb_slug": "fennel",
+   "partner_id": "daucus-carota",
+   "partner": "Wild carrot",
+   "partner_slug": "wild-carrot",
+   "type": "synergy",
+   "note": "Aromatic Apiaceae seeds traditionally paired as carminative and diuretic digestive teas.",
+   "references": [
+    "REF-2708"
    ],
    "status": "approved"
   },
@@ -904,6 +932,20 @@
    "status": "approved"
   },
   {
+   "herb_id": "petroselinum-crispum",
+   "herb": "Parsley",
+   "herb_slug": "parsley",
+   "partner_id": "daucus-carota",
+   "partner": "Wild carrot",
+   "partner_slug": "wild-carrot",
+   "type": "synergy",
+   "note": "Both are Apiaceae diuretics traditionally combined for urinary and 'gravel' complaints; complementary diuretic and urinary-support action.",
+   "references": [
+    "REF-2708"
+   ],
+   "status": "approved"
+  },
+  {
    "herb_id": "passiflora-incarnata",
    "herb": "Passionflower",
    "herb_slug": "passionflower",
@@ -1297,6 +1339,48 @@
    "references": [
     "REF-2461",
     "REF-2474"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "daucus-carota",
+   "herb": "Wild carrot",
+   "herb_slug": "wild-carrot",
+   "partner_id": "taraxacum-officinale",
+   "partner": "Dandelion",
+   "partner_slug": "dandelion",
+   "type": "synergy",
+   "note": "Classic diuretic pairing for fluid retention and urinary support; both increase urine flow.",
+   "references": [
+    "REF-2708"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "daucus-carota",
+   "herb": "Wild carrot",
+   "herb_slug": "wild-carrot",
+   "partner_id": "foeniculum-vulgare",
+   "partner": "Fennel",
+   "partner_slug": "fennel",
+   "type": "synergy",
+   "note": "Aromatic Apiaceae seeds traditionally paired as carminative and diuretic digestive teas.",
+   "references": [
+    "REF-2708"
+   ],
+   "status": "approved"
+  },
+  {
+   "herb_id": "daucus-carota",
+   "herb": "Wild carrot",
+   "herb_slug": "wild-carrot",
+   "partner_id": "petroselinum-crispum",
+   "partner": "Parsley",
+   "partner_slug": "parsley",
+   "type": "synergy",
+   "note": "Both are Apiaceae diuretics traditionally combined for urinary and 'gravel' complaints; complementary diuretic and urinary-support action.",
+   "references": [
+    "REF-2708"
    ],
    "status": "approved"
   }

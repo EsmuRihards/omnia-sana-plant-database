@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 67,
- "plants_covered": 179,
+ "count": 71,
+ "plants_covered": 180,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -4029,6 +4029,93 @@
    "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "daucus-carota",
+   "plant": "Wild carrot",
+   "scientific": "Daucus carota",
+   "common_slug": "wild-carrot",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "cicuta-virosa",
+     "dangerous_plant_label": "Cowbane (European water hemlock)",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Wet-habitat plant: the rootstock and lower stem, plus the white umbels and divided leaves.",
+     "confusion_context": "Water hemlock is among the most violently toxic temperate plants; its cicutoxin causes sudden severe convulsions, often fatal. Its roots have been eaten by mistake for 'wild carrot' and other wild roots; it grows in wet ground unlike true wild carrot.",
+     "distinguishing_features": [
+      "Cut the rootstock lengthwise: water hemlock's is hollow and chambered (horizontal cross-partitions) and exudes a yellowish oily juice; wild carrot's root is a solid slender taproot. This is the single most reliable trait.",
+      "Water hemlock grows in wet ground (marshes, ditches, pond margins); wild carrot grows in dry grassland and roadsides.",
+      "Wild carrot has bristly-hairy stems and forked bracts under a 'bird's nest' umbel; water hemlock does not."
+     ],
+     "key_test": "Slice the rootstock lengthwise: a hollow, horizontally chambered root with yellowish oily juice in wet ground = water hemlock - do not eat. Wild carrot's root is solid.",
+     "references": [
+      "REF-2615"
+     ],
+     "status": "approved"
+    },
+    {
+     "dangerous_plant": "oenanthe-crocata",
+     "dangerous_plant_label": "Hemlock water-dropwort",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "Wet-habitat plant: the fleshy root tubers and celery/parsley-like leaves and white umbels.",
+     "confusion_context": "Hemlock water-dropwort is one of the deadliest plants in western Europe; its oenanthotoxin causes violent convulsions, and its pleasant-smelling fleshy roots and leaves are notoriously mistaken for edible wild vegetables. It shares the umbel-and-ferny-leaf look of wild carrot but grows in wet ground by ditches and streams.",
+     "distinguishing_features": [
+      "Hemlock water-dropwort has a cluster of pale, fleshy, finger-like root tubers ('dead man's fingers'); wild carrot has a single slender taproot, not a bunch of tubers.",
+      "It grows in wet ground (ditches, streamsides, marshes); wild carrot grows in dry grassland and roadsides.",
+      "Its roots and crushed plant can smell pleasant/sweetish, so never use smell to clear it - go by the root form and the wet habitat."
+     ],
+     "key_test": "Examine the roots and habitat: a cluster of pale fleshy finger-like tubers in wet ground = hemlock water-dropwort - do not eat. Wild carrot has one slender taproot and grows in dry ground. Because its roots can smell pleasant, never rely on smell here.",
+     "references": [
+      "REF-2612"
+     ],
+     "status": "approved"
+    },
+    {
+     "dangerous_plant": "conium-maculatum",
+     "dangerous_plant_label": "Poison hemlock",
+     "kingdom": "plant",
+     "severity": "fatal",
+     "confused_part": "The ferny leaves, white umbels and the whole young plant / first-year rosette gathered for root or leaf.",
+     "confusion_context": "Poison hemlock is the classic deadly look-alike of wild carrot ('Queen Anne's Lace'). Both are white-flowered umbellifers of similar height with finely divided ferny leaves, and foragers after wild carrot root or leaf have been fatally poisoned by hemlock. Coniine causes an ascending paralysis that stops breathing - a small amount can be lethal.",
+     "distinguishing_features": [
+      "Stem: wild carrot has a SOLID, ridged stem covered in stiff bristly hairs ('Queen Anne has hairy legs'); poison hemlock has a SMOOTH, hairless stem marked with distinct purple-red spots and blotches. Hairy green stem = carrot; smooth purple-blotched stem = hemlock.",
+      "Smell: crushed wild carrot leaf and root smell clearly of carrot; poison hemlock smells rank, musty and mousy. A foul mousy smell is a hard no.",
+      "Umbel detail: wild carrot has a ruff of long, three-forked (feathery) bracts beneath the umbel and usually a single dark purple-red floret at the centre; hemlock lacks both the forked bracts and the dark central floret."
+     ],
+     "key_test": "Check the stem in good light: solid, ridged, bristly-hairy and carrot-scented = wild carrot; smooth, hairless, blotched with purple and foul/mousy-smelling = poison hemlock - do not touch or eat.",
+     "references": [
+      "REF-2708",
+      "REF-2610",
+      "REF-2611"
+     ],
+     "status": "approved"
+    },
+    {
+     "dangerous_plant": "aethusa-cynapium",
+     "dangerous_plant_label": "Fool's parsley",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "The finely divided leaves and small white umbels, especially of young plants.",
+     "confusion_context": "Fool's parsley grows in the same gardens, field margins and waste ground as wild carrot and its relatives and has similar ferny leaves and small white umbels; it contains coniine-like alkaloids and has caused serious and fatal poisonings, particularly when mistaken for parsley or wild carrot leaf.",
+     "distinguishing_features": [
+      "Beneath each little umbel, fool's parsley has 3-4 long, narrow bracts that hang DOWNWARDS like a beard; wild carrot has a ruff of three-forked feathery bracts and a domed umbel with a dark central floret.",
+      "Fool's parsley has a smooth, hairless stem and an unpleasant acrid smell when crushed; wild carrot has a bristly-hairy stem and a clean carrot smell.",
+      "Wild carrot's umbel contracts into a concave 'bird's nest' in fruit; fool's parsley does not."
+     ],
+     "key_test": "Look under the umbel: long narrow bracts hanging down like a beard, on a smooth hairless stem with an acrid smell = fool's parsley - do not eat. Wild carrot has forked bracts, a hairy stem and a carrot smell.",
+     "references": [
+      "REF-2613",
+      "REF-2614"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-10"
   },
   {
    "plant_id": "prunus-serotina",

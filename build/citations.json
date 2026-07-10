@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/knowledge-finder@2",
- "count": 2706,
+ "count": 2723,
  "citations": [
   {
    "ref_id": "REF-0327",
@@ -2308,6 +2308,39 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2718",
+   "key": "venkatesan2025wound",
+   "type": "article",
+   "title": "Wound-Healing Efficacy of Daucus carota Bioactive Compounds: Targeting Oxidative Stress, Inflammation, and Apoptosis",
+   "authors": "Venkatesan, K. and Asseri, K.A. and Muralidharan, P. and Sirag, N. and Ahmed, R. and Elfadil, H. and Elodemi, M. and Genena, S.E.R. and Sivadasan, D. and Velraj, M. and Paulsamy, P. and Vadivel, V. and Prabahar, K. and Krishnaraju, K.",
+   "journal": "Pharmaceuticals (Basel)",
+   "year": "2025",
+   "doi": "10.3390/ph18121905",
+   "url": "",
+   "link": "https://doi.org/10.3390/ph18121905",
+   "link_type": "doi",
+   "citation": "Venkatesan, K. and Asseri, K.A. and Muralidharan, P. and Sirag, N. and Ahmed, R. and Elfadil, H. and Elodemi, M. and Genena, S.E.R. and Sivadasan, D. and Velraj, M. and Paulsamy, P. and Vadivel, V. and Prabahar, K. and Krishnaraju, K (2025) 'Wound-Healing Efficacy of Daucus carota Bioactive Compounds: Targeting Oxidative Stress, Inflammation, and Apoptosis', Pharmaceuticals (Basel), 18(12), pp. 1905. doi:10.3390/ph18121905",
+   "abstract": "Carrot seed essential oil (rich in sesquiterpenoids) from Daucus carota promoted wound healing in albino rats, acting through reduced oxidative stress and inflammation and modulation of apoptosis.",
+   "tier": "preclinical",
+   "display": "Wound-Healing Efficacy of Daucus carota Bioactive Compounds: Targeting Oxidative Stress, Inflammation, and Apoptosis",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Vulnerary (wound healing)"
+   ],
+   "conditions": [
+    "Wounds"
+   ]
+  },
+  {
    "ref_id": "REF-0381",
    "key": "sacred2025yarrow",
    "type": "misc",
@@ -4002,8 +4035,15 @@
    "abstract": "Analysis of the death of Socrates as a case of poison hemlock (Conium maculatum) poisoning. Modern reports of hemlock poisoning describe vomiting, abdominal pain, diarrhoea and muscle fasciculation from the piperidine alkaloid coniine, which causes neuromuscular blockade and death from respiratory failure. Used here to anchor the lethal toxicity of poison hemlock.",
    "tier": "clinical",
    "display": "Death of Socrates: a likely case of poison hemlock (Conium maculatum) poisoning",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
    "actions": [],
    "conditions": []
   },
@@ -6607,8 +6647,15 @@
    "abstract": "King County (Washington) noxious-weed profile for poison hemlock: stems have red or purple spots and streaks, are not hairy, and are hollow; plants have a strong musty odour when crushed; eating even a small amount of any part can kill people and livestock; and poison hemlock can be confused with many edible members of the parsley family including fennel, chervil and anise. Anchors the purple-spotted hairless stem and mousy smell as the distinguishing tests.",
    "tier": "traditional",
    "display": "Poison hemlock (Conium maculatum) identification and control",
-   "plants": [],
-   "scientific": [],
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
    "actions": [],
    "conditions": []
   },
@@ -10026,6 +10073,36 @@
    ],
    "actions": [
     "Antimicrobial"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2711",
+   "key": "mandrich2023carrot",
+   "type": "article",
+   "title": "Chemical Composition, Functional and Anticancer Properties of Carrot",
+   "authors": "Mandrich, L. and Esposito, A.V. and Costa, S. and Caputo, E.",
+   "journal": "Molecules",
+   "year": "2023",
+   "doi": "10.3390/molecules28207161",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules28207161",
+   "link_type": "doi",
+   "citation": "Mandrich, L. and Esposito, A.V. and Costa, S. and Caputo, E (2023) 'Chemical Composition, Functional and Anticancer Properties of Carrot', Molecules, 28(20), pp. 7161. doi:10.3390/molecules28207161",
+   "abstract": "Review of the chemical composition and functional properties of edible and wild Daucus carota subspecies, with a focus on anticancer (anti-proliferative and anti-metastatic) compounds such as carotenoids, polyacetylenes and polyunsaturated fatty acids, and their potential in anticancer therapeutic strategies.",
+   "tier": "preclinical",
+   "display": "Chemical Composition, Functional and Anticancer Properties of Carrot",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Anticancer (preclinical)"
    ],
    "conditions": []
   },
@@ -14135,6 +14212,49 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2708",
+   "key": "ismail2023wildcarrot",
+   "type": "article",
+   "title": "The Wild Carrot (Daucus carota): A Phytochemical and Pharmacological Review",
+   "authors": "Ismail, J. and Shebaby, W.N. and Daher, J. and Boulos, J.C. and Taleb, R. and Daher, C.F. and Mroueh, M.",
+   "journal": "Plants (Basel)",
+   "year": "2023",
+   "doi": "10.3390/plants13010093",
+   "url": "",
+   "link": "https://doi.org/10.3390/plants13010093",
+   "link_type": "doi",
+   "citation": "Ismail, J. and Shebaby, W.N. and Daher, J. and Boulos, J.C. and Taleb, R. and Daher, C.F. and Mroueh, M (2023) 'The Wild Carrot (Daucus carota): A Phytochemical and Pharmacological Review', Plants (Basel), 13(1), pp. 93. doi:10.3390/plants13010093",
+   "abstract": "Comprehensive review of wild carrot (Daucus carota L. ssp. carota). Traditionally recognised for antilithic, diuretic, carminative, antiseptic and anti-inflammatory properties and used for urinary calculus, cystitis, gout, prostatitis and cancer. Over 310 compounds are reported (terpenoids, phenylpropenoids, flavonoids, phenolic acids); documents antioxidant, anticancer, antipyretic, analgesic, antibacterial, antifungal, hypolipidemic, and hepato- and gastroprotective activities, with in vitro and in vivo studies supporting traditional uses in infection, inflammation and cancer.",
+   "tier": "traditional",
+   "display": "The Wild Carrot (Daucus carota): A Phytochemical and Pharmacological Review",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)",
+    "Antimicrobial",
+    "Antioxidant",
+    "Carminative",
+    "Diuretic",
+    "Emmenagogue / uterine tonic"
+   ],
+   "conditions": [
+    "Bloating",
+    "Indigestion",
+    "Inflammation (general)",
+    "Swelling / fluid retention",
+    "Urinary support",
+    "Urinary tract infection (UTI)"
+   ]
   },
   {
    "ref_id": "REF-0970",
@@ -22461,6 +22581,40 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2720",
+   "key": "yang2021fiber",
+   "type": "article",
+   "title": "Characterization of insoluble dietary fiber from three food sources and their potential hypoglycemic and hypolipidemic effects",
+   "authors": "Yang, X. and Dai, J. and Zhong, Y. and Wei, X. and Wu, M. and Zhang, Y. and Huang, A. and Wang, L. and Huang, Y. and Zhang, C. and Chen, X. and Xiao, H.",
+   "journal": "Food and Function",
+   "year": "2021",
+   "doi": "10.1039/d1fo00521a",
+   "url": "",
+   "link": "https://doi.org/10.1039/d1fo00521a",
+   "link_type": "doi",
+   "citation": "Yang, X. and Dai, J. and Zhong, Y. and Wei, X. and Wu, M. and Zhang, Y. and Huang, A. and Wang, L. and Huang, Y. and Zhang, C. and Chen, X. and Xiao, H (2021) 'Characterization of insoluble dietary fiber from three food sources and their potential hypoglycemic and hypolipidemic effects', Food and Function, 12(14), pp. 6576-6587. doi:10.1039/d1fo00521a",
+   "abstract": "Insoluble dietary fibre from carrot (Daucus carota), among three sources, showed strong water-holding, swelling and bile-acid adsorption capacity; in mice all three fibres improved glucose tolerance and blunted the rise in blood lipids after a fat load, supporting hypoglycemic and hypolipidemic effects.",
+   "tier": "preclinical",
+   "display": "Characterization of insoluble dietary fiber from three food sources and their potential hypoglycemic and hypolipidemic effects",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Antidiabetic (blood-sugar lowering)",
+    "Lipid-lowering"
+   ],
+   "conditions": [
+    "Blood sugar / diabetes support",
+    "High cholesterol"
+   ]
+  },
+  {
    "ref_id": "REF-2264",
    "key": "popovic2021chelidonium",
    "type": "article",
@@ -23938,6 +24092,36 @@
    ],
    "actions": [
     "Anti-inflammatory",
+    "Antioxidant"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2719",
+   "key": "qi2021polysaccharide",
+   "type": "article",
+   "title": "Extraction, chemical modification, and antioxidant activities of Daucus carota polysaccharide",
+   "authors": "Qi, K. and Xia, G. and Huang, G. and Huang, H.",
+   "journal": "Chemical Biology and Drug Design",
+   "year": "2021",
+   "doi": "10.1111/cbdd.13968",
+   "url": "",
+   "link": "https://doi.org/10.1111/cbdd.13968",
+   "link_type": "doi",
+   "citation": "Qi, K. and Xia, G. and Huang, G. and Huang, H (2021) 'Extraction, chemical modification, and antioxidant activities of Daucus carota polysaccharide', Chemical Biology and Drug Design, 98(6), pp. 1098-1103. doi:10.1111/cbdd.13968",
+   "abstract": "Daucus carota polysaccharide was extracted and chemically modified (phosphorylated and carboxymethylated); the derivatives showed enhanced antioxidant activity, characterising a bioactive carrot polysaccharide.",
+   "tier": "preclinical",
+   "display": "Extraction, chemical modification, and antioxidant activities of Daucus carota polysaccharide",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
     "Antioxidant"
    ],
    "conditions": []
@@ -27776,6 +27960,38 @@
    ]
   },
   {
+   "ref_id": "REF-2714",
+   "key": "iqbal2021nephroprotective",
+   "type": "article",
+   "title": "The nephroprotective effects of Daucus carota and Eclipta prostrata against cisplatin-induced nephrotoxicity in rats",
+   "authors": "Iqbal, M.O. and Sial, A.S. and Akhtar, I. and Naeem, M. and Hazafa, A. and Ansari, R.A. and Rizvi, S.A.A.",
+   "journal": "Bioengineered",
+   "year": "2021",
+   "doi": "10.1080/21655979.2021.2009977",
+   "url": "",
+   "link": "https://doi.org/10.1080/21655979.2021.2009977",
+   "link_type": "doi",
+   "citation": "Iqbal, M.O. and Sial, A.S. and Akhtar, I. and Naeem, M. and Hazafa, A. and Ansari, R.A. and Rizvi, S.A.A (2021) 'The nephroprotective effects of Daucus carota and Eclipta prostrata against cisplatin-induced nephrotoxicity in rats', Bioengineered, 12(2), pp. 12702-12721. doi:10.1080/21655979.2021.2009977",
+   "abstract": "Daucus carota extract (600 mg/kg) protected against cisplatin-induced nephrotoxicity in Wistar rats, improving body and kidney weight, urine and plasma creatinine, sodium and potassium, and renal histopathology.",
+   "tier": "preclinical",
+   "display": "The nephroprotective effects of Daucus carota and Eclipta prostrata against cisplatin-induced nephrotoxicity in rats",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Nephroprotective (kidney support)"
+   ],
+   "conditions": [
+    "Kidney support"
+   ]
+  },
+  {
    "ref_id": "REF-0951",
    "key": "dearaujo2021guarana",
    "type": "article",
@@ -28633,6 +28849,39 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2712",
+   "key": "bawari2020urolithiasis",
+   "type": "article",
+   "title": "Anticalcifying effect of Daucus carota in experimental urolithiasis in Wistar rats",
+   "authors": "Bawari, S. and Sah, A.N. and Tewari, D.",
+   "journal": "Journal of Ayurveda and Integrative Medicine",
+   "year": "2020",
+   "doi": "10.1016/j.jaim.2018.12.003",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.jaim.2018.12.003",
+   "link_type": "doi",
+   "citation": "Bawari, S. and Sah, A.N. and Tewari, D (2020) 'Anticalcifying effect of Daucus carota in experimental urolithiasis in Wistar rats', Journal of Ayurveda and Integrative Medicine, 11(3), pp. 308-315. doi:10.1016/j.jaim.2018.12.003",
+   "abstract": "In ethylene-glycol-induced urolithiasis in Wistar rats, Daucus carota extract reduced crystal deposition and biochemical markers of stone formation, supporting the traditional use of carrot for urinary calculi (lithontriptic/antiurolithic activity) alongside its diuretic and nephroprotective actions.",
+   "tier": "preclinical",
+   "display": "Anticalcifying effect of Daucus carota in experimental urolithiasis in Wistar rats",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Diuretic"
+   ],
+   "conditions": [
+    "Kidney support",
+    "Urinary support"
+   ]
   },
   {
    "ref_id": "REF-1972",
@@ -32617,6 +32866,36 @@
     "Infection (general)",
     "Wounds"
    ]
+  },
+  {
+   "ref_id": "REF-2717",
+   "key": "asdaq2020antiulcer",
+   "type": "article",
+   "title": "Role of Daucus carota in Enhancing Antiulcer Profile of Pantoprazole in Experimental Animals",
+   "authors": "Asdaq, S.M.B. and Swathi, E. and Dhamanigi, S.S. and Asad, M. and Ali Mohzari, Y. and Alrashed, A.A. and Alotaibi, A.S. and Mohammed Alhassan, B. and Nagaraja, S.",
+   "journal": "Molecules",
+   "year": "2020",
+   "doi": "10.3390/molecules25225287",
+   "url": "",
+   "link": "https://doi.org/10.3390/molecules25225287",
+   "link_type": "doi",
+   "citation": "Asdaq, S.M.B. and Swathi, E. and Dhamanigi, S.S. and Asad, M. and Ali Mohzari, Y. and Alrashed, A.A. and Alotaibi, A.S. and Mohammed Alhassan, B. and Nagaraja, S (2020) 'Role of Daucus carota in Enhancing Antiulcer Profile of Pantoprazole in Experimental Animals', Molecules, 25(22), pp. 5287. doi:10.3390/molecules25225287",
+   "abstract": "Carrot (Daucus carota) co-administered with the proton-pump inhibitor pantoprazole enhanced protection against gastric and duodenal ulcers in experimental animals compared with pantoprazole alone, indicating additive gastroprotective activity.",
+   "tier": "preclinical",
+   "display": "Role of Daucus carota in Enhancing Antiulcer Profile of Pantoprazole in Experimental Animals",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Gastroprotective"
+   ],
+   "conditions": []
   },
   {
    "ref_id": "REF-0624",
@@ -41293,6 +41572,34 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2721",
+   "key": "ali2018carotol",
+   "type": "article",
+   "title": "Repellent Activity of Carrot Seed Essential Oil and Its Pure Compound, Carotol, Against Mosquitoes",
+   "authors": "Ali, A. and Radwan, M.M. and Wanas, A.S. and Khan, I.A.",
+   "journal": "Journal of the American Mosquito Control Association",
+   "year": "2018",
+   "doi": "10.2987/18-6751.1",
+   "url": "",
+   "link": "https://doi.org/10.2987/18-6751.1",
+   "link_type": "doi",
+   "citation": "Ali, A. and Radwan, M.M. and Wanas, A.S. and Khan, I.A (2018) 'Repellent Activity of Carrot Seed Essential Oil and Its Pure Compound, Carotol, Against Mosquitoes', Journal of the American Mosquito Control Association, 34(4), pp. 272-280. doi:10.2987/18-6751.1",
+   "abstract": "GC/MS analysis of carrot (Daucus carota) seed essential oil revealed 47 compounds dominated by the sesquiterpene alcohol carotol (>75% w/w); both the oil and pure carotol showed strong repellent activity against mosquitoes, characterising the seed oil's principal constituent.",
+   "tier": "preclinical",
+   "display": "Repellent Activity of Carrot Seed Essential Oil and Its Pure Compound, Carotol, Against Mosquitoes",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-0487",
    "key": "gulliver2018efficacy",
    "type": "article",
@@ -43998,6 +44305,38 @@
    ],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2722",
+   "key": "gaglio2017essentialoil",
+   "type": "article",
+   "title": "Inhibitory Activity and Chemical Characterization of Daucus carota subsp. maximus Essential Oils",
+   "authors": "Gaglio, R. and Barbera, M. and Aleo, A. and Lommatzsch, I. and La Mantia, T. and Settanni, L.",
+   "journal": "Chemistry and Biodiversity",
+   "year": "2017",
+   "doi": "10.1002/cbdv.201600477",
+   "url": "",
+   "link": "https://doi.org/10.1002/cbdv.201600477",
+   "link_type": "doi",
+   "citation": "Gaglio, R. and Barbera, M. and Aleo, A. and Lommatzsch, I. and La Mantia, T. and Settanni, L (2017) 'Inhibitory Activity and Chemical Characterization of Daucus carota subsp. maximus Essential Oils', Chemistry and Biodiversity, 14(5). doi:10.1002/cbdv.201600477",
+   "abstract": "Essential oils from green seeds of wild Daucus carota subsp. maximus were chemically characterised and showed inhibitory activity against food-borne Gram-positive and Gram-negative bacteria, supporting antimicrobial use of the seed oil.",
+   "tier": "preclinical",
+   "display": "Inhibitory Activity and Chemical Characterization of Daucus carota subsp. maximus Essential Oils",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Infection (general)"
+   ]
   },
   {
    "ref_id": "REF-2276",
@@ -46786,6 +47125,34 @@
    ],
    "scientific": [
     "Cannabis sativa"
+   ],
+   "actions": [],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2709",
+   "key": "simpson2016carotenoid",
+   "type": "article",
+   "title": "Carotenoid Biosynthesis in Daucus carota",
+   "authors": "Simpson, K. and Cerda, A. and Stange, C.",
+   "journal": "Subcellular Biochemistry",
+   "year": "2016",
+   "doi": "10.1007/978-3-319-39126-7_7",
+   "url": "",
+   "link": "https://doi.org/10.1007/978-3-319-39126-7_7",
+   "link_type": "doi",
+   "citation": "Simpson, K. and Cerda, A. and Stange, C (2016) 'Carotenoid Biosynthesis in Daucus carota', Subcellular Biochemistry, 79, pp. 199-217. doi:10.1007/978-3-319-39126-7_7",
+   "abstract": "Review of carotenoid biosynthesis in carrot (Daucus carota), the main dietary source of provitamin A. Almost all carrot varieties accumulate massive amounts of carotenoids in the root, giving a wide range of colours; discusses the genes and regulation underlying this accumulation.",
+   "tier": "preclinical",
+   "display": "Carotenoid Biosynthesis in Daucus carota",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
    ],
    "actions": [],
    "conditions": []
@@ -50171,6 +50538,69 @@
    "conditions": []
   },
   {
+   "ref_id": "REF-2715",
+   "key": "shebaby2015hepatoprotective",
+   "type": "article",
+   "title": "Antioxidant and hepatoprotective activities of the oil fractions from wild carrot (Daucus carota ssp. carota)",
+   "authors": "Shebaby, W.N. and Daher, C.F. and El-Sibai, M. and Bodman-Smith, K. and Mansour, A. and Karam, M.C. and Mroueh, M.",
+   "journal": "Pharmaceutical Biology",
+   "year": "2015",
+   "doi": "10.3109/13880209.2014.976349",
+   "url": "",
+   "link": "https://doi.org/10.3109/13880209.2014.976349",
+   "link_type": "doi",
+   "citation": "Shebaby, W.N. and Daher, C.F. and El-Sibai, M. and Bodman-Smith, K. and Mansour, A. and Karam, M.C. and Mroueh, M (2015) 'Antioxidant and hepatoprotective activities of the oil fractions from wild carrot (Daucus carota ssp. carota)', Pharmaceutical Biology, 53(9), pp. 1285-1294. doi:10.3109/13880209.2014.976349",
+   "abstract": "Fractions of wild carrot (Daucus carota ssp. carota) oil extract showed strong antioxidant activity and protected against chemically induced liver injury in vivo, supporting the traditional hepatoprotective use of wild carrot in Lebanon.",
+   "tier": "preclinical",
+   "display": "Antioxidant and hepatoprotective activities of the oil fractions from wild carrot (Daucus carota ssp. carota)",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Antioxidant",
+    "Hepatoprotective (liver support)"
+   ],
+   "conditions": [
+    "Liver support"
+   ]
+  },
+  {
+   "ref_id": "REF-2716",
+   "key": "chandra2015gastroprotective",
+   "type": "article",
+   "title": "Assessment of Antisecretory, Gastroprotective, and In-vitro Antacid Potential of Daucus carota in Experimental Rats",
+   "authors": "Chandra, P. and Kishore, K. and Ghosh, A.K.",
+   "journal": "Osong Public Health and Research Perspectives",
+   "year": "2015",
+   "doi": "10.1016/j.phrp.2015.10.006",
+   "url": "",
+   "link": "https://doi.org/10.1016/j.phrp.2015.10.006",
+   "link_type": "doi",
+   "citation": "Chandra, P. and Kishore, K. and Ghosh, A.K (2015) 'Assessment of Antisecretory, Gastroprotective, and In-vitro Antacid Potential of Daucus carota in Experimental Rats', Osong Public Health and Research Perspectives, 6(6), pp. 329-335. doi:10.1016/j.phrp.2015.10.006",
+   "abstract": "A 50% ethanol extract of Daucus carota root reduced gastric acid secretion, protected against experimental gastric ulceration and showed in-vitro antacid activity in rats, supporting traditional use for stomach and intestinal complaints.",
+   "tier": "preclinical",
+   "display": "Assessment of Antisecretory, Gastroprotective, and In-vitro Antacid Potential of Daucus carota in Experimental Rats",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Gastroprotective"
+   ],
+   "conditions": []
+  },
+  {
    "ref_id": "REF-2111",
    "key": "simpson2015bacopa",
    "type": "article",
@@ -50199,6 +50629,41 @@
     "Antioxidant"
    ],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2710",
+   "key": "dawid2015polyacetylenes",
+   "type": "article",
+   "title": "Bioactive C17-Polyacetylenes in Carrots (Daucus carota L.): Current Knowledge and Future Perspectives",
+   "authors": "Dawid, C. and Dunemann, F. and Schwab, W. and Nothnagel, T. and Hofmann, T.",
+   "journal": "Journal of Agricultural and Food Chemistry",
+   "year": "2015",
+   "doi": "10.1021/acs.jafc.5b04357",
+   "url": "",
+   "link": "https://doi.org/10.1021/acs.jafc.5b04357",
+   "link_type": "doi",
+   "citation": "Dawid, C. and Dunemann, F. and Schwab, W. and Nothnagel, T. and Hofmann, T (2015) 'Bioactive C17-Polyacetylenes in Carrots (Daucus carota L.): Current Knowledge and Future Perspectives', Journal of Agricultural and Food Chemistry, 63(42), pp. 9211-9222. doi:10.1021/acs.jafc.5b04357",
+   "abstract": "Review of falcarinol-type C17-polyacetylenes (falcarinol, falcarindiol) in carrot. These oxylipins show anticancer, antifungal, antibacterial, anti-inflammatory and serotonergic effects, and carrot is highlighted as a promising dietary source for improving human health.",
+   "tier": "preclinical",
+   "display": "Bioactive C17-Polyacetylenes in Carrots (Daucus carota L.): Current Knowledge and Future Perspectives",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Anti-inflammatory",
+    "Anticancer (preclinical)",
+    "Antifungal",
+    "Antimicrobial"
+   ],
+   "conditions": [
+    "Inflammation (general)"
+   ]
   },
   {
    "ref_id": "REF-2163",
@@ -56596,6 +57061,38 @@
    "scientific": [],
    "actions": [],
    "conditions": []
+  },
+  {
+   "ref_id": "REF-2713",
+   "key": "afzal2013renal",
+   "type": "article",
+   "title": "Comparison of protective and curative potential of Daucus carota root extract on renal ischemia reperfusion injury in rats",
+   "authors": "Afzal, M. and Kazmi, I. and Kaur, R. and Ahmad, A. and Pravez, M. and Anwar, F.",
+   "journal": "Pharmaceutical Biology",
+   "year": "2013",
+   "doi": "10.3109/13880209.2013.767840",
+   "url": "",
+   "link": "https://doi.org/10.3109/13880209.2013.767840",
+   "link_type": "doi",
+   "citation": "Afzal, M. and Kazmi, I. and Kaur, R. and Ahmad, A. and Pravez, M. and Anwar, F (2013) 'Comparison of protective and curative potential of Daucus carota root extract on renal ischemia reperfusion injury in rats', Pharmaceutical Biology, 51(7), pp. 856-862. doi:10.3109/13880209.2013.767840",
+   "abstract": "Daucus carota root extract, traditionally used for kidney and hepatic dysfunction, showed both protective and curative activity against renal ischemia-reperfusion injury in rats, improving renal function markers and tissue injury.",
+   "tier": "preclinical",
+   "display": "Comparison of protective and curative potential of Daucus carota root extract on renal ischemia reperfusion injury in rats",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Nephroprotective (kidney support)"
+   ],
+   "conditions": [
+    "Kidney support"
+   ]
   },
   {
    "ref_id": "REF-1381",
@@ -65951,6 +66448,34 @@
     "Hot flashes",
     "Menopause"
    ]
+  },
+  {
+   "ref_id": "REF-2723",
+   "key": "vijayalakshmi2008carotenodermia",
+   "type": "article",
+   "title": "Carotenodermia",
+   "authors": "Vijayalakshmi, A.M.",
+   "journal": "Indian Pediatrics",
+   "year": "2008",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Carotenodermia",
+   "link_type": "search",
+   "citation": "Vijayalakshmi, A.M (2008) 'Carotenodermia', Indian Pediatrics, 45(1), pp. 61.",
+   "abstract": "Case report of carotenodermia (benign yellow-orange discolouration of the skin) resulting from excessive dietary intake of carotene-rich foods such as carrot (Daucus carota); harmless and reversible on reducing intake, but a marker of very high carotenoid consumption.",
+   "tier": "clinical",
+   "display": "Carotenodermia",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [],
+   "conditions": []
   },
   {
    "ref_id": "REF-0138",
@@ -79183,6 +79708,36 @@
    ],
    "actions": [
     "Anti-inflammatory"
+   ],
+   "conditions": []
+  },
+  {
+   "ref_id": "REF-2724",
+   "key": "sharma1976estrogenic",
+   "type": "article",
+   "title": "Estrogenic and pregnancy interceptory effects of carrot Daucus carota seeds",
+   "authors": "Sharma, M.M. and Lal, G. and Jacob, D.",
+   "journal": "Indian Journal of Experimental Biology",
+   "year": "1976",
+   "doi": "",
+   "url": "",
+   "link": "https://scholar.google.com/scholar?q=Estrogenic%20and%20pregnancy%20interceptory%20effects%20of%20carrot%20Daucus%20carota%20seeds",
+   "link_type": "search",
+   "citation": "Sharma, M.M. and Lal, G. and Jacob, D (1976) 'Estrogenic and pregnancy interceptory effects of carrot Daucus carota seeds', Indian Journal of Experimental Biology, 14(4), pp. 506-508.",
+   "abstract": "Experimental study in mice showing that Daucus carota seed extract has estrogenic activity (increased uterine weight) and pregnancy interceptory (anti-implantation) effects, providing the experimental basis for the traditional use of wild carrot seed as an emmenagogue and folk contraceptive and the caution against use in pregnancy.",
+   "tier": "preclinical",
+   "display": "Estrogenic and pregnancy interceptory effects of carrot Daucus carota seeds",
+   "plants": [
+    "Queen Anne's lace",
+    "Wild carrot",
+    "bird's nest",
+    "bishop's lace"
+   ],
+   "scientific": [
+    "Daucus carota"
+   ],
+   "actions": [
+    "Emmenagogue / uterine tonic"
    ],
    "conditions": []
   },

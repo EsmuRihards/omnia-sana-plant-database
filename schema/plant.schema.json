@@ -27,6 +27,86 @@
     },
     "wp_post_id": {"type": ["integer", "null"], "description": "WordPress Materia Medica post id, or null if no page yet."},
     "parts_used": {"type": "array", "items": {"type": "string"}, "description": "Canonical part names, e.g. Bulb, Leaf, Root, Rhizome, Flower."},
+    "botanical_description": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Structured botanical / identification profile (habit, parts, flowering period) plus a prose summary. Monograph-base content: seeds future Materia Medica prose and stores the key identification facts. Each fact set can carry its own references. Renders automatically in the Monograph and flows into plants.json.",
+      "properties": {
+        "text": {"type": "string", "description": "Prose summary of the whole-plant appearance."},
+        "height": {"type": "string"},
+        "habit": {"type": "string", "description": "Growth form / life cycle, e.g. 'erect biennial herb'."},
+        "leaves": {"type": "string"},
+        "flowers": {"type": "string"},
+        "stem": {"type": "string"},
+        "root": {"type": "string"},
+        "fruit": {"type": "string"},
+        "flowering_period": {"type": "string"},
+        "reference_ids": {"$ref": "#/$defs/reference_ids"},
+        "status": {"$ref": "#/$defs/status"}
+      }
+    },
+    "habitat": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Where the plant grows: habitat, native range and distribution. Monograph-base content.",
+      "properties": {
+        "text": {"type": "string"},
+        "reference_ids": {"$ref": "#/$defs/reference_ids"},
+        "status": {"$ref": "#/$defs/status"}
+      }
+    },
+    "harvesting": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "When and how the medicinal part(s) are gathered and processed. Monograph-base content.",
+      "properties": {
+        "text": {"type": "string"},
+        "parts": {"type": "array", "items": {"type": "string"}, "description": "Part(s) the harvesting note applies to."},
+        "season": {"type": "string"},
+        "reference_ids": {"$ref": "#/$defs/reference_ids"},
+        "status": {"$ref": "#/$defs/status"}
+      }
+    },
+    "traditional_uses": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Historical / ethnobotanical use narrative, preserved as prose. Distinct from the machine-actionable indications[] (which power the Symptom tool). Monograph-base content.",
+      "properties": {
+        "text": {"type": "string"},
+        "reference_ids": {"$ref": "#/$defs/reference_ids"},
+        "status": {"$ref": "#/$defs/status"}
+      }
+    },
+    "preparations": {
+      "type": "array",
+      "description": "How the herb is prepared (infusion, decoction, tincture, poultice, etc.). Each entry is a sourced claim. Monograph-base content.",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {"type": "string", "description": "Preparation method, e.g. 'Infusion', 'Decoction', 'Tincture', 'Poultice'."},
+          "text": {"type": "string", "description": "Preparation detail / method."},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"},
+          "status": {"$ref": "#/$defs/status"}
+        }
+      }
+    },
+    "dosage": {
+      "type": "array",
+      "description": "Dosage guidance by preparation/form. Each entry is a sourced claim. Educational reference only, never a prescription. Monograph-base content.",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {"type": "string", "description": "Form the dose applies to, e.g. 'Dried herb infusion', 'Tincture (1:5)', 'Seed'."},
+          "text": {"type": "string", "description": "Amount / frequency guidance."},
+          "reference_ids": {"$ref": "#/$defs/reference_ids"},
+          "status": {"$ref": "#/$defs/status"}
+        }
+      }
+    },
     "constituents": {
       "type": "array",
       "items": {

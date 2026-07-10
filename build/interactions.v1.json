@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/interactions@1",
- "count": 91,
+ "count": 94,
  "drug_classes": [
   {
    "id": "antibiotics",
@@ -1549,6 +1549,53 @@
    "references": [
     "REF-2452",
     "REF-2460"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "daucus-carota",
+   "plant": "Wild carrot",
+   "scientific": "Daucus carota",
+   "common_slug": "wild-carrot",
+   "wp_post_id": null,
+   "drug_class": "antihypertensives",
+   "drug_class_label": "Antihypertensives (blood-pressure medicines)",
+   "severity": "caution",
+   "mechanism": "As a diuretic, wild carrot may add to the blood-pressure-lowering and fluid-loss effects of antihypertensive medicines and cause dizziness.",
+   "references": [
+    "REF-2708",
+    "REF-2712"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "daucus-carota",
+   "plant": "Wild carrot",
+   "scientific": "Daucus carota",
+   "common_slug": "wild-carrot",
+   "wp_post_id": null,
+   "drug_class": "diuretics",
+   "drug_class_label": "Diuretics (water tablets)",
+   "severity": "caution",
+   "mechanism": "Wild carrot is itself a diuretic; taken with pharmaceutical diuretics it may add to fluid and electrolyte (especially potassium) loss.",
+   "references": [
+    "REF-2708",
+    "REF-2712"
+   ],
+   "status": "approved"
+  },
+  {
+   "plant_id": "daucus-carota",
+   "plant": "Wild carrot",
+   "scientific": "Daucus carota",
+   "common_slug": "wild-carrot",
+   "wp_post_id": null,
+   "drug_class": "hormonal-therapies",
+   "drug_class_label": "Hormonal therapies",
+   "severity": "caution",
+   "mechanism": "Wild carrot seed has estrogenic activity and interferes with implantation; it could theoretically interact with hormonal contraceptives, hormone replacement or fertility treatment.",
+   "references": [
+    "REF-2724"
    ],
    "status": "approved"
   },

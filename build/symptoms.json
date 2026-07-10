@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 177,
+ "count": 178,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -19874,6 +19874,139 @@
      "references": [
       "REF-0347",
       "REF-0348"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wild carrot",
+   "scientific": "Daucus carota",
+   "id": "daucus-carota",
+   "common_slug": "wild-carrot",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2720"
+     ]
+    },
+    {
+     "condition": "high-cholesterol",
+     "label": "High cholesterol",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2720"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2722"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708",
+      "REF-2710"
+     ]
+    },
+    {
+     "condition": "kidney-support",
+     "label": "Kidney support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2713",
+      "REF-2714",
+      "REF-2712"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2715"
+     ]
+    },
+    {
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2708",
+      "REF-2712"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2718"
+     ]
+    },
+    {
+     "condition": "bloating",
+     "label": "Bloating",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
      ]
     }
    ]

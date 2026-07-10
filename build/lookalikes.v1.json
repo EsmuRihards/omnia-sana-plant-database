@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
  "count": 72,
- "plants_covered": 186,
+ "plants_covered": 187,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -3403,6 +3403,20 @@
    "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "campanula-persicifolia",
+   "plant": "Peach-leaved bellflower",
+   "scientific": "Campanula persicifolia",
+   "common_slug": "peach-leaved-bellflower",
+   "wp_post_id": null,
+   "review_outcome": "none-known",
+   "lookalikes": [],
+   "review_reference_ids": [
+    "REF-2816"
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-07-10"
   },
   {
    "plant_id": "pelargonium-sidoides",

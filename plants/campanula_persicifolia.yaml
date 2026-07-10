@@ -1,0 +1,207 @@
+id: campanula-persicifolia
+scientific_name: Campanula persicifolia
+common_names:
+- Peach-leaved bellflower
+- fairy bellflower
+- peach-leaf bellflower
+common_slug: peach-leaved-bellflower
+family: Campanulaceae
+synonyms:
+- Campanula persicifolia subsp. persicifolia
+parts_used:
+- Leaf
+- Flower
+- Root
+botanical_description:
+  text: An elegant perennial herb of the bellflower family, 30-90 cm tall, growing from a slender rhizome.
+    It forms an overwintering rosette of narrow, leathery, finely-toothed leaves that resemble those of
+    a peach tree (hence 'peach-leaved'); the few stem leaves are similar but smaller. The large, broad,
+    open bell-shaped flowers - about 3-4 cm across, clear blue to lilac or white - are borne in a loose,
+    one-sided spike in summer. Like other bellflowers it exudes a white latex when cut. It is widely grown
+    as an ornamental garden perennial, and its young leaves and roots have historically been eaten.
+  height: 30-90 cm
+  habit: Slender rhizomatous perennial with an evergreen leaf rosette
+  leaves: Narrow, leathery, finely toothed, peach-leaf-like; mostly in a basal rosette
+  flowers: Large, broad, open bells (3-4 cm), clear blue to lilac or white, in a loose one-sided spike
+  stem: Erect, slender, little-branched, exuding white latex when cut
+  root: Slender rhizome with fibrous roots
+  fruit: A nodding capsule opening by pores near the top
+  flowering_period: June-August
+  reference_ids:
+  - REF-2816
+  status: verified
+habitat:
+  text: Open woodland, wood margins, scrub, hedge banks and dry to moist grassland across much of Europe
+    and into western Asia; also very widely cultivated and naturalised as a garden ornamental. It favours
+    well-drained soils in sun or light shade.
+  reference_ids:
+  - REF-2816
+  status: verified
+harvesting:
+  text: Young leaves and shoots are gathered in spring for use as a salad or pot-herb (mild, faintly sweet,
+    like other bellflowers and rampion); the flowers are gathered in summer, and the root can be dug in
+    autumn. Chiefly a food and ornamental plant rather than a medicinal drug.
+  parts:
+  - Leaf
+  - Flower
+  - Root
+  season: Young leaves/shoots in spring; flowers in summer; root in autumn
+  reference_ids:
+  - REF-2820
+  status: verified
+traditional_uses:
+  text: 'Peach-leaved bellflower is primarily an edible and ornamental plant rather than a classical medicinal
+    herb: its young leaves and roots have long been eaten as a wild salad green or pot-herb, in the same
+    way as its relative rampion (Campanula rapunculus). Folk use of bellflowers (Campanula) includes a
+    leaf or flower infusion as a gentle gargle and wash for sore throat and mouth inflammation, and topical
+    use of the crushed herb on inflamed skin. More broadly, the genus Campanula has traditional records
+    of use for inflammatory, respiratory and cardiovascular complaints, backed by its phenolic, flavonoid
+    and triterpene chemistry.'
+  reference_ids:
+  - REF-2820
+  - REF-2816
+  status: verified
+preparations:
+- name: Salad green / pot-herb
+  text: Young leaves and shoots eaten raw in salads or lightly cooked as a mild pot-herb; the root is
+    also edible (as with rampion bellflower).
+  reference_ids:
+  - REF-2820
+  status: verified
+- name: Infusion / gargle
+  text: A leaf or flower infusion used traditionally as a gentle gargle and wash for sore throat and mouth
+    inflammation.
+  reference_ids:
+  - REF-2816
+  status: draft
+dosage:
+- name: Culinary / traditional
+  text: No standardised medicinal dose is established; the plant is used chiefly as a food. Educational
+    reference only.
+  status: draft
+constituents:
+- name: Phenolic acids (chlorogenic and caffeic acids)
+  compounds:
+  - phenolic-acid
+  - chlorogenic-acid
+  - caffeic-acid
+  note: Chlorogenic and caffeic acids are the dominant phenolics of bellflowers (antioxidant).
+  reference_ids:
+  - REF-2816
+  - REF-2818
+- name: Flavonoids (quercetin and kaempferol glycosides)
+  compounds:
+  - flavonoid
+  - quercetin
+  - kaempferol
+  note: Flavonol glycosides such as quercetin and kaempferol glycosides.
+  reference_ids:
+  - REF-2817
+  - REF-2816
+- name: Polyacetylenes (lobetyol, lobetyolin)
+  note: Acetylenic (polyacetylene) compounds lobetyol and lobetyolin, characteristic antioxidant constituents
+    of the Campanulaceae.
+  reference_ids:
+  - REF-2817
+  - REF-2816
+- name: Triterpenes and saponins
+  compounds:
+  - triterpene-saponin
+  - saponin
+  note: Triterpenes and saponins reported across the genus Campanula.
+  reference_ids:
+  - REF-2816
+actions:
+- action: antioxidant
+  reference_ids:
+  - REF-2816
+  - REF-2817
+  - REF-2818
+  - REF-2819
+  status: verified
+- action: anti-inflammatory
+  note: Bellflower extracts downregulate inflammatory cytokines (TNF-alpha, IL-1beta).
+  reference_ids:
+  - REF-2816
+  - REF-2818
+  status: verified
+- action: antimicrobial
+  note: Antibacterial activity of bellflower extracts/hydrolysates (genus Campanula).
+  reference_ids:
+  - REF-2816
+  - REF-2819
+  status: verified
+- action: vulnerary
+  note: Campanula macrostachya extract promoted fibroblast wound closure in vitro (genus congener).
+  reference_ids:
+  - REF-2818
+  status: verified
+indications:
+- condition: inflammation
+  reference_ids:
+  - REF-2816
+  - REF-2818
+  status: verified
+- condition: wounds
+  note: Bellflower extract promoted fibroblast wound healing in vitro (genus congener).
+  reference_ids:
+  - REF-2818
+  status: needs-review
+- condition: skin-irritation
+  note: inferred from anti-inflammatory / traditional topical skin use
+  reference_ids:
+  - REF-2818
+  - REF-2816
+  status: needs-review
+- condition: infection
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-2819
+  status: needs-review
+- condition: sore-throat
+  note: inferred from traditional gargle use for throat/mouth inflammation
+  reference_ids:
+  - REF-2816
+  status: needs-review
+- condition: respiratory-support
+  note: inferred from genus Campanula traditional use for respiratory complaints
+  reference_ids:
+  - REF-2816
+  status: needs-review
+contraindications:
+- note: Peach-leaved bellflower is chiefly an edible and ornamental plant, and very little is known about
+    medicinal use or safety of the species specifically; there are no clinical data. Use culinary amounts,
+    and avoid medicinal doses in pregnancy and breastfeeding.
+  severity: caution
+  status: verified
+- note: The pharmacological data here are for the genus Campanula and related bellflower species, not
+    for Campanula persicifolia itself; interpret with caution.
+  severity: info
+  reference_ids:
+  - REF-2816
+  status: verified
+references:
+- REF-2816
+- REF-2817
+- REF-2818
+- REF-2819
+- REF-2820
+lookalikes_review:
+  outcome: none-known
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-07-10'
+  reference_ids:
+  - REF-2816
+provenance: pubmed
+status: verified
+last_updated: '2026-07-10'
+internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent failed on the session
+  limit). SETTLED-INCOMPLETE: there is essentially NO Campanula persicifolia-specific medicinal/phytochemical
+  literature on PubMed (the 447 ''Campanula'' hits are other Campanulaceae genera - Platycodon, Codonopsis,
+  Lobelia - or other Campanula species). The plant is chiefly EDIBLE and ornamental. Entry built honestly
+  on 5 clearly-labelled genus-Campanula / ethnobotanical sources: REF-2816 genus Campanula review, REF-2817
+  C. alliariifolia phytochem/antioxidant, REF-2818 C. macrostachya wound-healing, REF-2819 C. latifolia
+  bellflower nutritional peptides, REF-2820 Italian wild-food ethnobotany (genus Campanula edible). 0
+  genuine species-specific -> far under 15; do NOT pad with unrelated Campanulaceae genera (Platycodon/Codonopsis/Lobelia
+  are NOT Campanula). Cross-links via shared compounds (chlorogenic-acid/flavonoid/quercetin/saponin)
+  and inflammation/wounds indications. lookalikes none-known (distinctive large blue/white bells).'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 184,
+ "count": 185,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -15826,6 +15826,77 @@
      "references": [
       "REF-0490",
       "REF-0491"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Peach-leaved bellflower",
+   "scientific": "Campanula persicifolia",
+   "id": "campanula-persicifolia",
+   "common_slug": "peach-leaved-bellflower",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2819"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2816",
+      "REF-2818"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2818",
+      "REF-2816"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2818"
+     ]
+    },
+    {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2816"
+     ]
+    },
+    {
+     "condition": "sore-throat",
+     "label": "Sore throat",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2816"
      ]
     }
    ]

@@ -11,6 +11,51 @@ constituents:
 - name: Phenolic acids and flavonoids (polyphenolic derivatives)
   reference_ids:
   - REF-2360
+botanical_description:
+  text: Perennial, spore-bearing plant closely related to field horsetail, with a similar deep black rhizome.
+    It is distinguished by its more delicate, softly drooping, finely branched sterile stems, which give
+    the plant a lacier, more feathery appearance than the coarser field horsetail, and by its preference
+    for shaded, woodland-edge habitats.
+  height: 20-50 cm
+  habit: Perennial, spore-bearing herb with delicate, drooping, finely branched sterile stems
+  leaves: Reduced to small, fused, toothed sheaths at each stem node
+  flowers: None; reproduces by spores borne in a cone on separate fertile stems in spring
+  stem: Slender, hollow, jointed, with fine, softly drooping whorled branches
+  root: Deep, black, jointed rhizome
+  fruit: Spores released from the fertile cone, not a true fruit
+  flowering_period: Not applicable (spore-bearing); fertile stems appear in spring
+  status: draft
+habitat:
+  text: Grows in shaded woodland edges, damp meadows and streamside thickets, generally in cooler and
+    more shaded sites than field horsetail; found across Europe, Asia and North America.
+  status: draft
+harvesting:
+  text: The aerial (sterile) stems are cut in summer and dried; because this species is easily confused
+    with other horsetails, including the more toxic marsh horsetail, careful identification is essential
+    before wild-harvesting.
+  parts:
+  - Aerial parts
+  - Stem
+  season: Summer
+  status: draft
+traditional_uses:
+  text: Meadow (shady) horsetail shares the broader horsetail genus's traditional folk reputation as a
+    diuretic, astringent and wound-healing herb, though it has been studied far less than field horsetail
+    and has no dedicated clinical evidence base of its own.
+  status: draft
+preparations:
+- name: Infusion
+  text: Dried aerial stem infused in hot water, following the same traditional preparation as other horsetails.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried aerial stem.
+  status: draft
+dosage:
+- name: Infusion
+  text: No species-specific dosing data exist; if used, follow the same conservative short-term dosing
+    as field horsetail (around 2-4 g dried herb per cup) with professional guidance. Educational reference
+    only, not a prescription.
+  status: draft
 actions:
 - action: antioxidant
   note: Ethanolic extracts of the sterile stems of Equisetum pratense show free-radical-scavenging activity
@@ -52,13 +97,30 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: equisetum-palustre
   severity: dangerous
-  confused_part: Sterile green stems gathered and dried for horsetail tea; toxic marsh horsetail looks very similar and grows in the same damp ground.
-  confusion_context: Meadow horsetail (Equisetum pratense) is gathered for horsetail tea, but horsetails are notoriously hard to tell apart, and marsh horsetail (Equisetum palustre) - one of the most poisonous plants of wet grasslands - grows in the same damp habitat and looks very similar. Marsh horsetail contains the alkaloids palustrine and palustridiene plus high thiaminase (which destroys vitamin B1); it is a well-known livestock poison, and peer-reviewed work stresses that medicinal horsetail must be properly authenticated and differentiated from the more toxic marsh horsetail, which can adulterate herbal material. Because the species are so alike, unverified wild horsetail is a real hazard.
+  confused_part: Sterile green stems gathered and dried for horsetail tea; toxic marsh horsetail looks
+    very similar and grows in the same damp ground.
+  confusion_context: Meadow horsetail (Equisetum pratense) is gathered for horsetail tea, but horsetails
+    are notoriously hard to tell apart, and marsh horsetail (Equisetum palustre) - one of the most poisonous
+    plants of wet grasslands - grows in the same damp habitat and looks very similar. Marsh horsetail
+    contains the alkaloids palustrine and palustridiene plus high thiaminase (which destroys vitamin B1);
+    it is a well-known livestock poison, and peer-reviewed work stresses that medicinal horsetail must
+    be properly authenticated and differentiated from the more toxic marsh horsetail, which can adulterate
+    herbal material. Because the species are so alike, unverified wild horsetail is a real hazard.
   distinguishing_features:
-  - 'Branch teeth: marsh horsetail (the toxic one) has 5-6 teeth on each branch sheath that lie flat (appressed) against the branch. Broad, spreading teeth in threes or fours indicate a non-toxic horsetail rather than marsh horsetail.'
-  - 'Branches solid vs hollow: marsh horsetail has hollow branches, whereas field horsetail''s branches are solid. A hollow first branch segment is a warning sign.'
-  - 'First branch segment vs sheath: on marsh horsetail the lowest segment of each side branch is short - shorter than or about equal to the stem sheath it emerges from. A first branch segment clearly longer than the sheath indicates it is NOT marsh horsetail. Marsh horsetail also favours wet, marshy ground and fens.'
-  key_test: 'Because horsetails are so alike and marsh horsetail is poisonous, only use wild horsetail if you can positively exclude marsh horsetail (Equisetum palustre): confirm branch sheaths have 3-4 spreading teeth (not 5-6 flat-lying ones), solid (not hollow) branches, and a first branch segment longer than the stem sheath. If you cannot confirm all of these - or the plant grows in wet, marshy ground - do not use it.'
+  - 'Branch teeth: marsh horsetail (the toxic one) has 5-6 teeth on each branch sheath that lie flat (appressed)
+    against the branch. Broad, spreading teeth in threes or fours indicate a non-toxic horsetail rather
+    than marsh horsetail.'
+  - 'Branches solid vs hollow: marsh horsetail has hollow branches, whereas field horsetail''s branches
+    are solid. A hollow first branch segment is a warning sign.'
+  - 'First branch segment vs sheath: on marsh horsetail the lowest segment of each side branch is short
+    - shorter than or about equal to the stem sheath it emerges from. A first branch segment clearly longer
+    than the sheath indicates it is NOT marsh horsetail. Marsh horsetail also favours wet, marshy ground
+    and fens.'
+  key_test: 'Because horsetails are so alike and marsh horsetail is poisonous, only use wild horsetail
+    if you can positively exclude marsh horsetail (Equisetum palustre): confirm branch sheaths have 3-4
+    spreading teeth (not 5-6 flat-lying ones), solid (not hollow) branches, and a first branch segment
+    longer than the stem sheath. If you cannot confirm all of these - or the plant grows in wet, marshy
+    ground - do not use it.'
   reference_ids:
   - REF-2678
   - REF-2676
@@ -68,7 +130,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: pubmed
 status: draft
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify Shady Horsetail" blog
   post). SETTLED-INCOMPLETE at 3 @article sources: Equisetum pratense is an extremely sparse-literature
   species (only ~4 PubMed records exist in total, one of which is an environmental chlorpyrifos-sorption
@@ -77,4 +139,6 @@ internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify
   be used to pad this species. Per user policy 2026-06-27: genuine sources only, accept <15, no wrong-species
   padding. | 2026-06-27: enriched to >=15 scientific publications: added 3 PubMed-verified @article sources
   (REF-2360, REF-2361, REF-2362) — woven into relevant actions/indications and the plant-level references
-  bucket.'
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

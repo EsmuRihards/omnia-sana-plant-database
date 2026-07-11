@@ -20177,6 +20177,94 @@
     "Stem",
     "Whole Plant"
    ],
+   "botanical_description": {
+    "text": "Perennial, spore-bearing (non-flowering) plant with two distinct stem types arising from a deep, black, jointed rhizome. In early spring, unbranched, pale brownish fertile stems appear first, each topped with a spore-bearing cone, and die back once spores are shed; these are followed by the familiar green, hollow, jointed, ridged sterile stems bearing whorls of thin, needle-like branches at each node, giving a bottlebrush appearance.",
+    "height": "20-80 cm (sterile stems)",
+    "habit": "Perennial, spore-bearing (non-flowering) herb with separate fertile and sterile stems",
+    "leaves": "Reduced to small, fused, toothed sheaths at each stem node (true leaves absent)",
+    "flowers": "None; reproduces by spores borne in a cone atop the unbranched fertile spring stems",
+    "stem": "Hollow, jointed, ridged green sterile stems with whorled branches; separate pale unbranched fertile stems in spring",
+    "root": "Deep, black, jointed, far-spreading rhizome",
+    "fruit": "Spores released from the fertile cone, not a true fruit",
+    "flowering_period": "Not applicable (spore-bearing); fertile stems appear in early spring",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Grows in damp grassland, waste ground, riverbanks, roadsides and disturbed soil on a wide range of soils; native and common across the temperate Northern Hemisphere (Europe, Asia, North America).",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The green sterile stems are cut in summer, at their most vigorous, and dried quickly in a warm, shaded, airy place; careful identification against the more toxic marsh horsetail (Equisetum palustre), which grows in similar damp ground, is essential before wild-harvesting.",
+    "parts": [
+     "Stem",
+     "Whole Plant"
+    ],
+    "season": "Summer, when sterile stems are fully grown",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Field horsetail has a long European folk history as a diuretic remedy for urinary gravel and mild fluid retention, as an astringent, anti-inflammatory and vulnerary herb for wounds and connective-tissue support, and, owing to its very high silica content, as a traditional tonic for hair, nails and skin.",
+    "reference_ids": [
+     "REF-0041"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction/infusion",
+     "text": "Dried sterile stem simmered or infused in hot water as a traditional diuretic and connective-tissue-support tea.",
+     "reference_ids": [
+      "REF-0041"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Poultice/wash",
+     "text": "Crushed or infused herb used topically as a wash or poultice for wounds and skin irritation.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried sterile stem.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction/infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily, for short-term use only, with adequate fluid intake. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Silica (silicic acid)",
+     "compounds": [
+      "silica"
+     ],
+     "note": "Field horsetail is exceptionally rich in silica, concentrated in the stem, and is a signature source of this mineral in Western herbal medicine.",
+     "reference_ids": [
+      "REF-0041"
+     ]
+    },
+    {
+     "name": "Flavonoids",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Antioxidant flavonoids contributing to the plant's anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-0041"
+     ]
+    },
+    {
+     "name": "Thiaminase",
+     "note": "An enzyme that degrades vitamin B1 (thiamine); the basis of the caution against prolonged or excessive use.",
+     "reference_ids": [
+      "REF-0041"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -20449,7 +20537,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "field-horsetail"
   },
   {
@@ -20470,6 +20558,54 @@
      "reference_ids": [
       "REF-2360"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Perennial, spore-bearing plant closely related to field horsetail, with a similar deep black rhizome. It is distinguished by its more delicate, softly drooping, finely branched sterile stems, which give the plant a lacier, more feathery appearance than the coarser field horsetail, and by its preference for shaded, woodland-edge habitats.",
+    "height": "20-50 cm",
+    "habit": "Perennial, spore-bearing herb with delicate, drooping, finely branched sterile stems",
+    "leaves": "Reduced to small, fused, toothed sheaths at each stem node",
+    "flowers": "None; reproduces by spores borne in a cone on separate fertile stems in spring",
+    "stem": "Slender, hollow, jointed, with fine, softly drooping whorled branches",
+    "root": "Deep, black, jointed rhizome",
+    "fruit": "Spores released from the fertile cone, not a true fruit",
+    "flowering_period": "Not applicable (spore-bearing); fertile stems appear in spring",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Grows in shaded woodland edges, damp meadows and streamside thickets, generally in cooler and more shaded sites than field horsetail; found across Europe, Asia and North America.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The aerial (sterile) stems are cut in summer and dried; because this species is easily confused with other horsetails, including the more toxic marsh horsetail, careful identification is essential before wild-harvesting.",
+    "parts": [
+     "Aerial parts",
+     "Stem"
+    ],
+    "season": "Summer",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Meadow (shady) horsetail shares the broader horsetail genus's traditional folk reputation as a diuretic, astringent and wound-healing herb, though it has been studied far less than field horsetail and has no dedicated clinical evidence base of its own.",
+    "status": "draft"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried aerial stem infused in hot water, following the same traditional preparation as other horsetails.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried aerial stem.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "No species-specific dosing data exist; if used, follow the same conservative short-term dosing as field horsetail (around 2-4 g dried herb per cup) with professional guidance. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -20545,7 +20681,7 @@
    ],
    "provenance": "pubmed",
    "status": "draft",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "shady-horsetail"
   },
   {
@@ -20584,6 +20720,54 @@
      "reference_ids": [
       "REF-2360"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Perennial, spore-bearing plant distinguished within the horsetail genus by its finely and repeatedly branched sterile stems, in which each primary whorled branch itself bears further fine side-branches, giving the plant an especially soft, feathery, almost fern-like appearance. It shares the deep black jointed rhizome typical of the genus.",
+    "height": "20-50 cm",
+    "habit": "Perennial, spore-bearing herb with finely, repeatedly branched, feathery sterile stems",
+    "leaves": "Reduced to small, fused, toothed sheaths at each stem node",
+    "flowers": "None; reproduces by spores borne in a cone on separate fertile stems in spring",
+    "stem": "Slender, hollow, jointed, with repeatedly branched, feathery whorled branches",
+    "root": "Deep, black, jointed rhizome",
+    "fruit": "Spores released from the fertile cone, not a true fruit",
+    "flowering_period": "Not applicable (spore-bearing); fertile stems appear in spring",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Grows in damp woodland, woodland margins and shaded, boggy ground, typically in cooler northern and upland regions; found across Europe, Asia and North America.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The aerial (sterile) stems are cut in summer and dried; because this species is easily confused with other horsetails, including the more toxic marsh horsetail, careful identification is essential before wild-harvesting.",
+    "parts": [
+     "Aerial parts",
+     "Stem"
+    ],
+    "season": "Summer",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Wood horsetail shares the broader horsetail genus's traditional folk reputation as a diuretic, astringent and wound-healing herb, though the species itself is very little studied and has no dedicated clinical evidence base of its own.",
+    "status": "draft"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried aerial stem infused in hot water, following the same traditional preparation as other horsetails.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried aerial stem.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "No species-specific dosing data exist; if used, follow the same conservative short-term dosing as field horsetail (around 2-4 g dried herb per cup) with professional guidance. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -20642,7 +20826,7 @@
    ],
    "provenance": "pubmed",
    "status": "draft",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "wood-horsetail"
   },
   {
@@ -20673,6 +20857,79 @@
       "REF-2307",
       "REF-2316"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Herbaceous perennial (often grown as an annual) with delicate, finely divided, blue-green feathery foliage. Solitary, cup-shaped, four-petalled flowers in vivid orange to yellow arise on long stalks, opening in full sun and closing at night or in dull weather, followed by a long, slender, ridged seed capsule that splits explosively when ripe.",
+    "height": "20-60 cm",
+    "habit": "Herbaceous perennial, often grown as an annual",
+    "leaves": "Finely divided, blue-green, feathery",
+    "flowers": "Solitary, cup-shaped, four-petalled, vivid orange to yellow, opening in sun and closing at night",
+    "stem": "Slender, branching, blue-green",
+    "root": "Deep taproot",
+    "fruit": "Long, slender, ridged seed capsule, dehiscing explosively when ripe",
+    "flowering_period": "Spring to autumn",
+    "reference_ids": [
+     "REF-0427"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to open grassland, coastal scrub and disturbed ground of California and neighbouring states; widely cultivated and naturalised elsewhere as a garden ornamental.",
+    "reference_ids": [
+     "REF-0427"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in summer while in flower, and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0427"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "California poppy has a Native American traditional reputation as a mild calming and pain-relieving remedy, used for insomnia, nervous tension and mild pain; unlike the related opium poppy it is non-addictive and its calming effects are now attributed to GABA-A receptor modulation, supporting its traditional anxiolytic and sedative use.",
+    "reference_ids": [
+     "REF-0427"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a traditional calming, sleep-supporting tea.",
+     "reference_ids": [
+      "REF-0427"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flowering herb; note that alcoholic extracts (unlike the water-based tea) can affect drug-metabolising liver enzymes.",
+     "reference_ids": [
+      "REF-0428"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Concentrated extract, sometimes combined with hawthorn and magnesium, studied in a clinical trial for mild-to-moderate anxiety.",
+     "reference_ids": [
+      "REF-0606"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, taken in the evening for sleep support or through the day for calming effect. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -20832,7 +21089,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "california-poppy"
   },
   {
@@ -20847,6 +21104,93 @@
    "family": "Myrtaceae",
    "parts_used": [
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Large, fast-growing evergreen tree with distinctive two-stage leaves: rounded, silvery-blue juvenile leaves borne in opposite pairs, giving way to narrow, sickle-shaped, aromatic, dark green mature leaves as the tree ages. Small, cream-white, fluffy flowers with numerous stamens are borne singly or in small clusters, followed by a woody, cup-shaped seed capsule ('gum nut').",
+    "height": "Up to 30-55 m",
+    "habit": "Large, fast-growing evergreen tree",
+    "leaves": "Juvenile leaves rounded, silvery-blue, opposite; mature leaves narrow, sickle-shaped, aromatic, dark green",
+    "flowers": "Small, cream-white, fluffy, with numerous stamens",
+    "stem": "Tall trunk with smooth, peeling, often bluish-grey bark",
+    "root": "Deep, extensive root system",
+    "fruit": "Woody, cup-shaped seed capsule ('gum nut')",
+    "flowering_period": "Varies with climate",
+    "reference_ids": [
+     "REF-0224"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to south-eastern Australia and Tasmania; widely planted worldwide in warm-temperate and Mediterranean climates for timber, essential oil production and as an ornamental/windbreak tree.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Mature leaves are picked or pruned year-round and used fresh, dried, or steam-distilled for essential oil, which is the main commercial and medicinal form.",
+    "parts": [
+     "Leaf"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Eucalyptus leaf has a long Australian Aboriginal and, after global spread, worldwide tradition as a respiratory remedy - inhaled as steam or applied as chest rubs for colds, coughs, bronchitis and catarrh - and as a topical antiseptic and rubefacient for minor wounds and muscular aches.",
+    "reference_ids": [
+     "REF-0224"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Steam inhalation",
+     "text": "A few drops of essential oil, or fresh/dried leaf, added to hot water and the vapour inhaled for respiratory congestion; the classic and best-established use.",
+     "reference_ids": [
+      "REF-0224"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Topical chest rub/ointment",
+     "text": "Diluted essential oil in a carrier oil or standardised ointment applied to the chest and back for coughs and colds.",
+     "reference_ids": [
+      "REF-0224"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (leaf)",
+     "text": "Dried leaf infused in hot water as a milder traditional respiratory tea.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Steam inhalation",
+     "text": "A few drops of essential oil (or a handful of leaf) added to a bowl of hot water, inhaled for several minutes as needed; the oil is never taken internally or applied undiluted to skin, and is avoided in infants and young children. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (1,8-cineole/eucalyptol)",
+     "compounds": [
+      "essential-oil",
+      "cineole"
+     ],
+     "note": "Leaf essential oil dominated by 1,8-cineole (eucalyptol, typically 70%+), the principal compound responsible for the plant's antimicrobial, anti-inflammatory and expectorant/decongestant activity.",
+     "reference_ids": [
+      "REF-0224"
+     ]
+    },
+    {
+     "name": "Flavonoids and tannins",
+     "compounds": [
+      "flavonoid",
+      "tannin"
+     ],
+     "note": "Antioxidant and astringent constituents of the leaf.",
+     "reference_ids": [
+      "REF-0224"
+     ]
+    }
    ],
    "actions": [
     {
@@ -21057,7 +21401,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "blue-gum-eucalyptus"
   },
   {

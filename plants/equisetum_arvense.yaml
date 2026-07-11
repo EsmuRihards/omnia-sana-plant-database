@@ -10,6 +10,79 @@ family: Equisetaceae
 parts_used:
 - Stem
 - Whole Plant
+botanical_description:
+  text: Perennial, spore-bearing (non-flowering) plant with two distinct stem types arising from a deep,
+    black, jointed rhizome. In early spring, unbranched, pale brownish fertile stems appear first, each
+    topped with a spore-bearing cone, and die back once spores are shed; these are followed by the familiar
+    green, hollow, jointed, ridged sterile stems bearing whorls of thin, needle-like branches at each
+    node, giving a bottlebrush appearance.
+  height: 20-80 cm (sterile stems)
+  habit: Perennial, spore-bearing (non-flowering) herb with separate fertile and sterile stems
+  leaves: Reduced to small, fused, toothed sheaths at each stem node (true leaves absent)
+  flowers: None; reproduces by spores borne in a cone atop the unbranched fertile spring stems
+  stem: Hollow, jointed, ridged green sterile stems with whorled branches; separate pale unbranched fertile
+    stems in spring
+  root: Deep, black, jointed, far-spreading rhizome
+  fruit: Spores released from the fertile cone, not a true fruit
+  flowering_period: Not applicable (spore-bearing); fertile stems appear in early spring
+  status: draft
+habitat:
+  text: Grows in damp grassland, waste ground, riverbanks, roadsides and disturbed soil on a wide range
+    of soils; native and common across the temperate Northern Hemisphere (Europe, Asia, North America).
+  status: draft
+harvesting:
+  text: The green sterile stems are cut in summer, at their most vigorous, and dried quickly in a warm,
+    shaded, airy place; careful identification against the more toxic marsh horsetail (Equisetum palustre),
+    which grows in similar damp ground, is essential before wild-harvesting.
+  parts:
+  - Stem
+  - Whole Plant
+  season: Summer, when sterile stems are fully grown
+  status: draft
+traditional_uses:
+  text: Field horsetail has a long European folk history as a diuretic remedy for urinary gravel and mild
+    fluid retention, as an astringent, anti-inflammatory and vulnerary herb for wounds and connective-tissue
+    support, and, owing to its very high silica content, as a traditional tonic for hair, nails and skin.
+  reference_ids:
+  - REF-0041
+  status: verified
+preparations:
+- name: Decoction/infusion
+  text: Dried sterile stem simmered or infused in hot water as a traditional diuretic and connective-tissue-support
+    tea.
+  reference_ids:
+  - REF-0041
+  status: verified
+- name: Poultice/wash
+  text: Crushed or infused herb used topically as a wash or poultice for wounds and skin irritation.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried sterile stem.
+  status: draft
+dosage:
+- name: Decoction/infusion
+  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily,
+    for short-term use only, with adequate fluid intake. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Silica (silicic acid)
+  compounds:
+  - silica
+  note: Field horsetail is exceptionally rich in silica, concentrated in the stem, and is a signature
+    source of this mineral in Western herbal medicine.
+  reference_ids:
+  - REF-0041
+- name: Flavonoids
+  compounds:
+  - flavonoid
+  note: Antioxidant flavonoids contributing to the plant's anti-inflammatory activity.
+  reference_ids:
+  - REF-0041
+- name: Thiaminase
+  note: An enzyme that degrades vitamin B1 (thiamine); the basis of the caution against prolonged or excessive
+    use.
+  reference_ids:
+  - REF-0041
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -197,13 +270,30 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: equisetum-palustre
   severity: dangerous
-  confused_part: Sterile green stems gathered and dried for horsetail tea; toxic marsh horsetail looks very similar and grows in the same damp ground.
-  confusion_context: Field horsetail (Equisetum arvense) is gathered for horsetail tea, but horsetails are notoriously hard to tell apart, and marsh horsetail (Equisetum palustre) - one of the most poisonous plants of wet grasslands - grows in the same damp habitat and looks very similar. Marsh horsetail contains the alkaloids palustrine and palustridiene plus high thiaminase (which destroys vitamin B1); it is a well-known livestock poison, and peer-reviewed work stresses that medicinal horsetail must be properly authenticated and differentiated from the more toxic marsh horsetail, which can adulterate herbal material. Because the species are so alike, unverified wild horsetail is a real hazard.
+  confused_part: Sterile green stems gathered and dried for horsetail tea; toxic marsh horsetail looks
+    very similar and grows in the same damp ground.
+  confusion_context: Field horsetail (Equisetum arvense) is gathered for horsetail tea, but horsetails
+    are notoriously hard to tell apart, and marsh horsetail (Equisetum palustre) - one of the most poisonous
+    plants of wet grasslands - grows in the same damp habitat and looks very similar. Marsh horsetail
+    contains the alkaloids palustrine and palustridiene plus high thiaminase (which destroys vitamin B1);
+    it is a well-known livestock poison, and peer-reviewed work stresses that medicinal horsetail must
+    be properly authenticated and differentiated from the more toxic marsh horsetail, which can adulterate
+    herbal material. Because the species are so alike, unverified wild horsetail is a real hazard.
   distinguishing_features:
-  - 'Branch teeth: marsh horsetail (the toxic one) has 5-6 teeth on each branch sheath that lie flat (appressed) against the branch. Broad, spreading teeth in threes or fours indicate a non-toxic horsetail rather than marsh horsetail.'
-  - 'Branches solid vs hollow: marsh horsetail has hollow branches, whereas field horsetail''s branches are solid. A hollow first branch segment is a warning sign.'
-  - 'First branch segment vs sheath: on marsh horsetail the lowest segment of each side branch is short - shorter than or about equal to the stem sheath it emerges from. A first branch segment clearly longer than the sheath indicates it is NOT marsh horsetail. Marsh horsetail also favours wet, marshy ground and fens.'
-  key_test: 'Because horsetails are so alike and marsh horsetail is poisonous, only use wild horsetail if you can positively exclude marsh horsetail (Equisetum palustre): confirm branch sheaths have 3-4 spreading teeth (not 5-6 flat-lying ones), solid (not hollow) branches, and a first branch segment longer than the stem sheath. If you cannot confirm all of these - or the plant grows in wet, marshy ground - do not use it.'
+  - 'Branch teeth: marsh horsetail (the toxic one) has 5-6 teeth on each branch sheath that lie flat (appressed)
+    against the branch. Broad, spreading teeth in threes or fours indicate a non-toxic horsetail rather
+    than marsh horsetail.'
+  - 'Branches solid vs hollow: marsh horsetail has hollow branches, whereas field horsetail''s branches
+    are solid. A hollow first branch segment is a warning sign.'
+  - 'First branch segment vs sheath: on marsh horsetail the lowest segment of each side branch is short
+    - shorter than or about equal to the stem sheath it emerges from. A first branch segment clearly longer
+    than the sheath indicates it is NOT marsh horsetail. Marsh horsetail also favours wet, marshy ground
+    and fens.'
+  key_test: 'Because horsetails are so alike and marsh horsetail is poisonous, only use wild horsetail
+    if you can positively exclude marsh horsetail (Equisetum palustre): confirm branch sheaths have 3-4
+    spreading teeth (not 5-6 flat-lying ones), solid (not hollow) branches, and a first branch segment
+    longer than the stem sheath. If you cannot confirm all of these - or the plant grows in wet, marshy
+    ground - do not use it.'
   reference_ids:
   - REF-2678
   - REF-2676
@@ -213,7 +303,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -221,4 +311,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1398, REF-0727, REF-1399, REF-1400, REF-1401,
   REF-1402, REF-1403, REF-1404, REF-1405, REF-1406) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

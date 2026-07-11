@@ -20,6 +20,69 @@ constituents:
   - REF-2306
   - REF-2307
   - REF-2316
+botanical_description:
+  text: Herbaceous perennial (often grown as an annual) with delicate, finely divided, blue-green feathery
+    foliage. Solitary, cup-shaped, four-petalled flowers in vivid orange to yellow arise on long stalks,
+    opening in full sun and closing at night or in dull weather, followed by a long, slender, ridged seed
+    capsule that splits explosively when ripe.
+  height: 20-60 cm
+  habit: Herbaceous perennial, often grown as an annual
+  leaves: Finely divided, blue-green, feathery
+  flowers: Solitary, cup-shaped, four-petalled, vivid orange to yellow, opening in sun and closing at
+    night
+  stem: Slender, branching, blue-green
+  root: Deep taproot
+  fruit: Long, slender, ridged seed capsule, dehiscing explosively when ripe
+  flowering_period: Spring to autumn
+  reference_ids:
+  - REF-0427
+  status: verified
+habitat:
+  text: Native to open grassland, coastal scrub and disturbed ground of California and neighbouring states;
+    widely cultivated and naturalised elsewhere as a garden ornamental.
+  reference_ids:
+  - REF-0427
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut in summer while in flower, and dried in a warm, shaded, airy
+    place.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Summer, at flowering
+  reference_ids:
+  - REF-0427
+  status: verified
+traditional_uses:
+  text: California poppy has a Native American traditional reputation as a mild calming and pain-relieving
+    remedy, used for insomnia, nervous tension and mild pain; unlike the related opium poppy it is non-addictive
+    and its calming effects are now attributed to GABA-A receptor modulation, supporting its traditional
+    anxiolytic and sedative use.
+  reference_ids:
+  - REF-0427
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional calming, sleep-supporting tea.
+  reference_ids:
+  - REF-0427
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried flowering herb; note that alcoholic extracts (unlike the water-based
+    tea) can affect drug-metabolising liver enzymes.
+  reference_ids:
+  - REF-0428
+  status: draft
+- name: Standardised extract
+  text: Concentrated extract, sometimes combined with hawthorn and magnesium, studied in a clinical trial
+    for mild-to-moderate anxiety.
+  reference_ids:
+  - REF-0606
+  status: verified
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, taken in the evening
+    for sleep support or through the day for calming effect. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: analgesic
   note: Mild analgesic (traditional use for pain)
@@ -111,7 +174,8 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'California poppy has calming, sedative effects; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: California poppy has calming, sedative effects; taken with sedatives, sleeping tablets or
+    other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -124,7 +188,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor pharmacology study; CYP/P-gp/PXR
   herb-drug-interaction study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (insomnia, anxiety, nervous-tension, pain); associations retained and now part-mapped and
@@ -135,4 +199,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor
   references to the plant-level references bucket (least-cited enrichment): REF-0806, REF-0807, REF-0808.
   | 2026-06-20: enriched to >=10 scientific publications: added 6 PubMed-verified @article sources (REF-0807,
   REF-0806, REF-2305, REF-0808, REF-2306, REF-2307) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

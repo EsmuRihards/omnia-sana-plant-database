@@ -8,6 +8,78 @@ common_names:
 family: Myrtaceae
 parts_used:
 - Leaf
+botanical_description:
+  text: 'Large, fast-growing evergreen tree with distinctive two-stage leaves: rounded, silvery-blue juvenile
+    leaves borne in opposite pairs, giving way to narrow, sickle-shaped, aromatic, dark green mature leaves
+    as the tree ages. Small, cream-white, fluffy flowers with numerous stamens are borne singly or in
+    small clusters, followed by a woody, cup-shaped seed capsule (''gum nut'').'
+  height: Up to 30-55 m
+  habit: Large, fast-growing evergreen tree
+  leaves: Juvenile leaves rounded, silvery-blue, opposite; mature leaves narrow, sickle-shaped, aromatic,
+    dark green
+  flowers: Small, cream-white, fluffy, with numerous stamens
+  stem: Tall trunk with smooth, peeling, often bluish-grey bark
+  root: Deep, extensive root system
+  fruit: Woody, cup-shaped seed capsule ('gum nut')
+  flowering_period: Varies with climate
+  reference_ids:
+  - REF-0224
+  status: verified
+habitat:
+  text: Native to south-eastern Australia and Tasmania; widely planted worldwide in warm-temperate and
+    Mediterranean climates for timber, essential oil production and as an ornamental/windbreak tree.
+  status: draft
+harvesting:
+  text: Mature leaves are picked or pruned year-round and used fresh, dried, or steam-distilled for essential
+    oil, which is the main commercial and medicinal form.
+  parts:
+  - Leaf
+  status: draft
+traditional_uses:
+  text: Eucalyptus leaf has a long Australian Aboriginal and, after global spread, worldwide tradition
+    as a respiratory remedy - inhaled as steam or applied as chest rubs for colds, coughs, bronchitis
+    and catarrh - and as a topical antiseptic and rubefacient for minor wounds and muscular aches.
+  reference_ids:
+  - REF-0224
+  status: verified
+preparations:
+- name: Steam inhalation
+  text: A few drops of essential oil, or fresh/dried leaf, added to hot water and the vapour inhaled for
+    respiratory congestion; the classic and best-established use.
+  reference_ids:
+  - REF-0224
+  status: verified
+- name: Topical chest rub/ointment
+  text: Diluted essential oil in a carrier oil or standardised ointment applied to the chest and back
+    for coughs and colds.
+  reference_ids:
+  - REF-0224
+  status: verified
+- name: Infusion (leaf)
+  text: Dried leaf infused in hot water as a milder traditional respiratory tea.
+  status: draft
+dosage:
+- name: Steam inhalation
+  text: A few drops of essential oil (or a handful of leaf) added to a bowl of hot water, inhaled for
+    several minutes as needed; the oil is never taken internally or applied undiluted to skin, and is
+    avoided in infants and young children. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Essential oil (1,8-cineole/eucalyptol)
+  compounds:
+  - essential-oil
+  - cineole
+  note: Leaf essential oil dominated by 1,8-cineole (eucalyptol, typically 70%+), the principal compound
+    responsible for the plant's antimicrobial, anti-inflammatory and expectorant/decongestant activity.
+  reference_ids:
+  - REF-0224
+- name: Flavonoids and tannins
+  compounds:
+  - flavonoid
+  - tannin
+  note: Antioxidant and astringent constituents of the leaf.
+  reference_ids:
+  - REF-0224
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -161,7 +233,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -170,4 +242,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0809, REF-0810, REF-0811.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2022,
   REF-0810, REF-2023, REF-0809, REF-0811, REF-2024, REF-2025, REF-2026, REF-2027, REF-2028, REF-2029)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

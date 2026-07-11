@@ -8,6 +8,82 @@ parts_used:
 - Flower
 - Leaf
 - Stem
+botanical_description:
+  text: Aromatic, semi-woody perennial subshrub with slender, upright, square stems typical of the mint
+    family. The leaves are narrow, lance-shaped and highly aromatic. Small, two-lipped, violet-blue (occasionally
+    pink or white) flowers are borne in dense whorled spikes along the upper stem.
+  height: 30-60 cm
+  habit: Aromatic, semi-woody perennial subshrub
+  leaves: Narrow, lance-shaped, highly aromatic
+  flowers: Small, two-lipped, violet-blue (occasionally pink or white), in dense whorled spikes
+  stem: Slender, upright, square (typical of the mint family), semi-woody at the base
+  root: Woody rootstock
+  fruit: Small nutlet (typical of Lamiaceae)
+  flowering_period: June-September
+  reference_ids:
+  - REF-0845
+  status: verified
+habitat:
+  text: Grows on dry, sunny, rocky or calcareous slopes and banks; native to southern Europe, the Mediterranean
+    region and Central Asia, and widely cultivated as a culinary and medicinal herb.
+  reference_ids:
+  - REF-0845
+  status: verified
+harvesting:
+  text: The flowering aerial parts (leaf, stem and flower) are cut in summer as the plant comes into flower,
+    when essential oil content is highest, and dried in a warm, shaded, airy place.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Summer, at flowering
+  reference_ids:
+  - REF-0845
+  status: verified
+traditional_uses:
+  text: Hyssop has an ancient Mediterranean and biblical reputation as a cleansing, aromatic herb, traditionally
+    used as an expectorant and antimicrobial remedy for coughs, bronchitis and respiratory catarrh, and
+    as a digestive bitter and mild antiviral herb, notably for cold sores (herpes simplex).
+  reference_ids:
+  - REF-0845
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional expectorant and digestive tea.
+  reference_ids:
+  - REF-0845
+  status: verified
+- name: Essential oil
+  text: Steam-distilled from the flowering herb; internal use restricted to very small, professionally
+    guided doses given its neurotoxic potential at higher doses.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried flowering herb.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-3 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription. The essential oil is not for unsupervised internal
+    use.
+  status: draft
+constituents:
+- name: Essential oil (pinocamphone, isopinocamphone)
+  compounds:
+  - essential-oil
+  - camphor
+  note: Volatile oil containing the ketones pinocamphone and isopinocamphone, giving the characteristic
+    aroma but also responsible for the neurotoxic/convulsant risk of the essential oil at high internal
+    doses.
+  reference_ids:
+  - REF-0845
+- name: Flavonoids and phenolic acids (rosmarinic acid)
+  compounds:
+  - flavonoid
+  - rosmarinic-acid
+  - phenolic-acid
+  note: Antioxidant constituents contributing to the plant's antimicrobial and anti-inflammatory activity.
+  reference_ids:
+  - REF-0845
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -107,7 +183,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -116,4 +192,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0845, REF-0846, REF-0847.
   | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources (REF-1800,
   REF-1801, REF-1802, REF-1803, REF-1804, REF-1805, REF-1806, REF-1807, REF-1808) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

@@ -28649,6 +28649,100 @@
     "Leaf",
     "Stem"
    ],
+   "botanical_description": {
+    "text": "Aromatic, semi-woody perennial subshrub with slender, upright, square stems typical of the mint family. The leaves are narrow, lance-shaped and highly aromatic. Small, two-lipped, violet-blue (occasionally pink or white) flowers are borne in dense whorled spikes along the upper stem.",
+    "height": "30-60 cm",
+    "habit": "Aromatic, semi-woody perennial subshrub",
+    "leaves": "Narrow, lance-shaped, highly aromatic",
+    "flowers": "Small, two-lipped, violet-blue (occasionally pink or white), in dense whorled spikes",
+    "stem": "Slender, upright, square (typical of the mint family), semi-woody at the base",
+    "root": "Woody rootstock",
+    "fruit": "Small nutlet (typical of Lamiaceae)",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0845"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry, sunny, rocky or calcareous slopes and banks; native to southern Europe, the Mediterranean region and Central Asia, and widely cultivated as a culinary and medicinal herb.",
+    "reference_ids": [
+     "REF-0845"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts (leaf, stem and flower) are cut in summer as the plant comes into flower, when essential oil content is highest, and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0845"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Hyssop has an ancient Mediterranean and biblical reputation as a cleansing, aromatic herb, traditionally used as an expectorant and antimicrobial remedy for coughs, bronchitis and respiratory catarrh, and as a digestive bitter and mild antiviral herb, notably for cold sores (herpes simplex).",
+    "reference_ids": [
+     "REF-0845"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a traditional expectorant and digestive tea.",
+     "reference_ids": [
+      "REF-0845"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the flowering herb; internal use restricted to very small, professionally guided doses given its neurotoxic potential at higher doses.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flowering herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-3 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription. The essential oil is not for unsupervised internal use.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (pinocamphone, isopinocamphone)",
+     "compounds": [
+      "essential-oil",
+      "camphor"
+     ],
+     "note": "Volatile oil containing the ketones pinocamphone and isopinocamphone, giving the characteristic aroma but also responsible for the neurotoxic/convulsant risk of the essential oil at high internal doses.",
+     "reference_ids": [
+      "REF-0845"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic acids (rosmarinic acid)",
+     "compounds": [
+      "flavonoid",
+      "rosmarinic-acid",
+      "phenolic-acid"
+     ],
+     "note": "Antioxidant constituents contributing to the plant's antimicrobial and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-0845"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -28789,7 +28883,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "hyssop"
   },
   {
@@ -28805,6 +28899,98 @@
    "parts_used": [
     "Mycelium",
     "Whole Plant"
+   ],
+   "botanical_description": {
+    "text": "Parasitic wood-decay fungus (not a true plant) that grows almost entirely inside the trunk of living birch trees, visible externally only as a hard, black, cracked, charcoal-like mass (a sclerotium, sometimes called a 'conk') erupting through the bark. Unlike typical mushrooms, chaga has no true cap, gills or stem; its fertile spore-producing surface develops later, hidden beneath the bark after the tree dies.",
+    "height": "External mass 10-40 cm",
+    "habit": "Parasitic wood-decay fungus, growing mostly inside the host tree",
+    "leaves": "Not applicable (fungus)",
+    "flowers": "Not applicable (fungus); reproduces by spores",
+    "stem": "No true cap-and-stem structure; visible only as a hard black external mass (sclerotium)",
+    "root": "Fungal mycelium spreading through the living wood of the host tree",
+    "fruit": "Fertile spore-producing layer develops hidden beneath the bark, typically after the host tree dies",
+    "flowering_period": "The visible black mass persists and grows for years; not a seasonal fruiting body",
+    "reference_ids": [
+     "REF-0848"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows almost exclusively as a parasite on living birch trees in cold, northern temperate and boreal forests of Europe, Russia, North America and Asia.",
+    "reference_ids": [
+     "REF-0848"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The hard black external mass (conk) is chopped or broken away from the living birch trunk, ideally without killing the tree, then dried and broken into pieces or ground for use; sustainable harvesting (leaving part of the conk to regrow) is recommended given the fungus's slow growth.",
+    "parts": [
+     "Mycelium",
+     "Whole Plant"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Chaga has a long traditional use in Russian, Siberian, Baltic and Scandinavian folk medicine as a tonic remedy for digestive complaints, immune support and general vitality, traditionally taken as a dark, tea-like decoction; this traditional tonic reputation is now studied for its antioxidant, immunomodulatory and anti-inflammatory properties.",
+    "reference_ids": [
+     "REF-0848",
+     "REF-2195"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Chunks of the dried black conk simmered gently in water for an extended period, producing a dark, tea-like traditional tonic.",
+     "reference_ids": [
+      "REF-0848"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Extract standardised to polysaccharide or polyphenol content, taken as capsules or powder.",
+     "reference_ids": [
+      "REF-2195"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction",
+     "text": "Traditional references suggest simmering a small handful of chaga chunks (roughly 5-10 g) in water for an extended period, drunk as a daily tonic tea. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Melanin-rich pigments and betulinic acid derivatives",
+     "note": "Chaga's dark colour comes from melanin-like pigments; it also concentrates betulinic-acid-type triterpenes absorbed from its birch host, associated with antioxidant and anticancer research interest.",
+     "reference_ids": [
+      "REF-0848"
+     ]
+    },
+    {
+     "name": "Polysaccharides (beta-glucans)",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Immunomodulatory polysaccharides contributing to the traditional tonic and immune-support use.",
+     "reference_ids": [
+      "REF-2195"
+     ]
+    },
+    {
+     "name": "Phenolic compounds",
+     "compounds": [
+      "phenolic-compound"
+     ],
+     "note": "Antioxidant phenolics contributing to chaga's free-radical-scavenging activity.",
+     "reference_ids": [
+      "REF-2195"
+     ]
+    }
    ],
    "actions": [
     {
@@ -28994,7 +29180,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "chaga"
   },
   {
@@ -29045,6 +29231,73 @@
      "reference_ids": [
       "REF-0445"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Tall, robust perennial herb with large, coarse, hairy leaves - broadly oval near the base and progressively smaller up the stem - arising from a thick, aromatic rhizome. Large, shaggy, bright yellow daisy-like flower heads with numerous narrow ray florets are borne at the top of stout, branching stems.",
+    "height": "1-2.5 m",
+    "habit": "Tall, robust, coarse-leaved perennial herb",
+    "leaves": "Large, coarse, hairy, broadly oval near the base, smaller up the stem",
+    "flowers": "Large, shaggy, bright yellow daisy-like heads with numerous narrow ray florets",
+    "stem": "Stout, branching, hairy",
+    "root": "Thick, aromatic, branching rhizome (the medicinal part)",
+    "fruit": "Small achene with a pappus",
+    "flowering_period": "July-August",
+    "reference_ids": [
+     "REF-0445"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in damp meadows, pastures, roadsides and woodland margins on moist, rich soils; native to Europe and Western Asia and naturalised in North America.",
+    "reference_ids": [
+     "REF-0445"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root and rhizome are dug in autumn of the second or later year, when sesquiterpene lactone and inulin content is highest, then cleaned, sliced and dried.",
+    "parts": [
+     "Root and rhizome"
+    ],
+    "season": "Autumn, from second-year or older plants",
+    "reference_ids": [
+     "REF-0445"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Elecampane root has a long European tradition, reflected in the old name 'elf dock', as a warming expectorant remedy for productive cough, bronchitis and chronic respiratory catarrh, and topically and internally as an antimicrobial for skin and wound infections.",
+    "reference_ids": [
+     "REF-0445"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried root simmered in water as a traditional expectorant and antimicrobial tea.",
+     "reference_ids": [
+      "REF-0445"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root.",
+     "status": "draft"
+    },
+    {
+     "name": "Syrup",
+     "text": "Root decoction combined with honey or sugar syrup as a soothing cough remedy, especially for children.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction",
+     "text": "Traditional herbal references suggest around 1-3 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -29205,7 +29458,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "elecampane"
   },
   {
@@ -29224,6 +29477,90 @@
     "Fruit",
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Evergreen coniferous shrub or small tree, often low and sprawling, with sharp, needle-like leaves in whorls of three, each bearing a single white band on the upper surface. The plant is dioecious; female plants bear small, round, fleshy, berry-like cones ('juniper berries') that take two to three years to ripen from green to blue-black.",
+    "height": "1-10 m, highly variable (often a low sprawling shrub)",
+    "habit": "Evergreen coniferous shrub or small tree, often sprawling",
+    "leaves": "Sharp, needle-like, in whorls of three, each with a single white band above",
+    "flowers": "Dioecious, wind-pollinated, inconspicuous",
+    "stem": "Woody, often sprawling or low-growing, reddish-brown bark",
+    "root": "Woody, spreading root system",
+    "fruit": "Round, fleshy, berry-like cone, ripening blue-black over two to three years",
+    "flowering_period": "Spring",
+    "reference_ids": [
+     "REF-0851"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on heath, moorland, rocky hillsides and open coniferous woodland on poor, often calcareous soils; one of the most widely distributed conifers, native across the Northern Hemisphere from Europe and Asia to North America.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The ripe, blue-black berry-like cones are hand-picked in autumn, typically in their second or third year of ripening (a mix of ages is often present on the same shrub); leaves and young stems can be gathered through the growing season.",
+    "parts": [
+     "Fruit",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Fruit in autumn, when fully ripe (blue-black)",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Juniper berry has a long European tradition as a diuretic and urinary antiseptic for minor urinary complaints, a warming digestive carminative for indigestion and bloating, and a flavouring for gin and other spirits; the leaf and wood have also been burned or used topically for their antimicrobial properties.",
+    "reference_ids": [
+     "REF-0851"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (berries)",
+     "text": "Crushed ripe berries infused in hot water as a traditional diuretic and digestive tea, for short-term use only.",
+     "status": "draft"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the berries; used in small internal doses for short periods or diluted for topical/aromatic use.",
+     "reference_ids": [
+      "REF-0851"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Dried berries used as a food spice and the classic flavouring for gin.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Berry infusion",
+     "text": "The EU herbal monograph and traditional references limit use to short courses of a few weeks, with adequate fluid intake, typically around 2-10 g crushed berries daily; not for use in kidney disease or pregnancy. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (alpha-pinene, sabinene, limonene)",
+     "compounds": [
+      "essential-oil",
+      "terpene"
+     ],
+     "note": "Berry essential oil dominated by alpha-pinene, beta-pinene, sabinene and limonene, giving the characteristic aroma and the antimicrobial activity.",
+     "reference_ids": [
+      "REF-0851"
+     ]
+    },
+    {
+     "name": "Flavonoids and tannins",
+     "compounds": [
+      "flavonoid",
+      "tannin"
+     ],
+     "note": "Antioxidant and astringent supporting constituents."
+    }
    ],
    "actions": [
     {
@@ -29438,7 +29775,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "common-juniper"
   },
   {
@@ -29753,6 +30090,76 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Tall, bristly biennial herb with a milky latex throughout, and prickly-edged, often blue-green leaves that tend to twist to align edge-on with the sun ('compass plant' habit). Small, pale yellow, dandelion-like flower heads are borne in loose branched clusters atop a tall, spiny-stemmed flowering stalk.",
+    "height": "1-2 m",
+    "habit": "Tall, bristly biennial herb; low rosette in year one, tall flowering stem in year two",
+    "leaves": "Prickly-edged, often blue-green, sometimes twisting edge-on to the sun",
+    "flowers": "Small, pale yellow, dandelion-like flower heads in loose branched clusters",
+    "stem": "Tall, spiny, exuding milky white latex when cut",
+    "root": "Taproot",
+    "fruit": "Small achene with a feathery pappus",
+    "flowering_period": "July-September (second year)",
+    "reference_ids": [
+     "REF-0526"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry waste ground, roadsides, hedgerows and disturbed soil; native to Europe, North Africa and Western Asia and naturalised in North America.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The milky latex is traditionally collected by scoring the flowering stem and letting the exuded sap dry into lactucarium; the aerial parts (leaf and stem) are also cut and dried while the plant is flowering.",
+    "parts": [
+     "Aerial parts and dried latex (lactucarium)"
+    ],
+    "season": "Flowering (second year); latex collected by scoring the stem",
+    "reference_ids": [
+     "REF-0526"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Wild lettuce has a long folk history, reflected in the name 'opium lettuce', as a mild sedative and analgesic remedy for insomnia, nervous tension and pain, and as an antitussive for irritable dry cough, its dried latex (lactucarium) once used as a milder, non-addictive alternative to opium.",
+    "reference_ids": [
+     "REF-0526"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried aerial parts infused in hot water as a traditional calming, sleep-supporting tea.",
+     "reference_ids": [
+      "REF-0526"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried aerial parts or lactucarium.",
+     "status": "draft"
+    },
+    {
+     "name": "Lactucarium (historical)",
+     "text": "Dried milky latex, the classic historical preparation, used cautiously given its overdose toxicity.",
+     "reference_ids": [
+      "REF-0527"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Because of documented overdose toxicity (rapid heartbeat, heavy sedation, breathing difficulty), only conservative traditional herbal doses should be used and this herb should not be self-dosed at concentrated or extract strength without professional guidance. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0527"
+     ],
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "analgesic",
@@ -29936,7 +30343,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "wild-lettuce"
   },
   {

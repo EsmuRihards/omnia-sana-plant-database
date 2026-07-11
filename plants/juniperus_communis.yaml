@@ -12,6 +12,79 @@ parts_used:
 - Fruit
 - Leaf
 - Stem
+botanical_description:
+  text: Evergreen coniferous shrub or small tree, often low and sprawling, with sharp, needle-like leaves
+    in whorls of three, each bearing a single white band on the upper surface. The plant is dioecious;
+    female plants bear small, round, fleshy, berry-like cones ('juniper berries') that take two to three
+    years to ripen from green to blue-black.
+  height: 1-10 m, highly variable (often a low sprawling shrub)
+  habit: Evergreen coniferous shrub or small tree, often sprawling
+  leaves: Sharp, needle-like, in whorls of three, each with a single white band above
+  flowers: Dioecious, wind-pollinated, inconspicuous
+  stem: Woody, often sprawling or low-growing, reddish-brown bark
+  root: Woody, spreading root system
+  fruit: Round, fleshy, berry-like cone, ripening blue-black over two to three years
+  flowering_period: Spring
+  reference_ids:
+  - REF-0851
+  status: verified
+habitat:
+  text: Grows on heath, moorland, rocky hillsides and open coniferous woodland on poor, often calcareous
+    soils; one of the most widely distributed conifers, native across the Northern Hemisphere from Europe
+    and Asia to North America.
+  status: draft
+harvesting:
+  text: The ripe, blue-black berry-like cones are hand-picked in autumn, typically in their second or
+    third year of ripening (a mix of ages is often present on the same shrub); leaves and young stems
+    can be gathered through the growing season.
+  parts:
+  - Fruit
+  - Leaf
+  - Stem
+  season: Fruit in autumn, when fully ripe (blue-black)
+  status: draft
+traditional_uses:
+  text: Juniper berry has a long European tradition as a diuretic and urinary antiseptic for minor urinary
+    complaints, a warming digestive carminative for indigestion and bloating, and a flavouring for gin
+    and other spirits; the leaf and wood have also been burned or used topically for their antimicrobial
+    properties.
+  reference_ids:
+  - REF-0851
+  status: verified
+preparations:
+- name: Infusion (berries)
+  text: Crushed ripe berries infused in hot water as a traditional diuretic and digestive tea, for short-term
+    use only.
+  status: draft
+- name: Essential oil
+  text: Steam-distilled from the berries; used in small internal doses for short periods or diluted for
+    topical/aromatic use.
+  reference_ids:
+  - REF-0851
+  status: verified
+- name: Culinary use
+  text: Dried berries used as a food spice and the classic flavouring for gin.
+  status: draft
+dosage:
+- name: Berry infusion
+  text: The EU herbal monograph and traditional references limit use to short courses of a few weeks,
+    with adequate fluid intake, typically around 2-10 g crushed berries daily; not for use in kidney disease
+    or pregnancy. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Essential oil (alpha-pinene, sabinene, limonene)
+  compounds:
+  - essential-oil
+  - terpene
+  note: Berry essential oil dominated by alpha-pinene, beta-pinene, sabinene and limonene, giving the
+    characteristic aroma and the antimicrobial activity.
+  reference_ids:
+  - REF-0851
+- name: Flavonoids and tannins
+  compounds:
+  - flavonoid
+  - tannin
+  note: Antioxidant and astringent supporting constituents.
 actions:
 - action: antimicrobial
   reference_ids:
@@ -156,13 +229,30 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: juniperus-sabina
   severity: dangerous
-  confused_part: Berry-like cones ('juniper berries') and foliage harvested for flavouring or tea; the toxic ornamental savin juniper is easily taken for edible common juniper, especially in gardens and parks.
-  confusion_context: 'Common juniper (Juniperus communis) berries flavour food and gin, but not all junipers are edible. Savin juniper (Juniperus sabina) is a low, spreading ornamental juniper that is genuinely poisonous: a peer-reviewed analysis (Zheljazkov et al., 2021) found the antimitotic cell poison podophyllotoxin in savin but NOT in common juniper, and savin also contains irritant terpenes (sabinene, sabinol) and has long been a dangerous abortifacient. Because savin is widely planted in yards, parks and landscaping, ''juniper berries'' picked from cultivated shrubs can be this toxic species; foraging guidance stresses positively identifying the species before eating any juniper.'
+  confused_part: Berry-like cones ('juniper berries') and foliage harvested for flavouring or tea; the
+    toxic ornamental savin juniper is easily taken for edible common juniper, especially in gardens and
+    parks.
+  confusion_context: 'Common juniper (Juniperus communis) berries flavour food and gin, but not all junipers
+    are edible. Savin juniper (Juniperus sabina) is a low, spreading ornamental juniper that is genuinely
+    poisonous: a peer-reviewed analysis (Zheljazkov et al., 2021) found the antimitotic cell poison podophyllotoxin
+    in savin but NOT in common juniper, and savin also contains irritant terpenes (sabinene, sabinol)
+    and has long been a dangerous abortifacient. Because savin is widely planted in yards, parks and landscaping,
+    ''juniper berries'' picked from cultivated shrubs can be this toxic species; foraging guidance stresses
+    positively identifying the species before eating any juniper.'
   distinguishing_features:
-  - 'Foliage (decisive): edible common juniper has sharp-pointed NEEDLE-like leaves in whorls of three, each with a single white band on the upper surface. Savin and most ornamental junipers have soft, SCALE-like leaves pressed against the twig. Whorls of three sharp needles = common juniper; scale-like foliage = a juniper to avoid.'
-  - 'Smell: savin foliage has an acrid, unpleasant (foetid) smell when crushed, unlike the clean gin-like aroma of common juniper.'
-  - 'Habit: common juniper is a bushy shrub or small tree of wild heath and hillside; savin is a low, wide-spreading ornamental grown in gardens and municipal planting.'
-  key_test: Check the leaves. Sharp needle-like leaves in whorls of three (with a white band on top) = common juniper, the edible one. Soft scale-like foliage hugging the twig - especially on a low spreading shrub in a garden or park - with an acrid smell when crushed = a juniper to avoid such as savin (Juniperus sabina), which is toxic. Never eat juniper berries unless you have confirmed the species is common juniper.
+  - 'Foliage (decisive): edible common juniper has sharp-pointed NEEDLE-like leaves in whorls of three,
+    each with a single white band on the upper surface. Savin and most ornamental junipers have soft,
+    SCALE-like leaves pressed against the twig. Whorls of three sharp needles = common juniper; scale-like
+    foliage = a juniper to avoid.'
+  - 'Smell: savin foliage has an acrid, unpleasant (foetid) smell when crushed, unlike the clean gin-like
+    aroma of common juniper.'
+  - 'Habit: common juniper is a bushy shrub or small tree of wild heath and hillside; savin is a low,
+    wide-spreading ornamental grown in gardens and municipal planting.'
+  key_test: Check the leaves. Sharp needle-like leaves in whorls of three (with a white band on top) =
+    common juniper, the edible one. Soft scale-like foliage hugging the twig - especially on a low spreading
+    shrub in a garden or park - with an acrid smell when crushed = a juniper to avoid such as savin (Juniperus
+    sabina), which is toxic. Never eat juniper berries unless you have confirmed the species is common
+    juniper.
   reference_ids:
   - REF-2666
   - REF-2665
@@ -171,7 +261,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -180,4 +270,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0851, REF-0852, REF-0853.
   | 2026-06-20: enriched to >=10 scientific publications: added 12 PubMed-verified @article sources (REF-1734,
   REF-1735, REF-1736, REF-1737, REF-1738, REF-1739, REF-1740, REF-1741, REF-1742, REF-1743, REF-1744,
-  REF-1745) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1745) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
+  dosage + constituents) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

@@ -9,6 +9,82 @@ family: Hymenochaetaceae
 parts_used:
 - Mycelium
 - Whole Plant
+botanical_description:
+  text: Parasitic wood-decay fungus (not a true plant) that grows almost entirely inside the trunk of
+    living birch trees, visible externally only as a hard, black, cracked, charcoal-like mass (a sclerotium,
+    sometimes called a 'conk') erupting through the bark. Unlike typical mushrooms, chaga has no true
+    cap, gills or stem; its fertile spore-producing surface develops later, hidden beneath the bark after
+    the tree dies.
+  height: External mass 10-40 cm
+  habit: Parasitic wood-decay fungus, growing mostly inside the host tree
+  leaves: Not applicable (fungus)
+  flowers: Not applicable (fungus); reproduces by spores
+  stem: No true cap-and-stem structure; visible only as a hard black external mass (sclerotium)
+  root: Fungal mycelium spreading through the living wood of the host tree
+  fruit: Fertile spore-producing layer develops hidden beneath the bark, typically after the host tree
+    dies
+  flowering_period: The visible black mass persists and grows for years; not a seasonal fruiting body
+  reference_ids:
+  - REF-0848
+  status: verified
+habitat:
+  text: Grows almost exclusively as a parasite on living birch trees in cold, northern temperate and boreal
+    forests of Europe, Russia, North America and Asia.
+  reference_ids:
+  - REF-0848
+  status: verified
+harvesting:
+  text: The hard black external mass (conk) is chopped or broken away from the living birch trunk, ideally
+    without killing the tree, then dried and broken into pieces or ground for use; sustainable harvesting
+    (leaving part of the conk to regrow) is recommended given the fungus's slow growth.
+  parts:
+  - Mycelium
+  - Whole Plant
+  status: draft
+traditional_uses:
+  text: Chaga has a long traditional use in Russian, Siberian, Baltic and Scandinavian folk medicine as
+    a tonic remedy for digestive complaints, immune support and general vitality, traditionally taken
+    as a dark, tea-like decoction; this traditional tonic reputation is now studied for its antioxidant,
+    immunomodulatory and anti-inflammatory properties.
+  reference_ids:
+  - REF-0848
+  - REF-2195
+  status: verified
+preparations:
+- name: Decoction
+  text: Chunks of the dried black conk simmered gently in water for an extended period, producing a dark,
+    tea-like traditional tonic.
+  reference_ids:
+  - REF-0848
+  status: verified
+- name: Standardised extract
+  text: Extract standardised to polysaccharide or polyphenol content, taken as capsules or powder.
+  reference_ids:
+  - REF-2195
+  status: verified
+dosage:
+- name: Decoction
+  text: Traditional references suggest simmering a small handful of chaga chunks (roughly 5-10 g) in water
+    for an extended period, drunk as a daily tonic tea. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Melanin-rich pigments and betulinic acid derivatives
+  note: Chaga's dark colour comes from melanin-like pigments; it also concentrates betulinic-acid-type
+    triterpenes absorbed from its birch host, associated with antioxidant and anticancer research interest.
+  reference_ids:
+  - REF-0848
+- name: Polysaccharides (beta-glucans)
+  compounds:
+  - polysaccharide
+  note: Immunomodulatory polysaccharides contributing to the traditional tonic and immune-support use.
+  reference_ids:
+  - REF-2195
+- name: Phenolic compounds
+  compounds:
+  - phenolic-compound
+  note: Antioxidant phenolics contributing to chaga's free-radical-scavenging activity.
+  reference_ids:
+  - REF-2195
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -141,7 +217,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -150,4 +226,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0848, REF-0849, REF-0850.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2195,
   REF-2196, REF-2197, REF-2198, REF-0849, REF-2199, REF-2200, REF-2201, REF-2202, REF-2203, REF-2204)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

@@ -24,6 +24,66 @@ constituents:
   note: Additional constituents of the oleo-gum-resin.
   reference_ids:
   - REF-0423
+botanical_description:
+  text: Small to medium deciduous tree with thin, papery, peeling bark. The leaves are pinnately compound
+    with numerous small, toothed leaflets, clustered toward the branch tips. Small, pale yellow to white
+    flowers are borne in axillary racemes. When the bark is cut, it exudes a fragrant, resinous gum (oleo-gum-resin)
+    that hardens into pale, waxy tears - the medicinal part.
+  height: 4-10 m
+  habit: Small to medium deciduous tree
+  leaves: Pinnately compound with numerous small, toothed leaflets
+  flowers: Small, pale yellow to white flowers in axillary racemes
+  stem: Thin, papery, peeling bark, exuding resin when cut
+  root: Woody root system
+  fruit: Small, three-valved capsule
+  flowering_period: Varies with climate; typically before or with new leaves
+  reference_ids:
+  - REF-0423
+  status: verified
+habitat:
+  text: Native to dry, rocky, hilly terrain of India and parts of the Middle East and North Africa, where
+    it is tapped for its resin much like frankincense (Boswellia sacra).
+  reference_ids:
+  - REF-0423
+  status: verified
+harvesting:
+  text: The bark is deliberately incised and the exuded oleo-gum-resin is allowed to harden and is collected
+    over several days to weeks, then cleaned and graded before use or extraction.
+  parts:
+  - Gum resin (oleo-gum-resin)
+  season: Tapped through the dry season
+  reference_ids:
+  - REF-0423
+  status: verified
+traditional_uses:
+  text: Boswellia resin (salai guggul) is a mainstay of Ayurvedic medicine for inflammatory joint and
+    respiratory conditions, and has been burned as incense across many cultures. Modern standardised extracts,
+    rich in boswellic acids, are used for osteoarthritis, inflammatory bowel disease and other inflammatory
+    conditions, directly building on this traditional anti-inflammatory reputation.
+  reference_ids:
+  - REF-0423
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Resin extract standardised to boswellic acid (often AKBA) content, taken as capsules or tablets,
+    ideally with a fat-containing meal to aid absorption.
+  reference_ids:
+  - REF-0423
+  status: verified
+- name: Resin/incense
+  text: Raw resin tears burned as incense or chewed traditionally; not a standardised medicinal dose.
+  status: draft
+- name: Topical cream
+  text: Resin extract formulated into topical creams for joint and skin application.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials in osteoarthritis commonly use extracts providing around 100-250 mg of boswellic
+    acids (or several hundred mg of standardised extract) daily, in divided doses, taken with food. Educational
+    reference only, not a prescription.
+  reference_ids:
+  - REF-0423
+  status: draft
 actions:
 - action: analgesic
   note: Analgesic (pain relief)
@@ -133,7 +193,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   osteoarthritis meta-analysis; review of boswellic acids in chronic inflammatory disease). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (inflammation, arthritis, asthma,
@@ -144,4 +204,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
   to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1809, REF-0573, REF-1810,
   REF-1811, REF-1812, REF-1813, REF-1814, REF-1815, REF-1816, REF-1817, REF-1818) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
+  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
+  policy.'

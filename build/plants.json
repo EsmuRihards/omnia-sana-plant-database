@@ -9384,6 +9384,117 @@
     "Seed",
     "Stem"
    ],
+   "botanical_description": {
+    "text": "Robust, bristly annual herb with hollow, branching stems covered in coarse, stiff hairs. The leaves are large, oval and wrinkled, also coarsely hairy, and smell of cucumber when crushed. The flowers are strikingly bright blue, star-shaped with five pointed petals and a prominent black central cone of anthers, borne in nodding clusters.",
+    "height": "30-100 cm",
+    "habit": "Robust, bristly, branching annual herb",
+    "leaves": "Large, oval, wrinkled, coarsely hairy, smelling of cucumber when crushed",
+    "flowers": "Bright blue, star-shaped, five-pointed, with a prominent black central cone, in nodding clusters",
+    "stem": "Hollow, branching, covered in coarse stiff hairs",
+    "root": "Shallow taproot",
+    "fruit": "Small, dark, oily nutlet (seed)",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0749"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows readily on disturbed, nutrient-rich ground, gardens, waste places and field margins; native to the Mediterranean region and widely naturalised and cultivated across Europe and elsewhere as a culinary and oil-seed crop.",
+    "reference_ids": [
+     "REF-0749"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves and flowers are picked fresh through the growing season, at their best just as the flowers open; the seed is collected in late summer once the seed heads have dried, pressed for its gamma-linolenic-acid-rich oil.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Seed",
+     "Stem"
+    ],
+    "season": "Leaf and flower through summer; seed in late summer",
+    "reference_ids": [
+     "REF-0749"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Borage has a long folk reputation, reflected in the old saying 'borage for courage', as a mood-lifting, cooling herb for feverish colds and respiratory complaints, and as a digestive and anti-inflammatory remedy; the fresh leaves and flowers have also been used culinarily. Modern use is centred on the seed oil, rich in gamma-linolenic acid (GLA), for inflammatory and skin conditions.",
+    "reference_ids": [
+     "REF-0749"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Seed oil",
+     "text": "Cold-pressed seed oil, standardised for GLA content, taken as capsules; the preferred modern medicinal form, since the whole herb carries pyrrolizidine-alkaloid caution.",
+     "reference_ids": [
+      "REF-0749"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Fresh leaf/flower (culinary)",
+     "text": "Fresh leaves and flowers used in salads and as a garnish, continuing the traditional food use, and only in the short term given PA content.",
+     "status": "draft"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried leaf infused as a traditional cooling tea for fevers, though use should be short-term and PA-aware.",
+     "reference_ids": [
+      "REF-0749"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed oil (standardised)",
+     "text": "Products are commonly standardised to around 20-24% GLA, with typical intakes of one to a few 300 mg softgels daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Whole-herb preparations",
+     "text": "Because of pyrrolizidine alkaloid content, whole-herb (leaf/flower) preparations should only be used short-term and from PA-controlled sources; avoid in pregnancy, breastfeeding and liver disease. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Gamma-linolenic acid (GLA) seed oil",
+     "compounds": [
+      "gla"
+     ],
+     "note": "Borage seed oil has one of the highest known GLA contents of any plant oil (typically 20-26%), the basis of its anti-inflammatory reputation.",
+     "reference_ids": [
+      "REF-0749"
+     ]
+    },
+    {
+     "name": "Pyrrolizidine alkaloids",
+     "compounds": [
+      "alkaloid"
+     ],
+     "note": "Unsaturated pyrrolizidine alkaloids present in the whole herb are hepatotoxic and genotoxic on cumulative exposure, limiting internal whole-herb use; the refined seed oil is largely free of them.",
+     "reference_ids": [
+      "REF-0749"
+     ]
+    },
+    {
+     "name": "Mucilage and tannins",
+     "compounds": [
+      "mucilage",
+      "tannin"
+     ],
+     "note": "Contribute to the plant's traditional demulcent and astringent properties.",
+     "reference_ids": [
+      "REF-0749"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "analgesic",
@@ -9658,7 +9769,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "borage"
   },
   {
@@ -9696,6 +9807,76 @@
      "reference_ids": [
       "REF-0423"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Small to medium deciduous tree with thin, papery, peeling bark. The leaves are pinnately compound with numerous small, toothed leaflets, clustered toward the branch tips. Small, pale yellow to white flowers are borne in axillary racemes. When the bark is cut, it exudes a fragrant, resinous gum (oleo-gum-resin) that hardens into pale, waxy tears - the medicinal part.",
+    "height": "4-10 m",
+    "habit": "Small to medium deciduous tree",
+    "leaves": "Pinnately compound with numerous small, toothed leaflets",
+    "flowers": "Small, pale yellow to white flowers in axillary racemes",
+    "stem": "Thin, papery, peeling bark, exuding resin when cut",
+    "root": "Woody root system",
+    "fruit": "Small, three-valved capsule",
+    "flowering_period": "Varies with climate; typically before or with new leaves",
+    "reference_ids": [
+     "REF-0423"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to dry, rocky, hilly terrain of India and parts of the Middle East and North Africa, where it is tapped for its resin much like frankincense (Boswellia sacra).",
+    "reference_ids": [
+     "REF-0423"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The bark is deliberately incised and the exuded oleo-gum-resin is allowed to harden and is collected over several days to weeks, then cleaned and graded before use or extraction.",
+    "parts": [
+     "Gum resin (oleo-gum-resin)"
+    ],
+    "season": "Tapped through the dry season",
+    "reference_ids": [
+     "REF-0423"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Boswellia resin (salai guggul) is a mainstay of Ayurvedic medicine for inflammatory joint and respiratory conditions, and has been burned as incense across many cultures. Modern standardised extracts, rich in boswellic acids, are used for osteoarthritis, inflammatory bowel disease and other inflammatory conditions, directly building on this traditional anti-inflammatory reputation.",
+    "reference_ids": [
+     "REF-0423"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Resin extract standardised to boswellic acid (often AKBA) content, taken as capsules or tablets, ideally with a fat-containing meal to aid absorption.",
+     "reference_ids": [
+      "REF-0423"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Resin/incense",
+     "text": "Raw resin tears burned as incense or chewed traditionally; not a standardised medicinal dose.",
+     "status": "draft"
+    },
+    {
+     "name": "Topical cream",
+     "text": "Resin extract formulated into topical creams for joint and skin application.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials in osteoarthritis commonly use extracts providing around 100-250 mg of boswellic acids (or several hundred mg of standardised extract) daily, in divided doses, taken with food. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0423"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -9858,7 +10039,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "boswellia"
   },
   {
@@ -9874,6 +10055,116 @@
    "parts_used": [
     "Flower",
     "Petals"
+   ],
+   "botanical_description": {
+    "text": "Aromatic annual or short-lived perennial herb with soft, hairy, oblong leaves and branching, slightly sticky stems. The flower heads are bright orange to yellow, daisy-like, with numerous narrow ray florets surrounding a darker central disc, opening in sunlight and closing at dusk.",
+    "height": "30-60 cm",
+    "habit": "Erect, branching annual or short-lived perennial herb",
+    "leaves": "Soft, hairy, oblong to lance-shaped",
+    "flowers": "Bright orange to yellow, daisy-like flower heads with numerous narrow ray florets",
+    "stem": "Branching, softly hairy, slightly sticky",
+    "root": "Shallow taproot",
+    "fruit": "Curved, ridged achene, without pappus",
+    "flowering_period": "June to first frost",
+    "reference_ids": [
+     "REF-0752"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Widely cultivated as a garden and medicinal plant; believed native to southern Europe and the Mediterranean, now naturalised in gardens and waste ground worldwide.",
+    "reference_ids": [
+     "REF-0752"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The flower heads (or just the ray-floret petals) are picked by hand as they open, through the flowering season, and dried quickly in a warm, shaded, airy place to preserve colour and resin content.",
+    "parts": [
+     "Flower",
+     "Petals"
+    ],
+    "season": "Through the flowering season (summer to autumn), as flowers open",
+    "reference_ids": [
+     "REF-0752"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Calendula flower is one of the most widely used topical wound-healing and skin-soothing herbs in Western herbal medicine, applied to cuts, grazes, minor burns and skin inflammation, and used internally as a gentle anti-inflammatory and antimicrobial remedy and as a gargle for mouth and throat irritation.",
+    "reference_ids": [
+     "REF-0752"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infused oil",
+     "text": "Dried petals infused in a carrier oil, used as a soothing base for topical creams and balms for skin healing.",
+     "reference_ids": [
+      "REF-0752"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Cream/ointment",
+     "text": "Standardised flower extract formulated into a cream or ointment for topical wound and skin care; the best-studied modern form.",
+     "reference_ids": [
+      "REF-0752"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried flower infused in hot water, taken internally or used as a gargle/mouthwash.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Topical cream/ointment",
+     "text": "Applied to the affected skin area 2-3 times daily, per product labelling. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Infusion/gargle",
+     "text": "Traditional herbal references suggest around 1-2 g of dried flower per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Triterpene saponins (oleanolic acid glycosides, calendulosides)",
+     "compounds": [
+      "triterpene-saponin",
+      "saponin"
+     ],
+     "note": "Principal wound-healing and anti-inflammatory constituents of the flower.",
+     "reference_ids": [
+      "REF-0752"
+     ]
+    },
+    {
+     "name": "Flavonoids and carotenoids",
+     "compounds": [
+      "flavonoid",
+      "carotenoid"
+     ],
+     "note": "Antioxidant flavonoids and carotenoids give the flower its orange-yellow colour and contribute to its antioxidant activity.",
+     "reference_ids": [
+      "REF-2124"
+     ]
+    },
+    {
+     "name": "Essential oil and resin",
+     "compounds": [
+      "essential-oil"
+     ],
+     "note": "Minor aromatic and resinous constituents of the flower head.",
+     "reference_ids": [
+      "REF-0752"
+     ]
+    }
    ],
    "actions": [
     {
@@ -10068,7 +10359,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "pot-marigold"
   },
   {
@@ -10085,6 +10376,106 @@
    "parts_used": [
     "Leaf",
     "Young sprouts"
+   ],
+   "botanical_description": {
+    "text": "Evergreen shrub or small tree with glossy, dark green, leathery, finely toothed leaves. Small, fragrant, white flowers with a prominent central boss of yellow stamens are borne singly or in small clusters in the leaf axils. Commercial tea is made from the young leaves and unopened leaf buds ('sprouts'), processed differently to yield green, black, white or oolong tea from the same species.",
+    "height": "1-9 m (kept pruned to 1-1.5 m under cultivation)",
+    "habit": "Evergreen shrub or small tree, usually kept pruned as a shrub",
+    "leaves": "Glossy, dark green, leathery, finely toothed",
+    "flowers": "Small, fragrant, white, with a prominent boss of yellow stamens",
+    "stem": "Woody, branching, evergreen",
+    "root": "Deep taproot",
+    "fruit": "Woody capsule containing a few large seeds",
+    "flowering_period": "Autumn to winter",
+    "reference_ids": [
+     "REF-0045"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the subtropical and tropical forests and hillsides of East and South Asia (China, India, Myanmar); cultivated extensively across Asia, Africa and elsewhere on well-drained, acidic upland soils.",
+    "reference_ids": [
+     "REF-0045"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The youngest leaves and unopened leaf buds ('flush') are hand- or machine-picked repeatedly through the growing season; how the fresh leaf is subsequently processed (withered, rolled, oxidised, fixed and dried) determines whether it becomes green, black, white or oolong tea.",
+    "parts": [
+     "Leaf",
+     "Young sprouts"
+    ],
+    "season": "Repeated flushes through the growing season",
+    "reference_ids": [
+     "REF-0045"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Tea has an ancient East Asian tradition as both a beverage and a medicinal tonic, used for alertness, digestion and general wellbeing; green tea in particular has a long-standing reputation, now widely studied, as an antioxidant, cardiometabolic and cognitive-support beverage.",
+    "reference_ids": [
+     "REF-0045",
+     "REF-0755"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (green tea)",
+     "text": "Young leaf, minimally oxidised, infused in hot water; the least-processed and most-studied form for antioxidant polyphenol content.",
+     "reference_ids": [
+      "REF-0045"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (black/oolong tea)",
+     "text": "Leaf that has been withered, rolled and fully or partially oxidised before drying, infused in hot water; a more oxidised, less catechin-rich preparation with its own flavour and mild stimulant profile.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Concentrated leaf extract standardised to catechin (e.g. EGCG) content, taken as capsules; used in some clinical studies, though high-dose extracts carry rare hepatotoxicity concerns.",
+     "reference_ids": [
+      "REF-0045"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional and common use is around 2-4 g of dried leaf per cup, up to several cups daily; moderate consumption (a few cups per day) is generally considered safe. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Catechins (EGCG, ECG) and polyphenols",
+     "compounds": [
+      "catechin",
+      "phenolic-compound"
+     ],
+     "note": "Principal antioxidant polyphenols, most concentrated in minimally oxidised green tea; epigallocatechin gallate (EGCG) is the best studied.",
+     "reference_ids": [
+      "REF-0045",
+      "REF-0755"
+     ]
+    },
+    {
+     "name": "Caffeine and theanine",
+     "note": "Caffeine gives tea its mild stimulant effect; L-theanine, a unique amino acid, is associated with calm alertness and modulates caffeine's effects.",
+     "reference_ids": [
+      "REF-0755"
+     ]
+    },
+    {
+     "name": "Theaflavins and thearubigins",
+     "note": "Oxidative polymerisation products of catechins formed during black tea processing, contributing to black tea's colour and its own antioxidant profile.",
+     "reference_ids": [
+      "REF-0045"
+     ]
+    }
    ],
    "actions": [
     {
@@ -10304,7 +10695,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "tea"
   },
   {
@@ -10589,6 +10980,107 @@
     "Leaf",
     "Seed"
    ],
+   "botanical_description": {
+    "text": "Erect annual herb with a distinctive palmately compound leaf of narrow, serrated leaflets. The plant is usually dioecious (separate male and female plants); female plants develop dense, resinous flower clusters, while male plants bear looser pollen-releasing flowers. The seed (achene) is small, hard-shelled and oil-rich.",
+    "height": "1-5 m, depending on variety and cultivation",
+    "habit": "Erect, fast-growing annual herb",
+    "leaves": "Palmately compound, narrow serrated leaflets",
+    "flowers": "Dioecious; female flowers in dense resinous clusters, male flowers looser and pollen-releasing",
+    "stem": "Erect, fibrous, often ridged",
+    "root": "Taproot with fibrous lateral roots",
+    "fruit": "Small, hard-shelled, oil-rich achene (seed)",
+    "flowering_period": "Late summer to autumn",
+    "reference_ids": [
+     "REF-0044"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Believed native to Central Asia; now cultivated worldwide, with industrial hemp (low-THC cultivars) grown in temperate climates for fibre, seed and cannabinoid extraction, subject to varying legal regulation by jurisdiction.",
+    "reference_ids": [
+     "REF-0044"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Flowers (and resin-bearing leaves) are harvested at peak resin/cannabinoid content, typically as the flower clusters mature in late summer to autumn; seed is harvested once mature and dried, then pressed for oil or used whole.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Seed"
+    ],
+    "season": "Late summer to autumn",
+    "reference_ids": [
+     "REF-0044"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Cannabis/hemp has a long multi-cultural history as a fibre, food and medicinal plant, traditionally used for pain, muscle spasm, sleep and appetite, alongside industrial use of the fibre and seed. Modern cannabinoid research, particularly on THC and CBD, has substantially expanded the evidence base for pain, spasticity and specific seizure disorders.",
+    "reference_ids": [
+     "REF-0044",
+     "REF-0058"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Seed / seed oil",
+     "text": "Whole or hulled seed, or cold-pressed seed oil, used as a nutritional food source (essentially free of psychoactive cannabinoids).",
+     "reference_ids": [
+      "REF-0044"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised cannabinoid extract",
+     "text": "Extract standardised to specific cannabinoid content (e.g. CBD), used in regulated medicinal products; regulatory status varies widely by jurisdiction and product type.",
+     "reference_ids": [
+      "REF-0058"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Dried flower",
+     "text": "Dried flower used traditionally and in some jurisdictions medicinally; legal status and THC content vary widely.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "All preparations",
+     "text": "Because cannabinoid content, legal status and formulation vary enormously between products, no general dose is given here; use only regulated, quality-controlled products under appropriate medical or legal guidance. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Cannabinoids (THC, CBD and related compounds)",
+     "note": "The characteristic bioactive compounds of the resin-bearing flowers, varying widely in ratio and concentration between cultivars; THC is psychoactive, CBD is not.",
+     "reference_ids": [
+      "REF-0044",
+      "REF-0058"
+     ]
+    },
+    {
+     "name": "Terpenes",
+     "compounds": [
+      "terpene",
+      "essential-oil"
+     ],
+     "note": "Aromatic terpenes contribute to the plant's characteristic scent and may modulate cannabinoid effects.",
+     "reference_ids": [
+      "REF-0044"
+     ]
+    },
+    {
+     "name": "Seed oil fatty acids",
+     "note": "Hemp seed is rich in polyunsaturated fatty acids (including omega-3 and omega-6), giving the pressed seed oil its nutritional value; essentially free of psychoactive cannabinoids.",
+     "reference_ids": [
+      "REF-0044"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "analgesic",
@@ -10801,7 +11293,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "hemp"
   },
   {

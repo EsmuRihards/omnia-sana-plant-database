@@ -12,6 +12,99 @@ parts_used:
 - Leaf
 - Seed
 - Stem
+botanical_description:
+  text: Robust, bristly annual herb with hollow, branching stems covered in coarse, stiff hairs. The leaves
+    are large, oval and wrinkled, also coarsely hairy, and smell of cucumber when crushed. The flowers
+    are strikingly bright blue, star-shaped with five pointed petals and a prominent black central cone
+    of anthers, borne in nodding clusters.
+  height: 30-100 cm
+  habit: Robust, bristly, branching annual herb
+  leaves: Large, oval, wrinkled, coarsely hairy, smelling of cucumber when crushed
+  flowers: Bright blue, star-shaped, five-pointed, with a prominent black central cone, in nodding clusters
+  stem: Hollow, branching, covered in coarse stiff hairs
+  root: Shallow taproot
+  fruit: Small, dark, oily nutlet (seed)
+  flowering_period: June-September
+  reference_ids:
+  - REF-0749
+  status: verified
+habitat:
+  text: Grows readily on disturbed, nutrient-rich ground, gardens, waste places and field margins; native
+    to the Mediterranean region and widely naturalised and cultivated across Europe and elsewhere as a
+    culinary and oil-seed crop.
+  reference_ids:
+  - REF-0749
+  status: verified
+harvesting:
+  text: Leaves and flowers are picked fresh through the growing season, at their best just as the flowers
+    open; the seed is collected in late summer once the seed heads have dried, pressed for its gamma-linolenic-acid-rich
+    oil.
+  parts:
+  - Flower
+  - Leaf
+  - Seed
+  - Stem
+  season: Leaf and flower through summer; seed in late summer
+  reference_ids:
+  - REF-0749
+  status: verified
+traditional_uses:
+  text: Borage has a long folk reputation, reflected in the old saying 'borage for courage', as a mood-lifting,
+    cooling herb for feverish colds and respiratory complaints, and as a digestive and anti-inflammatory
+    remedy; the fresh leaves and flowers have also been used culinarily. Modern use is centred on the
+    seed oil, rich in gamma-linolenic acid (GLA), for inflammatory and skin conditions.
+  reference_ids:
+  - REF-0749
+  status: verified
+preparations:
+- name: Seed oil
+  text: Cold-pressed seed oil, standardised for GLA content, taken as capsules; the preferred modern medicinal
+    form, since the whole herb carries pyrrolizidine-alkaloid caution.
+  reference_ids:
+  - REF-0749
+  status: verified
+- name: Fresh leaf/flower (culinary)
+  text: Fresh leaves and flowers used in salads and as a garnish, continuing the traditional food use,
+    and only in the short term given PA content.
+  status: draft
+- name: Infusion
+  text: Dried leaf infused as a traditional cooling tea for fevers, though use should be short-term and
+    PA-aware.
+  reference_ids:
+  - REF-0749
+  status: draft
+dosage:
+- name: Seed oil (standardised)
+  text: Products are commonly standardised to around 20-24% GLA, with typical intakes of one to a few
+    300 mg softgels daily. Educational reference only, not a prescription.
+  status: draft
+- name: Whole-herb preparations
+  text: Because of pyrrolizidine alkaloid content, whole-herb (leaf/flower) preparations should only be
+    used short-term and from PA-controlled sources; avoid in pregnancy, breastfeeding and liver disease.
+    Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Gamma-linolenic acid (GLA) seed oil
+  compounds:
+  - gla
+  note: Borage seed oil has one of the highest known GLA contents of any plant oil (typically 20-26%),
+    the basis of its anti-inflammatory reputation.
+  reference_ids:
+  - REF-0749
+- name: Pyrrolizidine alkaloids
+  compounds:
+  - alkaloid
+  note: Unsaturated pyrrolizidine alkaloids present in the whole herb are hepatotoxic and genotoxic on
+    cumulative exposure, limiting internal whole-herb use; the refined seed oil is largely free of them.
+  reference_ids:
+  - REF-0749
+- name: Mucilage and tannins
+  compounds:
+  - mucilage
+  - tannin
+  note: Contribute to the plant's traditional demulcent and astringent properties.
+  reference_ids:
+  - REF-0749
 actions:
 - action: analgesic
   reference_ids:
@@ -193,12 +286,19 @@ dangerous_lookalikes:
 - dangerous_plant: digitalis-purpurea
   severity: fatal
   confused_part: Pre-flowering rosette leaves gathered for cooking (salads, savoury pies, pasta fillings).
-  confusion_context: Foxglove's soft, wrinkled first-year leaves closely resemble borage leaves gathered for food, and the mix-up is repeatedly documented — including people who developed high digitoxin levels and heart block after eating a few 'borage' leaves, one batch bought from a nursery mislabelled as borage. Foxglove leaves contain cardiac glycosides and can be fatal.
+  confusion_context: Foxglove's soft, wrinkled first-year leaves closely resemble borage leaves gathered
+    for food, and the mix-up is repeatedly documented — including people who developed high digitoxin
+    levels and heart block after eating a few 'borage' leaves, one batch bought from a nursery mislabelled
+    as borage. Foxglove leaves contain cardiac glycosides and can be fatal.
   distinguishing_features:
-  - Borage leaves bear coarse, stiff, bristly hairs that feel rough or prickly; foxglove leaves are softly downy and velvety.
+  - Borage leaves bear coarse, stiff, bristly hairs that feel rough or prickly; foxglove leaves are softly
+    downy and velvety.
   - Crushed borage foliage smells clearly of cucumber; foxglove foliage has no cucumber smell.
-  - 'In flower they are unmistakable: borage has bright blue five-pointed star flowers with a black central cone; foxglove has tall one-sided spikes of pendulous tubular thimble flowers. Do not identify from leaves alone if you can wait for flowers.'
-  key_test: 'Rub and crush a leaf: borage feels coarse and bristly and smells of cucumber; a soft, velvety leaf with no cucumber smell should be treated as foxglove — do not eat it.'
+  - 'In flower they are unmistakable: borage has bright blue five-pointed star flowers with a black central
+    cone; foxglove has tall one-sided spikes of pendulous tubular thimble flowers. Do not identify from
+    leaves alone if you can wait for flowers.'
+  key_test: 'Rub and crush a leaf: borage feels coarse and bristly and smells of cucumber; a soft, velvety
+    leaf with no cucumber smell should be treated as foxglove — do not eat it.'
   reference_ids:
   - REF-2605
   - REF-2607
@@ -207,7 +307,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -216,4 +316,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0749, REF-0750, REF-0751.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0749,
   REF-1950, REF-1951, REF-1952, REF-1953, REF-1954, REF-1955, REF-1956, REF-1957, REF-1958, REF-1959)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

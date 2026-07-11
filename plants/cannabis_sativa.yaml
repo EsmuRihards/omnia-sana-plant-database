@@ -9,6 +9,93 @@ parts_used:
 - Flower
 - Leaf
 - Seed
+botanical_description:
+  text: Erect annual herb with a distinctive palmately compound leaf of narrow, serrated leaflets. The
+    plant is usually dioecious (separate male and female plants); female plants develop dense, resinous
+    flower clusters, while male plants bear looser pollen-releasing flowers. The seed (achene) is small,
+    hard-shelled and oil-rich.
+  height: 1-5 m, depending on variety and cultivation
+  habit: Erect, fast-growing annual herb
+  leaves: Palmately compound, narrow serrated leaflets
+  flowers: Dioecious; female flowers in dense resinous clusters, male flowers looser and pollen-releasing
+  stem: Erect, fibrous, often ridged
+  root: Taproot with fibrous lateral roots
+  fruit: Small, hard-shelled, oil-rich achene (seed)
+  flowering_period: Late summer to autumn
+  reference_ids:
+  - REF-0044
+  status: verified
+habitat:
+  text: Believed native to Central Asia; now cultivated worldwide, with industrial hemp (low-THC cultivars)
+    grown in temperate climates for fibre, seed and cannabinoid extraction, subject to varying legal regulation
+    by jurisdiction.
+  reference_ids:
+  - REF-0044
+  status: draft
+harvesting:
+  text: Flowers (and resin-bearing leaves) are harvested at peak resin/cannabinoid content, typically
+    as the flower clusters mature in late summer to autumn; seed is harvested once mature and dried, then
+    pressed for oil or used whole.
+  parts:
+  - Flower
+  - Leaf
+  - Seed
+  season: Late summer to autumn
+  reference_ids:
+  - REF-0044
+  status: verified
+traditional_uses:
+  text: Cannabis/hemp has a long multi-cultural history as a fibre, food and medicinal plant, traditionally
+    used for pain, muscle spasm, sleep and appetite, alongside industrial use of the fibre and seed. Modern
+    cannabinoid research, particularly on THC and CBD, has substantially expanded the evidence base for
+    pain, spasticity and specific seizure disorders.
+  reference_ids:
+  - REF-0044
+  - REF-0058
+  status: verified
+preparations:
+- name: Seed / seed oil
+  text: Whole or hulled seed, or cold-pressed seed oil, used as a nutritional food source (essentially
+    free of psychoactive cannabinoids).
+  reference_ids:
+  - REF-0044
+  status: verified
+- name: Standardised cannabinoid extract
+  text: Extract standardised to specific cannabinoid content (e.g. CBD), used in regulated medicinal products;
+    regulatory status varies widely by jurisdiction and product type.
+  reference_ids:
+  - REF-0058
+  status: verified
+- name: Dried flower
+  text: Dried flower used traditionally and in some jurisdictions medicinally; legal status and THC content
+    vary widely.
+  status: draft
+dosage:
+- name: All preparations
+  text: Because cannabinoid content, legal status and formulation vary enormously between products, no
+    general dose is given here; use only regulated, quality-controlled products under appropriate medical
+    or legal guidance. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Cannabinoids (THC, CBD and related compounds)
+  note: The characteristic bioactive compounds of the resin-bearing flowers, varying widely in ratio and
+    concentration between cultivars; THC is psychoactive, CBD is not.
+  reference_ids:
+  - REF-0044
+  - REF-0058
+- name: Terpenes
+  compounds:
+  - terpene
+  - essential-oil
+  note: Aromatic terpenes contribute to the plant's characteristic scent and may modulate cannabinoid
+    effects.
+  reference_ids:
+  - REF-0044
+- name: Seed oil fatty acids
+  note: Hemp seed is rich in polyunsaturated fatty acids (including omega-3 and omega-6), giving the pressed
+    seed oil its nutritional value; essentially free of psychoactive cannabinoids.
+  reference_ids:
+  - REF-0044
 actions:
 - action: analgesic
   reference_ids:
@@ -140,7 +227,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Cannabis (and CBD) commonly cause drowsiness and sedation; taken with sedatives, sleeping tablets, opioids or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Cannabis (and CBD) commonly cause drowsiness and sedation; taken with sedatives, sleeping
+    tablets, opioids or other central-nervous-system depressants (including alcohol) it may add to drowsiness
+    and slowed reactions.
   reference_ids:
   - REF-2497
   - REF-2474
@@ -149,7 +238,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: anticonvulsants
   severity: caution
-  mechanism: 'Cannabidiol (CBD) interacts with anti-seizure medicines - notably raising exposure to clobazam - and can add to sedation; anyone combining cannabis/CBD with anticonvulsants should be monitored and doses reviewed by their clinician.'
+  mechanism: Cannabidiol (CBD) interacts with anti-seizure medicines - notably raising exposure to clobazam
+    - and can add to sedation; anyone combining cannabis/CBD with anticonvulsants should be monitored
+    and doses reviewed by their clinician.
   reference_ids:
   - REF-2497
   status: approved
@@ -161,7 +252,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -170,4 +261,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0758, REF-0759, REF-0760.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0758,
   REF-2132, REF-2133, REF-2134, REF-2135, REF-2136, REF-2137, REF-2138, REF-2139, REF-2140, REF-2141)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

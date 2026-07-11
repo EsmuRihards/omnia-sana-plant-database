@@ -9,6 +9,91 @@ wp_post_id: 150
 parts_used:
 - Flower
 - Petals
+botanical_description:
+  text: Aromatic annual or short-lived perennial herb with soft, hairy, oblong leaves and branching, slightly
+    sticky stems. The flower heads are bright orange to yellow, daisy-like, with numerous narrow ray florets
+    surrounding a darker central disc, opening in sunlight and closing at dusk.
+  height: 30-60 cm
+  habit: Erect, branching annual or short-lived perennial herb
+  leaves: Soft, hairy, oblong to lance-shaped
+  flowers: Bright orange to yellow, daisy-like flower heads with numerous narrow ray florets
+  stem: Branching, softly hairy, slightly sticky
+  root: Shallow taproot
+  fruit: Curved, ridged achene, without pappus
+  flowering_period: June to first frost
+  reference_ids:
+  - REF-0752
+  status: verified
+habitat:
+  text: Widely cultivated as a garden and medicinal plant; believed native to southern Europe and the
+    Mediterranean, now naturalised in gardens and waste ground worldwide.
+  reference_ids:
+  - REF-0752
+  status: draft
+harvesting:
+  text: The flower heads (or just the ray-floret petals) are picked by hand as they open, through the
+    flowering season, and dried quickly in a warm, shaded, airy place to preserve colour and resin content.
+  parts:
+  - Flower
+  - Petals
+  season: Through the flowering season (summer to autumn), as flowers open
+  reference_ids:
+  - REF-0752
+  status: verified
+traditional_uses:
+  text: Calendula flower is one of the most widely used topical wound-healing and skin-soothing herbs
+    in Western herbal medicine, applied to cuts, grazes, minor burns and skin inflammation, and used internally
+    as a gentle anti-inflammatory and antimicrobial remedy and as a gargle for mouth and throat irritation.
+  reference_ids:
+  - REF-0752
+  status: verified
+preparations:
+- name: Infused oil
+  text: Dried petals infused in a carrier oil, used as a soothing base for topical creams and balms for
+    skin healing.
+  reference_ids:
+  - REF-0752
+  status: verified
+- name: Cream/ointment
+  text: Standardised flower extract formulated into a cream or ointment for topical wound and skin care;
+    the best-studied modern form.
+  reference_ids:
+  - REF-0752
+  status: verified
+- name: Infusion
+  text: Dried flower infused in hot water, taken internally or used as a gargle/mouthwash.
+  status: draft
+dosage:
+- name: Topical cream/ointment
+  text: Applied to the affected skin area 2-3 times daily, per product labelling. Educational reference
+    only, not a prescription.
+  status: draft
+- name: Infusion/gargle
+  text: Traditional herbal references suggest around 1-2 g of dried flower per cup, up to three times
+    daily. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Triterpene saponins (oleanolic acid glycosides, calendulosides)
+  compounds:
+  - triterpene-saponin
+  - saponin
+  note: Principal wound-healing and anti-inflammatory constituents of the flower.
+  reference_ids:
+  - REF-0752
+- name: Flavonoids and carotenoids
+  compounds:
+  - flavonoid
+  - carotenoid
+  note: Antioxidant flavonoids and carotenoids give the flower its orange-yellow colour and contribute
+    to its antioxidant activity.
+  reference_ids:
+  - REF-2124
+- name: Essential oil and resin
+  compounds:
+  - essential-oil
+  note: Minor aromatic and resinous constituents of the flower head.
+  reference_ids:
+  - REF-0752
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -146,7 +231,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -155,4 +240,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0752, REF-0753, REF-0754.
   | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0752,
   REF-0753, REF-2124, REF-2125, REF-2126, REF-2127, REF-2128, REF-2129, REF-2130, REF-2131) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

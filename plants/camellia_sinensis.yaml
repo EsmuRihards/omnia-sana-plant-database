@@ -10,6 +10,91 @@ family: Theaceae
 parts_used:
 - Leaf
 - Young sprouts
+botanical_description:
+  text: Evergreen shrub or small tree with glossy, dark green, leathery, finely toothed leaves. Small,
+    fragrant, white flowers with a prominent central boss of yellow stamens are borne singly or in small
+    clusters in the leaf axils. Commercial tea is made from the young leaves and unopened leaf buds ('sprouts'),
+    processed differently to yield green, black, white or oolong tea from the same species.
+  height: 1-9 m (kept pruned to 1-1.5 m under cultivation)
+  habit: Evergreen shrub or small tree, usually kept pruned as a shrub
+  leaves: Glossy, dark green, leathery, finely toothed
+  flowers: Small, fragrant, white, with a prominent boss of yellow stamens
+  stem: Woody, branching, evergreen
+  root: Deep taproot
+  fruit: Woody capsule containing a few large seeds
+  flowering_period: Autumn to winter
+  reference_ids:
+  - REF-0045
+  status: verified
+habitat:
+  text: Native to the subtropical and tropical forests and hillsides of East and South Asia (China, India,
+    Myanmar); cultivated extensively across Asia, Africa and elsewhere on well-drained, acidic upland
+    soils.
+  reference_ids:
+  - REF-0045
+  status: draft
+harvesting:
+  text: The youngest leaves and unopened leaf buds ('flush') are hand- or machine-picked repeatedly through
+    the growing season; how the fresh leaf is subsequently processed (withered, rolled, oxidised, fixed
+    and dried) determines whether it becomes green, black, white or oolong tea.
+  parts:
+  - Leaf
+  - Young sprouts
+  season: Repeated flushes through the growing season
+  reference_ids:
+  - REF-0045
+  status: verified
+traditional_uses:
+  text: Tea has an ancient East Asian tradition as both a beverage and a medicinal tonic, used for alertness,
+    digestion and general wellbeing; green tea in particular has a long-standing reputation, now widely
+    studied, as an antioxidant, cardiometabolic and cognitive-support beverage.
+  reference_ids:
+  - REF-0045
+  - REF-0755
+  status: verified
+preparations:
+- name: Infusion (green tea)
+  text: Young leaf, minimally oxidised, infused in hot water; the least-processed and most-studied form
+    for antioxidant polyphenol content.
+  reference_ids:
+  - REF-0045
+  status: verified
+- name: Infusion (black/oolong tea)
+  text: Leaf that has been withered, rolled and fully or partially oxidised before drying, infused in
+    hot water; a more oxidised, less catechin-rich preparation with its own flavour and mild stimulant
+    profile.
+  status: draft
+- name: Standardised extract
+  text: Concentrated leaf extract standardised to catechin (e.g. EGCG) content, taken as capsules; used
+    in some clinical studies, though high-dose extracts carry rare hepatotoxicity concerns.
+  reference_ids:
+  - REF-0045
+  status: verified
+dosage:
+- name: Infusion
+  text: Traditional and common use is around 2-4 g of dried leaf per cup, up to several cups daily; moderate
+    consumption (a few cups per day) is generally considered safe. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Catechins (EGCG, ECG) and polyphenols
+  compounds:
+  - catechin
+  - phenolic-compound
+  note: Principal antioxidant polyphenols, most concentrated in minimally oxidised green tea; epigallocatechin
+    gallate (EGCG) is the best studied.
+  reference_ids:
+  - REF-0045
+  - REF-0755
+- name: Caffeine and theanine
+  note: Caffeine gives tea its mild stimulant effect; L-theanine, a unique amino acid, is associated with
+    calm alertness and modulates caffeine's effects.
+  reference_ids:
+  - REF-0755
+- name: Theaflavins and thearubigins
+  note: Oxidative polymerisation products of catechins formed during black tea processing, contributing
+    to black tea's colour and its own antioxidant profile.
+  reference_ids:
+  - REF-0045
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -140,7 +225,11 @@ references:
 drug_class_interactions:
 - drug_class: antihypertensives
   severity: caution
-  mechanism: 'Green tea catechins block an intestinal uptake transporter (OATP1A2) that some blood-pressure medicines rely on for absorption. In a controlled study, drinking green tea cut blood levels of the beta-blocker nadolol by about 85% and blunted its blood-pressure-lowering effect. If you take nadolol (or other OATP-transported medicines), separate green tea from the dose by several hours and keep intake consistent; watch that your blood pressure stays controlled.'
+  mechanism: Green tea catechins block an intestinal uptake transporter (OATP1A2) that some blood-pressure
+    medicines rely on for absorption. In a controlled study, drinking green tea cut blood levels of the
+    beta-blocker nadolol by about 85% and blunted its blood-pressure-lowering effect. If you take nadolol
+    (or other OATP-transported medicines), separate green tea from the dose by several hours and keep
+    intake consistent; watch that your blood pressure stays controlled.
   reference_ids:
   - REF-2510
   - REF-2511
@@ -153,7 +242,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -162,4 +251,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0755, REF-0756, REF-0757.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1960,
   REF-1961, REF-1962, REF-1963, REF-1964, REF-1965, REF-1966, REF-1967, REF-1968, REF-1969, REF-1970)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

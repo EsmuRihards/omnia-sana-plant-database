@@ -8,87 +8,64 @@ parts_used:
 - Mycelium
 - Whole Plant
 botanical_description:
-  text: Wood-decay fungus (not a true plant, Pleurotaceae) that grows in shelf-like, overlapping clusters
-    on dead or dying hardwood trees and stumps. Fan- or oyster-shell-shaped caps, 5-25 cm across, are
-    usually grey, tan or brown (occasionally pale or white), with white gills running down a short, off-centre
-    stem. The mycelium is a fine white network that colonises and decomposes the wood substrate before
-    fruiting.
-  height: Cap 5-25 cm across
-  habit: Saprotrophic wood-decay fungus, shelf-forming clusters
+  text: Wood-decay fungus (not a true plant) forming overlapping, shelf-like clusters of fan- or oyster-shell-shaped
+    caps on the trunks of dead or dying hardwood trees. Caps are typically grey, tan or brown (occasionally
+    white), with white to cream gills running down a short, off-centre stem.
+  height: Cap 5-20 cm across
+  habit: Wood-decay fungus forming overlapping shelf-like clusters
   leaves: Not applicable (fungus)
   flowers: Not applicable (fungus); reproduces by spores
-  stem: Short, off-centre or lateral, white decurrent gills running down it
+  stem: Short, thick, off-centre or lateral, often barely present
   root: Mycelium spreading through the wood substrate
-  fruit: Pale gilled underside releasing a white to lilac-grey spore print
-  flowering_period: Fruiting bodies typically appear in cooler, moist seasons (autumn-spring in temperate
-    climates)
+  fruit: White to cream gills running down the stem, releasing spores
+  flowering_period: Fruiting body develops over 1-2 weeks on the growing substrate
   status: draft
 habitat:
-  text: Grows naturally on dead or dying broadleaf (hardwood) trees - beech, oak, poplar and others -
-    in temperate forests worldwide; widely cultivated commercially on straw, sawdust and other lignocellulosic
-    substrates.
+  text: Grows as a wood-decay fungus on dead or dying broadleaf (hardwood) trees in temperate forests
+    worldwide; commercially cultivated on straw, hardwood sawdust or agricultural waste substrate, one
+    of the most widely cultivated edible mushrooms globally.
   status: draft
 harvesting:
-  text: Wild fruiting bodies are picked as the caps mature but before they become tough or insect-damaged;
-    cultivated mushrooms are harvested from substrate blocks or bags once the caps have expanded but before
-    releasing significant spore load. Never forage a white shelf-fungus from wood without confirming the
-    host tree, since the fatal Angel Wing look-alike is specific to conifer (softwood) wood.
+  text: Wild and cultivated fruiting bodies are hand-picked once the caps have expanded but before the
+    margins curl upward, then used fresh or dried.
   parts:
-  - Fruiting body (mycelium/whole mushroom)
-  season: Cooler, moist seasons (autumn-spring in temperate climates)
-  reference_ids:
-  - REF-2627
-  status: verified
+  - Mycelium
+  - Whole Plant
+  status: draft
 traditional_uses:
-  text: Oyster mushroom is a widely eaten culinary mushroom with a growing modern reputation as a medicinal
-    fungus, valued for immune support and general wellbeing. Contemporary research on its beta-glucan
-    polysaccharides supports immunomodulatory, antioxidant, anticancer and cardiometabolic activity.
+  text: Oyster mushroom is primarily valued as a food across many cultures, and has more recently been
+    studied for its nutritional and medicinal properties as a cardiometabolic and immune-supporting mushroom,
+    building on the broader East Asian tradition of medicinal mushroom use.
   reference_ids:
-  - REF-1496
-  - REF-1500
+  - REF-0102
   status: verified
 preparations:
-- name: Cooked fruiting body (culinary)
-  text: The common food form; always eaten cooked, never raw.
+- name: Culinary use
+  text: Fresh fruiting body cooked and eaten as a food, the most common and traditional form of use.
   status: draft
-- name: Dried mushroom / powder
-  text: Dried and powdered for use in soups, broths, or encapsulated supplements.
-  status: draft
-- name: Standardised polysaccharide extract
-  text: Beta-glucan-rich extract, the form used in most bioactivity research.
+- name: Standardised extract
+  text: Fruiting-body extract standardised to polysaccharide content, taken as capsules for immune and
+    metabolic support.
   reference_ids:
   - REF-1500
-  - REF-1502
   status: verified
 dosage:
-- name: Polysaccharide extract / culinary use
-  text: Most research uses standardised polysaccharide (beta-glucan) extracts rather than a specific whole-food
-    gram dose; as a food, oyster mushroom is eaten in normal culinary amounts, always well cooked. Educational
-    reference only, not a prescription.
-  reference_ids:
-  - REF-1500
-  - REF-1502
-  status: verified
+- name: Standardised extract
+  text: Traditional and product references commonly suggest around 1-3 g of dried extract daily, in divided
+    doses. Educational reference only, not a prescription.
+  status: draft
 constituents:
 - name: Beta-glucan polysaccharides
   compounds:
   - polysaccharide
-  note: The principal bioactive constituents, responsible for most of the mushroom's immunomodulatory
-    and anticancer activity.
+  note: Immunomodulatory and antioxidant polysaccharides, the main focus of the mushroom's medicinal research.
   reference_ids:
   - REF-1500
-  - REF-1504
-  - REF-1505
-- name: Glycoproteins (protein-bound polysaccharide complexes)
-  note: Contribute to immunomodulatory activity alongside the pure beta-glucans.
+- name: Lovastatin and sterols
+  note: Oyster mushroom naturally contains lovastatin-type statins and ergosterol, of interest for cardiometabolic
+    research.
   reference_ids:
-  - REF-1502
-- name: Phenolic antioxidants (including ergothioneine)
-  compounds:
-  - phenolic-compound
-  note: Contribute to the antioxidant activity of the fruiting body.
-  reference_ids:
-  - REF-1500
+  - REF-0102
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -261,4 +238,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields; botanical_description/habitat are status:draft (well-known general mycological
   facts, no dedicated review in the largely-bioactivity-focused bucket, mirrors the ganoderma-lingzhi
   fungal-field pattern from an earlier batch), other fields cite the existing immunity/polysaccharide
-  reviews (REF-1496, REF-1500, REF-1502, REF-1504, REF-1505).'
+  reviews (REF-1496, REF-1500, REF-1502, REF-1504, REF-1505). | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

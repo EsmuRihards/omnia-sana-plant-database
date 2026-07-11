@@ -33,72 +33,64 @@ constituents:
   reference_ids:
   - REF-0499
 botanical_description:
-  text: Perennial herb (Plantaginaceae) forming a low rosette of narrow, lance-shaped leaves with prominent
-    parallel ribs (hence 'ribwort'). Slender, furrowed, leafless flowering stalks rise from the rosette
-    bearing a dense, short, dark brown-black ovoid to cylindrical flower spike ringed by a 'collar' of
-    protruding cream-white stamens.
-  height: Low rosette; flowering stalks 10-45 cm
-  habit: Low rosette-forming perennial herb
-  leaves: Narrow, lance-shaped, prominently 3-5-ribbed, in a basal rosette
-  flowers: Dense, short, dark brown-black ovoid to cylindrical spike with a ring of cream-white stamens
-  stem: Slender, furrowed, leafless flowering stalk
-  root: Fibrous perennial rootstock
+  text: Low, rosette-forming perennial herb with narrow, lance-shaped, strongly ribbed leaves arising
+    directly from the base. Tiny, brownish flowers with prominent pale stamens are densely packed into
+    a short, dark, cone-like spike atop a long, ridged, leafless flowering stalk.
+  height: 15-45 cm (flowering stalk)
+  habit: Low, rosette-forming perennial herb
+  leaves: Narrow, lance-shaped, strongly ribbed (parallel-veined), in a basal rosette
+  flowers: Tiny, brownish, with prominent pale stamens, in a short dark cone-like spike
+  stem: Long, ridged, leafless flowering stalk
+  root: Fibrous root system
   fruit: Small capsule with 1-2 seeds
-  flowering_period: May-September
+  flowering_period: April-October
   reference_ids:
   - REF-0499
   status: verified
 habitat:
-  text: Native throughout Europe and temperate Asia and naturalised worldwide; common in grassland, meadows,
-    lawns, roadsides and waste ground, tolerating trampling and a wide range of soils.
+  text: A very common plant of grassland, meadows, lawns, roadsides and waste ground on a wide range of
+    soils; native to Europe and temperate Asia and naturalised worldwide.
   reference_ids:
   - REF-0499
   status: verified
 harvesting:
-  text: Leaves and aerial parts are gathered during the growing season, ideally before or during flowering,
-    and dried quickly.
+  text: The leaves (and aerial parts) are picked through the growing season, ideally before flowering
+    when mucilage and iridoid content is highest, and dried in a warm, shaded, airy place, or used fresh.
   parts:
-  - Leaf (aerial parts)
-  season: Growing season, before or during flowering
+  - Leaf (and aerial parts)
+  season: Spring to summer, before flowering
   reference_ids:
   - REF-0499
   status: verified
 traditional_uses:
-  text: Ribwort plantain has an official European herbal-monograph tradition for the temporary relief
-    of dry cough and irritation of the mouth and throat, and for minor skin wounds, reflecting its long
-    folk use as a demulcent respiratory remedy and wound herb. Modern research confirms mucilage-driven
-    demulcent action alongside antimicrobial and anti-inflammatory activity.
+  text: Ribwort plantain leaf has a long European tradition as a soothing demulcent and mild antimicrobial
+    remedy for cough and irritated airways, and, per the EU herbal monograph, for temporary mild inflammation
+    of the mouth and throat; the fresh leaf has also been used topically as a vulnerary for minor wounds
+    and insect bites.
   reference_ids:
   - REF-0499
-  - REF-0500
   status: verified
 preparations:
-- name: Infusion (tea)
-  text: Dried leaf steeped in hot water for cough and sore throat.
+- name: Infusion
+  text: Dried leaf infused in hot water as a traditional demulcent cough and sore-throat tea.
   reference_ids:
   - REF-0499
   status: verified
-- name: Fresh pressed juice / syrup
-  text: Fresh leaf juice, traditionally made into a cough syrup, often combined with honey.
-  reference_ids:
-  - REF-0500
-  status: verified
-- name: Poultice
-  text: Crushed fresh leaf applied to minor wounds and insect bites.
-  reference_ids:
-  - REF-0500
-  status: verified
-- name: Tincture
-  text: Alcoholic extract of the dried leaf.
+- name: Syrup
+  text: Leaf extract combined with honey or sugar syrup as a soothing cough remedy.
   status: draft
-dosage:
-- name: Infusion (tea)
-  text: EMA/ESCOP herbal-monograph guidance suggests roughly 2-4 g dried leaf per cup as an infusion,
-    up to three times daily, or an equivalent liquid extract. Educational reference only, not a prescription.
+- name: Fresh leaf (topical)
+  text: Fresh crushed leaf applied directly to minor wounds, stings and insect bites.
   reference_ids:
   - REF-0499
-  - REF-0500
   status: verified
+dosage:
+- name: Infusion
+  text: The EU herbal monograph describes traditional use of about 1-2 g dried leaf per cup, up to several
+    times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0499
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
@@ -263,4 +255,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   @article sources (REF-0960, REF-0961, REF-0962, REF-0963, REF-0964, REF-0965, REF-0966, REF-0967, REF-0968,
   REF-0969) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
   added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
-  sourced from the existing EMA HMPC (REF-0499) and ESCOP (REF-0500) monographs.'
+  sourced from the existing EMA HMPC (REF-0499) and ESCOP (REF-0500) monographs. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
+  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

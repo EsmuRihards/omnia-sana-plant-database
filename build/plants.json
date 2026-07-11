@@ -42652,6 +42652,66 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Robust, shrubby perennial with thick, jointed, cane-like stems and large, heart-shaped, glossy green leaves. The plant rarely if ever flowers or sets viable seed in cultivation and is propagated entirely by stem cuttings; the thick, knotty underground rhizome and root, the medicinal part, contains the characteristic kavalactone-rich resin.",
+    "height": "1-3 m",
+    "habit": "Robust, shrubby perennial with cane-like stems",
+    "leaves": "Large, heart-shaped, glossy green",
+    "flowers": "Rarely produced; the plant is propagated vegetatively by stem cuttings",
+    "stem": "Thick, jointed, cane-like",
+    "root": "Thick, knotty rhizome and root system, rich in kavalactone resin (the medicinal part)",
+    "fruit": "Rarely if ever sets viable seed",
+    "flowering_period": "Rarely flowers; propagated by cuttings",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to the islands of the South Pacific (Vanuatu, Fiji, Tonga, Samoa and neighbouring islands); cultivated in warm, humid, shaded tropical conditions.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The root and rhizome are dug from plants at least three to five years old, when kavalactone content is highest, then cleaned, peeled and dried or processed fresh into a beverage.",
+    "parts": [
+     "Root",
+     "Rhizome"
+    ],
+    "season": "From mature (3-5+ year) plants",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Kava root has a centuries-long ceremonial and social tradition across Pacific Island cultures, prepared as a communal beverage for its calming, sociable and relaxing effects; this traditional anxiolytic reputation is now supported by clinical trials of standardised water-based extracts for anxiety.",
+    "reference_ids": [
+     "REF-2462"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Traditional beverage (water-based)",
+     "text": "Peeled root pounded or ground and mixed with water, strained and drunk fresh, the traditional Pacific Island ceremonial and social preparation.",
+     "reference_ids": [
+      "REF-2462"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Water-based extract standardised to kavalactone content, taken as capsules; the form used in most clinical anxiety trials, and the safer choice given documented hepatotoxicity concerns with some solvent-extracted products.",
+     "reference_ids": [
+      "REF-2462"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for anxiety commonly use extracts providing up to around 250 mg kavalactones daily, from water-based extracts of peeled root of a noble cultivar, for short-term use only, given the rare but serious hepatotoxicity risk. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-2464"
+     ],
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anxiolytic",
@@ -42803,7 +42863,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "kava"
   },
   {
@@ -42857,86 +42917,76 @@
     }
    ],
    "botanical_description": {
-    "text": "Perennial herb (Plantaginaceae) forming a low rosette of narrow, lance-shaped leaves with prominent parallel ribs (hence 'ribwort'). Slender, furrowed, leafless flowering stalks rise from the rosette bearing a dense, short, dark brown-black ovoid to cylindrical flower spike ringed by a 'collar' of protruding cream-white stamens.",
-    "height": "Low rosette; flowering stalks 10-45 cm",
-    "habit": "Low rosette-forming perennial herb",
-    "leaves": "Narrow, lance-shaped, prominently 3-5-ribbed, in a basal rosette",
-    "flowers": "Dense, short, dark brown-black ovoid to cylindrical spike with a ring of cream-white stamens",
-    "stem": "Slender, furrowed, leafless flowering stalk",
-    "root": "Fibrous perennial rootstock",
+    "text": "Low, rosette-forming perennial herb with narrow, lance-shaped, strongly ribbed leaves arising directly from the base. Tiny, brownish flowers with prominent pale stamens are densely packed into a short, dark, cone-like spike atop a long, ridged, leafless flowering stalk.",
+    "height": "15-45 cm (flowering stalk)",
+    "habit": "Low, rosette-forming perennial herb",
+    "leaves": "Narrow, lance-shaped, strongly ribbed (parallel-veined), in a basal rosette",
+    "flowers": "Tiny, brownish, with prominent pale stamens, in a short dark cone-like spike",
+    "stem": "Long, ridged, leafless flowering stalk",
+    "root": "Fibrous root system",
     "fruit": "Small capsule with 1-2 seeds",
-    "flowering_period": "May-September",
+    "flowering_period": "April-October",
     "reference_ids": [
      "REF-0499"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native throughout Europe and temperate Asia and naturalised worldwide; common in grassland, meadows, lawns, roadsides and waste ground, tolerating trampling and a wide range of soils.",
+    "text": "A very common plant of grassland, meadows, lawns, roadsides and waste ground on a wide range of soils; native to Europe and temperate Asia and naturalised worldwide.",
     "reference_ids": [
      "REF-0499"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Leaves and aerial parts are gathered during the growing season, ideally before or during flowering, and dried quickly.",
+    "text": "The leaves (and aerial parts) are picked through the growing season, ideally before flowering when mucilage and iridoid content is highest, and dried in a warm, shaded, airy place, or used fresh.",
     "parts": [
-     "Leaf (aerial parts)"
+     "Leaf (and aerial parts)"
     ],
-    "season": "Growing season, before or during flowering",
+    "season": "Spring to summer, before flowering",
     "reference_ids": [
      "REF-0499"
     ],
     "status": "verified"
    },
    "traditional_uses": {
-    "text": "Ribwort plantain has an official European herbal-monograph tradition for the temporary relief of dry cough and irritation of the mouth and throat, and for minor skin wounds, reflecting its long folk use as a demulcent respiratory remedy and wound herb. Modern research confirms mucilage-driven demulcent action alongside antimicrobial and anti-inflammatory activity.",
+    "text": "Ribwort plantain leaf has a long European tradition as a soothing demulcent and mild antimicrobial remedy for cough and irritated airways, and, per the EU herbal monograph, for temporary mild inflammation of the mouth and throat; the fresh leaf has also been used topically as a vulnerary for minor wounds and insect bites.",
     "reference_ids": [
-     "REF-0499",
-     "REF-0500"
+     "REF-0499"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Infusion (tea)",
-     "text": "Dried leaf steeped in hot water for cough and sore throat.",
+     "name": "Infusion",
+     "text": "Dried leaf infused in hot water as a traditional demulcent cough and sore-throat tea.",
      "reference_ids": [
       "REF-0499"
      ],
      "status": "verified"
     },
     {
-     "name": "Fresh pressed juice / syrup",
-     "text": "Fresh leaf juice, traditionally made into a cough syrup, often combined with honey.",
-     "reference_ids": [
-      "REF-0500"
-     ],
-     "status": "verified"
-    },
-    {
-     "name": "Poultice",
-     "text": "Crushed fresh leaf applied to minor wounds and insect bites.",
-     "reference_ids": [
-      "REF-0500"
-     ],
-     "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried leaf.",
+     "name": "Syrup",
+     "text": "Leaf extract combined with honey or sugar syrup as a soothing cough remedy.",
      "status": "draft"
+    },
+    {
+     "name": "Fresh leaf (topical)",
+     "text": "Fresh crushed leaf applied directly to minor wounds, stings and insect bites.",
+     "reference_ids": [
+      "REF-0499"
+     ],
+     "status": "verified"
     }
    ],
    "dosage": [
     {
-     "name": "Infusion (tea)",
-     "text": "EMA/ESCOP herbal-monograph guidance suggests roughly 2-4 g dried leaf per cup as an infusion, up to three times daily, or an equivalent liquid extract. Educational reference only, not a prescription.",
+     "name": "Infusion",
+     "text": "The EU herbal monograph describes traditional use of about 1-2 g dried leaf per cup, up to several times daily. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0499",
-      "REF-0500"
+      "REF-0499"
      ],
-     "status": "verified"
+     "status": "draft"
     }
    ],
    "actions": [
@@ -43243,84 +43293,71 @@
     }
    ],
    "botanical_description": {
-    "text": "Low, rosette-forming perennial herb (Plantaginaceae) with broad, oval to rounded leaves marked by 5-9 prominent parallel ribs, borne on long, channelled petioles. Slender, leafless flowering spikes rise from the rosette bearing tiny, densely packed greenish flowers, followed by small seed capsules.",
-    "height": "Low rosette; flowering spikes 10-40 cm",
-    "habit": "Low rosette-forming perennial herb",
-    "leaves": "Broad, oval to rounded, 5-9-ribbed, long-petioled",
-    "flowers": "Tiny, densely packed, greenish, in slender spikes",
-    "stem": "Slender, leafless flowering spike",
-    "root": "Fibrous perennial rootstock",
-    "fruit": "Small seed capsule",
-    "flowering_period": "June-September",
+    "text": "Low, rosette-forming perennial herb with broad, oval to egg-shaped, strongly ribbed leaves on long stalks, arising directly from the base. Tiny, greenish flowers are densely packed into a long, slender, tapering spike atop a leafless flowering stalk.",
+    "height": "10-30 cm (flowering stalk taller)",
+    "habit": "Low, rosette-forming perennial herb",
+    "leaves": "Broad, oval to egg-shaped, strongly ribbed, long-stalked, in a basal rosette",
+    "flowers": "Tiny, greenish, densely packed into a long, slender, tapering spike",
+    "stem": "Long, leafless flowering stalk",
+    "root": "Fibrous root system",
+    "fruit": "Small capsule with numerous tiny seeds",
+    "flowering_period": "June-October",
     "reference_ids": [
      "REF-0364"
     ],
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to Europe and temperate Asia and now one of the most widespread naturalised weeds worldwide (the name 'waybread', or historically 'white man's foot', reflects its spread along paths and trails); thrives on compacted, disturbed ground such as paths, lawns and roadsides.",
+    "text": "One of the most common and widespread weeds in the world, growing on lawns, paths, waste ground and compacted or disturbed soil; native to Europe and Asia and now found on every inhabited continent.",
     "reference_ids": [
      "REF-0364"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "Leaves are gathered fresh throughout the growing season, especially for poultice use; seed is collected in autumn once ripe.",
+    "text": "The leaves are picked fresh through the growing season for topical use, or dried for tea; the seed is collected in autumn once the flower spikes have dried, by stripping the ripe spikes.",
     "parts": [
      "Leaf",
      "Seed"
     ],
-    "season": "Leaf throughout the growing season; seed in autumn",
+    "season": "Leaf through the growing season; seed in autumn",
     "reference_ids": [
      "REF-0364"
     ],
     "status": "verified"
    },
    "traditional_uses": {
-    "text": "Greater plantain is one of the most widely used wound herbs across world folk-medicine traditions, applied fresh as a poultice to cuts, stings and insect bites, and taken as a tea for cough, digestive upset and mild diarrhoea. Modern reviews confirm broad anti-inflammatory, antimicrobial, antioxidant and wound-healing activity supporting these traditional uses.",
+    "text": "Greater plantain is one of the most widely used medicinal and edible plants in the world, with a documented history of use across many cultures as a wound-healing vulnerary (the fresh leaf classically chewed or crushed and applied to cuts, stings and bites), an astringent for mild diarrhoea, and a demulcent expectorant for coughs and catarrh; the mucilaginous seed has also been used as a mild bulk laxative, similarly to the related psyllium.",
     "reference_ids": [
-     "REF-0364",
-     "REF-0354"
+     "REF-0364"
     ],
     "status": "verified"
    },
    "preparations": [
     {
      "name": "Fresh leaf poultice",
-     "text": "Crushed or chewed fresh leaf applied directly to wounds, stings and insect bites - the classic traditional first-aid use.",
+     "text": "Fresh leaf crushed or chewed and applied directly to minor wounds, stings and insect bites, the classic and most immediate traditional use.",
      "reference_ids": [
       "REF-0364"
      ],
      "status": "verified"
     },
     {
-     "name": "Infusion (tea)",
-     "text": "Dried leaf steeped in hot water for cough, digestive complaints and mild diarrhoea.",
-     "reference_ids": [
-      "REF-0357",
-      "REF-0358"
-     ],
-     "status": "verified"
+     "name": "Infusion",
+     "text": "Dried leaf infused in hot water as a traditional astringent and expectorant tea.",
+     "status": "draft"
     },
     {
-     "name": "Seed (bulk fibre)",
-     "text": "The mucilaginous seed, related to psyllium, used traditionally as a mild bulk laxative.",
-     "reference_ids": [
-      "REF-0358"
-     ],
-     "status": "verified"
+     "name": "Seed preparation",
+     "text": "Whole or ground seed soaked in water and taken as a mild bulk laxative, similarly to psyllium.",
+     "status": "draft"
     }
    ],
    "dosage": [
     {
-     "name": "Leaf tea / poultice",
-     "text": "Duke (2002): leaf taken as a tea, or used fresh as a poultice, for wounds, sore throat and bronchial conditions. Educational reference only, not a prescription.",
-     "reference_ids": [
-      "REF-0234",
-      "REF-0260",
-      "REF-0309"
-     ],
-     "status": "verified"
+     "name": "Infusion (leaf)",
+     "text": "Traditional herbal references suggest around 2-3 g of dried leaf per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -43660,70 +43697,56 @@
     "Whole Plant"
    ],
    "botanical_description": {
-    "text": "Wood-decay fungus (not a true plant, Pleurotaceae) that grows in shelf-like, overlapping clusters on dead or dying hardwood trees and stumps. Fan- or oyster-shell-shaped caps, 5-25 cm across, are usually grey, tan or brown (occasionally pale or white), with white gills running down a short, off-centre stem. The mycelium is a fine white network that colonises and decomposes the wood substrate before fruiting.",
-    "height": "Cap 5-25 cm across",
-    "habit": "Saprotrophic wood-decay fungus, shelf-forming clusters",
+    "text": "Wood-decay fungus (not a true plant) forming overlapping, shelf-like clusters of fan- or oyster-shell-shaped caps on the trunks of dead or dying hardwood trees. Caps are typically grey, tan or brown (occasionally white), with white to cream gills running down a short, off-centre stem.",
+    "height": "Cap 5-20 cm across",
+    "habit": "Wood-decay fungus forming overlapping shelf-like clusters",
     "leaves": "Not applicable (fungus)",
     "flowers": "Not applicable (fungus); reproduces by spores",
-    "stem": "Short, off-centre or lateral, white decurrent gills running down it",
+    "stem": "Short, thick, off-centre or lateral, often barely present",
     "root": "Mycelium spreading through the wood substrate",
-    "fruit": "Pale gilled underside releasing a white to lilac-grey spore print",
-    "flowering_period": "Fruiting bodies typically appear in cooler, moist seasons (autumn-spring in temperate climates)",
+    "fruit": "White to cream gills running down the stem, releasing spores",
+    "flowering_period": "Fruiting body develops over 1-2 weeks on the growing substrate",
     "status": "draft"
    },
    "habitat": {
-    "text": "Grows naturally on dead or dying broadleaf (hardwood) trees - beech, oak, poplar and others - in temperate forests worldwide; widely cultivated commercially on straw, sawdust and other lignocellulosic substrates.",
+    "text": "Grows as a wood-decay fungus on dead or dying broadleaf (hardwood) trees in temperate forests worldwide; commercially cultivated on straw, hardwood sawdust or agricultural waste substrate, one of the most widely cultivated edible mushrooms globally.",
     "status": "draft"
    },
    "harvesting": {
-    "text": "Wild fruiting bodies are picked as the caps mature but before they become tough or insect-damaged; cultivated mushrooms are harvested from substrate blocks or bags once the caps have expanded but before releasing significant spore load. Never forage a white shelf-fungus from wood without confirming the host tree, since the fatal Angel Wing look-alike is specific to conifer (softwood) wood.",
+    "text": "Wild and cultivated fruiting bodies are hand-picked once the caps have expanded but before the margins curl upward, then used fresh or dried.",
     "parts": [
-     "Fruiting body (mycelium/whole mushroom)"
+     "Mycelium",
+     "Whole Plant"
     ],
-    "season": "Cooler, moist seasons (autumn-spring in temperate climates)",
-    "reference_ids": [
-     "REF-2627"
-    ],
-    "status": "verified"
+    "status": "draft"
    },
    "traditional_uses": {
-    "text": "Oyster mushroom is a widely eaten culinary mushroom with a growing modern reputation as a medicinal fungus, valued for immune support and general wellbeing. Contemporary research on its beta-glucan polysaccharides supports immunomodulatory, antioxidant, anticancer and cardiometabolic activity.",
+    "text": "Oyster mushroom is primarily valued as a food across many cultures, and has more recently been studied for its nutritional and medicinal properties as a cardiometabolic and immune-supporting mushroom, building on the broader East Asian tradition of medicinal mushroom use.",
     "reference_ids": [
-     "REF-1496",
-     "REF-1500"
+     "REF-0102"
     ],
     "status": "verified"
    },
    "preparations": [
     {
-     "name": "Cooked fruiting body (culinary)",
-     "text": "The common food form; always eaten cooked, never raw.",
+     "name": "Culinary use",
+     "text": "Fresh fruiting body cooked and eaten as a food, the most common and traditional form of use.",
      "status": "draft"
     },
     {
-     "name": "Dried mushroom / powder",
-     "text": "Dried and powdered for use in soups, broths, or encapsulated supplements.",
-     "status": "draft"
-    },
-    {
-     "name": "Standardised polysaccharide extract",
-     "text": "Beta-glucan-rich extract, the form used in most bioactivity research.",
+     "name": "Standardised extract",
+     "text": "Fruiting-body extract standardised to polysaccharide content, taken as capsules for immune and metabolic support.",
      "reference_ids": [
-      "REF-1500",
-      "REF-1502"
+      "REF-1500"
      ],
      "status": "verified"
     }
    ],
    "dosage": [
     {
-     "name": "Polysaccharide extract / culinary use",
-     "text": "Most research uses standardised polysaccharide (beta-glucan) extracts rather than a specific whole-food gram dose; as a food, oyster mushroom is eaten in normal culinary amounts, always well cooked. Educational reference only, not a prescription.",
-     "reference_ids": [
-      "REF-1500",
-      "REF-1502"
-     ],
-     "status": "verified"
+     "name": "Standardised extract",
+     "text": "Traditional and product references commonly suggest around 1-3 g of dried extract daily, in divided doses. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "constituents": [
@@ -43732,28 +43755,16 @@
      "compounds": [
       "polysaccharide"
      ],
-     "note": "The principal bioactive constituents, responsible for most of the mushroom's immunomodulatory and anticancer activity.",
-     "reference_ids": [
-      "REF-1500",
-      "REF-1504",
-      "REF-1505"
-     ]
-    },
-    {
-     "name": "Glycoproteins (protein-bound polysaccharide complexes)",
-     "note": "Contribute to immunomodulatory activity alongside the pure beta-glucans.",
-     "reference_ids": [
-      "REF-1502"
-     ]
-    },
-    {
-     "name": "Phenolic antioxidants (including ergothioneine)",
-     "compounds": [
-      "phenolic-compound"
-     ],
-     "note": "Contribute to the antioxidant activity of the fruiting body.",
+     "note": "Immunomodulatory and antioxidant polysaccharides, the main focus of the mushroom's medicinal research.",
      "reference_ids": [
       "REF-1500"
+     ]
+    },
+    {
+     "name": "Lovastatin and sterols",
+     "note": "Oyster mushroom naturally contains lovastatin-type statins and ergosterol, of interest for cardiometabolic research.",
+     "reference_ids": [
+      "REF-0102"
      ]
     }
    ],
@@ -44017,14 +44028,14 @@
     }
    ],
    "botanical_description": {
-    "text": "Low, sprawling to semi-erect perennial herb (Rosaceae) with wiry stems. Leaves are palmate, typically with 4-5 leaflets and large leaf-like stipules that give the impression of more leaflets. Flowers are small, yellow and four-petalled - unusual among Potentilla species, most of which have five petals. The thick, woody rhizome is reddish inside when cut, the origin of the old name 'bloodroot' for this European species.",
-    "height": "Low, sprawling to semi-erect, stems to about 30-45 cm",
-    "habit": "Low, sprawling to semi-erect perennial herb",
-    "leaves": "Palmate, typically 4-5 leaflets, with large leaf-like stipules",
-    "flowers": "Small, yellow, four-petalled (unusual among Potentilla species)",
-    "stem": "Wiry, sprawling to semi-erect",
-    "root": "Thick, woody rhizome, reddish inside when cut",
-    "fruit": "Small dry achenes (typical Rosaceae)",
+    "text": "Low, sprawling perennial herb with slender, wiry stems and small, deeply toothed, palmately divided leaves typically in fours (unusual among cinquefoils, which usually have five leaflets - hence 'septfoil'). Small, bright yellow, four-petalled flowers are borne singly on long thin stalks.",
+    "height": "10-30 cm (sprawling)",
+    "habit": "Low, sprawling perennial herb",
+    "leaves": "Small, deeply toothed, palmately divided, typically in fours",
+    "flowers": "Small, bright yellow, four-petalled, borne singly on long thin stalks",
+    "stem": "Slender, wiry, sprawling",
+    "root": "Thick, woody, reddish-brown rhizome (the medicinal part), red inside when cut",
+    "fruit": "Small cluster of achenes",
     "flowering_period": "May-September",
     "reference_ids": [
      "REF-0520"
@@ -44032,14 +44043,14 @@
     "status": "verified"
    },
    "habitat": {
-    "text": "Native to Europe and western Asia, common in acidic grassland, heath, moorland, open woodland and pastures on poor, well-drained soils.",
+    "text": "Grows on heath, moorland, acidic grassland, open woodland and pastures on well-drained, often poor or acidic soils; native to Europe and Western Asia.",
     "reference_ids": [
      "REF-0520"
     ],
     "status": "verified"
    },
    "harvesting": {
-    "text": "The rhizome is dug in autumn or early spring, when tannin content is highest, then cleaned and dried.",
+    "text": "The rhizome is dug in autumn or early spring, when tannin content is highest, then cleaned and dried; the reddish colour revealed when cut is the traditional identifying feature giving the plant its old name 'bloodroot'.",
     "parts": [
      "Rhizome"
     ],
@@ -44050,18 +44061,16 @@
     "status": "verified"
    },
    "traditional_uses": {
-    "text": "Tormentil rhizome has an official European herbal-monograph tradition for mild diarrhoea and inflammation of the mouth and throat, reflecting its long folk use as a powerful astringent for gut and mucous-membrane complaints. Modern trials confirm its ellagitannin-rich rhizome shortens the duration of infectious (rotavirus) diarrhoea.",
+    "text": "Tormentil rhizome, one of the most tannin-rich temperate roots, has a long European folk and official (EU herbal monograph) use as a powerful astringent for mild diarrhoea, and as a gargle or mouthwash for inflammation of the mouth and throat, reflecting its very high tannin content.",
     "reference_ids": [
-     "REF-0520",
-     "REF-0521",
-     "REF-0602"
+     "REF-0520"
     ],
     "status": "verified"
    },
    "preparations": [
     {
      "name": "Decoction",
-     "text": "Dried rhizome simmered in water, the standard astringent preparation for diarrhoea.",
+     "text": "Dried, chopped rhizome simmered in water as a strongly astringent traditional remedy for diarrhoea, or used as a gargle/mouthwash for sore throat.",
      "reference_ids": [
       "REF-0520"
      ],
@@ -44069,30 +44078,18 @@
     },
     {
      "name": "Tincture",
-     "text": "Alcoholic extract, taken diluted or used as a gargle/mouthwash.",
-     "reference_ids": [
-      "REF-0521"
-     ],
-     "status": "verified"
-    },
-    {
-     "name": "Gargle/mouthwash",
-     "text": "Diluted decoction or tincture used for sore throat and mouth inflammation.",
-     "reference_ids": [
-      "REF-0521"
-     ],
-     "status": "verified"
+     "text": "Alcoholic extract of the dried rhizome.",
+     "status": "draft"
     }
    ],
    "dosage": [
     {
-     "name": "Decoction/tincture",
-     "text": "EMA/ESCOP guidance suggests around 4-6 g dried rhizome (or an equivalent decoction), divided into 2-3 doses daily, for diarrhoea, or a diluted tincture used as a gargle several times daily. Educational reference only, not a prescription.",
+     "name": "Decoction/gargle",
+     "text": "The EU herbal monograph describes traditional use of about 2-4 g dried rhizome per cup, up to three times daily, or used as a gargle. Educational reference only, not a prescription.",
      "reference_ids": [
-      "REF-0520",
-      "REF-0521"
+      "REF-0520"
      ],
-     "status": "verified"
+     "status": "draft"
     }
    ],
    "actions": [

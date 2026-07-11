@@ -19,6 +19,65 @@ constituents:
   note: Constituents linked to its blood-clotting (haemostatic) effect.
   reference_ids:
   - REF-0507
+botanical_description:
+  text: Small, variable annual or biennial herb with a basal rosette of deeply toothed, dandelion-like
+    leaves and a slender, upright, sparsely branched flowering stem bearing tiny stalked white flowers.
+    As the flowers fade, they give way to distinctive small, flattened, heart- or purse-shaped seed pods,
+    the origin of the common name.
+  height: 10-40 cm
+  habit: Small, upright annual to biennial herb
+  leaves: Basal rosette deeply toothed (dandelion-like); stem leaves smaller, arrow-shaped, clasping
+  flowers: Tiny, white, four-petalled flowers on slender stalks along an elongating raceme
+  stem: Slender, upright, sparsely branched
+  root: Slender taproot
+  fruit: Small, flattened, heart- or purse-shaped seed pod (silicle)
+  flowering_period: Almost year-round in mild climates; peak spring to autumn
+  reference_ids:
+  - REF-0507
+  status: verified
+habitat:
+  text: A common weed of cultivated ground, gardens, roadsides, waste places and lawns worldwide; native
+    to Europe and Asia and now naturalised on every inhabited continent.
+  reference_ids:
+  - REF-0507
+  status: verified
+harvesting:
+  text: The whole flowering plant is cut just as it comes into flower and while the seed pods are still
+    forming, then dried quickly, since the fresh or freshly dried herb is considered most active for its
+    haemostatic effect.
+  parts:
+  - Aerial parts (flowering herb)
+  season: While flowering and early seed-pod formation
+  reference_ids:
+  - REF-0507
+  status: verified
+traditional_uses:
+  text: Shepherd's purse has a long folk reputation as a styptic and haemostatic herb, traditionally used
+    to stop bleeding - from minor wounds, nosebleeds, heavy menstrual bleeding and postpartum bleeding
+    - and as a uterine tonic to ease menstrual flow and cramps.
+  reference_ids:
+  - REF-0507
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional styptic and menstrual-support tea.
+  reference_ids:
+  - REF-0507
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the fresh or dried flowering herb, typically around 1:5.
+  status: draft
+- name: Poultice
+  text: Crushed fresh herb applied directly to minor wounds to help stop bleeding.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+- name: Tincture
+  text: About 1-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: astringent
   note: Astringent / styptic for minor wounds (helps stop bleeding, topical)
@@ -109,7 +168,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph;
   ESCOP note citing an RCT showing reduced menstrual blood loss). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations
@@ -120,4 +179,7 @@ internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (H
   PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0761, REF-0762,
   REF-0763. | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources
   (REF-1971, REF-1972, REF-1973, REF-0761, REF-0763, REF-1974, REF-0762, REF-1975, REF-1976) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
+  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

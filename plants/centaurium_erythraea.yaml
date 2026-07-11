@@ -29,6 +29,63 @@ constituents:
   note: Antioxidant constituents.
   reference_ids:
   - REF-0431
+botanical_description:
+  text: Slender annual or biennial herb with a basal rosette of oval leaves and an erect, wiry, four-angled
+    flowering stem branching near the top. Small, star-shaped, pink flowers with five pointed petals open
+    only in sunshine, borne in dense, flat-topped clusters at the stem tips.
+  height: 10-40 cm
+  habit: Slender, erect annual to biennial herb
+  leaves: Basal rosette of oval leaves; stem leaves smaller, opposite
+  flowers: Small, star-shaped, pink, five-petalled, opening only in sunshine, in flat-topped clusters
+  stem: Erect, wiry, four-angled, branching near the top
+  root: Slender taproot
+  fruit: Small, narrow capsule
+  flowering_period: June-September
+  reference_ids:
+  - REF-0431
+  status: verified
+habitat:
+  text: Grows in dry grassland, chalk downland, dunes and open woodland on well-drained, often calcareous
+    soils; native to Europe, North Africa and Western Asia.
+  reference_ids:
+  - REF-0431
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut in summer while in flower, when the intensely bitter secoiridoid
+    content is highest, and dried in a warm, shaded, airy place.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Summer flowering period
+  reference_ids:
+  - REF-0431
+  status: verified
+traditional_uses:
+  text: Centaury is one of the classic European bitter digestive herbs, traditionally used for temporary
+    loss of appetite and mild dyspeptic complaints such as indigestion and bloating, stimulating gastric
+    and bile secretion.
+  reference_ids:
+  - REF-0431
+  status: verified
+preparations:
+- name: Cold infusion (maceration)
+  text: Dried herb macerated in cold water for several hours, which extracts the bitter principles while
+    minimising extraction of harsher tannins; a traditional preparation method for bitters.
+  reference_ids:
+  - REF-0431
+  status: draft
+- name: Infusion
+  text: Dried herb infused briefly in hot water and taken shortly before meals as a bitter digestive tonic.
+  reference_ids:
+  - REF-0431
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 1-2 g of dried herb per cup, taken shortly before
+    meals, up to three times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Digestive aid for mild dyspeptic complaints such as indigestion and bloating (stimulates gastric
@@ -175,7 +232,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report;
   Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited. Further
@@ -186,4 +243,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA
   to the plant-level references bucket (least-cited enrichment): REF-0767, REF-0768, REF-0769. | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0619, REF-1988,
   REF-0767, REF-1989, REF-1990, REF-1991, REF-0768, REF-1992, REF-1993, REF-1994) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
+  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
+  policy.'

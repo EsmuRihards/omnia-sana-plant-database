@@ -12,6 +12,75 @@ common_names:
 family: Cordycipitaceae
 parts_used:
 - Whole Plant
+botanical_description:
+  text: Entomopathogenic fungus (not a true plant) that develops from a mycelium infecting and consuming
+    an insect host - classically a moth caterpillar or pupa buried in the soil. In late season it produces
+    a slender, bright orange, club-shaped fruiting body (stroma) that emerges from the ground above the
+    mummified host, its surface minutely roughened with embedded spore-producing structures.
+  height: Fruiting body 2-8 cm
+  habit: Entomopathogenic fungus, fruiting body emerging from a buried insect host
+  leaves: Not applicable (fungus)
+  flowers: Not applicable (fungus)
+  stem: Slender, bright orange, club-shaped fruiting body (stroma)
+  root: Anchored to the mummified insect host below ground
+  fruit: Minutely roughened fertile head bearing embedded perithecia (spore-producing structures)
+  flowering_period: Fruiting body typically appears in autumn
+  reference_ids:
+  - REF-2153
+  status: verified
+habitat:
+  text: Grows on insect larvae and pupae in cool, moist forest soils and grassland across temperate and
+    alpine East Asia; commercially, most Cordyceps militaris is now cultivated on grain or insect-based
+    substrate rather than wild-collected.
+  reference_ids:
+  - REF-2153
+  status: draft
+harvesting:
+  text: Wild fruiting bodies are dug up carefully with the insect host attached, in autumn when they emerge;
+    cultivated material is harvested from the growing substrate once the orange fruiting bodies mature,
+    then dried.
+  parts:
+  - Whole Plant
+  season: Autumn (wild); at maturity under cultivation
+  status: draft
+traditional_uses:
+  text: Cordyceps has a centuries-long reputation in Chinese and Tibetan traditional medicine as a tonic
+    ('Dong Chong Xia Cao' - winter worm, summer grass) for vitality, stamina, respiratory and kidney support,
+    and recovery from fatigue and illness, and remains a prized adaptogenic tonic today.
+  reference_ids:
+  - REF-0218
+  - REF-0318
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Cultivated fruiting-body extract, standardised to cordycepin or polysaccharide content, taken
+    as capsules or powder.
+  reference_ids:
+  - REF-2153
+  status: verified
+- name: Decoction
+  text: Dried fruiting body simmered in water or added to soups/tonics, a traditional preparation.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Studies of ergogenic and immune support commonly use around 1-3 g of dried fruiting body or standardised
+    extract daily. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Cordycepin (3'-deoxyadenosine)
+  note: A nucleoside analogue considered the marker bioactive compound, studied for anti-inflammatory,
+    antioxidant and metabolic effects.
+  reference_ids:
+  - REF-0776
+- name: Polysaccharides
+  compounds:
+  - polysaccharide
+  note: Immunomodulatory and antioxidant polysaccharides, a major focus of both oral and topical product
+    development.
+  reference_ids:
+  - REF-2153
+- name: Ergosterol and adenosine
+  note: Additional characteristic fungal sterol and nucleoside constituents.
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -139,13 +208,27 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: podostroma-cornu-damae
   severity: fatal
-  confused_part: Bright orange-red club-shaped fruit bodies collected from the wild as a cordyceps tonic; the erect red antler-/club-like fruit bodies of poison fire coral resemble the orange clubs of Cordyceps.
-  confusion_context: Cordyceps militaris produces small, bright orange, club-shaped fruit bodies and is prized as a health tonic in East Asia, where wild specimens are collected. Poison fire coral (Podostroma cornu-damae) is a deadly trichothecene-containing fungus whose erect red, antler- or coral-like clubs closely resemble Cordyceps. The Royal Society of Chemistry reports it has often been mistaken for Cordyceps sobolifera as well as two other edible mushrooms, Ganoderma lucidum and Cordyceps militaris, and forensic case reports document deaths from ingesting it (multiple organ failure, pancytopenia). Because it is confused specifically with cordyceps by foragers, this is a lethal look-alike.
+  confused_part: Bright orange-red club-shaped fruit bodies collected from the wild as a cordyceps tonic;
+    the erect red antler-/club-like fruit bodies of poison fire coral resemble the orange clubs of Cordyceps.
+  confusion_context: Cordyceps militaris produces small, bright orange, club-shaped fruit bodies and is
+    prized as a health tonic in East Asia, where wild specimens are collected. Poison fire coral (Podostroma
+    cornu-damae) is a deadly trichothecene-containing fungus whose erect red, antler- or coral-like clubs
+    closely resemble Cordyceps. The Royal Society of Chemistry reports it has often been mistaken for
+    Cordyceps sobolifera as well as two other edible mushrooms, Ganoderma lucidum and Cordyceps militaris,
+    and forensic case reports document deaths from ingesting it (multiple organ failure, pancytopenia).
+    Because it is confused specifically with cordyceps by foragers, this is a lethal look-alike.
   distinguishing_features:
-  - 'Substrate (decisive): true Cordyceps militaris grows OUT OF a buried insect - a mummified caterpillar or pupa - which you find if you dig at the base. Poison fire coral grows from soil or buried wood and roots, never from an insect host.'
-  - 'Form: Cordyceps militaris is a small (about 2-8 cm) simple or sparingly branched orange club with a minutely roughened fertile head. Poison fire coral forms deeper blood-red, often branched antler- or coral-like clubs.'
+  - 'Substrate (decisive): true Cordyceps militaris grows OUT OF a buried insect - a mummified caterpillar
+    or pupa - which you find if you dig at the base. Poison fire coral grows from soil or buried wood
+    and roots, never from an insect host.'
+  - 'Form: Cordyceps militaris is a small (about 2-8 cm) simple or sparingly branched orange club with
+    a minutely roughened fertile head. Poison fire coral forms deeper blood-red, often branched antler-
+    or coral-like clubs.'
   - 'Colour: Cordyceps militaris is orange to orange-red; poison fire coral is a brighter blood-red.'
-  key_test: Dig up the base. True Cordyceps militaris emerges from a buried insect (a caterpillar or pupa) - the mummified host is the proof. A red or orange club or antler arising from soil or wood with NO insect host, especially if branched and blood-red, may be poison fire coral (Podostroma cornu-damae), which can kill. If there is no insect host, do not consume it; confirm with an expert.
+  key_test: Dig up the base. True Cordyceps militaris emerges from a buried insect (a caterpillar or pupa)
+    - the mummified host is the proof. A red or orange club or antler arising from soil or wood with NO
+    insect host, especially if branched and blood-red, may be poison fire coral (Podostroma cornu-damae),
+    which can kill. If there is no insect host, do not consume it; confirm with an expert.
   reference_ids:
   - REF-2661
   - REF-2659
@@ -155,7 +238,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -164,4 +247,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0776, REF-0777, REF-0778.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2153,
   REF-2154, REF-2155, REF-2156, REF-2157, REF-2158, REF-2159, REF-2160, REF-2161, REF-2162, REF-2163)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

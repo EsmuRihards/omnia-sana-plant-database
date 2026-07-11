@@ -14578,6 +14578,85 @@
    "parts_used": [
     "Seed"
    ],
+   "botanical_description": {
+    "text": "Evergreen shrub or small tree with glossy, dark green, oval leaves in opposite pairs. Small, fragrant, white, star-shaped flowers cluster along the branches, followed by clusters of green berries ('cherries') that ripen to red and each contain two flattened seeds - the coffee beans.",
+    "height": "Up to 5-10 m in the wild (kept pruned to 2-3 m under cultivation)",
+    "habit": "Evergreen shrub or small tree, usually pruned lower in cultivation",
+    "leaves": "Glossy, dark green, oval, in opposite pairs",
+    "flowers": "Small, fragrant, white, star-shaped, clustered along the branches",
+    "stem": "Woody, branching",
+    "root": "Deep taproot with fibrous lateral roots",
+    "fruit": "Fleshy berry ('cherry') ripening green to red, containing two flattened seeds (coffee beans)",
+    "flowering_period": "Varies with climate; often after the rainy season",
+    "reference_ids": [
+     "REF-2379"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the highland forests of Ethiopia and South Sudan; cultivated across the tropical highland belt worldwide (Latin America, Africa, Asia) at elevation, on well-drained, often volcanic soils.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Ripe red berries are hand- or machine-picked, then processed (washed or dried) to remove the fruit pulp and expose the two seeds ('beans'), which are dried, hulled and roasted before use.",
+    "parts": [
+     "Seed"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Coffee has a centuries-long tradition, originating in Ethiopia and spreading through the Arab world and beyond, as a stimulant beverage taken for alertness and to counter fatigue; its seed and leaf extracts have more recently been studied for antioxidant, metabolic and neuroprotective properties.",
+    "reference_ids": [
+     "REF-2379"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Roasted, brewed (culinary/traditional)",
+     "text": "Roasted, ground seed brewed with hot water as the classic stimulant beverage; the most common form of use worldwide.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Decaffeinated or standardised green/roasted bean or leaf extract, taken as capsules for antioxidant or metabolic support studies.",
+     "reference_ids": [
+      "REF-2379"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Brewed coffee",
+     "text": "General health guidance considers up to about 400 mg caffeine daily (roughly 3-4 cups of brewed coffee) as moderate intake for most healthy adults; lower limits apply in pregnancy (under 200 mg/day). Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Caffeine",
+     "note": "The principal stimulant alkaloid, driving alertness and much of coffee's pharmacological activity.",
+     "reference_ids": [
+      "REF-2379"
+     ]
+    },
+    {
+     "name": "Chlorogenic acids",
+     "compounds": [
+      "chlorogenic-acid",
+      "phenolic-acid"
+     ],
+     "note": "Major antioxidant polyphenols of the green and roasted bean, linked to metabolic and hypoglycaemic effects.",
+     "reference_ids": [
+      "REF-2379"
+     ]
+    },
+    {
+     "name": "Diterpenes (cafestol, kahweol)",
+     "note": "Present in unfiltered coffee (e.g. French press, espresso); raise LDL cholesterol, unlike paper-filtered coffee where they are largely removed."
+    }
+   ],
    "actions": [
     {
      "action": "antioxidant",
@@ -14740,7 +14819,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "coffee-arabica-robusta"
   },
   {
@@ -14759,6 +14838,89 @@
    "family": "Cordycipitaceae",
    "parts_used": [
     "Whole Plant"
+   ],
+   "botanical_description": {
+    "text": "Entomopathogenic fungus (not a true plant) that develops from a mycelium infecting and consuming an insect host - classically a moth caterpillar or pupa buried in the soil. In late season it produces a slender, bright orange, club-shaped fruiting body (stroma) that emerges from the ground above the mummified host, its surface minutely roughened with embedded spore-producing structures.",
+    "height": "Fruiting body 2-8 cm",
+    "habit": "Entomopathogenic fungus, fruiting body emerging from a buried insect host",
+    "leaves": "Not applicable (fungus)",
+    "flowers": "Not applicable (fungus)",
+    "stem": "Slender, bright orange, club-shaped fruiting body (stroma)",
+    "root": "Anchored to the mummified insect host below ground",
+    "fruit": "Minutely roughened fertile head bearing embedded perithecia (spore-producing structures)",
+    "flowering_period": "Fruiting body typically appears in autumn",
+    "reference_ids": [
+     "REF-2153"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on insect larvae and pupae in cool, moist forest soils and grassland across temperate and alpine East Asia; commercially, most Cordyceps militaris is now cultivated on grain or insect-based substrate rather than wild-collected.",
+    "reference_ids": [
+     "REF-2153"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Wild fruiting bodies are dug up carefully with the insect host attached, in autumn when they emerge; cultivated material is harvested from the growing substrate once the orange fruiting bodies mature, then dried.",
+    "parts": [
+     "Whole Plant"
+    ],
+    "season": "Autumn (wild); at maturity under cultivation",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Cordyceps has a centuries-long reputation in Chinese and Tibetan traditional medicine as a tonic ('Dong Chong Xia Cao' - winter worm, summer grass) for vitality, stamina, respiratory and kidney support, and recovery from fatigue and illness, and remains a prized adaptogenic tonic today.",
+    "reference_ids": [
+     "REF-0218",
+     "REF-0318"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Cultivated fruiting-body extract, standardised to cordycepin or polysaccharide content, taken as capsules or powder.",
+     "reference_ids": [
+      "REF-2153"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Dried fruiting body simmered in water or added to soups/tonics, a traditional preparation.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Studies of ergogenic and immune support commonly use around 1-3 g of dried fruiting body or standardised extract daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Cordycepin (3'-deoxyadenosine)",
+     "note": "A nucleoside analogue considered the marker bioactive compound, studied for anti-inflammatory, antioxidant and metabolic effects.",
+     "reference_ids": [
+      "REF-0776"
+     ]
+    },
+    {
+     "name": "Polysaccharides",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Immunomodulatory and antioxidant polysaccharides, a major focus of both oral and topical product development.",
+     "reference_ids": [
+      "REF-2153"
+     ]
+    },
+    {
+     "name": "Ergosterol and adenosine",
+     "note": "Additional characteristic fungal sterol and nucleoside constituents."
+    }
    ],
    "actions": [
     {
@@ -14962,7 +15124,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "cordyceps"
   },
   {
@@ -14982,6 +15144,108 @@
     "Root",
     "Seed",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Slender annual herb with delicate, broad, lobed lower leaves and finely divided, feathery upper leaves - a marked contrast within the same plant. Small white or pale pink flowers are borne in flat compound umbels, followed by round, ridged, aromatic seeds. The fresh leaf ('cilantro') has a distinctive citrusy aroma, often described as soapy by those with a genetic sensitivity to it.",
+    "height": "30-70 cm",
+    "habit": "Slender, erect annual herb",
+    "leaves": "Lower leaves broad and lobed; upper leaves finely divided and feathery",
+    "flowers": "Small white or pale pink flowers in flat compound umbels",
+    "stem": "Slender, erect, branching, hollow",
+    "root": "Slender taproot",
+    "fruit": "Round, ridged, aromatic seed (mericarp)",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-1700"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Believed native to the Mediterranean region and Western Asia; cultivated worldwide as a culinary herb and spice crop on well-drained, sunny sites.",
+    "reference_ids": [
+     "REF-1700"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Leaves are picked fresh through the growing season, before the plant bolts (flowers), when the flavour is best; the seed is harvested in late summer once the umbels have browned and dried, then threshed; the root can be dug at the same time as young leaves.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Seed",
+     "Stem"
+    ],
+    "season": "Leaf before flowering; seed in late summer",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Coriander seed and leaf have a very long culinary and medicinal history across the Mediterranean, Middle East and Asia as a digestive carminative for indigestion, bloating and cramping, and, more recently, studied for calming/anxiolytic effects on the central nervous system alongside cardiovascular and metabolic benefits.",
+    "reference_ids": [
+     "REF-1700",
+     "REF-0779"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (seed)",
+     "text": "Crushed seed infused in hot water as a traditional carminative digestive tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Fresh leaf (culinary)",
+     "text": "Fresh leaf used as a culinary herb and garnish, the most common form of use, continuing the food-medicine tradition.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Seed powder or extract studied for glycaemic and psychiatric-symptom support in clinical and preclinical work.",
+     "reference_ids": [
+      "REF-0779"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed infusion/powder",
+     "text": "Traditional herbal references suggest around 1-3 g of crushed seed per cup or dose, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (linalool)",
+     "compounds": [
+      "essential-oil",
+      "linalool"
+     ],
+     "note": "Seed essential oil dominated by linalool, giving the characteristic aroma and much of the antimicrobial and carminative activity.",
+     "reference_ids": [
+      "REF-1700"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic compounds",
+     "compounds": [
+      "flavonoid",
+      "phenolic-compound"
+     ],
+     "note": "Antioxidant flavonoids and phenolics, notably quercetin derivatives, identified across leaf and seed extracts.",
+     "reference_ids": [
+      "REF-1700"
+     ]
+    },
+    {
+     "name": "Phytosterols",
+     "compounds": [
+      "phytosterol"
+     ],
+     "note": "Contribute to the plant's cardiovascular and metabolic activity.",
+     "reference_ids": [
+      "REF-1700"
+     ]
+    }
    ],
    "actions": [
     {
@@ -15250,7 +15514,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "coriander"
   },
   {
@@ -15266,6 +15530,97 @@
     "Flower",
     "Fruit",
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Small deciduous tree or large shrub with thorny branches and glossy, shallowly lobed leaves (less deeply cut than common hawthorn). Clusters of small, five-petalled white (occasionally pink) flowers with a strong scent appear in spring, followed by small red berries (haws), each usually containing two seeds (nutlets).",
+    "height": "4-8 m",
+    "habit": "Small deciduous, thorny tree or large shrub",
+    "leaves": "Glossy, shallowly lobed (less deeply cut than C. monogyna)",
+    "flowers": "Clusters of small, five-petalled white to pink, strongly scented flowers",
+    "stem": "Thorny branches; grey, fissured bark on older wood",
+    "root": "Deep, spreading root system",
+    "fruit": "Small red berry (haw), usually with two seeds",
+    "flowering_period": "April-May",
+    "reference_ids": [
+     "REF-0782"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in woodland, woodland edges, hedgerows and scrub, typically on richer, damper soils than common hawthorn; native to western and central Europe.",
+    "reference_ids": [
+     "REF-0782"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flowers are picked as they open in spring, leaves are picked with the young flowering shoots, and the ripe red berries (haws) are gathered in autumn; all three parts are used, often combined, in hawthorn preparations.",
+    "parts": [
+     "Flower",
+     "Fruit",
+     "Leaf"
+    ],
+    "season": "Flower and leaf in spring; fruit in autumn",
+    "reference_ids": [
+     "REF-0782"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Hawthorn flower, leaf and berry have a long European tradition, and substantial modern clinical study, as a cardiovascular tonic - supporting heart function, mild circulatory complaints and calming nervous tension - reflected in its traditional use for 'heart strengthening' and its modern standing as a well-studied botanical for mild heart failure symptoms.",
+    "reference_ids": [
+     "REF-0782"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Leaf-and-flower extract standardised to flavonoid or oligomeric proanthocyanidin content, taken as tablets or capsules; the best-studied clinical form.",
+     "reference_ids": [
+      "REF-0782"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried flower, leaf or berry infused in hot water as a traditional cardiovascular and calming tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flower, leaf or berry.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical studies commonly use around 160-900 mg of standardised leaf-and-flower extract daily, in divided doses, with effects often taking 4-8 weeks to emerge; never used as a substitute for prescribed heart medication without medical supervision. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Oligomeric proanthocyanidins and flavonoids",
+     "compounds": [
+      "proanthocyanidin",
+      "flavonoid",
+      "quercetin"
+     ],
+     "note": "The principal cardioactive and antioxidant constituents, the basis for extract standardisation.",
+     "reference_ids": [
+      "REF-1780"
+     ]
+    },
+    {
+     "name": "Phenolic acids",
+     "compounds": [
+      "phenolic-acid",
+      "chlorogenic-acid"
+     ],
+     "note": "Additional antioxidant constituents of the flower, leaf and fruit."
+    }
    ],
    "actions": [
     {
@@ -15472,7 +15827,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "midland-hawthorn"
   },
   {
@@ -15489,6 +15844,101 @@
     "Flower",
     "Fruit",
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Small deciduous tree or large shrub, densely thorny, with deeply lobed, glossy leaves (more deeply cut than midland hawthorn). Clusters of small, five-petalled white flowers with a strong, musky scent appear in spring ('May blossom'), followed by small red berries (haws), each containing a single seed (nutlet) - the origin of the species name monogyna.",
+    "height": "5-10 m",
+    "habit": "Small deciduous, densely thorny tree or large shrub",
+    "leaves": "Deeply lobed, glossy (more deeply cut than C. laevigata)",
+    "flowers": "Clusters of small, five-petalled white, strongly musky-scented flowers",
+    "stem": "Densely thorny branches; grey, fissured bark on older wood",
+    "root": "Deep, spreading root system",
+    "fruit": "Small red berry (haw), containing a single seed",
+    "flowering_period": "May",
+    "reference_ids": [
+     "REF-1709"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "One of the commonest hedgerow and scrub trees of Europe, growing in hedgerows, woodland edges, scrub and pasture on a wide range of soils; native to Europe, North Africa and Western Asia.",
+    "reference_ids": [
+     "REF-1709"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flowers are picked as they open in May, leaves are picked with the young flowering shoots, and the ripe red berries (haws) are gathered in autumn after the first frosts soften them slightly; all three parts are traditionally combined.",
+    "parts": [
+     "Flower",
+     "Fruit",
+     "Leaf"
+    ],
+    "season": "Flower and leaf in May; fruit in autumn",
+    "reference_ids": [
+     "REF-1709"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Common hawthorn shares the same long cardiovascular and calming tradition as midland hawthorn, used across European herbal medicine as a heart tonic for mild circulatory complaints, palpitations and nervous tension, and remains one of the most clinically studied cardiovascular botanicals.",
+    "reference_ids": [
+     "REF-1709"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Leaf-and-flower extract standardised to flavonoid or procyanidin content, taken as tablets or capsules; the best-studied clinical form.",
+     "reference_ids": [
+      "REF-1709"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried flower, leaf or berry infused in hot water as a traditional cardiovascular and calming tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flower, leaf or berry.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical studies commonly use around 160-900 mg of standardised leaf-and-flower extract daily, in divided doses, with effects often taking 4-8 weeks to emerge; never used as a substitute for prescribed heart medication without medical supervision. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Flavonoids (catechins, quercetin, vitexin) and anthocyanins",
+     "compounds": [
+      "flavonoid",
+      "catechin",
+      "quercetin",
+      "anthocyanin"
+     ],
+     "note": "Principal cardioprotective and antioxidant polyphenols characterised by chemical profiling of leaf, flower and fruit.",
+     "reference_ids": [
+      "REF-1709",
+      "REF-0785"
+     ]
+    },
+    {
+     "name": "Oligomeric proanthocyanidins",
+     "compounds": [
+      "proanthocyanidin"
+     ],
+     "note": "Contribute to the vasoactive and antioxidant effects, the basis for extract standardisation.",
+     "reference_ids": [
+      "REF-1709"
+     ]
+    }
    ],
    "actions": [
     {
@@ -15670,7 +16120,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "hawthorn"
   },
   {

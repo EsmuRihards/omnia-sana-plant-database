@@ -10,6 +10,84 @@ parts_used:
 - Flower
 - Fruit
 - Leaf
+botanical_description:
+  text: Small deciduous tree or large shrub, densely thorny, with deeply lobed, glossy leaves (more deeply
+    cut than midland hawthorn). Clusters of small, five-petalled white flowers with a strong, musky scent
+    appear in spring ('May blossom'), followed by small red berries (haws), each containing a single seed
+    (nutlet) - the origin of the species name monogyna.
+  height: 5-10 m
+  habit: Small deciduous, densely thorny tree or large shrub
+  leaves: Deeply lobed, glossy (more deeply cut than C. laevigata)
+  flowers: Clusters of small, five-petalled white, strongly musky-scented flowers
+  stem: Densely thorny branches; grey, fissured bark on older wood
+  root: Deep, spreading root system
+  fruit: Small red berry (haw), containing a single seed
+  flowering_period: May
+  reference_ids:
+  - REF-1709
+  status: verified
+habitat:
+  text: One of the commonest hedgerow and scrub trees of Europe, growing in hedgerows, woodland edges,
+    scrub and pasture on a wide range of soils; native to Europe, North Africa and Western Asia.
+  reference_ids:
+  - REF-1709
+  status: verified
+harvesting:
+  text: Flowers are picked as they open in May, leaves are picked with the young flowering shoots, and
+    the ripe red berries (haws) are gathered in autumn after the first frosts soften them slightly; all
+    three parts are traditionally combined.
+  parts:
+  - Flower
+  - Fruit
+  - Leaf
+  season: Flower and leaf in May; fruit in autumn
+  reference_ids:
+  - REF-1709
+  status: verified
+traditional_uses:
+  text: Common hawthorn shares the same long cardiovascular and calming tradition as midland hawthorn,
+    used across European herbal medicine as a heart tonic for mild circulatory complaints, palpitations
+    and nervous tension, and remains one of the most clinically studied cardiovascular botanicals.
+  reference_ids:
+  - REF-1709
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Leaf-and-flower extract standardised to flavonoid or procyanidin content, taken as tablets or
+    capsules; the best-studied clinical form.
+  reference_ids:
+  - REF-1709
+  status: verified
+- name: Infusion
+  text: Dried flower, leaf or berry infused in hot water as a traditional cardiovascular and calming tea.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried flower, leaf or berry.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical studies commonly use around 160-900 mg of standardised leaf-and-flower extract daily,
+    in divided doses, with effects often taking 4-8 weeks to emerge; never used as a substitute for prescribed
+    heart medication without medical supervision. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Flavonoids (catechins, quercetin, vitexin) and anthocyanins
+  compounds:
+  - flavonoid
+  - catechin
+  - quercetin
+  - anthocyanin
+  note: Principal cardioprotective and antioxidant polyphenols characterised by chemical profiling of
+    leaf, flower and fruit.
+  reference_ids:
+  - REF-1709
+  - REF-0785
+- name: Oligomeric proanthocyanidins
+  compounds:
+  - proanthocyanidin
+  note: Contribute to the vasoactive and antioxidant effects, the basis for extract standardisation.
+  reference_ids:
+  - REF-1709
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -112,7 +190,10 @@ references:
 drug_class_interactions:
 - drug_class: cardiac-glycosides
   severity: caution
-  mechanism: 'Hawthorn has its own positive effect on the heart (a Cochrane review found it improves heart-failure symptoms and exercise tolerance) and shares P-glycoprotein handling with digoxin, so combining it with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled study found no major change in digoxin levels.'
+  mechanism: Hawthorn has its own positive effect on the heart (a Cochrane review found it improves heart-failure
+    symptoms and exercise tolerance) and shares P-glycoprotein handling with digoxin, so combining it
+    with digoxin or other cardiac-glycoside heart drugs should be supervised even though a controlled
+    study found no major change in digoxin levels.
   reference_ids:
   - REF-2441
   - REF-2442
@@ -122,7 +203,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antihypertensives
   severity: caution
-  mechanism: 'Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand (a Cochrane meta-analysis found a lower pressure-heart-rate product), which may add to the effect of blood-pressure and heart-failure medicines.'
+  mechanism: Hawthorn can mildly lower blood pressure and reduce cardiac oxygen demand (a Cochrane meta-analysis
+    found a lower pressure-heart-rate product), which may add to the effect of blood-pressure and heart-failure
+    medicines.
   reference_ids:
   - REF-2442
   - REF-2526
@@ -131,7 +214,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Hawthorn is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Hawthorn is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -144,7 +229,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -153,4 +238,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0785, REF-0786, REF-0787.
   | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1709,
   REF-0786, REF-1710, REF-1711, REF-1712, REF-1713, REF-1714, REF-1715, REF-1716, REF-1717) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

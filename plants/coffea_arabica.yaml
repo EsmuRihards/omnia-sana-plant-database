@@ -6,6 +6,71 @@ common_names:
 family: Rubiaceae
 parts_used:
 - Seed
+botanical_description:
+  text: Evergreen shrub or small tree with glossy, dark green, oval leaves in opposite pairs. Small, fragrant,
+    white, star-shaped flowers cluster along the branches, followed by clusters of green berries ('cherries')
+    that ripen to red and each contain two flattened seeds - the coffee beans.
+  height: Up to 5-10 m in the wild (kept pruned to 2-3 m under cultivation)
+  habit: Evergreen shrub or small tree, usually pruned lower in cultivation
+  leaves: Glossy, dark green, oval, in opposite pairs
+  flowers: Small, fragrant, white, star-shaped, clustered along the branches
+  stem: Woody, branching
+  root: Deep taproot with fibrous lateral roots
+  fruit: Fleshy berry ('cherry') ripening green to red, containing two flattened seeds (coffee beans)
+  flowering_period: Varies with climate; often after the rainy season
+  reference_ids:
+  - REF-2379
+  status: verified
+habitat:
+  text: Native to the highland forests of Ethiopia and South Sudan; cultivated across the tropical highland
+    belt worldwide (Latin America, Africa, Asia) at elevation, on well-drained, often volcanic soils.
+  status: draft
+harvesting:
+  text: Ripe red berries are hand- or machine-picked, then processed (washed or dried) to remove the fruit
+    pulp and expose the two seeds ('beans'), which are dried, hulled and roasted before use.
+  parts:
+  - Seed
+  status: draft
+traditional_uses:
+  text: Coffee has a centuries-long tradition, originating in Ethiopia and spreading through the Arab
+    world and beyond, as a stimulant beverage taken for alertness and to counter fatigue; its seed and
+    leaf extracts have more recently been studied for antioxidant, metabolic and neuroprotective properties.
+  reference_ids:
+  - REF-2379
+  status: verified
+preparations:
+- name: Roasted, brewed (culinary/traditional)
+  text: Roasted, ground seed brewed with hot water as the classic stimulant beverage; the most common
+    form of use worldwide.
+  status: draft
+- name: Standardised extract
+  text: Decaffeinated or standardised green/roasted bean or leaf extract, taken as capsules for antioxidant
+    or metabolic support studies.
+  reference_ids:
+  - REF-2379
+  status: verified
+dosage:
+- name: Brewed coffee
+  text: General health guidance considers up to about 400 mg caffeine daily (roughly 3-4 cups of brewed
+    coffee) as moderate intake for most healthy adults; lower limits apply in pregnancy (under 200 mg/day).
+    Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Caffeine
+  note: The principal stimulant alkaloid, driving alertness and much of coffee's pharmacological activity.
+  reference_ids:
+  - REF-2379
+- name: Chlorogenic acids
+  compounds:
+  - chlorogenic-acid
+  - phenolic-acid
+  note: Major antioxidant polyphenols of the green and roasted bean, linked to metabolic and hypoglycaemic
+    effects.
+  reference_ids:
+  - REF-2379
+- name: Diterpenes (cafestol, kahweol)
+  note: Present in unfiltered coffee (e.g. French press, espresso); raise LDL cholesterol, unlike paper-filtered
+    coffee where they are largely removed.
 actions:
 - action: antioxidant
   reference_ids:
@@ -145,7 +210,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -153,4 +218,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 8 PubMed-verified @article sources (REF-2379, REF-2380, REF-2381, REF-2382, REF-2383,
   REF-2384, REF-2385, REF-2386) — woven into relevant actions/indications and the plant-level references
-  bucket.'
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage + constituents) sourced from the existing references bucket; general/undated claims
+  marked status: draft per the integrity-first sourcing policy.'

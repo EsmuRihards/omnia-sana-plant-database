@@ -50565,6 +50565,82 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Perennial herb (Caryophyllaceae), 30-90 cm tall, with erect, smooth or slightly hairy stems. Leaves are opposite, elliptical to lance-shaped, with 3-5 prominent veins. Clusters of fragrant, pale pink to white, five-petalled flowers are borne at the stem tips. The root system is creeping and rhizomatous.",
+    "height": "30-90 cm",
+    "habit": "Erect perennial herb, spreading by rhizome",
+    "leaves": "Opposite, elliptical to lance-shaped, 3-5-veined",
+    "flowers": "Fragrant, pale pink to white, five-petalled, in terminal clusters",
+    "stem": "Erect, smooth or slightly hairy",
+    "root": "Creeping rhizome",
+    "fruit": "Small dry capsule",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0512"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe and western Asia and widely naturalised elsewhere; grows on riverbanks, roadsides, waste ground and damp meadows, often near old settlements, reflecting its historic cultivation as a source of soap.",
+    "reference_ids": [
+     "REF-0512"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug in autumn (traditionally from 2-3-year-old plants), when saponin content is highest; aerial parts are cut during the growing season.",
+    "parts": [
+     "Root",
+     "Aerial parts"
+    ],
+    "season": "Root in autumn; aerial parts during the growing season",
+    "reference_ids": [
+     "REF-0512"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Soapwort takes its name from its traditional use as a natural, gentle soap - the root, crushed and agitated in water, produces a lathering saponin solution historically used for washing delicate fabrics and, topically, for skin conditions like eczema. Internal use as an expectorant for cough is an older tradition now considered outdated given the irritant, haemolytic risk of concentrated saponins.",
+    "reference_ids": [
+     "REF-0511",
+     "REF-0512"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Root decoction (topical wash)",
+     "text": "Crushed root simmered in water to produce a lathering, gentle cleansing wash for skin and delicate textiles.",
+     "reference_ids": [
+      "REF-0512"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (internal, traditional/outdated)",
+     "text": "Dried aerial parts or diluted root steeped in hot water; internal use only under professional supervision given real toxicity risk.",
+     "reference_ids": [
+      "REF-0511"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Topical salve/poultice",
+     "text": "Prepared root or aerial parts applied to irritated skin.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Internal use",
+     "text": "Given the real risk of haemolysis and gastrointestinal irritation from concentrated saponins, internal use should only be undertaken under professional supervision, at low doses and for short periods; topical/external use as a wash is the safer traditional application. Educational reference only, not a prescription; never take in large or prolonged doses.",
+     "reference_ids": [
+      "REF-0511",
+      "REF-0512"
+     ],
+     "status": "verified"
+    }
+   ],
    "actions": [
     {
      "action": "expectorant",
@@ -50681,7 +50757,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "soapwort"
   },
   {
@@ -50718,6 +50794,86 @@
      "reference_ids": [
       "REF-0505"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Deciduous woody climbing vine (liana, Schisandraceae) that can reach several metres, with twining stems and reddish-brown bark. Leaves are alternate, elliptical and glossy. Small, fragrant, pink-white flowers are followed by drooping clusters of small, bright red berries - the 'five-flavour' fruit, said to embody all five traditional flavours: sour, bitter, sweet, pungent and salty.",
+    "height": "Climbing vine, several metres",
+    "habit": "Deciduous woody climbing vine (liana)",
+    "leaves": "Alternate, elliptical, glossy",
+    "flowers": "Small, fragrant, pink-white",
+    "stem": "Twining, reddish-brown bark",
+    "root": "Woody perennial root system",
+    "fruit": "Drooping clusters of small, bright red berries",
+    "flowering_period": "May-June; berries ripen August-September",
+    "reference_ids": [
+     "REF-0505"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to north-eastern China, Korea, Japan and the Russian Far East, growing in cool, moist mixed and deciduous forests, often climbing on trees and shrubs along forest edges and riverbanks.",
+    "reference_ids": [
+     "REF-0506"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Ripe berries are hand-picked in autumn once they turn deep red, then dried in the sun or by low heat.",
+    "parts": [
+     "Fruit (berry)"
+    ],
+    "season": "Autumn",
+    "reference_ids": [
+     "REF-0505"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Schisandra berry ('Wu Wei Zi') has a centuries-old place in Traditional Chinese Medicine as a premier adaptogen and 'astringent' tonic, used to boost energy, sharpen mental focus, and support liver and kidney function. It is one of the classically defined adaptogen herbs, and modern research on its dibenzocyclooctadiene lignans supports antioxidant, hepatoprotective and stress-resistance activity.",
+    "reference_ids": [
+     "REF-0506",
+     "REF-0505"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Dried berry (whole/chewed)",
+     "text": "Traditional Traditional Chinese Medicine form, chewed or added to decoctions.",
+     "status": "draft"
+    },
+    {
+     "name": "Decoction/tea",
+     "text": "Dried berries simmered in water, a classic Traditional Chinese Medicine preparation, often combined with other herbs.",
+     "reference_ids": [
+      "REF-0506"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract (capsule)",
+     "text": "The concentrated commercial form, standardised for lignan content.",
+     "reference_ids": [
+      "REF-0505"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried berries.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Dried berry / extract",
+     "text": "Traditional Chinese Medicine dosing typically uses about 1.5-6 g dried berry per day as a decoction, and standardised extract capsules follow product-specific dosing (commonly a few hundred mg to 1-2 g/day of extract). Educational reference only, not a prescription; because schisandra affects CYP3A/P-glycoprotein drug metabolism, check for interactions with any prescription medicines.",
+     "reference_ids": [
+      "REF-0505",
+      "REF-0506"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -50965,7 +51121,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "schisandra"
   },
   {
@@ -51019,6 +51175,82 @@
      "reference_ids": [
       "REF-0452"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Tall perennial herb (Scrophulariaceae), 50-100 cm (occasionally more), with a distinctly square stem. Leaves are opposite, ovate, toothed and unpleasant-smelling. Small, dull maroon-brown, two-lipped flowers are borne in loose, branched clusters (cymes), followed by small dry seed capsules.",
+    "height": "50-100 cm (occasionally more)",
+    "habit": "Tall, square-stemmed perennial herb",
+    "leaves": "Opposite, ovate, toothed, unpleasant-smelling",
+    "flowers": "Small, dull maroon-brown, two-lipped, in loose branched cymes",
+    "stem": "Distinctly square",
+    "root": "Knotty rhizomatous root (historically likened to swollen glands, per the Doctrine of Signatures)",
+    "fruit": "Small dry seed capsule",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0452"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe and western Asia, growing in damp woods, hedge banks, ditches and shady waste ground on moist, nutrient-rich soils.",
+    "reference_ids": [
+     "REF-0452"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Aerial parts are cut during flowering (summer); the root can also be dug in autumn.",
+    "parts": [
+     "Aerial parts",
+     "Root"
+    ],
+    "season": "Aerial parts in summer (flowering); root in autumn",
+    "reference_ids": [
+     "REF-0452"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Figwort takes one common name, 'scrofula plant', from its historic traditional use for scrofula (tuberculous lymph-node swelling) under the Doctrine of Signatures, its knotty root resembling swollen glands. It has a long folk-medicine reputation as an 'alterative' (blood-purifying) herb for chronic skin conditions such as eczema and psoriasis, applied as a poultice, salve or tea.",
+    "reference_ids": [
+     "REF-0451",
+     "REF-0452"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Poultice/salve (topical)",
+     "text": "Crushed fresh or prepared aerial parts applied to skin conditions such as eczema and psoriasis.",
+     "reference_ids": [
+      "REF-0452"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried aerial parts steeped in hot water, a traditional alterative/diuretic preparation.",
+     "reference_ids": [
+      "REF-0452"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract, less commonly used.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Traditional guidance suggests roughly 2-4 g dried herb per cup as an infusion, taken cautiously and short-term given limited safety data and the cardioactive harpagoside content. Educational reference only, not a prescription; avoid with heart conditions/cardiac medicines and in pregnancy.",
+     "reference_ids": [
+      "REF-0451",
+      "REF-0452"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -51251,7 +51483,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "figwort"
   },
   {
@@ -51289,6 +51521,80 @@
      "reference_ids": [
       "REF-0510"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Perennial herb (Lamiaceae), 30-80 cm tall, with square stems. Leaves are opposite, ovate to lance-shaped and toothed. Small blue, two-lipped flowers are borne in one-sided leafy racemes arising from the leaf axils; the helmet-shaped calyx gives the genus its 'skullcap' name.",
+    "height": "30-80 cm",
+    "habit": "Erect perennial herb",
+    "leaves": "Opposite, ovate to lance-shaped, toothed",
+    "flowers": "Small, blue, two-lipped, in one-sided axillary racemes",
+    "stem": "Square",
+    "root": "Fibrous perennial rootstock",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0510"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to North America, growing in damp meadows, marshes, streambanks and wet woodland margins.",
+    "reference_ids": [
+     "REF-0510"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The whole flowering aerial parts are cut at flowering (summer) and dried. Given the well-documented history of adulteration with toxic germander, sourcing from an authenticated, tested supplier is essential rather than home foraging of an uncertain look-alike.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0510"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "American skullcap has a Native American and 19th-century Eclectic-medicine tradition as a calming nervine for anxiety and nervous tension - the old name 'mad-dog skullcap' reflects a folk remedy explored for rabies. Modern research on its flavonoids baicalin and baicalein, which bind the benzodiazepine site of the GABA-A receptor, supports its calming, anxiolytic and sleep-supporting reputation.",
+    "reference_ids": [
+     "REF-0510"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried aerial parts steeped in hot water - the classic calming preparation.",
+     "reference_ids": [
+      "REF-0510"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract, a common commercial form; content is known to vary widely between products.",
+     "reference_ids": [
+      "REF-0550"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract (capsule)",
+     "text": "Flavonoid-standardised commercial extract.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea) / tincture",
+     "text": "Traditional guidance suggests roughly 1-2 g dried herb per cup as an infusion, up to three times daily, or a tincture per product-specific dosing given known variability in flavonoid content between commercial products. Educational reference only, not a prescription; buy only from a source that has authenticated the species and tested for germander adulteration.",
+     "reference_ids": [
+      "REF-0510",
+      "REF-0550"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -51433,7 +51739,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "skullcap"
   },
   {
@@ -51576,7 +51882,80 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
+   "botanical_description": {
+    "text": "Low, clump-forming fan-palm shrub (Arecaceae), usually with a creeping or short, often prostrate trunk. Leaves are fan-shaped (palmate) on long, spiny-edged stalks. Small, creamy-white flowers are borne in branched clusters among the leaves, followed by large, dark blue-black, olive-sized berries - the part used.",
+    "height": "Low, spreading; trunk often prostrate or short",
+    "habit": "Low, clump-forming fan-palm shrub",
+    "leaves": "Fan-shaped (palmate), on long, spiny-edged stalks",
+    "flowers": "Small, creamy-white, in branched clusters among the leaves",
+    "stem": "Creeping or short, often prostrate trunk",
+    "root": "Fibrous root system",
+    "fruit": "Large, dark blue-black, olive-sized berries",
+    "flowering_period": "Spring (April-June); berries ripen late summer to autumn",
+    "reference_ids": [
+     "REF-0496"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the south-eastern United States (particularly Florida and the Gulf Coast), a dominant understorey palm of coastal pine flatwoods, scrub and sandy coastal habitats.",
+    "reference_ids": [
+     "REF-0496"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Ripe berries are hand-harvested in late summer/autumn once they turn dark blue-black, then dried. Wild harvest is regulated in parts of the plant's native range given conservation concerns about overharvesting.",
+    "parts": [
+     "Fruit (berry)"
+    ],
+    "season": "Late summer to autumn",
+    "reference_ids": [
+     "REF-0496"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Saw palmetto berries have a long Native American food and medicinal tradition, and were adopted into 19th- and 20th-century American and European phytotherapy as a tonic for the urinary and reproductive systems. The modern, most-studied use is for lower urinary tract symptoms of benign prostatic hyperplasia (BPH), though high-quality Cochrane evidence for pooled mixed extracts shows no benefit over placebo, while some meta-analyses of a specific standardised hexanic extract report symptom benefit.",
+    "reference_ids": [
+     "REF-0496",
+     "REF-0504"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised lipophilic (hexanic) extract (capsule)",
+     "text": "The most-studied commercial form (e.g. Permixon).",
+     "reference_ids": [
+      "REF-0571",
+      "REF-0572"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Dried berry (whole/powder)",
+     "text": "Traditional, less-concentrated form.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried berries.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials have most often used around 160 mg of standardised extract twice daily (320 mg/day total). Educational reference only, not a prescription; any prostate or urinary symptom should be medically assessed first, and saw palmetto should not replace proven treatment given uncertain efficacy evidence.",
+     "reference_ids": [
+      "REF-0496",
+      "REF-0504"
+     ],
+     "status": "verified"
+    }
+   ],
    "common_slug": "saw-palmetto"
   },
   {

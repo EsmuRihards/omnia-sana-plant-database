@@ -22,6 +22,75 @@ constituents:
   note: Antioxidant constituents of the berry.
   reference_ids:
   - REF-0505
+botanical_description:
+  text: 'Deciduous woody climbing vine (liana, Schisandraceae) that can reach several metres, with twining
+    stems and reddish-brown bark. Leaves are alternate, elliptical and glossy. Small, fragrant, pink-white
+    flowers are followed by drooping clusters of small, bright red berries - the ''five-flavour'' fruit,
+    said to embody all five traditional flavours: sour, bitter, sweet, pungent and salty.'
+  height: Climbing vine, several metres
+  habit: Deciduous woody climbing vine (liana)
+  leaves: Alternate, elliptical, glossy
+  flowers: Small, fragrant, pink-white
+  stem: Twining, reddish-brown bark
+  root: Woody perennial root system
+  fruit: Drooping clusters of small, bright red berries
+  flowering_period: May-June; berries ripen August-September
+  reference_ids:
+  - REF-0505
+  status: verified
+habitat:
+  text: Native to north-eastern China, Korea, Japan and the Russian Far East, growing in cool, moist mixed
+    and deciduous forests, often climbing on trees and shrubs along forest edges and riverbanks.
+  reference_ids:
+  - REF-0506
+  status: verified
+harvesting:
+  text: Ripe berries are hand-picked in autumn once they turn deep red, then dried in the sun or by low
+    heat.
+  parts:
+  - Fruit (berry)
+  season: Autumn
+  reference_ids:
+  - REF-0505
+  status: verified
+traditional_uses:
+  text: Schisandra berry ('Wu Wei Zi') has a centuries-old place in Traditional Chinese Medicine as a
+    premier adaptogen and 'astringent' tonic, used to boost energy, sharpen mental focus, and support
+    liver and kidney function. It is one of the classically defined adaptogen herbs, and modern research
+    on its dibenzocyclooctadiene lignans supports antioxidant, hepatoprotective and stress-resistance
+    activity.
+  reference_ids:
+  - REF-0506
+  - REF-0505
+  status: verified
+preparations:
+- name: Dried berry (whole/chewed)
+  text: Traditional Traditional Chinese Medicine form, chewed or added to decoctions.
+  status: draft
+- name: Decoction/tea
+  text: Dried berries simmered in water, a classic Traditional Chinese Medicine preparation, often combined
+    with other herbs.
+  reference_ids:
+  - REF-0506
+  status: verified
+- name: Standardised extract (capsule)
+  text: The concentrated commercial form, standardised for lignan content.
+  reference_ids:
+  - REF-0505
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried berries.
+  status: draft
+dosage:
+- name: Dried berry / extract
+  text: Traditional Chinese Medicine dosing typically uses about 1.5-6 g dried berry per day as a decoction,
+    and standardised extract capsules follow product-specific dosing (commonly a few hundred mg to 1-2
+    g/day of extract). Educational reference only, not a prescription; because schisandra affects CYP3A/P-glycoprotein
+    drug metabolism, check for interactions with any prescription medicines.
+  reference_ids:
+  - REF-0505
+  - REF-0506
+  status: verified
 actions:
 - action: adaptogen
   note: Adaptogen for fatigue and stress (improves stamina and resistance to physical and mental stressors)
@@ -157,7 +226,10 @@ references:
 drug_class_interactions:
 - drug_class: immunosuppressants
   severity: caution
-  mechanism: 'Schisandra lignans inhibit the CYP3A enzyme that clears tacrolimus and ciclosporin; in transplant patients a schisandra preparation raised tacrolimus blood levels by roughly 2-3 fold (letting doses be lowered). The strongest evidence is for the related species Schisandra sphenanthera, but the lignans are shared, so combined use warrants monitoring of immunosuppressant levels.'
+  mechanism: Schisandra lignans inhibit the CYP3A enzyme that clears tacrolimus and ciclosporin; in transplant
+    patients a schisandra preparation raised tacrolimus blood levels by roughly 2-3 fold (letting doses
+    be lowered). The strongest evidence is for the related species Schisandra sphenanthera, but the lignans
+    are shared, so combined use warrants monitoring of immunosuppressant levels.
   reference_ids:
   - REF-2480
   - REF-2481
@@ -168,7 +240,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: cyp3a4-substrates
   severity: caution
-  mechanism: 'Schisandra lignans inhibit CYP3A, a major drug-metabolising enzyme, which can raise the blood levels of medicines cleared by this pathway; check each medication individually and watch for stronger effects or side effects.'
+  mechanism: Schisandra lignans inhibit CYP3A, a major drug-metabolising enzyme, which can raise the blood
+    levels of medicines cleared by this pathway; check each medication individually and watch for stronger
+    effects or side effects.
   reference_ids:
   - REF-2481
   - REF-2480
@@ -183,7 +257,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Antioxidants review of Schisandra; Nutrients
   adaptogens review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (fatigue, stress, liver-support, cognitive-function); associations retained and now part-mapped
@@ -193,4 +267,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Antioxidants re
   entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1877, REF-1878,
   REF-0505, REF-1879, REF-1880, REF-1881, REF-1882, REF-1883, REF-1884, REF-1885, REF-1886) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing antioxidant-constituents study (REF-0505) and adaptogens
+  history/future review (REF-0506).'

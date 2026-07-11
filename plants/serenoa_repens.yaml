@@ -92,7 +92,9 @@ references:
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'Saw palmetto has been linked to prolonged bleeding time, and a case of severe intraoperative haemorrhage was reported in a patient taking it; combining it with anticoagulant or antiplatelet drugs may add to bleeding risk, so stop it before surgery.'
+  mechanism: Saw palmetto has been linked to prolonged bleeding time, and a case of severe intraoperative
+    haemorrhage was reported in a patient taking it; combining it with anticoagulant or antiplatelet drugs
+    may add to bleeding risk, so stop it before surgery.
   reference_ids:
   - REF-2458
   status: approved
@@ -104,7 +106,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane systematic review/meta-analysis;
   Canadian Journal of Urology review). High-quality evidence finds no benefit over placebo, reflected
   in needs-review action statuses. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
@@ -118,4 +120,70 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   and short-term finasteride, with better sexual-function tolerability; this contrasts with the null finding
   for pooled mixed extracts. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
   @article sources (REF-1887, REF-0571, REF-1888, REF-1889, REF-1890, REF-1891, REF-1892, REF-1893, REF-0572,
-  REF-1894, REF-1895) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1894, REF-1895) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base
+  fields, sourced from the existing BPH phytotherapy review (REF-0496) and Cochrane review (REF-0504).'
+botanical_description:
+  text: Low, clump-forming fan-palm shrub (Arecaceae), usually with a creeping or short, often prostrate
+    trunk. Leaves are fan-shaped (palmate) on long, spiny-edged stalks. Small, creamy-white flowers are
+    borne in branched clusters among the leaves, followed by large, dark blue-black, olive-sized berries
+    - the part used.
+  height: Low, spreading; trunk often prostrate or short
+  habit: Low, clump-forming fan-palm shrub
+  leaves: Fan-shaped (palmate), on long, spiny-edged stalks
+  flowers: Small, creamy-white, in branched clusters among the leaves
+  stem: Creeping or short, often prostrate trunk
+  root: Fibrous root system
+  fruit: Large, dark blue-black, olive-sized berries
+  flowering_period: Spring (April-June); berries ripen late summer to autumn
+  reference_ids:
+  - REF-0496
+  status: verified
+habitat:
+  text: Native to the south-eastern United States (particularly Florida and the Gulf Coast), a dominant
+    understorey palm of coastal pine flatwoods, scrub and sandy coastal habitats.
+  reference_ids:
+  - REF-0496
+  status: verified
+harvesting:
+  text: Ripe berries are hand-harvested in late summer/autumn once they turn dark blue-black, then dried.
+    Wild harvest is regulated in parts of the plant's native range given conservation concerns about overharvesting.
+  parts:
+  - Fruit (berry)
+  season: Late summer to autumn
+  reference_ids:
+  - REF-0496
+  status: verified
+traditional_uses:
+  text: Saw palmetto berries have a long Native American food and medicinal tradition, and were adopted
+    into 19th- and 20th-century American and European phytotherapy as a tonic for the urinary and reproductive
+    systems. The modern, most-studied use is for lower urinary tract symptoms of benign prostatic hyperplasia
+    (BPH), though high-quality Cochrane evidence for pooled mixed extracts shows no benefit over placebo,
+    while some meta-analyses of a specific standardised hexanic extract report symptom benefit.
+  reference_ids:
+  - REF-0496
+  - REF-0504
+  status: verified
+preparations:
+- name: Standardised lipophilic (hexanic) extract (capsule)
+  text: The most-studied commercial form (e.g. Permixon).
+  reference_ids:
+  - REF-0571
+  - REF-0572
+  status: verified
+- name: Dried berry (whole/powder)
+  text: Traditional, less-concentrated form.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried berries.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials have most often used around 160 mg of standardised extract twice daily (320 mg/day
+    total). Educational reference only, not a prescription; any prostate or urinary symptom should be
+    medically assessed first, and saw palmetto should not replace proven treatment given uncertain efficacy
+    evidence.
+  reference_ids:
+  - REF-0496
+  - REF-0504
+  status: verified

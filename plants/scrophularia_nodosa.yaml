@@ -35,6 +35,68 @@ constituents:
   note: Supporting antioxidant constituents.
   reference_ids:
   - REF-0452
+botanical_description:
+  text: Tall perennial herb (Scrophulariaceae), 50-100 cm (occasionally more), with a distinctly square
+    stem. Leaves are opposite, ovate, toothed and unpleasant-smelling. Small, dull maroon-brown, two-lipped
+    flowers are borne in loose, branched clusters (cymes), followed by small dry seed capsules.
+  height: 50-100 cm (occasionally more)
+  habit: Tall, square-stemmed perennial herb
+  leaves: Opposite, ovate, toothed, unpleasant-smelling
+  flowers: Small, dull maroon-brown, two-lipped, in loose branched cymes
+  stem: Distinctly square
+  root: Knotty rhizomatous root (historically likened to swollen glands, per the Doctrine of Signatures)
+  fruit: Small dry seed capsule
+  flowering_period: June-September
+  reference_ids:
+  - REF-0452
+  status: verified
+habitat:
+  text: Native to Europe and western Asia, growing in damp woods, hedge banks, ditches and shady waste
+    ground on moist, nutrient-rich soils.
+  reference_ids:
+  - REF-0452
+  status: verified
+harvesting:
+  text: Aerial parts are cut during flowering (summer); the root can also be dug in autumn.
+  parts:
+  - Aerial parts
+  - Root
+  season: Aerial parts in summer (flowering); root in autumn
+  reference_ids:
+  - REF-0452
+  status: verified
+traditional_uses:
+  text: Figwort takes one common name, 'scrofula plant', from its historic traditional use for scrofula
+    (tuberculous lymph-node swelling) under the Doctrine of Signatures, its knotty root resembling swollen
+    glands. It has a long folk-medicine reputation as an 'alterative' (blood-purifying) herb for chronic
+    skin conditions such as eczema and psoriasis, applied as a poultice, salve or tea.
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: verified
+preparations:
+- name: Poultice/salve (topical)
+  text: Crushed fresh or prepared aerial parts applied to skin conditions such as eczema and psoriasis.
+  reference_ids:
+  - REF-0452
+  status: verified
+- name: Infusion (tea)
+  text: Dried aerial parts steeped in hot water, a traditional alterative/diuretic preparation.
+  reference_ids:
+  - REF-0452
+  status: verified
+- name: Tincture
+  text: Alcoholic extract, less commonly used.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Traditional guidance suggests roughly 2-4 g dried herb per cup as an infusion, taken cautiously
+    and short-term given limited safety data and the cardioactive harpagoside content. Educational reference
+    only, not a prescription; avoid with heart conditions/cardiac medicines and in pregnancy.
+  reference_ids:
+  - REF-0451
+  - REF-0452
+  status: verified
 actions:
 - action: alterative
   note: Mild diuretic and lymphatic 'detoxifying' herb (traditional); Traditional 'alterative' for chronic
@@ -168,13 +230,26 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: atropa-belladonna
   severity: fatal
-  confused_part: Tall shady-ground plant with small dark flowers gathered for herbal use; deadly nightshade grows in similar ground and has been confused with figwort.
-  confusion_context: 'Common figwort (Scrophularia nodosa) is a tall plant of damp woods and hedge banks used in traditional herbal medicine. As the botanical reference First Nature notes, it is sometimes confused with deadly nightshade (Atropa belladonna) - both are shade-loving plants with dull, dark-coloured flowers. Deadly nightshade is one of the most poisonous plants in Europe: its tropane alkaloids (atropine, hyoscyamine, scopolamine) cause a dry flushed skin, dilated pupils, hallucinations, seizures and can be fatal. Because the two can be mistaken, especially by the dark flowers, careful identification matters.'
+  confused_part: Tall shady-ground plant with small dark flowers gathered for herbal use; deadly nightshade
+    grows in similar ground and has been confused with figwort.
+  confusion_context: 'Common figwort (Scrophularia nodosa) is a tall plant of damp woods and hedge banks
+    used in traditional herbal medicine. As the botanical reference First Nature notes, it is sometimes
+    confused with deadly nightshade (Atropa belladonna) - both are shade-loving plants with dull, dark-coloured
+    flowers. Deadly nightshade is one of the most poisonous plants in Europe: its tropane alkaloids (atropine,
+    hyoscyamine, scopolamine) cause a dry flushed skin, dilated pupils, hallucinations, seizures and can
+    be fatal. Because the two can be mistaken, especially by the dark flowers, careful identification
+    matters.'
   distinguishing_features:
-  - 'Stem (decisive): common figwort has a distinctly SQUARE stem in cross-section. Deadly nightshade has a round stem.'
-  - 'Flower size: figwort''s flowers are tiny (only about 8 mm across), roughly a third the size of deadly nightshade''s larger purplish-brown bell flowers.'
-  - 'Fruit: figwort forms small dry seed capsules, whereas deadly nightshade bears shiny black cherry-sized berries in a green star-shaped calyx - any such berries mean deadly nightshade.'
-  key_test: Feel the stem and look at the flowers/fruit. A square stem with tiny (~8 mm) dark flowers and dry seed capsules = figwort. A round stem, larger brown-purple bell flowers and shiny black berries = deadly nightshade - potentially fatal, do not gather it. If you see black berries, do not use the plant.
+  - 'Stem (decisive): common figwort has a distinctly SQUARE stem in cross-section. Deadly nightshade
+    has a round stem.'
+  - 'Flower size: figwort''s flowers are tiny (only about 8 mm across), roughly a third the size of deadly
+    nightshade''s larger purplish-brown bell flowers.'
+  - 'Fruit: figwort forms small dry seed capsules, whereas deadly nightshade bears shiny black cherry-sized
+    berries in a green star-shaped calyx - any such berries mean deadly nightshade.'
+  key_test: Feel the stem and look at the flowers/fruit. A square stem with tiny (~8 mm) dark flowers
+    and dry seed capsules = figwort. A round stem, larger brown-purple bell flowers and shiny black berries
+    = deadly nightshade - potentially fatal, do not gather it. If you see black berries, do not use the
+    plant.
   reference_ids:
   - REF-2707
   - REF-2673
@@ -184,7 +259,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from general literature (WebMD and herbal monographs); Scrophularia
   nodosa is not covered by clinical trials, so efficacy actions are needs-review. Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (eczema, psoriasis, skin-irritation); associations
@@ -194,4 +269,5 @@ internal_notes: 'Enriched 2026-06-12 from general literature (WebMD and herbal m
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1035, REF-1036, REF-1037, REF-1038, REF-1039,
   REF-1040, REF-1041, REF-1042, REF-1043, REF-1044) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing general figwort monographs (REF-0451, REF-0452).'

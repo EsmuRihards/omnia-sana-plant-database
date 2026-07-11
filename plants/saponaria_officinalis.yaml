@@ -25,6 +25,74 @@ constituents:
   note: Supporting constituents of the root.
   reference_ids:
   - REF-0512
+botanical_description:
+  text: Perennial herb (Caryophyllaceae), 30-90 cm tall, with erect, smooth or slightly hairy stems. Leaves
+    are opposite, elliptical to lance-shaped, with 3-5 prominent veins. Clusters of fragrant, pale pink
+    to white, five-petalled flowers are borne at the stem tips. The root system is creeping and rhizomatous.
+  height: 30-90 cm
+  habit: Erect perennial herb, spreading by rhizome
+  leaves: Opposite, elliptical to lance-shaped, 3-5-veined
+  flowers: Fragrant, pale pink to white, five-petalled, in terminal clusters
+  stem: Erect, smooth or slightly hairy
+  root: Creeping rhizome
+  fruit: Small dry capsule
+  flowering_period: June-September
+  reference_ids:
+  - REF-0512
+  status: verified
+habitat:
+  text: Native to Europe and western Asia and widely naturalised elsewhere; grows on riverbanks, roadsides,
+    waste ground and damp meadows, often near old settlements, reflecting its historic cultivation as
+    a source of soap.
+  reference_ids:
+  - REF-0512
+  status: verified
+harvesting:
+  text: The root is dug in autumn (traditionally from 2-3-year-old plants), when saponin content is highest;
+    aerial parts are cut during the growing season.
+  parts:
+  - Root
+  - Aerial parts
+  season: Root in autumn; aerial parts during the growing season
+  reference_ids:
+  - REF-0512
+  status: verified
+traditional_uses:
+  text: Soapwort takes its name from its traditional use as a natural, gentle soap - the root, crushed
+    and agitated in water, produces a lathering saponin solution historically used for washing delicate
+    fabrics and, topically, for skin conditions like eczema. Internal use as an expectorant for cough
+    is an older tradition now considered outdated given the irritant, haemolytic risk of concentrated
+    saponins.
+  reference_ids:
+  - REF-0511
+  - REF-0512
+  status: verified
+preparations:
+- name: Root decoction (topical wash)
+  text: Crushed root simmered in water to produce a lathering, gentle cleansing wash for skin and delicate
+    textiles.
+  reference_ids:
+  - REF-0512
+  status: verified
+- name: Infusion (internal, traditional/outdated)
+  text: Dried aerial parts or diluted root steeped in hot water; internal use only under professional
+    supervision given real toxicity risk.
+  reference_ids:
+  - REF-0511
+  status: verified
+- name: Topical salve/poultice
+  text: Prepared root or aerial parts applied to irritated skin.
+  status: draft
+dosage:
+- name: Internal use
+  text: Given the real risk of haemolysis and gastrointestinal irritation from concentrated saponins,
+    internal use should only be undertaken under professional supervision, at low doses and for short
+    periods; topical/external use as a wash is the safer traditional application. Educational reference
+    only, not a prescription; never take in large or prolonged doses.
+  reference_ids:
+  - REF-0511
+  - REF-0512
+  status: verified
 actions:
 - action: expectorant
   note: Expectorant for cough, bronchitis and upper-respiratory catarrh (saponins stimulate the cough
@@ -106,7 +174,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and MedicineNet monographs). Record
   status set to needs-review because the saponins carry a real haemolysis/irritation risk and the internal
   use is largely outdated. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
@@ -116,4 +184,6 @@ internal_notes: 'Enriched 2026-06-12 from general literature (Drugs.com and Medi
   2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
   sources (REF-1025, REF-1026, REF-1027, REF-1028, REF-1029, REF-1030, REF-1031, REF-1032, REF-1033, REF-1034)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-12: added
+  botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
+  sourced from the existing general soapwort monographs (REF-0511, REF-0512).'

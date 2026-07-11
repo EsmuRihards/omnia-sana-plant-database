@@ -15,8 +15,8 @@ parts_used:
 - Leaf
 constituents:
 - name: Gymnemic acids (triterpene saponins)
-  note: Main bioactives; suppress sweet taste and are linked to reduced intestinal
-    glucose absorption and improved glycaemic control.
+  note: Main bioactives; suppress sweet taste and are linked to reduced intestinal glucose absorption
+    and improved glycaemic control.
   reference_ids:
   - REF-2465
   - REF-2467
@@ -24,13 +24,66 @@ constituents:
   note: A peptide that transiently blunts sweet-taste perception.
   reference_ids:
   - REF-2467
+botanical_description:
+  text: Woody climbing vine with velvety, opposite, oval leaves. Small, inconspicuous, yellowish flowers
+    are borne in umbel-like clusters, followed by slender, boat-shaped seed pods. Chewing the leaf temporarily
+    and selectively blocks the perception of sweetness, giving the plant its Hindi name 'gurmar' (sugar
+    destroyer).
+  height: Woody climbing vine, several metres over support
+  habit: Woody, climbing perennial vine
+  leaves: Velvety, opposite, oval; chewing temporarily blocks sweet-taste perception
+  flowers: Small, inconspicuous, yellowish, in umbel-like clusters
+  stem: Woody, climbing, twining over support
+  root: Fibrous root system
+  fruit: Slender, boat-shaped seed pod
+  flowering_period: Varies with climate
+  status: draft
+habitat:
+  text: Native to the tropical forests of India, Sri Lanka and other parts of South and Southeast Asia
+    and tropical Africa, growing as a climber in forest margins and scrub.
+  status: draft
+harvesting:
+  text: Leaves are picked through the growing season and dried for use in decoctions or extracts.
+  parts:
+  - Leaf
+  status: draft
+traditional_uses:
+  text: Gymnema leaf (gurmar) has a long Ayurvedic tradition as a remedy for 'madhumeha' (sweet urine,
+    diabetes), chewed or taken as a decoction to reduce sugar cravings and support healthy blood sugar;
+    this traditional antidiabetic reputation is now supported by clinical trials of standardised leaf
+    extracts in type 2 diabetes.
+  reference_ids:
+  - REF-2465
+  - REF-2467
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Leaf extract standardised to gymnemic acid content, taken as capsules; the form used in most clinical
+    glycaemic-control studies.
+  reference_ids:
+  - REF-2465
+  status: verified
+- name: Decoction
+  text: Dried leaf simmered in water as a traditional Ayurvedic preparation.
+  status: draft
+- name: Chewed fresh leaf
+  text: Fresh leaf chewed directly, the traditional way of demonstrating and using its sweet-taste-blocking
+    effect.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials in type 2 diabetes commonly use around 400-800 mg of standardised leaf extract
+    daily, in divided doses. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-2465
+  status: draft
 actions:
 - action: antidiabetic
   parts:
   - Leaf
-  note: Leaf extracts lower fasting and post-prandial blood glucose and glycated haemoglobin
-    in type 2 diabetics, partly via reduced intestinal glucose absorption (alpha-glucosidase/amylase
-    inhibition) and support of insulin secretion.
+  note: Leaf extracts lower fasting and post-prandial blood glucose and glycated haemoglobin in type 2
+    diabetics, partly via reduced intestinal glucose absorption (alpha-glucosidase/amylase inhibition)
+    and support of insulin secretion.
   reference_ids:
   - REF-2465
   - REF-2466
@@ -44,8 +97,8 @@ actions:
 - action: lipid-lowering
   parts:
   - Leaf
-  note: Supplementation has been associated with a favourable shift in the lipid profile
-    alongside glucose lowering.
+  note: Supplementation has been associated with a favourable shift in the lipid profile alongside glucose
+    lowering.
   reference_ids:
   - REF-2466
   - REF-2541
@@ -75,11 +128,10 @@ indications:
   - REF-2541
   status: needs-review
 contraindications:
-- note: 'Gymnema lowers blood sugar and can add to the effect of diabetes medicines
-    or insulin, risking hypoglycaemia; people on such treatment should monitor blood
-    glucose closely and may need a dose adjustment supervised by their clinician.
-    Rare drug-induced liver injury has been reported. Avoid in pregnancy and breastfeeding
-    (insufficient safety data).'
+- note: Gymnema lowers blood sugar and can add to the effect of diabetes medicines or insulin, risking
+    hypoglycaemia; people on such treatment should monitor blood glucose closely and may need a dose adjustment
+    supervised by their clinician. Rare drug-induced liver injury has been reported. Avoid in pregnancy
+    and breastfeeding (insufficient safety data).
   severity: caution
   reference_ids:
   - REF-2465
@@ -89,10 +141,9 @@ contraindications:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Gymnema lowers blood glucose and can add to the effect of diabetes medicines
-    (metformin, sulfonylureas, insulin and others), so combined use may cause blood
-    sugar to fall too low; monitor closely and adjust medication doses under medical
-    supervision.'
+  mechanism: Gymnema lowers blood glucose and can add to the effect of diabetes medicines (metformin,
+    sulfonylureas, insulin and others), so combined use may cause blood sugar to fall too low; monitor
+    closely and adjust medication doses under medical supervision.
   reference_ids:
   - REF-2465
   - REF-2466
@@ -102,9 +153,8 @@ drug_class_interactions:
 pairings:
 - partner_id: trigonella-foenum-graecum
   type: caution
-  note: 'Gymnema and fenugreek both lower blood sugar; taking them together may add
-    up and push blood glucose too low, especially alongside diabetes medication, so
-    monitor and use caution.'
+  note: Gymnema and fenugreek both lower blood sugar; taking them together may add up and push blood glucose
+    too low, especially alongside diabetes medication, so monitor and use caution.
   reference_ids:
   - REF-2467
   status: approved
@@ -112,8 +162,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: momordica-charantia
   type: caution
-  note: 'Gymnema and bitter melon both lower blood sugar; combined use may add up
-    and risk hypoglycaemia, particularly with diabetes drugs, so monitor blood glucose.'
+  note: Gymnema and bitter melon both lower blood sugar; combined use may add up and risk hypoglycaemia,
+    particularly with diabetes drugs, so monitor blood glucose.
   reference_ids:
   - REF-2467
   status: approved
@@ -121,9 +171,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: cinnamomum-cassia
   type: caution
-  note: 'Gymnema and cassia cinnamon are both used to lower blood sugar; together
-    their effects may add up, so watch for low blood sugar when combining them or
-    using them with diabetes medication.'
+  note: Gymnema and cassia cinnamon are both used to lower blood sugar; together their effects may add
+    up, so watch for low blood sugar when combining them or using them with diabetes medication.
   reference_ids:
   - REF-2467
   status: approved
@@ -141,10 +190,12 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: pubmed
 status: verified
-last_updated: '2026-07-07'
-internal_notes: '2026-07-03: new record created for the safety-data campaign (gymnema
-  was previously absent, blocking antidiabetic herb-drug/herb-herb records). Built
-  from PubMed-verified sources: Baskaran 1990 GS4 clinical trial (REF-2465), Kumar
-  2010 open-label trial (REF-2466), Alam 2018 enzyme-inhibitor review (REF-2467),
-  Shiyovich 2010 hepatotoxicity case (REF-2468), Khan 2012 antidiabetic-plants review
-  (REF-2469). Constituents name-only (compound entities not yet linked).'
+last_updated: '2026-07-11'
+internal_notes: '2026-07-03: new record created for the safety-data campaign (gymnema was previously absent,
+  blocking antidiabetic herb-drug/herb-herb records). Built from PubMed-verified sources: Baskaran 1990
+  GS4 clinical trial (REF-2465), Kumar 2010 open-label trial (REF-2466), Alam 2018 enzyme-inhibitor review
+  (REF-2467), Shiyovich 2010 hepatotoxicity case (REF-2468), Khan 2012 antidiabetic-plants review (REF-2469).
+  Constituents name-only (compound entities not yet linked). | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
+  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
+  policy.'

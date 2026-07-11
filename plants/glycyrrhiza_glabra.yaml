@@ -7,6 +7,66 @@ common_names:
 family: Fabaceae
 parts_used:
 - Root
+botanical_description:
+  text: Herbaceous perennial legume with pinnately compound leaves of small, oval, slightly sticky leaflets.
+    Pale blue-violet to lilac pea-like flowers are borne in loose spikes, followed by small, flattened,
+    oblong pods. The sweet-tasting rhizome and root system, brownish-grey outside and bright yellow inside,
+    is the medicinal part, spreading extensively underground via stolons.
+  height: 1-1.5 m
+  habit: Herbaceous perennial legume, spreading by underground stolons
+  leaves: Pinnately compound, small oval leaflets, slightly sticky
+  flowers: Pale blue-violet to lilac, pea-like, in loose spikes
+  stem: Erect, branching
+  root: Extensive, sweet-tasting rhizome and root system, brownish-grey outside, bright yellow inside
+  fruit: Small, flattened, oblong pod
+  flowering_period: June-August
+  reference_ids:
+  - REF-0826
+  status: verified
+habitat:
+  text: Grows in dry, sunny, deep-soiled sites, riverbanks and open scrub; native to the Mediterranean
+    region and Western to Central Asia, and cultivated widely for its root.
+  reference_ids:
+  - REF-0826
+  status: verified
+harvesting:
+  text: The root and rhizome are dug in autumn from plants at least three to four years old, when glycyrrhizin
+    content is highest, then cleaned and dried; sold whole, cut, or as processed extract.
+  parts:
+  - Root
+  season: Autumn, from mature (3-4+ year) plants
+  reference_ids:
+  - REF-0826
+  status: verified
+traditional_uses:
+  text: Licorice root is one of the oldest and most widely used herbs in the world, with a documented
+    history across Chinese, Ayurvedic, Greek and European traditional medicine as a soothing demulcent
+    and expectorant for coughs and sore throat, a gastroprotective remedy for stomach discomfort and ulcers,
+    and a harmonising, sweetening addition to herbal formulas.
+  reference_ids:
+  - REF-0826
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried root simmered in water as a traditional soothing, expectorant and gastroprotective tea.
+  reference_ids:
+  - REF-0826
+  status: verified
+- name: Deglycyrrhizinated licorice (DGL)
+  text: Extract with most of the glycyrrhizin removed, used for prolonged gastric support without the
+    blood-pressure/potassium risk of whole root.
+  status: draft
+- name: Standardised extract
+  text: Root extract standardised to glycyrrhizin content, taken as capsules or lozenges.
+  reference_ids:
+  - REF-0826
+  status: verified
+dosage:
+- name: Whole root/decoction
+  text: Traditional herbal references limit regular whole-root use to under about 100 mg glycyrrhizin
+    (roughly under 10-15 g dried root) daily, and for no more than 4-6 weeks continuously, given the pseudoaldosteronism
+    risk; DGL is preferred for prolonged use. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -195,7 +255,11 @@ references:
 drug_class_interactions:
 - drug_class: antihypertensives
   severity: caution
-  mechanism: 'Licorice (glycyrrhizic acid) can cause sodium retention, potassium loss and raised blood pressure (pseudoaldosteronism), which can oppose blood-pressure medicines. Meta-analyses of randomised trials confirm that glycyrrhizic acid raises systolic and diastolic blood pressure, and a crossover trial found this even at a low daily dose (100 mg). Avoid regular or high licorice intake if you take blood-pressure medicines.'
+  mechanism: Licorice (glycyrrhizic acid) can cause sodium retention, potassium loss and raised blood
+    pressure (pseudoaldosteronism), which can oppose blood-pressure medicines. Meta-analyses of randomised
+    trials confirm that glycyrrhizic acid raises systolic and diastolic blood pressure, and a crossover
+    trial found this even at a low daily dose (100 mg). Avoid regular or high licorice intake if you take
+    blood-pressure medicines.
   reference_ids:
   - REF-2439
   - REF-2508
@@ -206,7 +270,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: cardiac-glycosides
   severity: caution
-  mechanism: 'Licorice-induced potassium loss can increase the risk of digoxin toxicity; a meta-analysis confirms licorice lowers plasma potassium, and low potassium makes the heart more sensitive to cardiac glycosides. Avoid regular or high intake.'
+  mechanism: Licorice-induced potassium loss can increase the risk of digoxin toxicity; a meta-analysis
+    confirms licorice lowers plasma potassium, and low potassium makes the heart more sensitive to cardiac
+    glycosides. Avoid regular or high intake.
   reference_ids:
   - REF-2439
   - REF-2508
@@ -215,7 +281,11 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: diuretics
   severity: caution
-  mechanism: 'Licorice (glycyrrhizic acid) causes the body to lose potassium; combined with potassium-wasting water tablets (thiazide or loop diuretics such as hydrochlorothiazide or furosemide) this can add up to dangerously low potassium, which a meta-analysis confirms licorice lowers. Licorice also works against potassium-sparing diuretics such as spironolactone by mimicking aldosterone. Avoid regular or high licorice intake with any diuretic.'
+  mechanism: Licorice (glycyrrhizic acid) causes the body to lose potassium; combined with potassium-wasting
+    water tablets (thiazide or loop diuretics such as hydrochlorothiazide or furosemide) this can add
+    up to dangerously low potassium, which a meta-analysis confirms licorice lowers. Licorice also works
+    against potassium-sparing diuretics such as spironolactone by mimicking aldosterone. Avoid regular
+    or high licorice intake with any diuretic.
   reference_ids:
   - REF-2508
   status: approved
@@ -227,7 +297,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -236,4 +306,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0826, REF-0827, REF-0828.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2187,
   REF-0826, REF-0827, REF-0828, REF-2188, REF-2189, REF-2190, REF-2191, REF-2192, REF-2193, REF-2194)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

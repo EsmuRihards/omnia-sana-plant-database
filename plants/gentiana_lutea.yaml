@@ -35,6 +35,66 @@ constituents:
   note: Carbohydrate constituents of the root.
   reference_ids:
   - REF-0453
+botanical_description:
+  text: Tall, robust perennial herb with a thick, fleshy taproot and large, broadly oval, strongly veined
+    opposite leaves (a distinguishing feature from the deadly Veratrum album, which has alternate leaves).
+    Bright golden-yellow, star-shaped flowers are borne in dense whorls in the leaf axils along the upper
+    stem.
+  height: 0.5-1.4 m
+  habit: Tall, robust perennial herb
+  leaves: Large, broadly oval, strongly veined, arranged in opposite pairs
+  flowers: Bright golden-yellow, star-shaped, in dense axillary whorls
+  stem: Stout, unbranched, hollow
+  root: Thick, fleshy taproot (the medicinal part)
+  fruit: Capsule with numerous winged seeds
+  flowering_period: June-August
+  reference_ids:
+  - REF-0453
+  status: verified
+habitat:
+  text: Grows in subalpine and alpine meadows and pastures of central and southern Europe, typically at
+    moderate to high elevations on calcareous soils.
+  reference_ids:
+  - REF-0453
+  status: verified
+harvesting:
+  text: The root is dug in autumn from plants at least several years old, when bitter secoiridoid content
+    is highest, then cleaned and dried; careful identification against the deadly Veratrum album (white
+    hellebore), which shares similar habitat and, before flowering, a superficially similar rosette, is
+    essential before wild-harvesting.
+  parts:
+  - Root
+  season: Autumn
+  reference_ids:
+  - REF-0453
+  status: verified
+traditional_uses:
+  text: Gentian root is one of the classic bitter digestive herbs of European tradition, used to stimulate
+    appetite and digestive secretions for temporary loss of appetite and mild dyspeptic complaints, and
+    has long been a base ingredient of bitter tonics, aperitifs and digestifs.
+  reference_ids:
+  - REF-0453
+  status: verified
+preparations:
+- name: Cold infusion (maceration)
+  text: Dried root macerated in cold water for several hours to extract the bitter secoiridoids, a traditional
+    preparation method for bitters.
+  reference_ids:
+  - REF-0453
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried root, often taken as a few drops before meals.
+  status: draft
+- name: Infusion
+  text: Dried root infused briefly in hot water and taken shortly before meals as a bitter digestive tonic.
+  reference_ids:
+  - REF-0453
+  status: verified
+dosage:
+- name: Infusion/tincture
+  text: Traditional herbal references suggest around 0.5-2 g of dried root per dose, taken shortly before
+    meals, up to three times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: bitter-tonic
   note: Aromatic bitter for temporary loss of appetite
@@ -110,26 +170,27 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: veratrum-album
   severity: fatal
-  confused_part: Non-flowering basal leaf rosette and root — the parts dug to make gentian wine, bitters, schnapps or tea, before either plant flowers.
+  confused_part: Non-flowering basal leaf rosette and root — the parts dug to make gentian wine, bitters,
+    schnapps or tea, before either plant flowers.
   confusion_context: One of the best-documented lethal foraging mix-ups in Europe. White hellebore (Veratrum
     album) and yellow gentian grow side by side in the same subalpine meadows, and before flowering their
     large ribbed basal leaves and thick roots look almost identical to a non-botanist. Foragers digging
     gentian for home-made gentian wine, bitters or herbal tea have repeatedly harvested Veratrum by mistake;
-    poisoning begins within 30 minutes to a few hours with vomiting, then a dangerously slow heartbeat and
-    a collapse in blood pressure. Documented in multiple European case reports.
+    poisoning begins within 30 minutes to a few hours with vomiting, then a dangerously slow heartbeat
+    and a collapse in blood pressure. Documented in multiple European case reports.
   distinguishing_features:
-  - 'Leaf arrangement is decisive and works even before flowering: yellow gentian has OPPOSITE leaves —
-    a matching pair growing directly across from each other at each stem node. Veratrum album has ALTERNATE
+  - 'Leaf arrangement is decisive and works even before flowering: yellow gentian has OPPOSITE leaves
+    — a matching pair growing directly across from each other at each stem node. Veratrum album has ALTERNATE
     leaves, attached singly and spiralling up the stem, each clasping/sheathing it.'
   - Yellow gentian leaves are smooth and hairless with a few (about 5–7) bold arching parallel veins.
-    Veratrum album leaves are strongly pleated and corrugated, with many prominent parallel veins and a finely
-    hairy underside.
-  - 'If in flower only: yellow gentian has bright yellow star-shaped flowers in whorls; Veratrum album has
-    whitish-green flowers in a branched spike. Do NOT rely on flower colour when foraging the non-flowering
+    Veratrum album leaves are strongly pleated and corrugated, with many prominent parallel veins and
+    a finely hairy underside.
+  - 'If in flower only: yellow gentian has bright yellow star-shaped flowers in whorls; Veratrum album
+    has whitish-green flowers in a branched spike. Do NOT rely on flower colour when foraging the non-flowering
     rosette or root.'
   key_test: Check how the leaves attach to the stem. A matching PAIR directly opposite each other at each
-    node = yellow gentian. Leaves attached one at a time, spiralling and sheathing the stem = Veratrum album
-    — do not harvest. If you cannot confirm opposite leaf pairs, do not forage.
+    node = yellow gentian. Leaves attached one at a time, spiralling and sheathing the stem = Veratrum
+    album — do not harvest. If you cannot confirm opposite leaf pairs, do not forage.
   reference_ids:
   - REF-2599
   - REF-2600
@@ -140,7 +201,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Gentianae radix; Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss,
@@ -150,4 +211,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
   sources (REF-1647, REF-1648, REF-0580, REF-1649, REF-1650, REF-1651, REF-1652, REF-1653, REF-1654, REF-1655)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

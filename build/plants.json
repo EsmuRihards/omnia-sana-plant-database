@@ -23560,6 +23560,93 @@
     "Mycelium",
     "Whole Plant"
    ],
+   "botanical_description": {
+    "text": "Bracket (shelf) fungus (not a true plant) that grows on the trunks and stumps of deciduous trees. It develops a hard, kidney- or fan-shaped cap with a glossy, varnished, red-brown to mahogany crust and concentric growth rings, often on a lateral woody stalk; the pale underside is covered in fine pores that release rusty-brown spores. The mycelium spreads through the wood substrate before fruiting.",
+    "height": "Cap 5-20 cm across",
+    "habit": "Perennial wood-decay bracket fungus",
+    "leaves": "Not applicable (fungus)",
+    "flowers": "Not applicable (fungus); reproduces by spores",
+    "stem": "Hard, glossy, varnished kidney- or fan-shaped cap, often on a lateral stalk",
+    "root": "Mycelium spreading through the wood substrate",
+    "fruit": "Pale, finely pored underside releasing rusty-brown spores",
+    "flowering_period": "Fruiting body develops over weeks to months on the host wood",
+    "reference_ids": [
+     "REF-0821"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows as a wood-decay fungus on the stumps and trunks of deciduous trees (notably maple and other hardwoods) in East Asian forests; also widely cultivated commercially on hardwood logs or sawdust substrate.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Wild fruiting bodies are collected once mature; cultivated material is harvested from logs or substrate at maturity, then dried and processed into slices, powder or extract.",
+    "parts": [
+     "Mycelium",
+     "Whole Plant"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Reishi/lingzhi, the 'mushroom of immortality', is one of the most revered tonic fungi in traditional Chinese medicine, used for centuries to support vitality, calm the spirit, strengthen immunity and promote longevity; this traditional tonic reputation is now studied for immunomodulatory, anticancer-adjunct and metabolic effects.",
+    "reference_ids": [
+     "REF-0821",
+     "REF-2039"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried, sliced fruiting body simmered in water for an extended period, the traditional preparation to extract polysaccharides.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Extract standardised to polysaccharide (beta-glucan) or triterpene content, taken as capsules or powder; the form used in most modern studies.",
+     "reference_ids": [
+      "REF-0821",
+      "REF-2039"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcohol/water dual extraction, used to capture both water-soluble polysaccharides and alcohol-soluble triterpenes.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Traditional and clinical references commonly cite around 1-3 g of dried fruiting body extract daily, or higher doses of raw powder/decoction. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Beta-glucan polysaccharides",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Principal immunomodulatory constituents, the main focus of anticancer-adjunct and immune research.",
+     "reference_ids": [
+      "REF-0821",
+      "REF-2039"
+     ]
+    },
+    {
+     "name": "Triterpenes (ganoderic acids)",
+     "compounds": [
+      "triterpene-saponin",
+      "terpene"
+     ],
+     "note": "Bitter triterpenes associated with anti-inflammatory, hepatoprotective and adaptogenic activity.",
+     "reference_ids": [
+      "REF-0821"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -23840,7 +23927,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "lingzhi"
   },
   {
@@ -23891,6 +23978,76 @@
      "reference_ids": [
       "REF-0453"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Tall, robust perennial herb with a thick, fleshy taproot and large, broadly oval, strongly veined opposite leaves (a distinguishing feature from the deadly Veratrum album, which has alternate leaves). Bright golden-yellow, star-shaped flowers are borne in dense whorls in the leaf axils along the upper stem.",
+    "height": "0.5-1.4 m",
+    "habit": "Tall, robust perennial herb",
+    "leaves": "Large, broadly oval, strongly veined, arranged in opposite pairs",
+    "flowers": "Bright golden-yellow, star-shaped, in dense axillary whorls",
+    "stem": "Stout, unbranched, hollow",
+    "root": "Thick, fleshy taproot (the medicinal part)",
+    "fruit": "Capsule with numerous winged seeds",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0453"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in subalpine and alpine meadows and pastures of central and southern Europe, typically at moderate to high elevations on calcareous soils.",
+    "reference_ids": [
+     "REF-0453"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug in autumn from plants at least several years old, when bitter secoiridoid content is highest, then cleaned and dried; careful identification against the deadly Veratrum album (white hellebore), which shares similar habitat and, before flowering, a superficially similar rosette, is essential before wild-harvesting.",
+    "parts": [
+     "Root"
+    ],
+    "season": "Autumn",
+    "reference_ids": [
+     "REF-0453"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Gentian root is one of the classic bitter digestive herbs of European tradition, used to stimulate appetite and digestive secretions for temporary loss of appetite and mild dyspeptic complaints, and has long been a base ingredient of bitter tonics, aperitifs and digestifs.",
+    "reference_ids": [
+     "REF-0453"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Cold infusion (maceration)",
+     "text": "Dried root macerated in cold water for several hours to extract the bitter secoiridoids, a traditional preparation method for bitters.",
+     "reference_ids": [
+      "REF-0453"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root, often taken as a few drops before meals.",
+     "status": "draft"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried root infused briefly in hot water and taken shortly before meals as a bitter digestive tonic.",
+     "reference_ids": [
+      "REF-0453"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion/tincture",
+     "text": "Traditional herbal references suggest around 0.5-2 g of dried root per dose, taken shortly before meals, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -24022,7 +24179,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "gentian"
   },
   {
@@ -24515,6 +24672,97 @@
     "Leaf",
     "Seed"
    ],
+   "botanical_description": {
+    "text": "Ancient deciduous tree, a 'living fossil' with no close living relatives, bearing distinctive fan-shaped leaves with parallel forking veins that turn brilliant gold in autumn. The tree is dioecious (separate male and female trees); female trees bear fleshy, foul-smelling seed coats surrounding an edible inner nut (ginkgo nut) once the outer flesh is removed.",
+    "height": "Up to 30-40 m",
+    "habit": "Large, long-lived deciduous tree",
+    "leaves": "Distinctive fan-shaped, with parallel forking veins, turning gold in autumn",
+    "flowers": "Dioecious; wind-pollinated, inconspicuous",
+    "stem": "Tall, sturdy trunk with furrowed grey bark",
+    "root": "Deep, wide-spreading root system",
+    "fruit": "Fleshy, foul-smelling seed coat (female trees) surrounding an edible inner nut",
+    "flowering_period": "Spring",
+    "reference_ids": [
+     "REF-0824"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to China, where a small number of wild populations survive; now cultivated worldwide as a resilient, pollution-tolerant ornamental and medicinal tree.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Leaves are picked in late summer to autumn, when flavonoid and terpenoid content is highest, and processed into standardised extracts; the inner seed is collected in autumn from fallen fruit, with the malodorous outer flesh removed (handled with gloves, as it can irritate skin).",
+    "parts": [
+     "Leaf",
+     "Seed"
+    ],
+    "season": "Leaf in late summer/autumn; seed in autumn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Ginkgo leaf and seed have a long East Asian tradition: the seed used in traditional Chinese medicine (in small, cooked amounts) for respiratory complaints, and the leaf, though a more recent addition to Western herbalism, now one of the most extensively studied botanicals for cognitive and peripheral circulatory support, reflecting decades of standardised-extract clinical research.",
+    "reference_ids": [
+     "REF-0824"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Leaf extract standardised to flavone glycosides and terpene lactones (commonly the EGb 761 standard), taken as tablets or capsules; the best-studied clinical form.",
+     "reference_ids": [
+      "REF-0824",
+      "REF-0056"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Cooked seed (traditional, East Asian)",
+     "text": "Small numbers of cooked seeds used traditionally in East Asian cuisine and medicine; raw seeds are toxic (ginkgotoxin) and never eaten raw.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for cognitive and circulatory support commonly use around 120-240 mg of standardised leaf extract daily, in divided doses. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0056"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Flavone glycosides (quercetin, kaempferol, isorhamnetin glycosides)",
+     "compounds": [
+      "flavonoid",
+      "quercetin",
+      "kaempferol",
+      "glycoside"
+     ],
+     "note": "Antioxidant flavonoids of the leaf, standardised in clinical extracts.",
+     "reference_ids": [
+      "REF-0824"
+     ]
+    },
+    {
+     "name": "Terpene lactones (ginkgolides, bilobalide)",
+     "compounds": [
+      "terpene"
+     ],
+     "note": "Unique diterpene and sesquiterpene lactones responsible for platelet-activating-factor antagonism and much of the neuroprotective and circulatory activity; also the basis of the bleeding-risk caution.",
+     "reference_ids": [
+      "REF-0824",
+      "REF-0056"
+     ]
+    },
+    {
+     "name": "Ginkgotoxin (4'-O-methylpyridoxine)",
+     "note": "A neurotoxic compound present in the raw seed; the reason only cooked seed in small amounts, or standardised leaf extract, is used medicinally."
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -24772,7 +25020,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "ginko"
   },
   {
@@ -24786,6 +25034,76 @@
    "family": "Fabaceae",
    "parts_used": [
     "Root"
+   ],
+   "botanical_description": {
+    "text": "Herbaceous perennial legume with pinnately compound leaves of small, oval, slightly sticky leaflets. Pale blue-violet to lilac pea-like flowers are borne in loose spikes, followed by small, flattened, oblong pods. The sweet-tasting rhizome and root system, brownish-grey outside and bright yellow inside, is the medicinal part, spreading extensively underground via stolons.",
+    "height": "1-1.5 m",
+    "habit": "Herbaceous perennial legume, spreading by underground stolons",
+    "leaves": "Pinnately compound, small oval leaflets, slightly sticky",
+    "flowers": "Pale blue-violet to lilac, pea-like, in loose spikes",
+    "stem": "Erect, branching",
+    "root": "Extensive, sweet-tasting rhizome and root system, brownish-grey outside, bright yellow inside",
+    "fruit": "Small, flattened, oblong pod",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0826"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in dry, sunny, deep-soiled sites, riverbanks and open scrub; native to the Mediterranean region and Western to Central Asia, and cultivated widely for its root.",
+    "reference_ids": [
+     "REF-0826"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root and rhizome are dug in autumn from plants at least three to four years old, when glycyrrhizin content is highest, then cleaned and dried; sold whole, cut, or as processed extract.",
+    "parts": [
+     "Root"
+    ],
+    "season": "Autumn, from mature (3-4+ year) plants",
+    "reference_ids": [
+     "REF-0826"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Licorice root is one of the oldest and most widely used herbs in the world, with a documented history across Chinese, Ayurvedic, Greek and European traditional medicine as a soothing demulcent and expectorant for coughs and sore throat, a gastroprotective remedy for stomach discomfort and ulcers, and a harmonising, sweetening addition to herbal formulas.",
+    "reference_ids": [
+     "REF-0826"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried root simmered in water as a traditional soothing, expectorant and gastroprotective tea.",
+     "reference_ids": [
+      "REF-0826"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Deglycyrrhizinated licorice (DGL)",
+     "text": "Extract with most of the glycyrrhizin removed, used for prolonged gastric support without the blood-pressure/potassium risk of whole root.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Root extract standardised to glycyrrhizin content, taken as capsules or lozenges.",
+     "reference_ids": [
+      "REF-0826"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Whole root/decoction",
+     "text": "Traditional herbal references limit regular whole-root use to under about 100 mg glycyrrhizin (roughly under 10-15 g dried root) daily, and for no more than 4-6 weeks continuously, given the pseudoaldosteronism risk; DGL is preferred for prolonged use. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
    ],
    "actions": [
     {
@@ -25109,7 +25427,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "licorice-root"
   },
   {
@@ -25146,6 +25464,67 @@
      "reference_ids": [
       "REF-2467"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Woody climbing vine with velvety, opposite, oval leaves. Small, inconspicuous, yellowish flowers are borne in umbel-like clusters, followed by slender, boat-shaped seed pods. Chewing the leaf temporarily and selectively blocks the perception of sweetness, giving the plant its Hindi name 'gurmar' (sugar destroyer).",
+    "height": "Woody climbing vine, several metres over support",
+    "habit": "Woody, climbing perennial vine",
+    "leaves": "Velvety, opposite, oval; chewing temporarily blocks sweet-taste perception",
+    "flowers": "Small, inconspicuous, yellowish, in umbel-like clusters",
+    "stem": "Woody, climbing, twining over support",
+    "root": "Fibrous root system",
+    "fruit": "Slender, boat-shaped seed pod",
+    "flowering_period": "Varies with climate",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to the tropical forests of India, Sri Lanka and other parts of South and Southeast Asia and tropical Africa, growing as a climber in forest margins and scrub.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Leaves are picked through the growing season and dried for use in decoctions or extracts.",
+    "parts": [
+     "Leaf"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Gymnema leaf (gurmar) has a long Ayurvedic tradition as a remedy for 'madhumeha' (sweet urine, diabetes), chewed or taken as a decoction to reduce sugar cravings and support healthy blood sugar; this traditional antidiabetic reputation is now supported by clinical trials of standardised leaf extracts in type 2 diabetes.",
+    "reference_ids": [
+     "REF-2465",
+     "REF-2467"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Leaf extract standardised to gymnemic acid content, taken as capsules; the form used in most clinical glycaemic-control studies.",
+     "reference_ids": [
+      "REF-2465"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Dried leaf simmered in water as a traditional Ayurvedic preparation.",
+     "status": "draft"
+    },
+    {
+     "name": "Chewed fresh leaf",
+     "text": "Fresh leaf chewed directly, the traditional way of demonstrating and using its sweet-taste-blocking effect.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials in type 2 diabetes commonly use around 400-800 mg of standardised leaf extract daily, in divided doses. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-2465"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -25295,7 +25674,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "gymnema"
   },
   {

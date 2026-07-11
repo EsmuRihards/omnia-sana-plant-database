@@ -9,6 +9,83 @@ family: Ginkgoaceae
 parts_used:
 - Leaf
 - Seed
+botanical_description:
+  text: Ancient deciduous tree, a 'living fossil' with no close living relatives, bearing distinctive
+    fan-shaped leaves with parallel forking veins that turn brilliant gold in autumn. The tree is dioecious
+    (separate male and female trees); female trees bear fleshy, foul-smelling seed coats surrounding an
+    edible inner nut (ginkgo nut) once the outer flesh is removed.
+  height: Up to 30-40 m
+  habit: Large, long-lived deciduous tree
+  leaves: Distinctive fan-shaped, with parallel forking veins, turning gold in autumn
+  flowers: Dioecious; wind-pollinated, inconspicuous
+  stem: Tall, sturdy trunk with furrowed grey bark
+  root: Deep, wide-spreading root system
+  fruit: Fleshy, foul-smelling seed coat (female trees) surrounding an edible inner nut
+  flowering_period: Spring
+  reference_ids:
+  - REF-0824
+  status: verified
+habitat:
+  text: Native to China, where a small number of wild populations survive; now cultivated worldwide as
+    a resilient, pollution-tolerant ornamental and medicinal tree.
+  status: draft
+harvesting:
+  text: Leaves are picked in late summer to autumn, when flavonoid and terpenoid content is highest, and
+    processed into standardised extracts; the inner seed is collected in autumn from fallen fruit, with
+    the malodorous outer flesh removed (handled with gloves, as it can irritate skin).
+  parts:
+  - Leaf
+  - Seed
+  season: Leaf in late summer/autumn; seed in autumn
+  status: draft
+traditional_uses:
+  text: 'Ginkgo leaf and seed have a long East Asian tradition: the seed used in traditional Chinese medicine
+    (in small, cooked amounts) for respiratory complaints, and the leaf, though a more recent addition
+    to Western herbalism, now one of the most extensively studied botanicals for cognitive and peripheral
+    circulatory support, reflecting decades of standardised-extract clinical research.'
+  reference_ids:
+  - REF-0824
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Leaf extract standardised to flavone glycosides and terpene lactones (commonly the EGb 761 standard),
+    taken as tablets or capsules; the best-studied clinical form.
+  reference_ids:
+  - REF-0824
+  - REF-0056
+  status: verified
+- name: Cooked seed (traditional, East Asian)
+  text: Small numbers of cooked seeds used traditionally in East Asian cuisine and medicine; raw seeds
+    are toxic (ginkgotoxin) and never eaten raw.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for cognitive and circulatory support commonly use around 120-240 mg of standardised
+    leaf extract daily, in divided doses. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0056
+  status: draft
+constituents:
+- name: Flavone glycosides (quercetin, kaempferol, isorhamnetin glycosides)
+  compounds:
+  - flavonoid
+  - quercetin
+  - kaempferol
+  - glycoside
+  note: Antioxidant flavonoids of the leaf, standardised in clinical extracts.
+  reference_ids:
+  - REF-0824
+- name: Terpene lactones (ginkgolides, bilobalide)
+  compounds:
+  - terpene
+  note: Unique diterpene and sesquiterpene lactones responsible for platelet-activating-factor antagonism
+    and much of the neuroprotective and circulatory activity; also the basis of the bleeding-risk caution.
+  reference_ids:
+  - REF-0824
+  - REF-0056
+- name: Ginkgotoxin (4'-O-methylpyridoxine)
+  note: A neurotoxic compound present in the raw seed; the reason only cooked seed in small amounts, or
+    standardised leaf extract, is used medicinally.
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -114,7 +191,9 @@ references:
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; a systematic review of case reports links ginkgo to spontaneous bleeding (including intracranial bleeds) with elevated bleeding times. Stop before surgery.'
+  mechanism: Ginkgo has antiplatelet activity (ginkgolide PAF antagonism) and may add to the bleeding
+    risk of anticoagulant or antiplatelet drugs; a systematic review of case reports links ginkgo to spontaneous
+    bleeding (including intracranial bleeds) with elevated bleeding times. Stop before surgery.
   reference_ids:
   - REF-2436
   - REF-2529
@@ -123,7 +202,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: nsaids
   severity: caution
-  mechanism: 'Ginkgo''s antiplatelet effect may add to the bleeding risk of NSAIDs such as ibuprofen; case reports of bleeding exist.'
+  mechanism: Ginkgo's antiplatelet effect may add to the bleeding risk of NSAIDs such as ibuprofen; case
+    reports of bleeding exist.
   reference_ids:
   - REF-2436
   status: approved
@@ -131,7 +211,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: anticonvulsants
   severity: caution
-  mechanism: 'Ginkgo can contain ginkgotoxin, which may lower the seizure threshold; use caution alongside anti-seizure medication.'
+  mechanism: Ginkgo can contain ginkgotoxin, which may lower the seizure threshold; use caution alongside
+    anti-seizure medication.
   reference_ids:
   - REF-2436
   status: approved
@@ -139,7 +220,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antihypertensives
   severity: caution
-  mechanism: 'Ginkgo has been reported to interact with the blood-pressure medicine nifedipine (a calcium-channel blocker), raising its levels and side effects such as dizziness; combined use with blood-pressure medicines warrants monitoring.'
+  mechanism: Ginkgo has been reported to interact with the blood-pressure medicine nifedipine (a calcium-channel
+    blocker), raising its levels and side effects such as dizziness; combined use with blood-pressure
+    medicines warrants monitoring.
   reference_ids:
   - REF-2500
   - REF-2436
@@ -148,7 +231,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Ginkgo can change how some diabetes medicines are handled by the body (for example altering levels of tolbutamide), which may affect blood-sugar control; monitor blood sugar if combined with antidiabetic medicines.'
+  mechanism: Ginkgo can change how some diabetes medicines are handled by the body (for example altering
+    levels of tolbutamide), which may affect blood-sugar control; monitor blood sugar if combined with
+    antidiabetic medicines.
   reference_ids:
   - REF-2436
   - REF-2500
@@ -158,7 +243,9 @@ drug_class_interactions:
 pairings:
 - partner_id: allium-sativum
   type: caution
-  note: 'Ginkgo and garlic both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Ginkgo and garlic both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   - REF-2436
@@ -167,7 +254,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: zingiber-officinale
   type: caution
-  note: 'Ginkgo and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Ginkgo and ginger both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   - REF-2443
@@ -176,7 +265,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: tanacetum-parthenium
   type: caution
-  note: 'Ginkgo and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Ginkgo and feverfew both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   - REF-2444
@@ -185,7 +276,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: panax-ginseng
   type: caution
-  note: 'Ginkgo and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Ginkgo and ginseng both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   status: approved
@@ -197,7 +290,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -206,4 +299,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0829, REF-0824, REF-0825.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0824,
   REF-0825, REF-0056, REF-2179, REF-2180, REF-2181, REF-2182, REF-2183, REF-2184, REF-2185, REF-2186)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

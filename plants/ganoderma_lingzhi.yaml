@@ -9,6 +9,79 @@ family: Ganodermataceae
 parts_used:
 - Mycelium
 - Whole Plant
+botanical_description:
+  text: Bracket (shelf) fungus (not a true plant) that grows on the trunks and stumps of deciduous trees.
+    It develops a hard, kidney- or fan-shaped cap with a glossy, varnished, red-brown to mahogany crust
+    and concentric growth rings, often on a lateral woody stalk; the pale underside is covered in fine
+    pores that release rusty-brown spores. The mycelium spreads through the wood substrate before fruiting.
+  height: Cap 5-20 cm across
+  habit: Perennial wood-decay bracket fungus
+  leaves: Not applicable (fungus)
+  flowers: Not applicable (fungus); reproduces by spores
+  stem: Hard, glossy, varnished kidney- or fan-shaped cap, often on a lateral stalk
+  root: Mycelium spreading through the wood substrate
+  fruit: Pale, finely pored underside releasing rusty-brown spores
+  flowering_period: Fruiting body develops over weeks to months on the host wood
+  reference_ids:
+  - REF-0821
+  status: verified
+habitat:
+  text: Grows as a wood-decay fungus on the stumps and trunks of deciduous trees (notably maple and other
+    hardwoods) in East Asian forests; also widely cultivated commercially on hardwood logs or sawdust
+    substrate.
+  status: draft
+harvesting:
+  text: Wild fruiting bodies are collected once mature; cultivated material is harvested from logs or
+    substrate at maturity, then dried and processed into slices, powder or extract.
+  parts:
+  - Mycelium
+  - Whole Plant
+  status: draft
+traditional_uses:
+  text: Reishi/lingzhi, the 'mushroom of immortality', is one of the most revered tonic fungi in traditional
+    Chinese medicine, used for centuries to support vitality, calm the spirit, strengthen immunity and
+    promote longevity; this traditional tonic reputation is now studied for immunomodulatory, anticancer-adjunct
+    and metabolic effects.
+  reference_ids:
+  - REF-0821
+  - REF-2039
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried, sliced fruiting body simmered in water for an extended period, the traditional preparation
+    to extract polysaccharides.
+  status: draft
+- name: Standardised extract
+  text: Extract standardised to polysaccharide (beta-glucan) or triterpene content, taken as capsules
+    or powder; the form used in most modern studies.
+  reference_ids:
+  - REF-0821
+  - REF-2039
+  status: verified
+- name: Tincture
+  text: Alcohol/water dual extraction, used to capture both water-soluble polysaccharides and alcohol-soluble
+    triterpenes.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Traditional and clinical references commonly cite around 1-3 g of dried fruiting body extract
+    daily, or higher doses of raw powder/decoction. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Beta-glucan polysaccharides
+  compounds:
+  - polysaccharide
+  note: Principal immunomodulatory constituents, the main focus of anticancer-adjunct and immune research.
+  reference_ids:
+  - REF-0821
+  - REF-2039
+- name: Triterpenes (ganoderic acids)
+  compounds:
+  - triterpene-saponin
+  - terpene
+  note: Bitter triterpenes associated with anti-inflammatory, hepatoprotective and adaptogenic activity.
+  reference_ids:
+  - REF-0821
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -176,7 +249,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Reishi is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Reishi is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -190,13 +265,29 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: podostroma-cornu-damae
   severity: fatal
-  confused_part: Wild-collected fruit bodies gathered as reishi/lingzhi for medicinal tea; the immature red, antler-like fruit bodies of poison fire coral can be taken for young reishi.
-  confusion_context: Reishi (Ganoderma lingzhi / lucidum) is a hard, varnished bracket fungus collected and brewed as a health tonic. Poison fire coral (Podostroma cornu-damae), one of the few deadly-poisonous fungi, is documented to resemble Ganoderma lucidum in its immature stage. A peer-reviewed case report (Ahn et al., 2013, Yonsei Med J) describes two people who collected and boiled wild fungus as tea - one died of pancytopenia and multiple organ failure - and states that in its immature period poison fire coral resembles Ganoderma lucidum, 'well known as a health-food.' Its trichothecene mycotoxins (satratoxins) are frequently fatal. Because reishi is wild-collected for medicinal tea in East Asia, this is a genuinely lethal confusion.
+  confused_part: Wild-collected fruit bodies gathered as reishi/lingzhi for medicinal tea; the immature
+    red, antler-like fruit bodies of poison fire coral can be taken for young reishi.
+  confusion_context: Reishi (Ganoderma lingzhi / lucidum) is a hard, varnished bracket fungus collected
+    and brewed as a health tonic. Poison fire coral (Podostroma cornu-damae), one of the few deadly-poisonous
+    fungi, is documented to resemble Ganoderma lucidum in its immature stage. A peer-reviewed case report
+    (Ahn et al., 2013, Yonsei Med J) describes two people who collected and boiled wild fungus as tea
+    - one died of pancytopenia and multiple organ failure - and states that in its immature period poison
+    fire coral resembles Ganoderma lucidum, 'well known as a health-food.' Its trichothecene mycotoxins
+    (satratoxins) are frequently fatal. Because reishi is wild-collected for medicinal tea in East Asia,
+    this is a genuinely lethal confusion.
   distinguishing_features:
-  - 'Colour and form: poison fire coral is bright blood-red to orange-red and grows as erect, often branched antler- or coral-like clubs rising from the ground or buried wood. True reishi is a flat kidney- or fan-shaped bracket (conk) with a hard, glossy, varnished red-brown to mahogany crust and a pale pored underside, growing on wood.'
-  - 'Growth pattern: reishi forms a shelf/bracket with a distinct cap and often a lateral stalk; poison fire coral forms finger-like or antler-like red spikes with no cap.'
-  - 'Underside: reishi has a white-to-brown pored underside that drops rusty-brown spores; poison fire coral has no pores at all.'
-  key_test: Look at the shape. Reishi is a hard, flat, varnished shelf/bracket with a pale pored underside, growing on wood. Any bright red, erect antler- or coral-like club with NO cap and NO pores is NOT reishi - it may be poison fire coral (Podostroma cornu-damae), which can kill. Never brew an unfamiliar red club or coral fungus; if unsure, do not use it and confirm with an expert mycologist.
+  - 'Colour and form: poison fire coral is bright blood-red to orange-red and grows as erect, often branched
+    antler- or coral-like clubs rising from the ground or buried wood. True reishi is a flat kidney- or
+    fan-shaped bracket (conk) with a hard, glossy, varnished red-brown to mahogany crust and a pale pored
+    underside, growing on wood.'
+  - 'Growth pattern: reishi forms a shelf/bracket with a distinct cap and often a lateral stalk; poison
+    fire coral forms finger-like or antler-like red spikes with no cap.'
+  - 'Underside: reishi has a white-to-brown pored underside that drops rusty-brown spores; poison fire
+    coral has no pores at all.'
+  key_test: Look at the shape. Reishi is a hard, flat, varnished shelf/bracket with a pale pored underside,
+    growing on wood. Any bright red, erect antler- or coral-like club with NO cap and NO pores is NOT
+    reishi - it may be poison fire coral (Podostroma cornu-damae), which can kill. Never brew an unfamiliar
+    red club or coral fungus; if unsure, do not use it and confirm with an expert mycologist.
   reference_ids:
   - REF-2660
   - REF-2659
@@ -205,7 +296,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -214,4 +305,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0821, REF-0822, REF-0823.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2039,
   REF-2040, REF-0822, REF-2041, REF-2042, REF-2043, REF-2044, REF-2045, REF-2046, REF-2047, REF-2048)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

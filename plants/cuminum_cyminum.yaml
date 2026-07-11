@@ -18,6 +18,48 @@ constituents:
     and antioxidant activity.
   reference_ids:
   - REF-0657
+botanical_description:
+  text: Slender annual herb with finely divided, thread-like leaves similar to dill or fennel but smaller.
+    Small white or pale pink flowers are borne in small compound umbels, followed by small, ridged, boat-shaped,
+    strongly aromatic seeds.
+  height: 20-30 cm
+  habit: Slender, low-growing annual herb
+  leaves: Finely divided, thread-like, similar to dill but smaller
+  flowers: Small white or pale pink flowers in small compound umbels
+  stem: Slender, branching
+  root: Slender taproot
+  fruit: Small, ridged, boat-shaped, strongly aromatic seed (mericarp)
+  flowering_period: Summer
+  status: draft
+habitat:
+  text: Believed native to the eastern Mediterranean and Central Asia; cultivated widely in warm, dry
+    climates including India, the Middle East and North Africa as a major spice crop.
+  status: draft
+harvesting:
+  text: The seed heads are cut when the fruit has ripened but before it shatters, usually in mid- to late
+    summer, then dried and threshed.
+  parts:
+  - Seed
+  season: Mid- to late summer
+  status: draft
+traditional_uses:
+  text: Cumin seed has an ancient culinary and medicinal history across the Middle East, South Asia and
+    the Mediterranean as a warming digestive carminative for indigestion, bloating and cramping, and is
+    one of the most widely used spices worldwide.
+  status: draft
+preparations:
+- name: Infusion (seed)
+  text: Crushed or whole seed infused or lightly toasted then infused in hot water as a traditional carminative
+    digestive tea.
+  status: draft
+- name: Culinary use
+  text: Whole or ground seed used extensively as a food spice, the most common form of use.
+  status: draft
+dosage:
+- name: Seed infusion
+  text: Traditional herbal references suggest around 1-3 g of crushed seed per cup, up to three times
+    daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -475,7 +517,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -484,4 +526,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0654 null - the glycaemic evidence is mixed), a metabolic-syndrome essential-oil RCT (REF-0655),
   a post-operative bowel-motility RCT (REF-0656), and an essential-oil antifungal/antioxidant study identifying
   cuminaldehyde (REF-0657); cuminaldehyde constituent added. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds).'
+  ids, indications split out, constituents linked to compounds). | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
+  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
+  policy.'

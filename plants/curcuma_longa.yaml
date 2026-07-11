@@ -8,6 +8,81 @@ common_names:
 family: Zingiberaceae
 parts_used:
 - Rhizome
+botanical_description:
+  text: Rhizomatous perennial herb with large, broad, lance-shaped leaves arising directly from the underground
+    rhizome in a clump. Pale yellow flowers are borne in a dense spike partly hidden among pale green
+    to pink upper bracts. The branching, knobbly rhizome has a bright orange-yellow interior, the source
+    of turmeric spice and dye.
+  height: 60-100 cm
+  habit: Rhizomatous perennial herb
+  leaves: Large, broad, lance-shaped, arising directly from the rhizome
+  flowers: Pale yellow, in a dense spike among pale green to pink upper bracts
+  stem: Pseudostem formed by tightly overlapping leaf bases
+  root: Branching, knobbly rhizome with a bright orange-yellow interior
+  fruit: Rarely sets seed; propagated by rhizome division
+  flowering_period: Summer to early autumn
+  reference_ids:
+  - REF-0791
+  status: verified
+habitat:
+  text: Native to South Asia (India) and Southeast Asia; cultivated extensively in warm, humid tropical
+    climates on well-drained, fertile soils.
+  status: draft
+harvesting:
+  text: The rhizomes are dug at the end of the growing season, typically 8-10 months after planting, when
+    the leaves have died back; they are cleaned, boiled or steamed, then dried and often ground into the
+    familiar yellow powder.
+  parts:
+  - Rhizome
+  season: End of growing season, 8-10 months after planting
+  status: draft
+traditional_uses:
+  text: Turmeric rhizome is a cornerstone spice and medicine of Ayurvedic and traditional Chinese medicine,
+    used for millennia as an anti-inflammatory, digestive and wound-healing remedy and valued as a golden
+    dye; its curcuminoid-rich rhizome is now among the most extensively researched botanicals for inflammatory
+    and joint conditions, directly building on this traditional reputation.
+  reference_ids:
+  - REF-0002
+  - REF-0791
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Rhizome extract standardised to curcuminoid content, often combined with piperine (black pepper
+    extract) to improve absorption, taken as capsules; the form used in most clinical arthritis and inflammation
+    studies.
+  reference_ids:
+  - REF-0791
+  status: verified
+- name: Decoction/'golden milk'
+  text: Fresh or dried rhizome simmered in milk or water, traditionally with black pepper and a fat source,
+    as a warming digestive and anti-inflammatory drink.
+  status: draft
+- name: Culinary use
+  text: Fresh or dried, ground rhizome used extensively as a food spice and colourant.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials in arthritis commonly use around 1000-1500 mg of curcumin (or curcuminoid-standardised
+    extract) daily, in divided doses, often combined with piperine. Educational reference only, not a
+    prescription.
+  reference_ids:
+  - REF-0791
+  status: draft
+constituents:
+- name: Curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin)
+  compounds:
+  - curcumin
+  note: The principal yellow-orange pigments and best-studied bioactive compounds, responsible for most
+    of turmeric's anti-inflammatory and antioxidant activity; oral bioavailability is low unless combined
+    with piperine or a lipid carrier.
+  reference_ids:
+  - REF-0002
+  - REF-0791
+- name: Essential (volatile) oil
+  compounds:
+  - essential-oil
+  - terpene
+  note: Aromatic sesquiterpenes (including turmerone) contributing to fragrance and additional bioactivity.
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -164,7 +239,9 @@ references:
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'Turmeric/curcumin can raise the blood levels of blood-thinning drugs such as warfarin and clopidogrel and has mild antiplatelet activity, so combined use should be monitored for increased bleeding risk.'
+  mechanism: Turmeric/curcumin can raise the blood levels of blood-thinning drugs such as warfarin and
+    clopidogrel and has mild antiplatelet activity, so combined use should be monitored for increased
+    bleeding risk.
   reference_ids:
   - REF-2454
   status: approved
@@ -172,7 +249,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Turmeric/curcumin can lower blood glucose and HbA1c in people with type 2 diabetes (confirmed by meta-analysis of randomised trials); combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
+  mechanism: Turmeric/curcumin can lower blood glucose and HbA1c in people with type 2 diabetes (confirmed
+    by meta-analysis of randomised trials); combined with diabetes medicines it may add to blood-sugar
+    lowering, so monitor blood sugar.
   reference_ids:
   - REF-2486
   - REF-2485
@@ -186,7 +265,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -195,4 +274,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0791, REF-0792, REF-0793.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0791,
   REF-2164, REF-0792, REF-2165, REF-2166, REF-2167, REF-2168, REF-2169, REF-2170, REF-2171, REF-2172)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

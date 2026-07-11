@@ -32,6 +32,61 @@ constituents:
   reference_ids:
   - REF-0528
   - REF-2281
+botanical_description:
+  text: Twining, herbaceous perennial vine with heart-shaped leaves arising from a knotty, woody, cinnamon-brown
+    rhizome ('root'). Small, inconspicuous greenish-yellow flowers are borne on separate male and female
+    plants, followed on female plants by small three-winged seed capsules.
+  height: Vine to several metres, twining over support
+  habit: Twining, herbaceous perennial vine
+  leaves: Heart-shaped, alternate
+  flowers: Small, inconspicuous, greenish-yellow, on separate male and female plants
+  stem: Slender, twining
+  root: Knotty, woody, cinnamon-brown rhizome
+  fruit: Small three-winged seed capsule (female plants)
+  flowering_period: Summer
+  reference_ids:
+  - REF-0528
+  status: verified
+habitat:
+  text: Native to woodland edges, thickets and fence rows of eastern North America, growing over shrubs
+    and fences in moist, rich soil.
+  reference_ids:
+  - REF-0528
+  status: verified
+harvesting:
+  text: The knotty rhizome is dug in autumn once the aerial vine has died back, then cleaned and dried.
+  parts:
+  - Root and rhizome
+  season: Autumn
+  status: draft
+traditional_uses:
+  text: Wild yam root has a Native American and Eclectic-medicine history as an antispasmodic remedy for
+    colic, menstrual cramps and rheumatic joint pain (reflected in the old names 'colic root' and 'rheumatism
+    root'); despite a persistent modern myth, its diosgenin content is not converted into progesterone
+    or other hormones in the human body.
+  reference_ids:
+  - REF-0528
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried root and rhizome simmered in water as a traditional antispasmodic remedy for colic and cramping.
+  reference_ids:
+  - REF-0528
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried root and rhizome, typically around 1:5.
+  status: draft
+- name: Topical cream
+  text: Root extract formulated into topical creams, historically marketed (without good supporting evidence)
+    for menopausal symptoms.
+  reference_ids:
+  - REF-0614
+  status: verified
+dosage:
+- name: Decoction
+  text: Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: analgesic
   note: Antispasmodic / analgesic for menstrual cramps and muscle spasm (antinociceptive in animal models)
@@ -134,7 +189,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary and Alternative Medicine
   bioassay/toxicity study). Further enriched 2026-06-13 with an additional diosgenin pharmacokinetic/pharmacology
   study (REF-0536, Okawara et al. 2013) sourced from PubMed. Originally a skeleton imported from the omniasana.bio
@@ -146,4 +201,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0794, REF-0795,
   REF-0796. | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
   sources (REF-2281, REF-2282, REF-2283, REF-2284, REF-2285, REF-2286, REF-0528, REF-2287, REF-2288, REF-2289)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

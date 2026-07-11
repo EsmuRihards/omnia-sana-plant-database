@@ -30,6 +30,66 @@ constituents:
   note: The bitter principle that stimulates digestion.
   reference_ids:
   - REF-0461
+botanical_description:
+  text: Tall, thistle-like perennial herb with large, deeply lobed, silvery-green leaves, spiny in wild
+    forms but usually spineless in cultivated globe artichoke. The plant produces a large, edible immature
+    flower bud (the 'artichoke heart' of cuisine) which, left to mature, opens into a striking violet-blue
+    thistle flower.
+  height: 1-2 m
+  habit: Tall, robust, thistle-like perennial herb
+  leaves: Large, deeply lobed, silvery-green, spiny in wild forms
+  flowers: Large violet-blue thistle-type flower head, harvested immature as the edible artichoke bud
+  stem: Stout, ridged, branching
+  root: Deep, fleshy taproot
+  fruit: Achene with a feathery pappus
+  flowering_period: Summer, if buds are left unharvested
+  reference_ids:
+  - REF-0461
+  status: verified
+habitat:
+  text: Native to the Mediterranean region; cultivated widely as a vegetable and medicinal crop in warm-temperate
+    climates on rich, well-drained soil.
+  reference_ids:
+  - REF-0461
+  status: verified
+harvesting:
+  text: For medicinal use, the leaves are picked before flowering, when caffeoylquinic acid (chlorogenic
+    acid/cynarin) content is highest, and dried; the edible flower bud is separately harvested young,
+    before the flower opens.
+  parts:
+  - Leaf
+  season: Before flowering
+  reference_ids:
+  - REF-0461
+  status: verified
+traditional_uses:
+  text: Artichoke leaf has a long Mediterranean folk history as a bitter digestive and liver remedy, used
+    to stimulate bile flow and ease dyspeptic complaints such as indigestion, bloating and fullness, and
+    as a traditional hepatoprotective 'liver tonic'; modern standardised leaf extracts are also studied
+    for supporting healthy cholesterol levels.
+  reference_ids:
+  - REF-0461
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Dried leaf extract standardised to caffeoylquinic acid (chlorogenic acid/cynarin) content, taken
+    as capsules or tablets for digestive and lipid support.
+  reference_ids:
+  - REF-0461
+  status: verified
+- name: Infusion
+  text: Dried leaf infused in hot water as a bitter digestive tea, taken before meals.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried leaf.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical studies commonly use extracts providing around 300-640 mg dried leaf extract, up to three
+    times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0461
+  status: draft
 actions:
 - action: choleretic
   note: Choleretic - stimulates bile flow to aid fat digestion
@@ -141,7 +201,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Plant Foods for Human
   Nutrition pharmacological review; EMA HMPC monograph). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (indigestion, bloating, liver-support, high-cholesterol, ibs); associations
@@ -151,4 +211,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   cholesterol (REF-0585). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
   out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
   8 PubMed-verified @article sources (REF-1634, REF-1635, REF-0461, REF-1636, REF-1637, REF-1638, REF-1639,
-  REF-1640) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1640) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
+  dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
+  the integrity-first sourcing policy.'

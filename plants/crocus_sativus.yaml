@@ -7,6 +7,78 @@ common_names:
 family: Iridaceae
 parts_used:
 - Flower
+botanical_description:
+  text: Small, cormous perennial with narrow, grass-like, dark green leaves emerging with or just after
+    the flowers. Each flower is a delicate lilac-purple, six-petalled bloom with three golden-yellow anthers
+    and a single style dividing into three long, deep-red, thread-like stigmas - the saffron of commerce.
+    The plant is a sterile triploid that never sets seed and is propagated entirely by division of its
+    underground corms.
+  height: 10-20 cm
+  habit: Small, cormous, autumn-flowering perennial
+  leaves: Narrow, grass-like, dark green, emerging with or just after the flowers
+  flowers: Lilac-purple, six-petalled, with three golden anthers and three long deep-red stigma threads
+  stem: Very short; flowers arise almost directly from the corm
+  root: Underground corm with fibrous roots
+  fruit: Sterile triploid; does not set seed, propagated by corm division
+  flowering_period: Autumn (October-November)
+  status: draft
+habitat:
+  text: Believed to have originated in Greece or Crete and spread through cultivation across the Mediterranean,
+    Middle East and Asia (notably Iran, Kashmir and Spain); grown in sunny, well-drained fields with hot,
+    dry summers and cool, wet autumns/winters.
+  status: draft
+harvesting:
+  text: The flowers are hand-picked at dawn as they open, and the three red stigma threads are immediately
+    hand-separated from each flower and dried - an extremely labour-intensive process (many thousands
+    of flowers are needed for a small amount of dried saffron), which accounts for saffron's high cost.
+  parts:
+  - Flower
+  season: Autumn, at flowering, harvested at dawn
+  status: draft
+traditional_uses:
+  text: Saffron has a long Mediterranean, Middle Eastern and South Asian tradition as both a prized culinary
+    spice/dye and a medicinal herb, used for mood support, digestive complaints and as a mild emmenagogue;
+    its traditional mood-lifting reputation is now supported by clinical trials comparing standardised
+    saffron extract to conventional antidepressants for mild-to-moderate depression.
+  reference_ids:
+  - REF-0788
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Stigma extract standardised to safranal/crocin content, taken as capsules; the form used in most
+    clinical mood and metabolic studies.
+  reference_ids:
+  - REF-0788
+  status: verified
+- name: Infusion
+  text: A few dried stigma threads steeped in hot water or milk, a traditional culinary and mild medicinal
+    preparation.
+  status: draft
+- name: Culinary use
+  text: Dried stigma threads used as a spice and natural dye/flavouring in cooking, the most common traditional
+    and modern use.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for mood support commonly use around 30 mg of standardised saffron extract daily
+    (in divided doses); culinary use is typically well under 1 g. High medicinal doses (5 g or more) are
+    considered potentially toxic and should be avoided. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0788
+  status: draft
+constituents:
+- name: Crocin and crocetin
+  note: Water-soluble carotenoid glycosides responsible for saffron's deep golden-red colour and much
+    of its antioxidant and mood-related activity.
+  reference_ids:
+  - REF-0788
+- name: Safranal
+  note: The principal volatile aromatic compound, giving saffron its characteristic scent and contributing
+    to its sedative and antidepressant activity.
+  reference_ids:
+  - REF-0788
+- name: Picrocrocin
+  note: The main bitter-tasting glycoside of the stigma, a precursor of safranal.
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -160,7 +232,11 @@ references:
 drug_class_interactions:
 - drug_class: antidepressants-serotonergic
   severity: caution
-  mechanism: 'Saffron has antidepressant, serotonin-related activity (a meta-analysis of randomised trials found saffron more effective than placebo and comparable to standard antidepressants for mild-to-moderate depression; a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side effects such as agitation or restlessness.'
+  mechanism: Saffron has antidepressant, serotonin-related activity (a meta-analysis of randomised trials
+    found saffron more effective than placebo and comparable to standard antidepressants for mild-to-moderate
+    depression; a trial safely combined low-dose saffron with SSRIs); because both raise serotonergic
+    activity, combining saffron with antidepressants may add to serotonergic effects, so watch for side
+    effects such as agitation or restlessness.
   reference_ids:
   - REF-2496
   - REF-2535
@@ -169,7 +245,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Saffron is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Saffron is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -178,7 +256,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Saffron lowers fasting blood glucose and HbA1c in trials in people with diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
+  mechanism: Saffron lowers fasting blood glucose and HbA1c in trials in people with diabetes; combined
+    with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.
   reference_ids:
   - REF-2502
   status: approved
@@ -191,13 +270,29 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: colchicum-autumnale
   severity: fatal
-  confused_part: The whole autumn flower (a leafless lilac-purple, crocus-shaped bloom) and its style/stigma threads that can be taken for saffron, plus the corm; in spring the strap-shaped leaves are also confused with other greens.
-  confusion_context: Autumn crocus / meadow saffron (Colchicum autumnale, family Colchicaceae) flowers in autumn with a leafless lilac-purple crocus-like flower that closely mimics true saffron crocus (Crocus sativus, Iridaceae) and is even nicknamed 'meadow saffron'. It contains colchicine, a cell toxin with no readily available antidote; ingestion causes deceptively delayed (hours later) multi-organ failure and can be fatal. A Swiss poison-centre review lists it among the few plants that can kill (Kupper & Reichert 2009), and a documented case describes severe multi-organ injury after it was eaten in error (Gabrscek et al. 2004). University extensions warn it should definitely not be used in place of saffron, because eating any part of it can be fatal.
+  confused_part: The whole autumn flower (a leafless lilac-purple, crocus-shaped bloom) and its style/stigma
+    threads that can be taken for saffron, plus the corm; in spring the strap-shaped leaves are also confused
+    with other greens.
+  confusion_context: Autumn crocus / meadow saffron (Colchicum autumnale, family Colchicaceae) flowers
+    in autumn with a leafless lilac-purple crocus-like flower that closely mimics true saffron crocus
+    (Crocus sativus, Iridaceae) and is even nicknamed 'meadow saffron'. It contains colchicine, a cell
+    toxin with no readily available antidote; ingestion causes deceptively delayed (hours later) multi-organ
+    failure and can be fatal. A Swiss poison-centre review lists it among the few plants that can kill
+    (Kupper & Reichert 2009), and a documented case describes severe multi-organ injury after it was eaten
+    in error (Gabrscek et al. 2004). University extensions warn it should definitely not be used in place
+    of saffron, because eating any part of it can be fatal.
   distinguishing_features:
-  - 'STAMEN COUNT (decisive): true saffron crocus has exactly THREE stamens per flower; autumn crocus (Colchicum) has SIX. Two independent university extensions confirm three-versus-six as the hard, countable difference.'
-  - 'SAFFRON THREADS: saffron crocus has one style splitting into three long, deep-RED branched stigmas (the saffron threads). Colchicum has three separate pale styles with yellow anthers and does not produce the long red saffron threads.'
-  - 'FLOWER ARCHITECTURE: saffron crocus is in the iris family (Iridaceae; 3 stamens, 1 style); Colchicum is in Colchicaceae (6 stamens, 3 styles) - a fundamentally different flower.'
-  key_test: 'Count the stamens inside the open flower: exactly THREE (with three long deep-red saffron threads) = true saffron crocus. SIX stamens (pale styles, yellow anthers, no red threads) = autumn crocus (Colchicum) - do NOT eat or use as saffron; it can be fatal. If in any doubt, do not harvest.'
+  - 'STAMEN COUNT (decisive): true saffron crocus has exactly THREE stamens per flower; autumn crocus
+    (Colchicum) has SIX. Two independent university extensions confirm three-versus-six as the hard, countable
+    difference.'
+  - 'SAFFRON THREADS: saffron crocus has one style splitting into three long, deep-RED branched stigmas
+    (the saffron threads). Colchicum has three separate pale styles with yellow anthers and does not produce
+    the long red saffron threads.'
+  - 'FLOWER ARCHITECTURE: saffron crocus is in the iris family (Iridaceae; 3 stamens, 1 style); Colchicum
+    is in Colchicaceae (6 stamens, 3 styles) - a fundamentally different flower.'
+  key_test: 'Count the stamens inside the open flower: exactly THREE (with three long deep-red saffron
+    threads) = true saffron crocus. SIX stamens (pale styles, yellow anthers, no red threads) = autumn
+    crocus (Colchicum) - do NOT eat or use as saffron; it can be fatal. If in any doubt, do not harvest.'
   reference_ids:
   - REF-2649
   - REF-2650
@@ -208,7 +303,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -217,4 +312,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0788, REF-0789, REF-0790.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0789,
   REF-2001, REF-2002, REF-2003, REF-2004, REF-2005, REF-2006, REF-2007, REF-2008, REF-2009, REF-2010)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

@@ -16135,6 +16135,87 @@
    "parts_used": [
     "Flower"
    ],
+   "botanical_description": {
+    "text": "Small, cormous perennial with narrow, grass-like, dark green leaves emerging with or just after the flowers. Each flower is a delicate lilac-purple, six-petalled bloom with three golden-yellow anthers and a single style dividing into three long, deep-red, thread-like stigmas - the saffron of commerce. The plant is a sterile triploid that never sets seed and is propagated entirely by division of its underground corms.",
+    "height": "10-20 cm",
+    "habit": "Small, cormous, autumn-flowering perennial",
+    "leaves": "Narrow, grass-like, dark green, emerging with or just after the flowers",
+    "flowers": "Lilac-purple, six-petalled, with three golden anthers and three long deep-red stigma threads",
+    "stem": "Very short; flowers arise almost directly from the corm",
+    "root": "Underground corm with fibrous roots",
+    "fruit": "Sterile triploid; does not set seed, propagated by corm division",
+    "flowering_period": "Autumn (October-November)",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Believed to have originated in Greece or Crete and spread through cultivation across the Mediterranean, Middle East and Asia (notably Iran, Kashmir and Spain); grown in sunny, well-drained fields with hot, dry summers and cool, wet autumns/winters.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The flowers are hand-picked at dawn as they open, and the three red stigma threads are immediately hand-separated from each flower and dried - an extremely labour-intensive process (many thousands of flowers are needed for a small amount of dried saffron), which accounts for saffron's high cost.",
+    "parts": [
+     "Flower"
+    ],
+    "season": "Autumn, at flowering, harvested at dawn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Saffron has a long Mediterranean, Middle Eastern and South Asian tradition as both a prized culinary spice/dye and a medicinal herb, used for mood support, digestive complaints and as a mild emmenagogue; its traditional mood-lifting reputation is now supported by clinical trials comparing standardised saffron extract to conventional antidepressants for mild-to-moderate depression.",
+    "reference_ids": [
+     "REF-0788"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Stigma extract standardised to safranal/crocin content, taken as capsules; the form used in most clinical mood and metabolic studies.",
+     "reference_ids": [
+      "REF-0788"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "A few dried stigma threads steeped in hot water or milk, a traditional culinary and mild medicinal preparation.",
+     "status": "draft"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Dried stigma threads used as a spice and natural dye/flavouring in cooking, the most common traditional and modern use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for mood support commonly use around 30 mg of standardised saffron extract daily (in divided doses); culinary use is typically well under 1 g. High medicinal doses (5 g or more) are considered potentially toxic and should be avoided. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0788"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Crocin and crocetin",
+     "note": "Water-soluble carotenoid glycosides responsible for saffron's deep golden-red colour and much of its antioxidant and mood-related activity.",
+     "reference_ids": [
+      "REF-0788"
+     ]
+    },
+    {
+     "name": "Safranal",
+     "note": "The principal volatile aromatic compound, giving saffron its characteristic scent and contributing to its sedative and antidepressant activity.",
+     "reference_ids": [
+      "REF-0788"
+     ]
+    },
+    {
+     "name": "Picrocrocin",
+     "note": "The main bitter-tasting glycoside of the stigma, a precursor of safranal."
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -16417,7 +16498,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "saffron"
   },
   {
@@ -16444,6 +16525,53 @@
      "reference_ids": [
       "REF-0657"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Slender annual herb with finely divided, thread-like leaves similar to dill or fennel but smaller. Small white or pale pink flowers are borne in small compound umbels, followed by small, ridged, boat-shaped, strongly aromatic seeds.",
+    "height": "20-30 cm",
+    "habit": "Slender, low-growing annual herb",
+    "leaves": "Finely divided, thread-like, similar to dill but smaller",
+    "flowers": "Small white or pale pink flowers in small compound umbels",
+    "stem": "Slender, branching",
+    "root": "Slender taproot",
+    "fruit": "Small, ridged, boat-shaped, strongly aromatic seed (mericarp)",
+    "flowering_period": "Summer",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Believed native to the eastern Mediterranean and Central Asia; cultivated widely in warm, dry climates including India, the Middle East and North Africa as a major spice crop.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The seed heads are cut when the fruit has ripened but before it shatters, usually in mid- to late summer, then dried and threshed.",
+    "parts": [
+     "Seed"
+    ],
+    "season": "Mid- to late summer",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Cumin seed has an ancient culinary and medicinal history across the Middle East, South Asia and the Mediterranean as a warming digestive carminative for indigestion, bloating and cramping, and is one of the most widely used spices worldwide.",
+    "status": "draft"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (seed)",
+     "text": "Crushed or whole seed infused or lightly toasted then infused in hot water as a traditional carminative digestive tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Whole or ground seed used extensively as a food spice, the most common form of use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed infusion",
+     "text": "Traditional herbal references suggest around 1-3 g of crushed seed per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -16974,7 +17102,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "cumin"
   },
   {
@@ -16989,6 +17117,92 @@
    "family": "Zingiberaceae",
    "parts_used": [
     "Rhizome"
+   ],
+   "botanical_description": {
+    "text": "Rhizomatous perennial herb with large, broad, lance-shaped leaves arising directly from the underground rhizome in a clump. Pale yellow flowers are borne in a dense spike partly hidden among pale green to pink upper bracts. The branching, knobbly rhizome has a bright orange-yellow interior, the source of turmeric spice and dye.",
+    "height": "60-100 cm",
+    "habit": "Rhizomatous perennial herb",
+    "leaves": "Large, broad, lance-shaped, arising directly from the rhizome",
+    "flowers": "Pale yellow, in a dense spike among pale green to pink upper bracts",
+    "stem": "Pseudostem formed by tightly overlapping leaf bases",
+    "root": "Branching, knobbly rhizome with a bright orange-yellow interior",
+    "fruit": "Rarely sets seed; propagated by rhizome division",
+    "flowering_period": "Summer to early autumn",
+    "reference_ids": [
+     "REF-0791"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to South Asia (India) and Southeast Asia; cultivated extensively in warm, humid tropical climates on well-drained, fertile soils.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The rhizomes are dug at the end of the growing season, typically 8-10 months after planting, when the leaves have died back; they are cleaned, boiled or steamed, then dried and often ground into the familiar yellow powder.",
+    "parts": [
+     "Rhizome"
+    ],
+    "season": "End of growing season, 8-10 months after planting",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Turmeric rhizome is a cornerstone spice and medicine of Ayurvedic and traditional Chinese medicine, used for millennia as an anti-inflammatory, digestive and wound-healing remedy and valued as a golden dye; its curcuminoid-rich rhizome is now among the most extensively researched botanicals for inflammatory and joint conditions, directly building on this traditional reputation.",
+    "reference_ids": [
+     "REF-0002",
+     "REF-0791"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Rhizome extract standardised to curcuminoid content, often combined with piperine (black pepper extract) to improve absorption, taken as capsules; the form used in most clinical arthritis and inflammation studies.",
+     "reference_ids": [
+      "REF-0791"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction/'golden milk'",
+     "text": "Fresh or dried rhizome simmered in milk or water, traditionally with black pepper and a fat source, as a warming digestive and anti-inflammatory drink.",
+     "status": "draft"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Fresh or dried, ground rhizome used extensively as a food spice and colourant.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials in arthritis commonly use around 1000-1500 mg of curcumin (or curcuminoid-standardised extract) daily, in divided doses, often combined with piperine. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0791"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin)",
+     "compounds": [
+      "curcumin"
+     ],
+     "note": "The principal yellow-orange pigments and best-studied bioactive compounds, responsible for most of turmeric's anti-inflammatory and antioxidant activity; oral bioavailability is low unless combined with piperine or a lipid carrier.",
+     "reference_ids": [
+      "REF-0002",
+      "REF-0791"
+     ]
+    },
+    {
+     "name": "Essential (volatile) oil",
+     "compounds": [
+      "essential-oil",
+      "terpene"
+     ],
+     "note": "Aromatic sesquiterpenes (including turmerone) contributing to fragrance and additional bioactivity."
+    }
    ],
    "actions": [
     {
@@ -17246,7 +17460,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "tumeric"
   },
   {
@@ -17295,6 +17509,76 @@
      "reference_ids": [
       "REF-0461"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Tall, thistle-like perennial herb with large, deeply lobed, silvery-green leaves, spiny in wild forms but usually spineless in cultivated globe artichoke. The plant produces a large, edible immature flower bud (the 'artichoke heart' of cuisine) which, left to mature, opens into a striking violet-blue thistle flower.",
+    "height": "1-2 m",
+    "habit": "Tall, robust, thistle-like perennial herb",
+    "leaves": "Large, deeply lobed, silvery-green, spiny in wild forms",
+    "flowers": "Large violet-blue thistle-type flower head, harvested immature as the edible artichoke bud",
+    "stem": "Stout, ridged, branching",
+    "root": "Deep, fleshy taproot",
+    "fruit": "Achene with a feathery pappus",
+    "flowering_period": "Summer, if buds are left unharvested",
+    "reference_ids": [
+     "REF-0461"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean region; cultivated widely as a vegetable and medicinal crop in warm-temperate climates on rich, well-drained soil.",
+    "reference_ids": [
+     "REF-0461"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "For medicinal use, the leaves are picked before flowering, when caffeoylquinic acid (chlorogenic acid/cynarin) content is highest, and dried; the edible flower bud is separately harvested young, before the flower opens.",
+    "parts": [
+     "Leaf"
+    ],
+    "season": "Before flowering",
+    "reference_ids": [
+     "REF-0461"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Artichoke leaf has a long Mediterranean folk history as a bitter digestive and liver remedy, used to stimulate bile flow and ease dyspeptic complaints such as indigestion, bloating and fullness, and as a traditional hepatoprotective 'liver tonic'; modern standardised leaf extracts are also studied for supporting healthy cholesterol levels.",
+    "reference_ids": [
+     "REF-0461"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Dried leaf extract standardised to caffeoylquinic acid (chlorogenic acid/cynarin) content, taken as capsules or tablets for digestive and lipid support.",
+     "reference_ids": [
+      "REF-0461"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried leaf infused in hot water as a bitter digestive tea, taken before meals.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried leaf.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical studies commonly use extracts providing around 300-640 mg dried leaf extract, up to three times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0461"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -17463,7 +17747,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "artichoke"
   },
   {
@@ -18146,6 +18430,73 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Twining, herbaceous perennial vine with heart-shaped leaves arising from a knotty, woody, cinnamon-brown rhizome ('root'). Small, inconspicuous greenish-yellow flowers are borne on separate male and female plants, followed on female plants by small three-winged seed capsules.",
+    "height": "Vine to several metres, twining over support",
+    "habit": "Twining, herbaceous perennial vine",
+    "leaves": "Heart-shaped, alternate",
+    "flowers": "Small, inconspicuous, greenish-yellow, on separate male and female plants",
+    "stem": "Slender, twining",
+    "root": "Knotty, woody, cinnamon-brown rhizome",
+    "fruit": "Small three-winged seed capsule (female plants)",
+    "flowering_period": "Summer",
+    "reference_ids": [
+     "REF-0528"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to woodland edges, thickets and fence rows of eastern North America, growing over shrubs and fences in moist, rich soil.",
+    "reference_ids": [
+     "REF-0528"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The knotty rhizome is dug in autumn once the aerial vine has died back, then cleaned and dried.",
+    "parts": [
+     "Root and rhizome"
+    ],
+    "season": "Autumn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Wild yam root has a Native American and Eclectic-medicine history as an antispasmodic remedy for colic, menstrual cramps and rheumatic joint pain (reflected in the old names 'colic root' and 'rheumatism root'); despite a persistent modern myth, its diosgenin content is not converted into progesterone or other hormones in the human body.",
+    "reference_ids": [
+     "REF-0528"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried root and rhizome simmered in water as a traditional antispasmodic remedy for colic and cramping.",
+     "reference_ids": [
+      "REF-0528"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root and rhizome, typically around 1:5.",
+     "status": "draft"
+    },
+    {
+     "name": "Topical cream",
+     "text": "Root extract formulated into topical creams, historically marketed (without good supporting evidence) for menopausal symptoms.",
+     "reference_ids": [
+      "REF-0614"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction",
+     "text": "Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "analgesic",
@@ -18306,7 +18657,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "wild-yam"
   },
   {

@@ -83,6 +83,25 @@ dosage:
   - REF-1516
   - REF-1517
   status: verified
+constituents:
+- name: Psilocybin
+  note: The principal prodrug alkaloid, an indole (tryptamine) compound dephosphorylated to psilocin in
+    the body; the primary active constituent driving the psychoactive and clinically studied antidepressant/anxiolytic
+    effects.
+  reference_ids:
+  - REF-1516
+  - REF-1518
+- name: Psilocin
+  note: The active metabolite of psilocybin, a serotonin (5-HT2A) receptor agonist directly responsible
+    for the psychoactive effect.
+  reference_ids:
+  - REF-1516
+  - REF-1517
+- name: Baeocystin and norbaeocystin (minor tryptamine alkaloids)
+  note: Minor related tryptamines present alongside psilocybin/psilocin at lower concentrations, of uncertain
+    individual contribution.
+  reference_ids:
+  - REF-1521
 actions:
 - action: antidepressant
   note: Psilocybin-assisted therapy for depression (clinical trials)
@@ -200,4 +219,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing ethnobotany review (REF-1524), cultivation review (REF-1525)
   and pharmacokinetics studies (REF-1516, REF-1517, REF-1518, REF-1519, REF-1521); mirrors the fungal-field
-  pattern used for ganoderma-lingzhi/pleurotus-ostreatus.'
+  pattern used for ganoderma-lingzhi/pleurotus-ostreatus. | 2026-07-11 (fix): added the constituents field
+  that was missed in the earlier batch-25 edit (caught by the worklist re-check gotcha).'

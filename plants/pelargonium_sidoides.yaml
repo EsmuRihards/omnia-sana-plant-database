@@ -23,6 +23,61 @@ constituents:
   note: Contribute to the antiviral and immunomodulatory effects.
   reference_ids:
   - REF-0493
+botanical_description:
+  text: Low-growing herbaceous perennial (Geraniaceae) with a thick, dark, tuberous rootstock. Long-stalked,
+    heart- to kidney-shaped, greyish-green, softly hairy leaves form a basal rosette. Slender flowering
+    stems bear small, dark red to almost black, five-petalled flowers. The thick tuberous root is the
+    medicinal part, used as the standardised extract EPs 7630.
+  height: Low, basal rosette (flowering stems taller)
+  habit: Low-growing herbaceous perennial, basal rosette
+  leaves: Long-stalked, heart- to kidney-shaped, greyish-green, softly hairy
+  flowers: Small, dark red to almost black, five-petalled
+  stem: Slender flowering stems above a basal leaf rosette
+  root: Thick, dark, tuberous rootstock - the medicinal part
+  fruit: Small beaked capsule (typical Geraniaceae schizocarp)
+  flowering_period: Spring-summer (native range, Southern Hemisphere)
+  status: draft
+habitat:
+  text: Native to the grasslands of the Eastern Cape and Free State regions of South Africa and Lesotho,
+    growing on rocky, well-drained grassland slopes at moderate to high altitude.
+  status: draft
+harvesting:
+  text: The thick tuberous root is dug from mature plants - wild-harvested and increasingly cultivated
+    - then cleaned and dried before being processed into the standardised ethanolic extract (EPs 7630)
+    used commercially.
+  parts:
+  - Root
+  season: Harvested from mature plants; specific season not standardised in the bucket
+  status: draft
+traditional_uses:
+  text: Known locally as 'Umckaloabo', Pelargonium sidoides root has a long history of traditional use
+    by South African indigenous peoples for respiratory and gastrointestinal complaints, and was popularised
+    in Europe in the early 20th century as a tuberculosis remedy. Its modern use, now well supported by
+    clinical trials, is as a standardised extract (EPs 7630) for acute bronchitis, the common cold and
+    other upper respiratory tract infections.
+  reference_ids:
+  - REF-0492
+  - REF-0493
+  status: verified
+preparations:
+- name: Standardised liquid extract (EPs 7630)
+  text: The clinically studied commercial form, taken as drops or syrup for acute bronchitis and upper
+    respiratory tract infections.
+  reference_ids:
+  - REF-0492
+  - REF-0493
+  status: verified
+- name: Tablets/lozenges
+  text: Encapsulated standardised extract.
+  status: draft
+dosage:
+- name: Standardised extract (EPs 7630)
+  text: Clinical trials have used the standardised commercial extract per product labelling for acute
+    bronchitis and respiratory infections in both adults and children; dosing (drops or syrup) differs
+    by age, so follow product-specific instructions. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0492
+  status: verified
 actions:
 - action: antiviral
   note: Antiviral and immunomodulatory (mechanism of action)
@@ -113,7 +168,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Int J Gen Med and Wien Med Wochenschr
   reviews of the standardised root extract EPs 7630). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bronchitis, cold, sore-throat, sinusitis); associations retained and now
@@ -124,4 +179,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Int J Gen Med a
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 11 PubMed-verified @article sources (REF-1868, REF-0492, REF-1869, REF-1870, REF-0576, REF-1871,
   REF-1872, REF-1873, REF-1874, REF-1875, REF-1876) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields; botanical_description/habitat/harvesting are status:draft (well-known general
+  facts, no dedicated botanical review in the largely-clinical bucket), traditional_uses/preparations/dosage
+  cite the existing EPs 7630 clinical-efficacy reviews (REF-0492, REF-0493).'

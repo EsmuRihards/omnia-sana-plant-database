@@ -27,6 +27,68 @@ constituents:
   note: Naturally present but hepatotoxic and carcinogenic; must be removed to make a safe product.
   reference_ids:
   - REF-0426
+botanical_description:
+  text: 'Robust, rhizomatous perennial herb (Asteraceae) that flowers before the leaves emerge: thick,
+    pinkish, scaly flower spikes push up from the ground in early spring, followed by enormous rounded
+    to heart-shaped leaves - up to about 1 m across at maturity - on stout stalks, giving rise to the
+    common name ''umbrella plant''.'
+  height: Flower spikes low in early spring; leaves later up to ~1 m across
+  habit: Robust, rhizomatous, colony-forming perennial herb
+  leaves: Enormous, rounded to heart-shaped, up to ~1 m across, on stout stalks
+  flowers: Thick, pinkish, scaly flower spikes, appearing before the leaves
+  stem: Thick underground rhizome; scaly flowering stalks in early spring
+  root: Thick, spreading rhizome
+  fruit: Small ribbed achenes with a pappus (typical Asteraceae)
+  flowering_period: February-April, before the leaves emerge
+  reference_ids:
+  - REF-1477
+  status: verified
+habitat:
+  text: Native to damp, marshy ground across Europe and western Asia - riverbanks, ditches, wet meadows
+    and damp woodland margins - favouring moist, nutrient-rich soils.
+  reference_ids:
+  - REF-1477
+  status: verified
+harvesting:
+  text: Rhizome/root is dug in autumn or early spring; leaves are gathered during the growing season.
+    Raw material naturally contains hepatotoxic pyrrolizidine alkaloids, so commercial products are manufactured
+    to remove them (PA-free standardised extracts); home-gathered material should never be used medicinally.
+  parts:
+  - Root/rhizome
+  - Leaf
+  season: Root/rhizome in autumn or early spring; leaf during the growing season
+  reference_ids:
+  - REF-0426
+  status: verified
+traditional_uses:
+  text: Butterbur has a long European folk-medicine history as a fever remedy - the name 'pestilence wort'
+    reflects its historic use during plague outbreaks - and for asthma, cough and migraine-type headache.
+    Modern clinical trials of standardised, pyrrolizidine-alkaloid-free extracts support its use for migraine
+    prevention and allergic rhinitis.
+  reference_ids:
+  - REF-1477
+  - REF-1479
+  - REF-1478
+  status: verified
+preparations:
+- name: Standardised PA-free extract (tablet)
+  text: The only recommended form - e.g. the CO2-extracted root product studied for migraine prevention,
+    or the Ze 339 leaf extract studied for allergic rhinitis. Raw root or leaf tea should never be used,
+    as it retains hepatotoxic pyrrolizidine alkaloids.
+  reference_ids:
+  - REF-1479
+  - REF-1478
+  - REF-0426
+  status: verified
+dosage:
+- name: Standardised PA-free extract
+  text: Clinical trials have used standardised PA-free extracts (for example around 50-75 mg twice daily
+    of a CO2 root extract for migraine prevention). Always use a certified PA-free commercial product,
+    never raw plant material. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-1479
+  - REF-1478
+  status: verified
 actions:
 - action: antihistaminic
   note: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
@@ -139,13 +201,26 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: adenostyles-alliariae
   severity: dangerous
-  confused_part: Very large rounded leaves and rhizome gathered for use; alpendost has similar large rounded leaves and the same hepatotoxic pyrrolizidine alkaloids.
-  confusion_context: Butterbur (Petasites hybridus) has very large rounded leaves and is used medicinally (as pyrrolizidine-free standardised extracts). In the wild its foliage is confused with alpendost (Adenostyles alliariae) and coltsfoot, all large-leaved damp-ground plants. Alpendost contains hepatotoxic pyrrolizidine alkaloids and, gathered in mistake for coltsfoot/butterbur and brewed as tea, has caused liver veno-occlusive disease (Sperl et al., 1995). Butterbur's own raw leaves also contain pyrrolizidine alkaloids, so wild butterbur should only be used as tested, PA-free products rather than home-gathered material.
+  confused_part: Very large rounded leaves and rhizome gathered for use; alpendost has similar large rounded
+    leaves and the same hepatotoxic pyrrolizidine alkaloids.
+  confusion_context: Butterbur (Petasites hybridus) has very large rounded leaves and is used medicinally
+    (as pyrrolizidine-free standardised extracts). In the wild its foliage is confused with alpendost
+    (Adenostyles alliariae) and coltsfoot, all large-leaved damp-ground plants. Alpendost contains hepatotoxic
+    pyrrolizidine alkaloids and, gathered in mistake for coltsfoot/butterbur and brewed as tea, has caused
+    liver veno-occlusive disease (Sperl et al., 1995). Butterbur's own raw leaves also contain pyrrolizidine
+    alkaloids, so wild butterbur should only be used as tested, PA-free products rather than home-gathered
+    material.
   distinguishing_features:
-  - 'Leaf: butterbur has enormous rounded leaves (up to about 1 m across when mature) on stout stalks; alpendost leaves are large but smaller and more coarsely toothed. Neither should be brewed from home-gathered material.'
-  - 'Flowers: butterbur pushes up thick pinkish flower spikes in early spring before the leaves; alpendost has fluffy whitish-pink flower clusters among its leaves in summer.'
-  - 'Best practice: do not brew wild butterbur or its large-leaved lookalikes at all - use only standardised, pyrrolizidine-free commercial butterbur preparations.'
-  key_test: Do not gather large rounded 'butterbur' leaves for tea - butterbur, alpendost and coltsfoot all look alike and carry liver-damaging pyrrolizidine alkaloids. Use only standardised, pyrrolizidine-free commercial butterbur products rather than home-collected leaves.
+  - 'Leaf: butterbur has enormous rounded leaves (up to about 1 m across when mature) on stout stalks;
+    alpendost leaves are large but smaller and more coarsely toothed. Neither should be brewed from home-gathered
+    material.'
+  - 'Flowers: butterbur pushes up thick pinkish flower spikes in early spring before the leaves; alpendost
+    has fluffy whitish-pink flower clusters among its leaves in summer.'
+  - 'Best practice: do not brew wild butterbur or its large-leaved lookalikes at all - use only standardised,
+    pyrrolizidine-free commercial butterbur preparations.'
+  key_test: Do not gather large rounded 'butterbur' leaves for tea - butterbur, alpendost and coltsfoot
+    all look alike and carry liver-damaging pyrrolizidine alkaloids. Use only standardised, pyrrolizidine-free
+    commercial butterbur products rather than home-collected leaves.
   reference_ids:
   - REF-2688
   status: approved
@@ -153,7 +228,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in Review integrative-medicine
   review). Further enriched 2026-06-13 with two PubMed sources: a randomised placebo-controlled migraine-prophylaxis
   trial (REF-0543, Grossmann & Schmidramsl 2000) and a systematic review of herbal medicines for allergic
@@ -163,4 +238,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in R
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
   | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1476,
   REF-1477, REF-1478, REF-1479, REF-1480, REF-1481, REF-1482, REF-1483, REF-1484, REF-1485) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing medicinal-herb portrait review (REF-1477) and the migraine/allergic-rhinitis
+  RCTs (REF-1479, REF-1478); dosage/preparations reinforce the existing PA-free-only safety guidance.'

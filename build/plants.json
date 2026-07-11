@@ -40954,6 +40954,64 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Low-growing herbaceous perennial (Geraniaceae) with a thick, dark, tuberous rootstock. Long-stalked, heart- to kidney-shaped, greyish-green, softly hairy leaves form a basal rosette. Slender flowering stems bear small, dark red to almost black, five-petalled flowers. The thick tuberous root is the medicinal part, used as the standardised extract EPs 7630.",
+    "height": "Low, basal rosette (flowering stems taller)",
+    "habit": "Low-growing herbaceous perennial, basal rosette",
+    "leaves": "Long-stalked, heart- to kidney-shaped, greyish-green, softly hairy",
+    "flowers": "Small, dark red to almost black, five-petalled",
+    "stem": "Slender flowering stems above a basal leaf rosette",
+    "root": "Thick, dark, tuberous rootstock - the medicinal part",
+    "fruit": "Small beaked capsule (typical Geraniaceae schizocarp)",
+    "flowering_period": "Spring-summer (native range, Southern Hemisphere)",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to the grasslands of the Eastern Cape and Free State regions of South Africa and Lesotho, growing on rocky, well-drained grassland slopes at moderate to high altitude.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The thick tuberous root is dug from mature plants - wild-harvested and increasingly cultivated - then cleaned and dried before being processed into the standardised ethanolic extract (EPs 7630) used commercially.",
+    "parts": [
+     "Root"
+    ],
+    "season": "Harvested from mature plants; specific season not standardised in the bucket",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Known locally as 'Umckaloabo', Pelargonium sidoides root has a long history of traditional use by South African indigenous peoples for respiratory and gastrointestinal complaints, and was popularised in Europe in the early 20th century as a tuberculosis remedy. Its modern use, now well supported by clinical trials, is as a standardised extract (EPs 7630) for acute bronchitis, the common cold and other upper respiratory tract infections.",
+    "reference_ids": [
+     "REF-0492",
+     "REF-0493"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised liquid extract (EPs 7630)",
+     "text": "The clinically studied commercial form, taken as drops or syrup for acute bronchitis and upper respiratory tract infections.",
+     "reference_ids": [
+      "REF-0492",
+      "REF-0493"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tablets/lozenges",
+     "text": "Encapsulated standardised extract.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract (EPs 7630)",
+     "text": "Clinical trials have used the standardised commercial extract per product labelling for acute bronchitis and respiratory infections in both adults and children; dosing (drops or syrup) differs by age, so follow product-specific instructions. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0492"
+     ],
+     "status": "verified"
+    }
+   ],
    "actions": [
     {
      "action": "antiviral",
@@ -41088,7 +41146,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "pelargonium"
   },
   {
@@ -41130,6 +41188,72 @@
      "reference_ids": [
       "REF-0426"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Robust, rhizomatous perennial herb (Asteraceae) that flowers before the leaves emerge: thick, pinkish, scaly flower spikes push up from the ground in early spring, followed by enormous rounded to heart-shaped leaves - up to about 1 m across at maturity - on stout stalks, giving rise to the common name 'umbrella plant'.",
+    "height": "Flower spikes low in early spring; leaves later up to ~1 m across",
+    "habit": "Robust, rhizomatous, colony-forming perennial herb",
+    "leaves": "Enormous, rounded to heart-shaped, up to ~1 m across, on stout stalks",
+    "flowers": "Thick, pinkish, scaly flower spikes, appearing before the leaves",
+    "stem": "Thick underground rhizome; scaly flowering stalks in early spring",
+    "root": "Thick, spreading rhizome",
+    "fruit": "Small ribbed achenes with a pappus (typical Asteraceae)",
+    "flowering_period": "February-April, before the leaves emerge",
+    "reference_ids": [
+     "REF-1477"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to damp, marshy ground across Europe and western Asia - riverbanks, ditches, wet meadows and damp woodland margins - favouring moist, nutrient-rich soils.",
+    "reference_ids": [
+     "REF-1477"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Rhizome/root is dug in autumn or early spring; leaves are gathered during the growing season. Raw material naturally contains hepatotoxic pyrrolizidine alkaloids, so commercial products are manufactured to remove them (PA-free standardised extracts); home-gathered material should never be used medicinally.",
+    "parts": [
+     "Root/rhizome",
+     "Leaf"
+    ],
+    "season": "Root/rhizome in autumn or early spring; leaf during the growing season",
+    "reference_ids": [
+     "REF-0426"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Butterbur has a long European folk-medicine history as a fever remedy - the name 'pestilence wort' reflects its historic use during plague outbreaks - and for asthma, cough and migraine-type headache. Modern clinical trials of standardised, pyrrolizidine-alkaloid-free extracts support its use for migraine prevention and allergic rhinitis.",
+    "reference_ids": [
+     "REF-1477",
+     "REF-1479",
+     "REF-1478"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised PA-free extract (tablet)",
+     "text": "The only recommended form - e.g. the CO2-extracted root product studied for migraine prevention, or the Ze 339 leaf extract studied for allergic rhinitis. Raw root or leaf tea should never be used, as it retains hepatotoxic pyrrolizidine alkaloids.",
+     "reference_ids": [
+      "REF-1479",
+      "REF-1478",
+      "REF-0426"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised PA-free extract",
+     "text": "Clinical trials have used standardised PA-free extracts (for example around 50-75 mg twice daily of a CO2 root extract for migraine prevention). Always use a certified PA-free commercial product, never raw plant material. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-1479",
+      "REF-1478"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -41313,7 +41437,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "butterbur"
   },
   {
@@ -41372,6 +41496,82 @@
      "reference_ids": [
       "REF-0489"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Biennial herb (Apiaceae), usually grown as an annual, 20-60 cm tall, with a slender taproot. Leaves are bright green and finely divided, either flat or tightly curled ('crisped') depending on variety. In the second year, small yellow-green flowers are borne in compound umbels, followed by small, ridged fruit (the 'seed').",
+    "height": "20-60 cm",
+    "habit": "Biennial herb (usually cultivated as an annual)",
+    "leaves": "Bright green, finely divided, flat or curled ('crisped')",
+    "flowers": "Small, yellow-green, in compound umbels (second year)",
+    "stem": "Erect, branched (second-year flowering stem)",
+    "root": "Slender taproot (thickened in root-parsley varieties)",
+    "fruit": "Small, ridged, aromatic fruit (\"seed\")",
+    "flowering_period": "Second year, June-August",
+    "reference_ids": [
+     "REF-0489"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the central Mediterranean (Sardinia and southern Italy), long cultivated worldwide as a culinary and medicinal herb in gardens and as a field crop.",
+    "reference_ids": [
+     "REF-0489"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are picked fresh throughout the growing season; the root (of root-parsley varieties) is lifted in autumn; the seed (fruit) is collected from second-year plants once ripe and dry - it is used mainly in medicinal/aromatic preparations rather than food, given its higher concentration of the toxic essential-oil constituents apiole and myristicin.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Seed"
+    ],
+    "season": "Leaf throughout the growing season; root in autumn; seed once ripe (second year)",
+    "reference_ids": [
+     "REF-0489"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Parsley has a long Mediterranean culinary-medicinal tradition as a carminative digestive tonic, breath freshener and mild diuretic traditionally used for urinary complaints and fluid retention. Modern research supports antioxidant, hepatoprotective, nephroprotective and diuretic activity.",
+    "reference_ids": [
+     "REF-0489",
+     "REF-0546"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh leaf",
+     "text": "Eaten fresh as a garnish or herb - a traditional daily digestive and breath-freshening support.",
+     "reference_ids": [
+      "REF-0489"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf or crushed seed steeped in hot water, a traditional diuretic and digestive preparation.",
+     "reference_ids": [
+      "REF-0489"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Root decoction",
+     "text": "Root simmered in water, a traditional diuretic preparation.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Leaf infusion",
+     "text": "Culinary amounts of leaf are food-safe; medicinal use should stick to modest infusion amounts (roughly 2-4 g dried leaf or root per cup, a few times daily). Avoid concentrated seed extract or essential oil, which are toxic and uterine-stimulant at higher doses, and avoid medicinal doses entirely in pregnancy. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0489"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -41622,7 +41822,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "parsley"
   },
   {
@@ -41637,6 +41837,118 @@
    "parts_used": [
     "Fruit",
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Annual herb (Apiaceae), 30-60 cm tall, with an erect, downy stem. Lower leaves are rounded and toothed or shallowly lobed, while upper leaves are finely feathery and pinnately divided. Small white flowers are borne in compound umbels, followed by small, ridged, downy fruit ('aniseed') with a strong, sweet, liquorice scent.",
+    "height": "30-60 cm",
+    "habit": "Erect, downy annual herb",
+    "leaves": "Lower leaves rounded/toothed; upper leaves finely feathery, pinnately divided",
+    "flowers": "Small, white, in compound umbels",
+    "stem": "Erect, downy",
+    "root": "Slender taproot",
+    "fruit": "Small, ridged, downy, sweetly liquorice-scented fruit (\"aniseed\")",
+    "flowering_period": "July-August",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to the eastern Mediterranean and south-west Asia, widely cultivated as a spice and medicinal crop in warm-temperate regions worldwide, needing a long, warm growing season and well-drained soil.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Fruit ('seed') is harvested in late summer once the umbels have dried and turned brown, then threshed and dried further.",
+    "parts": [
+     "Fruit",
+     "Seed"
+    ],
+    "season": "Late summer, once umbels have dried",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Anise has a long Mediterranean and Middle Eastern tradition as a carminative digestive remedy for bloating and indigestion, an expectorant for coughs and catarrh, and a traditional galactagogue (milk-promoting) herb for nursing mothers. Commission E and WHO both approve its traditional use for catarrh of the upper respiratory tract and gastrointestinal spasms.",
+    "reference_ids": [
+     "REF-0123",
+     "REF-0165",
+     "REF-0268",
+     "REF-0274",
+     "REF-0278"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Crushed seed infusion (tea)",
+     "text": "The classic carminative preparation: crushed seed steeped in hot water.",
+     "reference_ids": [
+      "REF-0123",
+      "REF-0165",
+      "REF-0268",
+      "REF-0274",
+      "REF-0278"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Concentrated aromatic fruit oil, used in small measured amounts in traditional formulations.",
+     "reference_ids": [
+      "REF-0123",
+      "REF-0165",
+      "REF-0268",
+      "REF-0274",
+      "REF-0278"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Chewed seed",
+     "text": "Traditional after-meal digestive aid.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Crushed seed / essential oil",
+     "text": "Duke (2002): about 0.5-1 g crushed seed three times daily in tea, or 0.05-0.2 mL of the fruit essential oil. Food amounts up to about 20 g/day are generally considered safe for adults. Avoid medicinal doses in pregnancy and in children given limited safety data. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0123",
+      "REF-0165",
+      "REF-0268",
+      "REF-0274",
+      "REF-0278"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (trans-anethole)",
+     "compounds": [
+      "essential-oil"
+     ],
+     "note": "Trans-anethole typically makes up the great majority of the volatile oil and gives anise its characteristic liquorice aroma and much of its digestive and antimicrobial activity.",
+     "reference_ids": [
+      "REF-1409",
+      "REF-1416"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic compounds",
+     "compounds": [
+      "flavonoid",
+      "phenolic-compound"
+     ],
+     "note": "Contribute to antioxidant activity.",
+     "reference_ids": [
+      "REF-1411"
+     ]
+    },
+    {
+     "name": "Fixed oil and fatty acids",
+     "note": "The fruit's lipid fraction.",
+     "reference_ids": [
+      "REF-1414"
+     ]
+    }
    ],
    "actions": [
     {
@@ -41928,7 +42240,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "anise"
   },
   {
@@ -41945,6 +42257,116 @@
     "Leaf",
     "Sap",
     "Young sprouts"
+   ],
+   "botanical_description": {
+    "text": "Evergreen coniferous tree (Pinaceae), 15-35 m tall, with a long, straight trunk at maturity, distinctive orange-red flaking bark in the upper crown and grey-brown fissured bark at the base. Needles are blue-green, borne in pairs (fascicles of two) with a papery basal sheath. Small yellow male cones release pollen in spring; female cones are woody and mature over two years.",
+    "height": "15-35 m",
+    "habit": "Evergreen coniferous tree",
+    "leaves": "Needles blue-green, in pairs, with a papery basal sheath",
+    "flowers": "Small yellow male cones (pollen); separate woody female cones",
+    "stem": "Long, straight trunk; orange-red flaking bark in the upper crown, grey-brown fissured bark at the base",
+    "root": "Deep, wide-spreading root system",
+    "fruit": "Woody cone, maturing over two years",
+    "flowering_period": "May (pollen release)",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native across northern and central Europe and Siberia - the most widely distributed pine species in the world - forming extensive boreal and montane forests on poor, sandy or peaty, acidic soils; a pioneer species tolerant of dry, nutrient-poor ground.",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Young shoots ('candles') and needles are gathered in spring; bark is stripped from felled or cultivated trees; resin/sap is tapped from the trunk. Needle-bearing twigs can be cut for tea and for steam distillation of the essential oil year-round.",
+    "parts": [
+     "Bark",
+     "Leaf (needles)",
+     "Sap",
+     "Young sprouts"
+    ],
+    "season": "Young shoots/needles in spring; bark and sap variable",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Scots pine has a long northern European tradition as a source of resinous, aromatic preparations for respiratory complaints (coughs, bronchitis, catarrh) and topical rheumatic/muscular remedies, and pine-needle tea has traditionally been valued as a vitamin-C-rich winter tonic. Modern research on the needle essential oil supports antimicrobial, anti-inflammatory and expectorant activity.",
+    "reference_ids": [
+     "REF-0098",
+     "REF-0018"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Needle infusion (tea)",
+     "text": "Fresh or dried young needles steeped in hot water - the traditional vitamin-C-rich tonic tea. Only use needles from a certainly identified pine, never yew (see dangerous look-alikes).",
+     "reference_ids": [
+      "REF-0098"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (inhalation/topical)",
+     "text": "Steam-distilled from the needles; used diluted in ointments, chest rubs or steam inhalation for respiratory complaints.",
+     "reference_ids": [
+      "REF-0018"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Bud/bark preparations",
+     "text": "Traditional syrup or decoction of young buds or bark for bronchitis and sinus congestion.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Essential oil (topical)",
+     "text": "Duke (2002): about 100-200 mg essential oil in an ointment or cream for topical use. Do not ingest the essential oil; avoid inhalation in severe asthma, whooping cough or laryngospasm. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0018",
+      "REF-0098",
+      "REF-0279"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (alpha-pinene, beta-pinene, limonene)",
+     "compounds": [
+      "essential-oil",
+      "terpene"
+     ],
+     "note": "The needle oil is dominated by monoterpene hydrocarbons, chiefly alpha-pinene, giving the characteristic resinous scent and much of its antimicrobial activity.",
+     "reference_ids": [
+      "REF-1235",
+      "REF-1236"
+     ]
+    },
+    {
+     "name": "Resin acids (diterpene resin acids)",
+     "compounds": [
+      "terpene"
+     ],
+     "note": "The resinous sap/pitch, traditionally used topically for wounds and skin complaints.",
+     "reference_ids": [
+      "REF-1242"
+     ]
+    },
+    {
+     "name": "Vitamin C and flavonoids (needles)",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "The needle is traditionally valued as a source of vitamin C, particularly in winter."
+    }
    ],
    "actions": [
     {
@@ -42198,7 +42620,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "scots-pine"
   },
   {

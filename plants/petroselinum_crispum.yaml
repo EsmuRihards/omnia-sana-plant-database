@@ -36,6 +36,72 @@ constituents:
   note: Nutritive antioxidant constituents.
   reference_ids:
   - REF-0489
+botanical_description:
+  text: Biennial herb (Apiaceae), usually grown as an annual, 20-60 cm tall, with a slender taproot. Leaves
+    are bright green and finely divided, either flat or tightly curled ('crisped') depending on variety.
+    In the second year, small yellow-green flowers are borne in compound umbels, followed by small, ridged
+    fruit (the 'seed').
+  height: 20-60 cm
+  habit: Biennial herb (usually cultivated as an annual)
+  leaves: Bright green, finely divided, flat or curled ('crisped')
+  flowers: Small, yellow-green, in compound umbels (second year)
+  stem: Erect, branched (second-year flowering stem)
+  root: Slender taproot (thickened in root-parsley varieties)
+  fruit: Small, ridged, aromatic fruit ("seed")
+  flowering_period: Second year, June-August
+  reference_ids:
+  - REF-0489
+  status: verified
+habitat:
+  text: Native to the central Mediterranean (Sardinia and southern Italy), long cultivated worldwide as
+    a culinary and medicinal herb in gardens and as a field crop.
+  reference_ids:
+  - REF-0489
+  status: verified
+harvesting:
+  text: Leaves are picked fresh throughout the growing season; the root (of root-parsley varieties) is
+    lifted in autumn; the seed (fruit) is collected from second-year plants once ripe and dry - it is
+    used mainly in medicinal/aromatic preparations rather than food, given its higher concentration of
+    the toxic essential-oil constituents apiole and myristicin.
+  parts:
+  - Leaf
+  - Root
+  - Seed
+  season: Leaf throughout the growing season; root in autumn; seed once ripe (second year)
+  reference_ids:
+  - REF-0489
+  status: verified
+traditional_uses:
+  text: Parsley has a long Mediterranean culinary-medicinal tradition as a carminative digestive tonic,
+    breath freshener and mild diuretic traditionally used for urinary complaints and fluid retention.
+    Modern research supports antioxidant, hepatoprotective, nephroprotective and diuretic activity.
+  reference_ids:
+  - REF-0489
+  - REF-0546
+  status: verified
+preparations:
+- name: Fresh leaf
+  text: Eaten fresh as a garnish or herb - a traditional daily digestive and breath-freshening support.
+  reference_ids:
+  - REF-0489
+  status: verified
+- name: Infusion (tea)
+  text: Dried leaf or crushed seed steeped in hot water, a traditional diuretic and digestive preparation.
+  reference_ids:
+  - REF-0489
+  status: verified
+- name: Root decoction
+  text: Root simmered in water, a traditional diuretic preparation.
+  status: draft
+dosage:
+- name: Leaf infusion
+  text: Culinary amounts of leaf are food-safe; medicinal use should stick to modest infusion amounts
+    (roughly 2-4 g dried leaf or root per cup, a few times daily). Avoid concentrated seed extract or
+    essential oil, which are toxic and uterine-stimulant at higher doses, and avoid medicinal doses entirely
+    in pregnancy. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0489
+  status: verified
 actions:
 - action: antioxidant
   note: Antioxidant, nephroprotective and hepatoprotective
@@ -177,13 +243,20 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: conium-maculatum
   severity: fatal
-  confused_part: Leaves and stems (foliage); the divided leaves resemble flat-leaf parsley, especially before flowering.
-  confusion_context: Poison hemlock is in the same family as parsley and its foliage is often described as parsley- or carrot-top-like; it can be confused with edible parsley-family plants. Its alkaloid coniine causes a paralysis that stops breathing, and eating even a small amount of any part can be fatal.
+  confused_part: Leaves and stems (foliage); the divided leaves resemble flat-leaf parsley, especially
+    before flowering.
+  confusion_context: Poison hemlock is in the same family as parsley and its foliage is often described
+    as parsley- or carrot-top-like; it can be confused with edible parsley-family plants. Its alkaloid
+    coniine causes a paralysis that stops breathing, and eating even a small amount of any part can be
+    fatal.
   distinguishing_features:
-  - Poison hemlock stems are smooth, hairless and marked with purple or red spots and streaks; garden parsley stems have no purple blotching.
+  - Poison hemlock stems are smooth, hairless and marked with purple or red spots and streaks; garden
+    parsley stems have no purple blotching.
   - Crushed poison hemlock smells foul and musty ('mousy'); parsley smells clean and pleasantly herby.
   - Poison hemlock grows tall (often 1.5 to 3 m) with hollow stems; culinary parsley is a low herb.
-  key_test: 'Inspect the stem: hairless and smooth with purple or red spots and streaks = poison hemlock — do not eat. Confirm with the crushed-plant smell (foul and mousy versus parsley''s pleasant herb scent).'
+  key_test: 'Inspect the stem: hairless and smooth with purple or red spots and streaks = poison hemlock
+    — do not eat. Confirm with the crushed-plant smell (foul and mousy versus parsley''s pleasant herb
+    scent).'
   reference_ids:
   - REF-2610
   - REF-2611
@@ -192,13 +265,20 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 - dangerous_plant: aethusa-cynapium
   severity: dangerous
-  confused_part: Leaves and foliage; the finely divided glossy leaves closely resemble flat-leaf (Italian) parsley — the origin of the name 'fool's parsley'.
-  confusion_context: Named directly for the confusion with parsley, fool's parsley contains toxic polyacetylenes; poisoning causes burning in the mouth and throat and gastrointestinal and neurological effects, and it is especially a risk to children.
+  confused_part: Leaves and foliage; the finely divided glossy leaves closely resemble flat-leaf (Italian)
+    parsley — the origin of the name 'fool's parsley'.
+  confusion_context: Named directly for the confusion with parsley, fool's parsley contains toxic polyacetylenes;
+    poisoning causes burning in the mouth and throat and gastrointestinal and neurological effects, and
+    it is especially a risk to children.
   distinguishing_features:
-  - In flower, each little umbel of fool's parsley has three or four long, narrow bracteoles hanging downward beneath it (a 'beard'); true parsley has no such long drooping bracteoles.
+  - In flower, each little umbel of fool's parsley has three or four long, narrow bracteoles hanging downward
+    beneath it (a 'beard'); true parsley has no such long drooping bracteoles.
   - Crushed fool's parsley smells foul, acrid and mousy; parsley smells clean and pleasantly herby.
   - Fool's parsley leaves are hairless, more finely divided, and darker and glossier than culinary parsley.
-  key_test: Look under the flower clusters for three or four long, downward-hanging bracteoles (a 'beard') — present in fool's parsley, absent in true parsley — and cross-check the foul mousy smell versus parsley's pleasant scent. If a parsley-like plant only smells 'off' and isn't flowering, don't use it without expert confirmation.
+  key_test: Look under the flower clusters for three or four long, downward-hanging bracteoles (a 'beard')
+    — present in fool's parsley, absent in true parsley — and cross-check the foul mousy smell versus
+    parsley's pleasant scent. If a parsley-like plant only smells 'off' and isn't flowering, don't use
+    it without expert confirmation.
   reference_ids:
   - REF-2613
   - REF-2614
@@ -207,7 +287,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Chem updated review of parsley).
   Further enriched 2026-06-13 with two PubMed studies - a diuretic mechanism-of-action study (REF-0545,
   Kreydiyyeh & Usta 2002) and a constituents/medicinal review (REF-0546, Mahmood et al. 2014); a furanocoumarins
@@ -216,4 +296,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Agric Food Ch
   cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
   @article sources (REF-1486, REF-1487, REF-1488, REF-1489, REF-1490, REF-1491, REF-1492, REF-1493, REF-1494,
-  REF-1495) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1495) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
+  sourced from the existing updated traditional-uses/phytochemistry review (REF-0489) and constituents
+  review (REF-0546).'

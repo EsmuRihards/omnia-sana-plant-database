@@ -10,6 +10,98 @@ parts_used:
 - Leaf
 - Sap
 - Young sprouts
+botanical_description:
+  text: Evergreen coniferous tree (Pinaceae), 15-35 m tall, with a long, straight trunk at maturity, distinctive
+    orange-red flaking bark in the upper crown and grey-brown fissured bark at the base. Needles are blue-green,
+    borne in pairs (fascicles of two) with a papery basal sheath. Small yellow male cones release pollen
+    in spring; female cones are woody and mature over two years.
+  height: 15-35 m
+  habit: Evergreen coniferous tree
+  leaves: Needles blue-green, in pairs, with a papery basal sheath
+  flowers: Small yellow male cones (pollen); separate woody female cones
+  stem: Long, straight trunk; orange-red flaking bark in the upper crown, grey-brown fissured bark at
+    the base
+  root: Deep, wide-spreading root system
+  fruit: Woody cone, maturing over two years
+  flowering_period: May (pollen release)
+  reference_ids:
+  - REF-0098
+  status: verified
+habitat:
+  text: Native across northern and central Europe and Siberia - the most widely distributed pine species
+    in the world - forming extensive boreal and montane forests on poor, sandy or peaty, acidic soils;
+    a pioneer species tolerant of dry, nutrient-poor ground.
+  reference_ids:
+  - REF-0098
+  status: verified
+harvesting:
+  text: Young shoots ('candles') and needles are gathered in spring; bark is stripped from felled or cultivated
+    trees; resin/sap is tapped from the trunk. Needle-bearing twigs can be cut for tea and for steam distillation
+    of the essential oil year-round.
+  parts:
+  - Bark
+  - Leaf (needles)
+  - Sap
+  - Young sprouts
+  season: Young shoots/needles in spring; bark and sap variable
+  reference_ids:
+  - REF-0098
+  status: verified
+traditional_uses:
+  text: Scots pine has a long northern European tradition as a source of resinous, aromatic preparations
+    for respiratory complaints (coughs, bronchitis, catarrh) and topical rheumatic/muscular remedies,
+    and pine-needle tea has traditionally been valued as a vitamin-C-rich winter tonic. Modern research
+    on the needle essential oil supports antimicrobial, anti-inflammatory and expectorant activity.
+  reference_ids:
+  - REF-0098
+  - REF-0018
+  status: verified
+preparations:
+- name: Needle infusion (tea)
+  text: Fresh or dried young needles steeped in hot water - the traditional vitamin-C-rich tonic tea.
+    Only use needles from a certainly identified pine, never yew (see dangerous look-alikes).
+  reference_ids:
+  - REF-0098
+  status: verified
+- name: Essential oil (inhalation/topical)
+  text: Steam-distilled from the needles; used diluted in ointments, chest rubs or steam inhalation for
+    respiratory complaints.
+  reference_ids:
+  - REF-0018
+  status: verified
+- name: Bud/bark preparations
+  text: Traditional syrup or decoction of young buds or bark for bronchitis and sinus congestion.
+  status: draft
+dosage:
+- name: Essential oil (topical)
+  text: 'Duke (2002): about 100-200 mg essential oil in an ointment or cream for topical use. Do not ingest
+    the essential oil; avoid inhalation in severe asthma, whooping cough or laryngospasm. Educational
+    reference only, not a prescription.'
+  reference_ids:
+  - REF-0018
+  - REF-0098
+  - REF-0279
+  status: verified
+constituents:
+- name: Essential oil (alpha-pinene, beta-pinene, limonene)
+  compounds:
+  - essential-oil
+  - terpene
+  note: The needle oil is dominated by monoterpene hydrocarbons, chiefly alpha-pinene, giving the characteristic
+    resinous scent and much of its antimicrobial activity.
+  reference_ids:
+  - REF-1235
+  - REF-1236
+- name: Resin acids (diterpene resin acids)
+  compounds:
+  - terpene
+  note: The resinous sap/pitch, traditionally used topically for wounds and skin complaints.
+  reference_ids:
+  - REF-1242
+- name: Vitamin C and flavonoids (needles)
+  compounds:
+  - flavonoid
+  note: The needle is traditionally valued as a source of vitamin C, particularly in winter.
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -167,13 +259,29 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: taxus-baccata
   severity: fatal
-  confused_part: Evergreen needles and twigs gathered to brew pine-needle tea; yew's flat evergreen needles and red berry-like arils are mistaken for edible conifer.
-  confusion_context: Pine needles (from Scots pine, Pinus sylvestris) are foraged to brew a vitamin-C-rich tea. Yew (Taxus baccata), one of the most poisonous trees in Europe, is a common evergreen in gardens, churchyards and hedges, and its flat evergreen needles are mistaken for edible conifer needles. The Missouri Poison Center explicitly warns to beware of a toxic pine look-alike, the yew tree or English yew (Taxus species), which holds cardiotoxic taxine alkaloids in all parts except the red flesh of the aril. Eating even a few yew leaves - or brewing them as 'pine' tea - can cause fatal heart-rhythm disturbances, seizures and cardiac arrest, with no antidote. Because pine-needle tea is popular and yew is widespread, this is a potentially fatal confusion.
+  confused_part: Evergreen needles and twigs gathered to brew pine-needle tea; yew's flat evergreen needles
+    and red berry-like arils are mistaken for edible conifer.
+  confusion_context: Pine needles (from Scots pine, Pinus sylvestris) are foraged to brew a vitamin-C-rich
+    tea. Yew (Taxus baccata), one of the most poisonous trees in Europe, is a common evergreen in gardens,
+    churchyards and hedges, and its flat evergreen needles are mistaken for edible conifer needles. The
+    Missouri Poison Center explicitly warns to beware of a toxic pine look-alike, the yew tree or English
+    yew (Taxus species), which holds cardiotoxic taxine alkaloids in all parts except the red flesh of
+    the aril. Eating even a few yew leaves - or brewing them as 'pine' tea - can cause fatal heart-rhythm
+    disturbances, seizures and cardiac arrest, with no antidote. Because pine-needle tea is popular and
+    yew is widespread, this is a potentially fatal confusion.
   distinguishing_features:
-  - 'Needle attachment (decisive): pine needles grow in bundles (Scots pine in pairs of two) wrapped at the base by a papery sheath. Yew needles grow SINGLY, attached directly to the twig in two flat rows. Bundled needles = pine; single flat needles in two rows = yew.'
-  - 'Fruit: pines bear woody cones. Yew bears no cones - instead soft red, berry-like arils each holding a single seed. A red berry-like fruit means yew, not pine.'
-  - 'Smell: crushed pine needles smell strongly resinous and piney. Yew needles have little or no pine scent.'
-  key_test: Look at how the needles attach. Pine needles come in bundles (Scots pine in pairs) with a papery sheath at the base, and the tree bears woody cones and a strong piney scent. Yew needles are single, soft and flat in two rows, the tree bears red berry-like arils instead of cones and has little scent - yew is deadly, so never brew it. If the needles are single rather than bundled, or you see red berries, do not use it.
+  - 'Needle attachment (decisive): pine needles grow in bundles (Scots pine in pairs of two) wrapped at
+    the base by a papery sheath. Yew needles grow SINGLY, attached directly to the twig in two flat rows.
+    Bundled needles = pine; single flat needles in two rows = yew.'
+  - 'Fruit: pines bear woody cones. Yew bears no cones - instead soft red, berry-like arils each holding
+    a single seed. A red berry-like fruit means yew, not pine.'
+  - 'Smell: crushed pine needles smell strongly resinous and piney. Yew needles have little or no pine
+    scent.'
+  key_test: Look at how the needles attach. Pine needles come in bundles (Scots pine in pairs) with a
+    papery sheath at the base, and the tree bears woody cones and a strong piney scent. Yew needles are
+    single, soft and flat in two rows, the tree bears red berry-like arils instead of cones and has little
+    scent - yew is deadly, so never brew it. If the needles are single rather than bundled, or you see
+    red berries, do not use it.
   reference_ids:
   - REF-2664
   - REF-2662
@@ -183,7 +291,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -191,4 +299,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1233, REF-1234, REF-1235, REF-1236, REF-1237,
   REF-1238, REF-1239, REF-1240, REF-1241, REF-1242) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing classic herbal reference (REF-0098, A Modern Herbal)
+  and essential-oil review (REF-0018) plus phytochemistry studies (REF-1235, REF-1236, REF-1242); did
+  NOT reuse REF-0279 (Pinus pinaster bark proanthocyanidins - a different species) for constituents to
+  avoid species conflation.'

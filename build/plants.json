@@ -47531,6 +47531,123 @@
     "Fruit",
     "Petals"
    ],
+   "botanical_description": {
+    "text": "Dense, thicket-forming deciduous shrub (Rosaceae), 1-1.5 m tall (occasionally to 2 m), with stems densely covered in numerous straight, bristly thorns. Leaves are pinnate with 5-9 deeply veined, glossy, leathery leaflets. Large, fragrant, deep pink to white, five-petalled flowers are followed by large, tomato-red, flattened-globose hips.",
+    "height": "1-1.5 m (occasionally to 2 m)",
+    "habit": "Dense, thicket-forming deciduous shrub",
+    "leaves": "Pinnate, 5-9 deeply veined, glossy, leathery leaflets",
+    "flowers": "Large, fragrant, deep pink to white, five-petalled",
+    "stem": "Densely covered in numerous straight, bristly thorns",
+    "root": "Woody, suckering root system",
+    "fruit": "Large, tomato-red, flattened-globose hips",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-1006"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to coastal eastern Asia (Japan, Korea, China, far-eastern Russia), typically growing on sand dunes and coastal scrub. Widely planted and naturalised as an ornamental and hedging shrub, notably tolerant of salt spray, wind and poor sandy soils, in temperate coastal regions worldwide.",
+    "reference_ids": [
+     "REF-1006"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flowers/petals are picked as they open in summer; hips are picked in autumn once fully coloured and slightly softened.",
+    "parts": [
+     "Flower",
+     "Fruit",
+     "Petals"
+    ],
+    "season": "Flower in summer; hips in autumn",
+    "reference_ids": [
+     "REF-1006"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Rosa rugosa has a long East Asian tradition - particularly in Traditional Chinese Medicine, where the flower is known as 'Mei Gui Hua' - as a mood-regulating, digestive and menstrual-cycle-supporting remedy, and the vitamin-C-rich hips are used as a food tonic. Modern research on its flavonoid- and polysaccharide-rich extracts supports broad antioxidant, anti-inflammatory, hepatoprotective and immunomodulatory activity.",
+    "reference_ids": [
+     "REF-1006"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Flower tea/infusion",
+     "text": "Dried petals or flower buds steeped in hot water - the classic Traditional Chinese Medicine preparation.",
+     "reference_ids": [
+      "REF-1006"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Hip tea/syrup",
+     "text": "Dried or fresh hips prepared as tea or syrup, a vitamin C tonic.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Concentrated flavonoid/polysaccharide extract used in research.",
+     "reference_ids": [
+      "REF-1005",
+      "REF-1006"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Flower infusion",
+     "text": "Traditional guidance suggests roughly 3-6 g dried flower per cup as an infusion, or hip tea/syrup at similar strength, taken once or twice daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-1006"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Flavonoids (quercetin, kaempferol glycosides)",
+     "compounds": [
+      "flavonoid",
+      "quercetin",
+      "kaempferol"
+     ],
+     "note": "The dominant bioactive class, driving much of the antioxidant and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1006"
+     ]
+    },
+    {
+     "name": "Polysaccharides",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Studied for immunomodulatory, hepatoprotective and gut-microbiota-modulating effects.",
+     "reference_ids": [
+      "REF-1005"
+     ]
+    },
+    {
+     "name": "Vitamin C and carotenoids (hips)",
+     "compounds": [
+      "carotenoid"
+     ],
+     "note": "Concentrated in the hips, underpinning their traditional food-tonic use.",
+     "reference_ids": [
+      "REF-1006"
+     ]
+    },
+    {
+     "name": "Oleamide and other root compounds",
+     "note": "Isolated from the root and studied for antioxidant/neuroprotective activity.",
+     "reference_ids": [
+      "REF-1012"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -47686,7 +47803,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "japanese-rose"
   },
   {
@@ -47731,6 +47848,79 @@
      "reference_ids": [
       "REF-0417"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Scrambling, thorny deciduous shrub (Rosaceae) forming dense thickets, with arching prickly stems that root at the tip. Leaves are palmately compound, usually with 3-5 toothed leaflets. White to pale pink, five-petalled flowers are followed by clusters of small drupelets forming the blackberry fruit, ripening from red to glossy black.",
+    "height": "Scrambling/arching canes, typically 1-3 m",
+    "habit": "Scrambling, thorny, thicket-forming shrub",
+    "leaves": "Palmately compound, usually 3-5 toothed leaflets",
+    "flowers": "White to pale pink, five-petalled",
+    "stem": "Arching, prickly, rooting at the tip",
+    "root": "Woody perennial root system",
+    "fruit": "Cluster of drupelets, ripening red to glossy black",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0417"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native throughout Europe and widely naturalised elsewhere, an aggressive coloniser of hedgerows, woodland edges, scrub and waste ground. 'Rubus fruticosus' is a taxonomically complex aggregate comprising hundreds of closely related microspecies.",
+    "reference_ids": [
+     "REF-0417"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are picked fresh throughout the growing season and dried for tea; berries are picked in late summer once fully ripe.",
+    "parts": [
+     "Leaf"
+    ],
+    "season": "Leaf throughout the growing season",
+    "reference_ids": [
+     "REF-0417"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Blackberry leaf has a long European folk-medicine tradition as an astringent gargle for sore throat and mouth ulcers, and as a remedy for mild diarrhoea, reflecting its high tannin content; the berries themselves are valued as a nutritious, antioxidant-rich food.",
+    "reference_ids": [
+     "REF-0417"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped in hot water, taken internally or used as a gargle/mouthwash.",
+     "reference_ids": [
+      "REF-0417"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Gargle/mouthwash",
+     "text": "A stronger leaf infusion used topically for sore throat and mouth irritation.",
+     "reference_ids": [
+      "REF-0417"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Fresh or dried berries",
+     "text": "Eaten as food, a rich source of antioxidants.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Traditional guidance suggests roughly 2-4 g dried leaf per cup as an infusion, up to three times daily, or used as a gargle at similar strength. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0417"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -47904,7 +48094,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "blackberry-leaf"
   },
   {
@@ -47949,6 +48139,81 @@
      "reference_ids": [
       "REF-0497"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Deciduous, thicket-forming shrub (Rosaceae), 1-2 m tall, with upright, prickly, biennial canes (vegetative in the first year, fruiting in the second). Leaves are pinnate with 3-7 toothed leaflets, whitish-felted beneath. Small white, five-petalled flowers are followed by the aggregate red raspberry fruit, a cluster of drupelets.",
+    "height": "1-2 m",
+    "habit": "Deciduous, thicket-forming shrub with biennial canes",
+    "leaves": "Pinnate, 3-7 toothed leaflets, whitish-felted beneath",
+    "flowers": "Small, white, five-petalled",
+    "stem": "Upright, prickly canes",
+    "root": "Spreading suckering root system",
+    "fruit": "Aggregate red raspberry (cluster of drupelets)",
+    "flowering_period": "May-June",
+    "reference_ids": [
+     "REF-1536"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe and northern Asia, widely cultivated as a fruit crop and naturalised on woodland edges, hedgerows and disturbed ground in temperate regions.",
+    "reference_ids": [
+     "REF-1536"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are picked fresh during the growing season - before or during flowering is considered optimal - and dried; fruit is picked when fully ripe in summer.",
+    "parts": [
+     "Leaf"
+    ],
+    "season": "Leaf before/during flowering; fruit in summer",
+    "reference_ids": [
+     "REF-1536"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Raspberry leaf has a long, very widely known folk tradition as a 'pregnancy tea', taken in the final weeks of pregnancy as a uterine tonic to prepare for labour. Observational studies and a small randomised controlled trial suggest a possible modest effect on labour duration, though robust proof is still lacking.",
+    "reference_ids": [
+     "REF-0497",
+     "REF-0498"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped in hot water - the classic late-pregnancy preparation.",
+     "reference_ids": [
+      "REF-0497"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract, less commonly used than the tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised leaf extract",
+     "text": "Used in some observational and clinical research.",
+     "reference_ids": [
+      "REF-1536"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Popular guidance and observational studies generally describe starting raspberry-leaf tea or tablets in the last few weeks of pregnancy, at roughly 1-3 cups of tea daily; use should be discussed with a midwife or doctor given the lack of robust trial evidence. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0497",
+      "REF-0498"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -48082,7 +48347,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "raspberry-leaf"
   },
   {
@@ -48100,6 +48365,117 @@
    "parts_used": [
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Perennial herb (Polygonaceae), 30-100 cm tall, with erect, often reddish, ridged flowering stems. Basal leaves are arrow- (hastate-) shaped with backward-pointing basal lobes, and sour-tasting from oxalic acid content. Tiny reddish-brown flowers are borne in narrow, branched spikes; the species is dioecious, with separate male and female plants.",
+    "height": "30-100 cm",
+    "habit": "Erect perennial herb, dioecious",
+    "leaves": "Arrow- (hastate-) shaped with backward-pointing basal lobes, sour-tasting",
+    "flowers": "Tiny, reddish-brown, in narrow branched spikes",
+    "stem": "Erect, often reddish, ridged",
+    "root": "Fibrous perennial rootstock",
+    "fruit": "Small three-angled achenes",
+    "flowering_period": "May-June, fruiting through summer",
+    "reference_ids": [
+     "REF-0048"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native throughout Europe and temperate Asia, common in meadows, grassland, pastures and roadside verges on a wide range of soils, tolerating both damp and dry ground.",
+    "reference_ids": [
+     "REF-0048"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are gathered fresh in spring and early summer, before flowering, when they are most tender and least bitter. Avoid harvesting near roads or industrial areas, given the plant's tendency to accumulate heavy metals.",
+    "parts": [
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Spring to early summer, before flowering",
+    "reference_ids": [
+     "REF-0048"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Common sorrel has a long European culinary-medicinal tradition as a refreshing, vitamin-C-rich spring green and digestive bitter, and folk-medicinally as a diuretic and mild antiscorbutic (anti-scurvy) remedy. Modern research confirms antioxidant, anti-inflammatory and antimicrobial activity of its leaf extracts.",
+    "reference_ids": [
+     "REF-0048"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh leaf (culinary)",
+     "text": "Eaten raw in salads or cooked into soups - the traditional spring tonic use.",
+     "reference_ids": [
+      "REF-0048"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped in hot water, a traditional digestive/diuretic preparation.",
+     "reference_ids": [
+      "REF-0048"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Juice",
+     "text": "Fresh leaf juice, traditionally used in small amounts.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Fresh leaf / infusion",
+     "text": "Sorrel is best treated as an occasional food rather than a daily medicinal herb, given its oxalate content; traditional infusions use roughly 2-4 g dried leaf per cup, taken occasionally rather than regularly. Educational reference only, not a prescription; avoid large or frequent amounts if prone to kidney stones or gout.",
+     "reference_ids": [
+      "REF-0048"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Oxalic acid and oxalates",
+     "note": "Gives the leaf its characteristic sour taste; the basis for the caution around kidney stones and mineral absorption at high intakes.",
+     "reference_ids": [
+      "REF-0048"
+     ]
+    },
+    {
+     "name": "Anthraquinones",
+     "compounds": [
+      "anthraquinone"
+     ],
+     "note": "Minor constituents typical of the Rumex genus, studied alongside other isolated compounds for antibacterial activity against Helicobacter pylori.",
+     "reference_ids": [
+      "REF-0892"
+     ]
+    },
+    {
+     "name": "Flavonoids and tannins",
+     "compounds": [
+      "flavonoid",
+      "tannin"
+     ],
+     "note": "Contribute to antioxidant and mild astringent activity.",
+     "reference_ids": [
+      "REF-0896"
+     ]
+    },
+    {
+     "name": "Vitamin C",
+     "note": "The basis for the plant's traditional antiscorbutic (anti-scurvy) reputation.",
+     "reference_ids": [
+      "REF-0048"
+     ]
+    }
    ],
    "actions": [
     {
@@ -48345,7 +48721,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "common-sorrel"
   },
   {
@@ -48384,6 +48760,82 @@
       "REF-0424",
       "REF-1557"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Evergreen, rhizomatous subshrub (Asparagaceae), 30-80 cm tall. Unusually, its apparent 'leaves' are flattened, leaf-like stems (cladodes) - stiff, dark green, ending in a sharp spine; the true leaves are reduced to tiny scales. Small greenish-white flowers arise from the centre of the cladode, followed on female plants by a bright red berry.",
+    "height": "30-80 cm",
+    "habit": "Evergreen, rhizomatous subshrub",
+    "leaves": "True leaves reduced to tiny scales; photosynthesis occurs via leaf-like cladodes",
+    "flowers": "Small, greenish-white, borne from the centre of the cladode",
+    "stem": "Stiff, upright, with flattened spine-tipped cladodes",
+    "root": "Underground rhizome - the medicinal part",
+    "fruit": "Bright red berry (on female plants)",
+    "flowering_period": "Winter to early spring (January-April)",
+    "reference_ids": [
+     "REF-0424"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean region and western Europe, growing in dry woodland, scrub and rocky ground, often in shade under trees.",
+    "reference_ids": [
+     "REF-0424"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The underground rhizome, the medicinal part, is dug in autumn or spring from established plants.",
+    "parts": [
+     "Rhizome (underground parts)"
+    ],
+    "season": "Autumn or spring",
+    "reference_ids": [
+     "REF-0424"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Butcher's broom takes its name from the traditional use of its stiff, bristly stems bundled together as a broom by butchers. Medicinally its rhizome has a long European tradition, and modern use, supported by clinical trials, is for chronic venous insufficiency (heavy, tired, swollen legs, varicose veins) and haemorrhoids, reflecting its steroidal-saponin-driven venotonic and vasoconstrictive activity.",
+    "reference_ids": [
+     "REF-0424",
+     "REF-0425"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract (capsule/tablet)",
+     "text": "The clinically studied commercial form, often combined with hesperidin methyl chalcone and vitamin C.",
+     "reference_ids": [
+      "REF-0424",
+      "REF-0425"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Topical cream/gel",
+     "text": "Rhizome extract applied to affected areas for haemorrhoid symptoms.",
+     "reference_ids": [
+      "REF-0425"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Traditional preparation of the dried rhizome, less commonly used than standardised extracts.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for venous insufficiency have most often used standardised rhizome extract in combination products (e.g. with hesperidin methyl chalcone and vitamin C), typically providing the equivalent of roughly 72-150 mg of ruscogenins daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0424",
+      "REF-0425"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -48519,7 +48971,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "butcher-s-broom"
   },
   {

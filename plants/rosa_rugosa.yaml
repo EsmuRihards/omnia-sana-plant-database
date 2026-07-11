@@ -9,6 +9,96 @@ parts_used:
 - Flower
 - Fruit
 - Petals
+botanical_description:
+  text: Dense, thicket-forming deciduous shrub (Rosaceae), 1-1.5 m tall (occasionally to 2 m), with stems
+    densely covered in numerous straight, bristly thorns. Leaves are pinnate with 5-9 deeply veined, glossy,
+    leathery leaflets. Large, fragrant, deep pink to white, five-petalled flowers are followed by large,
+    tomato-red, flattened-globose hips.
+  height: 1-1.5 m (occasionally to 2 m)
+  habit: Dense, thicket-forming deciduous shrub
+  leaves: Pinnate, 5-9 deeply veined, glossy, leathery leaflets
+  flowers: Large, fragrant, deep pink to white, five-petalled
+  stem: Densely covered in numerous straight, bristly thorns
+  root: Woody, suckering root system
+  fruit: Large, tomato-red, flattened-globose hips
+  flowering_period: June-September
+  reference_ids:
+  - REF-1006
+  status: verified
+habitat:
+  text: Native to coastal eastern Asia (Japan, Korea, China, far-eastern Russia), typically growing on
+    sand dunes and coastal scrub. Widely planted and naturalised as an ornamental and hedging shrub, notably
+    tolerant of salt spray, wind and poor sandy soils, in temperate coastal regions worldwide.
+  reference_ids:
+  - REF-1006
+  status: verified
+harvesting:
+  text: Flowers/petals are picked as they open in summer; hips are picked in autumn once fully coloured
+    and slightly softened.
+  parts:
+  - Flower
+  - Fruit
+  - Petals
+  season: Flower in summer; hips in autumn
+  reference_ids:
+  - REF-1006
+  status: verified
+traditional_uses:
+  text: Rosa rugosa has a long East Asian tradition - particularly in Traditional Chinese Medicine, where
+    the flower is known as 'Mei Gui Hua' - as a mood-regulating, digestive and menstrual-cycle-supporting
+    remedy, and the vitamin-C-rich hips are used as a food tonic. Modern research on its flavonoid- and
+    polysaccharide-rich extracts supports broad antioxidant, anti-inflammatory, hepatoprotective and immunomodulatory
+    activity.
+  reference_ids:
+  - REF-1006
+  status: verified
+preparations:
+- name: Flower tea/infusion
+  text: Dried petals or flower buds steeped in hot water - the classic Traditional Chinese Medicine preparation.
+  reference_ids:
+  - REF-1006
+  status: verified
+- name: Hip tea/syrup
+  text: Dried or fresh hips prepared as tea or syrup, a vitamin C tonic.
+  status: draft
+- name: Standardised extract
+  text: Concentrated flavonoid/polysaccharide extract used in research.
+  reference_ids:
+  - REF-1005
+  - REF-1006
+  status: verified
+dosage:
+- name: Flower infusion
+  text: Traditional guidance suggests roughly 3-6 g dried flower per cup as an infusion, or hip tea/syrup
+    at similar strength, taken once or twice daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-1006
+  status: verified
+constituents:
+- name: Flavonoids (quercetin, kaempferol glycosides)
+  compounds:
+  - flavonoid
+  - quercetin
+  - kaempferol
+  note: The dominant bioactive class, driving much of the antioxidant and anti-inflammatory activity.
+  reference_ids:
+  - REF-1006
+- name: Polysaccharides
+  compounds:
+  - polysaccharide
+  note: Studied for immunomodulatory, hepatoprotective and gut-microbiota-modulating effects.
+  reference_ids:
+  - REF-1005
+- name: Vitamin C and carotenoids (hips)
+  compounds:
+  - carotenoid
+  note: Concentrated in the hips, underpinning their traditional food-tonic use.
+  reference_ids:
+  - REF-1006
+- name: Oleamide and other root compounds
+  note: Isolated from the root and studied for antioxidant/neuroprotective activity.
+  reference_ids:
+  - REF-1012
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -117,7 +207,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -125,4 +215,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1005, REF-1006, REF-1007, REF-1008, REF-1009,
   REF-1010, REF-1011, REF-1012, REF-1013, REF-1014) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing flavonoid review (REF-1006) and polysaccharide review
+  (REF-1005).'

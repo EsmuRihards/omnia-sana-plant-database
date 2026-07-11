@@ -24,6 +24,70 @@ constituents:
   reference_ids:
   - REF-0424
   - REF-1557
+botanical_description:
+  text: Evergreen, rhizomatous subshrub (Asparagaceae), 30-80 cm tall. Unusually, its apparent 'leaves'
+    are flattened, leaf-like stems (cladodes) - stiff, dark green, ending in a sharp spine; the true leaves
+    are reduced to tiny scales. Small greenish-white flowers arise from the centre of the cladode, followed
+    on female plants by a bright red berry.
+  height: 30-80 cm
+  habit: Evergreen, rhizomatous subshrub
+  leaves: True leaves reduced to tiny scales; photosynthesis occurs via leaf-like cladodes
+  flowers: Small, greenish-white, borne from the centre of the cladode
+  stem: Stiff, upright, with flattened spine-tipped cladodes
+  root: Underground rhizome - the medicinal part
+  fruit: Bright red berry (on female plants)
+  flowering_period: Winter to early spring (January-April)
+  reference_ids:
+  - REF-0424
+  status: verified
+habitat:
+  text: Native to the Mediterranean region and western Europe, growing in dry woodland, scrub and rocky
+    ground, often in shade under trees.
+  reference_ids:
+  - REF-0424
+  status: verified
+harvesting:
+  text: The underground rhizome, the medicinal part, is dug in autumn or spring from established plants.
+  parts:
+  - Rhizome (underground parts)
+  season: Autumn or spring
+  reference_ids:
+  - REF-0424
+  status: verified
+traditional_uses:
+  text: Butcher's broom takes its name from the traditional use of its stiff, bristly stems bundled together
+    as a broom by butchers. Medicinally its rhizome has a long European tradition, and modern use, supported
+    by clinical trials, is for chronic venous insufficiency (heavy, tired, swollen legs, varicose veins)
+    and haemorrhoids, reflecting its steroidal-saponin-driven venotonic and vasoconstrictive activity.
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  status: verified
+preparations:
+- name: Standardised extract (capsule/tablet)
+  text: The clinically studied commercial form, often combined with hesperidin methyl chalcone and vitamin
+    C.
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  status: verified
+- name: Topical cream/gel
+  text: Rhizome extract applied to affected areas for haemorrhoid symptoms.
+  reference_ids:
+  - REF-0425
+  status: verified
+- name: Decoction
+  text: Traditional preparation of the dried rhizome, less commonly used than standardised extracts.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for venous insufficiency have most often used standardised rhizome extract in
+    combination products (e.g. with hesperidin methyl chalcone and vitamin C), typically providing the
+    equivalent of roughly 72-150 mg of ruscogenins daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0424
+  - REF-0425
+  status: verified
 actions:
 - action: anti-oedematous
   note: Anti-oedematous (reduces leg swelling)
@@ -124,7 +188,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica phytochemical review; Polski
   Merkuriusz Lekarski venous-insufficiency review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids); associations retained and now
@@ -135,4 +199,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica p
   Unmapped uses kept for reference: Supports orthostatic (postural) hypotension (traditional). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1553, REF-1554,
   REF-1555, REF-1556, REF-0424, REF-1557, REF-1558, REF-1559, REF-1560, REF-1561) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing steroidal-saponin review (REF-0424) and venous-insufficiency
+  review (REF-0425).'

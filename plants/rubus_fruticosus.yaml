@@ -27,6 +27,66 @@ constituents:
   note: Minor nutritive constituents of the leaf.
   reference_ids:
   - REF-0417
+botanical_description:
+  text: Scrambling, thorny deciduous shrub (Rosaceae) forming dense thickets, with arching prickly stems
+    that root at the tip. Leaves are palmately compound, usually with 3-5 toothed leaflets. White to pale
+    pink, five-petalled flowers are followed by clusters of small drupelets forming the blackberry fruit,
+    ripening from red to glossy black.
+  height: Scrambling/arching canes, typically 1-3 m
+  habit: Scrambling, thorny, thicket-forming shrub
+  leaves: Palmately compound, usually 3-5 toothed leaflets
+  flowers: White to pale pink, five-petalled
+  stem: Arching, prickly, rooting at the tip
+  root: Woody perennial root system
+  fruit: Cluster of drupelets, ripening red to glossy black
+  flowering_period: June-August
+  reference_ids:
+  - REF-0417
+  status: verified
+habitat:
+  text: Native throughout Europe and widely naturalised elsewhere, an aggressive coloniser of hedgerows,
+    woodland edges, scrub and waste ground. 'Rubus fruticosus' is a taxonomically complex aggregate comprising
+    hundreds of closely related microspecies.
+  reference_ids:
+  - REF-0417
+  status: verified
+harvesting:
+  text: Leaves are picked fresh throughout the growing season and dried for tea; berries are picked in
+    late summer once fully ripe.
+  parts:
+  - Leaf
+  season: Leaf throughout the growing season
+  reference_ids:
+  - REF-0417
+  status: verified
+traditional_uses:
+  text: Blackberry leaf has a long European folk-medicine tradition as an astringent gargle for sore throat
+    and mouth ulcers, and as a remedy for mild diarrhoea, reflecting its high tannin content; the berries
+    themselves are valued as a nutritious, antioxidant-rich food.
+  reference_ids:
+  - REF-0417
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water, taken internally or used as a gargle/mouthwash.
+  reference_ids:
+  - REF-0417
+  status: verified
+- name: Gargle/mouthwash
+  text: A stronger leaf infusion used topically for sore throat and mouth irritation.
+  reference_ids:
+  - REF-0417
+  status: verified
+- name: Fresh or dried berries
+  text: Eaten as food, a rich source of antioxidants.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Traditional guidance suggests roughly 2-4 g dried leaf per cup as an infusion, up to three times
+    daily, or used as a gargle at similar strength. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0417
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory gargle / mouthwash for sore throat and oral mucosa inflammation
@@ -134,11 +194,12 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pharmacognosy Reviews herbal-medicine
   review; Molecules antioxidant/antibacterial study). Note: Rubus fruticosus is an aggregate of many microspecies.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat,
   inflammation); associations retained and now part-mapped and cited. | 2026-06-15: migrated to entity
   schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0713,
-  REF-0714, REF-0715.'
+  REF-0714, REF-0715. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing herbal-medicine review (REF-0417).'

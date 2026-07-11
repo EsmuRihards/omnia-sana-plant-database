@@ -27,6 +27,69 @@ constituents:
   note: Nutritive constituents.
   reference_ids:
   - REF-0497
+botanical_description:
+  text: Deciduous, thicket-forming shrub (Rosaceae), 1-2 m tall, with upright, prickly, biennial canes
+    (vegetative in the first year, fruiting in the second). Leaves are pinnate with 3-7 toothed leaflets,
+    whitish-felted beneath. Small white, five-petalled flowers are followed by the aggregate red raspberry
+    fruit, a cluster of drupelets.
+  height: 1-2 m
+  habit: Deciduous, thicket-forming shrub with biennial canes
+  leaves: Pinnate, 3-7 toothed leaflets, whitish-felted beneath
+  flowers: Small, white, five-petalled
+  stem: Upright, prickly canes
+  root: Spreading suckering root system
+  fruit: Aggregate red raspberry (cluster of drupelets)
+  flowering_period: May-June
+  reference_ids:
+  - REF-1536
+  status: verified
+habitat:
+  text: Native to Europe and northern Asia, widely cultivated as a fruit crop and naturalised on woodland
+    edges, hedgerows and disturbed ground in temperate regions.
+  reference_ids:
+  - REF-1536
+  status: verified
+harvesting:
+  text: Leaves are picked fresh during the growing season - before or during flowering is considered optimal
+    - and dried; fruit is picked when fully ripe in summer.
+  parts:
+  - Leaf
+  season: Leaf before/during flowering; fruit in summer
+  reference_ids:
+  - REF-1536
+  status: verified
+traditional_uses:
+  text: Raspberry leaf has a long, very widely known folk tradition as a 'pregnancy tea', taken in the
+    final weeks of pregnancy as a uterine tonic to prepare for labour. Observational studies and a small
+    randomised controlled trial suggest a possible modest effect on labour duration, though robust proof
+    is still lacking.
+  reference_ids:
+  - REF-0497
+  - REF-0498
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water - the classic late-pregnancy preparation.
+  reference_ids:
+  - REF-0497
+  status: verified
+- name: Tincture
+  text: Alcoholic extract, less commonly used than the tea.
+  status: draft
+- name: Standardised leaf extract
+  text: Used in some observational and clinical research.
+  reference_ids:
+  - REF-1536
+  status: verified
+dosage:
+- name: Infusion (tea)
+  text: Popular guidance and observational studies generally describe starting raspberry-leaf tea or tablets
+    in the last few weeks of pregnancy, at roughly 1-3 cups of tea daily; use should be discussed with
+    a midwife or doctor given the lack of robust trial evidence. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0497
+  - REF-0498
+  status: verified
 actions:
 - action: antidiarrheal
   note: Astringent for mild diarrhoea (tannins)
@@ -115,7 +178,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   observational study; ANZJOG survey). Evidence is weak/observational, reflected in needs-review action
   statuses. Note: distinct from the book''s Rubus fruticosus (blackberry leaf). Originally a skeleton
@@ -126,4 +189,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   single small trial. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
   constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
   @article sources (REF-0497, REF-1536, REF-1537, REF-1538, REF-1539, REF-1540, REF-1541, REF-1542, REF-1543)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
+  sourced from the existing pregnancy observational study (REF-0497), pregnancy survey (REF-0498) and
+  phenolic-composition study (REF-1536).'

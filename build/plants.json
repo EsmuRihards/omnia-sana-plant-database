@@ -1943,6 +1943,87 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Slender, downy perennial herb with a basal rosette of pinnately compound leaves and a single, unbranched, upright flowering stem. The leaflets are toothed, alternating large and small, and silvery-downy beneath. Small, five-petalled, bright yellow flowers are borne closely along a slender terminal spike (raceme), opening a few at a time from the base upwards, giving the old name 'church steeples'. After flowering, small bristly, hooked burrs form that cling to clothing and animal fur for dispersal.",
+    "height": "30-100 cm",
+    "habit": "Erect, downy perennial herb",
+    "leaves": "Pinnately compound, toothed leaflets of alternating large and small size, silvery-downy beneath",
+    "flowers": "Small, five-petalled, bright yellow flowers crowded on a slender terminal spike",
+    "stem": "Single, unbranched, upright, downy flowering stem",
+    "root": "Woody rootstock",
+    "fruit": "Small bristly, hooked burr that clings to clothing and fur",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0386",
+     "REF-0388"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in dry grassland, hedgerows, field margins, roadsides and open woodland edges on well-drained, often calcareous soils; native and common throughout Europe, temperate Asia and North Africa.",
+    "reference_ids": [
+     "REF-0386",
+     "REF-0388"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in summer, at the start of flowering, and dried promptly in a warm, airy, shaded place.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, at the start of flowering",
+    "reference_ids": [
+     "REF-0386"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Agrimony has a long folk history as an astringent remedy for mild diarrhoea, as a gargle for sore throats and mild mouth/throat inflammation, and as a mild bitter digestive tonic; it has also been applied topically to minor wounds and skin inflammation. It is officially recognised in the European Union herbal monograph for traditional use in mild diarrhoea and mild inflammation of the mouth or throat.",
+    "reference_ids": [
+     "REF-0386",
+     "REF-0388"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water, taken internally for mild diarrhoea and digestive complaints or used as a gargle/mouthwash for sore throat.",
+     "reference_ids": [
+      "REF-0386"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flowering herb.",
+     "status": "draft"
+    },
+    {
+     "name": "Poultice/compress",
+     "text": "Crushed or infused herb applied externally to minor wounds and skin inflammation.",
+     "reference_ids": [
+      "REF-0386"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "The EU herbal monograph describes traditional use of about 2.5-5 g dried herb as an infusion, taken up to three times daily, or used as a gargle/mouthwash. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0386"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Traditional herbal references suggest around 1-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -2206,7 +2287,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "agrimony"
   },
   {
@@ -2240,6 +2321,79 @@
       "REF-0686",
       "REF-0687"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Low, clump-forming perennial herb with distinctive rounded, softly hairy leaves divided into 7-11 shallow, scalloped, toothed lobes, fanning out like a cloak (giving the genus name Alchemilla, 'little alchemist', after the dew drops that collect in the leaf centre, once prized by alchemists). Tiny, petal-less, yellow-green flowers are borne in loose, branching clusters above the foliage.",
+    "height": "10-40 cm",
+    "habit": "Low, clump-forming perennial herb",
+    "leaves": "Rounded, softly hairy, palmately lobed into 7-11 shallow scalloped, toothed lobes",
+    "flowers": "Tiny, petal-less, yellow-green flowers in loose branching clusters",
+    "stem": "Short, softly hairy flowering stems rising above the leaf clump",
+    "root": "Short, stout rootstock",
+    "fruit": "Small dry achene",
+    "flowering_period": "May-September",
+    "reference_ids": [
+     "REF-0208"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in damp meadows, pastures, mountain grassland, streamsides and open woodland, typically on moist, nutrient-rich soils; native to Europe and parts of temperate Asia, favouring cooler upland and northern regions.",
+    "reference_ids": [
+     "REF-0208"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The leaves and flowering tops are gathered in summer while the plant is in flower, and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Flower",
+     "Leaf"
+    ],
+    "season": "Summer flowering period",
+    "reference_ids": [
+     "REF-0208"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Lady's mantle has long been used in European herbal medicine as a gentle astringent for menstrual complaints and as a mild gynaecological tonic, and topically for minor wounds and skin inflammation, reflecting its tannin-rich astringent character.",
+    "reference_ids": [
+     "REF-0113"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried leaf and flowering tops infused in hot water, traditionally taken for menstrual complaints and mild digestive upset.",
+     "reference_ids": [
+      "REF-0113"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    },
+    {
+     "name": "Poultice/wash",
+     "text": "Infused herb used as a topical wash or poultice for minor wounds and skin irritation.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -2401,7 +2555,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "lady-s-mantle"
   },
   {
@@ -2433,6 +2587,85 @@
       "REF-2426",
       "REF-2427"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Bulbous perennial herb usually grown as an annual, forming an underground compound bulb ('head') of several angular cloves wrapped in papery white to purplish skin. The leaves are flat, narrow and strap-shaped, greyish-green, arising from the bulb. A tall, leafless flowering stem (scape) may rise from the bulb bearing a rounded umbel of small pink-white flowers, often mixed with small bulbils, though cultivated garlic rarely sets true seed.",
+    "height": "30-100 cm (flowering scape)",
+    "habit": "Bulbous perennial herb, usually grown as an annual",
+    "leaves": "Flat, narrow, strap-shaped, greyish-green",
+    "flowers": "Small pink-white flowers in a rounded umbel, often mixed with bulbils; true seed is rare in cultivated garlic",
+    "stem": "Tall, leafless flowering scape when present",
+    "root": "Fibrous roots below a compound bulb of several cloves",
+    "fruit": "Rarely sets true seed; propagated mainly by cloves",
+    "flowering_period": "Summer",
+    "reference_ids": [
+     "REF-2426"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Believed to originate in Central Asia; cultivated worldwide in temperate and subtropical climates as a garden and field crop, thriving in well-drained, sunny sites.",
+    "reference_ids": [
+     "REF-2426"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Bulbs are lifted in mid- to late summer once the leaves have yellowed and died back, then cured (dried) in a warm, airy place before storage; young leaves and immature flower scapes ('sprouts') can be cut earlier in the season.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Young sprouts"
+    ],
+    "season": "Mid- to late summer for the bulb; spring for young leaves and sprouts",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Garlic has one of the longest continuous medicinal histories of any plant, used across many traditional systems (Ayurvedic, Chinese, Egyptian, Greco-Roman and European folk medicine) as an antimicrobial, cardiovascular and respiratory remedy, for colds and infections, and as a digestive and immune tonic. This traditional reputation is now among the most extensively clinically studied of all herbal medicines.",
+    "reference_ids": [
+     "REF-0166",
+     "REF-2426"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh clove",
+     "text": "Fresh clove crushed or chopped and left to stand briefly (activating allicin formation) before eating raw or lightly cooked.",
+     "reference_ids": [
+      "REF-2426"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract/powder",
+     "text": "Dried garlic powder standardised to allicin content, or aged garlic extract, taken as capsules or tablets.",
+     "reference_ids": [
+      "REF-0127",
+      "REF-2426"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the fresh bulb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Fresh clove",
+     "text": "Traditional and clinical references commonly cite around one fresh clove (about 4 g) daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised powder extract",
+     "text": "Clinical trials commonly use around 300 mg of standardised dried powder extract (about 1.3% allicin), up to three times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0127"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -2892,7 +3125,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "garlic"
   },
   {
@@ -2909,6 +3142,112 @@
    "family": "Asphodelaceae",
    "parts_used": [
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Succulent, rosette-forming perennial with thick, fleshy, lance-shaped leaves edged with soft, pale teeth, each leaf filled with a clear, slippery, mucilaginous gel beneath a tougher green rind. In favourable conditions it produces a tall flowering spike bearing tubular yellow (sometimes orange) flowers.",
+    "height": "Leaves 40-80 cm; flower spike to about 1 m",
+    "habit": "Succulent, rosette-forming perennial",
+    "leaves": "Thick, fleshy, lance-shaped, edged with soft pale teeth, filled with clear mucilaginous gel",
+    "flowers": "Tubular yellow (occasionally orange) flowers on a tall, unbranched or sparsely branched spike",
+    "stem": "Very short, often inconspicuous, below the leaf rosette",
+    "root": "Shallow, fibrous roots",
+    "fruit": "Capsule (rarely produced in cultivation)",
+    "flowering_period": "Varies with climate; typically under warm, dry conditions",
+    "reference_ids": [
+     "REF-2234"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Believed native to the Arabian Peninsula, and now cultivated and naturalised throughout arid and semi-arid tropical and subtropical regions worldwide as a garden, medicinal and commercial crop.",
+    "reference_ids": [
+     "REF-2234"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Outer, mature leaves are cut close to the base as needed; the clear inner gel (mucilage) is separated from the outer rind and from the bitter yellow latex (aloin-containing exudate) just under the rind, since the gel and the latex have different uses and safety profiles.",
+    "parts": [
+     "Leaf"
+    ],
+    "season": "Year-round where climate permits, from mature outer leaves",
+    "reference_ids": [
+     "REF-2234"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Aloe vera has an ancient reputation, recorded from ancient Egypt onward, as a topical remedy for burns, wounds and skin inflammation (the 'burn plant' / 'first aid plant'), and the bitter leaf latex has been used traditionally as a stimulant laxative. It remains one of the most widely used topical botanicals for skin care and minor wound healing.",
+    "reference_ids": [
+     "REF-2234"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh gel",
+     "text": "Clear inner leaf gel applied fresh, or as a stabilised commercial gel, directly to the skin for burns, minor wounds and skin irritation.",
+     "reference_ids": [
+      "REF-2234"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Oral juice/gel",
+     "text": "Inner leaf gel (latex-free) taken orally, used traditionally for digestive support.",
+     "reference_ids": [
+      "REF-2234"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Latex/dried juice",
+     "text": "The bitter yellow leaf exudate (containing anthraquinone glycosides) used traditionally as a stimulant laxative; not recommended for prolonged use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Topical gel",
+     "text": "Applied liberally to the affected skin area as needed. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Oral gel/juice",
+     "text": "Traditional references suggest around 1 tablespoon of gel, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Polysaccharides (acemannan)",
+     "compounds": [
+      "polysaccharide",
+      "mucilage"
+     ],
+     "note": "Acemannan and other glucomannans are the principal gel polysaccharides, underlying the emollient and wound-healing effects.",
+     "reference_ids": [
+      "REF-0087",
+      "REF-2234"
+     ]
+    },
+    {
+     "name": "Anthraquinones (aloin, aloe-emodin)",
+     "compounds": [
+      "anthraquinone"
+     ],
+     "note": "Found mainly in the leaf latex (not the inner gel); responsible for the traditional laxative effect and requiring caution with prolonged use.",
+     "reference_ids": [
+      "REF-2234"
+     ]
+    },
+    {
+     "name": "Enzymes, vitamins and minerals",
+     "note": "Minor bioactive enzymes, vitamins (including C and E) and minerals contribute to the antioxidant and skin-conditioning properties of the gel.",
+     "reference_ids": [
+      "REF-2234"
+     ]
+    }
    ],
    "actions": [
     {
@@ -3255,7 +3594,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "aloe-vera"
   },
   {
@@ -3304,6 +3643,81 @@
      "reference_ids": [
       "REF-0474"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Deciduous, aromatic shrub with slender, brittle branches and whorls of narrow, lance-shaped, rough-textured leaves that release a strong lemon scent when crushed. Small, pale lilac to white flowers are borne in loose terminal and axillary spikes in late summer.",
+    "height": "1-3 m",
+    "habit": "Deciduous, aromatic shrub",
+    "leaves": "Narrow, lance-shaped, rough-textured, borne in whorls of three; strongly lemon-scented when crushed",
+    "flowers": "Small, pale lilac to white flowers in loose terminal and axillary spikes",
+    "stem": "Slender, brittle, woody branches",
+    "root": "Woody rootstock",
+    "fruit": "Small dry schizocarp",
+    "flowering_period": "Late summer",
+    "reference_ids": [
+     "REF-0474"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to South America (Argentina, Chile, Peru) and widely cultivated as a culinary and medicinal herb in warm-temperate and Mediterranean climates worldwide, typically in sunny, well-drained garden sites.",
+    "reference_ids": [
+     "REF-0474"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are picked through the growing season, with the essential oil content and aroma at their best just before flowering; leaves are used fresh or dried quickly in a warm, shaded, airy place to preserve the lemon-scented volatile oil.",
+    "parts": [
+     "Leaf"
+    ],
+    "season": "Spring to autumn, best just before flowering",
+    "reference_ids": [
+     "REF-0474"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Lemon verbena leaf is a traditional South American and Mediterranean remedy for digestive complaints (indigestion, flatulence), as a calming, mildly sedative tea for anxiety and sleep, and is widely drunk as a fragrant culinary herbal tea.",
+    "reference_ids": [
+     "REF-0474"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Fresh or dried leaf infused in hot water as a fragrant digestive and calming tea.",
+     "reference_ids": [
+      "REF-0474"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried leaf.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Concentrated leaf extract (rich in verbascoside) used in some clinical studies of muscle recovery and antioxidant support.",
+     "reference_ids": [
+      "REF-0692"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-3 g of dried leaf per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -3532,7 +3946,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "lemon-verbena"
   },
   {

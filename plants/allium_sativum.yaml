@@ -24,6 +24,77 @@ constituents:
   - REF-0650
   - REF-2426
   - REF-2427
+botanical_description:
+  text: Bulbous perennial herb usually grown as an annual, forming an underground compound bulb ('head')
+    of several angular cloves wrapped in papery white to purplish skin. The leaves are flat, narrow and
+    strap-shaped, greyish-green, arising from the bulb. A tall, leafless flowering stem (scape) may rise
+    from the bulb bearing a rounded umbel of small pink-white flowers, often mixed with small bulbils,
+    though cultivated garlic rarely sets true seed.
+  height: 30-100 cm (flowering scape)
+  habit: Bulbous perennial herb, usually grown as an annual
+  leaves: Flat, narrow, strap-shaped, greyish-green
+  flowers: Small pink-white flowers in a rounded umbel, often mixed with bulbils; true seed is rare in
+    cultivated garlic
+  stem: Tall, leafless flowering scape when present
+  root: Fibrous roots below a compound bulb of several cloves
+  fruit: Rarely sets true seed; propagated mainly by cloves
+  flowering_period: Summer
+  reference_ids:
+  - REF-2426
+  status: verified
+habitat:
+  text: Believed to originate in Central Asia; cultivated worldwide in temperate and subtropical climates
+    as a garden and field crop, thriving in well-drained, sunny sites.
+  reference_ids:
+  - REF-2426
+  status: draft
+harvesting:
+  text: Bulbs are lifted in mid- to late summer once the leaves have yellowed and died back, then cured
+    (dried) in a warm, airy place before storage; young leaves and immature flower scapes ('sprouts')
+    can be cut earlier in the season.
+  parts:
+  - Leaf
+  - Root
+  - Young sprouts
+  season: Mid- to late summer for the bulb; spring for young leaves and sprouts
+  status: draft
+traditional_uses:
+  text: Garlic has one of the longest continuous medicinal histories of any plant, used across many traditional
+    systems (Ayurvedic, Chinese, Egyptian, Greco-Roman and European folk medicine) as an antimicrobial,
+    cardiovascular and respiratory remedy, for colds and infections, and as a digestive and immune tonic.
+    This traditional reputation is now among the most extensively clinically studied of all herbal medicines.
+  reference_ids:
+  - REF-0166
+  - REF-2426
+  status: verified
+preparations:
+- name: Fresh clove
+  text: Fresh clove crushed or chopped and left to stand briefly (activating allicin formation) before
+    eating raw or lightly cooked.
+  reference_ids:
+  - REF-2426
+  status: verified
+- name: Standardised extract/powder
+  text: Dried garlic powder standardised to allicin content, or aged garlic extract, taken as capsules
+    or tablets.
+  reference_ids:
+  - REF-0127
+  - REF-2426
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the fresh bulb.
+  status: draft
+dosage:
+- name: Fresh clove
+  text: Traditional and clinical references commonly cite around one fresh clove (about 4 g) daily. Educational
+    reference only, not a prescription.
+  status: draft
+- name: Standardised powder extract
+  text: Clinical trials commonly use around 300 mg of standardised dried powder extract (about 1.3% allicin),
+    up to three times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0127
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -257,7 +328,8 @@ references:
 drug_class_interactions:
 - drug_class: antiretrovirals
   severity: caution
-  mechanism: 'Garlic supplements reduced saquinavir exposure by about half in healthy volunteers, which could lower the effectiveness of some HIV protease inhibitors.'
+  mechanism: Garlic supplements reduced saquinavir exposure by about half in healthy volunteers, which
+    could lower the effectiveness of some HIV protease inhibitors.
   reference_ids:
   - REF-2437
   - REF-2436
@@ -266,7 +338,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'Garlic has antiplatelet activity (ajoene) and may add to the bleeding risk of anticoagulant or antiplatelet drugs; interactions with warfarin have been reported.'
+  mechanism: Garlic has antiplatelet activity (ajoene) and may add to the bleeding risk of anticoagulant
+    or antiplatelet drugs; interactions with warfarin have been reported.
   reference_ids:
   - REF-2436
   status: approved
@@ -274,7 +347,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Garlic may modestly lower blood glucose (a meta-analysis in diabetic patients found reduced fasting glucose and HbA1c); watch for an additive effect with diabetes medication (an interaction with chlorpropamide has been reported).'
+  mechanism: Garlic may modestly lower blood glucose (a meta-analysis in diabetic patients found reduced
+    fasting glucose and HbA1c); watch for an additive effect with diabetes medication (an interaction
+    with chlorpropamide has been reported).
   reference_ids:
   - REF-2436
   - REF-2536
@@ -283,7 +358,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antihypertensives
   severity: caution
-  mechanism: 'Garlic can lower blood pressure (a meta-analysis found meaningful reductions in people with high blood pressure); combined with blood-pressure medicines it may add to their effect, so monitor blood pressure.'
+  mechanism: Garlic can lower blood pressure (a meta-analysis found meaningful reductions in people with
+    high blood pressure); combined with blood-pressure medicines it may add to their effect, so monitor
+    blood pressure.
   reference_ids:
   - REF-2491
   status: approved
@@ -292,7 +369,9 @@ drug_class_interactions:
 pairings:
 - partner_id: zingiber-officinale
   type: caution
-  note: 'Garlic and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Garlic and ginger both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   - REF-2443
@@ -301,7 +380,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: panax-ginseng
   type: caution
-  note: 'Garlic and ginseng both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Garlic and ginseng both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   status: approved
@@ -309,7 +390,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: tanacetum-parthenium
   type: caution
-  note: 'Garlic and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Garlic and feverfew both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   - REF-2444
@@ -318,7 +401,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: nigella-sativa
   type: caution
-  note: 'Garlic and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.'
+  note: Garlic and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together
+    — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected.
+    Monitor your blood pressure.
   reference_ids:
   - REF-2491
   - REF-2512
@@ -333,12 +418,20 @@ dangerous_lookalikes:
 - dangerous_plant: colchicum-autumnale
   severity: fatal
   confused_part: Spring leaves, when foraging wild garlic (ramsons) foliage before flowering.
-  confusion_context: When people gather wild garlic (ramsons) leaves in spring, autumn crocus leaves — which emerge at the same time in the same damp meadows and woodland edges — are the deadliest thing they can pick by mistake. Autumn crocus contains colchicine, a cell poison with no reliable antidote; a few leaves can kill, and poisoning is repeatedly documented from 'wild garlic' that was actually autumn crocus, progressing from stomach upset to multi-organ failure.
+  confusion_context: When people gather wild garlic (ramsons) leaves in spring, autumn crocus leaves —
+    which emerge at the same time in the same damp meadows and woodland edges — are the deadliest thing
+    they can pick by mistake. Autumn crocus contains colchicine, a cell poison with no reliable antidote;
+    a few leaves can kill, and poisoning is repeatedly documented from 'wild garlic' that was actually
+    autumn crocus, progressing from stomach upset to multi-organ failure.
   distinguishing_features:
-  - Crushed wild-garlic leaves smell strongly of garlic or onion; autumn crocus leaves have NO garlic smell.
-  - Each wild-garlic leaf grows singly on its own slender stalk; autumn crocus leaves are thicker, stiffer and glossy, several clasped together from a common base at ground level, with no individual stalks.
+  - Crushed wild-garlic leaves smell strongly of garlic or onion; autumn crocus leaves have NO garlic
+    smell.
+  - Each wild-garlic leaf grows singly on its own slender stalk; autumn crocus leaves are thicker, stiffer
+    and glossy, several clasped together from a common base at ground level, with no individual stalks.
   - Wild garlic pulls up with a small white bulb and onion-like roots; autumn crocus has no garlic bulb.
-  key_test: 'Crush one leaf with clean hands and smell it: a strong garlic or onion smell = wild garlic (safe); no garlic smell = do not pick it. Hands already smelling of garlic give false reassurance, so test with clean hands.'
+  key_test: 'Crush one leaf with clean hands and smell it: a strong garlic or onion smell = wild garlic
+    (safe); no garlic smell = do not pick it. Hands already smelling of garlic give false reassurance,
+    so test with clean hands.'
   reference_ids:
   - REF-2617
   - REF-2618
@@ -350,12 +443,20 @@ dangerous_lookalikes:
 - dangerous_plant: convallaria-majalis
   severity: fatal
   confused_part: Spring leaves, when foraging wild garlic (ramsons) foliage before flowering.
-  confusion_context: Lily-of-the-valley leaves emerge at the same time and in the same shady, damp woodland as wild garlic and are a classic, sometimes fatal, mix-up. The plant contains cardiac glycosides (convallatoxin) that disturb the heartbeat like an overdose of heart medicine, and there is no reliable antidote; foragers who ate leaves they took for wild garlic have arrived at hospital with a dangerously slow heart and low blood pressure.
+  confusion_context: Lily-of-the-valley leaves emerge at the same time and in the same shady, damp woodland
+    as wild garlic and are a classic, sometimes fatal, mix-up. The plant contains cardiac glycosides (convallatoxin)
+    that disturb the heartbeat like an overdose of heart medicine, and there is no reliable antidote;
+    foragers who ate leaves they took for wild garlic have arrived at hospital with a dangerously slow
+    heart and low blood pressure.
   distinguishing_features:
-  - Crushed wild-garlic leaves smell strongly of garlic or onion; lily-of-the-valley leaves have NO garlic smell.
-  - Wild garlic has ONE leaf per individual stalk; lily-of-the-valley has a pair (sometimes three) of leaves wrapped together around a single common stalk, often purplish at the base.
+  - Crushed wild-garlic leaves smell strongly of garlic or onion; lily-of-the-valley leaves have NO garlic
+    smell.
+  - Wild garlic has ONE leaf per individual stalk; lily-of-the-valley has a pair (sometimes three) of
+    leaves wrapped together around a single common stalk, often purplish at the base.
   - Lily-of-the-valley leaves are stiffer and glossier, and there is no garlic bulb underneath.
-  key_test: 'Crush one leaf with clean hands and smell: strong garlic or onion = wild garlic (safe); no garlic smell = discard. Then check the leaves — one leaf per separate stalk (wild garlic) versus a pair of leaves sheathed around one common stalk (lily-of-the-valley).'
+  key_test: 'Crush one leaf with clean hands and smell: strong garlic or onion = wild garlic (safe); no
+    garlic smell = discard. Then check the leaves — one leaf per separate stalk (wild garlic) versus a
+    pair of leaves sheathed around one common stalk (lily-of-the-valley).'
   reference_ids:
   - REF-2621
   - REF-2622
@@ -366,12 +467,20 @@ dangerous_lookalikes:
 - dangerous_plant: arum-maculatum
   severity: irritant
   confused_part: Young spring leaves, when foraging wild garlic (ramsons) foliage.
-  confusion_context: 'Lords-and-ladies pushes up its young leaves at the same time and in the very same damp woods as wild garlic, often mixed in with it. Every part contains needle-like calcium-oxalate crystals: biting a leaf drives them into the mouth and throat, causing immediate intense burning, blistering and swelling — occasionally enough to threaten the airway.'
+  confusion_context: 'Lords-and-ladies pushes up its young leaves at the same time and in the very same
+    damp woods as wild garlic, often mixed in with it. Every part contains needle-like calcium-oxalate
+    crystals: biting a leaf drives them into the mouth and throat, causing immediate intense burning,
+    blistering and swelling — occasionally enough to threaten the airway.'
   distinguishing_features:
-  - Crushed wild-garlic leaves smell strongly of garlic or onion; lords-and-ladies leaves have NO garlic smell.
-  - Wild-garlic leaves have parallel veins running the length of the leaf; lords-and-ladies leaves have a branching net of veins.
-  - Lords-and-ladies leaves are arrow- or spear-shaped with two backward-pointing lobes ('tails') at the base, often glossy and sometimes dark-spotted; wild-garlic leaves are smooth ovals with no basal lobes.
-  key_test: 'Crush one leaf with clean hands and smell: garlic or onion = wild garlic (safe); no smell = discard. Reject any leaf that is arrow-shaped with basal ''tail'' lobes or has net-like (not parallel) veins — that is lords-and-ladies.'
+  - Crushed wild-garlic leaves smell strongly of garlic or onion; lords-and-ladies leaves have NO garlic
+    smell.
+  - Wild-garlic leaves have parallel veins running the length of the leaf; lords-and-ladies leaves have
+    a branching net of veins.
+  - Lords-and-ladies leaves are arrow- or spear-shaped with two backward-pointing lobes ('tails') at the
+    base, often glossy and sometimes dark-spotted; wild-garlic leaves are smooth ovals with no basal lobes.
+  key_test: 'Crush one leaf with clean hands and smell: garlic or onion = wild garlic (safe); no smell
+    = discard. Reject any leaf that is arrow-shaped with basal ''tail'' lobes or has net-like (not parallel)
+    veins — that is lords-and-ladies.'
   reference_ids:
   - REF-2623
   status: approved
@@ -379,7 +488,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -390,4 +499,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   allicin/organosulfur constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 5 PubMed-verified @article sources (REF-2426, REF-2427, REF-2428, REF-2429, REF-2430)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

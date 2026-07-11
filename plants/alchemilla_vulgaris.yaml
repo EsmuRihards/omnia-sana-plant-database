@@ -25,6 +25,67 @@ constituents:
   reference_ids:
   - REF-0686
   - REF-0687
+botanical_description:
+  text: Low, clump-forming perennial herb with distinctive rounded, softly hairy leaves divided into 7-11
+    shallow, scalloped, toothed lobes, fanning out like a cloak (giving the genus name Alchemilla, 'little
+    alchemist', after the dew drops that collect in the leaf centre, once prized by alchemists). Tiny,
+    petal-less, yellow-green flowers are borne in loose, branching clusters above the foliage.
+  height: 10-40 cm
+  habit: Low, clump-forming perennial herb
+  leaves: Rounded, softly hairy, palmately lobed into 7-11 shallow scalloped, toothed lobes
+  flowers: Tiny, petal-less, yellow-green flowers in loose branching clusters
+  stem: Short, softly hairy flowering stems rising above the leaf clump
+  root: Short, stout rootstock
+  fruit: Small dry achene
+  flowering_period: May-September
+  reference_ids:
+  - REF-0208
+  status: verified
+habitat:
+  text: Grows in damp meadows, pastures, mountain grassland, streamsides and open woodland, typically
+    on moist, nutrient-rich soils; native to Europe and parts of temperate Asia, favouring cooler upland
+    and northern regions.
+  reference_ids:
+  - REF-0208
+  status: verified
+harvesting:
+  text: The leaves and flowering tops are gathered in summer while the plant is in flower, and dried in
+    a warm, shaded, airy place.
+  parts:
+  - Flower
+  - Leaf
+  season: Summer flowering period
+  reference_ids:
+  - REF-0208
+  status: draft
+traditional_uses:
+  text: Lady's mantle has long been used in European herbal medicine as a gentle astringent for menstrual
+    complaints and as a mild gynaecological tonic, and topically for minor wounds and skin inflammation,
+    reflecting its tannin-rich astringent character.
+  reference_ids:
+  - REF-0113
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried leaf and flowering tops infused in hot water, traditionally taken for menstrual complaints
+    and mild digestive upset.
+  reference_ids:
+  - REF-0113
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+- name: Poultice/wash
+  text: Infused herb used as a topical wash or poultice for minor wounds and skin irritation.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+- name: Tincture
+  text: About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -141,7 +202,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -153,4 +214,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 11 PubMed-verified @article sources (REF-2226, REF-2227, REF-0686, REF-0685, REF-2228,
   REF-0687, REF-2229, REF-2230, REF-2231, REF-2232, REF-2233) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy.'

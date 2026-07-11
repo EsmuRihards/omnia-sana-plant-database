@@ -10,6 +10,92 @@ common_names:
 family: Asphodelaceae
 parts_used:
 - Leaf
+botanical_description:
+  text: Succulent, rosette-forming perennial with thick, fleshy, lance-shaped leaves edged with soft,
+    pale teeth, each leaf filled with a clear, slippery, mucilaginous gel beneath a tougher green rind.
+    In favourable conditions it produces a tall flowering spike bearing tubular yellow (sometimes orange)
+    flowers.
+  height: Leaves 40-80 cm; flower spike to about 1 m
+  habit: Succulent, rosette-forming perennial
+  leaves: Thick, fleshy, lance-shaped, edged with soft pale teeth, filled with clear mucilaginous gel
+  flowers: Tubular yellow (occasionally orange) flowers on a tall, unbranched or sparsely branched spike
+  stem: Very short, often inconspicuous, below the leaf rosette
+  root: Shallow, fibrous roots
+  fruit: Capsule (rarely produced in cultivation)
+  flowering_period: Varies with climate; typically under warm, dry conditions
+  reference_ids:
+  - REF-2234
+  status: verified
+habitat:
+  text: Believed native to the Arabian Peninsula, and now cultivated and naturalised throughout arid and
+    semi-arid tropical and subtropical regions worldwide as a garden, medicinal and commercial crop.
+  reference_ids:
+  - REF-2234
+  status: draft
+harvesting:
+  text: Outer, mature leaves are cut close to the base as needed; the clear inner gel (mucilage) is separated
+    from the outer rind and from the bitter yellow latex (aloin-containing exudate) just under the rind,
+    since the gel and the latex have different uses and safety profiles.
+  parts:
+  - Leaf
+  season: Year-round where climate permits, from mature outer leaves
+  reference_ids:
+  - REF-2234
+  status: verified
+traditional_uses:
+  text: Aloe vera has an ancient reputation, recorded from ancient Egypt onward, as a topical remedy for
+    burns, wounds and skin inflammation (the 'burn plant' / 'first aid plant'), and the bitter leaf latex
+    has been used traditionally as a stimulant laxative. It remains one of the most widely used topical
+    botanicals for skin care and minor wound healing.
+  reference_ids:
+  - REF-2234
+  status: verified
+preparations:
+- name: Fresh gel
+  text: Clear inner leaf gel applied fresh, or as a stabilised commercial gel, directly to the skin for
+    burns, minor wounds and skin irritation.
+  reference_ids:
+  - REF-2234
+  status: verified
+- name: Oral juice/gel
+  text: Inner leaf gel (latex-free) taken orally, used traditionally for digestive support.
+  reference_ids:
+  - REF-2234
+  status: draft
+- name: Latex/dried juice
+  text: The bitter yellow leaf exudate (containing anthraquinone glycosides) used traditionally as a stimulant
+    laxative; not recommended for prolonged use.
+  status: draft
+dosage:
+- name: Topical gel
+  text: Applied liberally to the affected skin area as needed. Educational reference only, not a prescription.
+  status: draft
+- name: Oral gel/juice
+  text: Traditional references suggest around 1 tablespoon of gel, up to three times daily. Educational
+    reference only, not a prescription.
+  status: draft
+constituents:
+- name: Polysaccharides (acemannan)
+  compounds:
+  - polysaccharide
+  - mucilage
+  note: Acemannan and other glucomannans are the principal gel polysaccharides, underlying the emollient
+    and wound-healing effects.
+  reference_ids:
+  - REF-0087
+  - REF-2234
+- name: Anthraquinones (aloin, aloe-emodin)
+  compounds:
+  - anthraquinone
+  note: Found mainly in the leaf latex (not the inner gel); responsible for the traditional laxative effect
+    and requiring caution with prolonged use.
+  reference_ids:
+  - REF-2234
+- name: Enzymes, vitamins and minerals
+  note: Minor bioactive enzymes, vitamins (including C and E) and minerals contribute to the antioxidant
+    and skin-conditioning properties of the gel.
+  reference_ids:
+  - REF-2234
 actions:
 - action: analgesic
   reference_ids:
@@ -251,7 +337,9 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Aloe vera (taken internally) can lower blood sugar - a meta-analysis found improved fasting glucose in prediabetes and improved HbA1c in type 2 diabetes - so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.'
+  mechanism: Aloe vera (taken internally) can lower blood sugar - a meta-analysis found improved fasting
+    glucose in prediabetes and improved HbA1c in type 2 diabetes - so combining it with diabetes medicines
+    may increase the risk of hypoglycaemia; monitor blood glucose.
   reference_ids:
   - REF-2456
   - REF-2517
@@ -265,13 +353,26 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: agave-americana
   severity: irritant
-  confused_part: Fleshy leaves harvested for their soothing gel; agave forms a very similar large rosette of thick, pointed succulent leaves.
-  confusion_context: 'Aloe vera is grown and harvested for the clear soothing gel inside its fleshy leaves. Agave (Agave americana and relatives) forms a very similar rosette of thick, pointed succulent leaves and, as Gardening Know How notes, the two are easily confused if you have not grown both. But agave is not soothing: its sap contains calcium oxalate raphides, steroidal saponins and acrid oils, and peer-reviewed dermatology reports document painful irritant contact dermatitis (even purpura) from agave sap. Applying or ingesting agave sap in mistake for aloe gel can burn the skin, mouth and gut. Because both are common houseplants and garden succulents, this is a realistic mix-up.'
+  confused_part: Fleshy leaves harvested for their soothing gel; agave forms a very similar large rosette
+    of thick, pointed succulent leaves.
+  confusion_context: 'Aloe vera is grown and harvested for the clear soothing gel inside its fleshy leaves.
+    Agave (Agave americana and relatives) forms a very similar rosette of thick, pointed succulent leaves
+    and, as Gardening Know How notes, the two are easily confused if you have not grown both. But agave
+    is not soothing: its sap contains calcium oxalate raphides, steroidal saponins and acrid oils, and
+    peer-reviewed dermatology reports document painful irritant contact dermatitis (even purpura) from
+    agave sap. Applying or ingesting agave sap in mistake for aloe gel can burn the skin, mouth and gut.
+    Because both are common houseplants and garden succulents, this is a realistic mix-up.'
   distinguishing_features:
-  - 'Inside the leaf (decisive): snap or cut a leaf. Aloe leaves are soft and filled with clear, slippery gel. Agave leaves are tough and fibrous/stringy with no gel - you cannot easily snap them by hand.'
-  - 'Leaf tip and edge: agave leaves end in one hard, sharp terminal spine and often have stiff sharp teeth; aloe has softer, more pliable leaves with soft whitish teeth and no rigid terminal spike.'
-  - 'Whole plant over time: aloe flowers repeatedly on a branched stalk and lives on; agave typically flowers only once, on a huge tall stalk, then dies.'
-  key_test: Cut a leaf. Clear, slippery gel inside a soft leaf = aloe (safe gel). A tough, fibrous leaf with no gel, ending in a hard sharp spine = agave - its sap is an irritant that can burn skin, mouth and gut, so do not use it. When in doubt, do not apply or consume it unless you are certain it is aloe.
+  - 'Inside the leaf (decisive): snap or cut a leaf. Aloe leaves are soft and filled with clear, slippery
+    gel. Agave leaves are tough and fibrous/stringy with no gel - you cannot easily snap them by hand.'
+  - 'Leaf tip and edge: agave leaves end in one hard, sharp terminal spine and often have stiff sharp
+    teeth; aloe has softer, more pliable leaves with soft whitish teeth and no rigid terminal spike.'
+  - 'Whole plant over time: aloe flowers repeatedly on a branched stalk and lives on; agave typically
+    flowers only once, on a huge tall stalk, then dies.'
+  key_test: Cut a leaf. Clear, slippery gel inside a soft leaf = aloe (safe gel). A tough, fibrous leaf
+    with no gel, ending in a hard sharp spine = agave - its sap is an irritant that can burn skin, mouth
+    and gut, so do not use it. When in doubt, do not apply or consume it unless you are certain it is
+    aloe.
   reference_ids:
   - REF-2671
   - REF-2669
@@ -281,7 +382,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -289,4 +390,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 11 PubMed-verified @article sources (REF-2234, REF-2235, REF-2236, REF-2237, REF-2238,
   REF-2239, REF-2240, REF-2241, REF-2242, REF-2243, REF-2244) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

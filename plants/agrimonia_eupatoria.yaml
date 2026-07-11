@@ -46,6 +46,76 @@ constituents:
   reference_ids:
   - REF-0387
   - REF-0388
+botanical_description:
+  text: Slender, downy perennial herb with a basal rosette of pinnately compound leaves and a single,
+    unbranched, upright flowering stem. The leaflets are toothed, alternating large and small, and silvery-downy
+    beneath. Small, five-petalled, bright yellow flowers are borne closely along a slender terminal spike
+    (raceme), opening a few at a time from the base upwards, giving the old name 'church steeples'. After
+    flowering, small bristly, hooked burrs form that cling to clothing and animal fur for dispersal.
+  height: 30-100 cm
+  habit: Erect, downy perennial herb
+  leaves: Pinnately compound, toothed leaflets of alternating large and small size, silvery-downy beneath
+  flowers: Small, five-petalled, bright yellow flowers crowded on a slender terminal spike
+  stem: Single, unbranched, upright, downy flowering stem
+  root: Woody rootstock
+  fruit: Small bristly, hooked burr that clings to clothing and fur
+  flowering_period: June-September
+  reference_ids:
+  - REF-0386
+  - REF-0388
+  status: verified
+habitat:
+  text: Grows in dry grassland, hedgerows, field margins, roadsides and open woodland edges on well-drained,
+    often calcareous soils; native and common throughout Europe, temperate Asia and North Africa.
+  reference_ids:
+  - REF-0386
+  - REF-0388
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut in summer, at the start of flowering, and dried promptly in
+    a warm, airy, shaded place.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Summer, at the start of flowering
+  reference_ids:
+  - REF-0386
+  status: verified
+traditional_uses:
+  text: Agrimony has a long folk history as an astringent remedy for mild diarrhoea, as a gargle for sore
+    throats and mild mouth/throat inflammation, and as a mild bitter digestive tonic; it has also been
+    applied topically to minor wounds and skin inflammation. It is officially recognised in the European
+    Union herbal monograph for traditional use in mild diarrhoea and mild inflammation of the mouth or
+    throat.
+  reference_ids:
+  - REF-0386
+  - REF-0388
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water, taken internally for mild diarrhoea and digestive complaints
+    or used as a gargle/mouthwash for sore throat.
+  reference_ids:
+  - REF-0386
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried flowering herb.
+  status: draft
+- name: Poultice/compress
+  text: Crushed or infused herb applied externally to minor wounds and skin inflammation.
+  reference_ids:
+  - REF-0386
+  status: draft
+dosage:
+- name: Infusion
+  text: The EU herbal monograph describes traditional use of about 2.5-5 g dried herb as an infusion,
+    taken up to three times daily, or used as a gargle/mouthwash. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0386
+  status: draft
+- name: Tincture
+  text: Traditional herbal references suggest around 1-4 mL of a 1:5 tincture, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
@@ -227,7 +297,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality,
   peer-reviewed review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (diarrhea, sore-throat, indigestion, wounds); symptom associations retained and now part-mapped
@@ -237,4 +307,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 12 PubMed-verified @article
   sources (REF-0681, REF-0683, REF-2328, REF-2329, REF-2330, REF-2331, REF-2332, REF-2333, REF-2334, REF-2335,
-  REF-2336, REF-2337) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-2336, REF-2337) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

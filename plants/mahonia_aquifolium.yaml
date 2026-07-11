@@ -19,6 +19,69 @@ constituents:
   - REF-0487
   - REF-0488
   - REF-1174
+botanical_description:
+  text: Evergreen shrub, 0.5-2 m tall, spreading by underground rhizomes to form thickets. The pinnate
+    leaves resemble holly, with 5-9 glossy, dark green, spiny-toothed leaflets that often turn bronze-red
+    in winter. Small, bright yellow, six-petalled flowers are borne in dense, upright terminal racemes
+    in early spring, followed by clusters of blue-black, grape-like berries with a waxy bloom. The wood
+    and inner bark of the stem and root are bright yellow when cut, owing to their high content of berberine-type
+    alkaloids.
+  height: 0.5-2 m
+  habit: Evergreen, rhizomatous, colony-forming shrub
+  leaves: Pinnate, holly-like, 5-9 glossy dark green spiny-toothed leaflets
+  flowers: Small, bright yellow, six-petalled, in dense upright terminal racemes
+  stem: Woody; wood and inner bark bright yellow when cut
+  root: Woody, rhizomatous, bright yellow within (berberine-type alkaloids)
+  fruit: Clusters of blue-black, grape-like berries with a waxy bloom
+  flowering_period: Early spring (March-April)
+  status: draft
+habitat:
+  text: Native to the Pacific Northwest of North America, growing in coniferous woodland understorey,
+    forest margins and rocky slopes; widely introduced and naturalised as an ornamental and hedging shrub
+    in temperate regions elsewhere.
+  status: draft
+harvesting:
+  text: The root and root bark, the medicinal parts, are dug from established plants - traditionally in
+    autumn - and dried. Because wild populations are slow-growing, cultivated or nursery-sourced material
+    is preferred over wild-harvesting.
+  parts:
+  - Root
+  - Bark
+  season: Autumn
+  status: draft
+traditional_uses:
+  text: Oregon grape root has a traditional Native American and Eclectic-medicine history as a bitter
+    tonic and alterative (blood-purifying) remedy and for skin conditions. Its main modern use, supported
+    by clinical trials, is topical application of a standardised bark extract for mild-to-moderate psoriasis
+    and atopic dermatitis (eczema), where its berberine-type alkaloids give anti-inflammatory and antiproliferative
+    effects on skin cells.
+  reference_ids:
+  - REF-0487
+  - REF-0488
+  - REF-1173
+  status: verified
+preparations:
+- name: Topical cream/ointment
+  text: A standardised 10% Mahonia aquifolium bark extract cream, the best-studied form, applied to affected
+    skin up to three times daily for psoriasis or eczema.
+  reference_ids:
+  - REF-0487
+  - REF-0591
+  - REF-1173
+  status: verified
+- name: Tincture/decoction of root bark
+  text: Traditional internal preparation of the dried root bark as a bitter tonic; far less studied than
+    the topical form.
+  status: draft
+dosage:
+- name: Topical 10% extract cream
+  text: Clinical trials in psoriasis and eczema have used a 10% Mahonia aquifolium bark extract cream
+    applied to affected areas up to three times daily. Educational reference only, not a prescription;
+    internal use is not well studied and should be supervised.
+  reference_ids:
+  - REF-0487
+  - REF-0591
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and antiproliferative (slows the skin-cell overgrowth of psoriasis)
@@ -119,7 +182,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Clin Aesthet Dermatol review
   of topical Mahonia for psoriasis/eczema; Herbal Reality monograph). Mahonia aquifolium = Berberis aquifolium.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (psoriasis, eczema,
@@ -129,4 +192,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J C
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
   | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1173,
   REF-1174, REF-1175, REF-1176, REF-1177, REF-1178, REF-1179, REF-1180, REF-1181, REF-1182) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields; no dedicated botanical review in the bucket (clinical/dermatology-focused sources),
+  so botanical_description/habitat/harvesting are status:draft general botanical facts with no fabricated
+  citation, while traditional_uses/preparations/dosage cite the existing psoriasis/eczema clinical sources.'

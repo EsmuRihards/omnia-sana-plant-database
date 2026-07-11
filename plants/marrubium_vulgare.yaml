@@ -33,6 +33,75 @@ constituents:
   note: Astringent and aromatic constituents of the herb.
   reference_ids:
   - REF-0469
+botanical_description:
+  text: Perennial herb, 20-60 cm tall, with square, densely white-woolly (tomentose) stems characteristic
+    of the mint family. Leaves are opposite, ovate-rounded, crinkled and coarsely toothed, grey-green
+    and woolly beneath, with a strong bitter, slightly musky smell when crushed. Small white, two-lipped
+    flowers are clustered in dense whorls (verticillasters) in the leaf axils up the stem. The fruit splits
+    into four small nutlets typical of the Lamiaceae.
+  height: 20-60 cm
+  habit: Erect, bushy, white-woolly perennial herb
+  leaves: Opposite, ovate-rounded, crinkled, coarsely toothed, woolly beneath
+  flowers: Small, white, two-lipped, in dense axillary whorls (verticillasters)
+  stem: Square, densely white-woolly (tomentose)
+  root: Fibrous perennial rootstock
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: June-October
+  reference_ids:
+  - REF-0468
+  status: verified
+habitat:
+  text: Native to Europe, North Africa and temperate Asia and widely naturalised elsewhere, growing on
+    dry, disturbed, sunny ground - roadsides, waste places, pastures and rocky or sandy soils.
+  reference_ids:
+  - REF-0468
+  - REF-0927
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut during the flowering season (summer), when bitter marrubiin
+    content is highest, and dried promptly out of direct sunlight; harvest site and season measurably
+    affect the marrubiin and antioxidant content of the dried herb.
+  parts:
+  - Aerial parts
+  season: Summer, during flowering
+  reference_ids:
+  - REF-0468
+  - REF-0927
+  status: verified
+traditional_uses:
+  text: White horehound has a long European and Mediterranean folk-medicine history as a bitter expectorant
+    for coughs, bronchitis and catarrh, and as a digestive bitter for poor appetite and dyspepsia. It
+    is one of the classic ingredients of traditional cough syrups and horehound candy. A modern critical
+    review found reasonable, though not conclusive, scientific support for these traditional respiratory
+    and digestive uses.
+  reference_ids:
+  - REF-0468
+  - REF-0469
+  - REF-0921
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried aerial parts steeped in hot water as a bitter digestive and expectorant tea.
+  reference_ids:
+  - REF-0468
+  status: verified
+- name: Decoction/syrup
+  text: A stronger decoction, traditionally sweetened into a syrup (or made into horehound candy), for
+    cough and sore throat.
+  reference_ids:
+  - REF-0469
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried aerial parts, taken as a bitter digestive.
+  status: draft
+dosage:
+- name: Infusion
+  text: EMA/ESCOP herbal-monograph guidance suggests about 1.5-2 g of dried aerial parts per cup, as an
+    infusion up to 3 times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0468
+  - REF-0469
+  status: verified
 actions:
 - action: antispasmodic
   note: Antispasmodic (traditional use in whooping cough)
@@ -147,7 +216,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Marrubii herba; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, bloating); associations retained and now part-mapped and
@@ -157,4 +226,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0920, REF-0921, REF-0922, REF-0923, REF-0924,
   REF-0925, REF-0926, REF-0927, REF-0928, REF-0929) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing EMA HMPC (REF-0468) and ESCOP (REF-0469) monographs
+  plus the phytomedicine review REF-0921/REF-0927.'

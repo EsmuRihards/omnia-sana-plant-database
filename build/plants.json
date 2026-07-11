@@ -32144,6 +32144,133 @@
     "Seed",
     "Young sprouts"
    ],
+   "botanical_description": {
+    "text": "Erect annual herb, slender and often branched near the top, growing 30-80 (up to 100) cm tall from a fine taproot. Leaves are alternate, sessile, narrowly lanceolate to linear, blue-green and entire-margined. Flowers are pale blue (occasionally white or pink), five-petalled and borne on slender stalks in loose terminal cymes. The fruit is a small globular capsule ('boll') that splits into ten compartments, each containing one flattened, glossy, red-brown seed.",
+    "height": "30-80 (up to 100) cm",
+    "habit": "Erect, slender annual herb",
+    "leaves": "Alternate, sessile, narrowly lanceolate to linear, blue-green, entire",
+    "flowers": "Pale blue (occasionally white or pink), five-petalled, in loose terminal cymes",
+    "stem": "Slender, erect, often branched above",
+    "root": "Fine taproot",
+    "fruit": "Globular capsule ('boll') splitting into ten compartments, each with one flattened glossy red-brown seed",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-2220"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean region and the Fertile Crescent, cultivated since prehistory for fibre and oil and now grown worldwide in temperate regions with well-drained, fertile soils and a cool, moist growing season; occasionally found as a naturalised escape on waste and cultivated ground.",
+    "reference_ids": [
+     "REF-2220"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Grown as an annual crop, seed is harvested once the capsules ('bolls') have dried and turned brown, typically in late summer, by cutting or combining the whole plant and threshing out the seed. Whole seed stores well; it should only be ground shortly before use, since the oil in ground seed oxidises and turns rancid quickly.",
+    "parts": [
+     "Seed"
+    ],
+    "season": "Late summer, once bolls have dried",
+    "reference_ids": [
+     "REF-2217"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Flaxseed has a long history of traditional use as a bulk-forming laxative and demulcent for constipation and irritated gut mucosa, and as a poultice for boils and inflamed skin. Modern interest centres on its lignan (secoisolariciresinol diglucoside) and alpha-linolenic acid content, studied for cardiovascular, metabolic and hormone-related outcomes.",
+    "reference_ids": [
+     "REF-2217",
+     "REF-2219",
+     "REF-2220"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Ground seed ('flax meal')",
+     "text": "Whole seed freshly ground (milled) and taken with plenty of liquid, or stirred into food; grinding is needed to make the oil and lignans bioavailable, as whole seeds largely pass through the gut undigested.",
+     "reference_ids": [
+      "REF-2217"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Flaxseed oil",
+     "text": "Cold-pressed oil taken as a concentrated source of alpha-linolenic acid (omega-3); lacks the fibre and lignan content of the whole ground seed.",
+     "reference_ids": [
+      "REF-2220"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Poultice",
+     "text": "Crushed or ground seed made into a warm paste and applied externally to boils and inflamed skin - a traditional demulcent, soothing application.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Ground seed",
+     "text": "Traditional guidance and Duke (2002) suggest 1-2 tablespoons of ground seed with ample water, once or twice daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0001",
+      "REF-0039",
+      "REF-0084",
+      "REF-0105",
+      "REF-0152",
+      "REF-0190",
+      "REF-0230"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Flaxseed oil",
+     "text": "Typical study doses for omega-3 intake have used roughly 1-2 tablespoons (about 10-15 mL) daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Lignans (secoisolariciresinol diglucoside, SDG)",
+     "compounds": [
+      "lignan"
+     ],
+     "note": "Flax is the richest dietary source of SDG-type lignans, converted by gut bacteria to the mammalian lignans enterodiol and enterolactone; studied for antioxidant and hormone-modulating activity.",
+     "reference_ids": [
+      "REF-2218"
+     ]
+    },
+    {
+     "name": "Alpha-linolenic acid (omega-3 fatty acid)",
+     "note": "The dominant fatty acid of the seed oil (~50-55% of total oil), a plant-based omega-3 studied for cardiovascular and anti-inflammatory effects.",
+     "reference_ids": [
+      "REF-2217",
+      "REF-2220"
+     ]
+    },
+    {
+     "name": "Mucilage polysaccharides",
+     "compounds": [
+      "mucilage",
+      "polysaccharide"
+     ],
+     "note": "Concentrated in the seed coat; gives flaxseed its demulcent, laxative, bulk-forming action.",
+     "reference_ids": [
+      "REF-2220"
+     ]
+    },
+    {
+     "name": "Cyanogenic glycosides (linamarin, linustatin)",
+     "compounds": [
+      "glycoside"
+     ],
+     "note": "Present at low levels; cooking/roasting reduces them to negligible amounts in normal food use - a theoretical concern only at high raw intakes.",
+     "reference_ids": [
+      "REF-2222"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -32366,7 +32493,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "flaxseed"
   },
   {
@@ -32807,6 +32934,68 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Evergreen shrub, 0.5-2 m tall, spreading by underground rhizomes to form thickets. The pinnate leaves resemble holly, with 5-9 glossy, dark green, spiny-toothed leaflets that often turn bronze-red in winter. Small, bright yellow, six-petalled flowers are borne in dense, upright terminal racemes in early spring, followed by clusters of blue-black, grape-like berries with a waxy bloom. The wood and inner bark of the stem and root are bright yellow when cut, owing to their high content of berberine-type alkaloids.",
+    "height": "0.5-2 m",
+    "habit": "Evergreen, rhizomatous, colony-forming shrub",
+    "leaves": "Pinnate, holly-like, 5-9 glossy dark green spiny-toothed leaflets",
+    "flowers": "Small, bright yellow, six-petalled, in dense upright terminal racemes",
+    "stem": "Woody; wood and inner bark bright yellow when cut",
+    "root": "Woody, rhizomatous, bright yellow within (berberine-type alkaloids)",
+    "fruit": "Clusters of blue-black, grape-like berries with a waxy bloom",
+    "flowering_period": "Early spring (March-April)",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to the Pacific Northwest of North America, growing in coniferous woodland understorey, forest margins and rocky slopes; widely introduced and naturalised as an ornamental and hedging shrub in temperate regions elsewhere.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The root and root bark, the medicinal parts, are dug from established plants - traditionally in autumn - and dried. Because wild populations are slow-growing, cultivated or nursery-sourced material is preferred over wild-harvesting.",
+    "parts": [
+     "Root",
+     "Bark"
+    ],
+    "season": "Autumn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Oregon grape root has a traditional Native American and Eclectic-medicine history as a bitter tonic and alterative (blood-purifying) remedy and for skin conditions. Its main modern use, supported by clinical trials, is topical application of a standardised bark extract for mild-to-moderate psoriasis and atopic dermatitis (eczema), where its berberine-type alkaloids give anti-inflammatory and antiproliferative effects on skin cells.",
+    "reference_ids": [
+     "REF-0487",
+     "REF-0488",
+     "REF-1173"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Topical cream/ointment",
+     "text": "A standardised 10% Mahonia aquifolium bark extract cream, the best-studied form, applied to affected skin up to three times daily for psoriasis or eczema.",
+     "reference_ids": [
+      "REF-0487",
+      "REF-0591",
+      "REF-1173"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture/decoction of root bark",
+     "text": "Traditional internal preparation of the dried root bark as a bitter tonic; far less studied than the topical form.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Topical 10% extract cream",
+     "text": "Clinical trials in psoriasis and eczema have used a 10% Mahonia aquifolium bark extract cream applied to affected areas up to three times daily. Educational reference only, not a prescription; internal use is not well studied and should be supervised.",
+     "reference_ids": [
+      "REF-0487",
+      "REF-0591"
+     ],
+     "status": "verified"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -32958,7 +33147,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "oregon-grape"
   },
   {
@@ -33020,6 +33209,81 @@
      "reference_ids": [
       "REF-0480"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Biennial or short-lived perennial herb, 30-120 cm tall, with erect or sprawling, branched, often reddish stems. Leaves are alternate, long-stalked and palmately lobed with 5-7 shallow rounded lobes and toothed margins. Flowers are pink-purple with darker veining, with five notch-tipped petals borne in small axillary clusters. The fruit is a flattened, disc-shaped schizocarp ('cheese') that splits into a ring of small single-seeded nutlets.",
+    "height": "30-120 cm",
+    "habit": "Erect to sprawling biennial/perennial herb",
+    "leaves": "Alternate, long-stalked, palmately 5-7-lobed with toothed margins",
+    "flowers": "Pink-purple with darker veins, five notched petals, in small axillary clusters",
+    "stem": "Erect or sprawling, branched, often reddish",
+    "root": "Taproot",
+    "fruit": "Flattened disc-shaped schizocarp ('cheese') of small nutlets",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-1184"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Common on roadsides, waste ground, hedgebanks and field margins across Europe, North Africa and temperate Asia, and widely naturalised elsewhere; tolerates a wide range of soils, favouring sunny, disturbed, nitrogen-rich sites.",
+    "reference_ids": [
+     "REF-1184"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves and flowers are gathered during the flowering period (summer) and dried quickly out of direct sun to preserve their mucilage content; fresh material can also be used directly for infusions or poultices.",
+    "parts": [
+     "Leaf",
+     "Flower"
+    ],
+    "season": "Summer, during flowering",
+    "reference_ids": [
+     "REF-0480"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Mallow leaf and flower have a long ethnobotanical history across Europe as a demulcent for irritated mucous membranes - soothing coughs, sore throat and mouth irritation - and for occasional constipation and skin irritation, reflecting the mucilage-rich leaf and flower. Modern phytochemical and pharmacological work confirms antioxidant, anti-inflammatory, antimicrobial and wound-healing activity of its extracts.",
+    "reference_ids": [
+     "REF-1184",
+     "REF-0480"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (hot)",
+     "text": "Dried leaf and/or flower steeped in hot water as a traditional soothing tea for cough, sore throat and mild digestive irritation.",
+     "reference_ids": [
+      "REF-0480"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Cold macerate",
+     "text": "Leaf/flower soaked in cold water for several hours, a traditional technique that preserves more of the heat-sensitive mucilage than a hot infusion.",
+     "status": "draft"
+    },
+    {
+     "name": "Poultice/compress",
+     "text": "Crushed fresh or softened dried leaf applied externally to soothe irritated or inflamed skin.",
+     "reference_ids": [
+      "REF-1189"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "EMA herbal-monograph guidance suggests roughly 1.5-2 g of dried leaf or flower per cup, taken as an infusion up to 3 times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0480"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -33271,7 +33535,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "mallow"
   },
   {
@@ -33321,6 +33585,84 @@
      "reference_ids": [
       "REF-0469"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Perennial herb, 20-60 cm tall, with square, densely white-woolly (tomentose) stems characteristic of the mint family. Leaves are opposite, ovate-rounded, crinkled and coarsely toothed, grey-green and woolly beneath, with a strong bitter, slightly musky smell when crushed. Small white, two-lipped flowers are clustered in dense whorls (verticillasters) in the leaf axils up the stem. The fruit splits into four small nutlets typical of the Lamiaceae.",
+    "height": "20-60 cm",
+    "habit": "Erect, bushy, white-woolly perennial herb",
+    "leaves": "Opposite, ovate-rounded, crinkled, coarsely toothed, woolly beneath",
+    "flowers": "Small, white, two-lipped, in dense axillary whorls (verticillasters)",
+    "stem": "Square, densely white-woolly (tomentose)",
+    "root": "Fibrous perennial rootstock",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "June-October",
+    "reference_ids": [
+     "REF-0468"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe, North Africa and temperate Asia and widely naturalised elsewhere, growing on dry, disturbed, sunny ground - roadsides, waste places, pastures and rocky or sandy soils.",
+    "reference_ids": [
+     "REF-0468",
+     "REF-0927"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut during the flowering season (summer), when bitter marrubiin content is highest, and dried promptly out of direct sunlight; harvest site and season measurably affect the marrubiin and antioxidant content of the dried herb.",
+    "parts": [
+     "Aerial parts"
+    ],
+    "season": "Summer, during flowering",
+    "reference_ids": [
+     "REF-0468",
+     "REF-0927"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "White horehound has a long European and Mediterranean folk-medicine history as a bitter expectorant for coughs, bronchitis and catarrh, and as a digestive bitter for poor appetite and dyspepsia. It is one of the classic ingredients of traditional cough syrups and horehound candy. A modern critical review found reasonable, though not conclusive, scientific support for these traditional respiratory and digestive uses.",
+    "reference_ids": [
+     "REF-0468",
+     "REF-0469",
+     "REF-0921"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried aerial parts steeped in hot water as a bitter digestive and expectorant tea.",
+     "reference_ids": [
+      "REF-0468"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction/syrup",
+     "text": "A stronger decoction, traditionally sweetened into a syrup (or made into horehound candy), for cough and sore throat.",
+     "reference_ids": [
+      "REF-0469"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried aerial parts, taken as a bitter digestive.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "EMA/ESCOP herbal-monograph guidance suggests about 1.5-2 g of dried aerial parts per cup, as an infusion up to 3 times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0468",
+      "REF-0469"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -33502,7 +33844,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "horehound"
   },
   {
@@ -33518,6 +33860,146 @@
    "family": "Asteraceae",
    "parts_used": [
     "Flower"
+   ],
+   "botanical_description": {
+    "text": "Aromatic annual herb, 15-60 cm tall, with an erect, much-branched, hairless stem. Leaves are alternate and finely bi- to tripinnately divided into thread-like segments, giving a feathery appearance. Flower heads are small daisy-like composites, 1-2.5 cm across, with white ray florets that reflex sharply downward as the flower matures around a conical, hollow, yellow disc of tubular florets - the hollow, conical receptacle is a key feature distinguishing German chamomile from similar-looking daisies. The fruit is a tiny ribbed achene without a pappus.",
+    "height": "15-60 cm",
+    "habit": "Erect, much-branched, aromatic annual herb",
+    "leaves": "Alternate, finely 2-3-pinnately divided into thread-like segments",
+    "flowers": "Small daisy-like heads with downward-reflexed white ray florets around a conical hollow yellow disc",
+    "stem": "Erect, much-branched, hairless",
+    "root": "Slender taproot",
+    "fruit": "Tiny ribbed achene, no pappus",
+    "flowering_period": "May-August",
+    "reference_ids": [
+     "REF-1153",
+     "REF-1162"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe and western Asia and now naturalised worldwide, growing on disturbed, sunny ground - arable field margins, waste places, roadsides and sandy or loamy soils; widely cultivated as a medicinal crop.",
+    "reference_ids": [
+     "REF-1153",
+     "REF-1158"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flower heads are hand- or machine-harvested at full bloom, when the ray florets are horizontal and just beginning to reflex, then dried quickly at low temperature and out of direct light to preserve the volatile oil.",
+    "parts": [
+     "Flower heads"
+    ],
+    "season": "Late spring to summer, at full bloom",
+    "reference_ids": [
+     "REF-1158"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Chamomile is one of the most widely used medicinal herbs in the world, with a long traditional history as a mild digestive, calming and anti-inflammatory remedy - taken as a tea for indigestion, cramping, and restlessness or poor sleep, and applied topically for skin and mucous-membrane inflammation and wound healing. Modern reviews confirm anti-inflammatory, antispasmodic, sedative/anxiolytic and antimicrobial pharmacological activity supporting these traditional uses.",
+    "reference_ids": [
+     "REF-1153",
+     "REF-1158",
+     "REF-1162"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried flower heads steeped in hot water, the classic way of taking chamomile for digestive complaints, mild anxiety and sleep support.",
+     "reference_ids": [
+      "REF-1158",
+      "REF-1162"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the flower heads; a concentrated source of alpha-bisabolol and chamazulene, used mainly in topical and aromatherapy preparations.",
+     "reference_ids": [
+      "REF-1153"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Topical cream/compress",
+     "text": "Concentrated extract or infused oil applied to skin, or as a compress - a randomised controlled trial found a topical chamomile oil preparation effective for knee osteoarthritis pain.",
+     "reference_ids": [
+      "REF-2349"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Mouthwash/gargle",
+     "text": "Infusion used as a mouthwash or gargle, traditionally for mouth and throat irritation.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Traditional guidance and Duke (2002) suggest about 3 g of dried flower heads per cup of water, taken up to three times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0079",
+      "REF-0112",
+      "REF-0189",
+      "REF-0231",
+      "REF-0280"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (alpha-bisabolol, chamazulene)",
+     "compounds": [
+      "essential-oil",
+      "bisabolol",
+      "chamazulene"
+     ],
+     "note": "The volatile oil, concentrated in the flower head, gives chamomile its characteristic blue colour (chamazulene) and much of its anti-inflammatory activity (alpha-bisabolol).",
+     "reference_ids": [
+      "REF-1153",
+      "REF-1158"
+     ]
+    },
+    {
+     "name": "Flavonoids (apigenin, quercetin, luteolin, rutin)",
+     "compounds": [
+      "apigenin",
+      "quercetin",
+      "luteolin",
+      "rutin",
+      "flavonoid"
+     ],
+     "note": "Apigenin is considered a key contributor to chamomile's sedative/anxiolytic activity via GABA-A receptor binding.",
+     "reference_ids": [
+      "REF-1162"
+     ]
+    },
+    {
+     "name": "Coumarins",
+     "compounds": [
+      "coumarin"
+     ],
+     "note": "Minor constituents (e.g. herniarin, umbelliferone) contributing to the mild antispasmodic action.",
+     "reference_ids": [
+      "REF-1158"
+     ]
+    },
+    {
+     "name": "Mucilage polysaccharides",
+     "compounds": [
+      "mucilage",
+      "polysaccharide"
+     ],
+     "note": "Contribute to the soothing, demulcent effect on irritated mucous membranes.",
+     "reference_ids": [
+      "REF-1162"
+     ]
+    }
    ],
    "actions": [
     {
@@ -34043,7 +34525,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "chamomile"
   },
   {

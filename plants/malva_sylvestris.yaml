@@ -40,6 +40,73 @@ constituents:
   note: Mildly astringent constituents.
   reference_ids:
   - REF-0480
+botanical_description:
+  text: Biennial or short-lived perennial herb, 30-120 cm tall, with erect or sprawling, branched, often
+    reddish stems. Leaves are alternate, long-stalked and palmately lobed with 5-7 shallow rounded lobes
+    and toothed margins. Flowers are pink-purple with darker veining, with five notch-tipped petals borne
+    in small axillary clusters. The fruit is a flattened, disc-shaped schizocarp ('cheese') that splits
+    into a ring of small single-seeded nutlets.
+  height: 30-120 cm
+  habit: Erect to sprawling biennial/perennial herb
+  leaves: Alternate, long-stalked, palmately 5-7-lobed with toothed margins
+  flowers: Pink-purple with darker veins, five notched petals, in small axillary clusters
+  stem: Erect or sprawling, branched, often reddish
+  root: Taproot
+  fruit: Flattened disc-shaped schizocarp ('cheese') of small nutlets
+  flowering_period: June-September
+  reference_ids:
+  - REF-1184
+  status: verified
+habitat:
+  text: Common on roadsides, waste ground, hedgebanks and field margins across Europe, North Africa and
+    temperate Asia, and widely naturalised elsewhere; tolerates a wide range of soils, favouring sunny,
+    disturbed, nitrogen-rich sites.
+  reference_ids:
+  - REF-1184
+  status: verified
+harvesting:
+  text: Leaves and flowers are gathered during the flowering period (summer) and dried quickly out of
+    direct sun to preserve their mucilage content; fresh material can also be used directly for infusions
+    or poultices.
+  parts:
+  - Leaf
+  - Flower
+  season: Summer, during flowering
+  reference_ids:
+  - REF-0480
+  status: verified
+traditional_uses:
+  text: Mallow leaf and flower have a long ethnobotanical history across Europe as a demulcent for irritated
+    mucous membranes - soothing coughs, sore throat and mouth irritation - and for occasional constipation
+    and skin irritation, reflecting the mucilage-rich leaf and flower. Modern phytochemical and pharmacological
+    work confirms antioxidant, anti-inflammatory, antimicrobial and wound-healing activity of its extracts.
+  reference_ids:
+  - REF-1184
+  - REF-0480
+  status: verified
+preparations:
+- name: Infusion (hot)
+  text: Dried leaf and/or flower steeped in hot water as a traditional soothing tea for cough, sore throat
+    and mild digestive irritation.
+  reference_ids:
+  - REF-0480
+  status: verified
+- name: Cold macerate
+  text: Leaf/flower soaked in cold water for several hours, a traditional technique that preserves more
+    of the heat-sensitive mucilage than a hot infusion.
+  status: draft
+- name: Poultice/compress
+  text: Crushed fresh or softened dried leaf applied externally to soothe irritated or inflamed skin.
+  reference_ids:
+  - REF-1189
+  status: draft
+dosage:
+- name: Infusion
+  text: EMA herbal-monograph guidance suggests roughly 1.5-2 g of dried leaf or flower per cup, taken
+    as an infusion up to 3 times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0480
+  status: verified
 actions:
 - action: analgesic
   note: Anti-inflammatory, analgesic and wound-healing (preclinical)
@@ -199,7 +266,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium
   / flos). Further enriched 2026-06-13 with two PubMed phytochemistry/pharmacology reviews (REF-0541,
   Paul et al. 2024; REF-0542, Batiha et al. 2022) that added antioxidant, antibacterial and anti-inflammatory/analgesic
@@ -209,4 +276,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1183, REF-1184, REF-1185, REF-1186, REF-1187,
   REF-1188, REF-1189, REF-1190, REF-1191, REF-1192) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0480) and ethnobotanical review
+  (REF-1184).'

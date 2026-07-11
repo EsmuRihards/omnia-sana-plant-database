@@ -9,6 +9,124 @@ common_names:
 family: Asteraceae
 parts_used:
 - Flower
+botanical_description:
+  text: Aromatic annual herb, 15-60 cm tall, with an erect, much-branched, hairless stem. Leaves are alternate
+    and finely bi- to tripinnately divided into thread-like segments, giving a feathery appearance. Flower
+    heads are small daisy-like composites, 1-2.5 cm across, with white ray florets that reflex sharply
+    downward as the flower matures around a conical, hollow, yellow disc of tubular florets - the hollow,
+    conical receptacle is a key feature distinguishing German chamomile from similar-looking daisies.
+    The fruit is a tiny ribbed achene without a pappus.
+  height: 15-60 cm
+  habit: Erect, much-branched, aromatic annual herb
+  leaves: Alternate, finely 2-3-pinnately divided into thread-like segments
+  flowers: Small daisy-like heads with downward-reflexed white ray florets around a conical hollow yellow
+    disc
+  stem: Erect, much-branched, hairless
+  root: Slender taproot
+  fruit: Tiny ribbed achene, no pappus
+  flowering_period: May-August
+  reference_ids:
+  - REF-1153
+  - REF-1162
+  status: verified
+habitat:
+  text: Native to Europe and western Asia and now naturalised worldwide, growing on disturbed, sunny ground
+    - arable field margins, waste places, roadsides and sandy or loamy soils; widely cultivated as a medicinal
+    crop.
+  reference_ids:
+  - REF-1153
+  - REF-1158
+  status: verified
+harvesting:
+  text: Flower heads are hand- or machine-harvested at full bloom, when the ray florets are horizontal
+    and just beginning to reflex, then dried quickly at low temperature and out of direct light to preserve
+    the volatile oil.
+  parts:
+  - Flower heads
+  season: Late spring to summer, at full bloom
+  reference_ids:
+  - REF-1158
+  status: verified
+traditional_uses:
+  text: Chamomile is one of the most widely used medicinal herbs in the world, with a long traditional
+    history as a mild digestive, calming and anti-inflammatory remedy - taken as a tea for indigestion,
+    cramping, and restlessness or poor sleep, and applied topically for skin and mucous-membrane inflammation
+    and wound healing. Modern reviews confirm anti-inflammatory, antispasmodic, sedative/anxiolytic and
+    antimicrobial pharmacological activity supporting these traditional uses.
+  reference_ids:
+  - REF-1153
+  - REF-1158
+  - REF-1162
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried flower heads steeped in hot water, the classic way of taking chamomile for digestive complaints,
+    mild anxiety and sleep support.
+  reference_ids:
+  - REF-1158
+  - REF-1162
+  status: verified
+- name: Essential oil
+  text: Steam-distilled from the flower heads; a concentrated source of alpha-bisabolol and chamazulene,
+    used mainly in topical and aromatherapy preparations.
+  reference_ids:
+  - REF-1153
+  status: verified
+- name: Topical cream/compress
+  text: Concentrated extract or infused oil applied to skin, or as a compress - a randomised controlled
+    trial found a topical chamomile oil preparation effective for knee osteoarthritis pain.
+  reference_ids:
+  - REF-2349
+  status: verified
+- name: Mouthwash/gargle
+  text: Infusion used as a mouthwash or gargle, traditionally for mouth and throat irritation.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Traditional guidance and Duke (2002) suggest about 3 g of dried flower heads per cup of water,
+    taken up to three times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0079
+  - REF-0112
+  - REF-0189
+  - REF-0231
+  - REF-0280
+  status: verified
+constituents:
+- name: Essential oil (alpha-bisabolol, chamazulene)
+  compounds:
+  - essential-oil
+  - bisabolol
+  - chamazulene
+  note: The volatile oil, concentrated in the flower head, gives chamomile its characteristic blue colour
+    (chamazulene) and much of its anti-inflammatory activity (alpha-bisabolol).
+  reference_ids:
+  - REF-1153
+  - REF-1158
+- name: Flavonoids (apigenin, quercetin, luteolin, rutin)
+  compounds:
+  - apigenin
+  - quercetin
+  - luteolin
+  - rutin
+  - flavonoid
+  note: Apigenin is considered a key contributor to chamomile's sedative/anxiolytic activity via GABA-A
+    receptor binding.
+  reference_ids:
+  - REF-1162
+- name: Coumarins
+  compounds:
+  - coumarin
+  note: Minor constituents (e.g. herniarin, umbelliferone) contributing to the mild antispasmodic action.
+  reference_ids:
+  - REF-1158
+- name: Mucilage polysaccharides
+  compounds:
+  - mucilage
+  - polysaccharide
+  note: Contribute to the soothing, demulcent effect on irritated mucous membranes.
+  reference_ids:
+  - REF-1162
 actions:
 - action: analgesic
   reference_ids:
@@ -332,7 +450,9 @@ references:
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'Chamomile contains natural coumarin constituents and has been linked in a case report to increased bleeding when taken with warfarin, so caution is advised when combining it with anticoagulant or antiplatelet drugs.'
+  mechanism: Chamomile contains natural coumarin constituents and has been linked in a case report to
+    increased bleeding when taken with warfarin, so caution is advised when combining it with anticoagulant
+    or antiplatelet drugs.
   reference_ids:
   - REF-2447
   status: approved
@@ -340,7 +460,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Chamomile has calming, sedative effects (a randomised controlled trial found it reduces generalised-anxiety symptoms); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Chamomile has calming, sedative effects (a randomised controlled trial found it reduces generalised-anxiety
+    symptoms); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including
+    alcohol) it may add to drowsiness and slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -350,7 +472,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Chamomile improved blood-sugar control (lower HbA1c and insulin resistance) in a trial in type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
+  mechanism: Chamomile improved blood-sugar control (lower HbA1c and insulin resistance) in a trial in
+    type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood
+    sugar.
   reference_ids:
   - REF-2501
   status: approved
@@ -359,7 +483,8 @@ drug_class_interactions:
 pairings:
 - partner_id: valeriana-officinalis
   type: synergy
-  note: 'Chamomile and valerian are both traditional mild sedatives for restlessness and poor sleep; taken together they may enhance calming and sleep effects but also add to drowsiness.'
+  note: Chamomile and valerian are both traditional mild sedatives for restlessness and poor sleep; taken
+    together they may enhance calming and sleep effects but also add to drowsiness.
   reference_ids:
   - REF-2460
   status: approved
@@ -367,7 +492,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: melissa-officinalis
   type: synergy
-  note: 'Chamomile and lemon balm are both gentle calming herbs commonly combined for stress and sleep; used together their mild sedative effects may add up.'
+  note: Chamomile and lemon balm are both gentle calming herbs commonly combined for stress and sleep;
+    used together their mild sedative effects may add up.
   reference_ids:
   - REF-2460
   status: approved
@@ -375,7 +501,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: passiflora-incarnata
   type: synergy
-  note: 'Chamomile and passionflower are both gentle calming, sleep-supporting herbs traditionally combined; used together they may reinforce each other''s soothing, sleep-promoting effect.'
+  note: Chamomile and passionflower are both gentle calming, sleep-supporting herbs traditionally combined;
+    used together they may reinforce each other's soothing, sleep-promoting effect.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -388,7 +515,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -398,4 +525,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1158, REF-1159, REF-1160, REF-1161, REF-1162) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-06-27: enriched to >=15 scientific publications: added 4 PubMed-verified
   @article sources (REF-1155, REF-1160, REF-2348, REF-2349) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing ethnomedicinal/phytochemical reviews (REF-1153, REF-1158,
+  REF-1162) and book refs.'

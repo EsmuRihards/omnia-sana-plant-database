@@ -9,6 +9,114 @@ family: Linaceae
 parts_used:
 - Seed
 - Young sprouts
+botanical_description:
+  text: Erect annual herb, slender and often branched near the top, growing 30-80 (up to 100) cm tall
+    from a fine taproot. Leaves are alternate, sessile, narrowly lanceolate to linear, blue-green and
+    entire-margined. Flowers are pale blue (occasionally white or pink), five-petalled and borne on slender
+    stalks in loose terminal cymes. The fruit is a small globular capsule ('boll') that splits into ten
+    compartments, each containing one flattened, glossy, red-brown seed.
+  height: 30-80 (up to 100) cm
+  habit: Erect, slender annual herb
+  leaves: Alternate, sessile, narrowly lanceolate to linear, blue-green, entire
+  flowers: Pale blue (occasionally white or pink), five-petalled, in loose terminal cymes
+  stem: Slender, erect, often branched above
+  root: Fine taproot
+  fruit: Globular capsule ('boll') splitting into ten compartments, each with one flattened glossy red-brown
+    seed
+  flowering_period: June-August
+  reference_ids:
+  - REF-2220
+  status: verified
+habitat:
+  text: Native to the Mediterranean region and the Fertile Crescent, cultivated since prehistory for fibre
+    and oil and now grown worldwide in temperate regions with well-drained, fertile soils and a cool,
+    moist growing season; occasionally found as a naturalised escape on waste and cultivated ground.
+  reference_ids:
+  - REF-2220
+  status: verified
+harvesting:
+  text: Grown as an annual crop, seed is harvested once the capsules ('bolls') have dried and turned brown,
+    typically in late summer, by cutting or combining the whole plant and threshing out the seed. Whole
+    seed stores well; it should only be ground shortly before use, since the oil in ground seed oxidises
+    and turns rancid quickly.
+  parts:
+  - Seed
+  season: Late summer, once bolls have dried
+  reference_ids:
+  - REF-2217
+  status: verified
+traditional_uses:
+  text: Flaxseed has a long history of traditional use as a bulk-forming laxative and demulcent for constipation
+    and irritated gut mucosa, and as a poultice for boils and inflamed skin. Modern interest centres on
+    its lignan (secoisolariciresinol diglucoside) and alpha-linolenic acid content, studied for cardiovascular,
+    metabolic and hormone-related outcomes.
+  reference_ids:
+  - REF-2217
+  - REF-2219
+  - REF-2220
+  status: verified
+preparations:
+- name: Ground seed ('flax meal')
+  text: Whole seed freshly ground (milled) and taken with plenty of liquid, or stirred into food; grinding
+    is needed to make the oil and lignans bioavailable, as whole seeds largely pass through the gut undigested.
+  reference_ids:
+  - REF-2217
+  status: verified
+- name: Flaxseed oil
+  text: Cold-pressed oil taken as a concentrated source of alpha-linolenic acid (omega-3); lacks the fibre
+    and lignan content of the whole ground seed.
+  reference_ids:
+  - REF-2220
+  status: verified
+- name: Poultice
+  text: Crushed or ground seed made into a warm paste and applied externally to boils and inflamed skin
+    - a traditional demulcent, soothing application.
+  status: draft
+dosage:
+- name: Ground seed
+  text: Traditional guidance and Duke (2002) suggest 1-2 tablespoons of ground seed with ample water,
+    once or twice daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0001
+  - REF-0039
+  - REF-0084
+  - REF-0105
+  - REF-0152
+  - REF-0190
+  - REF-0230
+  status: verified
+- name: Flaxseed oil
+  text: Typical study doses for omega-3 intake have used roughly 1-2 tablespoons (about 10-15 mL) daily.
+    Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Lignans (secoisolariciresinol diglucoside, SDG)
+  compounds:
+  - lignan
+  note: Flax is the richest dietary source of SDG-type lignans, converted by gut bacteria to the mammalian
+    lignans enterodiol and enterolactone; studied for antioxidant and hormone-modulating activity.
+  reference_ids:
+  - REF-2218
+- name: Alpha-linolenic acid (omega-3 fatty acid)
+  note: The dominant fatty acid of the seed oil (~50-55% of total oil), a plant-based omega-3 studied
+    for cardiovascular and anti-inflammatory effects.
+  reference_ids:
+  - REF-2217
+  - REF-2220
+- name: Mucilage polysaccharides
+  compounds:
+  - mucilage
+  - polysaccharide
+  note: Concentrated in the seed coat; gives flaxseed its demulcent, laxative, bulk-forming action.
+  reference_ids:
+  - REF-2220
+- name: Cyanogenic glycosides (linamarin, linustatin)
+  compounds:
+  - glycoside
+  note: Present at low levels; cooking/roasting reduces them to negligible amounts in normal food use
+    - a theoretical concern only at high raw intakes.
+  reference_ids:
+  - REF-2222
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -185,7 +293,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -193,4 +301,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-2216, REF-2217, REF-2218, REF-2219, REF-2220,
   REF-2221, REF-2222, REF-2223, REF-2224, REF-2225) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing reference bucket (REF-2216..2225) plus prior book refs.'

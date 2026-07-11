@@ -25,30 +25,31 @@ constituents:
   reference_ids:
   - REF-0521
 botanical_description:
-  text: Low, sprawling perennial herb with slender, wiry stems and small, deeply toothed, palmately divided
-    leaves typically in fours (unusual among cinquefoils, which usually have five leaflets - hence 'septfoil').
-    Small, bright yellow, four-petalled flowers are borne singly on long thin stalks.
-  height: 10-30 cm (sprawling)
-  habit: Low, sprawling perennial herb
-  leaves: Small, deeply toothed, palmately divided, typically in fours
-  flowers: Small, bright yellow, four-petalled, borne singly on long thin stalks
-  stem: Slender, wiry, sprawling
-  root: Thick, woody, reddish-brown rhizome (the medicinal part), red inside when cut
-  fruit: Small cluster of achenes
+  text: Low, sprawling to semi-erect perennial herb (Rosaceae) with wiry stems. Leaves are palmate, typically
+    with 4-5 leaflets and large leaf-like stipules that give the impression of more leaflets. Flowers
+    are small, yellow and four-petalled - unusual among Potentilla species, most of which have five petals.
+    The thick, woody rhizome is reddish inside when cut, the origin of the old name 'bloodroot' for this
+    European species.
+  height: Low, sprawling to semi-erect, stems to about 30-45 cm
+  habit: Low, sprawling to semi-erect perennial herb
+  leaves: Palmate, typically 4-5 leaflets, with large leaf-like stipules
+  flowers: Small, yellow, four-petalled (unusual among Potentilla species)
+  stem: Wiry, sprawling to semi-erect
+  root: Thick, woody rhizome, reddish inside when cut
+  fruit: Small dry achenes (typical Rosaceae)
   flowering_period: May-September
   reference_ids:
   - REF-0520
   status: verified
 habitat:
-  text: Grows on heath, moorland, acidic grassland, open woodland and pastures on well-drained, often
-    poor or acidic soils; native to Europe and Western Asia.
+  text: Native to Europe and western Asia, common in acidic grassland, heath, moorland, open woodland
+    and pastures on poor, well-drained soils.
   reference_ids:
   - REF-0520
   status: verified
 harvesting:
   text: The rhizome is dug in autumn or early spring, when tannin content is highest, then cleaned and
-    dried; the reddish colour revealed when cut is the traditional identifying feature giving the plant
-    its old name 'bloodroot'.
+    dried.
   parts:
   - Rhizome
   season: Autumn or early spring
@@ -56,29 +57,40 @@ harvesting:
   - REF-0520
   status: verified
 traditional_uses:
-  text: Tormentil rhizome, one of the most tannin-rich temperate roots, has a long European folk and official
-    (EU herbal monograph) use as a powerful astringent for mild diarrhoea, and as a gargle or mouthwash
-    for inflammation of the mouth and throat, reflecting its very high tannin content.
+  text: Tormentil rhizome has an official European herbal-monograph tradition for mild diarrhoea and inflammation
+    of the mouth and throat, reflecting its long folk use as a powerful astringent for gut and mucous-membrane
+    complaints. Modern trials confirm its ellagitannin-rich rhizome shortens the duration of infectious
+    (rotavirus) diarrhoea.
   reference_ids:
   - REF-0520
+  - REF-0521
+  - REF-0602
   status: verified
 preparations:
 - name: Decoction
-  text: Dried, chopped rhizome simmered in water as a strongly astringent traditional remedy for diarrhoea,
-    or used as a gargle/mouthwash for sore throat.
+  text: Dried rhizome simmered in water, the standard astringent preparation for diarrhoea.
   reference_ids:
   - REF-0520
   status: verified
 - name: Tincture
-  text: Alcoholic extract of the dried rhizome.
-  status: draft
+  text: Alcoholic extract, taken diluted or used as a gargle/mouthwash.
+  reference_ids:
+  - REF-0521
+  status: verified
+- name: Gargle/mouthwash
+  text: Diluted decoction or tincture used for sore throat and mouth inflammation.
+  reference_ids:
+  - REF-0521
+  status: verified
 dosage:
-- name: Decoction/gargle
-  text: The EU herbal monograph describes traditional use of about 2-4 g dried rhizome per cup, up to
-    three times daily, or used as a gargle. Educational reference only, not a prescription.
+- name: Decoction/tincture
+  text: EMA/ESCOP guidance suggests around 4-6 g dried rhizome (or an equivalent decoction), divided into
+    2-3 doses daily, for diarrhoea, or a diluted tincture used as a gargle several times daily. Educational
+    reference only, not a prescription.
   reference_ids:
   - REF-0520
-  status: draft
+  - REF-0521
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory gargle / mouthwash for sore throat and inflammation of the mouth and throat
@@ -214,6 +226,4 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
   sourced from the existing EMA HMPC (REF-0520) and ESCOP (REF-0521) monographs plus the paediatric diarrhoea
-  RCT (REF-0602). | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy.'
+  RCT (REF-0602).'

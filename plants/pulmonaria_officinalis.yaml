@@ -30,6 +30,69 @@ constituents:
   reference_ids:
   - REF-0479
   - REF-1545
+botanical_description:
+  text: Low, hairy perennial herb (Boraginaceae), 15-30 cm tall. Basal leaves are long-stalked, ovate
+    to lance-shaped, often white-spotted - the spotted pattern was historically likened to diseased lung
+    tissue under the medieval Doctrine of Signatures, giving rise to the name 'lungwort' - and covered
+    in bristly hairs. Funnel-shaped flowers open pink and turn blue as they mature, borne in small coiled
+    clusters (cymes).
+  height: 15-30 cm
+  habit: Low, hairy perennial herb
+  leaves: Long-stalked, ovate to lance-shaped, often white-spotted, bristly-hairy
+  flowers: Funnel-shaped, opening pink and turning blue with age, in small coiled cymes
+  stem: Hairy, low-growing
+  root: Short rhizome with fibrous roots
+  fruit: Small nutlets (typical Boraginaceae)
+  flowering_period: March-May
+  reference_ids:
+  - REF-0479
+  status: verified
+habitat:
+  text: Native to central and southern Europe, growing in damp, shaded woodland, hedgebanks and scrub
+    on humus-rich soils; widely cultivated as a shade garden plant.
+  reference_ids:
+  - REF-0479
+  status: verified
+harvesting:
+  text: Aerial flowering parts are cut during flowering (spring); the plant can also be gathered later
+    in the growing season, though the phenolic constituent profile is documented to differ measurably
+    between spring and autumn harvests.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Spring (flowering); constituent profile varies spring vs autumn
+  reference_ids:
+  - REF-0549
+  status: verified
+traditional_uses:
+  text: Lungwort's spotted leaves inspired its traditional use, under the Doctrine of Signatures, as a
+    remedy for lung and respiratory complaints - coughs, bronchitis, catarrh and sore throat - valued
+    for its soothing mucilage and astringent tannins. Modern research confirms antioxidant and anti-inflammatory
+    (COX-2-inhibiting) activity of its phenolic-rich extract, though clinical trial evidence in humans
+    remains limited.
+  reference_ids:
+  - REF-0479
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried aerial parts steeped in hot water, the traditional respiratory remedy.
+  reference_ids:
+  - REF-0479
+  status: verified
+- name: Fresh leaf
+  text: Occasionally used fresh in salads or soups, or as a poultice, in some traditional culinary and
+    topical uses.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried aerial parts.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Traditional guidance suggests roughly 2-4 g dried herb per cup as an infusion, up to three times
+    daily, for short-term use; avoid prolonged or high-dose internal use given the borage family's potential
+    pyrrolizidine-alkaloid content. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0479
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory (cyclooxygenase-2 inhibition) and antioxidant
@@ -131,7 +194,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study of Pulmonaria antioxidant
   and COX-2-inhibitory activity). Further enriched 2026-06-13 with a PubMed LC-MS/MS phenolic-constituents
   profiling study (REF-0549, Krzyzanowska-Kowalczyk et al. 2018). Lungwort is poorly covered by clinical
@@ -142,4 +205,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules study
   migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
   | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources (REF-1544,
   REF-1545, REF-1546, REF-1547, REF-1548, REF-1549, REF-1550, REF-1551, REF-1552) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing antioxidant/COX-2 study (REF-0479) and the spring/autumn
+  phenolic-profiling study (REF-0549).'

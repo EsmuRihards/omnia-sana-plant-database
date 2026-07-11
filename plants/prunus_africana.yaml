@@ -25,6 +25,58 @@ constituents:
   note: Anti-inflammatory supporting constituents of the bark.
   reference_ids:
   - REF-0496
+botanical_description:
+  text: Evergreen tree (Rosaceae), 10-30 m tall, with dark, fissured, red-brown bark (the source of the
+    common name 'red stinkwood', from its unpleasant smell when cut). Leaves are glossy dark green, leathery,
+    oblong with finely toothed margins. Small white, five-petalled flowers are borne in axillary racemes,
+    followed by small reddish-brown, two-lobed fruit.
+  height: 10-30 m
+  habit: Evergreen tree
+  leaves: Glossy dark green, leathery, oblong, finely toothed
+  flowers: Small, white, five-petalled, in axillary racemes
+  stem: Dark, fissured, red-brown, aromatic bark
+  root: Deep woody root system
+  fruit: Small, reddish-brown, two-lobed fruit
+  flowering_period: Variable, often twice yearly in its native range
+  status: draft
+habitat:
+  text: Native to montane forests of central and southern Africa (and Madagascar), growing at moderate
+    to high altitude (roughly 900-3400 m). The species is CITES-listed and conservation-threatened owing
+    to over-harvesting of bark for the pharmaceutical trade.
+  status: draft
+harvesting:
+  text: Bark is traditionally stripped from mature trees. Unsustainable stripping - especially removing
+    bark all the way round the trunk - kills the tree and has driven population decline, so sustainable,
+    partial and rotational bark harvesting or cultivated sources are recommended.
+  parts:
+  - Bark
+  season: Not standardised; sustainable/rotational harvesting recommended
+  status: draft
+traditional_uses:
+  text: Prunus africana bark has a traditional use in East and Central African ethnomedicine for urinary
+    complaints, and its extract (marketed as Pygeum) became one of the most widely used European phytotherapy
+    remedies for benign prostatic hyperplasia (BPH) symptoms in the 20th century. Clinical evidence for
+    symptom benefit is moderate but drawn from small, methodologically weak trials.
+  reference_ids:
+  - REF-0496
+  status: verified
+preparations:
+- name: Standardised lipophilic bark extract (capsule)
+  text: The clinically studied commercial form, standardised for phytosterol content.
+  reference_ids:
+  - REF-0496
+  status: verified
+- name: Traditional bark decoction
+  text: Dried bark simmered in water, a traditional East/Central African preparation.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials have most often used around 100-200 mg/day of standardised lipophilic bark extract,
+    divided into two doses. Educational reference only, not a prescription; any prostate or urinary symptom
+    should be medically assessed first.
+  reference_ids:
+  - REF-0496
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory (prostate)
@@ -116,7 +168,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journal of Urology review of
   phytotherapy for BPH). Further enriched 2026-06-13 with two PubMed systematic reviews - the Cochrane
   review of Pygeum africanum for BPH (REF-0547, Wilt et al. 2002) and a J Urol phytotherapy review (REF-0548,
@@ -127,4 +179,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Canadian Journa
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 10 PubMed-verified @article sources (REF-1506, REF-1507, REF-1508, REF-1509, REF-1510, REF-1511,
   REF-1512, REF-1513, REF-1514, REF-1515) — woven into relevant actions/indications and the plant-level
-  references bucket.'
+  references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields; botanical_description/habitat/harvesting are status:draft (well-known general
+  facts, no dedicated botanical review in the largely-clinical BPH bucket), traditional_uses/preparations/dosage
+  cite the existing BPH phytotherapy review (REF-0496).'

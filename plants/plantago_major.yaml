@@ -49,63 +49,73 @@ constituents:
   - REF-0364
   - REF-0354
 botanical_description:
-  text: Low, rosette-forming perennial herb with broad, oval to egg-shaped, strongly ribbed leaves on
-    long stalks, arising directly from the base. Tiny, greenish flowers are densely packed into a long,
-    slender, tapering spike atop a leafless flowering stalk.
-  height: 10-30 cm (flowering stalk taller)
-  habit: Low, rosette-forming perennial herb
-  leaves: Broad, oval to egg-shaped, strongly ribbed, long-stalked, in a basal rosette
-  flowers: Tiny, greenish, densely packed into a long, slender, tapering spike
-  stem: Long, leafless flowering stalk
-  root: Fibrous root system
-  fruit: Small capsule with numerous tiny seeds
-  flowering_period: June-October
+  text: Low, rosette-forming perennial herb (Plantaginaceae) with broad, oval to rounded leaves marked
+    by 5-9 prominent parallel ribs, borne on long, channelled petioles. Slender, leafless flowering spikes
+    rise from the rosette bearing tiny, densely packed greenish flowers, followed by small seed capsules.
+  height: Low rosette; flowering spikes 10-40 cm
+  habit: Low rosette-forming perennial herb
+  leaves: Broad, oval to rounded, 5-9-ribbed, long-petioled
+  flowers: Tiny, densely packed, greenish, in slender spikes
+  stem: Slender, leafless flowering spike
+  root: Fibrous perennial rootstock
+  fruit: Small seed capsule
+  flowering_period: June-September
   reference_ids:
   - REF-0364
   status: verified
 habitat:
-  text: One of the most common and widespread weeds in the world, growing on lawns, paths, waste ground
-    and compacted or disturbed soil; native to Europe and Asia and now found on every inhabited continent.
+  text: Native to Europe and temperate Asia and now one of the most widespread naturalised weeds worldwide
+    (the name 'waybread', or historically 'white man's foot', reflects its spread along paths and trails);
+    thrives on compacted, disturbed ground such as paths, lawns and roadsides.
   reference_ids:
   - REF-0364
   status: verified
 harvesting:
-  text: The leaves are picked fresh through the growing season for topical use, or dried for tea; the
-    seed is collected in autumn once the flower spikes have dried, by stripping the ripe spikes.
+  text: Leaves are gathered fresh throughout the growing season, especially for poultice use; seed is
+    collected in autumn once ripe.
   parts:
   - Leaf
   - Seed
-  season: Leaf through the growing season; seed in autumn
+  season: Leaf throughout the growing season; seed in autumn
   reference_ids:
   - REF-0364
   status: verified
 traditional_uses:
-  text: Greater plantain is one of the most widely used medicinal and edible plants in the world, with
-    a documented history of use across many cultures as a wound-healing vulnerary (the fresh leaf classically
-    chewed or crushed and applied to cuts, stings and bites), an astringent for mild diarrhoea, and a
-    demulcent expectorant for coughs and catarrh; the mucilaginous seed has also been used as a mild bulk
-    laxative, similarly to the related psyllium.
+  text: Greater plantain is one of the most widely used wound herbs across world folk-medicine traditions,
+    applied fresh as a poultice to cuts, stings and insect bites, and taken as a tea for cough, digestive
+    upset and mild diarrhoea. Modern reviews confirm broad anti-inflammatory, antimicrobial, antioxidant
+    and wound-healing activity supporting these traditional uses.
   reference_ids:
   - REF-0364
+  - REF-0354
   status: verified
 preparations:
 - name: Fresh leaf poultice
-  text: Fresh leaf crushed or chewed and applied directly to minor wounds, stings and insect bites, the
-    classic and most immediate traditional use.
+  text: Crushed or chewed fresh leaf applied directly to wounds, stings and insect bites - the classic
+    traditional first-aid use.
   reference_ids:
   - REF-0364
   status: verified
-- name: Infusion
-  text: Dried leaf infused in hot water as a traditional astringent and expectorant tea.
-  status: draft
-- name: Seed preparation
-  text: Whole or ground seed soaked in water and taken as a mild bulk laxative, similarly to psyllium.
-  status: draft
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water for cough, digestive complaints and mild diarrhoea.
+  reference_ids:
+  - REF-0357
+  - REF-0358
+  status: verified
+- name: Seed (bulk fibre)
+  text: The mucilaginous seed, related to psyllium, used traditionally as a mild bulk laxative.
+  reference_ids:
+  - REF-0358
+  status: verified
 dosage:
-- name: Infusion (leaf)
-  text: Traditional herbal references suggest around 2-3 g of dried leaf per cup, up to three times daily.
-    Educational reference only, not a prescription.
-  status: draft
+- name: Leaf tea / poultice
+  text: 'Duke (2002): leaf taken as a tea, or used fresh as a poultice, for wounds, sore throat and bronchial
+    conditions. Educational reference only, not a prescription.'
+  reference_ids:
+  - REF-0234
+  - REF-0260
+  - REF-0309
+  status: verified
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -346,7 +356,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1763, REF-1764, REF-1765, REF-1766, REF-1767, REF-1768, REF-1769) — woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing traditional-uses/chemical-constituents reviews (REF-0364,
-  REF-0354) and the Duke-sourced dosage already cited in contraindications. | 2026-07-11: added monograph-base
-  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
-  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+  REF-0354) and the Duke-sourced dosage already cited in contraindications.'

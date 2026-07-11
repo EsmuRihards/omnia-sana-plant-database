@@ -32,6 +32,70 @@ constituents:
     compounds; the bark extract also showed antiparasitic (cysticidal) activity in laboratory studies.
   reference_ids:
   - REF-0628
+botanical_description:
+  text: Deciduous tree (Rosaceae), 15-30 m tall, with dark, scaly, aromatic bark that has a distinctive
+    bitter-almond smell when cut or crushed (from cyanogenic compounds). Leaves are glossy dark green,
+    elliptical and finely toothed. Small white flowers are borne in drooping racemes, followed by small,
+    dark purple-black cherries that are edible when fully ripe but otherwise bitter.
+  height: 15-30 m
+  habit: Deciduous tree
+  leaves: Glossy dark green, elliptical, finely toothed
+  flowers: Small, white, in drooping racemes
+  stem: Dark, scaly, aromatic bark with a bitter-almond smell when cut
+  root: Deep woody root system
+  fruit: Small, dark purple-black cherries, bitter unless fully ripe
+  flowering_period: April-May
+  reference_ids:
+  - REF-0524
+  status: verified
+habitat:
+  text: Native to eastern North America, growing in a wide range of woodland, forest-edge and open habitats
+    on well-drained soils; widely naturalised and, in parts of Europe, considered an invasive tree.
+  reference_ids:
+  - REF-0524
+  status: verified
+harvesting:
+  text: Bark is stripped from the trunk and larger branches, traditionally in autumn, and must be thoroughly
+    dried before use - fresh bark has a much higher cyanogenic-glycoside content and is more toxic.
+  parts:
+  - Bark
+  season: Traditionally autumn; must be dried before use
+  reference_ids:
+  - REF-0525
+  status: verified
+traditional_uses:
+  text: Wild cherry bark has a long Native American and European settler tradition as a cough remedy,
+    valued specifically for its unusual cough-suppressant action - from the cyanogenic glycoside prunasin,
+    which releases a trace, sedating amount of cyanide that calms the cough reflex. It remains a classic
+    ingredient of traditional cough syrups.
+  reference_ids:
+  - REF-0524
+  - REF-0525
+  status: verified
+preparations:
+- name: Decoction/infusion
+  text: Dried bark gently simmered or infused in hot water - the traditional cough preparation.
+  reference_ids:
+  - REF-0524
+  - REF-0525
+  status: verified
+- name: Syrup
+  text: Bark decoction sweetened - a classic cough-syrup base.
+  reference_ids:
+  - REF-0525
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried bark.
+  status: draft
+dosage:
+- name: Decoction
+  text: Traditional guidance suggests roughly 1-2 g dried bark per cup as a decoction, up to three times
+    daily, using only properly dried bark; avoid large or prolonged doses given the cyanogenic-glycoside
+    content, and avoid in pregnancy and breastfeeding. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0524
+  - REF-0525
+  status: verified
 actions:
 - action: antispasmodic
   note: Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)
@@ -109,7 +173,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and The Herbal
   Medic monographs). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (cough, bronchitis, sore-throat); associations retained and now part-mapped and cited. Further enriched
@@ -118,4 +182,6 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   headline activity is antiparasitic, not antitussive). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 7 PubMed-verified @article sources (REF-0999, REF-1000, REF-0628, REF-1001, REF-1002,
-  REF-1003, REF-1004) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1003, REF-1004) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base
+  fields, sourced from the existing general herbal reviews (REF-0524, REF-0525).'

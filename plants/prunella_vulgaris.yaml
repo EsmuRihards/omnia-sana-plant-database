@@ -35,6 +35,66 @@ constituents:
   - REF-0661
   - REF-0662
   - REF-2424
+botanical_description:
+  text: Low, creeping to semi-erect perennial herb (Lamiaceae), 5-30 cm tall, with square, often purplish
+    stems. Leaves are opposite, ovate with slightly toothed margins. Small, two-lipped, violet-purple
+    flowers are densely packed into a compact, club-shaped terminal spike subtended by purplish bracts.
+  height: 5-30 cm
+  habit: Low, creeping to semi-erect perennial herb
+  leaves: Opposite, ovate, slightly toothed
+  flowers: Small, two-lipped, violet-purple, in a compact club-shaped terminal spike
+  stem: Square, often purplish
+  root: Fibrous, spreading perennial rootstock
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: June-September
+  reference_ids:
+  - REF-0659
+  status: verified
+habitat:
+  text: Native throughout Europe, Asia and North America (circumboreal), extremely common in lawns, meadows,
+    woodland clearings, roadsides and waste ground, tolerating mowing and a wide range of soils.
+  reference_ids:
+  - REF-0659
+  status: verified
+harvesting:
+  text: Whole flowering aerial parts (flower, leaf and stem) are cut during flowering (summer) and dried.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Summer, during flowering
+  reference_ids:
+  - REF-0659
+  status: verified
+traditional_uses:
+  text: Selfheal has an extremely broad folk-medicine reputation across European, North American and Traditional
+    Chinese Medicine traditions - as its name suggests, used as an all-purpose wound herb, gargle for
+    sore throat, and internal remedy for fevers and inflammation. Modern research on its triterpenoid,
+    phenolic and polysaccharide constituents supports wide-ranging antioxidant, anti-inflammatory, antimicrobial
+    and antiviral activity.
+  reference_ids:
+  - REF-0659
+  status: verified
+preparations:
+- name: Fresh leaf poultice
+  text: Crushed fresh herb applied to wounds, cuts and bruises.
+  status: draft
+- name: Infusion (tea)
+  text: Dried aerial parts steeped in hot water, taken internally or used as a gargle or wash.
+  reference_ids:
+  - REF-0659
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried aerial parts.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Traditional guidance suggests roughly 2-4 g dried herb per cup as an infusion, up to three times
+    daily, or an equivalent tincture; used topically as a wash or gargle at similar strength. Educational
+    reference only, not a prescription.
+  reference_ids:
+  - REF-0659
+  status: verified
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -203,7 +263,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -214,4 +274,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and polysaccharide constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 5 PubMed-verified @article sources (REF-0659, REF-2422, REF-2423, REF-2424, REF-2425)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
+  sourced from the existing critical pharmacological/traditional-uses/phytochemistry review (REF-0659).'

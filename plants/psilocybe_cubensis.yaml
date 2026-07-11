@@ -9,6 +9,80 @@ family: Hymenogastraceae
 parts_used:
 - Mycelium
 - Whole Plant
+botanical_description:
+  text: Saprotrophic fungus (not a true plant, Hymenogastraceae) with a cap 2-8 cm across, convex to bell-shaped,
+    golden-brown to caramel with a paler margin, fading as it dries. The whitish to yellowish stem often
+    bears a thin ring (annulus) that darkens purple-black from falling spores; gills are grey to dark
+    purple-brown, crowded and adnate. The mycelium colonises dung and dung-enriched, nutrient-rich soil.
+    All parts stain blue-green when bruised or handled, from oxidation of psilocin.
+  height: Cap 2-8 cm across; stem several cm tall
+  habit: Saprotrophic, dung-loving fungus
+  leaves: Not applicable (fungus)
+  flowers: Not applicable (fungus); reproduces by spores
+  stem: Whitish to yellowish, often with a thin ring (annulus) that darkens with spores
+  root: Mycelium colonising dung and dung-enriched soil
+  fruit: Grey to dark purple-brown gills; bruises blue-green when handled
+  flowering_period: Fruiting bodies appear in warm, humid weather, often following rain
+  reference_ids:
+  - REF-1525
+  status: verified
+habitat:
+  text: Most common in subtropical and tropical regions of the Americas (and increasingly recorded elsewhere),
+    growing directly on the dung of grazing livestock - particularly cattle - and on dung-enriched pasture
+    soil in warm, humid climates.
+  reference_ids:
+  - REF-1524
+  status: verified
+harvesting:
+  text: Fruiting bodies are picked by hand as caps expand, typically in warm, humid weather following
+    rain; cultivated production uses sterilised grain or dung-based substrate inoculated with mycelium
+    under controlled humidity and temperature.
+  parts:
+  - Fruiting body (mycelium/whole mushroom)
+  season: Warm, humid weather, often following rain
+  reference_ids:
+  - REF-1525
+  status: verified
+traditional_uses:
+  text: Psilocybe mushrooms have a documented history of ceremonial and shamanic use in Mesoamerican indigenous
+    traditions, later popularised globally from the mid-20th century onward. Contemporary clinical research
+    on purified psilocybin, the principal active compound, supports use under professional supervision
+    in psilocybin-assisted therapy for depression and anxiety, distinct from unsupervised recreational
+    use.
+  reference_ids:
+  - REF-1524
+  status: verified
+preparations:
+- name: Dried whole mushroom
+  text: The traditional and most common form; drying concentrates and stabilises psilocybin/psilocin content.
+  reference_ids:
+  - REF-1518
+  - REF-1521
+  status: verified
+- name: Purified psilocybin (clinical)
+  text: The standardised, purified compound used in modern clinical trials, administered under professional
+    supervision.
+  reference_ids:
+  - REF-1516
+  - REF-1517
+  status: verified
+- name: Tea/extract
+  text: Dried mushroom steeped in hot water, a traditional preparation said to reduce gastrointestinal
+    discomfort.
+  status: draft
+dosage:
+- name: Purified psilocybin (clinical)
+  text: Clinical trials of psilocybin-assisted therapy have used purified, weight-calibrated doses (commonly
+    in the range of 20-25 mg psilocybin) administered once or twice under professional supervision in
+    a controlled clinical setting - fundamentally different from unsupervised recreational dosing. Psilocybin
+    is illegal in most jurisdictions outside approved clinical/research settings and should never be used
+    outside professional supervision. Educational reference only, not a prescription or an endorsement
+    of unsupervised use.
+  reference_ids:
+  - REF-1519
+  - REF-1516
+  - REF-1517
+  status: verified
 actions:
 - action: antidepressant
   note: Psilocybin-assisted therapy for depression (clinical trials)
@@ -87,12 +161,25 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: galerina-marginata
   severity: fatal
-  confused_part: The whole small brown mushroom — cap, ringed stem and gills — especially wood-growing collections. Deadly Galerina grows on the same rotting wood and wood chips as wood-loving Psilocybe.
-  confusion_context: Deadly Galerina (funeral bell) is the amatoxin mushroom most often mistaken for hallucinogenic Psilocybe and eaten by accident; the two are small brown ringed mushrooms that grow side by side on rotting wood and bark mulch. Galerina carries the same liver-destroying amatoxins as the death cap — by weight sometimes higher — and poisoning is deceptively delayed (6 to 24 hours), with a false recovery before catastrophic liver failure. Both have a ring on the stem and grow on wood, so the ring and the substrate do NOT tell them apart.
+  confused_part: The whole small brown mushroom — cap, ringed stem and gills — especially wood-growing
+    collections. Deadly Galerina grows on the same rotting wood and wood chips as wood-loving Psilocybe.
+  confusion_context: Deadly Galerina (funeral bell) is the amatoxin mushroom most often mistaken for hallucinogenic
+    Psilocybe and eaten by accident; the two are small brown ringed mushrooms that grow side by side on
+    rotting wood and bark mulch. Galerina carries the same liver-destroying amatoxins as the death cap
+    — by weight sometimes higher — and poisoning is deceptively delayed (6 to 24 hours), with a false
+    recovery before catastrophic liver failure. Both have a ring on the stem and grow on wood, so the
+    ring and the substrate do NOT tell them apart.
   distinguishing_features:
-  - 'Spore-print colour is the only reliable test, and it needs a print taken at home: deadly Galerina drops a RUSTY, cinnamon-brown print; Psilocybe drops a dark purple-brown to blackish-violet print. A rusty-brown print means it is NOT a Psilocybe — do not eat it.'
-  - Psilocybe flesh usually bruises blue-green where handled; deadly Galerina does not. This is only a supporting hint — bluing can be faint or absent and must NEVER override a wrong spore print.
-  key_test: 'There is no safe field mark. Take a spore print (gills down on white paper or foil, covered, several hours): a rusty or cinnamon-brown print = deadly Galerina or another amatoxin mushroom — do not eat it. Only a dark purple-brown to violet-black print is consistent with Psilocybe. Do not forage small brown wood-growing mushrooms without an expert mycologist and a spore print — a single wrong cap can cause fatal liver failure.'
+  - 'Spore-print colour is the only reliable test, and it needs a print taken at home: deadly Galerina
+    drops a RUSTY, cinnamon-brown print; Psilocybe drops a dark purple-brown to blackish-violet print.
+    A rusty-brown print means it is NOT a Psilocybe — do not eat it.'
+  - Psilocybe flesh usually bruises blue-green where handled; deadly Galerina does not. This is only a
+    supporting hint — bluing can be faint or absent and must NEVER override a wrong spore print.
+  key_test: 'There is no safe field mark. Take a spore print (gills down on white paper or foil, covered,
+    several hours): a rusty or cinnamon-brown print = deadly Galerina or another amatoxin mushroom — do
+    not eat it. Only a dark purple-brown to violet-black print is consistent with Psilocybe. Do not forage
+    small brown wood-growing mushrooms without an expert mycologist and a spore print — a single wrong
+    cap can cause fatal liver failure.'
   reference_ids:
   - REF-2624
   - REF-2625
@@ -102,7 +189,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -110,4 +197,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1516, REF-1517, REF-1518, REF-1519, REF-1520,
   REF-1521, REF-1522, REF-1523, REF-1524, REF-1525) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing ethnobotany review (REF-1524), cultivation review (REF-1525)
+  and pharmacokinetics studies (REF-1516, REF-1517, REF-1518, REF-1519, REF-1521); mirrors the fungal-field
+  pattern used for ganoderma-lingzhi/pleurotus-ostreatus.'

@@ -9,6 +9,105 @@ parts_used:
 - Fruit
 - Leaf
 - Seed
+botanical_description:
+  text: Evergreen tree (Oleaceae), typically 3-15 m tall, often gnarled and long-lived, with some specimens
+    surviving for centuries. Leaves are narrow, leathery, lance-shaped, dark green above and silvery-grey
+    beneath. Small, fragrant, creamy-white four-lobed flowers are borne in axillary clusters, followed
+    by a fleshy drupe (the olive) that ripens from green to purple-black.
+  height: 3-15 m
+  habit: Evergreen tree, often gnarled and long-lived
+  leaves: Narrow, leathery, lance-shaped, dark green above, silvery-grey beneath
+  flowers: Small, fragrant, creamy-white, four-lobed, in axillary clusters
+  stem: Woody, often gnarled trunk
+  root: Extensive woody root system
+  fruit: Fleshy drupe (the olive), ripening from green to purple-black
+  flowering_period: Late spring to early summer (May-June)
+  reference_ids:
+  - REF-1437
+  status: verified
+habitat:
+  text: Native to the Mediterranean basin, the Near East and parts of Africa, and cultivated for millennia
+    across Mediterranean-type climates worldwide (warm, dry summers and mild winters); tolerates poor,
+    rocky, calcareous soils and drought.
+  reference_ids:
+  - REF-1437
+  status: verified
+harvesting:
+  text: Leaves can be harvested year-round from pruned or fallen branches, generally at their highest
+    oleuropein content in late autumn and winter; fruit is hand- or machine-harvested from early autumn
+    (green olives) through winter (fully ripe black olives), depending on the intended product.
+  parts:
+  - Leaf
+  - Fruit
+  season: Leaf year-round (peak late autumn/winter); fruit autumn to winter
+  reference_ids:
+  - REF-1446
+  status: verified
+traditional_uses:
+  text: Olive leaf and fruit have a long Mediterranean tradition as a tonic, antipyretic and mild antihypertensive
+    remedy, and olive oil is the foundation fat of the traditional Mediterranean diet, long associated
+    with cardiovascular health. Modern research on oleuropein and other leaf polyphenols supports antioxidant,
+    anti-inflammatory, antimicrobial, blood-pressure-lowering and insulin-sensitising effects consistent
+    with these traditional and dietary uses.
+  reference_ids:
+  - REF-1437
+  - REF-1440
+  - REF-1443
+  status: verified
+preparations:
+- name: Leaf infusion (tea)
+  text: Dried leaf steeped in hot water, a traditional mild antihypertensive and tonic tea.
+  status: draft
+- name: Standardised leaf extract
+  text: Capsule or liquid extract standardised for oleuropein content - the form used in most clinical
+    trials.
+  reference_ids:
+  - REF-1443
+  - REF-1445
+  status: verified
+- name: Olive oil (culinary)
+  text: Extra-virgin, cold-pressed oil, the everyday dietary form and the basis of the Mediterranean diet.
+  status: draft
+- name: Table olives (fruit)
+  text: Cured or fermented ripe or unripe fruit eaten as food.
+  status: draft
+dosage:
+- name: Standardised leaf extract
+  text: A meta-analysis of trials for blood pressure used around 500 mg/day of standardised olive leaf
+    extract. Educational reference only, not a prescription; culinary olive oil and leaf tea are considered
+    food-safe at normal dietary amounts.
+  reference_ids:
+  - REF-2537
+  status: verified
+constituents:
+- name: Oleuropein and hydroxytyrosol (secoiridoid phenols)
+  compounds:
+  - phenolic-compound
+  note: The principal bioactive phenolics of the leaf, responsible for most of its antioxidant, anti-inflammatory
+    and antihypertensive activity.
+  reference_ids:
+  - REF-1438
+  - REF-1446
+- name: Flavonoids (luteolin, apigenin, rutin)
+  compounds:
+  - luteolin
+  - apigenin
+  - rutin
+  - flavonoid
+  note: Antioxidant flavonoids of the leaf.
+  reference_ids:
+  - REF-1437
+- name: Triterpenes (oleanolic acid, maslinic acid)
+  compounds:
+  - terpene
+  note: Pentacyclic triterpenes of the leaf cuticle and fruit skin, studied for anti-inflammatory and
+    metabolic effects.
+  reference_ids:
+  - REF-1437
+- name: Squalene and monounsaturated fatty acids (oleic acid)
+  note: The dominant fatty acid of the fruit oil, a key component of the Mediterranean-diet lipid profile.
+  reference_ids:
+  - REF-1437
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -149,7 +248,8 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Olive leaf improves insulin sensitivity and glucose handling; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
+  mechanism: Olive leaf improves insulin sensitivity and glucose handling; combined with diabetes medicines
+    it may add to blood-sugar lowering, so monitor blood sugar.
   reference_ids:
   - REF-2487
   - REF-2485
@@ -158,7 +258,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antihypertensives
   severity: caution
-  mechanism: 'Olive leaf can modestly lower blood pressure - a meta-analysis found about a 6 mmHg fall in systolic pressure at 500 mg/day, though the evidence base is small. Combined with blood-pressure medicines it may add to their effect, so monitor your blood pressure.'
+  mechanism: Olive leaf can modestly lower blood pressure - a meta-analysis found about a 6 mmHg fall
+    in systolic pressure at 500 mg/day, though the evidence base is small. Combined with blood-pressure
+    medicines it may add to their effect, so monitor your blood pressure.
   reference_ids:
   - REF-2537
   status: approved
@@ -167,7 +269,9 @@ drug_class_interactions:
 pairings:
 - partner_id: nigella-sativa
   type: caution
-  note: 'Olive leaf and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.'
+  note: Olive leaf and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them
+    together — especially alongside blood-pressure medicines — may add up and lower blood pressure more
+    than expected. Monitor your blood pressure.
   reference_ids:
   - REF-2537
   - REF-2512
@@ -180,7 +284,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -188,4 +292,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1437, REF-1438, REF-1439, REF-1440, REF-1441,
   REF-1442, REF-1443, REF-1444, REF-1445, REF-1446) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing leaf-polyphenol reviews (REF-1437, REF-1438, REF-1446)
+  and clinical trials (REF-1443, REF-2537).'

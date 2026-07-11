@@ -24,6 +24,78 @@ constituents:
   note: Antioxidant and adaptogenic constituents.
   reference_ids:
   - REF-0467
+botanical_description:
+  text: Aromatic annual or short-lived perennial subshrub (Lamiaceae), 30-75 cm tall, with erect, much-branched,
+    hairy stems often tinged purple. Leaves are opposite, ovate-oblong with a toothed margin, and release
+    a strong, clove-like (eugenol) scent when crushed. Small purplish-pink, two-lipped flowers are borne
+    in elongated terminal racemes. The plant is held sacred in Hindu tradition (Tulsi).
+  height: 30-75 cm
+  habit: Erect, much-branched, aromatic subshrub
+  leaves: Opposite, ovate-oblong, toothed, clove-scented when crushed
+  flowers: Small, purplish-pink, two-lipped, in elongated terminal racemes
+  stem: Erect, much-branched, hairy, often purple-tinged
+  root: Fibrous root system
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: Most of the year in tropical climates
+  reference_ids:
+  - REF-0467
+  status: verified
+habitat:
+  text: Native to the Indian subcontinent and tropical Asia, now cultivated and naturalised throughout
+    the tropics and subtropics worldwide; commonly grown in home gardens and temple courtyards as well
+    as cultivated as a medicinal and aromatic crop.
+  reference_ids:
+  - REF-0466
+  status: verified
+harvesting:
+  text: Leaves are harvested year-round from actively growing plants, ideally picked once morning dew
+    has dried; whole flowering tops are also gathered.
+  parts:
+  - Leaf
+  - Flowering tops
+  season: Year-round in warm climates
+  status: draft
+traditional_uses:
+  text: Tulsi is one of the most revered plants in Ayurvedic medicine, traditionally used as an adaptogen
+    for stress, a remedy for respiratory complaints (colds, cough, asthma), and a general immune tonic.
+    Modern clinical trials support adaptogenic/anti-stress, blood-sugar-lowering and immunomodulatory
+    effects consistent with these traditional uses.
+  reference_ids:
+  - REF-0466
+  - REF-1429
+  status: verified
+preparations:
+- name: Fresh leaf
+  text: A few fresh leaves chewed daily, or added to food - a traditional daily practice.
+  status: draft
+- name: Infusion (tea)
+  text: Dried or fresh leaf steeped in hot water, alone or blended with other herbs/spices.
+  reference_ids:
+  - REF-1429
+  status: verified
+- name: Standardised extract capsule
+  text: Encapsulated dry-leaf extract, the form used in most clinical trials for stress, mood and sleep.
+  reference_ids:
+  - REF-1427
+  - REF-0466
+  status: verified
+- name: Essential oil
+  text: Steam-distilled from the leaf; used mainly topically or aromatically rather than taken internally
+    at concentrated strength.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for stress and mood have used standardised dry-extract capsules taken over several
+    weeks; dosing varies by product concentration, so follow the manufacturer's guidance. Educational
+    reference only, not a prescription.
+  reference_ids:
+  - REF-1427
+  - REF-0466
+  status: verified
+- name: Infusion (tea)
+  text: Traditional guidance suggests a small handful of fresh leaves, or about 1-2 g dried leaf, per
+    cup, up to a few times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: adaptogen
   note: Adaptogen for stress and anxiety (improves stress scores and well-being in trials)
@@ -152,7 +224,8 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Holy basil (tulsi) can lower fasting and after-meal blood glucose in people with type 2 diabetes; combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
+  mechanism: Holy basil (tulsi) can lower fasting and after-meal blood glucose in people with type 2 diabetes;
+    combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.
   reference_ids:
   - REF-2499
   - REF-2498
@@ -165,7 +238,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
   Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum
   = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
@@ -176,4 +249,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
   10 PubMed-verified @article sources (REF-1427, REF-1428, REF-1429, REF-1430, REF-1431, REF-1432, REF-1433,
   REF-1434, REF-1435, REF-1436) — woven into relevant actions/indications and the plant-level references
-  bucket.'
+  bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing clinical-efficacy review (REF-0466) and ethnomedicinal
+  review (REF-0467/REF-1429).'

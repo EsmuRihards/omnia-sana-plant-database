@@ -10,6 +10,114 @@ common_names:
 family: Ranunculaceae
 parts_used:
 - Seed
+botanical_description:
+  text: Annual herb (Ranunculaceae), 20-90 cm tall, with an erect, branched stem and finely divided, pinnately
+    dissected, fern-like leaves. Delicate pale blue-white (occasionally pale purple) flowers, each with
+    5-10 petal-like sepals, are surrounded by a feathery bract collar. The fruit is an inflated, many-celled
+    capsule that dries and splits to release numerous small, black, angular seeds - the medicinal part.
+  height: 20-90 cm
+  habit: Erect, branched annual herb
+  leaves: Finely pinnately dissected, fern-like
+  flowers: Pale blue-white (occasionally pale purple), 5-10 petal-like sepals, feathery bract collar
+  stem: Erect, branched
+  root: Slender taproot
+  fruit: Inflated capsule splitting to release small black angular seeds
+  flowering_period: June-August
+  reference_ids:
+  - REF-2065
+  status: verified
+habitat:
+  text: Native to the Mediterranean basin, southern Europe, western Asia and North Africa, and widely
+    cultivated as a spice and medicinal crop across the Middle East, South Asia and North Africa; grows
+    in cultivated fields and on disturbed ground.
+  reference_ids:
+  - REF-2065
+  status: verified
+harvesting:
+  text: Seed capsules are harvested once dried and brown (late summer), then threshed to release the small
+    black seeds. Seed is stored whole and either used directly or cold-pressed for oil shortly before
+    use to preserve the volatile thymoquinone-rich fraction.
+  parts:
+  - Seed
+  season: Late summer, once capsules have dried
+  reference_ids:
+  - REF-2065
+  status: verified
+traditional_uses:
+  text: One of the most celebrated medicinal seeds in Middle Eastern and Islamic traditional medicine
+    - known as 'Habbatul Barakah' (the blessed seed) - black seed has traditionally been used for digestive
+    complaints, respiratory conditions (asthma, cough), pain, inflammation, skin conditions and as a general
+    tonic. Modern research on its principal constituent thymoquinone supports broad anti-inflammatory,
+    antioxidant, antimicrobial, antidiabetic and immunomodulatory activity.
+  reference_ids:
+  - REF-2065
+  - REF-2066
+  - REF-2073
+  status: verified
+preparations:
+- name: Whole or ground seed
+  text: Seed eaten directly, sprinkled on food, or ground into a paste - the traditional culinary-medicinal
+    form.
+  reference_ids:
+  - REF-2065
+  status: verified
+- name: Cold-pressed seed oil
+  text: The form most used in clinical trials, taken orally in capsules or as a liquid.
+  reference_ids:
+  - REF-2067
+  - REF-2073
+  status: verified
+- name: Infusion/decoction
+  text: Crushed seed steeped or simmered in hot water.
+  status: draft
+- name: Topical oil
+  text: Seed oil applied to skin for irritation or infection.
+  status: draft
+dosage:
+- name: Seed oil
+  text: Clinical trials have generally been well tolerated at doses up to about 200 mg/day of oil taken
+    for up to 90 days. Educational reference only, not a prescription; avoid medicinal doses in pregnancy.
+  reference_ids:
+  - REF-0003
+  - REF-0054
+  - REF-0090
+  - REF-0094
+  - REF-0104
+  - REF-0142
+  - REF-0285
+  status: verified
+constituents:
+- name: Thymoquinone
+  note: The principal bioactive constituent of the seed oil, responsible for much of its anti-inflammatory,
+    antioxidant and antimicrobial activity.
+  reference_ids:
+  - REF-2067
+  - REF-2073
+- name: Volatile oil (nigellone, thymol, carvacrol)
+  compounds:
+  - essential-oil
+  - thymol
+  - carvacrol
+  note: The aromatic fraction of the seed, contributing antimicrobial and antioxidant activity.
+  reference_ids:
+  - REF-2067
+- name: Fixed oil (linoleic acid, oleic acid)
+  note: The bulk lipid fraction of the seed (roughly a third of seed weight by weight), the carrier for
+    the fat-soluble thymoquinone.
+  reference_ids:
+  - REF-2065
+- name: Alkaloids (nigellicine, nigellidine)
+  compounds:
+  - alkaloid
+  note: Minor isoquinoline-type alkaloids studied for antioxidant activity.
+  reference_ids:
+  - REF-2065
+- name: Saponins (alpha-hederin)
+  compounds:
+  - saponin
+  note: Triterpene saponin studied for anticancer and antiparasitic activity.
+  reference_ids:
+  - REF-2065
 actions:
 - action: analgesic
   reference_ids:
@@ -338,7 +446,9 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Black seed (Nigella sativa) lowers fasting blood glucose and HbA1c in trials in people with prediabetes and type 2 diabetes (confirmed by meta-analysis); combined with diabetes medicines it may add to blood-sugar lowering, so monitor blood sugar.'
+  mechanism: Black seed (Nigella sativa) lowers fasting blood glucose and HbA1c in trials in people with
+    prediabetes and type 2 diabetes (confirmed by meta-analysis); combined with diabetes medicines it
+    may add to blood-sugar lowering, so monitor blood sugar.
   reference_ids:
   - REF-2484
   - REF-2485
@@ -348,7 +458,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antihypertensives
   severity: caution
-  mechanism: 'Black seed (Nigella sativa) modestly lowers blood pressure - two meta-analyses of randomised trials found reductions of roughly 3 mmHg systolic and 3 mmHg diastolic. Combined with blood-pressure medicines it may add to their effect, so monitor your blood pressure.'
+  mechanism: Black seed (Nigella sativa) modestly lowers blood pressure - two meta-analyses of randomised
+    trials found reductions of roughly 3 mmHg systolic and 3 mmHg diastolic. Combined with blood-pressure
+    medicines it may add to their effect, so monitor your blood pressure.
   reference_ids:
   - REF-2512
   - REF-2513
@@ -361,7 +473,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -369,4 +481,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 11 PubMed-verified @article sources (REF-2065, REF-2066, REF-2067, REF-2068, REF-2069,
   REF-2070, REF-2071, REF-2072, REF-2073, REF-2074, REF-2075) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing comprehensive phytochemistry/pharmacology reviews (REF-2065,
+  REF-2066, REF-2067, REF-2073).'

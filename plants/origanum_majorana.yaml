@@ -8,6 +8,99 @@ family: Lamiaceae
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: Tender perennial subshrub (Lamiaceae), often grown as an annual in cold climates, 20-60 cm tall,
+    with square, downy, much-branched stems. Leaves are opposite, small, grey-green and ovate. Tiny white
+    to pale pink, two-lipped flowers are borne in distinctive knot-like clustered spikes, the origin of
+    the common name 'knotted marjoram'.
+  height: 20-60 cm
+  habit: Bushy, downy perennial subshrub (often grown as an annual)
+  leaves: Opposite, small, grey-green, ovate
+  flowers: Tiny, white to pale pink, two-lipped, in knot-like clustered spikes
+  stem: Square, downy, much-branched
+  root: Fibrous perennial rootstock (in warm climates)
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: July-September
+  reference_ids:
+  - REF-1228
+  status: verified
+habitat:
+  text: Native to Cyprus, Turkey and the eastern Mediterranean, and widely cultivated as a culinary and
+    medicinal herb in gardens worldwide; prefers full sun and well-drained, often calcareous soils.
+  reference_ids:
+  - REF-1228
+  status: verified
+harvesting:
+  text: The aerial flowering parts are cut just before or at flowering (summer), when essential-oil content
+    is highest, and dried quickly in a warm, shaded, well-ventilated place.
+  parts:
+  - Leaf
+  - Flower
+  season: Summer, just before or at flowering
+  reference_ids:
+  - REF-1231
+  status: verified
+traditional_uses:
+  text: Marjoram has a long Mediterranean culinary-medicinal tradition as a digestive carminative and
+    mild sedative for indigestion, cramping and poor sleep, and as an antiseptic for minor wounds and
+    infections. Modern research confirms antispasmodic, antimicrobial, antioxidant and anti-inflammatory
+    activity from its essential oil and phenolic constituents.
+  reference_ids:
+  - REF-1228
+  - REF-1230
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried herb steeped in hot water as a digestive, calming tea.
+  reference_ids:
+  - REF-0020
+  - REF-0112
+  - REF-0266
+  status: verified
+- name: Essential oil (topical)
+  text: Diluted essential oil applied for muscular aches or minor skin infections.
+  reference_ids:
+  - REF-1226
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+- name: Culinary use
+  text: Fresh or dried herb used as a seasoning, providing a mild, ongoing dietary digestive benefit.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Duke (2002) suggests about 1-2 g dried herb as tea, three times daily, or equivalent preparations.
+    Educational reference only, not a prescription; avoid medicinal doses in pregnancy.
+  reference_ids:
+  - REF-0020
+  - REF-0112
+  - REF-0266
+  status: verified
+constituents:
+- name: Essential oil (terpinen-4-ol, sabinene hydrate, thymol, carvacrol)
+  compounds:
+  - essential-oil
+  - thymol
+  - carvacrol
+  - terpene
+  note: The volatile oil, dominated by terpinen-4-ol and cis-sabinene hydrate in true sweet marjoram,
+    gives most of the antimicrobial and antioxidant activity.
+  reference_ids:
+  - REF-1231
+- name: Rosmarinic acid and phenolic acids
+  compounds:
+  - rosmarinic-acid
+  note: Contribute to antioxidant and anti-inflammatory activity.
+  reference_ids:
+  - REF-1228
+  - REF-1230
+- name: Flavonoids
+  compounds:
+  - flavonoid
+  note: Minor antioxidant constituents of the leaf.
+  reference_ids:
+  - REF-1230
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -173,7 +266,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Marjoram is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Marjoram is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -186,7 +281,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -194,4 +289,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1223, REF-1224, REF-1225, REF-1226, REF-1227,
   REF-1228, REF-1229, REF-1230, REF-1231, REF-1232) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing traditional-use/phytochemistry review (REF-1228) and
+  ethnopharmacology review (REF-1230) plus the essential-oil composition study (REF-1231).'

@@ -36470,6 +36470,142 @@
    "parts_used": [
     "Seed"
    ],
+   "botanical_description": {
+    "text": "Annual herb (Ranunculaceae), 20-90 cm tall, with an erect, branched stem and finely divided, pinnately dissected, fern-like leaves. Delicate pale blue-white (occasionally pale purple) flowers, each with 5-10 petal-like sepals, are surrounded by a feathery bract collar. The fruit is an inflated, many-celled capsule that dries and splits to release numerous small, black, angular seeds - the medicinal part.",
+    "height": "20-90 cm",
+    "habit": "Erect, branched annual herb",
+    "leaves": "Finely pinnately dissected, fern-like",
+    "flowers": "Pale blue-white (occasionally pale purple), 5-10 petal-like sepals, feathery bract collar",
+    "stem": "Erect, branched",
+    "root": "Slender taproot",
+    "fruit": "Inflated capsule splitting to release small black angular seeds",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-2065"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean basin, southern Europe, western Asia and North Africa, and widely cultivated as a spice and medicinal crop across the Middle East, South Asia and North Africa; grows in cultivated fields and on disturbed ground.",
+    "reference_ids": [
+     "REF-2065"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Seed capsules are harvested once dried and brown (late summer), then threshed to release the small black seeds. Seed is stored whole and either used directly or cold-pressed for oil shortly before use to preserve the volatile thymoquinone-rich fraction.",
+    "parts": [
+     "Seed"
+    ],
+    "season": "Late summer, once capsules have dried",
+    "reference_ids": [
+     "REF-2065"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "One of the most celebrated medicinal seeds in Middle Eastern and Islamic traditional medicine - known as 'Habbatul Barakah' (the blessed seed) - black seed has traditionally been used for digestive complaints, respiratory conditions (asthma, cough), pain, inflammation, skin conditions and as a general tonic. Modern research on its principal constituent thymoquinone supports broad anti-inflammatory, antioxidant, antimicrobial, antidiabetic and immunomodulatory activity.",
+    "reference_ids": [
+     "REF-2065",
+     "REF-2066",
+     "REF-2073"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Whole or ground seed",
+     "text": "Seed eaten directly, sprinkled on food, or ground into a paste - the traditional culinary-medicinal form.",
+     "reference_ids": [
+      "REF-2065"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Cold-pressed seed oil",
+     "text": "The form most used in clinical trials, taken orally in capsules or as a liquid.",
+     "reference_ids": [
+      "REF-2067",
+      "REF-2073"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion/decoction",
+     "text": "Crushed seed steeped or simmered in hot water.",
+     "status": "draft"
+    },
+    {
+     "name": "Topical oil",
+     "text": "Seed oil applied to skin for irritation or infection.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed oil",
+     "text": "Clinical trials have generally been well tolerated at doses up to about 200 mg/day of oil taken for up to 90 days. Educational reference only, not a prescription; avoid medicinal doses in pregnancy.",
+     "reference_ids": [
+      "REF-0003",
+      "REF-0054",
+      "REF-0090",
+      "REF-0094",
+      "REF-0104",
+      "REF-0142",
+      "REF-0285"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Thymoquinone",
+     "note": "The principal bioactive constituent of the seed oil, responsible for much of its anti-inflammatory, antioxidant and antimicrobial activity.",
+     "reference_ids": [
+      "REF-2067",
+      "REF-2073"
+     ]
+    },
+    {
+     "name": "Volatile oil (nigellone, thymol, carvacrol)",
+     "compounds": [
+      "essential-oil",
+      "thymol",
+      "carvacrol"
+     ],
+     "note": "The aromatic fraction of the seed, contributing antimicrobial and antioxidant activity.",
+     "reference_ids": [
+      "REF-2067"
+     ]
+    },
+    {
+     "name": "Fixed oil (linoleic acid, oleic acid)",
+     "note": "The bulk lipid fraction of the seed (roughly a third of seed weight by weight), the carrier for the fat-soluble thymoquinone.",
+     "reference_ids": [
+      "REF-2065"
+     ]
+    },
+    {
+     "name": "Alkaloids (nigellicine, nigellidine)",
+     "compounds": [
+      "alkaloid"
+     ],
+     "note": "Minor isoquinoline-type alkaloids studied for antioxidant activity.",
+     "reference_ids": [
+      "REF-2065"
+     ]
+    },
+    {
+     "name": "Saponins (alpha-hederin)",
+     "compounds": [
+      "saponin"
+     ],
+     "note": "Triterpene saponin studied for anticancer and antiparasitic activity.",
+     "reference_ids": [
+      "REF-2065"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "analgesic",
@@ -36936,7 +37072,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "black-cumin"
   },
   {
@@ -36975,6 +37111,90 @@
      "reference_ids": [
       "REF-0467"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Aromatic annual or short-lived perennial subshrub (Lamiaceae), 30-75 cm tall, with erect, much-branched, hairy stems often tinged purple. Leaves are opposite, ovate-oblong with a toothed margin, and release a strong, clove-like (eugenol) scent when crushed. Small purplish-pink, two-lipped flowers are borne in elongated terminal racemes. The plant is held sacred in Hindu tradition (Tulsi).",
+    "height": "30-75 cm",
+    "habit": "Erect, much-branched, aromatic subshrub",
+    "leaves": "Opposite, ovate-oblong, toothed, clove-scented when crushed",
+    "flowers": "Small, purplish-pink, two-lipped, in elongated terminal racemes",
+    "stem": "Erect, much-branched, hairy, often purple-tinged",
+    "root": "Fibrous root system",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "Most of the year in tropical climates",
+    "reference_ids": [
+     "REF-0467"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Indian subcontinent and tropical Asia, now cultivated and naturalised throughout the tropics and subtropics worldwide; commonly grown in home gardens and temple courtyards as well as cultivated as a medicinal and aromatic crop.",
+    "reference_ids": [
+     "REF-0466"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are harvested year-round from actively growing plants, ideally picked once morning dew has dried; whole flowering tops are also gathered.",
+    "parts": [
+     "Leaf",
+     "Flowering tops"
+    ],
+    "season": "Year-round in warm climates",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Tulsi is one of the most revered plants in Ayurvedic medicine, traditionally used as an adaptogen for stress, a remedy for respiratory complaints (colds, cough, asthma), and a general immune tonic. Modern clinical trials support adaptogenic/anti-stress, blood-sugar-lowering and immunomodulatory effects consistent with these traditional uses.",
+    "reference_ids": [
+     "REF-0466",
+     "REF-1429"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh leaf",
+     "text": "A few fresh leaves chewed daily, or added to food - a traditional daily practice.",
+     "status": "draft"
+    },
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried or fresh leaf steeped in hot water, alone or blended with other herbs/spices.",
+     "reference_ids": [
+      "REF-1429"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract capsule",
+     "text": "Encapsulated dry-leaf extract, the form used in most clinical trials for stress, mood and sleep.",
+     "reference_ids": [
+      "REF-1427",
+      "REF-0466"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the leaf; used mainly topically or aromatically rather than taken internally at concentrated strength.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for stress and mood have used standardised dry-extract capsules taken over several weeks; dosing varies by product concentration, so follow the manufacturer's guidance. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-1427",
+      "REF-0466"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (tea)",
+     "text": "Traditional guidance suggests a small handful of fresh leaves, or about 1-2 g dried leaf, per cup, up to a few times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -37200,7 +37420,7 @@
    },
    "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "holy-basil"
   },
   {
@@ -37241,6 +37461,69 @@
      "reference_ids": [
       "REF-0446"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Biennial herb (Onagraceae): a basal leaf rosette in the first year, followed in the second year by a stout, often reddish, erect flowering stem 30-150 cm tall. Leaves are alternate, lanceolate, with a prominent pale (often red-tinged) midrib and a wavy, untoothed margin. Large, fragrant, lemon-scented, four-petalled yellow flowers open in the evening and typically wilt by the following midday, followed by a narrow, cylindrical seed capsule.",
+    "height": "30-150 cm (flowering stem, second year)",
+    "habit": "Biennial: first-year basal rosette, second-year erect flowering stem",
+    "leaves": "Alternate, lanceolate, wavy (untoothed) margin, prominent pale midrib",
+    "flowers": "Large, fragrant, lemon-scented, yellow, four-petalled, opening in the evening",
+    "stem": "Stout, often reddish, erect (second year)",
+    "root": "Taproot",
+    "fruit": "Narrow cylindrical seed capsule",
+    "flowering_period": "June-September",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to eastern North America, widely naturalised across Europe, Asia and elsewhere on disturbed, sunny ground - waste places, roadsides, dunes and railway banks - as a hardy coloniser of poor, sandy or gravelly soils.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Mature seed capsules are harvested in late summer to autumn once dry and brown, and the tiny seeds are cold-pressed for their oil, the medicinal part. The first-year rosette leaves and young shoots have traditionally been used as food, but must never be gathered without certain identification given the deadly foxglove look-alike risk documented for this plant.",
+    "parts": [
+     "Seed"
+    ],
+    "season": "Late summer to autumn",
+    "reference_ids": [
+     "REF-2700"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Evening primrose has a Native American tradition as a food and poultice plant, but its modern use is almost entirely as a dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid marketed for skin, hormonal and inflammatory complaints. Clinical trial evidence for these specific uses (eczema, PMS, menopause) is mixed to weak, and a Cochrane review found oral evening primrose oil is not effective for eczema.",
+    "reference_ids": [
+     "REF-0446",
+     "REF-0447",
+     "REF-1458"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Cold-pressed seed oil (capsules)",
+     "text": "The standard commercial form, standardised for GLA content - the form used in most clinical trials.",
+     "reference_ids": [
+      "REF-0446",
+      "REF-1461"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Seed oil (liquid)",
+     "text": "Taken directly by the spoonful or added to food.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed oil",
+     "text": "Clinical trials evaluating evening primrose oil have most often used around 2-4 g of oil daily, taken for at least several weeks; evidence of benefit is inconsistent across most studied conditions. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0446",
+      "REF-1461"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -37389,7 +37672,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "evening-primrose"
   },
   {
@@ -37405,6 +37688,128 @@
     "Fruit",
     "Leaf",
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Evergreen tree (Oleaceae), typically 3-15 m tall, often gnarled and long-lived, with some specimens surviving for centuries. Leaves are narrow, leathery, lance-shaped, dark green above and silvery-grey beneath. Small, fragrant, creamy-white four-lobed flowers are borne in axillary clusters, followed by a fleshy drupe (the olive) that ripens from green to purple-black.",
+    "height": "3-15 m",
+    "habit": "Evergreen tree, often gnarled and long-lived",
+    "leaves": "Narrow, leathery, lance-shaped, dark green above, silvery-grey beneath",
+    "flowers": "Small, fragrant, creamy-white, four-lobed, in axillary clusters",
+    "stem": "Woody, often gnarled trunk",
+    "root": "Extensive woody root system",
+    "fruit": "Fleshy drupe (the olive), ripening from green to purple-black",
+    "flowering_period": "Late spring to early summer (May-June)",
+    "reference_ids": [
+     "REF-1437"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean basin, the Near East and parts of Africa, and cultivated for millennia across Mediterranean-type climates worldwide (warm, dry summers and mild winters); tolerates poor, rocky, calcareous soils and drought.",
+    "reference_ids": [
+     "REF-1437"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves can be harvested year-round from pruned or fallen branches, generally at their highest oleuropein content in late autumn and winter; fruit is hand- or machine-harvested from early autumn (green olives) through winter (fully ripe black olives), depending on the intended product.",
+    "parts": [
+     "Leaf",
+     "Fruit"
+    ],
+    "season": "Leaf year-round (peak late autumn/winter); fruit autumn to winter",
+    "reference_ids": [
+     "REF-1446"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Olive leaf and fruit have a long Mediterranean tradition as a tonic, antipyretic and mild antihypertensive remedy, and olive oil is the foundation fat of the traditional Mediterranean diet, long associated with cardiovascular health. Modern research on oleuropein and other leaf polyphenols supports antioxidant, anti-inflammatory, antimicrobial, blood-pressure-lowering and insulin-sensitising effects consistent with these traditional and dietary uses.",
+    "reference_ids": [
+     "REF-1437",
+     "REF-1440",
+     "REF-1443"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Leaf infusion (tea)",
+     "text": "Dried leaf steeped in hot water, a traditional mild antihypertensive and tonic tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised leaf extract",
+     "text": "Capsule or liquid extract standardised for oleuropein content - the form used in most clinical trials.",
+     "reference_ids": [
+      "REF-1443",
+      "REF-1445"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Olive oil (culinary)",
+     "text": "Extra-virgin, cold-pressed oil, the everyday dietary form and the basis of the Mediterranean diet.",
+     "status": "draft"
+    },
+    {
+     "name": "Table olives (fruit)",
+     "text": "Cured or fermented ripe or unripe fruit eaten as food.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised leaf extract",
+     "text": "A meta-analysis of trials for blood pressure used around 500 mg/day of standardised olive leaf extract. Educational reference only, not a prescription; culinary olive oil and leaf tea are considered food-safe at normal dietary amounts.",
+     "reference_ids": [
+      "REF-2537"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Oleuropein and hydroxytyrosol (secoiridoid phenols)",
+     "compounds": [
+      "phenolic-compound"
+     ],
+     "note": "The principal bioactive phenolics of the leaf, responsible for most of its antioxidant, anti-inflammatory and antihypertensive activity.",
+     "reference_ids": [
+      "REF-1438",
+      "REF-1446"
+     ]
+    },
+    {
+     "name": "Flavonoids (luteolin, apigenin, rutin)",
+     "compounds": [
+      "luteolin",
+      "apigenin",
+      "rutin",
+      "flavonoid"
+     ],
+     "note": "Antioxidant flavonoids of the leaf.",
+     "reference_ids": [
+      "REF-1437"
+     ]
+    },
+    {
+     "name": "Triterpenes (oleanolic acid, maslinic acid)",
+     "compounds": [
+      "terpene"
+     ],
+     "note": "Pentacyclic triterpenes of the leaf cuticle and fruit skin, studied for anti-inflammatory and metabolic effects.",
+     "reference_ids": [
+      "REF-1437"
+     ]
+    },
+    {
+     "name": "Squalene and monounsaturated fatty acids (oleic acid)",
+     "note": "The dominant fatty acid of the fruit oil, a key component of the Mediterranean-diet lipid profile.",
+     "reference_ids": [
+      "REF-1437"
+     ]
+    }
    ],
    "actions": [
     {
@@ -37652,7 +38057,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "olive"
   },
   {
@@ -38143,6 +38548,126 @@
     "Flower",
     "Leaf"
    ],
+   "botanical_description": {
+    "text": "Tender perennial subshrub (Lamiaceae), often grown as an annual in cold climates, 20-60 cm tall, with square, downy, much-branched stems. Leaves are opposite, small, grey-green and ovate. Tiny white to pale pink, two-lipped flowers are borne in distinctive knot-like clustered spikes, the origin of the common name 'knotted marjoram'.",
+    "height": "20-60 cm",
+    "habit": "Bushy, downy perennial subshrub (often grown as an annual)",
+    "leaves": "Opposite, small, grey-green, ovate",
+    "flowers": "Tiny, white to pale pink, two-lipped, in knot-like clustered spikes",
+    "stem": "Square, downy, much-branched",
+    "root": "Fibrous perennial rootstock (in warm climates)",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-1228"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Cyprus, Turkey and the eastern Mediterranean, and widely cultivated as a culinary and medicinal herb in gardens worldwide; prefers full sun and well-drained, often calcareous soils.",
+    "reference_ids": [
+     "REF-1228"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The aerial flowering parts are cut just before or at flowering (summer), when essential-oil content is highest, and dried quickly in a warm, shaded, well-ventilated place.",
+    "parts": [
+     "Leaf",
+     "Flower"
+    ],
+    "season": "Summer, just before or at flowering",
+    "reference_ids": [
+     "REF-1231"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Marjoram has a long Mediterranean culinary-medicinal tradition as a digestive carminative and mild sedative for indigestion, cramping and poor sleep, and as an antiseptic for minor wounds and infections. Modern research confirms antispasmodic, antimicrobial, antioxidant and anti-inflammatory activity from its essential oil and phenolic constituents.",
+    "reference_ids": [
+     "REF-1228",
+     "REF-1230"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried herb steeped in hot water as a digestive, calming tea.",
+     "reference_ids": [
+      "REF-0020",
+      "REF-0112",
+      "REF-0266"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (topical)",
+     "text": "Diluted essential oil applied for muscular aches or minor skin infections.",
+     "reference_ids": [
+      "REF-1226"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Fresh or dried herb used as a seasoning, providing a mild, ongoing dietary digestive benefit.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Duke (2002) suggests about 1-2 g dried herb as tea, three times daily, or equivalent preparations. Educational reference only, not a prescription; avoid medicinal doses in pregnancy.",
+     "reference_ids": [
+      "REF-0020",
+      "REF-0112",
+      "REF-0266"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (terpinen-4-ol, sabinene hydrate, thymol, carvacrol)",
+     "compounds": [
+      "essential-oil",
+      "thymol",
+      "carvacrol",
+      "terpene"
+     ],
+     "note": "The volatile oil, dominated by terpinen-4-ol and cis-sabinene hydrate in true sweet marjoram, gives most of the antimicrobial and antioxidant activity.",
+     "reference_ids": [
+      "REF-1231"
+     ]
+    },
+    {
+     "name": "Rosmarinic acid and phenolic acids",
+     "compounds": [
+      "rosmarinic-acid"
+     ],
+     "note": "Contribute to antioxidant and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1228",
+      "REF-1230"
+     ]
+    },
+    {
+     "name": "Flavonoids",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Minor antioxidant constituents of the leaf.",
+     "reference_ids": [
+      "REF-1230"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -38397,7 +38922,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "marjoram"
   },
   {

@@ -27,6 +27,67 @@ constituents:
   note: Minor lipid constituents.
   reference_ids:
   - REF-0446
+botanical_description:
+  text: 'Biennial herb (Onagraceae): a basal leaf rosette in the first year, followed in the second year
+    by a stout, often reddish, erect flowering stem 30-150 cm tall. Leaves are alternate, lanceolate,
+    with a prominent pale (often red-tinged) midrib and a wavy, untoothed margin. Large, fragrant, lemon-scented,
+    four-petalled yellow flowers open in the evening and typically wilt by the following midday, followed
+    by a narrow, cylindrical seed capsule.'
+  height: 30-150 cm (flowering stem, second year)
+  habit: 'Biennial: first-year basal rosette, second-year erect flowering stem'
+  leaves: Alternate, lanceolate, wavy (untoothed) margin, prominent pale midrib
+  flowers: Large, fragrant, lemon-scented, yellow, four-petalled, opening in the evening
+  stem: Stout, often reddish, erect (second year)
+  root: Taproot
+  fruit: Narrow cylindrical seed capsule
+  flowering_period: June-September
+  status: draft
+habitat:
+  text: Native to eastern North America, widely naturalised across Europe, Asia and elsewhere on disturbed,
+    sunny ground - waste places, roadsides, dunes and railway banks - as a hardy coloniser of poor, sandy
+    or gravelly soils.
+  status: draft
+harvesting:
+  text: Mature seed capsules are harvested in late summer to autumn once dry and brown, and the tiny seeds
+    are cold-pressed for their oil, the medicinal part. The first-year rosette leaves and young shoots
+    have traditionally been used as food, but must never be gathered without certain identification given
+    the deadly foxglove look-alike risk documented for this plant.
+  parts:
+  - Seed
+  season: Late summer to autumn
+  reference_ids:
+  - REF-2700
+  status: verified
+traditional_uses:
+  text: Evening primrose has a Native American tradition as a food and poultice plant, but its modern
+    use is almost entirely as a dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid marketed
+    for skin, hormonal and inflammatory complaints. Clinical trial evidence for these specific uses (eczema,
+    PMS, menopause) is mixed to weak, and a Cochrane review found oral evening primrose oil is not effective
+    for eczema.
+  reference_ids:
+  - REF-0446
+  - REF-0447
+  - REF-1458
+  status: verified
+preparations:
+- name: Cold-pressed seed oil (capsules)
+  text: The standard commercial form, standardised for GLA content - the form used in most clinical trials.
+  reference_ids:
+  - REF-0446
+  - REF-1461
+  status: verified
+- name: Seed oil (liquid)
+  text: Taken directly by the spoonful or added to food.
+  status: draft
+dosage:
+- name: Seed oil
+  text: Clinical trials evaluating evening primrose oil have most often used around 2-4 g of oil daily,
+    taken for at least several weeks; evidence of benefit is inconsistent across most studied conditions.
+    Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0446
+  - REF-1461
+  status: verified
 actions:
 - action: emollient
   note: Skin hydration and barrier function in healthy skin
@@ -112,13 +173,25 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: digitalis-purpurea
   severity: fatal
-  confused_part: First-year basal rosette leaves gathered as an edible/medicinal; deadly foxglove forms a very similar first-year rosette.
-  confusion_context: 'Evening primrose (Oenothera biennis) is a biennial whose first-year rosette leaves (and later shoots and flowers) are eaten and used. As Totally Wild UK warns, a beginner could confuse the first-year rosette with deadly foxglove (Digitalis purpurea), because they share a similar first-year ''tick list'' - both form rosettes of soft, pointed, sometimes pink-tinged leaves. Foxglove is potentially fatal: its leaves contain cardiac glycosides that disturb the heart rhythm. Because the rosettes are alike before either plant flowers, this is a genuine and potentially deadly confusion.'
+  confused_part: First-year basal rosette leaves gathered as an edible/medicinal; deadly foxglove forms
+    a very similar first-year rosette.
+  confusion_context: 'Evening primrose (Oenothera biennis) is a biennial whose first-year rosette leaves
+    (and later shoots and flowers) are eaten and used. As Totally Wild UK warns, a beginner could confuse
+    the first-year rosette with deadly foxglove (Digitalis purpurea), because they share a similar first-year
+    ''tick list'' - both form rosettes of soft, pointed, sometimes pink-tinged leaves. Foxglove is potentially
+    fatal: its leaves contain cardiac glycosides that disturb the heart rhythm. Because the rosettes are
+    alike before either plant flowers, this is a genuine and potentially deadly confusion.'
   distinguishing_features:
-  - 'Leaf hairiness and margin: foxglove leaves are softly hairy and much wider with a clearly serrated (toothed) margin and a net of sunken veins. Evening primrose leaves are narrower, far less hairy, with only a wavy (not toothed) margin.'
-  - 'Midrib: evening primrose has a distinctive prominent white/pale midrib, often red-tinged; foxglove has a greyer, downier leaf with net veins.'
-  - 'Best practice: do not eat any rosette leaf unless you have confirmed evening primrose (ideally seeing the plant''s later stem or flowers); if the leaf is broad, soft-hairy and toothed, treat it as foxglove.'
-  key_test: Compare the leaves. Narrow, nearly hairless leaves with a wavy margin and a bold white midrib = evening primrose. Broad, softly hairy leaves with a toothed (serrated) margin and net veins = foxglove - deadly, do not eat. If in any doubt, do not gather the rosette.
+  - 'Leaf hairiness and margin: foxglove leaves are softly hairy and much wider with a clearly serrated
+    (toothed) margin and a net of sunken veins. Evening primrose leaves are narrower, far less hairy,
+    with only a wavy (not toothed) margin.'
+  - 'Midrib: evening primrose has a distinctive prominent white/pale midrib, often red-tinged; foxglove
+    has a greyer, downier leaf with net veins.'
+  - 'Best practice: do not eat any rosette leaf unless you have confirmed evening primrose (ideally seeing
+    the plant''s later stem or flowers); if the leaf is broad, soft-hairy and toothed, treat it as foxglove.'
+  key_test: Compare the leaves. Narrow, nearly hairless leaves with a wavy margin and a bold white midrib
+    = evening primrose. Broad, softly hairy leaves with a toothed (serrated) margin and net veins = foxglove
+    - deadly, do not eat. If in any doubt, do not gather the rosette.
   reference_ids:
   - REF-2700
   - REF-2603
@@ -127,7 +200,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary Medicine and Therapies
   systematic review; Cochrane review of EPO/borage oil for eczema). Evidence for most symptom claims is
   weak or negative, reflected in needs-review action statuses. Originally a skeleton imported from the
@@ -140,4 +213,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   reference: Dietary source of gamma-linolenic acid (GLA), an omega-6 fatty acid (the rationale for its
   use). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources
   (REF-1457, REF-1458, REF-1459, REF-1460, REF-1461, REF-1462, REF-1463, REF-1464, REF-1465) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields; botanical_description/habitat are status:draft (well-known general morphology,
+  no dedicated botanical review in the largely-clinical bucket), harvesting/traditional_uses/preparations/dosage
+  cite the existing clinical-trial and Cochrane reviews.'

@@ -9,6 +9,94 @@ family: Hypericaceae
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: Erect, branching perennial herb with paired, oval leaves dotted with tiny translucent oil glands
+    that look like pinpricks when held to the light (giving the species name 'perforatum'). Bright yellow,
+    five-petalled flowers with numerous stamens and black dots along the petal edges are borne in flat-topped
+    clusters, and release a reddish pigment when crushed.
+  height: 30-90 cm
+  habit: Erect, branching perennial herb
+  leaves: Paired, oval, dotted with tiny translucent oil glands
+  flowers: Bright yellow, five-petalled, with numerous stamens and black-dotted petal edges, in flat-topped
+    clusters
+  stem: Erect, branching, with two raised longitudinal ridges
+  root: Woody rootstock with spreading rhizomes
+  fruit: Small, three-valved capsule
+  flowering_period: June-September (traditionally around St John's Day, 24 June)
+  reference_ids:
+  - REF-1789
+  status: verified
+habitat:
+  text: Grows in grassland, roadsides, woodland clearings and waste ground on well-drained soils; native
+    to Europe, Western Asia and North Africa and widely naturalised elsewhere, including North America
+    and Australia.
+  reference_ids:
+  - REF-1789
+  status: verified
+harvesting:
+  text: The flowering tops (flower and upper leaf) are cut in summer as the flowers open, around the traditional
+    St John's Day period, and dried quickly in a warm, shaded, airy place to preserve the hypericin and
+    hyperforin content.
+  parts:
+  - Flower
+  - Leaf
+  season: Summer, at flowering
+  reference_ids:
+  - REF-1789
+  status: verified
+traditional_uses:
+  text: St John's wort has a centuries-long European folk reputation as a wound-healing and nerve tonic
+    herb, traditionally used for mild wounds, burns and nerve pain and to lift low mood; this traditional
+    mood-supporting use is now one of the most extensively clinically studied applications of any herbal
+    medicine, with standardised extracts shown comparable to conventional antidepressants for mild-to-moderate
+    depression.
+  reference_ids:
+  - REF-1789
+  - REF-0842
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Flowering-top extract standardised to hypericin and/or hyperforin content, taken as tablets or
+    capsules; the best-studied clinical form for mood support.
+  reference_ids:
+  - REF-0842
+  status: verified
+- name: Infused oil ('red oil')
+  text: Fresh flowers infused in oil until the oil turns red, applied topically for minor wounds, burns
+    and nerve pain.
+  status: draft
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional calming tea.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for mild-to-moderate depression commonly use around 300 mg of standardised extract
+    three times daily (900 mg/day total); given extensive drug interactions, use should be discussed with
+    a healthcare provider, especially alongside other medicines. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0842
+  status: draft
+constituents:
+- name: Naphthodianthrones (hypericin, pseudohypericin)
+  note: Red pigments historically used to standardise extracts; contribute to antiviral activity and are
+    the compounds responsible for photosensitivity risk.
+  reference_ids:
+  - REF-1789
+- name: Phloroglucinols (hyperforin)
+  compounds:
+  - hyperforin
+  note: Considered the principal compound behind the antidepressant activity and the main driver of the
+    herb's potent CYP3A4/P-glycoprotein induction and drug-interaction profile.
+  reference_ids:
+  - REF-1789
+- name: Flavonoids (hyperoside, quercetin, rutin)
+  compounds:
+  - flavonoid
+  - quercetin
+  - rutin
+  note: Antioxidant flavonoids contributing to overall activity.
+  reference_ids:
+  - REF-1789
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -134,7 +222,9 @@ contraindications:
 drug_class_interactions:
 - drug_class: antidepressants-serotonergic
   severity: avoid
-  mechanism: 'St John''s wort raises serotonin activity; combined with SSRIs, SNRIs or MAOIs it can trigger serotonin syndrome (agitation, tremor, sweating, rapid heartbeat). Reviews of clinical reports document serotonin syndrome and lethargy when it is combined with serotonin-reuptake inhibitors.'
+  mechanism: St John's wort raises serotonin activity; combined with SSRIs, SNRIs or MAOIs it can trigger
+    serotonin syndrome (agitation, tremor, sweating, rapid heartbeat). Reviews of clinical reports document
+    serotonin syndrome and lethargy when it is combined with serotonin-reuptake inhibitors.
   reference_ids:
   - REF-2434
   - REF-2436
@@ -145,7 +235,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antiretrovirals
   severity: avoid
-  mechanism: 'Potent CYP3A4 and P-glycoprotein induction lowers antiretroviral levels (indinavir exposure fell ~57%), risking loss of viral control and drug resistance.'
+  mechanism: Potent CYP3A4 and P-glycoprotein induction lowers antiretroviral levels (indinavir exposure
+    fell ~57%), risking loss of viral control and drug resistance.
   reference_ids:
   - REF-2431
   - REF-2434
@@ -155,7 +246,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: immunosuppressants
   severity: avoid
-  mechanism: 'Enzyme and transporter induction reduces ciclosporin and tacrolimus levels; reported to cause subtherapeutic concentrations and transplant rejection.'
+  mechanism: Enzyme and transporter induction reduces ciclosporin and tacrolimus levels; reported to cause
+    subtherapeutic concentrations and transplant rejection.
   reference_ids:
   - REF-2432
   - REF-2434
@@ -165,7 +257,10 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: hormonal-therapies
   severity: avoid
-  mechanism: 'Increased metabolism of ethinylestradiol and progestins reduces contraceptive exposure, causing breakthrough bleeding, ovulation and unplanned pregnancy. Randomised and controlled trials in women confirmed more breakthrough bleeding, reduced progestin levels and evidence of ovulation when St John''s wort was added to the pill.'
+  mechanism: Increased metabolism of ethinylestradiol and progestins reduces contraceptive exposure, causing
+    breakthrough bleeding, ovulation and unplanned pregnancy. Randomised and controlled trials in women
+    confirmed more breakthrough bleeding, reduced progestin levels and evidence of ovulation when St John's
+    wort was added to the pill.
   reference_ids:
   - REF-2435
   - REF-2434
@@ -176,7 +271,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'CYP induction increases warfarin clearance and can lower INR, reducing the anticoagulant effect; close monitoring is needed.'
+  mechanism: CYP induction increases warfarin clearance and can lower INR, reducing the anticoagulant
+    effect; close monitoring is needed.
   reference_ids:
   - REF-2436
   - REF-2434
@@ -186,7 +282,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: cardiac-glycosides
   severity: caution
-  mechanism: 'P-glycoprotein induction lowers digoxin levels (AUC fell ~25% over ten days), which may reduce its effect.'
+  mechanism: P-glycoprotein induction lowers digoxin levels (AUC fell ~25% over ten days), which may reduce
+    its effect.
   reference_ids:
   - REF-2433
   - REF-2434
@@ -195,7 +292,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: statins
   severity: caution
-  mechanism: 'CYP3A4 induction lowers levels of simvastatin and atorvastatin, potentially weakening their cholesterol-lowering effect.'
+  mechanism: CYP3A4 induction lowers levels of simvastatin and atorvastatin, potentially weakening their
+    cholesterol-lowering effect.
   reference_ids:
   - REF-2436
   - REF-2434
@@ -205,7 +303,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: cyp3a4-substrates
   severity: caution
-  mechanism: 'As a broad CYP3A4 and P-glycoprotein inducer, St John''s wort can lower levels of many medicines cleared by this pathway; check each medication individually.'
+  mechanism: As a broad CYP3A4 and P-glycoprotein inducer, St John's wort can lower levels of many medicines
+    cleared by this pathway; check each medication individually.
   reference_ids:
   - REF-2434
   - REF-2436
@@ -215,7 +314,10 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: chemotherapy-agents
   severity: avoid
-  mechanism: 'St John''s wort strongly induces CYP3A4 and P-glycoprotein, speeding the breakdown and removal of several cancer medicines. In patients it cut the active form of irinotecan (SN-38) by about 42% and reduced imatinib exposure by roughly a third - enough to weaken treatment and risk drug resistance. Do not take St John''s wort during chemotherapy.'
+  mechanism: St John's wort strongly induces CYP3A4 and P-glycoprotein, speeding the breakdown and removal
+    of several cancer medicines. In patients it cut the active form of irinotecan (SN-38) by about 42%
+    and reduced imatinib exposure by roughly a third - enough to weaken treatment and risk drug resistance.
+    Do not take St John's wort during chemotherapy.
   reference_ids:
   - REF-2518
   - REF-2519
@@ -241,7 +343,9 @@ references:
 pairings:
 - partner_id: crocus-sativus
   type: caution
-  note: 'St John''s wort raises serotonin activity and can cause serotonin syndrome when combined with other serotonin-boosting agents; pairing it with another mood-active, serotonergic herb such as saffron may add to this risk.'
+  note: St John's wort raises serotonin activity and can cause serotonin syndrome when combined with other
+    serotonin-boosting agents; pairing it with another mood-active, serotonergic herb such as saffron
+    may add to this risk.
   reference_ids:
   - REF-2461
   status: approved
@@ -249,7 +353,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: rhodiola-rosea
   type: caution
-  note: 'St John''s wort is a strong enzyme inducer and increases serotonin activity; combining it with another antidepressant-type herb such as rhodiola may add to serotonergic effects and unpredictably change how each is handled by the body.'
+  note: St John's wort is a strong enzyme inducer and increases serotonin activity; combining it with
+    another antidepressant-type herb such as rhodiola may add to serotonergic effects and unpredictably
+    change how each is handled by the body.
   reference_ids:
   - REF-2461
   status: approved
@@ -257,7 +363,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: valeriana-officinalis
   type: caution
-  note: 'St John''s wort speeds up the breakdown of many substances and also raises serotonin activity; pairing it with a sedative herb such as valerian may add to drowsiness and can unpredictably change how each is handled by the body.'
+  note: St John's wort speeds up the breakdown of many substances and also raises serotonin activity;
+    pairing it with a sedative herb such as valerian may add to drowsiness and can unpredictably change
+    how each is handled by the body.
   reference_ids:
   - REF-2461
   - REF-2474
@@ -266,7 +374,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: piper-methysticum
   type: caution
-  note: 'St John''s wort is a strong enzyme inducer and kava is a liver-metabolised sedative; combining them may add to central-nervous-system effects and alter how kava is processed, so combined use warrants caution.'
+  note: St John's wort is a strong enzyme inducer and kava is a liver-metabolised sedative; combining
+    them may add to central-nervous-system effects and alter how kava is processed, so combined use warrants
+    caution.
   reference_ids:
   - REF-2461
   - REF-2474
@@ -279,7 +389,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -288,4 +398,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0842, REF-0843, REF-0844.
   | 2026-06-20: enriched to >=10 scientific publications: added 13 PubMed-verified @article sources (REF-1789,
   REF-0842, REF-0843, REF-1790, REF-1791, REF-1792, REF-1793, REF-1794, REF-1795, REF-1796, REF-1797,
-  REF-1798, REF-1799) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1798, REF-1799) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage + constituents) sourced from the existing references bucket; general/undated claims
+  marked status: draft per the integrity-first sourcing policy.'

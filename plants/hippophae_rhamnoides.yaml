@@ -9,6 +9,86 @@ parts_used:
 - Fruit
 - Leaf
 - Seed
+botanical_description:
+  text: Thorny, deciduous shrub or small tree with narrow, silvery-grey, willow-like leaves. The plant
+    is dioecious (separate male and female plants); female plants bear dense clusters of small, bright
+    orange-yellow berries tightly packed along the branches, giving a striking display in autumn.
+  height: 1-6 m (occasionally to 10 m)
+  habit: Thorny, deciduous, dioecious shrub or small tree
+  leaves: Narrow, silvery-grey, willow-like
+  flowers: Small, inconspicuous, wind-pollinated, on separate male and female plants
+  stem: Thorny, much-branched
+  root: Extensive, nitrogen-fixing root system with suckering growth
+  fruit: Small, bright orange-yellow berry, densely clustered along the branches (female plants only)
+  flowering_period: Early spring, before leaf-out
+  reference_ids:
+  - REF-2317
+  status: verified
+habitat:
+  text: Grows on coastal dunes, riverbanks and disturbed, nutrient-poor or sandy soils; native across
+    temperate Europe and Asia, tolerant of harsh, exposed conditions and cold climates, notably widespread
+    in the Himalayan and Tibetan plateau region.
+  reference_ids:
+  - REF-2317
+  status: verified
+harvesting:
+  text: Berries are hand-picked (often by cutting whole fruiting branches, given the thorns and fragile
+    fruit) in late summer to autumn once ripe; leaves are picked through the growing season, and seeds
+    are separated from pressed fruit for seed oil.
+  parts:
+  - Fruit
+  - Leaf
+  - Seed
+  season: Fruit in late summer to autumn; leaf through the growing season
+  reference_ids:
+  - REF-2317
+  status: verified
+traditional_uses:
+  text: Sea buckthorn has a long Tibetan, Mongolian and traditional Chinese medicine history as a nutritive
+    and healing tonic for respiratory, digestive and skin complaints, and the berries are exceptionally
+    rich in vitamin C and carotenoids; the oil, from both fruit and seed, has a particular traditional
+    and modern reputation for soothing and healing irritated or damaged skin and mucous membranes.
+  reference_ids:
+  - REF-2317
+  - REF-0836
+  status: verified
+preparations:
+- name: Fruit/seed oil
+  text: Cold-pressed oil from the berry pulp or seed, applied topically for skin healing or taken orally
+    as a nutritional/antioxidant supplement.
+  reference_ids:
+  - REF-2317
+  status: verified
+- name: Juice/puree
+  text: Fresh berries pressed into juice or puree, a nutrient-dense traditional food and tonic.
+  status: draft
+- name: Infusion (leaf)
+  text: Dried leaf infused in hot water as a traditional tonic tea.
+  status: draft
+dosage:
+- name: Oil (topical or oral)
+  text: Traditional and product references commonly suggest a few millilitres of oil daily orally, or
+    applied topically as needed. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Vitamin C and carotenoids
+  compounds:
+  - carotenoid
+  note: Sea buckthorn berries are among the richest natural sources of vitamin C, along with beta-carotene
+    and other carotenoids.
+  reference_ids:
+  - REF-2317
+- name: Omega-7 fatty acids (palmitoleic acid)
+  note: A distinctive fatty-acid profile, particularly rich in palmitoleic acid (omega-7), the basis of
+    the oil's skin- and mucous-membrane-healing reputation.
+  reference_ids:
+  - REF-2317
+- name: Flavonoids
+  compounds:
+  - flavonoid
+  note: Antioxidant flavonoids contributing to the plant's anti-inflammatory activity.
+  reference_ids:
+  - REF-0836
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -176,7 +256,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -185,4 +265,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0836, REF-0837, REF-0838.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2317,
   REF-2318, REF-2319, REF-2320, REF-2321, REF-2322, REF-2323, REF-2324, REF-2325, REF-2326, REF-2327)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

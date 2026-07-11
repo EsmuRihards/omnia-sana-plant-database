@@ -309,4 +309,25 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+  sourcing policy. | 2026-07-11: added constituents (missed in the earlier monograph-fields batch) sourced
+  from the existing references bucket.'
+constituents:
+- name: Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)
+  compounds:
+  - saponin
+  - glycyrrhizin
+  note: The principal sweet-tasting compound, about 50 times sweeter than sucrose; responsible for the
+    anti-inflammatory, antiviral and gastroprotective activity and also for the pseudoaldosteronism risk
+    on prolonged high-dose use.
+  reference_ids:
+  - REF-0826
+- name: Flavonoids and isoflavones (liquiritin, glabridin)
+  compounds:
+  - flavonoid
+  note: Antioxidant and antimicrobial polyphenols, including the skin-lightening compound glabridin.
+  reference_ids:
+  - REF-0826
+- name: Coumarins and sterols
+  note: Minor supporting constituents of the root.
+  reference_ids:
+  - REF-0826

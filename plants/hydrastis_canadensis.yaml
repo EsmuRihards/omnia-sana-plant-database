@@ -21,6 +21,67 @@ constituents:
   - REF-0455
   - REF-0456
   - REF-0588
+botanical_description:
+  text: Low, woodland perennial herb rising from a knotted, bright yellow rhizome with wiry yellow roots.
+    Each stem bears two ragged, palmately lobed, maple-like leaves and a single small, inconspicuous greenish-white
+    flower, followed by a raspberry-like cluster of red berries.
+  height: 15-30 cm
+  habit: Low, woodland perennial herb
+  leaves: Two per stem, ragged, palmately lobed, maple-like
+  flowers: Single, small, inconspicuous, greenish-white, petal-less
+  stem: Hairy, upright, bearing two leaves
+  root: Knotted, bright yellow rhizome with wiry yellow roots (the medicinal part)
+  fruit: Raspberry-like cluster of red berries
+  flowering_period: April-May
+  reference_ids:
+  - REF-0455
+  status: verified
+habitat:
+  text: Grows in rich, shaded deciduous woodland with humus-rich soil; native to eastern North America,
+    now scarce in the wild due to overharvesting and largely supplied by cultivation.
+  reference_ids:
+  - REF-0455
+  status: verified
+harvesting:
+  text: The rhizome and root are dug in autumn from plants at least three to four years old, when berberine
+    content is highest, then cleaned and dried; because wild populations are depleted, cultivated or sustainably
+    sourced material is strongly preferred, and careful identification against the toxic mayapple and
+    bloodroot, which share its woodland habitat, is essential before any wild-harvesting.
+  parts:
+  - Rhizome and root
+  season: Autumn, from mature (3-4+ year) plants
+  reference_ids:
+  - REF-0455
+  status: verified
+traditional_uses:
+  text: Goldenseal root has a Native American and, after adoption by Eclectic physicians, wider North
+    American tradition as a bitter tonic and antimicrobial remedy for mucous-membrane infections, sore
+    throat, digestive upset and topical skin infections, directly reflecting its high berberine content.
+  reference_ids:
+  - REF-0455
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried rhizome and root simmered in water as a traditional bitter antimicrobial tea, or used as
+    a gargle for sore throat.
+  reference_ids:
+  - REF-0455
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried rhizome and root.
+  status: draft
+- name: Standardised extract
+  text: Extract standardised to berberine/hydrastine content, taken as capsules; whole-leaf extracts have
+    shown stronger antimicrobial activity than isolated berberine in some studies.
+  reference_ids:
+  - REF-0588
+  status: verified
+dosage:
+- name: Decoction/tincture
+  text: Traditional herbal references suggest around 0.5-1 g of dried root per cup or dose, up to three
+    times daily, for short-term use only, given its potent CYP-enzyme inhibition and pregnancy contraindication.
+    Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and astringent for inflamed mucous membranes (sore-throat gargle, mouth)
@@ -135,7 +196,12 @@ references:
 drug_class_interactions:
 - drug_class: cyp3a4-substrates
   severity: caution
-  mechanism: 'Goldenseal''s berberine and hydrastine strongly inhibit CYP3A4 (and also CYP2D6), enzymes that clear many medicines. In a controlled study in healthy volunteers, 28 days of goldenseal cut CYP3A4/5 and CYP2D6 activity by roughly 40%, so it can raise the blood levels and side effects of drugs handled by these pathways - for example some statins, calcium-channel blockers and sedatives (CYP3A4), and certain antidepressants, beta-blockers and opioids (CYP2D6). Separate dosing and monitor, or avoid combining with narrow-margin medicines.'
+  mechanism: Goldenseal's berberine and hydrastine strongly inhibit CYP3A4 (and also CYP2D6), enzymes
+    that clear many medicines. In a controlled study in healthy volunteers, 28 days of goldenseal cut
+    CYP3A4/5 and CYP2D6 activity by roughly 40%, so it can raise the blood levels and side effects of
+    drugs handled by these pathways - for example some statins, calcium-channel blockers and sedatives
+    (CYP3A4), and certain antidepressants, beta-blockers and opioids (CYP2D6). Separate dosing and monitor,
+    or avoid combining with narrow-margin medicines.
   reference_ids:
   - REF-2503
   - REF-2504
@@ -144,7 +210,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Goldenseal is rich in berberine, its main alkaloid, which lowers blood glucose - meta-analyses of randomised trials show berberine significantly reduces fasting glucose and HbA1c. Taken with diabetes medicines, goldenseal may therefore add to blood-sugar lowering, so monitor blood glucose.'
+  mechanism: Goldenseal is rich in berberine, its main alkaloid, which lowers blood glucose - meta-analyses
+    of randomised trials show berberine significantly reduces fasting glucose and HbA1c. Taken with diabetes
+    medicines, goldenseal may therefore add to blood-sugar lowering, so monitor blood glucose.
   reference_ids:
   - REF-2538
   status: approved
@@ -157,13 +225,27 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: podophyllum-peltatum
   severity: dangerous
-  confused_part: Woodland rhizome dug as goldenseal; mayapple shares the same rich woods and has similar lobed, maple-like leaves.
-  confusion_context: Goldenseal (Hydrastis canadensis) is dug from rich woodland for its yellow rhizome. Mayapple (Podophyllum peltatum) grows in the same rich-woods habitat and, once its leaves expand, its lobed maple-like leaves resemble goldenseal, so novice foragers confuse them. Mayapple contains podophyllotoxin (a potent cell poison) in all parts except the ripe fruit; ingestion causes severe vomiting and diarrhoea and can cause serious systemic toxicity. Because the plants share habitat and leaf shape, this is a genuine hazard when digging goldenseal.
+  confused_part: Woodland rhizome dug as goldenseal; mayapple shares the same rich woods and has similar
+    lobed, maple-like leaves.
+  confusion_context: Goldenseal (Hydrastis canadensis) is dug from rich woodland for its yellow rhizome.
+    Mayapple (Podophyllum peltatum) grows in the same rich-woods habitat and, once its leaves expand,
+    its lobed maple-like leaves resemble goldenseal, so novice foragers confuse them. Mayapple contains
+    podophyllotoxin (a potent cell poison) in all parts except the ripe fruit; ingestion causes severe
+    vomiting and diarrhoea and can cause serious systemic toxicity. Because the plants share habitat and
+    leaf shape, this is a genuine hazard when digging goldenseal.
   distinguishing_features:
-  - 'Whole plant: goldenseal has a hairy upright stem bearing usually two ragged, maple-like lobed leaves and a single small flower, with a knotted BRIGHT-YELLOW rhizome. Mayapple has one or two large, smooth, umbrella-like lobed leaves on a hairless stalk and a white flower nodding beneath, with a white-ish creeping rhizome.'
-  - 'Rhizome colour (decisive): goldenseal''s rhizome and root are vivid yellow inside (berberine). Mayapple''s rhizome is not bright yellow.'
-  - 'Leaf texture: goldenseal leaves are hairy and puckered; mayapple leaves are large, smooth and shield-like (the stalk joins near the centre).'
-  key_test: Dig only after matching the whole plant, and check the rhizome. A hairy stem with ragged maple-like leaves over a BRIGHT-YELLOW knotted rhizome = goldenseal. Large smooth umbrella-like leaves over a pale rhizome (no yellow) = mayapple - toxic, do not use. If the root is not bright yellow inside, do not use it.
+  - 'Whole plant: goldenseal has a hairy upright stem bearing usually two ragged, maple-like lobed leaves
+    and a single small flower, with a knotted BRIGHT-YELLOW rhizome. Mayapple has one or two large, smooth,
+    umbrella-like lobed leaves on a hairless stalk and a white flower nodding beneath, with a white-ish
+    creeping rhizome.'
+  - 'Rhizome colour (decisive): goldenseal''s rhizome and root are vivid yellow inside (berberine). Mayapple''s
+    rhizome is not bright yellow.'
+  - 'Leaf texture: goldenseal leaves are hairy and puckered; mayapple leaves are large, smooth and shield-like
+    (the stalk joins near the centre).'
+  key_test: Dig only after matching the whole plant, and check the rhizome. A hairy stem with ragged maple-like
+    leaves over a BRIGHT-YELLOW knotted rhizome = goldenseal. Large smooth umbrella-like leaves over a
+    pale rhizome (no yellow) = mayapple - toxic, do not use. If the root is not bright yellow inside,
+    do not use it.
   reference_ids:
   - REF-2702
   - REF-2703
@@ -172,13 +254,23 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 - dangerous_plant: sanguinaria-canadensis
   severity: dangerous
-  confused_part: Woodland rhizome dug as goldenseal; bloodroot grows in the same rich woods and its rhizome is gathered in mistake for goldenseal.
-  confusion_context: 'Bloodroot (Sanguinaria canadensis) shares the same rich-woods spring habitat as goldenseal and is listed among goldenseal''s harvesting look-alikes. Bloodroot is a high-severity poison: its rhizome contains isoquinoline alkaloids (sanguinarine) and, when broken, oozes a bright red-orange sap; ingestion causes vomiting, faintness, dizziness, dilated pupils and, in serious cases, heart failure, and the sap is destructive to tissue. Because both are dug for their rhizomes from the same woodland, this is a genuine hazard.'
+  confused_part: Woodland rhizome dug as goldenseal; bloodroot grows in the same rich woods and its rhizome
+    is gathered in mistake for goldenseal.
+  confusion_context: 'Bloodroot (Sanguinaria canadensis) shares the same rich-woods spring habitat as
+    goldenseal and is listed among goldenseal''s harvesting look-alikes. Bloodroot is a high-severity
+    poison: its rhizome contains isoquinoline alkaloids (sanguinarine) and, when broken, oozes a bright
+    red-orange sap; ingestion causes vomiting, faintness, dizziness, dilated pupils and, in serious cases,
+    heart failure, and the sap is destructive to tissue. Because both are dug for their rhizomes from
+    the same woodland, this is a genuine hazard.'
   distinguishing_features:
-  - 'Sap colour (decisive): a broken bloodroot rhizome bleeds a bright RED-ORANGE sap. Goldenseal''s rhizome is BRIGHT YELLOW inside, not red.'
-  - 'Leaf: bloodroot has a single, rounded, deeply scalloped/lobed grey-green leaf that wraps the flower stalk, and a white flower; goldenseal has a hairy stem with two ragged maple-like leaves.'
+  - 'Sap colour (decisive): a broken bloodroot rhizome bleeds a bright RED-ORANGE sap. Goldenseal''s rhizome
+    is BRIGHT YELLOW inside, not red.'
+  - 'Leaf: bloodroot has a single, rounded, deeply scalloped/lobed grey-green leaf that wraps the flower
+    stalk, and a white flower; goldenseal has a hairy stem with two ragged maple-like leaves.'
   - 'Whole plant: confirm goldenseal by its paired hairy maple-like leaves and yellow root before digging.'
-  key_test: Break the rhizome and look at the sap and leaves. Bright YELLOW root with paired hairy maple-like leaves = goldenseal. A single scalloped leaf and a rhizome bleeding RED-ORANGE sap = bloodroot - a high-severity poison, do not use. If the sap is red, it is not goldenseal.
+  key_test: Break the rhizome and look at the sap and leaves. Bright YELLOW root with paired hairy maple-like
+    leaves = goldenseal. A single scalloped leaf and a rhizome bleeding RED-ORANGE sap = bloodroot - a
+    high-severity poison, do not use. If the sap is red, it is not goldenseal.
   reference_ids:
   - REF-2702
   - REF-2704
@@ -187,7 +279,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Pharmacological Research critical review;
   European Journal of Medicinal Chemistry berberine review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (infection, sore-throat, indigestion, skin-irritation); associations retained
@@ -198,4 +290,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pharmacological
   to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0455, REF-1849,
   REF-1850, REF-0588, REF-1851, REF-1852, REF-1853, REF-1854, REF-1855, REF-1856, REF-1857) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

@@ -8,6 +8,80 @@ common_names:
 family: Cannabaceae
 parts_used:
 - Flower
+botanical_description:
+  text: Vigorous, twining perennial climbing vine with rough, hairy stems and deeply lobed, opposite leaves
+    resembling grape leaves. The plant is dioecious; female plants bear the characteristic papery, cone-like
+    flower clusters ('hops'), covered in yellow, resinous lupulin glands, that are the medicinal and brewing
+    part.
+  height: Climbing vine to 6-8 m
+  habit: Vigorous, twining, dioecious perennial climbing vine
+  leaves: Deeply lobed, opposite, rough-textured, resembling grape leaves
+  flowers: Papery, cone-like female flower clusters covered in yellow resinous lupulin glands
+  stem: Rough, hairy, twining, climbing without tendrils
+  root: Perennial rootstock (rhizome) sending up new climbing stems each year
+  fruit: Small achene within the papery cone
+  flowering_period: Late summer
+  reference_ids:
+  - REF-0839
+  status: verified
+habitat:
+  text: Grows in hedgerows, woodland edges and damp thickets, climbing over other vegetation; native to
+    Europe, Western Asia and North America, and widely cultivated for brewing.
+  status: draft
+harvesting:
+  text: The female flower cones are picked in late summer once mature (when the lupulin glands are fully
+    developed and sticky), then dried quickly to preserve the volatile oils and bitter resins.
+  parts:
+  - Flower
+  season: Late summer, at cone maturity
+  reference_ids:
+  - REF-0839
+  status: verified
+traditional_uses:
+  text: Hop cones have a long European tradition as a calming, sedative herb for nervous tension, restlessness
+    and insomnia, and as a bitter digestive tonic; the sedative reputation, historically noted among hop-pickers
+    who became drowsy from handling the cones, is now linked to GABA-A receptor-active bitter resins.
+  reference_ids:
+  - REF-0839
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flower cones infused in hot water as a traditional calming, sleep-supporting tea, often
+    combined with valerian.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried cones.
+  status: draft
+- name: Standardised extract
+  text: Concentrated extract standardised to xanthohumol/humulone content, studied for sleep-enhancing
+    activity via GABA-A receptor modulation.
+  reference_ids:
+  - REF-0839
+  status: verified
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 0.5 g of dried flower per cup, taken before bed.
+    Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Bitter acids (humulone, lupulone)
+  note: Alpha- and beta-bitter acids responsible for the characteristic bitterness and much of the sedative,
+    GABA-A-receptor-active and antimicrobial activity.
+  reference_ids:
+  - REF-0839
+- name: Prenylflavonoids (xanthohumol, 8-prenylnaringenin)
+  compounds:
+  - flavonoid
+  note: Xanthohumol has antioxidant activity; 8-prenylnaringenin has notable phytoestrogenic activity,
+    the basis of the mild oestrogenic caution.
+  reference_ids:
+  - REF-1726
+- name: Essential oil
+  compounds:
+  - essential-oil
+  note: Aromatic volatile oil contributing to the characteristic hop aroma.
+  reference_ids:
+  - REF-0839
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -119,7 +193,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Hops has calming, sedative effects (a controlled trial found a valerian-hops combination shortened the time to fall asleep); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Hops has calming, sedative effects (a controlled trial found a valerian-hops combination
+    shortened the time to fall asleep); taken with sedatives, sleeping tablets or other central-nervous-system
+    depressants (including alcohol) it may add to drowsiness and slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -130,7 +206,8 @@ drug_class_interactions:
 pairings:
 - partner_id: passiflora-incarnata
   type: synergy
-  note: 'Hops and passionflower are both GABA-acting sedative herbs commonly combined in sleep blends; together they may enhance relaxation and additive drowsiness.'
+  note: Hops and passionflower are both GABA-acting sedative herbs commonly combined in sleep blends;
+    together they may enhance relaxation and additive drowsiness.
   reference_ids:
   - REF-2452
   - REF-2453
@@ -139,7 +216,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: melissa-officinalis
   type: synergy
-  note: 'Hops and lemon balm are both mild sedative, sleep-supporting herbs often combined in calming blends; used together they may reinforce each other''s relaxing effect.'
+  note: Hops and lemon balm are both mild sedative, sleep-supporting herbs often combined in calming blends;
+    used together they may reinforce each other's relaxing effect.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -153,13 +231,25 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: bryonia-dioica
   severity: dangerous
-  confused_part: Young climbing spring shoots gathered and cooked like asparagus; toxic bryony vines send up similar shoots in the same hedgerows.
-  confusion_context: Hop (Humulus lupulus) shoots are foraged in spring and cooked like asparagus. As Totally Wild UK warns, they can be confused with other climbing plants such as white bryony (Bryonia dioica) and black bryony (Dioscorea communis), which are poisonous and often scramble through the same hedgerows, sometimes twined around the hops themselves. White bryony contains cucurbitacins that cause severe vomiting, diarrhoea and colic, and a few of its berries can seriously poison a child. Because the young shoots are gathered before the tell-tale hop cones form, careful leaf checking is essential.
+  confused_part: Young climbing spring shoots gathered and cooked like asparagus; toxic bryony vines send
+    up similar shoots in the same hedgerows.
+  confusion_context: Hop (Humulus lupulus) shoots are foraged in spring and cooked like asparagus. As
+    Totally Wild UK warns, they can be confused with other climbing plants such as white bryony (Bryonia
+    dioica) and black bryony (Dioscorea communis), which are poisonous and often scramble through the
+    same hedgerows, sometimes twined around the hops themselves. White bryony contains cucurbitacins that
+    cause severe vomiting, diarrhoea and colic, and a few of its berries can seriously poison a child.
+    Because the young shoots are gathered before the tell-tale hop cones form, careful leaf checking is
+    essential.
   distinguishing_features:
-  - 'Leaves (decisive): hop leaves have a nettle-like toothed margin and are lobed, and hops have NO tendrils. The bryony lookalikes do not have that toothed, lobed hop-leaf and white bryony climbs by curling tendrils.'
+  - 'Leaves (decisive): hop leaves have a nettle-like toothed margin and are lobed, and hops have NO tendrils.
+    The bryony lookalikes do not have that toothed, lobed hop-leaf and white bryony climbs by curling
+    tendrils.'
   - 'Leaf arrangement: hop leaves are opposite (in pairs); white bryony leaves are alternate.'
-  - 'Later signs: only hops produce the papery green cones; white bryony bears red berries and black bryony shiny red berries - never gather shoots from a vine that carries or grew red berries.'
-  key_test: Check every shoot for true hop leaves - toothed, lobed, in opposite pairs, with no tendrils. Any shoot with untoothed leaves, curling tendrils, alternate leaves, or that grew red berries is not hops and may be toxic bryony - discard it.
+  - 'Later signs: only hops produce the papery green cones; white bryony bears red berries and black bryony
+    shiny red berries - never gather shoots from a vine that carries or grew red berries.'
+  key_test: Check every shoot for true hop leaves - toothed, lobed, in opposite pairs, with no tendrils.
+    Any shoot with untoothed leaves, curling tendrils, alternate leaves, or that grew red berries is not
+    hops and may be toxic bryony - discard it.
   reference_ids:
   - REF-2687
   status: approved
@@ -167,7 +257,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -176,4 +266,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0839, REF-0840, REF-0841.
   | 2026-06-20: enriched to >=10 scientific publications: added 8 PubMed-verified @article sources (REF-1726,
   REF-1727, REF-1728, REF-1729, REF-1730, REF-1731, REF-1732, REF-1733) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

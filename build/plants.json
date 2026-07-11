@@ -25428,6 +25428,36 @@
    "provenance": "book+pubmed",
    "status": "verified",
    "last_updated": "2026-07-11",
+   "constituents": [
+    {
+     "name": "Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)",
+     "compounds": [
+      "saponin",
+      "glycyrrhizin"
+     ],
+     "note": "The principal sweet-tasting compound, about 50 times sweeter than sucrose; responsible for the anti-inflammatory, antiviral and gastroprotective activity and also for the pseudoaldosteronism risk on prolonged high-dose use.",
+     "reference_ids": [
+      "REF-0826"
+     ]
+    },
+    {
+     "name": "Flavonoids and isoflavones (liquiritin, glabridin)",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Antioxidant and antimicrobial polyphenols, including the skin-lightening compound glabridin.",
+     "reference_ids": [
+      "REF-0826"
+     ]
+    },
+    {
+     "name": "Coumarins and sterols",
+     "note": "Minor supporting constituents of the root.",
+     "reference_ids": [
+      "REF-0826"
+     ]
+    }
+   ],
    "common_slug": "licorice-root"
   },
   {
@@ -27092,6 +27122,105 @@
     "Leaf",
     "Seed"
    ],
+   "botanical_description": {
+    "text": "Thorny, deciduous shrub or small tree with narrow, silvery-grey, willow-like leaves. The plant is dioecious (separate male and female plants); female plants bear dense clusters of small, bright orange-yellow berries tightly packed along the branches, giving a striking display in autumn.",
+    "height": "1-6 m (occasionally to 10 m)",
+    "habit": "Thorny, deciduous, dioecious shrub or small tree",
+    "leaves": "Narrow, silvery-grey, willow-like",
+    "flowers": "Small, inconspicuous, wind-pollinated, on separate male and female plants",
+    "stem": "Thorny, much-branched",
+    "root": "Extensive, nitrogen-fixing root system with suckering growth",
+    "fruit": "Small, bright orange-yellow berry, densely clustered along the branches (female plants only)",
+    "flowering_period": "Early spring, before leaf-out",
+    "reference_ids": [
+     "REF-2317"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on coastal dunes, riverbanks and disturbed, nutrient-poor or sandy soils; native across temperate Europe and Asia, tolerant of harsh, exposed conditions and cold climates, notably widespread in the Himalayan and Tibetan plateau region.",
+    "reference_ids": [
+     "REF-2317"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Berries are hand-picked (often by cutting whole fruiting branches, given the thorns and fragile fruit) in late summer to autumn once ripe; leaves are picked through the growing season, and seeds are separated from pressed fruit for seed oil.",
+    "parts": [
+     "Fruit",
+     "Leaf",
+     "Seed"
+    ],
+    "season": "Fruit in late summer to autumn; leaf through the growing season",
+    "reference_ids": [
+     "REF-2317"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Sea buckthorn has a long Tibetan, Mongolian and traditional Chinese medicine history as a nutritive and healing tonic for respiratory, digestive and skin complaints, and the berries are exceptionally rich in vitamin C and carotenoids; the oil, from both fruit and seed, has a particular traditional and modern reputation for soothing and healing irritated or damaged skin and mucous membranes.",
+    "reference_ids": [
+     "REF-2317",
+     "REF-0836"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fruit/seed oil",
+     "text": "Cold-pressed oil from the berry pulp or seed, applied topically for skin healing or taken orally as a nutritional/antioxidant supplement.",
+     "reference_ids": [
+      "REF-2317"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Juice/puree",
+     "text": "Fresh berries pressed into juice or puree, a nutrient-dense traditional food and tonic.",
+     "status": "draft"
+    },
+    {
+     "name": "Infusion (leaf)",
+     "text": "Dried leaf infused in hot water as a traditional tonic tea.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Oil (topical or oral)",
+     "text": "Traditional and product references commonly suggest a few millilitres of oil daily orally, or applied topically as needed. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Vitamin C and carotenoids",
+     "compounds": [
+      "carotenoid"
+     ],
+     "note": "Sea buckthorn berries are among the richest natural sources of vitamin C, along with beta-carotene and other carotenoids.",
+     "reference_ids": [
+      "REF-2317"
+     ]
+    },
+    {
+     "name": "Omega-7 fatty acids (palmitoleic acid)",
+     "note": "A distinctive fatty-acid profile, particularly rich in palmitoleic acid (omega-7), the basis of the oil's skin- and mucous-membrane-healing reputation.",
+     "reference_ids": [
+      "REF-2317"
+     ]
+    },
+    {
+     "name": "Flavonoids",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Antioxidant flavonoids contributing to the plant's anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-0836"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -27336,7 +27465,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "sea-buckthorn"
   },
   {
@@ -27351,6 +27480,99 @@
    "family": "Cannabaceae",
    "parts_used": [
     "Flower"
+   ],
+   "botanical_description": {
+    "text": "Vigorous, twining perennial climbing vine with rough, hairy stems and deeply lobed, opposite leaves resembling grape leaves. The plant is dioecious; female plants bear the characteristic papery, cone-like flower clusters ('hops'), covered in yellow, resinous lupulin glands, that are the medicinal and brewing part.",
+    "height": "Climbing vine to 6-8 m",
+    "habit": "Vigorous, twining, dioecious perennial climbing vine",
+    "leaves": "Deeply lobed, opposite, rough-textured, resembling grape leaves",
+    "flowers": "Papery, cone-like female flower clusters covered in yellow resinous lupulin glands",
+    "stem": "Rough, hairy, twining, climbing without tendrils",
+    "root": "Perennial rootstock (rhizome) sending up new climbing stems each year",
+    "fruit": "Small achene within the papery cone",
+    "flowering_period": "Late summer",
+    "reference_ids": [
+     "REF-0839"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in hedgerows, woodland edges and damp thickets, climbing over other vegetation; native to Europe, Western Asia and North America, and widely cultivated for brewing.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The female flower cones are picked in late summer once mature (when the lupulin glands are fully developed and sticky), then dried quickly to preserve the volatile oils and bitter resins.",
+    "parts": [
+     "Flower"
+    ],
+    "season": "Late summer, at cone maturity",
+    "reference_ids": [
+     "REF-0839"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Hop cones have a long European tradition as a calming, sedative herb for nervous tension, restlessness and insomnia, and as a bitter digestive tonic; the sedative reputation, historically noted among hop-pickers who became drowsy from handling the cones, is now linked to GABA-A receptor-active bitter resins.",
+    "reference_ids": [
+     "REF-0839"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flower cones infused in hot water as a traditional calming, sleep-supporting tea, often combined with valerian.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried cones.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Concentrated extract standardised to xanthohumol/humulone content, studied for sleep-enhancing activity via GABA-A receptor modulation.",
+     "reference_ids": [
+      "REF-0839"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 0.5 g of dried flower per cup, taken before bed. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Bitter acids (humulone, lupulone)",
+     "note": "Alpha- and beta-bitter acids responsible for the characteristic bitterness and much of the sedative, GABA-A-receptor-active and antimicrobial activity.",
+     "reference_ids": [
+      "REF-0839"
+     ]
+    },
+    {
+     "name": "Prenylflavonoids (xanthohumol, 8-prenylnaringenin)",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Xanthohumol has antioxidant activity; 8-prenylnaringenin has notable phytoestrogenic activity, the basis of the mild oestrogenic caution.",
+     "reference_ids": [
+      "REF-1726"
+     ]
+    },
+    {
+     "name": "Essential oil",
+     "compounds": [
+      "essential-oil"
+     ],
+     "note": "Aromatic volatile oil contributing to the characteristic hop aroma.",
+     "reference_ids": [
+      "REF-0839"
+     ]
+    }
    ],
    "actions": [
     {
@@ -27572,7 +27794,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "hop"
   },
   {
@@ -27602,6 +27824,76 @@
       "REF-0456",
       "REF-0588"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Low, woodland perennial herb rising from a knotted, bright yellow rhizome with wiry yellow roots. Each stem bears two ragged, palmately lobed, maple-like leaves and a single small, inconspicuous greenish-white flower, followed by a raspberry-like cluster of red berries.",
+    "height": "15-30 cm",
+    "habit": "Low, woodland perennial herb",
+    "leaves": "Two per stem, ragged, palmately lobed, maple-like",
+    "flowers": "Single, small, inconspicuous, greenish-white, petal-less",
+    "stem": "Hairy, upright, bearing two leaves",
+    "root": "Knotted, bright yellow rhizome with wiry yellow roots (the medicinal part)",
+    "fruit": "Raspberry-like cluster of red berries",
+    "flowering_period": "April-May",
+    "reference_ids": [
+     "REF-0455"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in rich, shaded deciduous woodland with humus-rich soil; native to eastern North America, now scarce in the wild due to overharvesting and largely supplied by cultivation.",
+    "reference_ids": [
+     "REF-0455"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The rhizome and root are dug in autumn from plants at least three to four years old, when berberine content is highest, then cleaned and dried; because wild populations are depleted, cultivated or sustainably sourced material is strongly preferred, and careful identification against the toxic mayapple and bloodroot, which share its woodland habitat, is essential before any wild-harvesting.",
+    "parts": [
+     "Rhizome and root"
+    ],
+    "season": "Autumn, from mature (3-4+ year) plants",
+    "reference_ids": [
+     "REF-0455"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Goldenseal root has a Native American and, after adoption by Eclectic physicians, wider North American tradition as a bitter tonic and antimicrobial remedy for mucous-membrane infections, sore throat, digestive upset and topical skin infections, directly reflecting its high berberine content.",
+    "reference_ids": [
+     "REF-0455"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried rhizome and root simmered in water as a traditional bitter antimicrobial tea, or used as a gargle for sore throat.",
+     "reference_ids": [
+      "REF-0455"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried rhizome and root.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Extract standardised to berberine/hydrastine content, taken as capsules; whole-leaf extracts have shown stronger antimicrobial activity than isolated berberine in some studies.",
+     "reference_ids": [
+      "REF-0588"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction/tincture",
+     "text": "Traditional herbal references suggest around 0.5-1 g of dried root per cup or dose, up to three times daily, for short-term use only, given its potent CYP-enzyme inhibition and pregnancy contraindication. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -27847,7 +28139,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "goldenseal"
   },
   {
@@ -27863,6 +28155,109 @@
    "parts_used": [
     "Flower",
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Erect, branching perennial herb with paired, oval leaves dotted with tiny translucent oil glands that look like pinpricks when held to the light (giving the species name 'perforatum'). Bright yellow, five-petalled flowers with numerous stamens and black dots along the petal edges are borne in flat-topped clusters, and release a reddish pigment when crushed.",
+    "height": "30-90 cm",
+    "habit": "Erect, branching perennial herb",
+    "leaves": "Paired, oval, dotted with tiny translucent oil glands",
+    "flowers": "Bright yellow, five-petalled, with numerous stamens and black-dotted petal edges, in flat-topped clusters",
+    "stem": "Erect, branching, with two raised longitudinal ridges",
+    "root": "Woody rootstock with spreading rhizomes",
+    "fruit": "Small, three-valved capsule",
+    "flowering_period": "June-September (traditionally around St John's Day, 24 June)",
+    "reference_ids": [
+     "REF-1789"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in grassland, roadsides, woodland clearings and waste ground on well-drained soils; native to Europe, Western Asia and North Africa and widely naturalised elsewhere, including North America and Australia.",
+    "reference_ids": [
+     "REF-1789"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering tops (flower and upper leaf) are cut in summer as the flowers open, around the traditional St John's Day period, and dried quickly in a warm, shaded, airy place to preserve the hypericin and hyperforin content.",
+    "parts": [
+     "Flower",
+     "Leaf"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-1789"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "St John's wort has a centuries-long European folk reputation as a wound-healing and nerve tonic herb, traditionally used for mild wounds, burns and nerve pain and to lift low mood; this traditional mood-supporting use is now one of the most extensively clinically studied applications of any herbal medicine, with standardised extracts shown comparable to conventional antidepressants for mild-to-moderate depression.",
+    "reference_ids": [
+     "REF-1789",
+     "REF-0842"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Flowering-top extract standardised to hypericin and/or hyperforin content, taken as tablets or capsules; the best-studied clinical form for mood support.",
+     "reference_ids": [
+      "REF-0842"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infused oil ('red oil')",
+     "text": "Fresh flowers infused in oil until the oil turns red, applied topically for minor wounds, burns and nerve pain.",
+     "status": "draft"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a traditional calming tea.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for mild-to-moderate depression commonly use around 300 mg of standardised extract three times daily (900 mg/day total); given extensive drug interactions, use should be discussed with a healthcare provider, especially alongside other medicines. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0842"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Naphthodianthrones (hypericin, pseudohypericin)",
+     "note": "Red pigments historically used to standardise extracts; contribute to antiviral activity and are the compounds responsible for photosensitivity risk.",
+     "reference_ids": [
+      "REF-1789"
+     ]
+    },
+    {
+     "name": "Phloroglucinols (hyperforin)",
+     "compounds": [
+      "hyperforin"
+     ],
+     "note": "Considered the principal compound behind the antidepressant activity and the main driver of the herb's potent CYP3A4/P-glycoprotein induction and drug-interaction profile.",
+     "reference_ids": [
+      "REF-1789"
+     ]
+    },
+    {
+     "name": "Flavonoids (hyperoside, quercetin, rutin)",
+     "compounds": [
+      "flavonoid",
+      "quercetin",
+      "rutin"
+     ],
+     "note": "Antioxidant flavonoids contributing to overall activity.",
+     "reference_ids": [
+      "REF-1789"
+     ]
+    }
    ],
    "actions": [
     {
@@ -28238,7 +28633,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "perforate-st-john-s-wort"
   },
   {

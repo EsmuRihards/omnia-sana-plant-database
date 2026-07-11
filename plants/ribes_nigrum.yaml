@@ -10,6 +10,95 @@ parts_used:
 - Leaf
 - Seed
 - Stem
+botanical_description:
+  text: Deciduous shrub (Grossulariaceae), 1-2 m tall, aromatic when the leaves are crushed. Leaves are
+    palmately lobed (3-5 lobes), toothed, with resinous glands on the underside. Small, greenish-white
+    to dull purple, bell-shaped flowers are borne in drooping racemes, followed by clusters of glossy
+    black berries.
+  height: 1-2 m
+  habit: Deciduous shrub
+  leaves: Palmately lobed (3-5 lobes), toothed, resin-glanded beneath, aromatic
+  flowers: Small, greenish-white to dull purple, bell-shaped, in drooping racemes
+  stem: Woody, multi-stemmed
+  root: Fibrous woody root system
+  fruit: Clusters of glossy black berries
+  flowering_period: April-May
+  status: draft
+habitat:
+  text: Native to central and northern Europe and Siberia, growing in damp woodland, fens, riverbanks
+    and hedgerows; widely cultivated commercially as a fruit crop in cool-temperate climates.
+  status: draft
+harvesting:
+  text: Berries are hand- or machine-harvested in mid- to late summer once fully ripe and black. Leaves
+    are gathered in late spring to early summer, before flowering fades, for the medicinal leaf preparation.
+    Seed oil is cold-pressed from the seeds after juicing.
+  parts:
+  - Fruit
+  - Leaf
+  - Seed
+  season: Berries mid-late summer; leaf late spring-early summer
+  status: draft
+traditional_uses:
+  text: 'Blackcurrant has a long northern-European food-medicine tradition: the vitamin-C- and anthocyanin-rich
+    berries have traditionally been used for colds, flu and general vitality, while the leaf has an official
+    EU traditional-use registration for minor joint pain and as a urinary-tract flush, and the seed oil
+    is valued as a source of gamma-linolenic acid (GLA). Modern research confirms broad antioxidant, anti-inflammatory,
+    immunomodulatory and vasoprotective activity across the fruit, leaf and seed oil.'
+  reference_ids:
+  - REF-0097
+  - REF-0238
+  - REF-0302
+  status: verified
+preparations:
+- name: Fresh or dried berries
+  text: Eaten fresh or dried, or made into juice, jam or syrup.
+  status: draft
+- name: Leaf infusion (tea)
+  text: Dried leaf steeped in hot water - the traditional joint-comfort/urinary-flush preparation.
+  reference_ids:
+  - REF-0097
+  - REF-0238
+  - REF-0302
+  status: verified
+- name: Seed oil (capsule)
+  text: Cold-pressed, GLA-rich oil, taken as a supplement.
+  status: draft
+- name: Standardised fruit extract
+  text: Concentrated anthocyanin extract used in some clinical research.
+  reference_ids:
+  - REF-1243
+  - REF-1246
+  status: verified
+dosage:
+- name: Leaf infusion
+  text: EMA-style traditional-use guidance for the leaf suggests roughly 2-4 g dried leaf per cup as an
+    infusion, up to three times daily, for short-term joint or urinary support (not recommended under
+    18, or with fluid retention linked to heart/kidney disease). Berries and juice are food-safe at normal
+    dietary amounts. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0097
+  - REF-0238
+  - REF-0302
+  status: verified
+constituents:
+- name: Anthocyanins (delphinidin, cyanidin glycosides)
+  compounds:
+  - anthocyanin
+  note: Give the berries their deep colour and are the principal antioxidant constituents.
+  reference_ids:
+  - REF-1243
+- name: Vitamin C and polyphenols
+  compounds:
+  - phenolic-compound
+  note: The fruit is exceptionally rich in vitamin C, contributing to its traditional cold/flu use.
+  reference_ids:
+  - REF-1251
+- name: Gamma-linolenic acid (GLA, seed oil)
+  compounds:
+  - gla
+  note: The seed oil is a well-known plant source of the omega-6 fatty acid GLA.
+  reference_ids:
+  - REF-1245
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -173,7 +262,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -181,4 +270,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1243, REF-1244, REF-1245, REF-1246, REF-1247,
   REF-1248, REF-1249, REF-1250, REF-1251, REF-1252) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields; botanical_description/habitat/harvesting are status:draft (well-known general
+  facts, no dedicated botanical review in the largely-preclinical bucket), traditional_uses/preparations/dosage
+  reuse the existing EMA-referenced book refs, constituents cite the preclinical phytochemistry studies
+  (REF-1243, REF-1245, REF-1251).'

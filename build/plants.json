@@ -45940,6 +45940,125 @@
     "Root",
     "Stem"
    ],
+   "botanical_description": {
+    "text": "Vigorous, invasive rhizomatous perennial (Polygonaceae) with hollow, bamboo-like, jointed stems 1-3 m tall (occasionally taller), speckled reddish-purple. Leaves are broad, heart- to shovel-shaped with a flat base. Abundant sprays of small, creamy-white flowers appear in late summer, followed by small winged fruit.",
+    "height": "1-3 m (occasionally to 4 m+)",
+    "habit": "Vigorous, invasive, rhizomatous perennial",
+    "leaves": "Broad, heart- to shovel-shaped, flat-based",
+    "flowers": "Small, creamy-white, in abundant sprays",
+    "stem": "Hollow, bamboo-like, jointed, reddish-purple speckled",
+    "root": "Extensive, deep, aggressively spreading rhizome",
+    "fruit": "Small winged achenes",
+    "flowering_period": "August-October",
+    "reference_ids": [
+     "REF-0984"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to East Asia (Japan, China, Korea), now a notorious invasive species across Europe and North America, growing in disturbed ground, riverbanks, roadsides and waste land, spreading aggressively via an extensive rhizome network.",
+    "reference_ids": [
+     "REF-0984"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The rhizome/root, the main medicinal part, is dug in autumn or winter when resveratrol content is highest; young spring shoots (stems) are also edible and used. Strict containment is required when harvesting, given the plant's severe invasiveness.",
+    "parts": [
+     "Root",
+     "Stem"
+    ],
+    "season": "Root in autumn/winter; young stems in spring",
+    "reference_ids": [
+     "REF-0984"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Known as Hu Zhang in Traditional Chinese Medicine, Japanese knotweed root has a centuries-old use for inflammation, infections, jaundice and menstrual complaints. Modern interest centres on its resveratrol and emodin content, now studied (as Polygonum cuspidatum extract) for antioxidant, anti-inflammatory, cardioprotective and hepatoprotective activity, and more recently for supportive use in acute respiratory infections.",
+    "reference_ids": [
+     "REF-0981",
+     "REF-0984",
+     "REF-0980"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried rhizome simmered in water, the classic Traditional Chinese Medicine preparation.",
+     "reference_ids": [
+      "REF-0984"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised resveratrol extract (capsule)",
+     "text": "The modern commercial supplement form, standardised for resveratrol content.",
+     "reference_ids": [
+      "REF-0979"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried rhizome.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Duke (2002) and general phytotherapy guidance treat this as an experimentally supported herb without a single agreed clinical dose; commercial resveratrol-standardised extracts should be dosed per product labelling. Educational reference only, not a prescription; avoid in pregnancy.",
+     "reference_ids": [
+      "REF-0037",
+      "REF-0236",
+      "REF-0311"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Stilbenes (resveratrol, piceid)",
+     "note": "Considered the principal bioactive constituents, responsible for much of the antioxidant, anti-inflammatory and cardioprotective activity attributed to this root.",
+     "reference_ids": [
+      "REF-0979",
+      "REF-0984"
+     ]
+    },
+    {
+     "name": "Anthraquinones (emodin, physcion)",
+     "compounds": [
+      "anthraquinone"
+     ],
+     "note": "Emodin has laxative and anti-inflammatory activity at typical concentrations but can cause gastrointestinal upset at high doses.",
+     "reference_ids": [
+      "REF-0979"
+     ]
+    },
+    {
+     "name": "Polysaccharides",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Studied for immunomodulatory and other bioactivities.",
+     "reference_ids": [
+      "REF-0983"
+     ]
+    },
+    {
+     "name": "Phenolic glycosides",
+     "compounds": [
+      "glycoside",
+      "phenolic-compound"
+     ],
+     "note": "Minor phenolic constituents of the rhizome.",
+     "reference_ids": [
+      "REF-0986"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -46076,7 +46195,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "japanese-knotweed"
   },
   {
@@ -46093,6 +46212,106 @@
    "parts_used": [
     "Rhizome",
     "Root"
+   ],
+   "botanical_description": {
+    "text": "Succulent perennial herb (Crassulaceae), 15-40 cm tall, with a thick, fleshy, branching rhizome that has a rose-like fragrance when cut - the origin of the name 'rosea'. Leaves are fleshy, greyish-green, oval to oblong. Small yellow (occasionally reddish) flowers are clustered in dense terminal heads; the species is dioecious, with separate male and female plants. Fruit follicles turn red as they ripen.",
+    "height": "15-40 cm",
+    "habit": "Succulent perennial herb, dioecious",
+    "leaves": "Fleshy, greyish-green, oval to oblong",
+    "flowers": "Small, yellow (occasionally reddish), in dense terminal clusters",
+    "stem": "Erect, succulent",
+    "root": "Thick, fleshy, branching rhizome, rose-scented when cut",
+    "fruit": "Follicles, turning red as they ripen",
+    "flowering_period": "June-July",
+    "reference_ids": [
+     "REF-1528"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to arctic and mountainous regions of Europe, Asia and North America (circumpolar), growing in cold, rocky, high-altitude or high-latitude terrain - cliffs, rocky slopes and tundra - tolerating harsh, exposed conditions.",
+    "reference_ids": [
+     "REF-1528"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Rhizome and root are dug from plants at least a few years old (traditionally 4-5 years), typically in autumn, then cleaned and dried. Wild populations grow slowly, so cultivated sources are increasingly preferred for sustainability.",
+    "parts": [
+     "Rhizome",
+     "Root"
+    ],
+    "season": "Autumn, from plants at least 4-5 years old",
+    "reference_ids": [
+     "REF-1528"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Rhodiola has a long tradition of use across Scandinavian, Russian and Central Asian folk medicine as a tonic for cold-climate hardiness, physical endurance and mental stamina. It is classified as a modern 'adaptogen', and clinical trials support benefits for stress-related fatigue, mood and cognitive performance.",
+    "reference_ids": [
+     "REF-1528",
+     "REF-1526"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised root extract (capsule)",
+     "text": "Standardised to rosavins and salidroside (commonly the SHR-5 extract), the form used in most clinical trials.",
+     "reference_ids": [
+      "REF-1532",
+      "REF-1533"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root.",
+     "status": "draft"
+    },
+    {
+     "name": "Decoction/tea",
+     "text": "Traditional preparation, less concentrated than standardised extracts.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials have most often used 340-680 mg/day of standardised root extract (e.g. SHR-5, standardised to rosavins/salidroside), typically taken in the morning to avoid overstimulation. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-1532",
+      "REF-1533"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Rosavins (rosavin, rosarin, rosin)",
+     "note": "Characteristic phenylpropanoid glycosides largely unique to Rhodiola rosea, used as a standardisation marker for commercial extracts.",
+     "reference_ids": [
+      "REF-1528"
+     ]
+    },
+    {
+     "name": "Salidroside and tyrosol",
+     "note": "Phenylethanoid glycosides considered key adaptogenic and antioxidant constituents.",
+     "reference_ids": [
+      "REF-1528"
+     ]
+    },
+    {
+     "name": "Phenylpropanoids and flavonoids",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Contribute to the anti-inflammatory and antioxidant activity of the root.",
+     "reference_ids": [
+      "REF-1527"
+     ]
+    }
    ],
    "actions": [
     {
@@ -46379,7 +46598,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "rhodiola-rosea"
   },
   {
@@ -46396,6 +46615,109 @@
    "parts_used": [
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Low evergreen shrub (Ericaceae), 30-100 cm tall. Leaves are narrow, leathery, with in-rolled margins and a dense, rust-coloured, woolly felt on the underside, strongly aromatic when crushed. Small white flowers are borne in terminal clusters.",
+    "height": "30-100 cm",
+    "habit": "Low evergreen shrub",
+    "leaves": "Narrow, leathery, in-rolled margins, rust-coloured woolly felt beneath, aromatic",
+    "flowers": "Small, white, in terminal clusters",
+    "stem": "Low, woody, evergreen",
+    "root": "Fibrous, shallow root system adapted to boggy ground",
+    "fruit": "Small dry capsule",
+    "flowering_period": "May-July",
+    "reference_ids": [
+     "REF-0882"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to boreal and subarctic wetlands across northern Europe, Asia and North America, growing in acidic peat bogs, wet coniferous forest and tundra margins.",
+    "reference_ids": [
+     "REF-0882",
+     "REF-0053"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves and young stems are gathered, traditionally in late summer, and dried. Only small amounts are used given the plant's ledol/grayanotoxin content, and correct identification against toxic bog look-alikes (bog rosemary) is essential.",
+    "parts": [
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Traditionally late summer",
+    "reference_ids": [
+     "REF-0884"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Labrador tea has a long Indigenous North American and Scandinavian folk-medicine tradition as a mild diuretic and respiratory remedy, and as an aromatic tea and spice, always used in small, cautious amounts given its narcotic/toxic potential at higher doses. Modern phytochemical work confirms anti-inflammatory and antioxidant activity of its essential oil.",
+    "reference_ids": [
+     "REF-0053"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped briefly in hot water, in small quantities only.",
+     "reference_ids": [
+      "REF-0884"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (external)",
+     "text": "Used topically or aromatically; not intended for concentrated internal use.",
+     "reference_ids": [
+      "REF-0880"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Duke (2002) advises using Labrador tea only with caution and at low doses given its narcotic/deliriant potential at higher amounts; it is not appropriate for regular internal use. Educational reference only, not a prescription - use only small, occasional amounts of properly identified leaf.",
+     "reference_ids": [
+      "REF-0053",
+      "REF-0098",
+      "REF-0237"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (ledol, palustrol)",
+     "compounds": [
+      "essential-oil",
+      "sesquiterpene"
+     ],
+     "note": "Ledol is the characteristic, mildly toxic sesquiterpene alcohol of the leaf, particularly concentrated in fresh material.",
+     "reference_ids": [
+      "REF-0880"
+     ]
+    },
+    {
+     "name": "Flavonoids and tannins",
+     "compounds": [
+      "flavonoid",
+      "tannin"
+     ],
+     "note": "Contribute to antioxidant and astringent activity.",
+     "reference_ids": [
+      "REF-0882"
+     ]
+    },
+    {
+     "name": "Grayanotoxins (diterpenes)",
+     "note": "Toxic diterpenes shared with related Ericaceae; the basis for the caution around excessive or prolonged use.",
+     "reference_ids": [
+      "REF-0884"
+     ]
+    }
    ],
    "actions": [
     {
@@ -46584,7 +46906,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "labrador-tea"
   },
   {
@@ -46601,6 +46923,116 @@
     "Leaf",
     "Seed",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Deciduous shrub (Grossulariaceae), 1-2 m tall, aromatic when the leaves are crushed. Leaves are palmately lobed (3-5 lobes), toothed, with resinous glands on the underside. Small, greenish-white to dull purple, bell-shaped flowers are borne in drooping racemes, followed by clusters of glossy black berries.",
+    "height": "1-2 m",
+    "habit": "Deciduous shrub",
+    "leaves": "Palmately lobed (3-5 lobes), toothed, resin-glanded beneath, aromatic",
+    "flowers": "Small, greenish-white to dull purple, bell-shaped, in drooping racemes",
+    "stem": "Woody, multi-stemmed",
+    "root": "Fibrous woody root system",
+    "fruit": "Clusters of glossy black berries",
+    "flowering_period": "April-May",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to central and northern Europe and Siberia, growing in damp woodland, fens, riverbanks and hedgerows; widely cultivated commercially as a fruit crop in cool-temperate climates.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Berries are hand- or machine-harvested in mid- to late summer once fully ripe and black. Leaves are gathered in late spring to early summer, before flowering fades, for the medicinal leaf preparation. Seed oil is cold-pressed from the seeds after juicing.",
+    "parts": [
+     "Fruit",
+     "Leaf",
+     "Seed"
+    ],
+    "season": "Berries mid-late summer; leaf late spring-early summer",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Blackcurrant has a long northern-European food-medicine tradition: the vitamin-C- and anthocyanin-rich berries have traditionally been used for colds, flu and general vitality, while the leaf has an official EU traditional-use registration for minor joint pain and as a urinary-tract flush, and the seed oil is valued as a source of gamma-linolenic acid (GLA). Modern research confirms broad antioxidant, anti-inflammatory, immunomodulatory and vasoprotective activity across the fruit, leaf and seed oil.",
+    "reference_ids": [
+     "REF-0097",
+     "REF-0238",
+     "REF-0302"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh or dried berries",
+     "text": "Eaten fresh or dried, or made into juice, jam or syrup.",
+     "status": "draft"
+    },
+    {
+     "name": "Leaf infusion (tea)",
+     "text": "Dried leaf steeped in hot water - the traditional joint-comfort/urinary-flush preparation.",
+     "reference_ids": [
+      "REF-0097",
+      "REF-0238",
+      "REF-0302"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Seed oil (capsule)",
+     "text": "Cold-pressed, GLA-rich oil, taken as a supplement.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised fruit extract",
+     "text": "Concentrated anthocyanin extract used in some clinical research.",
+     "reference_ids": [
+      "REF-1243",
+      "REF-1246"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Leaf infusion",
+     "text": "EMA-style traditional-use guidance for the leaf suggests roughly 2-4 g dried leaf per cup as an infusion, up to three times daily, for short-term joint or urinary support (not recommended under 18, or with fluid retention linked to heart/kidney disease). Berries and juice are food-safe at normal dietary amounts. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0097",
+      "REF-0238",
+      "REF-0302"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Anthocyanins (delphinidin, cyanidin glycosides)",
+     "compounds": [
+      "anthocyanin"
+     ],
+     "note": "Give the berries their deep colour and are the principal antioxidant constituents.",
+     "reference_ids": [
+      "REF-1243"
+     ]
+    },
+    {
+     "name": "Vitamin C and polyphenols",
+     "compounds": [
+      "phenolic-compound"
+     ],
+     "note": "The fruit is exceptionally rich in vitamin C, contributing to its traditional cold/flu use.",
+     "reference_ids": [
+      "REF-1251"
+     ]
+    },
+    {
+     "name": "Gamma-linolenic acid (GLA, seed oil)",
+     "compounds": [
+      "gla"
+     ],
+     "note": "The seed oil is a well-known plant source of the omega-6 fatty acid GLA.",
+     "reference_ids": [
+      "REF-1245"
+     ]
+    }
    ],
    "actions": [
     {
@@ -46832,7 +47264,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "blackcurrant"
   },
   {
@@ -46850,6 +47282,114 @@
     "Fruit",
     "Petals",
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Scrambling, thorny deciduous shrub (Rosaceae), 1-5 m, with arching, prickly stems bearing hooked thorns. Leaves are pinnate with 5-7 oval, toothed leaflets. Pale pink to white, five-petalled flowers are followed by bright red-orange, egg-shaped hips (the fleshy hip is an accessory fruit; the true fruits are small hairy achenes inside it) that ripen in autumn and often persist into winter.",
+    "height": "1-5 m",
+    "habit": "Scrambling, thorny deciduous shrub",
+    "leaves": "Pinnate, 5-7 oval, toothed leaflets",
+    "flowers": "Pale pink to white, five-petalled",
+    "stem": "Arching, prickly, with hooked thorns",
+    "root": "Deep, woody root system",
+    "fruit": "Bright red-orange, egg-shaped hip (accessory fruit) containing small hairy achenes",
+    "flowering_period": "June-July; hips ripen August-October",
+    "reference_ids": [
+     "REF-0990"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native throughout Europe, north-west Africa and western Asia, common in hedgerows, woodland edges, scrub and roadside verges on a wide range of soils.",
+    "reference_ids": [
+     "REF-0990"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Hips are picked in autumn once fully coloured, then dried for tea or powder, or processed fresh for syrup. The fine, irritant hairs surrounding the seeds inside the hip must be removed before consumption.",
+    "parts": [
+     "Fruit (hip)",
+     "Petals",
+     "Seed"
+    ],
+    "season": "Autumn",
+    "reference_ids": [
+     "REF-0993"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Rosehip has a long European folk tradition as a vitamin-C-rich tonic for colds and general immunity, and as a mild diuretic and astringent for urinary and digestive complaints. Modern clinical trials on standardised rosehip powder show a modest, reproducible benefit for osteoarthritis pain and stiffness.",
+    "reference_ids": [
+     "REF-0990",
+     "REF-0989"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Rosehip powder (standardised, seedless)",
+     "text": "The form used in osteoarthritis clinical trials.",
+     "reference_ids": [
+      "REF-0989"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion/tea",
+     "text": "Dried, deseeded hip steeped in hot water - a traditional vitamin C tonic.",
+     "status": "draft"
+    },
+    {
+     "name": "Syrup",
+     "text": "Traditional preparation, historically used as a vitamin C supplement, particularly for children.",
+     "status": "draft"
+    },
+    {
+     "name": "Petals",
+     "text": "Occasionally used for their fragrance in traditional preparations.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Rosehip powder",
+     "text": "Clinical trials for osteoarthritis have most often used around 5 g/day of standardised rosehip powder. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0989"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Vitamin C and carotenoids",
+     "compounds": [
+      "carotenoid"
+     ],
+     "note": "The hip is exceptionally rich in vitamin C and carotenoids, underpinning its traditional tonic use.",
+     "reference_ids": [
+      "REF-0993"
+     ]
+    },
+    {
+     "name": "Galactolipid (GOPO)",
+     "note": "A specific galactolipid fraction studied as the likely active anti-inflammatory constituent in osteoarthritis trials of standardised rosehip powder.",
+     "reference_ids": [
+      "REF-0990"
+     ]
+    },
+    {
+     "name": "Flavonoids and tannins",
+     "compounds": [
+      "flavonoid",
+      "tannin"
+     ],
+     "note": "Contribute to antioxidant activity.",
+     "reference_ids": [
+      "REF-0992"
+     ]
+    }
    ],
    "actions": [
     {
@@ -46974,7 +47514,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "dog-rose"
   },
   {

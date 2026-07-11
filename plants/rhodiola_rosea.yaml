@@ -10,6 +10,88 @@ family: Crassulaceae
 parts_used:
 - Rhizome
 - Root
+botanical_description:
+  text: Succulent perennial herb (Crassulaceae), 15-40 cm tall, with a thick, fleshy, branching rhizome
+    that has a rose-like fragrance when cut - the origin of the name 'rosea'. Leaves are fleshy, greyish-green,
+    oval to oblong. Small yellow (occasionally reddish) flowers are clustered in dense terminal heads;
+    the species is dioecious, with separate male and female plants. Fruit follicles turn red as they ripen.
+  height: 15-40 cm
+  habit: Succulent perennial herb, dioecious
+  leaves: Fleshy, greyish-green, oval to oblong
+  flowers: Small, yellow (occasionally reddish), in dense terminal clusters
+  stem: Erect, succulent
+  root: Thick, fleshy, branching rhizome, rose-scented when cut
+  fruit: Follicles, turning red as they ripen
+  flowering_period: June-July
+  reference_ids:
+  - REF-1528
+  status: verified
+habitat:
+  text: Native to arctic and mountainous regions of Europe, Asia and North America (circumpolar), growing
+    in cold, rocky, high-altitude or high-latitude terrain - cliffs, rocky slopes and tundra - tolerating
+    harsh, exposed conditions.
+  reference_ids:
+  - REF-1528
+  status: verified
+harvesting:
+  text: Rhizome and root are dug from plants at least a few years old (traditionally 4-5 years), typically
+    in autumn, then cleaned and dried. Wild populations grow slowly, so cultivated sources are increasingly
+    preferred for sustainability.
+  parts:
+  - Rhizome
+  - Root
+  season: Autumn, from plants at least 4-5 years old
+  reference_ids:
+  - REF-1528
+  status: verified
+traditional_uses:
+  text: Rhodiola has a long tradition of use across Scandinavian, Russian and Central Asian folk medicine
+    as a tonic for cold-climate hardiness, physical endurance and mental stamina. It is classified as
+    a modern 'adaptogen', and clinical trials support benefits for stress-related fatigue, mood and cognitive
+    performance.
+  reference_ids:
+  - REF-1528
+  - REF-1526
+  status: verified
+preparations:
+- name: Standardised root extract (capsule)
+  text: Standardised to rosavins and salidroside (commonly the SHR-5 extract), the form used in most clinical
+    trials.
+  reference_ids:
+  - REF-1532
+  - REF-1533
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried root.
+  status: draft
+- name: Decoction/tea
+  text: Traditional preparation, less concentrated than standardised extracts.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials have most often used 340-680 mg/day of standardised root extract (e.g. SHR-5,
+    standardised to rosavins/salidroside), typically taken in the morning to avoid overstimulation. Educational
+    reference only, not a prescription.
+  reference_ids:
+  - REF-1532
+  - REF-1533
+  status: verified
+constituents:
+- name: Rosavins (rosavin, rosarin, rosin)
+  note: Characteristic phenylpropanoid glycosides largely unique to Rhodiola rosea, used as a standardisation
+    marker for commercial extracts.
+  reference_ids:
+  - REF-1528
+- name: Salidroside and tyrosol
+  note: Phenylethanoid glycosides considered key adaptogenic and antioxidant constituents.
+  reference_ids:
+  - REF-1528
+- name: Phenylpropanoids and flavonoids
+  compounds:
+  - flavonoid
+  note: Contribute to the anti-inflammatory and antioxidant activity of the root.
+  reference_ids:
+  - REF-1527
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -171,7 +253,10 @@ references:
 drug_class_interactions:
 - drug_class: antidepressants-serotonergic
   severity: caution
-  mechanism: 'Rhodiola inhibits monoamine oxidase (MAO-A/B) and raises serotonin and dopamine activity; a case report described serotonergic-syndrome-type symptoms (restlessness, trembling) when rhodiola was added to the antidepressant paroxetine. Combined with antidepressants it may add to serotonergic effects.'
+  mechanism: Rhodiola inhibits monoamine oxidase (MAO-A/B) and raises serotonin and dopamine activity;
+    a case report described serotonergic-syndrome-type symptoms (restlessness, trembling) when rhodiola
+    was added to the antidepressant paroxetine. Combined with antidepressants it may add to serotonergic
+    effects.
   reference_ids:
   - REF-2483
   - REF-2482
@@ -181,7 +266,9 @@ drug_class_interactions:
 pairings:
 - partner_id: eleutherococcus-senticosus
   type: synergy
-  note: 'Rhodiola and eleuthero (Siberian ginseng) are classic adaptogens combined in traditional and studied fixed formulas to build resistance to stress and fatigue; used together their stress-protective effects are complementary.'
+  note: Rhodiola and eleuthero (Siberian ginseng) are classic adaptogens combined in traditional and studied
+    fixed formulas to build resistance to stress and fatigue; used together their stress-protective effects
+    are complementary.
   reference_ids:
   - REF-2470
   - REF-2471
@@ -190,7 +277,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: schisandra-chinensis
   type: synergy
-  note: 'Rhodiola and schisandra are adaptogens co-formulated in clinically studied combinations for stress, fatigue and mental performance; combined use is intended to be synergistic rather than harmful.'
+  note: Rhodiola and schisandra are adaptogens co-formulated in clinically studied combinations for stress,
+    fatigue and mental performance; combined use is intended to be synergistic rather than harmful.
   reference_ids:
   - REF-2470
   - REF-2471
@@ -203,7 +291,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -211,4 +299,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1526, REF-1527, REF-1528, REF-1529, REF-1530,
   REF-1531, REF-1532, REF-1533, REF-1534, REF-1535) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing traditional-use/chemical-composition review (REF-1528),
+  the stress-symptom clinical review (REF-1526), the anti-inflammatory review (REF-1527) and the SHR-5
+  extract trials (REF-1532, REF-1533).'

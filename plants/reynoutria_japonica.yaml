@@ -9,6 +9,102 @@ parts_used:
 - Leaf
 - Root
 - Stem
+botanical_description:
+  text: Vigorous, invasive rhizomatous perennial (Polygonaceae) with hollow, bamboo-like, jointed stems
+    1-3 m tall (occasionally taller), speckled reddish-purple. Leaves are broad, heart- to shovel-shaped
+    with a flat base. Abundant sprays of small, creamy-white flowers appear in late summer, followed by
+    small winged fruit.
+  height: 1-3 m (occasionally to 4 m+)
+  habit: Vigorous, invasive, rhizomatous perennial
+  leaves: Broad, heart- to shovel-shaped, flat-based
+  flowers: Small, creamy-white, in abundant sprays
+  stem: Hollow, bamboo-like, jointed, reddish-purple speckled
+  root: Extensive, deep, aggressively spreading rhizome
+  fruit: Small winged achenes
+  flowering_period: August-October
+  reference_ids:
+  - REF-0984
+  status: verified
+habitat:
+  text: Native to East Asia (Japan, China, Korea), now a notorious invasive species across Europe and
+    North America, growing in disturbed ground, riverbanks, roadsides and waste land, spreading aggressively
+    via an extensive rhizome network.
+  reference_ids:
+  - REF-0984
+  status: verified
+harvesting:
+  text: The rhizome/root, the main medicinal part, is dug in autumn or winter when resveratrol content
+    is highest; young spring shoots (stems) are also edible and used. Strict containment is required when
+    harvesting, given the plant's severe invasiveness.
+  parts:
+  - Root
+  - Stem
+  season: Root in autumn/winter; young stems in spring
+  reference_ids:
+  - REF-0984
+  status: verified
+traditional_uses:
+  text: Known as Hu Zhang in Traditional Chinese Medicine, Japanese knotweed root has a centuries-old
+    use for inflammation, infections, jaundice and menstrual complaints. Modern interest centres on its
+    resveratrol and emodin content, now studied (as Polygonum cuspidatum extract) for antioxidant, anti-inflammatory,
+    cardioprotective and hepatoprotective activity, and more recently for supportive use in acute respiratory
+    infections.
+  reference_ids:
+  - REF-0981
+  - REF-0984
+  - REF-0980
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried rhizome simmered in water, the classic Traditional Chinese Medicine preparation.
+  reference_ids:
+  - REF-0984
+  status: verified
+- name: Standardised resveratrol extract (capsule)
+  text: The modern commercial supplement form, standardised for resveratrol content.
+  reference_ids:
+  - REF-0979
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried rhizome.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Duke (2002) and general phytotherapy guidance treat this as an experimentally supported herb without
+    a single agreed clinical dose; commercial resveratrol-standardised extracts should be dosed per product
+    labelling. Educational reference only, not a prescription; avoid in pregnancy.
+  reference_ids:
+  - REF-0037
+  - REF-0236
+  - REF-0311
+  status: verified
+constituents:
+- name: Stilbenes (resveratrol, piceid)
+  note: Considered the principal bioactive constituents, responsible for much of the antioxidant, anti-inflammatory
+    and cardioprotective activity attributed to this root.
+  reference_ids:
+  - REF-0979
+  - REF-0984
+- name: Anthraquinones (emodin, physcion)
+  compounds:
+  - anthraquinone
+  note: Emodin has laxative and anti-inflammatory activity at typical concentrations but can cause gastrointestinal
+    upset at high doses.
+  reference_ids:
+  - REF-0979
+- name: Polysaccharides
+  compounds:
+  - polysaccharide
+  note: Studied for immunomodulatory and other bioactivities.
+  reference_ids:
+  - REF-0983
+- name: Phenolic glycosides
+  compounds:
+  - glycoside
+  - phenolic-compound
+  note: Minor phenolic constituents of the rhizome.
+  reference_ids:
+  - REF-0986
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -113,7 +209,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -121,4 +217,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0979, REF-0980, REF-0981, REF-0982, REF-0983,
   REF-0984, REF-0985, REF-0986, REF-0987, REF-0988) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing botany/phytochemistry/pharmacology review (REF-0984),
+  the emodin pharmacology review (REF-0979) and the acute-respiratory-infection systematic review (REF-0980).'

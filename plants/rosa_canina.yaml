@@ -11,6 +11,89 @@ parts_used:
 - Fruit
 - Petals
 - Seed
+botanical_description:
+  text: Scrambling, thorny deciduous shrub (Rosaceae), 1-5 m, with arching, prickly stems bearing hooked
+    thorns. Leaves are pinnate with 5-7 oval, toothed leaflets. Pale pink to white, five-petalled flowers
+    are followed by bright red-orange, egg-shaped hips (the fleshy hip is an accessory fruit; the true
+    fruits are small hairy achenes inside it) that ripen in autumn and often persist into winter.
+  height: 1-5 m
+  habit: Scrambling, thorny deciduous shrub
+  leaves: Pinnate, 5-7 oval, toothed leaflets
+  flowers: Pale pink to white, five-petalled
+  stem: Arching, prickly, with hooked thorns
+  root: Deep, woody root system
+  fruit: Bright red-orange, egg-shaped hip (accessory fruit) containing small hairy achenes
+  flowering_period: June-July; hips ripen August-October
+  reference_ids:
+  - REF-0990
+  status: verified
+habitat:
+  text: Native throughout Europe, north-west Africa and western Asia, common in hedgerows, woodland edges,
+    scrub and roadside verges on a wide range of soils.
+  reference_ids:
+  - REF-0990
+  status: verified
+harvesting:
+  text: Hips are picked in autumn once fully coloured, then dried for tea or powder, or processed fresh
+    for syrup. The fine, irritant hairs surrounding the seeds inside the hip must be removed before consumption.
+  parts:
+  - Fruit (hip)
+  - Petals
+  - Seed
+  season: Autumn
+  reference_ids:
+  - REF-0993
+  status: verified
+traditional_uses:
+  text: Rosehip has a long European folk tradition as a vitamin-C-rich tonic for colds and general immunity,
+    and as a mild diuretic and astringent for urinary and digestive complaints. Modern clinical trials
+    on standardised rosehip powder show a modest, reproducible benefit for osteoarthritis pain and stiffness.
+  reference_ids:
+  - REF-0990
+  - REF-0989
+  status: verified
+preparations:
+- name: Rosehip powder (standardised, seedless)
+  text: The form used in osteoarthritis clinical trials.
+  reference_ids:
+  - REF-0989
+  status: verified
+- name: Infusion/tea
+  text: Dried, deseeded hip steeped in hot water - a traditional vitamin C tonic.
+  status: draft
+- name: Syrup
+  text: Traditional preparation, historically used as a vitamin C supplement, particularly for children.
+  status: draft
+- name: Petals
+  text: Occasionally used for their fragrance in traditional preparations.
+  status: draft
+dosage:
+- name: Rosehip powder
+  text: Clinical trials for osteoarthritis have most often used around 5 g/day of standardised rosehip
+    powder. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0989
+  status: verified
+constituents:
+- name: Vitamin C and carotenoids
+  compounds:
+  - carotenoid
+  note: The hip is exceptionally rich in vitamin C and carotenoids, underpinning its traditional tonic
+    use.
+  reference_ids:
+  - REF-0993
+- name: Galactolipid (GOPO)
+  note: A specific galactolipid fraction studied as the likely active anti-inflammatory constituent in
+    osteoarthritis trials of standardised rosehip powder.
+  reference_ids:
+  - REF-0990
+- name: Flavonoids and tannins
+  compounds:
+  - flavonoid
+  - tannin
+  note: Contribute to antioxidant activity.
+  reference_ids:
+  - REF-0992
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -103,7 +186,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -111,4 +194,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0989, REF-0990, REF-0991, REF-0992, REF-0993,
   REF-0994, REF-0995, REF-0996, REF-0997, REF-0998) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing OA pharmacology review (REF-0990), the OA meta-analysis
+  (REF-0989) and the bioactive-compounds/antioxidant study (REF-0993, REF-0992).'

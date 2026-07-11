@@ -8,6 +8,101 @@ parts_used:
 - Leaf
 - Root
 - Seed
+botanical_description:
+  text: Tall, upright perennial herb with square stems and opposite, deeply toothed, heart-shaped to lance-shaped
+    leaves covered in fine stinging hairs that inject formic acid and histamine on contact. Tiny, greenish,
+    petal-less flowers hang in branched, drooping clusters from the leaf axils.
+  height: 60-150 cm
+  habit: Tall, upright, spreading perennial herb, often forming dense colonies via creeping rhizomes
+  leaves: Opposite, deeply toothed, heart-shaped to lance-shaped, densely covered in stinging hairs
+  flowers: Tiny, greenish, petal-less, in branched drooping axillary clusters (catkin-like)
+  stem: Square, upright, covered in stinging hairs
+  root: Extensive creeping rhizome and fibrous roots
+  fruit: Small dry seed (achene)
+  flowering_period: June-September
+  reference_ids:
+  - REF-0098
+  status: verified
+habitat:
+  text: Grows abundantly on nitrogen-rich waste ground, hedgerows, riverbanks, woodland edges and disturbed
+    soil; native to Europe, Asia, North Africa and North America and now found nearly worldwide.
+  reference_ids:
+  - REF-0098
+  status: verified
+harvesting:
+  text: Young leaves and tops are gathered in spring before flowering, when stinging is least severe and
+    nutrient content highest, using gloves; the root is dug in autumn or spring; seed is collected when
+    ripe in late summer. Cooking, drying or freeze-drying neutralises the sting.
+  parts:
+  - Leaf
+  - Root
+  - Seed
+  season: Leaf in spring; root autumn/spring; seed late summer
+  reference_ids:
+  - REF-0098
+  status: verified
+traditional_uses:
+  text: Nettle leaf has a long tradition as a nutritive spring tonic, diuretic and anti-inflammatory remedy
+    for joint pain and rheumatism, while the root has a well-documented traditional and modern use for
+    the irritative urinary symptoms of benign prostatic hyperplasia; the seed has a lighter tradition
+    as a kidney tonic.
+  reference_ids:
+  - REF-0050
+  - REF-0098
+  - REF-0263
+  status: verified
+preparations:
+- name: Infusion (leaf)
+  text: Dried or fresh (cooked/wilted) leaf infused in hot water as a traditional nutritive, diuretic
+    spring tonic tea.
+  reference_ids:
+  - REF-0098
+  status: verified
+- name: Root extract/tincture
+  text: Standardized root extract or tincture, traditionally used for BPH-related urinary symptoms.
+  reference_ids:
+  - REF-0263
+  status: verified
+- name: Freeze-dried leaf (capsule)
+  text: Freeze-dried leaf in capsule form, used to avoid the fresh sting while retaining nutrients.
+  status: draft
+dosage:
+- name: Leaf infusion
+  text: Traditional herbal references suggest around 2-4 g of dried leaf per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+- name: Root extract
+  text: Traditional and Commission E sources suggest around 600-1200 mg root extract daily for BPH-related
+    urinary symptoms. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0263
+  status: verified
+constituents:
+- name: Flavonoids (quercetin, kaempferol glycosides)
+  compounds:
+  - flavonoid
+  - quercetin
+  note: Contribute to the antioxidant and anti-inflammatory action.
+  reference_ids:
+  - REF-0050
+- name: Phenolic acids
+  compounds:
+  - phenolic-acid
+  note: Antioxidant phenolics found throughout the leaf.
+  reference_ids:
+  - REF-0050
+- name: Sterols (beta-sitosterol) and lignans (root)
+  compounds:
+  - phytosterol
+  - lignan
+  note: Thought to underlie the root's traditional use for BPH-related urinary symptoms.
+  reference_ids:
+  - REF-0263
+- name: Histamine, formic acid, acetylcholine (stinging hairs)
+  note: The irritant compounds responsible for the fresh plant's sting; destroyed by cooking, drying or
+    freeze-drying.
+  reference_ids:
+  - REF-0098
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -155,7 +250,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -163,4 +258,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1328, REF-1329, REF-1330, REF-1331, REF-1332,
   REF-1333, REF-1334, REF-1335, REF-1336, REF-1337) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

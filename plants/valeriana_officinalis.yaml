@@ -8,6 +8,87 @@ family: Caprifoliaceae
 parts_used:
 - Rhizome
 - Root
+botanical_description:
+  text: Tall, upright perennial herb with hollow, grooved stems and opposite, pinnately divided leaves.
+    Small, pale pink to white, sweetly scented flowers are borne in dense, domed clusters (cymes) at the
+    top of the stem; the dried root has a distinctive strong, earthy, 'dirty sock' smell.
+  height: 1-1.5 m
+  habit: Tall, upright perennial herb
+  leaves: Opposite, pinnately divided into toothed leaflets
+  flowers: Small, pale pink to white, sweetly scented, in dense domed cymes
+  stem: Hollow, grooved, upright, unbranched below the flower head
+  root: Short rhizome with numerous fibrous roots, strongly aromatic when dried
+  fruit: Small achene with a feathery pappus
+  flowering_period: June-August
+  reference_ids:
+  - REF-0112
+  status: verified
+habitat:
+  text: Grows in damp meadows, ditches, riverbanks and marshy ground, tolerating both sun and partial
+    shade; native to Europe and parts of Asia and naturalised in North America.
+  reference_ids:
+  - REF-0112
+  status: verified
+harvesting:
+  text: The rhizome and roots are dug in autumn of the second year, once the strong characteristic aroma
+    has developed, then cleaned and dried.
+  parts:
+  - Rhizome
+  - Root
+  season: Autumn (second year)
+  reference_ids:
+  - REF-0112
+  status: verified
+traditional_uses:
+  text: Valerian root has a long European tradition, formalised in Commission E approval, as a sedative
+    and mild anxiolytic for restlessness and sleep disorders, and as an antispasmodic for menstrual cramps
+    and muscle spasm; modern systematic reviews support a modest benefit for sleep quality.
+  reference_ids:
+  - REF-0025
+  - REF-0091
+  - REF-0112
+  status: verified
+preparations:
+- name: Standardized root extract (capsule/tablet)
+  text: Standardized root extract taken shortly before bedtime, the form most used in clinical research.
+  reference_ids:
+  - REF-0025
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried root, typically 1:5.
+  status: draft
+- name: Decoction/infusion
+  text: Dried root simmered briefly in water or infused, though the strong smell and taste make extracts
+    more commonly used.
+  status: draft
+dosage:
+- name: Standardized extract
+  text: Commission E and clinical research commonly suggest around 400-900 mg standardized root extract
+    taken 30-60 minutes before bedtime. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0112
+  status: verified
+constituents:
+- name: Valerenic acid and valerenal
+  compounds:
+  - valerenic-acid
+  note: Sesquiterpenes thought to be key contributors to the sedative, GABA-A-modulating action.
+  reference_ids:
+  - REF-0025
+- name: Iridoids (valepotriates)
+  compounds:
+  - iridoid-glycoside
+  note: Unstable iridoid esters historically of pharmacological interest, though their contribution to
+    the whole-root effect is debated.
+  reference_ids:
+  - REF-0112
+- name: Essential oil (bornyl acetate and sesquiterpenes)
+  compounds:
+  - essential-oil
+  - sesquiterpene
+  note: Responsible for the root's characteristic strong aroma.
+  reference_ids:
+  - REF-0112
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -125,7 +206,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect of CNS depressants, sleep medicines, benzodiazepines and alcohol (a meta-analysis supports valerian improving sleep quality).'
+  mechanism: Valerian acts on GABA-A receptors like benzodiazepines and may add to the sedative effect
+    of CNS depressants, sleep medicines, benzodiazepines and alcohol (a meta-analysis supports valerian
+    improving sleep quality).
   reference_ids:
   - REF-2440
   - REF-2533
@@ -135,7 +218,9 @@ drug_class_interactions:
 pairings:
 - partner_id: humulus-lupulus
   type: synergy
-  note: 'Valerian and hops are traditionally combined for sleep; a controlled trial found the valerian-hops combination shortened the time to fall asleep more than valerian alone. Both add to sedation, so expect stronger drowsiness.'
+  note: Valerian and hops are traditionally combined for sleep; a controlled trial found the valerian-hops
+    combination shortened the time to fall asleep more than valerian alone. Both add to sedation, so expect
+    stronger drowsiness.
   reference_ids:
   - REF-2451
   - REF-2452
@@ -144,7 +229,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: passiflora-incarnata
   type: synergy
-  note: 'Valerian and passionflower are both mild GABA-acting sedatives often blended in sleep and calming formulas; combined use may enhance relaxation but also additive drowsiness.'
+  note: Valerian and passionflower are both mild GABA-acting sedatives often blended in sleep and calming
+    formulas; combined use may enhance relaxation but also additive drowsiness.
   reference_ids:
   - REF-2452
   - REF-2453
@@ -153,7 +239,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: melissa-officinalis
   type: synergy
-  note: 'Valerian and lemon balm are a classic calming pair acting on the GABA system to improve sleep quality; combined use may increase sedation.'
+  note: Valerian and lemon balm are a classic calming pair acting on the GABA system to improve sleep
+    quality; combined use may increase sedation.
   reference_ids:
   - REF-2452
   status: approved
@@ -166,13 +253,26 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: conium-maculatum
   severity: fatal
-  confused_part: Tall damp-ground plant with divided leaves and clusters of tiny white/pink flowers gathered for its root; poison hemlock has a similar growth habit and white flowers.
-  confusion_context: Valerian (Valeriana officinalis) is a tall plant of damp ground, dug for its sedative root. As Practical Self Reliance warns, other plants with a similar growth habit and white flowers are deadly toxic - namely poison hemlock (Conium maculatum), which shares the damp habitat and tall stature; water hemlock (Cicuta) can grow in the same wet ground. Poison hemlock contains coniine and kills by paralysis and respiratory failure. Because valerian's divided leaves and frothy pale flower clusters can be taken for a hemlock at a glance, careful identification is essential.
+  confused_part: Tall damp-ground plant with divided leaves and clusters of tiny white/pink flowers gathered
+    for its root; poison hemlock has a similar growth habit and white flowers.
+  confusion_context: Valerian (Valeriana officinalis) is a tall plant of damp ground, dug for its sedative
+    root. As Practical Self Reliance warns, other plants with a similar growth habit and white flowers
+    are deadly toxic - namely poison hemlock (Conium maculatum), which shares the damp habitat and tall
+    stature; water hemlock (Cicuta) can grow in the same wet ground. Poison hemlock contains coniine and
+    kills by paralysis and respiratory failure. Because valerian's divided leaves and frothy pale flower
+    clusters can be taken for a hemlock at a glance, careful identification is essential.
   distinguishing_features:
-  - 'Leaf and flower structure: valerian has OPPOSITE, pinnately divided leaves and domed clusters (cymes) of tiny pink-tinged white flowers. Poison hemlock has alternate, finely feathery (fern-like) leaves and flat-topped white umbels.'
-  - 'Stem: poison hemlock has a hairless stem conspicuously blotched and streaked with red-purple, especially near the base. Valerian stems are plain green and grooved, without purple blotches.'
-  - 'Smell: the pulled valerian root smells unmistakably of dirty socks/earthy funk; poison hemlock smells rank, musty and mouse-like.'
-  key_test: Check the stem, leaves and root smell. Opposite divided leaves, a plain green stem, domed pink-white flower clusters and a dirty-sock root smell = valerian. A hairless stem with red-purple blotches, feathery leaves, flat white umbels and a musty/mousy smell = poison hemlock - deadly, do not gather. If the stem is purple-blotched, do not touch it to your mouth.
+  - 'Leaf and flower structure: valerian has OPPOSITE, pinnately divided leaves and domed clusters (cymes)
+    of tiny pink-tinged white flowers. Poison hemlock has alternate, finely feathery (fern-like) leaves
+    and flat-topped white umbels.'
+  - 'Stem: poison hemlock has a hairless stem conspicuously blotched and streaked with red-purple, especially
+    near the base. Valerian stems are plain green and grooved, without purple blotches.'
+  - 'Smell: the pulled valerian root smells unmistakably of dirty socks/earthy funk; poison hemlock smells
+    rank, musty and mouse-like.'
+  key_test: Check the stem, leaves and root smell. Opposite divided leaves, a plain green stem, domed
+    pink-white flower clusters and a dirty-sock root smell = valerian. A hairless stem with red-purple
+    blotches, feathery leaves, flat white umbels and a musty/mousy smell = poison hemlock - deadly, do
+    not gather. If the stem is purple-blotched, do not touch it to your mouth.
   reference_ids:
   - REF-2701
   - REF-2610
@@ -182,7 +282,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -190,4 +290,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1348, REF-1349, REF-1350, REF-1351, REF-1352,
   REF-1353, REF-1354, REF-1355, REF-1356, REF-1357) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

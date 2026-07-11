@@ -56178,6 +56178,129 @@
     "Root",
     "Seed"
    ],
+   "botanical_description": {
+    "text": "Tall, upright perennial herb with square stems and opposite, deeply toothed, heart-shaped to lance-shaped leaves covered in fine stinging hairs that inject formic acid and histamine on contact. Tiny, greenish, petal-less flowers hang in branched, drooping clusters from the leaf axils.",
+    "height": "60-150 cm",
+    "habit": "Tall, upright, spreading perennial herb, often forming dense colonies via creeping rhizomes",
+    "leaves": "Opposite, deeply toothed, heart-shaped to lance-shaped, densely covered in stinging hairs",
+    "flowers": "Tiny, greenish, petal-less, in branched drooping axillary clusters (catkin-like)",
+    "stem": "Square, upright, covered in stinging hairs",
+    "root": "Extensive creeping rhizome and fibrous roots",
+    "fruit": "Small dry seed (achene)",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows abundantly on nitrogen-rich waste ground, hedgerows, riverbanks, woodland edges and disturbed soil; native to Europe, Asia, North Africa and North America and now found nearly worldwide.",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Young leaves and tops are gathered in spring before flowering, when stinging is least severe and nutrient content highest, using gloves; the root is dug in autumn or spring; seed is collected when ripe in late summer. Cooking, drying or freeze-drying neutralises the sting.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Seed"
+    ],
+    "season": "Leaf in spring; root autumn/spring; seed late summer",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Nettle leaf has a long tradition as a nutritive spring tonic, diuretic and anti-inflammatory remedy for joint pain and rheumatism, while the root has a well-documented traditional and modern use for the irritative urinary symptoms of benign prostatic hyperplasia; the seed has a lighter tradition as a kidney tonic.",
+    "reference_ids": [
+     "REF-0050",
+     "REF-0098",
+     "REF-0263"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (leaf)",
+     "text": "Dried or fresh (cooked/wilted) leaf infused in hot water as a traditional nutritive, diuretic spring tonic tea.",
+     "reference_ids": [
+      "REF-0098"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Root extract/tincture",
+     "text": "Standardized root extract or tincture, traditionally used for BPH-related urinary symptoms.",
+     "reference_ids": [
+      "REF-0263"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Freeze-dried leaf (capsule)",
+     "text": "Freeze-dried leaf in capsule form, used to avoid the fresh sting while retaining nutrients.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Leaf infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried leaf per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Root extract",
+     "text": "Traditional and Commission E sources suggest around 600-1200 mg root extract daily for BPH-related urinary symptoms. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0263"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Flavonoids (quercetin, kaempferol glycosides)",
+     "compounds": [
+      "flavonoid",
+      "quercetin"
+     ],
+     "note": "Contribute to the antioxidant and anti-inflammatory action.",
+     "reference_ids": [
+      "REF-0050"
+     ]
+    },
+    {
+     "name": "Phenolic acids",
+     "compounds": [
+      "phenolic-acid"
+     ],
+     "note": "Antioxidant phenolics found throughout the leaf.",
+     "reference_ids": [
+      "REF-0050"
+     ]
+    },
+    {
+     "name": "Sterols (beta-sitosterol) and lignans (root)",
+     "compounds": [
+      "phytosterol",
+      "lignan"
+     ],
+     "note": "Thought to underlie the root's traditional use for BPH-related urinary symptoms.",
+     "reference_ids": [
+      "REF-0263"
+     ]
+    },
+    {
+     "name": "Histamine, formic acid, acetylcholine (stinging hairs)",
+     "note": "The irritant compounds responsible for the fresh plant's sting; destroyed by cooking, drying or freeze-drying.",
+     "reference_ids": [
+      "REF-0098"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -56389,7 +56512,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "stinging-nettle"
   },
   {
@@ -56444,6 +56567,65 @@
      "reference_ids": [
       "REF-0391"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Low, trailing, evergreen woody vine with small, wiry stems and small, oval, leathery leaves. Small, pink, four-petalled flowers with reflexed petals give way to round to oblong, tart red berries.",
+    "height": "5-20 cm (trailing vine, stems can spread 1-2 m)",
+    "habit": "Low, trailing, evergreen woody vine",
+    "leaves": "Small, oval, leathery, dark green above and pale beneath",
+    "flowers": "Small, pink, four-petalled with reflexed (swept-back) petals",
+    "stem": "Wiry, trailing, rooting at nodes",
+    "root": "Shallow, fibrous root system",
+    "fruit": "Round to oblong, tart, red berry",
+    "flowering_period": "May-July",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Grows in acidic bogs, wetlands and sandy peat soils; native to North America and now widely cultivated commercially, especially in flooded bogs.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Berries are harvested in autumn when fully red, either dry-picked or by flooding the bog so the berries float (wet harvest) for collection.",
+    "parts": [
+     "Fruit (berry)"
+    ],
+    "season": "Autumn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Cranberry has a long Native American and North American folk tradition as a food and remedy for urinary complaints, an association now well supported by modern research showing its A-type proanthocyanidins prevent E. coli from adhering to the urinary tract lining, making it most useful for prevention of recurrent UTIs rather than treatment of an active infection.",
+    "reference_ids": [
+     "REF-0389"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Juice",
+     "text": "Unsweetened or lightly sweetened cranberry juice, taken regularly as a traditional and modern preventive measure for recurrent UTIs.",
+     "reference_ids": [
+      "REF-0389"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardized tablet/capsule",
+     "text": "Standardized proanthocyanidin (PAC) extract in tablet or capsule form, used for UTI prevention in clinical research.",
+     "reference_ids": [
+      "REF-0389"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Juice/extract",
+     "text": "Clinical research commonly uses around 36 mg PAC daily (standardized extract) or 240-300 mL unsweetened juice daily for UTI prevention. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0389"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -56577,7 +56759,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "american-cranberry"
   },
   {
@@ -56625,6 +56807,69 @@
      "reference_ids": [
       "REF-0409"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Low, deciduous, much-branched shrub with sharply angled green stems and small, oval, finely toothed leaves. Small, pinkish-green, globe-shaped flowers are borne singly or in pairs, giving way to single, dark blue-black berries with a distinctive crowned top.",
+    "height": "15-50 cm",
+    "habit": "Low, deciduous, much-branched shrub",
+    "leaves": "Small, oval, finely toothed, bright green, turning red in autumn",
+    "flowers": "Small, pinkish-green, globe-shaped, borne singly or in pairs",
+    "stem": "Sharply angled (winged), green, much-branched",
+    "root": "Shallow, spreading rhizome",
+    "fruit": "Single dark blue-black berry with a small crowned top, red-purple staining flesh",
+    "flowering_period": "April-June",
+    "reference_ids": [
+     "REF-0408"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on acidic heaths, moorland and open coniferous woodland; native to Europe, northern Asia and North America.",
+    "reference_ids": [
+     "REF-0408"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Berries are hand-picked or gathered with a berry rake when fully ripe in mid-to-late summer.",
+    "parts": [
+     "Fruit (berry)"
+    ],
+    "season": "Mid-to-late summer",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Bilberry has a long European folk tradition as a food and remedy for diarrhoea, eye strain and circulatory complaints, with dried berry and standardized anthocyanin extracts studied for cardiovascular and metabolic support; claims of improved night vision in people with normal eyesight are not supported by rigorous clinical trials.",
+    "reference_ids": [
+     "REF-0408",
+     "REF-0409"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Dried berry / decoction",
+     "text": "Dried berries taken whole or as a decoction, a traditional remedy for diarrhoea and general digestive upset.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardized extract",
+     "text": "Standardized anthocyanoside extract (commonly 25% anthocyanosides), used in circulatory and eye-health research.",
+     "reference_ids": [
+      "REF-0409"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardized extract",
+     "text": "Clinical research commonly uses around 160-480 mg of standardized 25% anthocyanoside extract daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0409"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -56828,7 +57073,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "bilberry"
   },
   {
@@ -56843,6 +57088,112 @@
    "parts_used": [
     "Rhizome",
     "Root"
+   ],
+   "botanical_description": {
+    "text": "Tall, upright perennial herb with hollow, grooved stems and opposite, pinnately divided leaves. Small, pale pink to white, sweetly scented flowers are borne in dense, domed clusters (cymes) at the top of the stem; the dried root has a distinctive strong, earthy, 'dirty sock' smell.",
+    "height": "1-1.5 m",
+    "habit": "Tall, upright perennial herb",
+    "leaves": "Opposite, pinnately divided into toothed leaflets",
+    "flowers": "Small, pale pink to white, sweetly scented, in dense domed cymes",
+    "stem": "Hollow, grooved, upright, unbranched below the flower head",
+    "root": "Short rhizome with numerous fibrous roots, strongly aromatic when dried",
+    "fruit": "Small achene with a feathery pappus",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0112"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in damp meadows, ditches, riverbanks and marshy ground, tolerating both sun and partial shade; native to Europe and parts of Asia and naturalised in North America.",
+    "reference_ids": [
+     "REF-0112"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The rhizome and roots are dug in autumn of the second year, once the strong characteristic aroma has developed, then cleaned and dried.",
+    "parts": [
+     "Rhizome",
+     "Root"
+    ],
+    "season": "Autumn (second year)",
+    "reference_ids": [
+     "REF-0112"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Valerian root has a long European tradition, formalised in Commission E approval, as a sedative and mild anxiolytic for restlessness and sleep disorders, and as an antispasmodic for menstrual cramps and muscle spasm; modern systematic reviews support a modest benefit for sleep quality.",
+    "reference_ids": [
+     "REF-0025",
+     "REF-0091",
+     "REF-0112"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardized root extract (capsule/tablet)",
+     "text": "Standardized root extract taken shortly before bedtime, the form most used in clinical research.",
+     "reference_ids": [
+      "REF-0025"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root, typically 1:5.",
+     "status": "draft"
+    },
+    {
+     "name": "Decoction/infusion",
+     "text": "Dried root simmered briefly in water or infused, though the strong smell and taste make extracts more commonly used.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardized extract",
+     "text": "Commission E and clinical research commonly suggest around 400-900 mg standardized root extract taken 30-60 minutes before bedtime. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0112"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Valerenic acid and valerenal",
+     "compounds": [
+      "valerenic-acid"
+     ],
+     "note": "Sesquiterpenes thought to be key contributors to the sedative, GABA-A-modulating action.",
+     "reference_ids": [
+      "REF-0025"
+     ]
+    },
+    {
+     "name": "Iridoids (valepotriates)",
+     "compounds": [
+      "iridoid-glycoside"
+     ],
+     "note": "Unstable iridoid esters historically of pharmacological interest, though their contribution to the whole-root effect is debated.",
+     "reference_ids": [
+      "REF-0112"
+     ]
+    },
+    {
+     "name": "Essential oil (bornyl acetate and sesquiterpenes)",
+     "compounds": [
+      "essential-oil",
+      "sesquiterpene"
+     ],
+     "note": "Responsible for the root's characteristic strong aroma.",
+     "reference_ids": [
+      "REF-0112"
+     ]
+    }
    ],
    "actions": [
     {
@@ -57084,7 +57435,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "valerian"
   },
   {
@@ -57141,6 +57492,76 @@
       "REF-1384",
       "REF-1387"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Tall, stately biennial herb, very similar to great mullein, forming a low first-year rosette of large, thick, woolly grey-green leaves; the second-year flowering spike bears densely packed, large bright yellow flowers, generally more densely and showily flowered than V. thapsus.",
+    "height": "1-2 m (flowering stem, second year)",
+    "habit": "Tall, biennial herb; woolly basal rosette in year one, dense tall flowering spike in year two",
+    "leaves": "Large, thick, woolly grey-green, entire to faintly scalloped margin",
+    "flowers": "Densely packed, large, bright yellow, five-petalled, along a tall unbranched spike",
+    "stem": "Single, tall, unbranched, woolly flowering stem (second year only)",
+    "root": "Stout taproot",
+    "fruit": "Small capsule with numerous tiny seeds",
+    "flowering_period": "June-September (second year)",
+    "reference_ids": [
+     "REF-0441"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry, sunny waste ground, roadsides and disturbed soil; native to Europe and western Asia.",
+    "reference_ids": [
+     "REF-0441"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowers (Verbasci flos) are picked individually as they open through summer, since they open only a few at a time and fade quickly, then dried promptly to preserve colour and mucilage content.",
+    "parts": [
+     "Flower (Verbasci flos)"
+    ],
+    "season": "Summer, as flowers open",
+    "reference_ids": [
+     "REF-0441"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Together with great mullein and V. phlomoides, dense-flowered mullein flower is officially recognised in the EU herbal monograph and ESCOP monograph as a traditional demulcent and mild expectorant for cough and cold with sore throat, used to soothe irritated mucous membranes of the upper respiratory tract.",
+    "reference_ids": [
+     "REF-0441",
+     "REF-0442"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (flower)",
+     "text": "Dried flower infused in hot water, carefully strained to remove fine hairs, as the standard traditional preparation for cough and sore throat.",
+     "reference_ids": [
+      "REF-0441",
+      "REF-0442"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infused oil (flower, earache)",
+     "text": "Flowers infused in oil, traditionally used (often combined with other herbs) as ear drops for earache.",
+     "reference_ids": [
+      "REF-0442"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "The EU herbal monograph suggests around 1.5-2 g of dried flower per cup, up to three times daily, in adults and adolescents over 12 years. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0441"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -57317,7 +57738,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "dense-flowered-mullein"
   },
   {

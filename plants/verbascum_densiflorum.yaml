@@ -38,6 +38,65 @@ constituents:
   - REF-1382
   - REF-1384
   - REF-1387
+botanical_description:
+  text: Tall, stately biennial herb, very similar to great mullein, forming a low first-year rosette of
+    large, thick, woolly grey-green leaves; the second-year flowering spike bears densely packed, large
+    bright yellow flowers, generally more densely and showily flowered than V. thapsus.
+  height: 1-2 m (flowering stem, second year)
+  habit: Tall, biennial herb; woolly basal rosette in year one, dense tall flowering spike in year two
+  leaves: Large, thick, woolly grey-green, entire to faintly scalloped margin
+  flowers: Densely packed, large, bright yellow, five-petalled, along a tall unbranched spike
+  stem: Single, tall, unbranched, woolly flowering stem (second year only)
+  root: Stout taproot
+  fruit: Small capsule with numerous tiny seeds
+  flowering_period: June-September (second year)
+  reference_ids:
+  - REF-0441
+  status: verified
+habitat:
+  text: Grows on dry, sunny waste ground, roadsides and disturbed soil; native to Europe and western Asia.
+  reference_ids:
+  - REF-0441
+  status: verified
+harvesting:
+  text: The flowers (Verbasci flos) are picked individually as they open through summer, since they open
+    only a few at a time and fade quickly, then dried promptly to preserve colour and mucilage content.
+  parts:
+  - Flower (Verbasci flos)
+  season: Summer, as flowers open
+  reference_ids:
+  - REF-0441
+  status: verified
+traditional_uses:
+  text: Together with great mullein and V. phlomoides, dense-flowered mullein flower is officially recognised
+    in the EU herbal monograph and ESCOP monograph as a traditional demulcent and mild expectorant for
+    cough and cold with sore throat, used to soothe irritated mucous membranes of the upper respiratory
+    tract.
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: verified
+preparations:
+- name: Infusion (flower)
+  text: Dried flower infused in hot water, carefully strained to remove fine hairs, as the standard traditional
+    preparation for cough and sore throat.
+  reference_ids:
+  - REF-0441
+  - REF-0442
+  status: verified
+- name: Infused oil (flower, earache)
+  text: Flowers infused in oil, traditionally used (often combined with other herbs) as ear drops for
+    earache.
+  reference_ids:
+  - REF-0442
+  status: verified
+dosage:
+- name: Infusion
+  text: The EU herbal monograph suggests around 1.5-2 g of dried flower per cup, up to three times daily,
+    in adults and adolescents over 12 years. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0441
+  status: verified
 actions:
 - action: demulcent
   note: Demulcent and mild expectorant for cough and cold with sore throat and dry, irritating cough;
@@ -147,12 +206,22 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: digitalis-purpurea
   severity: fatal
-  confused_part: First-year basal leaf rosette (the foraged leaf, used for tea), before either plant sends up a flower spike.
-  confusion_context: 'Dense-flowered mullein is foraged for the same soft woolly rosette leaves as great mullein and shares the identical dangerous look-alike: foxglove, whose poisonous first-year rosette resembles foraged soft-leaf rosettes and has caused cardiac-glycoside poisonings when eaten as comfrey or borage. The two co-occur in the same disturbed, sunny habitats. Foxglove contains cardiac glycosides and can be fatal.'
+  confused_part: First-year basal leaf rosette (the foraged leaf, used for tea), before either plant sends
+    up a flower spike.
+  confusion_context: 'Dense-flowered mullein is foraged for the same soft woolly rosette leaves as great
+    mullein and shares the identical dangerous look-alike: foxglove, whose poisonous first-year rosette
+    resembles foraged soft-leaf rosettes and has caused cardiac-glycoside poisonings when eaten as comfrey
+    or borage. The two co-occur in the same disturbed, sunny habitats. Foxglove contains cardiac glycosides
+    and can be fatal.'
   distinguishing_features:
-  - Mullein leaves are densely, evenly woolly on BOTH surfaces — a thick silvery-grey felt that gives a soft blanket-like nap and largely hides the veins. Foxglove's upper surface is green and only thinly downy, never a thick silvery felt, and shows a sunken net of veins.
-  - Foxglove leaves have a distinctly toothed or scalloped margin; mullein margins are entire to only faintly scalloped. Use this only alongside the wool test, not on its own.
-  key_test: 'Look at the UPPER surface: a thick, even, silvery wool that hides the veins = mullein. A green, matte, net-veined upper surface (only thinly hairy) with a toothed edge = foxglove — do not use it.'
+  - Mullein leaves are densely, evenly woolly on BOTH surfaces — a thick silvery-grey felt that gives
+    a soft blanket-like nap and largely hides the veins. Foxglove's upper surface is green and only thinly
+    downy, never a thick silvery felt, and shows a sunken net of veins.
+  - Foxglove leaves have a distinctly toothed or scalloped margin; mullein margins are entire to only
+    faintly scalloped. Use this only alongside the wool test, not on its own.
+  key_test: 'Look at the UPPER surface: a thick, even, silvery wool that hides the veins = mullein. A
+    green, matte, net-veined upper surface (only thinly hairy) with a toothed edge = foxglove — do not
+    use it.'
   reference_ids:
   - REF-2604
   - REF-2606
@@ -162,7 +231,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph and
   ESCOP monograph, which cover V. densiflorum together with V. thapsus and V. phlomoides). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis, earache,
@@ -173,4 +242,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1381, REF-1382,
   REF-1383, REF-1384, REF-1385, REF-1386, REF-0332, REF-1387, REF-1123, REF-1130) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
+  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
+  policy.'

@@ -70,6 +70,96 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Aromatic, rhizomatous perennial herb with erect, grooved, softly hairy stems arising in clumps from a creeping rootstock. The leaves are alternate, 2-3-pinnately dissected into narrow feathery segments, giving the whole plant a soft, fern-like texture (hence 'millefolium', thousand-leaved). Numerous small white to pale-pink flower heads are borne in dense, flat-topped compound corymbs at the stem tips. The plant has a sweet, herbaceous, slightly medicinal aroma when crushed.",
+    "height": "20-100 cm (occasionally to 1 m)",
+    "habit": "Erect, rhizomatous, mat-forming perennial herb",
+    "leaves": "Alternate, 2-3-pinnately dissected into narrow feathery segments; aromatic when crushed",
+    "flowers": "Small white to pale pink flower heads in dense, flat-topped compound corymbs",
+    "stem": "Erect, grooved, softly hairy/woolly, plain green (never purple-blotched)",
+    "root": "Creeping, fibrous rhizome",
+    "fruit": "Small flattened achenes without pappus",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0369"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A common plant of grassland, meadows, roadsides, pastures and waste ground on a wide range of soils; native throughout Europe and temperate Asia and now naturalised across North America, Australia and New Zealand.",
+    "reference_ids": [
+     "REF-0369"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts (leaf, stem and flower) are cut as the flat-topped corymbs open, in mid- to late summer, and dried quickly in a warm, shaded, airy place to preserve the essential oil and colour.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Summer, at full flower (June-September)",
+    "reference_ids": [
+     "REF-0369"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Yarrow has an ancient reputation as a wound herb (its old name 'staunchweed' and its association with Achilles reflect traditional use to stop bleeding and heal wounds) and as a bitter digestive and diaphoretic remedy for feverish colds, spasmodic gastrointestinal complaints, hepatobiliary disorders and gynaecological complaints. The flowering herb is classically taken as a hot infusion at the onset of a cold or fever to promote sweating, and used as a bitter tonic to stimulate appetite and digestion.",
+    "reference_ids": [
+     "REF-0369",
+     "REF-2077"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a bitter digestive and diaphoretic tea, traditionally taken hot at the onset of colds and fevers.",
+     "reference_ids": [
+      "REF-0369"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the fresh or dried flowering herb, typically around 1:5 in 45% alcohol.",
+     "status": "draft"
+    },
+    {
+     "name": "Poultice/compress",
+     "text": "Fresh crushed leaf or flowering tops applied directly to minor cuts and wounds, reflecting the traditional styptic (bleeding-stopping) and vulnerary use.",
+     "reference_ids": [
+      "REF-0369",
+      "REF-2085"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the flowering tops; the chamazulene-rich blue oil is used in low dilution for its anti-inflammatory action.",
+     "reference_ids": [
+      "REF-0369"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Dried herb infusion",
+     "text": "Traditional herbal references suggest roughly 2-4 g of dried flowering herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0373"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Tincture (1:5)",
+     "text": "About 1-4 mL of a 1:5 tincture, up to three times daily in adults. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -517,7 +607,7 @@
    ],
    "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "yarrow"
   },
   {
@@ -557,6 +647,77 @@
       "REF-0516",
       "REF-2275"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Aromatic, semi-aquatic perennial herb spreading by a thick, branching, aromatic rhizome that creeps horizontally in mud at the water's edge. The leaves are erect, sword-shaped (ensiform), bright green and arranged in a fan like an iris, with a distinctive off-centre midrib and one crinkled, wavy margin. A small, finger-like, greenish-yellow flower spike (spadix) emerges obliquely part-way up a leaf-like flowering stem in summer, but in cool temperate climates the plant rarely sets viable seed and spreads mainly by rhizome division.",
+    "height": "50-150 cm (leaves)",
+    "habit": "Erect, rhizomatous, semi-aquatic perennial herb",
+    "leaves": "Erect, sword-shaped, iris-like, with an off-centre midrib and one wavy margin; strongly aromatic when crushed",
+    "flowers": "Small greenish-yellow flowers crowded on a finger-like spadix borne obliquely on a leaf-like stalk",
+    "stem": "Leaf-like flowering stalk arising from the rhizome; the true stem is the underground rhizome",
+    "root": "Thick, branching, aromatic creeping rhizome",
+    "fruit": "Rarely sets viable seed in temperate climates; propagates mainly by rhizome division",
+    "flowering_period": "Late spring to summer",
+    "reference_ids": [
+     "REF-0516"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in shallow water and wet mud at the margins of ponds, lakes, slow-moving rivers and marshes. Native to Asia and North America and long naturalised across Europe, where it was historically cultivated and traded for its aromatic rhizome.",
+    "reference_ids": [
+     "REF-0516"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The rhizome is dug from autumn to early spring, when its aromatic oil content is highest, then washed, peeled and dried; the strong sweet-spicy fragrance released on cutting helps confirm correct identification against non-aromatic look-alikes such as yellow flag iris.",
+    "parts": [
+     "Rhizome"
+    ],
+    "season": "Autumn to early spring",
+    "reference_ids": [
+     "REF-0516"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Sweet flag rhizome is a classic aromatic bitter and nervine of Ayurvedic and East Asian traditional medicine, used for indigestion, bloating, flatulence and poor appetite, and as a nervine tonic for memory, concentration and mild nervous complaints.",
+    "reference_ids": [
+     "REF-0516"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried, peeled rhizome simmered in water as a bitter digestive and nervine decoction.",
+     "reference_ids": [
+      "REF-0516"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried rhizome.",
+     "status": "draft"
+    },
+    {
+     "name": "Powder",
+     "text": "Dried rhizome powdered and traditionally taken in small amounts, often with honey, as a digestive and nervine remedy.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "All preparations",
+     "text": "Because beta-asarone is hepatotoxic, mutagenic and carcinogenic in animal studies and its content varies widely between varieties, no general dose is given here; internal use should be restricted to properly characterised, beta-asarone-free preparations under professional guidance. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0515",
+      "REF-0516"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -779,7 +940,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "sweet-flag"
   },
   {
@@ -819,6 +980,86 @@
      "reference_ids": [
       "REF-0415"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Tall, woodland perennial herb rising from a thick, knotty, dark rhizome with wiry black roots. The leaves are large and compound (2-3-ternately divided), with sharply toothed, oval to lance-shaped leaflets. In summer it sends up tall, wand-like racemes of small, unpleasant-smelling white flowers held well above the foliage, giving rise to the old name 'bugbane'; the flowers lack petals and consist mainly of a fluffy cluster of white stamens.",
+    "height": "1-2.5 m (flowering stems)",
+    "habit": "Tall, rhizomatous, woodland perennial herb",
+    "leaves": "Large, 2-3-ternately compound, with sharply toothed oval to lance-shaped leaflets",
+    "flowers": "Small, malodorous, petal-less white flowers with fluffy stamens in tall wand-like racemes",
+    "stem": "Tall, erect flowering stem well above the basal foliage",
+    "root": "Thick, knotty, dark rhizome with numerous wiry black roots",
+    "fruit": "Dry, follicle-like seed pods",
+    "flowering_period": "Summer (June-September)",
+    "reference_ids": [
+     "REF-2398"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to rich, shaded deciduous woodland and woodland margins of eastern North America, from southern Canada to Georgia, typically on moist, humus-rich soils.",
+    "reference_ids": [
+     "REF-2398"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root and rhizome are dug in autumn, after the seeds have ripened and the foliage has died back and the plant's energy has returned to the rootstock; the rhizome is cleaned, cut and dried.",
+    "parts": [
+     "Root and rhizome"
+    ],
+    "season": "Autumn",
+    "reference_ids": [
+     "REF-2398"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Black cohosh root was used by Native American peoples for gynaecological complaints, rheumatism and general malaise, and entered nineteenth-century Eclectic medicine as a remedy for menstrual and menopausal disorders. It remains best known today as a standardised extract for menopausal hot flashes, night sweats and mood disturbance.",
+    "reference_ids": [
+     "REF-2398",
+     "REF-2589"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Isopropanolic or ethanolic extracts of the dried root and rhizome, standardised to triterpene glycoside content, are the best-studied clinical form.",
+     "reference_ids": [
+      "REF-0415",
+      "REF-2398"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root and rhizome, typically around 1:10.",
+     "status": "draft"
+    },
+    {
+     "name": "Decoction",
+     "text": "Traditional decoction of the dried, chopped root and rhizome.",
+     "reference_ids": [
+      "REF-2398"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical studies commonly use standardised extracts equivalent to around 40 mg dried root/rhizome daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0415"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Tincture (1:10)",
+     "text": "Traditional herbal references suggest around 1-2 mL of a 1:10 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "indications": [
@@ -971,7 +1212,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "black-cohosh"
   },
   {
@@ -989,6 +1230,113 @@
     "Leaf",
     "Root",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Vigorous, low, patch-forming perennial herb spreading rapidly by white, brittle, creeping rhizomes. The leaves are broad and twice-ternate (in threes of threes), with oval, sharply toothed leaflets, borne on long stalks. In summer it sends up hollow, grooved, unspotted green stems topped with flat umbels of small white flowers, typical of the carrot family. The whole plant smells mildly of parsley or carrot when crushed.",
+    "height": "30-100 cm",
+    "habit": "Low, mat-forming, rhizomatous perennial herb",
+    "leaves": "Broad, twice-ternate, with oval sharply toothed leaflets in groups of three",
+    "flowers": "Small white flowers in flat compound umbels",
+    "stem": "Hollow, grooved, plain green (never purple-spotted)",
+    "root": "Thin, white, brittle, fast-spreading creeping rhizome",
+    "fruit": "Small ridged schizocarp typical of the carrot family",
+    "flowering_period": "May-July",
+    "reference_ids": [
+     "REF-0719"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A common weed of gardens, hedgerows, shaded waste ground and disturbed soil, often near old dwellings; native to Europe and temperate Asia and widely naturalised elsewhere, where its invasive spreading rhizomes make it a persistent garden weed.",
+    "reference_ids": [
+     "REF-0719"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The young leaves and stems are gathered in spring, before flowering, when they are most tender and least bitter; the root can be dug at the same time. Careful identification against poisonous Apiaceae look-alikes (poison hemlock, hemlock water-dropwort, fool's parsley) is essential before harvesting.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Stem"
+    ],
+    "season": "Spring, before flowering",
+    "reference_ids": [
+     "REF-0719"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Ground elder has long been used in European folk medicine as a remedy for gout and rheumatic and arthritic joint pain (reflected in the name 'podagraria', from podagra, gout), typically applied as a poultice or taken as a decoction. The young leaves have also been eaten as a spring pot-herb, valued for their nutrient content as well as their medicinal reputation.",
+    "reference_ids": [
+     "REF-0719"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried or fresh leaf, stem and root simmered in water as a traditional remedy for gout and rheumatic pain.",
+     "reference_ids": [
+      "REF-0719"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Poultice",
+     "text": "Fresh leaves crushed or boiled and applied directly to gouty or arthritic joints.",
+     "reference_ids": [
+      "REF-0719"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Fresh leaf (culinary/medicinal)",
+     "text": "Young spring leaves eaten as a cooked pot-herb, similarly to spinach, continuing the traditional food-medicine use.",
+     "reference_ids": [
+      "REF-0719"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction / infusion",
+     "text": "Traditional use has no standardised modern dose; herbal references suggest a small handful of fresh leaf and stem per cup as an infusion or light decoction. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Polyacetylenes (falcarindiol)",
+     "note": "Falcarindiol, a potent COX-1 inhibitor (IC50 0.3 microM), identified as a key anti-inflammatory constituent underlying the plant's traditional anti-rheumatic and analgesic use.",
+     "reference_ids": [
+      "REF-1690",
+      "REF-2562"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic compounds",
+     "compounds": [
+      "flavonoid",
+      "phenolic-compound"
+     ],
+     "note": "Contribute to the plant's antioxidant activity.",
+     "reference_ids": [
+      "REF-0719"
+     ]
+    },
+    {
+     "name": "Coumarins and essential oil",
+     "compounds": [
+      "coumarin",
+      "essential-oil"
+     ],
+     "note": "Minor aromatic and coumarin constituents of the aerial parts.",
+     "reference_ids": [
+      "REF-0719"
+     ]
+    }
    ],
    "actions": [
     {
@@ -1242,7 +1590,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "ground-elder"
   },
   {
@@ -1286,6 +1634,81 @@
       "REF-0471",
       "REF-2406"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Large deciduous tree, to 25-30 m, with a broad domed crown and stout, upward-arching branches. The leaves are opposite and palmately compound, with five to seven large, obovate, toothed leaflets radiating from a long stalk. In spring the tree bears large, showy, upright pyramidal flower spikes ('candles') of white flowers marked with yellow or pink at the base. The glossy brown seeds ('conkers') develop inside a spiky green husk and fall in autumn.",
+    "height": "Up to 25-30 m",
+    "habit": "Large deciduous tree",
+    "leaves": "Opposite, palmately compound with 5-7 large obovate toothed leaflets",
+    "flowers": "Showy, upright, pyramidal spikes ('candles') of white flowers marked yellow/pink at the base",
+    "stem": "Stout trunk with a broad domed crown of upward-arching branches",
+    "root": "Not medicinally used",
+    "fruit": "Glossy brown seed ('conker') enclosed in a spiny green husk",
+    "flowering_period": "April-May",
+    "reference_ids": [
+     "REF-2402"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Balkan Peninsula, and widely planted and naturalised as an ornamental and avenue tree across temperate Europe, North America and elsewhere.",
+    "reference_ids": [
+     "REF-2402"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The seeds are gathered as they fall from the spiny husks in autumn; medicinal use requires a standardised, processed extract, since the raw seed, bark and leaves contain toxic esculin and must never be eaten raw.",
+    "parts": [
+     "Seed (standardised extract)"
+    ],
+    "season": "Autumn",
+    "reference_ids": [
+     "REF-0470",
+     "REF-2402"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Horse chestnut seed has a long folk history as a remedy for varicose veins, haemorrhoids and 'heavy legs', and was also used topically for rheumatic pain and bruising. Modern use is almost exclusively as a standardised seed extract for chronic venous insufficiency, confirming this traditional venous-support reputation.",
+    "reference_ids": [
+     "REF-2402"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract (oral)",
+     "text": "Standardised seed extract, normalised to escin content, taken as tablets or capsules for chronic venous insufficiency; this is the best-studied clinical form.",
+     "reference_ids": [
+      "REF-0590",
+      "REF-2402"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Topical gel",
+     "text": "Escin-containing transdermal gel applied to the skin over affected veins or bruised tissue.",
+     "reference_ids": [
+      "REF-0590"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised oral extract",
+     "text": "Clinical studies commonly use extracts standardised to around 100-150 mg escin daily, in divided doses. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0590"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Topical gel",
+     "text": "Applied topically per product labelling to the affected area, typically several times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -1449,7 +1872,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "horse-chestnut"
   },
   {

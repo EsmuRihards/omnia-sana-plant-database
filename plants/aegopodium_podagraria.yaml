@@ -11,6 +11,94 @@ parts_used:
 - Leaf
 - Root
 - Stem
+botanical_description:
+  text: Vigorous, low, patch-forming perennial herb spreading rapidly by white, brittle, creeping rhizomes.
+    The leaves are broad and twice-ternate (in threes of threes), with oval, sharply toothed leaflets,
+    borne on long stalks. In summer it sends up hollow, grooved, unspotted green stems topped with flat
+    umbels of small white flowers, typical of the carrot family. The whole plant smells mildly of parsley
+    or carrot when crushed.
+  height: 30-100 cm
+  habit: Low, mat-forming, rhizomatous perennial herb
+  leaves: Broad, twice-ternate, with oval sharply toothed leaflets in groups of three
+  flowers: Small white flowers in flat compound umbels
+  stem: Hollow, grooved, plain green (never purple-spotted)
+  root: Thin, white, brittle, fast-spreading creeping rhizome
+  fruit: Small ridged schizocarp typical of the carrot family
+  flowering_period: May-July
+  reference_ids:
+  - REF-0719
+  status: verified
+habitat:
+  text: A common weed of gardens, hedgerows, shaded waste ground and disturbed soil, often near old dwellings;
+    native to Europe and temperate Asia and widely naturalised elsewhere, where its invasive spreading
+    rhizomes make it a persistent garden weed.
+  reference_ids:
+  - REF-0719
+  status: verified
+harvesting:
+  text: The young leaves and stems are gathered in spring, before flowering, when they are most tender
+    and least bitter; the root can be dug at the same time. Careful identification against poisonous Apiaceae
+    look-alikes (poison hemlock, hemlock water-dropwort, fool's parsley) is essential before harvesting.
+  parts:
+  - Leaf
+  - Root
+  - Stem
+  season: Spring, before flowering
+  reference_ids:
+  - REF-0719
+  status: verified
+traditional_uses:
+  text: Ground elder has long been used in European folk medicine as a remedy for gout and rheumatic and
+    arthritic joint pain (reflected in the name 'podagraria', from podagra, gout), typically applied as
+    a poultice or taken as a decoction. The young leaves have also been eaten as a spring pot-herb, valued
+    for their nutrient content as well as their medicinal reputation.
+  reference_ids:
+  - REF-0719
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried or fresh leaf, stem and root simmered in water as a traditional remedy for gout and rheumatic
+    pain.
+  reference_ids:
+  - REF-0719
+  status: verified
+- name: Poultice
+  text: Fresh leaves crushed or boiled and applied directly to gouty or arthritic joints.
+  reference_ids:
+  - REF-0719
+  status: draft
+- name: Fresh leaf (culinary/medicinal)
+  text: Young spring leaves eaten as a cooked pot-herb, similarly to spinach, continuing the traditional
+    food-medicine use.
+  reference_ids:
+  - REF-0719
+  status: verified
+dosage:
+- name: Decoction / infusion
+  text: Traditional use has no standardised modern dose; herbal references suggest a small handful of
+    fresh leaf and stem per cup as an infusion or light decoction. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Polyacetylenes (falcarindiol)
+  note: Falcarindiol, a potent COX-1 inhibitor (IC50 0.3 microM), identified as a key anti-inflammatory
+    constituent underlying the plant's traditional anti-rheumatic and analgesic use.
+  reference_ids:
+  - REF-1690
+  - REF-2562
+- name: Flavonoids and phenolic compounds
+  compounds:
+  - flavonoid
+  - phenolic-compound
+  note: Contribute to the plant's antioxidant activity.
+  reference_ids:
+  - REF-0719
+- name: Coumarins and essential oil
+  compounds:
+  - coumarin
+  - essential-oil
+  note: Minor aromatic and coumarin constituents of the aerial parts.
+  reference_ids:
+  - REF-0719
 actions:
 - action: analgesic
   reference_ids:
@@ -143,12 +231,20 @@ dangerous_lookalikes:
 - dangerous_plant: conium-maculatum
   severity: fatal
   confused_part: Young leaves and foliage gathered in spring, before flowering.
-  confusion_context: Poison hemlock is a carrot-family plant with lacy foliage that can be mistaken for edible umbellifer greens; its alkaloid coniine causes an ascending paralysis that stops breathing, and even a small amount can be fatal. It grows in the same disturbed ground, hedgerows and waste places as ground elder.
+  confusion_context: Poison hemlock is a carrot-family plant with lacy foliage that can be mistaken for
+    edible umbellifer greens; its alkaloid coniine causes an ascending paralysis that stops breathing,
+    and even a small amount can be fatal. It grows in the same disturbed ground, hedgerows and waste places
+    as ground elder.
   distinguishing_features:
-  - Ground elder leaves are in neat groups of three (twice-ternate) with broad, oval, sharply toothed leaflets. Poison hemlock leaves are finely divided, feathery and fern-like — not in groups of three.
-  - Poison hemlock has a hairless stem blotched and streaked with purple; ground elder's stem is plain green and grooved, never purple-spotted.
-  - Crushed ground elder smells mildly of parsley or carrot; crushed poison hemlock smells foul and musty ('mousy').
-  key_test: 'Check the stem: purple blotches or streaks on a smooth, hairless stem = poison hemlock — do not eat. Ground elder has a plain green grooved stem, broad toothed leaflets in threes, and a mild parsley smell (never mousy).'
+  - Ground elder leaves are in neat groups of three (twice-ternate) with broad, oval, sharply toothed
+    leaflets. Poison hemlock leaves are finely divided, feathery and fern-like — not in groups of three.
+  - Poison hemlock has a hairless stem blotched and streaked with purple; ground elder's stem is plain
+    green and grooved, never purple-spotted.
+  - Crushed ground elder smells mildly of parsley or carrot; crushed poison hemlock smells foul and musty
+    ('mousy').
+  key_test: 'Check the stem: purple blotches or streaks on a smooth, hairless stem = poison hemlock —
+    do not eat. Ground elder has a plain green grooved stem, broad toothed leaflets in threes, and a mild
+    parsley smell (never mousy).'
   reference_ids:
   - REF-2610
   - REF-2611
@@ -157,12 +253,19 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 - dangerous_plant: oenanthe-crocata
   severity: fatal
-  confused_part: Foliage (mistaken for celery or parsley) and roots (mistaken for parsnip), where the plant grows near water.
-  confusion_context: Hemlock water-dropwort is probably the most poisonous plant in Britain; its toxin oenanthotoxin causes violent convulsions, and its parsnip-like roots and celery-like leaves have repeatedly been eaten by mistake, often fatally. It grows in and beside water.
+  confused_part: Foliage (mistaken for celery or parsley) and roots (mistaken for parsnip), where the
+    plant grows near water.
+  confusion_context: Hemlock water-dropwort is probably the most poisonous plant in Britain; its toxin
+    oenanthotoxin causes violent convulsions, and its parsnip-like roots and celery-like leaves have repeatedly
+    been eaten by mistake, often fatally. It grows in and beside water.
   distinguishing_features:
-  - 'Habitat is the first filter: hemlock water-dropwort grows in or right beside water (wet ditches, streams, marshes); ground elder grows in dry gardens, hedgerows and disturbed ground.'
-  - Hemlock water-dropwort has a cluster of pale, swollen, finger-like root tubers ('dead man's fingers'); ground elder spreads by thin white creeping rhizomes, not fleshy tubers.
-  key_test: If the plant is growing in or at the edge of water and has a cluster of swollen finger-like root tubers, treat it as hemlock water-dropwort — do not touch the roots. Ground elder grows in dry ground from thin creeping rhizomes.
+  - 'Habitat is the first filter: hemlock water-dropwort grows in or right beside water (wet ditches,
+    streams, marshes); ground elder grows in dry gardens, hedgerows and disturbed ground.'
+  - Hemlock water-dropwort has a cluster of pale, swollen, finger-like root tubers ('dead man's fingers');
+    ground elder spreads by thin white creeping rhizomes, not fleshy tubers.
+  key_test: If the plant is growing in or at the edge of water and has a cluster of swollen finger-like
+    root tubers, treat it as hemlock water-dropwort — do not touch the roots. Ground elder grows in dry
+    ground from thin creeping rhizomes.
   reference_ids:
   - REF-2612
   status: approved
@@ -171,12 +274,18 @@ dangerous_lookalikes:
 - dangerous_plant: aethusa-cynapium
   severity: dangerous
   confused_part: Young leaves and foliage in spring.
-  confusion_context: Fool's parsley is a common carrot-family weed of gardens and disturbed ground — named for being mistaken for parsley — that contains toxic polyacetylenes and can cause burning of the mouth, vomiting and neurological effects, especially in children.
+  confusion_context: Fool's parsley is a common carrot-family weed of gardens and disturbed ground — named
+    for being mistaken for parsley — that contains toxic polyacetylenes and can cause burning of the mouth,
+    vomiting and neurological effects, especially in children.
   distinguishing_features:
-  - Fool's parsley leaves are finely dissected, thin, dark green and fern-like; ground elder leaves are broad, oval, toothed leaflets in neat groups of three — a coarser, very different leaf.
-  - In flower, fool's parsley shows three long, narrow bracteoles hanging down beneath each small flower cluster (a 'beard'); ground elder umbels have no such drooping beard.
+  - Fool's parsley leaves are finely dissected, thin, dark green and fern-like; ground elder leaves are
+    broad, oval, toothed leaflets in neat groups of three — a coarser, very different leaf.
+  - In flower, fool's parsley shows three long, narrow bracteoles hanging down beneath each small flower
+    cluster (a 'beard'); ground elder umbels have no such drooping beard.
   - Crushed fool's parsley smells foul and acrid ('mousy'); ground elder smells mildly of parsley or carrot.
-  key_test: Finely dissected fern-like leaves with a foul mousy smell — and, if flowering, a drooping three-part 'beard' under each little umbel — mean fool's parsley, not ground elder (which has broad toothed leaflets in threes and a mild parsley scent).
+  key_test: Finely dissected fern-like leaves with a foul mousy smell — and, if flowering, a drooping
+    three-part 'beard' under each little umbel — mean fool's parsley, not ground elder (which has broad
+    toothed leaflets in threes and a mild parsley scent).
   reference_ids:
   - REF-2613
   - REF-2614
@@ -185,7 +294,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -194,4 +303,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0719, REF-0720, REF-0721.
   | 2026-06-20: enriched to >=10 scientific publications: added 7 PubMed-verified @article sources (REF-0719,
   REF-0721, REF-0720, REF-1688, REF-1689, REF-1690, REF-1691) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

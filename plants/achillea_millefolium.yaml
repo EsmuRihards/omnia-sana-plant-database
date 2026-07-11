@@ -47,6 +47,86 @@ constituents:
   note: Compounds traditionally linked to the haemostatic (styptic) effect.
   reference_ids:
   - REF-0369
+botanical_description:
+  text: Aromatic, rhizomatous perennial herb with erect, grooved, softly hairy stems arising in clumps
+    from a creeping rootstock. The leaves are alternate, 2-3-pinnately dissected into narrow feathery
+    segments, giving the whole plant a soft, fern-like texture (hence 'millefolium', thousand-leaved).
+    Numerous small white to pale-pink flower heads are borne in dense, flat-topped compound corymbs at
+    the stem tips. The plant has a sweet, herbaceous, slightly medicinal aroma when crushed.
+  height: 20-100 cm (occasionally to 1 m)
+  habit: Erect, rhizomatous, mat-forming perennial herb
+  leaves: Alternate, 2-3-pinnately dissected into narrow feathery segments; aromatic when crushed
+  flowers: Small white to pale pink flower heads in dense, flat-topped compound corymbs
+  stem: Erect, grooved, softly hairy/woolly, plain green (never purple-blotched)
+  root: Creeping, fibrous rhizome
+  fruit: Small flattened achenes without pappus
+  flowering_period: June-September
+  reference_ids:
+  - REF-0369
+  status: verified
+habitat:
+  text: A common plant of grassland, meadows, roadsides, pastures and waste ground on a wide range of
+    soils; native throughout Europe and temperate Asia and now naturalised across North America, Australia
+    and New Zealand.
+  reference_ids:
+  - REF-0369
+  status: verified
+harvesting:
+  text: The flowering aerial parts (leaf, stem and flower) are cut as the flat-topped corymbs open, in
+    mid- to late summer, and dried quickly in a warm, shaded, airy place to preserve the essential oil
+    and colour.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Summer, at full flower (June-September)
+  reference_ids:
+  - REF-0369
+  status: verified
+traditional_uses:
+  text: Yarrow has an ancient reputation as a wound herb (its old name 'staunchweed' and its association
+    with Achilles reflect traditional use to stop bleeding and heal wounds) and as a bitter digestive
+    and diaphoretic remedy for feverish colds, spasmodic gastrointestinal complaints, hepatobiliary disorders
+    and gynaecological complaints. The flowering herb is classically taken as a hot infusion at the onset
+    of a cold or fever to promote sweating, and used as a bitter tonic to stimulate appetite and digestion.
+  reference_ids:
+  - REF-0369
+  - REF-2077
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a bitter digestive and diaphoretic tea, traditionally
+    taken hot at the onset of colds and fevers.
+  reference_ids:
+  - REF-0369
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the fresh or dried flowering herb, typically around 1:5 in 45% alcohol.
+  status: draft
+- name: Poultice/compress
+  text: Fresh crushed leaf or flowering tops applied directly to minor cuts and wounds, reflecting the
+    traditional styptic (bleeding-stopping) and vulnerary use.
+  reference_ids:
+  - REF-0369
+  - REF-2085
+  status: verified
+- name: Essential oil
+  text: Steam-distilled from the flowering tops; the chamazulene-rich blue oil is used in low dilution
+    for its anti-inflammatory action.
+  reference_ids:
+  - REF-0369
+  status: draft
+dosage:
+- name: Dried herb infusion
+  text: Traditional herbal references suggest roughly 2-4 g of dried flowering herb per cup, up to three
+    times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0373
+  status: draft
+- name: Tincture (1:5)
+  text: About 1-4 mL of a 1:5 tincture, up to three times daily in adults. Educational reference only,
+    not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -339,13 +419,26 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: conium-maculatum
   severity: fatal
-  confused_part: Young feathery, finely divided leaves gathered for tea, salad or medicine; poison hemlock's young leaves are also feathery and finely divided.
-  confusion_context: Yarrow (Achillea millefolium) is foraged for its soft, feathery, fern-like leaves. As Grow Forage Cook Ferment warns, yarrow is sometimes mistaken for poison hemlock (Conium maculatum), which is very toxic - hemlock contains coniine and kills by ascending paralysis and respiratory failure, and a few leaves can be fatal. Young hemlock leaves are more feathery and can resemble yarrow before the plant grows tall. Because yarrow is a popular forage and hemlock is widespread, this is a potentially fatal confusion.
+  confused_part: Young feathery, finely divided leaves gathered for tea, salad or medicine; poison hemlock's
+    young leaves are also feathery and finely divided.
+  confusion_context: Yarrow (Achillea millefolium) is foraged for its soft, feathery, fern-like leaves.
+    As Grow Forage Cook Ferment warns, yarrow is sometimes mistaken for poison hemlock (Conium maculatum),
+    which is very toxic - hemlock contains coniine and kills by ascending paralysis and respiratory failure,
+    and a few leaves can be fatal. Young hemlock leaves are more feathery and can resemble yarrow before
+    the plant grows tall. Because yarrow is a popular forage and hemlock is widespread, this is a potentially
+    fatal confusion.
   distinguishing_features:
-  - 'SMELL: yarrow smells sweet and herbaceous, often likened to fresh pine or a pleasant medicinal scent. Poison hemlock smells rank and musty/mousy.'
-  - 'Stem: yarrow has a solid, green, slightly hairy/woolly grooved stem with no purple. Poison hemlock has a hairless stem conspicuously blotched and streaked with red-purple, especially near the base.'
-  - 'Leaf and size: yarrow leaves are soft, very finely divided and feathery on a low plant (usually under 60 cm). Poison hemlock is a tall (1.5-3 m) branching biennial with larger, glossy, more open fern-like leaves.'
-  key_test: Check the stem and smell. A solid green (often woolly) stem with soft feathery leaves and a sweet pine-like herbaceous scent = yarrow. A hairless stem with red-purple blotches and a musty/mousy smell = poison hemlock - deadly, do not put it to your mouth. If the stem is purple-blotched or the smell is musty, do not use it.
+  - 'SMELL: yarrow smells sweet and herbaceous, often likened to fresh pine or a pleasant medicinal scent.
+    Poison hemlock smells rank and musty/mousy.'
+  - 'Stem: yarrow has a solid, green, slightly hairy/woolly grooved stem with no purple. Poison hemlock
+    has a hairless stem conspicuously blotched and streaked with red-purple, especially near the base.'
+  - 'Leaf and size: yarrow leaves are soft, very finely divided and feathery on a low plant (usually under
+    60 cm). Poison hemlock is a tall (1.5-3 m) branching biennial with larger, glossy, more open fern-like
+    leaves.'
+  key_test: Check the stem and smell. A solid green (often woolly) stem with soft feathery leaves and
+    a sweet pine-like herbaceous scent = yarrow. A hairless stem with red-purple blotches and a musty/mousy
+    smell = poison hemlock - deadly, do not put it to your mouth. If the stem is purple-blotched or the
+    smell is musty, do not use it.
   reference_ids:
   - REF-2679
   - REF-2610
@@ -355,7 +448,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+website+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -366,4 +459,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 11 PubMed-verified @article sources (REF-2076, REF-2077, REF-2078, REF-2079, REF-2080, REF-2081,
   REF-2082, REF-2083, REF-2084, REF-2085, REF-2086) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

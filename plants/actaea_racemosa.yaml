@@ -26,6 +26,74 @@ constituents:
   note: Antioxidant constituents of the root.
   reference_ids:
   - REF-0415
+botanical_description:
+  text: Tall, woodland perennial herb rising from a thick, knotty, dark rhizome with wiry black roots.
+    The leaves are large and compound (2-3-ternately divided), with sharply toothed, oval to lance-shaped
+    leaflets. In summer it sends up tall, wand-like racemes of small, unpleasant-smelling white flowers
+    held well above the foliage, giving rise to the old name 'bugbane'; the flowers lack petals and consist
+    mainly of a fluffy cluster of white stamens.
+  height: 1-2.5 m (flowering stems)
+  habit: Tall, rhizomatous, woodland perennial herb
+  leaves: Large, 2-3-ternately compound, with sharply toothed oval to lance-shaped leaflets
+  flowers: Small, malodorous, petal-less white flowers with fluffy stamens in tall wand-like racemes
+  stem: Tall, erect flowering stem well above the basal foliage
+  root: Thick, knotty, dark rhizome with numerous wiry black roots
+  fruit: Dry, follicle-like seed pods
+  flowering_period: Summer (June-September)
+  reference_ids:
+  - REF-2398
+  status: verified
+habitat:
+  text: Native to rich, shaded deciduous woodland and woodland margins of eastern North America, from
+    southern Canada to Georgia, typically on moist, humus-rich soils.
+  reference_ids:
+  - REF-2398
+  status: verified
+harvesting:
+  text: The root and rhizome are dug in autumn, after the seeds have ripened and the foliage has died
+    back and the plant's energy has returned to the rootstock; the rhizome is cleaned, cut and dried.
+  parts:
+  - Root and rhizome
+  season: Autumn
+  reference_ids:
+  - REF-2398
+  status: verified
+traditional_uses:
+  text: Black cohosh root was used by Native American peoples for gynaecological complaints, rheumatism
+    and general malaise, and entered nineteenth-century Eclectic medicine as a remedy for menstrual and
+    menopausal disorders. It remains best known today as a standardised extract for menopausal hot flashes,
+    night sweats and mood disturbance.
+  reference_ids:
+  - REF-2398
+  - REF-2589
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Isopropanolic or ethanolic extracts of the dried root and rhizome, standardised to triterpene
+    glycoside content, are the best-studied clinical form.
+  reference_ids:
+  - REF-0415
+  - REF-2398
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried root and rhizome, typically around 1:10.
+  status: draft
+- name: Decoction
+  text: Traditional decoction of the dried, chopped root and rhizome.
+  reference_ids:
+  - REF-2398
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical studies commonly use standardised extracts equivalent to around 40 mg dried root/rhizome
+    daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0415
+  status: draft
+- name: Tincture (1:10)
+  text: Traditional herbal references suggest around 1-2 mL of a 1:10 tincture, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
 indications:
 - condition: anxiety
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
@@ -119,13 +187,30 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: actaea-pachypoda
   severity: dangerous
-  confused_part: Woodland rhizome dug as black cohosh; toxic baneberries (doll's eye and red baneberry) share very similar foliage and rhizomes and are gathered in mistake for it.
-  confusion_context: 'Black cohosh (Actaea racemosa) is dug for its rhizome, but several related North American Actaea species - notably doll''s eye (Actaea pachypoda) and red baneberry (Actaea rubra) - have very similar woodland foliage and rhizomes and are easily mistaken for it during harvesting. Those baneberries are toxic in all parts: ingestion causes burning of the mouth, severe vomiting and diarrhoea and seizures, and red baneberry can be fatal, especially in children. Peer-reviewed work confirms commercial black cohosh is frequently adulterated with other Actaea species, contributing to safety concerns. Because the plants look alike - especially in spring before flowers or fruit appear - this is a genuine hazard.'
+  confused_part: Woodland rhizome dug as black cohosh; toxic baneberries (doll's eye and red baneberry)
+    share very similar foliage and rhizomes and are gathered in mistake for it.
+  confusion_context: 'Black cohosh (Actaea racemosa) is dug for its rhizome, but several related North
+    American Actaea species - notably doll''s eye (Actaea pachypoda) and red baneberry (Actaea rubra)
+    - have very similar woodland foliage and rhizomes and are easily mistaken for it during harvesting.
+    Those baneberries are toxic in all parts: ingestion causes burning of the mouth, severe vomiting and
+    diarrhoea and seizures, and red baneberry can be fatal, especially in children. Peer-reviewed work
+    confirms commercial black cohosh is frequently adulterated with other Actaea species, contributing
+    to safety concerns. Because the plants look alike - especially in spring before flowers or fruit appear
+    - this is a genuine hazard.'
   distinguishing_features:
-  - 'Fruit (decisive when present): black cohosh bears a tall wand of fluffy white flowers that ripens to dry, papery seed pods. Baneberries instead bear clusters of shiny berries - chalk-white with a black eye (doll''s eye) or glossy red (red baneberry). Any fleshy berries mean baneberry, not black cohosh.'
-  - 'Flower: black cohosh has long, showy white bottlebrush flower spikes; baneberry flowers are in short, rounded fluffy clusters.'
-  - 'Vegetative caution: in spring the leaves alone are very similar (Actaea foliage), so do not dig by leaf alone - the species are separated mainly on flowers and fruit. Confirm the plant in flower or fruit, or buy authenticated black cohosh.'
-  key_test: Identify the plant in flower or fruit before digging. Black cohosh has tall white bottlebrush flower spikes that turn into dry papery pods; baneberry makes clusters of shiny white-with-black-dot or red berries. If you see fleshy berries - or cannot confirm flowers or fruit - do not dig the root; the baneberries are toxic. When in doubt, buy authenticated black cohosh.
+  - 'Fruit (decisive when present): black cohosh bears a tall wand of fluffy white flowers that ripens
+    to dry, papery seed pods. Baneberries instead bear clusters of shiny berries - chalk-white with a
+    black eye (doll''s eye) or glossy red (red baneberry). Any fleshy berries mean baneberry, not black
+    cohosh.'
+  - 'Flower: black cohosh has long, showy white bottlebrush flower spikes; baneberry flowers are in short,
+    rounded fluffy clusters.'
+  - 'Vegetative caution: in spring the leaves alone are very similar (Actaea foliage), so do not dig by
+    leaf alone - the species are separated mainly on flowers and fruit. Confirm the plant in flower or
+    fruit, or buy authenticated black cohosh.'
+  key_test: Identify the plant in flower or fruit before digging. Black cohosh has tall white bottlebrush
+    flower spikes that turn into dry papery pods; baneberry makes clusters of shiny white-with-black-dot
+    or red berries. If you see fleshy berries - or cannot confirm flowers or fruit - do not dig the root;
+    the baneberries are toxic. When in doubt, buy authenticated black cohosh.
   reference_ids:
   - REF-2682
   - REF-2683
@@ -134,7 +219,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative
   Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations
@@ -146,4 +231,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   and an anxiety/depression meta-analysis (REF-0674). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 5 PubMed-verified @article sources (REF-2397, REF-2398, REF-2399, REF-2400, REF-2401)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

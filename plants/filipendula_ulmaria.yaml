@@ -9,6 +9,90 @@ parts_used:
 - Flower
 - Leaf
 - Stem
+botanical_description:
+  text: Tall, moisture-loving perennial herb with pinnately compound leaves, dark green above and whitish-downy
+    beneath, the leaflets sharply toothed. Dense, fluffy, creamy-white flower clusters with a strong,
+    sweet, almond-like fragrance are borne atop reddish, grooved stems.
+  height: 60-120 cm
+  habit: Tall, erect, moisture-loving perennial herb
+  leaves: Pinnately compound, dark green above, whitish-downy beneath, sharply toothed leaflets
+  flowers: Dense, fluffy, creamy-white clusters with a strong sweet almond-like fragrance
+  stem: Reddish, grooved, erect
+  root: Fibrous roots from a short rhizome
+  fruit: Small, spirally twisted achenes
+  flowering_period: June-September
+  reference_ids:
+  - REF-0815
+  status: verified
+habitat:
+  text: Grows in damp meadows, marshes, riverbanks, ditches and wet woodland margins; native to Europe
+    and temperate Asia, favouring moist, nutrient-rich ground.
+  reference_ids:
+  - REF-0815
+  status: verified
+harvesting:
+  text: The flowering tops, leaf and stem are cut in summer as the flowers open, when the characteristic
+    salicylate content is highest, and dried in a warm, shaded, airy place.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Summer, at flowering
+  reference_ids:
+  - REF-0815
+  status: verified
+traditional_uses:
+  text: Meadowsweet is historically significant as the plant from which salicylic acid derivatives (the
+    chemical basis of aspirin) were first isolated, and has long been used in European folk medicine as
+    an anti-inflammatory, analgesic and gastroprotective remedy for feverish colds, rheumatic and joint
+    pain, and digestive complaints such as acid reflux and indigestion - notably, its natural mucilage
+    is thought to buffer the gastric irritation associated with isolated salicylates.
+  reference_ids:
+  - REF-0815
+  - REF-2030
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flower, leaf and stem infused in hot water as a traditional anti-inflammatory and digestive
+    tea.
+  reference_ids:
+  - REF-0815
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried aerial parts.
+  status: draft
+- name: Standardised extract
+  text: Concentrated extract studied in vitro and in vivo for anti-inflammatory and gastroprotective activity.
+  reference_ids:
+  - REF-2030
+  status: verified
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Salicylates (methyl salicylate, salicylic acid derivatives)
+  note: Historically the source of aspirin's chemical inspiration; provide the plant's analgesic and anti-inflammatory
+    activity, buffered by co-occurring mucilage and tannins.
+  reference_ids:
+  - REF-0815
+  - REF-2030
+- name: Flavonoids (quercetin, rutin, hyperoside)
+  compounds:
+  - flavonoid
+  - quercetin
+  - rutin
+  note: Antioxidant constituents contributing to the plant's anti-inflammatory and gastroprotective effects.
+  reference_ids:
+  - REF-0815
+- name: Tannins and essential oil
+  compounds:
+  - tannin
+  - essential-oil
+  note: Contribute to astringency and the characteristic sweet almond-like fragrance.
+  reference_ids:
+  - REF-0815
 actions:
 - action: analgesic
   reference_ids:
@@ -211,7 +295,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -220,4 +304,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0815, REF-0816, REF-0817.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2030,
   REF-2031, REF-0815, REF-0817, REF-2032, REF-2033, REF-2034, REF-2035, REF-2036, REF-2037, REF-2038)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

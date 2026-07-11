@@ -38,6 +38,50 @@ constituents:
 - name: Dioxatricyclodecenone compounds (mollugosides A and B)
   reference_ids:
   - REF-2353
+botanical_description:
+  text: Sprawling to erect perennial herb with slender, square-sectioned stems and whorls of narrow, lance-shaped
+    leaves typical of the bedstraw genus. Numerous small, four-petalled, white star-shaped flowers are
+    borne in loose, branched clusters, giving a frothy appearance.
+  height: 30-100 cm
+  habit: Sprawling to erect perennial herb
+  leaves: Narrow, lance-shaped, in whorls of 6-8
+  flowers: Small, four-petalled, white, star-shaped, in loose branched clusters
+  stem: Slender, square-sectioned, smooth (not bristly like cleavers)
+  root: Fibrous, spreading rootstock
+  fruit: Small, smooth (non-hooked) twin nutlet, distinguishing it from bristly-fruited cleavers
+  flowering_period: June-September
+  status: draft
+habitat:
+  text: A common plant of grassland, meadows, hedgerows, roadsides and waste ground on a wide range of
+    soils; native to Europe and temperate Asia.
+  status: draft
+harvesting:
+  text: The flowering aerial parts are cut in summer while in flower and dried.
+  parts:
+  - Flower
+  - Leaf
+  - Aerial parts
+  season: Summer, at flowering
+  status: draft
+traditional_uses:
+  text: White bedstraw shares the broader bedstraw genus's folk reputation as a mild diuretic and topical
+    remedy for minor skin and wound complaints, though species-specific clinical or traditional-use documentation
+    is sparse; most available research on this species is phytochemical and antioxidant in nature rather
+    than confirming a specific traditional-use record.
+  status: draft
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water, following the general bedstraw-genus tradition; species-specific
+    use documentation is limited.
+  status: draft
+- name: Fresh herb (topical)
+  text: Fresh crushed herb applied topically for minor skin irritation, per general genus tradition.
+  status: draft
+dosage:
+- name: Infusion
+  text: No species-specific dosing data exist; if used, follow conservative genus-typical dosing (around
+    2-4 g dried herb per cup) with professional guidance. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: antioxidant
   note: Aerial-part and flower extracts of Galium album / G. mollugo show free-radical-scavenging and
@@ -73,7 +117,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: pubmed
 status: draft
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify White Bedstraw" blog
   post). SETTLED-INCOMPLETE at 9 @article sources: Galium album / G. mollugo is a sparse-literature species
   — PubMed is dominated by grassland ecology, phyllosphere microbiology, phytoremediation and population
@@ -83,4 +127,7 @@ internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify
   2026-06-27: genuine sources only, accept <15, do not pad with wrong-species (e.g. Galium verum / G.
   aparine) citations. | 2026-06-27: enriched to >=15 scientific publications: added 9 PubMed-verified
   @article sources (REF-0818, REF-2352, REF-2353, REF-2354, REF-2355, REF-2356, REF-2357, REF-2358, REF-2359)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

@@ -12,6 +12,86 @@ parts_used:
 - Leaf
 - Seed
 - Stem
+botanical_description:
+  text: Scrambling, sprawling annual herb covered in tiny hooked bristles on its square stems, leaves
+    and seed capsules, allowing it to cling to clothing, fur and neighbouring plants as it climbs ('stickyweed').
+    The leaves are narrow and lance-shaped, borne in whorls of six to eight. Tiny white, four-petalled
+    flowers give way to small, round, bristly-hooked twin seed capsules ('goosegrass burrs').
+  height: Scrambling stems to 1-2 m, supported by other vegetation
+  habit: Scrambling, sprawling annual herb, climbing by hooked bristles
+  leaves: Narrow, lance-shaped, in whorls of 6-8, with hooked bristles on the margins
+  flowers: Tiny, white, four-petalled
+  stem: Square-sectioned, weak, covered in tiny hooked bristles
+  root: Shallow, fibrous root system
+  fruit: Small, round, bristly-hooked twin nutlet, clinging to fur and clothing
+  flowering_period: May-September
+  reference_ids:
+  - REF-1720
+  status: verified
+habitat:
+  text: A common scrambling weed of hedgerows, waste ground, gardens and field margins, climbing over
+    other vegetation for support; native to Europe, Asia and North Africa and widely naturalised elsewhere.
+  reference_ids:
+  - REF-1720
+  status: verified
+harvesting:
+  text: The whole aerial plant (leaf, stem and seed) is cut in spring to early summer, before the fruit
+    fully hardens, and used fresh (as juice) or dried.
+  parts:
+  - Leaf
+  - Seed
+  - Stem
+  season: Spring to early summer
+  status: draft
+traditional_uses:
+  text: Cleavers has a long European folk history as a lymphatic and diuretic 'spring tonic' herb, traditionally
+    used to support the urinary system and lymphatic drainage, and topically as a soothing, emollient
+    wash or poultice for skin irritation, wounds and minor swellings.
+  reference_ids:
+  - REF-1720
+  status: verified
+preparations:
+- name: Fresh juice
+  text: Fresh aerial parts crushed or juiced, traditionally taken as a spring tonic or applied topically
+    to skin irritation and wounds.
+  reference_ids:
+  - REF-1720
+  status: verified
+- name: Infusion
+  text: Dried or fresh herb infused in hot (or cold) water as a traditional diuretic and lymphatic-support
+    tea.
+  status: draft
+- name: Poultice/wash
+  text: Crushed fresh herb or a strained infusion applied topically as a wash or poultice for skin irritation
+    and minor wounds.
+  reference_ids:
+  - REF-1720
+  status: verified
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Iridoid glycosides (asperuloside)
+  compounds:
+  - iridoid-glycoside
+  - glycoside
+  note: Characteristic Rubiaceae iridoids shared with related bedstraws, contributing to the plant's traditional
+    activity.
+  reference_ids:
+  - REF-1720
+- name: Flavonoids and phenolic acids
+  compounds:
+  - flavonoid
+  - phenolic-acid
+  note: Antioxidant constituents supporting the plant's antimicrobial and wound-healing activity.
+  reference_ids:
+  - REF-1720
+- name: Tannins
+  compounds:
+  - tannin
+  note: Astringent constituents contributing to the traditional topical use for skin and wounds.
 actions:
 - action: antimicrobial
   reference_ids:
@@ -135,7 +215,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -144,4 +224,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0818, REF-0819, REF-0820.
   | 2026-06-20: enriched to >=10 scientific publications: added 8 PubMed-verified @article sources (REF-1718,
   REF-1719, REF-1720, REF-1721, REF-1722, REF-1723, REF-1724, REF-1725) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

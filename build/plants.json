@@ -21453,6 +21453,77 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Small, semi-parasitic annual herb (drawing some nutrients from the roots of neighbouring grasses) with tiny, opposite, toothed leaves and delicate, two-lipped white to pale lilac flowers marked with purple veins and a yellow throat spot, giving a bright, eye-like appearance that inspired both its common and Latin names.",
+    "height": "5-20 cm",
+    "habit": "Small, semi-parasitic annual herb",
+    "leaves": "Tiny, opposite, toothed",
+    "flowers": "Small, two-lipped, white to pale lilac, purple-veined with a yellow throat spot",
+    "stem": "Slender, often branched, hairy",
+    "root": "Slender root system that taps into neighbouring grass roots (hemiparasitic)",
+    "fruit": "Small, flattened, hairy capsule",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0449"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in short, unimproved grassland, pastures, meadows and dunes on well-drained soils, always in association with grasses on which it partially parasitises; native to Europe.",
+    "reference_ids": [
+     "REF-0449"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in summer while in flower and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0449"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Eyebright has a centuries-old European folk reputation, reflected in its common name, as a soothing remedy for irritated, red or watery eyes and conjunctivitis, traditionally applied as a cooled compress or eyewash, and taken internally as an astringent for catarrh and mild digestive upset.",
+    "reference_ids": [
+     "REF-0449",
+     "REF-0448"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Cooled compress/eyewash",
+     "text": "Strained, cooled infusion applied as a compress over closed eyelids, or used (only when sterile, commercially prepared) as an eyewash for irritated or red eyes.",
+     "reference_ids": [
+      "REF-0449"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Sterile eye drops",
+     "text": "Commercially prepared, sterile Euphrasia eye drops used for conjunctivitis; a prospective clinical cohort found improvement in most users.",
+     "reference_ids": [
+      "REF-0613"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (internal)",
+     "text": "Dried flowering herb infused in hot water, taken internally as an astringent tea for catarrh.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Compress/eyewash",
+     "text": "A strained, cooled infusion applied as a compress several times daily; only sterile, commercially prepared products should ever be put directly into the eye. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -21634,7 +21705,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "eyebright"
   },
   {
@@ -21650,6 +21721,112 @@
     "Flower",
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Tall, moisture-loving perennial herb with pinnately compound leaves, dark green above and whitish-downy beneath, the leaflets sharply toothed. Dense, fluffy, creamy-white flower clusters with a strong, sweet, almond-like fragrance are borne atop reddish, grooved stems.",
+    "height": "60-120 cm",
+    "habit": "Tall, erect, moisture-loving perennial herb",
+    "leaves": "Pinnately compound, dark green above, whitish-downy beneath, sharply toothed leaflets",
+    "flowers": "Dense, fluffy, creamy-white clusters with a strong sweet almond-like fragrance",
+    "stem": "Reddish, grooved, erect",
+    "root": "Fibrous roots from a short rhizome",
+    "fruit": "Small, spirally twisted achenes",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0815"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in damp meadows, marshes, riverbanks, ditches and wet woodland margins; native to Europe and temperate Asia, favouring moist, nutrient-rich ground.",
+    "reference_ids": [
+     "REF-0815"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering tops, leaf and stem are cut in summer as the flowers open, when the characteristic salicylate content is highest, and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0815"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Meadowsweet is historically significant as the plant from which salicylic acid derivatives (the chemical basis of aspirin) were first isolated, and has long been used in European folk medicine as an anti-inflammatory, analgesic and gastroprotective remedy for feverish colds, rheumatic and joint pain, and digestive complaints such as acid reflux and indigestion - notably, its natural mucilage is thought to buffer the gastric irritation associated with isolated salicylates.",
+    "reference_ids": [
+     "REF-0815",
+     "REF-2030"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flower, leaf and stem infused in hot water as a traditional anti-inflammatory and digestive tea.",
+     "reference_ids": [
+      "REF-0815"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried aerial parts.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Concentrated extract studied in vitro and in vivo for anti-inflammatory and gastroprotective activity.",
+     "reference_ids": [
+      "REF-2030"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Salicylates (methyl salicylate, salicylic acid derivatives)",
+     "note": "Historically the source of aspirin's chemical inspiration; provide the plant's analgesic and anti-inflammatory activity, buffered by co-occurring mucilage and tannins.",
+     "reference_ids": [
+      "REF-0815",
+      "REF-2030"
+     ]
+    },
+    {
+     "name": "Flavonoids (quercetin, rutin, hyperoside)",
+     "compounds": [
+      "flavonoid",
+      "quercetin",
+      "rutin"
+     ],
+     "note": "Antioxidant constituents contributing to the plant's anti-inflammatory and gastroprotective effects.",
+     "reference_ids": [
+      "REF-0815"
+     ]
+    },
+    {
+     "name": "Tannins and essential oil",
+     "compounds": [
+      "tannin",
+      "essential-oil"
+     ],
+     "note": "Contribute to astringency and the characteristic sweet almond-like fragrance.",
+     "reference_ids": [
+      "REF-0815"
+     ]
+    }
    ],
    "actions": [
     {
@@ -21952,7 +22129,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "meadowsweet"
   },
   {
@@ -22577,6 +22754,78 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Aromatic, robust perennial (often grown as an annual/biennial) with a smooth, waxy, blue-green, hollow stem and finely divided, thread-fine, feathery leaves. Small yellow flowers are borne in large flat compound umbels in summer, ripening into ridged, strongly aniseed-scented seeds.",
+    "height": "1-2 m",
+    "habit": "Aromatic, robust perennial herb (often grown as annual/biennial)",
+    "leaves": "Finely divided into thread-fine, hair-like, feathery segments",
+    "flowers": "Small yellow flowers in large flat compound umbels",
+    "stem": "Smooth, waxy, blue-green, hollow, unspotted",
+    "root": "Thick taproot, swollen and bulb-like in the Florence fennel variety",
+    "fruit": "Ridged, aromatic, aniseed-scented seed (mericarp)",
+    "flowering_period": "July-October",
+    "reference_ids": [
+     "REF-0537"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean region; naturalised and widely cultivated worldwide in temperate and subtropical climates as a culinary herb, vegetable (Florence fennel) and spice crop.",
+    "reference_ids": [
+     "REF-0537"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are picked fresh through the growing season; the seed is harvested in autumn once the umbels have browned and dried, then threshed; the swollen root/bulb of Florence fennel is harvested when mature, before flowering.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Seed"
+    ],
+    "season": "Leaf through summer; seed in autumn; bulb before flowering",
+    "reference_ids": [
+     "REF-0537"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Fennel seed has an ancient Mediterranean and Asian tradition as a carminative digestive remedy for indigestion, bloating and colic (including infant colic, historically), a mild expectorant for respiratory catarrh, and a traditional lactagogue and emmenagogue owing to its mild estrogen-like activity.",
+    "reference_ids": [
+     "REF-0537"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (seed)",
+     "text": "Crushed seed infused in hot water as the classic carminative digestive tea.",
+     "reference_ids": [
+      "REF-0537"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Seed extract studied in randomised trials for primary dysmenorrhoea (menstrual pain).",
+     "reference_ids": [
+      "REF-0604"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Seed, leaf ('fronds') and bulb used extensively as a food spice and vegetable.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed infusion",
+     "text": "Traditional herbal references suggest around 1.5-2.5 g crushed seed per cup, up to three times daily, for short periods. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "antimicrobial",
@@ -22841,7 +23090,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "fennel"
   },
   {
@@ -22904,6 +23153,55 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Sprawling to erect perennial herb with slender, square-sectioned stems and whorls of narrow, lance-shaped leaves typical of the bedstraw genus. Numerous small, four-petalled, white star-shaped flowers are borne in loose, branched clusters, giving a frothy appearance.",
+    "height": "30-100 cm",
+    "habit": "Sprawling to erect perennial herb",
+    "leaves": "Narrow, lance-shaped, in whorls of 6-8",
+    "flowers": "Small, four-petalled, white, star-shaped, in loose branched clusters",
+    "stem": "Slender, square-sectioned, smooth (not bristly like cleavers)",
+    "root": "Fibrous, spreading rootstock",
+    "fruit": "Small, smooth (non-hooked) twin nutlet, distinguishing it from bristly-fruited cleavers",
+    "flowering_period": "June-September",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "A common plant of grassland, meadows, hedgerows, roadsides and waste ground on a wide range of soils; native to Europe and temperate Asia.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in summer while in flower and dried.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Aerial parts"
+    ],
+    "season": "Summer, at flowering",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "White bedstraw shares the broader bedstraw genus's folk reputation as a mild diuretic and topical remedy for minor skin and wound complaints, though species-specific clinical or traditional-use documentation is sparse; most available research on this species is phytochemical and antioxidant in nature rather than confirming a specific traditional-use record.",
+    "status": "draft"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water, following the general bedstraw-genus tradition; species-specific use documentation is limited.",
+     "status": "draft"
+    },
+    {
+     "name": "Fresh herb (topical)",
+     "text": "Fresh crushed herb applied topically for minor skin irritation, per general genus tradition.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "No species-specific dosing data exist; if used, follow conservative genus-typical dosing (around 2-4 g dried herb per cup) with professional guidance. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "antioxidant",
@@ -22943,7 +23241,7 @@
    },
    "provenance": "pubmed",
    "status": "draft",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "white-bedstraw"
   },
   {
@@ -22962,6 +23260,106 @@
     "Leaf",
     "Seed",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Scrambling, sprawling annual herb covered in tiny hooked bristles on its square stems, leaves and seed capsules, allowing it to cling to clothing, fur and neighbouring plants as it climbs ('stickyweed'). The leaves are narrow and lance-shaped, borne in whorls of six to eight. Tiny white, four-petalled flowers give way to small, round, bristly-hooked twin seed capsules ('goosegrass burrs').",
+    "height": "Scrambling stems to 1-2 m, supported by other vegetation",
+    "habit": "Scrambling, sprawling annual herb, climbing by hooked bristles",
+    "leaves": "Narrow, lance-shaped, in whorls of 6-8, with hooked bristles on the margins",
+    "flowers": "Tiny, white, four-petalled",
+    "stem": "Square-sectioned, weak, covered in tiny hooked bristles",
+    "root": "Shallow, fibrous root system",
+    "fruit": "Small, round, bristly-hooked twin nutlet, clinging to fur and clothing",
+    "flowering_period": "May-September",
+    "reference_ids": [
+     "REF-1720"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A common scrambling weed of hedgerows, waste ground, gardens and field margins, climbing over other vegetation for support; native to Europe, Asia and North Africa and widely naturalised elsewhere.",
+    "reference_ids": [
+     "REF-1720"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The whole aerial plant (leaf, stem and seed) is cut in spring to early summer, before the fruit fully hardens, and used fresh (as juice) or dried.",
+    "parts": [
+     "Leaf",
+     "Seed",
+     "Stem"
+    ],
+    "season": "Spring to early summer",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Cleavers has a long European folk history as a lymphatic and diuretic 'spring tonic' herb, traditionally used to support the urinary system and lymphatic drainage, and topically as a soothing, emollient wash or poultice for skin irritation, wounds and minor swellings.",
+    "reference_ids": [
+     "REF-1720"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh juice",
+     "text": "Fresh aerial parts crushed or juiced, traditionally taken as a spring tonic or applied topically to skin irritation and wounds.",
+     "reference_ids": [
+      "REF-1720"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried or fresh herb infused in hot (or cold) water as a traditional diuretic and lymphatic-support tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Poultice/wash",
+     "text": "Crushed fresh herb or a strained infusion applied topically as a wash or poultice for skin irritation and minor wounds.",
+     "reference_ids": [
+      "REF-1720"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Iridoid glycosides (asperuloside)",
+     "compounds": [
+      "iridoid-glycoside",
+      "glycoside"
+     ],
+     "note": "Characteristic Rubiaceae iridoids shared with related bedstraws, contributing to the plant's traditional activity.",
+     "reference_ids": [
+      "REF-1720"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic acids",
+     "compounds": [
+      "flavonoid",
+      "phenolic-acid"
+     ],
+     "note": "Antioxidant constituents supporting the plant's antimicrobial and wound-healing activity.",
+     "reference_ids": [
+      "REF-1720"
+     ]
+    },
+    {
+     "name": "Tannins",
+     "compounds": [
+      "tannin"
+     ],
+     "note": "Astringent constituents contributing to the traditional topical use for skin and wounds."
+    }
    ],
    "actions": [
     {
@@ -23145,7 +23543,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "cleavers"
   },
   {

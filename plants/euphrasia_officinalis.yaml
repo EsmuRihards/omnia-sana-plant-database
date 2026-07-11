@@ -31,6 +31,66 @@ constituents:
   reference_ids:
   - REF-0449
   - REF-0448
+botanical_description:
+  text: Small, semi-parasitic annual herb (drawing some nutrients from the roots of neighbouring grasses)
+    with tiny, opposite, toothed leaves and delicate, two-lipped white to pale lilac flowers marked with
+    purple veins and a yellow throat spot, giving a bright, eye-like appearance that inspired both its
+    common and Latin names.
+  height: 5-20 cm
+  habit: Small, semi-parasitic annual herb
+  leaves: Tiny, opposite, toothed
+  flowers: Small, two-lipped, white to pale lilac, purple-veined with a yellow throat spot
+  stem: Slender, often branched, hairy
+  root: Slender root system that taps into neighbouring grass roots (hemiparasitic)
+  fruit: Small, flattened, hairy capsule
+  flowering_period: June-September
+  reference_ids:
+  - REF-0449
+  status: verified
+habitat:
+  text: Grows in short, unimproved grassland, pastures, meadows and dunes on well-drained soils, always
+    in association with grasses on which it partially parasitises; native to Europe.
+  reference_ids:
+  - REF-0449
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut in summer while in flower and dried in a warm, shaded, airy
+    place.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Summer, at flowering
+  reference_ids:
+  - REF-0449
+  status: verified
+traditional_uses:
+  text: Eyebright has a centuries-old European folk reputation, reflected in its common name, as a soothing
+    remedy for irritated, red or watery eyes and conjunctivitis, traditionally applied as a cooled compress
+    or eyewash, and taken internally as an astringent for catarrh and mild digestive upset.
+  reference_ids:
+  - REF-0449
+  - REF-0448
+  status: verified
+preparations:
+- name: Cooled compress/eyewash
+  text: Strained, cooled infusion applied as a compress over closed eyelids, or used (only when sterile,
+    commercially prepared) as an eyewash for irritated or red eyes.
+  reference_ids:
+  - REF-0449
+  status: verified
+- name: Sterile eye drops
+  text: Commercially prepared, sterile Euphrasia eye drops used for conjunctivitis; a prospective clinical
+    cohort found improvement in most users.
+  reference_ids:
+  - REF-0613
+  status: verified
+- name: Infusion (internal)
+  text: Dried flowering herb infused in hot water, taken internally as an astringent tea for catarrh.
+  status: draft
+dosage:
+- name: Compress/eyewash
+  text: A strained, cooled infusion applied as a compress several times daily; only sterile, commercially
+    prepared products should ever be put directly into the eye. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
@@ -150,7 +210,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study;
   Herbal Reality monograph). Euphrasia is now placed in Orobanchaceae (formerly Scrophulariaceae). Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, allergy, infection);
@@ -162,4 +222,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-
   bucket (least-cited enrichment): REF-0812, REF-0813, REF-0814. | 2026-06-20: enriched to >=10 scientific
   publications: added 8 PubMed-verified @article sources (REF-2173, REF-2174, REF-2175, REF-0812, REF-2176,
   REF-0813, REF-2177, REF-2178) — woven into relevant actions/indications and the plant-level references
-  bucket.'
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

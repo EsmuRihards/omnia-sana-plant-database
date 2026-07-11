@@ -34,6 +34,57 @@ constituents:
   note: Supporting antioxidant and aromatic constituents.
   reference_ids:
   - REF-0523
+botanical_description:
+  text: Slender, upright perennial herb with wiry, square, sparsely hairy stems and deeply lobed, toothed
+    leaves. Tiny, pale lilac to pale purple, five-lobed flowers are borne sparsely along thin, wiry spikes
+    at the ends of the branches, opening a few at a time.
+  height: 30-90 cm
+  habit: Slender, upright, wiry-stemmed perennial herb
+  leaves: Deeply lobed, toothed, opposite
+  flowers: Tiny, pale lilac to pale purple, five-lobed, sparsely arranged along thin wiry spikes
+  stem: Wiry, square, sparsely hairy, branching
+  root: Fibrous rootstock
+  fruit: Small nutlet, splitting into four when ripe
+  flowering_period: June-September
+  reference_ids:
+  - REF-0522
+  status: verified
+habitat:
+  text: Grows on dry waste ground, roadsides, field margins and disturbed soil; native to Europe, North
+    Africa and temperate Asia and widely naturalised elsewhere.
+  reference_ids:
+  - REF-0522
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut in summer as the plant comes into flower and dried in a warm,
+    shaded, airy place.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Summer, at flowering
+  reference_ids:
+  - REF-0522
+  status: verified
+traditional_uses:
+  text: Vervain has an ancient European reputation, reflected in its old names 'holy herb' and 'herb of
+    the cross', as a calming nervine for nervous tension, anxiety and sleeplessness, and as a bitter digestive
+    tonic; it has also traditionally been used topically and internally for aches, pains and mild inflammation.
+  reference_ids:
+  - REF-0522
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional calming, digestive tea.
+  reference_ids:
+  - REF-0522
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried flowering herb.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 1.5-3 g of dried herb per cup, up to three times
+    daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: analgesic
   note: Anti-inflammatory and analgesic
@@ -187,7 +238,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Vervain is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Vervain is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -200,7 +253,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Verbenae herba; Planta Medica review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (anxiety, insomnia, nervous-tension, inflammation, depression); associations retained and
@@ -210,4 +263,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 10 PubMed-verified @article sources (REF-1358, REF-1359, REF-1360, REF-1361, REF-1362, REF-1363,
   REF-1364, REF-1365, REF-1366, REF-1367) — woven into relevant actions/indications and the plant-level
-  references bucket.'
+  references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

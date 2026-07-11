@@ -30,6 +30,56 @@ constituents:
   reference_ids:
   - REF-0439
   - REF-1133
+botanical_description:
+  text: Deciduous shrub with maple-like, three-lobed, toothed leaves that turn red in autumn. Flat-topped
+    clusters of white flowers are borne in late spring, the outer ring of larger, showy sterile flowers
+    surrounding smaller fertile ones, followed by translucent red berries in autumn.
+  height: 2-4 m
+  habit: Deciduous shrub
+  leaves: Maple-like, three-lobed, toothed, turning red in autumn
+  flowers: Flat-topped clusters of white flowers, with showy sterile outer flowers ringing smaller fertile
+    ones
+  stem: Multiple woody stems; the medicinal bark is stripped from branches
+  root: Woody root system
+  fruit: Translucent red berry, toxic raw in quantity, not used medicinally
+  flowering_period: May-June
+  reference_ids:
+  - REF-0439
+  status: verified
+habitat:
+  text: Grows in hedgerows, woodland margins, damp scrub and riverbanks on moist, often calcareous soils;
+    native to Europe, North Africa and temperate Asia.
+  reference_ids:
+  - REF-0439
+  status: verified
+harvesting:
+  text: The bark is stripped from branches (not the main trunk) in spring or autumn, avoiding girdling
+    any single branch, then dried.
+  parts:
+  - Bark (stem bark)
+  season: Spring or autumn
+  status: draft
+traditional_uses:
+  text: Cramp bark has a long European and North American folk reputation, reflected in its common name,
+    as an antispasmodic remedy for muscle cramps, menstrual cramps and general smooth-muscle spasm, acting
+    as a relaxant on both skeletal and uterine muscle.
+  reference_ids:
+  - REF-0439
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried bark simmered in water as the traditional antispasmodic preparation.
+  reference_ids:
+  - REF-0439
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried bark, typically around 1:5.
+  status: draft
+dosage:
+- name: Decoction/tincture
+  text: Traditional herbal references suggest around 1-2 g of dried bark per cup, or 2-4 mL of a 1:5 tincture,
+    up to three times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: analgesic
   note: Mild analgesic for cramping pain
@@ -106,13 +156,26 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: solanum-dulcamara
   severity: dangerous
-  confused_part: Bright red autumn berries gathered for food; woody nightshade bears similar shiny red berries in the same hedgerows.
-  confusion_context: Guelder rose (Viburnum opulus) berries are gathered (and cooked) for jellies and sauces. As Totally Wild UK warns, when picking them you must make sure the berries come from the guelder rose shrub itself and not from any scrambling vine with red berries, such as woody nightshade (Solanum dulcamara), which is highly toxic and often grows through the same hedges. Woody nightshade berries contain solanine-type glycoalkaloids and have poisoned children. Because both bear shiny red berries in autumn, checking the plant they hang on is essential.
+  confused_part: Bright red autumn berries gathered for food; woody nightshade bears similar shiny red
+    berries in the same hedgerows.
+  confusion_context: Guelder rose (Viburnum opulus) berries are gathered (and cooked) for jellies and
+    sauces. As Totally Wild UK warns, when picking them you must make sure the berries come from the guelder
+    rose shrub itself and not from any scrambling vine with red berries, such as woody nightshade (Solanum
+    dulcamara), which is highly toxic and often grows through the same hedges. Woody nightshade berries
+    contain solanine-type glycoalkaloids and have poisoned children. Because both bear shiny red berries
+    in autumn, checking the plant they hang on is essential.
   distinguishing_features:
-  - 'Plant form (decisive): guelder rose is an upright shrub with maple-like three-lobed leaves; its berries hang in flat, rounded clusters. Woody nightshade is a floppy scrambling vine with arrow-shaped/lobed leaves and drooping loose clusters of berries.'
-  - 'Flowers/earlier signs: guelder rose has flat white flower heads (with showy outer flowers); woody nightshade has purple star-shaped flowers with a yellow central cone.'
-  - 'Berry shape: guelder rose berries are round and translucent-red; woody nightshade berries are more egg-shaped and hang from a scrambling stem, not a woody shrub.'
-  key_test: Check the plant the berries hang on. Round translucent-red berries in flat clusters on an upright shrub with maple-like lobed leaves = guelder rose. Berries on a floppy scrambling vine with arrow-shaped leaves (and purple star flowers earlier in the year) = woody nightshade - toxic, do not pick them.
+  - 'Plant form (decisive): guelder rose is an upright shrub with maple-like three-lobed leaves; its berries
+    hang in flat, rounded clusters. Woody nightshade is a floppy scrambling vine with arrow-shaped/lobed
+    leaves and drooping loose clusters of berries.'
+  - 'Flowers/earlier signs: guelder rose has flat white flower heads (with showy outer flowers); woody
+    nightshade has purple star-shaped flowers with a yellow central cone.'
+  - 'Berry shape: guelder rose berries are round and translucent-red; woody nightshade berries are more
+    egg-shaped and hang from a scrambling stem, not a woody shrub.'
+  key_test: Check the plant the berries hang on. Round translucent-red berries in flat clusters on an
+    upright shrub with maple-like lobed leaves = guelder rose. Berries on a floppy scrambling vine with
+    arrow-shaped leaves (and purple star flowers earlier in the year) = woody nightshade - toxic, do not
+    pick them.
   reference_ids:
   - REF-2693
   - REF-2694
@@ -121,7 +184,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect
   overview). Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps,
@@ -131,4 +194,7 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
   sources (REF-1133, REF-1134, REF-1135, REF-1136, REF-1137, REF-1138, REF-1139, REF-1140, REF-1141, REF-1142)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

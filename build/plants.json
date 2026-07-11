@@ -56829,6 +56829,109 @@
     "Flower",
     "Leaf"
    ],
+   "botanical_description": {
+    "text": "Tall, stately biennial herb forming a low first-year rosette of large, soft, thick, densely woolly grey-green leaves; in the second year it sends up a single, tall, unbranched flowering spike densely packed with bright yellow, five-petalled flowers that open a few at a time.",
+    "height": "1-2 m (flowering stem, second year)",
+    "habit": "Tall, biennial herb; woolly basal rosette in year one, single tall flowering spike in year two",
+    "leaves": "Large, soft, thick, densely woolly grey-green, entire to faintly scalloped margin",
+    "flowers": "Bright yellow, five-petalled, densely packed along a tall unbranched spike",
+    "stem": "Single, tall, unbranched, woolly flowering stem (second year only)",
+    "root": "Stout taproot",
+    "fruit": "Small capsule with numerous tiny seeds",
+    "flowering_period": "June-September (second year)",
+    "reference_ids": [
+     "REF-1123"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry, sunny waste ground, roadsides, disturbed soil and rocky slopes; native to Europe, North Africa and Asia and widely naturalised in North America and elsewhere.",
+    "reference_ids": [
+     "REF-1123"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowers are picked individually as they open through summer (since they open only a few at a time and quickly fade once picked); leaves are gathered from the first-year rosette or second-year plant and dried, with care to filter out the fine leaf hairs, which can irritate the throat if not strained from tea.",
+    "parts": [
+     "Flower",
+     "Leaf"
+    ],
+    "season": "Flowers through summer as they open; leaf from rosette or flowering plant",
+    "reference_ids": [
+     "REF-1123"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Great mullein has a long European and Native American tradition as a soothing demulcent and expectorant remedy for cough, bronchitis and irritated airways, and the flower has also been infused in oil as a traditional remedy for earache; the soft, woolly leaf gave rise to old names like 'flannel leaf' and 'velvet plant'.",
+    "reference_ids": [
+     "REF-1123",
+     "REF-1124"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (flower or leaf)",
+     "text": "Dried flower or leaf infused in hot water and carefully strained (to remove fine irritant hairs) as a traditional demulcent cough and respiratory tea.",
+     "reference_ids": [
+      "REF-1123"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infused oil (flower, earache)",
+     "text": "Fresh flowers infused in oil, traditionally warmed and used as ear drops for earache.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flower or leaf, carefully filtered.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1.5-2 g of dried flower or leaf per cup, up to three to four times daily, carefully strained. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Iridoid glycosides (aucubin, catalpol)",
+     "compounds": [
+      "iridoid-glycoside",
+      "glycoside"
+     ],
+     "note": "Anti-inflammatory iridoids contributing to the plant's traditional respiratory and anti-inflammatory use.",
+     "reference_ids": [
+      "REF-1124"
+     ]
+    },
+    {
+     "name": "Saponins and mucilage",
+     "compounds": [
+      "saponin",
+      "mucilage"
+     ],
+     "note": "Mucilage gives the soothing demulcent action; saponins contribute to the traditional expectorant effect.",
+     "reference_ids": [
+      "REF-1123"
+     ]
+    },
+    {
+     "name": "Flavonoids",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Antioxidant flavonoids contributing to overall activity.",
+     "reference_ids": [
+      "REF-1124"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -57016,7 +57119,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "great-mullein"
   },
   {
@@ -57069,6 +57172,68 @@
      "reference_ids": [
       "REF-0523"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Slender, upright perennial herb with wiry, square, sparsely hairy stems and deeply lobed, toothed leaves. Tiny, pale lilac to pale purple, five-lobed flowers are borne sparsely along thin, wiry spikes at the ends of the branches, opening a few at a time.",
+    "height": "30-90 cm",
+    "habit": "Slender, upright, wiry-stemmed perennial herb",
+    "leaves": "Deeply lobed, toothed, opposite",
+    "flowers": "Tiny, pale lilac to pale purple, five-lobed, sparsely arranged along thin wiry spikes",
+    "stem": "Wiry, square, sparsely hairy, branching",
+    "root": "Fibrous rootstock",
+    "fruit": "Small nutlet, splitting into four when ripe",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0522"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry waste ground, roadsides, field margins and disturbed soil; native to Europe, North Africa and temperate Asia and widely naturalised elsewhere.",
+    "reference_ids": [
+     "REF-0522"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in summer as the plant comes into flower and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0522"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Vervain has an ancient European reputation, reflected in its old names 'holy herb' and 'herb of the cross', as a calming nervine for nervous tension, anxiety and sleeplessness, and as a bitter digestive tonic; it has also traditionally been used topically and internally for aches, pains and mild inflammation.",
+    "reference_ids": [
+     "REF-0522"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a traditional calming, digestive tea.",
+     "reference_ids": [
+      "REF-0522"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flowering herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1.5-3 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -57331,7 +57496,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "vervain"
   },
   {
@@ -57369,6 +57534,62 @@
      "reference_ids": [
       "REF-0513"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Low, creeping, mat-forming perennial herb with softly hairy, oval, finely toothed leaves along trailing stems that root as they spread. Small, pale lilac-blue flowers with darker veining are borne in slender upright spikes rising from the leaf axils.",
+    "height": "5-40 cm (upright flowering spikes; creeping stems low)",
+    "habit": "Low, creeping, mat-forming perennial herb",
+    "leaves": "Softly hairy, oval, finely toothed, opposite",
+    "flowers": "Small, pale lilac-blue with darker veining, in slender upright axillary spikes",
+    "stem": "Trailing, softly hairy, rooting as it spreads",
+    "root": "Fine roots along the creeping stem",
+    "fruit": "Small, flattened, heart-shaped capsule",
+    "flowering_period": "May-August",
+    "reference_ids": [
+     "REF-0513"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry heath, moorland, open woodland, grassland and banks on acidic, well-drained soils; native to Europe and naturalised in North America.",
+    "reference_ids": [
+     "REF-0513"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in summer while in flower and dried in a warm, shaded, airy place; the closely related Veronica chamaedrys is a frequent adulterant, so careful identification (or a reputable source) is important.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0513"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Speedwell has a long European folk history as a mild digestive tonic and traditional expectorant for cough and respiratory complaints, and has also been used topically as a soothing wash for irritated skin; modern research on its iridoid glycosides supports a molecular basis for the traditional respiratory use.",
+    "status": "draft"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a traditional digestive and respiratory tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flowering herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -57537,7 +57758,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "speedwell"
   },
   {
@@ -57583,6 +57804,65 @@
       "REF-0439",
       "REF-1133"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Deciduous shrub with maple-like, three-lobed, toothed leaves that turn red in autumn. Flat-topped clusters of white flowers are borne in late spring, the outer ring of larger, showy sterile flowers surrounding smaller fertile ones, followed by translucent red berries in autumn.",
+    "height": "2-4 m",
+    "habit": "Deciduous shrub",
+    "leaves": "Maple-like, three-lobed, toothed, turning red in autumn",
+    "flowers": "Flat-topped clusters of white flowers, with showy sterile outer flowers ringing smaller fertile ones",
+    "stem": "Multiple woody stems; the medicinal bark is stripped from branches",
+    "root": "Woody root system",
+    "fruit": "Translucent red berry, toxic raw in quantity, not used medicinally",
+    "flowering_period": "May-June",
+    "reference_ids": [
+     "REF-0439"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in hedgerows, woodland margins, damp scrub and riverbanks on moist, often calcareous soils; native to Europe, North Africa and temperate Asia.",
+    "reference_ids": [
+     "REF-0439"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The bark is stripped from branches (not the main trunk) in spring or autumn, avoiding girdling any single branch, then dried.",
+    "parts": [
+     "Bark (stem bark)"
+    ],
+    "season": "Spring or autumn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Cramp bark has a long European and North American folk reputation, reflected in its common name, as an antispasmodic remedy for muscle cramps, menstrual cramps and general smooth-muscle spasm, acting as a relaxant on both skeletal and uterine muscle.",
+    "reference_ids": [
+     "REF-0439"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried bark simmered in water as the traditional antispasmodic preparation.",
+     "reference_ids": [
+      "REF-0439"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried bark, typically around 1:5.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction/tincture",
+     "text": "Traditional herbal references suggest around 1-2 g of dried bark per cup, or 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -57720,7 +58000,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "cramp-bark"
   },
   {
@@ -57769,6 +58049,76 @@
      "reference_ids": [
       "REF-0517"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Low, spreading perennial herb with heart-shaped, softly toothed leaves arising from a short rootstock, spreading by runners (stolons). Fragrant, deep violet-purple (occasionally white) flowers with five petals, the lower petal spurred, are borne singly on slender stalks.",
+    "height": "5-15 cm",
+    "habit": "Low, spreading perennial herb, spreading by runners",
+    "leaves": "Heart-shaped, softly toothed",
+    "flowers": "Fragrant, deep violet-purple (occasionally white), five-petalled, the lower petal spurred, borne singly",
+    "stem": "Very short; leaves and flowers arise from a basal rootstock, spreading by stolons",
+    "root": "Short rootstock with spreading runners",
+    "fruit": "Small three-valved capsule",
+    "flowering_period": "February-April (with a lighter second flush in autumn)",
+    "reference_ids": [
+     "REF-0517"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in woodland edges, hedgerows, shaded banks and gardens on moist, humus-rich soils; native to Europe, North Africa and Asia and widely naturalised and cultivated elsewhere.",
+    "reference_ids": [
+     "REF-0517"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flowers are picked as they open in early spring; leaves can be gathered through the growing season and dried.",
+    "parts": [
+     "Flower and leaf (aerial parts)"
+    ],
+    "season": "Flower in early spring; leaf through the growing season",
+    "reference_ids": [
+     "REF-0517"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Sweet violet flower and leaf have a long European folk history as a soothing demulcent and expectorant remedy for cough, bronchitis and catarrh, and as a mild sedative for sleeplessness and headache; the flower syrup in particular has a long tradition as a children's cough remedy.",
+    "reference_ids": [
+     "REF-0517"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Syrup (flower)",
+     "text": "Fresh flowers infused and combined with sugar syrup as a traditional soothing cough remedy, particularly for children.",
+     "reference_ids": [
+      "REF-0609"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried flower or leaf infused in hot water as a traditional demulcent, calming tea.",
+     "reference_ids": [
+      "REF-0517"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flower and leaf.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion/syrup",
+     "text": "Traditional herbal references suggest around 2-4 g of dried flower and leaf per cup, up to three times daily; syrup dosed per product labelling. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -57997,7 +58347,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "sweet-violet"
   },
   {

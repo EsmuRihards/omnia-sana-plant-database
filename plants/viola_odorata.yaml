@@ -30,6 +30,64 @@ constituents:
   note: Minor aromatic and bioactive constituents.
   reference_ids:
   - REF-0517
+botanical_description:
+  text: Low, spreading perennial herb with heart-shaped, softly toothed leaves arising from a short rootstock,
+    spreading by runners (stolons). Fragrant, deep violet-purple (occasionally white) flowers with five
+    petals, the lower petal spurred, are borne singly on slender stalks.
+  height: 5-15 cm
+  habit: Low, spreading perennial herb, spreading by runners
+  leaves: Heart-shaped, softly toothed
+  flowers: Fragrant, deep violet-purple (occasionally white), five-petalled, the lower petal spurred,
+    borne singly
+  stem: Very short; leaves and flowers arise from a basal rootstock, spreading by stolons
+  root: Short rootstock with spreading runners
+  fruit: Small three-valved capsule
+  flowering_period: February-April (with a lighter second flush in autumn)
+  reference_ids:
+  - REF-0517
+  status: verified
+habitat:
+  text: Grows in woodland edges, hedgerows, shaded banks and gardens on moist, humus-rich soils; native
+    to Europe, North Africa and Asia and widely naturalised and cultivated elsewhere.
+  reference_ids:
+  - REF-0517
+  status: verified
+harvesting:
+  text: Flowers are picked as they open in early spring; leaves can be gathered through the growing season
+    and dried.
+  parts:
+  - Flower and leaf (aerial parts)
+  season: Flower in early spring; leaf through the growing season
+  reference_ids:
+  - REF-0517
+  status: verified
+traditional_uses:
+  text: Sweet violet flower and leaf have a long European folk history as a soothing demulcent and expectorant
+    remedy for cough, bronchitis and catarrh, and as a mild sedative for sleeplessness and headache; the
+    flower syrup in particular has a long tradition as a children's cough remedy.
+  reference_ids:
+  - REF-0517
+  status: verified
+preparations:
+- name: Syrup (flower)
+  text: Fresh flowers infused and combined with sugar syrup as a traditional soothing cough remedy, particularly
+    for children.
+  reference_ids:
+  - REF-0609
+  status: verified
+- name: Infusion
+  text: Dried flower or leaf infused in hot water as a traditional demulcent, calming tea.
+  reference_ids:
+  - REF-0517
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried flower and leaf.
+  status: draft
+dosage:
+- name: Infusion/syrup
+  text: Traditional herbal references suggest around 2-4 g of dried flower and leaf per cup, up to three
+    times daily; syrup dosed per product labelling. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -157,7 +215,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Sweet violet is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Sweet violet is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -171,13 +231,25 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: ficaria-verna
   severity: irritant
-  confused_part: Low, heart-shaped spring leaves gathered as an edible; lesser celandine forms similar low leaves at the same time and place.
-  confusion_context: Sweet violet (Viola odorata) is foraged in early spring for its heart-shaped leaves and flowers. Lesser celandine (Ficaria verna, fig buttercup) grows in the same season and habitat and, as foraging guidance warns, its low-growing leaves closely resemble violet; lesser celandine is toxic to humans in most stages (it contains the acrid irritant protoanemonin). Because their spring leaves are alike, this is a genuine early-season foraging hazard, although cooking destroys the toxin and the acrid taste discourages eating much.
+  confused_part: Low, heart-shaped spring leaves gathered as an edible; lesser celandine forms similar
+    low leaves at the same time and place.
+  confusion_context: Sweet violet (Viola odorata) is foraged in early spring for its heart-shaped leaves
+    and flowers. Lesser celandine (Ficaria verna, fig buttercup) grows in the same season and habitat
+    and, as foraging guidance warns, its low-growing leaves closely resemble violet; lesser celandine
+    is toxic to humans in most stages (it contains the acrid irritant protoanemonin). Because their spring
+    leaves are alike, this is a genuine early-season foraging hazard, although cooking destroys the toxin
+    and the acrid taste discourages eating much.
   distinguishing_features:
-  - 'Flowers (decisive): sweet violet has purple (sometimes white) flowers with five uneven petals. Lesser celandine has glossy, bright-yellow star-like flowers with 8-12 petals. A yellow many-petalled flower means lesser celandine, never violet.'
-  - 'Leaves: violet leaves are matt and heart-shaped on their own stalks from the base. Lesser celandine leaves are glossier and more kidney- to arrow-shaped, sometimes with pale mottling.'
-  - 'Best practice: harvest violet leaves only once you can trace every leaf to a violet plant (ideally in flower), not to a yellow-flowered plant.'
-  key_test: Wait until the plant flowers, or trace each leaf to its flower. Purple five-petalled flowers with matt heart-shaped leaves = sweet violet. Glossy yellow flowers with 8-12 petals = lesser celandine - do not eat it raw. If you cannot confirm a violet flower, do not gather the leaves.
+  - 'Flowers (decisive): sweet violet has purple (sometimes white) flowers with five uneven petals. Lesser
+    celandine has glossy, bright-yellow star-like flowers with 8-12 petals. A yellow many-petalled flower
+    means lesser celandine, never violet.'
+  - 'Leaves: violet leaves are matt and heart-shaped on their own stalks from the base. Lesser celandine
+    leaves are glossier and more kidney- to arrow-shaped, sometimes with pale mottling.'
+  - 'Best practice: harvest violet leaves only once you can trace every leaf to a violet plant (ideally
+    in flower), not to a yellow-flowered plant.'
+  key_test: Wait until the plant flowers, or trace each leaf to its flower. Purple five-petalled flowers
+    with matt heart-shaped leaves = sweet violet. Glossy yellow flowers with 8-12 petals = lesser celandine
+    - do not eat it raw. If you cannot confirm a violet flower, do not gather the leaves.
   reference_ids:
   - REF-2686
   status: approved
@@ -185,7 +257,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs).
   Note: distinct from the book''s Viola tricolor (heartsease). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, insomnia, sore-throat, headache); associations retained
@@ -195,4 +267,6 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1143, REF-1144, REF-1145, REF-1146, REF-1147,
   REF-1148, REF-1149, REF-1150, REF-1151, REF-1152) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

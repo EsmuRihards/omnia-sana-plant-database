@@ -23,6 +23,55 @@ constituents:
   note: Antioxidant constituents.
   reference_ids:
   - REF-0513
+botanical_description:
+  text: Low, creeping, mat-forming perennial herb with softly hairy, oval, finely toothed leaves along
+    trailing stems that root as they spread. Small, pale lilac-blue flowers with darker veining are borne
+    in slender upright spikes rising from the leaf axils.
+  height: 5-40 cm (upright flowering spikes; creeping stems low)
+  habit: Low, creeping, mat-forming perennial herb
+  leaves: Softly hairy, oval, finely toothed, opposite
+  flowers: Small, pale lilac-blue with darker veining, in slender upright axillary spikes
+  stem: Trailing, softly hairy, rooting as it spreads
+  root: Fine roots along the creeping stem
+  fruit: Small, flattened, heart-shaped capsule
+  flowering_period: May-August
+  reference_ids:
+  - REF-0513
+  status: verified
+habitat:
+  text: Grows on dry heath, moorland, open woodland, grassland and banks on acidic, well-drained soils;
+    native to Europe and naturalised in North America.
+  reference_ids:
+  - REF-0513
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut in summer while in flower and dried in a warm, shaded, airy
+    place; the closely related Veronica chamaedrys is a frequent adulterant, so careful identification
+    (or a reputable source) is important.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Summer, at flowering
+  reference_ids:
+  - REF-0513
+  status: verified
+traditional_uses:
+  text: Speedwell has a long European folk history as a mild digestive tonic and traditional expectorant
+    for cough and respiratory complaints, and has also been used topically as a soothing wash for irritated
+    skin; modern research on its iridoid glycosides supports a molecular basis for the traditional respiratory
+    use.
+  status: draft
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional digestive and respiratory tea.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried flowering herb.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and antioxidant
@@ -134,7 +183,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   authentication/phytochemistry study; HerbaZest monograph). Speedwell is poorly covered by clinical trials,
   so most actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
@@ -144,4 +193,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   giving a molecular rationale for the traditional respiratory use. | 2026-06-15: migrated to entity schema
   (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
   to >=10 scientific publications: added 3 PubMed-verified @article sources (REF-1378, REF-1379, REF-1380)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

@@ -26,6 +26,56 @@ constituents:
     choice. Several pooled clinical and antimicrobial studies do not distinguish the two species.
   reference_ids:
   - REF-0668
+botanical_description:
+  text: Evergreen tree with smooth, thin, light brown bark and leathery, oval leaves with three prominent
+    longitudinal veins, often flushed reddish-pink when young. Small, pale yellow-green flowers are borne
+    in panicles, followed by small, dark, single-seeded berries. The thin inner bark is peeled and dried
+    into the characteristic pale, tightly layered, multi-ply quills of true cinnamon.
+  height: Up to 10-15 m (often coppiced lower in cultivation)
+  habit: Evergreen tree, often coppiced/pruned under cultivation
+  leaves: Leathery, oval, three prominent longitudinal veins, reddish-pink when young
+  flowers: Small, pale yellow-green, in panicles
+  stem: Smooth, thin, light brown bark
+  root: Woody root system
+  fruit: Small, dark, single-seeded berry
+  flowering_period: Varies with climate
+  status: draft
+habitat:
+  text: Native to Sri Lanka and the Malabar coast of southern India; cultivated in warm, humid tropical
+    lowlands, especially Sri Lanka, which remains the main source of true (Ceylon) cinnamon.
+  status: draft
+harvesting:
+  text: Young shoots are cut back to encourage thin, straight new growth; the thin outer bark is scraped
+    away and the paper-thin inner bark is peeled off, dried and rolled by hand into the characteristic
+    multi-layered quills of Ceylon cinnamon.
+  parts:
+  - Bark
+  status: draft
+traditional_uses:
+  text: True cinnamon bark has an ancient trade and medicinal history across Asia, the Middle East and
+    Europe as a warming digestive and circulatory remedy, used for indigestion and as a general tonic
+    spice; because it contains only trace coumarin, it is considered the safer species for frequent or
+    medicinal use compared with cassia.
+  reference_ids:
+  - REF-0101
+  status: verified
+preparations:
+- name: Standardised extract/powder
+  text: Dried bark powder or standardised extract taken as capsules for metabolic and antioxidant support.
+  reference_ids:
+  - REF-0101
+  status: draft
+- name: Decoction/infusion
+  text: Bark simmered or infused in hot water as a warming digestive tea.
+  status: draft
+- name: Culinary use
+  text: Ground bark or whole quills used as a food spice, the traditional and most common form of use.
+  status: draft
+dosage:
+- name: Bark powder
+  text: Traditional herbal references suggest around 0.5-1 g bark powder, up to three times daily. Educational
+    reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -178,7 +228,9 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Cinnamon can lower blood sugar (a meta-analysis of 28 trials in type 2 diabetes found reduced fasting glucose and HbA1c), so combining it with diabetes medicines such as insulin, metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.'
+  mechanism: Cinnamon can lower blood sugar (a meta-analysis of 28 trials in type 2 diabetes found reduced
+    fasting glucose and HbA1c), so combining it with diabetes medicines such as insulin, metformin or
+    sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.
   reference_ids:
   - REF-2448
   - REF-2514
@@ -188,7 +240,9 @@ drug_class_interactions:
 pairings:
 - partner_id: trigonella-foenum-graecum
   type: caution
-  note: 'Cinnamon and fenugreek can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of blood sugar dropping too low (hypoglycaemia). Monitor your blood glucose.'
+  note: Cinnamon and fenugreek can each lower blood sugar, so taking them together — especially alongside
+    diabetes medicines — may add up and increase the risk of blood sugar dropping too low (hypoglycaemia).
+    Monitor your blood glucose.
   reference_ids:
   - REF-2514
   - REF-2515
@@ -197,7 +251,8 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: momordica-charantia
   type: caution
-  note: 'Cinnamon and bitter melon can each lower blood sugar, so taking them together — especially alongside diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.'
+  note: Cinnamon and bitter melon can each lower blood sugar, so taking them together — especially alongside
+    diabetes medicines — may add up and increase the risk of hypoglycaemia. Monitor your blood glucose.
   reference_ids:
   - REF-2514
   - REF-2528
@@ -210,7 +265,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -222,4 +277,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 5 PubMed-verified @article sources (REF-2413, REF-2414,
   REF-2415, REF-2416, REF-2417) — woven into relevant actions/indications and the plant-level references
-  bucket.'
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

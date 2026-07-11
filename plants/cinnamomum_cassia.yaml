@@ -27,6 +27,61 @@ constituents:
     compound.
   reference_ids:
   - REF-0430
+botanical_description:
+  text: Evergreen tree with smooth, aromatic, reddish-brown bark and leathery, oval leaves with three
+    prominent longitudinal veins. Small, pale yellow-green flowers are borne in panicles, followed by
+    small, dark, single-seeded berries. The dried inner bark, rolled into thick, dark reddish-brown quills,
+    is the cassia cinnamon of commerce.
+  height: Up to 10-15 m
+  habit: Evergreen tree
+  leaves: Leathery, oval, with three prominent longitudinal veins
+  flowers: Small, pale yellow-green, in panicles
+  stem: Smooth, aromatic, reddish-brown bark
+  root: Woody root system
+  fruit: Small, dark, single-seeded berry
+  flowering_period: Varies with climate
+  status: draft
+habitat:
+  text: Native to southern China and mainland Southeast Asia; cultivated extensively in China, Vietnam
+    and Indonesia on warm, humid, tropical to subtropical hillsides.
+  status: draft
+harvesting:
+  text: The bark is stripped from branches and stems of mature trees, then dried; as it dries it curls
+    into the characteristic thick quills of cassia cinnamon, distinctly darker and rougher than the thin,
+    tightly rolled quills of true (Ceylon) cinnamon.
+  parts:
+  - Bark
+  status: draft
+traditional_uses:
+  text: Cassia bark (rou gui) is a major warming spice and digestive remedy of traditional Chinese medicine,
+    used for cold-type digestive complaints, circulation and metabolic support; its cinnamaldehyde-rich
+    bark is now widely studied as an adjunct for blood glucose and lipid management in type 2 diabetes,
+    directly building on this traditional metabolic reputation.
+  reference_ids:
+  - REF-0430
+  status: verified
+preparations:
+- name: Standardised extract/powder
+  text: Dried bark powder or standardised extract taken as capsules, the form used in most clinical glucose/lipid
+    studies.
+  reference_ids:
+  - REF-0430
+  status: verified
+- name: Decoction/infusion
+  text: Bark simmered or infused in hot water as a warming traditional digestive tea.
+  status: draft
+- name: Culinary use
+  text: Ground bark or whole quills used as a food spice, the most common traditional and modern form
+    of use.
+  status: draft
+dosage:
+- name: Standardised extract/powder
+  text: Clinical trials in type 2 diabetes commonly use around 1-6 g of cassia bark powder daily; because
+    of its coumarin content, intake should be kept modest and consistent, and true (Ceylon) cinnamon preferred
+    for frequent medicinal use. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0430
+  status: draft
 actions:
 - action: antidiabetic
   note: Lowers fasting blood glucose as an adjunct in type 2 diabetes (evidence is positive but mixed)
@@ -128,7 +183,8 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Cinnamon can lower blood sugar, so combining it with diabetes medicines such as insulin, metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.'
+  mechanism: Cinnamon can lower blood sugar, so combining it with diabetes medicines such as insulin,
+    metformin or sulfonylureas may increase the risk of hypoglycaemia; monitor blood glucose.
   reference_ids:
   - REF-2448
   status: approved
@@ -140,7 +196,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Family Medicine meta-analysis;
   cassia-bark glucose/lipid meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (blood-sugar, high-cholesterol, indigestion); associations retained and now part-mapped
@@ -151,4 +207,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
   10 PubMed-verified @article sources (REF-1819, REF-1820, REF-1821, REF-1822, REF-1823, REF-1824, REF-1825,
   REF-1826, REF-1827, REF-1828) — woven into relevant actions/indications and the plant-level references
-  bucket.'
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

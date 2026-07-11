@@ -31,6 +31,60 @@ constituents:
   note: Aromatic constituents of the herb.
   reference_ids:
   - REF-0419
+botanical_description:
+  text: Branching annual herb with a hairy, reddish, ridged stem and spiny, deeply lobed leaves with prominent
+    pale veins. The flower heads are pale yellow, thistle-like, surrounded by a whorl of spiny, leaf-like
+    bracts, giving the plant its 'spotted thistle' appearance.
+  height: 20-60 cm
+  habit: Branching, hairy annual herb
+  leaves: Spiny, deeply lobed, with prominent pale veins
+  flowers: Pale yellow, thistle-like flower heads surrounded by spiny bracts
+  stem: Hairy, reddish, ridged, branching
+  root: Shallow taproot
+  fruit: Ribbed achene with a feathery pappus
+  flowering_period: June-August
+  reference_ids:
+  - REF-0419
+  status: verified
+habitat:
+  text: Grows on dry, sunny waste ground, roadsides and rocky slopes; native to the Mediterranean region
+    and Western Asia and naturalised elsewhere as a garden escape.
+  reference_ids:
+  - REF-0419
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut as the plant comes into flower, in summer, and dried in a warm,
+    shaded, airy place to preserve the bitter principle cnicin.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Summer, at flowering
+  reference_ids:
+  - REF-0419
+  status: verified
+traditional_uses:
+  text: Blessed thistle has a long European folk reputation as a bitter digestive tonic for loss of appetite
+    and dyspepsia (an approved use under German Commission E) and, more anecdotally, as a traditional
+    galactagogue to support breast-milk supply, though robust clinical evidence for the latter is lacking.
+  reference_ids:
+  - REF-0419
+  - REF-0420
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused briefly in hot water as a bitter digestive tea, taken before meals.
+  reference_ids:
+  - REF-0420
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 1-2 g of dried herb per cup, taken before meals,
+    up to three times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0420
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Antimicrobial and anti-inflammatory (attributed to cnicin)
@@ -155,7 +209,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Planta Medica review; Drugs.com
   and LactMed monographs). Cnicus benedictus = Centaurea benedicta. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, appetite-loss, lactation-support); associations
@@ -164,4 +218,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pla
   to the plant-level references bucket (least-cited enrichment): REF-0773, REF-0774, REF-0775. | 2026-06-20:
   enriched to >=10 scientific publications: added 9 PubMed-verified @article sources (REF-0419, REF-0773,
   REF-0774, REF-1995, REF-1996, REF-1997, REF-1998, REF-1999, REF-2000) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy.'

@@ -12918,6 +12918,108 @@
     "Leaf",
     "Young sprouts"
    ],
+   "botanical_description": {
+    "text": "Tall, upright perennial herb spreading by rhizomes, forming large colonies especially on disturbed or burned ground (hence 'fireweed'). The leaves are narrow, lance-shaped, and willow-like, arranged spirally up the stem. Bright pink-purple, four-petalled flowers are borne in a tall, tapering terminal spike (raceme), opening progressively from the base upward as the plant flowers through summer.",
+    "height": "60-200 cm",
+    "habit": "Tall, upright, rhizomatous perennial herb, often forming large colonies",
+    "leaves": "Narrow, lance-shaped, willow-like, spirally arranged",
+    "flowers": "Bright pink-purple, four-petalled, in a tall tapering terminal raceme",
+    "stem": "Erect, usually unbranched, reddish toward the base",
+    "root": "Spreading rhizome",
+    "fruit": "Long, narrow seed pod splitting to release cottony-tufted seeds",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-1658"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A classic pioneer plant of disturbed, burned or cleared ground, forest clearings, roadsides and riverbanks; native across the temperate and boreal Northern Hemisphere (Europe, Asia, North America).",
+    "reference_ids": [
+     "REF-1658"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Young shoots are gathered in spring while still tender (traditionally eaten like asparagus); leaves and flowers are picked through summer at flowering, with the leaf sometimes fermented for 'Ivan-chai' tea. Careful identification against the deadly false hellebore (Veratrum), which can share early-spring habitat, is essential when gathering young shoots.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Young sprouts"
+    ],
+    "season": "Young sprouts in spring; leaf and flower through summer",
+    "reference_ids": [
+     "REF-1658"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Fireweed has a long circumpolar tradition as a food plant (young shoots as a spring vegetable, fermented leaf as 'Ivan-chai' tea) and as a folk remedy for digestive complaints and topically as a poultice for wounds and skin inflammation, reflecting its astringent, anti-inflammatory character.",
+    "reference_ids": [
+     "REF-1658"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (leaf, 'Ivan-chai')",
+     "text": "Fresh or fermented, dried leaf infused in hot water as a traditional tea, valued both as a beverage and a mild digestive/anti-inflammatory remedy.",
+     "reference_ids": [
+      "REF-1658"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Poultice",
+     "text": "Fresh crushed leaf applied topically to minor wounds and skin inflammation.",
+     "status": "draft"
+    },
+    {
+     "name": "Young shoots (culinary)",
+     "text": "Young spring shoots peeled and eaten cooked, similarly to asparagus, continuing the traditional food use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-3 g of dried leaf per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Tannins (oenothein B and related ellagitannins)",
+     "compounds": [
+      "tannin"
+     ],
+     "note": "Astringent ellagitannins, notably oenothein B, are associated with the plant's traditional anti-inflammatory and prostate-supportive reputation in the related Epilobium species.",
+     "reference_ids": [
+      "REF-1658"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic acids",
+     "compounds": [
+      "flavonoid",
+      "phenolic-acid"
+     ],
+     "note": "Antioxidant polyphenols retained even after simulated digestion of the infusion.",
+     "reference_ids": [
+      "REF-1661"
+     ]
+    },
+    {
+     "name": "Triterpenoids",
+     "compounds": [
+      "terpene"
+     ],
+     "note": "Minor triterpenoid constituents contributing to the plant's bioactivity.",
+     "reference_ids": [
+      "REF-1658"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -13168,7 +13270,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "fireweed"
   },
   {
@@ -13216,6 +13318,75 @@
      "reference_ids": [
       "REF-0460"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Branching perennial herb with soft, brittle, hairy stems that exude a distinctive bright orange-yellow latex (sap) when cut or broken. The leaves are deeply lobed, pale bluish-green beneath, giving a delicate, almost fern-like appearance. Small, four-petalled, bright yellow flowers are borne in loose umbel-like clusters.",
+    "height": "30-90 cm",
+    "habit": "Branching, brittle-stemmed perennial herb",
+    "leaves": "Deeply lobed, pale bluish-green beneath",
+    "flowers": "Small, four-petalled, bright yellow, in loose umbel-like clusters",
+    "stem": "Soft, brittle, hairy, exuding bright orange-yellow latex when broken",
+    "root": "Branching taproot, also exuding orange latex",
+    "fruit": "Slender, curved capsule",
+    "flowering_period": "April-September",
+    "reference_ids": [
+     "REF-0460"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in shaded, nutrient-rich ground - hedgerows, walls, waste ground and woodland edges, often near old buildings; native to Europe and Western Asia and naturalised in North America.",
+    "reference_ids": [
+     "REF-0460"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in spring to summer; the fresh orange latex is collected by breaking a stem or leaf as needed for topical (wart) use. Given the documented hepatotoxicity of oral preparations, harvesting for internal use is not recommended.",
+    "parts": [
+     "Aerial parts (and fresh orange latex)"
+    ],
+    "season": "Spring to summer, while flowering",
+    "reference_ids": [
+     "REF-0460"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Greater celandine has a long European folk history, reflected in its name 'tetterwort', as a topical remedy for warts and skin blemishes (the fresh orange latex dabbed directly on), and internally as a bitter choleretic digestive remedy for biliary and upper-abdominal dyspepsia - though oral use is now medically restricted because of documented liver injury.",
+    "reference_ids": [
+     "REF-0460"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh latex (topical, warts only)",
+     "text": "Fresh orange latex from a broken stem dabbed directly onto warts, the classic external folk use; kept well away from eyes, mucous membranes and broken skin.",
+     "reference_ids": [
+      "REF-0460"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion/tincture (historical, oral - restricted)",
+     "text": "Historically taken as an infusion or tincture for biliary dyspepsia, but oral use is now restricted in several jurisdictions due to hepatotoxicity risk and should only be considered under professional supervision, if at all.",
+     "reference_ids": [
+      "REF-0459"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "All internal preparations",
+     "text": "Because of a documented risk of acute liver injury, no internal dose is given here; oral use should be avoided, especially by anyone with liver disease, and any sign of jaundice, dark urine or upper-abdominal pain warrants immediate medical attention. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0459",
+      "REF-0601"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -13448,7 +13619,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "greater-celandine"
   },
   {
@@ -13492,6 +13663,66 @@
      "reference_ids": [
       "REF-0430"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Evergreen tree with smooth, aromatic, reddish-brown bark and leathery, oval leaves with three prominent longitudinal veins. Small, pale yellow-green flowers are borne in panicles, followed by small, dark, single-seeded berries. The dried inner bark, rolled into thick, dark reddish-brown quills, is the cassia cinnamon of commerce.",
+    "height": "Up to 10-15 m",
+    "habit": "Evergreen tree",
+    "leaves": "Leathery, oval, with three prominent longitudinal veins",
+    "flowers": "Small, pale yellow-green, in panicles",
+    "stem": "Smooth, aromatic, reddish-brown bark",
+    "root": "Woody root system",
+    "fruit": "Small, dark, single-seeded berry",
+    "flowering_period": "Varies with climate",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to southern China and mainland Southeast Asia; cultivated extensively in China, Vietnam and Indonesia on warm, humid, tropical to subtropical hillsides.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The bark is stripped from branches and stems of mature trees, then dried; as it dries it curls into the characteristic thick quills of cassia cinnamon, distinctly darker and rougher than the thin, tightly rolled quills of true (Ceylon) cinnamon.",
+    "parts": [
+     "Bark"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Cassia bark (rou gui) is a major warming spice and digestive remedy of traditional Chinese medicine, used for cold-type digestive complaints, circulation and metabolic support; its cinnamaldehyde-rich bark is now widely studied as an adjunct for blood glucose and lipid management in type 2 diabetes, directly building on this traditional metabolic reputation.",
+    "reference_ids": [
+     "REF-0430"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract/powder",
+     "text": "Dried bark powder or standardised extract taken as capsules, the form used in most clinical glucose/lipid studies.",
+     "reference_ids": [
+      "REF-0430"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction/infusion",
+     "text": "Bark simmered or infused in hot water as a warming traditional digestive tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Ground bark or whole quills used as a food spice, the most common traditional and modern form of use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract/powder",
+     "text": "Clinical trials in type 2 diabetes commonly use around 1-6 g of cassia bark powder daily; because of its coumarin content, intake should be kept modest and consistent, and true (Ceylon) cinnamon preferred for frequent medicinal use. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0430"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -13656,7 +13887,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "cassia-cinnamon"
   },
   {
@@ -13693,6 +13924,63 @@
      "reference_ids": [
       "REF-0668"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Evergreen tree with smooth, thin, light brown bark and leathery, oval leaves with three prominent longitudinal veins, often flushed reddish-pink when young. Small, pale yellow-green flowers are borne in panicles, followed by small, dark, single-seeded berries. The thin inner bark is peeled and dried into the characteristic pale, tightly layered, multi-ply quills of true cinnamon.",
+    "height": "Up to 10-15 m (often coppiced lower in cultivation)",
+    "habit": "Evergreen tree, often coppiced/pruned under cultivation",
+    "leaves": "Leathery, oval, three prominent longitudinal veins, reddish-pink when young",
+    "flowers": "Small, pale yellow-green, in panicles",
+    "stem": "Smooth, thin, light brown bark",
+    "root": "Woody root system",
+    "fruit": "Small, dark, single-seeded berry",
+    "flowering_period": "Varies with climate",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to Sri Lanka and the Malabar coast of southern India; cultivated in warm, humid tropical lowlands, especially Sri Lanka, which remains the main source of true (Ceylon) cinnamon.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Young shoots are cut back to encourage thin, straight new growth; the thin outer bark is scraped away and the paper-thin inner bark is peeled off, dried and rolled by hand into the characteristic multi-layered quills of Ceylon cinnamon.",
+    "parts": [
+     "Bark"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "True cinnamon bark has an ancient trade and medicinal history across Asia, the Middle East and Europe as a warming digestive and circulatory remedy, used for indigestion and as a general tonic spice; because it contains only trace coumarin, it is considered the safer species for frequent or medicinal use compared with cassia.",
+    "reference_ids": [
+     "REF-0101"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract/powder",
+     "text": "Dried bark powder or standardised extract taken as capsules for metabolic and antioxidant support.",
+     "reference_ids": [
+      "REF-0101"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Decoction/infusion",
+     "text": "Bark simmered or infused in hot water as a warming digestive tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Ground bark or whole quills used as a food spice, the traditional and most common form of use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Bark powder",
+     "text": "Traditional herbal references suggest around 0.5-1 g bark powder, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -13959,7 +14247,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "true-cinnamon"
   },
   {
@@ -14009,6 +14297,72 @@
      "reference_ids": [
       "REF-0419"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Branching annual herb with a hairy, reddish, ridged stem and spiny, deeply lobed leaves with prominent pale veins. The flower heads are pale yellow, thistle-like, surrounded by a whorl of spiny, leaf-like bracts, giving the plant its 'spotted thistle' appearance.",
+    "height": "20-60 cm",
+    "habit": "Branching, hairy annual herb",
+    "leaves": "Spiny, deeply lobed, with prominent pale veins",
+    "flowers": "Pale yellow, thistle-like flower heads surrounded by spiny bracts",
+    "stem": "Hairy, reddish, ridged, branching",
+    "root": "Shallow taproot",
+    "fruit": "Ribbed achene with a feathery pappus",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0419"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry, sunny waste ground, roadsides and rocky slopes; native to the Mediterranean region and Western Asia and naturalised elsewhere as a garden escape.",
+    "reference_ids": [
+     "REF-0419"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut as the plant comes into flower, in summer, and dried in a warm, shaded, airy place to preserve the bitter principle cnicin.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0419"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Blessed thistle has a long European folk reputation as a bitter digestive tonic for loss of appetite and dyspepsia (an approved use under German Commission E) and, more anecdotally, as a traditional galactagogue to support breast-milk supply, though robust clinical evidence for the latter is lacking.",
+    "reference_ids": [
+     "REF-0419",
+     "REF-0420"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused briefly in hot water as a bitter digestive tea, taken before meals.",
+     "reference_ids": [
+      "REF-0420"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, taken before meals, up to three times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0420"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -14210,7 +14564,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "blessed-thistle"
   },
   {

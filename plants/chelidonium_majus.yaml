@@ -29,6 +29,69 @@ constituents:
   note: The caustic sap used traditionally on warts.
   reference_ids:
   - REF-0460
+botanical_description:
+  text: Branching perennial herb with soft, brittle, hairy stems that exude a distinctive bright orange-yellow
+    latex (sap) when cut or broken. The leaves are deeply lobed, pale bluish-green beneath, giving a delicate,
+    almost fern-like appearance. Small, four-petalled, bright yellow flowers are borne in loose umbel-like
+    clusters.
+  height: 30-90 cm
+  habit: Branching, brittle-stemmed perennial herb
+  leaves: Deeply lobed, pale bluish-green beneath
+  flowers: Small, four-petalled, bright yellow, in loose umbel-like clusters
+  stem: Soft, brittle, hairy, exuding bright orange-yellow latex when broken
+  root: Branching taproot, also exuding orange latex
+  fruit: Slender, curved capsule
+  flowering_period: April-September
+  reference_ids:
+  - REF-0460
+  status: verified
+habitat:
+  text: Grows in shaded, nutrient-rich ground - hedgerows, walls, waste ground and woodland edges, often
+    near old buildings; native to Europe and Western Asia and naturalised in North America.
+  reference_ids:
+  - REF-0460
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut in spring to summer; the fresh orange latex is collected by
+    breaking a stem or leaf as needed for topical (wart) use. Given the documented hepatotoxicity of oral
+    preparations, harvesting for internal use is not recommended.
+  parts:
+  - Aerial parts (and fresh orange latex)
+  season: Spring to summer, while flowering
+  reference_ids:
+  - REF-0460
+  status: verified
+traditional_uses:
+  text: Greater celandine has a long European folk history, reflected in its name 'tetterwort', as a topical
+    remedy for warts and skin blemishes (the fresh orange latex dabbed directly on), and internally as
+    a bitter choleretic digestive remedy for biliary and upper-abdominal dyspepsia - though oral use is
+    now medically restricted because of documented liver injury.
+  reference_ids:
+  - REF-0460
+  status: verified
+preparations:
+- name: Fresh latex (topical, warts only)
+  text: Fresh orange latex from a broken stem dabbed directly onto warts, the classic external folk use;
+    kept well away from eyes, mucous membranes and broken skin.
+  reference_ids:
+  - REF-0460
+  status: verified
+- name: Infusion/tincture (historical, oral - restricted)
+  text: Historically taken as an infusion or tincture for biliary dyspepsia, but oral use is now restricted
+    in several jurisdictions due to hepatotoxicity risk and should only be considered under professional
+    supervision, if at all.
+  reference_ids:
+  - REF-0459
+  status: draft
+dosage:
+- name: All internal preparations
+  text: Because of a documented risk of acute liver injury, no internal dose is given here; oral use should
+    be avoided, especially by anyone with liver disease, and any sign of jaundice, dark urine or upper-abdominal
+    pain warrants immediate medical attention. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0459
+  - REF-0601
+  status: draft
 actions:
 - action: analgesic
   note: Anti-inflammatory, antimicrobial and analgesic (preclinical)
@@ -172,7 +235,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepatology clinical review
   of hepatotoxicity; Forschende Komplementarmedizin integrative review). Record status set to needs-review
   because oral use carries a documented hepatotoxicity risk that regulators have restricted. Originally
@@ -184,4 +247,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   references to the plant-level references bucket (least-cited enrichment): REF-0770, REF-0771, REF-0772.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0770,
   REF-0460, REF-2264, REF-2265, REF-0772, REF-2266, REF-2267, REF-2268, REF-2269, REF-2270, REF-2271)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

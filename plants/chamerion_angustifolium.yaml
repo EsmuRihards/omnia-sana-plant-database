@@ -12,6 +12,88 @@ parts_used:
 - Flower
 - Leaf
 - Young sprouts
+botanical_description:
+  text: Tall, upright perennial herb spreading by rhizomes, forming large colonies especially on disturbed
+    or burned ground (hence 'fireweed'). The leaves are narrow, lance-shaped, and willow-like, arranged
+    spirally up the stem. Bright pink-purple, four-petalled flowers are borne in a tall, tapering terminal
+    spike (raceme), opening progressively from the base upward as the plant flowers through summer.
+  height: 60-200 cm
+  habit: Tall, upright, rhizomatous perennial herb, often forming large colonies
+  leaves: Narrow, lance-shaped, willow-like, spirally arranged
+  flowers: Bright pink-purple, four-petalled, in a tall tapering terminal raceme
+  stem: Erect, usually unbranched, reddish toward the base
+  root: Spreading rhizome
+  fruit: Long, narrow seed pod splitting to release cottony-tufted seeds
+  flowering_period: July-September
+  reference_ids:
+  - REF-1658
+  status: verified
+habitat:
+  text: A classic pioneer plant of disturbed, burned or cleared ground, forest clearings, roadsides and
+    riverbanks; native across the temperate and boreal Northern Hemisphere (Europe, Asia, North America).
+  reference_ids:
+  - REF-1658
+  status: verified
+harvesting:
+  text: Young shoots are gathered in spring while still tender (traditionally eaten like asparagus); leaves
+    and flowers are picked through summer at flowering, with the leaf sometimes fermented for 'Ivan-chai'
+    tea. Careful identification against the deadly false hellebore (Veratrum), which can share early-spring
+    habitat, is essential when gathering young shoots.
+  parts:
+  - Flower
+  - Leaf
+  - Young sprouts
+  season: Young sprouts in spring; leaf and flower through summer
+  reference_ids:
+  - REF-1658
+  status: verified
+traditional_uses:
+  text: Fireweed has a long circumpolar tradition as a food plant (young shoots as a spring vegetable,
+    fermented leaf as 'Ivan-chai' tea) and as a folk remedy for digestive complaints and topically as
+    a poultice for wounds and skin inflammation, reflecting its astringent, anti-inflammatory character.
+  reference_ids:
+  - REF-1658
+  status: verified
+preparations:
+- name: Infusion (leaf, 'Ivan-chai')
+  text: Fresh or fermented, dried leaf infused in hot water as a traditional tea, valued both as a beverage
+    and a mild digestive/anti-inflammatory remedy.
+  reference_ids:
+  - REF-1658
+  status: verified
+- name: Poultice
+  text: Fresh crushed leaf applied topically to minor wounds and skin inflammation.
+  status: draft
+- name: Young shoots (culinary)
+  text: Young spring shoots peeled and eaten cooked, similarly to asparagus, continuing the traditional
+    food use.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-3 g of dried leaf per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Tannins (oenothein B and related ellagitannins)
+  compounds:
+  - tannin
+  note: Astringent ellagitannins, notably oenothein B, are associated with the plant's traditional anti-inflammatory
+    and prostate-supportive reputation in the related Epilobium species.
+  reference_ids:
+  - REF-1658
+- name: Flavonoids and phenolic acids
+  compounds:
+  - flavonoid
+  - phenolic-acid
+  note: Antioxidant polyphenols retained even after simulated digestion of the infusion.
+  reference_ids:
+  - REF-1661
+- name: Triterpenoids
+  compounds:
+  - terpene
+  note: Minor triterpenoid constituents contributing to the plant's bioactivity.
+  reference_ids:
+  - REF-1658
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -186,13 +268,25 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: veratrum-album
   severity: fatal
-  confused_part: Young spring shoots gathered as an asparagus-like vegetable; the emerging shoots of highly toxic false hellebore can look similar.
-  confusion_context: Fireweed / rosebay willowherb (Chamerion angustifolium) young shoots are foraged in spring like asparagus. As foraging guidance (and the US Forest Service) warns, emerging fireweed shoots can resemble highly toxic members of the lily family, notably false hellebore (Veratrum), which shares moist ground and an upright early-spring habit. False hellebore is deadly, containing steroidal alkaloids that cause vomiting, collapse of blood pressure and heart-rhythm disturbances. Fortunately fireweed has an unmistakable leaf feature that separates it at every stage.
+  confused_part: Young spring shoots gathered as an asparagus-like vegetable; the emerging shoots of highly
+    toxic false hellebore can look similar.
+  confusion_context: Fireweed / rosebay willowherb (Chamerion angustifolium) young shoots are foraged
+    in spring like asparagus. As foraging guidance (and the US Forest Service) warns, emerging fireweed
+    shoots can resemble highly toxic members of the lily family, notably false hellebore (Veratrum), which
+    shares moist ground and an upright early-spring habit. False hellebore is deadly, containing steroidal
+    alkaloids that cause vomiting, collapse of blood pressure and heart-rhythm disturbances. Fortunately
+    fireweed has an unmistakable leaf feature that separates it at every stage.
   distinguishing_features:
-  - 'Leaf veins (decisive): fireweed''s lateral leaf veins loop back and join together INSIDE the leaf margin, rather than running out to the edge - a unique ''looping vein'' pattern. False hellebore veins run straight out to the leaf edge.'
-  - 'Leaf texture/arrangement: fireweed has narrow, smooth, lance-shaped leaves; false hellebore has large, broad, heavily PLEATED (accordion-ribbed) alternate leaves clasping the stem.'
+  - 'Leaf veins (decisive): fireweed''s lateral leaf veins loop back and join together INSIDE the leaf
+    margin, rather than running out to the edge - a unique ''looping vein'' pattern. False hellebore veins
+    run straight out to the leaf edge.'
+  - 'Leaf texture/arrangement: fireweed has narrow, smooth, lance-shaped leaves; false hellebore has large,
+    broad, heavily PLEATED (accordion-ribbed) alternate leaves clasping the stem.'
   - 'Habit: a stout shoot with broad pleated leaves is false hellebore, not the slender fireweed shoot.'
-  key_test: Look at the leaf veins. Fireweed's side veins curve and join together just inside the leaf edge (looping), on narrow smooth leaves. Broad, deeply pleated (accordion-ribbed) leaves with veins running straight to the edge = false hellebore (Veratrum) - deadly, do not eat. If the leaves are pleated, discard it.
+  key_test: Look at the leaf veins. Fireweed's side veins curve and join together just inside the leaf
+    edge (looping), on narrow smooth leaves. Broad, deeply pleated (accordion-ribbed) leaves with veins
+    running straight to the edge = false hellebore (Veratrum) - deadly, do not eat. If the leaves are
+    pleated, discard it.
   reference_ids:
   - REF-2706
   - REF-2599
@@ -201,7 +295,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -209,4 +303,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1658, REF-1659, REF-1660, REF-1661, REF-1662,
   REF-1663, REF-1664, REF-1665, REF-1666, REF-1667) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

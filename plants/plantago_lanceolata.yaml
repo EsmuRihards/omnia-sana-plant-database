@@ -32,6 +32,73 @@ constituents:
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0499
+botanical_description:
+  text: Perennial herb (Plantaginaceae) forming a low rosette of narrow, lance-shaped leaves with prominent
+    parallel ribs (hence 'ribwort'). Slender, furrowed, leafless flowering stalks rise from the rosette
+    bearing a dense, short, dark brown-black ovoid to cylindrical flower spike ringed by a 'collar' of
+    protruding cream-white stamens.
+  height: Low rosette; flowering stalks 10-45 cm
+  habit: Low rosette-forming perennial herb
+  leaves: Narrow, lance-shaped, prominently 3-5-ribbed, in a basal rosette
+  flowers: Dense, short, dark brown-black ovoid to cylindrical spike with a ring of cream-white stamens
+  stem: Slender, furrowed, leafless flowering stalk
+  root: Fibrous perennial rootstock
+  fruit: Small capsule with 1-2 seeds
+  flowering_period: May-September
+  reference_ids:
+  - REF-0499
+  status: verified
+habitat:
+  text: Native throughout Europe and temperate Asia and naturalised worldwide; common in grassland, meadows,
+    lawns, roadsides and waste ground, tolerating trampling and a wide range of soils.
+  reference_ids:
+  - REF-0499
+  status: verified
+harvesting:
+  text: Leaves and aerial parts are gathered during the growing season, ideally before or during flowering,
+    and dried quickly.
+  parts:
+  - Leaf (aerial parts)
+  season: Growing season, before or during flowering
+  reference_ids:
+  - REF-0499
+  status: verified
+traditional_uses:
+  text: Ribwort plantain has an official European herbal-monograph tradition for the temporary relief
+    of dry cough and irritation of the mouth and throat, and for minor skin wounds, reflecting its long
+    folk use as a demulcent respiratory remedy and wound herb. Modern research confirms mucilage-driven
+    demulcent action alongside antimicrobial and anti-inflammatory activity.
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water for cough and sore throat.
+  reference_ids:
+  - REF-0499
+  status: verified
+- name: Fresh pressed juice / syrup
+  text: Fresh leaf juice, traditionally made into a cough syrup, often combined with honey.
+  reference_ids:
+  - REF-0500
+  status: verified
+- name: Poultice
+  text: Crushed fresh leaf applied to minor wounds and insect bites.
+  reference_ids:
+  - REF-0500
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried leaf.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: EMA/ESCOP herbal-monograph guidance suggests roughly 2-4 g dried leaf per cup as an infusion,
+    up to three times daily, or an equivalent liquid extract. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0499
+  - REF-0500
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory for temporary mild inflammation of the mouth and throat (sore throat); in vitro
@@ -184,7 +251,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC and ESCOP monographs).
   Note: distinct from the book''s Plantago major (greater plantain). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (cough, sore-throat, wounds, inflammation, bronchitis);
@@ -194,4 +261,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   use. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
   @article sources (REF-0960, REF-0961, REF-0962, REF-0963, REF-0964, REF-0965, REF-0966, REF-0967, REF-0968,
-  REF-0969) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-0969) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
+  sourced from the existing EMA HMPC (REF-0499) and ESCOP (REF-0500) monographs.'

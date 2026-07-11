@@ -11,6 +11,85 @@ parts_used:
 - Leaf
 - Rhizome
 - Root
+botanical_description:
+  text: Low perennial herb (Primulaceae) forming a basal rosette of wrinkled, oval, softly hairy leaves
+    that taper abruptly to a winged stalk. A single leafless flowering stem rises from the rosette bearing
+    a one-sided umbel of small, fragrant, deep yellow, funnel-shaped flowers with orange spots at the
+    throat, nodding on slender pedicels.
+  height: Low rosette; flowering stem 10-25 cm
+  habit: Low rosette-forming perennial herb
+  leaves: Wrinkled, oval, softly hairy, tapering to a winged stalk
+  flowers: Small, fragrant, deep yellow, funnel-shaped with orange throat spots, in a one-sided nodding
+    umbel
+  stem: Single, leafless flowering stem
+  root: Short rhizome with fibrous roots
+  fruit: Small capsule
+  flowering_period: April-May
+  reference_ids:
+  - REF-0879
+  status: verified
+habitat:
+  text: Native across Europe and western Asia, growing in unimproved, species-rich grassland, meadows,
+    pastures, open woodland and hedge banks on calcareous or well-drained soils.
+  reference_ids:
+  - REF-0879
+  status: verified
+harvesting:
+  text: Flowers are picked in spring as they open; the root/rhizome is dug in autumn.
+  parts:
+  - Flower
+  - Root/rhizome
+  season: Flower in spring; root/rhizome in autumn
+  status: draft
+traditional_uses:
+  text: Cowslip has a long European folk tradition as an expectorant remedy for coughs and bronchial catarrh,
+    and the flowers have traditionally been used as a mild sedative and for headache. Modern research
+    on its saponin-rich root supports secretolytic (mucus-thinning) expectorant activity, and its flowers
+    are rich in antioxidant phenolics.
+  reference_ids:
+  - REF-0870
+  - REF-0875
+  status: verified
+preparations:
+- name: Root decoction/tea
+  text: Dried root simmered or infused, the traditional expectorant preparation for cough with mucus.
+  reference_ids:
+  - REF-0870
+  status: verified
+- name: Flower infusion (tea)
+  text: Dried flower steeped in hot water, a milder traditional calming and headache remedy.
+  status: draft
+- name: Standardised combination extract
+  text: Root is a component of some standardised multi-herb bronchial/cough products (e.g. combined with
+    ivy and thyme).
+  reference_ids:
+  - REF-0870
+  status: verified
+dosage:
+- name: Root/herb tea
+  text: 'Duke (2002): about 0.5-1 g root or 1-2 g herb as tea, three times daily. Educational reference
+    only, not a prescription; large doses of the saponin-rich root can cause gastrointestinal upset.'
+  reference_ids:
+  - REF-0075
+  - REF-0235
+  - REF-0306
+  status: verified
+constituents:
+- name: Triterpene saponins (primulic acid)
+  compounds:
+  - triterpene-saponin
+  note: Concentrated in the root; responsible for the traditional expectorant (secretolytic) action.
+  reference_ids:
+  - REF-0878
+- name: Phenolic glycosides and flavonoids
+  compounds:
+  - phenolic-compound
+  - flavonoid
+  - glycoside
+  note: Found mainly in the flowers and leaves; contribute antioxidant activity.
+  reference_ids:
+  - REF-0871
+  - REF-0873
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -113,7 +192,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Cowslip is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Cowslip is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -126,7 +207,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -134,4 +215,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0870, REF-0871, REF-0872, REF-0873, REF-0874,
   REF-0875, REF-0876, REF-0877, REF-0878, REF-0879) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing phytochemistry papers (REF-0875, REF-0879, REF-0878,
+  REF-0871, REF-0873) and the respiratory-infection mechanistic review (REF-0870) plus the Duke-sourced
+  dosage already cited in contraindications.'

@@ -14,6 +14,96 @@ family: Asteraceae
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: 'Low perennial herb notable for flowering before its leaves appear: solitary, bright yellow, dandelion-like
+    flower heads emerge on scaly pinkish stalks in very early spring, followed later by large, hoof-shaped
+    (heart-shaped with angular teeth), white-woolly-backed leaves arising directly from the creeping rhizome.'
+  height: 10-30 cm (flowering stalks); leaves slightly taller once expanded
+  habit: Low perennial herb spreading by a creeping rhizome, flowers before leaves appear
+  leaves: Hoof-shaped (heart-shaped with angular teeth), white-woolly underneath, appearing after flowering
+  flowers: Solitary, bright yellow, dandelion-like heads on scaly pinkish stalks
+  stem: Scaly, pinkish flowering stalks appearing before the leaves
+  root: Creeping rhizome
+  fruit: Small achene with a fluffy white pappus (like a small dandelion clock)
+  flowering_period: February-April, before the leaves appear
+  reference_ids:
+  - REF-0252
+  status: verified
+habitat:
+  text: Grows on disturbed, damp or clay-rich waste ground, riverbanks, railway embankments and bare soil;
+    native to Europe, North Africa and temperate Asia and naturalised in North America.
+  reference_ids:
+  - REF-0252
+  status: verified
+harvesting:
+  text: Flowers are gathered in very early spring before the leaves appear; leaves are gathered later
+    in the season once expanded. Given the plant's pyrrolizidine alkaloid content, harvesting from a positively
+    confirmed patch (not a look-alike) and preferring PA-tested commercial material for internal use is
+    strongly advised.
+  parts:
+  - Flower
+  - Leaf
+  season: Flower in very early spring; leaf later in the growing season
+  reference_ids:
+  - REF-0068
+  status: verified
+traditional_uses:
+  text: Coltsfoot has an ancient European and Chinese tradition, reflected in its Latin name (tussis =
+    cough), as an expectorant and demulcent remedy for coughs, bronchitis and irritated airways; because
+    of its pyrrolizidine alkaloid content, contemporary use is restricted to short courses of PA-controlled
+    preparations under regulatory limits (see contraindications).
+  reference_ids:
+  - REF-0068
+  - REF-0304
+  status: verified
+preparations:
+- name: PA-controlled commercial extract
+  text: Commercially prepared, pyrrolizidine-alkaloid-tested extract or syrup, the only form recommended
+    for internal use given the plant's natural PA content.
+  reference_ids:
+  - REF-0068
+  status: verified
+- name: Infusion (short-term, traditional)
+  text: Dried flower or leaf infused in hot water; traditional but subject to strict duration/PA-content
+    limits under EU herbal regulation.
+  reference_ids:
+  - REF-0068
+  status: verified
+- name: Topical preparation
+  text: Leaf used topically (e.g. poultice) on intact skin; EMA guidance still notes PA-exposure limits
+    apply to topical products.
+  reference_ids:
+  - REF-0068
+  status: verified
+dosage:
+- name: PA-controlled internal use
+  text: EU regulatory guidance restricts internal use to PA-controlled preparations, generally not exceeding
+    about 4-6 weeks per year; not for use in pregnancy, breastfeeding, or children. Educational reference
+    only, not a prescription — consult a qualified practitioner and prefer tested commercial products.
+  reference_ids:
+  - REF-0068
+  status: verified
+constituents:
+- name: Pyrrolizidine alkaloids (senkirkine, senecionine-type)
+  compounds:
+  - alkaloid
+  note: Hepatotoxic constituents that are the central safety concern for this plant; regulatory limits
+    and PA-controlled/PA-reduced products exist specifically because of these compounds.
+  reference_ids:
+  - REF-0304
+- name: Mucilage
+  compounds:
+  - mucilage
+  note: Demulcent polysaccharide contributing to the traditional soothing action on irritated airways.
+  reference_ids:
+  - REF-0068
+- name: Flavonoids and tannins
+  compounds:
+  - flavonoid
+  - tannin
+  note: Contribute to anti-inflammatory and astringent activity.
+  reference_ids:
+  - REF-0068
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -141,13 +231,27 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: adenostyles-alliariae
   severity: dangerous
-  confused_part: Broad leaves gathered and brewed as coltsfoot tea; alpendost (and butterbur) have similar rounded leaves and grow in the same damp ground.
-  confusion_context: 'Coltsfoot (Tussilago farfara) leaves are gathered for herbal tea. Alpendost (Adenostyles alliariae) has similar large, rounded leaves and grows in damp woodland and mountain ground; the two are easily confused, especially after the flowering period. Alpendost contains hepatotoxic pyrrolizidine alkaloids: a peer-reviewed case (Sperl et al., 1995) describes an infant who developed liver veno-occlusive disease after long-term ''coltsfoot'' tea that was actually alpendost. Butterbur (Petasites) is a similar large-leaved confusion with the same kind of toxicity. Because dried leaf material is especially hard to tell apart, unverified coltsfoot is a real hazard.'
+  confused_part: Broad leaves gathered and brewed as coltsfoot tea; alpendost (and butterbur) have similar
+    rounded leaves and grow in the same damp ground.
+  confusion_context: 'Coltsfoot (Tussilago farfara) leaves are gathered for herbal tea. Alpendost (Adenostyles
+    alliariae) has similar large, rounded leaves and grows in damp woodland and mountain ground; the two
+    are easily confused, especially after the flowering period. Alpendost contains hepatotoxic pyrrolizidine
+    alkaloids: a peer-reviewed case (Sperl et al., 1995) describes an infant who developed liver veno-occlusive
+    disease after long-term ''coltsfoot'' tea that was actually alpendost. Butterbur (Petasites) is a
+    similar large-leaved confusion with the same kind of toxicity. Because dried leaf material is especially
+    hard to tell apart, unverified coltsfoot is a real hazard.'
   distinguishing_features:
-  - 'Leaf shape: coltsfoot leaves are hoof-shaped (heart-shaped with angular teeth) and white-woolly underneath, usually no more than about 20 cm across. Alpendost leaves are larger, more rounded/kidney-shaped and coarsely toothed.'
-  - 'Timing: coltsfoot flowers (yellow dandelion-like heads on scaly stalks) appear BEFORE the leaves, in very early spring; by summer only leaves remain, which is when confusion is greatest.'
-  - 'Best practice: because leaves (and dried material) are hard to separate, use coltsfoot only if an expert has confirmed the plant, or buy authenticated, pyrrolizidine-tested material.'
-  key_test: Do not gather broad heart- or kidney-shaped leaves for 'coltsfoot' tea unless an expert has confirmed the species - alpendost and butterbur leaves look very similar and contain liver-damaging pyrrolizidine alkaloids. Confirm coltsfoot by its early-spring yellow flowers and hoof-shaped white-woolly-backed leaves, or use authenticated material.
+  - 'Leaf shape: coltsfoot leaves are hoof-shaped (heart-shaped with angular teeth) and white-woolly underneath,
+    usually no more than about 20 cm across. Alpendost leaves are larger, more rounded/kidney-shaped and
+    coarsely toothed.'
+  - 'Timing: coltsfoot flowers (yellow dandelion-like heads on scaly stalks) appear BEFORE the leaves,
+    in very early spring; by summer only leaves remain, which is when confusion is greatest.'
+  - 'Best practice: because leaves (and dried material) are hard to separate, use coltsfoot only if an
+    expert has confirmed the plant, or buy authenticated, pyrrolizidine-tested material.'
+  key_test: Do not gather broad heart- or kidney-shaped leaves for 'coltsfoot' tea unless an expert has
+    confirmed the species - alpendost and butterbur leaves look very similar and contain liver-damaging
+    pyrrolizidine alkaloids. Confirm coltsfoot by its early-spring yellow flowers and hoof-shaped white-woolly-backed
+    leaves, or use authenticated material.
   reference_ids:
   - REF-2688
   status: approved
@@ -155,7 +259,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -163,4 +267,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0910, REF-0911, REF-0912, REF-0913, REF-0914,
   REF-0915, REF-0916, REF-0917, REF-0918, REF-0919) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

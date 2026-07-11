@@ -8,6 +8,83 @@ family: Fabaceae
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: Short-lived perennial herb with trifoliate leaves, each leaflet oval and often marked with a pale
+    chevron, arising from a spreading, slightly hairy stem. Dense, rounded, pink to magenta flower heads
+    are borne at the stem tips.
+  height: 20-60 cm
+  habit: Short-lived perennial herb, spreading via a branching taproot
+  leaves: Trifoliate, each leaflet oval with a pale chevron marking, slightly hairy
+  flowers: Dense, rounded heads of small pink to magenta pea-like flowers
+  stem: Slightly hairy, branching, spreading
+  root: Branching taproot with nitrogen-fixing root nodules
+  fruit: Small pod containing 1-2 seeds, enclosed within the dried flower head
+  flowering_period: May-September
+  reference_ids:
+  - REF-0036
+  status: verified
+habitat:
+  text: Grows in meadows, pastures, roadsides and grassy waste ground; native to Europe, western Asia
+    and North Africa and widely naturalised and cultivated as a forage crop elsewhere.
+  reference_ids:
+  - REF-0036
+  status: verified
+harvesting:
+  text: The flowering heads are picked at full bloom in summer and dried quickly in a warm, shaded, airy
+    place to preserve isoflavone content and colour.
+  parts:
+  - Flower
+  - Leaf
+  season: Summer, at full bloom
+  reference_ids:
+  - REF-0036
+  status: verified
+traditional_uses:
+  text: Red clover flower has a long folk tradition as a blood-purifying and expectorant remedy for coughs
+    and skin complaints, and more recently has become one of the most studied herbal sources of isoflavone
+    phytoestrogens, researched for menopausal symptom relief and cardiovascular and bone support.
+  reference_ids:
+  - REF-0013
+  - REF-0036
+  - REF-0112
+  status: verified
+preparations:
+- name: Infusion (flower)
+  text: Dried flower heads infused in hot water as a traditional tea for coughs and as a general tonic.
+  reference_ids:
+  - REF-0036
+  status: verified
+- name: Standardized isoflavone extract
+  text: Standardized isoflavone extract in tablet form, the form used in most menopause-related clinical
+    research.
+  reference_ids:
+  - REF-0013
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried flower.
+  status: draft
+dosage:
+- name: Standardized extract
+  text: Clinical research commonly uses around 40-80 mg isoflavones daily. Educational reference only,
+    not a prescription.
+  reference_ids:
+  - REF-0013
+  status: verified
+constituents:
+- name: Isoflavones (formononetin, biochanin A, daidzein, genistein)
+  compounds:
+  - flavonoid
+  note: Phytoestrogenic isoflavones responsible for the plant's estrogenic and cardiovascular research
+    interest; one of the richest known plant sources.
+  reference_ids:
+  - REF-0013
+- name: Coumarins
+  compounds:
+  - coumarin
+  note: Contribute mild anticoagulant activity; relevant to the plant's caution around blood-thinning
+    medication.
+  reference_ids:
+  - REF-0036
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -176,7 +253,10 @@ references:
 drug_class_interactions:
 - drug_class: hormonal-therapies
   severity: caution
-  mechanism: 'Red clover is rich in isoflavones that act like weak oestrogens; its safety alongside hormone medicines (such as the contraceptive pill, HRT, or breast-cancer hormone treatments like tamoxifen) or in hormone-sensitive conditions is not established, so combined use warrants caution and medical advice.'
+  mechanism: Red clover is rich in isoflavones that act like weak oestrogens; its safety alongside hormone
+    medicines (such as the contraceptive pill, HRT, or breast-cancer hormone treatments like tamoxifen)
+    or in hormone-sensitive conditions is not established, so combined use warrants caution and medical
+    advice.
   reference_ids:
   - REF-2494
   - REF-2495
@@ -189,7 +269,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -199,4 +279,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1109, REF-1110, REF-1111, REF-1112, REF-1113) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-06-27: enriched to >=15 scientific publications: added 4 PubMed-verified
   @article sources (REF-1104, REF-2344, REF-2345, REF-2346) — woven into relevant actions/indications
-  and the plant-level references bucket.'
+  and the plant-level references bucket. | 2026-07-12: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

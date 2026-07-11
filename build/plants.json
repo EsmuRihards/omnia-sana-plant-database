@@ -55330,6 +55330,107 @@
     "Mycelium",
     "Whole Plant"
    ],
+   "botanical_description": {
+    "text": "Bracket fungus (not a true plant) forming thin, tough, fan-shaped, overlapping shelves on dead or decaying hardwood, with a velvety, concentrically zoned upper surface in bands of brown, tan, cream, blue-grey and rust, and a white, minutely pored underside.",
+    "height": "Individual brackets 2-8 cm across, forming overlapping clusters",
+    "habit": "Bracket (shelf) fungus growing directly from dead wood, in tiered, overlapping clusters",
+    "leaves": "Not applicable (fungus); the fruiting body is a thin, tough bracket",
+    "flowers": "Not applicable (fungus); reproduces via spores released from pores on the underside",
+    "stem": "No true stem; the bracket attaches directly to the wood",
+    "root": "Not applicable; mycelium threads through the wood substrate",
+    "fruit": "Fan-shaped fruiting body (bracket) with a white, densely pored underside",
+    "flowering_period": "Fruiting bodies present year-round, most abundant in autumn",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Grows on dead, dying or fallen hardwood logs, stumps and branches in woodlands worldwide, including Europe, Asia and North America.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Fresh brackets are harvested by cutting from the wood; for medicinal use the tough fruiting body is typically dried and then decocted (simmered) for a long time, or extracted, since the beneficial polysaccharides are not well-extracted by simple infusion.",
+    "parts": [
+     "Mycelium",
+     "Whole Plant"
+    ],
+    "season": "Year-round, most abundant in autumn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Turkey tail has a long history of use in traditional Chinese medicine (as yun zhi) and is one of the most researched medicinal mushrooms, with standardized polysaccharide-K (PSK) and polysaccharopeptide (PSP) extracts used clinically in Japan and China alongside conventional cancer treatment to support immune function.",
+    "reference_ids": [
+     "REF-0052",
+     "REF-0282",
+     "REF-0300"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Long decoction",
+     "text": "Dried fruiting body simmered in water for an extended period (often 1-2 hours) to extract the beta-glucan polysaccharides, then strained.",
+     "reference_ids": [
+      "REF-0052"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardized extract (PSK/PSP)",
+     "text": "Standardized polysaccharide-K (PSK) or polysaccharopeptide (PSP) extract, the pharmaceutical-grade forms used in clinical research.",
+     "reference_ids": [
+      "REF-0282"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Dual-extract tincture",
+     "text": "Combined alcohol/water (dual) extraction, used to capture both water-soluble polysaccharides and alcohol-soluble triterpenes.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardized extract",
+     "text": "Clinical research on PSK commonly uses around 3 g daily in divided doses. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0282"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Beta-glucan polysaccharides",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "The principal immunomodulating constituents, forming the basis of PSK/PSP extracts.",
+     "reference_ids": [
+      "REF-0052",
+      "REF-0282"
+     ]
+    },
+    {
+     "name": "Polysaccharopeptide (PSK/PSP, protein-bound polysaccharide)",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Protein-bound polysaccharide complex studied extensively as an adjunct immunotherapy.",
+     "reference_ids": [
+      "REF-0282"
+     ]
+    },
+    {
+     "name": "Phenolic compounds and triterpenes",
+     "compounds": [
+      "phenolic-compound",
+      "terpene"
+     ],
+     "note": "Minor antioxidant constituents.",
+     "reference_ids": [
+      "REF-0300"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -55553,7 +55654,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "turkey-tail"
   },
   {
@@ -55568,6 +55669,104 @@
    "parts_used": [
     "Flower",
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Short-lived perennial herb with trifoliate leaves, each leaflet oval and often marked with a pale chevron, arising from a spreading, slightly hairy stem. Dense, rounded, pink to magenta flower heads are borne at the stem tips.",
+    "height": "20-60 cm",
+    "habit": "Short-lived perennial herb, spreading via a branching taproot",
+    "leaves": "Trifoliate, each leaflet oval with a pale chevron marking, slightly hairy",
+    "flowers": "Dense, rounded heads of small pink to magenta pea-like flowers",
+    "stem": "Slightly hairy, branching, spreading",
+    "root": "Branching taproot with nitrogen-fixing root nodules",
+    "fruit": "Small pod containing 1-2 seeds, enclosed within the dried flower head",
+    "flowering_period": "May-September",
+    "reference_ids": [
+     "REF-0036"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in meadows, pastures, roadsides and grassy waste ground; native to Europe, western Asia and North Africa and widely naturalised and cultivated as a forage crop elsewhere.",
+    "reference_ids": [
+     "REF-0036"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering heads are picked at full bloom in summer and dried quickly in a warm, shaded, airy place to preserve isoflavone content and colour.",
+    "parts": [
+     "Flower",
+     "Leaf"
+    ],
+    "season": "Summer, at full bloom",
+    "reference_ids": [
+     "REF-0036"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Red clover flower has a long folk tradition as a blood-purifying and expectorant remedy for coughs and skin complaints, and more recently has become one of the most studied herbal sources of isoflavone phytoestrogens, researched for menopausal symptom relief and cardiovascular and bone support.",
+    "reference_ids": [
+     "REF-0013",
+     "REF-0036",
+     "REF-0112"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (flower)",
+     "text": "Dried flower heads infused in hot water as a traditional tea for coughs and as a general tonic.",
+     "reference_ids": [
+      "REF-0036"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardized isoflavone extract",
+     "text": "Standardized isoflavone extract in tablet form, the form used in most menopause-related clinical research.",
+     "reference_ids": [
+      "REF-0013"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flower.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardized extract",
+     "text": "Clinical research commonly uses around 40-80 mg isoflavones daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0013"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Isoflavones (formononetin, biochanin A, daidzein, genistein)",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Phytoestrogenic isoflavones responsible for the plant's estrogenic and cardiovascular research interest; one of the richest known plant sources.",
+     "reference_ids": [
+      "REF-0013"
+     ]
+    },
+    {
+     "name": "Coumarins",
+     "compounds": [
+      "coumarin"
+     ],
+     "note": "Contribute mild anticoagulant activity; relevant to the plant's caution around blood-thinning medication.",
+     "reference_ids": [
+      "REF-0036"
+     ]
+    }
    ],
    "actions": [
     {
@@ -55831,7 +56030,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "red-clover"
   },
   {
@@ -55846,6 +56045,104 @@
    "parts_used": [
     "Flower",
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Low, creeping perennial herb rooting at the nodes, with trifoliate leaves, each leaflet oval and often marked with a pale chevron. Rounded white (sometimes pink-tinged) flower heads are borne on long stalks above the foliage.",
+    "height": "5-15 cm (creeping, flower stalks slightly taller)",
+    "habit": "Low, creeping, mat-forming perennial herb",
+    "leaves": "Trifoliate, each leaflet oval, often marked with a pale chevron",
+    "flowers": "Rounded white (sometimes pink-tinged) heads of small pea-like flowers on long stalks",
+    "stem": "Creeping, rooting at the nodes",
+    "root": "Fibrous roots with nitrogen-fixing nodules",
+    "fruit": "Small pod containing 3-4 seeds",
+    "flowering_period": "May-October",
+    "reference_ids": [
+     "REF-0027"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in lawns, pastures, meadows and grassy waste ground; native to Europe and western Asia and now naturalised worldwide, including as a common lawn and forage plant.",
+    "reference_ids": [
+     "REF-0027"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flowering heads and leaves are picked through the flowering season and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Flower",
+     "Leaf"
+    ],
+    "season": "May-October",
+    "reference_ids": [
+     "REF-0027"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "White clover has a folk tradition, similar to but lighter than its relative red clover, as an anti-inflammatory and wound-healing remedy and mild expectorant, and modern research on its isoflavones and phenolics has additionally investigated antioxidant, kidney-protective and liver-protective activity.",
+    "reference_ids": [
+     "REF-0027",
+     "REF-0098",
+     "REF-0140"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (flower/leaf)",
+     "text": "Dried flower and leaf infused in hot water as a traditional mild tonic and expectorant tea.",
+     "reference_ids": [
+      "REF-0027"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Poultice (leaf)",
+     "text": "Fresh crushed leaf applied topically as a traditional wound and bruise poultice.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried flower/leaf per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Isoflavones",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Phytoestrogenic isoflavones, present at lower levels than in red clover.",
+     "reference_ids": [
+      "REF-0140"
+     ]
+    },
+    {
+     "name": "Cyanogenic glycosides (trace)",
+     "compounds": [
+      "glycoside"
+     ],
+     "note": "Present in small amounts; not significant in normal food or tea use.",
+     "reference_ids": [
+      "REF-0027"
+     ]
+    },
+    {
+     "name": "Phenolic acids and flavonoids",
+     "compounds": [
+      "phenolic-acid",
+      "flavonoid"
+     ],
+     "note": "Contribute to antioxidant activity.",
+     "reference_ids": [
+      "REF-0140"
+     ]
+    }
    ],
    "actions": [
     {
@@ -56100,7 +56397,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "white-clover"
   },
   {
@@ -56118,6 +56415,120 @@
     "Leaf",
     "Seed",
     "Young sprouts"
+   ],
+   "botanical_description": {
+    "text": "Erect annual herb with trifoliate leaves, each leaflet oblong and finely toothed toward the tip. Small, pale yellow to white, pea-like flowers are borne singly or in pairs in the leaf axils, followed by long, slender, curved seed pods.",
+    "height": "30-80 cm",
+    "habit": "Erect annual herb",
+    "leaves": "Trifoliate, each leaflet oblong, finely toothed toward the tip",
+    "flowers": "Small, pale yellow to white, pea-like, borne singly or in pairs in leaf axils",
+    "stem": "Erect, branching, slightly hairy",
+    "root": "Taproot with nitrogen-fixing nodules",
+    "fruit": "Long, slender, curved seed pod (10-15 cm) containing 10-20 hard, angular, yellow-brown seeds",
+    "flowering_period": "May-June",
+    "reference_ids": [
+     "REF-0308"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Cultivated widely as a food and forage crop; native to the eastern Mediterranean and western Asia, now grown throughout South Asia, the Middle East and North Africa.",
+    "reference_ids": [
+     "REF-0308"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves and young sprouts are harvested throughout the growing season; seed pods are collected when fully mature and dried, then the hard seeds are threshed out.",
+    "parts": [
+     "Leaf",
+     "Seed",
+     "Young sprouts"
+    ],
+    "season": "Leaf/sprouts through growing season; seed at maturity",
+    "reference_ids": [
+     "REF-0308"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Fenugreek seed has an ancient tradition across the Mediterranean, Middle East and South Asia as a digestive and appetite-stimulant remedy and lactation aid, and modern clinical research strongly supports its traditional use for blood sugar and cholesterol management, formalised in Commission E approval as an appetite stimulant.",
+    "reference_ids": [
+     "REF-0148",
+     "REF-0182",
+     "REF-0308"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Ground seed / seed tea",
+     "text": "Ground seeds taken with food, or whole seeds soaked/simmered as a tea, the traditional preparation for digestive and blood sugar support.",
+     "reference_ids": [
+      "REF-0182"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardized extract (capsule)",
+     "text": "Standardized seed extract in capsule form, the form most used in clinical trials on blood sugar and cholesterol.",
+     "reference_ids": [
+      "REF-0182"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Sprouted seed / leaf (food use)",
+     "text": "Young sprouts and leaves used as a leafy vegetable or salad green, milder in taste and effect than the seed.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed",
+     "text": "Clinical research and traditional sources suggest around 6-50 g of ground seed daily (higher end for blood sugar management), or 1-4 g in tea for digestive use. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0148",
+      "REF-0182"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Steroidal saponins (diosgenin)",
+     "compounds": [
+      "saponin"
+     ],
+     "note": "Thought to contribute to the antidiabetic and cholesterol-lowering effects.",
+     "reference_ids": [
+      "REF-0148"
+     ]
+    },
+    {
+     "name": "Galactomannan (soluble fiber)",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Mucilaginous soluble fiber that slows carbohydrate absorption, a key mechanism behind the blood-sugar-lowering effect.",
+     "reference_ids": [
+      "REF-0182"
+     ]
+    },
+    {
+     "name": "4-hydroxyisoleucine (amino acid)",
+     "note": "An unusual amino acid studied for insulin-potentiating activity.",
+     "reference_ids": [
+      "REF-0148"
+     ]
+    },
+    {
+     "name": "Sotolon (flavor compound)",
+     "note": "Aromatic lactone responsible for fenugreek's characteristic maple-syrup smell, including the body-odor effect reported with supplementation.",
+     "reference_ids": [
+      "REF-0308"
+     ]
+    }
    ],
    "actions": [
     {
@@ -56334,7 +56745,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "fenugreek"
   },
   {
@@ -56355,6 +56766,117 @@
    "parts_used": [
     "Flower",
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Low perennial herb notable for flowering before its leaves appear: solitary, bright yellow, dandelion-like flower heads emerge on scaly pinkish stalks in very early spring, followed later by large, hoof-shaped (heart-shaped with angular teeth), white-woolly-backed leaves arising directly from the creeping rhizome.",
+    "height": "10-30 cm (flowering stalks); leaves slightly taller once expanded",
+    "habit": "Low perennial herb spreading by a creeping rhizome, flowers before leaves appear",
+    "leaves": "Hoof-shaped (heart-shaped with angular teeth), white-woolly underneath, appearing after flowering",
+    "flowers": "Solitary, bright yellow, dandelion-like heads on scaly pinkish stalks",
+    "stem": "Scaly, pinkish flowering stalks appearing before the leaves",
+    "root": "Creeping rhizome",
+    "fruit": "Small achene with a fluffy white pappus (like a small dandelion clock)",
+    "flowering_period": "February-April, before the leaves appear",
+    "reference_ids": [
+     "REF-0252"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on disturbed, damp or clay-rich waste ground, riverbanks, railway embankments and bare soil; native to Europe, North Africa and temperate Asia and naturalised in North America.",
+    "reference_ids": [
+     "REF-0252"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flowers are gathered in very early spring before the leaves appear; leaves are gathered later in the season once expanded. Given the plant's pyrrolizidine alkaloid content, harvesting from a positively confirmed patch (not a look-alike) and preferring PA-tested commercial material for internal use is strongly advised.",
+    "parts": [
+     "Flower",
+     "Leaf"
+    ],
+    "season": "Flower in very early spring; leaf later in the growing season",
+    "reference_ids": [
+     "REF-0068"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Coltsfoot has an ancient European and Chinese tradition, reflected in its Latin name (tussis = cough), as an expectorant and demulcent remedy for coughs, bronchitis and irritated airways; because of its pyrrolizidine alkaloid content, contemporary use is restricted to short courses of PA-controlled preparations under regulatory limits (see contraindications).",
+    "reference_ids": [
+     "REF-0068",
+     "REF-0304"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "PA-controlled commercial extract",
+     "text": "Commercially prepared, pyrrolizidine-alkaloid-tested extract or syrup, the only form recommended for internal use given the plant's natural PA content.",
+     "reference_ids": [
+      "REF-0068"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (short-term, traditional)",
+     "text": "Dried flower or leaf infused in hot water; traditional but subject to strict duration/PA-content limits under EU herbal regulation.",
+     "reference_ids": [
+      "REF-0068"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Topical preparation",
+     "text": "Leaf used topically (e.g. poultice) on intact skin; EMA guidance still notes PA-exposure limits apply to topical products.",
+     "reference_ids": [
+      "REF-0068"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "PA-controlled internal use",
+     "text": "EU regulatory guidance restricts internal use to PA-controlled preparations, generally not exceeding about 4-6 weeks per year; not for use in pregnancy, breastfeeding, or children. Educational reference only, not a prescription — consult a qualified practitioner and prefer tested commercial products.",
+     "reference_ids": [
+      "REF-0068"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Pyrrolizidine alkaloids (senkirkine, senecionine-type)",
+     "compounds": [
+      "alkaloid"
+     ],
+     "note": "Hepatotoxic constituents that are the central safety concern for this plant; regulatory limits and PA-controlled/PA-reduced products exist specifically because of these compounds.",
+     "reference_ids": [
+      "REF-0304"
+     ]
+    },
+    {
+     "name": "Mucilage",
+     "compounds": [
+      "mucilage"
+     ],
+     "note": "Demulcent polysaccharide contributing to the traditional soothing action on irritated airways.",
+     "reference_ids": [
+      "REF-0068"
+     ]
+    },
+    {
+     "name": "Flavonoids and tannins",
+     "compounds": [
+      "flavonoid",
+      "tannin"
+     ],
+     "note": "Contribute to anti-inflammatory and astringent activity.",
+     "reference_ids": [
+      "REF-0068"
+     ]
+    }
    ],
    "actions": [
     {
@@ -56541,7 +57063,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "common-coltsfoot"
   },
   {

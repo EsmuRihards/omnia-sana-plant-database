@@ -8,6 +8,80 @@ family: Fabaceae
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: Low, creeping perennial herb rooting at the nodes, with trifoliate leaves, each leaflet oval and
+    often marked with a pale chevron. Rounded white (sometimes pink-tinged) flower heads are borne on
+    long stalks above the foliage.
+  height: 5-15 cm (creeping, flower stalks slightly taller)
+  habit: Low, creeping, mat-forming perennial herb
+  leaves: Trifoliate, each leaflet oval, often marked with a pale chevron
+  flowers: Rounded white (sometimes pink-tinged) heads of small pea-like flowers on long stalks
+  stem: Creeping, rooting at the nodes
+  root: Fibrous roots with nitrogen-fixing nodules
+  fruit: Small pod containing 3-4 seeds
+  flowering_period: May-October
+  reference_ids:
+  - REF-0027
+  status: verified
+habitat:
+  text: Grows in lawns, pastures, meadows and grassy waste ground; native to Europe and western Asia and
+    now naturalised worldwide, including as a common lawn and forage plant.
+  reference_ids:
+  - REF-0027
+  status: verified
+harvesting:
+  text: Flowering heads and leaves are picked through the flowering season and dried in a warm, shaded,
+    airy place.
+  parts:
+  - Flower
+  - Leaf
+  season: May-October
+  reference_ids:
+  - REF-0027
+  status: verified
+traditional_uses:
+  text: White clover has a folk tradition, similar to but lighter than its relative red clover, as an
+    anti-inflammatory and wound-healing remedy and mild expectorant, and modern research on its isoflavones
+    and phenolics has additionally investigated antioxidant, kidney-protective and liver-protective activity.
+  reference_ids:
+  - REF-0027
+  - REF-0098
+  - REF-0140
+  status: verified
+preparations:
+- name: Infusion (flower/leaf)
+  text: Dried flower and leaf infused in hot water as a traditional mild tonic and expectorant tea.
+  reference_ids:
+  - REF-0027
+  status: verified
+- name: Poultice (leaf)
+  text: Fresh crushed leaf applied topically as a traditional wound and bruise poultice.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-4 g of dried flower/leaf per cup, up to three times
+    daily. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Isoflavones
+  compounds:
+  - flavonoid
+  note: Phytoestrogenic isoflavones, present at lower levels than in red clover.
+  reference_ids:
+  - REF-0140
+- name: Cyanogenic glycosides (trace)
+  compounds:
+  - glycoside
+  note: Present in small amounts; not significant in normal food or tea use.
+  reference_ids:
+  - REF-0027
+- name: Phenolic acids and flavonoids
+  compounds:
+  - phenolic-acid
+  - flavonoid
+  note: Contribute to antioxidant activity.
+  reference_ids:
+  - REF-0140
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -174,7 +248,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -184,4 +258,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-06-27: enriched
   to >=15 scientific publications: added 7 PubMed-verified @article sources (REF-1324, REF-1323, REF-2366,
   REF-1326, REF-1325, REF-2367, REF-2368) — woven into relevant actions/indications and the plant-level
-  references bucket.'
+  references bucket. | 2026-07-12: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy.'

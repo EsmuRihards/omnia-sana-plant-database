@@ -12,6 +12,101 @@ family: Adoxaceae
 parts_used:
 - Flower
 - Fruit
+botanical_description:
+  text: Deciduous shrub or small tree (Adoxaceae), 3-10 m tall (occasionally larger), with corky, furrowed
+    grey-brown bark. Leaves are pinnate with 5-7 toothed leaflets. Abundant flat-topped clusters (corymbs)
+    of small, fragrant, creamy-white flowers are followed by drooping clusters of small, glossy, purple-black
+    berries.
+  height: 3-10 m (occasionally larger)
+  habit: Deciduous shrub or small tree
+  leaves: Pinnate, 5-7 toothed leaflets
+  flowers: Small, fragrant, creamy-white, in flat-topped clusters (corymbs)
+  stem: Corky, furrowed, grey-brown bark
+  root: Fibrous, spreading root system
+  fruit: Drooping clusters of small, glossy, purple-black berries
+  flowering_period: May-June; berries ripen August-September
+  reference_ids:
+  - REF-0085
+  status: verified
+habitat:
+  text: Native throughout Europe, western Asia and North Africa, extremely common in hedgerows, woodland
+    edges, waste ground and disturbed sites, tolerating a wide range of soils.
+  reference_ids:
+  - REF-0085
+  status: verified
+harvesting:
+  text: Flowers are picked in full bloom (late spring/early summer), ideally on a dry day, and dried quickly.
+    Berries are picked in late summer/early autumn once fully ripe (deep purple-black) and always cooked
+    before use, as raw berries - and all other parts of the plant - contain cyanogenic glycosides and
+    should not be eaten raw.
+  parts:
+  - Flower
+  - Fruit
+  season: Flower late spring/early summer; berries late summer/early autumn
+  reference_ids:
+  - REF-0085
+  status: verified
+traditional_uses:
+  text: Elder has one of the most celebrated European folk-medicine reputations, described as a 'medicine
+    chest' of the countryside. The flowers have official European herbal-monograph use for symptoms of
+    the common cold, and the berries - cooked, or as a standardised extract - are widely used and clinically
+    studied for upper respiratory and flu-like symptoms.
+  reference_ids:
+  - REF-0085
+  - REF-1016
+  status: verified
+preparations:
+- name: Elderflower infusion (tea)
+  text: Dried flower steeped in hot water - the classic cold and flu remedy.
+  reference_ids:
+  - REF-0085
+  status: verified
+- name: Elderberry syrup
+  text: Cooked, sweetened berry preparation - the most widely used commercial and traditional form for
+    immune and cold support.
+  reference_ids:
+  - REF-1016
+  status: verified
+- name: Standardised elderberry extract
+  text: The concentrated form used in influenza clinical trials.
+  reference_ids:
+  - REF-1016
+  status: verified
+- name: Elderflower cordial
+  text: Traditional non-medicinal but commonly made preparation.
+  status: draft
+dosage:
+- name: Dried flower (tea)
+  text: 'Duke (2002): dried flower, about 3-5 g as tea, three times daily. Educational reference only,
+    not a prescription; always cook berries before eating and avoid bark preparations without expert guidance.'
+  reference_ids:
+  - REF-0085
+  - REF-0243
+  - REF-0316
+  status: verified
+constituents:
+- name: Anthocyanins (cyanidin glycosides)
+  compounds:
+  - anthocyanin
+  note: Give the ripe berries their deep colour and much of their antioxidant activity.
+  reference_ids:
+  - REF-1015
+- name: Flavonoids (rutin, quercetin) and phenolic acids
+  compounds:
+  - flavonoid
+  - rutin
+  - quercetin
+  - phenolic-acid
+  note: Found in both flower and berry, contributing antioxidant and anti-inflammatory activity.
+  reference_ids:
+  - REF-1015
+- name: Cyanogenic glycosides (sambunigrin)
+  compounds:
+  - glycoside
+  note: Present in raw berries, leaves, bark and stems; the basis for the caution to always cook berries
+    before eating and avoid raw plant material.
+  reference_ids:
+  - REF-1015
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -138,12 +233,24 @@ dangerous_lookalikes:
 - dangerous_plant: sambucus-ebulus
   severity: dangerous
   confused_part: Flower heads and ripe black berries, gathered mistaking them for elderflower or elderberry.
-  confusion_context: Dwarf elder (danewort) is a close relative of elder with very similar flat-topped white flower clusters and small black berries, and the two grow in the same hedgerows and waste ground. But all parts of dwarf elder are toxic — it contains ebulin, a ricin-related toxin, plus cyanogenic compounds — and eating the flowers or berries causes severe nausea, vomiting and diarrhoea. (Even true elderberry must be cooked before eating.)
+  confusion_context: Dwarf elder (danewort) is a close relative of elder with very similar flat-topped
+    white flower clusters and small black berries, and the two grow in the same hedgerows and waste ground.
+    But all parts of dwarf elder are toxic — it contains ebulin, a ricin-related toxin, plus cyanogenic
+    compounds — and eating the flowers or berries causes severe nausea, vomiting and diarrhoea. (Even
+    true elderberry must be cooked before eating.)
   distinguishing_features:
-  - 'Stem: elder is a woody shrub or small tree (up to several metres) with bark and woody stems that persist through winter; dwarf elder is herbaceous — soft green non-woody stems, no bark, about 1 to 2 m, dying back to the ground each year and re-sprouting in dense colonies. A woody, bark-covered stem means it is NOT dwarf elder.'
-  - 'Anthers: dwarf-elder flowers have contrasting purple or dark-red anthers; elder flowers have cream-to-yellow anthers.'
-  - 'Berries: elder''s ripe berry clusters droop and hang down; dwarf elder holds its flower and fruit heads erect, facing upward.'
-  key_test: 'Check the stem: a hard, woody, bark-covered stem that persists year-round = elder (its cooked flowers and berries are a safe food). A soft, green, non-woody stem forming a dense colony that dies back each winter = dwarf elder — do not eat it. Purple anthers and upward-facing berry heads confirm dwarf elder.'
+  - 'Stem: elder is a woody shrub or small tree (up to several metres) with bark and woody stems that
+    persist through winter; dwarf elder is herbaceous — soft green non-woody stems, no bark, about 1 to
+    2 m, dying back to the ground each year and re-sprouting in dense colonies. A woody, bark-covered
+    stem means it is NOT dwarf elder.'
+  - 'Anthers: dwarf-elder flowers have contrasting purple or dark-red anthers; elder flowers have cream-to-yellow
+    anthers.'
+  - 'Berries: elder''s ripe berry clusters droop and hang down; dwarf elder holds its flower and fruit
+    heads erect, facing upward.'
+  key_test: 'Check the stem: a hard, woody, bark-covered stem that persists year-round = elder (its cooked
+    flowers and berries are a safe food). A soft, green, non-woody stem forming a dense colony that dies
+    back each winter = dwarf elder — do not eat it. Purple anthers and upward-facing berry heads confirm
+    dwarf elder.'
   reference_ids:
   - REF-2633
   - REF-2634
@@ -153,7 +260,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -161,4 +268,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1015, REF-1016, REF-1017, REF-1018, REF-1019,
   REF-1020, REF-1021, REF-1022, REF-1023, REF-1024) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0085), bioactive-compounds
+  review (REF-1015) and respiratory-symptom meta-analysis (REF-1016).'

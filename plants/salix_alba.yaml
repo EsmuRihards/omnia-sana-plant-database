@@ -27,6 +27,70 @@ constituents:
   reference_ids:
   - REF-0530
   - REF-1262
+botanical_description:
+  text: Large deciduous tree (Salicaceae), 10-25 m tall (occasionally taller), fast-growing with a broad
+    crown. Leaves are narrow and lance-shaped, silvery-white and silky-hairy beneath, giving the tree
+    a shimmering appearance in the wind. Tiny flowers are borne in catkins appearing with the leaves in
+    spring; the species is dioecious. The fruit is a small capsule releasing cottony-tufted seeds.
+  height: 10-25 m
+  habit: Large, fast-growing deciduous tree, dioecious
+  leaves: Narrow, lance-shaped, silvery-white and silky-hairy beneath
+  flowers: Tiny, in catkins with the leaves
+  stem: Broad-crowned trunk
+  root: Extensive, water-seeking root system
+  fruit: Small capsule with cottony-tufted seeds
+  flowering_period: April-May
+  reference_ids:
+  - REF-0530
+  status: verified
+habitat:
+  text: Native to Europe, western and central Asia and North Africa, growing on damp ground along riverbanks,
+    floodplains and wet meadows; widely planted and naturalised elsewhere.
+  reference_ids:
+  - REF-0530
+  status: verified
+harvesting:
+  text: Bark is stripped from young branches (2-3-year-old growth is preferred, as salicin content is
+    highest in younger bark) in spring, when the rising sap makes the bark peel most easily, then dried.
+  parts:
+  - Bark
+  season: Spring
+  reference_ids:
+  - REF-0530
+  status: verified
+traditional_uses:
+  text: Willow bark has one of the longest documented histories of any medicinal plant, used since antiquity
+    (recorded by Hippocrates) as a remedy for pain and fever. Its salicin content, chemically related
+    to aspirin, gives it official European herbal-monograph recognition for mild joint pain, headache
+    and feverish colds, with modern clinical trials supporting benefit for low back pain.
+  reference_ids:
+  - REF-0530
+  - REF-0529
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried bark simmered in water - the traditional preparation, since salicin needs proper simmering
+    (not just a quick infusion) to extract well.
+  reference_ids:
+  - REF-0530
+  status: verified
+- name: Standardised extract (capsule/tablet)
+  text: Standardised to salicin content, the form used in clinical trials.
+  reference_ids:
+  - REF-0529
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried bark.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for back pain have used around 240 mg salicin/day of standardised extract. Educational
+    reference only, not a prescription; avoid if allergic to aspirin/salicylates, in children/teenagers
+    with a viral illness (Reye's syndrome risk), or alongside anticoagulants.
+  reference_ids:
+  - REF-0529
+  - REF-0530
+  status: verified
 actions:
 - action: analgesic
   note: Analgesic and anti-inflammatory for low back pain (moderate evidence; dose-dependent, around 240
@@ -135,7 +199,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Phytotherapy Research
   systematic review; EMA HMPC monograph for Salicis cortex). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (pain, headache, inflammation, arthritis, fever, back-pain); associations
@@ -145,4 +209,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1253, REF-1254,
   REF-1255, REF-1256, REF-1257, REF-1258, REF-1259, REF-1260, REF-1261, REF-1262) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0530) and systematic review
+  (REF-0529).'

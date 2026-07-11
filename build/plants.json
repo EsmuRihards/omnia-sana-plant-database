@@ -49013,6 +49013,81 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Large deciduous tree (Salicaceae), 10-25 m tall (occasionally taller), fast-growing with a broad crown. Leaves are narrow and lance-shaped, silvery-white and silky-hairy beneath, giving the tree a shimmering appearance in the wind. Tiny flowers are borne in catkins appearing with the leaves in spring; the species is dioecious. The fruit is a small capsule releasing cottony-tufted seeds.",
+    "height": "10-25 m",
+    "habit": "Large, fast-growing deciduous tree, dioecious",
+    "leaves": "Narrow, lance-shaped, silvery-white and silky-hairy beneath",
+    "flowers": "Tiny, in catkins with the leaves",
+    "stem": "Broad-crowned trunk",
+    "root": "Extensive, water-seeking root system",
+    "fruit": "Small capsule with cottony-tufted seeds",
+    "flowering_period": "April-May",
+    "reference_ids": [
+     "REF-0530"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe, western and central Asia and North Africa, growing on damp ground along riverbanks, floodplains and wet meadows; widely planted and naturalised elsewhere.",
+    "reference_ids": [
+     "REF-0530"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Bark is stripped from young branches (2-3-year-old growth is preferred, as salicin content is highest in younger bark) in spring, when the rising sap makes the bark peel most easily, then dried.",
+    "parts": [
+     "Bark"
+    ],
+    "season": "Spring",
+    "reference_ids": [
+     "REF-0530"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Willow bark has one of the longest documented histories of any medicinal plant, used since antiquity (recorded by Hippocrates) as a remedy for pain and fever. Its salicin content, chemically related to aspirin, gives it official European herbal-monograph recognition for mild joint pain, headache and feverish colds, with modern clinical trials supporting benefit for low back pain.",
+    "reference_ids": [
+     "REF-0530",
+     "REF-0529"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried bark simmered in water - the traditional preparation, since salicin needs proper simmering (not just a quick infusion) to extract well.",
+     "reference_ids": [
+      "REF-0530"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract (capsule/tablet)",
+     "text": "Standardised to salicin content, the form used in clinical trials.",
+     "reference_ids": [
+      "REF-0529"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried bark.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for back pain have used around 240 mg salicin/day of standardised extract. Educational reference only, not a prescription; avoid if allergic to aspirin/salicylates, in children/teenagers with a viral illness (Reye's syndrome risk), or alongside anticoagulants.",
+     "reference_ids": [
+      "REF-0529",
+      "REF-0530"
+     ],
+     "status": "verified"
+    }
+   ],
    "actions": [
     {
      "action": "analgesic",
@@ -49168,7 +49243,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "willow-bark"
   },
   {
@@ -49183,6 +49258,117 @@
    "family": "Lamiaceae",
    "parts_used": [
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Annual herb (Lamiaceae), 1-1.5 m tall, with square stems. Leaves are opposite, ovate to oblong with a toothed margin. Small purple to white, two-lipped flowers are borne in dense terminal spikes, followed by small oval seeds (grey-brown, mottled, or occasionally white) - the part used.",
+    "height": "1-1.5 m",
+    "habit": "Erect annual herb",
+    "leaves": "Opposite, ovate to oblong, toothed",
+    "flowers": "Small, purple to white, two-lipped, in dense terminal spikes",
+    "stem": "Square, erect",
+    "root": "Fibrous annual root system",
+    "fruit": "Small oval seeds, grey-brown and mottled (or occasionally white)",
+    "flowering_period": "Variable, typically late summer in its native range",
+    "reference_ids": [
+     "REF-1263"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to central and southern Mexico and Guatemala, historically a staple crop of Aztec and Mayan agriculture; now cultivated commercially in warm subtropical and tropical regions worldwide (notably South America and Australia) as a food crop.",
+    "reference_ids": [
+     "REF-1263"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Seed heads are harvested once dry, typically in autumn, and threshed to release the small seeds.",
+    "parts": [
+     "Seed"
+    ],
+    "season": "Autumn, once seed heads have dried",
+    "reference_ids": [
+     "REF-1263"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Chia seed has an ancient Mesoamerican food-medicine tradition as an energy-sustaining staple food for Aztec warriors and runners. Its modern popularity centres on its dense nutrient profile - fibre, omega-3 (alpha-linolenic acid) fatty acids, protein and antioxidants - studied for metabolic, cardiovascular and digestive support.",
+    "reference_ids": [
+     "REF-1263"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Whole or ground seed (culinary)",
+     "text": "Eaten whole, ground, or soaked to form a gel (due to the seed's high mucilage content), stirred into food or drinks.",
+     "reference_ids": [
+      "REF-1263"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Chia gel/pudding",
+     "text": "Seeds soaked in liquid until they swell into a gel - a popular modern preparation.",
+     "status": "draft"
+    },
+    {
+     "name": "Chia oil",
+     "text": "Cold-pressed oil, a concentrated source of alpha-linolenic acid.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Whole/ground seed",
+     "text": "Typical dietary and study amounts range from about 15-25 g (roughly 1-2 tablespoons) of seed daily, usually soaked or ground for better digestibility. Educational reference only, not a prescription; always take with adequate liquid, never dry-swallowed.",
+     "reference_ids": [
+      "REF-1263",
+      "REF-1264"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Alpha-linolenic acid (omega-3 fatty acid)",
+     "note": "The dominant fatty acid of chia oil, one of the richest plant sources of omega-3 known.",
+     "reference_ids": [
+      "REF-1263"
+     ]
+    },
+    {
+     "name": "Mucilage polysaccharides (seed coat)",
+     "compounds": [
+      "mucilage",
+      "polysaccharide"
+     ],
+     "note": "Responsible for the seed's characteristic gel-forming property when soaked.",
+     "reference_ids": [
+      "REF-1264"
+     ]
+    },
+    {
+     "name": "Phenolic antioxidants (chlorogenic acid, caffeic acid, quercetin, kaempferol)",
+     "compounds": [
+      "chlorogenic-acid",
+      "caffeic-acid",
+      "quercetin",
+      "kaempferol"
+     ],
+     "note": "Contribute to the seed's antioxidant activity.",
+     "reference_ids": [
+      "REF-1263"
+     ]
+    },
+    {
+     "name": "Protein and dietary fibre",
+     "note": "Chia is a complete plant protein source and exceptionally high in dietary fibre.",
+     "reference_ids": [
+      "REF-1264"
+     ]
+    }
    ],
    "actions": [
     {
@@ -49343,7 +49529,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "chia"
   },
   {
@@ -49397,6 +49583,89 @@
       "REF-1280",
       "REF-1282"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Evergreen, woody-based perennial subshrub (Lamiaceae), 30-70 cm tall, with square, downy, greyish stems. Leaves are opposite, oblong, wrinkled, grey-green and softly velvety, with a strong camphoraceous aroma. Violet-blue, two-lipped flowers are borne in whorled spikes.",
+    "height": "30-70 cm",
+    "habit": "Evergreen, woody-based perennial subshrub",
+    "leaves": "Opposite, oblong, wrinkled, grey-green, velvety, strongly aromatic",
+    "flowers": "Violet-blue, two-lipped, in whorled spikes",
+    "stem": "Square, downy, greyish, woody at the base",
+    "root": "Woody perennial rootstock",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "May-July",
+    "reference_ids": [
+     "REF-0501"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the northern Mediterranean coast (particularly the Balkans and Italy), widely cultivated as a culinary and medicinal herb in gardens worldwide, preferring sunny, well-drained, often calcareous soils.",
+    "reference_ids": [
+     "REF-0501"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are harvested throughout the growing season, ideally just before flowering, when essential-oil content is highest, and dried quickly in a warm, shaded place.",
+    "parts": [
+     "Leaf"
+    ],
+    "season": "Growing season, ideally just before flowering",
+    "reference_ids": [
+     "REF-0501"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Sage has an ancient reputation - its Latin name 'salvia' derives from 'salvere', to be saved or healed - as a digestive, antiseptic and cognitive tonic. It has official European herbal-monograph use for dyspeptic complaints and excessive sweating, and as a gargle for inflammation of the mouth and throat; modern clinical trials support cognitive-enhancing effects in both healthy adults and people with dementia.",
+    "reference_ids": [
+     "REF-0501",
+     "REF-0502"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped in hot water, for digestive complaints or excessive sweating.",
+     "reference_ids": [
+      "REF-0501"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Gargle/mouthwash",
+     "text": "A stronger infusion used topically for sore throat and mouth inflammation.",
+     "reference_ids": [
+      "REF-0501"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract (capsule)",
+     "text": "The form used in cognitive-function clinical trials.",
+     "reference_ids": [
+      "REF-0502",
+      "REF-0503"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (aromatherapy)",
+     "text": "Used diluted for cognitive/mood effects via inhalation; not for internal use given the thujone content.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "EMA herbal-monograph guidance suggests about 1-3 g dried leaf per cup as an infusion, up to three times daily for digestive complaints, or a stronger preparation used as a gargle. Avoid prolonged or high-dose (essential-oil) use given the neurotoxic thujone content, especially in pregnancy and epilepsy. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0501"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -49546,7 +49815,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "sage"
   },
   {
@@ -49560,6 +49829,123 @@
    "parts_used": [
     "Flower",
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Evergreen, woody shrub (Lamiaceae), 1-2 m tall, with dense, needle-like, dark green, aromatic leaves, white-felted beneath. Small, pale blue to violet, two-lipped flowers are borne in the leaf axils.",
+    "height": "1-2 m",
+    "habit": "Evergreen, woody shrub",
+    "leaves": "Needle-like, dark green, aromatic, white-felted beneath",
+    "flowers": "Small, pale blue to violet, two-lipped, in the leaf axils",
+    "stem": "Woody, much-branched",
+    "root": "Woody perennial root system",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "Can flower over much of the year in mild climates, peaking in spring",
+    "reference_ids": [
+     "REF-1283"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean coast, growing on dry, rocky, sunny slopes and coastal scrub; widely cultivated as a culinary and medicinal herb worldwide, tolerating poor, well-drained soils and drought.",
+    "reference_ids": [
+     "REF-1283"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leafy sprigs are cut throughout the year (the plant is evergreen), though essential-oil content is often considered highest just before or during flowering; leaves are stripped from the stem and dried, or used fresh.",
+    "parts": [
+     "Leaf",
+     "Flower"
+    ],
+    "season": "Year-round; oil content peaks around flowering",
+    "reference_ids": [
+     "REF-1283"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Rosemary has an ancient Mediterranean reputation as a memory and circulation tonic ('rosemary for remembrance'), a digestive carminative, and an antiseptic for minor wounds. Commission E approves it for dyspeptic complaints internally and for rheumatic conditions and circulatory problems externally; modern research on rosmarinic acid and carnosic acid supports antioxidant, anti-inflammatory, antimicrobial and cognitive-supportive activity.",
+    "reference_ids": [
+     "REF-1283"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped in hot water, for digestive complaints.",
+     "reference_ids": [
+      "REF-0112",
+      "REF-0173",
+      "REF-0194"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (aromatherapy/topical)",
+     "text": "Inhaled for cognitive/mood effects, or diluted and applied for muscular and rheumatic complaints.",
+     "reference_ids": [
+      "REF-0173"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the leaf.",
+     "status": "draft"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Fresh or dried leaf widely used as a seasoning, providing an ongoing dietary antioxidant benefit.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Commission E approves rosemary for dyspeptic complaints (internal use) and, externally, for rheumatic conditions and circulatory problems; typical internal use is roughly 2-4 g dried leaf as tea, up to three times daily. Educational reference only, not a prescription; avoid concentrated essential oil internally and in pregnancy/epilepsy.",
+     "reference_ids": [
+      "REF-0112",
+      "REF-0173",
+      "REF-0194"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (1,8-cineole, camphor, alpha-pinene)",
+     "compounds": [
+      "essential-oil",
+      "cineole",
+      "camphor",
+      "terpene"
+     ],
+     "note": "The volatile oil, dominated by 1,8-cineole and camphor, gives the characteristic aroma and much of the antimicrobial activity.",
+     "reference_ids": [
+      "REF-1283"
+     ]
+    },
+    {
+     "name": "Diterpenes (carnosic acid, carnosol)",
+     "note": "Potent antioxidant diterpenes considered largely responsible for rosemary's strong preservative and antioxidant activity.",
+     "reference_ids": [
+      "REF-1283"
+     ]
+    },
+    {
+     "name": "Rosmarinic acid and phenolic acids",
+     "compounds": [
+      "rosmarinic-acid",
+      "phenolic-acid"
+     ],
+     "note": "Contribute to antioxidant, anti-inflammatory and cognitive-supportive activity.",
+     "reference_ids": [
+      "REF-0194",
+      "REF-1283"
+     ]
+    }
    ],
    "actions": [
     {
@@ -49817,7 +50203,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "rosemary"
   },
   {
@@ -49836,6 +50222,126 @@
    "parts_used": [
     "Flower",
     "Fruit"
+   ],
+   "botanical_description": {
+    "text": "Deciduous shrub or small tree (Adoxaceae), 3-10 m tall (occasionally larger), with corky, furrowed grey-brown bark. Leaves are pinnate with 5-7 toothed leaflets. Abundant flat-topped clusters (corymbs) of small, fragrant, creamy-white flowers are followed by drooping clusters of small, glossy, purple-black berries.",
+    "height": "3-10 m (occasionally larger)",
+    "habit": "Deciduous shrub or small tree",
+    "leaves": "Pinnate, 5-7 toothed leaflets",
+    "flowers": "Small, fragrant, creamy-white, in flat-topped clusters (corymbs)",
+    "stem": "Corky, furrowed, grey-brown bark",
+    "root": "Fibrous, spreading root system",
+    "fruit": "Drooping clusters of small, glossy, purple-black berries",
+    "flowering_period": "May-June; berries ripen August-September",
+    "reference_ids": [
+     "REF-0085"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native throughout Europe, western Asia and North Africa, extremely common in hedgerows, woodland edges, waste ground and disturbed sites, tolerating a wide range of soils.",
+    "reference_ids": [
+     "REF-0085"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flowers are picked in full bloom (late spring/early summer), ideally on a dry day, and dried quickly. Berries are picked in late summer/early autumn once fully ripe (deep purple-black) and always cooked before use, as raw berries - and all other parts of the plant - contain cyanogenic glycosides and should not be eaten raw.",
+    "parts": [
+     "Flower",
+     "Fruit"
+    ],
+    "season": "Flower late spring/early summer; berries late summer/early autumn",
+    "reference_ids": [
+     "REF-0085"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Elder has one of the most celebrated European folk-medicine reputations, described as a 'medicine chest' of the countryside. The flowers have official European herbal-monograph use for symptoms of the common cold, and the berries - cooked, or as a standardised extract - are widely used and clinically studied for upper respiratory and flu-like symptoms.",
+    "reference_ids": [
+     "REF-0085",
+     "REF-1016"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Elderflower infusion (tea)",
+     "text": "Dried flower steeped in hot water - the classic cold and flu remedy.",
+     "reference_ids": [
+      "REF-0085"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Elderberry syrup",
+     "text": "Cooked, sweetened berry preparation - the most widely used commercial and traditional form for immune and cold support.",
+     "reference_ids": [
+      "REF-1016"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised elderberry extract",
+     "text": "The concentrated form used in influenza clinical trials.",
+     "reference_ids": [
+      "REF-1016"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Elderflower cordial",
+     "text": "Traditional non-medicinal but commonly made preparation.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Dried flower (tea)",
+     "text": "Duke (2002): dried flower, about 3-5 g as tea, three times daily. Educational reference only, not a prescription; always cook berries before eating and avoid bark preparations without expert guidance.",
+     "reference_ids": [
+      "REF-0085",
+      "REF-0243",
+      "REF-0316"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Anthocyanins (cyanidin glycosides)",
+     "compounds": [
+      "anthocyanin"
+     ],
+     "note": "Give the ripe berries their deep colour and much of their antioxidant activity.",
+     "reference_ids": [
+      "REF-1015"
+     ]
+    },
+    {
+     "name": "Flavonoids (rutin, quercetin) and phenolic acids",
+     "compounds": [
+      "flavonoid",
+      "rutin",
+      "quercetin",
+      "phenolic-acid"
+     ],
+     "note": "Found in both flower and berry, contributing antioxidant and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1015"
+     ]
+    },
+    {
+     "name": "Cyanogenic glycosides (sambunigrin)",
+     "compounds": [
+      "glycoside"
+     ],
+     "note": "Present in raw berries, leaves, bark and stems; the basis for the caution to always cook berries before eating and avoid raw plant material.",
+     "reference_ids": [
+      "REF-1015"
+     ]
+    }
    ],
    "actions": [
     {
@@ -50019,7 +50525,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-12",
    "common_slug": "elder"
   },
   {

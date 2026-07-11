@@ -8,6 +8,91 @@ common_names:
 family: Lamiaceae
 parts_used:
 - Seed
+botanical_description:
+  text: Annual herb (Lamiaceae), 1-1.5 m tall, with square stems. Leaves are opposite, ovate to oblong
+    with a toothed margin. Small purple to white, two-lipped flowers are borne in dense terminal spikes,
+    followed by small oval seeds (grey-brown, mottled, or occasionally white) - the part used.
+  height: 1-1.5 m
+  habit: Erect annual herb
+  leaves: Opposite, ovate to oblong, toothed
+  flowers: Small, purple to white, two-lipped, in dense terminal spikes
+  stem: Square, erect
+  root: Fibrous annual root system
+  fruit: Small oval seeds, grey-brown and mottled (or occasionally white)
+  flowering_period: Variable, typically late summer in its native range
+  reference_ids:
+  - REF-1263
+  status: verified
+habitat:
+  text: Native to central and southern Mexico and Guatemala, historically a staple crop of Aztec and Mayan
+    agriculture; now cultivated commercially in warm subtropical and tropical regions worldwide (notably
+    South America and Australia) as a food crop.
+  reference_ids:
+  - REF-1263
+  status: verified
+harvesting:
+  text: Seed heads are harvested once dry, typically in autumn, and threshed to release the small seeds.
+  parts:
+  - Seed
+  season: Autumn, once seed heads have dried
+  reference_ids:
+  - REF-1263
+  status: verified
+traditional_uses:
+  text: Chia seed has an ancient Mesoamerican food-medicine tradition as an energy-sustaining staple food
+    for Aztec warriors and runners. Its modern popularity centres on its dense nutrient profile - fibre,
+    omega-3 (alpha-linolenic acid) fatty acids, protein and antioxidants - studied for metabolic, cardiovascular
+    and digestive support.
+  reference_ids:
+  - REF-1263
+  status: verified
+preparations:
+- name: Whole or ground seed (culinary)
+  text: Eaten whole, ground, or soaked to form a gel (due to the seed's high mucilage content), stirred
+    into food or drinks.
+  reference_ids:
+  - REF-1263
+  status: verified
+- name: Chia gel/pudding
+  text: Seeds soaked in liquid until they swell into a gel - a popular modern preparation.
+  status: draft
+- name: Chia oil
+  text: Cold-pressed oil, a concentrated source of alpha-linolenic acid.
+  status: draft
+dosage:
+- name: Whole/ground seed
+  text: Typical dietary and study amounts range from about 15-25 g (roughly 1-2 tablespoons) of seed daily,
+    usually soaked or ground for better digestibility. Educational reference only, not a prescription;
+    always take with adequate liquid, never dry-swallowed.
+  reference_ids:
+  - REF-1263
+  - REF-1264
+  status: verified
+constituents:
+- name: Alpha-linolenic acid (omega-3 fatty acid)
+  note: The dominant fatty acid of chia oil, one of the richest plant sources of omega-3 known.
+  reference_ids:
+  - REF-1263
+- name: Mucilage polysaccharides (seed coat)
+  compounds:
+  - mucilage
+  - polysaccharide
+  note: Responsible for the seed's characteristic gel-forming property when soaked.
+  reference_ids:
+  - REF-1264
+- name: Phenolic antioxidants (chlorogenic acid, caffeic acid, quercetin, kaempferol)
+  compounds:
+  - chlorogenic-acid
+  - caffeic-acid
+  - quercetin
+  - kaempferol
+  note: Contribute to the seed's antioxidant activity.
+  reference_ids:
+  - REF-1263
+- name: Protein and dietary fibre
+  note: Chia is a complete plant protein source and exceptionally high in dietary fibre.
+  reference_ids:
+  - REF-1264
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -117,7 +202,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -125,4 +210,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1263, REF-1264, REF-1265, REF-1266, REF-1267,
   REF-1268, REF-1269, REF-1270, REF-1271, REF-1272) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing metabolic-disorders review (REF-1263) and systematic
+  review (REF-1264).'

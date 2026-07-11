@@ -35,6 +35,77 @@ constituents:
   - REF-0501
   - REF-1280
   - REF-1282
+botanical_description:
+  text: Evergreen, woody-based perennial subshrub (Lamiaceae), 30-70 cm tall, with square, downy, greyish
+    stems. Leaves are opposite, oblong, wrinkled, grey-green and softly velvety, with a strong camphoraceous
+    aroma. Violet-blue, two-lipped flowers are borne in whorled spikes.
+  height: 30-70 cm
+  habit: Evergreen, woody-based perennial subshrub
+  leaves: Opposite, oblong, wrinkled, grey-green, velvety, strongly aromatic
+  flowers: Violet-blue, two-lipped, in whorled spikes
+  stem: Square, downy, greyish, woody at the base
+  root: Woody perennial rootstock
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: May-July
+  reference_ids:
+  - REF-0501
+  status: verified
+habitat:
+  text: Native to the northern Mediterranean coast (particularly the Balkans and Italy), widely cultivated
+    as a culinary and medicinal herb in gardens worldwide, preferring sunny, well-drained, often calcareous
+    soils.
+  reference_ids:
+  - REF-0501
+  status: verified
+harvesting:
+  text: Leaves are harvested throughout the growing season, ideally just before flowering, when essential-oil
+    content is highest, and dried quickly in a warm, shaded place.
+  parts:
+  - Leaf
+  season: Growing season, ideally just before flowering
+  reference_ids:
+  - REF-0501
+  status: verified
+traditional_uses:
+  text: Sage has an ancient reputation - its Latin name 'salvia' derives from 'salvere', to be saved or
+    healed - as a digestive, antiseptic and cognitive tonic. It has official European herbal-monograph
+    use for dyspeptic complaints and excessive sweating, and as a gargle for inflammation of the mouth
+    and throat; modern clinical trials support cognitive-enhancing effects in both healthy adults and
+    people with dementia.
+  reference_ids:
+  - REF-0501
+  - REF-0502
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water, for digestive complaints or excessive sweating.
+  reference_ids:
+  - REF-0501
+  status: verified
+- name: Gargle/mouthwash
+  text: A stronger infusion used topically for sore throat and mouth inflammation.
+  reference_ids:
+  - REF-0501
+  status: verified
+- name: Standardised extract (capsule)
+  text: The form used in cognitive-function clinical trials.
+  reference_ids:
+  - REF-0502
+  - REF-0503
+  status: verified
+- name: Essential oil (aromatherapy)
+  text: Used diluted for cognitive/mood effects via inhalation; not for internal use given the thujone
+    content.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: EMA herbal-monograph guidance suggests about 1-3 g dried leaf per cup as an infusion, up to three
+    times daily for digestive complaints, or a stronger preparation used as a gargle. Avoid prolonged
+    or high-dose (essential-oil) use given the neurotoxic thujone content, especially in pregnancy and
+    epilepsy. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0501
+  status: verified
 actions:
 - action: carminative
   note: Carminative for mild dyspeptic complaints (indigestion)
@@ -131,7 +202,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph; CNS
   Neuroscience & Therapeutics systematic review and dementia review). Note: this is Salvia officinalis,
   distinct from the book''s Salvia hispanica (chia) and Salvia rosmarinus (rosemary). Originally a skeleton
@@ -140,4 +211,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1273, REF-1274,
   REF-1275, REF-1276, REF-1277, REF-1278, REF-1279, REF-1280, REF-1281, REF-1282) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0501) and cognitive-function
+  systematic review (REF-0502).'

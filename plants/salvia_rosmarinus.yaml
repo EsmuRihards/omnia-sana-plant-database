@@ -7,6 +7,101 @@ family: Lamiaceae
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: Evergreen, woody shrub (Lamiaceae), 1-2 m tall, with dense, needle-like, dark green, aromatic
+    leaves, white-felted beneath. Small, pale blue to violet, two-lipped flowers are borne in the leaf
+    axils.
+  height: 1-2 m
+  habit: Evergreen, woody shrub
+  leaves: Needle-like, dark green, aromatic, white-felted beneath
+  flowers: Small, pale blue to violet, two-lipped, in the leaf axils
+  stem: Woody, much-branched
+  root: Woody perennial root system
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: Can flower over much of the year in mild climates, peaking in spring
+  reference_ids:
+  - REF-1283
+  status: verified
+habitat:
+  text: Native to the Mediterranean coast, growing on dry, rocky, sunny slopes and coastal scrub; widely
+    cultivated as a culinary and medicinal herb worldwide, tolerating poor, well-drained soils and drought.
+  reference_ids:
+  - REF-1283
+  status: verified
+harvesting:
+  text: Leafy sprigs are cut throughout the year (the plant is evergreen), though essential-oil content
+    is often considered highest just before or during flowering; leaves are stripped from the stem and
+    dried, or used fresh.
+  parts:
+  - Leaf
+  - Flower
+  season: Year-round; oil content peaks around flowering
+  reference_ids:
+  - REF-1283
+  status: verified
+traditional_uses:
+  text: Rosemary has an ancient Mediterranean reputation as a memory and circulation tonic ('rosemary
+    for remembrance'), a digestive carminative, and an antiseptic for minor wounds. Commission E approves
+    it for dyspeptic complaints internally and for rheumatic conditions and circulatory problems externally;
+    modern research on rosmarinic acid and carnosic acid supports antioxidant, anti-inflammatory, antimicrobial
+    and cognitive-supportive activity.
+  reference_ids:
+  - REF-1283
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water, for digestive complaints.
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+- name: Essential oil (aromatherapy/topical)
+  text: Inhaled for cognitive/mood effects, or diluted and applied for muscular and rheumatic complaints.
+  reference_ids:
+  - REF-0173
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the leaf.
+  status: draft
+- name: Culinary use
+  text: Fresh or dried leaf widely used as a seasoning, providing an ongoing dietary antioxidant benefit.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Commission E approves rosemary for dyspeptic complaints (internal use) and, externally, for rheumatic
+    conditions and circulatory problems; typical internal use is roughly 2-4 g dried leaf as tea, up to
+    three times daily. Educational reference only, not a prescription; avoid concentrated essential oil
+    internally and in pregnancy/epilepsy.
+  reference_ids:
+  - REF-0112
+  - REF-0173
+  - REF-0194
+  status: verified
+constituents:
+- name: Essential oil (1,8-cineole, camphor, alpha-pinene)
+  compounds:
+  - essential-oil
+  - cineole
+  - camphor
+  - terpene
+  note: The volatile oil, dominated by 1,8-cineole and camphor, gives the characteristic aroma and much
+    of the antimicrobial activity.
+  reference_ids:
+  - REF-1283
+- name: Diterpenes (carnosic acid, carnosol)
+  note: Potent antioxidant diterpenes considered largely responsible for rosemary's strong preservative
+    and antioxidant activity.
+  reference_ids:
+  - REF-1283
+- name: Rosmarinic acid and phenolic acids
+  compounds:
+  - rosmarinic-acid
+  - phenolic-acid
+  note: Contribute to antioxidant, anti-inflammatory and cognitive-supportive activity.
+  reference_ids:
+  - REF-0194
+  - REF-1283
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -180,7 +275,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -188,4 +283,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1283, REF-1284, REF-1285, REF-1286, REF-1287,
   REF-1288, REF-1289, REF-1290, REF-1291, REF-1292) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing therapeutic/prophylactic review (REF-1283) and the
+  dedicated rosmarinic-acid reference (REF-0194).'

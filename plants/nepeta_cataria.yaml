@@ -10,6 +10,92 @@ parts_used:
 - Leaf
 - Stem
 - Whole Plant
+botanical_description:
+  text: Perennial herb, 30-100 cm tall, with greyish-green, downy, square stems typical of the mint family.
+    Leaves are opposite, triangular-ovate with scalloped or toothed margins, grey-green above and softly
+    felted (whitish) beneath, releasing a minty-lemony aroma when crushed. Small white flowers, spotted
+    with purple or pink, are borne in dense terminal and axillary spikes. Nepetalactone, the volatile
+    compound famous for its effect on cats, is concentrated in glandular hairs on the leaves and stems.
+  height: 30-100 cm
+  habit: Erect, bushy, greyish-downy perennial herb
+  leaves: Opposite, triangular-ovate, scalloped/toothed, felted white beneath
+  flowers: Small, white with purple/pink spotting, in dense terminal and axillary spikes
+  stem: Square, greyish-green, downy
+  root: Fibrous perennial rootstock
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: June-September
+  reference_ids:
+  - REF-0938
+  status: verified
+habitat:
+  text: Native to Europe and temperate Asia and widely naturalised in North America; grows on disturbed,
+    sunny ground - roadsides, waste places, hedgebanks and dry, calcareous or well-drained soils.
+  reference_ids:
+  - REF-0938
+  status: verified
+harvesting:
+  text: The flowering aerial parts (leaf, stem and flower) are cut at or just before flowering (summer),
+    when volatile nepetalactone content is highest, and dried quickly out of direct light.
+  parts:
+  - Leaf
+  - Stem
+  - Flower
+  season: Summer, at or just before flowering
+  reference_ids:
+  - REF-0938
+  - REF-0931
+  status: verified
+traditional_uses:
+  text: Catnip has a long North American and European folk-medicine history as a mild sedative/nervine,
+    diaphoretic (fever-reducing, sweat-promoting) remedy, carminative digestive and traditional emmenagogue;
+    it was also given as a children's tea for colic and restlessness, though large amounts are not advised
+    for young children and it is traditionally avoided in pregnancy.
+  reference_ids:
+  - REF-0938
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried aerial parts steeped in hot water as a traditional calming, digestive tea.
+  reference_ids:
+  - REF-0938
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried aerial parts.
+  status: draft
+- name: Essential oil
+  text: Steam-distilled from the aerial parts; used mainly as a natural insect repellent (nepetalactone)
+    rather than taken internally.
+  reference_ids:
+  - REF-0935
+  status: verified
+dosage:
+- name: Infusion (tea)
+  text: Traditional herbal guidance suggests a mild infusion of the dried aerial parts, up to a few cups
+    daily for adults. Keep away from toddlers/young children beyond very small amounts and avoid medicinal-dose
+    use in pregnancy. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Iridoid monoterpenes (nepetalactone)
+  compounds:
+  - terpene
+  note: The characteristic volatile iridoid responsible for the cat-attractant effect and studied for
+    sedative, antimicrobial and insect-repellent activity.
+  reference_ids:
+  - REF-0931
+  - REF-0935
+- name: Essential oil
+  compounds:
+  - essential-oil
+  note: Rich in nepetalactone isomers along with other monoterpenes; studied for antimicrobial and antioxidant
+    activity.
+  reference_ids:
+  - REF-0934
+- name: Flavonoids
+  compounds:
+  - flavonoid
+  note: Contribute to the antioxidant activity of the aerial parts.
+  reference_ids:
+  - REF-0932
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -148,7 +234,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Catnip is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Catnip is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -161,7 +249,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -169,4 +257,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0930, REF-0931, REF-0932, REF-0933, REF-0934,
   REF-0935, REF-0936, REF-0937, REF-0938, REF-0939) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing pharmacognosy review (REF-0938) and phytochemistry
+  papers (REF-0931, REF-0932, REF-0934, REF-0935).'

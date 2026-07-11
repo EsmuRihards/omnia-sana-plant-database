@@ -30,6 +30,74 @@ constituents:
   note: A pyrimidine glycoside that can trigger favism in G6PD-deficient people.
   reference_ids:
   - REF-0414
+botanical_description:
+  text: Climbing or trailing annual vine (Cucurbitaceae) that climbs by simple tendrils, typically 2-5
+    m long. Leaves are alternate, long-stalked and palmately lobed with 5-7 deep, toothed lobes. Flowers
+    are small, yellow and five-petalled, male and female flowers separate on the same plant. The fruit
+    is an oblong, warty-skinned gourd that ripens from green to orange-yellow and splits open to reveal
+    seeds coated in a bright red aril; the unripe green fruit is the part used medicinally and as food.
+  height: 2-5 m (climbing/trailing vine)
+  habit: Climbing or trailing annual vine, tendril-bearing
+  leaves: Alternate, long-stalked, palmately 5-7-lobed with toothed margins
+  flowers: Small, yellow, five-petalled, male and female separate on the same plant
+  stem: Slender, climbing by simple tendrils
+  root: Fibrous annual root system
+  fruit: Oblong, warty-skinned gourd, green ripening to orange-yellow, splitting to reveal red-arilled
+    seeds
+  flowering_period: Summer, through the growing season in warm climates
+  status: draft
+habitat:
+  text: Likely native to tropical Asia (possibly the Indian subcontinent), now widely cultivated across
+    tropical and subtropical Asia, Africa, the Caribbean and increasingly the Americas as a vegetable
+    and medicinal crop; needs warmth, full sun and a trellis or support to climb.
+  reference_ids:
+  - REF-0412
+  status: verified
+harvesting:
+  text: The fruit is harvested unripe, while still green and firm, before it yellows and splits, for use
+    as a vegetable and in traditional antidiabetic preparations; leaves are also traditionally gathered.
+  parts:
+  - Fruit (unripe)
+  - Leaf
+  season: Unripe fruit throughout the growing season
+  reference_ids:
+  - REF-0412
+  status: verified
+traditional_uses:
+  text: Bitter melon has a long history in Asian, African and Caribbean traditional medicine as a bitter
+    digestive tonic and mild laxative, and most notably as a remedy for diabetes and its complications;
+    this traditional antidiabetic use is now the most scientifically supported of its properties, with
+    numerous studies on its blood-glucose- and lipid-lowering effects.
+  reference_ids:
+  - REF-0412
+  - REF-1216
+  status: verified
+preparations:
+- name: Fresh fruit / juice
+  text: The unripe fruit eaten cooked as a vegetable or juiced fresh - the traditional food-medicine form
+    used for blood-sugar support.
+  reference_ids:
+  - REF-0412
+  status: verified
+- name: Dried fruit tea
+  text: Dried fruit slices infused in hot water.
+  status: draft
+- name: Standardised extract capsule
+  text: Encapsulated dry fruit extract, the form used in clinical trials for blood-sugar support.
+  reference_ids:
+  - REF-1213
+  - REF-1216
+  status: verified
+dosage:
+- name: Fruit extract / juice
+  text: Clinical trials studying bitter melon for blood-sugar support have used standardised fruit extract
+    or juice preparations taken daily over several weeks; dosing varies by product. Because it can lower
+    blood glucose, monitor levels closely if combining with diabetes medication. Educational reference
+    only, not a prescription.
+  reference_ids:
+  - REF-1213
+  - REF-1216
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Antioxidant and anti-inflammatory
@@ -159,7 +227,9 @@ references:
 drug_class_interactions:
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Bitter melon has a blood-sugar-lowering effect (a meta-analysis of randomised trials in type 2 diabetes found reduced fasting glucose and HbA1c), so combining it with diabetes medicines may increase the risk of hypoglycaemia; monitor blood glucose.'
+  mechanism: Bitter melon has a blood-sugar-lowering effect (a meta-analysis of randomised trials in type
+    2 diabetes found reduced fasting glucose and HbA1c), so combining it with diabetes medicines may increase
+    the risk of hypoglycaemia; monitor blood glucose.
   reference_ids:
   - REF-2450
   - REF-2528
@@ -172,11 +242,15 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   and Int J Mol Sci reviews; WebMD safety monograph). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (blood-sugar, indigestion); associations retained and now part-mapped and
   cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
   @article sources (REF-1213, REF-1214, REF-1215, REF-1216, REF-1217, REF-1218, REF-1219, REF-1220, REF-1221,
-  REF-1222) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1222) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields;
+  botanical_description is status:draft (well-known general morphology, no dedicated botanical review
+  in the largely-clinical bucket), other fields cite the existing REF-0412 phytochemistry/safety review
+  and antidiabetic trial reviews.'

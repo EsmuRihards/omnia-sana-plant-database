@@ -9,6 +9,114 @@ wp_post_id: 155
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: Perennial herb, 30-90 cm tall, a sterile natural hybrid (Mentha aquatica x M. spicata) that spreads
+    by rhizomes and surface stolons rather than viable seed. Stems are square, often purple-tinged. Leaves
+    are opposite, lance-shaped to ovate with a sharply toothed margin, and release a strong menthol scent
+    when crushed. Small, pale purple flowers are borne in dense, interrupted terminal spikes.
+  height: 30-90 cm
+  habit: Rhizomatous, mat-forming perennial herb, sterile hybrid
+  leaves: Opposite, lance-shaped to ovate, sharply toothed, strongly menthol-scented
+  flowers: Small, pale purple, in dense interrupted terminal spikes
+  stem: Square, often purple-tinged
+  root: Spreading rhizomes and surface stolons
+  fruit: Rarely sets seed (sterile hybrid); propagated vegetatively
+  flowering_period: July-September
+  reference_ids:
+  - REF-1204
+  status: verified
+habitat:
+  text: A cultivated hybrid grown worldwide as a crop and garden herb, propagated vegetatively since it
+    rarely sets viable seed; naturalised in damp ground - streambanks, ditches and waste places - in temperate
+    regions.
+  reference_ids:
+  - REF-1204
+  status: verified
+harvesting:
+  text: Aerial parts are cut at or just before full flowering (mid- to late summer), when the essential-oil
+    (menthol) content peaks, then dried quickly out of direct sun, or distilled fresh for essential oil.
+  parts:
+  - Leaf
+  - Flowering tops
+  season: Mid- to late summer, at or just before flowering
+  reference_ids:
+  - REF-1205
+  status: verified
+traditional_uses:
+  text: Peppermint has one of the best-documented traditional uses of any herb - as a carminative and
+    antispasmodic for indigestion, bloating and colic. Enteric-coated peppermint oil capsules are among
+    the most clinically validated herbal treatments for irritable bowel syndrome, and topical or inhaled
+    peppermint oil is traditionally and clinically used for tension-type headache and muscular aches.
+  reference_ids:
+  - REF-1203
+  - REF-1204
+  - REF-1206
+  - REF-1207
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water, the classic digestive tea.
+  reference_ids:
+  - REF-1203
+  status: verified
+- name: Enteric-coated oil capsules
+  text: Standardised peppermint oil in enteric-coated capsules, the clinically studied form for irritable
+    bowel syndrome, releasing the oil in the intestine rather than the stomach.
+  reference_ids:
+  - REF-1206
+  - REF-0004
+  - REF-0100
+  - REF-0163
+  status: verified
+- name: Essential oil (topical)
+  text: Diluted essential oil applied to the temples and neck for tension-type headache.
+  reference_ids:
+  - REF-1207
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the leaf.
+  status: draft
+dosage:
+- name: Enteric-coated oil capsules
+  text: 'Duke (2002) and Commission E guidance: about 0.6 mL enteric-coated oil two to three times daily
+    between meals for IBS-type digestive complaints. Educational reference only, not a prescription.'
+  reference_ids:
+  - REF-0004
+  - REF-0100
+  - REF-0163
+  status: verified
+- name: Dried leaf infusion
+  text: 'Traditional guidance: about 1.5-3 g dried leaf as a tea, up to three times daily for digestive
+    complaints. Educational reference only, not a prescription.'
+  reference_ids:
+  - REF-0004
+  - REF-0100
+  - REF-0163
+  status: verified
+constituents:
+- name: Essential oil (menthol, menthone)
+  compounds:
+  - essential-oil
+  - menthol
+  - terpene
+  note: Menthol is the dominant constituent of the leaf oil, responsible for the cooling sensation and
+    much of the antispasmodic and analgesic activity.
+  reference_ids:
+  - REF-1205
+- name: Rosmarinic acid and flavonoids (eriocitrin, luteolin)
+  compounds:
+  - rosmarinic-acid
+  - flavonoid
+  - luteolin
+  note: Phenolic antioxidants of the leaf.
+  reference_ids:
+  - REF-1211
+- name: Tannins
+  compounds:
+  - tannin
+  note: Contribute mild astringency.
+  reference_ids:
+  - REF-1204
 actions:
 - action: analgesic
   reference_ids:
@@ -197,7 +305,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -205,4 +313,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1203, REF-1204, REF-1205, REF-1206, REF-1207,
   REF-1208, REF-1209, REF-1210, REF-1211, REF-1212) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing ethnomedicinal/phytochemical reviews (REF-1203, REF-1204,
+  REF-1205, REF-1206) plus the Duke-sourced dosage already cited in contraindications.'

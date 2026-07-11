@@ -8,6 +8,115 @@ family: Lamiaceae
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: Perennial herb, 30-70 (up to 150) cm tall, with square, branched, hairy stems typical of the mint
+    family. Leaves are opposite, ovate to heart-shaped with a toothed margin, wrinkled and softly hairy,
+    releasing a strong lemon scent when crushed. Small, pale yellow to white, two-lipped flowers are borne
+    in loose whorls in the leaf axils. The fruit splits into four small nutlets.
+  height: 30-70 (up to 150) cm
+  habit: Erect, bushy perennial herb
+  leaves: Opposite, ovate to heart-shaped, toothed, wrinkled, lemon-scented when crushed
+  flowers: Small, pale yellow to white, two-lipped, in loose axillary whorls
+  stem: Square, branched, hairy
+  root: Fibrous, spreading perennial rootstock
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: June-August
+  reference_ids:
+  - REF-1198
+  status: verified
+habitat:
+  text: Native to southern Europe, the Mediterranean and western Asia, widely cultivated and naturalised
+    in gardens, hedgebanks and waste ground across temperate regions, favouring sunny to lightly shaded,
+    well-drained soils.
+  reference_ids:
+  - REF-1198
+  status: verified
+harvesting:
+  text: Leaves and flowering tops are cut just before or at the start of flowering (summer), when the
+    volatile-oil content is highest, and dried quickly at low temperature away from direct light, since
+    the aromatic oil is heat- and light-sensitive.
+  parts:
+  - Leaf
+  - Flowering tops
+  season: Summer, just before or at flowering
+  reference_ids:
+  - REF-1198
+  status: verified
+traditional_uses:
+  text: Lemon balm has a long European tradition as a calming, 'cheering' herb for nervous tension, poor
+    sleep and mild anxiety, and as a carminative for indigestion, bloating and cramping; topically it
+    has traditionally been applied to cold sores. Modern clinical trials support anxiolytic and mood-related
+    benefits and antiviral activity against herpes simplex virus, consistent with these traditional uses.
+  reference_ids:
+  - REF-1198
+  - REF-1196
+  - REF-1201
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water, the classic way of taking lemon balm for calming and digestive
+    support.
+  reference_ids:
+  - REF-1198
+  status: verified
+- name: Standardised extract capsule
+  text: Encapsulated dry extract, the form used in clinical trials studying lemon balm for anxiety and
+    mood; follow product-specific dosing.
+  reference_ids:
+  - REF-1193
+  - REF-1194
+  status: verified
+- name: Topical cream
+  text: Concentrated leaf extract cream applied to cold sores (herpes labialis) at the earliest sign of
+    an outbreak.
+  reference_ids:
+  - REF-1200
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the fresh or dried leaf.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Traditional herbal guidance suggests roughly 1.5-4.5 g dried leaf per cup, as an infusion up to
+    three times daily. Educational reference only, not a prescription; Duke (2002) has no dedicated dosing
+    entry for lemon balm.
+  status: draft
+- name: Standardised extract
+  text: Clinical trials for anxiety and mood have used standardised dry-extract capsules; dosing varies
+    by product concentration, so follow the manufacturer's guidance. Educational reference only, not a
+    prescription.
+  reference_ids:
+  - REF-1193
+  - REF-1194
+  status: verified
+constituents:
+- name: Rosmarinic acid and phenolic acids
+  compounds:
+  - rosmarinic-acid
+  note: The principal phenolic acid of lemon balm, associated with much of its antioxidant and antiviral
+    activity.
+  reference_ids:
+  - REF-1196
+  - REF-1198
+- name: Essential oil (citral, citronellal)
+  compounds:
+  - essential-oil
+  - citral
+  note: The volatile oil (geranial and neral, together called citral, plus citronellal) gives the characteristic
+    lemon scent and has demonstrated anxiolytic activity.
+  reference_ids:
+  - REF-1202
+  - REF-1196
+- name: Flavonoids
+  compounds:
+  - flavonoid
+  note: Contribute to the antioxidant activity of the leaf.
+  reference_ids:
+  - REF-1196
+- name: Triterpenic acids (ursolic acid, oleanolic acid)
+  note: Minor constituents studied for anti-inflammatory activity.
+  reference_ids:
+  - REF-1196
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -166,7 +275,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Lemon balm has calming, sedative effects (a randomised controlled trial found it reduces anxiety, stress and sleep disturbance); taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Lemon balm has calming, sedative effects (a randomised controlled trial found it reduces
+    anxiety, stress and sleep disturbance); taken with sedatives, sleeping tablets or other central-nervous-system
+    depressants (including alcohol) it may add to drowsiness and slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -177,7 +288,8 @@ drug_class_interactions:
 pairings:
 - partner_id: passiflora-incarnata
   type: synergy
-  note: 'Lemon balm and passionflower are both gentle, GABA-acting calming herbs often blended together in anti-anxiety and sleep formulas; combined use may deepen relaxation but also add to drowsiness.'
+  note: Lemon balm and passionflower are both gentle, GABA-acting calming herbs often blended together
+    in anti-anxiety and sleep formulas; combined use may deepen relaxation but also add to drowsiness.
   reference_ids:
   - REF-2459
   - REF-2460
@@ -190,7 +302,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -198,4 +310,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1193, REF-1194, REF-1195, REF-1196, REF-1197,
   REF-1198, REF-1199, REF-1200, REF-1201, REF-1202) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing ethnopharmacology/pharmacology reviews (REF-1196, REF-1198,
+  REF-1201).'

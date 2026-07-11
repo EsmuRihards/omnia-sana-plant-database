@@ -34541,6 +34541,139 @@
     "Flower",
     "Leaf"
    ],
+   "botanical_description": {
+    "text": "Perennial herb, 30-70 (up to 150) cm tall, with square, branched, hairy stems typical of the mint family. Leaves are opposite, ovate to heart-shaped with a toothed margin, wrinkled and softly hairy, releasing a strong lemon scent when crushed. Small, pale yellow to white, two-lipped flowers are borne in loose whorls in the leaf axils. The fruit splits into four small nutlets.",
+    "height": "30-70 (up to 150) cm",
+    "habit": "Erect, bushy perennial herb",
+    "leaves": "Opposite, ovate to heart-shaped, toothed, wrinkled, lemon-scented when crushed",
+    "flowers": "Small, pale yellow to white, two-lipped, in loose axillary whorls",
+    "stem": "Square, branched, hairy",
+    "root": "Fibrous, spreading perennial rootstock",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-1198"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to southern Europe, the Mediterranean and western Asia, widely cultivated and naturalised in gardens, hedgebanks and waste ground across temperate regions, favouring sunny to lightly shaded, well-drained soils.",
+    "reference_ids": [
+     "REF-1198"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves and flowering tops are cut just before or at the start of flowering (summer), when the volatile-oil content is highest, and dried quickly at low temperature away from direct light, since the aromatic oil is heat- and light-sensitive.",
+    "parts": [
+     "Leaf",
+     "Flowering tops"
+    ],
+    "season": "Summer, just before or at flowering",
+    "reference_ids": [
+     "REF-1198"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Lemon balm has a long European tradition as a calming, 'cheering' herb for nervous tension, poor sleep and mild anxiety, and as a carminative for indigestion, bloating and cramping; topically it has traditionally been applied to cold sores. Modern clinical trials support anxiolytic and mood-related benefits and antiviral activity against herpes simplex virus, consistent with these traditional uses.",
+    "reference_ids": [
+     "REF-1198",
+     "REF-1196",
+     "REF-1201"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped in hot water, the classic way of taking lemon balm for calming and digestive support.",
+     "reference_ids": [
+      "REF-1198"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract capsule",
+     "text": "Encapsulated dry extract, the form used in clinical trials studying lemon balm for anxiety and mood; follow product-specific dosing.",
+     "reference_ids": [
+      "REF-1193",
+      "REF-1194"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Topical cream",
+     "text": "Concentrated leaf extract cream applied to cold sores (herpes labialis) at the earliest sign of an outbreak.",
+     "reference_ids": [
+      "REF-1200"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the fresh or dried leaf.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Traditional herbal guidance suggests roughly 1.5-4.5 g dried leaf per cup, as an infusion up to three times daily. Educational reference only, not a prescription; Duke (2002) has no dedicated dosing entry for lemon balm.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for anxiety and mood have used standardised dry-extract capsules; dosing varies by product concentration, so follow the manufacturer's guidance. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-1193",
+      "REF-1194"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Rosmarinic acid and phenolic acids",
+     "compounds": [
+      "rosmarinic-acid"
+     ],
+     "note": "The principal phenolic acid of lemon balm, associated with much of its antioxidant and antiviral activity.",
+     "reference_ids": [
+      "REF-1196",
+      "REF-1198"
+     ]
+    },
+    {
+     "name": "Essential oil (citral, citronellal)",
+     "compounds": [
+      "essential-oil",
+      "citral"
+     ],
+     "note": "The volatile oil (geranial and neral, together called citral, plus citronellal) gives the characteristic lemon scent and has demonstrated anxiolytic activity.",
+     "reference_ids": [
+      "REF-1202",
+      "REF-1196"
+     ]
+    },
+    {
+     "name": "Flavonoids",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Contribute to the antioxidant activity of the leaf.",
+     "reference_ids": [
+      "REF-1196"
+     ]
+    },
+    {
+     "name": "Triterpenic acids (ursolic acid, oleanolic acid)",
+     "note": "Minor constituents studied for anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1196"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -34808,7 +34941,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "lemon-balm"
   },
   {
@@ -34824,6 +34957,142 @@
    "parts_used": [
     "Flower",
     "Leaf"
+   ],
+   "botanical_description": {
+    "text": "Perennial herb, 30-90 cm tall, a sterile natural hybrid (Mentha aquatica x M. spicata) that spreads by rhizomes and surface stolons rather than viable seed. Stems are square, often purple-tinged. Leaves are opposite, lance-shaped to ovate with a sharply toothed margin, and release a strong menthol scent when crushed. Small, pale purple flowers are borne in dense, interrupted terminal spikes.",
+    "height": "30-90 cm",
+    "habit": "Rhizomatous, mat-forming perennial herb, sterile hybrid",
+    "leaves": "Opposite, lance-shaped to ovate, sharply toothed, strongly menthol-scented",
+    "flowers": "Small, pale purple, in dense interrupted terminal spikes",
+    "stem": "Square, often purple-tinged",
+    "root": "Spreading rhizomes and surface stolons",
+    "fruit": "Rarely sets seed (sterile hybrid); propagated vegetatively",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-1204"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A cultivated hybrid grown worldwide as a crop and garden herb, propagated vegetatively since it rarely sets viable seed; naturalised in damp ground - streambanks, ditches and waste places - in temperate regions.",
+    "reference_ids": [
+     "REF-1204"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Aerial parts are cut at or just before full flowering (mid- to late summer), when the essential-oil (menthol) content peaks, then dried quickly out of direct sun, or distilled fresh for essential oil.",
+    "parts": [
+     "Leaf",
+     "Flowering tops"
+    ],
+    "season": "Mid- to late summer, at or just before flowering",
+    "reference_ids": [
+     "REF-1205"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Peppermint has one of the best-documented traditional uses of any herb - as a carminative and antispasmodic for indigestion, bloating and colic. Enteric-coated peppermint oil capsules are among the most clinically validated herbal treatments for irritable bowel syndrome, and topical or inhaled peppermint oil is traditionally and clinically used for tension-type headache and muscular aches.",
+    "reference_ids": [
+     "REF-1203",
+     "REF-1204",
+     "REF-1206",
+     "REF-1207"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped in hot water, the classic digestive tea.",
+     "reference_ids": [
+      "REF-1203"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Enteric-coated oil capsules",
+     "text": "Standardised peppermint oil in enteric-coated capsules, the clinically studied form for irritable bowel syndrome, releasing the oil in the intestine rather than the stomach.",
+     "reference_ids": [
+      "REF-1206",
+      "REF-0004",
+      "REF-0100",
+      "REF-0163"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (topical)",
+     "text": "Diluted essential oil applied to the temples and neck for tension-type headache.",
+     "reference_ids": [
+      "REF-1207"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the leaf.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Enteric-coated oil capsules",
+     "text": "Duke (2002) and Commission E guidance: about 0.6 mL enteric-coated oil two to three times daily between meals for IBS-type digestive complaints. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0004",
+      "REF-0100",
+      "REF-0163"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Dried leaf infusion",
+     "text": "Traditional guidance: about 1.5-3 g dried leaf as a tea, up to three times daily for digestive complaints. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0004",
+      "REF-0100",
+      "REF-0163"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (menthol, menthone)",
+     "compounds": [
+      "essential-oil",
+      "menthol",
+      "terpene"
+     ],
+     "note": "Menthol is the dominant constituent of the leaf oil, responsible for the cooling sensation and much of the antispasmodic and analgesic activity.",
+     "reference_ids": [
+      "REF-1205"
+     ]
+    },
+    {
+     "name": "Rosmarinic acid and flavonoids (eriocitrin, luteolin)",
+     "compounds": [
+      "rosmarinic-acid",
+      "flavonoid",
+      "luteolin"
+     ],
+     "note": "Phenolic antioxidants of the leaf.",
+     "reference_ids": [
+      "REF-1211"
+     ]
+    },
+    {
+     "name": "Tannins",
+     "compounds": [
+      "tannin"
+     ],
+     "note": "Contribute mild astringency.",
+     "reference_ids": [
+      "REF-1204"
+     ]
+    }
    ],
    "actions": [
     {
@@ -35098,7 +35367,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "peppermint"
   },
   {
@@ -35149,6 +35418,80 @@
      "reference_ids": [
       "REF-0414"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Climbing or trailing annual vine (Cucurbitaceae) that climbs by simple tendrils, typically 2-5 m long. Leaves are alternate, long-stalked and palmately lobed with 5-7 deep, toothed lobes. Flowers are small, yellow and five-petalled, male and female flowers separate on the same plant. The fruit is an oblong, warty-skinned gourd that ripens from green to orange-yellow and splits open to reveal seeds coated in a bright red aril; the unripe green fruit is the part used medicinally and as food.",
+    "height": "2-5 m (climbing/trailing vine)",
+    "habit": "Climbing or trailing annual vine, tendril-bearing",
+    "leaves": "Alternate, long-stalked, palmately 5-7-lobed with toothed margins",
+    "flowers": "Small, yellow, five-petalled, male and female separate on the same plant",
+    "stem": "Slender, climbing by simple tendrils",
+    "root": "Fibrous annual root system",
+    "fruit": "Oblong, warty-skinned gourd, green ripening to orange-yellow, splitting to reveal red-arilled seeds",
+    "flowering_period": "Summer, through the growing season in warm climates",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Likely native to tropical Asia (possibly the Indian subcontinent), now widely cultivated across tropical and subtropical Asia, Africa, the Caribbean and increasingly the Americas as a vegetable and medicinal crop; needs warmth, full sun and a trellis or support to climb.",
+    "reference_ids": [
+     "REF-0412"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The fruit is harvested unripe, while still green and firm, before it yellows and splits, for use as a vegetable and in traditional antidiabetic preparations; leaves are also traditionally gathered.",
+    "parts": [
+     "Fruit (unripe)",
+     "Leaf"
+    ],
+    "season": "Unripe fruit throughout the growing season",
+    "reference_ids": [
+     "REF-0412"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Bitter melon has a long history in Asian, African and Caribbean traditional medicine as a bitter digestive tonic and mild laxative, and most notably as a remedy for diabetes and its complications; this traditional antidiabetic use is now the most scientifically supported of its properties, with numerous studies on its blood-glucose- and lipid-lowering effects.",
+    "reference_ids": [
+     "REF-0412",
+     "REF-1216"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh fruit / juice",
+     "text": "The unripe fruit eaten cooked as a vegetable or juiced fresh - the traditional food-medicine form used for blood-sugar support.",
+     "reference_ids": [
+      "REF-0412"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Dried fruit tea",
+     "text": "Dried fruit slices infused in hot water.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract capsule",
+     "text": "Encapsulated dry fruit extract, the form used in clinical trials for blood-sugar support.",
+     "reference_ids": [
+      "REF-1213",
+      "REF-1216"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Fruit extract / juice",
+     "text": "Clinical trials studying bitter melon for blood-sugar support have used standardised fruit extract or juice preparations taken daily over several weeks; dosing varies by product. Because it can lower blood glucose, monitor levels closely if combining with diabetes medication. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-1213",
+      "REF-1216"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -35370,7 +35713,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "bitter-melon"
   },
   {
@@ -35386,6 +35729,132 @@
     "Fruit",
     "Leaf",
     "Root"
+   ],
+   "botanical_description": {
+    "text": "Small evergreen tree or shrub (Rubiaceae), 3-10 m tall, with large, glossy, dark green, elliptical leaves marked by prominent parallel veins. Small, white, tubular, fragrant flowers are borne in dense rounded heads, developing into a compound fleshy fruit (syncarp) that is warty, semi-translucent and yellow-white when ripe, with a strong, pungent, cheese-like odour.",
+    "height": "3-10 m",
+    "habit": "Small evergreen tree or shrub",
+    "leaves": "Large, glossy, dark green, elliptical, prominently veined",
+    "flowers": "Small, white, tubular, fragrant, in dense rounded heads",
+    "stem": "Woody, branching",
+    "root": "Woody taproot with lateral roots",
+    "fruit": "Compound fleshy syncarp, warty and semi-translucent, yellow-white when ripe, pungent cheese-like odour",
+    "flowering_period": "Year-round in tropical climates, with peak flushes seasonally",
+    "reference_ids": [
+     "REF-1417"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Southeast Asia and Australasia, and dispersed across the Pacific islands and into India and the Caribbean by early Polynesian voyagers and subsequent cultivation; grows in coastal areas, open and disturbed forest, and even on bare lava flows, tolerating poor, saline and drought-prone soils.",
+    "reference_ids": [
+     "REF-1417",
+     "REF-1422"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Ripe fruit is hand-picked as it softens and turns yellow-white, then traditionally left to further ripen or ferment for juice production; leaves and root are also traditionally gathered.",
+    "parts": [
+     "Fruit",
+     "Leaf",
+     "Root"
+    ],
+    "season": "Fruit harvested as it ripens, largely year-round in the tropics",
+    "reference_ids": [
+     "REF-1422"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Noni has an extensive Polynesian, South Asian and Southeast Asian traditional-medicine history, used as a broad-spectrum tonic for pain, inflammation, infection and immune support, and traditionally for diabetes and skin complaints. The fermented fruit juice is the most widely used modern preparation, now studied for antioxidant, anti-inflammatory, immunomodulatory and metabolic effects supporting several of these traditional uses.",
+    "reference_ids": [
+     "REF-1417",
+     "REF-1422"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fermented fruit juice",
+     "text": "The classic Polynesian preparation: ripe fruit fermented in sealed containers for several weeks, then strained; the most-studied modern form.",
+     "reference_ids": [
+      "REF-1421",
+      "REF-1422"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Fresh fruit",
+     "text": "Ripe or unripe fruit eaten as food (and historically as a famine food) in some Pacific cultures.",
+     "status": "draft"
+    },
+    {
+     "name": "Leaf preparation",
+     "text": "Leaves used traditionally as a poultice for wounds and skin complaints, or infused as a tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Root preparation",
+     "text": "Root traditionally used as a source of yellow/red dye and in folk medicine.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Fermented fruit juice",
+     "text": "Commercial noni juice is typically taken in modest daily amounts (a few tablespoons); given rare reports of hepatotoxicity with excessive or prolonged intake, avoid high doses, especially with pre-existing liver disease. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0110",
+      "REF-0197",
+      "REF-0303"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Iridoids (asperulosidic acid and related iridoid glycosides)",
+     "compounds": [
+      "iridoid-glycoside"
+     ],
+     "note": "A major phytochemical class of noni fruit and leaf, studied for antioxidant and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1417",
+      "REF-1422"
+     ]
+    },
+    {
+     "name": "Anthraquinones (damnacanthal and related compounds)",
+     "compounds": [
+      "anthraquinone"
+     ],
+     "note": "Found mainly in the root and, at lower levels, the fruit; studied for anticancer and antimicrobial activity.",
+     "reference_ids": [
+      "REF-1417",
+      "REF-1418"
+     ]
+    },
+    {
+     "name": "Polysaccharides",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Fruit polysaccharides studied for gut-microbiota-modulating and anti-inflammatory effects in animal models of inflammatory bowel disease.",
+     "reference_ids": [
+      "REF-1424"
+     ]
+    },
+    {
+     "name": "Scopoletin (coumarin)",
+     "compounds": [
+      "coumarin"
+     ],
+     "note": "A phenolic coumarin found in the fruit, studied for anti-inflammatory and vascular effects.",
+     "reference_ids": [
+      "REF-1417"
+     ]
+    }
    ],
    "actions": [
     {
@@ -35649,7 +36118,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "noni"
   },
   {
@@ -35666,6 +36135,112 @@
     "Leaf",
     "Stem",
     "Whole Plant"
+   ],
+   "botanical_description": {
+    "text": "Perennial herb, 30-100 cm tall, with greyish-green, downy, square stems typical of the mint family. Leaves are opposite, triangular-ovate with scalloped or toothed margins, grey-green above and softly felted (whitish) beneath, releasing a minty-lemony aroma when crushed. Small white flowers, spotted with purple or pink, are borne in dense terminal and axillary spikes. Nepetalactone, the volatile compound famous for its effect on cats, is concentrated in glandular hairs on the leaves and stems.",
+    "height": "30-100 cm",
+    "habit": "Erect, bushy, greyish-downy perennial herb",
+    "leaves": "Opposite, triangular-ovate, scalloped/toothed, felted white beneath",
+    "flowers": "Small, white with purple/pink spotting, in dense terminal and axillary spikes",
+    "stem": "Square, greyish-green, downy",
+    "root": "Fibrous perennial rootstock",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0938"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe and temperate Asia and widely naturalised in North America; grows on disturbed, sunny ground - roadsides, waste places, hedgebanks and dry, calcareous or well-drained soils.",
+    "reference_ids": [
+     "REF-0938"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts (leaf, stem and flower) are cut at or just before flowering (summer), when volatile nepetalactone content is highest, and dried quickly out of direct light.",
+    "parts": [
+     "Leaf",
+     "Stem",
+     "Flower"
+    ],
+    "season": "Summer, at or just before flowering",
+    "reference_ids": [
+     "REF-0938",
+     "REF-0931"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Catnip has a long North American and European folk-medicine history as a mild sedative/nervine, diaphoretic (fever-reducing, sweat-promoting) remedy, carminative digestive and traditional emmenagogue; it was also given as a children's tea for colic and restlessness, though large amounts are not advised for young children and it is traditionally avoided in pregnancy.",
+    "reference_ids": [
+     "REF-0938"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried aerial parts steeped in hot water as a traditional calming, digestive tea.",
+     "reference_ids": [
+      "REF-0938"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried aerial parts.",
+     "status": "draft"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the aerial parts; used mainly as a natural insect repellent (nepetalactone) rather than taken internally.",
+     "reference_ids": [
+      "REF-0935"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Traditional herbal guidance suggests a mild infusion of the dried aerial parts, up to a few cups daily for adults. Keep away from toddlers/young children beyond very small amounts and avoid medicinal-dose use in pregnancy. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Iridoid monoterpenes (nepetalactone)",
+     "compounds": [
+      "terpene"
+     ],
+     "note": "The characteristic volatile iridoid responsible for the cat-attractant effect and studied for sedative, antimicrobial and insect-repellent activity.",
+     "reference_ids": [
+      "REF-0931",
+      "REF-0935"
+     ]
+    },
+    {
+     "name": "Essential oil",
+     "compounds": [
+      "essential-oil"
+     ],
+     "note": "Rich in nepetalactone isomers along with other monoterpenes; studied for antimicrobial and antioxidant activity.",
+     "reference_ids": [
+      "REF-0934"
+     ]
+    },
+    {
+     "name": "Flavonoids",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Contribute to the antioxidant activity of the aerial parts.",
+     "reference_ids": [
+      "REF-0932"
+     ]
+    }
    ],
    "actions": [
     {
@@ -35877,7 +36452,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "catnip"
   },
   {

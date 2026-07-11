@@ -9,6 +9,110 @@ parts_used:
 - Fruit
 - Leaf
 - Root
+botanical_description:
+  text: Small evergreen tree or shrub (Rubiaceae), 3-10 m tall, with large, glossy, dark green, elliptical
+    leaves marked by prominent parallel veins. Small, white, tubular, fragrant flowers are borne in dense
+    rounded heads, developing into a compound fleshy fruit (syncarp) that is warty, semi-translucent and
+    yellow-white when ripe, with a strong, pungent, cheese-like odour.
+  height: 3-10 m
+  habit: Small evergreen tree or shrub
+  leaves: Large, glossy, dark green, elliptical, prominently veined
+  flowers: Small, white, tubular, fragrant, in dense rounded heads
+  stem: Woody, branching
+  root: Woody taproot with lateral roots
+  fruit: Compound fleshy syncarp, warty and semi-translucent, yellow-white when ripe, pungent cheese-like
+    odour
+  flowering_period: Year-round in tropical climates, with peak flushes seasonally
+  reference_ids:
+  - REF-1417
+  status: verified
+habitat:
+  text: Native to Southeast Asia and Australasia, and dispersed across the Pacific islands and into India
+    and the Caribbean by early Polynesian voyagers and subsequent cultivation; grows in coastal areas,
+    open and disturbed forest, and even on bare lava flows, tolerating poor, saline and drought-prone
+    soils.
+  reference_ids:
+  - REF-1417
+  - REF-1422
+  status: verified
+harvesting:
+  text: Ripe fruit is hand-picked as it softens and turns yellow-white, then traditionally left to further
+    ripen or ferment for juice production; leaves and root are also traditionally gathered.
+  parts:
+  - Fruit
+  - Leaf
+  - Root
+  season: Fruit harvested as it ripens, largely year-round in the tropics
+  reference_ids:
+  - REF-1422
+  status: verified
+traditional_uses:
+  text: Noni has an extensive Polynesian, South Asian and Southeast Asian traditional-medicine history,
+    used as a broad-spectrum tonic for pain, inflammation, infection and immune support, and traditionally
+    for diabetes and skin complaints. The fermented fruit juice is the most widely used modern preparation,
+    now studied for antioxidant, anti-inflammatory, immunomodulatory and metabolic effects supporting
+    several of these traditional uses.
+  reference_ids:
+  - REF-1417
+  - REF-1422
+  status: verified
+preparations:
+- name: Fermented fruit juice
+  text: 'The classic Polynesian preparation: ripe fruit fermented in sealed containers for several weeks,
+    then strained; the most-studied modern form.'
+  reference_ids:
+  - REF-1421
+  - REF-1422
+  status: verified
+- name: Fresh fruit
+  text: Ripe or unripe fruit eaten as food (and historically as a famine food) in some Pacific cultures.
+  status: draft
+- name: Leaf preparation
+  text: Leaves used traditionally as a poultice for wounds and skin complaints, or infused as a tea.
+  status: draft
+- name: Root preparation
+  text: Root traditionally used as a source of yellow/red dye and in folk medicine.
+  status: draft
+dosage:
+- name: Fermented fruit juice
+  text: Commercial noni juice is typically taken in modest daily amounts (a few tablespoons); given rare
+    reports of hepatotoxicity with excessive or prolonged intake, avoid high doses, especially with pre-existing
+    liver disease. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0110
+  - REF-0197
+  - REF-0303
+  status: draft
+constituents:
+- name: Iridoids (asperulosidic acid and related iridoid glycosides)
+  compounds:
+  - iridoid-glycoside
+  note: A major phytochemical class of noni fruit and leaf, studied for antioxidant and anti-inflammatory
+    activity.
+  reference_ids:
+  - REF-1417
+  - REF-1422
+- name: Anthraquinones (damnacanthal and related compounds)
+  compounds:
+  - anthraquinone
+  note: Found mainly in the root and, at lower levels, the fruit; studied for anticancer and antimicrobial
+    activity.
+  reference_ids:
+  - REF-1417
+  - REF-1418
+- name: Polysaccharides
+  compounds:
+  - polysaccharide
+  note: Fruit polysaccharides studied for gut-microbiota-modulating and anti-inflammatory effects in animal
+    models of inflammatory bowel disease.
+  reference_ids:
+  - REF-1424
+- name: Scopoletin (coumarin)
+  compounds:
+  - coumarin
+  note: A phenolic coumarin found in the fruit, studied for anti-inflammatory and vascular effects.
+  reference_ids:
+  - REF-1417
 actions:
 - action: analgesic
   reference_ids:
@@ -186,7 +290,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -194,4 +298,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1417, REF-1418, REF-1419, REF-1420, REF-1421,
   REF-1422, REF-1423, REF-1424, REF-1425, REF-1426) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing phytochemistry/safety review (REF-1417) and applications
+  review (REF-1422).'

@@ -31,6 +31,71 @@ constituents:
   note: Antimicrobial and antioxidant constituents.
   reference_ids:
   - REF-0477
+botanical_description:
+  text: Biennial herb closely related to greater burdock, forming a first-year rosette of large, heart-shaped,
+    long-stalked leaves, green above and grey-woolly beneath, generally smaller than Arctium lappa. In
+    the second year it produces a branching flowering stem with smaller purple thistle-like flower heads
+    in a looser, more sprawling habit, each enclosed in a globe of hooked bracts that ripen into clinging
+    burrs.
+  height: 0.5-1.5 m (flowering stem, second year)
+  habit: Biennial herb; first-year rosette, sprawling branched second-year stem
+  leaves: Large, heart-shaped, long-stalked, green above and grey-woolly beneath (smaller than A. lappa)
+  flowers: Smaller purple thistle-like flower heads in a looser, sprawling arrangement, enclosed in hooked
+    bracts
+  stem: Branching, more sprawling than A. lappa (second year only)
+  root: Long, fleshy first-year taproot ('wild rhubarb')
+  fruit: Bristly, hooked burr enclosing small achenes
+  flowering_period: July-September (second year)
+  reference_ids:
+  - REF-0476
+  status: verified
+habitat:
+  text: A common weed of waste ground, roadsides, hedgerows and disturbed soil; native to Europe and widely
+    naturalised in North America, where it is often the most common wild burdock species.
+  reference_ids:
+  - REF-0476
+  status: verified
+harvesting:
+  text: The root is dug at the end of the first growing season or early in the second spring, before flowering;
+    leaf may be gathered through the first year. Careful identification against deadly nightshade, whose
+    root can resemble burdock, is essential before digging.
+  parts:
+  - Root (and leaf)
+  season: End of year one or start of year two, before flowering
+  reference_ids:
+  - REF-0476
+  status: verified
+traditional_uses:
+  text: Lesser burdock is used interchangeably with the better-studied Arctium lappa in Western herbal
+    medicine, as a traditional alterative/depurative for chronic skin conditions such as eczema, psoriasis
+    and acne, and as a mild diuretic supporting elimination.
+  reference_ids:
+  - REF-0476
+  - REF-0477
+  status: verified
+preparations:
+- name: Decoction (root)
+  text: Dried or fresh root simmered in water as a traditional alterative and skin-support decoction.
+  reference_ids:
+  - REF-0476
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried root, typically around 1:5.
+  status: draft
+- name: Topical wash
+  text: Cooled decoction used as a topical wash for eczema, acne and other skin irritation, reflecting
+    the traditional external alterative use.
+  reference_ids:
+  - REF-0476
+  status: draft
+dosage:
+- name: Root decoction
+  text: Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+- name: Tincture (1:5)
+  text: About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: alterative
   note: Traditional 'alterative' / depurative for chronic skin conditions - eczema, psoriasis, acne and
@@ -162,13 +227,32 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: atropa-belladonna
   severity: fatal
-  confused_part: First-year taproots dug for use as food or 'burdock root tea'; the root of deadly nightshade closely resembles a burdock root and the two grow as weeds in the same rough ground.
-  confusion_context: 'Lesser burdock (Arctium minus) is dug for its long first-year taproot, used as a vegetable and as ''burdock root tea.'' Deadly nightshade (Atropa belladonna) grows as a weed in the same disturbed ground and its root closely resembles a burdock root, so belladonna root can be gathered or processed in mistake for burdock. This has caused real poisonings: a JAMA case report (Bryson et al., 1978) describes atropine poisoning from a commercial burdock root tea, and belladonna-contaminated herbal teas have caused severe anticholinergic poisoning from as little as a few milligrams of atropine. Belladonna contains tropane alkaloids (atropine, hyoscyamine, scopolamine); poisoning causes dry flushed skin, widely dilated pupils, blurred vision, fever, a racing heart, agitation, hallucinations, seizures and can be fatal, especially in children.'
+  confused_part: First-year taproots dug for use as food or 'burdock root tea'; the root of deadly nightshade
+    closely resembles a burdock root and the two grow as weeds in the same rough ground.
+  confusion_context: 'Lesser burdock (Arctium minus) is dug for its long first-year taproot, used as a
+    vegetable and as ''burdock root tea.'' Deadly nightshade (Atropa belladonna) grows as a weed in the
+    same disturbed ground and its root closely resembles a burdock root, so belladonna root can be gathered
+    or processed in mistake for burdock. This has caused real poisonings: a JAMA case report (Bryson et
+    al., 1978) describes atropine poisoning from a commercial burdock root tea, and belladonna-contaminated
+    herbal teas have caused severe anticholinergic poisoning from as little as a few milligrams of atropine.
+    Belladonna contains tropane alkaloids (atropine, hyoscyamine, scopolamine); poisoning causes dry flushed
+    skin, widely dilated pupils, blurred vision, fever, a racing heart, agitation, hallucinations, seizures
+    and can be fatal, especially in children.'
   distinguishing_features:
-  - 'Whole plant: only dig burdock when you can match the whole living plant - burdock has huge rhubarb-like heart-shaped leaves that are whitish-woolly underneath and, in its second year, the familiar hooked burrs. Deadly nightshade is a branching plant with dull green oval pointed leaves, solitary purple-brown bell-shaped flowers and shiny black cherry-sized berries.'
-  - 'Berries (decisive if present): burdock never bears berries - it makes bristly burrs. A plant near your ''burdock'' bearing shiny black berries in green star-shaped calyces is deadly nightshade - do not dig roots from that ground.'
-  - 'Best practice: because the roots alone are hard to tell apart, do not wild-harvest burdock root unless an expert has confirmed the living plant - buy it from a reputable supplier instead.'
-  key_test: Identify the whole living plant before digging any root. Confirm large rhubarb-like leaves that are woolly-white underneath (and hooked burrs in the second year) for burdock. If there are shiny black berries, purple-brown bell-shaped flowers or oval pointed leaves among the plants, deadly nightshade may be present - do not dig or brew root tea from there. When in doubt, buy burdock rather than foraging the root.
+  - 'Whole plant: only dig burdock when you can match the whole living plant - burdock has huge rhubarb-like
+    heart-shaped leaves that are whitish-woolly underneath and, in its second year, the familiar hooked
+    burrs. Deadly nightshade is a branching plant with dull green oval pointed leaves, solitary purple-brown
+    bell-shaped flowers and shiny black cherry-sized berries.'
+  - 'Berries (decisive if present): burdock never bears berries - it makes bristly burrs. A plant near
+    your ''burdock'' bearing shiny black berries in green star-shaped calyces is deadly nightshade - do
+    not dig roots from that ground.'
+  - 'Best practice: because the roots alone are hard to tell apart, do not wild-harvest burdock root unless
+    an expert has confirmed the living plant - buy it from a reputable supplier instead.'
+  key_test: Identify the whole living plant before digging any root. Confirm large rhubarb-like leaves
+    that are woolly-white underneath (and hooked burrs in the second year) for burdock. If there are shiny
+    black berries, purple-brown bell-shaped flowers or oval pointed leaves among the plants, deadly nightshade
+    may be present - do not dig or brew root tea from there. When in doubt, buy burdock rather than foraging
+    the root.
   reference_ids:
   - REF-2674
   - REF-2673
@@ -178,7 +262,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and Drugs.com
   monographs). Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database
   already contains A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
@@ -190,4 +274,6 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   (least-cited enrichment): REF-0723, REF-0722, REF-0724. | 2026-06-20: enriched to >=10 scientific publications:
   added 11 PubMed-verified @article sources (REF-1924, REF-1925, REF-1926, REF-1927, REF-1928, REF-1929,
   REF-1930, REF-1931, REF-1932, REF-1933, REF-1934) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

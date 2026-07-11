@@ -29,6 +29,74 @@ constituents:
   - REF-0722
   - REF-2341
   - REF-2343
+botanical_description:
+  text: Robust biennial herb forming a large rosette of huge, heart-shaped (rhubarb-like), long-stalked
+    leaves, dark green above and whitish-woolly beneath, in its first year. In the second year it sends
+    up a tall, branching, grooved flowering stem bearing purple thistle-like flower heads enclosed in
+    a globe of stiff, hooked bracts that ripen into the familiar clinging burrs.
+  height: 1-2 m (flowering stem, second year)
+  habit: Robust biennial herb; large rosette in year one, tall branching stem in year two
+  leaves: Huge, heart-shaped, long-stalked, dark green above and whitish-woolly beneath
+  flowers: Purple thistle-like flower heads enclosed in a globe of stiff, hooked bracts
+  stem: Tall, branching, grooved flowering stem (second year only)
+  root: Long, thick, fleshy first-year taproot
+  fruit: Bristly, hooked burr enclosing small achenes, clinging to fur and clothing
+  flowering_period: July-September (second year)
+  reference_ids:
+  - REF-0705
+  - REF-0709
+  status: verified
+habitat:
+  text: A common weed of disturbed ground, waste places, roadsides, field margins and riverbanks on rich,
+    moist soils; native to Europe and temperate Asia and naturalised in North America and elsewhere.
+  reference_ids:
+  - REF-0705
+  status: verified
+harvesting:
+  text: The root is dug at the end of the first growing season (autumn) or early in the second spring,
+    before the flowering stem develops, when it is at its most tender and richest in inulin; leaves are
+    picked through the first year, and the seed/fruit is collected from the dried burrs in the second
+    autumn. Careful identification against deadly nightshade, whose root can resemble burdock, is essential
+    before digging.
+  parts:
+  - Leaf
+  - Root
+  - Seed
+  season: Root at the end of year one or start of year two; leaf through year one; seed in year-two autumn
+  reference_ids:
+  - REF-0706
+  status: verified
+traditional_uses:
+  text: Burdock root is a classic 'alterative' or blood-purifying herb of European and East Asian (gobo)
+    traditional medicine, used for chronic skin conditions, as a mild diuretic supporting elimination,
+    and as a digestive bitter; the root is also eaten as a root vegetable (gobo) in Japanese cuisine.
+  reference_ids:
+  - REF-0705
+  - REF-0709
+  status: verified
+preparations:
+- name: Decoction (root)
+  text: Dried or fresh root simmered in water as a traditional alterative and digestive decoction.
+  reference_ids:
+  - REF-0705
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried root, typically around 1:5.
+  status: draft
+- name: Fresh root (culinary)
+  text: Fresh root peeled and cooked as a root vegetable (gobo), continuing the traditional food-medicine
+    use.
+  reference_ids:
+  - REF-0706
+  status: verified
+dosage:
+- name: Root decoction
+  text: Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+- name: Tincture (1:5)
+  text: About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -172,13 +240,32 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: atropa-belladonna
   severity: fatal
-  confused_part: First-year taproots dug for use as food or 'burdock root tea'; the root of deadly nightshade closely resembles a burdock root and the two grow as weeds in the same rough ground.
-  confusion_context: 'Greater burdock (Arctium lappa) is dug for its long first-year taproot, used as a vegetable and as ''burdock root tea.'' Deadly nightshade (Atropa belladonna) grows as a weed in the same disturbed ground and its root closely resembles a burdock root, so belladonna root can be gathered or processed in mistake for burdock. This has caused real poisonings: a JAMA case report (Bryson et al., 1978) describes atropine poisoning from a commercial burdock root tea, and belladonna-contaminated herbal teas have caused severe anticholinergic poisoning from as little as a few milligrams of atropine. Belladonna contains tropane alkaloids (atropine, hyoscyamine, scopolamine); poisoning causes dry flushed skin, widely dilated pupils, blurred vision, fever, a racing heart, agitation, hallucinations, seizures and can be fatal, especially in children.'
+  confused_part: First-year taproots dug for use as food or 'burdock root tea'; the root of deadly nightshade
+    closely resembles a burdock root and the two grow as weeds in the same rough ground.
+  confusion_context: 'Greater burdock (Arctium lappa) is dug for its long first-year taproot, used as
+    a vegetable and as ''burdock root tea.'' Deadly nightshade (Atropa belladonna) grows as a weed in
+    the same disturbed ground and its root closely resembles a burdock root, so belladonna root can be
+    gathered or processed in mistake for burdock. This has caused real poisonings: a JAMA case report
+    (Bryson et al., 1978) describes atropine poisoning from a commercial burdock root tea, and belladonna-contaminated
+    herbal teas have caused severe anticholinergic poisoning from as little as a few milligrams of atropine.
+    Belladonna contains tropane alkaloids (atropine, hyoscyamine, scopolamine); poisoning causes dry flushed
+    skin, widely dilated pupils, blurred vision, fever, a racing heart, agitation, hallucinations, seizures
+    and can be fatal, especially in children.'
   distinguishing_features:
-  - 'Whole plant: only dig burdock when you can match the whole living plant - burdock has huge rhubarb-like heart-shaped leaves that are whitish-woolly underneath and, in its second year, the familiar hooked burrs. Deadly nightshade is a branching plant with dull green oval pointed leaves, solitary purple-brown bell-shaped flowers and shiny black cherry-sized berries.'
-  - 'Berries (decisive if present): burdock never bears berries - it makes bristly burrs. A plant near your ''burdock'' bearing shiny black berries in green star-shaped calyces is deadly nightshade - do not dig roots from that ground.'
-  - 'Best practice: because the roots alone are hard to tell apart, do not wild-harvest burdock root unless an expert has confirmed the living plant - buy it from a reputable supplier instead.'
-  key_test: Identify the whole living plant before digging any root. Confirm large rhubarb-like leaves that are woolly-white underneath (and hooked burrs in the second year) for burdock. If there are shiny black berries, purple-brown bell-shaped flowers or oval pointed leaves among the plants, deadly nightshade may be present - do not dig or brew root tea from there. When in doubt, buy burdock rather than foraging the root.
+  - 'Whole plant: only dig burdock when you can match the whole living plant - burdock has huge rhubarb-like
+    heart-shaped leaves that are whitish-woolly underneath and, in its second year, the familiar hooked
+    burrs. Deadly nightshade is a branching plant with dull green oval pointed leaves, solitary purple-brown
+    bell-shaped flowers and shiny black cherry-sized berries.'
+  - 'Berries (decisive if present): burdock never bears berries - it makes bristly burrs. A plant near
+    your ''burdock'' bearing shiny black berries in green star-shaped calyces is deadly nightshade - do
+    not dig roots from that ground.'
+  - 'Best practice: because the roots alone are hard to tell apart, do not wild-harvest burdock root unless
+    an expert has confirmed the living plant - buy it from a reputable supplier instead.'
+  key_test: Identify the whole living plant before digging any root. Confirm large rhubarb-like leaves
+    that are woolly-white underneath (and hooked burrs in the second year) for burdock. If there are shiny
+    black berries, purple-brown bell-shaped flowers or oval pointed leaves among the plants, deadly nightshade
+    may be present - do not dig or brew root tea from there. When in doubt, buy burdock rather than foraging
+    the root.
   reference_ids:
   - REF-2674
   - REF-2673
@@ -188,7 +275,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -199,4 +286,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article
   sources (REF-0709, REF-0705, REF-2338, REF-0707, REF-2339, REF-0722, REF-2340, REF-2341, REF-2342, REF-2343,
-  REF-0706) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-0706) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
+  dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
+  the integrity-first sourcing policy.'

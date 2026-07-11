@@ -29,6 +29,78 @@ constituents:
   note: Contribute to antioxidant activity.
   reference_ids:
   - REF-0394
+botanical_description:
+  text: Erect, branching annual herb with a slender, quadrangular (square-sectioned), dark green stem.
+    The leaves are opposite, lance-shaped and glabrous, with a short stalk. Small, two-lipped, white flowers
+    with purple-pink markings are borne in loose, spreading axillary and terminal racemes. The whole plant,
+    and especially the leaves, is intensely and characteristically bitter.
+  height: 30-110 cm
+  habit: Erect, branching annual herb
+  leaves: Opposite, lance-shaped, glabrous, short-stalked
+  flowers: Small, two-lipped, white flowers marked with purple-pink, in loose spreading racemes
+  stem: Slender, quadrangular (square in cross-section), dark green, branching
+  root: Shallow, fibrous root system
+  fruit: Small, elastically dehiscent capsule
+  flowering_period: September-December (varies by climate)
+  reference_ids:
+  - REF-0394
+  status: verified
+habitat:
+  text: Native to India and Sri Lanka and widely distributed through South and Southeast Asia, growing
+    wild in plains, hillsides, roadsides and cultivated fields; also grown commercially as a medicinal
+    crop.
+  reference_ids:
+  - REF-0394
+  status: verified
+harvesting:
+  text: The aerial parts (leaves and tender stems) are cut just before or at the onset of flowering, when
+    andrographolide content is typically highest, and dried in shade to preserve the bitter diterpenoid
+    lactones.
+  parts:
+  - Aerial parts (leaves and herb)
+  season: Before to early flowering
+  reference_ids:
+  - REF-0394
+  status: verified
+traditional_uses:
+  text: Andrographis, the 'king of bitters', is a cornerstone bitter tonic of Ayurvedic and traditional
+    Chinese medicine (Chuan xin lian), used for fevers, colds, sore throat, infections and liver complaints.
+    This traditional reputation for treating the common cold and upper respiratory infections is now supported
+    by clinical trials of standardised extracts.
+  reference_ids:
+  - REF-0393
+  - REF-0392
+  status: verified
+preparations:
+- name: Infusion/decoction
+  text: Dried aerial parts infused or lightly decocted in hot water as a very bitter traditional fever
+    and cold remedy.
+  reference_ids:
+  - REF-0394
+  status: draft
+- name: Standardised extract
+  text: Extract standardised to andrographolide content, taken as tablets or capsules; the form used in
+    most clinical trials for cold/URTI symptom relief.
+  reference_ids:
+  - REF-0393
+  - REF-0392
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried aerial parts.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for upper respiratory infection commonly use extracts standardised to around 60-120
+    mg andrographolide daily, in divided doses, for up to 5-7 days. Educational reference only, not a
+    prescription.
+  reference_ids:
+  - REF-0393
+  - REF-0392
+  status: draft
+- name: Dried herb
+  text: Traditional herbal references suggest around 1-2 g of dried aerial parts, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -163,7 +235,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy
   Research and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
@@ -171,4 +243,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLo
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 9 PubMed-verified @article sources (REF-1615, REF-1616, REF-1617, REF-1618, REF-1619,
   REF-1620, REF-1621, REF-1622, REF-1623) — woven into relevant actions/indications and the plant-level
-  references bucket.'
+  references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

@@ -4188,6 +4188,87 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Erect, branching annual herb with a slender, quadrangular (square-sectioned), dark green stem. The leaves are opposite, lance-shaped and glabrous, with a short stalk. Small, two-lipped, white flowers with purple-pink markings are borne in loose, spreading axillary and terminal racemes. The whole plant, and especially the leaves, is intensely and characteristically bitter.",
+    "height": "30-110 cm",
+    "habit": "Erect, branching annual herb",
+    "leaves": "Opposite, lance-shaped, glabrous, short-stalked",
+    "flowers": "Small, two-lipped, white flowers marked with purple-pink, in loose spreading racemes",
+    "stem": "Slender, quadrangular (square in cross-section), dark green, branching",
+    "root": "Shallow, fibrous root system",
+    "fruit": "Small, elastically dehiscent capsule",
+    "flowering_period": "September-December (varies by climate)",
+    "reference_ids": [
+     "REF-0394"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to India and Sri Lanka and widely distributed through South and Southeast Asia, growing wild in plains, hillsides, roadsides and cultivated fields; also grown commercially as a medicinal crop.",
+    "reference_ids": [
+     "REF-0394"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The aerial parts (leaves and tender stems) are cut just before or at the onset of flowering, when andrographolide content is typically highest, and dried in shade to preserve the bitter diterpenoid lactones.",
+    "parts": [
+     "Aerial parts (leaves and herb)"
+    ],
+    "season": "Before to early flowering",
+    "reference_ids": [
+     "REF-0394"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Andrographis, the 'king of bitters', is a cornerstone bitter tonic of Ayurvedic and traditional Chinese medicine (Chuan xin lian), used for fevers, colds, sore throat, infections and liver complaints. This traditional reputation for treating the common cold and upper respiratory infections is now supported by clinical trials of standardised extracts.",
+    "reference_ids": [
+     "REF-0393",
+     "REF-0392"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion/decoction",
+     "text": "Dried aerial parts infused or lightly decocted in hot water as a very bitter traditional fever and cold remedy.",
+     "reference_ids": [
+      "REF-0394"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Extract standardised to andrographolide content, taken as tablets or capsules; the form used in most clinical trials for cold/URTI symptom relief.",
+     "reference_ids": [
+      "REF-0393",
+      "REF-0392"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried aerial parts.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for upper respiratory infection commonly use extracts standardised to around 60-120 mg andrographolide daily, in divided doses, for up to 5-7 days. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0393",
+      "REF-0392"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Dried herb",
+     "text": "Traditional herbal references suggest around 1-2 g of dried aerial parts, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -4391,7 +4472,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "andrographis"
   },
   {
@@ -4408,6 +4489,102 @@
     "Leaf",
     "Seed",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Aromatic annual herb with a slender, hollow, ridged, blue-green stem. The leaves are finely divided into thread-like segments, feathery and soft, similar to fennel but more delicate. Small yellow flowers are borne in flat, wide compound umbels at the stem tips in summer, ripening into flattened, ridged, aromatic seeds (fruits).",
+    "height": "40-120 cm",
+    "habit": "Erect, aromatic annual herb",
+    "leaves": "Finely divided into thread-like, feathery segments",
+    "flowers": "Small yellow flowers in flat, wide compound umbels",
+    "stem": "Slender, hollow, ridged, blue-green, unspotted",
+    "root": "Slender taproot",
+    "fruit": "Small, flattened, ridged, aromatic seed (mericarp)",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-1388"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Believed native to the eastern Mediterranean, Western Asia and southern Russia; widely cultivated as a culinary and medicinal herb in gardens and fields across Europe, Asia and the Americas.",
+    "reference_ids": [
+     "REF-1388"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Leaves are picked fresh through the growing season; the seeds are harvested in late summer once the umbels have browned and dried, then threshed and dried further before storage.",
+    "parts": [
+     "Leaf",
+     "Seed",
+     "Stem"
+    ],
+    "season": "Leaf through summer; seed in late summer to early autumn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Dill seed and leaf have a long culinary-medicinal history as a carminative digestive remedy for colic, dyspepsia and flatulence, and as a traditional lactagogue (galactagogue) to support breastfeeding; dill water ('gripe water') is a classic infant remedy for colic.",
+    "reference_ids": [
+     "REF-1388"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (seed)",
+     "text": "Crushed dill seed infused in hot water as a traditional carminative digestive tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Infusion (leaf)",
+     "text": "Fresh or dried leaf infused as a milder digestive tea, also used culinarily.",
+     "reference_ids": [
+      "REF-1388"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the seed; used in low dilution for its aromatic carminative and antimicrobial properties.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed infusion",
+     "text": "Traditional herbal references suggest around 1-3 g of crushed seed per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "About 1-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (carvone, limonene)",
+     "compounds": [
+      "essential-oil",
+      "terpene"
+     ],
+     "note": "Seed essential oil dominated by the monoterpene ketone carvone and limonene, giving dill its characteristic aroma and much of its carminative and antimicrobial activity.",
+     "reference_ids": [
+      "REF-1388",
+      "REF-1394"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic compounds",
+     "compounds": [
+      "flavonoid",
+      "phenolic-compound"
+     ],
+     "note": "Antioxidant flavonoids and phenolics identified in metabolomic analysis of leaf and seed extracts.",
+     "reference_ids": [
+      "REF-1388"
+     ]
+    }
    ],
    "actions": [
     {
@@ -4711,7 +4888,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "dill"
   },
   {
@@ -4769,6 +4946,91 @@
       "REF-0396",
       "REF-0699"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Tall, robust biennial or short-lived perennial herb with a stout, hollow, ridged stem, often tinged purple. The leaves are large, bright green, 2-3-pinnately divided into broad, coarsely toothed leaflets, borne on inflated, sheathing stalks. Large, rounded compound umbels of small greenish-white to yellow-green flowers are borne at the stem tips, followed by pale, ribbed, winged fruit. The whole plant is strongly and pleasantly aromatic (sweet, celery- or juniper-like) when crushed.",
+    "height": "1-2.5 m",
+    "habit": "Tall, robust biennial to short-lived perennial herb",
+    "leaves": "Large, 2-3-pinnately divided, coarsely toothed leaflets on inflated sheathing stalks",
+    "flowers": "Large, rounded compound umbels of small greenish-white to yellow-green flowers",
+    "stem": "Stout, hollow, ridged, often purple-tinged, hairless",
+    "root": "Thick, aromatic taproot",
+    "fruit": "Pale, ribbed, winged fruit (mericarp)",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0396"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to northern and eastern Europe and parts of Asia, growing in damp meadows, riverbanks, ditches and woodland margins on moist, rich soils; also widely cultivated as a culinary and medicinal herb.",
+    "reference_ids": [
+     "REF-0396"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug in autumn of the first year (or spring of the second, before flowering), when its aromatic oil content is highest; the ripe fruit/seed is collected in late summer as the umbels dry; leaves for standardised extract are picked through the growing season. Careful identification against deadly Apiaceae look-alikes (poison hemlock, water hemlock, hemlock water-dropwort) is essential before wild-harvesting.",
+    "parts": [
+     "Root",
+     "Fruit and seed",
+     "Leaf (standardised extract)"
+    ],
+    "season": "Root in autumn/early spring; fruit and seed in late summer; leaf through the growing season",
+    "reference_ids": [
+     "REF-0396"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Angelica root has a long Northern European tradition as an aromatic bitter and carminative digestive remedy for indigestion, bloating and flatulence, as a diaphoretic and expectorant support during colds, and the seed/fruit as a calming, anxiolytic nervine. It has also been candied and used as a flavouring.",
+    "reference_ids": [
+     "REF-0396"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction/infusion (root)",
+     "text": "Dried root decocted or infused in hot water as a bitter digestive and carminative tea.",
+     "reference_ids": [
+      "REF-0396"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (seed)",
+     "text": "Crushed fruit/seed infused as a calming, carminative tea.",
+     "reference_ids": [
+      "REF-0396"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root, typically around 1:5.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised leaf extract",
+     "text": "Concentrated leaf extract studied in a pilot clinical trial for overactive bladder symptoms.",
+     "reference_ids": [
+      "REF-0615"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Root infusion/decoction",
+     "text": "Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture (1:5)",
+     "text": "About 1-3 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -5251,7 +5513,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-11",
    "common_slug": "angelica"
   },
   {
@@ -5289,6 +5551,85 @@
       "REF-2341",
       "REF-2343"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Robust biennial herb forming a large rosette of huge, heart-shaped (rhubarb-like), long-stalked leaves, dark green above and whitish-woolly beneath, in its first year. In the second year it sends up a tall, branching, grooved flowering stem bearing purple thistle-like flower heads enclosed in a globe of stiff, hooked bracts that ripen into the familiar clinging burrs.",
+    "height": "1-2 m (flowering stem, second year)",
+    "habit": "Robust biennial herb; large rosette in year one, tall branching stem in year two",
+    "leaves": "Huge, heart-shaped, long-stalked, dark green above and whitish-woolly beneath",
+    "flowers": "Purple thistle-like flower heads enclosed in a globe of stiff, hooked bracts",
+    "stem": "Tall, branching, grooved flowering stem (second year only)",
+    "root": "Long, thick, fleshy first-year taproot",
+    "fruit": "Bristly, hooked burr enclosing small achenes, clinging to fur and clothing",
+    "flowering_period": "July-September (second year)",
+    "reference_ids": [
+     "REF-0705",
+     "REF-0709"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A common weed of disturbed ground, waste places, roadsides, field margins and riverbanks on rich, moist soils; native to Europe and temperate Asia and naturalised in North America and elsewhere.",
+    "reference_ids": [
+     "REF-0705"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug at the end of the first growing season (autumn) or early in the second spring, before the flowering stem develops, when it is at its most tender and richest in inulin; leaves are picked through the first year, and the seed/fruit is collected from the dried burrs in the second autumn. Careful identification against deadly nightshade, whose root can resemble burdock, is essential before digging.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Seed"
+    ],
+    "season": "Root at the end of year one or start of year two; leaf through year one; seed in year-two autumn",
+    "reference_ids": [
+     "REF-0706"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Burdock root is a classic 'alterative' or blood-purifying herb of European and East Asian (gobo) traditional medicine, used for chronic skin conditions, as a mild diuretic supporting elimination, and as a digestive bitter; the root is also eaten as a root vegetable (gobo) in Japanese cuisine.",
+    "reference_ids": [
+     "REF-0705",
+     "REF-0709"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction (root)",
+     "text": "Dried or fresh root simmered in water as a traditional alterative and digestive decoction.",
+     "reference_ids": [
+      "REF-0705"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root, typically around 1:5.",
+     "status": "draft"
+    },
+    {
+     "name": "Fresh root (culinary)",
+     "text": "Fresh root peeled and cooked as a root vegetable (gobo), continuing the traditional food-medicine use.",
+     "reference_ids": [
+      "REF-0706"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Root decoction",
+     "text": "Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture (1:5)",
+     "text": "About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -5500,7 +5841,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "greater-burdock"
   },
   {
@@ -5550,6 +5891,82 @@
      "reference_ids": [
       "REF-0477"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Biennial herb closely related to greater burdock, forming a first-year rosette of large, heart-shaped, long-stalked leaves, green above and grey-woolly beneath, generally smaller than Arctium lappa. In the second year it produces a branching flowering stem with smaller purple thistle-like flower heads in a looser, more sprawling habit, each enclosed in a globe of hooked bracts that ripen into clinging burrs.",
+    "height": "0.5-1.5 m (flowering stem, second year)",
+    "habit": "Biennial herb; first-year rosette, sprawling branched second-year stem",
+    "leaves": "Large, heart-shaped, long-stalked, green above and grey-woolly beneath (smaller than A. lappa)",
+    "flowers": "Smaller purple thistle-like flower heads in a looser, sprawling arrangement, enclosed in hooked bracts",
+    "stem": "Branching, more sprawling than A. lappa (second year only)",
+    "root": "Long, fleshy first-year taproot ('wild rhubarb')",
+    "fruit": "Bristly, hooked burr enclosing small achenes",
+    "flowering_period": "July-September (second year)",
+    "reference_ids": [
+     "REF-0476"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A common weed of waste ground, roadsides, hedgerows and disturbed soil; native to Europe and widely naturalised in North America, where it is often the most common wild burdock species.",
+    "reference_ids": [
+     "REF-0476"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug at the end of the first growing season or early in the second spring, before flowering; leaf may be gathered through the first year. Careful identification against deadly nightshade, whose root can resemble burdock, is essential before digging.",
+    "parts": [
+     "Root (and leaf)"
+    ],
+    "season": "End of year one or start of year two, before flowering",
+    "reference_ids": [
+     "REF-0476"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Lesser burdock is used interchangeably with the better-studied Arctium lappa in Western herbal medicine, as a traditional alterative/depurative for chronic skin conditions such as eczema, psoriasis and acne, and as a mild diuretic supporting elimination.",
+    "reference_ids": [
+     "REF-0476",
+     "REF-0477"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction (root)",
+     "text": "Dried or fresh root simmered in water as a traditional alterative and skin-support decoction.",
+     "reference_ids": [
+      "REF-0476"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root, typically around 1:5.",
+     "status": "draft"
+    },
+    {
+     "name": "Topical wash",
+     "text": "Cooled decoction used as a topical wash for eczema, acne and other skin irritation, reflecting the traditional external alterative use.",
+     "reference_ids": [
+      "REF-0476"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Root decoction",
+     "text": "Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture (1:5)",
+     "text": "About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -5770,7 +6187,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "lesser-burdock"
   },
   {

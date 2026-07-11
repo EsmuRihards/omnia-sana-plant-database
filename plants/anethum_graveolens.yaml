@@ -10,6 +10,82 @@ parts_used:
 - Leaf
 - Seed
 - Stem
+botanical_description:
+  text: Aromatic annual herb with a slender, hollow, ridged, blue-green stem. The leaves are finely divided
+    into thread-like segments, feathery and soft, similar to fennel but more delicate. Small yellow flowers
+    are borne in flat, wide compound umbels at the stem tips in summer, ripening into flattened, ridged,
+    aromatic seeds (fruits).
+  height: 40-120 cm
+  habit: Erect, aromatic annual herb
+  leaves: Finely divided into thread-like, feathery segments
+  flowers: Small yellow flowers in flat, wide compound umbels
+  stem: Slender, hollow, ridged, blue-green, unspotted
+  root: Slender taproot
+  fruit: Small, flattened, ridged, aromatic seed (mericarp)
+  flowering_period: June-August
+  reference_ids:
+  - REF-1388
+  status: verified
+habitat:
+  text: Believed native to the eastern Mediterranean, Western Asia and southern Russia; widely cultivated
+    as a culinary and medicinal herb in gardens and fields across Europe, Asia and the Americas.
+  reference_ids:
+  - REF-1388
+  status: draft
+harvesting:
+  text: Leaves are picked fresh through the growing season; the seeds are harvested in late summer once
+    the umbels have browned and dried, then threshed and dried further before storage.
+  parts:
+  - Leaf
+  - Seed
+  - Stem
+  season: Leaf through summer; seed in late summer to early autumn
+  status: draft
+traditional_uses:
+  text: Dill seed and leaf have a long culinary-medicinal history as a carminative digestive remedy for
+    colic, dyspepsia and flatulence, and as a traditional lactagogue (galactagogue) to support breastfeeding;
+    dill water ('gripe water') is a classic infant remedy for colic.
+  reference_ids:
+  - REF-1388
+  status: verified
+preparations:
+- name: Infusion (seed)
+  text: Crushed dill seed infused in hot water as a traditional carminative digestive tea.
+  status: draft
+- name: Infusion (leaf)
+  text: Fresh or dried leaf infused as a milder digestive tea, also used culinarily.
+  reference_ids:
+  - REF-1388
+  status: verified
+- name: Essential oil
+  text: Steam-distilled from the seed; used in low dilution for its aromatic carminative and antimicrobial
+    properties.
+  status: draft
+dosage:
+- name: Seed infusion
+  text: Traditional herbal references suggest around 1-3 g of crushed seed per cup, up to three times
+    daily. Educational reference only, not a prescription.
+  status: draft
+- name: Tincture
+  text: About 1-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Essential oil (carvone, limonene)
+  compounds:
+  - essential-oil
+  - terpene
+  note: Seed essential oil dominated by the monoterpene ketone carvone and limonene, giving dill its characteristic
+    aroma and much of its carminative and antimicrobial activity.
+  reference_ids:
+  - REF-1388
+  - REF-1394
+- name: Flavonoids and phenolic compounds
+  compounds:
+  - flavonoid
+  - phenolic-compound
+  note: Antioxidant flavonoids and phenolics identified in metabolomic analysis of leaf and seed extracts.
+  reference_ids:
+  - REF-1388
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -211,13 +287,26 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: conium-maculatum
   severity: fatal
-  confused_part: Young feathery, finely divided thread-like leaves and the umbels of tiny white flowers, which closely resemble dill; and poison-hemlock volunteer seedlings appearing among planted dill.
-  confusion_context: Poison hemlock (Conium maculatum) is the classic fatal mimic of feathery parsley-family herbs. Washington State University Extension states poison hemlock's tiny white flowers form an umbel similar to dill, parsnip or carrot, and its finely divided fern-like foliage looks much like dill weed; a poison-hemlock seedling volunteering among garden dill, or a forager mistaking wild hemlock for dill, is a realistic and potentially lethal hazard. Conium contains coniine and kills by ascending paralysis and respiratory failure - a few leaves or seeds can be fatal. Documented dill-specific poisonings are sparse (most fatal hemlock confusions involve carrot, parsnip or fennel), so the value of this record is the rock-solid tests below rather than a claim that this exact swap is common.
+  confused_part: Young feathery, finely divided thread-like leaves and the umbels of tiny white flowers,
+    which closely resemble dill; and poison-hemlock volunteer seedlings appearing among planted dill.
+  confusion_context: Poison hemlock (Conium maculatum) is the classic fatal mimic of feathery parsley-family
+    herbs. Washington State University Extension states poison hemlock's tiny white flowers form an umbel
+    similar to dill, parsnip or carrot, and its finely divided fern-like foliage looks much like dill
+    weed; a poison-hemlock seedling volunteering among garden dill, or a forager mistaking wild hemlock
+    for dill, is a realistic and potentially lethal hazard. Conium contains coniine and kills by ascending
+    paralysis and respiratory failure - a few leaves or seeds can be fatal. Documented dill-specific poisonings
+    are sparse (most fatal hemlock confusions involve carrot, parsnip or fennel), so the value of this
+    record is the rock-solid tests below rather than a claim that this exact swap is common.
   distinguishing_features:
-  - 'SMELL (decisive): crushed dill smells fresh, sweet and unmistakably of dill. Poison hemlock smells rank, musty and mouse-like, with no dill scent.'
-  - 'Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple, especially near the base. Dill stems are plain blue-green and never carry purple blotches.'
-  - 'Stature: poison hemlock is a tall (often 1.5-3 m) branching biennial; cultivated dill is a slender annual usually under 1 m. A large fern-leaved umbellifer with a purple-blotched stem is not dill.'
-  key_test: Crush a leaf and smell it, and look at the stem. A fresh sweet dill scent with a plain blue-green stem = dill. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock - do not eat. If either warning sign is present, discard it.
+  - 'SMELL (decisive): crushed dill smells fresh, sweet and unmistakably of dill. Poison hemlock smells
+    rank, musty and mouse-like, with no dill scent.'
+  - 'Stem: poison hemlock has a hairless, hollow stem conspicuously blotched and streaked with red-purple,
+    especially near the base. Dill stems are plain blue-green and never carry purple blotches.'
+  - 'Stature: poison hemlock is a tall (often 1.5-3 m) branching biennial; cultivated dill is a slender
+    annual usually under 1 m. A large fern-leaved umbellifer with a purple-blotched stem is not dill.'
+  key_test: Crush a leaf and smell it, and look at the stem. A fresh sweet dill scent with a plain blue-green
+    stem = dill. A musty/mousy smell and/or a hairless stem with red-purple blotches = poison hemlock
+    - do not eat. If either warning sign is present, discard it.
   reference_ids:
   - REF-2654
   - REF-2611
@@ -228,7 +317,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -236,4 +325,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1388, REF-1389, REF-1390, REF-1391, REF-1392,
   REF-1393, REF-1394, REF-1395, REF-1396, REF-1397) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

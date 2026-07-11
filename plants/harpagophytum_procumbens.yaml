@@ -27,6 +27,64 @@ constituents:
   note: Antioxidant supporting constituents.
   reference_ids:
   - REF-0443
+botanical_description:
+  text: Low-growing, sprawling perennial herb with trailing stems and deeply lobed, greyish-green leaves
+    arising from a large, fleshy primary taproot bearing smaller secondary storage tubers (the part used
+    medicinally). Striking funnel-shaped, purplish-pink to violet flowers give way to a distinctive woody
+    fruit covered in long, hooked spines - the origin of the common name.
+  height: Trailing stems to 1.5 m, low-growing
+  habit: Low-growing, sprawling perennial herb
+  leaves: Deeply lobed, greyish-green
+  flowers: Funnel-shaped, purplish-pink to violet
+  stem: Trailing, sprawling stems
+  root: Large primary taproot with smaller secondary storage tubers (the medicinal part)
+  fruit: Woody capsule covered in long, hooked spines ('devil's claw')
+  flowering_period: Summer (during the rainy season)
+  reference_ids:
+  - REF-0443
+  status: verified
+habitat:
+  text: Native to the dry savannas and semi-desert regions of southern Africa, particularly the Kalahari
+    Desert region of Namibia, Botswana and South Africa.
+  reference_ids:
+  - REF-0443
+  status: verified
+harvesting:
+  text: The secondary root tubers are dug by hand, sliced and dried in the sun, traditionally by local
+    harvesters in southern Africa; sustainable wild-harvesting practices are important given the plant's
+    slow growth and habitat sensitivity.
+  parts:
+  - Secondary root tuber
+  status: draft
+traditional_uses:
+  text: Devil's claw has a long southern African traditional-medicine history as a remedy for fever, pain
+    and digestive complaints, and is now one of the most clinically studied herbal analgesics for osteoarthritis
+    and chronic low back pain, with standardised extracts showing efficacy comparable to some conventional
+    analgesics in trials.
+  reference_ids:
+  - REF-0443
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Root tuber extract standardised to harpagoside content, taken as capsules or tablets; the best-studied
+    clinical form for osteoarthritis and back pain.
+  reference_ids:
+  - REF-0443
+  - REF-0562
+  status: verified
+- name: Decoction
+  text: Dried root tuber simmered in water, a traditional preparation.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried root tuber.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for osteoarthritis and back pain commonly use extracts providing around 50-60
+    mg harpagoside daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0562
+  status: draft
 actions:
 - action: analgesic
   note: Anti-inflammatory and analgesic for osteoarthritis (hip and knee) pain
@@ -137,7 +195,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standard evidence-based systematic
   review; Der Orthopade review of herbal analgesia). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (pain, arthritis, back-pain, inflammation); associations retained and now
@@ -148,4 +206,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Natural Standar
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 11 PubMed-verified @article sources (REF-1829, REF-1830, REF-1831, REF-1832, REF-1833, REF-1834,
   REF-1835, REF-1836, REF-1837, REF-1838, REF-1839) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

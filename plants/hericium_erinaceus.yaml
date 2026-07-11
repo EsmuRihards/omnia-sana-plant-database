@@ -26,6 +26,53 @@ constituents:
   - REF-0643
   - REF-0644
   - REF-2420
+botanical_description:
+  text: Wood-decay fungus (not a true plant) forming a distinctive rounded, cushion-like fruiting body
+    covered in long, dangling, tooth-like spines rather than gills or pores, resembling a white or cream
+    'lion's mane' or icicle cluster. It grows as a single mass rather than a typical cap-and-stem mushroom,
+    on wounds or dead wood of hardwood trees.
+  height: Fruiting body 5-40 cm across
+  habit: Wood-decay fungus forming a rounded, spine-covered fruiting body
+  leaves: Not applicable (fungus)
+  flowers: Not applicable (fungus); reproduces by spores
+  stem: No true cap-and-stem structure; a single cushion-like mass of hanging spines
+  root: Mycelium spreading through the wood substrate
+  fruit: Long, dangling, tooth-like spines bearing the spore-producing surface
+  flowering_period: Fruiting body develops over weeks on wounds or dead hardwood
+  status: draft
+habitat:
+  text: Grows on wounds, dead or dying wood of hardwood trees (notably oak and beech) in temperate forests
+    of the Northern Hemisphere; also widely cultivated commercially on hardwood logs or sawdust substrate.
+  status: draft
+harvesting:
+  text: Wild fruiting bodies are collected once mature; cultivated material is harvested from logs or
+    substrate at maturity, then used fresh, dried, or processed into mycelium-based supplements.
+  parts:
+  - Fruit
+  - Mycelium
+  status: draft
+traditional_uses:
+  text: Lion's mane has a long East Asian culinary and medicinal tradition, valued in Chinese and Japanese
+    medicine as a digestive tonic and, more recently, intensively studied for its unique ability to stimulate
+    nerve growth factor, giving it a modern reputation as a neurotrophic and cognitive-support mushroom.
+  reference_ids:
+  - REF-0642
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Fruiting-body or mycelium extract standardised to erinacine or hericenone content, taken as capsules
+    or powder; the form used in most clinical cognitive-support studies.
+  reference_ids:
+  - REF-0642
+  status: verified
+- name: Fresh/dried fruiting body (culinary)
+  text: Fresh or dried fruiting body cooked and eaten as a food, the traditional East Asian form of use.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical studies of cognitive support commonly use around 1-3 g of dried fruiting body extract
+    daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -176,7 +223,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -188,4 +235,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   polysaccharide constituents added. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 5 PubMed-verified @article sources (REF-0642, REF-2418, REF-2419, REF-2420, REF-2421) — woven
-  into relevant actions/indications and the plant-level references bucket.'
+  into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
+  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

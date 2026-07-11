@@ -28,6 +28,57 @@ constituents:
   note: Antioxidant supporting constituents.
   reference_ids:
   - REF-0472
+botanical_description:
+  text: Woody, evergreen climbing or trailing vine that attaches to surfaces by small aerial rootlets.
+    Juvenile leaves are glossy, dark green with three to five lobes; mature, flowering growth on well-lit
+    stems produces unlobed, oval leaves. Small, greenish-yellow flowers in rounded umbels appear in autumn
+    on mature growth, followed by black berries.
+  height: Climbing/trailing to 20-30 m where supported
+  habit: Woody, evergreen climbing or trailing vine
+  leaves: Juvenile leaves glossy, three- to five-lobed; mature leaves unlobed, oval
+  flowers: Small, greenish-yellow, in rounded umbels, on mature flowering growth
+  stem: Woody, climbing by small aerial rootlets
+  root: Woody root system plus climbing aerial rootlets
+  fruit: Black berry (toxic if eaten in quantity - not used medicinally)
+  flowering_period: Autumn (on mature growth only)
+  reference_ids:
+  - REF-0472
+  status: verified
+habitat:
+  text: Grows as a climbing or ground-covering evergreen on trees, walls, buildings and woodland floors,
+    tolerant of shade; native to Europe and Western Asia and widely naturalised elsewhere.
+  status: draft
+harvesting:
+  text: Juvenile (lobed) leaves are picked for medicinal use, typically in spring to summer, then dried
+    and processed into standardised extract; the fresh raw leaf is not used directly due to irritant saponins.
+  parts:
+  - Leaf (standardised dry extract)
+  status: draft
+traditional_uses:
+  text: Ivy leaf has a long European folk history as an expectorant remedy for coughs and chest complaints,
+    and modern standardised leaf extracts are among the best-studied herbal treatments for acute bronchitis
+    and productive cough, shown in clinical trials to reduce cough severity and ease breathing.
+  reference_ids:
+  - REF-0472
+  status: verified
+preparations:
+- name: Standardised dry extract (syrup/drops)
+  text: Leaf extract standardised to saponin (hederacoside C) content, formulated as a cough syrup or
+    drops; the well-studied clinical form for acute bronchitis and productive cough.
+  reference_ids:
+  - REF-0472
+  status: verified
+- name: Infusion (traditional)
+  text: Dried leaf infused in hot water, a traditional preparation predating standardised extracts.
+  status: draft
+dosage:
+- name: Standardised extract (syrup)
+  text: Commercial standardised ivy-leaf syrups are typically dosed per product labelling (varying by
+    age); clinical trials show benefit within about 48 hours of starting treatment. Educational reference
+    only, not a prescription.
+  reference_ids:
+  - REF-0472
+  status: draft
 actions:
 - action: antispasmodic
   note: Antispasmodic / bronchodilatory - eases coughing fits and breathlessness
@@ -125,7 +176,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical effectiveness studies of
   standardised ivy-leaf extract in acute bronchitis / productive cough). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (cough, bronchitis); associations retained and now
@@ -136,4 +187,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (two clinical ef
   | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment):
   REF-0833, REF-0834, REF-0835. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
   @article sources (REF-0834, REF-0833, REF-2308, REF-2309, REF-2310, REF-0835, REF-2311, REF-2312, REF-2313,
-  REF-2314, REF-2315) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-2314, REF-2315) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

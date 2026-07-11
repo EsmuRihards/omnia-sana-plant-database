@@ -25716,6 +25716,76 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Large, multi-stemmed deciduous shrub or small tree with broad, oval, wavy-toothed leaves, asymmetrical at the base. Unusually, it flowers in late autumn to winter after the leaves have fallen, bearing clusters of small, spidery, bright yellow flowers with narrow, crinkled, ribbon-like petals. The woody seed capsule matures the following autumn and explosively ejects its seeds ('snapping hazelnut').",
+    "height": "3-8 m",
+    "habit": "Large, multi-stemmed deciduous shrub or small tree",
+    "leaves": "Broad, oval, wavy-toothed, asymmetrical at the base",
+    "flowers": "Small, spidery, bright yellow, with narrow crinkled ribbon-like petals, blooming in late autumn/winter",
+    "stem": "Multiple woody stems with smooth, grey-brown bark",
+    "root": "Woody root system",
+    "fruit": "Woody capsule maturing the following autumn, explosively ejecting seeds",
+    "flowering_period": "October-December (after leaf-fall)",
+    "reference_ids": [
+     "REF-0531"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to woodland understorey and forest margins of eastern North America; widely cultivated as an ornamental and medicinal shrub.",
+    "reference_ids": [
+     "REF-0531"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Bark is stripped from branches (not the main trunk, to avoid harming the plant) and leaves are picked in summer; both are dried for use, or steam-distilled together with twigs to produce distilled witch-hazel water, the most common commercial form.",
+    "parts": [
+     "Bark, leaf and distilled witch-hazel water"
+    ],
+    "season": "Bark and leaf in summer",
+    "reference_ids": [
+     "REF-0531"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Witch hazel has a long Native American and, after adoption by European settlers, worldwide reputation as a topical astringent and anti-inflammatory remedy for skin irritation, minor wounds, bruises, insect bites and haemorrhoids, and as a soothing wash for irritated skin and mucous membranes.",
+    "reference_ids": [
+     "REF-0531"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Distilled witch-hazel water",
+     "text": "Steam-distilled preparation of the bark and twigs, applied topically as a soothing, astringent skin toner and wound wash; the most widely used commercial form.",
+     "reference_ids": [
+      "REF-0531"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction (bark/leaf)",
+     "text": "Dried bark or leaf simmered in water and used as a cooled topical wash or compress.",
+     "reference_ids": [
+      "REF-0531"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Cream/ointment",
+     "text": "Standardised extract formulated into creams or ointments, particularly for haemorrhoid relief.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Topical preparations",
+     "text": "Applied to the affected skin area as needed, several times daily; for topical use only, not for internal use except in professionally prepared, standardised products. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -25897,7 +25967,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "witch-hazel"
   },
   {
@@ -25937,6 +26007,73 @@
      "reference_ids": [
       "REF-0443"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Low-growing, sprawling perennial herb with trailing stems and deeply lobed, greyish-green leaves arising from a large, fleshy primary taproot bearing smaller secondary storage tubers (the part used medicinally). Striking funnel-shaped, purplish-pink to violet flowers give way to a distinctive woody fruit covered in long, hooked spines - the origin of the common name.",
+    "height": "Trailing stems to 1.5 m, low-growing",
+    "habit": "Low-growing, sprawling perennial herb",
+    "leaves": "Deeply lobed, greyish-green",
+    "flowers": "Funnel-shaped, purplish-pink to violet",
+    "stem": "Trailing, sprawling stems",
+    "root": "Large primary taproot with smaller secondary storage tubers (the medicinal part)",
+    "fruit": "Woody capsule covered in long, hooked spines ('devil's claw')",
+    "flowering_period": "Summer (during the rainy season)",
+    "reference_ids": [
+     "REF-0443"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the dry savannas and semi-desert regions of southern Africa, particularly the Kalahari Desert region of Namibia, Botswana and South Africa.",
+    "reference_ids": [
+     "REF-0443"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The secondary root tubers are dug by hand, sliced and dried in the sun, traditionally by local harvesters in southern Africa; sustainable wild-harvesting practices are important given the plant's slow growth and habitat sensitivity.",
+    "parts": [
+     "Secondary root tuber"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Devil's claw has a long southern African traditional-medicine history as a remedy for fever, pain and digestive complaints, and is now one of the most clinically studied herbal analgesics for osteoarthritis and chronic low back pain, with standardised extracts showing efficacy comparable to some conventional analgesics in trials.",
+    "reference_ids": [
+     "REF-0443"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Root tuber extract standardised to harpagoside content, taken as capsules or tablets; the best-studied clinical form for osteoarthritis and back pain.",
+     "reference_ids": [
+      "REF-0443",
+      "REF-0562"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Dried root tuber simmered in water, a traditional preparation.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root tuber.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for osteoarthritis and back pain commonly use extracts providing around 50-60 mg harpagoside daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0562"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -26092,7 +26229,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "devil-s-claw"
   },
   {
@@ -26135,6 +26272,64 @@
      "reference_ids": [
       "REF-0472"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Woody, evergreen climbing or trailing vine that attaches to surfaces by small aerial rootlets. Juvenile leaves are glossy, dark green with three to five lobes; mature, flowering growth on well-lit stems produces unlobed, oval leaves. Small, greenish-yellow flowers in rounded umbels appear in autumn on mature growth, followed by black berries.",
+    "height": "Climbing/trailing to 20-30 m where supported",
+    "habit": "Woody, evergreen climbing or trailing vine",
+    "leaves": "Juvenile leaves glossy, three- to five-lobed; mature leaves unlobed, oval",
+    "flowers": "Small, greenish-yellow, in rounded umbels, on mature flowering growth",
+    "stem": "Woody, climbing by small aerial rootlets",
+    "root": "Woody root system plus climbing aerial rootlets",
+    "fruit": "Black berry (toxic if eaten in quantity - not used medicinally)",
+    "flowering_period": "Autumn (on mature growth only)",
+    "reference_ids": [
+     "REF-0472"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows as a climbing or ground-covering evergreen on trees, walls, buildings and woodland floors, tolerant of shade; native to Europe and Western Asia and widely naturalised elsewhere.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Juvenile (lobed) leaves are picked for medicinal use, typically in spring to summer, then dried and processed into standardised extract; the fresh raw leaf is not used directly due to irritant saponins.",
+    "parts": [
+     "Leaf (standardised dry extract)"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Ivy leaf has a long European folk history as an expectorant remedy for coughs and chest complaints, and modern standardised leaf extracts are among the best-studied herbal treatments for acute bronchitis and productive cough, shown in clinical trials to reduce cough severity and ease breathing.",
+    "reference_ids": [
+     "REF-0472"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised dry extract (syrup/drops)",
+     "text": "Leaf extract standardised to saponin (hederacoside C) content, formulated as a cough syrup or drops; the well-studied clinical form for acute bronchitis and productive cough.",
+     "reference_ids": [
+      "REF-0472"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (traditional)",
+     "text": "Dried leaf infused in hot water, a traditional preparation predating standardised extracts.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract (syrup)",
+     "text": "Commercial standardised ivy-leaf syrups are typically dosed per product labelling (varying by age); clinical trials show benefit within about 48 hours of starting treatment. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0472"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -26278,7 +26473,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "ivy-leaf"
   },
   {
@@ -26314,6 +26509,59 @@
       "REF-0644",
       "REF-2420"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Wood-decay fungus (not a true plant) forming a distinctive rounded, cushion-like fruiting body covered in long, dangling, tooth-like spines rather than gills or pores, resembling a white or cream 'lion's mane' or icicle cluster. It grows as a single mass rather than a typical cap-and-stem mushroom, on wounds or dead wood of hardwood trees.",
+    "height": "Fruiting body 5-40 cm across",
+    "habit": "Wood-decay fungus forming a rounded, spine-covered fruiting body",
+    "leaves": "Not applicable (fungus)",
+    "flowers": "Not applicable (fungus); reproduces by spores",
+    "stem": "No true cap-and-stem structure; a single cushion-like mass of hanging spines",
+    "root": "Mycelium spreading through the wood substrate",
+    "fruit": "Long, dangling, tooth-like spines bearing the spore-producing surface",
+    "flowering_period": "Fruiting body develops over weeks on wounds or dead hardwood",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Grows on wounds, dead or dying wood of hardwood trees (notably oak and beech) in temperate forests of the Northern Hemisphere; also widely cultivated commercially on hardwood logs or sawdust substrate.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Wild fruiting bodies are collected once mature; cultivated material is harvested from logs or substrate at maturity, then used fresh, dried, or processed into mycelium-based supplements.",
+    "parts": [
+     "Fruit",
+     "Mycelium"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Lion's mane has a long East Asian culinary and medicinal tradition, valued in Chinese and Japanese medicine as a digestive tonic and, more recently, intensively studied for its unique ability to stimulate nerve growth factor, giving it a modern reputation as a neurotrophic and cognitive-support mushroom.",
+    "reference_ids": [
+     "REF-0642"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Fruiting-body or mycelium extract standardised to erinacine or hericenone content, taken as capsules or powder; the form used in most clinical cognitive-support studies.",
+     "reference_ids": [
+      "REF-0642"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Fresh/dried fruiting body (culinary)",
+     "text": "Fresh or dried fruiting body cooked and eaten as a food, the traditional East Asian form of use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical studies of cognitive support commonly use around 1-3 g of dried fruiting body extract daily. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -26530,7 +26778,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "lions-mane"
   },
   {
@@ -26576,6 +26824,69 @@
      "reference_ids": [
       "REF-0464"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Erect, branching annual to short-lived perennial shrub with reddish stems and deeply lobed, palmate leaves. Pale yellow to pink hibiscus-type flowers with a dark centre open briefly, followed by the fleshy, bright red calyx (sepals) that swells around the seed capsule - this calyx, not the flower petals, is the part harvested and used.",
+    "height": "1-2.5 m",
+    "habit": "Erect, branching annual to short-lived perennial shrub",
+    "leaves": "Deeply lobed, palmate",
+    "flowers": "Pale yellow to pink, hibiscus-type, with a dark centre, short-lived",
+    "stem": "Reddish, branching",
+    "root": "Taproot with fibrous lateral roots",
+    "fruit": "Fleshy, bright red calyx surrounding a seed capsule (the calyx is the medicinal/culinary part)",
+    "flowering_period": "Summer to autumn",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Believed native to West Africa; widely cultivated throughout the tropics and subtropics (Africa, Asia, the Caribbean and Central America) for its edible calyces.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The fleshy red calyces are hand-picked shortly after the flower petals fall, while still fresh and plump, then separated from the seed pod and dried for storage.",
+    "parts": [
+     "Calyx (dried flower calyces)"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Hibiscus calyx (known as roselle, sorrel or karkade in different regions) has a long traditional use across Africa, the Middle East and the Caribbean as a tart, cooling beverage and folk remedy for fevers and mild hypertension; this traditional blood-pressure-lowering reputation is now well supported by clinical trials of hibiscus tea/extract.",
+    "reference_ids": [
+     "REF-0464"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion ('hibiscus tea')",
+     "text": "Dried calyces steeped in hot or cold water as a tart, ruby-red infusion; the form used in most clinical blood-pressure studies.",
+     "reference_ids": [
+      "REF-0464"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Concentrated calyx extract, taken as capsules for cardiometabolic support.",
+     "reference_ids": [
+      "REF-0464"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Fresh or dried calyces used in cooking, jams and cold beverages, especially across West Africa and Latin America.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Clinical trials for blood pressure commonly use around 1.5-3 g of dried calyx (roughly one to two cups of tea) daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0464"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -26764,7 +27075,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "hibiscus"
   },
   {

@@ -27,6 +27,61 @@ constituents:
   note: Additional antioxidant constituents.
   reference_ids:
   - REF-0464
+botanical_description:
+  text: Erect, branching annual to short-lived perennial shrub with reddish stems and deeply lobed, palmate
+    leaves. Pale yellow to pink hibiscus-type flowers with a dark centre open briefly, followed by the
+    fleshy, bright red calyx (sepals) that swells around the seed capsule - this calyx, not the flower
+    petals, is the part harvested and used.
+  height: 1-2.5 m
+  habit: Erect, branching annual to short-lived perennial shrub
+  leaves: Deeply lobed, palmate
+  flowers: Pale yellow to pink, hibiscus-type, with a dark centre, short-lived
+  stem: Reddish, branching
+  root: Taproot with fibrous lateral roots
+  fruit: Fleshy, bright red calyx surrounding a seed capsule (the calyx is the medicinal/culinary part)
+  flowering_period: Summer to autumn
+  status: draft
+habitat:
+  text: Believed native to West Africa; widely cultivated throughout the tropics and subtropics (Africa,
+    Asia, the Caribbean and Central America) for its edible calyces.
+  status: draft
+harvesting:
+  text: The fleshy red calyces are hand-picked shortly after the flower petals fall, while still fresh
+    and plump, then separated from the seed pod and dried for storage.
+  parts:
+  - Calyx (dried flower calyces)
+  status: draft
+traditional_uses:
+  text: Hibiscus calyx (known as roselle, sorrel or karkade in different regions) has a long traditional
+    use across Africa, the Middle East and the Caribbean as a tart, cooling beverage and folk remedy for
+    fevers and mild hypertension; this traditional blood-pressure-lowering reputation is now well supported
+    by clinical trials of hibiscus tea/extract.
+  reference_ids:
+  - REF-0464
+  status: verified
+preparations:
+- name: Infusion ('hibiscus tea')
+  text: Dried calyces steeped in hot or cold water as a tart, ruby-red infusion; the form used in most
+    clinical blood-pressure studies.
+  reference_ids:
+  - REF-0464
+  status: verified
+- name: Standardised extract
+  text: Concentrated calyx extract, taken as capsules for cardiometabolic support.
+  reference_ids:
+  - REF-0464
+  status: verified
+- name: Culinary use
+  text: Fresh or dried calyces used in cooking, jams and cold beverages, especially across West Africa
+    and Latin America.
+  status: draft
+dosage:
+- name: Infusion
+  text: Clinical trials for blood pressure commonly use around 1.5-3 g of dried calyx (roughly one to
+    two cups of tea) daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0464
+  status: draft
 actions:
 - action: antidiabetic
   note: Lowers fasting blood glucose
@@ -125,7 +180,9 @@ references:
 drug_class_interactions:
 - drug_class: antihypertensives
   severity: caution
-  mechanism: 'Hibiscus (roselle) lowers systolic and diastolic blood pressure in trials (a meta-analysis found reductions of about 7.6/3.5 mmHg); combined with blood-pressure medicines it may add to their effect and cause blood pressure to drop too low, so monitor blood pressure.'
+  mechanism: Hibiscus (roselle) lowers systolic and diastolic blood pressure in trials (a meta-analysis
+    found reductions of about 7.6/3.5 mmHg); combined with blood-pressure medicines it may add to their
+    effect and cause blood pressure to drop too low, so monitor blood pressure.
   reference_ids:
   - REF-2488
   - REF-2527
@@ -135,7 +192,9 @@ drug_class_interactions:
 pairings:
 - partner_id: olea-europaea
   type: caution
-  note: 'Hibiscus and olive leaf can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.'
+  note: Hibiscus and olive leaf can each mildly lower blood pressure, so taking them together — especially
+    alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor
+    your blood pressure.
   reference_ids:
   - REF-2527
   - REF-2537
@@ -144,7 +203,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: nigella-sativa
   type: caution
-  note: 'Hibiscus and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them together — especially alongside blood-pressure medicines — may add up and lower blood pressure more than expected. Monitor your blood pressure.'
+  note: Hibiscus and black seed (Nigella sativa) can each mildly lower blood pressure, so taking them
+    together — especially alongside blood-pressure medicines — may add up and lower blood pressure more
+    than expected. Monitor your blood pressure.
   reference_ids:
   - REF-2527
   - REF-2512
@@ -157,7 +218,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Reviews meta-analysis; Foods
   systematic review/meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (high-blood-pressure, high-cholesterol); associations retained and now part-mapped and cited.
@@ -167,4 +228,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Nutrition Revie
   (REF-0567). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
   @article sources (REF-1840, REF-1841, REF-0566, REF-0464, REF-1842, REF-1843, REF-1844, REF-1845, REF-1846,
-  REF-1847, REF-1848) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1847, REF-1848) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

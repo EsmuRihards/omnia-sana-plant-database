@@ -25,6 +25,66 @@ constituents:
   note: Antioxidant and anti-inflammatory constituents of the bark and leaf.
   reference_ids:
   - REF-0532
+botanical_description:
+  text: Large, multi-stemmed deciduous shrub or small tree with broad, oval, wavy-toothed leaves, asymmetrical
+    at the base. Unusually, it flowers in late autumn to winter after the leaves have fallen, bearing
+    clusters of small, spidery, bright yellow flowers with narrow, crinkled, ribbon-like petals. The woody
+    seed capsule matures the following autumn and explosively ejects its seeds ('snapping hazelnut').
+  height: 3-8 m
+  habit: Large, multi-stemmed deciduous shrub or small tree
+  leaves: Broad, oval, wavy-toothed, asymmetrical at the base
+  flowers: Small, spidery, bright yellow, with narrow crinkled ribbon-like petals, blooming in late autumn/winter
+  stem: Multiple woody stems with smooth, grey-brown bark
+  root: Woody root system
+  fruit: Woody capsule maturing the following autumn, explosively ejecting seeds
+  flowering_period: October-December (after leaf-fall)
+  reference_ids:
+  - REF-0531
+  status: verified
+habitat:
+  text: Native to woodland understorey and forest margins of eastern North America; widely cultivated
+    as an ornamental and medicinal shrub.
+  reference_ids:
+  - REF-0531
+  status: verified
+harvesting:
+  text: Bark is stripped from branches (not the main trunk, to avoid harming the plant) and leaves are
+    picked in summer; both are dried for use, or steam-distilled together with twigs to produce distilled
+    witch-hazel water, the most common commercial form.
+  parts:
+  - Bark, leaf and distilled witch-hazel water
+  season: Bark and leaf in summer
+  reference_ids:
+  - REF-0531
+  status: verified
+traditional_uses:
+  text: Witch hazel has a long Native American and, after adoption by European settlers, worldwide reputation
+    as a topical astringent and anti-inflammatory remedy for skin irritation, minor wounds, bruises, insect
+    bites and haemorrhoids, and as a soothing wash for irritated skin and mucous membranes.
+  reference_ids:
+  - REF-0531
+  status: verified
+preparations:
+- name: Distilled witch-hazel water
+  text: Steam-distilled preparation of the bark and twigs, applied topically as a soothing, astringent
+    skin toner and wound wash; the most widely used commercial form.
+  reference_ids:
+  - REF-0531
+  status: verified
+- name: Decoction (bark/leaf)
+  text: Dried bark or leaf simmered in water and used as a cooled topical wash or compress.
+  reference_ids:
+  - REF-0531
+  status: verified
+- name: Cream/ointment
+  text: Standardised extract formulated into creams or ointments, particularly for haemorrhoid relief.
+  status: draft
+dosage:
+- name: Topical preparations
+  text: Applied to the affected skin area as needed, several times daily; for topical use only, not for
+    internal use except in professionally prepared, standardised products. Educational reference only,
+    not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and antioxidant (supports irritated/atopic skin); Relief of haemorrhoid symptoms
@@ -150,7 +210,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Hamamelidis cortex; Molecules skin-care review; Herbal Reality monograph). Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (skin-irritation, inflammation, hemorrhoids, wounds);
@@ -159,4 +219,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   references to the plant-level references bucket (least-cited enrichment): REF-0830, REF-0831, REF-0832.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2049,
   REF-0831, REF-2050, REF-2051, REF-2052, REF-2053, REF-2054, REF-2055, REF-2056, REF-2057, REF-2058)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

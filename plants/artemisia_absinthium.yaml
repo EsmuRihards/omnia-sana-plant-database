@@ -9,6 +9,88 @@ parts_used:
 - Flower
 - Leaf
 - Stem
+botanical_description:
+  text: Aromatic, silvery-grey perennial herb with finely divided, silky-hairy leaves and numerous small,
+    pale yellow, drooping, globe-shaped flower heads borne in loose branched panicles. The whole plant
+    has a characteristic intensely bitter taste and a pungent, sage-like aroma.
+  height: 60-120 cm
+  habit: Erect, silvery-grey, aromatic perennial herb
+  leaves: Finely divided (2-3-pinnatisect), silky-hairy, silvery-grey
+  flowers: Small, pale yellow, drooping, globe-shaped flower heads in loose branched panicles
+  stem: Erect, ridged, silvery-hairy, woody at the base
+  root: Woody rootstock
+  fruit: Small achene without pappus
+  flowering_period: July-September
+  reference_ids:
+  - REF-1770
+  status: verified
+habitat:
+  text: Grows on dry, sunny, stony or waste ground, roadsides and field margins; native to Europe, North
+    Africa and temperate Asia, and naturalised in North America.
+  reference_ids:
+  - REF-1770
+  status: verified
+harvesting:
+  text: The flowering aerial parts (leaf, stem and flower) are cut as flowering begins, in mid- to late
+    summer, and dried in a warm, shaded, airy place.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Mid- to late summer, at the start of flowering
+  reference_ids:
+  - REF-1770
+  status: verified
+traditional_uses:
+  text: Wormwood is one of the classic bitter digestive herbs of European tradition, used to stimulate
+    appetite and bile flow for dyspeptic complaints, and historically as a vermifuge (its common name
+    reflects traditional use against intestinal worms) and in the production of absinthe and vermouth.
+  reference_ids:
+  - REF-0728
+  - REF-1770
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused briefly in hot water as a very bitter digestive tea, taken before
+    meals to stimulate appetite.
+  reference_ids:
+  - REF-0728
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb, used in small bitter doses.
+  status: draft
+dosage:
+- name: Short-term use only
+  text: Because of its thujone content, traditional herbal references limit internal use to small bitter
+    doses (around 0.5-1 g dried herb per cup) for no more than about 4 weeks at a time. Educational reference
+    only, not a prescription.
+  reference_ids:
+  - REF-0098
+  status: draft
+constituents:
+- name: Sesquiterpene lactones (absinthin, artabsin)
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
+  note: Intensely bitter sesquiterpene lactones responsible for the classic digestive-bitter action.
+  reference_ids:
+  - REF-0728
+  - REF-1770
+- name: Essential oil (thujone, other monoterpenes)
+  compounds:
+  - essential-oil
+  - terpene
+  note: Volatile oil containing thujone (alpha- and beta-isomers), the neurotoxic ketone that limits safe
+    internal use, along with other monoterpenes.
+  reference_ids:
+  - REF-0728
+- name: Flavonoids and phenolic acids
+  compounds:
+  - flavonoid
+  - phenolic-acid
+  note: Antioxidant constituents contributing to the plant's antioxidant activity.
+  reference_ids:
+  - REF-0730
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -164,7 +246,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -173,4 +255,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0728, REF-0729, REF-0730.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0728,
   REF-1770, REF-1771, REF-1772, REF-1773, REF-1774, REF-1775, REF-1776, REF-1777, REF-1778, REF-0730)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

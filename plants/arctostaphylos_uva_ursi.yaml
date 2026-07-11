@@ -38,6 +38,71 @@ constituents:
   - REF-2373
   - REF-2374
   - REF-2375
+botanical_description:
+  text: Low, mat-forming evergreen shrub with trailing, woody stems that root as they spread. The leaves
+    are small, leathery, spatula-shaped (spoon-shaped), glossy dark green above and paler beneath, with
+    a smooth, untoothed margin and a rounded tip. Small, urn-shaped, pink-and-white flowers hang in short
+    clusters in spring, followed by bright red, mealy berries.
+  height: 5-30 cm (trailing/prostrate)
+  habit: Low, mat-forming, trailing evergreen shrub
+  leaves: Small, leathery, spatula-shaped, glossy dark green above, entire (untoothed) margin, rounded
+    tip
+  flowers: Small, urn-shaped, pink-and-white, in short drooping clusters
+  stem: Trailing, woody, rooting as it spreads
+  root: Woody, fibrous roots along trailing stems
+  fruit: Bright red, mealy berry
+  flowering_period: April-June
+  reference_ids:
+  - REF-0405
+  status: verified
+habitat:
+  text: Grows on dry, acidic, sandy or rocky ground in open woodland, heath, moorland and mountain slopes
+    across the northern hemisphere (Europe, Asia and North America), often in exposed, cold, upland or
+    subarctic sites.
+  reference_ids:
+  - REF-0405
+  status: verified
+harvesting:
+  text: The leaves are gathered in autumn to early spring (outside the flowering and fruiting season),
+    when arbutin content is at its highest, and dried carefully to preserve the glycoside.
+  parts:
+  - Leaf
+  season: Autumn to early spring
+  reference_ids:
+  - REF-0405
+  status: verified
+traditional_uses:
+  text: Bearberry leaf is a long-established European folk and official (EU herbal monograph) remedy for
+    mild, uncomplicated lower urinary tract infections and cystitis, used short-term as a urinary antiseptic;
+    it has also been used traditionally as an astringent for mild diarrhoea.
+  reference_ids:
+  - REF-0405
+  status: verified
+preparations:
+- name: Cold infusion (maceration)
+  text: Dried leaf macerated in cold water for several hours, which extracts less tannin (reducing gastric
+    irritation) than a hot infusion; the preferred traditional preparation.
+  reference_ids:
+  - REF-0405
+  status: verified
+- name: Infusion/decoction
+  text: Dried leaf infused or lightly decocted in hot water; alkalinising the urine (e.g. with dietary
+    measures) is traditionally recommended alongside use, since arbutin's antibacterial action requires
+    alkaline urine.
+  reference_ids:
+  - REF-0405
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried leaf.
+  status: draft
+dosage:
+- name: Infusion
+  text: The EU herbal monograph describes traditional use of about 3 g dried leaf per cup, up to four
+    times daily, for no more than one week at a time and no more than about five times a year. Educational
+    reference only, not a prescription.
+  reference_ids:
+  - REF-0405
+  status: draft
 actions:
 - action: antimicrobial
   note: Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured
@@ -161,13 +226,24 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: buxus-sempervirens
   severity: dangerous
-  confused_part: Small leathery evergreen leaves gathered as the medicinal 'uva-ursi'; the poisonous leaves of box look similar and have been used to adulterate bearberry.
-  confusion_context: Bearberry (Arctostaphylos uva-ursi) leaves are collected as a urinary herb. As documented in pharmacognosy, during collection bearberry is commonly confused with cowberry (edible) and with box (Buxus sempervirens), and poisonous box - which lacks bearberry's active arbutin - has occasionally been used to adulterate the drug. Box leaves are poisonous, containing steroidal alkaloids that cause vomiting, diarrhoea, dizziness and, in quantity, convulsions and respiratory failure. Because the small leathery evergreen leaves are similar, box is a genuine toxic adulterant/look-alike of bearberry.
+  confused_part: Small leathery evergreen leaves gathered as the medicinal 'uva-ursi'; the poisonous leaves
+    of box look similar and have been used to adulterate bearberry.
+  confusion_context: Bearberry (Arctostaphylos uva-ursi) leaves are collected as a urinary herb. As documented
+    in pharmacognosy, during collection bearberry is commonly confused with cowberry (edible) and with
+    box (Buxus sempervirens), and poisonous box - which lacks bearberry's active arbutin - has occasionally
+    been used to adulterate the drug. Box leaves are poisonous, containing steroidal alkaloids that cause
+    vomiting, diarrhoea, dizziness and, in quantity, convulsions and respiratory failure. Because the
+    small leathery evergreen leaves are similar, box is a genuine toxic adulterant/look-alike of bearberry.
   distinguishing_features:
-  - 'Leaf apex (decisive): bearberry leaves are spatulate with an entire (untoothed) margin and a rounded apex. Box leaves have a small notch cut out at the tip (emarginate).'
-  - 'Leaf underside: box leaves have a loose, separable epidermis on the underside and lack the astringency of bearberry; bearberry leaves are firm and astringent with a net of sunken veins.'
-  - 'Source: buy uva-ursi only from suppliers who authenticate the leaf, since adulteration with box cannot be judged casually.'
-  key_test: Check the leaf tip. Bearberry leaves are spoon-shaped with a smooth margin and a ROUNDED tip. A leaf with a notch cut out of the tip (and a loose skin on the underside) is box - poisonous, not bearberry. Use only authenticated uva-ursi.
+  - 'Leaf apex (decisive): bearberry leaves are spatulate with an entire (untoothed) margin and a rounded
+    apex. Box leaves have a small notch cut out at the tip (emarginate).'
+  - 'Leaf underside: box leaves have a loose, separable epidermis on the underside and lack the astringency
+    of bearberry; bearberry leaves are firm and astringent with a net of sunken veins.'
+  - 'Source: buy uva-ursi only from suppliers who authenticate the leaf, since adulteration with box cannot
+    be judged casually.'
+  key_test: Check the leaf tip. Bearberry leaves are spoon-shaped with a smooth margin and a ROUNDED tip.
+    A leaf with a notch cut out of the tip (and a loose skin on the underside) is box - poisonous, not
+    bearberry. Use only authenticated uva-ursi.
   reference_ids:
   - REF-2698
   - REF-2699
@@ -176,7 +252,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (EMA HMPC monograph, ESCOP
   monograph, Journal of Ethnopharmacology toxicology study). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (uti, infection); associations retained and now part-mapped and cited.
@@ -189,4 +265,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
   sources (REF-2370, REF-2371, REF-2372, REF-2373, REF-2374, REF-2375, REF-0406, REF-2376, REF-2377, REF-2378)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

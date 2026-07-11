@@ -33,6 +33,69 @@ constituents:
   note: Other carbohydrate constituents of the root.
   reference_ids:
   - REF-0481
+botanical_description:
+  text: Soft, downy perennial herb with an erect, branching stem and broad, soft, velvety, greyish-green
+    leaves, shallowly 3-5-lobed and toothed. Pale pink to white five-petalled flowers, typical of the
+    mallow family, are borne singly or in small clusters in the leaf axils. The thick, fleshy, whitish
+    taproot is the main medicinal part, rich in soothing mucilage.
+  height: 60-120 cm
+  habit: Erect, downy, branching perennial herb
+  leaves: Broad, soft, velvety, greyish-green, shallowly 3-5-lobed and toothed
+  flowers: Pale pink to white, five-petalled, typical mallow flowers, borne singly or in small axillary
+    clusters
+  stem: Erect, branching, softly downy
+  root: Thick, fleshy, whitish taproot, rich in mucilage
+  fruit: Flat, disc-shaped cluster of small seeded segments ('cheeses')
+  flowering_period: July-September
+  reference_ids:
+  - REF-0481
+  status: verified
+habitat:
+  text: Grows in damp meadows, salt marshes, ditches and riverbanks, especially near brackish or coastal
+    wetlands; native to Europe, Western Asia and North Africa.
+  reference_ids:
+  - REF-0481
+  status: verified
+harvesting:
+  text: The root is dug in autumn from plants at least two years old, when mucilage content is highest,
+    then washed, peeled and dried quickly to prevent mould, given its high mucilage and sugar content.
+  parts:
+  - Root
+  season: Autumn, from two-year-old (or older) plants
+  reference_ids:
+  - REF-0481
+  status: verified
+traditional_uses:
+  text: 'Marshmallow root has an ancient reputation, reflected in its Greek name ''Althaea'' (to heal),
+    as a soothing demulcent for irritated mucous membranes: dry cough and sore throat, and mild inflammation
+    and discomfort of the stomach and gut. It has also been applied topically as a soothing poultice for
+    irritated skin.'
+  reference_ids:
+  - REF-0481
+  status: verified
+preparations:
+- name: Cold infusion (maceration)
+  text: Dried root macerated in cold water for several hours to extract the maximum mucilage without degrading
+    it, then strained; the classic preparation for cough and digestive demulcent use.
+  reference_ids:
+  - REF-0481
+  status: verified
+- name: Decoction
+  text: Dried root gently simmered in water; a warmer alternative preparation, though prolonged heat can
+    reduce mucilage yield.
+  reference_ids:
+  - REF-0481
+  status: draft
+- name: Syrup
+  text: Root extract combined with sugar syrup as a soothing preparation for cough, especially in children.
+  status: draft
+dosage:
+- name: Cold infusion (root)
+  text: The EU herbal monograph describes traditional use of about 0.5-3 g dried root per cup as a cold
+    macerate, taken up to several times daily. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0481
+  status: draft
 actions:
 - action: antitussive
   note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
@@ -132,7 +195,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Althaeae radix; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, acid-reflux, skin-irritation); associations retained and
@@ -143,4 +206,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
   PubMed-verified @article sources (REF-1368, REF-1369, REF-1370, REF-1371, REF-1372, REF-1373, REF-1374,
   REF-1375, REF-1376, REF-1377) — woven into relevant actions/indications and the plant-level references
-  bucket.'
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

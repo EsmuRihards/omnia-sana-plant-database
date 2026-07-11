@@ -9,6 +9,93 @@ parts_used:
 - Leaf
 - Root
 - Stem
+botanical_description:
+  text: Tall, aromatic perennial herb with deeply lobed, dark green leaves that are distinctively silvery-white
+    and woolly beneath. Small, dull reddish-brown to yellowish flower heads are borne in dense, branched,
+    leafy spikes. The reddish-brown, ridged stems and the leaf's contrasting silver underside are characteristic
+    field marks.
+  height: 60-150 cm
+  habit: Tall, erect, aromatic perennial herb
+  leaves: Deeply lobed, dark green above, distinctively silvery-white woolly beneath
+  flowers: Small, dull reddish-brown to yellowish flower heads in dense, branched, leafy spikes
+  stem: Reddish-brown, ridged, often woody at the base
+  root: Woody, spreading rhizome
+  fruit: Small achene without pappus
+  flowering_period: July-September
+  reference_ids:
+  - REF-0733
+  status: verified
+habitat:
+  text: A common plant of waste ground, roadsides, hedgerows and riverbanks; native to Europe, Asia and
+    North Africa and widely naturalised in North America.
+  reference_ids:
+  - REF-0733
+  status: verified
+harvesting:
+  text: The flowering aerial parts (leaf and stem) are cut in summer as flowering begins and dried in
+    a warm, shaded, airy place; the root can be dug in autumn.
+  parts:
+  - Leaf
+  - Root
+  - Stem
+  season: Summer for aerial parts; autumn for root
+  reference_ids:
+  - REF-0733
+  status: verified
+traditional_uses:
+  text: Mugwort is a widely used traditional bitter digestive tonic and calming nervine, and has a long
+    reputation as an emmenagogue for menstrual complaints (reflected in its traditional use to bring on
+    delayed menstruation, which is also why it is contraindicated in pregnancy). It has also been burned
+    as 'moxa' in East Asian moxibustion and used as an insect repellent ('sailor's tobacco').
+  reference_ids:
+  - REF-0733
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried leaf and flowering tops infused in hot water as a bitter digestive and calming tea.
+  reference_ids:
+  - REF-0733
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+- name: Moxa (external heat therapy)
+  text: Dried, processed leaf ('moxa') burned near or on the skin over acupuncture points in traditional
+    East Asian moxibustion.
+  reference_ids:
+  - REF-0733
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily,
+    for short-term use. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Sesquiterpenoids and triterpenoids
+  compounds:
+  - sesquiterpene
+  - terpene
+  note: Multiple undescribed and known sesquiterpenoids and triterpenoids isolated from the leaves, several
+    with anti-inflammatory activity.
+  reference_ids:
+  - REF-0731
+- name: Essential oil (thujone, cineole, camphor)
+  compounds:
+  - essential-oil
+  - cineole
+  - camphor
+  - terpene
+  note: Volatile oil containing thujone and other monoterpenes; thujone content is the basis of the caution
+    on prolonged internal use.
+  reference_ids:
+  - REF-0733
+- name: Flavonoids and coumarins
+  compounds:
+  - flavonoid
+  - coumarin
+  note: Antioxidant and anti-inflammatory flavonoid and coumarin constituents.
+  reference_ids:
+  - REF-0733
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -163,7 +250,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Mugwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Mugwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -177,13 +266,24 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: aconitum-napellus
   severity: fatal
-  confused_part: Young deeply lobed leaves gathered for use; young monkshood - the most poisonous plant in Europe - has similar deeply divided leaves.
-  confusion_context: 'Mugwort (Artemisia vulgaris) is foraged for its aromatic, deeply lobed leaves. As Totally Wild UK warns, it would be a very deadly mistake to confuse young mugwort with monkshood (Aconitum napellus), whose young leaves are similarly deeply divided. Monkshood is considered the most poisonous plant in Europe: all parts contain aconitine, the lethal dose is only 2-6 mg, and poisoning can kill within hours through respiratory and cardiac failure - the toxin is even absorbed through the skin. Although monkshood is less common, its extreme toxicity makes this confusion critical to avoid.'
+  confused_part: Young deeply lobed leaves gathered for use; young monkshood - the most poisonous plant
+    in Europe - has similar deeply divided leaves.
+  confusion_context: 'Mugwort (Artemisia vulgaris) is foraged for its aromatic, deeply lobed leaves. As
+    Totally Wild UK warns, it would be a very deadly mistake to confuse young mugwort with monkshood (Aconitum
+    napellus), whose young leaves are similarly deeply divided. Monkshood is considered the most poisonous
+    plant in Europe: all parts contain aconitine, the lethal dose is only 2-6 mg, and poisoning can kill
+    within hours through respiratory and cardiac failure - the toxin is even absorbed through the skin.
+    Although monkshood is less common, its extreme toxicity makes this confusion critical to avoid.'
   distinguishing_features:
-  - 'Leaf underside (decisive): mugwort leaves have a distinctive silvery-white woolly underside. Monkshood leaves are green and hairless on both sides, with no silver felt. No silver underside = not mugwort.'
-  - 'Flowers: mugwort has small, dull reddish-brown flower spikes; monkshood has tall spikes of unmistakable hooded blue-purple flowers.'
-  - 'Handling: do not handle a suspected monkshood with bare hands - aconitine can be absorbed through the skin.'
-  key_test: Turn the leaf over. A silvery-white woolly underside (with small dull flowers) = mugwort. Green, hairless undersides - and especially any hooded blue-purple flowers - mean monkshood, the most poisonous plant in Europe; do not gather or even handle it with bare hands.
+  - 'Leaf underside (decisive): mugwort leaves have a distinctive silvery-white woolly underside. Monkshood
+    leaves are green and hairless on both sides, with no silver felt. No silver underside = not mugwort.'
+  - 'Flowers: mugwort has small, dull reddish-brown flower spikes; monkshood has tall spikes of unmistakable
+    hooded blue-purple flowers.'
+  - 'Handling: do not handle a suspected monkshood with bare hands - aconitine can be absorbed through
+    the skin.'
+  key_test: Turn the leaf over. A silvery-white woolly underside (with small dull flowers) = mugwort.
+    Green, hairless undersides - and especially any hooded blue-purple flowers - mean monkshood, the most
+    poisonous plant in Europe; do not gather or even handle it with bare hands.
   reference_ids:
   - REF-2691
   - REF-2692
@@ -192,7 +292,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -201,4 +301,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0731, REF-0732, REF-0733.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0733,
   REF-1935, REF-1936, REF-0731, REF-1937, REF-1938, REF-1939, REF-1940, REF-1941, REF-1942, REF-1943)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

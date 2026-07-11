@@ -3999,6 +3999,79 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Soft, downy perennial herb with an erect, branching stem and broad, soft, velvety, greyish-green leaves, shallowly 3-5-lobed and toothed. Pale pink to white five-petalled flowers, typical of the mallow family, are borne singly or in small clusters in the leaf axils. The thick, fleshy, whitish taproot is the main medicinal part, rich in soothing mucilage.",
+    "height": "60-120 cm",
+    "habit": "Erect, downy, branching perennial herb",
+    "leaves": "Broad, soft, velvety, greyish-green, shallowly 3-5-lobed and toothed",
+    "flowers": "Pale pink to white, five-petalled, typical mallow flowers, borne singly or in small axillary clusters",
+    "stem": "Erect, branching, softly downy",
+    "root": "Thick, fleshy, whitish taproot, rich in mucilage",
+    "fruit": "Flat, disc-shaped cluster of small seeded segments ('cheeses')",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-0481"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in damp meadows, salt marshes, ditches and riverbanks, especially near brackish or coastal wetlands; native to Europe, Western Asia and North Africa.",
+    "reference_ids": [
+     "REF-0481"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug in autumn from plants at least two years old, when mucilage content is highest, then washed, peeled and dried quickly to prevent mould, given its high mucilage and sugar content.",
+    "parts": [
+     "Root"
+    ],
+    "season": "Autumn, from two-year-old (or older) plants",
+    "reference_ids": [
+     "REF-0481"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Marshmallow root has an ancient reputation, reflected in its Greek name 'Althaea' (to heal), as a soothing demulcent for irritated mucous membranes: dry cough and sore throat, and mild inflammation and discomfort of the stomach and gut. It has also been applied topically as a soothing poultice for irritated skin.",
+    "reference_ids": [
+     "REF-0481"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Cold infusion (maceration)",
+     "text": "Dried root macerated in cold water for several hours to extract the maximum mucilage without degrading it, then strained; the classic preparation for cough and digestive demulcent use.",
+     "reference_ids": [
+      "REF-0481"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Dried root gently simmered in water; a warmer alternative preparation, though prolonged heat can reduce mucilage yield.",
+     "reference_ids": [
+      "REF-0481"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Syrup",
+     "text": "Root extract combined with sugar syrup as a soothing preparation for cough, especially in children.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Cold infusion (root)",
+     "text": "The EU herbal monograph describes traditional use of about 0.5-3 g dried root per cup as a cold macerate, taken up to several times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0481"
+     ],
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "antitussive",
@@ -4139,7 +4212,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "marshmallow-root"
   },
   {
@@ -6246,6 +6319,79 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Low, mat-forming evergreen shrub with trailing, woody stems that root as they spread. The leaves are small, leathery, spatula-shaped (spoon-shaped), glossy dark green above and paler beneath, with a smooth, untoothed margin and a rounded tip. Small, urn-shaped, pink-and-white flowers hang in short clusters in spring, followed by bright red, mealy berries.",
+    "height": "5-30 cm (trailing/prostrate)",
+    "habit": "Low, mat-forming, trailing evergreen shrub",
+    "leaves": "Small, leathery, spatula-shaped, glossy dark green above, entire (untoothed) margin, rounded tip",
+    "flowers": "Small, urn-shaped, pink-and-white, in short drooping clusters",
+    "stem": "Trailing, woody, rooting as it spreads",
+    "root": "Woody, fibrous roots along trailing stems",
+    "fruit": "Bright red, mealy berry",
+    "flowering_period": "April-June",
+    "reference_ids": [
+     "REF-0405"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry, acidic, sandy or rocky ground in open woodland, heath, moorland and mountain slopes across the northern hemisphere (Europe, Asia and North America), often in exposed, cold, upland or subarctic sites.",
+    "reference_ids": [
+     "REF-0405"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The leaves are gathered in autumn to early spring (outside the flowering and fruiting season), when arbutin content is at its highest, and dried carefully to preserve the glycoside.",
+    "parts": [
+     "Leaf"
+    ],
+    "season": "Autumn to early spring",
+    "reference_ids": [
+     "REF-0405"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Bearberry leaf is a long-established European folk and official (EU herbal monograph) remedy for mild, uncomplicated lower urinary tract infections and cystitis, used short-term as a urinary antiseptic; it has also been used traditionally as an astringent for mild diarrhoea.",
+    "reference_ids": [
+     "REF-0405"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Cold infusion (maceration)",
+     "text": "Dried leaf macerated in cold water for several hours, which extracts less tannin (reducing gastric irritation) than a hot infusion; the preferred traditional preparation.",
+     "reference_ids": [
+      "REF-0405"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion/decoction",
+     "text": "Dried leaf infused or lightly decocted in hot water; alkalinising the urine (e.g. with dietary measures) is traditionally recommended alongside use, since arbutin's antibacterial action requires alkaline urine.",
+     "reference_ids": [
+      "REF-0405"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried leaf.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "The EU herbal monograph describes traditional use of about 3 g dried leaf per cup, up to four times daily, for no more than one week at a time and no more than about five times a year. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0405"
+     ],
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "antimicrobial",
@@ -6431,7 +6577,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "bearberry"
   },
   {
@@ -6491,6 +6637,76 @@
      "reference_ids": [
       "REF-0398"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Aromatic mountain perennial herb with a basal rosette of oval, hairy leaves and one or two pairs of smaller opposite leaves on an erect, softly hairy flowering stem. Each stem bears one or a few large, bright golden-yellow, daisy-like flower heads with narrow, slightly twisted ray florets.",
+    "height": "20-60 cm",
+    "habit": "Erect, aromatic mountain perennial herb",
+    "leaves": "Basal rosette of oval, hairy leaves; one or two pairs of smaller opposite stem leaves",
+    "flowers": "Large, bright golden-yellow, daisy-like flower heads with narrow, slightly twisted ray florets",
+    "stem": "Erect, softly hairy, sparsely leaved flowering stem",
+    "root": "Short, blackish rhizome with fibrous roots",
+    "fruit": "Small, hairy achene with a pappus",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0398"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in acidic, nutrient-poor mountain meadows, pastures and open woodland, typically at moderate to high elevations across central and northern Europe; increasingly scarce in the wild due to habitat loss and overharvesting.",
+    "reference_ids": [
+     "REF-0398"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flower heads are picked by hand as they open, in mid- to late summer, and dried quickly in a warm, shaded, airy place; wild populations are protected in many regions, so cultivated or sustainably wildcrafted material is preferred.",
+    "parts": [
+     "Flower head (topical preparations)"
+    ],
+    "season": "Mid- to late summer, as flowers open",
+    "reference_ids": [
+     "REF-0398"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Arnica flower has a long central European folk reputation, reflected in the name 'leopard's bane' and 'mountain tobacco', as a topical remedy for bruising, sprains, muscle soreness and swelling after minor injury, applied only to unbroken skin. Internal use of the whole herb has always been considered dangerous and is confined to highly diluted homeopathic preparations.",
+    "reference_ids": [
+     "REF-0398"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Topical cream/gel/ointment",
+     "text": "Standardised flower extract formulated into a cream, gel or ointment for external application to bruises, sprains and muscle soreness on unbroken skin.",
+     "reference_ids": [
+      "REF-0398"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Diluted tincture (topical)",
+     "text": "Alcoholic tincture of the dried flower heads, diluted before topical application as a compress; never taken internally in this form.",
+     "reference_ids": [
+      "REF-0398"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Infused oil",
+     "text": "Flower heads infused in a carrier oil for topical massage use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Topical cream/gel",
+     "text": "Applied to the affected area 2-3 times daily on unbroken skin only, per product labelling. Educational reference only, not a prescription. Never taken by mouth except as a highly diluted homeopathic preparation.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -6728,7 +6944,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "arnica"
   },
   {
@@ -6744,6 +6960,110 @@
     "Flower",
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Aromatic, silvery-grey perennial herb with finely divided, silky-hairy leaves and numerous small, pale yellow, drooping, globe-shaped flower heads borne in loose branched panicles. The whole plant has a characteristic intensely bitter taste and a pungent, sage-like aroma.",
+    "height": "60-120 cm",
+    "habit": "Erect, silvery-grey, aromatic perennial herb",
+    "leaves": "Finely divided (2-3-pinnatisect), silky-hairy, silvery-grey",
+    "flowers": "Small, pale yellow, drooping, globe-shaped flower heads in loose branched panicles",
+    "stem": "Erect, ridged, silvery-hairy, woody at the base",
+    "root": "Woody rootstock",
+    "fruit": "Small achene without pappus",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-1770"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry, sunny, stony or waste ground, roadsides and field margins; native to Europe, North Africa and temperate Asia, and naturalised in North America.",
+    "reference_ids": [
+     "REF-1770"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts (leaf, stem and flower) are cut as flowering begins, in mid- to late summer, and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Mid- to late summer, at the start of flowering",
+    "reference_ids": [
+     "REF-1770"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Wormwood is one of the classic bitter digestive herbs of European tradition, used to stimulate appetite and bile flow for dyspeptic complaints, and historically as a vermifuge (its common name reflects traditional use against intestinal worms) and in the production of absinthe and vermouth.",
+    "reference_ids": [
+     "REF-0728",
+     "REF-1770"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused briefly in hot water as a very bitter digestive tea, taken before meals to stimulate appetite.",
+     "reference_ids": [
+      "REF-0728"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb, used in small bitter doses.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Short-term use only",
+     "text": "Because of its thujone content, traditional herbal references limit internal use to small bitter doses (around 0.5-1 g dried herb per cup) for no more than about 4 weeks at a time. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0098"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Sesquiterpene lactones (absinthin, artabsin)",
+     "compounds": [
+      "sesquiterpene-lactone",
+      "sesquiterpene"
+     ],
+     "note": "Intensely bitter sesquiterpene lactones responsible for the classic digestive-bitter action.",
+     "reference_ids": [
+      "REF-0728",
+      "REF-1770"
+     ]
+    },
+    {
+     "name": "Essential oil (thujone, other monoterpenes)",
+     "compounds": [
+      "essential-oil",
+      "terpene"
+     ],
+     "note": "Volatile oil containing thujone (alpha- and beta-isomers), the neurotoxic ketone that limits safe internal use, along with other monoterpenes.",
+     "reference_ids": [
+      "REF-0728"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic acids",
+     "compounds": [
+      "flavonoid",
+      "phenolic-acid"
+     ],
+     "note": "Antioxidant constituents contributing to the plant's antioxidant activity.",
+     "reference_ids": [
+      "REF-0730"
+     ]
+    }
    ],
    "actions": [
     {
@@ -6973,7 +7293,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "wormwood"
   },
   {
@@ -6989,6 +7309,115 @@
     "Leaf",
     "Root",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Tall, aromatic perennial herb with deeply lobed, dark green leaves that are distinctively silvery-white and woolly beneath. Small, dull reddish-brown to yellowish flower heads are borne in dense, branched, leafy spikes. The reddish-brown, ridged stems and the leaf's contrasting silver underside are characteristic field marks.",
+    "height": "60-150 cm",
+    "habit": "Tall, erect, aromatic perennial herb",
+    "leaves": "Deeply lobed, dark green above, distinctively silvery-white woolly beneath",
+    "flowers": "Small, dull reddish-brown to yellowish flower heads in dense, branched, leafy spikes",
+    "stem": "Reddish-brown, ridged, often woody at the base",
+    "root": "Woody, spreading rhizome",
+    "fruit": "Small achene without pappus",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-0733"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A common plant of waste ground, roadsides, hedgerows and riverbanks; native to Europe, Asia and North Africa and widely naturalised in North America.",
+    "reference_ids": [
+     "REF-0733"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts (leaf and stem) are cut in summer as flowering begins and dried in a warm, shaded, airy place; the root can be dug in autumn.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Stem"
+    ],
+    "season": "Summer for aerial parts; autumn for root",
+    "reference_ids": [
+     "REF-0733"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Mugwort is a widely used traditional bitter digestive tonic and calming nervine, and has a long reputation as an emmenagogue for menstrual complaints (reflected in its traditional use to bring on delayed menstruation, which is also why it is contraindicated in pregnancy). It has also been burned as 'moxa' in East Asian moxibustion and used as an insect repellent ('sailor's tobacco').",
+    "reference_ids": [
+     "REF-0733"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried leaf and flowering tops infused in hot water as a bitter digestive and calming tea.",
+     "reference_ids": [
+      "REF-0733"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    },
+    {
+     "name": "Moxa (external heat therapy)",
+     "text": "Dried, processed leaf ('moxa') burned near or on the skin over acupuncture points in traditional East Asian moxibustion.",
+     "reference_ids": [
+      "REF-0733"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily, for short-term use. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Sesquiterpenoids and triterpenoids",
+     "compounds": [
+      "sesquiterpene",
+      "terpene"
+     ],
+     "note": "Multiple undescribed and known sesquiterpenoids and triterpenoids isolated from the leaves, several with anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-0731"
+     ]
+    },
+    {
+     "name": "Essential oil (thujone, cineole, camphor)",
+     "compounds": [
+      "essential-oil",
+      "cineole",
+      "camphor",
+      "terpene"
+     ],
+     "note": "Volatile oil containing thujone and other monoterpenes; thujone content is the basis of the caution on prolonged internal use.",
+     "reference_ids": [
+      "REF-0733"
+     ]
+    },
+    {
+     "name": "Flavonoids and coumarins",
+     "compounds": [
+      "flavonoid",
+      "coumarin"
+     ],
+     "note": "Antioxidant and anti-inflammatory flavonoid and coumarin constituents.",
+     "reference_ids": [
+      "REF-0733"
+     ]
+    }
    ],
    "actions": [
     {
@@ -7254,7 +7683,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "mugwort"
   },
   {

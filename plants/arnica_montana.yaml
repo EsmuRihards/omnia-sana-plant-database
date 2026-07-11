@@ -38,6 +38,67 @@ constituents:
   note: Present in small amounts; relevant to the caution against internal use.
   reference_ids:
   - REF-0398
+botanical_description:
+  text: Aromatic mountain perennial herb with a basal rosette of oval, hairy leaves and one or two pairs
+    of smaller opposite leaves on an erect, softly hairy flowering stem. Each stem bears one or a few
+    large, bright golden-yellow, daisy-like flower heads with narrow, slightly twisted ray florets.
+  height: 20-60 cm
+  habit: Erect, aromatic mountain perennial herb
+  leaves: Basal rosette of oval, hairy leaves; one or two pairs of smaller opposite stem leaves
+  flowers: Large, bright golden-yellow, daisy-like flower heads with narrow, slightly twisted ray florets
+  stem: Erect, softly hairy, sparsely leaved flowering stem
+  root: Short, blackish rhizome with fibrous roots
+  fruit: Small, hairy achene with a pappus
+  flowering_period: June-August
+  reference_ids:
+  - REF-0398
+  status: verified
+habitat:
+  text: Grows in acidic, nutrient-poor mountain meadows, pastures and open woodland, typically at moderate
+    to high elevations across central and northern Europe; increasingly scarce in the wild due to habitat
+    loss and overharvesting.
+  reference_ids:
+  - REF-0398
+  status: verified
+harvesting:
+  text: The flower heads are picked by hand as they open, in mid- to late summer, and dried quickly in
+    a warm, shaded, airy place; wild populations are protected in many regions, so cultivated or sustainably
+    wildcrafted material is preferred.
+  parts:
+  - Flower head (topical preparations)
+  season: Mid- to late summer, as flowers open
+  reference_ids:
+  - REF-0398
+  status: verified
+traditional_uses:
+  text: Arnica flower has a long central European folk reputation, reflected in the name 'leopard's bane'
+    and 'mountain tobacco', as a topical remedy for bruising, sprains, muscle soreness and swelling after
+    minor injury, applied only to unbroken skin. Internal use of the whole herb has always been considered
+    dangerous and is confined to highly diluted homeopathic preparations.
+  reference_ids:
+  - REF-0398
+  status: verified
+preparations:
+- name: Topical cream/gel/ointment
+  text: Standardised flower extract formulated into a cream, gel or ointment for external application
+    to bruises, sprains and muscle soreness on unbroken skin.
+  reference_ids:
+  - REF-0398
+  status: verified
+- name: Diluted tincture (topical)
+  text: Alcoholic tincture of the dried flower heads, diluted before topical application as a compress;
+    never taken internally in this form.
+  reference_ids:
+  - REF-0398
+  status: draft
+- name: Infused oil
+  text: Flower heads infused in a carrier oil for topical massage use.
+  status: draft
+dosage:
+- name: Topical cream/gel
+  text: Applied to the affected area 2-3 times daily on unbroken skin only, per product labelling. Educational
+    reference only, not a prescription. Never taken by mouth except as a highly diluted homeopathic preparation.
+  status: draft
 actions:
 - action: analgesic
   note: Topical analgesic for muscle soreness and pain
@@ -190,7 +251,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review,
   Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained
@@ -199,4 +260,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0725,
   REF-0726, REF-0727. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
   @article sources (REF-0726, REF-0398, REF-2098, REF-2099, REF-2100, REF-2101, REF-2102, REF-2103, REF-2104,
-  REF-2105, REF-2106) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-2105, REF-2106) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

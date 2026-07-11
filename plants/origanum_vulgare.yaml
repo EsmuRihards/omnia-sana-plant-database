@@ -31,6 +31,75 @@ constituents:
   note: Antioxidant constituents.
   reference_ids:
   - REF-0485
+botanical_description:
+  text: Perennial herb/subshrub (Lamiaceae), 20-80 cm tall, with square, often reddish, downy stems. Leaves
+    are opposite, ovate and aromatic. Small purplish-pink (occasionally white) flowers are borne in dense,
+    flattened, corymb-like clusters at the branch tips.
+  height: 20-80 cm
+  habit: Bushy, aromatic perennial herb/subshrub
+  leaves: Opposite, ovate, aromatic
+  flowers: Small, purplish-pink (occasionally white), in dense corymb-like terminal clusters
+  stem: Square, often reddish, downy
+  root: Fibrous, spreading perennial rootstock
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: July-September
+  reference_ids:
+  - REF-0485
+  status: verified
+habitat:
+  text: Native to the Mediterranean, Europe and temperate Asia and widely naturalised elsewhere, growing
+    on dry, sunny grassland, banks and scrubby hillsides, typically on calcareous soils.
+  reference_ids:
+  - REF-0485
+  status: verified
+harvesting:
+  text: Aerial parts are cut at or just before flowering (mid- to late summer), when essential-oil (carvacrol/thymol)
+    content peaks, then dried quickly in the shade.
+  parts:
+  - Aerial parts (leaf, herb)
+  season: Mid- to late summer, at or just before flowering
+  reference_ids:
+  - REF-1450
+  - REF-1455
+  status: verified
+traditional_uses:
+  text: Oregano has a long Mediterranean culinary-medicinal tradition as an aromatic digestive bitter
+    and antiseptic remedy for coughs, colds and infections. Modern research on its carvacrol- and thymol-rich
+    essential oil strongly supports broad antibacterial, antifungal and antioxidant activity, consistent
+    with these traditional uses.
+  reference_ids:
+  - REF-0485
+  - REF-0486
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried herb steeped in hot water as a digestive, aromatic tea.
+  reference_ids:
+  - REF-0485
+  status: verified
+- name: Essential oil (diluted, topical/aromatic)
+  text: The most-studied form; concentrated oil is a strong irritant and must be well diluted before topical
+    use and never taken undiluted internally.
+  reference_ids:
+  - REF-0486
+  status: verified
+- name: Emulsified oil (oral, supervised)
+  text: A small clinical study used an emulsified oregano oil preparation to clear enteric parasites and
+    improve gut symptoms; oral use of concentrated oil should be supervised.
+  reference_ids:
+  - REF-0597
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+dosage:
+- name: Culinary/infusion use
+  text: Culinary amounts (as a food seasoning or mild tea) are considered safe; concentrated essential
+    oil should only be used well diluted and is not intended for undiluted internal use without professional
+    guidance. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0486
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Antioxidant and anti-inflammatory
@@ -169,7 +238,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal of Pharmaceutical Research
   phytochemistry/antimicrobial review; Phytotherapy Research carvacrol review). Note: this is Origanum
   vulgare (wild marjoram), distinct from the book''s Origanum majorana (sweet marjoram). Originally a
@@ -180,4 +249,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Iranian Journal
   schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1447, REF-1448,
   REF-1449, REF-1450, REF-1451, REF-1452, REF-1453, REF-1454, REF-1455, REF-1456) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing phytochemistry review (REF-0485) and carvacrol review
+  (REF-0486).'

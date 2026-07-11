@@ -8,6 +8,102 @@ common_names:
 family: Araliaceae
 parts_used:
 - Root
+botanical_description:
+  text: Slow-growing perennial herb (Araliaceae), 30-60 cm tall, harvested at 4 years of age or older.
+    A single erect stem bears a whorl of palmately compound leaves, each with 3-5 toothed leaflets, at
+    its top. Small greenish-white flowers are borne in a single terminal umbel, followed by small red
+    berries. The fleshy, often forked or human-shaped taproot - the origin of the name 'ginseng' ('renshen',
+    man-root) - is the medicinal part.
+  height: 30-60 cm
+  habit: Slow-growing perennial herb, single erect stem
+  leaves: Palmately compound, whorled at the stem top, 3-5 toothed leaflets per leaf
+  flowers: Small, greenish-white, in a single terminal umbel
+  stem: Single, erect
+  root: Fleshy, often forked, human-shaped taproot - the medicinal part
+  fruit: Small red berries
+  flowering_period: May-June
+  reference_ids:
+  - REF-1468
+  status: verified
+habitat:
+  text: Native to the cool-temperate deciduous mountain forests of Manchuria, Korea and the Russian Far
+    East. Historically wild-harvested, it is now predominantly cultivated, mainly in Korea and China,
+    under artificial shade for several years before harvest.
+  reference_ids:
+  - REF-1466
+  status: verified
+harvesting:
+  text: The root is harvested after at least 4-6 years of growth, once its ginsenoside content is fully
+    developed. Roots are either air-dried as 'white ginseng' or steamed and then dried as 'red ginseng',
+    a processing step that alters the ginsenoside profile.
+  parts:
+  - Root
+  season: After 4-6+ years of cultivation
+  reference_ids:
+  - REF-1468
+  status: verified
+traditional_uses:
+  text: Ginseng is one of the most celebrated tonic herbs of East Asian traditional medicine, used for
+    millennia as a general adaptogen to restore vitality, support recovery from illness and improve stamina
+    and cognitive performance. Modern clinical research supports adaptogenic, immunomodulatory, antioxidant,
+    neuroprotective and mild antidiabetic effects consistent with this traditional use.
+  reference_ids:
+  - REF-1466
+  - REF-1472
+  status: verified
+preparations:
+- name: Standardised root extract (capsule)
+  text: Commission E-recognised standardised extract (4-7% ginsenosides), the most clinically studied
+    preparation.
+  reference_ids:
+  - REF-0014
+  - REF-0137
+  - REF-0192
+  status: verified
+- name: Dried root (sliced/whole)
+  text: Sliced or whole dried root, chewed or decocted.
+  status: draft
+- name: Red ginseng (steamed and dried root)
+  text: Traditional processed form (steamed then dried), which alters and concentrates the ginsenoside
+    profile compared with white (unprocessed) ginseng.
+  reference_ids:
+  - REF-1468
+  status: verified
+- name: Tea/decoction
+  text: Sliced root simmered in water.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: 'Duke (2002) and Commission E guidance: 200-600 mg of standardised extract (4-7% ginsenosides)
+    daily, used cyclically (2-3 weeks on, 2 weeks off) rather than continuously. Educational reference
+    only, not a prescription.'
+  reference_ids:
+  - REF-0014
+  - REF-0137
+  - REF-0192
+  status: verified
+constituents:
+- name: Ginsenosides (panaxosides)
+  compounds:
+  - ginsenoside
+  note: The principal bioactive triterpene saponins of the root, considered responsible for most of ginseng's
+    adaptogenic, neuroprotective and immunomodulatory activity; the ratio of protopanaxadiol- to protopanaxatriol-type
+    ginsenosides differs between fresh, white and red ginseng.
+  reference_ids:
+  - REF-1468
+- name: Polysaccharides (panaxans)
+  compounds:
+  - polysaccharide
+  note: Contribute to the immunomodulatory activity of the root.
+  reference_ids:
+  - REF-1472
+- name: Volatile oil and phenolic compounds
+  compounds:
+  - essential-oil
+  - phenolic-compound
+  note: Minor constituents contributing to the aroma and antioxidant activity.
+  reference_ids:
+  - REF-1472
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -180,7 +276,8 @@ references:
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'Ginseng may reduce the anticoagulant effect of warfarin (lower INR); a randomized trial of American ginseng showed a reduced INR. Monitor anticoagulation closely.'
+  mechanism: Ginseng may reduce the anticoagulant effect of warfarin (lower INR); a randomized trial of
+    American ginseng showed a reduced INR. Monitor anticoagulation closely.
   reference_ids:
   - REF-2436
   - REF-2438
@@ -189,7 +286,8 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antidepressants-serotonergic
   severity: caution
-  mechanism: 'Case reports link ginseng with MAOI antidepressants (e.g. phenelzine) to headache, tremor and manic-like symptoms.'
+  mechanism: Case reports link ginseng with MAOI antidepressants (e.g. phenelzine) to headache, tremor
+    and manic-like symptoms.
   reference_ids:
   - REF-2436
   status: approved
@@ -197,7 +295,9 @@ drug_class_interactions:
   reviewed_date: '2026-07-03'
 - drug_class: antidiabetics
   severity: caution
-  mechanism: 'Ginseng can lower blood glucose - a controlled trial in type 2 diabetes reduced fasting glucose and HbA1c, and ginseng also lowers post-meal glucose. Combined with diabetes medicines it may add to blood-sugar lowering and risk hypoglycaemia, so monitor blood sugar.'
+  mechanism: Ginseng can lower blood glucose - a controlled trial in type 2 diabetes reduced fasting glucose
+    and HbA1c, and ginseng also lowers post-meal glucose. Combined with diabetes medicines it may add
+    to blood-sugar lowering and risk hypoglycaemia, so monitor blood sugar.
   reference_ids:
   - REF-2476
   - REF-2477
@@ -207,7 +307,9 @@ drug_class_interactions:
 pairings:
 - partner_id: tanacetum-parthenium
   type: caution
-  note: 'Ginseng and feverfew both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Ginseng and feverfew both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   - REF-2444
@@ -216,7 +318,9 @@ pairings:
   reviewed_date: '2026-07-03'
 - partner_id: zingiber-officinale
   type: caution
-  note: 'Ginseng and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Ginseng and ginger both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   - REF-2443
@@ -229,7 +333,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -237,4 +341,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1466, REF-1467, REF-1468, REF-1469, REF-1470,
   REF-1471, REF-1472, REF-1473, REF-1474, REF-1475) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing chemical-constituents review (REF-1468) and the pharmacology/toxicology
+  review (REF-1466, REF-1472) plus the Duke-sourced dosage already cited in contraindications.'

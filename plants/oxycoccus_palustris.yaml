@@ -9,6 +9,100 @@ common_names:
 family: Ericaceae
 parts_used:
 - Fruit
+botanical_description:
+  text: Low, creeping, evergreen dwarf shrub (Ericaceae) with slender, wiry stems that root at the nodes.
+    Leaves are tiny, alternate, leathery and ovate with in-rolled margins, dark green above and whitish
+    beneath. Flowers are small, pink and four-petalled, sharply reflexed backward so that the protruding
+    stamens and style resemble a crane's head and neck - the origin of the name 'craneberry', later shortened
+    to 'cranberry'. The fruit is a small, round, tart red berry.
+  height: Prostrate, mat-forming (stems trailing, rarely more than 10-20 cm above the moss)
+  habit: Low, creeping, evergreen dwarf shrub
+  leaves: Tiny, alternate, leathery, ovate, in-rolled margins, whitish beneath
+  flowers: Small, pink, four-petalled, sharply reflexed (crane's-head shape)
+  stem: Slender, wiry, trailing, rooting at the nodes
+  root: Shallow fibrous roots adapted to waterlogged, acidic peat
+  fruit: Small, round, tart red berry
+  flowering_period: June-August
+  reference_ids:
+  - REF-0947
+  status: verified
+habitat:
+  text: Native to boggy, acidic wetlands - sphagnum bogs and marshes - across northern and central Europe
+    and northern Asia, requiring waterlogged, nutrient-poor, acidic peat soils.
+  reference_ids:
+  - REF-0947
+  status: verified
+harvesting:
+  text: Berries are hand-picked or wet-harvested (traditionally by hand-raking the bog) in autumn once
+    fully ripe and deep red.
+  parts:
+  - Fruit
+  season: Autumn
+  reference_ids:
+  - REF-0947
+  status: verified
+traditional_uses:
+  text: Cranberry has a long northern-European and Native American tradition as a food and folk remedy
+    for urinary complaints, valued for its tart, astringent, vitamin-C-rich fruit. Modern research on
+    its proanthocyanidins supports a role in reducing bacterial adhesion in the urinary tract, consistent
+    with the traditional use for cystitis and recurrent urinary tract infections.
+  reference_ids:
+  - REF-0941
+  - REF-0114
+  status: verified
+preparations:
+- name: Fresh or dried berries
+  text: Eaten whole, fresh or dried, or added to food.
+  status: draft
+- name: Juice
+  text: Unsweetened juice, the traditional preparation used for urinary support.
+  reference_ids:
+  - REF-0941
+  status: verified
+- name: Standardised extract capsule
+  text: Proanthocyanidin-standardised extract, a concentrated form used in clinical trials for UTI prevention.
+  reference_ids:
+  - REF-0941
+  status: verified
+dosage:
+- name: Juice / extract
+  text: Food amounts (juice, sauces, dried fruit) are considered safe; standardised extract products vary
+    in proanthocyanidin content, so follow product-specific dosing for urinary support. Educational reference
+    only, not a prescription.
+  status: draft
+constituents:
+- name: Proanthocyanidins (A-type PACs)
+  compounds:
+  - proanthocyanidin
+  note: The A-type proanthocyanidins are considered responsible for inhibiting bacterial adhesion to the
+    urinary tract lining.
+  reference_ids:
+  - REF-0941
+  - REF-0943
+- name: Anthocyanins
+  compounds:
+  - anthocyanin
+  note: Red pigments and antioxidants of the fruit.
+  reference_ids:
+  - REF-0943
+- name: Flavonoids (quercetin, myricetin)
+  compounds:
+  - quercetin
+  - flavonoid
+  note: Antioxidant flavonoids of the fruit.
+  reference_ids:
+  - REF-0941
+- name: Triterpenoids and phytosterols
+  compounds:
+  - phytosterol
+  note: Minor lipophilic constituents of the fruit skin.
+  reference_ids:
+  - REF-0942
+- name: Organic acids (quinic, citric, malic acid)
+  note: Give the fruit its characteristic tartness and are traditionally credited with a mild urinary-acidifying
+    effect.
+  reference_ids:
+  - REF-0941
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -116,7 +210,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -124,4 +218,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0940, REF-0941, REF-0942, REF-0943, REF-0944,
   REF-0945, REF-0946, REF-0947, REF-0948, REF-0949) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing phytochemistry review (REF-0941, REF-0943) and field-ecology
+  study (REF-0947).'

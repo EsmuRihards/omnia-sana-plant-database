@@ -38970,6 +38970,89 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Perennial herb/subshrub (Lamiaceae), 20-80 cm tall, with square, often reddish, downy stems. Leaves are opposite, ovate and aromatic. Small purplish-pink (occasionally white) flowers are borne in dense, flattened, corymb-like clusters at the branch tips.",
+    "height": "20-80 cm",
+    "habit": "Bushy, aromatic perennial herb/subshrub",
+    "leaves": "Opposite, ovate, aromatic",
+    "flowers": "Small, purplish-pink (occasionally white), in dense corymb-like terminal clusters",
+    "stem": "Square, often reddish, downy",
+    "root": "Fibrous, spreading perennial rootstock",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-0485"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean, Europe and temperate Asia and widely naturalised elsewhere, growing on dry, sunny grassland, banks and scrubby hillsides, typically on calcareous soils.",
+    "reference_ids": [
+     "REF-0485"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Aerial parts are cut at or just before flowering (mid- to late summer), when essential-oil (carvacrol/thymol) content peaks, then dried quickly in the shade.",
+    "parts": [
+     "Aerial parts (leaf, herb)"
+    ],
+    "season": "Mid- to late summer, at or just before flowering",
+    "reference_ids": [
+     "REF-1450",
+     "REF-1455"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Oregano has a long Mediterranean culinary-medicinal tradition as an aromatic digestive bitter and antiseptic remedy for coughs, colds and infections. Modern research on its carvacrol- and thymol-rich essential oil strongly supports broad antibacterial, antifungal and antioxidant activity, consistent with these traditional uses.",
+    "reference_ids": [
+     "REF-0485",
+     "REF-0486"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried herb steeped in hot water as a digestive, aromatic tea.",
+     "reference_ids": [
+      "REF-0485"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (diluted, topical/aromatic)",
+     "text": "The most-studied form; concentrated oil is a strong irritant and must be well diluted before topical use and never taken undiluted internally.",
+     "reference_ids": [
+      "REF-0486"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Emulsified oil (oral, supervised)",
+     "text": "A small clinical study used an emulsified oregano oil preparation to clear enteric parasites and improve gut symptoms; oral use of concentrated oil should be supervised.",
+     "reference_ids": [
+      "REF-0597"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Culinary/infusion use",
+     "text": "Culinary amounts (as a food seasoning or mild tea) are considered safe; concentrated essential oil should only be used well diluted and is not intended for undiluted internal use without professional guidance. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0486"
+     ],
+     "status": "verified"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -39173,7 +39256,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "oregano"
   },
   {
@@ -39593,6 +39676,128 @@
    "parts_used": [
     "Fruit"
    ],
+   "botanical_description": {
+    "text": "Low, creeping, evergreen dwarf shrub (Ericaceae) with slender, wiry stems that root at the nodes. Leaves are tiny, alternate, leathery and ovate with in-rolled margins, dark green above and whitish beneath. Flowers are small, pink and four-petalled, sharply reflexed backward so that the protruding stamens and style resemble a crane's head and neck - the origin of the name 'craneberry', later shortened to 'cranberry'. The fruit is a small, round, tart red berry.",
+    "height": "Prostrate, mat-forming (stems trailing, rarely more than 10-20 cm above the moss)",
+    "habit": "Low, creeping, evergreen dwarf shrub",
+    "leaves": "Tiny, alternate, leathery, ovate, in-rolled margins, whitish beneath",
+    "flowers": "Small, pink, four-petalled, sharply reflexed (crane's-head shape)",
+    "stem": "Slender, wiry, trailing, rooting at the nodes",
+    "root": "Shallow fibrous roots adapted to waterlogged, acidic peat",
+    "fruit": "Small, round, tart red berry",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0947"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to boggy, acidic wetlands - sphagnum bogs and marshes - across northern and central Europe and northern Asia, requiring waterlogged, nutrient-poor, acidic peat soils.",
+    "reference_ids": [
+     "REF-0947"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Berries are hand-picked or wet-harvested (traditionally by hand-raking the bog) in autumn once fully ripe and deep red.",
+    "parts": [
+     "Fruit"
+    ],
+    "season": "Autumn",
+    "reference_ids": [
+     "REF-0947"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Cranberry has a long northern-European and Native American tradition as a food and folk remedy for urinary complaints, valued for its tart, astringent, vitamin-C-rich fruit. Modern research on its proanthocyanidins supports a role in reducing bacterial adhesion in the urinary tract, consistent with the traditional use for cystitis and recurrent urinary tract infections.",
+    "reference_ids": [
+     "REF-0941",
+     "REF-0114"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh or dried berries",
+     "text": "Eaten whole, fresh or dried, or added to food.",
+     "status": "draft"
+    },
+    {
+     "name": "Juice",
+     "text": "Unsweetened juice, the traditional preparation used for urinary support.",
+     "reference_ids": [
+      "REF-0941"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract capsule",
+     "text": "Proanthocyanidin-standardised extract, a concentrated form used in clinical trials for UTI prevention.",
+     "reference_ids": [
+      "REF-0941"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Juice / extract",
+     "text": "Food amounts (juice, sauces, dried fruit) are considered safe; standardised extract products vary in proanthocyanidin content, so follow product-specific dosing for urinary support. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Proanthocyanidins (A-type PACs)",
+     "compounds": [
+      "proanthocyanidin"
+     ],
+     "note": "The A-type proanthocyanidins are considered responsible for inhibiting bacterial adhesion to the urinary tract lining.",
+     "reference_ids": [
+      "REF-0941",
+      "REF-0943"
+     ]
+    },
+    {
+     "name": "Anthocyanins",
+     "compounds": [
+      "anthocyanin"
+     ],
+     "note": "Red pigments and antioxidants of the fruit.",
+     "reference_ids": [
+      "REF-0943"
+     ]
+    },
+    {
+     "name": "Flavonoids (quercetin, myricetin)",
+     "compounds": [
+      "quercetin",
+      "flavonoid"
+     ],
+     "note": "Antioxidant flavonoids of the fruit.",
+     "reference_ids": [
+      "REF-0941"
+     ]
+    },
+    {
+     "name": "Triterpenoids and phytosterols",
+     "compounds": [
+      "phytosterol"
+     ],
+     "note": "Minor lipophilic constituents of the fruit skin.",
+     "reference_ids": [
+      "REF-0942"
+     ]
+    },
+    {
+     "name": "Organic acids (quinic, citric, malic acid)",
+     "note": "Give the fruit its characteristic tartness and are traditionally credited with a mild urinary-acidifying effect.",
+     "reference_ids": [
+      "REF-0941"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -39744,7 +39949,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "cranberry"
   },
   {
@@ -39759,6 +39964,122 @@
    "family": "Araliaceae",
    "parts_used": [
     "Root"
+   ],
+   "botanical_description": {
+    "text": "Slow-growing perennial herb (Araliaceae), 30-60 cm tall, harvested at 4 years of age or older. A single erect stem bears a whorl of palmately compound leaves, each with 3-5 toothed leaflets, at its top. Small greenish-white flowers are borne in a single terminal umbel, followed by small red berries. The fleshy, often forked or human-shaped taproot - the origin of the name 'ginseng' ('renshen', man-root) - is the medicinal part.",
+    "height": "30-60 cm",
+    "habit": "Slow-growing perennial herb, single erect stem",
+    "leaves": "Palmately compound, whorled at the stem top, 3-5 toothed leaflets per leaf",
+    "flowers": "Small, greenish-white, in a single terminal umbel",
+    "stem": "Single, erect",
+    "root": "Fleshy, often forked, human-shaped taproot - the medicinal part",
+    "fruit": "Small red berries",
+    "flowering_period": "May-June",
+    "reference_ids": [
+     "REF-1468"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the cool-temperate deciduous mountain forests of Manchuria, Korea and the Russian Far East. Historically wild-harvested, it is now predominantly cultivated, mainly in Korea and China, under artificial shade for several years before harvest.",
+    "reference_ids": [
+     "REF-1466"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is harvested after at least 4-6 years of growth, once its ginsenoside content is fully developed. Roots are either air-dried as 'white ginseng' or steamed and then dried as 'red ginseng', a processing step that alters the ginsenoside profile.",
+    "parts": [
+     "Root"
+    ],
+    "season": "After 4-6+ years of cultivation",
+    "reference_ids": [
+     "REF-1468"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Ginseng is one of the most celebrated tonic herbs of East Asian traditional medicine, used for millennia as a general adaptogen to restore vitality, support recovery from illness and improve stamina and cognitive performance. Modern clinical research supports adaptogenic, immunomodulatory, antioxidant, neuroprotective and mild antidiabetic effects consistent with this traditional use.",
+    "reference_ids": [
+     "REF-1466",
+     "REF-1472"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised root extract (capsule)",
+     "text": "Commission E-recognised standardised extract (4-7% ginsenosides), the most clinically studied preparation.",
+     "reference_ids": [
+      "REF-0014",
+      "REF-0137",
+      "REF-0192"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Dried root (sliced/whole)",
+     "text": "Sliced or whole dried root, chewed or decocted.",
+     "status": "draft"
+    },
+    {
+     "name": "Red ginseng (steamed and dried root)",
+     "text": "Traditional processed form (steamed then dried), which alters and concentrates the ginsenoside profile compared with white (unprocessed) ginseng.",
+     "reference_ids": [
+      "REF-1468"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tea/decoction",
+     "text": "Sliced root simmered in water.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Duke (2002) and Commission E guidance: 200-600 mg of standardised extract (4-7% ginsenosides) daily, used cyclically (2-3 weeks on, 2 weeks off) rather than continuously. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0014",
+      "REF-0137",
+      "REF-0192"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Ginsenosides (panaxosides)",
+     "compounds": [
+      "ginsenoside"
+     ],
+     "note": "The principal bioactive triterpene saponins of the root, considered responsible for most of ginseng's adaptogenic, neuroprotective and immunomodulatory activity; the ratio of protopanaxadiol- to protopanaxatriol-type ginsenosides differs between fresh, white and red ginseng.",
+     "reference_ids": [
+      "REF-1468"
+     ]
+    },
+    {
+     "name": "Polysaccharides (panaxans)",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Contribute to the immunomodulatory activity of the root.",
+     "reference_ids": [
+      "REF-1472"
+     ]
+    },
+    {
+     "name": "Volatile oil and phenolic compounds",
+     "compounds": [
+      "essential-oil",
+      "phenolic-compound"
+     ],
+     "note": "Minor constituents contributing to the aroma and antioxidant activity.",
+     "reference_ids": [
+      "REF-1472"
+     ]
+    }
    ],
    "actions": [
     {
@@ -40079,7 +40400,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "panax-ginseng"
   },
   {
@@ -40115,6 +40436,80 @@
      "reference_ids": [
       "REF-0490"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Fast-growing, climbing or trailing perennial vine (Passifloraceae) that climbs by axillary tendrils, reaching several metres. Leaves are alternate and deeply 3-lobed. The large, intricate flowers have a fringed corona of lavender-white filaments around a central structure whose parts were likened by early missionaries to instruments of the Passion of Christ, giving the plant its name. The fruit is an edible, egg-shaped, yellow-orange berry known as a 'maypop'.",
+    "height": "Climbing/trailing vine, several metres long",
+    "habit": "Fast-growing, tendril-climbing perennial vine",
+    "leaves": "Alternate, deeply 3-lobed",
+    "flowers": "Large, intricate, lavender-white with a fringed corona",
+    "stem": "Climbing by axillary tendrils",
+    "root": "Spreading rhizomatous root system",
+    "fruit": "Edible, egg-shaped, yellow-orange berry ('maypop')",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0491"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the south-eastern United States, growing in thickets, fencerows, roadsides and disturbed sunny ground; widely cultivated and naturalised as an ornamental and medicinal crop elsewhere in warm-temperate and subtropical regions.",
+    "reference_ids": [
+     "REF-0491"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering and fruiting aerial parts (herb) are cut during the growing season, typically as flowering begins, and dried for use.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Growing season, at the start of flowering",
+    "reference_ids": [
+     "REF-0491"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Passionflower has a traditional use, recognised by European regulatory herbal monographs, as a mild sedative and anxiolytic for nervous tension, mild anxiety and difficulty sleeping. Modern clinical trials support anxiolytic and sleep-supporting effects, including reduced preoperative anxiety without sedation or psychomotor impairment.",
+    "reference_ids": [
+     "REF-0491",
+     "REF-0490"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried herb steeped in hot water as a calming, sleep-supporting tea.",
+     "reference_ids": [
+      "REF-0491"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract/tincture",
+     "text": "Liquid or encapsulated extract, the form used in most clinical trials.",
+     "reference_ids": [
+      "REF-0490"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tea blend",
+     "text": "Traditionally combined with other calming herbs such as chamomile or lemon balm.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "EMA herbal-monograph guidance suggests around 0.5-2 g dried herb per cup as an infusion, up to several times daily, or an equivalent liquid/dry extract. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0491"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -40250,7 +40645,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "passionflower"
   },
   {
@@ -40264,6 +40659,110 @@
    "family": "Sapindaceae",
    "parts_used": [
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Woody climbing shrub or liana (Sapindaceae) in its native forest habitat, though often cultivated and pruned as a shrub. Leaves are alternate and pinnately compound with 5 leaflets. Small greenish-white flowers are borne in axillary panicles, followed by a red-orange, three-lobed capsule that splits open to reveal black seeds partly covered by a white aril - a fruit likened in Indigenous Amazonian folklore to a staring eye.",
+    "height": "Climbing shrub/liana (cultivated as a shrub of a few metres)",
+    "habit": "Woody climbing shrub or liana",
+    "leaves": "Alternate, pinnately compound with 5 leaflets",
+    "flowers": "Small, greenish-white, in axillary panicles",
+    "stem": "Woody, climbing in the wild",
+    "root": "Woody perennial root system",
+    "fruit": "Red-orange, three-lobed capsule splitting to reveal black, white-arilled seeds",
+    "flowering_period": "Variable, tropical (largely aseasonal)",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Native to the Amazon basin, particularly Brazil, where it has long been cultivated by Indigenous peoples (notably the Sateré-Mawé); grows in tropical, humid lowland forest conditions.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Ripe fruit capsules are hand-harvested as they split open; seeds are removed, roasted, and traditionally ground into a paste with water and shaped into sticks for storage, or dried and powdered.",
+    "parts": [
+     "Seed"
+    ],
+    "season": "As fruit capsules ripen and split",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Guarana seed has a long Amazonian Indigenous tradition as a stimulant tonic for fatigue and stamina and as a ceremonial and social beverage. Its very high caffeine content (greater by weight than coffee beans) underlies its modern use for cognitive performance, physical endurance and metabolic support, supported by clinical trials.",
+    "reference_ids": [
+     "REF-0954"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Powdered seed/paste",
+     "text": "Traditional roasted, ground seed, taken in water or food - the classic Amazonian Indigenous preparation.",
+     "reference_ids": [
+      "REF-0954"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract capsule",
+     "text": "The form used in most clinical trials for cognition, fatigue and physical performance.",
+     "reference_ids": [
+      "REF-0950",
+      "REF-0955"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Guarana beverage/soft drink",
+     "text": "Seed extract used as a flavouring and stimulant ingredient in commercial beverages.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Extract/powder",
+     "text": "Guarana products vary widely in caffeine content (the seed is naturally 2-4 times more caffeine-dense than coffee by weight); follow product-specific dosing and apply the same cautions as for a strong caffeine source. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0009",
+      "REF-0106",
+      "REF-0233"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Caffeine (guaranine)",
+     "note": "The dominant bioactive constituent, present at 2-4 times the concentration found in coffee beans by weight; responsible for guarana's stimulant, ergogenic and thermogenic effects.",
+     "reference_ids": [
+      "REF-0954"
+     ]
+    },
+    {
+     "name": "Tannins (catechins, epicatechins)",
+     "compounds": [
+      "tannin",
+      "catechin"
+     ],
+     "note": "Polyphenols thought to slow caffeine absorption and to contribute antioxidant activity.",
+     "reference_ids": [
+      "REF-0954"
+     ]
+    },
+    {
+     "name": "Saponins",
+     "compounds": [
+      "saponin"
+     ],
+     "note": "Minor constituents of the seed.",
+     "reference_ids": [
+      "REF-0954"
+     ]
+    },
+    {
+     "name": "Theobromine and theophylline (minor methylxanthines)",
+     "note": "Minor stimulant alkaloids alongside caffeine.",
+     "reference_ids": [
+      "REF-0954"
+     ]
+    }
    ],
    "actions": [
     {
@@ -40415,7 +40914,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "guarana"
   },
   {

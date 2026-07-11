@@ -7,6 +7,88 @@ common_names:
 family: Sapindaceae
 parts_used:
 - Seed
+botanical_description:
+  text: Woody climbing shrub or liana (Sapindaceae) in its native forest habitat, though often cultivated
+    and pruned as a shrub. Leaves are alternate and pinnately compound with 5 leaflets. Small greenish-white
+    flowers are borne in axillary panicles, followed by a red-orange, three-lobed capsule that splits
+    open to reveal black seeds partly covered by a white aril - a fruit likened in Indigenous Amazonian
+    folklore to a staring eye.
+  height: Climbing shrub/liana (cultivated as a shrub of a few metres)
+  habit: Woody climbing shrub or liana
+  leaves: Alternate, pinnately compound with 5 leaflets
+  flowers: Small, greenish-white, in axillary panicles
+  stem: Woody, climbing in the wild
+  root: Woody perennial root system
+  fruit: Red-orange, three-lobed capsule splitting to reveal black, white-arilled seeds
+  flowering_period: Variable, tropical (largely aseasonal)
+  status: draft
+habitat:
+  text: Native to the Amazon basin, particularly Brazil, where it has long been cultivated by Indigenous
+    peoples (notably the Sateré-Mawé); grows in tropical, humid lowland forest conditions.
+  status: draft
+harvesting:
+  text: Ripe fruit capsules are hand-harvested as they split open; seeds are removed, roasted, and traditionally
+    ground into a paste with water and shaped into sticks for storage, or dried and powdered.
+  parts:
+  - Seed
+  season: As fruit capsules ripen and split
+  status: draft
+traditional_uses:
+  text: Guarana seed has a long Amazonian Indigenous tradition as a stimulant tonic for fatigue and stamina
+    and as a ceremonial and social beverage. Its very high caffeine content (greater by weight than coffee
+    beans) underlies its modern use for cognitive performance, physical endurance and metabolic support,
+    supported by clinical trials.
+  reference_ids:
+  - REF-0954
+  status: verified
+preparations:
+- name: Powdered seed/paste
+  text: Traditional roasted, ground seed, taken in water or food - the classic Amazonian Indigenous preparation.
+  reference_ids:
+  - REF-0954
+  status: verified
+- name: Standardised extract capsule
+  text: The form used in most clinical trials for cognition, fatigue and physical performance.
+  reference_ids:
+  - REF-0950
+  - REF-0955
+  status: verified
+- name: Guarana beverage/soft drink
+  text: Seed extract used as a flavouring and stimulant ingredient in commercial beverages.
+  status: draft
+dosage:
+- name: Extract/powder
+  text: Guarana products vary widely in caffeine content (the seed is naturally 2-4 times more caffeine-dense
+    than coffee by weight); follow product-specific dosing and apply the same cautions as for a strong
+    caffeine source. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0009
+  - REF-0106
+  - REF-0233
+  status: verified
+constituents:
+- name: Caffeine (guaranine)
+  note: The dominant bioactive constituent, present at 2-4 times the concentration found in coffee beans
+    by weight; responsible for guarana's stimulant, ergogenic and thermogenic effects.
+  reference_ids:
+  - REF-0954
+- name: Tannins (catechins, epicatechins)
+  compounds:
+  - tannin
+  - catechin
+  note: Polyphenols thought to slow caffeine absorption and to contribute antioxidant activity.
+  reference_ids:
+  - REF-0954
+- name: Saponins
+  compounds:
+  - saponin
+  note: Minor constituents of the seed.
+  reference_ids:
+  - REF-0954
+- name: Theobromine and theophylline (minor methylxanthines)
+  note: Minor stimulant alkaloids alongside caffeine.
+  reference_ids:
+  - REF-0954
 actions:
 - action: antioxidant
   reference_ids:
@@ -120,7 +202,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -128,4 +210,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0950, REF-0951, REF-0952, REF-0953, REF-0954,
   REF-0955, REF-0956, REF-0957, REF-0958, REF-0959) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields; botanical_description/habitat/harvesting are status:draft (well-known general
+  facts, no dedicated botanical review in the largely-clinical bucket), other fields cite the existing
+  narrative health review (REF-0954) and trial reviews.'

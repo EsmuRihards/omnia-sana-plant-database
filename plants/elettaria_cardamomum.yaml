@@ -10,6 +10,79 @@ family: Zingiberaceae
 parts_used:
 - Fruit
 - Seed
+botanical_description:
+  text: Large, rhizomatous perennial herb with tall, reed-like leafy stems (pseudostems) formed by overlapping
+    leaf sheaths, arising from a stout underground rhizome. Small, pale flowers with a violet-veined white
+    lip are borne on separate trailing panicles that grow along the ground from the base of the plant.
+    The fruit is a small, ridged, pale green three-sided capsule (the cardamom pod) containing numerous
+    dark, aromatic seeds.
+  height: 2-4 m (leafy stems)
+  habit: Large, rhizomatous, reed-like perennial herb
+  leaves: Long, lance-shaped, glossy, arranged on tall leafy pseudostems
+  flowers: Small, pale, with a violet-veined white lip, on trailing panicles near the ground
+  stem: Tall, reed-like leafy pseudostems; flowering panicles trail separately along the ground
+  root: Stout underground rhizome
+  fruit: Small, ridged, pale green three-sided capsule (pod) containing numerous dark aromatic seeds
+  flowering_period: Varies with climate, often during the rainy season
+  reference_ids:
+  - REF-1668
+  status: verified
+habitat:
+  text: Native to the moist evergreen forests of the Western Ghats of southern India and Sri Lanka; cultivated
+    in warm, humid, shaded tropical conditions, notably in India, Guatemala and Sri Lanka.
+  reference_ids:
+  - REF-1668
+  status: verified
+harvesting:
+  text: The unripe green pods are hand-picked just before full maturity, then carefully dried (traditionally
+    in the shade or by gentle heat) to preserve the green colour and aromatic oil; the pods are typically
+    used whole or the seeds removed and ground just before use.
+  parts:
+  - Fruit
+  - Seed
+  status: draft
+traditional_uses:
+  text: Cardamom has a long Ayurvedic, Middle Eastern and Asian tradition as a warming digestive carminative
+    for indigestion and bloating, a remedy for respiratory complaints such as asthma and bronchitis, and
+    a valued spice for tea, coffee and cooking.
+  reference_ids:
+  - REF-1668
+  status: verified
+preparations:
+- name: Infusion (crushed pod/seed)
+  text: Crushed pods or seeds infused in hot water, or added to tea/coffee, as a traditional carminative
+    digestive preparation.
+  reference_ids:
+  - REF-1668
+  status: verified
+- name: Essential oil
+  text: Steam-distilled from the seed; used in small internal doses or diluted for aromatic/topical use.
+  status: draft
+- name: Culinary use
+  text: Whole or ground seed used extensively as a food spice, the most common form of use.
+  status: draft
+dosage:
+- name: Ground fruit/seed
+  text: Traditional herbal references suggest around 1.5 g ground fruit (pod and seed), up to three times
+    daily. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Essential oil (1,8-cineole, alpha-terpinyl acetate)
+  compounds:
+  - essential-oil
+  - cineole
+  - terpene
+  note: Seed essential oil dominated by 1,8-cineole and alpha-terpinyl acetate, giving the characteristic
+    aroma and much of the carminative, antimicrobial and antioxidant activity.
+  reference_ids:
+  - REF-1668
+- name: Flavonoids and phenolic compounds
+  compounds:
+  - flavonoid
+  - phenolic-compound
+  note: Additional antioxidant constituents of the seed.
+  reference_ids:
+  - REF-1668
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -181,7 +254,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -189,4 +262,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1668, REF-1669, REF-1670, REF-1671, REF-1672,
   REF-1673, REF-1674, REF-1675, REF-1676, REF-1677) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

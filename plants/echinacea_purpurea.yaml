@@ -9,6 +9,89 @@ wp_post_id: 151
 parts_used:
 - Flower
 - Root
+botanical_description:
+  text: Robust perennial herb with a basal rosette of coarse, hairy, lance-shaped leaves and tall, sturdy
+    flowering stems. Each stem bears a single large, daisy-like flower head with drooping (reflexed),
+    rose-purple to pink ray florets surrounding a prominent, spiny, orange-brown central cone of disc
+    florets.
+  height: 60-150 cm
+  habit: Robust, clump-forming perennial herb
+  leaves: Coarse, hairy, lance-shaped, in a basal rosette
+  flowers: Large daisy-like heads with drooping rose-purple ray florets around a spiny orange-brown cone
+  stem: Tall, sturdy, hairy, mostly unbranched
+  root: Thick, fibrous, black-brown taproot
+  fruit: Small four-angled achene
+  flowering_period: June-September
+  reference_ids:
+  - REF-2011
+  status: verified
+habitat:
+  text: Native to the tallgrass prairies, open woodland and dry meadows of central and eastern North America;
+    widely cultivated worldwide as a garden and medicinal plant.
+  reference_ids:
+  - REF-2011
+  status: verified
+harvesting:
+  text: The flower heads are picked as they open, in summer; the root is dug in autumn from plants at
+    least two to three years old, when its content of bioactive alkamides and caffeic acid derivatives
+    is highest, then cleaned and dried.
+  parts:
+  - Flower
+  - Root
+  season: Flower in summer; root in autumn from mature plants
+  reference_ids:
+  - REF-2011
+  status: verified
+traditional_uses:
+  text: Echinacea root was widely used by Native American peoples as a remedy for infections, wounds,
+    snakebite and toothache, and entered nineteenth-century Eclectic medicine as a broad anti-infective.
+    It remains best known today, in standardised aerial-part or root extracts, as a supportive remedy
+    for preventing and shortening the common cold and supporting immune function.
+  reference_ids:
+  - REF-2011
+  - REF-0797
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Fresh-pressed juice or standardised extract of the aerial parts or root, taken as tablets, drops
+    or capsules at the first sign of a cold; the best-studied clinical form.
+  reference_ids:
+  - REF-0797
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the fresh or dried root and/or aerial parts.
+  status: draft
+- name: Infusion
+  text: Dried root or aerial parts infused in hot water as a traditional immune-supporting tea.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for the common cold commonly use around 300-900 mg of standardised extract daily,
+    started at the first sign of symptoms and continued for up to 7-10 days; continuous use beyond about
+    8 weeks is not recommended. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0797
+  status: draft
+constituents:
+- name: Alkamides
+  note: Lipophilic alkamides are considered key immunomodulatory and anti-inflammatory constituents, particularly
+    concentrated in the root.
+  reference_ids:
+  - REF-2011
+- name: Caffeic acid derivatives (echinacoside, cichoric acid)
+  compounds:
+  - caffeic-acid
+  - phenolic-acid
+  note: Antioxidant phenolic compounds contributing to the plant's immunomodulatory activity.
+  reference_ids:
+  - REF-2011
+- name: Polysaccharides
+  compounds:
+  - polysaccharide
+  note: Water-soluble polysaccharides associated with immune-stimulating activity, particularly from the
+    aerial parts.
+  reference_ids:
+  - REF-2011
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -127,7 +210,9 @@ references:
 drug_class_interactions:
 - drug_class: immunosuppressants
   severity: caution
-  mechanism: 'Echinacea can both stimulate immune activity and alter CYP3A/CYP1A2 enzymes, so it may reduce the effect or change the blood levels of immunosuppressant drugs such as ciclosporin and tacrolimus; use only under medical supervision after a transplant or with autoimmune therapy.'
+  mechanism: Echinacea can both stimulate immune activity and alter CYP3A/CYP1A2 enzymes, so it may reduce
+    the effect or change the blood levels of immunosuppressant drugs such as ciclosporin and tacrolimus;
+    use only under medical supervision after a transplant or with autoimmune therapy.
   reference_ids:
   - REF-2445
   status: approved
@@ -139,7 +224,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -148,4 +233,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0797, REF-0798, REF-0799.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2011,
   REF-2012, REF-2013, REF-2014, REF-2015, REF-2016, REF-2017, REF-2018, REF-2019, REF-2020, REF-2021)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

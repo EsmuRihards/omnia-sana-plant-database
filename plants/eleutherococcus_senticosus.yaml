@@ -32,6 +32,62 @@ constituents:
   - REF-0506
   - REF-0509
   - REF-0801
+botanical_description:
+  text: Deciduous shrub with numerous slender, spiny stems (unlike true Panax ginseng, hence 'eleuthero'
+    rather than 'ginseng'). The leaves are palmately compound with five toothed leaflets on a long stalk.
+    Small, pale purple or white flowers are borne in rounded umbels, followed by clusters of small black
+    berries.
+  height: 2-3 m
+  habit: Deciduous, spiny shrub
+  leaves: Palmately compound, five toothed leaflets on a long stalk
+  flowers: Small, pale purple or white, in rounded umbels
+  stem: Numerous slender, spiny stems
+  root: Woody, aromatic root and rhizome
+  fruit: Small black berry in clusters
+  flowering_period: Summer
+  reference_ids:
+  - REF-0509
+  status: verified
+habitat:
+  text: Native to the mixed and coniferous forest understorey of the Russian Far East, north-eastern China,
+    Korea and Japan, growing in shaded, cool, moist woodland.
+  reference_ids:
+  - REF-0509
+  status: verified
+harvesting:
+  text: The root and rhizome are dug in autumn from plants at least three to four years old, when their
+    eleutheroside content is highest, then cleaned and dried.
+  parts:
+  - Root and rhizome
+  season: Autumn, from mature (3-4+ year) plants
+  status: draft
+traditional_uses:
+  text: Siberian ginseng root has a long Russian and Chinese traditional-medicine reputation as an adaptogenic
+    tonic to improve resistance to physical, mental and environmental stress, support endurance and recovery,
+    and bolster immune resilience during cold and flu season, closely paralleling (though botanically
+    distinct from) true Panax ginseng.
+  reference_ids:
+  - REF-0509
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Root extract standardised to eleutheroside B and E content, taken as capsules or tablets for adaptogenic
+    and immune support.
+  reference_ids:
+  - REF-0509
+  status: verified
+- name: Decoction
+  text: Dried root and rhizome simmered in water as a traditional tonic decoction.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried root and rhizome.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Traditional and clinical references commonly cite around 300-1200 mg of standardised root extract
+    daily, in divided doses, often taken as a course of several weeks rather than continuously; best avoided
+    late in the day given a possible mild stimulant effect. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: adaptogen
   note: Adaptogen for fatigue and physical/mental stress (improves endurance and resistance to stressors)
@@ -157,7 +213,10 @@ references:
 drug_class_interactions:
 - drug_class: cardiac-glycosides
   severity: caution
-  mechanism: 'A case report described raised serum digoxin levels in a patient taking Siberian ginseng that fell back to normal on stopping it; laboratory work shows eleuthero contains digoxin-like substances that can interfere with digoxin blood tests. Whether a true change in digoxin levels or assay interference, use with digoxin warrants medical monitoring.'
+  mechanism: A case report described raised serum digoxin levels in a patient taking Siberian ginseng
+    that fell back to normal on stopping it; laboratory work shows eleuthero contains digoxin-like substances
+    that can interfere with digoxin blood tests. Whether a true change in digoxin levels or assay interference,
+    use with digoxin warrants medical monitoring.
   reference_ids:
   - REF-2478
   - REF-2479
@@ -167,7 +226,8 @@ drug_class_interactions:
 pairings:
 - partner_id: schisandra-chinensis
   type: synergy
-  note: 'Eleuthero and schisandra are adaptogens combined in traditional and clinically studied formulas to improve stamina and resistance to stress and fatigue; combined use is complementary.'
+  note: Eleuthero and schisandra are adaptogens combined in traditional and clinically studied formulas
+    to improve stamina and resistance to stress and fatigue; combined use is complementary.
   reference_ids:
   - REF-2470
   - REF-2471
@@ -180,7 +240,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursing Practice review; Nutrients
   adaptogens review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (fatigue, stress, cognitive-function, immune-support); associations retained and now part-mapped and
@@ -191,4 +251,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursin
   references to the plant-level references bucket (least-cited enrichment): REF-0800, REF-0801, REF-0802.
   | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0587,
   REF-2290, REF-0800, REF-2291, REF-2292, REF-2293, REF-0801, REF-2294, REF-2295, REF-2296) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
+  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

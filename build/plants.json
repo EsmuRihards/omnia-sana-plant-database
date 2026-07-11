@@ -18674,6 +18674,108 @@
     "Flower",
     "Root"
    ],
+   "botanical_description": {
+    "text": "Robust perennial herb with a basal rosette of coarse, hairy, lance-shaped leaves and tall, sturdy flowering stems. Each stem bears a single large, daisy-like flower head with drooping (reflexed), rose-purple to pink ray florets surrounding a prominent, spiny, orange-brown central cone of disc florets.",
+    "height": "60-150 cm",
+    "habit": "Robust, clump-forming perennial herb",
+    "leaves": "Coarse, hairy, lance-shaped, in a basal rosette",
+    "flowers": "Large daisy-like heads with drooping rose-purple ray florets around a spiny orange-brown cone",
+    "stem": "Tall, sturdy, hairy, mostly unbranched",
+    "root": "Thick, fibrous, black-brown taproot",
+    "fruit": "Small four-angled achene",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-2011"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the tallgrass prairies, open woodland and dry meadows of central and eastern North America; widely cultivated worldwide as a garden and medicinal plant.",
+    "reference_ids": [
+     "REF-2011"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flower heads are picked as they open, in summer; the root is dug in autumn from plants at least two to three years old, when its content of bioactive alkamides and caffeic acid derivatives is highest, then cleaned and dried.",
+    "parts": [
+     "Flower",
+     "Root"
+    ],
+    "season": "Flower in summer; root in autumn from mature plants",
+    "reference_ids": [
+     "REF-2011"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Echinacea root was widely used by Native American peoples as a remedy for infections, wounds, snakebite and toothache, and entered nineteenth-century Eclectic medicine as a broad anti-infective. It remains best known today, in standardised aerial-part or root extracts, as a supportive remedy for preventing and shortening the common cold and supporting immune function.",
+    "reference_ids": [
+     "REF-2011",
+     "REF-0797"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Fresh-pressed juice or standardised extract of the aerial parts or root, taken as tablets, drops or capsules at the first sign of a cold; the best-studied clinical form.",
+     "reference_ids": [
+      "REF-0797"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the fresh or dried root and/or aerial parts.",
+     "status": "draft"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried root or aerial parts infused in hot water as a traditional immune-supporting tea.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for the common cold commonly use around 300-900 mg of standardised extract daily, started at the first sign of symptoms and continued for up to 7-10 days; continuous use beyond about 8 weeks is not recommended. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0797"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Alkamides",
+     "note": "Lipophilic alkamides are considered key immunomodulatory and anti-inflammatory constituents, particularly concentrated in the root.",
+     "reference_ids": [
+      "REF-2011"
+     ]
+    },
+    {
+     "name": "Caffeic acid derivatives (echinacoside, cichoric acid)",
+     "compounds": [
+      "caffeic-acid",
+      "phenolic-acid"
+     ],
+     "note": "Antioxidant phenolic compounds contributing to the plant's immunomodulatory activity.",
+     "reference_ids": [
+      "REF-2011"
+     ]
+    },
+    {
+     "name": "Polysaccharides",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "Water-soluble polysaccharides associated with immune-stimulating activity, particularly from the aerial parts.",
+     "reference_ids": [
+      "REF-2011"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -18856,7 +18958,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "purple-coneflower"
   },
   {
@@ -18873,6 +18975,95 @@
    "parts_used": [
     "Fruit",
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Large, rhizomatous perennial herb with tall, reed-like leafy stems (pseudostems) formed by overlapping leaf sheaths, arising from a stout underground rhizome. Small, pale flowers with a violet-veined white lip are borne on separate trailing panicles that grow along the ground from the base of the plant. The fruit is a small, ridged, pale green three-sided capsule (the cardamom pod) containing numerous dark, aromatic seeds.",
+    "height": "2-4 m (leafy stems)",
+    "habit": "Large, rhizomatous, reed-like perennial herb",
+    "leaves": "Long, lance-shaped, glossy, arranged on tall leafy pseudostems",
+    "flowers": "Small, pale, with a violet-veined white lip, on trailing panicles near the ground",
+    "stem": "Tall, reed-like leafy pseudostems; flowering panicles trail separately along the ground",
+    "root": "Stout underground rhizome",
+    "fruit": "Small, ridged, pale green three-sided capsule (pod) containing numerous dark aromatic seeds",
+    "flowering_period": "Varies with climate, often during the rainy season",
+    "reference_ids": [
+     "REF-1668"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the moist evergreen forests of the Western Ghats of southern India and Sri Lanka; cultivated in warm, humid, shaded tropical conditions, notably in India, Guatemala and Sri Lanka.",
+    "reference_ids": [
+     "REF-1668"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The unripe green pods are hand-picked just before full maturity, then carefully dried (traditionally in the shade or by gentle heat) to preserve the green colour and aromatic oil; the pods are typically used whole or the seeds removed and ground just before use.",
+    "parts": [
+     "Fruit",
+     "Seed"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Cardamom has a long Ayurvedic, Middle Eastern and Asian tradition as a warming digestive carminative for indigestion and bloating, a remedy for respiratory complaints such as asthma and bronchitis, and a valued spice for tea, coffee and cooking.",
+    "reference_ids": [
+     "REF-1668"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (crushed pod/seed)",
+     "text": "Crushed pods or seeds infused in hot water, or added to tea/coffee, as a traditional carminative digestive preparation.",
+     "reference_ids": [
+      "REF-1668"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the seed; used in small internal doses or diluted for aromatic/topical use.",
+     "status": "draft"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Whole or ground seed used extensively as a food spice, the most common form of use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Ground fruit/seed",
+     "text": "Traditional herbal references suggest around 1.5 g ground fruit (pod and seed), up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (1,8-cineole, alpha-terpinyl acetate)",
+     "compounds": [
+      "essential-oil",
+      "cineole",
+      "terpene"
+     ],
+     "note": "Seed essential oil dominated by 1,8-cineole and alpha-terpinyl acetate, giving the characteristic aroma and much of the carminative, antimicrobial and antioxidant activity.",
+     "reference_ids": [
+      "REF-1668"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic compounds",
+     "compounds": [
+      "flavonoid",
+      "phenolic-compound"
+     ],
+     "note": "Additional antioxidant constituents of the seed.",
+     "reference_ids": [
+      "REF-1668"
+     ]
+    }
    ],
    "actions": [
     {
@@ -19102,7 +19293,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "cardamom"
   },
   {
@@ -19148,6 +19339,70 @@
       "REF-0509",
       "REF-0801"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Deciduous shrub with numerous slender, spiny stems (unlike true Panax ginseng, hence 'eleuthero' rather than 'ginseng'). The leaves are palmately compound with five toothed leaflets on a long stalk. Small, pale purple or white flowers are borne in rounded umbels, followed by clusters of small black berries.",
+    "height": "2-3 m",
+    "habit": "Deciduous, spiny shrub",
+    "leaves": "Palmately compound, five toothed leaflets on a long stalk",
+    "flowers": "Small, pale purple or white, in rounded umbels",
+    "stem": "Numerous slender, spiny stems",
+    "root": "Woody, aromatic root and rhizome",
+    "fruit": "Small black berry in clusters",
+    "flowering_period": "Summer",
+    "reference_ids": [
+     "REF-0509"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the mixed and coniferous forest understorey of the Russian Far East, north-eastern China, Korea and Japan, growing in shaded, cool, moist woodland.",
+    "reference_ids": [
+     "REF-0509"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root and rhizome are dug in autumn from plants at least three to four years old, when their eleutheroside content is highest, then cleaned and dried.",
+    "parts": [
+     "Root and rhizome"
+    ],
+    "season": "Autumn, from mature (3-4+ year) plants",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Siberian ginseng root has a long Russian and Chinese traditional-medicine reputation as an adaptogenic tonic to improve resistance to physical, mental and environmental stress, support endurance and recovery, and bolster immune resilience during cold and flu season, closely paralleling (though botanically distinct from) true Panax ginseng.",
+    "reference_ids": [
+     "REF-0509"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Root extract standardised to eleutheroside B and E content, taken as capsules or tablets for adaptogenic and immune support.",
+     "reference_ids": [
+      "REF-0509"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Dried root and rhizome simmered in water as a traditional tonic decoction.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root and rhizome.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Traditional and clinical references commonly cite around 300-1200 mg of standardised root extract daily, in divided doses, often taken as a course of several weeks rather than continuously; best avoided late in the day given a possible mild stimulant effect. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -19375,7 +19630,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "siberian-ginseng"
   },
   {
@@ -19425,6 +19680,76 @@
      "reference_ids": [
       "REF-0438"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Persistent, mat-forming perennial grass spreading rapidly by long, tough, jointed, creeping white rhizomes just below the soil surface. The leaves are flat, narrow and grass-like, greyish-green, rough on the upper surface. Slender flowering spikes bear flattened spikelets typical of a wild grass.",
+    "height": "40-100 cm (flowering stems)",
+    "habit": "Persistent, mat-forming, rhizomatous perennial grass",
+    "leaves": "Flat, narrow, grass-like, greyish-green, rough on the upper surface",
+    "flowers": "Slender spike of flattened spikelets, typical of a wild grass",
+    "stem": "Erect flowering culms arising from creeping rhizomes",
+    "root": "Long, tough, jointed, creeping white rhizome (the medicinal part), plus fibrous roots",
+    "fruit": "Small grass caryopsis (grain)",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0437"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A common and persistent weed of cultivated ground, gardens, roadsides and waste places worldwide; native to Europe and temperate Asia and widely naturalised elsewhere.",
+    "reference_ids": [
+     "REF-0437"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The rhizome is dug up, most easily in spring or autumn, then washed free of soil, cut into pieces and dried; because the plant spreads aggressively, harvesting is also a practical means of garden control.",
+    "parts": [
+     "Rhizome"
+    ],
+    "season": "Spring or autumn",
+    "reference_ids": [
+     "REF-0437"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Couch grass rhizome has a long European folk and official (EU herbal monograph) use as a soothing diuretic 'irrigation' remedy for minor urinary tract complaints, taken with plenty of fluids to increase urine flow and help flush the urinary tract.",
+    "reference_ids": [
+     "REF-0437"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried, chopped rhizome simmered in water as a traditional diuretic 'irrigation' preparation, taken with plenty of additional fluids.",
+     "reference_ids": [
+      "REF-0437"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried rhizome infused in hot water as a milder alternative to a decoction.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried rhizome.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction",
+     "text": "The EU herbal monograph describes traditional use of about 6-9 g dried rhizome daily as a decoction, taken with plenty of fluids; not to be used if oedema is due to impaired heart or kidney function. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0437"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -19553,7 +19878,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "couch-grass"
   },
   {
@@ -19607,6 +19932,68 @@
      "reference_ids": [
       "REF-0403"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Slender, softly hairy perennial herb with narrow, lance-shaped leaves and small, four-petalled, pale pink to lilac flowers with a notched tip, borne singly in the upper leaf axils. After flowering, long, narrow seed pods split to release cottony-tufted seeds, typical of the willowherb genus.",
+    "height": "20-60 cm",
+    "habit": "Slender, softly hairy, erect perennial herb",
+    "leaves": "Narrow, lance-shaped, softly hairy",
+    "flowers": "Small, four-petalled, pale pink to lilac, notched, borne singly in upper leaf axils",
+    "stem": "Slender, softly hairy, erect",
+    "root": "Fibrous root with short rhizome",
+    "fruit": "Long, narrow seed pod releasing cottony-tufted seeds",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0403"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in damp meadows, ditches, streamsides and waste ground on moist soils; native to Europe and temperate Asia.",
+    "reference_ids": [
+     "REF-0403"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in summer while in flower, and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Aerial parts (herb)"
+    ],
+    "season": "Summer flowering period",
+    "reference_ids": [
+     "REF-0403"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Small-flowered willowherb, along with related Epilobium species, has a Central European folk tradition as a supportive remedy for lower urinary tract symptoms associated with benign prostatic hyperplasia (BPH) and prostatitis, and as an antimicrobial and anti-inflammatory herb for minor infections; the traditional prostate-support use is attributed mainly to its oenothein B content, though robust clinical evidence remains limited.",
+    "reference_ids": [
+     "REF-0403"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a traditional urinary and prostate-support tea.",
+     "reference_ids": [
+      "REF-0403"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily; lower urinary tract or prostate symptoms should always be medically assessed first. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -19772,7 +20159,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "bay-leaf-willowherb"
   },
   {

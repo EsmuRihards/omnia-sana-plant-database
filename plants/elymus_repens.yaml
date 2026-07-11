@@ -31,6 +31,65 @@ constituents:
   note: Minor aromatic constituent.
   reference_ids:
   - REF-0438
+botanical_description:
+  text: Persistent, mat-forming perennial grass spreading rapidly by long, tough, jointed, creeping white
+    rhizomes just below the soil surface. The leaves are flat, narrow and grass-like, greyish-green, rough
+    on the upper surface. Slender flowering spikes bear flattened spikelets typical of a wild grass.
+  height: 40-100 cm (flowering stems)
+  habit: Persistent, mat-forming, rhizomatous perennial grass
+  leaves: Flat, narrow, grass-like, greyish-green, rough on the upper surface
+  flowers: Slender spike of flattened spikelets, typical of a wild grass
+  stem: Erect flowering culms arising from creeping rhizomes
+  root: Long, tough, jointed, creeping white rhizome (the medicinal part), plus fibrous roots
+  fruit: Small grass caryopsis (grain)
+  flowering_period: June-August
+  reference_ids:
+  - REF-0437
+  status: verified
+habitat:
+  text: A common and persistent weed of cultivated ground, gardens, roadsides and waste places worldwide;
+    native to Europe and temperate Asia and widely naturalised elsewhere.
+  reference_ids:
+  - REF-0437
+  status: verified
+harvesting:
+  text: The rhizome is dug up, most easily in spring or autumn, then washed free of soil, cut into pieces
+    and dried; because the plant spreads aggressively, harvesting is also a practical means of garden
+    control.
+  parts:
+  - Rhizome
+  season: Spring or autumn
+  reference_ids:
+  - REF-0437
+  status: verified
+traditional_uses:
+  text: Couch grass rhizome has a long European folk and official (EU herbal monograph) use as a soothing
+    diuretic 'irrigation' remedy for minor urinary tract complaints, taken with plenty of fluids to increase
+    urine flow and help flush the urinary tract.
+  reference_ids:
+  - REF-0437
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried, chopped rhizome simmered in water as a traditional diuretic 'irrigation' preparation, taken
+    with plenty of additional fluids.
+  reference_ids:
+  - REF-0437
+  status: verified
+- name: Infusion
+  text: Dried rhizome infused in hot water as a milder alternative to a decoction.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried rhizome.
+  status: draft
+dosage:
+- name: Decoction
+  text: The EU herbal monograph describes traditional use of about 6-9 g dried rhizome daily as a decoction,
+    taken with plenty of fluids; not to be used if oedema is due to impaired heart or kidney function.
+    Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0437
+  status: draft
 actions:
 - action: demulcent
   note: Soothing demulcent (mucilage) for urinary-tract irritation
@@ -110,10 +169,13 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph;
   ESCOP monograph). Elymus repens = Agropyron repens = Elytrigia repens. Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained
   and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
   split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the
-  plant-level references bucket (least-cited enrichment): REF-0710, REF-0711, REF-0712.'
+  plant-level references bucket (least-cited enrichment): REF-0710, REF-0711, REF-0712. | 2026-07-11:
+  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
+  dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
+  the integrity-first sourcing policy.'

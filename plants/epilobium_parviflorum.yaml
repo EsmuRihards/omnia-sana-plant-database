@@ -37,6 +37,60 @@ constituents:
   note: Sterols associated with benign prostatic hyperplasia support.
   reference_ids:
   - REF-0403
+botanical_description:
+  text: Slender, softly hairy perennial herb with narrow, lance-shaped leaves and small, four-petalled,
+    pale pink to lilac flowers with a notched tip, borne singly in the upper leaf axils. After flowering,
+    long, narrow seed pods split to release cottony-tufted seeds, typical of the willowherb genus.
+  height: 20-60 cm
+  habit: Slender, softly hairy, erect perennial herb
+  leaves: Narrow, lance-shaped, softly hairy
+  flowers: Small, four-petalled, pale pink to lilac, notched, borne singly in upper leaf axils
+  stem: Slender, softly hairy, erect
+  root: Fibrous root with short rhizome
+  fruit: Long, narrow seed pod releasing cottony-tufted seeds
+  flowering_period: June-September
+  reference_ids:
+  - REF-0403
+  status: verified
+habitat:
+  text: Grows in damp meadows, ditches, streamsides and waste ground on moist soils; native to Europe
+    and temperate Asia.
+  reference_ids:
+  - REF-0403
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut in summer while in flower, and dried in a warm, shaded, airy
+    place.
+  parts:
+  - Aerial parts (herb)
+  season: Summer flowering period
+  reference_ids:
+  - REF-0403
+  status: verified
+traditional_uses:
+  text: Small-flowered willowherb, along with related Epilobium species, has a Central European folk tradition
+    as a supportive remedy for lower urinary tract symptoms associated with benign prostatic hyperplasia
+    (BPH) and prostatitis, and as an antimicrobial and anti-inflammatory herb for minor infections; the
+    traditional prostate-support use is attributed mainly to its oenothein B content, though robust clinical
+    evidence remains limited.
+  reference_ids:
+  - REF-0403
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional urinary and prostate-support tea.
+  reference_ids:
+  - REF-0403
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily;
+    lower urinary tract or prostate symptoms should always be medically assessed first. Educational reference
+    only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory (inhibits COX-1 and COX-2 prostaglandin synthesis)
@@ -147,7 +201,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity
   study; Complementary Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (prostate-support, uti, inflammation); associations retained and now part-mapped
@@ -158,4 +212,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   references to the plant-level references bucket (least-cited enrichment): REF-0803, REF-0804, REF-0805.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0803,
   REF-0618, REF-2297, REF-2298, REF-2299, REF-2300, REF-2301, REF-2302, REF-2303, REF-2304, REF-0805)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

@@ -29,6 +29,68 @@ constituents:
   note: Supporting antioxidant and aromatic constituents.
   reference_ids:
   - REF-0450
+botanical_description:
+  text: Aromatic perennial herb (Asteraceae), 20-60 cm tall, with much-branched, downy stems. Leaves are
+    yellow-green, bipinnately divided and strongly scented. Small, daisy-like flower heads have white
+    ray florets and a flat yellow disc, borne in loose clusters.
+  height: 20-60 cm
+  habit: Erect, much-branched, aromatic perennial herb
+  leaves: Yellow-green, bipinnately divided, strongly scented
+  flowers: Small, daisy-like, white ray florets around a flat yellow disc
+  stem: Much-branched, downy
+  root: Fibrous perennial rootstock
+  fruit: Small ribbed achenes (typical Asteraceae)
+  flowering_period: June-September
+  reference_ids:
+  - REF-0553
+  status: verified
+habitat:
+  text: Native to the Balkans and Caucasus region, now naturalised across Europe, North America and elsewhere;
+    grows on disturbed ground, walls, roadsides and waste places, and is widely cultivated.
+  reference_ids:
+  - REF-0450
+  status: verified
+harvesting:
+  text: Leaves (aerial parts) are gathered during the growing season, ideally at flowering, and dried
+    or used fresh.
+  parts:
+  - Leaf (aerial parts)
+  season: Growing season, ideally at flowering
+  reference_ids:
+  - REF-0553
+  status: verified
+traditional_uses:
+  text: Feverfew has a long European folk tradition, its name derived from 'febrifuge' (fever-reducer),
+    as a remedy for fevers, headaches and joint pain. Modern use and clinical research focus on migraine
+    prevention, with parthenolide identified as the key active compound responsible for inhibiting the
+    inflammatory pathways implicated in migraine.
+  reference_ids:
+  - REF-0450
+  status: verified
+preparations:
+- name: Fresh leaf (chewed, traditional)
+  text: A few fresh leaves chewed daily - the classic, though mouth-irritating, traditional preparation.
+  status: draft
+- name: Standardised leaf extract (capsule)
+  text: Freeze-dried or standardised-parthenolide extract, the form used in most clinical trials.
+  reference_ids:
+  - REF-0450
+  status: verified
+- name: Infusion (tea)
+  text: Dried leaf steeped in hot water.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried leaf.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for migraine prevention have most often used standardised extracts providing around
+    0.2-0.6% parthenolide, taken daily; do not stop abruptly after prolonged use given a documented 'post-feverfew'
+    rebound syndrome. Educational reference only, not a prescription; avoid in pregnancy and with anticoagulants.
+  reference_ids:
+  - REF-0450
+  - REF-0552
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory - parthenolide inhibits NF-kB and nitroglycerin-induced neuronal (Fos) activation,
@@ -120,7 +182,8 @@ references:
 drug_class_interactions:
 - drug_class: anticoagulants-antiplatelets
   severity: caution
-  mechanism: 'Feverfew and its component parthenolide inhibit platelet aggregation and serotonin release, so combining it with anticoagulant or antiplatelet drugs may increase bleeding risk.'
+  mechanism: Feverfew and its component parthenolide inhibit platelet aggregation and serotonin release,
+    so combining it with anticoagulant or antiplatelet drugs may increase bleeding risk.
   reference_ids:
   - REF-2444
   status: approved
@@ -129,7 +192,9 @@ drug_class_interactions:
 pairings:
 - partner_id: zingiber-officinale
   type: caution
-  note: 'Feverfew and ginger both reduce blood clotting/platelet stickiness, so taking them together may add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside blood-thinning drugs.'
+  note: Feverfew and ginger both reduce blood clotting/platelet stickiness, so taking them together may
+    add up and raise the risk of bruising or bleeding — use caution, especially before surgery or alongside
+    blood-thinning drugs.
   reference_ids:
   - REF-2457
   - REF-2444
@@ -143,7 +208,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane systematic review of feverfew
   for migraine prevention). Further enriched 2026-06-13 with two PubMed studies - a parthenolide mechanism-of-action
   study in an animal migraine model (REF-0552, Tassorelli et al. 2005) and a parthenolide biosynthesis/localization
@@ -152,4 +217,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane system
   and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
   linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
   @article sources (REF-1572, REF-1573, REF-1574, REF-1575, REF-1576, REF-1577, REF-1578, REF-1579, REF-1580,
-  REF-1581) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1581) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-12:
+  added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
+  sourced from the existing Cochrane migraine-prevention review (REF-0450) and parthenolide biosynthesis/localisation
+  study (REF-0553).'

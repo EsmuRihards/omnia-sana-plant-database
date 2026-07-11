@@ -9,6 +9,93 @@ parts_used:
 - Flower
 - Leaf
 - Stem
+botanical_description:
+  text: Aromatic perennial herb (Asteraceae), 50-120 cm tall, with erect, reddish, ridged stems. Leaves
+    are finely divided, fern-like and strongly camphor-scented. Flat-topped clusters of small, yellow,
+    button-like flower heads lack ray florets (petals).
+  height: 50-120 cm
+  habit: Erect, aromatic perennial herb
+  leaves: Finely divided, fern-like, strongly camphor-scented
+  flowers: Small, yellow, button-like heads with no ray florets, in flat-topped clusters
+  stem: Erect, reddish, ridged
+  root: Spreading rhizomatous root system
+  fruit: Small ribbed achenes (typical Asteraceae)
+  flowering_period: July-September
+  reference_ids:
+  - REF-0098
+  status: verified
+habitat:
+  text: Native to Europe and temperate Asia, widely naturalised elsewhere; grows on roadsides, waste ground,
+    riverbanks and disturbed grassland.
+  reference_ids:
+  - REF-0098
+  status: verified
+harvesting:
+  text: Flowering aerial parts are cut in summer, when in full flower, and dried for external/historical
+    use; given this plant's real toxicity (thujone content) at internal doses, this record does not recommend
+    or describe internal harvesting for medicinal consumption.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Summer, at full flower
+  reference_ids:
+  - REF-0098
+  status: verified
+traditional_uses:
+  text: Tansy has a long European history as a strewing herb, insect repellent and, historically, an internal
+    vermifuge and emmenagogue, but its thujone and camphor content make internal medicinal use unsafe
+    by modern standards. Today it is used, with caution, mainly as an external insect repellent; the traditional
+    internal uses are recorded here for historical reference only, not as a recommendation.
+  reference_ids:
+  - REF-0098
+  status: verified
+preparations:
+- name: Dried herb (insect repellent, external)
+  text: Dried flowering tops used as a traditional moth/insect deterrent, for example in sachets.
+  reference_ids:
+  - REF-0098
+  status: verified
+- name: Essential oil (external, historical)
+  text: Used historically as an insect repellent; prolonged skin contact should still be avoided given
+    its sensitising potential.
+  reference_ids:
+  - REF-1293
+  status: verified
+dosage:
+- name: Internal use
+  text: Tansy is NOT recommended for internal use at any dose given its thujone content and documented
+    toxicity (convulsions, liver/kidney damage) - internal use recorded here is for historical reference
+    only. External use (e.g. as an insect repellent) should avoid prolonged skin contact. Educational
+    reference only, not a prescription; strictly avoid in pregnancy.
+  reference_ids:
+  - REF-0098
+  - REF-0139
+  - REF-0187
+  status: verified
+constituents:
+- name: Essential oil (thujone, camphor)
+  compounds:
+  - essential-oil
+  - camphor
+  - terpene
+  note: Thujone is the neurotoxic, safety-limiting constituent responsible for tansy's real internal-use
+    toxicity.
+  reference_ids:
+  - REF-1293
+- name: Sesquiterpene lactones
+  compounds:
+  - sesquiterpene-lactone
+  - sesquiterpene
+  note: Contribute to the plant's bitter taste and antimicrobial activity.
+  reference_ids:
+  - REF-1294
+- name: Flavonoids
+  compounds:
+  - flavonoid
+  note: Contribute to antioxidant activity.
+  reference_ids:
+  - REF-1299
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -157,13 +244,25 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: jacobaea-vulgaris
   severity: dangerous
-  confused_part: Yellow-flowered plant gathered for its aromatic foliage and flowers; tansy ragwort shares the name, the yellow colour and rough ground.
-  confusion_context: Common tansy (Tanacetum vulgare) is gathered for its aromatic fern-like foliage and flat clusters of yellow button flowers. Tansy ragwort (Jacobaea vulgaris, syn. Senecio jacobaea) shares the 'tansy' name, the yellow colouring and the same rough grassland, and the two are confused. Ragwort contains hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage and can sicken or kill livestock and people, with the highest risk once cut or dried into hay or herbal material. Because both are yellow-flowered weeds of the same ground, correct identification matters before gathering.
+  confused_part: Yellow-flowered plant gathered for its aromatic foliage and flowers; tansy ragwort shares
+    the name, the yellow colour and rough ground.
+  confusion_context: Common tansy (Tanacetum vulgare) is gathered for its aromatic fern-like foliage and
+    flat clusters of yellow button flowers. Tansy ragwort (Jacobaea vulgaris, syn. Senecio jacobaea) shares
+    the 'tansy' name, the yellow colouring and the same rough grassland, and the two are confused. Ragwort
+    contains hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage and can sicken or
+    kill livestock and people, with the highest risk once cut or dried into hay or herbal material. Because
+    both are yellow-flowered weeds of the same ground, correct identification matters before gathering.
   distinguishing_features:
-  - 'Flowers (decisive): common tansy has flat-topped clusters of yellow BUTTON flowers with no petals (ray florets). Tansy ragwort has open, daisy-like yellow flowers with about 13 spreading petals. Petalled daisy flowers = ragwort, not tansy.'
-  - 'Leaves: common tansy has finely divided, fern-like aromatic leaves; ragwort leaves are blunter, ''kale-like'', ruffled and lobed.'
+  - 'Flowers (decisive): common tansy has flat-topped clusters of yellow BUTTON flowers with no petals
+    (ray florets). Tansy ragwort has open, daisy-like yellow flowers with about 13 spreading petals. Petalled
+    daisy flowers = ragwort, not tansy.'
+  - 'Leaves: common tansy has finely divided, fern-like aromatic leaves; ragwort leaves are blunter, ''kale-like'',
+    ruffled and lobed.'
   - 'Smell: crushed tansy is strongly aromatic; ragwort lacks that camphor-like tansy scent.'
-  key_test: Look at the flowers. Flat clusters of petal-less yellow buttons on strongly aromatic fern-like foliage = common tansy. Open daisy-like yellow flowers with about 13 petals and ruffled 'kale-like' leaves = tansy ragwort - toxic to the liver, do not gather it. If the flowers have petals, it is not tansy.
+  key_test: Look at the flowers. Flat clusters of petal-less yellow buttons on strongly aromatic fern-like
+    foliage = common tansy. Open daisy-like yellow flowers with about 13 petals and ruffled 'kale-like'
+    leaves = tansy ragwort - toxic to the liver, do not gather it. If the flowers have petals, it is not
+    tansy.
   reference_ids:
   - REF-2689
   - REF-2690
@@ -172,7 +271,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -180,4 +279,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1293, REF-1294, REF-1295, REF-1296, REF-1297,
   REF-1298, REF-1299, REF-1300, REF-1301, REF-1302) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields; preparations/dosage deliberately do NOT describe any internal preparation, consistent
+  with this record''s existing safety-first contraindications. Sourced from A Modern Herbal (REF-0098)
+  and the essential-oil composition study (REF-1293).'

@@ -9,6 +9,98 @@ parts_used:
 - Flower
 - Leaf
 - Stem
+botanical_description:
+  text: Evergreen tree (Myrtaceae), 8-12 m tall (occasionally to 20 m), with a pyramidal crown. Leaves
+    are glossy, elliptical and aromatic. Small crimson flowers are borne in terminal clusters; the unopened
+    flower buds, picked before they open and dried, are the 'cloves' of commerce and the medicinal/culinary
+    part used.
+  height: 8-12 m (occasionally to 20 m)
+  habit: Evergreen tree with a pyramidal crown
+  leaves: Glossy, elliptical, aromatic
+  flowers: Small, crimson, in terminal clusters; unopened buds are the harvested cloves
+  stem: Woody, branching
+  root: Deep woody root system
+  fruit: Small drupe ("mother clove"), less commonly harvested than the flower bud
+  flowering_period: Variable, often twice a year in tropical climates
+  reference_ids:
+  - REF-1075
+  status: verified
+habitat:
+  text: Native to the Maluku Islands (Moluccas, the historic 'Spice Islands') of Indonesia, now cultivated
+    throughout the tropics, notably Zanzibar, Madagascar, Sri Lanka and Indonesia, in warm, humid, well-drained
+    tropical conditions.
+  reference_ids:
+  - REF-1075
+  status: verified
+harvesting:
+  text: Unopened flower buds are hand-picked while still green-pink, just before they would open, then
+    sun-dried until they turn dark reddish-brown - the familiar clove spice.
+  parts:
+  - Flower
+  season: Before the flower buds open
+  reference_ids:
+  - REF-1075
+  status: verified
+traditional_uses:
+  text: Clove has an ancient trade history and a long traditional use across Asian, African and European
+    medicine as a dental analgesic (chewed or applied as oil for toothache), a digestive carminative,
+    and an antiseptic. Modern research on its principal constituent eugenol supports strong analgesic,
+    antimicrobial, antioxidant and anti-inflammatory activity, with clove oil remaining a recognised topical
+    dental-pain remedy.
+  reference_ids:
+  - REF-1075
+  status: verified
+preparations:
+- name: Whole clove (culinary/chewed)
+  text: Whole dried flower buds chewed or infused for digestive and dental use.
+  reference_ids:
+  - REF-1075
+  status: verified
+- name: Clove oil (topical, diluted)
+  text: The classic dental-pain remedy, applied to the affected tooth/gum, always diluted.
+  reference_ids:
+  - REF-0029
+  - REF-0247
+  - REF-0309
+  status: verified
+- name: Infusion (tea)
+  text: Crushed cloves steeped in hot water for digestive complaints.
+  status: draft
+- name: Essential oil (aromatherapy)
+  text: Diluted for topical or inhaled use.
+  status: draft
+dosage:
+- name: Clove oil / powder
+  text: 'Duke (2002): a 1-5% clove oil preparation topically, or about 150 mg clove powder internally.
+    Educational reference only, not a prescription; never apply undiluted oil to skin or mucous membranes.'
+  reference_ids:
+  - REF-0029
+  - REF-0247
+  - REF-0309
+  status: verified
+constituents:
+- name: Essential oil (eugenol)
+  compounds:
+  - essential-oil
+  - eugenol
+  note: Eugenol typically makes up the great majority of clove oil and is responsible for most of its
+    analgesic, antimicrobial and anti-inflammatory activity.
+  reference_ids:
+  - REF-1074
+  - REF-1075
+- name: Flavonoids and phenolic acids
+  compounds:
+  - flavonoid
+  - phenolic-acid
+  note: Contribute additional antioxidant activity.
+  reference_ids:
+  - REF-1076
+- name: Tannins
+  compounds:
+  - tannin
+  note: Contribute mild astringency.
+  reference_ids:
+  - REF-1075
 actions:
 - action: analgesic
   reference_ids:
@@ -175,7 +267,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -183,4 +275,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1074, REF-1075, REF-1076, REF-1077, REF-1078,
   REF-1079, REF-1080, REF-1081, REF-1082, REF-1083) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing traditional-uses/pharmacology/toxicology review (REF-1075)
+  and essential-oil composition review (REF-1074).'

@@ -9,6 +9,100 @@ family: Malvaceae
 parts_used:
 - Fruit
 - Seed
+botanical_description:
+  text: Small evergreen tree (Malvaceae), 4-8 m tall (up to 10 m unpruned), with a dense, spreading crown.
+    Leaves are large, glossy and oblong. Small pink-white flowers are borne directly on the trunk and
+    older branches (cauliflory), followed by large, ridged, football-shaped pods that ripen from green
+    to yellow/orange/red-purple, each containing 20-60 seeds (the cocoa beans) embedded in sweet white
+    pulp.
+  height: 4-8 m (up to 10 m unpruned)
+  habit: Small evergreen tree, cauliflorous (flowers/pods on the trunk)
+  leaves: Large, glossy, oblong
+  flowers: Small, pink-white, borne directly on the trunk and older branches
+  stem: Woody trunk, flowers and pods arising directly from it
+  root: Moderate, spreading root system
+  fruit: Large, ridged pod containing 20-60 seeds in sweet white pulp
+  flowering_period: Can flower year-round in tropical conditions
+  reference_ids:
+  - REF-1084
+  status: verified
+habitat:
+  text: Native to the tropical rainforest understorey of Central and South America (the Amazon and Orinoco
+    basins), now cultivated throughout the tropics within about 20 degrees of the equator (notably West
+    Africa, Southeast Asia and South America), requiring warm, humid, shaded conditions.
+  reference_ids:
+  - REF-1084
+  status: verified
+harvesting:
+  text: Ripe pods are hand-harvested, cut open, and the seeds (with pulp) are removed, fermented for several
+    days - essential for developing chocolate flavour and reducing bitterness - then dried and roasted.
+  parts:
+  - Fruit
+  - Seed
+  season: As pods ripen, largely year-round in the tropics
+  reference_ids:
+  - REF-1084
+  status: verified
+traditional_uses:
+  text: Cacao has an ancient Mesoamerican tradition (Maya and Aztec) as a ceremonial, medicinal and nutritive
+    beverage, valued as a stimulant tonic and considered sacred - 'food of the gods', reflected in the
+    genus name Theobroma. Modern research on its polyphenol (flavanol) content supports cardiovascular,
+    antioxidant, anti-inflammatory and neuroprotective/cognitive benefits, particularly from minimally
+    processed, high-flavanol cocoa.
+  reference_ids:
+  - REF-1084
+  status: verified
+preparations:
+- name: Traditional cacao drink
+  text: Roasted, ground beans made into a beverage - the historic Mesoamerican preparation, often unsweetened
+    and sometimes spiced.
+  status: draft
+- name: Cocoa powder
+  text: Defatted, roasted, ground beans, used in modern beverages and food.
+  status: draft
+- name: Dark chocolate (high cocoa content)
+  text: Minimally processed chocolate retaining more flavanols than milk chocolate.
+  reference_ids:
+  - REF-1084
+  status: verified
+- name: Standardised flavanol extract (capsule)
+  text: Concentrated extract used in some clinical cardiovascular research.
+  reference_ids:
+  - REF-1085
+  status: verified
+dosage:
+- name: Cocoa flavanol extract
+  text: Large clinical trials of cocoa flavanol supplementation for cardiovascular prevention have used
+    around 500 mg/day of cocoa flavanols. Educational reference only, not a prescription; treat concentrated
+    cacao as a mild stimulant (theobromine, some caffeine) and moderate intake accordingly, especially
+    in pregnancy, with heart-rhythm conditions, or on stimulant-sensitive medication.
+  reference_ids:
+  - REF-1085
+  status: verified
+constituents:
+- name: Methylxanthines (theobromine, caffeine)
+  note: Theobromine is the dominant methylxanthine and the main stimulant/bronchodilator constituent,
+    with lesser amounts of caffeine.
+  reference_ids:
+  - REF-0131
+- name: Flavanols (epicatechin, catechin, procyanidins)
+  compounds:
+  - catechin
+  - proanthocyanidin
+  - flavonoid
+  note: The principal bioactive polyphenols, responsible for most of cacao's antioxidant and cardiovascular
+    activity.
+  reference_ids:
+  - REF-1084
+  - REF-1085
+- name: Phenylethylamine
+  note: A trace amine sometimes linked to cacao's reputed mood-elevating effects.
+  reference_ids:
+  - REF-0131
+- name: Cocoa butter (fatty acids)
+  note: The fat fraction of the seed, classified as emollient and used in both food and topical products.
+  reference_ids:
+  - REF-0167
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -155,7 +249,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -163,4 +257,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1084, REF-1085, REF-1086, REF-1087, REF-1088,
   REF-1089, REF-1090, REF-1091, REF-1092, REF-1093) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing systematic health-effects review (REF-1084) and the
+  COSMOS cocoa-flavanol RCT (REF-1085).'

@@ -57,6 +57,76 @@ constituents:
   reference_ids:
   - REF-0329
   - REF-0326
+botanical_description:
+  text: Perennial herb (Asteraceae) with a deep taproot, forming a basal rosette of deeply toothed, lance-shaped
+    leaves - the name 'dandelion' comes from the French 'dent-de-lion', lion's tooth. Hollow flowering
+    stalks each bear a single, bright yellow composite flower head made entirely of ray florets, followed
+    by the familiar spherical 'clock' of parachute-tufted seeds (achenes) that disperse on the wind.
+  height: Low rosette; flowering stalks 5-40 cm
+  habit: Deep-taprooted perennial rosette herb
+  leaves: Deeply toothed, lance-shaped, in a basal rosette
+  flowers: Single, bright yellow composite head of ray florets, on a hollow stalk
+  stem: Hollow flowering stalk (scape), leafless
+  root: Deep taproot
+  fruit: Small achenes with a parachute-like pappus (the "clock")
+  flowering_period: Can flower almost year-round, peaking March-October
+  reference_ids:
+  - REF-0326
+  status: verified
+habitat:
+  text: Native to Europe and Asia, now a cosmopolitan weed found on every continent except Antarctica;
+    grows in lawns, meadows, roadsides, waste ground and disturbed soil of almost any type.
+  reference_ids:
+  - REF-0326
+  status: verified
+harvesting:
+  text: Leaves are picked young in spring for the mildest flavour; the root is dug in autumn (traditionally
+    after the first frost), when its inulin and bitter-principle content is considered optimal; flowers
+    are picked as they open.
+  parts:
+  - Leaf
+  - Root
+  - Flower
+  season: Leaf in spring; root in autumn; flower as it opens
+  reference_ids:
+  - REF-0326
+  - REF-0329
+  status: verified
+traditional_uses:
+  text: 'Dandelion is one of the most widely used bitter tonic herbs worldwide, traditionally taken as
+    a digestive bitter and mild diuretic - the French name ''pissenlit'' (wet-the-bed) reflects this -
+    and the root specifically as a liver and gallbladder tonic. Every part is also used as food: spring
+    greens, roasted-root coffee substitute, and flower wine.'
+  reference_ids:
+  - REF-0326
+  status: verified
+preparations:
+- name: Leaf infusion/salad (fresh or dried)
+  text: Fresh young leaves eaten as a bitter salad green, or dried leaf infused as tea - the traditional
+    digestive/diuretic preparation.
+  reference_ids:
+  - REF-0326
+  status: verified
+- name: Root decoction
+  text: Dried root simmered in water - the traditional liver-tonic preparation.
+  reference_ids:
+  - REF-0326
+  status: verified
+- name: Roasted root ('dandelion coffee')
+  text: Roasted, ground root brewed like coffee - a traditional caffeine-free substitute.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of leaf or root.
+  status: draft
+dosage:
+- name: Leaf/root infusion or decoction
+  text: Traditional guidance suggests roughly 4-10 g dried leaf, or 2-8 g dried root, per day as an infusion
+    or decoction, divided into 2-3 doses. Educational reference only, not a prescription; avoid in bile-duct
+    obstruction or gallstones, and harvest away from polluted ground.
+  reference_ids:
+  - REF-0326
+  - REF-0328
+  status: verified
 actions:
 - action: anti-inflammatory
   parts:
@@ -292,7 +362,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica post (https://omniasana.bio/dandelion-taraxacum-officinale/).
   Unlike the bulk book-ingested records, actions are mapped to specific parts and references per the source
   post. The Kew Plants of the World Online entry is shared with the book ingestion (REF-0248). | 2026-06-15:
@@ -301,4 +371,5 @@ internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica p
   substitute (traditional preparation) | Traditional preparation into wines and syrups. | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-2387, REF-2388,
   REF-2389, REF-2390, REF-2391, REF-2392, REF-2393, REF-2394, REF-2395, REF-2396) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing ethnopharmacology/phytochemistry review (REF-0326).'

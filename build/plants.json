@@ -53606,6 +53606,123 @@
     "Leaf",
     "Stem"
    ],
+   "botanical_description": {
+    "text": "Evergreen tree (Myrtaceae), 8-12 m tall (occasionally to 20 m), with a pyramidal crown. Leaves are glossy, elliptical and aromatic. Small crimson flowers are borne in terminal clusters; the unopened flower buds, picked before they open and dried, are the 'cloves' of commerce and the medicinal/culinary part used.",
+    "height": "8-12 m (occasionally to 20 m)",
+    "habit": "Evergreen tree with a pyramidal crown",
+    "leaves": "Glossy, elliptical, aromatic",
+    "flowers": "Small, crimson, in terminal clusters; unopened buds are the harvested cloves",
+    "stem": "Woody, branching",
+    "root": "Deep woody root system",
+    "fruit": "Small drupe (\"mother clove\"), less commonly harvested than the flower bud",
+    "flowering_period": "Variable, often twice a year in tropical climates",
+    "reference_ids": [
+     "REF-1075"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Maluku Islands (Moluccas, the historic 'Spice Islands') of Indonesia, now cultivated throughout the tropics, notably Zanzibar, Madagascar, Sri Lanka and Indonesia, in warm, humid, well-drained tropical conditions.",
+    "reference_ids": [
+     "REF-1075"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Unopened flower buds are hand-picked while still green-pink, just before they would open, then sun-dried until they turn dark reddish-brown - the familiar clove spice.",
+    "parts": [
+     "Flower"
+    ],
+    "season": "Before the flower buds open",
+    "reference_ids": [
+     "REF-1075"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Clove has an ancient trade history and a long traditional use across Asian, African and European medicine as a dental analgesic (chewed or applied as oil for toothache), a digestive carminative, and an antiseptic. Modern research on its principal constituent eugenol supports strong analgesic, antimicrobial, antioxidant and anti-inflammatory activity, with clove oil remaining a recognised topical dental-pain remedy.",
+    "reference_ids": [
+     "REF-1075"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Whole clove (culinary/chewed)",
+     "text": "Whole dried flower buds chewed or infused for digestive and dental use.",
+     "reference_ids": [
+      "REF-1075"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Clove oil (topical, diluted)",
+     "text": "The classic dental-pain remedy, applied to the affected tooth/gum, always diluted.",
+     "reference_ids": [
+      "REF-0029",
+      "REF-0247",
+      "REF-0309"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (tea)",
+     "text": "Crushed cloves steeped in hot water for digestive complaints.",
+     "status": "draft"
+    },
+    {
+     "name": "Essential oil (aromatherapy)",
+     "text": "Diluted for topical or inhaled use.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Clove oil / powder",
+     "text": "Duke (2002): a 1-5% clove oil preparation topically, or about 150 mg clove powder internally. Educational reference only, not a prescription; never apply undiluted oil to skin or mucous membranes.",
+     "reference_ids": [
+      "REF-0029",
+      "REF-0247",
+      "REF-0309"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (eugenol)",
+     "compounds": [
+      "essential-oil",
+      "eugenol"
+     ],
+     "note": "Eugenol typically makes up the great majority of clove oil and is responsible for most of its analgesic, antimicrobial and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1074",
+      "REF-1075"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic acids",
+     "compounds": [
+      "flavonoid",
+      "phenolic-acid"
+     ],
+     "note": "Contribute additional antioxidant activity.",
+     "reference_ids": [
+      "REF-1076"
+     ]
+    },
+    {
+     "name": "Tannins",
+     "compounds": [
+      "tannin"
+     ],
+     "note": "Contribute mild astringency.",
+     "reference_ids": [
+      "REF-1075"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "analgesic",
@@ -53843,7 +53960,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "clove"
   },
   {
@@ -53886,6 +54003,82 @@
      "reference_ids": [
       "REF-0450"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Aromatic perennial herb (Asteraceae), 20-60 cm tall, with much-branched, downy stems. Leaves are yellow-green, bipinnately divided and strongly scented. Small, daisy-like flower heads have white ray florets and a flat yellow disc, borne in loose clusters.",
+    "height": "20-60 cm",
+    "habit": "Erect, much-branched, aromatic perennial herb",
+    "leaves": "Yellow-green, bipinnately divided, strongly scented",
+    "flowers": "Small, daisy-like, white ray florets around a flat yellow disc",
+    "stem": "Much-branched, downy",
+    "root": "Fibrous perennial rootstock",
+    "fruit": "Small ribbed achenes (typical Asteraceae)",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0553"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Balkans and Caucasus region, now naturalised across Europe, North America and elsewhere; grows on disturbed ground, walls, roadsides and waste places, and is widely cultivated.",
+    "reference_ids": [
+     "REF-0450"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves (aerial parts) are gathered during the growing season, ideally at flowering, and dried or used fresh.",
+    "parts": [
+     "Leaf (aerial parts)"
+    ],
+    "season": "Growing season, ideally at flowering",
+    "reference_ids": [
+     "REF-0553"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Feverfew has a long European folk tradition, its name derived from 'febrifuge' (fever-reducer), as a remedy for fevers, headaches and joint pain. Modern use and clinical research focus on migraine prevention, with parthenolide identified as the key active compound responsible for inhibiting the inflammatory pathways implicated in migraine.",
+    "reference_ids": [
+     "REF-0450"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh leaf (chewed, traditional)",
+     "text": "A few fresh leaves chewed daily - the classic, though mouth-irritating, traditional preparation.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised leaf extract (capsule)",
+     "text": "Freeze-dried or standardised-parthenolide extract, the form used in most clinical trials.",
+     "reference_ids": [
+      "REF-0450"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried leaf steeped in hot water.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried leaf.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for migraine prevention have most often used standardised extracts providing around 0.2-0.6% parthenolide, taken daily; do not stop abruptly after prolonged use given a documented 'post-feverfew' rebound syndrome. Educational reference only, not a prescription; avoid in pregnancy and with anticoagulants.",
+     "reference_ids": [
+      "REF-0450",
+      "REF-0552"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -54053,7 +54246,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "feverfew"
   },
   {
@@ -54069,6 +54262,113 @@
     "Flower",
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Aromatic perennial herb (Asteraceae), 50-120 cm tall, with erect, reddish, ridged stems. Leaves are finely divided, fern-like and strongly camphor-scented. Flat-topped clusters of small, yellow, button-like flower heads lack ray florets (petals).",
+    "height": "50-120 cm",
+    "habit": "Erect, aromatic perennial herb",
+    "leaves": "Finely divided, fern-like, strongly camphor-scented",
+    "flowers": "Small, yellow, button-like heads with no ray florets, in flat-topped clusters",
+    "stem": "Erect, reddish, ridged",
+    "root": "Spreading rhizomatous root system",
+    "fruit": "Small ribbed achenes (typical Asteraceae)",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe and temperate Asia, widely naturalised elsewhere; grows on roadsides, waste ground, riverbanks and disturbed grassland.",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Flowering aerial parts are cut in summer, when in full flower, and dried for external/historical use; given this plant's real toxicity (thujone content) at internal doses, this record does not recommend or describe internal harvesting for medicinal consumption.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Summer, at full flower",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Tansy has a long European history as a strewing herb, insect repellent and, historically, an internal vermifuge and emmenagogue, but its thujone and camphor content make internal medicinal use unsafe by modern standards. Today it is used, with caution, mainly as an external insect repellent; the traditional internal uses are recorded here for historical reference only, not as a recommendation.",
+    "reference_ids": [
+     "REF-0098"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Dried herb (insect repellent, external)",
+     "text": "Dried flowering tops used as a traditional moth/insect deterrent, for example in sachets.",
+     "reference_ids": [
+      "REF-0098"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (external, historical)",
+     "text": "Used historically as an insect repellent; prolonged skin contact should still be avoided given its sensitising potential.",
+     "reference_ids": [
+      "REF-1293"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Internal use",
+     "text": "Tansy is NOT recommended for internal use at any dose given its thujone content and documented toxicity (convulsions, liver/kidney damage) - internal use recorded here is for historical reference only. External use (e.g. as an insect repellent) should avoid prolonged skin contact. Educational reference only, not a prescription; strictly avoid in pregnancy.",
+     "reference_ids": [
+      "REF-0098",
+      "REF-0139",
+      "REF-0187"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (thujone, camphor)",
+     "compounds": [
+      "essential-oil",
+      "camphor",
+      "terpene"
+     ],
+     "note": "Thujone is the neurotoxic, safety-limiting constituent responsible for tansy's real internal-use toxicity.",
+     "reference_ids": [
+      "REF-1293"
+     ]
+    },
+    {
+     "name": "Sesquiterpene lactones",
+     "compounds": [
+      "sesquiterpene-lactone",
+      "sesquiterpene"
+     ],
+     "note": "Contribute to the plant's bitter taste and antimicrobial activity.",
+     "reference_ids": [
+      "REF-1294"
+     ]
+    },
+    {
+     "name": "Flavonoids",
+     "compounds": [
+      "flavonoid"
+     ],
+     "note": "Contribute to antioxidant activity.",
+     "reference_ids": [
+      "REF-1299"
+     ]
+    }
    ],
    "actions": [
     {
@@ -54300,7 +54600,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "tansy"
   },
   {
@@ -54379,6 +54679,88 @@
       "REF-0329",
       "REF-0326"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Perennial herb (Asteraceae) with a deep taproot, forming a basal rosette of deeply toothed, lance-shaped leaves - the name 'dandelion' comes from the French 'dent-de-lion', lion's tooth. Hollow flowering stalks each bear a single, bright yellow composite flower head made entirely of ray florets, followed by the familiar spherical 'clock' of parachute-tufted seeds (achenes) that disperse on the wind.",
+    "height": "Low rosette; flowering stalks 5-40 cm",
+    "habit": "Deep-taprooted perennial rosette herb",
+    "leaves": "Deeply toothed, lance-shaped, in a basal rosette",
+    "flowers": "Single, bright yellow composite head of ray florets, on a hollow stalk",
+    "stem": "Hollow flowering stalk (scape), leafless",
+    "root": "Deep taproot",
+    "fruit": "Small achenes with a parachute-like pappus (the \"clock\")",
+    "flowering_period": "Can flower almost year-round, peaking March-October",
+    "reference_ids": [
+     "REF-0326"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe and Asia, now a cosmopolitan weed found on every continent except Antarctica; grows in lawns, meadows, roadsides, waste ground and disturbed soil of almost any type.",
+    "reference_ids": [
+     "REF-0326"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are picked young in spring for the mildest flavour; the root is dug in autumn (traditionally after the first frost), when its inulin and bitter-principle content is considered optimal; flowers are picked as they open.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Flower"
+    ],
+    "season": "Leaf in spring; root in autumn; flower as it opens",
+    "reference_ids": [
+     "REF-0326",
+     "REF-0329"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Dandelion is one of the most widely used bitter tonic herbs worldwide, traditionally taken as a digestive bitter and mild diuretic - the French name 'pissenlit' (wet-the-bed) reflects this - and the root specifically as a liver and gallbladder tonic. Every part is also used as food: spring greens, roasted-root coffee substitute, and flower wine.",
+    "reference_ids": [
+     "REF-0326"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Leaf infusion/salad (fresh or dried)",
+     "text": "Fresh young leaves eaten as a bitter salad green, or dried leaf infused as tea - the traditional digestive/diuretic preparation.",
+     "reference_ids": [
+      "REF-0326"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Root decoction",
+     "text": "Dried root simmered in water - the traditional liver-tonic preparation.",
+     "reference_ids": [
+      "REF-0326"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Roasted root ('dandelion coffee')",
+     "text": "Roasted, ground root brewed like coffee - a traditional caffeine-free substitute.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of leaf or root.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Leaf/root infusion or decoction",
+     "text": "Traditional guidance suggests roughly 4-10 g dried leaf, or 2-8 g dried root, per day as an infusion or decoction, divided into 2-3 doses. Educational reference only, not a prescription; avoid in bile-duct obstruction or gallstones, and harvest away from polluted ground.",
+     "reference_ids": [
+      "REF-0326",
+      "REF-0328"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -54742,7 +55124,7 @@
    },
    "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "dandelion"
   },
   {
@@ -54758,6 +55140,121 @@
    "parts_used": [
     "Fruit",
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Small evergreen tree (Malvaceae), 4-8 m tall (up to 10 m unpruned), with a dense, spreading crown. Leaves are large, glossy and oblong. Small pink-white flowers are borne directly on the trunk and older branches (cauliflory), followed by large, ridged, football-shaped pods that ripen from green to yellow/orange/red-purple, each containing 20-60 seeds (the cocoa beans) embedded in sweet white pulp.",
+    "height": "4-8 m (up to 10 m unpruned)",
+    "habit": "Small evergreen tree, cauliflorous (flowers/pods on the trunk)",
+    "leaves": "Large, glossy, oblong",
+    "flowers": "Small, pink-white, borne directly on the trunk and older branches",
+    "stem": "Woody trunk, flowers and pods arising directly from it",
+    "root": "Moderate, spreading root system",
+    "fruit": "Large, ridged pod containing 20-60 seeds in sweet white pulp",
+    "flowering_period": "Can flower year-round in tropical conditions",
+    "reference_ids": [
+     "REF-1084"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the tropical rainforest understorey of Central and South America (the Amazon and Orinoco basins), now cultivated throughout the tropics within about 20 degrees of the equator (notably West Africa, Southeast Asia and South America), requiring warm, humid, shaded conditions.",
+    "reference_ids": [
+     "REF-1084"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Ripe pods are hand-harvested, cut open, and the seeds (with pulp) are removed, fermented for several days - essential for developing chocolate flavour and reducing bitterness - then dried and roasted.",
+    "parts": [
+     "Fruit",
+     "Seed"
+    ],
+    "season": "As pods ripen, largely year-round in the tropics",
+    "reference_ids": [
+     "REF-1084"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Cacao has an ancient Mesoamerican tradition (Maya and Aztec) as a ceremonial, medicinal and nutritive beverage, valued as a stimulant tonic and considered sacred - 'food of the gods', reflected in the genus name Theobroma. Modern research on its polyphenol (flavanol) content supports cardiovascular, antioxidant, anti-inflammatory and neuroprotective/cognitive benefits, particularly from minimally processed, high-flavanol cocoa.",
+    "reference_ids": [
+     "REF-1084"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Traditional cacao drink",
+     "text": "Roasted, ground beans made into a beverage - the historic Mesoamerican preparation, often unsweetened and sometimes spiced.",
+     "status": "draft"
+    },
+    {
+     "name": "Cocoa powder",
+     "text": "Defatted, roasted, ground beans, used in modern beverages and food.",
+     "status": "draft"
+    },
+    {
+     "name": "Dark chocolate (high cocoa content)",
+     "text": "Minimally processed chocolate retaining more flavanols than milk chocolate.",
+     "reference_ids": [
+      "REF-1084"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised flavanol extract (capsule)",
+     "text": "Concentrated extract used in some clinical cardiovascular research.",
+     "reference_ids": [
+      "REF-1085"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Cocoa flavanol extract",
+     "text": "Large clinical trials of cocoa flavanol supplementation for cardiovascular prevention have used around 500 mg/day of cocoa flavanols. Educational reference only, not a prescription; treat concentrated cacao as a mild stimulant (theobromine, some caffeine) and moderate intake accordingly, especially in pregnancy, with heart-rhythm conditions, or on stimulant-sensitive medication.",
+     "reference_ids": [
+      "REF-1085"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Methylxanthines (theobromine, caffeine)",
+     "note": "Theobromine is the dominant methylxanthine and the main stimulant/bronchodilator constituent, with lesser amounts of caffeine.",
+     "reference_ids": [
+      "REF-0131"
+     ]
+    },
+    {
+     "name": "Flavanols (epicatechin, catechin, procyanidins)",
+     "compounds": [
+      "catechin",
+      "proanthocyanidin",
+      "flavonoid"
+     ],
+     "note": "The principal bioactive polyphenols, responsible for most of cacao's antioxidant and cardiovascular activity.",
+     "reference_ids": [
+      "REF-1084",
+      "REF-1085"
+     ]
+    },
+    {
+     "name": "Phenylethylamine",
+     "note": "A trace amine sometimes linked to cacao's reputed mood-elevating effects.",
+     "reference_ids": [
+      "REF-0131"
+     ]
+    },
+    {
+     "name": "Cocoa butter (fatty acids)",
+     "note": "The fat fraction of the seed, classified as emollient and used in both food and topical products.",
+     "reference_ids": [
+      "REF-0167"
+     ]
+    }
    ],
    "actions": [
     {
@@ -54951,7 +55448,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "cacao"
   },
   {

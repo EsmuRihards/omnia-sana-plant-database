@@ -9,6 +9,84 @@ parts_used:
 - Flower
 - Leaf
 - Stem
+botanical_description:
+  text: Tall, upright perennial herb with deeply palmately lobed lower leaves (giving a lion's-paw appearance,
+    the source of the genus name) and progressively less-divided upper leaves. Small, pink to pale purple,
+    spiny-toothed, two-lipped flowers are borne in dense whorls up the square stem.
+  height: 50-150 cm
+  habit: Tall, erect perennial herb
+  leaves: Deeply palmately lobed lower leaves; less-divided, three-lobed upper leaves
+  flowers: Small, pink to pale purple, spiny-toothed, two-lipped, in dense whorls up the stem
+  stem: Square (typical of the mint family), erect, often reddish
+  root: Fibrous rootstock
+  fruit: Small nutlet (typical of Lamiaceae)
+  flowering_period: June-September
+  reference_ids:
+  - REF-0860
+  status: verified
+habitat:
+  text: Grows on waste ground, roadsides, hedgerows and near old dwellings; native to Central Asia and
+    southeastern Europe and long naturalised across Europe and North America.
+  reference_ids:
+  - REF-0860
+  status: verified
+harvesting:
+  text: The flowering aerial parts (leaf, stem and flower) are cut in summer as the plant comes into flower,
+    and dried in a warm, shaded, airy place.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Summer, at flowering
+  reference_ids:
+  - REF-0860
+  status: verified
+traditional_uses:
+  text: Motherwort has a long European and Asian herbal tradition, reflected in its name, as a gynaecological
+    and cardiac tonic, traditionally used for heart palpitations and nervous cardiac complaints, menstrual
+    irregularities and cramps, and as a calming nervine for anxiety and to ease childbirth and postpartum
+    recovery.
+  reference_ids:
+  - REF-0860
+  - REF-0865
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional cardiac-support and calming tea.
+  reference_ids:
+  - REF-0860
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried flowering herb, typically around 1:5.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Iridoid glycosides (leonurine)
+  compounds:
+  - iridoid-glycoside
+  - glycoside
+  note: Leonurine and related iridoid/alkaloid-type constituents are considered the principal cardioactive
+    and uterotonic compounds.
+  reference_ids:
+  - REF-0865
+- name: Flavonoids and phenolic acids
+  compounds:
+  - flavonoid
+  - phenolic-acid
+  note: Antioxidant constituents contributing to the plant's anti-inflammatory activity.
+  reference_ids:
+  - REF-0865
+- name: Diterpenes (marrubiin-type)
+  compounds:
+  - terpene
+  note: Bitter diterpenes, shared with related Lamiaceae bitters, contributing to the traditional digestive
+    and cardiac reputation.
+  reference_ids:
+  - REF-0860
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -134,7 +212,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Motherwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Motherwort is traditionally used as a calming, sedative herb; taken with sedatives, sleeping
+    tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and
+    slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -147,7 +227,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -155,4 +235,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-0860, REF-0861, REF-0862, REF-0863, REF-0864,
   REF-0865, REF-0866, REF-0867, REF-0868, REF-0869) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'

@@ -30401,6 +30401,66 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Perennial herb closely resembling stinging nettle in leaf shape but entirely without stinging hairs. Square stems bear opposite, toothed, heart-shaped leaves, and whorls of white, hooded, two-lipped flowers cluster in the upper leaf axils.",
+    "height": "20-60 cm",
+    "habit": "Erect, clump-forming perennial herb",
+    "leaves": "Opposite, toothed, heart-shaped, resembling stinging nettle but without stinging hairs",
+    "flowers": "White, hooded, two-lipped, in dense whorls in the upper leaf axils",
+    "stem": "Square (typical of the mint family), unarmed (no stinging hairs)",
+    "root": "Creeping rhizome",
+    "fruit": "Small nutlet (typical of Lamiaceae)",
+    "flowering_period": "March-November (almost year-round in mild climates)",
+    "reference_ids": [
+     "REF-0349"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in hedgerows, waste ground, gardens and roadsides on nitrogen-rich soils; native to Europe and temperate Asia, widely naturalised elsewhere.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The flowering tops are picked as they open, largely through spring to autumn given the long flowering season, and dried in a warm, shaded, airy place; the standardisation markers are richest in the flowering tops specifically.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Aerial parts"
+    ],
+    "season": "Spring through autumn, as flowers open",
+    "reference_ids": [
+     "REF-0349"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "White dead-nettle flower has a long European folk history as an astringent remedy for catarrh and excessive menstrual or vaginal discharge, and topically as a vulnerary wash for minor wounds; the young leaves and shoots have also traditionally been eaten as a cooked spring pot-herb.",
+    "status": "draft"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering tops infused in hot water as a traditional astringent and expectorant tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flowering herb.",
+     "status": "draft"
+    },
+    {
+     "name": "Poultice/wash",
+     "text": "Crushed fresh leaf or a strained infusion applied topically to minor wounds.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried flowering herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -30642,7 +30702,7 @@
    },
    "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "white-dead-nettle"
   },
   {
@@ -30660,6 +30720,97 @@
     "Fruit",
     "Leaf",
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Evergreen shrub or small tree with dark green, glossy, aromatic leaves, smooth-edged and slightly wavy at the margin. Small, pale yellow-green flowers are borne in clusters in the leaf axils in spring, followed by small, dark purple-black berries on female trees.",
+    "height": "5-10 m (occasionally to 15-20 m)",
+    "habit": "Evergreen shrub or small tree",
+    "leaves": "Dark green, glossy, aromatic, smooth and slightly wavy at the margin",
+    "flowers": "Small, pale yellow-green, in axillary clusters",
+    "stem": "Woody, smooth grey-brown bark",
+    "root": "Woody root system",
+    "fruit": "Small, dark purple-black berry (female trees)",
+    "flowering_period": "Spring",
+    "reference_ids": [
+     "REF-0065"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean region; widely cultivated as a culinary herb and ornamental tree in warm-temperate and Mediterranean climates worldwide.",
+    "reference_ids": [
+     "REF-0065"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are picked year-round from established plants and used fresh or dried; berries/seed are collected once ripe in autumn.",
+    "parts": [
+     "Fruit",
+     "Leaf",
+     "Seed"
+    ],
+    "season": "Leaf year-round; fruit/seed in autumn",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Bay leaf has an ancient Mediterranean culinary and medicinal history, used as a digestive carminative for indigestion and bloating, and topically and traditionally for muscle and joint pain and minor wounds; it remains one of the most widely used culinary herbs worldwide.",
+    "reference_ids": [
+     "REF-0065"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (leaf)",
+     "text": "Dried leaf infused in hot water as a traditional digestive tea.",
+     "reference_ids": [
+      "REF-0065"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Whole dried or fresh leaves used to flavour soups, stews and sauces, removed before eating since they remain rigid; the most common form of use.",
+     "status": "draft"
+    },
+    {
+     "name": "Essential oil",
+     "text": "Steam-distilled from the leaves, used topically diluted or in aromatherapy.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1-3 g of dried leaf per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (1,8-cineole, eugenol)",
+     "compounds": [
+      "essential-oil",
+      "cineole",
+      "eugenol"
+     ],
+     "note": "Leaf essential oil dominated by 1,8-cineole and eugenol, giving the characteristic aroma and much of the antimicrobial and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-0065"
+     ]
+    },
+    {
+     "name": "Sesquiterpene lactones and flavonoids",
+     "compounds": [
+      "sesquiterpene-lactone",
+      "flavonoid"
+     ],
+     "note": "Contribute to the plant's anti-inflammatory and antioxidant activity.",
+     "reference_ids": [
+      "REF-0065"
+     ]
+    }
    ],
    "actions": [
     {
@@ -31009,7 +31160,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "bay-leaf"
   },
   {
@@ -31023,6 +31174,97 @@
    "family": "Lamiaceae",
    "parts_used": [
     "Flower"
+   ],
+   "botanical_description": {
+    "text": "Aromatic, evergreen, woody-based perennial subshrub with narrow, grey-green, felted leaves. Slender flowering spikes carrying whorls of small, tubular, two-lipped violet-blue flowers rise well above the foliage on long, unbranched stalks.",
+    "height": "30-60 cm",
+    "habit": "Aromatic, evergreen, woody-based perennial subshrub",
+    "leaves": "Narrow, grey-green, felted",
+    "flowers": "Small, tubular, two-lipped, violet-blue, in whorled spikes on long stalks",
+    "stem": "Woody at the base, with slender unbranched flowering stalks",
+    "root": "Woody rootstock",
+    "fruit": "Small nutlet (typical of Lamiaceae)",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-2205"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the mountains of the western Mediterranean (southern France, Spain, Italy); widely cultivated in sunny, well-drained, often calcareous sites across temperate and Mediterranean climates worldwide.",
+    "reference_ids": [
+     "REF-2205"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flower spikes are cut as the flowers open, in mid- to late summer, when essential oil content is highest, and dried in a warm, shaded, airy place or distilled fresh for essential oil.",
+    "parts": [
+     "Flower"
+    ],
+    "season": "Mid- to late summer, at flowering",
+    "reference_ids": [
+     "REF-2205"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Lavender flower has a long Mediterranean and European tradition as a calming, sedative herb for nervous tension, anxiety and insomnia, and as a mild digestive carminative and antiseptic for minor wounds and skin irritation; the essential oil in particular has an extensive modern clinical evidence base for anxiety and sleep support.",
+    "reference_ids": [
+     "REF-2205"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowers infused in hot water as a traditional calming, digestive tea.",
+     "reference_ids": [
+      "REF-2205"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Essential oil (aromatherapy/topical)",
+     "text": "Steam-distilled from the flowers; used diluted topically or by inhalation for relaxation and skin care.",
+     "reference_ids": [
+      "REF-2205"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised oral oil preparation",
+     "text": "Encapsulated, standardised lavender oil preparation (e.g. Silexan) studied in clinical trials for generalised anxiety.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 4-8 g of dried flowers per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil (linalool, linalyl acetate)",
+     "compounds": [
+      "essential-oil",
+      "linalool"
+     ],
+     "note": "Flower essential oil dominated by linalool and linalyl acetate, the principal compounds behind the calming, anxiolytic and antimicrobial activity.",
+     "reference_ids": [
+      "REF-2205"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic acids",
+     "compounds": [
+      "flavonoid",
+      "phenolic-acid"
+     ],
+     "note": "Antioxidant constituents of the flower."
+    }
    ],
    "actions": [
     {
@@ -31299,7 +31541,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "lavender"
   },
   {
@@ -31315,6 +31557,75 @@
    "parts_used": [
     "Mycelium",
     "Whole Plant"
+   ],
+   "botanical_description": {
+    "text": "Wood-decay fungus (not a true plant) with a classic cap-and-stem mushroom form. The cap is broad, brown to dark brown, often with pale scale-like markings, with a fringed or curled margin when young; the underside bears numerous cream-coloured gills radiating from a central or slightly off-centre fibrous stem.",
+    "height": "Cap 5-20 cm across",
+    "habit": "Wood-decay fungus with a typical cap-and-stem structure",
+    "leaves": "Not applicable (fungus)",
+    "flowers": "Not applicable (fungus); reproduces by spores",
+    "stem": "Fibrous, central to slightly off-centre, often tough",
+    "root": "Mycelium spreading through the wood substrate",
+    "fruit": "Cream-coloured gills radiating beneath the cap, releasing spores",
+    "flowering_period": "Fruiting body develops over weeks on the growing substrate",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Grows naturally as a wood-decay fungus on fallen broadleaf trees (notably shii, oak and chestnut) in East Asian forests; almost all commercial shiitake today is cultivated on hardwood logs or sawdust blocks.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "Fruiting bodies are hand-picked once the cap has opened but before the margin fully flattens, then used fresh or dried; mycelium-based extracts are cultivated separately in liquid or grain culture.",
+    "parts": [
+     "Mycelium",
+     "Whole Plant"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Shiitake has a very long East Asian culinary and medicinal tradition, used in Chinese and Japanese medicine as a tonic for vitality and longevity and to support healthy qi and blood; its polysaccharide lentinan, isolated from the fruiting body, has been used clinically in Japan as an adjunct immunotherapy, directly building on this traditional immune-tonic reputation.",
+    "reference_ids": [
+     "REF-0293"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Culinary use",
+     "text": "Fresh or dried fruiting body cooked and eaten as a food, always fully cooked (never raw) to avoid the rare shiitake dermatitis reaction.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Fruiting-body or mycelium extract standardised to polysaccharide (lentinan/beta-glucan) content, taken as capsules for immune support.",
+     "reference_ids": [
+      "REF-0293"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Traditional and product references commonly suggest around 1-3 g of dried extract daily, in divided doses. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Lentinan (beta-1,3-glucan polysaccharide)",
+     "compounds": [
+      "polysaccharide"
+     ],
+     "note": "The principal immunomodulatory polysaccharide, used clinically in Japan as an injectable cancer-adjuvant therapy.",
+     "reference_ids": [
+      "REF-0293"
+     ]
+    },
+    {
+     "name": "Eritadenine",
+     "note": "A unique amino-acid-derived compound studied for cholesterol-lowering activity."
+    }
    ],
    "actions": [
     {
@@ -31507,7 +31818,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "shiitake-mushroom"
   },
   {
@@ -31523,6 +31834,105 @@
     "Flower",
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Tall, upright perennial herb with deeply palmately lobed lower leaves (giving a lion's-paw appearance, the source of the genus name) and progressively less-divided upper leaves. Small, pink to pale purple, spiny-toothed, two-lipped flowers are borne in dense whorls up the square stem.",
+    "height": "50-150 cm",
+    "habit": "Tall, erect perennial herb",
+    "leaves": "Deeply palmately lobed lower leaves; less-divided, three-lobed upper leaves",
+    "flowers": "Small, pink to pale purple, spiny-toothed, two-lipped, in dense whorls up the stem",
+    "stem": "Square (typical of the mint family), erect, often reddish",
+    "root": "Fibrous rootstock",
+    "fruit": "Small nutlet (typical of Lamiaceae)",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0860"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on waste ground, roadsides, hedgerows and near old dwellings; native to Central Asia and southeastern Europe and long naturalised across Europe and North America.",
+    "reference_ids": [
+     "REF-0860"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts (leaf, stem and flower) are cut in summer as the plant comes into flower, and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0860"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Motherwort has a long European and Asian herbal tradition, reflected in its name, as a gynaecological and cardiac tonic, traditionally used for heart palpitations and nervous cardiac complaints, menstrual irregularities and cramps, and as a calming nervine for anxiety and to ease childbirth and postpartum recovery.",
+    "reference_ids": [
+     "REF-0860",
+     "REF-0865"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a traditional cardiac-support and calming tea.",
+     "reference_ids": [
+      "REF-0860"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flowering herb, typically around 1:5.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Iridoid glycosides (leonurine)",
+     "compounds": [
+      "iridoid-glycoside",
+      "glycoside"
+     ],
+     "note": "Leonurine and related iridoid/alkaloid-type constituents are considered the principal cardioactive and uterotonic compounds.",
+     "reference_ids": [
+      "REF-0865"
+     ]
+    },
+    {
+     "name": "Flavonoids and phenolic acids",
+     "compounds": [
+      "flavonoid",
+      "phenolic-acid"
+     ],
+     "note": "Antioxidant constituents contributing to the plant's anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-0865"
+     ]
+    },
+    {
+     "name": "Diterpenes (marrubiin-type)",
+     "compounds": [
+      "terpene"
+     ],
+     "note": "Bitter diterpenes, shared with related Lamiaceae bitters, contributing to the traditional digestive and cardiac reputation.",
+     "reference_ids": [
+      "REF-0860"
+     ]
+    }
    ],
    "actions": [
     {
@@ -31717,7 +32127,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "motherwort"
   },
   {

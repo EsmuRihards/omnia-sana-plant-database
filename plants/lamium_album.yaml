@@ -37,6 +37,57 @@ constituents:
   note: Lamalbid, chlorogenic acid, verbascoside, rutin and tiliroside, richest in the flowering tops.
   reference_ids:
   - REF-0349
+botanical_description:
+  text: Perennial herb closely resembling stinging nettle in leaf shape but entirely without stinging
+    hairs. Square stems bear opposite, toothed, heart-shaped leaves, and whorls of white, hooded, two-lipped
+    flowers cluster in the upper leaf axils.
+  height: 20-60 cm
+  habit: Erect, clump-forming perennial herb
+  leaves: Opposite, toothed, heart-shaped, resembling stinging nettle but without stinging hairs
+  flowers: White, hooded, two-lipped, in dense whorls in the upper leaf axils
+  stem: Square (typical of the mint family), unarmed (no stinging hairs)
+  root: Creeping rhizome
+  fruit: Small nutlet (typical of Lamiaceae)
+  flowering_period: March-November (almost year-round in mild climates)
+  reference_ids:
+  - REF-0349
+  status: verified
+habitat:
+  text: Grows in hedgerows, waste ground, gardens and roadsides on nitrogen-rich soils; native to Europe
+    and temperate Asia, widely naturalised elsewhere.
+  status: draft
+harvesting:
+  text: The flowering tops are picked as they open, largely through spring to autumn given the long flowering
+    season, and dried in a warm, shaded, airy place; the standardisation markers are richest in the flowering
+    tops specifically.
+  parts:
+  - Flower
+  - Leaf
+  - Aerial parts
+  season: Spring through autumn, as flowers open
+  reference_ids:
+  - REF-0349
+  status: verified
+traditional_uses:
+  text: White dead-nettle flower has a long European folk history as an astringent remedy for catarrh
+    and excessive menstrual or vaginal discharge, and topically as a vulnerary wash for minor wounds;
+    the young leaves and shoots have also traditionally been eaten as a cooked spring pot-herb.
+  status: draft
+preparations:
+- name: Infusion
+  text: Dried flowering tops infused in hot water as a traditional astringent and expectorant tea.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried flowering herb.
+  status: draft
+- name: Poultice/wash
+  text: Crushed fresh leaf or a strained infusion applied topically to minor wounds.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-4 g of dried flowering herb per cup, up to three
+    times daily. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   parts:
@@ -200,7 +251,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+website+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://omniasana.bio/white-dead-nettle-lamium-album/).
   New species not in the book manuscript. Identification, distribution and collection notes from the source
   are retained in the bibliography (some references are cited at plant level). | 2026-06-15: migrated
@@ -208,4 +259,7 @@ internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://om
   uses kept for reference: Edible spring potherb (young leaves and shoots, cooked). | 2026-06-20: enriched
   to >=10 scientific publications: added 12 PubMed-verified @article sources (REF-1746, REF-1747, REF-1748,
   REF-1749, REF-1750, REF-1751, REF-1752, REF-1753, REF-1754, REF-1755, REF-1756, REF-1757) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
+  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

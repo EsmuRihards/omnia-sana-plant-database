@@ -51994,6 +51994,79 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Robust biennial (occasionally annual) thistle (Asteraceae), 30-150 cm tall. Leaves are glossy dark green with distinctive white marbled veining (the 'milk' of legend), spiny-margined and deeply lobed. Large, solitary, purple-pink thistle-type flower heads are surrounded by spiny bracts, followed by shiny, mottled brown-black seeds - the part used.",
+    "height": "30-150 cm",
+    "habit": "Robust biennial (occasionally annual) thistle",
+    "leaves": "Glossy dark green with white marbled veining, spiny-margined, deeply lobed",
+    "flowers": "Large, solitary, purple-pink thistle heads with spiny bracts",
+    "stem": "Erect, ridged",
+    "root": "Deep taproot",
+    "fruit": "Shiny, mottled brown-black seed (achene)",
+    "flowering_period": "June-August",
+    "reference_ids": [
+     "REF-0483"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean region, now naturalised worldwide on disturbed, sunny ground - roadsides, waste places and dry pastures - and widely cultivated commercially for its seed.",
+    "reference_ids": [
+     "REF-0483"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Seed heads are harvested once fully dry (late summer), and the seeds (fruit) are threshed out.",
+    "parts": [
+     "Seed (fruit)"
+    ],
+    "season": "Late summer",
+    "reference_ids": [
+     "REF-0483"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Milk thistle has a very long European folk-medicine tradition, documented since antiquity, as a liver tonic, and its seed extract, standardised to the flavonolignan complex silymarin, is one of the most extensively studied herbal hepatoprotectants. Modern research supports antioxidant, anti-inflammatory and liver-protective activity, with growing interest in metabolic/blood-sugar effects.",
+    "reference_ids": [
+     "REF-0483",
+     "REF-0484"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract (capsule/tablet)",
+     "text": "Standardised to silymarin content (typically 70-80%), the clinically studied commercial form.",
+     "reference_ids": [
+      "REF-0483",
+      "REF-0484"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Powdered seed",
+     "text": "Ground whole seed, a less concentrated traditional form.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract; silymarin has limited water/alcohol solubility, so phospholipid-complexed or standardised extracts are generally preferred clinically.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials have most often used standardised extract providing 200-450 mg/day of silymarin, divided into 2-3 doses. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0483",
+      "REF-0484"
+     ],
+     "status": "verified"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -52211,7 +52284,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "milk-thistle"
   },
   {
@@ -52227,6 +52300,116 @@
     "Flower",
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Perennial herb (Asteraceae), 20-100 cm tall, with erect, often reddish, downy or smooth stems. Leaves are alternate, lance-shaped and toothed. Numerous small, bright yellow, daisy-like flower heads are clustered into branched, plume-like terminal sprays, followed by small ribbed achenes with a tuft of hairs (pappus).",
+    "height": "20-100 cm",
+    "habit": "Erect perennial herb",
+    "leaves": "Alternate, lance-shaped, toothed",
+    "flowers": "Small, bright yellow, daisy-like, in branched plume-like sprays",
+    "stem": "Erect, often reddish, downy or smooth",
+    "root": "Fibrous perennial rootstock",
+    "fruit": "Small ribbed achenes with a hairy pappus",
+    "flowering_period": "July-October",
+    "reference_ids": [
+     "REF-1045"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native throughout Europe and temperate Asia, growing on dry grassland, woodland clearings, heaths and rocky ground; less aggressively spreading than the North American Solidago canadensis, with which it is sometimes confused.",
+    "reference_ids": [
+     "REF-1045",
+     "REF-0069"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut during flowering (late summer) and dried.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Late summer, during flowering",
+    "reference_ids": [
+     "REF-0069"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Goldenrod has a long European folk-medicine tradition as a mild 'aquaretic' diuretic and anti-inflammatory remedy for the urinary tract, used traditionally for urinary-tract irrigation therapy alongside adequate fluid intake, and topically as a wound herb (one common name is 'woundwort'). Modern phytochemical work confirms saponin- and flavonoid-driven anti-inflammatory, antioxidant and diuretic activity.",
+    "reference_ids": [
+     "REF-0069",
+     "REF-1045"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried aerial parts steeped in hot water - the classic urinary-tract preparation.",
+     "reference_ids": [
+      "REF-0069"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract (capsule)",
+     "text": "Concentrated commercial form used in some European urinary-tract products.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Duke (2002): about 6-12 g dried herb daily as tea for urinary complaints. Educational reference only, not a prescription; avoid in fluid retention from cardiac or renal impairment.",
+     "reference_ids": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Saponins",
+     "compounds": [
+      "saponin"
+     ],
+     "note": "Studied constituents of the aerial parts.",
+     "reference_ids": [
+      "REF-0016"
+     ]
+    },
+    {
+     "name": "Flavonoids (quercetin, rutin)",
+     "compounds": [
+      "flavonoid",
+      "quercetin",
+      "rutin"
+     ],
+     "note": "Contribute to antioxidant and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1045"
+     ]
+    },
+    {
+     "name": "Phenolic acids and diterpenes",
+     "compounds": [
+      "phenolic-acid"
+     ],
+     "note": "Minor supporting constituents.",
+     "reference_ids": [
+      "REF-1045"
+     ]
+    }
    ],
    "actions": [
     {
@@ -52407,7 +52590,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "goldenrod"
   },
   {
@@ -52468,6 +52651,73 @@
       "REF-1058",
       "REF-1060"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Perennial herb (Lamiaceae), 30-60 cm tall, with square, mostly unbranched, hairy stems. Leaves are mostly basal, oblong to heart-shaped, toothed and wrinkled. Small, reddish-purple, two-lipped flowers are borne in a dense, interrupted terminal spike.",
+    "height": "30-60 cm",
+    "habit": "Erect perennial herb",
+    "leaves": "Mostly basal, oblong to heart-shaped, toothed, wrinkled",
+    "flowers": "Small, reddish-purple, two-lipped, in a dense interrupted terminal spike",
+    "stem": "Square, mostly unbranched, hairy",
+    "root": "Fibrous perennial rootstock",
+    "fruit": "Four small nutlets (typical Lamiaceae schizocarp)",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0535"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe, growing in open woodland, grassland, hedgebanks and heathland on well-drained, often slightly acidic soils.",
+    "reference_ids": [
+     "REF-0535"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Aerial flowering parts are cut during flowering (summer) and dried.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, during flowering",
+    "reference_ids": [
+     "REF-0535"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Wood betony has an ancient European reputation - praised in Anglo-Saxon and medieval herbals as a cure-all, giving rise to the saying 'sell your coat and buy betony' - as a gentle nervine for headache, anxiety and nervous tension, and as a digestive bitter. Modern phytochemical studies confirm it is among the strongest antioxidants of the Lamiaceae family, alongside anti-inflammatory and antispasmodic constituents.",
+    "reference_ids": [
+     "REF-0535",
+     "REF-0534"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried aerial parts steeped in hot water - the classic calming and digestive preparation.",
+     "reference_ids": [
+      "REF-0535"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion (tea)",
+     "text": "Traditional guidance suggests roughly 1-2 g dried herb per cup as an infusion, up to three times daily. Educational reference only, not a prescription; use caution alongside blood-pressure medicines and avoid in pregnancy.",
+     "reference_ids": [
+      "REF-0534",
+      "REF-0535"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -52673,7 +52923,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "wood-betony"
   },
   {
@@ -52690,6 +52940,111 @@
     "Flower",
     "Leaf",
     "Stem"
+   ],
+   "botanical_description": {
+    "text": "Low, sprawling annual herb (Caryophyllaceae) forming mats, with weak trailing stems bearing a single line of fine hairs running up one side, switching sides at each leaf node - a key identification feature. Leaves are opposite, ovate and pointed. Tiny white, star-shaped flowers have five deeply notched petals that appear as ten, followed by a small capsule.",
+    "height": "Low, sprawling/mat-forming, stems to about 40 cm",
+    "habit": "Low, sprawling, mat-forming annual herb",
+    "leaves": "Opposite, ovate, pointed",
+    "flowers": "Tiny, white, star-shaped, five deeply notched petals (appearing as ten)",
+    "stem": "Weak, trailing, with a single line of fine hairs switching sides at each node",
+    "root": "Shallow fibrous roots",
+    "fruit": "Small capsule",
+    "flowering_period": "Can flower almost year-round in mild climates, peaking spring-autumn",
+    "reference_ids": [
+     "REF-0900"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe, now a cosmopolitan weed found worldwide, growing in disturbed ground, gardens, cultivated land and waste places, tolerating cool, moist conditions.",
+    "reference_ids": [
+     "REF-0900"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The whole aerial plant is gathered fresh, ideally in spring or autumn when most tender, and used fresh or dried.",
+    "parts": [
+     "Flower",
+     "Leaf",
+     "Stem"
+    ],
+    "season": "Spring or autumn, when most tender",
+    "reference_ids": [
+     "REF-0900"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Chickweed has a long European and North American folk-medicine tradition as a cooling, soothing emollient for itchy, inflamed skin conditions such as eczema, and as a nutritious wild spring green. Modern phytochemical review confirms broad anti-inflammatory and antioxidant activity, though clinical trial evidence remains limited.",
+    "reference_ids": [
+     "REF-0048",
+     "REF-0900"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh leaf poultice/salve",
+     "text": "Crushed fresh herb, or an infused oil/salve, applied to itchy, irritated or inflamed skin.",
+     "reference_ids": [
+      "REF-0048"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion (tea)",
+     "text": "Dried or fresh herb steeped in hot water.",
+     "status": "draft"
+    },
+    {
+     "name": "Fresh leaf (culinary)",
+     "text": "Eaten raw in salads or lightly cooked - a traditional wild spring green.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Topical salve / infusion",
+     "text": "Chickweed is generally used topically as a salve or poultice for skin irritation, or as a mild infusion (roughly 2-4 g dried herb per cup); large quantities as food should be moderated given its oxalate content. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0048",
+      "REF-0098",
+      "REF-0245"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Flavonoids and coumarins",
+     "compounds": [
+      "flavonoid",
+      "coumarin"
+     ],
+     "note": "Contribute to antioxidant and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-0900"
+     ]
+    },
+    {
+     "name": "Saponins",
+     "compounds": [
+      "saponin"
+     ],
+     "note": "Minor constituents; large amounts of fresh herb have anecdotally been linked to mild gastrointestinal upset, possibly related to saponin content.",
+     "reference_ids": [
+      "REF-0900"
+     ]
+    },
+    {
+     "name": "Vitamin C and minerals",
+     "note": "Nutritive constituents supporting its traditional use as a wild edible green.",
+     "reference_ids": [
+      "REF-0900"
+     ]
+    }
    ],
    "actions": [
     {
@@ -52864,7 +53219,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-12",
    "common_slug": "chickweed"
   },
   {
@@ -52882,6 +53237,123 @@
    "parts_used": [
     "Leaf",
     "Root"
+   ],
+   "botanical_description": {
+    "text": "Robust, hairy perennial herb (Boraginaceae), 60-120 cm tall, with a thick, black-skinned, mucilaginous taproot. Leaves are large, broad, lance-shaped and bristly-hairy, running down the stem as raised wings (decurrent) - the leaf base's smooth, untoothed margin is a key feature distinguishing it from toxic foxglove. Drooping clusters of tubular, bell-shaped flowers are cream, pink or purple depending on variety.",
+    "height": "60-120 cm",
+    "habit": "Robust, hairy perennial herb",
+    "leaves": "Large, broad, lance-shaped, bristly-hairy, decurrent (winging the stem), untoothed margin",
+    "flowers": "Tubular, bell-shaped, cream, pink or purple, in drooping clusters",
+    "stem": "Winged by decurrent leaf bases, hairy",
+    "root": "Thick, black-skinned, mucilaginous taproot",
+    "fruit": "Small nutlets (typical Boraginaceae)",
+    "flowering_period": "May-June, into summer",
+    "reference_ids": [
+     "REF-0074"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to Europe and western Asia, growing in damp ground - riverbanks, ditches, damp meadows and waste ground - and widely cultivated.",
+    "reference_ids": [
+     "REF-0074"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are cut during the growing season (before flowering is often preferred for lower pyrrolizidine-alkaloid content); root is dug in autumn or spring from mature plants.",
+    "parts": [
+     "Leaf",
+     "Root"
+    ],
+    "season": "Leaf during the growing season (ideally before flowering); root autumn or spring",
+    "reference_ids": [
+     "REF-0074"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Comfrey has one of the strongest traditional reputations of any European herb for wound healing and bone/tissue repair - the folk names 'knitbone' and 'boneset' reflect this - owing to its high allantoin content, which stimulates cell proliferation. Because the plant also contains hepatotoxic pyrrolizidine alkaloids, modern regulatory use is restricted to topical preparations only, for minor bruises and sprains, and internal use (teas, tinctures) is no longer recommended.",
+    "reference_ids": [
+     "REF-0074"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Topical cream/ointment (root extract)",
+     "text": "The officially recognised European herbal-monograph preparation, for minor bruises and sprains, short-term use only.",
+     "reference_ids": [
+      "REF-0074"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Poultice",
+     "text": "Crushed fresh leaf or root applied externally to bruises, sprains and minor injuries - a traditional use.",
+     "status": "draft"
+    },
+    {
+     "name": "Infused oil",
+     "text": "Root or leaf infused in oil for topical salves.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Topical root preparation",
+     "text": "EU herbal-monograph guidance describes comfrey root preparations applied topically for minor bruises and sprains in adults, for a limited duration (commonly up to about 10 days); do not apply to broken skin or near eyes/mucous membranes. Comfrey must never be taken internally (no teas, tinctures or capsules) because of its pyrrolizidine alkaloid content. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0074",
+      "REF-0246",
+      "REF-0281"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Allantoin",
+     "compounds": [
+      "allantoin"
+     ],
+     "note": "The key cell-proliferative constituent underlying comfrey's wound-healing reputation.",
+     "reference_ids": [
+      "REF-1064"
+     ]
+    },
+    {
+     "name": "Mucilage polysaccharides",
+     "compounds": [
+      "mucilage",
+      "polysaccharide"
+     ],
+     "note": "Contribute to the soothing, demulcent texture of the leaf and root.",
+     "reference_ids": [
+      "REF-1065"
+     ]
+    },
+    {
+     "name": "Rosmarinic acid and other phenolics",
+     "compounds": [
+      "rosmarinic-acid",
+      "phenolic-compound"
+     ],
+     "note": "Contribute to antioxidant and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1064"
+     ]
+    },
+    {
+     "name": "Pyrrolizidine alkaloids",
+     "compounds": [
+      "alkaloid"
+     ],
+     "note": "Hepatotoxic constituents naturally present in the whole plant; the reason internal use is not recommended and processed/detoxified extracts are used for research.",
+     "reference_ids": [
+      "REF-1064"
+     ]
+    }
    ],
    "actions": [
     {
@@ -53117,7 +53589,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-12",
    "common_slug": "common-comfrey"
   },
   {

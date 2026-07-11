@@ -43,6 +43,63 @@ constituents:
   - REF-1057
   - REF-1058
   - REF-1060
+botanical_description:
+  text: Perennial herb (Lamiaceae), 30-60 cm tall, with square, mostly unbranched, hairy stems. Leaves
+    are mostly basal, oblong to heart-shaped, toothed and wrinkled. Small, reddish-purple, two-lipped
+    flowers are borne in a dense, interrupted terminal spike.
+  height: 30-60 cm
+  habit: Erect perennial herb
+  leaves: Mostly basal, oblong to heart-shaped, toothed, wrinkled
+  flowers: Small, reddish-purple, two-lipped, in a dense interrupted terminal spike
+  stem: Square, mostly unbranched, hairy
+  root: Fibrous perennial rootstock
+  fruit: Four small nutlets (typical Lamiaceae schizocarp)
+  flowering_period: June-September
+  reference_ids:
+  - REF-0535
+  status: verified
+habitat:
+  text: Native to Europe, growing in open woodland, grassland, hedgebanks and heathland on well-drained,
+    often slightly acidic soils.
+  reference_ids:
+  - REF-0535
+  status: verified
+harvesting:
+  text: Aerial flowering parts are cut during flowering (summer) and dried.
+  parts:
+  - Aerial parts (flowering herb)
+  season: Summer, during flowering
+  reference_ids:
+  - REF-0535
+  status: verified
+traditional_uses:
+  text: Wood betony has an ancient European reputation - praised in Anglo-Saxon and medieval herbals as
+    a cure-all, giving rise to the saying 'sell your coat and buy betony' - as a gentle nervine for headache,
+    anxiety and nervous tension, and as a digestive bitter. Modern phytochemical studies confirm it is
+    among the strongest antioxidants of the Lamiaceae family, alongside anti-inflammatory and antispasmodic
+    constituents.
+  reference_ids:
+  - REF-0535
+  - REF-0534
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried aerial parts steeped in hot water - the classic calming and digestive preparation.
+  reference_ids:
+  - REF-0535
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: Traditional guidance suggests roughly 1-2 g dried herb per cup as an infusion, up to three times
+    daily. Educational reference only, not a prescription; use caution alongside blood-pressure medicines
+    and avoid in pregnancy.
+  reference_ids:
+  - REF-0534
+  - REF-0535
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and antispasmodic
@@ -171,7 +228,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (PeaceHealth and Naturopathic
   Herbalist monographs). Stachys officinalis = Betonica officinalis. Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (headache, anxiety, nervous-tension, indigestion); associations
@@ -181,4 +238,5 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Peace
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1055, REF-1056, REF-1057, REF-1058, REF-1059,
   REF-1042, REF-1060, REF-1061, REF-1062, REF-1063) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
+  monograph-base fields, sourced from the existing general wood-betony monographs (REF-0534, REF-0535).'

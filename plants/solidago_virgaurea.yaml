@@ -9,6 +9,91 @@ parts_used:
 - Flower
 - Leaf
 - Stem
+botanical_description:
+  text: Perennial herb (Asteraceae), 20-100 cm tall, with erect, often reddish, downy or smooth stems.
+    Leaves are alternate, lance-shaped and toothed. Numerous small, bright yellow, daisy-like flower heads
+    are clustered into branched, plume-like terminal sprays, followed by small ribbed achenes with a tuft
+    of hairs (pappus).
+  height: 20-100 cm
+  habit: Erect perennial herb
+  leaves: Alternate, lance-shaped, toothed
+  flowers: Small, bright yellow, daisy-like, in branched plume-like sprays
+  stem: Erect, often reddish, downy or smooth
+  root: Fibrous perennial rootstock
+  fruit: Small ribbed achenes with a hairy pappus
+  flowering_period: July-October
+  reference_ids:
+  - REF-1045
+  status: verified
+habitat:
+  text: Native throughout Europe and temperate Asia, growing on dry grassland, woodland clearings, heaths
+    and rocky ground; less aggressively spreading than the North American Solidago canadensis, with which
+    it is sometimes confused.
+  reference_ids:
+  - REF-1045
+  - REF-0069
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut during flowering (late summer) and dried.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Late summer, during flowering
+  reference_ids:
+  - REF-0069
+  status: verified
+traditional_uses:
+  text: Goldenrod has a long European folk-medicine tradition as a mild 'aquaretic' diuretic and anti-inflammatory
+    remedy for the urinary tract, used traditionally for urinary-tract irrigation therapy alongside adequate
+    fluid intake, and topically as a wound herb (one common name is 'woundwort'). Modern phytochemical
+    work confirms saponin- and flavonoid-driven anti-inflammatory, antioxidant and diuretic activity.
+  reference_ids:
+  - REF-0069
+  - REF-1045
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: Dried aerial parts steeped in hot water - the classic urinary-tract preparation.
+  reference_ids:
+  - REF-0069
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+- name: Standardised extract (capsule)
+  text: Concentrated commercial form used in some European urinary-tract products.
+  status: draft
+dosage:
+- name: Infusion (tea)
+  text: 'Duke (2002): about 6-12 g dried herb daily as tea for urinary complaints. Educational reference
+    only, not a prescription; avoid in fluid retention from cardiac or renal impairment.'
+  reference_ids:
+  - REF-0016
+  - REF-0069
+  - REF-0244
+  status: verified
+constituents:
+- name: Saponins
+  compounds:
+  - saponin
+  note: Studied constituents of the aerial parts.
+  reference_ids:
+  - REF-0016
+- name: Flavonoids (quercetin, rutin)
+  compounds:
+  - flavonoid
+  - quercetin
+  - rutin
+  note: Contribute to antioxidant and anti-inflammatory activity.
+  reference_ids:
+  - REF-1045
+- name: Phenolic acids and diterpenes
+  compounds:
+  - phenolic-acid
+  note: Minor supporting constituents.
+  reference_ids:
+  - REF-1045
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -125,13 +210,24 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: jacobaea-vulgaris
   severity: dangerous
-  confused_part: Yellow-flowered plant gathered for its flowering tops; toxic ragwort shares the yellow colour and the same rough grassland.
-  confusion_context: Goldenrod (Solidago virgaurea) is gathered for its yellow flowering tops. As foraging guidance notes, goldenrod has toxic look-alikes - notably ragwort (Jacobaea vulgaris / Senecio jacobaea), a yellow-flowered weed of the same rough grassland. Ragwort contains hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage and can be fatal, with highest risk once the plant is cut or dried into herbal material or hay. Because both are yellow-flowered plants of the same ground, correct identification matters before gathering.
+  confused_part: Yellow-flowered plant gathered for its flowering tops; toxic ragwort shares the yellow
+    colour and the same rough grassland.
+  confusion_context: Goldenrod (Solidago virgaurea) is gathered for its yellow flowering tops. As foraging
+    guidance notes, goldenrod has toxic look-alikes - notably ragwort (Jacobaea vulgaris / Senecio jacobaea),
+    a yellow-flowered weed of the same rough grassland. Ragwort contains hepatotoxic pyrrolizidine alkaloids
+    that cause cumulative liver damage and can be fatal, with highest risk once the plant is cut or dried
+    into herbal material or hay. Because both are yellow-flowered plants of the same ground, correct identification
+    matters before gathering.
   distinguishing_features:
-  - 'Flowers (decisive): goldenrod carries many tiny flower heads packed into a plume or spray. Ragwort has larger, open, daisy-like yellow flowers (with about 13 spreading ray petals) in flat-topped clusters, and fewer heads.'
-  - 'Leaves: goldenrod leaves are simple, lance-shaped and toothed; ragwort leaves are blunter, deeply lobed and ruffled (''kale-like'').'
+  - 'Flowers (decisive): goldenrod carries many tiny flower heads packed into a plume or spray. Ragwort
+    has larger, open, daisy-like yellow flowers (with about 13 spreading ray petals) in flat-topped clusters,
+    and fewer heads.'
+  - 'Leaves: goldenrod leaves are simple, lance-shaped and toothed; ragwort leaves are blunter, deeply
+    lobed and ruffled (''kale-like'').'
   - 'Timing: ragwort tends to flower earlier than goldenrod.'
-  key_test: Look at the flower heads. Many tiny florets in a feathery plume on a leafy stem = goldenrod. Larger open daisy-like yellow flowers with about 13 petals and ruffled lobed leaves = ragwort - liver-toxic, do not gather it.
+  key_test: Look at the flower heads. Many tiny florets in a feathery plume on a leafy stem = goldenrod.
+    Larger open daisy-like yellow flowers with about 13 petals and ruffled lobed leaves = ragwort - liver-toxic,
+    do not gather it.
   reference_ids:
   - REF-2705
   - REF-2689
@@ -141,7 +237,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -149,4 +245,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1045, REF-1046, REF-1047, REF-1048, REF-1049,
   REF-1050, REF-1051, REF-1052, REF-1053, REF-1054) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing Community herbal monograph (REF-0069) and ethnomedicinal/phytochemistry
+  review (REF-1045) plus the dedicated saponins paper (REF-0016).'

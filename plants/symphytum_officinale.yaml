@@ -11,6 +11,101 @@ family: Boraginaceae
 parts_used:
 - Leaf
 - Root
+botanical_description:
+  text: Robust, hairy perennial herb (Boraginaceae), 60-120 cm tall, with a thick, black-skinned, mucilaginous
+    taproot. Leaves are large, broad, lance-shaped and bristly-hairy, running down the stem as raised
+    wings (decurrent) - the leaf base's smooth, untoothed margin is a key feature distinguishing it from
+    toxic foxglove. Drooping clusters of tubular, bell-shaped flowers are cream, pink or purple depending
+    on variety.
+  height: 60-120 cm
+  habit: Robust, hairy perennial herb
+  leaves: Large, broad, lance-shaped, bristly-hairy, decurrent (winging the stem), untoothed margin
+  flowers: Tubular, bell-shaped, cream, pink or purple, in drooping clusters
+  stem: Winged by decurrent leaf bases, hairy
+  root: Thick, black-skinned, mucilaginous taproot
+  fruit: Small nutlets (typical Boraginaceae)
+  flowering_period: May-June, into summer
+  reference_ids:
+  - REF-0074
+  status: verified
+habitat:
+  text: Native to Europe and western Asia, growing in damp ground - riverbanks, ditches, damp meadows
+    and waste ground - and widely cultivated.
+  reference_ids:
+  - REF-0074
+  status: verified
+harvesting:
+  text: Leaves are cut during the growing season (before flowering is often preferred for lower pyrrolizidine-alkaloid
+    content); root is dug in autumn or spring from mature plants.
+  parts:
+  - Leaf
+  - Root
+  season: Leaf during the growing season (ideally before flowering); root autumn or spring
+  reference_ids:
+  - REF-0074
+  status: verified
+traditional_uses:
+  text: Comfrey has one of the strongest traditional reputations of any European herb for wound healing
+    and bone/tissue repair - the folk names 'knitbone' and 'boneset' reflect this - owing to its high
+    allantoin content, which stimulates cell proliferation. Because the plant also contains hepatotoxic
+    pyrrolizidine alkaloids, modern regulatory use is restricted to topical preparations only, for minor
+    bruises and sprains, and internal use (teas, tinctures) is no longer recommended.
+  reference_ids:
+  - REF-0074
+  status: verified
+preparations:
+- name: Topical cream/ointment (root extract)
+  text: The officially recognised European herbal-monograph preparation, for minor bruises and sprains,
+    short-term use only.
+  reference_ids:
+  - REF-0074
+  status: verified
+- name: Poultice
+  text: Crushed fresh leaf or root applied externally to bruises, sprains and minor injuries - a traditional
+    use.
+  status: draft
+- name: Infused oil
+  text: Root or leaf infused in oil for topical salves.
+  status: draft
+dosage:
+- name: Topical root preparation
+  text: EU herbal-monograph guidance describes comfrey root preparations applied topically for minor bruises
+    and sprains in adults, for a limited duration (commonly up to about 10 days); do not apply to broken
+    skin or near eyes/mucous membranes. Comfrey must never be taken internally (no teas, tinctures or
+    capsules) because of its pyrrolizidine alkaloid content. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0074
+  - REF-0246
+  - REF-0281
+  status: verified
+constituents:
+- name: Allantoin
+  compounds:
+  - allantoin
+  note: The key cell-proliferative constituent underlying comfrey's wound-healing reputation.
+  reference_ids:
+  - REF-1064
+- name: Mucilage polysaccharides
+  compounds:
+  - mucilage
+  - polysaccharide
+  note: Contribute to the soothing, demulcent texture of the leaf and root.
+  reference_ids:
+  - REF-1065
+- name: Rosmarinic acid and other phenolics
+  compounds:
+  - rosmarinic-acid
+  - phenolic-compound
+  note: Contribute to antioxidant and anti-inflammatory activity.
+  reference_ids:
+  - REF-1064
+- name: Pyrrolizidine alkaloids
+  compounds:
+  - alkaloid
+  note: Hepatotoxic constituents naturally present in the whole plant; the reason internal use is not
+    recommended and processed/detoxified extracts are used for research.
+  reference_ids:
+  - REF-1064
 actions:
 - action: analgesic
   reference_ids:
@@ -166,13 +261,25 @@ lookalikes_review:
 dangerous_lookalikes:
 - dangerous_plant: digitalis-purpurea
   severity: fatal
-  confused_part: Young non-flowering basal-rosette leaves gathered in spring for tea or infusion, before either plant flowers.
-  confusion_context: Comfrey and foxglove both form a ground rosette of large, soft-hairy, grey-green oval leaves, and comfrey leaf is exactly the part harvested for herbal tea. Foxglove leaves contain cardiac glycosides and are potentially fatal; documented poisonings include a woman who developed heart block after an infusion of 'boiled comfrey leaves' that was actually foxglove, and an outbreak of nine people poisoned by 'comfrey' tea that was foxglove. The plants are hardest to tell apart before flowering.
+  confused_part: Young non-flowering basal-rosette leaves gathered in spring for tea or infusion, before
+    either plant flowers.
+  confusion_context: Comfrey and foxglove both form a ground rosette of large, soft-hairy, grey-green
+    oval leaves, and comfrey leaf is exactly the part harvested for herbal tea. Foxglove leaves contain
+    cardiac glycosides and are potentially fatal; documented poisonings include a woman who developed
+    heart block after an infusion of 'boiled comfrey leaves' that was actually foxglove, and an outbreak
+    of nine people poisoned by 'comfrey' tea that was foxglove. The plants are hardest to tell apart before
+    flowering.
   distinguishing_features:
-  - 'Leaf margin (most decisive): comfrey leaves are entire — a smooth, unbroken edge. Foxglove leaves are finely toothed or scalloped along the whole margin.'
-  - Comfrey leaf bases run down the stem as raised wings (decurrent), so the stem looks winged; foxglove leaves narrow to a stalk and do not wing the stem.
-  - Comfrey hairs are stiff, coarse and bristly (rough to the touch); foxglove leaves are softly downy and velvety, with a grey-felted, net-veined underside. Do not rely on hairiness alone — both feel hairy.
-  key_test: 'Look closely at the leaf edge: a smooth, untoothed margin plus a leaf base that runs down the stem as a wing = comfrey. A continuous line of small teeth or scallops along the edge = foxglove — do not use it. If the margin is not clearly untoothed, do not forage.'
+  - 'Leaf margin (most decisive): comfrey leaves are entire — a smooth, unbroken edge. Foxglove leaves
+    are finely toothed or scalloped along the whole margin.'
+  - Comfrey leaf bases run down the stem as raised wings (decurrent), so the stem looks winged; foxglove
+    leaves narrow to a stalk and do not wing the stem.
+  - Comfrey hairs are stiff, coarse and bristly (rough to the touch); foxglove leaves are softly downy
+    and velvety, with a grey-felted, net-veined underside. Do not rely on hairiness alone — both feel
+    hairy.
+  key_test: 'Look closely at the leaf edge: a smooth, untoothed margin plus a leaf base that runs down
+    the stem as a wing = comfrey. A continuous line of small teeth or scallops along the edge = foxglove
+    — do not use it. If the margin is not clearly untoothed, do not forage.'
   reference_ids:
   - REF-2603
   - REF-2604
@@ -182,7 +289,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-06'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -190,4 +297,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1064, REF-1065, REF-1066, REF-1067, REF-1068,
   REF-1069, REF-1070, REF-1071, REF-1072, REF-1073) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
+  monograph-base fields, sourced from the existing EMA HMPC root monograph (REF-0074) and the PA-detoxification/hepatoprotective
+  study (REF-1064) plus the skin-microbiota metabolism study (REF-1065).'

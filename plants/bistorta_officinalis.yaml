@@ -32,6 +32,66 @@ constituents:
   note: Other rhizome constituents.
   reference_ids:
   - REF-0411
+botanical_description:
+  text: Perennial herb rising from a thick, twisted, S- or snake-shaped rhizome (giving the names 'bistort'
+    and 'snakeroot'), blackish outside and pink inside. The basal leaves are broadly oval to lance-shaped
+    on long stalks; stem leaves are smaller and stalkless. A single dense, cylindrical spike of small,
+    pale pink flowers is borne atop each unbranched flowering stem.
+  height: 30-80 cm
+  habit: Erect perennial herb from a twisted rhizome
+  leaves: Basal leaves broadly oval to lance-shaped, long-stalked; stem leaves smaller, stalkless
+  flowers: Dense, cylindrical spike of small pale pink flowers atop an unbranched stem
+  stem: Erect, unbranched, one flower spike per stem
+  root: Thick, twisted, S-shaped (snake-like) rhizome, blackish outside, pink inside
+  fruit: Small, glossy, three-angled achene
+  flowering_period: May-August
+  reference_ids:
+  - REF-0410
+  status: verified
+habitat:
+  text: Grows in damp meadows, pastures, streamsides and mountain grassland on moist, often calcareous
+    soils; native to Europe and temperate Asia, favouring cooler upland regions.
+  reference_ids:
+  - REF-0410
+  status: verified
+harvesting:
+  text: The rhizome is dug in autumn or early spring, when tannin content is highest, cleaned and dried;
+    aerial parts are gathered in summer while flowering.
+  parts:
+  - Rhizome (root) and aerial parts
+  season: Rhizome in autumn or early spring; aerial parts in summer flowering
+  reference_ids:
+  - REF-0410
+  status: verified
+traditional_uses:
+  text: Bistort rhizome, one of the most tannin-rich temperate herbs, has a long European folk history
+    as a powerful astringent for mild diarrhoea, as a gargle for sore throat and mouth inflammation, and
+    topically as a vulnerary and styptic for minor wounds and bleeding; young leaves have also traditionally
+    been eaten as a spring pot-herb ('Easter-ledge pudding').
+  reference_ids:
+  - REF-0410
+  - REF-0411
+  status: verified
+preparations:
+- name: Decoction (rhizome)
+  text: Dried rhizome simmered in water as a strongly astringent traditional remedy for diarrhoea, or
+    used as a gargle/mouthwash for sore throat.
+  reference_ids:
+  - REF-0410
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried rhizome.
+  status: draft
+- name: Poultice/wash
+  text: Crushed rhizome or aerial parts applied externally, or used as a wash, for minor wounds and bleeding.
+  reference_ids:
+  - REF-0411
+  status: draft
+dosage:
+- name: Decoction/gargle
+  text: Traditional herbal references suggest around 1-2 g of dried rhizome per cup, up to three times
+    daily, or used as a gargle. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory gargle / mouthwash for inflammation of the mouth and throat (sore throat)
@@ -165,7 +225,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Journal of Ethnopharmacology
   activity study; WebMD monograph). Bistorta officinalis = Persicaria bistorta = Polygonum bistorta. Originally
   a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, wounds);
@@ -176,4 +236,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Jou
   bucket (least-cited enrichment): REF-0746, REF-0747, REF-0748. | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-2116, REF-2117, REF-2118, REF-2119, REF-0747,
   REF-2120, REF-2121, REF-2122, REF-2123, REF-0627) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

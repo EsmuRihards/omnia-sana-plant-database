@@ -11,6 +11,92 @@ parts_used:
 - Bark
 - Leaf
 - Sap
+botanical_description:
+  text: Elegant deciduous tree with a slender trunk, distinctive smooth white bark that peels in papery
+    horizontal strips and becomes dark and fissured near the base with age, and characteristically drooping
+    ('pendulous') branchlets. The leaves are small, triangular to diamond-shaped, doubly toothed and long-pointed.
+    Male and female flowers are borne in separate catkins on the same tree in spring.
+  height: Up to 25-30 m
+  habit: Slender deciduous tree with drooping branchlets
+  leaves: Small, triangular to diamond-shaped, doubly toothed, long-pointed
+  flowers: Separate male and female catkins on the same tree
+  stem: Slender trunk with smooth white, papery, peeling bark, dark and fissured at the base with age
+  root: Shallow, wide-spreading root system
+  fruit: Tiny winged seed (samara) shed from the female catkin
+  flowering_period: April-May
+  reference_ids:
+  - REF-0743
+  status: verified
+habitat:
+  text: A pioneer tree of light, well-drained, often poor or acidic soils, growing in woodland, heathland
+    and waste ground across Europe and much of temperate Asia.
+  reference_ids:
+  - REF-0743
+  status: verified
+harvesting:
+  text: Leaves are picked in spring and early summer while young and tender; bark is collected from felled
+    or fallen wood (living trees should not be stripped of bark, which can kill them); sap is tapped in
+    early spring, before leaf-out, through a small hole bored in the trunk.
+  parts:
+  - Bark
+  - Leaf
+  - Sap
+  season: Leaf in spring/early summer; sap in early spring before leaf-out; bark from felled wood
+  reference_ids:
+  - REF-0743
+  status: verified
+traditional_uses:
+  text: Birch leaf is a classic European 'aquaretic' diuretic used for urinary gravel, kidney stones and
+    as a spring detoxifying tonic, and for rheumatic and joint complaints; the bark and its extracts have
+    a long folk history for skin conditions, while the sap has been drunk fresh as a traditional spring
+    tonic.
+  reference_ids:
+  - REF-0743
+  status: verified
+preparations:
+- name: Infusion (leaf)
+  text: Dried leaf infused in hot water as a traditional diuretic and 'detox' tea, classically taken as
+    a course in spring.
+  reference_ids:
+  - REF-0743
+  status: verified
+- name: Decoction (bark)
+  text: Bark simmered in water or processed into extracts for topical skin use.
+  reference_ids:
+  - REF-0743
+  status: draft
+- name: Fresh sap
+  text: Sap collected fresh in early spring and drunk directly as a traditional tonic, or fermented into
+    birch wine/vinegar.
+  status: draft
+dosage:
+- name: Leaf infusion
+  text: Traditional herbal references suggest around 2-3 g of dried leaf per cup, up to three times daily,
+    with adequate fluid intake. Educational reference only, not a prescription.
+  status: draft
+constituents:
+- name: Flavonoids (quercetin, myricetin, hyperoside)
+  compounds:
+  - flavonoid
+  - quercetin
+  note: Principal diuretic and antioxidant constituents of the leaf.
+  reference_ids:
+  - REF-0743
+- name: Triterpenes (betulin, betulinic acid)
+  compounds:
+  - terpene
+  note: Characteristic bark triterpenes, betulin giving birch bark its white colour; studied for anticancer
+    and anti-inflammatory activity.
+  reference_ids:
+  - REF-0743
+  - REF-1692
+- name: Tannins and phenolic acids
+  compounds:
+  - tannin
+  - phenolic-acid
+  note: Contribute to the astringent and antioxidant properties of the bark and leaf.
+  reference_ids:
+  - REF-0743
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -233,7 +319,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -242,4 +328,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0743, REF-0744, REF-0745.
   | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0743,
   REF-1692, REF-0744, REF-1693, REF-1694, REF-1695, REF-1696, REF-1697, REF-1698, REF-1699) — woven into
-  relevant actions/indications and the plant-level references bucket.'
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

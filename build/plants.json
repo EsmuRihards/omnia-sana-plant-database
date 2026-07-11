@@ -7722,6 +7722,72 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Erect perennial herb with hairy, unbranched stems and narrow, lance-shaped, alternate leaves (unlike most milkweeds, its sap is clear rather than milky). Vivid orange-red flowers are borne in showy, flat-topped umbel-like clusters at the stem tips, making it a prized butterfly and pollinator plant. The stout, fibrous, branching root is the medicinal part.",
+    "height": "30-90 cm",
+    "habit": "Erect, hairy perennial herb",
+    "leaves": "Narrow, lance-shaped, alternate",
+    "flowers": "Vivid orange-red flowers in showy, flat-topped umbel-like clusters",
+    "stem": "Erect, hairy, unbranched, exuding clear (not milky) sap when cut",
+    "root": "Stout, fibrous, branching taproot",
+    "fruit": "Spindle-shaped seed pod (follicle) releasing silky-tufted seeds",
+    "flowering_period": "June-September",
+    "reference_ids": [
+     "REF-0494"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to dry prairies, open fields, roadsides and sandy or rocky open ground across most of eastern and central North America.",
+    "reference_ids": [
+     "REF-0494"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug in autumn after the plant has finished flowering and seeding, then cleaned and dried; given its cardiac glycoside content and near-absence of modern safety data, harvesting and use should only be undertaken with expert guidance.",
+    "parts": [
+     "Root"
+    ],
+    "season": "Autumn",
+    "reference_ids": [
+     "REF-0494"
+    ],
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Pleurisy root has a Native American and Eclectic-medicine reputation, reflected in its name, as an expectorant and diaphoretic for chest complaints, bronchitis and pleurisy, used to promote sweating during feverish illness and help clear phlegm.",
+    "reference_ids": [
+     "REF-0494",
+     "REF-0495"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried root simmered in water as a traditional expectorant and diaphoretic remedy; given its cardiac glycoside content, only under qualified practitioner guidance.",
+     "reference_ids": [
+      "REF-0494"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "All preparations",
+     "text": "Because the root contains cardiac glycosides and modern safety/efficacy data are very limited, no general dose is given here; use only under the guidance of a qualified practitioner, and never in pregnancy, breastfeeding, infancy, or with a heart condition or cardiac glycoside medicines. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0495"
+     ],
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -7905,7 +7971,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "pleurisy-root"
   },
   {
@@ -7951,6 +8017,86 @@
      "reference_ids": [
       "REF-0402"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Erect perennial herb with a long, fibrous, pale yellow taproot. The leaves are pinnately compound with numerous small, oval leaflets, giving a soft, ferny appearance. Small, pale yellow, pea-like flowers are borne in loose axillary clusters (racemes), followed by membranous, inflated seed pods that give the species its name.",
+    "height": "40-100 cm",
+    "habit": "Erect perennial herb",
+    "leaves": "Pinnately compound with numerous small, oval leaflets",
+    "flowers": "Small, pale yellow, pea-like flowers in loose axillary racemes",
+    "stem": "Erect, softly hairy",
+    "root": "Long, fibrous, pale yellow taproot (the medicinal part, huang qi)",
+    "fruit": "Membranous, inflated seed pod",
+    "flowering_period": "June-July",
+    "reference_ids": [
+     "REF-0402"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the grasslands, sunny slopes and forest margins of northern and north-eastern China, Mongolia and parts of Korea; widely cultivated as a medicinal crop across East Asia.",
+    "reference_ids": [
+     "REF-0402"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug from plants at least four years old, typically in spring or autumn, then cleaned and dried, often sliced into the characteristic pale, fibrous 'coin' slices used in traditional decoctions.",
+    "parts": [
+     "Root"
+    ],
+    "season": "Spring or autumn, from four-year-old (or older) plants",
+    "reference_ids": [
+     "REF-0402"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Astragalus root (huang qi) is one of the most widely used tonic herbs in traditional Chinese medicine, classified as a 'Qi tonic' for fatigue, low vitality and reduced resistance to colds and infections, and used to support immune, cardiovascular and kidney health.",
+    "reference_ids": [
+     "REF-0402",
+     "REF-0401"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction",
+     "text": "Dried, sliced root simmered in water, often alongside other tonic herbs, as the classic traditional Chinese medicine preparation.",
+     "reference_ids": [
+      "REF-0402"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Concentrated extract standardised to polysaccharide or astragaloside IV content, taken as capsules or tablets.",
+     "reference_ids": [
+      "REF-0401",
+      "REF-0402"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction",
+     "text": "Traditional Chinese medicine references suggest around 9-30 g of dried root per day, decocted. Educational reference only, not a prescription.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract",
+     "text": "Clinical studies commonly use extracts providing the equivalent of several grams of dried root daily, in divided doses. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0401"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -8149,7 +8295,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "astragalus"
   },
   {
@@ -8165,6 +8311,102 @@
    "parts_used": [
     "Leaf",
     "Whole Plant"
+   ],
+   "botanical_description": {
+    "text": "Low, creeping, succulent perennial herb that roots at the nodes as it spreads across wet ground. The leaves are small, fleshy, spatula-shaped and arranged oppositely along the trailing stems. Small, pale lavender to white, four- to five-petalled flowers are borne singly in the leaf axils.",
+    "height": "5-15 cm (trailing/creeping)",
+    "habit": "Low, creeping, succulent perennial herb",
+    "leaves": "Small, fleshy, spatula-shaped, opposite",
+    "flowers": "Small, pale lavender to white, four- to five-petalled, borne singly in leaf axils",
+    "stem": "Trailing, succulent, rooting at the nodes",
+    "root": "Fine roots at each node along the creeping stem",
+    "fruit": "Small ovoid capsule",
+    "flowering_period": "Year-round in warm, wet climates",
+    "reference_ids": [
+     "REF-2107"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in wet, marshy ground, muddy shorelines, rice paddies and shallow water throughout tropical and subtropical regions of Asia, and also found in parts of Africa, Australia and the Americas.",
+    "reference_ids": [
+     "REF-2107"
+    ],
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The whole plant (leaf and trailing stem) is harvested during active growth, typically cut a few centimetres above the mud or water line, and dried or used fresh.",
+    "parts": [
+     "Leaf",
+     "Whole Plant"
+    ],
+    "season": "During active growth (warm season)",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Bacopa (brahmi) is a classic Ayurvedic 'medhya rasayana' (brain-nourishing) herb, traditionally used to support memory, learning and mental clarity, and as a calming nervine for anxiety and disturbed sleep. This traditional cognitive reputation is now supported by randomised controlled trials of standardised extracts.",
+    "reference_ids": [
+     "REF-2107",
+     "REF-0740"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Extract standardised to bacoside content, taken as capsules or tablets; the form used in most clinical trials for cognitive support.",
+     "reference_ids": [
+      "REF-2107",
+      "REF-0740"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Fresh or dried leaf/whole plant infused in hot water as a traditional nervine tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for cognitive support commonly use extracts providing around 300 mg dried extract daily, taken for at least several weeks, since benefits accrue gradually. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-2107",
+      "REF-0740"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Triterpenoid saponins (bacosides A and B)",
+     "compounds": [
+      "saponin",
+      "triterpene-saponin"
+     ],
+     "note": "Principal bioactive saponins linked to the plant's neuroprotective and cognition-enhancing effects.",
+     "reference_ids": [
+      "REF-2107",
+      "REF-0740"
+     ]
+    },
+    {
+     "name": "Flavonoids and alkaloids",
+     "compounds": [
+      "flavonoid",
+      "alkaloid"
+     ],
+     "note": "Additional antioxidant and neuroactive constituents.",
+     "reference_ids": [
+      "REF-2109"
+     ]
+    }
    ],
    "actions": [
     {
@@ -8333,7 +8575,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "water-hyssop"
   },
   {
@@ -8351,6 +8593,113 @@
     "Bark",
     "Leaf",
     "Sap"
+   ],
+   "botanical_description": {
+    "text": "Elegant deciduous tree with a slender trunk, distinctive smooth white bark that peels in papery horizontal strips and becomes dark and fissured near the base with age, and characteristically drooping ('pendulous') branchlets. The leaves are small, triangular to diamond-shaped, doubly toothed and long-pointed. Male and female flowers are borne in separate catkins on the same tree in spring.",
+    "height": "Up to 25-30 m",
+    "habit": "Slender deciduous tree with drooping branchlets",
+    "leaves": "Small, triangular to diamond-shaped, doubly toothed, long-pointed",
+    "flowers": "Separate male and female catkins on the same tree",
+    "stem": "Slender trunk with smooth white, papery, peeling bark, dark and fissured at the base with age",
+    "root": "Shallow, wide-spreading root system",
+    "fruit": "Tiny winged seed (samara) shed from the female catkin",
+    "flowering_period": "April-May",
+    "reference_ids": [
+     "REF-0743"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "A pioneer tree of light, well-drained, often poor or acidic soils, growing in woodland, heathland and waste ground across Europe and much of temperate Asia.",
+    "reference_ids": [
+     "REF-0743"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Leaves are picked in spring and early summer while young and tender; bark is collected from felled or fallen wood (living trees should not be stripped of bark, which can kill them); sap is tapped in early spring, before leaf-out, through a small hole bored in the trunk.",
+    "parts": [
+     "Bark",
+     "Leaf",
+     "Sap"
+    ],
+    "season": "Leaf in spring/early summer; sap in early spring before leaf-out; bark from felled wood",
+    "reference_ids": [
+     "REF-0743"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Birch leaf is a classic European 'aquaretic' diuretic used for urinary gravel, kidney stones and as a spring detoxifying tonic, and for rheumatic and joint complaints; the bark and its extracts have a long folk history for skin conditions, while the sap has been drunk fresh as a traditional spring tonic.",
+    "reference_ids": [
+     "REF-0743"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion (leaf)",
+     "text": "Dried leaf infused in hot water as a traditional diuretic and 'detox' tea, classically taken as a course in spring.",
+     "reference_ids": [
+      "REF-0743"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction (bark)",
+     "text": "Bark simmered in water or processed into extracts for topical skin use.",
+     "reference_ids": [
+      "REF-0743"
+     ],
+     "status": "draft"
+    },
+    {
+     "name": "Fresh sap",
+     "text": "Sap collected fresh in early spring and drunk directly as a traditional tonic, or fermented into birch wine/vinegar.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Leaf infusion",
+     "text": "Traditional herbal references suggest around 2-3 g of dried leaf per cup, up to three times daily, with adequate fluid intake. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Flavonoids (quercetin, myricetin, hyperoside)",
+     "compounds": [
+      "flavonoid",
+      "quercetin"
+     ],
+     "note": "Principal diuretic and antioxidant constituents of the leaf.",
+     "reference_ids": [
+      "REF-0743"
+     ]
+    },
+    {
+     "name": "Triterpenes (betulin, betulinic acid)",
+     "compounds": [
+      "terpene"
+     ],
+     "note": "Characteristic bark triterpenes, betulin giving birch bark its white colour; studied for anticancer and anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-0743",
+      "REF-1692"
+     ]
+    },
+    {
+     "name": "Tannins and phenolic acids",
+     "compounds": [
+      "tannin",
+      "phenolic-acid"
+     ],
+     "note": "Contribute to the astringent and antioxidant properties of the bark and leaf.",
+     "reference_ids": [
+      "REF-0743"
+     ]
+    }
    ],
    "actions": [
     {
@@ -8683,7 +9032,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "birch"
   },
   {
@@ -8734,6 +9083,77 @@
      "reference_ids": [
       "REF-0411"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Perennial herb rising from a thick, twisted, S- or snake-shaped rhizome (giving the names 'bistort' and 'snakeroot'), blackish outside and pink inside. The basal leaves are broadly oval to lance-shaped on long stalks; stem leaves are smaller and stalkless. A single dense, cylindrical spike of small, pale pink flowers is borne atop each unbranched flowering stem.",
+    "height": "30-80 cm",
+    "habit": "Erect perennial herb from a twisted rhizome",
+    "leaves": "Basal leaves broadly oval to lance-shaped, long-stalked; stem leaves smaller, stalkless",
+    "flowers": "Dense, cylindrical spike of small pale pink flowers atop an unbranched stem",
+    "stem": "Erect, unbranched, one flower spike per stem",
+    "root": "Thick, twisted, S-shaped (snake-like) rhizome, blackish outside, pink inside",
+    "fruit": "Small, glossy, three-angled achene",
+    "flowering_period": "May-August",
+    "reference_ids": [
+     "REF-0410"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in damp meadows, pastures, streamsides and mountain grassland on moist, often calcareous soils; native to Europe and temperate Asia, favouring cooler upland regions.",
+    "reference_ids": [
+     "REF-0410"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The rhizome is dug in autumn or early spring, when tannin content is highest, cleaned and dried; aerial parts are gathered in summer while flowering.",
+    "parts": [
+     "Rhizome (root) and aerial parts"
+    ],
+    "season": "Rhizome in autumn or early spring; aerial parts in summer flowering",
+    "reference_ids": [
+     "REF-0410"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Bistort rhizome, one of the most tannin-rich temperate herbs, has a long European folk history as a powerful astringent for mild diarrhoea, as a gargle for sore throat and mouth inflammation, and topically as a vulnerary and styptic for minor wounds and bleeding; young leaves have also traditionally been eaten as a spring pot-herb ('Easter-ledge pudding').",
+    "reference_ids": [
+     "REF-0410",
+     "REF-0411"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Decoction (rhizome)",
+     "text": "Dried rhizome simmered in water as a strongly astringent traditional remedy for diarrhoea, or used as a gargle/mouthwash for sore throat.",
+     "reference_ids": [
+      "REF-0410"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried rhizome.",
+     "status": "draft"
+    },
+    {
+     "name": "Poultice/wash",
+     "text": "Crushed rhizome or aerial parts applied externally, or used as a wash, for minor wounds and bleeding.",
+     "reference_ids": [
+      "REF-0411"
+     ],
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Decoction/gargle",
+     "text": "Traditional herbal references suggest around 1-2 g of dried rhizome per cup, up to three times daily, or used as a gargle. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -8944,7 +9364,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "bistort"
   },
   {

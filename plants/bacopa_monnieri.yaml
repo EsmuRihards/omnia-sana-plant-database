@@ -9,6 +9,83 @@ family: Plantaginaceae
 parts_used:
 - Leaf
 - Whole Plant
+botanical_description:
+  text: Low, creeping, succulent perennial herb that roots at the nodes as it spreads across wet ground.
+    The leaves are small, fleshy, spatula-shaped and arranged oppositely along the trailing stems. Small,
+    pale lavender to white, four- to five-petalled flowers are borne singly in the leaf axils.
+  height: 5-15 cm (trailing/creeping)
+  habit: Low, creeping, succulent perennial herb
+  leaves: Small, fleshy, spatula-shaped, opposite
+  flowers: Small, pale lavender to white, four- to five-petalled, borne singly in leaf axils
+  stem: Trailing, succulent, rooting at the nodes
+  root: Fine roots at each node along the creeping stem
+  fruit: Small ovoid capsule
+  flowering_period: Year-round in warm, wet climates
+  reference_ids:
+  - REF-2107
+  status: verified
+habitat:
+  text: Grows in wet, marshy ground, muddy shorelines, rice paddies and shallow water throughout tropical
+    and subtropical regions of Asia, and also found in parts of Africa, Australia and the Americas.
+  reference_ids:
+  - REF-2107
+  status: draft
+harvesting:
+  text: The whole plant (leaf and trailing stem) is harvested during active growth, typically cut a few
+    centimetres above the mud or water line, and dried or used fresh.
+  parts:
+  - Leaf
+  - Whole Plant
+  season: During active growth (warm season)
+  status: draft
+traditional_uses:
+  text: Bacopa (brahmi) is a classic Ayurvedic 'medhya rasayana' (brain-nourishing) herb, traditionally
+    used to support memory, learning and mental clarity, and as a calming nervine for anxiety and disturbed
+    sleep. This traditional cognitive reputation is now supported by randomised controlled trials of standardised
+    extracts.
+  reference_ids:
+  - REF-2107
+  - REF-0740
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Extract standardised to bacoside content, taken as capsules or tablets; the form used in most
+    clinical trials for cognitive support.
+  reference_ids:
+  - REF-2107
+  - REF-0740
+  status: verified
+- name: Infusion
+  text: Fresh or dried leaf/whole plant infused in hot water as a traditional nervine tea.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried herb.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for cognitive support commonly use extracts providing around 300 mg dried extract
+    daily, taken for at least several weeks, since benefits accrue gradually. Educational reference only,
+    not a prescription.
+  reference_ids:
+  - REF-2107
+  - REF-0740
+  status: draft
+constituents:
+- name: Triterpenoid saponins (bacosides A and B)
+  compounds:
+  - saponin
+  - triterpene-saponin
+  note: Principal bioactive saponins linked to the plant's neuroprotective and cognition-enhancing effects.
+  reference_ids:
+  - REF-2107
+  - REF-0740
+- name: Flavonoids and alkaloids
+  compounds:
+  - flavonoid
+  - alkaloid
+  note: Additional antioxidant and neuroactive constituents.
+  reference_ids:
+  - REF-2109
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -111,7 +188,9 @@ references:
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
-  mechanism: 'Bacopa (brahmi) is traditionally used as a calming, sedative herb; taken with sedatives, sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness and slowed reactions.'
+  mechanism: Bacopa (brahmi) is traditionally used as a calming, sedative herb; taken with sedatives,
+    sleeping tablets or other central-nervous-system depressants (including alcohol) it may add to drowsiness
+    and slowed reactions.
   reference_ids:
   - REF-2452
   - REF-2460
@@ -124,7 +203,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -133,4 +212,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   references to the plant-level references bucket (least-cited enrichment): REF-0740, REF-0741, REF-0742.
   | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0742,
   REF-2107, REF-0740, REF-2108, REF-2109, REF-2110, REF-2111, REF-2112, REF-2113, REF-2114, REF-2115)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy.'

@@ -27,6 +27,73 @@ constituents:
   note: Antioxidant flavonoid constituents of the root.
   reference_ids:
   - REF-0402
+botanical_description:
+  text: Erect perennial herb with a long, fibrous, pale yellow taproot. The leaves are pinnately compound
+    with numerous small, oval leaflets, giving a soft, ferny appearance. Small, pale yellow, pea-like
+    flowers are borne in loose axillary clusters (racemes), followed by membranous, inflated seed pods
+    that give the species its name.
+  height: 40-100 cm
+  habit: Erect perennial herb
+  leaves: Pinnately compound with numerous small, oval leaflets
+  flowers: Small, pale yellow, pea-like flowers in loose axillary racemes
+  stem: Erect, softly hairy
+  root: Long, fibrous, pale yellow taproot (the medicinal part, huang qi)
+  fruit: Membranous, inflated seed pod
+  flowering_period: June-July
+  reference_ids:
+  - REF-0402
+  status: verified
+habitat:
+  text: Native to the grasslands, sunny slopes and forest margins of northern and north-eastern China,
+    Mongolia and parts of Korea; widely cultivated as a medicinal crop across East Asia.
+  reference_ids:
+  - REF-0402
+  status: verified
+harvesting:
+  text: The root is dug from plants at least four years old, typically in spring or autumn, then cleaned
+    and dried, often sliced into the characteristic pale, fibrous 'coin' slices used in traditional decoctions.
+  parts:
+  - Root
+  season: Spring or autumn, from four-year-old (or older) plants
+  reference_ids:
+  - REF-0402
+  status: verified
+traditional_uses:
+  text: Astragalus root (huang qi) is one of the most widely used tonic herbs in traditional Chinese medicine,
+    classified as a 'Qi tonic' for fatigue, low vitality and reduced resistance to colds and infections,
+    and used to support immune, cardiovascular and kidney health.
+  reference_ids:
+  - REF-0402
+  - REF-0401
+  status: verified
+preparations:
+- name: Decoction
+  text: Dried, sliced root simmered in water, often alongside other tonic herbs, as the classic traditional
+    Chinese medicine preparation.
+  reference_ids:
+  - REF-0402
+  status: verified
+- name: Standardised extract
+  text: Concentrated extract standardised to polysaccharide or astragaloside IV content, taken as capsules
+    or tablets.
+  reference_ids:
+  - REF-0401
+  - REF-0402
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried root.
+  status: draft
+dosage:
+- name: Decoction
+  text: Traditional Chinese medicine references suggest around 9-30 g of dried root per day, decocted.
+    Educational reference only, not a prescription.
+  status: draft
+- name: Standardised extract
+  text: Clinical studies commonly use extracts providing the equivalent of several grams of dried root
+    daily, in divided doses. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0401
+  status: draft
 actions:
 - action: adaptogen
   note: Adaptogenic tonic for fatigue and low vitality (traditional 'Qi' tonic)
@@ -154,7 +221,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
   of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);
@@ -165,4 +232,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment):
   REF-0739, REF-0736, REF-0737. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
   @article sources (REF-0736, REF-2256, REF-0402, REF-2257, REF-2258, REF-2259, REF-2260, REF-2261, REF-0401,
-  REF-2262, REF-2263) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-2262, REF-2263) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy.'

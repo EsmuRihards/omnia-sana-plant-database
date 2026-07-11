@@ -40,6 +40,62 @@ constituents:
   note: Aromatic and astringent constituents.
   reference_ids:
   - REF-0478
+botanical_description:
+  text: Large deciduous tree with a rounded crown and heart-shaped, finely toothed, asymmetrical leaves.
+    Small, pale yellow, fragrant flowers hang in clusters from a distinctive pale green, leaf-like bract,
+    developing into small, round, downy nutlets.
+  height: 20-30 m
+  habit: Large deciduous tree with a rounded, dense crown
+  leaves: Heart-shaped, finely toothed, asymmetrical at the base
+  flowers: Small, pale yellow, fragrant, hanging in clusters from a pale green bract
+  stem: Tall trunk with smooth grey bark, becoming furrowed with age
+  root: Deep, spreading root system
+  fruit: Small, round, downy nutlet, attached to the persistent bract
+  flowering_period: June-July
+  reference_ids:
+  - REF-0478
+  status: verified
+habitat:
+  text: Grows in deciduous woodland, hedgerows and as a widely planted street and park tree; native to
+    Europe including Britain.
+  reference_ids:
+  - REF-0478
+  status: verified
+harvesting:
+  text: The flowers, together with their attached bract, are picked shortly after opening in early-to-mid
+    summer and dried quickly in a warm, shaded, airy place.
+  parts:
+  - Flower (lime, linden flower)
+  season: Early-to-mid summer, shortly after flowers open
+  reference_ids:
+  - REF-0478
+  status: verified
+traditional_uses:
+  text: Linden flower has a long European tradition, recognised in the EU herbal monograph, as a gentle
+    calming and sleep-supportive herb and as a diaphoretic remedy for feverish colds and flu, with modern
+    research on its flavonoid fraction (notably tiliroside) supporting a mechanistic basis for the traditional
+    calming action.
+  reference_ids:
+  - REF-0478
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flower (with bract) infused in hot water as the classic traditional calming and diaphoretic
+    tea.
+  reference_ids:
+  - REF-0478
+  status: verified
+- name: Tincture
+  text: Alcoholic extract of the dried flower.
+  status: draft
+dosage:
+- name: Infusion
+  text: The EU herbal monograph suggests around 2-4 g of dried flower per cup, up to several times daily
+    as needed for calming or feverish colds. Educational reference only, not a prescription; well tolerated
+    including in children per the monograph.
+  reference_ids:
+  - REF-0478
+  status: verified
 actions:
 - action: antioxidant
   note: Antioxidant and acetylcholinesterase-inhibitory (linden-flower extract scavenges free radicals
@@ -162,7 +218,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Tiliae flos, covering
   T. cordata with T. platyphyllos and T. x vulgaris). Further enriched 2026-06-13 with two PubMed studies
   - an in-vitro antioxidant/acetylcholinesterase-inhibition study of T. cordata flowers (REF-0554, Guller
@@ -173,4 +229,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1313, REF-1314,
   REF-1315, REF-1316, REF-1317, REF-1318, REF-1319, REF-1320, REF-1321, REF-1322) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-12: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
+  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
+  policy.'

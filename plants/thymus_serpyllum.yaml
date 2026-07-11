@@ -9,6 +9,54 @@ family: Lamiaceae
 parts_used:
 - Flower
 - Leaf
+botanical_description:
+  text: Low, mat-forming, aromatic perennial subshrub with tiny, oval, strongly aromatic leaves on trailing,
+    wiry, hairy stems that root as they spread. Small, pinkish-purple, two-lipped flowers are borne in
+    dense whorled clusters at the stem tips.
+  height: 2-10 cm (mat-forming, trailing)
+  habit: Low, mat-forming, aromatic perennial subshrub
+  leaves: Tiny, oval, strongly aromatic
+  flowers: Small, pinkish-purple, two-lipped, in dense whorled terminal clusters
+  stem: Trailing, wiry, hairy, rooting as it spreads
+  root: Fine, fibrous roots along the creeping stem
+  fruit: Small nutlet
+  flowering_period: May-September
+  status: draft
+habitat:
+  text: Grows on dry, sunny heath, grassland, rocky ground and sandy soils; native to Europe and widely
+    distributed across the northern temperate zone.
+  status: draft
+harvesting:
+  text: The flowering aerial parts (flower and leaf) are cut at the start of flowering in summer and dried
+    in a warm, shaded, airy place.
+  parts:
+  - Flower
+  - Leaf
+  season: Summer, at start of flowering
+  status: draft
+traditional_uses:
+  text: Wild thyme has a long European folk tradition, closely paralleling its relative garden thyme,
+    as an antimicrobial and expectorant remedy for coughs and respiratory infections, a digestive/gastroprotective
+    herb, and a topical antiseptic.
+  reference_ids:
+  - REF-0071
+  - REF-0133
+  - REF-0250
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried flowering herb infused in hot water as a traditional respiratory and digestive tea.
+  reference_ids:
+  - REF-0133
+  status: verified
+- name: Diluted essential oil (topical)
+  text: Essential oil, well diluted, used topically for its antimicrobial action; not applied undiluted.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -141,7 +189,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -149,4 +197,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-1094, REF-1095, REF-1096, REF-1097, REF-1098,
   REF-1099, REF-1100, REF-1101, REF-1102, REF-1103) — woven into relevant actions/indications and the
-  plant-level references bucket.'
+  plant-level references bucket. | 2026-07-12: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy.'

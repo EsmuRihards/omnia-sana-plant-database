@@ -55465,6 +55465,62 @@
     "Flower",
     "Leaf"
    ],
+   "botanical_description": {
+    "text": "Low, mat-forming, aromatic perennial subshrub with tiny, oval, strongly aromatic leaves on trailing, wiry, hairy stems that root as they spread. Small, pinkish-purple, two-lipped flowers are borne in dense whorled clusters at the stem tips.",
+    "height": "2-10 cm (mat-forming, trailing)",
+    "habit": "Low, mat-forming, aromatic perennial subshrub",
+    "leaves": "Tiny, oval, strongly aromatic",
+    "flowers": "Small, pinkish-purple, two-lipped, in dense whorled terminal clusters",
+    "stem": "Trailing, wiry, hairy, rooting as it spreads",
+    "root": "Fine, fibrous roots along the creeping stem",
+    "fruit": "Small nutlet",
+    "flowering_period": "May-September",
+    "status": "draft"
+   },
+   "habitat": {
+    "text": "Grows on dry, sunny heath, grassland, rocky ground and sandy soils; native to Europe and widely distributed across the northern temperate zone.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts (flower and leaf) are cut at the start of flowering in summer and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Flower",
+     "Leaf"
+    ],
+    "season": "Summer, at start of flowering",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Wild thyme has a long European folk tradition, closely paralleling its relative garden thyme, as an antimicrobial and expectorant remedy for coughs and respiratory infections, a digestive/gastroprotective herb, and a topical antiseptic.",
+    "reference_ids": [
+     "REF-0071",
+     "REF-0133",
+     "REF-0250"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water as a traditional respiratory and digestive tea.",
+     "reference_ids": [
+      "REF-0133"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Diluted essential oil (topical)",
+     "text": "Essential oil, well diluted, used topically for its antimicrobial action; not applied undiluted.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -55652,7 +55708,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "breckland-thyme"
   },
   {
@@ -55695,6 +55751,83 @@
      "reference_ids": [
       "REF-0519"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Low, woody-based aromatic perennial subshrub with small, narrow, grey-green leaves and small, pale pink to lilac, two-lipped flowers borne in whorled clusters along the upper stems.",
+    "height": "15-40 cm",
+    "habit": "Low, woody-based, bushy aromatic perennial subshrub",
+    "leaves": "Small, narrow, grey-green, strongly aromatic",
+    "flowers": "Small, pale pink to lilac, two-lipped, in whorled clusters along upper stems",
+    "stem": "Woody at the base, upright to sprawling, finely hairy",
+    "root": "Woody taproot",
+    "fruit": "Small nutlet",
+    "flowering_period": "May-August",
+    "reference_ids": [
+     "REF-0519"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows on dry, sunny, rocky, well-drained soils; native to the western Mediterranean and widely cultivated as a culinary and medicinal herb worldwide.",
+    "reference_ids": [
+     "REF-0519"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut just as flowering begins, when essential oil content is highest, and dried in a warm, shaded, airy place; essential oil is obtained by steam distillation of the fresh or dried herb.",
+    "parts": [
+     "Aerial parts (herb) and essential oil"
+    ],
+    "season": "Late spring to summer, at the start of flowering",
+    "reference_ids": [
+     "REF-0519"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Thyme has a long Mediterranean and European tradition as an antimicrobial and expectorant remedy for coughs, bronchitis and sore throat, formalised in EU herbal monograph recognition, with a fixed thyme-ivy extract combination shown superior to placebo for acute bronchitis with productive cough in clinical trial.",
+    "reference_ids": [
+     "REF-0519",
+     "REF-0593"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried herb infused in hot water as a traditional cough, cold and digestive tea.",
+     "reference_ids": [
+      "REF-0519"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Gargle",
+     "text": "Infusion used as a gargle for sore throat, drawing on the antiseptic essential oil constituents.",
+     "reference_ids": [
+      "REF-0519"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Standardized fluid extract (thyme-ivy combination)",
+     "text": "Standardized fluid extract, often combined with ivy leaf, the form studied in clinical trials for acute bronchitis.",
+     "reference_ids": [
+      "REF-0593"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "The EU herbal monograph suggests around 1-2 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription; do not take the essential oil undiluted internally.",
+     "reference_ids": [
+      "REF-0519"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -55877,7 +56010,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "thyme"
   },
   {
@@ -55935,6 +56068,71 @@
      "reference_ids": [
       "REF-0478"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Large deciduous tree with a rounded crown and heart-shaped, finely toothed, asymmetrical leaves. Small, pale yellow, fragrant flowers hang in clusters from a distinctive pale green, leaf-like bract, developing into small, round, downy nutlets.",
+    "height": "20-30 m",
+    "habit": "Large deciduous tree with a rounded, dense crown",
+    "leaves": "Heart-shaped, finely toothed, asymmetrical at the base",
+    "flowers": "Small, pale yellow, fragrant, hanging in clusters from a pale green bract",
+    "stem": "Tall trunk with smooth grey bark, becoming furrowed with age",
+    "root": "Deep, spreading root system",
+    "fruit": "Small, round, downy nutlet, attached to the persistent bract",
+    "flowering_period": "June-July",
+    "reference_ids": [
+     "REF-0478"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in deciduous woodland, hedgerows and as a widely planted street and park tree; native to Europe including Britain.",
+    "reference_ids": [
+     "REF-0478"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowers, together with their attached bract, are picked shortly after opening in early-to-mid summer and dried quickly in a warm, shaded, airy place.",
+    "parts": [
+     "Flower (lime, linden flower)"
+    ],
+    "season": "Early-to-mid summer, shortly after flowers open",
+    "reference_ids": [
+     "REF-0478"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Linden flower has a long European tradition, recognised in the EU herbal monograph, as a gentle calming and sleep-supportive herb and as a diaphoretic remedy for feverish colds and flu, with modern research on its flavonoid fraction (notably tiliroside) supporting a mechanistic basis for the traditional calming action.",
+    "reference_ids": [
+     "REF-0478"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flower (with bract) infused in hot water as the classic traditional calming and diaphoretic tea.",
+     "reference_ids": [
+      "REF-0478"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flower.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "The EU herbal monograph suggests around 2-4 g of dried flower per cup, up to several times daily as needed for calming or feverish colds. Educational reference only, not a prescription; well tolerated including in children per the monograph.",
+     "reference_ids": [
+      "REF-0478"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -56133,7 +56331,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-12",
    "common_slug": "linden"
   },
   {
@@ -56149,6 +56347,108 @@
     "Leaf",
     "Root",
     "Seed"
+   ],
+   "botanical_description": {
+    "text": "Slender annual herb with finely divided, feathery leaves, resembling a smaller parsley. Small white flowers are borne in flat-topped umbels, giving way to small, ridged, aromatic, oval seeds (technically schizocarps) that are the primary part used.",
+    "height": "30-90 cm",
+    "habit": "Slender, erect annual herb",
+    "leaves": "Finely divided, feathery, parsley-like",
+    "flowers": "Small, white, in flat-topped umbels",
+    "stem": "Erect, branching, ridged",
+    "root": "Fibrous taproot",
+    "fruit": "Small, ridged, aromatic, oval seed (schizocarp), the main part used",
+    "flowering_period": "Summer (varies by growing region)",
+    "reference_ids": [
+     "REF-0015"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Cultivated as an annual crop, mainly in India, Iran, Pakistan, Afghanistan and Egypt; believed native to the eastern Mediterranean region.",
+    "reference_ids": [
+     "REF-0251"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "Seeds are harvested when the umbels dry and turn brown, then threshed and dried further; leaves are gathered fresh through the growing season and the root is dug when needed.",
+    "parts": [
+     "Leaf",
+     "Root",
+     "Seed"
+    ],
+    "season": "Seed at late-season maturity; leaf through growing season",
+    "reference_ids": [
+     "REF-0015"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Ajwain seed has a long South Asian and Middle Eastern culinary and Ayurvedic tradition as a warming digestive carminative for bloating and indigestion, an antispasmodic for menstrual cramps, an oral-health antiseptic, and a respiratory-supportive remedy, with its high thymol content underlying much of its antimicrobial and antispasmodic activity.",
+    "reference_ids": [
+     "REF-0015",
+     "REF-0017",
+     "REF-0031"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Seed infusion/chewed seed",
+     "text": "Whole seeds chewed after meals or infused in hot water as the classic digestive preparation.",
+     "reference_ids": [
+      "REF-0015"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Seed decoction",
+     "text": "Seeds simmered in water, a traditional preparation for stronger digestive or respiratory use.",
+     "status": "draft"
+    },
+    {
+     "name": "Diluted essential oil (topical/oral-care)",
+     "text": "Essential oil, well diluted, used in oral-care preparations; not taken undiluted internally due to thymol content.",
+     "reference_ids": [
+      "REF-0017"
+     ],
+     "status": "verified"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Seed",
+     "text": "Traditional sources suggest around 3-6 g of powdered seed daily, or 125 mg of a standardized extract. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0017"
+     ],
+     "status": "verified"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Essential oil rich in thymol",
+     "compounds": [
+      "essential-oil",
+      "thymol"
+     ],
+     "note": "Thymol is the principal active constituent, responsible for most of the antimicrobial, antispasmodic and carminative activity.",
+     "reference_ids": [
+      "REF-0017",
+      "REF-0031"
+     ]
+    },
+    {
+     "name": "Carvacrol and other monoterpenes",
+     "compounds": [
+      "carvacrol",
+      "terpene"
+     ],
+     "note": "Secondary aromatic constituents contributing to the antimicrobial profile.",
+     "reference_ids": [
+      "REF-0031"
+     ]
+    }
    ],
    "actions": [
     {
@@ -56282,7 +56582,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-06",
+   "last_updated": "2026-07-12",
    "common_slug": "ajwain"
   },
   {

@@ -28,6 +28,69 @@ constituents:
   note: Antioxidant and anti-inflammatory constituents.
   reference_ids:
   - REF-0519
+botanical_description:
+  text: Low, woody-based aromatic perennial subshrub with small, narrow, grey-green leaves and small,
+    pale pink to lilac, two-lipped flowers borne in whorled clusters along the upper stems.
+  height: 15-40 cm
+  habit: Low, woody-based, bushy aromatic perennial subshrub
+  leaves: Small, narrow, grey-green, strongly aromatic
+  flowers: Small, pale pink to lilac, two-lipped, in whorled clusters along upper stems
+  stem: Woody at the base, upright to sprawling, finely hairy
+  root: Woody taproot
+  fruit: Small nutlet
+  flowering_period: May-August
+  reference_ids:
+  - REF-0519
+  status: verified
+habitat:
+  text: Grows on dry, sunny, rocky, well-drained soils; native to the western Mediterranean and widely
+    cultivated as a culinary and medicinal herb worldwide.
+  reference_ids:
+  - REF-0519
+  status: verified
+harvesting:
+  text: The flowering aerial parts are cut just as flowering begins, when essential oil content is highest,
+    and dried in a warm, shaded, airy place; essential oil is obtained by steam distillation of the fresh
+    or dried herb.
+  parts:
+  - Aerial parts (herb) and essential oil
+  season: Late spring to summer, at the start of flowering
+  reference_ids:
+  - REF-0519
+  status: verified
+traditional_uses:
+  text: Thyme has a long Mediterranean and European tradition as an antimicrobial and expectorant remedy
+    for coughs, bronchitis and sore throat, formalised in EU herbal monograph recognition, with a fixed
+    thyme-ivy extract combination shown superior to placebo for acute bronchitis with productive cough
+    in clinical trial.
+  reference_ids:
+  - REF-0519
+  - REF-0593
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried herb infused in hot water as a traditional cough, cold and digestive tea.
+  reference_ids:
+  - REF-0519
+  status: verified
+- name: Gargle
+  text: Infusion used as a gargle for sore throat, drawing on the antiseptic essential oil constituents.
+  reference_ids:
+  - REF-0519
+  status: verified
+- name: Standardized fluid extract (thyme-ivy combination)
+  text: Standardized fluid extract, often combined with ivy leaf, the form studied in clinical trials
+    for acute bronchitis.
+  reference_ids:
+  - REF-0593
+  status: verified
+dosage:
+- name: Infusion
+  text: The EU herbal monograph suggests around 1-2 g of dried herb per cup, up to three times daily.
+    Educational reference only, not a prescription; do not take the essential oil undiluted internally.
+  reference_ids:
+  - REF-0519
+  status: verified
 actions:
 - action: antimicrobial
   note: Antimicrobial (thymol and carvacrol) - supports respiratory infection; Sore throat relief (antiseptic
@@ -152,7 +215,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-12'
 internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
   Thymi herba; Phytotherapy Research carvacrol review). Note: this is Thymus vulgaris (garden thyme),
   distinct from the book''s Thymus serpyllum (Breckland thyme). Originally a skeleton imported from the
@@ -163,4 +226,7 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1303, REF-1304,
   REF-1305, REF-1306, REF-1307, REF-1308, REF-1309, REF-1310, REF-1311, REF-1312) — woven into relevant
-  actions/indications and the plant-level references bucket.'
+  actions/indications and the plant-level references bucket. | 2026-07-12: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
+  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
+  policy.'

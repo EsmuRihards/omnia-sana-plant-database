@@ -57046,6 +57046,73 @@
      ]
     }
    ],
+   "botanical_description": {
+    "text": "Small, low-growing annual or short-lived perennial herb with oval to lance-shaped, scalloped leaves and large, leaf-like stipules. The distinctive flowers are tricoloured - purple, yellow and white in varying combinations - with five petals, the lower petal often marked with dark veining (a 'face' pattern), giving rise to the name 'heartsease'.",
+    "height": "10-30 cm",
+    "habit": "Small, low-growing annual or short-lived perennial herb",
+    "leaves": "Oval to lance-shaped, scalloped, with large leaf-like stipules",
+    "flowers": "Tricoloured (purple, yellow, white), five-petalled, often with dark facial veining on the lower petal",
+    "stem": "Slender, branching",
+    "root": "Slender taproot",
+    "fruit": "Small three-valved capsule",
+    "flowering_period": "April-September",
+    "reference_ids": [
+     "REF-0463"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Grows in grassland, cultivated ground, gardens and waste places on a wide range of soils; native to Europe and widely naturalised elsewhere as a common garden and wild plant.",
+    "reference_ids": [
+     "REF-0463"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The flowering aerial parts are cut in summer while in flower and dried in a warm, shaded, airy place.",
+    "parts": [
+     "Aerial parts (flowering herb)"
+    ],
+    "season": "Summer, at flowering",
+    "reference_ids": [
+     "REF-0463"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Heartsease has a long European folk history as a soothing remedy for skin conditions such as eczema and itching, and as a traditional demulcent and expectorant for coughs and chest complaints; this traditional skin-supportive use is now linked to immunomodulatory cyclic peptides (cyclotides) unique to the Viola genus.",
+    "reference_ids": [
+     "REF-0463"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried flowering herb infused in hot water, taken internally for cough or used as a cooled compress for skin irritation.",
+     "reference_ids": [
+      "REF-0463"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Cream/ointment",
+     "text": "Extract formulated into a topical cream or ointment for eczema and irritated skin.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried flowering herb.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "status": "draft"
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -57263,7 +57330,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "heartsease"
   },
   {
@@ -57312,6 +57379,73 @@
       "REF-0434",
       "REF-1614"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Deciduous shrub or small tree with slender, aromatic, palmately compound leaves of narrow, lance-shaped leaflets, greyish-downy beneath. Small, fragrant, lilac to violet flowers are borne in long, slender terminal spikes, followed by small, dark, peppercorn-like berries with a peppery, aromatic taste.",
+    "height": "2-6 m",
+    "habit": "Deciduous shrub or small tree",
+    "leaves": "Palmately compound, narrow lance-shaped leaflets, greyish-downy beneath, aromatic",
+    "flowers": "Small, fragrant, lilac to violet, in long slender terminal spikes",
+    "stem": "Slender, aromatic branches",
+    "root": "Woody root system",
+    "fruit": "Small, dark, peppercorn-like berry with a peppery, aromatic taste (the medicinal part)",
+    "flowering_period": "July-September",
+    "reference_ids": [
+     "REF-0433"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the Mediterranean region and Central Asia, growing along riverbanks, streamsides and coastal scrub; widely cultivated in warm-temperate climates worldwide.",
+    "reference_ids": [
+     "REF-0433"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The ripe berries are collected in autumn once they have darkened and dried, then further dried and stored for use in decoctions or standardised extracts.",
+    "parts": [
+     "Fruit (berry)"
+    ],
+    "season": "Autumn, when fruit is ripe",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Chasteberry has a long Mediterranean tradition, reflected in its 'chaste tree' name, historically used to reduce libido in monastic settings, and, more centrally to its modern use, as a traditional women's tonic for menstrual irregularities, premenstrual complaints and cyclical breast tenderness; standardised extracts are now among the best-clinically-studied herbal remedies for premenstrual syndrome, acting via dopaminergic modulation of prolactin.",
+    "reference_ids": [
+     "REF-0433"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Dried fruit extract standardised to agnuside/casticin content, taken as tablets or capsules; the form used in most clinical PMS and cyclical breast pain trials.",
+     "reference_ids": [
+      "REF-0433"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Dried berries simmered in water as a traditional preparation.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried berries.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for PMS commonly use extracts providing around 20-40 mg of dried fruit extract daily, taken over several menstrual cycles for full effect. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0433"
+     ],
+     "status": "draft"
     }
    ],
    "indications": [
@@ -57426,7 +57560,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "chasteberry"
   },
   {
@@ -57446,6 +57580,111 @@
    "parts_used": [
     "Leaf",
     "Root"
+   ],
+   "botanical_description": {
+    "text": "Erect, branching perennial shrub with soft, downy, oval to lance-shaped leaves. Small, inconspicuous, greenish-yellow bell-shaped flowers are borne in the leaf axils, followed by a small orange-red berry enclosed in a papery, lantern-like calyx, giving rise to the name 'winter cherry'.",
+    "height": "0.3-1.5 m",
+    "habit": "Erect, branching perennial shrub",
+    "leaves": "Soft, downy, oval to lance-shaped",
+    "flowers": "Small, inconspicuous, greenish-yellow, bell-shaped",
+    "stem": "Erect, branching, downy",
+    "root": "Long, thick, tapering, pale brown root (the medicinal part), aromatic with a distinctive horse-like smell (the source of the name ashwagandha)",
+    "fruit": "Small orange-red berry enclosed in a papery, lantern-like calyx",
+    "flowering_period": "Summer to autumn",
+    "reference_ids": [
+     "REF-2249"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Native to the drier regions of India, the Middle East and parts of Africa; cultivated in warm, semi-arid climates on well-drained soils, notably in central and western India.",
+    "reference_ids": [
+     "REF-2249"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The root is dug in winter from plants around one year old, when withanolide content is highest, then cleaned, cut and dried; the leaves are picked through the growing season.",
+    "parts": [
+     "Leaf",
+     "Root"
+    ],
+    "season": "Root in winter, from around one-year-old plants; leaf through the growing season",
+    "reference_ids": [
+     "REF-2249"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Ashwagandha root is one of the most important rasayana (rejuvenative) tonics of Ayurvedic medicine, traditionally used to build strength and vitality, support healthy stress response, and promote restful sleep; this traditional adaptogenic reputation is now supported by clinical trials of standardised root extract for stress, sleep and physical performance.",
+    "reference_ids": [
+     "REF-2249",
+     "REF-2245"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Standardised extract",
+     "text": "Root extract standardised to withanolide content, taken as capsules or tablets; the form used in most clinical stress, sleep and performance studies.",
+     "reference_ids": [
+      "REF-2249",
+      "REF-2245"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction/churna (traditional)",
+     "text": "Dried root powder (churna) taken with warm milk or water, or simmered as a decoction, the classic Ayurvedic preparation.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried root.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract",
+     "text": "Clinical trials for stress and sleep commonly use around 300-600 mg of standardised root extract daily, in divided doses, over several weeks. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-2245"
+     ],
+     "status": "draft"
+    }
+   ],
+   "constituents": [
+    {
+     "name": "Withanolides (withaferin A, withanolide A)",
+     "compounds": [
+      "withanolide"
+     ],
+     "note": "Steroidal lactones considered the principal bioactive compounds, responsible for most of the plant's adaptogenic, anti-inflammatory and anticancer research interest.",
+     "reference_ids": [
+      "REF-2249"
+     ]
+    },
+    {
+     "name": "Alkaloids (withanine, somniferine)",
+     "compounds": [
+      "alkaloid"
+     ],
+     "note": "Minor tropane-type alkaloids contributing to the traditional sedative reputation.",
+     "reference_ids": [
+      "REF-2249"
+     ]
+    },
+    {
+     "name": "Sitoindosides and saponins",
+     "compounds": [
+      "saponin"
+     ],
+     "note": "Glycowithanolides linked to adaptogenic and immunomodulatory activity.",
+     "reference_ids": [
+      "REF-2249"
+     ]
+    }
    ],
    "actions": [
     {
@@ -57912,7 +58151,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "ashwagandha"
   },
   {
@@ -57964,6 +58203,73 @@
       "REF-1630",
       "REF-1633"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Tall, robust annual grass with broad, strap-like leaves and a stout, jointed stem. Male flowers form a terminal tassel; female flowers develop on the ear (cob), each floret bearing a single long, silky style and stigma ('corn silk') that protrudes from the husk to catch pollen.",
+    "height": "1.5-3 m",
+    "habit": "Tall, robust annual grass",
+    "leaves": "Broad, strap-like, alternate",
+    "flowers": "Male tassel at the top; female flowers on the ear, each with a long silky style and stigma (corn silk)",
+    "stem": "Stout, jointed, unbranched",
+    "root": "Fibrous, with prominent brace roots at the lower stem nodes",
+    "fruit": "Kernel (grain) borne on the cob; the silky stigmas and styles are the medicinal part, collected before pollination completes",
+    "flowering_period": "Summer",
+    "reference_ids": [
+     "REF-0436"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Cultivated worldwide as a major cereal food crop in warm-temperate to tropical climates on fertile, well-drained soils; not found wild, having been domesticated from a wild grass ancestor (teosinte) in Mesoamerica.",
+    "reference_ids": [
+     "REF-0436"
+    ],
+    "status": "verified"
+   },
+   "harvesting": {
+    "text": "The silky stigmas and styles are collected from the ears in mid- to late summer, just before or as pollination occurs, while still fresh and pale, then dried quickly to preserve colour and flavonoid content.",
+    "parts": [
+     "Stigmas and styles (corn silk)"
+    ],
+    "season": "Mid- to late summer, at silking",
+    "reference_ids": [
+     "REF-0436"
+    ],
+    "status": "verified"
+   },
+   "traditional_uses": {
+    "text": "Corn silk has a long traditional use across Chinese, Native American and European folk medicine as a gentle diuretic and soothing demulcent for urinary tract complaints, mild fluid retention and kidney support.",
+    "reference_ids": [
+     "REF-0436"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Infusion",
+     "text": "Dried corn silk infused in hot water as a traditional diuretic and urinary-support tea.",
+     "reference_ids": [
+      "REF-0436"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Fresh or dried corn silk simmered in water, a slightly stronger traditional preparation.",
+     "status": "draft"
+    },
+    {
+     "name": "Tincture",
+     "text": "Alcoholic extract of the dried corn silk.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Infusion",
+     "text": "Traditional herbal references suggest around 2-3 g of dried corn silk per cup, up to three times daily, with adequate fluid intake. Educational reference only, not a prescription.",
+     "status": "draft"
     }
    ],
    "actions": [
@@ -58149,7 +58455,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "corn-silk"
   },
   {
@@ -58177,6 +58483,71 @@
       "REF-0634",
       "REF-0637"
      ]
+    }
+   ],
+   "botanical_description": {
+    "text": "Rhizomatous perennial herb with narrow, lance-shaped leaves arising in two ranks from slender, reed-like pseudostems. Pale yellow-green flowers with purple markings are borne in a dense, cone-like spike on a separate short stalk arising directly from the rhizome, though ginger rarely flowers in cultivation. The branching, knobbly rhizome has a pale yellow interior and a characteristic pungent, spicy aroma.",
+    "height": "0.5-1 m",
+    "habit": "Rhizomatous perennial herb",
+    "leaves": "Narrow, lance-shaped, arising in two ranks from reed-like pseudostems",
+    "flowers": "Pale yellow-green with purple markings, in a dense cone-like spike; rarely produced in cultivation",
+    "stem": "Slender, reed-like pseudostem formed by overlapping leaf bases",
+    "root": "Branching, knobbly rhizome with a pale yellow interior (the medicinal part), plus fibrous roots",
+    "fruit": "Rarely sets seed in cultivation; propagated by rhizome division",
+    "flowering_period": "Rarely flowers in cultivation",
+    "reference_ids": [
+     "REF-0634"
+    ],
+    "status": "verified"
+   },
+   "habitat": {
+    "text": "Believed native to tropical Southeast Asia; cultivated extensively throughout the tropics and subtropics (India, China, Nigeria, the Caribbean) in warm, humid conditions on well-drained, fertile soil.",
+    "status": "draft"
+   },
+   "harvesting": {
+    "text": "The rhizome is dug 8-10 months after planting, once the leaves have died back, for mature ('old') ginger with the fullest pungency, or earlier for milder young ('green') ginger; cleaned and used fresh or dried and ground.",
+    "parts": [
+     "Rhizome",
+     "Root"
+    ],
+    "season": "8-10 months after planting for mature rhizome; earlier for young ginger",
+    "status": "draft"
+   },
+   "traditional_uses": {
+    "text": "Ginger rhizome has one of the longest and most widespread medicinal histories of any spice, used across Chinese, Ayurvedic and Western herbal traditions as a warming digestive carminative, an antiemetic for nausea and motion sickness, and an anti-inflammatory remedy for joint pain; this traditional reputation is now supported by an extensive clinical evidence base, particularly for nausea (including pregnancy and chemotherapy-related) and osteoarthritis.",
+    "reference_ids": [
+     "REF-0634"
+    ],
+    "status": "verified"
+   },
+   "preparations": [
+    {
+     "name": "Fresh rhizome / infusion",
+     "text": "Fresh or dried rhizome grated or sliced and infused in hot water as the classic digestive and antiemetic ginger tea.",
+     "status": "draft"
+    },
+    {
+     "name": "Standardised extract/powder",
+     "text": "Dried rhizome powder or standardised extract, taken as capsules for nausea or joint-pain studies.",
+     "reference_ids": [
+      "REF-0634"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Culinary use",
+     "text": "Fresh, dried or crystallised rhizome used extensively as a food spice and flavouring.",
+     "status": "draft"
+    }
+   ],
+   "dosage": [
+    {
+     "name": "Standardised extract/powder",
+     "text": "Clinical trials for nausea commonly use around 1-1.5 g of dried rhizome powder daily, in divided doses (up to 1 g/day in pregnancy); osteoarthritis studies commonly use similar or somewhat higher doses. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0634"
+     ],
+     "status": "draft"
     }
    ],
    "actions": [
@@ -58552,7 +58923,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-07",
+   "last_updated": "2026-07-11",
    "common_slug": "ginger"
   }
  ]

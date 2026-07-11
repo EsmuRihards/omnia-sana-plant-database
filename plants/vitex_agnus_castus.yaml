@@ -30,6 +30,63 @@ constituents:
   reference_ids:
   - REF-0434
   - REF-1614
+botanical_description:
+  text: Deciduous shrub or small tree with slender, aromatic, palmately compound leaves of narrow, lance-shaped
+    leaflets, greyish-downy beneath. Small, fragrant, lilac to violet flowers are borne in long, slender
+    terminal spikes, followed by small, dark, peppercorn-like berries with a peppery, aromatic taste.
+  height: 2-6 m
+  habit: Deciduous shrub or small tree
+  leaves: Palmately compound, narrow lance-shaped leaflets, greyish-downy beneath, aromatic
+  flowers: Small, fragrant, lilac to violet, in long slender terminal spikes
+  stem: Slender, aromatic branches
+  root: Woody root system
+  fruit: Small, dark, peppercorn-like berry with a peppery, aromatic taste (the medicinal part)
+  flowering_period: July-September
+  reference_ids:
+  - REF-0433
+  status: verified
+habitat:
+  text: Native to the Mediterranean region and Central Asia, growing along riverbanks, streamsides and
+    coastal scrub; widely cultivated in warm-temperate climates worldwide.
+  reference_ids:
+  - REF-0433
+  status: verified
+harvesting:
+  text: The ripe berries are collected in autumn once they have darkened and dried, then further dried
+    and stored for use in decoctions or standardised extracts.
+  parts:
+  - Fruit (berry)
+  season: Autumn, when fruit is ripe
+  status: draft
+traditional_uses:
+  text: Chasteberry has a long Mediterranean tradition, reflected in its 'chaste tree' name, historically
+    used to reduce libido in monastic settings, and, more centrally to its modern use, as a traditional
+    women's tonic for menstrual irregularities, premenstrual complaints and cyclical breast tenderness;
+    standardised extracts are now among the best-clinically-studied herbal remedies for premenstrual syndrome,
+    acting via dopaminergic modulation of prolactin.
+  reference_ids:
+  - REF-0433
+  status: verified
+preparations:
+- name: Standardised extract
+  text: Dried fruit extract standardised to agnuside/casticin content, taken as tablets or capsules; the
+    form used in most clinical PMS and cyclical breast pain trials.
+  reference_ids:
+  - REF-0433
+  status: verified
+- name: Decoction
+  text: Dried berries simmered in water as a traditional preparation.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried berries.
+  status: draft
+dosage:
+- name: Standardised extract
+  text: Clinical trials for PMS commonly use extracts providing around 20-40 mg of dried fruit extract
+    daily, taken over several menstrual cycles for full effect. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0433
+  status: draft
 indications:
 - condition: acne
   note: Cycle-related (hormonal) acne (traditional)
@@ -108,7 +165,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica efficacy review; Drug Safety
   adverse-events review; Frontiers in Endocrinology prolactin review). Vitex is now placed in Lamiaceae
   (formerly Verbenaceae). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
@@ -118,4 +175,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica e
   luteal phase (dopaminergic D2 action) | Supports menstrual irregularities and perimenopausal cycle symptoms
   (traditional / Commission E). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
   @article sources (REF-0433, REF-1607, REF-1608, REF-1609, REF-1610, REF-1611, REF-1612, REF-0434, REF-1613,
-  REF-1614) — woven into relevant actions/indications and the plant-level references bucket.'
+  REF-1614) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
+  dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
+  the integrity-first sourcing policy.'

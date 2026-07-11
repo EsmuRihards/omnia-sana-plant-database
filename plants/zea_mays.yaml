@@ -34,6 +34,64 @@ constituents:
   - REF-0436
   - REF-1630
   - REF-1633
+botanical_description:
+  text: Tall, robust annual grass with broad, strap-like leaves and a stout, jointed stem. Male flowers
+    form a terminal tassel; female flowers develop on the ear (cob), each floret bearing a single long,
+    silky style and stigma ('corn silk') that protrudes from the husk to catch pollen.
+  height: 1.5-3 m
+  habit: Tall, robust annual grass
+  leaves: Broad, strap-like, alternate
+  flowers: Male tassel at the top; female flowers on the ear, each with a long silky style and stigma
+    (corn silk)
+  stem: Stout, jointed, unbranched
+  root: Fibrous, with prominent brace roots at the lower stem nodes
+  fruit: Kernel (grain) borne on the cob; the silky stigmas and styles are the medicinal part, collected
+    before pollination completes
+  flowering_period: Summer
+  reference_ids:
+  - REF-0436
+  status: verified
+habitat:
+  text: Cultivated worldwide as a major cereal food crop in warm-temperate to tropical climates on fertile,
+    well-drained soils; not found wild, having been domesticated from a wild grass ancestor (teosinte)
+    in Mesoamerica.
+  reference_ids:
+  - REF-0436
+  status: verified
+harvesting:
+  text: The silky stigmas and styles are collected from the ears in mid- to late summer, just before or
+    as pollination occurs, while still fresh and pale, then dried quickly to preserve colour and flavonoid
+    content.
+  parts:
+  - Stigmas and styles (corn silk)
+  season: Mid- to late summer, at silking
+  reference_ids:
+  - REF-0436
+  status: verified
+traditional_uses:
+  text: Corn silk has a long traditional use across Chinese, Native American and European folk medicine
+    as a gentle diuretic and soothing demulcent for urinary tract complaints, mild fluid retention and
+    kidney support.
+  reference_ids:
+  - REF-0436
+  status: verified
+preparations:
+- name: Infusion
+  text: Dried corn silk infused in hot water as a traditional diuretic and urinary-support tea.
+  reference_ids:
+  - REF-0436
+  status: verified
+- name: Decoction
+  text: Fresh or dried corn silk simmered in water, a slightly stronger traditional preparation.
+  status: draft
+- name: Tincture
+  text: Alcoholic extract of the dried corn silk.
+  status: draft
+dosage:
+- name: Infusion
+  text: Traditional herbal references suggest around 2-3 g of dried corn silk per cup, up to three times
+    daily, with adequate fluid intake. Educational reference only, not a prescription.
+  status: draft
 actions:
 - action: anti-inflammatory
   note: Antioxidant and anti-inflammatory
@@ -155,7 +213,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-07'
+last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological
   review). Further enriched 2026-06-13 with two PubMed studies - a renal diuretic mechanism study in conscious
   rats (REF-0557, Velazquez et al. 2005) and a gestational toxicology study confirming maysin as the predominant
@@ -164,4 +222,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phyto
   2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
   to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
   sources (REF-1624, REF-1625, REF-1626, REF-1627, REF-1628, REF-1629, REF-1630, REF-1631, REF-1632, REF-1633)
-  — woven into relevant actions/indications and the plant-level references bucket.'
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy.'

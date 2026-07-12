@@ -55521,6 +55521,41 @@
      "status": "draft"
     }
    ],
+   "constituents": [
+    {
+     "name": "Essential oil (thymol, carvacrol, p-cymene)",
+     "compounds": [
+      "essential-oil",
+      "thymol",
+      "carvacrol",
+      "terpene"
+     ],
+     "note": "The volatile oil, dominated by thymol and carvacrol, gives most of the antimicrobial and antioxidant activity.",
+     "reference_ids": [
+      "REF-1095"
+     ]
+    },
+    {
+     "name": "Phenolic acids and flavonoids (rosmarinic acid, luteolin)",
+     "compounds": [
+      "rosmarinic-acid",
+      "phenolic-acid",
+      "flavonoid",
+      "luteolin"
+     ],
+     "note": "Contribute additional antioxidant activity.",
+     "reference_ids": [
+      "REF-1096"
+     ]
+    },
+    {
+     "name": "Triterpenes (ursolic acid, oleanolic acid)",
+     "note": "Minor constituents studied for anti-inflammatory activity.",
+     "reference_ids": [
+      "REF-1094"
+     ]
+    }
+   ],
    "actions": [
     {
      "action": "anti-inflammatory",

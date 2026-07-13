@@ -111,6 +111,13 @@ actions:
   - REF-1429
   - REF-1431
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0467
+  - REF-1428
+  - REF-1430
+  - REF-1436
+  status: needs-review
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
   reference_ids:
@@ -153,6 +160,14 @@ indications:
   - REF-0466
   - REF-1430
   status: verified
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-0467
+  - REF-1428
+  - REF-1430
+  - REF-1436
+  status: needs-review
 - condition: cognitive-function
   note: inferred from neuroprotective action
   reference_ids:
@@ -238,7 +253,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
   Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum
   = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
@@ -251,4 +266,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   REF-1434, REF-1435, REF-1436) — woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing clinical-efficacy review (REF-0466) and ethnomedicinal
-  review (REF-0467/REF-1429).'
+  review (REF-0467/REF-1429). | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
+  campaign.'

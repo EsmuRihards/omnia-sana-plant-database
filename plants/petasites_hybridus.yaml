@@ -90,6 +90,10 @@ dosage:
   - REF-1478
   status: verified
 actions:
+- action: anticancer
+  reference_ids:
+  - REF-1480
+  status: needs-review
 - action: antihistaminic
   note: Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic
     review found it superior to placebo and comparable to non-sedating antihistamines for intermittent
@@ -131,6 +135,11 @@ indications:
   reference_ids:
   - REF-0426
   - REF-1481
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1480
   status: needs-review
 - condition: cough
   note: inferred from bronchodilator action
@@ -228,7 +237,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in Review integrative-medicine
   review). Further enriched 2026-06-13 with two PubMed sources: a randomised placebo-controlled migraine-prophylaxis
   trial (REF-0543, Grossmann & Schmidramsl 2000) and a systematic review of herbal medicines for allergic
@@ -240,4 +249,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Pediatrics in R
   REF-1477, REF-1478, REF-1479, REF-1480, REF-1481, REF-1482, REF-1483, REF-1484, REF-1485) — woven into
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing medicinal-herb portrait review (REF-1477) and the migraine/allergic-rhinitis
-  RCTs (REF-1479, REF-1478); dosage/preparations reinforce the existing PA-free-only safety guidance.'
+  RCTs (REF-1479, REF-1478); dosage/preparations reinforce the existing PA-free-only safety guidance.
+  | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

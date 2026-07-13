@@ -100,6 +100,12 @@ actions:
   - REF-1860
   - REF-1861
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-1865
+  - REF-1866
+  - REF-1867
+  status: needs-review
 - action: antimicrobial
   note: Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active
     against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection
@@ -128,6 +134,13 @@ indications:
   reference_ids:
   - REF-0445
   status: verified
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1865
+  - REF-1866
+  - REF-1867
+  status: needs-review
 - condition: cough
   note: Expectorant for productive cough and bronchitis (long-standing respiratory remedy); Soothes irritated
     airways / chronic catarrh (traditional)
@@ -195,7 +208,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antimicrobial/ethnobotanical
   study). Further enriched 2026-06-13 with three PubMed studies - a total-sesquiterpene-lactone anti-inflammatory/anti-arthritic
   study (REF-0538), an antistaphylococcal essential-oil study (REF-0539) and an antimycobacterial eudesmanolide
@@ -207,4 +220,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules antim
   REF-1863, REF-1864, REF-1865, REF-1866, REF-1867) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy.'
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer
+  action (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s
+  cited literature, as part of the cancer-condition campaign.'

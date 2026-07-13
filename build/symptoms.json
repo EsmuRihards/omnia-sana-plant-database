@@ -147,6 +147,27 @@
    ]
   },
   {
+   "id": "cancer",
+   "label": "Cancer (anticancer research)",
+   "body_system": "general",
+   "consumer_synonyms": [
+    "tumor",
+    "tumour",
+    "anticancer",
+    "anticancerous",
+    "antitumor",
+    "antitumour",
+    "cancerous",
+    "carcinoma",
+    "neoplasm",
+    "oncology",
+    "cancer support"
+   ],
+   "related_actions": [
+    "anticancer"
+   ]
+  },
+  {
    "id": "cardiovascular-support",
    "label": "Cardiovascular / heart health",
    "body_system": "cardiovascular",
@@ -1639,6 +1660,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1415"
+     ]
+    },
+    {
      "condition": "infection",
      "label": "Infection (general)",
      "evidence": 2,
@@ -1904,6 +1935,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2104"
+     ]
+    },
+    {
      "condition": "infection",
      "label": "Infection (general)",
      "evidence": 1,
@@ -2021,6 +2062,16 @@
    "common_slug": "ashwagandha",
    "wp_post_id": 149,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2255"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -2304,6 +2355,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0736"
+     ]
+    },
+    {
      "condition": "fatigue",
      "label": "Fatigue / low energy",
      "evidence": 1,
@@ -2352,6 +2413,16 @@
    "common_slug": "bay-leaf",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1687"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -2591,6 +2662,16 @@
       "REF-0403",
       "REF-0404",
       "REF-0618"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0805"
      ]
     },
     {
@@ -2845,6 +2926,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1696"
+     ]
+    },
+    {
      "condition": "acid-reflux",
      "label": "Acid reflux",
      "evidence": 1,
@@ -3034,6 +3125,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2122"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -3153,6 +3254,18 @@
       "REF-1213",
       "REF-1220",
       "REF-1221"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1214",
+      "REF-1215",
+      "REF-1222"
      ]
     },
     {
@@ -3340,6 +3453,16 @@
    "common_slug": "black-cumin",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2071"
+     ]
+    },
     {
      "condition": "acid-reflux",
      "label": "Acid reflux",
@@ -3616,6 +3739,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2550"
+     ]
+    },
+    {
      "condition": "diarrhea",
      "label": "Diarrhoea",
      "evidence": 2,
@@ -3845,6 +3978,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1995"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -4053,6 +4196,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1953"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -4241,6 +4394,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1814"
+     ]
+    },
+    {
      "condition": "headache",
      "label": "Headache",
      "evidence": 7,
@@ -4301,6 +4464,16 @@
    "common_slug": "breckland-thyme",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1102"
+     ]
+    },
     {
      "condition": "acid-reflux",
      "label": "Acid reflux",
@@ -4531,6 +4704,16 @@
      "references": [
       "REF-0426",
       "REF-1481"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1480"
      ]
     },
     {
@@ -4767,6 +4950,16 @@
    "common_slug": "caraway",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1983"
+     ]
+    },
     {
      "condition": "bloating",
      "label": "Bloating",
@@ -5297,6 +5490,16 @@
       "REF-0093",
       "REF-0228",
       "REF-0272"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0093"
      ]
     },
     {
@@ -6021,6 +6224,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1722",
+      "REF-1724"
+     ]
+    },
+    {
      "condition": "bruising",
      "label": "Bruising",
      "evidence": 1,
@@ -6136,6 +6350,16 @@
       "REF-0247",
       "REF-0309",
       "REF-1081"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1083"
      ]
     },
     {
@@ -6545,6 +6769,19 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0853",
+      "REF-1742",
+      "REF-1743",
+      "REF-1744"
+     ]
+    },
+    {
      "condition": "bloating",
      "label": "Bloating",
      "evidence": 1,
@@ -6778,6 +7015,17 @@
      "inferred": true,
      "references": [
       "REF-2791"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2784",
+      "REF-2792"
      ]
     },
     {
@@ -7091,6 +7339,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1629"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -7353,6 +7611,16 @@
    "common_slug": "cramp-bark",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1142"
+     ]
+    },
     {
      "condition": "menstrual-cramps",
      "label": "Menstrual cramps",
@@ -7841,6 +8109,17 @@
       "REF-0321",
       "REF-0326",
       "REF-0338"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2391",
+      "REF-2396"
      ]
     },
     {
@@ -8382,6 +8661,16 @@
       "REF-0239",
       "REF-0996"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0992"
+     ]
     }
    ]
   },
@@ -8410,6 +8699,16 @@
      "inferred": true,
      "references": [
       "REF-2727"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2735"
      ]
     },
     {
@@ -8634,6 +8933,18 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1865",
+      "REF-1866",
+      "REF-1867"
+     ]
+    },
+    {
      "condition": "infection",
      "label": "Infection (general)",
      "evidence": 2,
@@ -8809,6 +9120,16 @@
       "REF-0448",
       "REF-0449",
       "REF-0613"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2581"
      ]
     },
     {
@@ -9062,6 +9383,16 @@
       "REF-0182",
       "REF-0308",
       "REF-1117"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1120"
      ]
     },
     {
@@ -9358,6 +9689,16 @@
       "REF-0223",
       "REF-0262"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1400"
+     ]
     }
    ]
   },
@@ -9368,6 +9709,16 @@
    "common_slug": "field-restharrow",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2745"
+     ]
+    },
     {
      "condition": "infection",
      "label": "Infection (general)",
@@ -9803,6 +10154,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2222"
+     ]
+    },
+    {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
      "evidence": 6,
@@ -10075,6 +10436,16 @@
       "REF-0312",
       "REF-0650",
       "REF-0651"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0312"
      ]
     }
    ]
@@ -10460,6 +10831,16 @@
       "REF-0244",
       "REF-1045",
       "REF-1048"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1050"
      ]
     },
     {
@@ -10850,6 +11231,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1126"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -10936,6 +11327,17 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0708",
+      "REF-2342"
+     ]
+    },
+    {
      "condition": "eczema",
      "label": "Eczema",
      "evidence": 2,
@@ -11002,6 +11404,18 @@
    "common_slug": "greater-celandine",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2265",
+      "REF-2266",
+      "REF-2271"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -11553,6 +11967,16 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0785"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -11653,6 +12077,16 @@
      "references": [
       "REF-0463",
       "REF-0617"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1601"
      ]
     },
     {
@@ -11931,6 +12365,19 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0467",
+      "REF-1428",
+      "REF-1430",
+      "REF-1436"
+     ]
+    },
+    {
      "condition": "stress",
      "label": "Stress",
      "evidence": 8,
@@ -12138,6 +12585,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2558"
+     ]
+    },
+    {
      "condition": "muscle-spasm",
      "label": "Muscle spasm",
      "evidence": 2,
@@ -12287,6 +12744,17 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0471",
+      "REF-0675"
+     ]
+    },
+    {
      "condition": "hemorrhoids",
      "label": "Haemorrhoids",
      "evidence": 2,
@@ -12328,6 +12796,16 @@
    "common_slug": "hyssop",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1802"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -12505,6 +12983,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0985"
+     ]
+    },
+    {
      "condition": "cardiovascular-support",
      "label": "Cardiovascular / heart health",
      "evidence": 1,
@@ -12611,6 +13099,17 @@
       "REF-0240",
       "REF-1007",
       "REF-1011"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1010",
+      "REF-1014"
      ]
     }
    ]
@@ -12786,6 +13285,18 @@
       "REF-0193",
       "REF-0208",
       "REF-0685"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0686",
+      "REF-0687",
+      "REF-0688"
      ]
     },
     {
@@ -12965,6 +13476,16 @@
       "REF-0043",
       "REF-0155",
       "REF-0265"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2214"
      ]
     }
    ]
@@ -13221,6 +13742,16 @@
       "REF-0474",
       "REF-0692"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0693"
+     ]
     }
    ]
   },
@@ -13231,6 +13762,16 @@
    "common_slug": "lesser-burdock",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1931"
+     ]
+    },
     {
      "condition": "acne",
      "label": "Acne",
@@ -13529,6 +14070,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1314",
+      "REF-1318"
+     ]
+    },
+    {
      "condition": "anxiety",
      "label": "Anxiety",
      "evidence": 1,
@@ -13648,6 +14200,19 @@
    "common_slug": "lingzhi",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0125",
+      "REF-0821",
+      "REF-2039",
+      "REF-2045"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -13902,6 +14467,16 @@
       "REF-0642",
       "REF-0643"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0157"
+     ]
     }
    ]
   },
@@ -13995,6 +14570,16 @@
    "common_slug": "mallow",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1183"
+     ]
+    },
     {
      "condition": "pain",
      "label": "Pain (general)",
@@ -14308,6 +14893,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1371"
+     ]
+    },
+    {
      "condition": "acid-reflux",
      "label": "Acid reflux",
      "evidence": 1,
@@ -14346,6 +14941,17 @@
    "common_slug": "meadowsweet",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0816",
+      "REF-2038"
+     ]
+    },
     {
      "condition": "acid-reflux",
      "label": "Acid reflux",
@@ -14644,6 +15250,17 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0484",
+      "REF-1900"
+     ]
+    },
+    {
      "condition": "metabolic-support",
      "label": "Metabolic support",
      "evidence": 7,
@@ -14825,6 +15442,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1942",
+      "REF-1943"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -14953,6 +15581,17 @@
    "common_slug": "noni",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1418",
+      "REF-1426"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -15217,6 +15856,16 @@
       "REF-0299",
       "REF-0301"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1438"
+     ]
     }
    ]
   },
@@ -15390,6 +16039,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1175"
+     ]
+    },
+    {
      "condition": "infection",
      "label": "Infection (general)",
      "evidence": 2,
@@ -15419,6 +16078,19 @@
    "common_slug": "oyster-mushroom",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1498",
+      "REF-1499",
+      "REF-2596",
+      "REF-2598"
+     ]
+    },
     {
      "condition": "immune-support",
      "label": "Immune support",
@@ -17226,6 +17898,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1289"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 3,
@@ -17342,6 +18024,17 @@
    "common_slug": "saffron",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2007",
+      "REF-2008"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -17766,6 +18459,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1239"
+     ]
+    },
+    {
      "condition": "cough",
      "label": "Cough",
      "evidence": 2,
@@ -17896,6 +18599,17 @@
       "REF-0206",
       "REF-0319",
       "REF-2319"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2321",
+      "REF-2326"
      ]
     },
     {
@@ -18326,6 +19040,16 @@
       "REF-0300",
       "REF-0315"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1166"
+     ]
     }
    ]
   },
@@ -18686,6 +19410,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1330"
+     ]
+    },
+    {
      "condition": "urinary-support",
      "label": "Urinary support",
      "evidence": 7,
@@ -18812,6 +19546,16 @@
      "inferred": true,
      "references": [
       "REF-0516"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2280"
      ]
     },
     {
@@ -18965,6 +19709,17 @@
       "REF-0517",
       "REF-0609",
       "REF-1147"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1145",
+      "REF-1152"
      ]
     },
     {
@@ -19135,6 +19890,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1961",
+      "REF-1965"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -19290,6 +20056,16 @@
      "references": [
       "REF-0519",
       "REF-0593"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1309"
      ]
     },
     {
@@ -19535,6 +20311,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0669"
+     ]
+    },
+    {
      "condition": "infection",
      "label": "Infection (general)",
      "evidence": 2,
@@ -19704,6 +20490,16 @@
       "REF-0273",
       "REF-0305"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0002"
+     ]
     }
    ]
   },
@@ -19714,6 +20510,21 @@
    "common_slug": "turkey-tail",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0282",
+      "REF-1582",
+      "REF-1583",
+      "REF-1584",
+      "REF-1585",
+      "REF-1587"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -20052,6 +20863,17 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2773",
+      "REF-2774"
+     ]
+    },
+    {
      "condition": "diarrhea",
      "label": "Diarrhoea",
      "evidence": 2,
@@ -20221,6 +21043,16 @@
       "REF-0140",
       "REF-1323",
       "REF-2367"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1325"
      ]
     },
     {
@@ -20474,6 +21306,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2711"
+     ]
+    },
+    {
      "condition": "high-cholesterol",
      "label": "High cholesterol",
      "evidence": 2,
@@ -20596,6 +21438,16 @@
    "common_slug": "wild-cherry-bark",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2558"
+     ]
+    },
     {
      "condition": "cough",
      "label": "Cough",
@@ -20784,6 +21636,16 @@
      "inferred": true,
      "references": [
       "REF-0528"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2284"
      ]
     },
     {
@@ -21001,6 +21863,16 @@
      "references": [
       "REF-0531",
       "REF-0532"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2056"
      ]
     },
     {
@@ -21520,6 +22392,18 @@
    "common_slug": "yellow-loosestrife",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2796",
+      "REF-2803",
+      "REF-2807"
+     ]
+    },
     {
      "condition": "diarrhea",
      "label": "Diarrhoea",

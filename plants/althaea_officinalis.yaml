@@ -97,6 +97,10 @@ dosage:
   - REF-0481
   status: draft
 actions:
+- action: anticancer
+  reference_ids:
+  - REF-1371
+  status: needs-review
 - action: antitussive
   note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
     the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation
@@ -130,6 +134,11 @@ indications:
   reference_ids:
   - REF-0481
   status: verified
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1371
+  status: needs-review
 - condition: cough
   note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
     the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation;
@@ -195,7 +204,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Althaeae radix; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, acid-reflux, skin-irritation); associations retained and
@@ -208,4 +217,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   REF-1375, REF-1376, REF-1377) — woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign.'

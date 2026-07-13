@@ -102,6 +102,10 @@ actions:
   - REF-2302
   - REF-0805
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0805
+  status: needs-review
 - action: antimicrobial
   note: Antibacterial, including against Escherichia coli (urinary support)
   reference_ids:
@@ -122,6 +126,11 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0403
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-0805
   status: needs-review
 - condition: infection
   note: inferred from antimicrobial action
@@ -201,7 +210,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity
   study; Complementary Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (prostate-support, uti, inflammation); associations retained and now part-mapped
@@ -215,4 +224,5 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

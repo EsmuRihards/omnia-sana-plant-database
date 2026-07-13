@@ -119,6 +119,10 @@ actions:
   - REF-2101
   - REF-2105
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-2104
+  status: needs-review
 - action: antimicrobial
   note: Antimicrobial and antioxidant (in vitro)
   reference_ids:
@@ -159,6 +163,11 @@ indications:
   - REF-0398
   - REF-0399
   status: verified
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2104
+  status: needs-review
 - condition: headache
   note: inferred from analgesic action
   reference_ids:
@@ -251,7 +260,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review,
   Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained
@@ -263,4 +272,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   REF-2105, REF-2106) — woven into relevant actions/indications and the plant-level references bucket.
   | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign.'

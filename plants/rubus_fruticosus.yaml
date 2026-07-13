@@ -96,6 +96,10 @@ actions:
   - REF-2550
   - REF-2551
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-2550
+  status: needs-review
 - action: antidiarrheal
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
@@ -127,6 +131,11 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0417
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2550
   status: needs-review
 - condition: diarrhea
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
@@ -194,7 +203,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pharmacognosy Reviews herbal-medicine
   review; Molecules antioxidant/antibacterial study). Note: Rubus fruticosus is an aggregate of many microspecies.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat,
@@ -202,4 +211,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Pha
   schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
   added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0713,
   REF-0714, REF-0715. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
-  monograph-base fields, sourced from the existing herbal-medicine review (REF-0417).'
+  monograph-base fields, sourced from the existing herbal-medicine review (REF-0417). | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign.'

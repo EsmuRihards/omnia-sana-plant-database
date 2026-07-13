@@ -187,6 +187,13 @@ actions:
   - REF-2796
   status: verified
 indications:
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2796
+  - REF-2803
+  - REF-2807
+  status: needs-review
 - condition: liver-support
   note: Ameliorates liver fibrosis/NASH in animal models.
   reference_ids:
@@ -295,7 +302,7 @@ lookalikes_review:
   - REF-2796
 provenance: pubmed
 status: verified
-last_updated: '2026-07-10'
+last_updated: '2026-07-13'
 internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent for this plant failed
   on the session limit). 15 refs REF-2793..REF-2807: 9 genuine Lysimachia vulgaris (incl. var. davurica,
   a variety of the species - PCSK9/lipid-lowering, liver-fibrosis/NASH, IBS-D, antibacterial/antitumor/antioxidant,
@@ -304,4 +311,6 @@ internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agen
   congener labelled; the genus shares saponin/flavonoid chemistry. Non-medicinal L. vulgaris hits (pollen/canopy/wetland-ecology/heavy-metal
   bioindication) rejected. Strong genuine finding: PCSK9 inhibition -> statins interaction. Cross-link:
   primula-veris (Primulaceae saponins). lookalikes none-known (distinctive whorled leaves + yellow star
-  flowers; unrelated to purple loosestrife Lythrum).'
+  flowers; unrelated to purple loosestrife Lythrum). | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign.'

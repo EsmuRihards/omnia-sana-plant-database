@@ -109,6 +109,11 @@ actions:
   - REF-1006
   - REF-1011
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-1010
+  - REF-1014
+  status: needs-review
 - action: antioxidant
   reference_ids:
   - REF-0051
@@ -135,6 +140,12 @@ indications:
   - REF-0051
   - REF-0098
   - REF-0240
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1010
+  - REF-1014
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
@@ -207,7 +218,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -217,4 +228,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1010, REF-1011, REF-1012, REF-1013, REF-1014) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing flavonoid review (REF-1006) and polysaccharide review
-  (REF-1005).'
+  (REF-1005). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

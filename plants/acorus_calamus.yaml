@@ -93,6 +93,10 @@ dosage:
   - REF-0516
   status: draft
 actions:
+- action: anticancer
+  reference_ids:
+  - REF-2280
+  status: needs-review
 - action: anticonvulsant
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
     and antidepressant-like activity)
@@ -154,6 +158,11 @@ indications:
   note: Aromatic bitter / carminative for indigestion, bloating, flatulence and poor appetite (traditional)
   reference_ids:
   - REF-0516
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2280
   status: needs-review
 - condition: cognitive-function
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
@@ -257,7 +266,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Applied Toxicology asarone
   toxicology review; Phytochemistry systematic review). Record status set to needs-review because beta-asarone
   carries documented carcinogenicity and regulatory restrictions. Originally a skeleton imported from
@@ -271,4 +280,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Appl
   REF-2275, REF-2276, REF-2277, REF-0718, REF-2278, REF-2279, REF-2280) — woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy.'
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign.'

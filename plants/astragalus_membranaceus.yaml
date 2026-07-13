@@ -108,6 +108,10 @@ actions:
   - REF-0736
   - REF-2258
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0736
+  status: needs-review
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
   reference_ids:
@@ -138,6 +142,11 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0402
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-0736
   status: needs-review
 - condition: cold
   note: Supports resistance to colds and respiratory infection (immune)
@@ -221,7 +230,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
   of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);
@@ -235,4 +244,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   REF-2262, REF-2263) — woven into relevant actions/indications and the plant-level references bucket.
   | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign.'

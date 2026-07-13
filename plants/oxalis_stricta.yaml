@@ -199,6 +199,12 @@ actions:
   - REF-2781
   status: verified
 indications:
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2784
+  - REF-2792
+  status: needs-review
 - condition: liver-support
   note: Hepatoprotective in animal models (congener).
   reference_ids:
@@ -295,7 +301,7 @@ lookalikes_review:
   - REF-2778
 provenance: pubmed
 status: verified
-last_updated: '2026-07-10'
+last_updated: '2026-07-13'
 internal_notes: 'Created 2026-07-10. SPARSE species: genuine Oxalis stricta-specific medicinal literature
   is only 2 papers (REF-2778 oxalate/ascorbate metabolism; REF-2779 O. stricta-extract ZnO nanoparticle
   anticancer). The rest of PubMed for O. stricta is genomics/invasion-ecology/floristics/entomology (rejected).
@@ -308,4 +314,6 @@ internal_notes: 'Created 2026-07-10. SPARSE species: genuine Oxalis stricta-spec
   via PubMed metadata (adversarial-verify stage failed on the session limit). Key safety: OXALATE content
   -> kidney-stone warning (REF-2778). lookalikes none-known (distinctive clover-like sour leaves + yellow
   flowers; no deadly confusable). Cross-links via shared compounds (flavonoid/quercetin/tannin/polysaccharide)
-  and indications (liver-support/gastroprotective/antidiabetic).'
+  and indications (liver-support/gastroprotective/antidiabetic). | 2026-07-13: added anticancer action
+  (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
+  literature, as part of the cancer-condition campaign.'

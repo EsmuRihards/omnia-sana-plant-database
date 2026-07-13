@@ -97,6 +97,12 @@ actions:
   - REF-2228
   - REF-2229
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0686
+  - REF-0687
+  - REF-0688
+  status: needs-review
 - action: antioxidant
   reference_ids:
   - REF-0113
@@ -130,6 +136,13 @@ indications:
   - REF-0113
   - REF-0193
   - REF-0208
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-0686
+  - REF-0687
+  - REF-0688
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -202,7 +215,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -216,4 +229,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-0687, REF-2229, REF-2230, REF-2231, REF-2232, REF-2233) — woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy.'
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign.'

@@ -139,6 +139,11 @@ actions:
   - REF-2389
   - REF-2395
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-2391
+  - REF-2396
+  status: needs-review
 - action: antimicrobial
   parts:
   - Whole plant
@@ -230,6 +235,12 @@ indications:
   reference_ids:
   - REF-0326
   - REF-0328
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2391
+  - REF-2396
   status: needs-review
 - condition: constipation
   note: inferred from laxative action
@@ -362,7 +373,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-07-13'
 internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica post (https://omniasana.bio/dandelion-taraxacum-officinale/).
   Unlike the bulk book-ingested records, actions are mapped to specific parts and references per the source
   post. The Kew Plants of the World Online entry is shared with the book ingestion (REF-0248). | 2026-06-15:
@@ -372,4 +383,6 @@ internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica p
   enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-2387, REF-2388,
   REF-2389, REF-2390, REF-2391, REF-2392, REF-2393, REF-2394, REF-2395, REF-2396) — woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
-  monograph-base fields, sourced from the existing ethnopharmacology/phytochemistry review (REF-0326).'
+  monograph-base fields, sourced from the existing ethnopharmacology/phytochemistry review (REF-0326).
+  | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

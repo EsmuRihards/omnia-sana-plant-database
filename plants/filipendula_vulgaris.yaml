@@ -216,6 +216,11 @@ actions:
   - REF-2735
   status: verified
 indications:
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2735
+  status: needs-review
 - condition: inflammation
   reference_ids:
   - REF-2725
@@ -414,7 +419,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-10'
 provenance: pubmed
 status: verified
-last_updated: '2026-07-10'
+last_updated: '2026-07-13'
 internal_notes: 'Created 2026-07-10. 16 PubMed-verified @article refs REF-2725..REF-2740, each self-verified
   as genuine Filipendula vulgaris (note: Filipendula hexapetala Gilib. is a taxonomic SYNONYM of F. vulgaris,
   so hexapetala papers are genuine; the Russian nootropic papers call F. vulgaris ''meadowsweet'' but
@@ -423,4 +428,5 @@ internal_notes: 'Created 2026-07-10. 16 PubMed-verified @article refs REF-2725..
   were self-verified because the workflow''s adversarial-verify stage failed on the session limit. Cross-links:
   filipendula-ulmaria (sibling), salix-alba (salicylate group), agrimonia-eupatoria (Rosaceae astringent,
   co-studied). Lookalike is a NAME-confusion safeguard vs hemlock water-dropwort (Oenanthe crocata), reusing
-  REF-2612.'
+  REF-2612. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

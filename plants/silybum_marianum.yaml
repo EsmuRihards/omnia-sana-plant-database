@@ -91,6 +91,11 @@ actions:
   - REF-0484
   - REF-1906
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0484
+  - REF-1900
+  status: needs-review
 - action: antidiabetic
   note: Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c
   reference_ids:
@@ -144,6 +149,12 @@ indications:
   reference_ids:
   - REF-0559
   status: verified
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-0484
+  - REF-1900
+  status: needs-review
 - condition: detox
   note: Supports liver recovery and 'detox' (traditional framing of the hepatoprotective action)
   reference_ids:
@@ -233,7 +244,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research safety/toxicity
   review; Biomedicine & Pharmacotherapy review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (liver-support, detox, indigestion, inflammation); associations retained
@@ -246,4 +257,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Re
   REF-1901, REF-1902, REF-1903, REF-1904, REF-1905, REF-1906) — woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing safety/toxicity review (REF-0483) and gastrointestinal-cancer
-  therapeutic review (REF-0484).'
+  therapeutic review (REF-0484). | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
+  campaign.'

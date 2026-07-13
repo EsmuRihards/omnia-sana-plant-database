@@ -111,6 +111,10 @@ actions:
   - REF-1234
   - REF-1242
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-1239
+  status: needs-review
 - action: antimicrobial
   reference_ids:
   - REF-0018
@@ -153,6 +157,11 @@ indications:
   - REF-0018
   - REF-0098
   - REF-0279
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1239
   status: needs-review
 - condition: cough
   note: inferred from expectorant action
@@ -291,7 +300,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -303,4 +312,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing classic herbal reference (REF-0098, A Modern Herbal)
   and essential-oil review (REF-0018) plus phytochemistry studies (REF-1235, REF-1236, REF-1242); did
   NOT reuse REF-0279 (Pinus pinaster bark proanthocyanidins - a different species) for constituents to
-  avoid species conflation.'
+  avoid species conflation. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

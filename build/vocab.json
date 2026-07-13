@@ -1050,6 +1050,27 @@
    ]
   },
   {
+   "id": "cancer",
+   "label": "Cancer (anticancer research)",
+   "body_system": "general",
+   "consumer_synonyms": [
+    "tumor",
+    "tumour",
+    "anticancer",
+    "anticancerous",
+    "antitumor",
+    "antitumour",
+    "cancerous",
+    "carcinoma",
+    "neoplasm",
+    "oncology",
+    "cancer support"
+   ],
+   "related_actions": [
+    "anticancer"
+   ]
+  },
+  {
    "id": "fever",
    "label": "Fever",
    "body_system": "general",

@@ -131,6 +131,11 @@ actions:
   - REF-1424
   - REF-1425
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-1418
+  - REF-1426
+  status: needs-review
 - action: antidiabetic
   reference_ids:
   - REF-0110
@@ -187,6 +192,12 @@ indications:
   - REF-0110
   - REF-0197
   - REF-0303
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1418
+  - REF-1426
   status: needs-review
 - condition: cold
   note: inferred from antiviral action
@@ -290,7 +301,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -300,4 +311,5 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1422, REF-1423, REF-1424, REF-1425, REF-1426) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing phytochemistry/safety review (REF-1417) and applications
-  review (REF-1422).'
+  review (REF-1422). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

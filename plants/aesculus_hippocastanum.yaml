@@ -113,6 +113,11 @@ actions:
   reference_ids:
   - REF-0590
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-0471
+  - REF-0675
+  status: needs-review
 - action: venotonic
   note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
     and exerts venotonic effects on veins; Relief of haemorrhoid symptoms (venotonic)
@@ -129,6 +134,12 @@ indications:
   - REF-0675
   - REF-0676
   - REF-2405
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-0471
+  - REF-0675
   status: needs-review
 - condition: hemorrhoids
   note: Relief of haemorrhoid symptoms (venotonic)
@@ -208,7 +219,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed
   extract for CVI; Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained
@@ -223,4 +234,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review
   REF-2405, REF-2406) — woven into relevant actions/indications and the plant-level references bucket.
   | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign.'

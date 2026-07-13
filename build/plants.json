@@ -722,6 +722,13 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2280"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "anticonvulsant",
      "note": "Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant and antidepressant-like activity)",
      "reference_ids": [
@@ -812,6 +819,16 @@
      "status": "needs-review",
      "evidence": 7,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2280"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
@@ -940,7 +957,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "sweet-flag"
   },
   {
@@ -1732,6 +1749,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0471",
+      "REF-0675"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "venotonic",
      "note": "Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue and exerts venotonic effects on veins; Relief of haemorrhoid symptoms (venotonic)",
      "reference_ids": [
@@ -1755,6 +1780,17 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0471",
+      "REF-0675"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "hemorrhoids",
@@ -1872,7 +1908,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "horse-chestnut"
   },
   {
@@ -2411,6 +2447,15 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0686",
+      "REF-0687",
+      "REF-0688"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0113",
@@ -2460,6 +2505,18 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0686",
+      "REF-0687",
+      "REF-0688"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "inflammation",
@@ -2555,7 +2612,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "lady-s-mantle"
   },
   {
@@ -2684,6 +2741,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0312"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0127",
@@ -2792,6 +2856,16 @@
      "status": "needs-review",
      "evidence": 9,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0312"
+     ],
+     "status": "needs-review",
+     "evidence": 1,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -3125,7 +3199,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "garlic"
   },
   {
@@ -3731,6 +3805,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0693"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "note": "Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and less soreness after exhaustive exercise",
      "reference_ids": [
@@ -3814,6 +3895,16 @@
      "status": "verified",
      "evidence": 7,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0693"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "indigestion",
@@ -3946,7 +4037,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "lemon-verbena"
   },
   {
@@ -4074,6 +4165,13 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1371"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antitussive",
      "note": "Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation",
      "reference_ids": [
@@ -4116,6 +4214,16 @@
      "status": "verified",
      "evidence": 1,
      "label": "Acid reflux"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1371"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -4212,7 +4320,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "marshmallow-root"
   },
   {
@@ -5724,6 +5832,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0708",
+      "REF-2342"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0211",
@@ -5790,6 +5906,17 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0708",
+      "REF-2342"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "eczema",
@@ -5914,7 +6041,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "greater-burdock"
   },
   {
@@ -6064,6 +6191,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1931"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "note": "Anti-inflammatory and antioxidant",
      "reference_ids": [
@@ -6106,6 +6240,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1931"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "detox",
@@ -6260,7 +6404,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "lesser-burdock"
   },
   {
@@ -6736,6 +6880,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2104"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "note": "Antimicrobial and antioxidant (in vitro)",
      "reference_ids": [
@@ -6798,6 +6949,16 @@
      "status": "verified",
      "evidence": 7,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2104"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "headache",
@@ -6944,7 +7105,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "arnica"
   },
   {
@@ -7434,6 +7595,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1942",
+      "REF-1943"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0023",
@@ -7508,6 +7677,17 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1942",
+      "REF-1943"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "indigestion",
@@ -7683,7 +7863,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "mugwort"
   },
   {
@@ -8120,6 +8300,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0736"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
@@ -8163,6 +8350,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0736"
+     ],
+     "status": "needs-review",
+     "evidence": 1,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cold",
@@ -8295,7 +8492,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "astragalus"
   },
   {
@@ -8858,6 +9055,16 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1696"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cold",
      "note": "inferred from antiviral action",
      "reference_ids": [
@@ -9032,7 +9239,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "birch"
   },
   {
@@ -9168,6 +9375,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2122"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiarrheal",
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
@@ -9238,6 +9452,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2122"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "diarrhea",
@@ -9364,7 +9588,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "bistort"
   },
   {
@@ -9518,6 +9742,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1953"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0129",
@@ -9597,6 +9828,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1953"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cold",
@@ -9769,7 +10010,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "borage"
   },
   {
@@ -9909,6 +10150,13 @@
       "REF-1818"
      ],
      "status": "needs-review"
+    },
+    {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1814"
+     ],
+     "status": "needs-review"
     }
    ],
    "indications": [
@@ -9944,6 +10192,16 @@
      "status": "needs-review",
      "evidence": 7,
      "label": "Back pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1814"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "headache",
@@ -10039,7 +10297,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "boswellia"
   },
   {
@@ -10554,6 +10812,17 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1961",
+      "REF-1965"
+     ],
+     "status": "needs-review",
+     "evidence": 8,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0045",
@@ -10695,7 +10964,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "tea"
   },
   {
@@ -11993,6 +12262,13 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1983"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0078",
@@ -12051,6 +12327,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1983"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "indigestion",
@@ -12157,7 +12443,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "caraway"
   },
   {
@@ -13409,6 +13695,15 @@
      "status": "needs-review"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2265",
+      "REF-2266",
+      "REF-2271"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "note": "Anti-inflammatory, antimicrobial and analgesic (preclinical)",
      "reference_ids": [
@@ -13466,6 +13761,18 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2265",
+      "REF-2266",
+      "REF-2271"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "headache",
@@ -13619,7 +13926,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "greater-celandine"
   },
   {
@@ -13998,6 +14305,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0669"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0006",
@@ -14083,6 +14397,16 @@
      "status": "needs-review",
      "evidence": 10,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0669"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -14247,7 +14571,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "true-cinnamon"
   },
   {
@@ -14377,6 +14701,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1995"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "note": "Antimicrobial and anti-inflammatory (attributed to cnicin)",
      "reference_ids": [
@@ -14455,6 +14786,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1995"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "indigestion",
@@ -14564,7 +14905,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "blessed-thistle"
   },
   {
@@ -15952,6 +16293,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0785"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0082",
@@ -15989,6 +16337,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0785"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -16120,7 +16478,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "hawthorn"
   },
   {
@@ -16311,6 +16669,17 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2007",
+      "REF-2008"
+     ],
+     "status": "needs-review",
+     "evidence": 8,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
      "reference_ids": [
@@ -16498,7 +16867,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "saffron"
   },
   {
@@ -17308,6 +17677,16 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0002"
+     ],
+     "status": "needs-review",
+     "evidence": 1,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0002",
@@ -17460,7 +17839,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "tumeric"
   },
   {
@@ -18049,6 +18428,16 @@
    ],
    "indications": [
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2711"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "kidney-support",
      "note": "Nephroprotective and antiurolithic activity in animal models.",
      "reference_ids": [
@@ -18385,7 +18774,7 @@
    ],
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-10"
+   "last_updated": "2026-07-13"
   },
   {
    "id": "dioscorea-villosa",
@@ -18515,6 +18904,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2284"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antispasmodic",
      "note": "Antispasmodic / analgesic for menstrual cramps and muscle spasm (antinociceptive in animal models)",
      "reference_ids": [
@@ -18543,6 +18939,16 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Back pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2284"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "headache",
@@ -18657,7 +19063,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "wild-yam"
   },
   {
@@ -20011,6 +20417,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0805"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "note": "Antibacterial, including against Escherichia coli (urinary support)",
      "reference_ids": [
@@ -20042,6 +20455,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0805"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "infection",
@@ -20159,7 +20582,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "bay-leaf-willowherb"
   },
   {
@@ -20293,6 +20716,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1400"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0041",
@@ -20369,6 +20799,16 @@
      "status": "needs-review",
      "evidence": 5,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1400"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "infection",
@@ -20537,7 +20977,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "field-horsetail"
   },
   {
@@ -21538,6 +21978,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2581"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "astringent",
      "note": "Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional, as an eye compress or bath) - an open prospective cohort of Euphrasia single-dose eye drops reported recovery or clear improvement in most patients with conjunctivitis",
      "reference_ids": [
@@ -21568,6 +22015,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2581"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -21705,7 +22162,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "eyebright"
   },
   {
@@ -21853,6 +22310,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0816",
+      "REF-2038"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0033",
@@ -21941,6 +22406,17 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Back pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0816",
+      "REF-2038"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "headache",
@@ -22129,7 +22605,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "meadowsweet"
   },
   {
@@ -22412,6 +22888,16 @@
    ],
    "indications": [
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2735"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "inflammation",
      "reference_ids": [
       "REF-2725",
@@ -22689,7 +23175,7 @@
    ],
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-10"
+   "last_updated": "2026-07-13"
   },
   {
    "id": "foeniculum-vulgare",
@@ -23363,6 +23849,14 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1722",
+      "REF-1724"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0035",
@@ -23425,6 +23919,17 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1722",
+      "REF-1724"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "eczema",
@@ -23543,7 +24048,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "cleavers"
   },
   {
@@ -23754,6 +24259,19 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0125",
+      "REF-0821",
+      "REF-2039",
+      "REF-2045"
+     ],
+     "status": "needs-review",
+     "evidence": 8,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0019",
@@ -23927,7 +24445,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "lingzhi"
   },
   {
@@ -24469,6 +24987,17 @@
    ],
    "indications": [
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2773",
+      "REF-2774"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "diarrhea",
      "note": "Astringent (tannin) antidiarrhoeal; traditional remedy for diarrhoea and dysentery.",
      "reference_ids": [
@@ -24656,7 +25185,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-10"
+   "last_updated": "2026-07-13"
   },
   {
    "id": "ginkgo-biloba",
@@ -25832,6 +26361,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2056"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "note": "Anti-inflammatory and antioxidant (supports irritated/atopic skin)",
      "reference_ids": [
@@ -25887,6 +26423,16 @@
      "status": "verified",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2056"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "diarrhea",
@@ -25997,7 +26543,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "witch-hazel"
   },
   {
@@ -26609,6 +27155,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0157"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "digestive",
      "reference_ids": [
       "REF-0157",
@@ -26673,6 +27226,16 @@
      "status": "needs-review",
      "evidence": 5,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0157"
+     ],
+     "status": "needs-review",
+     "evidence": 1,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
@@ -26808,7 +27371,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "lions-mane"
   },
   {
@@ -27234,6 +27797,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2321",
+      "REF-2326"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0049",
@@ -27323,6 +27894,17 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2321",
+      "REF-2326"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -27465,7 +28047,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "sea-buckthorn"
   },
   {
@@ -28754,6 +29336,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1802"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0072",
@@ -28797,6 +29386,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bronchitis"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1802"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -28883,7 +29482,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "hyssop"
   },
   {
@@ -29007,6 +29606,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0093"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0093",
@@ -29052,6 +29658,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0093"
+     ],
+     "status": "needs-review",
+     "evidence": 1,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cold",
@@ -29180,7 +29796,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "chaga"
   },
   {
@@ -29314,6 +29930,15 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1865",
+      "REF-1866",
+      "REF-1867"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "note": "Antimicrobial, notably anti-staphylococcal (membrane-damaging) and anti-mycobacterial (active against Mycobacterium tuberculosis in vitro); supports respiratory and skin infection",
      "reference_ids": [
@@ -29354,6 +29979,18 @@
      "status": "verified",
      "evidence": 1,
      "label": "Bronchitis"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1865",
+      "REF-1866",
+      "REF-1867"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -29458,7 +30095,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "elecampane"
   },
   {
@@ -29564,6 +30201,16 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0853",
+      "REF-1742",
+      "REF-1743",
+      "REF-1744"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0035",
@@ -29634,6 +30281,19 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0853",
+      "REF-1742",
+      "REF-1743",
+      "REF-1744"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "indigestion",
@@ -29775,7 +30435,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "common-juniper"
   },
   {
@@ -30836,6 +31496,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1687"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0065",
@@ -30953,6 +31620,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1687"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
@@ -31160,7 +31837,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "bay-leaf"
   },
   {
@@ -31279,6 +31956,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2214"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0043",
@@ -31345,6 +32029,16 @@
      "status": "needs-review",
      "evidence": 5,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2214"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "eczema",
@@ -31541,7 +32235,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "lavender"
   },
   {
@@ -31707,6 +32401,16 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1166"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0293",
@@ -31818,7 +32522,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "shiitake-mushroom"
   },
   {
@@ -32289,6 +32993,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2222"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0001",
@@ -32344,6 +33055,16 @@
      "status": "needs-review",
      "evidence": 3,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2222"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -32493,7 +33214,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "flaxseed"
   },
   {
@@ -32742,6 +33463,18 @@
    ],
    "indications": [
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2796",
+      "REF-2803",
+      "REF-2807"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "liver-support",
      "note": "Ameliorates liver fibrosis/NASH in animal models.",
      "reference_ids": [
@@ -32903,7 +33636,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-10"
+   "last_updated": "2026-07-13"
   },
   {
    "id": "mahonia-aquifolium",
@@ -33043,6 +33776,16 @@
      "label": "Arthritis / joint pain"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1175"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "eczema",
      "note": "Topical for atopic dermatitis (eczema) and skin irritation",
      "reference_ids": [
@@ -33147,7 +33890,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "oregon-grape"
   },
   {
@@ -33313,6 +34056,13 @@
      "status": "needs-review"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1183"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "note": "Antibacterial / antimicrobial (methanolic leaf extracts; the naphthoquinone Malvone A)",
      "reference_ids": [
@@ -33396,6 +34146,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1183"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "constipation",
@@ -33535,7 +34295,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "mallow"
   },
   {
@@ -33667,6 +34427,13 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2558"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antispasmodic",
      "note": "Antispasmodic (traditional use in whooping cough)",
      "reference_ids": [
@@ -33737,6 +34504,16 @@
      "status": "verified",
      "evidence": 2,
      "label": "Bronchitis"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2558"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -33844,7 +34621,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "horehound"
   },
   {
@@ -35506,6 +36283,15 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1214",
+      "REF-1215",
+      "REF-1222"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "note": "Antidiabetic / blood-sugar lowering (improves glucose uptake and GLUT4 translocation)",
      "reference_ids": [
@@ -35600,6 +36386,18 @@
      "status": "verified",
      "evidence": 9,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1214",
+      "REF-1215",
+      "REF-1222"
+     ],
+     "status": "needs-review",
+     "evidence": 9,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "constipation",
@@ -35713,7 +36511,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "bitter-melon"
   },
   {
@@ -35881,6 +36679,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1418",
+      "REF-1426"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0110",
@@ -35967,6 +36773,17 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1418",
+      "REF-1426"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cold",
@@ -36118,7 +36935,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "noni"
   },
   {
@@ -36822,6 +37639,16 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2071"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
@@ -37072,7 +37899,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "black-cumin"
   },
   {
@@ -37219,6 +38046,16 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0467",
+      "REF-1428",
+      "REF-1430",
+      "REF-1436"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
@@ -37283,6 +38120,19 @@
      "status": "verified",
      "evidence": 7,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0467",
+      "REF-1428",
+      "REF-1430",
+      "REF-1436"
+     ],
+     "status": "needs-review",
+     "evidence": 8,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
@@ -37420,7 +38270,7 @@
    },
    "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "holy-basil"
   },
   {
@@ -37825,6 +38675,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1438"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0032",
@@ -37891,6 +38748,16 @@
      "status": "needs-review",
      "evidence": 6,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1438"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -38057,7 +38924,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "olive"
   },
   {
@@ -38319,6 +39186,16 @@
    ],
    "indications": [
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2745"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "urinary-support",
      "note": "Aquaretic diuretic for irrigation therapy of the urinary tract.",
      "reference_ids": [
@@ -38533,7 +39410,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-10"
+   "last_updated": "2026-07-13"
   },
   {
    "id": "origanum-majorana",
@@ -39515,6 +40392,17 @@
    ],
    "indications": [
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2784",
+      "REF-2792"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "liver-support",
      "note": "Hepatoprotective in animal models (congener).",
      "reference_ids": [
@@ -39660,7 +40548,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-10"
+   "last_updated": "2026-07-13"
   },
   {
    "id": "oxycoccus-palustris",
@@ -41258,6 +42146,13 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1480"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antihistaminic",
      "note": "Relief of allergic rhinitis / hay fever (antihistaminic and leukotriene-inhibiting; systematic review found it superior to placebo and comparable to non-sedating antihistamines for intermittent allergic rhinitis)",
      "reference_ids": [
@@ -41314,6 +42209,16 @@
      "status": "needs-review",
      "evidence": 3,
      "label": "Asthma"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1480"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -41437,7 +42342,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "butterbur"
   },
   {
@@ -41976,6 +42881,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1415"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0123",
@@ -42058,6 +42970,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1415"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "headache",
@@ -42240,7 +43162,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "anise"
   },
   {
@@ -42381,6 +43303,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1239"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0018",
@@ -42445,6 +43374,16 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Bronchitis"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1239"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -42620,7 +43559,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "scots-pine"
   },
   {
@@ -43888,6 +44827,19 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1498",
+      "REF-1499",
+      "REF-2596",
+      "REF-2598"
+     ],
+     "status": "needs-review",
+     "evidence": 8,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0102",
@@ -44035,7 +44987,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "oyster-mushroom"
   },
   {
@@ -45304,6 +46256,13 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2558"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antispasmodic",
      "note": "Antispasmodic for bronchial cough and bronchitis (eases spasm of the airways)",
      "reference_ids": [
@@ -45333,6 +46292,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bronchitis"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2558"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -45418,7 +46387,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "wild-cherry-bark"
   },
   {
@@ -46117,6 +47086,16 @@
      "label": "Arthritis / joint pain"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0985"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cardiovascular-support",
      "reference_ids": [
       "REF-0037",
@@ -46195,7 +47174,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "japanese-knotweed"
   },
   {
@@ -47404,6 +48383,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0992"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0051",
@@ -47432,6 +48418,16 @@
      "status": "verified",
      "evidence": 9,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0992"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "inflammation",
@@ -47514,7 +48510,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "dog-rose"
   },
   {
@@ -47662,6 +48658,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1010",
+      "REF-1014"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0051",
@@ -47699,6 +48703,17 @@
      "status": "needs-review",
      "evidence": 7,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1010",
+      "REF-1014"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -47803,7 +48818,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "japanese-rose"
   },
   {
@@ -47936,6 +48951,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2550"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiarrheal",
      "note": "Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)",
      "reference_ids": [
@@ -47984,6 +49006,16 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2550"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "diarrhea",
@@ -48094,7 +49126,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "blackberry-leaf"
   },
   {
@@ -49960,6 +50992,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1289"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0112",
@@ -50037,6 +51076,16 @@
      "status": "needs-review",
      "evidence": 3,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1289"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -50203,7 +51252,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "rosemary"
   },
   {
@@ -52079,6 +53128,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-0484",
+      "REF-1900"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "note": "Improves glycemic control in type 2 diabetes - lowers fasting blood glucose and HbA1c",
      "reference_ids": [
@@ -52155,6 +53212,17 @@
      "status": "verified",
      "evidence": 7,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0484",
+      "REF-1900"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "detox",
@@ -52284,7 +53352,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "milk-thistle"
   },
   {
@@ -52426,6 +53494,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1050"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0016",
@@ -52462,6 +53537,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1050"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "inflammation",
@@ -52590,7 +53675,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "goldenrod"
   },
   {
@@ -53747,6 +54832,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1083"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0029",
@@ -53822,6 +54914,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1083"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "headache",
@@ -53960,7 +55062,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "clove"
   },
   {
@@ -54780,6 +55882,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-2391",
+      "REF-2396"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "parts": [
       "Whole plant"
@@ -54922,6 +56032,17 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bloating"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2391",
+      "REF-2396"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "constipation",
@@ -55124,7 +56245,7 @@
    },
    "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "dandelion"
   },
   {
@@ -55569,6 +56690,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1102"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0071",
@@ -55629,6 +56757,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1102"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "indigestion",
@@ -55743,7 +56881,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "breckland-thyme"
   },
   {
@@ -55867,6 +57005,13 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1309"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "note": "Antimicrobial (thymol and carvacrol) - supports respiratory infection; Sore throat relief (antiseptic gargle)",
      "reference_ids": [
@@ -55921,6 +57066,16 @@
      "status": "verified",
      "evidence": 5,
      "label": "Bronchitis"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1309"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cold",
@@ -56045,7 +57200,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "thyme"
   },
   {
@@ -56172,6 +57327,14 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1314",
+      "REF-1318"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "note": "Antioxidant and acetylcholinesterase-inhibitory (linden-flower extract scavenges free radicals and inhibits AChE in vitro)",
      "reference_ids": [
@@ -56228,6 +57391,17 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Anxiety"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1314",
+      "REF-1318"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cold",
@@ -56366,7 +57540,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "linden"
   },
   {
@@ -56824,6 +57998,21 @@
      "label": "Arthritis / joint pain"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-0282",
+      "REF-1582",
+      "REF-1583",
+      "REF-1584",
+      "REF-1585",
+      "REF-1587"
+     ],
+     "status": "needs-review",
+     "evidence": 9,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cold",
      "note": "inferred from antiviral action",
      "reference_ids": [
@@ -56958,7 +58147,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "turkey-tail"
   },
   {
@@ -57557,6 +58746,16 @@
      "label": "Bruising"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1325"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
@@ -57701,7 +58900,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "white-clover"
   },
   {
@@ -57849,6 +59048,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1120"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0148",
@@ -57896,6 +59102,16 @@
      "status": "needs-review",
      "evidence": 7,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1120"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cardiovascular-support",
@@ -58049,7 +59265,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-13",
    "common_slug": "fenugreek"
   },
   {
@@ -58532,6 +59748,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1330"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0050",
@@ -58589,6 +59812,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Back pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1330"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cold",
@@ -58717,7 +59950,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "stinging-nettle"
   },
   {
@@ -60079,6 +61312,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1126"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "expectorant",
      "reference_ids": [
       "REF-0186",
@@ -60124,6 +61364,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bronchitis"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1126"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -60251,7 +61501,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "great-mullein"
   },
   {
@@ -61008,6 +62258,13 @@
      "status": "needs-review"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1142"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antispasmodic",
      "note": "Antispasmodic for general muscle spasm and cramping (smooth-muscle relaxant); Antispasmodic for menstrual cramps (relaxes uterine smooth muscle)",
      "reference_ids": [
@@ -61028,6 +62285,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Back pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1142"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "headache",
@@ -61132,7 +62399,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "cramp-bark"
   },
   {
@@ -61264,6 +62531,14 @@
      "status": "needs-review"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1145",
+      "REF-1152"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "demulcent",
      "note": "Demulcent / expectorant for cough, bronchitis and catarrh (mucilage soothes; saponins loosen mucus) - a double-blind RCT found violet-flower syrup, added to standard treatment, sped cough suppression in children with asthma",
      "reference_ids": [
@@ -61329,6 +62604,17 @@
      "status": "verified",
      "evidence": 5,
      "label": "Bronchitis"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1145",
+      "REF-1152"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -61479,7 +62765,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "sweet-violet"
   },
   {
@@ -61668,6 +62954,16 @@
      "label": "Bronchitis"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1601"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cold",
      "note": "inferred from immunomodulator action",
      "reference_ids": [
@@ -61804,7 +63100,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "heartsease"
   },
   {
@@ -62324,6 +63620,16 @@
      "label": "Blood sugar / diabetes support"
     },
     {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-2255"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
+    },
+    {
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
      "reference_ids": [
@@ -62625,7 +63931,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "ashwagandha"
   },
   {
@@ -62760,6 +64066,13 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "reference_ids": [
+      "REF-1629"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "note": "Antioxidant and anti-inflammatory",
      "reference_ids": [
@@ -62799,6 +64112,16 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "inferred from anticancer action",
+     "reference_ids": [
+      "REF-1629"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cough",
@@ -62929,7 +64252,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-13",
    "common_slug": "corn-silk"
   },
   {

@@ -127,6 +127,10 @@ actions:
   - REF-1191
   - REF-1192
   status: needs-review
+- action: anticancer
+  reference_ids:
+  - REF-1183
+  status: needs-review
 - action: antimicrobial
   note: Antibacterial / antimicrobial (methanolic leaf extracts; the naphthoquinone Malvone A)
   reference_ids:
@@ -181,6 +185,11 @@ indications:
   reference_ids:
   - REF-0541
   - REF-0542
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1183
   status: needs-review
 - condition: constipation
   note: Mild laxative for occasional constipation (mucilage; traditional)
@@ -266,7 +275,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monograph for Malvae folium
   / flos). Further enriched 2026-06-13 with two PubMed phytochemistry/pharmacology reviews (REF-0541,
   Paul et al. 2024; REF-0542, Batiha et al. 2022) that added antioxidant, antibacterial and anti-inflammatory/analgesic
@@ -278,4 +287,5 @@ internal_notes: 'Enriched 2026-06-12 from regulatory literature (EMA HMPC monogr
   REF-1188, REF-1189, REF-1190, REF-1191, REF-1192) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0480) and ethnobotanical review
-  (REF-1184).'
+  (REF-1184). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

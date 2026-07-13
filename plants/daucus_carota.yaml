@@ -236,6 +236,11 @@ actions:
   - REF-2708
   status: verified
 indications:
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2711
+  status: needs-review
 - condition: kidney-support
   note: Nephroprotective and antiurolithic activity in animal models.
   reference_ids:
@@ -506,13 +511,15 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-10'
 provenance: pubmed
 status: verified
-last_updated: '2026-07-10'
-internal_notes: Created 2026-07-10 as a new medicinal-plant record (wild carrot, Daucus carota). 17 PubMed-verified
+last_updated: '2026-07-13'
+internal_notes: 'Created 2026-07-10 as a new medicinal-plant record (wild carrot, Daucus carota). 17 PubMed-verified
   @article sources (REF-2708..REF-2724), each adversarially checked to be genuinely Daucus carota (rejected
   wrong-species Daucus gracilis, parsnip, Panax panaxydol papers, a retracted CVD review, and agronomy/genomics/flavor-learning
   hits). PILOT for the new monograph-base schema fields (botanical_description, habitat, harvesting, traditional_uses,
-  preparations, dosage) that store the key Materia Medica 'paragraph topics' as structured, sourced DB
-  properties to seed future prose. dangerous_lookalikes cover the four deadly Apiaceae confusers (poison
-  hemlock, fool's parsley, hemlock water-dropwort, water hemlock), reusing the existing dangerous-plant
+  preparations, dosage) that store the key Materia Medica ''paragraph topics'' as structured, sourced
+  DB properties to seed future prose. dangerous_lookalikes cover the four deadly Apiaceae confusers (poison
+  hemlock, fool''s parsley, hemlock water-dropwort, water hemlock), reusing the existing dangerous-plant
   reference ids. Pairings cross-link to Apiaceae/diuretic relatives (parsley, fennel, dandelion). Safety
-  records marked approved (owner-authorized) per the site-wide convention.
+  records marked approved (owner-authorized) per the site-wide convention. | 2026-07-13: added anticancer
+  action (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s
+  cited literature, as part of the cancer-condition campaign.'

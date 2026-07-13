@@ -196,6 +196,11 @@ actions:
   - REF-2745
   status: verified
 indications:
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2745
+  status: needs-review
 - condition: urinary-support
   note: Aquaretic diuretic for irrigation therapy of the urinary tract.
   reference_ids:
@@ -344,7 +349,7 @@ lookalikes_review:
   - REF-2748
 provenance: pubmed
 status: verified
-last_updated: '2026-07-10'
+last_updated: '2026-07-13'
 internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Ononis arvensis (chiefly phytochemistry
   - the species'' own literature is analytical-heavy) + 8 clearly-labelled Ononis spinosa congener refs
   supplying the pharmacology of Ononidis radix (the officinal diuretic; O. arvensis is used interchangeably).
@@ -352,4 +357,6 @@ internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Onon
   stage failed on the session limit; older non-English Cesk/Aptechnoe/Georgian papers confirmed genuine
   via PubMed metadata. Hepatotoxicity safety signal (REF-2758) surfaced as a warning contraindication.
   Cross-links: solidago-virgaurea + betula-pendula (irrigation-therapy diuretics), trifolium-pratense
-  (shared formononetin phytoestrogen - caution). lookalikes none-known (spiny pink-flowered legume, distinctive).'
+  (shared formononetin phytoestrogen - caution). lookalikes none-known (spiny pink-flowered legume, distinctive).
+  | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

@@ -113,6 +113,11 @@ indications:
   reference_ids:
   - REF-0487
   status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1175
+  status: needs-review
 - condition: eczema
   note: Topical for atopic dermatitis (eczema) and skin irritation
   reference_ids:
@@ -182,7 +187,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Clin Aesthet Dermatol review
   of topical Mahonia for psoriasis/eczema; Herbal Reality monograph). Mahonia aquifolium = Berberis aquifolium.
   Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (psoriasis, eczema,
@@ -195,4 +200,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J C
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields; no dedicated botanical review in the bucket (clinical/dermatology-focused sources),
   so botanical_description/habitat/harvesting are status:draft general botanical facts with no fabricated
-  citation, while traditional_uses/preparations/dosage cite the existing psoriasis/eczema clinical sources.'
+  citation, while traditional_uses/preparations/dosage cite the existing psoriasis/eczema clinical sources.
+  | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'

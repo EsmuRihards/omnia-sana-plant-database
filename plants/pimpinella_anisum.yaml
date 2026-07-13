@@ -119,6 +119,10 @@ actions:
   - REF-1408
   - REF-1415
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-1415
+  status: needs-review
 - action: antimicrobial
   reference_ids:
   - REF-0123
@@ -177,6 +181,11 @@ indications:
   - REF-0268
   - REF-0274
   - REF-0278
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1415
   status: needs-review
 - condition: headache
   note: inferred from analgesic action
@@ -324,7 +333,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -336,4 +345,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields; botanical_description/habitat/harvesting are status:draft (the legacy book refs
   for this plant are poorly formed citation fragments, not usable for specific botanical claims), traditional_uses/preparations/dosage
   reuse the existing Duke/Commission-E-sourced book refs, constituents cite the newer PubMed phytochemistry
-  studies (REF-1409, REF-1411, REF-1414, REF-1416).'
+  studies (REF-1409, REF-1411, REF-1414, REF-1416). | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign.'

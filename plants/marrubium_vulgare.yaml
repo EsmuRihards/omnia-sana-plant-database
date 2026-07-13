@@ -103,6 +103,10 @@ dosage:
   - REF-0469
   status: verified
 actions:
+- action: anticancer
+  reference_ids:
+  - REF-2558
+  status: needs-review
 - action: antispasmodic
   note: Antispasmodic (traditional use in whooping cough)
   reference_ids:
@@ -147,6 +151,11 @@ indications:
   - REF-0921
   - REF-0926
   status: verified
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2558
+  status: needs-review
 - condition: cough
   note: Antispasmodic (traditional use in whooping cough); Expectorant for productive cough and catarrh
     of the upper respiratory tract / bronchitis
@@ -216,7 +225,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph for
   Marrubii herba; ESCOP monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (cough, sore-throat, indigestion, bloating); associations retained and now part-mapped and
@@ -228,4 +237,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   REF-0925, REF-0926, REF-0927, REF-0928, REF-0929) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing EMA HMPC (REF-0468) and ESCOP (REF-0469) monographs
-  plus the phytomedicine review REF-0921/REF-0927.'
+  plus the phytomedicine review REF-0921/REF-0927. | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign.'

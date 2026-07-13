@@ -217,6 +217,12 @@ actions:
   - REF-2769
   status: verified
 indications:
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2773
+  - REF-2774
+  status: needs-review
 - condition: diarrhea
   note: Astringent (tannin) antidiarrhoeal; traditional remedy for diarrhoea and dysentery.
   reference_ids:
@@ -346,7 +352,7 @@ lookalikes_review:
   - REF-2769
 provenance: pubmed
 status: verified
-last_updated: '2026-07-10'
+last_updated: '2026-07-13'
 internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum rivale (its species-specific
   literature is thin - phytochem-heavy) + 8 clearly-labelled Geum urbanum (wood avens) congener refs supplying
   the antimicrobial/anticancer/antiviral/antidiabetic pharmacology. >=15 total met via genuine + labelled
@@ -354,4 +360,6 @@ internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum 
   policy). Research-workflow leads (wf_25f58939-508) self-verified because the adversarial-verify stage
   failed on the session limit; exact titles pulled from PubMed metadata. Signature: eugenol clove-scented
   ''chocolate root''. Cross-links: potentilla-erecta + agrimonia-eupatoria (Rosaceae astringents), filipendula-ulmaria
-  (shared ellagitannins). lookalikes none-known (distinctive nodding purple-pink bell flowers).'
+  (shared ellagitannins). lookalikes none-known (distinctive nodding purple-pink bell flowers). | 2026-07-13:
+  added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
+  from the plant''s cited literature, as part of the cancer-condition campaign.'

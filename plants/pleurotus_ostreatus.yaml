@@ -133,6 +133,14 @@ indications:
   - REF-0102
   - REF-0300
   status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-1498
+  - REF-1499
+  - REF-2596
+  - REF-2598
+  status: needs-review
 - condition: cardiovascular-support
   reference_ids:
   - REF-0102
@@ -249,7 +257,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-13'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -261,4 +269,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields; botanical_description/habitat are status:draft (well-known general mycological
   facts, no dedicated review in the largely-bioactivity-focused bucket, mirrors the ganoderma-lingzhi
   fungal-field pattern from an earlier batch), other fields cite the existing immunity/polysaccharide
-  reviews (REF-1496, REF-1500, REF-1502, REF-1504, REF-1505).'
+  reviews (REF-1496, REF-1500, REF-1502, REF-1504, REF-1505). | 2026-07-13: added anticancer action (where
+  absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature,
+  as part of the cancer-condition campaign.'

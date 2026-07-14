@@ -7092,6 +7092,27 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2781"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2780",
+      "REF-2781"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 2,
@@ -7144,17 +7165,6 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2780",
-      "REF-2781"
-     ]
-    },
-    {
      "condition": "liver-support",
      "label": "Liver support",
      "evidence": 2,
@@ -7172,16 +7182,6 @@
      "inferred": false,
      "references": [
       "REF-2785"
-     ]
-    },
-    {
-     "condition": "diarrhea",
-     "label": "Diarrhoea",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2781"
      ]
     }
    ]
@@ -9836,17 +9836,6 @@
      ]
     },
     {
-     "condition": "kidney-support",
-     "label": "Kidney support",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2748",
-      "REF-2753"
-     ]
-    },
-    {
      "condition": "pain",
      "label": "Pain (general)",
      "evidence": 2,
@@ -9865,16 +9854,6 @@
      "references": [
       "REF-2757",
       "REF-2748"
-     ]
-    },
-    {
-     "condition": "swelling",
-     "label": "Swelling / fluid retention",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2753"
      ]
     },
     {
@@ -9907,6 +9886,27 @@
      "inferred": false,
      "references": [
       "REF-2756"
+     ]
+    },
+    {
+     "condition": "kidney-support",
+     "label": "Kidney support",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2748",
+      "REF-2753"
+     ]
+    },
+    {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2753"
      ]
     }
    ]
@@ -21442,6 +21442,68 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "bloating",
+     "label": "Bloating",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708",
+      "REF-2710"
+     ]
+    },
+    {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2708",
+      "REF-2712"
+     ]
+    },
+    {
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 2,
@@ -21482,17 +21544,6 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2708",
-      "REF-2710"
-     ]
-    },
-    {
      "condition": "kidney-support",
      "label": "Kidney support",
      "evidence": 2,
@@ -21515,17 +21566,6 @@
      ]
     },
     {
-     "condition": "urinary-support",
-     "label": "Urinary support",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2708",
-      "REF-2712"
-     ]
-    },
-    {
      "condition": "wounds",
      "label": "Wounds",
      "evidence": 2,
@@ -21533,46 +21573,6 @@
      "inferred": false,
      "references": [
       "REF-2718"
-     ]
-    },
-    {
-     "condition": "bloating",
-     "label": "Bloating",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2708"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2708"
-     ]
-    },
-    {
-     "condition": "swelling",
-     "label": "Swelling / fluid retention",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2708"
-     ]
-    },
-    {
-     "condition": "uti",
-     "label": "Urinary tract infection (UTI)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2708"
      ]
     }
    ]
@@ -22565,7 +22565,7 @@
     {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
-     "evidence": 2,
+     "evidence": 5,
      "status": "needs-review",
      "inferred": true,
      "references": [

@@ -8568,9 +8568,15 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0736"
+      "REF-0736",
+      "REF-0402",
+      "REF-2868",
+      "REF-2869",
+      "REF-2870",
+      "REF-0401"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Astragalus membranaceus and its constituents (astragaloside IV, cycloastragenol, Astragalus polysaccharide) inhibit tumour growth, invasion and metastasis and enhance antitumour immunity across lung, colorectal and gastrointestinal cancers (preclinical, incl. in vivo)."
     },
     {
      "action": "antioxidant",
@@ -8619,12 +8625,17 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Astragalus membranaceus protects against gastrointestinal cancers; astragaloside IV inhibits lung cancer metastasis via macrophage repolarization, cycloastragenol boosts CD8+ T-cell antitumour immunity (with anti-PD-1 synergy), and Astragalus polysaccharide suppresses inflammation-induced colorectal cancer (preclinical).",
      "reference_ids": [
-      "REF-0736"
+      "REF-0736",
+      "REF-0402",
+      "REF-2868",
+      "REF-2869",
+      "REF-2870",
+      "REF-0401"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -8881,6 +8892,16 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "note": "Bacopa monnieri (Brahmi) extract and its saponins (bacopaside II, bacopasaponins) inhibit proliferation and induce apoptosis in colon and lung cancer cells (preclinical).",
+     "reference_ids": [
+      "REF-0742",
+      "REF-2871",
+      "REF-2872"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antioxidant",
      "reference_ids": [
       "REF-0309",
@@ -8925,6 +8946,18 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Arthritis / joint pain"
+    },
+    {
+     "condition": "cancer",
+     "note": "Bacopaside II from Bacopa monnieri inhibits colon cancer cell growth via cell-cycle arrest and apoptosis (aquaporin-1 blockade), and its bacopasaponins are cytotoxic to lung (PC9) and colon (SW620) cancer cells (preclinical).",
+     "reference_ids": [
+      "REF-0742",
+      "REF-2871",
+      "REF-2872"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cognitive-function",
@@ -9643,9 +9676,11 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-2122"
+      "REF-2122",
+      "REF-2123"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Bistorta officinalis (Polygonum bistorta) rhizome extract, rich in gallotannins and phenolic acids, shows cytotoxic and pro-apoptotic activity against hepatocellular and other cancer cells (preclinical)."
     },
     {
      "action": "antidiarrheal",
@@ -9721,9 +9756,10 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Polygonum bistorta (Bistorta officinalis) methanol-water and aqueous extracts inhibit hepatocellular carcinoma cells via ROS-induced ER stress and apoptosis (delaying xenograft tumour growth), with phenolic constituents driving the cytotoxicity (preclinical).",
      "reference_ids": [
-      "REF-2122"
+      "REF-2122",
+      "REF-2123"
      ],
      "status": "needs-review",
      "evidence": 2,

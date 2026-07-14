@@ -15,7 +15,12 @@ Status values: `done-enriched` | `done-no-fit` | `needs-deeper-look` | `pending`
 
 **Session 1 (2026-07-14):** reviewed 15 plants (achillea → arctium, alphabetical). 14 enriched, 1 no-fit
 (aegopodium). 41 new sources added (REF-2821..REF-2861) + several existing refs reused. Cancer-condition
-plant count 82 → 89. Next session resumes at `arctostaphylos_uva_ursi` (172 plants still unreviewed).
+plant count 82 → 89.
+
+**Session 2 (2026-07-15):** reviewed 10 plants (arctium_minus → bistorta). 9 enriched, 1 no-fit
+(asclepias_tuberosa). 11 new sources (REF-2862..REF-2872) + many existing refs reused (pass-1's ≥15-pub
+campaign had already added several to the bib — always dedup by DOI/PMID first). Cancer-condition plant
+count 89 → 92. Next session resumes at `borago_officinalis` (162 plants still unreviewed).
 
 | plant_id | status | citations_added | date | notes |
 |----------|--------|-----------------|------|-------|
@@ -39,3 +44,8 @@ plant count 82 → 89. Next session resumes at `arctostaphylos_uva_ursi` (172 pl
 | arnica_montana | done-enriched | 2 new (REF-2864/2865; +existing REF-2104) = 3 total | 2026-07-15 | Strengthened (pass-1 had 1). Two dedicated helenalin (Arnica sesquiterpene lactone) anticancer reviews — NF-κB p65 inhibition, apoptosis, in-vivo, drug synergy. Rejected: Arnica trauma/homeopathy pain review, helenalin-analog p65 chemical-biology paper (synthetic). |
 | artemisia_absinthium | done-enriched | 2 new (REF-2866/2867; +reused REF-0728 review) = 3 total | 2026-07-15 | NEW cancer entry. Wormwood total flavonoids (cynaroside/astragalin) vs HeLa cervical (ROS apoptosis) + α,β-thujone vs choriocarcinoma (caspase apoptosis, paclitaxel synergy) + reused wormwood review. Rejected: neuroprotection (quinolinic-acid, 6-OHDA Parkinson's), umbelliprenin (a Ferula compound), genus-level Artemisia review. |
 | artemisia_vulgaris | done-enriched | 2 reused (REF-1941/0733; +existing REF-1942/1943) = 4 total | 2026-07-15 | Strengthened (pass-1 had 2 CML studies). Attached 2 already-in-bib mugwort refs: tumour-selective ferroptosis/necroptosis (breast/CML, lysosomal Ca²⁺) + pharmacology review documenting antitumoral activity. |
+| asclepias_tuberosa | done-no-fit | 0 | 2026-07-15 | Reviewed — no genuine anticancer fit. Only 5 hits total: corneal-toxicity case report, aphid/cardenolide ecology, monarch-butterfly gardening, and an untested cardenolide-glycoside phytochemistry paper. Cardenolides present but never tested for anticancer in this species. |
+| astragalus_membranaceus | done-enriched | 3 new + 2 reused (REF-2868..2870, REF-0401/0402; +existing REF-0736) = 6 total | 2026-07-15 | Strengthened (pass-1 had 1). Added astragaloside IV (lung metastasis, in vivo), cycloastragenol (CD8+ immunity + anti-PD-1, in vivo/organoid), APS (inflammation-induced CRC, in vivo) + reused astragaloside/APS reviews. Rejected: formononetin-for-PCOS (benign). |
+| bacopa_monnieri | done-enriched | 2 new (REF-2871/2872; +reused REF-0742 review) = 3 total | 2026-07-15 | NEW cancer entry. Bacopaside II (colon, AQP1/cell-cycle/apoptosis) + bacopasaponins (PC9 lung, SW620 colon cytotoxicity) + reused BME anticancer review. Rejected: BM neuroprotection/cognition systematic review (not cancer). |
+| betula_pendula | done-enriched | 0 (already 6: REF-0080/0188/0203/1695/1696/1697) | 2026-07-15 | Confirmed already well-sourced from a prior campaign (betulinic acid — 6 refs, meets ≥6). No change needed. |
+| bistorta_officinalis | done-enriched | 1 reused (REF-2123; +existing REF-2122) = 2 total | 2026-07-15 | Strengthened (pass-1 had 1). Attached already-in-bib P. bistorta hepatoma ER-stress/apoptosis xenograft study. Rejected: ZnO-nanoparticle green-synthesis (activity = NPs), bistort topical anti-inflammatory (healthy-cell apoptosis), Persicaria odorata (different species), emodin/aloe-emodin genus-noise. |

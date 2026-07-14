@@ -92,6 +92,14 @@ actions:
   - REF-0309
   - REF-2112
   status: verified
+- action: anticancer
+  note: Bacopa monnieri (Brahmi) extract and its saponins (bacopaside II, bacopasaponins) inhibit proliferation
+    and induce apoptosis in colon and lung cancer cells (preclinical).
+  reference_ids:
+  - REF-0742
+  - REF-2871
+  - REF-2872
+  status: needs-review
 - action: antioxidant
   reference_ids:
   - REF-0309
@@ -122,6 +130,15 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0309
+  status: needs-review
+- condition: cancer
+  note: Bacopaside II from Bacopa monnieri inhibits colon cancer cell growth via cell-cycle arrest and
+    apoptosis (aquaporin-1 blockade), and its bacopasaponins are cytotoxic to lung (PC9) and colon (SW620)
+    cancer cells (preclinical).
+  reference_ids:
+  - REF-0742
+  - REF-2871
+  - REF-2872
   status: needs-review
 - condition: cognitive-function
   note: inferred from neuroprotective action

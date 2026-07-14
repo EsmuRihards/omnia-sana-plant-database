@@ -2364,6 +2364,21 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0736",
+      "REF-0402",
+      "REF-2868",
+      "REF-2869",
+      "REF-2870",
+      "REF-0401"
+     ]
+    },
+    {
      "condition": "cold",
      "label": "Cold & flu",
      "evidence": 2,
@@ -2402,16 +2417,6 @@
      "inferred": true,
      "references": [
       "REF-0402"
-     ]
-    },
-    {
-     "condition": "cancer",
-     "label": "Cancer (anticancer research)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0736"
      ]
     },
     {
@@ -3192,7 +3197,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-2122"
+      "REF-2122",
+      "REF-2123"
      ]
     },
     {
@@ -21092,6 +21098,18 @@
       "REF-0038",
       "REF-0283",
       "REF-0309"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0742",
+      "REF-2871",
+      "REF-2872"
      ]
     },
     {

@@ -103,7 +103,10 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-2122
+  - REF-2123
   status: needs-review
+  note: Bistorta officinalis (Polygonum bistorta) rhizome extract, rich in gallotannins and phenolic acids,
+    shows cytotoxic and pro-apoptotic activity against hepatocellular and other cancer cells (preclinical).
 - action: antidiarrheal
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)
   reference_ids:
@@ -151,9 +154,12 @@ indications:
   - REF-0411
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Polygonum bistorta (Bistorta officinalis) methanol-water and aqueous extracts inhibit hepatocellular
+    carcinoma cells via ROS-induced ER stress and apoptosis (delaying xenograft tumour growth), with phenolic
+    constituents driving the cytotoxicity (preclinical).
   reference_ids:
   - REF-2122
+  - REF-2123
   status: needs-review
 - condition: diarrhea
   note: Astringent for mild diarrhoea (tannins tighten the gut lining and reduce excess secretion)

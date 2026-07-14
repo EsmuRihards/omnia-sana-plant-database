@@ -111,7 +111,15 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-0736
+  - REF-0402
+  - REF-2868
+  - REF-2869
+  - REF-2870
+  - REF-0401
   status: needs-review
+  note: Astragalus membranaceus and its constituents (astragaloside IV, cycloastragenol, Astragalus polysaccharide)
+    inhibit tumour growth, invasion and metastasis and enhance antitumour immunity across lung, colorectal
+    and gastrointestinal cancers (preclinical, incl. in vivo).
 - action: antioxidant
   note: Antioxidant and anti-inflammatory
   reference_ids:
@@ -144,9 +152,17 @@ indications:
   - REF-0402
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Astragalus membranaceus protects against gastrointestinal cancers; astragaloside IV inhibits lung
+    cancer metastasis via macrophage repolarization, cycloastragenol boosts CD8+ T-cell antitumour immunity
+    (with anti-PD-1 synergy), and Astragalus polysaccharide suppresses inflammation-induced colorectal
+    cancer (preclinical).
   reference_ids:
   - REF-0736
+  - REF-0402
+  - REF-2868
+  - REF-2869
+  - REF-2870
+  - REF-0401
   status: needs-review
 - condition: cold
   note: Supports resistance to colds and respiratory infection (immune)

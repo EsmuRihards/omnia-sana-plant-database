@@ -98,6 +98,14 @@ actions:
   - REF-0112
   - REF-1776
   status: verified
+- action: anticancer
+  note: Artemisia absinthium (wormwood) total flavonoids and its constituent alpha/beta-thujone induce
+    ROS- and caspase-mediated apoptosis in cervical and choriocarcinoma cancer cells (preclinical).
+  reference_ids:
+  - REF-2866
+  - REF-2867
+  - REF-0728
+  status: needs-review
 - action: antidiabetic
   reference_ids:
   - REF-0098
@@ -154,6 +162,15 @@ indications:
   reference_ids:
   - REF-0098
   - REF-0112
+  status: needs-review
+- condition: cancer
+  note: Artemisia absinthium (wormwood) total flavonoids (cynaroside, astragalin) inhibit HeLa cervical
+    cancer cells via ROS-mediated apoptosis, and its terpenoid alpha,beta-thujone induces caspase-dependent
+    apoptosis in choriocarcinoma cells and sensitizes them to paclitaxel (preclinical).
+  reference_ids:
+  - REF-2866
+  - REF-2867
+  - REF-0728
   status: needs-review
 - condition: indigestion
   note: inferred from digestive action

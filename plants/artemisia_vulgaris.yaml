@@ -111,7 +111,11 @@ actions:
   reference_ids:
   - REF-1942
   - REF-1943
+  - REF-1941
+  - REF-0733
   status: needs-review
+  note: Artemisia vulgaris (mugwort) extracts inhibit BCR/ABL and induce apoptosis, ferroptosis and necroptosis
+    in chronic myeloid leukaemia and breast cancer cells (preclinical).
 - action: antimicrobial
   reference_ids:
   - REF-0023
@@ -163,10 +167,14 @@ indications:
   - REF-0149
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Artemisia vulgaris (mugwort) extracts inhibit BCR/ABL and induce apoptosis in chronic myeloid
+    leukaemia cells (including imatinib-resistant), and trigger tumour-selective ferroptosis/necroptosis
+    in breast cancer and leukaemia cells via lysosomal Ca2+ signalling (preclinical).
   reference_ids:
   - REF-1942
   - REF-1943
+  - REF-1941
+  - REF-0733
   status: needs-review
 - condition: indigestion
   note: inferred from digestive action

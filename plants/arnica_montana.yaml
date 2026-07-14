@@ -122,7 +122,12 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-2104
+  - REF-2864
+  - REF-2865
   status: needs-review
+  note: Helenalin, the sesquiterpene lactone of Arnica montana, shows anticancer activity against multiple
+    tumour types in vitro and in vivo, largely by covalently inhibiting NF-kappaB p65 and inducing apoptosis
+    (preclinical).
 - action: antimicrobial
   note: Antimicrobial and antioxidant (in vitro)
   reference_ids:
@@ -164,9 +169,13 @@ indications:
   - REF-0399
   status: verified
 - condition: cancer
-  note: inferred from anticancer action
+  note: Arnica montana and its constituent helenalin exert anticancer activity against several tumour
+    types in vitro and in vivo, inhibiting NF-kappaB (p65) signalling, inducing apoptosis and synergizing
+    with other anticancer agents (preclinical).
   reference_ids:
   - REF-2104
+  - REF-2864
+  - REF-2865
   status: needs-review
 - condition: headache
   note: inferred from analgesic action

@@ -6402,9 +6402,12 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-1931"
+      "REF-1931",
+      "REF-1926",
+      "REF-1927"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Lesser burdock (Arctium minus) leaf, flower and root extracts (rich in arctiin/arctigenin and chlorogenic acid) are cytotoxic to breast and liver cancer cells, including multidrug-resistant tumour lines (preclinical)."
     },
     {
      "action": "antioxidant",
@@ -6452,9 +6455,11 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Arctium minus extracts show dose-dependent cytotoxicity against MCF-7 and MDA-MB-231 breast cancer and HepG2 liver cancer cells and are active against both sensitive and multidrug-resistant tumour cell lines (preclinical).",
      "reference_ids": [
-      "REF-1931"
+      "REF-1931",
+      "REF-1926",
+      "REF-1927"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -6747,6 +6752,15 @@
    ],
    "actions": [
     {
+     "action": "anticancer",
+     "note": "Arbutin, the hydroquinone glucoside characteristic of bearberry (Arctostaphylos uva-ursi), shows antiproliferative and pro-apoptotic activity across multiple cancer types (preclinical).",
+     "reference_ids": [
+      "REF-2862",
+      "REF-2863"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "note": "Antibacterial in the urinary tract (arbutin is converted to antibacterial hydroquinone, favoured by alkaline urine); Urinary antiseptic for mild, uncomplicated lower urinary tract infection / cystitis (short-term)",
      "reference_ids": [
@@ -6783,6 +6797,17 @@
     }
    ],
    "indications": [
+    {
+     "condition": "cancer",
+     "note": "The bearberry constituent arbutin suppresses osteosarcoma proliferation, migration and invasion via miR-338-3p/MTHFD1L and AKT/mTOR inactivation, and has documented anticancer potential against bladder, breast, colon, liver and other cancers (preclinical).",
+     "reference_ids": [
+      "REF-2862",
+      "REF-2863"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
+    },
     {
      "condition": "diarrhea",
      "note": "inferred from astringent action",
@@ -7091,9 +7116,12 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-2104"
+      "REF-2104",
+      "REF-2864",
+      "REF-2865"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Helenalin, the sesquiterpene lactone of Arnica montana, shows anticancer activity against multiple tumour types in vitro and in vivo, largely by covalently inhibiting NF-kappaB p65 and inducing apoptosis (preclinical)."
     },
     {
      "action": "antimicrobial",
@@ -7161,9 +7189,11 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Arnica montana and its constituent helenalin exert anticancer activity against several tumour types in vitro and in vivo, inhibiting NF-kappaB (p65) signalling, inducing apoptosis and synergizing with other anticancer agents (preclinical).",
      "reference_ids": [
-      "REF-2104"
+      "REF-2104",
+      "REF-2864",
+      "REF-2865"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -7446,6 +7476,16 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "note": "Artemisia absinthium (wormwood) total flavonoids and its constituent alpha/beta-thujone induce ROS- and caspase-mediated apoptosis in cervical and choriocarcinoma cancer cells (preclinical).",
+     "reference_ids": [
+      "REF-2866",
+      "REF-2867",
+      "REF-0728"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiabetic",
      "reference_ids": [
       "REF-0098",
@@ -7532,6 +7572,18 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cancer",
+     "note": "Artemisia absinthium (wormwood) total flavonoids (cynaroside, astragalin) inhibit HeLa cervical cancer cells via ROS-mediated apoptosis, and its terpenoid alpha,beta-thujone induces caspase-dependent apoptosis in choriocarcinoma cells and sensitizes them to paclitaxel (preclinical).",
+     "reference_ids": [
+      "REF-2866",
+      "REF-2867",
+      "REF-0728"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "indigestion",
@@ -7807,9 +7859,12 @@
      "action": "anticancer",
      "reference_ids": [
       "REF-1942",
-      "REF-1943"
+      "REF-1943",
+      "REF-1941",
+      "REF-0733"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Artemisia vulgaris (mugwort) extracts inhibit BCR/ABL and induce apoptosis, ferroptosis and necroptosis in chronic myeloid leukaemia and breast cancer cells (preclinical)."
     },
     {
      "action": "antimicrobial",
@@ -7889,10 +7944,12 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Artemisia vulgaris (mugwort) extracts inhibit BCR/ABL and induce apoptosis in chronic myeloid leukaemia cells (including imatinib-resistant), and trigger tumour-selective ferroptosis/necroptosis in breast cancer and leukaemia cells via lysosomal Ca2+ signalling (preclinical).",
      "reference_ids": [
       "REF-1942",
-      "REF-1943"
+      "REF-1943",
+      "REF-1941",
+      "REF-0733"
      ],
      "status": "needs-review",
      "evidence": 2,

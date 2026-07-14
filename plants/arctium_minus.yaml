@@ -115,7 +115,12 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-1931
+  - REF-1926
+  - REF-1927
   status: needs-review
+  note: Lesser burdock (Arctium minus) leaf, flower and root extracts (rich in arctiin/arctigenin and
+    chlorogenic acid) are cytotoxic to breast and liver cancer cells, including multidrug-resistant tumour
+    lines (preclinical).
 - action: antioxidant
   note: Anti-inflammatory and antioxidant
   reference_ids:
@@ -145,9 +150,13 @@ indications:
   - REF-0476
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Arctium minus extracts show dose-dependent cytotoxicity against MCF-7 and MDA-MB-231 breast cancer
+    and HepG2 liver cancer cells and are active against both sensitive and multidrug-resistant tumour
+    cell lines (preclinical).
   reference_ids:
   - REF-1931
+  - REF-1926
+  - REF-1927
   status: needs-review
 - condition: detox
   note: Mild diuretic supporting elimination ('detox', traditional); Traditional 'alterative' / depurative

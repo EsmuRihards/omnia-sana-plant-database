@@ -1989,7 +1989,9 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-2104"
+      "REF-2104",
+      "REF-2864",
+      "REF-2865"
      ]
     },
     {
@@ -2835,6 +2837,17 @@
       "REF-0700",
       "REF-0701",
       "REF-0702"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2862",
+      "REF-2863"
      ]
     },
     {
@@ -13858,7 +13871,9 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-1931"
+      "REF-1931",
+      "REF-1926",
+      "REF-1927"
      ]
     },
     {
@@ -15539,7 +15554,9 @@
      "inferred": true,
      "references": [
       "REF-1942",
-      "REF-1943"
+      "REF-1943",
+      "REF-1941",
+      "REF-0733"
      ]
     },
     {
@@ -22136,6 +22153,18 @@
    "common_slug": "wormwood",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2866",
+      "REF-2867",
+      "REF-0728"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",

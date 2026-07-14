@@ -96,6 +96,13 @@ actions:
   - REF-0310
   - REF-1392
   status: verified
+- action: anticancer
+  note: Anethum graveolens (dill) extract and essential oil induce ROS-mediated apoptosis in melanoma
+    and lung adenocarcinoma cells (preclinical).
+  reference_ids:
+  - REF-2854
+  - REF-2855
+  status: needs-review
 - action: antimicrobial
   reference_ids:
   - REF-0064
@@ -153,6 +160,14 @@ indications:
   - REF-0174
   - REF-0210
   - REF-0310
+  status: needs-review
+- condition: cancer
+  note: Anethum graveolens (dill) extract induces ROS-mediated apoptosis in HT-144 melanoma cells, and
+    its essential oil is selectively cytotoxic and pro-apoptotic against A549 lung adenocarcinoma cells
+    (preclinical).
+  reference_ids:
+  - REF-2854
+  - REF-2855
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:

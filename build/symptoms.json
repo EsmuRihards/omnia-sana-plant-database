@@ -1444,6 +1444,18 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2851",
+      "REF-2852",
+      "REF-2853"
+     ]
+    },
+    {
      "condition": "fever",
      "label": "Fever",
      "evidence": 2,
@@ -1508,6 +1520,17 @@
       "REF-0397",
       "REF-0695",
       "REF-0696"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2856",
+      "REF-2857"
      ]
     },
     {
@@ -8636,6 +8659,17 @@
       "REF-0210",
       "REF-0310"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2854",
+      "REF-2855"
+     ]
     }
    ]
   },
@@ -11377,7 +11411,11 @@
      "inferred": true,
      "references": [
       "REF-0708",
-      "REF-2342"
+      "REF-2342",
+      "REF-2858",
+      "REF-2859",
+      "REF-2860",
+      "REF-2861"
      ]
     },
     {
@@ -14907,6 +14945,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1371",
+      "REF-1369"
+     ]
+    },
+    {
      "condition": "cough",
      "label": "Cough",
      "evidence": 7,
@@ -14941,16 +14990,6 @@
       "REF-0482",
       "REF-1370",
       "REF-1373"
-     ]
-    },
-    {
-     "condition": "cancer",
-     "label": "Cancer (anticancer research)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1371"
      ]
     },
     {

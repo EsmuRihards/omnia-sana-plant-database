@@ -100,7 +100,10 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-1371
+  - REF-1369
   status: needs-review
+  note: Althaea officinalis root extract and its polysaccharides show chemopreventive/anticancer activity,
+    including protection against chemically induced hepatocarcinogenesis (preclinical).
 - action: antitussive
   note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses
     the cough reflex dose-dependently, comparably to codeine, via 5-HT2 receptors rather than bronchodilation
@@ -135,9 +138,11 @@ indications:
   - REF-0481
   status: verified
 - condition: cancer
-  note: inferred from anticancer action
+  note: Althaea officinalis extract is chemoprotective against N-diethylnitrosamine-induced liver carcinogenesis,
+    and marshmallow polysaccharides show documented anticancer activity (preclinical/chemopreventive).
   reference_ids:
   - REF-1371
+  - REF-1369
   status: needs-review
 - condition: cough
   note: Antitussive (calms dry, irritating cough) - in animal studies the root rhamnogalacturonan suppresses

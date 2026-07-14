@@ -116,7 +116,14 @@ actions:
   reference_ids:
   - REF-0708
   - REF-2342
+  - REF-2858
+  - REF-2859
+  - REF-2860
+  - REF-2861
   status: needs-review
+  note: Burdock (Arctium lappa) extracts and the lignan arctigenin inhibit proliferation and induce apoptosis
+    in colon, breast, lung and gastric cancer cells, attenuate melanoma progression and reduce preneoplastic
+    colon lesions in vivo (preclinical).
 - action: antioxidant
   reference_ids:
   - REF-0211
@@ -166,10 +173,16 @@ indications:
   - REF-0707
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Arctium lappa root reduces diet-induced preneoplastic colon lesions and suppresses melanoma progression;
+    its lignan arctigenin induces apoptosis in colon (HT-29), breast (in vitro/in vivo), lung and gastric
+    cancer cells and chemosensitizes them to doxorubicin (preclinical).
   reference_ids:
   - REF-0708
   - REF-2342
+  - REF-2858
+  - REF-2859
+  - REF-2860
+  - REF-2861
   status: needs-review
 - condition: eczema
   note: inferred from emollient action

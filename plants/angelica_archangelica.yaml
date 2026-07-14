@@ -124,6 +124,13 @@ actions:
   - REF-0696
   - REF-2411
   status: verified
+- action: anticancer
+  note: Angelica archangelica fruit tincture and its furanocoumarins (imperatorin, xanthotoxin) show antiproliferative
+    activity against pancreatic and larynx cancer and rhabdomyosarcoma cells (preclinical).
+  reference_ids:
+  - REF-2856
+  - REF-2857
+  status: needs-review
 - action: anticonvulsant
   parts:
   - Fruit and seed
@@ -244,6 +251,14 @@ indications:
   note: inferred from expectorant action
   reference_ids:
   - REF-0396
+  status: needs-review
+- condition: cancer
+  note: Angelica archangelica fruit tincture is antiproliferative against PANC-1 pancreatic cancer cells;
+    its furanocoumarins imperatorin and xanthotoxin drive this activity and inhibit larynx cancer and
+    rhabdomyosarcoma cell growth (preclinical).
+  reference_ids:
+  - REF-2856
+  - REF-2857
   status: needs-review
 - condition: cognitive-function
   note: inferred from neuroprotective action

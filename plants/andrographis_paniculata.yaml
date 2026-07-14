@@ -110,6 +110,15 @@ actions:
   - REF-1621
   - REF-1623
   status: verified
+- action: anticancer
+  note: Andrographolide, the principal diterpene lactone of Andrographis paniculata, suppresses proliferation
+    and induces apoptosis across breast, lung, colon, cervical, hepatic and haematological cancers via
+    NF-kappaB and PI3K/Akt inhibition (preclinical).
+  reference_ids:
+  - REF-2851
+  - REF-2852
+  - REF-2853
+  status: needs-review
 - action: antimicrobial
   note: Antimicrobial and antiviral
   reference_ids:
@@ -146,6 +155,15 @@ indications:
   reference_ids:
   - REF-0393
   - REF-0394
+  status: needs-review
+- condition: cancer
+  note: Andrographolide (from Andrographis paniculata) acts as a chemopreventive and antitumour agent
+    against breast, lung, colorectal, cervical, prostate and hepatocellular cancers and leukaemia, inducing
+    apoptosis and inhibiting NF-kappaB and PI3K/AKT signalling (preclinical).
+  reference_ids:
+  - REF-2851
+  - REF-2852
+  - REF-2853
   status: needs-review
 - condition: cold
   note: Symptomatic relief of the common cold and acute upper respiratory tract infection (reduces symptom

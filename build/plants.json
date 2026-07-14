@@ -2145,6 +2145,14 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "note": "Agrimonia eupatoria ethanolic extract is cytotoxic to breast, colon, lung and cervical cancer cells and inhibits the PI3K/Akt/mTOR pathway (preclinical/in silico).",
+     "reference_ids": [
+      "REF-2836"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antidiarrheal",
      "note": "Astringent (relief of mild diarrhoea)",
      "reference_ids": [
@@ -2262,6 +2270,16 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "Agrimonia eupatoria ethanolic extract shows dose-dependent cytotoxicity against MCF-7 (breast), HT-29 (colon), A549 (lung) and HeLa (cervical) cancer cells and inhibits the PI3K/Akt/mTOR/COX-2/MMP-2 axis (preclinical).",
+     "reference_ids": [
+      "REF-2836"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "diarrhea",
@@ -2519,9 +2537,11 @@
      "reference_ids": [
       "REF-0686",
       "REF-0687",
-      "REF-0688"
+      "REF-0688",
+      "REF-2837"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Alchemilla vulgaris extracts (aerial parts and root) show antioxidant, genoprotective and antitumor activity against multiple human cancer cell lines (preclinical)."
     },
     {
      "action": "antioxidant",
@@ -2576,11 +2596,12 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Alchemilla vulgaris extracts suppress the growth of MCF-7, A375, A549, HCT116 (aerial parts) and PC-3, MCF-7, Caco-2 (root) cancer cells via caspase-dependent apoptosis and autophagy, while protecting normal cells (preclinical).",
      "reference_ids": [
       "REF-0686",
       "REF-0687",
-      "REF-0688"
+      "REF-0688",
+      "REF-2837"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -2811,9 +2832,15 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0312"
+      "REF-0312",
+      "REF-2838",
+      "REF-2839",
+      "REF-2840",
+      "REF-2841",
+      "REF-2842"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Garlic organosulfur compounds (allicin, diallyl trisulfide, ajoene, S-allylcysteine) induce apoptosis and cell-cycle arrest and inhibit proliferation, invasion and metastasis across leukaemia, breast, colon and other cancers (preclinical); a randomized trial found garlic supplementation reduced gastric-cancer mortality."
     },
     {
      "action": "antidiabetic",
@@ -2927,12 +2954,17 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Garlic and its organosulfur compounds show broad preclinical anticancer/chemopreventive activity (apoptosis, cell-cycle arrest, anti-invasion); in the randomized Shandong Intervention Trial, 7 years of garlic supplementation significantly reduced gastric-cancer mortality over 22-year follow-up (preclinical + RCT).",
      "reference_ids": [
-      "REF-0312"
+      "REF-0312",
+      "REF-2838",
+      "REF-2839",
+      "REF-2840",
+      "REF-2841",
+      "REF-2842"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 5,
      "label": "Cancer (anticancer research)"
     },
     {
@@ -3426,6 +3458,19 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "note": "Aloe vera and its anthraquinone aloe-emodin show dose-dependent antiproliferative and pro-apoptotic activity against multiple cancer types in vitro and in vivo (preclinical).",
+     "reference_ids": [
+      "REF-2843",
+      "REF-2844",
+      "REF-2845",
+      "REF-2846",
+      "REF-2847",
+      "REF-2848"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0042",
@@ -3528,6 +3573,21 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "Aloe-emodin, an Aloe vera anthraquinone, induces apoptosis and inhibits growth of gastric, oral squamous, hepatocellular, lung (incl. xenograft) and glioblastoma cancer cells, modulating caspases, Bcl-2/Bax, PI3K/Akt and MEK/ERK signalling (preclinical).",
+     "reference_ids": [
+      "REF-2843",
+      "REF-2844",
+      "REF-2845",
+      "REF-2846",
+      "REF-2847",
+      "REF-2848"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "eczema",
@@ -3875,9 +3935,13 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-0693"
+      "REF-0693",
+      "REF-0474",
+      "REF-2849",
+      "REF-2850"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Aloysia citrodora (lemon verbena) essential oil and extracts inhibit growth and migration of breast cancer and melanoma cells and reduce tumour size in vivo (preclinical)."
     },
     {
      "action": "antioxidant",
@@ -3966,12 +4030,15 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Lemon verbena (Aloysia citrodora) essential oil and extracts show antiproliferative and pro-apoptotic activity against breast cancer and melanoma cells in vitro and reduce tumour growth in mouse models (targeting HB-EGF/EGFR and ERK signalling) (preclinical).",
      "reference_ids": [
-      "REF-0693"
+      "REF-0693",
+      "REF-0474",
+      "REF-2849",
+      "REF-2850"
      ],
      "status": "needs-review",
-     "evidence": 2,
+     "evidence": 7,
      "label": "Cancer (anticancer research)"
     },
     {

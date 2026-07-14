@@ -911,6 +911,16 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2836"
+     ]
+    },
+    {
      "condition": "indigestion",
      "label": "Indigestion",
      "evidence": 2,
@@ -1092,6 +1102,21 @@
    "common_slug": "aloe-vera",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2843",
+      "REF-2844",
+      "REF-2845",
+      "REF-2846",
+      "REF-2847",
+      "REF-2848"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
@@ -10454,11 +10479,16 @@
     {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
-     "evidence": 1,
+     "evidence": 5,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0312"
+      "REF-0312",
+      "REF-2838",
+      "REF-2839",
+      "REF-2840",
+      "REF-2841",
+      "REF-2842"
      ]
     }
    ]
@@ -13313,7 +13343,8 @@
      "references": [
       "REF-0686",
       "REF-0687",
-      "REF-0688"
+      "REF-0688",
+      "REF-2837"
      ]
     },
     {
@@ -13729,6 +13760,19 @@
      ]
     },
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0693",
+      "REF-0474",
+      "REF-2849",
+      "REF-2850"
+     ]
+    },
+    {
      "condition": "indigestion",
      "label": "Indigestion",
      "evidence": 7,
@@ -13758,16 +13802,6 @@
      "references": [
       "REF-0474",
       "REF-0692"
-     ]
-    },
-    {
-     "condition": "cancer",
-     "label": "Cancer (anticancer research)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0693"
      ]
     }
    ]

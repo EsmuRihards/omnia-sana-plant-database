@@ -110,7 +110,16 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-0312
+  - REF-2838
+  - REF-2839
+  - REF-2840
+  - REF-2841
+  - REF-2842
   status: needs-review
+  note: Garlic organosulfur compounds (allicin, diallyl trisulfide, ajoene, S-allylcysteine) induce apoptosis
+    and cell-cycle arrest and inhibit proliferation, invasion and metastasis across leukaemia, breast,
+    colon and other cancers (preclinical); a randomized trial found garlic supplementation reduced gastric-cancer
+    mortality.
 - action: antidiabetic
   reference_ids:
   - REF-0127
@@ -196,9 +205,17 @@ indications:
   - REF-2428
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Garlic and its organosulfur compounds show broad preclinical anticancer/chemopreventive activity
+    (apoptosis, cell-cycle arrest, anti-invasion); in the randomized Shandong Intervention Trial, 7 years
+    of garlic supplementation significantly reduced gastric-cancer mortality over 22-year follow-up (preclinical
+    + RCT).
   reference_ids:
   - REF-0312
+  - REF-2838
+  - REF-2839
+  - REF-2840
+  - REF-2841
+  - REF-2842
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:

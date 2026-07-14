@@ -103,7 +103,12 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-0693
+  - REF-0474
+  - REF-2849
+  - REF-2850
   status: needs-review
+  note: Aloysia citrodora (lemon verbena) essential oil and extracts inhibit growth and migration of breast
+    cancer and melanoma cells and reduce tumour size in vivo (preclinical).
 - action: antioxidant
   note: Antioxidant - supports muscle recovery and reduces exercise-induced muscle soreness and oxidative
     stress; a placebo-controlled RCT of a lemon verbena extract found less loss of muscle strength and
@@ -163,9 +168,14 @@ indications:
   - REF-0474
   status: verified
 - condition: cancer
-  note: inferred from anticancer action
+  note: Lemon verbena (Aloysia citrodora) essential oil and extracts show antiproliferative and pro-apoptotic
+    activity against breast cancer and melanoma cells in vitro and reduce tumour growth in mouse models
+    (targeting HB-EGF/EGFR and ERK signalling) (preclinical).
   reference_ids:
   - REF-0693
+  - REF-0474
+  - REF-2849
+  - REF-2850
   status: needs-review
 - condition: indigestion
   note: Carminative digestive aid (indigestion, flatulence)

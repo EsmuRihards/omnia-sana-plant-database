@@ -102,7 +102,10 @@ actions:
   - REF-0686
   - REF-0687
   - REF-0688
+  - REF-2837
   status: needs-review
+  note: Alchemilla vulgaris extracts (aerial parts and root) show antioxidant, genoprotective and antitumor
+    activity against multiple human cancer cell lines (preclinical).
 - action: antioxidant
   reference_ids:
   - REF-0113
@@ -138,11 +141,14 @@ indications:
   - REF-0208
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Alchemilla vulgaris extracts suppress the growth of MCF-7, A375, A549, HCT116 (aerial parts) and
+    PC-3, MCF-7, Caco-2 (root) cancer cells via caspase-dependent apoptosis and autophagy, while protecting
+    normal cells (preclinical).
   reference_ids:
   - REF-0686
   - REF-0687
   - REF-0688
+  - REF-2837
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action

@@ -124,6 +124,17 @@ actions:
   - REF-2243
   - REF-2244
   status: verified
+- action: anticancer
+  note: Aloe vera and its anthraquinone aloe-emodin show dose-dependent antiproliferative and pro-apoptotic
+    activity against multiple cancer types in vitro and in vivo (preclinical).
+  reference_ids:
+  - REF-2843
+  - REF-2844
+  - REF-2845
+  - REF-2846
+  - REF-2847
+  - REF-2848
+  status: needs-review
 - action: antimicrobial
   reference_ids:
   - REF-0042
@@ -202,6 +213,18 @@ indications:
   - REF-0261
   - REF-0284
   - REF-0290
+  status: needs-review
+- condition: cancer
+  note: Aloe-emodin, an Aloe vera anthraquinone, induces apoptosis and inhibits growth of gastric, oral
+    squamous, hepatocellular, lung (incl. xenograft) and glioblastoma cancer cells, modulating caspases,
+    Bcl-2/Bax, PI3K/Akt and MEK/ERK signalling (preclinical).
+  reference_ids:
+  - REF-2843
+  - REF-2844
+  - REF-2845
+  - REF-2846
+  - REF-2847
+  - REF-2848
   status: needs-review
 - condition: eczema
   note: inferred from emollient action

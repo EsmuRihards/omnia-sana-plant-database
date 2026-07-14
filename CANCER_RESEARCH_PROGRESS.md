@@ -14,7 +14,7 @@ throwaway-mention reviews, and nanoparticle-synthesis (herb = reducing agent onl
 Status values: `done-enriched` | `done-no-fit` | `needs-deeper-look` | `pending`
 
 **Session 1 (2026-07-14):** reviewed 15 plants (achillea → arctium, alphabetical). 14 enriched, 1 no-fit
-(aegopodium). 38 new sources added (REF-2821..REF-2861) + several existing refs reused. Cancer-condition
+(aegopodium). 41 new sources added (REF-2821..REF-2861) + several existing refs reused. Cancer-condition
 plant count 82 → 89. Next session resumes at `arctostaphylos_uva_ursi` (172 plants still unreviewed).
 
 | plant_id | status | citations_added | date | notes |

@@ -179,6 +179,16 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "note": "Preclinical antiproliferative activity of yarrow flavonoids and sesquiterpenoids (e.g. centaureidin, casticin) against human tumour cell lines.",
+     "reference_ids": [
+      "REF-0369",
+      "REF-2821",
+      "REF-2822"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antimicrobial",
      "reference_ids": [
       "REF-0011",
@@ -328,6 +338,18 @@
      "status": "needs-review",
      "evidence": 1,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "Antiproliferative activity of Achillea millefolium extracts and constituents (centaureidin, casticin) against HeLa, MCF-7 and A431 cancer cell lines (preclinical).",
+     "reference_ids": [
+      "REF-0369",
+      "REF-2821",
+      "REF-2822"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "cold",
@@ -724,9 +746,15 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-2280"
+      "REF-2280",
+      "REF-2823",
+      "REF-2824",
+      "REF-2825",
+      "REF-2826",
+      "REF-2827"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Rhizome extracts and the constituent beta-asarone show antiproliferative, pro-apoptotic, anti-invasive and chemosensitizing/chemopreventive activity across gastric, bladder and esophageal cancer models (preclinical)."
     },
     {
      "action": "anticonvulsant",
@@ -822,9 +850,14 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Acorus calamus extract inhibits gastric cancer (AGS) growth and angiogenesis; its constituent beta-asarone induces apoptosis and suppresses invasion/EMT in gastric, esophageal and bladder cancer cells and sensitizes them to chemotherapy (preclinical).",
      "reference_ids": [
-      "REF-2280"
+      "REF-2280",
+      "REF-2823",
+      "REF-2824",
+      "REF-2825",
+      "REF-2826",
+      "REF-2827"
      ],
      "status": "needs-review",
      "evidence": 7,
@@ -1079,6 +1112,19 @@
      "status": "draft"
     }
    ],
+   "actions": [
+    {
+     "action": "anticancer",
+     "note": "Black cohosh (Actaea racemosa) extracts and the triterpene glycoside actein inhibit proliferation of human breast, colon and liver cancer cells and potentiate chemotherapy (preclinical).",
+     "reference_ids": [
+      "REF-2828",
+      "REF-2829",
+      "REF-2830",
+      "REF-2831"
+     ],
+     "status": "needs-review"
+    }
+   ],
    "indications": [
     {
      "condition": "anxiety",
@@ -1091,6 +1137,19 @@
      "status": "verified",
      "evidence": 9,
      "label": "Anxiety"
+    },
+    {
+     "condition": "cancer",
+     "note": "Ethanolic black cohosh extract inhibits growth of MCF-7 and MDA-MB-231 breast cancer cells; actein induces apoptosis/G1 arrest, inhibits breast, colon and HepG2 liver cancer cell growth and synergizes with doxorubicin, 5-FU, paclitaxel and simvastatin (preclinical).",
+     "reference_ids": [
+      "REF-2828",
+      "REF-2829",
+      "REF-2830",
+      "REF-2831"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "depression",
@@ -1752,9 +1811,14 @@
      "action": "anticancer",
      "reference_ids": [
       "REF-0471",
-      "REF-0675"
+      "REF-0675",
+      "REF-2832",
+      "REF-2833",
+      "REF-2834",
+      "REF-2835"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Escin, the triterpene saponin of Aesculus hippocastanum, induces apoptosis and cell-cycle arrest and chemosensitizes breast, hepatocellular, lung and pancreatic cancer cells (preclinical, including in vivo xenograft models)."
     },
     {
      "action": "venotonic",
@@ -1783,10 +1847,14 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Escin shows antiproliferative and pro-apoptotic activity and enhances chemotherapy/immunotherapy efficacy in breast (MCF-7), hepatocellular, lung and pancreatic cancer models; it modulates NF-kappaB, p53, p38 MAPK/ERK and PD-L1 (preclinical).",
      "reference_ids": [
       "REF-0471",
-      "REF-0675"
+      "REF-0675",
+      "REF-2832",
+      "REF-2833",
+      "REF-2834",
+      "REF-2835"
      ],
      "status": "needs-review",
      "evidence": 2,

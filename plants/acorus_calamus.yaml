@@ -96,7 +96,15 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-2280
+  - REF-2823
+  - REF-2824
+  - REF-2825
+  - REF-2826
+  - REF-2827
   status: needs-review
+  note: Rhizome extracts and the constituent beta-asarone show antiproliferative, pro-apoptotic, anti-invasive
+    and chemosensitizing/chemopreventive activity across gastric, bladder and esophageal cancer models
+    (preclinical).
 - action: anticonvulsant
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant
     and antidepressant-like activity)
@@ -160,9 +168,16 @@ indications:
   - REF-0516
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Acorus calamus extract inhibits gastric cancer (AGS) growth and angiogenesis; its constituent
+    beta-asarone induces apoptosis and suppresses invasion/EMT in gastric, esophageal and bladder cancer
+    cells and sensitizes them to chemotherapy (preclinical).
   reference_ids:
   - REF-2280
+  - REF-2823
+  - REF-2824
+  - REF-2825
+  - REF-2826
+  - REF-2827
   status: needs-review
 - condition: cognitive-function
   note: Traditional nervine for memory and concentration (preclinical neuroprotective, anticonvulsant

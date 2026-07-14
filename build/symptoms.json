@@ -3443,6 +3443,19 @@
      "references": [
       "REF-0415"
      ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2828",
+      "REF-2829",
+      "REF-2830",
+      "REF-2831"
+     ]
     }
    ]
   },
@@ -12751,7 +12764,11 @@
      "inferred": true,
      "references": [
       "REF-0471",
-      "REF-0675"
+      "REF-0675",
+      "REF-2832",
+      "REF-2833",
+      "REF-2834",
+      "REF-2835"
      ]
     },
     {
@@ -19555,7 +19572,12 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-2280"
+      "REF-2280",
+      "REF-2823",
+      "REF-2824",
+      "REF-2825",
+      "REF-2826",
+      "REF-2827"
      ]
     },
     {
@@ -22171,6 +22193,18 @@
    "common_slug": "yarrow",
    "wp_post_id": 180,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0369",
+      "REF-2821",
+      "REF-2822"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",

@@ -117,7 +117,14 @@ actions:
   reference_ids:
   - REF-0471
   - REF-0675
+  - REF-2832
+  - REF-2833
+  - REF-2834
+  - REF-2835
   status: needs-review
+  note: Escin, the triterpene saponin of Aesculus hippocastanum, induces apoptosis and cell-cycle arrest
+    and chemosensitizes breast, hepatocellular, lung and pancreatic cancer cells (preclinical, including
+    in vivo xenograft models).
 - action: venotonic
   note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
     and exerts venotonic effects on veins; Relief of haemorrhoid symptoms (venotonic)
@@ -136,10 +143,16 @@ indications:
   - REF-2405
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Escin shows antiproliferative and pro-apoptotic activity and enhances chemotherapy/immunotherapy
+    efficacy in breast (MCF-7), hepatocellular, lung and pancreatic cancer models; it modulates NF-kappaB,
+    p53, p38 MAPK/ERK and PD-L1 (preclinical).
   reference_ids:
   - REF-0471
   - REF-0675
+  - REF-2832
+  - REF-2833
+  - REF-2834
+  - REF-2835
   status: needs-review
 - condition: hemorrhoids
   note: Relief of haemorrhoid symptoms (venotonic)

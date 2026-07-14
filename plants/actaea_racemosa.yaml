@@ -94,6 +94,16 @@ dosage:
   text: Traditional herbal references suggest around 1-2 mL of a 1:10 tincture, up to three times daily.
     Educational reference only, not a prescription.
   status: draft
+actions:
+- action: anticancer
+  note: Black cohosh (Actaea racemosa) extracts and the triterpene glycoside actein inhibit proliferation
+    of human breast, colon and liver cancer cells and potentiate chemotherapy (preclinical).
+  reference_ids:
+  - REF-2828
+  - REF-2829
+  - REF-2830
+  - REF-2831
+  status: needs-review
 indications:
 - condition: anxiety
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
@@ -102,6 +112,16 @@ indications:
   - REF-0670
   - REF-0674
   status: verified
+- condition: cancer
+  note: Ethanolic black cohosh extract inhibits growth of MCF-7 and MDA-MB-231 breast cancer cells; actein
+    induces apoptosis/G1 arrest, inhibits breast, colon and HepG2 liver cancer cell growth and synergizes
+    with doxorubicin, 5-FU, paclitaxel and simvastatin (preclinical).
+  reference_ids:
+  - REF-2828
+  - REF-2829
+  - REF-2830
+  - REF-2831
+  status: needs-review
 - condition: depression
   note: Reduces neurovegetative and psychological menopausal symptoms (including anxiety and low mood)
   reference_ids:

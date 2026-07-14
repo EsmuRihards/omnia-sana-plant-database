@@ -10456,9 +10456,14 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-1814"
+      "REF-1814",
+      "REF-2873",
+      "REF-2874",
+      "REF-2875",
+      "REF-2876"
      ],
-     "status": "needs-review"
+     "status": "needs-review",
+     "note": "Boswellic acids, especially acetyl-11-keto-beta-boswellic acid (AKBA) from Boswellia serrata, induce cell-cycle arrest and apoptosis and inhibit proliferation, invasion and metastasis across lung, colorectal and prostate cancers (preclinical, incl. in vivo)."
     }
    ],
    "indications": [
@@ -10497,9 +10502,13 @@
     },
     {
      "condition": "cancer",
-     "note": "inferred from anticancer action",
+     "note": "Boswellia serrata resin and its triterpenoid AKBA arrest the cell cycle and induce apoptosis in non-small-cell lung cancer, suppress colitis-associated colorectal cancer (NF-kB, gut microbiota) and inhibit prostate cancer (IL-17 pathway) in vitro and in vivo (preclinical).",
      "reference_ids": [
-      "REF-1814"
+      "REF-1814",
+      "REF-2873",
+      "REF-2874",
+      "REF-2875",
+      "REF-2876"
      ],
      "status": "needs-review",
      "evidence": 7,
@@ -10740,6 +10749,16 @@
      "status": "verified"
     },
     {
+     "action": "anticancer",
+     "note": "Calendula officinalis extracts show cytotoxic antitumor, pro-apoptotic and antimetastatic activity across many cancer cell lines and in animal models (preclinical).",
+     "reference_ids": [
+      "REF-2124",
+      "REF-0753",
+      "REF-2877"
+     ],
+     "status": "needs-review"
+    },
+    {
      "action": "antifungal",
      "reference_ids": [
       "REF-0112",
@@ -10815,6 +10834,18 @@
      "status": "needs-review",
      "evidence": 5,
      "label": "Bruising"
+    },
+    {
+     "condition": "cancer",
+     "note": "A Calendula officinalis (LACE) aqueous extract inhibits proliferation (70-100%) of leukemia, melanoma, breast, prostate, lung and colon cancer cell lines via G0/G1 arrest and caspase-3 apoptosis and inhibits melanoma growth in nude mice; a systematic review documents its cytotoxic and antimetastatic antitumour activity (preclinical).",
+     "reference_ids": [
+      "REF-2124",
+      "REF-0753",
+      "REF-2877"
+     ],
+     "status": "needs-review",
+     "evidence": 7,
+     "label": "Cancer (anticancer research)"
     },
     {
      "condition": "eczema",

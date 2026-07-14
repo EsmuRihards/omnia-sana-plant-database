@@ -104,6 +104,14 @@ actions:
   - REF-2126
   - REF-2128
   status: verified
+- action: anticancer
+  note: Calendula officinalis extracts show cytotoxic antitumor, pro-apoptotic and antimetastatic activity
+    across many cancer cell lines and in animal models (preclinical).
+  reference_ids:
+  - REF-2124
+  - REF-0753
+  - REF-2877
+  status: needs-review
 - action: antifungal
   reference_ids:
   - REF-0112
@@ -154,6 +162,16 @@ indications:
   - REF-0112
   - REF-0183
   - REF-0199
+  status: needs-review
+- condition: cancer
+  note: A Calendula officinalis (LACE) aqueous extract inhibits proliferation (70-100%) of leukemia, melanoma,
+    breast, prostate, lung and colon cancer cell lines via G0/G1 arrest and caspase-3 apoptosis and inhibits
+    melanoma growth in nude mice; a systematic review documents its cytotoxic and antimetastatic antitumour
+    activity (preclinical).
+  reference_ids:
+  - REF-2124
+  - REF-0753
+  - REF-2877
   status: needs-review
 - condition: eczema
   note: inferred from emollient action

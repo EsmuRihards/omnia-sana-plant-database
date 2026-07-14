@@ -114,7 +114,14 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-1814
+  - REF-2873
+  - REF-2874
+  - REF-2875
+  - REF-2876
   status: needs-review
+  note: Boswellic acids, especially acetyl-11-keto-beta-boswellic acid (AKBA) from Boswellia serrata,
+    induce cell-cycle arrest and apoptosis and inhibit proliferation, invasion and metastasis across lung,
+    colorectal and prostate cancers (preclinical, incl. in vivo).
 indications:
 - condition: arthritis
   note: 'Osteoarthritis: reduces joint pain and stiffness and improves function (over at least 4 weeks);
@@ -136,9 +143,15 @@ indications:
   - REF-0422
   status: needs-review
 - condition: cancer
-  note: inferred from anticancer action
+  note: Boswellia serrata resin and its triterpenoid AKBA arrest the cell cycle and induce apoptosis in
+    non-small-cell lung cancer, suppress colitis-associated colorectal cancer (NF-kB, gut microbiota)
+    and inhibit prostate cancer (IL-17 pathway) in vitro and in vivo (preclinical).
   reference_ids:
   - REF-1814
+  - REF-2873
+  - REF-2874
+  - REF-2875
+  - REF-2876
   status: needs-review
 - condition: headache
   note: inferred from analgesic action

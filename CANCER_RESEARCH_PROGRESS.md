@@ -17,10 +17,11 @@ Status values: `done-enriched` | `done-no-fit` | `needs-deeper-look` | `pending`
 (aegopodium). 41 new sources added (REF-2821..REF-2861) + several existing refs reused. Cancer-condition
 plant count 82 → 89.
 
-**Session 2 (2026-07-15):** reviewed 10 plants (arctium_minus → bistorta). 9 enriched, 1 no-fit
-(asclepias_tuberosa). 11 new sources (REF-2862..REF-2872) + many existing refs reused (pass-1's ≥15-pub
-campaign had already added several to the bib — always dedup by DOI/PMID first). Cancer-condition plant
-count 89 → 92. Next session resumes at `borago_officinalis` (162 plants still unreviewed).
+**Session 2 (2026-07-15):** reviewed 15 plants (arctium_minus → campanula_persicifolia). 13 enriched,
+2 no-fit (asclepias_tuberosa, campanula_persicifolia). 16 new sources (REF-2862..REF-2877) + many
+existing refs reused (pass-1's ≥15-pub campaign had already added several to the bib — always dedup by
+DOI/PMID first). Cancer-condition plant count 89 → 93. Betula & camellia confirmed already well-sourced.
+Next session resumes at `cannabis_sativa` (157 plants still unreviewed).
 
 | plant_id | status | citations_added | date | notes |
 |----------|--------|-----------------|------|-------|
@@ -49,3 +50,8 @@ count 89 → 92. Next session resumes at `borago_officinalis` (162 plants still 
 | bacopa_monnieri | done-enriched | 2 new (REF-2871/2872; +reused REF-0742 review) = 3 total | 2026-07-15 | NEW cancer entry. Bacopaside II (colon, AQP1/cell-cycle/apoptosis) + bacopasaponins (PC9 lung, SW620 colon cytotoxicity) + reused BME anticancer review. Rejected: BM neuroprotection/cognition systematic review (not cancer). |
 | betula_pendula | done-enriched | 0 (already 6: REF-0080/0188/0203/1695/1696/1697) | 2026-07-15 | Confirmed already well-sourced from a prior campaign (betulinic acid — 6 refs, meets ≥6). No change needed. |
 | bistorta_officinalis | done-enriched | 1 reused (REF-2123; +existing REF-2122) = 2 total | 2026-07-15 | Strengthened (pass-1 had 1). Attached already-in-bib P. bistorta hepatoma ER-stress/apoptosis xenograft study. Rejected: ZnO-nanoparticle green-synthesis (activity = NPs), bistort topical anti-inflammatory (healthy-cell apoptosis), Persicaria odorata (different species), emodin/aloe-emodin genus-noise. |
+| borago_officinalis | done-enriched | 0 (existing REF-1953 confirmed genuine) | 2026-07-15 | Thin-literature plant. Existing REF-1953 = the genuine B. officinalis HL-60 cancer-prevention/cytotoxicity study. No additional genuine fit found. Rejected: broad phytochem review, anti-ulcer (gastric), pyrrolizidine-alkaloid toxicity review. |
+| boswellia_serrata | done-enriched | 4 new (REF-2873..2876; +existing REF-1814) = 5 total | 2026-07-15 | Strengthened (pass-1 had 1). Added AKBA primaries: NSCLC (cell-cycle/apoptosis/autophagy), colitis-associated CRC (NF-κB/microbiota, in vivo), prostate (IL-17), + boswellic-acid review. Rejected: Boswellia RCT for radiotherapy cerebral edema (supportive-care), AKBA-amide synthetic derivatives, AKBA nervous-system review, **AKBA gastric-carcinoma study 23500016 (RETRACTED)**. |
+| calendula_officinalis | done-enriched | 1 new + 2 reused (REF-2877; REF-2124/0753) = 3 total | 2026-07-15 | NEW cancer entry. Jiménez-Medina LACE extract (70-100% growth inhibition across leukemia/melanoma/breast/prostate/lung/colon cell lines, G0/G1+caspase-3, in vivo melanoma) + reused dedicated antitumor systematic review + calendula review. Rejected: plant-cell-culture cosmetics, Calendula-for-Parkinson's neuroprotection, scutellarin review (not calendula-specific). |
+| camellia_sinensis | done-enriched | 0 (already 4: REF-0045/1960/1961/1965, incl. Cochrane review) | 2026-07-15 | Confirmed already well-sourced (EGCG; 4 refs including the Cochrane green-tea-for-cancer-prevention systematic review REF-1961). No change needed. |
+| campanula_persicifolia | done-no-fit | 0 | 2026-07-15 | Reviewed — no genuine anticancer fit. Obscure ornamental bellflower: zero anticancer hits; the single PubMed record is a landscape-architecture paper using its leaf shape for a candelabra design. |

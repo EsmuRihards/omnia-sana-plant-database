@@ -4480,7 +4480,11 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-1814"
+      "REF-1814",
+      "REF-2873",
+      "REF-2874",
+      "REF-2875",
+      "REF-2876"
      ]
     },
     {
@@ -17137,6 +17141,18 @@
    "common_slug": "pot-marigold",
    "wp_post_id": 150,
    "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2124",
+      "REF-0753",
+      "REF-2877"
+     ]
+    },
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",

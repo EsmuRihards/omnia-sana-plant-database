@@ -1,25 +1,44 @@
 name: Build & publish JSON
 
-# On any change to the canonical data, validate, rebuild the build/*.json outputs
-# the website consumes, and commit them back. The build/ path is intentionally
-# NOT a trigger here, so the bot's outputs commit does not re-trigger this job.
+# On any change to the canonical data: (1) auto-verify vernacular names for any NEW
+# plant (one that has no names/<id>.yaml yet) — anchoring its GBIF/Wikidata ids and
+# harvesting verified common names from authoritative sources; (2) validate; (3) rebuild
+# the build/*.json outputs the website consumes; (4) commit everything back in ONE push.
+# A monthly run (and the workflow_dispatch "refresh_names" input) re-harvests ALL plants
+# to pick up newly-added upstream names.
+#
+# The bot commits touch plants/ + names/ (trigger paths), so an actor guard skips the
+# bot's own pushes to prevent a loop. build/ is intentionally NOT a trigger path.
 
 on:
   push:
     paths:
       - 'plants/**'
+      - 'names/**'
       - 'vocabularies/**'
       - 'compounds/**'
       - 'bibliography.bibtex'
       - 'schema/**'
       - 'scripts/**'
+  schedule:
+    - cron: '17 4 1 * *'   # 04:17 UTC on the 1st of each month: full name re-verify
   workflow_dispatch:
+    inputs:
+      refresh_names:
+        description: 'Re-verify ALL vernacular names (ignore cache)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
 
+concurrency:
+  group: build-publish
+  cancel-in-progress: false
+
 jobs:
   build:
+    if: github.actor != 'omnia-sana-bot'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -30,7 +49,19 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install pyyaml requests
+
+      - name: Auto-verify vernacular names
+        # Push -> only plants with no names file yet (auto-populate on add).
+        # Schedule / manual refresh -> re-verify everything, ignoring the cache.
+        env:
+          EPPO_TOKEN: ${{ secrets.EPPO_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event.inputs.refresh_names }}" = "true" ]; then
+            python scripts/verify_names.py --refresh
+          else
+            python scripts/verify_names.py --new
+          fi
 
       - name: Validate
         run: python scripts/validate.py
@@ -38,14 +69,14 @@ jobs:
       - name: Build JSON outputs
         run: python scripts/build.py
 
-      - name: Commit build/ if changed
+      - name: Commit regenerated data if changed
         run: |
           git config user.name "omnia-sana-bot"
           git config user.email "bot@users.noreply.github.com"
-          if ! git diff --quiet -- build/; then
-            git add build/
-            git commit -m "build: regenerate JSON outputs"
+          if ! git diff --quiet -- build/ names/ plants/; then
+            git add build/ names/ plants/
+            git commit -m "data: auto-verify vernacular names + regenerate JSON outputs"
             git push
           else
-            echo "build/ unchanged"
+            echo "no changes"
           fi

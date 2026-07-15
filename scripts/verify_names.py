@@ -462,6 +462,7 @@ def main():
     args = sys.argv[1:]
     refresh = "--refresh" in args
     no_anchor = "--no-anchor" in args
+    only_new = "--new" in args          # only plants that have no names/<id>.yaml yet
     ids_arg = [a for a in args if not a.startswith("--")]
 
     langset, order, iso_to_code = load_langs()
@@ -470,7 +471,14 @@ def main():
     files = sorted(glob.glob(os.path.join(PLANTS, "*.yaml")))
     plants = [yaml.safe_load(open(f, encoding="utf-8")) for f in files]
     by_id = {p["id"]: (p, f) for p, f in zip(plants, files)}
-    todo = ids_arg if ids_arg else [p["id"] for p in plants]
+    if ids_arg:
+        todo = ids_arg
+    elif only_new:
+        have = {os.path.splitext(os.path.basename(f))[0] for f in glob.glob(os.path.join(NAMESDIR, "*.yaml"))}
+        todo = [p["id"] for p in plants if p["id"] not in have]
+        print(f"--new: {len(todo)} plant(s) without a names file")
+    else:
+        todo = [p["id"] for p in plants]
 
     tot_v = tot_r = tot_anchor = 0
     for k, pid in enumerate(todo, 1):

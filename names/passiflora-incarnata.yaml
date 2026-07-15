@@ -1,0 +1,162 @@
+id: passiflora-incarnata
+scientific_name: Passiflora incarnata
+names:
+  cs:
+  - name: Mučenka pletní
+    preferred: true
+    sources:
+    - wikidata:Q128939
+    - wikipedia:cs
+  en:
+  - name: Passionflower
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Maypop
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q128939
+  - name: Purple passionflower
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q128939
+  - name: apricot-vine
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: maypop passionflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  et:
+  - name: Punakas kannatuslill
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Rohtopassio
+    preferred: true
+    sources:
+    - wikidata:Q128939
+    - wikipedia:fi
+  - name: kärsimyskukka
+    sources:
+    - wikidata:Q128939
+    status: needs-review
+  fr:
+  - name: passiflore rouge
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  de:
+  - name: Passionsblume
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: winterharte Passionsblume
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  hu:
+  - name: Észak-amerikai golgotavirág
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  - name: Májusialma
+    sources:
+    - wikidata:Q128939
+    status: needs-review
+  lt:
+  - name: Raudonžiedė pasiflora
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Męczennica cielista
+    preferred: true
+    sources:
+    - wikidata:Q128939
+    - wikipedia:pl
+  pt:
+  - name: flor-da-paixão
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Floarea patimilor
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sl:
+  - name: Zdravilna pasijonka
+    preferred: true
+    sources:
+    - wikidata:Q128939
+    - wikipedia:sl
+  sv:
+  - name: Läkepassionsblomma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q128939
+    - wikipedia:sv
+  ru:
+  - name: Страстоцвет мясо-красный
+    preferred: true
+    sources:
+    - wikidata:Q128939
+    - wikipedia:ru
+  uk:
+  - name: Пасифлора інкарнатна
+    sources:
+    - wikipedia:uk
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

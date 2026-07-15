@@ -1,0 +1,327 @@
+id: nigella-sativa
+scientific_name: Nigella sativa
+names:
+  bg:
+  - name: Черен кимион
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Pitoma crnjika
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: černucha setá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+    - wikipedia:cs
+  da:
+  - name: Sortkommen
+    preferred: true
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Zwarte komijn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q160575
+    - wikipedia:nl
+  en:
+  - name: Black Cumin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q160575
+  - name: Black Caraway
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+  - name: Black-cumin
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: nigella
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: black-caraway
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: fennel-flower
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: nutmeg-flower
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Roman-coriander
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: black onion seed
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+  - name: Common fennel flower
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Aed-mustköömen
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: ryytineito
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q160575
+    - wikipedia:fi
+  fr:
+  - name: Nigelle cultivée
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q160575
+    - wikipedia:fr
+  - name: toute épice
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: nigelle de Crète
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Cumin noir
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Nigelle cultivée, Herbe aux épices, Cumin noir
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Schwarzkümmel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q160575
+    - wikipedia:de
+  - name: Schwarzkümmel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Saat-Schwarzkümmel
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  el:
+  - name: Μελάνθιον το ήμερον
+    sources:
+    - wikipedia:el
+    status: needs-review
+  - name: mavrokouki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: mavrokokkos
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: mavrosisamo
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: kerti kandilla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kerti katicavirág
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  - name: szőrös kandilla
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lv:
+  - name: Sējas melnsēklīte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q160575
+    - wikipedia:lv
+  lt:
+  - name: Sėjamoji juodgrūdė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+    - wikipedia:lt
+  pl:
+  - name: Czarnuszka siewna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+    - wikipedia:pl
+  pt:
+  - name: cominho-negro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  ro:
+  - name: Negrilică
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Černuška siata
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+  es:
+  - name: ajenuz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: arañuel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Neguilla
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: svartkummin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q160575
+    - wikipedia:sv
+  ru:
+  - name: Чернушка посевная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+    - wikipedia:ru
+  - name: černuška posevnaja
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Чорнушка посівна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: svartfrø
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: svartkarve
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Чурукот
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+    - wikipedia:sr
+  bs:
+  - name: Čurekot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+    - wikipedia:bs
+  sq:
+  - name: Fara e Zezë
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  ca:
+  - name: Pebreta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160575
+    - wikipedia:ca
+  tr:
+  - name: çörekotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: çörek otu
+    sources:
+    - wikidata:Q160575
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

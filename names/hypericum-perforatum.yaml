@@ -1,0 +1,828 @@
+id: hypericum-perforatum
+scientific_name: Hypericum perforatum
+names:
+  bg:
+  - name: Жълт кантарион
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:bg
+  hr:
+  - name: Kantarion
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:hr
+  - name: Bogorodična trava
+    sources:
+    - col:catalogue-of-life
+  - name: Trava svetog Ivana
+    sources:
+    - col:catalogue-of-life
+  - name: Rupičasta pljuskavica
+    sources:
+    - col:catalogue-of-life
+  - name: Gospina trava
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  cs:
+  - name: třezalka tečkovaná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:cs
+  da:
+  - name: Prikbladet perikon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q158289
+    - wikipedia:da
+  - name: Prikbladet Pericon
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Prikbladet perikum
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  nl:
+  - name: Sint-Janskruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q158289
+    - wikipedia:nl
+  - name: St janskruid
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Sintjanskruid
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: St. Janskruid
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Sint Janskruid
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  en:
+  - name: Klamath weed
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Perforate St John's-wort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q158289
+  - name: Klamathweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common St. John's Wort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Goatweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Tiptonweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Racecourseweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: St. John's Wort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: perforate St. John's-wort
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: St. John's-wort
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: common St. John's-wort
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Gammock
+    sources:
+    - col:catalogue-of-life
+  - name: Herb-John
+    sources:
+    - col:catalogue-of-life
+  - name: goatsbeard
+    sources:
+    - col:catalogue-of-life
+  - name: Penny-John
+    sources:
+    - col:catalogue-of-life
+  - name: Rosin-Rose
+    sources:
+    - col:catalogue-of-life
+  - name: Touch-And-Heal
+    sources:
+    - col:catalogue-of-life
+  - name: St. John’s-wort
+    sources:
+    - col:catalogue-of-life
+  - name: St. John's Grass
+    sources:
+    - col:catalogue-of-life
+  - name: Saint John's wort
+    sources:
+    - col:catalogue-of-life
+  - name: Common St. Johnswort
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q158289
+  - name: St. Johnswort
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: St John's wort
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  et:
+  - name: Liht-naistepuna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:et
+  fi:
+  - name: mäkikuisma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158289
+    - wikipedia:fi
+  fr:
+  - name: Millepertuis perforé
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxref
+    - wikidata:Q158289
+    - wikipedia:fr
+  - name: millepertuis commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q158289
+  - name: Millepertuis perfore
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-hypericaceae
+    - wikidata:Q158289
+  - name: Millepertuis officinal
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+  - name: herbe aux cent trous
+    sources:
+    - col:catalogue-of-life
+  - name: Herbe de la Saint-Jean
+    sources:
+    - col:catalogue-of-life
+  - name: Millepertuis perforé, Herbe de la Saint-Jean
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echtes Johanniskraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-hypericaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158289
+    - wikipedia:de
+  - name: Tüpfel-Johanniskraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158289
+  - name: Tüpfel-Hartheu
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q158289
+  - name: Gemeines Johanniskraut
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q158289
+  - name: Jarsin
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Blutkraut
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Elfenblut
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Wundskraut
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Johannisblut
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Konradskraut
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Teufelsflucht
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Tüpfelhartheu
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Walpurgiskraut
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Johanniskrautöl
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Echt-Johanniskraut
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Echtes Tüpfel-Hartheu
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Echtes Tüpfel-Johanniskraut
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  el:
+  - name: Βάλσαμο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:el
+  hu:
+  - name: Közönséges orbáncfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:hu
+  ga:
+  - name: Lus na Maighdine Muire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  - name: Beathnua
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+  it:
+  - name: Iperico perforato
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+  - name: Erba di San Giovanni comune
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Iperico
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Pilatro
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  lv:
+  - name: Divšķautņu asinszāle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:lv
+  - name: Asinszāle
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  lt:
+  - name: Paprastoji jonažolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:lt
+  pl:
+  - name: Dziurawiec zwyczajny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:pl
+  - name: Dziurawiec pospolity
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  pt:
+  - name: erva-de-são-joão
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q158289
+    - wikipedia:pt
+  - name: hipericão
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q158289
+  - name: mil-furada
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Hipericão-de-S.João
+    sources:
+    - col:catalogue-of-life
+  - name: hipérico
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: erva de São João
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  ro:
+  - name: Sunătoare
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:ro
+  sk:
+  - name: Ľubovník bodkovaný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  - name: ̝ľubovník bodkovaný
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+  sl:
+  - name: Šentjanževka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:sl
+  - name: Grilavec
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Janževka
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Krvočistnik
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Rumena naniknica
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  es:
+  - name: Hierba de San Juan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+  - name: amnica
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: corión
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: perico
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: pericó
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: pericón
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hipérico
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: pericote
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: San Juan
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: té borde
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hipericón
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: perforada
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: perforata
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: periquito
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: sanjuanes
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: trescalar
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: san juanes
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: sanjuanera
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: sanjuanines
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: tresflorina
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: cientoenrama
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: corazoncillo
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: pericón común
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: espantadiablos
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hierba militar
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hipérico común
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hierba del agua
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: pericón amarillo
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: corazón de ciervo
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hipérico horadado
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: pericón silvestre
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: yerba de San Juan
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hipericón oficinal
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hierba de la sangre
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: yerbuca de San Juan
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hierba de las heridas
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: hierba de las machacauras
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  sv:
+  - name: äkta johannesört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q158289
+    - wikipedia:sv
+  - name: johannesört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q158289
+  - name: äkta mannablod
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Movina
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Mansblod
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: mäkikuisma
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Зверобой продырявленный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:ru
+  - name: zveroboj obyknovenny
+    sources:
+    - col:catalogue-of-life
+  - name: Кровца
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Кровавец
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Хворобой
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Зверобойник
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Заячья кровь
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Зверобой жёлтый
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Красная травица
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Зверобой дырявый
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Зверобой обыкновенный
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  uk:
+  - name: Звіробій звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:uk
+  - name: Звіробій продірявлений
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  'no':
+  - name: prikkperikum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q158289
+    - wikipedia:no
+  - name: Johannesurt
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Johannes Urt
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: apotheker-pericum
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: prikked mandeblod
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Kantarion
+    preferred: true
+    sources:
+    - wikidata:Q158289
+    - wikipedia:sr
+  - name: Кантарион
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+  bs:
+  - name: Kantarion
+    preferred: true
+    sources:
+    - wikidata:Q158289
+    - wikipedia:bs
+  is:
+  - name: Jóhannesarjurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:is
+  ca:
+  - name: Pericó
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:ca
+  - name: Herba de Sant Joan
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+  - name: Diablot
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  - name: Corassonillo
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+  be:
+  - name: Святаяннік прадзіраўлены
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Sarı kantaron
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158289
+    - wikipedia:tr
+  - name: Binbirdelik otu
+    sources:
+    - wikidata:Q158289
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

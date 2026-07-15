@@ -1,0 +1,729 @@
+id: malva-sylvestris
+scientific_name: Malva sylvestris
+names:
+  bg:
+  - name: Горски слез
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Crni sljez
+    preferred: true
+    sources:
+    - wikidata:Q156835
+    - wikipedia:hr
+  cs:
+  - name: sléz lesní
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q156835
+    - wikipedia:cs
+  - name: slez lesný
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: slez maurský
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Almindelig katost
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156835
+    - wikipedia:da
+  - name: Alm. katost
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: Malva silvestris
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  nl:
+  - name: Groot kaasjeskruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156835
+    - wikipedia:nl
+  en:
+  - name: Common mallow
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156835
+  - name: High mallow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q156835
+  - name: Blue mallow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: tall mallow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: Cheeses
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: forest mallow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: purple mallow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: High Malva
+    sources:
+    - col:catalogue-of-life
+  - name: Large flowered mallow
+    sources:
+    - col:catalogue-of-life
+  - name: garden mallow
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+  - name: Common Mallow, Mallow Flowers, Tree Mallow
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+  - name: High Cheeseweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: mets-kassinaeris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: kiiltomalva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156835
+    - wikipedia:fi
+  fr:
+  - name: Grande mauve
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156835
+    - wikipedia:fr
+  - name: mauve sauvage
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+    - wikidata:Q156835
+  - name: mauve des bois
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q156835
+  - name: mauve-verte
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Mauve sylvestre
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+  - name: mauve d’Alger
+    sources:
+    - col:catalogue-of-life
+  - name: Mauve sylvestre, Grande mauve, Mauve sauvage
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Wilde Malve
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-malvaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-malvaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156835
+    - wikipedia:de
+  - name: Große Käsepappel
+    sources:
+    - col:catalogue-of-life
+  - name: Garten-Malve
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  el:
+  - name: Μολόχα
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+    - wikipedia:el
+  - name: Μάλβα η άγρια
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  hu:
+  - name: Erdei mályva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+    - wikipedia:hu
+  - name: mór mályva
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ga:
+  - name: Lus na Meall Muire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  - name: Hocas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+  it:
+  - name: Malva selvatica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: meža malva
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Miškinė dedešva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q156835
+    - wikipedia:lt
+  - name: Miško dedešva
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  pl:
+  - name: Ślaz dziki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+    - wikipedia:pl
+  pt:
+  - name: malva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-alta
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-rosa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-maior
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-verde
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-grande
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-vulgar
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: rosa-chinesa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: rosa-marinha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-de-casa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-de-banho
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-selvagem
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-de-botica
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-silvestre
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-das-hortas
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malva-das-boticas
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Nalbă
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Nalbă de pădure
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: slez lesný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+  sl:
+  - name: Gozdni slezenovec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+    - wikipedia:sl
+  es:
+  - name: Malva de campo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: malmá
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: marva
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panes
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malvas
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: marvas
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panete
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: botones
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malvera
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: mollete
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panetes
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panillo
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: pericón
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: quesico
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: botonera
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: galletas
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: granetes
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: hogacita
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malvilla
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panecico
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: quesicos
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: quesilla
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: quesitos
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: hogacinas
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: matutinas
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panecicos
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panecillo
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panecitos
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: tortillas
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva alta
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva lisa
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva loca
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malvavisco
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panecillos
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: rosquillas
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva común
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva dulce
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva mayor
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva yedra
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva-yedra
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: probayernos
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: chicha y pan
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva vulgar
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: pan de malva
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: flor de malva
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: pan y quesito
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: pan y quesitos
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: xoxo de la ina
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva medicinal
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva silvestre
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: hogacita quesera
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panecillo de Dios
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panecillos de malva
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: panecillo de la Virgen
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: malva silvestre más alta y mayor
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  sv:
+  - name: rödmalva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156835
+    - wikipedia:sv
+  - name: kiiltomalva
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Мальва лесная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+    - wikipedia:ru
+  - name: Просвирник лесной
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+  - name: mal'va lesnaja
+    sources:
+    - col:catalogue-of-life
+  - name: prosvirnik lesnoj
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Калачики лісові
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+    - wikipedia:uk
+  - name: Зензівер
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: Мальва лісова
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: Malva grossheimii
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  'no':
+  - name: legekattost
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: lækjekattost
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  sr:
+  - name: Црни слез
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+    - wikipedia:sr
+  - name: Слез црни
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  - name: Црни сљез
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  bs:
+  - name: Crni sljez
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ca:
+  - name: Malva major
+    preferred: true
+    sources:
+    - wikidata:Q156835
+    - wikipedia:ca
+  - name: Malva comuna
+    sources:
+    - col:catalogue-of-life
+  - name: Malva de camp
+    sources:
+    - wikidata:Q156835
+    status: needs-review
+  be:
+  - name: Мальва лясная
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Büyük ebegümeci
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156835
+    - wikipedia:tr
+  - name: Ebegümeci
+    sources:
+    - col:catalogue-of-life
+    - gbif:divri-i-kars-georgia-border-railway-line
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,332 @@
+id: potentilla-erecta
+scientific_name: Potentilla erecta
+names:
+  bg:
+  - name: Бутурак
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:bg
+  cs:
+  - name: Mochna nátržník
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:cs
+  da:
+  - name: Tormentil
+    preferred: true
+    sources:
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q160098
+    - wikipedia:da
+  - name: Tormentil-potentil
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Tormentil
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q160098
+    - wikipedia:nl
+  en:
+  - name: Tormentil
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q160098
+  - name: Bloodroot
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cinquefoil
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: shepherd's-knot
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: erect cinquefoil
+    sources:
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q160098
+  et:
+  - name: Tedremaran
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:et
+  fi:
+  - name: rätvänä
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q160098
+    - wikipedia:fi
+  fr:
+  - name: tormentille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - wikidata:Q160098
+  - name: Potentille dressee
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: potentille dressée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: potentille tormentille
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Potentille dressée, Potentille tormentille, Tormentille
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Blutwurz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q160098
+    - wikipedia:de
+  - name: Gemeiner Tormentill
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - wikidata:Q160098
+  - name: Aufrechtes Fingerkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Tormentill
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Aufrechtes Fingerkraut, Blutwurz
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  - name: Blutstillendes Fingerkraut, Blutwurz
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  hu:
+  - name: Vérontó pimpó
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:hu
+  ga:
+  - name: Néalfartach
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Cinquefoglie tormentilla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Cinquefoglia tormentilla
+    sources:
+    - wikidata:Q160098
+    status: needs-review
+  lt:
+  - name: Miškinė sidabražolė
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:lt
+  pl:
+  - name: Pięciornik kurze ziele
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:pl
+  ro:
+  - name: Sclipeți
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Nátržník vzpriamený
+    sources:
+    - wikidata:Q160098
+    status: needs-review
+  sl:
+  - name: Srčna moč
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:sl
+  es:
+  - name: Tormentila
+    sources:
+    - wikidata:Q160098
+    status: needs-review
+  sv:
+  - name: blodrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q160098
+    - wikipedia:sv
+  - name: rätvänä
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Лапчатка прямостоячая
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:ru
+  uk:
+  - name: Перстач випрямлений
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  - name: Перстач прямостоячий
+    sources:
+    - wikidata:Q160098
+    status: needs-review
+  'no':
+  - name: tepperot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q160098
+    - wikipedia:no
+  - name: blodrood
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: tillerood
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: teppe-rood
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: mundskoll-rood
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: tolv mænds rood
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Срчењак
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:sr
+  bs:
+  - name: Srčanik
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Engjamura
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:is
+  ca:
+  - name: Tormentil·la
+    preferred: true
+    sources:
+    - wikidata:Q160098
+    - wikipedia:ca
+  be:
+  - name: Дуброўка прамастойная
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,267 @@
+id: morinda-citrifolia
+scientific_name: Morinda citrifolia
+names:
+  bg:
+  - name: Нони
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Noni
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: morinda citrolistá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Morinda barvířská
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  nl:
+  - name: Indische moerbei
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Noni
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Indian mulberry
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q234238
+  - name: great morinda
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Indian-mulberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: rotten cheesefruit
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q234238
+  - name: noni-tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: canary-wood
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cheesefruit
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Cheese Fruit
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q234238
+  - name: French mulberry
+    sources:
+    - col:catalogue-of-life
+  - name: Rotten cheese fruit
+    sources:
+    - col:catalogue-of-life
+  - name: Noni
+    sources:
+    - gbif:checklist-dutch-caribbean-species-regist
+    status: needs-review
+  et:
+  - name: India nonipuu
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Noni
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: nono
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: bois douleur
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Morindier
+    sources:
+    - col:catalogue-of-life
+  - name: Pomme-chien
+    sources:
+    - col:catalogue-of-life
+  - name: Noni
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Nono, Pomme-chien, Morindier
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Morindier, noni, fromager, mûrier indien
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Malaye, Bois tortue, Mûrier de Java, Vomi le chien
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Nonibaum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Noni
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Νόνι
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Noni
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lt:
+  - name: Indinė morinda
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Morinda cytrynolistna
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: Noni
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikipedia:pt
+  - name: pau-azeitona
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Morinda
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: morinda citrusolistá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: Indijska murva
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: Noni
+    preferred: true
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:listado-de-especies-de-plantas-usadas-po
+  - name: mora de la India
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Noni asiático
+    sources:
+    - col:catalogue-of-life
+  - name: Fruta del diablo
+    sources:
+    - col:catalogue-of-life
+  - name: Guanábana cimarrona
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: morinda
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Noni
+    sources:
+    - wikipedia:sv
+    status: needs-review
+  ru:
+  - name: Моринда цитрусолистная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Моринда лимонолиста
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  sr:
+  - name: Нони
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Noni
+    sources:
+    - wikipedia:ca
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

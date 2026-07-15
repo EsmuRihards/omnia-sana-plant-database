@@ -1,0 +1,199 @@
+id: alchemilla-vulgaris
+scientific_name: Alchemilla vulgaris
+names:
+  bg:
+  - name: Цариче
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Vrkuta obična
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  - name: Gospin plašt
+    sources:
+    - wikidata:Q160189
+    status: needs-review
+  cs:
+  - name: Kontryhel obecný
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:cs
+  da:
+  - name: Almindelig Løvefod
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:da
+  nl:
+  - name: Spitslobbige vrouwenmantel
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q160189
+    - wikipedia:nl
+  fr:
+  - name: Alchémille commune
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:fr
+  de:
+  - name: Spitzlappiger Frauenmantel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q160189
+    - wikipedia:de
+  - name: Spitzlappen-Frauenmantel
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  hu:
+  - name: Közönséges palástfű
+    sources:
+    - wikidata:Q160189
+    status: needs-review
+  it:
+  - name: Erba ventaglina
+    sources:
+    - wikidata:Q160189
+    status: needs-review
+  lv:
+  - name: Parastais rasaskrēsliņš
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Šlaitinė rasakila
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:lt
+  pl:
+  - name: Przywrotnik pospolity
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:pl
+  ro:
+  - name: Crețișoară
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:ro
+  - name: Crețișoara
+    sources:
+    - wikidata:Q160189
+    status: needs-review
+  sk:
+  - name: Alchemilka obyčajná
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:sk
+  sl:
+  - name: Ostrokrpa plahtica
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:sl
+  es:
+  - name: Alquimila
+    sources:
+    - wikidata:Q160189
+    status: needs-review
+  sv:
+  - name: Daggkåpa
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:sv
+  - name: daggkåpa (sektionen)
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    status: needs-review
+  ru:
+  - name: Манжетка обыкновенная
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:ru
+  uk:
+  - name: Приворотень звичайний
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: stjernemarikåpe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Вирак
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:sr
+  sq:
+  - name: Alkemila e zakonshme
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  ca:
+  - name: Peu de lleó
+    preferred: true
+    sources:
+    - wikidata:Q160189
+    - wikipedia:ca
+  be:
+  - name: Гусялапка вастралопасцевая
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

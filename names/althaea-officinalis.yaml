@@ -1,0 +1,360 @@
+id: althaea-officinalis
+scientific_name: Althaea officinalis
+names:
+  bg:
+  - name: Лечебна ружа
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Pitomi sljez
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Bijeli sljez
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158496
+  cs:
+  - name: proskurník lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158496
+    - wikipedia:cs
+  da:
+  - name: Lægestokrose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  - name: Læge-stokrose
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  nl:
+  - name: Heemst
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q158496
+    - wikipedia:nl
+  - name: Echte heemst
+    sources:
+    - wikidata:Q158496
+    status: needs-review
+  en:
+  - name: Marsh-mallow
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q158496
+  - name: Marshmallow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q158496
+  - name: white-mallow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: European marsh-mallow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: common marshmallow
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q158496
+  - name: Common Marsh-mallow
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  et:
+  - name: Harilik altee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: rohtosalkoruusu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158496
+    - wikipedia:fi
+  fr:
+  - name: guimauve officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-malvaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-malvaceae
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q158496
+    - wikipedia:fr
+  - name: guimauve
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: guimauve sauvage
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Guimauve officinale, Guimauve sauvage
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Eibisch
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158496
+    - wikipedia:de
+  - name: Gebraeuchlicher Eibisch
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+  - name: Eibisch
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Gebräuchlicher Eibisch
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q158496
+  hu:
+  - name: Orvosi zilíz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158496
+    - wikipedia:hu
+  - name: Orvosi ziliz
+    sources:
+    - col:catalogue-of-life
+  - name: Fehérmályva
+    sources:
+    - wikidata:Q158496
+    status: needs-review
+  ga:
+  - name: Leamhach
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Bismalva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+  - name: Altea comune
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+  - name: L’Altea comune
+    sources:
+    - wikidata:Q158496
+    status: needs-review
+  lt:
+  - name: Vaistinė svilarožė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Prawoślaz lekarski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158496
+    - wikipedia:pl
+  pt:
+  - name: Alteia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: malvaísco
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Nalbă mare
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Ibiš lekársky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  - name: biš lekársky
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: navadni slez
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158496
+    - wikipedia:sl
+  es:
+  - name: malvavisco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q158496
+  - name: Bismalva
+    sources:
+    - wikidata:Q158496
+    status: needs-review
+  sv:
+  - name: läkemalva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q158496
+    - wikipedia:sv
+  - name: altea
+    sources:
+    - col:catalogue-of-life
+  - name: rohtosalkoruusu
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Алтей лекарственный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: altej lekarstvennyj
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Алтея лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158496
+  - name: Проскурняк лікарський
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: legestokkrose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: lækjestokkrose
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  sr:
+  - name: Бели слез
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Bijeli sljez
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  ca:
+  - name: Malví
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Алтэя лекавая
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Ebegümecigiller
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

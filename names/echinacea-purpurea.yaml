@@ -1,0 +1,263 @@
+id: echinacea-purpurea
+scientific_name: Echinacea purpurea
+names:
+  bg:
+  - name: Пурпурна ехинацея
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Purpurna ehinaceja
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Třapatkovka nachová
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Havepurpursolhat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Have-Purpusolhat
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Rode zonnehoed
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:nl
+  en:
+  - name: Purple coneflower
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: eastern purple coneflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q272661
+  - name: purple-coneflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q272661
+  - name: eastern purple-coneflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q272661
+  - name: broad-leaved purple coneflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Purple Cone-flower
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:world-register-of-marine-species
+  et:
+  - name: Punane siilkübar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: purpur-siilkübar
+    sources:
+    - col:catalogue-of-life
+  - name: punane päevakübar
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: kaunopunahattu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  fr:
+  - name: échinacée pourpre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: echinacée pourpre
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  de:
+  - name: Purpur-Sonnenhut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: roter Scheinsonnenhut
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  el:
+  - name: Εχινάκεια η στενόφυλλη
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Bíbor kasvirág
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lt:
+  - name: Rausvažiedė ežiuolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Jeżówka purpurowa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: equinácea
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cometa-roxo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: flor-roxa-cônica
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: equinácea-púrpura
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  sk:
+  - name: echinacea purpurová
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: Ameriški slamnik
+    preferred: true
+    sources:
+    - wikidata:Q272661
+    - wikipedia:sl
+  es:
+  - name: Equinacea púrpura
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: röd solhatt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikipedia:sv
+  - name: röd rudbeckia
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+  ru:
+  - name: Эхинацея пурпурная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: echinacija purpurovaja
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Ехінацея пурпурова
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: purpursolhatt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: Rød solhatt
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Ехинацеа
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  be:
+  - name: Эхінацэя пурпуровая
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Ekinezya - Koni Çiçeği
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

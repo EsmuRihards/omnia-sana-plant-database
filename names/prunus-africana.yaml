@@ -1,0 +1,133 @@
+id: prunus-africana
+scientific_name: Prunus africana
+names:
+  hr:
+  - name: Afrička šljiva
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  nl:
+  - name: Afrikaanse kers
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Pygeum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: African cherry
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q959738
+  - name: Red stinkwood
+    sources:
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q959738
+  - name: African Almond
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q959738
+  - name: Red-Stinkwood
+    sources:
+    - col:catalogue-of-life
+  - name: African-Almond
+    sources:
+    - col:catalogue-of-life
+  - name: Bitter Almond Tree
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: aafrika loorberkirsipuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: afrikankirsikka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  de:
+  - name: Rotes Stinkholz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q959738
+  hu:
+  - name: Afrikai szilvafa
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  sk:
+  - name: vavrínovec africký
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: afrikansk lagerhägg
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Слива африканская
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Слива африканська
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  tr:
+  - name: Afrika kirazı
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

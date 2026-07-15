@@ -1,0 +1,628 @@
+id: capsicum-annuum
+scientific_name: Capsicum annuum
+names:
+  bg:
+  - name: Пипер
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1380
+    - wikipedia:bg
+  hr:
+  - name: Jednogodišnja paprika
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: paprika setá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1380
+    - wikipedia:cs
+  - name: paprika ro
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Spansk peber
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Spaanse peper
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q1380
+  - name: Paprika
+    sources:
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q1380
+  en:
+  - name: Chili Pepper
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: cayenne pepper
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1380
+  - name: red pepper
+    sources:
+    - col:catalogue-of-life
+  - name: Sweet Pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q1380
+  - name: chili
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Chilli
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Bell Pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Bird Pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:checklist-of-vermont-species
+  - name: Green Pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: red capsicum
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Seasoning Pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:checklist-of-vermont-species
+  - name: sweet-pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: chilipiquin
+    sources:
+    - col:catalogue-of-life
+  - name: chile pequin
+    sources:
+    - col:catalogue-of-life
+  - name: banana pepper
+    sources:
+    - col:catalogue-of-life
+  - name: chilli pepper
+    sources:
+    - col:catalogue-of-life
+  - name: sweet bell pepper
+    sources:
+    - col:catalogue-of-life
+  - name: Paprika
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Pimiento
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Capsicum, Chili, Green Capsicum, Hot Pepper, Paprika, Sweet Pepper
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+  et:
+  - name: Harilik paprika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: punapipar
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: ruokapaprika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1380
+  - name: paprika
+    sources:
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q1380
+  fr:
+  - name: Poivron
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-solanaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-solanaceae
+  - name: Piment annuel
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-solanaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-solanaceae
+  - name: Piment
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1380
+  - name: Piment ornemental
+    sources:
+    - col:catalogue-of-life
+  - name: Paprika
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Piment doux
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Piment annuel, Piment ornemental, Piment doux
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Piment annuel, Gros piment, Paprika, Piment salade, Poivron
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Spanischer Pfeffer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: Peperoni
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-solanaceae
+    - gbif:info-flora-schweiz-solanaceae
+  - name: Schotenpfeffer
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-solanaceae
+    - gbif:info-flora-schweiz-solanaceae
+  - name: Paprika
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q1380
+  - name: Paprika und Pfefferoni
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  el:
+  - name: Πιπεριά
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1380
+    - wikipedia:el
+  hu:
+  - name: termesztett paprika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  - name: Közönséges paprika
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Peperone
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-solanaceae
+    - gbif:info-flora-schweiz-solanaceae
+  - name: Peperoncino
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Dārzeņpipars
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  - name: pipari
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Vienametė paprika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Papryka roczna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: pimentão
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q1380
+  - name: pimenta
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: chili-chili
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimentão-doce
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimentão-miúdo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimenta-pintada
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimenta-do-diabo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimenta-de-cheiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimenta-jalapenho
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimentão-quadrado
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimenta-ornamental
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimenta-urariquena
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pimenteiro-doce
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: pimenteiro-comum
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: pimenteiro-cornicabra
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Ardei
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1380
+  sk:
+  - name: Paprika ročná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Paprika
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: jalapeño
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Ají
+    sources:
+    - col:catalogue-of-life
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    - wikidata:Q1380
+  - name: chile
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q1380
+  - name: Pimento
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: chile-dulce
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Pimiento Morrón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1380
+  - name: Aji
+    sources:
+    - col:catalogue-of-life
+  - name: Morrón
+    sources:
+    - col:catalogue-of-life
+  - name: Pimentón
+    sources:
+    - col:catalogue-of-life
+  - name: Ají dulce
+    sources:
+    - col:catalogue-of-life
+  - name: Ají jobito
+    sources:
+    - col:catalogue-of-life
+  - name: Ají caballero
+    sources:
+    - col:catalogue-of-life
+  - name: Ají de gallina
+    sources:
+    - col:catalogue-of-life
+  - name: Chili Pepper
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Tun
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Uchu
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Ccoma
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Chuil
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Jimia
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Wa tun
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Pipetiu
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Pénjamo
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Pimiento
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Pui jimia
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Puka uchu
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Suara pia
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Së’ño pia
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Tiupi tiu
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Uchu muyu
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Yaa jimia
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Ají rocoto
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Chimidu diu
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Ma pï pi pia
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Ají del paute
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Ají gallinazo
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Su’nyo pipi pia
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Ají de gallinazo
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Ají de yunguilla
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Diu tape fin chunu
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  sv:
+  - name: spanskpeppar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q1380
+    - wikipedia:sv
+  - name: paprika
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: spansk peppar
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  ru:
+  - name: Перец стручковый
+    preferred: true
+    sources:
+    - wikidata:Q1380
+    - wikipedia:ru
+  - name: Стручковый перец однолетний
+    sources:
+    - col:catalogue-of-life
+  - name: перец овощной
+    sources:
+    - wikidata:Q1380
+    status: needs-review
+  uk:
+  - name: Стручкови́й перець звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Стручковий перець звичайний
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: paprika
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: spansk pepar
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: spansk pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Паприка
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  sq:
+  - name: Speci
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  ca:
+  - name: Pebre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Перац агароднінны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Biber
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

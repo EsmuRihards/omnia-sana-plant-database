@@ -1,0 +1,376 @@
+id: tilia-cordata
+scientific_name: Tilia cordata
+names:
+  bg:
+  - name: Дребнолистна липа
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:bg
+  hr:
+  - name: Malolisna lipa
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Lípa malolistá
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:cs
+  da:
+  - name: Småbladet lind
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q158746
+    - wikipedia:da
+  - name: Skov-lind
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Winterlinde
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q158746
+    - wikipedia:nl
+  - name: Kleinbladige linde
+    sources:
+    - wikidata:Q158746
+    status: needs-review
+  en:
+  - name: Linden
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Small-leaved lime
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q158746
+  - name: littleleaf linden
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q158746
+  - name: small-leaf lime
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: small-leaf linden
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: small-leaved linden
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: little-leaved linden
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: small-leaf European linden
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: small-leaved European linden
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  et:
+  - name: Harilik pärn
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:et
+  fi:
+  - name: metsälehmus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158746
+    - wikipedia:fi
+  fr:
+  - name: tilleul à petites feuilles
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158746
+    - wikipedia:fr
+  - name: Tilleul a petites feuilles
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+  - name: tilleul d'Europe
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: tilleul des bois
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: tilleul à feuilles en coeur
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: tilleul à peties feuilles
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q158746
+  - name: Tilleul cordé, Tilleul à petites feuilles, Tilleul des bois, Tilleul à feuilles en cœur
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Winterlinde
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - wikidata:Q158746
+    - wikipedia:de
+  - name: Winter-Linde
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158746
+  hu:
+  - name: Kislevelű hárs
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:hu
+  ga:
+  - name: Teile mhionduilleach
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Tiglio selvatico
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-malvaceae
+    - gbif:info-flora-schweiz-malvaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158746
+  - name: tiglia selvatico
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Parastā liepa
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:lv
+  lt:
+  - name: Mažalapė liepa
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:lt
+  pl:
+  - name: Lipa drobnolistna
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:pl
+  pt:
+  - name: Tília de folhas pequenas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  ro:
+  - name: Tei pucios
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:ro
+  sk:
+  - name: Lipa malolistá
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:sk
+  sl:
+  - name: lipovec
+    sources:
+    - wikidata:Q158746
+    status: needs-review
+  es:
+  - name: Tilo norteño
+    sources:
+    - wikidata:Q158746
+    status: needs-review
+  sv:
+  - name: lind
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: skogslind
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q158746
+  - name: metsälehmus
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Липа сердцевидная
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  - name: Липа мелколистная
+    sources:
+    - wikidata:Q158746
+    status: needs-review
+  uk:
+  - name: Липа дрібнолиста
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  - name: Липа серцелиста
+    sources:
+    - wikidata:Q158746
+    status: needs-review
+  'no':
+  - name: lind
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q158746
+    - wikipedia:no
+  - name: løvlind
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: linde-træ
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Vanlig lind
+    sources:
+    - wikidata:Q158746
+    status: needs-review
+  sr:
+  - name: Касна липа
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Hjartalind
+    sources:
+    - wikipedia:is
+    status: needs-review
+  - name: Linditré
+    sources:
+    - wikidata:Q158746
+    status: needs-review
+  ca:
+  - name: Til·ler de fulla petita
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  - name: Til·ler de fulles petites
+    sources:
+    - wikidata:Q158746
+    status: needs-review
+  be:
+  - name: Ліпа драбналістая
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:be
+  tr:
+  - name: Küçük yapraklı ıhlamur
+    preferred: true
+    sources:
+    - wikidata:Q158746
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

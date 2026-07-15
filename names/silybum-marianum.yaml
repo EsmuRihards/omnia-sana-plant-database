@@ -1,0 +1,436 @@
+id: silybum-marianum
+scientific_name: Silybum marianum
+names:
+  bg:
+  - name: Бял трън
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Sikavica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Marijin oslobod
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: ostropestřec mariánský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q193798
+    - wikipedia:cs
+  da:
+  - name: Marietidsel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  nl:
+  - name: Mariadistel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q193798
+    - wikipedia:nl
+  en:
+  - name: Milk Thistle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+  - name: Holy thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:world-register-of-marine-species
+  - name: variegated thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:world-register-of-marine-species
+  - name: bull thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: lady's thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: gundagai thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: St. Mary's thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: blessed milk thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: blessed milk-thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+  - name: variegated artichoke
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: milk-thistle
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Disseld
+    sources:
+    - col:catalogue-of-life
+  - name: Marian thistle
+    sources:
+    - col:catalogue-of-life
+  - name: Mary's Thistle
+    sources:
+    - col:catalogue-of-life
+  - name: Blessed milkthistle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q193798
+  - name: Blessed Thistle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:world-register-of-marine-species
+  - name: Cabbage Thistle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:world-register-of-marine-species
+  - name: Spotted Thistle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  - name: Our Lady's Milk Thistle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:world-register-of-marine-species
+  et:
+  - name: harilik maarjaohakas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: maarianohdake
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q193798
+    - wikipedia:fi
+  fr:
+  - name: chardon-Marie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikipedia:fr
+  - name: chardon Marie
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Silybe de Marie
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+  - name: silybum marial
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: chardon argenté
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: lait de Notre Dame
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Silybe de Marie, Chardon marie, Chardon marbré
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Mariendistel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - wikipedia:de
+  - name: Gewöhnliche Mariendistel
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q193798
+  el:
+  - name: Γαιδουράγκαθο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: γαϊδουράγκαθο
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: máriatövis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  - name: szúrós máriatövis
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Cardo di Santa Maria
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  lv:
+  - name: īstais m
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Tikrasis margainis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  - name: Margainis
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Ostropest plamisty
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: silibina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: silimarina
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cardo-santo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Cardo leiteiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: cardo-leiteiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cardo-mariano
+    sources:
+    - col:catalogue-of-life
+  - name: cardo-de-santa-maria
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Armurariu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Armurar
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Pestrec mariánsky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: pegasti badelj
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q193798
+    - wikipedia:sl
+  es:
+  - name: cardo-asnal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cardo lechero
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cardo mariano
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cardo-mariano
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cardo de María
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cardo asnal
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: mariatistel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  - name: maarianohdake
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Расторопша пятнистая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: ostro-pestro
+    sources:
+    - col:catalogue-of-life
+  - name: rastoropša pjatnistaja
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Розторопша плямиста
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: mariatistel
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: maritistel
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  sr:
+  - name: Гујина трава
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Card marià
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Растаропша плямістая
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: devedikeni
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

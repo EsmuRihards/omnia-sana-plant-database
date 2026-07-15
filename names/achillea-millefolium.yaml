@@ -1,0 +1,700 @@
+id: achillea-millefolium
+scientific_name: Achillea millefolium
+names:
+  bg:
+  - name: Бял равнец
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Stolisnik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Hajdučka trava
+    sources:
+    - col:catalogue-of-life
+  - name: Obični stolisnik
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: řebříček obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q25408
+    - wikipedia:cs
+  - name: řebříček luční
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: Almindelig røllike
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: røllike
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Eng-Klokke
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Bredbladet Klokke
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Nøgleblomstret Klokke
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Duizendblad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q25408
+    - wikipedia:nl
+  - name: Gewoon duizendblad
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Yarrow
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q25408
+  - name: common yarrow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+    - wikidata:Q25408
+  - name: milfoil
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:world-register-of-marine-species
+    - wikidata:Q25408
+  - name: Bloodwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Sanguinary
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Thousand Seal
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Western Yarrow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Carpenter's Weed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: eerie
+    sources:
+    - col:catalogue-of-life
+  - name: soldier
+    sources:
+    - col:catalogue-of-life
+  - name: gordaldo
+    sources:
+    - col:catalogue-of-life
+  - name: knyghten
+    sources:
+    - col:catalogue-of-life
+  - name: arrowroot
+    sources:
+    - col:catalogue-of-life
+  - name: dog daisy
+    sources:
+    - col:catalogue-of-life
+  - name: field hop
+    sources:
+    - col:catalogue-of-life
+  - name: dog fennel
+    sources:
+    - col:catalogue-of-life
+  - name: plumajillo
+    sources:
+    - col:catalogue-of-life
+  - name: staunchweed
+    sources:
+    - col:catalogue-of-life
+  - name: death flower
+    sources:
+    - col:catalogue-of-life
+  - name: white yarrow
+    sources:
+    - col:catalogue-of-life
+  - name: snake's grass
+    sources:
+    - col:catalogue-of-life
+  - name: thousand-leaf
+    sources:
+    - col:catalogue-of-life
+  - name: thousand-seal
+    sources:
+    - col:catalogue-of-life
+  - name: devil's nettle
+    sources:
+    - col:catalogue-of-life
+  - name: northern yarrow
+    sources:
+    - col:catalogue-of-life
+  - name: nosebleed plant
+    sources:
+    - col:catalogue-of-life
+  - name: knight's milfoil
+    sources:
+    - col:catalogue-of-life
+  - name: old man's pepper
+    sources:
+    - col:catalogue-of-life
+  - name: devil's plaything
+    sources:
+    - col:catalogue-of-life
+  - name: old man's mustard
+    sources:
+    - col:catalogue-of-life
+  - name: seven-year's love
+    sources:
+    - col:catalogue-of-life
+  - name: bad man's plaything
+    sources:
+    - col:catalogue-of-life
+  - name: soldier's woundwort
+    sources:
+    - col:catalogue-of-life
+  - name: hundred leaved grass
+    sources:
+    - col:catalogue-of-life
+  - name: Milenrama
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Nose Bleed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Yarrow, Milfoil
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik raudrohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: verihein
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: siankärsämö
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q25408
+    - wikipedia:fi
+  - name: Ukonkello
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Peurankello
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Harakankello
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Achillée millefeuille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q25408
+    - wikipedia:fr
+  - name: Mille-Feuille
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q25408
+  - name: Herbe-à-Dinde
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q25408
+  - name: Achillee millefeuille
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: herbe à dinde
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: herbe à dindes
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: herbe à dindons
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: achillée boréale
+    sources:
+    - col:catalogue-of-life
+  - name: achillée mille-feuilles
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q25408
+  - name: Achillée millefeuille, Herbe au charpentier, Sourcils-de-Vénus, Millefeuille, Chiendent rouge
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gemeine Schafgarbe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q25408
+    - wikipedia:de
+  - name: Gewöhnliche Schafgarbe
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Wiesen-Schafgarbe
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Schafgarbe
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Gewoehnliche Wiesen-Schafgarbe
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Gewöhnliche Wiesen-Schafgarbe
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Gewöhnliche Schafgarbe (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  el:
+  - name: Αγριαψιθιά
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: Αχιλλέα η χιλιόφυλη
+    sources:
+    - col:catalogue-of-life
+  - name: Αχίλλεια η χιλιόφυλλος
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Közönséges cickafark
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: réti cickafark
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: athair thalún
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Millefoglio montano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: millefoglio
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: achillea millefoglie
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Pelašķis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  - name: Parastais pelašķis
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Paprastoji kraujažolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Krwawnik pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: milefólio
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:pt
+  - name: novalgina
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: mil-folhas
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: feiteirinha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: sanguinária
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pronto-alívio
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-dos-golpes
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: nariz-sangrento
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-do-bom-deus
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: prazer-das-damas
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-dos-soldados
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: milefólio-em-rama
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-de-cortaduras
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-dos-militares
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-dos-carreteiros
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-dos-carpinteiros
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Coada șoricelului
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Rebríček obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadni rman
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q25408
+    - wikipedia:sl
+  es:
+  - name: Milenrama
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q25408
+  - name: Abrofia
+    sources:
+    - col:catalogue-of-life
+  - name: Ciprés de Judea
+    sources:
+    - col:catalogue-of-life
+  - name: Ciprés de perla
+    sources:
+    - col:catalogue-of-life
+  - name: Ciprés de invierno
+    sources:
+    - col:catalogue-of-life
+  - name: Sereno de invierno
+    sources:
+    - col:catalogue-of-life
+  - name: Milenrama eurasiática
+    sources:
+    - col:catalogue-of-life
+  - name: milefólio
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: röllika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:sv
+  - name: rölleka
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Toppklocka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Ängsklocka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Mariaklocka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Mjölkklocka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: siankärsämö
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Hässleklocka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Тысячелистник обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Tysâčelistnik Obyknovennyj
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  uk:
+  - name: Деревій звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: ryllik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: rendsel
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Engklokke
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: jordhumle
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Storklokke
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Toppklokke
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Хајдучка трава
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Hajdučka trava
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Bari mijëfletësh
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sq
+  is:
+  - name: Vallhumall
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Milfulles
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Крываўнік лекавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  - name: Крываўнік звычайны
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: civan perçemi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Civanperçemi
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

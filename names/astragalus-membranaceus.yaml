@@ -1,0 +1,165 @@
+id: astragalus-membranaceus
+scientific_name: Astragalus membranaceus
+names:
+  cs:
+  - name: Kozinec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: Astragelslægten
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: astragel
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: locoweed
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+  - name: milk-vetch
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: Milkvetches
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+  - name: milkvetch
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:the-paleobiology-database
+  - name: Milk-vetches
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:taxref
+  fi:
+  - name: kurjenherneet
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+  fr:
+  - name: Astragales
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+  - name: Astragale
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Tragant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  el:
+  - name: Αστράγαλος ο μεμβρανώδης
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Csüdfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Tragantzirņi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Kulkšnė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Traganek
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: vedlar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  uk:
+  - name: Астрагал
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: mjeltslekta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  ca:
+  - name: Àstragals
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: astràgal
+    sources:
+    - gbif:mimosaceae-papilionaceae-fl-pais-s-catal
+    status: needs-review
+  tr:
+  - name: geven
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,85 @@
+id: pelargonium-sidoides
+scientific_name: Pelargonium sidoides
+names:
+  en:
+  - name: South African geranium
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Black Pelargonium
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: African Geranium
+    sources:
+    - col:catalogue-of-life
+  - name: Black Storksbill
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Fokföldi muskátli
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  sk:
+  - name: muškát sidovitý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: mörk pelargon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  tr:
+  - name: Afrika sardunyası
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Güney Afrika sardunyası
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

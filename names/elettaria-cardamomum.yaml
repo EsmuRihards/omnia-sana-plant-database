@@ -1,0 +1,219 @@
+id: elettaria-cardamomum
+scientific_name: Elettaria cardamomum
+names:
+  bg:
+  - name: Кардамон
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: kardamomník obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kardamovník obecný
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  nl:
+  - name: Kardemom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:nl
+  en:
+  - name: Cardamom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q33466
+  - name: Green cardamom
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+  - name: Cardamon
+    sources:
+    - col:catalogue-of-life
+  - name: true cardamom
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  et:
+  - name: Harilik kardemon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Kardemumma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: Cardamome
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxref
+    - wikipedia:fr
+  - name: Élettari cardamone, Cardamome, Cœur d'amant, Petit cardamome
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Grüner Kardamom
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Καρδάμωμον το γνήσιον
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Kardamomi mag
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kardamom
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Cardamam
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  lt:
+  - name: Tikrasis kardamonas
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Kardamon malabarski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Kardamon
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: Cardamomo-verdadeiro
+    sources:
+    - wikipedia:pt
+    status: needs-review
+  - name: cardamomo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: cana-do-brejo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  sk:
+  - name: kardamóm malabarský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: kardamom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q33466
+    - wikipedia:sl
+  es:
+  - name: Cardamomo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: Kardemumma
+    preferred: true
+    sources:
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Кардамон настоящий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Кардамон справжній
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Kardemomme
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:no
+  is:
+  - name: Kardimommujurt
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Cardamom
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Кардамон
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Kakule
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

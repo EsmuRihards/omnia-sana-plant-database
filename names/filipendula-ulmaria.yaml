@@ -1,0 +1,426 @@
+id: filipendula-ulmaria
+scientific_name: Filipendula ulmaria
+names:
+  bg:
+  - name: Блатен тъжник
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Končara
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+  - name: Prava končara
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: tužebník jilmový
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:cs
+  da:
+  - name: Almindelig mjødurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q147176
+    - wikipedia:da
+  nl:
+  - name: Moerasspirea
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q147176
+    - wikipedia:nl
+  en:
+  - name: Meadowsweet
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q147176
+  - name: queen of the meadow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q147176
+  - name: queen-of-the-meadow
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q147176
+  - name: elm queen-of-the-meadow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: white queen-of-the-meadow
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: European Meadowsweet
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Harilik angervaks
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Mesiangervo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q147176
+    - wikipedia:fi
+  - name: niittymesiangervo
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  fr:
+  - name: reine-des-prés
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q147176
+  - name: Spiree
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Reine des pres
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Reine des prés
+    sources:
+    - col:catalogue-of-life
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Spirée Ulmaire
+    sources:
+    - col:catalogue-of-life
+  - name: Filipendule ulmaire
+    sources:
+    - col:catalogue-of-life
+  - name: Reine-des-prés Grande
+    sources:
+    - col:catalogue-of-life
+  - name: Reine-des-prés, Spirée Ulmaire, Filipendule ulmaire
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echtes Mädesüß
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q147176
+    - wikipedia:de
+  - name: Moor-Geissbart
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Spierstaude
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Ruesterstaude
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Echtes Maedesuess
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  hu:
+  - name: Réti legyezőfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:hu
+  ga:
+  - name: Airgead luachra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+  it:
+  - name: Olmaria
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:it
+  - name: Olmaria comune
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Parastā vīgrieze
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:lv
+  lt:
+  - name: Pelkinė vingiorykštė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:lt
+  pl:
+  - name: Wiązówka błotna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:pl
+  pt:
+  - name: Ulmária
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Crețușcă
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:ro
+  sk:
+  - name: Túžobník brestový
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+  sl:
+  - name: Brestovolistni oslad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:sl
+  - name: močvirski oslad
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Ulmaria
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+  - name: altarreina
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: älggräs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q147176
+    - wikipedia:sv
+  - name: älgört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Alggräs
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: mjödört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: niittymesiangervo
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Таволга вязолистная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:ru
+  - name: Таволожник
+    sources:
+    - col:catalogue-of-life
+  - name: Лабазник вязолистный
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Гадючник болотяний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Гадючник в'язолистий
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+  - name: Гадючник в'язоли́стий
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: mjødurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q147176
+    - wikipedia:no
+  - name: mjurt
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: møurt
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: mjøurt
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: maygræs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: kallgræs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: korsgræs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: bergmandel
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: bøndermuskat
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: St. Hansgræs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Суручица
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Mjaðjurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:is
+  ca:
+  - name: Reina dels prats
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+    - wikipedia:ca
+  - name: Ulmària
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Вятроўнік вязалісты
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Çayırkraliçesi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147176
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

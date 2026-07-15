@@ -1,0 +1,70 @@
+id: oxycoccus-palustris
+scientific_name: Oxycoccus palustris
+names:
+  nl:
+  - name: kleine veenbes
+    sources:
+    - gbif:belgian-species-list
+    status: needs-review
+  'no':
+  - name: tranebær
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+  - name: stortranebær
+    sources:
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: myrebær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: straa-bær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: tonnor-bær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

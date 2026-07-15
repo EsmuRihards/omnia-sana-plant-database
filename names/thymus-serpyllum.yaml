@@ -1,0 +1,470 @@
+id: thymus-serpyllum
+scientific_name: Thymus serpyllum
+names:
+  bg:
+  - name: Дива мащерка
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:bg
+  hr:
+  - name: Poljski timijan
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  - name: Majčina dušica
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  cs:
+  - name: Mateřídouška úzkolistá
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:cs
+  da:
+  - name: Smalbladet timian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q147251
+    - wikipedia:da
+  - name: wild-timian
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  nl:
+  - name: Kleine tijm
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q147251
+    - wikipedia:nl
+  - name: Wilde tijm
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  en:
+  - name: Breckland Thyme
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q147251
+  - name: Wild thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q147251
+  - name: creeping thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q147251
+  - name: Breckland-garden
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Breckland Wild Thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: mother-of-thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Breckland Garden
+    sources:
+    - col:catalogue-of-life
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Hillwort
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  - name: Lemon Thyme
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  - name: Penny Mountain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  - name: Mother Of Thyme
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  et:
+  - name: Nõmm-liivatee
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:et
+  - name: Jaanitee
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Kaetisrohi
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Mehitsehein
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Nõmmeliivatee
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Rabanduserohi
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  fi:
+  - name: kangasajuruoho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q147251
+    - wikipedia:fi
+  fr:
+  - name: Serpolet
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q147251
+    - wikipedia:fr
+  - name: thym sauvage
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Thym serpolet
+    sources:
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q147251
+  - name: serpolet à feuilles étroites
+    sources:
+    - gbif:belgian-species-list
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q147251
+  - name: Thym serpolet, Serpolet à feuilles étroites
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Sand-Thymian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q147251
+    - wikipedia:de
+  - name: Quendel
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Feldthymian
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Artengruppe Sand-Thymian
+    sources:
+    - col:catalogue-of-life
+  - name: Feld-Thymian
+    sources:
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Choelm
+    sources:
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Feldkümmel
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Feldquendel
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Gundelkraut
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Sandthymian
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Wilder Thymian
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  hu:
+  - name: Keskenylevelű kakukkfű
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:hu
+  - name: vadkakukkfű
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Mezei kakukkfű
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  it:
+  - name: Timo comune
+    preferred: true
+    sources:
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Serpillo
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  lv:
+  - name: Mazais mārsils
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:lv
+  lt:
+  - name: Paprastasis čiobrelis
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:lt
+  pl:
+  - name: Macierzanka piaskowa
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:pl
+  pt:
+  - name: tomilho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  ro:
+  - name: Cimbrișor
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:ro
+  - name: Cimbrişor
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  sk:
+  - name: Dúška materina
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:sk
+  - name: dúška úzkolistá
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: materina dúška úzkolistá
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  es:
+  - name: serpol
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q147251
+  - name: tomillo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: tomillo salsero
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: tomillo sanjuanero
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  sv:
+  - name: backtimjan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - wikidata:Q147251
+    - wikipedia:sv
+  - name: kangasajuruoho
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Тимьян ползучий
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:ru
+  - name: tim'jan polzučij
+    sources:
+    - col:catalogue-of-life
+  - name: Богородская трава
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Богородицына травка
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Чабрец обыкновенный
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  uk:
+  - name: Чебрець повзучий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  - name: Чебрець звичайний
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  'no':
+  - name: småtimian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: wild-timian
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Мајкина душица
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  - name: Majkina dušica
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  bs:
+  - name: Majčina dušica
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:bs
+  ca:
+  - name: Serpoll
+    preferred: true
+    sources:
+    - wikidata:Q147251
+    - wikipedia:ca
+  - name: Timó
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Serpol
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Frigoleta
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Timó negre
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Farigola mascle
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Salsa de pastor
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  - name: Farigola de muntanya
+    sources:
+    - wikidata:Q147251
+    status: needs-review
+  be:
+  - name: Цымбор
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

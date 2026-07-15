@@ -1,0 +1,505 @@
+id: galium-aparine
+scientific_name: Galium aparine
+names:
+  bg:
+  - name: Лепка
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hr:
+  - name: Priljepača
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ljepljiva broćika
+    sources:
+    - col:catalogue-of-life
+  - name: Čekinjasta broćika
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: svízel přítula
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161581
+    - wikipedia:cs
+  da:
+  - name: Burre-snerre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Præstelus
+    sources:
+    - col:catalogue-of-life
+  - name: Burresnerre
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Kleefkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q161581
+    - wikipedia:nl
+  en:
+  - name: Cleavers
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: clivers
+    sources:
+    - col:catalogue-of-life
+  - name: stickyweed
+    sources:
+    - col:catalogue-of-life
+  - name: stickywilly
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q161581
+  - name: catchweed bedstraw
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Goosegrass
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q161581
+  - name: Annual Bedstraw
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Small Goose-grass
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Sweethearts
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: goose-grass
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: catchweed
+    sources:
+    - col:catalogue-of-life
+  - name: Gooseweed
+    sources:
+    - col:catalogue-of-life
+  - name: Stickybud
+    sources:
+    - col:catalogue-of-life
+  - name: Grip Grass
+    sources:
+    - col:catalogue-of-life
+  - name: Sticky Bob
+    sources:
+    - col:catalogue-of-life
+  - name: Stickyback
+    sources:
+    - col:catalogue-of-life
+  - name: Stickeljack
+    sources:
+    - col:catalogue-of-life
+  - name: Sticky Jack
+    sources:
+    - col:catalogue-of-life
+  - name: Sticky Grass
+    sources:
+    - col:catalogue-of-life
+  - name: sticky willy
+    sources:
+    - col:catalogue-of-life
+  - name: Velcro Plant
+    sources:
+    - col:catalogue-of-life
+  - name: Bobby Buttons
+    sources:
+    - col:catalogue-of-life
+  - name: Sticky Willow
+    sources:
+    - col:catalogue-of-life
+  - name: Robin-run-the-hedge
+    sources:
+    - col:catalogue-of-life
+  - name: Bedstraw
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Cleaverwort
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Goose Grass
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Scarthgrass
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: White Hedge
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Sticky-willy
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Bedstraw, Cleavers
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Sticky Bobs
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Bedstraw
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Spring Cleavers
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Roomav madar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: Virn
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: kierumatara
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q161581
+    - wikipedia:fi
+  fr:
+  - name: Gaillet gratteron
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-rubiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-rubiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxref
+    - wikidata:Q161581
+    - wikipedia:fr
+  - name: gratteron
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Gaillet gratteron, Herbe collante, Gratteron
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kletten-Labkraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-rubiaceae
+    - gbif:info-flora-schweiz-rubiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Gewöhnliches Kletten-Labkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Kletten-Labkraut (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  el:
+  - name: Κολλητσίδα
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Ragadós galaj
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Garbhlus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Caglio asprello
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rubiaceae
+    - gbif:info-flora-schweiz-rubiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Attacavesti
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rubiaceae
+    - gbif:info-flora-schweiz-rubiaceae
+  - name: attaccamani
+    sources:
+    - col:catalogue-of-life
+  - name: Attaccamano
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Ķeraiņu madara
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Kibusis lipikas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Przytulia czepna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: pega-pega
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: erva-pegavosa
+    sources:
+    - col:catalogue-of-life
+  - name: amor-de-hortelã
+    sources:
+    - col:catalogue-of-life
+  - name: Amor-de-hortelão
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Lipicioasă
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: lipkavec obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: plezajoča lakota
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161581
+    - wikipedia:sl
+  es:
+  - name: Pega pega
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: amor del hortelano
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: snärjmåra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: snärjgräs
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: vitblommig snärjmåra
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: vanlig snärjmåra
+    sources:
+    - col:catalogue-of-life
+  - name: kierumatara
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Подмаренник цепкий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Підмаренник чіпкий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: klengjemaure
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:no
+  - name: klengemaure
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: tinner
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: snerje-græs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: snerpe-græs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Прилипача/Prilipača
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Лепљиви броћ
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Krókamaðra
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Apegalòs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: apegalós
+    sources:
+    - col:catalogue-of-life
+  - name: Apegalosa
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Маруна ўчэпістая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Çobansüzeği
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: çobansüzgeci
+    sources:
+    - col:catalogue-of-life
+  - name: Yoğurt otu
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

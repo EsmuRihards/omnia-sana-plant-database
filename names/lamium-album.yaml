@@ -1,0 +1,395 @@
+id: lamium-album
+scientific_name: Lamium album
+names:
+  cs:
+  - name: hluchavka bílá
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q157626
+    - wikipedia:cs
+  - name: medulka
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: medunica
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: mrtvá kopřiva
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: mrtvá žihlava
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: mrtvá žíhlava
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: planá kopřiva
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: hluchá kopřiva
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: planá bazilika
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: hluchavka biela
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Døvnælde
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q157626
+    - wikipedia:da
+  nl:
+  - name: Witte dovenetel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q157626
+    - wikipedia:nl
+  en:
+  - name: White dead-nettle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q157626
+  - name: White deadnettle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q157626
+  - name: white henbit
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: white nettle
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: white-nettle
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  et:
+  - name: Valge iminõges
+    preferred: true
+    sources:
+    - wikidata:Q157626
+    - wikipedia:et
+  fi:
+  - name: valkopeippi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q157626
+    - wikipedia:fi
+  fr:
+  - name: Lamier blanc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q157626
+    - wikipedia:fr
+  - name: ortie blanche
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q157626
+  - name: marachemin
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Ortie à fleurs blanches
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: Lamier blanc, Ortie blanche, Ortie morte
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Weiße Taubnessel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q157626
+    - wikipedia:de
+  hu:
+  - name: Fehér árvacsalán
+    preferred: true
+    sources:
+    - wikidata:Q157626
+    - wikipedia:hu
+  it:
+  - name: Falsa ortica bianca
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q157626
+  lv:
+  - name: Baltā panātre
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Baltažiedė notrelė
+    preferred: true
+    sources:
+    - wikidata:Q157626
+    - wikipedia:lt
+  pl:
+  - name: Jasnota biała
+    preferred: true
+    sources:
+    - wikidata:Q157626
+    - wikipedia:pl
+  pt:
+  - name: urtiga-branca
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q157626
+  - name: lamium
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: lâmio-branco
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: urtiga-de-abelha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Urzică moartă albă
+    preferred: true
+    sources:
+    - wikidata:Q157626
+    - wikipedia:ro
+  - name: Urzică moartă
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: Urzica moartă albă
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  sk:
+  - name: Hluchavka biela
+    preferred: true
+    sources:
+    - wikidata:Q157626
+    - wikipedia:sk
+  sl:
+  - name: bela mrtva kopriva
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  es:
+  - name: ortiga blanca
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: ortiga muerta blanca
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  sv:
+  - name: vitplister
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q157626
+    - wikipedia:sv
+  - name: valkopeippi
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Яснотка белая
+    preferred: true
+    sources:
+    - wikidata:Q157626
+    - wikipedia:ru
+  - name: Глухая крапива
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: Крапива глухая
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: или Глухая крапива
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  uk:
+  - name: Глуха кропива біла
+    preferred: true
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - wikidata:Q157626
+    - wikipedia:uk
+  - name: Lamium dumeticola
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  'no':
+  - name: dauvnesle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q157626
+    - wikipedia:no
+  - name: daunesle
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: døvnesle
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: doudaa
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: roudaa
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: qviitdaa
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: dou næsle
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  is:
+  - name: Ljósatvítönn
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Ortiga morta
+    preferred: true
+    sources:
+    - wikidata:Q157626
+    - wikipedia:ca
+  - name: Ortiga blanca
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  be:
+  - name: Яснотка белая
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Akısırgan
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: Ak ballıbaba
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+  - name: Beyaz ballıbaba
+    sources:
+    - wikidata:Q157626
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

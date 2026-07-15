@@ -1,0 +1,548 @@
+id: tanacetum-vulgare
+scientific_name: Tanacetum vulgare
+names:
+  bg:
+  - name: Вратига
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  - name: Обикновена вратига
+    sources:
+    - col:catalogue-of-life
+  hr:
+  - name: Vratić
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Obični vratić
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: vratič obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q27079
+    - wikipedia:cs
+  - name: vrati
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Rejnfan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Guldknap
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Gul Reseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Farve-Reseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Spidslappet Løvefod
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vellugtende Agermåne
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Boerenwormkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q27079
+    - wikipedia:nl
+  en:
+  - name: Tansy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q27079
+    - wikipedia:en
+  - name: common tansy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+    - wikidata:Q27079
+  - name: garden tansy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: golden-buttons
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Tasny
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:martha-s-vineyard-species-checklist
+  - name: golden buttons
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:world-register-of-marine-species
+  et:
+  - name: Harilik soolikarohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: pietaryrtti
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: rohtopietaryrtti
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q27079
+  - name: Värireseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Keltareseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Tuoksuverijuuri
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Piennarpoimulehti
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Tummasuonipoimulehti
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Tanaisie commune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikipedia:fr
+  - name: tanaisie vulgaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q27079
+  - name: tanaisie
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+  - name: barbotine
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Amande glaciale
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Tanaisie commune, Absinthe
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Tanaisie commune, Sent-bon, Barbotine
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Rainfarn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q27079
+    - wikipedia:de
+  - name: Gemeiner Rainfarn
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Strahlenlose Wucherblume, Rainfarn
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  hu:
+  - name: Gilisztaűző varádics
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Franclus
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Erba amara selvatica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Taneda
+    sources:
+    - col:catalogue-of-life
+  - name: Aniceto
+    sources:
+    - col:catalogue-of-life
+  - name: Tanaceto comune
+    sources:
+    - col:catalogue-of-life
+  - name: Erba del muschio
+    sources:
+    - col:catalogue-of-life
+  - name: Erba-amara selvatica
+    sources:
+    - col:catalogue-of-life
+  - name: Tanaceto
+    sources:
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  lv:
+  - name: Parastais biškrēsliņš
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Paprastoji bitkrėslė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Wrotycz pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: erva-dos-vermes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: atanásia-das-boticas
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: palma
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pluma
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: tanásia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: atanásia
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: pluminha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: tasneira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: anil-bravo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: botão-amarelo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: tanaceto-comum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: catinga-de-mulata
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-lombrigueira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-contra-vermes
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: palma-de-santa-rita
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: tanaceto
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: erva-de-são-marcos
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Vetrice
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: vratič obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: Navadni vratič
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q27079
+    - wikipedia:sl
+  es:
+  - name: hierba lombriguera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: tanaceto
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: renfana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  - name: Gulreseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Färgreseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: pietaryrtti
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Luktsmåborre
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Stjärndaggkåpa
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Baltisk daggkåpa
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Пижма обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: dikaja rjabina
+    sources:
+    - col:catalogue-of-life
+  - name: pižma obyknovennaja
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Пижмо звичайне
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: reinfann
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: renfan
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: tansie
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: korsurt
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Byreséda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: ringefan
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: røs-konge
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Fargereséda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: kong Henric
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Kyståkermåne
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: mester Henric
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: flinken Henric
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Stjernemarikåpe
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  is:
+  - name: Regnfang
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Herba remuguera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Tanarida
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Solucan otu
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

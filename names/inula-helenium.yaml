@@ -1,0 +1,345 @@
+id: inula-helenium
+scientific_name: Inula helenium
+names:
+  bg:
+  - name: Бял оман
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Pravi oman
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: oman pravý
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q697416
+    - wikipedia:cs
+  da:
+  - name: Læge-alant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Lægealant
+    sources:
+    - wikipedia:da
+    status: needs-review
+  - name: Knærod
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Griekse alant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q697416
+    - wikipedia:nl
+  en:
+  - name: Elecampane
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q697416
+    - wikipedia:en
+  - name: Scabwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: horseheal
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: velvet-dock
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: elecampane inula
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q697416
+  et:
+  - name: Aedvaak
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: isohirvenjuuri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q697416
+    - wikipedia:fi
+  - name: Yövilkka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Täplähelokki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Pohjanhelokki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: grande aunée
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikipedia:fr
+  - name: inule aunée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Grande aunee
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Inule helenie
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: inule
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: inule aulnée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: inule grande aunée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Inule aunée, Grande aunée, Inule hélénie
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Alant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q697416
+    - wikipedia:de
+  - name: Helenenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  hu:
+  - name: Örménygyökér
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Enula campana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  lv:
+  - name: helēniju
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Didysis debesylas
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Oman wielki
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:pl
+  pt:
+  - name: énula-campana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  ro:
+  - name: Iarbă mare
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sl:
+  - name: Veliki oman
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: raíz del moro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: ålandsrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  - name: alant
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: elinsrot
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: Knärot
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Jättenattljus
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Pricknattljus
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: isohirvenjuuri
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Smalt nattljus
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: devjasil vysokij
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Девясил высокий
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Оман високий
+    preferred: true
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-cherkasy-
+    - gbif:red-list-of-flora-and-fauna-of-chernihiv
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-donetsk-r
+    - gbif:red-list-of-flora-and-fauna-of-ivano-fra
+    - gbif:red-list-of-flora-and-fauna-of-kharkiv-r
+    - gbif:red-list-of-flora-and-fauna-of-kherson-r
+    - gbif:red-list-of-flora-and-fauna-of-khmelnyts
+    - gbif:red-list-of-flora-and-fauna-of-kirovohra
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-city
+    - gbif:red-list-of-flora-and-fauna-of-mykolaiv-
+    - gbif:red-list-of-flora-and-fauna-of-poltava-r
+    - gbif:red-list-of-flora-and-fauna-of-rivne-reg
+    - gbif:red-list-of-flora-and-fauna-of-sumy-regi
+    - gbif:red-list-of-flora-and-fauna-of-vinnytsia
+    - gbif:red-list-of-flora-and-fauna-of-volyn-reg
+    - gbif:red-list-of-flora-and-fauna-of-zaporizhz
+    - wikipedia:uk
+  'no':
+  - name: alantrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: Knerot
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ca:
+  - name: Herba de l'ala
+    sources:
+    - wikipedia:ca
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,308 @@
+id: eschscholzia-californica
+scientific_name: Eschscholzia californica
+names:
+  cs:
+  - name: sluncovka kalifornská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158795
+    - wikipedia:cs
+  - name: slncovka kalifornská
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Guldvalmue
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kalifornisk guldvalmue
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    status: needs-review
+  nl:
+  - name: Slaapmutsje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q158795
+    - wikipedia:nl
+  en:
+  - name: California Poppy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q158795
+  - name: Californian Poppy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: California-poppy
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q158795
+  - name: California golden poppy
+    sources:
+    - col:catalogue-of-life
+  - name: California sunlight
+    sources:
+    - wikidata:Q158795
+    status: needs-review
+  - name: California goldenpoppy
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  et:
+  - name: kalifornia läänemagun
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: kaliforniantuliunikko
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158795
+    - wikipedia:fi
+  - name: tuliunikko
+    sources:
+    - wikidata:Q158795
+    status: needs-review
+  fr:
+  - name: Pavot de Californie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-papaveraceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q158795
+    - wikipedia:fr
+  - name: eschscholzie de Californie
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: eschscholzia de Californie
+    sources:
+    - col:catalogue-of-life
+  - name: Pavot de Californie, Eschscholzie de Californie
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Eschscholzie de Californie, Pavot de Californie, Globe du soleil
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kalifornischer Mohn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:info-flora-schweiz-papaveraceae
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158795
+    - wikipedia:de
+  - name: Goldmohn
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:info-flora-schweiz-papaveraceae
+    - wikidata:Q158795
+  - name: Kalifornischer Kappenmohn
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158795
+  - name: Schlafmützchen
+    sources:
+    - wikidata:Q158795
+    status: needs-review
+  - name: Kalifornienmohn
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: Kaliforniai kakukkmák
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Papavero della California
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:info-flora-schweiz-papaveraceae
+  - name: Eschscholzia
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Geltonžiedė ešolcija
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  pl:
+  - name: Pozłotka kalifornijska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: globo-do-sol
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: papoula-da-califórnia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: goivo
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: papoila-da-california
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Mac californian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: slncovka kalifornská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: kalifornijski mak
+    sources:
+    - wikidata:Q158795
+    status: needs-review
+  es:
+  - name: amapola de California
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158795
+  - name: Dedal de Oro
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: sömntuta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikidata:Q158795
+    - wikipedia:sv
+  ru:
+  - name: Эшшольция калифорнийская
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Ешольція каліфорнійська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Каліфорнійський мак садовий
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: kaliforniavalmue
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  ca:
+  - name: Rosella de Califòrnia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Эшольцыя каліфарнійская
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Kaliforniya gelinciği
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158795
+  - name: Acem Lalesi
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

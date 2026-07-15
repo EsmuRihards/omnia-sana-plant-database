@@ -1,0 +1,287 @@
+id: lactuca-virosa
+scientific_name: Lactuca virosa
+names:
+  hr:
+  - name: Divlja salata
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Locika jedovatá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:world-register-of-marine-species
+    - wikidata:Q578927
+    - wikipedia:cs
+  da:
+  - name: Gift-salat
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    status: needs-review
+  nl:
+  - name: Gifsla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q578927
+    - wikipedia:nl
+  en:
+  - name: Wild Lettuce
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Bitter lettuce
+    sources:
+    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q578927
+  - name: Great Lettuce
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:cichorieae-systematics-portal
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q578927
+  - name: Acrid lettuce
+    sources:
+    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    - gbif:world-register-of-marine-species
+  - name: Greater Lettuce
+    sources:
+    - col:catalogue-of-life
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Greater Prickly Lettuce
+    sources:
+    - col:catalogue-of-life
+    - gbif:united-kingdom-species-inventory-uksi
+  et:
+  - name: mürksalat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: rohtosalaatti
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: Laitue vireuse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:cichorieae-systematics-portal
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:world-register-of-marine-species
+    - wikidata:Q578927
+    - wikipedia:fr
+  - name: Laitue sauvage
+    sources:
+    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    - gbif:world-register-of-marine-species
+  - name: Laitue veneneuse
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Laitue vénéneuse
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  - name: Laitue vireuse, Laitue sauvage
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gift-Lattich
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - gbif:world-register-of-marine-species
+    - wikidata:Q578927
+    - wikipedia:de
+  - name: Giftlattich
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q578927
+  hu:
+  - name: mérges saláta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  it:
+  - name: Lattuga velenosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:world-register-of-marine-species
+  - name: Lattuga selvatica
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Nuodingoji salota
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Sałata jadowita
+    preferred: true
+    sources:
+    - gbif:cichorieae-systematics-portal
+    - gbif:world-register-of-marine-species
+    - wikipedia:pl
+  pt:
+  - name: Alface-brava-maior
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+  - name: Serralho
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  - name: Alface-virosa
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  - name: Leituga-brava
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  sk:
+  - name: šalát jedovatý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: lechuga silvestre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Cerraya
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  - name: Lactucario
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  - name: Lecheriega
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  - name: Cardo lechero
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  - name: Lechuga venenosa
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  sv:
+  - name: giftsallat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:world-register-of-marine-species
+    - wikipedia:sv
+  ru:
+  - name: Латук ядовитый
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  'no':
+  - name: giftsalat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  ca:
+  - name: Enciam de bosc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Enciam boscà
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+  - name: Ensiam venenós
+    sources:
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

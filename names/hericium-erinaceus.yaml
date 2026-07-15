@@ -1,0 +1,236 @@
+id: hericium-erinaceus
+scientific_name: Hericium erinaceus
+names:
+  bg:
+  - name: Игловиден корал
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  cs:
+  - name: Korálovec ježatý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q19737
+    - wikipedia:cs
+  da:
+  - name: Pindsvinepigsvamp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikipedia:da
+  nl:
+  - name: Pruikzwam
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q19737
+    - wikipedia:nl
+  en:
+  - name: Bearded Tooth
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q19737
+  - name: Lion's-mane Mushroom
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+  - name: hedgehog mushroom
+    sources:
+    - col:catalogue-of-life
+  - name: lion's mane mushroom
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Lõvilakk-korallnarmik
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fr:
+  - name: Hydne hérisson
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxref
+  de:
+  - name: Igel-Stachelbart
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-fungi-and-fungal-like-orga
+    - wikipedia:de
+  el:
+  - name: Ερίκιο το σκαντζοχοίρινο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ερίκιο το αγκαθωτό
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Süngomba
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  lv:
+  - name: Ežu dižadatene
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Ežinis trapiadyglis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Soplówka jeżowata
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:pl
+  sk:
+  - name: Koralovec ježovitý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  sl:
+  - name: resasti bradovec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Hongo melena de león
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: seta erizo
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: hidno erizado
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: barba de cabra
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: hidno erizado, barba de cabra
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  sv:
+  - name: Igelkottstaggsvamp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - wikipedia:sv
+  - name: igelkottsvamp
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2025
+  ru:
+  - name: Ежовик гребенчатый
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: гериций гребенчатый
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Герицій їжаковий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:list-of-algae-fungi-and-plant-species-in
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-regi
+    - wikipedia:uk
+  'no':
+  - name: piggsvinsopp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q19737
+  sr:
+  - name: Lavlja gljiva
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Broddkóralsveppur
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Pelutxo
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  - name: bolet carner
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,235 @@
+id: inonotus-obliquus
+scientific_name: Inonotus obliquus
+names:
+  hr:
+  - name: Čaga
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: rezavec šikmý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1956937
+    - wikipedia:cs
+  da:
+  - name: Birke-spejlporesvamp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Berkenweerschijnzwam
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikipedia:nl
+  - name: Berkeweerschijnzwam
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q1956937
+  en:
+  - name: Chaga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Chaga mushroom
+    sources:
+    - col:catalogue-of-life
+  - name: Chaga fungus
+    sources:
+    - col:catalogue-of-life
+  - name: Sterile Conk Trunk Rot of Birch
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Must Pässik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:et
+  fi:
+  - name: pakurikääpä
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1956937
+    - wikipedia:fi
+  fr:
+  - name: Polypore Incrusté
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Polypore oblique
+    sources:
+    - col:catalogue-of-life
+  - name: Chaga
+    sources:
+    - gbif:the-iucn-red-list-of-threatened-species
+    status: needs-review
+  de:
+  - name: Schiefer Schillerporling
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-fungi-and-fungal-like-orga
+    - wikipedia:de
+  hu:
+  - name: Terülő rozsdástapló
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  lv:
+  - name: Melnā Spulgpiepe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:lv
+  - name: Čaga
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Melnā spulgpiepe (čaga)
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Įžulnusis skylenis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Błyskoporek Podkorowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:pl
+  - name: Włóknouszek Ukośny
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Błyskoporek Podkorowy (Włóknouszek Ukośny)
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  sl:
+  - name: brezin luknjač
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1956937
+  es:
+  - name: Nariz de Carbón
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: parásito facultativo
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  sv:
+  - name: Sprängticka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:sv
+  ru:
+  - name: Чага
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:ru
+  uk:
+  - name: ча́га
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Чага
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: kreftkjuke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:no
+  is:
+  - name: Birkihraukur
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Txaga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Чага
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

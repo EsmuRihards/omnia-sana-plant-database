@@ -1,0 +1,372 @@
+id: vaccinium-myrtillus
+scientific_name: Vaccinium myrtillus
+names:
+  bg:
+  - name: Черна боровинка
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Obična borovnica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Brusnice borůvka
+    preferred: true
+    sources:
+    - wikidata:Q5413585
+    - wikipedia:cs
+  da:
+  - name: Blåbær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Almindelig blåbær
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: blaabær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  nl:
+  - name: Blauwe bosbes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q5413585
+    - wikipedia:nl
+  en:
+  - name: Bilberry
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q5413585
+  - name: European blueberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Whortleberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q5413585
+  - name: Blaeberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: dwarf bilberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: myrtle blueberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+  - name: myrtle whortleberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+  - name: whinberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: low bilberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: common-blueberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: dwarf whortleberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  et:
+  - name: Harilik mustikas
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: mustikka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: kangasmustikka
+    sources:
+    - wikidata:Q5413585
+    status: needs-review
+  fr:
+  - name: Myrtille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:flora-helvetica-ericaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-ericaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: myrtille commune
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q5413585
+  - name: Airelle myrtille, Myrtille, Maurette, Brimbelle
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Heidelbeere
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-ericaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-ericaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q5413585
+    - wikipedia:de
+  - name: Blaubeere, Heidelbeere
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q5413585
+  el:
+  - name: Μύρτιλο
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Fekete áfonya
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Fraochán
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Mirtillo nero
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-ericaceae
+    - gbif:info-flora-schweiz-ericaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Mellenes
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Mėlynė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Borówka czarna
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: arando
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: mirtilo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: uva-do-monte
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Afin
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Brusnica čučoriedková
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Borovnica
+    preferred: true
+    sources:
+    - wikidata:Q5413585
+    - wikipedia:sl
+  - name: črnica
+    sources:
+    - wikidata:Q5413585
+    status: needs-review
+  es:
+  - name: mirtillo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: arándano
+    sources:
+    - wikidata:Q5413585
+    status: needs-review
+  sv:
+  - name: blåbär
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikipedia:sv
+  - name: mustikka
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Черника
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Чорниця
+    preferred: true
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-cherkasy-
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-vinnytsia
+  - name: Чорниця звичайна
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: blåbær
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q5413585
+    - wikipedia:no
+  - name: Blåbærlyng
+    sources:
+    - wikipedia:no
+    status: needs-review
+  - name: blaabær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Боровница
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Borovnica
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Boronica
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Aðalbláber
+    sources:
+    - wikipedia:is
+    status: needs-review
+  - name: Aðalbláberjalyng
+    sources:
+    - gbif:nordic-crop-wild-relative-priority-list
+    status: needs-review
+  ca:
+  - name: Nabiu
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Чарніцы
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Yaban mersini
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

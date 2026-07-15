@@ -1,0 +1,443 @@
+id: arctium-lappa
+scientific_name: Arctium lappa
+names:
+  hr:
+  - name: Veliki čičak
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: lopuch větší
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q26932
+    - wikipedia:cs
+  da:
+  - name: Glat burre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Almindelig Fuglegræs
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Græsbladet Fladstjerne
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Grote klit
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q26932
+    - wikipedia:nl
+  en:
+  - name: Greater Burdock
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26932
+  - name: burdock
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: gobo
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:world-register-of-marine-species
+  - name: great burdock
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+  - name: edible burdock
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:world-register-of-marine-species
+  - name: lappa
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: beggar's-buttons
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Harlock
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:world-register-of-marine-species
+  - name: Greater Burrdock
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+  - name: Cuckold
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:world-register-of-marine-species
+  - name: Woodland Burdock
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  et:
+  - name: Suur takjas
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: isotakiainen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q26932
+    - wikipedia:fi
+  - name: Pihatähtimö
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Heinätähtimö
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sorvarinpensas
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: grande bardane
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q26932
+    - wikipedia:fr
+  - name: Bardane commune
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: rapace
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: toques
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: graquias
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: artichaut
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: glouteron
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: bardane majeure
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: oreille de géant
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: rhubarbe sauvage
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: bardane comestible
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: bardane
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: Grande bardane, Bardane commune, Bardane élevée, Bardane à gros capitules, Bardane à grosses
+      têtes
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Große Klette
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q26932
+    - wikipedia:de
+  - name: eßbare Klettenwurzel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: japanische Klettenwurzel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  hu:
+  - name: Közönséges bojtorján
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Cnádán mór
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Lappa bardana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Bardana maggiore
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  lt:
+  - name: Didžioji varnalėša
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Łopian większy
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: bardana-maior
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: gobô
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: labaça
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: bardana
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pega-pega
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: orelha-de-gigante
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Brusture
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Lopúch väčší
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: navadni repinec
+    sources:
+    - wikidata:Q26932
+    status: needs-review
+  es:
+  - name: lapa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: gobó
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: lampazo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: lampazo mayor
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: lampazo-mayor
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: bardana
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  sv:
+  - name: stor kardborre
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  - name: Storkardborre
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Benved
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Våtarv
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Grässtjärnblomma
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Лопух большой
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Лопух великий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: storborre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: Vassarve
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Spolebusk
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Grasstjerneblom
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Велики чичак
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Čičak
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Króklappa
+    sources:
+    - wikipedia:is
+    status: needs-review
+  - name: Grasarfi
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Haugarfi
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ca:
+  - name: Repalassa
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Лопух вялікі
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

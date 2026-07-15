@@ -1,0 +1,420 @@
+id: tanacetum-parthenium
+scientific_name: Tanacetum parthenium
+names:
+  hr:
+  - name: Majčinski vratić
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Řimbaba obecná
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:cs
+  da:
+  - name: Matrem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Moderurt
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Hvid Reseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Rank Frøstjerne
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Moederkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q818481
+    - wikipedia:nl
+  en:
+  - name: Feverfew
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q818481
+  - name: Featherfew
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Feather-leaved Tansy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Feverfew
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Lõhnav neitsikummel
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: reunuspietaryrtti
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q818481
+    - wikipedia:fi
+  - name: Valkoreseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Pikkuängelmä
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Hoikkaängelmä
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Grande camomille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q818481
+  - name: pyrèthre doré
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: pyrèthre mousse
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Tanaisie matricaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: grande camomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: chrysanthème matricaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Tanaisie matricaire, Matricaire, Gros camomille, Matrécoeur, Matricoeur
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Tanaisie matricaire, Grande camomille, Tanaisie parthénium, Partenelle, Pyrèthre doré
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Mutterkraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q818481
+    - wikipedia:de
+  - name: Falsche Kamille
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Mutterkamille
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Frauen-Wucherblume, Mutterkraut
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  hu:
+  - name: Őszi margitvirág
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  ga:
+  - name: Lus deartán
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Matricale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Erba amara vera
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  lt:
+  - name: Vaistinis skaistenis
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Wrotycz maruna
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:pl
+  pt:
+  - name: rainha-das-ervas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: artemijo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: artemiza
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: olguinha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: artemeija
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: artemisia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: margaridinha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: macela-da-serra
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: margaridinha-branca
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: matricária-cheirosa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: artemísia-bastarda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: alfinetes-de-senhora
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: artemísia-dos-prados
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: artemísia-dos-ervanários
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Spilcuță
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Rimbaba obyčajná
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: beli vratič
+    sources:
+    - wikidata:Q818481
+    status: needs-review
+  - name: materine drobtinice
+    sources:
+    - wikidata:Q818481
+    status: needs-review
+  es:
+  - name: altamisa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: matricaria
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: artemísia-dos-prados
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: mattram
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: Matram
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Bertram
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Glansruta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vitreseda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vanlig backruta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: reunuspietaryrtti
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: piretrum devičij
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Пижма девичья
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Маруна дівоча
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: matremkrage
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: matrem
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: Kvitreséda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Kystfrøstjerne
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Smalfrøstjerne
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ca:
+  - name: Segura
+    sources:
+    - wikipedia:ca
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

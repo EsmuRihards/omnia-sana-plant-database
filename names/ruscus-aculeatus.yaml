@@ -1,0 +1,272 @@
+id: ruscus-aculeatus
+scientific_name: Ruscus aculeatus
+names:
+  bg:
+  - name: Бодлив залист
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Bodljikava veprina
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Listnatec pichlavý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Musetorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  nl:
+  - name: Stekelige muizendoorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  en:
+  - name: Butcher's-Broom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: box-holly
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  et:
+  - name: Torkav ruskus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Pikkuruskus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: Fragon piquant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asparagaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asparagaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Petit houx
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asparagaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asparagaceae
+  - name: petit-houx
+    sources:
+    - col:catalogue-of-life
+  - name: fragon épineux
+    sources:
+    - col:catalogue-of-life
+  - name: Fragon faux houx
+    sources:
+    - col:catalogue-of-life
+  - name: fragon faux-houx
+    sources:
+    - col:catalogue-of-life
+  - name: Fragon
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Fragon piquant, Fragon, Petit houx, Buis piquant, Fragon petit houx
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Stechender Mäusedorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: Maeusedorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asparagaceae
+    - gbif:info-flora-schweiz-asparagaceae
+  - name: Dornmyrte
+    sources:
+    - col:catalogue-of-life
+  - name: Stacheliger Mäusedorn
+    sources:
+    - col:catalogue-of-life
+  - name: Mäusedorn
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  el:
+  - name: Λαγομηλιά
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: Οξυμυρσίνη η ακανθώδης
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Szúrós csodabogyó
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Ruscolo pungitopo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asparagaceae
+    - gbif:info-flora-schweiz-asparagaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: pungitopo
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Dygioji Pelžiedė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Myszopłoch kolczasty
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Gilbardeira
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: rusco
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  ro:
+  - name: Ghimpe pădureț
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: listnatec ostnatý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: bodeča lobodika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161425
+    - wikipedia:sl
+  es:
+  - name: Rusco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: stickmyrten
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+  ru:
+  - name: Иглица колючая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Рускус колючий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:list-of-representatives-of-fauna-and-flo
+    - wikipedia:uk
+  sr:
+  - name: Кострика
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  - name: Kostrika
+    sources:
+    - col:catalogue-of-life
+  - name: Bodljikava veprina
+    sources:
+    - col:catalogue-of-life
+  ca:
+  - name: Galzeran
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  - name: Cirerer de Betlem
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: tavşan memesi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Adi tavşanmemesi
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

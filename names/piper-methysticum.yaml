@@ -1,0 +1,244 @@
+id: piper-methysticum
+scientific_name: Piper methysticum
+names:
+  hr:
+  - name: Paparovke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: pepřovníkovité
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Pepřovník opojný
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Peberfamilien
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Peber-familien
+    sources:
+    - col:catalogue-of-life
+  - name: Kava
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Kava
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Kava
+    preferred: true
+    sources:
+    - wikidata:Q161067
+    - wikipedia:en
+  - name: Pepper family
+    sources:
+    - col:catalogue-of-life
+  - name: pepper plant family
+    sources:
+    - col:catalogue-of-life
+  - name: Peppers
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+  et:
+  - name: Pipralised
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: Kavapippuri
+    preferred: true
+    sources:
+    - wikidata:Q161067
+    - wikipedia:fi
+  - name: pippurikasvit
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: Kava
+    sources:
+    - wikipedia:fr
+    status: needs-review
+  - name: Pipéracées
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kava
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Πιπερίδες
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Borsfélék
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kava
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Piperacee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Kava
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Pipiriniai
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Svaigusis pipiras
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Pieprzowate
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Pieprz metystynowy
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  ro:
+  - name: Kava
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: pieprovité
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: Kava Kava
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: Pimientas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: pepparväxter
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Kava
+    sources:
+    - wikipedia:sv
+    status: needs-review
+  ru:
+  - name: Перечные
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Перец опьяняющий
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Перцеві
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Перець п'янкий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: peparfamilien
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: pepperfamilien
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: Kava
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Kava
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Piperàcies
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Karabibergiller
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kava
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,99 @@
+id: andrographis-paniculata
+scientific_name: Andrographis paniculata
+names:
+  cs:
+  - name: Měkýn latnatý
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  en:
+  - name: Green chiretta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: creat
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: green chireta
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  fi:
+  - name: Rohtokirata
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1551608
+    - wikipedia:fi
+  fr:
+  - name: roi des amers
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  de:
+  - name: Kalmegh
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  pl:
+  - name: Brodziuszka wiechowata
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  sk:
+  - name: andrografka metlinatá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ru:
+  - name: Андрографис метельчатый
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

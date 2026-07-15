@@ -1,0 +1,344 @@
+id: lysimachia-vulgaris
+scientific_name: Lysimachia vulgaris
+names:
+  cs:
+  - name: Vrbina obecná
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:cs
+  da:
+  - name: Almindelig fredløs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q147843
+    - wikipedia:da
+  nl:
+  - name: Grote wederik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q147843
+    - wikipedia:nl
+  en:
+  - name: Yellow loosestrife
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q147843
+  - name: garden loosestrife
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+  - name: garden yellow loosestrife
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q147843
+  - name: willowwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: loosestrife
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: willow-weed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: golden loosestrife
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Willow-wort
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: Harilik metsvits
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:et
+  - name: Metsvits
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  fi:
+  - name: ranta-alpi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q147843
+    - wikipedia:fi
+  fr:
+  - name: Lysimaque commune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-primulaceae
+    - gbif:info-flora-schweiz-primulaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q147843
+    - wikipedia:fr
+  - name: chasse-bosses
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: lysimaque vulgaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: herbe aux corneilles
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Grande lysimaque
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  - name: Lysimaque commune, Lysimaque vulgaire, Chasse-bosse
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnlicher Gilbweiderich
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q147843
+    - wikipedia:de
+  - name: Gemeiner Gilbweiderich
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-primulaceae
+    - gbif:info-flora-schweiz-primulaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Rispen-Gilbweiderich
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  - name: Gewöhnlicher Felberich
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  hu:
+  - name: Közönséges lizinka
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:hu
+  ga:
+  - name: Breallán léana
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Mazza d'oro comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-primulaceae
+    - gbif:info-flora-schweiz-primulaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Mazza d’Oro Comune
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  lv:
+  - name: Parastā zeltene
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Paprastoji šilingė
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:lt
+  pl:
+  - name: Tojeść pospolita
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:pl
+  sk:
+  - name: čerkáč obyčajný
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  sl:
+  - name: Navadna pijavčnica
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:sl
+  es:
+  - name: lisimaquia
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  - name: lisimaquia áurea
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  - name: lisimaquia vulgar
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  - name: hierba de la sangre
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  - name: lisimaquia amarilla
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  - name: hierba de las acequias
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  sv:
+  - name: strandlysing
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q147843
+    - wikipedia:sv
+  - name: videört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q147843
+  - name: ranta-alpi
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Vanlig lysing
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  ru:
+  - name: Вербейник обыкновенный
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:ru
+  uk:
+  - name: Вербозілля звичайне
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:uk
+  'no':
+  - name: fredløs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q147843
+    - wikipedia:no
+  - name: fredlaus
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q147843
+    - wikipedia:no
+  ca:
+  - name: Lisimàquia
+    preferred: true
+    sources:
+    - wikidata:Q147843
+    - wikipedia:ca
+  - name: Lisimàquia vulgar
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+  be:
+  - name: Лазаніца звычайная
+    sources:
+    - wikipedia:be
+    status: needs-review
+  - name: Лазанiца звычайная
+    sources:
+    - wikidata:Q147843
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

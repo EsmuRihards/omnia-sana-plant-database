@@ -1,0 +1,361 @@
+id: verbena-officinalis
+scientific_name: Verbena officinalis
+names:
+  bg:
+  - name: Върбинка
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  - name: Лечебна върбинка
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: sporýš lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q161417
+    - wikipedia:cs
+  da:
+  - name: Læge-jernurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Jernurt
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Lægejernurt
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: IJzerhard
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q161417
+    - wikipedia:nl
+  en:
+  - name: Vervain
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q161417
+  - name: Common vervain
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Herb of the cross
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q161417
+  - name: common verbena
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:grin-taxonomy
+  - name: turkey-grass
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: wild verbena
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: simpler's-joy
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: European vervain
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: official vervain
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: European Verbena
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: harilik raudürt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: rohtoverbena
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q161417
+    - wikipedia:fi
+  fr:
+  - name: Verveine officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-verbenaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-verbenaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q161417
+    - wikipedia:fr
+  - name: Verveine sauvage
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q161417
+  - name: Herbe sacrée
+    sources:
+    - wikidata:Q161417
+    status: needs-review
+  - name: Veine de Vénus
+    sources:
+    - wikidata:Q161417
+    status: needs-review
+  - name: Herbe aux sorcières
+    sources:
+    - wikidata:Q161417
+    status: needs-review
+  - name: Verveine officinale, verveine sauvage
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echtes Eisenkraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q161417
+    - wikipedia:de
+  - name: Eisenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-verbenaceae
+    - gbif:info-flora-schweiz-verbenaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q161417
+  - name: Gewöhnliches Eisenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  el:
+  - name: Βερβένα η φαρμακευτική
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Közönséges vasfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Verbena comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-verbenaceae
+    - gbif:info-flora-schweiz-verbenaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Ārstniecības verbēna
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Vaistinė verbena
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Werbena pospolita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Werbena lekarska
+    sources:
+    - col:catalogue-of-life
+  - name: witułka pospolita
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: verbena
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: ferraria
+    sources:
+    - col:catalogue-of-life
+  - name: erva-de-ferro
+    sources:
+    - col:catalogue-of-life
+  - name: Verbena-comum
+    sources:
+    - col:catalogue-of-life
+  - name: planta-da-sorte
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Sporici
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Verbină comună
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Železník lekársky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Navadni sporiš
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161417
+  es:
+  - name: verbena común
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: järnört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  - name: Läkeverbena
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: rohtoverbena
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Вербена лекарственная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Вербена лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: jernurt
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  sr:
+  - name: Обична врбена
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ca:
+  - name: Berbena
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Вербена лекавая
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Mine çiçeği
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:divri-i-kars-georgia-border-railway-line
+  - name: güvercin otu
+    sources:
+    - col:catalogue-of-life
+  - name: Tıbbi mine çiçeği
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

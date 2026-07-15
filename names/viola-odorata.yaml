@@ -1,0 +1,420 @@
+id: viola-odorata
+scientific_name: Viola odorata
+names:
+  bg:
+  - name: Горска теменуга
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:bg
+  - name: Миризлива горска теменуга
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  cs:
+  - name: violka vonná
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q108684
+    - wikipedia:cs
+  da:
+  - name: Martsviol
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:da
+  - name: Marts-viol
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q108684
+  nl:
+  - name: Maarts viooltje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q108684
+    - wikipedia:nl
+  en:
+  - name: Sweet Violet
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q108684
+  - name: Garden violet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q108684
+  - name: English violet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q108684
+  - name: florist's violet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q108684
+  - name: common violet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q108684
+  - name: March violet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: sweet blue violet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: wood violet
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  et:
+  - name: Lõhnav kannike
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q108684
+    - wikipedia:et
+  fi:
+  - name: tuoksuorvokki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q108684
+    - wikipedia:fi
+  fr:
+  - name: Violette odorante
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-violaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-violaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxref
+    - wikidata:Q108684
+    - wikipedia:fr
+  - name: Violette
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Duftveilchen
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:de
+  - name: Wohlriechendes Veilchen
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-violaceae
+    - gbif:info-flora-schweiz-violaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q108684
+  - name: März-Veilchen
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q108684
+  - name: Märzveilchen
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  el:
+  - name: Ίον το εύοσμον
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Illatos ibolya
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:hu
+  ga:
+  - name: Sailchuach chumhra
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Viola mammola
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-violaceae
+    - gbif:info-flora-schweiz-violaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q108684
+  lv:
+  - name: smaržīg
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Kvapioji našlaitė
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q108684
+    - wikipedia:lt
+  pl:
+  - name: Fiołek wonny
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:pl
+  pt:
+  - name: violeta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: violeta-de-cheiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Toporaş
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  sk:
+  - name: Fialka voňavá
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:sk
+  sl:
+  - name: Dišeča vijolica
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:sl
+  es:
+  - name: alhelí
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violetas
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: viroletas
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violetones
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: viola común
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: viola de olor
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: viola olorosa
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta común
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta doble
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta blanca
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta acopada
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta de olor
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta olorosa
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta purpúrea
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta aromática
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta de jardín
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta verdadera
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: violeta de olor o común
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  sv:
+  - name: luktviol
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q108684
+    - wikipedia:sv
+  - name: tuoksuorvokki
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Фиалка душистая
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:ru
+  - name: fialka
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Фіалка запашна
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:uk
+  'no':
+  - name: marsfiol
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q108684
+    - wikipedia:no
+  - name: Viola odoráta
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  ca:
+  - name: Viola d'olor
+    preferred: true
+    sources:
+    - wikidata:Q108684
+    - wikipedia:ca
+  - name: Violeta
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: Viola d’olor
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: Viola boscana
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  - name: Violer d'olor
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+  tr:
+  - name: Kokulu menekşe
+    sources:
+    - wikidata:Q108684
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

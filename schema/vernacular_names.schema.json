@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omniasana.bio/schema/vernacular_names.schema.json",
+  "title": "Vernacular names record",
+  "description": "Verified multilingual common names for one plant species. Machine-managed by scripts/verify_names.py — NOT hand-edited. Joined to plants/<id>.yaml by the shared `id`. Every name carries the authoritative source(s) that attest it; a name may never exist without at least one source (data-quality guarantee enforced structurally). Names/translations only — no medicinal content lives here.",
+  "type": "object",
+  "required": ["id", "scientific_name", "names"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Foreign key -> plants/<id>.yaml (same stable slug)."},
+    "scientific_name": {"type": "string", "description": "Denormalized from the plant record so this file is readable / usable standalone."},
+    "names": {
+      "type": "object",
+      "description": "Map of ISO 639-1 language code -> array of verified vernacular names for that language. Language codes must exist and be `enabled` in vocabularies/languages.yaml.",
+      "propertyNames": {"pattern": "^[a-z]{2}$"},
+      "additionalProperties": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "required": ["name", "sources"],
+          "additionalProperties": false,
+          "properties": {
+            "name": {"type": "string", "description": "The vernacular name, in the source's original casing/orthography (NFC-normalized)."},
+            "preferred": {"type": "boolean", "description": "Exactly one name per language SHOULD be flagged preferred (the canonical display form). Chosen by: curated authority > most-attested > Wikipedia title."},
+            "sources": {
+              "type": "array",
+              "minItems": 1,
+              "items": {"type": "string", "pattern": "^(gbif|wikidata|wikipedia|eppo|powo|col):"},
+              "description": "Provenance tokens: '<provider>:<id-or-dataset>'. Independence for the accept rule is counted across distinct tokens. A published (status: verified) name needs either >=1 curated-authority token (eppo:/powo:/col:/a curated gbif dataset) OR >=2 independent tokens."
+            },
+            "status": {"type": "string", "enum": ["verified", "needs-review"], "description": "verified = passed the strict multi-source accept rule and is served publicly. needs-review = single unconfirmed source, held back (NEVER served publicly)."},
+            "romanization": {"type": "string", "description": "Optional Latin-script transliteration for names in non-Latin scripts (Cyrillic/Greek). Aids search; never replaces the native form."}
+          }
+        }
+      }
+    },
+    "verification": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Honest 'checked vs found' record, mirroring the plant schema's lookalikes_review pattern: a language in `checked_languages` but absent from `names` was searched and no verified name was found (a real gap), distinct from a language never checked.",
+      "properties": {
+        "checked_languages": {"type": "array", "items": {"type": "string", "pattern": "^[a-z]{2}$"}},
+        "sources_queried": {"type": "array", "items": {"type": "string"}},
+        "last_run": {"type": "string", "format": "date"}
+      }
+    },
+    "last_verified": {"type": "string", "format": "date"}
+  }
+}

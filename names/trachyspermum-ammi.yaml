@@ -1,0 +1,165 @@
+id: trachyspermum-ammi
+scientific_name: Trachyspermum ammi
+names:
+  bg:
+  - name: Ажгон
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  da:
+  - name: Vortefrugt
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    status: needs-review
+  nl:
+  - name: Ajowan
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Ajowan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: kummel
+    sources:
+    - col:catalogue-of-life
+  - name: bishop's-weed
+    sources:
+    - col:catalogue-of-life
+  - name: Ethiopian-caraway
+    sources:
+    - col:catalogue-of-life
+  - name: Ajwain
+    sources:
+    - wikipedia:en
+    status: needs-review
+  - name: Ajowan caraway
+    sources:
+    - wikidata:Q413254
+    status: needs-review
+  fi:
+  - name: Intiankumina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: ammi de l'Inde
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ajowan
+    sources:
+    - wikipedia:fr
+    status: needs-review
+  de:
+  - name: indischer Kümmel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ajowan
+    sources:
+    - wikipedia:de
+    status: needs-review
+  hu:
+  - name: Ajovan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Erba del vescovo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Adżwan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Chropawiec wonny
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  sk:
+  - name: drsnoplodka parascová
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Ajowán
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: Ajowan
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    status: needs-review
+  - name: Ajovan
+    sources:
+    - wikipedia:sv
+    status: needs-review
+  ru:
+  - name: Ажгон
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Айован обыкновенный
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Ажгон
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  tr:
+  - name: trakispermum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

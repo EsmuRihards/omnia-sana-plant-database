@@ -1,0 +1,367 @@
+id: allium-sativum
+scientific_name: Allium sativum
+names:
+  bg:
+  - name: Чесън
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Češnjak
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: česnek kuchyňský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q23400
+    - wikipedia:cs
+  - name: Česnek
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: Hvidløg
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  nl:
+  - name: Knoflook
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikipedia:nl
+  en:
+  - name: Garlic
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikipedia:en
+  - name: cultivated garlic
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q23400
+  - name: Garden Garlic
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Küüslauk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Valkosipuli
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  - name: kynsilaukka
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q23400
+  fr:
+  - name: ail cultivé
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q23400
+    - wikipedia:fr
+  - name: Ail
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-amaryllidaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-amaryllidaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q23400
+  - name: Ail commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q23400
+  - name: ail blanc
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Ail cultivé, Ail
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Ail, Ail commun, Ail cultivé, Ail rocambole
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Knoblauch
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-amaryllidaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-amaryllidaceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q23400
+    - wikipedia:de
+  el:
+  - name: Σκόρδο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  hu:
+  - name: Fokhagyma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Gairleog
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Aglio comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-amaryllidaceae
+    - gbif:info-flora-schweiz-amaryllidaceae
+  - name: Aglio
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Ķiploks
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Valgomasis česnakas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  - name: Česnakas
+    sources:
+    - col:catalogue-of-life
+  mt:
+  - name: Tewm
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  pl:
+  - name: Czosnek pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Czosnek
+    sources:
+    - col:catalogue-of-life
+  - name: Czosnek zwyczajny
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: alho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: alho-comum
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: alho-de-cabeça
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  ro:
+  - name: Usturoi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Cesnak kuchynský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Česen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q23400
+    - wikipedia:sl
+  es:
+  - name: ajo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: vitlök
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Чеснок
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Лук чеснок
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Часник городній
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Часник
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: hvitløk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: kvitlauk
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  - name: kvitløk
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Бели лук
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Bijeli luk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bs
+  sq:
+  - name: Hudhra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sq
+  is:
+  - name: Hvítlaukur
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: All
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Часнок
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Sarımsak
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+  - name: Sarmısak
+    sources:
+    - col:catalogue-of-life
+  - name: Sarmisak disi
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

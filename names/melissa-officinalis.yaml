@@ -1,0 +1,458 @@
+id: melissa-officinalis
+scientific_name: Melissa officinalis
+names:
+  bg:
+  - name: Маточина
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148396
+    - wikipedia:bg
+  hr:
+  - name: Melisa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Matičnjak
+    sources:
+    - col:catalogue-of-life
+  - name: Pčelinja metvica
+    sources:
+    - col:catalogue-of-life
+  - name: Ljekoviti matičnjak
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: meduňka lékařská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q148396
+    - wikipedia:cs
+  - name: medovka lekárska
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Citronmelisse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Hjertensfryd
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Citroenmelisse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q148396
+    - wikipedia:nl
+  en:
+  - name: Lemon balm
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q148396
+    - wikipedia:en
+  - name: sweet balm
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Balm
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q148396
+  - name: common balm
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Beebalm
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Melissa
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Bee Herb
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Tea Balm
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Lemonbalm
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Garden Balm
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Sidrunmeliss
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: aedmeliss
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: sitruunamelissa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q148396
+    - wikipedia:fi
+  fr:
+  - name: mélisse officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikipedia:fr
+  - name: mélisse
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q148396
+  - name: Melisse officinale
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: melisse
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Mélisse citronelle
+    sources:
+    - col:catalogue-of-life
+  - name: Mélisse officinale, Mélisse citronnelle, Citronnelle
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Zitronenmelisse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - wikidata:Q148396
+    - wikipedia:de
+  - name: Zitronen-Melisse
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q148396
+  el:
+  - name: Μελισσόχορτο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  hu:
+  - name: Citromfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: orvosi citromfű
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Lus na meala
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Melissa vera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Ārstniecības melisa
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  - name: citronmētra
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Vaistinė melisa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Melisa lekarska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: erva-cidreira
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: melissa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cidreira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cidrilha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: melitéia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-luísa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: chá-da-frança
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: melissa-romana
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: chá-de-tabuleiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cidreira-verdadeira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-cidreira-verdadeira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Roiniță
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Medovka lekárska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadna melisa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148396
+    - wikipedia:sl
+  es:
+  - name: citraria
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: toronjil
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Limoncillo
+    sources:
+    - col:catalogue-of-life
+  - name: balsamita mayor
+    sources:
+    - col:catalogue-of-life
+  - name: erva-cidreira
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: citronmeliss
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: sitruunamelissa
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Мелисса лекарственная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148396
+    - wikipedia:ru
+  - name: melissa lekarstvennaja
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Меліса лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: sitronmelisse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Матичњак
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Matičnjak
+    preferred: true
+    sources:
+    - wikidata:Q148396
+    - wikipedia:bs
+  is:
+  - name: Sítrónumelissa
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: tarongina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Melissa
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Меліса лекавая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: oğulotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Oğul otu
+    sources:
+    - wikidata:Q148396
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

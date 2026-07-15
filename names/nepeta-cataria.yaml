@@ -1,0 +1,458 @@
+id: nepeta-cataria
+scientific_name: Nepeta cataria
+names:
+  hr:
+  - name: Prava mačja metvica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: šanta kočičí
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161139
+    - wikipedia:cs
+  - name: šanta ko
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: kocúrnik oby
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Almindelig katteurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikipedia:da
+  - name: Katteurt
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Kattemynte
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Wild kattenkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q161139
+    - wikipedia:nl
+  - name: wilde kattenkruid
+    sources:
+    - wikidata:Q161139
+    status: needs-review
+  en:
+  - name: Catnip
+    preferred: true
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q161139
+    - wikipedia:en
+  - name: catmint
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Cat-mint
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Wild Catmint
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Cat Mint
+    sources:
+    - col:catalogue-of-life
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Catwort
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Field Balm
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: catswort
+    sources:
+    - wikidata:Q161139
+    status: needs-review
+  - name: or catmint
+    sources:
+    - wikidata:Q161139
+    status: needs-review
+  et:
+  - name: Harilik naistenõges
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q161139
+    - wikipedia:et
+  fi:
+  - name: aitokissanminttu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q161139
+    - wikipedia:fi
+  fr:
+  - name: cataire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q161139
+    - wikipedia:fr
+  - name: herbe aux chats
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q161139
+  - name: Nepeta chataire
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: chataire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: herbe à chat
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: herbe à chats
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: népéta cataire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: népète chataire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: menthe des chats
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Népéta chataire
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  - name: Népéta cataire, Herbe-aux-chats, Cataire, Menthe des chats, Cataire commune
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echte Katzenminze
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q161139
+    - wikipedia:de
+  - name: Gewöhnliche Katzenminze
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Echter Andorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Katzenminze
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Katzenmelisse
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Νεπέτα
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Illatos macskamenta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Gattaia comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Erba dei gatti
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: erba-de-gatta
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Gattaria
+    sources:
+    - col:catalogue-of-life
+  - name: Erba gatta
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Kaķumētra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  - name: īst
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Paprastoji katžolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q161139
+    - wikipedia:lt
+  pl:
+  - name: Kocimiętka właściwa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: erva-gateira
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: catária
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-dos-gatos
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Gatária
+    sources:
+    - col:catalogue-of-life
+  - name: Erva-de-gato
+    sources:
+    - col:catalogue-of-life
+  - name: Nêveda-de-gato
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Cătușnică
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Kocúrnik obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Mačja meta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sl
+  es:
+  - name: hierba gatera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: menta de gato
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Menta gatuna
+    sources:
+    - col:catalogue-of-life
+  - name: Hierba del gato
+    sources:
+    - col:catalogue-of-life
+  - name: Hierba de los gatos
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: kattmynta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - wikidata:Q161139
+    - wikipedia:sv
+  - name: aitokissanminttu
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Котовник кошачий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161139
+    - wikipedia:ru
+  - name: kotovnik košačij
+    sources:
+    - col:catalogue-of-life
+  - name: кошачья мята
+    sources:
+    - wikidata:Q161139
+    status: needs-review
+  uk:
+  - name: Котяча м'ята справжня
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: kattemynte
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: legekattemynte
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: lækjekattemynte
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  bs:
+  - name: Macina trava
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bs
+  ca:
+  - name: Herba gatera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Nepta
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Кацямятка каціная
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Kedi nanesi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161139
+    - wikipedia:tr
+  - name: nezleotu
+    sources:
+    - col:catalogue-of-life
+  - name: Nezle otu
+    sources:
+    - wikidata:Q161139
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

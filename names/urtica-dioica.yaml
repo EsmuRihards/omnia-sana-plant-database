@@ -1,0 +1,394 @@
+id: urtica-dioica
+scientific_name: Urtica dioica
+names:
+  bg:
+  - name: Обикновена коприва
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:bg
+  hr:
+  - name: Obična kopriva
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  - name: Kopriva
+    sources:
+    - wikidata:Q155909
+    status: needs-review
+  cs:
+  - name: Kopřiva dvoudomá
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:cs
+  da:
+  - name: Stor nælde
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q155909
+    - wikipedia:da
+  nl:
+  - name: Grote brandnetel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q155909
+    - wikipedia:nl
+  en:
+  - name: Stinging Nettle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q155909
+  - name: common nettle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q155909
+  - name: Nettle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: tall nettle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Giant Nettle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European Nettle
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Slender Nettle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: California Nettle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Wild Nettle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Big-sting Nettle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Stinging Nettle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Kõrvenõges
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:et
+  fi:
+  - name: Nokkonen
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:fi
+  - name: isonokkonen
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q155909
+  fr:
+  - name: grande ortie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q155909
+    - wikipedia:fr
+  - name: Ortie dioique
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-urticaceae
+    - gbif:info-flora-schweiz-urticaceae
+  - name: ortie
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: grande ortie, ortie dioïque
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q155909
+  - name: Ortie dioïque
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Ortie dioïque, Grande ortie
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Große Brennnessel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-urticaceae
+    - gbif:info-flora-schweiz-urticaceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q155909
+    - wikipedia:de
+  - name: Grosse Brennessel
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q155909
+  el:
+  - name: Κνίδη
+    sources:
+    - wikidata:Q155909
+    status: needs-review
+  hu:
+  - name: Nagy csalán
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:hu
+  it:
+  - name: Ortica comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-urticaceae
+    - gbif:info-flora-schweiz-urticaceae
+  - name: Ortica
+    sources:
+    - wikidata:Q155909
+    status: needs-review
+  lv:
+  - name: Lielā nātre
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:lv
+  lt:
+  - name: Didžioji dilgėlė
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:lt
+  pl:
+  - name: Pokrzywa zwyczajna
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:pl
+  pt:
+  - name: urtiga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Urtiga-maior
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q155909
+  - name: urtigão
+    sources:
+    - col:catalogue-of-life
+  - name: urtiga-mansa
+    sources:
+    - col:catalogue-of-life
+  - name: urtiga-vermelha
+    sources:
+    - col:catalogue-of-life
+  - name: ortiga
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  ro:
+  - name: Urzică
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:ro
+  sk:
+  - name: Pŕhľava dvojdomá
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:sk
+  sl:
+  - name: Velika kopriva
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:sl
+  es:
+  - name: ortiga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q155909
+  - name: chichicaste
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Ortiga mayor
+    sources:
+    - wikidata:Q155909
+    status: needs-review
+  sv:
+  - name: brännässla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q155909
+    - wikipedia:sv
+  ru:
+  - name: Крапива двудомная
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:ru
+  uk:
+  - name: Кропива дводомна
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:uk
+  'no':
+  - name: stornesle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q155909
+    - wikipedia:no
+  sr:
+  - name: Коприва
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:sr
+  bs:
+  - name: Kopriva
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:bs
+  sq:
+  - name: Hithra
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  - name: Hithri
+    sources:
+    - wikidata:Q155909
+    status: needs-review
+  is:
+  - name: Brenninetla
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:is
+  ca:
+  - name: Ortiga gran
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:ca
+  be:
+  - name: Крапіва двухдомная
+    preferred: true
+    sources:
+    - wikidata:Q155909
+    - wikipedia:be
+  tr:
+  - name: Büyük ısırgan
+    sources:
+    - wikidata:Q155909
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

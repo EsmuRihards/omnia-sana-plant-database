@@ -1,0 +1,359 @@
+id: leonurus-cardiaca
+scientific_name: Leonurus cardiaca
+names:
+  bg:
+  - name: Дяволска уста
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Prava srčenica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Srdečník obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  - name: buřina srdečník
+    sources:
+    - col:catalogue-of-life
+  - name: srdečník obecný pravý
+    sources:
+    - col:catalogue-of-life
+  - name: srdečník obecný huňatý
+    sources:
+    - col:catalogue-of-life
+  - name: srde
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: srdcovník oby
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: buřina srdečník pravá
+    sources:
+    - wikidata:Q161130
+    status: needs-review
+  da:
+  - name: Almindelig hjertespand
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikipedia:da
+  - name: Hjertespand
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  nl:
+  - name: Hartgespan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:world-register-of-marine-species
+    - wikidata:Q161130
+    - wikipedia:nl
+  en:
+  - name: Motherwort
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q161130
+  - name: common motherwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q161130
+  - name: common mother-wort
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Veiste-südamerohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: rohtonukula
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q161130
+    - wikipedia:fi
+  - name: lännenrohtonukula
+    sources:
+    - col:catalogue-of-life
+  - name: Nukula
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q161130
+  fr:
+  - name: Agripaume
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q161130
+    - wikipedia:fr
+  - name: Agripaume cardiaque
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q161130
+  - name: Léonure cardiaque
+    sources:
+    - col:catalogue-of-life
+  - name: Agripaume cardiaque, Queue-de-lion
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echtes Herzgespann
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q161130
+    - wikipedia:de
+  - name: Herzgespann
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - wikidata:Q161130
+  - name: Löwenschwanz
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Loewenschwanz
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Herzspannkraut
+    sources:
+    - col:catalogue-of-life
+  - name: Zottiger Löwenschwanz
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Herzgespann, Löwenschwanz
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  hu:
+  - name: Szúrós gyöngyajak
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Cardiaca comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Sirds mātere
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Paprastoji sukatžolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Serdecznik pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: agripalma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: Srdcovník obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: deljenolistna srčnica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161130
+    - wikipedia:sl
+  es:
+  - name: Agripalma
+    sources:
+    - wikidata:Q161130
+    status: needs-review
+  sv:
+  - name: hjärtstilla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - gbif:world-register-of-marine-species
+    - wikipedia:sv
+  - name: äkta hjärtstilla
+    sources:
+    - col:catalogue-of-life
+  - name: nukula
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Пустырник сердечный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: pustyrnik obyknovennyj
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Собача кропива звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Собача кропива п'ятилопатева
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: løvehale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - gbif:world-register-of-marine-species
+    - wikipedia:no
+  - name: tunløvehale
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: vanleg løvehale
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: vanlig løvehale
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: mor-dull
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: aaskenæta
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: svart-dull
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Срдачица
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  be:
+  - name: Сардэчнік звычайны або сардэчны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Сардэчнік сардэчны
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Aslan kuyruğu bitkisi
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

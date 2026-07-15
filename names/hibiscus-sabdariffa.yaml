@@ -1,0 +1,188 @@
+id: hibiscus-sabdariffa
+scientific_name: Hibiscus sabdariffa
+names:
+  bg:
+  - name: Суданска роза
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: Ibišek súdánský
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  nl:
+  - name: Roselle
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Roselle
+    preferred: true
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q319390
+    - wikipedia:en
+  - name: Sorrel
+    sources:
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:grin-taxonomy
+  - name: red-sorrel
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: Indian-sorrel
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: Jamaica-sorrel
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  fi:
+  - name: Teehibiskus
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Oseille de Guinée
+    preferred: true
+    sources:
+    - gbif:grin-taxonomy
+    - gbif:taxref
+  - name: Roselle
+    sources:
+    - gbif:vernacular-names-of-the-flore-d-afrique-
+    status: needs-review
+  - name: Groseille
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Roselle
+    sources:
+    - wikipedia:de
+    status: needs-review
+  - name: Rosella
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: Malventee
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  hu:
+  - name: Rozella
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lt:
+  - name: Jamaikinė kinrožė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Ketmia szczawiowa
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: vinagreira
+    preferred: true
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q319390
+  - name: rosela
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: groselha
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: groselheira
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: quiabo-roxo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: caruru-azedo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  es:
+  - name: serení
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: rosa de Jamaica
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: acedera de Guinea
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  sv:
+  - name: Rosellhibiskus
+    preferred: true
+    sources:
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Розелла
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  ca:
+  - name: Rosa de Jamaica
+    sources:
+    - wikipedia:ca
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,169 @@
+id: curcuma-longa
+scientific_name: Curcuma longa
+names:
+  nl:
+  - name: Geelwortel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Turmeric
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: common turmeric
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+  - name: Indian-saffron
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  et:
+  - name: harilik kurkum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: harilik kurkuma
+    sources:
+    - col:catalogue-of-life
+  - name: harilik kollajuur
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: maustekurkuma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: Safran des Indes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Curcuma
+    sources:
+    - gbif:grin-taxonomy
+    - gbif:taxref
+  - name: Curcuma long, Safran, Curcuma, Curry, Safran des Indes, Safran pays
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Curcuma, Safran des Indes, Safran calédonien, Safran des îles, Safran de montagne, Safran du
+      pays, Faux safran, Safran
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kurkuma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Gelbwurzel
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  it:
+  - name: Curcuma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Turmerico
+    sources:
+    - col:catalogue-of-life
+  - name: Zafferano delle indie
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: ostryż długi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: açafrão-da-terra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: açafrão-da-Índia
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  sk:
+  - name: kurkuma pravá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Cúrcuma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: azafrán de la India
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  sv:
+  - name: Gurkmeja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  ru:
+  - name: Куркума длинная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: zerdeçal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

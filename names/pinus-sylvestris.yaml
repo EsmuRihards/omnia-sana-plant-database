@@ -1,0 +1,527 @@
+id: pinus-sylvestris
+scientific_name: Pinus sylvestris
+names:
+  bg:
+  - name: Бял бор
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Obični bor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: borovice lesní
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q133128
+    - wikipedia:cs
+  da:
+  - name: Skovfyr
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Skov-fyr
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Have-Kørvel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vild Kørvel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Gærde-Kørvel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Hundepersille
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Grove den
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q133128
+    - wikipedia:nl
+  en:
+  - name: Scots Pine
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q133128
+  - name: Scotch pine
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q133128
+  - name: Native Scots Pinewood
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Scots Pine, Scotch Pine, Baltic Pine
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: harilik mänd
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q133128
+    - wikipedia:et
+  fi:
+  - name: metsämänty
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q133128
+  - name: Mänty
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  - name: Koiranputki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: (metsä)mänty
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Maustekirveli
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Piikkikirveli
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Aitohukanputki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Pin sylvestre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-pinaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-pinaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q133128
+    - wikipedia:fr
+  - name: Daille
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-pinaceae
+    - gbif:info-flora-schweiz-pinaceae
+  de:
+  - name: Waldkiefer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - wikidata:Q133128
+    - wikipedia:de
+  - name: Wald-Kiefer
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-pinaceae
+    - gbif:info-flora-schweiz-pinaceae
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q133128
+  - name: Föhre
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q133128
+  - name: Daehle
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-pinaceae
+    - gbif:info-flora-schweiz-pinaceae
+  - name: Wald-Foehre
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-pinaceae
+    - gbif:info-flora-schweiz-pinaceae
+  - name: Gemeine Kiefer
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Gewöhnliche Kiefer
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q133128
+  - name: Rot-Kiefer
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q133128
+  - name: Wald-Föhre
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  - name: Wald-Kiefer, Föhre
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  el:
+  - name: Δασική Πεύκη
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  hu:
+  - name: Erdeifenyő
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Péine Albanach
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Pino silvestre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-pinaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-pinaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Pino rosso
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-pinaceae
+    - gbif:info-flora-schweiz-pinaceae
+  lv:
+  - name: Parastā priede
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Paprastoji pušis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Sosna Zwyczajna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q133128
+    - wikipedia:pl
+  pt:
+  - name: PINHEIRO-SILVESTRE
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:lista-vermelha-da-flora-vascular-de-port
+  - name: PINHEIRO-DE-CASQUINHA
+    sources:
+    - col:catalogue-of-life
+    - gbif:lista-vermelha-da-flora-vascular-de-port
+  - name: Pinheiro silvestre
+    sources:
+    - col:catalogue-of-life
+  - name: pinho
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinho-de-riga
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinheiro-bravo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinho-silvestre
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinheiro-de-riga
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinho-da-escócia
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinheiro-do-norte
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinheiro-da-rússia
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinheiro-de-genebra
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: pinheiro-de-mastreação
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  ro:
+  - name: Pin de pădure
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Borovica lesná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q133128
+    - wikipedia:sk
+  sl:
+  - name: rdeči bor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q133128
+    - wikipedia:sl
+  es:
+  - name: pino sylvestris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: pino silvestre
+    sources:
+    - wikidata:Q133128
+    status: needs-review
+  sv:
+  - name: tall
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:sv
+  - name: fur
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: fura
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: skogstall
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Hundkäx
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Taggkörvel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: (metsä)mänty
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Dansk körvel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vild persilja
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Сосна обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Sosna Lesnaya
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Sosna Obiknovennaya
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  uk:
+  - name: Сосна звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-zakarpatt
+    - wikipedia:uk
+  'no':
+  - name: furu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:no
+  - name: (vanleg furu)
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: (vanlig furu)
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: toll
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Hundekjeks
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Hagekjørvel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Krokkjørvel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Hundepersille
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Бели бор - Beli bor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Бели бор
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Bijeli bor
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Skógarfura
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Pi roig
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Хвоя звычайная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Sarıçam
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:divri-i-kars-georgia-border-railway-line
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

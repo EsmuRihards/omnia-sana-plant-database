@@ -1,0 +1,406 @@
+id: linum-usitatissimum
+scientific_name: Linum usitatissimum
+names:
+  bg:
+  - name: Културен лен
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Pravi lan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: len setý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q45108
+    - wikipedia:cs
+  da:
+  - name: Almindelig hør
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Vlas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q45108
+    - wikipedia:nl
+  - name: Gekweekt vlas
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  en:
+  - name: linseed
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: common flax
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q45108
+  - name: flax
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikipedia:en
+  - name: Cultivated Flax
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Lan
+    sources:
+    - col:catalogue-of-life
+  - name: Linen flax
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Harilik lina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Pellava
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  - name: peltopellava
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q45108
+  fr:
+  - name: Lin cultivé
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikipedia:fr
+  - name: lin
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: Lin cultive
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-linaceae
+    - gbif:info-flora-schweiz-linaceae
+  - name: lin utile
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Lin cultivé, Lin, Lin commun
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gemeiner Lein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: Flachs
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-linaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-linaceae
+  - name: Saatlein
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Saat-Lein
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-linaceae
+    - gbif:info-flora-schweiz-linaceae
+  - name: Echter Lein
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Saat-Lein, Flachs
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  el:
+  - name: Λινάρι
+    sources:
+    - wikipedia:el
+    status: needs-review
+  - name: linari
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: Házi len
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Líon
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Lino coltivato
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-linaceae
+    - gbif:info-flora-schweiz-linaceae
+  - name: Lino comune
+    sources:
+    - col:catalogue-of-life
+  - name: lino
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  lv:
+  - name: Lini
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Sējas lini
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Sėjamasis linas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Len zwyczajny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q45108
+    - wikipedia:pl
+  pt:
+  - name: linho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: linhaça
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: linho-galego
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Lìnho
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: In
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Ľan siaty
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadni lan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q45108
+  - name: Lan
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: lino
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: Linaza
+    sources:
+    - col:catalogue-of-life
+  - name: linho
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: lin
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: Oljelin
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Äkta lin
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Spånadslin
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: peltopellava
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Лён обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Лён
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Льон звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Льон звичайний (Льон-довгунець)
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: lin
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q45108
+    - wikipedia:no
+  - name: dyrka lin
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: dyrket lin
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: alminnelig lin
+    sources:
+    - wikidata:Q45108
+    status: needs-review
+  sr:
+  - name: Лан
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Lan
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Spunalín
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Lli
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Keten
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

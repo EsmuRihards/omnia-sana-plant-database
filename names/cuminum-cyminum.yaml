@@ -1,0 +1,328 @@
+id: cuminum-cyminum
+scientific_name: Cuminum cyminum
+names:
+  bg:
+  - name: Кимион
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Kumin
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Šabrej kmínovitý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  - name: Římský kmín
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: Spidskommen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Komijn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q132624
+    - wikipedia:nl
+  en:
+  - name: Cumin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q132624
+    - wikipedia:en
+  fi:
+  - name: Roomankumina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+    - wikipedia:fi
+  - name: juustokumina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  fr:
+  - name: Cumin
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q132624
+    - wikipedia:fr
+  - name: faux anis
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: cumin blanc
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: cumin de Malte
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cumin de Maroc
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: Cumin vrai
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Cumin commun, Cumin
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kreuzkümmel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q132624
+    - wikipedia:de
+  - name: Mutterkümmel
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: Weißer Kümmel
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: Welscher Kümmel
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: Römischer Kümmel
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: Cumin
+    sources:
+    - wikidata:Q132624
+    status: needs-review
+  - name: Kumin
+    sources:
+    - wikidata:Q132624
+    status: needs-review
+  el:
+  - name: Κύμινο
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Római kömény
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: Rómaikömény
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Cuimín
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: cumino
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q132624
+  - name: cumino romano
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  lv:
+  - name: Kumīns
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Kmyninis kuminas
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  mt:
+  - name: Kemmun
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:mt
+  pl:
+  - name: Kmin rzymski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+    - wikipedia:pl
+  - name: Kumin
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: cominho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikidata:Q132624
+    - wikipedia:pt
+  - name: cuminho
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Chimion
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Rascovec obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: rimska kumina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+    - wikipedia:sl
+  es:
+  - name: comino
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q132624
+  sv:
+  - name: spiskummin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q132624
+    - wikipedia:sv
+  ru:
+  - name: Зира
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Кмин тминовый
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: spisskum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: kummin
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: spisskarve
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  - name: Spisskummen
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+  sr:
+  - name: Кумин
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Broddkúmen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ca:
+  - name: Comí
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Kimyon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q132624
+    - wikipedia:tr
+  - name: Çemen
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

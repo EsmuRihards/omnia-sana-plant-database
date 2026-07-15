@@ -1,0 +1,260 @@
+id: cinnamomum-cassia
+scientific_name: Cinnamomum cassia
+names:
+  bg:
+  - name: Лаврови
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Касия
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Lovorovke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: vavřínovité
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: Laurbær-familien
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Cassia
+    sources:
+    - wikipedia:da
+    status: needs-review
+  en:
+  - name: Laurels
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Laurel Family
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Laurel
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-paleobiology-database
+  - name: Bay Family
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+  et:
+  - name: Loorberilised
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Hiina kaneelipuu
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: laakerikasvit
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+  - name: Kassiakaneli
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Lauracées
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:taxref
+  - name: Cannelier de Chine
+    sources:
+    - wikipedia:fr
+    status: needs-review
+  de:
+  - name: Zimtkassie
+    sources:
+    - wikipedia:de
+    status: needs-review
+  - name: Lorbeergewächse
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  el:
+  - name: Λαουρίδες
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Κιννάμωμον η Κασσία
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Babérfélék
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Lauracee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Cinnamomum aromaticum
+    sources:
+    - wikipedia:it
+    status: needs-review
+  lt:
+  - name: Lauramediniai
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kininis cinamonas
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Wawrzynowate
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Cynamonowiec wonny
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: Lauráceas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: vavrínovité
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: Kitajski cimet
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: Pache blanco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: lagerväxter
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Kassiakanel
+    sources:
+    - wikipedia:sv
+    status: needs-review
+  ru:
+  - name: Лавровые
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Коричник китайский
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Лаврові
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Коричник китайський
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: laurbærfamilien
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: Kassiakanel
+    sources:
+    - wikipedia:no
+    status: needs-review
+  is:
+  - name: Kassía
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Lauràcies
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Canyeller de la Xina
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Лаўровыя
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Defnegiller
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

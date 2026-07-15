@@ -1,0 +1,163 @@
+id: galium-album
+scientific_name: Galium album
+names:
+  cs:
+  - name: svízel bílý
+    sources:
+    - wikidata:Q160265
+    status: needs-review
+  en:
+  - name: White bedstraw
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q160265
+  fi:
+  - name: paimenmatara
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q160265
+    - wikipedia:fi
+  fr:
+  - name: Gaillet blanc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-rubiaceae
+    - gbif:info-flora-schweiz-rubiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q160265
+    - wikipedia:fr
+  - name: Gaillet dressé
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Gaillet blanc, Gaillet dressé
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Weißes Labkraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q160265
+    - wikipedia:de
+  - name: Weisses Wiesen-Labkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rubiaceae
+    - gbif:info-flora-schweiz-rubiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Großblütiges Wiesen-Labkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  it:
+  - name: Caglio bianco
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  lv:
+  - name: Baltā madara
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  pl:
+  - name: Przytulia biała
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  sv:
+  - name: Stormåra
+    preferred: true
+    sources:
+    - wikidata:Q160265
+    - wikipedia:sv
+  ru:
+  - name: Подмаренник белый
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Підмаренник білий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: stormaure
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: engstormaure
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: vanleg stormaure
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: vanlig stormaure
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  be:
+  - name: Маруна прамастаячая
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

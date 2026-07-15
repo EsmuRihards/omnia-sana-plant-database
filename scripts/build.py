@@ -153,6 +153,7 @@ TIER_RANK = {"review": 0, "rct": 1, "clinical": 2, "preclinical": 3, "traditiona
 STUDY_TYPE_TIER = {
     "systematic-review": "review",
     "meta-analysis": "review",
+    "review": "review",
     "rct": "rct",
     "clinical": "clinical",
     "preclinical": "preclinical",
@@ -422,6 +423,52 @@ def main():
         "compounds": [{"id": c["id"], "name": c["name"], "class": c.get("class", "")} for c in compounds.values()],
     })
 
+    # ---- names.json (Multilingual Plant-Name Dictionary feed) --------------------
+    # Joins the verified vernacular-name records (names/*.yaml) to plant identity and
+    # ships ONLY status: verified names (needs-review entries are dropped here — they are
+    # never served publicly). Reusable by the dictionary tool AND any other tool that
+    # wants to resolve/search a plant by a name in any European language.
+    languages = yaml.safe_load(open(os.path.join(VOCAB, "languages.yaml"), encoding="utf-8"))
+    lang_pub = [{"code": l["code"], "iso3": l.get("iso3", ""), "name_en": l["name_en"],
+                 "endonym": l["endonym"], "script": l.get("script", "Latin"), "tier": l.get("tier", "")}
+                for l in languages if l.get("enabled")]
+    lang_order = [l["code"] for l in lang_pub]
+    plant_by_id = {p["id"]: p for p in plants}
+    name_rows, coverage = [], {c: 0 for c in lang_order}
+    for fn in sorted(glob.glob(os.path.join(ROOT, "names", "*.yaml"))):
+        rec = yaml.safe_load(open(fn, encoding="utf-8"))
+        p = plant_by_id.get(rec.get("id"))
+        if not p:
+            continue
+        pub_names = {}
+        for lang in lang_order:
+            keep = [{"name": e["name"], "preferred": bool(e.get("preferred")), "sources": e.get("sources", [])}
+                    for e in (rec.get("names", {}).get(lang) or [])
+                    if e.get("status", "verified") != "needs-review"]
+            if keep:
+                keep.sort(key=lambda e: (not e["preferred"], e["name"].casefold()))
+                pub_names[lang] = keep
+                coverage[lang] += 1
+        if not pub_names:
+            continue
+        name_rows.append({
+            "id": rec["id"],
+            "scientific_name": rec.get("scientific_name", p.get("scientific_name", "")),
+            "common_slug": slugs[p["id"]],
+            "family": p.get("family", ""),
+            "wp_post_id": p.get("wp_post_id"),
+            "english": (p.get("common_names") or [""])[0],
+            "external_ids": p.get("external_ids", {}),
+            "names": pub_names,
+        })
+    write(os.path.join(OUT, "names.json"), {
+        "schema": "omnia-sana/names@1",
+        "count": len(name_rows),
+        "languages": lang_pub,
+        "coverage": coverage,
+        "plants": sorted(name_rows, key=lambda r: r["scientific_name"].lower()),
+    })
+
     # ---- interactions.v1.json (Herb-Drug Interaction Checker feed) ----------------
     # PUBLIC file carries approved records ONLY; the *.draft.json twin carries every
     # record (draft + approved) for the review workflow and is NOT deployed publicly.
@@ -553,7 +600,7 @@ def main():
 
     # ---- manifest.json (versioning + integrity; no timestamp -> clean diffs) ------
     artifacts = {}
-    for fn in ["citations.json", "symptoms.json", "plants.json", "vocab.json",
+    for fn in ["citations.json", "symptoms.json", "plants.json", "vocab.json", "names.json",
                "interactions.v1.json", "pairings.v1.json", "lookalikes.v1.json"]:
         raw = open(os.path.join(OUT, fn), "rb").read()
         head = json.loads(raw.decode("utf-8"))
@@ -566,6 +613,7 @@ def main():
     print("  citations.json : %d citations (%d linked to >=1 plant)" % (len(cites), linked))
     print("  symptoms.json  : %d plants, %d conditions" % (len(sym_plants), len(sym_conditions)))
     print("  plants.json    : %d plants" % len(pub))
+    print("  names.json     : %d plants w/ verified names, %d languages" % (len(name_rows), len(lang_pub)))
     print("  vocab.json     : %d actions, %d conditions, %d drug-classes, %d compounds" % (len(actions), len(conditions), len(drug_classes), len(compounds)))
     print("  interactions   : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_int), len(draft_int)))
     print("  pairings       : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_pair), len(draft_pair)))

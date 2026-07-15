@@ -1,0 +1,618 @@
+id: viburnum-opulus
+scientific_name: Viburnum opulus
+names:
+  bg:
+  - name: Червена калина
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:bg
+  hr:
+  - name: Crvena hudika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Kalina
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  cs:
+  - name: kalina obecná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:cs
+  da:
+  - name: Almindelig kvalkved
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikidata:Q156928
+    - wikipedia:da
+  - name: Kvalkved
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156928
+  - name: Ulvsrøn
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikidata:Q156928
+  nl:
+  - name: Gelderse roos
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156928
+    - wikipedia:nl
+  - name: Gelderseroos
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  en:
+  - name: Guelder rose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156928
+  - name: Snowball tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Crampbark
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Cranberry Viburnum
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European Cranberry-bush
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European Cranberry Viburnum
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European Highbush Cranberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: water elder
+    sources:
+    - col:catalogue-of-life
+  - name: European cranberry bush
+    sources:
+    - col:catalogue-of-life
+  - name: Guelder-rose
+    sources:
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156928
+  - name: European Cranberrybush
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q156928
+  - name: Viburnum
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Cranberry-tree
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  et:
+  - name: Harilik lodjapuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:et
+  - name: Õispuu
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Lodjapuu
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Leedripuu
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Koerõispuu
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Hullukoeramarjapuu
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  fi:
+  - name: koiranheisi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156928
+    - wikipedia:fi
+  - name: Lumipalloheisi
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Lumipallopensas
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  fr:
+  - name: Viorne obier
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-adoxaceae
+    - gbif:info-flora-schweiz-adoxaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156928
+    - wikipedia:fr
+  - name: Boule de neige
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-adoxaceae
+    - gbif:info-flora-schweiz-adoxaceae
+  - name: Obier
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Rose de Gueldre
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Viorne obier, Viorne obier, Viorne aquatique, Boule-de-neige
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnlicher Schneeball
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156928
+    - wikipedia:de
+  - name: Gemeiner Schneeball
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:flora-helvetica-adoxaceae
+    - gbif:info-flora-schweiz-adoxaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156928
+  hu:
+  - name: Kányabangita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:hu
+  ga:
+  - name: Caor chon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  - name: Rós Ollannach
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+  it:
+  - name: Oppio
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-adoxaceae
+    - gbif:info-flora-schweiz-adoxaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156928
+  - name: Palle di neve
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-adoxaceae
+    - gbif:info-flora-schweiz-adoxaceae
+  - name: Palla di neve
+    sources:
+    - col:catalogue-of-life
+  - name: Viburno oppio
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Parastā irbene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Paprastasis putinas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:lt
+  pl:
+  - name: Kalina koralowa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:pl
+  pt:
+  - name: NOVELEIRO
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:lista-vermelha-da-flora-vascular-de-port
+    - wikidata:Q156928
+  - name: Rosa-de-gueldres
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+  - name: caneleiro
+    sources:
+    - col:catalogue-of-life
+  - name: novelo
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: espirema
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: bola-de-neve
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: novelo-da-china
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: novelo-cromático
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  ro:
+  - name: Călin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: kalina obyčajná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:sk
+  sl:
+  - name: brogovita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:sl
+  es:
+  - name: Rodela
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+  - name: mundillo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+  - name: gebre
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: mundo
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: geldre
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: guelde
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: mundos
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: rocela
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: gueldre
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: aleluyos
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: borlones
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: mundillos
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: sauquillo
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: barbatilla
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: corcovanos
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: sauco real
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: bola de oro
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: sabuco-rosa
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: sauco rodel
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: saúco rodel
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: verdedurillo
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: bola de nieve
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: copo de nieve
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: sauco de agua
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: flor del Mundo
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: sauco acuático
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: sauco palustre
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: rosa de Gueldres
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: rosal de Gueldres
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: sauco acuático globoso
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  sv:
+  - name: skogsolvon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q156928
+    - wikipedia:sv
+  - name: olvon
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156928
+  - name: ulvtry
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Olgon
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Beinve
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Krossved
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Kvalkved
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: koiranheisi
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Калина обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:ru
+  - name: kalina obyknovenaâ
+    sources:
+    - col:catalogue-of-life
+  - name: Калина красная
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Красная калина
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  - name: Обыкновенная калина
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+  uk:
+  - name: Калина звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-kharkiv-r
+    - wikidata:Q156928
+    - wikipedia:uk
+  - name: Калина червона
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+  - name: Червона калина
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+  'no':
+  - name: krossved
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156928
+    - wikipedia:no
+  - name: korsved
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  ca:
+  - name: Aliguer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:ca
+  be:
+  - name: Каліна звычайная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:be
+  tr:
+  - name: Gilaburu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156928
+    - wikipedia:tr
+  - name: Gilaboru
+    sources:
+    - wikidata:Q156928
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

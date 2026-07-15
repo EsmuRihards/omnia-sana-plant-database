@@ -1,0 +1,675 @@
+id: taraxacum-officinale
+scientific_name: Taraxacum officinale
+names:
+  bg:
+  - name: Глухарче
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Лечебно глухарче
+    sources:
+    - col:catalogue-of-life
+  - name: обикновено глухарче
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  hr:
+  - name: Ljekoviti maslačak
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Maslačak
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: smetánka lékařská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Pampeliška lékařská
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Pampelišky smetánky
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Almindelig Mælkebøtte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:da
+  - name: Fandens mælkebøtte
+    sources:
+    - col:catalogue-of-life
+  - name: Mælkebøtte
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  nl:
+  - name: Paardenbloem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q131219
+    - wikipedia:nl
+  - name: Gewone paardenbloem
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q131219
+  - name: Haakpaardebloem
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Zandpaardenbloem
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Moeraspaardenbloem
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Oranjegele paardenbloem
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Schraallandpaardenbloem
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: pisbloem
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Pissebloem
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: paardebloem
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  en:
+  - name: Dandelion
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:world-register-of-marine-species
+  - name: Common dandelion
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q131219
+  - name: Lion's tooth
+    sources:
+    - col:catalogue-of-life
+  - name: Blowball
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Eurasian Dandelion
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: lion's-tooth
+    sources:
+    - col:catalogue-of-life
+  - name: Wandering Dandelion
+    sources:
+    - col:catalogue-of-life
+  - name: Faceclock
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Dandelion, Blow Ball, Faceclock
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik võilill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:et
+  - name: Võilill
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: Voikukka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:fi
+  - name: kääntövoikukka
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  fr:
+  - name: Pissenlit
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q131219
+  - name: Pissenlit officinal
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: dent de lion
+    sources:
+    - col:catalogue-of-life
+  - name: pissenlit vulgaire
+    sources:
+    - col:catalogue-of-life
+  - name: Pissenlit dent de lion
+    sources:
+    - col:catalogue-of-life
+  - name: Taraxacum section Ruderalia
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Pissenlit officinal, Pissenlit commun
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnlicher Löwenzahn
+    preferred: true
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q131219
+    - wikipedia:de
+  - name: Gewoehnlicher Loewenzahn
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Gebraeuchlicher Loewenzahn
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Kuhblume
+    sources:
+    - col:catalogue-of-life
+  - name: Löwenzahn
+    sources:
+    - col:catalogue-of-life
+  - name: Butterblume
+    sources:
+    - col:catalogue-of-life
+  - name: Wiesen-Löwenzahn
+    sources:
+    - col:catalogue-of-life
+  - name: Wiesenlöwenzahn
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q131219
+  - name: Bettsaier
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Hundeblume
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Maistöckel
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Bettseicher
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Puschelkraut
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  el:
+  - name: Ταράξακος ο φαρμακευτικός
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: Πικραλίδα
+    sources:
+    - col:catalogue-of-life
+  - name: Αγριοράδικο
+    sources:
+    - col:catalogue-of-life
+  - name: Ταράξακο
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  hu:
+  - name: Gyermekláncfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:hu
+  - name: pongyola pitypang
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  ga:
+  - name: Caisearbhán
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Caisearbhán coiteann
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Tarassaco comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: soffione
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Taràssaco comune
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: tarassaco
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: pisciacane
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: dente di leone
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: radice di tarassaco
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Taraxacum officinalis
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  lv:
+  - name: Ārstniecības pienene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:lv
+  - name: Cūkpiene
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  lt:
+  - name: Paprastoji kiaulpienė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:lt
+  pl:
+  - name: Mniszek pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:pl
+  - name: mniszek lekarski
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: dmuchawiec
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  pt:
+  - name: dente-de-leão
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q131219
+  - name: amargosa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: dente-de-leão-dos-jardins
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Păpădie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:ro
+  sk:
+  - name: púpava lekárska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:sk
+  sl:
+  - name: navadni regrat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:sl
+  es:
+  - name: amargón
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: diente de león
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: achicoria amarga
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Diente de león o taraxaco
+    sources:
+    - col:catalogue-of-life
+  - name: peeta
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: frango
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: almirón
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: radicha
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: bulanico
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: panadero
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: achicoria
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: pelosilla
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: pelusilla
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: radicheta
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: taraxacón
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: lechiriega
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: lechuguilla
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: botón de oro
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: bufas de lobo
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: flor de macho
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: chinita de campo
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: corona de fraile
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: achicoria amarilla
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: taraxaco y tatusia
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: achicoria silvestre
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  sv:
+  - name: Maskros
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: vanlig maskros
+    sources:
+    - col:catalogue-of-life
+  - name: Ogräsmaskrosor
+    sources:
+    - wikipedia:sv
+    status: needs-review
+  ru:
+  - name: Одуванчик лекарственный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:ru
+  - name: Одуванчик аптечный
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Одуванчик обыкновенный
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Одуванчик полевой
+    sources:
+    - col:catalogue-of-life
+  - name: oduvančik lekarstvennyj
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Кульбаба лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:uk
+  - name: Кульба́ба звича́йна
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: Vanlig løvetann
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:no
+  - name: ugrasløvetenner
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: Løvetann
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: ugressløvetenner
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Маслачак
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  sq:
+  - name: Luleshurdhe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Túnfífill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:is
+  ca:
+  - name: Dent de lleó
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:ca
+  - name: Xicoia
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Pixallits
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+  - name: Llumenetes
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Lletsó d'ase
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Lletsó de ruc
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Lletissó De Ruc
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  be:
+  - name: Адуванчык лекавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  - name: Дзьмухавец лекавы
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Karahindiba
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q131219
+    - wikipedia:tr
+  - name: Radika
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+  - name: Kara Hindiba
+    sources:
+    - wikidata:Q131219
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

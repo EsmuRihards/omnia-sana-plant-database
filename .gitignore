@@ -7,6 +7,10 @@ __pycache__/
 ingest/archive/_abstract_cache.json
 ingest/archive/abstracts_log_*.txt
 
+# verify_names.py HTTP cache (GBIF/Wikidata/POWO responses) — regenerable, keep untracked
+.names_cache.json
+.names_run.log
+
 # Draft safety-record twins: unreviewed herb-drug / herb-herb claims. Kept LOCAL
 # for the review workflow only — never published. build/ stays approved-only.
 build/*.draft.json

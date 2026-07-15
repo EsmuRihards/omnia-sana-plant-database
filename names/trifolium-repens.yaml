@@ -1,0 +1,595 @@
+id: trifolium-repens
+scientific_name: Trifolium repens
+names:
+  bg:
+  - name: Пълзяща детелина
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:bg
+  - name: Бяла детелина
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  hr:
+  - name: Bijela djetelina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: jetel plazivý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:cs
+  - name: jetel bílý plazivý
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  da:
+  - name: Hvidkløver
+    preferred: true
+    sources:
+    - wikidata:Q148675
+    - wikipedia:da
+  - name: Hvid-kløver
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q148675
+  - name: Hvid Kløver
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  nl:
+  - name: Witte klaver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q148675
+    - wikipedia:nl
+  en:
+  - name: White clover
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q148675
+  - name: Dutch clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q148675
+  - name: ladino clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q148675
+  - name: white Dutch clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q148675
+  - name: ladino
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: giant clover
+    sources:
+    - col:catalogue-of-life
+  - name: New Zealand Clover
+    sources:
+    - col:catalogue-of-life
+  - name: White Dutch Clover, White Clover, Dutch Clover, Alsike Clover
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Wild White Clover
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Creeping White Clover
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Valge ristik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:et
+  - name: Amoria repens
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  fi:
+  - name: valkoapila
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q148675
+    - wikipedia:fi
+  fr:
+  - name: trèfle blanc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q148675
+    - wikipedia:fr
+  - name: trèfle rampant
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q148675
+  - name: Trefle rampant
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-fabaceae
+    - gbif:info-flora-schweiz-fabaceae
+  - name: coucou
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Trefle blanc
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Trèfle de Hollande
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Trèfle rampant, Trèfle blanc, Trèfle de Hollande
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Weißklee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q148675
+    - wikipedia:de
+  - name: Weiss-Klee
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:flora-helvetica-fabaceae
+    - gbif:info-flora-schweiz-fabaceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q148675
+  - name: Kriechender Klee
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-fabaceae
+    - gbif:info-flora-schweiz-fabaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q148675
+  - name: Kriech-Klee
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Kriechender Klee, Weiß-Klee
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  el:
+  - name: Λευκό τριφύλλι
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:el
+  hu:
+  - name: Fehér here
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:hu
+  - name: Fehérhere
+    sources:
+    - wikidata:Q148675
+    status: needs-review
+  ga:
+  - name: Seamair bhán
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Trifoglio bianco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-fabaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-fabaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q148675
+  - name: trifoglio ladino
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-fabaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-fabaceae
+    - wikidata:Q148675
+  - name: trifoglio rampicante
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  lv:
+  - name: Ložņu āboliņš
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:lv
+  lt:
+  - name: Baltasis dobilas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:lt
+  pl:
+  - name: Koniczyna biała
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:pl
+  - name: Koniczyna rozesłana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  pt:
+  - name: trevo-branco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Trevo-da-sorte
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: ďatelina plazivá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:sk
+  sl:
+  - name: plazeča detelja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:sl
+  es:
+  - name: trébol blanco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q148675
+  - name: teble
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: chupón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: carretón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trebillo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trebolillo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: tribulillo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: chupamieles
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol bravo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: motas blancas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébole blanco
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Carretón Blanco
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol manchado
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol rastrero
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol de prados
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol silvestre
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trebolillo marfuelle
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol rastrero blanco
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol de los prados con flor blanca
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: trébol pratense que hace las flores blancas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  sv:
+  - name: vitklöver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikidata:Q148675
+    - wikipedia:sv
+  - name: valkoapila
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Клевер ползучий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:ru
+  - name: Кашка
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Белая кашка
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Клевер белый
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Клевер голландский
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Кашка белая
+    sources:
+    - col:catalogue-of-life
+  - name: Амория ползучая
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Конюшина повзуча
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:uk
+  - name: Конюшина біла
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  'no':
+  - name: hvitkløver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q148675
+    - wikipedia:no
+  - name: kvitkløver
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikidata:Q148675
+    - wikipedia:no
+  - name: hvidkol
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: soudsimmer
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Бела детелина
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+    - wikipedia:sr
+  - name: Детелина бела
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Детелина пузећа
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Пузећа детелина
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Бијела дјетелина
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Дјетелина бијела
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Дјетелина пузећа
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Пузећа дјетелина
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Bela detelina
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Hvítsmári
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikidata:Q148675
+    - wikipedia:is
+  ca:
+  - name: Trèvol blanc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Trevolet
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  - name: trevolet de prat
+    sources:
+    - gbif:mimosaceae-papilionaceae-fl-pais-s-catal
+    status: needs-review
+  be:
+  - name: Канюшына белая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Канюшына паўзучая
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Ak Üçgül
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148675
+  - name: Beyaz Yonca
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

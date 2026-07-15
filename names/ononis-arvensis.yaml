@@ -1,0 +1,166 @@
+id: ononis-arvensis
+scientific_name: Ononis arvensis
+names:
+  cs:
+  - name: jehlice rolní
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q164263
+  en:
+  - name: Field restharrow
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q164263
+  - name: rest-harrow
+    sources:
+    - col:catalogue-of-life
+  - name: trailing restharrow
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Haisev jooksjarohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: kenttäorakko
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q164263
+    - wikipedia:fi
+  fr:
+  - name: Bugrane des champs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxref
+  de:
+  - name: Bocks-Hauhechel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q164263
+    - wikipedia:de
+  hu:
+  - name: mezei iglice
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Tīruma blaktene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Lauku blaktene
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Šlaitinis dirvenis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Wilżyna bezbronna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  sk:
+  - name: ihlica roľná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: njivski gladež
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q164263
+  ru:
+  - name: Стальник полевой
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Вовчуг польовий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Вовчуг проміжний
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-odesa-reg
+    status: needs-review
+  'no':
+  - name: bukkebeinurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q164263
+  - name: stankbeinurt
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  be:
+  - name: Стальнік палявы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

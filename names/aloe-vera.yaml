@@ -1,0 +1,362 @@
+id: aloe-vera
+scientific_name: Aloe vera
+names:
+  bg:
+  - name: Алое вера
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: Aloe pravá
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Læge-aloe
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Aloë vera
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: True Aloe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:world-register-of-marine-species
+  - name: Barbados Aloe
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q80079
+  - name: Curaçao aloe
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: West Indian aloe
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: Aloe
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: Common Aloes
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: Barbados Aloes
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: Medicinal Aloe
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: Burn Plant
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: common aloe
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: Indian aloe
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: star cactus
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: coastal aloe
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: Jaffarabad aloe
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: unguentine cactus
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: Mediterranean aloe
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  et:
+  - name: Harilik aaloe
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Lääkeaaloe
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: aloès vulgaire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: Aloës
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: mazambron
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: aloès amer
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: Aloès vrai, Aloès des Barbades
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Aloès vrai, Aloès curaçao, Aloès des Barbades, Aloès vulgaire
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Aloès vrai, Aloès amer, Mazambron, Aloès curaçao, Aloès des Barbades, Aloès vulgaire
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: echte Aloe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:de
+  el:
+  - name: Αλόη η γνήσια
+    sources:
+    - wikipedia:el
+    status: needs-review
+  - name: aloi
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: allas
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: Orvosi aloé
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lv:
+  - name: Alveja
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  mt:
+  - name: żabbara
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Aloes zwyczajny
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: babosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-babosa
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: babosa-medicinal
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: aloé
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: erva-azebra
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: babosa-comum
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: aloé-dos-barbados
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sk:
+  - name: Aloa pravá
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Prava aloja
+    preferred: true
+    sources:
+    - wikidata:Q80079
+    - wikipedia:sl
+  es:
+  - name: sávila
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+  - name: acibar
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: aloe
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+  - name: acíbar
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:integrated-taxonomic-information-system-
+  - name: aloja
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: zabila
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: zabira
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: lináloe
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: atzavara
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: pita zabila
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: penca sábila
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: maguey morado
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: toots amarelo
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: pitera amarelo
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: flor de deserto
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: loto de deserto
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: sábila do penca
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  - name: áloe de los Barbados
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    status: needs-review
+  sv:
+  - name: äkta aloe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Алоэ настоящее
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  sr:
+  - name: Обична алоја
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Àloe vera
+    sources:
+    - wikipedia:ca
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

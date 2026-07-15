@@ -1,0 +1,423 @@
+id: glycyrrhiza-glabra
+scientific_name: Glycyrrhiza glabra
+names:
+  bg:
+  - name: Женско биле
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: sladić
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Slatki korijen
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: lékořice lysá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q257106
+    - wikipedia:cs
+  - name: Lékořice
+    sources:
+    - col:catalogue-of-life
+  - name: sladovka hladkoplodá
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Lakrids
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Glat lakrids
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Zoethout
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:nl
+  en:
+  - name: liquorice
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikipedia:en
+  - name: cultivated licorice
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q257106
+  - name: licorice
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: licorice-root
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Drop
+    sources:
+    - col:catalogue-of-life
+  - name: Sweetwood
+    sources:
+    - col:catalogue-of-life
+  - name: Liquorice Root
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Lagrits
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Lagritsa-magusjuur
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Lakritsikasvi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: Réglisse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - wikipedia:fr
+  - name: Reglisse
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Reglisse glabre
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-fabaceae
+  - name: Réglisse glabre
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  - name: Réglisse sauvage
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Réglisse sauvage, Réglisse glabre
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echtes Süßholz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Süßholz
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Lakritze
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Suessholz
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Echtes Suessholz
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-fabaceae
+  - name: Gewöhnliches Süßholz
+    sources:
+    - col:catalogue-of-life
+  - name: Kahles Süßholz
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  el:
+  - name: Γλυκόριζα
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: glykoriza
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: igazi édesgyökér
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  ga:
+  - name: Liocras
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Liquirizia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Liquirizia comune
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-fabaceae
+  lv:
+  - name: Lakrica
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Saldymedis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Paprastasis saldymedis
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Lukrecja gładka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Lukrecja
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: Alcacuz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: alcaçuz
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Regoliz
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: pau-doce
+    sources:
+    - col:catalogue-of-life
+  - name: Regaliz
+    sources:
+    - wikipedia:pt
+    status: needs-review
+  ro:
+  - name: Lemn dulce
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  - name: răculeț
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: sladké drievko hladkoplodé
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Sladovka hladkoplodá
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: golostebelni sladki koren
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q257106
+    - wikipedia:sl
+  es:
+  - name: Orozuz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Alcazuz
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Regaliz
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: licórice
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Palo dulce
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  sv:
+  - name: lakritsrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  - name: Lakitsrot
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Lakrits
+    sources:
+    - col:catalogue-of-life
+  ru:
+  - name: Лакрица
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Lakritsa
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Солодка голая
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Солодка гола
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:list-of-algae-fungi-and-plant-species-in
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-donetsk-r
+    - gbif:red-list-of-flora-and-fauna-of-kirovohra
+    - gbif:red-list-of-flora-and-fauna-of-odesa-reg
+  - name: Локриця
+    sources:
+    - col:catalogue-of-life
+  - name: Солодкий корінь голий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: lakrisplante
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  - name: Lakris
+    sources:
+    - col:catalogue-of-life
+  sr:
+  - name: Сладић
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Sladić
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Jamball
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Lakkrís
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ca:
+  - name: Regalèssia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  - name: regalèssia, regalíssia
+    sources:
+    - gbif:mimosaceae-papilionaceae-fl-pais-s-catal
+    status: needs-review
+  be:
+  - name: саладкакарані
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Meyan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+  - name: Tatlı Meyan
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

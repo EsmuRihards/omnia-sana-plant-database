@@ -1,0 +1,478 @@
+id: arctostaphylos-uva-ursi
+scientific_name: Arctostaphylos uva-ursi
+names:
+  bg:
+  - name: Мечо грозде
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Medvjetka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Crveno medvjeđe grožđe
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: medvědice lékařská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q208032
+    - wikipedia:cs
+  da:
+  - name: Hede-melbærris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Hedemelbærris
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Berendruif
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q208032
+    - wikipedia:nl
+  en:
+  - name: Bearberry
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q208032
+  - name: Uva-ursi
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Kinnikinnick
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q208032
+  - name: Bear's grape
+    sources:
+    - col:catalogue-of-life
+  - name: mealberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: sandberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Bear-grape
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Mountain-box
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Hog-cranberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Upland-cranberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: bear-berry
+    sources:
+    - col:catalogue-of-life
+  - name: mountain box
+    sources:
+    - col:catalogue-of-life
+  - name: barren myrtle
+    sources:
+    - col:catalogue-of-life
+  - name: burren myrtle
+    sources:
+    - col:catalogue-of-life
+  - name: hog crawberry
+    sources:
+    - col:catalogue-of-life
+  - name: kinnickinnick
+    sources:
+    - col:catalogue-of-life
+  - name: rapper dandies
+    sources:
+    - col:catalogue-of-life
+  - name: pinemat manzanita
+    sources:
+    - col:catalogue-of-life
+  - name: bear's whortleberry
+    sources:
+    - col:catalogue-of-life
+  - name: Red Bearberry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q208032
+  - name: Bearberry Manzanita
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Bearberry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik Leesikas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: sianpuolukka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: kangassianpuolukka
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q208032
+  fr:
+  - name: Busserole
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-ericaceae
+    - gbif:info-flora-schweiz-ericaceae
+    - wikidata:Q208032
+  - name: raisin d'ours
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q208032
+  - name: Raisin d'ours commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-ericaceae
+    - gbif:info-flora-schweiz-ericaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: bousserole
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: arbousier busderole
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: arctostaphyle raisin-d'ours
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Busserole commune
+    sources:
+    - col:catalogue-of-life
+  - name: Arbousier traînant
+    sources:
+    - col:catalogue-of-life
+  - name: Busserole raisin-d'ours
+    sources:
+    - col:catalogue-of-life
+  - name: Busserole raisin-d'ours, Raisin-d'ours, Arbousier traînant
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echte Bärentraube
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q208032
+    - wikipedia:de
+  - name: Immergrüne Bärentraube
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q208032
+  - name: Immergruene Baerentraube
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-ericaceae
+    - gbif:info-flora-schweiz-ericaceae
+  - name: Bärentraube
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  hu:
+  - name: Orvosi medveszőlő
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: Medveszőlő
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Uva ursina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-ericaceae
+    - gbif:info-flora-schweiz-ericaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: orsella
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Uva orsina
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Mūžzaļā miltene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Parastā miltene
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Miltinė meškauogė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Mącznica lekarska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: uva-ursina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Uva-de-urso
+    sources:
+    - col:catalogue-of-life
+  - name: Arando-Ursino
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: medvedica lekárska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: vednozeleni gornik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q208032
+    - wikipedia:sl
+  - name: zimzeleni gornik
+    sources:
+    - wikidata:Q208032
+    status: needs-review
+  es:
+  - name: gayuba
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: mjölon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: sianpuolukka
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Толокнянка обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Медвежье ушко
+    sources:
+    - col:catalogue-of-life
+  - name: Медвежьи ушки
+    sources:
+    - col:catalogue-of-life
+  - name: Медвежья ягода
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Мучниця звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-chernihiv
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-city
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-regi
+    - gbif:red-list-of-flora-and-fauna-of-lviv-regi
+    - gbif:red-list-of-flora-and-fauna-of-rivne-reg
+    - gbif:red-list-of-flora-and-fauna-of-sumy-regi
+    - gbif:red-list-of-flora-and-fauna-of-volyn-reg
+    - gbif:red-list-of-flora-and-fauna-of-zhytomyr-
+    - wikipedia:uk
+  'no':
+  - name: melbær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: mjølbær
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:no
+  - name: meelbær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: miølbær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: miølne-bær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Медвеђе грожђе
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Uva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bs
+  sq:
+  - name: Rrushi i arushës
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sq
+  is:
+  - name: Sortulyng
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Boixerola
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Талакнянка звычайная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: ayı üzümü
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

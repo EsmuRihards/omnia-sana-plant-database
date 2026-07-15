@@ -1,0 +1,329 @@
+id: crataegus-laevigata
+scientific_name: Crataegus laevigata
+names:
+  bg:
+  - name: Черен глог
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hr:
+  - name: Crveni glog
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: hloh obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+    - wikipedia:cs
+  da:
+  - name: Almindelig hvidtjørn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q159553
+    - wikipedia:da
+  nl:
+  - name: Tweestijlige meidoorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q159553
+    - wikipedia:nl
+  en:
+  - name: Midland Hawthorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q159553
+  - name: woodland hawthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: smooth hawthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q159553
+  - name: whitethorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: English hawthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  et:
+  - name: tömbilehine viirpuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: pyöröorapihlaja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q159553
+    - wikipedia:fi
+  fr:
+  - name: aubépine à deux styles
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q159553
+  - name: Aubépine épineuse
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q159553
+  - name: Epine blanche
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Aubepine epineuse
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: aubépine lisse
+    sources:
+    - col:catalogue-of-life
+  - name: Aubépine à deux styles, Aubépine lisse, Noble épine
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Zweigriffeliger Weissdorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q159553
+    - wikipedia:de
+  - name: Zweigriffliger Weißdorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q159553
+  hu:
+  - name: Cseregalagonya
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+    - wikipedia:hu
+  - name: Kétbibés galagonya
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Biancospino selvatico
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Biancospino
+    sources:
+    - wikidata:Q159553
+    status: needs-review
+  lv:
+  - name: divirbulu krustabele
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  lt:
+  - name: Grauželinė gudobelė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+    - wikipedia:lt
+  - name: Glotnioji gudobelė
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Głóg dwuszyjkowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+    - wikipedia:pl
+  pt:
+  - name: Pilriteiro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+  - name: pirliteiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  sk:
+  - name: Hloh obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  - name: Hloh krivokališný
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+  sl:
+  - name: navadni glog
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+    - wikipedia:sl
+  es:
+  - name: Espino navarro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+  - name: majuelo de dos huesos
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: rundhagtorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q159553
+    - wikipedia:sv
+  - name: hagtorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: pyöröorapihlaja
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Боярышник обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+    - wikipedia:ru
+  - name: Боярышник сглаженный
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Глід двостовпчиковий (Глід згладжений)
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Глід двостовпчиковий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  - name: Глід згладжений
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-zhytomyr-
+    status: needs-review
+  'no':
+  - name: parkhagtorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q159553
+    - wikipedia:no
+  sr:
+  - name: Црвени глог
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+    - wikipedia:sr
+  is:
+  - name: Hvítþyrnir
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159553
+    - wikipedia:is
+  ca:
+  - name: espinalb centreeuropeu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

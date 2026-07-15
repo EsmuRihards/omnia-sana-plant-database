@@ -1,0 +1,605 @@
+id: primula-veris
+scientific_name: Primula veris
+names:
+  bg:
+  - name: Лечебна иглика
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:bg
+  hr:
+  - name: Proljetni jaglac
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: prvosenka jarní
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:cs
+  da:
+  - name: Hulkravet kodriver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q157552
+    - wikipedia:da
+  nl:
+  - name: Gulden sleutelbloem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:world-register-of-marine-species
+    - wikidata:Q157552
+    - wikipedia:nl
+  - name: Echte sleutelbloem
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Gewoone sleutelbloem
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  en:
+  - name: Cowslip
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q157552
+  - name: cowslip primrose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: English Cowslip
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Paigle
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Palsywort
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik nurmenukk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:et
+  - name: Nurmenukk
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+  fi:
+  - name: Kevätesikko
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q157552
+    - wikipedia:fi
+  fr:
+  - name: primevère officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q157552
+    - wikipedia:fr
+  - name: Primevere officinale
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-primulaceae
+    - gbif:info-flora-schweiz-primulaceae
+    - wikidata:Q157552
+  - name: Coucou
+    sources:
+    - col:catalogue-of-life
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q157552
+  - name: primevère du printemps
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Brérelle
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Primerolle
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Coqueluchon
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Printanière
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Primevère vraie
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Primevère vraie.
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Herbe de saint Paul
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Herbe à la paralysie
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Primevère de printemps
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: Primevère vraie, Coucou, Primevère officinale, Brérelle
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echte Schlüsselblume
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - wikidata:Q157552
+    - wikipedia:de
+  - name: Wiesen-Schlüsselblume
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q157552
+  - name: Fruehlings-Schluesselblume
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-primulaceae
+    - gbif:info-flora-schweiz-primulaceae
+  - name: Wiesenschlüsselblume
+    sources:
+    - col:catalogue-of-life
+  - name: Frühlings-Schlüsselblume
+    sources:
+    - col:catalogue-of-life
+  - name: Wiesen-Primel
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q157552
+  - name: Frühlingsschlüsselblume
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q157552
+  - name: Himmelschlüssel
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  el:
+  - name: Πρίμουλα η εαρινή
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Tavaszi kankalin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:hu
+  ga:
+  - name: Bainne bó bleachtáin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:ga
+  it:
+  - name: Primula odorosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-primulaceae
+    - gbif:info-flora-schweiz-primulaceae
+    - wikidata:Q157552
+  - name: Primavera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+  - name: Primula officinale
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  lv:
+  - name: Gaiļbiksīte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:lv
+  lt:
+  - name: Pavasarinė raktažolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:lt
+  pl:
+  - name: Pierwiosnek lekarski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:pl
+  - name: pierwiosnka lekarska
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  pt:
+  - name: prímula
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Ciuboțica cucului
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ciuboțica-cucului
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: prvosienka jarná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:sk
+  sl:
+  - name: pomladanski jeglič
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:sl
+  - name: šmigovec
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  es:
+  - name: Primicia de amistades
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+  - name: prímula olorosa
+    sources:
+    - col:catalogue-of-life
+  - name: gayadas
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: prímula
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: aurícula
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: bellorita
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: peculilla
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: primavera
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: vellorita
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: paniqueses
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: platanetes
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: primaveras
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: verbásculo
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: campanillas
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: matrimonios
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: pan de pecú
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: chocolateras
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: gordolobillo
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: paniquesetes
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: pan y quesillo
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: primavera común
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: bellorita blanca
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: bellorita de oro
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: flor de San José
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: primicia del sol
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: vellorita de oro
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: flor de primavera
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: primicias del sol
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: hierba de San José
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: yerba de San Pablo
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: yerba de San Pedro
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: bellorita de Jaraba
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: hierba de San Pablo
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: hierba de San Pedro
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: yerba de la parálisis
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: hierba de la parálisis
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: pichilines de San José
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: yerba de San Pablo menor
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: yerba de San Pedro menor
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  - name: hierba de San Pedro menor
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  sv:
+  - name: gullviva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:world-register-of-marine-species
+    - wikidata:Q157552
+    - wikipedia:sv
+  - name: Yxlägg
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  ru:
+  - name: Первоцвет весенний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:ru
+  - name: Первоцвет лекарственный
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+  - name: Примула весенняя
+    sources:
+    - col:catalogue-of-life
+  - name: pervocvet vesennij
+    sources:
+    - col:catalogue-of-life
+  - name: Первоцвет настоящий
+    sources:
+    - col:catalogue-of-life
+  - name: Баранчики
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  uk:
+  - name: Первоцвіт весняний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-chernihiv
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-kharkiv-r
+    - gbif:red-list-of-flora-and-fauna-of-khmelnyts
+    - gbif:red-list-of-flora-and-fauna-of-kirovohra
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-regi
+    - gbif:red-list-of-flora-and-fauna-of-mykolaiv-
+    - gbif:red-list-of-flora-and-fauna-of-odesa-reg
+    - gbif:red-list-of-flora-and-fauna-of-poltava-r
+    - gbif:red-list-of-flora-and-fauna-of-vinnytsia
+    - wikidata:Q157552
+    - wikipedia:uk
+  'no':
+  - name: marianøkleblom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - gbif:world-register-of-marine-species
+    - wikidata:Q157552
+    - wikipedia:no
+  - name: Marinøkleblom
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  sr:
+  - name: Лековита јагорчевина
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Sifjarlykill
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Cucut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:ca
+  - name: Prímula vera
+    sources:
+    - col:catalogue-of-life
+  - name: Margaridussa
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+  be:
+  - name: Першацвет веснавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157552
+    - wikipedia:be
+  - name: Першацьвет веснавы
+    sources:
+    - wikidata:Q157552
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

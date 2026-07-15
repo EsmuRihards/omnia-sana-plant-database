@@ -1,0 +1,271 @@
+id: vitex-agnus-castus
+scientific_name: Vitex agnus-castus
+names:
+  hr:
+  - name: Prstasta konopljika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Konopljika
+    sources:
+    - col:catalogue-of-life
+  - name: Divlji papar
+    sources:
+    - col:catalogue-of-life
+  - name: Otočka konopljika
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: Drmek obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Kyskhedstræ
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  nl:
+  - name: Monnikenpeper
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Monnikspeper
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Chasteberry
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q259318
+  - name: Chaste tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:world-register-of-marine-species
+    - wikidata:Q259318
+  - name: Monk's pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q259318
+  - name: Lilac Chastetree
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q259318
+  - name: Chaste-tree
+    sources:
+    - col:catalogue-of-life
+  - name: chastetree
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: purple vitex
+    sources:
+    - wikidata:Q259318
+    status: needs-review
+  - name: Lilac Chaste Tree
+    sources:
+    - wikidata:Q259318
+    status: needs-review
+  fi:
+  - name: Siveydenpuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: gattilier
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: arbre chaste
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Arbre au poivre
+    sources:
+    - col:catalogue-of-life
+  - name: Vitex gattilier, Gattilier, Poivre sauvage, Agneau chaste, Poivre des moines, Arbre au poivre
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Mönchspfeffer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:de
+  - name: Keuschstrauch
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Λυγαριά
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: Ligaria
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  hu:
+  - name: Barátcserje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Agnocasto
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Niepokalanek pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q259318
+    - wikipedia:pl
+  - name: Pieprz mnisi
+    sources:
+    - wikidata:Q259318
+    status: needs-review
+  - name: Witeks czczony
+    sources:
+    - wikidata:Q259318
+    status: needs-review
+  - name: Niepokalanek mnisi
+    sources:
+    - wikidata:Q259318
+    status: needs-review
+  - name: Niepokalanek pieprzowy
+    sources:
+    - wikidata:Q259318
+    status: needs-review
+  pt:
+  - name: angola
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Agno-casto
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: vitex jahňací
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: navadna konopljika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Árbol casto
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Sauce gatillo
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: kyskhetsträd
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Прутняк обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Витекс священный
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Авраамове дерево невинне
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Kyskhetstre
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Конопљика
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Aloc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  tr:
+  - name: Hayıt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

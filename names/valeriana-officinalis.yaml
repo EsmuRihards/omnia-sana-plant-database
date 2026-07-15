@@ -1,0 +1,508 @@
+id: valeriana-officinalis
+scientific_name: Valeriana officinalis
+names:
+  bg:
+  - name: лечебна дилянка
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:bg
+  - name: Валериана
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  hr:
+  - name: Ljekoviti odoljen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Valerijana
+    sources:
+    - wikidata:Q157819
+    status: needs-review
+  cs:
+  - name: kozlík lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:cs
+  da:
+  - name: Læge-baldrian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q157819
+  - name: Lægebaldrian
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Echte valeriaan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q157819
+    - wikipedia:nl
+  - name: Valeriaan
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  en:
+  - name: Valerian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - wikipedia:en
+  - name: common valerian
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q157819
+  - name: garden valerian
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q157819
+  - name: garden heliotrope
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Allheal
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European Valerian
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: garden-heliotrope
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Garðabrúða
+    sources:
+    - col:catalogue-of-life
+  - name: cat's valerian
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Harilik palderjan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:et
+  - name: Palderjan
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  fi:
+  - name: rohtovirmajuuri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q157819
+    - wikipedia:fi
+  fr:
+  - name: Valériane officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxref
+    - wikidata:Q157819
+    - wikipedia:fr
+  - name: Herbe aux chats
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+  - name: Valeriane officinale
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+  - name: valériane cultivée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: valériane à petites feuilles
+    sources:
+    - col:catalogue-of-life
+  - name: Valériane officinale (Valeriana officinalis)
+    sources:
+    - col:catalogue-of-life
+  de:
+  - name: Echter Baldrian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+    - wikidata:Q157819
+    - wikipedia:de
+  - name: Arznei-Baldrian
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+  - name: echter Arznei-Baldrian
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Gebraeuchlicher Baldrian
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+  - name: Gewoehnlicher Arznei-Baldrian
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+  - name: Gewöhnlicher Arznei-Baldrian
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  - name: Arznei-Baldrian (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  el:
+  - name: Βαλεριάνα
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:el
+  - name: Αγριοζαμπούκος
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  hu:
+  - name: Orvosi macskagyökér
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:hu
+  ga:
+  - name: Caorthann corraigh
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:ga
+  it:
+  - name: Valeriana comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q157819
+  - name: Erba dei Gatti
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  lv:
+  - name: Ārstniecības baldriāns
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:lv
+  - name: Baldriāns
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: Ārstnieciskais baldriāns
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  lt:
+  - name: Vaistinis valerijonas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:lt
+  pl:
+  - name: Kozłek lekarski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:pl
+  pt:
+  - name: valeriana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-de-gato
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: VALERIANA-DAS-BOTICAS
+    sources:
+    - col:catalogue-of-life
+    - gbif:lista-vermelha-da-flora-vascular-de-port
+  ro:
+  - name: Valeriană
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:ro
+  sk:
+  - name: valeriána lekárska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:sk
+  sl:
+  - name: Zdravilna špajka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:sl
+  es:
+  - name: valeriana común
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  sv:
+  - name: läkevänderot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q157819
+    - wikipedia:sv
+  - name: äkta vänderot
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q157819
+  - name: vänderot
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Vendelört
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: rohtovirmajuuri
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Валериана лекарственная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:ru
+  - name: Валерьянка
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: Валерьяновые капли
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: Корневища с корнями валерианы
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: Валерианы лекарственной корневища с корнями
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: valeriana lekarstvennaâ
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Валер'яна лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Валеріана лікарська
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-kharkiv-r
+    - gbif:red-list-of-flora-and-fauna-of-luhansk-r
+    - gbif:red-list-of-flora-and-fauna-of-odesa-reg
+    - gbif:red-list-of-flora-and-fauna-of-poltava-r
+    - wikidata:Q157819
+  'no':
+  - name: legevendelrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q157819
+    - wikipedia:no
+  - name: lækjevendelrot
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q157819
+  sr:
+  - name: Valerijana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:sr
+  - name: одољен
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: Валериан
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: Makebohija
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: Macina trava
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  - name: Valerianaofficinalis
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  bs:
+  - name: Odoljen
+    preferred: true
+    sources:
+    - wikidata:Q157819
+    - wikipedia:bs
+  is:
+  - name: Garðabrúða
+    preferred: true
+    sources:
+    - wikidata:Q157819
+    - wikipedia:is
+  ca:
+  - name: Valeriana vera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+    - wikipedia:ca
+  be:
+  - name: Валяр’ян лекавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  - name: Валяр'ян лекавы
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157819
+  tr:
+  - name: Kedi otu
+    preferred: true
+    sources:
+    - wikidata:Q157819
+    - wikipedia:tr
+  - name: kediotu
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

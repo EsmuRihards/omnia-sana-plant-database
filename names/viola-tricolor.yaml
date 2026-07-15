@@ -1,0 +1,402 @@
+id: viola-tricolor
+scientific_name: Viola tricolor
+names:
+  bg:
+  - name: Трицветна теменуга
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Maćuhica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Violka trojbarevná
+    preferred: true
+    sources:
+    - wikidata:Q190326
+    - wikipedia:cs
+  da:
+  - name: Stedmoderblomst
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  - name: Almindelig stedmoderblomst
+    sources:
+    - wikipedia:da
+    status: needs-review
+  - name: stif-moders
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: stif-moors blomser
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  nl:
+  - name: Driekleurig viooltje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q190326
+    - wikipedia:nl
+  en:
+  - name: Heartsease
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Wild pansy
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q190326
+  - name: Johnny-jump-up
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q190326
+  - name: Love-in-idleness
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Pansy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q190326
+  - name: heart's-ease
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: field pansy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: ladies'-delight
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: miniature pansy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: European wild pansy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: three-coloured violet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: pansy violet
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q190326
+  - name: Johnny jumpup
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - wikidata:Q190326
+  - name: Johnny Jump Up, Heartsease, Heart's Delight
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+  - name: Three-colored Violet
+    sources:
+    - wikidata:Q190326
+    status: needs-review
+  et:
+  - name: Aaskannike
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: keto-orvokki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q190326
+    - wikipedia:fi
+  fr:
+  - name: pensée sauvage
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+    - wikidata:Q190326
+  - name: pensée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: Pensee tricolore
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-violaceae
+    - gbif:info-flora-schweiz-violaceae
+  - name: pensée tricolore
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: violette pensée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: violette tricolore
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Violette tricolore, Pensée sauvage, Pensée tricolore
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Wildes Stiefmütterchen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Gewoehnliches Feld-Stiefmuetterchen
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-violaceae
+  - name: Echtes Veilchen
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q190326
+  - name: Feld-Stiefmuetterchen
+    sources:
+    - gbif:flora-helvetica-violaceae
+    - gbif:info-flora-schweiz-violaceae
+  - name: Feld-Stiefmütterchen
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  - name: Wildes Stiefmütterchen (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  hu:
+  - name: Háromszínű árvácska
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Goirmín searraigh
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Viola del pensiero
+    preferred: true
+    sources:
+    - gbif:flora-helvetica-violaceae
+    - gbif:info-flora-schweiz-violaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lt:
+  - name: Trispalvė našlaitė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Fiołek trójbarwny
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: amor-perfeito
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Panseluță
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Fialka trojfarebná
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: divja vijolica
+    sources:
+    - wikidata:Q190326
+    status: needs-review
+  sv:
+  - name: styvmorsviol
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: keto-orvokki
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Фиалка трёхцветная
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  - name: анютины глазки
+    sources:
+    - wikidata:Q190326
+    status: needs-review
+  uk:
+  - name: Фіалка триколірна
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: stemorsblom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: stemorsblomst
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  - name: stemorblom
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  - name: stemor
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: natt og dag
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: svulu-hat
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: stif-moders
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: stif-moors blomser
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Carl Gerbelins liv-blomster
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Дан-ноћ
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Poljska ljubičica
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Þrenningarfjóla
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Pensament silvestre
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Браткі
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Hercai menekşe
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

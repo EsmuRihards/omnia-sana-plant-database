@@ -1,0 +1,77 @@
+id: chamerion-angustifolium
+scientific_name: Chamerion angustifolium
+names:
+  nl:
+  - name: wilgenroosje
+    sources:
+    - gbif:belgian-species-list
+    status: needs-review
+  en:
+  - name: Fireweed
+    preferred: true
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: rosebay willowherb
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:united-kingdom-species-inventory-uksi
+  fr:
+  - name: épilobe en épi
+    sources:
+    - gbif:belgian-species-list
+    status: needs-review
+  de:
+  - name: Waldweidenrüschen
+    sources:
+    - gbif:belgian-species-list
+    status: needs-review
+  uk:
+  - name: Хамерій вузьколистий
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

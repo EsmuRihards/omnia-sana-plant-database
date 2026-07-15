@@ -1,0 +1,494 @@
+id: aesculus-hippocastanum
+scientific_name: Aesculus hippocastanum
+names:
+  bg:
+  - name: Обикновен конски кестен
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Obični divlji kesten
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: jírovec maďal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26899
+    - wikipedia:cs
+  - name: koňský kaštan
+    sources:
+    - col:catalogue-of-life
+  - name: jírovec ma
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: pagaštan konský
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Hestekastanie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Almindelig hestekastanje
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Hestekastanje
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Witte paardenkastanje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q26899
+    - wikipedia:nl
+  en:
+  - name: Horse Chestnut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26899
+  - name: Conker tree
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26899
+  - name: horse-chestnut
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26899
+  - name: Conker-tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Horsechestnut
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European horse-chestnut
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Common Horse Chestnut
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q26899
+  - name: Horse-chestnut [tree]
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+  - name: Horsechestnut
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Buckeye
+    sources:
+    - wikidata:Q26899
+    status: needs-review
+  - name: Spanish chestnut
+    sources:
+    - wikidata:Q26899
+    status: needs-review
+  - name: White Horse Chestnut
+    sources:
+    - wikidata:Q26899
+    status: needs-review
+  - name: European horsechestnut
+    sources:
+    - wikidata:Q26899
+    status: needs-review
+  - name: European horse chestnut
+    sources:
+    - wikidata:Q26899
+    status: needs-review
+  et:
+  - name: Harilik hobukastan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: balkaninhevoskastanja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q26899
+  - name: Hevoskastanja
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Marronnier d'Inde
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q26899
+  - name: Marronnier
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-sapindaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-sapindaceae
+  - name: marronnier commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: marronnier d’Inde
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: marronnier-commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: mmarronnier-d'inde
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Marronier commun
+    sources:
+    - col:catalogue-of-life
+  - name: Marronnier blanc
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: marronnier dinde
+    sources:
+    - gbif:belgian-species-list
+    status: needs-review
+  - name: Marronnier d'Inde, Marronnier commun
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnliche Rosskastanie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q26899
+    - wikipedia:de
+  - name: Rosskastanie
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-sapindaceae
+    - gbif:info-flora-schweiz-sapindaceae
+    - wikidata:Q26899
+  - name: Weiße Rosskastanie
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  - name: Gemeine Rosskastanie
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Αγριοκαστανιά
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: Ιπποκαστανιά
+    sources:
+    - col:catalogue-of-life
+  - name: Αίσκουλος η ιπποκαστανέα
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Közönséges vadgesztenye
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  - name: fehér vadgesztenye
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Crann cnó capaill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Ippocastano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-sapindaceae
+    - gbif:info-flora-schweiz-sapindaceae
+  - name: ipposcastano
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Parastā zirgkastaņa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  - name: parast
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Paprastasis kaštonas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Kasztanowiec pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Kasztanowiec zwyczajny
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pt:
+  - name: castanheiro-da-índia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikipedia:pt
+  - name: castanha-da-índia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Castanheiro da Índia
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  ro:
+  - name: Castan sălbatic
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  - name: Castan porcesc
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: Pagaštan konský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Navadni divji kostanj
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26899
+    - wikipedia:sl
+  es:
+  - name: castaño-loco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: castaño de Indias
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: castaño-de-indias
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Castaño de la India
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: hästkastanj
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  - name: Vanlig hästkastanj
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: balkaninhevoskastanja
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Конский каштан обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: kaštan konskij
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Гіркокаштан звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Каштан білий
+    sources:
+    - col:catalogue-of-life
+  - name: Кінський каштан звичайний
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: hestekastanje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Дивљи кестен
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Divlji kesten
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bs
+  sq:
+  - name: Gështenja e egër
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Hestakastanía
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Castanyer d'Índia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Castanyer d'Índia comú
+    sources:
+    - col:catalogue-of-life
+  - name: Castanyer bord
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Каштан конскі
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Конскі каштан звычайны
+    sources:
+    - col:catalogue-of-life
+  - name: Горкі каштан звычайны
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: at kestanesi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Koca At Kestanesi
+    sources:
+    - col:catalogue-of-life
+  - name: Beyaz çiçekli at kestanesi
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

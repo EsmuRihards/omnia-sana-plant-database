@@ -1,0 +1,576 @@
+id: centaurium-erythraea
+scientific_name: Centaurium erythraea
+names:
+  bg:
+  - name: Червен кантарион
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:bg
+  hr:
+  - name: Štitasta kičica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Kičica
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+  - name: Gorka trava
+    sources:
+    - col:catalogue-of-life
+  - name: Gorko zelje
+    sources:
+    - col:catalogue-of-life
+  - name: Grozničava trava
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: zeměžluč okolíkatá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:cs
+  - name: zeměžluč hořká
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  da:
+  - name: Mark-tusindgylden
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156870
+  - name: Marktusindgylden
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Echt duizendguldenkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156870
+    - wikipedia:nl
+  en:
+  - name: Centaury
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q156870
+  - name: Common centaury
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156870
+  - name: European centaury
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q156870
+  - name: Dumpy Centaury
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: forking centaury
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: drug centaury
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  et:
+  - name: harilik maasapp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: rohtosappi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156870
+    - wikipedia:fi
+  fr:
+  - name: érythrée
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q156870
+  - name: Petite centauree rouge
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-gentianaceae
+    - gbif:info-flora-schweiz-gentianaceae
+  - name: petite-centaurée rouge
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q156870
+  - name: petite-centaurée commune
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q156870
+  - name: érythrée petite-centaurée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:taxref
+  - name: petite centaurée
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Petite centaurée rouge
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Érythrée commune
+    sources:
+    - col:catalogue-of-life
+  - name: erythrée petite centaurée
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q156870
+  - name: Herbe à Chiron
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Petite-centaurée
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Petite centaurée commune
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Petite-centaurée commune, Érythrée petite-centaurée, Petite-centaurée érythrée, Érythrée
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echtes Tausendgüldenkraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156870
+    - wikipedia:de
+  - name: Echtes Tausendgueldenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-gentianaceae
+    - gbif:info-flora-schweiz-gentianaceae
+  - name: kopfiges Tausendgüldenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Gemeines Tausendgüldenkraut
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q156870
+  - name: Echtes Tausendguldenkraut
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  el:
+  - name: Ερυθραία το κενταύριο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Kis ezerjófű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:hu
+  ga:
+  - name: Dréimire Mhuire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Dréimire Muire
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Centauro maggiore
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-gentianaceae
+    - gbif:info-flora-schweiz-gentianaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Centaurea minore
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+  - name: Erythrea centaurium
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Erythraea centaurium
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  lv:
+  - name: Čemuru augstiņš
+    preferred: true
+    sources:
+    - wikidata:Q156870
+    - wikipedia:lv
+  - name: Centaurium umbellatum
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  lt:
+  - name: Skėtinė širdažolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:lt
+  pl:
+  - name: Centuria pospolita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:pl
+  - name: Tysiącznik
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Centaurium minus
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Centuria zwyczajna
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Tysiącznik pospolity
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  pt:
+  - name: Fel-da-terra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Centáurea-comum
+    sources:
+    - col:catalogue-of-life
+  - name: Centáurea-menor
+    sources:
+    - col:catalogue-of-life
+  - name: Centaurium majus
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Centaurium minus
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Erythraea centaurium
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  ro:
+  - name: Țintaură
+    preferred: true
+    sources:
+    - wikidata:Q156870
+    - wikipedia:ro
+  - name: Ţintaură
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Centaurium umbellatum
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  sk:
+  - name: zemežlč menšia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:sk
+  sl:
+  - name: navadna tavžentroža
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:sl
+  es:
+  - name: centáurea menor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+  - name: hiel de la tierra
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+  - name: aciano
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: eritrea
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: amargosa
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: centaura
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: cintoria
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: santaura
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: escobilla
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: lapicocho
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: sanginaria
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: yerba margosa
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: centaura menor
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: gota de sangre
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: hiel de tierra
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: hiel del campo
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: siete sangrías
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: yerba amargosa
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: centaurea menor
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: cintoria de oro
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: genciana blanca
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: hierba amargosa
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: hierba de guirón
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: hierba pedorrera
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: yel de la tierra
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: centaura menor roja
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: hierba de la liebre
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  sv:
+  - name: flockarun
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:the-swedish-red-list-2020
+    - wikidata:Q156870
+    - wikipedia:sv
+  - name: bredarun
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-swedish-red-list-2020
+  ru:
+  - name: Золототысячник обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:ru
+  uk:
+  - name: Золототисячник звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-chernihiv
+    - gbif:red-list-of-flora-and-fauna-of-khmelnyts
+    - gbif:red-list-of-flora-and-fauna-of-kirovohra
+    - wikipedia:uk
+  - name: Центурія
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Сардушник
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Семисильник
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Золототисячник малий
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  - name: Centaurium umbellatum
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  'no':
+  - name: skjermgylden
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  sr:
+  - name: Кичица
+    preferred: true
+    sources:
+    - wikidata:Q156870
+    - wikipedia:sr
+  - name: Centaurium umbellatum
+    sources:
+    - wikidata:Q156870
+    status: needs-review
+  ca:
+  - name: Herba de Santa Margarida
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156870
+    - wikipedia:ca
+  be:
+  - name: Цвінтарэй звычайны
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: kırmızı kantaron
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

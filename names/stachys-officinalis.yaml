@@ -1,0 +1,221 @@
+id: stachys-officinalis
+scientific_name: Stachys officinalis
+names:
+  bg:
+  - name: лечебен ранилист
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  cs:
+  - name: čistec lékařský
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: bukvice lékařská
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  da:
+  - name: Betonie
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Læge-Betonie
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Læge-Galtetand
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  nl:
+  - name: Betonie
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  en:
+  - name: Betony
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  et:
+  - name: Harilik tõnnike
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  fi:
+  - name: rohtopähkämö
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  fr:
+  - name: Bétoine
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Epiaire officinale
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Épiaire officinale
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  de:
+  - name: Heilziest
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Heil-Ziest
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Heilbatunge
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Echte Betonie
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Gemeiner Ziest
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  hu:
+  - name: Orvosi tisztesfű
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  ga:
+  - name: Lus beatha
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  it:
+  - name: Erba betonica
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  lt:
+  - name: Vaistinė notra
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  pl:
+  - name: Bukwica lekarska
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Bukwica zwyczajna
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Czyściec lekarski
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  sk:
+  - name: betonika lekárska
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  es:
+  - name: bretoña
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: betónica
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: vetónica
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: betónicao
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: bretónica
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: salima fina
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: selima fina
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  sv:
+  - name: Humlesuga
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Läkebetonika
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  ru:
+  - name: Буковица
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  - name: Буквица лекарственная
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  uk:
+  - name: Буквиця лікарська
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+  ca:
+  - name: Betònica
+    sources:
+    - wikidata:Q157297
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

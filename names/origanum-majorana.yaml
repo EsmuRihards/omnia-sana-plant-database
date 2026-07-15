@@ -1,0 +1,326 @@
+id: origanum-majorana
+scientific_name: Origanum majorana
+names:
+  bg:
+  - name: Майорана
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Mažuran
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Majoran
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: majoránka zahradní
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:cs
+  - name: majorán záhradný
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Havemerian
+    sources:
+    - wikipedia:da
+    status: needs-review
+  - name: Have-merian
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    status: needs-review
+  nl:
+  - name: Echte marjolein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q22694
+    - wikipedia:nl
+  - name: marjolein
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  en:
+  - name: Marjoram
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikipedia:en
+  - name: sweet marjoram
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q22694
+  - name: Pot Marjoram
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Pot Majoram
+    sources:
+    - col:catalogue-of-life
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Pot Marjorum
+    sources:
+    - col:catalogue-of-life
+    - gbif:united-kingdom-species-inventory-uksi
+  et:
+  - name: Aedmajoraan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: vorstirohi
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: maustemeirami
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q22694
+    - wikipedia:fi
+  fr:
+  - name: Marjolaine
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikipedia:fr
+  - name: Marjolaine des jardins
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Origan marjolaine, Marjolaine, Marie Jolaine
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Origan marjolaine, Marjolaine, Origan des jardins
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Majoran
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:de
+  - name: Garten-Majoran
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  el:
+  - name: Ματζουράνα
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: mantzourana
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: majoranna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Majoránna
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  - name: kerti majoránna
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ga:
+  - name: Oragán cumhra
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Maggiorana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Origano maggiorana
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Majorāns
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Kvapusis mairūnas
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Lebiodka majeranek
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: manjerona
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: manjerona-verdadeira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Maghiran
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Majorán záhradný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Majaron
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: amaraco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: mejorana
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: mejram
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Майоран
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q22694
+    - wikipedia:ru
+  - name: mayoran sadovyj
+    sources:
+    - col:catalogue-of-life
+  - name: Майоран садовый
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Майоран
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: merian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Mažuran
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Mažuran
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  ca:
+  - name: Marduix
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Маяран
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Mercanköşk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,718 @@
+id: trifolium-pratense
+scientific_name: Trifolium pratense
+names:
+  bg:
+  - name: Червена детелина
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:bg
+  hr:
+  - name: Crvena djetelina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: jetel luční
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:cs
+  da:
+  - name: Rødkløver
+    preferred: true
+    sources:
+    - wikidata:Q156635
+    - wikipedia:da
+  - name: Rød-kløver
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156635
+  - name: Rød Kløver
+    sources:
+    - wikidata:Q156635
+    status: needs-review
+  nl:
+  - name: Rode klaver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156635
+    - wikipedia:nl
+  en:
+  - name: Red Clover
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156635
+  - name: meadow clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: purple clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Chilean Clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Peavine Clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Cowgrass Clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Medium Red Clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Mammoth Red Clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Aasristik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:et
+  - name: Punane ristik
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: Punane ristikhein
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  fi:
+  - name: puna-apila
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156635
+    - wikipedia:fi
+  fr:
+  - name: trèfle des prés
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156635
+    - wikipedia:fr
+  - name: trèfle violet
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q156635
+  - name: Trefle des pres
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-fabaceae
+    - gbif:info-flora-schweiz-fabaceae
+    - wikidata:Q156635
+  - name: trèfle rouge
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: trèfle commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Trèfle des prés, Trèfle violet
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Wiesenklee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:de
+  - name: Rot-Klee
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-fabaceae
+    - gbif:info-flora-schweiz-fabaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156635
+  - name: Wiesen-Klee
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-fabaceae
+    - gbif:info-flora-schweiz-fabaceae
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156635
+  - name: Rotklee
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - wikidata:Q156635
+  - name: Saatklee
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: Trifolium pratensis
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  el:
+  - name: Λειμώνιο τριφύλλι
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Réti here
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:hu
+  ga:
+  - name: Seamair dhearg
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Trifoglio pratense
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-fabaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-fabaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: trifoglio violetta
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: trifoglio rosso
+    sources:
+    - col:catalogue-of-life
+  - name: trifoglio dei prati
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Pļavas āboliņš
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:lv
+  lt:
+  - name: Raudonasis dobilas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:lt
+  pl:
+  - name: Koniczyna łąkowa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:pl
+  - name: koniczyna czerwona
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  pt:
+  - name: trevo-violeta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: trevo vermelho
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trevo-dos-prados
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Trevo-vermelho
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Trifoi roșu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: ďatelina lúčna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:sk
+  sl:
+  - name: črna detelja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:sl
+  es:
+  - name: trébol rojo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q156635
+  - name: trébol común
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q156635
+  - name: trébol violeta
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q156635
+  - name: melga
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: teble
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: tefla
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trebo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: chupón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: farusa
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trevol
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébul
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: farucha
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: quínola
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trebulo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: berrillo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: carretón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: chupador
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: chupetes
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: chupones
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: meliguel
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: meriguel
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trifolio
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: caramelos
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: mamatetas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trebalejo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: chupetitos
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: media luna
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: chupamieles
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: hoja la nube
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: tres en rama
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol enano
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol ladino
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: hirusta gorria
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol arvense
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: Carretón Rosado
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trebo silvestre
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de prado
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol pratense
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol sopavino
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: yerba chupelera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: motas encarnadas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de prados
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol encarnado
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol silvestre
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de la luna
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol productivo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol sopaenvino
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol del príncipe
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de los prados
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de media luna
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: hierba de las cataratas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trábol de la media luna
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de la media luna
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol rojo de los prados
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de prados purpúreas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de los prados colorado
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol de prados de flores encarnadas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trébol pratense que hace las flores purpúreas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: Trébol Rosado
+    sources:
+    - col:catalogue-of-life
+  - name: Trébol rojo eurasiático
+    sources:
+    - col:catalogue-of-life
+  - name: trébole
+    sources:
+    - wikidata:Q156635
+    status: needs-review
+  - name: trevo-dos-prados
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: rödklöver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikidata:Q156635
+    - wikipedia:sv
+  - name: puna-apila
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Клевер луговой
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:ru
+  - name: klever krasnyj
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Конюшина лучна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:uk
+  'no':
+  - name: rødkløver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q156635
+    - wikipedia:no
+  - name: raudkløver
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikidata:Q156635
+    - wikipedia:no
+  - name: Sukkertopp
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: rødkol
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Rød kløver
+    sources:
+    - wikidata:Q156635
+    status: needs-review
+  sr:
+  - name: Црвена детелина
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:sr
+  is:
+  - name: Rauðsmári
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikidata:Q156635
+    - wikipedia:is
+  ca:
+  - name: Trèvol de prat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:ca
+  - name: Trèvol comú
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: Trèvol vermell
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: trefle, trèvol de prat
+    sources:
+    - gbif:mimosaceae-papilionaceae-fl-pais-s-catal
+    status: needs-review
+  be:
+  - name: Канюшына лугавая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+    - wikipedia:be
+  tr:
+  - name: Çayır üçgülü
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+  - name: Kırmızı yonca
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156635
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

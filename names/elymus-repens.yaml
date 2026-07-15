@@ -1,0 +1,336 @@
+id: elymus-repens
+scientific_name: Elymus repens
+names:
+  hr:
+  - name: Puzava pirika
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Pýr plazivý
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Almindelig kvik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  nl:
+  - name: Kweek
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:world-register-of-marine-species
+    - gbif:wrims
+    - wikipedia:nl
+  - name: Kweek subsp. repens
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  en:
+  - name: Twitch grass
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Quack grass
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Dog grass
+    sources:
+    - col:catalogue-of-life
+  - name: Quackgrass
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+    - gbif:wrims
+    - wikidata:Q276262
+  - name: Couchgrass
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Creeping Wildrye
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Couch
+    sources:
+    - col:catalogue-of-life
+  - name: Quitch
+    sources:
+    - col:catalogue-of-life
+  - name: Twitch
+    sources:
+    - col:catalogue-of-life
+  - name: Wheat Grass
+    sources:
+    - col:catalogue-of-life
+  - name: Common Couch
+    sources:
+    - col:catalogue-of-life
+  - name: Quitch Grass
+    sources:
+    - col:catalogue-of-life
+  - name: Couch Wheat Grass
+    sources:
+    - col:catalogue-of-life
+  - name: English Couch Grass
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Harilik orashein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: niittyjuola
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q276262
+    - wikipedia:fi
+  - name: juolavehnä
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: Chiendent rampant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-poaceae
+    - gbif:info-flora-schweiz-poaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: chiendent
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: froment rampant
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: chiendent commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: agropyron rampant
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: chiendent des boutiques
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  de:
+  - name: Kriech-Quecke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Kriechende Quecke
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-poaceae
+    - gbif:info-flora-schweiz-poaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Gewöhnliche Quecke
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q276262
+  - name: Gemeine Quecke
+    sources:
+    - col:catalogue-of-life
+  - name: Gewöhnliche Kriech-Quecke
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Tarackbúza
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: közönséges tarackbúza
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Broimfhéar
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Gramigna comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-poaceae
+    - gbif:info-flora-schweiz-poaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Gramigna
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Ložņu vārpata
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Paprastasis varputis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Perz właściwy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: grama-francesa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: trigo-grama
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: grama-de-ponta
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  sk:
+  - name: Pýr plazivý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: plazeča pirnica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q276262
+    - wikipedia:sl
+  es:
+  - name: Grama
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: kvickrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Пырей ползучий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Пырей ложносизоватый
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Пирій повзучий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: Kveke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:no
+  sr:
+  - name: Пиревина
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Pirevina
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Húsapuntur
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Agram prim
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Пырнік паўзучы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: ayrıkotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

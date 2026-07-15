@@ -1,0 +1,697 @@
+id: symphytum-officinale
+scientific_name: Symphytum officinale
+names:
+  bg:
+  - name: Черен оман
+    preferred: true
+    sources:
+    - wikidata:Q157561
+    - wikipedia:bg
+  - name: Черен оман; Зарасличе
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  hr:
+  - name: Gavez obični
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Gavez
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+  - name: Crni gavez
+    sources:
+    - col:catalogue-of-life
+  - name: Veliki gavez
+    sources:
+    - col:catalogue-of-life
+  - name: Ljekoviti gavez
+    sources:
+    - col:catalogue-of-life
+  - name: Ljubičasti gavez
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: kostival lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:cs
+  da:
+  - name: Læge-kulsukker
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q157561
+  - name: Lægekulsukker
+    sources:
+    - wikipedia:da
+    status: needs-review
+  - name: Spids Øjentrøst
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Spydbladet Torskemund
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Gewone smeerwortel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q157561
+    - wikipedia:nl
+  - name: Smeerwortel
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Common Comfrey
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q157561
+  - name: Comfrey
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: knitbone
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q157561
+  - name: bruisewort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: boneset
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q157561
+  - name: consound
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q157561
+  - name: slippery-root
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q157561
+  - name: healingherb
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: healing-herb
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Comfrey, Boneset
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+  - name: true comfrey
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: quaker comfrey
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: cultivated comfrey
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  et:
+  - name: Harilik varemerohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:et
+  fi:
+  - name: rohtoraunioyrtti
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q157561
+    - wikipedia:fi
+  - name: Ketosilmäruoho
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Keihäsnielukukka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Consoude officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-boraginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q157561
+    - wikipedia:fr
+  - name: grande consoude
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q157561
+  - name: langue de vache
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q157561
+  - name: herbe du cardinal
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: herbe à la coupure
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Conflée
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Oreille d'âne
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Sirop de Fernel
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Consoude officinale, Grande consoude
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Beinwell
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q157561
+    - wikipedia:de
+  - name: Gewöhnlicher Beinwell
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Echte Wallwurz
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:info-flora-schweiz-boraginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: gemeiner Beinwell
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q157561
+  - name: Gebraeuchlicher Beinwell
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:info-flora-schweiz-boraginaceae
+  - name: Gewöhnlicher Arznei-Beinwell
+    sources:
+    - col:catalogue-of-life
+  - name: Beinwell
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q157561
+  - name: Arznei-Beinwell
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q157561
+  - name: Komfrei
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Beinwurz
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Wallwurz
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Hasenlaub
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Milchwurz
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Schmalwurz
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Bienenkraut
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Schwarzwurz
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Wundallheil
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Schadheilwurzel
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Gewöhnlicher Beinwell (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  el:
+  - name: Στεκούλι
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Σύμφυτο το φαρμακευτικό
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Fekete nadálytő
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:hu
+  ga:
+  - name: Compar
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Consolida maggiore
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:info-flora-schweiz-boraginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q157561
+  - name: consolda maggiore
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Borrana
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  lv:
+  - name: Ārstniecības tauksakne
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Vaistinė taukė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:lt
+  pl:
+  - name: Żywokost lekarski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:pl
+  pt:
+  - name: Confrei
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q157561
+    - wikipedia:pt
+  - name: confrei-russo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: leite-vegetal
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: consolda-maior
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: língua-de-vaca
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: orelha-de-vaca
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: consólida-maior
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-do-cardeal
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: orelha-de-burro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: capim-roxo-da-rússia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: consólida-do-cáucaso
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: leite-vegetal-da-rússia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Consolda
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  ro:
+  - name: Tătăneasă
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:ro
+  sk:
+  - name: kostihoj lekársky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:sk
+  sl:
+  - name: Navadni gabez
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:sl
+  es:
+  - name: consuelda
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q157561
+  - name: consuelda mayor
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q157561
+  - name: suelda consuelda
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+  - name: suelda
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: silbote
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: sinfito
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: sínfito
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: consólida
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: oreha mulo
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: ricasuelda
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: oreja de asno
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: sinfito mayor
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: sínfito mayor
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: lengua de buey
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: consólida mayor
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: sueldaconsuelda
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: consuelda blanca
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: consuelda áspera
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: suelda-consuelda
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: hierba de los cerdos
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: hierba de las cortaduras
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  sv:
+  - name: äkta vallört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q157561
+    - wikipedia:sv
+  - name: vallört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Spjutsporre
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Uddögontröst
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Späd ögontröst
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: rohtoraunioyrtti
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Окопник лекарственный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:ru
+  - name: okopnik lekarstvennyi
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Живокіст лікарський
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:uk
+  - name: Окопник лікарський
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  'no':
+  - name: valurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q157561
+    - wikipedia:no
+  - name: valgras
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Spydtorskemunn
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Kjertelaugnetrøst
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Гавез
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:sr
+  bs:
+  - name: Gavez
+    preferred: true
+    sources:
+    - wikidata:Q157561
+    - wikipedia:bs
+  is:
+  - name: Valurt
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Consolda major
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157561
+    - wikipedia:ca
+  - name: Nualós
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Consolda
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  - name: Orella d'ase
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+  be:
+  - name: Жывакост лекавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Kara Kafesotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Karakafes otu
+    sources:
+    - wikidata:Q157561
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

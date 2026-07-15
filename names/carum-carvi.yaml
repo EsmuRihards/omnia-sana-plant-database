@@ -1,0 +1,502 @@
+id: carum-carvi
+scientific_name: Carum carvi
+names:
+  bg:
+  - name: Ким
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Kim
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: kmín kořenný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26811
+    - wikipedia:cs
+  da:
+  - name: Kommen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Haremad
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Læge-Alant
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Soløje-Alant
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Tornet Salat
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Gul Evighedsblomst
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Karwij
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q26811
+    - wikipedia:nl
+  en:
+  - name: Caraway
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26811
+    - wikipedia:en
+  - name: wild caraway
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q26811
+  - name: meridian fennel
+    sources:
+    - col:catalogue-of-life
+  - name: carum
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Persian cumin
+    sources:
+    - col:catalogue-of-life
+  - name: Common Caraway
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: Harilik köömen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: kumina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: maustekumina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26811
+  - name: Ahdekeltano
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Linnunkaali
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Isohirvenjuuri
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Piikkisalaatti
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vanukehirvenjuuri
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: carvi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q26811
+    - wikipedia:fr
+  - name: cumin des prés
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Cumin des pres
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: anis
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: care carvi
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: carvi commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: anis canadien
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: anis des Vosges
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Cumin des prés, Carvi commun, Carvi, Anis des Vosges, Cumin des Vosges
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Wiesen-Kümmel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q26811
+  - name: Kümmel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Kuemmel
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: Wiesenkümmel
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q26811
+  - name: Echter Kümmel
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Άγριο κύμινο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: Άγριο κύμινο (ágrio kýmino)
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Fűszerkömény
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Cearbhas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Cumino tedesco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Cumino dei prati
+    sources:
+    - col:catalogue-of-life
+  - name: Carvi
+    sources:
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+  lv:
+  - name: Pļavas ķimene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Paprastasis kmynas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Kminek zwyczajny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: cáriz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cúmel
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cominho
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cuminho
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: alcarávia
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cominho-armênio
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Alcaravia
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Chimen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Rasca lúčna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadna kumina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26811
+    - wikipedia:sl
+  es:
+  - name: comino de prado
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Alcaravea
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: kummin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikipedia:sv
+  - name: brödkummin
+    sources:
+    - col:catalogue-of-life
+  - name: Harkål
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: kumina
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Blåfibbla
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Ålandsrot
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Taggsallat
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Hedblomster
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Luddkrissla
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Svärdkrissla
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Тмин обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Кмин звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: karve
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: Haremat
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Alantrot
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Taggsalat
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: karve-kaal
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Sverdalant
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Høj Høgeurt
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Lodne-alant
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sandstråblom
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Ким
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Kim
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Qimnoni
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sq
+  is:
+  - name: Kúmen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikipedia:is
+  ca:
+  - name: comí de prat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Alcaravia
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Кмен звычайны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,302 @@
+id: vaccinium-macrocarpon
+scientific_name: Vaccinium macrocarpon
+names:
+  hr:
+  - name: Američka brusnica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Klikva velkoplodá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Storfrugtet tranebær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q149397
+    - wikipedia:da
+  nl:
+  - name: Cranberry
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q149397
+    - wikipedia:nl
+  - name: Grote veenbes
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q149397
+  - name: Amerikaanse veenbes
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q149397
+  - name: veenbes
+    sources:
+    - wikidata:Q149397
+    status: needs-review
+  - name: grote cranberry
+    sources:
+    - wikidata:Q149397
+    status: needs-review
+  - name: amerikaanse cranberry
+    sources:
+    - wikidata:Q149397
+    status: needs-review
+  en:
+  - name: American Cranberry
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q149397
+  - name: Cranberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q149397
+  - name: Large cranberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: fenberry
+    sources:
+    - col:catalogue-of-life
+  - name: Cramberry
+    sources:
+    - col:catalogue-of-life
+  - name: Wild Cranberry
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: Amerikankarpalo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q149397
+    - wikipedia:fi
+  - name: pensaskarpalo
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: canneberge à gros fruits
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikipedia:fr
+  - name: airelle à gros fruits
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q149397
+  - name: Canneberge a gros fruits
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-ericaceae
+    - gbif:info-flora-schweiz-ericaceae
+  - name: graines
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: gros atoca
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: gros atocas
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: pommes de pré
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: ronce d'Amérique
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: grande canneberge
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  de:
+  - name: Großfrüchtige Moosbeere
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q149397
+    - wikipedia:de
+  - name: Grossfruechtige Moosbeere
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-ericaceae
+    - gbif:info-flora-schweiz-ericaceae
+  - name: Kranbeere
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: große Moosbeere
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  hu:
+  - name: Amerikai tőzegáfonya
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q149397
+    - wikipedia:hu
+  it:
+  - name: Ossicocco americano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-ericaceae
+    - gbif:info-flora-schweiz-ericaceae
+  lv:
+  - name: Dižbrūklene
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  - name: lielaugļu dzērvenes
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Stambiauogė spanguolė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Żurawina wielkoowocowa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  sk:
+  - name: Kľukva veľkoplodá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  es:
+  - name: arándano trepador
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: arándano americano
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Arándano rojo americano
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: amerikanskt tranbär
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Клюква крупноплодная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Журавлина великоплідна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: Amerikansk tranebær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q149397
+    - wikipedia:no
+  sr:
+  - name: Američka brusnica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q149397
+    - wikipedia:sr
+  is:
+  - name: Trönuber
+    sources:
+    - wikipedia:is
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

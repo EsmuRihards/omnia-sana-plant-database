@@ -1,0 +1,166 @@
+id: ocimum-tenuiflorum
+scientific_name: Ocimum tenuiflorum
+names:
+  bg:
+  - name: Свещен босилек
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Tulsi
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Bazalka indická
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Hellig basilikum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Holy Basil
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q960124
+  - name: Sacred basil
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: brush-leaf-tea
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Krishna Tulsi
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Püha basiilik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: pyhäbasilika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  fr:
+  - name: Basilic sacré
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  de:
+  - name: Indisches Basilikum
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Ιερός βασιλικός
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ώκιμον το λεπτανθές
+    sources:
+    - wikipedia:el
+    status: needs-review
+  pl:
+  - name: Tulasi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Bazylia azjatycka
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: manjericão-branco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: bazalka posvätná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: albahaca morada
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Albahaca
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: helig basilika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Базилик священный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Туласи
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Туласі
+    sources:
+    - wikipedia:uk
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

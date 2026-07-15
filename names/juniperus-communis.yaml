@@ -1,0 +1,470 @@
+id: juniperus-communis
+scientific_name: Juniperus communis
+names:
+  bg:
+  - name: Обикновена хвойна
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Obična borovica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Jalovec obecný
+    preferred: true
+    sources:
+    - wikidata:Q26325
+    - wikipedia:cs
+  da:
+  - name: Ene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Enebær
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Almindelig ene
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: enebær-træ
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  nl:
+  - name: Jeneverbes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q26325
+    - wikipedia:nl
+  en:
+  - name: Common Juniper
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q26325
+  - name: Juniper
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26325
+  - name: Dwarf Juniper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Malchangel
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Ground Juniper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q26325
+  - name: Mountain Juniper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q26325
+  - name: Prostrate Juniper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Low Juniper
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: common-juniper
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  et:
+  - name: Harilik kadakas
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: kataja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: kotikataja
+    sources:
+    - wikidata:Q26325
+    status: needs-review
+  - name: (koti)kataja
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  fr:
+  - name: genévrier commun
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q26325
+  - name: Genévrier
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q26325
+  - name: Genevrier
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-cupressaceae
+    - gbif:info-flora-schweiz-cupressaceae
+  - name: genièvre
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Genévrier nain
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: genièvre commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Genévrier commun, Genièvre, Peteron
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnlicher Wacholder
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q26325
+  - name: Wacholder
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q26325
+  - name: Echter Wacholder
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-cupressaceae
+    - gbif:info-flora-schweiz-cupressaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Heide-Wacholder
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Gemeine Wacholder
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Zwergwacholder
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Heide-Wacholder i.w.S.
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Gemeiner Wacholder
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Άρκευθος η κοινή
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Közönséges boróka
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Ginepro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-cupressaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-cupressaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: ginepro comune
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Parastais kadiķis
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Paprastasis kadagys
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Jałowiec pospolity
+    preferred: true
+    sources:
+    - wikidata:Q26325
+    - wikipedia:pl
+  pt:
+  - name: zimbreiro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cade
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: cedro
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: zimbro
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: zimbrão-anão
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: junípero-comum
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: fruto-de-genebra
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  ro:
+  - name: Ienupăr
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Borievka obyčajná
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Navadni brin
+    preferred: true
+    sources:
+    - wikidata:Q26325
+    - wikipedia:sl
+  es:
+  - name: Enebro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q26325
+  - name: Ginepro Nano
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: enebro común
+    sources:
+    - wikidata:Q26325
+    status: needs-review
+  sv:
+  - name: en
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:sv
+  - name: Träd-En
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Fjäll-En
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: (koti)kataja
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Можжевельник обыкновенный
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Яловець звичайний
+    preferred: true
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-chernihiv
+    - gbif:red-list-of-flora-and-fauna-of-kharkiv-r
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-city
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-regi
+    - gbif:red-list-of-flora-and-fauna-of-sumy-regi
+    - wikipedia:uk
+  'no':
+  - name: einer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: eine
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    - wikipedia:no
+  - name: brisk
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+  - name: eene
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: ener
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: bruse
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: enebær-træ
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Обична клека
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Obična smreka
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Dëllinja
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Einir
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Ginebre
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Ядловец звычайны
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Adi ardıç
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

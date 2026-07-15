@@ -1,0 +1,203 @@
+id: salvia-hispanica
+scientific_name: Salvia hispanica
+names:
+  bg:
+  - name: Чиа
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: Šalvěj hispánská
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  nl:
+  - name: Chia
+    preferred: true
+    sources:
+    - gbif:checklist-dutch-species-register-nederla
+    - wikipedia:nl
+  en:
+  - name: Chia
+    preferred: true
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q1071585
+  - name: Spanish sage
+    sources:
+    - wikidata:Q1071585
+    status: needs-review
+  - name: chia sage
+    sources:
+    - wikidata:Q1071585
+    status: needs-review
+  et:
+  - name: Õlisalvei
+    preferred: true
+    sources:
+    - wikidata:Q1071585
+    - wikipedia:et
+  fi:
+  - name: chiasalvia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  fr:
+  - name: Chia
+    sources:
+    - wikipedia:fr
+    status: needs-review
+  - name: Sauge d'Espagne, Chia
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Chia
+    sources:
+    - wikidata:Q1071585
+    status: needs-review
+  - name: Mexikanische Chia
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Σάλβια η ισπανική
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Azték zsálya
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lt:
+  - name: Ispaninis šalavijas
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Szałwia hiszpańska
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: Chia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Chia
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Šalvia aztécka
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Oljna kadulja
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: chía
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Chia
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  sv:
+  - name: mexikansk chiasalvia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikipedia:sv
+  - name: mexikansk chia-salvia
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+  ru:
+  - name: Чиа
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Шавлія іспанська
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: chiasalvie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  - name: Chia
+    sources:
+    - wikipedia:no
+    status: needs-review
+  ca:
+  - name: Xia
+    preferred: true
+    sources:
+    - wikidata:Q1071585
+    - wikipedia:ca
+  tr:
+  - name: Çiya
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

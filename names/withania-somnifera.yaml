@@ -1,0 +1,203 @@
+id: withania-somnifera
+scientific_name: Withania somnifera
+names:
+  bg:
+  - name: Ашваганда
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: Withanie snodárná
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: jordbærtomat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Ashwaganda
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Indian Ginseng
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Winter Cherry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - wikidata:Q852660
+  - name: Poison Gooseberry
+    sources:
+    - col:catalogue-of-life
+  - name: Rennet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+  - name: winter-cherry
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Poisonous Gooseberry
+    sources:
+    - col:catalogue-of-life
+  - name: Withania
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q852660
+  - name: Ashwagandha
+    sources:
+    - wikidata:Q852660
+    status: needs-review
+  et:
+  - name: Uimastav juustumari
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Rohtokoisio
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: Ashwagandha
+    sources:
+    - wikipedia:fr
+    status: needs-review
+  - name: Ti poc-poc
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Withania somnifère, Ginseng indien, Ashwagandha
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Schlafbeere
+    sources:
+    - wikipedia:de
+    status: needs-review
+  hu:
+  - name: Álombogyó
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lt:
+  - name: Migdomoji vitanija
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Witania ospała
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Ashwagandha
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: whitania
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: ginseng-indiano
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Jimsém-indiano
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: vitánia opojná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: bufera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: withania
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  ru:
+  - name: Витания снотворная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Вітанія снодійна
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Ashwagandha
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Ашваганда
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Bufera
+    sources:
+    - wikipedia:ca
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,212 @@
+id: panax-ginseng
+scientific_name: Panax ginseng
+names:
+  bg:
+  - name: Азиатски женшен
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Azijski ginseng
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Ženšen pravý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Ægte ginseng
+    sources:
+    - wikipedia:da
+    status: needs-review
+  en:
+  - name: Asian ginseng
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Korean ginseng
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q182881
+  - name: Chinese ginseng
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q182881
+  - name: Asiatic ginseng
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Oriental ginseng
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Manchurian ginseng
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: ginseng
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  et:
+  - name: Harilik ženšenn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: kiinanginseng
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ginseng
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Ginseng
+    sources:
+    - wikipedia:fr
+    status: needs-review
+  de:
+  - name: Ginseng
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:de
+  - name: koreanischer Ginseng
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Parastais žeņšeņs
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  pl:
+  - name: Wszechlek żeń-szeń
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: jinsão
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Jinsém
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Ginseng
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Všehoj ázijský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: ženšen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q182881
+  es:
+  - name: Ginseng chino
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: ginseng
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  ru:
+  - name: Женьшень настоящий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Женьшень обыкновенный
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Корінь женьшеню
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  is:
+  - name: Kóreskt ginseng
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Ginseng
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Kore ginsengi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: kırmızı ginseng
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,414 @@
+id: salvia-officinalis
+scientific_name: Salvia officinalis
+names:
+  bg:
+  - name: Градински чай
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Ljekovita kadulja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Kadulja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1111359
+  - name: Žalfija
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: šalvěj lékařská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q1111359
+    - wikipedia:cs
+  - name: šalvia lekárska
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Læge-salvie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q1111359
+  - name: Lægesalvie
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Echte salie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q1111359
+    - wikipedia:nl
+  - name: tuinsalie
+    sources:
+    - wikidata:Q1111359
+    status: needs-review
+  - name: franse salie
+    sources:
+    - wikidata:Q1111359
+    status: needs-review
+  en:
+  - name: Sage
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q1111359
+  - name: Common sage
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - wikidata:Q1111359
+  - name: Garden sage
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: kitchen sage
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q1111359
+  - name: Golden Sage
+    sources:
+    - col:catalogue-of-life
+  - name: Culinary Sage
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Aedsalvei
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: ryytisalvia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q1111359
+    - wikipedia:fi
+  fr:
+  - name: Sauge officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1111359
+    - wikipedia:fr
+  - name: Sauge
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1111359
+  de:
+  - name: Echter Salbei
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1111359
+    - wikipedia:de
+  - name: Garten-Salbei
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Echte Salbei
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Heilsalbei
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1111359
+  - name: Küchensalbei
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Φασκομηλιά
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Φασκόμηλο
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: orvosi zsálya
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  - name: kerti zsálya
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Sáiste
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Salvia domestica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  lv:
+  - name: Ārstniecības salvija
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Vaistinis šalavijas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Szałwia lekarska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: sálvia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Sálvia-comum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Chá-da-Grécia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Sálvia-das-boticas
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: salva
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: salva-das-obticas
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Salvie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: šalvia lekárska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1111359
+    - wikipedia:sk
+  sl:
+  - name: žajbelj
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1111359
+    - wikipedia:sl
+  es:
+  - name: Salvia Real
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1111359
+  - name: Salvia
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1111359
+  - name: Mermasangre
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1111359
+  - name: Salvia fina
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q1111359
+  - name: Salvia dulce
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: kryddsalvia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:sv
+  ru:
+  - name: Шалфей лекарственный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Salfej Aptečny
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: šalfej aptečny
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Шавлія лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: kryddersalvie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: tesalvie
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: te-salvie
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Жалфија / Žalfija
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Жалфија
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Kadulja
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Sherbelë
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Sherebela
+    sources:
+    - wikidata:Q1111359
+    status: needs-review
+  ca:
+  - name: Sàlvia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: шалфей аптэчны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Tıbbi ada çayı
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1111359
+  - name: Ada çayı
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

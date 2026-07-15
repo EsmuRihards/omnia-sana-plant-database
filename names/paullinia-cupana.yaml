@@ -1,0 +1,214 @@
+id: paullinia-cupana
+scientific_name: Paullinia cupana
+names:
+  bg:
+  - name: Гуарана
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Guarana
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Paulinie nápojná
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Guarana
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Guaraná
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Guarana
+    preferred: true
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q209089
+    - wikipedia:en
+  et:
+  - name: Guaraana-pauliinia
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Guarana
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Guarana
+    sources:
+    - wikipedia:fr
+    status: needs-review
+  de:
+  - name: Guarana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Guaraná
+    sources:
+    - wikipedia:de
+    status: needs-review
+  hu:
+  - name: Guarana
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Guaraná
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  lv:
+  - name: Gvarāna
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Gvaraninė paulinija
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: cierniopląt guarana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Paulinia guarana
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: guaraná
+    preferred: true
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: guaranazeiro
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Guarana
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Paulínia nápojová
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Guarana
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: cupana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: guaraná
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  sv:
+  - name: Guarana
+    preferred: true
+    sources:
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Гуарана
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Гуарана
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Guarana
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Гварана
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Guarana
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Guarana
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Guaranà
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Guarana
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,374 @@
+id: coriandrum-sativum
+scientific_name: Coriandrum sativum
+names:
+  bg:
+  - name: Кориандър
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Sjetveni korijandar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: koriandr setý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q41611
+    - wikipedia:cs
+  - name: koriander siaty
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Koriander
+    preferred: true
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Koriander
+    preferred: true
+    sources:
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q41611
+    - wikipedia:nl
+  en:
+  - name: Coriander
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q41611
+    - wikipedia:en
+  - name: cilantro
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: Chinese parsley
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Chinese-parsley
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  et:
+  - name: Aedkoriander
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: Korianteri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  - name: maustekorianteri
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q41611
+  fr:
+  - name: coriandre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikipedia:fr
+  - name: Coriandre cultivée
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+  - name: coriandre cultivé
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: Coriandre cultivee
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-apiaceae
+  - name: Coriandre cultivé, Coriandre
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Coriandre cultivée, Cotomili, Coriandre, Persil arabe
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Koriander
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Koriander
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+  el:
+  - name: Κορίανδρον το ήμερον
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: koliantro
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: kerti koriander
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Koriander
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  - name: kerti koriánder
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ga:
+  - name: Lus an choire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: coriandolo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: coriandro
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  lv:
+  - name: Koriandrs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Blakinė kalendra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  mt:
+  - name: Kosbor
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Kolendra siewna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: coentro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: coriandro
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: coendro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cuentro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: coentro-das-hortas
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: coentros
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Coriandru
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Koriander siaty
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Koriander
+    preferred: true
+    sources:
+    - wikidata:Q41611
+    - wikipedia:sl
+  es:
+  - name: culantro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  sv:
+  - name: koriander
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Кориандр посевной
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Кориандр
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Коріандр
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Коріандр посівний
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: koriander
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Коријандер
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Korijander
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bs
+  sq:
+  - name: Korianderi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sq
+  is:
+  - name: Kóríandrajurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Coriandre
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Каляндра пасяўная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  - name: каляндра
+    sources:
+    - wikidata:Q41611
+    status: needs-review
+  tr:
+  - name: Kişniş
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

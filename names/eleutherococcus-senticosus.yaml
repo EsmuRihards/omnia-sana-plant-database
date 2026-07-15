@@ -1,0 +1,190 @@
+id: eleutherococcus-senticosus
+scientific_name: Eleutherococcus senticosus
+names:
+  hr:
+  - name: Sibirski ginseng
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Eleuterokok ostnitý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: russisk rod
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Siberian Ginseng
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q894245
+  - name: Eleuthero
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Devil's bush
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q894245
+  - name: Siberian-ginseng
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Manyprickle Acanthopanax
+    sources:
+    - col:catalogue-of-life
+  - name: Devil’s bush
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    status: needs-review
+  et:
+  - name: Harilik eleuterokokk
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Venäjänjuuri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  de:
+  - name: Taigawurzel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Stachelpanax
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: sibirischer Ginseng
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: borstige Fingeraralie
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Borstige Taigawurzel
+    sources:
+    - wikipedia:de
+    status: needs-review
+  hu:
+  - name: Tajgagyökér
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  pl:
+  - name: Eleuterokok kolczasty
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: Jinsém-siberiano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: všehojovec tŕnistý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Ginseng siberiano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: rysk rot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  ru:
+  - name: Элеутерококк колючий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: dikij perec
+    sources:
+    - col:catalogue-of-life
+  - name: čertov kust
+    sources:
+    - col:catalogue-of-life
+  - name: Свободноягодник колючий
+    sources:
+    - col:catalogue-of-life
+  - name: svobodnojagodnik koljučij
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Елеутерокок колючий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: russisk rot
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  ca:
+  - name: Eleuterococ
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Элеўтэракок калючы
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

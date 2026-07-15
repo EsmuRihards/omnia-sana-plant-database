@@ -1,0 +1,299 @@
+id: hedera-helix
+scientific_name: Hedera helix
+names:
+  bg:
+  - name: Обикновен бръшлян
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Bršljan
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Břečťan popínavý
+    preferred: true
+    sources:
+    - wikidata:Q26354
+    - wikipedia:cs
+  da:
+  - name: Vedbend
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Almindelig vedbend
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Klimop
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q26354
+    - wikipedia:nl
+  en:
+  - name: Common ivy
+    preferred: true
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q26354
+  - name: English ivy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+    - wikidata:Q26354
+  - name: Ivy
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26354
+  - name: European Ivy
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: English Ivy, Common Ivy, European Ivy, Ivy, Needlepoint Ivy, Ripple Ivy
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+  et:
+  - name: Harilik luuderohi
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: euroopanmuratti
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+  - name: Varjomuratti
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Lierre grimpant
+    preferred: true
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+    - wikipedia:fr
+  - name: lierre
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-araliaceae
+    - gbif:info-flora-schweiz-araliaceae
+    - wikidata:Q26354
+  - name: lierre commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Lierre grimpant, Herbe de saint Jean, Lierre commun
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Efeu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-araliaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-araliaceae
+    - wikidata:Q26354
+  - name: Gewöhnlicher Efeu
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q26354
+  - name: Gemeiner Efeu
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Χέδερα ή έλιξ
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Közönséges borostyán
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Edera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-araliaceae
+    - gbif:info-flora-schweiz-araliaceae
+  lv:
+  - name: Parastā efeja
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Gebenė lipikė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Bluszcz pospolity
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: hera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: hera-inglesa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: hedera-variegata
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Iederă
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Brečtan popínavý
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Navadni bršljan
+    preferred: true
+    sources:
+    - wikidata:Q26354
+    - wikipedia:sl
+  es:
+  - name: Hiedra
+    sources:
+    - wikidata:Q26354
+    status: needs-review
+  sv:
+  - name: murgröna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikipedia:sv
+  ru:
+  - name: Плющ обыкновенный
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Плющ звичайний
+    preferred: true
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-khmelnyts
+    - gbif:red-list-of-flora-and-fauna-of-rivne-reg
+    - gbif:red-list-of-flora-and-fauna-of-ternopil-
+    - gbif:red-list-of-flora-and-fauna-of-vinnytsia
+    - gbif:red-list-of-flora-and-fauna-of-volyn-reg
+    - gbif:red-list-of-flora-and-fauna-of-zhytomyr-
+    - wikipedia:uk
+  'no':
+  - name: bergflette
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: Eføy
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Бршљан
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Bergflétta
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Heura
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Плюшч звычайны
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

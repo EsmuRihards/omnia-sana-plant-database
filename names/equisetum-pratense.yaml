@@ -1,0 +1,262 @@
+id: equisetum-pratense
+scientific_name: Equisetum pratense
+names:
+  hr:
+  - name: Obična preslica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: přeslička luční
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1123127
+    - wikipedia:cs
+  da:
+  - name: Lund-padderok
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q1123127
+  - name: Lundpadderok
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Weidepaardenstaart
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Shady horsetail
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q1123127
+  - name: meadow horsetail
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: shade horsetail
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: thicket horsetail
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  et:
+  - name: Aasosi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: lehtokorte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q1123127
+    - wikipedia:fi
+  fr:
+  - name: Prêle des prés
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxref
+    - wikidata:Q1123127
+  - name: Prele des pres
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+  de:
+  - name: Wiesen-Schachtelhalm
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-pteridophyta-from-germany-
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q1123127
+    - wikipedia:de
+  - name: Hain-Schachtelhalm
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Equiseto pratense
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Pļavas kosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Ožkabarzdis asiūklis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1123127
+    - wikipedia:lt
+  pl:
+  - name: Skrzyp łąkowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1123127
+    - wikipedia:pl
+  sk:
+  - name: praslička lúčna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: travniška preslica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1123127
+    - wikipedia:sl
+  es:
+  - name: cola de caballo de prado
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: ängsfräken
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q1123127
+    - wikipedia:sv
+  - name: lehtokorte
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Хвощ луговой
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1123127
+    - wikipedia:ru
+  uk:
+  - name: Хвощ лучний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-ivano-fra
+    - gbif:red-list-of-flora-and-fauna-of-kharkiv-r
+    - gbif:red-list-of-flora-and-fauna-of-lviv-regi
+    - gbif:red-list-of-flora-and-fauna-of-volyn-reg
+    - wikipedia:uk
+  'no':
+  - name: engsnelle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q1123127
+  - name: skov-snell
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: heste-snell
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  is:
+  - name: Vallelfting
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1123127
+    - wikipedia:is
+  be:
+  - name: Хвошч лугавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Çayır atkuyruğu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1123127
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

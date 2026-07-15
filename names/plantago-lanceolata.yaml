@@ -1,0 +1,526 @@
+id: plantago-lanceolata
+scientific_name: Plantago lanceolata
+names:
+  bg:
+  - name: Теснолист живовляк
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Теснолистен живовляк
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Uskolisni trputac
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:hr
+  - name: Muški trputac
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: jitrocel kopinatý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:cs
+  da:
+  - name: Lancet-vejbred
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q157408
+    - wikipedia:da
+  - name: Lancetvejbred
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+  nl:
+  - name: Smalle weegbree
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q157408
+    - wikipedia:nl
+  en:
+  - name: Ribwort Plantain
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q157408
+  - name: Narrowleaf plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: English plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Lamb's tongue
+    sources:
+    - col:catalogue-of-life
+  - name: ribgrass
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: ribwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: buckhorn plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Buckhorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Narrow-leaf Plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Lance-leaved Plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: narrow-leaved plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Ripplegrass
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: ribleaf
+    sources:
+    - col:catalogue-of-life
+  - name: rib-grass
+    sources:
+    - col:catalogue-of-life
+  - name: Wild Sago
+    sources:
+    - col:catalogue-of-life
+  - name: Small Plantain
+    sources:
+    - col:catalogue-of-life
+  - name: German Psyllium
+    sources:
+    - col:catalogue-of-life
+  - name: narrow leaf plantain
+    sources:
+    - col:catalogue-of-life
+  - name: Narrow-Leaved Ribwort
+    sources:
+    - col:catalogue-of-life
+  - name: Narrow -Eaved Plantain
+    sources:
+    - col:catalogue-of-life
+  - name: narrow leaved plantain
+    sources:
+    - col:catalogue-of-life
+  - name: English Plantai
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Lanceleaf Plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Lanceleaf Indianwheat
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Black Plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Süstlehine teeleht
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:et
+  - name: Süstleheline teeleht
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  fi:
+  - name: heinäratamo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q157408
+    - wikipedia:fi
+  fr:
+  - name: plantain lancéolé
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q157408
+  - name: Plantain lanceole
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+  - name: petit plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: plantain lancé olé
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Plantain lancéolé, Herbe-aux-cinq-coutures, herbe-à-cinq-côtes
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Plantain lancéolé, Petit plantain, Herbe Caroline, Ti-plantain
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Spitzwegerich
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - wikidata:Q157408
+    - wikipedia:de
+  - name: Spitz-Wegerich
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q157408
+  el:
+  - name: Πεντάνευρο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Πλαντάγο το λογχοειδές.
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Lándzsás útifű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:hu
+  ga:
+  - name: Slánlus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:ga
+  it:
+  - name: Piantaggine lanciuola
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+  - name: Cinquenervi
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+  - name: Piantaggine
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  - name: Orecchie di lepre
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  lv:
+  - name: Šaurlapu ceļteka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Siauralapis gyslotis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:lt
+  pl:
+  - name: Babka lancetowata
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:pl
+  pt:
+  - name: plantagem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: tanchagem-menor
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Língua-de-ovelha
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+  - name: Tanchagem
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Patlagină îngustă
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: skorocel kopijovitý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:sk
+  sl:
+  - name: Ozkolistni trpotec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:sl
+  es:
+  - name: llantén menor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q157408
+  - name: Siete Venas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+  - name: quinquenervia
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  - name: llantén de cinco nervios
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  sv:
+  - name: svartkämpar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q157408
+    - wikipedia:sv
+  - name: Spetsgroblad
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q157408
+  ru:
+  - name: Подорожник ланцетный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:ru
+  - name: Подорожник ланцетолистный
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+  - name: podorožnik lancetnyj
+    sources:
+    - col:catalogue-of-life
+  - name: Подорожник сомнительный
+    sources:
+    - col:catalogue-of-life
+  - name: Подорожник ланцетолист
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  - name: Подорожник ланцетовидный
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  uk:
+  - name: Подорожник ланцетолистий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:uk
+  'no':
+  - name: smalkjempe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q157408
+    - wikipedia:no
+  sr:
+  - name: Мушка боквица
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:sr
+  - name: Muška bokvica
+    sources:
+    - col:catalogue-of-life
+  bs:
+  - name: Uskolisna bokvica
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Selgresi
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Plantatge de fulla estreta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:ca
+  - name: Cinc-nervis
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  - name: Cinc-nirvis
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  - name: Cinc-costures
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  be:
+  - name: Трыпутнік ланцэтны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Dar yapraklı sinirli ot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157408
+    - wikipedia:tr
+  - name: Sinir otu
+    sources:
+    - col:catalogue-of-life
+  - name: sinirli ot
+    sources:
+    - col:catalogue-of-life
+  - name: Dar yapraklı sinir otu
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+  - name: Dar yapraklı sinirliot
+    sources:
+    - wikidata:Q157408
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

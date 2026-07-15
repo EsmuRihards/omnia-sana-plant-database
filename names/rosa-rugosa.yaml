@@ -1,0 +1,353 @@
+id: rosa-rugosa
+scientific_name: Rosa rugosa
+names:
+  bg:
+  - name: Азиатска шипка
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: růže svraskalá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q634975
+    - wikipedia:cs
+  - name: růže svrasklá
+    sources:
+    - col:catalogue-of-life
+  - name: ruža vráskatá
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Rynket rose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:da
+  - name: Hybenrose
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Rimpelroos
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - wikidata:Q634975
+    - wikipedia:nl
+  en:
+  - name: Japanese Rose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q634975
+  - name: rugosa rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q634975
+  - name: beach rose
+    sources:
+    - col:catalogue-of-life
+  - name: rugose rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Turkestan rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Wrinkled Rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Saltspray Rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Romany Rose
+    sources:
+    - col:catalogue-of-life
+  - name: Ramanas rose
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: kurdlehine kibuvits
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  - name: Kurdlehine roos
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: kurtturuusu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q634975
+    - wikipedia:fi
+  fr:
+  - name: rosier rugueux
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+    - wikidata:Q634975
+  - name: Rosier a feuilles rugueuses
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: rosier du japon
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Rosier à feuilles rugueuses
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  de:
+  - name: Kartoffel-Rose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-rosaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q634975
+    - wikipedia:de
+  - name: Kartoffelrose
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q634975
+  - name: Runzelige Rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Japanrose
+    sources:
+    - col:catalogue-of-life
+  - name: Sylter Rose
+    sources:
+    - col:catalogue-of-life
+  - name: Kamtschatkarose
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: japán rózsa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  it:
+  - name: Rosa con foglie rugose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  lv:
+  - name: Krokainā roze
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  - name: Raukšlėtasis erškėtis
+    sources:
+    - col:catalogue-of-life
+  - name: krokain
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: rievain
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Raukšlėtalapis erškėtis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Róża pomarszczona
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:pl
+  sk:
+  - name: ruža vráskavá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: japonski šipek
+    sources:
+    - wikidata:Q634975
+    status: needs-review
+  es:
+  - name: Rosa japonesa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: vresros
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  - name: kurtturuusu
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Шиповник морщинистый
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Троянда зморшкувата
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: rynkerose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: rukkerose
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  sr:
+  - name: Наборана ружа
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Garđarós
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ígulrós
+    sources:
+    - wikipedia:is
+    status: needs-review
+  be:
+  - name: Ружа маршчыністая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Çizgili Yapraklı Gül
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

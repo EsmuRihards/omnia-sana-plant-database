@@ -1,0 +1,161 @@
+id: rubus-fruticosus
+scientific_name: Rubus fruticosus
+names:
+  nl:
+  - name: gewone braam
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q13541716
+  en:
+  - name: Blackberry
+    preferred: true
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:taxref
+  - name: shrubby blackberry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q13541716
+  - name: blackberry, bramble
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - wikidata:Q13541716
+  - name: Bramble Blackberry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  - name: Wild Blackberry Complex
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  et:
+  - name: Pampel
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Karhunvatukka
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: ronce commune
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q13541716
+    - wikipedia:fr
+  - name: Ronce ligneuse, Ronce de Bertram, Ronce commune
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Brombeere
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q13541716
+  hu:
+  - name: Vadszeder
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lt:
+  - name: Bedyglė gervuogė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Jeżyna krzewiasta
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: Amora-silvestre
+    preferred: true
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikipedia:pt
+  - name: amora-preta
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  ro:
+  - name: Mur
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Ostružina černicová
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Navadna robida
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  'no':
+  - name: søtbjørnebær
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: Bjørnebær
+    sources:
+    - wikipedia:no
+    status: needs-review
+  - name: søtbjønnbær
+    sources:
+    - gbif:backbone
+    status: needs-review
+  - name: bjørnebær-gruppa
+    sources:
+    - gbif:backbone
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

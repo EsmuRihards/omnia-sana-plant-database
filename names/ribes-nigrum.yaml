@@ -1,0 +1,423 @@
+id: ribes-nigrum
+scientific_name: Ribes nigrum
+names:
+  bg:
+  - name: Касис
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:bg
+  hr:
+  - name: Crni ribiz
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: rybíz černý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:cs
+  - name: ríbezla
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Solbær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Solbær-busk
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+  - name: soolbær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  nl:
+  - name: Zwarte bes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q146604
+    - wikipedia:nl
+  en:
+  - name: Blackcurrant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikipedia:en
+  - name: Black currant
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q146604
+  - name: European black currant
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q146604
+  - name: garden black currant
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: cultivated black currant
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  et:
+  - name: Must sõstar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:et
+  fi:
+  - name: mustaherukka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q146604
+    - wikipedia:fi
+  fr:
+  - name: Cassis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: groseillier noir
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-grossulariaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-grossulariaceae
+    - wikidata:Q146604
+  - name: cassissier
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+  - name: gadellier noir
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: cassissier, groseillier noir
+    sources:
+    - gbif:database-of-vascular-plants-of-canada-va
+    status: needs-review
+  - name: Cassis, Cassissier, Groseillier noir
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Cassis
+    preferred: true
+    sources:
+    - gbif:flora-helvetica-grossulariaceae
+    - gbif:info-flora-schweiz-grossulariaceae
+  - name: Schwarze Johannisbeere
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-grossulariaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-grossulariaceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q146604
+    - wikipedia:de
+  - name: Ahlbeere
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Schwarze Ribisel
+    sources:
+    - col:catalogue-of-life
+  - name: Schwarz-Ribisel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: fekete ribiszke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:hu
+  ga:
+  - name: Cuirín dubh
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:ga
+  it:
+  - name: Ribes nero
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-grossulariaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-grossulariaceae
+    - wikidata:Q146604
+  lv:
+  - name: Upene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:lv
+  - name: Melnā upene
+    sources:
+    - col:catalogue-of-life
+  - name: meln
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Juodasis serbentas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:lt
+  mt:
+  - name: Kassisa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:mt
+  pl:
+  - name: Porzeczka czarna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:pl
+  pt:
+  - name: groselheira-preta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: groselha-preta
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: groselheira-negra
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Cassis
+    sources:
+    - wikipedia:pt
+    status: needs-review
+  ro:
+  - name: Coacăz negru
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:ro
+  sk:
+  - name: Ríbezľa čierna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:sk
+  sl:
+  - name: črno grozdičje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+  es:
+  - name: casis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikidata:Q146604
+  - name: grosella-negra
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: grosellero negro
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: svarta vinbär
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikipedia:sv
+  - name: svart vinbär
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q146604
+  - name: tistron
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: mustaherukka
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: svart vinbär, tistron
+    sources:
+    - gbif:nordic-crop-wild-relative-priority-list
+    status: needs-review
+  ru:
+  - name: Смородина чёрная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: чёрная смородина
+    sources:
+    - wikidata:Q146604
+    status: needs-review
+  uk:
+  - name: Смородина чорна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:uk
+  'no':
+  - name: solbær
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q146604
+    - wikipedia:no
+  - name: soolbær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Crna ribizla
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Sólberjarifs
+    preferred: true
+    sources:
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikipedia:is
+  - name: Sólber
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+  ca:
+  - name: Riber negre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:ca
+  be:
+  - name: Парэчкі чорныя
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:be
+  tr:
+  - name: Siyah frenk üzümü
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146604
+    - wikipedia:tr
+  - name: Frenk üzümü
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,223 @@
+id: asclepias-tuberosa
+scientific_name: Asclepias tuberosa
+names:
+  cs:
+  - name: klejicha hlíznatá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: orange silkeplante
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Knolzijdeplant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q311131
+    - wikipedia:nl
+  en:
+  - name: Pleurisy Root
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Butterfly milkweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q311131
+  - name: Orange milkweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Butterflyweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Pleurisy-root
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Butterfly-weed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Chieger-flower
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: fluxroot
+    sources:
+    - col:catalogue-of-life
+  - name: windroot
+    sources:
+    - col:catalogue-of-life
+  - name: tuber root
+    sources:
+    - col:catalogue-of-life
+  - name: white-root
+    sources:
+    - col:catalogue-of-life
+  - name: Canada root
+    sources:
+    - col:catalogue-of-life
+  - name: Indian posy
+    sources:
+    - col:catalogue-of-life
+  - name: orange root
+    sources:
+    - col:catalogue-of-life
+  - name: butterflybush
+    sources:
+    - col:catalogue-of-life
+  - name: chiggerflower
+    sources:
+    - col:catalogue-of-life
+  - name: butterfly love
+    sources:
+    - col:catalogue-of-life
+  - name: chieger flower
+    sources:
+    - col:catalogue-of-life
+  - name: yellow milkweed
+    sources:
+    - col:catalogue-of-life
+  - name: silky swallow-wort
+    sources:
+    - col:catalogue-of-life
+  - name: orange glory flower
+    sources:
+    - col:catalogue-of-life
+  - name: orange swallow-wort
+    sources:
+    - col:catalogue-of-life
+  - name: Butterfly weed
+    sources:
+    - wikidata:Q311131
+    status: needs-review
+  et:
+  - name: mugul-askleepias
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: karvasilkkiyrtti
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: asclépiade tubéreuse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  de:
+  - name: knollige Seidenpflanze
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  el:
+  - name: Ασκληπιάδα
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Gumós Selyemkóró
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Trojeść bulwiasta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: glejovka hľuznatá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: glejovka hľúznatá
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: inmortal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Algodoncillo inmortal
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: orange sidenört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Ваточник клубненосный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

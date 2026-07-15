@@ -1,0 +1,525 @@
+id: veronica-officinalis
+scientific_name: Veronica officinalis
+names:
+  bg:
+  - name: Великденче
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+  - name: Вероника
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  hr:
+  - name: Ljekovita čestoslavica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: rozrazil lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:cs
+  da:
+  - name: Læge-ærenpris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156402
+  - name: Lægeærenpris
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Mannetjesereprijs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156402
+    - wikipedia:nl
+  en:
+  - name: Speedwell
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common speedwell
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Heath speedwell
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156402
+  - name: Gypsyweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: upland speedwell
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Gypsyweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q156402
+  - name: Health Speedwell
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  et:
+  - name: Harilik mailane
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:et
+  fi:
+  - name: rohtotädyke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156402
+    - wikipedia:fi
+  fr:
+  - name: Véronique officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxref
+    - wikidata:Q156402
+    - wikipedia:fr
+  - name: Veronique officinale
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+  - name: thé d'Europe
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: véronique mâle
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: herbe aux ladres
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Véronique officinale, Herbe aux ladres, Thé d'Europe
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Ehrenpreis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q156402
+    - wikipedia:de
+  - name: Wald-Ehrenpreis
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156402
+  - name: Gebraeuchlicher Ehrenpreis
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+  hu:
+  - name: Orvosi veronika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:hu
+  ga:
+  - name: Lus cré
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Veronica medicinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Te svizzero
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+  - name: Veronica officinale
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Zemteka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Vaistinė veronika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:lt
+  pl:
+  - name: Przetacznik leśny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:pl
+  - name: przetacznik lekarski
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  pt:
+  - name: Carvalhinha
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+  - name: verônica-da-mata
+    sources:
+    - col:catalogue-of-life
+  - name: Verónica-legitima
+    sources:
+    - col:catalogue-of-life
+  - name: chá-da-europa
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: verónica-macho
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: rua-dos-leprosos
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: verónica-da-alemanha
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: verónica-das-boticas
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: verónica-das-farmácias
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  ro:
+  - name: Ventrilică
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:ro
+  sk:
+  - name: Veronika lekárska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:sk
+  sl:
+  - name: zdravilni jetičnik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+  es:
+  - name: Verónica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+  - name: triaca
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: tríaca
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: vinagra
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: plumilla
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: malarranca
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: hierba morga
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: te de España
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: te de Europa
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: te de ribera
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: té de Europa
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: verónica común
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: verónica macho
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: verónica oficinal
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: hierba de la triaca
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  sv:
+  - name: ärenpris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156402
+    - wikipedia:sv
+  - name: ärepris
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q156402
+  - name: rohtotädyke
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Вероника лекарственная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:ru
+  uk:
+  - name: Вероніка лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-donetsk-r
+    - gbif:red-list-of-flora-and-fauna-of-luhansk-r
+    - wikidata:Q156402
+    - wikipedia:uk
+  'no':
+  - name: legeveronika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q156402
+    - wikipedia:no
+  - name: lækjeveronika
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156402
+    - wikipedia:no
+  - name: bu-sleik
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: ærenpriis
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: flesme-græs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Честославица
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:sr
+  - name: Разгон
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: Вероника
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: '''''мачје очи'''''
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: Права вероника
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: Трава од ушљаме
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: Шумска вероника
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: Храст-честославица
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: Персијска честославица
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  is:
+  - name: Hárdepla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:is
+  ca:
+  - name: Herba dels leprosos
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+    - wikipedia:ca
+  - name: verònica oficinal
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156402
+  - name: te del país
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  - name: te de muntanya
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+  be:
+  - name: Крынічнік лекавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: çıbanotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Çıban otu
+    sources:
+    - wikidata:Q156402
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

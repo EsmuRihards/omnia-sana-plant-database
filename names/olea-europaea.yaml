@@ -1,0 +1,262 @@
+id: olea-europaea
+scientific_name: Olea europaea
+names:
+  bg:
+  - name: Европейска маслина
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Maslina
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Olivovník evropský
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Oliven
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Olijf
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Olive
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:world-register-of-marine-species
+    - wikidata:Q37083
+    - wikipedia:en
+  - name: oliveleaf
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: small-fruit olive
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: olive tree
+    sources:
+    - wikidata:Q37083
+    status: needs-review
+  et:
+  - name: Harilik õlipuu
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Oliivi
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: olivier
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:flora-helvetica-oleaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-oleaceae
+  - name: Olivier d'Europe
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+  de:
+  - name: Olivenbaum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-oleaceae
+    - gbif:info-flora-schweiz-oleaceae
+    - wikipedia:de
+  - name: Oelbaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-oleaceae
+    - gbif:info-flora-schweiz-oleaceae
+  el:
+  - name: Ελιά
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Olajfa
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Ológ
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Olivo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-oleaceae
+    - gbif:info-flora-schweiz-oleaceae
+  lv:
+  - name: Olīvkoks
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Europinis alyvmedis
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Oliwka europejska
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: oliveira
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: oliva
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: azeitona
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Măslin
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Oliva európska
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Oljka
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  - name: divja oljka
+    sources:
+    - wikidata:Q37083
+    status: needs-review
+  sv:
+  - name: olivträd
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Олива европейская
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Маслина європейська
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: oliven
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  sr:
+  - name: Маслина
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Maslina
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Ulliri
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Ólífa
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Olivera
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Масліна еўрапейская
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Zeytin
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

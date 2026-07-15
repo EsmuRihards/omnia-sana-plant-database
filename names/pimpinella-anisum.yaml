@@ -1,0 +1,298 @@
+id: pimpinella-anisum
+scientific_name: Pimpinella anisum
+names:
+  bg:
+  - name: Анасон
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Anis
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: bedrník anýz
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q28692
+    - wikipedia:cs
+  - name: bedrovník aníz
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Anis
+    sources:
+    - wikipedia:da
+    status: needs-review
+  - name: Ægte anis
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    status: needs-review
+  nl:
+  - name: Anijs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q28692
+    - wikipedia:nl
+  en:
+  - name: Anise
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:en
+  - name: sweet-cumin
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: anise burnet saxifrage
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q28692
+  et:
+  - name: Harilik aniis
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: anisruoho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q28692
+    - wikipedia:fi
+  fr:
+  - name: Anis vert
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q28692
+    - wikipedia:fr
+  - name: Anis
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q28692
+  - name: Boucage anis, Anis, Anis vert
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Anis
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  el:
+  - name: Γλυκάνισος
+    sources:
+    - wikipedia:el
+    status: needs-review
+  - name: glykaniso
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: Ánizs
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  - name: közönséges ánizs
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  it:
+  - name: anice
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: anice vero
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Parastais anīss
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Anyžinė ožiažolė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  mt:
+  - name: Anisi
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: ħlewwa
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Biedrzeniec anyż
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: anis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: erva-doce
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: aniz
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: anis-verde
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Anason
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Bedrovník anízový
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Janež
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  - name: sladki janež
+    sources:
+    - wikidata:Q28692
+    status: needs-review
+  es:
+  - name: anís
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q28692
+  sv:
+  - name: anis
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Анис
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Аніс
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: anis
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Анис
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Anis
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Pimpinella
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Anís
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Anís
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Аніс
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Anason
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

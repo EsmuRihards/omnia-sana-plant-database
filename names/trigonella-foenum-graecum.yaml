@@ -1,0 +1,292 @@
+id: trigonella-foenum-graecum
+scientific_name: Trigonella foenum-graecum
+names:
+  bg:
+  - name: Обикновен сминдух
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  - name: Сминдух
+    sources:
+    - wikidata:Q133205
+    status: needs-review
+  cs:
+  - name: Pískavice řecké seno
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:cs
+  - name: pískavice
+    sources:
+    - wikidata:Q133205
+    status: needs-review
+  da:
+  - name: Almindelig bukkehorn
+    preferred: true
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Bukkehorn
+    sources:
+    - wikidata:Q133205
+    status: needs-review
+  nl:
+  - name: Fenegriek
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q133205
+    - wikipedia:nl
+  - name: bokshoornklaver
+    sources:
+    - wikidata:Q133205
+    status: needs-review
+  en:
+  - name: Fenugreek
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikipedia:en
+  - name: Greek hay
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Greek-clover
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: sicklefruit fenugreek
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q133205
+  - name: Sickle-fruit Fenugreek
+    sources:
+    - wikidata:Q133205
+    status: needs-review
+  et:
+  - name: Põld-lambalääts
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: rohtosarviapila
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q133205
+    - wikipedia:fi
+  fr:
+  - name: Fenugrec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - wikidata:Q133205
+    - wikipedia:fr
+  - name: Trigonelle Fenugrec
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:info-flora-schweiz-fabaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Trigonelle fenugrec, Fenugrec, Sénégrain
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Bockshornklee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q133205
+    - wikipedia:de
+  - name: Griechischer Bockshornklee
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:info-flora-schweiz-fabaceae
+  el:
+  - name: Τριγωνέλλα η Ελληνική
+    sources:
+    - wikipedia:el
+    status: needs-review
+  - name: trigonella
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: Görögszéna
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q133205
+    - wikipedia:hu
+  it:
+  - name: Fieno greco comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-fabaceae
+  lv:
+  - name: Grieķu trigonella
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Vaistinė ožragė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  mt:
+  - name: Fienu
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Helba
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Kozieradka pospolita
+    preferred: true
+    sources:
+    - wikidata:Q133205
+    - wikipedia:pl
+  pt:
+  - name: Feno-grego
+    preferred: true
+    sources:
+    - wikidata:Q133205
+    - wikipedia:pt
+  ro:
+  - name: Schinduf
+    preferred: true
+    sources:
+    - wikidata:Q133205
+    - wikipedia:ro
+  sk:
+  - name: Senovka grécka
+    preferred: true
+    sources:
+    - wikidata:Q133205
+    - wikipedia:sk
+  sl:
+  - name: Grško seno
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: alholva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: bockhornsklöver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q133205
+    - wikipedia:sv
+  ru:
+  - name: Пажитник сенной
+    preferred: true
+    sources:
+    - wikidata:Q133205
+    - wikipedia:ru
+  uk:
+  - name: Гуньба сінна
+    preferred: true
+    sources:
+    - wikidata:Q133205
+    - wikipedia:uk
+  'no':
+  - name: bukkehornkløver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q133205
+    - wikipedia:no
+  - name: bukkehorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Пискавица
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Grikkjasmári
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Fenigrec
+    preferred: true
+    sources:
+    - gbif:mimosaceae-papilionaceae-fl-pais-s-catal
+    - wikipedia:ca
+  tr:
+  - name: Çemen otu
+    preferred: true
+    sources:
+    - wikidata:Q133205
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

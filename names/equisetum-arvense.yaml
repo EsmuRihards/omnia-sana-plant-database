@@ -1,0 +1,428 @@
+id: equisetum-arvense
+scientific_name: Equisetum arvense
+names:
+  bg:
+  - name: Полски хвощ
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:bg
+  hr:
+  - name: Poljska preslica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: přeslička rolní
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:cs
+  da:
+  - name: Agerpadderok
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Ager-padderok
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q107592
+  nl:
+  - name: Heermoes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q107592
+    - wikipedia:nl
+  - name: Akkerpaardenstaart
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Field Horsetail
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q107592
+  - name: common horsetail
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q107592
+  - name: scouring rush
+    sources:
+    - col:catalogue-of-life
+  - name: mares tail
+    sources:
+    - col:catalogue-of-life
+  - name: Scouringrush
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Western Horsetail
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Field Horsetail
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Põldosi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: peltokorte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q107592
+    - wikipedia:fi
+  - name: tunturipeltokorte
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: prêle des champs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q107592
+    - wikipedia:fr
+  - name: Prele des champs
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+  - name: queue de renard
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Prêle des champs, Queue-de-renard
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Acker-Schachtelhalm
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-pteridophyta-from-germany-
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q107592
+    - wikipedia:de
+  - name: Ackerschachtelhalm
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q107592
+  - name: Akerschachtelhalm
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Zinnkraut
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Ιπουρίς η αρουραία
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ιππουρίδα των αγρών
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Mezei zsurló
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:hu
+  ga:
+  - name: Cuirdín
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Scuab eich ghoirt
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Equiseto dei campi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Coda cavallina dei campi
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+  - name: Coda cavallina
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Tīruma kosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:lv
+  lt:
+  - name: Dirvinis asiūklis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:lt
+  pl:
+  - name: Skrzyp polny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:pl
+  pt:
+  - name: Cavalinha
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+  ro:
+  - name: Coada-calului
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:ro
+  sk:
+  - name: Praslička roľná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Njivska preslica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:sl
+  es:
+  - name: cola de caballo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Cola de caballo del campo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+  - name: cola de caballo de campo
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: åkerfräken
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q107592
+    - wikipedia:sv
+  - name: rävrumpa
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: krypfräken
+    sources:
+    - col:catalogue-of-life
+  - name: vanlig åkerfräken
+    sources:
+    - col:catalogue-of-life
+  - name: peltokorte
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Хвощ полевой
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:ru
+  - name: конский хвост
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+  - name: cохатинная трава
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+  uk:
+  - name: Хвощ польовий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:uk
+  'no':
+  - name: åkersnelle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q107592
+    - wikipedia:no
+  - name: snelgras
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: skov-snell
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: heste-snell
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: kierringrok
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Пољски раставић
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  - name: Раставић
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+  bs:
+  - name: Preslica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:bs
+  is:
+  - name: Klóelfting
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:is
+  ca:
+  - name: Cua de cavall petita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:ca
+  - name: Cua de cavall menuda
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Хвошч палявы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q107592
+    - wikipedia:be
+  tr:
+  - name: Atkuyruğu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Tarla atkuyruğu
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,349 @@
+id: crocus-sativus
+scientific_name: Crocus sativus
+names:
+  bg:
+  - name: Шафранов минзухар
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: šafrán setý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q15041677
+    - wikipedia:cs
+  da:
+  - name: Safrankrokus
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Saffraankrokus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q15041677
+    - wikipedia:nl
+  en:
+  - name: Saffron
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: autumn crocus
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Saffron Crocus
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Italian Crocus
+    sources:
+    - gbif:taxref
+    status: needs-review
+  et:
+  - name: Safrankrookus
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Maustesahrami
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q15041677
+    - wikipedia:fi
+  fr:
+  - name: Crocus cultive
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-iridaceae
+    - gbif:info-flora-schweiz-iridaceae
+  - name: Safran cultivé
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  - name: Crocus à safran
+    sources:
+    - col:catalogue-of-life
+  - name: Safran
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-iridaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-iridaceae
+  - name: Crocus cultivé
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Safran d'Europe
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Crocus cultivé, Safran cultivé, Safran
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Safran
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:de
+  - name: Echter Safran Nom
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-iridaceae
+    - gbif:info-flora-schweiz-iridaceae
+  - name: Echter Safran
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-iridaceae
+  - name: Saffran-Krokus
+    sources:
+    - col:catalogue-of-life
+  - name: Croc
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Broze
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Brugo
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Kruago
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Chruogo
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Saffart
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Saffran
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Saffrat
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Safrich
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Suffran
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Saffaran
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Saffaren
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Safferen
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Safferon
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Saffrath
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Seydfarb
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Soffraen
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Safferain
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Schaffner
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Sintvarwe
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Gewürzsafran
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  - name: Safferntblume
+    sources:
+    - wikidata:Q15041677
+    status: needs-review
+  hu:
+  - name: Jóféle sáfrány
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q15041677
+    - wikipedia:hu
+  ga:
+  - name: Cróch safrón
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Zafferano vero
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-iridaceae
+    - gbif:info-flora-schweiz-iridaceae
+    - wikidata:Q15041677
+  - name: Croco
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-iridaceae
+    - gbif:info-flora-schweiz-iridaceae
+  lt:
+  - name: Daržinis krokas
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Szafran uprawny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q15041677
+    - wikipedia:pl
+  pt:
+  - name: açafrão
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sk:
+  - name: Šafran siaty
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Pravi žafran
+    preferred: true
+    sources:
+    - wikidata:Q15041677
+    - wikipedia:sl
+  es:
+  - name: azafrán
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q15041677
+  sv:
+  - name: saffranskrokus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Шафран посевной
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Шафран посівний
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: safrankrokus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  is:
+  - name: Saffrankrókus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: safrà
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Safranera
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Safran
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

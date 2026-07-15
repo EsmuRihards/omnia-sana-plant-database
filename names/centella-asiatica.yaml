@@ -1,0 +1,238 @@
+id: centella-asiatica
+scientific_name: Centella asiatica
+names:
+  cs:
+  - name: Pupečník asijský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: pupečníkovec asijský
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: asiatisk centella
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Gotu Kola
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Indian pennywort
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Asiatic pennywort
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q324714
+  - name: spadeleaf
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:world-register-of-marine-species
+    - wikidata:Q324714
+  - name: thankuni
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:saidabad-water-treatment-plant-project-p
+  - name: sheeprot
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: pennyweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Asian Pennywort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+  - name: marsh pennywort
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Bubbles
+    sources:
+    - col:catalogue-of-life
+  - name: coinleaf
+    sources:
+    - col:catalogue-of-life
+  - name: pennywort
+    sources:
+    - col:catalogue-of-life
+  - name: Ibdiab Pennywort
+    sources:
+    - col:catalogue-of-life
+  - name: Marsh Pepperwort
+    sources:
+    - col:catalogue-of-life
+  - name: Little Pig's Ears
+    sources:
+    - col:catalogue-of-life
+  - name: Urban Marsh Pepperwort
+    sources:
+    - col:catalogue-of-life
+  - name: Centella
+    sources:
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q324714
+  - name: ovate-leaved marsh pennywort
+    sources:
+    - gbif:world-register-of-marine-species
+    status: needs-review
+  fi:
+  - name: Rohtosammakonputki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: écuelle d'eau
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Herbe boileau
+    sources:
+    - col:catalogue-of-life
+  - name: Cochléaria, Cocaria, Cochléaria du pays, Cochléria, Coclaria, Cocléria, Conclellia, Coq claria,
+      Coq l'aria, Coq lariat, Coquel'aria, Coquelariat, Violette marron
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Indischer Wassernabel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: asiatisches Sumpfpfennigkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  hu:
+  - name: Ázsiai gázló
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ázsiaigázló
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Lus na hÁise
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  pl:
+  - name: Wąkrotka azjatycka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: pé-de-cavalo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: centela ázijská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Pupočník ázijský
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: sombrerito
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: hierba de clavo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Oreja de ratón
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: sallatsspikblad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Центелла азиатская
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  'no':
+  - name: asiaskjoldblad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: centella
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  ca:
+  - name: Hidrocotilè
+    sources:
+    - wikipedia:ca
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

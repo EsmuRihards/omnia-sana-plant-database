@@ -1,0 +1,356 @@
+id: bistorta-officinalis
+scientific_name: Bistorta officinalis
+names:
+  bg:
+  - name: Обикновено кървавиче
+    preferred: true
+    sources:
+    - wikidata:Q112917
+    - wikipedia:bg
+  cs:
+  - name: Hadí kořen větší
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  - name: rdesno hadí kořen
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  da:
+  - name: Slangeurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:da
+  nl:
+  - name: Adderwortel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:nl
+  - name: Miltkruid
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: Longenkruid
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: Naterwortel
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: Hertstong met Bloemen
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  en:
+  - name: Bistort
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Common bistort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - wikidata:Q112917
+  - name: Meadow Bistort
+    sources:
+    - col:catalogue-of-life
+  - name: European bistort
+    sources:
+    - col:catalogue-of-life
+  - name: Adderwort
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: osterick
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: red legs
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: snakeweed
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: dragonwort
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: oysterloit
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: gentle dock
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: pink pokers
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: easter giant
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: passion dock
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: water ledges
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: easter ledger
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: pudding grass
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: twice writhen
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  et:
+  - name: Ussitatar
+    preferred: true
+    sources:
+    - wikidata:Q112917
+    - wikipedia:et
+  - name: harilik ussitatar
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: isokonnantatar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:fi
+  fr:
+  - name: Renouée bistorte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:fr
+  - name: Bistorte
+    sources:
+    - col:catalogue-of-life
+  - name: Langue de Bœuf
+    sources:
+    - col:catalogue-of-life
+  - name: Bistorte commune
+    sources:
+    - col:catalogue-of-life
+  - name: Bistorte officinale
+    sources:
+    - col:catalogue-of-life
+  de:
+  - name: Schlangen-Knöterich
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:de
+  - name: Wiesen-Knöterich
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+  - name: Zahnbürste
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: Lauchelchen
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: Schlangenwurz
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: Schlangen-Wiesenknöterich
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  hu:
+  - name: Kígyógyökerű keserűfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:hu
+  it:
+  - name: Serpentaria
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Poligono bistorta
+    sources:
+    - col:catalogue-of-life
+  - name: Bistorta medicinale
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Zalkšu sūrene
+    preferred: true
+    sources:
+    - wikidata:Q112917
+    - wikipedia:lv
+  lt:
+  - name: Paprastoji gyvatžolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:lt
+  pl:
+  - name: Rdest wężownik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:pl
+  pt:
+  - name: Polygonum bistorta
+    sources:
+    - wikipedia:pt
+    status: needs-review
+  sk:
+  - name: hadovník väčší
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:sk
+  sl:
+  - name: kačja dresen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:sl
+  es:
+  - name: Polygonum bistorta
+    sources:
+    - wikipedia:es
+    status: needs-review
+  - name: bistorta macho
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: bistorta menor
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: sierpe tendida
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: bistorta hembra
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: suelda Colorada
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: romaza retorcida
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  sv:
+  - name: Stor ormrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:sv
+  ru:
+  - name: Горец змеиный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:ru
+  - name: Змеевик большой
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+  - name: Раковые шейки
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  uk:
+  - name: Гірчак зміїний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q112917
+    - wikipedia:uk
+  'no':
+  - name: ormerot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Slöngusúra
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Bistorta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

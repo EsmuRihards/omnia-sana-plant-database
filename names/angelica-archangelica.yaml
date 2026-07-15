@@ -1,0 +1,369 @@
+id: angelica-archangelica
+scientific_name: Angelica archangelica
+names:
+  bg:
+  - name: Градинска ангелика
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Ljekovita anđelika
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: andělika lékařská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q207745
+    - wikipedia:cs
+  da:
+  - name: Kvan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikipedia:da
+  - name: Strand-kvan
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Grote engelwortel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q207745
+    - wikipedia:nl
+  en:
+  - name: Garden angelica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q207745
+  - name: Norwegian angelica
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q207745
+  - name: angelique
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: wild parsnip
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Ætihvönn
+    sources:
+    - col:catalogue-of-life
+  - name: Angelica
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  et:
+  - name: Harilik kikkaputk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: väinönputki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q207745
+    - wikipedia:fi
+  fr:
+  - name: angélique officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikipedia:fr
+  - name: angélique vraie
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q207745
+  - name: archangélique
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: angélique aromatique
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: herbe du Saint-Esprit
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: angélique des confiseurs
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Angélique archangélique, Angélique officinale, Herbe aux anges, Angélique vraie
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Arznei-Engelwurz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Echte Engelwurz
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q207745
+  - name: Engelwurz
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - wikidata:Q207745
+  - name: Brustwurz
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Angelika
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  el:
+  - name: Αγγελική αρχαγγελική
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: orvosi angyalgyökér
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  lv:
+  - name: Dižzirdzene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Vaistinė šventagaršvė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Dzięgiel litwor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Arcydzięgiel litwor
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: Angelica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-do-espírito-santo
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Angelică
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Archangelika lekárska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  - name: angelika lekárska
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: zdravilni gozdni koren
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q207745
+    - wikipedia:sl
+  es:
+  - name: angélica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: hierba del Epiritu Santo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: kvanne
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikipedia:sv
+  - name: angelika
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: fjällkvanne
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: väinönputki
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: dâgil' aptečnyj
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Дягиль лекарственный
+    sources:
+    - col:catalogue-of-life
+  - name: Дудник лекарственный
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Дягель лікарський
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: kvann
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: sløke
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: quanne
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: sløjke
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: quan-root
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Анђелика
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  - name: Anđelika
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Ætihvönn
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Herba de l'Esperit Sant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Angèlica
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Дзягіль лекавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: melek otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

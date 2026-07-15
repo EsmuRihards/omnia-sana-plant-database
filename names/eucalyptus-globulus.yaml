@@ -1,0 +1,328 @@
+id: eucalyptus-globulus
+scientific_name: Eucalyptus globulus
+names:
+  cs:
+  - name: Blahovičník kulatoplodý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Febertræ
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Blauwe gomboom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159528
+    - wikipedia:nl
+  en:
+  - name: Tasmanian blue gum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159528
+  - name: southern blue gum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q159528
+  - name: blue gum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q159528
+  - name: Southern Blue-gum
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: blue-gum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: blue-gum-tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: southern-blue-gum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: bluegum eucalyptus
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+  - name: tasmanian-blue-gum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Victorian blue gum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: fever tree
+    sources:
+    - col:catalogue-of-life
+  - name: Bluegumtree
+    sources:
+    - col:catalogue-of-life
+  - name: Eucalyptus Tree
+    sources:
+    - col:catalogue-of-life
+  - name: Tasmanian bluegum
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q159528
+  et:
+  - name: Sinine eukalüpt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Kuume-eukalyptus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  - name: Kuumepuu
+    sources:
+    - wikidata:Q159528
+    status: needs-review
+  fr:
+  - name: Gommier bleu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - wikidata:Q159528
+  - name: Eucalyptus commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  - name: eucalyptus globuleux
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Eucalyptus à fruits globuleux, Gommier bleu
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Blauer Eukalyptus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159528
+    - wikipedia:de
+  - name: Fieberbaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Blaugummibaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Gewöhnlicher Eukalyptus
+    sources:
+    - col:catalogue-of-life
+  - name: Tasmanischer Blaugummibaum
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Ευκάλυπτος ο σφαιρικός
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  hu:
+  - name: Golyós eukaliptusz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: eucalitto globolo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lt:
+  - name: Rutulinis eukaliptas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Eukaliptus gałkowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159528
+    - wikipedia:pl
+  pt:
+  - name: eucalipto
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: eucalipto-comum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q159528
+  - name: eucalipto-da-tasmânia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q159528
+  - name: gameiro-azul
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: gomeiro-azul
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: mogno-branco
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: eucalipto-azul
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: árvore-da-febre
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: eucalipto-da-febre
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: eucalipto-glóbulo
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Eucaliptul albastru
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: eukalyptus guľatoplodý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: eucalipto azul
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+  - name: Eucalipto blanco
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  - name: calitro
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: eucalipto
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: eucalipto rojo
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: feberträd
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Эвкалипт шаровидный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159528
+    - wikipedia:ru
+  - name: Бесстыдница
+    sources:
+    - wikidata:Q159528
+    status: needs-review
+  - name: Эвкалипт шариковый
+    sources:
+    - wikidata:Q159528
+    status: needs-review
+  uk:
+  - name: Евкаліпт кулястий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  is:
+  - name: Blágúmmítré
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Eucaliptus blau
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

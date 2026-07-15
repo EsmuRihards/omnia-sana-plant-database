@@ -1,0 +1,135 @@
+id: scutellaria-lateriflora
+scientific_name: Scutellaria lateriflora
+names:
+  cs:
+  - name: šišák stranokvětý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: amerikaans glidkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Blue skullcap
+    preferred: true
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q2701473
+  - name: Mad-dog skullcap
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Scullcap
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Mad-dog Scullcap
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Side-flowering Skullcap
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: mad dog skullcap
+    sources:
+    - col:catalogue-of-life
+  - name: Madweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Quaker Bonnet
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  fi:
+  - name: rohtovuohennokka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: scutellaire latériflore
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: scutellaire à fleurs latérales
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  sk:
+  - name: šišak bočnokvetý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: indianfrossört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  'no':
+  - name: amerikansk skjoldberar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: amerikansk skjoldbærer
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

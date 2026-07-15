@@ -1,0 +1,338 @@
+id: ginkgo-biloba
+scientific_name: Ginkgo biloba
+names:
+  bg:
+  - name: Гинко
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Двуделно гинко
+    sources:
+    - col:catalogue-of-life
+  - name: Гинко билоба
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Dvorežnjasti ginko
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: jinan dvoulaločný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q43284
+    - wikipedia:cs
+  da:
+  - name: Tempeltræ
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q43284
+    - wikipedia:da
+  nl:
+  - name: Japanse Notenboom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:nl
+  - name: Ginkgo
+    sources:
+    - gbif:checklist-dutch-species-register-nederla
+    status: needs-review
+  en:
+  - name: Ginkgo
+    preferred: true
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q43284
+  - name: maidenhair tree
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q43284
+  - name: Maidenhair-tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: gingko
+    sources:
+    - col:catalogue-of-life
+  - name: stinkbomb tree
+    sources:
+    - col:catalogue-of-life
+  - name: golden fossil tree
+    sources:
+    - col:catalogue-of-life
+  - name: Common Ginkgo
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+  et:
+  - name: Hõlmikpuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q43284
+    - wikipedia:et
+  fi:
+  - name: Neidonhiuspuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q43284
+    - wikipedia:fi
+  fr:
+  - name: Ginkgo
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: noyer du Japon
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Arbre aux quarante écus
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  - name: Abricotier d'argent
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Gingko bilobé, Ginkgo, Arbre aux quarante écus
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Ginkgo
+    preferred: true
+    sources:
+    - gbif:grin-taxonomy
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q43284
+    - wikipedia:de
+  - name: Ginkgobaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  el:
+  - name: Γκίγκο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q43284
+    - wikipedia:el
+  hu:
+  - name: páfrányfenyő
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  - name: kínai páfrányfenyő
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Ginco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Divdaivu ginks
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  - name: Ginki
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Dviskiautis ginkmedis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Miłorząb Dwuklapowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: nogueira-do-Japão
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: Gincgo
+    sources:
+    - col:catalogue-of-life
+  - name: Guinco
+    sources:
+    - col:catalogue-of-life
+  - name: Ginkgo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: gingo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: árvore-avenca
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: árvore-da-vida
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: árvore-dos-templos
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: árvore-folha-de-avenca
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: árvore-dos-quarenta-escudos
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  ro:
+  - name: Arborele pagodelor
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Ginko dvojlaločné
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: dvokrpi ginko
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q43284
+    - wikipedia:sl
+  sv:
+  - name: Ginkgo
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  - name: Kinesiskt Tempelträd
+    sources:
+    - col:catalogue-of-life
+  ru:
+  - name: Гинкго двулопастный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Гинкго двухлопастный
+    sources:
+    - col:catalogue-of-life
+  - name: Гинкго двулопастной
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Ґінкго дволопатеве
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Гінкго дволопатеве
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-odesa-reg
+  'no':
+  - name: Tempeltre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:no
+  - name: Ginkgo
+    sources:
+    - gbif:backbone
+    status: needs-review
+  sr:
+  - name: Гинко
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Musteristré
+    sources:
+    - wikipedia:is
+    status: needs-review
+  be:
+  - name: Гінкга
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q43284
+    - wikipedia:be
+  tr:
+  - name: mabet ağacı
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q43284
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

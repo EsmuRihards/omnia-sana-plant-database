@@ -1,0 +1,395 @@
+id: anethum-graveolens
+scientific_name: Anethum graveolens
+names:
+  bg:
+  - name: Копър
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Kopar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: Kopr vonný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q26686
+    - wikipedia:cs
+  - name: kopor voňavý
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Dild
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Dille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q26686
+    - wikipedia:nl
+  en:
+  - name: Dill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26686
+    - wikipedia:en
+  - name: garden dill
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Dill-weed
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  - name: Common Dill
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: aedtill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: tilli
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: maustetilli
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26686
+  fr:
+  - name: aneth
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikipedia:fr
+  - name: Aneth odorant
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Fenouil batard
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: fenouil bâtard
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: anet
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Anise
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Aneth, Anis puant
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Aneth odorant, Fenouil bâtard, Aneth fenouil
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Dill
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+    - wikipedia:de
+  - name: Echter Dill
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Gurkenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  el:
+  - name: Άνηθος
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  hu:
+  - name: Kapor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: kerti kapor
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Lus mín
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Aneto puzzolente
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: oneto
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: aneto
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  lv:
+  - name: Parastā dille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Dilles
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  - name: smaržīg
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Krapas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  - name: Paprastasis krapas
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  pl:
+  - name: Koper ogrodowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Koper
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: endro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: aneto
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: endio
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: endão
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Funcho-bastardo
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Mărar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Kôpor voňavý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadni koper
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26686
+    - wikipedia:sl
+  es:
+  - name: eneldo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: anís alemán
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Abesón
+    sources:
+    - col:catalogue-of-life
+  - name: Hinojo
+    sources:
+    - col:catalogue-of-life
+  - name: aneto
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  sv:
+  - name: Dill
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Укроп пахучий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Укроп душистый
+    sources:
+    - col:catalogue-of-life
+  - name: Укроп
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Кріп запашний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Кріп
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Dill
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Мирођија / Mirođija
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Мирођија
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Kopar
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Kopra
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Dill
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Anet
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Кроп
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Dereotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

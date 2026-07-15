@@ -1,0 +1,310 @@
+id: campanula-persicifolia
+scientific_name: Campanula persicifolia
+names:
+  bg:
+  - name: Прасковолистна камбанка
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: zvonek broskvolistý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q790170
+    - wikipedia:cs
+  da:
+  - name: Smalbladet klokke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Prachtklokje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q790170
+    - wikipedia:nl
+  - name: perzikbladklokje
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Peach-leaved bellflower
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q790170
+  - name: peach-leaf bellflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: willow bellflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: willowbell
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: peach-bells
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Narrow-Leaved Bellflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: peachleaf bellflower
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q790170
+  et:
+  - name: Suureõiene kellukas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: kurekatel
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: kurjenkello
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q790170
+    - wikipedia:fi
+  fr:
+  - name: campanule à feuilles de pêcher
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q790170
+    - wikipedia:fr
+  - name: Campanule des lisieres
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-campanulaceae
+    - gbif:info-flora-schweiz-campanulaceae
+  - name: Bâton de Jacob
+    sources:
+    - col:catalogue-of-life
+  - name: Campanule de Perse
+    sources:
+    - col:catalogue-of-life
+  - name: Campanule à feuilles de pêcher, Bâton-de-Jacob
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Pfirsichblättrige Glockenblume
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q790170
+    - wikipedia:de
+  - name: Pfirsichblaettrige Glockenblume
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-campanulaceae
+    - gbif:info-flora-schweiz-campanulaceae
+  el:
+  - name: Καμπανούλα η ροδακινόφυλλη
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Baracklevelű harangvirág
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Campanula con foglie di pesco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-campanulaceae
+    - gbif:info-flora-schweiz-campanulaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Dižā pulkstenīte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Didžiažiedis katilėlis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Dzwonek brzoskwiniolistny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  sk:
+  - name: zvonček broskyňolistý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: breskovolistna zvončica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q790170
+  - name: Breskovolisnta zvončica
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: stor blåklocka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: storklocka
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: kurjenkello
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Колокольчик персиколистный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: kolokol'chik persikolistnyĭ
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Дзвоники персиколисті
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-chernihiv
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-donetsk-r
+    - gbif:red-list-of-flora-and-fauna-of-kharkiv-r
+    - gbif:red-list-of-flora-and-fauna-of-khmelnyts
+    - gbif:red-list-of-flora-and-fauna-of-luhansk-r
+    - gbif:red-list-of-flora-and-fauna-of-odesa-reg
+    - gbif:red-list-of-flora-and-fauna-of-poltava-r
+    - gbif:red-list-of-flora-and-fauna-of-rivne-reg
+    - gbif:red-list-of-flora-and-fauna-of-sumy-regi
+    - gbif:red-list-of-flora-and-fauna-of-volyn-reg
+    - wikipedia:uk
+  'no':
+  - name: fagerklokke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  is:
+  - name: Fagurklukka
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Campaneta blava
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q790170
+    - wikipedia:ca
+  be:
+  - name: Званочак персікалісты
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: zarif çıngırak
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

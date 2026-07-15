@@ -1,0 +1,737 @@
+id: acorus-calamus
+scientific_name: Acorus calamus
+names:
+  bg:
+  - name: Блатен аир
+    preferred: true
+    sources:
+    - wikidata:Q158008
+    - wikipedia:bg
+  - name: Аир блатен
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  hr:
+  - name: Iđirot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Obični iđirot
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: puškvorec obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158008
+    - wikipedia:cs
+  da:
+  - name: Kalmus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q158008
+  - name: Almindelig kalmus
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Sløyfeblomst
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Bastardsennep
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Kalmoes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158008
+    - wikipedia:nl
+  - name: Zwanenbrood
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  en:
+  - name: Sweet Flag
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q158008
+  - name: Calamus
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q158008
+  - name: Sweet sedge
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: sweet-flag
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q158008
+  - name: myrtle-flag
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: sweet calamus
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Flagroot
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Flag-root
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Sweetroot
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European Sweetflag
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Old World Sweetflag
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Single-vein Sweetflag
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: beewort
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Rat Root
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: pine root
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Sweet Cane
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Sweet Rush
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Calamus Root
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: sweet myrtle
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Sweet Calomel
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Calmus
+    sources:
+    - col:catalogue-of-life
+  - name: gladdon
+    sources:
+    - col:catalogue-of-life
+  - name: sweet segg
+    sources:
+    - col:catalogue-of-life
+  - name: Myrtle Flag
+    sources:
+    - col:catalogue-of-life
+  - name: Myrtle Grass
+    sources:
+    - col:catalogue-of-life
+  - name: Myrtle Sedge
+    sources:
+    - col:catalogue-of-life
+  - name: Sweet Colomel
+    sources:
+    - col:catalogue-of-life
+  - name: Drug Sweetflag
+    sources:
+    - col:catalogue-of-life
+  - name: sweet cinnamon
+    sources:
+    - col:catalogue-of-life
+  - name: Asian Sweet-Flag
+    sources:
+    - col:catalogue-of-life
+  - name: Vegetable Calomel
+    sources:
+    - col:catalogue-of-life
+  - name: Calamus Sweet Flag
+    sources:
+    - col:catalogue-of-life
+  - name: Eurasian Sweetflag
+    sources:
+    - col:catalogue-of-life
+  - name: Eurasian Sweet-Flag
+    sources:
+    - col:catalogue-of-life
+  - name: European Sweet-flag
+    sources:
+    - col:catalogue-of-life
+  - name: Single-veined Sweetflag
+    sources:
+    - col:catalogue-of-life
+  - name: Sweetflag
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q158008
+  - name: Common Sweet Flag
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Sweet-root
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: flag root
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: calamus-root
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: muskrat root
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  et:
+  - name: Harilik kalmus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+    - wikipedia:et
+  - name: Jõemõõk
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Luhamõõk
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: harilik kalamus
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fi:
+  - name: rohtokalmojuuri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158008
+    - wikipedia:fi
+  - name: Hilmiö
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Katkerasaippo
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Acore odorant
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - wikidata:Q158008
+    - wikipedia:fr
+  - name: Acore calame
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-acoraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-acoraceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: acore
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q158008
+  - name: Acore vrai
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-acoraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-acoraceae
+  - name: acore roseau
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Jonc odorant
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: acorus roseau
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: belle-angélique
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: acore aromatique
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Schoenante
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Acore calame, Acore aromatique, Acore odorant, Jonc odorant, Acore roseau
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kalmus
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-acoraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-acoraceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q158008
+    - wikipedia:de
+  - name: Indischer Kalmus
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Gewöhnlicher Kalmus
+    sources:
+    - col:catalogue-of-life
+  - name: Rotting
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Zehrwurz
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Ackerwurz
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Magenwurz
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Nagenwurz
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Magenbrand
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Schwertheu
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Würtzriedt
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Gewürzkalmus
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Kaninchenwurz
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Karremanswurz
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Kaninchenwurzel
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Karremanswurzel
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  hu:
+  - name: Orvosi kálmos
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158008
+    - wikipedia:hu
+  - name: Kálmos
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Calamo aromatico
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-acoraceae
+    - gbif:info-flora-schweiz-acoraceae
+    - wikidata:Q158008
+  - name: calamo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q158008
+  - name: Acoro
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  lv:
+  - name: Parastā kalme
+    preferred: true
+    sources:
+    - wikidata:Q158008
+    - wikipedia:lv
+  - name: Kalme
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158008
+  - name: smaržiga kalme
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Smaržīgā kalme
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  lt:
+  - name: Balinis ajeras
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158008
+    - wikipedia:lt
+  pl:
+  - name: Tatarak zwyczajny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158008
+    - wikipedia:pl
+  - name: Ajer
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  pt:
+  - name: Açoro
+    preferred: true
+    sources:
+    - wikidata:Q158008
+    - wikipedia:pt
+  - name: Cálamo-aromático
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q158008
+  - name: Cana-cheirosa
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q158008
+  - name: cálamo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  ro:
+  - name: Obligeană
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+    - wikipedia:ro
+  - name: Obligeana
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sk:
+  - name: puškvorec obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+    - wikipedia:sk
+  sl:
+  - name: pravi kolmež
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  es:
+  - name: cálamo aromático
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q158008
+  - name: calamís
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Ácoro verdadero
+    sources:
+    - col:catalogue-of-life
+  - name: cálamo acuático asiático
+    sources:
+    - col:catalogue-of-life
+  - name: cálamo aromático asiático
+    sources:
+    - col:catalogue-of-life
+  - name: Ácoro
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  sv:
+  - name: kalmus
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q158008
+    - wikipedia:sv
+  - name: Sorgört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Gråsenap
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Kalmusrot
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Roseniberis
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Blomsteriberis
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: rohtokalmojuuri
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Аир обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+    - wikipedia:ru
+  - name: Аир болотный
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Аир тростниковый
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+  - name: Ирный корень
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  uk:
+  - name: Лепеха звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+    - wikipedia:uk
+  - name: Аїр звичайний болотяний
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-city
+  - name: Аїр звичайний
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Аїр тростинний
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Аїр тростиновий
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  - name: Татарське зілля
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  'no':
+  - name: kalmusrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q158008
+    - wikipedia:no
+  - name: Prydsløyfe
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Narresennep
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sq:
+  - name: Kashtëfryza
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+    - wikipedia:sq
+  is:
+  - name: Sverðblaðka
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Càlam
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+    - wikipedia:ca
+  be:
+  - name: Аер звычайны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158008
+    - wikipedia:be
+  - name: Аер
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+  tr:
+  - name: Hazanbel
+    preferred: true
+    sources:
+    - wikidata:Q158008
+    - wikipedia:tr
+  - name: eğirkökü
+    sources:
+    - col:catalogue-of-life
+  - name: Azakeğeri
+    sources:
+    - wikidata:Q158008
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

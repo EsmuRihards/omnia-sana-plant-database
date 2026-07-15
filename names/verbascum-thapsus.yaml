@@ -1,0 +1,696 @@
+id: verbascum-thapsus
+scientific_name: Verbascum thapsus
+names:
+  hr:
+  - name: Sitnocvjetna divizma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: Divizna malokvětá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+    - wikipedia:cs
+  da:
+  - name: Filtbladet kongelys
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikidata:Q160095
+    - wikipedia:da
+  - name: Filtet kongelys
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  nl:
+  - name: Koningskaars
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q160095
+    - wikipedia:nl
+  en:
+  - name: Great Mullein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q160095
+  - name: common mullein
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q160095
+  - name: Aaron's rod
+    sources:
+    - col:catalogue-of-life
+  - name: flannel leaf
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: velvet plant
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: mullein
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: flannel mullein
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Torches
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Hag Taper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Aaron's-rod
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Blanketweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Flannelleaf
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Velvetplant
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Flannelplant
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Grey Mullein
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Wild Tobacco
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Woolly Mullein
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: velvet-dock
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Wooly Mullein
+    sources:
+    - col:catalogue-of-life
+  - name: camper's helper
+    sources:
+    - col:catalogue-of-life
+  - name: fisherman's friend
+    sources:
+    - col:catalogue-of-life
+  - name: toilet paper plant
+    sources:
+    - col:catalogue-of-life
+  - name: Charmin of the woods
+    sources:
+    - col:catalogue-of-life
+  - name: cowboy's toilet paper
+    sources:
+    - col:catalogue-of-life
+  - name: Big Taper
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Velvet Dock
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Great Mullen
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Flannel Plant
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Üheksavägine
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+    - wikipedia:et
+  fi:
+  - name: ukontulikukka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q160095
+    - wikipedia:fi
+  fr:
+  - name: Molène thapsus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q160095
+    - wikipedia:fr
+  - name: Bouillon blanc
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-scrophulariaceae
+    - gbif:taxref
+  - name: molène bouillon-blanc
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q160095
+  - name: grande molène
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q160095
+  - name: molène
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: bonhomme
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: bouillon-blanc
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: molène vulgaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: tabac du diable
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Molene thapsus, Bouillon blanc
+    sources:
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+  - name: bouillon blanc à petites fleurs
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q160095
+  - name: Molene thapsus
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: cierge de Notre-Dame
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Molène bouillon-blanc, Herbe-de-saint-Fiacre, Bouillon-blanc
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kleinblütige Königskerze
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q160095
+    - wikipedia:de
+  - name: Kleinbluetige Koenigskerze
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+  - name: Artengruppe Kleinblütige Königskerze
+    sources:
+    - col:catalogue-of-life
+  - name: Feldkerze
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Brennkraut
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Fackelkraut
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Frauenkerze
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Echte Königskerze
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Kleinblütiges Wollkraut
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  el:
+  - name: Φλόμος
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+    - wikipedia:el
+  hu:
+  - name: Molyhos ökörfarkkóró
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+    - wikipedia:hu
+  ga:
+  - name: Coinnle Muire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Verbasco tasso barbasso
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Tasso barbasso
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  - name: Verbasco Thapsus
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  lv:
+  - name: Parastais deviņvīruspēks
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+    - wikipedia:lv
+  - name: Deviņvīruspēks
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  lt:
+  - name: Smulkiažiedė tūbė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+    - wikipedia:lt
+  pl:
+  - name: Dziewanna drobnokwiatowa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+    - wikipedia:pl
+  pt:
+  - name: verbasco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q160095
+  - name: barbasco
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Cachapeiro
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Lumânărică
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  sk:
+  - name: divozel malokvetý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  sl:
+  - name: drobnocvetni lučnik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  es:
+  - name: guardalobo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q160095
+  - name: gordolobo común
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q160095
+  - name: Verbasco
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  - name: Gordolobo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  - name: Hierba del Paño
+    sources:
+    - col:catalogue-of-life
+  - name: palo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: tripo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: casamo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: rabasco
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: acerones
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: barbasco
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: candelera
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: verdelobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: guardilobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: guardolobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: turciburci
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: engordalobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: engordolobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: guardalobos
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: guardolobos
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: friegaplatos
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: candela regia
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: hopo de zorra
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: jopo de zorra
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: oreja de lobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: yerba de paño
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: orejas de lobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: barbasco grande
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: gordolobo macho
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: moñigas de lobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: anagálide acuática
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: pencas de verdelobo
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: gordolobo blanco macho
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  sv:
+  - name: kungsljus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q160095
+    - wikipedia:sv
+  - name: ljust kungsljus
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  - name: Vanligt kungsljus
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: ukontulikukka
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Коровяк обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+    - wikipedia:ru
+  - name: korovâk obyknovennyj
+    sources:
+    - col:catalogue-of-life
+  - name: Медвежье ухо
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  uk:
+  - name: Дивина ведмеже вухо
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Коров'як звичайний
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  'no':
+  - name: filtkongslys
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q160095
+    - wikipedia:no
+  - name: lungegræs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  ca:
+  - name: Trepó joanal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  - name: Herba blenera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+  - name: Fulla borruda
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  - name: Trepó
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Tripó
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Ploraner
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Candelera
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: Cua de guilla
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  be:
+  - name: Дзіванна звычайная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Adi sığırkuyruğu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q160095
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

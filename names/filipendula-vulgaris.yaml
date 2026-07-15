@@ -1,0 +1,279 @@
+id: filipendula-vulgaris
+scientific_name: Filipendula vulgaris
+names:
+  cs:
+  - name: Tužebník obecný
+    preferred: true
+    sources:
+    - wikidata:Q148961
+    - wikipedia:cs
+  da:
+  - name: Knoldet mjødurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q148961
+    - wikipedia:da
+  nl:
+  - name: Knolspirea
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q148961
+    - wikipedia:nl
+  en:
+  - name: Dropwort
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q148961
+  - name: Common Queen-of-the-meadow
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: Angerpist
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: sikoangervo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q148961
+    - wikipedia:fi
+  fr:
+  - name: Spirée filipendule
+    preferred: true
+    sources:
+    - wikidata:Q148961
+    - wikipedia:fr
+  - name: filipendule
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q148961
+  - name: filipendule vulgaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Filipendule a six petales
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Filipendule commune
+    sources:
+    - wikidata:Q148961
+    status: needs-review
+  - name: Filipendule à six pétales
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  - name: Filipendule commune, Spirée filipendule, Filipendule à six pétales, Filipendule vulgaire
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kleines Mädesüß
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q148961
+    - wikipedia:de
+  - name: Knolliger Geissbart
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Knollige Spierstaude
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Kleines Maedesuess
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Sechskronblaettrige Ruesterstaude
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  hu:
+  - name: Koloncos legyezőfű
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Lus braonach
+    preferred: true
+    sources:
+    - wikidata:Q148961
+    - wikipedia:ga
+  it:
+  - name: Olmaria peperina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Lielziedu vīgrieze
+    preferred: true
+    sources:
+    - wikidata:Q148961
+    - wikipedia:lv
+  lt:
+  - name: Pievinė vingiorykštė
+    preferred: true
+    sources:
+    - wikidata:Q148961
+    - wikipedia:lt
+  pl:
+  - name: Wiązówka bulwkowa
+    preferred: true
+    sources:
+    - wikidata:Q148961
+    - wikipedia:pl
+  ro:
+  - name: Aglică
+    preferred: true
+    sources:
+    - wikidata:Q148961
+    - wikipedia:ro
+  sk:
+  - name: Túžobník obyčajný
+    sources:
+    - wikidata:Q148961
+    status: needs-review
+  sl:
+  - name: navadni oslad
+    sources:
+    - wikidata:Q148961
+    status: needs-review
+  es:
+  - name: Filipéndula
+    sources:
+    - wikidata:Q148961
+    status: needs-review
+  sv:
+  - name: brudbröd
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q148961
+    - wikipedia:sv
+  - name: sikoangervo
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Таволга обыкновенная
+    preferred: true
+    sources:
+    - wikidata:Q148961
+    - wikipedia:ru
+  uk:
+  - name: Гадючник звичайний
+    preferred: true
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-ternopil-
+    - wikipedia:uk
+  - name: Гадючник шестипелюстковий
+    sources:
+    - wikidata:Q148961
+    status: needs-review
+  'no':
+  - name: knollmjødurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q148961
+    - wikipedia:no
+  is:
+  - name: Brúðarmjaðjurt
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Filipèndila
+    sources:
+    - wikidata:Q148961
+    status: needs-review
+  be:
+  - name: Вятроўнік звычайны
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,378 @@
+id: crataegus-monogyna
+scientific_name: Crataegus monogyna
+names:
+  bg:
+  - name: Обикновен глог
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  hr:
+  - name: Bijeli glog
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: hloh jednosemenný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q161511
+    - wikipedia:cs
+  da:
+  - name: Engriflet hvidtjørn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikipedia:da
+  - name: Éngriflet hvidtjørn
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  nl:
+  - name: Eenstijlige meidoorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q161511
+    - wikipedia:nl
+  en:
+  - name: Hawthorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q161511
+  - name: common hawthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q161511
+  - name: English Hawthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Red Hawthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: One-seeded Hawthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Single-seed Hawthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: may
+    sources:
+    - col:catalogue-of-life
+  - name: Neapolitan medlar
+    sources:
+    - col:catalogue-of-life
+  - name: Oneseed Hawthorn
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Singleseed Hawthorn
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: May Thorn
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: White Thorn
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: üheemakane viirpuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: tylppöorapihlaja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q161511
+    - wikipedia:fi
+  fr:
+  - name: aubépine à un style
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q161511
+  - name: Epine blanche
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Aubepine a un style
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: aubépine monogyne
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Aubépine à un style, Épine noire, Bois de mai, Aubépine monogyne
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Eingriffeliger Weissdorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - wikipedia:de
+  - name: Eingriffliger Weißdorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q161511
+  - name: Hagedorn
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Κράταιγος ο μονόγυνος
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Egybibés galagonya
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Sceach gheal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Biancospino
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Biancospino comune
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  lv:
+  - name: Sarkanā vilkābele
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  - name: krust
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Vienapiestė gudobelė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  mt:
+  - name: Żagħrun
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Głóg jednoszyjkowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Pilriteiro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Estrepoeiro
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Păducel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Hloh jednosemenný
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Enovrati glog
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sl
+  - name: Glog
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Espino Albar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: majuelo
+    sources:
+    - col:catalogue-of-life
+  - name: Espinillo Albar
+    sources:
+    - col:catalogue-of-life
+  - name: perinhos-de-jardim
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: Trubbhagtorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:sv
+  ru:
+  - name: Боярышник однопестичный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Глід одноматочковий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: hagtorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Бели глог
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Bijeli glog
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  ca:
+  - name: Arç blanc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  - name: espinalb
+    sources:
+    - col:catalogue-of-life
+  - name: Cirerer de Bon Pastor
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Глог аднапесцікавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Adi alıç
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+  - name: Yemişen
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

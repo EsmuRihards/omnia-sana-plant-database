@@ -1,0 +1,300 @@
+id: solidago-virgaurea
+scientific_name: Solidago virgaurea
+names:
+  hr:
+  - name: Prava zlatnica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Obična zlatnica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: zlatobýl obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q599435
+    - wikipedia:cs
+  da:
+  - name: Almindelig gyldenris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Echte guldenroede
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q599435
+    - wikipedia:nl
+  en:
+  - name: Goldenrod
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q599435
+  - name: European goldenrod
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  et:
+  - name: Harilik kuldvits
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: kultapiisku
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q599435
+    - wikipedia:fi
+  fr:
+  - name: Solidage verge d'or
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Solidage verge-d'or
+    sources:
+    - col:catalogue-of-life
+  - name: solidage verge dor
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q599435
+  - name: Solidage verge-d'or, Herbe des Juifs, Verge-d'or
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnliche Goldrute
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q599435
+    - wikipedia:de
+  - name: Echte Goldrute
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Gemeine Goldrute
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q599435
+  - name: Gewöhnliche Goldrute i.w.S.
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  hu:
+  - name: Közönséges aranyvessző
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: erdei aranyvessző
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Slat óir
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Verga d'oro comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Dzeltenā zeltgalvīte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Paprastoji rykštenė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Nawłoć pospolita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Vara-de-ouro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Splinuță
+    sources:
+    - wikidata:Q599435
+    status: needs-review
+  sk:
+  - name: Zlatobyľ obyčajná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadna zlata rozga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q599435
+    - wikipedia:sl
+  es:
+  - name: Vara de oro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: gullris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: kultapiisku
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Золотарник обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Золотая розга
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Золотушник звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Золотарник звичайний
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: gullris
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: akeleje
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: sougræs
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: guld-riis
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: gylden-riis
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Златица
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  ca:
+  - name: Vara d'or
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Сумнік звычайны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Yahudi otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

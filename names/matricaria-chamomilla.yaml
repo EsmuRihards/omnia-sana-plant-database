@@ -1,0 +1,459 @@
+id: matricaria-chamomilla
+scientific_name: Matricaria chamomilla
+names:
+  hr:
+  - name: Prava kamilica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Heřmánek pravý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Vellugtende kamille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: vellugtende kamil
+    sources:
+    - wikidata:Q28437
+    status: needs-review
+  nl:
+  - name: Echte kamille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q28437
+    - wikipedia:nl
+  en:
+  - name: Chamomile
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q28437
+  - name: German chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q28437
+  - name: blue chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q28437
+  - name: wild chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q28437
+  - name: Scented Mayweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q28437
+  - name: scented chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: matricaria
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: German mayweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: true chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: common chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: fragrant chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Hungarian chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: sweet false chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: sweet-false chamomile
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: false chamomile
+    sources:
+    - col:catalogue-of-life
+  - name: Annual Chamomile
+    sources:
+    - col:catalogue-of-life
+  - name: Crown Mayweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+  - name: German Camomile
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+  - name: mayweed
+    sources:
+    - wikidata:Q28437
+    status: needs-review
+  - name: camomile
+    sources:
+    - wikidata:Q28437
+    status: needs-review
+  et:
+  - name: Teekummel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: kamomillasaunio
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q28437
+    - wikipedia:fi
+  fr:
+  - name: Camomille vraie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+  - name: camomille allemande
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: matricaire camomille
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: matricaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: petite camomille
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Matricaire camomille, Camomille sauvage, Matricaire déchirée
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echte Kamille
+    preferred: true
+    sources:
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q28437
+    - wikipedia:de
+  - name: Kamille
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  el:
+  - name: Χαμομήλι
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ματρικάρια η περιτμημένη
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Orvosi székfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q28437
+    - wikipedia:hu
+  - name: kamilla
+    sources:
+    - wikidata:Q28437
+    status: needs-review
+  it:
+  - name: Camomilla comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: camomilla
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Ārstniecības kumelīte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Vaistinė ramunė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Rumianek pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: rumianek pospolit
+    sources:
+    - wikidata:Q28437
+    status: needs-review
+  pt:
+  - name: camomila-vulgar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikipedia:pt
+  - name: camomila
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikidata:Q28437
+  - name: maçanilha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: matricária
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: camomila-comum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: camomila-romana
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: camomila-legítima
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: camomila-verdadeira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: camomila-dos-alemães
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: camomila-legitima
+    sources:
+    - col:catalogue-of-life
+  - name: camomilha
+    sources:
+    - wikidata:Q28437
+    status: needs-review
+  ro:
+  - name: Mușețel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: rumanček pravý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Rumanček kamilkový
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: prava kamilica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q28437
+    - wikipedia:sl
+  es:
+  - name: manzanilla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q28437
+  - name: camomila
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  sv:
+  - name: kamomill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q28437
+    - wikipedia:sv
+  - name: sötblomster
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: äkta kamomill
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  ru:
+  - name: Ромашка аптечная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q28437
+    - wikipedia:ru
+  - name: Ромашка ободранная
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q28437
+  - name: Ромашка лекарственная
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q28437
+  uk:
+  - name: Ромашка лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q28437
+    - wikipedia:uk
+  'no':
+  - name: kamilleblom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q28437
+    - wikipedia:no
+  sr:
+  - name: Камилица
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  - name: Kamilica
+    sources:
+    - col:catalogue-of-life
+  bs:
+  - name: Kamilica
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Kamomili
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sq
+  ca:
+  - name: Camamilla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Рамонак аптэчны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Mayıs papatyası
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,331 @@
+id: foeniculum-vulgare
+scientific_name: Foeniculum vulgare
+names:
+  bg:
+  - name: Резене
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Obični komorač
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: fenykl obecný
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q43511
+    - wikipedia:cs
+  - name: fenikel oby
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Almindelig fennikel
+    sources:
+    - wikipedia:da
+    status: needs-review
+  - name: Fennikel
+    sources:
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    status: needs-review
+  nl:
+  - name: Venkel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q43511
+    - wikipedia:nl
+  en:
+  - name: Fennel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q43511
+    - wikipedia:en
+  - name: sweet fennel
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q43511
+  - name: aniseed-weed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Venkel
+    sources:
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:checklist-of-vermont-species
+  et:
+  - name: Harilik apteegitill
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: fenkoli
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: maustefenkoli
+    sources:
+    - wikidata:Q43511
+    status: needs-review
+  fr:
+  - name: Fenouil commun
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+    - wikidata:Q43511
+    - wikipedia:fr
+  - name: fenouil
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: Fenouil commun, Lani, Anis doux, Fenouil
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Fenchel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+    - wikidata:Q43511
+    - wikipedia:de
+  - name: Echter Fenchel
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q43511
+  el:
+  - name: Μάραθο
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Édeskömény
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Finéal
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Finocchio comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: finocchio
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Parastais fenhelis
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  - name: parast
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Paprastasis pankolis
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Fenkuł włoski
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: funcho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: erva-doce
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: funcho-doce
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: funcho-amargo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: funcho-de-cabeça
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Fenicul
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Fenikel obyčajný
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Navadni komarček
+    preferred: true
+    sources:
+    - wikidata:Q43511
+    - wikipedia:sl
+  es:
+  - name: hinojo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: fänkål
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  - name: fänkol
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  ru:
+  - name: Фенхель обыкновенный
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Фенхель звичайний
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: fennikel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: finkel
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Коморач
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Komorač
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Maraja
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Fenníka
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Fonoll
+    preferred: true
+    sources:
+    - wikidata:Q43511
+    - wikipedia:ca
+  be:
+  - name: Фенхель звычайны
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Rezene
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

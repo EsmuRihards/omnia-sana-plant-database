@@ -1,0 +1,298 @@
+id: momordica-charantia
+scientific_name: Momordica charantia
+names:
+  cs:
+  - name: Momordika hořká okurka
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Karela
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Bitteragurk
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Sopropo
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Bitter Melon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:world-register-of-marine-species
+  - name: Bitter gourd
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:grin-taxonomy
+  - name: Balsam pear
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+  - name: Balsam-pear
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Lizzard Food
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: Maiden Apple
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: Lizzard Pepper
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: Snake Apple Bush
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: Bitter squash
+    sources:
+    - col:catalogue-of-life
+  - name: Bitter Cucumber
+    sources:
+    - col:catalogue-of-life
+  - name: Balsampear
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q428750
+  - name: alsam pear
+    sources:
+    - gbif:world-register-of-marine-species
+    status: needs-review
+  - name: Maidenapple
+    sources:
+    - gbif:checklist-dutch-caribbean-species-regist
+    status: needs-review
+  - name: balsam-apple
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: bitter-melon
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: carilla gourd
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: bitter-cucumber
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: Bitter gourd, Bitter melon, Bitter balsam apple, Balsam apple, Wild balsam-apple, Bitter apple,
+      Bitter squash, Bitter cucumber, Bitter gourd, Carilla gourd, Carilla bush, Balsam Pear, Jumbee pumpkin,
+      Maiden apple
+    sources:
+    - gbif:taxref
+    status: needs-review
+  et:
+  - name: Karella-kibekurk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Karvaskurkku
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: Margose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+  - name: Momordique
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Melon amer
+    sources:
+    - col:catalogue-of-life
+  - name: paroka
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: concombre africain
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: Margose, fausse gombo
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Margose, Margose à piquants, Momordique, Momordique à feuilles de vigne, Pomme de merveille,
+      Melon amer
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Bittermelone
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: Bittergurke
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Balsambirne
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: amerikanische Bittergurke
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  hu:
+  - name: Balzsamkörte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  lv:
+  - name: Balzambumbieris
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Raukšlėtasis svaidenis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Przepękla ogórkowata
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Melão-de-são-caetano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pt
+  - name: melão-são-caetano
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  sk:
+  - name: momordika horká
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Cundeamor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Balsamina
+    sources:
+    - col:catalogue-of-life
+  - name: Pepino cimarrón
+    sources:
+    - col:catalogue-of-life
+  - name: bálsamo
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: balsamito
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  sv:
+  - name: Bittergurka
+    preferred: true
+    sources:
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Момордика харанция
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Китайський гіркий гарбуз
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  sr:
+  - name: Горка диња / Gorka dinja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Gorka dinja
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Cogombre tropical
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Kudret narı
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

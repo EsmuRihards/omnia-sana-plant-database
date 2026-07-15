@@ -1,0 +1,393 @@
+id: hippophae-rhamnoides
+scientific_name: Hippophae rhamnoides
+names:
+  bg:
+  - name: Облепиха
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:world-register-of-marine-species
+    - wikipedia:bg
+  hr:
+  - name: Vučji trn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Pasji trn
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Rakytník řešetlákový
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  - name: rakytník řešetlákovitý
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q165378
+  - name: rakytník rešetliakový
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Havtorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Sandtidse
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Almindelig Havtorn
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Duindoorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:world-register-of-marine-species
+    - wikidata:Q165378
+    - wikipedia:nl
+  en:
+  - name: Sea buckthorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikipedia:en
+  - name: seaberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q165378
+  - name: sea-buckthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q165378
+  - name: sallowthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: willow-leaved sea buckthorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Himalayan berry
+    sources:
+    - col:catalogue-of-life
+  - name: Seabuckthorn
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+  et:
+  - name: Harilik astelpaju
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  - name: mõru vesipipar
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fi:
+  - name: tyrni
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: hopeatyrni
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q165378
+  fr:
+  - name: Argousier
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-elaeagnaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-elaeagnaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q165378
+    - wikipedia:fr
+  - name: argasse
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: grisset
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: argousier faux-nerprun
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Argousier faux nerprun, Argousier, Saule épineux
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Sanddorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-elaeagnaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-elaeagnaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q165378
+    - wikipedia:de
+  - name: Gewöhnlicher Sanddorn
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  el:
+  - name: Ιπποφαές
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ιπποφαές το ραμνοειδές
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Európai homoktövis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Draighean mara
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Olivella spinosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-elaeagnaceae
+    - gbif:info-flora-schweiz-elaeagnaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Olivello spinoso
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Pabērzu smiltsērkšķis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lv
+  lt:
+  - name: Dygliuotasis šaltalankis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Rokitnik zwyczajny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Espinheiro-marítimo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Cătină albă
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  - name: Cătină
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: rakytník rešetliakový
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: rakytník rešetliakovitý
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: Navadni rakitovec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q165378
+    - wikipedia:sl
+  es:
+  - name: espino falso
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: espino armarillo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Espino amarillo
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: havtorn
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: tyrni
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Облепиха крушиновидная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Облепиха обыкновенная
+    sources:
+    - col:catalogue-of-life
+  - name: Облепиха жостеровидная
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Обліпиха звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Обліпиха крушиновидна
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: tindved
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: tin-vedd
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Пасји трн
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  is:
+  - name: Hafþyrnir
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ca:
+  - name: Arç groc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Абляпіха крушынападобная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  - name: Абляпіха звычайная
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: yalancı iğde
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: yalanci igde
+    sources:
+    - gbif:world-register-of-marine-species
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

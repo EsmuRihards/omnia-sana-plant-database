@@ -1,0 +1,316 @@
+id: arnica-montana
+scientific_name: Arnica montana
+names:
+  hr:
+  - name: Gorska moravka
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Prha arnika
+    preferred: true
+    sources:
+    - wikidata:Q207848
+    - wikipedia:cs
+  da:
+  - name: Volverlej
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikipedia:da
+  - name: Guldblomme
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Almindelig guldblomme
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Valkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q207848
+    - wikipedia:nl
+  en:
+  - name: Arnica
+    preferred: true
+    sources:
+    - gbif:grin-taxonomy
+    - gbif:world-register-of-marine-species
+  - name: Mountain arnica
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q207848
+  - name: Leopard's bane
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Wolf's bane
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Mountain tobacco
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: leopardsbane
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Mountain Snuff
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: European arnica
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: mountain-tobacco
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  et:
+  - name: Mägiarnika
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: etelänarnikki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  fr:
+  - name: Arnica
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q207848
+  - name: Arnica des montagnes
+    sources:
+    - col:catalogue-of-life
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q207848
+    - wikipedia:fr
+  - name: Arnica des montagnes, Arnica, Herbe aux prêcheurs
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Arnika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikipedia:de
+  - name: Berg-Wohlverleih
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Wohlverleih
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: echte Arnica
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Echte Arnika
+    sources:
+    - wikidata:Q207848
+    status: needs-review
+  - name: Arnika, Berg-Wohlverleih
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  hu:
+  - name: Hegyi árnika
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Arnica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+  lt:
+  - name: Kalninė arnika
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Arnika górska
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: arnica-da-montanha
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Arnică
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sl:
+  - name: Navadna arnika
+    preferred: true
+    sources:
+    - wikidata:Q207848
+    - wikipedia:sl
+  - name: brdnja
+    sources:
+    - wikidata:Q207848
+    status: needs-review
+  sv:
+  - name: slåttergubbe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - wikipedia:sv
+  - name: Hästfibbla
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+  - name: etelänarnikki
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Арника горная
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Арніка гірська
+    preferred: true
+    sources:
+    - gbif:list-of-representatives-of-fauna-and-flo
+    - gbif:red-list-of-flora-and-fauna-of-ivano-fra
+    - gbif:red-list-of-flora-and-fauna-of-lviv-regi
+    - gbif:red-list-of-flora-and-fauna-of-zhytomyr-
+    - wikipedia:uk
+  'no':
+  - name: solblom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:eunis-biodiversity-database
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:no
+  - name: øll-konge
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: stok-svæve
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: heste-soløy
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Брђанка
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Planinska arnika
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Kaliboba
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  ca:
+  - name: Àrnica
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Купальнік горны
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

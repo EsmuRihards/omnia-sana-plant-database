@@ -1,0 +1,464 @@
+id: calendula-officinalis
+scientific_name: Calendula officinalis
+names:
+  hr:
+  - name: Ljekoviti neven
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Neven
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q145930
+  cs:
+  - name: měsíček lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q145930
+    - wikipedia:cs
+  - name: měsí
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Havemorgenfrue
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Have-morgenfrue
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Morgenfrue
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Goudsbloem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q145930
+    - wikipedia:nl
+  - name: Tuingoudsbloem
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  en:
+  - name: Pot marigold
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q145930
+  - name: Calendula
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: Marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:world-register-of-marine-species
+  - name: Scotch-marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: ruddles
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: garden marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: garden-marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Scottish-marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: pot-marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Scotch marigold
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: English Marigold
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  - name: Common Pot Marigold
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  - name: Garden-pot Marigold
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: harilik saialill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: tarhakehäkukka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q145930
+    - wikipedia:fi
+  - name: Kehäkukka
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q145930
+  fr:
+  - name: souci officinal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q145930
+    - wikipedia:fr
+  - name: Souci des jardins
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: souci
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Souci officinal, Souci
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Souci officinal, Souci des jardins
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Ringelblume
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q145930
+    - wikipedia:de
+  - name: Garten-Ringelblume
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q145930
+  - name: Echte Ringelblume
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  el:
+  - name: Καλέντουλα η φαρμακευτική
+    sources:
+    - wikipedia:el
+    status: needs-review
+  - name: nekroloulouda
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: Orvosi körömvirág
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: körömvirág
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q145930
+  - name: kerti körömvirág
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ga:
+  - name: Lus buí Albanach
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Fiorrancio coltivato
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Calendola o fiorrancio
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q145930
+  lv:
+  - name: kliņģerītes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kliņģerīte
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Vaistinė medetka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Nagietek lekarski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: calêndula
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: bonina
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malmequer
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: maravilha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: verrucária
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malmequer-pequeno
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: margarida-dourada
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: malmequer-do-jardim
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: maravilha-dos-jardins
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: flor-de-todos-os-males
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: maravilhas
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: boas-noites
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: belas-noites
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Gălbenele
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q145930
+    - wikipedia:ro
+  sk:
+  - name: Nechtík lekársky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: vrtni ognjič
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q145930
+    - wikipedia:sl
+  es:
+  - name: Caléndula
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: maravilla
+    sources:
+    - col:catalogue-of-life
+  - name: Caléndula del Mediterráneo
+    sources:
+    - col:catalogue-of-life
+  - name: maravilhas
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: ringblomma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  ru:
+  - name: Календула лекарственная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: kalendula
+    sources:
+    - col:catalogue-of-life
+  - name: ноготки лекарственные
+    sources:
+    - col:catalogue-of-life
+  - name: nogot'ki lekarstvennye
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Нагідки лікарські
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Календула лікарська
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: ringblom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: ringblomst
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Невен/Neven
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q145930
+  - name: Невен
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Neven
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Kalendula mjekësore
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Morgunfrú
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Boixac de jardí
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  tr:
+  - name: aynısafa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

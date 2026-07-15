@@ -1,0 +1,84 @@
+id: harpagophytum-procumbens
+scientific_name: Harpagophytum procumbens
+names:
+  en:
+  - name: devil's-claw
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q386675
+  - name: grappleplant
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  fr:
+  - name: Harpagophyton
+    sources:
+    - wikipedia:fr
+    status: needs-review
+  de:
+  - name: Afrikanische Teufelskralle
+    sources:
+    - wikipedia:de
+    status: needs-review
+  pt:
+  - name: unha-do-diabo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: garra-do-diabo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  sv:
+  - name: Djävulsklo
+    sources:
+    - wikipedia:sv
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

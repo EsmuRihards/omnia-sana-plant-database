@@ -1,0 +1,358 @@
+id: petasites-hybridus
+scientific_name: Petasites hybridus
+names:
+  bg:
+  - name: Хибридна чобанка
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hr:
+  - name: Obični lopuh
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Repuh
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: devětsil lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q375620
+    - wikipedia:cs
+  da:
+  - name: Rød hestehov
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Tordenskræppe
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Rug-Hejre
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Hybrid-hejre
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Spinkel hejre
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Groot hoefblad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q375620
+    - wikipedia:nl
+  en:
+  - name: Butterbur
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Pestilence wort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+  - name: purple butterbur
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Common Butterbur
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q375620
+  - name: butterfly dock
+    sources:
+    - col:catalogue-of-life
+  - name: Bog-rhubarb
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Umbrella-plant
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Butterbur [plant]
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:taxref
+  - name: Butterfly-dock
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: harilik katkujuur
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: etelänruttojuuri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q375620
+    - wikipedia:fi
+  - name: Ruiskattara
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: grand pétasite
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikipedia:fr
+  - name: Pétasite hybride
+    sources:
+    - col:catalogue-of-life
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Herbe aux chapeaux
+    sources:
+    - col:catalogue-of-life
+  - name: Petasite hybride
+    sources:
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: pétasite officinal
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q375620
+  - name: Pétasite hybride, Herbe aux chapeaux, Pétasite officinal, Herbe aux teigneux, Herbe à la peste
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnliche Pestwurz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q375620
+    - wikipedia:de
+  - name: Rote Pestwurz
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Bach-Pestwurz
+    sources:
+    - col:catalogue-of-life
+  - name: Gemeine Pestwurz
+    sources:
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  el:
+  - name: Κωλοπάνα
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Πετασίτης το υβρίδιο
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Vörös acsalapu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Farfaraccio maggiore
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Bastarda tūsklape
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lv
+  lt:
+  - name: Plačialapis šaukštis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  - name: Pla
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Lepiężnik różowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  sk:
+  - name: Deväťsil lekársky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Navadni repuh
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Pata de caballo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: pestskråp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: Skråp
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Pestrot
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Pestilensrot
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Råglosta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sloklosta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Spädlosta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Falsk finlosta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: etelänruttojuuri
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Белокопытник гибридный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Кремена гібридна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-ternopil-
+    - wikipedia:uk
+  'no':
+  - name: legepestrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: lækjepestrot
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  - name: Rugfaks
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ca:
+  - name: Petasita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: vebaotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,443 @@
+id: borago-officinalis
+scientific_name: Borago officinalis
+names:
+  bg:
+  - name: Пореч
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Boražina
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: brutnák lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q147075
+    - wikipedia:cs
+  - name: borák lékařský
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Almindelig hjulkrone
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Hjulkrone
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  nl:
+  - name: Bernagie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q147075
+    - wikipedia:nl
+  - name: Borage
+    sources:
+    - wikidata:Q147075
+    status: needs-review
+  en:
+  - name: Borage
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikipedia:en
+  - name: Starflower
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common borage
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q147075
+  - name: Beebread
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Beeplant
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Talewort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Boražina
+    sources:
+    - col:catalogue-of-life
+  - name: Bee Plant
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik kurgirohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q147075
+    - wikipedia:et
+  fi:
+  - name: rohtopurasruoho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q147075
+    - wikipedia:fi
+  - name: purasruoho
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q147075
+  - name: kurkkuyrtti
+    sources:
+    - wikidata:Q147075
+    status: needs-review
+  fr:
+  - name: Bourrache officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:info-flora-schweiz-boraginaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+    - wikidata:Q147075
+    - wikipedia:fr
+  - name: bourrache
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  de:
+  - name: Borretsch
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-boraginaceae
+    - wikidata:Q147075
+    - wikipedia:de
+  - name: Gurkenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+  - name: Garten-Boretsch
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: einjähriger Borretsch
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Boretsch
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Echter Borretsch
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  el:
+  - name: Μποράγκο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Μποράντζα
+    sources:
+    - col:catalogue-of-life
+  - name: Μπουράντζα
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Borágó
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: kerti borágó
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  ga:
+  - name: Borráiste gorm
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Borragine comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:info-flora-schweiz-boraginaceae
+  - name: boragine
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: borandella
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Borragine
+    sources:
+    - col:catalogue-of-life
+  - name: Borraggine comune
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Gurķene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147075
+  - name: Ārstniecības gurķene
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Vaistinė agurklė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Ogórecznik lekarski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: borragem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikipedia:pt
+  - name: boragem
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: foligem
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: perpétua
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: borracha-chimarrona
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Limba mielului
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: Borák lekársky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147075
+  sl:
+  - name: Boraga
+    preferred: true
+    sources:
+    - wikidata:Q147075
+    - wikipedia:sl
+  - name: boreč
+    sources:
+    - col:catalogue-of-life
+  - name: Zdravilna boraga
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: borraja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Boraja
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: gurkört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikidata:Q147075
+    - wikipedia:sv
+  - name: stofferblomma
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: Smalbjörnbär
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Borstbjörnbär
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: rohtopurasruoho
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Sammetsbjörnbär
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Armeniskt björnbär
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Бурачник лекарственный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Огуречная трава
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q147075
+  uk:
+  - name: Огірочник лікарський
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: agurkurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Борач
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  is:
+  - name: Hjólkróna
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Borratja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  - name: Borraina
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Агурочнік лекавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Hodan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q147075
+    - wikipedia:tr
+  - name: Kaldırık
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

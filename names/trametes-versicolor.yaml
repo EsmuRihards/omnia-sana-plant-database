@@ -1,0 +1,198 @@
+id: trametes-versicolor
+scientific_name: Trametes versicolor
+names:
+  bg:
+  - name: Пъстър траметес
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: Outkovka pestrá
+    preferred: true
+    sources:
+    - wikidata:Q753833
+    - wikipedia:cs
+  da:
+  - name: Broget læderporesvamp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikipedia:da
+  nl:
+  - name: Gewoon elfenbankje
+    preferred: true
+    sources:
+    - wikidata:Q753833
+    - wikipedia:nl
+  en:
+  - name: Turkeytail
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Turkey-tail
+    sources:
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Turkey tail
+    sources:
+    - wikidata:Q753833
+    status: needs-review
+  et:
+  - name: Libliktagel
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Silkkivyökääpä
+    preferred: true
+    sources:
+    - wikidata:Q753833
+    - wikipedia:fi
+  fr:
+  - name: Tramète versicolore, Tramète à couleur changeante
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Schmetterlings-Tramete
+    sources:
+    - wikipedia:de
+    status: needs-review
+  hu:
+  - name: Lepketapló
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lv:
+  - name: Raibā tauriņpiepe
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Įvairiaspalvė kempė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Wrośniak różnobarwny
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  sl:
+  - name: Pisana ploskocevka
+    preferred: true
+    sources:
+    - wikidata:Q753833
+    - wikipedia:sl
+  es:
+  - name: Yesquero delores
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: yesquero multicolor
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: yésquero multicolor
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  sv:
+  - name: sidenticka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikipedia:sv
+  ru:
+  - name: Траметес разноцветный
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Траметес різнобарвний
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: silkekjuke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: buntsopp
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: spragelpils
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: sprangelsopp
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Ћуранов реп
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Ventall de soca de colors
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Карыёл шматколерны
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

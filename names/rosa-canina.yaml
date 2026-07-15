@@ -1,0 +1,455 @@
+id: rosa-canina
+scientific_name: Rosa canina
+names:
+  bg:
+  - name: Обикновена шипка
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:bg
+  hr:
+  - name: Pasja ruža
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:hr
+  - name: Svrbiguza
+    sources:
+    - col:catalogue-of-life
+  - name: Divlja ruža
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: růže šípková
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:cs
+  da:
+  - name: Hunderose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Hunde-rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q146066
+  nl:
+  - name: Hondsroos
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q146066
+    - wikipedia:nl
+  - name: Heggenroos
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Schijnhondsroos
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Schijnheggenroos
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Kale struweelroos
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Beklierde heggenroos
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Behaarde struweelroos
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Hondsroos + Rosa dumalis
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  en:
+  - name: Dog-rose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q146066
+  - name: Dog rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q146066
+  - name: dogbrier
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: dog briar
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: canker rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: common-briar
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  et:
+  - name: Koer-kibuvits
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:et
+  fi:
+  - name: Koiranruusu
+    preferred: true
+    sources:
+    - wikidata:Q146066
+    - wikipedia:fi
+  - name: kaljukoiranruusu
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q146066
+  - name: koiranruusut
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  fr:
+  - name: Rosier des chiens
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-rosaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q146066
+  - name: Eglantier
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: eglantier commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: églantier commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Églantier
+    sources:
+    - col:catalogue-of-life
+  - name: Rosier des haies
+    sources:
+    - col:catalogue-of-life
+  - name: Églantier des chiens
+    sources:
+    - col:catalogue-of-life
+  - name: Rosier des chiens, Rosier des haies, Églantier, Églantier des chiens
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Hundsrose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q146066
+    - wikipedia:de
+  - name: Hunds-Rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-rosaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q146066
+  - name: Hagrose
+    sources:
+    - col:catalogue-of-life
+  - name: Heckenrose
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Αγριοτριανταφυλλιά
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: Σκυλοτριανταφυλλιά
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Vadrózsa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:hu
+  - name: gyepűrózsa
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Feirdhris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:ga
+  it:
+  - name: Rosa selvatica comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q146066
+  lv:
+  - name: Suņu roze
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:lv
+  lt:
+  - name: Paprastasis erškėtis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:lt
+  pl:
+  - name: Róża dzika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:pl
+  pt:
+  - name: rosa-canina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q146066
+  - name: rosa-mosqueta
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Roseira brava
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Măceș
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:ro
+  - name: Măceş
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: ruža šípová
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:sk
+  sl:
+  - name: Navadni šipek
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:sl
+  es:
+  - name: Rosal silvestre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+  - name: Escaramujo
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: stenros
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q146066
+    - wikipedia:sv
+  - name: kal stenros
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: hundros
+    sources:
+    - col:catalogue-of-life
+  - name: törnros
+    sources:
+    - col:catalogue-of-life
+  ru:
+  - name: Шиповник собачий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:ru
+  uk:
+  - name: Шипшина звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Шипшина собача
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+  'no':
+  - name: Steinnype
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q146066
+    - wikipedia:no
+  sr:
+  - name: Шипак
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:sr
+  - name: Šipak
+    sources:
+    - col:catalogue-of-life
+  sq:
+  - name: Trëndafili i egër
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:sq
+  is:
+  - name: Hundarós
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:is
+  ca:
+  - name: Roser silvestre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+  - name: Gavarra
+    sources:
+    - col:catalogue-of-life
+  - name: Roser bord
+    sources:
+    - col:catalogue-of-life
+  - name: Roser caní
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Ружа сабачая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:be
+  tr:
+  - name: Kuşburnu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q146066
+    - wikipedia:tr
+  - name: Gül
+    sources:
+    - col:catalogue-of-life
+    - gbif:divri-i-kars-georgia-border-railway-line
+  - name: Köpek Gülü
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

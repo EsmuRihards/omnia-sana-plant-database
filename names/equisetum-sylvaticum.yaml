@@ -1,0 +1,281 @@
+id: equisetum-sylvaticum
+scientific_name: Equisetum sylvaticum
+names:
+  hr:
+  - name: Šumska preslica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: přeslička lesní
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1355107
+    - wikipedia:cs
+  da:
+  - name: Skov-padderok
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q1355107
+  - name: Skov Padderok
+    sources:
+    - col:catalogue-of-life
+  - name: Skovpadderok
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Bospaardenstaart
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q1355107
+    - wikipedia:nl
+  en:
+  - name: Wood horsetail
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q1355107
+  - name: woodland horsetail
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q1355107
+  et:
+  - name: Metsosi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: metsäkorte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q1355107
+    - wikipedia:fi
+  fr:
+  - name: prêle des bois
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q1355107
+  - name: Prele des bois
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+  - name: Prêle des bois, Prêle des forêts
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Wald-Schachtelhalm
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-pteridophyta-from-germany-
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q1355107
+    - wikipedia:de
+  - name: Waldschachtelhalm
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q1355107
+  hu:
+  - name: Erdei zsurló
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1355107
+  ga:
+  - name: Scuab eich choille
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Equiseto selvatico
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-equisetaceae
+    - gbif:info-flora-schweiz-equisetaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Equiseto delle foreste
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Meža kosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Miškinis asiūklis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1355107
+    - wikipedia:lt
+  pl:
+  - name: Skrzyp leśny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1355107
+    - wikipedia:pl
+  sk:
+  - name: praslička lesná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: gozdna preslica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1355107
+  es:
+  - name: Cola de Caballo de Bosque
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1355107
+  sv:
+  - name: skogsfräken
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q1355107
+    - wikipedia:sv
+  - name: metsäkorte
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Хвощ лесной
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Хвощ лісовий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-of-flora-and-fauna-of-dnipropet
+    - gbif:red-list-of-flora-and-fauna-of-donetsk-r
+    - gbif:red-list-of-flora-and-fauna-of-kharkiv-r
+    - gbif:red-list-of-flora-and-fauna-of-luhansk-r
+    - gbif:red-list-of-flora-and-fauna-of-poltava-r
+    - wikidata:Q1355107
+    - wikipedia:uk
+  'no':
+  - name: skogsnelle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q1355107
+    - wikipedia:no
+  - name: skov-snell
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: heste-snell
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  is:
+  - name: Skógelfting
+    sources:
+    - wikipedia:is
+    status: needs-review
+  be:
+  - name: Хвошч лясны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Kırkanahtar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

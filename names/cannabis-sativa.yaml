@@ -1,0 +1,387 @@
+id: cannabis-sativa
+scientific_name: Cannabis sativa
+names:
+  bg:
+  - name: Посевен коноп
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Indijska konoplja
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: konopí seté
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q26726
+    - wikipedia:cs
+  - name: konopí rumištní
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: Hamp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Almindelig Hamp
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Hennep
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q26726
+  en:
+  - name: Hemp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26726
+  - name: marijuana
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q26726
+  - name: pot
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q26726
+  - name: grass
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q26726
+  - name: Hashish
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q26726
+  - name: maryjane
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: kush
+    sources:
+    - col:catalogue-of-life
+  - name: reefer
+    sources:
+    - col:catalogue-of-life
+  - name: devil's lettuce
+    sources:
+    - col:catalogue-of-life
+  - name: Mary Jane
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q26726
+  - name: Hemp, Marijuana, Hashish, Hash
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+  et:
+  - name: harilik kanep
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  - name: metsik kanep
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: hamppu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  fr:
+  - name: cannabis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Chanvre
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-cannabaceae
+    - gbif:info-flora-schweiz-cannabaceae
+    - gbif:vernacular-names-of-the-flore-d-afrique-
+  - name: Chanvre cultivé
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+  - name: chènevis chanvre
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  - name: Chanvre cultivé, Cannabis
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Chanvre cultivé, Zamal, Amale, Gandia, Chanvre
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Hanf
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-cannabaceae
+    - gbif:info-flora-schweiz-cannabaceae
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q26726
+    - wikipedia:de
+  - name: Echter Hanf
+    sources:
+    - col:catalogue-of-life
+  - name: Gewöhnlicher Hanf
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Κάνναβη η ήμερη
+    sources:
+    - wikipedia:el
+    status: needs-review
+  - name: kannavi
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: kannaouri
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: kannaourka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: kender
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ipari kender
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Canapa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-cannabaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-cannabaceae
+  lv:
+  - name: Sējas kaņepe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lv
+  lt:
+  - name: Sėjamoji kanapė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Konopie siewne
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: cânhamo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: maconha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cânhamo-verdadeiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: haxixe
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: marijuana
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: cânhamo-indiano
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Canepa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: Konopa siata
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadna konoplja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26726
+    - wikipedia:sl
+  es:
+  - name: mota
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26726
+  - name: Mandanga
+    sources:
+    - col:catalogue-of-life
+  - name: Marihuana
+    sources:
+    - col:catalogue-of-life
+  - name: Cáñamo asiático
+    sources:
+    - col:catalogue-of-life
+  - name: mariguana
+    sources:
+    - wikidata:Q26726
+    status: needs-review
+  sv:
+  - name: hampa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Конопля посевная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Коноплі звичайні
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: hamp
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: Hn/Hamp
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Конопља
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Hampjurt
+    sources:
+    - wikipedia:is
+    status: needs-review
+  be:
+  - name: Каноплі пасяўныя
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Kenevir
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Hint keneviri
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

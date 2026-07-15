@@ -1,0 +1,701 @@
+id: chelidonium-majus
+scientific_name: Chelidonium majus
+names:
+  bg:
+  - name: Змийско мляко
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:bg
+  hr:
+  - name: Zmijino mlijeko
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Rosopas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  - name: Žuti rosopas
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: vlaštovičník větší
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:cs
+  - name: vlaštovi
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: vlaštovičník
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  da:
+  - name: Svaleurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156807
+    - wikipedia:da
+  nl:
+  - name: Stinkende gouwe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156807
+    - wikipedia:nl
+  en:
+  - name: Greater Celandine
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156807
+  - name: Swallowwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Nipplewort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: celandine
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q156807
+  - name: Rock Poppy
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Great Celandine
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Swallow-wort
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Harilik vereurmarohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:et
+  - name: Vereurmarohi
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  - name: Chelidonium maius
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  fi:
+  - name: keltamo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156807
+    - wikipedia:fi
+  fr:
+  - name: grande chélidoine
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q156807
+  - name: Herbe aux verrues
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:info-flora-schweiz-papaveraceae
+    - wikidata:Q156807
+  - name: Chelidoine
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:info-flora-schweiz-papaveraceae
+    - wikidata:Q156807
+  - name: Chélidoine
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156807
+  - name: éclaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: grande éclaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: chélidoine majeure
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: chélidoine herbe-aux-verrues
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Herbe-aux-verrues
+    sources:
+    - col:catalogue-of-life
+  - name: Kélidoine
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Quélidoine
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Verrucaire
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Herbe à verrues
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Grande chélidoine, Chélidoine élevée, Herbe à la verrue, Éclaire, Grande éclaire, Chélidoine
+      éclaire
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Schöllkraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156807
+    - wikipedia:de
+  - name: Warzenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:info-flora-schweiz-papaveraceae
+  - name: Schoellkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:info-flora-schweiz-papaveraceae
+  - name: Gewöhnliches Schöllkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Schellkraut
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  el:
+  - name: Χελιδόνιον
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  - name: Χελιδονόχορτο
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Vérehulló fecskefű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:hu
+  ga:
+  - name: Garra bhuí
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Celidonia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-papaveraceae
+    - gbif:info-flora-schweiz-papaveraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156807
+  lv:
+  - name: Lielā strutene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:lv
+  - name: Vandulis
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Kārpu zāle
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  lt:
+  - name: Didžioji ugniažolė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:lt
+  pl:
+  - name: Glistnik jaskółcze ziele
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:pl
+  - name: Glistnik
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Glistnik jaskółczy
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  pt:
+  - name: Quelidónia-maior
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:pt
+  - name: Erva-das-verrugas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  - name: Seruda
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Celidónia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Erva-andorinha
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  ro:
+  - name: Rostopască
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:ro
+  - name: Rostopasca
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  sk:
+  - name: lastovičník väčší
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:sk
+  sl:
+  - name: krvavi mlečnik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:sl
+  es:
+  - name: Celidonia mayor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  - name: ceruda
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cevuda
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cedueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cerdoña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: yeteira
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: celdueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: celidoña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cerdueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: ceridoña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cirgüeña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: gran luz
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: piohuelo
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: celedonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: celedonio
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: celidonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: celidueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: ceredonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: ceredueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: ceridonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: ceridueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cerigüeña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: ciledonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cilidonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cilidueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: ciridueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cirigüeya
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cirigüeña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: cirirueña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: dilidonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: pedigüeña
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: selidonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: verrugera
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: chiledonia
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: verruguera
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: golondrinera
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: hirundinaria
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: quitaverrugas
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: celidueña fina
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: hierba del iodo
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: planta del yodo
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: yerba verruguera
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: hierba verruguera
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: hierba golondrinera
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: yerba del pordiosero
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: flor de la golondrina
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: hierba de las verrugas
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: hierba de la golondrina
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: yerba de las golondrinas
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: hierba de las golondrinas
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  sv:
+  - name: skelört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156807
+    - wikipedia:sv
+  - name: keltamo
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Чистотел большой
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:ru
+  - name: čistotel bol'šoj
+    sources:
+    - col:catalogue-of-life
+  - name: Подтынник
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  uk:
+  - name: Чистотіл звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:uk
+  - name: Чистотіл великий
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  - name: Чистотіл
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  'no':
+  - name: svaleurt
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: svale-urt
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Руса
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:sr
+  - name: Росопас
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  sq:
+  - name: Latrapeci
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:sq
+  ca:
+  - name: Herba d'orenetes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:ca
+  - name: Celidònia
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  - name: Berruguera
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  - name: Herba berruguera
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+  be:
+  - name: Падтыннік вялікі
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+    - wikipedia:be
+  tr:
+  - name: Kırlangıç otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156807
+  - name: Temre otu
+    sources:
+    - wikidata:Q156807
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

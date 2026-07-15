@@ -23,6 +23,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PLANTS = os.path.join(ROOT, "plants")
 VOCAB = os.path.join(ROOT, "vocabularies")
 COMPDIR = os.path.join(ROOT, "compounds")
+NAMESDIR = os.path.join(ROOT, "names")
 BIB = os.path.join(ROOT, "bibliography.bibtex")
 
 REF_RE = re.compile(r"REF-\d{4,}")
@@ -68,6 +69,9 @@ def main():
     K = {yaml.safe_load(open(f, encoding="utf-8"))["id"] for f in glob.glob(os.path.join(COMPDIR, "*.yaml"))}
     D = vocab_ids(os.path.join(VOCAB, "drug_classes.yaml"))
     X = vocab_ids(os.path.join(VOCAB, "dangerous_plants.yaml"))
+    LANGS = yaml.safe_load(open(os.path.join(VOCAB, "languages.yaml"), encoding="utf-8"))
+    LANG_CODES = {x["code"] for x in LANGS}
+    LANG_ENABLED = {x["code"] for x in LANGS if x.get("enabled")}
 
     cited, seen_ids, pair_refs = set(), {}, []
     files = sorted(glob.glob(os.path.join(PLANTS, "*.yaml")))
@@ -144,6 +148,63 @@ def main():
         if pid not in seen_ids:
             errors.append(f"{nm}: pairing partner_id '{pid}' has no plant record")
 
+    # ---- vernacular names (names/*.yaml) — the Multilingual Plant-Name Dictionary ----
+    # Strict data-quality backstop: a published (verified) name must be attested by either
+    # >=1 curated authority (EPPO / POWO / Catalogue of Life) OR >=2 independent sources.
+    # No name may exist without >=1 source. This mirrors the pipeline's accept rule so a
+    # hand edit or a pipeline regression can never ship an unverified translation.
+    CURATED_PREFIXES = ("eppo:", "powo:", "col:")
+    name_files = sorted(glob.glob(os.path.join(NAMESDIR, "*.yaml")))
+    for path in name_files:
+        nm = "names/" + os.path.basename(path)
+        d = yaml.safe_load(open(path, encoding="utf-8"))
+        if not isinstance(d, dict):
+            errors.append(f"{nm}: not a mapping")
+            continue
+        for k in ("id", "scientific_name", "names"):
+            if k not in d:
+                errors.append(f"{nm}: missing required field '{k}'")
+        nid = d.get("id")
+        if nid and nid not in seen_ids:
+            errors.append(f"{nm}: id '{nid}' has no plant record in plants/")
+        names = d.get("names") or {}
+        if not isinstance(names, dict):
+            errors.append(f"{nm}: 'names' must be a mapping of lang -> list")
+            names = {}
+        for lang, arr in names.items():
+            if lang not in LANG_CODES:
+                errors.append(f"{nm}: language '{lang}' not in languages.yaml")
+            elif lang not in LANG_ENABLED:
+                warnings.append(f"{nm}: language '{lang}' present but not enabled")
+            if not isinstance(arr, list) or not arr:
+                errors.append(f"{nm}: language '{lang}' must be a non-empty list")
+                continue
+            pref = 0
+            for e in arr:
+                if not isinstance(e, dict) or not str(e.get("name", "")).strip():
+                    errors.append(f"{nm}: {lang} has an entry with no name")
+                    continue
+                srcs = e.get("sources") or []
+                if not isinstance(srcs, list) or not srcs:
+                    errors.append(f"{nm}: {lang} '{e.get('name')}' has no sources")
+                    srcs = []
+                st = e.get("status", "verified")
+                if st not in ("verified", "needs-review"):
+                    errors.append(f"{nm}: {lang} '{e.get('name')}' bad status '{st}'")
+                if e.get("preferred"):
+                    pref += 1
+                if st == "verified":
+                    curated = any(str(s).startswith(CURATED_PREFIXES) for s in srcs)
+                    if not curated and len(set(map(str, srcs))) < 2:
+                        errors.append(f"{nm}: {lang} '{e.get('name')}' is verified but fails the "
+                                      f"multi-source rule (need >=1 curated source or >=2 independent)")
+            if pref > 1:
+                errors.append(f"{nm}: {lang} has {pref} names flagged preferred (want <=1)")
+        v = d.get("verification") or {}
+        for lc in v.get("checked_languages", []):
+            if lc not in LANG_CODES:
+                warnings.append(f"{nm}: checked_languages has unknown code '{lc}'")
+
     missing = sorted(cited - declared)
     orphan = sorted(declared - cited)
     for r in missing:
@@ -151,8 +212,10 @@ def main():
     for r in orphan:
         warnings.append(f"orphan reference (never cited): {r}")
 
-    print(f"Scanned {len(files)} plants | refs cited {len(cited)} / declared {len(declared)} | "
-          f"actions {len(A)} conditions {len(C)} drug-classes {len(D)} dangerous-plants {len(X)} compounds {len(K)}")
+    print(f"Scanned {len(files)} plants | {len(name_files)} names files | "
+          f"refs cited {len(cited)} / declared {len(declared)} | "
+          f"actions {len(A)} conditions {len(C)} drug-classes {len(D)} dangerous-plants {len(X)} "
+          f"compounds {len(K)} languages {len(LANG_ENABLED)}")
     if warnings:
         print(f"\nWARNINGS ({len(warnings)}):")
         for w in warnings[:40]:

@@ -1,0 +1,296 @@
+id: verbascum-densiflorum
+scientific_name: Verbascum densiflorum
+names:
+  bg:
+  - name: Гъстоцветен лопен
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Velecvjetna divizma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: divizna velkokvětá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q163927
+    - wikipedia:cs
+  da:
+  - name: Uldbladet kongelys
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  nl:
+  - name: Stalkaars
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q163927
+    - wikipedia:nl
+  en:
+  - name: Dense-flowered Mullein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Mullein
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Denseflower mullein
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q163927
+  - name: dense-flower mullein
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: denseflowered mullein
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - wikidata:Q163927
+  et:
+  - name: kõrge vägihein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: akantulikukka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q163927
+    - wikipedia:fi
+  fr:
+  - name: Molène à fleurs denses
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikipedia:fr
+  - name: bonhomme
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+  - name: Molene a fleurs denses
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+  - name: Molène faux bouillon-blanc
+    sources:
+    - col:catalogue-of-life
+  - name: faux bouillon blanc
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q163927
+  - name: Molène faux-bouillon-blanc
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Molène à fleurs denses, Molène faux bouillon-blanc, Molène faux thapsus
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Großblütige Königskerze
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q163927
+    - wikipedia:de
+  - name: Grossbluetiges Wollkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+  - name: Grossbluetige Koenigskerze
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+  - name: Dichtblütige Königskerze
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q163927
+  hu:
+  - name: Dúsvirágú ökörfarkkóró
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Verbasco falso barbasso
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Verbasco falso barbasco
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: blīvziedu deviņvīruspēks
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  lt:
+  - name: Didžiažiedė tūbė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Dziewanna wielkokwiatowa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  ro:
+  - name: Lumânărică
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  - name: Lumânărica
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: Divozel veľkokvetý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: velecvetni lučnik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q163927
+  sv:
+  - name: ölandskungsljus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - wikipedia:sv
+  - name: Praktkungsljus
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+  - name: Öländskt kungsljus
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+  - name: akantulikukka
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Коровяк густоцветковый
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Коровяк высокий
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Дивина густоквіткова
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: prydkongslys
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  sr:
+  - name: Дивизма крупноцветна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Дзіванна скіпетрападобная
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

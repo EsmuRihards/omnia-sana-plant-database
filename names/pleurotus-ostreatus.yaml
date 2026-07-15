@@ -1,0 +1,337 @@
+id: pleurotus-ostreatus
+scientific_name: Pleurotus ostreatus
+names:
+  bg:
+  - name: Кладница
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Bukovača
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: hlíva ústřičná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q186451
+    - wikipedia:cs
+  da:
+  - name: Almindelig østershat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  nl:
+  - name: Gewone oesterzwam
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q186451
+    - wikipedia:nl
+  en:
+  - name: Oyster mushroom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q186451
+  et:
+  - name: Austerservik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: osterivinokas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q186451
+    - wikipedia:fi
+  fr:
+  - name: Pleurote en huître
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxref
+  - name: Pleurote en forme d'huître
+    sources:
+    - col:catalogue-of-life
+  de:
+  - name: Austernseitling
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-fungi-and-fungal-like-orga
+    - wikidata:Q186451
+  - name: Austernpilz
+    sources:
+    - col:catalogue-of-life
+  - name: Austern-Seitling
+    sources:
+    - wikipedia:de
+    status: needs-review
+  hu:
+  - name: Késői laskagomba
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: Kései laskagomba
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Arc oisreach
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  lv:
+  - name: Austeru sānause
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Gluosninė kreivabudė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Boczniak ostrygowaty
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Repolga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Cogumelo-ostra
+    sources:
+    - wikipedia:pt
+    status: needs-review
+  sk:
+  - name: Hliva ustricovitá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Hliva ustricová
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Bukov ostrigar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: Hongo blanco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Gírgola Común
+    sources:
+    - col:catalogue-of-life
+  - name: Hongo del cazahuate
+    sources:
+    - col:catalogue-of-life
+  - name: Orejas de cazahuate
+    sources:
+    - col:catalogue-of-life
+  - name: orellana
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: oreja blanca
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: seta de mano
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: pleurotoncoideo
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: cabeza de fraile
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: pleuroto ostreado
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: parásito facultativo
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: pleuroto en forma de ostra
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: falsa seta de cardo de la madera
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: pleuroto en forma de concha, orellana
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: Orellana, seta de tocones, pleuroto de tocones
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: orellana, pleuroto en forma de ostra, pleuroto de madera
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  sv:
+  - name: ostronmussling
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikipedia:sv
+  ru:
+  - name: Вёшенка обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Вешенка устричная
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Плеврот черепичастий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Глива звичайна
+    sources:
+    - col:catalogue-of-life
+  - name: Глива черепичаста
+    sources:
+    - col:catalogue-of-life
+  - name: Гливичка звичайна
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: blågrå østerssopp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  sr:
+  - name: Буковача
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  - name: Bukovača
+    sources:
+    - col:catalogue-of-life
+  sq:
+  - name: Këpurdha perlë
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Ostruvængur
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: orellana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    - wikidata:Q186451
+    - wikipedia:ca
+  - name: gírgola
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: clopisons
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: orellas de poll
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  - name: orellanas de polls
+    sources:
+    - gbif:vernacular-names-of-iberian-fungi-in-spa
+    status: needs-review
+  be:
+  - name: Вешанка звычайная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: istiridye mantarı
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Kavak mantarı
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

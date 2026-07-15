@@ -1,0 +1,349 @@
+id: pulmonaria-officinalis
+scientific_name: Pulmonaria officinalis
+names:
+  bg:
+  - name: Медуница
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Ljekoviti plućnjak
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Plicník lékařský
+    preferred: true
+    sources:
+    - wikidata:Q324331
+    - wikipedia:cs
+  da:
+  - name: Hvidplettet lungeurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: lunge-urt
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  nl:
+  - name: Gevlekt longkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q324331
+    - wikipedia:nl
+  en:
+  - name: Lungwort
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q324331
+  - name: Common lungwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q324331
+  - name: Jerusalem cowslip
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: spotted-dog
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: blue lungwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: bloody-butcher
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: boys-and-girls
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Jerusalem-sage
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Joseph-and-Mary
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Mary-spilt-the-milk
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: soldiers-and sailors
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: hundreds-and-thousands
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  et:
+  - name: Harilik kopsurohi
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: rohtoimikkä
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q324331
+    - wikipedia:fi
+  fr:
+  - name: Pulmonaire officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-boraginaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxref
+    - wikidata:Q324331
+    - wikipedia:fr
+  de:
+  - name: Geflecktes Lungenkraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Echtes Lungenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-boraginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Gewoehnliches Lungenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:info-flora-schweiz-boraginaceae
+  - name: Geflecktes Lungentrout
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: kleingeflecktes Lungenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Gemeines Lungenkraut
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q324331
+  - name: Gewöhnliches Lungenkraut
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  - name: Geflecktes Lungenkraut (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  hu:
+  - name: Orvosi tüdőfű
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Polmonaria maggiore
+    preferred: true
+    sources:
+    - gbif:flora-helvetica-boraginaceae
+    - gbif:info-flora-schweiz-boraginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Dziedniecības lakacis
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Vaistinė plautė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Miodunka plamista
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  ro:
+  - name: Plămânărică
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Pľúcnik lekársky
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Navadni pljučnik
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  sv:
+  - name: fläcklungört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - wikipedia:sv
+  - name: skånsk lungört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+  - name: fläckig lungört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+  - name: vitfläckig lungört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+  - name: fläckbladig lungört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+  ru:
+  - name: Медуница лекарственная
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Медунка лікарська
+    preferred: true
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-zhytomyr-
+    - wikipedia:uk
+  'no':
+  - name: lungeurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: legelungeurt
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: lækjelungeurt
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: lunge-urt
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Плућњак
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Freixurera
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Ciğer otu
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

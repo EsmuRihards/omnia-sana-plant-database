@@ -1,0 +1,276 @@
+id: syzygium-aromaticum
+scientific_name: Syzygium aromaticum
+names:
+  bg:
+  - name: Карамфил
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Klinčić
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Hřebíčkovec kořenný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Ægte kryddernellike
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  nl:
+  - name: Kruidnagel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:nl
+  en:
+  - name: Clove
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q26736
+    - wikipedia:en
+  - name: clovetree
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cloves
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  et:
+  - name: Harilik nelgipuu
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Mausteneilikka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: Giroflier
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - wikipedia:fr
+  de:
+  - name: Gewürznelkenbaum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:de
+  el:
+  - name: Γαριφαλόδενδρο
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Szegfűszeg
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Clóbh
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Chiodo di garofano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Īstais nagliņkoks
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Kvapnusis gvazdikmedis
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Czapetka pachnąca
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Goździkowiec korzenny
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: cravo-da-índia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: craveiro-da-índia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cravo-de-doce
+    sources:
+    - col:catalogue-of-life
+  - name: cavo-aromático
+    sources:
+    - col:catalogue-of-life
+  - name: cravo-das-molucas
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Cuișoare
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Klinčekovec voňavý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Dišeči klinčevec
+    preferred: true
+    sources:
+    - wikidata:Q26736
+    - wikipedia:sl
+  es:
+  - name: clavo de olor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: clavero giroflé
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: árbol del clavo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Clavo
+    sources:
+    - col:catalogue-of-life
+  - name: clavero
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: kryddnejlika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Гвоздичное дерево
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Сизигиум ароматный
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Гвоздика
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Nelliktre
+    sources:
+    - wikipedia:no
+    status: needs-review
+  - name: Kryddernellik
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Karanfilić
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Klinčić
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Negull
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Clavell d'espècia
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Гваздзіковае дрэва
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Karanfil
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

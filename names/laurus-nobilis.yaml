@@ -1,0 +1,388 @@
+id: laurus-nobilis
+scientific_name: Laurus nobilis
+names:
+  bg:
+  - name: Лавър
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Lovor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Obični lovor
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Vavřín vznešený
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Ægte Laurbær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  nl:
+  - name: Laurierboom
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Laurier
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Bay Laurel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Sweet Bay
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q26006
+  - name: True Laurel
+    sources:
+    - col:catalogue-of-life
+  - name: Bay
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Laurel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Sweetbal-Tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Grecian laurel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: bay-leaf laurel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: royal bay
+    sources:
+    - col:catalogue-of-life
+  - name: Sweet laurel
+    sources:
+    - col:catalogue-of-life
+  - name: Bay Leaf Tree
+    sources:
+    - col:catalogue-of-life
+  - name: Laurel, Bay, Sweet Bay
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    status: needs-review
+  et:
+  - name: Harilik loorberipuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: välimerenlaakeri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Laakeripuu
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Laurier noble
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lauraceae
+    - gbif:info-flora-schweiz-lauraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Laurier sauce
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lauraceae
+    - gbif:info-flora-schweiz-lauraceae
+  - name: laurier
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Laurier-sauce
+    sources:
+    - col:catalogue-of-life
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Laurier noble, Laurier-sauce
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Lorbeer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: Edel-Lorbeer
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lauraceae
+    - gbif:info-flora-schweiz-lauraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Lorbeer
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Lorbeerbaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Lorbeerstrauch
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Edler Lorbeer
+    sources:
+    - col:catalogue-of-life
+  - name: Gewürzlorbeer
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Δάφνη
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:el
+  - name: Κοινή Δάφνη
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Δάφνη η ευγενής
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Nemes babér
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Labhras
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Alloro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lauraceae
+    - gbif:info-flora-schweiz-lauraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Lauro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lauraceae
+    - gbif:info-flora-schweiz-lauraceae
+  lv:
+  - name: Dižciltīgais laurs
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Kilnusis lauramedis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  - name: Kilnusis lauremedis
+    sources:
+    - col:catalogue-of-life
+  mt:
+  - name: Rand
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Wawrzyn szlachetny
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: loureiro
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:pt
+  - name: louro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: dafre
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: louro-comum
+    sources:
+    - col:catalogue-of-life
+  - name: louro-europeu
+    sources:
+    - col:catalogue-of-life
+  - name: louro-de-apolônio
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Dafin
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: vavrín vznešený
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Vavrín pravý
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: navadni lovor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26006
+    - wikipedia:sl
+  es:
+  - name: Laurel de Castilla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: lager
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  - name: lagerträd
+    sources:
+    - col:catalogue-of-life
+  ru:
+  - name: Лавр благородный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Лавр благородний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: laurbær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  sr:
+  - name: Ловор / Lovor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ловор
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Lovor
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Dafina
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  ca:
+  - name: Llorer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  - name: Llor
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Akdeniz defnesi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+  - name: defne
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

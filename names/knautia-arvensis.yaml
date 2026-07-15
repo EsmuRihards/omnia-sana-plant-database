@@ -1,0 +1,333 @@
+id: knautia-arvensis
+scientific_name: Knautia arvensis
+names:
+  hr:
+  - name: Poljska prženica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: chrastavec rolní
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q27648
+    - wikipedia:cs
+  da:
+  - name: Blåhat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Almindelig Blåhat
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Beemdkroon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q27648
+    - wikipedia:nl
+  en:
+  - name: Field scabious
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: blue buttons
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: field scabiosa
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q27648
+  - name: gypsy's-rose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: field-scabious
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Bluebuttons
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q27648
+  - name: Bluecaps
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: Harilik äiatar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: ketoruusuruoho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q27648
+    - wikipedia:fi
+  - name: ruusuruoho
+    sources:
+    - col:catalogue-of-life
+  fr:
+  - name: Knautie des champs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-caprifoliaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q27648
+    - wikipedia:fr
+  - name: scabieuse des champs
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: Oreille-d'âne
+    sources:
+    - col:catalogue-of-life
+  - name: Knautie des champs, Oreille-d'âne
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Acker-Witwenblume
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - wikipedia:de
+  - name: Feld-Witwenblume
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Wiesen-Witwenblume
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Knopfblume
+    sources:
+    - col:catalogue-of-life
+  - name: Artengruppe Wiesen-Witwenblume
+    sources:
+    - col:catalogue-of-life
+  - name: Wiesen-Witwenblume (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  el:
+  - name: Κναούτια η αρουραία
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Mezei varfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Cab an ghasáin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Ambretta comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caprifoliaceae
+    - gbif:info-flora-schweiz-caprifoliaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Ambretta
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Tīruma pēterene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Dirvinė buožainė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Świerzbnica polna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q27648
+    - wikipedia:pl
+  ro:
+  - name: Mușcata dracului
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: chrastavec roľný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: njivsko grabljišče
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q27648
+    - wikipedia:sl
+  es:
+  - name: Escabiosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: åkervädd
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: ketoruusuruoho
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Короставник полевой
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Свербіжниця польова
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: rødknapp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: raudknapp
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:no
+  - name: scabos
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: scabios
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Poljska prženica
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Rauðkollur
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Vídua borda
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Паўночнік палявы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

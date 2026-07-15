@@ -1,0 +1,532 @@
+id: daucus-carota
+scientific_name: Daucus carota
+names:
+  bg:
+  - name: Див морков
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Обикновен морков
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Obična mrkva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: mrkev
+    sources:
+    - col:catalogue-of-life
+  - name: mrkva
+    sources:
+    - col:catalogue-of-life
+  - name: merlin
+    sources:
+    - col:catalogue-of-life
+  - name: mrkvac
+    sources:
+    - col:catalogue-of-life
+  - name: mrkvač
+    sources:
+    - col:catalogue-of-life
+  - name: korenje
+    sources:
+    - col:catalogue-of-life
+  - name: kuzmorika
+    sources:
+    - col:catalogue-of-life
+  - name: mrkva žuta
+    sources:
+    - col:catalogue-of-life
+  - name: mrkvjelina
+    sources:
+    - col:catalogue-of-life
+  - name: divlja mrkva
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: mrkev obecná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q30056
+    - wikipedia:cs
+  da:
+  - name: Vild gulerod
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Gulerod
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+  - name: Sildig Gyldenris
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Kanadisk Gyldenris
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Klæbrig Brandbæger
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Almindelig Brandbæger
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Wilde peen
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:nl
+  - name: Peen
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q30056
+  en:
+  - name: Wild carrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q30056
+  - name: Queen Anne's lace
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:world-register-of-marine-species
+  - name: bishop's lace
+    sources:
+    - col:catalogue-of-life
+  - name: Carrot
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+  et:
+  - name: Metsporgand
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: porkkana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: aitoporkkana
+    sources:
+    - col:catalogue-of-life
+  - name: Rikkaporkkana
+    sources:
+    - col:catalogue-of-life
+  - name: Isopiisku
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Kanadanpiisku
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Peltovillakko
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Tahmavillakko
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Carotte sauvage
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q30056
+  - name: carotte
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q30056
+  - name: dauce carotte
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: carotte potagère
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Carottes
+    sources:
+    - col:catalogue-of-life
+  - name: Daucus carotte
+    sources:
+    - col:catalogue-of-life
+  - name: Carotte commune
+    sources:
+    - col:catalogue-of-life
+  - name: Carottes communes
+    sources:
+    - col:catalogue-of-life
+  - name: Carotte commune, Carotte
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Carotte sauvage, Carotte commune, Daucus carotte
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Möhre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q30056
+    - wikipedia:de
+  - name: Wilde Möhre
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q30056
+  - name: Karotte
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: Rueebli
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: Wilde Ruebe
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: Wilde Moehre
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: gewöhnliche Möhre
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q30056
+  - name: Rüebli
+    sources:
+    - col:catalogue-of-life
+  el:
+  - name: Καρότο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Άγριο καρότο
+    sources:
+    - col:catalogue-of-life
+  - name: Σταφυλίνακας
+    sources:
+    - col:catalogue-of-life
+  - name: Δαύκος ο Καρώτος
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Vadmurok
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Cairéad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Mealbhacán
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Carota selvatica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: carota
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Savvaļas burkāns
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Paprastoji morka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Marchew zwyczajna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: cenoura
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Cenoura-brava
+    sources:
+    - col:catalogue-of-life
+  - name: Cenoura selvagem
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Morcov
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Morcov sălbatic
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: Mrkva obyčajná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadno korenje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q30056
+  es:
+  - name: Zanahoria
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: pasto zanahoria
+    sources:
+    - col:catalogue-of-life
+  - name: Zanahoria Silvestre
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: Vildmorot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sv
+  - name: morot
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-priority-list
+  - name: Korsört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: porkkana
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Gullvippa
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Höstgullris
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: klibbkorsört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: kanadensiskt gullris
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Морковь дикая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Морква звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Морква дика
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: gulrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: Kanadagullris
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Kjempegullris
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Åkersvineblom
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: vilde morøtter
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Klistersvineblom
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Шаргарепа
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Дивља шаргарепа
+    sources:
+    - col:catalogue-of-life
+  - name: Divlja šargarepa
+    sources:
+    - col:catalogue-of-life
+  - name: Дивља мрква
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  sq:
+  - name: Karrota
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Gulrót
+    preferred: true
+    sources:
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikipedia:is
+  - name: Villta gulrót
+    sources:
+    - col:catalogue-of-life
+  - name: Krossgras
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ca:
+  - name: Fonollassa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Pastanaga borda
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Морква дзікая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Havuç
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Yabani Havuç
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

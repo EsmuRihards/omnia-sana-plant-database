@@ -1,0 +1,234 @@
+id: salix-alba
+scientific_name: Salix alba
+names:
+  bg:
+  - name: Бяла върба
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:bg
+  hr:
+  - name: Bijela vrba
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:hr
+  cs:
+  - name: Vrba bílá
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:cs
+  da:
+  - name: Hvid-Pil
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:da
+  nl:
+  - name: Schietwilg
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:nl
+  - name: Witte wilg
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+  en:
+  - name: White willow
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+  - name: golden willow
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+  et:
+  - name: Hõberemmelgas
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:et
+  fi:
+  - name: Valkosalava
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:fi
+  - name: valkopaju
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+  fr:
+  - name: Saule blanc
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+  de:
+  - name: Silber-Weide
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:de
+  - name: Silberweide
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+  el:
+  - name: Ιτέα η λευκή
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Fehér fűz
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Saileach bhán
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Salice bianco
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+  lv:
+  - name: Baltais vītols
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Baltasis gluosnis
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:lt
+  pl:
+  - name: Wierzba biała
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:pl
+  pt:
+  - name: Salgueiro-branco
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:pt
+  ro:
+  - name: Salcie albă
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Vŕba biela
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:sk
+  sl:
+  - name: Bela vrba
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:sl
+  es:
+  - name: Sauce blanco
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+  sv:
+  - name: Vitpil
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:sv
+  ru:
+  - name: Ива белая
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:ru
+  uk:
+  - name: Верба біла
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:uk
+  'no':
+  - name: Hvitpil
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:no
+  sr:
+  - name: Бела врба
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  sq:
+  - name: Shelgu i bardhë
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:sq
+  ca:
+  - name: Salze blanc
+    preferred: true
+    sources:
+    - wikidata:Q156918
+    - wikipedia:ca
+  be:
+  - name: Белалоз
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Ak söğüt
+    sources:
+    - wikidata:Q156918
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

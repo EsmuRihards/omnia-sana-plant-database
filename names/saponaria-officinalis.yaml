@@ -1,0 +1,559 @@
+id: saponaria-officinalis
+scientific_name: Saponaria officinalis
+names:
+  bg:
+  - name: Лечебно сапунче
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Обикновено сапунче
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Sapunika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Ljekovita sapunjača
+    sources:
+    - col:catalogue-of-life
+  - name: Obična sapunika
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: mydlice lékařská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q156841
+    - wikipedia:cs
+  da:
+  - name: Almindelig sæbeurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikidata:Q156841
+    - wikipedia:da
+  - name: Sæbeurt
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156841
+  nl:
+  - name: Zeepkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156841
+    - wikipedia:nl
+  - name: gewoon zeepkruid
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  en:
+  - name: Soapwort
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156841
+  - name: Bouncing Bet
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common soapwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q156841
+  - name: Bouncingbet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q156841
+  - name: bouncing-bet
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: Glond
+    sources:
+    - col:catalogue-of-life
+  - name: Cow Foot
+    sources:
+    - col:catalogue-of-life
+  - name: Cow Herb
+    sources:
+    - col:catalogue-of-life
+  - name: Cow Basil
+    sources:
+    - col:catalogue-of-life
+  - name: China Cockle
+    sources:
+    - col:catalogue-of-life
+  - name: Cow Soapwort
+    sources:
+    - col:catalogue-of-life
+  - name: spring cockle
+    sources:
+    - col:catalogue-of-life
+  - name: Bladder Soapwort
+    sources:
+    - col:catalogue-of-life
+  - name: Sweet Betty
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Bouncingbet Soapweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Soapwort, Bouncingbet
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik seebilill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q156841
+    - wikipedia:et
+  fi:
+  - name: Rohtosuopayrtti
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156841
+    - wikipedia:fi
+  - name: suopayrtti
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156841
+  fr:
+  - name: saponaire officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-caryophyllaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156841
+    - wikipedia:fr
+  - name: herbe à savon
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Saponaire officinale, Savonnière, Herbe à savon
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnliches Seifenkraut
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156841
+    - wikipedia:de
+  - name: Echtes Seifenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-caryophyllaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q156841
+  - name: Gebräuchliches Seifenkraut
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q156841
+  - name: Wachwurz
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Seifenwurz
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  el:
+  - name: Στρούθιον
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Καλοστρούθι
+    sources:
+    - col:catalogue-of-life
+  - name: Σαπουνόχορτο
+    sources:
+    - col:catalogue-of-life
+  - name: Αγριογλυκόχορτο
+    sources:
+    - col:catalogue-of-life
+  - name: Της γάτας το σαπούνι
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Orvosi szappanfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:hu
+  ga:
+  - name: Garbhán creagach
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Saponaria comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:info-flora-schweiz-caryophyllaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Ārstniecības ziepjusakne
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Putoklis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:lt
+  - name: Vaistinis putoklis
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Mydlnica lekarska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:pl
+  pt:
+  - name: saboeira
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: saboneira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: saponária
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-saboeira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Erva-sabão
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Săpunăriță
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:ro
+  sk:
+  - name: mydlica lekárska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:sk
+  sl:
+  - name: navadna milnica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:sl
+  es:
+  - name: albata
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: herbada
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Jabonera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: xabonera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: siabuneira
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: flor de jabón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: palo de jabón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: yerba lanaria
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: flor del jabón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: hierba lanaria
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: jabonera común
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: yerba jabonera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: yerba xabonera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: hierba de jabón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: hierba jabonera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: jabonera oficinal
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: yerba de bataneros
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: hierba de bataneros
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: hierba de jaboneros
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: hierba de los jabones
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: hierba de los bataneros
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Saponaria
+    sources:
+    - col:catalogue-of-life
+  - name: erva-saboeira
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: såpnejlika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156841
+    - wikipedia:sv
+  - name: tvålnejlika
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: vanlig såpnejlika
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: rohtosuopayrtti
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Мыльнянка лекарственная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:ru
+  - name: Мыльник
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: myl'njanka lekarstvennaja
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Мильнянка лікарська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Собаче мило лікарське
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: såpeurt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q156841
+    - wikipedia:no
+  sr:
+  - name: Сапуњача
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:sr
+  ca:
+  - name: Herba sabonera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+    - wikipedia:ca
+  - name: Llanaria
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Sabonera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Saboneta
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Sabó de gitana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Herba de bugada
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  - name: Herba de bataners
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156841
+  be:
+  - name: Мыльнік лекавы
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Sabunotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Sabun otu
+    sources:
+    - wikidata:Q156841
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

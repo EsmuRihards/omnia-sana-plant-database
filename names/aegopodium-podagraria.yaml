@@ -1,0 +1,422 @@
+id: aegopodium-podagraria
+scientific_name: Aegopodium podagraria
+names:
+  hr:
+  - name: Podagrasti jarčevac
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: bršlice kozí noha
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q217778
+    - wikipedia:cs
+  - name: bršlice kozí noha BioLib
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: Skvalderkål
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Gul Okseøje
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Zevenblad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q217778
+    - wikipedia:nl
+  en:
+  - name: Ground Elder
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: goutweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Ground-elder
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: bishop's goutweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q217778
+  - name: Ashweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Bishopweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Herb-gerard
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Bishop's-weed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Herb Gerard
+    sources:
+    - col:catalogue-of-life
+  - name: Wild Masterwort
+    sources:
+    - col:catalogue-of-life
+  - name: English Masterwort
+    sources:
+    - col:catalogue-of-life
+  - name: Snow on the Mountain
+    sources:
+    - col:catalogue-of-life
+  - name: Bishops Goutweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik naat
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: vuohenputki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: lehtovuohenputki
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q217778
+  - name: Keltapäivänkakkara
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: égopode podagraire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikipedia:fr
+  - name: podagraire
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q217778
+  - name: Herbe aux goutteux
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: egopode
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Pogagraire
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Égopode podagraire, Podagraire, Herbe aux goutteux, Fausse angélique
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Giersch
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Geissfuss
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Baumtropfen
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: Gewöhnlicher Giersch
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q217778
+  - name: Giersch, Geißfuß
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  el:
+  - name: Αιγοπόδιο το ποδάγριο
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Podagrafű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Lus an easpaig
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Girardina silvestre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: castalda
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Podagras gārsa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Paprastoji garšva
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Podagrycznik pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  - name: Śnitka
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: salsa-rasteira
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: pequena-angélica
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  sk:
+  - name: Kozonoha hostcová
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadna regačica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q217778
+  sv:
+  - name: kirskål
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: kers
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: skvallerkål
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Gullkrage
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sandklint
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Ängsklint
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Svartklint
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: vuohenputki
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Gul kamklint
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Сныть обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Яглиця звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: skvallerkål
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q217778
+    - wikipedia:no
+  - name: Gullkrage
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Greinknoppurt
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Parykk-knoppurt
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: sedmolist
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  bs:
+  - name: Jarčevac
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Geitakál
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Herba de Sant Gerard
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Снітка звычайная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Keçiayağı
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,281 @@
+id: cinnamomum-verum
+scientific_name: Cinnamomum verum
+names:
+  bg:
+  - name: Цейлонско канелено дърво
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: Skořicovník pravý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  en:
+  - name: True Cinnamon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Ceylon cinnamon
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Sri Lanka cinnamon
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: cinnamon
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q370239
+  - name: True cinnamon tree, Ceylon cinnamon tree, Cinnamon, Ceylon cinnamon
+    sources:
+    - gbif:taxref
+    status: needs-review
+  et:
+  - name: Tseiloni kaneelipuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Ceyloninkaneli
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: Cannelier de Ceylan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:fr
+  - name: Cannelier
+    sources:
+    - col:catalogue-of-life
+  - name: Cannellier
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Cannelier, Cannelier de Ceylan
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Ceylon-Zimtbaum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: Zimtbaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Ceylonzimt
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Ceylonzimtbaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: echter Ceylonzimt
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  el:
+  - name: Κανέλα Κεϋλάνης
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Κιννάμωμον το γνήσιον
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Ceyloni fahéjfa
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Cannella
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Cinnamomo
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Ceiloninis cinamonas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Cynamonowiec cejloński
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: canela
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cinamomo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: caneleiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: canela-de-tubo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: canela-da-índia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: canela-do-ceilão
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: canela-verdadeira
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: caneleira-da-índia
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  sk:
+  - name: Škoricovník cejlónsky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Cimetovec
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  - name: cejlonski cimetovec
+    sources:
+    - wikidata:Q370239
+    status: needs-review
+  es:
+  - name: canela
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: canelero de Ceilán
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: äkta kanel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Корица
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Коричник цейлонский
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Кориця
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Kaneltre
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Цимет / Cimet
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Цимет
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Canyeller
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Карычнае дрэва
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: tarçın
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Seylan tarçını
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

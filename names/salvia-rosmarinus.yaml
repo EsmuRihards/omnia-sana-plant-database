@@ -1,0 +1,252 @@
+id: salvia-rosmarinus
+scientific_name: Salvia rosmarinus
+names:
+  bg:
+  - name: Обикновен розмарин
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Ružmarin
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:hr
+  cs:
+  - name: Šalvěj rozmarýna
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  - name: Rozmarýna obecná
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+  - name: Rozmarýn lékařský
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+  - name: Rozmarýna lékařská
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+  da:
+  - name: Rosmarin
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Rozemarijn
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:nl
+  en:
+  - name: Rosemary
+    preferred: true
+    sources:
+    - gbif:taxref
+    - wikidata:Q102240169
+    - wikipedia:en
+  - name: Anthos
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+  et:
+  - name: Harilik rosmariin
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Rosmariini
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:fi
+  - name: Rohtorosmariini
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+  fr:
+  - name: Romarin
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:fr
+  - name: Romarin officinal, Romarin, Sauge romarin
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Rosmarin
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:de
+  el:
+  - name: Δενδρολίβανο
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:el
+  hu:
+  - name: Rozmaring
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Marós
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  lv:
+  - name: Rozmarīns
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Kvapusis rozmarinas
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:lt
+  pl:
+  - name: Rozmaryn lekarski
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:pl
+  pt:
+  - name: Alecrim
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:pt
+  ro:
+  - name: Rozmarin
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Rozmarín lekársky
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:sk
+  sl:
+  - name: Navadni rožmarin
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:sl
+  es:
+  - name: Romero
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+  sv:
+  - name: Rosmarin
+    sources:
+    - wikipedia:sv
+    status: needs-review
+  ru:
+  - name: Розмарин лекарственный
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:ru
+  - name: или Розмарин обыкновенный
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+  uk:
+  - name: Розмарин
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Rosmarin
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Рузмарин
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Ruzmarin
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Rozmarina
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Rósmarín
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Romaní
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:ca
+  tr:
+  - name: Biberiye
+    preferred: true
+    sources:
+    - wikidata:Q102240169
+    - wikipedia:tr
+  - name: Kuşdili
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+  - name: Hasalban
+    sources:
+    - wikidata:Q102240169
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

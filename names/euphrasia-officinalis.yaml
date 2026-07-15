@@ -1,0 +1,193 @@
+id: euphrasia-officinalis
+scientific_name: Euphrasia officinalis
+names:
+  hr:
+  - name: Vidac
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: světlík lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  da:
+  - name: Kalk-øjentrøst
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Læge-øjentrøst
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Beklierde ogentroost
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q17813184
+  en:
+  - name: Eyebright
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: Rostkov's Eyebright
+    sources:
+    - col:catalogue-of-life
+  - name: Eyebright [Euphrasia officinalis]
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:taxref
+  et:
+  - name: Harilik silmarohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: nystysilmäruoho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+  fr:
+  - name: Casse-lunettes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Euphraise de Rostkov
+    sources:
+    - col:catalogue-of-life
+  - name: Euphraise officinale
+    sources:
+    - col:catalogue-of-life
+  - name: Casse lunette
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Euphraise officinale, Casse-lunettes, Petite euphraise
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Augentrost
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q17813184
+  - name: Gemeiner Augentrost
+    sources:
+    - col:catalogue-of-life
+  - name: Gewöhnlicher Augentrost
+    sources:
+    - col:catalogue-of-life
+  - name: Wiesen-Augentrost
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  hu:
+  - name: Orvosi szemvidító
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Eufrasia officinale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Pievinė akišveitė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: świetlik łąkowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: očianka Rostkovova
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: navadna smetlika
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: läkeögontröst
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - wikipedia:sv
+  - name: stor ögontröst
+    sources:
+    - col:catalogue-of-life
+  ru:
+  - name: Очанка лекарственная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sr:
+  - name: Видац
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: gözlük otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

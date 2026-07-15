@@ -1,0 +1,325 @@
+id: prunus-serotina
+scientific_name: Prunus serotina
+names:
+  hr:
+  - name: Kasna sremza
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: střemcha pozdní
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158987
+    - wikipedia:cs
+  da:
+  - name: Glansbladet hæg
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Sildig hæg
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Amerikaanse vogelkers
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - wikidata:Q158987
+    - wikipedia:nl
+  - name: Bospest
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q158987
+  en:
+  - name: Black cherry
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q158987
+  - name: Wild black cherry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Rum cherry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Wild Cherry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Rum Cherry, Black Cherry
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q158987
+  - name: Black Chokecherry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: American bird cherry
+    sources:
+    - wikidata:Q158987
+    status: needs-review
+  et:
+  - name: Hilistoomingas
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Kiiltotuomi
+    preferred: true
+    sources:
+    - wikidata:Q158987
+    - wikipedia:fi
+  fr:
+  - name: Cerisier tardif
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q158987
+  - name: Merisier tardif
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: cerisier d'automne
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: merisier
+    sources:
+    - col:catalogue-of-life
+  - name: Cerisier noir
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Prunier tardif, Cerisier tardif, Cerisier noir, Cerisier d'automne
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Spätblühende Traubenkirsche
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158987
+    - wikipedia:de
+  - name: Späte Trauben-Kirsche
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158987
+  - name: Späte Traubenkirsche
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Herbst-Traubenkirsche
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Herbsttraubenkirsche
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q158987
+  hu:
+  - name: Kései meggy
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  - name: kései zelnicemeggy
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  it:
+  - name: Pruno autunnale
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: pruno tardivo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Ciliegio tardivo
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lv:
+  - name: vēl
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Vėlyvoji ieva
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Czeremcha amerykańska
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:pl
+  pt:
+  - name: Cerejeira-negra
+    sources:
+    - wikipedia:pt
+    status: needs-review
+  sl:
+  - name: Pozna čremsa
+    preferred: true
+    sources:
+    - wikidata:Q158987
+    - wikipedia:sl
+  es:
+  - name: Capulin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Cerezo Americano
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: capulín
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: glanshägg
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  ru:
+  - name: Черёмуха поздняя
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Черемха пізня
+    sources:
+    - wikidata:Q158987
+    status: needs-review
+  'no':
+  - name: romhegg
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Касна сремза
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Gljáheggur
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Cirerer americà
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  tr:
+  - name: Kara kiraz
+    sources:
+    - wikidata:Q158987
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,286 @@
+id: hyssopus-officinalis
+scientific_name: Hyssopus officinalis
+names:
+  bg:
+  - name: Лечебен исоп
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Ljekoviti sipan
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: yzop lékařský
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q137931
+    - wikipedia:cs
+  da:
+  - name: Ægte isop
+    preferred: true
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Hyssop
+    preferred: true
+    sources:
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q137931
+    - wikipedia:nl
+  - name: hysop
+    sources:
+    - wikidata:Q137931
+    status: needs-review
+  en:
+  - name: Hyssop
+    preferred: true
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q137931
+  - name: common hyssop
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  - name: Garden Hyssop
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: Harilik iisop
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: iisoppi
+    preferred: true
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q137931
+    - wikipedia:fi
+  - name: rohtoiisoppi
+    sources:
+    - wikidata:Q137931
+    status: needs-review
+  fr:
+  - name: Hysope
+    preferred: true
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q137931
+    - wikipedia:fr
+  - name: Hysope officinale
+    sources:
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: hissope
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  - name: Hysope officinale, Hysope, Herbe sacrée
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Ysop
+    preferred: true
+    sources:
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - wikidata:Q137931
+    - wikipedia:de
+  - name: Echter Ysop
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q137931
+  - name: Arznei-Ysop
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  - name: Gewöhnlicher Ysop
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  el:
+  - name: Ύσσωπος ο φαρμακευτικός
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Kerti izsóp
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  ga:
+  - name: Íosóip
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  - name: íosóip íceach
+    sources:
+    - wikidata:Q137931
+    status: needs-review
+  it:
+  - name: Issopo
+    preferred: true
+    sources:
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Dracocephalum officinale
+    sources:
+    - wikipedia:it
+    status: needs-review
+  lv:
+  - name: Ārstniecības izops
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Vaistinis isopas
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  - name: Vasitinis yzopas
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Hyzop lekarski
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:pl
+  pt:
+  - name: hissopo
+    preferred: true
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: alfazema-de-caboclo
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    status: needs-review
+  es:
+  - name: hisopo
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  sv:
+  - name: isop
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikidata:Q137931
+    - wikipedia:sv
+  - name: iisoppi
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Иссоп лекарственный
+    preferred: true
+    sources:
+    - wikidata:Q137931
+    - wikipedia:ru
+  uk:
+  - name: Гісоп лікарський
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: isop
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Милодух
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Sajolida borda
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Ісоп лекавы
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Zufa
+    sources:
+    - wikipedia:tr
+    status: needs-review
+  - name: zufa otu
+    sources:
+    - wikidata:Q137931
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,346 @@
+id: agrimonia-eupatoria
+scientific_name: Agrimonia eupatoria
+names:
+  bg:
+  - name: Лечебен камшик
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  - name: Камшик
+    sources:
+    - wikidata:Q156865
+    status: needs-review
+  hr:
+  - name: Obična turica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  - name: Turica
+    sources:
+    - wikidata:Q156865
+    status: needs-review
+  cs:
+  - name: Řepík lékařský
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:cs
+  da:
+  - name: Almindelig agermåne
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156865
+    - wikipedia:da
+  nl:
+  - name: Gewone agrimonie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156865
+    - wikipedia:nl
+  en:
+  - name: Agrimony
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156865
+  - name: Medicinal Agrimony
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q156865
+  - name: church-steeples
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: European agrimony
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: European grooveburr
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Churchsteeples
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q156865
+  - name: Common agrimony
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: Harilik maarjalepp
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:et
+  fi:
+  - name: maarianverijuuri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156865
+    - wikipedia:fi
+  fr:
+  - name: Aigremoine eupatoire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q156865
+    - wikipedia:fr
+  - name: Aigremoine
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Aigremoine eupatoire, Francormier
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gemeiner Odermennig
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - wikidata:Q156865
+    - wikipedia:de
+  - name: Kleiner Odermennig
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156865
+  - name: Odermennig
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q156865
+  - name: Gewöhnlicher Odermennig
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  el:
+  - name: Αγριμόνια
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:el
+  hu:
+  - name: Közönséges párlófű
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:hu
+  ga:
+  - name: Marbhdhraighean
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Agrimonia comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Eupatoria
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  - name: Agrimonio
+    sources:
+    - wikidata:Q156865
+    status: needs-review
+  lv:
+  - name: Ārstniecības ancītis
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:lv
+  lt:
+  - name: Vaistinė dirvuolė
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:lt
+  pl:
+  - name: Rzepik pospolity
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:pl
+  pt:
+  - name: Agrimônia comum
+    sources:
+    - wikidata:Q156865
+    status: needs-review
+  ro:
+  - name: Turiță mare
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  - name: Turița mare
+    sources:
+    - wikidata:Q156865
+    status: needs-review
+  sk:
+  - name: Repík lekársky
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:sk
+  sl:
+  - name: Navadni repik
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:sl
+  es:
+  - name: Hierba de San Guillermo
+    sources:
+    - wikidata:Q156865
+    status: needs-review
+  sv:
+  - name: småborre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156865
+    - wikipedia:sv
+  - name: vanlig småborre
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: maarianverijuuri
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Репешок обыкновенный
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:ru
+  - name: repejniček aptechnyĭ
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Парило звичайне
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:uk
+  'no':
+  - name: åkermåne
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: aaker-menni
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Петровац
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:sr
+  is:
+  - name: Akurmáni
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Herba de la sang
+    preferred: true
+    sources:
+    - wikidata:Q156865
+    - wikipedia:ca
+  be:
+  - name: Дзядкі аптэчныя
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Adi kızılyaprak
+    sources:
+    - wikidata:Q156865
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

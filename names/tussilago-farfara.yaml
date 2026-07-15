@@ -1,0 +1,474 @@
+id: tussilago-farfara
+scientific_name: Tussilago farfara
+names:
+  bg:
+  - name: Обикновен подбел
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hr:
+  - name: Podbjel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Bjelokopitnjak
+    sources:
+    - col:catalogue-of-life
+  - name: Konjsko kopito
+    sources:
+    - col:catalogue-of-life
+  cs:
+  - name: podběl lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26302
+    - wikipedia:cs
+  da:
+  - name: Følfod
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Almindelig Følfod
+    sources:
+    - col:catalogue-of-life
+  - name: Almindelig buskpotentil
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Klein hoefblad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q26302
+    - wikipedia:nl
+  en:
+  - name: Coltsfoot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q26302
+  - name: coughwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Colts-foot
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Colt's-Foot
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: colt’s-foot
+    sources:
+    - col:catalogue-of-life
+  - name: Clayweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Dovedock
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Horse-hoof
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Ginger Root
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Tussilago
+    sources:
+    - wikipedia:en
+    status: needs-review
+  et:
+  - name: Paiseleht
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: leskenlehti
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q26302
+    - wikipedia:fi
+  - name: Sikoangervo
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Aitaorapihlaja
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Pensashanhikki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Tussilage
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q26302
+    - wikipedia:fr
+  - name: Pas d'ane
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: pas-d'âne
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: tussilage farfara
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: tussilage pas-d'âne
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Tussilage commun
+    sources:
+    - col:catalogue-of-life
+  - name: tussilage pas-d’âne
+    sources:
+    - col:catalogue-of-life
+  - name: pas d'âne
+    sources:
+    - wikidata:Q26302
+    status: needs-review
+  - name: Tussilage pas-d'âne, Tussilage, Pas-d'âne, Herbe de Saint-Quirin
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Huflattich
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-asteraceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q26302
+    - wikipedia:de
+  - name: Zytroeseli
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  el:
+  - name: Βήχιο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:el
+  hu:
+  - name: Martilapu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: lókörmű martilapu
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Sponc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Tossilagine comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Farfara
+    sources:
+    - col:catalogue-of-life
+  - name: Tossilaggine comune
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Māllēpe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  - name: Parastā māllēpe
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Ankstyvasis šalpusnis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Podbiał pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: tussilagem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: unha-de-cavalo
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Podbal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  sk:
+  - name: podbeľ liečivý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Podbeľ
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Navadni lapuh
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sl
+  es:
+  - name: Espatas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: fárfara
+    sources:
+    - col:catalogue-of-life
+  - name: Tussilago
+    sources:
+    - wikipedia:es
+    status: needs-review
+  sv:
+  - name: hästhov
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: tussilago
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Tok
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Brudbröd
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: leskenlehti
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Rysk vittok
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Jätteälggräs
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Kanadahagtorn
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sibirsk hagtorn
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Мать-и-мачеха
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Мать-и-мачеха обыкновенная
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Підбіл звичайний
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Підбіл звичайний (Мати-й-мачуха)
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: hestehov
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: skrep
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: skreppe
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Buskmure
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: leer-skrep
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Knollmjødurt
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Подбел
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Podbjel
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Thundërmushkë
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  is:
+  - name: Hóffífill
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:is
+  ca:
+  - name: Pota de cavall
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  be:
+  - name: Падбел
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  - name: Падбел звычайны
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Öksürük otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:divri-i-kars-georgia-border-railway-line
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

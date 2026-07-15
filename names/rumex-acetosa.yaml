@@ -1,0 +1,369 @@
+id: rumex-acetosa
+scientific_name: Rumex acetosa
+names:
+  bg:
+  - name: Киселец
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Velika kiselica
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Šťovík kyselý
+    preferred: true
+    sources:
+    - wikidata:Q26297
+    - wikipedia:cs
+  da:
+  - name: Almindelig syre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Veldzuring
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q26297
+    - wikipedia:nl
+  en:
+  - name: Common Sorrel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q26297
+  - name: garden sorrel
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+  - name: sorrel
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikipedia:en
+  - name: sour dock
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: sorrel dock
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+  - name: green sorrel
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: meadow sorrel
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Garden Dock
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+  et:
+  - name: Hapu oblikas
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: niittysuolaheinä
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q26297
+    - wikipedia:fi
+  fr:
+  - name: Oseille commune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikipedia:fr
+  - name: Rumex oseille
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-polygonaceae
+    - gbif:info-flora-schweiz-polygonaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: grande oseille
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: oseille sauvage
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q26297
+  - name: Oseille des prés
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Surette
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-polygonaceae
+    - gbif:info-flora-schweiz-polygonaceae
+  - name: oseille de prés
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: patience grande oseille
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Patience oseille, Oseille des prés, Rumex oseille, Grande oseille, Oseille commune, Surelle
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Wiesen-Sauerampfer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-polygonaceae
+    - gbif:info-flora-schweiz-polygonaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Wiesensauerampfer
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Großer Sauer-Ampfer
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Wiesen-Sauer-Ampfer
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q26297
+  hu:
+  - name: Mezei sóska
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Samhadh
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Erba brusca
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-polygonaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-polygonaceae
+  - name: romice acetosa
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: acetosa
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Romice acetosa, Erba brusca
+    sources:
+    - gbif:flora-helvetica-polygonaceae
+    - gbif:info-flora-schweiz-polygonaceae
+  lv:
+  - name: Pļavas skābene
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Valgomoji rūgštynė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Szczaw zwyczajny
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: azedinha
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: azeda-brava
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: azeda-miúda
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: lingua-de-vaca
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Măcriș
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Štiav lúčny
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Navadna kislica
+    preferred: true
+    sources:
+    - wikidata:Q26297
+    - wikipedia:sl
+  es:
+  - name: acedera común
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: ängssyra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: niittysuolaheinä
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Щавель кислый
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Щавель кислий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: engsyre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:no
+  - name: matsyre
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  - name: syre
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: vanleg engsyre
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: vanlig engsyre
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Кисељак
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  sq:
+  - name: Lëpjeta
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Túnsúra
+    sources:
+    - wikipedia:is
+    status: needs-review
+  be:
+  - name: Шчаўе кіслае
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

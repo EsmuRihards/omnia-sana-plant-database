@@ -1,0 +1,340 @@
+id: theobroma-cacao
+scientific_name: Theobroma cacao
+names:
+  bg:
+  - name: Какаово дърво
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Kakaovac
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Kakaovník pravý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Kakao
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Cacao
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Cacaoboom
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:nl
+  en:
+  - name: Cacao
+    preferred: true
+    sources:
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q42385
+  - name: Cocoa
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:grin-taxonomy
+  - name: Chocolate tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+  - name: cacao tree
+    sources:
+    - col:catalogue-of-life
+  - name: cocoa tree
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Harilik kakaopuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Kaakaopuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: Cacaoyer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - wikipedia:fr
+  - name: Cacao, Cacaoyer
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kakaobaum
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: Kakaopflanze
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: echter Kakaobaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  el:
+  - name: Κακαόδεντρο
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Kakaó
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Crann cacó
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  lv:
+  - name: Kakaokoks
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Tikrasis kakavmedis
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Kakaowiec właściwy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: cacau
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikipedia:pt
+  - name: cacau-da-mata
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cacaoeiro
+    sources:
+    - col:catalogue-of-life
+  - name: cacaueiro
+    sources:
+    - col:catalogue-of-life
+  - name: Cacau-verdadeiro
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Arborele de cacao
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Kakaovník obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Kakavovec
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  - name: kakav
+    sources:
+    - wikidata:Q42385
+    status: needs-review
+  es:
+  - name: cacaotero
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: forastero
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: calabacillo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: árbol del cacao
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Cacao
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Kakau
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Tsi’e
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Cacavo
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Bikinka
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Tepenka
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Chocolate
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Puka cacao
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Runa cacao
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Kope moenka
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Kopemowenka
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Sacha cacao
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Cacao de monte
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  - name: Tepenka wenana
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    status: needs-review
+  sv:
+  - name: kakao
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  - name: Kakaoträd
+    sources:
+    - col:catalogue-of-life
+  ru:
+  - name: Какао
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Какао
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Kakaotre
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Какаовац
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sr
+  bs:
+  - name: Kakaovac
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Kakó
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Cacau
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Какава
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Kakao
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

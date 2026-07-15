@@ -1,0 +1,729 @@
+id: plantago-major
+scientific_name: Plantago major
+names:
+  bg:
+  - name: Широколистен живовляк
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Veliki trputac
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  - name: Trputac
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  cs:
+  - name: Jitrocel větší
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:cs
+  da:
+  - name: Glat vejbred
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q157154
+    - wikipedia:da
+  nl:
+  - name: Getande weegbree en grote weegbree
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q157154
+  - name: Grote en Getande weegbree
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q157154
+  - name: Grote + Getande weegbree
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+  - name: Groot weegbree
+    sources:
+    - col:catalogue-of-life
+  - name: Grote weegbree
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Plantago major subsp. major
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  en:
+  - name: Greater Plantain
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q157154
+  - name: broadleaf plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q157154
+  - name: common plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:world-register-of-marine-species
+    - wikidata:Q157154
+  - name: Plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Large Plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Ratstail Plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: broad-leaved plantain
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Great Plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:world-register-of-marine-species
+  - name: Buckhorn Plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Rippleseed Plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Grand Plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Whiteman's-foot
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Nipple-seed Plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Ripple-seed Plantain
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: white man's foot
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  et:
+  - name: Suur teeleht
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:et
+  fi:
+  - name: piharatamo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q157154
+    - wikipedia:fi
+  fr:
+  - name: Grand Plantain
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-plantaginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q157154
+    - wikipedia:fr
+  - name: plantain majeur
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q157154
+  - name: plantain à larges feuilles
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q157154
+  - name: plantain à grandes feuilles
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Plantain officinal
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Plantain majeur, Gros plantain, Grand plantain
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Plantain élevé, Plantain majeur, Grand plantain, Plantain à bouquet
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Breitwegerich
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q157154
+    - wikipedia:de
+  - name: Breit-Wegerich
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q157154
+  - name: Wegtritt
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Mausöhrle
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Saurüssel
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Wegeblatt
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Wegebreit
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Wegetrene
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Rippenblatt
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Großer Wegerich
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  - name: Breit-Wegerich (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  hu:
+  - name: Nagy útifű
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:hu
+  ga:
+  - name: Cuach Phádraig
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Piantaggine maggiore
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-plantaginaceae
+    - gbif:info-flora-schweiz-plantaginaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q157154
+  lv:
+  - name: Lielā ceļteka
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:lv
+  lt:
+  - name: Plačialapis gyslotis
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:lt
+  pl:
+  - name: Babka zwyczajna
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:pl
+  - name: babka większa
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Plantago maior
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: babka szerokolistna
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  pt:
+  - name: tanchagem-maior
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikidata:Q157154
+  - name: tanchagem
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q157154
+  - name: plantagem
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: lantana-maior
+    sources:
+    - col:catalogue-of-life
+  - name: taiova
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: tanchá
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: transagem
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: orelha de veado
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  sk:
+  - name: skorocel väčší
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  sl:
+  - name: veliki trpotec
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  es:
+  - name: Llantén Major
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q157154
+  - name: llantén
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q157154
+  - name: llantén común
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q157154
+  - name: mijo
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: mill
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: grana
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: lanté
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: lantel
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: lantén
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: lentel
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: lentén
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llanté
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: pelusa
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: yantén
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: yentén
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: alpiste
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: ballico
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: cañamón
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantel
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llanten
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: plantaje
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: pelosilla
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: plantaina
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: rompisaco
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: setecostas
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: cinco venas
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: sietenervios
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: hoja de lanté
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantel mayor
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llanten mayor
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: LLantén mayor
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: pan de pájaro
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: siete nervios
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: hoja del antel
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantén blanco
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantén grande
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: rabos de ratón
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: lengua de oveja
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantén de agua
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantén mediano
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: oreja de liebre
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: lantel del gordo
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: lengua de carnero
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: resbala-muchachos
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantén blanquecino
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantén de hoja ancha
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: llantén de hojas anchas
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: hierba de las siete venas
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: hierba de las siete costillas
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  sv:
+  - name: groblad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q157154
+    - wikipedia:sv
+  - name: Grodblad
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Groblacka
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Läkeblacka
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: piharatamo
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Gårdsgroblad
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Läkeblackeblad
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  ru:
+  - name: Подорожник большой
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:ru
+  - name: podorožnik bol'šoj
+    sources:
+    - col:catalogue-of-life
+  - name: Подорожник больший
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  uk:
+  - name: Подорожник великий
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:uk
+  - name: Plantae major
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  - name: Plantago borysthenica
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  'no':
+  - name: groblad
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q157154
+    - wikipedia:no
+  - name: groreblad
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: grore-blaake
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Женска боквица
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:sr
+  - name: Plantago maior
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  bs:
+  - name: Širokolisna bokvica
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Græðisúra
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:is
+  ca:
+  - name: Plantatge gros
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:ca
+  - name: Plantatge
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+  be:
+  - name: Трыпутнік вялікі
+    preferred: true
+    sources:
+    - wikidata:Q157154
+    - wikipedia:be
+  tr:
+  - name: Sinirotu
+    sources:
+    - wikipedia:tr
+    status: needs-review
+  - name: Büyük sinirli ot
+    sources:
+    - wikidata:Q157154
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

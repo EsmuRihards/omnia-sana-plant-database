@@ -1,0 +1,406 @@
+id: thymus-vulgaris
+scientific_name: Thymus vulgaris
+names:
+  hr:
+  - name: Vrtni timijan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  cs:
+  - name: tymián obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+    - wikipedia:cs
+  - name: mateřídouška obecná
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+  - name: tymián
+    sources:
+    - col:catalogue-of-life
+  - name: mateřidouška obecná (tymián)
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Have-timian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q148668
+  - name: Havetimian
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Echte tijm
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q148668
+    - wikipedia:nl
+  en:
+  - name: Thyme
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q148668
+  - name: Common thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q148668
+  - name: Garden thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q148668
+  - name: English Thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q148668
+  - name: common-thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: garden-thyme
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  et:
+  - name: Aed-liivatee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+    - wikipedia:et
+  - name: tüümian
+    sources:
+    - col:catalogue-of-life
+  fi:
+  - name: timjami
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q148668
+    - wikipedia:fi
+  - name: tarha-ajuruoho
+    sources:
+    - wikidata:Q148668
+    status: needs-review
+  - name: tarha-ajuruoho, timjami
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  fr:
+  - name: Thym Commun
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q148668
+  - name: Frigoule
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q148668
+  - name: Farigoule
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q148668
+  - name: Thym des jardins
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: thym
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: thym cultivé
+    sources:
+    - col:catalogue-of-life
+  - name: Thym commun, Thym
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Thym commun, Farigoule
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Thymian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q148668
+    - wikipedia:de
+  - name: Garten-Thymian
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Thymian
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Gewuerz-Thymian
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Gewürz-Thymian
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Echter Thymian, Gewürz-Thymian
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  el:
+  - name: Θυμάρι
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: kerti kakukkfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  it:
+  - name: Timo maggiore
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: timo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Timiāns
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+  - name: Parastais mārsils
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Vaistinis čiobrelis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+    - wikipedia:lt
+  pl:
+  - name: Macierzanka tymianek
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+    - wikipedia:pl
+  - name: Tymianek właściwy
+    sources:
+    - col:catalogue-of-life
+  - name: Macierzanka zwyczajna
+    sources:
+    - col:catalogue-of-life
+  pt:
+  - name: tomilho
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikidata:Q148668
+  - name: poejo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Cimbru de câmp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+    - wikipedia:ro
+  sk:
+  - name: Dúška tymianová
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  - name: materina dúška obyčajná
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: vrtna materina dušica
+    sources:
+    - wikidata:Q148668
+    status: needs-review
+  es:
+  - name: Tomillo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q148668
+  - name: Tomillo Común
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q148668
+  - name: Tomillo limonero
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+  sv:
+  - name: kryddtimjan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q148668
+    - wikipedia:sv
+  - name: trädgårdstimjan
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: timjan
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: tarha-ajuruoho, timjami
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Тимьян обыкновенный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Чебрець садовий
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: kryddertimian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  sr:
+  - name: Тимијан
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Farigola
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q148668
+    - wikipedia:ca
+  - name: timó
+    sources:
+    - col:catalogue-of-life
+  - name: Tomell
+    sources:
+    - wikidata:Q148668
+    status: needs-review
+  be:
+  - name: Чабор звычайны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

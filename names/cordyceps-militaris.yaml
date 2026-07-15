@@ -1,0 +1,163 @@
+id: cordyceps-militaris
+scientific_name: Cordyceps militaris
+names:
+  bg:
+  - name: Обикновена рача нога
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: housenice červená
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q2118699
+    - wikipedia:cs
+  da:
+  - name: Puppe-Snyltekølle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Rupsendoder
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q2118699
+    - wikipedia:nl
+  en:
+  - name: Scarlet Caterpillarclub
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Scarlet Caterpillar Fungus
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Scarlet Caterpillar Club
+    sources:
+    - gbif:checklist-of-vermont-fungi
+    - gbif:checklist-of-vermont-species
+  et:
+  - name: Harilik kedristõlvik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: punaloisikka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q2118699
+  fr:
+  - name: Cordyceps militaire
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxref
+  de:
+  - name: Puppen-Kernkeule
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  hu:
+  - name: Vörös rovarrontógomba
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  lv:
+  - name: Kara milnene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Karingasis kordicepsas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Maczużnik bojowy
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  sl:
+  - name: kokonov glavatec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q2118699
+    - wikipedia:sl
+  sv:
+  - name: Röd larvklubba
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sv
+  ru:
+  - name: Кордицепс военный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Кордицепс військовий
+    sources:
+    - gbif:red-list-of-flora-and-fauna-of-kyiv-regi
+    status: needs-review
+  'no':
+  - name: rød åmeklubbe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

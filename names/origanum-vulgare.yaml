@@ -1,0 +1,653 @@
+id: origanum-vulgare
+scientific_name: Origanum vulgare
+names:
+  bg:
+  - name: Обикновен риган
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:bg
+  - name: риган
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  hr:
+  - name: Divlji mažuran
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Obični mravinac
+    sources:
+    - col:catalogue-of-life
+  - name: Origano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Mravinac
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Origanum hirtum
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Cunila gallinacean
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  cs:
+  - name: dobromysl obecná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:cs
+  - name: oregáno
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: dobromysl
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  da:
+  - name: Almindelig merian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikidata:Q134283
+    - wikipedia:da
+  - name: Merian
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Vild merian
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikidata:Q134283
+  - name: Oregano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  nl:
+  - name: Wilde marjolein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q134283
+    - wikipedia:nl
+  - name: Oregano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  en:
+  - name: Oregano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q134283
+    - wikipedia:en
+  - name: Wild marjoram
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q134283
+  - name: winter sweet
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  et:
+  - name: Harilik pune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:et
+  - name: Oregano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Pune
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Vorstirohi
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  fi:
+  - name: mäkimeirami
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q134283
+    - wikipedia:fi
+  - name: Meirami
+    sources:
+    - col:catalogue-of-life
+  - name: Oregano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  fr:
+  - name: Origan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q134283
+    - wikipedia:fr
+  - name: Marjolaine
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Origan commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:taxref
+  - name: origan vulgaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: majorlaine-sauvage
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Marjolaine sauvage
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Origan commun, Marjolaine sauvage
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Oregano
+    preferred: true
+    sources:
+    - wikidata:Q134283
+    - wikipedia:de
+  - name: Gewöhnlicher Dost
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q134283
+  - name: Echter Dost
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q134283
+  - name: Wilder Majoran
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - wikidata:Q134283
+  - name: Artengruppe Gewöhnlicher Dost
+    sources:
+    - col:catalogue-of-life
+  - name: Dost
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q134283
+  - name: Origano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Dostenkraut
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Gemeiner Dost
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  el:
+  - name: Ρίγανη
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:el
+  - name: Ορίγανον το κοινόν
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Szurokfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:hu
+  - name: közönséges szurokfű
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Máirtín fiáin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Origano comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  lv:
+  - name: Parastā raudene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:lv
+  lt:
+  - name: Paprastasis raudonėlis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:lt
+  mt:
+  - name: Riegnu
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pl:
+  - name: Lebiodka pospolita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:pl
+  - name: Oregano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  pt:
+  - name: orégano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q134283
+    - wikipedia:pt
+  - name: Orégão
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+  - name: manjerona-selvagem
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Oregano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: hissopo
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: orégãos
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  ro:
+  - name: Oregano
+    preferred: true
+    sources:
+    - wikidata:Q134283
+    - wikipedia:ro
+  - name: sovîrv
+    sources:
+    - col:catalogue-of-life
+  - name: Sovârf
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Șovârf
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Șovârv
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  sk:
+  - name: pamajorán obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:sk
+  sl:
+  - name: navadna dobra misel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:sl
+  - name: Origano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Dobra misel
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  es:
+  - name: Orégano del Mediterráneo
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: orégano
+    sources:
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q134283
+  - name: orenga
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: órgano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: urégano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: oreganín
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: oriégano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: perigüel
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: uriégano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: uriéganu
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: furiégano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: orégano nano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: orégano común
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: orégano turco
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: orégano trenzado
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: mejorana silvestre
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  sv:
+  - name: Oregano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q134283
+  - name: kungsmynta
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q134283
+    - wikipedia:sv
+  - name: dosta
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q134283
+  - name: konig
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q134283
+  - name: vildmejram
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q134283
+  - name: vild mejram
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q134283
+  - name: Koning
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Frimodig
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: mäkimeirami
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Душица обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:ru
+  - name: Орегано
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+  - name: Душница
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: Мацердушка
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  uk:
+  - name: Материнка звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:uk
+  - name: Орегано
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  'no':
+  - name: bergmynte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q134283
+    - wikipedia:no
+  - name: kung
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikidata:Q134283
+  - name: Kungsgras
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: klev-humle
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Kongsgress
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  - name: skar-mynte
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: skov-mynte
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: vild-mynte
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Origanum vulgáre
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  sr:
+  - name: Вранилова трава
+    preferred: true
+    sources:
+    - wikidata:Q134283
+    - wikipedia:sr
+  - name: Оригано
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  bs:
+  - name: Origano
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:bs
+  sq:
+  - name: Rigoni
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:sq
+  ca:
+  - name: Orenga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:ca
+  - name: Orégano
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  be:
+  - name: Мацярдушка звычайная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:be
+  - name: Мацярдушка
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+  tr:
+  - name: Keklik otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q134283
+    - wikipedia:tr
+  - name: Güvey otu
+    sources:
+    - wikidata:Q134283
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

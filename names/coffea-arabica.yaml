@@ -1,0 +1,280 @@
+id: coffea-arabica
+scientific_name: Coffea arabica
+names:
+  bg:
+  - name: Арабско кафе
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  cs:
+  - name: Kávovník arabský
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Arabicakaffe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Kaffe
+    sources:
+    - col:catalogue-of-life
+  nl:
+  - name: Arabicakoffie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Arabica-koffie
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Coffee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:world-register-of-marine-species
+  - name: Arabica Coffee
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: coffeetree
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: coffee-tree
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Kona Coffee
+    sources:
+    - col:catalogue-of-life
+  - name: Arabian coffee
+    sources:
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q47685
+  - name: Arabica coffee, Arabian coffee, Coffee tree, Coffee,
+    sources:
+    - gbif:taxref
+    status: needs-review
+  et:
+  - name: Araabia kohvipuu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Arabiankahvi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:fi
+  fr:
+  - name: caféier d'Arabie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Caféier
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Café arabica
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Caféier d'Arabie, Café, Café d'Arabie
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Arabica-Kaffee
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:de
+  - name: Bergkaffee
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Arabicakaffee
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: arabischer Kaffeebaum
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: arabischer Kaffeestrauch
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Kaffeestrauch
+    sources:
+    - gbif:grin-taxonomy
+    status: needs-review
+  el:
+  - name: Καφές Kafes
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Arab kávé
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Caffè
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Pianta del caffè
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Arabinis kavamedis
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Kawa arabska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: café
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cafeeiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: caféeiro
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: café-arábica
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: arabian-coffee
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cafeiro
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: Kávovník arabský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Arabski kavovec
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: cafeto arábico
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cafeto de Arabia
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Cafeto
+    sources:
+    - col:catalogue-of-life
+  - name: Cafeto arábigo
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: arabiskt kaffe
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Кофе аравийский
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  - name: Кофе арабика
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Кава аравійська
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Кава арабіка
+    sources:
+    - col:catalogue-of-life
+  - name: Кавове дерево аравійське
+    sources:
+    - col:catalogue-of-life
+  tr:
+  - name: Arap Kahvesi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

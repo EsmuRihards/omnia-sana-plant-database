@@ -1,0 +1,424 @@
+id: oenothera-biennis
+scientific_name: Oenothera biennis
+names:
+  hr:
+  - name: Dvogodišnja pupoljka
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  - name: Noćurak
+    sources:
+    - wikidata:Q157353
+    status: needs-review
+  cs:
+  - name: pupalka dvouletá
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q157353
+    - wikipedia:cs
+  da:
+  - name: Toårig natlys
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Middelste teunisbloem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q157353
+    - wikipedia:nl
+  en:
+  - name: Common Evening-primrose
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q157353
+  - name: Hoary Evening-primrose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Evening-primrose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Lesser Evening Primrose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Yellow Evening-primrose
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: German-rampion
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: king's cureall
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: common evening primrose
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q157353
+  - name: German Rampion
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: King's-cureall
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Evening Primose
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Hoary Eveningprimrose
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Candlestick
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Wild Evening-primrose
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Evening Primrose
+    sources:
+    - wikidata:Q157353
+    status: needs-review
+  et:
+  - name: Kaheaastane kuningakepp
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q157353
+    - wikipedia:et
+  fi:
+  - name: iltahelokki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q157353
+    - wikipedia:fi
+  fr:
+  - name: Onagre bisannuelle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-onagraceae
+    - gbif:info-flora-schweiz-onagraceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q157353
+    - wikipedia:fr
+  - name: herbe aux ânes
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: onagre de Victorin
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Herbe aux anes
+    sources:
+    - gbif:flora-helvetica-onagraceae
+    - gbif:info-flora-schweiz-onagraceae
+  - name: Onagre bisannuelle, Herbe-aux-ânes
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gemeine Nachtkerze
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q157353
+    - wikipedia:de
+  - name: Gewöhnliche Nachtkerze
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Zweijährige Nachtkerze
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Gewoehnliche Zweijaehrige Nachtkerze
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-onagraceae
+    - gbif:info-flora-schweiz-onagraceae
+  - name: Zweijaehrige Nachtkerze
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-onagraceae
+    - gbif:info-flora-schweiz-onagraceae
+  - name: Hochwüchsige Nachtkerze
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Zweijährige Nachtkerze (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  hu:
+  - name: Parlagi ligetszépe
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q157353
+    - wikipedia:hu
+  it:
+  - name: Enagra comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-onagraceae
+    - gbif:info-flora-schweiz-onagraceae
+  - name: Enotera
+    sources:
+    - wikidata:Q157353
+    status: needs-review
+  - name: Enagra commune
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lv:
+  - name: divgadīg
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Dvimetė nakviša
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Wiesiołek dwuletni
+    preferred: true
+    sources:
+    - wikidata:Q157353
+    - wikipedia:pl
+  pt:
+  - name: Canárias
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q157353
+  - name: Zécora
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Prímula
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Onográcea
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Cirio-do-norte
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Erva-dos-burros
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Estrela-da-tarde
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Luminiță
+    preferred: true
+    sources:
+    - wikidata:Q157353
+    - wikipedia:ro
+  sk:
+  - name: Pupalka dvojročná
+    sources:
+    - wikidata:Q157353
+    status: needs-review
+  sl:
+  - name: dvoletni svetlin
+    sources:
+    - wikidata:Q157353
+    status: needs-review
+  es:
+  - name: onagra
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: enotera
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Onagra común
+    sources:
+    - wikidata:Q157353
+    status: needs-review
+  - name: hierba del asno
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: hierba del vino
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: maravilla de Perú
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: nattljus
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q157353
+    - wikipedia:sv
+  - name: gulltrav
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: pricknattljus
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: äkta nattljus
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: vanligt nattljus
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  ru:
+  - name: Ослинник двулетний
+    preferred: true
+    sources:
+    - wikidata:Q157353
+    - wikipedia:ru
+  - name: oslennik dvuchletnyj
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Енотера дворічна
+    preferred: true
+    sources:
+    - wikidata:Q157353
+    - wikipedia:uk
+  'no':
+  - name: nattlys
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  sr:
+  - name: Жути ноћурак
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Bella de nit
+    preferred: true
+    sources:
+    - wikidata:Q157353
+    - wikipedia:ca
+  be:
+  - name: Асліннік двухгадовы
+    preferred: true
+    sources:
+    - wikidata:Q157353
+    - wikipedia:be
+  tr:
+  - name: Eşek otu
+    sources:
+    - wikidata:Q157353
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

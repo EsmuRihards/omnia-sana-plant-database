@@ -1,0 +1,425 @@
+id: gentiana-lutea
+scientific_name: Gentiana lutea
+names:
+  bg:
+  - name: жълта тинтява
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:bg
+  hr:
+  - name: Žuti srčanik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Srčanik
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  cs:
+  - name: hořec žlutý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158572
+    - wikipedia:cs
+  da:
+  - name: Gul Ensian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:da
+  nl:
+  - name: Gele gentiaan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:nl
+  en:
+  - name: Yellow gentian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q158572
+  - name: Bitterwort
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: Great yellow gentian
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q158572
+  - name: centiyane
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: bitter root
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: genciana
+    sources:
+    - wikidata:Q158572
+    status: needs-review
+  et:
+  - name: Kollane emajuur
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: keltakatkero
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158572
+    - wikipedia:fi
+  - name: Keltainen teräsyrtti
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  fr:
+  - name: Gentiane jaune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-gentianaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-gentianaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158572
+    - wikipedia:fr
+  - name: grande gentiane
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q158572
+  - name: Gentiane des Pyrénées
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: Gentiane jaune, Grande gentiane
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gelber Enzian
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-gentianaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-gentianaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158572
+    - wikipedia:de
+  el:
+  - name: Γεντιάνα
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: Γεντιανή
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: Ωχρή Η κίτρινη
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  hu:
+  - name: Sárga tárnics
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:hu
+  - name: sárga tárnincs
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Genziana maggiore
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-gentianaceae
+    - gbif:info-flora-schweiz-gentianaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158572
+  - name: gentiana gialla maggiore
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Geltonasis gencijonas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:lt
+  pl:
+  - name: Goryczka żółta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:pl
+  pt:
+  - name: genciana-amarela
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: genciana
+    sources:
+    - col:catalogue-of-life
+  - name: Genciana-dos-Cervunais
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Ghințură galbenă
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:ro
+  sk:
+  - name: horec žltý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  sl:
+  - name: Rumeni svišč
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:sl
+  - name: košutnik
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: rumeni košutnik
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: cenjana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: gengiba
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: gonzana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: junzana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: unciana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: xonzana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: funciana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: gensiana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: gonciana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: janciana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: janzaina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: junciana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: sanzaina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: agenciana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: chanzaina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: sianzaina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: xaranzana
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: genciana mayor
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: quina de Europa
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: genciana amarilla
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: genciana rastrera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: gengiba de Jarava
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: genciana
+    sources:
+    - wikidata:Q158572
+    status: needs-review
+  - name: xanzaina
+    sources:
+    - wikidata:Q158572
+    status: needs-review
+  sv:
+  - name: gullgentiana
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikidata:Q158572
+    - wikipedia:sv
+  ru:
+  - name: Горечавка жёлтая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:ru
+  - name: Горечавка желтая
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  uk:
+  - name: Тирлич жовтий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:list-of-algae-fungi-and-plant-species-in
+    - gbif:list-of-representatives-of-fauna-and-flo
+    - wikidata:Q158572
+    - wikipedia:uk
+  'no':
+  - name: gulsøte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  sr:
+  - name: жута линцура
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:sr
+  bs:
+  - name: Lincura
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  ca:
+  - name: Genciana groga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+    - wikipedia:ca
+  tr:
+  - name: Sarı Censiyan
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+  - name: Sarı centiyan
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158572
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

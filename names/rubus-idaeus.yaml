@@ -1,0 +1,390 @@
+id: rubus-idaeus
+scientific_name: Rubus idaeus
+names:
+  bg:
+  - name: Малина
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:bg
+  hr:
+  - name: Malina
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:hr
+  cs:
+  - name: Ostružiník maliník
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:cs
+  da:
+  - name: Hindbær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Almindelig hindbær
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - wikidata:Q12252383
+  nl:
+  - name: Framboos
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q12252383
+    - wikipedia:nl
+  en:
+  - name: Red raspberry
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Raspberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q12252383
+  - name: Wild Red Raspberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Red Raspberry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Western Red Raspberry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: American Red Raspberry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Raspberry, Red Raspberry
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European Raspberry
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Vaarikas
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:et
+  fi:
+  - name: vadelma
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q12252383
+    - wikipedia:fi
+  - name: punavadelma
+    sources:
+    - wikidata:Q12252383
+    status: needs-review
+  fr:
+  - name: Framboisier
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-rosaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q12252383
+    - wikipedia:fr
+  - name: framboise
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q12252383
+  - name: framboisier rouge
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: ronce du mont Ida
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: ronce Framboisier
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Framboisier, Ronce du mont Ida
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Ronce framboisier, Framboisier
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Himbeere
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-rosaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q12252383
+    - wikipedia:de
+  el:
+  - name: Σμέουρο
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:el
+  hu:
+  - name: Málna
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:hu
+  it:
+  - name: Lampone
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q12252383
+  - name: Frambos
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-rosaceae
+    - gbif:info-flora-schweiz-rosaceae
+  lv:
+  - name: Meža avene
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:lv
+  lt:
+  - name: Paprastoji avietė
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:lt
+  pl:
+  - name: Malina właściwa
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:pl
+  pt:
+  - name: framboesa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q12252383
+  - name: framboeseira
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: framboeseira-comum
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: framboeseira-vermelha
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ro:
+  - name: Zmeur
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:ro
+  sk:
+  - name: ostružina malinová
+    sources:
+    - wikidata:Q12252383
+    status: needs-review
+  sl:
+  - name: Malinjak
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:sl
+  es:
+  - name: chordón
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: frambueso
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Frambuesa
+    sources:
+    - wikidata:Q12252383
+    status: needs-review
+  sv:
+  - name: hallon
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - wikidata:Q12252383
+    - wikipedia:sv
+  - name: vadelma
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Малина обыкновенная
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:ru
+  uk:
+  - name: Малина звичайна
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  - name: Малина
+    sources:
+    - wikidata:Q12252383
+    status: needs-review
+  'no':
+  - name: bringebær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:nordic-crop-wild-relative-priority-list
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q12252383
+    - wikipedia:no
+  - name: bingbær
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Црвена малина
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  - name: Малина
+    sources:
+    - wikidata:Q12252383
+    status: needs-review
+  is:
+  - name: Hindberjaklungur
+    sources:
+    - wikipedia:is
+    status: needs-review
+  - name: Hindber
+    sources:
+    - gbif:nordic-crop-wild-relative-priority-list
+    status: needs-review
+  ca:
+  - name: Gerd
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:ca
+  be:
+  - name: Маліна звычайная
+    preferred: true
+    sources:
+    - wikidata:Q12252383
+    - wikipedia:be
+  - name: Маліна
+    sources:
+    - wikidata:Q12252383
+    status: needs-review
+  tr:
+  - name: Ahududu
+    sources:
+    - wikidata:Q12252383
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

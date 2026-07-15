@@ -1,0 +1,930 @@
+id: stellaria-media
+scientific_name: Stellaria media
+names:
+  bg:
+  - name: Врабчови чревца
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:bg
+  - name: Средна звездица
+    sources:
+    - col:catalogue-of-life
+  hr:
+  - name: Mišjakinja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: Obična mišjakinja
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: ptačinec prostřední
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:cs
+  - name: ptačinec žabinec
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  da:
+  - name: Almindelig fuglegræs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q158711
+    - wikipedia:da
+  - name: Fuglegræs
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: Fuglegræs-Fladstjerne
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  nl:
+  - name: Vogelmuur
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:nl
+  - name: zandhoornbloem
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  en:
+  - name: Chickweed
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Common chickweed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - gbif:world-register-of-marine-species
+    - wikidata:Q158711
+  - name: scarwort
+    sources:
+    - col:catalogue-of-life
+  - name: pamplinas
+    sources:
+    - col:catalogue-of-life
+  - name: Peppergrass
+    sources:
+    - col:catalogue-of-life
+  - name: adder's mouth
+    sources:
+    - col:catalogue-of-life
+  - name: indian chickweed
+    sources:
+    - col:catalogue-of-life
+  - name: Nodding Chickweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Starwort
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Chickweed Starwort
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: little mouse-ear chickweed
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  et:
+  - name: Vesihein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:et
+  fi:
+  - name: pihatähtimö
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158711
+    - wikipedia:fi
+  - name: Vesiheinä
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  fr:
+  - name: Mouron des oiseaux
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-caryophyllaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158711
+  - name: Stellaire intermediaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:info-flora-schweiz-caryophyllaceae
+  - name: stellaire intermédiaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q158711
+  - name: Mouron blanc
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: stellaire moyenne
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Morgeline
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: Stellaire intermédiaire, Mouron, Mouron blanc
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Stellaire intermédiaire, Mouron des oiseaux, Morgeline, Mouron blanc
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnliche Vogelmiere
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158711
+    - wikipedia:de
+  - name: Vogelmiere
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-caryophyllaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158711
+  - name: Vogel-Sternmiere
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q158711
+  - name: Huehnerdarm
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:info-flora-schweiz-caryophyllaceae
+  - name: Gewoehnliche Vogelmiere
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:info-flora-schweiz-caryophyllaceae
+  - name: Hühnerdarm
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: Vogel-Sternmiere, Vogelmiere
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  - name: Vogel-Sternmiere (Artengruppe)
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    status: needs-review
+  hu:
+  - name: Tyúkhúr
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:hu
+  ga:
+  - name: Fliodh
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:ga
+  - name: Fuilig
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Centocchio comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-caryophyllaceae
+    - gbif:info-flora-schweiz-caryophyllaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158711
+  - name: Bellichina
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: Centonchio
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: Erba paperina
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  lv:
+  - name: Parastā virza
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:lv
+  lt:
+  - name: Daržinė žliūgė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:lt
+  pl:
+  - name: Gwiazdnica pospolita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:pl
+  pt:
+  - name: morugem
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q158711
+    - wikipedia:pt
+  - name: hortelã
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: mirurje
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: esparguta
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: esperguta
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: morrião-branco
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-de-passarinho
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: morrião-de-inverno
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: morrião-de-passarinho
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: alsine
+    sources:
+    - col:catalogue-of-life
+  - name: mastruço-do-brejo
+    sources:
+    - col:catalogue-of-life
+  - name: morrião-dos-passarinhos
+    sources:
+    - col:catalogue-of-life
+  - name: merugem
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morugem vulgar
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morugem-branca
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morugem-verdadeira
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  ro:
+  - name: Răcovină
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:ro
+  - name: Racovina
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: hviezdica prostredná
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  sl:
+  - name: navadna zvezdica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:sl
+  es:
+  - name: pamplina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q158711
+  - name: picagallina
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q158711
+  - name: hierba gallinera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: caa piquí
+    sources:
+    - col:catalogue-of-life
+  - name: quilloi-quilloi
+    sources:
+    - col:catalogue-of-life
+  - name: fozón
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: boruja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: coruja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: lirada
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: majura
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: maruja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: marusa
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: meluja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: melujo
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: meruja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: merusa
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: meruxa
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: meruya
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moluja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moraca
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moruca
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moruja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morujo
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morusa
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moruxa
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moruxo
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: muraje
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: muruja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: regaho
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: regajo
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: álsine
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: ameruja
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: berraña
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: la dama
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: lambuco
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: lambujo
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: lapilla
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: marujas
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: marusas
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: melujín
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: merubia
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: merujas
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: merujón
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: merusia
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: miosota
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morusia
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morusín
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moruxia
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moruxón
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: murages
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: murajes
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: picapol
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: pijuelo
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: cloquera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: melugino
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: melujino
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: merugino
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morruges
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: morujina
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: murujina
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: pajarera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: piejuelo
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: regachal
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: gallinera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moruquera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: pamplinas
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: moruquilla
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: gargantilla
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: repipionito
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: ala de monte
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: ala de mosca
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: pica gallina
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: picagallinas
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: oreja de ratón
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: yerba cloquera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: yerba pajarera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: boca de gallina
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: hierba pajarera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: hierba ponedora
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: orejas de ratón
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: yerba gallinera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: hierba canariera
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: tripa de gallina
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: bocado de gallina
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: hierba gallinaria
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: yerba de canarios
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: yerba de las aves
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: hierba de canarios
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: hierba de las aves
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: orejuelas de ratón
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: pamplina de secano
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: pamplina de huertos
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: pamplina de canarios
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: mariquita de invierno
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: yerba de los canarios
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: hierba de los canarios
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  sv:
+  - name: våtarv
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q158711
+    - wikipedia:sv
+  - name: nate
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q158711
+  - name: natagräs
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikidata:Q158711
+  - name: Vassarv
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: Vannarre
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: pihatähtimö
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Звездчатка средняя
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:ru
+  - name: Мокрица
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: Звездчатка мокрица
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Зірочник середній
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:uk
+  'no':
+  - name: vassarve
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q158711
+    - wikipedia:no
+  - name: vas-arv
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Vassarv
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: svinearv
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Mišjakinja
+    preferred: true
+    sources:
+    - wikidata:Q158711
+    - wikipedia:sr
+  - name: Мишјакиња
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  - name: мишњакиња
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  is:
+  - name: Haugarfi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+    - wikipedia:is
+  ca:
+  - name: Morró
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: Morró de canari
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  - name: Burrissol
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  be:
+  - name: Зоркаўка сярэдняя
+    preferred: true
+    sources:
+    - wikidata:Q158711
+    - wikipedia:be
+  - name: Макрыца
+    sources:
+    - wikidata:Q158711
+    status: needs-review
+  tr:
+  - name: Kuşotu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Serçe Dili
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

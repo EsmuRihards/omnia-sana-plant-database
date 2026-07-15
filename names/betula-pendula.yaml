@@ -1,0 +1,455 @@
+id: betula-pendula
+scientific_name: Betula pendula
+names:
+  bg:
+  - name: Бяла бреза
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:bg
+  hr:
+  - name: Obična breza
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:hr
+  cs:
+  - name: bříza bělokorá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:cs
+  da:
+  - name: Vortebirk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  - name: Vorte-birk
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q156895
+  nl:
+  - name: Ruwe berk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q156895
+    - wikipedia:nl
+  - name: Ruwe berk/Zilverberk
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Silver Birch
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q156895
+  - name: European White Birch
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: East Asian White Birch
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Weeping Birch
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: Common Birch
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q156895
+  - name: European Weeping Birch
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: European Birch
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Eurasian Weeping Birch
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Arukask
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:et
+  fi:
+  - name: rauduskoivu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q156895
+    - wikipedia:fi
+  fr:
+  - name: bouleau verruqueux
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q156895
+    - wikipedia:fr
+  - name: Bouleau pendant
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-betulaceae
+    - gbif:info-flora-schweiz-betulaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Bouleau Pleureur
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q156895
+  - name: Bouleau blanc
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-betulaceae
+    - gbif:info-flora-schweiz-betulaceae
+  - name: Bouleau pleureur, Bouleau verruqueux, Boulard
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Hänge-Birke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q156895
+    - wikipedia:de
+  - name: Haenge-Birke
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-betulaceae
+    - gbif:info-flora-schweiz-betulaceae
+  - name: Sandbirke
+    sources:
+    - col:catalogue-of-life
+  - name: Weißbirke
+    sources:
+    - col:catalogue-of-life
+  - name: Hängebirke
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q156895
+  hu:
+  - name: Közönséges nyír
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:hu
+  - name: bibircses nyír
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Beith gheal
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Betulla verrucosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-betulaceae
+    - gbif:info-flora-schweiz-betulaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: betulla
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikidata:Q156895
+  lv:
+  - name: Nokarenais bērzs
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:lv
+  - name: Āra bērzs
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Karpotasis beržas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:lt
+  pl:
+  - name: brzoza brodawkowata
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:pl
+  - name: brzezina
+    sources:
+    - wikidata:Q156895
+    status: needs-review
+  - name: brzoza biała
+    sources:
+    - wikidata:Q156895
+    status: needs-review
+  - name: brzoza gruczołowata
+    sources:
+    - wikidata:Q156895
+    status: needs-review
+  pt:
+  - name: Vidoeiro-branco
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:pt
+  ro:
+  - name: Mesteacăn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+  - name: Mesteacăn argintiu
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: Breza previsnutá
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:sk
+  sl:
+  - name: Navadna breza
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:sl
+  es:
+  - name: Abedul
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q156895
+  - name: Abedul común
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+  sv:
+  - name: vårtbjörk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q156895
+    - wikipedia:sv
+  - name: masurbjörk
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: slöjdbjörk
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: rauduskoivu
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Берёза повислая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:ru
+  - name: Берёза бородавчатая
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Береза повисла
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Береза бородавчаста
+    sources:
+    - col:catalogue-of-life
+  - name: Береза бородавчата
+    sources:
+    - wikidata:Q156895
+    status: needs-review
+  'no':
+  - name: hengebjørk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q156895
+    - wikipedia:no
+  - name: hengjebjørk
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q156895
+    - wikipedia:no
+  - name: hengebjerk
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: vortebjerk
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: vortebjørk
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: (lavlandsbjerk)
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: (lavlandsbjørk)
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  sr:
+  - name: Бела бреза
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+  - name: Обична бреза
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  sq:
+  - name: Mështekna
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Vörtubirki
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:is
+  ca:
+  - name: Bedoll comú
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:ca
+  be:
+  - name: Бяроза павіслая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:be
+  tr:
+  - name: Adi huş
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q156895
+    - wikipedia:tr
+  - name: Huş
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

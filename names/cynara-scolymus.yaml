@@ -1,0 +1,110 @@
+id: cynara-scolymus
+scientific_name: Cynara scolymus
+names:
+  en:
+  - name: Globe artichoke
+    preferred: true
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:world-register-of-marine-species
+    - wikidata:Q134609
+  - name: Artichoke
+    sources:
+    - gbif:world-register-of-marine-species
+    status: needs-review
+  fi:
+  - name: Latva-artisokka
+    sources:
+    - wikidata:Q134609
+    status: needs-review
+  fr:
+  - name: Artichaut
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q134609
+  - name: Artichaut, Artichaut scolyme
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Artischocke
+    sources:
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    status: needs-review
+  it:
+  - name: Carciofo
+    sources:
+    - wikidata:Q134609
+    status: needs-review
+  mt:
+  - name: Qaqoċċ
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  pt:
+  - name: Alcachofra
+    sources:
+    - wikidata:Q134609
+    status: needs-review
+  ro:
+  - name: Anghinare
+    sources:
+    - wikidata:Q134609
+    status: needs-review
+  sl:
+  - name: prava artičoka
+    sources:
+    - wikidata:Q134609
+    status: needs-review
+  tr:
+  - name: Enginar
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

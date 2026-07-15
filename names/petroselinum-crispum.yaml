@@ -1,0 +1,337 @@
+id: petroselinum-crispum
+scientific_name: Petroselinum crispum
+names:
+  bg:
+  - name: Обикновен магданоз
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Peršin
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: petržel obecná
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q25284
+  - name: Petržel zahradní
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  - name: petržlen záhradny
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Persille
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:da
+  - name: Almindelig persille
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Rød lungeurt
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Peterselie
+    preferred: true
+    sources:
+    - wikidata:Q25284
+    - wikipedia:nl
+  en:
+  - name: Parsley
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q25284
+    - wikipedia:en
+  - name: Garden parsley
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:taxref
+  - name: Common Parsley
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  et:
+  - name: Aedpetersell
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: persilja
+    preferred: true
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  fr:
+  - name: Persil
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+    - wikidata:Q25284
+    - wikipedia:fr
+  - name: Persil cultivé
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:taxref
+  - name: Persil commun
+    sources:
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    status: needs-review
+  - name: Persil crépu, Persil commun, Persil cultivé
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Petersilie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+    - wikipedia:de
+  el:
+  - name: Μαϊντανός
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: kerti petrezselyem
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ga:
+  - name: Peirsil
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Prezzemolo comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-apiaceae
+    - gbif:info-flora-schweiz-apiaceae
+  - name: prezzemolo
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Pētersīļi
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Petražolė
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Pietruszka zwyczajna
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: salsa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q25284
+    - wikipedia:pt
+  - name: salsinha
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q25284
+  - name: salsa-comum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: cheiro-verde
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: salsa-hortense
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Pătrunjel
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Petržlen záhradný
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Navadni peteršilj
+    preferred: true
+    sources:
+    - wikidata:Q25284
+    - wikipedia:sl
+  es:
+  - name: perejil
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sv:
+  - name: persilja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  - name: Rotpersilja
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: Bladpersilja
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: Röd lungört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Fransk lungört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Uppländsk vallört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Петрушка
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Петрушка кучерява
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: persille
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  sr:
+  - name: Першун
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Peršun
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Majdanozi
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Steinselja
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Julivert
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Пятрушка кучаравая
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Maydanoz
+    sources:
+    - wikipedia:tr
+    status: needs-review
+  - name: Maydanos
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

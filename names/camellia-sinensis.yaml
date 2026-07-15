@@ -1,0 +1,331 @@
+id: camellia-sinensis
+scientific_name: Camellia sinensis
+names:
+  bg:
+  - name: Чай
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Kineski čajevac
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Čajovník čínský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:cs
+  da:
+  - name: Tebusk
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Theestruik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Theeplant
+    sources:
+    - wikipedia:nl
+    status: needs-review
+  en:
+  - name: Tea
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q101815
+  - name: green tea
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: black tea
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: chai
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: teabush
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: teaplant
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: common tea
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Japanese tea
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Tea plant
+    sources:
+    - wikidata:Q101815
+    status: needs-review
+  - name: Tea camellia
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    status: needs-review
+  et:
+  - name: Teepõõsas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: Teepensas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q101815
+    - wikipedia:fi
+  fr:
+  - name: théier
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:fr
+  - name: thé
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: arbre à thé
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Thé, Théier
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Camélia de Chine
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Tee
+    preferred: true
+    sources:
+    - wikidata:Q101815
+    - wikipedia:de
+  - name: Teestrauch
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Teepflanze
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Tea
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  it:
+  - name: Tè
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Pianta del Tè
+    sources:
+    - col:catalogue-of-life
+  - name: Albero del tè
+    sources:
+    - wikidata:Q101815
+    status: needs-review
+  lv:
+  - name: Tējas koks
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Kininis arbatmedis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Herbata chińska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: chá-da-índia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikidata:Q101815
+  - name: chá
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - wikidata:Q101815
+  - name: chá-preto
+    sources:
+    - col:catalogue-of-life
+  - name: Planta do chá
+    sources:
+    - col:catalogue-of-life
+  - name: Chá ·chá-da-índia
+    sources:
+    - col:catalogue-of-life
+  ro:
+  - name: Ceai
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q101815
+  sk:
+  - name: Čajovník čínsky
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Čajevec
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: té
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: Planta de té
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q101815
+  - name: árbol del té
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: te
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  ru:
+  - name: Чайный куст
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Камелия китайская
+    sources:
+    - col:catalogue-of-life
+  - name: Чай · ча́йный куст
+    sources:
+    - col:catalogue-of-life
+  - name: Чай
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Чай
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Чайний кущ
+    sources:
+    - col:catalogue-of-life
+  - name: Чайне дерево
+    sources:
+    - col:catalogue-of-life
+  - name: Чай китайський
+    sources:
+    - col:catalogue-of-life
+  - name: Камелія китайська
+    sources:
+    - col:catalogue-of-life
+  'no':
+  - name: Tebusk
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - wikipedia:no
+  sr:
+  - name: Чај
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Čaj
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  ca:
+  - name: Te de la Xina
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  - name: te
+    sources:
+    - wikidata:Q101815
+    status: needs-review
+  tr:
+  - name: Çay
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q101815
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

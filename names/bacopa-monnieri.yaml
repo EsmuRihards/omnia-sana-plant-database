@@ -1,0 +1,143 @@
+id: bacopa-monnieri
+scientific_name: Bacopa monnieri
+names:
+  cs:
+  - name: Bakopa drobnolistá
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  en:
+  - name: Water Hyssop
+    preferred: true
+    sources:
+    - gbif:world-register-of-marine-species
+    - wikidata:Q1366575
+  - name: Bacopa
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: herb of grace
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q1366575
+  - name: herb-of-grace
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+  - name: Indian-pennywort
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: coastal water-hyssop
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Coastal Waterhyssop
+    sources:
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q1366575
+  - name: brahmi
+    sources:
+    - wikidata:Q1366575
+    status: needs-review
+  - name: Thyme-leafed gratiola
+    sources:
+    - wikidata:Q1366575
+    status: needs-review
+  - name: Monnier's hedge hyssop
+    sources:
+    - gbif:world-register-of-marine-species
+    status: needs-review
+  et:
+  - name: Sasi-vesikaak
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Pikkubakopa
+    preferred: true
+    sources:
+    - wikidata:Q1366575
+    - wikipedia:fi
+  de:
+  - name: Kleines Fettblatt
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Μπακόπα του Μονιέ
+    sources:
+    - wikipedia:el
+    status: needs-review
+  pl:
+  - name: Bakopa drobnolistna
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: Bacopa
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sk:
+  - name: Bakopa drobnolistá
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sv:
+  - name: litet tjockblad
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:world-register-of-marine-species
+    - wikipedia:sv
+  ru:
+  - name: Бакопа Монье
+    sources:
+    - wikipedia:ru
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

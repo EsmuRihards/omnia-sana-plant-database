@@ -7092,23 +7092,23 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "diarrhea",
-     "label": "Diarrhoea",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2781"
-     ]
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 5,
+     "evidence": 8,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-2780",
+      "REF-2781"
+     ]
+    },
+    {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
       "REF-2781"
      ]
     },
@@ -9805,6 +9805,39 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "kidney-support",
+     "label": "Kidney support",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2748",
+      "REF-2753"
+     ]
+    },
+    {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2753"
+     ]
+    },
+    {
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2753",
+      "REF-2748",
+      "REF-2755"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -9857,18 +9890,6 @@
      ]
     },
     {
-     "condition": "urinary-support",
-     "label": "Urinary support",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2753",
-      "REF-2748",
-      "REF-2755"
-     ]
-    },
-    {
      "condition": "uti",
      "label": "Urinary tract infection (UTI)",
      "evidence": 2,
@@ -9887,27 +9908,6 @@
      "references": [
       "REF-2756"
      ]
-    },
-    {
-     "condition": "kidney-support",
-     "label": "Kidney support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2748",
-      "REF-2753"
-     ]
-    },
-    {
-     "condition": "swelling",
-     "label": "Swelling / fluid retention",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2753"
-     ]
     }
    ]
   },
@@ -9918,6 +9918,17 @@
    "common_slug": "field-scabious",
    "wp_post_id": null,
    "indications": [
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2811",
+      "REF-2813"
+     ]
+    },
     {
      "condition": "acne",
      "label": "Acne",
@@ -9947,17 +9958,6 @@
      "references": [
       "REF-2811",
       "REF-2815"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2811",
-      "REF-2813"
      ]
     },
     {
@@ -16627,6 +16627,48 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2816",
+      "REF-2818"
+     ]
+    },
+    {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2816"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2818",
+      "REF-2816"
+     ]
+    },
+    {
+     "condition": "sore-throat",
+     "label": "Sore throat",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2816"
+     ]
+    },
+    {
      "condition": "infection",
      "label": "Infection (general)",
      "evidence": 2,
@@ -16637,28 +16679,6 @@
      ]
     },
     {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2816",
-      "REF-2818"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2818",
-      "REF-2816"
-     ]
-    },
-    {
      "condition": "wounds",
      "label": "Wounds",
      "evidence": 2,
@@ -16666,26 +16686,6 @@
      "inferred": true,
      "references": [
       "REF-2818"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2816"
-     ]
-    },
-    {
-     "condition": "sore-throat",
-     "label": "Sore throat",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2816"
      ]
     }
    ]
@@ -20987,6 +20987,17 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "diarrhea",
+     "label": "Diarrhoea",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2768",
+      "REF-2769"
+     ]
+    },
+    {
      "condition": "blood-sugar",
      "label": "Blood sugar / diabetes support",
      "evidence": 2,
@@ -21005,17 +21016,6 @@
      "references": [
       "REF-2773",
       "REF-2774"
-     ]
-    },
-    {
-     "condition": "diarrhea",
-     "label": "Diarrhoea",
-     "evidence": 2,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2768",
-      "REF-2769"
      ]
     },
     {
@@ -21442,29 +21442,9 @@
    "wp_post_id": null,
    "indications": [
     {
-     "condition": "bloating",
-     "label": "Bloating",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2708"
-     ]
-    },
-    {
-     "condition": "indigestion",
-     "label": "Indigestion",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2708"
-     ]
-    },
-    {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 5,
+     "evidence": 8,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -21473,9 +21453,39 @@
      ]
     },
     {
+     "condition": "bloating",
+     "label": "Bloating",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2711"
+     ]
+    },
+    {
+     "condition": "indigestion",
+     "label": "Indigestion",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2708"
+     ]
+    },
+    {
      "condition": "swelling",
      "label": "Swelling / fluid retention",
-     "evidence": 5,
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -21485,7 +21495,7 @@
     {
      "condition": "urinary-support",
      "label": "Urinary support",
-     "evidence": 5,
+     "evidence": 7,
      "status": "verified",
      "inferred": false,
      "references": [
@@ -21496,7 +21506,7 @@
     {
      "condition": "uti",
      "label": "Urinary tract infection (UTI)",
-     "evidence": 5,
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -21511,16 +21521,6 @@
      "inferred": true,
      "references": [
       "REF-2720"
-     ]
-    },
-    {
-     "condition": "cancer",
-     "label": "Cancer (anticancer research)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2711"
      ]
     },
     {
@@ -22565,7 +22565,7 @@
     {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
-     "evidence": 5,
+     "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [

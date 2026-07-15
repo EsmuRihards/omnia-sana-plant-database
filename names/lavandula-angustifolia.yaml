@@ -1,0 +1,248 @@
+id: lavandula-angustifolia
+scientific_name: Lavandula angustifolia
+names:
+  cs:
+  - name: levandule lékařská
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q42081
+    - wikipedia:cs
+  - name: levanduĺa úzkolistá
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Ægte lavendel
+    preferred: true
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  nl:
+  - name: Echte lavendel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-species-register-nederla
+    - wikipedia:nl
+  en:
+  - name: Lavender
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q42081
+  - name: English lavender
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q42081
+  - name: Garden Lavender
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: English Lavendar
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q42081
+  - name: Common Lavender
+    sources:
+    - gbif:checklist-of-vermont-species
+    status: needs-review
+  fi:
+  - name: tähkälaventeli
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  fr:
+  - name: Lavande vraie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: lavande
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Lavande officinale
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: Lavande à feuilles étroites
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Lavande à feuilles étroites, Lavande officinale, Lavande vraie
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Echter Lavendel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikipedia:de
+  - name: Lavendel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+  - name: Schmalblatt-Lavendel
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  el:
+  - name: levanta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  hu:
+  - name: Közönséges levendula
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  - name: keskenylevelű levendula
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ga:
+  - name: Lus liath
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Lavanda vera
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  lt:
+  - name: Tikroji levanda
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Lawenda wąskolistna
+    sources:
+    - wikipedia:pl
+    status: needs-review
+  pt:
+  - name: lavanda
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: alfazema
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  sl:
+  - name: prava sivka
+    sources:
+    - wikidata:Q42081
+    status: needs-review
+  sv:
+  - name: lavendel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:sv
+  ru:
+  - name: Лаванда узколистная
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Лаванда вузьколиста
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: lavendel
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  sr:
+  - name: Лаванда
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Espígol
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: Лаванда каласовая
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Lavanta
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

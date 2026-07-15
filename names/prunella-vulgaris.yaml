@@ -1,0 +1,547 @@
+id: prunella-vulgaris
+scientific_name: Prunella vulgaris
+names:
+  bg:
+  - name: Обикновена пришница
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hr:
+  - name: Obična celinščica
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hr
+  - name: Križalina
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  cs:
+  - name: černohlávek obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+    - wikipedia:cs
+  da:
+  - name: Almindelig brunelle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q158469
+    - wikipedia:da
+  - name: Brunelle
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  nl:
+  - name: Gewone brunel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q158469
+    - wikipedia:nl
+  - name: Brunel
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Selfheal
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q158469
+  - name: heal-all
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q158469
+  - name: woundwort
+    sources:
+    - col:catalogue-of-life
+  - name: Self-heal
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q158469
+  - name: Carpenter Weed
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Heal-all
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Self-heal
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: brownwort
+    sources:
+    - col:catalogue-of-life
+  - name: blue curls
+    sources:
+    - col:catalogue-of-life
+  - name: lawn prunella
+    sources:
+    - col:catalogue-of-life
+  - name: carpenter's herb
+    sources:
+    - col:catalogue-of-life
+  - name: Common Self Heal
+    sources:
+    - col:catalogue-of-life
+  - name: heart-of-the-earth
+    sources:
+    - col:catalogue-of-life
+  - name: Common Selfheal
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Alpine Self-heal
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik käbihein
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: niittyhumala
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158469
+    - wikipedia:fi
+  - name: Ahoniittyhumala
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  - name: (aho)niittyhumala
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  fr:
+  - name: Brunelle commune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158469
+    - wikipedia:fr
+  - name: brunelle vulgaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q158469
+  - name: brunelle
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: prunelle commune
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: prunelle vulgaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: herbe au charpentier
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Herbe Catois
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Brunelle commune, Herbe au charpentier
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kleine Braunelle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158469
+    - wikipedia:de
+  - name: Kleine Brunelle
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158469
+  - name: Gemeine Braunelle
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - wikidata:Q158469
+  - name: Gewöhnliche Braunelle
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q158469
+  el:
+  - name: Πισπιρήγα
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Βουτυρόχορτο
+    sources:
+    - col:catalogue-of-life
+  - name: Προυνέλλα η κοινή
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Közönséges gyíkfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Duán ceannchosach
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Prunella comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q158469
+  - name: Brunella
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+  - name: Brunella comune
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Parastā brūngalvīte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  lt:
+  - name: Paprastoji juodgalvė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+    - wikipedia:lt
+  pl:
+  - name: Głowienka pospolita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+    - wikipedia:pl
+  pt:
+  - name: Brunéla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  - name: Erva-férrea
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  - name: consolda-menor
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  - name: prunela
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  ro:
+  - name: Busuioc de câmp
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: čiernohlávok obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  sl:
+  - name: Navadna črnoglavka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  es:
+  - name: brunela
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  - name: prunela
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  - name: consuelda menor
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  - name: Bretónica
+    sources:
+    - col:catalogue-of-life
+  - name: erico
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: érico
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: suelda
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: brunelda
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: consolda
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: manguera
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: consuelda
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: uña de caballo
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: morenilla pobre
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: uñas de caballo
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: morenilla entera
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: suelda-cortaduras
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: yerba del podador
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: hierba del podador
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: azafate de la reina
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: consuelda silvestre
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: hierba de carpintero
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: yerba de las heridas
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: hierba de las heridas
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: hierba del carpintero
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  sv:
+  - name: brunört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikidata:Q158469
+    - wikipedia:sv
+  - name: vanlig brunört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Skogshumle
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: (aho)niittyhumala
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Черноголовка обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+    - wikipedia:ru
+  uk:
+  - name: Суховершки звичайні
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  - name: Суховершки
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  'no':
+  - name: blåkoll
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q158469
+    - wikipedia:no
+  - name: øl-kall
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  is:
+  - name: Blákolla
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+    - wikipedia:is
+  ca:
+  - name: Prunel·la vulgar
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+    - wikipedia:ca
+  - name: herba del traidor
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Чорнагалоў звычайны
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Yara otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158469
+  - name: Gelincikleme Otu
+    sources:
+    - col:catalogue-of-life
+  - name: Yaraotu
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+  - name: Kahverengi ot
+    sources:
+    - wikidata:Q158469
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

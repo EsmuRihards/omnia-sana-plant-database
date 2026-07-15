@@ -1,0 +1,313 @@
+id: scrophularia-nodosa
+scientific_name: Scrophularia nodosa
+names:
+  hr:
+  - name: Strupnik
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+  - name: Čvorasti strupnik
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: krtičník hlíznatý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+    - wikipedia:cs
+  da:
+  - name: Knoldet brunrod
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikidata:Q159115
+    - wikipedia:da
+  nl:
+  - name: Knopig helmkruid
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q159115
+    - wikipedia:nl
+  en:
+  - name: Figwort
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - wikidata:Q159115
+  - name: Woodland figwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q159115
+  - name: Common figwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q159115
+  - name: knotty figwort
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Knotted Figwort
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+  et:
+  - name: Harilik sealõuarohi
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+    - wikipedia:et
+  fi:
+  - name: syyläjuuri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q159115
+    - wikipedia:fi
+  - name: tummasyyläjuuri
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+  - name: (tumma)syyläjuuri
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  fr:
+  - name: scrofulaire noueuse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:taxref
+    - wikidata:Q159115
+    - wikipedia:fr
+  - name: Scrophulaire noueuse
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q159115
+  de:
+  - name: Knotige Braunwurz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q159115
+    - wikipedia:de
+  - name: Knoten-Braunwurz
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q159115
+  hu:
+  - name: Göcsös görvélyfű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  ga:
+  - name: Fothram
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+    - wikipedia:ga
+  - name: Donnlus
+    sources:
+    - col:catalogue-of-life
+  it:
+  - name: Scrofularia nodosa
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-scrophulariaceae
+    - gbif:info-flora-schweiz-scrophulariaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Castagnola
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Gumainā cūknātre
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Nariuotasis bervidis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+    - wikipedia:lt
+  pl:
+  - name: Trędownik bulwiasty
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+    - wikipedia:pl
+  sk:
+  - name: Krtičník hľuznatý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+    - wikipedia:sk
+  sl:
+  - name: navadna črnobina
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+  es:
+  - name: escrofularia
+    sources:
+    - wikidata:Q159115
+    status: needs-review
+  - name: hierba de San Pedro
+    sources:
+    - wikidata:Q159115
+    status: needs-review
+  - name: hierba de lamparones
+    sources:
+    - wikidata:Q159115
+    status: needs-review
+  sv:
+  - name: flenört
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikidata:Q159115
+    - wikipedia:sv
+  - name: Vanlig flenört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Brunrot
+    sources:
+    - wikidata:Q159115
+    status: needs-review
+  - name: Torsnässla
+    sources:
+    - wikidata:Q159115
+    status: needs-review
+  - name: (tumma)syyläjuuri
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Норичник узловатый
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+    - wikipedia:ru
+  - name: Норичник шишковатый
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+  uk:
+  - name: Ранник вузлуватий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q159115
+    - wikipedia:uk
+  'no':
+  - name: brunrot
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikidata:Q159115
+    - wikipedia:no
+  be:
+  - name: Залозніца вузлаватая
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Adi sıracaotu
+    sources:
+    - wikidata:Q159115
+    status: needs-review
+  - name: Adi sıraca otu
+    sources:
+    - wikidata:Q159115
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,208 @@
+id: lentinula-edodes
+scientific_name: Lentinula edodes
+names:
+  hr:
+  - name: Šitake
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: houževnatec jedlý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q320999
+    - wikipedia:cs
+  da:
+  - name: Shiitake
+    sources:
+    - wikipedia:da
+    status: needs-review
+  nl:
+  - name: Shiitake
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q320999
+    - wikipedia:nl
+  en:
+  - name: Shiitake
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q320999
+    - wikipedia:en
+  - name: Shitake Mushroom
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: Šiitake
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: Siitake
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Shiitaké
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Lentin du Chêne
+    sources:
+    - col:catalogue-of-life
+  - name: Lentin comestible
+    sources:
+    - col:catalogue-of-life
+  - name: Shi take
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Shiitake-Pilz
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:taxon-list-of-fungi-and-fungal-like-orga
+    - wikidata:Q320999
+  - name: Shiitake
+    sources:
+    - wikipedia:de
+    status: needs-review
+  el:
+  - name: Σιτάκε
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Siitake
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  lv:
+  - name: Šitake
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Valgomasis dantenis
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  pl:
+  - name: Twardnik japoński
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Shiitake
+    sources:
+    - wikipedia:pt
+    status: needs-review
+  sk:
+  - name: Húževnatec jedlý
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Užitni nazobčanec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sl
+  sv:
+  - name: Shiitake
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - wikipedia:sv
+  ru:
+  - name: Шиитаке
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Шиїтаке
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: Shiitake
+    sources:
+    - wikipedia:no
+    status: needs-review
+  sr:
+  - name: Шитаке печурка
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  is:
+  - name: Tókasveppur
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Xiitake
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  tr:
+  - name: Shiitake mantarı
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Şitaki mantarı
+    sources:
+    - wikipedia:tr
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

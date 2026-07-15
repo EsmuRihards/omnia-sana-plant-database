@@ -1,0 +1,276 @@
+id: zingiber-officinale
+scientific_name: Zingiber officinale
+names:
+  bg:
+  - name: Обикновен джинджифил
+    sources:
+    - wikipedia:bg
+    status: needs-review
+  hr:
+  - name: Đumbir
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: zázvorovník lékařský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Zázvor lékařský
+    sources:
+    - wikipedia:cs
+    status: needs-review
+  da:
+  - name: Ægte ingefær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:da
+  nl:
+  - name: Gember
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  en:
+  - name: Ginger
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-dutch-caribbean-species-regist
+    - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
+    - wikipedia:en
+  - name: garden ginger
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - wikidata:Q35625
+  - name: Cooking Ginger
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q35625
+  - name: common ginger
+    sources:
+    - gbif:world-register-of-marine-species
+    status: needs-review
+  et:
+  - name: Harilik ingver
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:et
+  fi:
+  - name: mausteinkivääri
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Inkivääri
+    sources:
+    - wikipedia:fi
+    status: needs-review
+  fr:
+  - name: Gingembre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - wikipedia:fr
+  - name: Gingembre officinal
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Gingembre officinal, Gingembre, Démon de minuit
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Ingwer
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:de
+  el:
+  - name: Πιπερόριζα
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Gyömbér
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Közönséges gyömbér
+    sources:
+    - wikipedia:hu
+    status: needs-review
+  ga:
+  - name: Sinséar
+    sources:
+    - wikipedia:ga
+    status: needs-review
+  it:
+  - name: Zenzero
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  lv:
+  - name: Ingvers
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  lt:
+  - name: Tikrasis imbieras
+    sources:
+    - wikipedia:lt
+    status: needs-review
+  pl:
+  - name: Imbir lekarski
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: gengibre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  ro:
+  - name: Ghimber
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ghimbir
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Ďumbier lekársky
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: Ingver
+    sources:
+    - wikipedia:sl
+    status: needs-review
+  es:
+  - name: Jengibre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  sv:
+  - name: ingefära
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - wikipedia:sv
+  ru:
+  - name: Имбирь аптечный
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Імбир садовий
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: Ingefær
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:no
+  sr:
+  - name: Ђумбир / Ðumbir
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Ђумбир
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Đumbir
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  sq:
+  - name: Xhenxhefili
+    sources:
+    - wikipedia:sq
+    status: needs-review
+  is:
+  - name: Engifer
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Gingebre
+    sources:
+    - wikipedia:ca
+    status: needs-review
+  be:
+  - name: імбір
+    sources:
+    - wikidata:Q35625
+    status: needs-review
+  tr:
+  - name: Zencefil
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

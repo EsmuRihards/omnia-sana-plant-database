@@ -1,0 +1,486 @@
+id: capsella-bursa-pastoris
+scientific_name: Capsella bursa-pastoris
+names:
+  bg:
+  - name: Овчарска торбичка
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  hr:
+  - name: Rusomača
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Prava rusomača
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: kokoška pastuší tobolka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q27264
+    - wikipedia:cs
+  - name: kapsi
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Hyrdetaske
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Almindelig hyrdetaske
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: hydetaske
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: Himmelrose
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Enårig brudeslør
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Herderstasje
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q27264
+    - wikipedia:nl
+  en:
+  - name: Shepherd's Purse
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q27264
+  - name: Shepherd's-purse
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: Case Weed
+    sources:
+    - col:catalogue-of-life
+  - name: Pepper Plant
+    sources:
+    - col:catalogue-of-life
+  - name: Shepher's Tree
+    sources:
+    - col:catalogue-of-life
+  - name: shepherds purse
+    sources:
+    - col:catalogue-of-life
+  - name: shepherd’s-purse
+    sources:
+    - col:catalogue-of-life
+  - name: Common Shepherd's-purse
+    sources:
+    - col:catalogue-of-life
+  - name: Shepherdspurse
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Naengi (shepherd’s Purse)
+    sources:
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Pickpocket
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Common Shepherd's Purse
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:martha-s-vineyard-species-checklist
+  et:
+  - name: Harilik hiirekõrv
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Hiirekõrv
+    sources:
+    - wikipedia:et
+    status: needs-review
+  fi:
+  - name: lutukka
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikipedia:fi
+  - name: Rikkalutukka
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q27264
+  fr:
+  - name: bourse à pasteur
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - gbif:taxref
+  - name: Capselle bourse a pasteur
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-brassicaceae
+    - gbif:info-flora-schweiz-brassicaceae
+  - name: capselle bourse-à-pasteur
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: tabouret
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: bourse-à-pasteur
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: capselle à pasteur
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: bourse à pasteur commune
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Capselle bourse à pasteur
+    sources:
+    - col:catalogue-of-life
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: bourse-à-pasteur commune
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q27264
+  - name: Capselle bourse-à-pasteur, Bourse-de-capucin, Bourse-à-pasteur
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnliches Hirtentäschel
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:eunis-biodiversity-database
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q27264
+    - wikipedia:de
+  - name: Gemeines Hirtentaeschel
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-brassicaceae
+    - gbif:info-flora-schweiz-brassicaceae
+  - name: Hirtentäschel
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Hirtentäschelkraut
+    sources:
+    - col:catalogue-of-life
+  - name: Gemeines Hirtentäschen
+    sources:
+    - gbif:belgian-species-list
+    - wikidata:Q27264
+  - name: Gemeines Hirtentäschel
+    sources:
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    status: needs-review
+  el:
+  - name: Αγριοκάρδαμο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Αγριοκαρδαμούδα
+    sources:
+    - col:catalogue-of-life
+  - name: Καψέλλα ο ποιμενόσακος
+    sources:
+    - col:catalogue-of-life
+  hu:
+  - name: Pásztortáska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  - name: közönséges pásztortáska
+    sources:
+    - col:catalogue-of-life
+  ga:
+  - name: Lus an sparáin
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ga
+  it:
+  - name: Borsapastore comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-brassicaceae
+    - gbif:info-flora-schweiz-brassicaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Borsa di pastore
+    sources:
+    - col:catalogue-of-life
+  - name: Borsa del pastore
+    sources:
+    - col:catalogue-of-life
+  lv:
+  - name: Ganu plikstiņš
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  lt:
+  - name: Trikertė žvaginė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lt
+  pl:
+  - name: Tasznik pospolity
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:pl
+  pt:
+  - name: Bolsa-de-pastor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+    - wikipedia:pt
+  - name: erva-do-bom-pastor
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  ro:
+  - name: Traista-ciobanului
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ro
+  - name: Traista ciobanului
+    sources:
+    - col:catalogue-of-life
+  sk:
+  - name: Kapsička pastierska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: navadni plešec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q27264
+  es:
+  - name: zurrón de pastor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Mastuerzo
+    sources:
+    - col:catalogue-of-life
+  - name: Pan y Quesito
+    sources:
+    - col:catalogue-of-life
+  - name: bolsa de pastor
+    sources:
+    - col:catalogue-of-life
+  - name: Bolsa del pastor
+    sources:
+    - col:catalogue-of-life
+  - name: Bolsita del pastor
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: lomme
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:sv
+  - name: Lommeört
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: lutukka
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Gaffelarv
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Rosenglin
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Nejlikglim
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Blodnejlika
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sommarslöja
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Knippnejlika
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Fjädernejlika
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Пастушья сумка обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Грицики звичайні
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: gjetertaske
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: gjetartaske
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+  - name: hyrdetaske
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+  - name: hydetaske
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Русомача
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Хоћу-нећу / Hoću-neću
+    sources:
+    - col:catalogue-of-life
+  - name: Хоћу-нећу
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Sarronets de pastor
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  - name: Bosses de pastor
+    sources:
+    - col:catalogue-of-life
+  - name: sarronet de pastor
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Стрэлкі звычайныя
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Çobançantası
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:tr
+  - name: Çoban çantası
+    sources:
+    - col:catalogue-of-life
+    - gbif:divri-i-kars-georgia-border-railway-line
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - powo
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

@@ -1,0 +1,383 @@
+id: mahonia-aquifolium
+scientific_name: Mahonia aquifolium
+names:
+  hr:
+  - name: Oštrolisna mahonija
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: Mahónie cesmínolistá
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:cs
+  - name: mahonie cesmínolistá
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+  da:
+  - name: Almindelig mahonie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Mahonie
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  - name: Høj Oregon-drue
+    sources:
+    - wikipedia:da
+    status: needs-review
+  - name: Vår-Potentil
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sølv-Potentil
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Tysk Potentil
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Mahonie
+    preferred: true
+    sources:
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158303
+    - wikipedia:nl
+  - name: Mahonia
+    sources:
+    - gbif:invasive-alien-species-in-belgium-harmon
+    status: needs-review
+  en:
+  - name: Oregon Grape
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - wikidata:Q158303
+  - name: Holly-leaved barberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Oregon-grape
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+  - name: tall Oregon-grape
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q158303
+  - name: Hollyleaved barberry
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - wikidata:Q158303
+  - name: shining Oregon-grape
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q158303
+  - name: mountain grape
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: holly-leaved Oregon-grape
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Oregon Holly
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+  - name: Oregon Grapeholly
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+  - name: Oregon Holly Grape
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+  - name: Piper's Oregon-grape
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+  - name: holly-leaf Oregon-grape
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+  - name: blue barberry
+    sources:
+    - col:catalogue-of-life
+  - name: holly mahonia
+    sources:
+    - col:catalogue-of-life
+  - name: holly barberry
+    sources:
+    - col:catalogue-of-life
+  - name: mountain-grape
+    sources:
+    - col:catalogue-of-life
+  - name: Oregongrape
+    sources:
+    - wikidata:Q158303
+    status: needs-review
+  et:
+  - name: Läiklehine mahoonia
+    preferred: true
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: Mahonia
+    preferred: true
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - wikipedia:fi
+  - name: lännenmahonia
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q158303
+  - name: Hopeahanhikki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Pikkuhanhikki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Saksanhanhikki
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Mahonia faux-houx
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - gbif:taxref
+  - name: Mahonia faux houx
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158303
+  - name: mahonia à feuilles de houx
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: mahonia
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: faux-houx
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: Mahonie
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  de:
+  - name: Gewöhnliche Mahonie
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q158303
+    - wikipedia:de
+  - name: Mahonie
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-berberidaceae
+    - gbif:info-flora-schweiz-berberidaceae
+  hu:
+  - name: közönséges mahónia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+    - wikipedia:hu
+  - name: kerti mahónia
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  it:
+  - name: Maonia
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-berberidaceae
+    - gbif:info-flora-schweiz-berberidaceae
+  lt:
+  - name: Dyglialapė mahonija
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+    - wikipedia:lt
+  pl:
+  - name: Mahonia pospolita
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q158303
+    - wikipedia:pl
+  ro:
+  - name: Mahonie
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: Mahónia cezmínolistá
+    sources:
+    - wikipedia:sk
+    status: needs-review
+  sl:
+  - name: navadna mahonija
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+  sv:
+  - name: mahonia
+    preferred: true
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  - name: Småfingerört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Tysk fingerört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vanlig femfingerört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vasstandad femfingerört
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Маго́ния падуболи́стная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158303
+  - name: Магония падуболистная
+    sources:
+    - wikipedia:ru
+    status: needs-review
+  uk:
+  - name: Магонія падуболиста
+    sources:
+    - wikipedia:uk
+    status: needs-review
+  'no':
+  - name: mahonie
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: mahonia
+    sources:
+    - gbif:backbone
+    status: needs-review
+  - name: Småmure
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sølvmure
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Tysk mure
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Махонија
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  be:
+  - name: Магонія падубалістая
+    sources:
+    - wikipedia:be
+    status: needs-review
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

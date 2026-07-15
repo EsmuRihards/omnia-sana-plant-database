@@ -1,0 +1,413 @@
+id: marrubium-vulgare
+scientific_name: Marrubium vulgare
+names:
+  hr:
+  - name: Obična marulja
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Obični tetrljan
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: jablečník obecný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157631
+    - wikipedia:cs
+  - name: jabl
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: jable
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  da:
+  - name: Kransburre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Almindelig kransburre
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+  nl:
+  - name: Malrove
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - wikidata:Q157631
+    - wikipedia:nl
+  en:
+  - name: Horehound
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
+    - wikidata:Q157631
+  - name: White horehound
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - gbif:martha-s-vineyard-species-checklist
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q157631
+  - name: Common horehound
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:martha-s-vineyard-species-checklist
+  - name: Marvel
+    sources:
+    - col:catalogue-of-life
+  - name: Hoarhound
+    sources:
+    - col:catalogue-of-life
+  - name: Whitehoarhound
+    sources:
+    - col:catalogue-of-life
+  - name: Common Hoarhound
+    sources:
+    - col:catalogue-of-life
+  et:
+  - name: ürt-penimünt
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: valkohurtanminttu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q157631
+    - wikipedia:fi
+  - name: (valko)hurtanminttu
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  fr:
+  - name: marrube blanc
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+    - wikidata:Q157631
+    - wikipedia:fr
+  - name: marrube
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:database-of-vascular-plants-of-canada-va
+    - wikidata:Q157631
+  - name: Marrube commune
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Marrube commun
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+  - name: marrube vulgaire
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Marrube commun, Marrube vulgaire
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Gewöhnlicher Andorn
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q157631
+    - wikipedia:de
+  - name: Andorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:grin-taxonomy
+    - wikidata:Q157631
+  - name: Gemeiner Andorn
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Gewöhnliche Andorn
+    sources:
+    - col:catalogue-of-life
+  - name: Echter Andorn
+    sources:
+    - gbif:eunis-biodiversity-database
+    status: needs-review
+  el:
+  - name: Μαρρούβιο το κοινό
+    sources:
+    - wikipedia:el
+    status: needs-review
+  hu:
+  - name: Orvosi pemetefű
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:hu
+  it:
+  - name: Marrubio comune
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-helvetica-lamiaceae
+    - gbif:info-flora-schweiz-lamiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
+  - name: Marrubio
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157631
+  lv:
+  - name: Parastā marūbija
+    sources:
+    - wikipedia:lv
+    status: needs-review
+  - name: parast
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Paprastoji šantra
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Szanta zwyczajna
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q157631
+    - wikipedia:pl
+  pt:
+  - name: marroio
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+    - gbif:grin-taxonomy
+  - name: malvão
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: marrolo
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: bom-homem
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: erva-virgem
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: marroio-comum
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: hortelã-grande
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: marroio-branco
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: hortelã-do-maranhão
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: hortelã-de-folha-grossa
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Unguraș
+    sources:
+    - wikipedia:ro
+    status: needs-review
+  sk:
+  - name: jablčník obyčajný
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  sl:
+  - name: navadna črna meta
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157631
+  es:
+  - name: marrubio común
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: Marrubio de monte
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: kransborre
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-swedish-red-list-2020
+    - gbif:the-swedish-red-list-2025
+    - wikipedia:sv
+  - name: (valko)hurtanminttu
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  ru:
+  - name: Шандра обыкновенная
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157631
+    - wikipedia:ru
+  - name: šandra obyknovennaja
+    sources:
+    - col:catalogue-of-life
+  uk:
+  - name: Шандра звичайна
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: borremynte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+  - name: hviit marrou
+    sources:
+    - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  sr:
+  - name: Бели тетрљан
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Очајница
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  bs:
+  - name: Očajnica
+    sources:
+    - wikipedia:bs
+    status: needs-review
+  is:
+  - name: Vallarhélukrans
+    sources:
+    - wikipedia:is
+    status: needs-review
+  ca:
+  - name: Marrubí
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ca
+  - name: malrubí
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Шандра звычайная
+    sources:
+    - wikipedia:be
+    status: needs-review
+  tr:
+  - name: Köpek otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157631
+  - name: Bozotu
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-07-14'
+last_verified: '2026-07-14'

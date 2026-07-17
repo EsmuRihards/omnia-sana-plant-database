@@ -46549,6 +46549,10 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
+      "REF-2921",
+      "REF-2920",
+      "REF-2914",
+      "REF-2912",
       "REF-2884",
       "REF-2887",
       "REF-0098",
@@ -46577,6 +46581,7 @@
     {
      "action": "antioxidant",
      "reference_ids": [
+      "REF-2911",
       "REF-2881",
       "REF-2884",
       "REF-0098",
@@ -46605,6 +46610,8 @@
     {
      "action": "immunomodulator",
      "reference_ids": [
+      "REF-2920",
+      "REF-2917",
       "REF-2881",
       "REF-2882",
       "REF-2887",
@@ -46622,6 +46629,7 @@
     {
      "action": "vulnerary",
      "reference_ids": [
+      "REF-2921",
       "REF-0098",
       "REF-0200",
       "REF-0314",
@@ -46632,6 +46640,9 @@
     {
      "action": "anticancer",
      "reference_ids": [
+      "REF-2922",
+      "REF-2916",
+      "REF-2915",
       "REF-2878",
       "REF-2879",
       "REF-2882",
@@ -46644,6 +46655,7 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
+      "REF-2919",
       "REF-2883"
      ],
      "status": "verified"
@@ -46651,10 +46663,20 @@
     {
      "action": "hepatoprotective",
      "reference_ids": [
+      "REF-2911",
       "REF-2884",
       "REF-2888"
      ],
      "status": "verified"
+    },
+    {
+     "action": "antidiabetic",
+     "reference_ids": [
+      "REF-2918",
+      "REF-2914",
+      "REF-2913"
+     ],
+     "status": "needs-review"
     }
    ],
    "indications": [
@@ -46767,6 +46789,7 @@
      "condition": "wounds",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
+      "REF-2921",
       "REF-0098",
       "REF-0200",
       "REF-0314",
@@ -46780,6 +46803,9 @@
      "condition": "cancer",
      "note": "inferred from anticancer action",
      "reference_ids": [
+      "REF-2922",
+      "REF-2916",
+      "REF-2915",
       "REF-2878",
       "REF-2879",
       "REF-2882",
@@ -46790,6 +46816,36 @@
      "status": "needs-review",
      "evidence": 7,
      "label": "Cancer (anticancer research)"
+    },
+    {
+     "condition": "blood-sugar",
+     "reference_ids": [
+      "REF-2918",
+      "REF-2914",
+      "REF-2913"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Blood sugar / diabetes support"
+    },
+    {
+     "condition": "cardiovascular-support",
+     "reference_ids": [
+      "REF-2913",
+      "REF-2912"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cardiovascular / heart health"
+    },
+    {
+     "condition": "cognitive-function",
+     "reference_ids": [
+      "REF-2919"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cognitive function"
     }
    ],
    "contraindications": [
@@ -46830,7 +46886,19 @@
     "REF-2885",
     "REF-2886",
     "REF-2887",
-    "REF-2888"
+    "REF-2888",
+    "REF-2911",
+    "REF-2912",
+    "REF-2913",
+    "REF-2914",
+    "REF-2915",
+    "REF-2916",
+    "REF-2917",
+    "REF-2918",
+    "REF-2919",
+    "REF-2920",
+    "REF-2921",
+    "REF-2922"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -46839,7 +46907,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-17",
+   "last_updated": "2026-07-18",
    "common_slug": "selfheal"
   },
   {
@@ -59362,6 +59430,9 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
+      "REF-2929",
+      "REF-2928",
+      "REF-2923",
       "REF-2890",
       "REF-2895",
       "REF-0013",
@@ -59374,6 +59445,8 @@
     {
      "action": "antioxidant",
      "reference_ids": [
+      "REF-2924",
+      "REF-2923",
       "REF-2889",
       "REF-2890",
       "REF-2895",
@@ -59417,6 +59490,9 @@
     {
      "action": "anticancer",
      "reference_ids": [
+      "REF-2932",
+      "REF-2931",
+      "REF-2930",
       "REF-2889",
       "REF-2891",
       "REF-2892",
@@ -59428,6 +59504,9 @@
     {
      "action": "neuroprotective",
      "reference_ids": [
+      "REF-2927",
+      "REF-2926",
+      "REF-2925",
       "REF-2896"
      ],
      "status": "verified"
@@ -59435,6 +59514,7 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
+      "REF-2933",
       "REF-2897",
       "REF-2898"
      ],
@@ -59451,6 +59531,7 @@
     {
      "action": "vulnerary",
      "reference_ids": [
+      "REF-2934",
       "REF-2890"
      ],
      "status": "verified"
@@ -59461,6 +59542,7 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
+      "REF-2929",
       "REF-0013",
       "REF-0036",
       "REF-0112"
@@ -59484,6 +59566,7 @@
     {
      "condition": "cardiovascular-support",
      "reference_ids": [
+      "REF-2928",
       "REF-2889",
       "REF-0013",
       "REF-0036",
@@ -59512,6 +59595,7 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
+      "REF-2923",
       "REF-0013",
       "REF-0036",
       "REF-0112"
@@ -59610,6 +59694,9 @@
      "condition": "cancer",
      "note": "inferred from anticancer action",
      "reference_ids": [
+      "REF-2932",
+      "REF-2931",
+      "REF-2930",
       "REF-2889",
       "REF-2891",
       "REF-2892",
@@ -59623,6 +59710,7 @@
     {
      "condition": "blood-sugar",
      "reference_ids": [
+      "REF-2933",
       "REF-2897",
       "REF-2898"
      ],
@@ -59634,16 +59722,20 @@
      "condition": "cognitive-function",
      "note": "inferred from neuroprotective action",
      "reference_ids": [
+      "REF-2927",
+      "REF-2926",
+      "REF-2925",
       "REF-2896"
      ],
      "status": "needs-review",
-     "evidence": 7,
+     "evidence": 8,
      "label": "Cognitive function"
     },
     {
      "condition": "wounds",
      "note": "inferred from vulnerary action",
      "reference_ids": [
+      "REF-2934",
       "REF-2890"
      ],
      "status": "needs-review",
@@ -59700,7 +59792,19 @@
     "REF-2897",
     "REF-2898",
     "REF-2899",
-    "REF-2900"
+    "REF-2900",
+    "REF-2923",
+    "REF-2924",
+    "REF-2925",
+    "REF-2926",
+    "REF-2927",
+    "REF-2928",
+    "REF-2929",
+    "REF-2930",
+    "REF-2931",
+    "REF-2932",
+    "REF-2933",
+    "REF-2934"
    ],
    "drug_class_interactions": [
     {
@@ -59723,7 +59827,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-17",
+   "last_updated": "2026-07-18",
    "common_slug": "red-clover"
   },
   {
@@ -59845,6 +59949,8 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
+      "REF-2943",
+      "REF-2937",
       "REF-0027",
       "REF-0098",
       "REF-0140",
@@ -59858,6 +59964,12 @@
     {
      "action": "antioxidant",
      "reference_ids": [
+      "REF-2943",
+      "REF-2940",
+      "REF-2939",
+      "REF-2938",
+      "REF-2936",
+      "REF-2935",
       "REF-2901",
       "REF-2905",
       "REF-2907",
@@ -59932,6 +60044,9 @@
     {
      "action": "antimicrobial",
      "reference_ids": [
+      "REF-2943",
+      "REF-2941",
+      "REF-2937",
       "REF-2903",
       "REF-2909"
      ],
@@ -59940,9 +60055,18 @@
     {
      "action": "antidiabetic",
      "reference_ids": [
+      "REF-2935",
       "REF-2901"
      ],
      "status": "verified"
+    },
+    {
+     "action": "neuroprotective",
+     "reference_ids": [
+      "REF-2938",
+      "REF-2937"
+     ],
+     "status": "needs-review"
     }
    ],
    "indications": [
@@ -60089,6 +60213,7 @@
     {
      "condition": "blood-sugar",
      "reference_ids": [
+      "REF-2935",
       "REF-2901"
      ],
      "status": "verified",
@@ -60099,12 +60224,24 @@
      "condition": "infection",
      "note": "inferred from antimicrobial action",
      "reference_ids": [
+      "REF-2941",
+      "REF-2937",
       "REF-2903",
       "REF-2909"
      ],
      "status": "needs-review",
      "evidence": 2,
      "label": "Infection (general)"
+    },
+    {
+     "condition": "cognitive-function",
+     "reference_ids": [
+      "REF-2938",
+      "REF-2937"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cognitive function"
     }
    ],
    "contraindications": [
@@ -60148,7 +60285,17 @@
     "REF-2907",
     "REF-2908",
     "REF-2909",
-    "REF-2910"
+    "REF-2910",
+    "REF-2935",
+    "REF-2936",
+    "REF-2937",
+    "REF-2938",
+    "REF-2939",
+    "REF-2940",
+    "REF-2941",
+    "REF-2942",
+    "REF-2943",
+    "REF-2944"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -60157,7 +60304,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-17",
+   "last_updated": "2026-07-18",
    "common_slug": "white-clover"
   },
   {

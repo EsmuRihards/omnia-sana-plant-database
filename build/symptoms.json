@@ -17544,6 +17544,7 @@
      "status": "verified",
      "inferred": false,
      "references": [
+      "REF-2928",
       "REF-2889",
       "REF-0013",
       "REF-0036",
@@ -17593,27 +17594,33 @@
      ]
     },
     {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 8,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2927",
+      "REF-2926",
+      "REF-2925",
+      "REF-2896"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 7,
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2932",
+      "REF-2931",
+      "REF-2930",
       "REF-2889",
       "REF-2891",
       "REF-2892",
       "REF-2893",
       "REF-2894"
-     ]
-    },
-    {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2896"
      ]
     },
     {
@@ -17623,6 +17630,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2934",
       "REF-2890"
      ]
     },
@@ -17633,6 +17641,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2929",
       "REF-0013",
       "REF-0036",
       "REF-0112"
@@ -17669,6 +17678,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2923",
       "REF-0013",
       "REF-0036",
       "REF-0112"
@@ -17732,6 +17742,7 @@
      "status": "verified",
      "inferred": false,
      "references": [
+      "REF-2933",
       "REF-2897",
       "REF-2898"
      ]
@@ -18923,6 +18934,9 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2922",
+      "REF-2916",
+      "REF-2915",
       "REF-2878",
       "REF-2879",
       "REF-2882",
@@ -18947,6 +18961,18 @@
      ]
     },
     {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2918",
+      "REF-2914",
+      "REF-2913"
+     ]
+    },
+    {
      "condition": "bruising",
      "label": "Bruising",
      "evidence": 2,
@@ -18957,6 +18983,27 @@
       "REF-0200",
       "REF-0314",
       "REF-0659"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2913",
+      "REF-2912"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2919"
      ]
     },
     {
@@ -19044,6 +19091,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2921",
       "REF-0098",
       "REF-0200",
       "REF-0314",
@@ -21264,6 +21312,7 @@
      "status": "verified",
      "inferred": false,
      "references": [
+      "REF-2935",
       "REF-2901"
      ]
     },
@@ -21279,12 +21328,25 @@
      ]
     },
     {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2938",
+      "REF-2937"
+     ]
+    },
+    {
      "condition": "infection",
      "label": "Infection (general)",
      "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2941",
+      "REF-2937",
       "REF-2903",
       "REF-2909"
      ]

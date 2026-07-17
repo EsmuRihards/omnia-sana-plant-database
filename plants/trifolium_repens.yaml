@@ -88,6 +88,8 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
+  - REF-2943
+  - REF-2937
   - REF-0027
   - REF-0098
   - REF-0140
@@ -98,6 +100,12 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
+  - REF-2943
+  - REF-2940
+  - REF-2939
+  - REF-2938
+  - REF-2936
+  - REF-2935
   - REF-2901
   - REF-2905
   - REF-2907
@@ -151,13 +159,22 @@ actions:
   status: verified
 - action: antimicrobial
   reference_ids:
+  - REF-2943
+  - REF-2941
+  - REF-2937
   - REF-2903
   - REF-2909
   status: verified
 - action: antidiabetic
   reference_ids:
+  - REF-2935
   - REF-2901
   status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-2938
+  - REF-2937
+  status: needs-review
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
@@ -241,13 +258,21 @@ indications:
   status: verified
 - condition: blood-sugar
   reference_ids:
+  - REF-2935
   - REF-2901
   status: verified
 - condition: infection
   note: inferred from antimicrobial action
   reference_ids:
+  - REF-2941
+  - REF-2937
   - REF-2903
   - REF-2909
+  status: needs-review
+- condition: cognitive-function
+  reference_ids:
+  - REF-2938
+  - REF-2937
   status: needs-review
 contraindications:
 - note: Generally very safe as a food and in moderate herbal use. Cyanogenic glucosides present in very
@@ -287,13 +312,23 @@ references:
 - REF-2908
 - REF-2909
 - REF-2910
+- REF-2935
+- REF-2936
+- REF-2937
+- REF-2938
+- REF-2939
+- REF-2940
+- REF-2941
+- REF-2942
+- REF-2943
+- REF-2944
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-17'
+last_updated: '2026-07-18'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -307,4 +342,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
   anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
-  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-17: enriched with 10 PubMed-verified @article sources (REF-2901..REF-2910): antidiabetic/antioxidant/antiproliferative white-clover-flower muffins, hydrolysed-extract menopause-obesity/depression model, T. repens essential-oil cytotoxicity/antimicrobial, multi-Trifolium dermal wound-healing isoflavones, Trifolium seed-oil antioxidant lipids, isoflavone-legume reversal of ergot vasoconstriction (cardiovascular), T. repens antioxidant polysaccharides, forage-legume seed flavonoids, white-clover condensed-tannin activity against Cryptosporidium, and identification of T. repens as a new glycyrrhetinic-acid source; added antimicrobial/antidiabetic actions + blood-sugar/infection indications and wove refs into existing claims + references bucket. Note: white clover''s peer-reviewed medicinal literature is genuinely thin (its strongest prior papers were already cited), so genus-level and phytochemistry studies that explicitly report T. repens data are included.'
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-17: enriched with 10 PubMed-verified @article sources (REF-2901..REF-2910): antidiabetic/antioxidant/antiproliferative white-clover-flower muffins, hydrolysed-extract menopause-obesity/depression model, T. repens essential-oil cytotoxicity/antimicrobial, multi-Trifolium dermal wound-healing isoflavones, Trifolium seed-oil antioxidant lipids, isoflavone-legume reversal of ergot vasoconstriction (cardiovascular), T. repens antioxidant polysaccharides, forage-legume seed flavonoids, white-clover condensed-tannin activity against Cryptosporidium, and identification of T. repens as a new glycyrrhetinic-acid source; added antimicrobial/antidiabetic actions + blood-sugar/infection indications and wove refs into existing claims + references bucket. Note: white clover''s peer-reviewed medicinal literature is genuinely thin (its strongest prior papers were already cited), so genus-level and phytochemistry studies that explicitly report T. repens data are included. | 2026-07-18: added 10 more sources (REF-2935..2944) via OpenAlex (not PubMed); OpenAlex surfaced genuinely medicinal T. repens papers in non-PubMed-indexed journals: DPPH/phenolic methanol-extract characterization, edible-flower antioxidant + alpha-amylase/glucosidase/lipase inhibition (antidiabetic), anti-cholinesterase leaf extract (created neuroprotective action + cognitive-function indication), essential-oil pseudoionone multi-target (diabetic-neuropathy neuroprotection, anti-inflammatory, anti-MDR-infection), in-silico antibacterial screening, and green-juice antioxidant/antibacterial/anti-inflammatory. The two weakest (clover-protein redox enzymes; a multi-oil cytostatic panel) are kept in the references bucket only, not asserted as therapeutic claims.'

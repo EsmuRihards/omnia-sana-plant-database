@@ -91,6 +91,8 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
+  - REF-2890
+  - REF-2895
   - REF-0013
   - REF-0036
   - REF-0112
@@ -98,6 +100,10 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
+  - REF-2889
+  - REF-2890
+  - REF-2895
+  - REF-2899
   - REF-0013
   - REF-0036
   - REF-0112
@@ -124,6 +130,32 @@ actions:
   - REF-2346
   - REF-1108
   status: verified
+- action: anticancer
+  reference_ids:
+  - REF-2889
+  - REF-2891
+  - REF-2892
+  - REF-2893
+  - REF-2894
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-2896
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-2897
+  - REF-2898
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-2890
+  - REF-2900
+  status: verified
+- action: vulnerary
+  reference_ids:
+  - REF-2890
+  status: verified
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
@@ -141,6 +173,8 @@ indications:
   status: needs-review
 - condition: cardiovascular-support
   reference_ids:
+  - REF-2889
+  - REF-2895
   - REF-0013
   - REF-0036
   - REF-0112
@@ -213,6 +247,30 @@ indications:
   - REF-2346
   - REF-1108
   status: verified
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2889
+  - REF-2891
+  - REF-2892
+  - REF-2893
+  - REF-2894
+  status: needs-review
+- condition: blood-sugar
+  reference_ids:
+  - REF-2897
+  - REF-2898
+  status: verified
+- condition: cognitive-function
+  note: inferred from neuroprotective action
+  reference_ids:
+  - REF-2896
+  status: needs-review
+- condition: wounds
+  note: inferred from vulnerary action
+  reference_ids:
+  - REF-2890
+  status: needs-review
 contraindications:
 - note: Generally safe in normal dietary amounts. Isoflavones are phytoestrogens — exercise caution in
     oestrogen-receptor-positive breast cancer patients or those taking hormone therapies. May interact
@@ -253,6 +311,18 @@ references:
 - REF-2346
 - REF-0013
 - REF-2347
+- REF-2889
+- REF-2890
+- REF-2891
+- REF-2892
+- REF-2893
+- REF-2894
+- REF-2895
+- REF-2896
+- REF-2897
+- REF-2898
+- REF-2899
+- REF-2900
 drug_class_interactions:
 - drug_class: hormonal-therapies
   severity: caution
@@ -272,7 +342,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-07-17'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -284,4 +354,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   @article sources (REF-1104, REF-2344, REF-2345, REF-2346) — woven into relevant actions/indications
   and the plant-level references bucket. | 2026-07-12: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
-  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-17: enriched with 12 PubMed-verified @article sources (REF-2889..REF-2900) spanning anticancer (glioblastoma C6, breast MDA-MB-231/MCF-7 sprouts, 4T1 TNBC + doxorubicin synergy, B-ALL leukemia, plus a pharmacological/anti-cancer overview), neuroprotective/cognitive (isoflavone neurodegeneration review), antidiabetic (hypoglycemic polysaccharides, exosome STZ-diabetic rats), antimicrobial/antiparasitic (anticoccidial phytogenic; combined T. pratense+basil antibacterial/wound review), cardiovascular (ferroptosis/iron-homeostasis) and phytochemistry (DESIGNER minor bioactives); added anticancer/neuroprotective/antidiabetic/antimicrobial/vulnerary actions + cancer/blood-sugar/cognitive-function/wounds indications and wove refs into existing claims + references bucket.'

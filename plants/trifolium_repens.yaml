@@ -88,6 +88,7 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
+  - REF-2910
   - REF-0027
   - REF-0098
   - REF-0140
@@ -98,6 +99,10 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
+  - REF-2901
+  - REF-2905
+  - REF-2907
+  - REF-2908
   - REF-0027
   - REF-0098
   - REF-0140
@@ -125,6 +130,7 @@ actions:
   status: verified
 - action: vulnerary
   reference_ids:
+  - REF-2904
   - REF-0027
   - REF-0098
   - REF-0140
@@ -137,11 +143,22 @@ actions:
   status: verified
 - action: anticancer
   reference_ids:
+  - REF-2901
+  - REF-2903
   - REF-1325
   status: verified
 - action: hepatoprotective
   reference_ids:
   - REF-2369
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-2903
+  - REF-2909
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-2901
   status: verified
 indications:
 - condition: arthritis
@@ -161,6 +178,8 @@ indications:
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
+  - REF-2901
+  - REF-2903
   - REF-1325
   status: needs-review
 - condition: cold
@@ -208,6 +227,7 @@ indications:
 - condition: wounds
   note: inferred from vulnerary action
   reference_ids:
+  - REF-2904
   - REF-0027
   - REF-0098
   - REF-0140
@@ -222,6 +242,16 @@ indications:
   reference_ids:
   - REF-2369
   status: verified
+- condition: blood-sugar
+  reference_ids:
+  - REF-2901
+  status: verified
+- condition: infection
+  note: inferred from antimicrobial action
+  reference_ids:
+  - REF-2903
+  - REF-2909
+  status: needs-review
 contraindications:
 - note: Generally very safe as a food and in moderate herbal use. Cyanogenic glucosides present in very
     small amounts — not significant in normal food or tea use. Isoflavones are phytoestrogens (as in red
@@ -250,13 +280,23 @@ references:
 - REF-2367
 - REF-2368
 - REF-2369
+- REF-2901
+- REF-2902
+- REF-2903
+- REF-2904
+- REF-2905
+- REF-2906
+- REF-2907
+- REF-2908
+- REF-2909
+- REF-2910
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-07-17'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -270,4 +310,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
   general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
   anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
-  plant''s cited literature, as part of the cancer-condition campaign.'
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-17: enriched with 10 PubMed-verified @article sources (REF-2901..REF-2910): antidiabetic/antioxidant/antiproliferative white-clover-flower muffins, hydrolysed-extract menopause-obesity/depression model, T. repens essential-oil cytotoxicity/antimicrobial, multi-Trifolium dermal wound-healing isoflavones, Trifolium seed-oil antioxidant lipids, isoflavone-legume reversal of ergot vasoconstriction (cardiovascular), T. repens antioxidant polysaccharides, forage-legume seed flavonoids, white-clover condensed-tannin activity against Cryptosporidium, and identification of T. repens as a new glycyrrhetinic-acid source; added antimicrobial/antidiabetic actions + blood-sugar/infection indications and wove refs into existing claims + references bucket. Note: white clover''s peer-reviewed medicinal literature is genuinely thin (its strongest prior papers were already cited), so genus-level and phytochemistry studies that explicitly report T. repens data are included.'

@@ -101,6 +101,8 @@ dosage:
 actions:
 - action: anti-inflammatory
   reference_ids:
+  - REF-2884
+  - REF-2887
   - REF-0098
   - REF-0200
   - REF-0314
@@ -121,6 +123,8 @@ actions:
   status: verified
 - action: antioxidant
   reference_ids:
+  - REF-2881
+  - REF-2884
   - REF-0098
   - REF-0200
   - REF-0314
@@ -141,6 +145,10 @@ actions:
   status: verified
 - action: immunomodulator
   reference_ids:
+  - REF-2880
+  - REF-2881
+  - REF-2882
+  - REF-2887
   - REF-0098
   - REF-0200
   - REF-0314
@@ -156,6 +164,24 @@ actions:
   - REF-0200
   - REF-0314
   - REF-0659
+  status: verified
+- action: anticancer
+  reference_ids:
+  - REF-2878
+  - REF-2879
+  - REF-2882
+  - REF-2885
+  - REF-2886
+  - REF-2888
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-2883
+  status: verified
+- action: hepatoprotective
+  reference_ids:
+  - REF-2884
+  - REF-2888
   status: verified
 indications:
 - condition: arthritis
@@ -189,6 +215,8 @@ indications:
   status: needs-review
 - condition: immune-support
   reference_ids:
+  - REF-2882
+  - REF-2887
   - REF-0098
   - REF-0200
   - REF-0314
@@ -207,6 +235,8 @@ indications:
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
+  - REF-2884
+  - REF-2887
   - REF-0098
   - REF-0200
   - REF-0314
@@ -231,6 +261,16 @@ indications:
   - REF-0200
   - REF-0314
   - REF-0659
+  status: needs-review
+- condition: cancer
+  note: inferred from anticancer action
+  reference_ids:
+  - REF-2878
+  - REF-2879
+  - REF-2882
+  - REF-2885
+  - REF-2886
+  - REF-2888
   status: needs-review
 contraindications:
 - note: Generally very safe and well tolerated. No significant known toxicity or drug interactions. Safe
@@ -260,13 +300,24 @@ references:
 - REF-2423
 - REF-2424
 - REF-2425
+- REF-2878
+- REF-2879
+- REF-2880
+- REF-2881
+- REF-2882
+- REF-2883
+- REF-2884
+- REF-2885
+- REF-2886
+- REF-2887
+- REF-2888
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-17'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -279,4 +330,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   publications: added 5 PubMed-verified @article sources (REF-0659, REF-2422, REF-2423, REF-2424, REF-2425)
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   botanical_description/habitat/harvesting/traditional_uses/preparations/dosage monograph-base fields,
-  sourced from the existing critical pharmacological/traditional-uses/phytochemistry review (REF-0659).'
+  sourced from the existing critical pharmacological/traditional-uses/phytochemistry review (REF-0659). | 2026-07-17: added 11 PubMed-verified @article sources (REF-2878..REF-2888) focused on anticancer (pancreatic/breast/thyroid/hepatocellular + PV-1 tumor-immune-microenvironment chemoprevention), immune/anti-inflammatory (autoimmune thyroiditis, anti-ageing/immunosenescence, thyroid-nodule RCT meta-analysis), neuroprotective (vulgarisin-type diterpenoids, cerebral I/R) and hepatoprotective (liver-injury/uveitis polyphenols, HCC) research; added anticancer/neuroprotective/hepatoprotective actions + cancer indication and wove refs into existing actions/indications + the plant-level references bucket.'

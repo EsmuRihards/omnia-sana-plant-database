@@ -17544,6 +17544,8 @@
      "status": "verified",
      "inferred": false,
      "references": [
+      "REF-2889",
+      "REF-2895",
       "REF-0013",
       "REF-0036",
       "REF-0112",
@@ -17589,6 +17591,40 @@
       "REF-2345",
       "REF-1108",
       "REF-2347"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2889",
+      "REF-2891",
+      "REF-2892",
+      "REF-2893",
+      "REF-2894"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2896"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2890"
      ]
     },
     {
@@ -17688,6 +17724,17 @@
       "REF-0036",
       "REF-0112",
       "REF-1110"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2897",
+      "REF-2898"
      ]
     }
    ]
@@ -18871,6 +18918,21 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 7,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2878",
+      "REF-2879",
+      "REF-2882",
+      "REF-2885",
+      "REF-2886",
+      "REF-2888"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 2,
@@ -18921,6 +18983,8 @@
      "status": "verified",
      "inferred": false,
      "references": [
+      "REF-2882",
+      "REF-2887",
       "REF-0098",
       "REF-0200",
       "REF-0314",
@@ -18949,6 +19013,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2884",
+      "REF-2887",
       "REF-0098",
       "REF-0200",
       "REF-0314",
@@ -21184,11 +21250,22 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2904",
       "REF-0027",
       "REF-0098",
       "REF-0140",
       "REF-1323",
       "REF-2367"
+     ]
+    },
+    {
+     "condition": "blood-sugar",
+     "label": "Blood sugar / diabetes support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2901"
      ]
     },
     {
@@ -21198,7 +21275,20 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
+      "REF-2901",
+      "REF-2903",
       "REF-1325"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2903",
+      "REF-2909"
      ]
     },
     {

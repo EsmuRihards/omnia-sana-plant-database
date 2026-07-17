@@ -88,7 +88,6 @@ constituents:
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-2910
   - REF-0027
   - REF-0098
   - REF-0140
@@ -144,7 +143,6 @@ actions:
 - action: anticancer
   reference_ids:
   - REF-2901
-  - REF-2903
   - REF-1325
   status: verified
 - action: hepatoprotective
@@ -179,7 +177,6 @@ indications:
   note: inferred from anticancer action
   reference_ids:
   - REF-2901
-  - REF-2903
   - REF-1325
   status: needs-review
 - condition: cold

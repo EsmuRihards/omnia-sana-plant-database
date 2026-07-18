@@ -37,9 +37,18 @@ LOOKALIKE_OUTCOMES = {"none-known", "has-lookalikes"}
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 
+# Keys whose free text is editorial prose, not citation data. They routinely
+# discuss REF-ids that are deliberately no longer cited — e.g. the notes
+# recording why a phantom reference was removed — so scanning them would
+# resurrect those ids as "cited" and break the missing/orphan accounting.
+PROSE_KEYS = {"internal_notes"}
+
+
 def find_refs(node):
     if isinstance(node, dict):
-        for v in node.values():
+        for k, v in node.items():
+            if k in PROSE_KEYS:
+                continue
             yield from find_refs(v)
     elif isinstance(node, list):
         for v in node:
@@ -49,11 +58,19 @@ def find_refs(node):
 
 
 def declared_refs():
+    """REF-ids declared by the bibliography.
+
+    Only the canonical `note = {REF-XXXX}` field counts. Scanning whole entry
+    bodies would also pick up REF-ids mentioned inside `summary`/`abstract`/
+    `integrity_note` prose (e.g. a note explaining that some other entry was a
+    phantom), which would silently mask a genuine missing-reference error.
+    """
     raw = open(BIB, encoding="utf-8").read()
     text = "\n".join(l for l in raw.splitlines() if not l.lstrip().startswith("%"))
     out = set()
     for m in re.finditer(r"@\w+\s*\{\s*[^,\s]+\s*,(.*?)(?=\n@|\Z)", text, re.S):
-        out.update(REF_RE.findall(m.group(1)))
+        for note in re.finditer(r"note\s*=\s*\{\s*(REF-\d{4,})\s*\}", m.group(1)):
+            out.add(note.group(1))
     return out
 
 

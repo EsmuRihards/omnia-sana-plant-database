@@ -101,7 +101,6 @@ actions:
 - action: anti-inflammatory
   reference_ids:
   - REF-0051
-  - REF-0076
   - REF-0239
   - REF-0989
   - REF-0990
@@ -113,7 +112,6 @@ actions:
 - action: antioxidant
   reference_ids:
   - REF-0051
-  - REF-0076
   - REF-0239
   - REF-0990
   - REF-0992
@@ -126,7 +124,6 @@ indications:
 - condition: arthritis
   reference_ids:
   - REF-0051
-  - REF-0076
   - REF-0239
   - REF-0989
   - REF-0990
@@ -140,14 +137,12 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0051
-  - REF-0076
   - REF-0239
   - REF-0990
   status: needs-review
 - condition: metabolic-support
   reference_ids:
   - REF-0051
-  - REF-0076
   - REF-0239
   - REF-0991
   - REF-0994
@@ -156,7 +151,6 @@ indications:
   note: inferred from anti-inflammatory action
   reference_ids:
   - REF-0051
-  - REF-0076
   - REF-0239
   - REF-0996
   status: needs-review
@@ -167,7 +161,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0051
-  - REF-0076
   - REF-0239
   status: verified
 - note: Duke (2002) rates dog rose hips as +++ with clinical evidence (score 2) for astringent activity
@@ -178,7 +171,6 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0051
-  - REF-0076
   - REF-0239
   status: verified
 references:
@@ -220,4 +212,14 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   citation found (see also REF-0072 on hyssopus_officinalis and REF-0522 on verbena_officinalis). REF-0076
   is used 8 times on this plant and does NOT source the dosage entry. TODO: audit those 8 uses and remove
   the bibliography entry. Dosage remains unsourced pending a real source (ESCOP has a rosehip monograph -
-  candidate for a future batch).'
+  candidate for a future batch). | 2026-07-18 (phantom-citation cleanup): REF-0076 CLEANUP. All 8 REF-0076
+  citations removed (confirmed phantom - no EMA monograph for Rosa canina exists; the register holds only
+  Rosae flos, i.e. R. centifolia/gallica/damascena, a different species and a different plant part, and HMPC
+  has never processed Rosa canina fructus). Every use was CO-CITED with REF-0051 (Chrubasik 2008, a
+  systematic review of Rosa canina efficacy) and REF-0239, plus plant-specific papers, so this was a clean
+  drop - no claim lost a source and no substitute was needed. REF-0076 now has 0 citations across the
+  database. CORRECTION TO MY OWN EARLIER NOTE: the batch-4 entry above states ''Dosage remains unsourced
+  pending a real source''. That was WRONG - the dosage entry (''Rosehip powder'', ~5 g/day for
+  osteoarthritis) was and is sourced to REF-0989, Christensen et al. 2008, a meta-analysis of randomised
+  controlled trials in Osteoarthritis and Cartilage which reports the administered dose. No dosage work was
+  needed on this plant.'

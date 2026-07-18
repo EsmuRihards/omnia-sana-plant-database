@@ -8759,7 +8759,6 @@
      "inferred": false,
      "references": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0989",
       "REF-0990"
@@ -8773,7 +8772,6 @@
      "inferred": true,
      "references": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0990"
      ]
@@ -8786,7 +8784,6 @@
      "inferred": false,
      "references": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0991",
       "REF-0994"
@@ -8800,7 +8797,6 @@
      "inferred": true,
      "references": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0996"
      ]
@@ -13002,6 +12998,18 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "bronchitis",
+     "label": "Bronchitis",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0845",
+      "REF-1804",
+      "REF-0227"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -13012,57 +13020,49 @@
      ]
     },
     {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0072",
-      "REF-0227"
-     ]
-    },
-    {
-     "condition": "bronchitis",
-     "label": "Bronchitis",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0072",
-      "REF-0227"
-     ]
-    },
-    {
      "condition": "cough",
      "label": "Cough",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0072",
+      "REF-0845",
+      "REF-1804",
       "REF-0227"
      ]
     },
     {
      "condition": "inflammation",
      "label": "Inflammation (general)",
-     "evidence": 1,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0072",
+      "REF-0845",
+      "REF-1804",
       "REF-0227"
      ]
     },
     {
      "condition": "respiratory-support",
      "label": "Respiratory support",
-     "evidence": 1,
+     "evidence": 2,
      "status": "verified",
      "inferred": false,
      "references": [
-      "REF-0072",
+      "REF-0845",
+      "REF-1804",
+      "REF-0227"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0845",
       "REF-0227"
      ]
     },
@@ -13073,7 +13073,7 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-0072",
+      "REF-0845",
       "REF-0227"
      ]
     }

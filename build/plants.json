@@ -30118,7 +30118,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0072",
       "REF-0227",
       "REF-1804"
      ],
@@ -30134,7 +30133,6 @@
     {
      "action": "antioxidant",
      "reference_ids": [
-      "REF-0072",
       "REF-0227",
       "REF-1801",
       "REF-1806",
@@ -30145,7 +30143,6 @@
     {
      "action": "expectorant",
      "reference_ids": [
-      "REF-0072",
       "REF-0227",
       "REF-1803",
       "REF-1804"
@@ -30158,7 +30155,7 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0072",
+      "REF-0845",
       "REF-0227"
      ],
      "status": "needs-review",
@@ -30169,11 +30166,12 @@
      "condition": "bronchitis",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0072",
+      "REF-0845",
+      "REF-1804",
       "REF-0227"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Bronchitis"
     },
     {
@@ -30190,39 +30188,42 @@
      "condition": "cough",
      "note": "inferred from expectorant action",
      "reference_ids": [
-      "REF-0072",
+      "REF-0845",
+      "REF-1804",
       "REF-0227"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Cough"
     },
     {
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0072",
+      "REF-0845",
+      "REF-1804",
       "REF-0227"
      ],
      "status": "needs-review",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
      "condition": "respiratory-support",
      "reference_ids": [
-      "REF-0072",
+      "REF-0845",
+      "REF-1804",
       "REF-0227"
      ],
      "status": "verified",
-     "evidence": 1,
+     "evidence": 2,
      "label": "Respiratory support"
     },
     {
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0072",
+      "REF-0845",
       "REF-0227"
      ],
      "status": "needs-review",
@@ -30235,7 +30236,8 @@
      "note": "Generally safe at therapeutic doses. Hyssop essential oil is neurotoxic in high doses (contains pinocamphone and isopinocamphone) — internal use of the essential oil is contraindicated, especially in epilepsy, pregnancy, and children. The herb (dried or fresh) at normal tea doses does not carry this risk. Not recommended internally in medicinal doses during pregnancy.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0072",
+      "REF-0845",
+      "REF-0846",
       "REF-0227"
      ],
      "status": "verified"
@@ -30244,7 +30246,8 @@
      "note": "Duke (2002) rates hyssop as ++ and notes clinical evidence (score 2) for antiviral activity, particularly against herpes simplex virus, which is notable clinical validation for this herb. It also demonstrates experimental antibacterial, antispasmodic, and expectorant activities. Duke warns that hyssop essential oil is potentially convulsant at higher doses (due to pinocamphone content) and should not be used in epilepsy or by children. Dose: 2–3 g dried herb as tea three times daily; no more than 0.3 ml of essential oil internally. Avoid in pregnancy due to emmenagogue properties (Duke, 2002).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0072",
+      "REF-0845",
+      "REF-0846",
       "REF-0227"
      ],
      "status": "verified"
@@ -49922,7 +49925,6 @@
      "action": "anti-inflammatory",
      "reference_ids": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0989",
       "REF-0990"
@@ -49940,7 +49942,6 @@
      "action": "antioxidant",
      "reference_ids": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0990",
       "REF-0992",
@@ -49957,7 +49958,6 @@
      "condition": "arthritis",
      "reference_ids": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0989",
       "REF-0990"
@@ -49981,7 +49981,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0990"
      ],
@@ -49993,7 +49992,6 @@
      "condition": "metabolic-support",
      "reference_ids": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0991",
       "REF-0994"
@@ -50007,7 +50005,6 @@
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
       "REF-0051",
-      "REF-0076",
       "REF-0239",
       "REF-0996"
      ],
@@ -50022,7 +50019,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0051",
-      "REF-0076",
       "REF-0239"
      ],
      "status": "verified"
@@ -50032,7 +50028,6 @@
      "severity": "info",
      "reference_ids": [
       "REF-0051",
-      "REF-0076",
       "REF-0239"
      ],
      "status": "verified"

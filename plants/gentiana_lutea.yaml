@@ -95,9 +95,13 @@ preparations:
   status: verified
 dosage:
 - name: Infusion/tincture
-  text: Traditional herbal references suggest around 0.5-2 g of dried root per dose, taken shortly before
-    meals, up to three times daily. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph gives a single dose of 0.6-2 g of the comminuted root in 150 mL of boiling
+    water as an infusion, 1-3 times per day (daily dose 0.6-6 g), or 1 mL of tincture 1-3 times daily,
+    in adults and elderly. For loss of appetite the liquid preparations are taken half an hour before
+    a meal. Not recommended under 18 years. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0453
+  status: verified
 actions:
 - action: bitter-tonic
   note: Aromatic bitter for temporary loss of appetite
@@ -205,16 +209,21 @@ dangerous_lookalikes:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
-  Gentianae radix; Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton
-  imported from the omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss,
-  nausea); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with two PubMed-sourced
-  genus Gentiana phytochemistry/pharmacology reviews (REF-0580, REF-0581); these are genus-level (G. lutea
-  is the type species), cited here for constituent characterisation and the digestive-secretion action.
-  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
-  sources (REF-1647, REF-1648, REF-0580, REF-1649, REF-1650, REF-1651, REF-1652, REF-1653, REF-1654, REF-1655)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Gentianae radix;
+  Molecules study of gentian iridoids and gastric stimulation). Originally a skeleton imported from the
+  omniasana.bio Symptom-to-Plant Lookup tool (indigestion, bloating, appetite-loss, nausea); associations
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with two PubMed-sourced genus Gentiana
+  phytochemistry/pharmacology reviews (REF-0580, REF-0581); these are genus-level (G. lutea is the type
+  species), cited here for constituent characterisation and the digestive-secretion action. | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). |
+  2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-1647,
+  REF-1648, REF-0580, REF-1649, REF-1650, REF-1651, REF-1652, REF-1653, REF-1654, REF-1655) — woven into
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from
+  the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 2): dosage sourced to REF-0453, the EU
+  herbal monograph on Gentiana lutea L., radix, Revision 1 (EMA/HMPC/607861/2017), already in the
+  bibliography. CORRECTION: lower bound 0.5 g -> 0.6 g per the monograph; daily dose 0.6-6 g and tincture 1
+  mL 1-3x daily added; the vague ''shortly before meals'' replaced with the monograph''s ''half an hour
+  before a meal'' for liquid preparations. Adults and elderly only. No new reference needed. status ->
+  verified.'

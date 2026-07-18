@@ -110,15 +110,19 @@ preparations:
   status: draft
 dosage:
 - name: Infusion
-  text: The EU herbal monograph describes traditional use of about 2.5-5 g dried herb as an infusion,
-    taken up to three times daily, or used as a gargle/mouthwash. Educational reference only, not a prescription.
+  text: The EU herbal monograph gives 1.5-4 g of the comminuted herb in 250 mL (or less) of boiling water
+    as an infusion, 2-3 times daily, in adolescents, adults and elderly. As a gargle for mild oral or
+    throat inflammation, 1.5 g in 150 mL of boiling water 2-4 times daily, or a decoction of 3-4.5 g in
+    250 mL 2-3 times daily. Educational reference only, not a prescription.
   reference_ids:
   - REF-0386
-  status: draft
+  status: verified
 - name: Tincture
-  text: Traditional herbal references suggest around 1-4 mL of a 1:5 tincture, up to three times daily.
-    Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph gives 1-4 mL three times daily (orally, or as a gargle for oral and throat
+    use). Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0386
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory gargle (mild inflammation of the mouth and throat / sore throat)
@@ -314,16 +318,21 @@ lookalikes_review:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality,
-  peer-reviewed review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
-  tool (diarrhea, sore-throat, indigestion, wounds); symptom associations retained and now part-mapped
-  and cited. Further enriched 2026-06-14 with five PubMed sources (REF-0680..REF-0684) - an antinociceptive
-  neuropathy study (REF-0680), two pharmacology reviews of phenolic composition and activities (REF-0681,
-  REF-0683), a skin-wound-healing study (REF-0682) and a gastroprotective anti-ulcer study (REF-0684).
-  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 12 PubMed-verified @article
-  sources (REF-0681, REF-0683, REF-2328, REF-2329, REF-2330, REF-2331, REF-2332, REF-2333, REF-2334, REF-2335,
-  REF-2336, REF-2337) — woven into relevant actions/indications and the plant-level references bucket.
-  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
-  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality, peer-reviewed
+  review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea,
+  sore-throat, indigestion, wounds); symptom associations retained and now part-mapped and cited. Further
+  enriched 2026-06-14 with five PubMed sources (REF-0680..REF-0684) - an antinociceptive neuropathy study
+  (REF-0680), two pharmacology reviews of phenolic composition and activities (REF-0681, REF-0683), a
+  skin-wound-healing study (REF-0682) and a gastroprotective anti-ulcer study (REF-0684). | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). |
+  2026-06-20: enriched to >=10 scientific publications: added 12 PubMed-verified @article sources (REF-0681,
+  REF-0683, REF-2328, REF-2329, REF-2330, REF-2331, REF-2332, REF-2333, REF-2334, REF-2335, REF-2336,
+  REF-2337) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
+  dosage) sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 2): both entries sourced to
+  REF-0386, the EU herbal monograph on Agrimonia eupatoria L., herba (EMA/HMPC/680597/2013), already in the
+  bibliography. CORRECTION: the infusion entry claimed ''about 2.5-5 g dried herb''; the monograph gives
+  1.5-4 g in 250 mL, 2-3x daily, with separate gargle posology (1.5 g in 150 mL 2-4x daily, or a 3-4.5 g
+  decoction 2-3x daily). The tincture entry''s ''1:5'' ratio was dropped - the monograph specifies 1-4 mL 3x
+  daily without a ratio. No new reference needed. status -> verified.'

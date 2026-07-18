@@ -70,9 +70,14 @@ preparations:
   status: draft
 dosage:
 - name: Infusion
-  text: Traditional herbal references suggest around 1.5-2 g of dried flower or leaf per cup, up to three
-    to four times daily, carefully strained. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph gives 1.5-2 g of the flower in 150 mL of boiling water as an infusion,
+    three to four times daily (daily dose 4.5-8 g), in adolescents, adults and elderly; the infusion should
+    be carefully strained to remove the irritant hairs. The monograph covers the FLOWER (Verbasci flos)
+    only — it gives no posology for the leaf. Not recommended under 12 years. Educational reference only,
+    not a prescription.
+  reference_ids:
+  - REF-0441
+  status: verified
 constituents:
 - name: Iridoid glycosides (aucubin, catalpol)
   compounds:
@@ -250,15 +255,21 @@ dangerous_lookalikes:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 10 PubMed-verified @article sources (REF-1123, REF-1124, REF-1125, REF-1126, REF-1127,
-  REF-1128, REF-1129, REF-1130, REF-1131, REF-1132) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
-  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13:
-  added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
-  from the plant''s cited literature, as part of the cancer-condition campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-1123, REF-1124, REF-1125, REF-1126, REF-1127, REF-1128, REF-1129,
+  REF-1130, REF-1131, REF-1132) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing
+  campaign, batch 2): dosage sourced to REF-0441, the EU herbal monograph on Verbascum thapsus L., V.
+  densiflorum Bertol. (V. thapsiforme Schrad) and V. phlomoides L., flos (EMA/HMPC/611537/2016), already in
+  the bibliography. The existing 1.5-2 g / 3-4x daily figure matched the monograph exactly; daily dose 4.5-8
+  g and the under-12 restriction were added. SCOPE CORRECTION: the entry said ''dried flower or leaf''; the
+  monograph is Verbasci FLOS and gives no posology for the leaf, so the text now says so explicitly. No new
+  reference needed. status -> verified.'

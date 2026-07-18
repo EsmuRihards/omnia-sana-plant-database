@@ -269,4 +269,15 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   REF-1364, REF-1365, REF-1366, REF-1367) — woven into relevant actions/indications and the plant-level
   references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
   traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy.'
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign,
+  batch 2): DEAD END, dosage left unsourced — AND A CITATION-INTEGRITY FLAG. REF-0522 is recorded in the
+  bibliography as "European Union herbal monograph on Verbena officinalis L., herba (Verbenae herba)"
+  (EMA HMPC), but no such monograph exists: the cited EMA medicine-page URL (/medicines/herbal/verbenae-herba)
+  404s, as do the standard final-community- and final-european-union- monograph PDF URL patterns, and
+  Verbena officinalis does not appear in the HMPC monograph list. Vervain appears in EMA''s combination
+  monograph on Species digestivae but has no standalone monograph. This is the SECOND phantom EMA citation
+  found in this campaign (see hyssopus_officinalis / REF-0072); REF-0522 is used 18 times on this plant
+  and was NOT used to source the dosage entry. The European Pharmacopoeia does carry a Verbenae herba
+  monograph, but Ph. Eur. monographs are identity/purity standards and give no posology, so they cannot
+  source a dose. No ESCOP or WHO monograph and no dose-reporting clinical trial found. TODO: audit REF-0522''s
+  18 uses and remove the bibliography entry.'

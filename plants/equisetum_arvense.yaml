@@ -64,9 +64,14 @@ preparations:
   status: draft
 dosage:
 - name: Decoction/infusion
-  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily,
-    for short-term use only, with adequate fluid intake. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph gives a single dose of 1-4 g of the comminuted herb in 150 mL of boiling
+    water as an infusion or decoction (5-15 minutes), 3-4 times daily, for a daily dose of 3-12 g, in
+    adolescents, adults and elderly; traditionally used over a period of 2 to 4 weeks. For cutaneous use,
+    10 g in 1 L of water as a decoction for impregnated dressings and irrigation. Not recommended under
+    12 years. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0083
+  status: verified
 constituents:
 - name: Silica (silicic acid)
   compounds:
@@ -316,15 +321,20 @@ dangerous_lookalikes:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 10 PubMed-verified @article sources (REF-1398, REF-0727, REF-1399, REF-1400, REF-1401,
-  REF-1402, REF-1403, REF-1404, REF-1405, REF-1406) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
-  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13:
-  added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
-  from the plant''s cited literature, as part of the cancer-condition campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-1398, REF-0727, REF-1399, REF-1400, REF-1401, REF-1402, REF-1403,
+  REF-1404, REF-1405, REF-1406) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing
+  campaign, batch 2): dosage sourced to REF-0083, the EU herbal monograph on Equisetum arvense L., herba
+  (EMA/HMPC/278091/2015), already in the bibliography. The entry''s ''2-4 g per cup up to three times
+  daily'' sat inside the monograph range but understated it; rewritten to the monograph''s single dose 1-4 g
+  in 150 mL, 3-4x daily, daily dose 3-12 g, plus its explicit 2-4 week traditional duration and the
+  cutaneous decoction (10 g/L). No new reference needed. status -> verified.'

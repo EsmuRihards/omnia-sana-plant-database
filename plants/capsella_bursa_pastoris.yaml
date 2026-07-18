@@ -76,12 +76,20 @@ preparations:
   status: draft
 dosage:
 - name: Infusion
-  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily.
-    Educational reference only, not a prescription.
-  status: draft
-- name: Tincture
-  text: About 1-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph gives 1-5 g of the comminuted herb as a single dose for tea preparation,
+    2-4 times daily (daily dose 3-20 g), in adults. For heavy menstrual bleeding the monograph directs
+    that use be started 3-5 days before menstruation and continued during the bleeding. Not recommended
+    under 18 years. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3068
+  - REF-0508
+  status: verified
+- name: Liquid extract
+  text: The EU herbal monograph gives 1-4 mL as a single dose, three times daily (daily dose 3-12 mL),
+    in adults, on the same pre-menstrual timing as the tea. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3068
+  status: verified
 actions:
 - action: astringent
   note: Astringent / styptic for minor wounds (helps stop bleeding, topical)
@@ -173,17 +181,24 @@ lookalikes_review:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph;
-  ESCOP note citing an RCT showing reduced menstrual blood loss). Originally a skeleton imported from
-  the omniasana.bio Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations
-  retained and now part-mapped and cited. Further enriched 2026-06-14 by citing that RCT directly - the
-  PubMed-sourced triple-blind trial by Naafe et al. (REF-0608) in which Capsella bursa-pastoris significantly
-  reduced heavy menstrual bleeding (PBLAC score) versus control. | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
-  PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0761, REF-0762,
-  REF-0763. | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources
-  (REF-1971, REF-1972, REF-1973, REF-0761, REF-0763, REF-1974, REF-0762, REF-1975, REF-1976) — woven into
-  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
-  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
-  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph; ESCOP note citing an
+  RCT showing reduced menstrual blood loss). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations retained and now
+  part-mapped and cited. Further enriched 2026-06-14 by citing that RCT directly - the PubMed-sourced
+  triple-blind trial by Naafe et al. (REF-0608) in which Capsella bursa-pastoris significantly reduced heavy
+  menstrual bleeding (PBLAC score) versus control. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0761, REF-0762, REF-0763. |
+  2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources (REF-1971,
+  REF-1972, REF-1973, REF-0761, REF-0763, REF-1974, REF-0762, REF-1975, REF-1976) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
+  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
+  policy. | 2026-07-18 (dosage-sourcing campaign, batch 2): dosage sourced to the EU herbal monograph on
+  Capsella bursa-pastoris (L.) Medikus, herba (EMA/HMPC/262766/2010 = REF-3068, new), with REF-0508 (ESCOP
+  news item on shepherd''s purse and heavy menstrual bleeding) kept as a secondary citation - REF-0508 is a
+  web news page, not a monograph, so it was not used alone. Tea rewritten to the monograph''s 1-5 g single
+  dose 2-4x daily (daily 3-20 g). The ''Tincture / 1-4 mL of a 1:5'' entry was renamed to ''Liquid extract''
+  because that is what the monograph actually specifies (1-4 mL 3x daily). Added the monograph''s key timing
+  instruction: start 3-5 days before menstruation and continue during bleeding. Adults only. status ->
+  verified.'

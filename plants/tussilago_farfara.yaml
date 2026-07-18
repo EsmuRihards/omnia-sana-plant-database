@@ -6,10 +6,8 @@ common_names:
 - coughwort
 - foal’s foot
 - horsehoof
-- Kuan Dong Hua / Farfarae Flos (Chen et al
-- '2020'
-- Liu et al
-- 2020)
+- Kuan Dong Hua
+- Farfarae Flos
 family: Asteraceae
 external_ids:
   gbif: 3149879
@@ -48,7 +46,7 @@ harvesting:
   - Leaf
   season: Flower in very early spring; leaf later in the growing season
   reference_ids:
-  - REF-0068
+  - REF-0911
   status: verified
 traditional_uses:
   text: Coltsfoot has an ancient European and Chinese tradition, reflected in its Latin name (tussis =
@@ -56,7 +54,8 @@ traditional_uses:
     of its pyrrolizidine alkaloid content, contemporary use is restricted to short courses of PA-controlled
     preparations under regulatory limits (see contraindications).
   reference_ids:
-  - REF-0068
+  - REF-0911
+  - REF-0910
   - REF-0304
   status: verified
 preparations:
@@ -64,19 +63,21 @@ preparations:
   text: Commercially prepared, pyrrolizidine-alkaloid-tested extract or syrup, the only form recommended
     for internal use given the plant's natural PA content.
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0911
   status: verified
 - name: Infusion (short-term, traditional)
   text: Dried flower or leaf infused in hot water; traditional but subject to strict duration/PA-content
     limits under EU herbal regulation.
   reference_ids:
-  - REF-0068
+  - REF-0911
   status: verified
 - name: Topical preparation
   text: Leaf used topically (e.g. poultice) on intact skin; EMA guidance still notes PA-exposure limits
     apply to topical products.
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0911
   status: verified
 dosage:
 - name: PA-controlled internal use
@@ -104,18 +105,19 @@ constituents:
   - mucilage
   note: Demulcent polysaccharide contributing to the traditional soothing action on irritated airways.
   reference_ids:
-  - REF-0068
+  - REF-0911
+  - REF-0910
 - name: Flavonoids and tannins
   compounds:
   - flavonoid
   - tannin
   note: Contribute to anti-inflammatory and astringent activity.
   reference_ids:
-  - REF-0068
+  - REF-0911
+  - REF-0910
 actions:
 - action: anti-inflammatory
   reference_ids:
-  - REF-0068
   - REF-0252
   - REF-0304
   - REF-0910
@@ -124,22 +126,22 @@ actions:
   status: verified
 - action: sedative
   reference_ids:
-  - REF-0068
+  - REF-0911
   - REF-0252
   - REF-0304
-  status: verified
+  status: needs-review
 indications:
 - condition: arthritis
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0068
+  - REF-0911
   - REF-0252
   - REF-0304
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0068
+  - REF-0911
   - REF-0252
   - REF-0304
   - REF-0919
@@ -147,14 +149,14 @@ indications:
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0068
+  - REF-0911
   - REF-0252
   - REF-0304
   status: needs-review
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
   reference_ids:
-  - REF-0068
+  - REF-0911
   - REF-0252
   - REF-0304
   status: needs-review
@@ -164,7 +166,8 @@ contraindications:
     can damage the liver and may increase cancer risk with enough exposure (EMA, 2021; Kopp et al., 2020).'
   severity: caution
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0914
   - REF-0252
   - REF-0304
   status: verified
@@ -172,7 +175,8 @@ contraindications:
     (EMA, 2021).
   severity: info
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0914
   - REF-0252
   - REF-0304
   status: verified
@@ -180,7 +184,8 @@ contraindications:
     the product is specifically made to be PA-controlled / PA-reduced (EMA, 2021).
   severity: caution
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0914
   - REF-0252
   - REF-0304
   status: verified
@@ -188,7 +193,8 @@ contraindications:
     groups are treated as “sensitive” in PA risk guidance (EMA, 2021).
   severity: caution
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0914
   - REF-0252
   - REF-0304
   status: verified
@@ -197,7 +203,8 @@ contraindications:
     (EMA, 2021).'
   severity: caution
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0914
   - REF-0252
   - REF-0304
   status: verified
@@ -205,7 +212,8 @@ contraindications:
     intact skin for PA-containing products (EMA, 2021).
   severity: info
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0914
   - REF-0252
   - REF-0304
   status: verified
@@ -217,7 +225,8 @@ contraindications:
     safety as low (+) and emphasizes that preparations free of PAs are preferred (Duke, 2002).
   severity: serious
   reference_ids:
-  - REF-0068
+  - REF-3070
+  - REF-0914
   - REF-0252
   - REF-0304
   status: verified
@@ -288,4 +297,30 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   limit for a maximum of 6 weeks per year. The dosage entry was repointed REF-0068 -> REF-3070, its ''4-6
   weeks per year'' corrected to the stated 6 weeks, and it now says explicitly that these are PA-intake
   limits rather than a herb dose. REF-0068''s OTHER 20 uses on this plant are untouched and still need
-  auditing - a PA safety document would not support most of them either.'
+  auditing - a PA safety document would not support most of them either. | 2026-07-18 (REF-0068 audit):
+  REF-0068 AUDIT AND REMOVAL - completes the citation-integrity work from the EMA audit earlier this
+  session. REF-0068 was recorded as ''Assessment report on Tussilago farfara L., folium'' (EMA, 2007). It
+  could not be verified and has been removed: Tussilago is entirely absent from the official EMA herbal
+  medicines register (251 rows, retrieved 2026-07-18), the medicine-page slugs farfarae-folium /
+  tussilaginis-farfarae-folium / tussilago-farfara / farfarae-herba all 404, and no candidate
+  assessment-report or monograph PDF resolves. There is no EMA monograph for coltsfoot and therefore no
+  official posology for the herb. All 20 citations were re-sourced from this plant''s own literature rather
+  than dropped, because 14 of them were co-cited only with REF-0252 - which is a POWO taxonomic record, and
+  cannot support a therapeutic or safety claim - and 6 were sole-cited. Substitutes: REF-0911 (Zhao et al.,
+  a review of the ethnobotanical value, phytochemistry, pharmacology, TOXICITY and QUALITY CONTROL of
+  Tussilago farfara) carries the harvesting, preparation, constituent, traditional-use and pharmacology
+  claims; REF-0910 (2025 Natural Product Research review) co-carries traditional use and constituents;
+  REF-3070 (EMA public statement on unsaturated pyrrolizidine alkaloids, EMA/HMPC/893108/2011 Rev. 1)
+  carries the PA-regulatory claims on the PA-controlled extract and topical preparations; and REF-0914
+  (systematic review and quality assessment of adverse-event case reports for borage, coltsfoot and comfrey)
+  was added to all 7 contraindications, which is a far better source for PA harm than the phantom ever was.
+  ONE DEMOTION: the ''sedative'' action went verified -> needs-review. None of the substitutes confirms a
+  sedative effect for coltsfoot, and after removing REF-0068 it would otherwise have rested on a taxonomic
+  record plus a PA-content assay. It is left cited but flagged rather than silently kept at verified. The
+  dosage entry was already repointed to REF-3070 during the audit and is unchanged. REF-0068 has been
+  deleted from bibliography.bibtex and is gone from the public citation feed. SEPARATE PRE-EXISTING BUG
+  FIXED HERE: common_names contained four junk entries - ''Kuan Dong Hua / Farfarae Flos (Chen et al'',
+  ''2020'', ''Liu et al'', ''2020)'' - a citation string that an earlier ingest comma-split into list items.
+  These surface publicly on the plant page, in the plant-name dictionary and in search. Repaired to the two
+  real names, ''Kuan Dong Hua'' and ''Farfarae Flos''. Worth grepping other plants for the same
+  split-citation pattern.'

@@ -4887,8 +4887,7 @@
    "common_names": [
     "Dill",
     "garden dill",
-    "European dill (World Health Organization",
-    "2007)"
+    "European dill"
    ],
    "family": "Apiaceae",
    "external_ids": {
@@ -15738,12 +15737,9 @@
    "common_names": [
     "Cordyceps",
     "caterpillar fungus",
-    "Dong Chong Xia Cao (冬蟲夏草",
-    "“ziemas tārps – vasaras zāle”)",
-    "Yartsa gunbu  (Lin",
-    "2011",
-    "National Geographic",
-    "2011)"
+    "Dong Chong Xia Cao (冬蟲夏草)",
+    "Ziemas tārps – vasaras zāle",
+    "Yartsa gunbu"
    ],
    "family": "Cordycipitaceae",
    "external_ids": {
@@ -16049,8 +16045,7 @@
     "cilantro",
     "Chinese parsley",
     "dhania/dhanya",
-    "pak chee  (Mahleyuddin et al",
-    "2021)"
+    "pak chee"
    ],
    "family": "Apiaceae",
    "external_ids": {
@@ -17489,8 +17484,7 @@
     "Cumin",
     "Roman cumin",
     "jeera",
-    "zira (Britannica",
-    "2025)"
+    "zira"
    ],
    "family": "Apiaceae",
    "external_ids": {
@@ -31035,8 +31029,7 @@
     "Juniper",
     "Juniper “berries” / juniper cone berries",
     "Eneberries / Enebær",
-    "Jeneverbes (EMA/HMPC",
-    "2023)"
+    "Jeneverbes"
    ],
    "family": "Cupressaceae",
    "external_ids": {
@@ -49821,8 +49814,7 @@
     "Dog-rose",
     "Dog rose",
     "rosehip",
-    "wild rose (Arthritis UK",
-    "2025)"
+    "wild rose"
    ],
    "family": "Rosaceae",
    "external_ids": {
@@ -50965,9 +50957,7 @@
     "Common Sorrel",
     "garden sorrel",
     "sorrel",
-    "French: “oseille” (Royal Botanic Gardens",
-    "Kew",
-    "n.d.)"
+    "oseille"
    ],
    "family": "Polygonaceae",
    "external_ids": {
@@ -52863,8 +52853,7 @@
     "black elderberry",
     "European elder",
     "common elder",
-    "elderflower (NCCIH",
-    "2024)"
+    "elderflower"
    ],
    "family": "Adoxaceae",
    "external_ids": {
@@ -55954,8 +55943,7 @@
     "Comfrey",
     "knitbone",
     "bruisewort",
-    "boneset  Plant family  (Staiger",
-    "2012)"
+    "boneset"
    ],
    "family": "Boraginaceae",
    "external_ids": {
@@ -61314,10 +61302,8 @@
     "coughwort",
     "foal’s foot",
     "horsehoof",
-    "Kuan Dong Hua / Farfarae Flos (Chen et al",
-    "2020",
-    "Liu et al",
-    "2020)"
+    "Kuan Dong Hua",
+    "Farfarae Flos"
    ],
    "family": "Asteraceae",
    "external_ids": {
@@ -61358,14 +61344,15 @@
     ],
     "season": "Flower in very early spring; leaf later in the growing season",
     "reference_ids": [
-     "REF-0068"
+     "REF-0911"
     ],
     "status": "verified"
    },
    "traditional_uses": {
     "text": "Coltsfoot has an ancient European and Chinese tradition, reflected in its Latin name (tussis = cough), as an expectorant and demulcent remedy for coughs, bronchitis and irritated airways; because of its pyrrolizidine alkaloid content, contemporary use is restricted to short courses of PA-controlled preparations under regulatory limits (see contraindications).",
     "reference_ids": [
-     "REF-0068",
+     "REF-0911",
+     "REF-0910",
      "REF-0304"
     ],
     "status": "verified"
@@ -61375,7 +61362,8 @@
      "name": "PA-controlled commercial extract",
      "text": "Commercially prepared, pyrrolizidine-alkaloid-tested extract or syrup, the only form recommended for internal use given the plant's natural PA content.",
      "reference_ids": [
-      "REF-0068"
+      "REF-3070",
+      "REF-0911"
      ],
      "status": "verified"
     },
@@ -61383,7 +61371,7 @@
      "name": "Infusion (short-term, traditional)",
      "text": "Dried flower or leaf infused in hot water; traditional but subject to strict duration/PA-content limits under EU herbal regulation.",
      "reference_ids": [
-      "REF-0068"
+      "REF-0911"
      ],
      "status": "verified"
     },
@@ -61391,7 +61379,8 @@
      "name": "Topical preparation",
      "text": "Leaf used topically (e.g. poultice) on intact skin; EMA guidance still notes PA-exposure limits apply to topical products.",
      "reference_ids": [
-      "REF-0068"
+      "REF-3070",
+      "REF-0911"
      ],
      "status": "verified"
     }
@@ -61424,7 +61413,8 @@
      ],
      "note": "Demulcent polysaccharide contributing to the traditional soothing action on irritated airways.",
      "reference_ids": [
-      "REF-0068"
+      "REF-0911",
+      "REF-0910"
      ]
     },
     {
@@ -61435,7 +61425,8 @@
      ],
      "note": "Contribute to anti-inflammatory and astringent activity.",
      "reference_ids": [
-      "REF-0068"
+      "REF-0911",
+      "REF-0910"
      ]
     }
    ],
@@ -61443,7 +61434,6 @@
     {
      "action": "anti-inflammatory",
      "reference_ids": [
-      "REF-0068",
       "REF-0252",
       "REF-0304",
       "REF-0910",
@@ -61455,11 +61445,11 @@
     {
      "action": "sedative",
      "reference_ids": [
-      "REF-0068",
+      "REF-0911",
       "REF-0252",
       "REF-0304"
      ],
-     "status": "verified"
+     "status": "needs-review"
     }
    ],
    "indications": [
@@ -61467,7 +61457,7 @@
      "condition": "arthritis",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0068",
+      "REF-0911",
       "REF-0252",
       "REF-0304"
      ],
@@ -61479,7 +61469,7 @@
      "condition": "inflammation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0068",
+      "REF-0911",
       "REF-0252",
       "REF-0304",
       "REF-0919"
@@ -61492,7 +61482,7 @@
      "condition": "insomnia",
      "note": "inferred from sedative action",
      "reference_ids": [
-      "REF-0068",
+      "REF-0911",
       "REF-0252",
       "REF-0304"
      ],
@@ -61504,7 +61494,7 @@
      "condition": "skin-irritation",
      "note": "inferred from anti-inflammatory action",
      "reference_ids": [
-      "REF-0068",
+      "REF-0911",
       "REF-0252",
       "REF-0304"
      ],
@@ -61518,7 +61508,8 @@
      "note": "Safety notes (contraindications, interactions, pregnancy/lactation notes, adverse effects, dose-duration cautions) Important: Coltsfoot naturally contains pyrrolizidine alkaloids (PAs)—plant chemicals that can damage the liver and may increase cancer risk with enough exposure (EMA, 2021; Kopp et al., 2020).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0068",
+      "REF-3070",
+      "REF-0914",
       "REF-0252",
       "REF-0304"
      ],
@@ -61528,7 +61519,8 @@
      "note": "Because of this, European regulators set very strict limits for PA exposure from herbal products (EMA, 2021).",
      "severity": "info",
      "reference_ids": [
-      "REF-0068",
+      "REF-3070",
+      "REF-0914",
       "REF-0252",
       "REF-0304"
      ],
@@ -61538,7 +61530,8 @@
      "note": "Many safety-focused herbal references recommend avoiding homemade/internal coltsfoot use, unless the product is specifically made to be PA-controlled / PA-reduced (EMA, 2021).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0068",
+      "REF-3070",
+      "REF-0914",
       "REF-0252",
       "REF-0304"
      ],
@@ -61548,7 +61541,8 @@
      "note": "Avoid internal use if you are pregnant or breastfeeding, have liver disease, or for children—these groups are treated as “sensitive” in PA risk guidance (EMA, 2021).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0068",
+      "REF-3070",
+      "REF-0914",
       "REF-0252",
       "REF-0304"
      ],
@@ -61558,7 +61552,8 @@
      "note": "Medication caution: if you take medicines that stress the liver (some prescription drugs can), it’s extra important to avoid unregulated PA exposure (general PA risk logic; consult a clinician) (EMA, 2021).",
      "severity": "caution",
      "reference_ids": [
-      "REF-0068",
+      "REF-3070",
+      "REF-0914",
       "REF-0252",
       "REF-0304"
      ],
@@ -61568,7 +61563,8 @@
      "note": "Topical use may still carry PA considerations; EMA discusses limits and recommends use only on intact skin for PA-containing products (EMA, 2021).",
      "severity": "info",
      "reference_ids": [
-      "REF-0068",
+      "REF-3070",
+      "REF-0914",
       "REF-0252",
       "REF-0304"
      ],
@@ -61578,7 +61574,8 @@
      "note": "Duke (2002) provides clinical support (score 2) for coltsfoot's anti-inflammatory and expectorant effects, explaining its traditional use in bronchitis and coughs. However, the plant contains hepatotoxic pyrrolizidine alkaloids (PAs), and Duke notes a carcinogenic score (1) — a critical safety concern. Commission E has placed restrictions on coltsfoot use, recommending maximum internal use of 4–6 weeks per year and avoiding use in pregnancy, lactation, and in children under 12. Duke rates its overall safety as low (+) and emphasizes that preparations free of PAs are preferred (Duke, 2002).",
      "severity": "serious",
      "reference_ids": [
-      "REF-0068",
+      "REF-3070",
+      "REF-0914",
       "REF-0252",
       "REF-0304"
      ],

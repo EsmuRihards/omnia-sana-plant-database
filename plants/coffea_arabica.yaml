@@ -55,10 +55,14 @@ preparations:
   status: verified
 dosage:
 - name: Brewed coffee
-  text: General health guidance considers up to about 400 mg caffeine daily (roughly 3-4 cups of brewed
-    coffee) as moderate intake for most healthy adults; lower limits apply in pregnancy (under 200 mg/day).
-    Educational reference only, not a prescription.
-  status: draft
+  text: The EFSA Scientific Opinion on the safety of caffeine concluded that habitual caffeine intakes
+    up to about 400 mg daily (roughly 3-4 cups of brewed coffee) do not raise safety concerns for healthy
+    adults, and that single doses up to 200 mg are likewise not of concern. For pregnant women EFSA sets
+    a lower figure of up to 200 mg per day. Note this is a safe-intake ceiling for caffeine, not a therapeutic
+    dose of coffee. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0081
+  status: verified
 constituents:
 - name: Caffeine
   note: The principal stimulant alkaloid, driving alertness and much of coffee's pharmacological activity.
@@ -215,13 +219,19 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 8 PubMed-verified @article sources (REF-2379, REF-2380, REF-2381, REF-2382, REF-2383,
-  REF-2384, REF-2385, REF-2386) — woven into relevant actions/indications and the plant-level references
-  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
-  preparations, dosage + constituents) sourced from the existing references bucket; general/undated claims
-  marked status: draft per the integrity-first sourcing policy.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 8
+  PubMed-verified @article sources (REF-2379, REF-2380, REF-2381, REF-2382, REF-2383, REF-2384, REF-2385,
+  REF-2386) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
+  dosage + constituents) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy. | 2026-07-19 (dosage-sourcing campaign, batch 9): the
+  ''Brewed coffee'' entry is sourced to REF-0081, the EFSA Scientific Opinion on the safety of caffeine,
+  which was already in the bibliography and is the authoritative source for the 400 mg/day figure the entry
+  already used. EFSA concludes that habitual intakes up to 400 mg/day do not raise safety concerns for
+  healthy adults, that single doses up to 200 mg are likewise not of concern, and sets up to 200 mg/day for
+  pregnant women. The text now states explicitly that this is a SAFE-INTAKE CEILING for caffeine, not a
+  therapeutic dose of coffee - an important framing difference for a dosage field.'

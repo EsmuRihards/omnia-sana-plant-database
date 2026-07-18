@@ -89,9 +89,13 @@ preparations:
   status: draft
 dosage:
 - name: Fresh clove
-  text: Traditional and clinical references commonly cite around one fresh clove (about 4 g) daily. Educational
-    reference only, not a prescription.
-  status: draft
+  text: The WHO monograph on Bulbus Allii Sativi gives an average daily dose of 2-5 g of fresh garlic
+    (roughly one to two cloves), alongside 0.4-1.2 g of dried powder, 2-5 mg of oil and 300-1000 mg of
+    extract as solid material. The EU herbal monograph gives no posology for fresh cloves, so WHO is the
+    source here. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3101
+  status: verified
 - name: Standardised powder extract
   text: The EU herbal monograph gives, for adults and elderly, powdered herbal substance at a single dose
     of 300-750 mg for a daily dose of 900-1380 mg divided into 3 to 5 doses; liquid extract 110-220 mg
@@ -545,4 +549,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   CONTRAINDICATION in patients on saquinavir/ritonavir - a clinically significant antiretroviral interaction
   that was entirely absent from this record. The ''Fresh clove'' entry is left UNSOURCED and draft: the
   monograph gives no posology for fresh garlic cloves, so the ''about one clove (4 g) daily'' figure was not
-  propped up with the powdered-substance monograph.'
+  propped up with the powdered-substance monograph. | 2026-07-19 (dosage-sourcing campaign, batch 9): the
+  ''Fresh clove'' entry - left deliberately unsourced in batch 5 because the EU monograph gives no
+  fresh-garlic posology - is now sourced to the WHO monograph on Bulbus Allii Sativi, WHO Vol 1 (REF-3101,
+  new), which gives an average daily dose of 2-5 g of fresh garlic. The entry''s ''about one fresh clove (4
+  g) daily'' sits inside that range. WHO also lists dried powder 0.4-1.2 g, oil 2-5 mg and extract 300-1000
+  mg daily. Both monographs now cited on this plant, each for the preparation it actually covers.'

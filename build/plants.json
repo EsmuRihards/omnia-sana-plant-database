@@ -2847,8 +2847,11 @@
    "dosage": [
     {
      "name": "Fresh clove",
-     "text": "Traditional and clinical references commonly cite around one fresh clove (about 4 g) daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The WHO monograph on Bulbus Allii Sativi gives an average daily dose of 2-5 g of fresh garlic (roughly one to two cloves), alongside 0.4-1.2 g of dried powder, 2-5 mg of oil and 300-1000 mg of extract as solid material. The EU herbal monograph gives no posology for fresh cloves, so WHO is the source here. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3101"
+     ],
+     "status": "verified"
     },
     {
      "name": "Standardised powder extract",
@@ -3434,12 +3437,15 @@
    "dosage": [
     {
      "name": "Topical gel",
-     "text": "Applied liberally to the affected skin area as needed. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The WHO monograph on Aloe Vera Gel specifies fresh gel, or preparations containing 10-70% fresh gel, applied to the affected skin area. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3103"
+     ],
+     "status": "verified"
     },
     {
      "name": "Oral gel/juice",
-     "text": "Traditional references suggest around 1 tablespoon of gel, up to three times daily. Educational reference only, not a prescription.",
+     "text": "Traditional references suggest around 1 tablespoon of gel, up to three times daily. WHO gives no oral posology for the GEL. One critical distinction applies here - WHO's separate monograph on Aloe covers the dried leaf JUICE (latex), a stimulant laxative dosed at only 0.04-0.17 g, and that figure must never be read across to aloe gel or gel juice, which are different preparations with different actions. Educational reference only, not a prescription.",
      "status": "draft"
     }
    ],
@@ -8655,8 +8661,11 @@
    "dosage": [
     {
      "name": "Decoction",
-     "text": "Traditional Chinese medicine references suggest around 9-30 g of dried root per day, decocted. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The WHO monograph on Radix Astragali gives doses of 3-9 g per day. Traditional Chinese medicine references often cite a considerably higher 9-30 g of dried root per day; WHO's figure is the conservative regulatory-tier one and is stated here in preference. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3102"
+     ],
+     "status": "verified"
     },
     {
      "name": "Standardised extract",
@@ -15556,8 +15565,11 @@
    "dosage": [
     {
      "name": "Brewed coffee",
-     "text": "General health guidance considers up to about 400 mg caffeine daily (roughly 3-4 cups of brewed coffee) as moderate intake for most healthy adults; lower limits apply in pregnancy (under 200 mg/day). Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EFSA Scientific Opinion on the safety of caffeine concluded that habitual caffeine intakes up to about 400 mg daily (roughly 3-4 cups of brewed coffee) do not raise safety concerns for healthy adults, and that single doses up to 200 mg are likewise not of concern. For pregnant women EFSA sets a lower figure of up to 200 mg per day. Note this is a safe-intake ceiling for caffeine, not a therapeutic dose of coffee. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0081"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [

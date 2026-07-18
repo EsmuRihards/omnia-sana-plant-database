@@ -451,6 +451,8 @@ references:
 - REF-2966
 - REF-2967
 - REF-2968
+- REF-0070
+- REF-0264
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -472,4 +474,4 @@ internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica p
   sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18:
   added 24 new OpenAlex-sourced scientific references (REF-2945..REF-2968) covering anticancer / immunity
   / cardiovascular / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed
-  database).'
+  database). | 2026-07-19 (orphan sweep): REF-0070 (EMA community herbal monograph, Taraxacum officinale radix cum herba) and REF-0264 (Schutz 2006 phytochemical/pharmacological review) were declared in the bibliography but cited nowhere, so they were publicly visible with nothing pointing at them. Both are genuine sources for this species and are now in the plant-level references bucket. They are NOT wired to a claim: that needs the monograph and the review read for what they actually state, which is a sourcing pass, not a cleanup.'

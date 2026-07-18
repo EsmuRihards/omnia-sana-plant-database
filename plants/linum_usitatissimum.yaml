@@ -294,6 +294,7 @@ contraindications:
   - REF-0152
   - REF-0190
   - REF-0230
+  - REF-0063
   status: verified
 references:
 - REF-2216
@@ -306,6 +307,7 @@ references:
 - REF-2223
 - REF-2224
 - REF-2225
+- REF-0288
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -323,4 +325,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing reference bucket (REF-2216..2225) plus prior book refs.
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
-  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-19 (orphan sweep): REF-0288 (Thompson 2005, dietary flaxseed alters tumor biological markers in postmenopausal breast cancer) was orphaned. Human study on this species; now in the references bucket. CANDIDATE for the existing cancer indication, but not wired there yet - the direction of effect must be confirmed from the paper before it can be cited as support.'

@@ -87,17 +87,60 @@ there is a fabricated quotation attributed to the authors.
 
 ## Evidence-score sanity
 
-Scores are computed from each indication's own `reference_ids`. Two symptoms of a
-broken record:
+Scores are computed from each indication's own `reference_ids`. The computed value
+is emitted into `build/plants.json` as **`evidence`** — not `evidence_score`,
+which is the *input* override field in the YAML. Reading for the wrong key returns
+`None` and looks exactly like a broken build; it isn't.
+
+Two symptoms of a genuinely broken record:
 
 - **Every indication scores the same** → the plant's whole bibliography is pinned
   to every claim. Re-wire claim-by-claim.
-- **A score above 5 with no human studies cited** → check `study_type` values; a
-  mislabelled `preclinical` as `rct` inflates the base.
+- **A score above 5 with no human studies cited** → check `study_type` values. The
+  usual culprit is a narrative review labelled `systematic-review`, which moves the
+  base from 2 to 7 in one step.
 
 Spot-check by recomputing from the cited tiers: base from the strongest source
 (review 7 / rct 5 / clinical 3 / preclinical 2 / traditional 1) plus a volume
 bonus that only human sources earn.
+
+Sanity anchors: a single RCT scores **5**; any number of in-vitro or animal
+sources alone scores **2**; traditional sources alone score **1**. An animal study
+that scores above 2 is a labelling bug, not a strong claim.
+
+## Does the citation match what the note claims?
+
+When a claim's `note` names its source — "Duke (2002) rates…", "the EMA monograph
+states…", "per WHO vol. 2" — that named source must appear in the same claim's
+`reference_ids`. Otherwise the record asserts what a specific authority says while
+citing something else entirely.
+
+This is not hypothetical: a bulk ingestion left **96 contraindication claims
+across 95 plants** attributing content to Duke (2002) while citing unrelated
+papers, with the actual Duke handbook sitting orphaned in the bibliography. Sweep
+for it directly:
+
+```bash
+grep -l "Duke\|EMA monograph\|WHO monograph" plants/*.yaml
+```
+
+then confirm each hit cites the entry it names.
+
+## Blanket-paste detection
+
+Check **every** claim array, not just `indications` — `actions`,
+`contraindications`, `constituents`, `preparations` and `dosage` all carry
+`reference_ids` too. An audit that only walks `indications` will report clean on a
+record whose actions are all pinned to the same bibliography.
+
+## Null results in the wrong place
+
+A reference reporting that the plant did *not* work must never sit in a claim's
+`reference_ids` — the build reads everything there as support and scores it. Null
+results belong in the top-level `references[]` bucket with the finding stated in
+`internal_notes`. Grep new batches for negative-result language ("no significant
+effect", "did not differ", "failed to") and confirm none of those refs are wired
+to a claim.
 
 ## Dosage figures
 

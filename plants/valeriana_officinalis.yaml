@@ -194,6 +194,7 @@ contraindications:
   - REF-0025
   - REF-0091
   - REF-0112
+  - REF-0063
   status: verified
 references:
 - REF-1348
@@ -206,6 +207,7 @@ references:
 - REF-1355
 - REF-1356
 - REF-1357
+- REF-0092
 drug_class_interactions:
 - drug_class: sedatives-cns-depressants
   severity: caution
@@ -295,4 +297,4 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1353, REF-1354, REF-1355, REF-1356, REF-1357) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
   harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
-  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-19 (orphan sweep): REF-0092 (Garges 1998, cardiac complications and delirium associated with valerian root withdrawal) was orphaned. It is a genuine safety signal for this species and is now in the references bucket. CANDIDATE for a withdrawal/discontinuation contraindication - deliberately not written as one here, because a single case report needs reading in full before it becomes a published safety claim.'

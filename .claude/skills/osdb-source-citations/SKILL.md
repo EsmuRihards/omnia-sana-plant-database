@@ -15,19 +15,50 @@ Everything below exists to enforce that one sentence. Read `CLAUDE.md` first.
 
 For every candidate reference, in order. Stop at the first failure.
 
+0. **Already here?** Grep the DOI **case-insensitively**, and the title, against
+   `bibliography.bibtex` before reading anything else. This is the single
+   highest-yield filter — in the first real batch run it eliminated 11 of 33
+   candidates, more than every other check combined. Run it first and you avoid
+   deep-reading papers you already own. A duplicate is not harmless: because the
+   evidence bonus counts *human sources*, two REF ids for one paper silently
+   inflate a score.
 1. **Species.** Is the *accepted binomial* named in the title or abstract as the
    material actually studied? Not the genus. Not a congener. Not "and related
    species". If the abstract says *Angelica sinensis* and your record is *Angelica
    archangelica*, it is not a source — it is a trap you nearly fell into.
-2. **Claim.** Does the paper state the specific thing you are citing it for — this
+2. **Single herb?** If the intervention is a multi-herb product, the effect
+   **cannot** be attributed to your plant. See the disqualifiers below.
+3. **Claim.** Does the paper state the specific thing you are citing it for — this
    action, this condition, this dose, this constituent? A paper that mentions the
    plant while studying something else is not a source for your claim.
-3. **Direction.** Does it *support* the claim, or did you skim an abstract that
+4. **Direction.** Does it *support* the claim, or did you skim an abstract that
    reports a null result? Read the conclusion, not the title.
-4. **Identity.** Capture DOI or PMID. An entry you cannot re-find is an entry
+5. **Identity.** Capture DOI or PMID. An entry you cannot re-find is an entry
    nobody can audit.
 
-Only after all four: assign `study_type`, take a `REF-XXXX`, write the entry.
+Only after all six: assign `study_type`, take a `REF-XXXX`, write the entry.
+
+### Disqualifiers that look like good hits
+
+These are real, species-correct, often well-conducted papers. They still cannot
+source a claim, and they surface constantly:
+
+- **Multi-herb combination products.** A positive RCT of a 3-herb formulation
+  tells you nothing about your plant's individual contribution. Two arrived in the
+  first batch (a tinnitus trial of Rosa + Urtica + Tanacetum, a gonarthritis trial
+  of Rosa + Urtica + Harpagophytum) and both read as strong evidence until you
+  check the intervention. A herb-plus-drug adjunct design has the same problem
+  unless the trial isolates the herb arm.
+- **Papers with no medicinal claim.** Animal feed and livestock performance,
+  poultry/egg science, food processing and shelf-life, extraction engineering,
+  irradiation studies, horticultural or breeding work. Six of nine substantive
+  rejections in the first batch were this category. The plant is right; the paper
+  is about agronomy or food technology, not human use.
+- **Reviews that outrun their own method.** A paper titled "systematic review" in
+  a low-tier journal, with a loose search description and sweeping conclusions
+  ("beneficial in infertility in both men and women"), is not usable evidence.
+
+Log every one of these in `internal_notes` — see *Dead ends are results*.
 
 **Wrong-species is the dominant failure mode in this repo.** Genus-level searches
 on every engine return congeners constantly, and they look right. Documented
@@ -47,6 +78,17 @@ never breaks — but the heuristic is wrong often enough that an unset value is 
 silent scoring error. The heuristic's defaults: `@misc` → `traditional`, journal
 articles without trial wording → `preclinical`.
 
+**A "review" is not automatically a `systematic-review`.** This is the easiest way
+to inflate a score by accident: `systematic-review` carries a base of 7,
+`preclinical` a base of 2, so one careless label moves a claim five points. Check
+what the paper actually did, not what PubMed's article-type field says:
+
+- A narrative pharmacology review that reports its *own* receptor-binding and
+  animal experiments is `preclinical`, whatever it calls itself.
+- A mechanism review with no stated search strategy is `preclinical`.
+- `systematic-review` means a described, reproducible search and synthesis —
+  a real systematic review or meta-analysis.
+
 Do not upgrade a tier to lift a score. Ten in-vitro studies are still not clinical
 evidence, and the scoring rule is deliberately built so preclinical volume cannot
 raise a score. Working around that is falsifying the evidence grade.
@@ -65,11 +107,48 @@ no particular claim — go in the top-level `references[]` bucket.
 plant↔condition association, leave the indication unwired. A stretched citation is
 worse than a gap: the gap is visible, the stretch is not.
 
+### Where a reference goes when it doesn't fit a claim
+
+Three cases come up constantly. All three resolve to the `references[]` bucket
+plus an `internal_notes` line — never to a bent claim.
+
+- **No vocabulary entry for what the paper tested.** A solid RCT on skin ageing or
+  ADHD, where `conditions.yaml` has neither. Do **not** file skin ageing under
+  `skin-irritation` or ADHD under `cognitive-function`; those are different claims
+  and the mismatch would misstate what the trial did. Bucket it, and note why.
+  Adding the vocabulary entry is the alternative — but do that deliberately, as
+  its own decision, not as a side effect of filing a reference.
+- **Null and negative results.** A well-conducted trial showing the plant did
+  *not* work is valuable and belongs in the database — but it is evidence of
+  absence, so it must never sit in a claim's `reference_ids`, where the build
+  reads it as support and scores it. Bucket it and state the null finding in
+  `internal_notes` explicitly, including **which endpoint** was null: a null for
+  menstrual *bleeding volume* does not contradict a claim about menstrual
+  *cramping pain*, and conflating the two is its own error.
+- **A single isolated-tissue or single-model result.** One rabbit-aorta
+  vasorelaxation experiment is not grounds for a cardiovascular indication.
+  Bucket it until a body of evidence exists.
+
+### The reference must actually be the source named in the note
+
+If a claim's `note` says "Duke (2002) rates this as…" or "the EMA monograph
+states…", then Duke or that monograph must be in that claim's `reference_ids`.
+Citing adjacent papers that merely concern the same plant leaves the record
+asserting what a named source says while pointing at something else. A bulk
+ingestion once put 96 such claims into this database at once, so check the note
+text against the citation whenever you touch a claim that names its source.
+
 ## Bibliography mechanics
 
 Next free id: `grep -ho "REF-[0-9]\+" bibliography.bibtex | sort -u | tail -1`.
 Entries sort alphabetically by citation key; the id lives in `note = {REF-XXXX}`.
 Full format in `README.md`.
+
+**Not every paper has a DOI.** Older and regional journals often have only a
+PubMed id. Both `pmid` and `url` are established fields here, and `build.py`'s
+`best_link()` resolves doi → url → title search, so an entry with no DOI should
+carry **both** `pmid = {…}` and `url = {https://pubmed.ncbi.nlm.nih.gov/…/}` or it
+will fall through to a Google Scholar guess on the public source card.
 
 Gotchas that have bitten before:
 
@@ -77,6 +156,8 @@ Gotchas that have bitten before:
   bibliography under a different DOI case more often than you would expect
   (`10.1001/JAMA...` vs `10.1001/jama...`). A duplicate entry is two REF ids for
   one paper, which corrupts the human-source *count* the evidence bonus uses.
+  Note that a DOI grep alone will not catch a paper filed without one — check the
+  title too.
 - **Never dedupe bibtex with a bare `re.sub` on the citation key** — it removes
   *every* match, including the one you meant to keep. Grep first, edit precisely.
 - **An idempotent inserter that skips a duplicate leaves a REF gap.** That is fine
@@ -126,6 +207,13 @@ Never pad a gap to improve a number. A species with sparse literature is
 congener papers. Several species in this database are legitimately settled that
 way; adding wrong-species citations to "finish" them would be the worst possible
 outcome.
+
+**A batch target is a ceiling, not a quota.** If you were asked for ten and only
+six survive verification, the answer is six, written down with the reason. A
+well-covered plant will often yield fewer new references than a neglected one —
+that is the database working, not the search failing. Record which candidates were
+already present and which were rejected on substance, so the next session can see
+the shape of the remaining gap without repeating the search.
 
 Append to `internal_notes` — never `textwrap.fill` existing content.
 

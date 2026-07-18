@@ -3,4 +3,5 @@
 build/*.json text eol=lf
 *.py text eol=lf
 *.yaml text eol=lf
+*.md text eol=lf
 bibliography.bibtex text eol=lf

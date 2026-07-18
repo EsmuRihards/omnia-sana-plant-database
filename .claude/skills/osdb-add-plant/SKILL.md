@@ -45,7 +45,15 @@ strongest source's score and silently destroys the signal. If a reference suppor
 the diuretic claim and not the anti-inflammatory one, it belongs on one of them.
 
 Sources that back the plant generally — identification, distribution, an overview
-— go in the top-level `references[]` bucket, not on a claim.
+— go in the top-level `references[]` bucket, not on a claim. So do three cases
+that look like they want a claim but must not have one: a paper whose subject has
+no entry in the conditions vocabulary, a null or negative result, and a lone
+isolated-tissue finding. `osdb-source-citations` covers each; the rule is that
+bending a claim to fit an available vocabulary id misstates what was studied.
+
+**If a claim's `note` names its source, cite that source.** A note reading "Duke
+(2002) rates this as…" must carry the Duke reference, not merely adjacent papers
+about the same plant.
 
 **`note` preserves the source's own phrasing.** Keep it verbatim where you can. It
 is the audit trail for what the source actually said, and the thing that lets a

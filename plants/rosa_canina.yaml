@@ -199,15 +199,25 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 10 PubMed-verified @article sources (REF-0989, REF-0990, REF-0991, REF-0992, REF-0993,
-  REF-0994, REF-0995, REF-0996, REF-0997, REF-0998) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
-  monograph-base fields, sourced from the existing OA pharmacology review (REF-0990), the OA meta-analysis
-  (REF-0989) and the bioactive-compounds/antioxidant study (REF-0993, REF-0992). | 2026-07-13: added anticancer
-  action (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s
-  cited literature, as part of the cancer-condition campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-0989, REF-0990, REF-0991, REF-0992, REF-0993, REF-0994, REF-0995,
+  REF-0996, REF-0997, REF-0998) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added
+  botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents monograph-base
+  fields, sourced from the existing OA pharmacology review (REF-0990), the OA meta-analysis (REF-0989) and
+  the bioactive-compounds/antioxidant study (REF-0993, REF-0992). | 2026-07-13: added anticancer action
+  (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
+  literature, as part of the cancer-condition campaign. | 2026-07-18 (EMA-citation audit):
+  CITATION-INTEGRITY FLAG. REF-0076 is recorded as ''European Union herbal monograph on Rosa canina L.,
+  fructus'' (EMA, 2012), but no such monograph exists. The official EMA herbal medicines register
+  (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18) contains only Rosae flos - Rosa
+  centifolia / gallica / damascena, i.e. different species AND a different plant part - and HMPC has not
+  processed Rosa canina fructus; all candidate monograph PDF URLs 404. This is the third phantom EMA
+  citation found (see also REF-0072 on hyssopus_officinalis and REF-0522 on verbena_officinalis). REF-0076
+  is used 8 times on this plant and does NOT source the dosage entry. TODO: audit those 8 uses and remove
+  the bibliography entry. Dosage remains unsourced pending a real source (ESCOP has a rosehip monograph -
+  candidate for a future batch).'

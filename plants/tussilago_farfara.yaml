@@ -80,11 +80,16 @@ preparations:
   status: verified
 dosage:
 - name: PA-controlled internal use
-  text: EU regulatory guidance restricts internal use to PA-controlled preparations, generally not exceeding
-    about 4-6 weeks per year; not for use in pregnancy, breastfeeding, or children. Educational reference
-    only, not a prescription — consult a qualified practitioner and prefer tested commercial products.
+  text: EU regulatory guidance restricts internal use to PA-controlled preparations. The EMA public statement
+    on unsaturated pyrrolizidine alkaloids records a maximum daily intake for internal use of 1 microgram
+    of PAs for at most 6 weeks per year, or 0.1 microgram per day with no duration limit; for cutaneous
+    use the limits are 100 micrograms for at most 6 weeks per year, or 10 micrograms without a duration
+    limit. Not for use in pregnancy, breastfeeding, or children. Note that these are limits on PA intake,
+    not a herb dose — no EMA monograph exists for Tussilago farfara, so there is no official posology
+    for the herb itself. Educational reference only, not a prescription — consult a qualified practitioner
+    and prefer tested commercial products.
   reference_ids:
-  - REF-0068
+  - REF-3070
   status: verified
 constituents:
 - name: Pyrrolizidine alkaloids (senkirkine, senecionine-type)
@@ -263,13 +268,24 @@ dangerous_lookalikes:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-12'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 10 PubMed-verified @article sources (REF-0910, REF-0911, REF-0912, REF-0913, REF-0914,
-  REF-0915, REF-0916, REF-0917, REF-0918, REF-0919) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-12: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
-  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-0910, REF-0911, REF-0912, REF-0913, REF-0914, REF-0915, REF-0916,
+  REF-0917, REF-0918, REF-0919) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-12: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
+  (EMA-citation audit + dosage sourcing): the dosage entry was sourced to REF-0068, ''Assessment report on
+  Tussilago farfara L., folium'' (EMA, 2007) - a document that could not be verified: Tussilago is entirely
+  absent from the official EMA herbal medicines register (retrieved 2026-07-18) and the farfarae-folium /
+  tussilaginis-folium medicine pages and candidate assessment-report PDFs all 404. There is no EMA monograph
+  for Tussilago farfara and therefore no official posology for the herb. The underlying regulatory claim IS
+  real but comes from a different document: the EMA public statement on unsaturated pyrrolizidine alkaloids,
+  EMA/HMPC/893108/2011 Rev. 1 (now REF-3070), which names Tussilago and records the 1 microgram/day internal
+  limit for a maximum of 6 weeks per year. The dosage entry was repointed REF-0068 -> REF-3070, its ''4-6
+  weeks per year'' corrected to the stated 6 weeks, and it now says explicitly that these are PA-intake
+  limits rather than a herb dose. REF-0068''s OTHER 20 uses on this plant are untouched and still need
+  auditing - a PA safety document would not support most of them either.'

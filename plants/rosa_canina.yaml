@@ -81,9 +81,11 @@ constituents:
   compounds:
   - carotenoid
   note: The hip is exceptionally rich in vitamin C and carotenoids, underpinning its traditional tonic
-    use.
+    use. Quantified in commercial dried fruit at beta-carotene 7.25 mg/100 g and lycopene 2.34 mg/100 g
+    fresh weight.
   reference_ids:
   - REF-0993
+  - REF-3112
 - name: Galactolipid (GOPO)
   note: A specific galactolipid fraction studied as the likely active anti-inflammatory constituent in
     osteoarthritis trials of standardised rosehip powder.
@@ -93,16 +95,30 @@ constituents:
   compounds:
   - flavonoid
   - tannin
-  note: Contribute to antioxidant activity.
+  note: Contribute to antioxidant activity. Leaves carry a higher total phenolic, flavonoid and phenolic-acid
+    content than the hips, and leaf infusions were the only preparation to show antibacterial activity in
+    vitro.
   reference_ids:
   - REF-0992
+  - REF-3113
+- name: Seed oil (unsaturated fatty acids, tocopherols, phytosterols)
+  compounds:
+  - phytosterol
+  note: Cold-pressed rose hip seed oil is high in linolenic acid, with phytosterols up to 6485 mg/kg,
+    tocopherols up to 1125 mg/kg and carotenoids up to 108 mg/kg; p-coumaric acid methyl ester predominates
+    among its phenolics.
+  reference_ids:
+  - REF-3114
 actions:
 - action: anti-inflammatory
+  note: In vitro, the lipophilic (n-hexane and dichloromethane) rose hip extracts inhibited COX-1, COX-2
+    and 5-LOX-mediated leukotriene B4 formation; the aqueous and methanol extracts were inactive.
   reference_ids:
   - REF-0051
   - REF-0239
   - REF-0989
   - REF-0990
+  - REF-3110
   status: verified
 - action: anticancer
   reference_ids:
@@ -118,19 +134,35 @@ actions:
   - REF-0994
   - REF-0995
   - REF-0997
+  - REF-3110
+  - REF-3112
+  - REF-3113
   status: verified
 indications:
 - condition: arthritis
+  note: Two placebo-controlled crossover RCTs of standardised rosehip powder (5 g/day) report reduced
+    WOMAC pain and reduced rescue-medication use in knee/hip osteoarthritis, consistent with the existing
+    meta-analysis.
   reference_ids:
   - REF-0051
   - REF-0239
   - REF-0989
   - REF-0990
+  - REF-3106
+  - REF-3107
   status: verified
 - condition: cancer
   note: inferred from anticancer action
   reference_ids:
   - REF-0992
+  status: needs-review
+- condition: cognitive-function
+  note: Animal evidence only. In high-fat-diet/streptozotocin diabetic rats, R. canina ethanol extract
+    (250 mg/kg) improved recall and long-term memory and reduced hippocampal insulin resistance, amyloid-beta
+    and acetylcholinesterase activity. No human data; the effect is reported in a diabetes model, not in
+    healthy or cognitively impaired people.
+  reference_ids:
+  - REF-3111
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -145,6 +177,7 @@ indications:
   - REF-0239
   - REF-0991
   - REF-0994
+  - REF-3111
   status: verified
 - condition: skin-irritation
   note: inferred from anti-inflammatory action
@@ -153,6 +186,14 @@ indications:
   - REF-0239
   - REF-0996
   status: needs-review
+- condition: uti
+  note: One triple-blind placebo-controlled RCT (n=400) found that 500 mg R. canina fruit capsules twice
+    daily for 20 days after caesarean section reduced the incidence of urinary tract infection. The
+    incidence of cystitis specifically did not differ significantly between groups. Prevention in a
+    post-surgical population; not evidence for treating an established UTI.
+  reference_ids:
+  - REF-3105
+  status: verified
 contraindications:
 - note: Rosa canina (dog rose) hips are generally recognized as safe (GRAS) for consumption, widely used
     in teas, jams, and supplements. They are highly nutritious but may cause minor digestive upset (nausea,
@@ -183,13 +224,15 @@ references:
 - REF-0996
 - REF-0997
 - REF-0998
+- REF-3108
+- REF-3109
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-07-19'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -221,4 +264,19 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   pending a real source''. That was WRONG - the dosage entry (''Rosehip powder'', ~5 g/day for
   osteoarthritis) was and is sourced to REF-0989, Christensen et al. 2008, a meta-analysis of randomised
   controlled trials in Osteoarthritis and Cartilage which reports the administered dose. No dosage work was
-  needed on this plant.'
+  needed on this plant. | 2026-07-19 (batch 1, PubMed): +10 verified references REF-3105..REF-3114. New
+  indications: uti (REF-3105, one n=400 RCT, prevention after caesarean - NOT treatment of established UTI)
+  and cognitive-function (REF-3111, diabetic-rat model only, marked needs-review - no human data). Arthritis
+  strengthened with the two primary crossover RCTs (REF-3106 Winther 2005, REF-3107 Rein 2004) that sit
+  underneath the existing meta-analysis. anti-inflammatory gained in-vitro COX-1/COX-2/5-LOX evidence
+  (REF-3110); antioxidant gained REF-3110/3112/3113; constituents gained quantified carotenoid (REF-3112),
+  leaf-vs-hip phenolics (REF-3113) and a new seed-oil entry (REF-3114). REF-3108 (skin wrinkles/elasticity
+  RCT) and REF-3109 (ADHD adjunct RCT) went to the plant-level references bucket only: the conditions
+  vocabulary has no entry for skin ageing or ADHD, and bending them into skin-irritation or
+  cognitive-function would misstate what the trials tested. DOCUMENTED REJECTIONS from the same search, do
+  not re-add: PMID 36268807 (tinnitus) and PMID 28614869 (gonarthritis) are multi-herb combination products
+  (Neurotec, MA212/Rosaxan) whose effect cannot be attributed to R. canina alone; PMID 21533897 (lamb feed),
+  36290672 (laying-hen feed), 38684952 (horticultural genotype screening), 12003323 (oil-extraction
+  engineering), 35335128 (gamma-irradiation processing) and 37110582 (mayonnaise shelf-life) state no
+  medicinal claim. Also confirmed ALREADY PRESENT and not duplicated: Chrubasik 2008 SR = REF-0051,
+  Christensen 2008 meta-analysis = REF-0989, plus the Gruenwald 2019 SR and the antiobesity mouse study.'

@@ -109,13 +109,15 @@ indications:
   - REF-2580
   status: needs-review
 - condition: pain
-  note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping
+  note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping. The
+    proposed mechanism is dopaminergic suppression of latent hyperprolactinaemia.
   reference_ids:
   - REF-0433
   - REF-0435
   - REF-1609
   - REF-1610
   - REF-1613
+  - REF-3119
   status: verified
 - condition: pms
   note: Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping; Relief
@@ -130,6 +132,8 @@ indications:
   - REF-1611
   - REF-1613
   - REF-2580
+  - REF-3116
+  - REF-3117
   status: verified
 contraindications:
 - note: Reported adverse events are mild and reversible (nausea, headache, gastrointestinal upset, menstrual
@@ -145,10 +149,14 @@ contraindications:
   reference_ids:
   - REF-0434
   status: verified
-- note: Avoid during pregnancy and breastfeeding.
+- note: Avoid during pregnancy and breastfeeding. A systematic review found only poor-grade evidence
+    (theoretical, expert opinion and in vitro) suggesting oestrogenic, progesteronic, uterine-stimulant
+    and emmenagogue activity, and expert opinion actively conflicts on whether chastetree increases or
+    decreases lactation. The precaution rests on absence of safety data rather than on demonstrated harm.
   severity: caution
   reference_ids:
   - REF-0434
+  - REF-3118
   status: verified
 references:
 - REF-0433
@@ -162,13 +170,15 @@ references:
 - REF-1613
 - REF-1614
 - REF-2580
+- REF-3115
+- REF-3120
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-19'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica efficacy review; Drug Safety
   adverse-events review; Frontiers in Endocrinology prolactin review). Vitex is now placed in Lamiaceae
   (formerly Verbenaceae). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
@@ -181,4 +191,24 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Planta Medica e
   REF-1614) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
   added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
   dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
-  the integrity-first sourcing policy.'
+  the integrity-first sourcing policy. | 2026-07-19 (batch 2, PubMed): +6 verified references
+  REF-3115..REF-3120. SETTLED AT 6, NOT 10, DELIBERATELY: this plant''s clinical literature is already
+  well captured. Of the ten strongest candidates the search returned, SEVEN were already in the
+  bibliography (van Die 2012 SR, Csupor 2019 MA, Cerqueira 2017 SR, Ooi 2019 mastalgia SR/MA, Verkaik
+  2017 SR/MA, Daniele 2005 adverse-events SR = REF-0434, and Wuttke 2003 pharmacology = REF-1613, which
+  is already cited on the pain indication). Reaching a round 10 would have required citing Vitex
+  congeners (V. negundo / V. trifolia, both with large separate literatures) or promoting weak reviews
+  — neither is acceptable. pms gained two primary RCTs (REF-3116 Atmaca 2003 fluoxetine-comparator PMDD,
+  REF-3117 Zamani 2012 placebo-controlled PMS) beneath the existing meta-analyses. pain gained the
+  mastalgia mechanism review (REF-3119). The pregnancy/breastfeeding contraindication was previously
+  sourced only to REF-0434; it now also cites the dedicated pregnancy/lactation systematic review
+  (REF-3118), and the note was rewritten to state honestly that the precaution rests on ABSENCE of
+  safety data, with expert opinion actively conflicting on lactation. NULL RESULT — READ BEFORE WIRING:
+  REF-3115 (Mollazadeh 2019 SR/MA) found Vitex had NO significant effect on menstrual bleeding volume
+  vs placebo. It is in the references bucket ONLY and must never be wired to an indication as support.
+  Note it does NOT contradict the existing menstrual-cramps indication: the endpoint there is cramping
+  pain, not bleeding volume — different outcome, do not conflate. REF-3120 (rabbit-aorta vasorelaxation)
+  is also references-bucket only: one isolated-tissue result is not grounds for a cardiovascular
+  indication. DOCUMENTED REJECTION: PMID 28243425 (Rafieian-Kopaei 2017, Electronic Physician) claims
+  benefit in infertility "in both men and women" on a loose review method; not cited — the claim
+  outruns the evidence and there is no fertility support here worth publishing.'

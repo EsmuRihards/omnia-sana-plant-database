@@ -5967,7 +5967,8 @@
       "REF-0435",
       "REF-1609",
       "REF-1610",
-      "REF-1613"
+      "REF-1613",
+      "REF-3119"
      ]
     },
     {
@@ -5985,7 +5986,9 @@
       "REF-1610",
       "REF-1611",
       "REF-1613",
-      "REF-2580"
+      "REF-2580",
+      "REF-3116",
+      "REF-3117"
      ]
     },
     {
@@ -8754,14 +8757,16 @@
     {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
-     "evidence": 9,
+     "evidence": 10,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-0051",
       "REF-0239",
       "REF-0989",
-      "REF-0990"
+      "REF-0990",
+      "REF-3106",
+      "REF-3107"
      ]
     },
     {
@@ -8786,7 +8791,8 @@
       "REF-0051",
       "REF-0239",
       "REF-0991",
-      "REF-0994"
+      "REF-0994",
+      "REF-3111"
      ]
     },
     {
@@ -8802,6 +8808,16 @@
      ]
     },
     {
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3105"
+     ]
+    },
+    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -8809,6 +8825,16 @@
      "inferred": true,
      "references": [
       "REF-0992"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3111"
      ]
     }
    ]

@@ -49967,9 +49967,10 @@
      "compounds": [
       "carotenoid"
      ],
-     "note": "The hip is exceptionally rich in vitamin C and carotenoids, underpinning its traditional tonic use.",
+     "note": "The hip is exceptionally rich in vitamin C and carotenoids, underpinning its traditional tonic use. Quantified in commercial dried fruit at beta-carotene 7.25 mg/100 g and lycopene 2.34 mg/100 g fresh weight.",
      "reference_ids": [
-      "REF-0993"
+      "REF-0993",
+      "REF-3112"
      ]
     },
     {
@@ -49985,20 +49986,33 @@
       "flavonoid",
       "tannin"
      ],
-     "note": "Contribute to antioxidant activity.",
+     "note": "Contribute to antioxidant activity. Leaves carry a higher total phenolic, flavonoid and phenolic-acid content than the hips, and leaf infusions were the only preparation to show antibacterial activity in vitro.",
      "reference_ids": [
-      "REF-0992"
+      "REF-0992",
+      "REF-3113"
+     ]
+    },
+    {
+     "name": "Seed oil (unsaturated fatty acids, tocopherols, phytosterols)",
+     "compounds": [
+      "phytosterol"
+     ],
+     "note": "Cold-pressed rose hip seed oil is high in linolenic acid, with phytosterols up to 6485 mg/kg, tocopherols up to 1125 mg/kg and carotenoids up to 108 mg/kg; p-coumaric acid methyl ester predominates among its phenolics.",
+     "reference_ids": [
+      "REF-3114"
      ]
     }
    ],
    "actions": [
     {
      "action": "anti-inflammatory",
+     "note": "In vitro, the lipophilic (n-hexane and dichloromethane) rose hip extracts inhibited COX-1, COX-2 and 5-LOX-mediated leukotriene B4 formation; the aqueous and methanol extracts were inactive.",
      "reference_ids": [
       "REF-0051",
       "REF-0239",
       "REF-0989",
-      "REF-0990"
+      "REF-0990",
+      "REF-3110"
      ],
      "status": "verified"
     },
@@ -50019,7 +50033,10 @@
       "REF-0993",
       "REF-0994",
       "REF-0995",
-      "REF-0997"
+      "REF-0997",
+      "REF-3110",
+      "REF-3112",
+      "REF-3113"
      ],
      "status": "verified"
     }
@@ -50027,14 +50044,17 @@
    "indications": [
     {
      "condition": "arthritis",
+     "note": "Two placebo-controlled crossover RCTs of standardised rosehip powder (5 g/day) report reduced WOMAC pain and reduced rescue-medication use in knee/hip osteoarthritis, consistent with the existing meta-analysis.",
      "reference_ids": [
       "REF-0051",
       "REF-0239",
       "REF-0989",
-      "REF-0990"
+      "REF-0990",
+      "REF-3106",
+      "REF-3107"
      ],
      "status": "verified",
-     "evidence": 9,
+     "evidence": 10,
      "label": "Arthritis / joint pain"
     },
     {
@@ -50046,6 +50066,16 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Cancer (anticancer research)"
+    },
+    {
+     "condition": "cognitive-function",
+     "note": "Animal evidence only. In high-fat-diet/streptozotocin diabetic rats, R. canina ethanol extract (250 mg/kg) improved recall and long-term memory and reduced hippocampal insulin resistance, amyloid-beta and acetylcholinesterase activity. No human data; the effect is reported in a diabetes model, not in healthy or cognitively impaired people.",
+     "reference_ids": [
+      "REF-3111"
+     ],
+     "status": "needs-review",
+     "evidence": 2,
+     "label": "Cognitive function"
     },
     {
      "condition": "inflammation",
@@ -50065,7 +50095,8 @@
       "REF-0051",
       "REF-0239",
       "REF-0991",
-      "REF-0994"
+      "REF-0994",
+      "REF-3111"
      ],
      "status": "verified",
      "evidence": 7,
@@ -50082,6 +50113,16 @@
      "status": "needs-review",
      "evidence": 7,
      "label": "Skin irritation"
+    },
+    {
+     "condition": "uti",
+     "note": "One triple-blind placebo-controlled RCT (n=400) found that 500 mg R. canina fruit capsules twice daily for 20 days after caesarean section reduced the incidence of urinary tract infection. The incidence of cystitis specifically did not differ significantly between groups. Prevention in a post-surgical population; not evidence for treating an established UTI.",
+     "reference_ids": [
+      "REF-3105"
+     ],
+     "status": "verified",
+     "evidence": 5,
+     "label": "Urinary tract infection (UTI)"
     }
    ],
    "contraindications": [
@@ -50114,7 +50155,9 @@
     "REF-0995",
     "REF-0996",
     "REF-0997",
-    "REF-0998"
+    "REF-0998",
+    "REF-3108",
+    "REF-3109"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -50123,7 +50166,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-19",
    "common_slug": "dog-rose"
   },
   {
@@ -65404,13 +65447,14 @@
     },
     {
      "condition": "pain",
-     "note": "Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping",
+     "note": "Eases cyclical breast pain (mastalgia) and menstrual-cycle complaints including cramping. The proposed mechanism is dopaminergic suppression of latent hyperprolactinaemia.",
      "reference_ids": [
       "REF-0433",
       "REF-0435",
       "REF-1609",
       "REF-1610",
-      "REF-1613"
+      "REF-1613",
+      "REF-3119"
      ],
      "status": "verified",
      "evidence": 10,
@@ -65428,7 +65472,9 @@
       "REF-1610",
       "REF-1611",
       "REF-1613",
-      "REF-2580"
+      "REF-2580",
+      "REF-3116",
+      "REF-3117"
      ],
      "status": "verified",
      "evidence": 10,
@@ -65453,10 +65499,11 @@
      "status": "verified"
     },
     {
-     "note": "Avoid during pregnancy and breastfeeding.",
+     "note": "Avoid during pregnancy and breastfeeding. A systematic review found only poor-grade evidence (theoretical, expert opinion and in vitro) suggesting oestrogenic, progesteronic, uterine-stimulant and emmenagogue activity, and expert opinion actively conflicts on whether chastetree increases or decreases lactation. The precaution rests on absence of safety data rather than on demonstrated harm.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0434"
+      "REF-0434",
+      "REF-3118"
      ],
      "status": "verified"
     }
@@ -65472,7 +65519,9 @@
     "REF-0434",
     "REF-1613",
     "REF-1614",
-    "REF-2580"
+    "REF-2580",
+    "REF-3115",
+    "REF-3120"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -65481,7 +65530,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-19",
    "common_slug": "chasteberry"
   },
   {

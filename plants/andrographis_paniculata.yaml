@@ -102,9 +102,15 @@ dosage:
   - REF-0392
   status: draft
 - name: Dried herb
-  text: Traditional herbal references suggest around 1-2 g of dried aerial parts, up to three times daily.
-    Educational reference only, not a prescription.
-  status: draft
+  text: The WHO monograph on Herba Andrographidis gives, by indication - for the common cold, 1.5-3.0
+    g of the powdered crude drug three times daily, after meals and at bedtime; for pyrexia, a decoction
+    from 3 g of the crude drug twice daily; for diarrhoea, a decoction from 3-9 g as a single dose as
+    needed, or two 500 mg tablets four times daily. Note that the EMA HMPC assessed this herb and issued
+    a public statement rather than a monograph, so there is no EU posology. Educational reference only,
+    not a prescription.
+  reference_ids:
+  - REF-3093
+  status: verified
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -258,13 +264,22 @@ lookalikes_review:
 provenance: website+symptom-tool+pubmed
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy
-  Research and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported
-  from the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy Research
+  and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported from
+  the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
   retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 9 PubMed-verified @article sources (REF-1615, REF-1616, REF-1617, REF-1618, REF-1619,
   REF-1620, REF-1621, REF-1622, REF-1623) — woven into relevant actions/indications and the plant-level
   references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
   traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy.'
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing
+  campaign, batch 6): the ''Dried herb'' entry is sourced to the WHO monograph on Herba Andrographidis, WHO
+  monographs on selected medicinal plants Vol 2 (REF-3093, new). NO EU POSOLOGY EXISTS: the EMA register
+  lists Andrographidis paniculatae folium with outcome ''Public statement'', not ''European Union herbal
+  monograph'' - HMPC assessed the herb and declined to establish one - so WHO is the appropriate
+  regulatory-tier source here, and the entry text says so. CORRECTION: the entry claimed ''1-2 g of dried
+  aerial parts up to three times daily''; WHO gives indication-specific posology, and for the common cold it
+  is 1.5-3.0 g of powdered crude drug three times daily after meals and at bedtime, i.e. the previous figure
+  understated it. The ''Standardised extract'' entry keeps its existing clinical-trial refs
+  (REF-0392/REF-0393) and is unchanged.'

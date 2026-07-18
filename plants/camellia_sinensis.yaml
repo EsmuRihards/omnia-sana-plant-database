@@ -75,9 +75,15 @@ preparations:
   status: verified
 dosage:
 - name: Infusion
-  text: Traditional and common use is around 2-4 g of dried leaf per cup, up to several cups daily; moderate
-    consumption (a few cups per day) is generally considered safe. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph on green tea leaf (Camelliae sinensis non fermentatum folium) gives, for
+    adults and elderly, 1.8-2.2 g of the whole or comminuted leaf in 100-150 mL of boiling water as an
+    infusion, 3-5 times daily; a powdered herbal substance at 390 mg three times daily (up to 5 if necessary)
+    is also listed. Contraindicated in gastric and duodenal ulcers, cardiovascular disorders such as hypertension
+    and arrhythmia, and hyperthyroidism. Not recommended under 18 years. Educational reference only, not
+    a prescription.
+  reference_ids:
+  - REF-3092
+  status: verified
 constituents:
 - name: Catechins (EGCG, ECG) and polyphenols
   compounds:
@@ -252,17 +258,24 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0755, REF-0756, REF-0757.
-  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1960,
-  REF-1961, REF-1962, REF-1963, REF-1964, REF-1965, REF-1966, REF-1967, REF-1968, REF-1969, REF-1970)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
-  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
-  indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
+  references bucket (least-cited enrichment): REF-0755, REF-0756, REF-0757. | 2026-06-20: enriched to >=10
+  scientific publications: added 11 PubMed-verified @article sources (REF-1960, REF-1961, REF-1962,
+  REF-1963, REF-1964, REF-1965, REF-1966, REF-1967, REF-1968, REF-1969, REF-1970) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
+  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 6): dosage sourced to the EU
+  herbal monograph on Camellia sinensis non fermentatum folium (green tea leaf) = REF-3092, new. CORRECTION:
+  the entry said ''2-4 g of dried leaf per cup, up to several cups daily'' and called moderate consumption
+  ''generally considered safe''; the monograph gives 1.8-2.2 g in 100-150 mL, 3-5 times daily, and carries
+  CONTRAINDICATIONS that were entirely absent from this record - gastric and duodenal ulcers, cardiovascular
+  disorders including hypertension and arrhythmia, and hyperthyroidism - plus an under-18 restriction. The
+  vague safety reassurance was replaced with those. Note this monograph covers the NON-FERMENTED leaf (green
+  tea); black tea is a different preparation and is not covered.'

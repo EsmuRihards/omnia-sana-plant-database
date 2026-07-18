@@ -4649,8 +4649,11 @@
     },
     {
      "name": "Dried herb",
-     "text": "Traditional herbal references suggest around 1-2 g of dried aerial parts, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The WHO monograph on Herba Andrographidis gives, by indication - for the common cold, 1.5-3.0 g of the powdered crude drug three times daily, after meals and at bedtime; for pyrexia, a decoction from 3 g of the crude drug twice daily; for diarrhoea, a decoction from 3-9 g as a single dose as needed, or two 500 mg tablets four times daily. Note that the EMA HMPC assessed this herb and issued a public statement rather than a monograph, so there is no EU posology. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3093"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -4961,8 +4964,11 @@
    "dosage": [
     {
      "name": "Seed infusion",
-     "text": "Traditional herbal references suggest around 1-3 g of crushed seed per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The WHO monograph on Fructus Anethi gives an average daily dose of 3 g of the dried ripe fruit, or 0.1-0.3 g of the essential oil, or the equivalent in other preparations. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3094"
+     ],
+     "status": "verified"
     },
     {
      "name": "Tincture",
@@ -11191,8 +11197,11 @@
    "dosage": [
     {
      "name": "Infusion",
-     "text": "Traditional and common use is around 2-4 g of dried leaf per cup, up to several cups daily; moderate consumption (a few cups per day) is generally considered safe. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph on green tea leaf (Camelliae sinensis non fermentatum folium) gives, for adults and elderly, 1.8-2.2 g of the whole or comminuted leaf in 100-150 mL of boiling water as an infusion, 3-5 times daily; a powdered herbal substance at 390 mg three times daily (up to 5 if necessary) is also listed. Contraindicated in gastric and duodenal ulcers, cardiovascular disorders such as hypertension and arrhythmia, and hyperthyroidism. Not recommended under 18 years. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3092"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -29270,8 +29279,11 @@
    "dosage": [
     {
      "name": "Decoction/tincture",
-     "text": "Traditional herbal references suggest around 0.5-1 g of dried root per cup or dose, up to three times daily, for short-term use only, given its potent CYP-enzyme inhibition and pregnancy contraindication. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The WHO monograph on Rhizoma Hydrastis gives a daily dose of 0.5-1.0 g of the dried rhizome and root three times, or taken as a decoction; a 1:1 liquid extract in 60% ethanol at 0.3-1.0 mL three times; or a 1:10 tincture in 60% ethanol at 2-4 mL three times. For short-term use only, given goldenseal's potent CYP-enzyme inhibition and its contraindication in pregnancy. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3095"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [

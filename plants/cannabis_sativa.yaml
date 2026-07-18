@@ -256,15 +256,26 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0758, REF-0759, REF-0760.
-  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0758,
-  REF-2132, REF-2133, REF-2134, REF-2135, REF-2136, REF-2137, REF-2138, REF-2139, REF-2140, REF-2141)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
-  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
+  references bucket (least-cited enrichment): REF-0758, REF-0759, REF-0760. | 2026-06-20: enriched to >=10
+  scientific publications: added 11 PubMed-verified @article sources (REF-0758, REF-2132, REF-2133,
+  REF-2134, REF-2135, REF-2136, REF-2137, REF-2138, REF-2139, REF-2140, REF-2141) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 6): DOCUMENTED DEAD END,
+  and the right outcome rather than a gap to fill. The EMA register lists Cannabis flos with outcome
+  ''Public statement'' at status ''D: Draft under discussion'' - so there is no EU herbal monograph, and
+  even the public statement is not yet adopted; the only document on the EMA medicine page is
+  draft-public-statement-cannabis-sativa-l-flos. WHO monographs Vols 2 and 3 do not cover cannabis. There is
+  of course a large clinical literature, but it is on isolated or standardised cannabinoid medicines
+  (dronabinol, nabilone, nabiximols, purified CBD) at doses that cannot be transferred to herbal
+  preparations of the plant. The existing entry already declines to give a dose on exactly the right grounds
+  - cannabinoid content, legal status and formulation vary enormously between products - so it was left as
+  written, unsourced and draft, rather than attaching a cannabinoid-pharmaceutical trial that would not
+  support a herbal dose. REVISIT if the EMA public statement is adopted (check the register''s Status column
+  for ''F: Assessment finalised'').'

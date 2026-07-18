@@ -94,12 +94,20 @@ preparations:
   status: verified
 dosage:
 - name: Root decoction
-  text: Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily.
-    Educational reference only, not a prescription.
-  status: draft
-- name: Tincture (1:5)
-  text: About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph on Arctium lappa L., radix gives, for adults and elderly, a single dose
+    of 2-6 g of the comminuted root as an infusion, 3 times daily; a powdered herbal substance at 350
+    mg 3-5 times daily, a liquid extract at 2-8 mL 3 times daily and a soft extract at 0.2 g per dose
+    (1-2 g daily) are also listed. Not recommended under 18 years, and a practitioner should be consulted
+    if symptoms persist beyond 2 weeks. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3088
+  status: verified
+- name: Tincture
+  text: The EU herbal monograph gives 8-12 mL three times daily, for tinctures in either 45% V/V or 25%
+    V/V ethanol, in adults and elderly. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3088
+  status: verified
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -303,19 +311,26 @@ dangerous_lookalikes:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources
-  (REF-0705..REF-0709): two phytochemistry/pharmacology reviews (REF-0705, REF-0709), a review of root
-  inulin-type fructans and gastric-protective activity (REF-0706), a diabetes-mechanism review (REF-0707)
-  and a hepatoprotective antioxidant study (REF-0708); inulin and caffeoylquinic-acid constituents added.
-  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article
-  sources (REF-0709, REF-0705, REF-2338, REF-0707, REF-2339, REF-0722, REF-2340, REF-2341, REF-2342, REF-2343,
-  REF-0706) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
-  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
-  dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
-  the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
-  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
-  campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. Further enriched 2026-06-15 with five PubMed sources (REF-0705..REF-0709): two
+  phytochemistry/pharmacology reviews (REF-0705, REF-0709), a review of root inulin-type fructans and
+  gastric-protective activity (REF-0706), a diabetes-mechanism review (REF-0707) and a hepatoprotective
+  antioxidant study (REF-0708); inulin and caffeoylquinic-acid constituents added. | 2026-06-15: migrated to
+  entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0709, REF-0705,
+  REF-2338, REF-0707, REF-2339, REF-0722, REF-2340, REF-2341, REF-2342, REF-2343, REF-0706) — woven into
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from
+  the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
+  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 5): both entries sourced to the
+  EU herbal monograph on Arctium lappa L., radix (EMA/HMPC/246763/2009 = REF-3088, new). CORRECTIONS: the
+  decoction entry claimed ''1-2 g of dried root per cup''; the monograph gives a single dose of 2-6 g as an
+  infusion 3 times daily - the entry understated the low end by half and the high end by a factor of three.
+  The tincture entry claimed ''2-4 mL of a 1:5 tincture''; the monograph specifies 8-12 mL 3 times daily for
+  tinctures at either 45% or 25% V/V ethanol and does not use a 1:5 ratio, so the entry was renamed from
+  ''Tincture (1:5)'' to ''Tincture'' and the figures replaced. Added the under-18 restriction and the 2-week
+  consult trigger.'

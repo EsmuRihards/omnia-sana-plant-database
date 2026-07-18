@@ -97,9 +97,13 @@ dosage:
   - REF-0590
   status: draft
 - name: Topical gel
-  text: Applied topically per product labelling to the affected area, typically several times daily. Educational
-    reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph gives semi-solid dosage forms containing the equivalent of 0.4% triterpene
+    glycosides calculated as protoaescigenin (or, depending on the preparation, 0.85-20% herbal preparation),
+    applied as a thin layer to the affected area 1-3 times daily, in adults and elderly. Educational reference
+    only, not a prescription.
+  reference_ids:
+  - REF-3086
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-oedematous and anti-inflammatory - escin reduces vascular permeability in inflamed tissue
@@ -236,20 +240,27 @@ lookalikes_review:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed
-  extract for CVI; Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio
-  Symptom-to-Plant Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained
-  and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced pharmacological/clinical
-  review of escin''s anti-edematous, anti-inflammatory and venotonic properties (REF-0590; reduced vascular
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Cochrane review of horse chestnut seed extract for CVI;
+  Cancer Letters review of escin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
+  Lookup tool (varicose-veins, swelling, hemorrhoids, inflammation); associations retained and now
+  part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced pharmacological/clinical review
+  of escin''s anti-edematous, anti-inflammatory and venotonic properties (REF-0590; reduced vascular
   permeability, efficacy in CVI and blunt trauma). Further enriched 2026-06-14 with five more PubMed sources
   (REF-0675..REF-0679) - escin reviews and an endothelial-cell mechanism study (REF-0675, REF-0676), an
   escin pharmacokinetics study (REF-0677), and two venoactive-compound reviews of chronic venous disease
   that include horse chestnut seed extract (REF-0678, REF-0679). | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
-  to >=10 scientific publications: added 5 PubMed-verified @article sources (REF-2402, REF-2403, REF-2404,
-  REF-2405, REF-2406) — woven into relevant actions/indications and the plant-level references bucket.
-  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to
+  >=10 scientific publications: added 5 PubMed-verified @article sources (REF-2402, REF-2403, REF-2404,
+  REF-2405, REF-2406) — woven into relevant actions/indications and the plant-level references bucket. |
+  2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
-  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) +
+  cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of
+  the cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 5): the ''Topical gel'' entry
+  is sourced to the EU herbal monograph on Aesculus hippocastanum L., semen, Rev 1 (REF-3086, new):
+  semi-solid forms equivalent to 0.4% triterpene glycosides as protoaescigenin, thin layer 1-3 times daily.
+  The ''Standardised oral extract'' entry was left as-is on REF-0590 deliberately: the monograph''s
+  well-established-use posology is expressed as 21 mg triterpene glycosides calculated as PROTOAESCIGENIN
+  twice daily, whereas the entry states 100-150 mg ESCIN daily - different analytical bases, not directly
+  comparable, and converting between them here would be guesswork. TODO: reconcile the two bases properly,
+  or state both side by side with their sources.'

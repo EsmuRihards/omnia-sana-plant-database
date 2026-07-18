@@ -68,9 +68,16 @@ preparations:
   status: draft
 dosage:
 - name: Topical capsaicin cream
-  text: Commercial capsaicin creams are typically 0.025-0.075% strength, applied 3-4 times daily; expect
-    an initial burning sensation that lessens with repeated use. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph on Capsici fructus gives semi-solid dosage forms corresponding to 40-53
+    mg capsaicinoids per 100 g, applied as a thin layer to the affected area 2-4 times daily, in adults
+    and elderly. For medicated plasters, a maximum of 1 plaster per day applied for at least 4 and up
+    to 12 hours, with at least 12 hours before a new plaster is applied to the same area. Not recommended
+    under 18 years. Expect an initial burning sensation that lessens with repeated use. Note the monograph
+    covers hot chilli fruit (C. annuum var. minimum and small-fruited C. frutescens), not sweet peppers.
+    Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3090
+  status: verified
 - name: Internal use
   text: Culinary amounts are considered safe; high-dose internal supplements should be avoided, especially
     in pregnancy or with peptic ulcer disease. Educational reference only, not a prescription.
@@ -267,13 +274,23 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 11 PubMed-verified @article sources (REF-2142, REF-2143, REF-2144, REF-2145, REF-2146,
-  REF-2147, REF-2148, REF-2149, REF-2150, REF-2151, REF-2152) — woven into relevant actions/indications
-  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
-  habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
-  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11
+  PubMed-verified @article sources (REF-2142, REF-2143, REF-2144, REF-2145, REF-2146, REF-2147, REF-2148,
+  REF-2149, REF-2150, REF-2151, REF-2152) — woven into relevant actions/indications and the plant-level
+  references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
+  (dosage-sourcing campaign, batch 5): the ''Topical capsaicin cream'' entry is sourced to the EU herbal
+  monograph on Capsici fructus (EMA/HMPC/674139/2013 = REF-3090, new). The entry''s ''0.025-0.075%
+  strength'' (= 25-75 mg capsaicinoids/100 g) overlapped but did not match the monograph''s 40-53 mg/100 g,
+  and its ''3-4 times daily'' became the monograph''s 2-4 times daily; the medicated-plaster posology (max 1
+  per day, 4-12 hours, 12-hour gap before reapplying to the same site) was absent entirely and is now
+  included. SCOPE NOTE added to the text: the monograph covers hot chilli fruit - C. annuum var. minimum and
+  small-fruited C. frutescens - not sweet peppers, which matters because this record''s id is the bare
+  species name. The ''Internal use'' entry is left unsourced: the monograph is cutaneous-only and gives no
+  internal posology, which is consistent with that entry''s existing advice against high-dose internal
+  supplements.'

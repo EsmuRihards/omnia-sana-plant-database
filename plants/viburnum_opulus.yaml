@@ -197,17 +197,24 @@ dangerous_lookalikes:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect
-  overview). Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review.
-  Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps,
-  muscle-spasm, pain); associations retained and now part-mapped and cited. Further enriched 2026-06-14
-  with a PubMed-sourced phytochemistry and biological-effects review of Viburnum opulus (REF-0610) supporting
-  the constituent profile and its antioxidant/anti-inflammatory activity; clinical trial data remain limited.
-  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
-  sources (REF-1133, REF-1134, REF-1135, REF-1136, REF-1137, REF-1138, REF-1139, REF-1140, REF-1141, REF-1142)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality monograph; ScienceDirect overview).
+  Viburnum opulus is poorly covered by clinical trials, so some actions remain needs-review. Originally a
+  skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (menstrual-cramps, muscle-spasm,
+  pain); associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a
+  PubMed-sourced phytochemistry and biological-effects review of Viburnum opulus (REF-0610) supporting the
+  constituent profile and its antioxidant/anti-inflammatory activity; clinical trial data remain limited. |
+  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked to
+  compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
+  sources (REF-1133, REF-1134, REF-1135, REF-1136, REF-1137, REF-1138, REF-1139, REF-1140, REF-1141,
+  REF-1142) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
+  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
+  dosage) sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
+  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 7): WHO SEARCHED, WRONG SPECIES -
+  documented so a future pass does not repeat the search or, worse, cite it. A text search of WHO monographs
+  on selected medicinal plants Vols 1-4 surfaces a monograph whose text mentions this genus, but it covers a
+  DIFFERENT species and its posology must not be transferred here. The hit is Cortex Viburni Prunifolii (WHO
+  Vol 4) = Viburnum prunifolium (black haw). This record is Viburnum opulus (guelder rose / cramp bark). The
+  two are closely related and are often conflated in herbal writing, which makes this an easy error to make
+  - but their monographs are not interchangeable. Dosage entry remains unsourced.'

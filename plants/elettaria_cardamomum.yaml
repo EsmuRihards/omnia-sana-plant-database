@@ -66,9 +66,12 @@ preparations:
   status: draft
 dosage:
 - name: Ground fruit/seed
-  text: Traditional herbal references suggest around 1.5 g ground fruit (pod and seed), up to three times
-    daily. Educational reference only, not a prescription.
-  status: draft
+  text: The WHO monograph on Semen Cardamomi gives an average DAILY dosage of 1.5 g of the drug, or equivalent
+    preparations; for tincture, a daily dosage equivalent to 12 g. Note the 1.5 g is a daily total, not
+    a per-dose amount. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3097
+  status: verified
 constituents:
 - name: Essential oil (1,8-cineole, alpha-terpinyl acetate)
   compounds:
@@ -258,13 +261,18 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 10 PubMed-verified @article sources (REF-1668, REF-1669, REF-1670, REF-1671, REF-1672,
-  REF-1673, REF-1674, REF-1675, REF-1676, REF-1677) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
-  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-1668, REF-1669, REF-1670, REF-1671, REF-1672, REF-1673, REF-1674,
+  REF-1675, REF-1676, REF-1677) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
+  (dosage-sourcing campaign, batch 7): dosage sourced to the WHO monograph on Semen Cardamomi, WHO Vol 4
+  (REF-3097, new). CORRECTION OF A UNIT ERROR: the entry read ''1.5 g ground fruit, up to three times
+  daily'' - i.e. up to 4.5 g/day - but WHO''s 1.5 g is the average DAILY dosage, not a per-dose amount. The
+  entry now states that explicitly. WHO also gives a tincture at a daily dosage equivalent to 12 g. No EMA
+  monograph exists for cardamom.'

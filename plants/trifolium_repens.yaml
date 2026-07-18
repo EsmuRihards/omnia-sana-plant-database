@@ -329,17 +329,41 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-18'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 5 PubMed-verified @article sources (REF-1323, REF-1324, REF-1325, REF-1326, REF-1327)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-06-27: enriched
-  to >=15 scientific publications: added 7 PubMed-verified @article sources (REF-1324, REF-1323, REF-2366,
-  REF-1326, REF-1325, REF-2367, REF-2368) — woven into relevant actions/indications and the plant-level
-  references bucket. | 2026-07-12: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
-  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
-  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-17: enriched with 10 PubMed-verified @article sources (REF-2901..REF-2910): antidiabetic/antioxidant/antiproliferative white-clover-flower muffins, hydrolysed-extract menopause-obesity/depression model, T. repens essential-oil cytotoxicity/antimicrobial, multi-Trifolium dermal wound-healing isoflavones, Trifolium seed-oil antioxidant lipids, isoflavone-legume reversal of ergot vasoconstriction (cardiovascular), T. repens antioxidant polysaccharides, forage-legume seed flavonoids, white-clover condensed-tannin activity against Cryptosporidium, and identification of T. repens as a new glycyrrhetinic-acid source; added antimicrobial/antidiabetic actions + blood-sugar/infection indications and wove refs into existing claims + references bucket. Note: white clover''s peer-reviewed medicinal literature is genuinely thin (its strongest prior papers were already cited), so genus-level and phytochemistry studies that explicitly report T. repens data are included. | 2026-07-18: added 10 more sources (REF-2935..2944) via OpenAlex (not PubMed); OpenAlex surfaced genuinely medicinal T. repens papers in non-PubMed-indexed journals: DPPH/phenolic methanol-extract characterization, edible-flower antioxidant + alpha-amylase/glucosidase/lipase inhibition (antidiabetic), anti-cholinesterase leaf extract (created neuroprotective action + cognitive-function indication), essential-oil pseudoionone multi-target (diabetic-neuropathy neuroprotection, anti-inflammatory, anti-MDR-infection), in-silico antibacterial screening, and green-juice antioxidant/antibacterial/anti-inflammatory. The two weakest (clover-protein redox enzymes; a multi-oil cytostatic panel) are kept in the references bucket only, not asserted as therapeutic claims.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 5
+  PubMed-verified @article sources (REF-1323, REF-1324, REF-1325, REF-1326, REF-1327) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-06-27: enriched to >=15 scientific
+  publications: added 7 PubMed-verified @article sources (REF-1324, REF-1323, REF-2366, REF-1326, REF-1325,
+  REF-2367, REF-2368) — woven into relevant actions/indications and the plant-level references bucket. |
+  2026-07-12: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage + constituents) sourced from the existing references bucket; general/undated claims
+  marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where
+  absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature,
+  as part of the cancer-condition campaign. | 2026-07-17: enriched with 10 PubMed-verified @article sources
+  (REF-2901..REF-2910): antidiabetic/antioxidant/antiproliferative white-clover-flower muffins,
+  hydrolysed-extract menopause-obesity/depression model, T. repens essential-oil cytotoxicity/antimicrobial,
+  multi-Trifolium dermal wound-healing isoflavones, Trifolium seed-oil antioxidant lipids, isoflavone-legume
+  reversal of ergot vasoconstriction (cardiovascular), T. repens antioxidant polysaccharides, forage-legume
+  seed flavonoids, white-clover condensed-tannin activity against Cryptosporidium, and identification of T.
+  repens as a new glycyrrhetinic-acid source; added antimicrobial/antidiabetic actions +
+  blood-sugar/infection indications and wove refs into existing claims + references bucket. Note: white
+  clover''s peer-reviewed medicinal literature is genuinely thin (its strongest prior papers were already
+  cited), so genus-level and phytochemistry studies that explicitly report T. repens data are included. |
+  2026-07-18: added 10 more sources (REF-2935..2944) via OpenAlex (not PubMed); OpenAlex surfaced genuinely
+  medicinal T. repens papers in non-PubMed-indexed journals: DPPH/phenolic methanol-extract
+  characterization, edible-flower antioxidant + alpha-amylase/glucosidase/lipase inhibition (antidiabetic),
+  anti-cholinesterase leaf extract (created neuroprotective action + cognitive-function indication),
+  essential-oil pseudoionone multi-target (diabetic-neuropathy neuroprotection, anti-inflammatory,
+  anti-MDR-infection), in-silico antibacterial screening, and green-juice
+  antioxidant/antibacterial/anti-inflammatory. The two weakest (clover-protein redox enzymes; a multi-oil
+  cytostatic panel) are kept in the references bucket only, not asserted as therapeutic claims. | 2026-07-18
+  (dosage-sourcing campaign, batch 7): WHO SEARCHED, WRONG SPECIES - documented so a future pass does not
+  repeat the search or, worse, cite it. A text search of WHO monographs on selected medicinal plants Vols
+  1-4 surfaces a monograph whose text mentions this genus, but it covers a DIFFERENT species and its
+  posology must not be transferred here. The hit is Flos Trifolii (WHO Vol 4) = Trifolium PRATENSE (red
+  clover). This record is Trifolium repens (white clover). No WHO or EMA monograph covers T. repens. Dosage
+  entry remains unsourced. Consistent with the earlier clover-refs campaign, where white clover repeatedly
+  proved to be the sparsely-documented species of the pair.'

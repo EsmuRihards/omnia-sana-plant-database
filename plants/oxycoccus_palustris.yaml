@@ -213,13 +213,20 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 10 PubMed-verified @article sources (REF-0940, REF-0941, REF-0942, REF-0943, REF-0944,
-  REF-0945, REF-0946, REF-0947, REF-0948, REF-0949) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
-  monograph-base fields, sourced from the existing phytochemistry review (REF-0941, REF-0943) and field-ecology
-  study (REF-0947).'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-0940, REF-0941, REF-0942, REF-0943, REF-0944, REF-0945, REF-0946,
+  REF-0947, REF-0948, REF-0949) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added
+  botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents monograph-base
+  fields, sourced from the existing phytochemistry review (REF-0941, REF-0943) and field-ecology study
+  (REF-0947). | 2026-07-18 (dosage-sourcing campaign, batch 7): WHO SEARCHED, WRONG SPECIES - documented so
+  a future pass does not repeat the search or, worse, cite it. A text search of WHO monographs on selected
+  medicinal plants Vols 1-4 surfaces a monograph whose text mentions this genus, but it covers a DIFFERENT
+  species and its posology must not be transferred here. The hit is Fructus Macrocarponii (WHO Vol 4) =
+  Vaccinium macrocarpon, the American cranberry. This record is the European cranberry (Oxycoccus palustris
+  / Vaccinium oxycoccos), a different species. Cranberry dosing data is overwhelmingly for V. macrocarpon
+  and should not be presented as this plant''s. Dosage entry remains unsourced.'

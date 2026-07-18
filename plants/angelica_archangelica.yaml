@@ -471,18 +471,24 @@ dangerous_lookalikes:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica;
-  review of its coumarin columbianetin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited.
-  Further enriched 2026-06-14 with a PubMed-sourced pilot randomized controlled trial of Angelica archangelica
-  leaf extract for overactive bladder (REF-0615; reduced daytime voids and storage symptoms, improved
-  quality of life) - added as a new leaf-part action, needs-review pending larger trials. Further enriched
-  2026-06-15 with five PubMed sources (REF-0695..REF-0699) - a phytochemistry/pharmacology review (REF-0695),
-  a fibromyalgia model showing anti-inflammatory and cognition benefit (REF-0696), an anticonvulsant screen
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Phytotherapy Research review of A. archangelica; review of
+  its coumarin columbianetin). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (indigestion, bloating, anxiety, cold); associations retained and now part-mapped and cited. Further
+  enriched 2026-06-14 with a PubMed-sourced pilot randomized controlled trial of Angelica archangelica leaf
+  extract for overactive bladder (REF-0615; reduced daytime voids and storage symptoms, improved quality of
+  life) - added as a new leaf-part action, needs-review pending larger trials. Further enriched 2026-06-15
+  with five PubMed sources (REF-0695..REF-0699) - a phytochemistry/pharmacology review (REF-0695), a
+  fibromyalgia model showing anti-inflammatory and cognition benefit (REF-0696), an anticonvulsant screen
   (REF-0697), a terpene-synthase/volatile-oil study (REF-0698) and an antioxidant study (REF-0699). |
-  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 5 PubMed-verified @article
-  sources (REF-0695, REF-0696, REF-2410, REF-2411, REF-2412) — woven into relevant actions/indications
-  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked to
+  compounds). | 2026-06-20: enriched to >=10 scientific publications: added 5 PubMed-verified @article
+  sources (REF-0695, REF-0696, REF-2410, REF-2411, REF-2412) — woven into relevant actions/indications and
+  the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
   habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy.'
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
+  (dosage-sourcing campaign, batch 7): WHO SEARCHED, WRONG SPECIES - documented so a future pass does not
+  repeat the search or, worse, cite it. A text search of WHO monographs on selected medicinal plants Vols
+  1-4 surfaces a monograph whose text mentions this genus, but it covers a DIFFERENT species and its
+  posology must not be transferred here. The hit is Radix Angelicae Sinensis (WHO Vol 2) = Angelica sinensis
+  (dong quai), a distinct medicinal species with its own indications. No WHO or EMA monograph covers
+  Angelica archangelica. Dosage entries remain unsourced.'

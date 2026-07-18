@@ -88,11 +88,13 @@ preparations:
   status: draft
 dosage:
 - name: Standardised extract
-  text: Clinical studies commonly use standardised extracts equivalent to around 40 mg dried root/rhizome
-    daily. Educational reference only, not a prescription.
+  text: The WHO monograph on Rhizoma Cimicifugae Racemosae gives a daily dosage of 40-60% isopropyl alcohol
+    or ethanol extracts of the crude drug corresponding to 40 mg of drug, which matches the extract dose
+    used in clinical studies. Educational reference only, not a prescription.
   reference_ids:
+  - REF-3098
   - REF-0415
-  status: draft
+  status: verified
 - name: Tincture (1:10)
   text: Traditional herbal references suggest around 1-2 mL of a 1:10 tincture, up to three times daily.
     Educational reference only, not a prescription.
@@ -243,18 +245,26 @@ dangerous_lookalikes:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative
-  Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported
-  from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations
-  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced systematic
-  review (Borrelli & Ernst) that found the evidence for efficacy on menopausal symptoms inconsistent (REF-0623),
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative Cancer Therapies
+  systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported from the
+  omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations retained
+  and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced systematic review
+  (Borrelli & Ernst) that found the evidence for efficacy on menopausal symptoms inconsistent (REF-0623),
   added as a balancing counterpoint to the positive meta-analysis. Further enriched 2026-06-14 with five
   more PubMed sources (REF-0670..REF-0674) - a large isopropanolic-extract meta-analysis (REF-0670), a
-  combination RCT (REF-0671), two null RCTs including an oncology Phase III trial (REF-0672, REF-0673)
-  and an anxiety/depression meta-analysis (REF-0674). | 2026-06-15: migrated to entity schema (actions->vocab
+  combination RCT (REF-0671), two null RCTs including an oncology Phase III trial (REF-0672, REF-0673) and
+  an anxiety/depression meta-analysis (REF-0674). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 5 PubMed-verified @article sources (REF-2397, REF-2398, REF-2399, REF-2400, REF-2401)
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+  sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 7): the ''Standardised
+  extract'' entry is sourced to the WHO monograph on Rhizoma Cimicifugae Racemosae, WHO Vol 2 (REF-3098,
+  new), alongside the existing REF-0415; status draft -> verified. WHO gives a daily dosage of 40-60%
+  isopropyl alcohol or ethanol extracts corresponding to 40 mg of drug, which matches the 40 mg figure
+  already in the entry - no numeric correction needed. Note on nomenclature: WHO titles this monograph under
+  Cimicifuga racemosa, the accepted synonym of Actaea racemosa, and its Definition confirms the same plant.
+  The ''Tincture (1:10)'' entry is left UNSOURCED and draft: WHO gives no 1:10 tincture posology, only the
+  extract-equivalent dose, so the ''1-2 mL of a 1:10 tincture'' figure was not backed with the extract
+  monograph.'

@@ -1117,11 +1117,12 @@
    "dosage": [
     {
      "name": "Standardised extract",
-     "text": "Clinical studies commonly use standardised extracts equivalent to around 40 mg dried root/rhizome daily. Educational reference only, not a prescription.",
+     "text": "The WHO monograph on Rhizoma Cimicifugae Racemosae gives a daily dosage of 40-60% isopropyl alcohol or ethanol extracts of the crude drug corresponding to 40 mg of drug, which matches the extract dose used in clinical studies. Educational reference only, not a prescription.",
      "reference_ids": [
+      "REF-3098",
       "REF-0415"
      ],
-     "status": "draft"
+     "status": "verified"
     },
     {
      "name": "Tincture (1:10)",
@@ -20088,8 +20089,11 @@
    "dosage": [
     {
      "name": "Ground fruit/seed",
-     "text": "Traditional herbal references suggest around 1.5 g ground fruit (pod and seed), up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The WHO monograph on Semen Cardamomi gives an average DAILY dosage of 1.5 g of the drug, or equivalent preparations; for tincture, a daily dosage equivalent to 12 g. Note the 1.5 g is a daily total, not a per-dose amount. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3097"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -39141,8 +39145,11 @@
     },
     {
      "name": "Infusion (tea)",
-     "text": "Traditional guidance suggests a small handful of fresh leaves, or about 1-2 g dried leaf, per cup, up to a few times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The WHO monograph on Folium Ocimi Sancti gives a daily dosage of 6-12 g of the crude drug as a decoction. This is a whole-day total for the fresh or dried leaf, notably higher than the 1-2 g per cup often quoted in popular sources. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3096"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [

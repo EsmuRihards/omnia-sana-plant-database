@@ -24,6 +24,13 @@ constituents:
   reference_ids:
   - REF-2462
   - REF-2464
+  - REF-3063
+- name: Flavokavains (flavokavain A, B, C)
+  note: Chalcone-type constituents of the root; implicated by structure-activity analyses as the components
+    most likely responsible for kava-associated liver injury, which is why water-based extracts of peeled
+    noble-cultivar root are preferred.
+  reference_ids:
+  - REF-3063
 botanical_description:
   text: Robust, shrubby perennial with thick, jointed, cane-like stems and large, heart-shaped, glossy
     green leaves. The plant rarely if ever flowers or sets viable seed in cultivation and is propagated
@@ -92,6 +99,7 @@ actions:
   - REF-2544
   - REF-2546
   - REF-2547
+  - REF-3061
   status: verified
 - action: sedative
   parts:
@@ -111,6 +119,7 @@ indications:
   - REF-2544
   - REF-2546
   - REF-2547
+  - REF-3061
   status: verified
 - condition: stress
   note: inferred from anxiolytic action
@@ -119,10 +128,12 @@ indications:
   - REF-2463
   status: needs-review
 - condition: nervous-tension
-  note: inferred from anxiolytic action
+  note: Directly measured as a treatment target in a 156-patient observational trial of kava extract,
+    where nervous tension and restlessness showed the largest improvements.
   reference_ids:
   - REF-2462
-  status: needs-review
+  - REF-3061
+  status: verified
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
@@ -140,6 +151,14 @@ contraindications:
   reference_ids:
   - REF-2464
   - REF-2545
+  - REF-3063
+  status: verified
+- note: Kavalactones inhibit several cytochrome P450 enzymes (CYP1A2, 2C9, 2C19, 2D6 and 3A4), which
+    metabolise a large share of prescription medicines. Kava may therefore raise blood levels of such
+    drugs; check with a pharmacist or doctor before combining kava with any regular medication.
+  severity: caution
+  reference_ids:
+  - REF-3062
   status: verified
 - note: Kava is sedating and can add to the effects of alcohol, benzodiazepines and other central-nervous-system
     depressants, impairing alertness and driving; avoid such combinations. Not recommended in pregnancy
@@ -158,6 +177,7 @@ drug_class_interactions:
   - REF-2460
   - REF-2462
   - REF-2530
+  - REF-3062
   status: approved
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-03'
@@ -192,7 +212,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-18'
 internal_notes: '2026-07-03: new record created for the safety-data campaign (kava was previously absent,
   blocking herb-drug/herb-herb records that reference it). Built from PubMed-verified sources: Pittler
   & Ernst 2003 Cochrane meta-analysis (REF-2462, anxiolytic), Sarris 2009 KADSS RCT (REF-2463), Teschke
@@ -200,4 +220,11 @@ internal_notes: '2026-07-03: new record created for the safety-data campaign (ka
   flagged severity: serious. Constituents name-only (compound entities not yet linked). | 2026-07-11:
   added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
   dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
-  the integrity-first sourcing policy.'
+  the integrity-first sourcing policy. | 2026-07-18: >=10-reference campaign close-out. Added REF-3061
+  (Kuchta 2020, 156-patient observational trial - wired to the anxiolytic action, anxiety indication and
+  the nervous-tension indication, which it upgrades from inferred to directly measured), REF-3062 (Anke
+  & Ramzan 2004, CYP450 drug-interaction review - wired to a new pharmacokinetic contraindication and
+  to the sedatives-cns-depressants interaction) and REF-3063 (Wang 2021, kavalactone/flavokavain structure-activity
+  and hepatotoxicity review - wired to the kavalactone constituent, a new flavokavain constituent, and
+  the hepatotoxicity contraindication). All three PubMed-verified as Piper methysticum, not a Piper congener.
+  Unique reference count now 12; campaign target met.'

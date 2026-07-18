@@ -12130,18 +12130,20 @@
       "REF-2540",
       "REF-2541",
       "REF-2542",
-      "REF-2543"
+      "REF-2543",
+      "REF-3060"
      ]
     },
     {
      "condition": "high-cholesterol",
      "label": "High cholesterol",
-     "evidence": 8,
+     "evidence": 9,
      "status": "needs-review",
      "inferred": true,
      "references": [
       "REF-2466",
-      "REF-2541"
+      "REF-2541",
+      "REF-3059"
      ]
     },
     {
@@ -13335,7 +13337,8 @@
       "REF-2463",
       "REF-2544",
       "REF-2546",
-      "REF-2547"
+      "REF-2547",
+      "REF-3061"
      ]
     },
     {
@@ -13350,6 +13353,17 @@
      ]
     },
     {
+     "condition": "nervous-tension",
+     "label": "Nervous tension",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2462",
+      "REF-3061"
+     ]
+    },
+    {
      "condition": "stress",
      "label": "Stress",
      "evidence": 8,
@@ -13358,16 +13372,6 @@
      "references": [
       "REF-2462",
       "REF-2463"
-     ]
-    },
-    {
-     "condition": "nervous-tension",
-     "label": "Nervous tension",
-     "evidence": 7,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2462"
      ]
     }
    ]

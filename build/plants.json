@@ -26662,14 +26662,16 @@
      "note": "Main bioactives; suppress sweet taste and are linked to reduced intestinal glucose absorption and improved glycaemic control.",
      "reference_ids": [
       "REF-2465",
-      "REF-2467"
+      "REF-2467",
+      "REF-3059"
      ]
     },
     {
      "name": "Gurmarin",
      "note": "A peptide that transiently blunts sweet-taste perception.",
      "reference_ids": [
-      "REF-2467"
+      "REF-2467",
+      "REF-3059"
      ]
     }
    ],
@@ -26700,7 +26702,8 @@
     "text": "Gymnema leaf (gurmar) has a long Ayurvedic tradition as a remedy for 'madhumeha' (sweet urine, diabetes), chewed or taken as a decoction to reduce sugar cravings and support healthy blood sugar; this traditional antidiabetic reputation is now supported by clinical trials of standardised leaf extracts in type 2 diabetes.",
     "reference_ids": [
      "REF-2465",
-     "REF-2467"
+     "REF-2467",
+     "REF-3059"
     ],
     "status": "verified"
    },
@@ -26749,7 +26752,8 @@
       "REF-2540",
       "REF-2541",
       "REF-2542",
-      "REF-2543"
+      "REF-2543",
+      "REF-3060"
      ],
      "status": "verified"
     },
@@ -26761,7 +26765,8 @@
      "note": "Supplementation has been associated with a favourable shift in the lipid profile alongside glucose lowering.",
      "reference_ids": [
       "REF-2466",
-      "REF-2541"
+      "REF-2541",
+      "REF-3059"
      ],
      "status": "verified"
     }
@@ -26776,7 +26781,8 @@
       "REF-2540",
       "REF-2541",
       "REF-2542",
-      "REF-2543"
+      "REF-2543",
+      "REF-3060"
      ],
      "status": "verified",
      "evidence": 10,
@@ -26799,10 +26805,11 @@
      "note": "inferred from lipid-lowering action",
      "reference_ids": [
       "REF-2466",
-      "REF-2541"
+      "REF-2541",
+      "REF-3059"
      ],
      "status": "needs-review",
-     "evidence": 8,
+     "evidence": 9,
      "label": "High cholesterol"
     }
    ],
@@ -26881,7 +26888,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-18",
    "common_slug": "gymnema"
   },
   {
@@ -44703,7 +44710,15 @@
      "note": "Lipophilic lactones concentrated in the root/rhizome; regarded as the main anxiolytic constituents, acting on GABA-A signalling and other CNS targets.",
      "reference_ids": [
       "REF-2462",
-      "REF-2464"
+      "REF-2464",
+      "REF-3063"
+     ]
+    },
+    {
+     "name": "Flavokavains (flavokavain A, B, C)",
+     "note": "Chalcone-type constituents of the root; implicated by structure-activity analyses as the components most likely responsible for kava-associated liver injury, which is why water-based extracts of peeled noble-cultivar root are preferred.",
+     "reference_ids": [
+      "REF-3063"
      ]
     }
    ],
@@ -44780,7 +44795,8 @@
       "REF-2463",
       "REF-2544",
       "REF-2546",
-      "REF-2547"
+      "REF-2547",
+      "REF-3061"
      ],
      "status": "verified"
     },
@@ -44806,7 +44822,8 @@
       "REF-2463",
       "REF-2544",
       "REF-2546",
-      "REF-2547"
+      "REF-2547",
+      "REF-3061"
      ],
      "status": "verified",
      "evidence": 10,
@@ -44825,12 +44842,13 @@
     },
     {
      "condition": "nervous-tension",
-     "note": "inferred from anxiolytic action",
+     "note": "Directly measured as a treatment target in a 156-patient observational trial of kava extract, where nervous tension and restlessness showed the largest improvements.",
      "reference_ids": [
-      "REF-2462"
+      "REF-2462",
+      "REF-3061"
      ],
-     "status": "needs-review",
-     "evidence": 7,
+     "status": "verified",
+     "evidence": 8,
      "label": "Nervous tension"
     },
     {
@@ -44851,7 +44869,16 @@
      "severity": "serious",
      "reference_ids": [
       "REF-2464",
-      "REF-2545"
+      "REF-2545",
+      "REF-3063"
+     ],
+     "status": "verified"
+    },
+    {
+     "note": "Kavalactones inhibit several cytochrome P450 enzymes (CYP1A2, 2C9, 2C19, 2D6 and 3A4), which metabolise a large share of prescription medicines. Kava may therefore raise blood levels of such drugs; check with a pharmacist or doctor before combining kava with any regular medication.",
+     "severity": "caution",
+     "reference_ids": [
+      "REF-3062"
      ],
      "status": "verified"
     },
@@ -44873,7 +44900,8 @@
      "reference_ids": [
       "REF-2460",
       "REF-2462",
-      "REF-2530"
+      "REF-2530",
+      "REF-3062"
      ],
      "status": "approved",
      "reviewed_by": "Omnia Sana (owner-authorized)",
@@ -44918,7 +44946,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-18",
    "common_slug": "kava"
   },
   {

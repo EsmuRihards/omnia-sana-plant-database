@@ -98,10 +98,21 @@ actions:
   - REF-2196
   - REF-2200
   - REF-2204
+  - REF-2970
+  - REF-2974
+  - REF-2982
+  - REF-2985
   status: verified
 - action: anticancer
   reference_ids:
   - REF-0093
+  - REF-2970
+  - REF-2972
+  - REF-2976
+  - REF-2977
+  - REF-2981
+  - REF-2983
+  - REF-2986
   status: needs-review
 - action: antimicrobial
   reference_ids:
@@ -117,6 +128,8 @@ actions:
   - REF-2199
   - REF-2201
   - REF-2203
+  - REF-2984
+  - REF-2990
   status: verified
 - action: immunomodulator
   reference_ids:
@@ -126,6 +139,37 @@ actions:
   - REF-2195
   - REF-2198
   - REF-0849
+  - REF-2969
+  - REF-2971
+  - REF-2974
+  - REF-2981
+  - REF-2987
+  - REF-2992
+  status: verified
+- action: nephroprotective
+  reference_ids:
+  - REF-2975
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-2979
+  - REF-2990
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-2980
+  - REF-2986
+  - REF-2989
+  - REF-2991
+  status: verified
+- action: hepatoprotective
+  reference_ids:
+  - REF-2983
+  status: verified
+- action: lipid-lowering
+  reference_ids:
+  - REF-2988
+  - REF-2991
   status: verified
 indications:
 - condition: arthritis
@@ -139,6 +183,8 @@ indications:
   note: inferred from anticancer action
   reference_ids:
   - REF-0093
+  - REF-2970
+  - REF-2976
   status: needs-review
 - condition: cold
   note: inferred from immunomodulator action
@@ -152,6 +198,7 @@ indications:
   - REF-0093
   - REF-0228
   - REF-0272
+  - REF-2969
   status: verified
 - condition: infection
   note: inferred from antimicrobial action
@@ -186,6 +233,17 @@ indications:
   - REF-0093
   - REF-0228
   - REF-0272
+  status: needs-review
+- condition: cognitive-function
+  note: Chaga-derived 3,4-DHBA protected against Parkinson's-related neurotoxicity (preclinical).
+  reference_ids:
+  - REF-2979
+  - REF-2990
+  status: needs-review
+- condition: cardiovascular-support
+  note: Chaga polysaccharide lowered lipids in vivo and in vitro.
+  reference_ids:
+  - REF-2988
   status: needs-review
 contraindications:
 - note: 'Autoimmune conditions: Chaga can stimulate parts of the immune system—people with autoimmune
@@ -223,13 +281,37 @@ references:
 - REF-2202
 - REF-2203
 - REF-2204
+- REF-2969
+- REF-2970
+- REF-2971
+- REF-2972
+- REF-2973
+- REF-2974
+- REF-2975
+- REF-2976
+- REF-2977
+- REF-2978
+- REF-2979
+- REF-2980
+- REF-2981
+- REF-2982
+- REF-2983
+- REF-2984
+- REF-2985
+- REF-2986
+- REF-2987
+- REF-2988
+- REF-2989
+- REF-2990
+- REF-2991
+- REF-2992
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-07-18'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -243,4 +325,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
   indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign.'
+  cancer-condition campaign. | 2026-07-18: added 24 new OpenAlex-sourced scientific references (REF-2969..REF-2992)
+  covering anticancer / immunity / cardiovascular / cognitive & general medicinal properties; harvested
+  from OpenAlex (open, non-PubMed database).'

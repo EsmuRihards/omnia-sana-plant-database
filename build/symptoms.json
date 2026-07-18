@@ -5565,6 +5565,52 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0093",
+      "REF-2970",
+      "REF-2976"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2988"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2979",
+      "REF-2990"
+     ]
+    },
+    {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0093",
+      "REF-0228",
+      "REF-0272",
+      "REF-2969"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -5577,33 +5623,11 @@
      ]
     },
     {
-     "condition": "cancer",
-     "label": "Cancer (anticancer research)",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0093"
-     ]
-    },
-    {
      "condition": "cold",
      "label": "Cold & flu",
      "evidence": 1,
      "status": "needs-review",
      "inferred": true,
-     "references": [
-      "REF-0093",
-      "REF-0228",
-      "REF-0272"
-     ]
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 1,
-     "status": "verified",
-     "inferred": false,
      "references": [
       "REF-0093",
       "REF-0228",
@@ -8203,7 +8227,41 @@
      "inferred": true,
      "references": [
       "REF-2391",
-      "REF-2396"
+      "REF-2396",
+      "REF-2948",
+      "REF-2956"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2952",
+      "REF-2967"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2965"
+     ]
+    },
+    {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2964",
+      "REF-2966"
      ]
     },
     {
@@ -9805,6 +9863,19 @@
    "wp_post_id": null,
    "indications": [
     {
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 8,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-2753",
+      "REF-2748",
+      "REF-2755",
+      "REF-3021"
+     ]
+    },
+    {
      "condition": "kidney-support",
      "label": "Kidney support",
      "evidence": 7,
@@ -9826,18 +9897,6 @@
      ]
     },
     {
-     "condition": "urinary-support",
-     "label": "Urinary support",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-2753",
-      "REF-2748",
-      "REF-2755"
-     ]
-    },
-    {
      "condition": "cancer",
      "label": "Cancer (anticancer research)",
      "evidence": 2,
@@ -9845,6 +9904,17 @@
      "inferred": true,
      "references": [
       "REF-2745"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3018",
+      "REF-3026"
      ]
     },
     {
@@ -11670,6 +11740,53 @@
    "wp_post_id": 179,
    "indications": [
     {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3000"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3002",
+      "REF-3003"
+     ]
+    },
+    {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-2995"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0234",
+      "REF-0260",
+      "REF-0309",
+      "REF-0358",
+      "REF-0364",
+      "REF-0368",
+      "REF-3004"
+     ]
+    },
+    {
      "condition": "arthritis",
      "label": "Arthritis / joint pain",
      "evidence": 1,
@@ -11799,21 +11916,6 @@
      "references": [
       "REF-0357",
       "REF-0358"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0234",
-      "REF-0260",
-      "REF-0309",
-      "REF-0358",
-      "REF-0364",
-      "REF-0368"
      ]
     }
    ]
@@ -16839,7 +16941,8 @@
      "references": [
       "REF-0004",
       "REF-0100",
-      "REF-0163"
+      "REF-0163",
+      "REF-3038"
      ]
     },
     {
@@ -16924,6 +17027,28 @@
       "REF-0004",
       "REF-0100",
       "REF-0163"
+     ]
+    },
+    {
+     "condition": "cardiovascular-support",
+     "label": "Cardiovascular / heart health",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3044"
+     ]
+    },
+    {
+     "condition": "cognitive-function",
+     "label": "Cognitive function",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3046",
+      "REF-3048",
+      "REF-3049"
      ]
     }
    ]

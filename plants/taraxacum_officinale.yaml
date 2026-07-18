@@ -141,17 +141,32 @@ actions:
   - REF-2388
   - REF-2389
   - REF-2395
+  - REF-2946
+  - REF-2947
+  - REF-2951
+  - REF-2964
+  - REF-2965
   status: verified
 - action: anticancer
   reference_ids:
   - REF-2391
   - REF-2396
+  - REF-2948
+  - REF-2949
+  - REF-2956
+  - REF-2957
+  - REF-2958
+  - REF-2959
+  - REF-2960
+  - REF-2961
+  - REF-2962
   status: needs-review
 - action: antimicrobial
   parts:
   - Whole plant
   reference_ids:
   - REF-0333
+  - REF-2953
   status: verified
 - action: antioxidant
   parts:
@@ -162,6 +177,8 @@ actions:
   - REF-2389
   - REF-2394
   - REF-2396
+  - REF-2949
+  - REF-2952
   status: verified
 - action: bitter-tonic
   parts:
@@ -194,6 +211,7 @@ actions:
   - REF-0321
   - REF-0326
   - REF-0338
+  - REF-2968
   status: verified
 - action: hepatoprotective
   parts:
@@ -204,6 +222,9 @@ actions:
   - REF-0329
   - REF-0338
   - REF-2388
+  - REF-2946
+  - REF-2950
+  - REF-2963
   status: verified
 - action: laxative
   parts:
@@ -219,6 +240,31 @@ actions:
   reference_ids:
   - REF-0326
   - REF-0329
+  status: verified
+- action: lipid-lowering
+  reference_ids:
+  - REF-2952
+  status: verified
+- action: antidiabetic
+  reference_ids:
+  - REF-2955
+  status: verified
+- action: antiviral
+  reference_ids:
+  - REF-2963
+  status: verified
+- action: immunomodulator
+  reference_ids:
+  - REF-2964
+  - REF-2966
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-2965
+  status: verified
+- action: antihypertensive
+  reference_ids:
+  - REF-2967
   status: verified
 indications:
 - condition: appetite-loss
@@ -244,6 +290,8 @@ indications:
   reference_ids:
   - REF-2391
   - REF-2396
+  - REF-2948
+  - REF-2956
   status: needs-review
 - condition: constipation
   note: inferred from laxative action
@@ -313,6 +361,23 @@ indications:
   reference_ids:
   - REF-0333
   status: needs-review
+- condition: cardiovascular-support
+  note: Dandelion root and leaf lowered serum lipids and oxidative stress (preclinical).
+  reference_ids:
+  - REF-2952
+  - REF-2967
+  status: needs-review
+- condition: immune-support
+  note: Taraxasterol modulated the inflammatory/immune response in endotoxic shock (preclinical).
+  reference_ids:
+  - REF-2964
+  - REF-2966
+  status: needs-review
+- condition: cognitive-function
+  note: Dandelion attenuated neuroinflammatory responses in microglia (cognition-relevant, preclinical).
+  reference_ids:
+  - REF-2965
+  status: needs-review
 contraindications:
 - note: Allergy risk in individuals sensitive to Asteraceae (daisy family) plants such as ragweed and
     chamomile.
@@ -370,13 +435,37 @@ references:
 - REF-2394
 - REF-2395
 - REF-2396
+- REF-2945
+- REF-2946
+- REF-2947
+- REF-2948
+- REF-2949
+- REF-2950
+- REF-2951
+- REF-2952
+- REF-2953
+- REF-2954
+- REF-2955
+- REF-2956
+- REF-2957
+- REF-2958
+- REF-2959
+- REF-2960
+- REF-2961
+- REF-2962
+- REF-2963
+- REF-2964
+- REF-2965
+- REF-2966
+- REF-2967
+- REF-2968
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: website+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-07-18'
 internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica post (https://omniasana.bio/dandelion-taraxacum-officinale/).
   Unlike the bulk book-ingested records, actions are mapped to specific parts and references per the source
   post. The Kew Plants of the World Online entry is shared with the book ingestion (REF-0248). | 2026-06-15:
@@ -388,4 +477,7 @@ internal_notes: 'Worked example. Curated from the omniasana.bio Materia Medica p
   actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing ethnopharmacology/phytochemistry review (REF-0326).
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
-  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18:
+  added 24 new OpenAlex-sourced scientific references (REF-2945..REF-2968) covering anticancer / immunity
+  / cardiovascular / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed
+  database).'

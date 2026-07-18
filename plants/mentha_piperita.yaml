@@ -136,6 +136,8 @@ actions:
   - REF-1203
   - REF-1204
   - REF-1205
+  - REF-3036
+  - REF-3042
   status: verified
 - action: antimicrobial
   reference_ids:
@@ -146,6 +148,11 @@ actions:
   - REF-1204
   - REF-1205
   - REF-1210
+  - REF-3040
+  - REF-3052
+  - REF-3053
+  - REF-3055
+  - REF-3057
   status: verified
 - action: antioxidant
   reference_ids:
@@ -156,6 +163,12 @@ actions:
   - REF-1204
   - REF-1205
   - REF-1211
+  - REF-3036
+  - REF-3043
+  - REF-3045
+  - REF-3051
+  - REF-3055
+  - REF-3056
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
@@ -174,6 +187,41 @@ actions:
   - REF-1203
   - REF-1204
   - REF-1206
+  status: verified
+- action: anticancer
+  reference_ids:
+  - REF-3036
+  status: verified
+- action: antiviral
+  reference_ids:
+  - REF-3038
+  - REF-3039
+  status: verified
+- action: antifungal
+  reference_ids:
+  - REF-3041
+  - REF-3052
+  status: verified
+- action: immunomodulator
+  reference_ids:
+  - REF-3042
+  status: verified
+- action: antiplatelet
+  reference_ids:
+  - REF-3044
+  status: verified
+- action: neuroprotective
+  reference_ids:
+  - REF-3045
+  - REF-3046
+  - REF-3047
+  - REF-3048
+  - REF-3049
+  - REF-3050
+  status: verified
+- action: gastroprotective
+  reference_ids:
+  - REF-3054
   status: verified
 indications:
 - condition: arthritis
@@ -218,6 +266,7 @@ indications:
   - REF-0004
   - REF-0100
   - REF-0163
+  - REF-3038
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -266,6 +315,18 @@ indications:
   - REF-0100
   - REF-0163
   status: needs-review
+- condition: cardiovascular-support
+  note: Peppermint among flavonoid/polyphenol-rich species with antithrombotic activity (preclinical).
+  reference_ids:
+  - REF-3044
+  status: needs-review
+- condition: cognitive-function
+  note: Peppermint/Mentha showed acetylcholinesterase inhibition (cognition-relevant, preclinical).
+  reference_ids:
+  - REF-3046
+  - REF-3048
+  - REF-3049
+  status: needs-review
 contraindications:
 - note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children
     — menthol can cause respiratory depression. Avoid enteric-coated capsules if taking antacids or acid-suppressing
@@ -301,13 +362,35 @@ references:
 - REF-1210
 - REF-1211
 - REF-1212
+- REF-3036
+- REF-3037
+- REF-3038
+- REF-3039
+- REF-3040
+- REF-3041
+- REF-3042
+- REF-3043
+- REF-3044
+- REF-3045
+- REF-3046
+- REF-3047
+- REF-3048
+- REF-3049
+- REF-3050
+- REF-3051
+- REF-3052
+- REF-3053
+- REF-3054
+- REF-3055
+- REF-3056
+- REF-3057
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-18'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -317,4 +400,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-1208, REF-1209, REF-1210, REF-1211, REF-1212) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing ethnomedicinal/phytochemical reviews (REF-1203, REF-1204,
-  REF-1205, REF-1206) plus the Duke-sourced dosage already cited in contraindications.'
+  REF-1205, REF-1206) plus the Duke-sourced dosage already cited in contraindications. | 2026-07-18: added
+  22 new OpenAlex-sourced scientific references (REF-3036..REF-3057) covering anticancer / immunity /
+  cardiovascular / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed
+  database).'

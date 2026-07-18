@@ -152,6 +152,8 @@ actions:
   reference_ids:
   - REF-2753
   - REF-2748
+  - REF-3021
+  - REF-3035
   status: verified
 - action: urinary-antiseptic
   note: Aqueous root extract reduced adhesion of uropathogenic E. coli to bladder cells (anti-adhesive).
@@ -164,11 +166,16 @@ actions:
   - REF-2754
   - REF-2757
   - REF-2756
+  - REF-3031
   status: verified
 - action: antimicrobial
   reference_ids:
   - REF-2742
   - REF-2753
+  - REF-3015
+  - REF-3016
+  - REF-3028
+  - REF-3033
   status: verified
 - action: vulnerary
   note: Isoflavonoids from restharrow root promote wound healing in vivo.
@@ -181,11 +188,16 @@ actions:
   - REF-2745
   - REF-2746
   - REF-2753
+  - REF-3015
+  - REF-3022
+  - REF-3025
+  - REF-3032
   status: verified
 - action: analgesic
   note: Analgesic activity of Ononis extract in animals (congener O. spinosa).
   reference_ids:
   - REF-2758
+  - REF-3024
   status: verified
 - action: gastroprotective
   note: Protective against ethanol-induced gastric mucosal injury (congener O. spinosa).
@@ -197,6 +209,17 @@ actions:
     (preclinical).
   reference_ids:
   - REF-2745
+  - REF-3028
+  status: verified
+- action: antifungal
+  reference_ids:
+  - REF-3016
+  status: verified
+- action: lipid-lowering
+  reference_ids:
+  - REF-3018
+  - REF-3026
+  - REF-3034
   status: verified
 indications:
 - condition: cancer
@@ -210,6 +233,7 @@ indications:
   - REF-2753
   - REF-2748
   - REF-2755
+  - REF-3021
   status: verified
 - condition: uti
   note: Anti-adhesive activity against uropathogenic E. coli.
@@ -252,6 +276,13 @@ indications:
   note: inferred from analgesic action
   reference_ids:
   - REF-2758
+  status: needs-review
+- condition: cardiovascular-support
+  note: Ononis isoflavonoids (maackiain, ononin) showed anti-adipogenic activity via PPAR-gamma inhibition
+    (preclinical).
+  reference_ids:
+  - REF-3018
+  - REF-3026
   status: needs-review
 contraindications:
 - note: 'A safety signal exists in the genus: an Ononis spinosa root extract showed hepatotoxic effects
@@ -296,6 +327,27 @@ references:
 - REF-2758
 - REF-2759
 - REF-2760
+- REF-3015
+- REF-3016
+- REF-3017
+- REF-3018
+- REF-3019
+- REF-3020
+- REF-3021
+- REF-3022
+- REF-3023
+- REF-3024
+- REF-3025
+- REF-3026
+- REF-3027
+- REF-3028
+- REF-3029
+- REF-3030
+- REF-3031
+- REF-3032
+- REF-3033
+- REF-3034
+- REF-3035
 drug_class_interactions:
 - drug_class: diuretics
   severity: caution
@@ -352,7 +404,7 @@ lookalikes_review:
   - REF-2748
 provenance: pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-07-18'
 internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Ononis arvensis (chiefly phytochemistry
   - the species'' own literature is analytical-heavy) + 8 clearly-labelled Ononis spinosa congener refs
   supplying the pharmacology of Ononidis radix (the officinal diuretic; O. arvensis is used interchangeably).
@@ -362,4 +414,7 @@ internal_notes: 'Created 2026-07-10. 20 refs REF-2741..REF-2760: 12 genuine Onon
   Cross-links: solidago-virgaurea + betula-pendula (irrigation-therapy diuretics), trifolium-pratense
   (shared formononetin phytoestrogen - caution). lookalikes none-known (spiny pink-flowered legume, distinctive).
   | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
-  sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18:
+  added 21 new OpenAlex-sourced scientific references (REF-3015..REF-3035) covering anticancer / immunity
+  / cardiovascular / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed
+  database).'

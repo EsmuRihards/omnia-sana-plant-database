@@ -70,10 +70,15 @@ preparations:
   status: draft
 dosage:
 - name: Berry infusion
-  text: The EU herbal monograph and traditional references limit use to short courses of a few weeks,
-    with adequate fluid intake, typically around 2-10 g crushed berries daily; not for use in kidney disease
-    or pregnancy. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph gives 2.0-2.5 g of the comminuted cone berries in 150 mL of boiling water
+    as an infusion, 1-3 times daily (single dose 2-2.5 g, daily dose 2.5-6 g), for adults and elderly.
+    Use is limited to short courses - if symptoms persist beyond 2 weeks a healthcare practitioner should
+    be consulted - with adequate fluid intake; contraindicated in severe renal disease and not recommended
+    in pregnancy. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3066
+  - REF-0073
+  status: verified
 constituents:
 - name: Essential oil (alpha-pinene, sabinene, limonene)
   compounds:
@@ -280,17 +285,23 @@ dangerous_lookalikes:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0851, REF-0852, REF-0853.
-  | 2026-06-20: enriched to >=10 scientific publications: added 12 PubMed-verified @article sources (REF-1734,
-  REF-1735, REF-1736, REF-1737, REF-1738, REF-1739, REF-1740, REF-1741, REF-1742, REF-1743, REF-1744,
-  REF-1745) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
-  added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
-  dosage + constituents) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
-  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
+  references bucket (least-cited enrichment): REF-0851, REF-0852, REF-0853. | 2026-06-20: enriched to >=10
+  scientific publications: added 12 PubMed-verified @article sources (REF-1734, REF-1735, REF-1736,
+  REF-1737, REF-1738, REF-1739, REF-1740, REF-1741, REF-1742, REF-1743, REF-1744, REF-1745) — woven into
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
+  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 1): dosage sourced to the current
+  EU herbal monograph on Juniperus communis L., galbulus (pseudo-fructus), Rev 1 (EMA/HMPC/241320/2021 =
+  REF-3066), with the superseded 2010 monograph (REF-0073) kept as a secondary citation. CORRECTION: the
+  entry previously claimed ''typically around 2-10 g crushed berries daily''; the 10 g upper bound is not
+  supported by any monograph. Rev 1 gives single dose 2-2.5 g and daily dose 2.5-6 g (2.0-2.5 g in 150 mL,
+  1-3x daily); the 2010 version gives 2 g 2-3x daily. Text rewritten to 2.5-6 g daily, plus the monograph''s
+  2-week duration limit and severe-renal-disease contraindication. status -> verified.'

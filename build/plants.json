@@ -152,16 +152,20 @@
    "dosage": [
     {
      "name": "Dried herb infusion",
-     "text": "Traditional herbal references suggest roughly 2-4 g of dried flowering herb per cup, up to three times daily. Educational reference only, not a prescription.",
+     "text": "The EU herbal monograph gives 1.5-4 g of the comminuted herb in 150-250 mL of boiling water as an infusion, three or four times daily between meals; for loss of appetite the liquid preparations are taken 30 minutes before meals. Educational reference only, not a prescription.",
      "reference_ids": [
+      "REF-3064",
       "REF-0373"
      ],
-     "status": "draft"
+     "status": "verified"
     },
     {
-     "name": "Tincture (1:5)",
-     "text": "About 1-4 mL of a 1:5 tincture, up to three times daily in adults. Educational reference only, not a prescription.",
-     "status": "draft"
+     "name": "Tincture (ethanol 45% V/V)",
+     "text": "The EU herbal monograph gives 2-4 mL three times daily in adolescents, adults and elderly. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3064"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -10811,13 +10815,19 @@
    "dosage": [
     {
      "name": "Topical cream/ointment",
-     "text": "Applied to the affected skin area 2-3 times daily, per product labelling. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph gives semi-solid preparations containing the equivalent of 2-10% herbal substance, applied as a thin layer to the affected area 2 to 4 times daily. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3065"
+     ],
+     "status": "verified"
     },
     {
      "name": "Infusion/gargle",
-     "text": "Traditional herbal references suggest around 1-2 g of dried flower per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph gives 1-2 g of the flower in 150 mL water as an infusion, used still warm for rinsing and gargling 2 to 4 times daily, or to prepare impregnated dressings for the skin. This is an oromucosal and cutaneous preparation, not an oral tea. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3065"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -12711,8 +12721,11 @@
    "dosage": [
     {
      "name": "Seed infusion",
-     "text": "The EU herbal monograph describes traditional use of about 0.5-2 g crushed fruit (seed) per 150 mL hot water, 1-3 times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph describes traditional use of about 0.5-2 g crushed fruit (seed) per 150 mL hot water, 1-3 times daily, in adolescents, adults and elderly; not recommended under 12 years. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0078"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -16462,8 +16475,19 @@
    "dosage": [
     {
      "name": "Standardised extract",
-     "text": "Clinical studies commonly use around 160-900 mg of standardised leaf-and-flower extract daily, in divided doses, with effects often taking 4-8 weeks to emerge; never used as a substitute for prescribed heart medication without medical supervision. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph on Crataegus spp., folium cum flore gives dry extracts in divided daily doses of 240-900 mg (single dose 80-450 mg) or, for one quantified extract, 570-1750 mg daily (single dose 190-350 mg), in adults and elderly. If symptoms persist longer than 2 weeks a doctor should be consulted, and hawthorn is never used as a substitute for prescribed heart medication without medical supervision. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0082"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Herbal tea",
+     "text": "The EU herbal monograph gives 1-2 g of the comminuted leaf and flower in 150 mL of boiling water as an infusion, up to 4 times daily (maximum 6 g daily), in adults and elderly. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0082"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -16780,8 +16804,19 @@
    "dosage": [
     {
      "name": "Standardised extract",
-     "text": "Clinical studies commonly use around 160-900 mg of standardised leaf-and-flower extract daily, in divided doses, with effects often taking 4-8 weeks to emerge; never used as a substitute for prescribed heart medication without medical supervision. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph on Crataegus spp., folium cum flore gives dry extracts in divided daily doses of 240-900 mg (single dose 80-450 mg) or, for one quantified extract, 570-1750 mg daily (single dose 190-350 mg), in adults and elderly. If symptoms persist longer than 2 weeks a doctor should be consulted, and hawthorn is never used as a substitute for prescribed heart medication without medical supervision. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0082"
+     ],
+     "status": "verified"
+    },
+    {
+     "name": "Herbal tea",
+     "text": "The EU herbal monograph gives 1-2 g of the comminuted leaf and flower in 150 mL of boiling water as an infusion, up to 4 times daily (maximum 6 g daily), in adults and elderly. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0082"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -27001,8 +27036,11 @@
    "dosage": [
     {
      "name": "Topical preparations",
-     "text": "Applied to the affected skin area as needed, several times daily; for topical use only, not for internal use except in professionally prepared, standardised products. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph on Hamamelis virginiana L., cortex gives, for cutaneous use, tincture at a strength corresponding to 5-10% in semi-solid preparations several times daily, or a dry extract (5-7.7:1, ethanol 30% m/m) at a strength corresponding to 1.3% as an ointment several times daily; for anorectal use, a decoction of 5-10 g per 250 mL up to 3 times daily as impregnated dressings. For topical use only. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-0531"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -30993,8 +31031,12 @@
    "dosage": [
     {
      "name": "Berry infusion",
-     "text": "The EU herbal monograph and traditional references limit use to short courses of a few weeks, with adequate fluid intake, typically around 2-10 g crushed berries daily; not for use in kidney disease or pregnancy. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph gives 2.0-2.5 g of the comminuted cone berries in 150 mL of boiling water as an infusion, 1-3 times daily (single dose 2-2.5 g, daily dose 2.5-6 g), for adults and elderly. Use is limited to short courses - if symptoms persist beyond 2 weeks a healthcare practitioner should be consulted - with adequate fluid intake; contraindicated in severe renal disease and not recommended in pregnancy. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3066",
+      "REF-0073"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [

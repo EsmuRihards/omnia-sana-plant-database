@@ -271,4 +271,11 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based 
   monograph-base fields, sourced from the existing clinical-efficacy review (REF-0466) and ethnomedicinal
   review (REF-0467/REF-1429). | 2026-07-13: added anticancer action (where absent) + cancer indication
   (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
-  campaign.'
+  campaign. | 2026-07-18 (dosage-sourcing campaign, batch 1): the ''Infusion (tea)'' entry is a DEAD END,
+  left unsourced. No EMA/ESCOP/WHO monograph exists for Ocimum tenuiflorum. Human trials use standardised
+  extracts (already sourced on the ''Standardised extract'' entry) or swallowed leaf powder — e.g. Agrawal
+  1996, Int J Clin Pharmacol Ther 34(9):406-9, PMID 8880292, a randomised placebo-controlled crossover
+  trial in NIDDM — but that is a different preparation at a different amount from the 1-2 g dried leaf
+  infusion described here, and the published abstract does not state the gram dose. No source found that
+  states a dose for tulsi as an infusion, so the numeric claim stays draft rather than being propped up
+  by a powder trial.'

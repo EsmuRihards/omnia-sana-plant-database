@@ -69,10 +69,21 @@ preparations:
   status: draft
 dosage:
 - name: Standardised extract
-  text: Clinical studies commonly use around 160-900 mg of standardised leaf-and-flower extract daily,
-    in divided doses, with effects often taking 4-8 weeks to emerge; never used as a substitute for prescribed
-    heart medication without medical supervision. Educational reference only, not a prescription.
-  status: draft
+  text: The EU herbal monograph on Crataegus spp., folium cum flore gives dry extracts in divided daily
+    doses of 240-900 mg (single dose 80-450 mg) or, for one quantified extract, 570-1750 mg daily (single
+    dose 190-350 mg), in adults and elderly. If symptoms persist longer than 2 weeks a doctor should be
+    consulted, and hawthorn is never used as a substitute for prescribed heart medication without medical
+    supervision. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0082
+  status: verified
+- name: Herbal tea
+  text: The EU herbal monograph gives 1-2 g of the comminuted leaf and flower in 150 mL of boiling water
+    as an infusion, up to 4 times daily (maximum 6 g daily), in adults and elderly. Educational reference
+    only, not a prescription.
+  reference_ids:
+  - REF-0082
+  status: verified
 constituents:
 - name: Oligomeric proanthocyanidins and flavonoids
   compounds:
@@ -239,15 +250,19 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0782, REF-0783, REF-0784.
-  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0783,
-  REF-1779, REF-1780, REF-1781, REF-1782, REF-1783, REF-1784, REF-1785, REF-1786, REF-1787, REF-1788)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
-  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
+  references bucket (least-cited enrichment): REF-0782, REF-0783, REF-0784. | 2026-06-20: enriched to >=10
+  scientific publications: added 11 PubMed-verified @article sources (REF-0783, REF-1779, REF-1780,
+  REF-1781, REF-1782, REF-1783, REF-1784, REF-1785, REF-1786, REF-1787, REF-1788) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 1): dosage sourced to
+  REF-0082, the EU herbal monograph on Crataegus spp., folium cum flore (EMA/HMPC/159075/2014), which
+  explicitly covers C. laevigata among the listed species. Same corrections as C. monogyna: the unsupported
+  ''160-900 mg daily'' and ''4-8 weeks to emerge'' claims were replaced with the monograph''s actual
+  dry-extract ranges, and a herbal-tea entry was added. status -> verified.'

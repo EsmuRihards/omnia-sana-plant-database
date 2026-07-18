@@ -66,8 +66,11 @@ preparations:
 dosage:
 - name: Seed infusion
   text: The EU herbal monograph describes traditional use of about 0.5-2 g crushed fruit (seed) per 150
-    mL hot water, 1-3 times daily. Educational reference only, not a prescription.
-  status: draft
+    mL hot water, 1-3 times daily, in adolescents, adults and elderly; not recommended under 12 years.
+    Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0078
+  status: verified
 constituents:
 - name: Essential oil (carvone, limonene)
   compounds:
@@ -237,17 +240,21 @@ dangerous_lookalikes:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0764, REF-0765, REF-0766.
-  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-1977,
-  REF-1978, REF-1979, REF-1980, REF-1981, REF-1982, REF-1983, REF-1984, REF-1985, REF-1986, REF-1987)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
-  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
-  indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
+  references bucket (least-cited enrichment): REF-0764, REF-0765, REF-0766. | 2026-06-20: enriched to >=10
+  scientific publications: added 11 PubMed-verified @article sources (REF-1977, REF-1978, REF-1979,
+  REF-1980, REF-1981, REF-1982, REF-1983, REF-1984, REF-1985, REF-1986, REF-1987) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
+  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 1): dosage sourced to REF-0078,
+  the EU herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013), already in the bibliography.
+  Verified against the monograph PDF: the existing text (0.5-2 g crushed fruit per 150 mL, 1-3x daily)
+  matches the stated posology exactly; only the age group and the under-12 restriction were added. No new
+  reference needed. status -> verified.'

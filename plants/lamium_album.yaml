@@ -265,4 +265,13 @@ internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://om
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
   fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
   from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+  sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 1): DEAD END, dosage left unsourced.
+  There is no EMA/HMPC herbal monograph for Lamium album (confirmed: no medicine page under lamii-albi-flos,
+  species absent from the HMPC monograph list), no ESCOP or WHO monograph, and no clinical trial reporting
+  an administered dose. The only regulatory posology is the German Commission E monograph on Lamii albi
+  flos (internal 3.0 g daily, external 5.0 g), which (a) covers the FLOWER only — Commission E leaves
+  the herb unapproved — and (b) contradicts the current entry text of 2-4 g flowering herb up to three
+  times daily (~6-12 g/day). Commission E was not cited because its content could only be confirmed via
+  secondary web sources here, not a primary copy. TODO: obtain Blumenthal et al. (1998) The Complete German
+  Commission E Monographs, then either cite it and rewrite the text to 3 g daily of the flower, or retire
+  the numeric claim.'

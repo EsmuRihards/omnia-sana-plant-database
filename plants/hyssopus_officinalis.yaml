@@ -208,4 +208,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18
+  (dosage-sourcing campaign, batch 1): DEAD END, dosage left unsourced — AND A CITATION-INTEGRITY FLAG.
+  REF-0072 is recorded in the bibliography as "Community herbal monograph on Hyssopus officinalis L.,
+  herba" (European Medicines Agency, 2010), but no such monograph exists: there is no EMA medicine page
+  for hyssopi-herba or hyssopus-officinalis (both 404) and Hyssopus officinalis does not appear in the
+  HMPC monograph list. REF-0072 appears to be a phantom citation introduced by an earlier ingest, and
+  it is used 11 times on this plant. It was NOT used to source the dosage entry. TODO: audit those 11
+  uses and either re-source or remove them, then remove the bibliography entry. No ESCOP or WHO monograph
+  and no dose-reporting clinical trial was found for hyssop either, so the 2-3 g infusion figure stays
+  draft.'

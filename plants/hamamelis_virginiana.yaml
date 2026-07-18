@@ -85,10 +85,14 @@ preparations:
   status: draft
 dosage:
 - name: Topical preparations
-  text: Applied to the affected skin area as needed, several times daily; for topical use only, not for
-    internal use except in professionally prepared, standardised products. Educational reference only,
-    not a prescription.
-  status: draft
+  text: The EU herbal monograph on Hamamelis virginiana L., cortex gives, for cutaneous use, tincture
+    at a strength corresponding to 5-10% in semi-solid preparations several times daily, or a dry extract
+    (5-7.7:1, ethanol 30% m/m) at a strength corresponding to 1.3% as an ointment several times daily;
+    for anorectal use, a decoction of 5-10 g per 250 mL up to 3 times daily as impregnated dressings.
+    For topical use only. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-0531
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Anti-inflammatory and antioxidant (supports irritated/atopic skin); Relief of haemorrhoid symptoms
@@ -224,16 +228,23 @@ lookalikes_review:
 provenance: website+symptom-tool+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
-  Hamamelidis cortex; Molecules skin-care review; Herbal Reality monograph). Originally a skeleton imported
-  from the omniasana.bio Symptom-to-Plant Lookup tool (skin-irritation, inflammation, hemorrhoids, wounds);
-  associations retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0830, REF-0831, REF-0832.
-  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2049,
-  REF-0831, REF-2050, REF-2051, REF-2052, REF-2053, REF-2054, REF-2055, REF-2056, REF-2057, REF-2058)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Hamamelidis cortex;
+  Molecules skin-care review; Herbal Reality monograph). Originally a skeleton imported from the
+  omniasana.bio Symptom-to-Plant Lookup tool (skin-irritation, inflammation, hemorrhoids, wounds);
+  associations retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
+  PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0830,
+  REF-0831, REF-0832. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
+  @article sources (REF-2049, REF-0831, REF-2050, REF-2051, REF-2052, REF-2053, REF-2054, REF-2055,
+  REF-2056, REF-2057, REF-2058) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action
+  (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
+  literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 1):
+  dosage sourced to REF-0531, the EU herbal monograph on Hamamelis virginiana L., cortex
+  (EMA/HMPC/114583/2008), already in the bibliography. Verified against the monograph PDF: the vague ''as
+  needed, several times daily'' was replaced with the monograph''s actual strengths - tincture 5-10% in
+  semi-solid preparations and dry extract (5-7.7:1, ethanol 30% m/m) at 1.3% as an ointment, several times
+  daily, plus the anorectal decoction 5-10 g/250 mL up to 3x daily. No new reference needed. status ->
+  verified.'

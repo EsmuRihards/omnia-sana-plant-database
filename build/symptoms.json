@@ -8244,16 +8244,6 @@
      ]
     },
     {
-     "condition": "cognitive-function",
-     "label": "Cognitive function",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-2965"
-     ]
-    },
-    {
      "condition": "immune-support",
      "label": "Immune support",
      "evidence": 2,
@@ -9865,14 +9855,15 @@
     {
      "condition": "urinary-support",
      "label": "Urinary support",
-     "evidence": 8,
+     "evidence": 9,
      "status": "verified",
      "inferred": false,
      "references": [
       "REF-2753",
       "REF-2748",
       "REF-2755",
-      "REF-3021"
+      "REF-3022",
+      "REF-3024"
      ]
     },
     {
@@ -9903,7 +9894,8 @@
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-2745"
+      "REF-2745",
+      "REF-3021"
      ]
     },
     {
@@ -9914,7 +9906,8 @@
      "inferred": true,
      "references": [
       "REF-3018",
-      "REF-3026"
+      "REF-3020",
+      "REF-3029"
      ]
     },
     {
@@ -16942,7 +16935,7 @@
       "REF-0004",
       "REF-0100",
       "REF-0163",
-      "REF-3038"
+      "REF-3039"
      ]
     },
     {
@@ -17030,25 +17023,15 @@
      ]
     },
     {
-     "condition": "cardiovascular-support",
-     "label": "Cardiovascular / heart health",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-3044"
-     ]
-    },
-    {
      "condition": "cognitive-function",
      "label": "Cognitive function",
      "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
-      "REF-3046",
-      "REF-3048",
-      "REF-3049"
+      "REF-3047",
+      "REF-3049",
+      "REF-3050"
      ]
     }
    ]

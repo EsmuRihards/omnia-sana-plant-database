@@ -136,8 +136,7 @@ actions:
   - REF-1203
   - REF-1204
   - REF-1205
-  - REF-3036
-  - REF-3042
+  - REF-3037
   status: verified
 - action: antimicrobial
   reference_ids:
@@ -148,11 +147,11 @@ actions:
   - REF-1204
   - REF-1205
   - REF-1210
-  - REF-3040
-  - REF-3052
+  - REF-3041
   - REF-3053
-  - REF-3055
-  - REF-3057
+  - REF-3054
+  - REF-3056
+  - REF-3058
   status: verified
 - action: antioxidant
   reference_ids:
@@ -163,12 +162,12 @@ actions:
   - REF-1204
   - REF-1205
   - REF-1211
-  - REF-3036
-  - REF-3043
-  - REF-3045
-  - REF-3051
-  - REF-3055
+  - REF-3037
+  - REF-3044
+  - REF-3046
+  - REF-3052
   - REF-3056
+  - REF-3057
   status: verified
 - action: antispasmodic
   note: Antispasmodic (cramp easing)
@@ -190,38 +189,30 @@ actions:
   status: verified
 - action: anticancer
   reference_ids:
-  - REF-3036
+  - REF-3037
   status: verified
 - action: antiviral
   reference_ids:
-  - REF-3038
   - REF-3039
+  - REF-3040
   status: verified
 - action: antifungal
   reference_ids:
-  - REF-3041
-  - REF-3052
-  status: verified
-- action: immunomodulator
-  reference_ids:
   - REF-3042
-  status: verified
-- action: antiplatelet
-  reference_ids:
-  - REF-3044
+  - REF-3053
   status: verified
 - action: neuroprotective
   reference_ids:
-  - REF-3045
   - REF-3046
   - REF-3047
   - REF-3048
   - REF-3049
   - REF-3050
+  - REF-3051
   status: verified
 - action: gastroprotective
   reference_ids:
-  - REF-3054
+  - REF-3055
   status: verified
 indications:
 - condition: arthritis
@@ -266,7 +257,7 @@ indications:
   - REF-0004
   - REF-0100
   - REF-0163
-  - REF-3038
+  - REF-3039
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -315,17 +306,12 @@ indications:
   - REF-0100
   - REF-0163
   status: needs-review
-- condition: cardiovascular-support
-  note: Peppermint among flavonoid/polyphenol-rich species with antithrombotic activity (preclinical).
-  reference_ids:
-  - REF-3044
-  status: needs-review
 - condition: cognitive-function
   note: Peppermint/Mentha showed acetylcholinesterase inhibition (cognition-relevant, preclinical).
   reference_ids:
-  - REF-3046
-  - REF-3048
+  - REF-3047
   - REF-3049
+  - REF-3050
   status: needs-review
 contraindications:
 - note: Generally very safe. Essential oil should not be applied to the face or chest of infants or children
@@ -362,7 +348,6 @@ references:
 - REF-1210
 - REF-1211
 - REF-1212
-- REF-3036
 - REF-3037
 - REF-3038
 - REF-3039
@@ -384,6 +369,7 @@ references:
 - REF-3055
 - REF-3056
 - REF-3057
+- REF-3058
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
@@ -401,6 +387,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields, sourced from the existing ethnomedicinal/phytochemical reviews (REF-1203, REF-1204,
   REF-1205, REF-1206) plus the Duke-sourced dosage already cited in contraindications. | 2026-07-18: added
-  22 new OpenAlex-sourced scientific references (REF-3036..REF-3057) covering anticancer / immunity /
+  22 new OpenAlex-sourced scientific references (REF-3037..REF-3058) covering anticancer / immunity /
   cardiovascular / cognitive & general medicinal properties; harvested from OpenAlex (open, non-PubMed
   database).'

@@ -244,9 +244,6 @@ actions:
 - action: lipid-lowering
   reference_ids:
   - REF-2952
-  status: verified
-- action: antidiabetic
-  reference_ids:
   - REF-2955
   status: verified
 - action: antiviral
@@ -372,11 +369,6 @@ indications:
   reference_ids:
   - REF-2964
   - REF-2966
-  status: needs-review
-- condition: cognitive-function
-  note: Dandelion attenuated neuroinflammatory responses in microglia (cognition-relevant, preclinical).
-  reference_ids:
-  - REF-2965
   status: needs-review
 contraindications:
 - note: Allergy risk in individuals sensitive to Asteraceae (daisy family) plants such as ragweed and

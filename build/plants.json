@@ -36764,8 +36764,7 @@
       "REF-1203",
       "REF-1204",
       "REF-1205",
-      "REF-3036",
-      "REF-3042"
+      "REF-3037"
      ],
      "status": "verified"
     },
@@ -36779,11 +36778,11 @@
       "REF-1204",
       "REF-1205",
       "REF-1210",
-      "REF-3040",
-      "REF-3052",
+      "REF-3041",
       "REF-3053",
-      "REF-3055",
-      "REF-3057"
+      "REF-3054",
+      "REF-3056",
+      "REF-3058"
      ],
      "status": "verified"
     },
@@ -36797,12 +36796,12 @@
       "REF-1204",
       "REF-1205",
       "REF-1211",
-      "REF-3036",
-      "REF-3043",
-      "REF-3045",
-      "REF-3051",
-      "REF-3055",
-      "REF-3056"
+      "REF-3037",
+      "REF-3044",
+      "REF-3046",
+      "REF-3052",
+      "REF-3056",
+      "REF-3057"
      ],
      "status": "verified"
     },
@@ -36833,56 +36832,42 @@
     {
      "action": "anticancer",
      "reference_ids": [
-      "REF-3036"
+      "REF-3037"
      ],
      "status": "verified"
     },
     {
      "action": "antiviral",
      "reference_ids": [
-      "REF-3038",
-      "REF-3039"
+      "REF-3039",
+      "REF-3040"
      ],
      "status": "verified"
     },
     {
      "action": "antifungal",
      "reference_ids": [
-      "REF-3041",
-      "REF-3052"
-     ],
-     "status": "verified"
-    },
-    {
-     "action": "immunomodulator",
-     "reference_ids": [
-      "REF-3042"
-     ],
-     "status": "verified"
-    },
-    {
-     "action": "antiplatelet",
-     "reference_ids": [
-      "REF-3044"
+      "REF-3042",
+      "REF-3053"
      ],
      "status": "verified"
     },
     {
      "action": "neuroprotective",
      "reference_ids": [
-      "REF-3045",
       "REF-3046",
       "REF-3047",
       "REF-3048",
       "REF-3049",
-      "REF-3050"
+      "REF-3050",
+      "REF-3051"
      ],
      "status": "verified"
     },
     {
      "action": "gastroprotective",
      "reference_ids": [
-      "REF-3054"
+      "REF-3055"
      ],
      "status": "verified"
     }
@@ -36956,7 +36941,7 @@
       "REF-0004",
       "REF-0100",
       "REF-0163",
-      "REF-3038"
+      "REF-3039"
      ],
      "status": "needs-review",
      "evidence": 5,
@@ -37045,22 +37030,12 @@
      "label": "Wounds"
     },
     {
-     "condition": "cardiovascular-support",
-     "note": "Peppermint among flavonoid/polyphenol-rich species with antithrombotic activity (preclinical).",
-     "reference_ids": [
-      "REF-3044"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Cardiovascular / heart health"
-    },
-    {
      "condition": "cognitive-function",
      "note": "Peppermint/Mentha showed acetylcholinesterase inhibition (cognition-relevant, preclinical).",
      "reference_ids": [
-      "REF-3046",
-      "REF-3048",
-      "REF-3049"
+      "REF-3047",
+      "REF-3049",
+      "REF-3050"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -37100,7 +37075,6 @@
     "REF-1210",
     "REF-1211",
     "REF-1212",
-    "REF-3036",
     "REF-3037",
     "REF-3038",
     "REF-3039",
@@ -37121,7 +37095,8 @@
     "REF-3054",
     "REF-3055",
     "REF-3056",
-    "REF-3057"
+    "REF-3057",
+    "REF-3058"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -40130,8 +40105,9 @@
      "reference_ids": [
       "REF-2753",
       "REF-2748",
-      "REF-3021",
-      "REF-3035"
+      "REF-3022",
+      "REF-3024",
+      "REF-3036"
      ],
      "status": "verified"
     },
@@ -40150,7 +40126,7 @@
       "REF-2754",
       "REF-2757",
       "REF-2756",
-      "REF-3031"
+      "REF-3033"
      ],
      "status": "verified"
     },
@@ -40160,9 +40136,7 @@
       "REF-2742",
       "REF-2753",
       "REF-3015",
-      "REF-3016",
-      "REF-3028",
-      "REF-3033"
+      "REF-3035"
      ],
      "status": "verified"
     },
@@ -40182,9 +40156,9 @@
       "REF-2746",
       "REF-2753",
       "REF-3015",
-      "REF-3022",
       "REF-3025",
-      "REF-3032"
+      "REF-3028",
+      "REF-3034"
      ],
      "status": "verified"
     },
@@ -40193,7 +40167,7 @@
      "note": "Analgesic activity of Ononis extract in animals (congener O. spinosa).",
      "reference_ids": [
       "REF-2758",
-      "REF-3024"
+      "REF-3027"
      ],
      "status": "verified"
     },
@@ -40210,7 +40184,7 @@
      "note": "Ononis isoflavones showed chemopreventive/antiproliferative activity against breast cancer cells (preclinical).",
      "reference_ids": [
       "REF-2745",
-      "REF-3028"
+      "REF-3021"
      ],
      "status": "verified"
     },
@@ -40225,8 +40199,14 @@
      "action": "lipid-lowering",
      "reference_ids": [
       "REF-3018",
-      "REF-3026",
-      "REF-3034"
+      "REF-3029"
+     ],
+     "status": "verified"
+    },
+    {
+     "action": "antiplatelet",
+     "reference_ids": [
+      "REF-3020"
      ],
      "status": "verified"
     }
@@ -40236,7 +40216,8 @@
      "condition": "cancer",
      "note": "inferred from anticancer action",
      "reference_ids": [
-      "REF-2745"
+      "REF-2745",
+      "REF-3021"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -40249,10 +40230,11 @@
       "REF-2753",
       "REF-2748",
       "REF-2755",
-      "REF-3021"
+      "REF-3022",
+      "REF-3024"
      ],
      "status": "verified",
-     "evidence": 8,
+     "evidence": 9,
      "label": "Urinary support"
     },
     {
@@ -40342,7 +40324,8 @@
      "note": "Ononis isoflavonoids (maackiain, ononin) showed anti-adipogenic activity via PPAR-gamma inhibition (preclinical).",
      "reference_ids": [
       "REF-3018",
-      "REF-3026"
+      "REF-3020",
+      "REF-3029"
      ],
      "status": "needs-review",
      "evidence": 2,
@@ -40417,7 +40400,8 @@
     "REF-3032",
     "REF-3033",
     "REF-3034",
-    "REF-3035"
+    "REF-3035",
+    "REF-3036"
    ],
    "drug_class_interactions": [
     {
@@ -57549,13 +57533,7 @@
     {
      "action": "lipid-lowering",
      "reference_ids": [
-      "REF-2952"
-     ],
-     "status": "verified"
-    },
-    {
-     "action": "antidiabetic",
-     "reference_ids": [
+      "REF-2952",
       "REF-2955"
      ],
      "status": "verified"
@@ -57781,16 +57759,6 @@
      "status": "needs-review",
      "evidence": 2,
      "label": "Immune support"
-    },
-    {
-     "condition": "cognitive-function",
-     "note": "Dandelion attenuated neuroinflammatory responses in microglia (cognition-relevant, preclinical).",
-     "reference_ids": [
-      "REF-2965"
-     ],
-     "status": "needs-review",
-     "evidence": 2,
-     "label": "Cognitive function"
     }
    ],
    "contraindications": [

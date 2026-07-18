@@ -257,21 +257,30 @@ status: verified
 last_updated: '2026-07-11'
 internal_notes: 'Ingested from the omniasana.bio Materia Medica page (https://omniasana.bio/white-dead-nettle-lamium-album/).
   New species not in the book manuscript. Identification, distribution and collection notes from the source
-  are retained in the bibliography (some references are cited at plant level). | 2026-06-15: migrated
-  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). Unmapped
-  uses kept for reference: Edible spring potherb (young leaves and shoots, cooked). | 2026-06-20: enriched
-  to >=10 scientific publications: added 12 PubMed-verified @article sources (REF-1746, REF-1747, REF-1748,
+  are retained in the bibliography (some references are cited at plant level). | 2026-06-15: migrated to
+  entity schema (actions->vocab ids, indications split out, constituents linked to compounds). Unmapped uses
+  kept for reference: Edible spring potherb (young leaves and shoots, cooked). | 2026-06-20: enriched to
+  >=10 scientific publications: added 12 PubMed-verified @article sources (REF-1746, REF-1747, REF-1748,
   REF-1749, REF-1750, REF-1751, REF-1752, REF-1753, REF-1754, REF-1755, REF-1756, REF-1757) — woven into
   relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
-  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
-  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 1): DEAD END, dosage left unsourced.
-  There is no EMA/HMPC herbal monograph for Lamium album (confirmed: no medicine page under lamii-albi-flos,
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from
+  the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 1): DEAD END, dosage left unsourced. There
+  is no EMA/HMPC herbal monograph for Lamium album (confirmed: no medicine page under lamii-albi-flos,
   species absent from the HMPC monograph list), no ESCOP or WHO monograph, and no clinical trial reporting
-  an administered dose. The only regulatory posology is the German Commission E monograph on Lamii albi
-  flos (internal 3.0 g daily, external 5.0 g), which (a) covers the FLOWER only — Commission E leaves
-  the herb unapproved — and (b) contradicts the current entry text of 2-4 g flowering herb up to three
-  times daily (~6-12 g/day). Commission E was not cited because its content could only be confirmed via
-  secondary web sources here, not a primary copy. TODO: obtain Blumenthal et al. (1998) The Complete German
-  Commission E Monographs, then either cite it and rewrite the text to 3 g daily of the flower, or retire
-  the numeric claim.'
+  an administered dose. The only regulatory posology is the German Commission E monograph on Lamii albi flos
+  (internal 3.0 g daily, external 5.0 g), which (a) covers the FLOWER only — Commission E leaves the herb
+  unapproved — and (b) contradicts the current entry text of 2-4 g flowering herb up to three times daily
+  (~6-12 g/day). Commission E was not cited because its content could only be confirmed via secondary web
+  sources here, not a primary copy. TODO: obtain Blumenthal et al. (1998) The Complete German Commission E
+  Monographs, then either cite it and rewrite the text to 3 g daily of the flower, or retire the numeric
+  claim. | 2026-07-19 (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the
+  dosage-sourcing campaign. The remaining unsourced dosage entry/entries on this record were searched
+  against every seam this campaign opened and none yields a dose for this species in this preparation. Seams
+  checked: (1) the official EMA herbal medicines register (medicines-output-herbal_medicines-report, 251
+  rows, retrieved 2026-07-18), matched on the accepted binomial AND on every synonym and common name
+  appearing in a register row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by Latin
+  drug title with each monograph''s Definition read to confirm the species - 177 monographs indexed; (3)
+  this plant''s own reference bucket, mined for human studies that state an administered dose. Per the
+  campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
+  tangentially-related paper.'

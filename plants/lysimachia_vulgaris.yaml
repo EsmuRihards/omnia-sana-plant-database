@@ -307,14 +307,23 @@ lookalikes_review:
 provenance: pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent for this plant failed
-  on the session limit). 15 refs REF-2793..REF-2807: 9 genuine Lysimachia vulgaris (incl. var. davurica,
-  a variety of the species - PCSK9/lipid-lowering, liver-fibrosis/NASH, IBS-D, antibacterial/antitumor/antioxidant,
+internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent for this plant failed on the session
+  limit). 15 refs REF-2793..REF-2807: 9 genuine Lysimachia vulgaris (incl. var. davurica, a variety of the
+  species - PCSK9/lipid-lowering, liver-fibrosis/NASH, IBS-D, antibacterial/antitumor/antioxidant,
   flavonoid/rutin phytochem) + 6 clearly-labelled genus congeners (L. christinae renal/anticancer/saponins,
   L. foenum-graecum antioxidant, L. baviensis anti-inflammatory, L. capillipes anticancer saponins). Every
-  congener labelled; the genus shares saponin/flavonoid chemistry. Non-medicinal L. vulgaris hits (pollen/canopy/wetland-ecology/heavy-metal
-  bioindication) rejected. Strong genuine finding: PCSK9 inhibition -> statins interaction. Cross-link:
-  primula-veris (Primulaceae saponins). lookalikes none-known (distinctive whorled leaves + yellow star
-  flowers; unrelated to purple loosestrife Lythrum). | 2026-07-13: added anticancer action (where absent)
-  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+  congener labelled; the genus shares saponin/flavonoid chemistry. Non-medicinal L. vulgaris hits
+  (pollen/canopy/wetland-ecology/heavy-metal bioindication) rejected. Strong genuine finding: PCSK9
+  inhibition -> statins interaction. Cross-link: primula-veris (Primulaceae saponins). lookalikes none-known
+  (distinctive whorled leaves + yellow star flowers; unrelated to purple loosestrife Lythrum). | 2026-07-13:
+  added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from
+  the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-19 (dosage-sourcing
+  campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The
+  remaining unsourced dosage entry/entries on this record were searched against every seam this campaign
+  opened and none yields a dose for this species in this preparation. Seams checked: (1) the official EMA
+  herbal medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18),
+  matched on the accepted binomial AND on every synonym and common name appearing in a register row; (2) WHO
+  monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s
+  Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket,
+  mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
+  left unsourced at status draft rather than attached to a tangentially-related paper.'

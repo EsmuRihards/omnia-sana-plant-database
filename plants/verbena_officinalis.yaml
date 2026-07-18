@@ -283,4 +283,13 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (
   recording: REF-0523''s own abstract states that ''Monographs on Verbenae herba have been included in the
   European Pharmacopoeia since 2008'' - a Ph. Eur. quality monograph, which carries identity and purity
   standards but NO posology, and is not an EMA/HMPC monograph. REF-0522 now has an integrity_note in the
-  bibliography and 0 remaining citations across the database.'
+  bibliography and 0 remaining citations across the database. | 2026-07-19 (dosage-sourcing campaign,
+  closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The remaining
+  unsourced dosage entry/entries on this record were searched against every seam this campaign opened and
+  none yields a dose for this species in this preparation. Seams checked: (1) the official EMA herbal
+  medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched on
+  the accepted binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs
+  on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition
+  read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for
+  human studies that state an administered dose. Per the campaign''s integrity bar the entry is left
+  unsourced at status draft rather than attached to a tangentially-related paper.'

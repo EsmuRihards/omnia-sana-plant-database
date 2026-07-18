@@ -198,13 +198,25 @@ lookalikes_review:
 provenance: pubmed
 status: verified
 last_updated: '2026-07-10'
-internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent failed on the session
-  limit). SETTLED-INCOMPLETE: there is essentially NO Campanula persicifolia-specific medicinal/phytochemical
+internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent failed on the session limit).
+  SETTLED-INCOMPLETE: there is essentially NO Campanula persicifolia-specific medicinal/phytochemical
   literature on PubMed (the 447 ''Campanula'' hits are other Campanulaceae genera - Platycodon, Codonopsis,
-  Lobelia - or other Campanula species). The plant is chiefly EDIBLE and ornamental. Entry built honestly
-  on 5 clearly-labelled genus-Campanula / ethnobotanical sources: REF-2816 genus Campanula review, REF-2817
-  C. alliariifolia phytochem/antioxidant, REF-2818 C. macrostachya wound-healing, REF-2819 C. latifolia
+  Lobelia - or other Campanula species). The plant is chiefly EDIBLE and ornamental. Entry built honestly on
+  5 clearly-labelled genus-Campanula / ethnobotanical sources: REF-2816 genus Campanula review, REF-2817 C.
+  alliariifolia phytochem/antioxidant, REF-2818 C. macrostachya wound-healing, REF-2819 C. latifolia
   bellflower nutritional peptides, REF-2820 Italian wild-food ethnobotany (genus Campanula edible). 0
-  genuine species-specific -> far under 15; do NOT pad with unrelated Campanulaceae genera (Platycodon/Codonopsis/Lobelia
-  are NOT Campanula). Cross-links via shared compounds (chlorogenic-acid/flavonoid/quercetin/saponin)
-  and inflammation/wounds indications. lookalikes none-known (distinctive large blue/white bells).'
+  genuine species-specific -> far under 15; do NOT pad with unrelated Campanulaceae genera
+  (Platycodon/Codonopsis/Lobelia are NOT Campanula). Cross-links via shared compounds
+  (chlorogenic-acid/flavonoid/quercetin/saponin) and inflammation/wounds indications. lookalikes none-known
+  (distinctive large blue/white bells). | 2026-07-19 (dosage-sourcing campaign, closing sweep): DOCUMENTED
+  DEAD END - closing sweep of the dosage-sourcing campaign. The remaining unsourced dosage entry/entries on
+  this record were searched against every seam this campaign opened and none yields a dose for this species
+  in this preparation. Seams checked: (1) the official EMA herbal medicines register
+  (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched on the accepted
+  binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs on selected
+  medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
+  confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
+  studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
+  status draft rather than attached to a tangentially-related paper. Settled as sparse-literature incomplete
+  in the earlier campaign. The entry describes culinary/traditional use rather than a therapeutic dose, and
+  no regulatory source covers it.'

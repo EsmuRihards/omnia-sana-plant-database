@@ -244,18 +244,27 @@ lookalikes_review:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Journal of Ethnopharmacology
-  activity study; WebMD monograph). Bistorta officinalis = Persicaria bistorta = Polygonum bistorta. Originally
-  a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, wounds);
-  associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
-  GC-MS study of Persicaria bistorta that characterised its constituents and confirmed antibacterial activity
-  (REF-0627). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
-  bucket (least-cited enrichment): REF-0746, REF-0747, REF-0748. | 2026-06-20: enriched to >=10 scientific
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Journal of Ethnopharmacology activity study;
+  WebMD monograph). Bistorta officinalis = Persicaria bistorta = Polygonum bistorta. Originally a skeleton
+  imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, wounds); associations
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced GC-MS study of
+  Persicaria bistorta that characterised its constituents and confirmed antibacterial activity (REF-0627). |
+  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked to
+  compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket
+  (least-cited enrichment): REF-0746, REF-0747, REF-0748. | 2026-06-20: enriched to >=10 scientific
   publications: added 10 PubMed-verified @article sources (REF-2116, REF-2117, REF-2118, REF-2119, REF-0747,
   REF-2120, REF-2121, REF-2122, REF-2123, REF-0627) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer
-  action (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s
-  cited literature, as part of the cancer-condition campaign.'
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-19 (dosage-sourcing
+  campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The
+  remaining unsourced dosage entry/entries on this record were searched against every seam this campaign
+  opened and none yields a dose for this species in this preparation. Seams checked: (1) the official EMA
+  herbal medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18),
+  matched on the accepted binomial AND on every synonym and common name appearing in a register row; (2) WHO
+  monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s
+  Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket,
+  mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
+  left unsourced at status draft rather than attached to a tangentially-related paper.'

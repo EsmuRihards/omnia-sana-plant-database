@@ -284,19 +284,31 @@ dangerous_lookalikes:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and Drugs.com
-  monographs). Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database
-  already contains A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (eczema, acne, skin-irritation, detox); associations retained and now part-mapped and cited.
-  Further enriched 2026-06-14 with a PubMed-sourced pharmacological review of the better-studied congener
-  Arctium lappa (REF-0625), whose root supports the traditional skin/alterative use and antioxidant activity.
-  | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket
-  (least-cited enrichment): REF-0723, REF-0722, REF-0724. | 2026-06-20: enriched to >=10 scientific publications:
-  added 11 PubMed-verified @article sources (REF-1924, REF-1925, REF-1926, REF-1927, REF-1928, REF-1929,
-  REF-1930, REF-1931, REF-1932, REF-1933, REF-1934) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer
-  action (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s
-  cited literature, as part of the cancer-condition campaign.'
+internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and Drugs.com monographs).
+  Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database already contains
+  A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (eczema, acne, skin-irritation, detox); associations retained and now part-mapped and cited. Further
+  enriched 2026-06-14 with a PubMed-sourced pharmacological review of the better-studied congener Arctium
+  lappa (REF-0625), whose root supports the traditional skin/alterative use and antioxidant activity. |
+  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked to
+  compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket
+  (least-cited enrichment): REF-0723, REF-0722, REF-0724. | 2026-06-20: enriched to >=10 scientific
+  publications: added 11 PubMed-verified @article sources (REF-1924, REF-1925, REF-1926, REF-1927, REF-1928,
+  REF-1929, REF-1930, REF-1931, REF-1932, REF-1933, REF-1934) — woven into relevant actions/indications and
+  the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-19 (dosage-sourcing
+  campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The
+  remaining unsourced dosage entry/entries on this record were searched against every seam this campaign
+  opened and none yields a dose for this species in this preparation. Seams checked: (1) the official EMA
+  herbal medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18),
+  matched on the accepted binomial AND on every synonym and common name appearing in a register row; (2) WHO
+  monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s
+  Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket,
+  mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
+  left unsourced at status draft rather than attached to a tangentially-related paper. SPECIFIC FINDING -
+  WRONG SPECIES: the EMA monograph Arctii radix covers Arctium LAPPA (greater burdock), sourced separately
+  on that record at REF-3088. A. minus (lesser burdock) is a different species and the posology does not
+  transfer.'

@@ -305,18 +305,27 @@ lookalikes_review:
 provenance: pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Created 2026-07-10. SPARSE species: genuine Oxalis stricta-specific medicinal literature
-  is only 2 papers (REF-2778 oxalate/ascorbate metabolism; REF-2779 O. stricta-extract ZnO nanoparticle
-  anticancer). The rest of PubMed for O. stricta is genomics/invasion-ecology/floristics/entomology (rejected).
-  Entry therefore relies substantially on the near-identical congener Oxalis corniculata (creeping yellow
-  woodsorrel), which shares the same folk-medicine identity (''yellow woodsorrel'') and is extensively
-  studied - 13 clearly-labelled O. corniculata refs REF-2780..REF-2792 (2 reviews + 11 preclinical: hepatoprotective,
+internal_notes: 'Created 2026-07-10. SPARSE species: genuine Oxalis stricta-specific medicinal literature is only 2 papers
+  (REF-2778 oxalate/ascorbate metabolism; REF-2779 O. stricta-extract ZnO nanoparticle anticancer). The rest
+  of PubMed for O. stricta is genomics/invasion-ecology/floristics/entomology (rejected). Entry therefore
+  relies substantially on the near-identical congener Oxalis corniculata (creeping yellow woodsorrel), which
+  shares the same folk-medicine identity (''yellow woodsorrel'') and is extensively studied - 13
+  clearly-labelled O. corniculata refs REF-2780..REF-2792 (2 reviews + 11 preclinical: hepatoprotective,
   gastroprotective, anticancer, antidiabetic, neuroprotective, antimicrobial/antiparasitic, wound/fracture
-  healing, polysaccharide). Total 15 (2 genuine + 13 congener); genuine-species evidence is minimal -
-  treat pharmacology as O. corniculata-derived. Research-workflow leads (wf_25f58939-508) self-verified
-  via PubMed metadata (adversarial-verify stage failed on the session limit). Key safety: OXALATE content
-  -> kidney-stone warning (REF-2778). lookalikes none-known (distinctive clover-like sour leaves + yellow
-  flowers; no deadly confusable). Cross-links via shared compounds (flavonoid/quercetin/tannin/polysaccharide)
-  and indications (liver-support/gastroprotective/antidiabetic). | 2026-07-13: added anticancer action
-  (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
-  literature, as part of the cancer-condition campaign.'
+  healing, polysaccharide). Total 15 (2 genuine + 13 congener); genuine-species evidence is minimal - treat
+  pharmacology as O. corniculata-derived. Research-workflow leads (wf_25f58939-508) self-verified via PubMed
+  metadata (adversarial-verify stage failed on the session limit). Key safety: OXALATE content ->
+  kidney-stone warning (REF-2778). lookalikes none-known (distinctive clover-like sour leaves + yellow
+  flowers; no deadly confusable). Cross-links via shared compounds
+  (flavonoid/quercetin/tannin/polysaccharide) and indications (liver-support/gastroprotective/antidiabetic).
+  | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour research)
+  sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-19
+  (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing
+  campaign. The remaining unsourced dosage entry/entries on this record were searched against every seam
+  this campaign opened and none yields a dose for this species in this preparation. Seams checked: (1) the
+  official EMA herbal medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved
+  2026-07-18), matched on the accepted binomial AND on every synonym and common name appearing in a register
+  row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each
+  monograph''s Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own
+  reference bucket, mined for human studies that state an administered dose. Per the campaign''s integrity
+  bar the entry is left unsourced at status draft rather than attached to a tangentially-related paper.'

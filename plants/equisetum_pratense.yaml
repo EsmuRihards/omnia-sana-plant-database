@@ -134,14 +134,25 @@ dangerous_lookalikes:
 provenance: pubmed
 status: draft
 last_updated: '2026-07-11'
-internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify Shady Horsetail" blog
-  post). SETTLED-INCOMPLETE at 3 @article sources: Equisetum pratense is an extremely sparse-literature
-  species (only ~4 PubMed records exist in total, one of which is an environmental chlorpyrifos-sorption
-  study that was excluded). Every genuine species-specific medicinal / pharmacological article was included;
-  the bulk of horsetail medicinal research concerns E. arvense (a separate DB record), which must NOT
-  be used to pad this species. Per user policy 2026-06-27: genuine sources only, accept <15, no wrong-species
-  padding. | 2026-06-27: enriched to >=15 scientific publications: added 3 PubMed-verified @article sources
-  (REF-2360, REF-2361, REF-2362) — woven into relevant actions/indications and the plant-level references
-  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify Shady Horsetail" blog post).
+  SETTLED-INCOMPLETE at 3 @article sources: Equisetum pratense is an extremely sparse-literature species
+  (only ~4 PubMed records exist in total, one of which is an environmental chlorpyrifos-sorption study that
+  was excluded). Every genuine species-specific medicinal / pharmacological article was included; the bulk
+  of horsetail medicinal research concerns E. arvense (a separate DB record), which must NOT be used to pad
+  this species. Per user policy 2026-06-27: genuine sources only, accept <15, no wrong-species padding. |
+  2026-06-27: enriched to >=15 scientific publications: added 3 PubMed-verified @article sources (REF-2360,
+  REF-2361, REF-2362) — woven into relevant actions/indications and the plant-level references bucket. |
+  2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+  draft per the integrity-first sourcing policy. | 2026-07-19 (dosage-sourcing campaign, closing sweep):
+  DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The remaining unsourced dosage
+  entry/entries on this record were searched against every seam this campaign opened and none yields a dose
+  for this species in this preparation. Seams checked: (1) the official EMA herbal medicines register
+  (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched on the accepted
+  binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs on selected
+  medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
+  confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
+  studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
+  status draft rather than attached to a tangentially-related paper. This species was already settled as
+  SPARSE-LITERATURE incomplete in the earlier >=10-publication campaign. The EMA monograph Equiseti herba
+  covers Equisetum ARVENSE only (sourced at REF-0083 on that record); E. pratense is a different species.'

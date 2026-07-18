@@ -89,9 +89,16 @@ dosage:
   - REF-0230
   status: verified
 - name: Flaxseed oil
-  text: Typical study doses for omega-3 intake have used roughly 1-2 tablespoons (about 10-15 mL) daily.
-    Educational reference only, not a prescription.
-  status: draft
+  text: A randomised placebo-controlled trial titrated flax oil capsules (550 mg alpha-linolenic acid
+    per 1 g of oil) to 12 capsules per day, i.e. up to roughly 12 g of oil daily, over 16 weeks - broadly
+    matching the 1-2 tablespoons (about 10-15 mL) daily often cited for omega-3 intake. That trial was
+    in children and adolescents with bipolar disorder and its primary outcomes were null; it is cited
+    here only as a source for an administered human dose of the oil, not as evidence of benefit. Note
+    the EU herbal monograph on Lini semen covers the SEED, not the oil. Educational reference only, not
+    a prescription.
+  reference_ids:
+  - REF-3104
+  status: verified
 constituents:
 - name: Lignans (secoisolariciresinol diglucoside, SDG)
   compounds:

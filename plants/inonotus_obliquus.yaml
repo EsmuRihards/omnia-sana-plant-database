@@ -312,19 +312,31 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-18'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0848, REF-0849, REF-0850.
-  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2195,
-  REF-2196, REF-2197, REF-2198, REF-0849, REF-2199, REF-2200, REF-2201, REF-2202, REF-2203, REF-2204)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
-  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
-  indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign. | 2026-07-18: added 24 new OpenAlex-sourced scientific references (REF-2969..REF-2992)
-  covering anticancer / immunity / cardiovascular / cognitive & general medicinal properties; harvested
-  from OpenAlex (open, non-PubMed database).'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
+  references bucket (least-cited enrichment): REF-0848, REF-0849, REF-0850. | 2026-06-20: enriched to >=10
+  scientific publications: added 11 PubMed-verified @article sources (REF-2195, REF-2196, REF-2197,
+  REF-2198, REF-0849, REF-2199, REF-2200, REF-2201, REF-2202, REF-2203, REF-2204) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
+  cancer-condition campaign. | 2026-07-18: added 24 new OpenAlex-sourced scientific references
+  (REF-2969..REF-2992) covering anticancer / immunity / cardiovascular / cognitive & general medicinal
+  properties; harvested from OpenAlex (open, non-PubMed database). | 2026-07-19 (dosage-sourcing campaign,
+  closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The remaining
+  unsourced dosage entry/entries on this record were searched against every seam this campaign opened and
+  none yields a dose for this species in this preparation. Seams checked: (1) the official EMA herbal
+  medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched on
+  the accepted binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs
+  on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition
+  read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for
+  human studies that state an administered dose. Per the campaign''s integrity bar the entry is left
+  unsourced at status draft rather than attached to a tangentially-related paper. SPECIFIC FINDING: the only
+  human study located (PMID 38873567) administered Inonotus obliquus inside a 2.5 g multi-mushroom blend
+  alongside Cordyceps sinensis, within a mixed beet-based supplement, and reports no per-mushroom dose. A
+  blend total cannot be attributed to one ingredient. Chaga has no EMA or WHO monograph.'

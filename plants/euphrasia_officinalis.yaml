@@ -92,9 +92,15 @@ preparations:
   status: draft
 dosage:
 - name: Compress/eyewash
-  text: A strained, cooled infusion applied as a compress several times daily; only sterile, commercially
-    prepared products should ever be put directly into the eye. Educational reference only, not a prescription.
-  status: draft
+  text: No dose is given here because no official posology exists. The HMPC assessed eyebright and DECLINED
+    to establish a herbal monograph, concluding that the efficacy of the claimed uses is undocumented
+    and that external eye application of ex tempore (home-prepared) preparations is 'not hygienic and
+    not safe', so therapeutic use cannot be recommended. Traditional sources describe a strained, cooled
+    infusion used as a compress, but that is precisely the practice the HMPC advised against; nothing
+    home-prepared should be put in or on the eye. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3084
+  status: verified
 actions:
 - action: anti-inflammatory
   note: Astringent and anti-inflammatory for eye irritation, redness and conjunctivitis (traditional,
@@ -224,19 +230,30 @@ lookalikes_review:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study;
-  Herbal Reality monograph). Euphrasia is now placed in Orobanchaceae (formerly Scrophulariaceae). Originally
-  a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, allergy, infection);
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (in-vitro corneal-cell study; Herbal Reality
+  monograph). Euphrasia is now placed in Orobanchaceae (formerly Scrophulariaceae). Originally a skeleton
+  imported from the omniasana.bio Symptom-to-Plant Lookup tool (eye-strain, allergy, infection);
   associations retained and now part-mapped and cited. NOTE sterility caution for eye use. Further enriched
-  2026-06-14 with a PubMed-sourced prospective cohort trial of Euphrasia single-dose eye drops in conjunctivitis
-  (REF-0613; complete recovery or clear improvement in ~98% of patients, well tolerated - open-label,
-  single-arm). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
-  linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level references
-  bucket (least-cited enrichment): REF-0812, REF-0813, REF-0814. | 2026-06-20: enriched to >=10 scientific
-  publications: added 8 PubMed-verified @article sources (REF-2173, REF-2174, REF-2175, REF-0812, REF-2176,
-  REF-0813, REF-2177, REF-2178) — woven into relevant actions/indications and the plant-level references
-  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
-  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
-  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
-  part of the cancer-condition campaign.'
+  2026-06-14 with a PubMed-sourced prospective cohort trial of Euphrasia single-dose eye drops in
+  conjunctivitis (REF-0613; complete recovery or clear improvement in ~98% of patients, well tolerated -
+  open-label, single-arm). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
+  references bucket (least-cited enrichment): REF-0812, REF-0813, REF-0814. | 2026-06-20: enriched to >=10
+  scientific publications: added 8 PubMed-verified @article sources (REF-2173, REF-2174, REF-2175, REF-0812,
+  REF-2176, REF-0813, REF-2177, REF-2178) — woven into relevant actions/indications and the plant-level
+  references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action
+  (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
+  literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 4):
+  DOCUMENTED DEAD END with a safety correction, sourced to REF-3084 (new). There is no EMA monograph for
+  eyebright and there never will be on current evidence: the HMPC set out to write one and issued a public
+  statement (EMA/HMPC/727465/2009) concluding that no monograph can be established, that the efficacy of the
+  claimed uses is undocumented, and that external eye application of ex tempore preparations is ''not
+  hygienic and not safe'', so therapeutic use cannot be recommended. The register lists Euphrasiae herba
+  with outcome ''Public statement'', not ''European Union herbal monograph''. The previous entry described
+  exactly the practice HMPC advised against - a home-made strained infusion used as a compress ''several
+  times daily''. Rewritten to state that no official posology exists and that nothing home-prepared should
+  go in or on the eye. NOTE ON BOOKKEEPING: this entry now carries a reference_id and so counts as
+  ''sourced'' in the coverage metric, but REF-3084 states NO dose - it is cited as the authority for the
+  absence of one. It is the only such entry in the database.'

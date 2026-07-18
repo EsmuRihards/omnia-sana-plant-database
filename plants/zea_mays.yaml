@@ -226,16 +226,26 @@ lookalikes_review:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological
-  review). Further enriched 2026-06-13 with two PubMed studies - a renal diuretic mechanism study in conscious
-  rats (REF-0557, Velazquez et al. 2005) and a gestational toxicology study confirming maysin as the predominant
-  flavonoid (REF-0558, Caixeta et al. 2025). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (uti, swelling, kidney-support); associations retained and now part-mapped and cited. |
-  2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents linked
-  to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article
-  sources (REF-1624, REF-1625, REF-1626, REF-1627, REF-1628, REF-1629, REF-1630, REF-1631, REF-1632, REF-1633)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Molecules phytochemical and pharmacological review). Further
+  enriched 2026-06-13 with two PubMed studies - a renal diuretic mechanism study in conscious rats
+  (REF-0557, Velazquez et al. 2005) and a gestational toxicology study confirming maysin as the predominant
+  flavonoid (REF-0558, Caixeta et al. 2025). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained and now part-mapped
+  and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
+  constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-1624, REF-1625, REF-1626, REF-1627, REF-1628, REF-1629, REF-1630,
+  REF-1631, REF-1632, REF-1633) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action
+  (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
+  literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 4):
+  DOCUMENTED DEAD END. Corn silk (Maydis stigma) IS in the EMA herbal register, but its status is ''D: Draft
+  under discussion'' - the monograph EMA/HMPC/509424/2023 exists only as a draft out for public
+  consultation, not an adopted document, so it was not cited. For the record, the draft proposes: decoction
+  2-4 g of comminuted herbal substance in 200 mL boiled 5 minutes, 2-3 times daily (daily dose 4-12 g);
+  infusion 4-8 g in 200 mL, 3 times daily (daily dose 12-24 g); not recommended under 12 years; consult if
+  symptoms persist beyond 2 weeks. Those figures are well above the entry''s current ''2-3 g per cup up to
+  three times daily''. REVISIT once the monograph is adopted - check the register''s Status column for ''F:
+  Assessment finalised'' - then cite it and correct the numbers. Left unsourced and draft in the meantime
+  rather than citing a document that can still change.'

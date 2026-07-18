@@ -3962,8 +3962,11 @@
    "dosage": [
     {
      "name": "Infusion",
-     "text": "Traditional herbal references suggest around 2-3 g of dried leaf per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph on Verbenae citriodorae folium gives, for adolescents, adults and elderly - for mild symptoms of mental stress, 5 g of the comminuted leaf in 100 mL of boiling water as a decoction three times daily; to aid sleep, 1-2 g in 200 mL as an infusion half an hour before bedtime; and for mild digestive complaints, 2-3 g in 200 mL as an infusion 1-3 times daily, or 1 g in 200 mL up to 5 times daily. Not recommended in children. If symptoms persist longer than 2 weeks a healthcare practitioner should be consulted. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3079"
+     ],
+     "status": "verified"
     },
     {
      "name": "Tincture",
@@ -22263,8 +22266,11 @@
    "dosage": [
     {
      "name": "Steam inhalation",
-     "text": "A few drops of essential oil (or a handful of leaf) added to a bowl of hot water, inhaled for several minutes as needed; the oil is never taken internally or applied undiluted to skin, and is avoided in infants and young children. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph on eucalyptus LEAF gives, for inhalation, 3 g of the comminuted leaf in boiling water up to 3 times daily (daily dose 3-9 g), and for oral use 1.5-3 g in 150 mL as an infusion up to 4 times daily (daily dose 4.5-12 g), in adolescents, adults and elderly. Use is CONTRAINDICATED in children under 30 months, and not recommended under 12 years. The essential oil is a separate herbal substance with its own monograph and its own posology - it is never taken internally or applied undiluted to skin on the strength of these leaf figures. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3083"
+     ],
+     "status": "verified"
     }
    ],
    "constituents": [
@@ -22624,8 +22630,11 @@
    "dosage": [
     {
      "name": "Compress/eyewash",
-     "text": "A strained, cooled infusion applied as a compress several times daily; only sterile, commercially prepared products should ever be put directly into the eye. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "No dose is given here because no official posology exists. The HMPC assessed eyebright and DECLINED to establish a herbal monograph, concluding that the efficacy of the claimed uses is undocumented and that external eye application of ex tempore (home-prepared) preparations is 'not hygienic and not safe', so therapeutic use cannot be recommended. Traditional sources describe a strained, cooled infusion used as a compress, but that is precisely the practice the HMPC advised against; nothing home-prepared should be put in or on the eye. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3084"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -23987,8 +23996,11 @@
    "dosage": [
     {
      "name": "Seed infusion",
-     "text": "Traditional herbal references suggest around 1.5-2.5 g crushed seed per cup, up to three times daily, for short periods. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph on bitter fennel fruit gives, for adults and adolescents, 1.5 g of the herbal substance in 250 mL of boiling water (steeped 15 minutes) as an infusion three times daily, for a daily dose of 4.5 g. For children 4 to 12 years, 1.0 g in 100 mL three times daily (daily dose 3.0 g); use is not recommended under 4 years. Use should be short-term, and the monograph limits exposure because of the estragole content of the fruit. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3080"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -26341,8 +26353,11 @@
    "dosage": [
     {
      "name": "Whole root/decoction",
-     "text": "Traditional herbal references limit regular whole-root use to under about 100 mg glycyrrhizin (roughly under 10-15 g dried root) daily, and for no more than 4-6 weeks continuously, given the pseudoaldosteronism risk; DGL is preferred for prolonged use. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph gives, for adults and elderly, 1.5-2 g of the comminuted root in 150 mL of boiling water as an infusion or decoction 2 to 4 times daily, taken one cup after meals; a soft extract (DER 1:0.4-0.5) at 32 mg 2-3 times daily, not exceeding 160 mg daily, is also listed. The monograph directs that it is NOT to be used for more than 4 weeks, and is not recommended under 18 years - the duration limit matters because prolonged licorice use causes pseudoaldosteronism (sodium and water retention, potassium loss, raised blood pressure). Deglycyrrhizinated licorice (DGL) is preferred where prolonged use is intended. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3081"
+     ],
+     "status": "verified"
     }
    ],
    "actions": [
@@ -61683,8 +61698,11 @@
    "dosage": [
     {
      "name": "Leaf infusion",
-     "text": "Traditional herbal references suggest around 2-4 g of dried leaf per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "The EU herbal monograph on nettle leaf gives 2-4 g as a single dose for herbal tea, 3-6 times daily, for a daily dose equivalent to 8-12 g, in adolescents, adults and elderly; a 1:5 liquid extract at 30-40 drops 3-4 times daily and several dry extracts are also listed. Not to be used for more than 4 weeks, and not recommended under 12 years. Educational reference only, not a prescription.",
+     "reference_ids": [
+      "REF-3082"
+     ],
+     "status": "verified"
     },
     {
      "name": "Root extract",
@@ -63569,7 +63587,6 @@
      "note": "Characteristic constituents; verbenalin has a dopaminergic effect.",
      "reference_ids": [
       "REF-0523",
-      "REF-0522",
       "REF-1360"
      ]
     },
@@ -63609,14 +63626,14 @@
     "fruit": "Small nutlet, splitting into four when ripe",
     "flowering_period": "June-September",
     "reference_ids": [
-     "REF-0522"
+     "REF-0523"
     ],
     "status": "verified"
    },
    "habitat": {
     "text": "Grows on dry waste ground, roadsides, field margins and disturbed soil; native to Europe, North Africa and temperate Asia and widely naturalised elsewhere.",
     "reference_ids": [
-     "REF-0522"
+     "REF-0523"
     ],
     "status": "verified"
    },
@@ -63626,15 +63643,12 @@
      "Aerial parts (flowering herb)"
     ],
     "season": "Summer, at flowering",
-    "reference_ids": [
-     "REF-0522"
-    ],
-    "status": "verified"
+    "status": "draft"
    },
    "traditional_uses": {
     "text": "Vervain has an ancient European reputation, reflected in its old names 'holy herb' and 'herb of the cross', as a calming nervine for nervous tension, anxiety and sleeplessness, and as a bitter digestive tonic; it has also traditionally been used topically and internally for aches, pains and mild inflammation.",
     "reference_ids": [
-     "REF-0522"
+     "REF-0523"
     ],
     "status": "verified"
    },
@@ -63642,10 +63656,7 @@
     {
      "name": "Infusion",
      "text": "Dried flowering herb infused in hot water as a traditional calming, digestive tea.",
-     "reference_ids": [
-      "REF-0522"
-     ],
-     "status": "verified"
+     "status": "draft"
     },
     {
      "name": "Tincture",
@@ -63683,7 +63694,6 @@
      "action": "anticonvulsant",
      "note": "Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude extract showed anxiolytic, sedative and anticonvulsant activity in animal models",
      "reference_ids": [
-      "REF-0522",
       "REF-0523",
       "REF-0616"
      ],
@@ -63702,7 +63712,6 @@
      "action": "anxiolytic",
      "note": "Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude extract showed anxiolytic, sedative and anticonvulsant activity in animal models",
      "reference_ids": [
-      "REF-0522",
       "REF-0523",
       "REF-0616"
      ],
@@ -63712,7 +63721,7 @@
      "action": "digestive",
      "note": "Digestive bitter and relief of mild mental stress",
      "reference_ids": [
-      "REF-0522"
+      "REF-0523"
      ],
      "status": "needs-review"
     },
@@ -63720,7 +63729,6 @@
      "action": "sedative",
      "note": "Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude extract showed anxiolytic, sedative and anticonvulsant activity in animal models",
      "reference_ids": [
-      "REF-0522",
       "REF-0523",
       "REF-0616",
       "REF-1367"
@@ -63733,7 +63741,6 @@
      "condition": "anxiety",
      "note": "Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude extract showed anxiolytic, sedative and anticonvulsant activity in animal models",
      "reference_ids": [
-      "REF-0522",
       "REF-0523",
       "REF-0616"
      ],
@@ -63765,7 +63772,7 @@
      "condition": "bloating",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0522"
+      "REF-0523"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -63796,7 +63803,7 @@
      "condition": "indigestion",
      "note": "inferred from digestive action",
      "reference_ids": [
-      "REF-0522"
+      "REF-0523"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -63817,7 +63824,6 @@
      "condition": "insomnia",
      "note": "inferred from sedative action",
      "reference_ids": [
-      "REF-0522",
       "REF-0523",
       "REF-0616"
      ],
@@ -63829,7 +63835,6 @@
      "condition": "nervous-tension",
      "note": "Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude extract showed anxiolytic, sedative and anticonvulsant activity in animal models",
      "reference_ids": [
-      "REF-0522",
       "REF-0523",
       "REF-0616"
      ],
@@ -63861,7 +63866,7 @@
      "condition": "stress",
      "note": "Digestive bitter and relief of mild mental stress",
      "reference_ids": [
-      "REF-0522"
+      "REF-0523"
      ],
      "status": "needs-review",
      "evidence": 1,
@@ -63873,7 +63878,6 @@
      "note": "Generally well tolerated in traditional use. Avoid during pregnancy - vervain has a traditional uterine-stimulant (oxytocic) reputation linked to verbenalin.",
      "severity": "caution",
      "reference_ids": [
-      "REF-0522",
       "REF-0523"
      ],
      "status": "verified"
@@ -63882,7 +63886,7 @@
      "note": "May add to the effect of sedatives; use in breastfeeding is not recommended in the absence of data.",
      "severity": "info",
      "reference_ids": [
-      "REF-0522"
+      "REF-0523"
      ],
      "status": "needs-review"
     }

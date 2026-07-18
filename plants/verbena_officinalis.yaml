@@ -20,7 +20,6 @@ constituents:
   note: Characteristic constituents; verbenalin has a dopaminergic effect.
   reference_ids:
   - REF-0523
-  - REF-0522
   - REF-1360
 - name: Phenylpropanoid glycosides (verbascoside/acteoside)
   compounds:
@@ -51,13 +50,13 @@ botanical_description:
   fruit: Small nutlet, splitting into four when ripe
   flowering_period: June-September
   reference_ids:
-  - REF-0522
+  - REF-0523
   status: verified
 habitat:
   text: Grows on dry waste ground, roadsides, field margins and disturbed soil; native to Europe, North
     Africa and temperate Asia and widely naturalised elsewhere.
   reference_ids:
-  - REF-0522
+  - REF-0523
   status: verified
 harvesting:
   text: The flowering aerial parts are cut in summer as the plant comes into flower and dried in a warm,
@@ -65,22 +64,18 @@ harvesting:
   parts:
   - Aerial parts (flowering herb)
   season: Summer, at flowering
-  reference_ids:
-  - REF-0522
-  status: verified
+  status: draft
 traditional_uses:
   text: Vervain has an ancient European reputation, reflected in its old names 'holy herb' and 'herb of
     the cross', as a calming nervine for nervous tension, anxiety and sleeplessness, and as a bitter digestive
     tonic; it has also traditionally been used topically and internally for aches, pains and mild inflammation.
   reference_ids:
-  - REF-0522
+  - REF-0523
   status: verified
 preparations:
 - name: Infusion
   text: Dried flowering herb infused in hot water as a traditional calming, digestive tea.
-  reference_ids:
-  - REF-0522
-  status: verified
+  status: draft
 - name: Tincture
   text: Alcoholic extract of the dried flowering herb.
   status: draft
@@ -106,7 +101,6 @@ actions:
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
     extract showed anxiolytic, sedative and anticonvulsant activity in animal models
   reference_ids:
-  - REF-0522
   - REF-0523
   - REF-0616
   status: verified
@@ -120,20 +114,18 @@ actions:
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
     extract showed anxiolytic, sedative and anticonvulsant activity in animal models
   reference_ids:
-  - REF-0522
   - REF-0523
   - REF-0616
   status: verified
 - action: digestive
   note: Digestive bitter and relief of mild mental stress
   reference_ids:
-  - REF-0522
+  - REF-0523
   status: needs-review
 - action: sedative
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
     extract showed anxiolytic, sedative and anticonvulsant activity in animal models
   reference_ids:
-  - REF-0522
   - REF-0523
   - REF-0616
   - REF-1367
@@ -143,7 +135,6 @@ indications:
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
     extract showed anxiolytic, sedative and anticonvulsant activity in animal models
   reference_ids:
-  - REF-0522
   - REF-0523
   - REF-0616
   status: verified
@@ -160,7 +151,7 @@ indications:
 - condition: bloating
   note: inferred from digestive action
   reference_ids:
-  - REF-0522
+  - REF-0523
   status: needs-review
 - condition: depression
   note: inferred from antidepressant action
@@ -176,7 +167,7 @@ indications:
 - condition: indigestion
   note: inferred from digestive action
   reference_ids:
-  - REF-0522
+  - REF-0523
   status: needs-review
 - condition: inflammation
   note: inferred from anti-inflammatory action
@@ -187,7 +178,6 @@ indications:
 - condition: insomnia
   note: inferred from sedative action
   reference_ids:
-  - REF-0522
   - REF-0523
   - REF-0616
   status: needs-review
@@ -195,7 +185,6 @@ indications:
   note: Nervine / anxiolytic for nervous tension and mild anxiety; supports sleep (traditional) - a crude
     extract showed anxiolytic, sedative and anticonvulsant activity in animal models
   reference_ids:
-  - REF-0522
   - REF-0523
   - REF-0616
   status: verified
@@ -212,21 +201,20 @@ indications:
 - condition: stress
   note: Digestive bitter and relief of mild mental stress
   reference_ids:
-  - REF-0522
+  - REF-0523
   status: needs-review
 contraindications:
 - note: Generally well tolerated in traditional use. Avoid during pregnancy - vervain has a traditional
     uterine-stimulant (oxytocic) reputation linked to verbenalin.
   severity: caution
   reference_ids:
-  - REF-0522
   - REF-0523
   status: verified
 - note: May add to the effect of sedatives; use in breastfeeding is not recommended in the absence of
     data.
   severity: info
   reference_ids:
-  - REF-0522
+  - REF-0523
   status: needs-review
 references:
 - REF-1358
@@ -258,26 +246,41 @@ lookalikes_review:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for
-  Verbenae herba; Planta Medica review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (anxiety, insomnia, nervous-tension, inflammation, depression); associations retained and
-  now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced study showing Verbena officinalis
-  crude extract has anxiolytic, sedative and anticonvulsant activity in rodent models (REF-0616), supporting
-  the nervine action mechanistically. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
+internal_notes: 'Enriched 2026-06-12 from regulatory and scientific literature (EMA HMPC monograph for Verbenae herba; Planta
+  Medica review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
+  (anxiety, insomnia, nervous-tension, inflammation, depression); associations retained and now part-mapped
+  and cited. Further enriched 2026-06-14 with a PubMed-sourced study showing Verbena officinalis crude
+  extract has anxiolytic, sedative and anticonvulsant activity in rodent models (REF-0616), supporting the
+  nervine action mechanistically. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
   split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
   added 10 PubMed-verified @article sources (REF-1358, REF-1359, REF-1360, REF-1361, REF-1362, REF-1363,
   REF-1364, REF-1365, REF-1366, REF-1367) — woven into relevant actions/indications and the plant-level
   references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
   traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign,
-  batch 2): DEAD END, dosage left unsourced — AND A CITATION-INTEGRITY FLAG. REF-0522 is recorded in the
-  bibliography as "European Union herbal monograph on Verbena officinalis L., herba (Verbenae herba)"
-  (EMA HMPC), but no such monograph exists: the cited EMA medicine-page URL (/medicines/herbal/verbenae-herba)
-  404s, as do the standard final-community- and final-european-union- monograph PDF URL patterns, and
-  Verbena officinalis does not appear in the HMPC monograph list. Vervain appears in EMA''s combination
-  monograph on Species digestivae but has no standalone monograph. This is the SECOND phantom EMA citation
-  found in this campaign (see hyssopus_officinalis / REF-0072); REF-0522 is used 18 times on this plant
-  and was NOT used to source the dosage entry. The European Pharmacopoeia does carry a Verbenae herba
-  monograph, but Ph. Eur. monographs are identity/purity standards and give no posology, so they cannot
-  source a dose. No ESCOP or WHO monograph and no dose-reporting clinical trial found. TODO: audit REF-0522''s
-  18 uses and remove the bibliography entry.'
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing
+  campaign, batch 2): DEAD END, dosage left unsourced — AND A CITATION-INTEGRITY FLAG. REF-0522 is recorded
+  in the bibliography as "European Union herbal monograph on Verbena officinalis L., herba (Verbenae herba)"
+  (EMA HMPC), but no such monograph exists: the cited EMA medicine-page URL
+  (/medicines/herbal/verbenae-herba) 404s, as do the standard final-community- and final-european-union-
+  monograph PDF URL patterns, and Verbena officinalis does not appear in the HMPC monograph list. Vervain
+  appears in EMA''s combination monograph on Species digestivae but has no standalone monograph. This is the
+  SECOND phantom EMA citation found in this campaign (see hyssopus_officinalis / REF-0072); REF-0522 is used
+  18 times on this plant and was NOT used to source the dosage entry. The European Pharmacopoeia does carry
+  a Verbenae herba monograph, but Ph. Eur. monographs are identity/purity standards and give no posology, so
+  they cannot source a dose. No ESCOP or WHO monograph and no dose-reporting clinical trial found. TODO:
+  audit REF-0522''s 18 uses and remove the bibliography entry. | 2026-07-18 (dosage-sourcing campaign, batch
+  4): REF-0522 CLEANUP (following the EMA citation audit earlier the same session, which confirmed REF-0522
+  is a phantom - no EMA monograph for Verbena officinalis exists; the register holds only Verbenae
+  citriodorae folium = Aloysia citrodora, a different plant, now sourced at REF-3079). All 21 REF-0522
+  citations removed from this record. Where REF-0522 was CO-CITED with real sources (REF-0523 Planta Medica
+  species review, REF-0616, REF-1358, REF-1362, REF-1363, REF-1367) it was simply dropped and the remaining
+  sources stand. Where it was the SOLE citation on descriptive claims that the Planta Medica review
+  demonstrably covers per its abstract - botanical characteristics, distribution, chemical composition,
+  traditional medicinal uses - the citation was repointed to REF-0523. Two claims were deliberately NOT
+  repointed and are now honestly unsourced at status draft: ''harvesting'' (a horticultural/method detail
+  the review does not cover) and preparations/''Infusion'' (a preparation method, likewise). The dosage
+  entry was already unsourced and remains so - it never cited REF-0522. Likely origin of the phantom, worth
+  recording: REF-0523''s own abstract states that ''Monographs on Verbenae herba have been included in the
+  European Pharmacopoeia since 2008'' - a Ph. Eur. quality monograph, which carries identity and purity
+  standards but NO posology, and is not an EMA/HMPC monograph. REF-0522 now has an integrity_note in the
+  bibliography and 0 remaining citations across the database.'

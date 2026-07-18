@@ -88,9 +88,14 @@ preparations:
   status: draft
 dosage:
 - name: Infusion/syrup
-  text: Traditional herbal references suggest around 2-4 g of dried flower and leaf per cup, up to three
-    times daily; syrup dosed per product labelling. Educational reference only, not a prescription.
-  status: draft
+  text: A double-blind randomised placebo-controlled trial used 5 mL of Viola odorata syrup every 12 hours
+    for 4 weeks as add-on therapy for insomnia. Traditional references suggest around 2-4 g of dried flower
+    and leaf per cup, up to three times daily. Note the EU monograph on Violae herba cum flore covers
+    Viola tricolor, a different species, and its posology does not transfer here. Educational reference
+    only, not a prescription.
+  reference_ids:
+  - REF-1150
+  status: verified
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -272,8 +277,8 @@ dangerous_lookalikes:
 provenance: website+pubmed+symptom-tool
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs).
-  Note: distinct from the book''s Viola tricolor (heartsease). Originally a skeleton imported from the
+internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and RxList monographs). Note:
+  distinct from the book''s Viola tricolor (heartsease). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (cough, insomnia, sore-throat, headache); associations retained
   and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind RCT (n=182)
   showing Viola odorata flower syrup, as an adjuvant to a short-acting beta-agonist, accelerated cough
@@ -282,7 +287,12 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   publications: added 10 PubMed-verified @article sources (REF-1143, REF-1144, REF-1145, REF-1146, REF-1147,
   REF-1148, REF-1149, REF-1150, REF-1151, REF-1152) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer
-  action (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s
-  cited literature, as part of the cancer-condition campaign.'
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing
+  campaign, batch 8): dosage sourced to REF-1150, a double-blind randomised placebo-controlled trial that
+  administered 5 mL of Viola odorata syrup every 12 hours for 4 weeks. WRONG-SPECIES GUARD ADDED to the
+  entry text: the EU monograph Violae herba cum flore covers Viola TRICOLOR (heartsease, sourced separately
+  at REF-3074 in batch 3), not V. odorata, and its posology must not be transferred here - the synonym-aware
+  register match flagged exactly this near-miss.'

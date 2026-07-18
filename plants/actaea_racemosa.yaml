@@ -92,11 +92,14 @@ dosage:
     or ethanol extracts of the crude drug corresponding to 40 mg of drug, which matches the extract dose
     used in clinical studies. Educational reference only, not a prescription.
   reference_ids:
+  - REF-3100
   - REF-3098
   - REF-0415
   status: verified
 - name: Tincture (1:10)
   text: Traditional herbal references suggest around 1-2 mL of a 1:10 tincture, up to three times daily.
+    Neither the EU herbal monograph nor the WHO monograph gives a tincture posology - both specify
+    standardised extract preparations only - so this figure is traditional rather than regulatory.
     Educational reference only, not a prescription.
   status: draft
 actions:
@@ -267,4 +270,11 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric met
   Cimicifuga racemosa, the accepted synonym of Actaea racemosa, and its Definition confirms the same plant.
   The ''Tincture (1:10)'' entry is left UNSOURCED and draft: WHO gives no 1:10 tincture posology, only the
   extract-equivalent dose, so the ''1-2 mL of a 1:10 tincture'' figure was not backed with the extract
-  monograph.'
+  monograph. | 2026-07-18 (dosage-sourcing campaign, batch 8): the ''Standardised extract'' entry gains
+  REF-3100, the EU herbal monograph on Cimicifuga racemosa rhizoma Rev 1 (EMA/HMPC/48745/2017), found via
+  the synonym-aware register match. IMPORTANT UNIT CAVEAT, deliberately not resolved: EMA states 2.8-6.5 mg
+  of specific DRY EXTRACT preparations daily, while WHO (REF-3098) states extracts corresponding to 40 mg of
+  DRUG. Those are different bases - extract mass under a defined DER versus crude-drug equivalent - and are
+  not directly comparable, so both are cited and the entry text keeps the drug-equivalent framing. EMA also
+  caps use at 6 months without medical advice and restricts the indication to female adults. The ''Tincture
+  (1:10)'' entry remains unsourced: neither monograph gives a tincture posology, and the entry now says so.'

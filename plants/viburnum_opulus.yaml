@@ -79,9 +79,16 @@ preparations:
   text: Alcoholic extract of the dried bark, typically around 1:5.
   status: draft
 dosage:
+- name: Standardised extract
+  text: A prospective clinical study in patients with distal ureteral stones used Viburnum opulus (gilaburu)
+    extract at 1000 mg orally, compared against tamsulosin. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-1139
+  status: verified
 - name: Decoction/tincture
   text: Traditional herbal references suggest around 1-2 g of dried bark per cup, or 2-4 mL of a 1:5 tincture,
-    up to three times daily. Educational reference only, not a prescription.
+    up to three times daily. No EMA or WHO monograph covers Viburnum opulus, so these figures are traditional
+    rather than regulatory. Educational reference only, not a prescription.
   status: draft
 actions:
 - action: analgesic
@@ -217,4 +224,11 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   DIFFERENT species and its posology must not be transferred here. The hit is Cortex Viburni Prunifolii (WHO
   Vol 4) = Viburnum prunifolium (black haw). This record is Viburnum opulus (guelder rose / cramp bark). The
   two are closely related and are often conflated in herbal writing, which makes this an easy error to make
-  - but their monographs are not interchangeable. Dosage entry remains unsourced.'
+  - but their monographs are not interchangeable. Dosage entry remains unsourced. | 2026-07-18
+  (dosage-sourcing campaign, batch 8): a new ''Standardised extract'' entry is sourced to REF-1139, a
+  prospective clinical study in patients with distal ureteral stones that administered Viburnum opulus
+  (gilaburu) extract at 1000 mg orally against a tamsulosin comparator. The abstract''s frequency notation
+  is ambiguous, so only the 1000 mg per-administration figure is stated. The pre-existing
+  ''Decoction/tincture'' entry stays unsourced and draft, now noting that no EMA or WHO monograph covers V.
+  opulus - see the batch-7 note above recording that WHO''s Cortex Viburni Prunifolii is the DIFFERENT
+  species V. prunifolium.'

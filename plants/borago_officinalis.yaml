@@ -83,10 +83,14 @@ dosage:
     300 mg softgels daily. Educational reference only, not a prescription.
   status: draft
 - name: Whole-herb preparations
-  text: Because of pyrrolizidine alkaloid content, whole-herb (leaf/flower) preparations should only be
-    used short-term and from PA-controlled sources; avoid in pregnancy, breastfeeding and liver disease.
-    Educational reference only, not a prescription.
-  status: draft
+  text: A phase-two randomised placebo-controlled trial in moderate persistent asthma used Borago officinalis
+    extract at 5 mL three times daily for one month. Because of pyrrolizidine alkaloid content, whole-herb
+    (leaf/flower) preparations should only be used short-term and from PA-controlled sources; avoid in
+    pregnancy, breastfeeding and liver disease. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-1952
+  - REF-3070
+  status: verified
 constituents:
 - name: Gamma-linolenic acid (GLA) seed oil
   compounds:
@@ -321,17 +325,25 @@ dangerous_lookalikes:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0749, REF-0750, REF-0751.
-  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0749,
-  REF-1950, REF-1951, REF-1952, REF-1953, REF-1954, REF-1955, REF-1956, REF-1957, REF-1958, REF-1959)
-  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
-  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
-  indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
+  references bucket (least-cited enrichment): REF-0749, REF-0750, REF-0751. | 2026-06-20: enriched to >=10
+  scientific publications: added 11 PubMed-verified @article sources (REF-0749, REF-1950, REF-1951,
+  REF-1952, REF-1953, REF-1954, REF-1955, REF-1956, REF-1957, REF-1958, REF-1959) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the
+  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
+  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 8): the ''Whole-herb
+  preparations'' entry is sourced to REF-1952, a phase-two randomised placebo-controlled trial in moderate
+  persistent asthma that administered Borago officinalis extract at 5 mL three times daily for one month,
+  plus REF-3070 (the EMA pyrrolizidine-alkaloid public statement) for the PA-control caution - borage is one
+  of the four PA-containing genera that statement names. The ''Seed oil (standardised)'' entry is left
+  UNSOURCED: the one candidate on file (REF-1958) reports ''30 mg/day borage oil'', which is implausibly low
+  for a GLA preparation - GLA trials use gram quantities - and reads like an abstract transcription error,
+  so it was not used. TODO: source the seed-oil entry from a GLA trial that states the oil dose
+  unambiguously.'

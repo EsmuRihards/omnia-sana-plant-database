@@ -82,9 +82,19 @@ preparations:
   - REF-0606
   status: verified
 dosage:
+- name: Powdered herbal substance
+  text: The EU herbal monograph gives a single dose of 480-600 mg of the powdered herb and a daily dose
+    of 960-1500 mg, in adults and elderly; for sleep, one single dose with dinner and another 30-60 minutes
+    before bedtime. Not recommended under 18 years; consult a practitioner if symptoms persist beyond
+    2 weeks. Educational reference only, not a prescription.
+  reference_ids:
+  - REF-3099
+  status: verified
 - name: Infusion
   text: Traditional herbal references suggest around 2-4 g of dried herb per cup, taken in the evening
-    for sleep support or through the day for calming effect. Educational reference only, not a prescription.
+    for sleep support or through the day for calming effect. The EU herbal monograph covers the POWDERED
+    herbal substance only and gives no infusion posology, so this figure is traditional rather than regulatory.
+    Educational reference only, not a prescription.
   status: draft
 actions:
 - action: analgesic
@@ -195,13 +205,21 @@ last_updated: '2026-07-11'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor pharmacology study; CYP/P-gp/PXR
   herb-drug-interaction study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (insomnia, anxiety, nervous-tension, pain); associations retained and now part-mapped and
-  cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind, placebo-controlled RCT (n=264)
-  of a fixed Eschscholzia + Crataegus + magnesium combination that improved mild-to-moderate anxiety (REF-0606;
-  a combination product, not California poppy alone). | 2026-06-15: migrated to entity schema (actions->vocab
+  cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind, placebo-controlled RCT (n=264) of a
+  fixed Eschscholzia + Crataegus + magnesium combination that improved mild-to-moderate anxiety (REF-0606; a
+  combination product, not California poppy alone). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0806, REF-0807, REF-0808.
-  | 2026-06-20: enriched to >=10 scientific publications: added 6 PubMed-verified @article sources (REF-0807,
+  references to the plant-level references bucket (least-cited enrichment): REF-0806, REF-0807, REF-0808. |
+  2026-06-20: enriched to >=10 scientific publications: added 6 PubMed-verified @article sources (REF-0807,
   REF-0806, REF-2305, REF-0808, REF-2306, REF-2307) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy.'
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
+  (dosage-sourcing campaign, batch 8): SYNONYM-SEARCH FIND. My earlier EMA register cross-matches used
+  scientific_name only; re-running it against every binomial mentioned anywhere in a register row (which
+  includes synonyms and common names) surfaced Eschscholziae herba, an adopted EU monograph
+  (EMA/HMPC/680372/2013 = REF-3099, new). A new ''Powdered herbal substance'' entry carries its posology:
+  single dose 480-600 mg, daily 960-1500 mg, one dose with dinner and another 30-60 min before bedtime for
+  sleep. SCOPE: the monograph covers the POWDERED herbal substance only and gives no infusion posology, so
+  the pre-existing ''Infusion'' entry was kept, left unsourced and draft, and now states explicitly that its
+  figure is traditional rather than regulatory.'

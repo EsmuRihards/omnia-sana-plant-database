@@ -66,9 +66,14 @@ preparations:
   status: draft
 dosage:
 - name: Infusion
-  text: Traditional herbal references suggest around 1-3 g of dried leaf per cup, up to three times daily.
-    Educational reference only, not a prescription.
-  status: draft
+  text: Two clinical studies in healthy volunteers used an infusion prepared from 5 g of dried Laurus nobilis
+    leaves in 100 mL of boiled water, taken once daily for 10 days. Traditional references suggest a smaller
+    1-3 g per cup up to three times daily; no EMA or WHO monograph exists for bay leaf. Educational reference
+    only, not a prescription.
+  reference_ids:
+  - REF-1682
+  - REF-1683
+  status: verified
 constituents:
 - name: Essential oil (1,8-cineole, eugenol)
   compounds:
@@ -362,15 +367,21 @@ dangerous_lookalikes:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 10 PubMed-verified @article sources (REF-1678, REF-1679, REF-1680, REF-1681, REF-1682,
-  REF-1683, REF-1684, REF-1685, REF-1686, REF-1687) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
-  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13:
-  added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
-  from the plant''s cited literature, as part of the cancer-condition campaign.'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-1678, REF-1679, REF-1680, REF-1681, REF-1682, REF-1683, REF-1684,
+  REF-1685, REF-1686, REF-1687) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
+  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
+  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
+  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
+  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing
+  campaign, batch 8): dosage sourced to two clinical studies already in this plant''s own reference bucket
+  (REF-1682 anxiety/stress biomarkers, REF-1683 lipid profile), both of which administered an infusion
+  prepared from 5 g of dried Laurus nobilis leaves in 100 mL of boiled water once daily for 10 days in
+  healthy volunteers. That is a genuine administered dose for this species in the same preparation as the
+  entry. No EMA or WHO monograph exists for bay leaf. The traditional 1-3 g per cup figure was retained
+  alongside the trial dose rather than replaced, since the two describe different things.'

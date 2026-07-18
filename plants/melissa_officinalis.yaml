@@ -80,10 +80,14 @@ preparations:
   status: draft
 dosage:
 - name: Infusion (tea)
-  text: Traditional herbal guidance suggests roughly 1.5-4.5 g dried leaf per cup, as an infusion up to
-    three times daily. Educational reference only, not a prescription; Duke (2002) has no dedicated dosing
-    entry for lemon balm.
-  status: draft
+  text: The EU herbal monograph gives 1.5-4.5 g of the comminuted leaf in 150 mL of boiling water as an
+    infusion, 1-3 times daily, in adolescents over 12, adults and elderly; a liquid extract at 2-4 mL
+    and a tincture at 2-6 mL, both 1-3 times daily, are also listed. If symptoms persist longer than 2
+    weeks a healthcare practitioner should be consulted. Not recommended under 12 years. Educational reference
+    only, not a prescription.
+  reference_ids:
+  - REF-3078
+  status: verified
 - name: Standardised extract
   text: Clinical trials for anxiety and mood have used standardised dry-extract capsules; dosing varies
     by product concentration, so follow the manufacturer's guidance. Educational reference only, not a
@@ -306,13 +310,21 @@ lookalikes_review:
 provenance: book+pubmed
 status: verified
 last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
-  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
-  set of references cited for this plant is attached to each action rather than split per action. constituents
-  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
-  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
-  publications: added 10 PubMed-verified @article sources (REF-1193, REF-1194, REF-1195, REF-1196, REF-1197,
-  REF-1198, REF-1199, REF-1200, REF-1201, REF-1202) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
-  monograph-base fields, sourced from the existing ethnopharmacology/pharmacology reviews (REF-1196, REF-1198,
-  REF-1201).'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
+  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
+  for this plant is attached to each action rather than split per action. constituents not yet extracted —
+  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
+  PubMed-verified @article sources (REF-1193, REF-1194, REF-1195, REF-1196, REF-1197, REF-1198, REF-1199,
+  REF-1200, REF-1201, REF-1202) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added
+  botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents monograph-base
+  fields, sourced from the existing ethnopharmacology/pharmacology reviews (REF-1196, REF-1198, REF-1201). |
+  2026-07-18 (dosage-sourcing campaign, batch 3): the ''Infusion (tea)'' entry sourced to the EU herbal
+  monograph on Melissa officinalis L., folium (EMA/HMPC/196745/2012 = REF-3078, new). The existing 1.5-4.5 g
+  figure matched the monograph EXACTLY - one of the few entries needing no numeric correction; frequency
+  confirmed as 1-3 times daily, and the liquid extract, tincture, 2-week consult trigger and under-12
+  restriction added. Also removed a stray editorial aside from the public text (''Duke (2002) has no
+  dedicated dosing entry for lemon balm'') - that belongs here, not in reader-facing dosage copy, and it
+  remains true. The ''Standardised extract'' entry was already sourced (REF-1193/REF-1194) and is untouched.
+  status -> verified.'

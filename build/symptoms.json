@@ -19681,7 +19681,7 @@
     {
      "condition": "bronchitis",
      "label": "Bronchitis",
-     "evidence": 5,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -19693,31 +19693,7 @@
     {
      "condition": "cough",
      "label": "Cough",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0513",
-      "REF-0514",
-      "REF-0632"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0513",
-      "REF-0514",
-      "REF-0632"
-     ]
-    },
-    {
-     "condition": "respiratory-support",
-     "label": "Respiratory support",
-     "evidence": 5,
+     "evidence": 2,
      "status": "needs-review",
      "inferred": true,
      "references": [
@@ -19735,6 +19711,30 @@
      "references": [
       "REF-0514",
       "REF-2552"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0513",
+      "REF-0514",
+      "REF-0632"
+     ]
+    },
+    {
+     "condition": "respiratory-support",
+     "label": "Respiratory support",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0513",
+      "REF-0514",
+      "REF-0632"
      ]
     },
     {

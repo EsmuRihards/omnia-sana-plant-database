@@ -251,8 +251,11 @@ that drives both the source-card ordering and the 1–10 evidence scoring above:
 
 1. Pick the next free `REF-XXXX` id. To see the highest id in use:
    ```bash
-   grep -ho "REF-[0-9]\+" bibliography.bibtex | sort -u | tail -1
+   grep -ho "REF-[0-9]\+" bibliography.bibtex | sort -u -V | tail -1
    ```
+   The `-V` matters: a plain `sort` is lexicographic and is only correct while
+   every id has four digits. From `REF-10000` on it silently returns a lower id
+   than the true maximum, handing you an id that is already taken.
 2. Add a BibTeX entry. Choose a citation key of the form
    `lastnameYEARkeyword` (e.g. `clare2009dandelion`). Put the `REF-XXXX` id in
    the `note` field.

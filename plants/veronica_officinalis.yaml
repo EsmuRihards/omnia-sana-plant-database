@@ -26,6 +26,8 @@ constituents:
   note: Antioxidant constituents.
   reference_ids:
   - REF-0513
+  - REF-3121
+  - REF-3122
 botanical_description:
   text: Low, creeping, mat-forming perennial herb with softly hairy, oval, finely toothed leaves along
     trailing stems that root as they spread. Small, pale lilac-blue flowers with darker veining are borne
@@ -170,23 +172,23 @@ contraindications:
   severity: info
   reference_ids:
   - REF-0513
-  - REF-2553
+  - REF-1379
   status: verified
 references:
 - REF-1378
 - REF-1379
 - REF-1380
 - REF-2552
-- REF-2553
 - REF-2554
 - REF-2555
+- REF-3123
 lookalikes_review:
   outcome: none-known
   reviewed_by: Omnia Sana (owner-authorized)
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-19'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Frontiers in Pharmacology
   authentication/phytochemistry study; HerbaZest monograph). Speedwell is poorly covered by clinical trials,
   so most actions are needs-review. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
@@ -208,4 +210,39 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Fro
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-07-19 (citation batch, PubMed):
+  added 3 references, not the 5 requested - the PubMed seam for this species is genuinely thin, and a batch
+  target is a ceiling rather than a quota. ADDED: REF-3121 (Wojcik 1973, Flavonoids of the Veronica
+  officinalis L. herb, PMID 4762340) and REF-3122 (Salehi et al. 2019, Molecules genus review whose section
+  2.18 is specifically Veronica officinalis and lists its main phenolics) both wired to the
+  flavonoids/phenolic-acids constituent; REF-3123 (Bellia and Pieroni 2015, Waldensian ethnobotany, PMID
+  25948116) to the plant-level references bucket ONLY - it records V. officinalis being drunk as a
+  recreational tea in the Western Italian Alps and attributes no therapeutic indication to it, so wiring it
+  to the Infusion preparation or to traditional_uses would have overstated what it says. SEAM STATUS:
+  PubMed indexes only 21 records naming Veronica officinalis; all 21 were triaged this pass and 8 were
+  already in this bibliography. Treat the plain PubMed seam as exhausted for this species. REJECTED ON
+  SUBSTANCE (species right, no medicinal claim): seed germination / karrikinolide PMID 41495119, alpine
+  seedling ecology 38352204, climate demography 29851242, floodplain drought 29577528, turnip yellows virus
+  weed hosts 36423120, Greenland flora records 32327927, snapdragon floral-symmetry genetics 19291006.
+  REJECTED - multi-herb product: Gurgem-7 (PMID 35605329) is a seven-herb Mongolian formulation, so no
+  effect is attributable to this species. REJECTED - not a separate work: PMID 29282405 is the erratum to
+  REF-0513. REJECTED - WRONG SPECIES (the standing trap on this genus): V. saturejoides 33255775, V. polita
+  29448206, V. spicata 26028041, V. thymoides 25331745, V. anagallis-aquatica 16019176 and 15279985, V.
+  longifolia 20806928, V. anthelmintica 19070189, Pseudolysimachion rotundum var. subintegrum 25937253
+  (note that one is ALSO sold as Speedwell), Castilleja tenuiflora 24084016. PMID 31546651 matched only on
+  an author forename Veronica. REJECTED - TOOLING-BLOCKED, worth one manual retry from publisher PDFs: the
+  Croatian Nazlic / Dunkic / Vrca series (37765408, 41300468, 38929177, 36355550, 35406882, 34834892) and
+  the Xue 2019 genus review (31488038). PubMed and PMC strip italicised binomials out of MDPI abstracts and
+  full texts, so in those papers every per-species result reads as an unattributed fragment and the species
+  behind each number cannot be confirmed from the machine-readable copy. PMID 37765408 does carry V.
+  officinalis in its indexed title/abstract, so this species IS one of its six, but no individual result
+  can be attributed to it without the publisher PDF - rejected rather than guessed. INTEGRITY FIX in the
+  same pass: REF-0632 (Grundemann 2012) carried study_type rct although it is wholly in vitro (A549 lung
+  epithelial line plus primary mast cells, and the paper''s own conclusion asks for animal and then
+  clinical trials) - corrected to preclinical. That lowers the computed evidence base from 5 to 2 on the
+  five claims it backs (expectorant, bronchitis, cough, inflammation, respiratory-support), which is the
+  honest grade. FLAGGED, NOT FIXED: REF-1379 (crisan2007speedwell) and REF-2553 (crisan2007veronica) are
+  the same paper - Crisan et al. 2007, A comparative study of some Veronica species, PMID 17595882 -
+  entered twice under two ids. Both are cited only by this record, so the de-duplication is self-contained,
+  but choosing which id dies and removing a live bibliography entry is a separate decision with Knowledge
+  Finder consequences. Neither entry carries the PMID.'

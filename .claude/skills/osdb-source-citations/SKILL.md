@@ -26,6 +26,23 @@ For every candidate reference, in order. Stop at the first failure.
    material actually studied? Not the genus. Not a congener. Not "and related
    species". If the abstract says *Angelica sinensis* and your record is *Angelica
    archangelica*, it is not a source — it is a trap you nearly fell into.
+
+   This step has **three** outcomes, not two: confirmed, refuted, and
+   **undeterminable**. Treat undeterminable as a rejection, and log it separately
+   from a refutation so it can be revisited — the paper may be perfectly good.
+
+   > **The retrieved text may be mutilated.** PubMed/PMC strip *italicised*
+   > binomials out of some publishers' abstracts (MDPI especially). You get text
+   > like `six different species (,,ssp.,,, and)` or `EO showed the best apoptotic
+   > effect` — every per-species result silently unattributed. This is not a
+   > formatting nuisance; it removes exactly the evidence step 1 depends on. One
+   > cold-start batch lost 7 otherwise-plausible candidates to it.
+   >
+   > When names are stripped: a `"Binomial"[Title/Abstract]` phrase search can
+   > prove the species is *among* those studied, but that is **not** enough to
+   > attribute a specific finding to it. Either retrieve the publisher PDF and
+   > read it, or reject and record it as needing manual retrieval. Never infer
+   > which species a number belongs to from position or ordering.
 2. **Single herb?** If the intervention is a multi-herb product, the effect
    **cannot** be attributed to your plant. See the disqualifiers below.
 3. **Claim.** Does the paper state the specific thing you are citing it for — this
@@ -60,11 +77,34 @@ source a claim, and they surface constantly:
 
 Log every one of these in `internal_notes` — see *Dead ends are results*.
 
+### Genus-level reviews
+
+A review covering a whole genus is usable **only** where its attribution to your
+species is structurally unambiguous — a section heading such as
+`2.18. Veronica officinalis`, a species-specific table row — and then **only for
+the fact stated in that section**. Structure survives the italics-stripping
+described above; running prose often does not.
+
+If the species attribution rests on prose alone, treat it as undeterminable.
+
+Do **not** put a genus review in the `references[]` bucket as "general
+background". The bucket is for sources about *this species* that back no
+particular claim. A genus paper filed against one species is the
+extrapolation-from-a-related-species that `CLAUDE.md` invariant 2 forbids, and it
+reads to a later editor as though the species itself was reviewed.
+
 **Wrong-species is the dominant failure mode in this repo.** Genus-level searches
 on every engine return congeners constantly, and they look right. Documented
 near-misses that were caught in audit — check these patterns, they recur:
 *Angelica*, *Trifolium repens* vs *pratense*, *Viburnum opulus*, *Daucus carota*,
-*Oxycoccus*/*Vaccinium*, *Ononis natrix*/*vaginalis* vs *arvensis*.
+*Oxycoccus*/*Vaccinium*, *Ononis natrix*/*vaginalis* vs *arvensis*, and *Veronica*
+— a large genus where *V. anagallis-aquatica*, *V. spicata*, *V. polita*,
+*V. longifolia* and others all carry their own literature.
+
+**Watch the common name, not just the binomial.** *Pseudolysimachion rotundum*
+var. *subintegrum* is sold and published as "Speedwell", the English name of
+*Veronica officinalis* — a different genus entirely. A common-name match is never
+evidence of species identity.
 
 ## Assigning `study_type`
 
@@ -93,12 +133,38 @@ Do not upgrade a tier to lift a score. Ten in-vitro studies are still not clinic
 evidence, and the scoring rule is deliberately built so preclinical volume cannot
 raise a score. Working around that is falsifying the evidence grade.
 
+**Spot-check the `study_type` of every existing reference you touch**, not just
+the ones you add. Mislabels are already in the data and each one silently moves a
+live score. A cold-start batch found REF-0632 — an A549 cell-line and mast-cell
+study whose own conclusion asks for animal *then* clinical trials — labelled
+`rct`. That single wrong word inflated four published indications from 2 to 5.
+If a claim's cited papers don't feel like its score, check the tiers before
+assuming the scoring is wrong.
+
 ## Wiring the reference
 
-Claim-level, not plant-level. Put the reference on the specific `actions[]` /
-`indications[]` / `dosage[]` entry it supports. Blanket-pasting a bibliography
-across every claim gives each one the top score and destroys the signal the score
-exists to carry.
+Claim-level, not plant-level. Put the reference on the specific entry it supports.
+Blanket-pasting a bibliography across every claim gives each one the top score and
+destroys the signal the score exists to carry.
+
+**Every one of these carries `reference_ids`** — check the whole list before
+deciding a paper has no home:
+
+| Field | Takes |
+| --- | --- |
+| `actions[]` | a pharmacological mechanism |
+| `indications[]` | a condition the plant is used *for* (this is what gets scored) |
+| `constituents[]` | a compound / phytochemical finding |
+| `contraindications[]` | a safety signal, adverse event, interaction |
+| `preparations[]` | how a form is made |
+| `dosage[]` | an amount, for that species |
+| `botanical_description` `habitat` `harvesting` `traditional_uses` | monograph prose blocks |
+
+The monograph blocks are easy to forget because they are objects, not arrays, but
+they are sourced claims like any other. An ethnobotanical record of *how a plant
+was used* belongs in `traditional_uses` — provided the source really describes
+use of your species, and provided you do not upgrade "drunk as a tea" into a
+therapeutic indication.
 
 General background sources — identification, distribution, an overview that backs
 no particular claim — go in the top-level `references[]` bucket.
@@ -140,7 +206,17 @@ text against the citation whenever you touch a claim that names its source.
 
 ## Bibliography mechanics
 
-Next free id: `grep -ho "REF-[0-9]\+" bibliography.bibtex | sort -u | tail -1`.
+Next free id:
+
+```bash
+grep -ho "REF-[0-9]\+" bibliography.bibtex | sort -u -V | tail -1
+```
+
+**Use `-V` (or `sort -t- -k2 -n`).** A plain `sort -u` is lexicographic: it is
+correct only while every id is four digits, and will silently return the wrong
+answer from `REF-10000` onward — handing you an id that is already in use. The
+README carries the same command; fix it there too if it still lacks `-V`.
+
 Entries sort alphabetically by citation key; the id lives in `note = {REF-XXXX}`.
 Full format in `README.md`.
 
@@ -149,6 +225,16 @@ PubMed id. Both `pmid` and `url` are established fields here, and `build.py`'s
 `best_link()` resolves doi → url → title search, so an entry with no DOI should
 carry **both** `pmid = {…}` and `url = {https://pubmed.ncbi.nlm.nih.gov/…/}` or it
 will fall through to a Google Scholar guess on the public source card.
+
+Be aware this is a convention, **not an enforced rule** — `validate.py` does not
+check it, and older entries violate it. Apply it to what you add; don't assume
+what you find already complies.
+
+**If the retrievable abstract is mutilated, omit it.** The `abstract` field means
+the real published abstract, and a copy with every species name stripped out (see
+step 1) is not that — storing it publishes a corrupted quotation under the
+authors' names. Leave the field out and put a plain-language note in `summary`
+explaining why. An entry with no abstract is fine; the button simply hides.
 
 Gotchas that have bitten before:
 
@@ -220,8 +306,14 @@ Append to `internal_notes` — never `textwrap.fill` existing content.
 ## Finishing
 
 ```bash
-python scripts/validate.py     # every cited REF must resolve
-python scripts/build.py
+python scripts/validate.py     # every cited REF must resolve — hard gate
+python scripts/build.py        # regenerates build/*.json
 ```
+
+**`build.py` is not optional if you changed data.** `build/*.json` is what the
+website actually consumes, so skipping it leaves the build outputs stale relative
+to the bibliography and the site serving old numbers. If you are working under an
+instruction not to touch `build/`, say so explicitly in your handover — a silently
+stale `build/` looks identical to a finished job.
 
 Then `osdb-verify-integrity` if the batch was large, and `osdb-deploy` to publish.

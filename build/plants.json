@@ -64176,7 +64176,9 @@
      ],
      "note": "Antioxidant constituents.",
      "reference_ids": [
-      "REF-0513"
+      "REF-0513",
+      "REF-3121",
+      "REF-3122"
      ]
     }
    ],
@@ -64306,7 +64308,7 @@
       "REF-0632"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 2,
      "label": "Bronchitis"
     },
     {
@@ -64318,7 +64320,7 @@
       "REF-0632"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 2,
      "label": "Cough"
     },
     {
@@ -64341,7 +64343,7 @@
       "REF-0632"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 2,
      "label": "Inflammation (general)"
     },
     {
@@ -64353,7 +64355,7 @@
       "REF-0632"
      ],
      "status": "needs-review",
-     "evidence": 5,
+     "evidence": 2,
      "label": "Respiratory support"
     },
     {
@@ -64381,7 +64383,7 @@
      "severity": "info",
      "reference_ids": [
       "REF-0513",
-      "REF-2553"
+      "REF-1379"
      ],
      "status": "verified"
     }
@@ -64391,9 +64393,9 @@
     "REF-1379",
     "REF-1380",
     "REF-2552",
-    "REF-2553",
     "REF-2554",
-    "REF-2555"
+    "REF-2555",
+    "REF-3123"
    ],
    "lookalikes_review": {
     "outcome": "none-known",
@@ -64402,7 +64404,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-19",
    "common_slug": "speedwell"
   },
   {

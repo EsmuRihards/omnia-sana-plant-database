@@ -64,54 +64,70 @@ Use only `[a-z0-9_]`. Drop authorship abbreviations (e.g. `L.`, `Mill.`).
 
 ## The plant record schema
 
+`schema/plant.schema.json` is the authority; this is an orientation example.
+Required: `id`, `scientific_name`, `common_names`, `family`, `status`,
+`last_updated`.
+
 ```yaml
-common_names:
-  - Name 1
-  - Name 2
+id: taraxacum-officinale          # permanent slug; everything downstream keys off it
+scientific_name: Taraxacum officinale
+common_names: [Dandelion]
+family: Asteraceae
+external_ids: {gbif: 3117647, wikidata: Q13049}
+parts_used: [Leaf, Root]          # plain strings, NOT objects
 
-scientific_name: Genus species
+# Pharmacological mechanism. `action` is an id from vocabularies/actions.yaml.
+actions:
+  - action: diuretic
+    parts: [Leaf]                 # omit when the source did not specify
+    note: "Source's own phrasing, preserved verbatim"
+    reference_ids: [REF-0001]
+    status: verified
 
-family: Plant Family
-
-parts_used:
-  - name: "Leaf"
-    medicinal_actions:
-      - action: "Diuretic"
-        reference_ids: ["REF-0001", "REF-0002"]
-        status: "verified"
-      - action: "Anti-inflammatory"
-        reference_ids: ["REF-0003"]
-        status: "draft"
-  - name: "Root"
-    medicinal_actions:
-      - action: "Bitter tonic"
-        reference_ids: ["REF-0004"]
-        status: "verified"
+# What it is used FOR. `condition` is an id from vocabularies/conditions.yaml.
+# This is the array that gets the computed 1-10 evidence score.
+indications:
+  - condition: water-retention
+    reference_ids: [REF-0001, REF-0002]
+    status: verified
 
 constituents:
   - name: "Flavonoids"
-    note: "Including luteolin and apigenin"
-    reference_ids: ["REF-0005"]
+    compounds: [flavonoid]        # ids -> compounds/<id>.yaml
+    reference_ids: [REF-0005]
 
 contraindications:
   - note: "May interact with diuretic medications"
-    reference_ids: ["REF-0007"]
-    status: "verified"
+    severity: caution             # info | caution | warning | serious
+    reference_ids: [REF-0007]
+    status: verified
 
-internal_notes: "Any editorial notes or flags"
-last_updated: "2026-06-12"
-status: "verified"   # verified | draft | needs-review
+provenance: book+pubmed
+internal_notes: "Editorial history; never published. Append, never reflow."
+status: verified                  # verified | draft | needs-review
+last_updated: '2026-07-19'
 ```
+
+Actions and indications are **separate top-level arrays**, and both reference
+controlled vocabularies rather than free text. A single source sentence often
+yields both — "antispasmodic for menstrual cramps" becomes
+`actions: [antispasmodic]` plus `indications: [menstrual-cramps]`.
+
+Other fields the schema defines and live records use: `common_slug` (public URL
+override), `synonyms`, `wp_post_id`, `preparations[]`, `dosage[]`,
+`drug_class_interactions[]`, `pairings[]`, `dangerous_lookalikes[]`,
+`lookalikes_review`, `references[]` (plant-level bucket), and the monograph prose
+blocks `botanical_description` / `habitat` / `harvesting` / `traditional_uses`.
 
 ### Field notes
 
-- **`parts_used[].name`** — the plant part(s) the actions are attributed to.
-  When a source maps a specific action to a specific part (e.g. Dandelion leaf =
-  diuretic, root = bitter tonic), use one entry per part. When a source lists
-  parts and actions as **flat, unmapped lists** (as much of the book manuscript
-  does), the actions are grouped under a single `parts_used` entry whose name
-  joins the parts with `/` (e.g. `"Flower / Leaf / Root"`). This is an honest
-  signal that the part↔action split was not specified by the source.
+- **`parts_used`** — a flat list of canonical part names (`[Leaf, Root]`). The
+  part↔action mapping lives on each action's optional `parts` field, not here.
+  When a source maps an action to a specific part (Dandelion leaf = diuretic,
+  root = bitter tonic), set `parts` on that action. When the source lists parts
+  and actions as flat, unmapped lists — as much of the book manuscript does —
+  **omit `parts`**. An absent `parts` is the honest signal that the source did not
+  specify the split; do not invent one.
 - **`reference_ids`** — a list of `REF-XXXX` ids. Each must resolve to a BibTeX
   entry (see below).
 - **`status`** — per-claim status. The top-level `status` is the record-level
@@ -318,36 +334,35 @@ and the bibliography re-sorts alphabetically while preserving `REF-XXXX` ids.
 
 ## Syncing with GitHub
 
-> ⚠️ **Never `git push` this repo to `origin/main`, and never force-push.** This
-> local repo has a **separate, unrelated history** from the GitHub copy, and `main`
-> on the `EsmuRihards/OmniaSana` repo is the **live WordPress site export** —
-> pushing the database onto it would overwrite the website.
-
-The GitHub master copy of this database lives in the **`EsmuRihards/OmniaSana`**
-monorepo on the **`add-plant-database`** branch, inside a **`plant-database/`**
-subdirectory that mirrors this repo's root. **That branch — not `main`** — is what
-the website's Knowledge Finder pulls from. This local repo has **no `origin`
-remote**; it is a standalone history.
-
-Day-to-day:
+This database has its own dedicated repository, and publishing is a normal
+`git push`. Full procedure — including the WordPress sync and how to confirm a
+change is actually live — is in `.claude/skills/osdb-deploy/`.
 
 ```bash
-# 1. Work locally; ALWAYS validate before committing.
-python scripts/validate.py
-git add .
-git commit -m "Describe what changed"
-
-# 2. Deploy: port the new commit into the remote add-plant-database branch's
-#    plant-database/ subdir (fast-forward, non-destructive). Export the patch:
-git diff HEAD~1 HEAD > ../batch.patch
-#    then, in a checkout of EsmuRihards/OmniaSana on the add-plant-database branch:
-#      git apply --directory=plant-database /path/to/batch.patch
-#      git commit -am "plant-database: describe what changed"
-#      git push origin add-plant-database
+python scripts/validate.py     # exit 0 required
+python scripts/build.py        # commit the regenerated build/*.json too
+git commit -am "Describe what changed"
+git push osdb main
 ```
 
-CI runs `scripts/validate.py` on every push/PR (`.github/workflows/validate.yml`).
+**There are two remotes. Only one is correct.**
 
-> **Planned improvement:** move this database into its own dedicated repository so
-> syncing becomes a normal `git push` (no worktree-patch step). See the architecture
-> audit (`../plant-database-architecture-audit.md`) for the full migration plan.
+| Remote | Repo | Use |
+| --- | --- | --- |
+| **`osdb`** | `EsmuRihards/omnia-sana-plant-database` | **Canonical. Push here.** `main` tracks `osdb/main`, and the site pulls from it. |
+| `origin` | `EsmuRihards/OmniaSana` | The old website-export monorepo, unrelated history. **Never push DB work here.** |
+
+Because `origin` exists but is wrong, a bare `git push` can go somewhere the site
+never reads. Name the remote explicitly. Never force-push: this history is an
+audit trail for published health claims.
+
+CI: `validate.yml` runs the validator on every push/PR; `build-and-publish.yml`
+re-verifies names for new plants, rebuilds `build/*.json` and commits the result
+back. It always rebuilds — committing your own build outputs simply means there is
+nothing for it to change.
+
+> *Historical note:* until 2026-06-15 this database lived as a `plant-database/`
+> subdirectory on `origin`'s `add-plant-database` branch and was synced by
+> exporting patches and running `git apply --directory=plant-database`. **That
+> path is dead.** Any instruction mentioning `add-plant-database`, a worktree, or
+> a patch-apply step is describing the retired model.

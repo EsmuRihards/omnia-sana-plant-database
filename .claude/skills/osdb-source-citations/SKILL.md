@@ -109,9 +109,27 @@ evidence of species identity.
 ## Assigning `study_type`
 
 This is the one field the 1–10 evidence score depends on, so set it by hand.
-Strongest → weakest: `systematic-review`, `rct`, `clinical` (other human — cohort,
-open-label, case report), `preclinical` (in vitro / animal), `traditional` (books,
-monographs, websites, ethnobotany).
+
+`build.py` accepts **seven** values, which collapse onto five tiers:
+
+| `study_type` | tier | base |
+| --- | --- | --- |
+| `systematic-review`, `meta-analysis`, **`review`** | review | **7** |
+| `rct` | rct | 5 |
+| `clinical` (other human — cohort, open-label, case report) | clinical | 3 |
+| `preclinical` (in vitro / animal) | preclinical | 2 |
+| `traditional` (books, monographs, websites, ethnobotany) | traditional | 1 |
+
+**Prefer the four unambiguous values.** Bare **`review` scores 7 — identical to a
+systematic review** — which is exactly the inflation the next section warns
+against, and 22 live entries currently carry it. If you meet one, check whether it
+is genuinely systematic; a narrative review belongs at `preclinical`.
+`meta-analysis` (89 entries) is legitimately tier-review.
+
+**Nothing validates this field.** `validate.py` never reads bibliography fields
+other than `note`. A typo (`systematic review` without the hyphen, `meta_analysis`)
+is not an error — it falls through to `classify_tier`'s keyword heuristic and
+usually lands on `preclinical`, silently *downgrading* the claim.
 
 build.py falls back to a keyword heuristic when the field is missing, so the build
 never breaks — but the heuristic is wrong often enough that an unset value is a
@@ -214,8 +232,11 @@ grep -ho "REF-[0-9]\+" bibliography.bibtex | sort -u -V | tail -1
 
 **Use `-V` (or `sort -t- -k2 -n`).** A plain `sort -u` is lexicographic: it is
 correct only while every id is four digits, and will silently return the wrong
-answer from `REF-10000` onward — handing you an id that is already in use. The
-README carries the same command; fix it there too if it still lacks `-V`.
+answer from `REF-10000` onward — handing you an id that is already in use.
+
+Run this and the other snippets in these docs under the **Bash** tool. They are
+bash/GNU syntax (`sort -V`, `grep -o`) and will not parse in PowerShell, which is
+this environment's default shell.
 
 Entries sort alphabetically by citation key; the id lives in `note = {REF-XXXX}`.
 Full format in `README.md`.

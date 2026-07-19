@@ -65,9 +65,21 @@ weak). Record-level `status` is governed by the lowest-confidence claim.
 
 Safety-bearing arrays (`drug_class_interactions`, `pairings`,
 `dangerous_lookalikes`) use a **separate** enum — `draft` | `approved` — and the
-public tools serve `approved` only. `approved` additionally requires `reviewed_by`
-and a `YYYY-MM-DD` `reviewed_date`. That gate is a medical sign-off, not a
+public tools serve `approved` only. That gate is a medical sign-off, not a
 formality; do not set it to clear a validation error.
+
+`approved` is supposed to carry `reviewed_by` and a `YYYY-MM-DD` `reviewed_date`,
+but **`validate.py` only enforces that for `dangerous_lookalikes`** (line 152). An
+approved herb–drug interaction or herb–herb pairing with no reviewer and no date
+passes validation and ships straight into the public `interactions.v1.json` feed.
+On those two arrays the sign-off is a convention you have to keep yourself.
+
+**`draft` on a claim does not keep it off the site.** The only status-based
+filtering in the whole build is `approved_only()` on the three safety arrays.
+Every `indications[]` entry is scored and emitted into `plants.json` and
+`symptoms.json` regardless of its `status`, and per-claim `status` values are not
+validated at all — only the record-level one is. If something must not be
+published, leave it out or leave it unwired; do not rely on `draft`.
 
 ### Vocabulary-bound fields
 
@@ -96,8 +108,14 @@ empty field with no explanation.
 
 Any new field must pass all five before it is committed:
 
-1. **`schema/*.json` entry** with a real `description`. `additionalProperties` is
-   `false` — an undeclared field is a hard validation failure, by design.
+1. **`schema/*.json` entry** with a real `description`. The schema sets
+   `additionalProperties: false`, so it *describes* an undeclared field as
+   invalid — but **nothing enforces that.** `scripts/validate.py` imports only
+   `os, re, sys, glob, yaml`; it never opens `schema/`, and no CI step runs a
+   JSON-Schema validator. A misspelled field name, a wrong type, or a claim
+   missing its schema-"required" `reference_ids` passes `validate.py` cleanly and
+   ships. Treat the schema as documentation you must obey by hand, and put any
+   constraint you actually care about into step 2.
 2. **`scripts/validate.py` rule** if the field has any constraint beyond its type
    (enum, id-resolves-to-vocabulary, range, cross-record reference).
 3. **`scripts/build.py` handling** — decide which `build/*.json` it flows into, or

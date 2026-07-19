@@ -88,9 +88,10 @@ there is a fabricated quotation attributed to the authors.
 ## Evidence-score sanity
 
 Scores are computed from each indication's own `reference_ids`. The computed value
-is emitted into `build/plants.json` as **`evidence`** — not `evidence_score`,
-which is the *input* override field in the YAML. Reading for the wrong key returns
-`None` and looks exactly like a broken build; it isn't.
+is emitted into `build/plants.json` as **`evidence`**. The hand-set input field in
+the YAML is **`evidence_override`**. There is no field called `evidence_score`
+anywhere — reading for that name returns `None` and looks exactly like a broken
+build; it isn't.
 
 Two symptoms of a genuinely broken record:
 

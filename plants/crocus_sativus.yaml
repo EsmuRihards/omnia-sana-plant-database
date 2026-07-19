@@ -10,7 +10,7 @@ external_ids:
   powo: 'urn:lsid:ipni.org:names:436688-1'
   wikidata: Q15041677
 parts_used:
-- Flower
+- Stigma
 botanical_description:
   text: Small, cormous perennial with narrow, grass-like, dark green leaves emerging with or just after
     the flowers. Each flower is a delicate lilac-purple, six-petalled bloom with three golden-yellow anthers
@@ -328,4 +328,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
   indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign.'
+  cancer-condition campaign. | 2026-07-20: parts_used corrected from ''Flower'' to ''Stigma''. The saffron
+  drug is the dried stigma, not the flower; the petals/tepals are a by-product. Three independent reviews
+  state this explicitly in their abstracts: Marrone et al. 2024 Nutrients 16(14):2319 doi:10.3390/nu16142319
+  ("derived exclusively from dried stigmas"); Bukhari et al. 2018 Biomed Pharmacother 98:733-745
+  doi:10.1016/j.biopha.2017.12.090 ("saffron of commercial importance comprises of dried stigmas");
+  Xing et al. 2021 J Ethnopharmacol 281:114555 doi:10.1016/j.jep.2021.114555 ("the dried red stigma of the
+  perennial herb Crocus sativus L."). Not wired as reference_ids because parts_used carries no reference_ids
+  field in plant.schema.json — recorded here instead so the correction is auditable. Adding these as
+  bibliography entries with nothing to cite them from would create orphans, which osdb-verify-integrity
+  would then instruct a later session to delete.'

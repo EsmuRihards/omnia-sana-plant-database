@@ -73,6 +73,14 @@ drift so the skill gets fixed.
   Notes discuss removed refs; scanning them would resurrect ghosts.
 - Never `textwrap.fill` an existing `internal_notes` — it reflows history into an
   unreadable diff.
-- Evidence scores are computed, never hand-set. Pinning a plant's whole
+- Evidence scores are computed, not hand-set. Pinning a plant's whole
   bibliography to every indication gives every indication the maximum score and
   makes the number meaningless. Wire references claim-by-claim.
+  An `evidence_override: N` field does exist and the build honours it verbatim,
+  but **0 of 187 records use one** — that is the de-facto policy. Fix the
+  references before reaching for an override, and if you genuinely need one, write
+  the justification into `internal_notes` in the same edit.
+- `validate.py` is the only real gate, and it is narrower than it looks. It does
+  **not** check the JSON schema, `study_type`, or per-claim `status`. A green run
+  means references and vocabulary ids resolve and records are well-formed — not
+  that the data is correct.

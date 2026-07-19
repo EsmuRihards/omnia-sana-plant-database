@@ -8,7 +8,7 @@ external_ids:
   gbif: 5248508
   wikidata: Q19737
 parts_used:
-- Fruit
+- Fruiting body
 - Mycelium
 constituents:
 - name: Erinacines and hericenones
@@ -261,4 +261,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   REF-2419, a 49-week double-blind randomised trial in mild Alzheimer''s disease that administered three
   erinacine A-enriched H. erinaceus mycelia capsules per day at 350 mg per capsule (1050 mg/day). The
   entry''s existing ''1-3 g of dried fruiting body extract daily'' was kept as the broader clinical range
-  but the trial''s exact administered dose now leads. No EMA or WHO monograph covers Hericium.'
+  but the trial''s exact administered dose now leads. No EMA or WHO monograph covers Hericium. | 2026-07-20:
+  parts_used ''Fruit'' renamed to ''Fruiting body''. Terminology correction, not a new claim — a fungus has
+  no fruit, and this record''s own preparations[] already reads "Fresh/dried fruiting body (culinary)" and
+  its dosage entry already says "dried fruiting body extract". The old string also collided with the
+  botanical ''Fruit'' bucket shared by hawthorn, rosehip and other berries (17 plants), which would silently
+  join a mushroom to berry-extraction records in any part-keyed join. No source is cited because no new
+  factual assertion is made; this aligns the field with what the record already states elsewhere.'

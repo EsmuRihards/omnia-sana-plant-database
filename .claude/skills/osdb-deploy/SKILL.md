@@ -83,6 +83,33 @@ Do not report success from a green sync call. Check the public surface:
 If the site still shows old data after a successful sync, purge the page cache
 (`\SpeedyCache\Delete::all_cache()`).
 
+### Check what the page *says*, not just what it has
+
+Correct data can still be reported incorrectly. Confirm that a value you know
+renders as the label you expect — not merely that the number arrived.
+
+This is not theoretical. The 1–10 evidence scale was migrated in `build.py` and in
+page 201, but two SSR files written afterwards copied the old pre-migration idiom
+(a 5-element label array plus `max(0, min(5, $ev))`). The database was perfect and
+**918 of 1,696 live claims — 54% — displayed an inflated evidence label**, a single
+RCT rendering as "Strong 5/5", for about four weeks. Every sync in that period
+reported success.
+
+So when a change touches anything scored or graded, spot-check the extremes on the
+public page: a weak claim must not read strong, and a strong one must not read
+weak. If a scale or enum ever changes, grep the front end for the **old** pattern —
+new consumers get written after the migration and inherit the old idiom by
+copy-paste.
+
+Beware caches keyed on data rather than code: the symptom source pages cache as
+`os_src_b_<md5(stamp|cond|plant)>`, so a pure code fix stays invisible until those
+transients are deleted.
+
+**Sandbox PHP is not in any git repo.** Everything under
+`wp-content/novamira-sandbox/` lives only on the server. A fix there is not
+version-controlled and a restore will silently revert it — note such changes
+somewhere durable.
+
 ## Front-end caveats when a data change needs a JS change
 
 - **Knowledge Finder JS is manually versioned** `?v=kfN` in page 208. Editing the

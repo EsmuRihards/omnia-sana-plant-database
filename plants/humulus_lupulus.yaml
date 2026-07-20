@@ -8,7 +8,7 @@ common_names:
 family: Cannabaceae
 external_ids:
   gbif: 2984535
-  powo: 'urn:lsid:ipni.org:names:303502-2'
+  powo: urn:lsid:ipni.org:names:303502-2
   wikidata: Q104212
 parts_used:
 - Flower
@@ -50,12 +50,17 @@ traditional_uses:
   status: verified
 preparations:
 - name: Infusion
-  text: Dried flower cones infused in hot water as a traditional calming, sleep-supporting tea, often
-    combined with valerian.
-  status: draft
+  text: Dried flower cones infused in hot water as a herbal tea, 500-1000 mg in 150-200 ml, taken 30-60
+    minutes before bedtime per the EU herbal monograph. Educational reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3077
 - name: Tincture
-  text: Alcoholic extract of the dried cones.
-  status: draft
+  text: Tincture (1:5) of the dried cones, 1-2 ml up to three times daily per the EU herbal monograph.
+    Educational reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3077
 - name: Standardised extract
   text: Concentrated extract standardised to xanthohumol/humulone content, studied for sleep-enhancing
     activity via GABA-A receptor modulation.
@@ -64,8 +69,8 @@ preparations:
   status: verified
 dosage:
 - name: Infusion
-  text: The EU herbal monograph distinguishes two uses, in adolescents, adults and elderly. To aid sleep -
-    500-1000 mg of the comminuted flower in 150-200 mL of boiling water as an infusion, 30-60 minutes
+  text: The EU herbal monograph distinguishes two uses, in adolescents, adults and elderly. To aid sleep
+    - 500-1000 mg of the comminuted flower in 150-200 mL of boiling water as an infusion, 30-60 minutes
     before bedtime. In mental stress - 500 mg in 150-200 mL as an infusion, up to 4 times daily. A 1:5
     tincture at 1-2 mL up to 3 times daily is also listed. Educational reference only, not a prescription.
   reference_ids:
@@ -266,20 +271,23 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
-  references bucket (least-cited enrichment): REF-0839, REF-0840, REF-0841. | 2026-06-20: enriched to >=10
-  scientific publications: added 8 PubMed-verified @article sources (REF-1726, REF-1727, REF-1728, REF-1729,
-  REF-1730, REF-1731, REF-1732, REF-1733) — woven into relevant actions/indications and the plant-level
-  references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
-  (dosage-sourcing campaign, batch 3): dosage sourced to the EU herbal monograph on Humulus lupulus L.,
-  flos, Revision 1 (EMA/HMPC/682384/2013 = REF-3077, new). The existing ''0.5 g per cup, taken before bed''
-  conflated the monograph''s two distinct posologies; now split as the monograph does - to aid sleep
-  500-1000 mg 30-60 minutes before bedtime, in mental stress 500 mg up to 4 times daily - with the 1:5
-  tincture added. status -> verified.'
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0839, REF-0840, REF-0841.
+  | 2026-06-20: enriched to >=10 scientific publications: added 8 PubMed-verified @article sources (REF-1726,
+  REF-1727, REF-1728, REF-1729, REF-1730, REF-1731, REF-1732, REF-1733) — woven into relevant actions/indications
+  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.
+  | 2026-07-18 (dosage-sourcing campaign, batch 3): dosage sourced to the EU herbal monograph on Humulus
+  lupulus L., flos, Revision 1 (EMA/HMPC/682384/2013 = REF-3077, new). The existing ''0.5 g per cup, taken
+  before bed'' conflated the monograph''s two distinct posologies; now split as the monograph does - to
+  aid sleep 500-1000 mg 30-60 minutes before bedtime, in mental stress 500 mg up to 4 times daily - with
+  the 1:5 tincture added. status -> verified. Preparations sourced 2026-07-20 to monographs already on
+  this record. Each supporting quote was checked to appear verbatim in the stored monograph posology,
+  the reference confirmed present on the plant, and the dose form / plant part / route checked for mismatch;
+  text rewritten to the source rather than having a reference stapled on.'

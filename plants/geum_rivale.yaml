@@ -9,7 +9,7 @@ common_slug: water-avens
 family: Rosaceae
 external_ids:
   gbif: 5369701
-  powo: 'urn:lsid:ipni.org:names:725355-1'
+  powo: urn:lsid:ipni.org:names:725355-1
   wikidata: Q161625
 synonyms:
 - Geum rivale var. rivale
@@ -284,7 +284,7 @@ contraindications:
 - note: Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses during pregnancy
     and lactation.
   severity: caution
-  status: verified
+  status: needs-review
 - note: In-vivo toxicity testing of avens (Geum) extract showed a favourable profile at the doses studied,
     but high-dose or long-term safety is not established.
   severity: info
@@ -356,24 +356,29 @@ lookalikes_review:
   - REF-2769
 provenance: pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum rivale (its species-specific literature is
-  thin - phytochem-heavy) + 8 clearly-labelled Geum urbanum (wood avens) congener refs supplying the
-  antimicrobial/anticancer/antiviral/antidiabetic pharmacology. >=15 total met via genuine + labelled
+last_updated: '2026-07-20'
+internal_notes: 'Created 2026-07-10. 17 refs REF-2761..REF-2777: 9 genuine Geum rivale (its species-specific
+  literature is thin - phytochem-heavy) + 8 clearly-labelled Geum urbanum (wood avens) congener refs supplying
+  the antimicrobial/anticancer/antiviral/antidiabetic pharmacology. >=15 total met via genuine + labelled
   congener (genuine-only <15: G. rivale is a congener-dependent species, acceptable per the integrity
   policy). Research-workflow leads (wf_25f58939-508) self-verified because the adversarial-verify stage
   failed on the session limit; exact titles pulled from PubMed metadata. Signature: eugenol clove-scented
-  ''chocolate root''. Cross-links: potentilla-erecta + agrimonia-eupatoria (Rosaceae astringents),
-  filipendula-ulmaria (shared ellagitannins). lookalikes none-known (distinctive nodding purple-pink bell
-  flowers). | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
-  2026-07-19 (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the
-  dosage-sourcing campaign. The remaining unsourced dosage entry/entries on this record were searched
-  against every seam this campaign opened and none yields a dose for this species in this preparation. Seams
-  checked: (1) the official EMA herbal medicines register (medicines-output-herbal_medicines-report, 251
-  rows, retrieved 2026-07-18), matched on the accepted binomial AND on every synonym and common name
-  appearing in a register row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by Latin
-  drug title with each monograph''s Definition read to confirm the species - 177 monographs indexed; (3)
-  this plant''s own reference bucket, mined for human studies that state an administered dose. Per the
-  campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
-  tangentially-related paper.'
+  ''chocolate root''. Cross-links: potentilla-erecta + agrimonia-eupatoria (Rosaceae astringents), filipendula-ulmaria
+  (shared ellagitannins). lookalikes none-known (distinctive nodding purple-pink bell flowers). | 2026-07-13:
+  added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
+  from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-19 (dosage-sourcing
+  campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The remaining
+  unsourced dosage entry/entries on this record were searched against every seam this campaign opened
+  and none yields a dose for this species in this preparation. Seams checked: (1) the official EMA herbal
+  medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched
+  on the accepted binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs
+  on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition
+  read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined
+  for human studies that state an administered dose. Per the campaign''s integrity bar the entry is left
+  unsourced at status draft rather than attached to a tangentially-related paper. INTEGRITY FIX 2026-07-20:
+  a contraindication carried status ''verified'' with no reference_ids. The caution itself is an honest
+  statement about the ABSENCE of safety data and is retained unchanged - dropping a safety warning would
+  be the more harmful error - but ''verified'' asserts a source was checked against, and none exists.
+  Demoted to ''needs-review'', which is what the data actually merits. Sourcing an absence is possible
+  (cf. the euphrasia precedent, where an EMA public statement was cited as the authority for there being
+  no established posology) and is the proper fix if a seam opens.'

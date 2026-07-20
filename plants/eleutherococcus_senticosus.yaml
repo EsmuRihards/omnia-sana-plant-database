@@ -80,8 +80,12 @@ preparations:
   - REF-0509
   status: verified
 - name: Decoction
-  text: Dried root and rhizome simmered in water as a traditional tonic decoction.
-  status: draft
+  text: Comminuted dried root and rhizome as a herbal tea, 0.5-4 g in 150 ml boiling water as the daily
+    dose, divided into one to three doses per the EU herbal monograph. Note the monograph describes an
+    infusion in boiling water rather than a simmered decoction. Educational reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3089
 - name: Tincture
   text: Alcoholic extract of the dried root and rhizome.
   status: draft
@@ -248,25 +252,31 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursing Practice review; Nutrients adaptogens
-  review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (fatigue,
-  stress, cognitive-function, immune-support); associations retained and now part-mapped and cited. Further
-  enriched 2026-06-14 with a PubMed-sourced comprehensive review of E. senticosus phytochemistry and
-  pharmacology (REF-0587) supporting the adaptogenic and immunomodulatory actions and adding preclinical
-  neuroprotective/antidiabetic activity (needs-review). | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
-  PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0800,
-  REF-0801, REF-0802. | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified
-  @article sources (REF-0587, REF-2290, REF-0800, REF-2291, REF-2292, REF-2293, REF-0801, REF-2294,
-  REF-2295, REF-2296) — woven into relevant actions/indications and the plant-level references bucket. |
-  2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
-  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 5): dosage
-  sourced to the EU herbal monograph on Eleutherococcus senticosus radix (EMA/HMPC/680618/2013 = REF-3089,
-  new). CORRECTION OF UNITS, not just numbers: the entry cited ''300-1200 mg of standardised root extract
-  daily'' without saying what the extract corresponded to. The monograph expresses everything as DAILY doses
-  tied to dried-root equivalents - tea 0.5-4 g divided into 1-3 doses, powdered substance 0.75-3 g, liquid
-  extract (DER 1:1) 2-3 mL, with dry extracts specified as doses corresponding to those root quantities.
-  Rewritten on that basis. The existing practical cautions (course rather than continuous use, avoid late in
-  the day) were kept.'
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursing Practice review; Nutrients
+  adaptogens review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
+  (fatigue, stress, cognitive-function, immune-support); associations retained and now part-mapped and
+  cited. Further enriched 2026-06-14 with a PubMed-sourced comprehensive review of E. senticosus phytochemistry
+  and pharmacology (REF-0587) supporting the adaptogenic and immunomodulatory actions and adding preclinical
+  neuroprotective/antidiabetic activity (needs-review). | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0800, REF-0801, REF-0802.
+  | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0587,
+  REF-2290, REF-0800, REF-2291, REF-2292, REF-2293, REF-0801, REF-2294, REF-2295, REF-2296) — woven into
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced
+  from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 5): dosage sourced to the EU herbal monograph
+  on Eleutherococcus senticosus radix (EMA/HMPC/680618/2013 = REF-3089, new). CORRECTION OF UNITS, not
+  just numbers: the entry cited ''300-1200 mg of standardised root extract daily'' without saying what
+  the extract corresponded to. The monograph expresses everything as DAILY doses tied to dried-root equivalents
+  - tea 0.5-4 g divided into 1-3 doses, powdered substance 0.75-3 g, liquid extract (DER 1:1) 2-3 mL,
+  with dry extracts specified as doses corresponding to those root quantities. Rewritten on that basis.
+  The existing practical cautions (course rather than continuous use, avoid late in the day) were kept.
+  Preparations sourced 2026-07-20 to monographs already on this record. Each supporting quote was checked
+  to appear verbatim in the stored monograph posology, the reference confirmed present on the plant, and
+  the dose form / plant part / route checked for mismatch; text rewritten to the source rather than having
+  a reference stapled on. DEAD END (preparations, 2026-07-20): ''Tincture'' - the EU herbal monograph
+  for this species gives a LIQUID EXTRACT (DER 1:1, ethanol 30-40% v/v), 2-3 ml, not a tincture. A 1:1
+  liquid extract is a different dose form from a tincture and its ref must not be transferred to this
+  entry. Left unsourced deliberately.'

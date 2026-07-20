@@ -60,8 +60,11 @@ preparations:
   - REF-0860
   status: verified
 - name: Tincture
-  text: Alcoholic extract of the dried flowering herb, typically around 1:5.
-  status: draft
+  text: Tincture 1:5 in ethanol 45% V/V of the dried flowering herb; single dose 2-6 ml, three times per
+    day per the EU herbal monograph. Educational reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3069
 dosage:
 - name: Infusion
   text: The EU herbal monograph gives a single dose of 1.5-4.5 g of the comminuted herb for tea preparation,
@@ -237,20 +240,23 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
-  PubMed-verified @article sources (REF-0860, REF-0861, REF-0862, REF-0863, REF-0864, REF-0865, REF-0866,
-  REF-0867, REF-0868, REF-0869) — woven into relevant actions/indications and the plant-level references
-  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
-  (dosage-sourcing campaign, batch 2): dosage sourced to the EU herbal monograph on Leonurus cardiaca L.,
-  herba (EMA/HMPC/127428/2010 = REF-3069, new), with REF-0860 (Fierascu 2019, a review updating the EMA
-  assessment report) kept as a secondary citation. The existing ''2-4 g per cup up to three times daily''
-  sat inside the monograph range; rewritten to the monograph''s single dose 1.5-4.5 g / daily dose 3-10 g,
-  plus the 1:5 45% V/V tincture at 2-6 mL 3x daily, the 4-week duration limit and the under-18 restriction.
-  status -> verified.'
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-0860, REF-0861, REF-0862, REF-0863, REF-0864,
+  REF-0865, REF-0866, REF-0867, REF-0868, REF-0869) — woven into relevant actions/indications and the
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
+  (dosage-sourcing campaign, batch 2): dosage sourced to the EU herbal monograph on Leonurus cardiaca
+  L., herba (EMA/HMPC/127428/2010 = REF-3069, new), with REF-0860 (Fierascu 2019, a review updating the
+  EMA assessment report) kept as a secondary citation. The existing ''2-4 g per cup up to three times
+  daily'' sat inside the monograph range; rewritten to the monograph''s single dose 1.5-4.5 g / daily
+  dose 3-10 g, plus the 1:5 45% V/V tincture at 2-6 mL 3x daily, the 4-week duration limit and the under-18
+  restriction. status -> verified. Preparations sourced 2026-07-20 to monographs already on this record.
+  Each supporting quote was checked to appear verbatim in the stored monograph posology, the reference
+  confirmed present on the plant, and the dose form / plant part / route checked for mismatch; text rewritten
+  to the source rather than having a reference stapled on.'

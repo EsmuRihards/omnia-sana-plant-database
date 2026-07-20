@@ -70,8 +70,12 @@ preparations:
   - REF-0101
   status: draft
 - name: Decoction/infusion
-  text: Bark simmered or infused in hot water as a warming digestive tea.
-  status: draft
+  text: Comminuted bark infused in hot water as a herbal tea, 0.5-1 g up to four times daily per the EU
+    herbal monograph. The monograph describes an infusion; it does not cover a simmered decoction. Educational
+    reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3091
 - name: Culinary use
   text: Ground bark or whole quills used as a food spice, the traditional and most common form of use.
   status: draft
@@ -311,4 +315,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   on this record, judged from their stored posology summaries and not from the full monograph PDFs - a
   later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve
   these. ''Culinary use'': A medicinal-posology monograph for cinnamon bark does not state that ground
-  bark or quills are used as a food spice.'
+  bark or quills are used as a food spice. Preparations sourced 2026-07-20 to monographs already on this
+  record. Each supporting quote was checked to appear verbatim in the stored monograph posology, the reference
+  confirmed present on the plant, and the dose form / plant part / route checked for mismatch; text rewritten
+  to the source rather than having a reference stapled on.'

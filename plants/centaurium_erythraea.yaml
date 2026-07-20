@@ -82,8 +82,11 @@ preparations:
   - REF-0431
   status: verified
 - name: Tincture
-  text: Alcoholic extract of the dried herb.
-  status: draft
+  text: Tincture of the dried herb; the EU herbal monograph gives 1.5-5 g up to three times daily. Educational
+    reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3067
 dosage:
 - name: Infusion
   text: The EU herbal monograph gives 1-4 g of the comminuted herb in 200 mL of boiling water as an infusion,
@@ -241,12 +244,12 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report; Herbal Reality
-  monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
-  (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited. Further
-  enriched 2026-06-14 with a PubMed-sourced comprehensive review of Centaurium erythraea phytochemistry and
-  pharmacology (REF-0619; documents gastroprotective, hepatoprotective, antioxidant and anti-inflammatory
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report;
+  Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
+  tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited. Further
+  enriched 2026-06-14 with a PubMed-sourced comprehensive review of Centaurium erythraea phytochemistry
+  and pharmacology (REF-0619; documents gastroprotective, hepatoprotective, antioxidant and anti-inflammatory
   activity of the secoiridoid-rich herb). | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references
   to the plant-level references bucket (least-cited enrichment): REF-0767, REF-0768, REF-0769. | 2026-06-20:
@@ -255,10 +258,14 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA
   actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
-  policy. | 2026-07-18 (dosage-sourcing campaign, batch 2): dosage sourced to the EU herbal monograph on
-  Centaurium erythraea Rafn s.l., herba (EMA/HMPC/277493/2015 = REF-3067, new), with the existing EMA
-  assessment report (REF-0431) kept as a secondary citation. REF-0431 was NOT cited alone because it is the
-  assessment report, not the monograph, and the posology verified here was read from the monograph PDF.
-  CORRECTION: the entry claimed ''1-2 g per cup, before meals, up to three times daily''; the monograph
-  gives 1-4 g in 200 mL up to 4 times daily, adults and elderly only, and does not put ''before meals'' in
-  the posology. Peptic-ulcer contraindication and the under-18 restriction added. status -> verified.'
+  policy. | 2026-07-18 (dosage-sourcing campaign, batch 2): dosage sourced to the EU herbal monograph
+  on Centaurium erythraea Rafn s.l., herba (EMA/HMPC/277493/2015 = REF-3067, new), with the existing EMA
+  assessment report (REF-0431) kept as a secondary citation. REF-0431 was NOT cited alone because it is
+  the assessment report, not the monograph, and the posology verified here was read from the monograph
+  PDF. CORRECTION: the entry claimed ''1-2 g per cup, before meals, up to three times daily''; the monograph
+  gives 1-4 g in 200 mL up to 4 times daily, adults and elderly only, and does not put ''before meals''
+  in the posology. Peptic-ulcer contraindication and the under-18 restriction added. status -> verified.
+  Preparations sourced 2026-07-20 to monographs already on this record. Each supporting quote was checked
+  to appear verbatim in the stored monograph posology, the reference confirmed present on the plant, and
+  the dose form / plant part / route checked for mismatch; text rewritten to the source rather than having
+  a reference stapled on.'

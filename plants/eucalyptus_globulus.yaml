@@ -59,8 +59,11 @@ preparations:
   - REF-0224
   status: verified
 - name: Infusion (leaf)
-  text: Dried leaf infused in hot water as a milder traditional respiratory tea.
-  status: draft
+  text: Comminuted dried leaf infused in 150 ml boiling water, 1.5-3 g up to four times daily (daily dose
+    4.5-12 g) for oral use per the EU herbal monograph. Educational reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3083
 dosage:
 - name: Steam inhalation
   text: The EU herbal monograph on eucalyptus LEAF gives, for inhalation, 3 g of the comminuted leaf in
@@ -242,24 +245,27 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
-  references bucket (least-cited enrichment): REF-0809, REF-0810, REF-0811. | 2026-06-20: enriched to >=10
-  scientific publications: added 11 PubMed-verified @article sources (REF-2022, REF-0810, REF-2023,
-  REF-0809, REF-0811, REF-2024, REF-2025, REF-2026, REF-2027, REF-2028, REF-2029) — woven into relevant
-  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
-  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the
-  integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 4): dosage sourced to the
-  EU herbal monograph on Eucalyptus globulus Labill., folium (EMA/HMPC/892618/2011 = REF-3083, new). SCOPE
-  CORRECTION: the entry conflated two different herbal substances, opening with ''a few drops of essential
-  oil (or a handful of leaf)''. The essential oil (Eucalypti aetheroleum) is a separate register entry with
-  its own monograph and posology; REF-3083 covers the LEAF only, and the entry now says so explicitly. Vague
-  quantities replaced with the monograph''s figures (inhalation 3 g in boiling water up to 3x daily, daily
-  3-9 g; oral tea 1.5-3 g in 150 mL up to 4x daily, daily 4.5-12 g). SAFETY: ''avoided in infants and young
-  children'' replaced with the monograph''s actual position - CONTRAINDICATED under 30 months, not
-  recommended under 12 years.'
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0809, REF-0810, REF-0811.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2022,
+  REF-0810, REF-2023, REF-0809, REF-0811, REF-2024, REF-2025, REF-2026, REF-2027, REF-2028, REF-2029)
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 4): dosage sourced
+  to the EU herbal monograph on Eucalyptus globulus Labill., folium (EMA/HMPC/892618/2011 = REF-3083,
+  new). SCOPE CORRECTION: the entry conflated two different herbal substances, opening with ''a few drops
+  of essential oil (or a handful of leaf)''. The essential oil (Eucalypti aetheroleum) is a separate register
+  entry with its own monograph and posology; REF-3083 covers the LEAF only, and the entry now says so
+  explicitly. Vague quantities replaced with the monograph''s figures (inhalation 3 g in boiling water
+  up to 3x daily, daily 3-9 g; oral tea 1.5-3 g in 150 mL up to 4x daily, daily 4.5-12 g). SAFETY: ''avoided
+  in infants and young children'' replaced with the monograph''s actual position - CONTRAINDICATED under
+  30 months, not recommended under 12 years. Preparations sourced 2026-07-20 to monographs already on
+  this record. Each supporting quote was checked to appear verbatim in the stored monograph posology,
+  the reference confirmed present on the plant, and the dose form / plant part / route checked for mismatch;
+  text rewritten to the source rather than having a reference stapled on.'

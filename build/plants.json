@@ -6002,6 +6002,14 @@
      "status": "verified"
     },
     {
+     "name": "Tincture",
+     "text": "Tincture of the dried root, ethanol 45% V/V or 25% V/V, 8-12 ml three times daily per the EU herbal monograph. The monograph states the ethanol strength but no drug-extract ratio, so no 1:5 ratio is claimed here. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3088"
+     ]
+    },
+    {
      "name": "Fresh root (culinary)",
      "text": "Fresh root peeled and cooked as a root vegetable (gobo), continuing the traditional food-medicine use.",
      "reference_ids": [
@@ -6266,7 +6274,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "greater-burdock"
   },
   {
@@ -10684,6 +10692,14 @@
       "REF-0752"
      ],
      "status": "verified"
+    },
+    {
+     "name": "Infusion",
+     "text": "Dried flower infused in hot water, 1-2 g in 150 ml, used still warm as a mouth rinse or gargle 2-4 times daily. The EU herbal monograph's posology for this preparation is OROMUCOSAL only - it does not support taking the infusion internally. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3065"
+     ]
     }
    ],
    "dosage": [
@@ -10954,7 +10970,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "pot-marigold"
   },
   {
@@ -11543,7 +11559,7 @@
     {
      "note": "Peach-leaved bellflower is chiefly an edible and ornamental plant, and very little is known about medicinal use or safety of the species specifically; there are no clinical data. Use culinary amounts, and avoid medicinal doses in pregnancy and breastfeeding.",
      "severity": "caution",
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "note": "The pharmacological data here are for the genus Campanula and related bellflower species, not for Campanula persicifolia itself; interpret with caution.",
@@ -11571,7 +11587,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-10"
+   "last_updated": "2026-07-20"
   },
   {
    "id": "cannabis-sativa",
@@ -12878,6 +12894,14 @@
       "REF-0431"
      ],
      "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Tincture of the dried herb; the EU herbal monograph gives 1.5-5 g up to three times daily. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3067"
+     ]
     }
    ],
    "dosage": [
@@ -13094,7 +13118,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "centaury"
   },
   {
@@ -14603,6 +14627,14 @@
       "REF-0101"
      ],
      "status": "draft"
+    },
+    {
+     "name": "Decoction/infusion",
+     "text": "Comminuted bark infused in hot water as a herbal tea, 0.5-1 g up to four times daily per the EU herbal monograph. The monograph describes an infusion; it does not cover a simmered decoction. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3091"
+     ]
     }
    ],
    "dosage": [
@@ -20066,6 +20098,14 @@
       "REF-0509"
      ],
      "status": "verified"
+    },
+    {
+     "name": "Decoction",
+     "text": "Comminuted dried root and rhizome as a herbal tea, 0.5-4 g in 150 ml boiling water as the daily dose, divided into one to three doses per the EU herbal monograph. Note the monograph describes an infusion in boiling water rather than a simmered decoction. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3089"
+     ]
     }
    ],
    "dosage": [
@@ -20303,7 +20343,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "siberian-ginseng"
   },
   {
@@ -21848,6 +21888,14 @@
       "REF-0224"
      ],
      "status": "verified"
+    },
+    {
+     "name": "Infusion (leaf)",
+     "text": "Comminuted dried leaf infused in 150 ml boiling water, 1.5-3 g up to four times daily (daily dose 4.5-12 g) for oral use per the EU herbal monograph. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3083"
+     ]
     }
    ],
    "dosage": [
@@ -22094,7 +22142,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "blue-gum-eucalyptus"
   },
   {
@@ -22492,6 +22540,14 @@
      "status": "verified"
     },
     {
+     "name": "Tincture",
+     "text": "Tincture (1:5) of the dried aerial parts; single dose 2-4 ml, daily dose 6-12 ml per the EU herbal monograph. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3072"
+     ]
+    },
+    {
      "name": "Standardised extract",
      "text": "Concentrated extract studied in vitro and in vivo for anti-inflammatory and gastroprotective activity.",
      "reference_ids": [
@@ -22864,7 +22920,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "meadowsweet"
   },
   {
@@ -23293,7 +23349,7 @@
     {
      "note": "Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses during pregnancy and lactation.",
      "severity": "caution",
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "note": "Generally well tolerated in traditional amounts; genotoxicity testing of dropwort extracts found them non-genotoxic and antigenotoxic (DNA-protective) at the doses studied.",
@@ -23422,7 +23478,7 @@
    ],
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13"
+   "last_updated": "2026-07-20"
   },
   {
    "id": "foeniculum-vulgare",
@@ -25307,7 +25363,7 @@
     {
      "note": "Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses during pregnancy and lactation.",
      "severity": "caution",
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "note": "In-vivo toxicity testing of avens (Geum) extract showed a favourable profile at the doses studied, but high-dose or long-term safety is not established.",
@@ -25396,7 +25452,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13"
+   "last_updated": "2026-07-20"
   },
   {
    "id": "ginkgo-biloba",
@@ -28312,6 +28368,22 @@
    },
    "preparations": [
     {
+     "name": "Infusion",
+     "text": "Dried flower cones infused in hot water as a herbal tea, 500-1000 mg in 150-200 ml, taken 30-60 minutes before bedtime per the EU herbal monograph. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3077"
+     ]
+    },
+    {
+     "name": "Tincture",
+     "text": "Tincture (1:5) of the dried cones, 1-2 ml up to three times daily per the EU herbal monograph. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3077"
+     ]
+    },
+    {
      "name": "Standardised extract",
      "text": "Concentrated extract standardised to xanthohumol/humulone content, studied for sleep-enhancing activity via GABA-A receptor modulation.",
      "reference_ids": [
@@ -28580,7 +28652,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "hop"
   },
   {
@@ -28664,6 +28736,14 @@
       "REF-0455"
      ],
      "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Tincture 1:10 in 60% ethanol of the dried rhizome and root, 2-4 ml three times daily per the WHO monograph Rhizoma Hydrastis. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3095"
+     ]
     },
     {
      "name": "Standardised extract",
@@ -28927,7 +29007,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "goldenseal"
   },
   {
@@ -30453,6 +30533,14 @@
    },
    "preparations": [
     {
+     "name": "Infusion (berries)",
+     "text": "Comminuted juniper cone berries infused in 150 ml boiling water, 2.0-2.5 g as a single dose 1-3 times daily per the current revision of the EU herbal monograph. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3066"
+     ]
+    },
+    {
      "name": "Essential oil",
      "text": "Steam-distilled from the berries; used in small internal doses for short periods or diluted for topical/aromatic use.",
      "reference_ids": [
@@ -30975,7 +31063,7 @@
     {
      "note": "Very little is known about the safety of field scabious and there are no clinical data; avoid medicinal doses in pregnancy and breastfeeding and use only modest amounts.",
      "severity": "caution",
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "note": "Most pharmacological data come from closely related Caprifoliaceae (genus Knautia, Scabiosa, Dipsacus) rather than Knautia arvensis itself; apply to field scabious with caution.",
@@ -31006,7 +31094,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-10"
+   "last_updated": "2026-07-20"
   },
   {
    "id": "lactuca-virosa",
@@ -32864,6 +32952,14 @@
       "REF-0860"
      ],
      "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Tincture 1:5 in ethanol 45% V/V of the dried flowering herb; single dose 2-6 ml, three times per day per the EU herbal monograph. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3069"
+     ]
     }
    ],
    "dosage": [
@@ -33105,7 +33201,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "motherwort"
   },
   {
@@ -33829,7 +33925,7 @@
     {
      "note": "Safety data are limited and there are no human clinical trials; avoid medicinal doses in pregnancy and breastfeeding.",
      "severity": "caution",
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "note": "Contains astringent tannins and flavonoids; large or prolonged doses may cause digestive upset and can reduce absorption of iron and some medicines.",
@@ -33903,7 +33999,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13"
+   "last_updated": "2026-07-20"
   },
   {
    "id": "mahonia-aquifolium",
@@ -35654,6 +35750,14 @@
       "REF-1200"
      ],
      "status": "verified"
+    },
+    {
+     "name": "Tincture",
+     "text": "Tincture of the dried leaf, 2-6 ml one to three times daily per the EU herbal monograph. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3078"
+     ]
     }
    ],
    "dosage": [
@@ -35985,7 +36089,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "lemon-balm"
   },
   {
@@ -40874,7 +40978,7 @@
     {
      "note": "Safety in pregnancy and breastfeeding has not been established; avoid medicinal doses during pregnancy and lactation.",
      "severity": "caution",
-     "status": "verified"
+     "status": "needs-review"
     },
     {
      "note": "Most modern pharmacological data come from the near-identical congener Oxalis corniculata; the two yellow woodsorrels are used interchangeably in folk medicine, but human clinical trials are lacking for either species.",
@@ -40926,7 +41030,7 @@
    },
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13"
+   "last_updated": "2026-07-20"
   },
   {
    "id": "oxycoccus-palustris",

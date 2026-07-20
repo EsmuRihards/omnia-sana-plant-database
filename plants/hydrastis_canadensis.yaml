@@ -71,8 +71,11 @@ preparations:
   - REF-0455
   status: verified
 - name: Tincture
-  text: Alcoholic extract of the dried rhizome and root.
-  status: draft
+  text: Tincture 1:10 in 60% ethanol of the dried rhizome and root, 2-4 ml three times daily per the WHO
+    monograph Rhizoma Hydrastis. Educational reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3095
 - name: Standardised extract
   text: Extract standardised to berberine/hydrastine content, taken as capsules; whole-leaf extracts have
     shown stronger antimicrobial activity than isolated berberine in some studies.
@@ -286,23 +289,27 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Pharmacological Research critical review; European Journal
-  of Medicinal Chemistry berberine review). Originally a skeleton imported from the omniasana.bio
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Pharmacological Research critical review;
+  European Journal of Medicinal Chemistry berberine review). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (infection, sore-throat, indigestion, skin-irritation); associations retained
   and now part-mapped and cited. NOTE pregnancy/infant contraindication and CYP drug interactions. Further
-  enriched 2026-06-14 with a PubMed-sourced study showing whole-leaf goldenseal extract acts against MRSA by
-  quorum-quenching and efflux-pump inhibition (more potent than berberine alone) (REF-0588) and a
-  CYP-inhibition screen confirming goldenseal as a strong CYP2D6/CYP3A4 inhibitor (REF-0589). | 2026-06-15:
-  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). |
-  2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0455,
-  REF-1849, REF-1850, REF-0588, REF-1851, REF-1852, REF-1853, REF-1854, REF-1855, REF-1856, REF-1857) —
-  woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
-  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
-  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 6): dosage sourced
-  to the WHO monograph on Rhizoma Hydrastis, WHO Vol 3 (REF-3095, new). The existing 0.5-1 g figure matched
-  WHO exactly - one of the few entries needing no numeric correction - and the entry now also carries WHO''s
-  liquid-extract (1:1 in 60% ethanol, 0.3-1.0 mL three times) and tincture (1:10 in 60% ethanol, 2-4 mL
-  three times) posologies. There is no EMA monograph for goldenseal. The existing CYP-inhibition and
-  pregnancy cautions were kept; they are well founded and matter more for this herb than the dose does.'
+  enriched 2026-06-14 with a PubMed-sourced study showing whole-leaf goldenseal extract acts against MRSA
+  by quorum-quenching and efflux-pump inhibition (more potent than berberine alone) (REF-0588) and a CYP-inhibition
+  screen confirming goldenseal as a strong CYP2D6/CYP3A4 inhibitor (REF-0589). | 2026-06-15: migrated
+  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0455, REF-1849,
+  REF-1850, REF-0588, REF-1851, REF-1852, REF-1853, REF-1854, REF-1855, REF-1856, REF-1857) — woven into
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 6): dosage sourced to the WHO monograph
+  on Rhizoma Hydrastis, WHO Vol 3 (REF-3095, new). The existing 0.5-1 g figure matched WHO exactly - one
+  of the few entries needing no numeric correction - and the entry now also carries WHO''s liquid-extract
+  (1:1 in 60% ethanol, 0.3-1.0 mL three times) and tincture (1:10 in 60% ethanol, 2-4 mL three times)
+  posologies. There is no EMA monograph for goldenseal. The existing CYP-inhibition and pregnancy cautions
+  were kept; they are well founded and matter more for this herb than the dose does. Preparations sourced
+  2026-07-20 to monographs already on this record. Each supporting quote was checked to appear verbatim
+  in the stored monograph posology, the reference confirmed present on the plant, and the dose form /
+  plant part / route checked for mismatch; text rewritten to the source rather than having a reference
+  stapled on.'

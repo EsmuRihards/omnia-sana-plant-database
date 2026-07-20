@@ -177,7 +177,7 @@ contraindications:
 - note: Very little is known about the safety of field scabious and there are no clinical data; avoid
     medicinal doses in pregnancy and breastfeeding and use only modest amounts.
   severity: caution
-  status: verified
+  status: needs-review
 - note: Most pharmacological data come from closely related Caprifoliaceae (genus Knautia, Scabiosa, Dipsacus)
     rather than Knautia arvensis itself; apply to field scabious with caution.
   severity: info
@@ -201,25 +201,31 @@ lookalikes_review:
   - REF-2808
 provenance: pubmed
 status: verified
-last_updated: '2026-07-10'
-internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent failed on the session limit).
-  SETTLED-INCOMPLETE: genuine Knautia arvensis medicinal/phytochemical literature is only 3 papers (REF-2808
-  phenolic profile, REF-2809 phenolic/flavone constituents, REF-2810 knautioside/saponosides). PubMed for K.
-  arvensis is otherwise dominated by rumen/methane feed studies, plant-pathology and ecology (all rejected).
-  Supplemented with 5 clearly-labelled Caprifoliaceae congeners (REF-2811 genus Knautia anti-acne/skin -
-  matching the plant''s traditional skin use; REF-2812 Dipsacus/Scabiosa review; REF-2813 Scabiosa review;
-  REF-2814 Scabiosa antioxidant/antidiabetic; REF-2815 Dipsacus fullonum). 8 total - well under 15;
-  genuine-only <15 is genuine for this species. Do NOT pad with unrelated species. Cross-links via shared
-  compounds (chlorogenic-acid/flavonoid/iridoid-glycoside/saponin) and skin/inflammation indications.
-  lookalikes none-known (distinctive lilac pincushion heads; confusable only with harmless
-  Scabiosa/Succisa). | 2026-07-19 (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing
-  sweep of the dosage-sourcing campaign. The remaining unsourced dosage entry/entries on this record were
-  searched against every seam this campaign opened and none yields a dose for this species in this
-  preparation. Seams checked: (1) the official EMA herbal medicines register
-  (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched on the accepted
-  binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs on selected
-  medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
-  confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
-  studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper. Settled as sparse-literature incomplete
-  in the earlier campaign; no monograph or dose-reporting trial exists for this species.'
+last_updated: '2026-07-20'
+internal_notes: 'Created 2026-07-10 (inline research; the research-workflow agent failed on the session
+  limit). SETTLED-INCOMPLETE: genuine Knautia arvensis medicinal/phytochemical literature is only 3 papers
+  (REF-2808 phenolic profile, REF-2809 phenolic/flavone constituents, REF-2810 knautioside/saponosides).
+  PubMed for K. arvensis is otherwise dominated by rumen/methane feed studies, plant-pathology and ecology
+  (all rejected). Supplemented with 5 clearly-labelled Caprifoliaceae congeners (REF-2811 genus Knautia
+  anti-acne/skin - matching the plant''s traditional skin use; REF-2812 Dipsacus/Scabiosa review; REF-2813
+  Scabiosa review; REF-2814 Scabiosa antioxidant/antidiabetic; REF-2815 Dipsacus fullonum). 8 total -
+  well under 15; genuine-only <15 is genuine for this species. Do NOT pad with unrelated species. Cross-links
+  via shared compounds (chlorogenic-acid/flavonoid/iridoid-glycoside/saponin) and skin/inflammation indications.
+  lookalikes none-known (distinctive lilac pincushion heads; confusable only with harmless Scabiosa/Succisa).
+  | 2026-07-19 (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing
+  campaign. The remaining unsourced dosage entry/entries on this record were searched against every seam
+  this campaign opened and none yields a dose for this species in this preparation. Seams checked: (1)
+  the official EMA herbal medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved
+  2026-07-18), matched on the accepted binomial AND on every synonym and common name appearing in a register
+  row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each
+  monograph''s Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own
+  reference bucket, mined for human studies that state an administered dose. Per the campaign''s integrity
+  bar the entry is left unsourced at status draft rather than attached to a tangentially-related paper.
+  Settled as sparse-literature incomplete in the earlier campaign; no monograph or dose-reporting trial
+  exists for this species. INTEGRITY FIX 2026-07-20: a contraindication carried status ''verified'' with
+  no reference_ids. The caution itself is an honest statement about the ABSENCE of safety data and is
+  retained unchanged - dropping a safety warning would be the more harmful error - but ''verified'' asserts
+  a source was checked against, and none exists. Demoted to ''needs-review'', which is what the data actually
+  merits. Sourcing an absence is possible (cf. the euphrasia precedent, where an EMA public statement
+  was cited as the authority for there being no established posology) and is the proper fix if a seam
+  opens.'

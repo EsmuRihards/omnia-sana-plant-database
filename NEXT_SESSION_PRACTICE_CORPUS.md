@@ -22,12 +22,31 @@ correctness is.
 ## READ FIRST, IN THIS ORDER
 
 1. `plant-database/CLAUDE.md` — the five invariants. Binding.
-2. `plant-database/PRACTICE_CORPUS_SPEC.md` — the 146 KB implementation spec.
-   Literal content for the new files, exact old/new edit pairs for the modified
-   ones, a traced day-one green check, and the D0–D9 order. Produced by an
-   8-agent pass (2 survey, 2 design, 2 adversarial refutation, 2 synthesis).
-   **Nothing in it has been applied.** Subagents wrote the quoted line numbers —
-   re-verify each against the live file before editing.
+2. `plant-database/PRACTICE_CORPUS_SPEC.md` — the implementation spec. Literal
+   content for the new files, exact old/new edit pairs for the modified ones, a
+   traced day-one green check, and the D0–D9 order. Produced by an 8-agent pass
+   (2 survey, 2 design, 2 adversarial refutation, 2 synthesis), then audited by a
+   further 3-agent pass. **Nothing in it has been applied.**
+
+   **Read §0 (Provenance and Trust) and APPENDIX A before you touch section 3.**
+   The audit found 14 blocking and 7 major defects, and **Appendix A is not
+   applied to the body — section 3 still contains all of them.** Apply the
+   appendix to section 3 first, then follow the §0 pre-flight checklist. The
+   three that matter most:
+   - `Edit C` loads `vocabularies/parts.yaml`, which §1 explicitly forbids
+     creating, with no `try` around the load. Unhandled `FileNotFoundError` in
+     the only hard gate in the repo, on the first push, for all 187 plants.
+   - The toxicity gate existed in the schema, the README, the decisions table and
+     the risk register — and in **zero lines of validator code**. The claim that
+     an absent `toxicity_flag` is fail-closed "by construction" was false: JSON
+     Schema `default` is inert here. Absent meant unconstrained, on the join key
+     shared by comfrey, butterbur, coltsfoot, celandine and arnica.
+   - The copyright gate keyed on `normative_citations`, a field left over from
+     the losing draft that is not in the schema at any level. It could never fire.
+
+   The seventeen `OLD (verbatim)` anchors in section 3 *do* all match the live
+   files byte-for-byte at `22f88ed` — the edits apply cleanly. The risk was never
+   that they wouldn't apply; it was that what they apply is wrong.
 3. `plant-database/README.md` — schema mechanics, evidence scoring, REF convention.
 4. `.claude/skills/osdb-*` — the four procedure skills.
 

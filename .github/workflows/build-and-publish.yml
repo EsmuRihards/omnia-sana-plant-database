@@ -17,6 +17,7 @@ on:
       - 'names/**'
       - 'vocabularies/**'
       - 'compounds/**'
+      - 'practice/**'
       - 'bibliography.bibtex'
       - 'schema/**'
       - 'scripts/**'

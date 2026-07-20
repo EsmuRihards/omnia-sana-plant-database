@@ -8,7 +8,7 @@
   "additionalProperties": false,
   "properties": {
     "ref_id": {"type": "string", "pattern": "^REF-\\d{4,}$", "description": "Single stable identifier; also the BibTeX citation key."},
-    "type": {"type": "string", "enum": ["article", "book", "misc"]},
+    "type": {"type": "string", "enum": ["article", "book", "incollection", "inbook", "booklet", "misc"]},
     "title": {"type": "string"},
     "authors": {"type": "string", "description": "Author list, BibTeX 'and'-separated."},
     "journal": {"type": "string"},
@@ -17,12 +17,38 @@
     "number": {"type": "string"},
     "pages": {"type": "string"},
     "doi": {"type": "string"},
-    "url": {"type": "string"},
-    "evidence_type": {
+    "url": {"type": "string", "description": "Required on kind: standard. build.py's best_link() falls back to a Google Scholar SEARCH url when there is no doi and no url, which on a paywalled monograph presents a junk search as the source. Point this at the publisher's monograph landing page."},
+    "publisher": {"type": "string"},
+    "kind": {
       "type": "string",
-      "enum": ["rct", "meta-analysis", "systematic-review", "review", "observational", "in-vivo", "in-vitro", "traditional", "monograph", "web"],
-      "description": "Study/source type, used to weight claim evidence and support validation."
+      "enum": ["publication", "standard"],
+      "default": "publication",
+      "description": "Source shape. 'publication' is the historical shape and the behaviour when this field is ABSENT, so none of the 3110 existing entries need backfilling. 'standard' is a normative pharmacopoeial monograph: paywalled, copyrighted, prescriptive rather than descriptive. There is ONE bibliography and ONE REF sequence — a second schema file would describe a record class with no store, and splitting `declared` would manufacture the orphan false-positive class whose documented remediation is destructive."
     },
-    "abstract": {"type": "string", "description": "Optional single-line abstract (braces stripped, whitespace collapsed)."}
-  }
+    "pharmacopoeia": {"type": "string", "enum": ["ph-eur", "usp-nf", "bhp", "ahp", "bp", "who-monographs", "escop"], "description": "Issuing body. kind: standard only."},
+    "edition": {"type": "string", "description": "Edition and supplement, e.g. '11th Ed., Supplement 11.5 (2024)'. Part of the IDENTITY of a standard: monograph numbers persist across editions while their requirements change, so an uncited edition is unverifiable. kind: standard only."},
+    "monograph_number": {"type": "string", "description": "e.g. '1559', '0765', '<565>'. kind: standard only."},
+    "monograph_title": {"type": "string", "description": "e.g. 'Tinctures'. Note display_title() needs >=6 alphabetic characters in `title` or it falls back to the url host, so `title` should read e.g. 'Tinctures (Ph. Eur. monograph 1559)'."},
+    "study_type": {
+      "type": "string",
+      "enum": ["systematic-review", "meta-analysis", "review", "rct", "clinical", "preclinical", "traditional"],
+      "description": "Evidence tier for CLINICAL claims, hand-set on every entry. THIS enum is the one scripts/build.py actually reads (STUDY_TYPE_TIER) and the one README.md documents. It replaces the former `evidence_type`, which was declared here, written to 0 of 3110 entries, and read by no script — the schema was wrong, not the code. A pharmacopoeial standard is correctly `traditional` here: it is authoritative about PRACTICE, not evidence that a plant treats a condition. Its normative weight is carried by the practice record's method_type: pharmacopoeial, NOT by a new value in this enum. Do not introduce a third source-typing vocabulary."
+    },
+    "corpus": {
+      "type": "array",
+      "items": {"type": "string", "enum": ["clinical", "practice"]},
+      "description": "Which public corpus this source belongs to, for the Knowledge Finder's corpus filter. DERIVED by scripts/build.py from actual linkage — never authored, and scripts/validate.py deliberately does NOT check it. An array because a study measuring both extraction yield and bioactivity belongs to both. Behaviour when a REF is cited by neither: ['clinical']."
+    },
+    "abstract": {"type": "string", "description": "The REAL published abstract, single line, braces stripped, whitespace collapsed. The site renders this AS the source's own words, so a paraphrase is a fabricated quotation. FORBIDDEN on kind: standard — a monograph has no abstract, and anything written there is either invented or a reproduction of paywalled normative text."}
+  },
+  "allOf": [
+    {
+      "if": {"properties": {"kind": {"const": "standard"}}, "required": ["kind"]},
+      "then": {
+        "required": ["pharmacopoeia", "edition", "monograph_number", "url", "publisher"],
+        "properties": {"abstract": false, "doi": false, "journal": false, "study_type": {"const": "traditional"}}
+      },
+      "$comment": "INERT. No script imports jsonschema; schema/*.json is loaded by nothing. This branch is the documentation contract only — the abstract-forbidden rule that actually runs is _check_copyright() in scripts/validate.py."
+    }
+  ]
 }

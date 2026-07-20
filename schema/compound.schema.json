@@ -10,7 +10,25 @@
     "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Stable slug, e.g. allicin, apigenin."},
     "name": {"type": "string"},
     "synonyms": {"type": "array", "items": {"type": "string"}},
-    "class": {"type": "string", "description": "Chemical / biosynthetic class, e.g. flavonoid, organosulfur, sesquiterpene-lactone, alkaloid."},
+    "class": {"type": "string", "description": "Chemical / biosynthetic class, e.g. flavonoid, organosulfur, sesquiterpene-lactone, alkaloid. Biosynthetic, NOT extractive: it groups quercetin with rutin, whose solvent optima are opposite (70-96% vs 40-60% ethanol). Never key an extraction record on it."},
+    "extraction_class": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+      "description": "OPTIONAL disambiguator -> vocabularies/extraction_classes.yaml. The practice corpus keys on the existing compound ids (already validated against compounds/ by validate.py); this is the secondary layer that resolves the class-like ids. `flavonoid` sits on 132 plants and resolves to either flavonoid-glycoside or flavonoid-aglycone, whose optima are opposite. Behaviour when ABSENT or when this lists >1 class: `resolution` governs — see below. It is never a coin flip."
+    },
+    "resolution": {
+      "type": "string",
+      "enum": ["exact", "ambiguous", "unresolvable"],
+      "default": "unresolvable",
+      "description": "How this compound id joins to the practice corpus. exact -> join and recommend. ambiguous (flavonoid, tannin, polysaccharide, terpene) -> emit the conservative intersection only, and NEVER reach approved. unresolvable (glycoside, phenolic-compound) -> do not join at all. Behaviour when ABSENT is 'unresolvable', i.e. NO recommendation — the fail-closed default. 324 of the 861 plant x compound slots need this; shipping silence for them is correct, shipping a confident 70% ethanol figure for a mucilage is not."
+    },
+    "toxicity_flag": {
+      "type": "string",
+      "enum": ["none", "dose-limited", "topical-only", "avoid-internal"],
+      "default": "avoid-internal",
+      "description": "Whether a YIELD-MAXIMISING recommendation is safe for this constituent. A recommendation states a preparation that is safe and traditionally correct; it is NOT the argmax of a yield table, and the two diverge violently. `alkaloid` sits on symphytum_officinale, petasites_hybridus, tussilago_farfara, chelidonium_majus and arnica_montana, where it means hepatotoxic PYRROLIZIDINE alkaloids — an approved 'acidified menstruum extracts the salt' record joined on that id instructs a user to maximise PA recovery from comfrey root. Same for `coumarin` (cinnamomum_cassia, arnica_montana; EFSA TDI 0.1 mg/kg bw), `asarone` (acorus_calamus, genotoxic), `sesquiterpene-lactone` (arnica_montana, topical only). Behaviour when ABSENT is 'avoid-internal' — FAIL CLOSED. An unflagged compound cannot carry an approved recommendation, which forces the ~12 known ids to be triaged before any record joins them."
+    },
+    "regulatory_limit": {"type": "string", "description": "Free text, e.g. 'EFSA TDI 0.1 mg/kg bw'. Shown alongside any recommendation whose key compound is dose-limited."},
     "external_ids": {
       "type": "object",
       "additionalProperties": false,

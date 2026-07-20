@@ -4,8 +4,8 @@
   "citations.json": {
    "schema": "omnia-sana/knowledge-finder@2",
    "count": 3116,
-   "bytes": 7653228,
-   "sha256": "4444cea4d70159c90ad627820a2bb6d54891e241bf1167c90296eebcd46abeb3"
+   "bytes": 7765404,
+   "sha256": "026b62ddaa489d4b6d051d14d41b9554ddb4e5fec5c4d9ce82e684c566c1ebeb"
   },
   "symptoms.json": {
    "schema": "omnia-sana/symptom-lookup@1",
@@ -22,8 +22,8 @@
   "vocab.json": {
    "schema": "omnia-sana/vocab@1",
    "count": null,
-   "bytes": 66007,
-   "sha256": "bf4dc48bbf30563730e74e3a4e8f358554681a495070d2bc40875ec3ef768272"
+   "bytes": 74632,
+   "sha256": "979a1ca2dc0c5c8c87d95d1ff2420c1668080db43a907a667d446d37c1527324"
   },
   "names.json": {
    "schema": "omnia-sana/names@1",
@@ -48,6 +48,12 @@
    "count": 72,
    "bytes": 230777,
    "sha256": "255c8c05e9ddb8b45b4fd0d1a90b8784821766484277351ed950ece0014436ee"
+  },
+  "practice.v1.json": {
+   "schema": "omnia-sana/practice@1",
+   "count": 0,
+   "bytes": 16387,
+   "sha256": "4af99634e13b136c4559ca8876df64362edab3e59b8536ea77a41206740afbbb"
   }
  }
 }

@@ -1,0 +1,324 @@
+# Omnia Sana — controlled vocabulary: EXTRACTION CLASSES
+# Schema: ../schema/practice.schema.json ($defs -> key.extraction_class)
+#
+# VALUE SPACE ONLY. This is NOT the join key. Practice records are keyed on the
+# existing compound ids in ../compounds/, which validate.py already validates as
+# the K set. An extraction class is an OPTIONAL disambiguator, authored in two
+# places and used only where one compound id spans classes whose solvent optima
+# differ: `compounds/<id>.yaml -> extraction_classes[]` and
+# `plants/<id>.yaml -> constituents[].extraction_class` (the plant wins).
+#
+# An extraction class groups constituents that behave the same way in a
+# menstruum — same polarity band, same heat and pH tolerance, same volatility.
+# It is deliberately not the biosynthetic `class` field: biosynthesis groups
+# quercetin with rutin; extraction chemistry splits them, because their optima
+# are opposite (70-96% vs 40-60% ethanol).
+#
+# Degradation rule, and it is the whole reason this file exists:
+#   resolution exact        -> join and recommend
+#   resolution ambiguous    -> no recommendation, and may never reach approved
+#   resolution unresolvable -> do not join at all
+# Shipping "no recommendation" for flavonoid is correct. Shipping 70% ethanol
+# for a mucilage is not.
+#
+# `optimal_ethanol_pct` is orientation for the editor choosing what to research,
+# [min, max] %v/v in water, or null where the class is not hydroethanol-
+# extractable. The number a calculator reads ALWAYS comes from a practice
+# record's findings, never from this file.
+# `solvents` and `methods` reference ./solvents.yaml and ./extraction_methods.yaml.
+
+- id: volatile-terpenoid
+  label: Volatile terpenoids
+  category: terpenoid
+  optimal_ethanol_pct: [70, 96]
+  solvents: [steam, ethanol-water, ethanol-absolute, fixed-oil, supercritical-co2]
+  heat_stability: labile
+  volatility: high
+  glycosidic: false
+  compounds: [bisabolol, camphor, chamazulene, cineole, citral, linalool, menthol, sesquiterpene, terpene]
+  note: Recovery is governed by vapour pressure, not solvent affinity; water solubility 0.01-1 g/L.
+
+- id: volatile-phenol
+  label: Volatile phenols
+  category: terpenoid
+  optimal_ethanol_pct: [45, 70]
+  solvents: [water, ethanol-water, steam]
+  heat_stability: moderate
+  volatility: moderate
+  glycosidic: false
+  compounds: [asarone, carvacrol, eugenol, thymol]
+  note: A phenolic OH (pKa ~10) gives ~1 g/L water solubility, ~70x the hydrocarbons. Why thyme infusions work and lavender infusions largely do not.
+
+- id: volatile-oil-complex
+  label: Essential oil (whole distillable fraction)
+  category: terpenoid
+  optimal_ethanol_pct: [90, 96]
+  solvents: [steam, ethanol-absolute, supercritical-co2]
+  heat_stability: labile
+  volatility: high
+  glycosidic: false
+  compounds: [essential-oil]
+  note: The distillable fraction as one unit, because that is how the literature reports it — yield against distillation time, not against component.
+
+- id: lipophilic-terpenoid
+  label: Lipophilic terpenoids (non-volatile)
+  category: terpenoid
+  optimal_ethanol_pct: [85, 96]
+  solvents: [ethanol-water, ethanol-absolute, fixed-oil, supercritical-co2]
+  heat_stability: stable
+  volatility: none
+  glycosidic: false
+  compounds: [boswellic-acid, valerenic-acid, withanolide, sesquiterpene, terpene]
+  note: Water-insoluble at any temperature. The class most often silently absent from an aqueous product a user believes contains it.
+
+- id: sesquiterpene-lactone
+  label: Sesquiterpene lactones
+  category: terpenoid
+  optimal_ethanol_pct: [60, 80]
+  solvents: [ethanol-water]
+  heat_stability: labile
+  volatility: none
+  glycosidic: false
+  compounds: [parthenolide, sesquiterpene-lactone]
+  note: The alpha-methylene-gamma-lactone ring opens above ~pH 8 and is a Michael acceptor. Heat and pH limit, not solvent. Several carrying plants (arnica, tanacetum, artemisia) are dose-limited or topical-only.
+
+- id: nonpolar-lipid
+  label: Fixed oils and nonpolar lipids
+  category: lipid
+  optimal_ethanol_pct: null
+  solvents: [fixed-oil, supercritical-co2, hexane]
+  heat_stability: moderate
+  volatility: none
+  glycosidic: false
+  compounds: [carotenoid, gla, phytosterol]
+  note: Not hydroethanol-extractable at any practical concentration. The calculator must be able to state that this constituent is not in the tincture at all.
+
+- id: saponin-glycoside
+  label: Saponin glycosides
+  category: glycoside
+  optimal_ethanol_pct: [50, 70]
+  solvents: [water, ethanol-water]
+  heat_stability: stable
+  volatility: none
+  glycosidic: true
+  compounds: [escin, ginsenoside, glycyrrhizin, saponin, triterpene-saponin]
+  note: Amphiphilic surfactants. They foam, which is a mechanical constraint on percolation, not only a yield number.
+
+- id: flavonoid-glycoside
+  label: Flavonoid glycosides
+  category: glycoside
+  optimal_ethanol_pct: [40, 60]
+  solvents: [water, ethanol-water]
+  heat_stability: stable
+  volatility: none
+  glycosidic: true
+  compounds: [flavonoid, rutin, apigenin, kaempferol, luteolin, quercetin]
+  note: The sugar moiety raises water solubility 10-100x. Slow drying lets endogenous beta-glucosidase convert this class into flavonoid-aglycone.
+
+- id: flavonoid-aglycone
+  label: Flavonoid aglycones
+  category: glycoside
+  optimal_ethanol_pct: [70, 96]
+  solvents: [ethanol-water, ethanol-absolute]
+  heat_stability: stable
+  volatility: none
+  glycosidic: false
+  compounds: [apigenin, kaempferol, luteolin, quercetin, silymarin, flavonoid]
+  note: Same skeleton, opposite optimum. `flavonoid` sits on 132 plants and resolves to either class, so it is ambiguous and unresolved plants get nothing rather than a coin-flip.
+
+- id: anthocyanin
+  label: Anthocyanins
+  category: glycoside
+  optimal_ethanol_pct: [40, 60]
+  solvents: [acidified-water, acidified-ethanol-water]
+  heat_stability: labile
+  volatility: none
+  glycosidic: true
+  compounds: [anthocyanin]
+  note: The flavylium cation is stable only below ~pH 3; half-life is hours at 80 C. The only class whose recommendation must include an acidulant.
+
+- id: anthraquinone-glycoside
+  label: Anthraquinone glycosides
+  category: glycoside
+  optimal_ethanol_pct: [30, 60]
+  solvents: [water, ethanol-water]
+  heat_stability: stable
+  volatility: none
+  glycosidic: true
+  compounds: [anthraquinone]
+  note: Deglycosylate slowly in storage, which is why cascara is aged. Stimulant laxative — the carrying compound is dose-limited and a yield-maximising recommendation is barred.
+
+- id: iridoid-glycoside
+  label: Iridoid glycosides
+  category: glycoside
+  optimal_ethanol_pct: [30, 50]
+  solvents: [water, ethanol-water]
+  heat_stability: labile
+  volatility: none
+  glycosidic: true
+  compounds: [harpagoside, iridoid-glycoside]
+  note: The ring opens to a reactive dialdehyde and polymerises to black pigment. The recommendation is a prohibition — do not acidify, do not decoct.
+
+- id: proanthocyanidin
+  label: Proanthocyanidins and flavan-3-ols
+  category: phenolic
+  optimal_ethanol_pct: [50, 70]
+  solvents: [water, ethanol-water, acetone-water]
+  heat_stability: moderate
+  volatility: none
+  glycosidic: false
+  compounds: [catechin, proanthocyanidin, tannin]
+  note: Heat and acid polymerise to insoluble phlobaphenes; protein binding depresses apparent yield, so a yield without the matrix stated is not comparable.
+
+- id: hydrolysable-tannin
+  label: Hydrolysable tannins
+  category: phenolic
+  optimal_ethanol_pct: [50, 70]
+  solvents: [water, ethanol-water]
+  heat_stability: labile
+  volatility: none
+  glycosidic: true
+  compounds: [tannin]
+  note: Hydrolyse in hot water to gallic and ellagic acid, which then precipitates, so measured yield FALLS with decoction time — the exact opposite of proanthocyanidin. This is why `tannin` (42 plants) cannot join undisambiguated.
+
+- id: phenolic-acid-free
+  label: Free phenolic acids
+  category: phenolic
+  optimal_ethanol_pct: [50, 70]
+  solvents: [water, ethanol-water]
+  heat_stability: stable
+  volatility: none
+  glycosidic: false
+  compounds: [caffeic-acid, ellagic-acid, ferulic-acid, gallic-acid, phenolic-acid]
+  note: Chemically robust; ellagic acid is solubility-limited, which shows as a plateau rather than an optimum.
+
+- id: phenolic-ester-labile
+  label: Labile phenolic esters
+  category: phenolic
+  optimal_ethanol_pct: [50, 70]
+  solvents: [ethanol-water]
+  heat_stability: moderate
+  volatility: none
+  glycosidic: true
+  compounds: [chlorogenic-acid, rosmarinic-acid, verbascoside, phenolic-acid]
+  note: Hydrolysed by endogenous esterase and polyphenol oxidase during wilting. The recommendation is about drying speed and alcohol stabilisation, not solvent.
+
+- id: lipophilic-phenolic-labile
+  label: Lipophilic labile phenolics
+  category: phenolic
+  optimal_ethanol_pct: [80, 96]
+  solvents: [ethanol-water, ethanol-absolute, fixed-oil]
+  heat_stability: labile
+  volatility: none
+  glycosidic: false
+  compounds: [curcumin, gingerol, hyperforin, hypericin]
+  note: Light-, oxygen- and heat-labile. Gingerol-to-shogaol is a measurable heat marker. Hypericin/hyperforin carry photosensitivity and CYP3A4 induction — dose-limited.
+
+- id: coumarin
+  label: Coumarins
+  category: phenolic
+  optimal_ethanol_pct: [60, 80]
+  solvents: [ethanol-water]
+  heat_stability: moderate
+  volatility: slight
+  glycosidic: true
+  compounds: [coumarin]
+  note: Lactone; glycoside-to-aglycone conversion on wilting is the new-mown-hay smell. Hepatotoxic with an EFSA TDI, and furanocoumarins are photoreactive — dose-limited on all 19 carrying plants.
+
+- id: lignan
+  label: Lignans
+  category: phenolic
+  optimal_ethanol_pct: [60, 80]
+  solvents: [ethanol-water]
+  heat_stability: stable
+  volatility: none
+  glycosidic: true
+  compounds: [arctigenin, lignan]
+  note: Moderately lipophilic dimeric phenylpropanoids; the glycosidic forms (arctiin, SDG) sit nearer the flavonoid-glycoside band.
+
+- id: mucilage
+  label: Mucilage
+  category: polysaccharide
+  optimal_ethanol_pct: null
+  solvents: [water]
+  heat_stability: labile
+  volatility: none
+  glycosidic: false
+  compounds: [mucilage, polysaccharide]
+  note: The hardest constraint on a tincture calculator — above ~25-30% ethanol this class is PRECIPITATED, not extracted, and leaves in the marc. Cold water only.
+
+- id: storage-polysaccharide
+  label: Storage polysaccharides
+  category: polysaccharide
+  optimal_ethanol_pct: null
+  solvents: [water]
+  heat_stability: requires-heat
+  volatility: none
+  glycosidic: false
+  compounds: [inulin, pectin, starch, polysaccharide]
+  note: Need the hot water that destroys mucilage, and are recovered by alcohol precipitation rather than alcohol extraction. Inulin is acid-labile.
+
+- id: fungal-beta-glucan
+  label: Fungal beta-glucans
+  category: polysaccharide
+  optimal_ethanol_pct: null
+  solvents: [water, alkaline-water]
+  heat_stability: requires-heat
+  volatility: none
+  glycosidic: false
+  compounds: [polysaccharide]
+  note: Must be liberated from the chitin wall by heat and sometimes alkali; alcohol-insoluble. Justifies dual-extraction. NOTE all seven fungal plant records are currently excluded from recommendations — see practice/README.md.
+
+- id: alkaloid
+  label: Alkaloids
+  category: alkaloid
+  optimal_ethanol_pct: [45, 70]
+  solvents: [acidified-ethanol-water, ethanol-water, water]
+  heat_stability: moderate
+  volatility: slight
+  glycosidic: true
+  compounds: [alkaloid, berberine]
+  note: >-
+    Ionisation, not polarity, is the governing variable. CRITICAL: the compound id
+    `alkaloid` sits on 17 plants including symphytum, petasites, tussilago,
+    borago, chelidonium and arnica, where the alkaloid fraction IS the toxicity
+    (pyrrolizidines, chelidonine). A yield-maximising record here instructs a user
+    to maximise hepatotoxin recovery. `alkaloid` is flagged avoid-internal in
+    compounds/, and no recommendation may be authored on it without a
+    limit_rationale and a second reviewer. Berberine is quaternary, permanently
+    charged and water-soluble regardless of pH, so the acidified-menstruum logic
+    does not apply to it at all.
+
+- id: organosulfur-thiosulfinate
+  label: Thiosulfinates (organosulfur)
+  category: organosulfur
+  optimal_ethanol_pct: null
+  solvents: [water, ethanol-water]
+  heat_stability: destroyed
+  volatility: high
+  glycosidic: false
+  compounds: [allicin, organosulfur]
+  methods: [crush-and-rest, expression]
+  note: Allicin does not exist in the intact bulb; alliinase forms it on crushing and it decays in hours, and above ~60 C nothing forms. Process is everything. allium_sativum is excluded from recommendations until its parts_used gains Bulb.
+
+- id: mineral-inert
+  label: Inert mineral constituents
+  category: mineral
+  optimal_ethanol_pct: null
+  solvents: [water]
+  heat_stability: stable
+  volatility: none
+  glycosidic: false
+  compounds: [silica]
+  note: Even long decoction yields only trace soluble silicic acid. Present so the calculator can say "essentially not extracted" rather than say nothing.
+
+- id: polar-small-metabolite
+  label: Polar small metabolites
+  category: other
+  optimal_ethanol_pct: [0, 40]
+  solvents: [water, ethanol-water]
+  heat_stability: moderate
+  volatility: none
+  glycosidic: false
+  compounds: [allantoin]
+  note: Freely water-soluble, no strong solvent preference, labile only at pH extremes.

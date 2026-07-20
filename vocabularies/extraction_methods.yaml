@@ -1,0 +1,193 @@
+# Omnia Sana — controlled vocabulary: EXTRACTION METHODS
+# Schema: ../schema/practice.schema.json ($defs -> key.method, conditions.method,
+# recommendation.method). Loaded by scripts/validate.py via vocab_ids() — the ONLY
+# method list. The earlier hardcoded copy in validate.py (uae, mae,
+# oil-infusion) is deleted.
+#
+# consumer_reproducible: false is a HARD GATE, matching consumer_safe in
+# solvents.yaml. Soxhlet, UAE and MAE produce most of the good comparative yield
+# data, so findings cite them freely; a recommendation may not use them. Telling
+# a reader that 20 minutes of 40 kHz sonication is optimal is true and useless,
+# and putting it on a page next to a jar and a bottle of vodka is worse.
+#
+# requires_menstruum: false exempts the method from solid_liquid_ratio and from
+# conditions.solvent_pct — expression, crush-and-rest and the distillations do
+# not have a drug-to-menstruum ratio in any comparable sense.
+#
+# These ids are also the eventual normalisation target for the 549 existing
+# plants[].preparations[].name strings (Infusion, Decoction, Tincture, Poultice).
+# That migration is v2; until it runs, the two taxonomies coexist and the plant
+# page and the calculator must not be made to look like they disagree.
+
+- id: infusion
+  label: Infusion (hot steep)
+  category: traditional-domestic
+  heat_profile: hot-off-boil
+  consumer_reproducible: true
+  requires_menstruum: true
+  synonyms: ["tea", "tisane", "hot infusion"]
+  note: Standard for leaf and flower. The volatile fraction is partly lost unless the vessel is covered — itself a documented, measurable effect.
+
+- id: cold-infusion
+  label: Cold infusion (cold macerate)
+  category: traditional-domestic
+  heat_profile: ambient
+  consumer_reproducible: true
+  requires_menstruum: true
+  synonyms: ["cold macerate", "overnight steep", "cold water extract"]
+  note: The only correct method for mucilage, which heat degrades and ethanol precipitates.
+
+- id: decoction
+  label: Decoction (simmer)
+  category: traditional-domestic
+  heat_profile: boiling
+  consumer_reproducible: true
+  requires_menstruum: true
+  synonyms: ["simmer", "decoct"]
+  note: Required for storage polysaccharides and fungal beta-glucans; actively harmful for hydrolysable tannins, where yield falls as simmer time rises, and for iridoids, which polymerise.
+
+- id: dual-extraction
+  label: Dual extraction (decoction plus tincture, combined)
+  category: traditional-domestic
+  heat_profile: mixed
+  consumer_reproducible: true
+  requires_menstruum: true
+  synonyms: ["double extraction"]
+  note: The standard answer for fungal material, where beta-glucans need hot water and triterpenes need alcohol and neither menstruum alone gets both.
+
+- id: maceration
+  label: Maceration
+  category: traditional-domestic
+  heat_profile: ambient
+  consumer_reproducible: true
+  requires_menstruum: true
+  synonyms: ["steeping", "cold maceration", "jar method", "folk method"]
+  note: The default tincture method and the one the site's calculator actually models.
+
+- id: percolation
+  label: Percolation
+  category: traditional-domestic
+  heat_profile: ambient
+  consumer_reproducible: true
+  requires_menstruum: true
+  synonyms: ["cone percolation"]
+  note: Higher recovery per unit menstruum than maceration, but saponins foam and mucilage blocks the cone — mechanical constraints that belong in the record, not just yield numbers.
+
+- id: oil-infusion-cold
+  label: Cold oil infusion
+  category: traditional-domestic
+  heat_profile: ambient
+  consumer_reproducible: true
+  requires_menstruum: true
+  synonyms: ["solar infusion", "cold-infused oil"]
+
+- id: oil-infusion-heated
+  label: Heated oil infusion
+  category: traditional-domestic
+  heat_profile: warm
+  consumer_reproducible: true
+  requires_menstruum: true
+  synonyms: ["double-boiler infusion", "warm oil maceration"]
+
+- id: expression
+  label: Expression (pressing)
+  category: traditional-domestic
+  heat_profile: ambient
+  consumer_reproducible: true
+  requires_menstruum: false
+  synonyms: ["cold press", "juicing", "pressing"]
+  note: Fresh juice and cold-pressed seed oils. No solvent, no ratio.
+
+- id: crush-and-rest
+  label: Crush and rest (enzymatic conversion)
+  category: traditional-domestic
+  heat_profile: ambient
+  consumer_reproducible: true
+  requires_menstruum: false
+  synonyms: ["chop and wait", "enzymatic activation"]
+  note: Not an extraction but the step that creates the constituent — alliinase forms allicin after crushing, and it does not exist in the intact bulb. Without this method id and solvent 'none', the thiosulfinate record has nowhere to put the only variable that matters.
+
+- id: steam-distillation
+  label: Steam distillation
+  category: industrial
+  heat_profile: boiling
+  consumer_reproducible: false
+  requires_menstruum: false
+  synonyms: ["SD", "distillation"]
+  note: The reference method for essential-oil yield and the source of most volatile-class comparative data. Home stills exist, but the published yield curves do not reproduce at that scale.
+
+- id: hydrodistillation
+  label: Hydrodistillation (Clevenger)
+  category: industrial
+  heat_profile: boiling
+  consumer_reproducible: false
+  requires_menstruum: false
+  synonyms: ["Clevenger", "HD", "water distillation"]
+
+- id: reflux
+  label: Heated reflux
+  category: industrial
+  heat_profile: boiling
+  consumer_reproducible: false
+  requires_menstruum: true
+  synonyms: ["HRE", "heat-reflux extraction"]
+
+- id: spray-drying
+  label: Spray drying
+  category: industrial
+  heat_profile: hot
+  consumer_reproducible: false
+  requires_menstruum: false
+  synonyms: ["dry extract production"]
+  note: Relevant to standardised-extract records and pharmacopoeial drug-extract ratios, not to anything a reader makes.
+
+- id: uae
+  label: Ultrasound-assisted extraction
+  category: laboratory
+  heat_profile: warm
+  consumer_reproducible: false
+  requires_menstruum: true
+  synonyms: ["ultrasound-assisted", "sonication", "ultrasonic bath"]
+  note: Produces a large share of the best controlled-comparative solvent data because it makes a full factorial cheap. Cite it; never recommend it. A solvent optimum found under UAE does not automatically transfer to static maceration, and a record assuming it does must say so in the rationale.
+
+- id: mae
+  label: Microwave-assisted extraction
+  category: laboratory
+  heat_profile: hot
+  consumer_reproducible: false
+  requires_menstruum: true
+  synonyms: ["microwave-assisted", "microwave extraction"]
+
+- id: soxhlet
+  label: Soxhlet extraction
+  category: laboratory
+  heat_profile: boiling
+  consumer_reproducible: false
+  requires_menstruum: true
+  synonyms: ["continuous solvent extraction"]
+  note: Exhaustive extraction; the usual benchmark other methods are measured against, and thermally brutal to every labile class.
+
+- id: sfe
+  label: Supercritical fluid extraction
+  category: laboratory
+  heat_profile: warm
+  consumer_reproducible: false
+  requires_menstruum: false
+  synonyms: ["scCO2 extraction"]
+
+- id: ple
+  label: Pressurised liquid extraction
+  category: laboratory
+  heat_profile: hot
+  consumer_reproducible: false
+  requires_menstruum: true
+  synonyms: ["PLE", "ASE", "accelerated solvent extraction"]
+
+- id: none
+  label: No extraction step
+  category: normative
+  heat_profile: n-a
+  consumer_reproducible: true
+  requires_menstruum: false
+  synonyms: ["not applicable"]
+  note: For dose-form-conversion and normative records, where the fact is arithmetic or definitional and no technique is being asserted.

@@ -1,0 +1,797 @@
+{
+ "schema": "omnia-sana/practice@1",
+ "count": 0,
+ "solvents": [
+  {
+   "id": "water",
+   "label": "Water",
+   "polarity": "high",
+   "consumer_safe": true,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "aqueous",
+    "aqua",
+    "distilled water"
+   ]
+  },
+  {
+   "id": "ethanol-water",
+   "label": "Ethanol / water (hydroethanol)",
+   "polarity": "variable",
+   "consumer_safe": true,
+   "takes_concentration": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "hydroethanol",
+    "EtOH",
+    "aqueous ethanol",
+    "spirit",
+    "menstruum"
+   ]
+  },
+  {
+   "id": "ethanol-absolute",
+   "label": "Absolute / near-absolute ethanol",
+   "polarity": "low",
+   "consumer_safe": true,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "96% ethanol",
+    "absolute alcohol",
+    "rectified spirit"
+   ]
+  },
+  {
+   "id": "glycerol-water",
+   "label": "Glycerol / water",
+   "polarity": "high",
+   "consumer_safe": true,
+   "takes_concentration": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "glycerite",
+    "glycerin",
+    "hydroglycerol"
+   ]
+  },
+  {
+   "id": "acidified-water",
+   "label": "Acidified water",
+   "polarity": "high",
+   "consumer_safe": true,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "citric acid solution",
+    "pH-adjusted water"
+   ]
+  },
+  {
+   "id": "acidified-ethanol-water",
+   "label": "Acidified ethanol / water",
+   "polarity": "variable",
+   "consumer_safe": true,
+   "takes_concentration": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "acidulated menstruum",
+    "acidified alcohol"
+   ]
+  },
+  {
+   "id": "acetic-acid-water",
+   "label": "Acetic (vinegar) menstruum",
+   "polarity": "high",
+   "consumer_safe": true,
+   "takes_concentration": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "vinegar",
+    "acetum",
+    "acetous tincture",
+    "oxymel base"
+   ]
+  },
+  {
+   "id": "fixed-oil",
+   "label": "Fixed oil",
+   "polarity": "low",
+   "consumer_safe": true,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "olive oil",
+    "carrier oil",
+    "infused oil",
+    "oleum"
+   ]
+  },
+  {
+   "id": "steam",
+   "label": "Steam / water vapour",
+   "polarity": "high",
+   "consumer_safe": true,
+   "takes_concentration": false,
+   "requires_menstruum": false,
+   "synonyms": [
+    "hydrodistillation medium",
+    "steam"
+   ]
+  },
+  {
+   "id": "alkaline-water",
+   "label": "Alkaline water",
+   "polarity": "high",
+   "consumer_safe": false,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "sodium carbonate solution",
+    "alkali extraction"
+   ]
+  },
+  {
+   "id": "supercritical-co2",
+   "label": "Supercritical CO2",
+   "polarity": "low",
+   "consumer_safe": false,
+   "takes_concentration": false,
+   "requires_menstruum": false,
+   "synonyms": [
+    "scCO2",
+    "SFE"
+   ]
+  },
+  {
+   "id": "methanol-water",
+   "label": "Methanol / water",
+   "polarity": "variable",
+   "consumer_safe": false,
+   "takes_concentration": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "MeOH",
+    "aqueous methanol"
+   ]
+  },
+  {
+   "id": "acetone-water",
+   "label": "Acetone / water",
+   "polarity": "variable",
+   "consumer_safe": false,
+   "takes_concentration": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "acetone",
+    "70% acetone"
+   ]
+  },
+  {
+   "id": "ethyl-acetate",
+   "label": "Ethyl acetate",
+   "polarity": "low",
+   "consumer_safe": false,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "EtOAc"
+   ]
+  },
+  {
+   "id": "hexane",
+   "label": "Hexane",
+   "polarity": "nonpolar",
+   "consumer_safe": false,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "n-hexane",
+    "petroleum ether"
+   ]
+  },
+  {
+   "id": "chloroform",
+   "label": "Chloroform",
+   "polarity": "low",
+   "consumer_safe": false,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "trichloromethane"
+   ]
+  },
+  {
+   "id": "dichloromethane",
+   "label": "Dichloromethane",
+   "polarity": "low",
+   "consumer_safe": false,
+   "takes_concentration": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "DCM",
+    "methylene chloride"
+   ]
+  },
+  {
+   "id": "none",
+   "label": "No solvent",
+   "polarity": "n-a",
+   "consumer_safe": true,
+   "takes_concentration": false,
+   "requires_menstruum": false,
+   "synonyms": [
+    "solventless",
+    "neat"
+   ]
+  }
+ ],
+ "methods": [
+  {
+   "id": "infusion",
+   "label": "Infusion (hot steep)",
+   "category": "traditional-domestic",
+   "heat_profile": "hot-off-boil",
+   "consumer_reproducible": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "tea",
+    "tisane",
+    "hot infusion"
+   ]
+  },
+  {
+   "id": "cold-infusion",
+   "label": "Cold infusion (cold macerate)",
+   "category": "traditional-domestic",
+   "heat_profile": "ambient",
+   "consumer_reproducible": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "cold macerate",
+    "overnight steep",
+    "cold water extract"
+   ]
+  },
+  {
+   "id": "decoction",
+   "label": "Decoction (simmer)",
+   "category": "traditional-domestic",
+   "heat_profile": "boiling",
+   "consumer_reproducible": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "simmer",
+    "decoct"
+   ]
+  },
+  {
+   "id": "dual-extraction",
+   "label": "Dual extraction (decoction plus tincture, combined)",
+   "category": "traditional-domestic",
+   "heat_profile": "mixed",
+   "consumer_reproducible": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "double extraction"
+   ]
+  },
+  {
+   "id": "maceration",
+   "label": "Maceration",
+   "category": "traditional-domestic",
+   "heat_profile": "ambient",
+   "consumer_reproducible": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "steeping",
+    "cold maceration",
+    "jar method",
+    "folk method"
+   ]
+  },
+  {
+   "id": "percolation",
+   "label": "Percolation",
+   "category": "traditional-domestic",
+   "heat_profile": "ambient",
+   "consumer_reproducible": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "cone percolation"
+   ]
+  },
+  {
+   "id": "oil-infusion-cold",
+   "label": "Cold oil infusion",
+   "category": "traditional-domestic",
+   "heat_profile": "ambient",
+   "consumer_reproducible": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "solar infusion",
+    "cold-infused oil"
+   ]
+  },
+  {
+   "id": "oil-infusion-heated",
+   "label": "Heated oil infusion",
+   "category": "traditional-domestic",
+   "heat_profile": "warm",
+   "consumer_reproducible": true,
+   "requires_menstruum": true,
+   "synonyms": [
+    "double-boiler infusion",
+    "warm oil maceration"
+   ]
+  },
+  {
+   "id": "expression",
+   "label": "Expression (pressing)",
+   "category": "traditional-domestic",
+   "heat_profile": "ambient",
+   "consumer_reproducible": true,
+   "requires_menstruum": false,
+   "synonyms": [
+    "cold press",
+    "juicing",
+    "pressing"
+   ]
+  },
+  {
+   "id": "crush-and-rest",
+   "label": "Crush and rest (enzymatic conversion)",
+   "category": "traditional-domestic",
+   "heat_profile": "ambient",
+   "consumer_reproducible": true,
+   "requires_menstruum": false,
+   "synonyms": [
+    "chop and wait",
+    "enzymatic activation"
+   ]
+  },
+  {
+   "id": "steam-distillation",
+   "label": "Steam distillation",
+   "category": "industrial",
+   "heat_profile": "boiling",
+   "consumer_reproducible": false,
+   "requires_menstruum": false,
+   "synonyms": [
+    "SD",
+    "distillation"
+   ]
+  },
+  {
+   "id": "hydrodistillation",
+   "label": "Hydrodistillation (Clevenger)",
+   "category": "industrial",
+   "heat_profile": "boiling",
+   "consumer_reproducible": false,
+   "requires_menstruum": false,
+   "synonyms": [
+    "Clevenger",
+    "HD",
+    "water distillation"
+   ]
+  },
+  {
+   "id": "reflux",
+   "label": "Heated reflux",
+   "category": "industrial",
+   "heat_profile": "boiling",
+   "consumer_reproducible": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "HRE",
+    "heat-reflux extraction"
+   ]
+  },
+  {
+   "id": "spray-drying",
+   "label": "Spray drying",
+   "category": "industrial",
+   "heat_profile": "hot",
+   "consumer_reproducible": false,
+   "requires_menstruum": false,
+   "synonyms": [
+    "dry extract production"
+   ]
+  },
+  {
+   "id": "uae",
+   "label": "Ultrasound-assisted extraction",
+   "category": "laboratory",
+   "heat_profile": "warm",
+   "consumer_reproducible": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "ultrasound-assisted",
+    "sonication",
+    "ultrasonic bath"
+   ]
+  },
+  {
+   "id": "mae",
+   "label": "Microwave-assisted extraction",
+   "category": "laboratory",
+   "heat_profile": "hot",
+   "consumer_reproducible": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "microwave-assisted",
+    "microwave extraction"
+   ]
+  },
+  {
+   "id": "soxhlet",
+   "label": "Soxhlet extraction",
+   "category": "laboratory",
+   "heat_profile": "boiling",
+   "consumer_reproducible": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "continuous solvent extraction"
+   ]
+  },
+  {
+   "id": "sfe",
+   "label": "Supercritical fluid extraction",
+   "category": "laboratory",
+   "heat_profile": "warm",
+   "consumer_reproducible": false,
+   "requires_menstruum": false,
+   "synonyms": [
+    "scCO2 extraction"
+   ]
+  },
+  {
+   "id": "ple",
+   "label": "Pressurised liquid extraction",
+   "category": "laboratory",
+   "heat_profile": "hot",
+   "consumer_reproducible": false,
+   "requires_menstruum": true,
+   "synonyms": [
+    "PLE",
+    "ASE",
+    "accelerated solvent extraction"
+   ]
+  },
+  {
+   "id": "none",
+   "label": "No extraction step",
+   "category": "normative",
+   "heat_profile": "n-a",
+   "consumer_reproducible": true,
+   "requires_menstruum": false,
+   "synonyms": [
+    "not applicable"
+   ]
+  }
+ ],
+ "classes": [
+  {
+   "id": "volatile-terpenoid",
+   "label": "Volatile terpenoids",
+   "category": "terpenoid",
+   "solvents": [
+    "steam",
+    "ethanol-water",
+    "ethanol-absolute",
+    "fixed-oil",
+    "supercritical-co2"
+   ],
+   "heat_stability": "labile",
+   "volatility": "high",
+   "glycosidic": false
+  },
+  {
+   "id": "volatile-phenol",
+   "label": "Volatile phenols",
+   "category": "terpenoid",
+   "solvents": [
+    "water",
+    "ethanol-water",
+    "steam"
+   ],
+   "heat_stability": "moderate",
+   "volatility": "moderate",
+   "glycosidic": false
+  },
+  {
+   "id": "volatile-oil-complex",
+   "label": "Essential oil (whole distillable fraction)",
+   "category": "terpenoid",
+   "solvents": [
+    "steam",
+    "ethanol-absolute",
+    "supercritical-co2"
+   ],
+   "heat_stability": "labile",
+   "volatility": "high",
+   "glycosidic": false
+  },
+  {
+   "id": "lipophilic-terpenoid",
+   "label": "Lipophilic terpenoids (non-volatile)",
+   "category": "terpenoid",
+   "solvents": [
+    "ethanol-water",
+    "ethanol-absolute",
+    "fixed-oil",
+    "supercritical-co2"
+   ],
+   "heat_stability": "stable",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "sesquiterpene-lactone",
+   "label": "Sesquiterpene lactones",
+   "category": "terpenoid",
+   "solvents": [
+    "ethanol-water"
+   ],
+   "heat_stability": "labile",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "nonpolar-lipid",
+   "label": "Fixed oils and nonpolar lipids",
+   "category": "lipid",
+   "solvents": [
+    "fixed-oil",
+    "supercritical-co2",
+    "hexane"
+   ],
+   "heat_stability": "moderate",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "saponin-glycoside",
+   "label": "Saponin glycosides",
+   "category": "glycoside",
+   "solvents": [
+    "water",
+    "ethanol-water"
+   ],
+   "heat_stability": "stable",
+   "volatility": "none",
+   "glycosidic": true
+  },
+  {
+   "id": "flavonoid-glycoside",
+   "label": "Flavonoid glycosides",
+   "category": "glycoside",
+   "solvents": [
+    "water",
+    "ethanol-water"
+   ],
+   "heat_stability": "stable",
+   "volatility": "none",
+   "glycosidic": true
+  },
+  {
+   "id": "flavonoid-aglycone",
+   "label": "Flavonoid aglycones",
+   "category": "glycoside",
+   "solvents": [
+    "ethanol-water",
+    "ethanol-absolute"
+   ],
+   "heat_stability": "stable",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "anthocyanin",
+   "label": "Anthocyanins",
+   "category": "glycoside",
+   "solvents": [
+    "acidified-water",
+    "acidified-ethanol-water"
+   ],
+   "heat_stability": "labile",
+   "volatility": "none",
+   "glycosidic": true
+  },
+  {
+   "id": "anthraquinone-glycoside",
+   "label": "Anthraquinone glycosides",
+   "category": "glycoside",
+   "solvents": [
+    "water",
+    "ethanol-water"
+   ],
+   "heat_stability": "stable",
+   "volatility": "none",
+   "glycosidic": true
+  },
+  {
+   "id": "iridoid-glycoside",
+   "label": "Iridoid glycosides",
+   "category": "glycoside",
+   "solvents": [
+    "water",
+    "ethanol-water"
+   ],
+   "heat_stability": "labile",
+   "volatility": "none",
+   "glycosidic": true
+  },
+  {
+   "id": "proanthocyanidin",
+   "label": "Proanthocyanidins and flavan-3-ols",
+   "category": "phenolic",
+   "solvents": [
+    "water",
+    "ethanol-water",
+    "acetone-water"
+   ],
+   "heat_stability": "moderate",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "hydrolysable-tannin",
+   "label": "Hydrolysable tannins",
+   "category": "phenolic",
+   "solvents": [
+    "water",
+    "ethanol-water"
+   ],
+   "heat_stability": "labile",
+   "volatility": "none",
+   "glycosidic": true
+  },
+  {
+   "id": "phenolic-acid-free",
+   "label": "Free phenolic acids",
+   "category": "phenolic",
+   "solvents": [
+    "water",
+    "ethanol-water"
+   ],
+   "heat_stability": "stable",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "phenolic-ester-labile",
+   "label": "Labile phenolic esters",
+   "category": "phenolic",
+   "solvents": [
+    "ethanol-water"
+   ],
+   "heat_stability": "moderate",
+   "volatility": "none",
+   "glycosidic": true
+  },
+  {
+   "id": "lipophilic-phenolic-labile",
+   "label": "Lipophilic labile phenolics",
+   "category": "phenolic",
+   "solvents": [
+    "ethanol-water",
+    "ethanol-absolute",
+    "fixed-oil"
+   ],
+   "heat_stability": "labile",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "coumarin",
+   "label": "Coumarins",
+   "category": "phenolic",
+   "solvents": [
+    "ethanol-water"
+   ],
+   "heat_stability": "moderate",
+   "volatility": "slight",
+   "glycosidic": true
+  },
+  {
+   "id": "lignan",
+   "label": "Lignans",
+   "category": "phenolic",
+   "solvents": [
+    "ethanol-water"
+   ],
+   "heat_stability": "stable",
+   "volatility": "none",
+   "glycosidic": true
+  },
+  {
+   "id": "mucilage",
+   "label": "Mucilage",
+   "category": "polysaccharide",
+   "solvents": [
+    "water"
+   ],
+   "heat_stability": "labile",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "storage-polysaccharide",
+   "label": "Storage polysaccharides",
+   "category": "polysaccharide",
+   "solvents": [
+    "water"
+   ],
+   "heat_stability": "requires-heat",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "fungal-beta-glucan",
+   "label": "Fungal beta-glucans",
+   "category": "polysaccharide",
+   "solvents": [
+    "water",
+    "alkaline-water"
+   ],
+   "heat_stability": "requires-heat",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "alkaloid",
+   "label": "Alkaloids",
+   "category": "alkaloid",
+   "solvents": [
+    "acidified-ethanol-water",
+    "ethanol-water",
+    "water"
+   ],
+   "heat_stability": "moderate",
+   "volatility": "slight",
+   "glycosidic": true
+  },
+  {
+   "id": "organosulfur-thiosulfinate",
+   "label": "Thiosulfinates (organosulfur)",
+   "category": "organosulfur",
+   "solvents": [
+    "water",
+    "ethanol-water"
+   ],
+   "heat_stability": "destroyed",
+   "volatility": "high",
+   "glycosidic": false,
+   "methods": [
+    "crush-and-rest",
+    "expression"
+   ]
+  },
+  {
+   "id": "mineral-inert",
+   "label": "Inert mineral constituents",
+   "category": "mineral",
+   "solvents": [
+    "water"
+   ],
+   "heat_stability": "stable",
+   "volatility": "none",
+   "glycosidic": false
+  },
+  {
+   "id": "polar-small-metabolite",
+   "label": "Polar small metabolites",
+   "category": "other",
+   "solvents": [
+    "water",
+    "ethanol-water"
+   ],
+   "heat_stability": "moderate",
+   "volatility": "none",
+   "glycosidic": false
+  }
+ ],
+ "records": []
+}

@@ -28,6 +28,24 @@ anything else.
   **Orphaned entries still ship to the public Knowledge Finder feed** — they are
   visible on the site with nothing pointing to them. Removing a citation from a
   plant is only half the job; the bibliography entry has to go too.
+
+  **PRECONDITION — check this before deleting anything.** The baseline is
+  0 orphans against 3110 declared, so an orphan block that suddenly appears is
+  suspicious by default. `cited` is assembled by `find_refs()` calls inside each
+  entity loop in `validate.py`. If the call inside the `practice/**` loop is
+  missing, every reference cited only by a practice record — extraction-chemistry
+  papers and every pharmacopoeial monograph, i.e. most of that corpus — is
+  reported here as an orphan. Deleting those on this instruction destroys the
+  data, and the next run turns the warnings into exit-1 errors.
+
+  Two checks, both cheap:
+  1. `grep -n "cited.update" scripts/validate.py` — expect **one call per entity
+     loop**, plants and practice at minimum. One call total means the accounting
+     is broken; fix that first and re-run.
+  2. `grep -rn "<REF-ID>" practice/` before removing any entry. A hit means it is
+     cited and the orphan report is wrong.
+
+  Only orphans that survive both checks are real.
 - **`family` is 'Unknown'** — a record published without a confirmed identity.
 
 Note that validate.py deliberately skips `internal_notes` when collecting cited

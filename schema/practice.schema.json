@@ -1,0 +1,229 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://omniasana.bio/schema/practice.schema.json",
+  "title": "Practice record (applied corpus)",
+  "description": "One record in the APPLIED corpus: practice/<id>.yaml. NOTE FIRST: nothing in this repo loads JSON Schema — there is no jsonschema import in scripts/. This file is a DOCUMENTATION CONTRACT. Every constraint expressed here as required/minItems/enum is enforced imperatively in scripts/validate.py, and that is the copy that runs. If the two disagree, validate.py wins and this file is the bug. A plant record answers 'what does this species do in people'; a practice record answers 'what comes out of this material under these conditions, and how do we know'. The evidence ladders invert: a designed bench experiment is the gold standard here and a review cannot carry a record at all. Do NOT reuse TIER_BASE / score_from_tiers from scripts/build.py — they feed indication_score, plants.json and symptoms.json, and touching them silently rescores the whole site.",
+  "type": "object",
+  "required": ["id", "record_type", "parameter_kind", "species_scope", "key", "status", "last_updated"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*(--[a-z0-9]+(-[a-z0-9]+)*)*$", "description": "Stable slug and filename stem. Compose from the key: flavonoid--ethanol-water--maceration."},
+    "record_type": {
+      "type": "string",
+      "enum": ["extraction", "stability", "dose-form-conversion", "harvest-timing", "identification", "cultivation", "post-harvest"],
+      "description": "Q1 type discriminator, so practice/ can grow beyond extraction without a rename. LIVE: extraction, stability, dose-form-conversion. RESERVED and rejected by validate.py's PRACTICE_TYPES_LIVE: harvest-timing, identification, cultivation, post-harvest."
+    },
+    "parameter_kind": {
+      "type": "string",
+      "enum": ["empirical", "normative"],
+      "description": "empirical = an optimum, kinetic, half-life or yield; only experimental findings are admissible. normative = a definition, ratio convention, identity criterion or dose-form equivalence; only pharmacopoeial findings are admissible. A standard mandating 70% ethanol is a committee decision, not a measured optimum, and contributes nothing to an empirical record."
+    },
+    "label": {"type": "string", "description": "Display label for the Knowledge Finder and the calculator provenance panel."},
+    "status": {"type": "string", "enum": ["draft", "approved"], "description": "draft is written ONLY to build/practice.v1.draft.json, which is gitignored by build/*.draft.json and therefore never reaches osdb/main or the site."},
+    "species_scope": {"type": "string", "enum": ["class-general", "species-specific"]},
+    "species": {"type": "string", "pattern": "^[A-Z][a-z]+ [a-z][a-z-]+$", "description": "Required when species_scope is species-specific. Invariant 2 applies in full: every finding's binomial must match."},
+    "off_corpus": {"type": "boolean", "description": "True when a species-specific record deliberately concerns a species with no plants/ record."},
+    "key": {
+      "type": "object",
+      "required": ["compound_id", "part", "solvent", "method"],
+      "additionalProperties": false,
+      "description": "The join key. Keyed on an EXISTING compound id (validate.py's K set), not on a new class vocabulary. extraction_class is an optional disambiguator drawn from vocabularies/extraction_classes.yaml, used only where the compound id spans classes with different optima (flavonoid, tannin, polysaccharide, terpene, glycoside, phenolic-compound). An unresolved ambiguous id degrades to NO RECOMMENDATION.",
+      "properties": {
+        "compound_id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Must resolve to compounds/<id>.yaml."},
+        "extraction_class": {"type": ["string", "null"], "pattern": "^[a-z0-9-]+$", "description": "Optional disambiguator -> vocabularies/extraction_classes.yaml."},
+        "part": {"type": "null", "description": "FROZEN in v1. plants[].parts_used is 58 distinct dirty free-text strings with no enum and no rule, and constituents[] carries no part attribution at all, so the part axis cannot be populated from plant data. validate.py hard-errors on any non-null value. PART_RATIOS stays hardcoded and labelled unsourced until the parts cleanup lands."},
+        "solvent": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "-> vocabularies/solvents.yaml. Concentration is never part of the id."},
+        "method": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "-> vocabularies/extraction_methods.yaml."},
+        "target_analyte": {"type": "string", "description": "Optional narrowing. Does not participate in the join."}
+      }
+    },
+    "findings": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/finding"}},
+    "recommendation": {"$ref": "#/$defs/recommendation"},
+    "avoid": {
+      "type": "array",
+      "description": "Negative results. A precaution is CHEAPER to assert than an instruction: an avoid[] entry may be backed by references[] carrying method_type review-context, and a record with a non-empty avoid[] may be approved with no recommendation at all.",
+      "items": {
+        "type": "object",
+        "required": ["solvent", "reason"],
+        "additionalProperties": false,
+        "properties": {
+          "solvent": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+          "method": {"type": ["string", "null"], "pattern": "^[a-z0-9-]+$"},
+          "above_concentration_pct": {"type": ["number", "null"], "minimum": 0, "maximum": 100},
+          "reason": {"type": "string", "maxLength": 400},
+          "derived_from": {"type": "array", "uniqueItems": true, "items": {"type": "string", "pattern": "^F\\d+$"}},
+          "context_reference_ids": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}}
+        }
+      }
+    },
+    "conversion": {"$ref": "#/$defs/conversion"},
+    "generalisation": {
+      "type": "object",
+      "required": ["basis", "rationale"],
+      "additionalProperties": false,
+      "description": "Required when species_scope is class-general. Generalising is never implicit. source_taxa is DERIVED in build.py from findings[].material.species and must not be authored.",
+      "properties": {
+        "basis": {"type": "string", "enum": ["physicochemical", "matrix-analogous"]},
+        "rationale": {"type": "string", "minLength": 80, "maxLength": 1200, "description": "WHY the chemistry carries across species. 'Similar compounds' is not a rationale and fails on length."},
+        "excluded_taxa": {"type": "array", "items": {"type": "string", "pattern": "^[A-Z][a-z]+ [a-z][a-z-]+$"}},
+        "reviewed_by": {"type": "string"},
+        "reviewed_date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"}
+      }
+    },
+    "limit_rationale": {"type": "string", "minLength": 120, "maxLength": 1200, "description": "REQUIRED when the keyed compound carries a non-none toxicity_flag in compounds/<id>.yaml. States the dose or route limit and why the recommendation does not maximise recovery. A recommendation is a preparation that is safe and traditionally correct; it is never the argmax of a yield table."},
+    "discordance_note": {"type": "string", "maxLength": 800, "description": "REQUIRED at approved when any admissible finding's optimum falls outside the recommended band. Deleting the inconvenient finding to lift a score is falsifying the grade."},
+    "references": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}, "description": "Background sources. May back an avoid[] entry; may never back a recommendation."},
+    "context_reference_ids": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}, "description": "Reviews and orientation. Contribute nothing to the score."},
+    "reviewed_by": {"type": "string"},
+    "reviewed_date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "verified_by": {"type": "string", "description": "REQUIRED at approved and MUST differ from reviewed_by. Means a second person opened the cited PDFs and checked the locators. This is the only externally-real half of the anti-skim design."},
+    "verified_date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "internal_notes": {"type": "string", "description": "NEVER published. The field name is load-bearing: validate.py's PROSE_KEYS keys on this literal string. build.py protects practice records differently — practice_rows() is an explicit allowlist — but a renamed field would still be walked by find_refs(), and every REF mentioned in a dead-end note would count as cited."},
+    "species_overrides": {
+      "type": "array",
+      "description": "Species-specific departures from a class-general record. plant_id must resolve to plants/<id>.yaml — validate.py checks this via practice_plant_refs.",
+      "items": {
+        "type": "object",
+        "required": ["plant_id", "note"],
+        "additionalProperties": false,
+        "properties": {
+          "plant_id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+          "note": {"type": "string", "maxLength": 600},
+          "context_reference_ids": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}},
+          "findings": {"type": "array", "items": {"$ref": "#/$defs/finding"}}
+        }
+      }
+    },
+    "last_updated": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"}
+  },
+  "$defs": {
+    "finding": {
+      "type": "object",
+      "required": ["id", "ref_id", "method_type", "fulltext_source", "locator", "material", "varied_factor", "conditions", "outcome"],
+      "additionalProperties": false,
+      "description": "One paper, one condition set, one measured number. Six solvent levels in one paper is six findings sharing a ref_id.",
+      "properties": {
+        "id": {"type": "string", "pattern": "^F\\d+$", "description": "Record-local handle. recommendation.derived_from points here."},
+        "ref_id": {"type": "string", "pattern": "^REF-\\d{4,}$"},
+        "method_type": {
+          "type": "string",
+          "enum": ["optimisation", "comparative-bench", "characterisation", "pharmacopoeial", "method-review", "traditional-text"],
+          "description": "The practice tier, held on the FINDING and not on the bibtex entry: one paper can be optimisation for the solvent axis and characterisation for temperature, and a per-source grade would be wrong half the time. It also means reusing an existing clinical REF needs no bibliography edit. Bases: optimisation 7, pharmacopoeial 6, comparative-bench 5, characterisation 3, method-review 0, traditional-text 0. method-review and traditional-text MAY NOT appear in findings[] at all — validate.py rejects them; they belong in context_reference_ids[]."
+        },
+        "design": {"type": "string", "enum": ["rsm-ccd", "rsm-bbd", "factorial", "taguchi", "mixture", "multi-level-sweep", "two-level", "single-condition", "normative"], "description": "NOT all values are legal at every tier, and validate.py only enforces this field at method_type: optimisation, where it requires one of DOE_DESIGNS = {rsm-ccd, rsm-bbd, factorial, taguchi, mixture, multi-level-sweep}. The other three are for lower tiers: 'single-condition' for characterisation, 'normative' for pharmacopoeial, and 'two-level' for a comparative-bench screening run. 'two-level' is deliberately NOT an optimisation design — two levels cannot fit curvature, so a two-level run can say which factors matter but not where the optimum is, and claiming optimisation tier on one is the overclaim this field exists to catch."},
+        "authority": {"type": "string", "enum": ["ph-eur", "usp-nf", "bhp", "ahp", "bp", "who-monographs", "escop"], "description": "Pharmacopoeial findings only. Doubles as the independence key: two editions of one body are one voice."},
+        "fulltext_source": {"type": "string", "enum": ["doi-pdf", "pmc", "publisher-html", "institutional", "author-copy", "print", "pharmacopoeia-subscription"], "description": "Where the full text was actually read. There is no value meaning 'abstract only', because an abstract cannot produce a finding."},
+        "locator": {
+          "type": "object",
+          "required": ["section"],
+          "additionalProperties": false,
+          "properties": {
+            "section": {"type": "string", "enum": ["methods", "results", "table", "figure", "supplementary", "monograph"]},
+            "table": {"type": "string"},
+            "figure": {"type": "string"},
+            "page": {"type": "integer", "minimum": 1},
+            "monograph": {"type": "string", "description": "Pharmacopoeial only, e.g. '1559'."},
+            "edition": {"type": "string", "description": "Pharmacopoeial only, e.g. 'Ph. Eur. 11.5'. Monograph numbers persist across editions while their requirements change."}
+          }
+        },
+        "statement_summary": {"type": "string", "maxLength": 300, "description": "Pharmacopoeial findings only. ONE-SENTENCE PARAPHRASE of the requirement, in your own words. NEVER a quotation and never a transcription: these are copyrighted paywalled normative texts. validate.py enforces the length; it is one of the two copyright gates and the highest-consequence check in the file."},
+        "material": {
+          "type": "object",
+          "required": ["species", "part", "state"],
+          "additionalProperties": false,
+          "properties": {
+            "species": {"type": "string", "pattern": "^[A-Z][a-z]+ [a-z][a-z-]+", "description": "As PRINTED in the paper, including when it is a food crop. Writing our species because the congener is close enough is the failure invariant 2 exists to stop."},
+            "part": {"type": "string", "description": "Free text as the paper reports it. NOT a controlled id — the part vocabulary is frozen in v1."},
+            "state": {"type": "string", "enum": ["fresh", "dried", "freeze-dried", "frozen", "unspecified"]},
+            "particle_size_mm": {"type": ["number", "string", "null"], "description": "Number in mm, or the literal 'unspecified'. Declaring it unspecified is honest and caps the finding."},
+            "origin": {"type": "string"}
+          }
+        },
+        "varied_factor": {"type": "string", "enum": ["solvent_pct", "temperature_c", "time_min", "solid_liquid_ratio", "ph", "particle_size_mm", "cycles", "method", "none"]},
+        "conditions": {
+          "type": "object",
+          "required": ["solvent", "temperature_c", "time_min", "solid_liquid_ratio", "method"],
+          "additionalProperties": false,
+          "description": "The Methods tuple. Every required field accepts the literal 'unspecified' where the paper genuinely omits it; such a finding earns a warning and may not be the sole support for an approved recommendation. There is no condition_complete field — it was specified as derived and derived nowhere; the behaviour it named is implemented by that warning and by _check_approval. Rejecting such papers outright is what makes a tired editor invent 1:10.",
+          "properties": {
+            "solvent": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+            "solvent_pct": {"type": ["number", "null"], "minimum": 0, "maximum": 100, "description": "REQUIRED when the solvent has takes_concentration true; MUST be null otherwise. Record the number the paper used (63), never a band."},
+            "temperature_c": {"type": ["number", "string"], "description": "Number in C, or 'unspecified'."},
+            "time_min": {"type": ["number", "string"], "description": "Number in minutes, or 'unspecified'."},
+            "solid_liquid_ratio": {"type": "string", "pattern": "^(\\d+(\\.\\d+)?:\\d+(\\.\\d+)?|unspecified|n-a)$", "description": "ALWAYS QUOTE IT: '1:20', not 1:20. PyYAML applies the YAML 1.1 sexagesimal rule, so unquoted 1:20 loads as the integer 80 and 1:10 as 70 — and only when the second term is <=59, so 1:100 works and 1:20 does not, which is why the bug survives casual testing. validate.py detects the coerced integer and names the cause. Value is '1:20', or 'unspecified', or 'n-a' for methods with requires_menstruum false (expression, crush-and-rest, distillation)."},
+            "ph": {"type": ["number", "null"], "minimum": 0, "maximum": 14},
+            "cycles": {"type": ["integer", "null"], "minimum": 1},
+            "method": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+            "agitation": {"type": "string"},
+            "power_w": {"type": ["number", "null"], "minimum": 0},
+            "frequency_khz": {"type": ["number", "null"], "minimum": 0},
+            "pressure_bar": {"type": ["number", "null"], "minimum": 0}
+          }
+        },
+        "outcome": {
+          "type": "object",
+          "required": ["analyte", "quantification", "value", "unit", "unit_basis"],
+          "additionalProperties": false,
+          "properties": {
+            "analyte": {"type": "string", "minLength": 3},
+            "quantification": {"type": "string", "enum": ["hplc-dad", "hplc-uv", "hplc-ms", "uplc-ms", "gc-ms", "gc-fid", "lc-nmr", "uv-vis", "gravimetric", "titrimetric", "folin-ciocalteu", "aluminium-chloride", "vanillin-hcl", "dpph", "frap", "volumetric-distillation"], "description": "Colorimetric totals and chromatographic quantitation are not the same measurement and must never be compared across findings as if they were."},
+            "value": {"type": "number", "exclusiveMinimum": 0, "description": "To the precision printed, so a spot-check can diff it."},
+            "unit": {"type": "string", "minLength": 1, "description": "Open, e.g. 'mg/g', 'mL/100 g', '% v/w', 'mg RE/g'. A closed 9-value enum silently destroyed the reference standard."},
+            "unit_basis": {"type": "string", "enum": ["dry-weight", "fresh-weight", "extract", "volume", "unspecified"]},
+            "reference_standard": {"type": "string", "description": "Rutin, gallic acid, quercetin. An equivalence unit without its standard is not a unit."},
+            "dispersion": {"type": "string"},
+            "comparator_levels": {"type": "array", "items": {"type": ["number", "string"]}, "description": "EVERY level the Methods say was tested, not just the winner. Abstracts report the winner; only Methods report the set."},
+            "optimum_level": {"type": ["number", "null"]},
+            "optimum_value": {"type": ["string", "null"]},
+            "is_optimum_stated": {"type": "boolean", "description": "True only when the authors themselves name this the optimum. Never assert it by picking the largest number in a table."}
+          }
+        },
+        "research_group": {"type": "string", "description": "First-author surname or lab identity. THE independence key for the >=2-independent-groups approval rule: without it practice_independence_key() falls back to ref_id and two papers from one lab count as two voices. Set it on every non-pharmacopoeial finding."},
+        "note": {"type": "string", "maxLength": 600}
+      }
+    },
+    "recommendation": {
+      "type": "object",
+      "required": ["parameter", "solvent", "method", "route", "statement", "derived_from"],
+      "additionalProperties": false,
+      "description": "What the calculator is permitted to say. Enforced in validate.py: solvent must be consumer_safe, method must be consumer_reproducible, every derived_from handle must resolve, the recommended band must lie inside the envelope swept BY FINDINGS IN THE SAME SOLVENT VARYING THE SAME PARAMETER, and at least one such finding must be optimisation or comparative-bench.",
+      "properties": {
+        "parameter": {"type": "string", "enum": ["solvent_pct", "temperature_c", "time_min", "solid_liquid_ratio", "ph", "cycles", "shelf_life_months", "drug_extract_ratio"]},
+        "solvent": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "REQUIRED. Without it a bare band renders in an ethanol calculator as an ethanol instruction, even when every finding was a methanol sweep."},
+        "method": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+        "route": {"type": "string", "enum": ["internal", "topical"], "description": "REQUIRED. A record keyed on a compound flagged topical-only may only be topical."},
+        "range": {"type": "array", "minItems": 2, "maxItems": 2, "items": {"type": "number"}},
+        "value": {"type": "string"},
+        "unit": {"type": "string"},
+        "jurisdiction": {"type": "string", "description": "REQUIRED when parameter_kind is normative. A definitional claim needs no replication but must be scoped: 'Ph. Eur. defines a tincture as 1:5 in 70% ethanol.'"},
+        "statement": {"type": "string", "maxLength": 400},
+        "rationale": {"type": "string", "maxLength": 800},
+        "derived_from": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"type": "string", "pattern": "^F\\d+$"}}
+      }
+    },
+    "conversion": {
+      "type": "object",
+      "required": ["input_form", "output_form", "drug_extract_ratio", "equivalence"],
+      "additionalProperties": false,
+      "description": "Dose-FORM arithmetic ONLY. Species-specific traditional and pharmacopoeial dose RANGES stay in plants[].dosage[]. Putting a dose here would let a class-general record imply a species-specific dose.",
+      "properties": {
+        "input_form": {"type": "string", "enum": ["dried-herb", "fresh-herb", "powdered-drug"]},
+        "output_form": {"type": "string", "enum": ["tincture", "fluid-extract", "soft-extract", "dry-extract", "glycerite", "acetous-tincture", "infusion", "decoction", "infused-oil"]},
+        "drug_extract_ratio": {"type": "string", "pattern": "^1:\\d+(\\.\\d+)?$"},
+        "menstruum_ethanol_pct": {"type": ["number", "null"], "minimum": 0, "maximum": 100},
+        "menstruum_glycerol_pct": {"type": ["number", "null"], "minimum": 0, "maximum": 100, "description": "Backs GLYCERITE_MIX 75/25. Glycerol's co-solvent role and its preservation threshold are two different numbers; cite findings for each."},
+        "equivalence": {
+          "type": "object",
+          "required": ["preparation_ml", "dried_herb_g"],
+          "additionalProperties": false,
+          "properties": {
+            "preparation_ml": {"type": "number", "exclusiveMinimum": 0},
+            "dried_herb_g": {"type": "number", "exclusiveMinimum": 0},
+            "basis": {"type": "string", "enum": ["nominal-ratio", "gravimetric-solids"]}
+          }
+        },
+        "marc_retention_ml_per_g": {"type": ["number", "null"], "minimum": 0}
+      }
+    }
+  }
+}

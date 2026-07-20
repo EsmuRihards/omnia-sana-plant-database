@@ -21,6 +21,7 @@ BIB = os.path.join(ROOT, "bibliography.bibtex")
 PLANTS = os.path.join(ROOT, "plants")
 VOCAB = os.path.join(ROOT, "vocabularies")
 COMPDIR = os.path.join(ROOT, "compounds")
+PRACTICE = os.path.join(ROOT, "practice")
 OUT = os.path.join(ROOT, "build")
 
 # Floor for indications written to symptoms.json (the Symptom-tool feed), on the
@@ -222,6 +223,141 @@ def score_from_tiers(tiers):
     return max(1, min(10, base + bonus))
 
 
+# ---- PRACTICE CORPUS: the inverted evidence ladder ---------------------------
+# TIER_BASE above answers "does this happen in a human body?". This one answers
+# "does this number reproduce on a bench?". They INVERT and must never be
+# interchanged. Do NOT touch TIER_BASE/score_from_tiers to accommodate practice:
+# they feed indication_score -> plants.json and symptoms.json, and editing them
+# silently moves every evidence number on the site.
+#
+#   * A REVIEW is the top clinical tier and scores ZERO here — it reports no
+#     single (solvent, temperature, time, ratio, yield) tuple, so under the rule
+#     that recommendations come from Methods and Results it cannot carry a record.
+#   * A designed, quantified bench experiment is the BOTTOM clinical tier and the
+#     TOP tier here.
+#   * An RCT has no tier here at all. It is not evidence about extraction.
+#
+# method_type lives on the FINDING, not on the bibtex entry: one paper is
+# 'optimisation' for the solvent axis and 'characterisation' for temperature, and
+# a per-source grade would have to pick one and be wrong half the time. It also
+# means reusing an existing clinical REF needs no bibliography edit.
+PRACTICE_METHOD_TYPES = {
+    "optimisation": "optimisation", "rsm": "optimisation", "factorial": "optimisation",
+    "comparative-bench": "comparative-bench",
+    "characterisation": "characterisation",
+    "pharmacopoeial": "pharmacopoeial",
+    "method-review": "method-review", "traditional-text": "traditional-text",
+}
+PRACTICE_TIER_BASE = {"optimisation": 7, "pharmacopoeial": 6, "comparative-bench": 5,
+                      "characterisation": 3, "method-review": 0, "traditional-text": 0}
+PRACTICE_FINDING_TIERS = {"optimisation", "comparative-bench", "characterisation",
+                          "pharmacopoeial"}
+# A normative standard is not a measurement of the world; it is a definition of it.
+# Ph. Eur. 1559 does not report that 1:5 is optimal — it defines what may be CALLED
+# a tincture. So it is authoritative for its own question and inadmissible for the
+# other, in BOTH directions.
+ADMISSIBLE_TIERS = {"empirical": {"optimisation", "comparative-bench", "characterisation"},
+                    "normative": {"pharmacopoeial"}}
+# Presentation. DELIBERATELY NOT the clinical 1-10 dots and NOT os-scoring.php: a
+# user who has learned ten dots means "strong human evidence this plant works"
+# will read ten dots on an extraction record as exactly that, when it means "three
+# labs agree about a solvent percentage". The two can sit a few hundred pixels
+# apart on one page. This artifact NEVER emits a key named `evidence`, so a
+# renderer written against the clinical contract renders nothing rather than the
+# wrong thing.
+PRACTICE_BANDS = ((8, "established"), (5, "supported"), (2, "provisional"), (1, "insufficient"))
+
+
+def practice_band(idx):
+    for floor, name in PRACTICE_BANDS:
+        if idx >= floor:
+            return name
+    return "insufficient"
+
+
+def practice_independence_key(fi):
+    """Identity of the RESEARCH GROUP. Concordance counts independent replication,
+    not one lab's serial papers. Two editions of Ph. Eur. are one voice. Surname
+    collisions merge two unrelated authors — a deliberate conservative bias: the
+    error can only LOWER a score, never raise one."""
+    auth = (fi.get("authority") or "").strip().lower()
+    if auth:
+        return "authority:" + auth
+    grp = (fi.get("research_group") or "").strip().lower()
+    if grp:
+        return "group:" + re.sub(r"[^a-z]", "", grp)
+    return "ref:" + str(fi.get("ref_id") or "")
+
+
+def practice_in_band(fi, rec):
+    """True / False / None. None = reports no optimum, so counts neither way.
+    Compares ONLY on the recommended axis and (for solvent_pct) the recommended
+    solvent: a temperature optimum of 70 C is not concordance with a 60-75%
+    ethanol band. No tolerance — widening a band is a visible one-line diff."""
+    r = rec.get("recommendation") or {}
+    out = fi.get("outcome") or {}
+    param = r.get("parameter")
+    if fi.get("varied_factor") != param:
+        return None
+    if (fi.get("conditions") or {}).get("solvent") != r.get("solvent"):
+        return None   # Same partition as validate.py's envelope, on every axis.
+    rng = r.get("range")
+    x = out.get("optimum_level")
+    if isinstance(rng, list) and len(rng) == 2 and all(isinstance(y, (int, float)) for y in rng) \
+       and isinstance(x, (int, float)) and not isinstance(x, bool):
+        return rng[0] <= x <= rng[1]
+    val, want = out.get("optimum_value"), r.get("value")
+    if isinstance(val, str) and isinstance(want, str):
+        return val.strip().casefold() == want.strip().casefold()
+    return None
+
+
+def practice_finding_rows(rec, findings=None):
+    kind = rec.get("parameter_kind", "empirical")
+    rows = []
+    for fi in (findings if findings is not None else rec.get("findings") or []):
+        if not isinstance(fi, dict):
+            continue
+        tier = PRACTICE_METHOD_TYPES.get((fi.get("method_type") or "").strip().lower(),
+                                         "traditional-text")
+        rows.append({"ref_id": fi.get("ref_id", ""), "tier": tier,
+                     "indep": practice_independence_key(fi),
+                     "admissible": tier in ADMISSIBLE_TIERS.get(kind, set()),
+                     "in_band": practice_in_band(fi, rec)})
+    return rows
+
+
+def practice_n_independent(rows):
+    return len({r["indep"] for r in rows if r["indep"]})
+
+
+def practice_score_from_rows(rows):
+    """base = strongest ADMISSIBLE tier; bonus = independent CONCORDANT findings;
+    penalty = independent DISCORDANT ones. The penalty has no clinical analogue and
+    is the point: a result outside your band is information ABOUT the band, not a
+    null to be bucketed away, and a contested parameter must not score high."""
+    adm = [r for r in rows if r["admissible"]]
+    if not adm:
+        return 1
+    base = max(PRACTICE_TIER_BASE[r["tier"]] for r in adm)
+    conc = practice_n_independent([r for r in adm if r["in_band"] is True])
+    disc = practice_n_independent([r for r in adm if r["in_band"] is False])
+    bonus = 3 if conc >= 4 else 2 if conc == 3 else 1 if conc == 2 else 0
+    penalty = 2 if (disc and disc >= conc) else 1 if disc else 0
+    return max(1, min(10, base + bonus - penalty))
+
+
+def load_practice():
+    """practice/**/*.yaml. A missing directory yields [] — glob on a nonexistent
+    path returns [], so an empty or absent corpus builds green."""
+    out = []
+    for fn in sorted(glob.glob(os.path.join(PRACTICE, "**", "*.yaml"), recursive=True)):
+        d = yaml.safe_load(open(fn, encoding="utf-8"))
+        if isinstance(d, dict):
+            out.append(d)
+    return out
+
+
 def load_plants():
     out = []
     for fn in sorted(glob.glob(os.path.join(PLANTS, "*.yaml"))):
@@ -267,6 +403,36 @@ def main():
         compounds[c["id"]] = c
     plants = load_plants()
     slugs = resolve_common_slugs(plants)
+    # Loaded here, before citations.json, because the corpus dimension and the
+    # practice linkage both feed the citation rows below.
+    practice = load_practice()
+    # Whole-tree walk mirroring validate.py's find_refs(). The ref surface is
+    # findings[], context_reference_ids[], references[], avoid[].context_reference_ids[]
+    # and the whole species_overrides subtree. Hand-enumerating it is how a source
+    # gets silently mislabelled `clinical` in the public library.
+    #
+    # Own pattern, NOT build.py's module-level REF_RE, which is r"REF-\d{3,}" while
+    # validate.py's is r"REF-\d{4,}". No live id is 3-digit so the two agree today, but
+    # "mirrors find_refs()" has to be true of the regex as well as the traversal, or the
+    # corpus derivation and the orphan accounting drift apart the first time a 3-digit
+    # id exists. Do not swap in REF_RE to save a line.
+    _PRACTICE_REF_RE = re.compile(r"REF-\d{4,}")
+    _PROSE = {"internal_notes"}
+
+    def _walk_refs(node):
+        if isinstance(node, dict):
+            for k, v in node.items():
+                if k not in _PROSE:
+                    yield from _walk_refs(v)
+        elif isinstance(node, list):
+            for v in node:
+                yield from _walk_refs(v)
+        elif isinstance(node, str):
+            yield from _PRACTICE_REF_RE.findall(node)
+
+    practice_refs = set()
+    for _pr in practice:
+        practice_refs.update(_walk_refs(_pr))
     # Public-safe drug-class list (NO editor-facing `examples`), shared by vocab.json
     # and interactions.v1.json.
     dc_public = sorted(
@@ -338,6 +504,13 @@ def main():
             "doi": f.get("doi", ""), "url": f.get("url", ""), "link": link, "link_type": lt,
             "citation": citation, "abstract": f.get("abstract", ""),
             "tier": classify_tier(f, e["type"]),
+            # DERIVED, never declared. A derived value cannot drift from reality,
+            # and a paper measuring both extraction yield and bioactivity legitimately
+            # belongs to both — which is why it is an ARRAY. Behaviour when a REF is
+            # cited by neither: ["clinical"], so all 3110 existing entries are
+            # correctly labelled with zero backfill.
+            "corpus": (["clinical"] if e["ref_id"] not in practice_refs
+                       else (["clinical", "practice"] if e["ref_id"] in inv else ["practice"])),
             "display": display_title(f, e["key"]),
             "plants": sorted(pi["plants"]), "scientific": sorted(pi["scientific"]),
             "actions": sorted(pi["actions"]), "conditions": sorted(pi["conditions"]),
@@ -456,7 +629,16 @@ def main():
         "conditions": sym_conditions,
         "drug_classes": dc_public,
         "dangerous_plants": sorted(dp_public.values(), key=lambda d: d["label"].lower()),
-        "compounds": [{"id": c["id"], "name": c["name"], "class": c.get("class", "")} for c in compounds.values()],
+        # Defaults applied HERE, not by JSON Schema (which nothing loads): absent
+        # resolution is 'unresolvable' and absent toxicity_flag is 'avoid-internal',
+        # so an untriaged compound reaches the front end as "no recommendation"
+        # rather than as silence a renderer can misread as "safe".
+        "compounds": [{"id": c["id"], "name": c["name"], "class": c.get("class", ""),
+                       "extraction_class": c.get("extraction_class", []),
+                       "resolution": c.get("resolution", "unresolvable"),
+                       "toxicity_flag": c.get("toxicity_flag", "avoid-internal"),
+                       "regulatory_limit": c.get("regulatory_limit", "")}
+                      for c in compounds.values()],
     })
 
     # ---- names.json (Multilingual Plant-Name Dictionary feed) --------------------
@@ -634,10 +816,78 @@ def main():
           {"schema": "omnia-sana/lookalikes@1", "count": n_draft_rows,
            "plants_covered": len(draft_la), "dangerous_plants": dp_list, "plants": draft_la})
 
+    # ---- practice.v1.json (tincture / formula calculator provenance feed) --------
+    # PUBLIC file carries approved records ONLY. The twin MUST be named
+    # practice.v1.draft.json: that inherits the existing `build/*.draft.json` line in
+    # .gitignore, so it never reaches osdb/main and therefore never reaches the
+    # WordPress sync. Any other name publishes unreviewed extraction recommendations
+    # straight to the live site. This is the highest-consequence name in the change.
+    def practice_rows(status):
+        rows = []
+        for pr in practice:
+            if status and pr.get("status") != status:
+                continue
+            rws = practice_finding_rows(pr)
+            idx = practice_score_from_rows(rws)
+            adm = [r for r in rws if r["admissible"]]
+            k = pr.get("key") or {}
+            rows.append({
+                "id": pr.get("id", ""), "record_type": pr.get("record_type", ""),
+                "parameter_kind": pr.get("parameter_kind", ""),
+                "species_scope": pr.get("species_scope", ""),
+                "compound_id": k.get("compound_id"), "species": pr.get("species", ""),
+                "extraction_class": k.get("extraction_class"), "part": k.get("part"),
+                "solvent": k.get("solvent"), "method": k.get("method"),
+                "recommendation": pr.get("recommendation") or {},
+                "avoid": pr.get("avoid") or [],
+                "source_taxa": sorted({str((f.get("material") or {}).get("species") or "").strip()
+                                       for f in (pr.get("findings") or []) if isinstance(f, dict)
+                                       and (f.get("material") or {}).get("species")}),
+                "excluded_taxa": sorted((pr.get("generalisation") or {}).get("excluded_taxa") or []),
+                "discordance_note": pr.get("discordance_note", ""),
+                "references": sorted({f["ref_id"] for f in (pr.get("findings") or [])
+                                      if isinstance(f, dict) and f.get("ref_id")}),
+                # Method confidence. NOT the clinical evidence scale. `scale` is a hard
+                # assertion a front end can test; there is deliberately no key named
+                # `evidence` anywhere in this row.
+                "confidence_band": practice_band(idx), "confidence_index": idx,
+                "basis_tier": max(adm, key=lambda r: PRACTICE_TIER_BASE[r["tier"]])["tier"] if adm else "",
+                "concordant_sources": practice_n_independent([r for r in adm if r["in_band"] is True]),
+                "discordant_sources": practice_n_independent([r for r in adm if r["in_band"] is False]),
+                "scale": "omnia-sana/method-confidence@1",
+                "status": pr.get("status", ""),
+            })
+        rows.sort(key=lambda r: (str(r["compound_id"] or ""),
+                                 str(r["extraction_class"] or ""), str(r["part"] or ""),
+                                 str(r["solvent"] or ""), str(r["method"] or ""), r["id"]))
+        return rows
+
+    approved_pr, draft_pr = practice_rows("approved"), practice_rows(None)
+    solvents_pub, methods_pub, xclasses_pub = [], [], []
+    for _fn, _sink in ((os.path.join(VOCAB, "solvents.yaml"), solvents_pub),
+                       (os.path.join(VOCAB, "extraction_methods.yaml"), methods_pub),
+                       (os.path.join(VOCAB, "extraction_classes.yaml"), xclasses_pub)):
+        for _v in yaml.safe_load(open(_fn, encoding="utf-8")):
+            # `note` is editorial; `optimal_ethanol_pct` and `compounds` are EDITOR
+            # ORIENTATION with no reference behind them. An unsourced band sitting in
+            # the calculator's own data file is the number that gets used when a class
+            # has no resolved record, so it must not exist in the public artifact.
+            _sink.append({k: v for k, v in _v.items()
+                          if k not in ("note", "optimal_ethanol_pct", "compounds")})
+    write(os.path.join(OUT, "practice.v1.json"),
+          {"schema": "omnia-sana/practice@1", "count": len(approved_pr),
+           "solvents": solvents_pub, "methods": methods_pub, "classes": xclasses_pub,
+           "records": approved_pr})
+    write(os.path.join(OUT, "practice.v1.draft.json"),
+          {"schema": "omnia-sana/practice@1", "count": len(draft_pr),
+           "solvents": solvents_pub, "methods": methods_pub, "classes": xclasses_pub,
+           "records": draft_pr})
+
     # ---- manifest.json (versioning + integrity; no timestamp -> clean diffs) ------
     artifacts = {}
     for fn in ["citations.json", "symptoms.json", "plants.json", "vocab.json", "names.json",
-               "interactions.v1.json", "pairings.v1.json", "lookalikes.v1.json"]:
+               "interactions.v1.json", "pairings.v1.json", "lookalikes.v1.json",
+               "practice.v1.json"]:
         raw = open(os.path.join(OUT, fn), "rb").read()
         head = json.loads(raw.decode("utf-8"))
         artifacts[fn] = {"schema": head.get("schema", ""), "count": head.get("count"),
@@ -654,6 +904,7 @@ def main():
     print("  interactions   : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_int), len(draft_int)))
     print("  pairings       : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_pair), len(draft_pair)))
     print("  lookalikes     : %d approved rows / %d plants (%d rows incl. draft) [.v1.json + .draft twin]" % (n_appr_rows, len(approved_la), n_draft_rows))
+    print("  practice       : %d approved (%d incl. draft) [.v1.json + .draft twin]" % (len(approved_pr), len(draft_pr)))
     print("  manifest.json  : %d artifacts hashed" % len(artifacts))
 
 

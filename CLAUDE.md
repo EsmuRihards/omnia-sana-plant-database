@@ -69,6 +69,15 @@ drift so the skill gets fixed.
 - Orphaned bibliography entries (declared, never cited) still ship to the public
   Knowledge Finder feed. Deleting a citation from a plant is not enough — remove
   the bibliography entry too, or it stays visible on the site.
+  **Before acting on ANY orphan, confirm the practice loop is wired.** `cited` is
+  populated by `cited.update(find_refs(d))`, which for years existed only inside
+  the plants loop. If the mirror inside the `practice/` loop is missing or has
+  regressed, every REF cited only by a practice record reports as an orphan — a
+  warning, so the build stays green — and following the deletion rule destroys the
+  bibliography the calculator depends on, after which the same refs flip to hard
+  errors with the data already gone. The tell: `refs cited N / declared M` in the
+  validate.py summary, where N is far below M and the orphan list is all recent
+  REF ids. Never delete an entry whose only citer is a practice record.
 - `validate.py` skips `internal_notes` when collecting cited refs, on purpose.
   Notes discuss removed refs; scanning them would resurrect ghosts.
 - Never `textwrap.fill` an existing `internal_notes` — it reflows history into an

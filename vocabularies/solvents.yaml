@@ -1,0 +1,184 @@
+# Omnia Sana — controlled vocabulary: SOLVENT SYSTEMS
+# Schema: ../schema/practice.schema.json ($defs -> key.solvent, conditions.solvent,
+# recommendation.solvent). Loaded by scripts/validate.py via vocab_ids() — this is
+# the ONLY solvent list. There is no hardcoded copy in validate.py; an earlier
+# draft had one with disjoint ids and no safety annotation, and it was deleted.
+#
+# Ids follow the LITERATURE's naming (ethanol-water), not the herbalist's
+# (hydroethanol), because findings transcribe Methods sections verbatim.
+#
+# A solvent id names a SYSTEM, not a strength. Concentration is a separate
+# numeric field: conditions.solvent_pct on a finding, and a [min, max] band on a
+# recommendation. A paper reports 63%; a band is a derived editorial judgement
+# that must be traceable to several findings.
+#
+# consumer_safe: false is a HARD GATE in scripts/validate.py, not a label.
+# Most published optimisation work uses methanol, acetone or ethyl acetate, and
+# it is perfectly good evidence about where a class sits on the polarity scale —
+# so findings may cite it freely. A recommendation may not. A bench optimum in
+# 80% methanol is a fact about chemistry; it is not something a person puts in a
+# jar. Additionally, the extrapolation envelope is partitioned by solvent: a
+# methanol sweep can never legitimise an ethanol band.
+#
+# takes_concentration  — conditions.solvent_pct is REQUIRED (true) or must be
+#                        null (false).
+# requires_menstruum   — false means solid_liquid_ratio may be 'n-a'.
+
+- id: water
+  label: Water
+  polarity: high
+  consumer_safe: true
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["aqueous", "aqua", "distilled water"]
+  note: Cold and hot aqueous extraction alike; temperature is a condition, not a different solvent.
+
+- id: ethanol-water
+  label: Ethanol / water (hydroethanol)
+  polarity: variable
+  consumer_safe: true
+  takes_concentration: true
+  requires_menstruum: true
+  synonyms: ["hydroethanol", "EtOH", "aqueous ethanol", "spirit", "menstruum"]
+  note: The workhorse, and the reason concentration is a separate field — the same system spans 20% to 90% and the answer changes completely across that range.
+
+- id: ethanol-absolute
+  label: Absolute / near-absolute ethanol
+  polarity: low
+  consumer_safe: true
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["96% ethanol", "absolute alcohol", "rectified spirit"]
+  note: Held separate because at this end any water-dependent class is not merely reduced but excluded.
+
+- id: glycerol-water
+  label: Glycerol / water
+  polarity: high
+  consumer_safe: true
+  takes_concentration: true
+  requires_menstruum: true
+  synonyms: ["glycerite", "glycerin", "hydroglycerol"]
+  note: Backs GLYCERITE_MIX 75/25. Glycerol's co-solvent role and its preservation threshold are two distinct numbers; a record conflating them is right for neither.
+
+- id: acidified-water
+  label: Acidified water
+  polarity: high
+  consumer_safe: true
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["citric acid solution", "pH-adjusted water"]
+  note: Required for anthocyanins, where flavylium stability below pH 3 governs everything. Record the acidulant and pH in conditions.
+
+- id: acidified-ethanol-water
+  label: Acidified ethanol / water
+  polarity: variable
+  consumer_safe: true
+  takes_concentration: true
+  requires_menstruum: true
+  synonyms: ["acidulated menstruum", "acidified alcohol"]
+  note: The classical alkaloid menstruum. Never for iridoid glycosides, which the same acid destroys. Subject to the toxicity gate on every alkaloid-keyed record.
+
+- id: acetic-acid-water
+  label: Acetic (vinegar) menstruum
+  polarity: high
+  consumer_safe: true
+  takes_concentration: true
+  requires_menstruum: true
+  synonyms: ["vinegar", "acetum", "acetous tincture", "oxymel base"]
+
+- id: fixed-oil
+  label: Fixed oil
+  polarity: low
+  consumer_safe: true
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["olive oil", "carrier oil", "infused oil", "oleum"]
+  note: The only consumer-accessible route to the nonpolar-lipid class.
+
+- id: steam
+  label: Steam / water vapour
+  polarity: high
+  consumer_safe: true
+  takes_concentration: false
+  requires_menstruum: false
+  synonyms: ["hydrodistillation medium", "steam"]
+  note: Strictly a carrier rather than a solvent, but it occupies the solvent slot so the volatile classes have a coherent key row instead of a null.
+
+- id: alkaline-water
+  label: Alkaline water
+  polarity: high
+  consumer_safe: false
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["sodium carbonate solution", "alkali extraction"]
+  note: Liberates fungal beta-glucans from chitin and drives alkaloid free bases out of aqueous phase. Not a domestic technique.
+
+- id: supercritical-co2
+  label: Supercritical CO2
+  polarity: low
+  consumer_safe: false
+  takes_concentration: false
+  requires_menstruum: false
+  synonyms: ["scCO2", "SFE"]
+  note: Industrial only. Excellent comparative evidence about lipophilic classes; never a recommendation, since no reader can reproduce it.
+
+- id: methanol-water
+  label: Methanol / water
+  polarity: variable
+  consumer_safe: false
+  takes_concentration: true
+  requires_menstruum: true
+  synonyms: ["MeOH", "aqueous methanol"]
+  note: Toxic, and the single most common solvent in published phytochemical optimisation. It will appear constantly in findings and must never appear in a recommendation. This is the specific case the gate was written for.
+
+- id: acetone-water
+  label: Acetone / water
+  polarity: variable
+  consumer_safe: false
+  takes_concentration: true
+  requires_menstruum: true
+  synonyms: ["acetone", "70% acetone"]
+  note: Standard for proanthocyanidin work; laboratory only.
+
+- id: ethyl-acetate
+  label: Ethyl acetate
+  polarity: low
+  consumer_safe: false
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["EtOAc"]
+  note: Fractionation solvent; appears in partition schemes, never in a preparation.
+
+- id: hexane
+  label: Hexane
+  polarity: nonpolar
+  consumer_safe: false
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["n-hexane", "petroleum ether"]
+  note: Lipid and carotenoid work. Laboratory only.
+
+- id: chloroform
+  label: Chloroform
+  polarity: low
+  consumer_safe: false
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["trichloromethane"]
+
+- id: dichloromethane
+  label: Dichloromethane
+  polarity: low
+  consumer_safe: false
+  takes_concentration: false
+  requires_menstruum: true
+  synonyms: ["DCM", "methylene chloride"]
+
+- id: none
+  label: No solvent
+  polarity: n-a
+  consumer_safe: true
+  takes_concentration: false
+  requires_menstruum: false
+  synonyms: ["solventless", "neat"]
+  note: For process-limited records — expression and crush-and-rest — where the constituent is created or released mechanically and no menstruum is involved. Without this id the allicin record, the design's own headline example, would be unauthorable.

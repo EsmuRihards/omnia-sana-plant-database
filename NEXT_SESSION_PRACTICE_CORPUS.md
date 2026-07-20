@@ -20,52 +20,74 @@ cost with eyes open. Do it properly: factual, future-proof, no logical fallacies
 no mismatch or chaos in the entity model. Speed is not the constraint;
 correctness is.
 
-The design phase is finished and audited. **The build phase has not started.**
+The design phase is finished and audited, **and the build phase has now started
+and reached a working corpus.** Read the state below before planning anything —
+an earlier revision of this file said the build had not started, which was true
+when it was written and is no longer.
 
-## STATE AT HANDOFF (verified 2026-07-20)
+## STATE (updated 2026-07-20, after the D8 / D0 / D3 session)
 
-Git: HEAD `0a54950` on `main`, working tree clean.
-`python scripts/validate.py` exits 0 — 187 plants, 3,110 refs cited / 3,110
-declared, **zero orphans**. That clean-orphan baseline is load-bearing; see trap 4.
+Git: HEAD `dcc15f4` on `main`, working tree clean. **8 commits ahead of
+`osdb/main`, NOTHING PUSHED.** `python scripts/validate.py` exits 0 — 187 plants,
+**3,116** refs cited / 3,116 declared, zero orphans.
 
-**Two commits are unpushed — `main` is ahead of `osdb/main` by 2.** Both are
-docs-only (`PRACTICE_CORPUS_SPEC.md`, `NEXT_SESSION_PRACTICE_CORPUS.md`), so
-nothing on the live site depends on them, but until they are pushed they exist
-only on one machine. `88221f9` and everything before it **is** already on
-`osdb/main`. Ask the owner before pushing — the site pulls from `osdb/main`.
+**Pushing is a visible content change now, not a docs-only push.** D8 withholds
+242 preparations and 46 dosages from the public plant pages until they are
+sourced. Get that green-lit deliberately.
 
 ### What is DONE
 
-- The `parts_used` comma-split repairs (`mahonia`, `origanum`, `tilia`,
-  `petasites` — the last one's `Root` fragment was syntactically clean and was
-  silently inflating the Root bucket), `crocus_sativus` Flower→**Stigma** (three
-  sourced reviews), `hericium_erinaceus` Fruit→**Fruiting body**, and
-  `Whole Plant`→`Whole plant` on the 3 non-fungal records. Committed and pushed.
-- `PRACTICE_CORPUS_SPEC.md` written (8-agent pass) and audited (3-agent pass),
-  with §0 Provenance and APPENDIX A. Committed, **not pushed**.
+- **APPENDIX A applied** to spec sections 1-6 (14 blocking + 7 major), then
+  independently audited. **APPENDIX B** in the same file records what that audit
+  found — including one blocking defect that originated in Appendix A's own
+  replacement text (`str(None)` is `'None'`, so every `.strip()` emptiness gate
+  accepted an explicit YAML null). §0 and the appendix headers now state the
+  applied status truthfully.
+- **D8 landed.** Owner decision: nothing unsourced publishes, both fields.
+  Implemented as `SOURCED_ONLY_KEYS` in `build.py`'s public projection, so any
+  future statused list inherits it. NOTE the framing in older notes is wrong:
+  extending `approved_only()` would have EMPTIED the editorial lists, because
+  they use verified/needs-review/draft and never carry the value `approved`.
+- **D0 landed and executed.** schema/practice.schema.json, three vocabularies
+  (solvents 18, methods 20, classes 26), `practice/` + README, 8 edits to
+  validate.py, 7 + PRACTICE constant to build.py, both schemas, CI trigger path,
+  CLAUDE.md and the verify-integrity skill. There is deliberately NO `parts.yaml`.
+- **Pre-flight step 7 has RUN, in both directions.** Four malformed records each
+  gave error lines and no traceback; every safety gate fired. A valid draft then
+  passed, reached the `.draft` twin only, and flipped its ref to
+  `corpus: ["clinical","practice"]`.
+- **D3 landed.** 10 compound ids triaged. Nothing set to `none`. Verified by
+  execution that the flags drive the gate per class, including that a constrained
+  arnica TOPICAL record passes while internal use on the same id is blocked.
+- **Sourcing:** preparations 244 -> 229 unsourced, dosage 53 -> 46. Health Canada
+  NNHPD opened as a new seam (7 dosage entries) and then **measured to exhaustion**
+  for the remaining plants — 421 slugs probed, zero further hits, endpoint verified
+  live afterwards. Do not re-run that sweep.
+- **Integrity:** the database now has ZERO verified-but-unsourced entries in any
+  statused field; it had 6 (contraindications, demoted to needs-review).
 
-### What is NOT done — this is your work queue
+### What is NOT done — the work queue
 
-1. **Apply APPENDIX A to section 3 of the spec.** Not applied. Section 3 still
-   contains **all 14 blocking and 7 major defects** the audit found. Do this
-   first, before any code. It is mechanical and fully specified.
-2. **D8 — the draft leak. 280 draft `preparations` and 84 draft `dosage`
-   entries are public on the plant pages right now.** Not caused by the corpus
-   work. `approved_only()` is applied to exactly three keys
-   (`drug_class_interactions`, `pairings`, `dangerous_lookalikes`); everything
-   else on a plant record ships status-ignored.
-3. **D3 — the toxicity gate.** `toxicity_flag` appears nowhere in `compounds/`,
-   `schema/` or `scripts/`. It does not exist yet.
-4. **D0 — the corpus itself.** No `practice/` directory exists. No schema, no
-   vocabularies, no validator rules, no build emitter, no CI trigger path.
-5. **The `parts_used` debt.** 7 fungal records declare `Whole Plant`
-   (`trametes_versicolor`, `psilocybe_cubensis`, `pleurotus_ostreatus`,
-   `lentinula_edodes`, `inonotus_obliquus`, `ganoderma_lingzhi`,
-   `cordyceps_militaris`) and `allium_sativum` has **no `Bulb`** — garlic's
-   medicinal part is missing entirely. Both need sourced corrections.
-6. **Nothing in the spec has ever executed.** Not one practice record has been
-   authored, parsed, validated or built. Every claim about what a check catches
-   is a claim about code that has never run.
+1. **D2, and its ordering is FORCED. The window is open RIGHT NOW.** `corpus` is
+   derived and live, and all 3,116 citations still derive to `["clinical"]` — a
+   provably no-op state. Ship the Knowledge Finder corpus filter and bump
+   `?v=kfN` on page 208, verify live, and only THEN add the first practice bibtex
+   entry. Reverse that and methodology papers land in a clinical-evidence library
+   with no filter to exclude them.
+2. **The research** (spec step 7). ~120-140 primary papers + 15-20 pharmacopoeial.
+   No practice record has been authored yet beyond throwaway tests.
+3. **D5** — the conflict arbiter; the calculator's unit of output is a
+   per-constituent table, never a single menstruum.
+4. **D6 / phase 0** — 324 of 861 plant x compound slots need a resolution
+   decision; 92 constituent entries carry no `compounds` list; 20 of 187 plants
+   resolve nothing. Audit `compounds/` for what is ABSENT first (`salix_alba` has
+   no `salicin` entity; `crocus_sativus` has no crocin).
+5. **229 preparations + 46 dosages still unsourced.** Next best seams: the 61
+   preparations whose monograph ref has no stored `summary` (fetch the PDF), then
+   ESCOP / Commission E.
+6. **D7 — `parts_used` cleanup, LAST.** 7 fungal `Whole Plant` records,
+   `allium_sativum` has no `Bulb`. Until it lands `key.part` stays null-only, and
+   the validator hard-errors on any non-null value.
 
 ## READ FIRST, IN THIS ORDER
 

@@ -26,10 +26,22 @@ section 1 lists the resolutions.
 # 0. PROVENANCE AND TRUST — read before applying anything
 
 This document was written by subagents and adversarially reviewed. It has been
-audited twice more. **The resulting corrections are in APPENDIX A at the end of
-this file and have NOT been applied to the body above** — section 3 as written
-still contains every defect Appendix A lists. It is also not code that has run. Treat every
-line below as a proposal that has been checked, not as a change that has worked.
+audited twice more. **APPENDIX A's corrections were APPLIED to sections 1–6 on
+2026-07-20** — all 14 blocking (A1–A14) and 7 major (B1–B7) items. Appendix A is
+retained below as the audit record and the rationale for each change; it is no
+longer a to-do list, and its "NOT applied" framing describes the state before that
+edit. Where the appendix and the body now differ in wording, **the body is what you
+apply.**
+
+A third pass then audited the *application* itself; its results are in **APPENDIX B**.
+It found no correction missing, fixed one blocking defect that originated in
+Appendix A's own replacement text (explicit YAML nulls passing every text gate), and
+left four items open that need a decision before authoring. **Read Appendix B's "Open"
+list before you author a record** — one of them makes method-comparison papers
+unauthorable at any tier.
+
+It is still not code that has run *as the real gate*. Treat every line below as a
+proposal that has been checked three times, not as a change that has worked.
 
 **What was verified, at commit 22f88ed.** All seventeen `OLD (verbatim)` anchors
 in section 3 were compared byte-for-byte against the live files, including
@@ -63,7 +75,7 @@ must hold in your head for the whole of this work:
    bug — and an editor authoring against the schema will hit the difference as a
    hard error on their first record.
 
-**Known drift — corrected in APPENDIX A, not inline.** The first audit pass found that section 3, as
+**Known drift — now corrected in the body.** The first audit pass found that section 3, as
 originally written, loaded a vocabulary file (`vocabularies/parts.yaml`) that
 section 1 explicitly forbids creating — an unhandled `FileNotFoundError` in the
 only hard gate in the repo, on the first push, for all 187 plants. It also found
@@ -71,20 +83,33 @@ that the solvent-percentage rule read a field (`ethanol_pct`) that exists on no
 solvent record, so it never fired; that the copyright gate keyed on a field
 (`normative_citations`) that is not in the schema, so it never fired; that the
 toxicity gate existed in prose and in no Python at all; and that eight validator
-constants had drifted from the schema enums they mirror. All are corrected in Appendix A.
-Assume more of the same survives. This document has been audited; it has not been
-run.
+constants had drifted from the schema enums they mirror. **All of these are fixed
+in sections 1–6 as they now stand.**
+Assume more of the same survives. This document has been audited twice; it has not
+been run.
 
 ## Pre-flight checklist — complete every step before applying any of section 3
 
-1. Read APPENDIX A end to end and apply it to section 3 first. Sanity check:
-   `grep -n "parts.yaml" PRACTICE_CORPUS_SPEC.md` currently HITS inside §3.1
-   Edit C — that hit is the gate-killing bug (A1). It must be gone before you
-   run anything. If it is still there, you have not applied Appendix A.
-2. Re-verify the anchors yourself. `git log --oneline -1` — if HEAD is not
-   22f88ed, re-grep all seventeen `OLD (verbatim)` blocks before trusting any of
-   them. An anchor that no longer matches is a half-applied commit waiting to
-   happen.
+1. **DONE 2026-07-20 — Appendix A applied**, and Appendix B applied on top of it.
+   Three checks that it stayed applied. Each is worded to be true of *code*, not of
+   the prose that discusses the code, so run them against the fenced `python` blocks
+   in §3 — grepping the whole file matches this checklist and the appendices too, and
+   a self-matching check is not a check.
+   - **A1** — no `python` block may contain `vocab_ids(` applied to `parts.yaml`, and
+     no block may assign `PARTS`. There is no such file; loading it is an unhandled
+     `FileNotFoundError` in the only hard gate in the repo, for all 187 plants.
+   - **A8** — `def _check_toxicity` must appear in §3.1 and be *called* from
+     `check_practice_record`. That is the gate that fails closed on comfrey; it
+     existed in prose and in zero lines of Python before Appendix A.
+   - **B-0** — no `python` block may contain the substring `, "")).strip()`. That
+     idiom accepts an explicit YAML `null` as content (`str(None)` is `'None'`), and
+     it silently defeated five gates. All text reads go through `_s()`.
+2. Re-verify the anchors yourself. `git log --oneline -1` — the seventeen
+   `OLD (verbatim)` blocks were confirmed byte-for-byte at 22f88ed and re-confirmed
+   at c09acf5 (the only intervening commits touched these two markdown files, not
+   `scripts/`). If HEAD has moved past that and `scripts/`, `schema/` or the CI
+   workflow have changed, re-grep them all. An anchor that no longer matches is a
+   half-applied commit waiting to happen.
 3. Land section 3 as **one commit**, in this order inside the commit: the three
    `vocabularies/*.yaml` files, `schema/practice.schema.json`, `practice/.gitkeep`,
    `practice/README.md`, then the `validate.py` and `build.py` edits, then the CI
@@ -117,7 +142,7 @@ Verified against the live repo: `vocab_ids()` at `validate.py:77` returns `{x["i
 | # | Finding | RESOLUTION (binding) |
 |---|---|---|
 | **R2-1** | Solvent identity unchecked; analytical solvent can surface as an ethanol instruction | `recommendation.solvent` and `recommendation.method` are **REQUIRED**. `validate.py` loads `vocabularies/solvents.yaml` + `extraction_methods.yaml` and **hard-errors** when `consumer_safe: false` / `consumer_reproducible: false`. The extrapolation envelope is built **only from findings whose `conditions.solvent` == `recommendation.solvent`** AND whose `varied_factor` == `recommendation.parameter`. A methanol sweep can never legitimise an ethanol band. Findings in non-recommended solvents are legal, contribute to `rationale` only, and are excluded from base, bonus, penalty and envelope. |
-| **R2-2** | Yield-optimal ≠ use-optimal; the key compound ids are the toxic ones | Three new gates. (a) `compound.schema.json` gains `toxicity_flag: {none, dose-limited, topical-only, avoid-internal}` + `regulatory_note`; populated **before** any practice record is authorable for: `alkaloid, berberine, coumarin, asarone, sesquiterpene-lactone, parthenolide, anthraquinone, hypericin, allicin, organosulfur, thujone-bearing` — this covers the 17 alkaloid plants (`arnica-montana, borago-officinalis, chelidonium-majus, petasites-hybridus, symphytum-officinale, tussilago-farfara, hydrastis-canadensis, mahonia-aquifolium, …`), the 19 coumarin plants, `acorus-calamus`, and the 11 sesquiterpene-lactone plants. Absent → treated as `avoid-internal` (fail-closed). (b) `recommendation.route: {internal, topical}` REQUIRED; a record keyed on a `topical-only` compound may only be `topical`. (c) A record whose `key.compound_id` has any non-`none` flag is a **hard error unless** it carries `limit_rationale` (≥120 chars) AND `status: draft`, or `limit_rationale` + `reviewed_by` + `verified_by` at approved. Yield-maximising phrasing is barred by rule, stated in the skill. |
+| **R2-2** | Yield-optimal ≠ use-optimal; the key compound ids are the toxic ones | Three new gates. (a) `compound.schema.json` gains `toxicity_flag: {none, dose-limited, topical-only, avoid-internal}` + `regulatory_limit`; populated **before** any practice record is authorable for: `alkaloid, berberine, coumarin, asarone, sesquiterpene-lactone, parthenolide, anthraquinone, hypericin, allicin, organosulfur` (plus a `thujone-bearing` entity, which does not exist in `compounds/` and must be created before it can be flagged) — this covers the 17 alkaloid plants (`arnica-montana, borago-officinalis, chelidonium-majus, petasites-hybridus, symphytum-officinale, tussilago-farfara, hydrastis-canadensis, mahonia-aquifolium, …`), the 19 coumarin plants, `acorus-calamus`, and the 11 sesquiterpene-lactone plants. Absent → treated as `avoid-internal` (fail-closed). (b) `recommendation.route: {internal, topical}` REQUIRED; a record keyed on a `topical-only` compound may only be `topical`. (c) A record whose `key.compound_id` has any non-`none` flag is a **hard error unless** it carries `limit_rationale` (≥120 chars) AND `status: draft`, or `limit_rationale` + `reviewed_by` + `verified_by` at approved. Yield-maximising phrasing is barred by rule, stated in the skill. |
 | **R2-3** | Two disjoint vocabularies; the binding copy has no safety flags | **One vocabulary.** `PCT_SOLVENTS`, `NOPCT_SOLVENTS`, `EXTRACTION_METHODS` are **deleted** from `validate.py` and replaced by `vocab_ids()` loads of the two YAML files below, plus a second load that reads `consumer_safe` / `consumer_reproducible` / `takes_concentration`. Naming convention = **the literature's** (`ethanol-water`, not `hydroethanol`), because findings transcribe Methods sections. |
 | **R1-2** | No conflict-resolution rule for multi-class plants (13+ plants, e.g. `matricaria-chamomilla`) | Option (b): **the calculator's unit of output is a per-constituent table, never a single menstruum.** No `primary_constituent` field is added to plants (no new plant field, no backfill). `recommendation.statement` is defined as a per-class statement. The calculator renders one row per resolvable constituent and a standing line: *"a tincture captures X and loses Y."* Emitting a single number is a front-end bug, specified as such. |
 | **R1-3 / R1-12** | `constituents[]` has no part attribution; `parts_used` still 58 dirty strings | **`key.part` is FROZEN to `null` in v1.** `validate.py` hard-errors on any non-null `part`. `vocabularies/parts.yaml` is **not created**. No `parts_used` enum, no migration, no `constituents[].parts` backfill is a prerequisite. `PART_RATIOS` **stays hardcoded** in the JS and is labelled unsourced. Part keying is a v2 item gated on the parts cleanup. |
@@ -127,9 +152,9 @@ Verified against the live repo: `vocab_ids()` at `validate.py:77` returns `{x["i
 | **R1-6 / R2-6** | Orphan accounting incomplete (`normative_citations`, `references`, `species_overrides` uncollected) | Do **not** hand-enumerate. Call the existing generic `find_refs(rec)` on the whole practice record — it already skips `PROSE_KEYS` and walks arbitrary depth. `cited.update(find_refs(rec))`. Lands in the **same commit as the `practice/` directory**, not the first record. `osdb-verify-integrity` gains: *never delete a bibliography entry whose derived `corpus` includes `practice`.* |
 | **R1-7 / R2-8** | `corpus` declared vs derived | **Derived only.** `build.py` sets it from actual linkage (`["clinical"]` when absent/unlinked, so all 3,110 entries are correct with zero backfill). The `validate.py` corpus check is **deleted**. `build.py`'s `add()` linkage inversion is extended over `practice/**` so practice REFs carry plant/class linkage into `citations.json` and do not render as unlinked orphan cards. |
 | **R1-8** | Anti-skim is internally-consistent free text, not detection | Reframed and **sold as auditability**, not enforcement. Three additions make the audit real: (a) `findings[].fulltext_source` REQUIRED (`doi-pdf`, `pmc`, `publisher-html`, `institutional`, `author-copy`, `print`) — no full text, no finding; (b) `verified_by` + `verified_date` REQUIRED at approved and **must differ from `reviewed_by`** — a second person opened the paper; (c) `outcome.value` stored to the printed precision so a 10% spot-check script can diff. Documentation must say "auditable", never "impossible to fabricate". |
-| **R1-9** | Over-strict required fields manufacture fabrication; 3 methods unauthorable | `solid_liquid_ratio`, `temperature_c`, `time_min`, `particle_size_mm` accept the literal `unspecified`/`null`. Absent-but-declared **caps** the finding: `condition_complete: false` (derived), and such a finding **may not be the sole support for approval**. `expression`, `crush-and-rest`, `steam-distillation`, `hydrodistillation` are exempt from the ratio/solvent-pct requirement via `takes_concentration: false` / `requires_menstruum: false` on the method and solvent vocabularies. `outcome.unit` is **opened**: `{value, unit, unit_basis, reference_standard}` — `unit_basis: {dry-weight, fresh-weight, extract, volume}`, `reference_standard` free text (`rutin`, `gallic acid`). |
+| **R1-9** | Over-strict required fields manufacture fabrication; 3 methods unauthorable | `solid_liquid_ratio`, `temperature_c`, `time_min`, `particle_size_mm` accept the literal `unspecified`/`null`. Absent-but-declared **caps** the finding: such a finding **may not be the sole support for approval**, enforced directly in `_check_finding`/`_check_approval`. There is no `condition_complete` field: it was specified as derived and derived nowhere, and the behaviour it named is implemented by the warning and the approval check. `expression`, `crush-and-rest`, `steam-distillation`, `hydrodistillation` are exempt from the ratio/solvent-pct requirement via `takes_concentration: false` / `requires_menstruum: false` on the method and solvent vocabularies. `outcome.unit` is **opened**: `{value, unit, unit_basis, reference_standard}` — `unit_basis: {dry-weight, fresh-weight, extract, volume}`, `reference_standard` free text (`rutin`, `gallic acid`). |
 | **R1-10 / R2** | Every "structurally impossible" claim resting on JSON Schema is false | Confirmed: no `jsonschema` import anywhere. **Every rule below is imperative `validate.py`.** The schema file is a documentation contract and says so in its own `description`. Highest priority: the two **copyright** checks — `statement_summary` length ≤ 300 chars, and a hard error when a bibtex entry with `kind = standard` carries an `abstract`. |
-| **R1-11** | `extraction_exceptions[]` fails open on the already-broken records | **Inverted, and the field is deleted.** A plant receives a class recommendation only when its constituent resolves unambiguously to a single `extraction_class` **and** the keyed compound's `toxicity_flag` is `none`. Absent → no recommendation. Additionally `build.py` carries `PRACTICE_PLANT_EXCLUSIONS` = the 8 known-broken records (`trametes_versicolor, psilocybe_cubensis, pleurotus_ostreatus, lentinula_edodes, inonotus_obliquus, ganoderma_lingzhi, cordyceps_militaris, allium_sativum`), which emit nothing regardless. |
+| **R1-11** | `extraction_exceptions[]` fails open on the already-broken records | **Inverted, and the field is deleted.** A plant receives a class recommendation only when its constituent resolves unambiguously to a single `extraction_class` **and** the keyed compound's `toxicity_flag` is `none`. Absent → no recommendation. Additionally `build.py` carries `PRACTICE_PLANT_EXCLUSIONS` = the 8 known-broken records (`trametes-versicolor, psilocybe-cubensis, pleurotus-ostreatus, lentinula-edodes, inonotus-obliquus, ganoderma-lingzhi, cordyceps-militaris, allium-sativum` — hyphenated, matching `p["id"]`, which is what every build.py join uses), which emit nothing regardless. The constant lands with the join in D5, not in D0; asserting it exists earlier is a false statement in a shipped file. |
 | **R2-4** | `approved_only()` covers 3 keys; new plant fields would leak | Resolved by **adding no statused plant field**. The only plant-record addition is `constituents[].extraction_class` — a vocabulary id, not a claim, no `status`. `approved_only()` is untouched. (Separate pre-existing issue: 280 draft preparations + 84 draft dosages are already public. Flagged, out of scope, must not be worsened by practice records contradicting them.) |
 | **R2-5** | CI does not fire on `practice/**` | Add `- 'practice/**'` to `build-and-publish.yml` trigger paths **in the commit that creates the directory**. |
 | **R2-7** | KF content leak; deploy order is forced | Order is mandatory and non-negotiable: (1) ship `corpus` derivation + `harvard()`/`best_link()` `kind == "standard"` branches, provably no-op on all 3,110 entries; (2) ship the KF corpus filter and **bump `?v=kfN` on page 208**, verify live; (3) only then add the first practice bibtex entry. |
@@ -158,7 +183,7 @@ Verified against the live repo: `vocab_ids()` at `validate.py:77` returns `{x["i
   "required": ["id", "record_type", "parameter_kind", "species_scope", "key", "status", "last_updated"],
   "additionalProperties": false,
   "properties": {
-    "id": {"type": "string", "pattern": "^[a-z0-9-]+(--[a-z0-9-]+)*$", "description": "Stable slug and filename stem. Compose from the key: flavonoid--ethanol-water--maceration."},
+    "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*(--[a-z0-9]+(-[a-z0-9]+)*)*$", "description": "Stable slug and filename stem. Compose from the key: flavonoid--ethanol-water--maceration."},
     "record_type": {
       "type": "string",
       "enum": ["extraction", "stability", "dose-form-conversion", "harvest-timing", "identification", "cultivation", "post-harvest"],
@@ -229,7 +254,22 @@ Verified against the live repo: `vocab_ids()` at `validate.py:77` returns `{x["i
     "reviewed_date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
     "verified_by": {"type": "string", "description": "REQUIRED at approved and MUST differ from reviewed_by. Means a second person opened the cited PDFs and checked the locators. This is the only externally-real half of the anti-skim design."},
     "verified_date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
-    "internal_notes": {"type": "string", "description": "NEVER published. The field name is load-bearing: validate.py PROSE_KEYS and build.py's public filter both key on this literal string. Any other name and every REF mentioned in a dead-end note counts as cited."},
+    "internal_notes": {"type": "string", "description": "NEVER published. The field name is load-bearing: validate.py's PROSE_KEYS keys on this literal string. build.py protects practice records differently — practice_rows() is an explicit allowlist — but a renamed field would still be walked by find_refs(), and every REF mentioned in a dead-end note would count as cited."},
+    "species_overrides": {
+      "type": "array",
+      "description": "Species-specific departures from a class-general record. plant_id must resolve to plants/<id>.yaml — validate.py checks this via practice_plant_refs.",
+      "items": {
+        "type": "object",
+        "required": ["plant_id", "note"],
+        "additionalProperties": false,
+        "properties": {
+          "plant_id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+          "note": {"type": "string", "maxLength": 600},
+          "context_reference_ids": {"type": "array", "items": {"type": "string", "pattern": "^REF-\\d{4,}$"}},
+          "findings": {"type": "array", "items": {"$ref": "#/$defs/finding"}}
+        }
+      }
+    },
     "last_updated": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"}
   },
   "$defs": {
@@ -246,7 +286,7 @@ Verified against the live repo: `vocab_ids()` at `validate.py:77` returns `{x["i
           "enum": ["optimisation", "comparative-bench", "characterisation", "pharmacopoeial", "method-review", "traditional-text"],
           "description": "The practice tier, held on the FINDING and not on the bibtex entry: one paper can be optimisation for the solvent axis and characterisation for temperature, and a per-source grade would be wrong half the time. It also means reusing an existing clinical REF needs no bibliography edit. Bases: optimisation 7, pharmacopoeial 6, comparative-bench 5, characterisation 3, method-review 0, traditional-text 0. method-review and traditional-text MAY NOT appear in findings[] at all — validate.py rejects them; they belong in context_reference_ids[]."
         },
-        "design": {"type": "string", "enum": ["rsm-ccd", "rsm-bbd", "factorial", "taguchi", "mixture", "multi-level-sweep", "two-level", "single-condition", "normative"]},
+        "design": {"type": "string", "enum": ["rsm-ccd", "rsm-bbd", "factorial", "taguchi", "mixture", "multi-level-sweep", "two-level", "single-condition", "normative"], "description": "NOT all values are legal at every tier, and validate.py only enforces this field at method_type: optimisation, where it requires one of DOE_DESIGNS = {rsm-ccd, rsm-bbd, factorial, taguchi, mixture, multi-level-sweep}. The other three are for lower tiers: 'single-condition' for characterisation, 'normative' for pharmacopoeial, and 'two-level' for a comparative-bench screening run. 'two-level' is deliberately NOT an optimisation design — two levels cannot fit curvature, so a two-level run can say which factors matter but not where the optimum is, and claiming optimisation tier on one is the overclaim this field exists to catch."},
         "authority": {"type": "string", "enum": ["ph-eur", "usp-nf", "bhp", "ahp", "bp", "who-monographs", "escop"], "description": "Pharmacopoeial findings only. Doubles as the independence key: two editions of one body are one voice."},
         "fulltext_source": {"type": "string", "enum": ["doi-pdf", "pmc", "publisher-html", "institutional", "author-copy", "print", "pharmacopoeia-subscription"], "description": "Where the full text was actually read. There is no value meaning 'abstract only', because an abstract cannot produce a finding."},
         "locator": {
@@ -280,13 +320,13 @@ Verified against the live repo: `vocab_ids()` at `validate.py:77` returns `{x["i
           "type": "object",
           "required": ["solvent", "temperature_c", "time_min", "solid_liquid_ratio", "method"],
           "additionalProperties": false,
-          "description": "The Methods tuple. Every required field accepts the literal 'unspecified' where the paper genuinely omits it; validate.py then sets condition_complete false, and an incomplete finding may not be the sole support for approval. Rejecting such papers outright is what makes a tired editor invent 1:10.",
+          "description": "The Methods tuple. Every required field accepts the literal 'unspecified' where the paper genuinely omits it; such a finding earns a warning and may not be the sole support for an approved recommendation. There is no condition_complete field — it was specified as derived and derived nowhere; the behaviour it named is implemented by that warning and by _check_approval. Rejecting such papers outright is what makes a tired editor invent 1:10.",
           "properties": {
             "solvent": {"type": "string", "pattern": "^[a-z0-9-]+$"},
             "solvent_pct": {"type": ["number", "null"], "minimum": 0, "maximum": 100, "description": "REQUIRED when the solvent has takes_concentration true; MUST be null otherwise. Record the number the paper used (63), never a band."},
             "temperature_c": {"type": ["number", "string"], "description": "Number in C, or 'unspecified'."},
             "time_min": {"type": ["number", "string"], "description": "Number in minutes, or 'unspecified'."},
-            "solid_liquid_ratio": {"type": "string", "pattern": "^(\\d+(\\.\\d+)?:\\d+(\\.\\d+)?|unspecified|n-a)$", "description": "'1:20', or 'unspecified', or 'n-a' for methods with requires_menstruum false (expression, crush-and-rest, distillation)."},
+            "solid_liquid_ratio": {"type": "string", "pattern": "^(\\d+(\\.\\d+)?:\\d+(\\.\\d+)?|unspecified|n-a)$", "description": "ALWAYS QUOTE IT: '1:20', not 1:20. PyYAML applies the YAML 1.1 sexagesimal rule, so unquoted 1:20 loads as the integer 80 and 1:10 as 70 — and only when the second term is <=59, so 1:100 works and 1:20 does not, which is why the bug survives casual testing. validate.py detects the coerced integer and names the cause. Value is '1:20', or 'unspecified', or 'n-a' for methods with requires_menstruum false (expression, crush-and-rest, distillation)."},
             "ph": {"type": ["number", "null"], "minimum": 0, "maximum": 14},
             "cycles": {"type": ["integer", "null"], "minimum": 1},
             "method": {"type": "string", "pattern": "^[a-z0-9-]+$"},
@@ -314,6 +354,7 @@ Verified against the live repo: `vocab_ids()` at `validate.py:77` returns `{x["i
             "is_optimum_stated": {"type": "boolean", "description": "True only when the authors themselves name this the optimum. Never assert it by picking the largest number in a table."}
           }
         },
+        "research_group": {"type": "string", "description": "First-author surname or lab identity. THE independence key for the >=2-independent-groups approval rule: without it practice_independence_key() falls back to ref_id and two papers from one lab count as two voices. Set it on every non-pharmacopoeial finding."},
         "note": {"type": "string", "maxLength": 600}
       }
     },
@@ -1188,12 +1229,16 @@ auditable, and it makes carelessness detectable.
   `polysaccharide` (36), `glycoside`, `phenolic-compound` and `terpene` are all
   ambiguous until disambiguated on the compound record or on
   `plants[].constituents[].extraction_class`.
-- **Eight plant records are excluded outright** by `PRACTICE_PLANT_EXCLUSIONS`
-  in `build.py`, because their data would join wrongly: the seven fungal records
-  that declare `Whole Plant` (`trametes_versicolor`, `psilocybe_cubensis`,
-  `pleurotus_ostreatus`, `lentinula_edodes`, `inonotus_obliquus`,
-  `ganoderma_lingzhi`, `cordyceps_militaris`) and `allium_sativum`, which lacks
-  `Bulb` entirely while carrying `allicin`.
+- **Eight plant records will be excluded outright** by `PRACTICE_PLANT_EXCLUSIONS`
+  in `build.py`, declared and consumed when the plant→practice join lands (D5) —
+  it does not exist today, and nothing joins to a plant yet. Their own data would
+  make the join wrong: the seven fungal records that declare `Whole Plant`
+  (`trametes-versicolor`, `psilocybe-cubensis`, `pleurotus-ostreatus`,
+  `lentinula-edodes`, `inonotus-obliquus`, `ganoderma-lingzhi`,
+  `cordyceps-militaris` — fruiting body, mycelium and sclerotium are different
+  materials with different beta-glucan content) and `allium-sativum`, which lacks
+  `Bulb` entirely while carrying `allicin`. Ids are hyphenated: that is the `id:`
+  field, not the filename.
 
 ## Species scope
 
@@ -1329,38 +1374,42 @@ REF_EXACT_RE = re.compile(r"^REF-\d{4,}$")
 # are loaded from vocabularies/solvents.yaml and vocabularies/extraction_methods.yaml
 # so that consumer_safe / consumer_reproducible travel with the id. A second
 # hardcoded copy is how the safety flags get silently lost.
-PRACTICE_RECORD_TYPES = {"extraction", "dose-form-conversion", "harvest-timing",
+PRACTICE_RECORD_TYPES = {"extraction", "stability", "dose-form-conversion", "harvest-timing",
                          "identification", "cultivation", "post-harvest"}
-PRACTICE_TYPES_LIVE = {"extraction", "dose-form-conversion"}
+PRACTICE_TYPES_LIVE = {"extraction", "stability", "dose-form-conversion"}
 PARAMETER_KINDS = {"empirical", "normative"}
 SPECIES_SCOPES = {"class-general", "species-specific"}
 GENERALISATION_BASES = {"physicochemical", "matrix-analogous"}
-LOCATOR_SECTIONS = {"methods", "results", "table", "figure", "supplementary"}
+LOCATOR_SECTIONS = {"methods", "results", "table", "figure", "supplementary", "monograph"}
 MATERIAL_STATES = {"fresh", "dried", "freeze-dried", "frozen", "unspecified"}
 VARIED_FACTORS = {"solvent_pct", "temperature_c", "time_min", "solid_liquid_ratio",
-                  "ph", "particle_size_mm", "method", "none"}
+                  "ph", "particle_size_mm", "cycles", "method", "none"}
 DOE_DESIGNS = {"rsm-ccd", "rsm-bbd", "factorial", "taguchi", "mixture", "multi-level-sweep"}
-QUANTIFICATION = {"hplc-dad", "hplc-ms", "uplc-ms", "gc-ms", "gc-fid", "lc-nmr",
-                  "uv-vis-spectrophotometry", "gravimetric", "titrimetric",
-                  "folin-ciocalteu", "aluminium-chloride", "dpph", "frap", "none-declared"}
-OUTCOME_UNITS = {"mg-per-g-dw", "mg-gae-per-g-dw", "mg-qe-per-g-dw", "mg-re-per-g-dw",
-                 "mg-per-g-fw", "pct-wv", "pct-ww", "pct-yield", "ml-per-100g",
-                 "g-per-100g", "mg-per-ml", "ug-per-ml", "mg-per-100g"}
-AUTHORITIES = {"ph-eur", "usp", "bhp", "ahp", "bp", "who-monographs", "escop"}
-RATIO_RE = re.compile(r"^1:\d+(\.\d+)?$")
+QUANTIFICATION = {"hplc-dad", "hplc-uv", "hplc-ms", "uplc-ms", "gc-ms", "gc-fid", "lc-nmr",
+                  "uv-vis", "gravimetric", "titrimetric", "folin-ciocalteu",
+                  "aluminium-chloride", "vanillin-hcl", "dpph", "frap",
+                  "volumetric-distillation"}
+UNIT_BASES = {"dry-weight", "fresh-weight", "extract", "volume", "unspecified"}
+FULLTEXT_SOURCES = {"doi-pdf", "pmc", "publisher-html", "institutional", "author-copy",
+                    "print", "pharmacopoeia-subscription"}
+AUTHORITIES = {"ph-eur", "usp-nf", "bhp", "ahp", "bp", "who-monographs", "escop"}
+TOXICITY_FLAGS = {"none", "dose-limited", "topical-only", "avoid-internal"}
+ROUTES = {"internal", "topical"}
+EQUIV_UNIT_RE = re.compile(r"\b(RE|GE|QE|GAE|equivalents?)\b")
+# 'N:M' as the paper prints it, the literal 'unspecified' (which CAPS the finding),
+# or 'n-a' where requires_menstruum is false. A '1:N'-only rule rejects every 20:1
+# concentrate and every paper that omits the ratio — and rejecting the paper is
+# exactly what makes a tired editor invent 1:10.
+RATIO_RE = re.compile(r"^(\d+(\.\d+)?:\d+(\.\d+)?|unspecified|n-a)$")
 BINOMIAL_RE = re.compile(r"^[A-Z][a-z]+ [a-z][a-z-]+$")
-# Wide, generous magnitude bands. Job is to catch a fabricated order of magnitude,
-# not to referee analytical chemistry.
-UNIT_RANGE = {"mg-per-g-dw": (1e-4, 900), "mg-gae-per-g-dw": (1e-4, 900),
-              "mg-qe-per-g-dw": (1e-4, 900), "mg-re-per-g-dw": (1e-4, 900),
-              "mg-per-g-fw": (1e-4, 900), "pct-wv": (1e-4, 100), "pct-ww": (1e-4, 100),
-              "pct-yield": (1e-4, 100), "ml-per-100g": (1e-4, 100),
-              "g-per-100g": (1e-4, 100), "mg-per-ml": (1e-4, 1000),
-              "ug-per-ml": (1e-3, 1e6), "mg-per-100g": (1e-3, 90000)}
-# Methods with no menstruum: the condition tuple does not apply and requiring it
-# would make the thiosulfinate and expression records unauthorable.
-NO_MENSTRUUM_METHODS = {"expression", "crush-and-rest", "steam-distillation",
-                        "hydrodistillation"}
+# NO OUTCOME_UNITS / UNIT_RANGE. outcome.unit is OPEN TEXT (R1-9): a closed slug
+# set rejects 'mg RE/g', 'mL/100 g' and '% v/w', the units papers actually print,
+# and a closed enum is what destroyed reference_standard the first time.
+# NO NO_MENSTRUUM_METHODS either. requires_menstruum travels with the id in
+# extraction_methods.yaml, where SEVEN ids declare it false (expression,
+# crush-and-rest, steam-distillation, hydrodistillation, spray-drying, sfe, none).
+# A second hardcoded copy naming four is how the flags drift — and it makes
+# dose-form-conversion, one of the three LIVE record types, unauthorable.
 ```
 
 ### Edit B — a vocabulary loader that keeps the whole record
@@ -1385,22 +1434,32 @@ def vocab_map(path):
 
 ### Edit C — load the practice vocabularies + the practice ladder
 
-OLD:
+OLD (verbatim — `K` is live validate.py:86, immediately above the two vocab loads):
 ```python
+    K = {yaml.safe_load(open(f, encoding="utf-8"))["id"] for f in glob.glob(os.path.join(COMPDIR, "*.yaml"))}
     D = vocab_ids(os.path.join(VOCAB, "drug_classes.yaml"))
     X = vocab_ids(os.path.join(VOCAB, "dangerous_plants.yaml"))
 ```
 NEW:
 ```python
+    # The whole compound record is kept, not just the id: toxicity_flag is read off
+    # it by _check_toxicity(). K stays exactly what it was, so every existing use
+    # is unaffected.
+    COMPRECS = {}
+    for _f in glob.glob(os.path.join(COMPDIR, "*.yaml")):
+        _c = yaml.safe_load(open(_f, encoding="utf-8"))
+        COMPRECS[_c["id"]] = _c
+    K = set(COMPRECS)
     D = vocab_ids(os.path.join(VOCAB, "drug_classes.yaml"))
     X = vocab_ids(os.path.join(VOCAB, "dangerous_plants.yaml"))
     # Practice-corpus vocabularies. Loaded unconditionally, exactly like the five
     # above — a missing file is an unhandled FileNotFoundError that kills the gate,
-    # so these YAML files and this line must land in the SAME commit.
+    # so these YAML files and this line must land in the SAME commit. There is NO
+    # parts.yaml: the part axis is frozen null in v1 (R1-3), and loading a file
+    # section 1 forbids creating would kill the gate for all 187 plants.
     SOLV = vocab_map(os.path.join(VOCAB, "solvents.yaml"))
     METH = vocab_map(os.path.join(VOCAB, "extraction_methods.yaml"))
     XCLS = vocab_ids(os.path.join(VOCAB, "extraction_classes.yaml"))
-    PARTS = vocab_ids(os.path.join(VOCAB, "parts.yaml"))
 ```
 
 Immediately above `def main():` (i.e. after `vocab_map`), add the ladder import:
@@ -1430,8 +1489,18 @@ NEW:
     try:
         from build import parse_bibtex as _pb
         bib_fields = {e["ref_id"]: e["fields"] for e in _pb(open(BIB, encoding="utf-8").read()) if e["ref_id"]}
-    except Exception as exc:                      # never let the practice layer kill the plants gate
-        warnings.append(f"practice: could not parse bibliography for method_type checks ({exc})")
+    except Exception as exc:
+        errors.append(f"practice: could not parse the bibliography for the kind=standard "
+                      f"copyright check ({exc}) — this gate must not be skipped silently")
+    # The kind=standard copyright gate. This is what bib_fields is parsed FOR, and it
+    # runs over the whole bibliography, not per record — a monograph carrying an
+    # `abstract` is either invented or a reproduction, whether or not a practice
+    # record cites it yet.
+    for _rid, _f in bib_fields.items():
+        if _s(_f.get("kind")).lower() == "standard" and _s(_f.get("abstract")):
+            errors.append(f"bibliography: {_rid} is kind=standard and carries an abstract. The "
+                          f"Knowledge Finder renders `abstract` AS the source's own words, so "
+                          f"this is either invented or a reproduction of paywalled normative text.")
 
     practice_files = sorted(glob.glob(os.path.join(PRACTICEDIR, "**", "*.yaml"), recursive=True))
     seen_practice_ids, practice_plant_refs = {}, []
@@ -1452,14 +1521,14 @@ NEW:
         # the build stays green — and osdb-verify-integrity's documented remediation
         # is to delete the bibliography entry. find_refs() walks the whole record and
         # already skips internal_notes via PROSE_KEYS, so it catches findings[],
-        # context_reference_ids[], references[], normative_citations[] and the whole
-        # species-override subtree. Do NOT hand-enumerate ref fields — hand
+        # context_reference_ids[], references[], avoid[].context_reference_ids[] and
+        # the whole species_overrides subtree. Do NOT hand-enumerate ref fields — hand
         # enumeration is what broke this in the first place.
         cited.update(find_refs(rec))
 
         rid = rec.get("id")
         if rid:
-            if not re.match(r"^[a-z0-9-]+(--[a-z0-9-]+)*$", str(rid)):
+            if not re.match(r"^[a-z0-9]+(-[a-z0-9]+)*(--[a-z0-9]+(-[a-z0-9]+)*)*$", str(rid)):
                 errors.append(f"{nm}: bad practice id '{rid}'")
             if rid in seen_practice_ids:
                 errors.append(f"{nm}: duplicate practice id '{rid}' (also {seen_practice_ids[rid]})")
@@ -1470,7 +1539,7 @@ NEW:
         # editor's fastest way out is to delete the record — which, for a DISCORDANT
         # finding, is exactly the deletion the corpus exists to prevent.
         try:
-            check_practice_record(nm, rec, seen_ids, SOLV, METH, XCLS, PARTS,
+            check_practice_record(nm, rec, seen_ids, K, COMPRECS, SOLV, METH, XCLS,
                                   bib_fields, practice_plant_refs, errors, warnings)
         except Exception as exc:
             errors.append(f"{nm}: crashed during validation ({type(exc).__name__}: {exc}) "
@@ -1491,7 +1560,23 @@ def _num(x):
     return isinstance(x, (int, float)) and not isinstance(x, bool)
 
 
-def check_practice_record(nm, rec, plant_ids, SOLV, METH, XCLS, PARTS,
+def _s(v):
+    """Text of a possibly-null field. EVERY text gate in this file goes through this.
+
+    `str(None)` is the four-character string 'None', which is truthy and survives
+    .strip() — so wrapping a bare .get() in str() and stripping it accepts an
+    explicit YAML `null` as if it were content. (That idiom is deliberately not
+    written out here: pre-flight step 1 greps the code blocks for it, and a
+    docstring quoting it would match its own check.) It silently defeats the
+    copyright gate, the equivalence-unit gate, verified_by, jurisdiction and
+    discordance_note, and the spec TELLS authors to write nulls. yaml.safe_load
+    returns None for `key:` with no value, so this is the common case, not an edge
+    one. Note `.get(k, "")` does not help: the default only applies when the key is
+    ABSENT, never when it is present and null."""
+    return "" if v is None else str(v).strip()
+
+
+def check_practice_record(nm, rec, plant_ids, K, COMPRECS, SOLV, METH, XCLS,
                           bib_fields, plant_refs, errors, warnings):
     """Every rule the JSON Schema *documents* but cannot enforce.
 
@@ -1499,8 +1584,8 @@ def check_practice_record(nm, rec, plant_ids, SOLV, METH, XCLS, PARTS,
     in scripts/. Every "required", "minItems", "false" and "const" in
     practice.schema.json is inert documentation. This function is the enforcement.
     """
-    for k in ("id", "record_type", "parameter_kind", "species_scope",
-              "recommendation", "status", "last_updated"):
+    for k in ("id", "record_type", "parameter_kind", "species_scope", "key",
+              "status", "last_updated"):
         if k not in rec:
             errors.append(f"{nm}: missing required field '{k}'")
     rt = rec.get("record_type")
@@ -1522,13 +1607,23 @@ def check_practice_record(nm, rec, plant_ids, SOLV, METH, XCLS, PARTS,
         if not isinstance(key, dict):
             errors.append(f"{nm}: extraction record needs a key{{}} block")
             key = {}
-        if key.get("extraction_class") not in XCLS:
-            errors.append(f"{nm}: key.extraction_class '{key.get('extraction_class')}' "
-                          f"not in vocabularies/extraction_classes.yaml")
-        part = key.get("part")
-        if part is not None and part not in PARTS:
-            errors.append(f"{nm}: key.part '{part}' not in vocabularies/parts.yaml "
-                          f"(use null for the class-level default)")
+        xc = key.get("extraction_class")
+        if xc is not None and xc not in XCLS:
+            errors.append(f"{nm}: key.extraction_class '{xc}' not in "
+                          f"vocabularies/extraction_classes.yaml (null is valid — it is an "
+                          f"OPTIONAL disambiguator, used only where one compound id spans "
+                          f"classes with opposite optima)")
+        if key.get("part") is not None:
+            errors.append(f"{nm}: key.part is FROZEN to null in v1 (got {key.get('part')!r}). "
+                          f"plants[].parts_used is 58 dirty free-text strings and constituents[] "
+                          f"carries no part attribution, so the part axis cannot be joined from "
+                          f"plant data. Unfreezing it is gated on the parts cleanup (D7).")
+        cid = key.get("compound_id")
+        if not cid:
+            errors.append(f"{nm}: key.compound_id is required — it IS the join key")
+        elif cid not in K:
+            errors.append(f"{nm}: key.compound_id '{cid}' has no entity in compounds/ — "
+                          f"a record that cannot join is a record no calculator will read")
         if key.get("solvent") not in SOLV:
             errors.append(f"{nm}: key.solvent '{key.get('solvent')}' not in vocabularies/solvents.yaml")
         if key.get("method") not in METH:
@@ -1542,7 +1637,7 @@ def check_practice_record(nm, rec, plant_ids, SOLV, METH, XCLS, PARTS,
         findings = []
     for i, fi in enumerate(findings):
         if isinstance(fi, dict):
-            _check_finding(nm, fi, i, SOLV, METH, PARTS, errors, warnings)
+            _check_finding(nm, fi, i, SOLV, METH, errors, warnings)
         else:
             errors.append(f"{nm}: findings[{i}] is not a mapping")
     for ov in (rec.get("species_overrides") or []):
@@ -1552,14 +1647,19 @@ def check_practice_record(nm, rec, plant_ids, SOLV, METH, XCLS, PARTS,
     _check_recommendation(nm, rec, findings, SOLV, METH, errors, warnings)
     _check_scope(nm, rec, findings, plant_ids, errors, warnings)
     _check_copyright(nm, rec, errors)
+    _check_toxicity(nm, rec, COMPRECS, errors)
     if rec.get("status") == "approved":
-        _check_approval(nm, rec, findings, bib_fields, errors)
+        _check_approval(nm, rec, findings, errors)
 
 
-def _check_finding(nm, fi, i, SOLV, METH, PARTS, errors, warnings):
+def _check_finding(nm, fi, i, SOLV, METH, errors, warnings):
     tag = f"{nm}: findings[{i}] ({fi.get('ref_id', 'no-ref')})"
     if not REF_EXACT_RE.match(str(fi.get("ref_id", ""))):
         errors.append(f"{tag}: bad or missing ref_id")
+    if fi.get("fulltext_source") not in FULLTEXT_SOURCES:
+        errors.append(f"{tag}: fulltext_source '{fi.get('fulltext_source')}' invalid (want "
+                      f"{sorted(FULLTEXT_SOURCES)}). There is no value meaning 'abstract only' "
+                      f"— an abstract cannot produce a finding.")
     mt = (fi.get("method_type") or "").strip().lower()
     if mt not in PRACTICE_METHOD_TYPES:
         errors.append(f"{tag}: method_type '{mt}' invalid (want {sorted(PRACTICE_METHOD_TYPES)}). "
@@ -1578,13 +1678,13 @@ def _check_finding(nm, fi, i, SOLV, METH, PARTS, errors, warnings):
         errors.append(f"{tag}: locator.section '{loc.get('section')}' invalid")
     if tier == "pharmacopoeial":
         for k in ("monograph", "edition"):
-            if not str(loc.get(k, "")).strip():
+            if not _s(loc.get(k)):
                 errors.append(f"{tag}: pharmacopoeial finding needs locator.{k} "
                               f"(cite the coordinates; NEVER reproduce the text)")
         if fi.get("authority") not in AUTHORITIES:
             errors.append(f"{tag}: pharmacopoeial finding needs authority (want {sorted(AUTHORITIES)})")
     else:
-        if not (str(loc.get("table", "")).strip() or str(loc.get("figure", "")).strip()):
+        if not (_s(loc.get("table")) or _s(loc.get("figure"))):
             errors.append(f"{tag}: needs locator.table or locator.figure — an abstract has no "
                           f"tables, so this is the field a second reader can check in 30 seconds")
         if loc.get("section") not in ("results", "table", "figure", "supplementary"):
@@ -1593,12 +1693,14 @@ def _check_finding(nm, fi, i, SOLV, METH, PARTS, errors, warnings):
             warnings.append(f"{tag}: no locator.page — makes audit slower")
 
     mat = fi.get("material") or {}
-    sp = str(mat.get("species", "")).strip()
+    sp = _s(mat.get("species"))
     if not BINOMIAL_RE.match(sp):
         errors.append(f"{tag}: material.species '{sp}' is not 'Genus species' — record the "
                       f"binomial the paper actually printed, not the one you wanted")
-    if mat.get("part") not in PARTS:
-        errors.append(f"{tag}: material.part '{mat.get('part')}' not in vocabularies/parts.yaml")
+    if not _s(mat.get("part")):
+        errors.append(f"{tag}: material.part is required — free text exactly as the paper "
+                      f"reports it ('aerial parts', 'root bark'). NOT a controlled id: the "
+                      f"part vocabulary is frozen in v1 and no parts.yaml exists.")
     if mat.get("state") not in MATERIAL_STATES:
         errors.append(f"{tag}: material.state '{mat.get('state')}' invalid")
     if tier == "pharmacopoeial":
@@ -1609,25 +1711,35 @@ def _check_finding(nm, fi, i, SOLV, METH, PARTS, errors, warnings):
     if meth not in METH:
         errors.append(f"{tag}: conditions.method '{meth}' not in vocabularies/extraction_methods.yaml")
     solv = co.get("solvent")
-    needs_menstruum = meth not in NO_MENSTRUUM_METHODS
-    if needs_menstruum:
-        if solv not in SOLV:
-            errors.append(f"{tag}: conditions.solvent '{solv}' not in vocabularies/solvents.yaml")
-        else:
-            declared_pct = SOLV[solv].get("ethanol_pct", "absent")
-            pct = co.get("solvent_pct")
-            if declared_pct is None and not _num(pct):
-                errors.append(f"{tag}: solvent '{solv}' is a variable-strength system and "
-                              f"requires a numeric solvent_pct")
-            if _num(pct) and not (0 <= pct <= 100):
-                errors.append(f"{tag}: solvent_pct {pct} out of range 0-100")
-    for k in ("temperature_c", "time_min", "solid_liquid_ratio"):
+    # Derived from the vocabulary, never hardcoded. An unknown method already
+    # errored above; treat it as menstruum-requiring so the strict path still runs.
+    needs_menstruum = METH.get(meth, {}).get("requires_menstruum", True) is not False
+    # Membership is checked ALWAYS: solvents.yaml carries `none` precisely so that
+    # expression and the distillations have a valid id to record.
+    if solv not in SOLV:
+        errors.append(f"{tag}: conditions.solvent '{solv}' not in vocabularies/solvents.yaml "
+                      f"(use 'none' for methods with requires_menstruum false)")
+    else:
+        takes = SOLV[solv].get("takes_concentration") is True
+        pct = co.get("solvent_pct")
+        if takes and not _num(pct):
+            errors.append(f"{tag}: solvent '{solv}' has takes_concentration: true and requires "
+                          f"a numeric conditions.solvent_pct — the number the paper printed "
+                          f"(63), never a band")
+        if not takes and pct is not None:
+            errors.append(f"{tag}: solvent '{solv}' has takes_concentration: false; "
+                          f"conditions.solvent_pct must be null (got {pct!r})")
+        if _num(pct) and not (0 <= pct <= 100):
+            errors.append(f"{tag}: solvent_pct {pct} out of range 0-100")
+    required_conds = ("temperature_c", "time_min", "solid_liquid_ratio") if needs_menstruum \
+                     else ("temperature_c", "time_min")
+    for k in required_conds:
         v = co.get(k, "__absent__")
         if v == "__absent__":
             errors.append(f"{tag}: conditions.{k} is required (use null and accept the grade cap "
                           f"if the paper genuinely omits it) — silent absence is the signature "
                           f"of an abstract-only read")
-        elif v is None:
+        elif v is None or (isinstance(v, str) and v.strip().lower() == "unspecified"):
             warnings.append(f"{tag}: conditions.{k} is null — this finding cannot be the sole "
                             f"support for an approved recommendation")
     t, tm = co.get("temperature_c"), co.get("time_min")
@@ -1638,39 +1750,64 @@ def _check_finding(nm, fi, i, SOLV, METH, PARTS, errors, warnings):
     slr = co.get("solid_liquid_ratio")
     if slr is not None and needs_menstruum:
         if not RATIO_RE.match(str(slr)):
-            errors.append(f"{tag}: solid_liquid_ratio '{slr}' must be written '1:N' (g:mL)")
-        else:
-            n = float(str(slr).split(":")[1])
+            # THE QUOTING TRAP. PyYAML applies the YAML 1.1 sexagesimal rule, so an
+            # unquoted `1:10` loads as the integer 70 (1*60+10) and `1:20` as 80.
+            # Only ratios whose second term is <=59 are affected — `1:100` stays a
+            # string — so it fails inconsistently and the naive error message ("'70'
+            # must be 'N:M'") points nowhere near the cause. Name the cause instead.
+            if isinstance(slr, int) and not isinstance(slr, bool):
+                errors.append(f"{tag}: solid_liquid_ratio loaded as the integer {slr} — you wrote "
+                              f"it unquoted and YAML read 'N:M' as minutes:seconds "
+                              f"({slr // 60}:{slr % 60:02d} -> {slr}). Quote it: '1:{slr % 60}'. "
+                              f"ALWAYS quote ratios.")
+            else:
+                errors.append(f"{tag}: solid_liquid_ratio '{slr}' must be 'N:M' (g:mL), or the literal 'unspecified', or 'n-a'")
+        elif ":" in str(slr):
+            a, b = (float(x) for x in str(slr).split(":"))
+            n = (b / a) if a else 0
             if not (2 <= n <= 200):
                 errors.append(f"{tag}: solid:liquid 1:{n:g} outside the plausible 1:2-1:200 band")
+        else:
+            warnings.append(f"{tag}: solid_liquid_ratio '{slr}' — condition-incomplete; this "
+                            f"finding cannot be the sole support for an approved recommendation")
     ph = co.get("ph")
     if ph is not None and not (_num(ph) and 0 <= ph <= 14):
         errors.append(f"{tag}: conditions.ph {ph} out of range 0-14")
 
     out = fi.get("outcome") or {}
-    if len(str(out.get("analyte", "")).strip()) < 3:
+    if len(_s(out.get("analyte"))) < 3:
         errors.append(f"{tag}: outcome.analyte is required — 'significantly higher' is an "
                       f"abstract; a named analyte is a Results table")
     q = out.get("quantification")
     if q not in QUANTIFICATION:
         errors.append(f"{tag}: outcome.quantification '{q}' invalid")
-    elif q == "none-declared":
-        errors.append(f"{tag}: quantification 'none-declared' cannot back a recommendation")
-    v, u = out.get("value"), out.get("unit")
+    v, u = out.get("value"), str(out.get("unit") or "").strip()
     if not (_num(v) and v > 0):
         errors.append(f"{tag}: outcome.value must be a positive number (got {v!r})")
-    if u not in OUTCOME_UNITS:
-        errors.append(f"{tag}: outcome.unit '{u}' invalid — an equivalence unit without its "
-                      f"reference standard is not a unit")
-    elif _num(v):
-        lo, hi = UNIT_RANGE[u]
-        if not (lo <= v <= hi):
-            errors.append(f"{tag}: outcome.value {v} implausible for '{u}' (expect {lo}-{hi})")
+    if not u:
+        errors.append(f"{tag}: outcome.unit is required — open text, exactly as printed "
+                      f"('mg/g', 'mL/100 g', '% v/w', 'mg RE/g')")
+    if out.get("unit_basis") not in UNIT_BASES:
+        errors.append(f"{tag}: outcome.unit_basis '{out.get('unit_basis')}' invalid (want "
+                      f"{sorted(UNIT_BASES)}) — a mg/g with no dry/fresh basis is not a number")
+    if EQUIV_UNIT_RE.search(u) and not _s(out.get("reference_standard")):
+        errors.append(f"{tag}: unit '{u}' is an equivalence unit and requires "
+                      f"reference_standard (rutin, gallic acid, quercetin)")
 
     vf = fi.get("varied_factor")
     if vf not in VARIED_FACTORS:
         errors.append(f"{tag}: varied_factor '{vf}' invalid")
-    levels = [x for x in (out.get("comparator_levels") or []) if _num(x)]
+    # TWO views of the level set, and the distinction is load-bearing.
+    # `all_levels` counts what the paper tested — a categorical sweep is a real sweep.
+    # `levels` is the numeric subset, used ONLY for arithmetic (membership, envelope).
+    # Filtering to numerics BEFORE counting made `varied_factor: method` unauthorable at
+    # every tier: its levels are words ('maceration', 'uae', 'soxhlet'), so the count was
+    # always 0 and comparative-bench hard-errored, while downgrading to characterisation
+    # tripped 'cannot report an optimum'. A method-comparison paper is the ONLY evidence
+    # there is for recommendation.method, which is a required field.
+    all_levels = [x for x in (out.get("comparator_levels") or [])
+                  if _num(x) or _s(x)]
+    levels = [x for x in all_levels if _num(x)]
     need = 3 if tier == "optimisation" else 2 if tier == "comparative-bench" else 0
     if tier == "optimisation" and fi.get("design") not in DOE_DESIGNS:
         errors.append(f"{tag}: method_type 'optimisation' requires design in {sorted(DOE_DESIGNS)}")
@@ -1678,14 +1815,22 @@ def _check_finding(nm, fi, i, SOLV, METH, PARTS, errors, warnings):
     if need:
         if vf == "none":
             errors.append(f"{tag}: tier '{tier}' asserts a factor was varied but varied_factor is 'none'")
-        if len(levels) < need:
+        if len(all_levels) < need:
             errors.append(f"{tag}: tier '{tier}' requires >={need} comparator_levels (the FULL set "
-                          f"the Methods say was tested); got {len(levels)}")
-        if opt is None and not str(out.get("optimum_value", "")).strip():
+                          f"the Methods say was tested); got {len(all_levels)}")
+        if opt is None and not _s(out.get("optimum_value")):
             errors.append(f"{tag}: a comparative finding must record which level won")
         if _num(opt) and levels and opt not in levels:
             errors.append(f"{tag}: optimum_level {opt} is not a member of comparator_levels "
                           f"{levels} — that is what a guessed level set looks like")
+        # Same membership rule for a categorical winner: naming a winner that was never
+        # among the tested levels is the same defect whether it is a number or a word.
+        ov = _s(out.get("optimum_value"))
+        if ov and not _num(opt):
+            cats = [_s(x) for x in all_levels if not _num(x)]
+            if cats and ov.casefold() not in {c.casefold() for c in cats}:
+                errors.append(f"{tag}: optimum_value '{ov}' is not a member of comparator_levels "
+                              f"{cats} — that is what a guessed level set looks like")
         if _num(opt) and vf in ("solvent_pct", "temperature_c", "time_min", "ph"):
             here = co.get(vf)
             if _num(here) and here != opt:
@@ -1712,11 +1857,43 @@ def _check_recommendation(nm, rec, findings, SOLV, METH, errors, warnings):
     """
     r = rec.get("recommendation")
     if not isinstance(r, dict) or not r:
-        errors.append(f"{nm}: recommendation is required and must be a mapping")
+        # An avoid-only record is legitimate and deliberately cheap: the cost of a
+        # wrong precaution is a suboptimal extract; the cost of a wrong instruction
+        # is somebody drinking it for two years.
+        if not (rec.get("avoid") or []):
+            errors.append(f"{nm}: needs a recommendation{{}} or a non-empty avoid[] — "
+                          f"a record that asserts neither says nothing")
         return
     param = r.get("parameter")
     if not param:
         errors.append(f"{nm}: recommendation.parameter is required")
+
+    if r.get("route") not in ROUTES:
+        errors.append(f"{nm}: recommendation.route '{r.get('route')}' invalid — required, "
+                      f"want internal|topical. A band with no route renders in the tincture "
+                      f"calculator as something to drink.")
+    if len(_s(r.get("statement"))) < 20:
+        errors.append(f"{nm}: recommendation.statement is required — the sentence a reader "
+                      f"actually sees, not just the numbers behind it")
+    handles = [str(fi.get("id", "")) for fi in findings if isinstance(fi, dict)]
+    for h in handles:
+        if not re.match(r"^F\d+$", h):
+            errors.append(f"{nm}: findings[] entry has bad or missing id '{h}' (want F1, F2, …) "
+                          f"— derived_from[] points at these handles")
+    dupes = sorted({h for h in handles if h and handles.count(h) > 1})
+    if dupes:
+        errors.append(f"{nm}: duplicate findings[].id handles {dupes}")
+    df = r.get("derived_from") or []
+    if not df:
+        errors.append(f"{nm}: recommendation.derived_from must name the finding ids the band "
+                      f"came from")
+    for src in df:
+        if src not in handles:
+            errors.append(f"{nm}: recommendation.derived_from '{src}' resolves to no finding")
+    for i, av in enumerate(rec.get("avoid") or []):
+        for src in ((av or {}).get("derived_from") or []):
+            if src not in handles:
+                errors.append(f"{nm}: avoid[{i}].derived_from '{src}' resolves to no finding")
 
     if rec.get("record_type") == "extraction":
         rs, rm = r.get("solvent"), r.get("method")
@@ -1755,13 +1932,21 @@ def _check_recommendation(nm, rec, findings, SOLV, METH, errors, warnings):
     if param == "solvent_pct" and not (0 <= lo and hi <= 100):
         errors.append(f"{nm}: recommendation.range {rng} outside 0-100 for solvent_pct")
 
+    # Normative records and non-swept parameters have no envelope. Ph. Eur. does not
+    # report that 1:5 is optimal; it defines what may be CALLED a tincture, and
+    # shelf_life_months / drug_extract_ratio are not factors anyone varies in a run.
+    if rec.get("parameter_kind") == "normative" or param in ("shelf_life_months",
+                                                             "drug_extract_ratio"):
+        return
     rs = r.get("solvent")
     swept, optima = [], []
     for fi in findings:
         if not isinstance(fi, dict) or fi.get("varied_factor") != param:
             continue                            # a temperature sweep says nothing about a % band
-        if param == "solvent_pct" and (fi.get("conditions") or {}).get("solvent") != rs:
-            continue                            # methanol optima do not transfer to ethanol
+        if (fi.get("conditions") or {}).get("solvent") != rs:
+            continue    # Partition by solvent on EVERY axis, not just solvent_pct. Solvent
+                        # boiling point, viscosity and analyte solubility all move the
+                        # optimum: a methanol temperature curve is not an ethanol one.
         out = fi.get("outcome") or {}
         swept += [x for x in (out.get("comparator_levels") or []) if _num(x)]
         if _num(out.get("optimum_level")):
@@ -1786,11 +1971,11 @@ def _check_scope(nm, rec, findings, plant_ids, errors, warnings):
     if scope not in SPECIES_SCOPES:
         errors.append(f"{nm}: species_scope '{scope}' invalid (want {sorted(SPECIES_SCOPES)})")
         return
-    found = sorted({str((fi.get("material") or {}).get("species", "")).strip()
+    found = sorted({_s((fi.get("material") or {}).get("species"))
                     for fi in findings if isinstance(fi, dict)
-                    and str((fi.get("material") or {}).get("species", "")).strip()})
+                    and _s((fi.get("material") or {}).get("species"))})
     if scope == "species-specific":
-        sp = str(rec.get("species", "")).strip()
+        sp = _s(rec.get("species"))
         if not BINOMIAL_RE.match(sp):
             errors.append(f"{nm}: species-specific record needs a valid `species` binomial")
             return
@@ -1812,7 +1997,7 @@ def _check_scope(nm, rec, findings, plant_ids, errors, warnings):
         return
     if g.get("basis") not in GENERALISATION_BASES:
         errors.append(f"{nm}: generalisation.basis '{g.get('basis')}' invalid")
-    if len(str(g.get("rationale", "")).strip()) < 80:
+    if len(_s(g.get("rationale"))) < 80:
         errors.append(f"{nm}: generalisation.rationale must say WHY the physicochemistry carries "
                       f"across species, in >=80 chars. 'Similar compounds' is not a rationale.")
     for s in (g.get("excluded_taxa") or []):
@@ -1821,32 +2006,66 @@ def _check_scope(nm, rec, findings, plant_ids, errors, warnings):
         if str(s).strip() in found:
             errors.append(f"{nm}: '{s}' is both an excluded taxon and a source taxon")
     if len({s.split()[0] for s in found}) < 2:
-        warnings.append(f"{nm}: class-general record rests on a single genus — it is a species "
+        warnings.append(f"{nm}: draft class-general record rests on a single genus — it is a species "
                         f"result wearing a class label and cannot be approved")
 
 
 def _check_copyright(nm, rec, errors):
     """Pharmacopoeias are paywalled, copyrighted normative texts. The schema's
     maxLength:300 and `abstract: false` are inert (nothing loads schema/*.json).
-    These four lines are the only thing that runs."""
-    for i, nc in enumerate(rec.get("normative_citations") or []):
-        if not isinstance(nc, dict):
-            errors.append(f"{nm}: normative_citations[{i}] is not a mapping")
+    This function is the only thing that runs."""
+    # statement_summary lives on the FINDING (schema $defs.finding).
+    # `normative_citations[]` is a field name from the losing draft: it is not in
+    # practice.schema.json at all, so keying this gate on it means it never fires.
+    for i, fi in enumerate(rec.get("findings") or []):
+        if not isinstance(fi, dict):
             continue
-        s = str(nc.get("statement_summary", ""))
+        s = _s(fi.get("statement_summary"))
         if len(s) > 300:
-            errors.append(f"{nm}: normative_citations[{i}].statement_summary is {len(s)} chars "
-                          f"(max 300). Paraphrase the requirement in one sentence; a summary "
-                          f"long enough to substitute for buying the monograph is too long.")
-        if nc.get("abstract") or nc.get("monograph_text") or nc.get("quote"):
-            errors.append(f"{nm}: normative_citations[{i}] carries reproduced monograph text — "
-                          f"cite coordinates only, never the text")
-        for k in ("pharmacopoeia", "edition", "monograph_number"):
-            if not str(nc.get(k, "")).strip():
-                errors.append(f"{nm}: normative_citations[{i}] missing '{k}'")
+            errors.append(f"{nm}: findings[{i}].statement_summary is {len(s)} chars (max 300). "
+                          f"Paraphrase the requirement in ONE sentence in your own words. A "
+                          f"summary long enough to substitute for buying the monograph is too "
+                          f"long, and a transcription is a reproduction.")
+        for k in ("monograph_text", "quote", "verbatim", "abstract"):
+            if fi.get(k):
+                errors.append(f"{nm}: findings[{i}] carries reproduced monograph text in '{k}' "
+                              f"— cite locator.edition + locator.monograph only")
+        if (fi.get("method_type") or "") == "pharmacopoeial" and not s.strip():
+            errors.append(f"{nm}: findings[{i}] is pharmacopoeial and needs a statement_summary")
 
 
-def _check_approval(nm, rec, findings, bib_fields, errors):
+def _check_toxicity(nm, rec, COMPRECS, errors):
+    """FAIL CLOSED, here or nowhere. compound.schema.json's `default: avoid-internal`
+    is inert — nothing in scripts/ loads JSON Schema — so an absent flag is
+    unconstrained unless this function treats it as avoid-internal."""
+    if rec.get("record_type") != "extraction":
+        return
+    cid = (rec.get("key") or {}).get("compound_id")
+    flag = (COMPRECS.get(cid) or {}).get("toxicity_flag", "avoid-internal")
+    if flag not in TOXICITY_FLAGS:
+        errors.append(f"{nm}: compounds/{cid}.yaml toxicity_flag '{flag}' invalid "
+                      f"(want {sorted(TOXICITY_FLAGS)})")
+        flag = "avoid-internal"
+    r = rec.get("recommendation") or {}
+    if flag == "none" or not r:
+        return
+    if len(_s(rec.get("limit_rationale"))) < 120:
+        errors.append(f"{nm}: key.compound_id '{cid}' carries toxicity_flag '{flag}' (ABSENT "
+                      f"counts as avoid-internal — fail closed). A recommendation keyed on it "
+                      f"requires limit_rationale >=120 chars stating the dose or route limit "
+                      f"and why the band is not the argmax of a yield table.")
+    if flag == "topical-only" and r.get("route") != "topical":
+        errors.append(f"{nm}: compound '{cid}' is topical-only; recommendation.route must be "
+                      f"'topical' (got {r.get('route')!r})")
+    if flag == "avoid-internal" and r.get("route") == "internal":
+        errors.append(f"{nm}: compound '{cid}' is avoid-internal; no internal recommendation "
+                      f"may be authored on it")
+    if rec.get("status") == "approved" and not (rec.get("reviewed_by") and rec.get("verified_by")):
+        errors.append(f"{nm}: approved record keyed on toxicity-flagged '{cid}' needs both "
+                      f"reviewed_by and verified_by")
+
+
+def _check_approval(nm, rec, findings, errors):
     rows = practice_finding_rows(rec, findings)
     idx = practice_score_from_rows(rows)
     adm = [r for r in rows if r["admissible"]]
@@ -1854,19 +2073,41 @@ def _check_approval(nm, rec, findings, bib_fields, errors):
         errors.append(f"{nm}: approved but method-confidence index is {idx} "
                       f"(band '{practice_band(idx)}'); approval requires >=5")
     n_ind = practice_n_independent(adm)
-    if n_ind < 2:
+    if rec.get("parameter_kind") == "normative":
+        # R1-13: the >=2-independent-source rule was designed for empirical
+        # concordance and does not apply to definitions. Disagreement between
+        # bodies is TWO jurisdiction-scoped records, not one contested record.
+        if not _s((rec.get("recommendation") or {}).get("jurisdiction")):
+            errors.append(f"{nm}: approved normative record needs recommendation.jurisdiction "
+                          f"and a jurisdiction-scoped statement ('Ph. Eur. defines a tincture "
+                          f"as 1:5 in 70% ethanol') — one authority suffices only when scoped")
+    elif n_ind < 2:
         errors.append(f"{nm}: approved on {n_ind} independent source(s); approval requires >=2 "
                       f"independent research groups")
     if rec.get("parameter_kind") == "empirical" and not any(
             r["tier"] in ("optimisation", "comparative-bench") for r in adm):
         errors.append(f"{nm}: approved with no optimisation or comparative-bench finding — no "
                       f"cited paper actually varied the factor being recommended")
+    vb, rb = _s(rec.get("verified_by")), _s(rec.get("reviewed_by"))
+    if not vb or not DATE_RE.match(str(rec.get("verified_date", ""))):
+        errors.append(f"{nm}: approved record needs verified_by + verified_date — a second "
+                      f"person opened the cited PDFs and checked the locators")
+    elif vb.casefold() == rb.casefold():
+        errors.append(f"{nm}: verified_by must DIFFER from reviewed_by. The entire content of "
+                      f"the check is that it was a different person.")
     if not rec.get("reviewed_by"):
         errors.append(f"{nm}: approved record missing reviewed_by")
     if not DATE_RE.match(str(rec.get("reviewed_date", ""))):
         errors.append(f"{nm}: approved record bad reviewed_date '{rec.get('reviewed_date')}'")
+    if rec.get("species_scope") == "class-general":
+        gen = {s.split()[0] for s in
+               {_s((fi.get("material") or {}).get("species"))
+                for fi in findings if isinstance(fi, dict)} if s}
+        if len(gen) < 2:
+            errors.append(f"{nm}: approved class-general record rests on {len(gen)} genus/genera "
+                          f"— that is a species result wearing a class label")
     disc = practice_n_independent([r for r in adm if r["in_band"] is False])
-    if disc and not str(rec.get("discordance_note", "")).strip():
+    if disc and not _s(rec.get("discordance_note")):
         errors.append(f"{nm}: {disc} independent finding(s) fall outside the band; an approved "
                       f"record must carry a discordance_note. Deleting the inconvenient finding "
                       f"to lift the score is falsifying the grade.")
@@ -1985,8 +2226,8 @@ def practice_in_band(fi, rec):
     param = r.get("parameter")
     if fi.get("varied_factor") != param:
         return None
-    if param == "solvent_pct" and (fi.get("conditions") or {}).get("solvent") != r.get("solvent"):
-        return None
+    if (fi.get("conditions") or {}).get("solvent") != r.get("solvent"):
+        return None   # Same partition as validate.py's envelope, on every axis.
     rng = r.get("range")
     x = out.get("optimum_level")
     if isinstance(rng, list) and len(rng) == 2 and all(isinstance(y, (int, float)) for y in rng) \
@@ -2063,20 +2304,33 @@ NEW:
     # Loaded here, before citations.json, because the corpus dimension and the
     # practice linkage both feed the citation rows below.
     practice = load_practice()
+    # Whole-tree walk mirroring validate.py's find_refs(). The ref surface is
+    # findings[], context_reference_ids[], references[], avoid[].context_reference_ids[]
+    # and the whole species_overrides subtree. Hand-enumerating it is how a source
+    # gets silently mislabelled `clinical` in the public library.
+    #
+    # Own pattern, NOT build.py's module-level REF_RE, which is r"REF-\d{3,}" while
+    # validate.py's is r"REF-\d{4,}". No live id is 3-digit so the two agree today, but
+    # "mirrors find_refs()" has to be true of the regex as well as the traversal, or the
+    # corpus derivation and the orphan accounting drift apart the first time a 3-digit
+    # id exists. Do not swap in REF_RE to save a line.
+    _PRACTICE_REF_RE = re.compile(r"REF-\d{4,}")
+    _PROSE = {"internal_notes"}
+
+    def _walk_refs(node):
+        if isinstance(node, dict):
+            for k, v in node.items():
+                if k not in _PROSE:
+                    yield from _walk_refs(v)
+        elif isinstance(node, list):
+            for v in node:
+                yield from _walk_refs(v)
+        elif isinstance(node, str):
+            yield from _PRACTICE_REF_RE.findall(node)
+
     practice_refs = set()
     for _pr in practice:
-        for _fi in (_pr.get("findings") or []):
-            if isinstance(_fi, dict) and _fi.get("ref_id"):
-                practice_refs.add(_fi["ref_id"])
-        for _nc in (_pr.get("normative_citations") or []):
-            if isinstance(_nc, dict) and _nc.get("ref_id"):
-                practice_refs.add(_nc["ref_id"])
-        for _r in (_pr.get("context_reference_ids") or []) + (_pr.get("references") or []):
-            practice_refs.add(_r)
-        for _ov in (_pr.get("species_overrides") or []):
-            for _fi in ((_ov or {}).get("findings") or []):
-                if isinstance(_fi, dict) and _fi.get("ref_id"):
-                    practice_refs.add(_fi["ref_id"])
+        practice_refs.update(_walk_refs(_pr))
 ```
 
 ### Edit C — the corpus key on every citation row
@@ -2128,11 +2382,12 @@ NEW:
                 "id": pr.get("id", ""), "record_type": pr.get("record_type", ""),
                 "parameter_kind": pr.get("parameter_kind", ""),
                 "species_scope": pr.get("species_scope", ""),
+                "compound_id": k.get("compound_id"), "species": pr.get("species", ""),
                 "extraction_class": k.get("extraction_class"), "part": k.get("part"),
                 "solvent": k.get("solvent"), "method": k.get("method"),
                 "recommendation": pr.get("recommendation") or {},
                 "avoid": pr.get("avoid") or [],
-                "source_taxa": sorted({str((f.get("material") or {}).get("species", "")).strip()
+                "source_taxa": sorted({str((f.get("material") or {}).get("species") or "").strip()
                                        for f in (pr.get("findings") or []) if isinstance(f, dict)
                                        and (f.get("material") or {}).get("species")}),
                 "excluded_taxa": sorted((pr.get("generalisation") or {}).get("excluded_taxa") or []),
@@ -2149,7 +2404,8 @@ NEW:
                 "scale": "omnia-sana/method-confidence@1",
                 "status": pr.get("status", ""),
             })
-        rows.sort(key=lambda r: (str(r["extraction_class"] or ""), str(r["part"] or ""),
+        rows.sort(key=lambda r: (str(r["compound_id"] or ""),
+                                 str(r["extraction_class"] or ""), str(r["part"] or ""),
                                  str(r["solvent"] or ""), str(r["method"] or ""), r["id"]))
         return rows
 
@@ -2159,7 +2415,12 @@ NEW:
                        (os.path.join(VOCAB, "extraction_methods.yaml"), methods_pub),
                        (os.path.join(VOCAB, "extraction_classes.yaml"), xclasses_pub)):
         for _v in yaml.safe_load(open(_fn, encoding="utf-8")):
-            _sink.append({k: v for k, v in _v.items() if k != "note"})
+            # `note` is editorial; `optimal_ethanol_pct` and `compounds` are EDITOR
+            # ORIENTATION with no reference behind them. An unsourced band sitting in
+            # the calculator's own data file is the number that gets used when a class
+            # has no resolved record, so it must not exist in the public artifact.
+            _sink.append({k: v for k, v in _v.items()
+                          if k not in ("note", "optimal_ethanol_pct", "compounds")})
     write(os.path.join(OUT, "practice.v1.json"),
           {"schema": "omnia-sana/practice@1", "count": len(approved_pr),
            "solvents": solvents_pub, "methods": methods_pub, "classes": xclasses_pub,
@@ -2174,6 +2435,29 @@ NEW:
 ```
 
 Note the twin filter follows the existing idiom exactly: `if status and pr.get("status") != status` — the truthiness guard means `status=None` disables filtering, so the draft twin is the **review superset** (draft + approved), matching `interaction_rows`.
+
+### Edit G — widen the vocab.json compound projection
+
+This is R2-12's consumer: without it, `resolution` and `toxicity_flag` are authored
+on the compound record and read by nothing, which fails invariant 4.
+
+OLD:
+```python
+        "compounds": [{"id": c["id"], "name": c["name"], "class": c.get("class", "")} for c in compounds.values()],
+```
+NEW:
+```python
+        # Defaults applied HERE, not by JSON Schema (which nothing loads): absent
+        # resolution is 'unresolvable' and absent toxicity_flag is 'avoid-internal',
+        # so an untriaged compound reaches the front end as "no recommendation"
+        # rather than as silence a renderer can misread as "safe".
+        "compounds": [{"id": c["id"], "name": c["name"], "class": c.get("class", ""),
+                       "extraction_class": c.get("extraction_class", []),
+                       "resolution": c.get("resolution", "unresolvable"),
+                       "toxicity_flag": c.get("toxicity_flag", "avoid-internal"),
+                       "regulatory_limit": c.get("regulatory_limit", "")}
+                      for c in compounds.values()],
+```
 
 ### Edit E — manifest list
 
@@ -2230,7 +2514,7 @@ NEW:
       "default": "publication",
       "description": "Source shape. 'publication' is the historical shape and the behaviour when this field is ABSENT, so none of the 3110 existing entries need backfilling. 'standard' is a normative pharmacopoeial monograph: paywalled, copyrighted, prescriptive rather than descriptive. There is ONE bibliography and ONE REF sequence — a second schema file would describe a record class with no store, and splitting `declared` would manufacture the orphan false-positive class whose documented remediation is destructive."
     },
-    "pharmacopoeia": {"type": "string", "enum": ["ph-eur", "usp", "bhp", "ahp", "bp", "who-monographs", "escop"], "description": "Issuing body. kind: standard only."},
+    "pharmacopoeia": {"type": "string", "enum": ["ph-eur", "usp-nf", "bhp", "ahp", "bp", "who-monographs", "escop"], "description": "Issuing body. kind: standard only."},
     "edition": {"type": "string", "description": "Edition and supplement, e.g. '11th Ed., Supplement 11.5 (2024)'. Part of the IDENTITY of a standard: monograph numbers persist across editions while their requirements change, so an uncited edition is unverifiable. kind: standard only."},
     "monograph_number": {"type": "string", "description": "e.g. '1559', '0765', '<565>'. kind: standard only."},
     "monograph_title": {"type": "string", "description": "e.g. 'Tinctures'. Note display_title() needs >=6 alphabetic characters in `title` or it falls back to the url host, so `title` should read e.g. 'Tinctures (Ph. Eur. monograph 1559)'."},
@@ -2384,12 +2668,12 @@ NEW:
 
 # 4. DAY-ONE GREEN CHECK
 
-**Landing set:** empty `practice/` directory (plus `.gitkeep`), the four new `vocabularies/*.yaml` files, `schema/practice.schema.json`, all of §3.1–3.7 above. No practice records, no bibtex changes.
+**Landing set:** empty `practice/` directory (plus `.gitkeep`), the three new `vocabularies/*.yaml` files, `schema/practice.schema.json`, all of §3.1–3.7 above. No practice records, no bibtex changes.
 
 **`validate.py` path, traced:**
 1. Edit A constants — pure module-level regex/set construction, no I/O. Safe.
 2. `sys.path.insert` + `from build import ...` — `scripts/build.py` guards `main()` behind `if __name__ == "__main__":` (confirmed, last two lines of the file), so importing executes only module-level defs and the `ROOT/BIB/PLANTS/...` path constants. `os.path.join` on a nonexistent `practice/` does not touch the filesystem. **No side effects. Safe.** Circular-import risk is nil: build.py does not import validate.
-3. Edit C vocab loads — `vocab_map`/`vocab_ids` open four files with no `try`, exactly like the existing five. **This is the only thing that can break green:** if any of `solvents.yaml`, `extraction_methods.yaml`, `extraction_classes.yaml`, `parts.yaml` is missing, it is an unhandled `FileNotFoundError` that kills the gate. **Land the four YAML files in the same commit as Edit C.** Each must parse as a list of mappings each carrying `id` — a mapping or a `None` raises `TypeError`/`AttributeError` inside the comprehension.
+3. Edit C vocab loads — `vocab_map`/`vocab_ids` open three files with no `try`, exactly like the existing five. **This is the only thing that can break green:** if any of `solvents.yaml`, `extraction_methods.yaml`, `extraction_classes.yaml` is missing, it is an unhandled `FileNotFoundError` that kills the gate. **Land the three YAML files in the same commit as Edit C.** There is no `parts.yaml` — the part axis is frozen null in v1 (R1-3). Each must parse as a list of mappings each carrying `id` — a mapping or a `None` raises `TypeError`/`AttributeError` inside the comprehension.
 4. Plants loop — untouched. 187 files, `cited` populated as before.
 5. Practice loop — `glob.glob(os.path.join(ROOT, "practice", "**", "*.yaml"), recursive=True)` on an empty (or absent) directory returns `[]`. Loop body never executes. `bib_fields` parses fine (and is wrapped in try/except anyway). `practice_plant_refs` is empty, so its resolution loop is a no-op.
 6. `missing`/`orphan` — `cited` is byte-identical to today's, `declared` unchanged. Baseline is **3110 cited / 3110 declared, zero orphans**; that holds exactly.
@@ -2404,12 +2688,12 @@ NEW:
 6. Print block gains `practice : 0 approved (0 incl. draft)`. ✅
 
 **Things that break green if you get them wrong — all four verified:**
-- Missing any of the four new vocabulary YAML files → unhandled crash in both scripts. *(Same commit.)*
+- Missing any of the three new vocabulary YAML files → unhandled crash in both scripts. *(Same commit.)*
 - A vocabulary file that is not a list of `{id: ...}` mappings → `TypeError` in the comprehension.
 - Adding `"practice.v1.json"` to the manifest list without the emitter → `FileNotFoundError`, and `build/` is left half-updated with a manifest describing the previous run.
 - Naming the twin anything but `practice.v1.draft.json` → it is **not** matched by `.gitignore`'s `build/*.draft.json`, gets committed, reaches `osdb/main`, and the WordPress sync serves unreviewed recommendations.
 
-**Not required for green, confirmed:** the `parts_used` cleanup (58 distinct dirty values, composites like `'Root (and bark, wood)'` still live), the seven fungal `Whole Plant` records, the missing garlic `Bulb`, the 69 compound `extraction_class`/`toxicity_flag` assignments, the 92 constituent entries with no `compounds` list. Nothing on day one joins `parts_used` to `parts.yaml`.
+**Not required for green, confirmed:** the `parts_used` cleanup (58 distinct dirty values, composites like `'Root (and bark, wood)'` still live), the seven fungal `Whole Plant` records, the missing garlic `Bulb`, the 69 compound `extraction_class`/`toxicity_flag` assignments, the 92 constituent entries with no `compounds` list. Nothing on day one joins `parts_used` to anything — there is no `parts.yaml`, and `key.part` hard-errors on any non-null value.
 
 **One expected new warning class:** none. Zero practice records means zero new refs, so the orphan list stays empty.
 
@@ -2417,7 +2701,7 @@ NEW:
 
 # 5. DEFERRED — order and blockers
 
-**D0 (day one, one commit).** §3.1 A–E + D2–D4, §3.2 A–F, §3.3, §3.5, §3.6, §3.7, `schema/practice.schema.json`, the four vocabularies, empty `practice/`. *Blocked on:* nothing. The three one-liners the refutations flagged as must-not-slip — CI trigger path, `cited.update`, and the `corpus` contradiction (resolved by deriving, not validating) — are all inside this commit.
+**D0 (day one, one commit).** §3.1 A–E + D2–D4, §3.2 A–G, §3.3, §3.5, §3.6, §3.7, `schema/practice.schema.json`, the three vocabularies (`solvents.yaml`, `extraction_methods.yaml`, `extraction_classes.yaml`), `practice/README.md`, empty `practice/`. *Blocked on:* nothing. The three one-liners the refutations flagged as must-not-slip — CI trigger path, `cited.update`, and the `corpus` contradiction (resolved by deriving, not validating) — are all inside this commit.
 
 **D1 — reconcile the record shape, in writing, before anyone authors.** The two upstream drafts specify disjoint field names for every anti-skim field; a schema-A-shaped record hard-errors on every field of the schema-B validator. Delete the losing document so nobody authors against it. *Blocked on:* nothing. *Blocks:* everything below.
 
@@ -2427,7 +2711,7 @@ NEW:
   3. *Only then* add the first practice bibtex entry.
   Reversing 2 and 3 dumps 120–160 extraction-methodology papers and pharmacopoeial monographs into a clinical-evidence library with no filter to exclude them and heuristic tier labels (`classify_tier` routes `@book`/`@misc` monographs to `traditional`). Consider bumping the envelope to `knowledge-finder@3` if the WP consumer branches on it.
 
-**D3 — the toxicity gate, before the first approved extraction record.** Populate `toxicity_flag` + `regulatory_limit` on the ~12 ids (`alkaloid`, `coumarin`, `asarone`, `sesquiterpene-lactone`, `hypericin`, `berberine`, `allicin`, …), widen the `vocab.json` compound projection, and add the fail-closed validate rule plus a required `route: internal|topical` on the recommendation. *Blocked on:* D1. *Blocks:* any `status: approved` extraction record. Absent `toxicity_flag` defaults to `avoid-internal`, so this is enforced by construction, not by discipline.
+**D3 — the toxicity gate, before the first approved extraction record.** Populate `toxicity_flag` + `regulatory_limit` on the ~12 ids (`alkaloid`, `coumarin`, `asarone`, `sesquiterpene-lactone`, `hypericin`, `berberine`, `allicin`, …), and widen the `vocab.json` compound projection. The fail-closed validate rule (`_check_toxicity`) and the required `route` ship in D0 — an ABSENT `toxicity_flag` is enforced as `avoid-internal` by that function, not by the schema `default`, which nothing reads. What D3 adds is the flag *data* on the ~12 ids; until it lands, every extraction record keyed on an untriaged compound requires `limit_rationale`. *Blocked on:* D1. *Blocks:* any `status: approved` extraction record. Absent `toxicity_flag` is treated as `avoid-internal` by `_check_toxicity()` in validate.py. Nothing about that is "by construction" — the JSON Schema `default` keyword is inert in this repo, and if that function is ever removed the default silently becomes "unconstrained".
 
 **D4 — pharmacopoeial rendering.** `harvard()` branch for `kind == "standard"` (it currently drops `edition` and `monograph_number` — the entire citation identity), a `link_type: "normative"` branch so `best_link()` stops emitting a Google Scholar **search** URL as the source, and a `title` convention satisfying `display_title()`'s ≥6-alphabetic-character rule. Each must be provably no-op for the 3110 entries with no `kind`. *Blocked on:* D2 step 3.
 
@@ -2454,7 +2738,7 @@ This is sized in **entries, not papers**, and is invisible in the 120–200 pape
 | # | Risk | Mitigation |
 |---|---|---|
 | 1 | **A recommendation derived from lab-solvent findings renders as an ethanol instruction.** `recommendation` had no solvent field at all in the drafts, and the extrapolation check pooled comparator levels across solvents and across parameters — so a methanol sweep of 20–90% legitimises "60–75% ethanol", and a temperature sweep of 40–80 °C legitimises it too. | `recommendation.solvent` and `.method` required and gated on `consumer_safe`/`consumer_reproducible` loaded from the vocabulary (§3.1 D3); envelope and concordance partitioned by both `varied_factor` and solvent (§3.1 D3, §3.2 `practice_in_band`). |
-| 2 | **A yield-maximising recommendation joined on `alkaloid` or `coumarin` tells a user to maximise a hepatotoxin** — the ids are shared by comfrey, butterbur, coltsfoot, celandine, arnica and cassia, and `compounds/*.yaml` has no toxicity field to gate on. | `toxicity_flag` defaults to `avoid-internal` (fail-closed), so an untriaged compound cannot carry an approved record; D3 is a hard prerequisite to the first approval; required `route` cross-checked against `parts_used`. |
+| 2 | **A yield-maximising recommendation joined on `alkaloid` or `coumarin` tells a user to maximise a hepatotoxin** — the ids are shared by comfrey, butterbur, coltsfoot, celandine, arnica and cassia, and `compounds/*.yaml` has no toxicity field to gate on. | `toxicity_flag` defaults to `avoid-internal` (fail-closed), so an untriaged compound cannot carry an approved record; D3 is a hard prerequisite to the first approval; required `route`, cross-checked against the keyed compound's `toxicity_flag` (`topical-only` forces `route: topical`, which is what covers arnica). The `parts_used` cross-check is NOT implemented and is gated on D7 — `parts_used` is 58 dirty free-text strings, so a check against it today would be a check against noise. |
 | 3 | **False orphans get the practice bibliography deleted.** Baseline is 0 orphans / 3110 declared, so the first practice batch produces an orphan block that is entirely practice REFs, in a repo where that list has never had anything in it — and the skill says to delete them. | `cited.update(find_refs(rec))` in the practice loop, landing in the **same commit as the directory** (§3.1 D); the precondition block added to both CLAUDE.md and osdb-verify-integrity (§3.6, §3.7); `refs cited N` in the summary as the live tell. |
 | 4 | **Unreviewed recommendations reach the live site.** Two independent paths: a draft twin named anything but `practice.v1.draft.json` misses the `build/*.draft.json` gitignore and gets committed to `osdb/main`; and any practice data denormalised onto the plant record ships status-ignored, exactly as 280 draft preparations and 84 draft dosages already do. | Twin name fixed and commented at the emitter (§3.2 D); no plant-record extension until `approved_only()` coverage is widened (D8). |
 | 5 | **The method-confidence score is read as an efficacy score.** A second numeric confidence scale now exists on the same site — and 918 of 1,696 live claims displayed an inflated evidence label for four weeks the last time two scales coexisted, while every sync reported success. | The artifact emits **no key named `evidence`**, so a clinical renderer pointed at a practice record renders nothing rather than the wrong thing; a `scale: "omnia-sana/method-confidence@1"` marker the front end can assert on; word + 4-segment bar under "Method confidence", never dots, never "N/10"; spot-check the extremes on the live page — a bench-only record must not render as strong. |
@@ -2467,6 +2751,16 @@ Produced by a three-agent audit of this document against the live tree at commit
 `22f88ed`: one applicability pass (do the edits apply?), one consistency-and-safety
 pass (do sections 2 and 3 agree, and are the four safety gates real?), and one
 reconciliation that re-verified both and dropped what did not survive checking.
+
+> **STATUS: APPLIED 2026-07-20.** All 14 blocking (A1–A14) and 7 major (B1–B7)
+> corrections below were applied to sections 1–6. This appendix is now the **audit
+> record** — kept so the rationale for each change survives, and so a reviewer can
+> check the body against it. It is no longer a to-do list. Where the appendix's
+> "Replacement" text and the body differ in wording, the **body** is authoritative;
+> where they differ in *substance*, that is a defect — report it.
+>
+> The paragraph immediately below is preserved as written at audit time and
+> describes the state **before** that edit.
 
 **These corrections are NOT applied to sections 1-6 above.** Section 3 still
 contains all fourteen blocking defects listed here. Apply this appendix to
@@ -3229,3 +3523,83 @@ NEW:
 5. **`vocab.json` growing four keys per compound (Edit G) changes a live artifact the site already consumes.** Whether any current front-end code breaks on the wider projection is unknown from this repo.
 6. **The `usp` → `usp-nf` alignment touches three files.** If any existing tooling outside this repo keys on `usp`, it breaks silently. Grep the WordPress side before landing it.
 7. **The eight excluded plants and the 324 unresolved slots are unchanged by any of this.** A green build with 20 silently-empty plants is still not success, and no check in this document reports that number.
+
+---
+
+---
+
+# APPENDIX B — POST-APPLICATION FINDINGS (2026-07-20)
+
+Produced after APPENDIX A was applied, by a two-auditor adversarial pass (one
+completeness audit correction-by-correction, one Python-coherence audit) with every
+candidate finding independently refuted before being recorded. 9 candidates, 3
+refuted, 6 confirmed.
+
+**The completeness audit found no missing or misapplied correction.** All 14 blocking
+and 7 major items landed in substance. Everything below is either an artifact of
+anchor-based editing or a defect that was *already in* Appendix A's own replacement
+text and therefore survived faithful application. That distinction matters: Appendix A
+was read-checked, not run, and this is the second defect class its RESIDUAL RISK item 1
+predicted.
+
+## Fixed in this pass
+
+- **B-0 (was blocking) — `str(x.get(k, "")).strip()` accepted explicit YAML nulls.**
+  `str(None)` is `'None'`: four truthy characters that survive `.strip()` and clear a
+  `len(...) < 3` test. Twenty sites, prescribed by Appendix A itself, silently defeating
+  the copyright gate, the equivalence-unit gate, `verified_by`, `jurisdiction` and
+  `discordance_note` — while the spec *instructs* authors to write nulls. Note
+  `.get(k, "")` never helps: the default applies only when the key is ABSENT, never when
+  it is present and null. Replaced with a single named helper `_s()` next to `_num()`,
+  so the trap is documented in one place instead of re-derived at twenty call sites.
+  Verified by execution: all five `_check_finding` text gates, the `verified_by` gate and
+  the fail-closed toxicity gate now fire on a null-heavy record.
+- **A7 artifact** — `_check_copyright`'s docstring still said "These four lines are the
+  only thing that runs"; the replaced body is fifteen lines. Appendix A's anchor began
+  at the `for` loop, so the docstring above it was never in scope.
+- **A8 artifact** — the §5 D3 anchor began mid-sentence (`and add the fail-closed…`), so
+  pasting the capitalised replacement left a comma splice.
+- **B7 completeness gap** — the `condition_complete` falsehood B7 removed from §1 R1-9
+  survived verbatim in the §2 `conditions` schema description, the text an editor
+  actually authors against. B7's anchor quoted §1 only.
+
+## Also fixed in this pass — the four items first recorded here as open
+
+All four turned out to have one correct answer, so none was left for the owner.
+
+1. **A method-comparison paper was unauthorable at any tier.** `comparator_levels` was
+   filtered to numerics *before* being counted, but `varied_factor: method` is legal in
+   both `VARIED_FACTORS` and the schema, and its levels are words (`maceration`, `uae`,
+   `soxhlet`). The count was therefore always 0: comparative-bench hard-errored on
+   `>=2 comparator_levels`, and downgrading to characterisation tripped "a single-condition
+   characterisation cannot report an optimum". Since `recommendation.method` is a REQUIRED
+   field and a method-comparison study is the only evidence that exists for it, the method
+   half of every recommendation would have been unsourceable — the precise failure this
+   corpus exists to prevent. Split into `all_levels` (counts what the paper tested, words
+   included) and `levels` (numeric subset, used only for membership and envelope
+   arithmetic), and added the categorical mirror of the membership rule: naming an
+   `optimum_value` that was never among the tested levels is the same defect whether it is
+   a number or a word.
+2. **PyYAML turns an unquoted `1:10` into the integer 70.** The YAML 1.1 sexagesimal rule,
+   so `1:20` becomes 80 — and only when the second term is <=59, which is why `1:100` works
+   and the bug survives casual testing. The naive error ("solid_liquid_ratio '70' must be
+   'N:M'") points nowhere near the cause. `_check_finding` now detects the coerced integer,
+   reconstructs what was written, and says to quote it; the schema description leads with
+   ALWAYS QUOTE IT and explains why.
+3. **`DOE_DESIGNS` (6) vs the schema's `design` enum (9)** was a documentation gap, not a
+   contradiction: the field is only enforced at optimisation tier, and the three extra
+   values belong to lower tiers. Documented per-tier in the schema, including why
+   `two-level` is deliberately not an optimisation design — two levels cannot fit
+   curvature, so such a run identifies which factors matter but not where the optimum is.
+4. **`build.py`'s `REF_RE` is `\d{3,}`; `validate.py`'s is `\d{4,}`.** `_walk_refs` now
+   carries its own anchored 4-digit pattern, so "mirrors `find_refs()`" is true of the
+   regex and not only the traversal. No behavioural change today — no live id is 3-digit —
+   but the two files no longer disagree about what a reference id is.
+
+## Still true of the whole document
+
+Nothing in sections 1–6 has been run as part of the real gate. The execution above was a
+harness that `exec`s the section-3.1 code blocks in isolation with stubbed vocabularies;
+it proves the checkers behave, not that they integrate. Pre-flight steps 4–6 (a real
+`validate.py`/`build.py` run against the live tree) remain undone, and step 7 has been
+exercised only for the four malformed shapes above, not per live `record_type`.

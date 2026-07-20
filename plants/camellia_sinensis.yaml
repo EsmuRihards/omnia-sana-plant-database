@@ -99,6 +99,8 @@ constituents:
     calm alertness and modulates caffeine's effects.
   reference_ids:
   - REF-0755
+  compounds:
+  - caffeine
 - name: Theaflavins and thearubigins
   note: Oxidative polymerisation products of catechins formed during black tea processing, contributing
     to black tea's colour and its own antioxidant profile.
@@ -284,4 +286,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
   ESCOP, Commission E), may still resolve these. ''Infusion (black/oolong tea)'': The monograph is on
   ''non fermentatum folium'' - unfermented (green) tea leaf. Black and oolong tea are oxidised leaf and
-  fall outside this herbal substance. Wrong preparation, not merely a thin one.'
+  fall outside this herbal substance. Wrong preparation, not merely a thin one. D6 (entity gap) 2026-07-20:
+  this plant named a defining constituent that had NO entity in compounds/, so it resolved to nothing
+  and would have emitted no practice recommendation. Entity created and the constituent wired to it. Only
+  the molecules the entry already names were wired - no constituent was reinterpreted.'

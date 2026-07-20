@@ -11080,6 +11080,9 @@
      "note": "Caffeine gives tea its mild stimulant effect; L-theanine, a unique amino acid, is associated with calm alertness and modulates caffeine's effects.",
      "reference_ids": [
       "REF-0755"
+     ],
+     "compounds": [
+      "caffeine"
      ]
     },
     {
@@ -15341,6 +15344,9 @@
      "note": "The principal stimulant alkaloid, driving alertness and much of coffee's pharmacological activity.",
      "reference_ids": [
       "REF-2379"
+     ],
+     "compounds": [
+      "caffeine"
      ]
     },
     {
@@ -15522,7 +15528,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "coffee-arabica-robusta"
   },
   {
@@ -16908,6 +16914,10 @@
      "note": "Water-soluble carotenoid glycosides responsible for saffron's deep golden-red colour and much of its antioxidant and mood-related activity.",
      "reference_ids": [
       "REF-0788"
+     ],
+     "compounds": [
+      "crocin",
+      "crocetin"
      ]
     },
     {
@@ -16915,11 +16925,17 @@
      "note": "The principal volatile aromatic compound, giving saffron its characteristic scent and contributing to its sedative and antidepressant activity.",
      "reference_ids": [
       "REF-0788"
+     ],
+     "compounds": [
+      "safranal"
      ]
     },
     {
      "name": "Picrocrocin",
-     "note": "The main bitter-tasting glycoside of the stigma, a precursor of safranal."
+     "note": "The main bitter-tasting glycoside of the stigma, a precursor of safranal.",
+     "compounds": [
+      "picrocrocin"
+     ]
     }
    ],
    "actions": [
@@ -17216,7 +17232,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "saffron"
   },
   {
@@ -42089,6 +42105,9 @@
      "note": "The dominant bioactive constituent, present at 2-4 times the concentration found in coffee beans by weight; responsible for guarana's stimulant, ergogenic and thermogenic effects.",
      "reference_ids": [
       "REF-0954"
+     ],
+     "compounds": [
+      "caffeine"
      ]
     },
     {
@@ -42271,7 +42290,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "guarana"
   },
   {
@@ -50772,6 +50791,9 @@
       "REF-1254",
       "REF-1258",
       "REF-1259"
+     ],
+     "compounds": [
+      "salicin"
      ]
     },
     {
@@ -51013,7 +51035,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-12",
+   "last_updated": "2026-07-20",
    "common_slug": "willow-bark"
   },
   {

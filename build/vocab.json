@@ -2185,6 +2185,15 @@
    "regulatory_limit": ""
   },
   {
+   "id": "caffeine",
+   "name": "Caffeine",
+   "class": "alkaloid",
+   "extraction_class": [],
+   "resolution": "unresolvable",
+   "toxicity_flag": "dose-limited",
+   "regulatory_limit": ""
+  },
+  {
    "id": "camphor",
    "name": "Camphor",
    "class": "terpene",
@@ -2260,6 +2269,24 @@
    "id": "coumarin",
    "name": "Coumarins",
    "class": "phenolic",
+   "extraction_class": [],
+   "resolution": "unresolvable",
+   "toxicity_flag": "dose-limited",
+   "regulatory_limit": ""
+  },
+  {
+   "id": "crocetin",
+   "name": "Crocetin",
+   "class": "terpene",
+   "extraction_class": [],
+   "resolution": "unresolvable",
+   "toxicity_flag": "dose-limited",
+   "regulatory_limit": ""
+  },
+  {
+   "id": "crocin",
+   "name": "Crocin",
+   "class": "glycoside",
    "extraction_class": [],
    "resolution": "unresolvable",
    "toxicity_flag": "dose-limited",
@@ -2536,6 +2563,15 @@
    "regulatory_limit": ""
   },
   {
+   "id": "picrocrocin",
+   "name": "Picrocrocin",
+   "class": "glycoside",
+   "extraction_class": [],
+   "resolution": "unresolvable",
+   "toxicity_flag": "dose-limited",
+   "regulatory_limit": ""
+  },
+  {
    "id": "polysaccharide",
    "name": "Polysaccharides",
    "class": "polysaccharide",
@@ -2578,6 +2614,24 @@
    "extraction_class": [],
    "resolution": "unresolvable",
    "toxicity_flag": "avoid-internal",
+   "regulatory_limit": ""
+  },
+  {
+   "id": "safranal",
+   "name": "Safranal",
+   "class": "terpene",
+   "extraction_class": [],
+   "resolution": "unresolvable",
+   "toxicity_flag": "dose-limited",
+   "regulatory_limit": ""
+  },
+  {
+   "id": "salicin",
+   "name": "Salicin",
+   "class": "glycoside",
+   "extraction_class": [],
+   "resolution": "unresolvable",
+   "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
   {

@@ -1,0 +1,18 @@
+id: caffeine
+name: Caffeine
+class: alkaloid
+synonyms:
+- caffeine
+- guaranine
+- theine
+- 1,3,7-trimethylxanthine
+- methylxanthine
+- methylxanthines
+toxicity_flag: dose-limited
+description: 'Purine (methylxanthine) alkaloid. Declared in substance by coffea-arabica, camellia-sinensis
+  and paullinia-cupana, none of which could resolve it because no entity existed. GATE set dose-limited:
+  EFSA has published a Scientific Opinion on the safety of caffeine (REF-0081), so a triaged limit exists
+  in the literature, but no numeric value is written here because that document''s figures are not recorded
+  in this bibliography.'
+reference_ids:
+- REF-0081

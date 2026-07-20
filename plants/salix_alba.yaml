@@ -20,6 +20,8 @@ constituents:
   - REF-1254
   - REF-1258
   - REF-1259
+  compounds:
+  - salicin
 - name: Polyphenols, flavonoids and tannins
   compounds:
   - phenolic-compound
@@ -201,7 +203,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-12'
+last_updated: '2026-07-20'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Phytotherapy Research
   systematic review; EMA HMPC monograph for Salicis cortex). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (pain, headache, inflammation, arthritis, fever, back-pain); associations
@@ -213,4 +215,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   REF-1255, REF-1256, REF-1257, REF-1258, REF-1259, REF-1260, REF-1261, REF-1262) — woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-12: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing EMA HMPC monograph (REF-0530) and systematic review
-  (REF-0529).'
+  (REF-0529). D6 (entity gap) 2026-07-20: this plant named a defining constituent that had NO entity in
+  compounds/, so it resolved to nothing and would have emitted no practice recommendation. Entity created
+  and the constituent wired to it. Only the molecules the entry already names were wired - no constituent
+  was reinterpreted.'

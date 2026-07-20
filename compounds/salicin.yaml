@@ -1,0 +1,13 @@
+id: salicin
+name: Salicin
+class: glycoside
+synonyms:
+- salicin
+- salicylates
+- salicylate
+- salicin and related salicylates
+toxicity_flag: dose-limited
+description: 'Phenolic glycoside, the pro-drug hydrolysed to salicylic acid. The defining constituent
+  of willow bark and the reason salix-alba is looked up, yet it had no entity at all. GATE set dose-limited
+  pending a sourced limit: the salicylate hazard profile (bleeding risk, Reye''s syndrome in children,
+  salicylate sensitivity) is why this is not `none`.'

@@ -7,7 +7,7 @@ common_names:
 family: Iridaceae
 external_ids:
   gbif: 2747430
-  powo: 'urn:lsid:ipni.org:names:436688-1'
+  powo: urn:lsid:ipni.org:names:436688-1
   wikidata: Q15041677
 parts_used:
 - Stigma
@@ -76,13 +76,20 @@ constituents:
     of its antioxidant and mood-related activity.
   reference_ids:
   - REF-0788
+  compounds:
+  - crocin
+  - crocetin
 - name: Safranal
   note: The principal volatile aromatic compound, giving saffron its characteristic scent and contributing
     to its sedative and antidepressant activity.
   reference_ids:
   - REF-0788
+  compounds:
+  - safranal
 - name: Picrocrocin
   note: The main bitter-tasting glycoside of the stigma, a precursor of safranal.
+  compounds:
+  - picrocrocin
 actions:
 - action: anti-inflammatory
   reference_ids:
@@ -314,7 +321,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-07-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -331,10 +338,13 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   cancer-condition campaign. | 2026-07-20: parts_used corrected from ''Flower'' to ''Stigma''. The saffron
   drug is the dried stigma, not the flower; the petals/tepals are a by-product. Three independent reviews
   state this explicitly in their abstracts: Marrone et al. 2024 Nutrients 16(14):2319 doi:10.3390/nu16142319
-  ("derived exclusively from dried stigmas"); Bukhari et al. 2018 Biomed Pharmacother 98:733-745
-  doi:10.1016/j.biopha.2017.12.090 ("saffron of commercial importance comprises of dried stigmas");
-  Xing et al. 2021 J Ethnopharmacol 281:114555 doi:10.1016/j.jep.2021.114555 ("the dried red stigma of the
-  perennial herb Crocus sativus L."). Not wired as reference_ids because parts_used carries no reference_ids
-  field in plant.schema.json — recorded here instead so the correction is auditable. Adding these as
-  bibliography entries with nothing to cite them from would create orphans, which osdb-verify-integrity
-  would then instruct a later session to delete.'
+  ("derived exclusively from dried stigmas"); Bukhari et al. 2018 Biomed Pharmacother 98:733-745 doi:10.1016/j.biopha.2017.12.090
+  ("saffron of commercial importance comprises of dried stigmas"); Xing et al. 2021 J Ethnopharmacol 281:114555
+  doi:10.1016/j.jep.2021.114555 ("the dried red stigma of the perennial herb Crocus sativus L."). Not
+  wired as reference_ids because parts_used carries no reference_ids field in plant.schema.json — recorded
+  here instead so the correction is auditable. Adding these as bibliography entries with nothing to cite
+  them from would create orphans, which osdb-verify-integrity would then instruct a later session to delete.
+  D6 (entity gap) 2026-07-20: this plant named a defining constituent that had NO entity in compounds/,
+  so it resolved to nothing and would have emitted no practice recommendation. Entity created and the
+  constituent wired to it. Only the molecules the entry already names were wired - no constituent was
+  reinterpreted.'

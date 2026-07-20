@@ -75,6 +75,8 @@ constituents:
     by weight; responsible for guarana's stimulant, ergogenic and thermogenic effects.
   reference_ids:
   - REF-0954
+  compounds:
+  - caffeine
 - name: Tannins (catechins, epicatechins)
   compounds:
   - tannin
@@ -206,7 +208,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-20'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -217,4 +219,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   plant-level references bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage/constituents
   monograph-base fields; botanical_description/habitat/harvesting are status:draft (well-known general
   facts, no dedicated botanical review in the largely-clinical bucket), other fields cite the existing
-  narrative health review (REF-0954) and trial reviews.'
+  narrative health review (REF-0954) and trial reviews. D6 (entity gap) 2026-07-20: this plant named a
+  defining constituent that had NO entity in compounds/, so it resolved to nothing and would have emitted
+  no practice recommendation. Entity created and the constituent wired to it. Only the molecules the entry
+  already names were wired - no constituent was reinterpreted.'

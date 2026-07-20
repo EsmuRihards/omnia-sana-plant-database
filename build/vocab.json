@@ -2083,7 +2083,7 @@
    "extraction_class": [],
    "resolution": "unresolvable",
    "toxicity_flag": "avoid-internal",
-   "regulatory_limit": ""
+   "regulatory_limit": "EMA/HMPC/893108/2011 Rev. 1 records the German limit for medicinal products containing 1,2-unsaturated pyrrolizidine alkaloids: internal use max 1 microgram PAs/day for at most 6 weeks per year, or 0.1 microgram/day with no duration limit; cutaneous 100 micrograms for at most 6 weeks per year, or 10 micrograms with no duration limit."
   },
   {
    "id": "allantoin",
@@ -2100,7 +2100,7 @@
    "class": "organosulfur",
    "extraction_class": [],
    "resolution": "unresolvable",
-   "toxicity_flag": "avoid-internal",
+   "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
   {
@@ -2118,7 +2118,7 @@
    "class": "phenolic",
    "extraction_class": [],
    "resolution": "unresolvable",
-   "toxicity_flag": "avoid-internal",
+   "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
   {
@@ -2154,7 +2154,7 @@
    "class": "alkaloid",
    "extraction_class": [],
    "resolution": "unresolvable",
-   "toxicity_flag": "avoid-internal",
+   "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
   {
@@ -2262,7 +2262,7 @@
    "class": "phenolic",
    "extraction_class": [],
    "resolution": "unresolvable",
-   "toxicity_flag": "avoid-internal",
+   "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
   {
@@ -2406,7 +2406,7 @@
    "class": "phenolic",
    "extraction_class": [],
    "resolution": "unresolvable",
-   "toxicity_flag": "avoid-internal",
+   "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
   {
@@ -2487,7 +2487,7 @@
    "class": "organosulfur",
    "extraction_class": [],
    "resolution": "unresolvable",
-   "toxicity_flag": "avoid-internal",
+   "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
   {
@@ -2496,7 +2496,7 @@
    "class": "terpene",
    "extraction_class": [],
    "resolution": "unresolvable",
-   "toxicity_flag": "avoid-internal",
+   "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
   {
@@ -2595,7 +2595,7 @@
    "class": "terpene",
    "extraction_class": [],
    "resolution": "unresolvable",
-   "toxicity_flag": "avoid-internal",
+   "toxicity_flag": "topical-only",
    "regulatory_limit": ""
   },
   {

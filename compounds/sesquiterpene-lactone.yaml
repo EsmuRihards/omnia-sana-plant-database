@@ -4,3 +4,8 @@ class: terpene
 synonyms:
 - sesquiterpene lactone
 - sesquiterpene lactones
+toxicity_flag: topical-only
+description: GATE. Declared by 11 plants including arnica-montana, whose parts_used is 'Flower head (topical
+  preparations)'. Forcing recommendation.route to 'topical' on this id is what keeps an arnica extraction
+  record off an internal-use page. Sensitisation and contact allergy are the recognised hazard of this
+  class.

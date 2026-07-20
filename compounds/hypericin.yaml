@@ -3,3 +3,7 @@ name: Hypericin
 class: phenolic
 synonyms:
 - hypericin
+toxicity_flag: dose-limited
+description: GATE. Photosensitisation and extensive CYP/P-gp induction are the recognised hazards. Currently
+  declared by ZERO plants in this database - flagged now so the gate is correct if it is ever wired to
+  Hypericum perforatum.

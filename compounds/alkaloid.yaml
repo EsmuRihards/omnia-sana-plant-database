@@ -4,3 +4,15 @@ class: alkaloid
 synonyms:
 - alkaloid
 - alkaloids
+toxicity_flag: avoid-internal
+regulatory_limit: 'EMA/HMPC/893108/2011 Rev. 1 records the German limit for medicinal products containing
+  1,2-unsaturated pyrrolizidine alkaloids: internal use max 1 microgram PAs/day for at most 6 weeks per
+  year, or 0.1 microgram/day with no duration limit; cutaneous 100 micrograms for at most 6 weeks per
+  year, or 10 micrograms with no duration limit.'
+reference_ids:
+- REF-3070
+description: GATE, not a chemical fact. This id is a class label spanning caffeine, isoquinolines and
+  the hepatotoxic 1,2-unsaturated pyrrolizidine alkaloids, and it is declared by 17 plants including symphytum-officinale,
+  borago-officinalis, tussilago-farfara, petasites-hybridus, chelidonium-majus and arnica-montana. A yield-maximising
+  extraction recommendation keyed on it would instruct a reader to maximise PA recovery from comfrey root.
+  No internal recommendation may rest on this id; key on a specific constituent instead.

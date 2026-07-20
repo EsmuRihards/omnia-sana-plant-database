@@ -4,3 +4,8 @@ class: phenolic
 synonyms:
 - asarone
 - asarones
+toxicity_flag: avoid-internal
+description: 'GATE. Declared by acorus-calamus only. Beta-asarone is the reason this id is flagged; it
+  is not a constituent whose extraction yield should be maximised for internal use. Set conservatively
+  and deliberately without a regulatory_limit: no source in this bibliography states one, and the fail-closed
+  direction costs only a withheld recommendation.'

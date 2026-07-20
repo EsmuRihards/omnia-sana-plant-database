@@ -6,3 +6,12 @@ synonyms:
 - coumarins
 - furanocoumarin
 - furanocoumarins
+toxicity_flag: dose-limited
+reference_ids:
+- REF-3091
+description: 'GATE. Declared by 19 plants. Coumarins are food constituents at dietary levels, so this
+  is dose-limited rather than avoid-internal, but the id spans simple coumarins and furanocoumarins and
+  the load varies enormously by species: the Cinnamomum verum monograph notes that cassia species carry
+  a substantially higher coumarin load and are a separate matter. No numeric daily limit is recorded here
+  because none is stated in a source held in this bibliography - an unsourced number is worse than an
+  absent one.'

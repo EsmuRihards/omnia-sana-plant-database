@@ -245,25 +245,32 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-07-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology study identifying
-  immunosuppressive cyclotides). Further enriched 2026-06-13 with a PubMed study isolating cytotoxic
-  cyclotides (vitri A, varv A, varv E) from V. tricolor (REF-0556, Svangard et al. 2004); a new in-vitro
-  cytotoxic action was added. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
-  tool (eczema, skin-irritation, cough); associations retained and now part-mapped and cited. Further
-  enriched 2026-06-14 with a PubMed-sourced study of cyclotide-enriched V. tricolor preparations that
-  suppress T-cell proliferation and macrophage cytokine secretion in vitro (REF-0617), reinforcing the
-  immunomodulatory action. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9
-  PubMed-verified @article sources (REF-0617, REF-1600, REF-1601, REF-1602, REF-1603, REF-1604, REF-1605,
-  REF-1606, REF-0463) — woven into relevant actions/indications and the plant-level references bucket. |
-  2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
-  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) +
-  cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of
-  the cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 3): dosage sourced to the EU
-  herbal monograph on Viola tricolor L. and subspecies, herba cum flore (EMA/HMPC/131734/2009 = REF-3074,
-  new). CORRECTION: the entry claimed ''1-2 g of dried herb per cup''; the monograph gives 3 g as an
-  infusion 1-3 times daily for oral use. Cutaneous posology (5-20 g/L wet dressing 2-3x daily; 5-10 g/L bath
-  additive) added, along with the salicylate-hypersensitivity contraindication and the caution against
-  cutaneous use on open wounds or large damaged areas. status -> verified.'
+  immunosuppressive cyclotides). Further enriched 2026-06-13 with a PubMed study isolating cytotoxic cyclotides
+  (vitri A, varv A, varv E) from V. tricolor (REF-0556, Svangard et al. 2004); a new in-vitro cytotoxic
+  action was added. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
+  (eczema, skin-irritation, cough); associations retained and now part-mapped and cited. Further enriched
+  2026-06-14 with a PubMed-sourced study of cyclotide-enriched V. tricolor preparations that suppress
+  T-cell proliferation and macrophage cytokine secretion in vitro (REF-0617), reinforcing the immunomodulatory
+  action. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out, constituents
+  linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified
+  @article sources (REF-0617, REF-1600, REF-1601, REF-1602, REF-1603, REF-1604, REF-1605, REF-1606, REF-0463)
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18
+  (dosage-sourcing campaign, batch 3): dosage sourced to the EU herbal monograph on Viola tricolor L.
+  and subspecies, herba cum flore (EMA/HMPC/131734/2009 = REF-3074, new). CORRECTION: the entry claimed
+  ''1-2 g of dried herb per cup''; the monograph gives 3 g as an infusion 1-3 times daily for oral use.
+  Cutaneous posology (5-20 g/L wet dressing 2-3x daily; 5-10 g/L bath additive) added, along with the
+  salicylate-hypersensitivity contraindication and the caution against cutaneous use on open wounds or
+  large damaged areas. status -> verified. DEAD END (preparations, 2026-07-20): checked against the monograph
+  references already on this record, judged from their stored posology summaries and not from the full
+  monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E),
+  may still resolve these. ''Cream/ointment'': The cutaneous posology is an infusion applied as a wet
+  dressing and a bath additive. No cream or ointment, and no semi-solid dosage form, appears in the monograph;
+  it also contraindicates cutaneous use on damaged skin, which sits awkwardly with an eczema cream. |
+  ''Tincture'': The monograph covers a herbal tea, a wet-dressing infusion and a bath additive. No tincture,
+  extract, ethanol strength or ratio is given.'

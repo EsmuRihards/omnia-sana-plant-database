@@ -10,7 +10,7 @@ common_names:
 family: Asphodelaceae
 external_ids:
   gbif: 2777724
-  powo: 'urn:lsid:ipni.org:names:530017-1'
+  powo: urn:lsid:ipni.org:names:530017-1
   wikidata: Q80079
 parts_used:
 - Leaf
@@ -78,10 +78,10 @@ dosage:
   - REF-3103
   status: verified
 - name: Oral gel/juice
-  text: Traditional references suggest around 1 tablespoon of gel, up to three times daily. WHO gives no
-    oral posology for the GEL. One critical distinction applies here - WHO's separate monograph on Aloe
-    covers the dried leaf JUICE (latex), a stimulant laxative dosed at only 0.04-0.17 g, and that figure
-    must never be read across to aloe gel or gel juice, which are different preparations with different
+  text: Traditional references suggest around 1 tablespoon of gel, up to three times daily. WHO gives
+    no oral posology for the GEL. One critical distinction applies here - WHO's separate monograph on
+    Aloe covers the dried leaf JUICE (latex), a stimulant laxative dosed at only 0.04-0.17 g, and that
+    figure must never be read across to aloe gel or gel juice, which are different preparations with different
     actions. Educational reference only, not a prescription.
   status: draft
 constituents:
@@ -416,31 +416,37 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11
-  PubMed-verified @article sources (REF-2234, REF-2235, REF-2236, REF-2237, REF-2238, REF-2239, REF-2240,
-  REF-2241, REF-2242, REF-2243, REF-2244) — woven into relevant actions/indications and the plant-level
-  references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-19
-  (dosage-sourcing campaign, batch 9): the ''Topical gel'' entry is sourced to the WHO monograph on Aloe
-  Vera Gel, WHO Vol 1 (REF-3103, new) - fresh gel, or preparations containing 10-70% fresh gel. The ''Oral
-  gel/juice'' entry is left UNSOURCED because WHO gives no oral posology for the gel, and a SAFETY
-  DISTINCTION was added to its text instead: WHO''s separate ''Aloe'' monograph covers the dried leaf JUICE
-  (latex), a stimulant laxative dosed at 0.04-0.17 g. Those two preparations differ in action and by orders
-  of magnitude in dose, and conflating them - which is easy, since both are called ''aloe'' - would be
-  dangerous. Also rejected here: REF-2235, which the trial-mining pass flagged, is a composition review
-  reporting constituent contents in mg/100 g, not a dose. | 2026-07-19 (dosage-sourcing campaign, closing
-  sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The remaining unsourced
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 11 PubMed-verified @article sources (REF-2234, REF-2235, REF-2236, REF-2237, REF-2238,
+  REF-2239, REF-2240, REF-2241, REF-2242, REF-2243, REF-2244) — woven into relevant actions/indications
+  and the plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description,
+  habitat, harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing
+  references bucket; general/undated claims marked status: draft per the integrity-first sourcing policy.
+  | 2026-07-19 (dosage-sourcing campaign, batch 9): the ''Topical gel'' entry is sourced to the WHO monograph
+  on Aloe Vera Gel, WHO Vol 1 (REF-3103, new) - fresh gel, or preparations containing 10-70% fresh gel.
+  The ''Oral gel/juice'' entry is left UNSOURCED because WHO gives no oral posology for the gel, and a
+  SAFETY DISTINCTION was added to its text instead: WHO''s separate ''Aloe'' monograph covers the dried
+  leaf JUICE (latex), a stimulant laxative dosed at 0.04-0.17 g. Those two preparations differ in action
+  and by orders of magnitude in dose, and conflating them - which is easy, since both are called ''aloe''
+  - would be dangerous. Also rejected here: REF-2235, which the trial-mining pass flagged, is a composition
+  review reporting constituent contents in mg/100 g, not a dose. | 2026-07-19 (dosage-sourcing campaign,
+  closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The remaining unsourced
   dosage entry/entries on this record were searched against every seam this campaign opened and none yields
   a dose for this species in this preparation. Seams checked: (1) the official EMA herbal medicines register
   (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched on the accepted
   binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs on selected
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
-  studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced
+  at status draft rather than attached to a tangentially-related paper. DEAD END (preparations, 2026-07-20):
+  checked against the monograph references already on this record, judged from their stored posology summaries
+  and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
+  ESCOP, Commission E), may still resolve these. ''Latex/dried juice'': REF-3103 is the Aloe Vera Gel
+  monograph and its own summary warns that the latex/dried leaf juice is a separate WHO monograph with
+  a different action and doses differing by orders of magnitude. Citing the gel monograph for the anthraquinone
+  latex is exactly the conflation the summary forbids.'

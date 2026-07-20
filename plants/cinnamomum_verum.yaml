@@ -7,7 +7,7 @@ common_names:
 family: Lauraceae
 external_ids:
   gbif: 3033987
-  powo: 'urn:lsid:ipni.org:names:463752-1'
+  powo: urn:lsid:ipni.org:names:463752-1
   wikidata: Q370239
 parts_used:
 - Bark
@@ -285,26 +285,30 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
-  (REF-0664..REF-0669): type-2-diabetes glycaemic meta-analyses (REF-0664, REF-0665), lipid and
-  cardiovascular-risk meta-analyses (REF-0666, REF-0667), and cinnamaldehyde antifungal/anti-tumour
-  mechanism studies (REF-0668, REF-0669); cinnamaldehyde and coumarin (species-caution) constituents added.
-  Note: several pooled meta-analyses and the C. cassia antifungal study (REF-0668) do not isolate C. verum
-  specifically. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
-  constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 5
-  PubMed-verified @article sources (REF-2413, REF-2414, REF-2415, REF-2416, REF-2417) — woven into relevant
-  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
-  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
-  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
-  policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. |
-  2026-07-18 (dosage-sourcing campaign, batch 5): dosage sourced to the EU herbal monograph on Cinnamomum
-  verum J.S. Presl, cortex (EMA/HMPC/246774/2009 = REF-3091, new). The 0.5-1 g figure matched; frequency
-  corrected from ''up to three times daily'' to the monograph''s up to 4 times daily, and the liquid-extract
-  and tincture posologies added. Added a scope note that this is Ceylon cinnamon - the register lists
-  Cinnamomi cortex (C. verum) and Cinnamomi corticis aetheroleum separately, and cassia-type cinnamons carry
-  a substantially higher coumarin load and are not covered by this monograph.'
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
+  (REF-0664..REF-0669): type-2-diabetes glycaemic meta-analyses (REF-0664, REF-0665), lipid and cardiovascular-risk
+  meta-analyses (REF-0666, REF-0667), and cinnamaldehyde antifungal/anti-tumour mechanism studies (REF-0668,
+  REF-0669); cinnamaldehyde and coumarin (species-caution) constituents added. Note: several pooled meta-analyses
+  and the C. cassia antifungal study (REF-0668) do not isolate C. verum specifically. | 2026-06-15: migrated
+  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  enriched to >=10 scientific publications: added 5 PubMed-verified @article sources (REF-2413, REF-2414,
+  REF-2415, REF-2416, REF-2417) — woven into relevant actions/indications and the plant-level references
+  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 5): dosage sourced
+  to the EU herbal monograph on Cinnamomum verum J.S. Presl, cortex (EMA/HMPC/246774/2009 = REF-3091,
+  new). The 0.5-1 g figure matched; frequency corrected from ''up to three times daily'' to the monograph''s
+  up to 4 times daily, and the liquid-extract and tincture posologies added. Added a scope note that this
+  is Ceylon cinnamon - the register lists Cinnamomi cortex (C. verum) and Cinnamomi corticis aetheroleum
+  separately, and cassia-type cinnamons carry a substantially higher coumarin load and are not covered
+  by this monograph. DEAD END (preparations, 2026-07-20): checked against the monograph references already
+  on this record, judged from their stored posology summaries and not from the full monograph PDFs - a
+  later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve
+  these. ''Culinary use'': A medicinal-posology monograph for cinnamon bark does not state that ground
+  bark or quills are used as a food spice.'

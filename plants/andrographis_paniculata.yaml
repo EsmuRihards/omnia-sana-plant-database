@@ -9,7 +9,7 @@ common_names:
 family: Acanthaceae
 external_ids:
   gbif: 3173178
-  powo: 'urn:lsid:ipni.org:names:45226-1'
+  powo: urn:lsid:ipni.org:names:45226-1
   wikidata: Q1551608
 parts_used:
 - Aerial parts (leaves and herb)
@@ -263,23 +263,27 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy Research
-  and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported from
-  the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (PLoS ONE meta-analysis, Phytotherapy
+  Research and Annales Pharmaceutiques Francaises reviews, MSKCC About Herbs). Originally a skeleton imported
+  from the omniasana.bio Symptom-to-Plant Lookup tool (cold, sore-throat, fever, immune-support); associations
   retained and now part-mapped and cited. | 2026-06-15: migrated to entity schema (actions->vocab ids,
   indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 9 PubMed-verified @article sources (REF-1615, REF-1616, REF-1617, REF-1618, REF-1619,
   REF-1620, REF-1621, REF-1622, REF-1623) — woven into relevant actions/indications and the plant-level
   references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
   traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing
-  campaign, batch 6): the ''Dried herb'' entry is sourced to the WHO monograph on Herba Andrographidis, WHO
-  monographs on selected medicinal plants Vol 2 (REF-3093, new). NO EU POSOLOGY EXISTS: the EMA register
-  lists Andrographidis paniculatae folium with outcome ''Public statement'', not ''European Union herbal
-  monograph'' - HMPC assessed the herb and declined to establish one - so WHO is the appropriate
-  regulatory-tier source here, and the entry text says so. CORRECTION: the entry claimed ''1-2 g of dried
-  aerial parts up to three times daily''; WHO gives indication-specific posology, and for the common cold it
-  is 1.5-3.0 g of powdered crude drug three times daily after meals and at bedtime, i.e. the previous figure
-  understated it. The ''Standardised extract'' entry keeps its existing clinical-trial refs
-  (REF-0392/REF-0393) and is unchanged.'
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign,
+  batch 6): the ''Dried herb'' entry is sourced to the WHO monograph on Herba Andrographidis, WHO monographs
+  on selected medicinal plants Vol 2 (REF-3093, new). NO EU POSOLOGY EXISTS: the EMA register lists Andrographidis
+  paniculatae folium with outcome ''Public statement'', not ''European Union herbal monograph'' - HMPC
+  assessed the herb and declined to establish one - so WHO is the appropriate regulatory-tier source here,
+  and the entry text says so. CORRECTION: the entry claimed ''1-2 g of dried aerial parts up to three
+  times daily''; WHO gives indication-specific posology, and for the common cold it is 1.5-3.0 g of powdered
+  crude drug three times daily after meals and at bedtime, i.e. the previous figure understated it. The
+  ''Standardised extract'' entry keeps its existing clinical-trial refs (REF-0392/REF-0393) and is unchanged.
+  DEAD END (preparations, 2026-07-20): checked against the monograph references already on this record,
+  judged from their stored posology summaries and not from the full monograph PDFs - a later pass with
+  the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Tincture'':
+  WHO lists crude drug, decoction, capsules, tablets and pills as the dosage forms. No tincture or alcoholic
+  extract appears anywhere in the posology.'

@@ -9,7 +9,7 @@ common_names:
 family: Betulaceae
 external_ids:
   gbif: 5331916
-  powo: 'urn:lsid:ipni.org:names:295174-1'
+  powo: urn:lsid:ipni.org:names:295174-1
   wikidata: Q156895
 parts_used:
 - Bark
@@ -335,24 +335,28 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
-  references bucket (least-cited enrichment): REF-0743, REF-0744, REF-0745. | 2026-06-20: enriched to >=10
-  scientific publications: added 10 PubMed-verified @article sources (REF-0743, REF-1692, REF-0744,
-  REF-1693, REF-1694, REF-1695, REF-1696, REF-1697, REF-1698, REF-1699) — woven into relevant
-  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
-  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the
-  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
-  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 3): dosage sourced to the EU
-  herbal monograph on Betula pendula/pubescens folium (EMA/HMPC/573241/2014 = REF-3076, new), with REF-0080
-  kept as a secondary citation. REF-0080 was not cited alone because it is the public-summary leaflet, not
-  the posology-bearing monograph - and it was itself repaired in the same session''s EMA-citation audit (its
-  title field had held a bare URL). The existing 2-3 g figure matched; frequency corrected from ''up to
-  three times daily'' to the monograph''s up to 4 times daily, and the 2-4 week traditional duration added.
-  status -> verified.'
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0743, REF-0744, REF-0745.
+  | 2026-06-20: enriched to >=10 scientific publications: added 10 PubMed-verified @article sources (REF-0743,
+  REF-1692, REF-0744, REF-1693, REF-1694, REF-1695, REF-1696, REF-1697, REF-1698, REF-1699) — woven into
+  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
+  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18
+  (dosage-sourcing campaign, batch 3): dosage sourced to the EU herbal monograph on Betula pendula/pubescens
+  folium (EMA/HMPC/573241/2014 = REF-3076, new), with REF-0080 kept as a secondary citation. REF-0080
+  was not cited alone because it is the public-summary leaflet, not the posology-bearing monograph - and
+  it was itself repaired in the same session''s EMA-citation audit (its title field had held a bare URL).
+  The existing 2-3 g figure matched; frequency corrected from ''up to three times daily'' to the monograph''s
+  up to 4 times daily, and the 2-4 week traditional duration added. status -> verified. DEAD END (preparations,
+  2026-07-20): checked against the monograph references already on this record, judged from their stored
+  posology summaries and not from the full monograph PDFs - a later pass with the PDFs, or a new seam
+  (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Fresh sap'': Wrong plant part.
+  The monograph is on birch LEAF (folium) and its posology is entirely leaf preparations. It says nothing
+  about spring sap, birch wine or vinegar.'

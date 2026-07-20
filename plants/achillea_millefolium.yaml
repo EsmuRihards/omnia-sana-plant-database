@@ -104,8 +104,12 @@ preparations:
   - REF-0369
   status: verified
 - name: Tincture
-  text: Alcoholic extract of the fresh or dried flowering herb, typically around 1:5 in 45% alcohol.
-  status: draft
+  text: Tincture of the herb, ethanol 45% V/V, 2-4 ml three times daily. The EU herbal monograph gives
+    the ethanol strength but states no drug-extract ratio, so no 1:5 ratio is claimed here. Educational
+    reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3064
 - name: Poultice/compress
   text: Fresh crushed leaf or flowering tops applied directly to minor cuts and wounds, reflecting the
     traditional styptic (bleeding-stopping) and vulnerary use.
@@ -472,23 +476,25 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+website+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | Enriched 2026-06-12 from the omniasana.bio ''Yarrow'' Materia Medica page
-  (https://omniasana.bio/yarrow-achillea-millefolium/): added constituents, web-sourced actions and
-  cautions. | 2026-06-15: corrected family from Unknown to Asteraceae (Achillea millefolium is in the
-  Asteraceae family). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
-  constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 11
-  PubMed-verified @article sources (REF-2076, REF-2077, REF-2078, REF-2079, REF-2080, REF-2081, REF-2082,
-  REF-2083, REF-2084, REF-2085, REF-2086) — woven into relevant actions/indications and the plant-level
-  references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing
-  campaign, batch 1): both dosage entries sourced to the current EU herbal monograph on Achillea millefolium
-  L., herba, Rev 1 (EMA/HMPC/376416/2019 = REF-3064) and rewritten to its actual posology. Infusion widened
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | Enriched 2026-06-12 from the omniasana.bio ''Yarrow''
+  Materia Medica page (https://omniasana.bio/yarrow-achillea-millefolium/): added constituents, web-sourced
+  actions and cautions. | 2026-06-15: corrected family from Unknown to Asteraceae (Achillea millefolium
+  is in the Asteraceae family). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications
+  split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications:
+  added 11 PubMed-verified @article sources (REF-2076, REF-2077, REF-2078, REF-2079, REF-2080, REF-2081,
+  REF-2082, REF-2083, REF-2084, REF-2085, REF-2086) — woven into relevant actions/indications and the
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign,
+  batch 1): both dosage entries sourced to the current EU herbal monograph on Achillea millefolium L.,
+  herba, Rev 1 (EMA/HMPC/376416/2019 = REF-3064) and rewritten to its actual posology. Infusion widened
   2-4 g -> 1.5-4 g in 150-250 mL, 3-4x daily (was ''up to three times''). Tincture corrected: entry claimed
-  1-4 mL of a 1:5 tincture; the monograph specifies 2-4 mL of a 45% V/V ethanol tincture 3x daily, so the
-  ratio label and the 1 mL lower bound were dropped. REF-0373 (Herbal Reality) retained as a secondary
-  traditional-use reference. status -> verified.'
+  1-4 mL of a 1:5 tincture; the monograph specifies 2-4 mL of a 45% V/V ethanol tincture 3x daily, so
+  the ratio label and the 1 mL lower bound were dropped. REF-0373 (Herbal Reality) retained as a secondary
+  traditional-use reference. status -> verified. Preparation sourced 2026-07-20 to a monograph already
+  on the record, verified quote-by-quote against the monograph''s stored posology and adversarially re-checked;
+  text rewritten to the source rather than having a reference stapled onto the previous wording.'

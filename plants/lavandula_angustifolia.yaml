@@ -300,24 +300,29 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
-  references bucket (least-cited enrichment): REF-0857, REF-0858, REF-0859. | 2026-06-20: enriched to >=10
-  scientific publications: added 11 PubMed-verified @article sources (REF-2205, REF-2206, REF-2207,
-  REF-2208, REF-2209, REF-2210, REF-2211, REF-2212, REF-2213, REF-2214, REF-2215) — woven into relevant
-  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
-  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the
-  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
-  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0857, REF-0858, REF-0859.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2205,
+  REF-2206, REF-2207, REF-2208, REF-2209, REF-2210, REF-2211, REF-2212, REF-2213, REF-2214, REF-2215)
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
+  + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
+  per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
+  indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
   cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 3): dosage sourced to the EU
   herbal monograph on Lavandula angustifolia Miller, flos (EMA/HMPC/734125/2010 = REF-3071, new). MAJOR
   CORRECTION: the entry claimed ''around 4-8 g of dried flowers per cup'' - roughly four times the monograph
   figure, which is 1-2 g in 150 mL three times daily. Tincture (2-4 mL 3x daily), the under-12 restriction
   and the monograph''s drive/machinery warning added. Note the register also carries Lavandulae aetheroleum
   (the essential oil) as a separate monograph with its own posology; this entry is the FLOWER only. status
-  -> verified.'
+  -> verified. DEAD END (preparations, 2026-07-20): checked against the monograph references already on
+  this record, judged from their stored posology summaries and not from the full monograph PDFs - a later
+  pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these.
+  ''Standardised oral oil preparation'': Wrong herbal substance. REF-3071 is the lavender FLOWER monograph
+  (tea and tincture); the standardised oral oil preparation belongs to Lavandulae aetheroleum, a separate
+  monograph. The flower monograph contains no oil posology and no mention of Silexan.'

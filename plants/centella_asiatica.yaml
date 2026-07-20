@@ -314,25 +314,29 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside;
   Panminerva Medica status paper on titrated Centella extract). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (wounds, anxiety, memory, varicose-veins, cognitive-function);
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with PubMed-sourced
-  reviews - a chronic-venous-insufficiency systematic review (REF-0569) and the Cochrane phlebotonics review
-  that includes Centella among agents reducing leg oedema (REF-0570) support the venous action, while a
-  cognition/mood meta-analysis (REF-0568) found improved alertness and reduced anger but no significant
+  reviews - a chronic-venous-insufficiency systematic review (REF-0569) and the Cochrane phlebotonics
+  review that includes Centella among agents reducing leg oedema (REF-0570) support the venous action,
+  while a cognition/mood meta-analysis (REF-0568) found improved alertness and reduced anger but no significant
   cognitive-domain benefit (added as a needs-review qualifier). | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to
-  >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2087, REF-2088, REF-2089,
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
+  to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2087, REF-2088, REF-2089,
   REF-2090, REF-2091, REF-2092, REF-2093, REF-2094, REF-2095, REF-2096, REF-2097) — woven into relevant
   actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
   (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
   existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
-  policy. | 2026-07-18 (dosage-sourcing campaign, batch 5): the ''Topical preparations'' entry is sourced to
-  the EU herbal monograph on Centella asiatica (L.) Urb., herba, Rev 1 (REF-3085, new). SCOPE FINDING: the
-  monograph is CUTANEOUS USE ONLY and contains no oral posology at all, so it cannot support the
-  ''Standardised oral extract'' entry - that entry keeps its existing REF-0457 and is unchanged. CORRECTION:
-  topical frequency was ''1-2 times daily''; the monograph gives 3 times daily (0.6 g per application, daily
-  dose 1.8 g), and adds a hard limit of not more than 1 week plus an under-18 restriction, neither of which
-  was recorded.'
+  policy. | 2026-07-18 (dosage-sourcing campaign, batch 5): the ''Topical preparations'' entry is sourced
+  to the EU herbal monograph on Centella asiatica (L.) Urb., herba, Rev 1 (REF-3085, new). SCOPE FINDING:
+  the monograph is CUTANEOUS USE ONLY and contains no oral posology at all, so it cannot support the ''Standardised
+  oral extract'' entry - that entry keeps its existing REF-0457 and is unchanged. CORRECTION: topical
+  frequency was ''1-2 times daily''; the monograph gives 3 times daily (0.6 g per application, daily dose
+  1.8 g), and adds a hard limit of not more than 1 week plus an under-18 restriction, neither of which
+  was recorded. DEAD END (preparations, 2026-07-20): checked against the monograph references already
+  on this record, judged from their stored posology summaries and not from the full monograph PDFs - a
+  later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve
+  these. ''Infusion'': The summary states CUTANEOUS USE ONLY and that the monograph gives no oral posology.
+  The infusion it describes is applied as an impregnated dressing, not drunk. Wrong route.'

@@ -128,8 +128,11 @@
     },
     {
      "name": "Tincture",
-     "text": "Alcoholic extract of the fresh or dried flowering herb, typically around 1:5 in 45% alcohol.",
-     "status": "draft"
+     "text": "Tincture of the herb, ethanol 45% V/V, 2-4 ml three times daily. The EU herbal monograph gives the ethanol strength but states no drug-extract ratio, so no 1:5 ratio is claimed here. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3064"
+     ]
     },
     {
      "name": "Poultice/compress",
@@ -638,7 +641,7 @@
    ],
    "provenance": "book+website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "yarrow"
   },
   {
@@ -733,16 +736,6 @@
       "REF-0516"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried rhizome.",
-     "status": "draft"
-    },
-    {
-     "name": "Powder",
-     "text": "Dried rhizome powdered and traditionally taken in small amounts, often with honey, as a digestive and nervine remedy.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -1102,11 +1095,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root and rhizome, typically around 1:10.",
-     "status": "draft"
-    },
-    {
      "name": "Decoction",
      "text": "Traditional decoction of the dried, chopped root and rhizome.",
      "reference_ids": [
@@ -1128,8 +1116,11 @@
     },
     {
      "name": "Tincture (1:10)",
-     "text": "Traditional herbal references suggest around 1-2 mL of a 1:10 tincture, up to three times daily. Neither the EU herbal monograph nor the WHO monograph gives a tincture posology - both specify standardised extract preparations only - so this figure is traditional rather than regulatory. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "Health Canada's NNHPD monograph accepts a tincture among the methods of preparation for black cohosh and sets the dose as 40-2,400 mg of dried root and/or rhizome per day for adults 18 years and older; it states the quantity as dried-herb equivalent rather than a tincture volume. Neither the EU herbal monograph nor the WHO monograph gives a tincture posology - both specify standardised extract preparations only. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3124"
+     ]
     }
    ],
    "actions": [
@@ -1308,7 +1299,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "black-cohosh"
   },
   {
@@ -1399,13 +1390,7 @@
      "status": "verified"
     }
    ],
-   "dosage": [
-    {
-     "name": "Decoction / infusion",
-     "text": "Traditional use has no standardised modern dose; herbal references suggest a small handful of fresh leaf and stem per cup as an infusion or light decoction. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Polyacetylenes (falcarindiol)",
@@ -2136,11 +2121,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flowering herb.",
-     "status": "draft"
-    },
-    {
      "name": "Poultice/compress",
      "text": "Crushed or infused herb applied externally to minor wounds and skin inflammation.",
      "reference_ids": [
@@ -2537,30 +2517,9 @@
       "REF-0113"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
-    },
-    {
-     "name": "Poultice/wash",
-     "text": "Infused herb used as a topical wash or poultice for minor wounds and skin irritation.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -2840,11 +2799,6 @@
       "REF-2426"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the fresh bulb.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -3352,7 +3306,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "garlic"
   },
   {
@@ -3431,11 +3385,6 @@
       "REF-2234"
      ],
      "status": "draft"
-    },
-    {
-     "name": "Latex/dried juice",
-     "text": "The bitter yellow leaf exudate (containing anthraquinone glycosides) used traditionally as a stimulant laxative; not recommended for prolonged use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -3446,11 +3395,6 @@
       "REF-3103"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Oral gel/juice",
-     "text": "Traditional references suggest around 1 tablespoon of gel, up to three times daily. WHO gives no oral posology for the GEL. One critical distinction applies here - WHO's separate monograph on Aloe covers the dried leaf JUICE (latex), a stimulant laxative dosed at only 0.04-0.17 g, and that figure must never be read across to aloe gel or gel juice, which are different preparations with different actions. Educational reference only, not a prescription.",
-     "status": "draft"
     }
    ],
    "constituents": [
@@ -3858,7 +3802,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "aloe-vera"
   },
   {
@@ -3963,11 +3907,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried leaf.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract",
      "text": "Concentrated leaf extract (rich in verbascoside) used in some clinical studies of muscle recovery and antioxidant support.",
      "reference_ids": [
@@ -3984,11 +3923,6 @@
       "REF-3079"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
     }
    ],
    "actions": [
@@ -4241,7 +4175,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "lemon-verbena"
   },
   {
@@ -4353,11 +4287,6 @@
      "reference_ids": [
       "REF-0481"
      ],
-     "status": "draft"
-    },
-    {
-     "name": "Syrup",
-     "text": "Root extract combined with sugar syrup as a soothing preparation for cough, especially in children.",
      "status": "draft"
     }
    ],
@@ -4643,11 +4572,6 @@
       "REF-0392"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial parts.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -4894,7 +4818,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "andrographis"
   },
   {
@@ -4956,11 +4880,6 @@
    },
    "preparations": [
     {
-     "name": "Infusion (seed)",
-     "text": "Crushed dill seed infused in hot water as a traditional carminative digestive tea.",
-     "status": "draft"
-    },
-    {
      "name": "Infusion (leaf)",
      "text": "Fresh or dried leaf infused as a milder digestive tea, also used culinarily.",
      "reference_ids": [
@@ -4970,8 +4889,11 @@
     },
     {
      "name": "Essential oil",
-     "text": "Steam-distilled from the seed; used in low dilution for its aromatic carminative and antimicrobial properties.",
-     "status": "draft"
+     "text": "Essential oil of the dried ripe fruit; average daily dose 0.1-0.3 g per the WHO monograph. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3094"
+     ]
     }
    ],
    "dosage": [
@@ -4982,11 +4904,6 @@
       "REF-3094"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "About 1-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
     }
    ],
    "constituents": [
@@ -5337,7 +5254,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "dill"
   },
   {
@@ -5461,11 +5378,6 @@
      "status": "draft"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root, typically around 1:5.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised leaf extract",
      "text": "Concentrated leaf extract studied in a pilot clinical trial for overactive bladder symptoms.",
      "reference_ids": [
@@ -5477,13 +5389,19 @@
    "dosage": [
     {
      "name": "Root infusion/decoction",
-     "text": "Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "Health Canada's NNHPD monograph gives 0.3-12 g of dried root and rhizome per day for adults 18 years and older, with infusion and decoction among the accepted methods of preparation. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3125"
+     ]
     },
     {
      "name": "Tincture (1:5)",
-     "text": "About 1-3 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "Health Canada's NNHPD monograph accepts a tincture among the methods of preparation for angelica root and rhizome, within the same 0.3-12 g dried-equivalent daily range for adults 18 years and older; it does not state a tincture ratio or volume. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3125"
+     ]
     }
    ],
    "actions": [
@@ -5986,7 +5904,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "angelica"
   },
   {
@@ -6082,11 +6000,6 @@
       "REF-0705"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root, typically around 1:5.",
-     "status": "draft"
     },
     {
      "name": "Fresh root (culinary)",
@@ -6460,11 +6373,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root, typically around 1:5.",
-     "status": "draft"
-    },
-    {
      "name": "Topical wash",
      "text": "Cooled decoction used as a topical wash for eczema, acne and other skin irritation, reflecting the traditional external alterative use.",
      "reference_ids": [
@@ -6473,18 +6381,7 @@
      "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Root decoction",
-     "text": "Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture (1:5)",
-     "text": "About 2-4 mL of a 1:5 tincture, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "actions": [
     {
      "action": "alterative",
@@ -6844,11 +6741,6 @@
       "REF-0405"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried leaf.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -7188,11 +7080,6 @@
       "REF-0398"
      ],
      "status": "draft"
-    },
-    {
-     "name": "Infused oil",
-     "text": "Flower heads infused in a carrier oil for topical massage use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -7462,7 +7349,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "arnica"
   },
   {
@@ -7534,11 +7421,6 @@
       "REF-0728"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb, used in small bitter doses.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -7911,11 +7793,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
-    },
-    {
      "name": "Moxa (external heat therapy)",
      "text": "Dried, processed leaf ('moxa') burned near or on the skin over acupuncture points in traditional East Asian moxibustion.",
      "reference_ids": [
@@ -7927,8 +7804,11 @@
    "dosage": [
     {
      "name": "Infusion",
-     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily, for short-term use. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "Health Canada's NNHPD monograph gives 0.2-2.4 g of dried herb top, 3 times per day, for adults 18 years and older, with infusion and decoction among the accepted methods of preparation. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3126"
+     ]
     }
    ],
    "constituents": [
@@ -8257,7 +8137,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "mugwort"
   },
   {
@@ -8348,11 +8228,6 @@
      "reference_ids": [
       "REF-0494"
      ],
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root.",
      "status": "draft"
     }
    ],
@@ -8660,11 +8535,6 @@
       "REF-0402"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -8909,7 +8779,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "astragalus"
   },
   {
@@ -8978,16 +8848,6 @@
       "REF-0740"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "Fresh or dried leaf/whole plant infused in hot water as a traditional nervine tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -9297,11 +9157,6 @@
      "reference_ids": [
       "REF-0743"
      ],
-     "status": "draft"
-    },
-    {
-     "name": "Fresh sap",
-     "text": "Sap collected fresh in early spring and drunk directly as a traditional tonic, or fermented into birch wine/vinegar.",
      "status": "draft"
     }
    ],
@@ -9693,7 +9548,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "birch"
   },
   {
@@ -9801,11 +9656,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried rhizome.",
-     "status": "draft"
-    },
-    {
      "name": "Poultice/wash",
      "text": "Crushed rhizome or aerial parts applied externally, or used as a wash, for minor wounds and bleeding.",
      "reference_ids": [
@@ -9814,13 +9664,7 @@
      "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Decoction/gargle",
-     "text": "Traditional herbal references suggest around 1-2 g of dried rhizome per cup, up to three times daily, or used as a gargle. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -10127,11 +9971,6 @@
      "status": "verified"
     },
     {
-     "name": "Fresh leaf/flower (culinary)",
-     "text": "Fresh leaves and flowers used in salads and as a garnish, continuing the traditional food use, and only in the short term given PA content.",
-     "status": "draft"
-    },
-    {
      "name": "Infusion",
      "text": "Dried leaf infused as a traditional cooling tea for fevers, though use should be short-term and PA-aware.",
      "reference_ids": [
@@ -10141,11 +9980,6 @@
     }
    ],
    "dosage": [
-    {
-     "name": "Seed oil (standardised)",
-     "text": "Products are commonly standardised to around 20-24% GLA, with typical intakes of one to a few 300 mg softgels daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    },
     {
      "name": "Whole-herb preparations",
      "text": "A phase-two randomised placebo-controlled trial in moderate persistent asthma used Borago officinalis extract at 5 mL three times daily for one month. Because of pyrrolizidine alkaloid content, whole-herb (leaf/flower) preparations should only be used short-term and from PA-controlled sources; avoid in pregnancy, breastfeeding and liver disease. Educational reference only, not a prescription.",
@@ -10481,7 +10315,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "borage"
   },
   {
@@ -10574,16 +10408,6 @@
       "REF-0423"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Resin/incense",
-     "text": "Raw resin tears burned as incense or chewed traditionally; not a standardised medicinal dose.",
-     "status": "draft"
-    },
-    {
-     "name": "Topical cream",
-     "text": "Resin extract formulated into topical creams for joint and skin application.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -10860,11 +10684,6 @@
       "REF-0752"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "Dried flower infused in hot water, taken internally or used as a gargle/mouthwash.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -11209,11 +11028,6 @@
      "status": "verified"
     },
     {
-     "name": "Infusion (black/oolong tea)",
-     "text": "Leaf that has been withered, rolled and fully or partially oxidised before drying, infused in hot water; a more oxidised, less catechin-rich preparation with its own flavour and mild stimulant profile.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract",
      "text": "Concentrated leaf extract standardised to catechin (e.g. EGCG) content, taken as capsules; used in some clinical studies, though high-dose extracts carry rare hepatotoxicity concerns.",
      "reference_ids": [
@@ -11490,7 +11304,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "tea"
   },
   {
@@ -11576,13 +11390,7 @@
      "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Culinary / traditional",
-     "text": "No standardised medicinal dose is established; the plant is used chiefly as a food. Educational reference only.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Phenolic acids (chlorogenic and caffeic acids)",
@@ -11842,20 +11650,9 @@
       "REF-0058"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Dried flower",
-     "text": "Dried flower used traditionally and in some jurisdictions medicinally; legal status and THC content vary widely.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "All preparations",
-     "text": "Because cannabinoid content, legal status and formulation vary enormously between products, no general dose is given here; use only regulated, quality-controlled products under appropriate medical or legal guidance. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Cannabinoids (THC, CBD and related compounds)",
@@ -12185,16 +11982,6 @@
       "REF-0507"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the fresh or dried flowering herb, typically around 1:5.",
-     "status": "draft"
-    },
-    {
-     "name": "Poultice",
-     "text": "Crushed fresh herb applied directly to minor wounds to help stop bleeding.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -12349,7 +12136,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "shepherd-s-purse"
   },
   {
@@ -12417,16 +12204,6 @@
       "REF-2149"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture/infusion (internal)",
-     "text": "Small amounts of dried fruit infused or tinctured as a warming digestive stimulant; avoid contact with eyes and mucous membranes.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Fresh or dried fruit used as a food spice, the most common traditional and modern form of use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -12437,11 +12214,6 @@
       "REF-3090"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Internal use",
-     "text": "Culinary amounts are considered safe; high-dose internal supplements should be avoided, especially in pregnancy or with peptic ulcer disease. Educational reference only, not a prescription.",
-     "status": "draft"
     }
    ],
    "constituents": [
@@ -12713,7 +12485,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "chili-pepper"
   },
   {
@@ -12778,16 +12550,6 @@
       "REF-1977"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Essential oil",
-     "text": "Steam-distilled from the seed; used in small internal doses or diluted for topical/aromatic use, not for self-dosing at high concentration.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Whole seed used as a food spice (rye bread, cabbage dishes), continuing the traditional food-medicine use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -13116,11 +12878,6 @@
       "REF-0431"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -13425,11 +13182,6 @@
       "REF-0457"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "Fresh or dried leaf infused in hot water as a traditional calming and tonic tea.",
-     "status": "draft"
     },
     {
      "name": "Topical cream/ointment",
@@ -13762,7 +13514,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "gotu-kola"
   },
   {
@@ -13836,16 +13588,6 @@
       "REF-1658"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Poultice",
-     "text": "Fresh crushed leaf applied topically to minor wounds and skin inflammation.",
-     "status": "draft"
-    },
-    {
-     "name": "Young shoots (culinary)",
-     "text": "Young spring shoots peeled and eaten cooked, similarly to asparagus, continuing the traditional food use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -14142,7 +13884,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "fireweed"
   },
   {
@@ -14605,16 +14347,6 @@
       "REF-0430"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction/infusion",
-     "text": "Bark simmered or infused in hot water as a warming traditional digestive tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Ground bark or whole quills used as a food spice, the most common traditional and modern form of use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -14870,16 +14602,6 @@
      "reference_ids": [
       "REF-0101"
      ],
-     "status": "draft"
-    },
-    {
-     "name": "Decoction/infusion",
-     "text": "Bark simmered or infused in hot water as a warming digestive tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Ground bark or whole quills used as a food spice, the traditional and most common form of use.",
      "status": "draft"
     }
    ],
@@ -15175,7 +14897,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "true-cinnamon"
   },
   {
@@ -15281,11 +15003,6 @@
       "REF-0420"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -15568,11 +15285,6 @@
    },
    "preparations": [
     {
-     "name": "Roasted, brewed (culinary/traditional)",
-     "text": "Roasted, ground seed brewed with hot water as the classic stimulant beverage; the most common form of use worldwide.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract",
      "text": "Decaffeinated or standardised green/roasted bean or leaf extract, taken as capsules for antioxidant or metabolic support studies.",
      "reference_ids": [
@@ -15845,20 +15557,9 @@
       "REF-2153"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction",
-     "text": "Dried fruiting body simmered in water or added to soups/tonics, a traditional preparation.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Standardised extract",
-     "text": "Studies of ergogenic and immune support commonly use around 1-3 g of dried fruiting body or standardised extract daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Cordycepin (3'-deoxyadenosine)",
@@ -16152,16 +15853,6 @@
    },
    "preparations": [
     {
-     "name": "Infusion (seed)",
-     "text": "Crushed seed infused in hot water as a traditional carminative digestive tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Fresh leaf (culinary)",
-     "text": "Fresh leaf used as a culinary herb and garnish, the most common form of use, continuing the food-medicine tradition.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract",
      "text": "Seed powder or extract studied for glycaemic and psychiatric-symptom support in clinical and preclinical work.",
      "reference_ids": [
@@ -16170,13 +15861,7 @@
      "status": "verified"
     }
    ],
-   "dosage": [
-    {
-     "name": "Seed infusion/powder",
-     "text": "Traditional herbal references suggest around 1-3 g of crushed seed per cup or dose, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Essential oil (linalool)",
@@ -16550,16 +16235,6 @@
       "REF-0782"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "Dried flower, leaf or berry infused in hot water as a traditional cardiovascular and calming tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flower, leaf or berry.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -16880,16 +16555,6 @@
       "REF-1709"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "Dried flower, leaf or berry infused in hot water as a traditional cardiovascular and calming tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flower, leaf or berry.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -17193,16 +16858,6 @@
       "REF-0788"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "A few dried stigma threads steeped in hot water or milk, a traditional culinary and mild medicinal preparation.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Dried stigma threads used as a spice and natural dye/flavouring in cooking, the most common traditional and modern use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -17590,25 +17245,8 @@
     "text": "Cumin seed has an ancient culinary and medicinal history across the Middle East, South Asia and the Mediterranean as a warming digestive carminative for indigestion, bloating and cramping, and is one of the most widely used spices worldwide.",
     "status": "draft"
    },
-   "preparations": [
-    {
-     "name": "Infusion (seed)",
-     "text": "Crushed or whole seed infused or lightly toasted then infused in hot water as a traditional carminative digestive tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Whole or ground seed used extensively as a food spice, the most common form of use.",
-     "status": "draft"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Seed infusion",
-     "text": "Traditional herbal references suggest around 1-3 g of crushed seed per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -18201,16 +17839,6 @@
       "REF-0791"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction/'golden milk'",
-     "text": "Fresh or dried rhizome simmered in milk or water, traditionally with black pepper and a fat source, as a warming digestive and anti-inflammatory drink.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Fresh or dried, ground rhizome used extensively as a food spice and colourant.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -18615,16 +18243,6 @@
       "REF-0461"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "Dried leaf infused in hot water as a bitter digestive tea, taken before meals.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried leaf.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -18893,11 +18511,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract (typically around 1:5 in 45% alcohol) of the seed or whole herb.",
-     "status": "draft"
-    },
-    {
      "name": "Poultice",
      "text": "Crushed leaf or grated root applied externally to wounds and inflamed skin, reflecting the traditional vulnerary use; carrot seed oil bioactives promote wound healing in animal studies.",
      "reference_ids": [
@@ -18906,18 +18519,7 @@
      "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Dried herb/seed infusion",
-     "text": "Traditional herbal texts use roughly 1-2 g of dried seed, or 2-4 g of dried aerial parts, per cup as an infusion, up to three times daily. Educational reference only.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture (1:5)",
-     "text": "About 1-4 mL of a 1:5 tincture, up to three times daily in adults. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Essential (volatile) oil",
@@ -19551,11 +19153,6 @@
      "status": "draft"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root and rhizome, typically around 1:5.",
-     "status": "draft"
-    },
-    {
      "name": "Topical cream",
      "text": "Root extract formulated into topical creams, historically marketed (without good supporting evidence) for menopausal symptoms.",
      "reference_ids": [
@@ -19564,13 +19161,7 @@
      "status": "verified"
     }
    ],
-   "dosage": [
-    {
-     "name": "Decoction",
-     "text": "Traditional herbal references suggest around 1-2 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "actions": [
     {
      "action": "analgesic",
@@ -19820,16 +19411,6 @@
       "REF-0797"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the fresh or dried root and/or aerial parts.",
-     "status": "draft"
-    },
-    {
-     "name": "Infusion",
-     "text": "Dried root or aerial parts infused in hot water as a traditional immune-supporting tea.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -20122,16 +19703,6 @@
       "REF-1668"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Essential oil",
-     "text": "Steam-distilled from the seed; used in small internal doses or diluted for aromatic/topical use.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Whole or ground seed used extensively as a food spice, the most common form of use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -20398,7 +19969,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "cardamom"
   },
   {
@@ -20495,16 +20066,6 @@
       "REF-0509"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction",
-     "text": "Dried root and rhizome simmered in water as a traditional tonic decoction.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root and rhizome.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -20846,16 +20407,6 @@
       "REF-0437"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion",
-     "text": "Dried rhizome infused in hot water as a milder alternative to a decoction.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried rhizome.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -21102,11 +20653,6 @@
       "REF-0403"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -21299,7 +20845,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "bay-leaf-willowherb"
   },
   {
@@ -21361,16 +20907,6 @@
       "REF-0041"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Poultice/wash",
-     "text": "Crushed or infused herb used topically as a wash or poultice for wounds and skin irritation.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried sterile stem.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -21758,25 +21294,8 @@
     "text": "Meadow (shady) horsetail shares the broader horsetail genus's traditional folk reputation as a diuretic, astringent and wound-healing herb, though it has been studied far less than field horsetail and has no dedicated clinical evidence base of its own.",
     "status": "draft"
    },
-   "preparations": [
-    {
-     "name": "Infusion",
-     "text": "Dried aerial stem infused in hot water, following the same traditional preparation as other horsetails.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial stem.",
-     "status": "draft"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "No species-specific dosing data exist; if used, follow the same conservative short-term dosing as field horsetail (around 2-4 g dried herb per cup) with professional guidance. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "actions": [
     {
      "action": "antioxidant",
@@ -21924,25 +21443,8 @@
     "text": "Wood horsetail shares the broader horsetail genus's traditional folk reputation as a diuretic, astringent and wound-healing herb, though the species itself is very little studied and has no dedicated clinical evidence base of its own.",
     "status": "draft"
    },
-   "preparations": [
-    {
-     "name": "Infusion",
-     "text": "Dried aerial stem infused in hot water, following the same traditional preparation as other horsetails.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial stem.",
-     "status": "draft"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "No species-specific dosing data exist; if used, follow the same conservative short-term dosing as field horsetail (around 2-4 g dried herb per cup) with professional guidance. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "actions": [
     {
      "action": "antioxidant",
@@ -22113,8 +21615,11 @@
     },
     {
      "name": "Infusion",
-     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, taken in the evening for sleep support or through the day for calming effect. The EU herbal monograph covers the POWDERED herbal substance only and gives no infusion posology, so this figure is traditional rather than regulatory. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "Health Canada's NNHPD monograph gives 0.2-3 g of dried flowering herb top per day for adults 18 years and older, with infusion among the accepted methods of preparation. The EU herbal monograph covers the powdered herbal substance only and gives no infusion posology. Educational reference only, not a prescription.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3127"
+     ]
     }
    ],
    "actions": [
@@ -22274,7 +21779,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "california-poppy"
   },
   {
@@ -22343,11 +21848,6 @@
       "REF-0224"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion (leaf)",
-     "text": "Dried leaf infused in hot water as a milder traditional respiratory tea.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -22708,11 +22208,6 @@
       "REF-0613"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion (internal)",
-     "text": "Dried flowering herb infused in hot water, taken internally as an astringent tea for catarrh.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -22923,7 +22418,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "eyebright"
   },
   {
@@ -22995,11 +22490,6 @@
       "REF-0815"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial parts.",
-     "status": "draft"
     },
     {
      "name": "Standardised extract",
@@ -23471,25 +22961,9 @@
       "REF-2734"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract (about 1:5) of the aerial parts.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Dried herb infusion",
-     "text": "Traditional herbal use: roughly 2-4 g of dried flowering herb per cup as an infusion, up to three times daily. Educational reference only.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture (1:5)",
-     "text": "About 2-4 mL of a 1:5 tincture, up to three times daily in adults. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Flavonol glycosides",
@@ -24075,11 +23549,6 @@
       "REF-0604"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Seed, leaf ('fronds') and bulb used extensively as a food spice and vegetable.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -24357,7 +23826,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "fennel"
   },
   {
@@ -24454,25 +23923,8 @@
     "text": "White bedstraw shares the broader bedstraw genus's folk reputation as a mild diuretic and topical remedy for minor skin and wound complaints, though species-specific clinical or traditional-use documentation is sparse; most available research on this species is phytochemical and antioxidant in nature rather than confirming a specific traditional-use record.",
     "status": "draft"
    },
-   "preparations": [
-    {
-     "name": "Infusion",
-     "text": "Dried flowering herb infused in hot water, following the general bedstraw-genus tradition; species-specific use documentation is limited.",
-     "status": "draft"
-    },
-    {
-     "name": "Fresh herb (topical)",
-     "text": "Fresh crushed herb applied topically for minor skin irritation, per general genus tradition.",
-     "status": "draft"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "No species-specific dosing data exist; if used, follow conservative genus-typical dosing (around 2-4 g dried herb per cup) with professional guidance. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "actions": [
     {
      "action": "antioxidant",
@@ -24585,11 +24037,6 @@
      "status": "verified"
     },
     {
-     "name": "Infusion",
-     "text": "Dried or fresh herb infused in hot (or cold) water as a traditional diuretic and lymphatic-support tea.",
-     "status": "draft"
-    },
-    {
      "name": "Poultice/wash",
      "text": "Crushed fresh herb or a strained infusion applied topically as a wash or poultice for skin irritation and minor wounds.",
      "reference_ids": [
@@ -24598,13 +24045,7 @@
      "status": "verified"
     }
    ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "Traditional herbal references suggest around 2-4 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Iridoid glycosides (asperuloside)",
@@ -24896,11 +24337,6 @@
    },
    "preparations": [
     {
-     "name": "Decoction",
-     "text": "Dried, sliced fruiting body simmered in water for an extended period, the traditional preparation to extract polysaccharides.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract",
      "text": "Extract standardised to polysaccharide (beta-glucan) or triterpene content, taken as capsules or powder; the form used in most modern studies.",
      "reference_ids": [
@@ -24908,20 +24344,9 @@
       "REF-2039"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcohol/water dual extraction, used to capture both water-soluble polysaccharides and alcohol-soluble triterpenes.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Standardised extract",
-     "text": "Traditional and clinical references commonly cite around 1-3 g of dried fruiting body extract daily, or higher doses of raw powder/decoction. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Beta-glucan polysaccharides",
@@ -25347,11 +24772,6 @@
      "status": "draft"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root, often taken as a few drops before meals.",
-     "status": "draft"
-    },
-    {
      "name": "Infusion",
      "text": "Dried root infused briefly in hot water and taken shortly before meals as a bitter digestive tonic.",
      "reference_ids": [
@@ -25597,25 +25017,9 @@
       "REF-2771"
      ],
      "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the root (about 1:5).",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Root decoction",
-     "text": "Traditional herbal use: roughly 1-4 g of dried root per cup as a decoction, up to three times daily. Educational reference only.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture (1:5)",
-     "text": "About 1-4 mL of a 1:5 root tincture up to three times daily in adults. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Ellagitannins (pedunculagin, galloyl-bis-HHDP-hexose)",
@@ -26056,11 +25460,6 @@
       "REF-0056"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Cooked seed (traditional, East Asian)",
-     "text": "Small numbers of cooked seeds used traditionally in East Asian cuisine and medicine; raw seeds are toxic (ginkgotoxin) and never eaten raw.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -26430,11 +25829,6 @@
      "status": "verified"
     },
     {
-     "name": "Deglycyrrhizinated licorice (DGL)",
-     "text": "Extract with most of the glycyrrhizin removed, used for prolonged gastric support without the blood-pressure/potassium risk of whole root.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract",
      "text": "Root extract standardised to glycyrrhizin content, taken as capsules or lozenges.",
      "reference_ids": [
@@ -26776,7 +26170,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "constituents": [
     {
      "name": "Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)",
@@ -26892,16 +26286,6 @@
       "REF-2465"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction",
-     "text": "Dried leaf simmered in water as a traditional Ayurvedic preparation.",
-     "status": "draft"
-    },
-    {
-     "name": "Chewed fresh leaf",
-     "text": "Fresh leaf chewed directly, the traditional way of demonstrating and using its sweet-taste-blocking effect.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -27168,11 +26552,6 @@
       "REF-0531"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Cream/ointment",
-     "text": "Standardised extract formulated into creams or ointments, particularly for haemorrhoid relief.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -27475,16 +26854,6 @@
       "REF-0562"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction",
-     "text": "Dried root tuber simmered in water, a traditional preparation.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root tuber.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -27740,11 +27109,6 @@
       "REF-0472"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion (traditional)",
-     "text": "Dried leaf infused in hot water, a traditional preparation predating standardised extracts.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -27979,11 +27343,6 @@
       "REF-0642"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Fresh/dried fruiting body (culinary)",
-     "text": "Fresh or dried fruiting body cooked and eaten as a food, the traditional East Asian form of use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -28326,11 +27685,6 @@
       "REF-0464"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Fresh or dried calyces used in cooking, jams and cold beverages, especially across West Africa and Latin America.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -28602,25 +27956,9 @@
       "REF-2317"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Juice/puree",
-     "text": "Fresh berries pressed into juice or puree, a nutrient-dense traditional food and tonic.",
-     "status": "draft"
-    },
-    {
-     "name": "Infusion (leaf)",
-     "text": "Dried leaf infused in hot water as a traditional tonic tea.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Oil (topical or oral)",
-     "text": "Traditional and product references commonly suggest a few millilitres of oil daily orally, or applied topically as needed. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Vitamin C and carotenoids",
@@ -28973,16 +28311,6 @@
     "status": "verified"
    },
    "preparations": [
-    {
-     "name": "Infusion",
-     "text": "Dried flower cones infused in hot water as a traditional calming, sleep-supporting tea, often combined with valerian.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried cones.",
-     "status": "draft"
-    },
     {
      "name": "Standardised extract",
      "text": "Concentrated extract standardised to xanthohumol/humulone content, studied for sleep-enhancing activity via GABA-A receptor modulation.",
@@ -29338,11 +28666,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried rhizome and root.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract",
      "text": "Extract standardised to berberine/hydrastine content, taken as capsules; whole-leaf extracts have shown stronger antimicrobial activity than isolated berberine in some studies.",
      "reference_ids": [
@@ -29676,16 +28999,6 @@
       "REF-0842"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infused oil ('red oil')",
-     "text": "Fresh flowers infused in oil until the oil turns red, applied topically for minor wounds, burns and nerve pain.",
-     "status": "draft"
-    },
-    {
-     "name": "Infusion",
-     "text": "Dried flowering herb infused in hot water as a traditional calming tea.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -30174,23 +29487,16 @@
       "REF-0845"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Essential oil",
-     "text": "Steam-distilled from the flowering herb; internal use restricted to very small, professionally guided doses given its neurotoxic potential at higher doses.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flowering herb.",
-     "status": "draft"
     }
    ],
    "dosage": [
     {
      "name": "Infusion",
-     "text": "Traditional herbal references suggest around 2-3 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription. The essential oil is not for unsupervised internal use.",
-     "status": "draft"
+     "text": "Health Canada's NNHPD monograph gives 3-16 g of dried herb top per day for adults 18 years and older, not to exceed 4 g in a single dose, with infusion among the accepted methods of preparation. Educational reference only, not a prescription. The essential oil is not for unsupervised internal use.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3128"
+     ]
     }
    ],
    "constituents": [
@@ -30379,7 +29685,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "hyssop"
   },
   {
@@ -30456,13 +29762,7 @@
      "status": "verified"
     }
    ],
-   "dosage": [
-    {
-     "name": "Decoction",
-     "text": "Traditional references suggest simmering a small handful of chaga chunks (roughly 5-10 g) in water for an extended period, drunk as a daily tonic tea. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Melanin-rich pigments and betulinic acid derivatives",
@@ -30910,25 +30210,9 @@
       "REF-0445"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root.",
-     "status": "draft"
-    },
-    {
-     "name": "Syrup",
-     "text": "Root decoction combined with honey or sugar syrup as a soothing cough remedy, especially for children.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Decoction",
-     "text": "Traditional herbal references suggest around 1-3 g of dried root per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -31169,22 +30453,12 @@
    },
    "preparations": [
     {
-     "name": "Infusion (berries)",
-     "text": "Crushed ripe berries infused in hot water as a traditional diuretic and digestive tea, for short-term use only.",
-     "status": "draft"
-    },
-    {
      "name": "Essential oil",
      "text": "Steam-distilled from the berries; used in small internal doses for short periods or diluted for topical/aromatic use.",
      "reference_ids": [
       "REF-0851"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Dried berries used as a food spice and the classic flavouring for gin.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -31456,7 +30730,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "common-juniper"
   },
   {
@@ -31544,13 +30818,7 @@
      "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Dried herb infusion",
-     "text": "No standardised dose is established (little studied). Traditionally a few grams of the dried flowering herb are infused per cup. Educational reference only.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Phenolic acids (chlorogenic and dicaffeoylquinic acids)",
@@ -31824,11 +31092,6 @@
       "REF-0526"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial parts or lactucarium.",
-     "status": "draft"
     },
     {
      "name": "Lactucarium (historical)",
@@ -32130,30 +31393,8 @@
     "text": "White dead-nettle flower has a long European folk history as an astringent remedy for catarrh and excessive menstrual or vaginal discharge, and topically as a vulnerary wash for minor wounds; the young leaves and shoots have also traditionally been eaten as a cooked spring pot-herb.",
     "status": "draft"
    },
-   "preparations": [
-    {
-     "name": "Infusion",
-     "text": "Dried flowering tops infused in hot water as a traditional astringent and expectorant tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flowering herb.",
-     "status": "draft"
-    },
-    {
-     "name": "Poultice/wash",
-     "text": "Crushed fresh leaf or a strained infusion applied topically to minor wounds.",
-     "status": "draft"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "Traditional herbal references suggest around 2-4 g of dried flowering herb per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -32465,16 +31706,6 @@
       "REF-0065"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Whole dried or fresh leaves used to flavour soups, stews and sauces, removed before eating since they remain rigid; the most common form of use.",
-     "status": "draft"
-    },
-    {
-     "name": "Essential oil",
-     "text": "Steam-distilled from the leaves, used topically diluted or in aromatherapy.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -32954,11 +32185,6 @@
       "REF-2205"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Standardised oral oil preparation",
-     "text": "Encapsulated, standardised lavender oil preparation (e.g. Silexan) studied in clinical trials for generalised anxiety.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -33285,7 +32511,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "lavender"
   },
   {
@@ -33339,11 +32565,6 @@
    },
    "preparations": [
     {
-     "name": "Culinary use",
-     "text": "Fresh or dried fruiting body cooked and eaten as a food, always fully cooked (never raw) to avoid the rare shiitake dermatitis reaction.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract",
      "text": "Fruiting-body or mycelium extract standardised to polysaccharide (lentinan/beta-glucan) content, taken as capsules for immune support.",
      "reference_ids": [
@@ -33352,13 +32573,7 @@
      "status": "verified"
     }
    ],
-   "dosage": [
-    {
-     "name": "Standardised extract",
-     "text": "Traditional and product references commonly suggest around 1-3 g of dried extract daily, in divided doses. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Lentinan (beta-1,3-glucan polysaccharide)",
@@ -33649,11 +32864,6 @@
       "REF-0860"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flowering herb, typically around 1:5.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -33974,11 +33184,6 @@
       "REF-2220"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Poultice",
-     "text": "Crushed or ground seed made into a warm paste and applied externally to boils and inflamed skin - a traditional demulcent, soothing application.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -34374,25 +33579,9 @@
       "REF-2798"
      ],
      "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the aerial parts (about 1:5).",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Dried herb infusion",
-     "text": "Traditional herbal use: roughly 2-4 g of dried flowering herb per cup as an infusion, up to three times daily. Educational reference only.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture (1:5)",
-     "text": "About 2-4 mL of a 1:5 tincture up to three times daily in adults. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Flavonoids (rutin, quercetin, kaempferol, myricitrin glycosides)",
@@ -34792,11 +33981,6 @@
       "REF-1173"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture/decoction of root bark",
-     "text": "Traditional internal preparation of the dried root bark as a bitter tonic; far less studied than the topical form.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -35089,11 +34273,6 @@
       "REF-0480"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Cold macerate",
-     "text": "Leaf/flower soaked in cold water for several hours, a traditional technique that preserves more of the heat-sensitive mucilage than a hot infusion.",
-     "status": "draft"
     },
     {
      "name": "Poultice/compress",
@@ -35496,11 +34675,6 @@
       "REF-0469"
      ],
      "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial parts, taken as a bitter digestive.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -35800,11 +34974,6 @@
       "REF-2349"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Mouthwash/gargle",
-     "text": "Infusion used as a mouthwash or gargle, traditionally for mouth and throat irritation.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -36485,11 +35654,6 @@
       "REF-1200"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the fresh or dried leaf.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -36912,11 +36076,6 @@
       "REF-1207"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the leaf.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -37446,11 +36605,6 @@
      "status": "verified"
     },
     {
-     "name": "Dried fruit tea",
-     "text": "Dried fruit slices infused in hot water.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract capsule",
      "text": "Encapsulated dry fruit extract, the form used in clinical trials for blood-sugar support.",
      "reference_ids": [
@@ -37785,21 +36939,6 @@
       "REF-1422"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Fresh fruit",
-     "text": "Ripe or unripe fruit eaten as food (and historically as a famine food) in some Pacific cultures.",
-     "status": "draft"
-    },
-    {
-     "name": "Leaf preparation",
-     "text": "Leaves used traditionally as a poultice for wounds and skin complaints, or infused as a tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Root preparation",
-     "text": "Root traditionally used as a source of yellow/red dye and in folk medicine.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -38215,11 +37354,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial parts.",
-     "status": "draft"
-    },
-    {
      "name": "Essential oil",
      "text": "Steam-distilled from the aerial parts; used mainly as a natural insect repellent (nepetalactone) rather than taken internally.",
      "reference_ids": [
@@ -38231,8 +37365,11 @@
    "dosage": [
     {
      "name": "Infusion (tea)",
-     "text": "Traditional herbal guidance suggests a mild infusion of the dried aerial parts, up to a few cups daily for adults. Keep away from toddlers/young children beyond very small amounts and avoid medicinal-dose use in pregnancy. Educational reference only, not a prescription.",
-     "status": "draft"
+     "text": "Health Canada's NNHPD monograph gives 1.2-12 g of dried herb top per day for adults 18 years and older, with infusion among the accepted methods of preparation. Educational reference only, not a prescription. Keep away from toddlers and young children beyond very small amounts, and avoid medicinal-dose use in pregnancy.",
+     "status": "verified",
+     "reference_ids": [
+      "REF-3129"
+     ]
     }
    ],
    "constituents": [
@@ -38479,7 +37616,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-07-20",
    "common_slug": "catnip"
   },
   {
@@ -38560,16 +37697,6 @@
       "REF-2073"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion/decoction",
-     "text": "Crushed seed steeped or simmered in hot water.",
-     "status": "draft"
-    },
-    {
-     "name": "Topical oil",
-     "text": "Seed oil applied to skin for irritation or infection.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -39200,11 +38327,6 @@
    },
    "preparations": [
     {
-     "name": "Fresh leaf",
-     "text": "A few fresh leaves chewed daily, or added to food - a traditional daily practice.",
-     "status": "draft"
-    },
-    {
      "name": "Infusion (tea)",
      "text": "Dried or fresh leaf steeped in hot water, alone or blended with other herbs/spices.",
      "reference_ids": [
@@ -39220,11 +38342,6 @@
       "REF-0466"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Essential oil",
-     "text": "Steam-distilled from the leaf; used mainly topically or aromatically rather than taken internally at concentrated strength.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -39492,7 +38609,7 @@
    },
    "provenance": "website+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "holy-basil"
   },
   {
@@ -39584,11 +38701,6 @@
       "REF-1461"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Seed oil (liquid)",
-     "text": "Taken directly by the spoonful or added to food.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -39814,11 +38926,6 @@
    },
    "preparations": [
     {
-     "name": "Leaf infusion (tea)",
-     "text": "Dried leaf steeped in hot water, a traditional mild antihypertensive and tonic tea.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised leaf extract",
      "text": "Capsule or liquid extract standardised for oleuropein content - the form used in most clinical trials.",
      "reference_ids": [
@@ -39826,16 +38933,6 @@
       "REF-1445"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Olive oil (culinary)",
-     "text": "Extra-virgin, cold-pressed oil, the everyday dietary form and the basis of the Mediterranean diet.",
-     "status": "draft"
-    },
-    {
-     "name": "Table olives (fruit)",
-     "text": "Cured or fermented ripe or unripe fruit eaten as food.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -40249,25 +39346,9 @@
       "REF-2748"
      ],
      "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the root (about 1:5).",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Root decoction",
-     "text": "Traditional herbal use: roughly 6-12 g of dried root daily as a decoction, taken with plenty of fluid for irrigation of the urinary tract. Educational reference only.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture (1:5)",
-     "text": "About 2-4 mL of a 1:5 root tincture up to three times daily in adults. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Isoflavonoids (formononetin, ononin and derivatives)",
@@ -40795,16 +39876,6 @@
       "REF-1226"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Fresh or dried herb used as a seasoning, providing a mild, ongoing dietary digestive benefit.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -41227,11 +40298,6 @@
       "REF-0597"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -41543,13 +40609,7 @@
      "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Fresh herb (culinary/traditional)",
-     "text": "No standardised medicinal dose is established. Traditionally used as small quantities of the fresh sour herb or as leaf infusions. Because of the high oxalate content, keep amounts modest. Educational reference only.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Flavonoids",
@@ -41928,11 +40988,6 @@
    },
    "preparations": [
     {
-     "name": "Fresh or dried berries",
-     "text": "Eaten whole, fresh or dried, or added to food.",
-     "status": "draft"
-    },
-    {
      "name": "Juice",
      "text": "Unsweetened juice, the traditional preparation used for urinary support.",
      "reference_ids": [
@@ -41949,13 +41004,7 @@
      "status": "verified"
     }
    ],
-   "dosage": [
-    {
-     "name": "Juice / extract",
-     "text": "Food amounts (juice, sauces, dried fruit) are considered safe; standardised extract products vary in proanthocyanidin content, so follow product-specific dosing for urinary support. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Proanthocyanidins (A-type PACs)",
@@ -42232,22 +41281,12 @@
      "status": "verified"
     },
     {
-     "name": "Dried root (sliced/whole)",
-     "text": "Sliced or whole dried root, chewed or decocted.",
-     "status": "draft"
-    },
-    {
      "name": "Red ginseng (steamed and dried root)",
      "text": "Traditional processed form (steamed then dried), which alters and concentrates the ginsenoside profile compared with white (unprocessed) ginseng.",
      "reference_ids": [
       "REF-1468"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tea/decoction",
-     "text": "Sliced root simmered in water.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -42714,11 +41753,6 @@
       "REF-0490"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tea blend",
-     "text": "Traditionally combined with other calming herbs such as chamomile or lemon balm.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -42931,11 +41965,6 @@
       "REF-0955"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Guarana beverage/soft drink",
-     "text": "Seed extract used as a flavouring and stimulant ingredient in commercial beverages.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -43223,11 +42252,6 @@
       "REF-0493"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tablets/lozenges",
-     "text": "Encapsulated standardised extract.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -43809,11 +42833,6 @@
       "REF-0489"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Root decoction",
-     "text": "Root simmered in water, a traditional diuretic preparation.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -44154,11 +43173,6 @@
       "REF-0278"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Chewed seed",
-     "text": "Traditional after-meal digestive aid.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -44596,11 +43610,6 @@
       "REF-0018"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Bud/bark preparations",
-     "text": "Traditional syrup or decoction of young buds or bark for bronchitis and sinus congestion.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -45307,11 +44316,6 @@
       "REF-0500"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried leaf.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -46199,16 +45203,6 @@
    },
    "preparations": [
     {
-     "name": "Cooked fruiting body (culinary)",
-     "text": "The common food form; always eaten cooked, never raw.",
-     "status": "draft"
-    },
-    {
-     "name": "Dried mushroom / powder",
-     "text": "Dried and powdered for use in soups, broths, or encapsulated supplements.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised polysaccharide extract",
      "text": "Beta-glucan-rich extract, the form used in most bioactivity research.",
      "reference_ids": [
@@ -46861,11 +45855,6 @@
      "status": "verified"
     },
     {
-     "name": "Flower infusion (tea)",
-     "text": "Dried flower steeped in hot water, a milder traditional calming and headache remedy.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised combination extract",
      "text": "Root is a component of some standardised multi-herb bronchial/cough products (e.g. combined with ivy and thyme).",
      "reference_ids": [
@@ -47162,22 +46151,12 @@
    },
    "preparations": [
     {
-     "name": "Fresh leaf poultice",
-     "text": "Crushed fresh herb applied to wounds, cuts and bruises.",
-     "status": "draft"
-    },
-    {
      "name": "Infusion (tea)",
      "text": "Dried aerial parts steeped in hot water, taken internally or used as a gargle or wash.",
      "reference_ids": [
       "REF-0659"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial parts.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -47638,11 +46617,6 @@
       "REF-0496"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Traditional bark decoction",
-     "text": "Dried bark simmered in water, a traditional East/Central African preparation.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -47895,11 +46869,6 @@
       "REF-0525"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried bark.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -48125,11 +47094,6 @@
       "REF-1517"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tea/extract",
-     "text": "Dried mushroom steeped in hot water, a traditional preparation said to reduce gastrointestinal discomfort.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -48387,16 +47351,6 @@
       "REF-0479"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Fresh leaf",
-     "text": "Occasionally used fresh in salads or soups, or as a poultice, in some traditional culinary and topical uses.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried aerial parts.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -48640,11 +47594,6 @@
       "REF-0979"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried rhizome.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -48920,16 +47869,6 @@
       "REF-1533"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root.",
-     "status": "draft"
-    },
-    {
-     "name": "Decoction/tea",
-     "text": "Traditional preparation, less concentrated than standardised extracts.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -49627,11 +48566,6 @@
    },
    "preparations": [
     {
-     "name": "Fresh or dried berries",
-     "text": "Eaten fresh or dried, or made into juice, jam or syrup.",
-     "status": "draft"
-    },
-    {
      "name": "Leaf infusion (tea)",
      "text": "Dried leaf steeped in hot water - the traditional joint-comfort/urinary-flush preparation.",
      "reference_ids": [
@@ -49640,11 +48574,6 @@
       "REF-0302"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Seed oil (capsule)",
-     "text": "Cold-pressed, GLA-rich oil, taken as a supplement.",
-     "status": "draft"
     },
     {
      "name": "Standardised fruit extract",
@@ -50004,21 +48933,6 @@
       "REF-0989"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion/tea",
-     "text": "Dried, deseeded hip steeped in hot water - a traditional vitamin C tonic.",
-     "status": "draft"
-    },
-    {
-     "name": "Syrup",
-     "text": "Traditional preparation, historically used as a vitamin C supplement, particularly for children.",
-     "status": "draft"
-    },
-    {
-     "name": "Petals",
-     "text": "Occasionally used for their fragrance in traditional preparations.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -50308,11 +49222,6 @@
       "REF-1006"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Hip tea/syrup",
-     "text": "Dried or fresh hips prepared as tea or syrup, a vitamin C tonic.",
-     "status": "draft"
     },
     {
      "name": "Standardised extract",
@@ -50657,11 +49566,6 @@
       "REF-0417"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Fresh or dried berries",
-     "text": "Eaten as food, a rich source of antioxidants.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -50964,11 +49868,6 @@
      "status": "verified"
     },
     {
-     "name": "Tincture",
-     "text": "Alcoholic extract, less commonly used than the tea.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised leaf extract",
      "text": "Used in some observational and clinical research.",
      "reference_ids": [
@@ -51197,11 +50096,6 @@
       "REF-0048"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Juice",
-     "text": "Fresh leaf juice, traditionally used in small amounts.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -51599,11 +50493,6 @@
       "REF-0425"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction",
-     "text": "Traditional preparation of the dried rhizome, less commonly used than standardised extracts.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -51852,11 +50741,6 @@
       "REF-0529"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried bark.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -52093,16 +50977,6 @@
       "REF-1263"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Chia gel/pudding",
-     "text": "Seeds soaked in liquid until they swell into a gel - a popular modern preparation.",
-     "status": "draft"
-    },
-    {
-     "name": "Chia oil",
-     "text": "Cold-pressed oil, a concentrated source of alpha-linolenic acid.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -52442,11 +51316,6 @@
       "REF-0503"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Essential oil (aromatherapy)",
-     "text": "Used diluted for cognitive/mood effects via inhalation; not for internal use given the thujone content.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -52684,16 +51553,6 @@
       "REF-0173"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the leaf.",
-     "status": "draft"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Fresh or dried leaf widely used as a seasoning, providing an ongoing dietary antioxidant benefit.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -53105,11 +51964,6 @@
       "REF-1016"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Elderflower cordial",
-     "text": "Traditional non-medicinal but commonly made preparation.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -53444,11 +52298,6 @@
       "REF-0511"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Topical salve/poultice",
-     "text": "Prepared root or aerial parts applied to irritated skin.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -53664,11 +52513,6 @@
    },
    "preparations": [
     {
-     "name": "Dried berry (whole/chewed)",
-     "text": "Traditional Traditional Chinese Medicine form, chewed or added to decoctions.",
-     "status": "draft"
-    },
-    {
      "name": "Decoction/tea",
      "text": "Dried berries simmered in water, a classic Traditional Chinese Medicine preparation, often combined with other herbs.",
      "reference_ids": [
@@ -53683,11 +52527,6 @@
       "REF-0505"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried berries.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -54064,11 +52903,6 @@
       "REF-0452"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract, less commonly used.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -54412,11 +53246,6 @@
       "REF-0550"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Standardised extract (capsule)",
-     "text": "Flavonoid-standardised commercial extract.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -54770,16 +53599,6 @@
       "REF-0572"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Dried berry (whole/powder)",
-     "text": "Traditional, less-concentrated form.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried berries.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -54885,16 +53704,6 @@
       "REF-0484"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Powdered seed",
-     "text": "Ground whole seed, a less concentrated traditional form.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract; silymarin has limited water/alcohol solubility, so phospholipid-complexed or standardised extracts are generally preferred clinically.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -55217,16 +54026,6 @@
       "REF-0069"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
-    },
-    {
-     "name": "Standardised extract (capsule)",
-     "text": "Concentrated commercial form used in some European urinary-tract products.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -55588,11 +54387,6 @@
       "REF-0535"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried herb.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -55882,16 +54676,6 @@
       "REF-0048"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion (tea)",
-     "text": "Dried or fresh herb steeped in hot water.",
-     "status": "draft"
-    },
-    {
-     "name": "Fresh leaf (culinary)",
-     "text": "Eaten raw in salads or lightly cooked - a traditional wild spring green.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -56181,16 +54965,6 @@
       "REF-0074"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Poultice",
-     "text": "Crushed fresh leaf or root applied externally to bruises, sprains and minor injuries - a traditional use.",
-     "status": "draft"
-    },
-    {
-     "name": "Infused oil",
-     "text": "Root or leaf infused in oil for topical salves.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -56563,16 +55337,6 @@
       "REF-0309"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion (tea)",
-     "text": "Crushed cloves steeped in hot water for digestive complaints.",
-     "status": "draft"
-    },
-    {
-     "name": "Essential oil (aromatherapy)",
-     "text": "Diluted for topical or inhaled use.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -56968,27 +55732,12 @@
    },
    "preparations": [
     {
-     "name": "Fresh leaf (chewed, traditional)",
-     "text": "A few fresh leaves chewed daily - the classic, though mouth-irritating, traditional preparation.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised leaf extract (capsule)",
      "text": "Freeze-dried or standardised-parthenolide extract, the form used in most clinical trials.",
      "reference_ids": [
       "REF-0450"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infusion (tea)",
-     "text": "Dried leaf steeped in hot water.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried leaf.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -57670,16 +56419,6 @@
       "REF-0326"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Roasted root ('dandelion coffee')",
-     "text": "Roasted, ground root brewed like coffee - a traditional caffeine-free substitute.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of leaf or root.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -58245,16 +56984,6 @@
    },
    "preparations": [
     {
-     "name": "Traditional cacao drink",
-     "text": "Roasted, ground beans made into a beverage - the historic Mesoamerican preparation, often unsweetened and sometimes spiced.",
-     "status": "draft"
-    },
-    {
-     "name": "Cocoa powder",
-     "text": "Defatted, roasted, ground beans, used in modern beverages and food.",
-     "status": "draft"
-    },
-    {
      "name": "Dark chocolate (high cocoa content)",
      "text": "Minimally processed chocolate retaining more flavanols than milk chocolate.",
      "reference_ids": [
@@ -58573,20 +57302,9 @@
       "REF-0133"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Diluted essential oil (topical)",
-     "text": "Essential oil, well diluted, used topically for its antimicrobial action; not applied undiluted.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Essential oil (thymol, carvacrol, p-cymene)",
@@ -59262,11 +57980,6 @@
       "REF-0478"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flower.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -59569,11 +58282,6 @@
      "status": "verified"
     },
     {
-     "name": "Seed decoction",
-     "text": "Seeds simmered in water, a traditional preparation for stronger digestive or respiratory use.",
-     "status": "draft"
-    },
-    {
      "name": "Diluted essential oil (topical/oral-care)",
      "text": "Essential oil, well diluted, used in oral-care preparations; not taken undiluted internally due to thymol content.",
      "reference_ids": [
@@ -59821,11 +58529,6 @@
       "REF-0282"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Dual-extract tincture",
-     "text": "Combined alcohol/water (dual) extraction, used to capture both water-soluble polysaccharides and alcohol-soluble triterpenes.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -60190,11 +58893,6 @@
       "REF-0013"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flower.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -60702,20 +59400,9 @@
       "REF-0027"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Poultice (leaf)",
-     "text": "Fresh crushed leaf applied topically as a traditional wound and bruise poultice.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "Traditional herbal references suggest around 2-4 g of dried flower/leaf per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "constituents": [
     {
      "name": "Isoflavones",
@@ -61192,11 +59879,6 @@
       "REF-0182"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Sprouted seed / leaf (food use)",
-     "text": "Young sprouts and leaves used as a leafy vegetable or salad green, milder in taste and effect than the seed.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -61892,11 +60574,6 @@
       "REF-0263"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Freeze-dried leaf (capsule)",
-     "text": "Freeze-dried leaf in capsule form, used to avoid the fresh sting while retaining nutrients.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -62187,7 +60864,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "stinging-nettle"
   },
   {
@@ -62532,11 +61209,6 @@
    },
    "preparations": [
     {
-     "name": "Dried berry / decoction",
-     "text": "Dried berries taken whole or as a decoction, a traditional remedy for diarrhoea and general digestive upset.",
-     "status": "draft"
-    },
-    {
      "name": "Standardized extract",
      "text": "Standardized anthocyanoside extract (commonly 25% anthocyanosides), used in circulatory and eye-health research.",
      "reference_ids": [
@@ -62827,16 +61499,6 @@
       "REF-0025"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root, typically 1:5.",
-     "status": "draft"
-    },
-    {
-     "name": "Decoction/infusion",
-     "text": "Dried root simmered briefly in water or infused, though the strong smell and taste make extracts more commonly used.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -63503,16 +62165,6 @@
       "REF-1123"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Infused oil (flower, earache)",
-     "text": "Fresh flowers infused in oil, traditionally warmed and used as ear drops for earache.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flower or leaf, carefully filtered.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -63860,25 +62512,8 @@
     ],
     "status": "verified"
    },
-   "preparations": [
-    {
-     "name": "Infusion",
-     "text": "Dried flowering herb infused in hot water as a traditional calming, digestive tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flowering herb.",
-     "status": "draft"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "Traditional herbal references suggest around 1.5-3 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "actions": [
     {
      "action": "analgesic",
@@ -64215,25 +62850,8 @@
     "text": "Speedwell has a long European folk history as a mild digestive tonic and traditional expectorant for cough and respiratory complaints, and has also been used topically as a soothing wash for irritated skin; modern research on its iridoid glycosides supports a molecular basis for the traditional respiratory use.",
     "status": "draft"
    },
-   "preparations": [
-    {
-     "name": "Infusion",
-     "text": "Dried flowering herb infused in hot water as a traditional digestive and respiratory tea.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flowering herb.",
-     "status": "draft"
-    }
-   ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "Traditional herbal references suggest around 1-2 g of dried herb per cup, up to three times daily. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "preparations": [],
+   "dosage": [],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -64497,11 +63115,6 @@
       "REF-0439"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried bark, typically around 1:5.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -64512,11 +63125,6 @@
       "REF-1139"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction/tincture",
-     "text": "Traditional herbal references suggest around 1-2 g of dried bark per cup, or 2-4 mL of a 1:5 tincture, up to three times daily. No EMA or WHO monograph covers Viburnum opulus, so these figures are traditional rather than regulatory. Educational reference only, not a prescription.",
-     "status": "draft"
     }
    ],
    "actions": [
@@ -64782,11 +63390,6 @@
       "REF-0517"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flower and leaf.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -65137,16 +63740,6 @@
       "REF-0463"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Cream/ointment",
-     "text": "Extract formulated into a topical cream or ointment for eczema and irritated skin.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried flowering herb.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -65386,7 +63979,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-07-20",
    "common_slug": "heartsease"
   },
   {
@@ -65486,16 +64079,6 @@
       "REF-0433"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction",
-     "text": "Dried berries simmered in water as a traditional preparation.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried berries.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -65702,16 +64285,6 @@
       "REF-2245"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction/churna (traditional)",
-     "text": "Dried root powder (churna) taken with warm milk or water, or simmered as a decoction, the classic Ayurvedic preparation.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried root.",
-     "status": "draft"
     }
    ],
    "dosage": [
@@ -66338,25 +64911,9 @@
       "REF-0436"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Decoction",
-     "text": "Fresh or dried corn silk simmered in water, a slightly stronger traditional preparation.",
-     "status": "draft"
-    },
-    {
-     "name": "Tincture",
-     "text": "Alcoholic extract of the dried corn silk.",
-     "status": "draft"
     }
    ],
-   "dosage": [
-    {
-     "name": "Infusion",
-     "text": "Traditional herbal references suggest around 2-3 g of dried corn silk per cup, up to three times daily, with adequate fluid intake. Educational reference only, not a prescription.",
-     "status": "draft"
-    }
-   ],
+   "dosage": [],
    "actions": [
     {
      "action": "anti-inflammatory",
@@ -66628,22 +65185,12 @@
    },
    "preparations": [
     {
-     "name": "Fresh rhizome / infusion",
-     "text": "Fresh or dried rhizome grated or sliced and infused in hot water as the classic digestive and antiemetic ginger tea.",
-     "status": "draft"
-    },
-    {
      "name": "Standardised extract/powder",
      "text": "Dried rhizome powder or standardised extract, taken as capsules for nausea or joint-pain studies.",
      "reference_ids": [
       "REF-0634"
      ],
      "status": "verified"
-    },
-    {
-     "name": "Culinary use",
-     "text": "Fresh, dried or crystallised rhizome used extensively as a food spice and flavouring.",
-     "status": "draft"
     }
    ],
    "dosage": [

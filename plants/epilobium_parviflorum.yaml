@@ -217,25 +217,29 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity study; Complementary
-  Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
-  tool (prostate-support, uti, inflammation); associations retained and now part-mapped and cited. Further
-  enriched 2026-06-14 with a PubMed-sourced genus Epilobium phytochemistry/pharmacology review (REF-0618)
-  centring oenothein B as the key bioactive and noting that the BPH evidence base, while supportive of
-  traditional use, is not yet conclusive. | 2026-06-15: migrated to entity schema (actions->vocab ids,
-  indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references
-  to the plant-level references bucket (least-cited enrichment): REF-0803, REF-0804, REF-0805. | 2026-06-20:
-  enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0803, REF-0618,
-  REF-2297, REF-2298, REF-2299, REF-2300, REF-2301, REF-2302, REF-2303, REF-2304, REF-0805) — woven into
-  relevant actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base
-  fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from
-  the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
-  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 3): dosage sourced to the EU
-  herbal monograph on Epilobium angustifolium L. and/or Epilobium parviflorum Schreb., herba (REF-3075, new)
-  - the monograph explicitly covers this species. CORRECTION: the entry claimed ''1-2 g per cup, up to three
-  times daily''; the monograph gives 1.5-2.0 g in 250 mL TWICE daily, and notes long-term use is possible.
-  Added the monograph''s escalation triggers (fever, spasms, blood in urine, painful urination, retention).
-  The existing ''get prostate symptoms medically assessed first'' caution was kept. status -> verified.'
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity
+  study; Complementary Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (prostate-support, uti, inflammation); associations retained and now part-mapped
+  and cited. Further enriched 2026-06-14 with a PubMed-sourced genus Epilobium phytochemistry/pharmacology
+  review (REF-0618) centring oenothein B as the key bioactive and noting that the BPH evidence base, while
+  supportive of traditional use, is not yet conclusive. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0803, REF-0804, REF-0805.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-0803,
+  REF-0618, REF-2297, REF-2298, REF-2299, REF-2300, REF-2301, REF-2302, REF-2303, REF-2304, REF-0805)
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18
+  (dosage-sourcing campaign, batch 3): dosage sourced to the EU herbal monograph on Epilobium angustifolium
+  L. and/or Epilobium parviflorum Schreb., herba (REF-3075, new) - the monograph explicitly covers this
+  species. CORRECTION: the entry claimed ''1-2 g per cup, up to three times daily''; the monograph gives
+  1.5-2.0 g in 250 mL TWICE daily, and notes long-term use is possible. Added the monograph''s escalation
+  triggers (fever, spasms, blood in urine, painful urination, retention). The existing ''get prostate
+  symptoms medically assessed first'' caution was kept. status -> verified. DEAD END (preparations, 2026-07-20):
+  checked against the monograph references already on this record, judged from their stored posology summaries
+  and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
+  ESCOP, Commission E), may still resolve these. ''Tincture'': The willowherb monograph gives a herbal
+  tea only. No tincture, extract, ethanol strength or ratio appears.'

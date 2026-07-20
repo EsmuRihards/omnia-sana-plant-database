@@ -10,7 +10,7 @@ common_names:
 family: Onagraceae
 external_ids:
   gbif: 3188783
-  powo: 'urn:lsid:ipni.org:names:55479-2'
+  powo: urn:lsid:ipni.org:names:55479-2
 parts_used:
 - Flower
 - Leaf
@@ -73,8 +73,8 @@ preparations:
   status: draft
 dosage:
 - name: Infusion
-  text: The EU herbal monograph on Epilobium angustifolium L. and/or Epilobium parviflorum Schreb., herba -
-    which covers this species under its Epilobium name - gives 1.5-2.0 g of the comminuted herb in 250
+  text: The EU herbal monograph on Epilobium angustifolium L. and/or Epilobium parviflorum Schreb., herba
+    - which covers this species under its Epilobium name - gives 1.5-2.0 g of the comminuted herb in 250
     mL of boiling water as an infusion, twice daily, in adults and elderly; long-term use is possible.
     A doctor should be consulted if fever, spasms, blood in the urine, painful urination or urinary retention
     occur. Educational reference only, not a prescription.
@@ -304,20 +304,26 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
-  PubMed-verified @article sources (REF-1658, REF-1659, REF-1660, REF-1661, REF-1662, REF-1663, REF-1664,
-  REF-1665, REF-1666, REF-1667) — woven into relevant actions/indications and the plant-level references
-  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1658, REF-1659, REF-1660, REF-1661, REF-1662,
+  REF-1663, REF-1664, REF-1665, REF-1666, REF-1667) — woven into relevant actions/indications and the
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
   (dosage-sourcing campaign, batch 8): SYNONYM FIND - sourced with NO new reference. This plant is Epilobium
   angustifolium under its Chamerion name, and REF-3075 (the EU herbal monograph on Epilobium angustifolium
   L. and/or Epilobium parviflorum Schreb., herba) which I added for epilobium_parviflorum in batch 3 covers
   it directly. My register cross-match had missed it because the DB uses the Chamerion binomial. CORRECTION:
-  the entry claimed ''2-3 g of dried leaf per cup, up to three times daily''; the monograph gives 1.5-2.0 g
-  in 250 mL TWICE daily, and notes long-term use is possible. status -> verified.'
+  the entry claimed ''2-3 g of dried leaf per cup, up to three times daily''; the monograph gives 1.5-2.0
+  g in 250 mL TWICE daily, and notes long-term use is possible. status -> verified. DEAD END (preparations,
+  2026-07-20): checked against the monograph references already on this record, judged from their stored
+  posology summaries and not from the full monograph PDFs - a later pass with the PDFs, or a new seam
+  (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Poultice'': The willowherb monograph
+  gives an oral herbal tea only, with a urinary-tract safety note. No cutaneous route, no poultice, no
+  wound application. | ''Young shoots (culinary)'': The monograph covers the comminuted herb as a tea.
+  It says nothing about eating peeled young spring shoots as a vegetable.'

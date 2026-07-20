@@ -393,10 +393,41 @@ def main():
     #      filter safety records to approved-only so /plants can never leak a draft) ----
     def approved_only(items):
         return [x for x in (items or []) if x.get("status") == "approved"]
+
+    # D8 — NOTHING UNSOURCED PUBLISHES. Owner decision, 2026-07-20.
+    #
+    # approved_only() above covers the three SAFETY lists, which use the
+    # draft/approved vocabulary. The editorial lists (preparations, dosage,
+    # indications, actions, contraindications) use verified/needs-review/draft and
+    # never carry the value "approved" at all, so approved_only() cannot gate them —
+    # applied there it would empty them completely. What gates them is evidence:
+    # an entry with no reference_ids is an unsourced public claim on a site whose
+    # whole proposition is that it cites things.
+    #
+    # Measured at the time of writing: this withheld 244 of 549 preparations and
+    # 53 of 220 dosages. The 53 were the sharp case — specific ingestible
+    # quantities attributed to unnamed "traditional herbal references".
+    #
+    # Nothing is deleted. The YAML keeps every word; an entry reappears here the
+    # moment it earns a citation. Any FUTURE statused list on a plant record
+    # inherits this automatically by being named in SOURCED_ONLY_KEYS — which is
+    # the point, because the old leak path was that new fields shipped by default.
+    SOURCED_ONLY_KEYS = ("preparations", "dosage")
+
+    def sourced_only(items):
+        return [x for x in (items or [])
+                if isinstance(x, dict) and (x.get("reference_ids") or [])]
+
+    withheld = {k: 0 for k in SOURCED_ONLY_KEYS}
     pub = []
     for p in plants:
         q = {k: v for k, v in p.items() if k != "internal_notes"}
         q["common_slug"] = slugs[p["id"]]
+        for _k in SOURCED_ONLY_KEYS:
+            if _k in q:
+                _before = len(q[_k] or [])
+                q[_k] = sourced_only(q[_k])
+                withheld[_k] += _before - len(q[_k])
         # Enrich indications with the computed 1-10 evidence score + condition label so
         # plants.json is a self-contained record for plant pages + the embed card (the
         # raw score lives only in symptoms.json otherwise).
@@ -412,6 +443,11 @@ def main():
             q["dangerous_lookalikes"] = approved_only(q["dangerous_lookalikes"])
         pub.append(q)
     write(os.path.join(OUT, "plants.json"), {"schema": "omnia-sana/plants@1", "count": len(pub), "plants": pub})
+    # Report what was withheld. A silent filter reads as "there was nothing to hide";
+    # this number is the honest coverage debt and should fall as entries get sourced.
+    _w = ", ".join("%d %s" % (v, k) for k, v in sorted(withheld.items()) if v)
+    print("  plants.json    : withheld unsourced %s" % _w if _w
+          else "  plants.json    : no unsourced entries withheld")
 
     # ---- vocab.json ----
     write(os.path.join(OUT, "vocab.json"), {

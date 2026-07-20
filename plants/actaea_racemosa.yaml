@@ -97,11 +97,14 @@ dosage:
   - REF-0415
   status: verified
 - name: Tincture (1:10)
-  text: Traditional herbal references suggest around 1-2 mL of a 1:10 tincture, up to three times daily.
-    Neither the EU herbal monograph nor the WHO monograph gives a tincture posology - both specify
-    standardised extract preparations only - so this figure is traditional rather than regulatory.
-    Educational reference only, not a prescription.
-  status: draft
+  text: Health Canada's NNHPD monograph accepts a tincture among the methods of preparation for black
+    cohosh and sets the dose as 40-2,400 mg of dried root and/or rhizome per day for adults 18 years and
+    older; it states the quantity as dried-herb equivalent rather than a tincture volume. Neither the
+    EU herbal monograph nor the WHO monograph gives a tincture posology - both specify standardised extract
+    preparations only. Educational reference only, not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3124
 actions:
 - action: anticancer
   note: Black cohosh (Actaea racemosa) extracts and the triterpene glycoside actein inhibit proliferation
@@ -247,44 +250,53 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative Cancer Therapies
-  systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported from the
-  omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations retained
-  and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced systematic review
-  (Borrelli & Ernst) that found the evidence for efficacy on menopausal symptoms inconsistent (REF-0623),
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Climacteric meta-analysis; Integrative
+  Cancer Therapies systematic review). Actaea racemosa = Cimicifuga racemosa. Originally a skeleton imported
+  from the omniasana.bio Symptom-to-Plant Lookup tool (menopause, hot-flashes, pms, anxiety); associations
+  retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced systematic
+  review (Borrelli & Ernst) that found the evidence for efficacy on menopausal symptoms inconsistent (REF-0623),
   added as a balancing counterpoint to the positive meta-analysis. Further enriched 2026-06-14 with five
   more PubMed sources (REF-0670..REF-0674) - a large isopropanolic-extract meta-analysis (REF-0670), a
-  combination RCT (REF-0671), two null RCTs including an oncology Phase III trial (REF-0672, REF-0673) and
-  an anxiety/depression meta-analysis (REF-0674). | 2026-06-15: migrated to entity schema (actions->vocab
+  combination RCT (REF-0671), two null RCTs including an oncology Phase III trial (REF-0672, REF-0673)
+  and an anxiety/depression meta-analysis (REF-0674). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
   publications: added 5 PubMed-verified @article sources (REF-2397, REF-2398, REF-2399, REF-2400, REF-2401)
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the
-  integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 7): the ''Standardised
-  extract'' entry is sourced to the WHO monograph on Rhizoma Cimicifugae Racemosae, WHO Vol 2 (REF-3098,
-  new), alongside the existing REF-0415; status draft -> verified. WHO gives a daily dosage of 40-60%
-  isopropyl alcohol or ethanol extracts corresponding to 40 mg of drug, which matches the 40 mg figure
-  already in the entry - no numeric correction needed. Note on nomenclature: WHO titles this monograph under
-  Cimicifuga racemosa, the accepted synonym of Actaea racemosa, and its Definition confirms the same plant.
-  The ''Tincture (1:10)'' entry is left UNSOURCED and draft: WHO gives no 1:10 tincture posology, only the
-  extract-equivalent dose, so the ''1-2 mL of a 1:10 tincture'' figure was not backed with the extract
-  monograph. | 2026-07-18 (dosage-sourcing campaign, batch 8): the ''Standardised extract'' entry gains
-  REF-3100, the EU herbal monograph on Cimicifuga racemosa rhizoma Rev 1 (EMA/HMPC/48745/2017), found via
-  the synonym-aware register match. IMPORTANT UNIT CAVEAT, deliberately not resolved: EMA states 2.8-6.5 mg
-  of specific DRY EXTRACT preparations daily, while WHO (REF-3098) states extracts corresponding to 40 mg of
-  DRUG. Those are different bases - extract mass under a defined DER versus crude-drug equivalent - and are
-  not directly comparable, so both are cited and the entry text keeps the drug-equivalent framing. EMA also
-  caps use at 6 months without medical advice and restricts the indication to female adults. The ''Tincture
-  (1:10)'' entry remains unsourced: neither monograph gives a tincture posology, and the entry now says so.
-  | 2026-07-19 (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the
-  dosage-sourcing campaign. The remaining unsourced dosage entry/entries on this record were searched
-  against every seam this campaign opened and none yields a dose for this species in this preparation. Seams
-  checked: (1) the official EMA herbal medicines register (medicines-output-herbal_medicines-report, 251
-  rows, retrieved 2026-07-18), matched on the accepted binomial AND on every synonym and common name
-  appearing in a register row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by Latin
-  drug title with each monograph''s Definition read to confirm the species - 177 monographs indexed; (3)
-  this plant''s own reference bucket, mined for human studies that state an administered dose. Per the
-  campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
-  tangentially-related paper.'
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-18 (dosage-sourcing campaign, batch 7): the ''Standardised extract'' entry
+  is sourced to the WHO monograph on Rhizoma Cimicifugae Racemosae, WHO Vol 2 (REF-3098, new), alongside
+  the existing REF-0415; status draft -> verified. WHO gives a daily dosage of 40-60% isopropyl alcohol
+  or ethanol extracts corresponding to 40 mg of drug, which matches the 40 mg figure already in the entry
+  - no numeric correction needed. Note on nomenclature: WHO titles this monograph under Cimicifuga racemosa,
+  the accepted synonym of Actaea racemosa, and its Definition confirms the same plant. The ''Tincture
+  (1:10)'' entry is left UNSOURCED and draft: WHO gives no 1:10 tincture posology, only the extract-equivalent
+  dose, so the ''1-2 mL of a 1:10 tincture'' figure was not backed with the extract monograph. | 2026-07-18
+  (dosage-sourcing campaign, batch 8): the ''Standardised extract'' entry gains REF-3100, the EU herbal
+  monograph on Cimicifuga racemosa rhizoma Rev 1 (EMA/HMPC/48745/2017), found via the synonym-aware register
+  match. IMPORTANT UNIT CAVEAT, deliberately not resolved: EMA states 2.8-6.5 mg of specific DRY EXTRACT
+  preparations daily, while WHO (REF-3098) states extracts corresponding to 40 mg of DRUG. Those are different
+  bases - extract mass under a defined DER versus crude-drug equivalent - and are not directly comparable,
+  so both are cited and the entry text keeps the drug-equivalent framing. EMA also caps use at 6 months
+  without medical advice and restricts the indication to female adults. The ''Tincture (1:10)'' entry
+  remains unsourced: neither monograph gives a tincture posology, and the entry now says so. | 2026-07-19
+  (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing
+  campaign. The remaining unsourced dosage entry/entries on this record were searched against every seam
+  this campaign opened and none yields a dose for this species in this preparation. Seams checked: (1)
+  the official EMA herbal medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved
+  2026-07-18), matched on the accepted binomial AND on every synonym and common name appearing in a register
+  row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each
+  monograph''s Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own
+  reference bucket, mined for human studies that state an administered dose. Per the campaign''s integrity
+  bar the entry is left unsourced at status draft rather than attached to a tangentially-related paper.
+  Dosage sourced 2026-07-20 from the Health Canada NNHPD monograph seam, which the 2026-07-18/19 dosage
+  campaign never opened (it worked the EMA register and all four WHO volumes). NNHPD explicitly lists
+  Infusion, Decoction and Tincture among accepted methods of preparation, which is exactly the gap that
+  campaign recorded as unreachable. Species confirmed from the monograph''s own title, not from the slug.
+  DEAD END (preparations, 2026-07-20): checked against the monograph references already on this record,
+  judged from their stored posology summaries and not from the full monograph PDFs - a later pass with
+  the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Tincture'':
+  Both summaries state outright that no tincture posology is given - WHO covers 40-60% isopropyl/ethanol
+  extracts corresponding to 40 mg drug, the EU monograph covers dry extracts only. Neither supports a
+  1:10 tincture.'

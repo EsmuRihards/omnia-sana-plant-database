@@ -65,10 +65,13 @@ preparations:
   status: draft
 dosage:
 - name: Infusion
-  text: Traditional herbal references suggest around 2-3 g of dried herb per cup, up to three times daily.
+  text: Health Canada's NNHPD monograph gives 3-16 g of dried herb top per day for adults 18 years and
+    older, not to exceed 4 g in a single dose, with infusion among the accepted methods of preparation.
     Educational reference only, not a prescription. The essential oil is not for unsupervised internal
     use.
-  status: draft
+  status: verified
+  reference_ids:
+  - REF-3128
 constituents:
 - name: Essential oil (pinocamphone, isopinocamphone)
   compounds:
@@ -199,48 +202,52 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
-  references bucket (least-cited enrichment): REF-0845, REF-0846, REF-0847. | 2026-06-20: enriched to >=10
-  scientific publications: added 9 PubMed-verified @article sources (REF-1800, REF-1801, REF-1802, REF-1803,
-  REF-1804, REF-1805, REF-1806, REF-1807, REF-1808) — woven into relevant actions/indications and the
-  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
-  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13:
-  added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from
-  the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing
-  campaign, batch 1): DEAD END, dosage left unsourced — AND A CITATION-INTEGRITY FLAG. REF-0072 is recorded
-  in the bibliography as "Community herbal monograph on Hyssopus officinalis L., herba" (European Medicines
-  Agency, 2010), but no such monograph exists: there is no EMA medicine page for hyssopi-herba or
-  hyssopus-officinalis (both 404) and Hyssopus officinalis does not appear in the HMPC monograph list.
-  REF-0072 appears to be a phantom citation introduced by an earlier ingest, and it is used 11 times on this
-  plant. It was NOT used to source the dosage entry. TODO: audit those 11 uses and either re-source or
-  remove them, then remove the bibliography entry. No ESCOP or WHO monograph and no dose-reporting clinical
-  trial was found for hyssop either, so the 2-3 g infusion figure stays draft. | 2026-07-18
-  (phantom-citation cleanup): REF-0072 CLEANUP. All 11 REF-0072 citations removed (the EMA citation audit
-  earlier this session confirmed it is a phantom - no EMA monograph for Hyssopus officinalis exists; the
-  species is absent from the official EMA herbal register). Every use was CO-CITED, so no claim lost its
-  only source. However, the co-citation on 8 of them was REF-0227, which is a Plants of the World Online
-  (POWO) taxonomic record - a name/distribution database that cannot support a therapeutic indication or a
-  safety caution. Dropping REF-0072 would have made those 8 claims the first POWO-only therapeutic claims in
-  the entire database (the count across all 187 plants was 0 before this cleanup, and is 0 after). They were
-  therefore given genuine substitutes from this plant''s own literature: REF-0845 (The Genus Hyssopus:
-  Traditional Use, Phytochemicals and Pharmacological Properties) on all 8, plus REF-1804 (Hyssopus
-  officinalis inhibits airway inflammation, in a chronic asthmatic mouse model) on the respiratory and
-  inflammation claims, and REF-0846 (Hyssopus essential oil: phytochemistry, biological activities and
-  SAFETY PROFILE) on the two contraindications - which is the right source for the pinocamphone
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0845, REF-0846, REF-0847.
+  | 2026-06-20: enriched to >=10 scientific publications: added 9 PubMed-verified @article sources (REF-1800,
+  REF-1801, REF-1802, REF-1803, REF-1804, REF-1805, REF-1806, REF-1807, REF-1808) — woven into relevant
+  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
+  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage + constituents)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18
+  (dosage-sourcing campaign, batch 1): DEAD END, dosage left unsourced — AND A CITATION-INTEGRITY FLAG.
+  REF-0072 is recorded in the bibliography as "Community herbal monograph on Hyssopus officinalis L.,
+  herba" (European Medicines Agency, 2010), but no such monograph exists: there is no EMA medicine page
+  for hyssopi-herba or hyssopus-officinalis (both 404) and Hyssopus officinalis does not appear in the
+  HMPC monograph list. REF-0072 appears to be a phantom citation introduced by an earlier ingest, and
+  it is used 11 times on this plant. It was NOT used to source the dosage entry. TODO: audit those 11
+  uses and either re-source or remove them, then remove the bibliography entry. No ESCOP or WHO monograph
+  and no dose-reporting clinical trial was found for hyssop either, so the 2-3 g infusion figure stays
+  draft. | 2026-07-18 (phantom-citation cleanup): REF-0072 CLEANUP. All 11 REF-0072 citations removed
+  (the EMA citation audit earlier this session confirmed it is a phantom - no EMA monograph for Hyssopus
+  officinalis exists; the species is absent from the official EMA herbal register). Every use was CO-CITED,
+  so no claim lost its only source. However, the co-citation on 8 of them was REF-0227, which is a Plants
+  of the World Online (POWO) taxonomic record - a name/distribution database that cannot support a therapeutic
+  indication or a safety caution. Dropping REF-0072 would have made those 8 claims the first POWO-only
+  therapeutic claims in the entire database (the count across all 187 plants was 0 before this cleanup,
+  and is 0 after). They were therefore given genuine substitutes from this plant''s own literature: REF-0845
+  (The Genus Hyssopus: Traditional Use, Phytochemicals and Pharmacological Properties) on all 8, plus
+  REF-1804 (Hyssopus officinalis inhibits airway inflammation, in a chronic asthmatic mouse model) on
+  the respiratory and inflammation claims, and REF-0846 (Hyssopus essential oil: phytochemistry, biological
+  activities and SAFETY PROFILE) on the two contraindications - which is the right source for the pinocamphone
   neurotoxicity warning. The dosage entry was already a documented dead end from batch 1 and never cited
-  REF-0072; it remains unsourced. REF-0072 now has 0 citations across the database. | 2026-07-19
-  (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing
-  campaign. The remaining unsourced dosage entry/entries on this record were searched against every seam
-  this campaign opened and none yields a dose for this species in this preparation. Seams checked: (1) the
-  official EMA herbal medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved
-  2026-07-18), matched on the accepted binomial AND on every synonym and common name appearing in a register
-  row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each
-  monograph''s Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own
-  reference bucket, mined for human studies that state an administered dose. Per the campaign''s integrity
-  bar the entry is left unsourced at status draft rather than attached to a tangentially-related paper.'
+  REF-0072; it remains unsourced. REF-0072 now has 0 citations across the database. | 2026-07-19 (dosage-sourcing
+  campaign, closing sweep): DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The remaining
+  unsourced dosage entry/entries on this record were searched against every seam this campaign opened
+  and none yields a dose for this species in this preparation. Seams checked: (1) the official EMA herbal
+  medicines register (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched
+  on the accepted binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs
+  on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition
+  read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined
+  for human studies that state an administered dose. Per the campaign''s integrity bar the entry is left
+  unsourced at status draft rather than attached to a tangentially-related paper. Dosage sourced 2026-07-20
+  from the Health Canada NNHPD monograph seam, which the 2026-07-18/19 dosage campaign never opened (it
+  worked the EMA register and all four WHO volumes). NNHPD explicitly lists Infusion, Decoction and Tincture
+  among accepted methods of preparation, which is exactly the gap that campaign recorded as unreachable.
+  Species confirmed from the monograph''s own title, not from the slug.'

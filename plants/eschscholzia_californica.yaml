@@ -91,11 +91,13 @@ dosage:
   - REF-3099
   status: verified
 - name: Infusion
-  text: Traditional herbal references suggest around 2-4 g of dried herb per cup, taken in the evening
-    for sleep support or through the day for calming effect. The EU herbal monograph covers the POWDERED
-    herbal substance only and gives no infusion posology, so this figure is traditional rather than regulatory.
-    Educational reference only, not a prescription.
-  status: draft
+  text: Health Canada's NNHPD monograph gives 0.2-3 g of dried flowering herb top per day for adults 18
+    years and older, with infusion among the accepted methods of preparation. The EU herbal monograph
+    covers the powdered herbal substance only and gives no infusion posology. Educational reference only,
+    not a prescription.
+  status: verified
+  reference_ids:
+  - REF-3127
 actions:
 - action: analgesic
   note: Mild analgesic (traditional use for pain)
@@ -201,34 +203,38 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-07-20'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (GABA-A receptor pharmacology study; CYP/P-gp/PXR
   herb-drug-interaction study). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (insomnia, anxiety, nervous-tension, pain); associations retained and now part-mapped and
-  cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind, placebo-controlled RCT (n=264) of a
-  fixed Eschscholzia + Crataegus + magnesium combination that improved mild-to-moderate anxiety (REF-0606; a
-  combination product, not California poppy alone). | 2026-06-15: migrated to entity schema (actions->vocab
+  cited. Further enriched 2026-06-14 with a PubMed-sourced double-blind, placebo-controlled RCT (n=264)
+  of a fixed Eschscholzia + Crataegus + magnesium combination that improved mild-to-moderate anxiety (REF-0606;
+  a combination product, not California poppy alone). | 2026-06-15: migrated to entity schema (actions->vocab
   ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
-  references to the plant-level references bucket (least-cited enrichment): REF-0806, REF-0807, REF-0808. |
-  2026-06-20: enriched to >=10 scientific publications: added 6 PubMed-verified @article sources (REF-0807,
+  references to the plant-level references bucket (least-cited enrichment): REF-0806, REF-0807, REF-0808.
+  | 2026-06-20: enriched to >=10 scientific publications: added 6 PubMed-verified @article sources (REF-0807,
   REF-0806, REF-2305, REF-0808, REF-2306, REF-2307) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
-  (dosage-sourcing campaign, batch 8): SYNONYM-SEARCH FIND. My earlier EMA register cross-matches used
-  scientific_name only; re-running it against every binomial mentioned anywhere in a register row (which
-  includes synonyms and common names) surfaced Eschscholziae herba, an adopted EU monograph
-  (EMA/HMPC/680372/2013 = REF-3099, new). A new ''Powdered herbal substance'' entry carries its posology:
-  single dose 480-600 mg, daily 960-1500 mg, one dose with dinner and another 30-60 min before bedtime for
-  sleep. SCOPE: the monograph covers the POWDERED herbal substance only and gives no infusion posology, so
-  the pre-existing ''Infusion'' entry was kept, left unsourced and draft, and now states explicitly that its
-  figure is traditional rather than regulatory. | 2026-07-19 (dosage-sourcing campaign, closing sweep):
-  DOCUMENTED DEAD END - closing sweep of the dosage-sourcing campaign. The remaining unsourced dosage
-  entry/entries on this record were searched against every seam this campaign opened and none yields a dose
-  for this species in this preparation. Seams checked: (1) the official EMA herbal medicines register
-  (medicines-output-herbal_medicines-report, 251 rows, retrieved 2026-07-18), matched on the accepted
-  binomial AND on every synonym and common name appearing in a register row; (2) WHO monographs on selected
-  medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
-  confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
-  studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign,
+  batch 8): SYNONYM-SEARCH FIND. My earlier EMA register cross-matches used scientific_name only; re-running
+  it against every binomial mentioned anywhere in a register row (which includes synonyms and common names)
+  surfaced Eschscholziae herba, an adopted EU monograph (EMA/HMPC/680372/2013 = REF-3099, new). A new
+  ''Powdered herbal substance'' entry carries its posology: single dose 480-600 mg, daily 960-1500 mg,
+  one dose with dinner and another 30-60 min before bedtime for sleep. SCOPE: the monograph covers the
+  POWDERED herbal substance only and gives no infusion posology, so the pre-existing ''Infusion'' entry
+  was kept, left unsourced and draft, and now states explicitly that its figure is traditional rather
+  than regulatory. | 2026-07-19 (dosage-sourcing campaign, closing sweep): DOCUMENTED DEAD END - closing
+  sweep of the dosage-sourcing campaign. The remaining unsourced dosage entry/entries on this record were
+  searched against every seam this campaign opened and none yields a dose for this species in this preparation.
+  Seams checked: (1) the official EMA herbal medicines register (medicines-output-herbal_medicines-report,
+  251 rows, retrieved 2026-07-18), matched on the accepted binomial AND on every synonym and common name
+  appearing in a register row; (2) WHO monographs on selected medicinal plants Volumes 1-4, indexed by
+  Latin drug title with each monograph''s Definition read to confirm the species - 177 monographs indexed;
+  (3) this plant''s own reference bucket, mined for human studies that state an administered dose. Per
+  the campaign''s integrity bar the entry is left unsourced at status draft rather than attached to a
+  tangentially-related paper. Dosage sourced 2026-07-20 from the Health Canada NNHPD monograph seam, which
+  the 2026-07-18/19 dosage campaign never opened (it worked the EMA register and all four WHO volumes).
+  NNHPD explicitly lists Infusion, Decoction and Tincture among accepted methods of preparation, which
+  is exactly the gap that campaign recorded as unreachable. Species confirmed from the monograph''s own
+  title, not from the slug.'

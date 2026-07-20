@@ -259,34 +259,40 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative Medicine
-  systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum =
-  Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
-  anxiety, blood-sugar, immune-support); now fully part-mapped and cited. Further enriched 2026-06-14 with a
-  PubMed-sourced placebo-controlled study of holy basil leaf extract reporting improved cognitive parameters
-  (reaction time, accuracy, P300 latency) in healthy adults (REF-0596; small single trial, hence
-  needs-review). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split out,
-  constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
-  PubMed-verified @article sources (REF-1427, REF-1428, REF-1429, REF-1430, REF-1431, REF-1432, REF-1433,
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Evidence-Based Complementary and Alternative
+  Medicine systematic review of clinical efficacy; Anti-Cancer Drugs ethnomedicinal review). Ocimum tenuiflorum
+  = Ocimum sanctum. Originally a skeleton (merged tool + Materia Medica stub) from omniasana.bio (stress,
+  anxiety, blood-sugar, immune-support); now fully part-mapped and cited. Further enriched 2026-06-14
+  with a PubMed-sourced placebo-controlled study of holy basil leaf extract reporting improved cognitive
+  parameters (reaction time, accuracy, P300 latency) in healthy adults (REF-0596; small single trial,
+  hence needs-review). | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
+  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added
+  10 PubMed-verified @article sources (REF-1427, REF-1428, REF-1429, REF-1430, REF-1431, REF-1432, REF-1433,
   REF-1434, REF-1435, REF-1436) — woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added botanical_description/habitat/harvesting/traditional_uses/preparations/dosage
   monograph-base fields, sourced from the existing clinical-efficacy review (REF-0466) and ethnomedicinal
   review (REF-0467/REF-1429). | 2026-07-13: added anticancer action (where absent) + cancer indication
-  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 1): the ''Infusion (tea)'' entry
-  is a DEAD END, left unsourced. No EMA/ESCOP/WHO monograph exists for Ocimum tenuiflorum. Human trials use
-  standardised extracts (already sourced on the ''Standardised extract'' entry) or swallowed leaf powder —
-  e.g. Agrawal 1996, Int J Clin Pharmacol Ther 34(9):406-9, PMID 8880292, a randomised placebo-controlled
-  crossover trial in NIDDM — but that is a different preparation at a different amount from the 1-2 g dried
-  leaf infusion described here, and the published abstract does not state the gram dose. No source found
-  that states a dose for tulsi as an infusion, so the numeric claim stays draft rather than being propped up
-  by a powder trial. | 2026-07-18 (dosage-sourcing campaign, batch 7): RESOLVES THE BATCH-1 DEAD END. The
-  ''Infusion (tea)'' entry is now sourced to the WHO monograph on Folium Ocimi Sancti, WHO monographs Vol 2
-  (REF-3096, new), which gives a daily dosage of 6-12 g of crude drug as a decoction. In batch 1 I recorded
-  this entry as a dead end after finding no dose for tulsi as a water preparation - EMA has no monograph,
-  and the clinical literature uses standardised extracts or swallowed leaf powder. I had not checked WHO.
-  The batch-1 conclusion was correct about EMA and about the trial literature, but incomplete as a search.
-  CORRECTION: the entry claimed ''a small handful of fresh leaves, or about 1-2 g dried leaf, per cup, up to
-  a few times daily''; WHO''s 6-12 g is a whole-DAY total and is materially higher, so the text now says so
-  explicitly to avoid the per-cup/per-day confusion.'
+  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the cancer-condition
+  campaign. | 2026-07-18 (dosage-sourcing campaign, batch 1): the ''Infusion (tea)'' entry is a DEAD END,
+  left unsourced. No EMA/ESCOP/WHO monograph exists for Ocimum tenuiflorum. Human trials use standardised
+  extracts (already sourced on the ''Standardised extract'' entry) or swallowed leaf powder — e.g. Agrawal
+  1996, Int J Clin Pharmacol Ther 34(9):406-9, PMID 8880292, a randomised placebo-controlled crossover
+  trial in NIDDM — but that is a different preparation at a different amount from the 1-2 g dried leaf
+  infusion described here, and the published abstract does not state the gram dose. No source found that
+  states a dose for tulsi as an infusion, so the numeric claim stays draft rather than being propped up
+  by a powder trial. | 2026-07-18 (dosage-sourcing campaign, batch 7): RESOLVES THE BATCH-1 DEAD END.
+  The ''Infusion (tea)'' entry is now sourced to the WHO monograph on Folium Ocimi Sancti, WHO monographs
+  Vol 2 (REF-3096, new), which gives a daily dosage of 6-12 g of crude drug as a decoction. In batch 1
+  I recorded this entry as a dead end after finding no dose for tulsi as a water preparation - EMA has
+  no monograph, and the clinical literature uses standardised extracts or swallowed leaf powder. I had
+  not checked WHO. The batch-1 conclusion was correct about EMA and about the trial literature, but incomplete
+  as a search. CORRECTION: the entry claimed ''a small handful of fresh leaves, or about 1-2 g dried leaf,
+  per cup, up to a few times daily''; WHO''s 6-12 g is a whole-DAY total and is materially higher, so
+  the text now says so explicitly to avoid the per-cup/per-day confusion. DEAD END (preparations, 2026-07-20):
+  checked against the monograph references already on this record, judged from their stored posology summaries
+  and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
+  ESCOP, Commission E), may still resolve these. ''Fresh leaf'': WHO gives a single posology: 6-12 g of
+  crude drug as a decoction. It says nothing about chewing a few fresh leaves daily or adding them to
+  food. | ''Essential oil'': The monograph covers the leaf as a decoction only. No essential oil, no distillation,
+  no topical or aromatic use is stated.'

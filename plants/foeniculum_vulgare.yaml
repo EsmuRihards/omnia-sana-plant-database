@@ -333,25 +333,31 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. Enriched 2026-06-13 from a
-  comprehensive PubMed review (REF-0537, Badgujar et al. 2014): constituents extracted (essential
-  oil/trans-anethole, flavonoids, phenolic acids, fatty acids) and the review cited alongside the book for
-  the antimicrobial, antispasmodic and expectorant actions. Further enriched 2026-06-14 with two
-  PubMed-sourced meta-analyses of RCTs adding a primary-dysmenorrhoea action (REF-0604, a fennel-specific
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. Enriched
+  2026-06-13 from a comprehensive PubMed review (REF-0537, Badgujar et al. 2014): constituents extracted
+  (essential oil/trans-anethole, flavonoids, phenolic acids, fatty acids) and the review cited alongside
+  the book for the antimicrobial, antispasmodic and expectorant actions. Further enriched 2026-06-14 with
+  two PubMed-sourced meta-analyses of RCTs adding a primary-dysmenorrhoea action (REF-0604, a fennel-specific
   meta-analysis; REF-0605, a cinnamon/fennel/ginger meta-analysis). | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to
-  >=10 scientific publications: added 8 PubMed-verified @article sources (REF-1641, REF-1642, REF-0537,
+  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched
+  to >=10 scientific publications: added 8 PubMed-verified @article sources (REF-1641, REF-1642, REF-0537,
   REF-1643, REF-1644, REF-0605, REF-1645, REF-1646) — woven into relevant actions/indications and the
   plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
-  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18
-  (dosage-sourcing campaign, batch 4): dosage sourced to the EU herbal monograph on Foeniculum vulgare
-  subsp. vulgare var. vulgare (bitter fennel) fructus, Rev 1 (EMA/HMPC/372841/2016 = REF-3080, new).
-  CORRECTION: the entry claimed ''1.5-2.5 g crushed seed per cup''; the monograph gives a flat 1.5 g in 250
-  mL steeped 15 minutes, 3x daily, daily dose 4.5 g. Added the paediatric posology (1.0 g in 100 mL 3x daily
-  for ages 4-12; not recommended under 4), which matters because fennel tea is widely given to children, and
-  the monograph''s estragole-driven reason for keeping use short-term. Note the register also carries sweet
-  fennel and fennel essential oil as separate entries with their own posologies; this is the BITTER fruit.'
+  harvesting, traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
+  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-18 (dosage-sourcing campaign,
+  batch 4): dosage sourced to the EU herbal monograph on Foeniculum vulgare subsp. vulgare var. vulgare
+  (bitter fennel) fructus, Rev 1 (EMA/HMPC/372841/2016 = REF-3080, new). CORRECTION: the entry claimed
+  ''1.5-2.5 g crushed seed per cup''; the monograph gives a flat 1.5 g in 250 mL steeped 15 minutes, 3x
+  daily, daily dose 4.5 g. Added the paediatric posology (1.0 g in 100 mL 3x daily for ages 4-12; not
+  recommended under 4), which matters because fennel tea is widely given to children, and the monograph''s
+  estragole-driven reason for keeping use short-term. Note the register also carries sweet fennel and
+  fennel essential oil as separate entries with their own posologies; this is the BITTER fruit. DEAD END
+  (preparations, 2026-07-20): checked against the monograph references already on this record, judged
+  from their stored posology summaries and not from the full monograph PDFs - a later pass with the PDFs,
+  or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Culinary use'':
+  The monograph covers the bitter fennel FRUIT as a herbal tea and in fact limits exposure because of
+  estragole. It says nothing about leaf or bulb, and nothing about culinary use - a case where the source
+  arguably cuts against the claim.'

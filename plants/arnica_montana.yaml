@@ -278,24 +278,29 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review, Frontiers in Surgery
-  meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
-  Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained and now part-mapped and
-  cited. NOTE: external use only - see contraindications. | 2026-06-15: migrated to entity schema
-  (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3
-  PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0725,
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review,
+  Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio
+  Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained
+  and now part-mapped and cited. NOTE: external use only - see contraindications. | 2026-06-15: migrated
+  to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). | 2026-06-20:
+  added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment): REF-0725,
   REF-0726, REF-0727. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
-  @article sources (REF-0726, REF-0398, REF-2098, REF-2099, REF-2100, REF-2101, REF-2102, REF-2103,
-  REF-2104, REF-2105, REF-2106) — woven into relevant actions/indications and the plant-level references
-  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action
-  (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
-  literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 3):
-  dosage sourced to the EU herbal monograph on Arnica montana L., flos (EMA/HMPC/198793/2012 = REF-3073,
-  new). The existing ''2-3 times daily on unbroken skin'' matched the monograph but carried no preparation
-  strengths; now gives the monograph''s actual forms (20-25% tincture in a semi-solid base 2-3x daily, 50%
-  liquid extract in base 2-4x daily, 2.5 mL liquid as an impregnated dressing 3-4x daily) plus the 3-4 day
-  consult trigger and the Asteraceae contraindication. Cutaneous use only - the monograph gives no oral
-  posology, consistent with the existing note about homeopathic dilutions. status -> verified.'
+  @article sources (REF-0726, REF-0398, REF-2098, REF-2099, REF-2100, REF-2101, REF-2102, REF-2103, REF-2104,
+  REF-2105, REF-2106) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 3): dosage sourced
+  to the EU herbal monograph on Arnica montana L., flos (EMA/HMPC/198793/2012 = REF-3073, new). The existing
+  ''2-3 times daily on unbroken skin'' matched the monograph but carried no preparation strengths; now
+  gives the monograph''s actual forms (20-25% tincture in a semi-solid base 2-3x daily, 50% liquid extract
+  in base 2-4x daily, 2.5 mL liquid as an impregnated dressing 3-4x daily) plus the 3-4 day consult trigger
+  and the Asteraceae contraindication. Cutaneous use only - the monograph gives no oral posology, consistent
+  with the existing note about homeopathic dilutions. status -> verified. DEAD END (preparations, 2026-07-20):
+  checked against the monograph references already on this record, judged from their stored posology summaries
+  and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
+  ESCOP, Commission E), may still resolve these. ''Infused oil'': The monograph''s cutaneous forms are
+  tincture-based and liquid-extract-based semi-solid preparations and impregnated dressings. An oil infusion
+  of flower heads in a carrier oil is a different preparation and is not covered.'

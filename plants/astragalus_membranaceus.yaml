@@ -8,7 +8,7 @@ common_names:
 family: Fabaceae
 external_ids:
   gbif: 2933951
-  powo: 'urn:lsid:ipni.org:names:478610-1'
+  powo: urn:lsid:ipni.org:names:478610-1
   wikidata: Q15532251
 parts_used:
 - Root
@@ -253,28 +253,32 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review of Astragalus
-  polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton imported from
-  the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);
+last_updated: '2026-07-20'
+internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
+  of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton
+  imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);
   associations retained and now part-mapped and cited. Further enriched 2026-06-14 with a PubMed-sourced
-  Cochrane review of Astragalus as an adjunct in chronic kidney disease (REF-0586; reduced proteinuria and
-  raised haemoglobin/serum albumin, but low study quality precludes firm conclusions). | 2026-06-15:
-  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds). |
-  2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket (least-cited
-  enrichment): REF-0739, REF-0736, REF-0737. | 2026-06-20: enriched to >=10 scientific publications: added
-  11 PubMed-verified @article sources (REF-0736, REF-2256, REF-0402, REF-2257, REF-2258, REF-2259, REF-2260,
-  REF-2261, REF-0401, REF-2262, REF-2263) — woven into relevant actions/indications and the plant-level
-  references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage) sourced from the existing references bucket; general/undated
-  claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action
-  (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
-  literature, as part of the cancer-condition campaign. | 2026-07-19 (dosage-sourcing campaign, batch 9):
-  the ''Decoction'' entry is sourced to the WHO monograph on Radix Astragali, WHO Vol 1 (REF-3102, new).
-  SUBSTANTIAL CORRECTION: the entry stated ''9-30 g of dried root per day'' from TCM references; WHO gives
-  3-9 g/day - the entry''s upper bound was more than three times WHO''s. The text now leads with WHO''s
-  figure and notes that TCM sources cite higher amounts, rather than presenting the higher range as the
-  headline. NOTE ON METHOD: my first WHO scan reported no Astragalus monograph. That was a false negative -
-  my index required the Definition to read ''<Title> consists of'', but this one reads ''Radix Astragali IS
-  THE dried root of...''. Re-running with both phrasings raised the indexed monograph count from 155 to 177
-  and surfaced this plus Aloe Vera Gel.'
+  Cochrane review of Astragalus as an adjunct in chronic kidney disease (REF-0586; reduced proteinuria
+  and raised haemoglobin/serum albumin, but low study quality precludes firm conclusions). | 2026-06-15:
+  migrated to entity schema (actions->vocab ids, indications split out, constituents linked to compounds).
+  | 2026-06-20: added 3 PubMed-sourced references to the plant-level references bucket (least-cited enrichment):
+  REF-0739, REF-0736, REF-0737. | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified
+  @article sources (REF-0736, REF-2256, REF-0402, REF-2257, REF-2258, REF-2259, REF-2260, REF-2261, REF-0401,
+  REF-2262, REF-2263) — woven into relevant actions/indications and the plant-level references bucket.
+  | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
+  preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
+  draft per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent)
+  + cancer indication (anticancer/antitumour research) sourced from the plant''s cited literature, as
+  part of the cancer-condition campaign. | 2026-07-19 (dosage-sourcing campaign, batch 9): the ''Decoction''
+  entry is sourced to the WHO monograph on Radix Astragali, WHO Vol 1 (REF-3102, new). SUBSTANTIAL CORRECTION:
+  the entry stated ''9-30 g of dried root per day'' from TCM references; WHO gives 3-9 g/day - the entry''s
+  upper bound was more than three times WHO''s. The text now leads with WHO''s figure and notes that TCM
+  sources cite higher amounts, rather than presenting the higher range as the headline. NOTE ON METHOD:
+  my first WHO scan reported no Astragalus monograph. That was a false negative - my index required the
+  Definition to read ''<Title> consists of'', but this one reads ''Radix Astragali IS THE dried root of...''.
+  Re-running with both phrasings raised the indexed monograph count from 155 to 177 and surfaced this
+  plus Aloe Vera Gel. DEAD END (preparations, 2026-07-20): checked against the monograph references already
+  on this record, judged from their stored posology summaries and not from the full monograph PDFs - a
+  later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve
+  these. ''Tincture'': WHO gives only a crude-drug dose of 3-9 g/day. No tincture, alcoholic extract or
+  ethanol strength appears in the summary.'

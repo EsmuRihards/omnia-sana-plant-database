@@ -307,30 +307,36 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced references to the plant-level
-  references bucket (least-cited enrichment): REF-0826, REF-0827, REF-0828. | 2026-06-20: enriched to >=10
-  scientific publications: added 11 PubMed-verified @article sources (REF-2187, REF-0826, REF-0827,
-  REF-0828, REF-2188, REF-2189, REF-2190, REF-2191, REF-2192, REF-2193, REF-2194) — woven into relevant
-  actions/indications and the plant-level references bucket. | 2026-07-11: added monograph-base fields
-  (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage) sourced from the
-  existing references bucket; general/undated claims marked status: draft per the integrity-first sourcing
-  policy. | 2026-07-11: added constituents (missed in the earlier monograph-fields batch) sourced from the
-  existing references bucket. | 2026-07-18 (dosage-sourcing campaign, batch 4): dosage sourced to the EU
-  herbal monograph on Glycyrrhiza glabra/inflata/uralensis radix (EMA/HMPC/571119/2010 = REF-3081, new).
-  CORRECTIONS: the entry gave no actual preparation dose at all, only a glycyrrhizin ceiling; it now carries
-  the monograph''s 1.5-2 g in 150 mL as infusion or decoction 2-4x daily after meals, plus the soft-extract
-  posology (32 mg 2-3x daily, max 160 mg daily). Duration corrected from ''no more than 4-6 weeks'' to the
-  monograph''s explicit ''not to be used for more than 4 weeks'', and the under-18 restriction added. The
-  previous ''under about 100 mg glycyrrhizin (roughly under 10-15 g dried root) daily'' figure was REMOVED
-  rather than re-sourced: it is not in this monograph (it derives from a separate EU Scientific Committee on
-  Food opinion on glycyrrhizic acid) and 10-15 g/day of root is well above the monograph''s own 3-8 g/day
-  tea posology, so it read as permissive. TODO if wanted: source the SCF 100 mg/day figure properly and
-  reinstate it as a distinct safety note rather than a dose.'
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: added 3 PubMed-sourced
+  references to the plant-level references bucket (least-cited enrichment): REF-0826, REF-0827, REF-0828.
+  | 2026-06-20: enriched to >=10 scientific publications: added 11 PubMed-verified @article sources (REF-2187,
+  REF-0826, REF-0827, REF-0828, REF-2188, REF-2189, REF-2190, REF-2191, REF-2192, REF-2193, REF-2194)
+  — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
+  monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-11: added constituents (missed in the earlier monograph-fields batch) sourced
+  from the existing references bucket. | 2026-07-18 (dosage-sourcing campaign, batch 4): dosage sourced
+  to the EU herbal monograph on Glycyrrhiza glabra/inflata/uralensis radix (EMA/HMPC/571119/2010 = REF-3081,
+  new). CORRECTIONS: the entry gave no actual preparation dose at all, only a glycyrrhizin ceiling; it
+  now carries the monograph''s 1.5-2 g in 150 mL as infusion or decoction 2-4x daily after meals, plus
+  the soft-extract posology (32 mg 2-3x daily, max 160 mg daily). Duration corrected from ''no more than
+  4-6 weeks'' to the monograph''s explicit ''not to be used for more than 4 weeks'', and the under-18
+  restriction added. The previous ''under about 100 mg glycyrrhizin (roughly under 10-15 g dried root)
+  daily'' figure was REMOVED rather than re-sourced: it is not in this monograph (it derives from a separate
+  EU Scientific Committee on Food opinion on glycyrrhizic acid) and 10-15 g/day of root is well above
+  the monograph''s own 3-8 g/day tea posology, so it read as permissive. TODO if wanted: source the SCF
+  100 mg/day figure properly and reinstate it as a distinct safety note rather than a dose. DEAD END (preparations,
+  2026-07-20): checked against the monograph references already on this record, judged from their stored
+  posology summaries and not from the full monograph PDFs - a later pass with the PDFs, or a new seam
+  (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Deglycyrrhizinated licorice (DGL)'':
+  The monograph covers whole licorice root as an infusion/decoction and a soft extract, and limits use
+  to 4 weeks. Deglycyrrhizinated licorice is not mentioned, and the monograph offers no support for prolonged
+  use without the glycyrrhizin risk.'
 constituents:
 - name: Triterpenoid saponins (glycyrrhizin/glycyrrhizic acid)
   compounds:

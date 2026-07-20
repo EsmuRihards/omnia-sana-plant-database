@@ -6,7 +6,7 @@ common_names:
 family: Urticaceae
 external_ids:
   gbif: 7960979
-  powo: 'urn:lsid:ipni.org:names:260630-2'
+  powo: urn:lsid:ipni.org:names:260630-2
   wikidata: Q155909
 parts_used:
 - Leaf
@@ -268,22 +268,27 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab ids, indications split
-  out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific publications: added 10
-  PubMed-verified @article sources (REF-1328, REF-1329, REF-1330, REF-1331, REF-1332, REF-1333, REF-1334,
-  REF-1335, REF-1336, REF-1337) — woven into relevant actions/indications and the plant-level references
-  bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting,
-  traditional_uses, preparations, dosage + constituents) sourced from the existing references bucket;
-  general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13: added
-  anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced from the
-  plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing
-  campaign, batch 4): the ''Leaf infusion'' entry is sourced to the EU herbal monograph on Urtica dioica L.;
-  Urtica urens L., folium (EMA/HMPC/508015/2007 = REF-3082, new). CORRECTION: frequency was ''up to three
-  times daily''; the monograph gives 2-4 g as a single dose 3-6 TIMES daily for a daily dose of 8-12 g - the
-  previous text understated the daily total by roughly half. Added the 4-week limit and the under-12
-  restriction. The ''Root extract'' entry was already sourced (REF-0263) and is untouched; note the root is
-  a separate herbal substance (Urticae radix) from the leaf.'
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. | 2026-06-15: migrated to entity schema (actions->vocab
+  ids, indications split out, constituents linked to compounds). | 2026-06-20: enriched to >=10 scientific
+  publications: added 10 PubMed-verified @article sources (REF-1328, REF-1329, REF-1330, REF-1331, REF-1332,
+  REF-1333, REF-1334, REF-1335, REF-1336, REF-1337) — woven into relevant actions/indications and the
+  plant-level references bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat,
+  harvesting, traditional_uses, preparations, dosage + constituents) sourced from the existing references
+  bucket; general/undated claims marked status: draft per the integrity-first sourcing policy. | 2026-07-13:
+  added anticancer action (where absent) + cancer indication (anticancer/antitumour research) sourced
+  from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18 (dosage-sourcing
+  campaign, batch 4): the ''Leaf infusion'' entry is sourced to the EU herbal monograph on Urtica dioica
+  L.; Urtica urens L., folium (EMA/HMPC/508015/2007 = REF-3082, new). CORRECTION: frequency was ''up to
+  three times daily''; the monograph gives 2-4 g as a single dose 3-6 TIMES daily for a daily dose of
+  8-12 g - the previous text understated the daily total by roughly half. Added the 4-week limit and the
+  under-12 restriction. The ''Root extract'' entry was already sourced (REF-0263) and is untouched; note
+  the root is a separate herbal substance (Urticae radix) from the leaf. DEAD END (preparations, 2026-07-20):
+  checked against the monograph references already on this record, judged from their stored posology summaries
+  and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
+  ESCOP, Commission E), may still resolve these. ''Freeze-dried leaf (capsule)'': The monograph lists
+  herbal tea, liquid extract (1:5) and three dry extracts. Freeze-dried leaf in capsules is none of these,
+  and the monograph says nothing about avoiding the sting or retaining nutrients.'

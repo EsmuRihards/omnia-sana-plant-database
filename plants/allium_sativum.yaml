@@ -526,11 +526,11 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
-internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
-  plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
-  for this plant is attached to each action rather than split per action. constituents not yet extracted —
-  manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
+last_updated: '2026-07-20'
+internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
+  reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
+  set of references cited for this plant is attached to each action rather than split per action. constituents
+  not yet extracted — manual enrichment pending. Further enriched 2026-06-14 with six PubMed-sourced studies
   (REF-0646..REF-0651): blood-pressure/cholesterol/immunity and cardiovascular meta-analyses and reviews
   (REF-0646, REF-0647, REF-0648), an aged-garlic RCT in treated hypertensives (REF-0649), and allicin
   antimicrobial studies including activity against multidrug-resistant lung pathogens (REF-0650, REF-0651);
@@ -539,20 +539,25 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   publications: added 5 PubMed-verified @article sources (REF-2426, REF-2427, REF-2428, REF-2429, REF-2430)
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
-  sourced from the existing references bucket; general/undated claims marked status: draft per the
-  integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication
-  (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign. | 2026-07-18 (dosage-sourcing campaign, batch 5): the ''Standardised powder
-  extract'' entry is sourced to the EU herbal monograph on Allium sativum L., bulbus (REF-3087, new), with
-  the existing REF-0127 retained. The previous ''300 mg up to three times daily'' sat inside the monograph
-  range but understated it; now gives the monograph''s single dose 300-750 mg / daily 900-1380 mg divided
-  into 3-5 doses, plus the liquid- and dry-extract posologies. SAFETY: added the monograph''s
-  CONTRAINDICATION in patients on saquinavir/ritonavir - a clinically significant antiretroviral interaction
-  that was entirely absent from this record. The ''Fresh clove'' entry is left UNSOURCED and draft: the
-  monograph gives no posology for fresh garlic cloves, so the ''about one clove (4 g) daily'' figure was not
-  propped up with the powdered-substance monograph. | 2026-07-19 (dosage-sourcing campaign, batch 9): the
-  ''Fresh clove'' entry - left deliberately unsourced in batch 5 because the EU monograph gives no
-  fresh-garlic posology - is now sourced to the WHO monograph on Bulbus Allii Sativi, WHO Vol 1 (REF-3101,
-  new), which gives an average daily dose of 2-5 g of fresh garlic. The entry''s ''about one fresh clove (4
-  g) daily'' sits inside that range. WHO also lists dried powder 0.4-1.2 g, oil 2-5 mg and extract 300-1000
-  mg daily. Both monographs now cited on this plant, each for the preparation it actually covers.'
+  sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
+  sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-07-18
+  (dosage-sourcing campaign, batch 5): the ''Standardised powder extract'' entry is sourced to the EU
+  herbal monograph on Allium sativum L., bulbus (REF-3087, new), with the existing REF-0127 retained.
+  The previous ''300 mg up to three times daily'' sat inside the monograph range but understated it; now
+  gives the monograph''s single dose 300-750 mg / daily 900-1380 mg divided into 3-5 doses, plus the liquid-
+  and dry-extract posologies. SAFETY: added the monograph''s CONTRAINDICATION in patients on saquinavir/ritonavir
+  - a clinically significant antiretroviral interaction that was entirely absent from this record. The
+  ''Fresh clove'' entry is left UNSOURCED and draft: the monograph gives no posology for fresh garlic
+  cloves, so the ''about one clove (4 g) daily'' figure was not propped up with the powdered-substance
+  monograph. | 2026-07-19 (dosage-sourcing campaign, batch 9): the ''Fresh clove'' entry - left deliberately
+  unsourced in batch 5 because the EU monograph gives no fresh-garlic posology - is now sourced to the
+  WHO monograph on Bulbus Allii Sativi, WHO Vol 1 (REF-3101, new), which gives an average daily dose of
+  2-5 g of fresh garlic. The entry''s ''about one fresh clove (4 g) daily'' sits inside that range. WHO
+  also lists dried powder 0.4-1.2 g, oil 2-5 mg and extract 300-1000 mg daily. Both monographs now cited
+  on this plant, each for the preparation it actually covers. DEAD END (preparations, 2026-07-20): checked
+  against the monograph references already on this record, judged from their stored posology summaries
+  and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
+  ESCOP, Commission E), may still resolve these. ''Tincture'': REF-3087 covers powdered substance, liquid
+  extract and dry extract, not a tincture, and explicitly gives no posology for fresh cloves. REF-3101
+  lists fresh garlic, dried powder, oil and extract - no alcoholic tincture of the fresh bulb.'

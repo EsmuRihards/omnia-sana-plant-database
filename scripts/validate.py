@@ -341,8 +341,16 @@ def _check_finding(nm, fi, i, SOLV, METH, errors, warnings):
         elif ":" in str(slr):
             a, b = (float(x) for x in str(slr).split(":"))
             n = (b / a) if a else 0
-            if not (2 <= n <= 200):
-                errors.append(f"{tag}: solid:liquid 1:{n:g} outside the plausible 1:2-1:200 band")
+            # Anti-typo sanity band, NOT a preparative constraint. Findings are
+            # analytical: an optimisation study grinds 0.05 g into 50 mL (1:1000) on
+            # purpose, so excess solvent isolates the solvent-% effect from mass-transfer
+            # limitation. The band must admit those while still catching an inverted
+            # ratio (1000:1 -> n=0.001, caught by the lower bound) or a fat-fingered
+            # extra zero (1:20000, caught by the upper). No consumer number depends on
+            # this: recommendations never carry a solid_liquid_ratio in v1.
+            if not (2 <= n <= 2000):
+                errors.append(f"{tag}: solid:liquid 1:{n:g} outside the sanity band 1:2-1:2000 "
+                              f"(inverted ratio, or a transcription slip in the g:mL figures?)")
         else:
             warnings.append(f"{tag}: solid_liquid_ratio '{slr}' — condition-incomplete; this "
                             f"finding cannot be the sole support for an approved recommendation")
@@ -396,9 +404,28 @@ def _check_finding(nm, fi, i, SOLV, METH, errors, warnings):
                           f"the Methods say was tested); got {len(all_levels)}")
         if opt is None and not _s(out.get("optimum_value")):
             errors.append(f"{tag}: a comparative finding must record which level won")
-        if _num(opt) and levels and opt not in levels:
-            errors.append(f"{tag}: optimum_level {opt} is not a member of comparator_levels "
-                          f"{levels} — that is what a guessed level set looks like")
+        # Optimum containment, tier-aware. comparative-bench SELECTS the best tested
+        # arm, so its numeric optimum MUST be one of the tested levels; a non-member
+        # is a guessed level set. optimisation FITS a response surface, so its optimum
+        # is a continuum point that lies BETWEEN levels by construction — an RSM/CCD
+        # optimum of 58.58 on levels [0,25,50,75,100] is correct, not fabricated. The
+        # check there is envelope containment: an optimum OUTSIDE the tested range is
+        # extrapolation. Both still reject the fabrication the old membership rule
+        # caught, and neither passes an abstract-only read (you still need the real
+        # level set and the real fitted optimum, which live in the Methods/Results
+        # tables). Filtering to numerics first made varied_factor: method unauthorable
+        # (Appendix B item 1); the same class of false-positive locked out every RSM
+        # paper, which is the top evidence tier this corpus exists to capture.
+        if _num(opt) and levels:
+            if tier == "comparative-bench" and opt not in levels:
+                errors.append(f"{tag}: optimum_level {opt} is not a member of comparator_levels "
+                              f"{levels} — a comparative-bench winner must be one of the tested "
+                              f"levels; a non-member is what a guessed level set looks like")
+            elif tier == "optimisation" and not (min(levels) <= opt <= max(levels)):
+                errors.append(f"{tag}: optimum_level {opt} is outside the tested envelope "
+                              f"[{min(levels)}, {max(levels)}] — a fitted RSM optimum may fall "
+                              f"between tested levels, but one outside the design space is "
+                              f"extrapolation, not a measured optimum")
         # Same membership rule for a categorical winner: naming a winner that was never
         # among the tested levels is the same defect whether it is a number or a word.
         ov = _s(out.get("optimum_value"))

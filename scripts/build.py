@@ -485,6 +485,39 @@ def main():
         for r in p.get("references", []):
             add(r, p, "other")
 
+    # Snapshot clinical linkage BEFORE adding practice linkage. The corpus derivation
+    # below uses "ref in inv" as its proxy for "cited by a plant's clinical claim";
+    # once practice refs are added to inv for their KF display chips, that proxy would
+    # mark every practice-only paper clinical. Freeze the clinical set here so the two
+    # uses of inv stay separate.
+    clinically_linked = set(inv)
+
+    # R1-7: practice refs carry plant linkage too, so an extraction paper (e.g.
+    # Sarfarazi 2022 on Crocus sativus) shows its species chip in the Knowledge Finder
+    # instead of rendering as an unlinked card. Match on the binomial — the record
+    # `species` plus every finding's `material.species`, all strict two-word binomials
+    # by validate.py's BINOMIAL_RE — against the plant `scientific_name`. A class-general
+    # finding on an off-corpus species links no plant, which is correct: there is no
+    # plant record to link it to. _walk_refs already skips internal_notes.
+    _plant_by_sci = {(p.get("scientific_name") or "").strip().lower(): p
+                     for p in plants if p.get("scientific_name")}
+    for pr in practice:
+        _refs = set(_walk_refs(pr))
+        if not _refs:
+            continue
+        _binoms = set()
+        if pr.get("species"):
+            _binoms.add(str(pr["species"]).strip().lower())
+        for f in (pr.get("findings") or []):
+            _b = str((f.get("material") or {}).get("species") or "").strip().lower()
+            if _b:
+                _binoms.add(_b)
+        for _b in _binoms:
+            _p = _plant_by_sci.get(_b)
+            if _p:
+                for _r in _refs:
+                    add(_r, _p, "other")
+
     # ---- citations.json ----
     entries = parse_bibtex(open(BIB, encoding="utf-8").read())
     # ref_id -> evidence tier (study_type-driven), reused by the symptom scorer below.
@@ -510,7 +543,7 @@ def main():
             # cited by neither: ["clinical"], so all 3110 existing entries are
             # correctly labelled with zero backfill.
             "corpus": (["clinical"] if e["ref_id"] not in practice_refs
-                       else (["clinical", "practice"] if e["ref_id"] in inv else ["practice"])),
+                       else (["clinical", "practice"] if e["ref_id"] in clinically_linked else ["practice"])),
             "display": display_title(f, e["key"]),
             "plants": sorted(pi["plants"]), "scientific": sorted(pi["scientific"]),
             "actions": sorted(pi["actions"]), "conditions": sorted(pi["conditions"]),

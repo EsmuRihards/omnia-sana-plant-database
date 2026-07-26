@@ -1,0 +1,143 @@
+# Practice corpus — extraction record. See practice/README.md and CLAUDE.md.
+# STATUS: draft. Only `approved` reaches build/practice.v1.json; this file's
+# projection lands solely in the gitignored build/practice.v1.draft.json.
+id: crocin--ethanol-water--maceration
+record_type: extraction
+parameter_kind: empirical
+species_scope: species-specific
+species: Crocus sativus
+status: draft
+last_updated: 2026-07-26
+
+key:
+  compound_id: crocin
+  extraction_class: null          # crocin is a specific compound id; no disambiguator needed
+  part: null                      # frozen to null in v1 (README: the part axis has no clean join)
+  solvent: ethanol-water
+  method: maceration
+
+findings:
+  # F1 — the band-supporting evidence. RSM/CCD sweep of ethanol 0-100% under UAE.
+  # method_type optimisation (tier 7). The fitted optimum (58.58%) is a continuum
+  # point inside the tested envelope, corroborated three ways: the finder's direct
+  # PMC-HTML table read, an independent adversarial verifier, and the paper's own
+  # published abstract, which states the 58.58% ethanol optimum verbatim.
+  - id: F1
+    ref_id: REF-3130
+    method_type: optimisation
+    design: rsm-ccd
+    fulltext_source: pmc
+    varied_factor: solvent_pct
+    locator:
+      section: table
+      table: "Table 4"            # predicted vs experimental at the RSM optimum
+    material:
+      species: Crocus sativus     # paper prints "Crocus sativus L."; authority stripped per BINOMIAL_RE
+      part: stigmas
+      state: unspecified          # paper reports moisture 7.5% (ISO 3632) but never prints "dried"
+    conditions:
+      solvent: ethanol-water
+      solvent_pct: 58.58          # the optimum run, matching optimum_level
+      temperature_c: null         # genuinely omitted: all runs in an ice bath to suppress heating
+      time_min: 6.85
+      solid_liquid_ratio: "1:1000"  # 0.05 g stigma : 50 mL — analytical dilution, not preparative
+      method: uae
+    outcome:
+      analyte: total crocins (colour strength, E1%1cm at 440 nm)
+      quantification: uv-vis
+      value: 205.02
+      unit: "E1%1cm at 440 nm"
+      unit_basis: dry-weight
+      comparator_levels: [0, 25, 50, 75, 100]   # the five CCD ethanol levels (Table 1)
+      optimum_level: 58.58        # continuum RSM optimum inside [0,100]
+
+  # F2 — corroborating characterisation. The crude 80%-ethanol maceration extract
+  # is crocin-rich (44% of extract mass). Incidental to this paper's purpose
+  # (antisolvent precipitation), but a real, full-text-verified crocin content
+  # datum for a hydroethanolic stigma extract. Reports no optimum (varied_factor
+  # none), so it contributes context, not band arithmetic.
+  - id: F2
+    ref_id: REF-3131
+    method_type: characterisation
+    fulltext_source: pmc
+    varied_factor: none
+    locator:
+      section: table
+      table: "Table 3"
+    material:
+      species: Crocus sativus
+      part: stigmas
+      state: dried
+    conditions:
+      solvent: ethanol-water
+      solvent_pct: 80
+      temperature_c: null         # "soaked" — time/temperature not specified in the text
+      time_min: null
+      solid_liquid_ratio: "1:250"  # 10 g : 2.5 L
+      method: maceration
+    outcome:
+      analyte: total crocins
+      quantification: hplc-dad
+      value: 44
+      unit: "%"
+      unit_basis: extract
+
+# Slimani 2025 (REF-3132): a clean Box-Behnken UAE optimisation on the SAME species
+# and part, but its responses are total phenolics and DPPH, NOT crocin. It informs
+# the secondary temperature/time story (stigma optimum 50 C / 15 min) and nothing
+# about the crocin solvent band, so it is context, never a finding.
+context_reference_ids: [REF-3132]
+
+recommendation:
+  parameter: solvent_pct
+  solvent: ethanol-water
+  method: maceration
+  route: internal                 # saffron stigma is ingested
+  range: [50, 70]
+  statement: >-
+    For crocin from saffron stigma, a hydroethanolic maceration in roughly
+    50-70% ethanol is provisionally indicated; the single fitted optimum on the
+    ethanol axis sits near 59%.
+  rationale: >-
+    The only optimisation evidence in the recommended solvent (Sarfarazi 2022,
+    RSM/CCD across 0-100% ethanol) places the multi-response optimum at 58.58%
+    ethanol, in the middle of the range; a characterisation of an 80%-ethanol
+    crude extract (Fotouhi 2025) confirms hydroethanolic maceration captures
+    crocins abundantly. The band brackets the fitted optimum with the traditional
+    hydroethanolic tincture range. It is provisional and single-source: the one
+    optimisation study used UAE, not maceration, so the ethanol optimum is carried
+    across method on the physicochemical argument that crocin solubility, not
+    sonication, drives the ethanol dependence. Approval needs a second independent
+    optimisation group varying ethanol on this species (see internal_notes).
+  derived_from: [F1]
+
+# crocin is toxicity_flag: dose-limited — the gate requires this and withholds the
+# recommendation from approval until a second reviewer signs off.
+limit_rationale: >-
+  Crocin carries a dose-limited toxicity flag because saffron itself is dose-limited:
+  intake much above ~1.5 g/day of stigma risks adverse effects and doses near 5 g are
+  toxic. The band here is chosen to reproduce a traditionally safe saffron stigma
+  preparation, NOT to maximise crocin colour strength; the yield surface would push
+  toward finer material, longer sonication and conditions no domestic maceration should
+  imitate. The recommendation governs menstruum strength only and never licenses a
+  higher saffron dose.
+
+internal_notes: >-
+  FIRST practice record authored (2026-07-26). Draft only; nothing here publishes.
+  Evidence base: one verified optimisation finding on the ethanol axis (Sarfarazi
+  2022, REF-3130) + one corroborating characterisation (Fotouhi 2025, REF-3131);
+  Slimani 2025 (REF-3132) is off-analyte context.
+  DROPPED: Tong 2018 (doi 10.1155/2018/9649062, "Homogenate Extraction of Crocins")
+  was found and adversarially REFUTED — its optimum-conditions row records 50 C where
+  the published abstract states 57 C, and the paper is paywalled so the Table 2 /
+  Figure 1(d) locators, the 0.1 g:100 mL ratio and the BBD design could not be
+  verified against primary text. Not cited. Do not re-add without full-text access.
+  APPROVAL GAP: this is single-optimisation-group. A second independent group varying
+  ethanol % on Crocus sativus stigma (ideally under maceration/percolation, not UAE)
+  is required before status can move to approved; the UAE->maceration method transfer
+  is the recommendation's weakest link and a reviewer should challenge it.
+  SEAMS SEARCHED (from the research pass): Kyriakoudi 2012 (Anal Chim Acta), Sarfarazi
+  2015 (Food Anal Methods) and several Springer/ScienceDirect RSM papers were paywalled
+  or unreachable in full text; the aqueous two-phase and deep-eutectic-solvent papers
+  use non-consumer solvents; PubMed/Europe-PMC keyword seams for saffron crocin
+  extraction optimisation are thin. Documented so the next session does not re-run them.

@@ -1,0 +1,135 @@
+# Practice corpus — extraction record. STATUS: draft (nothing publishes).
+# SPECIES-SPECIFIC (Reynoutria japonica). One full-text-verified quantitative
+# optimisation finding (Kuo 2013, emodin) + one independent same-species
+# semi-quantitative corroboration (Glavnik 2020, context). Single quantitative
+# group, so structurally unapprovable until a second quantitative maceration
+# group varying ethanol is added — see internal_notes.
+id: anthraquinone--ethanol-water--maceration
+record_type: extraction
+parameter_kind: empirical
+species_scope: species-specific
+species: Reynoutria japonica
+status: draft
+last_updated: 2026-07-27
+
+key:
+  compound_id: anthraquinone      # the plant's own constituent id; resolves exact
+  extraction_class: null
+  part: null                      # frozen to null in v1
+  solvent: ethanol-water
+  method: maceration
+
+findings:
+  # F1 — the band-supporting evidence. UAE Box-Behnken RSM sweep of ethanol 40-80%
+  # on the target-species root; emodin (the principal anthraquinone aglycone) the
+  # response. Fitted optimum 71.06% ethanol / 70 C -> 11.72 mg/g. optimisation
+  # (tier 7): the optimum is a fitted continuum point inside the tested [40,80]
+  # envelope. Method is UAE, not maceration; the ethanol optimum is carried across
+  # method on the physicochemical argument (see recommendation.rationale). Full
+  # text verified (PMC7468921... PMC6271919), incl. Table 1 (BBD matrix) and Table 3
+  # (optimum conditions).
+  - id: F1
+    ref_id: REF-3138
+    method_type: optimisation
+    design: rsm-bbd
+    fulltext_source: pmc
+    varied_factor: solvent_pct
+    locator:
+      section: table
+      table: "Table 3"            # optimum conditions; Table 1 is the BBD design matrix
+    material:
+      species: Reynoutria japonica  # paper prints "Polygonum cuspidatum" (a synonym); see internal_notes
+      part: root
+      state: dried
+    conditions:
+      solvent: ethanol-water
+      solvent_pct: 71.06          # the fitted optimum, matching optimum_level
+      temperature_c: 70
+      time_min: 20
+      solid_liquid_ratio: "1:20"  # 0.1 g root : 2 mL
+      method: uae
+    outcome:
+      analyte: emodin
+      quantification: hplc-uv
+      value: 11.72
+      unit: "mg/g"
+      unit_basis: dry-weight
+      comparator_levels: [40, 60, 80]   # the three Box-Behnken ethanol levels
+      optimum_level: 71.06        # continuum RSM optimum inside [40,80]
+
+# Glavnik 2020 (REF-3139): an independent SAME-SPECIES solvent series (water,
+# 20/40/60/70/80% and absolute ethanol) on knotweed rhizome. Total anthraquinone
+# signal (aglycones AND glycosides) rises with ethanol to 80% and falls at 100%,
+# corroborating the high-ethanol optimum and the curve shape. HPTLC densitometry
+# is semi-quantitative (relative total peak area, no absolute mg/g), so it informs
+# the rationale and contributes no band arithmetic — context, never a finding.
+context_reference_ids: [REF-3139]
+
+recommendation:
+  parameter: solvent_pct
+  solvent: ethanol-water
+  method: maceration
+  route: internal                 # knotweed anthraquinones are ingested
+  range: [60, 80]
+  statement: >-
+    For anthraquinones (chiefly emodin) from Japanese knotweed (Reynoutria
+    japonica) rhizome/root, a strong hydroethanolic maceration around 60-80%
+    ethanol is provisionally indicated; anthraquinone recovery rises with ethanol
+    strength and peaks near 70-80%, while absolute (100%) ethanol is less effective.
+  rationale: >-
+    The only quantitative optimisation in the recommended solvent (Kuo 2013, UAE
+    Box-Behnken across 40-80% ethanol) places the fitted emodin optimum at 71.06%
+    ethanol; an independent same-species solvent series (Glavnik 2020, HPTLC
+    densitometry) shows the total anthraquinone signal - both aglycones and their
+    glycosides - rising with ethanol up to 80% and falling at 100%, which
+    corroborates the high-ethanol optimum and the shape of the curve. The band
+    brackets the 71% optimum within the tested 40-80% envelope. It is provisional:
+    the single quantitative group used UAE, not maceration, so the ethanol optimum
+    is carried across method on the physicochemical argument that anthraquinone
+    solubility, not sonication, drives the ethanol dependence; Glavnik is
+    semi-quantitative and contributes direction, not arithmetic. A second
+    quantitative maceration group varying ethanol on this species is required
+    before approval.
+  derived_from: [F1]
+
+# anthraquinone is toxicity_flag: dose-limited; the gate requires a limit_rationale.
+limit_rationale: >-
+  Anthraquinones (emodin, physcion, aloe-emodin) are stimulant, duration-limited
+  laxatives. EFSA (2018) concluded that emodin and aloe-emodin are genotoxic in
+  vitro and that a safe intake for hydroxyanthracene derivatives in food could not
+  be established, and the EU subsequently restricted these compounds in food. This
+  band governs only the menstruum strength of a knotweed extract, never the dose or
+  duration of use, and it is emphatically not a licence to maximise anthraquinone
+  intake - a hydroethanolic knotweed extract must be dosed and time-limited under
+  those safety constraints. Reynoutria japonica is more often extracted for its
+  resveratrol; the co-extracted anthraquinones are why the same high-ethanol
+  menstruum carries a genotoxicity caution rather than a yield target.
+
+internal_notes: >-
+  Authored 2026-07-27 (draft) from two full-text-verified open-access papers, both
+  read in full via PMC.
+  SYNONYMY: the record species is the accepted name Reynoutria japonica (Houtt.).
+  Kuo 2013 (REF-3138) prints "Polygonum cuspidatum" and Glavnik 2020 (REF-3139)
+  uses "Reynoutria japonica (Houtt.)" while listing Fallopia japonica and Polygonum
+  cuspidatum as synonyms - the SAME taxon (accepted name Reynoutria japonica), not
+  a wrong-species citation. Finding material.species is normalised to the accepted
+  binomial (as taxonomic authorities were stripped on the crocin record); the
+  published names are recorded here for the audit trail. The DB has no synonym map,
+  so exact-string _check_scope forces this normalisation; a synonyms vocabulary is a
+  future-schema item.
+  ANALYTE: F1 measures the aglycone emodin. The recommendation is scoped to
+  anthraquinones chiefly emodin; Glavnik shows the glycosylated anthraquinones ALSO
+  rise with ethanol to 80%, so a high-ethanol band is honest for total anthraquinones
+  (aglycone + glycoside), not only the aglycone. The keyed compound `anthraquinone`
+  (class anthraquinone-glycoside) is the plant's own constituent id.
+  APPROVAL GAP: single QUANTITATIVE optimisation group (Kuo). Glavnik is a genuine
+  independent same-species corroboration but HPTLC densitometry is semi-quantitative
+  (relative total peak area, no absolute mg/g; that quantification is not even in the
+  finding enum), so it is cited as context, not a scored finding. Approval needs a
+  second quantitative maceration/percolation group varying ethanol on Reynoutria
+  japonica; the UAE->maceration transfer is the recommendation's weakest link.
+  DISCORDANCE: none on the ethanol axis - both sources agree the optimum is at the
+  high-ethanol end (~71-80%) with neat ethanol worse.
+  DEAD SEAM (not pursued): glycyrrhizin - Rodriguez-Solana 2016 (J Sci Food Agric,
+  70% ethanol optimum, grape-marc-distillate matrix) and the other glycyrrhizin
+  optimisations are Wiley/Elsevier paywalled.

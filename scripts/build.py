@@ -89,7 +89,23 @@ def parse_bibtex(text):
     return entries
 
 
+def _is_standard(f):
+    return f.get("kind", "").strip().lower() == "standard"
+
+
 def best_link(f):
+    if _is_standard(f):
+        # A pharmacopoeial / normative standard is a paywalled printed text with no
+        # DOI. Never emit a doi.org link for one — even if a stray doi field appears,
+        # it must not resolve as an article. url if the issuer publishes a landing
+        # page, else an honest title search; never a fabricated DOI.
+        url = f.get("url", "").strip()
+        if url:
+            return url, "url"
+        q = (f.get("title", "").strip() + " " + f.get("author", "").strip()).strip()
+        if q:
+            return "https://scholar.google.com/scholar?q=" + urllib.parse.quote(q), "search"
+        return "", "none"
     doi = f.get("doi", "").strip()
     url = f.get("url", "").strip()
     if doi:
@@ -102,8 +118,39 @@ def best_link(f):
     return "", "none"
 
 
+def _harvard_standard(f):
+    """Citation for a pharmacopoeial / normative standard: issuing body (year)
+    'monograph title', edition, monograph number. place: publisher. A standard is a
+    normative text, not an article — no journal, volume, pages or DOI, and (per the
+    copyright gate) no abstract."""
+    au, yr, ti = f.get("author", "").rstrip(". "), f.get("year", ""), f.get("title", "").rstrip(". ")
+    ed, mono = f.get("edition", "").strip(), f.get("monograph", "").strip()
+    pub, addr = f.get("publisher", "").strip(), f.get("address", "").strip()
+    out = au
+    if yr:
+        out += " (%s)" % yr
+    if ti:
+        out += " '%s'" % ti
+    if ed:
+        out += ", %s" % ed
+    if mono:
+        out += ", monograph %s" % mono
+    out = out.strip().rstrip(",. ")
+    if out:
+        out += "."
+    place = (((addr + ": ") if addr else "") + pub).strip().rstrip(": ")
+    if place:
+        out += " " + place + "."
+    url = f.get("url", "").strip()
+    if url:
+        out += " Available at: " + url
+    return out.strip()
+
+
 def harvard(f):
     """Generate a Harvard-style citation string from structured fields."""
+    if _is_standard(f):
+        return _harvard_standard(f)
     au, yr, ti = f.get("author", "").rstrip(". "), f.get("year", ""), f.get("title", "").rstrip(". ")
     jo, vol, num = f.get("journal", ""), f.get("volume", ""), f.get("number", "")
     pg, doi, url = f.get("pages", ""), f.get("doi", ""), f.get("url", "")

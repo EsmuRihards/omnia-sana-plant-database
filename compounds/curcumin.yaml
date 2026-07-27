@@ -3,6 +3,16 @@ name: Curcumin
 class: phenolic
 synonyms:
 - curcumin
+toxicity_flag: dose-limited
+description: 'Principal curcuminoid (a lipophilic diarylheptanoid phenol) of Curcuma longa
+  rhizome. GATE set dose-limited, not none: although curcumin is a culinary spice constituent
+  and generally regarded as safe in food quantities, a triaged limit exists in the literature —
+  EFSA (ANS Panel, 2010, EFSA Journal 8(9):1679) set an Acceptable Daily Intake of 3 mg/kg bw/day
+  for curcumin (E 100) from a reproductive-toxicity NOAEL of 250-320 mg/kg bw/day, and high-dose
+  bioavailability-enhanced supplements carry gastrointestinal and rare hepatic adverse-event
+  reports. A practice recommendation keyed on curcumin therefore governs menstruum strength only
+  and must not be read as licensing a higher turmeric dose. No numeric figure is stored on this
+  record; the EFSA value is paraphrased in any keyed record''s limit_rationale.'
 extraction_class:
 - lipophilic-phenolic-labile
 resolution: exact

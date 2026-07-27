@@ -1,0 +1,123 @@
+# Practice corpus — extraction record. STATUS: draft (nothing publishes).
+# Curcumin from Curcuma longa rhizome. Single verified open-access maceration
+# finding (Heryanto 2024, JABB, CC BY-NC-SA): a two-level factorial in which
+# ethanol concentration dominates curcuminoid recovery, rising 50->70%. The band
+# sits at the high end of the TESTED envelope [50,70]; nothing above 70% was
+# measured, so the band stops at 70 (the corpus forbids extrapolating past the
+# tested levels) even though curcumin's lipophilicity suggests the true optimum
+# may lie higher. Single-study => structurally unapprovable (needs a 2nd group).
+id: curcumin--ethanol-water--maceration
+record_type: extraction
+parameter_kind: empirical
+species_scope: species-specific
+species: Curcuma longa
+status: draft
+last_updated: 2026-07-27
+
+key:
+  compound_id: curcumin
+  extraction_class: null          # curcumin is a specific compound id; no disambiguator needed
+  part: null                      # frozen to null in v1 (README: the part axis has no clean join)
+  solvent: ethanol-water
+  method: maceration
+
+findings:
+  # F1 — the band-supporting evidence. Two-level factorial (50 vs 70% ethanol)
+  # maceration of dried C. longa rhizome; ethanol concentration is the dominant
+  # factor for curcuminoid content (66.0% of variance, P=0.0005). Recorded at the
+  # winning 70% arm using the clean controlled pair at fixed ratio (1:10) and time
+  # (3 h): Run 11 (70%) = 21.59% vs Run 7 (50%) = 6.53% curcuminoid content. A
+  # two-level design locates which factor matters and the better of two arms, not a
+  # fitted continuum optimum, so this is comparative-bench with optimum_level = the
+  # higher tested level. CONFIRMED from the open-access full-text PDF (Table 4).
+  - id: F1
+    ref_id: REF-3137
+    method_type: comparative-bench
+    fulltext_source: doi-pdf
+    varied_factor: solvent_pct
+    locator:
+      section: table
+      table: "Table 4"            # design matrix with per-run curcuminoid responses
+    material:
+      species: Curcuma longa
+      part: rhizome
+      state: dried                # oven-dried 45 C, ground to 80 mesh
+    conditions:
+      solvent: ethanol-water
+      solvent_pct: 70             # the winning arm; matches optimum_level
+      temperature_c: null         # water-bath shaker; no temperature stated in the paper
+      time_min: 180               # 3 h (Run 11)
+      solid_liquid_ratio: "1:10"  # 0.1 g/mL (Run 11); the paper's better ratio level
+      method: maceration
+    outcome:
+      analyte: curcuminoids (curcumin + demethoxycurcumin + bisdemethoxycurcumin)
+      quantification: hplc-uv     # C18, 425 nm UV detector, curcuminoid standard
+      value: 21.59
+      unit: "%"
+      unit_basis: extract         # curcuminoid content as % of the concentrated extract
+      comparator_levels: [50, 70] # the two ethanol factor levels (Table 1)
+      optimum_level: 70           # the higher, winning level
+
+recommendation:
+  parameter: solvent_pct
+  solvent: ethanol-water
+  method: maceration
+  route: internal                 # turmeric rhizome is ingested
+  range: [60, 70]
+  statement: >-
+    For curcumin (curcuminoids) from turmeric (Curcuma longa) rhizome, a
+    high-strength hydroethanolic maceration around 60-70% ethanol is provisionally
+    indicated; curcuminoid recovery rises steeply with ethanol strength across the
+    tested range and is highest at 70%, the strongest strength measured.
+  rationale: >-
+    In the only verified consumer-maceration evidence on the ethanol axis for this
+    species (Heryanto 2024, two-level factorial), ethanol concentration alone
+    governs curcuminoid content - contributing 66% of the response variance
+    (P=0.0005) while solid/liquid ratio and time do not - and curcuminoid content
+    rises from ~3% at 50% ethanol to ~16% at 70% (best run 21.59% at 1:10, 70%,
+    3 h). The band is placed at the high end of the tested 50-70% envelope and
+    stops at 70% because nothing stronger was measured: curcumin is a lipophilic
+    phenolic whose solubility should keep rising above 70%, but asserting a higher
+    optimum without a measurement would extrapolate beyond the design space, so the
+    upper bound is a documented gap, not a claim. It is provisional and
+    single-study; approval needs a second independent group varying ethanol on
+    Curcuma longa rhizome, ideally testing above 70% (see internal_notes).
+  derived_from: [F1]
+
+# curcumin is toxicity_flag: dose-limited - the gate requires a limit_rationale and
+# withholds approval until a second reviewer signs off.
+limit_rationale: >-
+  Curcumin carries a dose-limited flag because a triaged intake ceiling exists: EFSA
+  (ANS Panel, 2010) set an Acceptable Daily Intake of 3 mg/kg body weight per day for
+  curcumin (E 100) as a food additive, from a reproductive-toxicity NOAEL of
+  250-320 mg/kg/day, and high-dose bioavailability-enhanced supplements carry
+  gastrointestinal and rare hepatic adverse-event reports. This band is chosen to
+  reproduce a reasonable hydroethanolic turmeric preparation and governs menstruum
+  strength only; it never licenses a larger turmeric dose, and it is not the argmax of
+  a yield table (the yield surface would push toward finer material and stronger spirit
+  than a domestic maceration should imitate).
+
+internal_notes: >-
+  FOURTH practice record authored 2026-07-27 (draft) from an open-access,
+  full-text-verified source, after the caffeine target was parked (its key sweep,
+  Jun 2009 J Food Eng, is paywalled/403 and unverifiable - see campaign memory).
+  Evidence base: ONE verified comparative-bench finding (Heryanto 2024, REF-3137,
+  open-access CC BY-NC-SA, full text read: ethanol 50 vs 70%, curcuminoid content by
+  HPLC-UV, Table 4). Band [60,70] anchored to the tested envelope; the >70% region is
+  physicochemically expected to be better (curcumin is lipophilic) but was NOT tested
+  here, so the band deliberately does not extend past 70%.
+  TOXICITY: curcumin flag changed from ABSENT (fail-closed avoid-internal) to
+  dose-limited in this session, sourced to the EFSA 2010 E 100 ADI (3 mg/kg/day). This
+  is the conservative, evidence-backed call; `none` would have been over-permissive
+  given a real regulatory ceiling exists.
+  APPROVAL GAP: single-group. Leads for a second verifiable group varying ethanol on
+  C. longa rhizome maceration: Paulucci 2013 (Rev Bras Farmacogn 23:94-100, dynamic
+  maceration RSM incl. ethanolic strength - Rev Bras Farmacogn is open-access SciELO,
+  worth fetching next); Sogi 2010 (J Food Sci Technol 47:300-4). Zhou 2015 (Zhong Yao
+  Cai 38(12):2611-5) reports a microwave-assisted curcuminoid CCD optimum at 69%
+  ethanol - same direction - but is Chinese-language with no DOI/PMC, so unverifiable
+  and NOT cited (Zheng-bar). DISCORDANT context (also unverifiable full text, not
+  cited): Rezaei 2023 (Food Chem 410:135331) reports an ethanol-modified SUBCRITICAL
+  WATER optimum at only 25 wt% ethanol - a high-temperature dielectric-constant regime
+  where less ethanol is needed, not a room-temperature maceration result, so it does
+  not contradict the high-ethanol maceration band.

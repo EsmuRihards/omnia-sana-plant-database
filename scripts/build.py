@@ -920,6 +920,11 @@ def main():
                 "solvent": k.get("solvent"), "method": k.get("method"),
                 "recommendation": pr.get("recommendation") or {},
                 "avoid": pr.get("avoid") or [],
+                # dose-form-conversion carries its payload in `conversion`, not
+                # `recommendation` (the ratio/menstruum/equivalence maths). Without
+                # this the entire conversion block is dropped and a conversion record
+                # reaches the calculator empty — the live type had no consumer.
+                "conversion": pr.get("conversion") or {},
                 "source_taxa": sorted({str((f.get("material") or {}).get("species") or "").strip()
                                        for f in (pr.get("findings") or []) if isinstance(f, dict)
                                        and (f.get("material") or {}).get("species")}),

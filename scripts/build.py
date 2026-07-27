@@ -948,6 +948,22 @@ def main():
         return rows
 
     approved_pr, draft_pr = practice_rows("approved"), practice_rows(None)
+    # Draft-leak guard (independent restatement of the practice_rows("approved")
+    # filter). If a regression in that filter — an inverted comparison, a mistyped
+    # status string, a record hand-set to a bogus status — ever let a non-approved
+    # row into the public feed, this hard-fails the build instead of silently
+    # publishing an unreviewed extraction recommendation to the live calculator.
+    # A second expression of the invariant catches a typo the filter itself cannot.
+    # No-op while nothing is approved (approved_pr == []); this is the highest-
+    # consequence feed in the repo and the corpus has shipped a two-scale leak before.
+    _leaked = [r["id"] for r in approved_pr if r.get("status") != "approved"]
+    if _leaked:
+        raise SystemExit(f"BUILD ABORTED: practice.v1.json would publish non-approved "
+                         f"records {_leaked} — draft-leak guard tripped")
+    _pub_ids, _draft_ids = {r["id"] for r in approved_pr}, {r["id"] for r in draft_pr}
+    if not _pub_ids <= _draft_ids:
+        raise SystemExit(f"BUILD ABORTED: practice public records absent from the draft "
+                         f"twin {sorted(_pub_ids - _draft_ids)} — projection is inconsistent")
     solvents_pub, methods_pub, xclasses_pub = [], [], []
     for _fn, _sink in ((os.path.join(VOCAB, "solvents.yaml"), solvents_pub),
                        (os.path.join(VOCAB, "extraction_methods.yaml"), methods_pub),

@@ -1,0 +1,114 @@
+# Practice corpus — extraction record. STATUS: draft (nothing publishes).
+# AVOID-ONLY: no verified Tanacetum parthenium solvent-percentage sweep exists, so
+# no ethanol band is authorable. The honest, useful output is a precaution — a
+# purely aqueous infusion under-extracts parthenolide relative to a hydro-ethanolic
+# menstruum — backed by a target-species solvent-identity comparison. A record may
+# be drafted (and approved) on a non-empty avoid[] with no recommendation.
+id: parthenolide--ethanol-water--maceration
+record_type: extraction
+parameter_kind: empirical
+species_scope: species-specific
+species: Tanacetum parthenium
+status: draft
+last_updated: 2026-07-27
+
+key:
+  compound_id: parthenolide
+  extraction_class: null
+  part: null
+  solvent: ethanol-water
+  method: maceration
+
+findings:
+  # F1 — target-species characterisation via the European Pharmacopoeia procedure
+  # (neat methanol reflux). Analytical solvent, legitimately cited in a finding;
+  # it is NOT a consumer recommendation. 6.46 mg/g dry drug.
+  - id: F1
+    ref_id: REF-3136
+    method_type: characterisation
+    fulltext_source: doi-pdf
+    varied_factor: none
+    locator:
+      section: table
+      table: "Table 1"
+    material:
+      species: Tanacetum parthenium
+      part: leaf
+      state: dried
+    conditions:
+      solvent: methanol-water
+      solvent_pct: 100
+      temperature_c: 60
+      time_min: 10
+      solid_liquid_ratio: "1:40"
+      method: reflux
+    outcome:
+      analyte: parthenolide
+      quantification: hplc-dad
+      value: 6.46
+      unit: "mg/g"
+      unit_basis: dry-weight
+
+  # F2 — the water arm of a target-species solvent-identity comparison. Cold
+  # aqueous maceration of feverfew leaf gives 23.23 mg/g parthenolide; the same
+  # table's ethanol arm gives 28.4 (conventionally grown) and hexane the least.
+  # Recorded as the water condition; the ethanol comparison lives in the avoid
+  # reason and cites the same table.
+  - id: F2
+    ref_id: REF-3135
+    method_type: characterisation
+    fulltext_source: publisher-html
+    varied_factor: none
+    locator:
+      section: table
+      table: "Table 5"
+    material:
+      species: Tanacetum parthenium
+      part: leaf
+      state: dried
+    conditions:
+      solvent: water
+      solvent_pct: null
+      temperature_c: 25
+      time_min: 60
+      solid_liquid_ratio: "1:50"
+      method: maceration
+    outcome:
+      analyte: parthenolide
+      quantification: hplc-uv
+      value: 23.23
+      unit: "mg/g"
+      unit_basis: dry-weight
+
+avoid:
+  - solvent: water
+    method: null
+    above_concentration_pct: null
+    reason: >-
+      Parthenolide is only moderately water-soluble. In feverfew leaf a cold aqueous
+      maceration yields ~23 mg/g versus ~28 mg/g for an ethanolic maceration of the
+      same material (Mahood 2022, Table 5), with non-polar hexane lowest. A purely
+      aqueous infusion therefore under-extracts parthenolide relative to a
+      hydro-ethanolic menstruum, so water alone is not the preferred solvent for it.
+    derived_from: [F2]
+
+internal_notes: >-
+  Authored 2026-07-27 (draft) from an adversarially-verified research pass. Both
+  cited findings are confirmed Tanacetum parthenium (target species).
+  WHY AVOID-ONLY, NO BAND: no verified target-species ethanol-percentage sweep
+  exists. The only parthenolide extraction-OPTIMISATION studies are on the congener
+  Tarchonanthus camphoratus, an explicitly-stated feverfew substitute and NOT the
+  target species: Alam 2021 (doi 10.3390/molecules26071876, MAE, methanol, RSM/BBD,
+  temperature optimum 51.5 C, STEMS) and Siddiqui 2021 (doi
+  10.1016/j.arabjc.2021.103194, UAE, ethanol, RSM/BBD, temperature optimum 38.8 C,
+  leaves). Both were reached in full text and CONFIRMED as Tarchonanthus; they are
+  recorded here in prose only, deliberately NOT cited as findings or context refs,
+  so they are not mislinked to Tanacetum parthenium in the Knowledge Finder. They
+  indicate a mild-heat optimum for parthenolide but say nothing licensable about the
+  target species' menstruum strength.
+  VALUE DISCREPANCY (not a solvent effect): Tadic 2019 (6.46 mg/g, Ph. Eur. neat-
+  methanol reflux, HPLC-DAD) and Mahood 2022 (28.4 mg/g ethanol / 23.2 water, cold
+  maceration, HPLC-UV) differ ~4x; this tracks method and detection (reflux+DAD vs
+  maceration+UV) and likely cultivar, not the solvent, so the two are not treated as
+  a comparable pair. A recommendation band awaits a verified T. parthenium
+  ethanol-percentage sweep.

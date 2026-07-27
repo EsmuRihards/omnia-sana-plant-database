@@ -1,0 +1,141 @@
+# Practice corpus — extraction record. STATUS: draft (nothing publishes).
+# CLASS-GENERAL (Salix): the one confirmed salicin solvent-percentage sweep is on
+# Salix caprea (a congener), so the record is scoped to the genus and the cross-
+# species step is made explicit in the generalisation block. It rests on a single
+# genus and therefore CANNOT be approved until a second genus or a verified Salix
+# alba solvent sweep is added — see internal_notes.
+id: salicin--ethanol-water--maceration
+record_type: extraction
+parameter_kind: empirical
+species_scope: class-general
+status: draft
+last_updated: 2026-07-27
+
+key:
+  compound_id: salicin
+  extraction_class: null
+  part: null
+  solvent: ethanol-water
+  method: maceration
+
+findings:
+  # F1 — the band-supporting evidence. Salix caprea (CONGENER) bark, discrete
+  # ethanol sweep. Salicin peaked at 40% ethanol / 30 min; the paper's 70%/48 h
+  # optimum is for TOTAL phenolics, not salicin. comparative-bench: a discrete
+  # winner among tested arms, so 40 is a member of the level set (not a fitted
+  # continuum optimum). CONFIRMED from full text by an independent verifier.
+  - id: F1
+    ref_id: REF-3133
+    method_type: comparative-bench
+    fulltext_source: doi-pdf
+    varied_factor: solvent_pct
+    locator:
+      section: results
+      table: "Table 6"
+    material:
+      species: Salix caprea
+      part: bark
+      state: dried
+    conditions:
+      solvent: ethanol-water
+      solvent_pct: 40
+      temperature_c: 25
+      time_min: 30
+      solid_liquid_ratio: "1:10"
+      method: maceration
+    outcome:
+      analyte: salicin
+      quantification: hplc-dad
+      value: 0.789
+      unit: "g/100 g"
+      unit_basis: extract
+      comparator_levels: [30, 40, 50, 60, 70]
+      optimum_level: 40
+
+  # F2 — target-species characterisation. Salix alba bark, single UAE-water
+  # condition. Confirms salicin is recovered efficiently in plain water. Reports
+  # no optimum (varied_factor none), so it is excluded from the ethanol envelope
+  # (its solvent is water, not ethanol-water) and contributes context only.
+  - id: F2
+    ref_id: REF-3134
+    method_type: characterisation
+    fulltext_source: pmc
+    varied_factor: none
+    locator:
+      section: table
+      table: "Table 2"
+    material:
+      species: Salix alba
+      part: bark
+      state: dried
+    conditions:
+      solvent: water
+      solvent_pct: null
+      temperature_c: 25
+      time_min: 30
+      solid_liquid_ratio: "1:100"
+      method: uae
+    outcome:
+      analyte: salicin
+      quantification: hplc-dad
+      value: 4.5
+      unit: "mg/g"
+      unit_basis: dry-weight
+
+generalisation:
+  basis: physicochemical
+  rationale: >-
+    Salicin is a phenolic glucoside whose polarity, and therefore its
+    hydro-ethanolic extraction optimum, is a property of the molecule rather than
+    of any single willow species' bark matrix; a Salix caprea solvent-percentage
+    curve is therefore admissible evidence for salicin in Salix alba and other
+    Salix bark. It remains generalisation, not a target-species measurement.
+  excluded_taxa: []
+
+recommendation:
+  parameter: solvent_pct
+  solvent: ethanol-water
+  method: maceration
+  route: internal
+  range: [30, 50]
+  statement: >-
+    For salicin from willow (Salix) bark, a moderate-strength hydro-ethanolic
+    maceration around 30-50% ethanol is provisionally indicated; salicin recovery
+    peaks near 40% ethanol and a high-proof spirit is not required.
+  rationale: >-
+    The salicin-specific optimum in a confirmed Salix caprea bark sweep (Gligoric
+    2019) is 40% ethanol at 30 min, well below the 70%/48 h optimum that same paper
+    reports for total phenolics; a Salix alba bark characterisation (Gligoric 2023)
+    confirms salicin is recovered efficiently in plain water. The band brackets the
+    40% salicin optimum. It is provisional and single-genus: both findings are
+    Salix, so approval is blocked until a second genus or a verified Salix alba
+    solvent sweep is added.
+  derived_from: [F1]
+
+limit_rationale: >-
+  Salicin is metabolised to salicylate, so willow bark is dose-limited for the same
+  reasons as low-dose aspirin: gastrointestinal irritation, an antiplatelet bleeding
+  effect, and the Reye's-syndrome contraindication in children and teenagers during
+  viral illness. This band governs menstruum strength only; it never licenses a
+  larger willow-bark dose, and it is chosen to reproduce a traditionally safe bark
+  preparation rather than to maximise salicin yield.
+
+internal_notes: >-
+  SECOND and THIRD practice records authored 2026-07-27 (this one + parthenolide),
+  both draft, from an adversarially-verified research pass.
+  SCOPE: class-general because the only confirmed salicin solvent-percentage sweep
+  (Gligoric 2019, REF-3133) is Salix caprea, a congener of the target Salix alba;
+  the generalisation block makes that cross-species step explicit. Single-genus, so
+  structurally unapprovable (the class-general approval gate requires >=2 genera).
+  UNVERIFIABLE, NOT CITED: Zheng, Jacquier & Harbourne 2024, Beverages 10(3):75
+  (doi 10.3390/beverages10030075) is a genuine Salix alba bark study whose abstract
+  indicates aqueous/low-ethanol infusions favour salicin over 50% hydroalcoholic —
+  the DIRECTION agrees with F1's sub-70% optimum — but its full text was unreachable
+  (MDPI 403, not in PMC/Europe PMC), so the exact salicin values, the level set, the
+  Figure 2C locator and even the method label ('infusions' vs maceration) could not
+  be verified. It is therefore recorded here only, not as a finding, and would
+  strengthen this record to species-specific if its full text is obtained.
+  DISCORDANCE NOTE (not scored — F2 is water, off the ethanol axis): Gligoric 2023
+  places Salix alba bark salicin (4.5 mg/g) toward the lower end of its six-species
+  screen, so absolute salicin content is species-variable even though the ethanol
+  optimum is expected to transfer.

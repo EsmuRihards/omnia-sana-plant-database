@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/practice@1",
- "count": 7,
+ "count": 12,
  "solvents": [
   {
    "id": "water",
@@ -843,6 +843,54 @@
    "status": "approved"
   },
   {
+   "id": "artemisia-absinthium--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Artemisia absinthium",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard wormwood (Artemisia absinthium) herb tincture as a 1:5 preparation in ethanol 70% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 70,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Artemisia absinthium"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3147"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
    "id": "calendula-officinalis--tincture--normative",
    "record_type": "dose-form-conversion",
    "parameter_kind": "normative",
@@ -943,6 +991,150 @@
    "status": "approved"
   },
   {
+   "id": "cnicus-benedictus--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Cnicus benedictus",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard blessed thistle (Cnicus benedictus) herb tincture as a 1:5 preparation in ethanol 25% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 25,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Cnicus benedictus"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3148"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "humulus-lupulus--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Humulus lupulus",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard hops (Humulus lupulus) strobile tincture as a 1:5 preparation in ethanol 60% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 60,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Humulus lupulus"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3150"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "juniperus-communis--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Juniperus communis",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard juniper (Juniperus communis) cone-berry tincture as a 1:5 preparation in ethanol 45% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 45,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Juniperus communis"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3151"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
    "id": "melissa-officinalis--tincture--normative",
    "record_type": "dose-form-conversion",
    "parameter_kind": "normative",
@@ -1033,6 +1225,54 @@
    "discordance_note": "",
    "references": [
     "REF-3144"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "taraxacum-officinale--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Taraxacum officinale",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard dandelion (Taraxacum officinale) root tincture as a 1:5 preparation in ethanol 45% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 45,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Taraxacum officinale"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3149"
    ],
    "confidence_band": "supported",
    "confidence_index": 6,

@@ -1,0 +1,72 @@
+# Practice corpus — dose-form-conversion (NORMATIVE), APPROVED.
+# Sources the lemon-balm tincture standard (ratio + menstruum strength) from the
+# free, public EMA HMPC EU herbal monograph. Normative: one authority suffices.
+id: melissa-officinalis--tincture--normative
+record_type: dose-form-conversion
+parameter_kind: normative
+species_scope: species-specific
+species: Melissa officinalis
+status: approved
+last_updated: 2026-07-27
+reviewed_by: "Claude Opus 4.8 — authoring pass (owner-authorized)"
+reviewed_date: 2026-07-27
+verified_by: "Claude Opus 4.8 — independent verification pass, re-derived from the EMA primary (owner-authorized)"
+verified_date: 2026-07-27
+
+key:
+  compound_id: null
+  extraction_class: null
+  part: null
+  solvent: null
+  method: null
+
+findings:
+  - id: F1
+    ref_id: REF-3141
+    method_type: pharmacopoeial
+    fulltext_source: publisher-html
+    varied_factor: none
+    statement_summary: >-
+      EMA HMPC lists, among traditional-use herbal preparations of lemon-balm leaf,
+      a tincture at a herbal-substance-to-extraction-solvent ratio of 1:5 in ethanol
+      45-53% V/V (and a 1:1 liquid extract in the same solvent).
+    locator:
+      section: monograph
+      monograph: "Melissa officinalis L., folium — section 2, Qualitative and quantitative composition"
+      edition: "EMA/HMPC/196745/2012 (adopted 14 May 2013)"
+    authority: ema-hmpc
+    material:
+      species: Melissa officinalis
+      part: leaf
+      state: dried
+
+conversion:
+  input_form: dried-herb
+  output_form: tincture
+  drug_extract_ratio: "1:5"
+  menstruum_ethanol_pct: null          # the monograph gives a RANGE, not a single value
+  menstruum_ethanol_range: [45, 53]    # ethanol 45-53% V/V (additive field; calculator shows the range)
+  equivalence:
+    preparation_ml: 5
+    dried_herb_g: 1
+
+recommendation:
+  parameter: drug_extract_ratio
+  route: internal
+  jurisdiction: EU
+  value: "1:5"
+  statement: >-
+    In the EU, the EMA HMPC herbal monograph defines the lemon-balm (Melissa
+    officinalis) leaf tincture as a 1:5 preparation in ethanol 45-53% V/V.
+  derived_from: [F1]
+
+internal_notes: >-
+  Normative dose-form-conversion record (2026-07-27, approved). Sources the tincture
+  calculator's ratio (1:5) and menstruum strength (ethanol 45-53% V/V) for lemon balm
+  from the free public EMA HMPC monograph EMA/HMPC/196745/2012, read in full via the
+  EMA PDF. The monograph's only tincture is 1:5 at 45-53% ethanol (Melissa is a
+  traditional-use-only monograph; no well-established-use column). Ethanol recorded as
+  a range (menstruum_ethanol_range) rather than inventing a single figure; the
+  calculator displays "45-53%" and uses the midpoint only for the ABV/shelf-life
+  estimate. reviewed_by/verified_by are two distinct AI passes by the same agent,
+  owner-authorized, NOT two independent human experts.

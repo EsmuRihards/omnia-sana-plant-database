@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/practice@1",
- "count": 0,
+ "count": 1,
  "solvents": [
   {
    "id": "water",
@@ -793,5 +793,54 @@
    "glycosidic": false
   }
  ],
- "records": []
+ "records": [
+  {
+   "id": "valeriana-officinalis--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Valeriana officinalis",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard valerian root tincture as a 1:5 preparation in 70% ethanol (V/V); the same monograph also lists tinctures at 1:8 in 60% ethanol and 1:10 in 56% ethanol.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 70,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Valeriana officinalis"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3140"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  }
+ ]
 }

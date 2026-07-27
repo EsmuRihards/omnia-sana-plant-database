@@ -1,0 +1,91 @@
+# Practice corpus — dose-form-conversion (NORMATIVE), APPROVED.
+# Sources the hawthorn (Crataegus monogyna) leaf-and-flower tincture standard
+# (ratio + menstruum strength) from the free, public EMA HMPC EU herbal monograph.
+# Normative: one authority suffices. The DER is a RANGE (1:3.5-4.5), so the
+# conversion block carries drug_extract_ratio_range and the calculator uses the
+# midpoint (4.0) for the equivalence/ABV math, mirroring the ethanol-range handling.
+id: crataegus-monogyna--tincture--normative
+record_type: dose-form-conversion
+parameter_kind: normative
+species_scope: species-specific
+species: Crataegus monogyna
+status: approved
+last_updated: 2026-07-27
+reviewed_by: "Claude Opus 4.8 — authoring pass (owner-authorized)"
+reviewed_date: 2026-07-27
+verified_by: "Claude Opus 4.8 — independent verification pass, re-derived from the EMA primary (owner-authorized)"
+verified_date: 2026-07-27
+
+key:
+  compound_id: null
+  extraction_class: null
+  part: null
+  solvent: null
+  method: null
+
+findings:
+  - id: F1
+    ref_id: REF-3152
+    method_type: pharmacopoeial
+    fulltext_source: publisher-html
+    varied_factor: none
+    statement_summary: >-
+      EMA HMPC lists, among traditional-use hawthorn (Crataegus spp.) leaf-and-flower
+      preparations, a tincture at a herbal-substance-to-extraction-solvent ratio (DER)
+      of 1:3.5-4.5 in ethanol 35% V/V (preparation j, alongside dry/liquid extracts and
+      expressed juices).
+    locator:
+      section: monograph
+      monograph: "Crataegus spp., folium cum flore — section 2, Qualitative and quantitative composition (traditional use), preparation j"
+      edition: "EMA/HMPC/159075/2014 (adopted 5 April 2016)"
+    authority: ema-hmpc
+    material:
+      species: Crataegus monogyna
+      part: leaf and flower
+      state: dried
+
+# The calculator payload. The DER is a RANGE (1:3.5-4.5). drug_extract_ratio holds the
+# display label; drug_extract_ratio_range holds the numeric bounds so the calculator
+# renders "1:3.5-4.5" and uses the midpoint (4.0) ONLY for the equivalence/ABV math —
+# exactly as menstruum_ethanol_range + the ethanol midpoint work for calendula.
+# At the midpoint, ~4 mL of finished tincture is equivalent to 1 g of dried herb.
+conversion:
+  input_form: dried-herb
+  output_form: tincture
+  drug_extract_ratio: "1:3.5-4.5"        # display label — a RANGE, not a single value
+  drug_extract_ratio_range: [3.5, 4.5]   # numeric bounds (additive field; calculator shows the range, uses the midpoint 4.0 for maths)
+  menstruum_ethanol_pct: 35
+  equivalence:
+    preparation_ml: 4                     # midpoint of the 1:3.5-4.5 range (~4 mL tincture ≈ 1 g dried herb)
+    dried_herb_g: 1
+
+recommendation:
+  parameter: drug_extract_ratio
+  route: internal                 # hawthorn leaf-and-flower tincture is taken orally
+  jurisdiction: EU
+  value: "1:3.5-4.5"
+  statement: >-
+    In the EU, the EMA HMPC herbal monograph lists a hawthorn (Crataegus monogyna)
+    leaf-and-flower tincture as a 1:3.5-4.5 preparation (DER) in ethanol 35% V/V.
+  derived_from: [F1]
+
+internal_notes: >-
+  Normative dose-form-conversion record (2026-07-27, approved). Sources the tincture
+  calculator's ratio and menstruum strength for hawthorn from the free public EMA HMPC
+  monograph EMA/HMPC/159075/2014 (adopted 5 April 2016), read in full via the EMA PDF.
+  Section 2 (traditional use) lists preparations a)-j); the only tincture is j) DER
+  1:3.5-4.5 in ethanol 35% V/V. (The other preparations are dry extracts c/d, liquid
+  extracts e/f/g, and expressed juices h/i — none a tincture.) The DER is a RANGE, not a
+  single value, so drug_extract_ratio is the display label "1:3.5-4.5" and the numeric
+  bounds live in drug_extract_ratio_range [3.5, 4.5]; the calculator uses the midpoint
+  (4.0) only for the equivalence/ABV maths, mirroring the menstruum_ethanol_range
+  precedent (calendula, melissa). This is why the record was deferred during EMA batch 1
+  and only landed once os-formulation.js/os-tinc.js/os-formula.js gained ratio-range
+  support (ratioRange + ratioMid) — feeding "1:3.5-4.5" to the old parseRatio yielded
+  null and silently fell back to the 1:5 default for the maths. Published name is
+  "Crataegus spp., folium cum flore" (covers C. monogyna, C. laevigata and their
+  hybrids, per the Ph. Eur. Crataegi folium cum flore definition the monograph
+  references); normalised here to the DB accepted binomial Crataegus monogyna. One
+  authority suffices for a normative record; jurisdiction is EU and the statement is
+  jurisdiction-scoped. reviewed_by/verified_by are two distinct AI passes by the same
+  agent, owner-authorized, NOT two independent human experts.

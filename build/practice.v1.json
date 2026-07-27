@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/practice@1",
- "count": 12,
+ "count": 13,
  "solvents": [
   {
    "id": "water",
@@ -1029,6 +1029,58 @@
    "discordance_note": "",
    "references": [
     "REF-3148"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "crataegus-monogyna--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Crataegus monogyna",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:3.5-4.5",
+    "statement": "In the EU, the EMA HMPC herbal monograph lists a hawthorn (Crataegus monogyna) leaf-and-flower tincture as a 1:3.5-4.5 preparation (DER) in ethanol 35% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:3.5-4.5",
+    "drug_extract_ratio_range": [
+     3.5,
+     4.5
+    ],
+    "menstruum_ethanol_pct": 35,
+    "equivalence": {
+     "preparation_ml": 4,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Crataegus monogyna"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3152"
    ],
    "confidence_band": "supported",
    "confidence_index": 6,

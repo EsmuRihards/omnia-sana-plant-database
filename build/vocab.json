@@ -2089,8 +2089,10 @@
    "id": "allantoin",
    "name": "Allantoin",
    "class": "other",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "polar-small-metabolite"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2098,8 +2100,10 @@
    "id": "allicin",
    "name": "Allicin / organosulfur thiosulfinates",
    "class": "organosulfur",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "organosulfur-thiosulfinate"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2107,8 +2111,10 @@
    "id": "anthocyanin",
    "name": "Anthocyanins",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "anthocyanin"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2116,8 +2122,10 @@
    "id": "anthraquinone",
    "name": "Anthraquinones",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "anthraquinone-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2125,8 +2133,10 @@
    "id": "apigenin",
    "name": "Apigenin",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "flavonoid-aglycone"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2134,8 +2144,10 @@
    "id": "arctigenin",
    "name": "Arctigenin / arctiin",
    "class": "lignan",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lignan"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2143,8 +2155,10 @@
    "id": "asarone",
    "name": "Asarones (alpha-/beta-asarone)",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-phenol"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2152,8 +2166,10 @@
    "id": "berberine",
    "name": "Berberine",
    "class": "alkaloid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "alkaloid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2161,8 +2177,10 @@
    "id": "bisabolol",
    "name": "Alpha-bisabolol",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2170,8 +2188,10 @@
    "id": "boswellic-acid",
    "name": "Boswellic acids",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lipophilic-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2179,8 +2199,10 @@
    "id": "caffeic-acid",
    "name": "Caffeic acid",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "phenolic-acid-free"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2188,8 +2210,10 @@
    "id": "caffeine",
    "name": "Caffeine",
    "class": "alkaloid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "alkaloid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2197,8 +2221,10 @@
    "id": "camphor",
    "name": "Camphor",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2206,8 +2232,10 @@
    "id": "carotenoid",
    "name": "Carotenoids",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "nonpolar-lipid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2215,8 +2243,10 @@
    "id": "carvacrol",
    "name": "Carvacrol",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-phenol"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2224,8 +2254,10 @@
    "id": "catechin",
    "name": "Catechins",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "proanthocyanidin"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2233,8 +2265,10 @@
    "id": "chamazulene",
    "name": "Chamazulene",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2242,8 +2276,10 @@
    "id": "chlorogenic-acid",
    "name": "Chlorogenic acid",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "phenolic-ester-labile"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2251,8 +2287,10 @@
    "id": "cineole",
    "name": "1,8-Cineole (eucalyptol)",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2260,8 +2298,10 @@
    "id": "citral",
    "name": "Citral (neral / geranial)",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2269,8 +2309,10 @@
    "id": "coumarin",
    "name": "Coumarins",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "coumarin"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2296,8 +2338,10 @@
    "id": "curcumin",
    "name": "Curcumin",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lipophilic-phenolic-labile"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2305,8 +2349,10 @@
    "id": "ellagic-acid",
    "name": "Ellagic acid",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "hydrolysable-tannin"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2314,8 +2360,10 @@
    "id": "escin",
    "name": "Escin (aescin)",
    "class": "saponin",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "saponin-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2323,8 +2371,10 @@
    "id": "essential-oil",
    "name": "Essential (volatile) oil",
    "class": "volatile-oil",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-oil-complex"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2332,8 +2382,10 @@
    "id": "eugenol",
    "name": "Eugenol",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-phenol"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2341,8 +2393,10 @@
    "id": "ferulic-acid",
    "name": "Ferulic acid",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "phenolic-acid-free"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2350,8 +2404,11 @@
    "id": "flavonoid",
    "name": "Flavonoids",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "flavonoid-aglycone",
+    "flavonoid-glycoside"
+   ],
+   "resolution": "ambiguous",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2359,8 +2416,10 @@
    "id": "gallic-acid",
    "name": "Gallic acid",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "phenolic-acid-free"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2368,8 +2427,10 @@
    "id": "gingerol",
    "name": "Gingerols / shogaols",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lipophilic-phenolic-labile"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2377,8 +2438,10 @@
    "id": "ginsenoside",
    "name": "Ginsenosides / eleutherosides",
    "class": "saponin",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "saponin-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2386,8 +2449,10 @@
    "id": "gla",
    "name": "Gamma-linolenic acid (GLA)",
    "class": "fatty-acid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "nonpolar-lipid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2404,8 +2469,10 @@
    "id": "glycyrrhizin",
    "name": "Glycyrrhizin",
    "class": "saponin",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "saponin-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2413,8 +2480,10 @@
    "id": "harpagoside",
    "name": "Harpagoside",
    "class": "glycoside",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "iridoid-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2422,8 +2491,10 @@
    "id": "hyperforin",
    "name": "Hyperforin",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lipophilic-phenolic-labile"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2431,8 +2502,10 @@
    "id": "hypericin",
    "name": "Hypericin",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lipophilic-phenolic-labile"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2440,8 +2513,10 @@
    "id": "inulin",
    "name": "Inulin",
    "class": "polysaccharide",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "storage-polysaccharide"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2449,8 +2524,10 @@
    "id": "iridoid-glycoside",
    "name": "Iridoid glycosides",
    "class": "glycoside",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "iridoid-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2458,8 +2535,10 @@
    "id": "kaempferol",
    "name": "Kaempferol",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "flavonoid-aglycone"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2467,8 +2546,10 @@
    "id": "lignan",
    "name": "Lignans",
    "class": "lignan",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lignan"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2476,8 +2557,10 @@
    "id": "linalool",
    "name": "Linalool",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2485,8 +2568,10 @@
    "id": "luteolin",
    "name": "Luteolin",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "flavonoid-aglycone"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2494,8 +2579,10 @@
    "id": "menthol",
    "name": "Menthol",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2503,8 +2590,10 @@
    "id": "mucilage",
    "name": "Mucilage",
    "class": "polysaccharide",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "mucilage"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2512,8 +2601,10 @@
    "id": "organosulfur",
    "name": "Organosulfur compounds",
    "class": "organosulfur",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "organosulfur-thiosulfinate"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2521,8 +2612,10 @@
    "id": "parthenolide",
    "name": "Parthenolide",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "sesquiterpene-lactone"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2530,8 +2623,10 @@
    "id": "pectin",
    "name": "Pectin",
    "class": "polysaccharide",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "mucilage"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2539,8 +2634,11 @@
    "id": "phenolic-acid",
    "name": "Phenolic acids",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "phenolic-acid-free",
+    "phenolic-ester-labile"
+   ],
+   "resolution": "ambiguous",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2557,8 +2655,10 @@
    "id": "phytosterol",
    "name": "Phytosterols",
    "class": "sterol",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "nonpolar-lipid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2575,8 +2675,12 @@
    "id": "polysaccharide",
    "name": "Polysaccharides",
    "class": "polysaccharide",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "mucilage",
+    "storage-polysaccharide",
+    "fungal-beta-glucan"
+   ],
+   "resolution": "ambiguous",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2584,8 +2688,10 @@
    "id": "proanthocyanidin",
    "name": "Proanthocyanidins",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "proanthocyanidin"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2593,8 +2699,10 @@
    "id": "quercetin",
    "name": "Quercetin",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "flavonoid-aglycone"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2602,8 +2710,10 @@
    "id": "rosmarinic-acid",
    "name": "Rosmarinic acid",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "phenolic-ester-labile"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2611,8 +2721,10 @@
    "id": "rutin",
    "name": "Rutin",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "flavonoid-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2620,8 +2732,10 @@
    "id": "safranal",
    "name": "Safranal",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "dose-limited",
    "regulatory_limit": ""
   },
@@ -2638,8 +2752,10 @@
    "id": "saponin",
    "name": "Saponins",
    "class": "saponin",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "saponin-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2647,8 +2763,10 @@
    "id": "sesquiterpene-lactone",
    "name": "Sesquiterpene lactones",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "sesquiterpene-lactone"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "topical-only",
    "regulatory_limit": ""
   },
@@ -2656,8 +2774,11 @@
    "id": "sesquiterpene",
    "name": "Sesquiterpenes",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "sesquiterpene-lactone",
+    "volatile-terpenoid"
+   ],
+   "resolution": "ambiguous",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2665,8 +2786,10 @@
    "id": "silica",
    "name": "Silica",
    "class": "mineral",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "mineral-inert"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2674,8 +2797,10 @@
    "id": "silymarin",
    "name": "Silymarin (silybin)",
    "class": "flavonoid",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "flavonoid-aglycone"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2683,8 +2808,10 @@
    "id": "starch",
    "name": "Starch",
    "class": "polysaccharide",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "storage-polysaccharide"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2692,8 +2819,11 @@
    "id": "tannin",
    "name": "Tannins",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "proanthocyanidin",
+    "hydrolysable-tannin"
+   ],
+   "resolution": "ambiguous",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2701,8 +2831,12 @@
    "id": "terpene",
    "name": "Terpenes / terpenoids",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-terpenoid",
+    "lipophilic-terpenoid",
+    "iridoid-glycoside"
+   ],
+   "resolution": "ambiguous",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2710,8 +2844,10 @@
    "id": "thymol",
    "name": "Thymol",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "volatile-phenol"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2719,8 +2855,10 @@
    "id": "triterpene-saponin",
    "name": "Triterpene saponins",
    "class": "saponin",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "saponin-glycoside"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2728,8 +2866,10 @@
    "id": "valerenic-acid",
    "name": "Valerenic acid",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lipophilic-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2737,8 +2877,10 @@
    "id": "verbascoside",
    "name": "Verbascoside (acteoside)",
    "class": "phenolic",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "phenolic-ester-labile"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   },
@@ -2746,8 +2888,10 @@
    "id": "withanolide",
    "name": "Withanolides",
    "class": "terpene",
-   "extraction_class": [],
-   "resolution": "unresolvable",
+   "extraction_class": [
+    "lipophilic-terpenoid"
+   ],
+   "resolution": "exact",
    "toxicity_flag": "avoid-internal",
    "regulatory_limit": ""
   }

@@ -4,3 +4,7 @@ class: phenolic
 synonyms:
 - phenolic acid
 - phenolic acids
+extraction_class:
+- phenolic-acid-free
+- phenolic-ester-labile
+resolution: ambiguous

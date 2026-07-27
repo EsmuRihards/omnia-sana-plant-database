@@ -10,3 +10,6 @@ toxicity_flag: dose-limited
 description: GATE. Declared by 4 plants. Hydroxyanthracene derivatives are stimulant laxatives whose use
   is duration-limited; a yield-maximising extraction recommendation is not appropriate. Set conservatively
   pending a sourced limit.
+extraction_class:
+- anthraquinone-glycoside
+resolution: exact

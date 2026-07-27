@@ -6,3 +6,6 @@ synonyms:
 toxicity_flag: dose-limited
 description: GATE. A sesquiterpene lactone; the class hazard (sensitisation, contact allergy) applies.
   Set conservatively pending a sourced limit.
+extraction_class:
+- sesquiterpene-lactone
+resolution: exact

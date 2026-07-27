@@ -746,6 +746,39 @@ def main():
     LANG_CODES = {x["code"] for x in LANGS}
     LANG_ENABLED = {x["code"] for x in LANGS if x.get("enabled")}
 
+    # D6: the compound-level extraction_class[] + resolution disambiguator. build.py
+    # defaults absent/invalid to resolution 'unresolvable' -> no recommendation, so a
+    # typo'd class would silently vanish as "no rec" — the exact failure the
+    # disambiguator exists to prevent. Validate it here (the only gate).
+    RESOLUTIONS = {"exact", "ambiguous", "unresolvable"}
+    for _cid, _c in COMPRECS.items():
+        _xcs = _c.get("extraction_class")
+        if _xcs is None:
+            _xcs = []
+        if not isinstance(_xcs, list):
+            errors.append(f"compounds/{_cid}.yaml: extraction_class must be a list of "
+                          f"extraction_classes.yaml ids (got {_xcs!r})")
+            _xcs = []
+        for _xc in _xcs:
+            if _xc not in XCLS:
+                errors.append(f"compounds/{_cid}.yaml: extraction_class '{_xc}' not in "
+                              f"vocabularies/extraction_classes.yaml")
+        _res = _c.get("resolution")
+        if _res is not None and _res not in RESOLUTIONS:
+            errors.append(f"compounds/{_cid}.yaml: resolution '{_res}' invalid "
+                          f"(want {sorted(RESOLUTIONS)})")
+        # Coherence between the two fields — the join rule depends on it. 'exact' means
+        # one class the calculator recommends; 'ambiguous' means it spans classes with
+        # differing optima and must NOT recommend; 'unresolvable'/absent joins nothing.
+        if _res == "exact" and len(_xcs) != 1:
+            errors.append(f"compounds/{_cid}.yaml: resolution 'exact' needs exactly one "
+                          f"extraction_class (got {len(_xcs)}) — a compound that resolves is "
+                          f"one that maps to a single class")
+        if _res == "ambiguous" and len(_xcs) < 2:
+            errors.append(f"compounds/{_cid}.yaml: resolution 'ambiguous' needs >=2 "
+                          f"extraction_class (got {len(_xcs)}) — one class is 'exact', none is "
+                          f"'unresolvable'")
+
     cited, seen_ids, pair_refs = set(), {}, []
     files = sorted(glob.glob(os.path.join(PLANTS, "*.yaml")))
     for path in files:

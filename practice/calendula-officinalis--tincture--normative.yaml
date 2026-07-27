@@ -1,0 +1,80 @@
+# Practice corpus — dose-form-conversion (NORMATIVE), APPROVED.
+# Sources the calendula (Calendula officinalis) flower tincture standard (ratio +
+# menstruum strength) from the free, public EMA HMPC EU herbal monograph.
+# Normative: one authority suffices.
+id: calendula-officinalis--tincture--normative
+record_type: dose-form-conversion
+parameter_kind: normative
+species_scope: species-specific
+species: Calendula officinalis
+status: approved
+last_updated: 2026-07-27
+reviewed_by: "Claude Opus 4.8 — authoring pass (owner-authorized)"
+reviewed_date: 2026-07-27
+verified_by: "Claude Opus 4.8 — independent verification pass, re-derived from the EMA primary (owner-authorized)"
+verified_date: 2026-07-27
+
+key:
+  compound_id: null
+  extraction_class: null
+  part: null
+  solvent: null
+  method: null
+
+findings:
+  - id: F1
+    ref_id: REF-3145
+    method_type: pharmacopoeial
+    fulltext_source: publisher-html
+    varied_factor: none
+    statement_summary: >-
+      EMA HMPC lists, among traditional-use calendula (Calendula officinalis) flower
+      preparations, a tincture at a ratio of 1:5 in ethanol 70-90% V/V; the
+      monograph's administration is cutaneous and oromucosal.
+    locator:
+      section: monograph
+      monograph: "Calendula officinalis L., flos — section 2, Qualitative and quantitative composition"
+      edition: "EMA/HMPC/437450/2017 (adopted 27 March 2018)"
+    authority: ema-hmpc
+    material:
+      species: Calendula officinalis
+      part: flower
+      state: dried
+
+# The calculator payload. A 1:5 tincture: 5 mL of finished tincture is equivalent to
+# 1 g of dried flower. Menstruum strength is a RANGE, ethanol 70-90% V/V.
+conversion:
+  input_form: dried-herb
+  output_form: tincture
+  drug_extract_ratio: "1:5"
+  menstruum_ethanol_pct: null          # the monograph gives a RANGE, not a single value
+  menstruum_ethanol_range: [70, 90]    # ethanol 70-90% V/V (additive field; calculator shows the range)
+  equivalence:
+    preparation_ml: 5
+    dried_herb_g: 1
+
+recommendation:
+  parameter: drug_extract_ratio
+  route: topical                  # calendula tincture: cutaneous + oromucosal, not oral
+  jurisdiction: EU
+  value: "1:5"
+  statement: >-
+    In the EU, the EMA HMPC herbal monograph defines the calendula (Calendula
+    officinalis) flower tincture as a 1:5 preparation in ethanol 70-90% V/V, for
+    cutaneous and oromucosal use.
+  derived_from: [F1]
+
+internal_notes: >-
+  Normative dose-form-conversion record (2026-07-27, approved). Sources the tincture
+  calculator's ratio (1:5) and menstruum strength (ethanol 70-90% V/V) for calendula
+  from the free public EMA HMPC monograph EMA/HMPC/437450/2017, read in full via the
+  EMA PDF. The monograph's single tincture is preparation d), 1:5 at 70-90% ethanol
+  (traditional-use-only monograph). Ethanol recorded as a range
+  (menstruum_ethanol_range) rather than inventing a single figure, following the
+  melissa-officinalis precedent; the calculator displays "70-90%" and uses the midpoint
+  only for the ABV/shelf-life estimate. Route is topical (not internal): the monograph
+  administration is cutaneous (indication 1) and oromucosal (indication 2, gargle/mouth
+  wash) — there is no oral indication. One authority suffices for a normative record;
+  jurisdiction is EU and the statement is jurisdiction-scoped. reviewed_by/verified_by
+  are two distinct AI passes by the same agent, owner-authorized, NOT two independent
+  human experts.

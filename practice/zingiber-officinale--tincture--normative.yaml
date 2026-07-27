@@ -1,0 +1,76 @@
+# Practice corpus — dose-form-conversion (NORMATIVE), APPROVED.
+# Sources the ginger (Zingiber officinale) rhizome tincture standard (ratio +
+# menstruum strength) from the free, public EMA HMPC EU herbal monograph.
+# Normative: one authority suffices.
+id: zingiber-officinale--tincture--normative
+record_type: dose-form-conversion
+parameter_kind: normative
+species_scope: species-specific
+species: Zingiber officinale
+status: approved
+last_updated: 2026-07-27
+reviewed_by: "Claude Opus 4.8 — authoring pass (owner-authorized)"
+reviewed_date: 2026-07-27
+verified_by: "Claude Opus 4.8 — independent verification pass, re-derived from the EMA primary (owner-authorized)"
+verified_date: 2026-07-27
+
+key:
+  compound_id: null
+  extraction_class: null
+  part: null
+  solvent: null
+  method: null
+
+findings:
+  - id: F1
+    ref_id: REF-3142
+    method_type: pharmacopoeial
+    fulltext_source: publisher-html
+    varied_factor: none
+    statement_summary: >-
+      EMA HMPC lists, among traditional-use ginger rhizome preparations, tinctures
+      at a herbal-substance-to-extraction-solvent ratio of 1:10 in ethanol 90% V/V
+      and 1:2 in ethanol 90% V/V (plus powdered herbal substance).
+    locator:
+      section: monograph
+      monograph: "Zingiber officinale Roscoe, rhizoma — section 2, Qualitative and quantitative composition"
+      edition: "EMA/HMPC/885789/2022, Revision 1 (adopted 7 May 2025)"
+    authority: ema-hmpc
+    material:
+      species: Zingiber officinale
+      part: rhizome
+      state: dried
+
+# The calculator payload. A 1:10 tincture: 10 mL of finished tincture is equivalent
+# to 1 g of dried rhizome. Menstruum strength 90% ethanol.
+conversion:
+  input_form: dried-herb
+  output_form: tincture
+  drug_extract_ratio: "1:10"
+  menstruum_ethanol_pct: 90
+  equivalence:
+    preparation_ml: 10
+    dried_herb_g: 1
+
+recommendation:
+  parameter: drug_extract_ratio
+  route: internal                 # ginger tincture is taken orally
+  jurisdiction: EU
+  value: "1:10"
+  statement: >-
+    In the EU, the EMA HMPC herbal monograph lists a ginger (Zingiber officinale)
+    rhizome tincture as a 1:10 preparation in ethanol 90% V/V; the same monograph
+    also lists a more concentrated 1:2 tincture in ethanol 90% V/V.
+  derived_from: [F1]
+
+internal_notes: >-
+  Normative dose-form-conversion record (2026-07-27, approved). Sources the tincture
+  calculator's ratio and menstruum strength for ginger from the free public EMA HMPC
+  monograph EMA/HMPC/885789/2022 Revision 1, read in full via the EMA PDF. Section 2
+  (traditional use) lists TWO tinctures, both in ethanol 90% V/V: 1:10 and 1:2. The
+  1:10 is recorded as the headline standard (the more conventional maceration-style
+  tincture); the 1:2 concentrated variant is noted in the finding and statement. The
+  well-established-use column lists only powdered herbal substance (no tincture). One
+  authority suffices for a normative record; jurisdiction is EU and the statement is
+  jurisdiction-scoped. reviewed_by/verified_by are two distinct AI passes by the same
+  agent, owner-authorized, NOT two independent human experts.

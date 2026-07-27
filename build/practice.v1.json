@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/practice@1",
- "count": 2,
+ "count": 7,
  "solvents": [
   {
    "id": "water",
@@ -795,6 +795,154 @@
  ],
  "records": [
   {
+   "id": "achillea-millefolium--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Achillea millefolium",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph lists a yarrow (Achillea millefolium) herb tincture as a 1:5 preparation in ethanol 45% V/V; the same monograph also lists a 1:5 tincture in ethanol 31.5% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 45,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Achillea millefolium"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3146"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "calendula-officinalis--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Calendula officinalis",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "topical",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines the calendula (Calendula officinalis) flower tincture as a 1:5 preparation in ethanol 70-90% V/V, for cutaneous and oromucosal use.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": null,
+    "menstruum_ethanol_range": [
+     70,
+     90
+    ],
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Calendula officinalis"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3145"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "centaurium-erythraea--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Centaurium erythraea",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard centaury (Centaurium erythraea) herb tincture as a 1:5 preparation in ethanol 70% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 70,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Centaurium erythraea"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3143"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
    "id": "melissa-officinalis--tincture--normative",
    "record_type": "dose-form-conversion",
    "parameter_kind": "normative",
@@ -847,6 +995,54 @@
    "status": "approved"
   },
   {
+   "id": "salvia-officinalis--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Salvia officinalis",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:10",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard sage (Salvia officinalis) leaf tincture as a 1:10 preparation in ethanol 70% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:10",
+    "menstruum_ethanol_pct": 70,
+    "equivalence": {
+     "preparation_ml": 10,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Salvia officinalis"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3144"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
    "id": "valeriana-officinalis--tincture--normative",
    "record_type": "dose-form-conversion",
    "parameter_kind": "normative",
@@ -885,6 +1081,54 @@
    "discordance_note": "",
    "references": [
     "REF-3140"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "zingiber-officinale--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Zingiber officinale",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:10",
+    "statement": "In the EU, the EMA HMPC herbal monograph lists a ginger (Zingiber officinale) rhizome tincture as a 1:10 preparation in ethanol 90% V/V; the same monograph also lists a more concentrated 1:2 tincture in ethanol 90% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:10",
+    "menstruum_ethanol_pct": 90,
+    "equivalence": {
+     "preparation_ml": 10,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Zingiber officinale"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3142"
    ],
    "confidence_band": "supported",
    "confidence_index": 6,

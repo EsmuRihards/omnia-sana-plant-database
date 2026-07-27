@@ -1,0 +1,79 @@
+# Practice corpus — dose-form-conversion (NORMATIVE), APPROVED.
+# Sources the sage (Salvia officinalis) leaf tincture standard (ratio + menstruum
+# strength) from the free, public EMA HMPC EU herbal monograph.
+# Normative: one authority suffices.
+id: salvia-officinalis--tincture--normative
+record_type: dose-form-conversion
+parameter_kind: normative
+species_scope: species-specific
+species: Salvia officinalis
+status: approved
+last_updated: 2026-07-27
+reviewed_by: "Claude Opus 4.8 — authoring pass (owner-authorized)"
+reviewed_date: 2026-07-27
+verified_by: "Claude Opus 4.8 — independent verification pass, re-derived from the EMA primary (owner-authorized)"
+verified_date: 2026-07-27
+
+key:
+  compound_id: null
+  extraction_class: null
+  part: null
+  solvent: null
+  method: null
+
+findings:
+  - id: F1
+    ref_id: REF-3144
+    method_type: pharmacopoeial
+    fulltext_source: publisher-html
+    varied_factor: none
+    statement_summary: >-
+      EMA HMPC lists, among traditional-use sage (Salvia officinalis) leaf
+      preparations, a tincture at a herbal-substance-to-extraction-solvent ratio of
+      1:10 in ethanol 70% V/V, alongside several liquid and dry extracts.
+    locator:
+      section: monograph
+      monograph: "Salvia officinalis L., folium — section 2, Qualitative and quantitative composition"
+      edition: "EMA/HMPC/277152/2015 (adopted 20 September 2016)"
+    authority: ema-hmpc
+    material:
+      species: Salvia officinalis
+      part: leaf
+      state: dried
+
+# The calculator payload. A 1:10 tincture: 10 mL of finished tincture is equivalent
+# to 1 g of dried leaf. Menstruum strength 70% ethanol.
+conversion:
+  input_form: dried-herb
+  output_form: tincture
+  drug_extract_ratio: "1:10"
+  menstruum_ethanol_pct: 70
+  equivalence:
+    preparation_ml: 10
+    dried_herb_g: 1
+
+recommendation:
+  parameter: drug_extract_ratio
+  route: internal                 # sage tincture, indication 1 (dyspeptic), is taken orally
+  jurisdiction: EU
+  value: "1:10"
+  statement: >-
+    In the EU, the EMA HMPC herbal monograph defines a standard sage (Salvia
+    officinalis) leaf tincture as a 1:10 preparation in ethanol 70% V/V.
+  derived_from: [F1]
+
+internal_notes: >-
+  Normative dose-form-conversion record (2026-07-27, approved). Sources the tincture
+  calculator's ratio (1:10) and menstruum strength (ethanol 70% V/V) for sage from the
+  free public EMA HMPC monograph EMA/HMPC/277152/2015, read in full via the EMA PDF.
+  The monograph's single tincture is preparation g), 1:10 at 70% ethanol
+  (traditional-use-only monograph). Route recorded internal because the tincture is
+  dosed orally for indication 1 (mild dyspeptic complaints, 2-3 ml 3x daily); the same
+  tincture is also used oromucosally (gargle) for indication 3. The monograph carries a
+  thujone safety note (chemotypes low in thujone preferred; daily exposure below
+  6.0 mg) — a constituent-level dosing/safety matter handled in the plant record's
+  dosage and safety data, not a key.compound_id toxicity_flag on this null-key
+  dose-form record, so it does not gate this conversion. One authority suffices for a
+  normative record; jurisdiction is EU and the statement is jurisdiction-scoped.
+  reviewed_by/verified_by are two distinct AI passes by the same agent,
+  owner-authorized, NOT two independent human experts.

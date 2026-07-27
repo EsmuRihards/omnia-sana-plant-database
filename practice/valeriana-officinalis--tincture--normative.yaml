@@ -1,0 +1,83 @@
+# Practice corpus — dose-form-conversion (NORMATIVE) record. STATUS: draft.
+# FIRST normative record: sources the calculator's tincture ratio (DEFAULT_RATIO
+# 1:5) and menstruum strength for valerian directly from the free, public EMA HMPC
+# EU herbal monograph. A normative record needs ONE authority (no replication),
+# because a definition is not an empirical concordance. See practice/README.md.
+id: valeriana-officinalis--tincture--normative
+record_type: dose-form-conversion
+parameter_kind: normative
+species_scope: species-specific
+species: Valeriana officinalis
+status: draft
+last_updated: 2026-07-27
+
+key:
+  compound_id: null      # whole-herb preparation standard, not keyed on a constituent
+  extraction_class: null
+  part: null             # frozen to null in v1
+  solvent: null
+  method: null
+
+findings:
+  # F1 — the normative citation. EMA HMPC EU herbal monograph, section 2. A
+  # pharmacopoeial finding carries no experimental conditions or measured outcome;
+  # it cites the monograph coordinates and paraphrases the requirement in one
+  # sentence (copyright gate: never reproduce the normative text).
+  - id: F1
+    ref_id: REF-3140
+    method_type: pharmacopoeial
+    fulltext_source: publisher-html
+    varied_factor: none
+    statement_summary: >-
+      EMA HMPC lists, among traditional-use herbal preparations of valerian root, a
+      tincture at a herbal-substance-to-extraction-solvent ratio of 1:5 in ethanol
+      70% V/V (and 1:8 in 60%, 1:10 in 56%, 1:5 in 60-80% ethanol).
+    locator:
+      section: monograph
+      monograph: "Valeriana officinalis L., radix — section 2, Qualitative and quantitative composition"
+      edition: "EMA/HMPC/150848/2015, Corr.1 (adopted 2 February 2016)"
+    authority: ema-hmpc
+    material:
+      species: Valeriana officinalis
+      part: root
+      state: dried
+
+# The calculator payload. Dose-FORM arithmetic only (no dose ranges — those live in
+# plants[].dosage[]). A 1:5 tincture: 5 mL of finished tincture is equivalent to 1 g
+# of dried herb. Menstruum strength 70% ethanol.
+conversion:
+  input_form: dried-herb
+  output_form: tincture
+  drug_extract_ratio: "1:5"
+  menstruum_ethanol_pct: 70
+  equivalence:
+    preparation_ml: 5
+    dried_herb_g: 1
+
+recommendation:
+  parameter: drug_extract_ratio
+  route: internal                 # valerian tincture is taken orally
+  jurisdiction: EU
+  value: "1:5"
+  statement: >-
+    In the EU, the EMA HMPC herbal monograph defines a standard valerian root
+    tincture as a 1:5 preparation in 70% ethanol (V/V); the same monograph also
+    lists tinctures at 1:8 in 60% ethanol and 1:10 in 56% ethanol.
+  derived_from: [F1]
+
+internal_notes: >-
+  FIRST normative dose-form-conversion record (2026-07-27, draft). Sources the
+  tincture calculator's DEFAULT_RATIO (1:5) and menstruum strength for valerian
+  from the free, public EMA HMPC EU herbal monograph EMA/HMPC/150848/2015 (read in
+  full via the EMA PDF). One authority suffices for a normative record; jurisdiction
+  is EU and the statement is jurisdiction-scoped, so a disagreeing authority would
+  be a SECOND scoped record, never a contradiction of this one.
+  The monograph lists several valid valerian tinctures (1:5 in 70%, 1:8 in 60%,
+  1:10 in 56%, 1:5 in 60-80%); the 1:5 in 70% is recorded as the headline standard
+  because it matches the calculator's hardcoded 1:5 and is the well-corroborated
+  European default. Dry/liquid extract DERs in the monograph are out of scope for a
+  tincture conversion record.
+  APPROACH NOTE: this is the pattern for the EMA-HMPC normative seam that replaces
+  RSM-paper hunting as the primary method — one free monograph per species gives the
+  standard tincture with a citation. Draft pending the two-signer approval step
+  (reviewed_by + verified_by must differ; owner sign-off needed before publish).

@@ -64,7 +64,14 @@ QUANTIFICATION = {"hplc-dad", "hplc-uv", "hplc-ms", "uplc-ms", "gc-ms", "gc-fid"
 UNIT_BASES = {"dry-weight", "fresh-weight", "extract", "volume", "unspecified"}
 FULLTEXT_SOURCES = {"doi-pdf", "pmc", "publisher-html", "institutional", "author-copy",
                     "print", "pharmacopoeia-subscription"}
-AUTHORITIES = {"ph-eur", "usp-nf", "bhp", "ahp", "bp", "who-monographs", "escop"}
+AUTHORITIES = {"ph-eur", "usp-nf", "bhp", "ahp", "bp", "who-monographs", "escop",
+               # ema-hmpc: EU herbal monographs (Committee on Herbal Medicinal Products).
+               # Added as the free, publicly readable normative seam — every monograph is a
+               # public PDF on ema.europa.eu ("Reproduction is authorised provided the source
+               # is acknowledged"), unlike the paywalled Ph.Eur/USP/WHO texts. It states, per
+               # species, the standard tincture ratio + extraction-solvent strength, which is
+               # exactly what the calculator hardcodes. Additive; existing records unaffected.
+               "ema-hmpc"}
 TOXICITY_FLAGS = {"none", "dose-limited", "topical-only", "avoid-internal"}
 ROUTES = {"internal", "topical"}
 EQUIV_UNIT_RE = re.compile(r"\b(RE|GE|QE|GAE|equivalents?)\b")

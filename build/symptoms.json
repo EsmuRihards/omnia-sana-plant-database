@@ -20750,10 +20750,118 @@
    ]
   },
   {
-   "name": "Tumeric",
+   "name": "Turkey tail",
+   "scientific": "Trametes versicolor",
+   "id": "trametes-versicolor",
+   "common_slug": "turkey-tail",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 9,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0282",
+      "REF-1582",
+      "REF-1583",
+      "REF-1584",
+      "REF-1585",
+      "REF-1587"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0052",
+      "REF-0282",
+      "REF-0300"
+     ]
+    },
+    {
+     "condition": "cold",
+     "label": "Cold & flu",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0052",
+      "REF-0282",
+      "REF-0300"
+     ]
+    },
+    {
+     "condition": "immune-support",
+     "label": "Immune support",
+     "evidence": 5,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0052",
+      "REF-0282",
+      "REF-0300"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0052",
+      "REF-0282",
+      "REF-0300"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0052",
+      "REF-0282",
+      "REF-0300"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0052",
+      "REF-0282",
+      "REF-0300"
+     ]
+    },
+    {
+     "condition": "wounds",
+     "label": "Wounds",
+     "evidence": 5,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0052",
+      "REF-0282",
+      "REF-0300"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Turmeric",
    "scientific": "Curcuma longa",
    "id": "curcuma-longa",
-   "common_slug": "tumeric",
+   "common_slug": "turmeric",
    "wp_post_id": null,
    "indications": [
     {
@@ -20884,114 +20992,6 @@
      "inferred": true,
      "references": [
       "REF-0002"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Turkey tail",
-   "scientific": "Trametes versicolor",
-   "id": "trametes-versicolor",
-   "common_slug": "turkey-tail",
-   "wp_post_id": null,
-   "indications": [
-    {
-     "condition": "cancer",
-     "label": "Cancer (anticancer research)",
-     "evidence": 9,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0282",
-      "REF-1582",
-      "REF-1583",
-      "REF-1584",
-      "REF-1585",
-      "REF-1587"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
-     ]
-    },
-    {
-     "condition": "cold",
-     "label": "Cold & flu",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
-     ]
-    },
-    {
-     "condition": "immune-support",
-     "label": "Immune support",
-     "evidence": 5,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
-     ]
-    },
-    {
-     "condition": "infection",
-     "label": "Infection (general)",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
-     ]
-    },
-    {
-     "condition": "wounds",
-     "label": "Wounds",
-     "evidence": 5,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0052",
-      "REF-0282",
-      "REF-0300"
      ]
     }
    ]

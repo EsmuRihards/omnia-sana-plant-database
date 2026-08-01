@@ -290,6 +290,11 @@ names:
   - name: Trevo-da-sorte
     sources:
     - col:catalogue-of-life
+  ro:
+  - name: Trifoi Alb
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   sk:
   - name: ďatelina plazivá
     preferred: true
@@ -591,5 +596,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

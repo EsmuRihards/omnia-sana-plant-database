@@ -1,15 +1,21 @@
 id: tanacetum-parthenium
 scientific_name: Tanacetum parthenium
 names:
+  bg:
+  - name: Моминска вратига
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   hr:
   - name: Majčinski vratić
     sources:
     - wikipedia:hr
     status: needs-review
   cs:
-  - name: Řimbaba obecná
+  - name: řimbaba obecná
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikipedia:cs
   da:
@@ -76,11 +82,15 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
   et:
-  - name: Lõhnav neitsikummel
+  - name: lõhnav neitsikummel
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikipedia:et
+  - name: lõhnav püreeter
+    sources:
+    - col:catalogue-of-life
   fi:
   - name: reunuspietaryrtti
     preferred: true
@@ -103,7 +113,7 @@ names:
     - gbif:daisie-inventory-of-alien-invasive-speci
     status: needs-review
   fr:
-  - name: Grande camomille
+  - name: grande camomille
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -167,6 +177,9 @@ names:
     - gbif:daisie-inventory-of-alien-invasive-speci
     - gbif:flora-helvetica-asteraceae
     - gbif:info-flora-schweiz-asteraceae
+  - name: Mutterkraut-Wucherblume
+    sources:
+    - col:catalogue-of-life
   - name: Mutterkamille
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
@@ -175,12 +188,20 @@ names:
     sources:
     - gbif:taxon-list-of-vascular-plants-from-bavar
     status: needs-review
+  el:
+  - name: Βάλσαμο
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   hu:
   - name: Őszi margitvirág
     preferred: true
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikipedia:hu
+  - name: őszi varádics
+    sources:
+    - col:catalogue-of-life
   ga:
   - name: Lus deartán
     sources:
@@ -198,17 +219,25 @@ names:
     - col:catalogue-of-life
     - gbif:flora-helvetica-asteraceae
     - gbif:info-flora-schweiz-asteraceae
+  - name: Partenio
+    sources:
+    - col:catalogue-of-life
   lt:
   - name: Vaistinis skaistenis
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
-    status: needs-review
   pl:
   - name: Wrotycz maruna
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikipedia:pl
+  - name: Złocień maruna
+    sources:
+    - col:catalogue-of-life
   pt:
   - name: rainha-das-ervas
     preferred: true
@@ -252,6 +281,12 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: Samambainha
+    sources:
+    - col:catalogue-of-life
+  - name: Artemigem-dos-jardins
+    sources:
+    - col:catalogue-of-life
   - name: artemísia-bastarda
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
@@ -275,14 +310,16 @@ names:
     status: needs-review
   sk:
   - name: Rimbaba obyčajná
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:sk
-    status: needs-review
   sl:
   - name: beli vratič
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q818481
-    status: needs-review
   - name: materine drobtinice
     sources:
     - wikidata:Q818481
@@ -293,6 +330,12 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
+  - name: Artemisa
+    sources:
+    - col:catalogue-of-life
+  - name: Santa María
+    sources:
+    - col:catalogue-of-life
   - name: matricaria
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
@@ -335,15 +378,19 @@ names:
     - gbif:nordic-crop-wild-relative-cwr-checklist
     status: needs-review
   ru:
-  - name: piretrum devičij
+  - name: Пижма девичья
     preferred: true
     sources:
     - col:catalogue-of-life
-  - name: Пижма девичья
-    sources:
     - wikipedia:ru
-    status: needs-review
+  - name: piretrum devičij
+    sources:
+    - col:catalogue-of-life
   uk:
+  - name: Пижмо дівоче
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   - name: Маруна дівоча
     sources:
     - wikipedia:uk
@@ -376,6 +423,14 @@ names:
     sources:
     - wikipedia:ca
     status: needs-review
+  tr:
+  - name: Gümüşdüğme
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: beyaz papatya
+    sources:
+    - col:catalogue-of-life
 verification:
   checked_languages:
   - bg
@@ -416,5 +471,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

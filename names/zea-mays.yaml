@@ -20,7 +20,7 @@ names:
     - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikipedia:cs
-  - name: kukuřice
+  - name: Kukuřice
     sources:
     - col:catalogue-of-life
     - wikidata:Q11575
@@ -76,14 +76,14 @@ names:
     - gbif:grin-taxonomy
     - gbif:martha-s-vineyard-species-checklist
     - wikidata:Q11575
-  - name: Teosinte
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q11575
   - name: Mandamin
     sources:
     - col:catalogue-of-life
   - name: corn,
+    sources:
+    - wikidata:Q11575
+    status: needs-review
+  - name: Teosinte
     sources:
     - wikidata:Q11575
     status: needs-review
@@ -143,11 +143,6 @@ names:
     - gbif:info-flora-schweiz-poaceae
     - wikidata:Q11575
     - wikipedia:de
-  - name: Kukuruz
-    sources:
-    - col:catalogue-of-life
-    - gbif:daisie-inventory-of-alien-invasive-speci
-    - wikidata:Q11575
   - name: Welschkorn
     sources:
     - col:catalogue-of-life
@@ -157,6 +152,10 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:taxon-list-of-vascular-plants-from-bavar
+  - name: Kukuruz
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q11575
   el:
   - name: Καλαμπόκι
     preferred: true
@@ -259,16 +258,16 @@ names:
     - wikipedia:pt
   - name: abati
     sources:
-    - col:catalogue-of-life
     - wikidata:Q11575
+    status: needs-review
   - name: auati
     sources:
-    - col:catalogue-of-life
     - wikidata:Q11575
+    status: needs-review
   - name: avati
     sources:
-    - col:catalogue-of-life
     - wikidata:Q11575
+    status: needs-review
   ro:
   - name: Porumb
     sources:
@@ -289,33 +288,33 @@ names:
     - wikidata:Q11575
     - wikipedia:sl
   es:
-  - name: Maiz
+  - name: maíz
     preferred: true
     sources:
     - col:catalogue-of-life
-    - wikidata:Q11575
-  - name: maíz
-    sources:
-    - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
-  - name: Olote
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q11575
-  - name: Elote o Choclo
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q11575
-  - name: Coronta o Panocha
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q11575
   - name: choclo
     sources:
     - col:catalogue-of-life
   - name: Mazorca
     sources:
     - col:catalogue-of-life
+  - name: Maiz
+    sources:
+    - wikidata:Q11575
+    status: needs-review
+  - name: Olote
+    sources:
+    - wikidata:Q11575
+    status: needs-review
+  - name: Elote o Choclo
+    sources:
+    - wikidata:Q11575
+    status: needs-review
+  - name: Coronta o Panocha
+    sources:
+    - wikidata:Q11575
+    status: needs-review
   sv:
   - name: majs
     preferred: true
@@ -345,10 +344,9 @@ names:
     - wikipedia:uk
     status: needs-review
   'no':
-  - name: mais
+  - name: Mais
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:backbone
     - gbif:red-list-vascular-plants-2021-norway-r-d
     - wikidata:Q11575
@@ -384,14 +382,14 @@ names:
     - col:catalogue-of-life
     - wikidata:Q11575
     - wikipedia:ca
-  - name: Panís
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q11575
   - name: Blat de moro
     sources:
     - col:catalogue-of-life
     - wikidata:Q11575
+  - name: Panís
+    sources:
+    - wikidata:Q11575
+    status: needs-review
   be:
   - name: Кукуруза
     sources:
@@ -448,5 +446,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

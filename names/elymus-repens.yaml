@@ -37,7 +37,6 @@ names:
     - col:catalogue-of-life
   - name: Quack grass
     sources:
-    - col:catalogue-of-life
     - gbif:checklist-of-vascular-plants-in-korea
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
@@ -148,17 +147,16 @@ names:
     - gbif:flora-helvetica-poaceae
     - gbif:info-flora-schweiz-poaceae
     - gbif:red-list-vascular-plants-2016-switzerlan
-  - name: Gewöhnliche Quecke
-    sources:
-    - col:catalogue-of-life
-    - gbif:red-list-vascular-plants-2018-germany-ro
-    - wikidata:Q276262
   - name: Gemeine Quecke
     sources:
     - col:catalogue-of-life
   - name: Gewöhnliche Kriech-Quecke
     sources:
     - col:catalogue-of-life
+  - name: Gewöhnliche Quecke
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q276262
   hu:
   - name: Tarackbúza
     preferred: true
@@ -332,5 +330,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

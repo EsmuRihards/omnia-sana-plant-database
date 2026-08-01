@@ -28,13 +28,13 @@ names:
     - gbif:global-register-of-introduced-and-invasi
     - gbif:integrated-taxonomic-information-system-
     - wikidata:Q206532
+  - name: lemon-verbena
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
   - name: Lemon Verbena
     sources:
     - wikidata:Q206532
-    status: needs-review
-  - name: lemon-verbena
-    sources:
-    - gbif:grin-taxonomy
     status: needs-review
   - name: Lemon Bee-brush
     sources:
@@ -50,6 +50,11 @@ names:
     - wikipedia:fi
     status: needs-review
   fr:
+  - name: verveine citronelle
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
   - name: Citronnelle
     sources:
     - gbif:taxref
@@ -57,10 +62,6 @@ names:
   - name: Verveine odorante
     sources:
     - wikidata:Q206532
-    status: needs-review
-  - name: verveine citronelle
-    sources:
-    - gbif:grin-taxonomy
     status: needs-review
   - name: Verveine citronnelle
     sources:
@@ -79,6 +80,7 @@ names:
   - name: Zitronenstrauch
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
     - wikipedia:de
   el:
@@ -102,17 +104,18 @@ names:
     - wikipedia:pl
     status: needs-review
   pt:
+  - name: cidrão
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: salva-limão
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
   - name: Lúcia-lima
     sources:
     - wikipedia:pt
-    status: needs-review
-  - name: cidrão
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
-  - name: salva-limão
-    sources:
-    - gbif:grin-taxonomy
     status: needs-review
   ro:
   - name: Lămâie verbină
@@ -121,9 +124,10 @@ names:
     status: needs-review
   es:
   - name: cedrón
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
-    status: needs-review
   ru:
   - name: Алоизия трёхлистная
     sources:
@@ -174,5 +178,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

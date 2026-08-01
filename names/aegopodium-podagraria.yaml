@@ -172,19 +172,11 @@ names:
   - name: Giersch
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:flora-helvetica-apiaceae
     - gbif:grin-taxonomy
     - gbif:info-flora-schweiz-apiaceae
     - gbif:taxon-list-of-vascular-plants-from-bavar
     - wikipedia:de
-  - name: Geissfuss
-    sources:
-    - col:catalogue-of-life
-    - gbif:flora-helvetica-apiaceae
-    - gbif:grin-taxonomy
-    - gbif:info-flora-schweiz-apiaceae
-    - gbif:red-list-vascular-plants-2016-switzerlan
   - name: Baumtropfen
     sources:
     - col:catalogue-of-life
@@ -195,6 +187,12 @@ names:
     - col:catalogue-of-life
     - gbif:red-list-vascular-plants-2018-germany-ro
     - wikidata:Q217778
+  - name: Geissfuss
+    sources:
+    - gbif:flora-helvetica-apiaceae
+    - gbif:grin-taxonomy
+    - gbif:info-flora-schweiz-apiaceae
+    - gbif:red-list-vascular-plants-2016-switzerlan
   - name: Giersch, Geißfuß
     sources:
     - gbif:eunis-biodiversity-database
@@ -329,7 +327,6 @@ names:
   - name: skvallerkål
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:backbone
     - gbif:nordic-crop-wild-relative-cwr-checklist
     - gbif:red-list-vascular-plants-2021-norway-r-d
@@ -418,5 +415,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

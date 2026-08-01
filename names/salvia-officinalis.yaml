@@ -361,15 +361,15 @@ names:
     sources:
     - col:catalogue-of-life
   tr:
-  - name: Tıbbi ada çayı
+  - name: Ada Çayı
     preferred: true
     sources:
     - col:catalogue-of-life
-    - wikidata:Q1111359
-  - name: Ada çayı
-    sources:
     - wikipedia:tr
-    status: needs-review
+  - name: Tıbbi ada çayı
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q1111359
 verification:
   checked_languages:
   - bg
@@ -410,5 +410,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

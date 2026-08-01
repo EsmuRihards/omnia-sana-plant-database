@@ -26,7 +26,6 @@ names:
   - name: Hamp
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:red-list-vascular-plants-denmark-r-dlist
     - wikipedia:da
   - name: Almindelig Hamp
@@ -144,8 +143,8 @@ names:
     - gbif:taxref
   - name: chènevis chanvre
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
-    status: needs-review
   - name: Chanvre cultivé, Cannabis
     sources:
     - gbif:taxref
@@ -312,6 +311,7 @@ names:
   - name: hamp
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:backbone
     - gbif:red-list-vascular-plants-2021-norway-r-d
   - name: Hn/Hamp
@@ -383,5 +383,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

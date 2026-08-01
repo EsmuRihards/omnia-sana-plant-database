@@ -22,8 +22,8 @@ names:
     - gbif:taxref
   - name: Indian-saffron
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
-    status: needs-review
   et:
   - name: harilik kurkum
     preferred: true
@@ -41,15 +41,16 @@ names:
     sources:
     - col:catalogue-of-life
   fr:
-  - name: Safran des Indes
+  - name: curcuma
     preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: Curcuma
-    sources:
-    - gbif:grin-taxonomy
     - gbif:taxref
+  - name: safran des Indes
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
   - name: Curcuma long, Safran, Curcuma, Curry, Safran des Indes, Safran pays
     sources:
     - gbif:taxref
@@ -67,14 +68,11 @@ names:
     - gbif:grin-taxonomy
   - name: Gelbwurzel
     sources:
-    - gbif:grin-taxonomy
-    status: needs-review
-  it:
-  - name: Curcuma
-    preferred: true
-    sources:
     - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  it:
   - name: Turmerico
+    preferred: true
     sources:
     - col:catalogue-of-life
   - name: Zafferano delle indie
@@ -86,31 +84,37 @@ names:
     sources:
     - col:catalogue-of-life
   pt:
-  - name: açafrão-da-terra
+  - name: açafrão-da-Índia
     preferred: true
     sources:
     - col:catalogue-of-life
-  - name: açafrão-da-Índia
-    sources:
     - gbif:grin-taxonomy
-    status: needs-review
+  - name: açafroeira
+    sources:
+    - col:catalogue-of-life
+  - name: açafrão-da-terra
+    sources:
+    - col:catalogue-of-life
+  - name: gengibre-dourada
+    sources:
+    - col:catalogue-of-life
   sk:
   - name: kurkuma pravá
     preferred: true
     sources:
     - col:catalogue-of-life
   es:
-  - name: Cúrcuma
+  - name: cúrcuma
     preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
   - name: azafrán de la India
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
-    status: needs-review
   sv:
-  - name: Gurkmeja
+  - name: gurkmeja
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -165,5 +169,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

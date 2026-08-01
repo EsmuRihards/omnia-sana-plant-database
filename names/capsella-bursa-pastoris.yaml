@@ -270,7 +270,7 @@ names:
     - col:catalogue-of-life
     - wikipedia:pl
   pt:
-  - name: Bolsa-de-pastor
+  - name: bolsa-de-pastor
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -393,13 +393,13 @@ names:
     - col:catalogue-of-life
     - gbif:backbone
     - gbif:nordic-crop-wild-relative-cwr-checklist
-  - name: hyrdetaske
-    sources:
-    - col:catalogue-of-life
-    - gbif:backbone
   - name: hydetaske
     sources:
     - gbif:nordic-plant-uses-from-gunnerus-and-h-eg
+    status: needs-review
+  - name: hyrdetaske
+    sources:
+    - gbif:backbone
     status: needs-review
   sr:
   - name: Русомача
@@ -479,8 +479,7 @@ verification:
   - tr
   sources_queried:
   - gbif
-  - powo
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

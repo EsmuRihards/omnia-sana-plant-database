@@ -136,8 +136,8 @@ names:
     - wikipedia:fi
   - name: Kehäkukka
     sources:
-    - col:catalogue-of-life
     - wikidata:Q145930
+    status: needs-review
   fr:
   - name: souci officinal
     preferred: true
@@ -460,5 +460,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

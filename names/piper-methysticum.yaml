@@ -38,16 +38,17 @@ names:
     sources:
     - wikidata:Q161067
     - wikipedia:en
+  - name: peppers
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
   - name: Pepper family
     sources:
     - col:catalogue-of-life
   - name: pepper plant family
     sources:
     - col:catalogue-of-life
-  - name: Peppers
-    sources:
-    - gbif:integrated-taxonomic-information-system-
-    - gbif:taxref
   et:
   - name: Pipralised
     preferred: true
@@ -129,6 +130,10 @@ names:
     sources:
     - col:catalogue-of-life
   sl:
+  - name: poprovke
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   - name: Kava Kava
     sources:
     - wikipedia:sl
@@ -237,8 +242,7 @@ verification:
   - tr
   sources_queried:
   - gbif
-  - powo
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

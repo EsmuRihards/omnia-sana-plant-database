@@ -7,10 +7,6 @@ names:
     - wikipedia:cs
     status: needs-review
   da:
-  - name: Karela
-    preferred: true
-    sources:
-    - col:catalogue-of-life
   - name: Bitteragurk
     sources:
     - wikipedia:da
@@ -41,6 +37,14 @@ names:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
     - gbif:united-kingdom-species-inventory-uksi
+  - name: balsam-apple
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: bitter-melon
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
   - name: Lizzard Food
     sources:
     - col:catalogue-of-life
@@ -49,14 +53,25 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:checklist-dutch-caribbean-species-regist
+  - name: carilla gourd
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
   - name: Lizzard Pepper
     sources:
     - col:catalogue-of-life
     - gbif:checklist-dutch-caribbean-species-regist
+  - name: bitter-cucumber
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
   - name: Snake Apple Bush
     sources:
     - col:catalogue-of-life
     - gbif:checklist-dutch-caribbean-species-regist
+  - name: Cerasee
+    sources:
+    - col:catalogue-of-life
   - name: Bitter squash
     sources:
     - col:catalogue-of-life
@@ -75,22 +90,6 @@ names:
   - name: Maidenapple
     sources:
     - gbif:checklist-dutch-caribbean-species-regist
-    status: needs-review
-  - name: balsam-apple
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
-  - name: bitter-melon
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
-  - name: carilla gourd
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
-  - name: bitter-cucumber
-    sources:
-    - gbif:grin-taxonomy
     status: needs-review
   - name: Bitter gourd, Bitter melon, Bitter balsam apple, Balsam apple, Wild balsam-apple, Bitter apple,
       Bitter squash, Bitter cucumber, Bitter gourd, Carilla gourd, Carilla bush, Balsam Pear, Jumbee pumpkin,
@@ -111,27 +110,27 @@ names:
     - col:catalogue-of-life
     - wikipedia:fi
   fr:
-  - name: Margose
+  - name: margose
     preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
     - gbif:taxref
-  - name: Momordique
+  - name: paroka
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: momordique
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: concombre africain
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
   - name: Melon amer
     sources:
     - col:catalogue-of-life
-  - name: paroka
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
-  - name: concombre africain
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
   - name: Margose, fausse gombo
     sources:
     - gbif:taxref
@@ -147,18 +146,18 @@ names:
     sources:
     - col:catalogue-of-life
     - wikipedia:de
+  - name: Balsambirne
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
   - name: Bittergurke
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: Balsambirne
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
   - name: amerikanische Bittergurke
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
-    status: needs-review
   hu:
   - name: Balzsamkörte
     preferred: true
@@ -198,8 +197,16 @@ names:
     sources:
     - col:catalogue-of-life
   es:
-  - name: Cundeamor
+  - name: bálsamo
     preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: balsamito
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  - name: cundeamor
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
@@ -209,18 +216,11 @@ names:
   - name: Pepino cimarrón
     sources:
     - col:catalogue-of-life
-  - name: bálsamo
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
-  - name: balsamito
-    sources:
-    - gbif:grin-taxonomy
-    status: needs-review
   sv:
-  - name: Bittergurka
+  - name: bittergurka
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:grin-taxonomy
     - wikipedia:sv
   ru:
@@ -294,5 +294,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

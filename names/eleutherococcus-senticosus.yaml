@@ -134,6 +134,7 @@ names:
   - name: russisk rot
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:backbone
     - gbif:red-list-vascular-plants-2021-norway-r-d
   ca:
@@ -186,5 +187,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

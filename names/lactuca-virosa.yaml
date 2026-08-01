@@ -10,7 +10,6 @@ names:
   - name: Locika jedovatá
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:cichorieae-systematics-portal
     - gbif:daisie-inventory-of-alien-invasive-speci
     - gbif:world-register-of-marine-species
@@ -56,11 +55,6 @@ names:
     - gbif:united-kingdom-species-inventory-uksi
     - gbif:world-register-of-marine-species
     - wikidata:Q578927
-  - name: Acrid lettuce
-    sources:
-    - col:catalogue-of-life
-    - gbif:cichorieae-systematics-portal
-    - gbif:world-register-of-marine-species
   - name: Greater Lettuce
     sources:
     - col:catalogue-of-life
@@ -69,16 +63,10 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:united-kingdom-species-inventory-uksi
-  et:
-  - name: mürksalat
-    preferred: true
+  - name: Acrid lettuce
     sources:
-    - col:catalogue-of-life
-  fi:
-  - name: rohtosalaatti
-    preferred: true
-    sources:
-    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    - gbif:world-register-of-marine-species
   fr:
   - name: Laitue vireuse
     preferred: true
@@ -91,16 +79,15 @@ names:
     - gbif:world-register-of-marine-species
     - wikidata:Q578927
     - wikipedia:fr
-  - name: Laitue sauvage
-    sources:
-    - col:catalogue-of-life
-    - gbif:cichorieae-systematics-portal
-    - gbif:world-register-of-marine-species
   - name: Laitue veneneuse
     sources:
     - col:catalogue-of-life
     - gbif:flora-helvetica-asteraceae
     - gbif:info-flora-schweiz-asteraceae
+  - name: Laitue sauvage
+    sources:
+    - gbif:cichorieae-systematics-portal
+    - gbif:world-register-of-marine-species
   - name: Laitue vénéneuse
     sources:
     - gbif:red-list-vascular-plants-2016-switzerlan
@@ -144,14 +131,6 @@ names:
     - gbif:info-flora-schweiz-asteraceae
     - gbif:red-list-vascular-plants-2016-switzerlan
     - gbif:world-register-of-marine-species
-  - name: Lattuga selvatica
-    sources:
-    - col:catalogue-of-life
-  lt:
-  - name: Nuodingoji salota
-    preferred: true
-    sources:
-    - col:catalogue-of-life
   pl:
   - name: Sałata jadowita
     preferred: true
@@ -160,11 +139,6 @@ names:
     - gbif:world-register-of-marine-species
     - wikipedia:pl
   pt:
-  - name: Alface-brava-maior
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-    - gbif:cichorieae-systematics-portal
   - name: Serralho
     sources:
     - gbif:cichorieae-systematics-portal
@@ -177,16 +151,11 @@ names:
     sources:
     - gbif:cichorieae-systematics-portal
     status: needs-review
-  sk:
-  - name: šalát jedovatý
-    preferred: true
+  - name: Alface-brava-maior
     sources:
-    - col:catalogue-of-life
+    - gbif:cichorieae-systematics-portal
+    status: needs-review
   es:
-  - name: lechuga silvestre
-    preferred: true
-    sources:
-    - col:catalogue-of-life
   - name: Cerraya
     sources:
     - gbif:cichorieae-systematics-portal
@@ -208,7 +177,7 @@ names:
     - gbif:cichorieae-systematics-portal
     status: needs-review
   sv:
-  - name: giftsallat
+  - name: Giftsallat
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -219,10 +188,9 @@ names:
     - wikipedia:sv
   ru:
   - name: Латук ядовитый
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:ru
+    status: needs-review
   'no':
   - name: giftsalat
     preferred: true
@@ -231,10 +199,6 @@ names:
     - gbif:backbone
     - gbif:red-list-vascular-plants-2021-norway-r-d
   ca:
-  - name: Enciam de bosc
-    preferred: true
-    sources:
-    - col:catalogue-of-life
   - name: Enciam boscà
     sources:
     - gbif:cichorieae-systematics-portal
@@ -283,5 +247,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

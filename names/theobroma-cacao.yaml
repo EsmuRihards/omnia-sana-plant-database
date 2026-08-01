@@ -39,12 +39,14 @@ names:
     - gbif:grin-taxonomy
     - gbif:integrated-taxonomic-information-system-
     - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
     - wikidata:Q42385
   - name: Cocoa
     sources:
     - col:catalogue-of-life
     - gbif:checklist-dutch-caribbean-species-regist
     - gbif:grin-taxonomy
+    - gbif:the-iucn-red-list-of-threatened-species
   - name: Chocolate tree
     sources:
     - col:catalogue-of-life
@@ -165,8 +167,12 @@ names:
     - wikidata:Q42385
     status: needs-review
   es:
-  - name: cacaotero
+  - name: Cacao
     preferred: true
+    sources:
+    - gbif:listado-de-plantas-de-uso-y-aprovechamie
+    - gbif:the-iucn-red-list-of-threatened-species
+  - name: cacaotero
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
@@ -182,10 +188,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: Cacao
-    sources:
-    - gbif:listado-de-plantas-de-uso-y-aprovechamie
-    status: needs-review
   - name: Kakau
     sources:
     - gbif:listado-de-plantas-de-uso-y-aprovechamie
@@ -336,5 +338,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

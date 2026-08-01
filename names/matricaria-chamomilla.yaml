@@ -1,6 +1,11 @@
 id: matricaria-chamomilla
 scientific_name: Matricaria chamomilla
 names:
+  bg:
+  - name: Лечебна лайка
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   hr:
   - name: Prava kamilica
     sources:
@@ -383,14 +388,12 @@ names:
     sources:
     - col:catalogue-of-life
     - wikipedia:sr
-  - name: Kamilica
-    sources:
-    - col:catalogue-of-life
   bs:
   - name: Kamilica
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikipedia:bs
-    status: needs-review
   sq:
   - name: Kamomili
     preferred: true
@@ -455,5 +458,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

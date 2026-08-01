@@ -120,7 +120,7 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:martha-s-vineyard-species-checklist
-  - name: narrow-leaved plantain
+  - name: Narrow-leaved Plantain
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -189,7 +189,7 @@ names:
     - wikidata:Q157408
     status: needs-review
   fi:
-  - name: heinäratamo
+  - name: Heinäratamo
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -216,8 +216,8 @@ names:
     - gbif:grin-taxonomy
   - name: plantain lancé olé
     sources:
-    - col:catalogue-of-life
     - gbif:grin-taxonomy
+    status: needs-review
   - name: Plantain lancéolé, Herbe-aux-cinq-coutures, herbe-à-cinq-côtes
     sources:
     - gbif:taxref
@@ -408,7 +408,7 @@ names:
     - wikidata:Q157408
     - wikipedia:uk
   'no':
-  - name: smalkjempe
+  - name: Smalkjempe
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -522,5 +522,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

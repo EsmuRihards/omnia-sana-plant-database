@@ -42,7 +42,7 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: Indian-mulberry
+  - name: indian-mulberry
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
@@ -64,19 +64,16 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: Cheese Fruit
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q234238
   - name: French mulberry
-    sources:
-    - col:catalogue-of-life
-  - name: Rotten cheese fruit
     sources:
     - col:catalogue-of-life
   - name: Noni
     sources:
     - gbif:checklist-dutch-caribbean-species-regist
+    status: needs-review
+  - name: cheese fruit
+    sources:
+    - wikidata:Q234238
     status: needs-review
   et:
   - name: India nonipuu
@@ -160,9 +157,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: Morinda
-    sources:
-    - col:catalogue-of-life
   sk:
   - name: morinda citrusolistá
     preferred: true
@@ -263,5 +257,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

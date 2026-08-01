@@ -8,7 +8,7 @@ names:
     - col:catalogue-of-life
     - wikipedia:hr
   cs:
-  - name: Divizna malokvětá
+  - name: divizna malokvětá
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -423,10 +423,6 @@ names:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
     - wikidata:Q160095
-  - name: Verbasco
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q160095
   - name: Gordolobo
     sources:
     - col:catalogue-of-life
@@ -455,6 +451,10 @@ names:
     - wikidata:Q160095
     status: needs-review
   - name: barbasco
+    sources:
+    - wikidata:Q160095
+    status: needs-review
+  - name: verbasco
     sources:
     - wikidata:Q160095
     status: needs-review
@@ -652,6 +652,9 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q160095
+  - name: Burunca
+    sources:
+    - col:catalogue-of-life
 verification:
   checked_languages:
   - bg
@@ -692,5 +695,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

@@ -201,7 +201,6 @@ names:
     - wikipedia:de
   - name: Gewöhnliche Mariendistel
     sources:
-    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - gbif:taxon-list-of-vascular-plants-from-bavar
     - wikidata:Q193798
@@ -273,9 +272,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: cardo-mariano
-    sources:
-    - col:catalogue-of-life
   - name: cardo-de-santa-maria
     sources:
     - col:catalogue-of-life
@@ -432,5 +428,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

@@ -23,6 +23,12 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
     - gbif:integrated-taxonomic-information-system-
+  - name: milkvetch
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:the-paleobiology-database
   - name: milk-vetch
     sources:
     - col:catalogue-of-life
@@ -33,15 +39,15 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
-  - name: milkvetch
-    sources:
-    - gbif:checklist-of-vermont-species
-    - gbif:integrated-taxonomic-information-system-
-    - gbif:the-paleobiology-database
   - name: Milk-vetches
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:taxref
+  et:
+  - name: Hundihammas
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   fi:
   - name: kurjenherneet
     preferred: true
@@ -49,15 +55,15 @@ names:
     - col:catalogue-of-life
     - gbif:the-finbif-checklist-of-finnish-species
   fr:
-  - name: Astragales
+  - name: Astragale
     preferred: true
     sources:
     - col:catalogue-of-life
-    - gbif:integrated-taxonomic-information-system-
-  - name: Astragale
-    sources:
     - gbif:taxref
-    status: needs-review
+  - name: Astragales
+    sources:
+    - col:catalogue-of-life
+    - gbif:integrated-taxonomic-information-system-
   de:
   - name: Tragant
     preferred: true
@@ -89,12 +95,20 @@ names:
     preferred: true
     sources:
     - col:catalogue-of-life
+  sl:
+  - name: grahovec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   sv:
   - name: vedlar
     preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: Vedelsläktet
+    sources:
+    - col:catalogue-of-life
   uk:
   - name: Астрагал
     preferred: true
@@ -107,14 +121,19 @@ names:
     - col:catalogue-of-life
     - gbif:backbone
   ca:
-  - name: Àstragals
+  - name: Astràgal
     preferred: true
     sources:
     - col:catalogue-of-life
-  - name: astràgal
-    sources:
     - gbif:mimosaceae-papilionaceae-fl-pais-s-catal
-    status: needs-review
+  - name: Àstragals
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Куравай
+    preferred: true
+    sources:
+    - col:catalogue-of-life
   tr:
   - name: geven
     preferred: true
@@ -158,8 +177,7 @@ verification:
   - tr
   sources_queried:
   - gbif
-  - powo
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

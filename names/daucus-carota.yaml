@@ -245,14 +245,13 @@ names:
     - col:catalogue-of-life
     - gbif:flora-helvetica-apiaceae
     - gbif:info-flora-schweiz-apiaceae
-  - name: gewöhnliche Möhre
-    sources:
-    - col:catalogue-of-life
-    - gbif:red-list-vascular-plants-2018-germany-ro
-    - wikidata:Q30056
   - name: Rüebli
     sources:
     - col:catalogue-of-life
+  - name: Gewöhnliche Möhre
+    sources:
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - wikidata:Q30056
   el:
   - name: Καρότο
     preferred: true
@@ -528,5 +527,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

@@ -29,14 +29,6 @@ names:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
     - wikidata:Q324714
-  - name: spadeleaf
-    sources:
-    - col:catalogue-of-life
-    - gbif:global-register-of-introduced-and-invasi
-    - gbif:integrated-taxonomic-information-system-
-    - gbif:taxref
-    - gbif:world-register-of-marine-species
-    - wikidata:Q324714
   - name: thankuni
     sources:
     - col:catalogue-of-life
@@ -79,6 +71,13 @@ names:
   - name: Urban Marsh Pepperwort
     sources:
     - col:catalogue-of-life
+  - name: Spadeleaf
+    sources:
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:taxref
+    - gbif:world-register-of-marine-species
+    - wikidata:Q324714
   - name: Centella
     sources:
     - gbif:the-iucn-red-list-of-threatened-species
@@ -234,5 +233,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

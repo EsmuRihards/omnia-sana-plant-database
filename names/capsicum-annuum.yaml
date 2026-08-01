@@ -504,22 +504,21 @@ names:
     - gbif:listado-de-plantas-de-uso-y-aprovechamie
     status: needs-review
   sv:
-  - name: spanskpeppar
+  - name: Spanskpeppar
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:dyntaxa-svensk-taxonomisk-databas
     - gbif:grin-taxonomy
     - wikidata:Q1380
     - wikipedia:sv
-  - name: paprika
-    sources:
-    - col:catalogue-of-life
-    - gbif:dyntaxa-svensk-taxonomisk-databas
   - name: spansk peppar
     sources:
     - col:catalogue-of-life
     - gbif:dyntaxa-svensk-taxonomisk-databas
+  - name: paprika
+    sources:
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    status: needs-review
   ru:
   - name: Перец стручковый
     preferred: true
@@ -624,5 +623,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

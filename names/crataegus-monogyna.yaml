@@ -13,6 +13,9 @@ names:
     sources:
     - col:catalogue-of-life
     - wikipedia:hr
+  - name: Glog
+    sources:
+    - col:catalogue-of-life
   cs:
   - name: hloh jednosemenný
     preferred: true
@@ -248,9 +251,6 @@ names:
     sources:
     - col:catalogue-of-life
     - wikipedia:sl
-  - name: Glog
-    sources:
-    - col:catalogue-of-life
   es:
   - name: Espino Albar
     preferred: true
@@ -269,7 +269,7 @@ names:
     - gbif:daisie-inventory-of-alien-invasive-speci
     status: needs-review
   sv:
-  - name: Trubbhagtorn
+  - name: trubbhagtorn
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -374,5 +374,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

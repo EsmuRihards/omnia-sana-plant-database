@@ -7,16 +7,6 @@ names:
     - wikipedia:hr
     status: needs-review
   en:
-  - name: Gymnema
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-  - name: ram's-horn
-    sources:
-    - col:catalogue-of-life
-  - name: miracle-fruit
-    sources:
-    - col:catalogue-of-life
   - name: cowplant
     sources:
     - wikidata:Q2725835
@@ -25,11 +15,6 @@ names:
     sources:
     - wikidata:Q2725835
     status: needs-review
-  sv:
-  - name: Gymnema
-    preferred: true
-    sources:
-    - col:catalogue-of-life
   ca:
   - name: Gymnema sylvestris
     sources:
@@ -73,8 +58,7 @@ verification:
   - tr
   sources_queried:
   - gbif
-  - powo
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

@@ -135,7 +135,7 @@ names:
     - gbif:vernacular-names-of-iberian-fungi-in-spa
     status: needs-review
   sv:
-  - name: Igelkottstaggsvamp
+  - name: igelkottstaggsvamp
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -146,6 +146,7 @@ names:
     - wikipedia:sv
   - name: igelkottsvamp
     sources:
+    - col:catalogue-of-life
     - gbif:dyntaxa-svensk-taxonomisk-databas
     - gbif:the-swedish-red-list-2025
   ru:
@@ -232,5 +233,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

@@ -7,9 +7,10 @@ names:
     - wikipedia:hr
     status: needs-review
   cs:
-  - name: Vrbovka malokvětá
+  - name: vrbovka malokvětá
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159094
     - wikipedia:cs
   da:
@@ -34,6 +35,7 @@ names:
   - name: Small-flowered willowherb
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:belgian-species-list
     - gbif:checklist-of-vermont-species
     - wikidata:Q159094
@@ -45,6 +47,14 @@ names:
     - gbif:taxref
     - gbif:the-iucn-red-list-of-threatened-species
     - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q159094
+  - name: smallflower hairy willowherb
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vascular-plants-in-korea
+    - gbif:checklist-of-vermont-species
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
     - wikidata:Q159094
   - name: small-flower willowherb
     sources:
@@ -71,13 +81,6 @@ names:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:database-of-vascular-plants-of-canada-va
-  - name: Smallflower hairy willowherb
-    sources:
-    - gbif:checklist-of-vascular-plants-in-korea
-    - gbif:checklist-of-vermont-species
-    - gbif:global-register-of-introduced-and-invasi
-    - gbif:integrated-taxonomic-information-system-
-    - wikidata:Q159094
   fi:
   - name: nukkahorsma
     preferred: true
@@ -88,8 +91,15 @@ names:
     - wikidata:Q159094
     - wikipedia:fi
   fr:
-  - name: épilobe à petites fleurs
+  - name: epilobe à petites fleurs
     preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - gbif:red-list-vascular-plants-2016-switzerlan
+    - wikidata:Q159094
+  - name: épilobe à petites fleurs
     sources:
     - col:catalogue-of-life
     - gbif:database-of-vascular-plants-of-canada-va
@@ -106,16 +116,10 @@ names:
     - col:catalogue-of-life
     - gbif:flora-helvetica-onagraceae
     - gbif:info-flora-schweiz-onagraceae
-  - name: Epilobe à petites fleurs
-    sources:
-    - gbif:belgian-species-list
-    - gbif:iucn-red-list-vascular-plants-2018-metro
-    - gbif:red-list-vascular-plants-2016-switzerlan
-    - wikidata:Q159094
   - name: encore épilobe-mollet
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159094
-    status: needs-review
   de:
   - name: Kleinblütiges Weidenröschen
     preferred: true
@@ -141,6 +145,7 @@ names:
   - name: Kisvirágú füzike
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159094
     - wikipedia:hu
   it:
@@ -156,13 +161,15 @@ names:
   - name: Wierzbownica drobnokwiatowa
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159094
     - wikipedia:pl
   pt:
   - name: epilóbio-de-flor-miúda
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159094
-    status: needs-review
   ro:
   - name: Pufulița cu flori mici
     sources:
@@ -170,20 +177,23 @@ names:
     status: needs-review
   sk:
   - name: vŕbovka malokvetá
-    sources:
-    - wikidata:Q159094
-    status: needs-review
-  sl:
-  - name: Drobnocvetni vrbovec
     preferred: true
     sources:
+    - col:catalogue-of-life
+    - wikidata:Q159094
+  sl:
+  - name: drobnocvetni vrbovec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
     - wikidata:Q159094
     - wikipedia:sl
   es:
   - name: adelfilla de flor pequeña
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159094
-    status: needs-review
   sv:
   - name: luddunört
     preferred: true
@@ -262,5 +272,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

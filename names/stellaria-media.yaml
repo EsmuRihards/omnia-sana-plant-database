@@ -8,18 +8,14 @@ names:
     - col:catalogue-of-life
     - wikidata:Q158711
     - wikipedia:bg
-  - name: Средна звездица
-    sources:
-    - col:catalogue-of-life
   hr:
-  - name: Mišjakinja
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q158711
   - name: Obična mišjakinja
     sources:
     - wikipedia:hr
+    status: needs-review
+  - name: Mišjakinja
+    sources:
+    - wikidata:Q158711
     status: needs-review
   cs:
   - name: ptačinec prostřední
@@ -32,6 +28,9 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q158711
+  - name: ptačinec bledý
+    sources:
+    - col:catalogue-of-life
   da:
   - name: Almindelig fuglegræs
     preferred: true
@@ -44,12 +43,12 @@ names:
     - wikipedia:da
   - name: Fuglegræs
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: Fuglegræs-Fladstjerne
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   nl:
   - name: Vogelmuur
     preferred: true
@@ -59,8 +58,11 @@ names:
     - wikipedia:nl
   - name: zandhoornbloem
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
+  - name: Duinvogelmuur
+    sources:
+    - col:catalogue-of-life
   en:
   - name: Chickweed
     preferred: true
@@ -85,19 +87,11 @@ names:
     - gbif:united-kingdom-species-inventory-uksi
     - gbif:world-register-of-marine-species
     - wikidata:Q158711
-  - name: scarwort
+  - name: little mouse-ear chickweed
     sources:
     - col:catalogue-of-life
-  - name: pamplinas
-    sources:
-    - col:catalogue-of-life
-  - name: Peppergrass
-    sources:
-    - col:catalogue-of-life
-  - name: adder's mouth
-    sources:
-    - col:catalogue-of-life
-  - name: indian chickweed
+    - wikidata:Q158711
+  - name: lesser chickweed
     sources:
     - col:catalogue-of-life
   - name: Nodding Chickweed
@@ -113,10 +107,6 @@ names:
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
-  - name: little mouse-ear chickweed
-    sources:
-    - wikidata:Q158711
-    status: needs-review
   et:
   - name: Vesihein
     preferred: true
@@ -135,8 +125,8 @@ names:
     - wikipedia:fi
   - name: Vesiheinä
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   fr:
   - name: Mouron des oiseaux
     preferred: true
@@ -159,6 +149,10 @@ names:
     - col:catalogue-of-life
     - gbif:database-of-vascular-plants-of-canada-va
     - wikidata:Q158711
+  - name: Morgeline
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
   - name: Mouron blanc
     sources:
     - col:catalogue-of-life
@@ -167,10 +161,9 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:database-of-vascular-plants-of-canada-va
-  - name: Morgeline
+  - name: stellaire pâle
     sources:
-    - wikidata:Q158711
-    status: needs-review
+    - col:catalogue-of-life
   - name: Stellaire intermédiaire, Mouron, Mouron blanc
     sources:
     - gbif:taxref
@@ -215,8 +208,14 @@ names:
     - gbif:info-flora-schweiz-caryophyllaceae
   - name: Hühnerdarm
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
+  - name: Bleiche Miere
+    sources:
+    - col:catalogue-of-life
+  - name: Bleiche Sternmiere
+    sources:
+    - col:catalogue-of-life
   - name: Vogel-Sternmiere, Vogelmiere
     sources:
     - gbif:eunis-biodiversity-database
@@ -239,9 +238,6 @@ names:
     - col:catalogue-of-life
     - wikidata:Q158711
     - wikipedia:ga
-  - name: Fuilig
-    sources:
-    - col:catalogue-of-life
   it:
   - name: Centocchio comune
     preferred: true
@@ -253,16 +249,16 @@ names:
     - wikidata:Q158711
   - name: Bellichina
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: Centonchio
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: Erba paperina
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   lv:
   - name: Parastā virza
     preferred: true
@@ -296,6 +292,10 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: merugem
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
   - name: mirurje
     sources:
     - col:catalogue-of-life
@@ -312,6 +312,14 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: morugem vulgar
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: morugem-branca
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
   - name: erva-de-passarinho
     sources:
     - col:catalogue-of-life
@@ -320,6 +328,10 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: morugem-verdadeira
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
   - name: morrião-de-passarinho
     sources:
     - col:catalogue-of-life
@@ -333,22 +345,6 @@ names:
   - name: morrião-dos-passarinhos
     sources:
     - col:catalogue-of-life
-  - name: merugem
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morugem vulgar
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morugem-branca
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morugem-verdadeira
-    sources:
-    - wikidata:Q158711
-    status: needs-review
   ro:
   - name: Răcovină
     preferred: true
@@ -356,9 +352,6 @@ names:
     - col:catalogue-of-life
     - wikidata:Q158711
     - wikipedia:ro
-  - name: Racovina
-    sources:
-    - col:catalogue-of-life
   sk:
   - name: hviezdica prostredná
     preferred: true
@@ -372,6 +365,9 @@ names:
     - col:catalogue-of-life
     - wikidata:Q158711
     - wikipedia:sl
+  - name: bleda zvezdica
+    sources:
+    - col:catalogue-of-life
   es:
   - name: pamplina
     preferred: true
@@ -384,377 +380,371 @@ names:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
     - wikidata:Q158711
+  - name: fozón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: boruja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: coruja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: lirada
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: majura
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: maruja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: marusa
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: meluja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: melujo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: meruja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: merusa
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: meruxa
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: meruya
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moluja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moraca
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moruca
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moruja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: morujo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: morusa
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moruxa
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moruxo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: muraje
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: muruja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: regaho
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: regajo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: álsine
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: ameruja
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: berraña
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: la dama
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: lambuco
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: lambujo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: lapilla
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: marujas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: marusas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: melujín
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: merubia
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: merujas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: merujón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: merusia
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: miosota
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: morusia
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: morusín
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moruxia
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moruxón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: murages
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: murajes
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: picapol
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: pijuelo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: cloquera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: melugino
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: melujino
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: merugino
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: morruges
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: morujina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: murujina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: pajarera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: piejuelo
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: regachal
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: gallinera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moruquera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: pamplinas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: moruquilla
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: gargantilla
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: repipionito
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: ala de monte
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: ala de mosca
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: picagallinas
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: oreja de ratón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: yerba cloquera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: yerba pajarera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: boca de gallina
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: hierba pajarera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: hierba ponedora
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: orejas de ratón
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: yerba gallinera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: hierba canariera
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
   - name: hierba gallinera
     sources:
     - col:catalogue-of-life
     - wikidata:Q158711
-  - name: caa piquí
-    sources:
-    - col:catalogue-of-life
-  - name: quilloi-quilloi
-    sources:
-    - col:catalogue-of-life
-  - name: fozón
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: boruja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: coruja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: lirada
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: majura
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: maruja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: marusa
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: meluja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: melujo
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: meruja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: merusa
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: meruxa
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: meruya
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moluja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moraca
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moruca
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moruja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morujo
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morusa
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moruxa
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moruxo
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: muraje
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: muruja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: regaho
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: regajo
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: álsine
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: ameruja
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: berraña
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: la dama
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: lambuco
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: lambujo
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: lapilla
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: marujas
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: marusas
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: melujín
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: merubia
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: merujas
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: merujón
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: merusia
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: miosota
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morusia
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morusín
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moruxia
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moruxón
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: murages
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: murajes
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: picapol
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: pijuelo
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: cloquera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: melugino
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: melujino
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: merugino
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morruges
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: morujina
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: murujina
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: pajarera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: piejuelo
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: regachal
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: gallinera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moruquera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: pamplinas
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: moruquilla
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: gargantilla
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: repipionito
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: ala de monte
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: ala de mosca
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: pica gallina
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: picagallinas
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: oreja de ratón
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: yerba cloquera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: yerba pajarera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: boca de gallina
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: hierba pajarera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: hierba ponedora
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: orejas de ratón
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: yerba gallinera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
-  - name: hierba canariera
-    sources:
-    - wikidata:Q158711
-    status: needs-review
   - name: tripa de gallina
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: bocado de gallina
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: hierba gallinaria
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: yerba de canarios
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: yerba de las aves
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: hierba de canarios
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: hierba de las aves
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: orejuelas de ratón
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: pamplina de secano
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: pamplina de huertos
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: pamplina de canarios
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: mariquita de invierno
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: yerba de los canarios
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: hierba de los canarios
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
+  - name: pica gallina
     sources:
     - wikidata:Q158711
     status: needs-review
@@ -780,12 +770,12 @@ names:
     - wikidata:Q158711
   - name: Vassarv
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: Vannarre
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: pihatähtimö
     sources:
     - gbif:nordic-crop-wild-relative-cwr-checklist
@@ -801,9 +791,6 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q158711
-  - name: Звездчатка мокрица
-    sources:
-    - col:catalogue-of-life
   uk:
   - name: Зірочник середній
     preferred: true
@@ -837,16 +824,17 @@ names:
   - name: Mišjakinja
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
     - wikipedia:sr
   - name: Мишјакиња
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   - name: мишњакиња
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
   is:
   - name: Haugarfi
     preferred: true
@@ -860,32 +848,25 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q158711
+  - name: Burrissol
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q158711
   - name: Morró de canari
     sources:
     - wikipedia:ca
-    status: needs-review
-  - name: Burrissol
-    sources:
-    - wikidata:Q158711
     status: needs-review
   be:
   - name: Зоркаўка сярэдняя
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
     - wikipedia:be
   - name: Макрыца
     sources:
+    - col:catalogue-of-life
     - wikidata:Q158711
-    status: needs-review
-  tr:
-  - name: Kuşotu
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-  - name: Serçe Dili
-    sources:
-    - col:catalogue-of-life
 verification:
   checked_languages:
   - bg
@@ -926,5 +907,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

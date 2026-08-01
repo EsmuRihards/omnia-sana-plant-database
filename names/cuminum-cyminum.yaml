@@ -58,8 +58,8 @@ names:
     - wikipedia:fi
   - name: juustokumina
     sources:
-    - col:catalogue-of-life
     - wikidata:Q132624
+    status: needs-review
   fr:
   - name: Cumin
     preferred: true
@@ -68,25 +68,25 @@ names:
     - gbif:iucn-red-list-vascular-plants-2018-metro
     - wikidata:Q132624
     - wikipedia:fr
-  - name: faux anis
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q132624
-  - name: cumin blanc
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q132624
   - name: cumin de Malte
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: cumin de Maroc
+  - name: faux anis
     sources:
-    - col:catalogue-of-life
     - wikidata:Q132624
+    status: needs-review
   - name: Cumin vrai
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: cumin blanc
+    sources:
+    - wikidata:Q132624
+    status: needs-review
+  - name: cumin de Maroc
+    sources:
+    - wikidata:Q132624
     status: needs-review
   - name: Cumin commun, Cumin
     sources:
@@ -100,27 +100,27 @@ names:
     - gbif:grin-taxonomy
     - wikidata:Q132624
     - wikipedia:de
-  - name: Mutterkümmel
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q132624
-  - name: Weißer Kümmel
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q132624
-  - name: Welscher Kümmel
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q132624
-  - name: Römischer Kümmel
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q132624
   - name: Cumin
     sources:
     - wikidata:Q132624
     status: needs-review
   - name: Kumin
+    sources:
+    - wikidata:Q132624
+    status: needs-review
+  - name: Mutterkümmel
+    sources:
+    - wikidata:Q132624
+    status: needs-review
+  - name: Weißer Kümmel
+    sources:
+    - wikidata:Q132624
+    status: needs-review
+  - name: Welscher Kümmel
+    sources:
+    - wikidata:Q132624
+    status: needs-review
+  - name: Römischer Kümmel
     sources:
     - wikidata:Q132624
     status: needs-review
@@ -153,8 +153,8 @@ names:
     - wikidata:Q132624
   - name: cumino romano
     sources:
-    - col:catalogue-of-life
     - wikidata:Q132624
+    status: needs-review
   lv:
   - name: Kumīns
     sources:
@@ -207,10 +207,9 @@ names:
     - col:catalogue-of-life
     - wikipedia:sk
   sl:
-  - name: rimska kumina
+  - name: Rimska kumina
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q132624
     - wikipedia:sl
   es:
@@ -250,14 +249,14 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:backbone
-  - name: spisskarve
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q132624
   - name: Spisskummen
     sources:
     - col:catalogue-of-life
     - wikidata:Q132624
+  - name: spisskarve
+    sources:
+    - wikidata:Q132624
+    status: needs-review
   sr:
   - name: Кумин
     sources:
@@ -277,7 +276,6 @@ names:
   - name: Kimyon
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q132624
     - wikipedia:tr
   - name: Çemen
@@ -321,8 +319,7 @@ verification:
   - tr
   sources_queried:
   - gbif
-  - powo
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

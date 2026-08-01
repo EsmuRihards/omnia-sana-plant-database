@@ -96,13 +96,6 @@ names:
     - gbif:taxref
     - gbif:united-kingdom-species-inventory-uksi
     - wikidata:Q158289
-  - name: Klamathweed
-    sources:
-    - col:catalogue-of-life
-    - gbif:checklist-of-vermont-species
-    - gbif:grin-taxonomy
-    - gbif:integrated-taxonomic-information-system-
-    - gbif:martha-s-vineyard-species-checklist
   - name: Common St. John's Wort
     sources:
     - col:catalogue-of-life
@@ -182,6 +175,12 @@ names:
     - gbif:integrated-taxonomic-information-system-
     - gbif:martha-s-vineyard-species-checklist
     - wikidata:Q158289
+  - name: Klamathweed
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:grin-taxonomy
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:martha-s-vineyard-species-checklist
   - name: St. Johnswort
     sources:
     - gbif:checklist-of-vermont-species
@@ -821,8 +820,7 @@ verification:
   - tr
   sources_queried:
   - gbif
-  - powo
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

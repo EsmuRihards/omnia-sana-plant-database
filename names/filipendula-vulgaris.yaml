@@ -95,7 +95,6 @@ names:
   - name: Kleines Mädesüß
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:red-list-vascular-plants-2018-germany-ro
     - gbif:taxon-list-of-vascular-plants-from-bavar
     - wikidata:Q148961
@@ -275,5 +274,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

@@ -7,9 +7,10 @@ names:
     - wikipedia:bg
     status: needs-review
   cs:
-  - name: Outkovka pestrá
+  - name: outkovka pestrá
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q753833
     - wikipedia:cs
   da:
@@ -23,6 +24,7 @@ names:
   - name: Gewoon elfenbankje
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q753833
     - wikipedia:nl
   en:
@@ -50,9 +52,10 @@ names:
     - wikipedia:et
     status: needs-review
   fi:
-  - name: Silkkivyökääpä
+  - name: silkkivyökääpä
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q753833
     - wikipedia:fi
   fr:
@@ -86,9 +89,10 @@ names:
     - wikipedia:pl
     status: needs-review
   sl:
-  - name: Pisana ploskocevka
+  - name: pisana ploskocevka
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q753833
     - wikipedia:sl
   es:
@@ -194,5 +198,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

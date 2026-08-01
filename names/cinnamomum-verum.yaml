@@ -28,7 +28,6 @@ names:
     - gbif:the-iucn-red-list-of-threatened-species
   - name: cinnamon
     sources:
-    - col:catalogue-of-life
     - gbif:global-register-of-introduced-and-invasi
     - gbif:grin-taxonomy
     - gbif:integrated-taxonomic-information-system-
@@ -50,7 +49,7 @@ names:
     - col:catalogue-of-life
     - wikipedia:fi
   fr:
-  - name: Cannelier de Ceylan
+  - name: cannelier de Ceylan
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -164,24 +163,25 @@ names:
     - col:catalogue-of-life
     - wikipedia:sk
   sl:
+  - name: cejlonski cimetovec
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q370239
   - name: Cimetovec
     sources:
     - wikipedia:sl
     status: needs-review
-  - name: cejlonski cimetovec
-    sources:
-    - wikidata:Q370239
-    status: needs-review
   es:
-  - name: canela
+  - name: canelero de Ceilán
     preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:grin-taxonomy
-  - name: canelero de Ceilán
+  - name: canela
     sources:
-    - col:catalogue-of-life
     - gbif:grin-taxonomy
+    status: needs-review
   sv:
   - name: äkta kanel
     preferred: true
@@ -274,8 +274,7 @@ verification:
   - tr
   sources_queried:
   - gbif
-  - powo
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

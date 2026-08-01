@@ -93,8 +93,8 @@ names:
     - wikipedia:fi
   - name: Kuumepuu
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159528
-    status: needs-review
   fr:
   - name: Gommier bleu
     preferred: true
@@ -261,12 +261,12 @@ names:
     - wikipedia:ru
   - name: Бесстыдница
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159528
-    status: needs-review
   - name: Эвкалипт шариковый
     sources:
+    - col:catalogue-of-life
     - wikidata:Q159528
-    status: needs-review
   uk:
   - name: Евкаліпт кулястий
     sources:
@@ -324,5 +324,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

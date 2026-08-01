@@ -73,6 +73,10 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q26899
+  - name: Buckeye
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26899
   - name: horse-chestnut
     sources:
     - col:catalogue-of-life
@@ -94,6 +98,18 @@ names:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
+  - name: Spanish chestnut
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26899
+  - name: White Horse Chestnut
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26899
+  - name: European horse chestnut
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q26899
   - name: European horse-chestnut
     sources:
     - col:catalogue-of-life
@@ -112,23 +128,7 @@ names:
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
-  - name: Buckeye
-    sources:
-    - wikidata:Q26899
-    status: needs-review
-  - name: Spanish chestnut
-    sources:
-    - wikidata:Q26899
-    status: needs-review
-  - name: White Horse Chestnut
-    sources:
-    - wikidata:Q26899
-    status: needs-review
   - name: European horsechestnut
-    sources:
-    - wikidata:Q26899
-    status: needs-review
-  - name: European horse chestnut
     sources:
     - wikidata:Q26899
     status: needs-review
@@ -490,5 +490,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

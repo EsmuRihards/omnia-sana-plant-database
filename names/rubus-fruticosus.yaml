@@ -14,6 +14,7 @@ names:
     - gbif:checklist-of-vascular-plants-in-korea
     - gbif:checklist-of-vermont-species
     - gbif:taxref
+    - gbif:the-iucn-red-list-of-threatened-species
   - name: shrubby blackberry
     sources:
     - gbif:checklist-of-vermont-species
@@ -32,6 +33,10 @@ names:
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:integrated-taxonomic-information-system-
+  - name: Bramble
+    sources:
+    - gbif:the-iucn-red-list-of-threatened-species
+    status: needs-review
   et:
   - name: Pampel
     sources:
@@ -157,5 +162,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

@@ -279,6 +279,9 @@ names:
     sources:
     - col:catalogue-of-life
     - wikidata:Q131219
+  - name: pumpumpálé
+    sources:
+    - col:catalogue-of-life
   ga:
   - name: Caisearbhán
     preferred: true
@@ -671,5 +674,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

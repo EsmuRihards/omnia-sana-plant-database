@@ -112,7 +112,7 @@ names:
     - wikipedia:ga
     status: needs-review
   it:
-  - name: Zenzero
+  - name: zenzero
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -161,7 +161,7 @@ names:
     - wikipedia:sl
     status: needs-review
   es:
-  - name: Jengibre
+  - name: jengibre
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -272,5 +272,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

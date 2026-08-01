@@ -9,10 +9,9 @@ names:
     - wikipedia:bg
   cs:
   - name: Hadí kořen větší
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:cs
+    status: needs-review
   - name: rdesno hadí kořen
     sources:
     - wikidata:Q112917
@@ -21,14 +20,12 @@ names:
   - name: Slangeurt
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:da
   nl:
   - name: Adderwortel
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:nl
   - name: Miltkruid
@@ -48,21 +45,11 @@ names:
     - wikidata:Q112917
     status: needs-review
   en:
-  - name: Bistort
+  - name: Common bistort
     preferred: true
     sources:
-    - col:catalogue-of-life
-  - name: Common bistort
-    sources:
-    - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
     - wikidata:Q112917
-  - name: Meadow Bistort
-    sources:
-    - col:catalogue-of-life
-  - name: European bistort
-    sources:
-    - col:catalogue-of-life
   - name: Adderwort
     sources:
     - wikidata:Q112917
@@ -125,46 +112,24 @@ names:
     sources:
     - wikidata:Q112917
     - wikipedia:et
-  - name: harilik ussitatar
-    sources:
-    - col:catalogue-of-life
   fi:
-  - name: isokonnantatar
+  - name: Isokonnantatar
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:fi
   fr:
   - name: Renouée bistorte
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:fr
-  - name: Bistorte
-    sources:
-    - col:catalogue-of-life
-  - name: Langue de Bœuf
-    sources:
-    - col:catalogue-of-life
-  - name: Bistorte commune
-    sources:
-    - col:catalogue-of-life
-  - name: Bistorte officinale
-    sources:
-    - col:catalogue-of-life
   de:
   - name: Schlangen-Knöterich
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:de
-  - name: Wiesen-Knöterich
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q112917
   - name: Zahnbürste
     sources:
     - wikidata:Q112917
@@ -177,6 +142,10 @@ names:
     sources:
     - wikidata:Q112917
     status: needs-review
+  - name: Wiesen-Knöterich
+    sources:
+    - wikidata:Q112917
+    status: needs-review
   - name: Schlangen-Wiesenknöterich
     sources:
     - wikidata:Q112917
@@ -185,20 +154,8 @@ names:
   - name: Kígyógyökerű keserűfű
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:hu
-  it:
-  - name: Serpentaria
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-  - name: Poligono bistorta
-    sources:
-    - col:catalogue-of-life
-  - name: Bistorta medicinale
-    sources:
-    - col:catalogue-of-life
   lv:
   - name: Zalkšu sūrene
     preferred: true
@@ -209,14 +166,12 @@ names:
   - name: Paprastoji gyvatžolė
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:lt
   pl:
-  - name: Rdest wężownik
+  - name: Rdest Wężownik
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:pl
   pt:
@@ -225,17 +180,15 @@ names:
     - wikipedia:pt
     status: needs-review
   sk:
-  - name: hadovník väčší
+  - name: Hadovník väčší
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:sk
   sl:
-  - name: kačja dresen
+  - name: Kačja dresen
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:sl
   es:
@@ -271,21 +224,19 @@ names:
   - name: Stor ormrot
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:sv
   ru:
   - name: Горец змеиный
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:ru
-  - name: Змеевик большой
-    sources:
-    - col:catalogue-of-life
-    - wikidata:Q112917
   - name: Раковые шейки
+    sources:
+    - wikidata:Q112917
+    status: needs-review
+  - name: Змеевик большой
     sources:
     - wikidata:Q112917
     status: needs-review
@@ -293,14 +244,8 @@ names:
   - name: Гірчак зміїний
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q112917
     - wikipedia:uk
-  'no':
-  - name: ormerot
-    preferred: true
-    sources:
-    - col:catalogue-of-life
   is:
   - name: Slöngusúra
     sources:
@@ -308,10 +253,9 @@ names:
     status: needs-review
   ca:
   - name: Bistorta
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:ca
+    status: needs-review
 verification:
   checked_languages:
   - bg
@@ -352,5 +296,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/names@1",
- "count": 185,
+ "count": 184,
  "languages": [
   {
    "code": "bg",
@@ -276,39 +276,39 @@
   }
  ],
  "coverage": {
-  "bg": 61,
-  "hr": 68,
-  "cs": 157,
-  "da": 142,
+  "bg": 64,
+  "hr": 66,
+  "cs": 156,
+  "da": 141,
   "nl": 149,
-  "en": 182,
-  "et": 124,
-  "fi": 167,
-  "fr": 166,
+  "en": 181,
+  "et": 123,
+  "fi": 165,
+  "fr": 167,
   "de": 166,
   "el": 58,
-  "hu": 121,
-  "ga": 42,
-  "it": 133,
-  "lv": 78,
-  "lt": 122,
+  "hu": 119,
+  "ga": 40,
+  "it": 132,
+  "lv": 76,
+  "lt": 120,
   "mt": 4,
-  "pl": 147,
+  "pl": 146,
   "pt": 132,
   "ro": 68,
-  "sk": 134,
-  "sl": 117,
-  "es": 127,
-  "sv": 172,
-  "ru": 147,
-  "uk": 112,
-  "no": 147,
-  "sr": 64,
-  "bs": 16,
+  "sk": 135,
+  "sl": 121,
+  "es": 129,
+  "sv": 171,
+  "ru": 144,
+  "uk": 113,
+  "no": 146,
+  "sr": 62,
+  "bs": 17,
   "sq": 17,
-  "is": 37,
-  "ca": 96,
-  "be": 74,
+  "is": 36,
+  "ca": 92,
+  "be": 73,
   "tr": 94
  },
  "plants": [
@@ -338,13 +338,6 @@
      {
       "name": "Stolisnik",
       "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Hajdučka trava",
-      "preferred": false,
       "sources": [
        "col:catalogue-of-life"
       ]
@@ -1283,6 +1276,13 @@
       "sources": [
        "col:catalogue-of-life",
        "wikipedia:sr"
+      ]
+     },
+     {
+      "name": "Hajdučka trava",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -2547,7 +2547,6 @@
       "name": "Giersch",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:flora-helvetica-apiaceae",
        "gbif:grin-taxonomy",
        "gbif:info-flora-schweiz-apiaceae",
@@ -2568,7 +2567,6 @@
       "name": "Geissfuss",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:flora-helvetica-apiaceae",
        "gbif:grin-taxonomy",
        "gbif:info-flora-schweiz-apiaceae",
@@ -2755,7 +2753,6 @@
       "name": "skvallerkål",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:backbone",
        "gbif:nordic-crop-wild-relative-cwr-checklist",
        "gbif:red-list-vascular-plants-2021-norway-r-d",
@@ -2903,6 +2900,14 @@
       ]
      },
      {
+      "name": "Buckeye",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q26899"
+      ]
+     },
+     {
       "name": "Common Horse Chestnut",
       "preferred": false,
       "sources": [
@@ -2936,6 +2941,14 @@
        "gbif:checklist-of-vermont-species",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "gbif:martha-s-vineyard-species-checklist"
+      ]
+     },
+     {
+      "name": "European horse chestnut",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q26899"
       ]
      },
      {
@@ -2975,6 +2988,22 @@
       "sources": [
        "gbif:checklist-of-vermont-species",
        "gbif:martha-s-vineyard-species-checklist"
+      ]
+     },
+     {
+      "name": "Spanish chestnut",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q26899"
+      ]
+     },
+     {
+      "name": "White Horse Chestnut",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q26899"
       ]
      }
     ],
@@ -4321,7 +4350,7 @@
     ],
     "sl": [
      {
-      "name": "Česen",
+      "name": "česen",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -4693,6 +4722,24 @@
        "gbif:integrated-taxonomic-information-system-",
        "wikidata:Q206532"
       ]
+     },
+     {
+      "name": "lemon-verbena",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "name": "verveine citronelle",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
      }
     ],
     "de": [
@@ -4700,8 +4747,37 @@
       "name": "Zitronenstrauch",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:grin-taxonomy",
        "wikipedia:de"
+      ]
+     }
+    ],
+    "pt": [
+     {
+      "name": "cidrão",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "salva-limão",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     }
+    ],
+    "es": [
+     {
+      "name": "cedrón",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
       ]
      }
     ]
@@ -6035,10 +6111,9 @@
     ],
     "sl": [
      {
-      "name": "zdravilni gozdni koren",
+      "name": "Zdravilni gozdni koren",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q207745",
        "wikipedia:sl"
       ]
@@ -9491,6 +9566,15 @@
        "wikipedia:ru"
       ]
      }
+    ],
+    "uk": [
+     {
+      "name": "Ваточник бульбистий",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
     ]
    }
   },
@@ -9566,6 +9650,7 @@
       "name": "milkvetch",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:integrated-taxonomic-information-system-",
        "gbif:the-paleobiology-database"
@@ -9577,6 +9662,15 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species"
+      ]
+     }
+    ],
+    "et": [
+     {
+      "name": "Hundihammas",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -9592,8 +9686,16 @@
     ],
     "fr": [
      {
-      "name": "Astragales",
+      "name": "Astragale",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:taxref"
+      ]
+     },
+     {
+      "name": "Astragales",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:integrated-taxonomic-information-system-"
@@ -9646,6 +9748,15 @@
       ]
      }
     ],
+    "sl": [
+     {
+      "name": "grahovec",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
     "sv": [
      {
       "name": "vedlar",
@@ -9653,6 +9764,13 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:dyntaxa-svensk-taxonomisk-databas"
+      ]
+     },
+     {
+      "name": "Vedelsläktet",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -9677,7 +9795,24 @@
     ],
     "ca": [
      {
+      "name": "Astràgal",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:mimosaceae-papilionaceae-fl-pais-s-catal"
+      ]
+     },
+     {
       "name": "Àstragals",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "be": [
+     {
+      "name": "Куравай",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life"
@@ -10443,22 +10578,11 @@
       ]
      }
     ],
-    "cs": [
-     {
-      "name": "Hadí kořen větší",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:cs"
-      ]
-     }
-    ],
     "da": [
      {
       "name": "Slangeurt",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:da"
       ]
@@ -10469,7 +10593,6 @@
       "name": "Adderwortel",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:nl"
       ]
@@ -10477,33 +10600,11 @@
     ],
     "en": [
      {
-      "name": "Bistort",
+      "name": "Common bistort",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Common bistort",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "wikidata:Q112917"
-      ]
-     },
-     {
-      "name": "European bistort",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Meadow Bistort",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -10515,21 +10616,13 @@
        "wikidata:Q112917",
        "wikipedia:et"
       ]
-     },
-     {
-      "name": "harilik ussitatar",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
      }
     ],
     "fi": [
      {
-      "name": "isokonnantatar",
+      "name": "Isokonnantatar",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:fi"
       ]
@@ -10540,37 +10633,8 @@
       "name": "Renouée bistorte",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:fr"
-      ]
-     },
-     {
-      "name": "Bistorte",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Bistorte commune",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Bistorte officinale",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Langue de Bœuf",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -10579,17 +10643,8 @@
       "name": "Schlangen-Knöterich",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:de"
-      ]
-     },
-     {
-      "name": "Wiesen-Knöterich",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q112917"
       ]
      }
     ],
@@ -10598,32 +10653,8 @@
       "name": "Kígyógyökerű keserűfű",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:hu"
-      ]
-     }
-    ],
-    "it": [
-     {
-      "name": "Serpentaria",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Bistorta medicinale",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Poligono bistorta",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -10642,7 +10673,6 @@
       "name": "Paprastoji gyvatžolė",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:lt"
       ]
@@ -10650,10 +10680,9 @@
     ],
     "pl": [
      {
-      "name": "Rdest wężownik",
+      "name": "Rdest Wężownik",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:pl"
       ]
@@ -10661,10 +10690,9 @@
     ],
     "sk": [
      {
-      "name": "hadovník väčší",
+      "name": "Hadovník väčší",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:sk"
       ]
@@ -10672,10 +10700,9 @@
     ],
     "sl": [
      {
-      "name": "kačja dresen",
+      "name": "Kačja dresen",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:sl"
       ]
@@ -10686,7 +10713,6 @@
       "name": "Stor ormrot",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:sv"
       ]
@@ -10697,17 +10723,8 @@
       "name": "Горец змеиный",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:ru"
-      ]
-     },
-     {
-      "name": "Змеевик большой",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q112917"
       ]
      }
     ],
@@ -10716,28 +10733,8 @@
       "name": "Гірчак зміїний",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q112917",
        "wikipedia:uk"
-      ]
-     }
-    ],
-    "no": [
-     {
-      "name": "ormerot",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "ca": [
-     {
-      "name": "Bistorta",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ca"
       ]
      }
     ]
@@ -11635,14 +11632,6 @@
        "wikidata:Q145930",
        "wikipedia:fi"
       ]
-     },
-     {
-      "name": "Kehäkukka",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q145930"
-      ]
      }
     ],
     "fr": [
@@ -12427,6 +12416,16 @@
     "wikidata": "Q790170"
    },
    "names": {
+    "bg": [
+     {
+      "name": "Прасковолистна камбанка",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:bg"
+      ]
+     }
+    ],
     "cs": [
      {
       "name": "zvonek broskvolistý",
@@ -12864,7 +12863,6 @@
       "name": "Hamp",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:red-list-vascular-plants-denmark-r-dlist",
        "wikipedia:da"
       ]
@@ -13056,6 +13054,14 @@
        "gbif:database-of-vascular-plants-of-canada-va",
        "gbif:iucn-red-list-vascular-plants-2018-metro",
        "gbif:taxref"
+      ]
+     },
+     {
+      "name": "chènevis chanvre",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
       ]
      }
     ],
@@ -13265,6 +13271,7 @@
       "name": "hamp",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:backbone",
        "gbif:red-list-vascular-plants-2021-norway-r-d"
       ]
@@ -13739,7 +13746,7 @@
     ],
     "pt": [
      {
-      "name": "Bolsa-de-pastor",
+      "name": "bolsa-de-pastor",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -13898,14 +13905,6 @@
        "col:catalogue-of-life",
        "gbif:backbone",
        "gbif:nordic-crop-wild-relative-cwr-checklist"
-      ]
-     },
-     {
-      "name": "hyrdetaske",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:backbone"
       ]
      }
     ],
@@ -14616,22 +14615,13 @@
     ],
     "sv": [
      {
-      "name": "spanskpeppar",
+      "name": "Spanskpeppar",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:dyntaxa-svensk-taxonomisk-databas",
        "gbif:grin-taxonomy",
        "wikidata:Q1380",
        "wikipedia:sv"
-      ]
-     },
-     {
-      "name": "paprika",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:dyntaxa-svensk-taxonomisk-databas"
       ]
      },
      {
@@ -14979,7 +14969,6 @@
       "name": "Wiesenkümmel",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:belgian-species-list",
        "wikidata:Q26811"
       ]
@@ -15354,6 +15343,14 @@
        "wikidata:Q156870",
        "wikipedia:cs"
       ]
+     },
+     {
+      "name": "zeměžluč hořká",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
      }
     ],
     "da": [
@@ -15405,6 +15402,14 @@
        "gbif:taxref",
        "gbif:the-iucn-red-list-of-threatened-species",
        "gbif:united-kingdom-species-inventory-uksi",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "drug centaury",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q156870"
       ]
      },
@@ -15476,7 +15481,16 @@
       "name": "erythrée petite centaurée",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:belgian-species-list",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Herbe à Chiron",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q156870"
       ]
      },
@@ -15503,6 +15517,14 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:red-list-vascular-plants-2016-switzerlan"
+      ]
+     },
+     {
+      "name": "Petite-centaurée",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
       ]
      },
      {
@@ -15565,9 +15587,18 @@
       ]
      },
      {
+      "name": "Echtes Tausendguldenkraut",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
       "name": "Gemeines Tausendgüldenkraut",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:belgian-species-list",
        "wikidata:Q156870"
       ]
@@ -15628,6 +15659,22 @@
        "col:catalogue-of-life",
        "wikidata:Q156870"
       ]
+     },
+     {
+      "name": "Erythraea centaurium",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Erythrea centaurium",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
      }
     ],
     "lv": [
@@ -15635,6 +15682,7 @@
       "name": "Čemuru augstiņš",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q156870",
        "wikipedia:lv"
       ]
@@ -15660,14 +15708,47 @@
        "wikidata:Q156870",
        "wikipedia:pl"
       ]
+     },
+     {
+      "name": "Centaurium minus",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Centuria zwyczajna",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Tysiącznik",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Tysiącznik pospolity",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
      }
     ],
     "pt": [
      {
-      "name": "Fel-da-terra",
+      "name": "Centaurium majus",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life"
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
       ]
      },
      {
@@ -15683,6 +15764,13 @@
       "sources": [
        "col:catalogue-of-life"
       ]
+     },
+     {
+      "name": "Fel-da-terra",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
      }
     ],
     "ro": [
@@ -15690,8 +15778,17 @@
       "name": "Țintaură",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q156870",
        "wikipedia:ro"
+      ]
+     },
+     {
+      "name": "Ţintaură",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
       ]
      }
     ],
@@ -15719,7 +15816,7 @@
     ],
     "es": [
      {
-      "name": "centáurea menor",
+      "name": "aciano",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -15727,7 +15824,199 @@
       ]
      },
      {
+      "name": "amargosa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "centaura",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "centaura menor roja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "centaurea menor",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "centáurea menor",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "cintoria",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "cintoria de oro",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "eritrea",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "escobilla",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "genciana blanca",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "gota de sangre",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
       "name": "hiel de la tierra",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "hiel de tierra",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "hiel del campo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "hierba amargosa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "hierba de guirón",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "hierba de la liebre",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "hierba pedorrera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "lapicocho",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "sanginaria",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "santaura",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "siete sangrías",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "yel de la tierra",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "yerba amargosa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "yerba margosa",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -15782,6 +16071,46 @@
        "gbif:red-list-of-flora-and-fauna-of-kirovohra",
        "wikipedia:uk"
       ]
+     },
+     {
+      "name": "Centaurium umbellatum",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Золототисячник малий",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Сардушник",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Семисильник",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
+     },
+     {
+      "name": "Центурія",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q156870"
+      ]
      }
     ],
     "no": [
@@ -15800,6 +16129,7 @@
       "name": "Кичица",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q156870",
        "wikipedia:sr"
       ]
@@ -15973,10 +16303,9 @@
       ]
      },
      {
-      "name": "spadeleaf",
+      "name": "Spadeleaf",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:global-register-of-introduced-and-invasi",
        "gbif:integrated-taxonomic-information-system-",
        "gbif:taxref",
@@ -17118,7 +17447,6 @@
       "name": "cinnamon",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:global-register-of-introduced-and-invasi",
        "gbif:grin-taxonomy",
        "gbif:integrated-taxonomic-information-system-",
@@ -17156,7 +17484,7 @@
     ],
     "fr": [
      {
-      "name": "Cannelier de Ceylan",
+      "name": "cannelier de Ceylan",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -17335,18 +17663,20 @@
       ]
      }
     ],
-    "es": [
+    "sl": [
      {
-      "name": "canela",
+      "name": "cejlonski cimetovec",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:grin-taxonomy"
+       "wikidata:Q370239"
       ]
-     },
+     }
+    ],
+    "es": [
      {
       "name": "canelero de Ceilán",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
@@ -18953,6 +19283,13 @@
        "col:catalogue-of-life",
        "wikipedia:hr"
       ]
+     },
+     {
+      "name": "Glog",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
      }
     ],
     "cs": [
@@ -19309,13 +19646,6 @@
        "col:catalogue-of-life",
        "wikipedia:sl"
       ]
-     },
-     {
-      "name": "Glog",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
      }
     ],
     "es": [
@@ -19345,7 +19675,7 @@
     ],
     "sv": [
      {
-      "name": "Trubbhagtorn",
+      "name": "trubbhagtorn",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -19822,14 +20152,6 @@
        "wikidata:Q132624",
        "wikipedia:fi"
       ]
-     },
-     {
-      "name": "juustokumina",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
-      ]
      }
     ],
     "fr": [
@@ -19844,35 +20166,11 @@
       ]
      },
      {
-      "name": "cumin blanc",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
-      ]
-     },
-     {
       "name": "cumin de Malte",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "cumin de Maroc",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
-      ]
-     },
-     {
-      "name": "faux anis",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
       ]
      }
     ],
@@ -19885,38 +20183,6 @@
        "gbif:grin-taxonomy",
        "wikidata:Q132624",
        "wikipedia:de"
-      ]
-     },
-     {
-      "name": "Mutterkümmel",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
-      ]
-     },
-     {
-      "name": "Römischer Kümmel",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
-      ]
-     },
-     {
-      "name": "Weißer Kümmel",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
-      ]
-     },
-     {
-      "name": "Welscher Kümmel",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
       ]
      }
     ],
@@ -19937,14 +20203,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy",
-       "wikidata:Q132624"
-      ]
-     },
-     {
-      "name": "cumino romano",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q132624"
       ]
      }
@@ -20020,10 +20278,9 @@
     ],
     "sl": [
      {
-      "name": "rimska kumina",
+      "name": "Rimska kumina",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q132624",
        "wikipedia:sl"
       ]
@@ -20090,14 +20347,6 @@
       ]
      },
      {
-      "name": "spisskarve",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q132624"
-      ]
-     },
-     {
       "name": "Spisskummen",
       "preferred": false,
       "sources": [
@@ -20120,7 +20369,6 @@
       "name": "Kimyon",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q132624",
        "wikipedia:tr"
       ]
@@ -20176,6 +20424,14 @@
        "gbif:integrated-taxonomic-information-system-",
        "gbif:taxref"
       ]
+     },
+     {
+      "name": "Indian-saffron",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
      }
     ],
     "et": [
@@ -20212,19 +20468,20 @@
     ],
     "fr": [
      {
-      "name": "Safran des Indes",
+      "name": "curcuma",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:grin-taxonomy"
+       "gbif:grin-taxonomy",
+       "gbif:taxref"
       ]
      },
      {
-      "name": "Curcuma",
+      "name": "safran des Indes",
       "preferred": false,
       "sources": [
-       "gbif:grin-taxonomy",
-       "gbif:taxref"
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
       ]
      }
     ],
@@ -20236,19 +20493,20 @@
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
       ]
+     },
+     {
+      "name": "Gelbwurzel",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
      }
     ],
     "it": [
      {
-      "name": "Curcuma",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
       "name": "Turmerico",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life"
       ]
@@ -20272,8 +20530,30 @@
     ],
     "pt": [
      {
-      "name": "açafrão-da-terra",
+      "name": "açafrão-da-Índia",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "açafroeira",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "açafrão-da-terra",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "gengibre-dourada",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life"
       ]
@@ -20290,8 +20570,16 @@
     ],
     "es": [
      {
-      "name": "Cúrcuma",
+      "name": "cúrcuma",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "azafrán de la India",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
@@ -20300,7 +20588,7 @@
     ],
     "sv": [
      {
-      "name": "Gurkmeja",
+      "name": "gurkmeja",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -20688,10 +20976,9 @@
       ]
      },
      {
-      "name": "gewöhnliche Möhre",
+      "name": "Gewöhnliche Möhre",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:red-list-vascular-plants-2018-germany-ro",
        "wikidata:Q30056"
       ]
@@ -21662,16 +21949,6 @@
       ]
      }
     ],
-    "fi": [
-     {
-      "name": "Kardemumma",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:fi"
-      ]
-     }
-    ],
     "fr": [
      {
       "name": "Cardamome",
@@ -21740,9 +22017,10 @@
     ],
     "sv": [
      {
-      "name": "Kardemumma",
+      "name": "kardemumma",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:grin-taxonomy",
        "wikipedia:sv"
       ]
@@ -21986,6 +22264,7 @@
       "name": "russisk rot",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:backbone",
        "gbif:red-list-vascular-plants-2021-norway-r-d"
       ]
@@ -22103,7 +22382,6 @@
       "name": "Quack grass",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vascular-plants-in-korea",
        "gbif:checklist-of-vermont-species",
        "gbif:martha-s-vineyard-species-checklist"
@@ -22261,7 +22539,6 @@
       "name": "Gewöhnliche Quecke",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:red-list-vascular-plants-2018-germany-ro",
        "wikidata:Q276262"
       ]
@@ -22465,9 +22742,10 @@
    "names": {
     "cs": [
      {
-      "name": "Vrbovka malokvětá",
+      "name": "vrbovka malokvětá",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q159094",
        "wikipedia:cs"
       ]
@@ -22504,6 +22782,7 @@
       "name": "Small-flowered willowherb",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:belgian-species-list",
        "gbif:checklist-of-vermont-species",
        "wikidata:Q159094"
@@ -22559,9 +22838,10 @@
       ]
      },
      {
-      "name": "Smallflower hairy willowherb",
+      "name": "smallflower hairy willowherb",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:checklist-of-vascular-plants-in-korea",
        "gbif:checklist-of-vermont-species",
        "gbif:global-register-of-introduced-and-invasi",
@@ -22594,13 +22874,21 @@
     ],
     "fr": [
      {
-      "name": "épilobe à petites fleurs",
+      "name": "epilobe à petites fleurs",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:database-of-vascular-plants-of-canada-va",
-       "gbif:taxref",
-       "gbif:the-iucn-red-list-of-threatened-species",
+       "gbif:belgian-species-list",
+       "gbif:iucn-red-list-vascular-plants-2018-metro",
+       "gbif:red-list-vascular-plants-2016-switzerlan",
+       "wikidata:Q159094"
+      ]
+     },
+     {
+      "name": "encore épilobe-mollet",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q159094"
       ]
      },
@@ -22614,12 +22902,13 @@
       ]
      },
      {
-      "name": "Epilobe à petites fleurs",
+      "name": "épilobe à petites fleurs",
       "preferred": false,
       "sources": [
-       "gbif:belgian-species-list",
-       "gbif:iucn-red-list-vascular-plants-2018-metro",
-       "gbif:red-list-vascular-plants-2016-switzerlan",
+       "col:catalogue-of-life",
+       "gbif:database-of-vascular-plants-of-canada-va",
+       "gbif:taxref",
+       "gbif:the-iucn-red-list-of-threatened-species",
        "wikidata:Q159094"
       ]
      },
@@ -22671,6 +22960,7 @@
       "name": "Kisvirágú füzike",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q159094",
        "wikipedia:hu"
       ]
@@ -22694,18 +22984,50 @@
       "name": "Wierzbownica drobnokwiatowa",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q159094",
        "wikipedia:pl"
       ]
      }
     ],
-    "sl": [
+    "pt": [
      {
-      "name": "Drobnocvetni vrbovec",
+      "name": "epilóbio-de-flor-miúda",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q159094"
+      ]
+     }
+    ],
+    "sk": [
+     {
+      "name": "vŕbovka malokvetá",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q159094"
+      ]
+     }
+    ],
+    "sl": [
+     {
+      "name": "drobnocvetni vrbovec",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q159094",
        "wikipedia:sl"
+      ]
+     }
+    ],
+    "es": [
+     {
+      "name": "adelfilla de flor pequeña",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q159094"
       ]
      }
     ],
@@ -22984,7 +23306,6 @@
       "name": "Ackerschachtelhalm",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:belgian-species-list",
        "wikidata:Q107592"
       ]
@@ -23221,22 +23542,6 @@
        "wikidata:Q107592",
        "wikipedia:ru"
       ]
-     },
-     {
-      "name": "cохатинная трава",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q107592"
-      ]
-     },
-     {
-      "name": "конский хвост",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q107592"
-      ]
      }
     ],
     "uk": [
@@ -23271,14 +23576,6 @@
       "sources": [
        "col:catalogue-of-life",
        "wikipedia:sr"
-      ]
-     },
-     {
-      "name": "Раставић",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q107592"
       ]
      }
     ],
@@ -24537,6 +24834,14 @@
        "col:catalogue-of-life",
        "wikipedia:fi"
       ]
+     },
+     {
+      "name": "Kuumepuu",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q159528"
+      ]
      }
     ],
     "fr": [
@@ -24800,6 +25105,22 @@
        "col:catalogue-of-life",
        "wikidata:Q159528",
        "wikipedia:ru"
+      ]
+     },
+     {
+      "name": "Бесстыдница",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q159528"
+      ]
+     },
+     {
+      "name": "Эвкалипт шариковый",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q159528"
       ]
      }
     ],
@@ -25762,7 +26083,6 @@
       "name": "Kleines Mädesüß",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:red-list-vascular-plants-2018-germany-ro",
        "gbif:taxon-list-of-vascular-plants-from-bavar",
        "wikidata:Q148961",
@@ -26621,13 +26941,6 @@
      },
      {
       "name": "Sticky Willow",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "sticky willy",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
@@ -29049,53 +29362,6 @@
    }
   },
   {
-   "id": "gymnema-sylvestre",
-   "scientific_name": "Gymnema sylvestre",
-   "common_slug": "gymnema",
-   "family": "Apocynaceae",
-   "wp_post_id": null,
-   "english": "Gymnema",
-   "external_ids": {
-    "gbif": 8040540,
-    "powo": "urn:lsid:ipni.org:names:60454719-2",
-    "wikidata": "Q2725835"
-   },
-   "names": {
-    "en": [
-     {
-      "name": "Gymnema",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "miracle-fruit",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "ram's-horn",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "sv": [
-     {
-      "name": "Gymnema",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ]
-   }
-  },
-  {
    "id": "hamamelis-virginiana",
    "scientific_name": "Hamamelis virginiana",
    "common_slug": "witch-hazel",
@@ -29492,9 +29758,10 @@
    "names": {
     "cs": [
      {
-      "name": "Břečťan popínavý",
+      "name": "břečťan popínavý",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q26354",
        "wikipedia:cs"
       ]
@@ -29538,6 +29805,7 @@
       "name": "Common ivy",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:martha-s-vineyard-species-checklist",
        "wikidata:Q26354"
@@ -29694,11 +29962,22 @@
     ],
     "sl": [
      {
-      "name": "Navadni bršljan",
+      "name": "navadni bršljan",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q26354",
        "wikipedia:sl"
+      ]
+     }
+    ],
+    "es": [
+     {
+      "name": "Hiedra",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q26354"
       ]
      }
     ],
@@ -29927,7 +30206,7 @@
     ],
     "sv": [
      {
-      "name": "Igelkottstaggsvamp",
+      "name": "igelkottstaggsvamp",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -29942,6 +30221,7 @@
       "name": "igelkottsvamp",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:dyntaxa-svensk-taxonomisk-databas",
        "gbif:the-swedish-red-list-2025"
       ]
@@ -31396,7 +31676,6 @@
       "name": "Klamathweed",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:grin-taxonomy",
        "gbif:integrated-taxonomic-information-system-",
@@ -33716,7 +33995,6 @@
       "name": "Locika jedovatá",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:cichorieae-systematics-portal",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:world-register-of-marine-species",
@@ -33752,7 +34030,6 @@
       "name": "Acrid lettuce",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:cichorieae-systematics-portal",
        "gbif:world-register-of-marine-species"
       ]
@@ -33801,24 +34078,6 @@
       ]
      }
     ],
-    "et": [
-     {
-      "name": "mürksalat",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "fi": [
-     {
-      "name": "rohtosalaatti",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
     "fr": [
      {
       "name": "Laitue vireuse",
@@ -33838,7 +34097,6 @@
       "name": "Laitue sauvage",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:cichorieae-systematics-portal",
        "gbif:world-register-of-marine-species"
       ]
@@ -33893,22 +34151,6 @@
        "gbif:red-list-vascular-plants-2016-switzerlan",
        "gbif:world-register-of-marine-species"
       ]
-     },
-     {
-      "name": "Lattuga selvatica",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "lt": [
-     {
-      "name": "Nuodingoji salota",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
      }
     ],
     "pl": [
@@ -33922,37 +34164,9 @@
       ]
      }
     ],
-    "pt": [
-     {
-      "name": "Alface-brava-maior",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:cichorieae-systematics-portal"
-      ]
-     }
-    ],
-    "sk": [
-     {
-      "name": "šalát jedovatý",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "es": [
-     {
-      "name": "lechuga silvestre",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
     "sv": [
      {
-      "name": "giftsallat",
+      "name": "Giftsallat",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -33964,16 +34178,6 @@
       ]
      }
     ],
-    "ru": [
-     {
-      "name": "Латук ядовитый",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ru"
-      ]
-     }
-    ],
     "no": [
      {
       "name": "giftsalat",
@@ -33982,15 +34186,6 @@
        "col:catalogue-of-life",
        "gbif:backbone",
        "gbif:red-list-vascular-plants-2021-norway-r-d"
-      ]
-     }
-    ],
-    "ca": [
-     {
-      "name": "Enciam de bosc",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ]
@@ -34922,7 +35117,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
-       "gbif:the-iucn-red-list-of-threatened-species",
        "wikidata:Q42081"
       ]
      },
@@ -35046,7 +35240,6 @@
        "gbif:grin-taxonomy",
        "gbif:nordic-crop-wild-relative-cwr-checklist",
        "gbif:risk-assessment-of-alien-taxa-in-sweden-",
-       "gbif:the-iucn-red-list-of-threatened-species",
        "wikipedia:sv"
       ]
      }
@@ -36533,14 +36726,6 @@
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:cs"
       ]
-     },
-     {
-      "name": "mahonie cesmínolistá",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158303"
-      ]
      }
     ],
     "da": [
@@ -36580,7 +36765,6 @@
       "name": "Oregon Grape",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:invasive-alien-species-in-belgium-harmon",
@@ -36609,14 +36793,6 @@
       ]
      },
      {
-      "name": "holly-leaf Oregon-grape",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158303"
-      ]
-     },
-     {
       "name": "Holly-leaved barberry",
       "preferred": false,
       "sources": [
@@ -36635,10 +36811,9 @@
       ]
      },
      {
-      "name": "Hollyleaved barberry",
+      "name": "hollyleaved barberry",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:integrated-taxonomic-information-system-",
        "wikidata:Q158303"
@@ -36661,30 +36836,6 @@
       ]
      },
      {
-      "name": "Oregon Grapeholly",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158303"
-      ]
-     },
-     {
-      "name": "Oregon Holly",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158303"
-      ]
-     },
-     {
-      "name": "Oregon Holly Grape",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158303"
-      ]
-     },
-     {
       "name": "Oregon-grape",
       "preferred": false,
       "sources": [
@@ -36693,14 +36844,6 @@
        "gbif:database-of-vascular-plants-of-canada-va",
        "gbif:taxref",
        "gbif:united-kingdom-species-inventory-uksi"
-      ]
-     },
-     {
-      "name": "Piper's Oregon-grape",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158303"
       ]
      },
      {
@@ -36781,10 +36924,9 @@
       ]
      },
      {
-      "name": "Mahonia faux houx",
+      "name": "Mahonia faux Houx",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikidata:Q158303"
       ]
@@ -36825,10 +36967,9 @@
     ],
     "hu": [
      {
-      "name": "közönséges mahónia",
+      "name": "Közönséges mahónia",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q158303",
        "wikipedia:hu"
       ]
@@ -36851,7 +36992,6 @@
       "name": "Dyglialapė mahonija",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q158303",
        "wikipedia:lt"
       ]
@@ -36862,20 +37002,9 @@
       "name": "Mahonia pospolita",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikidata:Q158303",
        "wikipedia:pl"
-      ]
-     }
-    ],
-    "sl": [
-     {
-      "name": "navadna mahonija",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158303"
       ]
      }
     ],
@@ -36888,16 +37017,6 @@
        "gbif:nordic-crop-wild-relative-cwr-checklist",
        "gbif:risk-assessment-of-alien-taxa-in-sweden-",
        "wikipedia:sv"
-      ]
-     }
-    ],
-    "ru": [
-     {
-      "name": "Маго́ния падуболи́стная",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158303"
       ]
      }
     ],
@@ -37011,7 +37130,7 @@
       ]
      },
      {
-      "name": "Cheeses",
+      "name": "cheeses",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -37771,7 +37890,7 @@
       ]
      },
      {
-      "name": "Marrube commun",
+      "name": "marrube commun",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -38123,6 +38242,15 @@
     "wikidata": "Q28437"
    },
    "names": {
+    "bg": [
+     {
+      "name": "Лечебна лайка",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
     "cs": [
      {
       "name": "Heřmánek pravý",
@@ -38698,12 +38826,15 @@
        "col:catalogue-of-life",
        "wikipedia:sr"
       ]
-     },
+     }
+    ],
+    "bs": [
      {
       "name": "Kamilica",
-      "preferred": false,
+      "preferred": true,
       "sources": [
-       "col:catalogue-of-life"
+       "col:catalogue-of-life",
+       "wikipedia:bs"
       ]
      }
     ],
@@ -38918,7 +39049,6 @@
       "name": "Lemonbalm",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:grin-taxonomy",
        "gbif:martha-s-vineyard-species-checklist"
@@ -38928,7 +39058,6 @@
       "name": "Melissa",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:grin-taxonomy",
        "gbif:martha-s-vineyard-species-checklist"
@@ -38987,7 +39116,7 @@
     ],
     "fr": [
      {
-      "name": "mélisse officinale",
+      "name": "Mélisse officinale",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -39673,15 +39802,6 @@
     "wikidata": "Q428750"
    },
    "names": {
-    "da": [
-     {
-      "name": "Karela",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
     "en": [
      {
       "name": "Bitter Melon",
@@ -39698,6 +39818,14 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:integrated-taxonomic-information-system-"
+      ]
+     },
+     {
+      "name": "balsam-apple",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
       ]
      },
      {
@@ -39736,6 +39864,37 @@
      },
      {
       "name": "Bitter squash",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "bitter-cucumber",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "bitter-melon",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "carilla gourd",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "Cerasee",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
@@ -39796,12 +39955,20 @@
     ],
     "fr": [
      {
-      "name": "Margose",
+      "name": "margose",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy",
        "gbif:taxref"
+      ]
+     },
+     {
+      "name": "concombre africain",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
       ]
      },
      {
@@ -39812,7 +39979,15 @@
       ]
      },
      {
-      "name": "Momordique",
+      "name": "momordique",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "paroka",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -39827,6 +40002,22 @@
       "sources": [
        "col:catalogue-of-life",
        "wikipedia:de"
+      ]
+     },
+     {
+      "name": "amerikanische Bittergurke",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "Balsambirne",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
       ]
      },
      {
@@ -39897,7 +40088,7 @@
     ],
     "es": [
      {
-      "name": "Cundeamor",
+      "name": "bálsamo",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -39912,6 +40103,22 @@
       ]
      },
      {
+      "name": "balsamito",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "cundeamor",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
       "name": "Pepino cimarrón",
       "preferred": false,
       "sources": [
@@ -39921,9 +40128,10 @@
     ],
     "sv": [
      {
-      "name": "Bittergurka",
+      "name": "bittergurka",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:grin-taxonomy",
        "wikipedia:sv"
       ]
@@ -40011,14 +40219,6 @@
       ]
      },
      {
-      "name": "Cheese Fruit",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q234238"
-      ]
-     },
-     {
       "name": "cheesefruit",
       "preferred": false,
       "sources": [
@@ -40042,7 +40242,7 @@
       ]
      },
      {
-      "name": "Indian-mulberry",
+      "name": "indian-mulberry",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -40056,13 +40256,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "Rotten cheese fruit",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      },
      {
@@ -40124,13 +40317,6 @@
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial",
        "wikipedia:pt"
-      ]
-     },
-     {
-      "name": "Morinda",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      },
      {
@@ -41388,11 +41574,22 @@
     "wikidata": "Q157353"
    },
    "names": {
+    "hr": [
+     {
+      "name": "Noćurak",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q157353"
+      ]
+     }
+    ],
     "cs": [
      {
       "name": "pupalka dvouletá",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikidata:Q157353",
        "wikipedia:cs"
@@ -41427,16 +41624,10 @@
     ],
     "en": [
      {
-      "name": "Common Evening-primrose",
+      "name": "Evening Primrose",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "gbif:daisie-inventory-of-alien-invasive-speci",
-       "gbif:database-of-vascular-plants-of-canada-va",
-       "gbif:grin-taxonomy",
-       "gbif:integrated-taxonomic-information-system-",
-       "gbif:taxref",
-       "gbif:united-kingdom-species-inventory-uksi",
        "wikidata:Q157353"
       ]
      },
@@ -41456,6 +41647,20 @@
        "gbif:checklist-of-vermont-species",
        "gbif:integrated-taxonomic-information-system-",
        "gbif:martha-s-vineyard-species-checklist",
+       "wikidata:Q157353"
+      ]
+     },
+     {
+      "name": "Common Evening-primrose",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "gbif:database-of-vascular-plants-of-canada-va",
+       "gbif:grin-taxonomy",
+       "gbif:integrated-taxonomic-information-system-",
+       "gbif:taxref",
+       "gbif:united-kingdom-species-inventory-uksi",
        "wikidata:Q157353"
       ]
      },
@@ -41566,6 +41771,7 @@
       "name": "Kaheaastane kuningakepp",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikidata:Q157353",
        "wikipedia:et"
@@ -41630,6 +41836,7 @@
       "name": "Gemeine Nachtkerze",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:belgian-species-list",
        "wikidata:Q157353",
        "wikipedia:de"
@@ -41679,6 +41886,7 @@
       "name": "Parlagi ligetszépe",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikidata:Q157353",
        "wikipedia:hu"
@@ -41693,6 +41901,14 @@
        "col:catalogue-of-life",
        "gbif:flora-helvetica-onagraceae",
        "gbif:info-flora-schweiz-onagraceae"
+      ]
+     },
+     {
+      "name": "Enotera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q157353"
       ]
      }
     ],
@@ -41711,6 +41927,7 @@
       "name": "Wiesiołek dwuletni",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q157353",
        "wikipedia:pl"
       ]
@@ -41780,8 +41997,39 @@
       "name": "Luminiță",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q157353",
        "wikipedia:ro"
+      ]
+     }
+    ],
+    "sk": [
+     {
+      "name": "Pupalka dvojročná",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q157353"
+      ]
+     }
+    ],
+    "sl": [
+     {
+      "name": "dvoletni svetlin",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q157353"
+      ]
+     }
+    ],
+    "es": [
+     {
+      "name": "Onagra común",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q157353"
       ]
      }
     ],
@@ -41835,6 +42083,7 @@
       "name": "Ослинник двулетний",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q157353",
        "wikipedia:ru"
       ]
@@ -41852,6 +42101,7 @@
       "name": "Енотера дворічна",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q157353",
        "wikipedia:uk"
       ]
@@ -41873,6 +42123,7 @@
       "name": "Bella de nit",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q157353",
        "wikipedia:ca"
       ]
@@ -41883,8 +42134,19 @@
       "name": "Асліннік двухгадовы",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q157353",
        "wikipedia:be"
+      ]
+     }
+    ],
+    "tr": [
+     {
+      "name": "Eşek otu",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q157353"
       ]
      }
     ]
@@ -43025,7 +43287,6 @@
       "name": "Oregano",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:dyntaxa-svensk-taxonomisk-databas",
        "wikidata:Q134283"
       ]
@@ -43070,10 +43331,9 @@
       ]
      },
      {
-      "name": "vildmejram",
+      "name": "Vildmejram",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:dyntaxa-svensk-taxonomisk-databas",
        "wikidata:Q134283"
       ]
@@ -43475,6 +43735,13 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:database-of-vascular-plants-of-canada-va"
+      ]
+     },
+     {
+      "name": "Oxalis dressée",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      },
      {
@@ -44327,9 +44594,10 @@
       ]
      },
      {
-      "name": "Bog-rhubarb",
+      "name": "bog-rhubarb",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:grin-taxonomy"
       ]
@@ -44378,9 +44646,10 @@
       ]
      },
      {
-      "name": "Umbrella-plant",
+      "name": "umbrella-plant",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:grin-taxonomy"
       ]
@@ -44431,6 +44700,7 @@
       "name": "Petasite hybride",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:flora-helvetica-asteraceae",
        "gbif:info-flora-schweiz-asteraceae"
       ]
@@ -44478,6 +44748,7 @@
       "name": "Gemeine Pestwurz",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:flora-helvetica-asteraceae",
        "gbif:info-flora-schweiz-asteraceae"
       ]
@@ -45144,32 +45415,11 @@
     "wikidata": "Q133128"
    },
    "names": {
-    "bg": [
-     {
-      "name": "Бял бор",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:bg"
-      ]
-     }
-    ],
-    "hr": [
-     {
-      "name": "Obični bor",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:hr"
-      ]
-     }
-    ],
     "cs": [
      {
-      "name": "borovice lesní",
+      "name": "Borovice lesní",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q133128",
        "wikipedia:cs"
       ]
@@ -45177,16 +45427,8 @@
     ],
     "da": [
      {
-      "name": "Skovfyr",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:da"
-      ]
-     },
-     {
       "name": "Skov-fyr",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:national-checklist-of-all-species-occurr",
@@ -45263,10 +45505,9 @@
     ],
     "et": [
      {
-      "name": "harilik mänd",
+      "name": "Harilik mänd",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q133128",
        "wikipedia:et"
       ]
@@ -45355,16 +45596,7 @@
       "name": "Gewöhnliche Kiefer",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:red-list-vascular-plants-2018-germany-ro",
-       "wikidata:Q133128"
-      ]
-     },
-     {
-      "name": "Rot-Kiefer",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q133128"
       ]
      },
@@ -45389,36 +45621,6 @@
       ]
      }
     ],
-    "el": [
-     {
-      "name": "Δασική Πεύκη",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:el"
-      ]
-     }
-    ],
-    "hu": [
-     {
-      "name": "Erdeifenyő",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:hu"
-      ]
-     }
-    ],
-    "ga": [
-     {
-      "name": "Péine Albanach",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ga"
-      ]
-     }
-    ],
     "it": [
      {
       "name": "Pino silvestre",
@@ -45438,26 +45640,6 @@
        "col:catalogue-of-life",
        "gbif:flora-helvetica-pinaceae",
        "gbif:info-flora-schweiz-pinaceae"
-      ]
-     }
-    ],
-    "lv": [
-     {
-      "name": "Parastā priede",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:lv"
-      ]
-     }
-    ],
-    "lt": [
-     {
-      "name": "Paprastoji pušis",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:lt"
       ]
      }
     ],
@@ -45484,13 +45666,6 @@
       ]
      },
      {
-      "name": "Pinheiro silvestre",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
       "name": "PINHEIRO-DE-CASQUINHA",
       "preferred": false,
       "sources": [
@@ -45499,22 +45674,11 @@
       ]
      }
     ],
-    "ro": [
-     {
-      "name": "Pin de pădure",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ro"
-      ]
-     }
-    ],
     "sk": [
      {
       "name": "Borovica lesná",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q133128",
        "wikipedia:sk"
       ]
@@ -45522,10 +45686,9 @@
     ],
     "sl": [
      {
-      "name": "rdeči bor",
+      "name": "Rdeči bor",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q133128",
        "wikipedia:sl"
       ]
@@ -45581,16 +45744,8 @@
     ],
     "ru": [
      {
-      "name": "Сосна обыкновенная",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ru"
-      ]
-     },
-     {
       "name": "Sosna Lesnaya",
-      "preferred": false,
+      "preferred": true,
       "sources": [
        "col:catalogue-of-life",
        "gbif:the-iucn-red-list-of-threatened-species"
@@ -45610,7 +45765,6 @@
       "name": "Сосна звичайна",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:red-list-of-flora-and-fauna-of-zakarpatt",
        "wikipedia:uk"
       ]
@@ -45647,48 +45801,9 @@
       ]
      }
     ],
-    "sr": [
-     {
-      "name": "Бели бор - Beli bor",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "is": [
-     {
-      "name": "Skógarfura",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:is"
-      ]
-     }
-    ],
-    "ca": [
-     {
-      "name": "Pi roig",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ca"
-      ]
-     }
-    ],
-    "be": [
-     {
-      "name": "Хвоя звычайная",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:be"
-      ]
-     }
-    ],
     "tr": [
      {
-      "name": "Sarıçam",
+      "name": "sarıçam",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -45770,9 +45885,10 @@
       ]
      },
      {
-      "name": "Peppers",
+      "name": "peppers",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:integrated-taxonomic-information-system-",
        "gbif:taxref"
       ]
@@ -45852,6 +45968,15 @@
     "sk": [
      {
       "name": "pieprovité",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "sl": [
+     {
+      "name": "poprovke",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life"
@@ -46158,7 +46283,7 @@
       ]
      },
      {
-      "name": "narrow-leaved plantain",
+      "name": "Narrow-leaved Plantain",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -46258,7 +46383,7 @@
     ],
     "fi": [
      {
-      "name": "heinäratamo",
+      "name": "Heinäratamo",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -46295,14 +46420,6 @@
        "col:catalogue-of-life",
        "gbif:flora-helvetica-plantaginaceae",
        "gbif:info-flora-schweiz-plantaginaceae"
-      ]
-     },
-     {
-      "name": "plantain lancé olé",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:grin-taxonomy"
       ]
      }
     ],
@@ -46573,7 +46690,7 @@
     ],
     "no": [
      {
-      "name": "smalkjempe",
+      "name": "Smalkjempe",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -46738,7 +46855,7 @@
       ]
      },
      {
-      "name": "broad-leaved plantain",
+      "name": "Broad-leaved Plantain",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -46892,7 +47009,7 @@
     ],
     "fr": [
      {
-      "name": "Grand Plantain",
+      "name": "Grand plantain",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -52665,7 +52782,7 @@
     ],
     "fr": [
      {
-      "name": "rosier rugueux",
+      "name": "Rosier rugueux",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -52948,7 +53065,8 @@
       "sources": [
        "gbif:checklist-of-vascular-plants-in-korea",
        "gbif:checklist-of-vermont-species",
-       "gbif:taxref"
+       "gbif:taxref",
+       "gbif:the-iucn-red-list-of-threatened-species"
       ]
      },
      {
@@ -55134,8 +55252,16 @@
     ],
     "tr": [
      {
-      "name": "Tıbbi ada çayı",
+      "name": "Ada Çayı",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:tr"
+      ]
+     },
+     {
+      "name": "Tıbbi ada çayı",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "wikidata:Q1111359"
@@ -55898,7 +56024,7 @@
     ],
     "fr": [
      {
-      "name": "saponaire officinale",
+      "name": "Saponaire officinale",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -57247,6 +57373,7 @@
        "col:catalogue-of-life",
        "gbif:integrated-taxonomic-information-system-",
        "gbif:taxref",
+       "gbif:the-iucn-red-list-of-threatened-species",
        "wikidata:Q927607"
       ]
      },
@@ -57716,7 +57843,6 @@
       "name": "Gewöhnliche Mariendistel",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "gbif:taxon-list-of-vascular-plants-from-bavar",
        "wikidata:Q193798"
@@ -57826,13 +57952,6 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
-      ]
-     },
-     {
-      "name": "cardo-mariano",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      },
      {
@@ -58033,21 +58152,11 @@
     "wikidata": "Q599435"
    },
    "names": {
-    "hr": [
-     {
-      "name": "Prava zlatnica",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
     "cs": [
      {
-      "name": "zlatobýl obecný",
+      "name": "Zlatobýl obecný",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q599435",
        "wikipedia:cs"
       ]
@@ -58103,16 +58212,6 @@
       ]
      }
     ],
-    "et": [
-     {
-      "name": "Harilik kuldvits",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:et"
-      ]
-     }
-    ],
     "fi": [
      {
       "name": "kultapiisku",
@@ -58144,13 +58243,6 @@
       "sources": [
        "gbif:belgian-species-list",
        "wikidata:Q599435"
-      ]
-     },
-     {
-      "name": "Solidage verge-d'or",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -58185,31 +58277,13 @@
        "gbif:belgian-species-list",
        "wikidata:Q599435"
       ]
-     }
-    ],
-    "hu": [
-     {
-      "name": "Közönséges aranyvessző",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:hu"
-      ]
      },
      {
-      "name": "erdei aranyvessző",
+      "name": "Gewöhnliche Goldrute i.w.S.",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "ga": [
-     {
-      "name": "Slat óir",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
+       "col:catalogue-of-life",
+       "gbif:taxon-list-of-vascular-plants-from-bavar"
       ]
      }
     ],
@@ -58225,71 +58299,13 @@
       ]
      }
     ],
-    "lv": [
-     {
-      "name": "Dzeltenā zeltgalvīte",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "lt": [
-     {
-      "name": "Paprastoji rykštenė",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:lt"
-      ]
-     }
-    ],
-    "pl": [
-     {
-      "name": "Nawłoć pospolita",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:pl"
-      ]
-     }
-    ],
-    "pt": [
-     {
-      "name": "Vara-de-ouro",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "sk": [
-     {
-      "name": "Zlatobyľ obyčajná",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:sk"
-      ]
-     }
-    ],
     "sl": [
      {
-      "name": "navadna zlata rozga",
+      "name": "Navadna zlata rozga",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "wikidata:Q599435",
        "wikipedia:sl"
-      ]
-     }
-    ],
-    "es": [
-     {
-      "name": "Vara de oro",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -58306,40 +58322,6 @@
       ]
      }
     ],
-    "ru": [
-     {
-      "name": "Золотарник обыкновенный",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ru"
-      ]
-     },
-     {
-      "name": "Золотая розга",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "uk": [
-     {
-      "name": "Золотушник звичайний",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:uk"
-      ]
-     },
-     {
-      "name": "Золотарник звичайний",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
     "no": [
      {
       "name": "gullris",
@@ -58349,45 +58331,6 @@
        "gbif:nordic-crop-wild-relative-cwr-checklist",
        "gbif:red-list-vascular-plants-2021-norway-r-d",
        "wikipedia:no"
-      ]
-     }
-    ],
-    "sr": [
-     {
-      "name": "Златица",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:sr"
-      ]
-     }
-    ],
-    "ca": [
-     {
-      "name": "Vara d'or",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:ca"
-      ]
-     }
-    ],
-    "be": [
-     {
-      "name": "Сумнік звычайны",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:be"
-      ]
-     }
-    ],
-    "tr": [
-     {
-      "name": "Yahudi otu",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ]
@@ -58414,23 +58357,6 @@
        "wikidata:Q158711",
        "wikipedia:bg"
       ]
-     },
-     {
-      "name": "Средна звездица",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     }
-    ],
-    "hr": [
-     {
-      "name": "Mišjakinja",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q158711"
-      ]
      }
     ],
     "cs": [
@@ -58441,6 +58367,13 @@
        "col:catalogue-of-life",
        "wikidata:Q158711",
        "wikipedia:cs"
+      ]
+     },
+     {
+      "name": "ptačinec bledý",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      },
      {
@@ -58464,6 +58397,22 @@
        "wikidata:Q158711",
        "wikipedia:da"
       ]
+     },
+     {
+      "name": "Fuglegræs",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "Fuglegræs-Fladstjerne",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
      }
     ],
     "nl": [
@@ -58474,6 +58423,21 @@
        "col:catalogue-of-life",
        "wikidata:Q158711",
        "wikipedia:nl"
+      ]
+     },
+     {
+      "name": "Duinvogelmuur",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "zandhoornbloem",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
       ]
      }
     ],
@@ -58489,13 +58453,6 @@
        "gbif:integrated-taxonomic-information-system-",
        "gbif:martha-s-vineyard-species-checklist",
        "gbif:united-kingdom-species-inventory-uksi"
-      ]
-     },
-     {
-      "name": "adder's mouth",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      },
      {
@@ -58532,10 +58489,18 @@
       ]
      },
      {
-      "name": "indian chickweed",
+      "name": "lesser chickweed",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "little mouse-ear chickweed",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
       ]
      },
      {
@@ -58545,27 +58510,6 @@
        "gbif:checklist-of-vermont-species",
        "gbif:integrated-taxonomic-information-system-",
        "gbif:martha-s-vineyard-species-checklist"
-      ]
-     },
-     {
-      "name": "pamplinas",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "Peppergrass",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "scarwort",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -58591,6 +58535,14 @@
        "wikidata:Q158711",
        "wikipedia:fi"
       ]
+     },
+     {
+      "name": "Vesiheinä",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
      }
     ],
     "fr": [
@@ -58605,6 +58557,14 @@
        "gbif:info-flora-schweiz-caryophyllaceae",
        "gbif:iucn-red-list-vascular-plants-2018-metro",
        "gbif:red-list-vascular-plants-2016-switzerlan",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "Morgeline",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q158711"
       ]
      },
@@ -58641,6 +58601,13 @@
        "col:catalogue-of-life",
        "gbif:database-of-vascular-plants-of-canada-va"
       ]
+     },
+     {
+      "name": "stellaire pâle",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
      }
     ],
     "de": [
@@ -58654,6 +58621,20 @@
        "gbif:taxon-list-of-vascular-plants-from-bavar",
        "wikidata:Q158711",
        "wikipedia:de"
+      ]
+     },
+     {
+      "name": "Bleiche Miere",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Bleiche Sternmiere",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      },
      {
@@ -58672,6 +58653,14 @@
        "col:catalogue-of-life",
        "gbif:flora-helvetica-caryophyllaceae",
        "gbif:info-flora-schweiz-caryophyllaceae"
+      ]
+     },
+     {
+      "name": "Hühnerdarm",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
       ]
      },
      {
@@ -58717,13 +58706,6 @@
        "wikidata:Q158711",
        "wikipedia:ga"
       ]
-     },
-     {
-      "name": "Fuilig",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
      }
     ],
     "it": [
@@ -58735,6 +58717,30 @@
        "gbif:flora-helvetica-caryophyllaceae",
        "gbif:info-flora-schweiz-caryophyllaceae",
        "gbif:red-list-vascular-plants-2016-switzerlan",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "Bellichina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "Centonchio",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "Erba paperina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q158711"
       ]
      }
@@ -58830,6 +58836,14 @@
       ]
      },
      {
+      "name": "merugem",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
       "name": "mirurje",
       "preferred": false,
       "sources": [
@@ -58867,6 +58881,30 @@
       "sources": [
        "col:catalogue-of-life"
       ]
+     },
+     {
+      "name": "morugem vulgar",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "morugem-branca",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "morugem-verdadeira",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
      }
     ],
     "ro": [
@@ -58877,13 +58915,6 @@
        "col:catalogue-of-life",
        "wikidata:Q158711",
        "wikipedia:ro"
-      ]
-     },
-     {
-      "name": "Racovina",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      }
     ],
@@ -58906,6 +58937,13 @@
        "wikidata:Q158711",
        "wikipedia:sl"
       ]
+     },
+     {
+      "name": "bleda zvezdica",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
      }
     ],
     "es": [
@@ -58919,14 +58957,599 @@
       ]
      },
      {
-      "name": "caa piquí",
+      "name": "ala de monte",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life"
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "ala de mosca",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "ameruja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "berraña",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "boca de gallina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "bocado de gallina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "boruja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "cloquera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "coruja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "fozón",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "gallinera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "gargantilla",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "hierba canariera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "hierba de canarios",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "hierba de las aves",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "hierba de los canarios",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "hierba gallinaria",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
       ]
      },
      {
       "name": "hierba gallinera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "hierba pajarera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "hierba ponedora",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "la dama",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "lambuco",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "lambujo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "lapilla",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "lirada",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "majura",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "mariquita de invierno",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "maruja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "marujas",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "marusa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "marusas",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "melugino",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "meluja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "melujino",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "melujo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "melujín",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "merubia",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "merugino",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "meruja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "merujas",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "merujón",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "merusa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "merusia",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "meruxa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "meruya",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "miosota",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moluja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moraca",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "morruges",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moruca",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moruja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "morujina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "morujo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moruquera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moruquilla",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "morusa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "morusia",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "morusín",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moruxa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moruxia",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moruxo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "moruxón",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "murages",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "muraje",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "murajes",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "muruja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "murujina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "oreja de ratón",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "orejas de ratón",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "orejuelas de ratón",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "pajarera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "pamplina de canarios",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "pamplina de huertos",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "pamplina de secano",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "pamplinas",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -58943,10 +59566,131 @@
       ]
      },
      {
-      "name": "quilloi-quilloi",
+      "name": "picagallinas",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life"
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "picapol",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "piejuelo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "pijuelo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "regachal",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "regaho",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "regajo",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "repipionito",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "tripa de gallina",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "yerba cloquera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "yerba de canarios",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "yerba de las aves",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "yerba de los canarios",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "yerba gallinera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "yerba pajarera",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "álsine",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
       ]
      }
     ],
@@ -58980,6 +59724,22 @@
        "gbif:dyntaxa-svensk-taxonomisk-databas",
        "wikidata:Q158711"
       ]
+     },
+     {
+      "name": "Vannarre",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "Vassarv",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
      }
     ],
     "ru": [
@@ -58990,13 +59750,6 @@
        "col:catalogue-of-life",
        "wikidata:Q158711",
        "wikipedia:ru"
-      ]
-     },
-     {
-      "name": "Звездчатка мокрица",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life"
       ]
      },
      {
@@ -59038,8 +59791,25 @@
       "name": "Mišjakinja",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q158711",
        "wikipedia:sr"
+      ]
+     },
+     {
+      "name": "Мишјакиња",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
+     },
+     {
+      "name": "мишњакиња",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
       ]
      }
     ],
@@ -59062,6 +59832,14 @@
        "col:catalogue-of-life",
        "wikidata:Q158711"
       ]
+     },
+     {
+      "name": "Burrissol",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
+      ]
      }
     ],
     "be": [
@@ -59069,24 +59847,17 @@
       "name": "Зоркаўка сярэдняя",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q158711",
        "wikipedia:be"
       ]
-     }
-    ],
-    "tr": [
-     {
-      "name": "Kuşotu",
-      "preferred": true,
-      "sources": [
-       "col:catalogue-of-life"
-      ]
      },
      {
-      "name": "Serçe Dili",
+      "name": "Макрыца",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life"
+       "col:catalogue-of-life",
+       "wikidata:Q158711"
       ]
      }
     ]
@@ -60102,11 +60873,21 @@
     "wikidata": "Q818481"
    },
    "names": {
-    "cs": [
+    "bg": [
      {
-      "name": "Řimbaba obecná",
+      "name": "Моминска вратига",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "cs": [
+     {
+      "name": "řimbaba obecná",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:cs"
       ]
@@ -60197,11 +60978,19 @@
     ],
     "et": [
      {
-      "name": "Lõhnav neitsikummel",
+      "name": "lõhnav neitsikummel",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:et"
+      ]
+     },
+     {
+      "name": "lõhnav püreeter",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -60220,7 +61009,7 @@
     ],
     "fr": [
      {
-      "name": "Grande camomille",
+      "name": "grande camomille",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -60305,6 +61094,22 @@
        "gbif:flora-helvetica-asteraceae",
        "gbif:info-flora-schweiz-asteraceae"
       ]
+     },
+     {
+      "name": "Mutterkraut-Wucherblume",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "el": [
+     {
+      "name": "Βάλσαμο",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
      }
     ],
     "hu": [
@@ -60314,6 +61119,13 @@
       "sources": [
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:hu"
+      ]
+     },
+     {
+      "name": "őszi varádics",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -60335,6 +61147,23 @@
        "gbif:flora-helvetica-asteraceae",
        "gbif:info-flora-schweiz-asteraceae"
       ]
+     },
+     {
+      "name": "Partenio",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "lt": [
+     {
+      "name": "Vaistinis skaistenis",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci"
+      ]
      }
     ],
     "pl": [
@@ -60342,8 +61171,16 @@
       "name": "Wrotycz maruna",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:pl"
+      ]
+     },
+     {
+      "name": "Złocień maruna",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -60363,6 +61200,13 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
+      ]
+     },
+     {
+      "name": "Artemigem-dos-jardins",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      },
      {
@@ -60428,6 +61272,33 @@
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
+     },
+     {
+      "name": "Samambainha",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "sk": [
+     {
+      "name": "Rimbaba obyčajná",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:sk"
+      ]
+     }
+    ],
+    "sl": [
+     {
+      "name": "beli vratič",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q818481"
+      ]
      }
     ],
     "es": [
@@ -60437,6 +61308,20 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "Artemisa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Santa María",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -60471,7 +61356,24 @@
     ],
     "ru": [
      {
+      "name": "Пижма девичья",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:ru"
+      ]
+     },
+     {
       "name": "piretrum devičij",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "uk": [
+     {
+      "name": "Пижмо дівоче",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life"
@@ -60494,6 +61396,22 @@
        "gbif:backbone",
        "gbif:nordic-crop-wild-relative-cwr-checklist",
        "gbif:red-list-vascular-plants-2021-norway-r-d"
+      ]
+     }
+    ],
+    "tr": [
+     {
+      "name": "Gümüşdüğme",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "beyaz papatya",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ]
@@ -61082,8 +62000,7 @@
       "name": "Regnfang",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
-       "wikipedia:is"
+       "col:catalogue-of-life"
       ]
      }
     ],
@@ -61506,6 +62423,13 @@
        "col:catalogue-of-life",
        "wikidata:Q131219"
       ]
+     },
+     {
+      "name": "pumpumpálé",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
      }
     ],
     "ga": [
@@ -61926,6 +62850,7 @@
        "gbif:grin-taxonomy",
        "gbif:integrated-taxonomic-information-system-",
        "gbif:taxref",
+       "gbif:the-iucn-red-list-of-threatened-species",
        "wikidata:Q42385"
       ]
      },
@@ -61950,7 +62875,8 @@
       "sources": [
        "col:catalogue-of-life",
        "gbif:checklist-dutch-caribbean-species-regist",
-       "gbif:grin-taxonomy"
+       "gbif:grin-taxonomy",
+       "gbif:the-iucn-red-list-of-threatened-species"
       ]
      },
      {
@@ -62081,8 +63007,16 @@
     ],
     "es": [
      {
-      "name": "cacaotero",
+      "name": "Cacao",
       "preferred": true,
+      "sources": [
+       "gbif:listado-de-plantas-de-uso-y-aprovechamie",
+       "gbif:the-iucn-red-list-of-threatened-species"
+      ]
+     },
+     {
+      "name": "cacaotero",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:grin-taxonomy"
@@ -63697,9 +64631,10 @@
    "names": {
     "cs": [
      {
-      "name": "Outkovka pestrá",
+      "name": "outkovka pestrá",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q753833",
        "wikipedia:cs"
       ]
@@ -63721,6 +64656,7 @@
       "name": "Gewoon elfenbankje",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q753833",
        "wikipedia:nl"
       ]
@@ -63751,9 +64687,10 @@
     ],
     "fi": [
      {
-      "name": "Silkkivyökääpä",
+      "name": "silkkivyökääpä",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q753833",
        "wikipedia:fi"
       ]
@@ -63761,9 +64698,10 @@
     ],
     "sl": [
      {
-      "name": "Pisana ploskocevka",
+      "name": "pisana ploskocevka",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q753833",
        "wikipedia:sl"
       ]
@@ -65404,6 +66342,15 @@
       ]
      }
     ],
+    "ro": [
+     {
+      "name": "Trifoi Alb",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
     "sk": [
      {
       "name": "ďatelina plazivá",
@@ -65851,6 +66798,16 @@
     "wikidata": "Q133205"
    },
    "names": {
+    "bg": [
+     {
+      "name": "Сминдух",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q133205"
+      ]
+     }
+    ],
     "cs": [
      {
       "name": "Pískavice řecké seno",
@@ -65858,6 +66815,14 @@
       "sources": [
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikipedia:cs"
+      ]
+     },
+     {
+      "name": "pískavice",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q133205"
       ]
      }
     ],
@@ -65880,6 +66845,14 @@
        "gbif:checklist-dutch-species-register-nederla",
        "wikidata:Q133205",
        "wikipedia:nl"
+      ]
+     },
+     {
+      "name": "bokshoornklaver",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q133205"
       ]
      }
     ],
@@ -65913,9 +66886,18 @@
       ]
      },
      {
+      "name": "Sickle-fruit Fenugreek",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q133205"
+      ]
+     },
+     {
       "name": "sicklefruit fenugreek",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:global-register-of-introduced-and-invasi",
        "gbif:integrated-taxonomic-information-system-",
        "wikidata:Q133205"
@@ -65985,6 +66967,7 @@
       "name": "Görögszéna",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikidata:Q133205",
        "wikipedia:hu"
@@ -66006,6 +66989,7 @@
       "name": "Kozieradka pospolita",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q133205",
        "wikipedia:pl"
       ]
@@ -66016,6 +67000,7 @@
       "name": "Feno-grego",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q133205",
        "wikipedia:pt"
       ]
@@ -66026,6 +67011,7 @@
       "name": "Schinduf",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q133205",
        "wikipedia:ro"
       ]
@@ -66036,6 +67022,7 @@
       "name": "Senovka grécka",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q133205",
        "wikipedia:sk"
       ]
@@ -66069,6 +67056,7 @@
       "name": "Пажитник сенной",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q133205",
        "wikipedia:ru"
       ]
@@ -66079,6 +67067,7 @@
       "name": "Гуньба сінна",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q133205",
        "wikipedia:uk"
       ]
@@ -66120,6 +67109,7 @@
       "name": "Çemen otu",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q133205",
        "wikipedia:tr"
       ]
@@ -67273,7 +68263,23 @@
       ]
      },
      {
+      "name": "amerikaanse cranberry",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q149397"
+      ]
+     },
+     {
       "name": "Amerikaanse veenbes",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q149397"
+      ]
+     },
+     {
+      "name": "grote cranberry",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -67287,6 +68293,14 @@
        "col:catalogue-of-life",
        "gbif:checklist-dutch-species-register-nederla",
        "gbif:daisie-inventory-of-alien-invasive-speci",
+       "wikidata:Q149397"
+      ]
+     },
+     {
+      "name": "veenbes",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q149397"
       ]
      }
@@ -67318,7 +68332,6 @@
       "name": "Cranberry",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:checklist-of-vermont-species",
        "gbif:grin-taxonomy",
        "gbif:integrated-taxonomic-information-system-",
@@ -67629,9 +68642,10 @@
    "names": {
     "cs": [
      {
-      "name": "Brusnice borůvka",
+      "name": "brusnice borůvka",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q5413585",
        "wikipedia:cs"
       ]
@@ -67786,6 +68800,14 @@
        "gbif:the-finbif-checklist-of-finnish-species",
        "wikipedia:fi"
       ]
+     },
+     {
+      "name": "kangasmustikka",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q5413585"
+      ]
      }
     ],
     "fr": [
@@ -67807,6 +68829,7 @@
       "name": "myrtille commune",
       "preferred": false,
       "sources": [
+       "col:catalogue-of-life",
        "gbif:belgian-species-list",
        "wikidata:Q5413585"
       ]
@@ -67878,18 +68901,35 @@
     ],
     "sl": [
      {
-      "name": "Borovnica",
+      "name": "borovnica",
       "preferred": true,
       "sources": [
+       "col:catalogue-of-life",
        "wikidata:Q5413585",
        "wikipedia:sl"
+      ]
+     },
+     {
+      "name": "črnica",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q5413585"
       ]
      }
     ],
     "es": [
      {
-      "name": "mirtillo",
+      "name": "arándano",
       "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q5413585"
+      ]
+     },
+     {
+      "name": "mirtillo",
+      "preferred": false,
       "sources": [
        "col:catalogue-of-life",
        "gbif:flora-e-funga-do-brasil-lista-oficial"
@@ -69105,7 +70145,7 @@
     ],
     "cs": [
      {
-      "name": "Divizna malokvětá",
+      "name": "divizna malokvětá",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -69744,14 +70784,6 @@
       "sources": [
        "col:catalogue-of-life"
       ]
-     },
-     {
-      "name": "Verbasco",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q160095"
-      ]
      }
     ],
     "sv": [
@@ -69869,6 +70901,13 @@
       "sources": [
        "col:catalogue-of-life",
        "wikidata:Q160095"
+      ]
+     },
+     {
+      "name": "Burunca",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
       ]
      }
     ]
@@ -72749,7 +73788,7 @@
       ]
      },
      {
-      "name": "kukuřice",
+      "name": "Kukuřice",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -72838,14 +73877,6 @@
       "sources": [
        "col:catalogue-of-life"
       ]
-     },
-     {
-      "name": "Teosinte",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q11575"
-      ]
      }
     ],
     "et": [
@@ -72931,7 +73962,6 @@
       "name": "Kukuruz",
       "preferred": false,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:daisie-inventory-of-alien-invasive-speci",
        "wikidata:Q11575"
       ]
@@ -73070,30 +74100,6 @@
        "wikidata:Q11575",
        "wikipedia:pt"
       ]
-     },
-     {
-      "name": "abati",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q11575"
-      ]
-     },
-     {
-      "name": "auati",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q11575"
-      ]
-     },
-     {
-      "name": "avati",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q11575"
-      ]
      }
     ],
     "sk": [
@@ -73120,11 +74126,11 @@
     ],
     "es": [
      {
-      "name": "Maiz",
+      "name": "maíz",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
-       "wikidata:Q11575"
+       "gbif:flora-e-funga-do-brasil-lista-oficial"
       ]
      },
      {
@@ -73135,42 +74141,10 @@
       ]
      },
      {
-      "name": "Coronta o Panocha",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q11575"
-      ]
-     },
-     {
-      "name": "Elote o Choclo",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q11575"
-      ]
-     },
-     {
       "name": "Mazorca",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life"
-      ]
-     },
-     {
-      "name": "maíz",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "gbif:flora-e-funga-do-brasil-lista-oficial"
-      ]
-     },
-     {
-      "name": "Olote",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q11575"
       ]
      }
     ],
@@ -73216,10 +74190,9 @@
     ],
     "no": [
      {
-      "name": "mais",
+      "name": "Mais",
       "preferred": true,
       "sources": [
-       "col:catalogue-of-life",
        "gbif:backbone",
        "gbif:red-list-vascular-plants-2021-norway-r-d",
        "wikidata:Q11575",
@@ -73261,14 +74234,6 @@
      },
      {
       "name": "Blat de moro",
-      "preferred": false,
-      "sources": [
-       "col:catalogue-of-life",
-       "wikidata:Q11575"
-      ]
-     },
-     {
-      "name": "Panís",
       "preferred": false,
       "sources": [
        "col:catalogue-of-life",
@@ -73413,7 +74378,7 @@
     ],
     "it": [
      {
-      "name": "Zenzero",
+      "name": "zenzero",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",
@@ -73454,7 +74419,7 @@
     ],
     "es": [
      {
-      "name": "Jengibre",
+      "name": "jengibre",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life",

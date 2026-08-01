@@ -110,7 +110,7 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
     - gbif:united-kingdom-species-inventory-uksi
-  - name: broad-leaved plantain
+  - name: Broad-leaved Plantain
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
@@ -168,7 +168,7 @@ names:
     - wikidata:Q157154
     - wikipedia:fi
   fr:
-  - name: Grand Plantain
+  - name: Grand plantain
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -725,5 +725,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

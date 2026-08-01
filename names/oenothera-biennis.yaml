@@ -2,18 +2,20 @@ id: oenothera-biennis
 scientific_name: Oenothera biennis
 names:
   hr:
+  - name: Noćurak
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157353
   - name: Dvogodišnja pupoljka
     sources:
     - wikipedia:hr
-    status: needs-review
-  - name: Noćurak
-    sources:
-    - wikidata:Q157353
     status: needs-review
   cs:
   - name: pupalka dvouletá
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikidata:Q157353
     - wikipedia:cs
@@ -36,8 +38,12 @@ names:
     - wikidata:Q157353
     - wikipedia:nl
   en:
-  - name: Common Evening-primrose
+  - name: Evening Primrose
     preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157353
+  - name: Common Evening-primrose
     sources:
     - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
@@ -115,14 +121,11 @@ names:
     sources:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
-  - name: Evening Primrose
-    sources:
-    - wikidata:Q157353
-    status: needs-review
   et:
   - name: Kaheaastane kuningakepp
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikidata:Q157353
     - wikipedia:et
@@ -167,6 +170,7 @@ names:
   - name: Gemeine Nachtkerze
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:belgian-species-list
     - wikidata:Q157353
     - wikipedia:de
@@ -204,6 +208,7 @@ names:
   - name: Parlagi ligetszépe
     preferred: true
     sources:
+    - col:catalogue-of-life
     - gbif:daisie-inventory-of-alien-invasive-speci
     - wikidata:Q157353
     - wikipedia:hu
@@ -216,8 +221,8 @@ names:
     - gbif:info-flora-schweiz-onagraceae
   - name: Enotera
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
-    status: needs-review
   - name: Enagra commune
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
@@ -237,6 +242,7 @@ names:
   - name: Wiesiołek dwuletni
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
     - wikipedia:pl
   pt:
@@ -274,19 +280,27 @@ names:
   - name: Luminiță
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
     - wikipedia:ro
   sk:
   - name: Pupalka dvojročná
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
-    status: needs-review
   sl:
   - name: dvoletni svetlin
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
-    status: needs-review
   es:
+  - name: Onagra común
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q157353
   - name: onagra
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
@@ -294,10 +308,6 @@ names:
   - name: enotera
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
-    status: needs-review
-  - name: Onagra común
-    sources:
-    - wikidata:Q157353
     status: needs-review
   - name: hierba del asno
     sources:
@@ -340,6 +350,7 @@ names:
   - name: Ослинник двулетний
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
     - wikipedia:ru
   - name: oslennik dvuchletnyj
@@ -349,6 +360,7 @@ names:
   - name: Енотера дворічна
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
     - wikipedia:uk
   'no':
@@ -367,19 +379,22 @@ names:
   - name: Bella de nit
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
     - wikipedia:ca
   be:
   - name: Асліннік двухгадовы
     preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
     - wikipedia:be
   tr:
   - name: Eşek otu
+    preferred: true
     sources:
+    - col:catalogue-of-life
     - wikidata:Q157353
-    status: needs-review
 verification:
   checked_languages:
   - bg
@@ -420,5 +435,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

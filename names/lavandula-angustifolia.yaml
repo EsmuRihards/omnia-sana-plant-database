@@ -51,7 +51,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:checklist-of-vermont-species
-    - gbif:the-iucn-red-list-of-threatened-species
     - wikidata:Q42081
   - name: Common Lavender
     sources:
@@ -165,7 +164,6 @@ names:
     - gbif:grin-taxonomy
     - gbif:nordic-crop-wild-relative-cwr-checklist
     - gbif:risk-assessment-of-alien-taxa-in-sweden-
-    - gbif:the-iucn-red-list-of-threatened-species
     - wikipedia:sv
   ru:
   - name: Лаванда узколистная
@@ -244,5 +242,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

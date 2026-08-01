@@ -3,35 +3,32 @@ scientific_name: Pinus sylvestris
 names:
   bg:
   - name: Бял бор
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:bg
+    status: needs-review
   hr:
   - name: Obični bor
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:hr
+    status: needs-review
   cs:
-  - name: borovice lesní
+  - name: Borovice lesní
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q133128
     - wikipedia:cs
   da:
-  - name: Skovfyr
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-    - wikipedia:da
   - name: Skov-fyr
+    preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:national-checklist-of-all-species-occurr
     - gbif:nordic-crop-wild-relative-cwr-checklist
     - gbif:red-list-vascular-plants-denmark-r-dlist
+  - name: Skovfyr
+    sources:
+    - wikipedia:da
+    status: needs-review
   - name: Have-Kørvel
     sources:
     - gbif:daisie-inventory-of-alien-invasive-speci
@@ -95,10 +92,9 @@ names:
     - gbif:checklist-of-vermont-species
     - gbif:martha-s-vineyard-species-checklist
   et:
-  - name: harilik mänd
+  - name: Harilik mänd
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q133128
     - wikipedia:et
   fi:
@@ -191,13 +187,12 @@ names:
     - gbif:the-iucn-red-list-of-threatened-species
   - name: Gewöhnliche Kiefer
     sources:
-    - col:catalogue-of-life
     - gbif:red-list-vascular-plants-2018-germany-ro
     - wikidata:Q133128
   - name: Rot-Kiefer
     sources:
-    - col:catalogue-of-life
     - wikidata:Q133128
+    status: needs-review
   - name: Wald-Föhre
     sources:
     - gbif:red-list-vascular-plants-2016-switzerlan
@@ -207,23 +202,20 @@ names:
     - gbif:eunis-biodiversity-database
     status: needs-review
   el:
-  - name: Δασική Πεύκη
-    preferred: true
+  - name: Δασική πεύκη
     sources:
-    - col:catalogue-of-life
     - wikipedia:el
+    status: needs-review
   hu:
   - name: Erdeifenyő
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:hu
+    status: needs-review
   ga:
   - name: Péine Albanach
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:ga
+    status: needs-review
   it:
   - name: Pino silvestre
     preferred: true
@@ -240,16 +232,14 @@ names:
     - gbif:info-flora-schweiz-pinaceae
   lv:
   - name: Parastā priede
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:lv
+    status: needs-review
   lt:
   - name: Paprastoji pušis
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:lt
+    status: needs-review
   pl:
   - name: Sosna Zwyczajna
     preferred: true
@@ -269,9 +259,6 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:lista-vermelha-da-flora-vascular-de-port
-  - name: Pinheiro silvestre
-    sources:
-    - col:catalogue-of-life
   - name: pinho
     sources:
     - gbif:flora-e-funga-do-brasil-lista-oficial
@@ -314,22 +301,19 @@ names:
     status: needs-review
   ro:
   - name: Pin de pădure
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:ro
+    status: needs-review
   sk:
   - name: Borovica lesná
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q133128
     - wikipedia:sk
   sl:
-  - name: rdeči bor
+  - name: Rdeči bor
     preferred: true
     sources:
-    - col:catalogue-of-life
     - wikidata:Q133128
     - wikipedia:sl
   es:
@@ -385,12 +369,8 @@ names:
     - gbif:daisie-inventory-of-alien-invasive-speci
     status: needs-review
   ru:
-  - name: Сосна обыкновенная
-    preferred: true
-    sources:
-    - col:catalogue-of-life
-    - wikipedia:ru
   - name: Sosna Lesnaya
+    preferred: true
     sources:
     - col:catalogue-of-life
     - gbif:the-iucn-red-list-of-threatened-species
@@ -398,11 +378,14 @@ names:
     sources:
     - col:catalogue-of-life
     - gbif:the-iucn-red-list-of-threatened-species
+  - name: Сосна обыкновенная
+    sources:
+    - wikipedia:ru
+    status: needs-review
   uk:
   - name: Сосна звичайна
     preferred: true
     sources:
-    - col:catalogue-of-life
     - gbif:red-list-of-flora-and-fauna-of-zakarpatt
     - wikipedia:uk
   'no':
@@ -445,10 +428,6 @@ names:
     - gbif:daisie-inventory-of-alien-invasive-speci
     status: needs-review
   sr:
-  - name: Бели бор - Beli bor
-    preferred: true
-    sources:
-    - col:catalogue-of-life
   - name: Бели бор
     sources:
     - wikipedia:sr
@@ -460,24 +439,21 @@ names:
     status: needs-review
   is:
   - name: Skógarfura
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:is
+    status: needs-review
   ca:
   - name: Pi roig
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:ca
+    status: needs-review
   be:
   - name: Хвоя звычайная
-    preferred: true
     sources:
-    - col:catalogue-of-life
     - wikipedia:be
+    status: needs-review
   tr:
-  - name: Sarıçam
+  - name: sarıçam
     preferred: true
     sources:
     - col:catalogue-of-life
@@ -523,5 +499,5 @@ verification:
   - gbif
   - wikidata
   - wikipedia
-  last_run: '2026-07-14'
-last_verified: '2026-07-14'
+  last_run: '2026-08-01'
+last_verified: '2026-08-01'

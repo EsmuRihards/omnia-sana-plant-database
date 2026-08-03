@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/practice@1",
- "count": 13,
+ "count": 17,
  "solvents": [
   {
    "id": "water",
@@ -843,6 +843,54 @@
    "status": "approved"
   },
   {
+   "id": "agrimonia-eupatoria--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Agrimonia eupatoria",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard agrimony (Agrimonia eupatoria) herb tincture as a 1:5 preparation in ethanol 45% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 45,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Agrimonia eupatoria"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3154"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
    "id": "artemisia-absinthium--tincture--normative",
    "record_type": "dose-form-conversion",
    "parameter_kind": "normative",
@@ -1091,6 +1139,54 @@
    "status": "approved"
   },
   {
+   "id": "eleutherococcus-senticosus--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Eleutherococcus senticosus",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard eleutherococcus (Eleutherococcus senticosus, Siberian ginseng) root tincture as a 1:5 preparation in ethanol 40% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 40,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Eleutherococcus senticosus"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3155"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
    "id": "humulus-lupulus--tincture--normative",
    "record_type": "dose-form-conversion",
    "parameter_kind": "normative",
@@ -1229,6 +1325,102 @@
    "discordance_note": "",
    "references": [
     "REF-3141"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "potentilla-erecta--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Potentilla erecta",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph lists a tormentil (Potentilla erecta) rhizome tincture as a 1:5 preparation in ethanol 70% V/V (the Ph. Eur. Tormentillae tinctura); the same monograph also lists a 1:5 tincture in ethanol 45% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 70,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Potentilla erecta"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3156"
+   ],
+   "confidence_band": "supported",
+   "confidence_index": 6,
+   "basis_tier": "pharmacopoeial",
+   "concordant_sources": 0,
+   "discordant_sources": 0,
+   "scale": "omnia-sana/method-confidence@1",
+   "status": "approved"
+  },
+  {
+   "id": "primula-veris--tincture--normative",
+   "record_type": "dose-form-conversion",
+   "parameter_kind": "normative",
+   "species_scope": "species-specific",
+   "compound_id": null,
+   "species": "Primula veris",
+   "extraction_class": null,
+   "part": null,
+   "solvent": null,
+   "method": null,
+   "recommendation": {
+    "parameter": "drug_extract_ratio",
+    "route": "internal",
+    "jurisdiction": "EU",
+    "value": "1:5",
+    "statement": "In the EU, the EMA HMPC herbal monograph defines a standard cowslip/primula root (Primula veris) tincture as a 1:5 preparation in ethanol 70% V/V.",
+    "derived_from": [
+     "F1"
+    ]
+   },
+   "avoid": [],
+   "conversion": {
+    "input_form": "dried-herb",
+    "output_form": "tincture",
+    "drug_extract_ratio": "1:5",
+    "menstruum_ethanol_pct": 70,
+    "equivalence": {
+     "preparation_ml": 5,
+     "dried_herb_g": 1
+    }
+   },
+   "source_taxa": [
+    "Primula veris"
+   ],
+   "excluded_taxa": [],
+   "discordance_note": "",
+   "references": [
+    "REF-3153"
    ],
    "confidence_band": "supported",
    "confidence_index": 6,

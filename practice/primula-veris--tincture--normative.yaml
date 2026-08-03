@@ -1,0 +1,76 @@
+# Practice corpus — dose-form-conversion (NORMATIVE), APPROVED.
+# Sources the cowslip/primula-root (Primula veris) tincture standard (ratio +
+# menstruum strength) from the free, public EMA HMPC EU herbal monograph.
+# Normative: one authority suffices.
+id: primula-veris--tincture--normative
+record_type: dose-form-conversion
+parameter_kind: normative
+species_scope: species-specific
+species: Primula veris
+status: approved
+last_updated: 2026-07-27
+reviewed_by: "Claude Opus 4.8 — authoring pass (owner-authorized)"
+reviewed_date: 2026-07-27
+verified_by: "Claude Opus 4.8 — independent verification pass, re-derived from the EMA primary (owner-authorized)"
+verified_date: 2026-07-27
+
+key:
+  compound_id: null
+  extraction_class: null
+  part: null
+  solvent: null
+  method: null
+
+findings:
+  - id: F1
+    ref_id: REF-3153
+    method_type: pharmacopoeial
+    fulltext_source: publisher-html
+    varied_factor: none
+    statement_summary: >-
+      EMA HMPC lists, among traditional-use Primula root (Primula veris and/or P.
+      elatior) preparations, a tincture at a herbal-substance-to-extraction-solvent
+      ratio of 1:5 in ethanol 70% V/V, alongside liquid, dry and soft extracts.
+    locator:
+      section: monograph
+      monograph: "Primula veris L. and/or Primula elatior (L.) Hill, radix — section 2, Qualitative and quantitative composition, preparation D"
+      edition: "EMA/HMPC/104095/2012 (adopted 19 September 2012)"
+    authority: ema-hmpc
+    material:
+      species: Primula veris
+      part: root
+      state: dried
+
+# The calculator payload. A 1:5 tincture: 5 mL of finished tincture is equivalent to
+# 1 g of dried root. Menstruum strength 70% ethanol.
+conversion:
+  input_form: dried-herb
+  output_form: tincture
+  drug_extract_ratio: "1:5"
+  menstruum_ethanol_pct: 70
+  equivalence:
+    preparation_ml: 5
+    dried_herb_g: 1
+
+recommendation:
+  parameter: drug_extract_ratio
+  route: internal                 # primula root tincture is taken orally (expectorant)
+  jurisdiction: EU
+  value: "1:5"
+  statement: >-
+    In the EU, the EMA HMPC herbal monograph defines a standard cowslip/primula root
+    (Primula veris) tincture as a 1:5 preparation in ethanol 70% V/V.
+  derived_from: [F1]
+
+internal_notes: >-
+  Normative dose-form-conversion record (2026-07-27, approved). Sources the tincture
+  calculator's ratio (1:5) and menstruum strength (ethanol 70% V/V) for primula/cowslip
+  root from the free public EMA HMPC monograph EMA/HMPC/104095/2012, read in full via
+  the EMA PDF. The monograph's single tincture is preparation D), 1:5 at 70% ethanol
+  (traditional-use-only monograph; expectorant indication). Published name is "Primula
+  veris L. and/or Primula elatior (L.) Hill, radix" — the monograph covers both species;
+  normalised here to the DB accepted binomial Primula veris (the primary named species),
+  which matches slug(species)==plant.id. One authority suffices for a normative record;
+  jurisdiction is EU and the statement is jurisdiction-scoped. reviewed_by/verified_by
+  are two distinct AI passes by the same agent, owner-authorized, NOT two independent
+  human experts.

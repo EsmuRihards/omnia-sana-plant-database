@@ -1,0 +1,79 @@
+# Practice corpus — dose-form-conversion (NORMATIVE), APPROVED.
+# Sources the tormentil (Potentilla erecta) rhizome tincture standard (ratio +
+# menstruum strength) from the free, public EMA HMPC EU herbal monograph.
+# Normative: one authority suffices.
+id: potentilla-erecta--tincture--normative
+record_type: dose-form-conversion
+parameter_kind: normative
+species_scope: species-specific
+species: Potentilla erecta
+status: approved
+last_updated: 2026-07-27
+reviewed_by: "Claude Opus 4.8 — authoring pass (owner-authorized)"
+reviewed_date: 2026-07-27
+verified_by: "Claude Opus 4.8 — independent verification pass, re-derived from the EMA primary (owner-authorized)"
+verified_date: 2026-07-27
+
+key:
+  compound_id: null
+  extraction_class: null
+  part: null
+  solvent: null
+  method: null
+
+findings:
+  - id: F1
+    ref_id: REF-3156
+    method_type: pharmacopoeial
+    fulltext_source: publisher-html
+    varied_factor: none
+    statement_summary: >-
+      EMA HMPC lists, among traditional-use tormentil (Potentilla erecta) rhizome
+      preparations, two tinctures at a ratio of 1:5 — one in ethanol 70% V/V (the Ph.
+      Eur. Tormentillae tinctura), one in ethanol 45% V/V — plus liquid and dry extracts.
+    locator:
+      section: monograph
+      monograph: "Potentilla erecta (L.) Raeusch., rhizoma — section 2, Qualitative and quantitative composition, preparations b and c"
+      edition: "EMA/HMPC/5513/2010 (adopted 25 November 2010)"
+    authority: ema-hmpc
+    material:
+      species: Potentilla erecta
+      part: rhizome
+      state: dried
+
+# The calculator payload. A 1:5 tincture: 5 mL of finished tincture is equivalent to
+# 1 g of dried rhizome. Menstruum strength 70% ethanol (headline; a 45% variant exists).
+conversion:
+  input_form: dried-herb
+  output_form: tincture
+  drug_extract_ratio: "1:5"
+  menstruum_ethanol_pct: 70
+  equivalence:
+    preparation_ml: 5
+    dried_herb_g: 1
+
+recommendation:
+  parameter: drug_extract_ratio
+  route: internal                 # tormentil tincture, indication 1 (mild diarrhoea), is taken orally
+  jurisdiction: EU
+  value: "1:5"
+  statement: >-
+    In the EU, the EMA HMPC herbal monograph lists a tormentil (Potentilla erecta)
+    rhizome tincture as a 1:5 preparation in ethanol 70% V/V (the Ph. Eur. Tormentillae
+    tinctura); the same monograph also lists a 1:5 tincture in ethanol 45% V/V.
+  derived_from: [F1]
+
+internal_notes: >-
+  Normative dose-form-conversion record (2026-07-27, approved). Sources the tincture
+  calculator's ratio (1:5) and menstruum strength for tormentil from the free public
+  EMA HMPC monograph EMA/HMPC/5513/2010, read in full via the EMA PDF. Section 2
+  (traditional use) lists TWO 1:5 tinctures: preparation b) in ethanol 70% V/V and
+  preparation c) in ethanol 45% V/V. The 70% variant is recorded as the headline — it
+  is the one the monograph flags as complying with the Ph. Eur. Tormentillae tinctura
+  (ref. 01/2008:1895), the pharmacopoeial standard; the 45% variant is noted in the
+  finding and statement. Route internal: the tinctures are oral for indication 1 (mild
+  diarrhoea, 1-2 ml or 2-4 ml 3x daily); the 70% tincture is also used oromucosally
+  (mouth rinse) for indication 2. One authority suffices for a normative record;
+  jurisdiction is EU and the statement is jurisdiction-scoped. reviewed_by/verified_by
+  are two distinct AI passes by the same agent, owner-authorized, NOT two independent
+  human experts.

@@ -3,7 +3,6 @@ scientific_name: Solidago canadensis
 common_names:
 - Canadian goldenrod
 - Canada goldenrod
-- Goldenrod
 family: Asteraceae
 external_ids:
   gbif: 5389029
@@ -371,4 +370,10 @@ internal_notes: 'New record created 2026-08-04 (Canadian goldenrod campaign). Sp
   the goldenrod/ragwort foraging refs REF-2705/2689/2690, which are genus-generic). drug_class_interactions
   and pairings deliberately left empty: no S. canadensis-specific interaction or herb-pairing evidence exists,
   and class-based inference from the diuretic action was judged too weak to publish (the more-studied virgaurea
-  record likewise carries none). Revisit if a diuretic-class interaction source specific to goldenrod is found.'
+  record likewise carries none). Revisit if a diuretic-class interaction source specific to goldenrod is found.
+  | 2026-08-04: dropped bare "Goldenrod" from common_names (kept Canadian/Canada goldenrod). It was a shared
+  alias with solidago-virgaurea and, via the plant-page os_pp_studies() common-name fallback, pulled two
+  S. virgaurea studies (REF-1045 review, REF-1047 Candida RCT) onto this page''s "Selected studies" section.
+  Root cause was renderer-side only — this record''s citations are all S. canadensis-specific or generic; the
+  DB was never wrong. Renderer fixed to require a scientific-name match (common-name fallback now fires only
+  when a citation names no binomial). Audited clean 2026-08-04.'

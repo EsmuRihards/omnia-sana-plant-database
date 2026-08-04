@@ -54087,8 +54087,7 @@
    "scientific_name": "Solidago canadensis",
    "common_names": [
     "Canadian goldenrod",
-    "Canada goldenrod",
-    "Goldenrod"
+    "Canada goldenrod"
    ],
    "family": "Asteraceae",
    "external_ids": {
@@ -54518,10 +54517,11 @@
    "id": "solidago-virgaurea",
    "scientific_name": "Solidago virgaurea",
    "common_names": [
-    "Goldenrod",
     "European goldenrod",
+    "Goldenrod",
     "woundwort"
    ],
+   "common_slug": "goldenrod",
    "family": "Asteraceae",
    "external_ids": {
     "gbif": 6446462,
@@ -54829,8 +54829,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
-   "common_slug": "goldenrod"
+   "last_updated": "2026-07-13"
   },
   {
    "id": "stachys-officinalis",

@@ -1,9 +1,10 @@
 id: solidago-virgaurea
 scientific_name: Solidago virgaurea
 common_names:
-- Goldenrod
 - European goldenrod
+- Goldenrod
 - woundwort
+common_slug: goldenrod
 family: Asteraceae
 external_ids:
   gbif: 6446462
@@ -262,4 +263,10 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monograph-base fields, sourced from the existing Community herbal monograph (REF-0069) and ethnomedicinal/phytochemistry
   review (REF-1045) plus the dedicated saponins paper (REF-0016). | 2026-07-13: added anticancer action
   (where absent) + cancer indication (anticancer/antitumour research) sourced from the plant''s cited
-  literature, as part of the cancer-condition campaign.'
+  literature, as part of the cancer-condition campaign. | 2026-08-04: primary common name changed to "European
+  goldenrod" (was "Goldenrod") to disambiguate from Canadian goldenrod (solidago-canadensis); common_slug
+  pinned to "goldenrod" so the public URL /plants/goldenrod/ is preserved. The shared bare alias "Goldenrod"
+  had let the plant-page os_pp_studies() renderer cross-link this species'' studies onto the canadensis page
+  (and vice versa) via a common-name fallback; that renderer was fixed to require scientific-name match. This
+  record''s citations were audited and are all S. virgaurea-specific or generic (Duke handbook, Kew/POWO,
+  shared ragwort/foraging refs) — no wrong-species citations.'

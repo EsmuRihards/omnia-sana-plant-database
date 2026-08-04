@@ -9293,6 +9293,101 @@
    ]
   },
   {
+   "name": "European goldenrod",
+   "scientific": "Solidago virgaurea",
+   "id": "solidago-virgaurea",
+   "common_slug": "goldenrod",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 7,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244",
+      "REF-1045",
+      "REF-1048"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-1050"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244",
+      "REF-1046"
+     ]
+    },
+    {
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244",
+      "REF-1048"
+     ]
+    },
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244"
+     ]
+    },
+    {
+     "condition": "skin-irritation",
+     "label": "Skin irritation",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244"
+     ]
+    },
+    {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 1,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-0016",
+      "REF-0069",
+      "REF-0244"
+     ]
+    }
+   ]
+  },
+  {
    "name": "Evening Primrose",
    "scientific": "Oenothera biennis",
    "id": "oenothera-biennis",
@@ -11100,101 +11195,6 @@
      "inferred": true,
      "references": [
       "REF-0308"
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Goldenrod",
-   "scientific": "Solidago virgaurea",
-   "id": "solidago-virgaurea",
-   "common_slug": "goldenrod",
-   "wp_post_id": null,
-   "indications": [
-    {
-     "condition": "urinary-support",
-     "label": "Urinary support",
-     "evidence": 7,
-     "status": "verified",
-     "inferred": false,
-     "references": [
-      "REF-0016",
-      "REF-0069",
-      "REF-0244",
-      "REF-1045",
-      "REF-1048"
-     ]
-    },
-    {
-     "condition": "cancer",
-     "label": "Cancer (anticancer research)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-1050"
-     ]
-    },
-    {
-     "condition": "inflammation",
-     "label": "Inflammation (general)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0016",
-      "REF-0069",
-      "REF-0244",
-      "REF-1046"
-     ]
-    },
-    {
-     "condition": "uti",
-     "label": "Urinary tract infection (UTI)",
-     "evidence": 2,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0016",
-      "REF-0069",
-      "REF-0244",
-      "REF-1048"
-     ]
-    },
-    {
-     "condition": "arthritis",
-     "label": "Arthritis / joint pain",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0016",
-      "REF-0069",
-      "REF-0244"
-     ]
-    },
-    {
-     "condition": "skin-irritation",
-     "label": "Skin irritation",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0016",
-      "REF-0069",
-      "REF-0244"
-     ]
-    },
-    {
-     "condition": "swelling",
-     "label": "Swelling / fluid retention",
-     "evidence": 1,
-     "status": "needs-review",
-     "inferred": true,
-     "references": [
-      "REF-0016",
-      "REF-0069",
-      "REF-0244"
      ]
     }
    ]

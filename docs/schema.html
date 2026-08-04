@@ -1,0 +1,746 @@
+<title>Omnia Sana — Data Schema & Lineage</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root{
+    --ground:#eef1ec; --surface:#ffffff; --surface-2:#f6f8f4;
+    --ink:#16211c; --muted:#5c6b62; --line:#d6ddd6; --line-strong:#b9c4bb;
+    --c-source:#2f8f5b; --c-build:#c2872a; --c-artifact:#1f9a9a; --c-tool:#6d6ae0;
+    --good:#2f8f5b; --warn:#c2872a; --bad:#c8503f;
+    --hi:#16211c;
+    --font-ui:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --font-mono:ui-monospace,"Cascadia Code","SF Mono",Menlo,Consolas,monospace;
+    --font-serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --shadow:0 1px 2px rgba(20,40,30,.06),0 6px 22px rgba(20,40,30,.08);
+  }
+  @media (prefers-color-scheme:dark){
+    :root{
+      --ground:#0d1512; --surface:#141e1a; --surface-2:#101915;
+      --ink:#e8efe9; --muted:#93a89b; --line:#243530; --line-strong:#31463f;
+      --c-source:#43b978; --c-build:#e0a944; --c-artifact:#33bcbc; --c-tool:#9a97f2;
+      --good:#43b978; --warn:#e0a944; --bad:#e2705f;
+      --hi:#e8efe9;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 26px rgba(0,0,0,.4);
+    }
+  }
+  :root[data-theme="light"]{
+    --ground:#eef1ec; --surface:#ffffff; --surface-2:#f6f8f4;
+    --ink:#16211c; --muted:#5c6b62; --line:#d6ddd6; --line-strong:#b9c4bb;
+    --c-source:#2f8f5b; --c-build:#c2872a; --c-artifact:#1f9a9a; --c-tool:#6d6ae0;
+    --good:#2f8f5b; --warn:#c2872a; --bad:#c8503f; --hi:#16211c;
+    --shadow:0 1px 2px rgba(20,40,30,.06),0 6px 22px rgba(20,40,30,.08);
+  }
+  :root[data-theme="dark"]{
+    --ground:#0d1512; --surface:#141e1a; --surface-2:#101915;
+    --ink:#e8efe9; --muted:#93a89b; --line:#243530; --line-strong:#31463f;
+    --c-source:#43b978; --c-build:#e0a944; --c-artifact:#33bcbc; --c-tool:#9a97f2;
+    --good:#43b978; --warn:#e0a944; --bad:#e2705f; --hi:#e8efe9;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 26px rgba(0,0,0,.4);
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--font-ui);
+    -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;line-height:1.5}
+  a{color:inherit}
+  .wrap{max-width:1500px;margin:0 auto;padding:22px clamp(12px,3vw,28px) 60px}
+
+  /* header */
+  header.top{display:flex;flex-wrap:wrap;align-items:flex-end;gap:16px 24px;
+    padding-bottom:18px;border-bottom:1px solid var(--line)}
+  .brand{display:flex;flex-direction:column;gap:4px;min-width:min(100%,420px);flex:1 1 420px}
+  .eyebrow{font-family:var(--font-mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+    color:var(--c-source);font-weight:600}
+  h1{font-size:clamp(24px,3.4vw,36px);margin:0;line-height:1.05;letter-spacing:-.02em;text-wrap:balance}
+  .lede{font-family:var(--font-serif);color:var(--muted);font-size:15px;max-width:60ch;margin-top:2px}
+  .statline{display:flex;gap:18px;flex-wrap:wrap;font-family:var(--font-mono);font-size:12px;
+    color:var(--muted);align-items:flex-end}
+  .statline b{color:var(--ink);font-size:19px;font-weight:600;font-variant-numeric:tabular-nums}
+  .statline .s{display:flex;flex-direction:column;line-height:1.15}
+
+  /* controls */
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;
+    margin:16px 0 6px}
+  .tabs{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:11px;
+    padding:4px;gap:2px;box-shadow:var(--shadow)}
+  .tabs button{font-family:var(--font-ui);font-size:13px;font-weight:550;color:var(--muted);
+    background:transparent;border:0;padding:8px 14px;border-radius:8px;cursor:pointer;white-space:nowrap;
+    display:inline-flex;align-items:center;gap:7px;transition:background .15s,color .15s}
+  .tabs button .dotc{width:8px;height:8px;border-radius:50%;background:currentColor;opacity:.55}
+  .tabs button:hover{color:var(--ink)}
+  .tabs button[aria-selected="true"]{background:var(--surface-2);color:var(--ink);
+    box-shadow:inset 0 0 0 1px var(--line-strong)}
+  .rightctl{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--muted);align-items:center}
+  .legend .li{display:inline-flex;align-items:center;gap:6px}
+  .legend .sw{width:11px;height:11px;border-radius:3px}
+  .hint{font-family:var(--font-mono);font-size:11px;color:var(--muted)}
+  .themebtn{font:inherit;font-size:12px;color:var(--muted);background:var(--surface);
+    border:1px solid var(--line);border-radius:8px;padding:7px 11px;cursor:pointer}
+  .themebtn:hover{color:var(--ink)}
+
+  /* main layout */
+  .board{display:grid;grid-template-columns:minmax(0,1fr) 372px;gap:16px;margin-top:12px;align-items:start}
+  @media (max-width:960px){.board{grid-template-columns:1fr}}
+
+  .stagewrap{background:
+      linear-gradient(var(--surface-2),var(--surface-2));
+    border:1px solid var(--line);border-radius:16px;overflow:auto;position:relative;box-shadow:var(--shadow)}
+  .colhead{position:absolute;top:10px;font-family:var(--font-mono);font-size:11px;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--muted);font-weight:600;transform:translateX(-50%);
+    display:flex;align-items:center;gap:6px;pointer-events:none;transition:opacity .25s}
+  .colhead .n{width:7px;height:7px;border-radius:50%}
+  .stage{position:relative;min-width:940px;height:960px}
+  svg.edges{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:visible}
+  svg.edges path{fill:none;stroke:var(--line-strong);stroke-width:1.4;opacity:.5;
+    transition:opacity .2s,stroke .2s,stroke-width .2s}
+  svg.edges path.lit{opacity:1;stroke-width:2.4}
+  svg.edges path.dim{opacity:.08}
+
+  .node{position:absolute;transform:translate(-50%,-50%);width:150px;background:var(--surface);
+    border:1px solid var(--line);border-left:3px solid var(--nc,var(--line-strong));border-radius:11px;
+    padding:9px 11px 10px;cursor:pointer;text-align:left;box-shadow:var(--shadow);
+    transition:box-shadow .18s,transform .18s,opacity .2s,border-color .2s;font-family:inherit;color:inherit}
+  .node:hover{transform:translate(-50%,-50%) translateY(-2px);border-color:var(--nc)}
+  .node:focus-visible{outline:2px solid var(--nc);outline-offset:2px}
+  .node .nt{font-family:var(--font-mono);font-size:12px;font-weight:600;line-height:1.2;
+    display:flex;align-items:center;gap:6px}
+  .node .nt .ic{width:9px;height:9px;border-radius:2.5px;background:var(--nc);flex:none}
+  .node .ns{font-size:10.5px;color:var(--muted);margin-top:3px;line-height:1.25}
+  .node .cnt{font-family:var(--font-mono);font-variant-numeric:tabular-nums;font-weight:600;
+    font-size:11px;color:var(--nc);margin-top:5px;display:inline-block}
+  .node.active{box-shadow:0 0 0 2px var(--nc),var(--shadow);transform:translate(-50%,-50%) translateY(-2px)}
+  .node.lit{border-color:var(--nc)}
+  .node.dim{opacity:.28}
+  .node .badge{position:absolute;top:-8px;right:-6px;font-family:var(--font-mono);font-size:9px;
+    font-weight:700;letter-spacing:.03em;padding:2px 5px;border-radius:6px;background:var(--bad);
+    color:#fff;box-shadow:var(--shadow)}
+  .node .badge.db{background:var(--tool,var(--c-tool));background:var(--c-tool)}
+
+  /* inspector */
+  .inspector{background:var(--surface);border:1px solid var(--line);border-radius:16px;
+    padding:0;position:sticky;top:14px;box-shadow:var(--shadow);overflow:hidden;max-height:calc(100vh - 28px);
+    display:flex;flex-direction:column}
+  .insp-hd{padding:16px 18px 14px;border-bottom:1px solid var(--line);background:var(--surface-2)}
+  .insp-kicker{font-family:var(--font-mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--muted);font-weight:600;display:flex;align-items:center;gap:7px}
+  .insp-kicker .n{width:8px;height:8px;border-radius:50%}
+  .insp-hd h2{margin:6px 0 2px;font-size:19px;letter-spacing:-.01em;font-family:var(--font-mono);font-weight:600}
+  .insp-hd .sci{font-family:var(--font-serif);font-style:italic;color:var(--muted);font-size:13px}
+  .insp-body{padding:15px 18px 20px;overflow:auto;font-size:13.5px}
+  .insp-body p{margin:0 0 11px}
+  .insp-body h3{font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
+    margin:16px 0 7px;font-weight:650;font-family:var(--font-ui)}
+  .insp-body h3:first-child{margin-top:0}
+  .kv{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;font-size:12.5px;margin:0 0 4px}
+  .kv dt{font-family:var(--font-mono);color:var(--muted)}
+  .kv dd{margin:0;font-variant-numeric:tabular-nums}
+  code,.mono{font-family:var(--font-mono);font-size:.92em;background:var(--surface-2);
+    border:1px solid var(--line);padding:1px 5px;border-radius:5px}
+  .snip{font-family:var(--font-mono);font-size:11.5px;background:var(--surface-2);border:1px solid var(--line);
+    border-radius:8px;padding:10px 12px;overflow-x:auto;white-space:pre;line-height:1.55;margin:4px 0 12px;color:var(--ink)}
+  .snip .c{color:var(--muted)}
+  .field{display:flex;flex-wrap:wrap;gap:5px;margin:0 0 10px}
+  .field code{font-size:11px}
+  .urlpat{font-family:var(--font-mono);font-size:12px;background:var(--surface-2);border:1px solid var(--line);
+    border-left:3px solid var(--nc,var(--c-tool));border-radius:0 7px 7px 0;padding:7px 11px;margin:2px 0 11px;
+    display:block;overflow-x:auto;white-space:nowrap}
+  .insp-body ul{margin:0 0 11px;padding-left:18px}
+  .insp-body li{margin:3px 0}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin:2px 0 6px}
+  .chip{font-family:var(--font-mono);font-size:11px;padding:3px 8px;border-radius:20px;cursor:pointer;
+    border:1px solid var(--nc,var(--line-strong));color:var(--nc);background:transparent;transition:background .15s}
+  .chip:hover{background:var(--surface-2)}
+  .chip.plain{border-color:var(--line-strong);color:var(--muted);cursor:default}
+  .flowtag{display:inline-flex;align-items:center;gap:5px;font-family:var(--font-mono);font-size:11px;
+    color:var(--muted);margin:2px 0}
+  .flowtag b{color:var(--ink);font-weight:600}
+  .empty-note{font-family:var(--font-serif);color:var(--muted);font-style:italic}
+
+  /* evidence panel */
+  .evpanel{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:clamp(16px,3vw,30px);
+    box-shadow:var(--shadow)}
+  .evgrid{display:grid;grid-template-columns:1fr 1fr;gap:26px;margin-top:6px}
+  @media (max-width:820px){.evgrid{grid-template-columns:1fr}}
+  .evcard h3{margin:0 0 3px;font-size:16px;font-family:var(--font-mono);letter-spacing:-.01em}
+  .evcard .sub{color:var(--muted);font-size:13px;margin:0 0 14px;font-family:var(--font-serif)}
+  .ladder{display:flex;flex-direction:column;gap:6px}
+  .rung{display:grid;grid-template-columns:120px 46px 1fr;align-items:center;gap:10px;
+    padding:9px 12px;border:1px solid var(--line);border-radius:9px;background:var(--surface-2)}
+  .rung .tier{font-family:var(--font-mono);font-size:12px;font-weight:600}
+  .rung .base{font-family:var(--font-mono);font-variant-numeric:tabular-nums;font-weight:700;font-size:15px;
+    text-align:center;color:var(--evc)}
+  .rung .desc{font-size:12px;color:var(--muted)}
+  .rung .bar{height:6px;border-radius:4px;background:var(--evc);opacity:.85}
+  .formula{font-family:var(--font-mono);font-size:12.5px;background:var(--surface-2);border:1px solid var(--line);
+    border-radius:9px;padding:12px 14px;margin:14px 0;line-height:1.7;overflow-x:auto}
+  .formula .op{color:var(--muted)}
+  .dots{display:inline-flex;gap:3px;vertical-align:middle}
+  .dots i{width:9px;height:9px;border-radius:50%;background:var(--line-strong);display:inline-block}
+  .dots i.on{background:var(--good)}
+  .dots i.half{background:linear-gradient(90deg,var(--good) 50%,var(--line-strong) 50%)}
+  .rung .bar{grid-column:1 / -1;margin-top:2px}
+  .worked{display:flex;flex-direction:column;gap:8px;margin-top:6px}
+  .wex{display:flex;align-items:center;gap:10px;font-size:12.5px;flex-wrap:wrap}
+  .wex .lab{font-family:var(--font-mono);color:var(--muted);min-width:200px;flex:1 1 200px}
+  .wex .sc{font-family:var(--font-mono);font-weight:700;font-variant-numeric:tabular-nums}
+  .callout{border-left:3px solid var(--warn);background:color-mix(in srgb,var(--warn) 9%,transparent);
+    padding:12px 15px;border-radius:0 9px 9px 0;margin:18px 0 0;font-size:13px}
+  .callout b{color:var(--ink)}
+  .gaterow{display:grid;grid-template-columns:1fr;gap:12px;margin-top:16px}
+  .gate{display:grid;grid-template-columns:150px 1fr;gap:14px;align-items:start;padding:14px 16px;
+    border:1px solid var(--line);border-radius:11px;background:var(--surface-2)}
+  @media (max-width:640px){.gate{grid-template-columns:1fr}}
+  .gate .gname{font-family:var(--font-mono);font-weight:600;font-size:13px;display:flex;flex-direction:column;gap:4px}
+  .gate .gtag{font-family:var(--font-mono);font-size:10px;text-transform:uppercase;letter-spacing:.08em;
+    padding:2px 7px;border-radius:6px;align-self:flex-start}
+  .gate .gd{font-size:12.5px;color:var(--muted)}
+  .gate .gd b{color:var(--ink)}
+  .foot{margin-top:26px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);
+    font-size:12px;font-family:var(--font-mono);display:flex;flex-wrap:wrap;gap:6px 18px;justify-content:space-between}
+  .sec-title{font-size:15px;margin:0 0 3px;font-family:var(--font-mono);letter-spacing:-.01em}
+  .hidden{display:none!important}
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <span class="eyebrow">omniasana.bio · data architecture</span>
+      <h1>Omnia Sana — Schema &amp; Data Lineage</h1>
+      <p class="lede">One version-controlled plant database in YAML &amp; BibTeX, compiled to nine JSON feeds,
+        consumed by a dozen WordPress tools. Nothing on the public site is authored downstream — trace any fact
+        back to a record here.</p>
+    </div>
+    <div class="statline">
+      <span class="s"><b>188</b>plant records</span>
+      <span class="s"><b>3,170</b>references</span>
+      <span class="s"><b>75</b>compounds</span>
+      <span class="s"><b>9</b>build feeds</span>
+      <span class="s"><b>12</b>site tools</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="tabs" role="tablist" aria-label="View">
+      <button role="tab" aria-selected="true" data-mode="pipeline"><span class="dotc"></span>Pipeline</button>
+      <button role="tab" aria-selected="false" data-mode="entity"><span class="dotc"></span>Entity map</button>
+      <button role="tab" aria-selected="false" data-mode="evidence"><span class="dotc"></span>Evidence &amp; gating</button>
+    </div>
+    <div class="rightctl">
+      <div class="legend" id="legend">
+        <span class="li"><span class="sw" style="background:var(--c-source)"></span>Source (editable)</span>
+        <span class="li"><span class="sw" style="background:var(--c-build)"></span>Gate &amp; build</span>
+        <span class="li"><span class="sw" style="background:var(--c-artifact)"></span>Build feed (JSON)</span>
+        <span class="li"><span class="sw" style="background:var(--c-tool)"></span>Site tool</span>
+      </div>
+      <button class="themebtn" id="themebtn" title="Toggle light / dark">◐ Theme</button>
+    </div>
+  </div>
+  <div class="hint" id="hint">Click any node to inspect it and light up what it connects to. Click empty space to reset.</div>
+
+  <div class="board" id="board">
+    <div class="stagewrap" id="stagewrap">
+      <div class="stage" id="stage">
+        <svg class="edges" id="edges" aria-hidden="true"></svg>
+        <!-- column heads (pipeline only) -->
+        <div class="colhead" data-col="1" style="left:12%"><span class="n" style="background:var(--c-source)"></span>Canonical source</div>
+        <div class="colhead" data-col="2" style="left:37%"><span class="n" style="background:var(--c-build)"></span>Gate &amp; build</div>
+        <div class="colhead" data-col="3" style="left:61%"><span class="n" style="background:var(--c-artifact)"></span>build/*.json</div>
+        <div class="colhead" data-col="4" style="left:88%"><span class="n" style="background:var(--c-tool)"></span>WordPress tools</div>
+      </div>
+    </div>
+
+    <aside class="inspector" id="inspector">
+      <div class="insp-hd">
+        <div class="insp-kicker" id="ik"><span class="n" style="background:var(--c-source)"></span><span id="ikt">Overview</span></div>
+        <h2 id="ih">Start here</h2>
+        <div class="sci" id="isci"></div>
+      </div>
+      <div class="insp-body" id="ibody">
+        <p>This map has three views:</p>
+        <ul>
+          <li><b>Pipeline</b> — the flow from editable YAML → the build step → the nine JSON feeds → each public tool.</li>
+          <li><b>Entity map</b> — how source records cross-reference each other by <code>id</code> (a plant points at compounds, actions, conditions, other plants…).</li>
+          <li><b>Evidence &amp; gating</b> — exactly how the Symptom tool's 1–10 score is computed, the separate extraction ladder, and the three gates that decide what reaches the public.</li>
+        </ul>
+        <p class="empty-note">Pick a node to see its real field structure, counts, and connections.</p>
+      </div>
+    </aside>
+  </div>
+
+  <!-- EVIDENCE VIEW -->
+  <section class="evpanel hidden" id="evpanel">
+    <p class="eyebrow" style="color:var(--c-build)">how the numbers are made</p>
+    <h2 class="sec-title" style="font-size:20px">Evidence scoring &amp; publish gating</h2>
+    <p class="lede" style="max-width:78ch">Scores are <b>computed at build time</b>, never hand-typed. Same data → same number, and every score is
+      auditable from its <code>reference_ids</code>. Two ladders exist and <b>must never be swapped</b>: one grades
+      whether a plant <i>works in a human body</i>, the other whether an extraction <i>reproduces on a bench</i>.</p>
+
+    <div class="evgrid">
+      <div class="evcard" style="--evc:var(--c-source)">
+        <h3>① Clinical evidence — the 1–10 score</h3>
+        <p class="sub">Powers the Symptom-to-Plant Lookup, plant-page indication dots, comparison &amp; monograph.
+          Lives on each <code>indication</code>. Rendered as 5 dots by <code>os-scoring.php</code>.</p>
+        <div class="ladder" id="ladderClin"></div>
+        <div class="formula">
+          base  <span class="op">=</span> tier of the STRONGEST cited source<br>
+          bonus <span class="op">=</span> +3 if ≥5 human sources · +2 if 3–4 · +1 if 2 · else +0<br>
+          <b>score <span class="op">=</span> clamp(base + bonus, 1, 10)</b>
+        </div>
+        <div class="worked" id="workedClin"></div>
+        <div class="callout"><b>Volume of weak evidence never lifts the floor.</b> Ten in-vitro studies still
+          score 2; traditional-only sources score 1. A score is only as specific as that indication's own
+          <code>reference_ids</code> — pinning a whole bibliography to every indication hands each one the maximum
+          and makes the number meaningless.</div>
+      </div>
+
+      <div class="evcard" style="--evc:var(--c-artifact)">
+        <h3>② Extraction evidence — the practice bands</h3>
+        <p class="sub">Powers the Tincture Calculator (<code>practice.v1.json</code>). Grades reproducibility of a
+          <code>(solvent, temp, time, ratio, yield)</code> finding. This ladder is the <b>inverse</b> of the clinical one.</p>
+        <div class="ladder" id="ladderPrac"></div>
+        <div class="formula">
+          bands: <b>≥8</b> established <span class="op">·</span> <b>≥5</b> supported
+          <span class="op">·</span> <b>≥2</b> provisional <span class="op">·</span> <b>&lt;2</b> insufficient
+        </div>
+        <div class="callout"><b>A review is the top clinical tier and scores 0 here</b> — it reports no single
+          measured tuple. An RCT has no tier here at all. This feed <b>deliberately never emits a key named
+          <code>evidence</code></b>, so a renderer built for the clinical dots shows nothing rather than the wrong thing:
+          ten dots must not read as "strong" when it would only mean "three labs agree on a solvent percentage."</div>
+      </div>
+    </div>
+
+    <h3 class="sec-title" style="margin-top:30px;font-size:16px">The three gates — what actually reaches the public</h3>
+    <div class="gaterow">
+      <div class="gate">
+        <div class="gname"><span>validate.py</span><span class="gtag" style="background:color-mix(in srgb,var(--bad) 15%,transparent);color:var(--bad)">hard gate · exit 0</span></div>
+        <div class="gd">Every cited <code>REF-XXXX</code> must resolve to a BibTeX entry and every vocab id must exist.
+          Exit 1 blocks the commit. <b>Narrower than it looks:</b> it does <i>not</i> check the JSON schema,
+          <code>study_type</code>, or per-claim status — a green run means references and vocabulary resolve, not that the data is correct.</div>
+      </div>
+      <div class="gate">
+        <div class="gname"><span>D8 · sourced-only</span><span class="gtag" style="background:color-mix(in srgb,var(--warn) 16%,transparent);color:var(--warn)">build.py filter</span></div>
+        <div class="gd">"Nothing unsourced publishes." Any <code>preparations</code>/<code>dosage</code> entry without
+          <code>reference_ids</code> is withheld from <code>plants.json</code> (≈244 preparations &amp; 53 dosages at
+          measurement). <b>Nothing is deleted</b> — the YAML keeps every word; an entry reappears the moment it earns a citation.</div>
+      </div>
+      <div class="gate">
+        <div class="gname"><span>approved-only</span><span class="gtag" style="background:color-mix(in srgb,var(--good) 16%,transparent);color:var(--good)">safety lists</span></div>
+        <div class="gd">The three safety lists — <code>drug_class_interactions</code>, <code>pairings</code>,
+          <code>dangerous_lookalikes</code> — use a separate <code>draft → approved</code> lifecycle. Public tools serve
+          <b>approved</b> records only; a Claude-drafted safety claim never ships without human medical sign-off.</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="foot">
+    <span>osdb → build/*.json → omniasana.bio · WordPress child theme + <code>novamira-sandbox</code> PHP</span>
+    <span id="footcount"></span>
+  </div>
+</div>
+
+<script>
+(function(){
+  "use strict";
+  var S=function(v){return "var(--c-"+v+")";};
+
+  // ---- NODES (verified from schema/, scripts/build.py, novamira-sandbox/*.php) ----
+  var N = {
+    // BAND: source
+    plants:{band:"source",t:"plants/",s:"188 species · YAML",cnt:"188 files",sci:"the human editing unit",
+      det:"<p>One YAML per species — the record everything downstream keys off by its <code>id</code> slug (e.g. <code>taraxacum-officinale</code>).</p>"+
+      "<h3>Key arrays</h3><ul>"+
+      "<li><code>actions[]</code> → action vocab (mechanism)</li>"+
+      "<li><code>indications[]</code> → condition vocab (<b>what it's used FOR</b>; carries the 1–10 score)</li>"+
+      "<li><code>constituents[].compounds[]</code> → compound entities</li>"+
+      "<li><code>drug_class_interactions[]</code>, <code>pairings[]</code>, <code>dangerous_lookalikes[]</code> — safety (approved-only)</li>"+
+      "<li><code>preparations[]</code>, <code>dosage[]</code>, monograph prose blocks</li></ul>"+
+      "<p>Every claim carries its own <code>reference_ids</code> and <code>status</code> (<code>verified/draft/needs-review</code>).</p>"+
+      "<h3>Example — an indication</h3>"+
+      "<div class='snip'>indications:\n  <span class='c'>- condition: water-retention</span>\n    reference_ids: [REF-0001, REF-0002]\n    status: verified   <span class='c'># → 1–10 score computed</span></div>"+
+      "<h3>Required fields</h3><div class='field'><code>id</code><code>scientific_name</code><code>common_names</code><code>family</code><code>status</code><code>last_updated</code></div>"+
+      "<p class='empty-note'>Also carries monograph prose (botanical_description, habitat, harvesting, traditional_uses), <code>external_ids</code> (gbif/wikidata/powo) and <code>parts_used</code> — 58 distinct free-text part strings, deliberately not yet an enum.</p>",
+      ref:["compounds","vactions","vconditions","vdrug","vdanger","bib","plants"]},
+    bib:{band:"source",t:"bibliography.bibtex",s:"3,170 references · BibTeX",cnt:"3,170 refs",sci:"one entry per source",
+      det:"<p>Every scientific reference, one BibTeX entry each, linked by <code>note = {REF-XXXX}</code>. The single bibliography the whole database cites into.</p>"+
+      "<h3>Fields that drive the site</h3><ul>"+
+      "<li><code>study_type</code> — <b>set by hand</b>; the one field the 1–10 score depends on (systematic-review → traditional)</li>"+
+      "<li><code>abstract</code> — the real published abstract only; surfaced by the Knowledge Finder's “View Abstract”</li></ul>"+
+      "<p><b>Orphan trap:</b> a declared-but-uncited entry still ships to the public Knowledge Finder feed. Refs cited only by a <code>practice/</code> record must never be treated as orphans.</p>"+
+      "<h3><code>study_type</code> enum (drives the score)</h3><div class='field'><code>systematic-review</code><code>meta-analysis</code><code>review</code><code>rct</code><code>clinical</code><code>preclinical</code><code>traditional</code></div>"+
+      "<h3>Example entry</h3>"+
+      "<div class='snip'>@article{clare2009dandelion,\n  title = {The diuretic effect ... {Taraxacum officinale}},\n  doi = {10.1089/acm.2008.0152},\n  <span class='c'>note = {REF-0042}</span>,\n  study_type = {rct},\n  abstract = {Dandelion has a long history ...}}</div>"+
+      "<p><code>kind: standard</code> marks a paywalled pharmacopoeial monograph (abstract forbidden); it stays <code>study_type: traditional</code> — its normative weight is carried by a practice record, not this enum.</p>",
+      ref:["plants","practice"]},
+    compounds:{band:"source",t:"compounds/",s:"75 entities · YAML",cnt:"75 files",sci:"classes + named bioactives",
+      det:"<p>One YAML per active compound or class (e.g. <code>berberine</code>, <code>flavonoid</code>). Referenced from a plant's <code>constituents[].compounds[]</code> and used as the <b>join key</b> for the practice corpus.</p>"+
+      "<h3>Two fail-closed guards</h3><ul>"+
+      "<li><code>resolution</code>: <code>exact</code> → join &amp; recommend · <code>ambiguous</code> → conservative intersection, never approved · <code>unresolvable</code> (default) → no join at all</li>"+
+      "<li><code>toxicity_flag</code>: default <b><code>avoid-internal</code></b> — an unflagged compound can't carry an approved extraction recommendation, forcing the ~12 known toxic ids (PA <code>alkaloid</code>, <code>coumarin</code>, <code>asarone</code>…) to be triaged first</li></ul>"+
+      "<p class='empty-note'>A recommendation is a preparation that is safe and traditionally correct — never the argmax of a yield table.</p>",
+      ref:["plants","practice"]},
+    vactions:{band:"source",t:"actions.yaml",s:"52 controlled ids",cnt:"52 actions",sci:"pharmacological mechanism",
+      det:"<p>Controlled vocabulary of mechanisms (<code>anti-inflammatory</code>, <code>diuretic</code>…). Free-text action strings in plant YAML collapse onto these ids; <code>synonyms</code> aid search, <code>related_conditions</code> bridges action → indication.</p>",ref:["plants","vconditions"]},
+    vconditions:{band:"source",t:"conditions.yaml",s:"70 controlled ids",cnt:"70 conditions",sci:"what a plant treats",
+      det:"<p>Controlled vocabulary of conditions/symptoms. A plant's <code>indications[].condition</code> points here.</p>"+
+      "<h3>Fields</h3><div class='field'><code>id</code><code>label</code><code>body_system</code><code>consumer_synonyms</code><code>related_actions</code><code>icd10</code><code>snomed</code></div>"+
+      "<p><code>consumer_synonyms</code> is what makes free-text search work &mdash; typing <i>“period pain”</i> or <i>“dysmenorrhea”</i> both resolve to <code>menstrual-cramps</code>. Replaces the old WordPress symptom-tool key map.</p>",ref:["plants"]},
+    vdrug:{band:"source",t:"drug_classes.yaml",s:"17 controlled ids",cnt:"17 classes",sci:"herb ↔ drug interaction",
+      det:"<p>Drug-class vocabulary for the Herb-Drug Interaction Checker. A plant's <code>drug_class_interactions[]</code> maps it to one class with a severity tier (<code>avoid/caution/likely-safe/insufficient</code>).</p>",ref:["plants"]},
+    vdanger:{band:"source",t:"dangerous_plants.yaml",s:"80 toxic entries",cnt:"80 entries",sci:"poisonous lookalikes",
+      det:"<p>The toxic/poisonous plants a medicinal one is realistically mistaken for. A plant's <code>dangerous_lookalikes[]</code> points here with distinguishing features and a lethality tier (<code>fatal/dangerous/irritant/caution</code>).</p>",ref:["plants"]},
+    vextract:{band:"source",t:"extraction &amp; solvent vocab",s:"solvents 18 · classes 26 · methods 20",cnt:"64 ids",sci:"tincture calculator vocab",
+      det:"<p>Three controlled vocabularies for the practice corpus: <code>solvents.yaml</code> (18), <code>extraction_classes.yaml</code> (26), <code>extraction_methods.yaml</code> (20). Referenced by practice records.</p>",ref:["practice"]},
+    vlang:{band:"source",t:"languages.yaml",s:"34 languages",cnt:"34 langs",sci:"multilingual name dictionary",
+      det:"<p>The canonical language list (ISO 639 codes, endonyms, scripts) for the Plant-Name Dictionary. The name pipeline harvests only <code>enabled</code> languages.</p>",ref:["namesrc"]},
+    namesrc:{band:"source",t:"names/",s:"185 species · vernacular",cnt:"185 files",sci:"7,235 verified names",
+      det:"<p>One YAML per species holding verified vernacular names across 34 languages (~7,235 total). Keyed to a plant by slug. <b>Machine-managed by <code>verify_names.py</code></b> &mdash; not hand-edited.</p>"+
+      "<h3>Accept rule (data-quality guarantee)</h3>"+
+      "<p>A name may never exist without &#8805;1 source token (<code>gbif:</code>, <code>wikidata:</code>, <code>eppo:</code>, <code>powo:</code>…). To publish (<code>verified</code>) it needs either a curated-authority token <b>or</b> &#8805;2 independent tokens; a single unconfirmed source stays <code>needs-review</code> and is never served.</p>",ref:["plants","vlang"]},
+    practice:{band:"source",t:"practice/",s:"22 files · extraction corpus",cnt:"22 files",sci:"the second corpus",
+      det:"<p>The extraction/formulation corpus behind the Tincture Calculator. Two record shapes: <b>empirical</b> (compound-keyed bench findings) and <b>normative</b> (pharmacopoeial tincture standards). Keyed on <code>(compound_id, part, solvent, method)</code>.</p>"+
+      "<h3>Record anatomy</h3><ul>"+
+      "<li><code>findings[]</code> — one paper &#215; one condition set &#215; one measured number, each with <code>method_type</code>, full <code>conditions</code> tuple and a page/table <code>locator</code></li>"+
+      "<li><code>recommendation</code> — what the calculator may say; every <code>derived_from</code> handle must resolve to a finding</li>"+
+      "<li><code>avoid[]</code> — negative results, cheaper to assert than an instruction</li></ul>"+
+      "<h3>Anti-skim approval</h3>"+
+      "<p><code>verified_by</code> is required at <code>approved</code> and <b>must differ from <code>reviewed_by</code></b> &mdash; a second person opened the PDFs and checked the locators. Needs &#8805;2 independent research groups.</p>"+
+      "<p>Graded on a <b>separate</b> ladder (see Evidence &amp; gating) — never the clinical 1–10 dots.</p>",ref:["plants","compounds","bib","vextract"]},
+
+    // BAND: build
+    validate:{band:"build",t:"validate.py",s:"integrity gate",cnt:"exit 0 required",sci:"the hard gate",
+      det:"<p>The last gate before data reaches the public site. Confirms every cited <code>REF-XXXX</code> resolves and every vocab id exists; <b>exit 0</b> required to commit.</p>"+
+      "<p><b>Narrower than it looks:</b> does not check JSON schema, <code>study_type</code>, or per-claim status. Orphaned refs are warnings, not errors.</p>"},
+    build:{band:"build",t:"build.py",s:"the single builder",cnt:"9 feeds + manifest",sci:"YAML/BibTeX → JSON",
+      det:"<p>Reads all canonical data and writes every <code>build/*.json</code>. Where the scores are computed and the publish gates applied.</p>"+
+      "<h3>What it does</h3><ul>"+
+      "<li>Computes the <b>1–10 clinical score</b> per indication from cited <code>study_type</code>s</li>"+
+      "<li>Computes the <b>practice bands</b> for extraction records</li>"+
+      "<li><b>D8 filter:</b> drops unsourced <code>preparations</code>/<code>dosage</code></li>"+
+      "<li><b>approved-only:</b> strips draft safety records</li>"+
+      "<li>Never emits <code>internal_notes</code>; writes <code>manifest.json</code> with sha256 + counts</li></ul>"+
+      "<p>CI (<code>build-and-publish.yml</code>) re-runs this on push and commits the outputs back.</p>",
+      hub:true},
+
+    // BAND: artifact
+    citations:{band:"artifact",t:"citations.json",s:"knowledge-finder@2",cnt:"3,170",sci:"bib + generated citation + linkage",
+      det:"<p>Every reference with a generated Harvard citation plus its plant / action / condition linkage. Self-contained feed for the Knowledge Finder.</p>",ref:["knowledgeFinder","compare","monograph"]},
+    symptoms:{band:"artifact",t:"symptoms.json",s:"symptom-lookup@1",cnt:"186 plants",sci:"plant ↔ condition + evidence",
+      det:"<p>Each plant with its scored indications (condition, label, <b>1–10 evidence</b>, status, claim-level refs) plus the condition list with consumer synonyms. Only indications at/above the evidence floor are kept.</p>"+
+      "<p><code>inferred:true</code> flags a <code>needs-review</code> association.</p>",ref:["symptomTool"]},
+    plantsj:{band:"artifact",t:"plants.json",s:"plants@1",cnt:"188 plants",sci:"full public-safe index",
+      det:"<p>The complete public-safe plant index — the workhorse feed. Drops <code>internal_notes</code>, injects resolved <code>common_slug</code>, enriches indications with score+label, and applies the D8 &amp; approved-only gates.</p>",
+      ref:["plantPages","monograph","compare","tincture","symptomTool"]},
+    vocabj:{band:"artifact",t:"vocab.json",s:"vocab@1",cnt:"actions+conditions+compounds",sci:"UI filters &amp; labels",
+      det:"<p>Actions, conditions and compounds flattened to id/label/category for front-end filters and label lookups across the tools.</p>",ref:["compare","monograph"]},
+    namesj:{band:"artifact",t:"names.json",s:"names@1",cnt:"185 plants",sci:"vernacular names + languages",
+      det:"<p>Verified vernacular names per species with the 34-language table (endonyms, scripts). Feeds the Plant-Name Dictionary.</p>",ref:["nameDict"]},
+    interactions:{band:"artifact",t:"interactions.v1.json",s:"interactions@1",cnt:"102",sci:"herb ↔ drug-class",
+      det:"<p>Approved herb ↔ drug-class interaction records (severity + mechanism). A <code>.draft.json</code> twin holds the un-approved set that never ships.</p>",ref:["herbDrug"]},
+    pairings:{band:"artifact",t:"pairings.v1.json",s:"pairings@1",cnt:"114",sci:"herb ↔ herb",
+      det:"<p>Approved herb ↔ herb pairings (synergy/neutral/caution/avoid). Directionless — a pairing on plant A is mirrored to plant B by build.py.</p>",ref:["herbHerb"]},
+    lookalikes:{band:"artifact",t:"lookalikes.v1.json",s:"lookalikes@1",cnt:"73",sci:"medicinal ↔ toxic",
+      det:"<p>Approved dangerous-lookalike records with distinguishing features and a lethality tier. One-directional (not mirrored, unlike pairings).</p>",ref:["lookalikesTool"]},
+    practicej:{band:"artifact",t:"practice.v1.json",s:"practice@1",cnt:"17 approved",sci:"extraction recommendations",
+      det:"<p>Approved extraction/formulation recommendations with practice-band labels — never the clinical <code>evidence</code> key. A <code>.draft.json</code> twin holds the rest.</p>",ref:["tincture"]},
+    manifest:{band:"artifact",t:"manifest.json",s:"manifest@1",cnt:"sha256 + counts",sci:"integrity index",
+      det:"<p>Per-artifact schema id, row count, byte size and sha256 — the integrity index the deploy step checks a feed against.</p>",ref:[]},
+
+    // BAND: tool
+    knowledgeFinder:{band:"tool",t:"Knowledge Finder",s:"citation search",cnt:"os-knowledge-finder.php",sci:"page + /sources/{ref}/",
+      det:"<p>Full-text search over every reference; “View Abstract” shows the real published abstract. JS versioned manually (<code>?v=kfN</code> must bump). Static <code>/sources/{refnum}/</code> pages per citation.</p>",feed:["citations"]},
+    symptomTool:{band:"tool",t:"Symptom-to-Plant Lookup",s:"page 201",cnt:"os-sym.js (baked)",sci:"symptom → ranked plants",
+      det:"<p>Type a symptom → every plant traditionally used for it, <b>strongest evidence first</b>. The interactive app loads <code>os-sym.js</code>, baked from <code>symptoms.json</code> by <code>os-sym-jsbake.php</code>; index pages render the 1–10 score as 5 dots via the shared <code>os-scoring.php</code>. “View Sources” uses the claim-level refs.</p>",feed:["symptoms","plantsj"]},
+    plantPages:{band:"tool",t:"Plant / Materia Medica pages",s:"/plants/{slug}/",cnt:"os-plant-pages.php",sci:"the canonical plant page",
+      det:"<p>The public plant page and embed card, rendered from <code>plants.json</code> (+ <code>vocab.json</code> for labels). Indication dots come from the same computed score.</p>",feed:["plantsj","vocabj"]},
+    monograph:{band:"tool",t:"Monograph Generator",s:"/plant-monograph/{slug}/",cnt:"os-monograph.php",sci:"printable monograph",
+      det:"<p>Field-agnostic printable monograph assembled from <code>plants.json</code>, <code>vocab.json</code> and <code>citations.json</code>. A new data field renders automatically — no front-end change.</p>",feed:["plantsj","vocabj","citations"]},
+    compare:{band:"tool",t:"Two-Plant Comparison",s:"/compare-plants/{a}/vs/{b}/",cnt:"os-compare.php",sci:"side-by-side + synthesis",
+      det:"<p>SSR side-by-side of two plants with a computed synthesis; reuses the monograph renderers. Reads <code>plants.json</code>, <code>vocab.json</code>, <code>citations.json</code>.</p>",feed:["plantsj","vocabj","citations"]},
+    tincture:{band:"tool",t:"Tincture Calculator",s:"/tincture-calculator/{slug}/",cnt:"os-formulation.js",sci:"solvent %, ratio, yield",
+      det:"<p>Recommends extraction parameters from the <b>practice corpus</b>. Joins <code>plants.json</code> (slug resolver) with the approved <code>practice.v1.json</code>; front-end <code>os-formulation.js</code> ports <code>recommendationFor()</code>. Uses practice bands, not clinical dots.</p>",feed:["plantsj","practicej"]},
+    herbDrug:{band:"tool",t:"Herb-Drug Interaction Checker",s:"safety",cnt:"os-safety.php · os-hd.js",sci:"herb × drug class",
+      det:"<p>Checks a herb against a drug class from the approved <code>interactions.v1.json</code>. Approved-only — a drafted interaction never appears.</p>",feed:["interactions"]},
+    herbHerb:{band:"tool",t:"Herb-Herb Combinations",s:"safety",cnt:"os-safety.php",sci:"pairing verdict",
+      det:"<p>Herb + herb synergy/caution verdict from approved <code>pairings.v1.json</code>.</p>",feed:["pairings"]},
+    lookalikesTool:{band:"tool",t:"Dangerous Lookalikes",s:"foraging safety",cnt:"os-lookalikes.php",sci:"tell-apart guide",
+      det:"<p>How to tell a medicinal plant from its toxic lookalike, from approved <code>lookalikes.v1.json</code>. A record with no completed review must never render “safe.”</p>",feed:["lookalikes"]},
+    nameDict:{band:"tool",t:"Plant-Name Dictionary",s:"34 languages",cnt:"os-names.php",sci:"7,235 verified names",
+      det:"<p>Multilingual vernacular-name dictionary from <code>names.json</code>, with per-language pages and hreflang.</p>",feed:["namesj"]},
+    sightingMap:{band:"tool",t:"Plant Sighting Map",s:"page 210 · web-GIS",cnt:"os_sightings (WP table)",sci:"user-generated pins",db:true,
+      det:"<p><b>The exception.</b> The only tool that does <i>not</i> read a build feed. Sightings are user-generated and live in a custom WordPress table <code>os_sightings</code> (REST: GET/POST <code>/sightings</code>), created via dbDelta. It writes its own data rather than consuming the plant database.</p>",feed:[]}
+  };
+
+  var BAND_COLOR={source:"--c-source",build:"--c-build",artifact:"--c-artifact",tool:"--c-tool"};
+  var BAND_LABEL={source:"Canonical source",build:"Gate & build",artifact:"Build feed",tool:"Site tool"};
+
+  // ---- POSITIONS (percent of stage) ----
+  var POS={
+    pipeline:{
+      plants:[7,9], compounds:[7,24], vactions:[7,39], vconditions:[7,54], vdanger:[7,69], namesrc:[7,84],
+      bib:[17,16.5], vdrug:[17,31.5], vextract:[17,46.5], vlang:[17,61.5], practice:[17,91],
+      validate:[37,28], build:[37,60],
+      citations:[61,8], symptoms:[61,17], plantsj:[61,26], vocabj:[61,35], namesj:[61,44],
+      interactions:[61,53], pairings:[61,62], lookalikes:[61,71], practicej:[61,80], manifest:[61,90],
+      knowledgeFinder:[88,7], symptomTool:[88,15.5], plantPages:[88,24], monograph:[88,32.5], compare:[88,41],
+      tincture:[88,49.5], herbDrug:[88,58], herbHerb:[88,66.5], lookalikesTool:[88,75], nameDict:[88,83.5], sightingMap:[88,93]
+    },
+    entity:{
+      plants:[44,49], practice:[75,58], bib:[17,49],
+      compounds:[30,20], vactions:[46,13], vconditions:[62,17], vdrug:[70,31],
+      vdanger:[58,82], vextract:[86,74], vlang:[15,84], namesrc:[26,71],
+      // pipeline-only nodes hidden in entity mode
+      validate:[37,28],build:[37,60],citations:[61,8],symptoms:[61,17],plantsj:[61,26],vocabj:[61,35],
+      namesj:[61,44],interactions:[61,53],pairings:[61,62],lookalikes:[61,71],practicej:[61,80],manifest:[61,90],
+      knowledgeFinder:[110,7],symptomTool:[110,15],plantPages:[110,24],monograph:[110,32],compare:[110,41],
+      tincture:[110,49],herbDrug:[110,58],herbHerb:[110,66],lookalikesTool:[110,75],nameDict:[110,83],sightingMap:[110,93]
+    }
+  };
+  var ENTITY_NODES={plants:1,practice:1,bib:1,compounds:1,vactions:1,vconditions:1,vdrug:1,vdanger:1,vextract:1,vlang:1,namesrc:1};
+
+  // ---- EDGES ----
+  // pipeline flow edges
+  var FLOW=[];
+  ["plants","compounds","vactions","vconditions","vdrug","vdanger","vextract","vlang","namesrc","bib","practice"]
+    .forEach(function(k){FLOW.push([k,"build"]);});
+  FLOW.push(["validate","build"]);
+  ["citations","symptoms","plantsj","vocabj","namesj","interactions","pairings","lookalikes","practicej","manifest"]
+    .forEach(function(k){FLOW.push(["build",k]);});
+  // artifact -> tool (from node.ref / feed)
+  Object.keys(N).forEach(function(k){
+    var n=N[k];
+    if(n.band==="artifact" && n.ref){n.ref.forEach(function(t){FLOW.push([k,t]);});}
+  });
+
+  // entity ref edges (id references among source records) — [from,to,label]
+  var ENTITY=[
+    ["plants","compounds","constituents"],
+    ["plants","vactions","actions"],
+    ["plants","vconditions","indications"],
+    ["plants","vdrug","drug interactions"],
+    ["plants","vdanger","lookalikes"],
+    ["plants","bib","reference_ids"],
+    ["plants","plants","pairings (mirrored)"],
+    ["practice","plants","species"],
+    ["practice","compounds","compound-keyed"],
+    ["practice","bib","reuses refs"],
+    ["practice","vextract","solvent/method"],
+    ["namesrc","plants","per species"],
+    ["namesrc","vlang","language code"]
+  ];
+
+  // ---- adjacency (for highlight, both directions) ----
+  function buildAdj(edges){
+    var a={};
+    edges.forEach(function(e){
+      (a[e[0]]=a[e[0]]||{})[e[1]]=1;
+      (a[e[1]]=a[e[1]]||{})[e[0]]=1;
+    });
+    return a;
+  }
+  var ADJ={pipeline:buildAdj(FLOW),entity:buildAdj(ENTITY)};
+
+  // ---- DOM build ----
+  var stage=document.getElementById("stage");
+  var svg=document.getElementById("edges");
+  var nodeEls={};
+  Object.keys(N).forEach(function(k){
+    var n=N[k];
+    var b=document.createElement("button");
+    b.className="node"; b.dataset.k=k; b.style.setProperty("--nc","var("+BAND_COLOR[n.band]+")");
+    b.setAttribute("aria-label",n.t.replace(/&amp;/g,"&")+" — "+BAND_LABEL[n.band]);
+    var badge = n.band==="tool" && n.db ? '<span class="badge db">own DB</span>' : '';
+    b.innerHTML='<span class="nt"><span class="ic"></span>'+n.t+'</span>'+badge+
+      '<span class="ns">'+n.s+'</span><span class="cnt">'+n.cnt+'</span>';
+    b.addEventListener("click",function(ev){ev.stopPropagation();select(k);});
+    stage.appendChild(b); nodeEls[k]=b;
+  });
+
+  var mode="pipeline", selected=null;
+
+  function place(){
+    var p=POS[mode];
+    Object.keys(nodeEls).forEach(function(k){
+      var el=nodeEls[k], xy=p[k];
+      el.style.left=xy[0]+"%"; el.style.top=xy[1]+"%";
+      var vis = mode==="entity" ? !!ENTITY_NODES[k] : true;
+      el.style.opacity = vis?"":"0";
+      el.style.pointerEvents = vis?"":"none";
+    });
+    document.querySelectorAll(".colhead").forEach(function(c){c.style.opacity = mode==="pipeline"?"":"0";});
+  }
+
+  function edgeList(){return mode==="pipeline"?FLOW:ENTITY;}
+
+  function anchor(el){
+    var sr=stage.getBoundingClientRect(), r=el.getBoundingClientRect();
+    return {l:r.left-sr.left, t:r.top-sr.top, w:r.width, h:r.height,
+      cx:r.left-sr.left+r.width/2, cy:r.top-sr.top+r.height/2};
+  }
+
+  function drawEdges(){
+    while(svg.firstChild) svg.removeChild(svg.firstChild);
+    var edges=edgeList();
+    edges.forEach(function(e,i){
+      var A=nodeEls[e[0]], B=nodeEls[e[1]];
+      if(!A||!B) return;
+      if(mode==="entity" && (!ENTITY_NODES[e[0]]||!ENTITY_NODES[e[1]])) return;
+      var a=anchor(A), b=anchor(B), d;
+      if(e[0]===e[1]){ // self loop (plants pairings)
+        var x=a.l+a.w, y=a.cy;
+        d="M"+x+" "+(y-8)+" C "+(x+46)+" "+(y-30)+", "+(x+46)+" "+(y+30)+", "+x+" "+(y+8);
+      } else if(mode==="pipeline"){
+        var x1=a.l+a.w, y1=a.cy, x2=b.l, y2=b.cy, mx=(x1+x2)/2;
+        d="M"+x1+" "+y1+" C "+mx+" "+y1+", "+mx+" "+y2+", "+x2+" "+y2;
+      } else {
+        var mx2=(a.cx+b.cx)/2, my2=(a.cy+b.cy)/2 - 26;
+        d="M"+a.cx+" "+a.cy+" Q "+mx2+" "+my2+" "+b.cx+" "+b.cy;
+      }
+      var path=document.createElementNS("http://www.w3.org/2000/svg","path");
+      path.setAttribute("d",d);
+      path.dataset.a=e[0]; path.dataset.b=e[1];
+      var col = mode==="pipeline"
+        ? "var("+BAND_COLOR[N[e[0]].band==="artifact"?"artifact":(N[e[1]].band==="build"?"source":N[e[0]].band)]+")"
+        : "var(--c-source)";
+      path.style.stroke=col;
+      svg.appendChild(path);
+    });
+    applyHighlight();
+  }
+
+  function applyHighlight(){
+    var paths=svg.querySelectorAll("path");
+    if(!selected){
+      Object.keys(nodeEls).forEach(function(k){nodeEls[k].classList.remove("active","lit","dim");});
+      paths.forEach(function(p){p.classList.remove("lit","dim");});
+      return;
+    }
+    var adj=ADJ[mode][selected]||{};
+    Object.keys(nodeEls).forEach(function(k){
+      var el=nodeEls[k]; el.classList.remove("active","lit","dim");
+      if(k===selected) el.classList.add("active");
+      else if(adj[k]) el.classList.add("lit");
+      else el.classList.add("dim");
+    });
+    paths.forEach(function(p){
+      p.classList.remove("lit","dim");
+      if(p.dataset.a===selected||p.dataset.b===selected) p.classList.add("lit");
+      else p.classList.add("dim");
+    });
+  }
+
+  // ---- inspector ----
+  var ik=document.getElementById("ik"), ikt=document.getElementById("ikt"),
+      ih=document.getElementById("ih"), isci=document.getElementById("isci"), ibody=document.getElementById("ibody"),
+      ikn=ik.querySelector(".n");
+
+  function connectionsHTML(k){
+    var n=N[k], html="";
+    if(mode==="entity"){
+      var outs=ENTITY.filter(function(e){return e[0]===k;}), ins=ENTITY.filter(function(e){return e[1]===k && e[0]!==k;});
+      if(outs.length){html+='<h3>References →</h3><div class="chips">'+outs.map(function(e){
+        return '<button class="chip" data-go="'+e[1]+'">'+plain(N[e[1]].t)+' · '+e[2]+'</button>';}).join('')+'</div>';}
+      if(ins.length){html+='<h3>← Referenced by</h3><div class="chips">'+ins.map(function(e){
+        return '<button class="chip" data-go="'+e[0]+'">'+plain(N[e[0]].t)+'</button>';}).join('')+'</div>';}
+      return html;
+    }
+    // pipeline
+    var up=FLOW.filter(function(e){return e[1]===k;}).map(function(e){return e[0];});
+    var down=FLOW.filter(function(e){return e[0]===k;}).map(function(e){return e[1];});
+    up=up.filter(function(v,i){return up.indexOf(v)===i;});
+    down=down.filter(function(v,i){return down.indexOf(v)===i;});
+    if(up.length){html+='<h3>Fed by</h3><div class="chips">'+up.map(function(t){
+      return '<button class="chip" data-go="'+t+'">'+plain(N[t].t)+'</button>';}).join('')+'</div>';}
+    if(down.length){html+='<h3>Feeds into</h3><div class="chips">'+down.map(function(t){
+      return '<button class="chip" data-go="'+t+'">'+plain(N[t].t)+'</button>';}).join('')+'</div>';}
+    return html;
+  }
+  function plain(s){return s.replace(/&amp;/g,"&");}
+
+  function select(k){
+    selected=k; var n=N[k];
+    ikn.style.background="var("+BAND_COLOR[n.band]+")";
+    ikt.textContent=BAND_LABEL[n.band];
+    ih.innerHTML=n.t; isci.textContent=n.sci||"";
+    ibody.innerHTML=n.det+connectionsHTML(k);
+    ibody.querySelectorAll("[data-go]").forEach(function(btn){
+      btn.addEventListener("click",function(){var g=btn.dataset.go;
+        if(mode==="entity"&&!ENTITY_NODES[g])setMode("pipeline"); select(g);});
+    });
+    applyHighlight();
+    var el=nodeEls[k];
+    if(el&&el.scrollIntoView) el.scrollIntoView({block:"nearest",inline:"nearest",behavior:"smooth"});
+  }
+
+  function reset(){
+    selected=null; applyHighlight();
+    ikn.style.background="var(--c-source)"; ikt.textContent="Overview";
+    ih.textContent="Start here"; isci.textContent="";
+    ibody.innerHTML=defaultBody;
+  }
+  var defaultBody=ibody.innerHTML;
+
+  // ---- modes ----
+  var evpanel=document.getElementById("evpanel"), board=document.getElementById("board");
+  function setMode(m){
+    mode=m;
+    document.querySelectorAll('.tabs button').forEach(function(b){b.setAttribute("aria-selected",b.dataset.mode===m);});
+    if(m==="evidence"){board.classList.add("hidden");evpanel.classList.remove("hidden");
+      document.getElementById("hint").textContent="Two scoring ladders and the three publish gates.";return;}
+    evpanel.classList.add("hidden");board.classList.remove("hidden");
+    document.getElementById("hint").textContent = m==="entity"
+      ? "Arrows show id-references between source records. plants and practice are the hubs. Click to trace."
+      : "Click any node to inspect it and light up what it connects to. Click empty space to reset.";
+    place();
+    if(selected&&mode==="entity"&&!ENTITY_NODES[selected]) reset();
+    requestAnimationFrame(function(){drawEdges();});
+  }
+  document.querySelectorAll('.tabs button').forEach(function(b){
+    b.addEventListener("click",function(){setMode(b.dataset.mode);});
+  });
+  document.getElementById("stagewrap").addEventListener("click",reset);
+
+  // ---- evidence ladders (data-driven) ----
+  var CLIN=[["systematic-review",7,"meta-analyses / systematic reviews"],["rct",5,"randomised controlled trials"],
+    ["clinical",3,"other human studies — cohort, case report"],["preclinical",2,"in-vitro / animal"],["traditional",1,"books, monographs, ethnobotany"]];
+  var PRAC=[["optimisation",7,"RSM / factorial designed extraction"],["pharmacopoeial",6,"Ph. Eur. / normative standard"],
+    ["comparative-bench",5,"head-to-head bench comparison"],["characterisation",3,"single quantified measurement"],
+    ["method-review",0,"review — reports no single tuple"],["traditional-text",0,"traditional recipe text"]];
+  function ladder(el,rows,maxbase){
+    el.innerHTML=rows.map(function(r){
+      var w=Math.max(4,Math.round(r[1]/maxbase*100));
+      return '<div class="rung"><span class="tier">'+r[0]+'</span><span class="base">'+r[1]+'</span>'+
+        '<span class="desc">'+r[2]+'</span>'+
+        (r[1]>0?'<span class="bar" style="width:'+w+'%"></span>':'')+'</div>';
+    }).join('');
+  }
+  ladder(document.getElementById("ladderClin"),CLIN,7);
+  ladder(document.getElementById("ladderPrac"),PRAC,7);
+
+  var WORKED=[["1 RCT","dots",5],["3 RCTs (base 5 +2)","dots",7],["meta-analysis + ≥5 human trials","dots",10],
+    ["any number of in-vitro / animal only","dots",2],["traditional sources only","dots",1]];
+  document.getElementById("workedClin").innerHTML=WORKED.map(function(w){
+    var filled=Math.floor(w[2]/2), half=(w[2]%2)?1:0, dots="";   // mirrors os-scoring.php dots
+    for(var i=0;i<5;i++){var cls=i<filled?"on":(i===filled&&half?"half":"");dots+='<i class="'+cls+'"></i>';}
+    return '<div class="wex"><span class="lab">'+w[0]+'</span><span class="dots">'+dots+'</span><span class="sc">'+w[2]+'/10</span></div>';
+  }).join('');
+
+  // ---- theme toggle ----
+  document.getElementById("themebtn").addEventListener("click",function(){
+    var root=document.documentElement;
+    var cur=root.getAttribute("data-theme");
+    if(!cur){cur=matchMedia("(prefers-color-scheme:dark)").matches?"dark":"light";}
+    var next=cur==="dark"?"light":"dark";
+    root.setAttribute("data-theme",next);
+    requestAnimationFrame(drawEdges);
+  });
+
+  // ---- resize ----
+  var rt;
+  window.addEventListener("resize",function(){clearTimeout(rt);rt=setTimeout(function(){if(mode!=="evidence")drawEdges();},80);});
+  document.getElementById("footcount").textContent="21 source vocab/entity groups · verified "+
+    "from schema/, build.py & novamira-sandbox";
+
+  // ---- init ----
+  place();
+  requestAnimationFrame(function(){requestAnimationFrame(drawEdges);});
+})();
+</script>

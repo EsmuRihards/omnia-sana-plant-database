@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/symptom-lookup@1",
- "count": 185,
+ "count": 186,
  "conditions": [
   {
    "id": "acid-reflux",
@@ -5023,6 +5023,113 @@
      "inferred": true,
      "references": [
       "REF-0427"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Canadian goldenrod",
+   "scientific": "Solidago canadensis",
+   "id": "solidago-canadensis",
+   "common_slug": "canadian-goldenrod",
+   "wp_post_id": null,
+   "indications": [
+    {
+     "condition": "arthritis",
+     "label": "Arthritis / joint pain",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3161",
+      "REF-3160",
+      "REF-3157"
+     ]
+    },
+    {
+     "condition": "cancer",
+     "label": "Cancer (anticancer research)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3163",
+      "REF-3164",
+      "REF-3181",
+      "REF-3166"
+     ]
+    },
+    {
+     "condition": "infection",
+     "label": "Infection (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3170",
+      "REF-3171",
+      "REF-3180",
+      "REF-3160"
+     ]
+    },
+    {
+     "condition": "inflammation",
+     "label": "Inflammation (general)",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3161",
+      "REF-3162",
+      "REF-3160",
+      "REF-3157"
+     ]
+    },
+    {
+     "condition": "liver-support",
+     "label": "Liver support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3159",
+      "REF-3160",
+      "REF-3165"
+     ]
+    },
+    {
+     "condition": "swelling",
+     "label": "Swelling / fluid retention",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3158",
+      "REF-3157"
+     ]
+    },
+    {
+     "condition": "urinary-support",
+     "label": "Urinary support",
+     "evidence": 2,
+     "status": "verified",
+     "inferred": false,
+     "references": [
+      "REF-3158",
+      "REF-3157",
+      "REF-3160"
+     ]
+    },
+    {
+     "condition": "uti",
+     "label": "Urinary tract infection (UTI)",
+     "evidence": 2,
+     "status": "needs-review",
+     "inferred": true,
+     "references": [
+      "REF-3157",
+      "REF-3160",
+      "REF-3180"
      ]
     }
    ]

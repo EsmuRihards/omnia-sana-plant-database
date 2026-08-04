@@ -1,0 +1,374 @@
+id: solidago-canadensis
+scientific_name: Solidago canadensis
+common_names:
+- Canadian goldenrod
+- Canada goldenrod
+- Goldenrod
+family: Asteraceae
+external_ids:
+  gbif: 5389029
+  powo: urn:lsid:ipni.org:names:249454-1
+  wikidata: Q254436
+parts_used:
+- Flower
+- Leaf
+- Stem
+botanical_description:
+  text: Erect rhizomatous perennial herb (Asteraceae), typically 0.6-1.5 m (2-5 ft) tall, spreading by creeping
+    underground rhizomes so that many stems arise together. Stems are erect and rigid, short-hairy in the
+    upper part and becoming smoother towards the base. Leaves are alternate (with no basal rosette), lance-elliptic,
+    2-19 cm long, strongly three-nerved, and sharply toothed except near the base. The numerous small yellow
+    flower heads (each about 3 mm, with roughly 8-15 ray florets around 3-6 disc florets) are borne on one
+    side of arching branches, forming a large pyramidal to recurved, plume-like terminal panicle. The fruit
+    is a small, sparsely hairy achene (1-1.5 mm) tipped with a white pappus for wind dispersal.
+  height: 0.6-1.5 m (2-5 ft)
+  habit: Erect rhizomatous perennial herb
+  leaves: Alternate, lance-elliptic, strongly three-nerved, sharply toothed
+  flowers: Many small yellow heads (about 8-15 ray florets, 3-6 disc florets) in a pyramidal, plume-like panicle
+  stem: Erect, rigid, short-hairy above and smoother below; multiple stems from creeping rhizomes
+  root: Creeping rhizomes with fibrous roots
+  fruit: Small, sparsely hairy achene (1-1.5 mm) with a white pappus
+  flowering_period: July-October
+  reference_ids:
+  - REF-3183
+  - REF-3174
+  status: verified
+habitat:
+  text: Native to North America, where it is widespread across the USA and Canada, Solidago canadensis is
+    a late-season-flowering perennial of open, sunny and often disturbed ground - fields, roadsides, railway
+    banks, forest edges, riverbanks, meadows and abandoned land. Introduced to Europe as an ornamental in
+    the 17th century, it has since become one of the most widespread invasive plants across Europe, temperate
+    Asia, China, Japan and Australia, forming dense clonal stands that suppress surrounding vegetation.
+  reference_ids:
+  - REF-3174
+  - REF-3175
+  status: verified
+harvesting:
+  text: The flowering aerial parts (herb) - flowering tops, leaves and stems - are cut at the onset of flowering
+    in late summer and dried. This dried flowering herb is the material recognised, together with Solidago
+    gigantea, as goldenrod herb ('Solidaginis herba') in the European Pharmacopoeia.
+  parts:
+  - Flower
+  - Leaf
+  - Stem
+  season: Late summer, at flowering
+  reference_ids:
+  - REF-3157
+  - REF-3160
+  - REF-3166
+  status: verified
+traditional_uses:
+  text: In its native North America, Solidago canadensis was used by Indigenous peoples - including the Haudenosaunee
+    (Iroquois) - as a traditional medicine, and its extracts show antibacterial activity. In European phytotherapy
+    the dried flowering herb has long been used, as a tea, tincture or decoction, as a urological and anti-inflammatory
+    ('antiphlogistic') remedy - a mild aquaretic diuretic and antispasmodic for irrigation of the urinary
+    tract - and it is documented in traditional use for kidney, urinary-tract and liver complaints and for
+    inflammation-related conditions. The European Pharmacopoeia accepts S. canadensis, together with S. gigantea,
+    as a source of goldenrod herb ('Solidaginis herba'). Note that the formal EU (EMA/HMPC) herbal monograph
+    for medicinal goldenrod covers the related species Solidago virgaurea, not S. canadensis.
+  reference_ids:
+  - REF-3157
+  - REF-3160
+  - REF-3161
+  - REF-3174
+  - REF-3180
+  - REF-3166
+  status: verified
+preparations:
+- name: Infusion (tea)
+  text: The dried flowering herb steeped in hot water - the classic urinary-tract preparation used in European
+    phytotherapy.
+  reference_ids:
+  - REF-3157
+  - REF-3174
+  status: verified
+- name: Tincture / hydroethanolic extract
+  text: An alcoholic extract of the dried herb. In pharmacological research on S. canadensis, a 40% ethanol
+    extract of the herb carried the most pronounced anti-inflammatory and hepatoprotective activity.
+  reference_ids:
+  - REF-3160
+  status: verified
+- name: Decoction
+  text: The herb simmered in water for oral use, one of the traditional European preparations.
+  reference_ids:
+  - REF-3174
+  status: verified
+dosage:
+- name: Infusion (traditional)
+  text: 'Traditionally the dried flowering herb is taken as a tea for urinary-tract irrigation, with generous
+    fluid intake. A species-specific, clinically established human dose for Solidago canadensis is not defined
+    in the scientific literature; diuretic (aquaretic) activity was demonstrated for standardised extracts
+    of the flowering aerial parts in an animal model at 400 mg/kg. Educational reference only, not a prescription;
+    ensure adequate fluid intake and avoid in oedema arising from cardiac or renal impairment.'
+  reference_ids:
+  - REF-3158
+  - REF-3157
+  status: needs-review
+constituents:
+- name: Flavonoids (quercetin, kaempferol, isorhamnetin and their glycosides - rutin, quercitrin, isoquercitrin,
+    hyperoside)
+  compounds:
+  - flavonoid
+  - quercetin
+  - kaempferol
+  - rutin
+  note: Quercetin and kaempferol rutinosides are the two major flavonoids of S. canadensis, and rutin is
+    the major flavonoidal component of the herb extract; these drive much of its antioxidant activity.
+  reference_ids:
+  - REF-3157
+  - REF-3166
+  - REF-3168
+  - REF-3165
+  - REF-3177
+  - REF-3167
+- name: Phenolic acids / caffeoylquinic acids (chlorogenic acid, neochlorogenic acid, di-caffeoylquinic acids,
+    caffeic acid)
+  compounds:
+  - phenolic-acid
+  - chlorogenic-acid
+  - caffeic-acid
+  note: Hydroxycinnamic (caffeoylquinic) acids are a consistent phenolic class of the herb and contribute
+    to its antioxidant capacity.
+  reference_ids:
+  - REF-3163
+  - REF-3168
+  - REF-3166
+  - REF-3157
+  - REF-3167
+- name: Essential oil (mono- and sesquiterpenes - germacrene D, alpha-pinene, limonene, bornyl acetate, beta-caryophyllene;
+    thymol and carvacrol in the root oil)
+  compounds:
+  - essential-oil
+  - sesquiterpene
+  - terpene
+  - thymol
+  - carvacrol
+  note: The aerial-part essential oil is dominated by mono- and sesquiterpenes (germacrene D prominent), while
+    the root oil is rich in thymol and carvacrol; the oil underlies the antimicrobial and antifungal activity.
+  reference_ids:
+  - REF-3170
+  - REF-3171
+  - REF-3172
+  - REF-3178
+  - REF-3181
+- name: Diterpenoids (labdane 'solicanolide' and clerodane diterpenoids)
+  compounds:
+  - terpene
+  note: A labdane diterpene (solicanolide) and numerous clerodane diterpenoids are characteristic of S. canadensis;
+    several show cytotoxic and anti-inflammatory activity.
+  reference_ids:
+  - REF-3163
+  - REF-3162
+- name: Triterpenoids, saponins and sterols (lupeol, ursolic acid, cycloartenol, bayogenin saponins, stigmasterol)
+  compounds:
+  - triterpene-saponin
+  - saponin
+  - phytosterol
+  note: Lupane triterpenoids and four bisdesmosidic bayogenin ('canadensis-saponins') were isolated from the
+    herb, together with the phytosterol stigmasterol.
+  reference_ids:
+  - REF-3164
+  - REF-3169
+- name: Polyphenolic-polysaccharide-protein complex
+  compounds:
+  - polysaccharide
+  note: A rhamnogalacturonan-type polyphenolic-polysaccharide-protein complex isolated from the flowers.
+  reference_ids:
+  - REF-3173
+actions:
+- action: anti-inflammatory
+  reference_ids:
+  - REF-3161
+  - REF-3162
+  - REF-3160
+  - REF-3157
+  status: verified
+- action: antioxidant
+  reference_ids:
+  - REF-3167
+  - REF-3168
+  - REF-3166
+  - REF-3174
+  status: verified
+- action: antimicrobial
+  reference_ids:
+  - REF-3170
+  - REF-3171
+  - REF-3160
+  - REF-3180
+  status: verified
+- action: antifungal
+  reference_ids:
+  - REF-3171
+  - REF-3170
+  - REF-3182
+  status: verified
+- action: diuretic
+  note: Described as an aquaretic diuretic; ethanol extract and its ethyl acetate fraction showed the highest
+    aquaretic activity in an animal model.
+  reference_ids:
+  - REF-3158
+  - REF-3157
+  status: verified
+- action: hepatoprotective
+  reference_ids:
+  - REF-3159
+  - REF-3160
+  - REF-3165
+  status: verified
+- action: nephroprotective
+  note: Hydroalcoholic extract protected against paracetamol-induced hepatic and renal toxicity in mice.
+  reference_ids:
+  - REF-3159
+  status: needs-review
+- action: anticancer
+  note: Preclinical only - cytotoxicity to tumour cell lines, DNA polymerase beta lyase inhibition, essential-oil
+    antiproliferative activity and antimutagenic activity.
+  reference_ids:
+  - REF-3163
+  - REF-3164
+  - REF-3181
+  - REF-3166
+  status: needs-review
+- action: antispasmodic
+  note: Listed among the herb's characteristic spasmolytic properties in European phytotherapy.
+  reference_ids:
+  - REF-3157
+  status: needs-review
+indications:
+- condition: urinary-support
+  note: Traditional urological/aquaretic use, supported by demonstrated aquaretic activity of the aerial-part
+    extract in an animal model.
+  reference_ids:
+  - REF-3158
+  - REF-3157
+  - REF-3160
+  status: verified
+- condition: inflammation
+  reference_ids:
+  - REF-3161
+  - REF-3162
+  - REF-3160
+  - REF-3157
+  status: verified
+- condition: infection
+  note: From antimicrobial/antibacterial activity of extracts and essential oil.
+  reference_ids:
+  - REF-3170
+  - REF-3171
+  - REF-3180
+  - REF-3160
+  status: verified
+- condition: liver-support
+  reference_ids:
+  - REF-3159
+  - REF-3160
+  - REF-3165
+  status: verified
+- condition: swelling
+  note: inferred from diuretic action
+  reference_ids:
+  - REF-3158
+  - REF-3157
+  status: needs-review
+- condition: uti
+  note: inferred from diuretic and antimicrobial actions
+  reference_ids:
+  - REF-3157
+  - REF-3160
+  - REF-3180
+  status: needs-review
+- condition: cancer
+  note: inferred from preclinical anticancer/antiproliferative and antimutagenic activity
+  reference_ids:
+  - REF-3163
+  - REF-3164
+  - REF-3181
+  - REF-3166
+  status: needs-review
+- condition: arthritis
+  note: inferred from anti-inflammatory action
+  reference_ids:
+  - REF-3161
+  - REF-3160
+  - REF-3157
+  status: needs-review
+contraindications:
+- note: Generally well tolerated; toxicity testing classified the herb extract as practically non-toxic (toxicity
+    class V, LD50 > 5000 mg/kg). May cause allergic reactions in individuals sensitive to Asteraceae/Compositae
+    plants. As with other goldenrod used for urinary irrigation, ensure adequate fluid intake and avoid use
+    in cases of oedema arising from impaired cardiac or renal function. Safety data in pregnancy and breastfeeding
+    are lacking, so use is not recommended during these periods.
+  severity: caution
+  reference_ids:
+  - REF-3160
+  - REF-3157
+  - REF-3158
+  status: verified
+references:
+- REF-3174
+- REF-3175
+- REF-3176
+- REF-3178
+- REF-3179
+- REF-3182
+lookalikes_review:
+  outcome: has-lookalikes
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-08-04'
+dangerous_lookalikes:
+- dangerous_plant: jacobaea-vulgaris
+  severity: dangerous
+  confused_part: Yellow-flowered plant gathered for its flowering tops; toxic ragwort shares the yellow colour
+    and the same rough, disturbed grassland.
+  confusion_context: Canadian goldenrod (Solidago canadensis) is gathered for its yellow flowering tops. As
+    foraging guidance notes, goldenrod has toxic look-alikes - notably ragwort (Jacobaea vulgaris / Senecio
+    jacobaea), a yellow-flowered weed of the same rough grassland and roadside habitats. Ragwort contains
+    hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage (veno-occlusive disease) and can
+    be fatal, with the highest risk once the plant is cut or dried into herbal material. Because both are
+    yellow-flowered plants of the same ground, correct identification matters before gathering.
+  distinguishing_features:
+  - 'Flowers (decisive): goldenrod carries many tiny flower heads packed into a one-sided, plume-like panicle.
+    Ragwort has larger, open, daisy-like yellow flowers (with about 13 spreading ray petals) in flat-topped
+    clusters, and far fewer heads.'
+  - 'Leaves: goldenrod leaves are simple, lance-shaped and toothed; ragwort leaves are blunter, deeply lobed
+    and ruffled (''kale-like'').'
+  - 'Growth: Canadian goldenrod forms tall (up to ~1.5 m) clonal stands from creeping rhizomes; ragwort is
+    a shorter, branched biennial/short-lived perennial.'
+  key_test: Look at the flower heads. Many tiny florets in a feathery, one-sided plume on a tall leafy stem
+    = goldenrod. Larger, open, daisy-like yellow flowers with about 13 petals and ruffled lobed leaves = ragwort
+    - liver-toxic, do not gather it.
+  reference_ids:
+  - REF-2705
+  - REF-2689
+  - REF-2690
+  status: approved
+  reviewed_by: Omnia Sana (owner-authorized)
+  reviewed_date: '2026-08-04'
+provenance: pubmed+web
+status: verified
+last_updated: '2026-08-04'
+internal_notes: 'New record created 2026-08-04 (Canadian goldenrod campaign). Species deliberately kept distinct
+  from the existing solidago-virgaurea record: S. canadensis and S. virgaurea are routinely conflated and
+  most pharmacopoeial "goldenrod" therapeutic literature (EMA/HMPC monograph, Commission E) is virgaurea-specific.
+  Every wired claim is backed by a source that names Solidago canadensis (or Ph. Eur. "Solidaginis herba"
+  = S. canadensis + S. gigantea) in the title/abstract. 27 references added (REF-3157..REF-3183): 26 S. canadensis-specific
+  publications from PubMed/EuropePMC plus one botanical field-guide source (REF-3183, Minnesota Wildflowers)
+  for morphology. Evidence is preclinical/phytochemical throughout - there are no human clinical trials of
+  S. canadensis - so scored indications sit at the preclinical tier and the inferred-from-action indications
+  are marked needs-review. | Wrong-species trap caught and rejected: PMID 29543989 (cyclitols/sugars) studies
+  Solidago virgaurea, not canadensis - not cited. | Ecology/agronomy/materials papers on this heavily-studied
+  invasive (allelopathy, soil N/GHG, microplastics, phytoremediation, biochar, nanoparticle green-synthesis,
+  molluscicidal/nematicidal pesticide, cut-flower vase life) were reviewed and NOT wired to medicinal claims;
+  a few broad phytochem/biology ones sit in the references[] bucket. | EMA finding (precise): there is NO
+  EMA/HMPC monograph for S. canadensis - the EU goldenrod monograph covers S. virgaurea only. Therefore the
+  tincture-calculator practice/normative record was deliberately NOT created (no qualifying normative dosing
+  source with a drug:extract ratio for this species; virgaurea''s 1:5 / 45% ratio must not be borrowed).
+  Owner authorised the practice record only "if EMA qualifies" - it does not. Documented dead-end, revisit
+  if Commission E "Solidaginis herba" or a Ph. Eur. posology is opened. | dosage left as needs-review: no
+  species-specific human posology exists; the 400 mg/kg figure is the animal aquaretic dose, not a human
+  prescription. | Safety arrays: dangerous_lookalikes (ragwort) approved (owner-authorized 2026-08-04, reusing
+  the goldenrod/ragwort foraging refs REF-2705/2689/2690, which are genus-generic). drug_class_interactions
+  and pairings deliberately left empty: no S. canadensis-specific interaction or herb-pairing evidence exists,
+  and class-based inference from the diuretic action was judged too weak to publish (the more-studied virgaurea
+  record likewise carries none). Revisit if a diuretic-class interaction source specific to goldenrod is found.'

@@ -1,7 +1,7 @@
 {
  "schema": "omnia-sana/lookalikes@1",
- "count": 72,
- "plants_covered": 187,
+ "count": 73,
+ "plants_covered": 188,
  "dangerous_plants": [
   {
    "id": "agave-americana",
@@ -1422,6 +1422,38 @@
    "lookalikes": [],
    "reviewed_by": "Omnia Sana (owner-authorized)",
    "reviewed_date": "2026-07-07"
+  },
+  {
+   "plant_id": "solidago-canadensis",
+   "plant": "Canadian goldenrod",
+   "scientific": "Solidago canadensis",
+   "common_slug": "canadian-goldenrod",
+   "wp_post_id": null,
+   "review_outcome": "has-lookalikes",
+   "lookalikes": [
+    {
+     "dangerous_plant": "jacobaea-vulgaris",
+     "dangerous_plant_label": "Ragwort",
+     "kingdom": "plant",
+     "severity": "dangerous",
+     "confused_part": "Yellow-flowered plant gathered for its flowering tops; toxic ragwort shares the yellow colour and the same rough, disturbed grassland.",
+     "confusion_context": "Canadian goldenrod (Solidago canadensis) is gathered for its yellow flowering tops. As foraging guidance notes, goldenrod has toxic look-alikes - notably ragwort (Jacobaea vulgaris / Senecio jacobaea), a yellow-flowered weed of the same rough grassland and roadside habitats. Ragwort contains hepatotoxic pyrrolizidine alkaloids that cause cumulative liver damage (veno-occlusive disease) and can be fatal, with the highest risk once the plant is cut or dried into herbal material. Because both are yellow-flowered plants of the same ground, correct identification matters before gathering.",
+     "distinguishing_features": [
+      "Flowers (decisive): goldenrod carries many tiny flower heads packed into a one-sided, plume-like panicle. Ragwort has larger, open, daisy-like yellow flowers (with about 13 spreading ray petals) in flat-topped clusters, and far fewer heads.",
+      "Leaves: goldenrod leaves are simple, lance-shaped and toothed; ragwort leaves are blunter, deeply lobed and ruffled ('kale-like').",
+      "Growth: Canadian goldenrod forms tall (up to ~1.5 m) clonal stands from creeping rhizomes; ragwort is a shorter, branched biennial/short-lived perennial."
+     ],
+     "key_test": "Look at the flower heads. Many tiny florets in a feathery, one-sided plume on a tall leafy stem = goldenrod. Larger, open, daisy-like yellow flowers with about 13 petals and ruffled lobed leaves = ragwort - liver-toxic, do not gather it.",
+     "references": [
+      "REF-2705",
+      "REF-2689",
+      "REF-2690"
+     ],
+     "status": "approved"
+    }
+   ],
+   "reviewed_by": "Omnia Sana (owner-authorized)",
+   "reviewed_date": "2026-08-04"
   },
   {
    "plant_id": "carum-carvi",

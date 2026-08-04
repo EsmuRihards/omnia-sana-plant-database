@@ -53,14 +53,38 @@ sync function for each surface the change touches (via novamira execute-php):
 | Surface | Function |
 | --- | --- |
 | Knowledge Finder (citations) | `os_kf_do_sync(true)` |
-| Plant pages / Materia Medica | `os_pe_sync(true)` |
+| Plant pages / Materia Medica (refresh data) | `os_pe_sync(true)` |
+| Plant pages / Materia Medica (**create/rename the page**) | `os_pp_sync()` |
 | Symptom-to-Plant Lookup | `os_sym_do_sync(true)` |
 | Herb-drug + herb-herb safety | `os_safety_sync(true)` |
 | Dangerous Lookalikes | `os_lk_sync(true)` |
-| Plant-name dictionary | `os_pp_sync(true)` |
 
 Call the ones your change actually affects. A citation-only change needs
 `os_kf_do_sync`; a new indication needs `os_sym_do_sync` too.
+
+### Adding a NEW plant, or changing a plant's `common_names[0]` / `common_slug`
+
+**`os_pe_sync(true)` is not enough on its own here — the page will 404 (new plant)
+or keep the old title/URL (rename).** The `/plants/<slug>/` route resolves to an
+`os_plant` **CPT post**, one per plant, and those posts are upserted by
+**`os_pp_sync()`** (defined in the `os-plant-pages.php` sandbox plugin — slug =
+`common_slug ?? id`, title = `common_names[0]`). `os_pe_sync` only refreshes the
+data cache the renderer reads; it does **not** create or rename the CPT post.
+
+So for a new plant, or any change to the display name or slug, run **both**:
+
+```php
+os_pe_sync(true);   // refresh the plant data cache (188 records)
+os_pp_sync();        // create/rename the os_plant CPT post the URL routes to
+flush_rewrite_rules(false);
+\SpeedyCache\Delete::all_cache();
+```
+
+`os_pp_sync()` returns `{created, updated, removed, total}` — a new plant shows
+`created: 1`; a rename shows `updated: 1`. (Despite the name, `os_pp_sync` manages
+the plant **pages**, not the name dictionary. Renaming with no `common_slug` set
+will change the URL, because the slug is derived from `common_names[0]`; pin an
+explicit `common_slug` in the YAML to keep the URL stable.)
 
 ### Expected non-errors
 

@@ -1,0 +1,375 @@
+id: solidago-canadensis
+scientific_name: Solidago canadensis
+names:
+  hr:
+  - name: Kanadska zlatošipka
+    sources:
+    - wikipedia:hr
+    status: needs-review
+  cs:
+  - name: zlatobýl kanadský
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikidata:Q254436
+    - wikipedia:cs
+  da:
+  - name: Canadisk gyldenris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:national-checklist-of-all-species-occurr
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-denmark-r-dlist
+    - wikipedia:da
+  - name: Vinterportulak
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sibirisk Vinterportulak
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  nl:
+  - name: Canadese guldenroede
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-dutch-species-register-nederla
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - wikidata:Q254436
+    - wikipedia:nl
+  en:
+  - name: Canadian goldenrod
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:grin-taxonomy
+    - gbif:taxref
+    - gbif:united-kingdom-species-inventory-uksi
+    - wikidata:Q254436
+  - name: Canada goldenrod
+    sources:
+    - col:catalogue-of-life
+    - gbif:checklist-of-vermont-species
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:global-register-of-introduced-and-invasi
+    - gbif:integrated-taxonomic-information-system-
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - gbif:world-register-of-marine-species
+    - wikidata:Q254436
+  - name: Goldenrod
+    sources:
+    - gbif:checklist-of-vermont-species
+    - gbif:world-register-of-marine-species
+  et:
+  - name: kanada kuldvits
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:et
+  fi:
+  - name: kanadanpiisku
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:the-finbif-checklist-of-finnish-species
+    - wikidata:Q254436
+    - wikipedia:fi
+  - name: Perhoskleitonia
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Alaskankleitonia
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vihannesportulakka
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  fr:
+  - name: Solidage du Canada
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:invasive-alien-species-in-belgium-harmon
+    - gbif:iucn-red-list-vascular-plants-2018-metro
+    - wikidata:Q254436
+  - name: verge d'or du Canada
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+    - gbif:grin-taxonomy
+  - name: bouquets jaunes
+    sources:
+    - col:catalogue-of-life
+    - gbif:database-of-vascular-plants-of-canada-va
+  - name: verge d’or du Canada
+    sources:
+    - col:catalogue-of-life
+  - name: Tête d'or
+    sources:
+    - gbif:taxref
+    status: needs-review
+  - name: Solidage verge d'or du Canada
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Solidage du Canada, Gerbe-d'or, Verge-d'or du Canada
+    sources:
+    - gbif:taxref
+    status: needs-review
+  de:
+  - name: Kanadische Goldrute
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:belgian-species-list
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:eunis-biodiversity-database
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+    - gbif:red-list-vascular-plants-2018-germany-ro
+    - gbif:taxon-list-of-vascular-plants-from-bavar
+    - wikidata:Q254436
+    - wikipedia:de
+  - name: gewöhnliche kanadische Goldrute
+    sources:
+    - col:catalogue-of-life
+    - gbif:grin-taxonomy
+  hu:
+  - name: Kanadai aranyvessző
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:hu
+  it:
+  - name: Verga d'oro del Canada
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - gbif:flora-helvetica-asteraceae
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Verga d'oro americana
+    sources:
+    - col:catalogue-of-life
+    - gbif:info-flora-schweiz-asteraceae
+  - name: Verga d’oro del Canada
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+  lv:
+  - name: Kanādas zeltgalvīte
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:lv
+  - name: Kanādas zeltslotiņa
+    sources:
+    - col:catalogue-of-life
+  - name: Kan
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  lt:
+  - name: Kanadinė rykštenė
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:lt
+  pl:
+  - name: Nawłoć kanadyjska
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    - wikipedia:pl
+  pt:
+  - name: tango
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  - name: vara-dourada
+    sources:
+    - col:catalogue-of-life
+    - gbif:flora-e-funga-do-brasil-lista-oficial
+  ro:
+  - name: Sânziene canadiene
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Sânziene de grădină
+    sources:
+    - col:catalogue-of-life
+  - name: Sanziene de gradina
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sk:
+  - name: Zlatobyľ kanadská
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:sk
+  sl:
+  - name: Kanadska zlata rozga
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikidata:Q254436
+  es:
+  - name: Solidago
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  - name: Colebruja
+    sources:
+    - col:catalogue-of-life
+  - name: Vara de oro de Canadá
+    sources:
+    - col:catalogue-of-life
+  sv:
+  - name: kanadensiskt gullris
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:grin-taxonomy
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+    - wikipedia:sv
+  - name: kanadagullris
+    sources:
+    - col:catalogue-of-life
+    - gbif:dyntaxa-svensk-taxonomisk-databas
+    - gbif:risk-assessment-of-alien-taxa-in-sweden-
+  - name: Vårsköna
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: kanadanpiisku
+    sources:
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    status: needs-review
+  - name: Vinterportlak
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Deltasidenblomma
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  ru:
+  - name: Золотарник канадский
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:ru
+  uk:
+  - name: Золотушник канадський
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:uk
+  'no':
+  - name: kanadagullris
+    preferred: true
+    sources:
+    - gbif:backbone
+    - gbif:nordic-crop-wild-relative-cwr-checklist
+    - gbif:red-list-vascular-plants-2021-norway-r-d
+    - wikipedia:no
+  - name: Portulakk
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Sibirportulakk
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  - name: Vinterportulakk
+    sources:
+    - gbif:daisie-inventory-of-alien-invasive-speci
+    status: needs-review
+  sr:
+  - name: Štap svetog Jozefa
+    sources:
+    - wikipedia:sr
+    status: needs-review
+  ca:
+  - name: Palma d'or
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+  be:
+  - name: Сумнік канадскі
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+    - wikipedia:be
+  tr:
+  - name: Kanada Altınbaşak Otu
+    preferred: true
+    sources:
+    - col:catalogue-of-life
+verification:
+  checked_languages:
+  - bg
+  - hr
+  - cs
+  - da
+  - nl
+  - en
+  - et
+  - fi
+  - fr
+  - de
+  - el
+  - hu
+  - ga
+  - it
+  - lv
+  - lt
+  - mt
+  - pl
+  - pt
+  - ro
+  - sk
+  - sl
+  - es
+  - sv
+  - ru
+  - uk
+  - 'no'
+  - sr
+  - bs
+  - sq
+  - is
+  - ca
+  - be
+  - tr
+  sources_queried:
+  - gbif
+  - wikidata
+  - wikipedia
+  last_run: '2026-08-04'
+last_verified: '2026-08-04'

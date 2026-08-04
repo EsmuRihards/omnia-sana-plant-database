@@ -1,6 +1,6 @@
 {
  "schema": "omnia-sana/names@1",
- "count": 184,
+ "count": 185,
  "languages": [
   {
    "code": "bg",
@@ -278,38 +278,38 @@
  "coverage": {
   "bg": 64,
   "hr": 66,
-  "cs": 156,
-  "da": 141,
-  "nl": 149,
-  "en": 181,
-  "et": 123,
-  "fi": 165,
-  "fr": 167,
-  "de": 166,
+  "cs": 157,
+  "da": 142,
+  "nl": 150,
+  "en": 182,
+  "et": 124,
+  "fi": 166,
+  "fr": 168,
+  "de": 167,
   "el": 58,
-  "hu": 119,
+  "hu": 120,
   "ga": 40,
-  "it": 132,
-  "lv": 76,
-  "lt": 120,
+  "it": 133,
+  "lv": 77,
+  "lt": 121,
   "mt": 4,
-  "pl": 146,
-  "pt": 132,
-  "ro": 68,
-  "sk": 135,
-  "sl": 121,
-  "es": 129,
-  "sv": 171,
-  "ru": 144,
-  "uk": 113,
-  "no": 146,
+  "pl": 147,
+  "pt": 133,
+  "ro": 69,
+  "sk": 136,
+  "sl": 122,
+  "es": 130,
+  "sv": 172,
+  "ru": 145,
+  "uk": 114,
+  "no": 147,
   "sr": 62,
   "bs": 17,
   "sq": 17,
   "is": 36,
-  "ca": 92,
-  "be": 73,
-  "tr": 94
+  "ca": 93,
+  "be": 74,
+  "tr": 95
  },
  "plants": [
   {
@@ -58132,6 +58132,429 @@
     "tr": [
      {
       "name": "devedikeni",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "solidago-canadensis",
+   "scientific_name": "Solidago canadensis",
+   "common_slug": "canadian-goldenrod",
+   "family": "Asteraceae",
+   "wp_post_id": null,
+   "english": "Canadian goldenrod",
+   "external_ids": {
+    "gbif": 5389029,
+    "powo": "urn:lsid:ipni.org:names:249454-1",
+    "wikidata": "Q254436"
+   },
+   "names": {
+    "cs": [
+     {
+      "name": "zlatobýl kanadský",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "wikidata:Q254436",
+       "wikipedia:cs"
+      ]
+     }
+    ],
+    "da": [
+     {
+      "name": "Canadisk gyldenris",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:national-checklist-of-all-species-occurr",
+       "gbif:nordic-crop-wild-relative-cwr-checklist",
+       "gbif:red-list-vascular-plants-denmark-r-dlist",
+       "wikipedia:da"
+      ]
+     }
+    ],
+    "nl": [
+     {
+      "name": "Canadese guldenroede",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:belgian-species-list",
+       "gbif:checklist-dutch-species-register-nederla",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "gbif:invasive-alien-species-in-belgium-harmon",
+       "wikidata:Q254436",
+       "wikipedia:nl"
+      ]
+     }
+    ],
+    "en": [
+     {
+      "name": "Canadian goldenrod",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:belgian-species-list",
+       "gbif:checklist-of-vermont-species",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "gbif:grin-taxonomy",
+       "gbif:taxref",
+       "gbif:united-kingdom-species-inventory-uksi",
+       "wikidata:Q254436"
+      ]
+     },
+     {
+      "name": "Canada goldenrod",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:checklist-of-vermont-species",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "gbif:database-of-vascular-plants-of-canada-va",
+       "gbif:global-register-of-introduced-and-invasi",
+       "gbif:integrated-taxonomic-information-system-",
+       "gbif:invasive-alien-species-in-belgium-harmon",
+       "gbif:world-register-of-marine-species",
+       "wikidata:Q254436"
+      ]
+     },
+     {
+      "name": "Goldenrod",
+      "preferred": false,
+      "sources": [
+       "gbif:checklist-of-vermont-species",
+       "gbif:world-register-of-marine-species"
+      ]
+     }
+    ],
+    "et": [
+     {
+      "name": "kanada kuldvits",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "wikipedia:et"
+      ]
+     }
+    ],
+    "fi": [
+     {
+      "name": "kanadanpiisku",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:nordic-crop-wild-relative-cwr-checklist",
+       "gbif:the-finbif-checklist-of-finnish-species",
+       "wikidata:Q254436",
+       "wikipedia:fi"
+      ]
+     }
+    ],
+    "fr": [
+     {
+      "name": "Solidage du Canada",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:belgian-species-list",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "gbif:database-of-vascular-plants-of-canada-va",
+       "gbif:flora-helvetica-asteraceae",
+       "gbif:info-flora-schweiz-asteraceae",
+       "gbif:invasive-alien-species-in-belgium-harmon",
+       "gbif:iucn-red-list-vascular-plants-2018-metro",
+       "wikidata:Q254436"
+      ]
+     },
+     {
+      "name": "bouquets jaunes",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:database-of-vascular-plants-of-canada-va"
+      ]
+     },
+     {
+      "name": "verge d'or du Canada",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:database-of-vascular-plants-of-canada-va",
+       "gbif:grin-taxonomy"
+      ]
+     },
+     {
+      "name": "verge d’or du Canada",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "de": [
+     {
+      "name": "Kanadische Goldrute",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:belgian-species-list",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "gbif:eunis-biodiversity-database",
+       "gbif:flora-helvetica-asteraceae",
+       "gbif:info-flora-schweiz-asteraceae",
+       "gbif:red-list-vascular-plants-2018-germany-ro",
+       "gbif:taxon-list-of-vascular-plants-from-bavar",
+       "wikidata:Q254436",
+       "wikipedia:de"
+      ]
+     },
+     {
+      "name": "gewöhnliche kanadische Goldrute",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:grin-taxonomy"
+      ]
+     }
+    ],
+    "hu": [
+     {
+      "name": "Kanadai aranyvessző",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "wikipedia:hu"
+      ]
+     }
+    ],
+    "it": [
+     {
+      "name": "Verga d'oro del Canada",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "gbif:flora-helvetica-asteraceae",
+       "gbif:info-flora-schweiz-asteraceae"
+      ]
+     },
+     {
+      "name": "Verga d'oro americana",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:info-flora-schweiz-asteraceae"
+      ]
+     },
+     {
+      "name": "Verga d’oro del Canada",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci"
+      ]
+     }
+    ],
+    "lv": [
+     {
+      "name": "Kanādas zeltgalvīte",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:lv"
+      ]
+     },
+     {
+      "name": "Kanādas zeltslotiņa",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "lt": [
+     {
+      "name": "Kanadinė rykštenė",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "wikipedia:lt"
+      ]
+     }
+    ],
+    "pl": [
+     {
+      "name": "Nawłoć kanadyjska",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:daisie-inventory-of-alien-invasive-speci",
+       "wikipedia:pl"
+      ]
+     }
+    ],
+    "pt": [
+     {
+      "name": "tango",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:flora-e-funga-do-brasil-lista-oficial"
+      ]
+     },
+     {
+      "name": "vara-dourada",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:flora-e-funga-do-brasil-lista-oficial"
+      ]
+     }
+    ],
+    "ro": [
+     {
+      "name": "Sânziene canadiene",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Sânziene de grădină",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "sk": [
+     {
+      "name": "Zlatobyľ kanadská",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:sk"
+      ]
+     }
+    ],
+    "sl": [
+     {
+      "name": "Kanadska zlata rozga",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikidata:Q254436"
+      ]
+     }
+    ],
+    "es": [
+     {
+      "name": "Solidago",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Colebruja",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     },
+     {
+      "name": "Vara de oro de Canadá",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "sv": [
+     {
+      "name": "kanadensiskt gullris",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:dyntaxa-svensk-taxonomisk-databas",
+       "gbif:grin-taxonomy",
+       "gbif:nordic-crop-wild-relative-cwr-checklist",
+       "gbif:risk-assessment-of-alien-taxa-in-sweden-",
+       "wikipedia:sv"
+      ]
+     },
+     {
+      "name": "kanadagullris",
+      "preferred": false,
+      "sources": [
+       "col:catalogue-of-life",
+       "gbif:dyntaxa-svensk-taxonomisk-databas",
+       "gbif:risk-assessment-of-alien-taxa-in-sweden-"
+      ]
+     }
+    ],
+    "ru": [
+     {
+      "name": "Золотарник канадский",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:ru"
+      ]
+     }
+    ],
+    "uk": [
+     {
+      "name": "Золотушник канадський",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:uk"
+      ]
+     }
+    ],
+    "no": [
+     {
+      "name": "kanadagullris",
+      "preferred": true,
+      "sources": [
+       "gbif:backbone",
+       "gbif:nordic-crop-wild-relative-cwr-checklist",
+       "gbif:red-list-vascular-plants-2021-norway-r-d",
+       "wikipedia:no"
+      ]
+     }
+    ],
+    "ca": [
+     {
+      "name": "Palma d'or",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life"
+      ]
+     }
+    ],
+    "be": [
+     {
+      "name": "Сумнік канадскі",
+      "preferred": true,
+      "sources": [
+       "col:catalogue-of-life",
+       "wikipedia:be"
+      ]
+     }
+    ],
+    "tr": [
+     {
+      "name": "Kanada Altınbaşak Otu",
       "preferred": true,
       "sources": [
        "col:catalogue-of-life"

@@ -12,7 +12,7 @@ Checks:
 Exit 0 = clean. Exit 1 = hard error (missing ref/vocab id, malformed record).
 Supersedes the old validate_references.py. Run: python scripts/validate.py
 """
-import os, re, sys, glob, yaml
+import os, re, sys, glob, hashlib, yaml
 
 try:
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
@@ -26,6 +26,8 @@ COMPDIR = os.path.join(ROOT, "compounds")
 NAMESDIR = os.path.join(ROOT, "names")
 BIB = os.path.join(ROOT, "bibliography.bibtex")
 
+SCHEMADIR = os.path.join(ROOT, "schema")
+DOC = os.path.join(ROOT, "DATA_PRINCIPLES.md")  # canonical cross-model doc (doc-sync guard)
 REF_RE = re.compile(r"REF-\d{4,}")
 SLUG = re.compile(r"^[a-z0-9-]+$")
 STATUSES = {"verified", "draft", "needs-review"}
@@ -726,7 +728,41 @@ from build import (PRACTICE_METHOD_TYPES, PRACTICE_FINDING_TIERS, PRACTICE_TIER_
                    practice_band, practice_n_independent)  # noqa: E402
 
 
+def structure_fingerprint():
+    """Short hash of the DB's STRUCTURAL surface — the data contract, not its contents.
+
+    Changes when: a schema field is added/removed/edited (schema/*.json bytes), a new
+    entity directory appears (plants/compounds/practice/names), or a vocabulary file is
+    added/removed. Does NOT change when plant data, references, or vocabulary *values*
+    change — only the shape does. This is the signal the DATA_PRINCIPLES.md doc-sync
+    guard watches. Scoring/tool changes (build.py) are deliberately OUT of scope here
+    and rely on the doc's discipline clause instead — see DATA_PRINCIPLES.md."""
+    parts = []
+    for p in sorted(glob.glob(os.path.join(SCHEMADIR, "*.json"))):
+        parts.append("schema/" + os.path.basename(p))
+        parts.append(hashlib.sha256(open(p, "rb").read()).hexdigest())
+    for d in ("plants", "compounds", "practice", "names"):
+        parts.append("dir:%s:%d" % (d, os.path.isdir(os.path.join(ROOT, d))))
+    for p in sorted(glob.glob(os.path.join(VOCAB, "*.yaml"))):
+        parts.append("vocab/" + os.path.basename(p))
+    return hashlib.sha256("\n".join(parts).encode("utf-8")).hexdigest()[:12]
+
+
+def read_doc_fingerprint():
+    """The fingerprint DATA_PRINCIPLES.md last recorded, or None if the doc/line is absent."""
+    if not os.path.exists(DOC):
+        return None
+    m = re.search(r"structure-fingerprint:\s*([0-9a-f]{6,})", open(DOC, encoding="utf-8").read())
+    return m.group(1) if m else None
+
+
 def main():
+    # `--fingerprint`: print the current structural fingerprint and exit. After any
+    # structural change, update DATA_PRINCIPLES.md then paste this value into its
+    # `<!-- structure-fingerprint: … -->` line. Provider-agnostic: any model/tool runs it.
+    if "--fingerprint" in sys.argv:
+        print(structure_fingerprint())
+        return
     errors, warnings = [], []
     declared = declared_refs()
     A = vocab_ids(os.path.join(VOCAB, "actions.yaml"))
@@ -997,6 +1033,27 @@ def main():
           f"refs cited {len(cited)} / declared {len(declared)} | "
           f"actions {len(A)} conditions {len(C)} drug-classes {len(D)} dangerous-plants {len(X)} "
           f"compounds {len(K)} languages {len(LANG_ENABLED)}")
+
+    # ---- doc-sync guard (WARNING-only; never changes exit code) ------------------
+    # Keeps the cross-model DATA_PRINCIPLES.md reconciled with the actual schema so a
+    # model that has never read this repo before is told the truth. Any provider that
+    # runs validate.py sees the drift — the enforcement lives outside model cognition.
+    cur_fp = structure_fingerprint()
+    doc_fp = read_doc_fingerprint()
+    if doc_fp is None:
+        print("  doc-sync   : ⚠ DATA_PRINCIPLES.md absent or unfingerprinted")
+        warnings.append("DATA_PRINCIPLES.md is missing or has no structure-fingerprint line, so the "
+                        "cross-model doc-sync guard is inactive. Add the line "
+                        f"'<!-- structure-fingerprint: {cur_fp} -->' to the doc.")
+    elif doc_fp != cur_fp:
+        print(f"  doc-sync   : ⚠ structure changed since the doc was reconciled ({doc_fp} != {cur_fp})")
+        warnings.append(f"STRUCTURE CHANGED since DATA_PRINCIPLES.md was last reconciled "
+                        f"(doc {doc_fp} != current {cur_fp}): a schema field, entity type or vocabulary "
+                        f"was added/changed. Update DATA_PRINCIPLES.md (its structure section + the "
+                        f"changelog), then run `python scripts/validate.py --fingerprint` and paste the "
+                        f"new value into its '<!-- structure-fingerprint: … -->' line.")
+    else:
+        print(f"  doc-sync   : OK (DATA_PRINCIPLES.md matches structure {cur_fp})")
     if warnings:
         print(f"\nWARNINGS ({len(warnings)}):")
         for w in warnings[:40]:

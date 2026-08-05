@@ -1,5 +1,12 @@
 # Omnia Sana plant database — working rules
 
+> **Canonical principles live in [`DATA_PRINCIPLES.md`](DATA_PRINCIPLES.md)** — the
+> model-agnostic source of truth (truth rules, structure map, evidence invariants,
+> future-proofing, the cheap-vs-expensive-edit distinction, self-update rule). Read it
+> first. This file keeps the **Claude-Code-specific** operational detail (skills, deploy
+> mechanics, hard-won gotchas); where the two overlap on a principle, `DATA_PRINCIPLES.md`
+> wins.
+
 This repo is the **backbone of omniasana.bio**. Every interactive tool, every plant
 page, the Knowledge Finder, the sitemaps and the schema.org markup are generated
 from the data here. Nothing on the public site is authored by hand downstream — if

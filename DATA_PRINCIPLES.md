@@ -1,5 +1,5 @@
 <!-- structure-fingerprint: e75f00f7d2ed -->
-<!-- doc-version: 1  ·  last-updated: 2026-08-05 -->
+<!-- doc-version: 1.1  ·  last-updated: 2026-08-05 -->
 
 # Omnia Sana — Data Principles (canonical, model-agnostic)
 
@@ -213,12 +213,15 @@ actually determine trust:
 - whether the source **actually states the claim**;
 - whether a `study_type` tag is **correct**.
 
-Those are **judgment**, and they are the whole job (§2, high-ceremony lane). Two planned
-guards move the frontier outward — build them when you can; they are the highest-value
-work in this repo:
-- **Species-diff check (planned, #1):** extract the binomial from each cited reference's
-  title/abstract and diff it against the record's `scientific_name`/`synonyms`; flag
-  mismatches. Turns the #1 failure mode into a deterministic gate.
+Those are **judgment**, and they are the whole job (§2, high-ceremony lane). One guard now
+moves the frontier outward, and more should follow:
+- **Species-diff audit (BUILT): `python scripts/audit_species.py`.** For every
+  claim-bearing citation it reads the reference's title+abstract and flags the wrong-species
+  smoking gun — a same-genus *congener* named while the record's own species is absent
+  (invariant 2's failure mode). Precision-first and **non-blocking** (a flag is a prompt to
+  check the source, not a verdict); `--strict` makes a flag exit nonzero for CI. Run it after
+  any sourcing batch and clear the congener flags. It is a heuristic, not a truth-checker —
+  it cannot confirm a source *supports* a claim, only that it is plausibly the right species.
 - **Edit provenance (see §7).**
 
 ---
@@ -295,6 +298,9 @@ Name these plainly so no one mistakes green checks for safety:
 
 ## 10. Changelog
 
+- **v1.1 — 2026-08-05.** Built the §6 species-diff audit (`scripts/audit_species.py`) —
+  the wrong-species guard moved from planned to shipped (non-blocking, precision-first).
+  No structural change, so the fingerprint is unchanged.
 - **v1 — 2026-08-05.** Created. Establishes the model-agnostic principles, the
   cheap/expensive edit lanes, the structure map, the grading invariants, the
   future-proofing checklist, provenance stamping, and the `validate.py` doc-sync guard

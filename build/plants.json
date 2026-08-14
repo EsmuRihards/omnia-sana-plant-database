@@ -12579,6 +12579,44 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Harvest the female flowering tops when most of the resin glands (trichomes) have turned from clear to milky/cloudy, with only a small fraction turning amber — the point of peak cannabinoid and terpene development."
+     ],
+     "basis": "both",
+     "constituent_note": "Peak cannabinoid maturity is judged by trichome colour: '80-90% of trichomes are milky/cloudy' with '5-15% of trichomes are amber' (Ed Rosenthal, REF-3222).",
+     "source_quote": "When most trichomes are milky with a small percentage turning amber, cannabinoids and terpenes have reached peak development.",
+     "reference_ids": [
+      "REF-3222"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": false,
+     "status": "provisional",
+     "notes": "Ed Rosenthal (REF-3222) on judging cannabis ripeness by trichome maturity. The source uses the vernacular 'cannabis' rather than the binomial Cannabis sativa, so species_confirmed is false pending a binomial-level source. Single source -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Harvest the seed from the female plants when it is ripe — most of it falls off when the plant is shaken; collect in the early morning while the fruits are turgid."
+     ],
+     "basis": "traditional",
+     "source_quote": "Seed is harvested from the female plants when most of it falls off when the plant is shaken.",
+     "reference_ids": [
+      "REF-3221"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3221) for Cannabis sativa. Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "status": "gap",
+     "notes": "No phenological harvest signal found for the cannabis LEAF: the sources give the female flower (trichome maturity) and the seed (falls when ripe), plus the fibre/male-plant harvest, but no distinct leaf-harvest stage — the fan leaves are taken with the flowering tops, not on their own schedule. Recorded as a documented dead end."
+    }
+   ],
    "traditional_uses": {
     "text": "Cannabis/hemp has a long multi-cultural history as a fibre, food and medicinal plant, traditionally used for pain, muscle spasm, sleep and appetite, alongside industrial use of the fibre and seed. Modern cannabinoid research, particularly on THC and CBD, has substantially expanded the evidence base for pain, spasticity and specific seizure disorders.",
     "reference_ids": [
@@ -12847,7 +12885,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "hemp"
   },
   {
@@ -12920,6 +12958,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the whole flowering aerial plant during active growth; shepherd's purse flowers and sets its heart-shaped seed pods through most of the season, so the flowering/podding herb is available whenever it is in growth. For a drying harvest, gather in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant can be used fresh or dried, for drying it is harvested in the summer",
+     "reference_ids": [
+      "REF-3223"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3223) gives the summer drying-harvest window; Grieve and Herbal Reality confirm the whole-plant use but state no phenological stage (the plant flowers nearly year-round). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Shepherd's purse has a long folk reputation as a styptic and haemostatic herb, traditionally used to stop bleeding - from minor wounds, nosebleeds, heavy menstrual bleeding and postpartum bleeding - and as a uterine tonic to ease menstrual flow and cramps.",
     "reference_ids": [
@@ -13089,7 +13144,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "shepherd-s-purse"
   },
   {
@@ -13142,6 +13197,39 @@
     "season": "Summer to autumn, at desired ripeness",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "For medicinal use, pick the fruit when fully ripe and bright red — the ripe red stage carries peak potency (capsaicin); fruit may be picked green for milder use."
+     ],
+     "basis": "both",
+     "constituent_note": "Ripeness is tied to potency: 'Fruits can be harvested green or red, depending on the desired potency and flavour' — the fully ripe red fruit carries peak capsaicin.",
+     "source_quote": "For medicinal use, fully ripened red fruits are preferred.",
+     "reference_ids": [
+      "REF-3224"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "The Herbal Medic (REF-3224) for Capsicum annuum. Single source -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Take the seed from fully ripe, red fruit — the seed is gathered with the ripe (dried) fruit."
+     ],
+     "basis": "traditional",
+     "source_quote": "For medicinal use, fully ripened red fruits are preferred.",
+     "reference_ids": [
+      "REF-3224"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "The Herbal Medic (REF-3224); the seed is contained in the fruit, so it is gathered at fruit ripeness. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Chili pepper fruit has a long history across the Americas and, after global spread, in many other traditional medicine systems as a warming digestive stimulant and topical counterirritant/analgesic for muscle and joint pain, building on capsaicin's now well-documented ability to desensitise pain-sensing nerve fibres with repeated application.",
     "reference_ids": [
@@ -13438,7 +13526,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "chili-pepper"
   },
   {
@@ -13488,6 +13576,34 @@
     "season": "Seed in mid- to late summer (second year); leaf through year one; root in autumn/spring",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Cut the seed heads when the seed is fully ripe (in the plant's second year); dry and store away from sunlight.",
+      "SAFETY: caraway is an Apiaceae confusable with poison hemlock (Conium maculatum); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The seed is harvested when fully ripe, then dried and stored in a cool, dry place out of the sunlight.",
+     "reference_ids": [
+      "REF-3225"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3225) for Carum carvi (biennial; seed produced in the second year). Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "status": "gap",
+     "notes": "No phenological harvest signal found for the caraway LEAF in the seams searched (Useful Temperate Plants gives the seed stage but no leaf-harvest stage; the young first-year leaves are edible but no source states a readiness stage). Recorded as a documented dead end. SAFETY: caraway is an Apiaceae confusable with poison hemlock — confirm ID before gathering."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "No phenological harvest signal found for the caraway ROOT (Useful Temperate Plants notes only that the root can be cooked like parsnips, no harvest stage). Recorded as a documented dead end. SAFETY: confirm ID against poison hemlock before digging."
+    }
+   ],
    "traditional_uses": {
     "text": "Caraway seed is one of the classic Apiaceae carminative digestive spices, used traditionally for indigestion, bloating, flatulence and poor appetite, and, per the EU herbal monograph, for symptomatic relief of mild digestive complaints and bloating.",
     "reference_ids": [
@@ -13721,7 +13837,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "caraway"
   },
   {
@@ -13808,6 +13924,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the whole flowering herb when it is in flower; dry for use."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole plant is harvested when in flower and can be dried for later use",
+     "reference_ids": [
+      "REF-3226"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3226) for Centaurium erythraea. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Centaury is one of the classic European bitter digestive herbs, traditionally used for temporary loss of appetite and mild dyspeptic complaints such as indigestion and bloating, stimulating gastric and bile secretion.",
     "reference_ids": [
@@ -14055,7 +14188,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "centaury"
   },
   {

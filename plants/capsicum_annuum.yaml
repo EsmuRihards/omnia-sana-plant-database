@@ -44,6 +44,30 @@ harvesting:
   - Seed
   season: Summer to autumn, at desired ripeness
   status: draft
+harvest_readiness:
+- part: fruit
+  signals:
+  - "For medicinal use, pick the fruit when fully ripe and bright red — the ripe red stage carries peak potency (capsaicin); fruit may be picked green for milder use."
+  basis: both
+  constituent_note: "Ripeness is tied to potency: 'Fruits can be harvested green or red, depending on the desired potency and flavour' — the fully ripe red fruit carries peak capsaicin."
+  source_quote: "For medicinal use, fully ripened red fruits are preferred."
+  reference_ids:
+  - REF-3224
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "The Herbal Medic (REF-3224) for Capsicum annuum. Single source -> provisional."
+- part: seed
+  signals:
+  - "Take the seed from fully ripe, red fruit — the seed is gathered with the ripe (dried) fruit."
+  basis: traditional
+  source_quote: "For medicinal use, fully ripened red fruits are preferred."
+  reference_ids:
+  - REF-3224
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "The Herbal Medic (REF-3224); the seed is contained in the fruit, so it is gathered at fruit ripeness. Single source -> provisional."
 traditional_uses:
   text: Chili pepper fruit has a long history across the Americas and, after global spread, in many other
     traditional medicine systems as a warming digestive stimulant and topical counterirritant/analgesic
@@ -274,7 +298,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -309,4 +333,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   resolve these. ''Tincture/infusion (internal)'': The monograph is cutaneous use only - semi-solid forms
   and medicated plasters. It gives no internal posology at all, so it cannot support an infusion or tincture
   taken as a digestive stimulant. | ''Culinary use'': A cutaneous capsaicinoid monograph says nothing
-  about food use of the fruit as a spice.'
+  about food use of the fruit as a spice. | 2026-08-14 (harvest-calendar campaign, Batch 7): added
+  harvest_readiness for fruit + seed (provisional; fruit basis both) — pick the fruit when fully ripe and
+  bright red (peak capsaicin/potency); seed taken from the ripe fruit; sourced to The Herbal Medic (REF-3224,
+  Capsicum annuum). Grieve''s cayenne is the congener Capsicum minimum, so it was not used. Existing
+  harvesting.season not inherited.'

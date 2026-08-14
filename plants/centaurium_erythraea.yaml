@@ -62,6 +62,18 @@ harvesting:
   reference_ids:
   - REF-0431
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the whole flowering herb when it is in flower; dry for use."
+  basis: traditional
+  source_quote: "The whole plant is harvested when in flower and can be dried for later use"
+  reference_ids:
+  - REF-3226
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3226) for Centaurium erythraea. Single source -> provisional."
 traditional_uses:
   text: Centaury is one of the classic European bitter digestive herbs, traditionally used for temporary
     loss of appetite and mild dyspeptic complaints such as indigestion and bloating, stimulating gastric
@@ -244,7 +256,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA HMPC assessment report;
   Herbal Reality monograph). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
   tool (indigestion, appetite-loss, bloating); associations retained and now part-mapped and cited. Further
@@ -268,4 +280,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and general literature (EMA
   Preparations sourced 2026-07-20 to monographs already on this record. Each supporting quote was checked
   to appear verbatim in the stored monograph posology, the reference confirmed present on the plant, and
   the dose form / plant part / route checked for mismatch; text rewritten to the source rather than having
-  a reference stapled on.'
+  a reference stapled on. | 2026-08-14 (harvest-calendar campaign, Batch 7): added harvest_readiness for the
+  aerial parts (provisional) — gather the whole herb when in flower; sourced to Useful Temperate Plants
+  (REF-3226). Existing harvesting.season not inherited; signal re-derived.'

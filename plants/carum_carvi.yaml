@@ -42,6 +42,25 @@ harvesting:
   - Seed
   season: Seed in mid- to late summer (second year); leaf through year one; root in autumn/spring
   status: draft
+harvest_readiness:
+- part: seed
+  signals:
+  - "Cut the seed heads when the seed is fully ripe (in the plant's second year); dry and store away from sunlight."
+  - "SAFETY: caraway is an Apiaceae confusable with poison hemlock (Conium maculatum); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The seed is harvested when fully ripe, then dried and stored in a cool, dry place out of the sunlight."
+  reference_ids:
+  - REF-3225
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3225) for Carum carvi (biennial; seed produced in the second year). Single source -> provisional."
+- part: leaf
+  status: gap
+  notes: "No phenological harvest signal found for the caraway LEAF in the seams searched (Useful Temperate Plants gives the seed stage but no leaf-harvest stage; the young first-year leaves are edible but no source states a readiness stage). Recorded as a documented dead end. SAFETY: caraway is an Apiaceae confusable with poison hemlock — confirm ID before gathering."
+- part: root
+  status: gap
+  notes: "No phenological harvest signal found for the caraway ROOT (Useful Temperate Plants notes only that the root can be cooked like parsnips, no harvest stage). Recorded as a documented dead end. SAFETY: confirm ID against poison hemlock before digging."
 traditional_uses:
   text: Caraway seed is one of the classic Apiaceae carminative digestive spices, used traditionally for
     indigestion, bloating, flatulence and poor appetite, and, per the EU herbal monograph, for symptomatic
@@ -240,7 +259,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -258,4 +277,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the EU herbal monograph on Carum carvi L., fructus (EMA/HMPC/715092/2013), already in the bibliography.
   Verified against the monograph PDF: the existing text (0.5-2 g crushed fruit per 150 mL, 1-3x daily)
   matches the stated posology exactly; only the age group and the under-12 restriction were added. No new
-  reference needed. status -> verified.'
+  reference needed. status -> verified. | 2026-08-14 (harvest-calendar campaign, Batch 7): added
+  harvest_readiness — seed provisional (cut the heads when the seed is fully ripe, in the second year;
+  theferns REF-3225); leaf + root gap (no harvest-stage source). Safety cross-link to the poison-hemlock
+  (Conium maculatum) lookalike. Existing harvesting.season not inherited.'

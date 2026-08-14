@@ -55,6 +55,18 @@ harvesting:
   reference_ids:
   - REF-0507
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the whole flowering aerial plant during active growth; shepherd's purse flowers and sets its heart-shaped seed pods through most of the season, so the flowering/podding herb is available whenever it is in growth. For a drying harvest, gather in summer."
+  basis: traditional
+  source_quote: "The plant can be used fresh or dried, for drying it is harvested in the summer"
+  reference_ids:
+  - REF-3223
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3223) gives the summer drying-harvest window; Grieve and Herbal Reality confirm the whole-plant use but state no phenological stage (the plant flowers nearly year-round). Single source -> provisional."
 traditional_uses:
   text: Shepherd's purse has a long folk reputation as a styptic and haemostatic herb, traditionally used
     to stop bleeding - from minor wounds, nosebleeds, heavy menstrual bleeding and postpartum bleeding
@@ -180,7 +192,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (Herbal Reality monograph;
   ESCOP note citing an RCT showing reduced menstrual blood loss). Originally a skeleton imported from
   the omniasana.bio Symptom-to-Plant Lookup tool (heavy-bleeding, wounds, menstrual-cramps); associations
@@ -207,4 +219,8 @@ internal_notes: 'Enriched 2026-06-12 from general and phytotherapy literature (H
   these. ''Tincture'': The monograph lists comminuted herbal substance for tea and liquid extract only.
   No tincture, no ethanol strength, no 1:5 ratio. | ''Poultice'': The monograph''s posology is oral only
   (tea and liquid extract) and its indication is menstrual. It contains no cutaneous route, no poultice,
-  and no wound or haemostatic application.'
+  and no wound or haemostatic application. | 2026-08-14 (harvest-calendar campaign, Batch 7): added
+  harvest_readiness for the aerial parts (provisional) — gather the whole flowering/podding plant in active
+  growth (theferns gives summer for a drying harvest; shepherd''s purse flowers nearly year-round, so no
+  single flowering stage); sourced to Useful Temperate Plants (REF-3223). Grieve and Herbal Reality confirm
+  the whole-plant use but state no phenological stage. Existing harvesting.season not inherited.'

@@ -47,6 +47,33 @@ harvesting:
   reference_ids:
   - REF-0044
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Harvest the female flowering tops when most of the resin glands (trichomes) have turned from clear to milky/cloudy, with only a small fraction turning amber — the point of peak cannabinoid and terpene development."
+  basis: both
+  constituent_note: "Peak cannabinoid maturity is judged by trichome colour: '80-90% of trichomes are milky/cloudy' with '5-15% of trichomes are amber' (Ed Rosenthal, REF-3222)."
+  source_quote: "When most trichomes are milky with a small percentage turning amber, cannabinoids and terpenes have reached peak development."
+  reference_ids:
+  - REF-3222
+  independent_confirmation: null
+  species_confirmed: false
+  status: provisional
+  notes: "Ed Rosenthal (REF-3222) on judging cannabis ripeness by trichome maturity. The source uses the vernacular 'cannabis' rather than the binomial Cannabis sativa, so species_confirmed is false pending a binomial-level source. Single source -> provisional."
+- part: seed
+  signals:
+  - "Harvest the seed from the female plants when it is ripe — most of it falls off when the plant is shaken; collect in the early morning while the fruits are turgid."
+  basis: traditional
+  source_quote: "Seed is harvested from the female plants when most of it falls off when the plant is shaken."
+  reference_ids:
+  - REF-3221
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3221) for Cannabis sativa. Single source -> provisional."
+- part: leaf
+  status: gap
+  notes: "No phenological harvest signal found for the cannabis LEAF: the sources give the female flower (trichome maturity) and the seed (falls when ripe), plus the fibre/male-plant harvest, but no distinct leaf-harvest stage — the fan leaves are taken with the flowering tops, not on their own schedule. Recorded as a documented dead end."
 traditional_uses:
   text: Cannabis/hemp has a long multi-cultural history as a fibre, food and medicinal plant, traditionally
     used for pain, muscle spasm, sleep and appetite, alongside industrial use of the fibre and seed. Modern
@@ -256,7 +283,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -288,4 +315,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-08-14 (harvest-calendar campaign,
+  Batch 7): added harvest_readiness — flower provisional (female tops at trichome maturity: mostly
+  milky/cloudy with a little amber = cannabinoid peak; Ed Rosenthal REF-3222; species_confirmed false as the
+  source says "cannabis", not the binomial); seed provisional (falls when ripe/shaken; theferns REF-3221);
+  leaf gap. Existing harvesting.season not inherited.'

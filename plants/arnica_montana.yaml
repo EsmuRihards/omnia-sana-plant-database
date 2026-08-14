@@ -73,6 +73,18 @@ harvesting:
   reference_ids:
   - REF-0398
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Pick the flower heads when they are fully open, and dry promptly; the receptacles are sometimes removed as they are prone to insect attack."
+  basis: traditional
+  source_quote: "The flowers are harvested when fully open and dried - the receptacles are sometimes removed since these are liable to be attacked by insects."
+  reference_ids:
+  - REF-3207
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3207) for Arnica montana. Single source -> provisional."
 traditional_uses:
   text: Arnica flower has a long central European folk reputation, reflected in the name 'leopard's bane'
     and 'mountain tobacco', as a topical remedy for bruising, sprains, muscle soreness and swelling after
@@ -278,7 +290,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J Pharm Pharmacol review,
   Frontiers in Surgery meta-analysis, Poison Control). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (bruising, pain, inflammation, muscle-soreness); associations retained
@@ -303,4 +315,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (J P
   and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
   ESCOP, Commission E), may still resolve these. ''Infused oil'': The monograph''s cutaneous forms are
   tincture-based and liquid-extract-based semi-solid preparations and impregnated dressings. An oil infusion
-  of flower heads in a carrier oil is a different preparation and is not covered.'
+  of flower heads in a carrier oil is a different preparation and is not covered. | 2026-08-14
+  (harvest-calendar campaign, Batch 4): added harvest_readiness for the flower head (provisional) — pick
+  the heads when fully open, before insect damage, sourced to Useful Temperate Plants (REF-3207). Existing
+  harvesting.season not inherited; signal re-derived.'

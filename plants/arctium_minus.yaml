@@ -68,6 +68,31 @@ harvesting:
   reference_ids:
   - REF-0476
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root from first-year plants (the basal leaf-rosette stage, before the plant bolts and flowers in its second year); the best, official root comes from young first-year plants."
+  - "SAFETY: burdock root is confusable with the root of deadly nightshade (Atropa belladonna), a fatal confusion. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The dried root of one year old plants is the official herb, but the leaves and fruits can also be used"
+  reference_ids:
+  - REF-3205
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3205) for Arctium minus; 'The best roots are obtained from young plants.' Single source -> provisional. Cf. the congener A. lappa (verified, first-year mid-summer)."
+- part: leaf
+  signals:
+  - "Gather the leaves young, in the first-year rosette, while tender."
+  - "SAFETY: confirm identity before gathering — burdock is confusable with deadly nightshade (Atropa belladonna). See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "Young leaves and leaf stems - raw or cooked"
+  reference_ids:
+  - REF-3205
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3205) specifies the young leaves are used; gathered young in the first-year rosette. A stage (young/tender) rather than a dated window. Single source -> provisional."
 traditional_uses:
   text: Lesser burdock is used interchangeably with the better-studied Arctium lappa in Western herbal
     medicine, as a traditional alterative/depurative for chronic skin conditions such as eczema, psoriasis
@@ -283,7 +308,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herbal Reality and Drugs.com monographs).
   Medicinal burdock is usually Arctium lappa; A. minus is used similarly. The book database already contains
   A. lappa (Greater Burdock). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup
@@ -311,4 +336,7 @@ internal_notes: 'Enriched 2026-06-12 from general phytotherapy literature (Herba
   left unsourced at status draft rather than attached to a tangentially-related paper. SPECIFIC FINDING -
   WRONG SPECIES: the EMA monograph Arctii radix covers Arctium LAPPA (greater burdock), sourced separately
   on that record at REF-3088. A. minus (lesser burdock) is a different species and the posology does not
-  transfer.'
+  transfer. | 2026-08-14 (harvest-calendar campaign, Batch 4): added harvest_readiness for root + leaf
+  (provisional) — first-year root (basal-rosette stage, before bolting) and young first-year leaf, sourced
+  to Useful Temperate Plants (REF-3205, Arctium minus). Safety cross-link to the FATAL deadly-nightshade
+  (Atropa belladonna) root confusion. Existing harvesting.season not inherited.'

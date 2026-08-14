@@ -45,6 +45,43 @@ harvesting:
   reference_ids:
   - REF-0733
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves with the leafy flowering shoots when the plant is in flower (late summer)."
+  - "SAFETY: mugwort can be confused with the FATAL monkshood (Aconitum napellus); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "the plant was gathered when in flower and dried"
+  reference_ids:
+  - REF-3210
+  - REF-3209
+  independent_confirmation: "Useful Temperate Plants (REF-3209) independently gives the same late-summer aerial harvest: 'The leaves are harvested in August and can be dried for later use'."
+  species_confirmed: true
+  status: verified
+- part: stem
+  signals:
+  - "Cut the leafy flowering stems with the herb when the plant is in flower (late summer)."
+  - "SAFETY: confirm identity before gathering — mugwort can be confused with the FATAL monkshood (Aconitum napellus). See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "the plant was gathered when in flower and dried"
+  reference_ids:
+  - REF-3210
+  - REF-3209
+  independent_confirmation: "Useful Temperate Plants (REF-3209) gives the same aerial harvest window: 'The leaves are harvested in August and can be dried for later use'."
+  species_confirmed: true
+  status: verified
+- part: root
+  signals:
+  - "Dig the root in autumn, as the aerial parts die back."
+  - "SAFETY: confirm identity before digging — mugwort can be confused with the FATAL monkshood (Aconitum napellus), whose root is deadly. See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "the root, dug in autumn and dried"
+  reference_ids:
+  - REF-3210
+  - REF-3209
+  independent_confirmation: "Useful Temperate Plants (REF-3209) independently gives 'The roots are harvested in the autumn and dried for later use'."
+  species_confirmed: true
+  status: verified
 traditional_uses:
   text: Mugwort is a widely used traditional bitter digestive tonic and calming nervine, and has a long
     reputation as an emmenagogue for menstrual complaints (reflected in its traditional use to bring on
@@ -318,7 +355,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -345,4 +382,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   the 2026-07-18/19 dosage campaign never opened (it worked the EMA register and all four WHO volumes).
   NNHPD explicitly lists Infusion, Decoction and Tincture among accepted methods of preparation, which
   is exactly the gap that campaign recorded as unreachable. Species confirmed from the monograph''s own
-  title, not from the slug.'
+  title, not from the slug. | 2026-08-14 (harvest-calendar campaign, Batch 4): added harvest_readiness for
+  leaf/stem/root (verified) — the aerial parts are gathered when in flower (late summer) and the root dug
+  in autumn as the top dies back, sourced to Grieve (REF-3210) and Useful Temperate Plants (REF-3209).
+  Strong safety cross-link to the FATAL monkshood (Aconitum napellus) confusion. Existing harvesting.season
+  not inherited; signals re-derived.'

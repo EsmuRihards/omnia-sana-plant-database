@@ -6828,6 +6828,40 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root from first-year plants (the basal leaf-rosette stage, before the plant bolts and flowers in its second year); the best, official root comes from young first-year plants.",
+      "SAFETY: burdock root is confusable with the root of deadly nightshade (Atropa belladonna), a fatal confusion. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The dried root of one year old plants is the official herb, but the leaves and fruits can also be used",
+     "reference_ids": [
+      "REF-3205"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3205) for Arctium minus; 'The best roots are obtained from young plants.' Single source -> provisional. Cf. the congener A. lappa (verified, first-year mid-summer)."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves young, in the first-year rosette, while tender.",
+      "SAFETY: confirm identity before gathering — burdock is confusable with deadly nightshade (Atropa belladonna). See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "Young leaves and leaf stems - raw or cooked",
+     "reference_ids": [
+      "REF-3205"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3205) specifies the young leaves are used; gathered young in the first-year rosette. A stage (young/tender) rather than a dated window. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Lesser burdock is used interchangeably with the better-studied Arctium lappa in Western herbal medicine, as a traditional alterative/depurative for chronic skin conditions such as eczema, psoriasis and acne, and as a mild diuretic supporting elimination.",
     "reference_ids": [
@@ -7095,7 +7129,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "lesser-burdock"
   },
   {
@@ -7191,6 +7225,24 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leathery evergreen leaves in early autumn, selecting only the green (living) leaves, and dry in gentle heat.",
+      "Confirm identity before gathering: bearberry is an evergreen sometimes confused with box (Buxus sempervirens) — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "These leaves should be harvested in early autumn, only green leaves being selected, and then dried in gentle heat",
+     "reference_ids": [
+      "REF-3206"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3206) for Arctostaphylos uva-ursi. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Bearberry leaf is a long-established European folk and official (EU herbal monograph) remedy for mild, uncomplicated lower urinary tract infections and cystitis, used short-term as a urinary antiseptic; it has also been used traditionally as an astringent for mild diarrhoea.",
     "reference_ids": [
@@ -7431,7 +7483,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "bearberry"
   },
   {
@@ -7530,6 +7582,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Pick the flower heads when they are fully open, and dry promptly; the receptacles are sometimes removed as they are prone to insect attack."
+     ],
+     "basis": "traditional",
+     "source_quote": "The flowers are harvested when fully open and dried - the receptacles are sometimes removed since these are liable to be attacked by insects.",
+     "reference_ids": [
+      "REF-3207"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3207) for Arnica montana. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Arnica flower has a long central European folk reputation, reflected in the name 'leopard's bane' and 'mountain tobacco', as a topical remedy for bruising, sprains, muscle soreness and swelling after minor injury, applied only to unbroken skin. Internal use of the whole herb has always been considered dangerous and is confined to highly diluted homeopathic preparations.",
     "reference_ids": [
@@ -7822,7 +7891,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "arnica"
   },
   {
@@ -7878,6 +7947,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowering herb (leaf, flower and leafy stem together) as the plant is coming into flower; dry for use."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as it is coming into flower and then dried for later use",
+     "reference_ids": [
+      "REF-3208"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3208) for Artemisia absinthium; the flowering aerial parts (leaf/flower/stem) are gathered together as it comes into flower. Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the flowering herb, as the plant is coming into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as it is coming into flower and then dried for later use",
+     "reference_ids": [
+      "REF-3208"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3208). Single source -> provisional."
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Cut the leafy flowering stems with the herb, as the plant is coming into flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested as it is coming into flower and then dried for later use",
+     "reference_ids": [
+      "REF-3208"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3208). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Wormwood is one of the classic bitter digestive herbs of European tradition, used to stimulate appetite and bile flow for dyspeptic complaints, and historically as a vermifuge (its common name reflects traditional use against intestinal worms) and in the production of absinthe and vermouth.",
     "reference_ids": [
@@ -8193,7 +8309,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "wormwood"
   },
   {
@@ -8249,6 +8365,56 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves with the leafy flowering shoots when the plant is in flower (late summer).",
+      "SAFETY: mugwort can be confused with the FATAL monkshood (Aconitum napellus); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "the plant was gathered when in flower and dried",
+     "reference_ids": [
+      "REF-3210",
+      "REF-3209"
+     ],
+     "independent_confirmation": "Useful Temperate Plants (REF-3209) independently gives the same late-summer aerial harvest: 'The leaves are harvested in August and can be dried for later use'.",
+     "species_confirmed": true,
+     "status": "verified"
+    },
+    {
+     "part": "stem",
+     "signals": [
+      "Cut the leafy flowering stems with the herb when the plant is in flower (late summer).",
+      "SAFETY: confirm identity before gathering — mugwort can be confused with the FATAL monkshood (Aconitum napellus). See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "the plant was gathered when in flower and dried",
+     "reference_ids": [
+      "REF-3210",
+      "REF-3209"
+     ],
+     "independent_confirmation": "Useful Temperate Plants (REF-3209) gives the same aerial harvest window: 'The leaves are harvested in August and can be dried for later use'.",
+     "species_confirmed": true,
+     "status": "verified"
+    },
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in autumn, as the aerial parts die back.",
+      "SAFETY: confirm identity before digging — mugwort can be confused with the FATAL monkshood (Aconitum napellus), whose root is deadly. See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "the root, dug in autumn and dried",
+     "reference_ids": [
+      "REF-3210",
+      "REF-3209"
+     ],
+     "independent_confirmation": "Useful Temperate Plants (REF-3209) independently gives 'The roots are harvested in the autumn and dried for later use'.",
+     "species_confirmed": true,
+     "status": "verified"
+    }
+   ],
    "traditional_uses": {
     "text": "Mugwort is a widely used traditional bitter digestive tonic and calming nervine, and has a long reputation as an emmenagogue for menstrual complaints (reflected in its traditional use to bring on delayed menstruation, which is also why it is contraindicated in pregnancy). It has also been burned as 'moxa' in East Asian moxibustion and used as an insect repellent ('sailor's tobacco').",
     "reference_ids": [
@@ -8610,7 +8776,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "mugwort"
   },
   {

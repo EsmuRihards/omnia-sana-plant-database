@@ -44,6 +44,40 @@ harvesting:
   reference_ids:
   - REF-1770
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the flowering herb (leaf, flower and leafy stem together) as the plant is coming into flower; dry for use."
+  basis: traditional
+  source_quote: "The plant is harvested as it is coming into flower and then dried for later use"
+  reference_ids:
+  - REF-3208
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3208) for Artemisia absinthium; the flowering aerial parts (leaf/flower/stem) are gathered together as it comes into flower. Single source -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves with the flowering herb, as the plant is coming into flower."
+  basis: traditional
+  source_quote: "The plant is harvested as it is coming into flower and then dried for later use"
+  reference_ids:
+  - REF-3208
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3208). Single source -> provisional."
+- part: stem
+  signals:
+  - "Cut the leafy flowering stems with the herb, as the plant is coming into flower."
+  basis: traditional
+  source_quote: "The plant is harvested as it is coming into flower and then dried for later use"
+  reference_ids:
+  - REF-3208
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3208). Single source -> provisional."
 traditional_uses:
   text: Wormwood is one of the classic bitter digestive herbs of European tradition, used to stimulate
     appetite and bile flow for dyspeptic complaints, and historically as a vermifuge (its common name
@@ -267,7 +301,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -279,4 +313,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy.'
+  per the integrity-first sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 4): added
+  harvest_readiness for flower/leaf/stem (provisional) — gather the flowering herb as it comes into flower,
+  sourced to Useful Temperate Plants (REF-3208, Artemisia absinthium). Existing harvesting.season not
+  inherited; signal re-derived.'

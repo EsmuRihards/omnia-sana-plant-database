@@ -74,6 +74,19 @@ harvesting:
   reference_ids:
   - REF-0405
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leathery evergreen leaves in early autumn, selecting only the green (living) leaves, and dry in gentle heat."
+  - "Confirm identity before gathering: bearberry is an evergreen sometimes confused with box (Buxus sempervirens) — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "These leaves should be harvested in early autumn, only green leaves being selected, and then dried in gentle heat"
+  reference_ids:
+  - REF-3206
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3206) for Arctostaphylos uva-ursi. Single source -> provisional."
 traditional_uses:
   text: Bearberry leaf is a long-established European folk and official (EU herbal monograph) remedy for
     mild, uncomplicated lower urinary tract infections and cystitis, used short-term as a urinary antiseptic;
@@ -270,7 +283,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (EMA HMPC monograph, ESCOP
   monograph, Journal of Ethnopharmacology toxicology study). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (uti, infection); associations retained and now part-mapped and cited.
@@ -286,4 +299,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+  sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 4): added harvest_readiness for the leaf
+  (provisional) — gather only the green evergreen leaves in early autumn and dry gently, sourced to Useful
+  Temperate Plants (REF-3206). Safety cross-link to the box (Buxus sempervirens) lookalike. Existing
+  harvesting.season not inherited.'

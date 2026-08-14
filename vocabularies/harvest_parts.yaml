@@ -70,9 +70,9 @@
 - id: bulb
   label: Bulb
   group: underground
-  description: Underground bud of fleshy scale leaves (e.g. Allium). Reserved for
-    bulb-forming species; no current record maps here yet.
-  raw_labels: []
+  description: Underground bud of fleshy scale leaves (e.g. Allium).
+  raw_labels:
+  - Bulb
 
 # ---------------------------------------------------------------- woody / exudate
 - id: bark

@@ -46,6 +46,19 @@ harvesting:
   reference_ids:
   - REF-2234
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Harvest the thick, fleshy, mature leaves from the outside/base of the plant — the oldest, most gel-filled leaves — taking only a few outer leaves at a time. Not seasonal: outer leaves are cut as they reach full size on an established (roughly 2-3 year old) plant."
+  - "Confirm identity before cutting: Aloe vera leaves are soft and gel-filled with fine soft marginal teeth; do not confuse with Agave americana, whose leaves are stiff and fibrous with a sharp terminal spine and no gel. See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "Look for thick and fleshy leaves that are growing on the outside of the plant. These are typically the most mature leaves and will provide the best yield."
+  reference_ids:
+  - REF-3195
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Gardener's Path, aloe harvest (REF-3195). Maturity-based signal (mature outer/lowest leaves), not seasonal. Single source -> provisional."
 traditional_uses:
   text: Aloe vera has an ancient reputation, recorded from ancient Egypt onward, as a topical remedy for
     burns, wounds and skin inflammation (the 'burn plant' / 'first aid plant'), and the bitter leaf latex
@@ -416,7 +429,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -449,4 +462,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   ESCOP, Commission E), may still resolve these. ''Latex/dried juice'': REF-3103 is the Aloe Vera Gel
   monograph and its own summary warns that the latex/dried leaf juice is a separate WHO monograph with
   a different action and doses differing by orders of magnitude. Citing the gel monograph for the anthraquinone
-  latex is exactly the conflation the summary forbids.'
+  latex is exactly the conflation the summary forbids. | 2026-08-14 (harvest-calendar campaign, Batch 2):
+  added harvest_readiness for the leaf (provisional) — cut the thick, fleshy, mature outer/lowest leaves
+  as they reach full size on an established plant (maturity-based, not seasonal), sourced to Gardener''s
+  Path (REF-3195, new). Safety cross-link to the Agave americana lookalike. Existing harvesting.season
+  not inherited.'

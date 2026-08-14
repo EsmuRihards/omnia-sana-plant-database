@@ -2260,6 +2260,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts — the tall, slender yellow flower-spikes ('church steeples') with their leaves — as the plant comes into flower in late spring to early summer; dry for use."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in late spring and early summer and can be dried for later use.",
+     "reference_ids": [
+      "REF-3191"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Ken Fern / Useful Temperate Plants (REF-3191) gives the harvest window coinciding with the onset of flowering; Grieve confirms the part is 'the herb' with the flower-spikes in bloom from June to early September. Single harvest-stage source -> provisional; a pharmacopoeial 'flowering tops' definition (Ph. Eur. / EMA Agrimoniae herba) would upgrade to verified."
+    }
+   ],
    "traditional_uses": {
     "text": "Agrimony has a long folk history as an astringent remedy for mild diarrhoea, as a gargle for sore throats and mild mouth/throat inflammation, and as a mild bitter digestive tonic; it has also been applied topically to minor wounds and skin inflammation. It is officially recognised in the European Union herbal monograph for traditional use in mild diarrhoea and mild inflammation of the mouth or throat.",
     "reference_ids": [
@@ -2585,7 +2602,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "agrimony"
   },
   {
@@ -2659,6 +2676,38 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the whole flowering herb when it is in flower and the leaves are at their best; the small yellow-green flower clusters are taken together with the foliage."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole herb, gathered in June and July when in flower and when the leaves are at their best, and dried.",
+     "reference_ids": [
+      "REF-3192"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Grieve, A Modern Herbal (REF-3192), for Alchemilla vulgaris — the whole herb (leaf + flower) is gathered together in flower. Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves when they are at their best, as the plant comes into flower; lady's mantle leaf is taken with the flowering herb."
+     ],
+     "basis": "traditional",
+     "source_quote": "The whole herb, gathered in June and July when in flower and when the leaves are at their best, and dried.",
+     "reference_ids": [
+      "REF-3192"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Grieve, A Modern Herbal (REF-3192); leaves at their best coincide with flowering. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Lady's mantle has long been used in European herbal medicine as a gentle astringent for menstrual complaints and as a mild gynaecological tonic, and topically for minor wounds and skin inflammation, reflecting its tannin-rich astringent character.",
     "reference_ids": [
@@ -2861,7 +2910,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "lady-s-mantle"
   },
   {
@@ -2878,6 +2927,7 @@
     "wikidata": "Q23400"
    },
    "parts_used": [
+    "Bulb",
     "Leaf",
     "Root",
     "Young sprouts"
@@ -2931,6 +2981,58 @@
     "season": "Mid- to late summer for the bulb; spring for young leaves and sprouts",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "bulb",
+     "signals": [
+      "Lift the bulb in mid- to late summer when the lower leaves have begun to yellow and die back from the bottom up while several upper leaves are still green (each remaining green leaf is a wrapper layer on the bulb); the cloves are then plump and the outer skins thick and papery."
+     ],
+     "basis": "traditional",
+     "source_quote": "Around the end of July-beginning of August, about a month after your scapes appeared, leaves will begin to yellow. They yellow from the bottom up. Stop watering when several bottom leaves are yellow, but top leaves are still green. Each green leaf represents a layer",
+     "reference_ids": [
+      "REF-3193"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Cornell Cooperative Extension, Growing Garlic (REF-3193). The bulb (Allium sativum bulb) is the primary medicinal part per the WHO monograph but was absent from parts_used; added in this edit. Maturity signal: lower leaves yellow bottom-up while upper leaves stay green. Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "For green (spring) garlic, pull the young plant in spring once the green leaves are lush and full, before the bulb divides and matures."
+     ],
+     "basis": "traditional",
+     "source_quote": "Green garlic can be pulled at any stage once the leaves are lush and full; the longer you wait to harvest, the more pronounced the bulb will be.",
+     "reference_ids": [
+      "REF-3194"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Garden Betty, green garlic (REF-3194), confirming Allium sativum. The leaf is taken at the green-garlic stage in spring. Single source -> provisional."
+    },
+    {
+     "part": "shoot",
+     "signals": [
+      "Gather the young sprouts/shoots in spring at the green-garlic stage, while the shoots are tender and the bulb has not yet divided."
+     ],
+     "basis": "traditional",
+     "source_quote": "Green garlic is the immature version of garlic (Allium sativum)—essentially, young garlic without a divided bulb.",
+     "reference_ids": [
+      "REF-3194"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Garden Betty, green garlic (REF-3194). 'Young sprouts' = the immature spring shoots, pulled before the bulb divides. Single source -> provisional."
+    },
+    {
+     "part": "root",
+     "status": "gap",
+     "notes": "No phenological harvest signal for the garlic ROOT: the roots are trimmed off when the bulb is lifted (see the bulb entry) and are not gathered on their own schedule. Cornell Extension and Garden Betty describe trimming the roots after harvest, not a separate root-harvest stage. Recorded as a documented dead end."
+    }
+   ],
    "traditional_uses": {
     "text": "Garlic has one of the longest continuous medicinal histories of any plant, used across many traditional systems (Ayurvedic, Chinese, Egyptian, Greco-Roman and European folk medicine) as an antimicrobial, cardiovascular and respiratory remedy, for colds and infections, and as a digestive and immune tonic. This traditional reputation is now among the most extensively clinically studied of all herbal medicines.",
     "reference_ids": [
@@ -3463,7 +3565,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "garlic"
   },
   {
@@ -3519,6 +3621,24 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Harvest the thick, fleshy, mature leaves from the outside/base of the plant — the oldest, most gel-filled leaves — taking only a few outer leaves at a time. Not seasonal: outer leaves are cut as they reach full size on an established (roughly 2-3 year old) plant.",
+      "Confirm identity before cutting: Aloe vera leaves are soft and gel-filled with fine soft marginal teeth; do not confuse with Agave americana, whose leaves are stiff and fibrous with a sharp terminal spine and no gel. See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "Look for thick and fleshy leaves that are growing on the outside of the plant. These are typically the most mature leaves and will provide the best yield.",
+     "reference_ids": [
+      "REF-3195"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Gardener's Path, aloe harvest (REF-3195). Maturity-based signal (mature outer/lowest leaves), not seasonal. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Aloe vera has an ancient reputation, recorded from ancient Egypt onward, as a topical remedy for burns, wounds and skin inflammation (the 'burn plant' / 'first aid plant'), and the bitter leaf latex has been used traditionally as a stimulant laxative. It remains one of the most widely used topical botanicals for skin care and minor wound healing.",
     "reference_ids": [
@@ -3959,7 +4079,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "aloe-vera"
   },
   {
@@ -4047,6 +4167,24 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Harvest the leaves as the plant approaches flowering — just before the tiny white flowers open — when the leaf aromatic oil is at its peak; oil (citral) content falls once flowering is under way."
+     ],
+     "basis": "both",
+     "constituent_note": "The same source ties the timing to leaf-oil content: 'Once flowering begins in earnest, the plant redirects its energy away from leaf oil production,' and 'Harvest a week after full bloom, and you are getting a mere fraction of the medicinal load.'",
+     "source_quote": "just before its tiny white flowers open, its leaves reach a medicinal peak",
+     "reference_ids": [
+      "REF-3196"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Nature and Garden, lemon verbena (REF-3196), for Aloysia citrodora. Timing plus constituent rationale come from one source -> provisional; a peer-reviewed essential-oil-content study (e.g. Acta Sci. Pol. Hortorum Cultus) would give an independent second prism for verified."
+    }
+   ],
    "traditional_uses": {
     "text": "Lemon verbena leaf is a traditional South American and Mediterranean remedy for digestive complaints (indigestion, flatulence), as a calming, mildly sedative tea for anxiety and sleep, and is widely drunk as a fragrant culinary herbal tea.",
     "reference_ids": [
@@ -4332,7 +4470,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "lemon-verbena"
   },
   {

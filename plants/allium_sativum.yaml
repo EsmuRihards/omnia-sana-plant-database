@@ -9,6 +9,7 @@ external_ids:
   gbif: 2856681
   wikidata: Q23400
 parts_used:
+- Bulb
 - Leaf
 - Root
 - Young sprouts
@@ -61,6 +62,43 @@ harvesting:
   - Young sprouts
   season: Mid- to late summer for the bulb; spring for young leaves and sprouts
   status: draft
+harvest_readiness:
+- part: bulb
+  signals:
+  - "Lift the bulb in mid- to late summer when the lower leaves have begun to yellow and die back from the bottom up while several upper leaves are still green (each remaining green leaf is a wrapper layer on the bulb); the cloves are then plump and the outer skins thick and papery."
+  basis: traditional
+  source_quote: "Around the end of July-beginning of August, about a month after your scapes appeared, leaves will begin to yellow. They yellow from the bottom up. Stop watering when several bottom leaves are yellow, but top leaves are still green. Each green leaf represents a layer"
+  reference_ids:
+  - REF-3193
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Cornell Cooperative Extension, Growing Garlic (REF-3193). The bulb (Allium sativum bulb) is the primary medicinal part per the WHO monograph but was absent from parts_used; added in this edit. Maturity signal: lower leaves yellow bottom-up while upper leaves stay green. Single source -> provisional."
+- part: leaf
+  signals:
+  - "For green (spring) garlic, pull the young plant in spring once the green leaves are lush and full, before the bulb divides and matures."
+  basis: traditional
+  source_quote: "Green garlic can be pulled at any stage once the leaves are lush and full; the longer you wait to harvest, the more pronounced the bulb will be."
+  reference_ids:
+  - REF-3194
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Garden Betty, green garlic (REF-3194), confirming Allium sativum. The leaf is taken at the green-garlic stage in spring. Single source -> provisional."
+- part: shoot
+  signals:
+  - "Gather the young sprouts/shoots in spring at the green-garlic stage, while the shoots are tender and the bulb has not yet divided."
+  basis: traditional
+  source_quote: "Green garlic is the immature version of garlic (Allium sativum)—essentially, young garlic without a divided bulb."
+  reference_ids:
+  - REF-3194
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Garden Betty, green garlic (REF-3194). 'Young sprouts' = the immature spring shoots, pulled before the bulb divides. Single source -> provisional."
+- part: root
+  status: gap
+  notes: "No phenological harvest signal for the garlic ROOT: the roots are trimmed off when the bulb is lifted (see the bulb entry) and are not gathered on their own schedule. Cornell Extension and Garden Betty describe trimming the roots after harvest, not a separate root-harvest stage. Recorded as a documented dead end."
 traditional_uses:
   text: Garlic has one of the longest continuous medicinal histories of any plant, used across many traditional
     systems (Ayurvedic, Chinese, Egyptian, Greco-Roman and European folk medicine) as an antimicrobial,
@@ -526,7 +564,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-06'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -560,4 +598,11 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
   ESCOP, Commission E), may still resolve these. ''Tincture'': REF-3087 covers powdered substance, liquid
   extract and dry extract, not a tincture, and explicitly gives no posology for fresh cloves. REF-3101
-  lists fresh garlic, dried powder, oil and extract - no alcoholic tincture of the fresh bulb.'
+  lists fresh garlic, dried powder, oil and extract - no alcoholic tincture of the fresh bulb. | 2026-08-14
+  (harvest-calendar campaign, Batch 2): added harvest_readiness and ADDED the Bulb to parts_used — the
+  bulb is the primary medicinal part per the WHO monograph but was missing from parts_used. Bulb signal
+  provisional (lift in summer as the lower leaves yellow bottom-up while upper leaves stay green; cloves
+  plump, skins papery), sourced to Cornell Cooperative Extension (REF-3193, new). Leaf and young sprouts
+  (mapped to shoot) provisional at the green-garlic spring stage, sourced to Garden Betty (REF-3194, new).
+  Root = gap (roots are trimmed off when the bulb is lifted; no separate harvest schedule). Existing
+  harvesting.season not inherited; signals re-derived.'

@@ -66,6 +66,19 @@ harvesting:
   reference_ids:
   - REF-0474
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Harvest the leaves as the plant approaches flowering — just before the tiny white flowers open — when the leaf aromatic oil is at its peak; oil (citral) content falls once flowering is under way."
+  basis: both
+  constituent_note: "The same source ties the timing to leaf-oil content: 'Once flowering begins in earnest, the plant redirects its energy away from leaf oil production,' and 'Harvest a week after full bloom, and you are getting a mere fraction of the medicinal load.'"
+  source_quote: "just before its tiny white flowers open, its leaves reach a medicinal peak"
+  reference_ids:
+  - REF-3196
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Nature and Garden, lemon verbena (REF-3196), for Aloysia citrodora. Timing plus constituent rationale come from one source -> provisional; a peer-reviewed essential-oil-content study (e.g. Acta Sci. Pol. Hortorum Cultus) would give an independent second prism for verified."
 traditional_uses:
   text: Lemon verbena leaf is a traditional South American and Mediterranean remedy for digestive complaints
     (indigestion, flatulence), as a calming, mildly sedative tea for anxiety and sleep, and is widely
@@ -275,7 +288,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology review of
   A. citrodora; congeneric anxiety RCT of A. polystachya). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (insomnia, anxiety, indigestion, muscle-soreness, inflammation); associations
@@ -314,4 +327,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   judged from their stored posology summaries and not from the full monograph PDFs - a later pass with
   the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Tincture'':
   The summary states ''Herbal tea preparations only - the monograph lists no tincture or extract''. Classic
-  tincture dead end.'
+  tincture dead end. | 2026-08-14 (harvest-calendar campaign, Batch 2): added harvest_readiness for the
+  leaf (provisional, basis both) — harvest just before the tiny white flowers open, when leaf oil/citral
+  peaks and before it falls at flowering, sourced to Nature and Garden (REF-3196, new). Existing
+  harvesting.season not inherited; signal re-derived.'

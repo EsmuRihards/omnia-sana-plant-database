@@ -61,6 +61,29 @@ harvesting:
   reference_ids:
   - REF-0208
   status: draft
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the whole flowering herb when it is in flower and the leaves are at their best; the small yellow-green flower clusters are taken together with the foliage."
+  basis: traditional
+  source_quote: "The whole herb, gathered in June and July when in flower and when the leaves are at their best, and dried."
+  reference_ids:
+  - REF-3192
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Grieve, A Modern Herbal (REF-3192), for Alchemilla vulgaris — the whole herb (leaf + flower) is gathered together in flower. Single source -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves when they are at their best, as the plant comes into flower; lady's mantle leaf is taken with the flowering herb."
+  basis: traditional
+  source_quote: "The whole herb, gathered in June and July when in flower and when the leaves are at their best, and dried."
+  reference_ids:
+  - REF-3192
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Grieve, A Modern Herbal (REF-3192); leaves at their best coincide with flowering. Single source -> provisional."
 traditional_uses:
   text: Lady's mantle has long been used in European herbal medicine as a gentle astringent for menstrual
     complaints and as a mild gynaecological tonic, and topically for minor wounds and skin inflammation,
@@ -225,7 +248,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -250,4 +273,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s
   Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket,
   mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
-  left unsourced at status draft rather than attached to a tangentially-related paper.'
+  left unsourced at status draft rather than attached to a tangentially-related paper. | 2026-08-14
+  (harvest-calendar campaign, Batch 2): added harvest_readiness for flower + leaf (provisional) — gather
+  the whole herb when in flower and the leaves are at their best, sourced to Grieve, A Modern Herbal
+  (REF-3192, new). Existing harvesting.season not inherited; signal re-derived.'

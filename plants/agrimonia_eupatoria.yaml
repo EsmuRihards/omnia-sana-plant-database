@@ -83,6 +83,18 @@ harvesting:
   reference_ids:
   - REF-0386
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts — the tall, slender yellow flower-spikes ('church steeples') with their leaves — as the plant comes into flower in late spring to early summer; dry for use."
+  basis: traditional
+  source_quote: "The plant is harvested in late spring and early summer and can be dried for later use."
+  reference_ids:
+  - REF-3191
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Ken Fern / Useful Temperate Plants (REF-3191) gives the harvest window coinciding with the onset of flowering; Grieve confirms the part is 'the herb' with the flower-spikes in bloom from June to early September. Single harvest-stage source -> provisional; a pharmacopoeial 'flowering tops' definition (Ph. Eur. / EMA Agrimoniae herba) would upgrade to verified."
 traditional_uses:
   text: Agrimony has a long folk history as an astringent remedy for mild diarrhoea, as a gargle for sore
     throats and mild mouth/throat inflammation, and as a mild bitter digestive tonic; it has also been
@@ -317,7 +329,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA monograph, Herbal Reality, peer-reviewed
   review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea,
   sore-throat, indigestion, wounds); symptom associations retained and now part-mapped and cited. Further
@@ -335,4 +347,8 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (EMA
   bibliography. CORRECTION: the infusion entry claimed ''about 2.5-5 g dried herb''; the monograph gives
   1.5-4 g in 250 mL, 2-3x daily, with separate gargle posology (1.5 g in 150 mL 2-4x daily, or a 3-4.5 g
   decoction 2-3x daily). The tincture entry''s ''1:5'' ratio was dropped - the monograph specifies 1-4 mL 3x
-  daily without a ratio. No new reference needed. status -> verified.'
+  daily without a ratio. No new reference needed. status -> verified. | 2026-08-14 (harvest-calendar
+  campaign, Batch 2): added harvest_readiness for the aerial parts (provisional) — gather the flowering
+  herb (the tall yellow flower-spikes with leaves) as it comes into flower, sourced to Ken Fern / Useful
+  Temperate Plants (REF-3191, new). King''s and Grieve give the part but no harvest stage. Existing
+  harvesting.season not inherited; signal re-derived.'

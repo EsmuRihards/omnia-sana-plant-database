@@ -60,6 +60,53 @@ harvesting:
   - REF-2708
   - REF-2721
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Gather the white umbels as they open in summer, while the plant is in full flower."
+  basis: traditional
+  source_quote: "It is in flower from June to August, and the seeds ripen from August to September."
+  reference_ids:
+  - REF-3244
+  - REF-3245
+  independent_confirmation: "Wikipedia (REF-3245), an independent prism, confirms summer flowering: 'The flowers are mainly produced from June to August, rarely also in May or September.'"
+  species_confirmed: true
+  status: verified
+  notes: "PFAF (REF-3244) and Wikipedia (REF-3245) agree the umbels bloom in summer (June-August). SAFETY: never gather where the plant cannot be told with certainty from its deadly Apiaceae look-alikes (see the root/seed entries)."
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts (herb) in summer, while in flower."
+  basis: traditional
+  source_quote: "The plant is harvested in July and dried for later use."
+  reference_ids:
+  - REF-3244
+  - REF-3245
+  independent_confirmation: "Wikipedia (REF-3245) independently confirms the summer flowering stage at which the herb is gathered ('flowers ... produced from June to August')."
+  species_confirmed: true
+  status: verified
+  notes: "PFAF (REF-3244) gathers the whole herb in July, in flower; Wikipedia (REF-3245) confirms summer flowering. SAFETY: the ferny foliage and white umbels are confusable with the fatal Conium maculatum (poison hemlock) and the dangerous Aethusa cynapium (fool's parsley) - confirm identity before gathering; see Dangerous Lookalikes."
+- part: seed
+  signals:
+  - "Collect the ripe fruits (seeds) from the drying umbels in late summer to autumn, once they mature."
+  basis: traditional
+  source_quote: "It is in flower from June to August, and the seeds ripen from August to September."
+  reference_ids:
+  - REF-3244
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3244); the seeds ripen in late summer (August-September). Wikipedia gave no seed-ripening stage. Single lineage -> provisional. SAFETY: confirm identity against Conium maculatum / Aethusa cynapium before gathering."
+- part: root
+  signals:
+  - "Dig the taproot from first-year rosettes, before the flowering stem appears, while it is still tender."
+  basis: traditional
+  source_quote: "Roots are best gathered from first-year plants before flowering stems appear."
+  reference_ids:
+  - REF-3244
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3244); the taproot is dug from the first-year rosette, before flowering. Single lineage -> provisional. SAFETY CRITICAL: the first-year rosette is exactly the stage most easily confused with the fatal Conium maculatum (poison hemlock) - never dig a wild-carrot root unless the identification is certain; see Dangerous Lookalikes (Conium maculatum fatal, Aethusa cynapium dangerous)."
 traditional_uses:
   text: Wild carrot has a long folk-medicinal history as a diuretic and urinary remedy for gravel, stones,
     cystitis and gout, and as a carminative aromatic bitter for flatulent indigestion. The seed is the
@@ -514,7 +561,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-10'
 provenance: pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-07-10 as a new medicinal-plant record (wild carrot, Daucus carota). 17 PubMed-verified @article
   sources (REF-2708..REF-2724), each adversarially checked to be genuinely Daucus carota (rejected
   wrong-species Daucus gracilis, parsnip, Panax panaxydol papers, a retracted CVD review, and
@@ -541,4 +588,9 @@ internal_notes: 'Created 2026-07-10 as a new medicinal-plant record (wild carrot
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for flower + aerial-parts (verified: PFAF REF-3244 + Wikipedia
+  REF-3245, summer flowering), seed (provisional, REF-3244, ripe late summer to autumn) and root
+  (provisional, REF-3244, first-year rosette before flowering). SAFETY clauses cross-link Dangerous
+  Lookalikes (Conium maculatum fatal + Aethusa cynapium dangerous) - the first-year-root stage is itself
+  the fatal-confusion window. Binomial confirmed.'

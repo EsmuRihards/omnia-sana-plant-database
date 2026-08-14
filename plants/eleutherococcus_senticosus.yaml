@@ -64,6 +64,18 @@ harvesting:
   - Root and rhizome
   season: Autumn, from mature (3-4+ year) plants
   status: draft
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root and rhizome in autumn, from plants at least three to four years old."
+  basis: traditional
+  source_quote: "The roots are harvested in the autumn and dried for later use."
+  reference_ids:
+  - REF-3250
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3250); the root and rhizome (radix et rhizoma) are dug in autumn from mature 3-4 year plants. Single canonical entry (root) covers the co-harvested rhizome. Independent confirmation not found. Single lineage -> provisional."
 traditional_uses:
   text: Siberian ginseng root has a long Russian and Chinese traditional-medicine reputation as an adaptogenic
     tonic to improve resistance to physical, mental and environmental stress, support endurance and recovery,
@@ -252,7 +264,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursing Practice review; Nutrients
   adaptogens review). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
   (fatigue, stress, cognitive-function, immune-support); associations retained and now part-mapped and
@@ -279,4 +291,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Holistic Nursin
   a reference stapled on. DEAD END (preparations, 2026-07-20): ''Tincture'' - the EU herbal monograph
   for this species gives a LIQUID EXTRACT (DER 1:1, ethanol 30-40% v/v), 2-3 ml, not a tincture. A 1:1
   liquid extract is a different dose form from a tincture and its ref must not be transferred to this
-  entry. Left unsourced deliberately.'
+  entry. Left unsourced deliberately. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness
+  for root (provisional: PFAF REF-3250, root and rhizome dug in autumn from mature 3-4 year plants). Single
+  canonical root entry covers the co-harvested rhizome (radix et rhizoma). Binomial confirmed.'

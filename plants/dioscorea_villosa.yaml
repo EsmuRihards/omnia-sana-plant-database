@@ -62,6 +62,18 @@ harvesting:
   - Root and rhizome
   season: Autumn
   status: draft
+harvest_readiness:
+- part: rhizome
+  signals:
+  - "Dig the knotty rhizome in autumn, once the aerial vine has died back."
+  basis: traditional
+  source_quote: "The root is harvested in the autumn and dried for later use."
+  reference_ids:
+  - REF-3246
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3246); the rhizome is dug in autumn (flowering September-October, so harvest follows as the vine dies back). Independent confirmation not found (theferns is the same Ken Fern lineage). Single lineage -> provisional."
 traditional_uses:
   text: Wild yam root has a Native American and Eclectic-medicine history as an antispasmodic remedy for
     colic, menstrual cramps and rheumatic joint pain (reflected in the old names 'colic root' and 'rheumatism
@@ -201,7 +213,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementary and Alternative Medicine bioassay/toxicity
   study). Further enriched 2026-06-13 with an additional diosgenin pharmacokinetic/pharmacology study
   (REF-0536, Okawara et al. 2013) sourced from PubMed. Originally a skeleton imported from the omniasana.bio
@@ -227,4 +239,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (BMC Complementa
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for rhizome (provisional: PFAF REF-3246, dug in autumn once the
+  aerial vine dies back; flowering Sept-Oct). Independent seam not found (theferns = same Ken Fern lineage).
+  Binomial confirmed.'

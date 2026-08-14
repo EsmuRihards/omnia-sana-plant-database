@@ -46,6 +46,30 @@ harvesting:
   reference_ids:
   - REF-2011
   status: verified
+harvest_readiness:
+- part: flower
+  signals:
+  - "Pick the flower heads as they open, in summer."
+  basis: traditional
+  source_quote: "It is in flower from July to August."
+  reference_ids:
+  - REF-3247
+  - REF-3248
+  independent_confirmation: "Wikipedia (REF-3248), an independent prism, confirms summer flowering: 'Depending on the climate, it blooms throughout summer into autumn.'"
+  species_confirmed: true
+  status: verified
+  notes: "PFAF (REF-3247, July-August) and Wikipedia (REF-3248, summer into autumn) agree the heads open in summer."
+- part: root
+  signals:
+  - "Dig the roots in late autumn, from plants at least two to three years old."
+  basis: traditional
+  source_quote: "Echinacea roots are typically harvested in late autumn (September to November)."
+  reference_ids:
+  - REF-3247
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3247); the root is dug in late autumn from mature plants. Wikipedia gave no root-harvest stage. Single lineage -> provisional."
 traditional_uses:
   text: Echinacea root was widely used by Native American peoples as a remedy for infections, wounds,
     snakebite and toothache, and entered nineteenth-century Eclectic medicine as a broad anti-infective.
@@ -229,7 +253,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -241,4 +265,6 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy.'
+  per the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for flower (verified: PFAF REF-3247 + Wikipedia REF-3248, summer heads) and root
+  (provisional: PFAF REF-3247, dug in late autumn from mature 2-3 year plants). Binomial confirmed.'

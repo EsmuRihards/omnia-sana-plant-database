@@ -19977,6 +19977,70 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the white umbels as they open in summer, while the plant is in full flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from June to August, and the seeds ripen from August to September.",
+     "reference_ids": [
+      "REF-3244",
+      "REF-3245"
+     ],
+     "independent_confirmation": "Wikipedia (REF-3245), an independent prism, confirms summer flowering: 'The flowers are mainly produced from June to August, rarely also in May or September.'",
+     "species_confirmed": true,
+     "status": "verified",
+     "notes": "PFAF (REF-3244) and Wikipedia (REF-3245) agree the umbels bloom in summer (June-August). SAFETY: never gather where the plant cannot be told with certainty from its deadly Apiaceae look-alikes (see the root/seed entries)."
+    },
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts (herb) in summer, while in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in July and dried for later use.",
+     "reference_ids": [
+      "REF-3244",
+      "REF-3245"
+     ],
+     "independent_confirmation": "Wikipedia (REF-3245) independently confirms the summer flowering stage at which the herb is gathered ('flowers ... produced from June to August').",
+     "species_confirmed": true,
+     "status": "verified",
+     "notes": "PFAF (REF-3244) gathers the whole herb in July, in flower; Wikipedia (REF-3245) confirms summer flowering. SAFETY: the ferny foliage and white umbels are confusable with the fatal Conium maculatum (poison hemlock) and the dangerous Aethusa cynapium (fool's parsley) - confirm identity before gathering; see Dangerous Lookalikes."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "Collect the ripe fruits (seeds) from the drying umbels in late summer to autumn, once they mature."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from June to August, and the seeds ripen from August to September.",
+     "reference_ids": [
+      "REF-3244"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3244); the seeds ripen in late summer (August-September). Wikipedia gave no seed-ripening stage. Single lineage -> provisional. SAFETY: confirm identity against Conium maculatum / Aethusa cynapium before gathering."
+    },
+    {
+     "part": "root",
+     "signals": [
+      "Dig the taproot from first-year rosettes, before the flowering stem appears, while it is still tender."
+     ],
+     "basis": "traditional",
+     "source_quote": "Roots are best gathered from first-year plants before flowering stems appear.",
+     "reference_ids": [
+      "REF-3244"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3244); the taproot is dug from the first-year rosette, before flowering. Single lineage -> provisional. SAFETY CRITICAL: the first-year rosette is exactly the stage most easily confused with the fatal Conium maculatum (poison hemlock) - never dig a wild-carrot root unless the identification is certain; see Dangerous Lookalikes (Conium maculatum fatal, Aethusa cynapium dangerous)."
+    }
+   ],
    "traditional_uses": {
     "text": "Wild carrot has a long folk-medicinal history as a diuretic and urinary remedy for gravel, stones, cystitis and gout, and as a carminative aromatic bitter for flatulent indigestion. The seed is the classic part used and carries a well-documented traditional reputation as an emmenagogue and folk contraceptive ('Queen Anne's Lace seed'); experimental work confirms estrogenic and anti-implantation (pregnancy-interceptory) activity, which is also why the seed is avoided in pregnancy. The root is nutritive and rich in carotene, and the plant has been applied to wounds and inflamed skin.",
     "reference_ids": [
@@ -20550,7 +20614,7 @@
    ],
    "provenance": "pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13"
+   "last_updated": "2026-08-15"
   },
   {
    "id": "dioscorea-villosa",
@@ -20629,6 +20693,23 @@
     "season": "Autumn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the knotty rhizome in autumn, once the aerial vine has died back."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root is harvested in the autumn and dried for later use.",
+     "reference_ids": [
+      "REF-3246"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3246); the rhizome is dug in autumn (flowering September-October, so harvest follows as the vine dies back). Independent confirmation not found (theferns is the same Ken Fern lineage). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Wild yam root has a Native American and Eclectic-medicine history as an antispasmodic remedy for colic, menstrual cramps and rheumatic joint pain (reflected in the old names 'colic root' and 'rheumatism root'); despite a persistent modern myth, its diosgenin content is not converted into progesterone or other hormones in the human body.",
     "reference_ids": [
@@ -20832,7 +20913,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "wild-yam"
   },
   {
@@ -20888,6 +20969,39 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Pick the flower heads as they open, in summer."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from July to August.",
+     "reference_ids": [
+      "REF-3247",
+      "REF-3248"
+     ],
+     "independent_confirmation": "Wikipedia (REF-3248), an independent prism, confirms summer flowering: 'Depending on the climate, it blooms throughout summer into autumn.'",
+     "species_confirmed": true,
+     "status": "verified",
+     "notes": "PFAF (REF-3247, July-August) and Wikipedia (REF-3248, summer into autumn) agree the heads open in summer."
+    },
+    {
+     "part": "root",
+     "signals": [
+      "Dig the roots in late autumn, from plants at least two to three years old."
+     ],
+     "basis": "traditional",
+     "source_quote": "Echinacea roots are typically harvested in late autumn (September to November).",
+     "reference_ids": [
+      "REF-3247"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3247); the root is dug in late autumn from mature plants. Wikipedia gave no root-harvest stage. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Echinacea root was widely used by Native American peoples as a remedy for infections, wounds, snakebite and toothache, and entered nineteenth-century Eclectic medicine as a broad anti-infective. It remains best known today, in standardised aerial-part or root extracts, as a supportive remedy for preventing and shortening the common cold and supporting immune function.",
     "reference_ids": [
@@ -21129,7 +21243,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "purple-coneflower"
   },
   {
@@ -21181,6 +21295,38 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "fruit",
+     "signals": [
+      "Hand-pick the pods (fruits) in the dry season, green and just before full ripeness, to preserve the aromatic oil."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fruits are harvested in the dry season and dried whole.",
+     "reference_ids": [
+      "REF-3249"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3249): fruits harvested in the dry season, dried whole. The green (unripe) pod is the quality target, but no independent source stating the exact ripeness stage/timing was found - Gernot Katzer's spice page confirms green pods are superior yet gives no harvest-timing sentence. Single lineage -> provisional."
+    },
+    {
+     "part": "seed",
+     "signals": [
+      "The seeds are removed from the pods after the same dry-season harvest and drying."
+     ],
+     "basis": "traditional",
+     "source_quote": "The fruits are harvested in the dry season and dried whole.",
+     "reference_ids": [
+      "REF-3249"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3249): the seed shares the fruit's harvest - pods picked in the dry season, seeds removed after drying. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Cardamom has a long Ayurvedic, Middle Eastern and Asian tradition as a warming digestive carminative for indigestion and bloating, a remedy for respiratory complaints such as asthma and bronchitis, and a valued spice for tea, coffee and cooking.",
     "reference_ids": [
@@ -21462,7 +21608,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "cardamom"
   },
   {
@@ -21544,6 +21690,23 @@
     "season": "Autumn, from mature (3-4+ year) plants",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root and rhizome in autumn, from plants at least three to four years old."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots are harvested in the autumn and dried for later use.",
+     "reference_ids": [
+      "REF-3250"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3250); the root and rhizome (radix et rhizoma) are dug in autumn from mature 3-4 year plants. Single canonical entry (root) covers the co-harvested rhizome. Independent confirmation not found. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Siberian ginseng root has a long Russian and Chinese traditional-medicine reputation as an adaptogenic tonic to improve resistance to physical, mental and environmental stress, support endurance and recovery, and bolster immune resilience during cold and flu season, closely paralleling (though botanically distinct from) true Panax ginseng.",
     "reference_ids": [
@@ -21804,7 +21967,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "siberian-ginseng"
   },
   {

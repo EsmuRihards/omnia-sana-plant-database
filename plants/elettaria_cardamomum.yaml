@@ -44,6 +44,29 @@ harvesting:
   - Fruit
   - Seed
   status: draft
+harvest_readiness:
+- part: fruit
+  signals:
+  - "Hand-pick the pods (fruits) in the dry season, green and just before full ripeness, to preserve the aromatic oil."
+  basis: traditional
+  source_quote: "The fruits are harvested in the dry season and dried whole."
+  reference_ids:
+  - REF-3249
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3249): fruits harvested in the dry season, dried whole. The green (unripe) pod is the quality target, but no independent source stating the exact ripeness stage/timing was found - Gernot Katzer's spice page confirms green pods are superior yet gives no harvest-timing sentence. Single lineage -> provisional."
+- part: seed
+  signals:
+  - "The seeds are removed from the pods after the same dry-season harvest and drying."
+  basis: traditional
+  source_quote: "The fruits are harvested in the dry season and dried whole."
+  reference_ids:
+  - REF-3249
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3249): the seed shares the fruit's harvest - pods picked in the dry season, seeds removed after drying. Single lineage -> provisional."
 traditional_uses:
   text: Cardamom has a long Ayurvedic, Middle Eastern and Asian tradition as a warming digestive carminative
     for indigestion and bloating, a remedy for respiratory complaints such as asthma and bronchitis, and
@@ -261,7 +284,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -282,4 +305,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   may still resolve these. ''Essential oil'': WHO gives a crude-drug daily dose and a tincture equivalent
   only. No essential-oil dose, no distillation, no topical or aromatic use is stated. | ''Culinary use'':
   The monograph gives medicinal posology for the dried seed. It makes no statement about culinary use
-  as a food spice.'
+  as a food spice. | 2026-08-15: Harvest Calendar (phenological) - added harvest_readiness for fruit + seed
+  (provisional: Useful Tropical Plants REF-3249, pods picked green in the dry season before full ripeness;
+  seeds removed after drying). No independent ripeness-stage source found (Gernot Katzer gives a green-pod
+  quality note only, no timing). Binomial confirmed.'

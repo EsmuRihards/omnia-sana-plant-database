@@ -66,6 +66,29 @@ harvesting:
   reference_ids:
   - REF-0410
   status: verified
+harvest_readiness:
+- part: rhizome
+  signals:
+  - "Dig the rhizome in early spring, just as the new leaves begin to shoot (or in autumn); wash and dry."
+  basis: traditional
+  source_quote: "It is gathered in early spring when the leaves are just beginning to shoot, and then dried"
+  reference_ids:
+  - REF-3214
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3214) for Bistorta officinalis (syn. Persicaria bistorta / Polygonum bistorta). Single source -> provisional."
+- part: aerial-parts
+  signals:
+  - "Gather the leaves/aerial parts young, from spring to early summer, while still tender — they become much tougher as the season advances."
+  basis: traditional
+  source_quote: "The leaves are available from late winter in most years and can be eaten until the early autumn though they become much tougher as the season progresses"
+  reference_ids:
+  - REF-3214
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3214). The source frames the tender-young window (gather before toughening) rather than a flowering harvest. Single source -> provisional."
 traditional_uses:
   text: Bistort rhizome, one of the most tannin-rich temperate herbs, has a long European folk history
     as a powerful astringent for mild diarrhoea, as a gargle for sore throat and mouth inflammation, and
@@ -243,7 +266,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Journal of Ethnopharmacology activity study;
   WebMD monograph). Bistorta officinalis = Persicaria bistorta = Polygonum bistorta. Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (diarrhea, sore-throat, wounds); associations
@@ -267,4 +290,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific and general literature (Jou
   monographs on selected medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s
   Definition read to confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket,
   mined for human studies that state an administered dose. Per the campaign''s integrity bar the entry is
-  left unsourced at status draft rather than attached to a tangentially-related paper.'
+  left unsourced at status draft rather than attached to a tangentially-related paper. | 2026-08-14
+  (harvest-calendar campaign, Batch 5): added harvest_readiness for rhizome + aerial parts (provisional) —
+  dig the rhizome in early spring as the new leaves shoot; gather the aerial parts young, before they
+  toughen; sourced to Useful Temperate Plants (REF-3214). Existing harvesting.season not inherited.'

@@ -62,6 +62,18 @@ harvesting:
   reference_ids:
   - REF-0402
   status: verified
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root in autumn from four-year-old (or older) plants; the mature multi-year root is the part used."
+  basis: traditional
+  source_quote: "The root of 4 year old plants is harvested in the autumn and dried for later use"
+  reference_ids:
+  - REF-3212
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3212) for Astragalus mongholicus (accepted name; A. membranaceus is a synonym). Single source -> provisional."
 traditional_uses:
   text: Astragalus root (huang qi) is one of the most widely used tonic herbs in traditional Chinese medicine,
     classified as a 'Qi tonic' for fatigue, low vitality and reduced resistance to colds and infections,
@@ -253,7 +265,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pharmacal Research review
   of Astragalus polysaccharide; Advances in Pharmacology review of astragaloside IV). Originally a skeleton
   imported from the omniasana.bio Symptom-to-Plant Lookup tool (immune-support, fatigue, cold, kidney-support);
@@ -281,4 +293,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Archives of Pha
   on this record, judged from their stored posology summaries and not from the full monograph PDFs - a
   later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve
   these. ''Tincture'': WHO gives only a crude-drug dose of 3-9 g/day. No tincture, alcoholic extract or
-  ethanol strength appears in the summary.'
+  ethanol strength appears in the summary. | 2026-08-14 (harvest-calendar campaign, Batch 5): added
+  harvest_readiness for the root (provisional) — dig in autumn from four-year-old (or older) plants,
+  sourced to Useful Temperate Plants (REF-3212, filed under the accepted name Astragalus mongholicus).
+  Existing harvesting.season not inherited; signal re-derived.'

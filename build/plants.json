@@ -8852,6 +8852,24 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in autumn, after the aerial parts die back; it can be used fresh or dried.",
+      "SAFETY: pleurisy-root is confusable with the toxic hemp dogbane (Apocynum cannabinum), especially at the root. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root is harvested in the autumn and can be used fresh or dried.",
+     "reference_ids": [
+      "REF-3211"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3211) for Asclepias tuberosa. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Pleurisy root has a Native American and Eclectic-medicine reputation, reflected in its name, as an expectorant and diaphoretic for chest complaints, bronchitis and pleurisy, used to promote sweating during feverish illness and help clear phlegm.",
     "reference_ids": [
@@ -9063,7 +9081,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "pleurisy-root"
   },
   {
@@ -9149,6 +9167,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "root",
+     "signals": [
+      "Dig the root in autumn from four-year-old (or older) plants; the mature multi-year root is the part used."
+     ],
+     "basis": "traditional",
+     "source_quote": "The root of 4 year old plants is harvested in the autumn and dried for later use",
+     "reference_ids": [
+      "REF-3212"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3212) for Astragalus mongholicus (accepted name; A. membranaceus is a synonym). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Astragalus root (huang qi) is one of the most widely used tonic herbs in traditional Chinese medicine, classified as a 'Qi tonic' for fatigue, low vitality and reduced resistance to colds and infections, and used to support immune, cardiovascular and kidney health.",
     "reference_ids": [
@@ -9418,7 +9453,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "astragalus"
   },
   {
@@ -9470,6 +9505,39 @@
     "season": "During active growth (warm season)",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "whole-plant",
+     "signals": [
+      "Harvest the whole plant (the leafy soft stems) during active growth in the warm season, at the mature/flowering stage, when active-compound (bacoside) content is highest."
+     ],
+     "basis": "constituent",
+     "constituent_note": "A growth-stage study reports the harvest window for peak actives: 'this period should be considered for Brahmi harvesting to obtain high active compounds and crop yield' (week 12, which coincides with peak flowering).",
+     "source_quote": "Regarding capacity per plant, the highest content of active compounds was found in week 12.",
+     "reference_ids": [
+      "REF-3215"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Thai Journal of Agricultural Science growth-stage study (REF-3215). Week 12 of cultivation coincides with peak flowering / mature active growth; there is no traditional-collection source, so the signal rests on the constituent-peak study (basis: constituent). Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Handpick the leaves and soft stems during active growth in the warm season, at the mature/flowering stage when bacoside content peaks."
+     ],
+     "basis": "constituent",
+     "source_quote": "Regarding capacity per plant, the highest content of active compounds was found in week 12.",
+     "reference_ids": [
+      "REF-3215"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Thai Journal of Agricultural Science growth-stage study (REF-3215). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Bacopa (brahmi) is a classic Ayurvedic 'medhya rasayana' (brain-nourishing) herb, traditionally used to support memory, learning and mental clarity, and as a calming nervine for anxiety and disturbed sleep. This traditional cognitive reputation is now supported by randomised controlled trials of standardised extracts.",
     "reference_ids": [
@@ -9715,7 +9783,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "water-hyssop"
   },
   {
@@ -9774,6 +9842,53 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "sap",
+     "signals": [
+      "Tap the trunk for sap in early spring, before the leaves unfurl, while the sap is rising."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is harvested in early spring, before the leaves unfurl, by tapping the trunk.",
+     "reference_ids": [
+      "REF-3213"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3213) for Betula pendula. Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the young leaves and leaf buds in spring as they open; dry for use."
+     ],
+     "basis": "traditional",
+     "source_quote": "The young leaves and leaf buds are harvested in the spring and dried for later use.",
+     "reference_ids": [
+      "REF-3213"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3213). Single source -> provisional."
+    },
+    {
+     "part": "bark",
+     "signals": [
+      "Take the bark from felled timber (available year-round); the outer bark peels most easily in late spring to early summer, when it slips."
+     ],
+     "basis": "traditional",
+     "source_quote": "The bark is usually obtained from trees that have been felled for timber and can be distilled at any time of the year.",
+     "reference_ids": [
+      "REF-3213"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3213); it adds the outer bark 'is most easily removed in late spring to early summer' (when the bark slips). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Birch leaf is a classic European 'aquaretic' diuretic used for urinary gravel, kidney stones and as a spring detoxifying tonic, and for rheumatic and joint complaints; the bark and its extracts have a long folk history for skin conditions, while the sap has been drunk fresh as a traditional spring tonic.",
     "reference_ids": [
@@ -10187,7 +10302,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "birch"
   },
   {
@@ -10277,6 +10392,38 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the rhizome in early spring, just as the new leaves begin to shoot (or in autumn); wash and dry."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is gathered in early spring when the leaves are just beginning to shoot, and then dried",
+     "reference_ids": [
+      "REF-3214"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3214) for Bistorta officinalis (syn. Persicaria bistorta / Polygonum bistorta). Single source -> provisional."
+    },
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the leaves/aerial parts young, from spring to early summer, while still tender — they become much tougher as the season advances."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are available from late winter in most years and can be eaten until the early autumn though they become much tougher as the season progresses",
+     "reference_ids": [
+      "REF-3214"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3214). The source frames the tender-young window (gather before toughening) rather than a flowering harvest. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Bistort rhizome, one of the most tannin-rich temperate herbs, has a long European folk history as a powerful astringent for mild diarrhoea, as a gargle for sore throat and mouth inflammation, and topically as a vulnerary and styptic for minor wounds and bleeding; young leaves have also traditionally been eaten as a spring pot-herb ('Easter-ledge pudding').",
     "reference_ids": [
@@ -10532,7 +10679,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "bistort"
   },
   {

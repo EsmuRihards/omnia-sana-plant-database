@@ -57,6 +57,19 @@ harvesting:
   reference_ids:
   - REF-0494
   status: draft
+harvest_readiness:
+- part: root
+  signals:
+  - "Dig the root in autumn, after the aerial parts die back; it can be used fresh or dried."
+  - "SAFETY: pleurisy-root is confusable with the toxic hemp dogbane (Apocynum cannabinum), especially at the root. Confirm identity before digging — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The root is harvested in the autumn and can be used fresh or dried."
+  reference_ids:
+  - REF-3211
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3211) for Asclepias tuberosa. Single source -> provisional."
 traditional_uses:
   text: Pleurisy root has a Native American and Eclectic-medicine reputation, reflected in its name, as
     an expectorant and diaphoretic for chest complaints, bronchitis and pleurisy, used to promote sweating
@@ -216,7 +229,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from general herbal literature (traditional monographs). Record status
   set to needs-review because Asclepias tuberosa contains cardiac glycosides and has essentially no modern
   clinical evidence. Originally a skeleton imported from the omniasana.bio Symptom-to-Plant Lookup tool
@@ -230,4 +243,7 @@ internal_notes: 'Enriched 2026-06-12 from general herbal literature (traditional
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
-  sourcing policy.'
+  sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 5): added harvest_readiness for the root
+  (provisional) — dig in autumn after the aerial parts die back, sourced to Useful Temperate Plants
+  (REF-3211). Safety cross-link to the toxic hemp-dogbane (Apocynum cannabinum) root confusion. Existing
+  harvesting.season not inherited.'

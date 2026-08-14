@@ -41,6 +41,30 @@ harvesting:
   - Whole Plant
   season: During active growth (warm season)
   status: draft
+harvest_readiness:
+- part: whole-plant
+  signals:
+  - "Harvest the whole plant (the leafy soft stems) during active growth in the warm season, at the mature/flowering stage, when active-compound (bacoside) content is highest."
+  basis: constituent
+  constituent_note: "A growth-stage study reports the harvest window for peak actives: 'this period should be considered for Brahmi harvesting to obtain high active compounds and crop yield' (week 12, which coincides with peak flowering)."
+  source_quote: "Regarding capacity per plant, the highest content of active compounds was found in week 12."
+  reference_ids:
+  - REF-3215
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Thai Journal of Agricultural Science growth-stage study (REF-3215). Week 12 of cultivation coincides with peak flowering / mature active growth; there is no traditional-collection source, so the signal rests on the constituent-peak study (basis: constituent). Single source -> provisional."
+- part: leaf
+  signals:
+  - "Handpick the leaves and soft stems during active growth in the warm season, at the mature/flowering stage when bacoside content peaks."
+  basis: constituent
+  source_quote: "Regarding capacity per plant, the highest content of active compounds was found in week 12."
+  reference_ids:
+  - REF-3215
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Thai Journal of Agricultural Science growth-stage study (REF-3215). Single source -> provisional."
 traditional_uses:
   text: Bacopa (brahmi) is a classic Ayurvedic 'medhya rasayana' (brain-nourishing) herb, traditionally
     used to support memory, learning and mental clarity, and as a calming nervine for anxiety and disturbed
@@ -224,7 +248,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -236,4 +260,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11: added
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
-  per the integrity-first sourcing policy.'
+  per the integrity-first sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 5): added
+  harvest_readiness for whole-plant + leaf (provisional, basis constituent) — harvest during active
+  warm-season growth at the mature/flowering stage when bacoside content peaks, sourced to a growth-stage
+  study (Thai J. Agric. Sci., REF-3215; week 12 = peak actives, coinciding with flowering). No
+  traditional-collection source located. Existing harvesting.season not inherited.'

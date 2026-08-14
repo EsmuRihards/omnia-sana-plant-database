@@ -49,6 +49,40 @@ harvesting:
   reference_ids:
   - REF-0743
   status: verified
+harvest_readiness:
+- part: sap
+  signals:
+  - "Tap the trunk for sap in early spring, before the leaves unfurl, while the sap is rising."
+  basis: traditional
+  source_quote: "It is harvested in early spring, before the leaves unfurl, by tapping the trunk."
+  reference_ids:
+  - REF-3213
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3213) for Betula pendula. Single source -> provisional."
+- part: leaf
+  signals:
+  - "Gather the young leaves and leaf buds in spring as they open; dry for use."
+  basis: traditional
+  source_quote: "The young leaves and leaf buds are harvested in the spring and dried for later use."
+  reference_ids:
+  - REF-3213
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3213). Single source -> provisional."
+- part: bark
+  signals:
+  - "Take the bark from felled timber (available year-round); the outer bark peels most easily in late spring to early summer, when it slips."
+  basis: traditional
+  source_quote: "The bark is usually obtained from trees that have been felled for timber and can be distilled at any time of the year."
+  reference_ids:
+  - REF-3213
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3213); it adds the outer bark 'is most easily removed in late spring to early summer' (when the bark slips). Single source -> provisional."
 traditional_uses:
   text: Birch leaf is a classic European 'aquaretic' diuretic used for urinary gravel, kidney stones and
     as a spring detoxifying tonic, and for rheumatic and joint complaints; the bark and its extracts have
@@ -335,7 +369,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -359,4 +393,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   posology summaries and not from the full monograph PDFs - a later pass with the PDFs, or a new seam
   (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Fresh sap'': Wrong plant part.
   The monograph is on birch LEAF (folium) and its posology is entirely leaf preparations. It says nothing
-  about spring sap, birch wine or vinegar.'
+  about spring sap, birch wine or vinegar. | 2026-08-14 (harvest-calendar campaign, Batch 5): added
+  harvest_readiness for sap/leaf/bark (provisional) — sap tapped in early spring before the leaves unfurl;
+  young leaves and buds in spring; bark from felled timber (peels most easily late spring to early summer);
+  sourced to Useful Temperate Plants (REF-3213). Existing harvesting.season not inherited; signals re-derived.'

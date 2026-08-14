@@ -22056,6 +22056,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Dig the rhizome in spring (or autumn), while the top growth is low, then wash and cut it up."
+     ],
+     "basis": "traditional",
+     "source_quote": "The roots are harvested in the spring and can be dried for later use.",
+     "reference_ids": [
+      "REF-3251"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3251) for Elymus repens (syn. Elytrigia/Agropyron repens); the rhizome is dug in spring (the DB also notes autumn is convenient). Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Couch grass rhizome has a long European folk and official (EU herbal monograph) use as a soothing diuretic 'irrigation' remedy for minor urinary tract complaints, taken with plenty of fluids to increase urine flow and help flush the urinary tract.",
     "reference_ids": [
@@ -22209,7 +22226,7 @@
    },
    "provenance": "website+symptom-tool+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "couch-grass"
   },
   {
@@ -22302,6 +22319,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Cut the flowering aerial parts (herb) in summer, while the plant is in flower."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from July to August.",
+     "reference_ids": [
+      "REF-3252"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3252); the medicinal part is the flowering aerial herb, gathered in summer while in flower (in flower July-August). PFAF gives the flowering stage rather than an explicit harvest sentence; flowering-herb collection is the standard stage for Epilobium. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Small-flowered willowherb, along with related Epilobium species, has a Central European folk tradition as a supportive remedy for lower urinary tract symptoms associated with benign prostatic hyperplasia (BPH) and prostatitis, and as an antimicrobial and anti-inflammatory herb for minor infections; the traditional prostate-support use is attributed mainly to its oenothein B content, though robust clinical evidence remains limited.",
     "reference_ids": [
@@ -22509,7 +22543,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-15",
    "common_slug": "bay-leaf-willowherb"
   },
   {
@@ -22556,6 +22590,23 @@
     "season": "Summer, when sterile stems are fully grown",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "stem",
+     "signals": [
+      "Cut the green sterile stems in summer, when fully grown - NOT the pale spring fertile shoots."
+     ],
+     "basis": "traditional",
+     "source_quote": "Sterile stems follow shortly after and persist through summer.",
+     "reference_ids": [
+      "REF-3253"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3253); the medicinal material is the green sterile stems, which persist through summer and are cut in summer/late summer and dried (distinct from the pale spring fertile shoots). Single lineage -> provisional. SAFETY: confirm the species against the more toxic Equisetum palustre (marsh horsetail), which grows in similar damp ground, before gathering - see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Field horsetail has a long European folk history as a diuretic remedy for urinary gravel and mild fluid retention, as an astringent, anti-inflammatory and vulnerary herb for wounds and connective-tissue support, and, owing to its very high silica content, as a traditional tonic for hair, nails and skin.",
     "reference_ids": [
@@ -22902,7 +22953,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-15",
    "common_slug": "field-horsetail"
   },
   {
@@ -22954,6 +23005,13 @@
     "season": "Summer",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "stem",
+     "status": "gap",
+     "notes": "GAP (documented dead end). The medicinal material is the summer sterile stems, but no reliable phenological source stating the harvest-readiness STAGE for Equisetum pratense specifically was found. PFAF (Equisetum pratense) gives only spore-ripening ('The seeds ripen in April') and edible-root notes - no sterile-stem harvest stage. Congener timing (Equisetum arvense, cut in summer) must NOT be inherited per the campaign's no-cross-species rule. Next seams to try: a species-specific flora or monograph for E. pratense. SAFETY: E. palustre (marsh horsetail) is a toxic lookalike - see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Meadow (shady) horsetail shares the broader horsetail genus's traditional folk reputation as a diuretic, astringent and wound-healing herb, though it has been studied far less than field horsetail and has no dedicated clinical evidence base of its own.",
     "status": "draft"
@@ -23033,7 +23091,7 @@
    ],
    "provenance": "pubmed",
    "status": "draft",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "shady-horsetail"
   },
   {
@@ -23103,6 +23161,13 @@
     "season": "Summer",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "stem",
+     "status": "gap",
+     "notes": "GAP (documented dead end). The medicinal material is the summer sterile (barren) stems, but no reliable phenological source stating the harvest-readiness STAGE for Equisetum sylvaticum specifically was found. PFAF (Equisetum sylvaticum) gives only 'The barren stems are used, they are most active when fresh' (a which-part/freshness note, not a phenophase) and spore-ripening 'from April to May'. Congener timing (E. arvense summer stems) must NOT be inherited. Next seams to try: a species-specific flora/monograph for E. sylvaticum. SAFETY: E. palustre (marsh horsetail) is a toxic lookalike - see Dangerous Lookalikes."
+    }
+   ],
    "traditional_uses": {
     "text": "Wood horsetail shares the broader horsetail genus's traditional folk reputation as a diuretic, astringent and wound-healing herb, though the species itself is very little studied and has no dedicated clinical evidence base of its own.",
     "status": "draft"
@@ -23165,7 +23230,7 @@
    ],
    "provenance": "pubmed",
    "status": "draft",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-15",
    "common_slug": "wood-horsetail"
   },
   {

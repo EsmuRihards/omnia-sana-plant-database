@@ -42,6 +42,18 @@ harvesting:
   - Whole Plant
   season: Summer, when sterile stems are fully grown
   status: draft
+harvest_readiness:
+- part: stem
+  signals:
+  - "Cut the green sterile stems in summer, when fully grown - NOT the pale spring fertile shoots."
+  basis: traditional
+  source_quote: "Sterile stems follow shortly after and persist through summer."
+  reference_ids:
+  - REF-3253
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3253); the medicinal material is the green sterile stems, which persist through summer and are cut in summer/late summer and dried (distinct from the pale spring fertile shoots). Single lineage -> provisional. SAFETY: confirm the species against the more toxic Equisetum palustre (marsh horsetail), which grows in similar damp ground, before gathering - see Dangerous Lookalikes."
 traditional_uses:
   text: Field horsetail has a long European folk history as a diuretic remedy for urinary gravel and mild
     fluid retention, as an astringent, anti-inflammatory and vulnerary herb for wounds and connective-tissue
@@ -321,7 +333,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-15'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -338,4 +350,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (EMA/HMPC/278091/2015), already in the bibliography. The entry''s ''2-4 g per cup up to three times
   daily'' sat inside the monograph range but understated it; rewritten to the monograph''s single dose 1-4 g
   in 150 mL, 3-4x daily, daily dose 3-12 g, plus its explicit 2-4 week traditional duration and the
-  cutaneous decoction (10 g/L). No new reference needed. status -> verified.'
+  cutaneous decoction (10 g/L). No new reference needed. status -> verified. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for stem (provisional: PFAF REF-3253, green sterile stems cut in
+  summer, NOT the spring fertile shoots). SAFETY clause cross-links Dangerous Lookalikes (Equisetum
+  palustre, marsh horsetail, toxic). Binomial confirmed.'

@@ -41,6 +41,10 @@ harvesting:
   - Stem
   season: Summer
   status: draft
+harvest_readiness:
+- part: stem
+  status: gap
+  notes: "GAP (documented dead end). The medicinal material is the summer sterile stems, but no reliable phenological source stating the harvest-readiness STAGE for Equisetum pratense specifically was found. PFAF (Equisetum pratense) gives only spore-ripening ('The seeds ripen in April') and edible-root notes - no sterile-stem harvest stage. Congener timing (Equisetum arvense, cut in summer) must NOT be inherited per the campaign's no-cross-species rule. Next seams to try: a species-specific flora or monograph for E. pratense. SAFETY: E. palustre (marsh horsetail) is a toxic lookalike - see Dangerous Lookalikes."
 traditional_uses:
   text: Meadow (shady) horsetail shares the broader horsetail genus's traditional folk reputation as a
     diuretic, astringent and wound-healing herb, though it has been studied far less than field horsetail
@@ -133,7 +137,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: pubmed
 status: draft
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify Shady Horsetail" blog post).
   SETTLED-INCOMPLETE at 3 @article sources: Equisetum pratense is an extremely sparse-literature species
   (only ~4 PubMed records exist in total, one of which is an environmental chlorpyrifos-sorption study that
@@ -155,4 +159,8 @@ internal_notes: 'Created 2026-06-27 (companion to the "How to correctly identify
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
   status draft rather than attached to a tangentially-related paper. This species was already settled as
   SPARSE-LITERATURE incomplete in the earlier >=10-publication campaign. The EMA monograph Equiseti herba
-  covers Equisetum ARVENSE only (sourced at REF-0083 on that record); E. pratense is a different species.'
+  covers Equisetum ARVENSE only (sourced at REF-0083 on that record); E. pratense is a different species. |
+  2026-08-15: Harvest Calendar (phenological) - harvest_readiness for stem recorded as GAP: no
+  species-specific phenological source for E. pratense sterile-stem timing (PFAF gives only April
+  spore-ripening); congener E. arvense timing deliberately NOT inherited. E. palustre lookalike flagged.
+  Binomial confirmed.'

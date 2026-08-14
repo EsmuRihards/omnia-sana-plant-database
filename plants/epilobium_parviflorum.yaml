@@ -70,6 +70,18 @@ harvesting:
   reference_ids:
   - REF-0403
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Cut the flowering aerial parts (herb) in summer, while the plant is in flower."
+  basis: traditional
+  source_quote: "It is in flower from July to August."
+  reference_ids:
+  - REF-3252
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3252); the medicinal part is the flowering aerial herb, gathered in summer while in flower (in flower July-August). PFAF gives the flowering stage rather than an explicit harvest sentence; flowering-herb collection is the standard stage for Epilobium. Single lineage -> provisional."
 traditional_uses:
   text: Small-flowered willowherb, along with related Epilobium species, has a Central European folk tradition
     as a supportive remedy for lower urinary tract symptoms associated with benign prostatic hyperplasia
@@ -217,7 +229,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethnopharmacology activity
   study; Complementary Therapies in Medicine RCT). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (prostate-support, uti, inflammation); associations retained and now part-mapped
@@ -242,4 +254,6 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Journal of Ethn
   checked against the monograph references already on this record, judged from their stored posology summaries
   and not from the full monograph PDFs - a later pass with the PDFs, or a new seam (Health Canada NNHPD,
   ESCOP, Commission E), may still resolve these. ''Tincture'': The willowherb monograph gives a herbal
-  tea only. No tincture, extract, ethanol strength or ratio appears.'
+  tea only. No tincture, extract, ethanol strength or ratio appears. | 2026-08-15: Harvest Calendar
+  (phenological) - added harvest_readiness for aerial-parts (provisional: PFAF REF-3252, flowering herb cut
+  in summer while in flower). Single lineage. Binomial confirmed.'

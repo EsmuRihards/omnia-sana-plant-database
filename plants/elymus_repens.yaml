@@ -65,6 +65,18 @@ harvesting:
   reference_ids:
   - REF-0437
   status: verified
+harvest_readiness:
+- part: rhizome
+  signals:
+  - "Dig the rhizome in spring (or autumn), while the top growth is low, then wash and cut it up."
+  basis: traditional
+  source_quote: "The roots are harvested in the spring and can be dried for later use."
+  reference_ids:
+  - REF-3251
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3251) for Elymus repens (syn. Elytrigia/Agropyron repens); the rhizome is dug in spring (the DB also notes autumn is convenient). Single lineage -> provisional."
 traditional_uses:
   text: Couch grass rhizome has a long European folk and official (EU herbal monograph) use as a soothing
     diuretic 'irrigation' remedy for minor urinary tract complaints, taken with plenty of fluids to increase
@@ -172,7 +184,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+symptom-tool+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-15'
 internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature (EMA HMPC monograph;
   ESCOP monograph). Elymus repens = Agropyron repens = Elytrigia repens. Originally a skeleton imported
   from the omniasana.bio Symptom-to-Plant Lookup tool (uti, swelling, kidney-support); associations retained
@@ -181,4 +193,6 @@ internal_notes: 'Enriched 2026-06-12 from regulatory and phytotherapy literature
   plant-level references bucket (least-cited enrichment): REF-0710, REF-0711, REF-0712. | 2026-07-11:
   added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
   dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
-  the integrity-first sourcing policy.'
+  the integrity-first sourcing policy. | 2026-08-15: Harvest Calendar (phenological) - added
+  harvest_readiness for rhizome (provisional: PFAF REF-3251, dug in spring or autumn while top growth is
+  low). Single Ken Fern lineage. Binomial confirmed.'

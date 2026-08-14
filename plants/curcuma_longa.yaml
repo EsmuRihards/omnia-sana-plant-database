@@ -39,6 +39,18 @@ harvesting:
   - Rhizome
   season: End of growing season, 8-10 months after planting
   status: draft
+harvest_readiness:
+- part: rhizome
+  signals:
+  - "Lift the rhizomes at the end of the season, once the foliage withers and dies back into dormancy."
+  basis: traditional
+  source_quote: "the crop is harvested when the leaves wither after 270 - 365 days"
+  reference_ids:
+  - REF-3242
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Tropical Plants / Ken Fern (REF-3242): rhizomes are lifted at roughly 9-12 months once the leaves wither. Independent confirmation not found - Wikipedia (Turmeric) gives no readiness signal ('gathered each year for their rhizomes'), and Britannica and Gardening Know How returned 403/404. Single lineage -> provisional."
 traditional_uses:
   text: Turmeric rhizome is a cornerstone spice and medicine of Ayurvedic and traditional Chinese medicine,
     used for millennia as an anti-inflammatory, digestive and wound-healing remedy and valued as a golden
@@ -274,7 +286,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -288,4 +300,7 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   + constituents) sourced from the existing references bucket; general/undated claims marked status: draft
   per the integrity-first sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer
   indication (anticancer/antitumour research) sourced from the plant''s cited literature, as part of the
-  cancer-condition campaign.'
+  cancer-condition campaign. | 2026-08-14: Harvest Calendar (phenological) - added harvest_readiness for
+  rhizome (provisional: Useful Tropical Plants REF-3242; lift at the end of the season once the foliage
+  withers). Independent confirmation not found - Wikipedia (Turmeric) gave no readiness signal, Britannica
+  and Gardening Know How returned 403/404 - logged. Binomial confirmed.'

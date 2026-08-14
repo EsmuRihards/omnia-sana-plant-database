@@ -66,6 +66,18 @@ harvesting:
   reference_ids:
   - REF-0461
   status: verified
+harvest_readiness:
+- part: leaf
+  signals:
+  - "Gather the leaves just before the plant flowers."
+  basis: traditional
+  source_quote: "The leaves are best harvested just before the plant flowers, and can be used fresh or dried."
+  reference_ids:
+  - REF-3243
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants / Ken Fern (REF-3243), filed under the accepted name Cynara cardunculus (the globe artichoke is Cynara cardunculus var. scolymus): the leaves are best gathered just before flowering. The plant's harvesting.text also claims cynarin / caffeoylquinic acid peaks before flowering, but REF-0461 (a pharmacology review of artichoke leaf extract) does NOT state that timing, so basis is kept traditional rather than constituent (per the audit finding that harvesting.status=verified does not mean the timing is sourced). Single source -> provisional."
 traditional_uses:
   text: Artichoke leaf has a long Mediterranean folk history as a bitter digestive and liver remedy, used
     to stimulate bile flow and ease dyspeptic complaints such as indigestion, bloating and fullness, and
@@ -205,7 +217,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (Plant Foods for Human
   Nutrition pharmacological review; EMA HMPC monograph). Originally a skeleton imported from the omniasana.bio
   Symptom-to-Plant Lookup tool (indigestion, bloating, liver-support, high-cholesterol, ibs); associations
@@ -218,4 +230,9 @@ internal_notes: 'Enriched 2026-06-12 from scientific and regulatory literature (
   REF-1640) — woven into relevant actions/indications and the plant-level references bucket. | 2026-07-11:
   added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations,
   dosage) sourced from the existing references bucket; general/undated claims marked status: draft per
-  the integrity-first sourcing policy.'
+  the integrity-first sourcing policy. | 2026-08-14: Harvest Calendar (phenological) - added
+  harvest_readiness for leaf (provisional: Useful Temperate Plants REF-3243, filed under the accepted name
+  Cynara cardunculus; leaves gathered just before flowering). The harvesting.text cynarin-peak timing is
+  NOT supported by REF-0461 (a pharmacology review), so basis is kept traditional, not constituent -
+  consistent with the audit finding that harvesting.status=verified does not mean the timing is sourced.
+  Binomial confirmed via accepted-name synonymy.'

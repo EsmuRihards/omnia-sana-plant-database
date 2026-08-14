@@ -39,6 +39,19 @@ harvesting:
   - Flower
   season: Autumn, at flowering, harvested at dawn
   status: draft
+harvest_readiness:
+- part: stigma
+  signals:
+  - "Gather the crimson stigmas in autumn as the flowers open: pick the flowers at dawn on the day they bloom, before they wilt, and hand-separate the three red styles/stigmas."
+  basis: traditional
+  source_quote: "It is in flower in October. The styles are harvested in the autumn when the plant is in flower and are dried for later use."
+  reference_ids:
+  - REF-3239
+  - REF-3240
+  independent_confirmation: "Wikipedia (REF-3240), an independent non-Ken-Fern prism, confirms the same autumn/dawn stage: 'Only in October ... do its brilliantly hued flowers develop' and 'after blossoming at dawn, flowers quickly wilt as the day passes.'"
+  species_confirmed: true
+  status: verified
+  notes: "PFAF (REF-3239, Ken Fern lineage) and Wikipedia (REF-3240, independent) agree: autumn flowering, stigmas gathered as the flowers open at dawn. SAFETY: the autumn-flowering harvest stage coincides exactly with the deadly Colchicum autumnale (autumn crocus / meadow saffron), a classic fatal confusion. Confirm identity before gathering - see Dangerous Lookalikes: true saffron (Crocus sativus, Iridaceae) has exactly THREE stamens and three long deep-red saffron threads, whereas Colchicum (Colchicaceae) has SIX stamens and no red threads and is lethally toxic (colchicine, no ready antidote). If in any doubt, do not harvest."
 traditional_uses:
   text: Saffron has a long Mediterranean, Middle Eastern and South Asian tradition as both a prized culinary
     spice/dye and a medicinal herb, used for mood support, digestive complaints and as a mild emmenagogue;
@@ -321,7 +334,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -347,4 +360,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   D6 (entity gap) 2026-07-20: this plant named a defining constituent that had NO entity in compounds/,
   so it resolved to nothing and would have emitted no practice recommendation. Entity created and the
   constituent wired to it. Only the molecules the entry already names were wired - no constituent was
-  reinterpreted.'
+  reinterpreted. | 2026-08-14: Harvest Calendar (phenological) - added harvest_readiness for stigma
+  (verified: PFAF REF-3239 + independent Wikipedia REF-3240; autumn flowering, stigmas gathered at dawn as
+  the flowers open). Safety clause cross-links Dangerous Lookalikes (Colchicum autumnale, fatal): the
+  autumn-flowering harvest stage is itself the fatal-confusion window, so the signal names the decisive
+  3-vs-6 stamen test. Binomial confirmed.'

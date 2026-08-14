@@ -17906,6 +17906,54 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "flower",
+     "signals": [
+      "Gather the flowering tops (creamy blossom with the young leaves) in spring, as the blossom opens."
+     ],
+     "basis": "traditional",
+     "source_quote": "an explosion of pretty pale-pink blossom in May",
+     "reference_ids": [
+      "REF-3237",
+      "REF-3238"
+     ],
+     "independent_confirmation": "PFAF (REF-3238) 'It is in flower from May to June' independently confirms the Woodland Trust (REF-3237) spring-blossom stage; two independent prisms agree.",
+     "species_confirmed": true,
+     "status": "verified",
+     "notes": "Woodland Trust (REF-3237) 'blossom in May' and PFAF (REF-3238) 'in flower from May to June' both place flowering in spring; the flowering tops are gathered as folium cum flore with the young leaf."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the young leaves in spring as they emerge, among the first of the hedgerow, with the flowering shoots."
+     ],
+     "basis": "traditional",
+     "source_quote": "The pale green leaves of this hedgerow staple are often the first to appear in spring",
+     "reference_ids": [
+      "REF-3237"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Woodland Trust (REF-3237); the young leaf is among the first to appear in spring and is gathered with the flowering shoots (folium cum flore). Single source for the leaf specifically -> provisional."
+    },
+    {
+     "part": "fruit",
+     "signals": [
+      "Gather the haws in autumn as they ripen to deep red, following the flowers."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower from May to June, and the seeds ripen from September to November.",
+     "reference_ids": [
+      "REF-3238"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3238); the haws ripen in autumn ('seeds ripen from September to November'; 'Hawthorn berries are typically harvested in late Summer to early Autumn'). Woodland Trust gave no fruit-ripening stage. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Common hawthorn shares the same long cardiovascular and calming tradition as midland hawthorn, used across European herbal medicine as a heart tonic for mild circulatory complaints, palpitations and nervous tension, and remains one of the most clinically studied cardiovascular botanicals.",
     "reference_ids": [
@@ -18165,7 +18213,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "hawthorn"
   },
   {
@@ -18209,6 +18257,24 @@
     "season": "Autumn, at flowering, harvested at dawn",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "stigma",
+     "signals": [
+      "Gather the crimson stigmas in autumn as the flowers open: pick the flowers at dawn on the day they bloom, before they wilt, and hand-separate the three red styles/stigmas."
+     ],
+     "basis": "traditional",
+     "source_quote": "It is in flower in October. The styles are harvested in the autumn when the plant is in flower and are dried for later use.",
+     "reference_ids": [
+      "REF-3239",
+      "REF-3240"
+     ],
+     "independent_confirmation": "Wikipedia (REF-3240), an independent non-Ken-Fern prism, confirms the same autumn/dawn stage: 'Only in October ... do its brilliantly hued flowers develop' and 'after blossoming at dawn, flowers quickly wilt as the day passes.'",
+     "species_confirmed": true,
+     "status": "verified",
+     "notes": "PFAF (REF-3239, Ken Fern lineage) and Wikipedia (REF-3240, independent) agree: autumn flowering, stigmas gathered as the flowers open at dawn. SAFETY: the autumn-flowering harvest stage coincides exactly with the deadly Colchicum autumnale (autumn crocus / meadow saffron), a classic fatal confusion. Confirm identity before gathering - see Dangerous Lookalikes: true saffron (Crocus sativus, Iridaceae) has exactly THREE stamens and three long deep-red saffron threads, whereas Colchicum (Colchicaceae) has SIX stamens and no red threads and is lethally toxic (colchicine, no ready antidote). If in any doubt, do not harvest."
+    }
+   ],
    "traditional_uses": {
     "text": "Saffron has a long Mediterranean, Middle Eastern and South Asian tradition as both a prized culinary spice/dye and a medicinal herb, used for mood support, digestive complaints and as a mild emmenagogue; its traditional mood-lifting reputation is now supported by clinical trials comparing standardised saffron extract to conventional antidepressants for mild-to-moderate depression.",
     "reference_ids": [
@@ -18560,7 +18626,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "saffron"
   },
   {
@@ -18617,6 +18683,23 @@
     "season": "Mid- to late summer",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "seed",
+     "signals": [
+      "Cut the seed heads when the fruits (seeds) are fully ripe in late summer, before they shatter; then dry and thresh."
+     ],
+     "basis": "traditional",
+     "source_quote": "in flower from June to July, and the seeds ripen from August to September ... The seed is harvested when fully ripe and is then dried and stored in airtight jars",
+     "reference_ids": [
+      "REF-3241"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "PFAF (REF-3241, Ken Fern lineage): seeds ripen in late summer and are harvested when fully ripe. Independent phenophase confirmation not found - Wikipedia (Cumin) gives sowing/harvest MONTHS only ('harvested by hand'), and Gernot Katzer's spice page gives no harvest stage; Gardenia.net returned 403. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Cumin seed has an ancient culinary and medicinal history across the Middle East, South Asia and the Mediterranean as a warming digestive carminative for indigestion, bloating and cramping, and is one of the most widely used spices worldwide.",
     "status": "draft"
@@ -19152,7 +19235,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "cumin"
   },
   {
@@ -19199,6 +19282,23 @@
     "season": "End of growing season, 8-10 months after planting",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "rhizome",
+     "signals": [
+      "Lift the rhizomes at the end of the season, once the foliage withers and dies back into dormancy."
+     ],
+     "basis": "traditional",
+     "source_quote": "the crop is harvested when the leaves wither after 270 - 365 days",
+     "reference_ids": [
+      "REF-3242"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Tropical Plants / Ken Fern (REF-3242): rhizomes are lifted at roughly 9-12 months once the leaves wither. Independent confirmation not found - Wikipedia (Turmeric) gives no readiness signal ('gathered each year for their rhizomes'), and Britannica and Gardening Know How returned 403/404. Single lineage -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Turmeric rhizome is a cornerstone spice and medicine of Ayurvedic and traditional Chinese medicine, used for millennia as an anti-inflammatory, digestive and wound-healing remedy and valued as a golden dye; its curcuminoid-rich rhizome is now among the most extensively researched botanicals for inflammatory and joint conditions, directly building on this traditional reputation.",
     "reference_ids": [
@@ -19515,7 +19615,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "turmeric"
   },
   {
@@ -19604,6 +19704,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves just before the plant flowers."
+     ],
+     "basis": "traditional",
+     "source_quote": "The leaves are best harvested just before the plant flowers, and can be used fresh or dried.",
+     "reference_ids": [
+      "REF-3243"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants / Ken Fern (REF-3243), filed under the accepted name Cynara cardunculus (the globe artichoke is Cynara cardunculus var. scolymus): the leaves are best gathered just before flowering. The plant's harvesting.text also claims cynarin / caffeoylquinic acid peaks before flowering, but REF-0461 (a pharmacology review of artichoke leaf extract) does NOT state that timing, so basis is kept traditional rather than constituent (per the audit finding that harvesting.status=verified does not mean the timing is sourced). Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Artichoke leaf has a long Mediterranean folk history as a bitter digestive and liver remedy, used to stimulate bile flow and ease dyspeptic complaints such as indigestion, bloating and fullness, and as a traditional hepatoprotective 'liver tonic'; modern standardised leaf extracts are also studied for supporting healthy cholesterol levels.",
     "reference_ids": [
@@ -19797,7 +19914,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "artichoke"
   },
   {

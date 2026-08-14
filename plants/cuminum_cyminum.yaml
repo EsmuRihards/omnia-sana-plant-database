@@ -45,6 +45,18 @@ harvesting:
   - Seed
   season: Mid- to late summer
   status: draft
+harvest_readiness:
+- part: seed
+  signals:
+  - "Cut the seed heads when the fruits (seeds) are fully ripe in late summer, before they shatter; then dry and thresh."
+  basis: traditional
+  source_quote: "in flower from June to July, and the seeds ripen from August to September ... The seed is harvested when fully ripe and is then dried and stored in airtight jars"
+  reference_ids:
+  - REF-3241
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "PFAF (REF-3241, Ken Fern lineage): seeds ripen in late summer and are harvested when fully ripe. Independent phenophase confirmation not found - Wikipedia (Cumin) gives sowing/harvest MONTHS only ('harvested by hand'), and Gernot Katzer's spice page gives no harvest stage; Gardenia.net returned 403. Single lineage -> provisional."
 traditional_uses:
   text: Cumin seed has an ancient culinary and medicinal history across the Middle East, South Asia and
     the Mediterranean as a warming digestive carminative for indigestion, bloating and cramping, and is
@@ -521,7 +533,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx). reference_ids are
   plant-level: the book lists parts and actions as flat, unmapped lists, so the full set of references cited
   for this plant is attached to each action rather than split per action. constituents not yet extracted —
@@ -542,4 +554,8 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   medicinal plants Volumes 1-4, indexed by Latin drug title with each monograph''s Definition read to
   confirm the species - 177 monographs indexed; (3) this plant''s own reference bucket, mined for human
   studies that state an administered dose. Per the campaign''s integrity bar the entry is left unsourced at
-  status draft rather than attached to a tangentially-related paper.'
+  status draft rather than attached to a tangentially-related paper. | 2026-08-14: Harvest Calendar
+  (phenological) - added harvest_readiness for seed (provisional: PFAF REF-3241; seed heads cut when the
+  fruit is fully ripe in late summer). Independent phenophase confirmation not found - Wikipedia (Cumin)
+  gave harvest MONTHS only, Gernot Katzer gave no harvest stage, Gardenia 403 - all logged. Binomial
+  confirmed.'

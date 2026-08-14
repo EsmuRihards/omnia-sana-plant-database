@@ -14261,6 +14261,24 @@
     "season": "During active growth (warm season)",
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the leafy aerial parts (the creeping leaf-and-stolon mats) at any time during active growth in the warm season; use fresh or dried.",
+      "SAFETY: gotu kola's rounded leaves can be confused with creeping buttercup (Ranunculus repens); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant can be harvested at any time of the year and is used fresh or dried",
+     "reference_ids": [
+      "REF-3227"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3227) for Centella asiatica; 'whole plants are generally harvested at any suitable time of the year' during active growth. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Gotu kola is a cornerstone herb of Ayurvedic and traditional Chinese medicine, valued as a 'rasayana' (rejuvenating) tonic for skin healing, memory and mental clarity, and calming the mind; it has a particularly strong traditional and modern reputation for wound healing and connective-tissue/vascular support, reflected in its widespread use for scars, minor wounds and varicose veins.",
     "reference_ids": [
@@ -14608,7 +14626,7 @@
    ],
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "gotu-kola"
   },
   {
@@ -14667,6 +14685,45 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "shoot",
+     "signals": [
+      "Gather the young shoots while young and tender (in spring), before the plant grows tall and flowers; the young shoots are cooked like asparagus.",
+      "SAFETY: young fireweed shoots can be confused with the FATAL white/false hellebore (Veratrum album) at the spring shoot stage; confirm identity before gathering — see this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "Young leaves and shoots can be consumed",
+     "reference_ids": [
+      "REF-3231"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Edible Wild Food (REF-3231) for Chamerion angustifolium (syn. Epilobium angustifolium); the young stage is the part used. A clean seasonal/phenophase statement could not be retrieved (theferns had no record; US Forest Service and Gardenia returned 403; PFAF was empty). Single source -> provisional."
+    },
+    {
+     "part": "leaf",
+     "signals": [
+      "Gather the leaves while young; the young fireweed leaves are the ones used (for tea and as a potherb).",
+      "SAFETY: confirm identity before gathering — young fireweed can be confused with the FATAL Veratrum album. See this plant's Dangerous Lookalikes."
+     ],
+     "basis": "traditional",
+     "source_quote": "Young leaves and shoots can be consumed",
+     "reference_ids": [
+      "REF-3231"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Edible Wild Food (REF-3231). Single source -> provisional."
+    },
+    {
+     "part": "flower",
+     "status": "gap",
+     "notes": "No phenological harvest signal found for the fireweed FLOWER in the seams searched (Edible Wild Food gives only the young leaves/shoots; theferns had no record; US Forest Service and Gardenia returned 403; PFAF was empty). The flowers would be gathered when open, but no source states a readiness stage. Recorded as a documented dead end."
+    }
+   ],
    "traditional_uses": {
     "text": "Fireweed has a long circumpolar tradition as a food plant (young shoots as a spring vegetable, fermented leaf as 'Ivan-chai' tea) and as a folk remedy for digestive complaints and topically as a poultice for wounds and skin inflammation, reflecting its astringent, anti-inflammatory character.",
     "reference_ids": [
@@ -14978,7 +15035,7 @@
    ],
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "fireweed"
   },
   {
@@ -15065,6 +15122,23 @@
     ],
     "status": "verified"
    },
+   "harvest_readiness": [
+    {
+     "part": "aerial-parts",
+     "signals": [
+      "Gather the flowering aerial parts in spring as the plant comes into flower; use fresh — the bright orange latex flows from the cut stems."
+     ],
+     "basis": "traditional",
+     "source_quote": "The plant is harvested in the spring as it comes into flower, it is best used fresh",
+     "reference_ids": [
+      "REF-3228"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3228) for Chelidonium majus. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Greater celandine has a long European folk history, reflected in its name 'tetterwort', as a topical remedy for warts and skin blemishes (the fresh orange latex dabbed directly on), and internally as a bitter choleretic digestive remedy for biliary and upper-abdominal dyspepsia - though oral use is now medically restricted because of documented liver injury.",
     "reference_ids": [
@@ -15352,7 +15426,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "needs-review",
-   "last_updated": "2026-07-13",
+   "last_updated": "2026-08-14",
    "common_slug": "greater-celandine"
   },
   {
@@ -15426,6 +15500,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "bark",
+     "signals": [
+      "Cut the coppiced stems close to the ground during the rainy season, when the bark is most pliable and loosest, then strip the outer bark and carefully peel the inner bark."
+     ],
+     "basis": "traditional",
+     "source_quote": "Harvesting is usually done during the rainy season when the bark is more pliable.",
+     "reference_ids": [
+      "REF-3230"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "RawSpiceBar (REF-3230), which names Cinnamomum cassia and describes cutting the stems and peeling the inner bark in the rainy season. Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "Cassia bark (rou gui) is a major warming spice and digestive remedy of traditional Chinese medicine, used for cold-type digestive complaints, circulation and metabolic support; its cinnamaldehyde-rich bark is now widely studied as an adjunct for blood glucose and lipid management in type 2 diabetes, directly building on this traditional metabolic reputation.",
     "reference_ids": [
@@ -15615,7 +15706,7 @@
    },
    "provenance": "website+pubmed+symptom-tool",
    "status": "verified",
-   "last_updated": "2026-07-11",
+   "last_updated": "2026-08-14",
    "common_slug": "cassia-cinnamon"
   },
   {
@@ -15682,6 +15773,23 @@
     ],
     "status": "draft"
    },
+   "harvest_readiness": [
+    {
+     "part": "bark",
+     "signals": [
+      "Cut the straight coppiced shoots (the flush of regrowth after cropping) during the rainy season, when the bark peels most easily, and strip the bark for quills."
+     ],
+     "basis": "traditional",
+     "source_quote": "Stems are cut during the rainy season to facilitate peeling of the bark in 2 longitudinal strips",
+     "reference_ids": [
+      "REF-3229"
+     ],
+     "independent_confirmation": null,
+     "species_confirmed": true,
+     "status": "provisional",
+     "notes": "Useful Temperate Plants (REF-3229) for Cinnamomum verum; the bark is peeled from the 'flush of straight shoots generated by coppicing.' Single source -> provisional."
+    }
+   ],
    "traditional_uses": {
     "text": "True cinnamon bark has an ancient trade and medicinal history across Asia, the Middle East and Europe as a warming digestive and circulatory remedy, used for indigestion and as a general tonic spice; because it contains only trace coumarin, it is considered the safer species for frequent or medicinal use compared with cassia.",
     "reference_ids": [
@@ -15999,7 +16107,7 @@
    },
    "provenance": "book+pubmed",
    "status": "verified",
-   "last_updated": "2026-07-20",
+   "last_updated": "2026-08-14",
    "common_slug": "true-cinnamon"
   },
   {

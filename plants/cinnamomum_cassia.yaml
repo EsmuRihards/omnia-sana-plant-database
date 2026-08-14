@@ -56,6 +56,18 @@ harvesting:
   parts:
   - Bark
   status: draft
+harvest_readiness:
+- part: bark
+  signals:
+  - "Cut the coppiced stems close to the ground during the rainy season, when the bark is most pliable and loosest, then strip the outer bark and carefully peel the inner bark."
+  basis: traditional
+  source_quote: "Harvesting is usually done during the rainy season when the bark is more pliable."
+  reference_ids:
+  - REF-3230
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "RawSpiceBar (REF-3230), which names Cinnamomum cassia and describes cutting the stems and peeling the inner bark in the rainy season. Single source -> provisional."
 traditional_uses:
   text: Cassia bark (rou gui) is a major warming spice and digestive remedy of traditional Chinese medicine,
     used for cold-type digestive complaints, circulation and metabolic support; its cinnamaldehyde-rich
@@ -200,7 +212,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-11'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Family Medicine meta-analysis;
   cassia-bark glucose/lipid meta-analysis). Originally a skeleton imported from the omniasana.bio Symptom-to-Plant
   Lookup tool (blood-sugar, high-cholesterol, indigestion); associations retained and now part-mapped
@@ -213,4 +225,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Famil
   REF-1826, REF-1827, REF-1828) — woven into relevant actions/indications and the plant-level references
   bucket. | 2026-07-11: added monograph-base fields (botanical_description, habitat, harvesting, traditional_uses,
   preparations, dosage) sourced from the existing references bucket; general/undated claims marked status:
-  draft per the integrity-first sourcing policy.'
+  draft per the integrity-first sourcing policy. | 2026-08-14 (harvest-calendar campaign, Batch 8): added
+  harvest_readiness for the bark (provisional) — cut coppiced stems and peel the inner bark in the rainy
+  season, when the bark is most pliable; sourced to RawSpiceBar (REF-3230, which names Cinnamomum cassia).
+  No prior harvesting.season existed.'

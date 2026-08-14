@@ -50,6 +50,34 @@ harvesting:
   reference_ids:
   - REF-1658
   status: verified
+harvest_readiness:
+- part: shoot
+  signals:
+  - "Gather the young shoots while young and tender (in spring), before the plant grows tall and flowers; the young shoots are cooked like asparagus."
+  - "SAFETY: young fireweed shoots can be confused with the FATAL white/false hellebore (Veratrum album) at the spring shoot stage; confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "Young leaves and shoots can be consumed"
+  reference_ids:
+  - REF-3231
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Edible Wild Food (REF-3231) for Chamerion angustifolium (syn. Epilobium angustifolium); the young stage is the part used. A clean seasonal/phenophase statement could not be retrieved (theferns had no record; US Forest Service and Gardenia returned 403; PFAF was empty). Single source -> provisional."
+- part: leaf
+  signals:
+  - "Gather the leaves while young; the young fireweed leaves are the ones used (for tea and as a potherb)."
+  - "SAFETY: confirm identity before gathering — young fireweed can be confused with the FATAL Veratrum album. See this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "Young leaves and shoots can be consumed"
+  reference_ids:
+  - REF-3231
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Edible Wild Food (REF-3231). Single source -> provisional."
+- part: flower
+  status: gap
+  notes: "No phenological harvest signal found for the fireweed FLOWER in the seams searched (Edible Wild Food gives only the young leaves/shoots; theferns had no record; US Forest Service and Gardenia returned 403; PFAF was empty). The flowers would be gathered when open, but no source states a readiness stage. Recorded as a documented dead end."
 traditional_uses:
   text: Fireweed has a long circumpolar tradition as a food plant (young shoots as a spring vegetable,
     fermented leaf as 'Ivan-chai' tea) and as a folk remedy for digestive complaints and topically as
@@ -304,7 +332,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: book+pubmed
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok_with_additions.docx).
   reference_ids are plant-level: the book lists parts and actions as flat, unmapped lists, so the full
   set of references cited for this plant is attached to each action rather than split per action. constituents
@@ -326,4 +354,9 @@ internal_notes: 'Bulk-ingested from the Omnia Sana book manuscript (Koffetablbok
   (Health Canada NNHPD, ESCOP, Commission E), may still resolve these. ''Poultice'': The willowherb monograph
   gives an oral herbal tea only, with a urinary-tract safety note. No cutaneous route, no poultice, no
   wound application. | ''Young shoots (culinary)'': The monograph covers the comminuted herb as a tea.
-  It says nothing about eating peeled young spring shoots as a vegetable.'
+  It says nothing about eating peeled young spring shoots as a vegetable. | 2026-08-14 (harvest-calendar
+  campaign, Batch 8): added harvest_readiness — young sprouts (mapped to shoot) and leaf provisional
+  (gathered young; Edible Wild Food REF-3231; a clean seasonal/phenophase statement could not be retrieved —
+  theferns had no record, US Forest Service and Gardenia 403, PFAF empty); flower gap. Strong safety
+  cross-link to the FATAL false-hellebore (Veratrum album) young-shoot confusion. Existing harvesting.season
+  not inherited.'

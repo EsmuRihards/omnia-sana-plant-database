@@ -55,6 +55,19 @@ harvesting:
   - Aerial parts (leaf and herb)
   season: During active growth (warm season)
   status: draft
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the leafy aerial parts (the creeping leaf-and-stolon mats) at any time during active growth in the warm season; use fresh or dried."
+  - "SAFETY: gotu kola's rounded leaves can be confused with creeping buttercup (Ranunculus repens); confirm identity before gathering — see this plant's Dangerous Lookalikes."
+  basis: traditional
+  source_quote: "The plant can be harvested at any time of the year and is used fresh or dried"
+  reference_ids:
+  - REF-3227
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3227) for Centella asiatica; 'whole plants are generally harvested at any suitable time of the year' during active growth. Single source -> provisional."
 traditional_uses:
   text: Gotu kola is a cornerstone herb of Ayurvedic and traditional Chinese medicine, valued as a 'rasayana'
     (rejuvenating) tonic for skin healing, memory and mental clarity, and calming the mind; it has a particularly
@@ -314,7 +327,7 @@ dangerous_lookalikes:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: verified
-last_updated: '2026-07-20'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med review of asiaticoside/madecassoside;
   Panminerva Medica status paper on titrated Centella extract). Originally a skeleton imported from the
   omniasana.bio Symptom-to-Plant Lookup tool (wounds, anxiety, memory, varicose-veins, cognitive-function);
@@ -339,4 +352,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (J Cell Mol Med 
   on this record, judged from their stored posology summaries and not from the full monograph PDFs - a
   later pass with the PDFs, or a new seam (Health Canada NNHPD, ESCOP, Commission E), may still resolve
   these. ''Infusion'': The summary states CUTANEOUS USE ONLY and that the monograph gives no oral posology.
-  The infusion it describes is applied as an impregnated dressing, not drunk. Wrong route.'
+  The infusion it describes is applied as an impregnated dressing, not drunk. Wrong route. | 2026-08-14
+  (harvest-calendar campaign, Batch 8): added harvest_readiness for the aerial parts (provisional) — gather
+  the leafy mats at any time during active growth; sourced to Useful Temperate Plants (REF-3227). Safety
+  cross-link to the creeping-buttercup (Ranunculus repens) lookalike. Existing harvesting.season not inherited.'

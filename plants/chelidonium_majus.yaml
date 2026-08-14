@@ -64,6 +64,18 @@ harvesting:
   reference_ids:
   - REF-0460
   status: verified
+harvest_readiness:
+- part: aerial-parts
+  signals:
+  - "Gather the flowering aerial parts in spring as the plant comes into flower; use fresh — the bright orange latex flows from the cut stems."
+  basis: traditional
+  source_quote: "The plant is harvested in the spring as it comes into flower, it is best used fresh"
+  reference_ids:
+  - REF-3228
+  independent_confirmation: null
+  species_confirmed: true
+  status: provisional
+  notes: "Useful Temperate Plants (REF-3228) for Chelidonium majus. Single source -> provisional."
 traditional_uses:
   text: Greater celandine has a long European folk history, reflected in its name 'tetterwort', as a topical
     remedy for warts and skin blemishes (the fresh orange latex dabbed directly on), and internally as
@@ -251,7 +263,7 @@ lookalikes_review:
   reviewed_date: '2026-07-07'
 provenance: website+pubmed+symptom-tool
 status: needs-review
-last_updated: '2026-07-13'
+last_updated: '2026-08-14'
 internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepatology clinical review
   of hepatotoxicity; Forschende Komplementarmedizin integrative review). Record status set to needs-review
   because oral use carries a documented hepatotoxicity risk that regulators have restricted. Originally
@@ -267,4 +279,7 @@ internal_notes: 'Enriched 2026-06-12 from scientific literature (Annals of Hepat
   monograph-base fields (botanical_description, habitat, harvesting, traditional_uses, preparations, dosage)
   sourced from the existing references bucket; general/undated claims marked status: draft per the integrity-first
   sourcing policy. | 2026-07-13: added anticancer action (where absent) + cancer indication (anticancer/antitumour
-  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign.'
+  research) sourced from the plant''s cited literature, as part of the cancer-condition campaign. | 2026-08-14
+  (harvest-calendar campaign, Batch 8): added harvest_readiness for the aerial parts (provisional) — gather
+  in spring as it comes into flower, used fresh (the orange latex flows from cut stems); sourced to Useful
+  Temperate Plants (REF-3228). Existing harvesting.season not inherited.'
